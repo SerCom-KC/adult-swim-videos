@@ -1,5 +1,55 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1579237140,
+        "tms_id": "EP024665470008",
+        "description": "Saitama is a guy who's a hero for fun. After saving a child from certain death, he decided to become a hero and trained hard for three years.",
+        "title_suggest": {
+            "input": [
+                "The Strongest Man",
+                "Strongest Man",
+                "Man"
+            ]
+        },
+        "title": "The Strongest Man",
+        "type": "episode",
+        "expiration_date": 1573793940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "xZSM7jD5QCe6QOiQJ_-sxQ",
+        "duration": 1384.8341675,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573794000,
+        "modified": 1573662725,
+        "media_id": "b783bff4283e09bd046dc0305d19c99516c18bdf",
+        "airing_id": "RADS1010181900028724",
+        "id": "6KNygD1TR4iC01Gl0ohYfw",
+        "slug": "the-strongest-man",
+        "views": 51154,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1468566619,
+        "title_id": "2091992",
+        "tv_rating": "tv-14",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1573662725,
+        "first_published": 1468566619,
+        "tags": [],
+        "collection_title": "One-Punch Man",
+        "modified_by": "ODT Listener",
+        "launch_date": 1571976000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-strongest-man/onepunchman_001_air_cid-2W3XV.jpg",
+        "cma_id": "1458252"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1572767940,
         "tms_id": "EP024821630015",
