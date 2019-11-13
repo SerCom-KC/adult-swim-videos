@@ -748,6 +748,54 @@
         "cma_id": "1348519"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1579841940,
+        "tms_id": "EP019059960056",
+        "description": "Utgard Castle comes crumbling down as Ymir desperately battles the Titans. Now, Christa must fulfill the promise they made long ago during winter training.",
+        "title_suggest": {
+            "input": [
+                "Historia"
+            ]
+        },
+        "title": "Historia",
+        "type": "episode",
+        "expiration_date": 1573793940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+        "duration": 1383.1668057,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573794000,
+        "modified": 1573660581,
+        "media_id": "2ac4d34e23b82c75d7647a3cf9caf084694cb6ea",
+        "airing_id": "RADS1010261900030241",
+        "id": "HcWnKjjaTai9QTyhQRBKLg",
+        "slug": "historia",
+        "views": 12527,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1495462281,
+        "season_number": "2",
+        "title_id": "2117209",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573660581,
+        "first_published": 1495462281,
+        "tags": [],
+        "collection_title": "Attack on Titan",
+        "modified_by": "ODT Listener",
+        "launch_date": 1572580800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/historia/attackontitan_030_dup-05172017.jpg",
+        "cma_id": "2117209"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1578632340,
