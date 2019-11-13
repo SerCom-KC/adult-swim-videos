@@ -1,0 +1,96 @@
+[
+    {
+        "auth": false,
+        "ott_launch_date": 1448298780,
+        "tms_id": "EP010969750003",
+        "rating": 7.4714285714286,
+        "description": "While the United States transitions from British control to an independent nation, Thomas Jefferson's troubles mount and he finds himself forced into hiding.",
+        "title_suggest": {
+            "input": [
+                "Part 2",
+                "2"
+            ]
+        },
+        "type": "episode",
+        "title": "Part 2",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5Zut-MqGTwylVh_XYoG_oQ",
+        "duration": 664.86,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1493157414,
+        "id": "M-YgGg2JQXW1im55msO87Q",
+        "slug": "part-2",
+        "views": 102036,
+        "created": 1402945482,
+        "title_id": "744787",
+        "tv_rating": "tv-ma",
+        "season_number": "1",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1493157414,
+        "tags": [],
+        "rating_count": 490,
+        "collection_title": "Young Person's Guide to History",
+        "modified_by": "Dominique Barfield",
+        "launch_date": 1435762800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/part-2/ypgth_002_bim.jpg",
+        "cma_id": "980697"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1448298720,
+        "auth_expiration_date": null,
+        "tms_id": "EP010969750001",
+        "rating": 6.3154362416107,
+        "description": "The trials of founding a new democracy, unique to the world, severely test founding father Thomas Jefferson.",
+        "title_suggest": {
+            "input": [
+                "Part 1",
+                "1"
+            ]
+        },
+        "type": "episode",
+        "title": "Part 1",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5Zut-MqGTwylVh_XYoG_oQ",
+        "duration": 749.22,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1526594965,
+        "media_id": "",
+        "id": "tXGetF0mQKCdMe6Q8XQbeA",
+        "slug": "part-1",
+        "views": 210320,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945482,
+        "title_id": "744786",
+        "tv_rating": "tv-ma",
+        "season_number": "1",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1526594965,
+        "tags": [],
+        "rating_count": 1341,
+        "collection_title": "Young Person's Guide to History",
+        "modified_by": "Justin Gardner",
+        "launch_date": 1435762800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/part-1/ypgth_001_bim.jpg",
+        "cma_id": "980580"
+    }
+]
