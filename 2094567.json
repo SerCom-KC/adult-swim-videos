@@ -388,6 +388,54 @@
         "auth": true
     },
     {
+        "ott_launch_date": 1542641400,
+        "auth_expiration_date": 1575003540,
+        "tms_id": "",
+        "description": "88 eats Ahmed's pickle without knowing that the pickle has been pickled. The journey begins.",
+        "title_suggest": {
+            "input": [
+                "Pickle Trip",
+                "Trip"
+            ]
+        },
+        "title": "Pickle Trip",
+        "expiration_date": 1571889540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 737.83,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1571976000,
+        "clip_order": null,
+        "media_id": "206c01fd01e8fcbed4b6f6a25cf1fd218e62b0b5",
+        "modified": 1573766347,
+        "airing_id": "RADS1010181900028729",
+        "slug": "pickle-trip",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154221713012610.jpg",
+        "created": 1538495507,
+        "season_number": "2",
+        "title_id": "2133694",
+        "tv_rating": "tv-14-ls",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573766347,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1569470400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221713012610.jpg",
+        "id": "AWY1emxah5enQuYyI6yr",
+        "auth": true
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
