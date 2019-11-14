@@ -208,5 +208,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20190816/thumbnails/2_198161139148-genlock_003_dup-20190725.jpg",
         "id": "AWyVqFBPCorLtcgfltrB",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1571716799,
+        "tms_id": "EP032701900008",
+        "description": "The gen:LOCK team begins rigorous training to master their mecha. The recruits get better acquainted during a rare moment of downtime. While on the gen: LOCK team's first field mission, a new threat emerges from the shadows.",
+        "title_suggest": {
+            "input": [
+                "Training Daze",
+                "Daze"
+            ]
+        },
+        "title": "Training Daze",
+        "type": "episode",
+        "expiration_date": 1574917199,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWvnoDt9CorLtcgflsOx",
+        "duration": 1427.76,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1569740400,
+        "clip_order": null,
+        "airing_id": "RADS1011131900037055",
+        "media_id": "4c14849409387b2a4429db5eab9b10c3b0a76fd2",
+        "modified": 1573684211,
+        "slug": "training-daze",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190823/thumbnails/1_19823158274-genlock_004_dup-20190725.jpg",
+        "created": 1566575176,
+        "title_id": "2201608",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573684211,
+        "tags": [],
+        "collection_title": "gen:LOCK",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1573707600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20190823/thumbnails/2_19823158274-genlock_004_dup-20190725.jpg",
+        "id": "AWy_KCo44aLemgzOLGS4",
+        "auth": false
     }
 ]

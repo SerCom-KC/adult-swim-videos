@@ -585,56 +585,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447785600,
-        "auth_expiration_date": 1573707540,
-        "tms_id": "EP019881990004",
-        "description": "Dan Dimler gets a surprise on the heels of his son Patrick's Sweet 17 when Scotty shows up at the door peddling his latest DVD.",
-        "title_suggest": {
-            "input": [
-                "Angel Boy",
-                "Boy"
-            ]
-        },
-        "expiration_date": 1570679940,
-        "title": "Angel Boy",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 675.51,
-        "episode_number": "4",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1570680000,
-        "modified": 1570473617,
-        "media_id": "e6d3043b4192a84187f5a0392cf5a57af439cdf6",
-        "airing_id": "RADS1009011900017926",
-        "id": "pZSnNyF2TJWPT-y7DD6bTA",
-        "slug": "angel-boy",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1410544731,
-        "season_number": "1",
-        "title_id": "2032606",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1570473617,
-        "first_published": 1412432425,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1567656000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/angel-boy/tebs_cc_104_pt1_1.jpg",
-        "cma_id": "1150927"
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1506954540,
         "auth_expiration_date": 1571284740,
         "tms_id": "EP019881990016",
@@ -779,5 +729,55 @@
         "launch_date": 1568260800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152950474525716.jpg",
         "cma_id": "1154562"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1505140140,
+        "auth_expiration_date": 1576731540,
+        "tms_id": "EP019881990014",
+        "description": "Maureen and Bryan's marriage is tested when The Duke enters the picture.",
+        "title_suggest": {
+            "input": [
+                "The Duke",
+                "Duke"
+            ]
+        },
+        "title": "The Duke",
+        "type": "episode",
+        "expiration_date": 1565841540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 676.42,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573707600,
+        "modified": 1573492242,
+        "media_id": "7eebdcdc489dff4543669e8e105d4eaa55ffd1aa",
+        "airing_id": "RADS1007081900004739",
+        "id": "vXcpK6hSQYWzvaV0i6DqBw",
+        "slug": "the-duke",
+        "views": 7775,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1504809823,
+        "season_number": "2",
+        "title_id": "2133109",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573492242,
+        "first_published": 1504809823,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1562817600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-duke/tebs_306_dup-20170905.jpg",
+        "cma_id": "1470838"
     }
 ]

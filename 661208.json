@@ -1,5 +1,53 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1447785000,
+        "auth_expiration_date": 1566359940,
+        "tms_id": "EP008994530050",
+        "rating": 8.877703,
+        "description": "Tairy Greene stars in Little Dancin' Man, not to be confused with Little Danson Man. (Guest starring: LeVar Burton, Peter Cetera, David Cross, Ted Danson, Zach Galifianakis, Richard Marx) ",
+        "title_suggest": {
+            "input": [
+                "Greene Machine",
+                "Machine"
+            ]
+        },
+        "type": "episode",
+        "title": "Greene Machine",
+        "expiration_date": 1576731540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 680.51,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1563336000,
+        "modified": 1573286059,
+        "media_id": "da118c4e386ccae6c17ff53f316ee553d40e22ae",
+        "airing_id": "RADS1011081900036079",
+        "id": "5vHhJDltSeyiEV10n9UDjw",
+        "slug": "greene-machine",
+        "views": 381717,
+        "created": 1402945481,
+        "title_id": "787512",
+        "season_number": "5",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1573286059,
+        "tags": [],
+        "rating_count": 1987,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1573707600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_506_pt1-03.jpg",
+        "cma_id": "1432177"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -596,68 +644,6 @@
         "launch_date": 1571889600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_509_pt1-05.jpg",
         "cma_id": "1233905"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447784940,
-        "auth_expiration_date": 1563335940,
-        "tms_id": "EP008994530045",
-        "rating": 8.586635,
-        "description": "Tim writes a tell-all expose about his comedy partner Eric. H'AMB saves a life. A couple Hollywood vets get All Dolled Up. (Guest starring: Karen Black, John C Reilly, William Sanderson)",
-        "title_suggest": {
-            "input": [
-                "Choices"
-            ]
-        },
-        "type": "episode",
-        "title": "Choices",
-        "expiration_date": 1573707540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 681.21,
-        "episode_number": "4",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1560312000,
-        "modified": 1570472304,
-        "media_id": "10fe10ec22dad54a480ee8dcf1f6337b5c5d0c1e",
-        "airing_id": "RADS1010071900026069",
-        "id": "iJlA25VnQx-cXPs4e5wFMQ",
-        "slug": "choices",
-        "views": 303103,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "787517",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1570472304,
-        "tags": [
-            "tim and eric",
-            "awesome show",
-            "great job",
-            "tim",
-            "expose",
-            "comedy",
-            "partner",
-            "eric",
-            "h'amb",
-            "hollywood",
-            "vet"
-        ],
-        "rating_count": 1991,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1570680000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_504_pt1-05.jpg",
-        "cma_id": "1422624"
     },
     {
         "auth": false,
