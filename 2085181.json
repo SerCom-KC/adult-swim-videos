@@ -393,6 +393,56 @@
         "cma_id": "2085187"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1469457000,
+        "auth_expiration_date": 1572494340,
+        "tms_id": "EP024500790003",
+        "description": "Animated sketches from the mind of Brad Neely. Special guest star Andre 3000.",
+        "title_suggest": {
+            "input": [
+                "For Aretha",
+                "Aretha"
+            ]
+        },
+        "title": "For Aretha",
+        "type": "episode",
+        "expiration_date": 1575521940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "1r8KVM1NTTWjxDdQ5UrEOA",
+        "duration": 678.007,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1570075200,
+        "modified": 1573766348,
+        "media_id": "a81b9726db1bfa39a53a01a5ecf0f7cec53c9021",
+        "airing_id": "RADS1010261900030190",
+        "id": "jgmmOgcURYKjObbc0xkjJA",
+        "slug": "for-aretha",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1469219352,
+        "season_number": "1",
+        "title_id": "2085189",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573766348,
+        "first_published": 1469219352,
+        "tags": [],
+        "collection_title": "Brad Neely's Harg Nallin' Sclopio Peepio",
+        "modified_by": "ODT Listener",
+        "launch_date": 1572494400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/for-aretha/bnhnsp_108_dup-20160421.jpg",
+        "cma_id": "2085189"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1472481000,
         "auth_expiration_date": 1575521940,
