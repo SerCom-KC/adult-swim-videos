@@ -1,5 +1,55 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": 1473690600,
+        "auth_expiration_date": 1576126740,
+        "tms_id": "EP024500790011",
+        "description": "Animated sketches from the mind of Brad Neely. Special guest star Jeffrey Tambor.",
+        "title_suggest": {
+            "input": [
+                "For Charlize",
+                "Charlize"
+            ]
+        },
+        "expiration_date": 1573102740,
+        "title": "For Charlize",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 677.005,
+        "collection_id": "1r8KVM1NTTWjxDdQ5UrEOA",
+        "episode_number": "9",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573707600,
+        "modified": 1573490603,
+        "media_id": "0d50de813e19464a6cdf1b875a62ccc68873680a",
+        "airing_id": "RADS1009271900024057",
+        "id": "7Z7uKtQOQfGSP1SazKclvg",
+        "slug": "for-charlize",
+        "views": 10896,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1473262049,
+        "season_number": "1",
+        "title_id": "2085190",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573490603,
+        "first_published": 1473318622,
+        "tags": [],
+        "collection_title": "Brad Neely's Harg Nallin' Sclopio Peepio",
+        "modified_by": "ODT Listener",
+        "launch_date": 1570075200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/for-charlize/bnhnsp_109_OTT_dup-20160803.jpg",
+        "cma_id": "1472733"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Harg Nallin Sclopio Peepio: F Your Pink Box",

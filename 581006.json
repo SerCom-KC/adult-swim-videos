@@ -245,55 +245,6 @@
         "cma_id": "1469000"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1573707540,
-        "tms_id": "EP007164450245",
-        "description": "Roger becomes a marionette and injures other students to help Steve win the school talent show. Stan, Hayley and Klaus start their own local honey business.",
-        "title_suggest": {
-            "input": [
-                "The Talented Mr. Dingleberry",
-                "Talented Mr. Dingleberry",
-                "Mr. Dingleberry",
-                "Dingleberry"
-            ]
-        },
-        "title": "The Talented Mr. Dingleberry",
-        "type": "episode",
-        "expiration_date": 1555945140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.1,
-        "episode_number": "21",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573102800,
-        "modified": 1572753612,
-        "media_id": "366101442a6bb7b18612b41dc9f46f31fad4248e",
-        "airing_id": "RADS1011031900033596",
-        "id": "DHxenpZFQmqu9ENjBxxVnQ",
-        "slug": "the-talented-mr-dingleberry",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151880435105520.jpg",
-        "created": 1494355773,
-        "season_number": "12",
-        "title_id": "2069547",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1572753612,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1555340400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1573797540,
@@ -786,6 +737,56 @@
         "launch_date": 1505188800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg",
         "cma_id": "1474112"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1574312340,
+        "tms_id": "EP007164450228",
+        "description": "Stan is embarrassed when a painting of Francine's genitals, done by a famous artist, is unveiled at the museum. Steve turns to helping people after masturbation is ruined by his mom's portrait.",
+        "title_suggest": {
+            "input": [
+                "Portrait of Francine's Genitals",
+                "of Francine's Genitals",
+                "Francine's Genitals",
+                "Genitals"
+            ]
+        },
+        "title": "Portrait of Francine's Genitals",
+        "type": "episode",
+        "expiration_date": 1557759540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.4,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1573707600,
+        "clip_order": null,
+        "modified": 1573286065,
+        "media_id": "11ace947a1678de01b3f446f06c28a4e33a58a9a",
+        "airing_id": "RADS1011081900036089",
+        "id": "hdcVKrFvQty4nyJhGa7MxQ",
+        "slug": "portrait-of-francines-genitals",
+        "views": 1047,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151752459586316.jpg",
+        "created": 1481112649,
+        "title_id": "2069535",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573286065,
+        "first_published": 1481112649,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1557154800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg",
+        "cma_id": "1338735"
     },
     {
         "auth": false,

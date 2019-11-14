@@ -1,6 +1,64 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1447174980,
+        "auth_expiration_date": 1545195540,
+        "tms_id": "EP014348550030",
+        "rating": 7.324324,
+        "description": "On the eve of delivering the commencement address at USSD, The President of the Navy has three big problems: He can't speak in public without a river of profanity, a member of NTSF is suspected of being programmed to assassinate him during the speech, and his only protection is a robo-cop.",
+        "title_suggest": {
+            "input": [
+                "Hawaii Die-O",
+                "Die-O"
+            ]
+        },
+        "type": "episode",
+        "title": "Hawaii Die-O",
+        "expiration_date": 1576731540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j-BhBPqwQCqEFZoouu4T5Q",
+        "duration": 674.01,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1542171600,
+        "modified": 1573288108,
+        "media_id": "2455291b339c38cabc9e48b22cab2833fe6d8cc3",
+        "airing_id": "RADS1011081900036072",
+        "id": "3loJy8UHSbSJZF-yic3P6g",
+        "slug": "hawaii-die-o",
+        "views": 10576,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945470,
+        "title_id": "2005259",
+        "season_number": "3",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573288108,
+        "tags": [
+            "ntsf:sd:suv::",
+            "hawaii",
+            "navy",
+            "robo-cop",
+            "assassination",
+            "mind-control"
+        ],
+        "rating_count": 37,
+        "collection_title": "NTSF:SD:SUV::",
+        "modified_by": "ODT Listener",
+        "launch_date": 1573707600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/hawaii-die-o/ntsf_304_HAWAII.jpg",
+        "cma_id": "1384448"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447174740,
         "auth_expiration_date": 1543381140,
         "tms_id": "EP014348550026",
@@ -193,56 +251,5 @@
         "launch_date": 1572494400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/inertia/ntsf_cc_215_CC_pt1_uytst-02.jpg",
         "cma_id": "1377356"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447174680,
-        "auth_expiration_date": 1542171540,
-        "tms_id": "EP014348550023",
-        "rating": 6.056818,
-        "description": "Alphonse travels home to Alaska to find out who murdered his former partner and to make amends with his father, who disowned him for using a cell phone.",
-        "title_suggest": {
-            "input": [
-                "Wasilla Hills Cop",
-                "Hills Cop",
-                "Cop"
-            ]
-        },
-        "type": "episode",
-        "title": "Wasilla Hills Cop",
-        "expiration_date": 1573707540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j-BhBPqwQCqEFZoouu4T5Q",
-        "duration": 670.015,
-        "episode_number": "12",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1539144000,
-        "modified": 1570468458,
-        "media_id": "9c0029ce145e317a913db901dd015f757df2082e",
-        "airing_id": "RADS1010071900026038",
-        "id": "xXpvZXuGRQqBq8oCkO2Nww",
-        "slug": "wasilla-hills-cop",
-        "views": 51757,
-        "thumbnail": "",
-        "created": 1402945470,
-        "title_id": "963241",
-        "season_number": "2",
-        "tv_rating": "tv-14-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1570468458,
-        "tags": [],
-        "rating_count": 176,
-        "collection_title": "NTSF:SD:SUV::",
-        "modified_by": "ODT Listener",
-        "launch_date": 1570680000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ntsf_cc_210_pt1-02.jpg",
-        "cma_id": "1364566"
     }
 ]
