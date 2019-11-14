@@ -100,6 +100,52 @@
         "cma_id": "1493996"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1574317740,
+        "tms_id": "EP012792980017",
+        "description": "Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes \"BOB SUX\" on the leader board.",
+        "title_suggest": {
+            "input": [
+                "Burgerboss"
+            ]
+        },
+        "title": "Burgerboss",
+        "type": "episode",
+        "expiration_date": 1508997599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.6551,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1573713000,
+        "clip_order": null,
+        "modified": 1573295767,
+        "media_id": "4cdd76bc8d9151f4f3355fc945013de870cca96f",
+        "airing_id": "RADS1011081900036090",
+        "id": "4d4V76qWQ1SI9IOvsnT-hA",
+        "slug": "burgerboss",
+        "views": 1,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15214844247735.jpg",
+        "created": 1407126037,
+        "title_id": "2003439",
+        "tv_rating": "tv-14",
+        "season_number": "2",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573295767,
+        "first_published": 1407126037,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1508392800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214844247735.jpg",
+        "cma_id": "2003439"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1571896740,
         "tms_id": "EP012792980138",
