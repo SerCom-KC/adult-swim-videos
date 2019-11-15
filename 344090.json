@@ -1340,5 +1340,50 @@
         "launch_date": 1555599600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/cowboybebop_cc_113_pt2-04.jpg",
         "cma_id": "1028196"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "tms_id": "EP004625790014",
+        "rating": 8.322652,
+        "description": "Tollbooths at the interstellar travel gates have become the scene of high-tech robberies, and there's a large bounty for the culprit. The Bebop's crew pools its information and tries to track down the mastermind behind all this, but their only clue is a seemingly worthless chess piece.",
+        "title_suggest": {
+            "input": [
+                "Bohemian Rhapsody",
+                "Rhapsody"
+            ]
+        },
+        "type": "episode",
+        "title": "Bohemian Rhapsody",
+        "expiration_date": 1630508340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "UXZ_vOajSbeWDPWBB_huVQ",
+        "duration": 1365.667334,
+        "episode_number": "14",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1573854726,
+        "airing_id": "RADS1005031900089585",
+        "media_id": "73899ee97034cd9720e0fa054cb5ab1ba4bbd0ec",
+        "id": "xt5b2SOjQLWl2UzmMtpzYg",
+        "slug": "bohemian-rhapsody",
+        "views": 137323,
+        "created": 1402945463,
+        "title_id": "344104",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1573854726,
+        "tags": [],
+        "rating_count": 437,
+        "collection_title": "Cowboy Bebop",
+        "modified_by": "ODT Listener",
+        "launch_date": 1556895600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/cowboybebop_cc_114_pt3-02.jpg",
+        "cma_id": "1030106"
     }
 ]
