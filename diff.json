@@ -1,66 +1,60 @@
 {
-    "updated": 1573849534,
-    "added": [],
-    "removed": [
+    "updated": 1573849830,
+    "added": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Toonami\u2019s taking you back to the very beginning. Suit up and join us for the exciting premiere of Mobile Suit Gundam: The Origin, joining our Saturday night lineup on July 6th at 3a!",
+            "auth_expiration_date": 1578891540,
+            "tms_id": "EP019059960077",
+            "description": "The operation to retake Wall Maria commences in Shiganshina, the town where everything began. But when the Scouts arrive, something seems very wrong.",
             "title_suggest": {
                 "input": [
-                    "Mobile Suit Gundam: The Origin",
-                    "Suit Gundam: The Origin",
-                    "Gundam: The Origin",
-                    "The Origin",
-                    "Origin"
+                    "The Town Where Everything Began",
+                    "Town Where Everything Began",
+                    "Where Everything Began",
+                    "Everything Began",
+                    "Began"
                 ]
             },
-            "title": "Mobile Suit Gundam: The Origin",
-            "expiration_date": null,
-            "type": "clip",
+            "title": "The Town Where Everything Began",
+            "type": "episode",
+            "expiration_date": 1574053140,
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "online-exclusive",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "AWuafjoUCorLtcgflriZ",
-            "duration": 70,
+            "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+            "duration": 1397.67,
+            "episode_number": "13",
             "original_air_date": null,
-            "auth_launch_date": null,
+            "auth_launch_date": 1574053200,
             "clip_order": null,
-            "media_id": "",
-            "modified": 1561666005,
-            "slug": "mobile-suit-gundam-the-origin",
+            "airing_id": "RADS1011151900037663",
+            "media_id": "40c4feb6743dde1109ce0bc728beb6e71be137ff",
+            "modified": 1573849706,
+            "slug": "the-town-where-everything-began",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156166578229611.jpg",
-            "created": 1561665825,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15590550609974.jpg",
+            "created": 1558710247,
+            "title_id": "2196258",
+            "season_number": "3",
+            "tv_rating": "tv-14-lv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1561666005,
-            "tags": [
-                "gundam",
-                "toonami",
-                "the origin",
-                "mobile suit",
-                "toonami",
-                "promo"
-            ],
-            "collection_title": "Mobile Suit Gundam: The Origin",
+            "published": 1573849706,
+            "tags": [],
+            "collection_title": "Attack on Titan",
             "disable_ads": false,
-            "modified_by": "Jared Marquez",
-            "launch_date": 1561608000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156166578229611.jpg",
-            "id": "AWuaiWzWCorLtcgflrio",
+            "modified_by": "ODT Listener",
+            "launch_date": 1572843600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15590550609974.jpg",
+            "id": "AWrqXuEBCorLtcgflqrB",
             "auth": false,
-            "collection_slug": "mobile-suit-gundam-the-origin",
-            "collection_title_id": "2200173",
-            "online_exclusives": true
+            "collection_slug": "attack-on-titan",
+            "collection_title_id": "2020945",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
