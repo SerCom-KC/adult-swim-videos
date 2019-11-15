@@ -2807,6 +2807,57 @@
     {
         "ott_launch_date": null,
         "auth_expiration_date": 1586168940,
+        "tms_id": "EP011491580209",
+        "description": "Gon recovers and sees his father, Ging for the first time.",
+        "title_suggest": {
+            "input": [
+                "Chairman x and x Release",
+                "x and x Release",
+                "and x Release",
+                "x Release",
+                "Release"
+            ]
+        },
+        "title": "Chairman x and x Release",
+        "type": "episode",
+        "expiration_date": 1563704940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EGrSj8gwQi-_OSsfVUNmiA",
+        "duration": 1345.23,
+        "episode_number": "39",
+        "original_air_date": null,
+        "auth_launch_date": 1563705000,
+        "clip_order": null,
+        "airing_id": "RADS1007171900006959",
+        "media_id": "9caa47ef753a28bd10013b10aeb50c67343d75ec",
+        "modified": 1573854967,
+        "slug": "chairman-x-and-x-release",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155994791405320.jpg",
+        "created": 1559683809,
+        "title_id": "2195393",
+        "season_number": "3",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573854967,
+        "tags": [],
+        "collection_title": "Hunter x Hunter",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1561890600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155994791405320.jpg",
+        "id": "AWskZkHXCorLtcgflq80",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586168940,
         "tms_id": "EP011491580210",
         "description": "Koala, a Chimera Ant, confesses all of his sins to a red-haired girl.",
         "title_suggest": {
