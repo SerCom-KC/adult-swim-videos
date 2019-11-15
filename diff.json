@@ -1,63 +1,58 @@
 {
-    "updated": 1573767754,
-    "added": [],
-    "removed": [
+    "updated": 1573783355,
+    "added": [
         {
-            "auth": false,
-            "ott_launch_date": 1451669640,
+            "ott_launch_date": null,
             "auth_expiration_date": null,
-            "tms_id": "EP007542790010",
-            "rating": 7.02139,
-            "description": "Mouse's landlord holds a contest to see who has the cleanest apartment.  In hopes of winning, Mouse makes the whole flat spic and span.  Skillet brings a notoriously filthy man, Golden Joe, back to Mouse's apartment at the last minute - jeopardizing Mouse's chances of winning.  After giving Golden Joe a bath and some new clothes, they pull out a close victory!",
+            "tms_id": "",
+            "description": "Boonie thinks he has been possessed by the soul of a dead gangster and begins acting like a serious badass.  That day, Lloyd serves Jesus papers - he's taking him to \"Homey's Court\" for making him sober, and to settle up for $600.",
             "title_suggest": {
                 "input": [
-                    "Booger Haze",
-                    "Haze"
+                    "Boonie Comes Up",
+                    "Comes Up",
+                    "Up"
                 ]
             },
+            "title": "Boonie Comes Up",
+            "expiration_date": 1574065740,
             "type": "episode",
-            "title": "Booger Haze",
-            "expiration_date": null,
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "ott",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "4187UTxoQACKlt3B24ioQA",
-            "duration": 704.74,
-            "episode_number": "3",
+            "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
+            "duration": 1380.8,
+            "episode_number": "8",
             "original_air_date": null,
-            "clip_order": null,
             "auth_launch_date": null,
-            "modified": 1547753950,
-            "media_id": "",
-            "id": "Na6yhFsaTf24tecaUn-NaA",
-            "slug": "booger-haze",
-            "views": 161716,
+            "clip_order": null,
+            "media_id": "38ed7b6ea5bea708e3348ce41c7e5282215b2dc3",
+            "modified": 1573779501,
+            "airing_id": "RADS1011131900037013",
+            "slug": "boonie-comes-up",
             "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1402945460,
-            "title_id": "651320",
-            "season_number": "2",
-            "tv_rating": "tv-ma",
-            "active": true,
-            "ott_expiration_date": null,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/1_1910151122333-blackjesus_308_air_cid-3HCRM.jpg",
+            "created": 1569883152,
+            "season_number": "3",
+            "title_id": "2160589",
+            "tv_rating": "tv-ma-l",
             "blacklist": [],
-            "published": 1547753950,
-            "tags": [
-                "12 oz mouse episode 10 booger haze"
-            ],
-            "rating_count": 561,
-            "collection_title": "12 oz. Mouse",
-            "modified_by": "Jared Marquez",
-            "launch_date": 1426690800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_010_pt1-04.jpg",
-            "cma_id": "",
-            "collection_slug": "12-oz-mouse",
-            "collection_title_id": "618253",
+            "ott_expiration_date": null,
+            "published": 1573779501,
+            "tags": [],
+            "collection_title": "Black Jesus",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1573783200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151122333-blackjesus_308_air_cid-3HCRM.jpg",
+            "id": "AW2EU9_OadNs2hMNfuIr",
+            "auth": false,
+            "collection_slug": "black-jesus",
+            "collection_title_id": "2022095",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
