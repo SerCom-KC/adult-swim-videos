@@ -246,6 +246,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1574398740,
+        "tms_id": "EP007164450229",
+        "description": "Stan is upset at the idea of becoming a grandfather after Hayley and Jeff announce they're trying to have a baby. Steve and Klaus join a drug gang after Steve decides to take being an uncle extra seriously.",
+        "title_suggest": {
+            "input": [
+                "Bahama Mama",
+                "Mama"
+            ]
+        },
+        "title": "Bahama Mama",
+        "type": "episode",
+        "expiration_date": 1557759540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.3,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1573794000,
+        "clip_order": null,
+        "modified": 1573430307,
+        "media_id": "695ce2af38d44bffdca9bbd052d1287629ab734b",
+        "airing_id": "RADS1011081900036113",
+        "id": "NGLrMHi2SMaOBw4VfXHxTw",
+        "slug": "bahama-mama",
+        "views": 1055,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175246934826.jpg",
+        "created": 1481461832,
+        "title_id": "2069536",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573430307,
+        "first_published": 1481461832,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1557154800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175246934826.jpg",
+        "cma_id": "1342854"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1574143140,
         "tms_id": "EP007164450115",
         "description": "After Snot professes his love for Hayley and gets shot down, Steve and Roger devise a plan to cheer him up. Roger dresses up as Steve's cousin from New Jersey, Jenny Fromdabloc, and Snot falls hard for her.",
@@ -931,53 +979,5 @@
         "launch_date": 1504846800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967984842812.jpg",
         "cma_id": "1468456"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1573793940,
-        "tms_id": "EP007164450248",
-        "description": "In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley.",
-        "title_suggest": {
-            "input": [
-                "West to Mexico",
-                "to Mexico",
-                "Mexico"
-            ]
-        },
-        "title": "West to Mexico",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.03,
-        "episode_number": "22",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573189200,
-        "modified": 1572842646,
-        "media_id": "26317c90dca92ff6ac96b0624ea53f4a60d9b9a6",
-        "airing_id": "RADS1011031900033605",
-        "id": "vz3Y_dibRLuu8ZDlkfKtbQ",
-        "slug": "west-to-mexico",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15188043915002.jpg",
-        "created": 1502136942,
-        "season_number": "12",
-        "title_id": "2069553",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1572842646,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg",
-        "cma_id": ""
     }
 ]
