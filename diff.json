@@ -1,57 +1,66 @@
 {
-    "updated": 1573837476,
-    "added": [
+    "updated": 1573849534,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1576731540,
+            "auth_expiration_date": null,
             "tms_id": "",
-            "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
+            "description": "Toonami\u2019s taking you back to the very beginning. Suit up and join us for the exciting premiere of Mobile Suit Gundam: The Origin, joining our Saturday night lineup on July 6th at 3a!",
             "title_suggest": {
                 "input": [
-                    "Five-Card Duds",
-                    "Duds"
+                    "Mobile Suit Gundam: The Origin",
+                    "Suit Gundam: The Origin",
+                    "Gundam: The Origin",
+                    "The Origin",
+                    "Origin"
                 ]
             },
-            "title": "Five-Card Duds",
-            "expiration_date": 1560151740,
-            "type": "episode",
+            "title": "Mobile Suit Gundam: The Origin",
+            "expiration_date": null,
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
-            "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-            "duration": 674.58,
-            "episode_number": "10",
+            "collection_id": "AWuafjoUCorLtcgflriZ",
+            "duration": 70,
             "original_air_date": null,
-            "auth_launch_date": 1573707600,
+            "auth_launch_date": null,
             "clip_order": null,
-            "media_id": "2b3807ed3ce43a96e98e84f25084a5d45384287c",
-            "modified": 1573837469,
-            "airing_id": "RADS1011081900036084",
-            "slug": "five-card-duds",
+            "media_id": "",
+            "modified": 1561666005,
+            "slug": "mobile-suit-gundam-the-origin",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155984019589717.jpg",
-            "created": 1556816877,
-            "season_number": "4",
-            "title_id": "2191445",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156166578229611.jpg",
+            "created": 1561665825,
+            "season_number": "",
+            "title_id": "",
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1573837469,
-            "tags": [],
-            "collection_title": "Your Pretty Face is Going to Hell",
+            "published": 1561666005,
+            "tags": [
+                "gundam",
+                "toonami",
+                "the origin",
+                "mobile suit",
+                "toonami",
+                "promo"
+            ],
+            "collection_title": "Mobile Suit Gundam: The Origin",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1559869200,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
-            "id": "AWp5hFfgHl5gR6828zZU",
-            "auth": true,
-            "collection_slug": "your-pretty-face-is-going-to-hell",
-            "collection_title_id": "828177",
-            "online_exclusives": false
+            "modified_by": "Jared Marquez",
+            "launch_date": 1561608000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156166578229611.jpg",
+            "id": "AWuaiWzWCorLtcgflrio",
+            "auth": false,
+            "collection_slug": "mobile-suit-gundam-the-origin",
+            "collection_title_id": "2200173",
+            "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
