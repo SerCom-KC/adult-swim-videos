@@ -197,6 +197,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1574486940,
+        "tms_id": "EP007164450024",
+        "rating": 7.766234,
+        "description": "Stan desperately wants to send Steve to summer camp but accidentally sends him to a refugee camp. Stan turns the refugee camp into a summer camp so Steve can have the camp \"experience.\" Back at home, Roger and Francine role-play as a professor and wife for a dinner party.",
+        "title_suggest": {
+            "input": [
+                "Camp Refoogee",
+                "Refoogee"
+            ]
+        },
+        "type": "episode",
+        "title": "Camp Refoogee",
+        "expiration_date": 1500004799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1306.2716,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573882200,
+        "modified": 1573765566,
+        "media_id": "c882dd463ad7ec65536c6f45f3b3aabdb11607d1",
+        "airing_id": "RADS1011141900037149",
+        "id": "BNiLDqJDSsaqdSQMQOZEqQ",
+        "slug": "camp-refoogee",
+        "views": 136324,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151991995228819.jpg",
+        "created": 1402945460,
+        "title_id": "700752",
+        "season_number": "2",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573765566,
+        "tags": [],
+        "rating_count": 154,
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1499400000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991995228819.jpg",
+        "cma_id": "1427969"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1574227740,
         "tms_id": "EP007164450117",
         "description": "Stan and Francine fight over how to redecorate the house. It goes so far that they split the house down the middle and try to live without each other.",
@@ -435,6 +484,56 @@
         "launch_date": 1555340400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg",
         "cma_id": "1335078"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1574486940,
+        "tms_id": "EP007164450124",
+        "description": "Francine is disgusted when Stan reestablishes contact with a crush from CIA boot camp; Bullock hires a bounty hunter to capture Roger; Steve wears Hayley's panties after concluding they bring him luck.",
+        "title_suggest": {
+            "input": [
+                "The Scarlett Getter",
+                "Scarlett Getter",
+                "Getter"
+            ]
+        },
+        "title": "The Scarlett Getter",
+        "type": "episode",
+        "expiration_date": 1506095940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1309.4081,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573882200,
+        "modified": 1573497500,
+        "media_id": "224e43932c8ac344c3836d77c11f24ce1bd2d857",
+        "airing_id": "RADS1011081900036122",
+        "id": "Q4ofrtK9S8KnMsk2dPK5PA",
+        "slug": "the-scarlett-getter",
+        "views": 3224,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154464893328814.jpg",
+        "created": 1425446423,
+        "title_id": "748162",
+        "tv_rating": "tv-14-dlsv",
+        "season_number": "7",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1573497500,
+        "first_published": 1425446423,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1505451600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464893328814.jpg",
+        "cma_id": "1473827"
     },
     {
         "auth": false,
@@ -927,55 +1026,5 @@
         "launch_date": 1573448400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1573882140,
-        "tms_id": "EP007164450113",
-        "description": "Overlooked for promotion for twenty years, Stan decides to woo the Senator who supervises the CIA task force. Stan makes Steve go to the same private academy as the Senator\u2019s daughter, but Steve ditches school and Roger takes his place.",
-        "title_suggest": {
-            "input": [
-                "School Lies",
-                "Lies"
-            ]
-        },
-        "title": "School Lies",
-        "type": "episode",
-        "expiration_date": 1505451599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1306.038,
-        "episode_number": "14",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573277400,
-        "modified": 1572862446,
-        "media_id": "efefc0c63e605c512e03a10932659554800f8f8c",
-        "airing_id": "RADS1011031900033615",
-        "id": "ubhWuJrdT-OoIvmlMZ-2MA",
-        "slug": "school-lies",
-        "views": 4385,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152967984842812.jpg",
-        "created": 1424755222,
-        "title_id": "748156",
-        "tv_rating": "tv-14",
-        "season_number": "6",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1572862446,
-        "first_published": 1424755222,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1504846800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967984842812.jpg",
-        "cma_id": "1468456"
     }
 ]
