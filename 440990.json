@@ -288,56 +288,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1573889340,
-        "tms_id": "EP002960010145",
-        "rating": 7.859756,
-        "description": "Peter believes he possesses psychic powers; Chris falls for a classmate with Down's Syndrome.",
-        "title_suggest": {
-            "input": [
-                "Extra Large Medium",
-                "Large Medium",
-                "Medium"
-            ]
-        },
-        "type": "episode",
-        "title": "Extra Large Medium",
-        "expiration_date": 1506052740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1306.8055,
-        "episode_number": "12",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573284600,
-        "modified": 1572863528,
-        "media_id": "b74df30f0050499e5d03b8a48a1ce8c2b3e3bd1c",
-        "airing_id": "RADS1011031900033617",
-        "id": "U1ByX963TlmN4vi1fjnr3g",
-        "slug": "extra-large-medium",
-        "views": 98915,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152027957656113.jpg",
-        "created": 1402945465,
-        "title_id": "748763",
-        "season_number": "8",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1572863528,
-        "tags": [],
-        "rating_count": 164,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1505458800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152027957656113.jpg",
-        "cma_id": "1473963"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1573972140,
         "tms_id": "EP002960010147",
         "rating": 7.120332,
@@ -687,5 +637,55 @@
         "launch_date": 1507271400,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2220400697644741607.jpg",
         "cma_id": "1488989"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1574494140,
+        "tms_id": "EP002960010166",
+        "description": "Peter ruins his kidneys after concocting his own energy drink, prompting Brian to volunteer donating his organs; as President Obama plans on visiting the high school, Chris plagiarizes Meg's thoughts for an essay on hope.",
+        "title_suggest": {
+            "input": [
+                "New Kidney in Town",
+                "Kidney in Town",
+                "in Town",
+                "Town"
+            ]
+        },
+        "title": "New Kidney in Town",
+        "type": "episode",
+        "expiration_date": 1506668399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1305.671,
+        "episode_number": "8",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573889400,
+        "modified": 1573491725,
+        "media_id": "d6509e2e39e1b1f19b5b80dc6fa9554aad0edd58",
+        "airing_id": "RADS1011081900036123",
+        "id": "xOTfCOZrRAiiZbDl_8vdLg",
+        "slug": "new-kidney-in-town",
+        "views": 2482,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152028747491812.jpg",
+        "created": 1411572937,
+        "season_number": "9",
+        "title_id": "809146",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573491725,
+        "first_published": 1411572937,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506063600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028747491812.jpg",
+        "cma_id": "1483840"
     }
 ]
