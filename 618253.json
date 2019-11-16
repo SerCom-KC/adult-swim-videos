@@ -311,6 +311,61 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451669640,
+        "auth_expiration_date": null,
+        "tms_id": "EP007542790010",
+        "rating": 7.02139,
+        "description": "Mouse's landlord holds a contest to see who has the cleanest apartment.  In hopes of winning, Mouse makes the whole flat spic and span.  Skillet brings a notoriously filthy man, Golden Joe, back to Mouse's apartment at the last minute - jeopardizing Mouse's chances of winning.  After giving Golden Joe a bath and some new clothes, they pull out a close victory!",
+        "title_suggest": {
+            "input": [
+                "Booger Haze",
+                "Haze"
+            ]
+        },
+        "type": "episode",
+        "title": "Booger Haze",
+        "expiration_date": 2085368400,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 704.74,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1573770520,
+        "media_id": "06010ec96ec22c7d56eb72f4a113ecd00eeed38c",
+        "airing_id": "RADS1011141900037299",
+        "id": "Na6yhFsaTf24tecaUn-NaA",
+        "slug": "booger-haze",
+        "views": 161716,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945460,
+        "title_id": "651320",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573770520,
+        "tags": [
+            "12 oz mouse episode 10 booger haze"
+        ],
+        "rating_count": 561,
+        "collection_title": "12 oz. Mouse",
+        "modified_by": "ODT Listener",
+        "launch_date": 1573880400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_010_pt1-04.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
