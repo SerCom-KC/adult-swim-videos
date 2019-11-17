@@ -51,55 +51,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1573966740,
-        "tms_id": "EP007164450226",
-        "description": "Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them.",
-        "title_suggest": {
-            "input": [
-                "Fight and Flight",
-                "and Flight",
-                "Flight"
-            ]
-        },
-        "title": "Fight and Flight",
-        "type": "episode",
-        "expiration_date": 1554130740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.97,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1573362000,
-        "clip_order": null,
-        "modified": 1572984365,
-        "media_id": "204b5cf0c24fb0a7ef617b2d33f4d1bd82480c6c",
-        "airing_id": "RADS1011051900034091",
-        "id": "2lgl7za3TEGrHYL2SIWJeQ",
-        "slug": "fight-and-flight",
-        "views": 1633,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151752473623420.jpg",
-        "created": 1479744636,
-        "title_id": "2069533",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1572984365,
-        "first_published": 1479744636,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1553526000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg",
-        "cma_id": "1331342"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1574488740,
         "tms_id": "EP007164450126",
         "description": "With Roger's help, Steve dresses up as a superhero to prove his bravery to his father; when Stan discovers that Fran may be pregnant, he hopes the infant will turn out to be the brave child he never had.",
@@ -1026,5 +977,55 @@
         "launch_date": 1573448400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1574571540,
+        "tms_id": "EP007164450231",
+        "description": "The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual.",
+        "title_suggest": {
+            "input": [
+                "Ninety North, Zero West",
+                "North, Zero West",
+                "Zero West",
+                "West"
+            ]
+        },
+        "title": "Ninety North, Zero West",
+        "type": "episode",
+        "expiration_date": 1554735540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.2,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1573966800,
+        "clip_order": null,
+        "modified": 1573611966,
+        "media_id": "e374e0327ea852a8a2e8c3fbfdccb9a344bbec85",
+        "airing_id": "RADS1011131900037024",
+        "id": "tws7PtVrRlKyTN3PRz_gKQ",
+        "slug": "ninety-north-zero-west",
+        "views": 1224,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803218298013.jpg",
+        "created": 1482941474,
+        "title_id": "2069538",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573611966,
+        "first_published": 1482941474,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554130800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg",
+        "cma_id": "1351052"
     }
 ]
