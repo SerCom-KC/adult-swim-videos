@@ -2,44 +2,34 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 17, 2019 at 00:30:36 EST_
+_Last Update: November 17, 2019 at 01:30:38 EST_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-2007539 Mr. Pickles: 1  
-### 2069538
-**American Dad S12E07 - Ninety North, Zero West**  
-TV-14 🔒 21:14  
-⌛ November 23, 2019 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/ninety-north-zero-west  
-seriesid=`581006` titleid=`2069538` id=`tws7PtVrRlKyTN3PRz_gKQ` mediaid=`e374e0327ea852a8a2e8c3fbfdccb9a344bbec85`  
-_The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg" height="144px" /></a>
-### 2213581
-**Mr. Pickles S04E02 - Hats**  
- 🔒 11:18  
-⌛ December 8, 2019 at 00:00:00 EST  
-https://www.adultswim.com/videos/mr-pickles/hats  
-seriesid=`2007539` titleid=`2213581` id=`AW4S4jb_adNs2hMNfuXo` mediaid=`00c2b52c3e218fe45d0654e812be8fb52b2bdfb1`  
-_When Floyd eats Sheriff's hat, Sheriff becomes convinced that nobody will respect his authority without it._  
-<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_191028110348-mrpickles_402.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_191028110348-mrpickles_402.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 809157
+**Family Guy S10E03 - Screams of Silence: The Story of Brenda Q**  
+TV-14 🔒 21:09  
+⌛ November 24, 2019 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/screams-of-silence-the-story-of-brenda-q  
+seriesid=`440990` titleid=`809157` id=`j-1ryEcGR3en7GFIWUX9_Q` mediaid=`0fb2df1091d6f37bbdffbbf136078c8b7e28af17`  
+_Quagmire and his friends try to talk his sister into getting away from her abusive boyfriend. But when she won't listen, they decide to take matters into their own hands._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088961897018.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088961897018.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-581006 American Dad: 1  
-### 2003434
-**Bob's Burgers S01E12 - Lobsterfest**  
-TV-14 🔒 21:33  
-⌛ November 17, 2019 at 00:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/lobsterfest  
-seriesid=`2003422` titleid=`2003434` id=`OqDpbb5iRy2a9Kybe4j4Tw` mediaid=`190cdf5a9c6f68479214bd74a4f4f9b21ce68efa`  
-_After the town's annual Lobsterfest is cancelled by a storm, Bob defiantly opens his doors for a festive celebration. When he wakes the next morning, Bob finds the restaurant in disarray, and the town has spurned him. Meanwhile, the kids secretly try lobster for the first time._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214840324846.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214840324846.jpg" height="144px" /></a>
-### 2069533
-**American Dad S12E02 - Fight and Flight**  
-TV-14 🔒 21:13  
-⌛ November 16, 2019 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/fight-and-flight  
-seriesid=`581006` titleid=`2069533` id=`2lgl7za3TEGrHYL2SIWJeQ` mediaid=`204b5cf0c24fb0a7ef617b2d33f4d1bd82480c6c`  
-_Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg" height="144px" /></a>
+440990 Family Guy: 2  
+### 748762
+**Family Guy S08E15 - Brian Griffin's House of Payne**  
+TV-14 🔒 21:46  
+⌛ November 17, 2019 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/brian-griffins-house-of-payne  
+seriesid=`440990` titleid=`748762` id=`UM4zuyAMRYmJ77BFKVVMYQ` mediaid=`4f42399c87bbb5b5371a288de2bb5edece537c4e`  
+_Brian's television pilot script gets picked up by a network, but he's horrified when changes are made to his concept; Chris and Meg accidentally knock Stewie unconscious._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156095648460518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156095648460518.jpg" height="144px" /></a>
+### 748765
+**Family Guy S08E14 - Peter-Assment**  
+TV-14 🔒 21:43  
+⌛ November 17, 2019 at 00:59:00 EST  
+https://www.adultswim.com/videos/family-guy/peter-assment  
+seriesid=`440990` titleid=`748765` id=`slQjoZPMTGeWE8R09DOefw` mediaid=`a4fe1487e4b49854511f3b83932d9f58f0b35135`  
+_Peter turns journalist after TMZ buys his amateur video; Peter is sexually-harassed by his boss._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4415227540832853399.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4415227540832853399.jpg" height="144px" /></a>
