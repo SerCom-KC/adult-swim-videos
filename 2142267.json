@@ -108,5 +108,52 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191101/thumbnails/2_19111180587-promo_Toonami_MHA_s4_Sat_55.jpg",
         "id": "AW4obVwy1YiBSfg0KYKn",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575790140,
+        "tms_id": "EP024348490068",
+        "description": "Overhaul pays a visit to the League of Villains, and Midoriya tries to find a place to do his work study.",
+        "title_suggest": {
+            "input": [
+                "Overhaul"
+            ]
+        },
+        "title": "Overhaul",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 0,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1573975800,
+        "clip_order": null,
+        "media_id": "84a84f78fdf630c9e5688437d5a35cdf11c800de",
+        "modified": 1573877663,
+        "airing_id": "RADS1011151900037636",
+        "slug": "overhaul",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191112/thumbnails/1_191112156114-myheroacademia_065.jpg",
+        "created": 1573502456,
+        "season_number": "4",
+        "title_id": "2214106",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573877663,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191112/thumbnails/2_191112156114-myheroacademia_065.jpg",
+        "id": "AW5cDhLy1YiBSfg0KYY0",
+        "auth": true
     }
 ]
