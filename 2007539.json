@@ -1,6 +1,56 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "After Mr. Pickles framed Grandpa for murder in the Season 3 finale, Sheriff learns of Grandpa's whereabouts, and heads out of the country to track him down. Meanwhile Grandpa has a new determination to finally end things with Mr. Pickles.",
+        "title_suggest": {
+            "input": [
+                "The Tree of Flesh",
+                "Tree of Flesh",
+                "of Flesh",
+                "Flesh"
+            ]
+        },
+        "title": "The Tree of Flesh",
+        "expiration_date": 1574659740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 678.75,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "7ddcdd470d461c7a3bfc0ca92916ff14aaf2ab5b",
+        "modified": 1573876110,
+        "airing_id": "RADS1011151900037702",
+        "slug": "the-tree-of-flesh",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191024/thumbnails/1_1910241144587-mrpickles_401_dup-20190507.jpg",
+        "created": 1571931909,
+        "season_number": "4",
+        "title_id": "2196564",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573876110,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1574055000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191024/thumbnails/2_1910241144587-mrpickles_401_dup-20190507.jpg",
+        "id": "AW3-cW8x1YiBSfg0KX-J",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1575781200,
         "tms_id": "",
         "description": "When Floyd eats Sheriff's hat, Sheriff becomes convinced that nobody will respect his authority without it.",
@@ -44,7 +94,7 @@
         "launch_date": 1574055000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_191028110348-mrpickles_402.jpg",
         "id": "AW4S4jb_adNs2hMNfuXo",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": 1520263860,

@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1580101140,
         "tms_id": "EP029950790001",
@@ -47,7 +47,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1574053140,
         "tms_id": "EP029950790003",
         "description": "We're going behind the music in this special episode to look at the rise of famous idol, Pop-chin. Then, hop into my new, killer ride.",

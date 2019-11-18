@@ -403,7 +403,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1574053140,
         "tms_id": "EP027118720003",
         "description": "Josuke and Jotaro learn that a man with a bow and arrow was responsible for awakening Angelo's Stand ability. Realizing the town is still in danger, they decide to find the bow and arrow before it can create any more victims.",
@@ -2107,7 +2107,7 @@
         "launch_date": 1572235200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15590552920031.jpg",
         "id": "AWrqYKlQ4aLemgzOLEmj",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
