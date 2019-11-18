@@ -1611,7 +1611,7 @@
         "cma_id": "1044737"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370053",
@@ -2026,6 +2026,58 @@
         "launch_date": 1562644800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/piccolo-reborn-friezas-second-transformation/dragonballzkai_cc_039_pt2.jpg",
         "cma_id": "1114711"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "tms_id": "EP012647370064",
+        "description": "Goku tells the amazing story of how he survived the destruction of Namek, and the heroic warriors begin their training for a looming showdown with the Androids!",
+        "title_suggest": {
+            "input": [
+                "Goku's New Move, Instant Transmission! The Three-Year Training Session Begins!",
+                "New Move, Instant Transmission! The Three-Year Training Session Begins!",
+                "Move, Instant Transmission! The Three-Year Training Session Begins!",
+                "Instant Transmission! The Three-Year Training Session Begins!",
+                "Transmission! The Three-Year Training Session Begins!",
+                "The Three-Year Training Session Begins!",
+                "Three-Year Training Session Begins!",
+                "Training Session Begins!",
+                "Session Begins!",
+                "Begins!"
+            ]
+        },
+        "expiration_date": 1577077140,
+        "title": "Goku's New Move, Instant Transmission! The Three-Year Training Session Begins!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1264,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "58",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1573866928,
+        "airing_id": "RADS1011151900037671",
+        "media_id": "4533a13bba4f32bb597566b75a18b43e9d9ac3d1",
+        "id": "beCpX5TbTkWr8qfVM_iUNA",
+        "slug": "gokus-new-move-instant-transmission-the-three-year-training-session-begins",
+        "views": 2658,
+        "created": 1430773705,
+        "season_number": "1",
+        "title_id": "2031669",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1573866928,
+        "first_published": 1455829835,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574053200,
+        "poster": "",
+        "cma_id": "1192249"
     },
     {
         "auth": true,
