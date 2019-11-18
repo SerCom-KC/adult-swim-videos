@@ -746,6 +746,66 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Step into the ring on the next all new episode of One Punch Man.",
+        "title_suggest": {
+            "input": [
+                "Sneak Peek \u2013 The Class S Heroes",
+                "Peek \u2013 The Class S Heroes",
+                "\u2013 The Class S Heroes",
+                "The Class S Heroes",
+                "Class S Heroes",
+                "S Heroes",
+                "Heroes"
+            ]
+        },
+        "title": "Sneak Peek \u2013 The Class S Heroes",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "xZSM7jD5QCe6QOiQJ_-sxQ",
+        "duration": 14.97,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "",
+        "modified": 1573844812,
+        "slug": "sneak-peek-the-class-s-heroes",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191112/thumbnails/1_1911121655178-promo_OPM_Topical_119_Sat_15.jpg",
+        "created": 1573595743,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573844812,
+        "tags": [
+            "one punch man",
+            "toonami",
+            "sneak peek",
+            "preview",
+            "anime",
+            "adult swim",
+            "promo"
+        ],
+        "collection_title": "One-Punch Man",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1574053200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191112/thumbnails/2_1911121655178-promo_OPM_Topical_119_Sat_15.jpg",
+        "id": "AW5hnYOu1YiBSfg0KYbd",
+        "auth": false
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1576817940,
