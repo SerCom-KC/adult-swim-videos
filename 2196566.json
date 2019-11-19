@@ -2,7 +2,7 @@
     {
         "ott_launch_date": null,
         "auth_expiration_date": null,
-        "tms_id": "",
+        "tms_id": "EP033701060001",
         "description": "When Floyd eats Sheriff's hat, Sheriff becomes convinced that nobody will respect his authority without it.",
         "title_suggest": {
             "input": [
@@ -24,18 +24,18 @@
         "original_air_date": null,
         "auth_launch_date": null,
         "clip_order": null,
-        "media_id": "",
-        "modified": 1574177251,
+        "media_id": "97608903daeb5857377c0615421d1d0f96296fee",
+        "modified": 1574182592,
         "slug": "hats",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg",
         "created": 1573745583,
         "season_number": "1",
-        "title_id": "",
+        "title_id": "2196567",
         "tv_rating": "tv-ma",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1574177251,
+        "published": 1574182592,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
@@ -43,53 +43,6 @@
         "launch_date": 1574055000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg",
         "id": "AW5qi-Vv1YiBSfg0KYe1",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1575867540,
-        "tms_id": "EP033701060001",
-        "description": "When Floyd eats Sheriff's hat, Sheriff becomes convinced that nobody will respect his authority without it.",
-        "title_suggest": {
-            "input": [
-                "Hats"
-            ]
-        },
-        "title": "Hats",
-        "type": "episode",
-        "expiration_date": 1574658000,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 675.9419,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1574658000,
-        "clip_order": null,
-        "airing_id": "RADS1011191900037972",
-        "media_id": "97608903daeb5857377c0615421d1d0f96296fee",
-        "modified": 1574182564,
-        "slug": "hats",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191119/thumbnails/1_1911191134427-MommaNamedMeSheriff_101_dup-20190507.jpg",
-        "created": 1574177406,
-        "title_id": "2196567",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574182564,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1574182500,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191119/thumbnails/2_1911191134427-MommaNamedMeSheriff_101_dup-20190507.jpg",
-        "id": "AW6ESP6JadNs2hMNfuhy",
         "auth": false
     }
 ]
