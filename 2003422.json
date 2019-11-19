@@ -339,53 +339,6 @@
         "cma_id": "1496692"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574144940,
-        "tms_id": "EP012792980013",
-        "description": "Bob's hero, a washed-up professional baseball player named Torpedo Jones, starts pitching for the local minor league team. Torpedo befriends the Belcher's, and Bob is ecstatic until he finds out about the dark underbelly of baseball.",
-        "title_suggest": {
-            "input": [
-                "Torpedo"
-            ]
-        },
-        "expiration_date": 1508824799,
-        "title": "Torpedo",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1295.8946,
-        "episode_number": "13",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573540200,
-        "modified": 1573265901,
-        "media_id": "502acd2ca2ada6b3e16a4441c6cf7c44670a0404",
-        "airing_id": "RADS1011081900036027",
-        "id": "R3MRmrsRS2mJVaeKqfu2CA",
-        "slug": "torpedo",
-        "views": 1,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148406309113.jpg",
-        "created": 1403210021,
-        "season_number": "1",
-        "title_id": "2003435",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573265901,
-        "first_published": 1405916428,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1508220000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148406309113.jpg",
-        "cma_id": "1496229"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1574503140,
@@ -525,6 +478,56 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg",
         "cma_id": "2003444"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1574749740,
+        "tms_id": "EP012792980025",
+        "description": "Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers, who hire the Belcher kids as \"weed pickers.\" Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision.",
+        "title_suggest": {
+            "input": [
+                "Bob Fires the Kids",
+                "Fires the Kids",
+                "the Kids",
+                "Kids"
+            ]
+        },
+        "expiration_date": null,
+        "title": "Bob Fires the Kids",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.7895,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574145000,
+        "modified": 1573870105,
+        "media_id": "362e1875ab9ec1ea7102197574f0e6578c7977fc",
+        "airing_id": "RADS1011151900037722",
+        "id": "m6oToyJWT4iP8igvJtBeOA",
+        "slug": "bob-fires-the-kids",
+        "views": 7552,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216340091915.jpg",
+        "created": 1403210221,
+        "season_number": "3",
+        "title_id": "2003514",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1573870105,
+        "first_published": 1409541651,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg",
+        "cma_id": "2003514"
     },
     {
         "auth": true,
