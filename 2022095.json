@@ -100,57 +100,6 @@
         "cma_id": "1471533"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1446576840,
-        "auth_expiration_date": 1574225940,
-        "tms_id": "EP019635740013",
-        "description": "When Vic misinterprets the gang's latest hustle as terrorist activity, he gears up to wage a one-man war against them.",
-        "title_suggest": {
-            "input": [
-                "False Witness",
-                "Witness"
-            ]
-        },
-        "expiration_date": 1571198340,
-        "title": "False Witness",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1312.24,
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1571198400,
-        "modified": 1573767334,
-        "media_id": "32186c11887f6d68cd2ae517ed031b80bcf7d7e6",
-        "airing_id": "RADS1010111900026970",
-        "id": "4zHadcClTG-MCR4fMZ9hMQ",
-        "slug": "false-witness",
-        "views": 6,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1441735726,
-        "season_number": "2",
-        "title_id": "2065416",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573767334,
-        "first_published": 1443619218,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1568347200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/false-witness/blackjesus_ep207_002_brqpis870aRDys7Sbs_2.jpg",
-        "cma_id": "1461839"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -916,7 +865,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1448057940,
         "auth_expiration_date": 1574225940,
         "tms_id": "EP019635740022",
@@ -1071,7 +1020,7 @@
         "cma_id": "2065418"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449846000,
         "auth_expiration_date": 1577249940,
         "tms_id": "EP019635740018",

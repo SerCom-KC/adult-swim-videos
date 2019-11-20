@@ -50,6 +50,53 @@
         "cma_id": "1414901"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1446740100,
+        "auth_expiration_date": 1577249940,
+        "tms_id": "SH015121710000",
+        "rating": 7.299651,
+        "description": "Eric interviews Sinbad and Jerry Seinfeld. ",
+        "title_suggest": {
+            "input": [
+                "Sinbad"
+            ]
+        },
+        "type": "episode",
+        "title": "Sinbad",
+        "expiration_date": 1571889540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 674,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574226000,
+        "modified": 1573868526,
+        "media_id": "650380118e431e5f92e5e8adcc57a360940a1a2a",
+        "airing_id": "RADS1011151900037711",
+        "id": "ARtwjssVQMapudwGs4zyUQ",
+        "slug": "sinbad",
+        "views": 118587,
+        "created": 1402945479,
+        "title_id": "895954",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1573868526,
+        "tags": [],
+        "rating_count": 861,
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1568865600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_106_pt2-03.jpg",
+        "cma_id": "1427006"
+    },
+    {
         "ott_launch_date": 1519140660,
         "auth": false,
         "auth_expiration_date": 1573621140,
@@ -1234,58 +1281,6 @@
         "launch_date": 1573102800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_013_pt2_349ud-05.jpg",
         "cma_id": "1458388"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446739500,
-        "auth_expiration_date": 1574225940,
-        "tms_id": "EP015632430001",
-        "rating": 6.927671,
-        "description": "Eric interviews George Clooney and Dolph Lundgren.",
-        "title_suggest": {
-            "input": [
-                "Dolph Lundgren",
-                "Lundgren"
-            ]
-        },
-        "type": "episode",
-        "title": "Dolph Lundgren",
-        "expiration_date": 1568865540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.14,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1571198400,
-        "modified": 1570882326,
-        "media_id": "76f2140141ba40414454cb81fcea6ac265600557",
-        "airing_id": "RADS1010111900026973",
-        "id": "tY4Rp0fZSJSE82XR6MUMbg",
-        "slug": "dolph-lundgren",
-        "views": 223292,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945479,
-        "title_id": "895949",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1570882326,
-        "tags": [],
-        "rating_count": 2461,
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1565841600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_101_pt1-03.jpg",
-        "cma_id": "1406376"
     },
     {
         "auth": false,
