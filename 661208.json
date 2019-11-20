@@ -261,58 +261,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447783920,
-        "auth_expiration_date": 1574225940,
-        "tms_id": "EP008994530011",
-        "rating": 7.7815695,
-        "description": "The existence of someone as cool as Raz threatens to drive a wedge through the Tim and Eric partnership. (Bob Odenkirk, Al Yankovic)",
-        "title_suggest": {
-            "input": [
-                "Vacation"
-            ]
-        },
-        "type": "episode",
-        "title": "Vacation",
-        "expiration_date": 1553785140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 697.026,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1571198400,
-        "modified": 1570886171,
-        "media_id": "c6090cbf859ca0604b58f928711bdbc3e5ac46c7",
-        "airing_id": "RADS1010111900026997",
-        "id": "NrQiFf6wSq6uQF7rQolNkQ",
-        "slug": "vacation",
-        "views": 1238004,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "691937",
-        "tv_rating": "tv-14",
-        "season_number": "2",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1570886171,
-        "tags": [
-            "time and eric awesome show great job episode 11 vacation raz bob odenkirk al yankovic"
-        ],
-        "rating_count": 7824,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1550764800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_201_pt1-03.jpg",
-        "cma_id": "691937"
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1503930600,
         "tms_id": "SH027314480000",
         "description": "Tim and Eric Awesome Show, Great Job! celebrates the 10 year anniversary of the show with a special 1/2 hour new episode.",
@@ -691,5 +639,57 @@
         "launch_date": 1573102800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_507_pt2-02.jpg",
         "cma_id": "1435054"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447784100,
+        "auth_expiration_date": 1577249940,
+        "tms_id": "EP008994530020",
+        "rating": 7.635538,
+        "description": "Carol's worst fear is realized after revealing a secret tape she made for Mr. Henderson. (AD Miles)",
+        "title_suggest": {
+            "input": [
+                "Carol"
+            ]
+        },
+        "type": "episode",
+        "title": "Carol",
+        "expiration_date": 1556809140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 670.003,
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574226000,
+        "modified": 1573871412,
+        "media_id": "07f567a0a3b65006540a69118b6d818c9f9ac31c",
+        "airing_id": "RADS1011151900037736",
+        "id": "ny9vR2SHSCK0xVTS3n6KqQ",
+        "slug": "carol",
+        "views": 680409,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945482,
+        "title_id": "691943",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573871412,
+        "tags": [
+            "time and eric awesome show great job episode 17 carol mr mister henderson secret tape love fantasy"
+        ],
+        "rating_count": 4626,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1553785200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_207_pt1-03.jpg",
+        "cma_id": "1309446"
     }
 ]
