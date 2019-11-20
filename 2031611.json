@@ -168,6 +168,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370054",
         "description": "Frieza is defeated, Namek has been obliterated, and the whereabouts of Goku remain a mystery. How will Earth carry on without its Super Saiyan hero? And what will become of the Namekian refugees?",
         "title_suggest": {
@@ -194,8 +195,9 @@
         "episode_number": "54",
         "original_air_date": null,
         "clip_order": null,
-        "modified": 1571201903,
-        "airing_id": "RADS1010151900027433",
+        "auth_launch_date": 1574658000,
+        "modified": 1574284932,
+        "airing_id": "RADS1011201900038310",
         "media_id": "b172d8eff6067658e8d5744d09e7f348604a7415",
         "id": "3RWEmuwwTi6L8Hu7bSZThQ",
         "slug": "goku-vanishes-into-space-welcome-home-super-warriors",
@@ -206,7 +208,7 @@
         "tv_rating": "tv-pg-lv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1571201903,
+        "published": 1574284932,
         "first_published": 1453493420,
         "tags": [],
         "collection_title": "Dragon Ball Z Kai",
