@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 20, 2019 at 01:30:34 EST_
+_Last Update: November 20, 2019 at 02:00:33 EST_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-### 748144
-**American Dad S07E12 - The Wrestler**  
-TV-14 🔒 21:47  
-⌛ November 27, 2019 at 00:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-wrestler  
-seriesid=`581006` titleid=`748144` id=`nF04euNRRwCEaj8Ywu4Bzw` mediaid=`020a6c137f00aee0ed76b53ccde5e5af07e8cd7c`  
-_Stan panics when Barry comes close to toppling his longstanding wrestling record at Steve's school - and ends up teaching Roger how to wrestle so he can defeat Barry._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2003517
+**Bob's Burgers S03E06 - The Deepening**  
+TV-PG 🔒 21:10  
+⌛ November 27, 2019 at 01:29:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-deepening  
+seriesid=`2003422` titleid=`2003517` id=`Sw52DTbnSJWC2NfqUQ6kuQ` mediaid=`227fded7473645fd6e648e0faff7074a91841a87`  
+_In an homage to Jaws, Bob's landlord and pier proprietor Mr. Fischoeder buys a mechanical shark as a pier attraction, but when it turns wild and starts terrorizing the town, it's up to Bob and the family to stop it._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216342451813.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216342451813.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 748159
-**American Dad S06E18 - Flirting With Disaster**  
-TV-14 🔒 21:47  
-⌛ November 20, 2019 at 00:59:00 EST  
-https://www.adultswim.com/videos/american-dad/flirting-with-disaster  
-seriesid=`581006` titleid=`748159` id=`fefThwQBQgii_EzbWwUeKQ` mediaid=`94117714540ec06bc58baad4557de083d13383c1`  
-_Francine gets a job at Stan's office, which cramps Stan's style and his ability to flirt with co-workers. When Francine retaliates with a little flirting of her own, war breaks out at work._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2003437
+**Bob's Burgers S02E02 - Bob Day Afternoon**  
+TV-14 🔒 21:29  
+⌛ November 20, 2019 at 01:29:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/bob-day-afternoon  
+seriesid=`2003422` titleid=`2003437` id=`ICnCBkoDSiuMym6JboTa5Q` mediaid=`3ae7a97e67840c6e49f14b6748964f1ec91c77b7`  
+_A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg" height="144px" /></a>
