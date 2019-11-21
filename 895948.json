@@ -678,57 +678,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1452269460,
-        "auth_expiration_date": 1554908340,
-        "tms_id": "EP015632430010",
-        "rating": 7.1425533,
-        "description": "Eric interviews Ryan Phillippe and Will.I.Am.",
-        "title_suggest": {
-            "input": [
-                "Ryan Phillippe",
-                "Phillippe"
-            ]
-        },
-        "type": "episode",
-        "title": "Ryan Phillippe",
-        "expiration_date": 1574312340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 645,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1551888000,
-        "modified": 1570884125,
-        "media_id": "b72b924cfc9e0b494d0be3142642e9e43dd69863",
-        "airing_id": "RADS1010111900027027",
-        "id": "NCwFJ90nRnii3scojPsXQA",
-        "slug": "ryan-phillippe",
-        "views": 98420,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945479,
-        "title_id": "895958",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1570884125,
-        "tags": [],
-        "rating_count": 940,
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571284800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_110_pt1-03.jpg",
-        "cma_id": "1084943"
-    },
-    {
-        "auth": false,
         "ott_launch_date": null,
         "description": "Kids, take the Instagram challenge.",
         "title_suggest": {
@@ -1333,5 +1282,60 @@
         "launch_date": 1573707600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_014_pt2_F4zLr-02.jpg",
         "cma_id": "1463166"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446740220,
+        "auth_expiration_date": 1557327540,
+        "tms_id": "EP015632430015",
+        "rating": 7.719426,
+        "description": "Interviews with James Van Der Beek and Steve-O; Chef Rory Scovel; Special guest T-Pain.",
+        "title_suggest": {
+            "input": [
+                "James Van Der Beek / Steve-O",
+                "Van Der Beek / Steve-O",
+                "Der Beek / Steve-O",
+                "Beek / Steve-O",
+                "/ Steve-O",
+                "Steve-O"
+            ]
+        },
+        "type": "episode",
+        "title": "James Van Der Beek / Steve-O",
+        "expiration_date": 1577336340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 676,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1554303600,
+        "modified": 1573900210,
+        "media_id": "2c0b1e210c969ac56647b8197d6c70ec76ca784b",
+        "airing_id": "RADS1011151900037734",
+        "id": "zrbmU4ZiQk6TbiXPn4Y9aA",
+        "slug": "james-van-der-beek-steve-o",
+        "views": 50272,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945479,
+        "title_id": "2012283",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573900210,
+        "tags": [],
+        "rating_count": 417,
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574312400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_015_pt2_f4nzr-03.jpg",
+        "cma_id": "1467498"
     }
 ]
