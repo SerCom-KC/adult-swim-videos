@@ -738,56 +738,6 @@
         "cma_id": "1342854"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574314140,
-        "tms_id": "EP007164450119",
-        "description": "Stan spends some quality father-son time with Steve at the local zoo, but things go wrong when Steve slips into a gorilla exhibit.",
-        "title_suggest": {
-            "input": [
-                "Gorillas in the Mist",
-                "in the Mist",
-                "the Mist",
-                "Mist"
-            ]
-        },
-        "title": "Gorillas in the Mist",
-        "type": "episode",
-        "expiration_date": 1505797199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1307.2059,
-        "episode_number": "19",
-        "original_air_date": null,
-        "auth_launch_date": 1573709400,
-        "clip_order": null,
-        "modified": 1573300701,
-        "media_id": "01f8999b06c60cc3e23ff941ccf811541fe78f5f",
-        "airing_id": "RADS1011081900036085",
-        "id": "SpKY05_QS_a8wZkZQtAl9A",
-        "slug": "gorillas-in-the-mist",
-        "views": 1650,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153010781436415.jpg",
-        "created": 1480349423,
-        "title_id": "748163",
-        "tv_rating": "tv-14",
-        "season_number": "6",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573300701,
-        "first_published": 1480349423,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1505192400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg",
-        "cma_id": "1470597"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1574830740,
@@ -1033,6 +983,54 @@
         "launch_date": 1506139200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg",
         "cma_id": "1479346"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1574918940,
+        "tms_id": "EP007164450131",
+        "description": "After tricking Roger into going to Iraq, Klaus assumes the role of the Smiths' psychologist, but his emphasis on emotional honesty backfires.",
+        "title_suggest": {
+            "input": [
+                "Dr. Klaustus",
+                "Klaustus"
+            ]
+        },
+        "title": "Dr. Klaustus",
+        "type": "episode",
+        "expiration_date": 1506747599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.5396,
+        "episode_number": "13",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574314200,
+        "modified": 1574034248,
+        "media_id": "78264e6442dd4f8a27f735273f857642745906db",
+        "airing_id": "RADS1011171900037881",
+        "id": "ojhZKE61QxmNVM244Vfh9g",
+        "slug": "dr-klaustus",
+        "views": 1115,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200193228141.jpg",
+        "created": 1481163068,
+        "title_id": "748165",
+        "tv_rating": "tv-14",
+        "season_number": "7",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1574034248,
+        "first_published": 1481163068,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506142800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193228141.jpg",
+        "cma_id": "1479306"
     },
     {
         "auth": true,
