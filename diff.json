@@ -1,121 +1,60 @@
 {
-    "updated": 1574312599,
+    "updated": 1574312666,
     "added": [
         {
             "auth": false,
-            "ott_launch_date": 1446844260,
-            "auth_expiration_date": 1573016340,
-            "tms_id": "EP004625750018",
-            "rating": 8.027011,
-            "description": "Phil gets on a cost cutting kick and hires an efficiency expert named \"Dvd\" (formerly \"David\"-- but he cut vowels from his life to save time).  Harvey is forced to prove his worth or be sent packing.  The pressure to find a case increases as Harvey's every move is timed and assigned a dollar value.  Also, X the Eliminator returns in an effort to, well, kill Harvey.",
+            "ott_launch_date": null,
+            "auth_expiration_date": 1574265540,
+            "tms_id": "EP027028650005",
+            "description": "Fujiko seems to fall in love with Luca, a young circus performer. But the truth is that Fujiko is simply pretending in order to lure him into revealing her all the magic tricks that he has learned from his recently deceased mentor.",
             "title_suggest": {
                 "input": [
-                    "Gone Efficien...t",
-                    "Efficien...t"
+                    "The Magician's Left Hand",
+                    "Magician's Left Hand",
+                    "Left Hand",
+                    "Hand"
                 ]
             },
-            "type": "episode",
-            "title": "Gone Efficien...t",
             "expiration_date": 1577336340,
+            "title": "The Magician's Left Hand",
+            "type": "episode",
             "platforms": [
                 "web",
-                "mobile",
-                "ott"
+                "mobile"
             ],
-            "collection_id": "E6RZbJoRQliL44vITSybtA",
-            "duration": 695.01,
-            "episode_number": "9",
+            "duration": 1293.7674341,
+            "collection_id": "kQEL4HvBQheyH0IH9yiFfQ",
+            "episode_number": "5",
             "original_air_date": null,
             "clip_order": null,
-            "auth_launch_date": 1569988800,
-            "modified": 1573902860,
-            "media_id": "21cd39392fe5c3e32e3253160cd90468c6eb5ffc",
-            "airing_id": "RADS1011151900037737",
-            "id": "HNjtLY7YSfGsyamMtzshQQ",
-            "slug": "gone-efficien-t",
-            "views": 485056,
+            "auth_launch_date": 1561561200,
+            "modified": 1573900465,
+            "media_id": "8c461586dfabb902867d3c460b4e9fa51422dac2",
+            "airing_id": "RADS1011151900037767",
+            "id": "dwiMLoBiQDqAgceb18DILQ",
+            "slug": "the-magicians-left-hand",
+            "views": 1120,
             "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1402945467,
-            "title_id": "544401",
-            "season_number": "2",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151983598926815.jpg",
+            "created": 1497296398,
+            "season_number": "1",
+            "title_id": "2128605",
             "tv_rating": "tv-14",
-            "active": true,
+            "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1573902860,
-            "tags": [
-                "harvey birdman episode attorney at law 18 gone efficient dvd david"
-            ],
-            "rating_count": 1444,
-            "collection_title": "Harvey Birdman, Attorney at Law",
+            "published": 1573900465,
+            "first_published": 1500459056,
+            "tags": [],
+            "collection_title": "Lupin the 3rd Part 4",
             "modified_by": "ODT Listener",
             "launch_date": 1574312400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_018_pt2-03.jpg",
-            "cma_id": "",
-            "collection_slug": "harvey-birdman-attorney-at-law",
-            "collection_title_id": "340539",
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151983598926815.jpg",
+            "cma_id": "2128605",
+            "collection_slug": "lupin-the-3rd-part-4",
+            "collection_title_id": "2128589",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": 1446844200,
-            "auth_expiration_date": 1569988740,
-            "tms_id": "EP004625750014",
-            "rating": 8.715234,
-            "description": "Speed Buggy is arrested for leading the cops on a high-speed chase.  As Harvey prepares for the trial, longtime assistant Avenger resigns, landing a job with Harvey's rival Vulturo.  Harvey searches for a replacement, downgrading from a legal eagle to a legal finch.",
-            "title_suggest": {
-                "input": [
-                    "High Speed Buggy Chase",
-                    "Speed Buggy Chase",
-                    "Buggy Chase",
-                    "Chase"
-                ]
-            },
-            "type": "episode",
-            "title": "High Speed Buggy Chase",
-            "expiration_date": 1574312340,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "E6RZbJoRQliL44vITSybtA",
-            "duration": 695.018,
-            "episode_number": "4",
-            "original_air_date": null,
-            "clip_order": null,
-            "auth_launch_date": 1566964800,
-            "modified": 1570869492,
-            "media_id": "d1ce218e903abf8ff899150580f6fad5b233c27c",
-            "airing_id": "RADS1010111900027023",
-            "id": "YVAw3bsfQHit8BPxLZcGRQ",
-            "slug": "high-speed-buggy-chase",
-            "views": 269495,
-            "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1402945467,
-            "title_id": "541626",
-            "season_number": "2",
-            "tv_rating": "tv-14-d",
-            "active": true,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1570869492,
-            "tags": [
-                "harvey birdman episode attorney at law 13 high speed buggy chase oj vulturo avenger quits"
-            ],
-            "rating_count": 604,
-            "collection_title": "Harvey Birdman, Attorney at Law",
-            "modified_by": "ODT Listener",
-            "launch_date": 1571284800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_013_pt1-04.jpg",
-            "cma_id": "",
-            "collection_slug": "harvey-birdman-attorney-at-law",
-            "collection_title_id": "340539",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
