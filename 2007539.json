@@ -242,7 +242,7 @@
     },
     {
         "ott_launch_date": 1520865060,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1577336340,
         "tms_id": "EP018514630029",
         "description": "At Tommy's first day of school, he must climb the social pyramid to get the girl he likes.",
@@ -566,7 +566,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1519659060,
         "auth_expiration_date": 1574312340,
         "tms_id": "EP018514630024",
