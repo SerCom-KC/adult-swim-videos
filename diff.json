@@ -1,81 +1,24 @@
 {
-    "updated": 1574356581,
-    "added": [],
-    "removed": [
+    "updated": 1574358141,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "The team must battle the Union's deadliest weapon!",
+            "description": "Joe Pera Talks With You returns to Adult Swim Friday, December 6th at Midnight ET/PT.",
             "title_suggest": {
                 "input": [
-                    "Sneak Peek \u2013 Season Finale",
-                    "Peek \u2013 Season Finale",
-                    "\u2013 Season Finale",
-                    "Season Finale",
-                    "Finale"
-                ]
-            },
-            "title": "Sneak Peek \u2013 Season Finale",
-            "expiration_date": null,
-            "type": "clip",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "online-exclusive",
-                "roku"
-            ],
-            "collection_id": "AWvnoDt9CorLtcgflsOx",
-            "duration": 14.97,
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "media_id": "",
-            "modified": 1568644902,
-            "slug": "sneak-peek-season-finale",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20190912/thumbnails/1_19912153374-promo_genLOCK_Top108_Sat_15.jpg",
-            "created": 1568316792,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1568644902,
-            "tags": [
-                "gen:lock",
-                "rooster teeth",
-                "toonami",
-                "anime",
-                "adult swim",
-                "sneak peek",
-                "preview",
-                "promo"
-            ],
-            "collection_title": "gen:LOCK",
-            "disable_ads": false,
-            "modified_by": "Jared Marquez",
-            "launch_date": 1568642448,
-            "poster": "https://media.cdn.adultswim.com/uploads/20190912/thumbnails/2_19912153374-promo_genLOCK_Top108_Sat_15.jpg",
-            "id": "AW0m9x19CorLtcgfluVd",
-            "auth": false,
-            "collection_slug": "gen-lock",
-            "collection_title_id": "2201604",
-            "online_exclusives": true
-        },
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Enter a new age. gen:LOCK premieres Saturday at 11:30a ET, only on Toonami.",
-            "title_suggest": {
-                "input": [
-                    "gen:LOCK Trailer",
+                    "Joe Pera Talks With You Season 2 Trailer",
+                    "Pera Talks With You Season 2 Trailer",
+                    "Talks With You Season 2 Trailer",
+                    "With You Season 2 Trailer",
+                    "You Season 2 Trailer",
+                    "Season 2 Trailer",
+                    "2 Trailer",
                     "Trailer"
                 ]
             },
-            "title": "gen:LOCK Trailer",
+            "title": "Joe Pera Talks With You Season 2 Trailer",
             "expiration_date": null,
             "type": "clip",
             "platforms": [
@@ -85,41 +28,41 @@
                 "online-exclusive",
                 "roku"
             ],
-            "collection_id": "AWvnoDt9CorLtcgflsOx",
-            "duration": 60.1,
+            "collection_id": "AWK7V5RwTdxzjxdClXz8",
+            "duration": 57.96,
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "",
-            "modified": 1564161844,
-            "slug": "gen-lock-trailer",
+            "modified": 1574357943,
+            "slug": "joe-pera-talks-with-you-season-2-trailer",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20190726/thumbnails/1_197261323470-promo_GenLock_Sat_60.jpg",
-            "created": 1564161840,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191104/thumbnails/1_19114104529-promo_JoePera_S2.jpg",
+            "created": 1572879948,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1564161844,
+            "published": 1574357943,
             "tags": [
-                "gen:lock",
-                "rooster teeth",
-                "toonami",
-                "anime",
+                "joe pera talks with you",
+                "preview",
                 "adult swim",
-                "promo"
+                "promo",
+                "video"
             ],
-            "collection_title": "gen:LOCK",
+            "collection_title": "Joe Pera Talks With You",
             "disable_ads": false,
             "modified_by": "Jared Marquez",
-            "launch_date": 1564408800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20190726/thumbnails/2_197261323470-promo_GenLock_Sat_60.jpg",
-            "id": "AWwvT5ZH4aLemgzOLGEF",
+            "launch_date": 1572980400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191104/thumbnails/2_19114104529-promo_JoePera_S2.jpg",
+            "id": "AW4281yo1YiBSfg0KYO2",
             "auth": false,
-            "collection_slug": "gen-lock",
-            "collection_title_id": "2201604",
+            "collection_slug": "joe-pera-talks-with-you",
+            "collection_title_id": "2161118",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
