@@ -245,6 +245,56 @@
         "cma_id": "2085188"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1474295400,
+        "auth_expiration_date": 1576731540,
+        "tms_id": "EP024500790012",
+        "description": "Animated sketches from the mind of Brad Neely. Special guest star Father John Misty.",
+        "title_suggest": {
+            "input": [
+                "For Alba",
+                "Alba"
+            ]
+        },
+        "expiration_date": 1561647540,
+        "title": "For Alba",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 673.016,
+        "collection_id": "1r8KVM1NTTWjxDdQ5UrEOA",
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574312400,
+        "modified": 1573893009,
+        "media_id": "e6218c8bdcbc760f6ed4ec61d8e1ca758597472b",
+        "airing_id": "RADS1011151900037731",
+        "id": "aoQ2rqJQQ0a107ry1whtAg",
+        "slug": "for-alba",
+        "views": 7522,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1473689860,
+        "season_number": "1",
+        "title_id": "2088940",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573893009,
+        "first_published": 1473919846,
+        "tags": [],
+        "collection_title": "Brad Neely's Harg Nallin' Sclopio Peepio",
+        "modified_by": "ODT Listener",
+        "launch_date": 1558623600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/for-alba/bnhnsp_110_NoAdsCue_dup-20160803.jpg",
+        "cma_id": "1477561"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1468852260,
         "auth_expiration_date": 1565927940,

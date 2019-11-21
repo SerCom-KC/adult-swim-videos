@@ -304,5 +304,54 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20190823/thumbnails/2_19823158274-genlock_004_dup-20190725.jpg",
         "id": "AWy_KCo44aLemgzOLGS4",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1571716799,
+        "tms_id": "EP032701900004",
+        "description": "A recruit's talent for tinkering raises concerns. Chase receives an overdue upgrade. The Vanguard goes on the offensive and engages a frighteningly familiar foe.",
+        "title_suggest": {
+            "input": [
+                "The Best Defense",
+                "Best Defense",
+                "Defense"
+            ]
+        },
+        "title": "The Best Defense",
+        "type": "episode",
+        "expiration_date": 1575521999,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWvnoDt9CorLtcgflsOx",
+        "duration": 1406.9055,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1570345200,
+        "clip_order": null,
+        "airing_id": "RADS1011171900037884",
+        "media_id": "12e81a742aae2707c137f10b06edebc6613cb18b",
+        "modified": 1574035087,
+        "slug": "the-best-defense",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190830/thumbnails/1_198301514520-genlock_005_dup-20190725.jpg",
+        "created": 1567107371,
+        "title_id": "2201609",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574035087,
+        "tags": [],
+        "collection_title": "gen:LOCK",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1574312400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20190830/thumbnails/2_198301514520-genlock_005_dup-20190725.jpg",
+        "id": "AWze4NK3CorLtcgfluBP",
+        "auth": false
     }
 ]

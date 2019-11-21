@@ -643,6 +643,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1574917140,
+        "tms_id": "EP007164450240",
+        "description": "Roger runs off in disguise as a Julia Roberts character to a small town after Stan hurts his feelings. Steve plans a meeting when he finds out that Jeff and Barry have never met.",
+        "title_suggest": {
+            "input": [
+                "Julia Rogerts",
+                "Rogerts"
+            ]
+        },
+        "title": "Julia Rogerts",
+        "type": "episode",
+        "expiration_date": 1554735540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.97,
+        "episode_number": "14",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574312400,
+        "modified": 1574033526,
+        "media_id": "dc755a68ae1822c19929072d1d89cbd4a0b4fda1",
+        "airing_id": "RADS1011171900037880",
+        "id": "Mtpd7rRDTN2tl4NtdbAaSw",
+        "slug": "julia-rogerts",
+        "views": 1533,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175188327576.jpg",
+        "created": 1497759043,
+        "title_id": "2069545",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1574033526,
+        "first_published": 1497759043,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554130800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg",
+        "cma_id": "1419613"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1574398740,
         "tms_id": "EP007164450229",
         "description": "Stan is upset at the idea of becoming a grandfather after Hayley and Jeff announce they're trying to have a baby. Steve and Klaus join a drug gang after Steve decides to take being an uncle extra seriously.",
@@ -689,7 +738,7 @@
         "cma_id": "1342854"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1574314140,
         "tms_id": "EP007164450119",
@@ -935,56 +984,6 @@
         "launch_date": 1505966400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464896793819.jpg",
         "cma_id": "1479184"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574312340,
-        "tms_id": "EP007164450228",
-        "description": "Stan is embarrassed when a painting of Francine's genitals, done by a famous artist, is unveiled at the museum. Steve turns to helping people after masturbation is ruined by his mom's portrait.",
-        "title_suggest": {
-            "input": [
-                "Portrait of Francine's Genitals",
-                "of Francine's Genitals",
-                "Francine's Genitals",
-                "Genitals"
-            ]
-        },
-        "title": "Portrait of Francine's Genitals",
-        "type": "episode",
-        "expiration_date": 1557759540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.4,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1573707600,
-        "clip_order": null,
-        "modified": 1573286065,
-        "media_id": "11ace947a1678de01b3f446f06c28a4e33a58a9a",
-        "airing_id": "RADS1011081900036089",
-        "id": "hdcVKrFvQty4nyJhGa7MxQ",
-        "slug": "portrait-of-francines-genitals",
-        "views": 1047,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151752459586316.jpg",
-        "created": 1481112649,
-        "title_id": "2069535",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573286065,
-        "first_published": 1481112649,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1557154800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg",
-        "cma_id": "1338735"
     },
     {
         "auth": true,

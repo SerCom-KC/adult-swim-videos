@@ -1,6 +1,55 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1452099600,
+        "auth_expiration_date": 1572494340,
+        "tms_id": "SH019881990000",
+        "description": "Dr. Stork's successful toe clipping practice draws the attention of a local detective.",
+        "title_suggest": {
+            "input": [
+                "Toes"
+            ]
+        },
+        "expiration_date": 1577336340,
+        "title": "Toes",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 675.38,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1569470400,
+        "modified": 1573903210,
+        "media_id": "f05efd9111211e8a37dfd415a772b2e3dab12886",
+        "airing_id": "RADS1011151900037774",
+        "id": "2FE2cUitRLCMDwBM2cQ7DA",
+        "slug": "toes",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1410544678,
+        "season_number": "1",
+        "title_id": "2024896",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573903210,
+        "first_published": 1411366831,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574312400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/toes/tebs_cc_102_pt1_1.jpg",
+        "cma_id": "2024896"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "tms_id": "EP019881990009",
         "description": "A shady character helps Gary Royce overcome a strange addiction; for a price.",
@@ -534,7 +583,7 @@
         "cma_id": "1480947"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505744940,
         "auth_expiration_date": 1577336340,
         "tms_id": "EP019881990013",
@@ -680,55 +729,6 @@
         "launch_date": 1568865600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-endorsement/tebs_cc_106_pt1_1.jpg",
         "cma_id": "1039683"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447785600,
-        "auth_expiration_date": 1574312340,
-        "tms_id": "EP019881990005",
-        "description": "Franklin Bing welcomes fellow actor and barista Tony K. Dort as his new roommate. Will their mutual love for latin jazz unite them, or will Dort represent another failed living arrangement for Bing? Dort's mom. Dos Tortugas.",
-        "title_suggest": {
-            "input": [
-                "Roommates"
-            ]
-        },
-        "expiration_date": 1571284740,
-        "title": "Roommates",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 1255.96,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1571284800,
-        "modified": 1573492262,
-        "media_id": "94bab682925cd040fa74fcf3bc7f013cc87a0f00",
-        "airing_id": "RADS1009061900019223",
-        "id": "tgov7jOSSLGkHZGPVnMxMg",
-        "slug": "roommates",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152950474525716.jpg",
-        "created": 1410544763,
-        "season_number": "1",
-        "title_id": "2024895",
-        "tv_rating": "tv-ma-s",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573492262,
-        "first_published": 1413181259,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1568260800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152950474525716.jpg",
-        "cma_id": "1154562"
     },
     {
         "auth": true,
