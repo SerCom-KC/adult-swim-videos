@@ -357,6 +357,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447171320,
+        "auth_expiration_date": 1568174340,
+        "tms_id": "EP007959510010",
+        "rating": 8.219726,
+        "description": "In order to masturbate and still go to heaven, Orel hatches a hair-brained scheme that turns Moralton topsy-turvy.",
+        "title_suggest": {
+            "input": [
+                "God's Chef",
+                "Chef"
+            ]
+        },
+        "type": "episode",
+        "title": "God's Chef",
+        "expiration_date": 1577336340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 675.028,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1565150400,
+        "modified": 1573902728,
+        "media_id": "8ffe9e30a53b7ac44d11272bade847238eeedf7d",
+        "airing_id": "RADS1011151900037768",
+        "id": "BLXOHqdmTW2J0DxaG10GBA",
+        "slug": "gods-chef",
+        "views": 262490,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945470,
+        "title_id": "630819",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573902728,
+        "tags": [
+            "moral orel episode 2 god's chef masturbation"
+        ],
+        "rating_count": 933,
+        "collection_title": "Moral Orel",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574312400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_002_pt2-03.jpg",
+        "cma_id": "1313723"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447173240,
         "auth_expiration_date": 1566964740,
         "tms_id": "EP007959510046",
@@ -778,57 +831,5 @@
         "launch_date": 1554994800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_017_pt1-04.jpg",
         "cma_id": "1365127"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447173180,
-        "auth_expiration_date": 1565150340,
-        "tms_id": "EP007959510041",
-        "rating": 8.891217,
-        "description": "It's Easter and the lack of happiness in Moralton leads several troubled souls to Forghetty's Pub for some unavailable solace.",
-        "title_suggest": {
-            "input": [
-                "Sacrifice"
-            ]
-        },
-        "type": "episode",
-        "title": "Sacrifice",
-        "expiration_date": 1574312340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 703.022,
-        "episode_number": "11",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1562126400,
-        "modified": 1570862167,
-        "media_id": "9f6f677b3fd3a841dc6527b4c9b8fbc128829a76",
-        "airing_id": "RADS1010111900027014",
-        "id": "yWQq6n5ISUO79682qNzifg",
-        "slug": "sacrifice",
-        "views": 292820,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945470,
-        "title_id": "723838",
-        "season_number": "3",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1570862167,
-        "tags": [
-            "moral orel episode 41 sacrifice easter clay doctor potterswheel officer papermouth"
-        ],
-        "rating_count": 1048,
-        "collection_title": "Moral Orel",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571284800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_041_pt1-04.jpg",
-        "cma_id": "723838"
     }
 ]

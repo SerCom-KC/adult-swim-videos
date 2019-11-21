@@ -149,6 +149,61 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1446763140,
+        "auth_expiration_date": null,
+        "tms_id": "EP008626240014",
+        "rating": 7.930254,
+        "description": "Killface makes an important career decision.",
+        "title_suggest": {
+            "input": [
+                "Behold a Dark Horse",
+                "a Dark Horse",
+                "Dark Horse",
+                "Horse"
+            ]
+        },
+        "type": "episode",
+        "title": "Behold a Dark Horse",
+        "expiration_date": 1577336340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 654.023,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1573893142,
+        "media_id": "99257cbd5e84b4882dab0bf567d54b293bc2f197",
+        "airing_id": "RADS1011151900037735",
+        "id": "rqF5mgwaSvqGueuxzbridQ",
+        "slug": "behold-a-dark-horse",
+        "views": 596210,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945466,
+        "title_id": "677648",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1573893142,
+        "tags": [
+            "frisky dingo episode 14 201 killface president campaign running mate"
+        ],
+        "rating_count": 4373,
+        "collection_title": "Frisky Dingo",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574312400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/behold-a-dark-horse/fd_014_bim.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1446762960,
         "auth_expiration_date": null,
         "tms_id": "EP008626240010",
@@ -199,60 +254,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1571889600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/flowers-for-nearl/fd_010_bim.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446762900,
-        "auth_expiration_date": null,
-        "tms_id": "EP008626240009",
-        "rating": 6.5430193,
-        "description": "Killface and billionaire tycoon Xander Crews (operating under the nom de guerre of Barnaby Jones) are now roommates and bestest buds. But their friendship-even though it's based entirely on a lie-will be tested to the limit when Simon runs away with billionaire tycoon Xander Crews' robot pants. And also when Killface blinds \"Barnaby.\"",
-        "title_suggest": {
-            "input": [
-                "The Odd Couple",
-                "Odd Couple",
-                "Couple"
-            ]
-        },
-        "type": "episode",
-        "title": "The Odd Couple",
-        "expiration_date": 1574312340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 640,
-        "episode_number": "9",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1570878612,
-        "media_id": "867cab15c04960554befdf7ff3dc0b02480bd12c",
-        "airing_id": "RADS1010111900027018",
-        "id": "yLZY6quTQqWBTiE-_rz8ww",
-        "slug": "the-odd-couple",
-        "views": 341871,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945466,
-        "title_id": "654435",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1570878612,
-        "tags": [
-            "frisky dingo episode 9 the odd couple killface barnaby jones blind robot pants"
-        ],
-        "rating_count": 3022,
-        "collection_title": "Frisky Dingo",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571284800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-odd-couple/fd_009_bim.jpg",
         "cma_id": ""
     }
 ]
