@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 21, 2019 at 21:01:09 EST_
+_Last Update: November 21, 2019 at 21:30:39 EST_
 ## Video added
 ### Summary
-2196566 Momma Named Me Sheriff: 2  
-### 2196568
-**Momma Named Me Sheriff S01E02 - Smelly Glenn**  
-TV-MA-V 🔓 11:13  
-⌛ December 16, 2019 at 03:14:00 EST  
-https://www.adultswim.com/videos/momma-named-me-sheriff/smelly-glenn  
-seriesid=`2196566` titleid=`2196568` id=`AW5qjExh1YiBSfg0KYe2` mediaid=`f5982effad1dfbbbef2d09371b873e08165905f6`  
-_When Sheriff learns that he was once a bully to a long lost schoolmate, he sets out to right his wrong._  
-<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg" height="144px" /></a>
-### 2196569
-**Momma Named Me Sheriff S01E03 - Stuck**  
-TV-MA 🔓 11:16  
-⌛ December 16, 2019 at 03:29:00 EST  
-https://www.adultswim.com/videos/momma-named-me-sheriff/stuck  
-seriesid=`2196566` titleid=`2196569` id=`AW5qjLBr1YiBSfg0KYe3` mediaid=`c01805fe1c0e2a6092ae3c1b99dbc081cc4b6dae`  
-_When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better._  
-<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg" height="144px" /></a>
+2022095 Black Jesus: 1  
+### 2160590
+**Black Jesus S03E09 - God's Team**  
+TV-MA-L 🔓 22:50  
+⌛ December 14, 2019 at 03:29:00 EST  
+https://www.adultswim.com/videos/black-jesus/gods-team  
+seriesid=`2022095` titleid=`2160590` id=`AW2EVCG6adNs2hMNfuIs` mediaid=`36627d538b007dfd444e729c405b7ce1583691f8`  
+_Jesus suddenly finds himself as the coach for the Compton Devils junior high football.  His agenda to spread love and kindness is at odd with winning at all costs, and we see his struggle play out in the big game._  
+<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151122482-blackjesus_309_air_cid-3FYM4.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151122482-blackjesus_309_air_cid-3FYM4.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
