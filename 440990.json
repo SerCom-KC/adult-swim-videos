@@ -101,6 +101,55 @@
         "cma_id": "1451378"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575014340,
+        "tms_id": "EP002960010179",
+        "rating": 8.591838,
+        "description": "Lois and Bonnie travel to Paris, where Bonnie has an affair with a Frenchman in a wheelchair; Peter decides to home school Meg and Chris.",
+        "title_suggest": {
+            "input": [
+                "Foreign Affairs",
+                "Affairs"
+            ]
+        },
+        "type": "episode",
+        "title": "Foreign Affairs",
+        "expiration_date": 1494741599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1297.7965,
+        "episode_number": "17",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574409600,
+        "modified": 1574039047,
+        "media_id": "f1f797e169e4146a401349fd027ca60a3c270b9d",
+        "airing_id": "RADS1011171900037907",
+        "id": "GGjPthZ5T82uDo5Jbe3j5Q",
+        "slug": "foreign-affairs",
+        "views": 25449,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152053923346114.jpg",
+        "created": 1402945465,
+        "title_id": "846686",
+        "season_number": "9",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574039047,
+        "tags": [],
+        "rating_count": 49,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1494136800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152053923346114.jpg",
+        "cma_id": "1391405"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1559541540,
@@ -515,57 +564,6 @@
         "launch_date": 1506765600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088961897018.jpg",
         "cma_id": "1485268"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574409540,
-        "tms_id": "EP002960010162",
-        "rating": 6.246725,
-        "description": "After Brian writes a bestselling self-help book, he hires Stewie to be his publicist - and begins treating him poorly during a book promotion.",
-        "title_suggest": {
-            "input": [
-                "Brian Writes a Bestseller",
-                "Writes a Bestseller",
-                "a Bestseller",
-                "Bestseller"
-            ]
-        },
-        "type": "episode",
-        "title": "Brian Writes a Bestseller",
-        "expiration_date": 1490768999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1302.7682,
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573804800,
-        "modified": 1573465211,
-        "media_id": "45bf796bccf51e906724f2a421375b021effcefa",
-        "airing_id": "RADS1011081900036104",
-        "id": "mqtuqChJR5Wqtv89fYYRRw",
-        "slug": "brian-writes-a-bestseller",
-        "views": 137506,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152026919552410.jpg",
-        "created": 1402945465,
-        "title_id": "809143",
-        "season_number": "9",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573465211,
-        "tags": [],
-        "rating_count": 458,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1490164200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152026919552410.jpg",
-        "cma_id": "1367009"
     },
     {
         "auth": false,
