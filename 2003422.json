@@ -48,6 +48,54 @@
         "cma_id": "2003443"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575008940,
+        "tms_id": "EP012792980036",
+        "description": "Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back.",
+        "title_suggest": {
+            "input": [
+                "Nude Beach",
+                "Beach"
+            ]
+        },
+        "expiration_date": 1503467999,
+        "title": "Nude Beach",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1293.1919,
+        "episode_number": "11",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574404200,
+        "modified": 1574037608,
+        "media_id": "4d479a4000b4c5f006811ad5bb56110aedb5ec29",
+        "airing_id": "RADS1011171900037898",
+        "id": "-iEHRbHnQaKmCbMl2ZZQeQ",
+        "slug": "nude-beach",
+        "views": 6619,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227744265846.jpg",
+        "created": 1403210586,
+        "season_number": "3",
+        "title_id": "2003522",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574037608,
+        "first_published": 1414988426,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1502863200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg",
+        "cma_id": "2003522"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1568087940,
         "tms_id": "EP012792980141",
@@ -434,55 +482,6 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg",
         "cma_id": "2003514"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574404140,
-        "tms_id": "EP012792980020",
-        "description": "Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help.",
-        "title_suggest": {
-            "input": [
-                "Dr. Yap",
-                "Yap"
-            ]
-        },
-        "expiration_date": null,
-        "title": "Dr. Yap",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1292.0574,
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573799400,
-        "modified": 1573475300,
-        "media_id": "a409c80e69cea0e5280555c6aaa2bd0673808013",
-        "airing_id": "RADS1011081900036109",
-        "id": "mXBWtsgfTi6STJB21Re0nw",
-        "slug": "dr-yap",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15221627126382.jpg",
-        "created": 1403210097,
-        "season_number": "2",
-        "title_id": "2003441",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573475300,
-        "first_published": 1407727266,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg",
-        "cma_id": "2003441"
     },
     {
         "auth": true,
