@@ -1,56 +1,64 @@
 {
-    "updated": 1574389839,
+    "updated": 1574395245,
     "added": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1576312140,
+            "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Jesus suddenly finds himself as the coach for the Compton Devils junior high football.  His agenda to spread love and kindness is at odd with winning at all costs, and we see his struggle play out in the big game.",
+            "description": "Best get a pillow quick.",
             "title_suggest": {
                 "input": [
-                    "God's Team",
-                    "Team"
+                    "The Real Jesus of Compton",
+                    "Real Jesus of Compton",
+                    "Jesus of Compton",
+                    "of Compton",
+                    "Compton"
                 ]
             },
-            "title": "God's Team",
-            "expiration_date": 1574670540,
-            "type": "episode",
+            "title": "The Real Jesus of Compton",
+            "expiration_date": null,
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
             "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-            "duration": 1370.43,
-            "episode_number": "9",
+            "duration": 36.77,
             "original_air_date": null,
-            "auth_launch_date": 1574670600,
+            "auth_launch_date": null,
             "clip_order": null,
-            "media_id": "36627d538b007dfd444e729c405b7ce1583691f8",
-            "modified": 1574389152,
-            "airing_id": "RADS1011221900039530",
-            "slug": "gods-team",
+            "media_id": "",
+            "modified": 1574393480,
+            "slug": "the-real-jesus-of-compton",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/1_1910151122482-blackjesus_309_air_cid-3FYM4.jpg",
-            "created": 1569883169,
-            "season_number": "3",
-            "title_id": "2160590",
-            "tv_rating": "tv-ma-l",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191025/thumbnails/1_191025919232-blackjesus_ep310_RealJesusOfCompton_Sneak.jpg",
+            "created": 1572009590,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1574389152,
-            "tags": [],
+            "published": 1574393480,
+            "tags": [
+                "black jesus",
+                "sneak peek",
+                "preview",
+                "adult swim",
+                "promo"
+            ],
             "collection_title": "Black Jesus",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1574388000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151122482-blackjesus_309_air_cid-3FYM4.jpg",
-            "id": "AW2EVCG6adNs2hMNfuIs",
+            "modified_by": "Duke Nguyen",
+            "launch_date": 1574344800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191025/thumbnails/2_191025919232-blackjesus_ep310_RealJesusOfCompton_Sneak.jpg",
+            "id": "AW4DEsCRadNs2hMNfuXW",
             "auth": false,
             "collection_slug": "black-jesus",
             "collection_title_id": "2022095",
-            "online_exclusives": false
+            "online_exclusives": true
         }
     ],
     "removed": []
