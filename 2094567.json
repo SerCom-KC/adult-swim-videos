@@ -242,54 +242,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041407499920.jpg"
     },
     {
-        "ott_launch_date": 1542641400,
-        "auth_expiration_date": 1574398740,
-        "tms_id": "",
-        "description": "Patient 30 visits Dream Corp LLC for treatment of a long list of \"symptoms.\" A chemical spill in the Lab puts the facility on lock down. A new side of Ahmed is revealed while 88 is put in grave danger.",
-        "title_suggest": {
-            "input": [
-                "Staff Infection",
-                "Infection"
-            ]
-        },
-        "expiration_date": 1571284740,
-        "type": "episode",
-        "title": "Staff Infection",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 677.6,
-        "episode_number": "9",
-        "original_air_date": null,
-        "auth_launch_date": 1571371200,
-        "clip_order": null,
-        "media_id": "d01f3050a693271ee1c64b08ace75a38f5c8b6e8",
-        "modified": 1573492253,
-        "airing_id": "RADS1010111900027059",
-        "slug": "staff-infection",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154221706621913.jpg",
-        "created": 1531767336,
-        "season_number": "2",
-        "title_id": "2133693",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573492253,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1568865600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221706621913.jpg",
-        "id": "AWSkcq60qBveI_0AhK5D",
-        "auth": false
-    },
-    {
         "ott_launch_date": 1543246140,
         "auth_expiration_date": 1575608340,
         "tms_id": "",
@@ -1086,5 +1038,53 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15435281874946.jpg",
         "id": "AWdhcx17qD68dq0Op5na",
         "auth": false
+    },
+    {
+        "ott_launch_date": 1543851000,
+        "auth_expiration_date": 1577422740,
+        "tms_id": "EP025239370021",
+        "description": "Patient 101 is wheeled into Dream Corp LLC as part of a court-ordered evaluation. Dr. Roberts struggles to navigate Patient 101's subconscious and calls on the entire staff to help contain their most challenging patient to date.",
+        "title_suggest": {
+            "input": [
+                "The Krux",
+                "Krux"
+            ]
+        },
+        "title": "The Krux",
+        "expiration_date": 1574312340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 1007.67,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1574398800,
+        "clip_order": null,
+        "media_id": "cc192a8e03e59f19a490568e5cd221a1b7e2671e",
+        "modified": 1574037608,
+        "airing_id": "RADS1010181900028696",
+        "slug": "the-krux",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154353101768015.jpg",
+        "created": 1543531021,
+        "season_number": "2",
+        "title_id": "2133698",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574037608,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1571889600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154353101768015.jpg",
+        "id": "AWdhnkZrqD68dq0Op5ny",
+        "auth": true
     }
 ]
