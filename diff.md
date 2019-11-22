@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 21, 2019 at 14:30:35 EST_
+_Last Update: November 21, 2019 at 20:00:47 EST_
 ## Video added
-### Summary
-2020945 Attack on Titan: 1  
-### 2020955
-**Attack on Titan S01E10 - Response: The Struggle for Trost, Part 6**  
-TV-14 🔒 22:21  
-⌛ December 26, 2019 at 23:59:00 EST  
-https://www.adultswim.com/videos/attack-on-titan/response-the-struggle-for-trost-part-6  
-seriesid=`2020945` titleid=`2020955` id=`764x1tjSS-6tvGyHNACciw` mediaid=`622152013c4503c0138c357531f356d9c5d29d4a`  
-_Cadets respond to Eren's terrifying transformation with doubt and fear as he struggles to understand it himself. If Armin can't talk the commander into using Eren's newfound powers for the good of humankind, all hope of stopping the Titans might be lost._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/response-the-struggle-for-trost-part-6/attackontitan_cc_10_pt3-02_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/response-the-struggle-for-trost-part-6/attackontitan_cc_10_pt3-02_1.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+618253 12 oz. Mouse: 1  
+### 651321
+**12 oz. Mouse S02E04 - Star Wars VII**  
+TV-14 🔓 11:29  
+https://www.adultswim.com/videos/12-oz-mouse/star-wars-vii  
+seriesid=`618253` titleid=`651321` id=`6qApvi4WTR-Shr69AHaUrA`  
+_Someone has chosen Mouse to appear in a TV commercial for an all natural health tonic.  Mouse turns down the role when he learns it contains a mere 35 percent alcohol._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_011_pt1-05.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_011_pt1-05.jpg" height="144px" /></a>
