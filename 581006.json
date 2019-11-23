@@ -494,55 +494,6 @@
         "cma_id": "1411253"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574486940,
-        "tms_id": "EP007164450024",
-        "rating": 7.766234,
-        "description": "Stan desperately wants to send Steve to summer camp but accidentally sends him to a refugee camp. Stan turns the refugee camp into a summer camp so Steve can have the camp \"experience.\" Back at home, Roger and Francine role-play as a professor and wife for a dinner party.",
-        "title_suggest": {
-            "input": [
-                "Camp Refoogee",
-                "Refoogee"
-            ]
-        },
-        "type": "episode",
-        "title": "Camp Refoogee",
-        "expiration_date": 1500004799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1306.2716,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573882200,
-        "modified": 1573765566,
-        "media_id": "c882dd463ad7ec65536c6f45f3b3aabdb11607d1",
-        "airing_id": "RADS1011141900037149",
-        "id": "BNiLDqJDSsaqdSQMQOZEqQ",
-        "slug": "camp-refoogee",
-        "views": 136324,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151991995228819.jpg",
-        "created": 1402945460,
-        "title_id": "700752",
-        "season_number": "2",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573765566,
-        "tags": [],
-        "rating_count": 154,
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1499400000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991995228819.jpg",
-        "cma_id": "1427969"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1574659740,
@@ -892,6 +843,55 @@
         "launch_date": 1505966400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464896793819.jpg",
         "cma_id": "1479184"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575091740,
+        "tms_id": "EP007164450136",
+        "description": "Steve convinces Roger to redeem his most hated and disgusting persona, Ricky Spanish, while Stan and Francine get a visit from the Nigerian boy they once sponsored.",
+        "title_suggest": {
+            "input": [
+                "Ricky Spanish",
+                "Spanish"
+            ]
+        },
+        "title": "Ricky Spanish",
+        "type": "episode",
+        "expiration_date": 1506488399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1292.3244,
+        "episode_number": "17",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574487000,
+        "modified": 1574198888,
+        "media_id": "37c21def8464ff30b255352e31b6f2ef6d1df1bf",
+        "airing_id": "RADS1011191900038035",
+        "id": "kr-W66nzTjGoQeoeLzG0GQ",
+        "slug": "ricky-spanish",
+        "views": 2534,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15308999410931.jpg",
+        "created": 1426134024,
+        "title_id": "748178",
+        "tv_rating": "tv-14",
+        "season_number": "7",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1574198888,
+        "first_published": 1426134024,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1505883600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999410931.jpg",
+        "cma_id": "1477894"
     },
     {
         "auth": true,
