@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 23, 2019 at 02:30:54 EST_
+_Last Update: November 23, 2019 at 03:00:28 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2003527
-**Bob's Burgers S03E16 - Topsy**  
-TV-PG-DLSV 🔒 21:30  
-⌛ November 30, 2019 at 01:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/topsy  
-seriesid=`2003422` titleid=`2003527` id=`AnzNezb8RtW7UnMxRfuf3A` mediaid=`094b5c412cdacb681041f2863bbd80f982e38076`  
-_Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina)._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085647121414.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085647121414.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 865323
+**Family Guy S10E01 - Lottery Fever**  
+TV-14 🔒 21:30  
+⌛ November 30, 2019 at 02:29:00 EST  
+https://www.adultswim.com/videos/family-guy/lottery-fever  
+seriesid=`440990` titleid=`865323` id=`v3W92sbUTOu3KQJ_dfkQUw` mediaid=`977ad893aafca90044138d7f487479c7d06590cb`  
+_Peter blows his savings on lottery tickets and the family writes it off as one of his usual shenanigans until they end up millionaires._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088954924312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088954924312.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2003444
-**Bob's Burgers S02E09 - Beefsquatch**  
-TV-14 🔒 21:32  
-⌛ November 23, 2019 at 01:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/beefsquatch  
-seriesid=`2003422` titleid=`2003444` id=`lnvX70L6QRqXFM7gA-gnyg` mediaid=`d834c8e03f201daba9dac1c65ec593aa2ba1baac`  
-_Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 809146
+**Family Guy S09E08 - New Kidney in Town**  
+TV-14 🔓 21:45  
+⌛ November 23, 2019 at 02:29:00 EST  
+https://www.adultswim.com/videos/family-guy/new-kidney-in-town  
+seriesid=`440990` titleid=`809146` id=`xOTfCOZrRAiiZbDl_8vdLg` mediaid=`d6509e2e39e1b1f19b5b80dc6fa9554aad0edd58`  
+_Peter ruins his kidneys after concocting his own energy drink, prompting Brian to volunteer donating his organs; as President Obama plans on visiting the high school, Chris plagiarizes Meg's thoughts for an essay on hope._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028747491812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028747491812.jpg" height="144px" /></a>
