@@ -2,6 +2,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1575089940,
+        "tms_id": "EP007164450242",
+        "description": "The family competes on the reality show The Bitchin' Race. After Stan and Hayley ditch the less-motivated Steve and Francine and team up, they end up in a Tunisian labor prison.",
+        "title_suggest": {
+            "input": [
+                "The Bitchin' Race",
+                "Bitchin' Race",
+                "Race"
+            ]
+        },
+        "title": "The Bitchin' Race",
+        "type": "episode",
+        "expiration_date": 1555340340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.1,
+        "episode_number": "16",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574485200,
+        "modified": 1574196369,
+        "media_id": "7f8f09f5135027e7060c634e823a41cf7399c501",
+        "airing_id": "RADS1011191900038034",
+        "id": "05iJVgiuR_SKZhxuOw-INQ",
+        "slug": "the-bitchin-race",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151820790837919.jpg",
+        "created": 1500652856,
+        "season_number": "12",
+        "title_id": "2069552",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574196369,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554735600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg",
+        "cma_id": "1449885"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1574747940,
         "tms_id": "EP007164450128",
         "description": "Stan joins Wheels and the Legman as they attempt to solve a mystery involving a key; Klaus has his photo taken for a pet website.",
@@ -446,7 +494,7 @@
         "cma_id": "1411253"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1574486940,
         "tms_id": "EP007164450024",
@@ -542,54 +590,6 @@
         "launch_date": 1566187200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg",
         "cma_id": "1394632"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574485140,
-        "tms_id": "EP007164450230",
-        "description": "Hayley experiences what pregnancy would be like after Roger agrees to give birth to Jeff so he can be human again. Snot's feelings are hurt when Steve secretly signs him up for a makeover.",
-        "title_suggest": {
-            "input": [
-                "Roger's Baby",
-                "Baby"
-            ]
-        },
-        "title": "Roger's Baby",
-        "type": "episode",
-        "expiration_date": 1557759540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.83,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1573880400,
-        "clip_order": null,
-        "modified": 1573482617,
-        "media_id": "3bf1b31e4d30b909c87bd5e7d5847e274013cbf3",
-        "airing_id": "RADS1011081900036119",
-        "id": "M1LxpLBLR8qZPNTNON4wTw",
-        "slug": "rogers-baby",
-        "views": 1063,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175251542555.jpg",
-        "created": 1482099024,
-        "title_id": "2069537",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573482617,
-        "first_published": 1482099024,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1557154800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg",
-        "cma_id": "1347008"
     },
     {
         "auth": true,
