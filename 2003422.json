@@ -249,6 +249,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1575097140,
+        "tms_id": "EP012792980041",
+        "description": "Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina).",
+        "title_suggest": {
+            "input": [
+                "Topsy"
+            ]
+        },
+        "expiration_date": 1507265999,
+        "title": "Topsy",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.9563,
+        "episode_number": "16",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574492400,
+        "modified": 1574198888,
+        "media_id": "094b5c412cdacb681041f2863bbd80f982e38076",
+        "airing_id": "RADS1011191900038039",
+        "id": "AnzNezb8RtW7UnMxRfuf3A",
+        "slug": "topsy",
+        "views": 7070,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085647121414.jpg",
+        "created": 1403211172,
+        "season_number": "3",
+        "title_id": "2003527",
+        "tv_rating": "tv-pg-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574198888,
+        "first_published": 1419222027,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506661200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085647121414.jpg",
+        "cma_id": "2003527"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1574836140,
         "tms_id": "EP012792980031",
         "description": "In an homage to Jaws, Bob's landlord and pier proprietor Mr. Fischoeder buys a mechanical shark as a pier attraction, but when it turns wild and starts terrorizing the town, it's up to Bob and the family to stop it.",
@@ -389,51 +437,6 @@
         "launch_date": 1503034200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277452448210.jpg",
         "cma_id": "2003525"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574492340,
-        "tms_id": "EP012792980018",
-        "description": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
-        "title_suggest": {
-            "input": [
-                "Beefsquatch"
-            ]
-        },
-        "title": "Beefsquatch",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1292.1576,
-        "episode_number": "9",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573887600,
-        "modified": 1573471567,
-        "media_id": "d834c8e03f201daba9dac1c65ec593aa2ba1baac",
-        "airing_id": "RADS1011081900036127",
-        "id": "lnvX70L6QRqXFM7gA-gnyg",
-        "slug": "beefsquatch",
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216331674219.jpg",
-        "created": 1403213495,
-        "season_number": "2",
-        "title_id": "2003444",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573471567,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg",
-        "cma_id": "2003444"
     },
     {
         "auth": true,
