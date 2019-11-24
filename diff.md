@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 24, 2019 at 06:30:40 EST_
+_Last Update: November 24, 2019 at 07:00:38 EST_
 ## Video added
 ### Summary
-2193955 JoJo's Bizarre Adventure: 1  
-### 2193961
-**JoJo's Bizarre Adventure S04E05 - Find Polpo's Fortune!**  
+812206 Naruto: Shippuden: 1  
+### 2177705
+**Naruto: Shippuden S05E58 - Attack of the Gedo Statue**  
  🔒 00:00  
-⌛ December 15, 2019 at 05:59:00 EST  
-https://www.adultswim.com/videos/jo-jos-bizarre-adventure/find-polpos-fortune  
-seriesid=`2193955` titleid=`2193961` id=`AW5cQwU7adNs2hMNfudy` mediaid=`e76c4effa911f66c6036f6ec7008361724e1d9c5`  
-_While word of the high-ranking capo Polpo's alleged suicide sparks astonishment and speculation in the crime syndicate Passione, Giorno is inducted into Bucciarati's eclectic mafia family._  
-<a href="https://media.cdn.adultswim.com/uploads/20191111/thumbnails/2_191111161392-jojo_goldenwind_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191111/thumbnails/2_191111161392-jojo_goldenwind_005.jpg" height="144px" /></a>
+⌛ December 15, 2019 at 06:29:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/attack-of-the-gedo-statue  
+seriesid=`812206` titleid=`2177705` id=`AW4ZEIMaadNs2hMNfuYO` mediaid=`0ec81741300e3a6a7dc0758a68c4c1e5e069f282`  
+_Madara summons the giant Gedo Statue and unleashes its devastating power upon the Shinobi Forces._  
+<a href="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291548557-narutoshippuden_276.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291548557-narutoshippuden_276.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
