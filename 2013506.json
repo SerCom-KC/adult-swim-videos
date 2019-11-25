@@ -1607,6 +1607,61 @@
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
+        "description": "If only Indiana Jones had this tech.",
+        "title_suggest": {
+            "input": [
+                "Tomb Raiders",
+                "Raiders"
+            ]
+        },
+        "title": "Tomb Raiders",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 79.33,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "",
+        "modified": 1574702849,
+        "slug": "tomb-raiders",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191118/thumbnails/1_1911181720342-rickandmorty_ep403_ColdOpen.jpg",
+        "created": 1574115677,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574702849,
+        "tags": [
+            "rick and morty",
+            "job",
+            "heist",
+            "raiders of the lost ark",
+            "arbys",
+            "adult swim",
+            "clip"
+        ],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jared Marquez",
+        "launch_date": 1574528400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191118/thumbnails/2_1911181720342-rickandmorty_ep403_ColdOpen.jpg",
+        "id": "AW6AmxNxadNs2hMNfuhu",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
         "description": "Discover the rationale behind Rick and Morty's affectionate/disdainful send-up of heist films.",
         "title_suggest": {
             "input": [
