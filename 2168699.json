@@ -1,55 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1574657999,
-        "tms_id": "EP026601320048",
-        "description": "Udon Ise the jonin captain of Team 5, issues a direct order from the Hokage to Iwabe, Denki and Metal.",
-        "title_suggest": {
-            "input": [
-                "The Genin Documentary",
-                "Genin Documentary",
-                "Documentary"
-            ]
-        },
-        "title": "The Genin Documentary",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWXtZtvdh5enQuYyIc4A",
-        "duration": 1343.5089,
-        "episode_number": "48",
-        "original_air_date": null,
-        "auth_launch_date": 1568539800,
-        "clip_order": null,
-        "airing_id": "RADS1009131900020395",
-        "media_id": "03db15e876226efdab38a37d6d3988b04a56973a",
-        "modified": 1568396322,
-        "slug": "the-genin-documentary",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/1_199131338332-boruto_nextgenerations_048.jpg",
-        "created": 1568384399,
-        "title_id": "2168747",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1568396322,
-        "tags": [],
-        "collection_title": "Boruto: Naruto Next Generations",
-        "disable_ads": false,
-        "modified_by": "Jared Marquez",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_199131338332-boruto_nextgenerations_048.jpg",
-        "id": "AW0q_reB4aLemgzOLGb_",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1575262799,
         "tms_id": "EP026601320049",
         "description": "Sumire, Wasabi and Namida are given a mission to recover animals that someone has released from their cages at the zoo.",
@@ -488,5 +439,53 @@
         "modified_by": "ODT Listener",
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154082961593719.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1581310799,
+        "tms_id": "EP026601320006",
+        "description": "Boruto, Shikadai and Mitsuki notice their teacher is acting different than he usually does, and Shino suddenly attacks them!",
+        "title_suggest": {
+            "input": [
+                "The Final Lesson!",
+                "Final Lesson!",
+                "Lesson!"
+            ]
+        },
+        "title": "The Final Lesson!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWXtZtvdh5enQuYyIc4A",
+        "duration": 1345.611,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1574658000,
+        "clip_order": null,
+        "media_id": "c3522f7a8f5faecd45e3d4d2e4c3c135b7bf4d25",
+        "modified": 1574304610,
+        "airing_id": "RADS1011201900038332",
+        "id": "AWbLxd9N3OEkyfT4qByK",
+        "slug": "the-final-lesson",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154144755382820.jpg",
+        "created": 1541017034,
+        "season_number": "1",
+        "title_id": "2168705",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574304610,
+        "tags": [],
+        "collection_title": "Boruto: Naruto Next Generations",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154144755382820.jpg"
     }
 ]
