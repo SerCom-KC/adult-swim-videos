@@ -166,7 +166,7 @@
         "cma_id": "1121323"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370054",
@@ -2832,6 +2832,53 @@
         "launch_date": 1566088200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/kaio-ken-times-twenty-an-all-or-nothing-kamehame-ha/dragonballzkai_045_air_cid-2M3WF.jpg",
         "cma_id": "1128863"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "tms_id": "EP012647370065",
+        "description": "Goku and his friends eagerly await the arrival of the Androids, but Yamcha's confrontation with the mechanized monsters suggests that Earth's heroes may be up against more muscle they can handle!",
+        "title_suggest": {
+            "input": [
+                "Undetectable Monsters! The Androids Appear!",
+                "Monsters! The Androids Appear!",
+                "The Androids Appear!",
+                "Androids Appear!",
+                "Appear!"
+            ]
+        },
+        "expiration_date": 1577681940,
+        "title": "Undetectable Monsters! The Androids Appear!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1263,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "59",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1574291165,
+        "airing_id": "RADS1011201900038311",
+        "media_id": "833ad6a0717436a69fcda1b89ae2b1429e2b25c5",
+        "id": "ukb1OaO2RImH1kQ_LZiSnw",
+        "slug": "undetectable-monsters-the-androids-appear",
+        "views": 2695,
+        "created": 1454356233,
+        "season_number": "1",
+        "title_id": "2031670",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1574291165,
+        "first_published": 1456503040,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574658000,
+        "poster": "",
+        "cma_id": "1194939"
     },
     {
         "auth": true,
