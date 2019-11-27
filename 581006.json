@@ -48,7 +48,7 @@
         "cma_id": "1449885"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1574832540,
         "tms_id": "EP007164450129",
@@ -648,55 +648,6 @@
         "cma_id": "1475926"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574830740,
-        "tms_id": "EP007164450236",
-        "description": "Steve is upset when Snot threatens their summer camp fun by becoming a counselor-in-training. Hayley and Jeff are suspicious of Roger when he organizes a Burning Man reenactment in the yard for their anniversary.",
-        "title_suggest": {
-            "input": [
-                "Camp Campawanda",
-                "Campawanda"
-            ]
-        },
-        "title": "Camp Campawanda",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.97,
-        "episode_number": "13",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574226000,
-        "modified": 1573872612,
-        "media_id": "a4d17c059cb2b4c2856320daa6a13eb68c7f77aa",
-        "airing_id": "RADS1011151900037739",
-        "id": "YX8yCyMDT7OTueWTm9ggig",
-        "slug": "camp-campawanda",
-        "views": 1215,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187077902924.jpg",
-        "created": 1497154225,
-        "title_id": "2069539",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1573872612,
-        "first_published": 1497154225,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187077902924.jpg",
-        "cma_id": "1415165"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1575093540,
@@ -1089,5 +1040,56 @@
         "launch_date": 1505880000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999137965.jpg",
         "cma_id": "1477854"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575435540,
+        "tms_id": "EP007164450244",
+        "description": "While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort.",
+        "title_suggest": {
+            "input": [
+                "The Long Bomb",
+                "Long Bomb",
+                "Bomb"
+            ]
+        },
+        "expiration_date": 1560441540,
+        "title": "The Long Bomb",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.53,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "18",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574830800,
+        "modified": 1574561303,
+        "media_id": "12e569fcc167d47273c8b99276cc8fa2d1a0a970",
+        "airing_id": "RADS1011241900039693",
+        "id": "vChQxBcdSiCMUBywWd3bJA",
+        "slug": "the-long-bomb",
+        "views": 3377,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151820800335318.jpg",
+        "created": 1500652774,
+        "season_number": "12",
+        "title_id": "2069549",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574561303,
+        "first_published": 1503205876,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1559746800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg",
+        "cma_id": "1458910"
     }
 ]
