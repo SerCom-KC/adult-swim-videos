@@ -1776,6 +1776,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370055",
         "description": "The wreckage of Frieza's body is rebuilt by the monster's fiendish father! Together, they embark on a mission to eradicate life on Earth. Will Goku return home in time to save his friends?",
         "title_suggest": {
@@ -1805,8 +1806,9 @@
         "episode_number": "55",
         "original_air_date": null,
         "clip_order": null,
-        "modified": 1572059064,
-        "airing_id": "RADS1010261900030116",
+        "auth_launch_date": 1575262800,
+        "modified": 1574863928,
+        "airing_id": "RADS1011271900041575",
         "media_id": "949d5ef7ef6512d2a8f86cf85f8681921b1ec905",
         "id": "YadRnUbnRUS9VutzyGUv0Q",
         "slug": "there-is-planet-earth-father-frieza-and-king-cold-strike-back",
@@ -1817,7 +1819,7 @@
         "tv_rating": "tv-pg-lv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1572059064,
+        "published": 1574863928,
         "first_published": 1453882218,
         "tags": [],
         "collection_title": "Dragon Ball Z Kai",
