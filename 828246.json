@@ -213,54 +213,6 @@
         "cma_id": "1426796"
     },
     {
-        "auth": false,
-        "ott_launch_date": 1446738720,
-        "auth_expiration_date": 1563335940,
-        "tms_id": "EP013120360024",
-        "rating": 8.323077,
-        "description": "The Marshals are called to the woods to quell tensions between loggers and some local activists. They uncover a lot more than you were expecting.",
-        "title_suggest": {
-            "input": [
-                "Old Gary",
-                "Gary"
-            ]
-        },
-        "type": "episode",
-        "title": "Old Gary",
-        "expiration_date": 1574917140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 682.7007007,
-        "episode_number": "12",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1560312000,
-        "modified": 1572460927,
-        "media_id": "aeb2e9bf9e5db0ae4208e739da36e8e910d85771",
-        "airing_id": "RADS1010181900028692",
-        "id": "WPjwdo6BR7Se3B6_AYqFWw",
-        "slug": "old-gary",
-        "views": 19229,
-        "created": 1402945464,
-        "title_id": "892260",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1572460927,
-        "tags": [],
-        "rating_count": 65,
-        "collection_title": "Eagleheart",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571889600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/old-gary/eagleheart_204.jpg",
-        "cma_id": "1414775"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1446738300,
         "auth_expiration_date": 1576645140,
@@ -460,6 +412,55 @@
         "launch_date": 1573102800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_026_pt2_4ErRn-02.jpg",
         "cma_id": "1423539"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446738960,
+        "auth_expiration_date": 1566359940,
+        "tms_id": "EP013120360029",
+        "rating": 8.875,
+        "description": "Chris deals with a dangerous situation.",
+        "title_suggest": {
+            "input": [
+                "America"
+            ]
+        },
+        "type": "episode",
+        "title": "America",
+        "expiration_date": 1577941140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 677.2919099,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1563336000,
+        "modified": 1574567298,
+        "media_id": "b77d4d39ddc7b7105c23aa174ac7fbae5c2cf3ab",
+        "airing_id": "RADS1011241900039709",
+        "id": "pyPEI0CWQTGJ-017jmIEig",
+        "slug": "america",
+        "views": 6144,
+        "thumbnail": "",
+        "created": 1402945464,
+        "title_id": "2012949",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574567298,
+        "tags": [],
+        "rating_count": 16,
+        "collection_title": "Eagleheart",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574917200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_029_pt1_23dnb-10.jpg",
+        "cma_id": "1435807"
     },
     {
         "auth": false,

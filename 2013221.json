@@ -390,6 +390,57 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447785600,
+        "auth_expiration_date": 1573102740,
+        "tms_id": "EP019881990003",
+        "description": "Tim, Eric, and Zach work and live in the men's public restroom on the 6th floor of the Stanton Building. Will their cover be blown when they suddenly run out of mints?",
+        "title_suggest": {
+            "input": [
+                "The Bathroom Boys",
+                "Bathroom Boys",
+                "Boys"
+            ]
+        },
+        "expiration_date": 1577941140,
+        "title": "The Bathroom Boys",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 675.38,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1570075200,
+        "modified": 1574570163,
+        "media_id": "eaa750eba1caeed57fcf4396f49444e8a65b3d5d",
+        "airing_id": "RADS1011241900039731",
+        "id": "K_cqWiVEShGdqFjIBBuJpQ",
+        "slug": "the-bathroom-boys",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1410544714,
+        "season_number": "1",
+        "title_id": "2024894",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574570163,
+        "first_published": 1411971652,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574917200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-bathroom-boys/tebs_cc_103_pt1.jpg",
+        "cma_id": "2024894"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1505744940,
         "description": "EXTENDED CUT - Mr. Dimler escapes the institution for one last encounter with Scotty and is disappointed with the results.",
         "title_suggest": {
@@ -533,7 +584,7 @@
         "cma_id": "1481136"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506349740,
         "auth_expiration_date": 1577941140,
         "tms_id": "EP019881990012",
@@ -680,55 +731,6 @@
         "launch_date": 1573102800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/butter/tebs_302_dup-20170925.jpg",
         "cma_id": "1488191"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574917140,
-        "tms_id": "EP019881990006",
-        "description": "Jason begrudgingly agrees to endorse the latest Strussel watch, only after his agent guarantees that he will neither be conscious for nor remember the product photo shoot.",
-        "title_suggest": {
-            "input": [
-                "The Endorsement",
-                "Endorsement"
-            ]
-        },
-        "expiration_date": 1571889540,
-        "title": "The Endorsement",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 651.8675342,
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1571889600,
-        "modified": 1571472130,
-        "media_id": "efb73fa3d2687d884fc3ee01f7e41bed0c712fe7",
-        "airing_id": "RADS1010181900028705",
-        "id": "t5DLWfNmTqaZ3uqtV3BvcQ",
-        "slug": "the-endorsement",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1410544918,
-        "season_number": "1",
-        "title_id": "2024898",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1571472130,
-        "first_published": 1413786045,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1568865600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-endorsement/tebs_cc_106_pt1_1.jpg",
-        "cma_id": "1039683"
     },
     {
         "auth": true,
