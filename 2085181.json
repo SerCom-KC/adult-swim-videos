@@ -196,6 +196,56 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1468247460,
+        "auth_expiration_date": 1577336340,
+        "tms_id": "EP024500790001",
+        "description": "Animated sketches from the mind of Brad Neely. Special guest star Lizzo.",
+        "title_suggest": {
+            "input": [
+                "For Streep",
+                "Streep"
+            ]
+        },
+        "title": "For Streep",
+        "type": "episode",
+        "expiration_date": 1568347140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "1r8KVM1NTTWjxDdQ5UrEOA",
+        "duration": 670.011,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574917200,
+        "modified": 1574569325,
+        "media_id": "f29ebfc9bde7a9880dd67521c0fab00b2c2b5450",
+        "airing_id": "RADS1011241900039726",
+        "id": "ZHOijpncT9WPtVrMWGDXng",
+        "slug": "for-streep",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1467299137,
+        "season_number": "1",
+        "title_id": "2085183",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574569325,
+        "first_published": 1467299137,
+        "tags": [],
+        "collection_title": "Brad Neely's Harg Nallin' Sclopio Peepio",
+        "modified_by": "ODT Listener",
+        "launch_date": 1565323200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/for-streep/BNHNSP_cc_102_NoAdsCue_dup.jpg",
+        "cma_id": "2085183"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1471876200,
         "auth_expiration_date": 1574917140,
         "tms_id": "EP024500790009",
@@ -295,7 +345,7 @@
         "cma_id": "1477561"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1468852260,
         "auth_expiration_date": 1577941140,
         "tms_id": "EP024500790002",
