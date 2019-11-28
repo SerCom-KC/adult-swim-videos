@@ -1,57 +1,6 @@
 [
     {
         "auth": false,
-        "ott_launch_date": 1495636200,
-        "auth_expiration_date": 1548219540,
-        "tms_id": "EP023142130007",
-        "description": "Jailed for the murder of his rival Plaid Jeff, Neon Joe has to fight off a violent skinhead gang while trying to escape and prove his innocence. Will he succeed??",
-        "title_suggest": {
-            "input": [
-                "Parenthetical Head Nod",
-                "Head Nod",
-                "Nod"
-            ]
-        },
-        "expiration_date": 1574917140,
-        "title": "Parenthetical Head Nod",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1339.8340284,
-        "collection_id": "_NeOfFU6TgWVR4BIUhAv4A",
-        "episode_number": "2",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1545800400,
-        "modified": 1571472274,
-        "media_id": "66fa72f7a50d3a259766b7f93fad64a459745c27",
-        "airing_id": "RADS1010181900028698",
-        "id": "-o3osKg2T_mjc5HBSpGTeg",
-        "slug": "parenthetical-head-nod",
-        "views": 2361,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1493149220,
-        "season_number": "2",
-        "title_id": "2118595",
-        "tv_rating": "tv-14-dsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1571472274,
-        "first_published": 1495264296,
-        "tags": [],
-        "collection_title": "Neon Joe",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571889600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/parenthetical-head-nod/neonjoe_202_dup-20170425.jpg",
-        "cma_id": "1449327"
-    },
-    {
-        "auth": false,
         "ott_launch_date": null,
         "description": "Wanna know the story of Neon Joe, Werewolf Hunter? Learn his Joe-rigins here, and then get ready for the five-part mini-series event airing nightly December 7-11 at Midnight on Adult Swim.",
         "title_suggest": {
@@ -90,6 +39,56 @@
         "launch_date": 1448904784,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/joe-rigins-part-1/neonjoe_origins_pt01.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1449184500,
+        "auth_expiration_date": 1544590740,
+        "tms_id": "EP023142130002",
+        "description": "It is revealed that Neon Joe authored a series of erotica novels many years ago.",
+        "title_suggest": {
+            "input": [
+                "Neon Nights",
+                "Nights"
+            ]
+        },
+        "title": "Neon Nights",
+        "type": "episode",
+        "expiration_date": 1577941140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "_NeOfFU6TgWVR4BIUhAv4A",
+        "duration": 1350.52,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1541566800,
+        "modified": 1574565012,
+        "media_id": "fec5236d39d41bf4a55bca50ac7986f96f718ca2",
+        "airing_id": "RADS1011241900039712",
+        "id": "6OepLmU4RdqwzCnrR1NFmA",
+        "slug": "neon-nights",
+        "views": 3,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152950461178315.jpg",
+        "created": 1448988959,
+        "season_number": "1",
+        "title_id": "2073007",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574565012,
+        "first_published": 1448988959,
+        "tags": [],
+        "collection_title": "Neon Joe",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574917200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152950461178315.jpg",
+        "cma_id": "2073007"
     },
     {
         "auth": false,
