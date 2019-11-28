@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 28, 2019 at 03:30:32 EST_
+_Last Update: November 28, 2019 at 11:30:38 EST_
 ## Video added
-### Summary
-440990 Family Guy: 1  
-### 809271
-**Family Guy S12E07 - In Harmony's Way**  
-TV-14 🔒 21:27  
-⌛ December 5, 2019 at 02:59:00 EST  
-https://www.adultswim.com/videos/family-guy/in-harmonys-way  
-seriesid=`440990` titleid=`809271` id=`BWnhdF0dSFuDzLzd_4RVMg` mediaid=`8bb04dfb2b77b37783b93f9d8e2f0c7eb79ed78a`  
-_Peter and Quagmire both scream when a bee flies by and realize they harmonize well together. They start writing and singing songs in their spare time. Mort overhears them one day and is amazed by their talent. He offers to manage them since he used to have his own record label in the 70's._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15355668367514.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15355668367514.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2020945 Attack on Titan: 1  
+### 2020956
+**Attack on Titan S01E11 - Idol: The Struggle for Trost, Part 7**  
+TV-14-LV 🔓 22:20  
+⌛ January 2, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/attack-on-titan/idol-the-struggle-for-trost-part-7  
+seriesid=`2020945` titleid=`2020956` id=`r9Jl4M3bS6GPmjvIizy7MQ` mediaid=`645167c817e4d2cd7a9357d85c1110f732ec1fe4`  
+_Plans are created to use Eren's Titan powers to seal the hole in the wall in an attempt reclaim Trost. But with the government's bloodstained history and vocal dissenters in the military ranks, the biggest threat to humankind may not be the Titans._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/idol-the-struggle-for-trost-part-7/attackontitan_cc_11.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/idol-the-struggle-for-trost-part-7/attackontitan_cc_11.jpg" height="144px" /></a>
