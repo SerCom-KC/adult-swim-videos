@@ -109,6 +109,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447438080,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760002",
+        "rating": 8.278635,
+        "description": "A news item about Django, the little monkey whose brain was transplanted into a robot body, plunges the crew into a lengthy debate on whether or not they would allow their brains to be put in robot bodies. Meanwhile, Sealab is in imminent danger of imploding, and Dr. Quinn is the only one onboard who seems to care.",
+        "title_suggest": {
+            "input": [
+                "I, Robot",
+                "Robot"
+            ]
+        },
+        "type": "episode",
+        "title": "I, Robot",
+        "expiration_date": 1577941140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 709.08,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1574624525,
+        "media_id": "61969457dbd66fad96666231750173fb61f635ca",
+        "airing_id": "RADS1011241900039730",
+        "id": "_gYKf4SsRV2J-hEmsCMblg",
+        "slug": "i-robot",
+        "views": 203770,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945476,
+        "title_id": "340534",
+        "season_number": "1",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574624525,
+        "tags": [
+            "sealab 2021 I robot epsiode 1"
+        ],
+        "rating_count": 707,
+        "collection_title": "Sealab 2021",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574917200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_001_pt2.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447440120,
         "tms_id": "EP004625760054",
         "rating": 8.335581,
@@ -205,50 +258,5 @@
         "launch_date": 1574312400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/radio-free-sealab/sealab_cc_003_revised2-01.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447440060,
-        "tms_id": "EP004625760051",
-        "rating": 8.864707,
-        "description": "Stormy and Quinn narrowly escape a nuclear catastrophe, only to be trapped in an underwater cave by a thirty-foot, ravenous Great White!  And they've only got 10 minutes of oxygen remaining!  Actually, in the time it took you to read that, they're probably down to about 9:45... and now it's 9:40... and... you get the ideer.\r\n",
-        "title_suggest": {
-            "input": [
-                "Cavemen"
-            ]
-        },
-        "type": "episode",
-        "title": "Cavemen",
-        "expiration_date": 1574917140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 669.64,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "modified": 1571471768,
-        "airing_id": "RADS1010181900028701",
-        "media_id": "7192e45f5bacc596bede0e84448bd389e612ca87",
-        "id": "s21VEnPcSseOFb8wXyGZfg",
-        "slug": "cavemen",
-        "views": 164975,
-        "created": 1402945476,
-        "title_id": "611928",
-        "season_number": "4",
-        "tv_rating": "tv-14-dls",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1571471768,
-        "tags": [],
-        "rating_count": 510,
-        "collection_title": "Sealab 2021",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571889600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_049_pt2-02.jpg",
-        "cma_id": "926842"
     }
 ]

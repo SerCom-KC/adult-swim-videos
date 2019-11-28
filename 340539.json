@@ -273,58 +273,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1446844080,
-        "auth_expiration_date": 1570593540,
-        "tms_id": "EP004625750010",
-        "rating": 8.667612,
-        "description": "After years of getting his powers from the sun, Harvey notices a suspicious spot on his skin.  When the dermatologist insists he stay out of the sun and use sunblock, the now droopy Birdman turns to self-tanning creme for a pick me up. It isn't long before he's addicted to the stuff, using more and more just to stay awake.",
-        "title_suggest": {
-            "input": [
-                "SPF"
-            ]
-        },
-        "type": "episode",
-        "title": "SPF",
-        "expiration_date": 1574917140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 696.011,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1567569600,
-        "modified": 1571467471,
-        "media_id": "2f4d790866c116a42bb0bf531dd31c70a6d74dad",
-        "airing_id": "RADS1010181900028676",
-        "id": "cDM9W0VmSteTfiOQ3xAEHQ",
-        "slug": "spf",
-        "views": 306844,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945467,
-        "title_id": "449604",
-        "season_number": "2",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1571467471,
-        "tags": [
-            "harvey birdman episode 10 spf cancer sunblock cream addiction mole"
-        ],
-        "rating_count": 707,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571889600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_010_pt1-05.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1446844500,
         "auth_expiration_date": 1576645140,
@@ -430,6 +378,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1552575600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_022_pt1-02.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446844320,
+        "auth_expiration_date": 1573621140,
+        "tms_id": "EP004625750019",
+        "rating": 8.628206,
+        "description": "Believe it or not, Harvey successfully defends a plastic surgeon of botching Botox injections on Droopy.  The relieved doctor pays instantly and, in a fit of generosity, throws in a free coupon book of cosmetic surgeries.  Harvey feels guilty that a scary, grinning Droopy suffers while Harvey and the firm enjoy the largress.  While Harvey wrestles with his guilt, the firm goes on an extreme makeover bender, getting \"enhanced\" beyond recognition.",
+        "title_suggest": {
+            "input": [
+                "Droopy Botox",
+                "Botox"
+            ]
+        },
+        "type": "episode",
+        "title": "Droopy Botox",
+        "expiration_date": 1577941140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 703,
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1570593600,
+        "modified": 1574568965,
+        "media_id": "d20dfe4d4de8337353ae15ec31222255dd281e27",
+        "airing_id": "RADS1011241900039711",
+        "id": "rVW1FR94Q1uCnRxISdlTrQ",
+        "slug": "droopy-botox",
+        "views": 306721,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945467,
+        "title_id": "547349",
+        "season_number": "2",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574568965,
+        "tags": [
+            "harvey birdman episode attorney at law 19 droopy botox plastic surgery coupons"
+        ],
+        "rating_count": 858,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574917200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_019_pt1-02.jpg",
         "cma_id": ""
     },
     {
