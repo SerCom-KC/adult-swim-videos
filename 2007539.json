@@ -101,7 +101,7 @@
     },
     {
         "ott_launch_date": 1521469860,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1577941140,
         "tms_id": "EP018514630030",
         "description": "Sheriff guest stars on the crime fighting reality show, Sheriffs.",
@@ -520,7 +520,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1519659060,
         "auth_expiration_date": 1574917140,
         "tms_id": "EP018514630025",
