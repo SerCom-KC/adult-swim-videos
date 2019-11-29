@@ -2,54 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1575008940,
-        "tms_id": "EP012792980036",
-        "description": "Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back.",
-        "title_suggest": {
-            "input": [
-                "Nude Beach",
-                "Beach"
-            ]
-        },
-        "expiration_date": 1503467999,
-        "title": "Nude Beach",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1293.1919,
-        "episode_number": "11",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574404200,
-        "modified": 1574037608,
-        "media_id": "4d479a4000b4c5f006811ad5bb56110aedb5ec29",
-        "airing_id": "RADS1011171900037898",
-        "id": "-iEHRbHnQaKmCbMl2ZZQeQ",
-        "slug": "nude-beach",
-        "views": 6619,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227744265846.jpg",
-        "created": 1403210586,
-        "season_number": "3",
-        "title_id": "2003522",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574037608,
-        "first_published": 1414988426,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502863200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg",
-        "cma_id": "2003522"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1575010740,
         "tms_id": "EP012792980037",
         "description": "There is a \"Mad Pooper\" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the \"bottom\" of the situation.",
@@ -96,6 +48,52 @@
         "launch_date": 1502947800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg",
         "cma_id": "2003523"
+    },
+    {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1575613740,
+        "tms_id": "EP012792980116",
+        "description": "When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend.",
+        "title_suggest": {
+            "input": [
+                "The Quirk-Ducers",
+                "Quirk-Ducers"
+            ]
+        },
+        "title": "The Quirk-Ducers",
+        "type": "episode",
+        "expiration_date": 1564977540,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1300.63,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1575009000,
+        "clip_order": null,
+        "media_id": "c9c34718faeb1e812d3b7827ba7a72332c152649",
+        "modified": 1574701812,
+        "airing_id": "RADS1011251900040137",
+        "id": "AWG1Yym-NWyh42wYnk6f",
+        "slug": "the-quirk-ducers",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15198454863205.jpg",
+        "created": 1519166630,
+        "title_id": "2132992",
+        "tv_rating": "tv-pg-dlv",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574701812,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1564372800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"
     },
     {
         "ott_launch_date": null,
