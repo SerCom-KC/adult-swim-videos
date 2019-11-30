@@ -240,54 +240,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1575097140,
-        "tms_id": "EP012792980041",
-        "description": "Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina).",
-        "title_suggest": {
-            "input": [
-                "Topsy"
-            ]
-        },
-        "expiration_date": 1507265999,
-        "title": "Topsy",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.9563,
-        "episode_number": "16",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574492400,
-        "modified": 1574198888,
-        "media_id": "094b5c412cdacb681041f2863bbd80f982e38076",
-        "airing_id": "RADS1011191900038039",
-        "id": "AnzNezb8RtW7UnMxRfuf3A",
-        "slug": "topsy",
-        "views": 7070,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085647121414.jpg",
-        "created": 1403211172,
-        "season_number": "3",
-        "title_id": "2003527",
-        "tv_rating": "tv-pg-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574198888,
-        "first_published": 1419222027,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506661200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085647121414.jpg",
-        "cma_id": "2003527"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1575178140,
         "tms_id": "EP012792980044",
         "description": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs.",
@@ -385,6 +337,53 @@
         "launch_date": 1550592000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg",
         "cma_id": "1470743"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575701940,
+        "tms_id": "EP012792980043",
+        "description": "After Gene loses his confidence at his baseball game, Linda decides to sign him up for baseball camp. The only problem is, she needs money to pay for it! Meanwhile, Tina discovers her love for espresso and becomes a caffeine addict.",
+        "title_suggest": {
+            "input": [
+                "The Unnatural",
+                "Unnatural"
+            ]
+        },
+        "title": "The Unnatural",
+        "type": "episode",
+        "expiration_date": 1504159199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1293.9593,
+        "episode_number": "23",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575097200,
+        "modified": 1574702166,
+        "media_id": "e0781e49fc2060a9942522ea34837c387cb03545",
+        "airing_id": "RADS1011251900040151",
+        "id": "bXAUZgtGRcKF7uHdKbibOQ",
+        "slug": "the-unnatural",
+        "views": 4,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085673348710.jpg",
+        "created": 1402284031,
+        "title_id": "2003534",
+        "tv_rating": "tv-14",
+        "season_number": "3",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574702166,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503554400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg",
+        "cma_id": "2003534"
     },
     {
         "auth": true,
