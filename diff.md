@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 30, 2019 at 02:30:45 EST_
+_Last Update: November 30, 2019 at 05:00:34 EST_
 ## Video added
 ### Summary
-440990 Family Guy: 1  
-### 865330
-**Family Guy S10E12 - Livin' on a Prayer**  
-TV-14 🔒 21:28  
-⌛ December 7, 2019 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/livin-on-a-prayer  
-seriesid=`440990` titleid=`865330` id=`lGduOcc-Q6GEbaJHNi7-Sw` mediaid=`b044a73d0db533c3b3ff9928cf5f019b599b3cd9`  
-_When Lois discovers that Stewie's sick playmate is being denied medical treatment because his parents are Christian Scientists, she decides to take matters into her own hands._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148483178612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148483178612.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2030303
+**Bob's Burgers S04E01 - A River Runs Through Bob**  
+TV-14 🔒 21:32  
+⌛ December 7, 2019 at 04:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/a-river-runs-through-bob  
+seriesid=`2003422` titleid=`2030303` id=`JGl4XFy3Q46tpfBLJMtGyA` mediaid=`984168ba56d63c4de375e06c7de3e20f17304fcd`  
+_Bob, Linda and the kids go on a camping adventure and face the perils of nature... and Bob's intestines. Braving wild river rapids, eager squirrels and parent/child separation, the Belchers prove they are worth their mettle._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085675243019.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085675243019.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-440990 Family Guy: 1  
-### 865323
-**Family Guy S10E01 - Lottery Fever**  
-TV-14 🔒 21:30  
-⌛ November 30, 2019 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/lottery-fever  
-seriesid=`440990` titleid=`865323` id=`v3W92sbUTOu3KQJ_dfkQUw` mediaid=`977ad893aafca90044138d7f487479c7d06590cb`  
-_Peter blows his savings on lottery tickets and the family writes it off as one of his usual shenanigans until they end up millionaires._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088954924312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088954924312.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2003528
+**Bob's Burgers S03E17 - Two For Tina**  
+TV-PG 🔒 21:34  
+⌛ November 30, 2019 at 04:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/two-for-tina  
+seriesid=`2003422` titleid=`2003528` id=`rbUdJW2DS4yVWdqKwLtbqg` mediaid=`4c6188e4100d24127513e5e7eb27013a0d242775`  
+_Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh, and the two boys get into an epic dance-off for her heart._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg" height="144px" /></a>
