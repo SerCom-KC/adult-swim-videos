@@ -290,56 +290,6 @@
         "cma_id": "2030303"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1575178140,
-        "tms_id": "EP012792980044",
-        "description": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs.",
-        "title_suggest": {
-            "input": [
-                "It Snakes a Village",
-                "Snakes a Village",
-                "a Village",
-                "Village"
-            ]
-        },
-        "expiration_date": 1503984599,
-        "title": "It Snakes a Village",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1274.0394,
-        "episode_number": "18",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574573400,
-        "modified": 1574198888,
-        "media_id": "426eaac1c31f4f726b3f8947b2529e1ade0bd027",
-        "airing_id": "RADS1011191900038047",
-        "id": "RAIMaX4CRgGkSy935k68lg",
-        "slug": "it-snakes-a-village",
-        "views": 6549,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108565676568.jpg",
-        "created": 1403211434,
-        "season_number": "3",
-        "title_id": "2003529",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574198888,
-        "first_published": 1420431627,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503379800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108565676568.jpg",
-        "cma_id": "2003529"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1575527340,
@@ -484,6 +434,52 @@
         "launch_date": 1503552600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg",
         "cma_id": "2003533"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575782940,
+        "tms_id": "EP012792980051",
+        "description": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt,\" the most charming pilot in the air.",
+        "title_suggest": {
+            "input": [
+                "Seaplane!"
+            ]
+        },
+        "title": "Seaplane!",
+        "type": "episode",
+        "expiration_date": 1504342799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1294.8269,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1575178200,
+        "clip_order": null,
+        "modified": 1574893566,
+        "media_id": "04718512dcc45036018c4e92099724090fd93b84",
+        "airing_id": "RADS1011271900041535",
+        "id": "ifvc24W8Q-qBRnvUpRjLcw",
+        "slug": "seaplane",
+        "views": 6916,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267538029215.jpg",
+        "created": 1410751254,
+        "title_id": "2030306",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574893566,
+        "first_published": 1410751254,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503738000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg",
+        "cma_id": "2030306"
     },
     {
         "auth": true,
