@@ -251,6 +251,57 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1575874740,
+        "tms_id": "EP002960010293",
+        "description": "Stressed about their poor finances, Lois and Peter try to find a way to save money for Stewie's college fund. Peter buys a metal detector to search for expensive metals on the beach.",
+        "title_suggest": {
+            "input": [
+                "The Peanut Butter Kid",
+                "Peanut Butter Kid",
+                "Butter Kid",
+                "Kid"
+            ]
+        },
+        "expiration_date": 1568606340,
+        "title": "The Peanut Butter Kid",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1302.1334668,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "8",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575270000,
+        "modified": 1574980206,
+        "media_id": "b616625d8762d37b3bd8b3c4ff082ed9d439b947",
+        "airing_id": "RADS1011271900041600",
+        "id": "OZrnSRbjSGC4Q8q6Up6AsQ",
+        "slug": "the-peanut-butter-kid",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1452801852,
+        "season_number": "14",
+        "title_id": "2064583",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1574980206,
+        "first_published": 1490861441,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1568001600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-peanut-butter-kid/familyguy_1308_air_cid-2XXDK.jpg",
+        "cma_id": "1456194"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1575358140,
         "tms_id": "EP002960010194",
         "description": "Peter and the guys take a stand against their wives and flee to the Deep South on a road trip. On the way there, the men earn a one-way ticket to jail. But when they decide to make a run for it, Joe's quick planning and Peter's seductive ways help them escape. Meanwhile, Lois spends some quality time with the girls and they engage in childish antics.",
@@ -603,54 +654,5 @@
         "launch_date": 1575262800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg",
         "cma_id": "1437963"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1575269940,
-        "tms_id": "EP002960010289",
-        "description": "Peter's estranged sister Karen shows up to the Griffin family's Thanksgiving dinner, and Joe, Cleveland, and Quagmire realize that she is the famous wrestler, Heavy Flo.",
-        "title_suggest": {
-            "input": [
-                "Peter's Sister",
-                "Sister"
-            ]
-        },
-        "expiration_date": 1564372740,
-        "title": "Peter's Sister",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1301.2669336,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "4",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574665200,
-        "modified": 1574314926,
-        "media_id": "e2e6700dd63abab62aea11615a6e9f68cd48774e",
-        "airing_id": "RADS1011201900038344",
-        "id": "urRzi84KRtaRBNmMFEikLg",
-        "slug": "peters-sister",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1448307026,
-        "season_number": "14",
-        "title_id": "2064579",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1574314926,
-        "first_published": 1476940224,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1563768000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-sister/familyguy_1304_air_cid-2XX84.jpg",
-        "cma_id": "1446375"
     }
 ]
