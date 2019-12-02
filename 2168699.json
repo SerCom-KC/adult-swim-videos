@@ -1,55 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1575262799,
-        "tms_id": "EP026601320049",
-        "description": "Sumire, Wasabi and Namida are given a mission to recover animals that someone has released from their cages at the zoo.",
-        "title_suggest": {
-            "input": [
-                "Wasabi and Namida",
-                "and Namida",
-                "Namida"
-            ]
-        },
-        "title": "Wasabi and Namida",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWXtZtvdh5enQuYyIc4A",
-        "duration": 1346.6453,
-        "episode_number": "49",
-        "original_air_date": null,
-        "auth_launch_date": 1569144600,
-        "clip_order": null,
-        "media_id": "f94148f7133b8ec7b88e98f8229e95067231e6ad",
-        "modified": 1569004691,
-        "airing_id": "RADS1009201900021818",
-        "slug": "wasabi-and-namida",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190919/thumbnails/1_19919131447-boruto_nextgenerations_049.jpg",
-        "created": 1568912508,
-        "season_number": "1",
-        "title_id": "2168748",
-        "tv_rating": "tv-pg",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1569004691,
-        "tags": [],
-        "collection_title": "Boruto: Naruto Next Generations",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20190919/thumbnails/2_19919131447-boruto_nextgenerations_049.jpg",
-        "id": "AW1KeQcp1YiBSfg0KXA3",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1577077199,
         "tms_id": "EP026601320051",
         "description": "Team 7 is given a mission to capture a gang of thieves targeting the Thunder Train, who are hiding out in a town near the Land of Fire's border.",
@@ -487,5 +438,54 @@
         "modified_by": "ODT Listener",
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154144755382820.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1581915599,
+        "tms_id": "EP026601320007",
+        "description": "Cho-Cho's scared because she thinks she's being watched by someone, so she decides to catch them in the act.",
+        "title_suggest": {
+            "input": [
+                "Love and Potato Chips!",
+                "and Potato Chips!",
+                "Potato Chips!",
+                "Chips!"
+            ]
+        },
+        "title": "Love and Potato Chips!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWXtZtvdh5enQuYyIc4A",
+        "duration": 1346.0447,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1575262800,
+        "clip_order": null,
+        "media_id": "e29e6dffb4c6e53611c19220dc233d84a0c80ed6",
+        "modified": 1574910964,
+        "airing_id": "RADS1011271900041566",
+        "slug": "love-and-potato-chips",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15420419088085.jpg",
+        "created": 1541605160,
+        "season_number": "1",
+        "title_id": "2168706",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574910964,
+        "tags": [],
+        "collection_title": "Boruto: Naruto Next Generations",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15420419088085.jpg",
+        "id": "AWbu0_aMeP_aldpBV9in",
+        "auth": true
     }
 ]
