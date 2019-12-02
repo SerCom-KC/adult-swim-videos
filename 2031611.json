@@ -1774,7 +1774,7 @@
         "cma_id": "1119355"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370055",
@@ -1981,6 +1981,56 @@
         "launch_date": 1570420800,
         "poster": "",
         "cma_id": "1175256"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "tms_id": "EP012647370060",
+        "description": "Goku tries to pulverize the Androids with a devastating display of his Super Saiyan strength, but a mysterious ailment prevents the mighty warrior from unleashing his true power!",
+        "title_suggest": {
+            "input": [
+                "The Unbeatable Enemy Within! Goku vs. Android 19!",
+                "Unbeatable Enemy Within! Goku vs. Android 19!",
+                "Enemy Within! Goku vs. Android 19!",
+                "Within! Goku vs. Android 19!",
+                "Goku vs. Android 19!",
+                "vs. Android 19!",
+                "Android 19!",
+                "19!"
+            ]
+        },
+        "expiration_date": 1578286740,
+        "title": "The Unbeatable Enemy Within! Goku vs. Android 19!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1320,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "60",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1574936650,
+        "airing_id": "RADS1011271900041587",
+        "media_id": "d541a647eb3aef254ea252ebc4ea84fcb1d77632",
+        "id": "bDKS0ODgQMSQ_DopHKBtRw",
+        "slug": "the-unbeatable-enemy-within-goku-vs-android-19",
+        "views": 2838,
+        "created": 1454356412,
+        "season_number": "1",
+        "title_id": "2031671",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1574936650,
+        "first_published": 1456906239,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1575262800,
+        "poster": "",
+        "cma_id": "1198381"
     },
     {
         "auth": true,
