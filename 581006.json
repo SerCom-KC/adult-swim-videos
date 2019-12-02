@@ -98,53 +98,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1575264540,
-        "tms_id": "EP007164450166",
-        "description": "Stan's plan for a perfect Thanksgiving watching football in his underwear is thwarted when Francine invites her parents to join them. Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over.",
-        "title_suggest": {
-            "input": [
-                "Kung Pao Turkey",
-                "Pao Turkey",
-                "Turkey"
-            ]
-        },
-        "expiration_date": null,
-        "type": "episode",
-        "title": "Kung Pao Turkey",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1280.8462,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1574659800,
-        "clip_order": null,
-        "media_id": "5fe37e7111fe0e96edc326bdc3d0a010f241e38c",
-        "modified": 1574314926,
-        "airing_id": "RADS1011201900038342",
-        "id": "AWHoN9My0KIGIdXCKz4t",
-        "slug": "kung-pao-turkey",
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152001942405820.jpg",
-        "created": 1520019428,
-        "season_number": "9",
-        "title_id": "2007878",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574314926,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg"
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1559707140,
         "tms_id": "",
         "description": "After her family accuses her of being a quitter, Francine becomes a bodybuilder. Klaus claims to have invented the high five.",
@@ -382,6 +335,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844913831519.jpg",
         "id": "AWrGc2RCCorLtcgflqgM",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575869340,
+        "tms_id": "EP007164450238",
+        "description": "Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts.",
+        "title_suggest": {
+            "input": [
+                "Bazooka Steve",
+                "Steve"
+            ]
+        },
+        "title": "Bazooka Steve",
+        "type": "episode",
+        "expiration_date": 1554735540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.1,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1575264600,
+        "clip_order": null,
+        "modified": 1574873284,
+        "media_id": "123955f7177e4d93e49b5e6257cfca8bbd43958e",
+        "airing_id": "RADS1011271900041597",
+        "id": "AitmXh48RkeeOF5Mpxu47w",
+        "slug": "bazooka-steve",
+        "views": 1397,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870777267015.jpg",
+        "created": 1496549449,
+        "title_id": "2069543",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1574873284,
+        "first_published": 1496549449,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554130800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg",
+        "cma_id": "1411253"
     },
     {
         "auth": true,
