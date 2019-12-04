@@ -102,55 +102,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1575444540,
-        "tms_id": "EP002960010195",
-        "description": "When Meg turns 18, Peter and Lois attempt to keep Quagmire from seducing their daughter.",
-        "title_suggest": {
-            "input": [
-                "Quagmire and Meg",
-                "and Meg",
-                "Meg"
-            ]
-        },
-        "title": "Quagmire and Meg",
-        "type": "episode",
-        "expiration_date": 1495263599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1292.6914,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574839800,
-        "modified": 1574565965,
-        "media_id": "468e57ee89f15fc1ea039651cdeb5a18617052c4",
-        "airing_id": "RADS1011241900039699",
-        "id": "DHLR1lgSStiVbW_hPu_gRQ",
-        "slug": "quagmire-and-meg",
-        "views": 2253,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088975273513.jpg",
-        "created": 1411573614,
-        "season_number": "10",
-        "title_id": "865325",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574565965,
-        "first_published": 1411573614,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1494658800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088975273513.jpg",
-        "cma_id": "1396275"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1575786540,
         "tms_id": "EP002960010199",
         "description": "When Peter and the guys try to salvage a sunken Mercedes-Benz, Peter half-heartedly promises a favor to a helpful dolphin (guest voice Ricky Gervais). Soon the dolphin moves to Quahog, outstays his welcome at Peter's and moves into Cleveland's house across the street. Peter tries to reunite the dolphin with his ex-wife in hopes that he'll return to the ocean, but his plan backfires and the whole dolphin family moves into Cleveland's.",
@@ -555,7 +506,7 @@
         "cma_id": "1374382"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1575446340,
         "tms_id": "EP002960010196",
