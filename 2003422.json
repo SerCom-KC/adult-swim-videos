@@ -544,57 +544,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1575440940,
-        "tms_id": "EP012792980030",
-        "description": "Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous.",
-        "title_suggest": {
-            "input": [
-                "An Indecent Thanksgiving Proposal",
-                "Indecent Thanksgiving Proposal",
-                "Thanksgiving Proposal",
-                "Proposal"
-            ]
-        },
-        "expiration_date": 1503035999,
-        "title": "An Indecent Thanksgiving Proposal",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1294.2596,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574836200,
-        "modified": 1574559364,
-        "media_id": "3287169512e681455e84ed24a9a08fe6f57ff57a",
-        "airing_id": "RADS1011241900039687",
-        "id": "sldYo92OShixZ1NZiHNN_g",
-        "slug": "an-indecent-thanksgiving-proposal",
-        "views": 7351,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152967997623910.jpg",
-        "created": 1403211308,
-        "season_number": "3",
-        "title_id": "2003516",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574559364,
-        "first_published": 1410751236,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502431200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg",
-        "cma_id": "1451130"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1575959340,
         "tms_id": "EP012792980054",
         "description": "In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention.",
@@ -639,5 +588,53 @@
         "launch_date": 1506663000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg",
         "cma_id": "2030307"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1576045740,
+        "tms_id": "EP012792980057",
+        "description": "When Linda realizes that Louise has never had a sleepover, she throws her a surprise slumber party, much to Louise's chagrin. After Louise's repeated attempts to escape are thwarted, she decides to sabotage the party by eliminating the girls one by one. But she may have met her match in Jessica.",
+        "title_suggest": {
+            "input": [
+                "Slumber Party",
+                "Party"
+            ]
+        },
+        "title": "Slumber Party",
+        "type": "episode",
+        "expiration_date": 1504762199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1293.926,
+        "episode_number": "9",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575441000,
+        "modified": 1575024125,
+        "media_id": "6975057a09e0d3e1aea551ba2e90afde1c64d6c3",
+        "airing_id": "RADS1011271900041778",
+        "id": "x-ralBNsSuSW3Y2LnDqIkA",
+        "slug": "slumber-party",
+        "views": 8148,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15126755202705.jpg",
+        "created": 1411571088,
+        "season_number": "4",
+        "title_id": "2030649",
+        "tv_rating": "",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575024125,
+        "first_published": 1411571088,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1504157400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg",
+        "cma_id": "1463609"
     }
 ]
