@@ -1350,6 +1350,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370058",
         "description": "The bone-chilling onslaught of Frieza and King Cold is brought to a halt by a mysterious stranger with a mighty sword, but only time will tell if this new warrior is friend or foe!",
         "title_suggest": {
@@ -1375,8 +1376,9 @@
         "episode_number": "56",
         "original_air_date": null,
         "clip_order": null,
-        "modified": 1572755900,
-        "airing_id": "RADS1011031900033504",
+        "auth_launch_date": 1575867600,
+        "modified": 1575494284,
+        "airing_id": "RADS1012041900043336",
         "media_id": "fc667afe28031841ae62e2339f2c9b4c988eb73d",
         "id": "Szn0wL6YRKW1iPwc4dY7Nw",
         "slug": "i-will-defeat-frieza-another-super-saiyan",
@@ -1387,7 +1389,7 @@
         "tv_rating": "tv-pg-lv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1572755900,
+        "published": 1575494284,
         "first_published": 1454487034,
         "tags": [],
         "collection_title": "Dragon Ball Z Kai",
