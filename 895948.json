@@ -50,56 +50,6 @@
         "cma_id": "1435345"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1446739980,
-        "auth_expiration_date": 1575435540,
-        "tms_id": "EP015632430007",
-        "rating": 7.7519183,
-        "description": "Eric interviews Tatyana Ali and Arnold Schwarzenegger.",
-        "title_suggest": {
-            "input": [
-                "Tatyana Ali",
-                "Ali"
-            ]
-        },
-        "type": "episode",
-        "title": "Tatyana Ali",
-        "expiration_date": 1570075140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 662,
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1572408000,
-        "modified": 1572066368,
-        "media_id": "a45428eede40c85f2b5825296103e9204cb89797",
-        "airing_id": "RADS1010261900030165",
-        "id": "6wiJ5yM4SxyvOYAonm7uWg",
-        "slug": "tatyana-ali",
-        "views": 104416,
-        "thumbnail": "",
-        "created": 1402945479,
-        "title_id": "895951",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1572066368,
-        "tags": [],
-        "rating_count": 782,
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1567051200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_103_pt1-05.jpg",
-        "cma_id": "1414901"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1558537140,
@@ -938,6 +888,56 @@
         "launch_date": 1572494400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_012_pt1_fu94h-05.jpg",
         "cma_id": "1453261"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1446739860,
+        "auth_expiration_date": 1578459540,
+        "tms_id": "EP015632430009",
+        "rating": 7.4882107,
+        "description": "Eric interviews Jay-Z, Beyonce and Evangelos. Musical guest Eden Wood.",
+        "title_suggest": {
+            "input": [
+                "Evangelos"
+            ]
+        },
+        "type": "episode",
+        "title": "Evangelos",
+        "expiration_date": 1573102740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 653,
+        "episode_number": "8",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575435600,
+        "modified": 1575009512,
+        "media_id": "79f1ecfab6454d4f3ba598c1f56a25a425fd7135",
+        "airing_id": "RADS1011271900041774",
+        "id": "WIfWvjy7RaGOzoAK3zpHEQ",
+        "slug": "evangelos",
+        "views": 98692,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945479,
+        "title_id": "895957",
+        "season_number": "1",
+        "tv_rating": "tv-14-dls",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1575009512,
+        "tags": [],
+        "rating_count": 721,
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1570075200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_109_pt1-04.jpg",
+        "cma_id": "1439385"
     },
     {
         "auth": false,
