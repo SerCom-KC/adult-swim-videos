@@ -59,6 +59,56 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447174980,
+        "auth_expiration_date": 1547009940,
+        "tms_id": "EP014348550033",
+        "rating": 7.8333335,
+        "description": "The agents of NTSF:SD:SUV trade in their badges and guns for suspenders and flair in order to save the President of the Navy's Chain Restaurant from its violent competitor, Senor Dicks. But will their plan go down in flames?",
+        "title_suggest": {
+            "input": [
+                "TGI Murder",
+                "Murder"
+            ]
+        },
+        "type": "episode",
+        "title": "TGI Murder",
+        "expiration_date": 1578545940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j-BhBPqwQCqEFZoouu4T5Q",
+        "duration": 675.006,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1543986000,
+        "modified": 1575114515,
+        "media_id": "3d74f69b6fcd40ba5f2214af6164828b814aada3",
+        "airing_id": "RADS1011271900041805",
+        "id": "CT0EG6-GRgKiV-onUsIKtw",
+        "slug": "tgi-murder",
+        "views": 7196,
+        "thumbnail": "",
+        "created": 1402945470,
+        "title_id": "2005258",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1575114515,
+        "tags": [],
+        "rating_count": 24,
+        "collection_title": "NTSF:SD:SUV::",
+        "modified_by": "ODT Listener",
+        "launch_date": 1575522000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ntsf_cc_303_pt1_ioge3-05.jpg",
+        "cma_id": "1397402"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447174920,
         "auth_expiration_date": 1545800340,
         "tms_id": "EP014348550031",
@@ -206,52 +256,5 @@
         "launch_date": 1574917200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/burn-after-killing/ntsf_301.jpg",
         "cma_id": "1393129"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447174800,
-        "auth_expiration_date": 1543985940,
-        "tms_id": "EP014348550028",
-        "rating": 8.6875,
-        "description": "A terrorist has rigged a San Diego bus to explode if it goes over 0mph. It's up to NTSF to keep the bus from moving and figure out who's behind it!",
-        "title_suggest": {
-            "input": [
-                "Inertia"
-            ]
-        },
-        "type": "episode",
-        "title": "Inertia",
-        "expiration_date": 1575521940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j-BhBPqwQCqEFZoouu4T5Q",
-        "duration": 636,
-        "episode_number": "15",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1540958400,
-        "modified": 1572081500,
-        "media_id": "5fcf927784bceb1fc31f9b2efc3c4a4646a49e3e",
-        "airing_id": "RADS1010261900030198",
-        "id": "flMoP1uiQi-6TX6N8pO3uA",
-        "slug": "inertia",
-        "views": 6239,
-        "created": 1402945470,
-        "title_id": "2004776",
-        "season_number": "2",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1572081500,
-        "tags": [],
-        "rating_count": 16,
-        "collection_title": "NTSF:SD:SUV::",
-        "modified_by": "ODT Listener",
-        "launch_date": 1572494400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/inertia/ntsf_cc_215_CC_pt1_uytst-02.jpg",
-        "cma_id": "1377356"
     }
 ]
