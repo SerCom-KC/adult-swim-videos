@@ -249,6 +249,58 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1575475140,
+        "tms_id": "EP027028650007",
+        "description": "Zenigata is assigned to protect Elena Gotti, the famous wife of a recently deceased billionaire, Roberto Gotti. In fact it's said that she's the only one to know where Roberto hid all his money, so her life is threatened by many robbers.",
+        "title_suggest": {
+            "input": [
+                "Until the Full Moon Passes",
+                "the Full Moon Passes",
+                "Full Moon Passes",
+                "Moon Passes",
+                "Passes"
+            ]
+        },
+        "expiration_date": 1578545940,
+        "title": "Until the Full Moon Passes",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1294,
+        "collection_id": "kQEL4HvBQheyH0IH9yiFfQ",
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1562770800,
+        "modified": 1575114124,
+        "media_id": "eae3eac45b4b28bbc419ef1b42ed5ba356b3abd0",
+        "airing_id": "RADS1007081900004708",
+        "id": "Bs_IyHXkQXa6OpevbEspZA",
+        "slug": "until-the-full-moon-passes",
+        "views": 887,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151087404742814.jpg",
+        "created": 1497296284,
+        "season_number": "1",
+        "title_id": "2128607",
+        "tv_rating": "tv-14-sv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1575114124,
+        "first_published": 1501661457,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 4",
+        "modified_by": "ODT Listener",
+        "launch_date": 1575522000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087404742814.jpg",
+        "cma_id": "2128607"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1580918340,
@@ -652,7 +704,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1583643540,
         "tms_id": "EP027028650002",
