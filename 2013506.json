@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505140260,
         "auth_expiration_date": 1576126740,
         "tms_id": "EP018336730029",
@@ -170,58 +170,6 @@
         "launch_date": 1491318000,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/gear-head/AS_RAM_Gearhead_33CPW_2.png",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1500906660,
-        "auth_expiration_date": 1575521940,
-        "tms_id": "EP018336730022",
-        "description": "The family deals with stuff in this one broh. What's Rick gonna do? This is a real episode right here broh.",
-        "title_suggest": {
-            "input": [
-                "The Rickshank Rickdemption",
-                "Rickshank Rickdemption",
-                "Rickdemption"
-            ]
-        },
-        "expiration_date": 1574917140,
-        "title": "The Rickshank Rickdemption",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1371.92,
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574917200,
-        "modified": 1575105495,
-        "media_id": "54d52374765c915b74439200af5b47addfc1779d",
-        "airing_id": "RADS1011241900039722",
-        "id": "20Lrd8P6SFCTzSU73lLViQ",
-        "slug": "the-rickshank-rickdemption",
-        "views": 223385,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1494259555,
-        "season_number": "3",
-        "title_id": "2116830",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1575105495,
-        "first_published": 1500664220,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1574312400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-rickshank-rickdemption/rickandmorty_301_Long_dup-20170515_1.jpg",
-        "cma_id": "1438509"
     },
     {
         "auth": false,
@@ -5039,7 +4987,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1501511460,
         "auth_expiration_date": 1575521940,
         "tms_id": "EP018336730023",
@@ -5444,7 +5392,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506954660,
         "auth_expiration_date": 1576126740,
         "tms_id": "EP018336730032",
@@ -5840,7 +5788,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1502721060,
         "auth_expiration_date": 1575521940,
         "tms_id": "EP018336730025",
@@ -6210,7 +6158,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1502116260,
         "auth_expiration_date": 1575521940,
         "tms_id": "EP018336730024",
@@ -6639,7 +6587,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1503325860,
         "auth_expiration_date": 1575521940,
         "tms_id": "EP018336730026",
@@ -6756,7 +6704,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1503930660,
         "auth_expiration_date": 1576126740,
         "tms_id": "EP018336730027",
@@ -7227,7 +7175,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505745060,
         "auth_expiration_date": 1576126740,
         "tms_id": "EP018336730030",
@@ -7780,7 +7728,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506349860,
         "auth_expiration_date": 1576126740,
         "tms_id": "EP018336730031",
