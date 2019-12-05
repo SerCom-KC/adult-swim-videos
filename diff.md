@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 5, 2019 at 03:30:33 EST_
+_Last Update: December 5, 2019 at 13:00:35 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-440990 Family Guy: 1  
-### 809271
-**Family Guy S12E07 - In Harmony's Way**  
-TV-14 🔒 21:27  
-⌛ December 5, 2019 at 02:59:00 EST  
-https://www.adultswim.com/videos/family-guy/in-harmonys-way  
-seriesid=`440990` titleid=`809271` id=`BWnhdF0dSFuDzLzd_4RVMg` mediaid=`8bb04dfb2b77b37783b93f9d8e2f0c7eb79ed78a`  
-_Peter and Quagmire both scream when a bee flies by and realize they harmonize well together. They start writing and singing songs in their spare time. Mort overhears them one day and is amazed by their talent. He offers to manage them since he used to have his own record label in the 70's._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15355668367514.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15355668367514.jpg" height="144px" /></a>
+2013506 Rick and Morty: 1  
+### 2116830
+**Rick and Morty S03E01 - The Rickshank Rickdemption**  
+TV-14-DLV 🔓 22:51  
+⌛ December 11, 2019 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/the-rickshank-rickdemption  
+seriesid=`2013506` titleid=`2116830` id=`20Lrd8P6SFCTzSU73lLViQ` mediaid=`54d52374765c915b74439200af5b47addfc1779d`  
+_The family deals with stuff in this one broh. What's Rick gonna do? This is a real episode right here broh._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-rickshank-rickdemption/rickandmorty_301_Long_dup-20170515_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-rickshank-rickdemption/rickandmorty_301_Long_dup-20170515_1.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
