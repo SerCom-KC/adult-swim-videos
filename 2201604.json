@@ -1,6 +1,55 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1570345140,
+        "tms_id": "EP032701900002",
+        "description": "On the run, the team learns more about the origins of gen:LOCK and one another. New potential allies are revealed.",
+        "title_suggest": {
+            "input": [
+                "It Never Rains",
+                "Never Rains",
+                "Rains"
+            ]
+        },
+        "title": "It Never Rains",
+        "expiration_date": 1576731599,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWvnoDt9CorLtcgflsOx",
+        "duration": 1400.1988,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1568530800,
+        "clip_order": null,
+        "media_id": "ae0f43cd18bbba58546a765e439187369a1ecdf8",
+        "modified": 1575102015,
+        "airing_id": "RADS1011271900041829",
+        "slug": "it-never-rains",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/1_199131334340-genlock_007.jpg",
+        "created": 1568396079,
+        "season_number": "1",
+        "title_id": "2201611",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575102015,
+        "tags": [],
+        "collection_title": "gen:LOCK",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1575522000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_199131334340-genlock_007.jpg",
+        "id": "AW0rsPBkCorLtcgfluYX",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1576558799,
         "tms_id": "EP032701900006",
         "description": "Earth, 2068. City by city, free society is being forcibly absorbed into a vast autocracy. One military force holds the line. One pilot could turn the tide.",
@@ -290,6 +339,6 @@
         "launch_date": 1574312400,
         "poster": "https://media.cdn.adultswim.com/uploads/20190830/thumbnails/2_198301514520-genlock_005_dup-20190725.jpg",
         "id": "AWze4NK3CorLtcgfluBP",
-        "auth": false
+        "auth": true
     }
 ]
