@@ -565,5 +565,54 @@
         "launch_date": 1575262800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg",
         "cma_id": "1437963"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1576222140,
+        "tms_id": "EP002960010206",
+        "description": "Stewie and Brian attempt to track down Meg after she's abducted in Paris by sex slave operatives.",
+        "title_suggest": {
+            "input": [
+                "Leggo my Meg-O",
+                "my Meg-O",
+                "Meg-O"
+            ]
+        },
+        "title": "Leggo my Meg-O",
+        "type": "episode",
+        "expiration_date": 1508650199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1292.3243,
+        "episode_number": "20",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575617400,
+        "modified": 1575241211,
+        "media_id": "22497fbfed0d13ad405b0851eeb313b5b35de5be",
+        "airing_id": "RADS1011271900041858",
+        "id": "xxVwb_cvREavVFitTQrItg",
+        "slug": "leggo-my-meg-o",
+        "views": 2062,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148502392120.jpg",
+        "created": 1407781219,
+        "title_id": "865340",
+        "tv_rating": "tv-14",
+        "season_number": "10",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575241211,
+        "first_published": 1407781219,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1508045400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148502392120.jpg",
+        "cma_id": "1495521"
     }
 ]
