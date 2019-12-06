@@ -558,7 +558,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153720751233716.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1581656340,
         "tms_id": "EP019059960067",
@@ -605,7 +605,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153660364506413.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1575608340,
         "tms_id": "EP019059960069",
@@ -1529,7 +1529,7 @@
         "cma_id": "1448651"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1587700740,
         "tms_id": "EP019059960027",
@@ -2102,7 +2102,7 @@
         "cma_id": "1385201"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1581656340,
         "tms_id": "EP019059960059",
@@ -2471,7 +2471,7 @@
         "cma_id": "1403523"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1575608340,
         "tms_id": "EP019059960061",
@@ -2572,7 +2572,7 @@
         "cma_id": "1414817"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1575608340,
         "tms_id": "EP019059960038",
