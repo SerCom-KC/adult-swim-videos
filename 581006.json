@@ -681,6 +681,57 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1576299540,
+        "tms_id": "EP007164450233",
+        "description": "Steve and his friends take up witchcraft to gain power and popularity at school. Stan and Klaus become obsessed with remembering 90s bands.",
+        "title_suggest": {
+            "input": [
+                "The Witches of Langley",
+                "Witches of Langley",
+                "of Langley",
+                "Langley"
+            ]
+        },
+        "title": "The Witches of Langley",
+        "type": "episode",
+        "expiration_date": 1566791940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.1,
+        "episode_number": "9",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575694800,
+        "modified": 1575424565,
+        "media_id": "82d4c38087e623a89a32d2e71d1179ab0d8066d5",
+        "airing_id": "RADS1012021900041982",
+        "id": "Y5ttR_r4RD--F5vHW1jb0Q",
+        "slug": "the-witches-of-langley",
+        "views": 1022,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151751869065413.jpg",
+        "created": 1492920622,
+        "title_id": "2069544",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1575424565,
+        "first_published": 1492920622,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1566187200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg",
+        "cma_id": "2069544"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1575955740,
         "tms_id": "EP007164450146",
         "description": "Francine tries to teach Roger the value of hard work after he fakes a masters degree and buys an Oscar. Steve interviews Stan for a personal history assignment at school.",
@@ -1042,53 +1093,5 @@
         "launch_date": 1554130800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg",
         "cma_id": "1351052"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1575694740,
-        "tms_id": "EP007164450248",
-        "description": "In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley.",
-        "title_suggest": {
-            "input": [
-                "West to Mexico",
-                "to Mexico",
-                "Mexico"
-            ]
-        },
-        "title": "West to Mexico",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.03,
-        "episode_number": "22",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1575090000,
-        "modified": 1574699671,
-        "media_id": "26317c90dca92ff6ac96b0624ea53f4a60d9b9a6",
-        "airing_id": "RADS1011251900040143",
-        "id": "vz3Y_dibRLuu8ZDlkfKtbQ",
-        "slug": "west-to-mexico",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15188043915002.jpg",
-        "created": 1502136942,
-        "season_number": "12",
-        "title_id": "2069553",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1574699671,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg",
-        "cma_id": ""
     }
 ]
