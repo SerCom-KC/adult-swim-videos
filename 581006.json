@@ -532,55 +532,6 @@
         "cma_id": "1394632"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1575698340,
-        "tms_id": "EP007164450144",
-        "description": "Francine asks her family to give up their vices for Lent or risk losing a finger.",
-        "title_suggest": {
-            "input": [
-                "Finger Lenting Good",
-                "Lenting Good",
-                "Good"
-            ]
-        },
-        "expiration_date": 1495256399,
-        "title": "Finger Lenting Good",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1292.3578,
-        "episode_number": "8",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1575093600,
-        "modified": 1574704713,
-        "media_id": "37b1b7d94d1c8cbd0073f25c7f5733a8f1af3d20",
-        "airing_id": "RADS1011251900040148",
-        "id": "MBFuX78QSVSEx6wbdJ4KyQ",
-        "slug": "finger-lenting-good",
-        "views": 7,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151793511794115.jpg",
-        "created": 1403555843,
-        "season_number": "8",
-        "title_id": "748207",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574704713,
-        "first_published": 1426738823,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1494651600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793511794115.jpg",
-        "cma_id": "1395263"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1576042140,
@@ -627,6 +578,55 @@
         "launch_date": 1507006800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180319338171.jpg",
         "cma_id": "1485897"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1576303140,
+        "tms_id": "EP007164450156",
+        "description": "In order to return to Earth, the space-bound Jeff must convince an Emperor that he is in love with Hayley.",
+        "title_suggest": {
+            "input": [
+                "Lost in Space",
+                "in Space",
+                "Space"
+            ]
+        },
+        "expiration_date": 1507953599,
+        "title": "Lost in Space",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1291.1231,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "18",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575698400,
+        "modified": 1575322211,
+        "media_id": "2a4c7b812c19c2e9c4b32becb19b9d081f5cd866",
+        "airing_id": "RADS1012021900041981",
+        "id": "RZFVgQBGR06dMRFMlECogw",
+        "slug": "lost-in-space",
+        "views": 2322,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15180321360194.jpg",
+        "created": 1403556518,
+        "season_number": "8",
+        "title_id": "748220",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575322211,
+        "first_published": 1449678019,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1507348800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180321360194.jpg",
+        "cma_id": "1489313"
     },
     {
         "auth": true,
