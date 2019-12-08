@@ -2,26 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 8, 2019 at 07:00:43 EST_
+_Last Update: December 8, 2019 at 18:00:39 EST_
 ## Video added
-### Summary
-2193927 Lupin the 3rd Part 5: 1  
-812206 Naruto: Shippuden: 1  
-### 2193951
-**Lupin the 3rd Part 5 S01E24 - Viva Lupin III**  
-TV-14-LSV 🔒 00:00  
-⌛ December 29, 2019 at 06:59:00 EST  
-https://www.adultswim.com/videos/lupin-the-3rd-part-5/viva-lupin-iii  
-seriesid=`2193927` titleid=`2193951` id=`AW306Gnt1YiBSfg0KX7l` mediaid=`c5d083e4687cd50b77cc5b1b4aa6ae2285d151cb`  
-_Lupin III has vanished from the internet. Meanwhile, the man himself is updating Peoplelog with confidential information that begins to throw the world into chaos._  
-<a href="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_1910221518482-lupinthe3rdpt5_024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_1910221518482-lupinthe3rdpt5_024.jpg" height="144px" /></a>
-### 2177706
-**Naruto: Shippuden S05E59 - Unison Sign**  
- 🔒 00:00  
-⌛ December 29, 2019 at 06:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/unison-sign  
-seriesid=`812206` titleid=`2177706` id=`AW4ZEPJh1YiBSfg0KYGe` mediaid=`f199b781d051db868020b16df0ca9e2a0b68e353`  
-_Naruto and Killer Bee rush to the battlefield when Nine Tails suddenly speaks to Naruto._  
-<a href="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291549270-narutoshippuden_277.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291549270-narutoshippuden_277.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2094567 Dream Corp LLC: 1  
+618253 12 oz. Mouse: 1  
+### 2133687
+**Dream Corp LLC S02E03 - Accordian Jim**  
+TV-14-LV 🔓 11:17  
+⌛ December 11, 2019 at 23:59:00 EST  
+https://www.adultswim.com/videos/dream-corp-llc/accordian-jim  
+seriesid=`2094567` titleid=`2133687` id=`AWDc15lOZ-onAnjDLt68` mediaid=`02f8c850a251ac4bbe45d3ac0aa74382788482a8`  
+_Patient 13 returns for Dream Therapy. After cancelling her last four appointments, Dr Roberts cautiously agrees to treat her. 88 survives a dog attack._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041275899616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041275899616.jpg" height="144px" /></a>
+### 651323
+**12 oz. Mouse S02E06 - Auraphull**  
+TV-MA 🔓 11:29  
+https://www.adultswim.com/videos/12-oz-mouse/auraphull  
+seriesid=`618253` titleid=`651323` id=`lfsEdPYHQqqpfo7xW9M9QQ`  
+_Mouse Fitzgerald starts dating a wonderful new girl, and paints her portrait for free.  Fitz gets his heart broken when the girl dumps him as soon as the painting is done._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_013_pt1-05.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_013_pt1-05.jpg" height="144px" /></a>
