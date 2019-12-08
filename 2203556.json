@@ -447,7 +447,7 @@
         "launch_date": 1575795600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191112/thumbnails/2_191112158332-FireForce_016.jpg",
         "id": "AW5cK5eUadNs2hMNfudv",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -498,6 +498,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20191120/thumbnails/2_1911201522557-FireForce_017.jpg",
         "id": "AW5cKKJoadNs2hMNfudu",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577609940,
+        "tms_id": "EP032684490018",
+        "description": "Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter. Konro proposes that Shinra and Arthur be given combat training in Asakusa to improve their fighting skills.",
+        "title_suggest": {
+            "input": [
+                "The Secrets of Pyrokinesis",
+                "Secrets of Pyrokinesis",
+                "of Pyrokinesis",
+                "Pyrokinesis"
+            ]
+        },
+        "title": "The Secrets of Pyrokinesis",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWwbkOBM4aLemgzOLF3t",
+        "duration": 0,
+        "episode_number": "",
+        "original_air_date": null,
+        "auth_launch_date": 1575795600,
+        "clip_order": null,
+        "media_id": "9bacbe9376d6d161b88a4472f56a0d2534372372",
+        "modified": 1575501486,
+        "airing_id": "RADS1012041900043307",
+        "slug": "the-secrets-of-pyrokinesis",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/1_191231038272-FireForce_018.jpg",
+        "created": 1575387512,
+        "season_number": "1",
+        "title_id": "2203574",
+        "tv_rating": "tv-14",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575501486,
+        "tags": [],
+        "collection_title": "Fire Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231038272-FireForce_018.jpg",
+        "id": "AW7Mab16adNs2hMNfuqJ",
         "auth": true
     },
     {
