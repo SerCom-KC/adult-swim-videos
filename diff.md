@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 8, 2019 at 04:01:03 EST_
+_Last Update: December 8, 2019 at 05:00:38 EST_
 ## Video added
 ### Summary
-2207385 Dr. Stone: 1  
-2203556 Fire Force: 1  
-### 2207400
-**Dr. Stone S01E?? - The Culmination of Two Million Years**  
-TV-14-DLV 🔒 00:00  
-⌛ December 29, 2019 at 03:29:00 EST  
-https://www.adultswim.com/videos/dr-stone/the-culmination-of-two-million-years  
-seriesid=`2207385` titleid=`2207400` id=`AW7MZ6EjadNs2hMNfuqI` mediaid=`b8eb26956740be58f97947bf7fb42d5e4aed242a`  
-_After Senku's unlikely victory, quick marriage, and even hastier divorce, the kingdom of science is back to work to finally finish Ruri's medicine!_  
-<a href="https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231036101-DrStone_115.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231036101-DrStone_115.jpg" height="144px" /></a>
-### 2203574
-**Fire Force S01E?? - The Secrets of Pyrokinesis**  
-TV-14 🔒 00:00  
-⌛ December 29, 2019 at 03:59:00 EST  
-https://www.adultswim.com/videos/fire-force/the-secrets-of-pyrokinesis  
-seriesid=`2203556` titleid=`2203574` id=`AW7Mab16adNs2hMNfuqJ` mediaid=`9bacbe9376d6d161b88a4472f56a0d2534372372`  
-_Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter. Konro proposes that Shinra and Arthur be given combat training in Asakusa to improve their fighting skills._  
-<a href="https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231038272-FireForce_018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231038272-FireForce_018.jpg" height="144px" /></a>
+2209292 Demon Slayer: 1  
+2201017 Food Wars!: 1  
+### 2209300
+**Demon Slayer S01E?? - The Smell of Enchanting Blood**  
+TV-MA-V 🔒 00:00  
+⌛ December 29, 2019 at 04:59:00 EST  
+https://www.adultswim.com/videos/demon-slayer/the-smell-of-enchanting-blood  
+seriesid=`2209292` titleid=`2209300` id=`AW7MarbSadNs2hMNfuqK` mediaid=`bef63205020972ffeaeff91a8370f3cb8f56737a`  
+_Small-town Tanjiro is thrown into the bustling city life as his next assignment takes him to Asakusa, Tokyo where he picks up a scent._  
+<a href="https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231039323-DemonSlayer_008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231039323-DemonSlayer_008.jpg" height="144px" /></a>
+### 2201038
+**Food Wars! S01E21 - That Which is Known yet Unknown**  
+TV-MA-S 🔒 00:00  
+⌛ December 29, 2019 at 04:29:00 EST  
+https://www.adultswim.com/videos/food-wars/that-which-is-known-yet-unknown  
+seriesid=`2201017` titleid=`2201038` id=`AW4S3CHK1YiBSfg0KYDo` mediaid=`a9142f2460437cf987fa5676a9c60b038879b07e`  
+_The Fall Selection preliminaries are underway! Megumi shocks everyone with a tricky ingredient, and the election hall is assaulted by "cursed" curry!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281053583-FoodWars_021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281053583-FoodWars_021.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
