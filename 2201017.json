@@ -299,7 +299,7 @@
         "launch_date": 1575797400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022150414-foodwars_019.jpg",
         "id": "AW3018p9adNs2hMNfuWQ",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -506,6 +506,58 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_191015132245-foodwars_015.jpg",
         "id": "AW3QD_E31YiBSfg0KXyO",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577611740,
+        "tms_id": "",
+        "description": "The Fall Selection preliminaries are underway! Megumi shocks everyone with a tricky ingredient, and the election hall is assaulted by \"cursed\" curry!",
+        "title_suggest": {
+            "input": [
+                "That Which is Known yet Unknown",
+                "Which is Known yet Unknown",
+                "is Known yet Unknown",
+                "Known yet Unknown",
+                "yet Unknown",
+                "Unknown"
+            ]
+        },
+        "title": "That Which is Known yet Unknown",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 0,
+        "episode_number": "21",
+        "original_air_date": null,
+        "auth_launch_date": 1575797400,
+        "clip_order": null,
+        "media_id": "a9142f2460437cf987fa5676a9c60b038879b07e",
+        "modified": 1575502684,
+        "airing_id": "RADS1012041900043311",
+        "slug": "that-which-is-known-yet-unknown",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/1_1910281053583-FoodWars_021.jpg",
+        "created": 1572274446,
+        "season_number": "1",
+        "title_id": "2201038",
+        "tv_rating": "tv-ma-s",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575502684,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281053583-FoodWars_021.jpg",
+        "id": "AW4S3CHK1YiBSfg0KYDo",
+        "auth": true
     },
     {
         "ott_launch_date": null,
