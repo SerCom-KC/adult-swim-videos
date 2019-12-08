@@ -194,7 +194,7 @@
         "launch_date": 1575802800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_1910221511494-jojo_goldenwind_004.jpg",
         "id": "AW304gtpadNs2hMNfuWT",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -301,6 +301,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20191111/thumbnails/2_191111161392-jojo_goldenwind_005.jpg",
         "id": "AW5cQwU7adNs2hMNfudy",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577617140,
+        "tms_id": "",
+        "description": "Sailing to the Isle of Capri to recover Polpo's estate, Bucciarati and team are ambushed by a stealthy enemy Stand that deflates them into rubber-like human pelts.",
+        "title_suggest": {
+            "input": [
+                "Moody Jazz's Counterattack",
+                "Jazz's Counterattack",
+                "Counterattack"
+            ]
+        },
+        "title": "Moody Jazz's Counterattack",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
+        "duration": 0,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1575802800,
+        "clip_order": null,
+        "media_id": "d01a4fa8147250f3a819bd688fb1d7ec08e96f1d",
+        "modified": 1575502564,
+        "airing_id": "RADS1012041900043323",
+        "slug": "moody-jazzs-counterattack",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191111/thumbnails/1_1911111613495-jojo_goldenwind_006.jpg",
+        "created": 1573506278,
+        "season_number": "4",
+        "title_id": "2193962",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575502564,
+        "tags": [],
+        "collection_title": "JoJo's Bizarre Adventure",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191111/thumbnails/2_1911111613495-jojo_goldenwind_006.jpg",
+        "id": "AW5cSGRl1YiBSfg0KYZC",
         "auth": true
     },
     {
