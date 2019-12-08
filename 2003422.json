@@ -51,6 +51,53 @@
         "cma_id": "1464049"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1576387740,
+        "tms_id": "EP012792980067",
+        "description": "Gene, Louise, and Tina discover a seaweed-covered object at the beach that turns out to be a large hunk of Ambergris - an extremely valuable, but illegal, byproduct of whale poop that is used in high-end perfumes - and Louise tries to cheat Gene and Tina out of the profit she hopes to make by selling the treasure on the black market. Meanwhile, Bob and Linda deal with their psychologically unstable landlord who is building them a new bathroom.",
+        "title_suggest": {
+            "input": [
+                "Ambergris"
+            ]
+        },
+        "title": "Ambergris",
+        "type": "episode",
+        "expiration_date": 1505282399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1269.2012,
+        "episode_number": "18",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575783000,
+        "modified": 1575402367,
+        "media_id": "e2184ec831627b5d12dd23768803fa7a85ca109b",
+        "airing_id": "RADS1012021900042002",
+        "id": "2_qqPjdXTcSqml5VwTJidA",
+        "slug": "ambergris",
+        "views": 1,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15180324497628.jpg",
+        "created": 1411571384,
+        "season_number": "4",
+        "title_id": "2030319",
+        "tv_rating": "",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575402367,
+        "first_published": 1411571384,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1504677600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180324497628.jpg",
+        "cma_id": "1465971"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1572499740,
         "tms_id": "EP012792980152",
@@ -400,52 +447,6 @@
         "launch_date": 1504675800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg",
         "cma_id": "1466013"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1575782940,
-        "tms_id": "EP012792980051",
-        "description": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt,\" the most charming pilot in the air.",
-        "title_suggest": {
-            "input": [
-                "Seaplane!"
-            ]
-        },
-        "title": "Seaplane!",
-        "type": "episode",
-        "expiration_date": 1504342799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1294.8269,
-        "episode_number": "3",
-        "original_air_date": null,
-        "auth_launch_date": 1575178200,
-        "clip_order": null,
-        "modified": 1574893566,
-        "media_id": "04718512dcc45036018c4e92099724090fd93b84",
-        "airing_id": "RADS1011271900041535",
-        "id": "ifvc24W8Q-qBRnvUpRjLcw",
-        "slug": "seaplane",
-        "views": 6916,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267538029215.jpg",
-        "created": 1410751254,
-        "title_id": "2030306",
-        "tv_rating": "tv-14",
-        "season_number": "4",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1574893566,
-        "first_published": 1410751254,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503738000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg",
-        "cma_id": "2030306"
     },
     {
         "auth": true,
