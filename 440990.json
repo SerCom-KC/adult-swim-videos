@@ -101,57 +101,7 @@
         "cma_id": "1311664"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1575872940,
-        "tms_id": "EP002960010292",
-        "description": "As the guys go through Quagmire\u2019s father\u2019s old clothes, Peter finds a bunch of VHS tapes of a Korean soap opera called Winter Summer. It turns out Quagmire starred in the show years earlier while he was stationed in Busan with the Navy.",
-        "title_suggest": {
-            "input": [
-                "Candy Quahog Marshmallow!",
-                "Quahog Marshmallow!",
-                "Marshmallow!"
-            ]
-        },
-        "expiration_date": 1573448340,
-        "title": "Candy Quahog Marshmallow!",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1302.2335669,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1575268200,
-        "modified": 1574874726,
-        "media_id": "b9630e13ce4796f789b2712193839b4ee2591963",
-        "airing_id": "RADS1011271900041592",
-        "id": "8m-D-p4DTmuTfNsOm66sBw",
-        "slug": "candy-quahog-marshmallow",
-        "views": 3,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1452613322,
-        "season_number": "14",
-        "title_id": "2064576",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1574874726,
-        "first_published": 1478891836,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1572843600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/candy-quahog-marshmallow/familyguy_1301_air_cid-2XX79.jpg",
-        "cma_id": "1456152"
-    },
-    {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1575874740,
         "tms_id": "EP002960010293",
@@ -552,6 +502,52 @@
         "launch_date": 1507876200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214849336016.jpg",
         "cma_id": "1494693"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1576477740,
+        "tms_id": "EP002960010219",
+        "description": "As Christmas approaches...Peter tells the story of the Nativity, with friends and family members appearing as biblical characters.",
+        "title_suggest": {
+            "input": [
+                "Jesus, Mary and Joseph!",
+                "Mary and Joseph!",
+                "and Joseph!",
+                "Joseph!"
+            ]
+        },
+        "title": "Jesus, Mary and Joseph!",
+        "type": "episode",
+        "expiration_date": 1496483999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1291.0565,
+        "episode_number": "8",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575873000,
+        "modified": 1575512043,
+        "media_id": "a335fbb1094e024e14aaea67a13581b0012154b3",
+        "airing_id": "RADS1012041900043368",
+        "id": "oXyOxdugSqagfg04R0yghQ",
+        "slug": "jesus-mary-and-joseph",
+        "views": 296,
+        "created": 1408425628,
+        "title_id": "809251",
+        "tv_rating": "tv-14",
+        "season_number": "11",
+        "active": false,
+        "published": 1575512043,
+        "first_published": 1408425628,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1495879200,
+        "poster": "",
+        "cma_id": "1403145"
     },
     {
         "auth": false,
