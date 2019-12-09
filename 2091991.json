@@ -609,6 +609,57 @@
         "auth": true
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Kick those monsters to the curb! Right next to your trash bins.",
+        "title_suggest": {
+            "input": [
+                "Sneak Peek \u2013 Justice Under Siege",
+                "Peek \u2013 Justice Under Siege",
+                "\u2013 Justice Under Siege",
+                "Justice Under Siege",
+                "Under Siege",
+                "Siege"
+            ]
+        },
+        "title": "Sneak Peek \u2013 Justice Under Siege",
+        "expiration_date": 1577077200,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "xZSM7jD5QCe6QOiQJ_-sxQ",
+        "duration": 14.97,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "",
+        "modified": 1575652620,
+        "slug": "sneak-peek-justice-under-siege",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191204/thumbnails/1_191241359312-promo_OPM_Top22_SAT.jpg",
+        "created": 1575485978,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575652620,
+        "tags": [],
+        "collection_title": "One-Punch Man",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1575867600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191204/thumbnails/2_191241359312-promo_OPM_Top22_SAT.jpg",
+        "id": "AW7SSDXMadNs2hMNfurt",
+        "auth": false
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1576817940,
