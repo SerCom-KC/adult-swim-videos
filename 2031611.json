@@ -1,5 +1,55 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "tms_id": "EP012647370061",
+        "description": "Vegeta's sudden arrival creates an opening for the others to rescue Goku. While Yamcha rushes the fallen hero to safety, Vegeta reveals his new and improved fighting style - including the Big Bang Attack!",
+        "title_suggest": {
+            "input": [
+                "No Victory for Android 19! Enter Super Vegeta!",
+                "Victory for Android 19! Enter Super Vegeta!",
+                "for Android 19! Enter Super Vegeta!",
+                "Android 19! Enter Super Vegeta!",
+                "19! Enter Super Vegeta!",
+                "Enter Super Vegeta!",
+                "Super Vegeta!",
+                "Vegeta!"
+            ]
+        },
+        "expiration_date": 1578891540,
+        "title": "No Victory for Android 19! Enter Super Vegeta!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1321,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "61",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1575506164,
+        "airing_id": "RADS1012041900043333",
+        "media_id": "c84c7f901762ece489bfff0141ac2ba29bce1965",
+        "id": "-LIromdWQWGy5tcobKYr_Q",
+        "slug": "no-victory-for-android-19-enter-super-vegeta",
+        "views": 2872,
+        "created": 1454356570,
+        "season_number": "1",
+        "title_id": "2031672",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1575506164,
+        "first_published": 1457511056,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1575867600,
+        "poster": "",
+        "cma_id": "1201284"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
@@ -1348,7 +1398,7 @@
         "cma_id": "1061012"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370058",
