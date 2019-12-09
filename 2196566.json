@@ -239,6 +239,53 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1577693640,
+        "tms_id": "",
+        "description": "When Goodman buries his family TV, it rises from the grave, demanding to be entertained.",
+        "title_suggest": {
+            "input": [
+                "TV"
+            ]
+        },
+        "title": "TV",
+        "expiration_date": 1575878400,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 678.96,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1575879300,
+        "clip_order": null,
+        "media_id": "",
+        "modified": 1575601433,
+        "airing_id": "RADS1012041900043444",
+        "slug": "tv",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg",
+        "created": 1573745721,
+        "season_number": "1",
+        "title_id": "2196572",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575601433,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1575597600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg",
+        "id": "AW5qjgBaadNs2hMNfugG",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Chrome domes REPRESENT.",
