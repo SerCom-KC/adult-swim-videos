@@ -340,6 +340,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1576558740,
+        "tms_id": "EP007164450229",
+        "description": "Stan is upset at the idea of becoming a grandfather after Hayley and Jeff announce they're trying to have a baby. Steve and Klaus join a drug gang after Steve decides to take being an uncle extra seriously.",
+        "title_suggest": {
+            "input": [
+                "Bahama Mama",
+                "Mama"
+            ]
+        },
+        "title": "Bahama Mama",
+        "type": "episode",
+        "expiration_date": 1557759540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.3,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1575954000,
+        "clip_order": null,
+        "modified": 1575580683,
+        "media_id": "695ce2af38d44bffdca9bbd052d1287629ab734b",
+        "airing_id": "RADS1012051900043598",
+        "id": "NGLrMHi2SMaOBw4VfXHxTw",
+        "slug": "bahama-mama",
+        "views": 1055,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175246934826.jpg",
+        "created": 1481461832,
+        "title_id": "2069536",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575580683,
+        "first_published": 1481461832,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1557154800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175246934826.jpg",
+        "cma_id": "1342854"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1576385940,
         "tms_id": "EP007164450227",
         "description": "Hayley takes Roger with her to a meditation center and he quickly takes over, becoming one of the world's leading authorities on meditation. Stan and Steve become apprentices as they are taught the art of making sushi.",
@@ -1098,55 +1146,5 @@
         "launch_date": 1507093200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803206290212.jpg",
         "cma_id": "1486411"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1575953940,
-        "tms_id": "EP007164450231",
-        "description": "The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual.",
-        "title_suggest": {
-            "input": [
-                "Ninety North, Zero West",
-                "North, Zero West",
-                "Zero West",
-                "West"
-            ]
-        },
-        "title": "Ninety North, Zero West",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.2,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1575349200,
-        "clip_order": null,
-        "modified": 1575007325,
-        "media_id": "e374e0327ea852a8a2e8c3fbfdccb9a344bbec85",
-        "airing_id": "RADS1011271900041762",
-        "id": "tws7PtVrRlKyTN3PRz_gKQ",
-        "slug": "ninety-north-zero-west",
-        "views": 1224,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803218298013.jpg",
-        "created": 1482941474,
-        "title_id": "2069538",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1575007325,
-        "first_published": 1482941474,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg",
-        "cma_id": "1351052"
     }
 ]
