@@ -1,6 +1,55 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1577771940,
+        "tms_id": "EP020020000062",
+        "description": "Can the team bring holiday cheer to someone who's given up on life?",
+        "title_suggest": {
+            "input": [
+                "The Christmas Episode",
+                "Christmas Episode",
+                "Episode"
+            ]
+        },
+        "title": "The Christmas Episode",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 0,
+        "episode_number": "16",
+        "original_air_date": null,
+        "auth_launch_date": 1575957600,
+        "clip_order": null,
+        "media_id": "546d3e27c1aad78304160dbcf1344cbdd0426baa",
+        "modified": 1575647647,
+        "airing_id": "RADS1012061900044202",
+        "slug": "the-christmas-episode",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/1_191231030206-miketysonmysteries_416_dup-20191205.jpg",
+        "created": 1575387028,
+        "season_number": "4",
+        "title_id": "2172013",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575647647,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231030206-miketysonmysteries_416_dup-20191205.jpg",
+        "id": "AW7MYlwy1YiBSfg0KZCK",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "",
         "title_suggest": {
