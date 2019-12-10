@@ -1,22 +1,22 @@
 {
-    "updated": 1575959603,
+    "updated": 1575961235,
     "added": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1576564140,
-            "tms_id": "EP012792980141",
-            "description": "Linda is determined to host a party at the restaurant in order to spread a little cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she begins questioning all the guests.",
+            "auth_expiration_date": 1576565940,
+            "tms_id": "EP012792980142",
+            "description": "After Linda's prized ornaments go missing during a holiday party at the restaurant, Linda suspects one of the attendees as the thief. However, the kids have their own theory: attributing the robbery to the anti-Santa - \"The Bleaken.\"",
             "title_suggest": {
                 "input": [
-                    "The Bleakening Part 1",
-                    "Bleakening Part 1",
-                    "Part 1",
-                    "1"
+                    "The Bleakening Part 2",
+                    "Bleakening Part 2",
+                    "Part 2",
+                    "2"
                 ]
             },
-            "title": "The Bleakening Part 1",
-            "type": "episode",
+            "title": "The Bleakening Part 2",
             "expiration_date": 1574657940,
+            "type": "episode",
             "platforms": [
                 "android",
                 "ios",
@@ -24,87 +24,35 @@
                 "fire-tv"
             ],
             "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "duration": 1301.97,
-            "episode_number": "6",
+            "duration": 1297.2,
+            "episode_number": "7",
             "original_air_date": null,
-            "auth_launch_date": 1575959400,
+            "auth_launch_date": 1575961200,
             "clip_order": null,
-            "airing_id": "RADS1012051900043595",
-            "media_id": "9fa33279ac79cbb83f2cd4a35ca83a04cc69d149",
-            "modified": 1575578890,
-            "slug": "the-bleakening-part-1",
+            "media_id": "0784465192256af12e5850f1469d9f5d5a24183a",
+            "modified": 1575580812,
+            "airing_id": "RADS1012051900043600",
+            "slug": "the-bleakening-part-2",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15444603910052.jpg",
-            "created": 1543859362,
-            "title_id": "2171437",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15450597262919.jpg",
+            "created": 1543954675,
             "season_number": "8",
+            "title_id": "2171438",
             "tv_rating": "tv-pg-dl",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1575578890,
+            "published": 1575580812,
             "tags": [],
             "collection_title": "Bob's Burgers",
             "modified_by": "ODT Listener",
             "launch_date": 1574053200,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444603910052.jpg",
-            "id": "AWd1MFj-qD68dq0Op5rc",
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg",
+            "id": "AWd63rgSqD68dq0Op5t4",
             "auth": true,
             "collection_slug": "bobs-burgers",
             "collection_title_id": "2003422",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1575959340,
-            "tms_id": "EP012792980054",
-            "description": "In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention.",
-            "title_suggest": {
-                "input": [
-                    "Purple Rain-Union",
-                    "Rain-Union"
-                ]
-            },
-            "title": "Purple Rain-Union",
-            "type": "episode",
-            "expiration_date": 1507267799,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "duration": 1291.1565,
-            "episode_number": "6",
-            "original_air_date": null,
-            "clip_order": null,
-            "auth_launch_date": 1575354600,
-            "modified": 1575009967,
-            "media_id": "7289c265db498136b3e379f3bef3020e77690b3c",
-            "airing_id": "RADS1011271900041771",
-            "id": "v0G53m0sSreGe4zKqAbsxw",
-            "slug": "purple-rain-union",
-            "views": 10663,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15126754887379.jpg",
-            "created": 1411570982,
-            "season_number": "4",
-            "title_id": "2030307",
-            "tv_rating": "tv-14",
-            "active": false,
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1575009967,
-            "first_published": 1411570982,
-            "tags": [],
-            "collection_title": "Bob's Burgers",
-            "modified_by": "ODT Listener",
-            "launch_date": 1506663000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg",
-            "cma_id": "2030307",
-            "collection_slug": "bobs-burgers",
-            "collection_title_id": "2003422",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
