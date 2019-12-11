@@ -2,21 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 11, 2019 at 11:30:36 EST_
+_Last Update: December 11, 2019 at 12:00:38 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2022095 Black Jesus: 2  
-2128589 Lupin the 3rd Part 4: 1  
-### Online Exclusives
-`AW0W6PdE4aLemgzOLGZr` [Black Jesus - Black Jesus Trailer](https://www.adultswim.com/videos/black-jesus/black-jesus-trailer)  
-`AW4DEsCRadNs2hMNfuXW` [Black Jesus - Sneak Peek – The Real Jesus of Compton](https://www.adultswim.com/videos/black-jesus/sneak-peek-the-real-jesus-of-compton)  
-### 2128608
-**Lupin the 3rd Part 4 S01E08 - The Zapping Operation**  
-TV-14-V 🔒 21:34  
-⌛ January 15, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/lupin-the-3rd-part-4/the-zapping-operation  
-seriesid=`2128589` titleid=`2128608` id=`w8GGSHeATIip50VhRAunZA` mediaid=`1b1e14ffd46ccaf934147f8cc6a39d8357a79024`  
-_Brigitte, Nyx's daughter (who, like her sisters and her mother, doesn't know about his father's true job), is kidnapped during a school trip by women's smugglers that want to sell her as a prostitute to her own father._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-zapping-operation/lupinthe3rdpt4_108_air_cid-35W0Y.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-zapping-operation/lupinthe3rdpt4_108_air_cid-35W0Y.jpg" height="144px" /></a>
+2031611 Dragon Ball Z Kai: 1  
+### 2031686
+**Dragon Ball Z Kai S01E75 - Power Unknown! Android 16 Breaks His Silence!**  
+TV-PG-LV 🔓 21:04  
+https://www.adultswim.com/videos/dragon-ball-z-kai/power-unknown-android-16-breaks-his-silence  
+seriesid=`2031611` titleid=`2031686` id=`JAMUPQneROyQ9SimklwPsg`  
+_After defeating Piccolo, Cell turns his attention to his true prey: Androids 17 and 18. The monster must absorb them both to achieve his perfect form, but Android 16 still stands in his way!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210167529-dragonballzkai_075_air_cid-2V5F6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210167529-dragonballzkai_075_air_cid-2V5F6.jpg" height="144px" /></a>
