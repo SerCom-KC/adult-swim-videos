@@ -113,6 +113,56 @@
         "cma_id": "1453747"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447784160,
+        "auth_expiration_date": 1579064340,
+        "tms_id": "EP008994530019",
+        "rating": 7.523686,
+        "description": "The Mayor and Roy Teppert have a disagreement as Tom looks on.",
+        "title_suggest": {
+            "input": [
+                "Pepperoni"
+            ]
+        },
+        "type": "episode",
+        "title": "Pepperoni",
+        "expiration_date": 1558623540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 701.6,
+        "episode_number": "9",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1576040400,
+        "modified": 1575655926,
+        "media_id": "85dac34d129e5cd8ca8d7389c7756c962b52d420",
+        "airing_id": "RADS1012061900044526",
+        "id": "9cvLfdAlRLGBQ3e1wQTqhg",
+        "slug": "pepperoni",
+        "views": 460727,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945482,
+        "title_id": "691945",
+        "season_number": "2",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1575655926,
+        "tags": [],
+        "rating_count": 3462,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1555599600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_209_pt1-04.jpg",
+        "cma_id": "1151851"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -324,58 +374,6 @@
         "launch_date": 1503603292,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/awesome-10-year-anniversary-version-great-job/timanderic_10thAnniversary_dup-20170823.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447784100,
-        "auth_expiration_date": 1576040340,
-        "tms_id": "EP008994530015",
-        "rating": 7.4088645,
-        "description": "Eric's attendence at Tim's birthday party rests in the hands of Zan. When Ruth finally has the house to herself, she beckons her neighbor for a visit. (Jeff Goldblum)",
-        "title_suggest": {
-            "input": [
-                "Coma"
-            ]
-        },
-        "type": "episode",
-        "title": "Coma",
-        "expiration_date": 1555599540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 691.36,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573016400,
-        "modified": 1572824767,
-        "media_id": "4752eca8eefbee567db1d8a41cd479737e2c4d60",
-        "airing_id": "RADS1011031900033552",
-        "id": "XsPRSNLMRBmrv0vVuZvhwA",
-        "slug": "coma",
-        "views": 478013,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "691941",
-        "tv_rating": "tv-ma",
-        "season_number": "2",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1572824767,
-        "tags": [
-            "time and eric awesome show great job episode 15 coma birthday party zan ruth jeff goldblum"
-        ],
-        "rating_count": 4016,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1552575600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_205_pt2-01.jpg",
-        "cma_id": "1303437"
     },
     {
         "auth": false,
