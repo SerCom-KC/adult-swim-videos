@@ -1,61 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": 1446844440,
-        "auth_expiration_date": 1576040340,
-        "tms_id": "EP004625750023",
-        "rating": 8.564745,
-        "description": "After 30 years of failed attempts, X gets the crest on Birdman's helmet.  Convinced he's powerless without his crest, Harvey falls apart, stops shaving and loses a case defending Ricochet Rabbit from charges of wanton and willful destruction.  X, on the other hand, turns his life around.  He starts fighting for the cause of all that is good, winds up in newspaper headlines and on afternoon talk shows.",
-        "title_suggest": {
-            "input": [
-                "X Gets the Crest",
-                "Gets the Crest",
-                "the Crest",
-                "Crest"
-            ]
-        },
-        "type": "episode",
-        "title": "X Gets the Crest",
-        "expiration_date": 1556204340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 693.016,
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573016400,
-        "modified": 1572750260,
-        "media_id": "d05a180b7f3a1c1a0aa71c61925e4bba6847fc70",
-        "airing_id": "RADS1011031900033539",
-        "id": "8bnZmF-yQmCeRsdatg8Mjg",
-        "slug": "x-gets-the-crest",
-        "views": 277918,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945467,
-        "title_id": "614807",
-        "season_number": "3",
-        "tv_rating": "tv-pg-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1572750260,
-        "tags": [
-            "harvey birdman attorney at law episode 23 x gets the crest helmet poker"
-        ],
-        "rating_count": 726,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "modified_by": "ODT Listener",
-        "launch_date": 1553180400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_023_pt1-02.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1446844500,
         "auth_expiration_date": 1577249940,
         "tms_id": "EP004625750025",
@@ -268,6 +213,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1573102800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_016_pt1-03.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1446844560,
+        "auth_expiration_date": 1579064340,
+        "tms_id": "EP004625750028",
+        "rating": 8.647698,
+        "description": "Peebles is being sued when a group of animal rights activists break into his store, free all the animals and kidnap Magilla.  In the meantime, Phil takes Potamus and his nephews on a fishing trip in hopes of either communing with or totally obliterating nature.",
+        "title_suggest": {
+            "input": [
+                "Free Magilla",
+                "Magilla"
+            ]
+        },
+        "type": "episode",
+        "title": "Free Magilla",
+        "expiration_date": 1559228340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 692.02,
+        "episode_number": "8",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1576040400,
+        "modified": 1575653763,
+        "media_id": "8943256045fc8d84f58dac479bc94fb49172ac29",
+        "airing_id": "RADS1012061900044511",
+        "id": "UEaQOAVIS8uLlXDdU7D3qA",
+        "slug": "free-magilla",
+        "views": 296322,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945467,
+        "title_id": "623566",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1575653763,
+        "tags": [
+            "harvey birdman attorney at law episode 28 free magilla peebles animal rights activists nephews"
+        ],
+        "rating_count": 738,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "modified_by": "ODT Listener",
+        "launch_date": 1556204400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_028_pt1-04.jpg",
         "cma_id": ""
     },
     {
