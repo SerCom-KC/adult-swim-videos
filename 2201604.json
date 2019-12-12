@@ -50,6 +50,54 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1570949940,
+        "tms_id": "EP032701900001",
+        "description": "The team must evolve further if they hope to make a stand against the Union's deadliest weapon.",
+        "title_suggest": {
+            "input": [
+                "Identity Crisis",
+                "Crisis"
+            ]
+        },
+        "title": "Identity Crisis",
+        "expiration_date": 1577336399,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWvnoDt9CorLtcgflsOx",
+        "duration": 1440.1054,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1569135600,
+        "clip_order": null,
+        "media_id": "fdd92215d178b5787cff1b2fe48f01af3aa495da",
+        "modified": 1575869524,
+        "airing_id": "RADS1012081900044859",
+        "slug": "identity-crisis",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190919/thumbnails/1_19919125289-genlock_008.jpg",
+        "created": 1568911935,
+        "season_number": "1",
+        "title_id": "2201612",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575869524,
+        "tags": [],
+        "collection_title": "gen:LOCK",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1576126800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20190919/thumbnails/2_19919125289-genlock_008.jpg",
+        "id": "AW1KcEn-adNs2hMNft_J",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1576558799,
         "tms_id": "EP032701900006",
         "description": "Earth, 2068. City by city, free society is being forcibly absorbed into a vast autocracy. One military force holds the line. One pilot could turn the tide.",
@@ -290,7 +338,7 @@
         "launch_date": 1574917200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190906/thumbnails/2_19961043410-genlock_006.jpg",
         "id": "AWz4x3MmCorLtcgfluHf",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,

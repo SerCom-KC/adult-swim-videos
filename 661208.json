@@ -271,6 +271,58 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447783740,
+        "auth_expiration_date": 1568779140,
+        "tms_id": "EP008994530002",
+        "rating": 6.5015326,
+        "description": "Eric sends Tim an ornamental hot dog. Ron Auster teaches children how to dance. (John C. Reilly guest stars)",
+        "title_suggest": {
+            "input": [
+                "Friends"
+            ]
+        },
+        "type": "episode",
+        "title": "Friends",
+        "expiration_date": 1579150740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 693.008,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1565755200,
+        "modified": 1575880204,
+        "media_id": "96b3dd0d2268ff9462295e8db366f15c15846063",
+        "airing_id": "RADS1012081900044845",
+        "id": "C_d8dT8WS6m1st_JUCE4mg",
+        "slug": "friends",
+        "views": 415517,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945481,
+        "title_id": "661589",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1575880204,
+        "tags": [
+            "tim eric awesome show great job episode 2 friends hot dog dance john c reilly steve brule jan wayne skylar"
+        ],
+        "rating_count": 5228,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1576126800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_102_pt1-04.jpg",
+        "cma_id": "1462289"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447783980,
         "auth_expiration_date": 1576645140,
@@ -490,53 +542,6 @@
         "launch_date": 1574312400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_510_pt2-04.jpg",
         "cma_id": "1449275"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447785000,
-        "auth_expiration_date": 1565755140,
-        "tms_id": "EP008994530049",
-        "rating": 8.451506,
-        "description": "Tim and Eric square off to settle who is the more handsome, fancy man. Hang around for a sneak peak at what's inside Richard Dunn's mouth. (Guest starring: Bob Odenkirk) ",
-        "title_suggest": {
-            "input": [
-                "Handsome"
-            ]
-        },
-        "type": "episode",
-        "title": "Handsome",
-        "expiration_date": 1576126740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 669.44,
-        "episode_number": "7",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1562731200,
-        "modified": 1572751925,
-        "media_id": "dcc213cbef80d2226d8a333f45683f6f6d2ebd12",
-        "airing_id": "RADS1011031900033587",
-        "id": "jthYQUfvRkeLzOPk14gaBg",
-        "slug": "handsome",
-        "views": 326532,
-        "created": 1402945481,
-        "title_id": "787511",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1572751925,
-        "tags": [],
-        "rating_count": 1619,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1573102800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_507_pt2-02.jpg",
-        "cma_id": "1435054"
     },
     {
         "auth": true,
