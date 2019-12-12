@@ -790,6 +790,53 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1576735140,
+        "tms_id": "EP007164450165",
+        "description": "In a desperate attempt to show Steve that she's still a \"cool\" mom, Francine teaches him a vast array of shoplifting techniques to try out at the local mall. When their attempt to pull off the ultimate heist at \"The Gash\" goes awry, Steve is captured and sent to a Venezuelan sweatshop. Meanwhile, Roger, Hayley and Klaus form Langley Falls' first Russian Balalaika trio.",
+        "title_suggest": {
+            "input": [
+                "Crotchwalkers"
+            ]
+        },
+        "title": "Crotchwalkers",
+        "type": "episode",
+        "expiration_date": 1508299199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1291.1232,
+        "episode_number": "4",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1576130400,
+        "modified": 1575883325,
+        "media_id": "32eaefcf4d362663efcbf89e5732c350a7d67fb5",
+        "airing_id": "RADS1012081900044864",
+        "id": "_6oDiwwbSUiwXn4oZ8Y1sw",
+        "slug": "crotchwalkers",
+        "views": 5503,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870786042512.jpg",
+        "created": 1411570043,
+        "season_number": "9",
+        "title_id": "2007874",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575883325,
+        "first_published": 1411570043,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1507694400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg",
+        "cma_id": "1491638"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1576474140,
         "tms_id": "EP007164450192",
         "description": "When Stan wishes he could have Principal Lewis' carefree, single life, his wish comes true! Meanwhile, in his wish world, Principal Lewis has Stan's family.",
@@ -1031,55 +1078,5 @@
         "launch_date": 1507179600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803210225020.jpg",
         "cma_id": "1488455"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1576130340,
-        "tms_id": "EP007164450152",
-        "description": "Francine pressures Steve to win the National Spelling Bee so he can get into a top college.  Stan and Roger try to slam Hayley through the five stages of grief so she will get over Jeff faster.",
-        "title_suggest": {
-            "input": [
-                "Spelling Bee My Baby",
-                "Bee My Baby",
-                "My Baby",
-                "Baby"
-            ]
-        },
-        "expiration_date": 1507780799,
-        "title": "Spelling Bee My Baby",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1291.5236,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "14",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1575525600,
-        "modified": 1575116905,
-        "media_id": "6505049c1f488ff251b1f66987b88e0888516331",
-        "airing_id": "RADS1011271900041833",
-        "id": "oIH1jwTVQ1uROdy8f6mnRg",
-        "slug": "spelling-bee-my-baby",
-        "views": 1630,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803196941912.jpg",
-        "created": 1403556409,
-        "season_number": "8",
-        "title_id": "748213",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1575116905,
-        "first_published": 1482487845,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1507176000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803196941912.jpg",
-        "cma_id": "1489741"
     }
 ]
