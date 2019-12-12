@@ -890,54 +890,6 @@
         "cma_id": "1338735"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1576733340,
-        "tms_id": "EP007164450164",
-        "description": "Steve is eager to prove that he's no longer a little boy, so he sets off to prove his manhood by joining Stan, Bullock, and the rest of the CIA on their annual hunting trip. Meanwhile, Roger and Klaus set off on a cross-country road trip.",
-        "title_suggest": {
-            "input": [
-                "Buck, Wild",
-                "Wild"
-            ]
-        },
-        "title": "Buck, Wild",
-        "type": "episode",
-        "expiration_date": 1508216399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1291.7237,
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1576128600,
-        "modified": 1575870962,
-        "media_id": "37e6f935c909274c8c7529d36edd850a4297e4cb",
-        "airing_id": "RADS1012081900044866",
-        "id": "izJAMWIQQ2KgLwdWzDy-iA",
-        "slug": "buck-wild",
-        "views": 4098,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187078378984.jpg",
-        "created": 1411570020,
-        "season_number": "9",
-        "title_id": "2007876",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1575870962,
-        "first_published": 1411570020,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1507611600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078378984.jpg",
-        "cma_id": "1491052"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1566271740,
@@ -1081,5 +1033,55 @@
         "launch_date": 1507176000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803196941912.jpg",
         "cma_id": "1489741"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1576128540,
+        "tms_id": "EP007164450150",
+        "description": "In Part 2 of \"The Tearjerker Saga,\" a \"James Bond\" parody, Stan and his wife, Sexpun Tocome's honeymoon is brutally interrupted when Black Villain (guest voice Kevin Michael Richardson) fatally shoots Sexpun. Determined to get his revenge, Stan teams up with former nemesis The Tearjerker to track down Black Villain and put a stop to his evil plan to melt the arctic glaciers.",
+        "title_suggest": {
+            "input": [
+                "For Black Eyes Only",
+                "Black Eyes Only",
+                "Eyes Only",
+                "Only"
+            ]
+        },
+        "expiration_date": 1507697999,
+        "title": "For Black Eyes Only",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1291.29,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "13",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575523800,
+        "modified": 1575124462,
+        "media_id": "38f426195ad66ed539278b23a9a944e8e371e9be",
+        "airing_id": "RADS1011271900041830",
+        "id": "qNjpZB07RI6E5S-kHSsyEw",
+        "slug": "for-black-eyes-only",
+        "views": 2410,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803206290212.jpg",
+        "created": 1403556388,
+        "season_number": "8",
+        "title_id": "748222",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575124462,
+        "first_published": 1449033620,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1507093200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803206290212.jpg",
+        "cma_id": "1486411"
     }
 ]
