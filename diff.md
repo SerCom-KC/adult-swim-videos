@@ -2,25 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 12, 2019 at 21:30:38 EST_
+_Last Update: December 13, 2019 at 00:00:41 EST_
 ## Video added
 ### Summary
-2196566 Momma Named Me Sheriff: 2  
-### 2196574
-**Momma Named Me Sheriff S01E08 - Chili Snakes**  
-TV-MA 🔓 10:56  
-⌛ January 6, 2020 at 03:14:00 EST  
-https://www.adultswim.com/videos/momma-named-me-sheriff/chili-snakes  
-seriesid=`2196566` titleid=`2196574` id=`AW5qsjBR1YiBSfg0KYfN` mediaid=`e5d405a0f967c69d4940ca10d9ee1245cc53037d`  
-_Previously, on Momma Named Me Sheriff..._  
-<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg" height="144px" /></a>
-### 2196575
-**Momma Named Me Sheriff S01E09 - Finale**  
-TV-MA-SV 🔓 11:18  
-⌛ January 6, 2020 at 03:29:00 EST  
-https://www.adultswim.com/videos/momma-named-me-sheriff/finale  
-seriesid=`2196566` titleid=`2196575` id=`AW5qspA4adNs2hMNfugH` mediaid=`eb87a77f7d734f2d313f3ea19b8eabce2fbb05df`  
-_When the President of the United States comes to Old Town for a sleep over at Sheriff's, Sheriff turns into a dinosaur and eats a bunch of children. Just kidding, that doesn't happen, but some other stuff does. Just watch it._  
-<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141115131-MommaNamedMeSheriff_109_dup-20190507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141115131-MommaNamedMeSheriff_109_dup-20190507.jpg" height="144px" /></a>
+2094567 Dream Corp LLC: 1  
+### 2133687
+**Dream Corp LLC S02E03 - Accordian Jim**  
+TV-14-LV 🔒 11:17  
+⌛ January 16, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/dream-corp-llc/accordian-jim  
+seriesid=`2094567` titleid=`2133687` id=`AWDc15lOZ-onAnjDLt68` mediaid=`02f8c850a251ac4bbe45d3ac0aa74382788482a8`  
+_Patient 13 returns for Dream Therapy. After cancelling her last four appointments, Dr Roberts cautiously agrees to treat her. 88 survives a dog attack._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041275899616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041275899616.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2094567 DREAM CORP LLC: 1  
+### 2133696
+**DREAM CORP LLC S02E12 - Can't Touch This**  
+TV-14-DLV 🔒 11:17  
+⌛ December 12, 2019 at 23:59:00 EST  
+https://www.adultswim.com/videos/dream-corp-llc/cant-touch-this  
+seriesid=`2094567` titleid=`2133696` id=`AWWGr788h5enQuYyHyOP` mediaid=`1088c25ca93b497af265097216b760a9a5e1db29`  
+_Skin to skin contact feels like fire to Patient 66. With a history of minimal human touch or relationships, Dr Roberts prescribes her a Dream Date._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15428372548979.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15428372548979.jpg" height="144px" /></a>
