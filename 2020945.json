@@ -513,7 +513,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1582261140,
         "tms_id": "EP019059960068",
         "description": "On the run and running out of time, the Scouts must entrust their lives to others if they plan on surviving.",
@@ -697,7 +697,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15390113499192.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1576213140,
         "tms_id": "EP019059960070",
@@ -1680,7 +1680,7 @@
         "cma_id": "2117209"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1582261140,
         "tms_id": "EP019059960060",
@@ -1781,7 +1781,7 @@
         "cma_id": "1393967"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1576213140,
         "tms_id": "EP019059960039",
@@ -2151,7 +2151,7 @@
         "cma_id": "2117212"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1588305540,
         "tms_id": "EP019059960005",
@@ -2208,7 +2208,7 @@
         "cma_id": "1356922"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1576213140,
         "tms_id": "EP019059960062",

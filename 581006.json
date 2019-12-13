@@ -1,55 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1576213140,
-        "tms_id": "EP007164450234",
-        "description": "Francine becomes less attracted to Stan when he gets involved with slot car racing. Roger becomes a stewardess to perform comedy routines on the plane but is upset when another stewardess is funnier than him.",
-        "title_suggest": {
-            "input": [
-                "Whole Slotta Love",
-                "Slotta Love",
-                "Love"
-            ]
-        },
-        "title": "Whole Slotta Love",
-        "type": "episode",
-        "expiration_date": 1566791940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274,
-        "episode_number": "8",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1575608400,
-        "modified": 1575207865,
-        "media_id": "e745900a93d0c34d4f6469acf1031491ab764998",
-        "airing_id": "RADS1011271900041845",
-        "id": "5SnUDAJQT2G2Eit6_-l_HQ",
-        "slug": "whole-slotta-love",
-        "views": 1068,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151751862587510.jpg",
-        "created": 1492315823,
-        "title_id": "2069540",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1575207865,
-        "first_published": 1492315823,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1566187200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg",
-        "cma_id": "1381813"
-    },
-    {
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1576562340,
@@ -282,6 +232,55 @@
         "launch_date": 1557154800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg",
         "cma_id": "1347008"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1576817940,
+        "tms_id": "EP007164450240",
+        "description": "Roger runs off in disguise as a Julia Roberts character to a small town after Stan hurts his feelings. Steve plans a meeting when he finds out that Jeff and Barry have never met.",
+        "title_suggest": {
+            "input": [
+                "Julia Rogerts",
+                "Rogerts"
+            ]
+        },
+        "title": "Julia Rogerts",
+        "type": "episode",
+        "expiration_date": 1554735540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.97,
+        "episode_number": "14",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1576213200,
+        "modified": 1575874567,
+        "media_id": "dc755a68ae1822c19929072d1d89cbd4a0b4fda1",
+        "airing_id": "RADS1012081900044874",
+        "id": "Mtpd7rRDTN2tl4NtdbAaSw",
+        "slug": "julia-rogerts",
+        "views": 1533,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175188327576.jpg",
+        "created": 1497759043,
+        "title_id": "2069545",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1575874567,
+        "first_published": 1497759043,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554130800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg",
+        "cma_id": "1419613"
     },
     {
         "auth": true,
@@ -1031,7 +1030,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1576214940,
         "tms_id": "EP007164450153",
