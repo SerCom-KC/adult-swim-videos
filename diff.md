@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 13, 2019 at 01:00:46 EST_
+_Last Update: December 13, 2019 at 01:30:37 EST_
 ## Video added
 ### Summary
 581006 American Dad: 1  
-### 2007875
-**American Dad S09E06 - Independent Movie**  
-TV-14 🔒 21:28  
-⌛ December 20, 2019 at 00:29:00 EST  
-https://www.adultswim.com/videos/american-dad/independent-movie  
-seriesid=`581006` titleid=`2007875` id=`buqUCWG2T2eDk9HkT-DMtA` mediaid=`efd81d52d37ec3a7bf41c6c94ebdaf3c9d3d4924`  
-_Snot's father dies but Snot refuses to go to the funeral.  Steve convinces Snot to take a road trip across the country to attend.  Along the way the boys experience life as an independent movie, complete with strange characters and moments of raw emotion._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg" height="144px" /></a>
+### 2007879
+**American Dad S09E07 - Faking Bad**  
+TV-14 🔒 21:31  
+⌛ December 20, 2019 at 00:59:00 EST  
+https://www.adultswim.com/videos/american-dad/faking-bad  
+seriesid=`581006` titleid=`2007879` id=`faIr12CSQ-GFMxkjMoX9hg` mediaid=`1262714f3a43bc9e9c62fcf1ac907f8f93d6b687`  
+_When Hayley tries to go clubbing with her old friends she is turned away at the door because she doesn't have proper ID.  Hayley convinces Steve to make a fake ID for her.  The fake ID is so good that Hayley and Steve go into business together as counterfeiters._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 581006 American Dad: 1  
-### 748216
-**American Dad S08E15 - The Missing Kink**  
+### 748214
+**American Dad S08E16 - The Boring Identity**  
 TV-14 🔓 21:31  
-⌛ December 13, 2019 at 00:29:00 EST  
-https://www.adultswim.com/videos/american-dad/the-missing-kink  
-seriesid=`581006` titleid=`748216` id=`nmy7UZoeT8uHdtPWAchqLQ` mediaid=`480017ef15c2fab179f4ef1c9dfe4583d78b0532`  
-_Francine discovers she has a spanking fetish; Hayley goes out on a date with Snot._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803210225020.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803210225020.jpg" height="144px" /></a>
+⌛ December 13, 2019 at 00:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-boring-identity  
+seriesid=`581006` titleid=`748214` id=`XnaRNcwGSVatNqjZuzzDDQ` mediaid=`77698cecba87b21253d4efaba292a828bd9254bd`  
+_When Stan loses his memory, Francine attempts to transform him into the perfect husband; Roger joins Steve's newspaper route._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803208209919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803208209919.jpg" height="144px" /></a>
