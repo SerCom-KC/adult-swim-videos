@@ -888,6 +888,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1576819740,
+        "tms_id": "EP007164450167",
+        "description": "Snot's father dies but Snot refuses to go to the funeral.  Steve convinces Snot to take a road trip across the country to attend.  Along the way the boys experience life as an independent movie, complete with strange characters and moments of raw emotion.",
+        "title_suggest": {
+            "input": [
+                "Independent Movie",
+                "Movie"
+            ]
+        },
+        "title": "Independent Movie",
+        "type": "episode",
+        "expiration_date": 1508302799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1288.8876,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1576215000,
+        "modified": 1575857283,
+        "media_id": "efd81d52d37ec3a7bf41c6c94ebdaf3c9d3d4924",
+        "airing_id": "RADS1012081900044887",
+        "id": "buqUCWG2T2eDk9HkT-DMtA",
+        "slug": "independent-movie",
+        "views": 3491,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187078827647.jpg",
+        "created": 1411570125,
+        "season_number": "9",
+        "title_id": "2007875",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1575857283,
+        "first_published": 1411570125,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1507698000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg",
+        "cma_id": "1491544"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1576472340,
         "tms_id": "EP007164450228",
         "description": "Stan is embarrassed when a painting of Francine's genitals, done by a famous artist, is unveiled at the museum. Steve turns to helping people after masturbation is ruined by his mom's portrait.",
@@ -1028,54 +1076,5 @@
         "launch_date": 1575867600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1576214940,
-        "tms_id": "EP007164450153",
-        "description": "Francine discovers she has a spanking fetish; Hayley goes out on a date with Snot.",
-        "title_suggest": {
-            "input": [
-                "The Missing Kink",
-                "Missing Kink",
-                "Kink"
-            ]
-        },
-        "expiration_date": 1507784399,
-        "title": "The Missing Kink",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1291.1231,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "15",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1575610200,
-        "modified": 1575209168,
-        "media_id": "480017ef15c2fab179f4ef1c9dfe4583d78b0532",
-        "airing_id": "RADS1011271900041855",
-        "id": "nmy7UZoeT8uHdtPWAchqLQ",
-        "slug": "the-missing-kink",
-        "views": 4224,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803210225020.jpg",
-        "created": 1403556422,
-        "season_number": "8",
-        "title_id": "748216",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1575209168,
-        "first_published": 1427257223,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1507179600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803210225020.jpg",
-        "cma_id": "1488455"
     }
 ]
