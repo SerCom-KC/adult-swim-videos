@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 14, 2019 at 02:30:41 EST_
+_Last Update: December 14, 2019 at 05:00:46 EST_
 ## Video added
 ### Summary
-440990 Family Guy: 1  
-### 809250
-**Family Guy S11E09 - Space Cadet**  
-TV-14 🔒 21:22  
-⌛ December 21, 2019 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/space-cadet  
-seriesid=`440990` titleid=`809250` id=`3IklgIddRTu9eMqESz0OuA` mediaid=`570a0914eeb91fc290fcaaa153502f6c8c0f67fc`  
-_After Chris enrolls in a NASA space camp, Stewie accidentally launches the Griffins into outer space._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216396166019.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216396166019.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2065459
+**Bob's Burgers S05E09 - Speakeasy Rider**  
+TV-PG-DL 🔒 21:43  
+⌛ December 21, 2019 at 04:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/speakeasy-rider  
+seriesid=`2003422` titleid=`2065459` id=`2ELQFzQvTKi81yGcQi3Y2Q` mediaid=`423be7451bb1a0465322abfb840143ca6a6b1172`  
+_Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, back at the restaurant, Bob and Teddy partner up to serve Teddy's home-brewed beer._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-440990 Family Guy: 1  
-### 865343
-**Family Guy S10E22 - Family Guy Viewer Mail #2**  
-TV-14 🔒 21:29  
-⌛ December 14, 2019 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/family-guy-viewer-mail-2  
-seriesid=`440990` titleid=`865343` id=`_vyxh6lYRLq6qe5S8M5QXA` mediaid=`4b7cb23852fff307808470a3eafe89b952ee0942`  
-_Three skits: the British program that Family Guy is based on, everybody Peter touches turns into Robin Williams, and a look at the day through Stewie's eyes._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216277663616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216277663616.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2030318
+**Bob's Burgers S04E17 - Equestranauts**  
+ 🔒 21:31  
+⌛ December 14, 2019 at 04:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/equestranauts  
+seriesid=`2003422` titleid=`2030318` id=`hPy1osc9S_W4WkpbPKsFNg` mediaid=`8ed6ad78cda195fae6b0cd973c5b071f421a4815`  
+_In homage to the “Bronies” subculture, Tina attends her first Equestra-Con, a convention based on her favorite animated pony show, “The Equestranauts.” To her surprise, she finds that the show’s fans are middle-aged men (called “Equesticles”). When a powerful super-fan tricks Tina out of her rare toy pony, it’s up to Bob to go undercover to get it back._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg" height="144px" /></a>
