@@ -398,7 +398,7 @@
         "launch_date": 1575190800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191105/thumbnails/2_19115125681-FireForce_015.jpg",
         "id": "AW4Y_sFwadNs2hMNfuYL",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -499,6 +499,55 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191120/thumbnails/2_1911201522557-FireForce_017.jpg",
         "id": "AW5cKKJoadNs2hMNfudu",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578214740,
+        "tms_id": "EP032684490019",
+        "description": "Licht's analysis of the attack on Vulcan's workshop reveals that the Evangelist's men have been in the \"Nether,\" the area beneath Tokyo. Company 8 proceeds underground in search of the White-Clad and the secrets behind human combustion.",
+        "title_suggest": {
+            "input": [
+                "Into the Nether",
+                "the Nether",
+                "Nether"
+            ]
+        },
+        "title": "Into the Nether",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWwbkOBM4aLemgzOLF3t",
+        "duration": 0,
+        "episode_number": "19",
+        "original_air_date": null,
+        "auth_launch_date": 1576400400,
+        "clip_order": null,
+        "media_id": "73e9432b23990d2c95a4727420f057085634ce0e",
+        "modified": 1576110724,
+        "airing_id": "RADS1012111900046134",
+        "slug": "into-the-nether",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191211/thumbnails/1_191211116528-FireForce_019.jpg",
+        "created": 1576080417,
+        "season_number": "1",
+        "title_id": "2203575",
+        "tv_rating": "tv-ma-s",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576110724,
+        "tags": [],
+        "collection_title": "Fire Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191211/thumbnails/2_191211116528-FireForce_019.jpg",
+        "id": "AW71tqOE3HMJfT8do6UQ",
+        "auth": true
     },
     {
         "ott_launch_date": null,
