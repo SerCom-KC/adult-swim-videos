@@ -546,7 +546,7 @@
         "launch_date": 1575189000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291527314-DrStone_112.jpg",
         "id": "AW4Y_S17adNs2hMNfuYK",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -595,6 +595,57 @@
         "launch_date": 1576398600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191113/thumbnails/2_1911131556485-DrStone_114.jpg",
         "id": "AW5cJdSGadNs2hMNfudt",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578212940,
+        "tms_id": "EP032785490016",
+        "description": "Ruri reveals the origin of the village's name and Senku learns of his father's fate!",
+        "title_suggest": {
+            "input": [
+                "A Tale for the Ages",
+                "Tale for the Ages",
+                "for the Ages",
+                "the Ages",
+                "Ages"
+            ]
+        },
+        "title": "A Tale for the Ages",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1346.4118,
+        "episode_number": "16",
+        "original_air_date": null,
+        "auth_launch_date": 1576398600,
+        "clip_order": null,
+        "media_id": "56b75515f81362faf28bb937a1d5e657011853c9",
+        "modified": 1576104485,
+        "airing_id": "RADS1012111900046121",
+        "slug": "a-tale-for-the-ages",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191211/thumbnails/1_191211115509-DrStone_016.jpg",
+        "created": 1576080376,
+        "season_number": "1",
+        "title_id": "2207401",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576104485,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191211/thumbnails/2_191211115509-DrStone_016.jpg",
+        "id": "AW71tgF13HMJfT8do6UP",
         "auth": true
     },
     {
