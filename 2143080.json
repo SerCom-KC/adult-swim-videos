@@ -510,7 +510,7 @@
         "launch_date": 1575196200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117213-BlackClover_094.jpg",
         "id": "AW4S8Xa1adNs2hMNfuXp",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -612,6 +612,38 @@
         "launch_date": 1576405800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117576-BlackClover_096.jpg",
         "id": "AW4S8g2e1YiBSfg0KYDv",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1578220140,
+        "created": 1576096325,
+        "tms_id": "EP032284200098",
+        "title_id": "2205124",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "description": "The vice-captain of the Crimson Lion Kings, now a reincarnated elf, turns on his squad mates with powerful Air Magic. A mighty beast awakens at last.",
+        "title_suggest": {
+            "input": [
+                "The Sleeping Lion",
+                "Sleeping Lion",
+                "Lion"
+            ]
+        },
+        "published": 1576274790,
+        "title": "The Sleeping Lion",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 0,
+        "episode_number": "47",
+        "collection_title": "Black Clover",
+        "auth_launch_date": 1576405800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1012111900046137",
+        "media_id": "b15fe11ced26343cff0c7f74a10d0f1588a84ce0",
+        "modified": 1576274790,
+        "slug": "the-sleeping-lion",
+        "id": "AW72qV9_GRcVO2K2pl73",
         "auth": true
     },
     {
