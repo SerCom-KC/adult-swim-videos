@@ -49,7 +49,7 @@
         "launch_date": 1575185400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191106/thumbnails/2_191161122150-myheroacademia_064.jpg",
         "id": "AW4Y9InbadNs2hMNfuYJ",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -144,7 +144,7 @@
         "launch_date": 1576395000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191120/thumbnails/2_191120151010-myheroacademia_066.jpg",
         "id": "AW6Kb7_S1YiBSfg0KYuB",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -243,6 +243,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231033526-myheroacademia_068.jpg",
         "id": "AW6PW9PsadNs2hMNfum_",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578209340,
+        "tms_id": "EP024348490072",
+        "description": "The work study students from U.A. attend a meeting of heroes gathered by Sir Nighteye and leave with new resolve.",
+        "title_suggest": {
+            "input": [
+                "An Unpleasant Talk",
+                "Unpleasant Talk",
+                "Talk"
+            ]
+        },
+        "title": "An Unpleasant Talk",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 0,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1576395000,
+        "clip_order": null,
+        "media_id": "77a1c0e5bd80c04625dcb9e991840ed87c7d082b",
+        "modified": 1576274406,
+        "airing_id": "RADS1012131900046763",
+        "slug": "an-unpleasant-talk",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1576102596,
+        "season_number": "4",
+        "title_id": "2214110",
+        "tv_rating": "tv-pg-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576274406,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "",
+        "id": "AW73CQ5gGRcVO2K2pl75",
         "auth": true
     }
 ]
