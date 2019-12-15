@@ -1,11 +1,10 @@
 {
-    "updated": 1576437924,
-    "added": [],
-    "removed": [
+    "updated": 1576439908,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": null,
-            "auth_expiration_date": 1573660740,
+            "auth_expiration_date": 1583643540,
             "tms_id": "EP027028650004",
             "description": "Jigen finds himself in a town where a dangerous boss, Eric, punishes anyone holding a firearm by wounding them so severely that they'll die an agonizing death.",
             "title_suggest": {
@@ -30,10 +29,10 @@
             "episode_number": "4",
             "original_air_date": null,
             "clip_order": null,
-            "auth_launch_date": 1560956400,
-            "modified": 1573286060,
+            "auth_launch_date": 1576731600,
+            "modified": 1576439844,
             "media_id": "e1dac11dee0875bdc804fa4369a3668d3bc4cdc4",
-            "airing_id": "RADS1011081900036071",
+            "airing_id": "RADS1012151900046994",
             "id": "OKoytG4kT-CAzPS5r5BbNQ",
             "slug": "with-a-gun-in-my-hand",
             "views": 1378,
@@ -46,7 +45,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1573286060,
+            "published": 1576439844,
             "first_published": 1499850675,
             "tags": [],
             "collection_title": "Lupin the 3rd Part 4",
@@ -58,5 +57,6 @@
             "collection_title_id": "2128589",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
