@@ -297,55 +297,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1576564140,
-        "tms_id": "EP012792980141",
-        "description": "Linda is determined to host a party at the restaurant in order to spread a little cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she begins questioning all the guests.",
-        "title_suggest": {
-            "input": [
-                "The Bleakening Part 1",
-                "Bleakening Part 1",
-                "Part 1",
-                "1"
-            ]
-        },
-        "title": "The Bleakening Part 1",
-        "type": "episode",
-        "expiration_date": 1574657940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1301.97,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1575959400,
-        "clip_order": null,
-        "airing_id": "RADS1012051900043595",
-        "media_id": "9fa33279ac79cbb83f2cd4a35ca83a04cc69d149",
-        "modified": 1575578890,
-        "slug": "the-bleakening-part-1",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15444603910052.jpg",
-        "created": 1543859362,
-        "title_id": "2171437",
-        "season_number": "8",
-        "tv_rating": "tv-pg-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1575578890,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574053200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444603910052.jpg",
-        "id": "AWd1MFj-qD68dq0Op5rc",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1576565940,
         "tms_id": "EP012792980142",
         "description": "After Linda's prized ornaments go missing during a holiday party at the restaurant, Linda suspects one of the attendees as the thief. However, the kids have their own theory: attributing the robbery to the anti-Santa - \"The Bleaken.\"",
@@ -640,5 +591,55 @@
         "launch_date": 1554735600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/nice-capades/bobsburgers_518_air_cid-2X5HJ.jpg",
         "cma_id": "1432573"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577168940,
+        "tms_id": "EP012792980082",
+        "description": "Linda's sister, Gayle, arrives at the restaurant in tears because her date cancelled on her and she had tickets to Yarnival. Desperate to get out of the house after being grounded, the kids compete to be Aunt Gayle's date via an essay contest.",
+        "title_suggest": {
+            "input": [
+                "The Gayle Tales",
+                "Gayle Tales",
+                "Tales"
+            ]
+        },
+        "expiration_date": 1560139140,
+        "title": "The Gayle Tales",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1298.2335669,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "13",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1576564200,
+        "modified": 1576276207,
+        "media_id": "d331c693a7224bdab96e555da2374d01992c1507",
+        "airing_id": "RADS1012131900046778",
+        "id": "zrdbrKwgT8i9Ac0WkNpSWw",
+        "slug": "the-gayle-tales",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1446214524,
+        "season_number": "5",
+        "title_id": "2065462",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1576276207,
+        "first_published": 1448252443,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1559534400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-gayle-tales/bobsburgers_501_air_cid-2N2CW.jpg",
+        "cma_id": "1475402"
     }
 ]
