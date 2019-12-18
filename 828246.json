@@ -99,6 +99,53 @@
         "cma_id": "1440147"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1446738540,
+        "auth_expiration_date": 1579669140,
+        "tms_id": "EP013120360018",
+        "rating": 6.1292515,
+        "description": "When a killer releases a hit list that includes some of the biggest stars in showbiz, Chris, Brett and Susie must head to Tinselwood to stop him. ",
+        "title_suggest": {
+            "input": [
+                "Tinselwood"
+            ]
+        },
+        "type": "episode",
+        "title": "Tinselwood",
+        "expiration_date": 1571284740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 673.9676343,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1576645200,
+        "modified": 1576277898,
+        "media_id": "1fe67ee825f07cec6828a772e9c545ca3ba60ede",
+        "airing_id": "RADS1012131900046788",
+        "id": "D-nmL3CERuiEAzdeuJV5fw",
+        "slug": "tinselwood",
+        "views": 48653,
+        "created": 1402945464,
+        "title_id": "892254",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1576277898,
+        "tags": [],
+        "rating_count": 147,
+        "collection_title": "Eagleheart",
+        "modified_by": "ODT Listener",
+        "launch_date": 1568260800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_203_pt2-02.jpg",
+        "cma_id": "1389768"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1446738900,
         "auth_expiration_date": 1565150340,
@@ -144,56 +191,6 @@
         "launch_date": 1573707600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_027_pt1_K4stE-07.jpg",
         "cma_id": "1426796"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446738300,
-        "auth_expiration_date": 1576645140,
-        "tms_id": "EP013120360013",
-        "rating": 7.3391304,
-        "description": "Marshal Chris Monsanto's past comes back to haunt him - or does it?",
-        "title_suggest": {
-            "input": [
-                "Gabey, Calvin and Stu",
-                "Calvin and Stu",
-                "and Stu",
-                "Stu"
-            ]
-        },
-        "type": "episode",
-        "title": "Gabey, Calvin and Stu",
-        "expiration_date": 1568260740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 676.7506255,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573621200,
-        "modified": 1573257970,
-        "media_id": "3a3147c0393ca4c37413c7cb7a6cb5c34ffa4ade",
-        "airing_id": "RADS1011081900036037",
-        "id": "c2fPp-dVRX6r8eEyqfccew",
-        "slug": "gabey-calvin-and-stu",
-        "views": 17925,
-        "created": 1402945464,
-        "title_id": "892249",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1573257970,
-        "tags": [],
-        "rating_count": 115,
-        "collection_title": "Eagleheart",
-        "modified_by": "ODT Listener",
-        "launch_date": 1565236800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_201_pt2-01.jpg",
-        "cma_id": "1368958"
     },
     {
         "auth": true,

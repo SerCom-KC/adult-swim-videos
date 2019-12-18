@@ -756,6 +756,57 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": 1452269460,
+        "auth_expiration_date": 1579669140,
+        "tms_id": "EP015632430010",
+        "rating": 7.1425533,
+        "description": "Eric interviews Ryan Phillippe and Will.I.Am.",
+        "title_suggest": {
+            "input": [
+                "Ryan Phillippe",
+                "Phillippe"
+            ]
+        },
+        "type": "episode",
+        "title": "Ryan Phillippe",
+        "expiration_date": 1574312340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 645,
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1576645200,
+        "modified": 1576279924,
+        "media_id": "b72b924cfc9e0b494d0be3142642e9e43dd69863",
+        "airing_id": "RADS1012131900046798",
+        "id": "NCwFJ90nRnii3scojPsXQA",
+        "slug": "ryan-phillippe",
+        "views": 98420,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945479,
+        "title_id": "895958",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1576279924,
+        "tags": [],
+        "rating_count": 940,
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1571284800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_110_pt1-03.jpg",
+        "cma_id": "1084943"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Kids, take the Instagram challenge.",
@@ -817,53 +868,6 @@
         "launch_date": 1486994400,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-lindsey-pelas/ericandre_HGOI_101_LindseyPelas.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446739980,
-        "auth_expiration_date": 1576645140,
-        "tms_id": "EP015632430004",
-        "rating": 7.450425,
-        "description": "Eric interviews Reese Witherspoon and Dr. Ordin.",
-        "title_suggest": {
-            "input": [
-                "Maxi"
-            ]
-        },
-        "type": "episode",
-        "title": "Maxi",
-        "expiration_date": 1571284740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 669,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573621200,
-        "modified": 1573259527,
-        "media_id": "06d2ec57cf77898627b3c5329576c82a0909312e",
-        "airing_id": "RADS1011081900036033",
-        "id": "Rtf_nqs_R3ucjjZsuwDV3g",
-        "slug": "maxi",
-        "views": 106480,
-        "created": 1402945479,
-        "title_id": "895953",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1573259527,
-        "tags": [],
-        "rating_count": 706,
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1568260800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_105_pt2-02.jpg",
-        "cma_id": "1423374"
     },
     {
         "auth": true,
