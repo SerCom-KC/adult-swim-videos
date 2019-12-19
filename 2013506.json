@@ -1,8 +1,8 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505140260,
-        "auth_expiration_date": 1576126740,
+        "auth_expiration_date": 1577336340,
         "tms_id": "EP018336730029",
         "description": "Atlantis here we come broh! A nice self contained episode about Atlantis!",
         "title_suggest": {
@@ -25,10 +25,10 @@
         "episode_number": "7",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1575522000,
-        "modified": 1575880804,
+        "auth_launch_date": 1576731600,
+        "modified": 1576503967,
         "media_id": "42175deabefdce25823a3b49ca69dd321c30c62b",
-        "airing_id": "RADS1011271900041813",
+        "airing_id": "RADS1012081900044842",
         "id": "-TuNRn5JSYm4T361r_KzAg",
         "slug": "the-ricklantis-mixup",
         "views": 1,
@@ -41,7 +41,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575880804,
+        "published": 1576503967,
         "first_published": 1504879819,
         "tags": [],
         "collection_title": "Rick and Morty",
@@ -172,7 +172,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1500906660,
         "auth_expiration_date": 1576731540,
         "tms_id": "EP018336730022",
@@ -184,7 +184,7 @@
                 "Rickdemption"
             ]
         },
-        "expiration_date": 1576126740,
+        "expiration_date": 1577336340,
         "title": "The Rickshank Rickdemption",
         "type": "episode",
         "platforms": [
@@ -198,9 +198,9 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1576126800,
-        "modified": 1575875405,
+        "modified": 1576444209,
         "media_id": "54d52374765c915b74439200af5b47addfc1779d",
-        "airing_id": "RADS1011271900041812",
+        "airing_id": "RADS1012081900044848",
         "id": "20Lrd8P6SFCTzSU73lLViQ",
         "slug": "the-rickshank-rickdemption",
         "views": 223385,
@@ -213,13 +213,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575875405,
+        "published": 1576444209,
         "first_published": 1500664220,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1575522000,
+        "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-rickshank-rickdemption/rickandmorty_301_Long_dup-20170515_1.jpg",
         "cma_id": "1438509"
     },
@@ -1373,7 +1373,7 @@
         "launch_date": 1576470600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191118/thumbnails/2_1911181156166-rickandmorty_403_dup-20191115.jpg",
         "id": "AW5cYPxFadNs2hMNfudz",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1894,6 +1894,54 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191206/thumbnails/2_19126135145-promo_RAM_Top405_Sun_30.jpg",
         "id": "AW7cY39MadNs2hMNfutn",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578284940,
+        "tms_id": "EP018336730037",
+        "description": "Lots of things in space broh. Snakes and sharp stuff. Watch this broh.",
+        "title_suggest": {
+            "input": [
+                "Rattlestar Ricklactica",
+                "Ricklactica"
+            ]
+        },
+        "title": "Rattlestar Ricklactica",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 0,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1576470600,
+        "clip_order": null,
+        "media_id": "bd8e887924b70af7343008ccbf546a9d447ec2ca",
+        "modified": 1576681100,
+        "airing_id": "RADS1012151900046990",
+        "slug": "rattlestar-ricklactica",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210144253-rickandmorty_405_dup-20191205.jpg",
+        "created": 1576006929,
+        "season_number": "4",
+        "title_id": "2206490",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576681100,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210144253-rickandmorty_405_dup-20191205.jpg",
+        "id": "AW7xVU2HadNs2hMNfuwC",
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -5153,7 +5201,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1501511460,
         "auth_expiration_date": 1576731540,
         "tms_id": "EP018336730023",
@@ -5167,7 +5215,7 @@
         },
         "title": "Rickmancing the Stone",
         "type": "episode",
-        "expiration_date": 1576126740,
+        "expiration_date": 1577336340,
         "platforms": [
             "web",
             "mobile",
@@ -5179,9 +5227,9 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1576126800,
-        "modified": 1575878164,
+        "modified": 1576482800,
         "media_id": "5bbeafbbb7d184c03b050cbc50c4bf596a9b77e7",
-        "airing_id": "RADS1011271900041816",
+        "airing_id": "RADS1012151900047010",
         "id": "RdMwwYNLTyiP0-bZI_XlVQ",
         "slug": "rickmancing-the-stone",
         "views": 3,
@@ -5194,13 +5242,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575878164,
+        "published": 1576482800,
         "first_published": 1501189156,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1575522000,
+        "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/rickmancing-the-stone/rickandmorty_302_dup-20170501.jpg",
         "cma_id": "1442691"
     },
@@ -5558,9 +5606,9 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506954660,
-        "auth_expiration_date": 1576126740,
+        "auth_expiration_date": 1577336340,
         "tms_id": "EP018336730032",
         "description": "Rick goes toe to toe with the President in this one broh.",
         "title_suggest": {
@@ -5583,10 +5631,10 @@
         "episode_number": "10",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1575522000,
-        "modified": 1575880687,
+        "auth_launch_date": 1576731600,
+        "modified": 1576509263,
         "media_id": "00769e8872a88cfb772f34e4eaa556422835de89",
-        "airing_id": "RADS1012081900044844",
+        "airing_id": "RADS1012151900047018",
         "id": "ULSn-UIRQ7yqEUzhXUe7Fg",
         "slug": "the-rickchurian-mortydate",
         "views": 6,
@@ -5599,7 +5647,7 @@
         "ott_expiration_date": null,
         "active": false,
         "blacklist": [],
-        "published": 1575880687,
+        "published": 1576509263,
         "first_published": 1506759044,
         "tags": [],
         "collection_title": "Rick and Morty",
@@ -5954,7 +6002,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1502721060,
         "auth_expiration_date": 1576731540,
         "tms_id": "EP018336730025",
@@ -5968,7 +6016,7 @@
         },
         "title": "Vindicators 3:  The Return of Worldender",
         "type": "episode",
-        "expiration_date": 1576126740,
+        "expiration_date": 1577336340,
         "platforms": [
             "web",
             "mobile",
@@ -5980,9 +6028,9 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1576126800,
-        "modified": 1575882609,
+        "modified": 1576504465,
         "media_id": "64c3a13d63d930984f6c7c8ae9601e3b5d01b8bc",
-        "airing_id": "RADS1011271900041824",
+        "airing_id": "RADS1012151900047009",
         "id": "a5BtHfcDQEeYpQ1puXPvTA",
         "slug": "vindicators-3-the-return-of-worldender",
         "views": 153468,
@@ -5995,7 +6043,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575882609,
+        "published": 1576504465,
         "first_published": 1502677884,
         "tags": [
             "rick",
@@ -6005,7 +6053,7 @@
         "collection_title": "Rick and Morty",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1575522000,
+        "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/vindicators-3-the-return-of-worldender/rickandmorty_304_dup-20170719.jpg",
         "cma_id": "1451601"
     },
@@ -6324,7 +6372,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1502116260,
         "auth_expiration_date": 1576731540,
         "tms_id": "EP018336730024",
@@ -6335,7 +6383,7 @@
                 "Rick"
             ]
         },
-        "expiration_date": 1576126740,
+        "expiration_date": 1577336340,
         "title": "Pickle Rick",
         "type": "episode",
         "platforms": [
@@ -6349,9 +6397,9 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1576126800,
-        "modified": 1575882609,
+        "modified": 1576448767,
         "media_id": "d2ce08adae61e5e5cd3891b4e9e6edfce4974cc0",
-        "airing_id": "RADS1011271900041814",
+        "airing_id": "RADS1012151900047014",
         "id": "gXnwzP6uQpWoyhmTp-iYjA",
         "slug": "pickle-rick",
         "views": 1,
@@ -6364,7 +6412,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575882609,
+        "published": 1576448767,
         "first_published": 1501755020,
         "tags": [
             "rick",
@@ -6374,7 +6422,7 @@
         "collection_title": "Rick and Morty",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1575522000,
+        "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/pickle-rick/rickandmorty_303_dup-20170706.jpg",
         "cma_id": "1446460"
     },
@@ -6753,7 +6801,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1503325860,
         "auth_expiration_date": 1576731540,
         "tms_id": "EP018336730026",
@@ -6766,7 +6814,7 @@
                 "Conspiracy"
             ]
         },
-        "expiration_date": 1576126740,
+        "expiration_date": 1577336340,
         "title": "The Whirly Dirly Conspiracy",
         "type": "episode",
         "platforms": [
@@ -6780,9 +6828,9 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1576126800,
-        "modified": 1575852246,
+        "modified": 1576482800,
         "media_id": "e0c17777d10f422ff8b35ec020d1694a4ab6ab53",
-        "airing_id": "RADS1012081900044846",
+        "airing_id": "RADS1012151900047016",
         "id": "j6L5crY-RaOMjyWDg_UwEA",
         "slug": "the-whirly-dirly-conspiracy",
         "views": 2,
@@ -6795,7 +6843,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575852246,
+        "published": 1576482800,
         "first_published": 1502986222,
         "tags": [
             "rick",
@@ -6805,7 +6853,7 @@
         "collection_title": "Rick and Morty",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1575522000,
+        "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-whirly-dirly-conspiracy/rickandmorty_305_dup_20170811.jpg",
         "cma_id": "1456738"
     },
@@ -6870,9 +6918,9 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1503930660,
-        "auth_expiration_date": 1576126740,
+        "auth_expiration_date": 1577336340,
         "tms_id": "EP018336730027",
         "description": "Rick and Morty need a break in this one broh. Times getting tough.",
         "title_suggest": {
@@ -6895,10 +6943,10 @@
         "episode_number": "6",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1575522000,
-        "modified": 1575878047,
+        "auth_launch_date": 1576731600,
+        "modified": 1576484043,
         "media_id": "d5fd883474a2ca704527e7ecee582c57550aca1a",
-        "airing_id": "RADS1012081900044829",
+        "airing_id": "RADS1012151900047012",
         "id": "l0mb1VFWQZyKBTFeHSWp0A",
         "slug": "rest-and-ricklaxation",
         "views": 182500,
@@ -6911,7 +6959,7 @@
         "ott_expiration_date": null,
         "active": false,
         "blacklist": [],
-        "published": 1575878047,
+        "published": 1576484043,
         "first_published": 1503793383,
         "tags": [],
         "collection_title": "Rick and Morty",
@@ -7341,9 +7389,9 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505745060,
-        "auth_expiration_date": 1576126740,
+        "auth_expiration_date": 1577336340,
         "tms_id": "EP018336730030",
         "description": "Morty's memories are restored and we learn the truth in this one broh.",
         "title_suggest": {
@@ -7366,10 +7414,10 @@
         "episode_number": "8",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1575522000,
-        "modified": 1575882724,
+        "auth_launch_date": 1576731600,
+        "modified": 1576504100,
         "media_id": "90b950976db46c86a99c6d811cca01ad8d3c142c",
-        "airing_id": "RADS1011271900041827",
+        "airing_id": "RADS1012151900047015",
         "id": "sUCOK3V2SNq46JBhJyzBcQ",
         "slug": "mortys-mind-blowers",
         "views": 139045,
@@ -7382,7 +7430,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575882724,
+        "published": 1576504100,
         "first_published": 1505571018,
         "tags": [],
         "collection_title": "Rick and Morty",
@@ -7894,9 +7942,9 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506349860,
-        "auth_expiration_date": 1576126740,
+        "auth_expiration_date": 1577336340,
         "tms_id": "EP018336730031",
         "description": "Jerry pulls in some lady in this one broh. Beth revisits her childhood.",
         "title_suggest": {
@@ -7920,10 +7968,10 @@
         "episode_number": "9",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1575522000,
-        "modified": 1575879972,
+        "auth_launch_date": 1576731600,
+        "modified": 1576462212,
         "media_id": "bcafa5cf59ce943967ad5d2cbcc7247f29f17192",
-        "airing_id": "RADS1011271900041817",
+        "airing_id": "RADS1012151900047017",
         "id": "zNy3b46_RBiptb1bQUAJUQ",
         "slug": "the-ab-cs-of-beth",
         "views": 1,
@@ -7936,7 +7984,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575879972,
+        "published": 1576462212,
         "first_published": 1506327021,
         "tags": [],
         "collection_title": "Rick and Morty",

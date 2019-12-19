@@ -56,7 +56,7 @@
     },
     {
         "ott_launch_date": 1537774200,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1576731540,
         "tms_id": "EP005604540086",
         "description": "The members of Guild Council must face their arch rivals for one last time, while Doc happily falls into a black widow's deadly web.",
@@ -67,7 +67,7 @@
                 "Mandate"
             ]
         },
-        "expiration_date": 1573102740,
+        "expiration_date": 1579150740,
         "type": "episode",
         "title": "The Terminus Mandate",
         "platforms": [
@@ -84,8 +84,8 @@
         "auth_launch_date": 1573707600,
         "clip_order": null,
         "media_id": "f6a8fb966ef6eeb4d405f1606d0ee08904c6dca2",
-        "modified": 1573288569,
-        "airing_id": "RADS1011081900036082",
+        "modified": 1576509365,
+        "airing_id": "RADS1012151900047024",
         "id": "AWPLR0f5TdxzjxdCmQUy",
         "slug": "the-terminus-mandate",
         "exclude_from_search": false,
@@ -96,11 +96,11 @@
         "tv_rating": "tv-14-dlv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1573288569,
+        "published": 1576509365,
         "tags": [],
         "collection_title": "The Venture Bros.",
         "modified_by": "ODT Listener",
-        "launch_date": 1570680000,
+        "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15374619980536.jpg"
     },
     {
@@ -405,23 +405,21 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg"
     },
     {
-        "ott_launch_date": 1535380140,
-        "auth": false,
-        "auth_expiration_date": 1574312340,
-        "tms_id": "EP005604540082",
-        "description": "The Monarch faces financial challenges as he attempts to rebuild his fiendish organization, while Dean attempts to build a normal life out of his father's shadow at sleep-away college.",
+        "ott_launch_date": 1534775340,
+        "auth": true,
+        "auth_expiration_date": 1579755540,
+        "tms_id": "EP005604540081",
+        "description": "The Morphic Trilogy reaches its stunning conclusion in a decades-spanning tale of friendship, betrayal, and mass murder that overwrites Venture history.",
         "title_suggest": {
             "input": [
-                "The High Cost of Loathing",
-                "High Cost of Loathing",
-                "Cost of Loathing",
-                "of Loathing",
-                "Loathing"
+                "Arrears in Science",
+                "in Science",
+                "Science"
             ]
         },
-        "expiration_date": 1576731540,
+        "expiration_date": 1576126740,
         "type": "episode",
-        "title": "The High Cost of Loathing",
+        "title": "Arrears in Science",
         "platforms": [
             "android",
             "fire-tv",
@@ -430,30 +428,30 @@
             "roku"
         ],
         "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
-        "duration": 1355,
-        "episode_number": "4",
+        "duration": 1415.29,
+        "episode_number": "3",
         "original_air_date": null,
-        "auth_launch_date": 1571284800,
+        "auth_launch_date": 1576731600,
         "clip_order": null,
-        "media_id": "be760ac67a52d5095a05b5559c1bc049cdf453e8",
-        "modified": 1573909934,
-        "airing_id": "RADS1011151900037776",
-        "id": "AWRwHYIrTdxzjxdCmyOW",
-        "slug": "the-high-cost-of-loathing",
+        "media_id": "4be1a5a026823960b7b9f8acb1edb1c441e4e8a4",
+        "modified": 1576504925,
+        "airing_id": "RADS1012151900047022",
+        "id": "AWU_I9AVh5enQuYyHUKA",
+        "slug": "arrears-in-science",
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153505092677319.jpg",
-        "created": 1530889339,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153454945685718.jpg",
+        "created": 1534362636,
         "season_number": "7",
-        "title_id": "2165020",
+        "title_id": "2165019",
         "tv_rating": "tv-14-dlsv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1573909934,
+        "published": 1576504925,
         "tags": [],
         "collection_title": "The Venture Bros.",
         "modified_by": "ODT Listener",
-        "launch_date": 1574312400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153505092677319.jpg"
+        "launch_date": 1573707600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153454945685718.jpg"
     },
     {
         "ott_launch_date": null,

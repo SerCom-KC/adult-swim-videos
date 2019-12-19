@@ -193,7 +193,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1582520340,
         "tms_id": "EP029950790005",
         "description": "Due to the nature of this summary, we've decide to supplement it with trivia. Did you know: Senpai will never notice you.",
@@ -242,7 +242,7 @@
     {
         "ott_launch_date": null,
         "auth": false,
-        "auth_expiration_date": 1575867540,
+        "auth_expiration_date": 1583125140,
         "tms_id": "EP029950790006",
         "description": "Sorry, I was thinking about Hellshake Yano instead of writing this summary. Something about Shogi?",
         "title_suggest": {
@@ -266,11 +266,11 @@
         "duration": 1281.33,
         "episode_number": "6",
         "original_air_date": null,
-        "auth_launch_date": 1569816000,
+        "auth_launch_date": 1577077200,
         "clip_order": null,
         "media_id": "0e685abe7b499f5d7cd85f2e072e8a169c0eaa34",
-        "modified": 1575506646,
-        "airing_id": "RADS1012041900043335",
+        "modified": 1576700251,
+        "airing_id": "RADS1012181900047482",
         "id": "AWTxfBTEqBveI_0AhK-z",
         "slug": "the-30th-cyber-war",
         "exclude_from_search": false,
@@ -281,7 +281,7 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1575506646,
+        "published": 1576700251,
         "tags": [],
         "collection_title": "Pop Team Epic",
         "modified_by": "ODT Listener",
@@ -290,7 +290,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1576472340,
         "tms_id": "EP029950790007",
         "description": "Are you ready for your dose of Pop Team Therapy? Don't be a hater\u2014take your medicine! It's mandatory. Wait, oh my god, are we talking about Hellshake Yano?!",
@@ -351,7 +351,7 @@
                 "Revenge~"
             ]
         },
-        "expiration_date": 1571025540,
+        "expiration_date": 1578286740,
         "type": "episode",
         "title": "The Dragon of Iidabashi ~Pipi's Revenge~",
         "platforms": [
@@ -367,8 +367,8 @@
         "auth_launch_date": 1571025600,
         "clip_order": null,
         "media_id": "665cbf7a3ffed882d04c3fb9ce023702920af042",
-        "modified": 1573767341,
-        "airing_id": "RADS1010111900026917",
+        "modified": 1576701875,
+        "airing_id": "RADS1012181900047493",
         "id": "AWUQNzUMTdxzjxdCnTvy",
         "slug": "the-dragon-of-iidabashi-pipis-revenge",
         "exclude_from_search": false,
@@ -379,11 +379,11 @@
         "tv_rating": "tv-ma",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1573767341,
+        "published": 1576701875,
         "tags": [],
         "collection_title": "Pop Team Epic",
         "modified_by": "ODT Listener",
-        "launch_date": 1569816000,
+        "launch_date": 1577077200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153452546526011.jpg"
     },
     {

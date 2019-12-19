@@ -245,7 +245,7 @@
         "cma_id": "2085188"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1474295400,
         "auth_expiration_date": 1576731540,
         "tms_id": "EP024500790012",
@@ -256,7 +256,7 @@
                 "Alba"
             ]
         },
-        "expiration_date": 1561647540,
+        "expiration_date": 1579755540,
         "title": "For Alba",
         "type": "episode",
         "platforms": [
@@ -270,9 +270,9 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1574312400,
-        "modified": 1573893009,
+        "modified": 1576441809,
         "media_id": "e6218c8bdcbc760f6ed4ec61d8e1ca758597472b",
-        "airing_id": "RADS1011151900037731",
+        "airing_id": "RADS1012151900047000",
         "id": "aoQ2rqJQQ0a107ry1whtAg",
         "slug": "for-alba",
         "views": 7522,
@@ -285,12 +285,12 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1573893009,
+        "published": 1576441809,
         "first_published": 1473919846,
         "tags": [],
         "collection_title": "Brad Neely's Harg Nallin' Sclopio Peepio",
         "modified_by": "ODT Listener",
-        "launch_date": 1558623600,
+        "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/for-alba/bnhnsp_110_NoAdsCue_dup-20160803.jpg",
         "cma_id": "1477561"
     },
@@ -392,9 +392,9 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1470666600,
-        "auth_expiration_date": 1573707540,
+        "auth_expiration_date": 1579755540,
         "tms_id": "EP024500790005",
         "description": "Animated sketches from the mind of Brad Neely. Special guest star Chelsea Peretti.",
         "title_suggest": {
@@ -417,8 +417,8 @@
         "episode_number": "5",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1571284800,
-        "modified": 1573283667,
+        "auth_launch_date": 1576731600,
+        "modified": 1576507926,
         "media_id": "5483917c787560459132fbd6e61ea5da6b437d21",
         "airing_id": "RADS1011081900036055",
         "id": "jQOgkwn_QfWx6OYH0MMaPg",
@@ -433,7 +433,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1573283667,
+        "published": 1576507926,
         "first_published": 1470391840,
         "tags": [],
         "collection_title": "Brad Neely's Harg Nallin' Sclopio Peepio",

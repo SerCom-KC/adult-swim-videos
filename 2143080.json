@@ -510,11 +510,11 @@
         "launch_date": 1575196200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117213-BlackClover_094.jpg",
         "id": "AW4S8Xa1adNs2hMNfuXp",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1575800940,
+        "auth_expiration_date": 1610427540,
         "tms_id": "",
         "description": "A look into the origins of Licht's hatred of humans and the complicated ways by which the Third Eye, and Licht as he is today, came to be.",
         "title_suggest": {
@@ -535,10 +535,10 @@
         "duration": 1334.7,
         "episode_number": "95",
         "original_air_date": null,
-        "auth_launch_date": 1573986600,
+        "auth_launch_date": 1577010600,
         "clip_order": null,
         "media_id": "75bd729b5922946526e6fc5f8647f222e3dca90a",
-        "modified": 1576274782,
+        "modified": 1576692269,
         "airing_id": "RADS1012041900043306",
         "slug": "reincarnation",
         "exclude_from_search": false,
@@ -549,7 +549,7 @@
         "tv_rating": "",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1576274782,
+        "published": 1576692269,
         "tags": [],
         "collection_title": "Black Clover",
         "disable_ads": false,
@@ -612,6 +612,55 @@
         "launch_date": 1576405800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117576-BlackClover_096.jpg",
         "id": "AW4S8g2e1YiBSfg0KYDv",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578220140,
+        "tms_id": "EP032284200098",
+        "description": "The vice-captain of the Crimson Lion Kings, now a reincarnated elf, turns on his squad mates with powerful Air Magic. A mighty beast awakens at last.",
+        "title_suggest": {
+            "input": [
+                "The Sleeping Lion",
+                "Sleeping Lion",
+                "Lion"
+            ]
+        },
+        "title": "The Sleeping Lion",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 0,
+        "episode_number": "98",
+        "original_air_date": null,
+        "auth_launch_date": 1576405800,
+        "clip_order": null,
+        "airing_id": "RADS1012111900046137",
+        "media_id": "b15fe11ced26343cff0c7f74a10d0f1588a84ce0",
+        "modified": 1576768754,
+        "slug": "the-sleeping-lion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191219/thumbnails/1_191219101990-BlackClover_002.jpg",
+        "created": 1576096325,
+        "title_id": "2205124",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576768754,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jared Marquez",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191219/thumbnails/2_191219101990-BlackClover_002.jpg",
+        "id": "AW72qV9_GRcVO2K2pl73",
         "auth": true
     },
     {

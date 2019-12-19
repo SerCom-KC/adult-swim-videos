@@ -288,7 +288,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1573707540,
+        "auth_expiration_date": 1579755599,
         "tms_id": "EP020020000053",
         "description": "To make a little girl's wish come true, the team must visit the Wishing Well in Fantasy Forest.",
         "title_suggest": {
@@ -313,10 +313,10 @@
         "duration": 673.8398,
         "episode_number": "2",
         "original_air_date": null,
-        "auth_launch_date": 1570680000,
+        "auth_launch_date": 1576731600,
         "clip_order": null,
         "media_id": "23b870ab7a6bb563b0d6c9af07a22dee4ba22173",
-        "modified": 1575480725,
+        "modified": 1576507925,
         "airing_id": "RADS1011081900036054",
         "slug": "make-a-wish-and-blow",
         "exclude_from_search": false,
@@ -327,7 +327,7 @@
         "tv_rating": "tv-14-dlsv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1575480725,
+        "published": 1576507925,
         "tags": [],
         "collection_title": "Mike Tyson Mysteries",
         "disable_ads": false,
@@ -335,7 +335,7 @@
         "launch_date": 1573707600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156175115133219.jpg",
         "id": "AWufn3MyCorLtcgflrkv",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -452,7 +452,7 @@
             ]
         },
         "title": "The Death of Lyle Victor Linkus",
-        "expiration_date": 1573707540,
+        "expiration_date": 1579755540,
         "type": "episode",
         "platforms": [
             "android",
@@ -467,7 +467,7 @@
         "auth_launch_date": 1573707600,
         "clip_order": null,
         "media_id": "e312e599ec7ef44b356014fad77702adf848726a",
-        "modified": 1575480725,
+        "modified": 1576503500,
         "airing_id": "RADS1011081900036062",
         "slug": "the-death-of-lyle-victor-linkus",
         "exclude_from_search": false,
@@ -478,15 +478,15 @@
         "tv_rating": "tv-14-dlv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1575480725,
+        "published": 1576503500,
         "tags": [],
         "collection_title": "Mike Tyson Mysteries",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1570680000,
+        "launch_date": 1576731600,
         "poster": "https://media.cdn.adultswim.com/uploads/20190719/thumbnails/2_19719126207-miketysonmysteries_407_dup-20190605.jpg",
         "id": "AWwF885GCorLtcgflsZX",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,

@@ -1,7 +1,7 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1570345140,
+        "auth_expiration_date": 1580360399,
         "tms_id": "EP032701900002",
         "description": "On the run, the team learns more about the origins of gen:LOCK and one another. New potential allies are revealed.",
         "title_suggest": {
@@ -24,11 +24,11 @@
         "duration": 1400.1988,
         "episode_number": "7",
         "original_air_date": null,
-        "auth_launch_date": 1568530800,
+        "auth_launch_date": 1576731600,
         "clip_order": null,
         "media_id": "ae0f43cd18bbba58546a765e439187369a1ecdf8",
-        "modified": 1575102015,
-        "airing_id": "RADS1011271900041829",
+        "modified": 1576507457,
+        "airing_id": "RADS1012151900046993",
         "slug": "it-never-rains",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/1_199131334340-genlock_007.jpg",
@@ -38,7 +38,7 @@
         "tv_rating": "tv-14-v",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1575102015,
+        "published": 1576507457,
         "tags": [],
         "collection_title": "gen:LOCK",
         "disable_ads": false,
@@ -46,7 +46,7 @@
         "launch_date": 1575522000,
         "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_199131334340-genlock_007.jpg",
         "id": "AW0rsPBkCorLtcgfluYX",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -109,7 +109,7 @@
         },
         "title": "The Pilot",
         "type": "episode",
-        "expiration_date": 1572929999,
+        "expiration_date": 1577941199,
         "platforms": [
             "android",
             "ios",
@@ -122,9 +122,9 @@
         "original_air_date": null,
         "auth_launch_date": 1572930000,
         "clip_order": null,
-        "airing_id": "RADS1011031900033523",
+        "airing_id": "RADS1012151900047037",
         "media_id": "f9b203073ece2cace26f79c1b14d048ddec99084",
-        "modified": 1573767334,
+        "modified": 1576447461,
         "slug": "the-pilot",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20190802/thumbnails/1_19821143100-GenLock_001_dup-20190628.jpg",
@@ -134,15 +134,15 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1573767334,
+        "published": 1576447461,
         "tags": [],
         "collection_title": "gen:LOCK",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1571716800,
+        "launch_date": 1576731600,
         "poster": "https://media.cdn.adultswim.com/uploads/20190802/thumbnails/2_19821143100-GenLock_001_dup-20190628.jpg",
         "id": "AWxOWf2OCorLtcgfltVd",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
