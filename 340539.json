@@ -321,6 +321,59 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1446844380,
+        "auth_expiration_date": 1575435540,
+        "tms_id": "EP004625750022",
+        "rating": 8.732194,
+        "description": "Murro the Maurader sues Harvey for injuries suffered in 1967.   Murro's lawyer, the psychically bombastic Shado the Brain Thief, not only litigates Murro's case, but introduces a class action lawsuit as well.  Harvey begs Potamus to take the case and the hippo litigates on Harvey's behalf.",
+        "title_suggest": {
+            "input": [
+                "Harvey's Civvy",
+                "Civvy"
+            ]
+        },
+        "type": "episode",
+        "title": "Harvey's Civvy",
+        "expiration_date": 1579755540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 697,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1572408000,
+        "modified": 1576503861,
+        "media_id": "8e2cb9989758726bb882a4b12a086ace9f90c081",
+        "airing_id": "RADS1012151900047003",
+        "id": "ksIe2P-IQ4SQrgo6Y-6DNA",
+        "slug": "harveys-civvy",
+        "views": 381409,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945467,
+        "title_id": "611666",
+        "season_number": "3",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1576503861,
+        "tags": [
+            "harvey birdman attorney at law episode 22 civvy shado brain thief murro marauder class action lawsuit"
+        ],
+        "rating_count": 1053,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "modified_by": "ODT Listener",
+        "launch_date": 1576731600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_022_pt1-02.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446844560,
         "auth_expiration_date": 1578459540,
@@ -430,59 +483,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1574917200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_019_pt1-02.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446844260,
-        "auth_expiration_date": 1572407940,
-        "tms_id": "EP004625750017",
-        "rating": 8.896856,
-        "description": "It's a very special Harvey when Peanut begins to \"develop\" his superpowers.  It's a difficult time for a young superhero and Peanut turns to Harvey to help him understand the changes he's going through.  Meanwhile, Auggie Doggie hires Harvey to save Doggy Daddy from being euthanized for having bit someone.",
-        "title_suggest": {
-            "input": [
-                "Peanut Puberty",
-                "Puberty"
-            ]
-        },
-        "type": "episode",
-        "title": "Peanut Puberty",
-        "expiration_date": 1576731540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 695.015,
-        "episode_number": "8",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1569384000,
-        "modified": 1573295523,
-        "media_id": "711480e298fe2101186e3ecb09ceef189297de94",
-        "airing_id": "RADS1011081900036060",
-        "id": "uM9APHESR1K9qfVbC6oRAg",
-        "slug": "peanut-puberty",
-        "views": 295944,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945467,
-        "title_id": "543009",
-        "season_number": "2",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573295523,
-        "tags": [
-            "harvey birdman episode attorney at law 17 peanut puberty special powers in your pants"
-        ],
-        "rating_count": 698,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "modified_by": "ODT Listener",
-        "launch_date": 1573707600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_017_pt1-04.jpg",
         "cma_id": ""
     },
     {

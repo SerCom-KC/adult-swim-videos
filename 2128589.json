@@ -554,7 +554,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1583643540,
         "tms_id": "EP027028650004",
@@ -1156,6 +1156,58 @@
         "launch_date": 1570028400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172390325535.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1576684740,
+        "tms_id": "EP027028650009",
+        "description": "Lupin and Jigen go looking for a treasure in an old castle which is said to be haunted by a ghost. Here, Lupin must face an aged woman thief and her two sons, but is helped by a little girl, Carla, who claims to be the owner's daughter.",
+        "title_suggest": {
+            "input": [
+                "Welcome to the Haunted Hotel",
+                "to the Haunted Hotel",
+                "the Haunted Hotel",
+                "Haunted Hotel",
+                "Hotel"
+            ]
+        },
+        "expiration_date": 1579755540,
+        "title": "Welcome to the Haunted Hotel",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1293.8008008,
+        "collection_id": "kQEL4HvBQheyH0IH9yiFfQ",
+        "episode_number": "9",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1563980400,
+        "modified": 1576447210,
+        "media_id": "4b0930803c46108a3a2aa7c265bada5010533228",
+        "airing_id": "RADS1012151900047038",
+        "id": "v4e7Rx29SnO10EDZDUCY1Q",
+        "slug": "welcome-to-the-haunted-hotel",
+        "views": 817,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108740786476.jpg",
+        "created": 1497300493,
+        "season_number": "1",
+        "title_id": "2128609",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1576447210,
+        "first_published": 1502871058,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 4",
+        "modified_by": "ODT Listener",
+        "launch_date": 1576731600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108740786476.jpg",
+        "cma_id": "2128609"
     },
     {
         "auth": true,

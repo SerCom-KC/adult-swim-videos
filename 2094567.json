@@ -195,53 +195,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041275899616.jpg"
     },
     {
-        "ott_launch_date": 1540823340,
-        "auth": false,
-        "auth_expiration_date": 1579841940,
-        "tms_id": "",
-        "description": "Patient 62 catches Amnesia during a routine arachnophobia treatment. Dr Roberts attempts to cure him by hand using fundamentals. Randy gets catfished.",
-        "title_suggest": {
-            "input": [
-                "Amnesia"
-            ]
-        },
-        "expiration_date": 1576731540,
-        "type": "episode",
-        "title": "Amnesia",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 692.27,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1576818000,
-        "clip_order": null,
-        "media_id": "9f95e3410fb941f0623ec25152414f14b9ab8cba",
-        "modified": 1576682524,
-        "airing_id": "RADS1011151900037733",
-        "id": "AWG_IK9XNWyh42wYnk9J",
-        "slug": "amnesia",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154041407499920.jpg",
-        "created": 1519330045,
-        "season_number": "2",
-        "title_id": "2133688",
-        "tv_rating": "tv-14-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1576682524,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574312400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041407499920.jpg"
-    },
-    {
         "ott_launch_date": 1541431740,
         "auth": false,
         "auth_expiration_date": 1563508740,
@@ -287,6 +240,54 @@
         "modified_by": "ODT Listener",
         "launch_date": 1574917200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15410225192671.jpg"
+    },
+    {
+        "ott_launch_date": 1542036540,
+        "auth_expiration_date": 1573793940,
+        "tms_id": "",
+        "description": "88 goes under to get treatment for his \"confidence\". Dr Roberts tests a groundbreaking new technology.",
+        "title_suggest": {
+            "input": [
+                "88's Weekly",
+                "Weekly"
+            ]
+        },
+        "expiration_date": 1579150740,
+        "type": "episode",
+        "title": "88's Weekly",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 676.73,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1570766400,
+        "clip_order": null,
+        "media_id": "31ab64761cdc1f34cef37ed84712e0230e55f9bf",
+        "modified": 1576449723,
+        "airing_id": "RADS1012151900046998",
+        "slug": "88-s-weekly",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154160544362420.jpg",
+        "created": 1523997032,
+        "season_number": "2",
+        "title_id": "2133692",
+        "tv_rating": "tv-14-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576449723,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1576731600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154160544362420.jpg",
+        "id": "AWLVTT7STdxzjxdCldXa",
+        "auth": false
     },
     {
         "ott_launch_date": 1541431740,
