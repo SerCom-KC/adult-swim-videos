@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 20, 2019 at 01:01:03 EST_
+_Last Update: December 20, 2019 at 01:31:11 EST_
 ## Video added
 ### Summary
 581006 American Dad: 1  
-### 2019423
-**American Dad S10E09 - Dreaming of a White Porsche Christmas**  
-TV-14 🔒 21:02  
-⌛ December 27, 2019 at 00:29:00 EST  
-https://www.adultswim.com/videos/american-dad/dreaming-of-a-white-porsche-christmas  
-seriesid=`581006` titleid=`2019423` id=`_tsLt6bwRmCcPuXFZqhIRA` mediaid=`f1d11d07a6bda049fd62cb37bdad69274cc3ebda`  
-_When Stan wishes he could have Principal Lewis' carefree, single life, his wish comes true! Meanwhile, in his wish world, Principal Lewis has Stan's family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417477876913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417477876913.jpg" height="144px" /></a>
+### 2069561
+**American Dad S13E08 - Santa, Schmanta**  
+TV-14-DLV 🔒 21:02  
+⌛ December 27, 2019 at 00:59:00 EST  
+https://www.adultswim.com/videos/american-dad/santa-schmanta  
+seriesid=`581006` titleid=`2069561` id=`AWBGBvYswdpKFAKSb0FM` mediaid=`6aa8247b1afbf690eeefce7bc6e77a755e93cd3a`  
+_Roger turns his attention to Steve's friend Snot who teaches him about Hanukkah, prompting him to convert to Judaism. Roger then decides to make Hanukkah more popular than Christmas by stealing Santa's powers, and becoming Schmanta Claus._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 581006 American Dad: 1  
-### 2007875
-**American Dad S09E06 - Independent Movie**  
-TV-14 🔒 21:28  
-⌛ December 20, 2019 at 00:29:00 EST  
-https://www.adultswim.com/videos/american-dad/independent-movie  
-seriesid=`581006` titleid=`2007875` id=`buqUCWG2T2eDk9HkT-DMtA` mediaid=`efd81d52d37ec3a7bf41c6c94ebdaf3c9d3d4924`  
-_Snot's father dies but Snot refuses to go to the funeral.  Steve convinces Snot to take a road trip across the country to attend.  Along the way the boys experience life as an independent movie, complete with strange characters and moments of raw emotion._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg" height="144px" /></a>
+### 2007879
+**American Dad S09E07 - Faking Bad**  
+TV-14 🔒 21:31  
+⌛ December 20, 2019 at 00:59:00 EST  
+https://www.adultswim.com/videos/american-dad/faking-bad  
+seriesid=`581006` titleid=`2007879` id=`faIr12CSQ-GFMxkjMoX9hg` mediaid=`1262714f3a43bc9e9c62fcf1ac907f8f93d6b687`  
+_When Hayley tries to go clubbing with her old friends she is turned away at the door because she doesn't have proper ID.  Hayley convinces Steve to make a fake ID for her.  The fake ID is so good that Hayley and Steve go into business together as counterfeiters._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg" height="144px" /></a>
