@@ -847,6 +847,58 @@
         "cma_id": "1493954"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577424540,
+        "tms_id": "EP007164450192",
+        "description": "When Stan wishes he could have Principal Lewis' carefree, single life, his wish comes true! Meanwhile, in his wish world, Principal Lewis has Stan's family.",
+        "title_suggest": {
+            "input": [
+                "Dreaming of a White Porsche Christmas",
+                "of a White Porsche Christmas",
+                "a White Porsche Christmas",
+                "White Porsche Christmas",
+                "Porsche Christmas",
+                "Christmas"
+            ]
+        },
+        "title": "Dreaming of a White Porsche Christmas",
+        "type": "episode",
+        "expiration_date": 1497931199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.2943,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1576819800,
+        "clip_order": null,
+        "modified": 1576679766,
+        "media_id": "f1d11d07a6bda049fd62cb37bdad69274cc3ebda",
+        "airing_id": "RADS1012181900047406",
+        "id": "_tsLt6bwRmCcPuXFZqhIRA",
+        "slug": "dreaming-of-a-white-porsche-christmas",
+        "views": 1944,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153417477876913.jpg",
+        "created": 1436242843,
+        "title_id": "2019423",
+        "tv_rating": "tv-14",
+        "season_number": "10",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576679766,
+        "first_published": 1436242843,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1497326400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417477876913.jpg",
+        "cma_id": "1413236"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1560916740,
@@ -892,54 +944,6 @@
         "launch_date": 1576472400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1576819740,
-        "tms_id": "EP007164450167",
-        "description": "Snot's father dies but Snot refuses to go to the funeral.  Steve convinces Snot to take a road trip across the country to attend.  Along the way the boys experience life as an independent movie, complete with strange characters and moments of raw emotion.",
-        "title_suggest": {
-            "input": [
-                "Independent Movie",
-                "Movie"
-            ]
-        },
-        "title": "Independent Movie",
-        "type": "episode",
-        "expiration_date": 1508302799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1288.8876,
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1576215000,
-        "modified": 1575857283,
-        "media_id": "efd81d52d37ec3a7bf41c6c94ebdaf3c9d3d4924",
-        "airing_id": "RADS1012081900044887",
-        "id": "buqUCWG2T2eDk9HkT-DMtA",
-        "slug": "independent-movie",
-        "views": 3491,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187078827647.jpg",
-        "created": 1411570125,
-        "season_number": "9",
-        "title_id": "2007875",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1575857283,
-        "first_published": 1411570125,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1507698000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg",
-        "cma_id": "1491544"
     },
     {
         "auth": true,
