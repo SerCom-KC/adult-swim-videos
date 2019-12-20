@@ -1,22 +1,22 @@
 {
-    "updated": 1576823622,
+    "updated": 1576825367,
     "added": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1577428140,
-            "tms_id": "EP012792980141",
-            "description": "Linda is determined to host a party at the restaurant in order to spread a little cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she begins questioning all the guests.",
+            "auth_expiration_date": 1577429940,
+            "tms_id": "EP012792980142",
+            "description": "After Linda's prized ornaments go missing during a holiday party at the restaurant, Linda suspects one of the attendees as the thief. However, the kids have their own theory: attributing the robbery to the anti-Santa - \"The Bleaken.\"",
             "title_suggest": {
                 "input": [
-                    "The Bleakening Part 1",
-                    "Bleakening Part 1",
-                    "Part 1",
-                    "1"
+                    "The Bleakening Part 2",
+                    "Bleakening Part 2",
+                    "Part 2",
+                    "2"
                 ]
             },
-            "title": "The Bleakening Part 1",
-            "type": "episode",
+            "title": "The Bleakening Part 2",
             "expiration_date": 1574657940,
+            "type": "episode",
             "platforms": [
                 "android",
                 "ios",
@@ -24,89 +24,35 @@
                 "fire-tv"
             ],
             "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "duration": 1301.97,
-            "episode_number": "6",
+            "duration": 1297.2,
+            "episode_number": "7",
             "original_air_date": null,
-            "auth_launch_date": 1576823400,
+            "auth_launch_date": 1576825200,
             "clip_order": null,
-            "airing_id": "RADS1012181900047411",
-            "media_id": "9fa33279ac79cbb83f2cd4a35ca83a04cc69d149",
-            "modified": 1576680012,
-            "slug": "the-bleakening-part-1",
+            "media_id": "0784465192256af12e5850f1469d9f5d5a24183a",
+            "modified": 1576680010,
+            "airing_id": "RADS1012181900047410",
+            "slug": "the-bleakening-part-2",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15444603910052.jpg",
-            "created": 1543859362,
-            "title_id": "2171437",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15450597262919.jpg",
+            "created": 1543954675,
             "season_number": "8",
+            "title_id": "2171438",
             "tv_rating": "tv-pg-dl",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1576680012,
+            "published": 1576680010,
             "tags": [],
             "collection_title": "Bob's Burgers",
             "modified_by": "ODT Listener",
             "launch_date": 1574053200,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444603910052.jpg",
-            "id": "AWd1MFj-qD68dq0Op5rc",
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg",
+            "id": "AWd63rgSqD68dq0Op5t4",
             "auth": true,
             "collection_slug": "bobs-burgers",
             "collection_title_id": "2003422",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1576823340,
-            "tms_id": "EP012792980073",
-            "description": "Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. The kids make an ice rink in the freezer.",
-            "title_suggest": {
-                "input": [
-                    "Friends with Burger-Fits",
-                    "with Burger-Fits",
-                    "Burger-Fits"
-                ]
-            },
-            "expiration_date": 1550591940,
-            "title": "Friends with Burger-Fits",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "duration": 1301.2669336,
-            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "episode_number": "3",
-            "original_air_date": null,
-            "clip_order": null,
-            "auth_launch_date": 1576218600,
-            "modified": 1575885245,
-            "media_id": "f5614ca6513be1771ebc2149900fbe59a6209964",
-            "airing_id": "RADS1012081900044883",
-            "id": "Pt77Jy4sQGykImwmhEjCMg",
-            "slug": "friends-with-burger-fits",
-            "views": 2,
-            "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1441802468,
-            "season_number": "5",
-            "title_id": "2065450",
-            "tv_rating": "tv-pg-dlv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1575885245,
-            "first_published": 1442892021,
-            "tags": [],
-            "collection_title": "Bob's Burgers",
-            "modified_by": "ODT Listener",
-            "launch_date": 1549900800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg",
-            "cma_id": "1470042",
-            "collection_slug": "bobs-burgers",
-            "collection_title_id": "2003422",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
