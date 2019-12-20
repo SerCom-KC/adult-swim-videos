@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1576817940,
         "tms_id": "EP019059960007",
@@ -160,7 +160,7 @@
         "cma_id": "2020973"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1588910340,
         "tms_id": "EP019059960003",
@@ -605,7 +605,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153660364506413.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1582865940,
         "tms_id": "EP019059960069",
@@ -652,7 +652,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1576817940,
         "tms_id": "EP019059960071",
         "description": "As battle breaks out to prevent the ritual, Historia makes a shocking decision which leads to catastrophe.",
@@ -1584,7 +1584,7 @@
         "cma_id": "1348519"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1576817940,
         "tms_id": "EP019059960063",
@@ -2471,7 +2471,7 @@
         "cma_id": "1403523"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1582865940,
         "tms_id": "EP019059960061",
