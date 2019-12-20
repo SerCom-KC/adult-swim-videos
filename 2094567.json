@@ -195,6 +195,53 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041275899616.jpg"
     },
     {
+        "ott_launch_date": 1540823340,
+        "auth": true,
+        "auth_expiration_date": 1579841940,
+        "tms_id": "",
+        "description": "Patient 62 catches Amnesia during a routine arachnophobia treatment. Dr Roberts attempts to cure him by hand using fundamentals. Randy gets catfished.",
+        "title_suggest": {
+            "input": [
+                "Amnesia"
+            ]
+        },
+        "expiration_date": 1576731540,
+        "type": "episode",
+        "title": "Amnesia",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 692.27,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1576818000,
+        "clip_order": null,
+        "media_id": "9f95e3410fb941f0623ec25152414f14b9ab8cba",
+        "modified": 1576682524,
+        "airing_id": "RADS1011151900037733",
+        "id": "AWG_IK9XNWyh42wYnk9J",
+        "slug": "amnesia",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154041407499920.jpg",
+        "created": 1519330045,
+        "season_number": "2",
+        "title_id": "2133688",
+        "tv_rating": "tv-14-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576682524,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574312400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041407499920.jpg"
+    },
+    {
         "ott_launch_date": 1541431740,
         "auth": false,
         "auth_expiration_date": 1563508740,
@@ -385,59 +432,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154160540169415.jpg",
         "id": "AWLVU03eTdxzjxdCldX1",
         "auth": false
-    },
-    {
-        "ott_launch_date": 1543851000,
-        "auth_expiration_date": 1576817940,
-        "tms_id": "",
-        "description": "Dr Roberts wrangles Randy for his biannual session. T.E.R.R.Y. struggles with his conscience.",
-        "title_suggest": {
-            "input": [
-                "What Happens in Randy, Stays in Randy",
-                "Happens in Randy, Stays in Randy",
-                "in Randy, Stays in Randy",
-                "Randy, Stays in Randy",
-                "Stays in Randy",
-                "in Randy",
-                "Randy"
-            ]
-        },
-        "title": "What Happens in Randy, Stays in Randy",
-        "expiration_date": 1573707540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 672.7,
-        "episode_number": "13",
-        "original_air_date": null,
-        "auth_launch_date": 1573794000,
-        "clip_order": null,
-        "media_id": "9888c2320e9aa910072adb0b2773afe10a69e36a",
-        "modified": 1576165565,
-        "airing_id": "RADS1011081900036115",
-        "slug": "what-happens-in-randy-stays-in-randy",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15435309784922.jpg",
-        "created": 1538494689,
-        "season_number": "2",
-        "title_id": "2133697",
-        "tv_rating": "tv-14-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1576165565,
-        "tags": [],
-        "collection_title": "DREAM CORP LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571284800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15435309784922.jpg",
-        "id": "AWY1bfH9h5enQuYyI6xW",
-        "auth": true
     },
     {
         "ott_launch_date": null,
