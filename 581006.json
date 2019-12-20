@@ -97,6 +97,52 @@
     },
     {
         "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1577426340,
+        "tms_id": "EP007164450249",
+        "description": "Roger turns his attention to Steve's friend Snot who teaches him about Hanukkah, prompting him to convert to Judaism. Roger then decides to make Hanukkah more popular than Christmas by stealing Santa's powers, and becoming Schmanta Claus.",
+        "title_suggest": {
+            "input": [
+                "Santa, Schmanta",
+                "Schmanta"
+            ]
+        },
+        "expiration_date": 1575262740,
+        "type": "episode",
+        "title": "Santa, Schmanta",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.8616,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1576821600,
+        "clip_order": null,
+        "media_id": "6aa8247b1afbf690eeefce7bc6e77a755e93cd3a",
+        "modified": 1576680250,
+        "airing_id": "RADS1012181900047408",
+        "id": "AWBGBvYswdpKFAKSb0FM",
+        "slug": "santa-schmanta",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200072089515.jpg",
+        "created": 1513003349,
+        "season_number": "13",
+        "title_id": "2069561",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576680250,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1574658000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg"
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1566876540,
         "tms_id": "EP007164450259",
         "description": "Stan avoids giving Steve \"the talk\" by joining a chastity group. The Smiths build a waterslide in the backyard.",
@@ -991,54 +1037,6 @@
         "launch_date": 1496116800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923992528317.jpg",
         "cma_id": "1405116"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1576821540,
-        "tms_id": "EP007164450168",
-        "description": "When Hayley tries to go clubbing with her old friends she is turned away at the door because she doesn't have proper ID.  Hayley convinces Steve to make a fake ID for her.  The fake ID is so good that Hayley and Steve go into business together as counterfeiters.",
-        "title_suggest": {
-            "input": [
-                "Faking Bad",
-                "Bad"
-            ]
-        },
-        "title": "Faking Bad",
-        "type": "episode",
-        "expiration_date": 1508385599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1291.0565,
-        "episode_number": "7",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1576216800,
-        "modified": 1575884764,
-        "media_id": "1262714f3a43bc9e9c62fcf1ac907f8f93d6b687",
-        "airing_id": "RADS1012081900044878",
-        "id": "faIr12CSQ-GFMxkjMoX9hg",
-        "slug": "faking-bad",
-        "views": 4006,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187079017649.jpg",
-        "created": 1411570148,
-        "season_number": "9",
-        "title_id": "2007879",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1575884764,
-        "first_published": 1411570148,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1507780800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg",
-        "cma_id": "1493460"
     },
     {
         "auth": true,
