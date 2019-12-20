@@ -1,7 +1,6 @@
 {
-    "updated": 1576878923,
-    "added": [],
-    "removed": [
+    "updated": 1576879112,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1585022399,
@@ -29,8 +28,8 @@
             "auth_launch_date": 1577003400,
             "clip_order": null,
             "media_id": "8320a15c899943105fb0d11c2566c395d479edd9",
-            "modified": 1576691064,
-            "airing_id": "RADS1012181900047445",
+            "modified": 1576879002,
+            "airing_id": "RADS1012041900043299",
             "slug": "masked-warrior",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20191105/thumbnails/1_191151254561-DrStone_113.jpg",
@@ -40,7 +39,7 @@
             "tv_rating": "tv-14-lv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1576691064,
+            "published": 1576879002,
             "tags": [],
             "collection_title": "Dr. Stone",
             "disable_ads": false,
@@ -53,5 +52,6 @@
             "collection_title_id": "2207385",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
