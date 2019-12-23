@@ -2174,7 +2174,7 @@
         "cma_id": "1114711"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370064",
@@ -3262,6 +3262,63 @@
         "launch_date": 1422172800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402084023.jpg",
         "cma_id": "1050184"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370063",
+        "description": "While Piccolo and company search for Dr. Gero's secret laboratory, Vegeta sets out to hunt down and destroy Android 20. Meanwhile, Trunks tries everything in his power to save his stubborn father!",
+        "title_suggest": {
+            "input": [
+                "The Hunt for Doctor Gero! Discover the Hidden Laboratory!",
+                "Hunt for Doctor Gero! Discover the Hidden Laboratory!",
+                "for Doctor Gero! Discover the Hidden Laboratory!",
+                "Doctor Gero! Discover the Hidden Laboratory!",
+                "Gero! Discover the Hidden Laboratory!",
+                "Discover the Hidden Laboratory!",
+                "the Hidden Laboratory!",
+                "Hidden Laboratory!",
+                "Laboratory!"
+            ]
+        },
+        "expiration_date": 1580101140,
+        "title": "The Hunt for Doctor Gero! Discover the Hidden Laboratory!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1264,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "63",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1576700711,
+        "media_id": "2770014e89812cd1ffb400b538245c8fe779587f",
+        "airing_id": "RADS1012181900047487",
+        "id": "y7XIBtSUSCivOZQvwirzuA",
+        "slug": "the-hunt-for-doctor-gero-discover-the-hidden-laboratory",
+        "views": 2274,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210165129-dragonballzkai_063_air_cid-2RF23.jpg",
+        "created": 1454356631,
+        "season_number": "1",
+        "title_id": "2031674",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1576700711,
+        "first_published": 1458717035,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1577077200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210165129-dragonballzkai_063_air_cid-2RF23.jpg",
+        "cma_id": "1206916"
     },
     {
         "auth": true,
