@@ -1,20 +1,22 @@
 {
-    "updated": 1577113665,
-    "added": [
+    "updated": 1577113851,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "The holidays aren\u2019t over yet! Toonami\u2019s bringing you even more seasonal goodies with a Dr. Stone marathon!",
+            "description": "Know what the greatest gift of all is? Back to back to back episodes of One Punch Man!",
             "title_suggest": {
                 "input": [
-                    "Dr. Stone Marathon",
-                    "Stone Marathon",
+                    "One Punch Man Marathon",
+                    "Punch Man Marathon",
+                    "Man Marathon",
                     "Marathon"
                 ]
             },
-            "title": "Dr. Stone Marathon",
-            "expiration_date": 1577941200,
+            "title": "One Punch Man Marathon",
+            "expiration_date": 1577682000,
             "type": "clip",
             "platforms": [
                 "android",
@@ -23,35 +25,34 @@
                 "online-exclusive",
                 "roku"
             ],
-            "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+            "collection_id": "xZSM7jD5QCe6QOiQJ_-sxQ",
             "duration": 29.97,
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "",
-            "modified": 1577113606,
-            "slug": "dr-stone-marathon",
+            "modified": 1576266227,
+            "slug": "one-punch-man-marathon",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/1_191217133181-promo_DRSTONE_MARATHON_SAT.jpg",
-            "created": 1576607516,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191212/thumbnails/1_1912121430468-promo_OnePunch_Marathon_Sat_30.jpg",
+            "created": 1576179065,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1577113606,
+            "published": 1576266227,
             "tags": [],
-            "collection_title": "Dr. Stone",
+            "collection_title": "One-Punch Man",
             "disable_ads": false,
-            "modified_by": "Jared Marquez",
-            "launch_date": 1577077200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217133181-promo_DRSTONE_MARATHON_SAT.jpg",
-            "id": "AW8VIYYq3HMJfT8do6gQ",
+            "modified_by": "Duke Nguyen",
+            "launch_date": 1576504800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191212/thumbnails/2_1912121430468-promo_OnePunch_Marathon_Sat_30.jpg",
+            "id": "AW77l-FyGRcVO2K2pl8I",
             "auth": false,
-            "collection_slug": "dr-stone",
-            "collection_title_id": "2207385",
+            "collection_slug": "one-punch-man",
+            "collection_title_id": "2091991",
             "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
