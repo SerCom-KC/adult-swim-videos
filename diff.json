@@ -1,7 +1,6 @@
 {
-    "updated": 1577114732,
-    "added": [],
-    "removed": [
+    "updated": 1577120604,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1451669940,
@@ -17,7 +16,7 @@
             },
             "type": "episode",
             "title": "Corndog Chronicles",
-            "expiration_date": null,
+            "expiration_date": 2085368400,
             "platforms": [
                 "android",
                 "fire-tv",
@@ -31,8 +30,9 @@
             "original_air_date": null,
             "clip_order": null,
             "auth_launch_date": null,
-            "modified": 1547754246,
-            "media_id": "",
+            "modified": 1577114680,
+            "media_id": "e074e9fc20d291e07efbb18f2b234c993afce818",
+            "airing_id": "RADS1012231900049224",
             "id": "zE7fnM4PRBmaUr-9f-VBHQ",
             "slug": "corndog-chronicles",
             "views": 172365,
@@ -45,19 +45,20 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1547754246,
+            "published": 1577114680,
             "tags": [
                 "12 oz mouse episode 16 corndog chronicles"
             ],
             "rating_count": 1329,
             "collection_title": "12 oz. Mouse",
-            "modified_by": "Jared Marquez",
-            "launch_date": 1426690800,
+            "modified_by": "ODT Listener",
+            "launch_date": 1577120400,
             "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_016_pt1-05.jpg",
             "cma_id": "",
             "collection_slug": "12-oz-mouse",
             "collection_title_id": "618253",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
