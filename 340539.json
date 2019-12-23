@@ -27,7 +27,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1576645200,
-        "modified": 1576279924,
+        "modified": 1577125327,
         "media_id": "ee9213564b34720fa28afd0dddf6d77387f035d8",
         "airing_id": "RADS1012131900046793",
         "id": "10BBAjN8T2e4sXIFbZjlZQ",
@@ -42,7 +42,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1576279924,
+        "published": 1577125327,
         "tags": [],
         "rating_count": 794,
         "collection_title": "Harvey Birdman, Attorney at Law",
@@ -82,7 +82,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1574226000,
-        "modified": 1573873212,
+        "modified": 1577125325,
         "media_id": "db9f447ddf79fb1fda237a29aefc3a1e61b606c4",
         "airing_id": "RADS1011151900037729",
         "id": "976uA5GQQTuIJJTHzpsc0Q",
@@ -97,7 +97,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1573873212,
+        "published": 1577125325,
         "tags": [
             "harvey birdman attorney at law episode 25 beyond valley dinosaurs peter potamus time travel cavemen whirpool"
         ],
@@ -107,6 +107,56 @@
         "launch_date": 1554390000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_025_pt1-03.jpg",
         "cma_id": ""
+    },
+    {
+        "ott_launch_date": 1539613860,
+        "auth": false,
+        "auth_expiration_date": 1541406540,
+        "tms_id": "",
+        "description": "It's up to Harvey Birdman to find a way to remove President Phil Ken Sebben from office before everyone starts to worry it's more than the ridiculous plot to an animated show.",
+        "title_suggest": {
+            "input": [
+                "Harvey Birdman: Attorney General",
+                "Birdman: Attorney General",
+                "Attorney General",
+                "General"
+            ]
+        },
+        "title": "Harvey Birdman: Attorney General",
+        "expiration_date": 2085368400,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 1358.97,
+        "episode_number": "",
+        "original_air_date": null,
+        "auth_launch_date": 1539588600,
+        "clip_order": null,
+        "media_id": "899e7435482246c253c731d7f1a285512bd14868",
+        "modified": 1577125324,
+        "airing_id": "RADS1004261900086826",
+        "id": "AWZU86Vjh5enQuYyJHz2",
+        "slug": "harvey-birdman-attorney-general",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153920904288120.jpg",
+        "created": 1539023545,
+        "season_number": "5",
+        "title_id": "2171342",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1577125324,
+        "tags": [],
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "modified_by": "ODT Listener",
+        "launch_date": 1556550000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153920904288120.jpg"
     },
     {
         "auth": false,
@@ -135,7 +185,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1569988800,
-        "modified": 1573902860,
+        "modified": 1577125327,
         "media_id": "21cd39392fe5c3e32e3253160cd90468c6eb5ffc",
         "airing_id": "RADS1011151900037737",
         "id": "HNjtLY7YSfGsyamMtzshQQ",
@@ -150,7 +200,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1573902860,
+        "published": 1577125327,
         "tags": [
             "harvey birdman episode attorney at law 18 gone efficient dvd david"
         ],
@@ -188,7 +238,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1571198400,
-        "modified": 1575113303,
+        "modified": 1577125325,
         "media_id": "96e054090ee35ecec84cf5c8f417beee6ab97f48",
         "airing_id": "RADS1011271900041799",
         "id": "Is1KrFH1R_Stop1kEZztQA",
@@ -203,7 +253,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575113303,
+        "published": 1577125325,
         "tags": [
             "harvey birdman episode attorney at law 20 guitar control quick draw mcgraw charlton heston guns el kabong"
         ],
@@ -241,7 +291,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1576040400,
-        "modified": 1575653763,
+        "modified": 1577125325,
         "media_id": "8943256045fc8d84f58dac479bc94fb49172ac29",
         "airing_id": "RADS1012061900044511",
         "id": "UEaQOAVIS8uLlXDdU7D3qA",
@@ -256,7 +306,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575653763,
+        "published": 1577125325,
         "tags": [
             "harvey birdman attorney at law episode 28 free magilla peebles animal rights activists nephews"
         ],
@@ -294,7 +344,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1571803200,
-        "modified": 1575851285,
+        "modified": 1577125326,
         "media_id": "084d002dca42c56b9a1d31fb679f240c7d90f100",
         "airing_id": "RADS1012081900044835",
         "id": "YUYVDTo0RXGWzH6GMlRNnw",
@@ -309,7 +359,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575851285,
+        "published": 1577125326,
         "tags": [
             "harvey birdman attorney at law episode 21 booty noir reducto black lightning butt shrink girlfriend love sex wally gator redneck"
         ],
@@ -347,7 +397,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1572408000,
-        "modified": 1576503861,
+        "modified": 1577125327,
         "media_id": "8e2cb9989758726bb882a4b12a086ace9f90c081",
         "airing_id": "RADS1012151900047003",
         "id": "ksIe2P-IQ4SQrgo6Y-6DNA",
@@ -362,7 +412,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1576503861,
+        "published": 1577125327,
         "tags": [
             "harvey birdman attorney at law episode 22 civvy shado brain thief murro marauder class action lawsuit"
         ],
@@ -406,7 +456,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1575435600,
-        "modified": 1575024611,
+        "modified": 1577125326,
         "media_id": "c5519ff16153a69d40e2d0aa8f694b65492bd9e0",
         "airing_id": "RADS1011271900041785",
         "id": "mswc5q9DQRC_rm4hPKYhOg",
@@ -421,7 +471,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1575024611,
+        "published": 1577125326,
         "tags": [
             "harvey birdman attorney at law episode 27 turner classic birdman robert osbourne"
         ],
@@ -459,7 +509,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1570593600,
-        "modified": 1574568965,
+        "modified": 1577125326,
         "media_id": "d20dfe4d4de8337353ae15ec31222255dd281e27",
         "airing_id": "RADS1011241900039711",
         "id": "rVW1FR94Q1uCnRxISdlTrQ",
@@ -474,7 +524,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1574568965,
+        "published": 1577125326,
         "tags": [
             "harvey birdman episode attorney at law 19 droopy botox plastic surgery coupons"
         ],
@@ -512,7 +562,7 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1574830800,
-        "modified": 1574564668,
+        "modified": 1577125327,
         "media_id": "2fead297a70d9a27201da7bc4d3b7a371ce5511c",
         "airing_id": "RADS1011241900039691",
         "id": "z5R2a4W1QbCLHeXkQryhtQ",
@@ -527,7 +577,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1574564668,
+        "published": 1577125327,
         "tags": [],
         "rating_count": 1032,
         "collection_title": "Harvey Birdman, Attorney at Law",
