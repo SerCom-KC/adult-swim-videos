@@ -188,54 +188,6 @@
     },
     {
         "auth": false,
-        "auth_expiration_date": 1577172540,
-        "tms_id": "EP002960010004",
-        "rating": 7.366551,
-        "description": "Peter gets extremely annoyed when a wheelchair-bound neighbor one-ups him with his winning attitude and slick maneuvers at a company baseball game.\r\n",
-        "title_suggest": {
-            "input": [
-                "A Hero Sits Next Door",
-                "Hero Sits Next Door",
-                "Sits Next Door",
-                "Next Door",
-                "Door"
-            ]
-        },
-        "type": "episode",
-        "title": "A Hero Sits Next Door",
-        "expiration_date": 1499578199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1348.4137,
-        "episode_number": "5",
-        "auth_launch_date": 1576567800,
-        "modified": 1576275967,
-        "media_id": "0258f50cfab784efc85360fb45045dff6cd4e325",
-        "airing_id": "RADS1012131900046771",
-        "id": "FMw3L88VRxenLZ0e0ji4FA",
-        "slug": "a-hero-sits-next-door",
-        "views": 409829,
-        "created": 1402945465,
-        "title_id": "440995",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "published": 1576275967,
-        "tags": [
-            "family guy episode peter lois chris meg stewie joe wheelchair police grinch bank robbery hero sits next door baseball"
-        ],
-        "rating_count": 1154,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1498973400,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_16480.jpg",
-        "cma_id": "1424660"
-    },
-    {
-        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1557122340,
         "tms_id": "EP002960010315",
@@ -590,7 +542,7 @@
         "cma_id": "809300"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1577174340,
         "tms_id": "EP002960010034",
