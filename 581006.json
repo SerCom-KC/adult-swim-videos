@@ -97,6 +97,55 @@
         "cma_id": "1326905"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577854740,
+        "tms_id": "EP007164450226",
+        "description": "Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them.",
+        "title_suggest": {
+            "input": [
+                "Fight and Flight",
+                "and Flight",
+                "Flight"
+            ]
+        },
+        "title": "Fight and Flight",
+        "type": "episode",
+        "expiration_date": 1554130740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.97,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1577250000,
+        "clip_order": null,
+        "modified": 1576883168,
+        "media_id": "204b5cf0c24fb0a7ef617b2d33f4d1bd82480c6c",
+        "airing_id": "RADS1012201900049122",
+        "id": "2lgl7za3TEGrHYL2SIWJeQ",
+        "slug": "fight-and-flight",
+        "views": 1633,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151752473623420.jpg",
+        "created": 1479744636,
+        "title_id": "2069533",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576883168,
+        "first_published": 1479744636,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1553526000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg",
+        "cma_id": "1331342"
+    },
+    {
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1577426340,
@@ -394,54 +443,6 @@
         "launch_date": 1501041600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994031687518.jpg",
         "cma_id": "1438593"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1577249940,
-        "tms_id": "EP007164450238",
-        "description": "Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts.",
-        "title_suggest": {
-            "input": [
-                "Bazooka Steve",
-                "Steve"
-            ]
-        },
-        "title": "Bazooka Steve",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.1,
-        "episode_number": "12",
-        "original_air_date": null,
-        "auth_launch_date": 1576645200,
-        "clip_order": null,
-        "modified": 1576278007,
-        "media_id": "123955f7177e4d93e49b5e6257cfca8bbd43958e",
-        "airing_id": "RADS1012131900046786",
-        "id": "AitmXh48RkeeOF5Mpxu47w",
-        "slug": "bazooka-steve",
-        "views": 1397,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870777267015.jpg",
-        "created": 1496549449,
-        "title_id": "2069543",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1576278007,
-        "first_published": 1496549449,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg",
-        "cma_id": "1411253"
     },
     {
         "auth": true,
