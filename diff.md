@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 25, 2019 at 08:30:42 EST_
+_Last Update: December 25, 2019 at 11:00:40 EST_
 ## Video added
-### Summary
-581006 American Dad: 1  
-### 2069538
-**American Dad S12E07 - Ninety North, Zero West**  
-TV-14 🔒 21:14  
-⌛ January 1, 2020 at 07:59:00 EST  
-https://www.adultswim.com/videos/american-dad/ninety-north-zero-west  
-seriesid=`581006` titleid=`2069538` id=`tws7PtVrRlKyTN3PRz_gKQ` mediaid=`e374e0327ea852a8a2e8c3fbfdccb9a344bbec85`  
-_The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2128589 Lupin the 3rd Part 4: 1  
+### 2128610
+**Lupin the 3rd Part 4 S01E10 - Requiem for the Assassins**  
+TV-14-V 🔒 21:33  
+⌛ January 29, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/lupin-the-3rd-part-4/requiem-for-the-assassins  
+seriesid=`2128589` titleid=`2128610` id=`6EJ8q2kETj2b1llJ0KHgZQ` mediaid=`56f80423feb928e53496fa575fa63abc888fee5e`  
+_Sometime ago Goemon had been hired with other killers by the young Italian politician Leopoldo Flago in order to kill Samuel Decale, an African dictator, and his bodyguard, Zora, a legendary sniper._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087409977915.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087409977915.jpg" height="144px" /></a>
