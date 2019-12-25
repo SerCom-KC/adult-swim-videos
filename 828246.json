@@ -146,6 +146,54 @@
         "cma_id": "1389768"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1446738540,
+        "auth_expiration_date": 1580273940,
+        "tms_id": "EP013120360019",
+        "rating": 7.520408,
+        "description": "When the town's newest crime boss kills the town's favorite hardware merchant, the marshals use extreme measures to catch him. Plus: Doc Shades finds a second career. ",
+        "title_suggest": {
+            "input": [
+                "Beat Shack",
+                "Shack"
+            ]
+        },
+        "type": "episode",
+        "title": "Beat Shack",
+        "expiration_date": 1571889540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 676.8008008,
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1577250000,
+        "modified": 1576880903,
+        "media_id": "2550d23fd901aac5eb64961774cb241272de2d42",
+        "airing_id": "RADS1012201900049135",
+        "id": "OsdVH7xGQcSRyYSlWtcdFg",
+        "slug": "beat-shack",
+        "views": 18429,
+        "created": 1402945464,
+        "title_id": "892255",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1576880903,
+        "tags": [],
+        "rating_count": 98,
+        "collection_title": "Eagleheart",
+        "modified_by": "ODT Listener",
+        "launch_date": 1568865600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_210_pt1-05.jpg",
+        "cma_id": "1394219"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1446739080,
         "auth_expiration_date": 1568174340,
@@ -244,57 +292,6 @@
         "launch_date": 1566446400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_202_pt2-04.jpg",
         "cma_id": "1378541"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446738360,
-        "auth_expiration_date": 1577249940,
-        "tms_id": "EP013120360014",
-        "rating": 7.604651,
-        "description": "Brett's cherished bezoar turns out to be more than he bargained for.",
-        "title_suggest": {
-            "input": [
-                "Bringing Up Beezor",
-                "Up Beezor",
-                "Beezor"
-            ]
-        },
-        "type": "episode",
-        "title": "Bringing Up Beezor",
-        "expiration_date": 1568865540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 676.2669336,
-        "episode_number": "2",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574226000,
-        "modified": 1573873105,
-        "media_id": "55465e2ac41f4fb15b41b1fba377aa86ec4b471a",
-        "airing_id": "RADS1011151900037713",
-        "id": "fJDgR6kcR72usddjQRtZLw",
-        "slug": "bringing-up-beezor",
-        "views": 13565,
-        "thumbnail": "",
-        "created": 1402945464,
-        "title_id": "892250",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573873105,
-        "tags": [],
-        "rating_count": 43,
-        "collection_title": "Eagleheart",
-        "modified_by": "ODT Listener",
-        "launch_date": 1565841600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_205_pt2-04.jpg",
-        "cma_id": "1373616"
     },
     {
         "auth": false,
