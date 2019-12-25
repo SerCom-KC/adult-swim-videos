@@ -50,6 +50,58 @@
         "cma_id": "1466579"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447784280,
+        "auth_expiration_date": 1580273940,
+        "tms_id": "EP008994530021",
+        "rating": 7.6751175,
+        "description": "Tim returns from the grave with a special gift. Paninis smell like horse.\r\n(John C. Reilly)",
+        "title_suggest": {
+            "input": [
+                "Resurrection"
+            ]
+        },
+        "type": "episode",
+        "title": "Resurrection",
+        "expiration_date": 1559833140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 694.006,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1577250000,
+        "modified": 1576883168,
+        "media_id": "d7f6324b06a1c99b3310316e533aa5847fa57822",
+        "airing_id": "RADS1012201900049121",
+        "id": "0kLXvBSvSG-9hWX6RBbP3w",
+        "slug": "resurrection",
+        "views": 345526,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945482,
+        "title_id": "723265",
+        "season_number": "3",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1576883168,
+        "tags": [
+            "tim eric awesome show great job episode 21 resurrection season premiere return steve brule paninis griddleman"
+        ],
+        "rating_count": 3195,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1556809200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_301_pt2-03.jpg",
+        "cma_id": "1328371"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1450715220,
         "auth_expiration_date": 1567569540,
@@ -542,58 +594,6 @@
         "launch_date": 1574312400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_510_pt2-04.jpg",
         "cma_id": "1449275"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447784100,
-        "auth_expiration_date": 1577249940,
-        "tms_id": "EP008994530020",
-        "rating": 7.635538,
-        "description": "Carol's worst fear is realized after revealing a secret tape she made for Mr. Henderson. (AD Miles)",
-        "title_suggest": {
-            "input": [
-                "Carol"
-            ]
-        },
-        "type": "episode",
-        "title": "Carol",
-        "expiration_date": 1556809140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 670.003,
-        "episode_number": "7",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574226000,
-        "modified": 1573871412,
-        "media_id": "07f567a0a3b65006540a69118b6d818c9f9ac31c",
-        "airing_id": "RADS1011151900037736",
-        "id": "ny9vR2SHSCK0xVTS3n6KqQ",
-        "slug": "carol",
-        "views": 680409,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945482,
-        "title_id": "691943",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573871412,
-        "tags": [
-            "time and eric awesome show great job episode 17 carol mr mister henderson secret tape love fantasy"
-        ],
-        "rating_count": 4626,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1553785200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_207_pt1-03.jpg",
-        "cma_id": "1309446"
     },
     {
         "auth": true,
