@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 25, 2019 at 03:00:45 EST_
+_Last Update: December 25, 2019 at 08:30:42 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-440990 Family Guy: 1  
-### 748760
-**Family Guy S08E09 - Business Guy**  
-TV-14 🔒 21:01  
-⌛ December 25, 2019 at 02:59:00 EST  
-https://www.adultswim.com/videos/family-guy/business-guy  
-seriesid=`440990` titleid=`748760` id=`8HoFRu4ISe-YQtoF7hS7RQ` mediaid=`85a320ce455f661354865d390bd48573851d471b`  
-_When Mr. Pewterschmidt has a heart attack, Peter takes over his business._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8392515885556995828.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8392515885556995828.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 2069538
+**American Dad S12E07 - Ninety North, Zero West**  
+TV-14 🔒 21:14  
+⌛ January 1, 2020 at 07:59:00 EST  
+https://www.adultswim.com/videos/american-dad/ninety-north-zero-west  
+seriesid=`581006` titleid=`2069538` id=`tws7PtVrRlKyTN3PRz_gKQ` mediaid=`e374e0327ea852a8a2e8c3fbfdccb9a344bbec85`  
+_The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
