@@ -306,6 +306,56 @@
     },
     {
         "ott_launch_date": 1557757800,
+        "auth_expiration_date": 1580360340,
+        "tms_id": "EP013726210036",
+        "description": "A charismatic, new leader comes to Hell, and Gary gets shoehorned into an ancient prophecy.",
+        "title_suggest": {
+            "input": [
+                "The High Heel",
+                "High Heel",
+                "Heel"
+            ]
+        },
+        "title": "The High Heel",
+        "expiration_date": 1576126740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 673.42,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1577336400,
+        "clip_order": null,
+        "media_id": "12a8686dec0cfbdc93fc74a80a2189d569de3c70",
+        "modified": 1576938863,
+        "airing_id": "RADS1012201900049183",
+        "slug": "the-high-heel",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15574290498536.jpg",
+        "created": 1556816323,
+        "season_number": "4",
+        "title_id": "2191444",
+        "tv_rating": "tv-ma-ls",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576938863,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1573102800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15574290498536.jpg",
+        "id": "AWp5e-VZAScUIg8XxfZ-",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1557757800,
         "auth_expiration_date": 1579755540,
         "tms_id": "EP013726210037",
         "description": "Satan taps into the youth market with a hot, new board game.",
@@ -399,55 +449,6 @@
         "launch_date": 1576126800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15598401267412.jpg",
         "id": "AWp5g9Z2AScUIg8XxfaD",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1574312340,
-        "tms_id": "",
-        "description": "An outdated rule, a basket of law rocks, and Gary stand between a devout barbecue purveyor and eternal damnation.",
-        "title_suggest": {
-            "input": [
-                "Trial by Gary",
-                "by Gary",
-                "Gary"
-            ]
-        },
-        "title": "Trial by Gary",
-        "expiration_date": 1577336340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 675.88,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1571284800,
-        "clip_order": null,
-        "media_id": "c29711fccdfd0c63fd6073d32cbd846cf252649c",
-        "modified": 1573904526,
-        "airing_id": "RADS1010111900027046",
-        "slug": "trial-by-gary",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155802479320520.jpg",
-        "created": 1556816611,
-        "season_number": "4",
-        "title_id": "2191440",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1573904526,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1574312400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg",
-        "id": "AWp5gEnSHl5gR6828zZS",
         "auth": false
     },
     {
@@ -644,7 +645,7 @@
         "launch_date": 1577336400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg",
         "id": "AWp5hbdAAScUIg8XxfaF",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
