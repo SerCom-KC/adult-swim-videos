@@ -53,6 +53,52 @@
     {
         "auth": false,
         "ott_launch_date": 1446763260,
+        "tms_id": "EP008626240019",
+        "rating": 8.44262,
+        "description": "Wendell visits a friend.\r\n",
+        "title_suggest": {
+            "input": [
+                "The Middle",
+                "Middle"
+            ]
+        },
+        "type": "episode",
+        "title": "The Middle",
+        "expiration_date": 1580360340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 660,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1576919768,
+        "airing_id": "RADS1012201900049139",
+        "media_id": "bb808297a3bf62322998e7615404a326ac9d15e7",
+        "id": "kVcPR8gzThiqUUgC7vSUnQ",
+        "slug": "the-middle",
+        "views": 652147,
+        "created": 1402945466,
+        "title_id": "677653",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1576919768,
+        "tags": [],
+        "rating_count": 2126,
+        "collection_title": "Frisky Dingo",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577336400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-middle/fd_019_bim.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446763260,
         "tms_id": "EP008626240018",
         "rating": 8.265304,
         "description": "Killface acquires an item for the home.\r\n\r\n",
@@ -94,61 +140,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-miracle/fd_018_bim.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446763140,
-        "auth_expiration_date": null,
-        "tms_id": "EP008626240014",
-        "rating": 7.930254,
-        "description": "Killface makes an important career decision.",
-        "title_suggest": {
-            "input": [
-                "Behold a Dark Horse",
-                "a Dark Horse",
-                "Dark Horse",
-                "Horse"
-            ]
-        },
-        "type": "episode",
-        "title": "Behold a Dark Horse",
-        "expiration_date": 1577336340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 654.023,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1573893142,
-        "media_id": "99257cbd5e84b4882dab0bf567d54b293bc2f197",
-        "airing_id": "RADS1011151900037735",
-        "id": "rqF5mgwaSvqGueuxzbridQ",
-        "slug": "behold-a-dark-horse",
-        "views": 596210,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945466,
-        "title_id": "677648",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573893142,
-        "tags": [
-            "frisky dingo episode 14 201 killface president campaign running mate"
-        ],
-        "rating_count": 4373,
-        "collection_title": "Frisky Dingo",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574312400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/behold-a-dark-horse/fd_014_bim.jpg",
         "cma_id": ""
     },
     {

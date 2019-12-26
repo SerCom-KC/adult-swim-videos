@@ -100,6 +100,57 @@
         "cma_id": "2128606"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577289540,
+        "tms_id": "EP027028650010",
+        "description": "Sometime ago Goemon had been hired with other killers by the young Italian politician Leopoldo Flago in order to kill Samuel Decale, an African dictator, and his bodyguard, Zora, a legendary sniper.",
+        "title_suggest": {
+            "input": [
+                "Requiem for the Assassins",
+                "for the Assassins",
+                "the Assassins",
+                "Assassins"
+            ]
+        },
+        "expiration_date": 1580360340,
+        "title": "Requiem for the Assassins",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1293.9342676,
+        "collection_id": "kQEL4HvBQheyH0IH9yiFfQ",
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1564585200,
+        "modified": 1576936094,
+        "media_id": "56f80423feb928e53496fa575fa63abc888fee5e",
+        "airing_id": "RADS1012201900049156",
+        "id": "6EJ8q2kETj2b1llJ0KHgZQ",
+        "slug": "requiem-for-the-assassins",
+        "views": 791,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151087409977915.jpg",
+        "created": 1497642271,
+        "season_number": "1",
+        "title_id": "2128610",
+        "tv_rating": "tv-14-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1576936094,
+        "first_published": 1503475840,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 4",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577336400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087409977915.jpg",
+        "cma_id": "2128610"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1577894340,
@@ -906,7 +957,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1583643540,
         "tms_id": "EP027028650005",

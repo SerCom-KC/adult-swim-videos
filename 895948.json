@@ -980,6 +980,58 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1560956340,
+        "tms_id": "EP015632430020",
+        "rating": 8.39644,
+        "description": "Season finale. You've seen the show. You get it.",
+        "title_suggest": {
+            "input": [
+                "Scott Porter /  Brutus \"The Barber\" Beefcake",
+                "Porter /  Brutus \"The Barber\" Beefcake",
+                "/  Brutus \"The Barber\" Beefcake",
+                " Brutus \"The Barber\" Beefcake"
+            ]
+        },
+        "type": "episode",
+        "title": "Scott Porter /  Brutus \"The Barber\" Beefcake",
+        "expiration_date": 1580360340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 651.5338672,
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1557932400,
+        "modified": 1576919524,
+        "media_id": "103240cbbcbe7a1f84a92bc1f0cd98a036a0d49b",
+        "airing_id": "RADS1012201900049153",
+        "id": "cZ0yD_p3TrOH6loZLUtP6w",
+        "slug": "scott-porter-brutus-the-barber-beefcake",
+        "views": 40402,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945479,
+        "title_id": "2012288",
+        "season_number": "2",
+        "tv_rating": "tv-14-lsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1576919524,
+        "tags": [],
+        "rating_count": 449,
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577336400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_020_pt2_3kn5x-04.jpg",
+        "cma_id": "2012288"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
         "description": "Rough gig at that size.",
         "title_suggest": {
             "input": [
@@ -1318,60 +1370,5 @@
         "launch_date": 1576126800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_018_pt2_L4rgE-02.jpg",
         "cma_id": "2012286"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446740220,
-        "auth_expiration_date": 1557327540,
-        "tms_id": "EP015632430015",
-        "rating": 7.719426,
-        "description": "Interviews with James Van Der Beek and Steve-O; Chef Rory Scovel; Special guest T-Pain.",
-        "title_suggest": {
-            "input": [
-                "James Van Der Beek / Steve-O",
-                "Van Der Beek / Steve-O",
-                "Der Beek / Steve-O",
-                "Beek / Steve-O",
-                "/ Steve-O",
-                "Steve-O"
-            ]
-        },
-        "type": "episode",
-        "title": "James Van Der Beek / Steve-O",
-        "expiration_date": 1577336340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 676,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1554303600,
-        "modified": 1573900210,
-        "media_id": "2c0b1e210c969ac56647b8197d6c70ec76ca784b",
-        "airing_id": "RADS1011151900037734",
-        "id": "zrbmU4ZiQk6TbiXPn4Y9aA",
-        "slug": "james-van-der-beek-steve-o",
-        "views": 50272,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945479,
-        "title_id": "2012283",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573900210,
-        "tags": [],
-        "rating_count": 417,
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574312400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_015_pt2_f4nzr-03.jpg",
-        "cma_id": "1467498"
     }
 ]
