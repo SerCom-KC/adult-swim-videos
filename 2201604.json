@@ -94,7 +94,7 @@
         "launch_date": 1576126800,
         "poster": "https://media.cdn.adultswim.com/uploads/20190919/thumbnails/2_19919125289-genlock_008.jpg",
         "id": "AW1KcEn-adNs2hMNft_J",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -142,6 +142,55 @@
         "launch_date": 1576731600,
         "poster": "https://media.cdn.adultswim.com/uploads/20190802/thumbnails/2_19821143100-GenLock_001_dup-20190628.jpg",
         "id": "AWxOWf2OCorLtcgfltVd",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577163599,
+        "tms_id": "EP032701900007",
+        "description": "Earth, 2072. Chase tries reconnecting with Miranda and the Vanguard. Doc's new recruits arrive with more than a few questions and one perilous secret.",
+        "title_suggest": {
+            "input": [
+                "There's Always Tomorrow",
+                "Always Tomorrow",
+                "Tomorrow"
+            ]
+        },
+        "title": "There's Always Tomorrow",
+        "type": "episode",
+        "expiration_date": 1578545999,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWvnoDt9CorLtcgflsOx",
+        "duration": 1440.806,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1573534800,
+        "clip_order": null,
+        "airing_id": "RADS1012201900049143",
+        "media_id": "e7c21907e71d2a4314dea4c69f669c8ff3d211bc",
+        "modified": 1576922666,
+        "slug": "theres-always-tomorrow",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190809/thumbnails/1_19891059275-genlock_002_dup-20190723.jpg",
+        "created": 1565203424,
+        "title_id": "2201606",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576922666,
+        "tags": [],
+        "collection_title": "gen:LOCK",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1577336400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20190809/thumbnails/2_19891059275-genlock_002_dup-20190723.jpg",
+        "id": "AWxtZOXwCorLtcgflteV",
         "auth": false
     },
     {
