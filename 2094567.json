@@ -242,53 +242,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154041407499920.jpg"
     },
     {
-        "ott_launch_date": 1541431740,
-        "auth": false,
-        "auth_expiration_date": 1580446740,
-        "tms_id": "",
-        "description": "A very pregnant Patient 6 visits Dream Corp LLC desperate to be cured of her strange addiction to eating couch cushions. Randy makes a cyst popping video.",
-        "title_suggest": {
-            "input": [
-                "Woomba"
-            ]
-        },
-        "expiration_date": 1577336340,
-        "type": "episode",
-        "title": "Woomba",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 677.5,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1577422800,
-        "clip_order": null,
-        "media_id": "a527324752d2c29fdcce449b1f40c123823dc81c",
-        "modified": 1577184365,
-        "airing_id": "RADS1011241900039705",
-        "id": "AWG_IUn4NWyh42wYnk9K",
-        "slug": "woomba",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15410225192671.jpg",
-        "created": 1519330085,
-        "season_number": "2",
-        "title_id": "2133689",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1577184365,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574917200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15410225192671.jpg"
-    },
-    {
         "ott_launch_date": 1542036540,
         "auth_expiration_date": 1573793940,
         "tms_id": "",
@@ -431,6 +384,54 @@
         "launch_date": 1576126800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154160540169415.jpg",
         "id": "AWLVU03eTdxzjxdCldX1",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1542641400,
+        "auth_expiration_date": 1574398740,
+        "tms_id": "",
+        "description": "Patient 30 visits Dream Corp LLC for treatment of a long list of \"symptoms.\" A chemical spill in the Lab puts the facility on lock down. A new side of Ahmed is revealed while 88 is put in grave danger.",
+        "title_suggest": {
+            "input": [
+                "Staff Infection",
+                "Infection"
+            ]
+        },
+        "expiration_date": 1579755540,
+        "type": "episode",
+        "title": "Staff Infection",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.6,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1571371200,
+        "clip_order": null,
+        "media_id": "d01f3050a693271ee1c64b08ace75a38f5c8b6e8",
+        "modified": 1576915045,
+        "airing_id": "RADS1012201900049150",
+        "slug": "staff-infection",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154221706621913.jpg",
+        "created": 1531767336,
+        "season_number": "2",
+        "title_id": "2133693",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1576915045,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577336400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221706621913.jpg",
+        "id": "AWSkcq60qBveI_0AhK5D",
         "auth": false
     },
     {
