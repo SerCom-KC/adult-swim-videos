@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 26, 2019 at 03:00:42 EST_
+_Last Update: December 26, 2019 at 03:30:47 EST_
 ## Video added
 ### Summary
 440990 Family Guy: 1  
-### 809256
-**Family Guy S11E14 - Call Girl**  
-TV-14 🔒 21:30  
-⌛ January 2, 2020 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/call-girl  
-seriesid=`440990` titleid=`809256` id=`ip5eNHIaTgGVbgYQffzZvA` mediaid=`6a5ff431673bee9b61752d142e17aa0742818916`  
-_When Peter loses the family's money, Lois takes a job as a phone sex operator._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15366039830015.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15366039830015.jpg" height="144px" /></a>
+### 809134
+**Family Guy S11E16 - 12 and a Half Angry Men**  
+TV-14 🔒 21:25  
+⌛ January 2, 2020 at 02:59:00 EST  
+https://www.adultswim.com/videos/family-guy/12-and-a-half-angry-men  
+seriesid=`440990` titleid=`809134` id=`9TxOhamRRhqwdFWUfGaKPw` mediaid=`f2286ba61186c02611193d47be4f54654b38cbf5`  
+_Mayor West goes on trial for murder after his aide is found stabbed to death._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227747479499.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227747479499.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 440990 Family Guy: 1  
-### 441035
-**Family Guy S03E16 - A Very Special Family Guy Freakin' Christmas**  
-TV-14 🔒 21:14  
-⌛ December 26, 2019 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/a-very-special-family-guy-freakin-christmas  
-seriesid=`440990` titleid=`441035` id=`t2cZY6oqSu-9IBoWejb_Ug` mediaid=`8d5422401fc2591ae3a7f8dbffbf3f8a93a61b05`  
-_The Griffins have a Merry Christmas even though Lois and her carefully laid holiday plans fall apart; Stewie is convinced there really is a Santa Claus._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15283833201229.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15283833201229.jpg" height="144px" /></a>
+### 809268
+**Family Guy S13E06 - The 2000-Year-Old-Virgin**  
+TV-14 🔓 21:23  
+⌛ December 26, 2019 at 02:59:00 EST  
+https://www.adultswim.com/videos/family-guy/the-2000-year-old-virgin  
+seriesid=`440990` titleid=`809268` id=`CDdDqXbLR4afv_4nIH-kWQ` mediaid=`8a44b8c36d6778ec8401245911377717904f26d4`  
+_It's Christmas time in Quahog! While shopping at the local mall for gifts, Peter and Lois run into an old friend, Jesus Christ. Over drinks, Peter and the gang discover Jesus is a virgin. Peter won't have it, and makes it his mission to get Jesus a girlfriend._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240010718394.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240010718394.jpg" height="144px" /></a>
