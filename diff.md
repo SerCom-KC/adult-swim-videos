@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 27, 2019 at 01:30:41 EST_
+_Last Update: December 27, 2019 at 02:00:39 EST_
 ## Video added
 ### Summary
 581006 American Dad: 1  
-### 2012717
-**American Dad S09E21 - A Boy Named Michael**  
-TV-14 🔒 21:32  
-⌛ January 3, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/american-dad/a-boy-named-michael  
-seriesid=`581006` titleid=`2012717` id=`nD8GXuxMS1i_2tY3lsuaeQ` mediaid=`cb882ae5aba602a125fc7436becfb91a1c858ced`  
-_Greg and Terry decide to adopt a ten-year-old Russian boy named Michael.  At a party celebrating the decision, Roger is jealous of Greg and Terry's fabulous lifestyle of culture and sophistication.  Roger rejects the Smith family as trashy and impersonates Michael, successfully integrating into his new home._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg" height="144px" /></a>
+### 2012718
+**American Dad S09E20 - The Longest Distance Relationship**  
+TV-14 🔒 21:29  
+⌛ January 3, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/american-dad/the-longest-distance-relationship  
+seriesid=`581006` titleid=`2012718` id=`-_KxrHo3QzavOte0INnaOA` mediaid=`e143715f446287316857fb4ad3495be8d050972c`  
+_Hayley is injured in a fire and while she is in the hospital she meets Millionaire Matt Davis.  As Hayley and Matt fall in love, Steve discovers Jeff Fischer is still alive in outer space.  Jeff and Hayley communicate via an old CB radio and Jeff asks Hayley to stay true to him while he finds a way back to Earth._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 2069561
-**American Dad S13E08 - Santa, Schmanta**  
-TV-14-DLV 🔓 21:02  
-⌛ January 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/santa-schmanta  
-seriesid=`581006` titleid=`2069561` id=`AWBGBvYswdpKFAKSb0FM` mediaid=`6aa8247b1afbf690eeefce7bc6e77a755e93cd3a`  
-_Roger turns his attention to Steve's friend Snot who teaches him about Hanukkah, prompting him to convert to Judaism. Roger then decides to make Hanukkah more popular than Christmas by stealing Santa's powers, and becoming Schmanta Claus._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2171437
+**Bob's Burgers S08E06 - The Bleakening Part 1**  
+TV-PG-DL 🔒 21:41  
+⌛ December 27, 2019 at 01:29:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-bleakening-part-1  
+seriesid=`2003422` titleid=`2171437` id=`AWd1MFj-qD68dq0Op5rc` mediaid=`9fa33279ac79cbb83f2cd4a35ca83a04cc69d149`  
+_Linda is determined to host a party at the restaurant in order to spread a little cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she begins questioning all the guests._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444603910052.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444603910052.jpg" height="144px" /></a>
