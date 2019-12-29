@@ -200,6 +200,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1578205740,
+        "tms_id": "EP002960010233",
+        "description": "When a crime spree sweeps through Quahog, the Griffins move to the safety of a farm, where they're forced to open a meth lab to make ends meet.",
+        "title_suggest": {
+            "input": [
+                "Farmer Guy",
+                "Guy"
+            ]
+        },
+        "title": "Farmer Guy",
+        "type": "episode",
+        "expiration_date": 1497088799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1290.8229,
+        "episode_number": "20",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1577601000,
+        "modified": 1577172365,
+        "media_id": "835bbbbf4d073a1538cacd81915982611ab5de46",
+        "airing_id": "RADS1012231900049240",
+        "id": "W5WndSoRRDmWKILpdLWSfA",
+        "slug": "farmer-guy",
+        "views": 769,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277478414819.jpg",
+        "created": 1411574744,
+        "season_number": "11",
+        "title_id": "809262",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1577172365,
+        "first_published": 1411574744,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1496484000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277478414819.jpg",
+        "cma_id": "1408023"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1577602740,
         "tms_id": "EP002960010244",
         "description": "The Griffins visit the Quahog Mall for the Christmas Carnival only to find that it has been canceled. Upset, Stewie begins to act out.",
@@ -390,52 +438,6 @@
         "launch_date": 1496212200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15366039830015.jpg",
         "cma_id": "1405578"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1577600940,
-        "tms_id": "EP002960010219",
-        "description": "As Christmas approaches...Peter tells the story of the Nativity, with friends and family members appearing as biblical characters.",
-        "title_suggest": {
-            "input": [
-                "Jesus, Mary and Joseph!",
-                "Mary and Joseph!",
-                "and Joseph!",
-                "Joseph!"
-            ]
-        },
-        "title": "Jesus, Mary and Joseph!",
-        "type": "episode",
-        "expiration_date": 1496483999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1291.0565,
-        "episode_number": "8",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1576996200,
-        "modified": 1576684411,
-        "media_id": "a335fbb1094e024e14aaea67a13581b0012154b3",
-        "airing_id": "RADS1012181900047430",
-        "id": "oXyOxdugSqagfg04R0yghQ",
-        "slug": "jesus-mary-and-joseph",
-        "views": 296,
-        "created": 1408425628,
-        "title_id": "809251",
-        "tv_rating": "tv-14",
-        "season_number": "11",
-        "active": false,
-        "published": 1576684411,
-        "first_published": 1408425628,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1495879200,
-        "poster": "",
-        "cma_id": "1403145"
     },
     {
         "auth": true,
