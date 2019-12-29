@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 29, 2019 at 06:00:43 EST_
+_Last Update: December 29, 2019 at 07:31:09 EST_
 ## Video added
-### Summary
-2143080 Black Clover: 1  
-2193955 JoJo's Bizarre Adventure: 1  
-### 2205122
-**Black Clover S02E96 - The Black Bulls Captain vs. the Crimson Wild Rose**  
- 🔓 21:26  
-⌛ January 5, 2020 at 05:29:00 EST  
-https://www.adultswim.com/videos/black-clover/the-black-bulls-captain-vs-the-crimson-wild-rose  
-seriesid=`2143080` titleid=`2205122` id=`AW4S8g2e1YiBSfg0KYDv` mediaid=`6b85ad980225b0e3642eee7e59003b96e671322d`  
-_It's Yami versus the elves: first Marx and Owen, then an elf-possessed Charlotte who seems bent on destroying the royal capital and everyone in it._  
-<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117576-BlackClover_096.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117576-BlackClover_096.jpg" height="144px" /></a>
-### 2193958
-**JoJo's Bizarre Adventure S04E02 - Bucciarati Appears**  
-TV-MA-L 🔓 23:34  
-⌛ January 5, 2020 at 05:29:00 EST  
-https://www.adultswim.com/videos/jo-jos-bizarre-adventure/bucciarati-appears  
-seriesid=`2193955` titleid=`2193958` id=`AW304U8n1YiBSfg0KX7g` mediaid=`d4bd3fd4431f083a0f81ee04f65a3e5e912bdf97`  
-_Eager to identify Leaky Eye Luca's attacker, Bucciarati confronts Giorno and unleashes a Stand attack to dismantle him piece by piece. But Giorno counters with his Stand Golden Wind, surprising not just his adversary, but also himself._  
-<a href="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022151108-jojo_goldenwind_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022151108-jojo_goldenwind_002.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2193927 Lupin the 3rd Part 5: 1  
+### 2193949
+**Lupin the 3rd Part 5 S01E22 - Answer Me, Zantetsuken**  
+TV-14-SV 🔓 22:05  
+⌛ December 29, 2019 at 06:59:00 EST  
+https://www.adultswim.com/videos/lupin-the-3rd-part-5/answer-me-zantetsuken  
+seriesid=`2193927` titleid=`2193949` id=`AW3057tmadNs2hMNfuWX` mediaid=`d40cd0c5f6465e7501ebe495befde478e2b79678`  
+_Fujiko has been captured. She's being held at Orig Island, the headquarters of Shake Hands. Lupin and the gang, including Ami, head there to find her._  
+<a href="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022151872-lupinthe3rdpt5_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022151872-lupinthe3rdpt5_022.jpg" height="144px" /></a>
