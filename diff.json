@@ -1,21 +1,24 @@
 {
-    "updated": 1577682345,
+    "updated": 1577682384,
     "added": [],
     "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Tracking someone down isn\u2019t always easy!",
+            "description": "Get ready to pull out all the stops!",
             "title_suggest": {
                 "input": [
-                    "Sneak Peek - Go!!",
-                    "Peek - Go!!",
-                    "- Go!!",
-                    "Go!!"
+                    "Sneak Peek \u2013 The Varieties of Pride",
+                    "Peek \u2013 The Varieties of Pride",
+                    "\u2013 The Varieties of Pride",
+                    "The Varieties of Pride",
+                    "Varieties of Pride",
+                    "of Pride",
+                    "Pride"
                 ]
             },
-            "title": "Sneak Peek - Go!!",
+            "title": "Sneak Peek \u2013 The Varieties of Pride",
             "expiration_date": 1577682000,
             "type": "clip",
             "platforms": [
@@ -25,33 +28,33 @@
                 "online-exclusive",
                 "roku"
             ],
-            "collection_id": "AWLf4YziHAeP4-pUPegM",
+            "collection_id": "xZSM7jD5QCe6QOiQJ_-sxQ",
             "duration": 14.97,
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "",
-            "modified": 1576785981,
-            "slug": "sneak-peek-go",
+            "modified": 1576783425,
+            "slug": "sneak-peek-the-varieties-of-pride",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191219/thumbnails/1_1912191414122-promo_Toonami_MHA_Top70_2Wks_15.jpg",
-            "created": 1576782877,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/1_191217133326-promo_OPM_Top23_2WEEKS.jpg",
+            "created": 1576607682,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1576785981,
+            "published": 1576783425,
             "tags": [],
-            "collection_title": "My Hero Academia",
+            "collection_title": "One-Punch Man",
             "disable_ads": false,
             "modified_by": "Duke Nguyen",
             "launch_date": 1577077200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191219/thumbnails/2_1912191414122-promo_Toonami_MHA_Top70_2Wks_15.jpg",
-            "id": "AW8flVQJGRcVO2K2pl-v",
+            "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217133326-promo_OPM_Top23_2WEEKS.jpg",
+            "id": "AW8VJA4bGRcVO2K2pl-Y",
             "auth": false,
-            "collection_slug": "my-hero-academia",
-            "collection_title_id": "2142267",
+            "collection_slug": "one-punch-man",
+            "collection_title_id": "2091991",
             "online_exclusives": true
         }
     ]
