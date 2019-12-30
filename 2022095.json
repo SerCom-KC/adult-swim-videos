@@ -1,106 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": 1449846000,
-        "auth_expiration_date": 1576040340,
-        "tms_id": "EP019635740016",
-        "description": "When Fish seduces a city worker into a no limit EBT card, he learns that free food can come at a high price.",
-        "title_suggest": {
-            "input": [
-                "Tasty Tudi's",
-                "Tudi's"
-            ]
-        },
-        "expiration_date": 1577681999,
-        "title": "Tasty Tudi's",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1328.019,
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1573016400,
-        "modified": 1576279703,
-        "media_id": "c9c6408ca2e8d17435d8bde0309c97ce972ac2a6",
-        "airing_id": "RADS1012131900046787",
-        "id": "292LqJ1IRZ21jtEDXgmLWw",
-        "slug": "tasty-tudis",
-        "views": 7,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1441735764,
-        "season_number": "2",
-        "title_id": "2065413",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1576279703,
-        "first_published": 1444983620,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576645200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/tasty-tudis/blackjesus_ep204_001_785yabgfiaowh24rf.jpg",
-        "cma_id": "1471533"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446576840,
-        "auth_expiration_date": 1574225940,
-        "tms_id": "EP019635740013",
-        "description": "When Vic misinterprets the gang's latest hustle as terrorist activity, he gears up to wage a one-man war against them.",
-        "title_suggest": {
-            "input": [
-                "False Witness",
-                "Witness"
-            ]
-        },
-        "expiration_date": 1577681999,
-        "title": "False Witness",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1312.24,
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1571198400,
-        "modified": 1575021269,
-        "media_id": "32186c11887f6d68cd2ae517ed031b80bcf7d7e6",
-        "airing_id": "RADS1011271900041775",
-        "id": "4zHadcClTG-MCR4fMZ9hMQ",
-        "slug": "false-witness",
-        "views": 6,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1441735726,
-        "season_number": "2",
-        "title_id": "2065416",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1575021269,
-        "first_published": 1443619218,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1575435600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/false-witness/blackjesus_ep207_002_brqpis870aRDys7Sbs_2.jpg",
-        "cma_id": "1461839"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": 1579496340,
         "tms_id": "EP019635740025",
@@ -146,7 +45,7 @@
         "launch_date": 1572075000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031312379-blackjesus_303_air_cid-3H69C.jpg",
         "id": "AW10wQdB1YiBSfg0KXUF",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -195,7 +94,7 @@
         "launch_date": 1570865400,
         "poster": "https://media.cdn.adultswim.com/uploads/20190917/thumbnails/2_19917168270-blackjesus_301_air_cid-3GPVP.jpg",
         "id": "AW1A19QS1YiBSfg0KW-v",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -243,7 +142,7 @@
         "launch_date": 1571470200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190919/thumbnails/2_19919135556-blackjesus_302_air_cid-3GVV1.jpg",
         "id": "AW1KfNrRadNs2hMNft_Q",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -388,7 +287,7 @@
         "launch_date": 1573284600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_191015112176-blackjesus_304_air_cid-3HKR8.jpg",
         "id": "AW2EUpIaadNs2hMNfuIp",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -436,7 +335,7 @@
         "launch_date": 1573889400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151121290-blackjesus_305_air_cid-3FYKV.jpg",
         "id": "AW2EUt0E1YiBSfg0KXXC",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -744,164 +643,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191025/thumbnails/2_19102591866-blackjesus_ep308_HomeysCourt_Sneak.jpg",
         "id": "AW4DEbNX1YiBSfg0KX_A",
         "auth": false
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1448057940,
-        "auth_expiration_date": 1574225940,
-        "tms_id": "EP019635740022",
-        "description": "Fed up with the commercialization of the holiday, Jesus makes a Christmas wish of his own. When it's granted, he's forced to face the unintended consequences of life without divinity.",
-        "title_suggest": {
-            "input": [
-                "A Very Special Christmas in Compton",
-                "Very Special Christmas in Compton",
-                "Special Christmas in Compton",
-                "Christmas in Compton",
-                "in Compton",
-                "Compton"
-            ]
-        },
-        "title": "A Very Special Christmas in Compton",
-        "type": "episode",
-        "expiration_date": 1577681999,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "duration": 1220.69,
-        "episode_number": "11",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1571803200,
-        "modified": 1573879702,
-        "media_id": "cf41f4072bd8ce8eb0cb87b17758eadfb2e1c049",
-        "airing_id": "RADS1010181900028657",
-        "id": "TPOPv-LxSmmnxejrrJSaEA",
-        "slug": "a-very-special-christmas-in-compton",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1448058033,
-        "season_number": "2",
-        "title_id": "2065420",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1573879702,
-        "first_published": 1448058033,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574226000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/a-very-special-christmas-in-compton/blackjesus_ep211_001_N8gag67gwlbBHSyus.jpg",
-        "cma_id": "2065420"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1449846000,
-        "auth_expiration_date": 1575435540,
-        "tms_id": "EP019635740015",
-        "description": "Jesus joins Ms. Tudi in her latest money-making scheme, a mobile spa van charging for Holy foot massages. The hustle puts Fish in an awkward position when Tudi soon decides it better to sell Fish's \"gift of sexiness\" instead.",
-        "title_suggest": {
-            "input": [
-                "Hands of God",
-                "of God",
-                "God"
-            ]
-        },
-        "expiration_date": 1577681999,
-        "title": "Hands of God",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1220.009,
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "episode_number": "4",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1572408000,
-        "modified": 1575654484,
-        "media_id": "de4795333de0d3a7678e9e2917e428d356a51bd5",
-        "airing_id": "RADS1012061900044515",
-        "id": "VYDrxYS2QIems-PLXd4peA",
-        "slug": "hands-of-god",
-        "views": 18,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1441735749,
-        "season_number": "2",
-        "title_id": "2065412",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1575654484,
-        "first_published": 1444292419,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576040400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/hands-of-god/blackjesus_ep203_001_typuioatge9892676augd.jpg",
-        "cma_id": "1467832"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446576780,
-        "auth_expiration_date": 1573621140,
-        "tms_id": "EP019635740012",
-        "description": "Jesus and the gang take on the \"Church of Jesus Christ in Compton\" and plot to teach its corrupt preacher a lesson.",
-        "title_suggest": {
-            "input": [
-                "Jesus Gonna Get His",
-                "Gonna Get His",
-                "Get His",
-                "His"
-            ]
-        },
-        "expiration_date": 1577681999,
-        "title": "Jesus Gonna Get His",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1338.012,
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "episode_number": "2",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1570593600,
-        "modified": 1574559872,
-        "media_id": "7320d3beab594c518ceb1dcb63ea974708b45932",
-        "airing_id": "RADS1011241900039683",
-        "id": "bvWmeZyISyyk9Hbp1uzKDw",
-        "slug": "jesus-gonna-get-his",
-        "views": 17,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152950376673216.jpg",
-        "created": 1441735699,
-        "season_number": "2",
-        "title_id": "2065411",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1574559872,
-        "first_published": 1443168626,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1574830800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152950376673216.jpg",
-        "cma_id": "1457335"
     },
     {
         "auth": false,

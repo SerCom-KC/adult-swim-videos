@@ -1,54 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1577681999,
-        "tms_id": "EP026601320052",
-        "description": "Team 7 enters the mine where the thieves had been hiding out, only to be attacked by a powerful, strange-looking White Zetsu.",
-        "title_suggest": {
-            "input": [
-                "Sasuke's Shadow",
-                "Shadow"
-            ]
-        },
-        "title": "Sasuke's Shadow",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWXtZtvdh5enQuYyIc4A",
-        "duration": 1371.0029,
-        "episode_number": "52",
-        "original_air_date": null,
-        "auth_launch_date": 1571565600,
-        "clip_order": null,
-        "airing_id": "RADS1010151900027422",
-        "media_id": "ccf8156dd0b921f20eb709a4da39a1f0dfdacb09",
-        "modified": 1571159304,
-        "slug": "sasukes-shadow",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/1_1910151256558-boruto_nextgenerations_052.jpg",
-        "created": 1571154970,
-        "title_id": "2168751",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1571159304,
-        "tags": [],
-        "collection_title": "Boruto: Naruto Next Generations",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151256558-boruto_nextgenerations_052.jpg",
-        "id": "AW3QIkZK1YiBSfg0KXyU",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1578891599,
         "tms_id": "EP026601320002",
@@ -434,6 +386,57 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325613668912.jpg",
         "id": "AWc3DnLqqD68dq0Op5cC",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583726340,
+        "tms_id": "EP026601320010",
+        "description": "Boruto nicknames the mysterious shadow \"The Ghost\" and is excited when he and his friends Shikadai and Mitsuki decide to solve the recent \"Ghost Incidents.\"",
+        "title_suggest": {
+            "input": [
+                "The Ghost Incident: The Investigation Begins!",
+                "Ghost Incident: The Investigation Begins!",
+                "Incident: The Investigation Begins!",
+                "The Investigation Begins!",
+                "Investigation Begins!",
+                "Begins!"
+            ]
+        },
+        "title": "The Ghost Incident: The Investigation Begins!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWXtZtvdh5enQuYyIc4A",
+        "duration": 1357.77,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1577682000,
+        "clip_order": null,
+        "airing_id": "RADS1012241900049644",
+        "media_id": "5409fa43fc2dd863a1f3be52b7758194e43db7ac",
+        "modified": 1577258065,
+        "slug": "the-ghost-incident-the-investigation-begins",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15441362279375.jpg",
+        "created": 1543859231,
+        "title_id": "2168709",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1577258065,
+        "tags": [],
+        "collection_title": "Boruto: Naruto Next Generations",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441362279375.jpg",
+        "id": "AWd1LlzHAsbXwNj3wAWN",
         "auth": true
     },
     {
