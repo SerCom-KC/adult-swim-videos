@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 31, 2019 at 08:00:39 EST_
+_Last Update: December 31, 2019 at 10:30:36 EST_
 ## Video added
 ### Summary
-2193927 Lupin the 3rd Part 5: 1  
-### 2193949
-**Lupin the 3rd Part 5 S01E22 - Answer Me, Zantetsuken**  
-TV-14-SV 🔓 22:05  
-⌛ May 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/lupin-the-3rd-part-5/answer-me-zantetsuken  
-seriesid=`2193927` titleid=`2193949` id=`AW3057tmadNs2hMNfuWX` mediaid=`d40cd0c5f6465e7501ebe495befde478e2b79678`  
-_Fujiko has been captured. She's being held at Orig Island, the headquarters of Shake Hands. Lupin and the gang, including Ami, head there to find her._  
-<a href="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022151872-lupinthe3rdpt5_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022151872-lupinthe3rdpt5_022.jpg" height="144px" /></a>
+2201017 Food Wars!: 1  
+### 2201034
+**Food Wars! S01E17 - Sensual Fried Chicken**  
+TV-MA-S 🔓 23:28  
+⌛ May 4, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/food-wars/sensual-fried-chicken  
+seriesid=`2201017` titleid=`2201034` id=`AW301ynZ1YiBSfg0KX7W` mediaid=`70be63090c0394f24c28e8c6651c4a586c14dd81`  
+_Over the break, Yukihira challenges a popular fried chicken shop to save his old shopping district. He's found a taste tester, but who can he call to help develop the recipe?_  
+<a href="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_19102215002-foodwars_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_19102215002-foodwars_017.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
