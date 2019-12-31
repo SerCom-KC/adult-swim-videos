@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 30, 2019 at 09:30:38 EST_
+_Last Update: December 31, 2019 at 00:00:38 EST_
 ## Video added
-### Summary
-830073 Off The Air: 1  
-### 2199314
-**Off The Air S09E04 - Patterns**  
-TV-PG 🔓 11:21  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/off-the-air/patterns  
-seriesid=`830073` titleid=`2199314` id=`AW8kLZlAGRcVO2K2pl_H` mediaid=`01fc1395b3da4c6edd4663aea5bee94959ad1deb`  
-_Watch, rinse, repeat._  
-<a href="https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2201604 gen:LOCK: 1  
+### 2201607
+**gen:LOCK S01E03 - Second Birthday**  
+TV-14-L 🔒 23:50  
+⌛ January 15, 2020 at 23:59:59 EST  
+https://www.adultswim.com/videos/gen-lock/second-birthday  
+seriesid=`2201604` titleid=`2201607` id=`AWyVqFBPCorLtcgfltrB` mediaid=`af84660a7421a7b52a4a36a299341bc1b187cd55`  
+_The Colonel raises concerns about Doc's residency. Chase feels the impact of absence, the new recruits are introduced to the potential of using gen:LOCK mecha for combat._  
+<a href="https://media.cdn.adultswim.com/uploads/20190816/thumbnails/2_198161139148-genlock_003_dup-20190725.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190816/thumbnails/2_198161139148-genlock_003_dup-20190725.jpg" height="144px" /></a>
