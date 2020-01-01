@@ -51,7 +51,7 @@
         "cma_id": "2012718"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1577854740,
         "tms_id": "EP007164450226",
@@ -250,6 +250,56 @@
         "launch_date": 1508389200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923987113810.jpg",
         "cma_id": "2012720"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578457740,
+        "tms_id": "EP007164450184",
+        "description": "Roger pushes himself to the breaking point by working non-stop at his dive bar.  When he suffers a heart attack, Roger decides to sell the bar to a company that promises to continue his vision.  Upon returning to visit, Roger sees that the dive bar has been completely remade as a family friendly restaurant.",
+        "title_suggest": {
+            "input": [
+                "Roger Passes the Bar",
+                "Passes the Bar",
+                "the Bar",
+                "Bar"
+            ]
+        },
+        "title": "Roger Passes the Bar",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1280.7128,
+        "episode_number": "22",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1577853000,
+        "modified": 1577640366,
+        "media_id": "b0bab8b5f91c35797409c652e52141d7e5da204d",
+        "airing_id": "RADS1012271900050433",
+        "id": "AUUluKMZS6OJ2XYUmGbT3Q",
+        "slug": "roger-passes-the-bar",
+        "views": 2216,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15198452312449.jpg",
+        "created": 1411570665,
+        "season_number": "9",
+        "title_id": "2012721",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1577640366,
+        "first_published": 1411570665,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg",
+        "cma_id": "2012721"
     },
     {
         "ott_launch_date": null,

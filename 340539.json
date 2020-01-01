@@ -157,6 +157,60 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153920904288120.jpg"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1446844680,
+        "auth_expiration_date": 1580878740,
+        "tms_id": "EP004625750032",
+        "rating": 8.753373,
+        "description": "Welcome to Sebben and Sebben, new employee!  In this eleven and a half minute romp through the halls of everyone's favorite fake animated law firm you'll learn what makes working here so special.  And that's not even including our unique approach to sexual harassment training.",
+        "title_suggest": {
+            "input": [
+                "Sebben and Sebben Employee Orientation",
+                "and Sebben Employee Orientation",
+                "Sebben Employee Orientation",
+                "Employee Orientation",
+                "Orientation"
+            ]
+        },
+        "type": "episode",
+        "title": "Sebben and Sebben Employee Orientation",
+        "expiration_date": 1561042740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 693.013,
+        "episode_number": "11",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1577854800,
+        "modified": 1577596326,
+        "media_id": "e854681d793e61d3188ef07ccc808f266b81dcbd",
+        "airing_id": "RADS1012271900050429",
+        "id": "DEw5h7XLQxKEd4_yDFK4eQ",
+        "slug": "sebben-and-sebben-employee-orientation",
+        "views": 345196,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945467,
+        "title_id": "627839",
+        "season_number": "3",
+        "tv_rating": "tv-14-ds",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1577596326,
+        "tags": [],
+        "rating_count": 1338,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "modified_by": "ODT Listener",
+        "launch_date": 1558018800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_032_pt2-02.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": false,
         "ott_launch_date": 1446844320,
         "auth_expiration_date": 1574225940,
@@ -528,57 +582,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1574917200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_019_pt1-02.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446844560,
-        "auth_expiration_date": 1577854740,
-        "tms_id": "EP004625750026",
-        "rating": 8.273256,
-        "description": "When Cavey Jr.'s school refuses to teach evolution, Captain Caveman turns to Harvey to defend the hairy little boy's right to an education.  Harvey not only has to prove evolution but also explain the existence of a  talking caveboy.  As if that's not enough, Harvey also suffers his latest existential crisis at the hands of Reducto.  A rousing song and dance number follows.",
-        "title_suggest": {
-            "input": [
-                "Evolutionary War",
-                "War"
-            ]
-        },
-        "type": "episode",
-        "title": "Evolutionary War",
-        "expiration_date": 1558018740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 693.013,
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574830800,
-        "modified": 1577125327,
-        "media_id": "2fead297a70d9a27201da7bc4d3b7a371ce5511c",
-        "airing_id": "RADS1011241900039691",
-        "id": "z5R2a4W1QbCLHeXkQryhtQ",
-        "slug": "evolutionary-war",
-        "views": 376792,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945467,
-        "title_id": "623489",
-        "season_number": "3",
-        "tv_rating": "tv-pg-s",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1577125327,
-        "tags": [],
-        "rating_count": 1032,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554994800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_026_pt2-04.jpg",
         "cma_id": ""
     }
 ]
