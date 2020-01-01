@@ -52,57 +52,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1577860140,
-        "tms_id": "EP012792980074",
-        "description": "At Bob's father's Christmas party, Bob and \"Big Bob\" rehash an old argument and try to outdo each other in the kitchen. Meanwhile, the kids compete to find the best gift for their dad.",
-        "title_suggest": {
-            "input": [
-                "Father of the Bob",
-                "of the Bob",
-                "the Bob",
-                "Bob"
-            ]
-        },
-        "expiration_date": 1564977540,
-        "title": "Father of the Bob",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1300.7340674,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577255400,
-        "modified": 1576883407,
-        "media_id": "681ca032a7df40b43a645f0c9a4ff96ad1a3df60",
-        "airing_id": "RADS1012201900049161",
-        "id": "2fdFjJsaSXygZtPs-pfBqg",
-        "slug": "father-of-the-bob",
-        "views": 13118,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1452627567,
-        "season_number": "5",
-        "title_id": "2065457",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1576883407,
-        "first_published": 1454386220,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1564372800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/father-of-the-bob/bobsburgers_418_air_cid-2PH4J.jpg",
-        "cma_id": "1471274"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1578202140,
         "tms_id": "EP012792980089",
         "description": "Bob and Louise are thrilled when they meet Hawk, star of their favorite 70's samurai vs. monster movies. When they find out Hawk is estranged from his daughter, who starred as Chick in his movies, they engineer a Hawk and Chick reunion.",
@@ -654,53 +603,5 @@
         "launch_date": 1556550000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg",
         "cma_id": "1480642"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1577861940,
-        "tms_id": "EP012792980095",
-        "description": "When a mall Santa threatens the kids with the Naughty List, Gene, Tina and Louise decide to put on a musical performance, which highlights all of their good deeds in order to earn their spot on the Nice List.",
-        "title_suggest": {
-            "input": [
-                "Nice-Capades"
-            ]
-        },
-        "title": "Nice-Capades",
-        "type": "episode",
-        "expiration_date": 1555340340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1282.0333667,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577257200,
-        "modified": 1577171409,
-        "media_id": "4b3a41de7edaa776480f7a051161a3bbdf205aff",
-        "airing_id": "RADS1012231900049198",
-        "id": "oaRxLGs_QGyPbnh9h2SL1A",
-        "slug": "nice-capades",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1485065443,
-        "title_id": "2097193",
-        "tv_rating": "tv-14",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1577171409,
-        "first_published": 1485065443,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554735600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/nice-capades/bobsburgers_518_air_cid-2X5HJ.jpg",
-        "cma_id": "1432573"
     }
 ]
