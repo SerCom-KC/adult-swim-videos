@@ -1,56 +1,6 @@
 [
     {
         "auth": false,
-        "ott_launch_date": 1446739860,
-        "auth_expiration_date": 1577854740,
-        "tms_id": "EP015632430008",
-        "rating": 8.368841,
-        "description": "Eric interviews Beyonce, JayZ and Robert Forster.",
-        "title_suggest": {
-            "input": [
-                "J-Mo"
-            ]
-        },
-        "type": "episode",
-        "title": "J-Mo",
-        "expiration_date": 1572494340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 676,
-        "episode_number": "7",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574830800,
-        "modified": 1574563461,
-        "media_id": "6b8842de9e77333d6a5eb93965e9ae11b41cd9d0",
-        "airing_id": "RADS1011241900039679",
-        "id": "0H1wpZnqTt6kICr-pzVFHw",
-        "slug": "j-mo",
-        "views": 146851,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945479,
-        "title_id": "895956",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1574563461,
-        "tags": [],
-        "rating_count": 1643,
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1569470400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_108_pt2-02.jpg",
-        "cma_id": "1435345"
-    },
-    {
-        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1558537140,
         "tms_id": "EP015632430016",
@@ -821,6 +771,56 @@
         "launch_date": 1486994400,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-lindsey-pelas/ericandre_HGOI_101_LindseyPelas.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580878740,
+        "tms_id": "EP015632430012",
+        "rating": 8.051198,
+        "description": "Interviews with Krysten Ritter and Dominic Monaghan; Musical guest Brian McKnight.",
+        "title_suggest": {
+            "input": [
+                "Krysten Ritter / Dominic Monaghan",
+                "Ritter / Dominic Monaghan",
+                "/ Dominic Monaghan",
+                "Dominic Monaghan",
+                "Monaghan"
+            ]
+        },
+        "type": "episode",
+        "title": "Krysten Ritter / Dominic Monaghan",
+        "expiration_date": 1575521940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 677.4337671,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1577854800,
+        "modified": 1577536210,
+        "media_id": "458499808aa024f3d5f45be017163421592afcbe",
+        "airing_id": "RADS1012271900050426",
+        "id": "VVeJC3Q8RRSfzC-T-8ZvSQ",
+        "slug": "krysten-ritter-dominic-monaghan",
+        "views": 40851,
+        "created": 1402945479,
+        "title_id": "2012280",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1577536210,
+        "tags": [],
+        "rating_count": 293,
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1572494400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_012_pt1_fu94h-05.jpg",
+        "cma_id": "1453261"
     },
     {
         "auth": true,
