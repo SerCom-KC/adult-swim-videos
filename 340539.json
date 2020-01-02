@@ -421,6 +421,61 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1446844500,
+        "auth_expiration_date": 1576645140,
+        "tms_id": "EP004625750024",
+        "rating": 8.784566,
+        "description": "Phil brings his daughter to work and around the same time, Birdgirl makes an appearance in Harvey's office.  Desperate to be a part of the Birdteam--heck, desperate for there to even BE a Birdteam--Birdgirl sets out to prove her superhero and litigating and superhero litigating skills in the offices of Sebben and Sebben.  She arrives just in time to help Harvey defend Morocco Mole on charges of being an enemy combatant.  Oh, and Phil has the hots for Birdgirl, who may or may not be his daughter.",
+        "title_suggest": {
+            "input": [
+                "Bird Girl of Guantanamole",
+                "Girl of Guantanamole",
+                "of Guantanamole",
+                "Guantanamole"
+            ]
+        },
+        "type": "episode",
+        "title": "Bird Girl of Guantanamole",
+        "expiration_date": 1580965140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 691.017,
+        "episode_number": "4",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573621200,
+        "modified": 1577585537,
+        "media_id": "32b4144081a29fb810ee615935b19e2315bf14e3",
+        "airing_id": "RADS1012271900050447",
+        "id": "hWz10M4RR-aZNIO79X8V7w",
+        "slug": "bird-girl-of-guantanamole",
+        "views": 305454,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945467,
+        "title_id": "618466",
+        "season_number": "3",
+        "tv_rating": "tv-14-ds",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1577585537,
+        "tags": [
+            "harvey birdman attorney at law episode 24 birdgirl guantanamole secret squirrel morocco phil judy daughter"
+        ],
+        "rating_count": 933,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577941200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_024_pt1-03.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1446844380,
         "auth_expiration_date": 1575435540,
         "tms_id": "EP004625750022",
@@ -529,59 +584,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1555599600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_027_pt1-04.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446844320,
-        "auth_expiration_date": 1573621140,
-        "tms_id": "EP004625750019",
-        "rating": 8.628206,
-        "description": "Believe it or not, Harvey successfully defends a plastic surgeon of botching Botox injections on Droopy.  The relieved doctor pays instantly and, in a fit of generosity, throws in a free coupon book of cosmetic surgeries.  Harvey feels guilty that a scary, grinning Droopy suffers while Harvey and the firm enjoy the largress.  While Harvey wrestles with his guilt, the firm goes on an extreme makeover bender, getting \"enhanced\" beyond recognition.",
-        "title_suggest": {
-            "input": [
-                "Droopy Botox",
-                "Botox"
-            ]
-        },
-        "type": "episode",
-        "title": "Droopy Botox",
-        "expiration_date": 1577941140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 703,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1570593600,
-        "modified": 1577125326,
-        "media_id": "d20dfe4d4de8337353ae15ec31222255dd281e27",
-        "airing_id": "RADS1011241900039711",
-        "id": "rVW1FR94Q1uCnRxISdlTrQ",
-        "slug": "droopy-botox",
-        "views": 306721,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945467,
-        "title_id": "547349",
-        "season_number": "2",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1577125326,
-        "tags": [
-            "harvey birdman episode attorney at law 19 droopy botox plastic surgery coupons"
-        ],
-        "rating_count": 858,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574917200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_019_pt1-02.jpg",
         "cma_id": ""
     }
 ]

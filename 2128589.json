@@ -49,7 +49,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1583643540,
         "tms_id": "EP027028650006",
@@ -149,6 +149,56 @@
         "launch_date": 1577336400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087409977915.jpg",
         "cma_id": "2128610"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1577894340,
+        "tms_id": "EP027028650011",
+        "description": "Lupin is invited by both Fujiko and Rebecca to a party where the collection of a recently deceased famous wine collector will be put on sale and decides to accept both the invites trying to jump from one girl to the other during the party.",
+        "title_suggest": {
+            "input": [
+                "The Lovesick Pig",
+                "Lovesick Pig",
+                "Pig"
+            ]
+        },
+        "expiration_date": 1580965140,
+        "title": "The Lovesick Pig",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1294.1334668,
+        "collection_id": "kQEL4HvBQheyH0IH9yiFfQ",
+        "episode_number": "11",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1565190000,
+        "modified": 1577660059,
+        "media_id": "93833529ef12732a9c3105f39695d3b845f805f1",
+        "airing_id": "RADS1008021900011727",
+        "id": "6KEI7jT1QPicYtuqEAZuGw",
+        "slug": "the-lovesick-pig",
+        "views": 678,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1498695923,
+        "season_number": "1",
+        "title_id": "2128611",
+        "tv_rating": "tv-14-ds",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1577660059,
+        "first_published": 1504685469,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 4",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577941200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-lovesick-pig/lupinthe3rdpt4_111_air_cid-36D2V.jpg",
+        "cma_id": "2128611"
     },
     {
         "auth": true,
