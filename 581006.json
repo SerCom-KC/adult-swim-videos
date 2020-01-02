@@ -51,7 +51,7 @@
         "cma_id": "2012718"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1577944740,
         "tms_id": "EP007164450175",
@@ -981,56 +981,6 @@
         "launch_date": 1554130800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187077902924.jpg",
         "cma_id": "1415165"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1577942940,
-        "tms_id": "EP007164450173",
-        "description": "Stan takes Francine on a surprise trip to Sacramento, but Francine is bored.  They meet the Naughty Stewardesses, four women who use their status as flight attendants to find love and adventure.",
-        "title_suggest": {
-            "input": [
-                "Introducing the Naughty Stewardesses",
-                "the Naughty Stewardesses",
-                "Naughty Stewardesses",
-                "Stewardesses"
-            ]
-        },
-        "title": "Introducing the Naughty Stewardesses",
-        "type": "episode",
-        "expiration_date": 1508558399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1291.7238,
-        "episode_number": "12",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577338200,
-        "modified": 1576931766,
-        "media_id": "286a77281cbfe126dee5c30a027e125e3daf407a",
-        "airing_id": "RADS1012201900049170",
-        "id": "anMXnORxRvGnLxRAODp_wQ",
-        "slug": "introducing-the-naughty-stewardesses",
-        "views": 4720,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151923959489111.jpg",
-        "created": 1411570359,
-        "season_number": "9",
-        "title_id": "2007884",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1576931766,
-        "first_published": 1411570359,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1507953600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923959489111.jpg",
-        "cma_id": "1495644"
     },
     {
         "auth": true,
