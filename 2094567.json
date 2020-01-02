@@ -337,54 +337,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1541431740,
-        "auth": false,
-        "auth_expiration_date": 1581051540,
-        "tms_id": "",
-        "description": "Roberts' old roommate, Bill Ruff, pays a visit to Dream Corp LLC under the guise of selling bad office artwork. Everyone in the staff is charmed except for 88 who makes it his mission to expose Bill's real intentions.",
-        "title_suggest": {
-            "input": [
-                "Wild Bill",
-                "Bill"
-            ]
-        },
-        "expiration_date": 1577941140,
-        "type": "episode",
-        "title": "Wild Bill",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 722.8,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1578027600,
-        "clip_order": null,
-        "media_id": "fce5d29975e084228ae88991d9e54a831495035e",
-        "modified": 1577837766,
-        "airing_id": "RADS1011271900041802",
-        "id": "AWLVTk9gTdxzjxdCldXh",
-        "slug": "wild-bill",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154102258563912.jpg",
-        "created": 1523997101,
-        "season_number": "2",
-        "title_id": "2133690",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1577837766,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1575522000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154102258563912.jpg"
-    },
-    {
         "ott_launch_date": 1542036540,
         "auth_expiration_date": 1564718340,
         "tms_id": "",
@@ -479,6 +431,54 @@
         "launch_date": 1577336400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221706621913.jpg",
         "id": "AWSkcq60qBveI_0AhK5D",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1542641400,
+        "auth_expiration_date": 1575003540,
+        "tms_id": "",
+        "description": "88 eats Ahmed's pickle without knowing that the pickle has been pickled. The journey begins.",
+        "title_suggest": {
+            "input": [
+                "Pickle Trip",
+                "Trip"
+            ]
+        },
+        "title": "Pickle Trip",
+        "expiration_date": 1580360340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 737.83,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1571976000,
+        "clip_order": null,
+        "media_id": "206c01fd01e8fcbed4b6f6a25cf1fd218e62b0b5",
+        "modified": 1577554813,
+        "airing_id": "RADS1012271900050446",
+        "slug": "pickle-trip",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154221713012610.jpg",
+        "created": 1538495507,
+        "season_number": "2",
+        "title_id": "2133694",
+        "tv_rating": "tv-14-ls",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1577554813,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577941200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221713012610.jpg",
+        "id": "AWY1emxah5enQuYyI6yr",
         "auth": false
     },
     {

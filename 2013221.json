@@ -389,7 +389,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447785600,
         "auth_expiration_date": 1580965140,
         "tms_id": "EP019881990003",
@@ -485,6 +485,56 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1505140140,
+        "auth_expiration_date": 1576126740,
+        "tms_id": "EP019881990011",
+        "description": "In pursuit of a badly needed bonus, Barry struggles to make piano sales and Mr. Crown becomes fixated on a new dessert.",
+        "title_suggest": {
+            "input": [
+                "Baklava"
+            ]
+        },
+        "create_in_collection": "niKVk47EQ3-pHuoxOIYMsQ",
+        "title": "Baklava",
+        "type": "episode",
+        "expiration_date": 1580965140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 676.8757298,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573102800,
+        "modified": 1577545565,
+        "media_id": "f334dbd2ef86849eaaed32260c94f2b0cbad0b9e",
+        "airing_id": "RADS1012271900050465",
+        "id": "OwqPnwL1TNesifUBI-XkYQ",
+        "slug": "baklava",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1504810178,
+        "season_number": "2",
+        "title_id": "2133104",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1577545565,
+        "first_published": 1504810178,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577941200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/baklava/baklava.png",
+        "cma_id": "1470891"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1506349740,
         "auth_expiration_date": 1578545940,
@@ -532,56 +582,6 @@
         "launch_date": 1572494400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/squat/tebs_303_dup-20170920.jpg",
         "cma_id": "1481136"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1506349740,
-        "auth_expiration_date": 1577941140,
-        "tms_id": "EP019881990012",
-        "description": "Will is assigned a sleep therapist to help him stay alert on the job.",
-        "title_suggest": {
-            "input": [
-                "The Demotion",
-                "Demotion"
-            ]
-        },
-        "title": "The Demotion",
-        "type": "episode",
-        "expiration_date": 1574917140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 675.2919099,
-        "episode_number": "4",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1574917200,
-        "modified": 1574563564,
-        "media_id": "b9ac230b42052db940f93e7e3f69ca2112739915",
-        "airing_id": "RADS1010181900028704",
-        "id": "QMrJj7JJQRC7uxvDFclGSw",
-        "slug": "the-demotion",
-        "views": 4159,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1506067821,
-        "title_id": "2133107",
-        "tv_rating": "tv-ma-ls",
-        "season_number": "2",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1574563564,
-        "first_published": 1506067821,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1571889600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-demotion/tebs_304_dup-20170919.jpg",
-        "cma_id": "1480947"
     },
     {
         "auth": false,

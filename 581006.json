@@ -487,6 +487,53 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1578545940,
+        "tms_id": "EP007164450188",
+        "description": "When Bullock sends a drone to do the job Stan and his colleagues are supposed to do, Stan is determined to prove that humans are better than robots. Meanwhile, Francine and the rest of the family participate in a slow motion race in the living room.",
+        "title_suggest": {
+            "input": [
+                "CIAPOW"
+            ]
+        },
+        "title": "CIAPOW",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.3277,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1577941200,
+        "modified": 1577697866,
+        "media_id": "6ecfc892cd6e3da64fdba07d16892dbf3d156ae0",
+        "airing_id": "RADS1012271900050475",
+        "id": "J2yASXnmQXC3fGXJHQOU7g",
+        "slug": "ciapow",
+        "views": 3803,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151991859679618.jpg",
+        "created": 1411569295,
+        "season_number": "10",
+        "title_id": "2019417",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1577697866,
+        "first_published": 1411569295,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg",
+        "cma_id": "2019417"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1578288540,
         "tms_id": "EP007164450235",
         "description": "Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge.",
@@ -633,6 +680,60 @@
         "launch_date": 1554130800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg",
         "cma_id": "1419613"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578545940,
+        "tms_id": "EP007164450241",
+        "description": "Stan becomes addicted to \"dying\" after Roger tricks him into thinking he had a heart attack. Klaus takes Steve to Arizona State University for a college visit, where a fraternity hazes him.",
+        "title_suggest": {
+            "input": [
+                "The Life and Times of Stan Smith",
+                "Life and Times of Stan Smith",
+                "and Times of Stan Smith",
+                "Times of Stan Smith",
+                "of Stan Smith",
+                "Stan Smith",
+                "Smith"
+            ]
+        },
+        "title": "The Life and Times of Stan Smith",
+        "type": "episode",
+        "expiration_date": 1555340340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.4,
+        "episode_number": "15",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1577941200,
+        "modified": 1577603661,
+        "media_id": "90d393ac4d8f357c86e9bc7bd9a3d673d0a05d66",
+        "airing_id": "RADS1012271900050484",
+        "id": "NEXYZWHTTPWiGgpURTkSWQ",
+        "slug": "the-life-and-times-of-stan-smith",
+        "views": 2536,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15182071483476.jpg",
+        "created": 1501387845,
+        "title_id": "2069546",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1577603661,
+        "first_published": 1501387845,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554735600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182071483476.jpg",
+        "cma_id": "1444693"
     },
     {
         "auth": true,
@@ -882,7 +983,7 @@
         "cma_id": "1415165"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1577942940,
         "tms_id": "EP007164450173",

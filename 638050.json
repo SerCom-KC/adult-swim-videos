@@ -99,6 +99,55 @@
     {
         "auth": false,
         "ott_launch_date": 1446763260,
+        "tms_id": "EP008626240020",
+        "rating": 8.769008,
+        "description": "Old friends are reunited.  \r\n",
+        "title_suggest": {
+            "input": [
+                "The Debate - Part One ",
+                "Debate - Part One",
+                "- Part One",
+                "Part One",
+                "One"
+            ]
+        },
+        "type": "episode",
+        "title": "The Debate - Part One ",
+        "expiration_date": 1580965140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 644.021,
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1577552766,
+        "airing_id": "RADS1012271900050444",
+        "media_id": "b89973f1d7afb770332c8aee6feab0c72ede6386",
+        "id": "nwLh0TdnQe2If2ApgQWWDg",
+        "slug": "the-debate-part-one",
+        "views": 488948,
+        "created": 1402945466,
+        "title_id": "683255",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1577552766,
+        "tags": [],
+        "rating_count": 1710,
+        "collection_title": "Frisky Dingo",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577941200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-debate-part-one/fd_020_bim.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446763260,
         "tms_id": "EP008626240018",
         "rating": 8.265304,
         "description": "Killface acquires an item for the home.\r\n\r\n",
@@ -190,56 +239,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1575522000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-issues/fd_016_bim.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446763200,
-        "auth_expiration_date": null,
-        "tms_id": "EP008626240015",
-        "rating": 8.602602,
-        "description": "So does billionaire tycoon Xander Crews.",
-        "title_suggest": {
-            "input": [
-                "The Opposition",
-                "Opposition"
-            ]
-        },
-        "type": "episode",
-        "title": "The Opposition",
-        "expiration_date": 1577941140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 639.023,
-        "episode_number": "2",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1574568965,
-        "media_id": "9cf7c6ffc94c6d4ea96037cc932ea36ce6c6340f",
-        "airing_id": "RADS1011241900039713",
-        "id": "xvY2_ujAQye7eXDXj5wheg",
-        "slug": "the-opposition",
-        "views": 436652,
-        "thumbnail": "",
-        "created": 1402945466,
-        "title_id": "677649",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1574568965,
-        "tags": [],
-        "rating_count": 2622,
-        "collection_title": "Frisky Dingo",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574917200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-opposition/fd_015_bim.jpg",
         "cma_id": ""
     }
 ]
