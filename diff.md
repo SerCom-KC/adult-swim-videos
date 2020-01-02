@@ -2,51 +2,53 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 1, 2020 at 11:31:29 EST_
+_Last Update: January 2, 2020 at 00:00:42 EST_
 ## Video added
-No videos were added.  
+### Summary
+581006 American Dad: 1  
+2073005 Neon Joe: 1  
+853486 NTSF:SD:SUV::: 1  
+### 2019416
+**American Dad S10E01 - Blonde Ambition**  
+TV-14 🔒 21:01  
+⌛ January 8, 2020 at 23:29:00 EST  
+https://www.adultswim.com/videos/american-dad/blonde-ambition  
+seriesid=`581006` titleid=`2019416` id=`bCTt_9u2RIqanyRvylNJqw` mediaid=`ae7c4429f9a90926ee5da04b81765976f6d55a16`  
+_When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg" height="144px" /></a>
+### 2118595
+**Neon Joe S02E02 - Parenthetical Head Nod**  
+TV-14-DSV 🔓 22:19  
+⌛ February 5, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/neon-joe/parenthetical-head-nod  
+seriesid=`2073005` titleid=`2118595` id=`-o3osKg2T_mjc5HBSpGTeg` mediaid=`66fa72f7a50d3a259766b7f93fad64a459745c27`  
+_Jailed for the murder of his rival Plaid Jeff, Neon Joe has to fight off a violent skinhead gang while trying to escape and prove his innocence. Will he succeed??_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/parenthetical-head-nod/neonjoe_202_dup-20170425.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/parenthetical-head-nod/neonjoe_202_dup-20170425.jpg" height="144px" /></a>
+### 2005261
+**NTSF:SD:SUV:: S03E09 - Trading Faces**  
+TV-14-LV 🔓 11:15  
+⌛ February 5, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/trading-faces  
+seriesid=`853486` titleid=`2005261` id=`kpBBpFCMRhyMfsDb0QjM3Q` mediaid=`c506152d8dc09d02f16a57bb98d7463e6592d3dd`  
+_For Trent and Sam, swapping faces to foil a terrorist ring is easy. Giving the faces back is hard._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/trading-faces/ntsf_cc_306_pt2_2toid-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/trading-faces/ntsf_cc_306_pt2_2toid-02.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2128589 Lupin the 3rd Part 4: 1  
-608360 Robot Chicken: 14  
-798427 Check It Out! with Dr. Steve Brule: 6  
-887688 Loiter Squad: 10  
-### Online Exclusives
-`2yM01IKDTKmRc7AVshkx8Q` [Robot Chicken - Super Genius Evil Dinosaur - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/super-genius-evil-dinosaur-stoopid-buddy-shortz)  
-`6A6tKKGUSey0qNwtlMUaUA` [Robot Chicken - Hockey Horse - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/hockey-horse-stoopid-buddy-shortz)  
-`8TN3j4aBQsSN_LqjgIwPXQ` [Robot Chicken - Justin the Ginger Lifeguard - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/justin-the-ginger-lifeguard-stoopid-buddy-shortz)  
-`BbWFCzJtQDWwpXTA7W-i0g` [Robot Chicken - Alfred Chinchillaman - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/alfred-chinchillaman-stoopid-buddy-shortz)  
-`IYuUmB0ASVuYTfNybuoxfA` [Robot Chicken - MANpire! - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/ma-npire-stoopid-buddy-shortz)  
-`S4Did4uGTBa-TA4Doo4KyQ` [Robot Chicken - 8-Bitch - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/8-bitch-stoopid-buddy-shortz)  
-`U7lF5kMGR9-cWFpuNfqyfg` [Robot Chicken - Samurai High Dodgeball Squad - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/samurai-high-dodgeball-squad-stoopid-buddy-shortz)  
-`VienVV60RheIEONKCq2nTg` [Robot Chicken - Moonbase Sidekick - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/moonbase-sidekick-stoopid-buddy-shortz)  
-`WoCSCjUuSZewwjvfHRIByw` [Robot Chicken - Beach Bros! - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/beach-bros-stoopid-buddy-shortz)  
-`XX8U_DFPTE21sWD_DSnGow` [Robot Chicken - What the Cluck? - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/what-the-cluck-stoopid-buddy-shortz)  
-`YFxIi4egS6C_rIPZwOy1XQ` [Robot Chicken - Pillow Fight - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/pillow-fight-stoopid-buddy-shortz)  
-`hKDtIxmaQfCOcDuloRafXQ` [Robot Chicken - Fist-Man: Strongest of the Slab-Bodied Slab Lords - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/fist-man-strongest-of-the-slab-bodied-slab-lords-stoopid-buddy-shortz)  
-`l58vqjdSQoKZDVIAjVjwZw` [Robot Chicken - San Francisco 411 - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/san-francisco-411-stoopid-buddy-shortz)  
-`n4Wkwi7HRxqglDF4R_Ugvw` [Robot Chicken - MegaRich - Stoopid Buddy Shortz](https://www.adultswim.com/videos/robot-chicken/mega-rich-stoopid-buddy-shortz)  
-`7Y0aGY0STq6dB4y7IjUYDw` [Check It Out! with Dr. Steve Brule - Special Presentation: Home 2](https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/special-presentation-home-2)  
-`7Yu9hVnoSHyOXdvr1sax0w` [Check It Out! with Dr. Steve Brule - Special Presentation: Skateboards](https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/special-presentation-skateboards)  
-`GseEYy0vQRGSSU_aXsEnVg` [Check It Out! with Dr. Steve Brule - Special Presentation: Horse](https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/special-presentation-horse)  
-`VwF6JMP0STylSBpAuZeUJA` [Check It Out! with Dr. Steve Brule - Special Presentation: Planes](https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/special-presentation-planes)  
-`rvq9lDXhSTSTHOxkPMhIWw` [Check It Out! with Dr. Steve Brule - Special Presentation: Home 1](https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/special-presentation-home-1)  
-`vcFlIrRiRA6fWyTaI6XT9w` [Check It Out! with Dr. Steve Brule - Special Presentation: Children](https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/special-presentation-children)  
-`BJgyW88MS7OnxFzYcrc6Qw` [Loiter Squad - Funeral Service](https://www.adultswim.com/videos/loiter-squad/funeral-service)  
-`S8EJs9gnTH-_04bAaBgUCQ` [Loiter Squad - Traveling with Lionel](https://www.adultswim.com/videos/loiter-squad/traveling-with-lionel)  
-`StUtez51SyKE9EwejQksGg` [Loiter Squad - Tyler About Town](https://www.adultswim.com/videos/loiter-squad/tyler-about-town)  
-`XXUlMKNjQ6ulOa10CItYzQ` [Loiter Squad - Jasper Bloopers - Online Exclusive](https://www.adultswim.com/videos/loiter-squad/jasper-bloopers-online-exclusive)  
-`b5pWy-azRzOklOjVpbw4pQ` [Loiter Squad - Maurice and Guest](https://www.adultswim.com/videos/loiter-squad/maurice-and-guest)  
-`dlPDuLspTeip80ce2gXL9Q` [Loiter Squad - Fat Daddy](https://www.adultswim.com/videos/loiter-squad/fat-daddy)  
-`m1hvtleZRE-OL-iEWaqlmw` [Loiter Squad - Mike G Minute](https://www.adultswim.com/videos/loiter-squad/mike-g-minute)  
-`pJPslmNZR7iKIAVG7MSAyQ` [Loiter Squad - Another Rare Breed](https://www.adultswim.com/videos/loiter-squad/another-rare-breed)  
-`uk4piroySNyjFS8B1SBUTw` [Loiter Squad - I Just Bought a Bugatti](https://www.adultswim.com/videos/loiter-squad/i-just-bought-a-bugatti)  
-`yUFZCivPSOuYSWnpr7UvnA` [Loiter Squad - Darkshark Shopping Network](https://www.adultswim.com/videos/loiter-squad/darkshark-shopping-network)  
-### 2128611
-**Lupin the 3rd Part 4 S01E11 - The Lovesick Pig**  
-TV-14-DS 🔓 21:34  
-⌛ February 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/lupin-the-3rd-part-4/the-lovesick-pig  
-seriesid=`2128589` titleid=`2128611` id=`6KEI7jT1QPicYtuqEAZuGw` mediaid=`93833529ef12732a9c3105f39695d3b845f805f1`  
-_Lupin is invited by both Fujiko and Rebecca to a party where the collection of a recently deceased famous wine collector will be put on sale and decides to accept both the invites trying to jump from one girl to the other during the party._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-lovesick-pig/lupinthe3rdpt4_111_air_cid-36D2V.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-lovesick-pig/lupinthe3rdpt4_111_air_cid-36D2V.jpg" height="144px" /></a>
+2073005 Neon Joe: 1  
+853486 NTSF:SD:SUV::: 1  
+### 2073007
+**Neon Joe S01E02 - Neon Nights**  
+TV-14-DLV 🔓 22:30  
+⌛ January 1, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/neon-joe/neon-nights  
+seriesid=`2073005` titleid=`2073007` id=`6OepLmU4RdqwzCnrR1NFmA` mediaid=`fec5236d39d41bf4a55bca50ac7986f96f718ca2`  
+_It is revealed that Neon Joe authored a series of erotica novels many years ago._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152950461178315.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152950461178315.jpg" height="144px" /></a>
+### 2005256
+**NTSF:SD:SUV:: S03E04 - Burn After Killing**  
+TV-14-LV 🔓 11:01  
+⌛ January 1, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/burn-after-killing  
+seriesid=`853486` titleid=`2005256` id=`_igS5-RfTF6FUnJPpkqmDA` mediaid=`f61aaed8d9aa69635344d18fa766396ae3555b29`  
+_Kove's little black book is stolen by someone from her past and the only NTSF agent talented enough to help her is dead. Or is he?_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/burn-after-killing/ntsf_301.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/burn-after-killing/ntsf_301.jpg" height="144px" /></a>
