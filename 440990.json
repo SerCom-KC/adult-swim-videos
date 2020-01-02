@@ -395,54 +395,6 @@
         "cma_id": "1407602"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1577948340,
-        "tms_id": "EP002960010225",
-        "description": "After Meg sees Chris stealing money out of Lois' purse, she blackmails him into doing everything she says.",
-        "title_suggest": {
-            "input": [
-                "Chris Cross",
-                "Cross"
-            ]
-        },
-        "title": "Chris Cross",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1290.4224,
-        "episode_number": "13",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577343600,
-        "modified": 1576923365,
-        "media_id": "8c60bf26ac3f280fce4a1f752feccfa81a09c18a",
-        "airing_id": "RADS1012201900049165",
-        "id": "fSHHGcg7Qx6oJ8lxZ0xP1A",
-        "slug": "chris-cross",
-        "views": 519,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227671953846.jpg",
-        "created": 1411574534,
-        "season_number": "11",
-        "title_id": "809254",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1576923365,
-        "first_published": 1411574534,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227671953846.jpg",
-        "cma_id": "809254"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1578293940,
@@ -543,7 +495,7 @@
         "cma_id": "809269"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1577950140,
         "tms_id": "EP002960010226",
