@@ -98,55 +98,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153980978158620.jpg"
     },
     {
-        "ott_launch_date": 1540218540,
-        "auth": false,
-        "auth_expiration_date": 1578027540,
-        "tms_id": "",
-        "description": "Patient 21 is afraid to fall asleep. After a parasomnia episode injures the new intern Bea, Dr Roberts drops in to the patient's dream to guide him through the wake of his fears.",
-        "title_suggest": {
-            "input": [
-                "Deep Impact",
-                "Impact"
-            ]
-        },
-        "expiration_date": 1574917140,
-        "type": "episode",
-        "title": "Deep Impact",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 677.17,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1575003600,
-        "clip_order": null,
-        "modified": 1576165565,
-        "media_id": "4dbc0b1b1041bd42ba45c6f2feb4e5c76db7bcae",
-        "airing_id": "RADS1011251900040138",
-        "id": "AV9fX_EUZ-onAnjDLsyi",
-        "slug": "deep-impact",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153980974611015.jpg",
-        "created": 1509133644,
-        "season_number": "2",
-        "title_id": "2133685",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1576165565,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1572494400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153980974611015.jpg",
-        "cma_id": ""
-    },
-    {
         "ott_launch_date": 1540823340,
         "auth": true,
         "auth_expiration_date": 1579237140,
@@ -335,6 +286,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154160544362420.jpg",
         "id": "AWLVTT7STdxzjxdCldXa",
         "auth": false
+    },
+    {
+        "ott_launch_date": 1541431740,
+        "auth": true,
+        "auth_expiration_date": 1581051540,
+        "tms_id": "",
+        "description": "Roberts' old roommate, Bill Ruff, pays a visit to Dream Corp LLC under the guise of selling bad office artwork. Everyone in the staff is charmed except for 88 who makes it his mission to expose Bill's real intentions.",
+        "title_suggest": {
+            "input": [
+                "Wild Bill",
+                "Bill"
+            ]
+        },
+        "expiration_date": 1577941140,
+        "type": "episode",
+        "title": "Wild Bill",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 722.8,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1578027600,
+        "clip_order": null,
+        "media_id": "fce5d29975e084228ae88991d9e54a831495035e",
+        "modified": 1577837766,
+        "airing_id": "RADS1011271900041802",
+        "id": "AWLVTk9gTdxzjxdCldXh",
+        "slug": "wild-bill",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154102258563912.jpg",
+        "created": 1523997101,
+        "season_number": "2",
+        "title_id": "2133690",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1577837766,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1575522000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154102258563912.jpg"
     },
     {
         "ott_launch_date": 1542036540,
