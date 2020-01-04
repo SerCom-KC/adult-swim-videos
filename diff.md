@@ -2,26 +2,34 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 4, 2020 at 01:30:43 EST_
+_Last Update: January 4, 2020 at 02:00:36 EST_
 ## Video added
-No videos were added.  
+### Summary
+440990 Family Guy: 2  
+### 809275
+**Family Guy S12E11 - Brian's a Bad Father**  
+TV-14 🔒 21:28  
+⌛ January 11, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/brians-a-bad-father  
+seriesid=`440990` titleid=`809275` id=`eSc6Ep1-T8Sj_aa5Lnz_kw` mediaid=`7b7d14d9a4725d71792094d943b9c32004835840`  
+_Brian receives a call from his son, Dylan Flannigan, who wants to reconnect with him. At first, Brian is hesitant to meet up, but changes his tune when he discovers Dylan is the star of a new television show._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153660431665610.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153660431665610.jpg" height="144px" /></a>
+### 809276
+**Family Guy S12E12 - Mom's the Word**  
+TV-14 🔒 21:27  
+⌛ January 11, 2020 at 01:59:00 EST  
+https://www.adultswim.com/videos/family-guy/moms-the-word  
+seriesid=`440990` titleid=`809276` id=`sp9J90j1Rg260ERrJySVLQ` mediaid=`37cdc35ce75c36c04bfbcfc2b1b60f4c3bbee55b`  
+_After some questionable food choices, Peter accidentally soils himself at work. Ashamed, he heads home and finds all of his family and friends have gathered there. He thinks they're going to make fun of him, but they're actually there to deliver some sad news-his mother, Thelma, has passed away._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238980514943.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238980514943.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-581006 American Dad: 1  
-### 2065467
-**Bob's Burgers S05E18 - Eat, Spray, Linda**  
-TV-PG-DL 🔒 21:29  
-⌛ January 4, 2020 at 01:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/eat-spray-linda  
-seriesid=`2003422` titleid=`2065467` id=`GF4w8jfUQySKUKlq1fD8TQ` mediaid=`b446e1fe4fc713e01f05bb97126319c66fa25484`  
-_It's Linda's birthday and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing! Mayhem ensues as the Belchers must work together to find Linda._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg" height="144px" /></a>
-### 2012720
-**American Dad S09E19 - News Glance With Genevieve Vavance**  
-TV-14 🔒 21:31  
-⌛ January 4, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/american-dad/news-glance-with-genevieve-vavance  
-seriesid=`581006` titleid=`2012720` id=`8aoaDgIBQgKSgrhDk7qeuA` mediaid=`c08bb98f7dafc7952ab787609bc9ff1bf126d03f`  
-_Hayley wants to save the world through investigative journalism so she becomes an intern for a local news reporter.  The reporter turns out to be Roger, who only wants ratings through sensationalized stories_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923987113810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923987113810.jpg" height="144px" /></a>
+### 2065468
+**Bob's Burgers S05E19 - Housetrap**  
+TV-PG-DLV 🔒 21:44  
+⌛ January 4, 2020 at 01:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/housetrap  
+seriesid=`2003422` titleid=`2065468` id=`6Tm4GhhHRDy_HSL-uw8zQQ` mediaid=`4ee829b9a07504a4eaa97f8c1a46239e7280700a`  
+_In true Belcher fashion, the family gets stuck in a terrible storm while taking care of a beach house in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of the home._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg" height="144px" /></a>
