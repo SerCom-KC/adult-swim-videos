@@ -497,7 +497,7 @@
         "launch_date": 1576396800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_191029154551-OnePunchMan_019.jpg",
         "id": "AW4ZDP3y1YiBSfg0KYGb",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -648,7 +648,7 @@
         "launch_date": 1578211200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231035141-OnePunchMan_022.jpg",
         "id": "AW7MZsWdadNs2hMNfuqH",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1050,6 +1050,56 @@
         "launch_date": 1573189200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-obsessive-scientist/onepunchman_003_air_cid-2W7MR.jpg",
         "cma_id": "1466946"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578632340,
+        "tms_id": "EP024821630013",
+        "description": "The inconceivably powerful Lord Boros has traveled untold distances in search of someone who can cure his boredom: Saitama!",
+        "title_suggest": {
+            "input": [
+                "The Strongest Hero",
+                "Strongest Hero",
+                "Hero"
+            ]
+        },
+        "title": "The Strongest Hero",
+        "type": "episode",
+        "expiration_date": 1580446740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "xZSM7jD5QCe6QOiQJ_-sxQ",
+        "duration": 1447,
+        "episode_number": "12",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573189200,
+        "modified": 1578210646,
+        "media_id": "677a50af5686976b284be430f9868fec74132f6e",
+        "airing_id": "RADS1001032000051998",
+        "id": "eFjrtZdPRB2sxeWNhKuVMA",
+        "slug": "the-strongest-hero",
+        "views": 30140,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1475651419,
+        "title_id": "2092003",
+        "tv_rating": "tv-14",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1578210646,
+        "first_published": 1475651419,
+        "tags": [],
+        "collection_title": "One-Punch Man",
+        "modified_by": "ODT Listener",
+        "launch_date": 1578632400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-strongest-hero/onepunchman_012_air_cid-2X847.jpg",
+        "cma_id": "2092003"
     },
     {
         "auth": true,
