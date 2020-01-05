@@ -612,7 +612,7 @@
         "launch_date": 1577615400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117576-BlackClover_096.jpg",
         "id": "AW4S8g2e1YiBSfg0KYDv",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -661,7 +661,7 @@
         "launch_date": 1578220200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191219/thumbnails/2_191219101990-BlackClover_002.jpg",
         "id": "AW72qV9_GRcVO2K2pl73",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -710,6 +710,57 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231040491-BlackClover_097.jpg",
         "id": "AW7Ma-U2adNs2hMNfuqM",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580034540,
+        "tms_id": "",
+        "description": "Mereoleona is left to face five powerful elf enemies alone, putting her \"undefeated\" title to the test. Mimosa's Royal Knight teammates turn on her.",
+        "title_suggest": {
+            "input": [
+                "The Desperate Path Toward Survival",
+                "Desperate Path Toward Survival",
+                "Path Toward Survival",
+                "Toward Survival",
+                "Survival"
+            ]
+        },
+        "title": "The Desperate Path Toward Survival",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 0,
+        "episode_number": "99",
+        "original_air_date": null,
+        "auth_launch_date": 1578220200,
+        "clip_order": null,
+        "media_id": "d5e086ceb04c8f4adf9a23699ce9968d0230b517",
+        "modified": 1577863569,
+        "airing_id": "RADS1012291900051054",
+        "slug": "the-desperate-path-toward-survival",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1575578881,
+        "season_number": "2",
+        "title_id": "2205125",
+        "tv_rating": "tv-14",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1577863569,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "",
+        "id": "AW7X0c9A1YiBSfg0KZHT",
+        "auth": true
     },
     {
         "auth": true,

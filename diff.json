@@ -1,21 +1,22 @@
 {
-    "updated": 1578216689,
-    "added": [],
-    "removed": [
+    "updated": 1578220294,
+    "added": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1578216540,
-            "tms_id": "EP029407000002",
-            "description": "\"Hunt down the greatest thief of our times, Lupin III!\" The Marco Polo executives have set a trap in the form of the Lupin Game. This has people all over the world tracking down Lupin.",
+            "auth_expiration_date": 1580034540,
+            "tms_id": "",
+            "description": "Mereoleona is left to face five powerful elf enemies alone, putting her \"undefeated\" title to the test. Mimosa's Royal Knight teammates turn on her.",
             "title_suggest": {
                 "input": [
-                    "The Lupin Game",
-                    "Lupin Game",
-                    "Game"
+                    "The Desperate Path Toward Survival",
+                    "Desperate Path Toward Survival",
+                    "Path Toward Survival",
+                    "Toward Survival",
+                    "Survival"
                 ]
             },
-            "title": "The Lupin Game",
-            "expiration_date": 1564907340,
+            "title": "The Desperate Path Toward Survival",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -23,36 +24,37 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWsjveiCCorLtcgflq7h",
-            "duration": 1337.27,
-            "episode_number": "2",
+            "collection_id": "AV-7K77EZ-onAnjDLtBM",
+            "duration": 0,
+            "episode_number": "99",
             "original_air_date": null,
-            "auth_launch_date": 1564907400,
+            "auth_launch_date": 1578220200,
             "clip_order": null,
-            "media_id": "c7865b476419520ec40568a04c1e7721c81d328d",
-            "modified": 1573492253,
-            "airing_id": "RADS1008011900011010",
-            "slug": "the-lupin-game",
+            "media_id": "d5e086ceb04c8f4adf9a23699ce9968d0230b517",
+            "modified": 1577863569,
+            "airing_id": "RADS1012291900051054",
+            "slug": "the-desperate-path-toward-survival",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156112706009617.jpg",
-            "created": 1561127090,
-            "season_number": "1",
-            "title_id": "2193929",
-            "tv_rating": "tv-14-dlsv",
+            "thumbnail": "",
+            "created": 1575578881,
+            "season_number": "2",
+            "title_id": "2205125",
+            "tv_rating": "tv-14",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1573492253,
+            "published": 1577863569,
             "tags": [],
-            "collection_title": "Lupin the 3rd Part 5",
+            "collection_title": "Black Clover",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1563093000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156112706009617.jpg",
-            "id": "AWt6bPiO4aLemgzOLEzb",
+            "launch_date": null,
+            "poster": "",
+            "id": "AW7X0c9A1YiBSfg0KZHT",
             "auth": true,
-            "collection_slug": "lupin-the-3rd-part-5",
-            "collection_title_id": "2193927",
+            "collection_slug": "black-clover",
+            "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
