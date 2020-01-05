@@ -96,55 +96,6 @@
         "cma_id": "809130"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1578207540,
-        "tms_id": "EP002960010234",
-        "description": "Brian and Stewie go to Vegas, but chaos erupts when a glitch in Stewie's new teleportation machine creates a duplicate Brian and Stewie.",
-        "title_suggest": {
-            "input": [
-                "Roads to Vegas",
-                "to Vegas",
-                "Vegas"
-            ]
-        },
-        "title": "Roads to Vegas",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1290.6894,
-        "episode_number": "22",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577602800,
-        "modified": 1577173685,
-        "media_id": "025d5762d37e4647baf2c3cf23f5d8f674408e73",
-        "airing_id": "RADS1012231900049245",
-        "id": "8LlMx6-URjyemBorYyuE1Q",
-        "slug": "roads-to-vegas",
-        "views": 950,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227748165164.jpg",
-        "created": 1411574800,
-        "season_number": "11",
-        "title_id": "809263",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1577173685,
-        "first_published": 1411574800,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227748165164.jpg",
-        "cma_id": "809263"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1578810540,
@@ -495,6 +446,53 @@
         "launch_date": 1577682000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/pilling-them-softly/familyguy_1217_air_cid-2M1KP.jpg",
         "cma_id": "1480778"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578812340,
+        "tms_id": "EP002960010250",
+        "description": "Peter breaks his promise to take Chris on a fishing trip, leaving Chris feeling rejected. Lois suggests he spend more time with Carter, who has a broken leg and needs someone to take care of him.",
+        "title_suggest": {
+            "input": [
+                "Fresh Heir",
+                "Heir"
+            ]
+        },
+        "title": "Fresh Heir",
+        "type": "episode",
+        "expiration_date": 1508045399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1283.8492,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1578207600,
+        "clip_order": null,
+        "modified": 1577778922,
+        "media_id": "79400326c6741033de934ee99a498542a5fc9f71",
+        "airing_id": "RADS1012291900051017",
+        "id": "ofdR3oQwSeqTtZ15bH6YiQ",
+        "slug": "fresh-heir",
+        "views": 3129,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152389811404717.jpg",
+        "created": 1417508426,
+        "title_id": "809278",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1577778922,
+        "first_published": 1417508426,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1507440600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152389811404717.jpg",
+        "cma_id": "1489867"
     },
     {
         "auth": true,
