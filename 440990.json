@@ -96,6 +96,58 @@
         "cma_id": "809130"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578900540,
+        "tms_id": "EP002960010297",
+        "description": "After hearing that Stewie has been having nightmares, Brian decides to help.  He tries to cure Stewie by making a list of Stewie's fears and using exposure therapy to deal with them.",
+        "title_suggest": {
+            "input": [
+                "A Lot Going on Upstairs",
+                "Lot Going on Upstairs",
+                "Going on Upstairs",
+                "on Upstairs",
+                "Upstairs"
+            ]
+        },
+        "expiration_date": 1576472340,
+        "title": "A Lot Going on Upstairs",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1301.7674341,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "23",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1578295800,
+        "modified": 1578015131,
+        "media_id": "374e7d0b4cea2644356195ebdda88f7ac5e9d278",
+        "airing_id": "RADS1001022000051308",
+        "id": "1gNqAR65QOGAVfnpxNiQLg",
+        "slug": "a-lot-going-on-upstairs",
+        "views": 8,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1457705582,
+        "season_number": "14",
+        "title_id": "2064586",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1578015131,
+        "first_published": 1458018639,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1575867600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/a-lot-going-on-upstairs/familyguy_1311_air_cid-2XXDN.jpg",
+        "cma_id": "1465137"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1574060340,
