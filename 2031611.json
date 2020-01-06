@@ -659,6 +659,64 @@
         "cma_id": "1080730"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370067",
+        "description": "One by one, Vegeta and his reluctant allies meet horrific ends at the hands of the unstoppable Androids. A bed-stricken Goku is Earth's only hope, but there's a specially-designed Android waiting to destroy him!",
+        "title_suggest": {
+            "input": [
+                "A Sweet Face and Super Power? Android 18 vs. Vegeta!",
+                "Sweet Face and Super Power? Android 18 vs. Vegeta!",
+                "Face and Super Power? Android 18 vs. Vegeta!",
+                "and Super Power? Android 18 vs. Vegeta!",
+                "Super Power? Android 18 vs. Vegeta!",
+                "Power? Android 18 vs. Vegeta!",
+                "Android 18 vs. Vegeta!",
+                "18 vs. Vegeta!",
+                "vs. Vegeta!",
+                "Vegeta!"
+            ]
+        },
+        "expiration_date": 1581310740,
+        "title": "A Sweet Face and Super Power? Android 18 vs. Vegeta!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1262,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "65",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1578001362,
+        "media_id": "faff3b299872a2fb2de43b8a5d19664a08075db4",
+        "airing_id": "RADS1001022000051366",
+        "id": "8L-p2bY0R1KNM5s5fBceNA",
+        "slug": "a-sweet-face-and-super-power-android-18-vs-vegeta",
+        "views": 2876,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210165390-dragonballzkai_065_air_cid-2RRJ7.jpg",
+        "created": 1454356783,
+        "season_number": "1",
+        "title_id": "2031676",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1578001362,
+        "first_published": 1460146218,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1578286800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210165390-dragonballzkai_065_air_cid-2RRJ7.jpg",
+        "cma_id": "1213127"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597451340,
@@ -2125,7 +2183,7 @@
         "cma_id": "1175256"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370060",

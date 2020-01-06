@@ -803,7 +803,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153901281788913.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1598846399,
         "tms_id": "EP027118720005",
@@ -906,7 +906,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1578286740,
         "tms_id": "",
         "description": "Josuke and Okuyasu come across an Italian restaurant owned by an Italian chef named Tonio. When Okuyasu asks for the menu Tonio explains that he decides the menu on the spot based on the customer he sees.",
