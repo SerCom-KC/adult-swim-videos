@@ -2,17 +2,15 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 6, 2020 at 02:30:39 EST_
+_Last Update: January 6, 2020 at 08:30:34 EST_
 ## Video added
 ### Summary
-440990 Family Guy: 1  
-### 2064586
-**Family Guy S14E23 - A Lot Going on Upstairs**  
-TV-14-DLSV 🔒 21:41  
-⌛ January 13, 2020 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/a-lot-going-on-upstairs  
-seriesid=`440990` titleid=`2064586` id=`1gNqAR65QOGAVfnpxNiQLg` mediaid=`374e7d0b4cea2644356195ebdda88f7ac5e9d278`  
-_After hearing that Stewie has been having nightmares, Brian decides to help.  He tries to cure Stewie by making a list of Stewie's fears and using exposure therapy to deal with them._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/a-lot-going-on-upstairs/familyguy_1311_air_cid-2XXDN.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/a-lot-going-on-upstairs/familyguy_1311_air_cid-2XXDN.jpg" height="144px" /></a>
+2207385 Dr. Stone: 1  
+2142267 My Hero Academia: 1  
+2091991 One-Punch Man: 1  
+### Online Exclusives
+`AW9sQee9GRcVO2K2pl_V` [Dr. Stone - Sneak Peek – Stone Wars](https://www.adultswim.com/videos/dr-stone/sneak-peek-stone-wars)  
+`AW9swiPA3HMJfT8do6wo` [My Hero Academia - Sneak Peek - Suneater of the Big Three](https://www.adultswim.com/videos/my-hero-academia/sneak-peek-suneater-of-the-big-three)  
+`AW9sbqOvGRcVO2K2pl_X` [One-Punch Man - Sneak Peek - The Wiping of the Disciple's Butt](https://www.adultswim.com/videos/one-punch-man/sneak-peek-the-wiping-of-the-disciples-butt)  
 ## Video removed
 No videos were removed.  
