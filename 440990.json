@@ -50,54 +50,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1578378540,
-        "tms_id": "EP002960010236",
-        "description": "After Peter finally goes to the dentist to take care of his bad breath, the Griffins celebrate with a family dinner at The Founding Father Restaurant. The waiter notices Stewie coloring in his placemat, and explains that it's actually a reprinted treasure map.",
-        "title_suggest": {
-            "input": [
-                "Finders Keepers",
-                "Keepers"
-            ]
-        },
-        "title": "Finders Keepers",
-        "type": "episode",
-        "expiration_date": 1497160799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1287.7865,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577773800,
-        "modified": 1577832008,
-        "media_id": "2129de6c40f2035015d9dbebbb99b225986d3fc2",
-        "airing_id": "RADS1012271900050416",
-        "id": "1TX74cRLQMSYaBniRK0SmA",
-        "slug": "finders-keepers",
-        "views": 2900,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277485295815.jpg",
-        "created": 1411574855,
-        "season_number": "12",
-        "title_id": "809130",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1577832008,
-        "first_published": 1411574855,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1496556000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277485295815.jpg",
-        "cma_id": "809130"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1578900540,
         "tms_id": "EP002960010297",
         "description": "After hearing that Stewie has been having nightmares, Brian decides to help.  He tries to cure Stewie by making a list of Stewie's fears and using exposure therapy to deal with them.",
@@ -638,5 +590,53 @@
         "launch_date": 1474869600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238980514943.jpg",
         "cma_id": "1266363"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578983340,
+        "tms_id": "EP002960010251",
+        "description": "Peter discovers he can skip out of work by taking smoke breaks. He begins smoking to dodge other tasks and soon gets addicted. When he wakes up one day with sunken cheeks and gray skin, Lois pushes him to visit a smoking rehab clinic.",
+        "title_suggest": {
+            "input": [
+                "Secondhand Spoke",
+                "Spoke"
+            ]
+        },
+        "title": "Secondhand Spoke",
+        "type": "episode",
+        "expiration_date": 1498112999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1292.2243,
+        "episode_number": "15",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1578378600,
+        "modified": 1578016928,
+        "media_id": "bbc1c5afaf9d806780c84d951685b8ff0d00f640",
+        "airing_id": "RADS1001022000051330",
+        "id": "xcrBCE0vQBqfVXbqtN1qEw",
+        "slug": "secondhand-spoke",
+        "views": 2464,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108603659631.jpg",
+        "created": 1411575251,
+        "season_number": "12",
+        "title_id": "809277",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578016928,
+        "first_published": 1411575251,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1497508200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108603659631.jpg",
+        "cma_id": "809277"
     }
 ]
