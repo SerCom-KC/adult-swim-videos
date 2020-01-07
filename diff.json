@@ -1,58 +1,65 @@
 {
-    "updated": 1578416433,
-    "added": [
+    "updated": 1578421838,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1575802740,
+            "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Plodding amid the dusky shadows of a peaceful piazza is Polpo's macabre Stand, which assails any who dare witness the reigniting of the lighter. Giorno deciphers its method of attack, but is soon staring death in the face.",
+            "description": "Rick and Morty returns this November!",
             "title_suggest": {
                 "input": [
-                    "Joining the Famiglia",
-                    "the Famiglia",
-                    "Famiglia"
+                    "Season 4 Announcement",
+                    "4 Announcement",
+                    "Announcement"
                 ]
             },
-            "title": "Joining the Famiglia",
-            "expiration_date": 1580641140,
-            "type": "episode",
+            "title": "Season 4 Announcement",
+            "expiration_date": null,
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
-            "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
-            "duration": 1370.4024,
-            "episode_number": "4",
+            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+            "duration": 30,
             "original_air_date": null,
-            "auth_launch_date": 1573988400,
+            "auth_launch_date": null,
             "clip_order": null,
-            "media_id": "447e9b24e9ac62d34c8a36b1282f21aff6a531a8",
-            "modified": 1578416291,
-            "airing_id": "RADS1001062000052537",
-            "slug": "joining-the-famiglia",
+            "media_id": "",
+            "modified": 1557937353,
+            "slug": "season-4-announcement",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191022/thumbnails/1_1910221511494-jojo_goldenwind_004.jpg",
-            "created": 1571771517,
-            "season_number": "4",
-            "title_id": "2193960",
-            "tv_rating": "tv-ma-v",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155793038592020.jpg",
+            "created": 1557930432,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1578416291,
-            "tags": [],
-            "collection_title": "JoJo's Bizarre Adventure",
+            "published": 1557937353,
+            "tags": [
+                "rick and morty",
+                "season 4",
+                "announcement",
+                "upfront",
+                "teaser",
+                "adult swim",
+                "promo"
+            ],
+            "collection_title": "Rick and Morty",
             "disable_ads": false,
-            "modified_by": "Jonathan Jackson",
-            "launch_date": 1578394800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_1910221511494-jojo_goldenwind_004.jpg",
-            "id": "AW304gtpadNs2hMNfuWT",
+            "modified_by": "Dene Shepherd",
+            "launch_date": 1557892800,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155793038592020.jpg",
+            "id": "AWq749adCorLtcgflqdN",
             "auth": false,
-            "collection_slug": "jo-jos-bizarre-adventure",
-            "collection_title_id": "2193955",
-            "online_exclusives": false
+            "collection_slug": "rick-and-morty",
+            "collection_title_id": "2013506",
+            "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
