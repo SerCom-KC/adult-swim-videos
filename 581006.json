@@ -432,7 +432,7 @@
         "cma_id": "2019417"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1578373140,
         "tms_id": "EP007164450230",
@@ -583,7 +583,7 @@
         "cma_id": "1444693"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1578373140,
         "tms_id": "EP007164450229",
@@ -729,7 +729,7 @@
         "cma_id": "2019420"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1578373140,
         "tms_id": "EP007164450236",
@@ -824,6 +824,55 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg",
         "cma_id": "2019416"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1578976140,
+        "tms_id": "EP007164450194",
+        "description": "When Steve insults Francine, she refuses to cook for him and he becomes a successful internet chef, appearing on a popular morning show. Meanwhile, Stan thinks he can make people invisible by snapping his fingers.",
+        "title_suggest": {
+            "input": [
+                "Morning Mimosa",
+                "Mimosa"
+            ]
+        },
+        "title": "Morning Mimosa",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.3611,
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1578371400,
+        "modified": 1578015966,
+        "media_id": "382abd15352a823a6e9f8baba75184a961498802",
+        "airing_id": "RADS1001022000051318",
+        "id": "e3fwDpONRtKjWqvJf0cx1A",
+        "slug": "morning-mimosa",
+        "views": 1951,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152028735803714.jpg",
+        "created": 1411569425,
+        "season_number": "10",
+        "title_id": "2019422",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578015966,
+        "first_published": 1411569425,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028735803714.jpg",
+        "cma_id": "2019422"
     },
     {
         "auth": true,
