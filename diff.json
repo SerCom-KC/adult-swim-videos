@@ -1,58 +1,59 @@
 {
-    "updated": 1578375079,
-    "added": [
+    "updated": 1578376885,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
-            "auth_expiration_date": 1578979740,
-            "tms_id": "EP012792980123",
-            "description": "Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob.",
+            "auth_expiration_date": 1578376740,
+            "tms_id": "EP012792980092",
+            "description": "The upcoming Land Ship parade could mean increased business for Bob, until he learns that two port-o-potties will be placed in front of the restaurant. Meanwhile, Tina learns from her friends that she's boring, so she joins up with Jordan who has been vandalizing the school with graffiti. But when Jordan wants to spray graffiti on the Land Ship, Tina must decide between ruining the parade and disappointing her new crush.",
             "title_suggest": {
                 "input": [
-                    "The Grand Mama-Pest Hotel",
-                    "Grand Mama-Pest Hotel",
-                    "Mama-Pest Hotel",
-                    "Hotel"
+                    "The Land Ship",
+                    "Land Ship",
+                    "Ship"
                 ]
             },
-            "title": "The Grand Mama-Pest Hotel",
+            "title": "The Land Ship",
             "type": "episode",
-            "expiration_date": 1557759540,
+            "expiration_date": 1560743940,
             "platforms": [
                 "web",
-                "mobile",
-                "fire-tv",
-                "roku"
+                "mobile"
             ],
             "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "duration": 1306.47,
-            "episode_number": "9",
+            "duration": 1301.0333667,
+            "episode_number": "2",
             "original_air_date": null,
-            "auth_launch_date": 1578375000,
             "clip_order": null,
-            "media_id": "ead9e6aa8afe4c1b9b2fbfdfb8ef6547b3f0be53",
-            "modified": 1578016731,
-            "airing_id": "RADS1001022000051326",
-            "id": "AWAJmC0kwdpKFAKSbnfG",
-            "slug": "the-grand-mama-pest-hotel",
+            "auth_launch_date": 1577772000,
+            "modified": 1577485699,
+            "media_id": "cc14511aefcd6eae90b4bd7a9640f8dbc95ec1aa",
+            "airing_id": "RADS1012271900050410",
+            "id": "1wkLQSpVSe6417MkEhhR3g",
+            "slug": "the-land-ship",
+            "views": 10516,
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151361132028519.jpg",
-            "created": 1511989456,
-            "title_id": "2132977",
-            "tv_rating": "tv-pg-l",
-            "season_number": "7",
-            "blacklist": [],
+            "thumbnail": "",
+            "created": 1475385041,
+            "title_id": "2097190",
+            "tv_rating": "tv-pg",
+            "season_number": "6",
             "ott_expiration_date": null,
-            "published": 1578016731,
+            "active": false,
+            "blacklist": [],
+            "published": 1577485699,
+            "first_published": 1475385041,
             "tags": [],
             "collection_title": "Bob's Burgers",
             "modified_by": "ODT Listener",
-            "launch_date": 1557154800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg",
+            "launch_date": 1560139200,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/the-land-ship/bobsburgers_511_air_cid-2WX46.jpg",
+            "cma_id": "1430229",
             "collection_slug": "bobs-burgers",
             "collection_title_id": "2003422",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
