@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 7, 2020 at 23:30:46 EST_
+_Last Update: January 8, 2020 at 00:00:37 EST_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-### 2019424
-**American Dad S10E09 - A Star Is Reborn**  
-TV-14-DLSV 🔒 21:04  
-⌛ January 14, 2020 at 23:29:00 EST  
-https://www.adultswim.com/videos/american-dad/a-star-is-reborn  
-seriesid=`581006` titleid=`2019424` id=`XNC8NPgfSOmtdxmD-9o-eQ` mediaid=`5900c53eebb60298f141100237541519b405b54a`  
-_While on vacation in Los Angeles, Stan joins the world of old Hollywood._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036510818619.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036510818619.jpg" height="144px" /></a>
+828246 Eagleheart: 1  
+### 892257
+**Eagleheart S02E09 - Exit Wound The Gift Shop**  
+TV-14-DLV 🔒 11:14  
+⌛ February 11, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/eagleheart/exit-wound-the-gift-shop  
+seriesid=`828246` titleid=`892257` id=`bsBP4V9TSlaTZ1iMHBjneQ` mediaid=`a0a7e2b2d25f2f9c816178ebc26026d075baea8b`  
+_Chris's signature blood splatters turn him into an art world star - but will success ruin the nation's top marshal? Guest Starring Bud Cort._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_209_pt1-03.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_209_pt1-03.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 2012721
-**American Dad S09E22 - Roger Passes the Bar**  
-TV-14 🔒 21:20  
-⌛ January 7, 2020 at 23:29:00 EST  
-https://www.adultswim.com/videos/american-dad/roger-passes-the-bar  
-seriesid=`581006` titleid=`2012721` id=`AUUluKMZS6OJ2XYUmGbT3Q` mediaid=`b0bab8b5f91c35797409c652e52141d7e5da204d`  
-_Roger pushes himself to the breaking point by working non-stop at his dive bar.  When he suffers a heart attack, Roger decides to sell the bar to a company that promises to continue his vision.  Upon returning to visit, Roger sees that the dive bar has been completely remade as a family friendly restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg" height="144px" /></a>
+828246 Eagleheart: 1  
+### 892252
+**Eagleheart S02E04 - Blues**  
+TV-14-LV 🔒 11:16  
+⌛ January 7, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/eagleheart/blues  
+seriesid=`828246` titleid=`892252` id=`9WKKPMgjS5OOhfWRNJmPbw` mediaid=`b8b8376e14dbb7d50e87adc7f41e184295023f8c`  
+_Chris goes on a journey to discover the blues - and learns that it may be in danger. Guest Starring Breaking Bad's Dean Norris._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_206_pt1-05.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_206_pt1-05.jpg" height="144px" /></a>
