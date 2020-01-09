@@ -821,57 +821,6 @@
         "cma_id": "1453261"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1559141940,
-        "tms_id": "EP015632430017",
-        "rating": 9.6362095,
-        "description": "Interviews with Lance Reddick and Harry Shum Jr.; Musical guest Jonwayne.",
-        "title_suggest": {
-            "input": [
-                "Lance Reddick / Harry Shum Jr.",
-                "Reddick / Harry Shum Jr.",
-                "/ Harry Shum Jr.",
-                "Harry Shum Jr.",
-                "Shum Jr.",
-                "Jr."
-            ]
-        },
-        "type": "episode",
-        "title": "Lance Reddick / Harry Shum Jr.",
-        "expiration_date": 1578545940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 667.0333667,
-        "episode_number": "7",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1556118000,
-        "modified": 1575108611,
-        "media_id": "524b000d24b98ec7d6b89c5a8062801445434673",
-        "airing_id": "RADS1011271900041793",
-        "id": "X7ZykMiSQI22m2kMVchrYw",
-        "slug": "lance-reddick-harry-shum-jr",
-        "views": 48976,
-        "created": 1402945479,
-        "title_id": "2012285",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1575108611,
-        "tags": [],
-        "rating_count": 2922,
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1575522000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_017_pt2_f4E4d-09.jpg",
-        "cma_id": "1477393"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1446740160,
         "auth_expiration_date": 1580273940,
@@ -1026,6 +975,54 @@
         "launch_date": 1474290000,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/sneak-peek-raymond-cruz-amber-rose-mail-man-eric/ericandre_ep407_004_Fat_Mail_Man.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1562165940,
+        "tms_id": "EP015632430023",
+        "description": "Interviews with Lauren Conrad and \"Reese Witherspoon\"; Musical guest Hannibal Buress.",
+        "title_suggest": {
+            "input": [
+                "Lauren Conrad; Reese Witherspoon",
+                "Conrad; Reese Witherspoon",
+                "Reese Witherspoon",
+                "Witherspoon"
+            ]
+        },
+        "title": "Lauren Conrad; Reese Witherspoon",
+        "type": "episode",
+        "expiration_date": 1581569940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 673.2002002,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1559142000,
+        "modified": 1578158410,
+        "media_id": "47ac561753e14587629a811e87833064399d6e2c",
+        "airing_id": "RADS1001032000051968",
+        "id": "dfREpMy4Q7iCmuW0KvCURQ",
+        "slug": "lauren-conrad-reese-witherspoon",
+        "views": 4,
+        "created": 1415866824,
+        "title_id": "2032597",
+        "tv_rating": "tv-ma-l",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1578158410,
+        "first_published": 1415866824,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1578546000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/lauren-conrad-reese-witherspoon/ericandre_cc_022_pt1.jpg",
+        "cma_id": "1328830"
     },
     {
         "auth": false,
