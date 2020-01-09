@@ -50,6 +50,56 @@
         "cma_id": "1472733"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1470061800,
+        "auth_expiration_date": 1579150740,
+        "tms_id": "EP024500790004",
+        "description": "Animated sketches from the mind of Brad Neely. Special guest star Lizzo.",
+        "title_suggest": {
+            "input": [
+                "For Blanchett",
+                "Blanchett"
+            ]
+        },
+        "title": "For Blanchett",
+        "type": "episode",
+        "expiration_date": 1576126740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "1r8KVM1NTTWjxDdQ5UrEOA",
+        "duration": 677.019,
+        "episode_number": "4",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1578596400,
+        "modified": 1578594005,
+        "media_id": "899e41bd1113fadc103143f51d6a82895885b6a9",
+        "airing_id": "RADS1001092000053381",
+        "id": "96LHhKGjQi6WsrVP7VEhiA",
+        "slug": "for-blanchett",
+        "views": 16041,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1469804620,
+        "season_number": "1",
+        "title_id": "2085186",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1578594005,
+        "first_published": 1469804620,
+        "tags": [],
+        "collection_title": "Brad Neely's Harg Nallin' Sclopio Peepio",
+        "modified_by": "ODT Listener",
+        "launch_date": 1573102800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/for-blanchett/bnhnsp_105_dup-20160621.jpg",
+        "cma_id": "2085186"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Harg Nallin Sclopio Peepio: F Your Pink Box",
