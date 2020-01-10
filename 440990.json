@@ -1,53 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1578637740,
-        "tms_id": "EP002960010245",
-        "description": "Lately Peter hasn't been able to perform very well in the bedroom. So he asks Quagmire and Joe to step in and help him get his mojo back.",
-        "title_suggest": {
-            "input": [
-                "Peter Problems",
-                "Problems"
-            ]
-        },
-        "title": "Peter Problems",
-        "type": "episode",
-        "expiration_date": 1497763799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1287.5196,
-        "episode_number": "9",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1578033000,
-        "modified": 1577685612,
-        "media_id": "6cb7dde4968b6c1c31e85be10964af93e0558edc",
-        "airing_id": "RADS1012291900050989",
-        "id": "-szv6FjTR46MolDer6edfQ",
-        "slug": "peter-problems",
-        "views": 2525,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108603278263.jpg",
-        "created": 1411575061,
-        "season_number": "12",
-        "title_id": "809273",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1577685612,
-        "first_published": 1411575061,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1497159000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108603278263.jpg",
-        "cma_id": "809273"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1578900540,
@@ -197,6 +149,54 @@
         "launch_date": 1578286800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/cop-and-a-half-wit/familyguy_1412_air_cid-3365H.jpg",
         "cma_id": "2105394"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1579242540,
+        "tms_id": "EP002960010253",
+        "description": "Stewie is happily watching the season finale of his favorite British television program when Chris and Peter suddenly show up in the living room, playing a game where they run around and hit each other with mattresses. Peter knocks Chris into the television set, which breaks and leaves Stewie furious because he can't watch his show. He throws a tantrum and gets sent to his room, where he decides to rebuild his time machine and use it to prevent his birth into the Griffin family.",
+        "title_suggest": {
+            "input": [
+                "Chap Stewie",
+                "Stewie"
+            ]
+        },
+        "title": "Chap Stewie",
+        "type": "episode",
+        "expiration_date": 1498368599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1289.9553,
+        "episode_number": "21",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1578637800,
+        "modified": 1578246729,
+        "media_id": "6396f4544f75a0cc0959f84bc6e1b9d472168784",
+        "airing_id": "RADS1001032000052002",
+        "id": "DhqwsSIoQBWijP4Ppsk3Nw",
+        "slug": "chap-stewie",
+        "views": 767,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108604814309.jpg",
+        "created": 1411575455,
+        "season_number": "12",
+        "title_id": "809282",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578246729,
+        "first_published": 1411575455,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1497763800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108604814309.jpg",
+        "cma_id": "809282"
     },
     {
         "auth": false,
