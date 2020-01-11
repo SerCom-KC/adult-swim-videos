@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 10, 2020 at 02:00:44 EST_
+_Last Update: January 11, 2020 at 00:00:47 EST_
 ## Video added
 ### Summary
-440990 Family Guy: 1  
-### 809282
-**Family Guy S12E21 - Chap Stewie**  
-TV-14 🔒 21:29  
-⌛ January 17, 2020 at 01:29:00 EST  
-https://www.adultswim.com/videos/family-guy/chap-stewie  
-seriesid=`440990` titleid=`809282` id=`DhqwsSIoQBWijP4Ppsk3Nw` mediaid=`6396f4544f75a0cc0959f84bc6e1b9d472168784`  
-_Stewie is happily watching the season finale of his favorite British television program when Chris and Peter suddenly show up in the living room, playing a game where they run around and hit each other with mattresses. Peter knocks Chris into the television set, which breaks and leaves Stewie furious because he can't watch his show. He throws a tantrum and gets sent to his room, where he decides to rebuild his time machine and use it to prevent his birth into the Griffin family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108604814309.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108604814309.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 2041474
+**American Dad S11E01 - Roots**  
+TV-14-DLV 🔒 21:13  
+⌛ January 17, 2020 at 23:29:00 EST  
+https://www.adultswim.com/videos/american-dad/roots  
+seriesid=`581006` titleid=`2041474` id=`TYWscrkVRdCNVviIdM1W0Q` mediaid=`566083395eaa38012ee31da187d895b1f2fcd330`  
+_Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-440990 Family Guy: 1  
-### 809273
-**Family Guy S12E09 - Peter Problems**  
-TV-14 🔓 21:27  
-⌛ January 10, 2020 at 01:29:00 EST  
-https://www.adultswim.com/videos/family-guy/peter-problems  
-seriesid=`440990` titleid=`809273` id=`-szv6FjTR46MolDer6edfQ` mediaid=`6cb7dde4968b6c1c31e85be10964af93e0558edc`  
-_Lately Peter hasn't been able to perform very well in the bedroom. So he asks Quagmire and Joe to step in and help him get his mojo back._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108603278263.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108603278263.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 2019421
+**American Dad S10E05 - Now and Gwen**  
+TV-14 🔒 21:03  
+⌛ January 10, 2020 at 23:29:00 EST  
+https://www.adultswim.com/videos/american-dad/now-and-gwen  
+seriesid=`581006` titleid=`2019421` id=`yl36vIIkSmiG-pCULIEgOw` mediaid=`7514ae85c990bd9a217250c8bee8e0f19a982fb4`  
+_When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg" height="144px" /></a>

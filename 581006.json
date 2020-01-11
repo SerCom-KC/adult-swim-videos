@@ -637,7 +637,7 @@
         "cma_id": "1470369"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1578718740,
         "tms_id": "EP007164450208",
@@ -684,6 +684,54 @@
         "launch_date": 1556550000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205081794.jpg",
         "cma_id": "1495766"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1579321740,
+        "tms_id": "EP007164450203",
+        "description": "Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery.",
+        "title_suggest": {
+            "input": [
+                "Roots"
+            ]
+        },
+        "expiration_date": 1551110340,
+        "title": "Roots",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.2,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1578717000,
+        "modified": 1578287907,
+        "media_id": "566083395eaa38012ee31da187d895b1f2fcd330",
+        "airing_id": "RADS1001032000052011",
+        "id": "TYWscrkVRdCNVviIdM1W0Q",
+        "slug": "roots",
+        "views": 3704,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002065003817.jpg",
+        "created": 1442333003,
+        "season_number": "11",
+        "title_id": "2041474",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1578287907,
+        "first_published": 1471872051,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1550592000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg",
+        "cma_id": "1442186"
     },
     {
         "auth": true,
@@ -883,7 +931,7 @@
         "cma_id": "1463525"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1578718740,
         "tms_id": "EP007164450193",
@@ -1026,54 +1074,5 @@
         "launch_date": 1559746800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg",
         "cma_id": "1458910"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1578716940,
-        "tms_id": "EP007164450191",
-        "description": "When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments.",
-        "title_suggest": {
-            "input": [
-                "Now and Gwen",
-                "and Gwen",
-                "Gwen"
-            ]
-        },
-        "title": "Now and Gwen",
-        "type": "episode",
-        "expiration_date": 1497675599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.0285,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1578112200,
-        "clip_order": null,
-        "modified": 1577776562,
-        "media_id": "7514ae85c990bd9a217250c8bee8e0f19a982fb4",
-        "airing_id": "RADS1012291900050994",
-        "id": "yl36vIIkSmiG-pCULIEgOw",
-        "slug": "now-and-gwen",
-        "views": 1611,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002057523219.jpg",
-        "created": 1436242823,
-        "title_id": "2019421",
-        "tv_rating": "tv-14",
-        "season_number": "10",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1577776562,
-        "first_published": 1436242823,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1497070800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg",
-        "cma_id": "1413152"
     }
 ]
