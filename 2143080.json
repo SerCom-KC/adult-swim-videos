@@ -763,6 +763,57 @@
         "auth": true
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580639340,
+        "tms_id": "EP032284200100",
+        "description": "Asta confronts his rival Yuno, one of many Golden Dawn members to have been taken over by elves. Licht is spurred to action, as are Yami and Finral.",
+        "title_suggest": {
+            "input": [
+                "We Won't Lose to You",
+                "Won't Lose to You",
+                "Lose to You",
+                "to You",
+                "You"
+            ]
+        },
+        "title": "We Won't Lose to You",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 0,
+        "episode_number": "49",
+        "original_air_date": null,
+        "auth_launch_date": 1578825000,
+        "clip_order": null,
+        "media_id": "83948c62b95d4e1a3011a3bd36db78ef2b18093a",
+        "modified": 1578396607,
+        "airing_id": "RADS1001062000052550",
+        "slug": "we-wont-lose-to-you",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/1_201393988-BlackClover_100.jpg",
+        "created": 1578062354,
+        "season_number": "2",
+        "title_id": "2205126",
+        "tv_rating": "tv-14",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578396607,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_201393988-BlackClover_100.jpg",
+        "id": "AW9r2JZ2GRcVO2K2pl_O",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1610427540,
