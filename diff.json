@@ -1,19 +1,18 @@
 {
-    "updated": 1578823239,
+    "updated": 1578825040,
     "added": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1580635740,
-            "tms_id": "",
-            "description": "Tensions mount as Soma faces off against Akira Hayama and the finalists are chosen!",
+            "auth_expiration_date": 1580637540,
+            "tms_id": "EP033351550011",
+            "description": "Tanjiro meets a fellow Final Selection survivor, Zenitsu Agatsuma, on his way to his next assignment. Tanjiro hears the mysterious sound of a tsuzumi.",
             "title_suggest": {
                 "input": [
-                    "The Warriors' Banquet",
-                    "Warriors' Banquet",
-                    "Banquet"
+                    "Tsuzumi Mansion",
+                    "Mansion"
                 ]
             },
-            "title": "The Warriors' Banquet",
+            "title": "Tsuzumi Mansion",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -22,93 +21,37 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWuvYf7tCorLtcgflrvU",
+            "collection_id": "AW2OS1BT1YiBSfg0KXc4",
             "duration": 0,
-            "episode_number": "24",
+            "episode_number": "11",
             "original_air_date": null,
-            "auth_launch_date": 1578821400,
+            "auth_launch_date": 1578823200,
             "clip_order": null,
-            "media_id": "67b3e77e97d43a1cdde28bf086f5de4b4c8bd65a",
-            "modified": 1578393366,
-            "airing_id": "RADS1001062000052546",
-            "slug": "the-warriors-banquet",
+            "media_id": "adbd12e9e16f5f9799437a6c7a968685c374ee86",
+            "modified": 1578394567,
+            "airing_id": "RADS1001062000052544",
+            "slug": "tsuzumi-mansion",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/1_1910281055494-FoodWars_024.jpg",
-            "created": 1572274555,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/1_2013935400-DemonSlayer_011.jpg",
+            "created": 1578062153,
             "season_number": "1",
-            "title_id": "2201041",
-            "tv_rating": "tv-ma-s",
+            "title_id": "2209303",
+            "tv_rating": "tv-14-v",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1578393366,
+            "published": 1578394567,
             "tags": [],
-            "collection_title": "Food Wars!",
+            "collection_title": "Demon Slayer",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281055494-FoodWars_024.jpg",
-            "id": "AW4S3cvf1YiBSfg0KYDq",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_2013935400-DemonSlayer_011.jpg",
+            "id": "AW9r1YcWGRcVO2K2pl_N",
             "auth": true,
-            "collection_slug": "food-wars",
-            "collection_title_id": "2201017",
+            "collection_slug": "demon-slayer",
+            "collection_title_id": "2209292",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1578821340,
-            "tms_id": "EP029407000003",
-            "description": "Shinpei Mayama, the Rat Clan, Union Mama, the all-stars of assassination, from all over the world, suddenly come after Lupin.",
-            "title_suggest": {
-                "input": [
-                    "The Killers Gather in the Wasteland",
-                    "Killers Gather in the Wasteland",
-                    "Gather in the Wasteland",
-                    "in the Wasteland",
-                    "the Wasteland",
-                    "Wasteland"
-                ]
-            },
-            "title": "The Killers Gather in the Wasteland",
-            "expiration_date": 1565512140,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWsjveiCCorLtcgflq7h",
-            "duration": 1325.9579,
-            "episode_number": "3",
-            "original_air_date": null,
-            "auth_launch_date": 1565512200,
-            "clip_order": null,
-            "media_id": "0f6a805a58c7b8ce756436f33e1c7412606aed52",
-            "modified": 1569601020,
-            "airing_id": "RADS1007171900006952",
-            "slug": "the-killers-gather-in-the-wasteland",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156175093809420.jpg",
-            "created": 1561750941,
-            "season_number": "1",
-            "title_id": "2193930",
-            "tv_rating": "",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1569601020,
-            "tags": [],
-            "collection_title": "Lupin the 3rd Part 5",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1563697800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156175093809420.jpg",
-            "id": "AWufnDByCorLtcgflrkq",
-            "auth": true,
-            "collection_slug": "lupin-the-3rd-part-5",
-            "collection_title_id": "2193927",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
