@@ -534,5 +534,55 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155085074712611.jpg",
         "id": "AWjywFQVHl5gR6828yeS",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1579499940,
+        "tms_id": "EP012792980108",
+        "description": "When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom.",
+        "title_suggest": {
+            "input": [
+                "Pro Tiki/Con Tiki",
+                "Tiki/Con Tiki",
+                "Tiki"
+            ]
+        },
+        "title": "Pro Tiki/Con Tiki",
+        "type": "episode",
+        "expiration_date": 1558969140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.333667,
+        "episode_number": "15",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1578895200,
+        "modified": 1578587047,
+        "media_id": "85023daed95dfa1e0fa1f0a4a36b43b3f6bbbb4e",
+        "airing_id": "RADS1001062000052559",
+        "id": "vHn_yL2YSJaGa4pHqijGZg",
+        "slug": "pro-tiki-con-tiki",
+        "views": 11626,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1481451039,
+        "title_id": "2097203",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1578587047,
+        "first_published": 1481451039,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1558364400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg",
+        "cma_id": "1486547"
     }
 ]
