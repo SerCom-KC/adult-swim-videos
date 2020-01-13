@@ -2,54 +2,6 @@
     {
         "ott_launch_date": null,
         "auth": true,
-        "auth_expiration_date": 1578891599,
-        "tms_id": "EP026601320002",
-        "description": "After being suspended for the uproar he caused at the entrance ceremony, Boruto makes his way to the academy for the first time.",
-        "title_suggest": {
-            "input": [
-                "The Hokage's Son!",
-                "Hokage's Son!",
-                "Son!"
-            ]
-        },
-        "title": "The Hokage's Son!",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWXtZtvdh5enQuYyIc4A",
-        "duration": 1345.8779,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1572235200,
-        "clip_order": null,
-        "media_id": "d4763e76663a5ccb726ca2380df3d1601ca8f232",
-        "modified": 1572058704,
-        "airing_id": "RADS1010261900030104",
-        "id": "AWY1it1Ih5enQuYyI60o",
-        "slug": "the-hokages-son",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15390114888694.jpg",
-        "created": 1538496585,
-        "season_number": "1",
-        "title_id": "2168701",
-        "tv_rating": "tv-pg",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1572058704,
-        "tags": [],
-        "collection_title": "Boruto: Naruto Next Generations",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15390114888694.jpg"
-    },
-    {
-        "ott_launch_date": null,
-        "auth": true,
         "auth_expiration_date": 1579496399,
         "tms_id": "EP026601320003",
         "description": "After getting caught in a fight between Metal and Shikadai, Boruto notices that Metal's chakra is warped, just like Denki's.",
@@ -488,6 +440,54 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154360133709619.jpg",
         "id": "AWdlk1GFqD68dq0Op5oM",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1584935940,
+        "tms_id": "",
+        "description": "The Ghost incidents suddenly come to an end and Boruto and his classmates are puzzled, but Mitsuki seems to know something they don't.",
+        "title_suggest": {
+            "input": [
+                "Boruto and Mitsuki",
+                "and Mitsuki",
+                "Mitsuki"
+            ]
+        },
+        "title": "Boruto and Mitsuki",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWXtZtvdh5enQuYyIc4A",
+        "duration": 1358.17,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1578891600,
+        "clip_order": null,
+        "media_id": "28220e5e5795af99bc44fa912753e02db6e58044",
+        "modified": 1578536886,
+        "airing_id": "RADS1001082000053329",
+        "slug": "boruto-and-mitsuki",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15466225932329.jpg",
+        "created": 1544215635,
+        "season_number": "1",
+        "title_id": "2168711",
+        "tv_rating": "tv-pg",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578536886,
+        "tags": [],
+        "collection_title": "Boruto: Naruto Next Generations",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466225932329.jpg",
+        "id": "AWeKbKW1qD68dq0Op5x7",
         "auth": true
     }
 ]
