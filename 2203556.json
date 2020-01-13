@@ -1,6 +1,53 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1580633940,
+        "tms_id": "EP032684490021",
+        "description": "Obi and Vulcan face off against Dr. Giovanni and Lisa, during which Giovanni tells Obi more about Adolla Bursts. Shinra has an unusual experience that leads him to find Sho, but their reunion proves more volatile than hoped for.",
+        "title_suggest": {
+            "input": [
+                "Those Connected",
+                "Connected"
+            ]
+        },
+        "title": "Those Connected",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWwbkOBM4aLemgzOLF3t",
+        "duration": 0,
+        "episode_number": "21",
+        "original_air_date": null,
+        "auth_launch_date": 1578819600,
+        "clip_order": null,
+        "media_id": "060d0af4e485322649f2d8ab2fb2dad6f3494abd",
+        "modified": 1578935711,
+        "slug": "those-connected",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1578935708,
+        "season_number": "1",
+        "title_id": "2203577",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578935711,
+        "tags": [],
+        "collection_title": "Fire Force",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
+        "poster": "",
+        "id": "AW-f5uufGRcVO2K2pmCE",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1583211540,
         "tms_id": "",
         "description": "Obi goes over Hibana's research, and learns that the artificially-created Infernals she dissected all had traces of insect DNA. Shinra and Arthur's investigation at the 1st continues, and they finally get their first lead on a culprit.",
