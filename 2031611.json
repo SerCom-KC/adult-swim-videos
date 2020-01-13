@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370061",
@@ -332,6 +332,63 @@
         "launch_date": 1571630400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210160363-dragonballzkai_054_air_cid-2P7MV.jpg",
         "cma_id": "1180740"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370068",
+        "description": "Faced with an unbeatable enemy, Vegeta flies away in a solitary rage, and Piccolo seeks out Kami on a quest to increase his power by whatever means necessary!",
+        "title_suggest": {
+            "input": [
+                "The Time For Reunification Has Come! Piccolo's Unshakeable Resolve!",
+                "Time For Reunification Has Come! Piccolo's Unshakeable Resolve!",
+                "For Reunification Has Come! Piccolo's Unshakeable Resolve!",
+                "Reunification Has Come! Piccolo's Unshakeable Resolve!",
+                "Has Come! Piccolo's Unshakeable Resolve!",
+                "Come! Piccolo's Unshakeable Resolve!",
+                "Piccolo's Unshakeable Resolve!",
+                "Unshakeable Resolve!",
+                "Resolve!"
+            ]
+        },
+        "expiration_date": 1581915540,
+        "title": "The Time For Reunification Has Come! Piccolo's Unshakeable Resolve!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1317,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "66",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1578532566,
+        "media_id": "5c2bb4a9474e8b7d6e48c7c470f96446bef61a34",
+        "airing_id": "RADS1001082000053336",
+        "id": "40nI2IK1Rwyj7tGaA7XU5w",
+        "slug": "the-time-for-reunification-has-come-piccolos-unshakeable-resolve",
+        "views": 1996,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210165533-dragonballzkai_066_air_cid-2RW64.jpg",
+        "created": 1454356802,
+        "season_number": "1",
+        "title_id": "2031677",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1578532566,
+        "first_published": 1460531418,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1578891600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210165533-dragonballzkai_066_air_cid-2RW64.jpg",
+        "cma_id": "1213087"
     },
     {
         "auth": true,
