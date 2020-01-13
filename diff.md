@@ -2,26 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 13, 2020 at 12:30:37 EST_
+_Last Update: January 13, 2020 at 14:30:49 EST_
 ## Video added
 ### Summary
-2203556 Fire Force: 1  
-2142267 My Hero Academia: 1  
-### 2203577
-**Fire Force S01E21 - Those Connected**  
-TV-14-V 🔒 00:00  
-⌛ February 2, 2020 at 03:59:00 EST  
-https://www.adultswim.com/videos/fire-force/those-connected  
-seriesid=`2203556` titleid=`2203577` id=`AW-f5uufGRcVO2K2pmCE` mediaid=`060d0af4e485322649f2d8ab2fb2dad6f3494abd`  
-_Obi and Vulcan face off against Dr. Giovanni and Lisa, during which Giovanni tells Obi more about Adolla Bursts. Shinra has an unusual experience that leads him to find Sho, but their reunion proves more volatile than hoped for._  
-<a href=""><img src="" height="144px" /></a>
-### 2214112
-**My Hero Academia S04E08 - Suneater of the Big Three**  
-TV-14-LV 🔒 00:00  
-⌛ February 2, 2020 at 02:29:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/suneater-of-the-big-three  
-seriesid=`2142267` titleid=`2214112` id=`AW-f5P-AGRcVO2K2pmCD` mediaid=`e82ccf3cf7589177df376bf31a5ddd54085c7115`  
-_The Shie Hassaikai is going all out to stop the heroes, and Suneater volunteers to take out the first batch of Eight Bullets members in their way._  
-<a href=""><img src="" height="144px" /></a>
+618253 12 oz. Mouse: 2  
+### 657706
+**12 oz. Mouse S02E10 - Eighteen**  
+TV-14-LV 🔓 11:29  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/12-oz-mouse/eighteen  
+seriesid=`618253` titleid=`657706` id=`xDjJRT4cQbqzMir_u1Up9g` mediaid=`7b794fe7d8ec9f5f77828a221d7aee762256c056`  
+_Skillet is selected to participate in forced busing in an attempt to achieve integration in the city's public schools. He doesn't want to go, but Mouse Fitzgerald talks him into it._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_017_pt1-03.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_017_pt1-03.jpg" height="144px" /></a>
+### 657708
+**12 oz. Mouse S02E11 - Pre-reckoning**  
+TV-14 🔓 11:59  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/12-oz-mouse/pre-reckoning  
+seriesid=`618253` titleid=`657708` id=`gwSrG4H2Q8-bQOqNYia65w` mediaid=`42f1fa0481abe73622ac99b2c5f101524d2178b5`  
+_Rooster finds $65,000 in a brown paper sack in an alley from a botched robbery at Rhoda's. He wants to keep the money, but Liquor talks him into returning it._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_018_pt2-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_018_pt2-02.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
