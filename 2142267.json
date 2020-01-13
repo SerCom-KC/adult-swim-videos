@@ -1,6 +1,56 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Looks like it\u2019s more about the deference than about the punches on the next My Hero Academia.",
+        "title_suggest": {
+            "input": [
+                "Sneak Peek - Red Riot",
+                "Peek - Red Riot",
+                "- Red Riot",
+                "Red Riot",
+                "Riot"
+            ]
+        },
+        "title": "Sneak Peek - Red Riot",
+        "expiration_date": 1580734800,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 15,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "",
+        "modified": 1578954359,
+        "slug": "sneak-peek-red-riot",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200110/thumbnails/1_201101543144-promo_MHA_Top_71_SAT_15.jpg",
+        "created": 1578689069,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578954359,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1578920400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200110/thumbnails/2_201101543144-promo_MHA_Top_71_SAT_15.jpg",
+        "id": "AW-RM4CNGRcVO2K2pmBg",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1580628540,
         "tms_id": "EP024348490074",
         "description": "The Shie Hassaikai is going all out to stop the heroes, and Suneater volunteers to take out the first batch of Eight Bullets members in their way.",
