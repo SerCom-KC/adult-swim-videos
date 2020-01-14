@@ -2,14 +2,11 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 14, 2020 at 12:30:38 EST_
+_Last Update: January 14, 2020 at 17:30:44 EST_
 ## Video added
-### Summary
-2215991 Sword Art Online: Alicization - War of Underworld: 1  
-### Online Exclusives
-`AW-lBbLD3HMJfT8do6_7` [Sword Art Online: Alicization - War of Underworld - Sword Art Online Alicization War of Underworld Trailer](https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/sword-art-online-alicization-war-of-underworld-trailer)  
+No videos were added.  
 ## Video removed
 ### Summary
-2190038 Sword Art Online: Alicization: 1  
+2031721 Decker: 1  
 ### Online Exclusives
-`AW-RKZDRGRcVO2K2pmBd` [Sword Art Online: Alicization - Sword Art Online Alicization War of Underworld Trailer](https://www.adultswim.com/videos/sword-art-online-alicization/sword-art-online-alicization-war-of-underworld-trailer)  
+`7BXOPasZTJi1ohw2LmRllA` [Decker - Decker: Unsealed Teaser](https://www.adultswim.com/videos/decker/decker-unsealed-teaser)  
