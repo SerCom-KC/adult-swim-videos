@@ -101,6 +101,54 @@
         "cma_id": "1420185"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1579588140,
+        "tms_id": "EP002960010271",
+        "description": "At Stewie's graduation, Brian states that Stewie's proud moment is no big feat. Stewie takes it upon himself to try and acquire some real world knowledge.  Meg is discovered by a photographer who asks her if she would like to model for him.",
+        "title_suggest": {
+            "input": [
+                "This Little Piggy",
+                "Little Piggy",
+                "Piggy"
+            ]
+        },
+        "title": "This Little Piggy",
+        "type": "episode",
+        "expiration_date": 1571025540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1290.9229,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1578983400,
+        "clip_order": null,
+        "modified": 1578681366,
+        "media_id": "efcaf8b7f59ecce4ab099bdf6fbf4e6993c8c9aa",
+        "airing_id": "RADS1001102000053637",
+        "id": "8rfWndh1RUm8E6zMF4BKoQ",
+        "slug": "this-little-piggy",
+        "views": 1440,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267603955719.jpg",
+        "created": 1472188223,
+        "title_id": "809291",
+        "tv_rating": "tv-14",
+        "season_number": "13",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578681366,
+        "first_published": 1472188223,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1570420800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267603955719.jpg",
+        "cma_id": "1420395"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1557124140,
@@ -597,53 +645,5 @@
         "launch_date": 1578891600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/how-the-griffin-stole-christmas/familyguy_1406_air_cid-30YTK.jpg",
         "cma_id": "1314764"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1578983340,
-        "tms_id": "EP002960010251",
-        "description": "Peter discovers he can skip out of work by taking smoke breaks. He begins smoking to dodge other tasks and soon gets addicted. When he wakes up one day with sunken cheeks and gray skin, Lois pushes him to visit a smoking rehab clinic.",
-        "title_suggest": {
-            "input": [
-                "Secondhand Spoke",
-                "Spoke"
-            ]
-        },
-        "title": "Secondhand Spoke",
-        "type": "episode",
-        "expiration_date": 1498112999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1292.2243,
-        "episode_number": "15",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1578378600,
-        "modified": 1578016928,
-        "media_id": "bbc1c5afaf9d806780c84d951685b8ff0d00f640",
-        "airing_id": "RADS1001022000051330",
-        "id": "xcrBCE0vQBqfVXbqtN1qEw",
-        "slug": "secondhand-spoke",
-        "views": 2464,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108603659631.jpg",
-        "created": 1411575251,
-        "season_number": "12",
-        "title_id": "809277",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1578016928,
-        "first_published": 1411575251,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1497508200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108603659631.jpg",
-        "cma_id": "809277"
     }
 ]
