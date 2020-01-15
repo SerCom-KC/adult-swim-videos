@@ -164,6 +164,56 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": 1446844740,
+        "auth_expiration_date": 1582088340,
+        "tms_id": "EP004625750033",
+        "rating": 8.717537,
+        "description": "After centuries trapped in Phil's vase, Shazzan pops out by the hand of Peanut.  Or rather, Master Peanut, who proceeds to wish for everything that's, uh, big.  Shazzan, because ostensibly it's a law show, forms a case against his imprisoner, Mufti the Mizwa of Muzzy Tah!  All the while, Avenger  - without warning - speaks, embracing a fresh vocabulary of insults and occasional slurs.",
+        "title_suggest": {
+            "input": [
+                "Shazzan"
+            ]
+        },
+        "type": "episode",
+        "title": "Shazzan",
+        "expiration_date": 1562252340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 694.011,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1579064400,
+        "modified": 1578682565,
+        "media_id": "a55c7ad28d4726f40ebdee736fe1429d10bd85b8",
+        "airing_id": "RADS1001102000053649",
+        "id": "AMNl45FYSaqGkZsJ-53iKw",
+        "slug": "shazzan",
+        "views": 296139,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945467,
+        "title_id": "639264",
+        "season_number": "4",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1578682565,
+        "tags": [],
+        "rating_count": 924,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "modified_by": "ODT Listener",
+        "launch_date": 1559228400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_033_pt1-03.jpg",
+        "cma_id": ""
+    },
+    {
         "ott_launch_date": 1539613860,
         "auth": false,
         "auth_expiration_date": 1541406540,
@@ -265,59 +315,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1558018800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_032_pt2-02.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446844560,
-        "auth_expiration_date": 1579064340,
-        "tms_id": "EP004625750028",
-        "rating": 8.647698,
-        "description": "Peebles is being sued when a group of animal rights activists break into his store, free all the animals and kidnap Magilla.  In the meantime, Phil takes Potamus and his nephews on a fishing trip in hopes of either communing with or totally obliterating nature.",
-        "title_suggest": {
-            "input": [
-                "Free Magilla",
-                "Magilla"
-            ]
-        },
-        "type": "episode",
-        "title": "Free Magilla",
-        "expiration_date": 1559228340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 692.02,
-        "episode_number": "8",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1576040400,
-        "modified": 1577125325,
-        "media_id": "8943256045fc8d84f58dac479bc94fb49172ac29",
-        "airing_id": "RADS1012061900044511",
-        "id": "UEaQOAVIS8uLlXDdU7D3qA",
-        "slug": "free-magilla",
-        "views": 296322,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945467,
-        "title_id": "623566",
-        "season_number": "3",
-        "tv_rating": "tv-pg-dv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1577125325,
-        "tags": [
-            "harvey birdman attorney at law episode 28 free magilla peebles animal rights activists nephews"
-        ],
-        "rating_count": 738,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "modified_by": "ODT Listener",
-        "launch_date": 1556204400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_028_pt1-04.jpg",
         "cma_id": ""
     },
     {
