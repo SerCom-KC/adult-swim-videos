@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 15, 2020 at 01:30:25 EST_
+_Last Update: January 15, 2020 at 02:00:35 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2032238 Mike Tyson Mysteries: 1  
-### 2172013
-**Mike Tyson Mysteries S04E16 - The Christmas Episode**  
-TV-14-DLV 🔓 11:20  
-⌛ January 15, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/mike-tyson-mysteries/the-christmas-episode  
-seriesid=`2032238` titleid=`2172013` id=`AW7MYlwy1YiBSfg0KZCK` mediaid=`546d3e27c1aad78304160dbcf1344cbdd0426baa`  
-_Can the team bring holiday cheer to someone who's given up on life?_  
-<a href="https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231030206-miketysonmysteries_416_dup-20191205.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231030206-miketysonmysteries_416_dup-20191205.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 809135
+**Family Guy S12E17 - The Most Interesting Man in the World**  
+TV-14 🔓 21:30  
+⌛ January 15, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/the-most-interesting-man-in-the-world  
+seriesid=`440990` titleid=`809135` id=`fRJjoCcwRv22w9lme_rk7Q` mediaid=`7f061293ea2376deb14e68fd251681e860929751`  
+_Peter attends theater shows, museums, and other high culture events across the country. Eventually, he transforms into a sophisticated and scholarly individual._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108604257522.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108604257522.jpg" height="144px" /></a>
