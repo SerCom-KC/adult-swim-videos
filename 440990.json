@@ -446,6 +446,53 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1579676340,
+        "tms_id": "EP002960010259",
+        "description": "The Griffin's are forced to flee their hometown of Quahog after Peter's offensive newspaper comics spark uproar amongst the local townspeople. Driving through the night, the Griffin's arrive in a small suburban town called \"Springfield\".",
+        "title_suggest": {
+            "input": [
+                "Simpsons Guy",
+                "Guy"
+            ]
+        },
+        "title": "Simpsons Guy",
+        "type": "episode",
+        "expiration_date": 1569211140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 2613.8779,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1579071600,
+        "clip_order": null,
+        "modified": 1578688813,
+        "media_id": "0b19650546eb7fa1af8e10b9ff1c76236ccbb434",
+        "airing_id": "RADS1001102000053657",
+        "id": "PIpynSoaQZe4QWW2nmZ2ig",
+        "slug": "simpsons-guy",
+        "views": 4124,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15126758834069.jpg",
+        "created": 1412662825,
+        "title_id": "809286",
+        "tv_rating": "tv-14",
+        "season_number": "13",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578688813,
+        "first_published": 1412662825,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1568606400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126758834069.jpg",
+        "cma_id": "1418352"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1579328940,
         "tms_id": "EP002960010265",
         "description": "An earthquake strikes in Haiti, prompting Lois to start a blood drive to help the victims. She gives homemade cookies to all the blood donors. Peter loves the cookies so much he thinks they can make money by selling them.",
