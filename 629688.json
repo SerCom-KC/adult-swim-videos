@@ -575,6 +575,61 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447171560,
+        "auth_expiration_date": 1573016340,
+        "tms_id": "EP007959510007",
+        "rating": 7.262136,
+        "description": "Moralton on Jesus' birthday... a very special \"Moral Orel.\"",
+        "title_suggest": {
+            "input": [
+                "The Best Christmas Ever",
+                "Best Christmas Ever",
+                "Christmas Ever",
+                "Ever"
+            ]
+        },
+        "type": "episode",
+        "title": "The Best Christmas Ever",
+        "expiration_date": 1582174740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 671,
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1569988800,
+        "modified": 1578893766,
+        "media_id": "548dcf4b77483ce1c98837413d430d5fbf4dc34e",
+        "airing_id": "RADS1001132000054231",
+        "id": "Q_G7C6x-SMefYxr-aiQu7Q",
+        "slug": "the-best-christmas-ever",
+        "views": 250340,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945470,
+        "title_id": "630146",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1578893766,
+        "tags": [
+            "Moral Orel Episode 10 The Best Christmas Ever"
+        ],
+        "rating_count": 1030,
+        "collection_title": "Moral Orel",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579150800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_010_pt2-04.jpg",
+        "cma_id": "1349065"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447171440,
         "auth_expiration_date": 1571198340,
         "tms_id": "EP007959510006",
@@ -676,60 +731,6 @@
         "launch_date": 1576731600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_006_pt2-03.jpg",
         "cma_id": "1332224"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447171440,
-        "auth_expiration_date": 1569988740,
-        "tms_id": "EP007959510005",
-        "rating": 7.4947505,
-        "description": "A series of improbable assumptions leads Orel from a sermon about marriage straight to the town's only sex shop.",
-        "title_suggest": {
-            "input": [
-                "The Blessed Union",
-                "Blessed Union",
-                "Union"
-            ]
-        },
-        "type": "episode",
-        "title": "The Blessed Union",
-        "expiration_date": 1579150740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 673,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1566964800,
-        "modified": 1577125326,
-        "media_id": "14262a901a2577628990704358f6a7a32d005909",
-        "airing_id": "RADS1012081900044828",
-        "id": "f4C2ubHoTUmqdCrt8HWFzw",
-        "slug": "the-blessed-union",
-        "views": 235640,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945470,
-        "title_id": "633147",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1577125326,
-        "tags": [
-            "moral orel episode 5 blessed union marriage sex shop stephanie"
-        ],
-        "rating_count": 762,
-        "collection_title": "Moral Orel",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576126800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_005_pt2-03.jpg",
-        "cma_id": "1328413"
     },
     {
         "auth": true,

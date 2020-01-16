@@ -192,54 +192,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15410225192671.jpg"
     },
     {
-        "ott_launch_date": 1542036540,
-        "auth_expiration_date": 1582261140,
-        "tms_id": "",
-        "description": "88 goes under to get treatment for his \"confidence\". Dr Roberts tests a groundbreaking new technology.",
-        "title_suggest": {
-            "input": [
-                "88's Weekly",
-                "Weekly"
-            ]
-        },
-        "expiration_date": 1579150740,
-        "type": "episode",
-        "title": "88's Weekly",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 676.73,
-        "episode_number": "8",
-        "original_air_date": null,
-        "auth_launch_date": 1579237200,
-        "clip_order": null,
-        "media_id": "31ab64761cdc1f34cef37ed84712e0230e55f9bf",
-        "modified": 1578938766,
-        "airing_id": "RADS1001132000054276",
-        "slug": "88-s-weekly",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154160544362420.jpg",
-        "created": 1523997032,
-        "season_number": "2",
-        "title_id": "2133692",
-        "tv_rating": "tv-14-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1578938766,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576731600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154160544362420.jpg",
-        "id": "AWLVTT7STdxzjxdCldXa",
-        "auth": false
-    },
-    {
         "ott_launch_date": 1541431740,
         "auth": true,
         "auth_expiration_date": 1581051540,
@@ -430,6 +382,55 @@
         "launch_date": 1578546000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154283721744219.jpg",
         "id": "AWWG0Q2Oh5enQuYyHyR0",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1543246140,
+        "auth_expiration_date": 1576213140,
+        "tms_id": "",
+        "description": "Skin to skin contact feels like fire to Patient 66. With a history of minimal human touch or relationships, Dr Roberts prescribes her a Dream Date.",
+        "title_suggest": {
+            "input": [
+                "Can't Touch This",
+                "Touch This",
+                "This"
+            ]
+        },
+        "expiration_date": 1581569940,
+        "type": "episode",
+        "title": "Can't Touch This",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.73,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1573189200,
+        "clip_order": null,
+        "media_id": "1088c25ca93b497af265097216b760a9a5e1db29",
+        "modified": 1578929686,
+        "airing_id": "RADS1001132000054224",
+        "slug": "cant-touch-this",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15428372548979.jpg",
+        "created": 1535562989,
+        "season_number": "2",
+        "title_id": "2133696",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578929686,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579150800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15428372548979.jpg",
+        "id": "AWWGr788h5enQuYyHyOP",
         "auth": false
     },
     {
