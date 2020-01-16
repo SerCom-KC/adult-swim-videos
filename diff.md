@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 16, 2020 at 01:00:39 EST_
+_Last Update: January 16, 2020 at 02:00:45 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2171451
-**Bob's Burgers S08E11 - Sleeping with the Frenemy**  
-TV-PG-L 🔒 21:42  
-⌛ January 23, 2020 at 00:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/sleeping-with-the-frenemy  
-seriesid=`2003422` titleid=`2171451` id=`AWdWDWoGqD68dq0Op5ju` mediaid=`1008630bc02857a6e5214c023a4e5eb8051ddd31`  
-_Tina allows Tammy to spend Spring Break with the Belchers - and even plays Cupid, setting up Tammy with a boy from out of town. Meanwhile, Gene and Bob enlist the help of Dr. Yap in finding a baby tooth to complete Linda's collection._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 809293
+**Family Guy S13E11 - Encyclopedia Griffin**  
+TV-14 🔒 21:31  
+⌛ January 23, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/encyclopedia-griffin  
+seriesid=`440990` titleid=`809293` id=`sI4vFD1oSWqoRIeQhFMZew` mediaid=`e33b93a9a44a4cf8958804bd71d954fa66a5aa6a`  
+_When Stewie complains that his tricycle has been stolen, Peter and his friends are spurred into action. Peter finds the kid responsible, and the success leads the group to start a detective agency for kids._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761636641.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761636641.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2132984
-**Bob's Burgers S07E13 - Zero Larp Thirty**  
-TV-PG-LV 🔒 21:48  
-⌛ January 16, 2020 at 00:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/zero-larp-thirty  
-seriesid=`2003422` titleid=`2132984` id=`AWCZsR8XwdpKFAKScFZA` mediaid=`8d55fe253c59d19038310c031b49e3bdcf6ce0ed`  
-_When Linda wins a contest to spend a dream weekend at the home where her favorite television show is filmed, things don't go quite as planned. Also, Teddy's back problems leave him stuck on the floor, while he babysits the kids._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151440700694020.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151440700694020.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 809281
+**Family Guy S12E19 - Meg Stinks!**  
+TV-14 🔒 21:11  
+⌛ January 16, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/meg-stinks  
+seriesid=`440990` titleid=`809281` id=`N5nPbAtKRtePtSx3nP07GA` mediaid=`d658141e34f4751118658d2c866091f4c3e1015d`  
+_Peter and Meg bond during a college visit to Vermont. The two party all night resulting in Meg missing out on an important interview. Lois begins to worry that Peter is becoming too much of a distraction and warns Meg not to get too attached, but Meg is just happy to be getting positive attention from her father for the first time._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108604519322.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108604519322.jpg" height="144px" /></a>
