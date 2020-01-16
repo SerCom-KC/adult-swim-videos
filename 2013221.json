@@ -535,6 +535,56 @@
         "cma_id": "1470891"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1505744940,
+        "auth_expiration_date": 1577336340,
+        "tms_id": "EP019881990013",
+        "description": "Mr. Dimler escapes the institution for one last encounter with Scotty and is disappointed with the results.",
+        "title_suggest": {
+            "input": [
+                "Angel Man",
+                "Man"
+            ]
+        },
+        "title": "Angel Man",
+        "type": "episode",
+        "expiration_date": 1582174740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 707.9591326,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1574312400,
+        "modified": 1578920087,
+        "media_id": "d715695bf4659bf8e2a03f485257a696f1dffa2f",
+        "airing_id": "RADS1001132000054250",
+        "id": "k824J4jDRtWE5WaVewjiLg",
+        "slug": "angel-man",
+        "views": 3612,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1505499023,
+        "title_id": "2133108",
+        "tv_rating": "tv-ma-l",
+        "season_number": "2",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1578920087,
+        "first_published": 1505499023,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579150800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/angel-man/tebs_305_11mins_dup-20170913.jpg",
+        "cma_id": "1478810"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447785600,
         "auth_expiration_date": 1581569940,
@@ -583,55 +633,6 @@
         "launch_date": 1575522000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/angel-boy/tebs_cc_104_pt1_1.jpg",
         "cma_id": "1150927"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1506954540,
-        "auth_expiration_date": 1579150740,
-        "tms_id": "EP019881990016",
-        "description": "Belle and Bonnie, owners of the Butter Barn, fall for the charm of an eccentric billionaire and lose their prized boy, Mongo in the process.",
-        "title_suggest": {
-            "input": [
-                "Butter"
-            ]
-        },
-        "title": "Butter",
-        "type": "episode",
-        "expiration_date": 1576126740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 1290.2919099,
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1576126800,
-        "modified": 1575882724,
-        "media_id": "1e07db9f8cf70dcdd751e6802ffe18b48af676ba",
-        "airing_id": "RADS1011031900033582",
-        "id": "psNwF_AEQk2tZck9gzZBSg",
-        "slug": "butter",
-        "views": 1897,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1506716302,
-        "season_number": "2",
-        "title_id": "2133105",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1575882724,
-        "first_published": 1506716302,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1573102800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/butter/tebs_302_dup-20170925.jpg",
-        "cma_id": "1488191"
     },
     {
         "auth": false,
@@ -683,7 +684,7 @@
         "cma_id": "1039683"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447785600,
         "auth_expiration_date": 1582174740,
         "tms_id": "EP019881990005",
