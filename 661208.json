@@ -312,58 +312,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1447783740,
-        "auth_expiration_date": 1568779140,
-        "tms_id": "EP008994530002",
-        "rating": 6.5015326,
-        "description": "Eric sends Tim an ornamental hot dog. Ron Auster teaches children how to dance. (John C. Reilly guest stars)",
-        "title_suggest": {
-            "input": [
-                "Friends"
-            ]
-        },
-        "type": "episode",
-        "title": "Friends",
-        "expiration_date": 1579150740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 693.008,
-        "episode_number": "2",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1565755200,
-        "modified": 1575880204,
-        "media_id": "96b3dd0d2268ff9462295e8db366f15c15846063",
-        "airing_id": "RADS1012081900044845",
-        "id": "C_d8dT8WS6m1st_JUCE4mg",
-        "slug": "friends",
-        "views": 415517,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "661589",
-        "season_number": "1",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1575880204,
-        "tags": [
-            "tim eric awesome show great job episode 2 friends hot dog dance john c reilly steve brule jan wayne skylar"
-        ],
-        "rating_count": 5228,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576126800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_102_pt1-04.jpg",
-        "cma_id": "1462289"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1447784220,
         "auth_expiration_date": 1579669140,
@@ -465,6 +413,58 @@
         "launch_date": 1503603292,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/awesome-10-year-anniversary-version-great-job/timanderic_10thAnniversary_dup-20170823.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783860,
+        "auth_expiration_date": 1571803140,
+        "tms_id": "EP008994530007",
+        "rating": 6.338924,
+        "description": "An old man takes a picture of himself by mistake.\r\n(David Cross, Will Forte, Maria Bamford guest star)",
+        "title_suggest": {
+            "input": [
+                "Abstinence"
+            ]
+        },
+        "type": "episode",
+        "title": "Abstinence",
+        "expiration_date": 1582174740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 694.53,
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1568779200,
+        "modified": 1578898813,
+        "media_id": "e0397357f462798ec0ffd1ee2be7be7b9dcb86f1",
+        "airing_id": "RADS1001132000054245",
+        "id": "bjdWkeP8SAOU-cRSMTZEdA",
+        "slug": "abstinence",
+        "views": 529418,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945481,
+        "title_id": "661594",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1578898813,
+        "tags": [
+            "tim eric awesome show great job episode 7 abstinence picture jan wayne skylar david cross will forte maria bamford"
+        ],
+        "rating_count": 6078,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579150800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_107_pt1-05.jpg",
+        "cma_id": "661594"
     },
     {
         "auth": true,
