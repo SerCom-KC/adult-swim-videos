@@ -795,7 +795,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1585281540,
         "tms_id": "",
         "description": "Desperate to stop the approaching monstrosity, the Scouts resort to unconventional tactics before it destroys everything in its path.",
@@ -889,7 +889,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15408337612993.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579237140,
         "tms_id": "EP019059960075",
@@ -1781,7 +1781,7 @@
         "cma_id": "1393967"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1591329540,
         "tms_id": "EP019059960039",
@@ -1893,7 +1893,7 @@
         "cma_id": "1389519"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1585281540,
         "tms_id": "EP019059960053",
@@ -2371,7 +2371,7 @@
         "cma_id": "1440189"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579237140,
         "tms_id": "EP019059960055",
@@ -2625,7 +2625,7 @@
         "cma_id": "1372795"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579237140,
         "tms_id": "EP019059960016",
