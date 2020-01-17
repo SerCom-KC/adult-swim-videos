@@ -795,7 +795,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1585281540,
         "tms_id": "",
         "description": "Desperate to stop the approaching monstrosity, the Scouts resort to unconventional tactics before it destroys everything in its path.",
@@ -889,7 +889,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15408337612993.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579237140,
         "tms_id": "EP019059960075",
@@ -1064,9 +1064,9 @@
         "original_air_date": null,
         "auth_launch_date": 1574658000,
         "clip_order": null,
-        "airing_id": "RADS1001172000055248",
+        "airing_id": "RADS1011201900038313",
         "media_id": "217ae1776aa101fc10ef64440c95ccc599d0b251",
-        "modified": 1579233910,
+        "modified": 1579238527,
         "slug": "thunder-spears",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155925066464520.jpg",
@@ -1076,7 +1076,7 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1579233910,
+        "published": 1579238527,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
@@ -1781,7 +1781,7 @@
         "cma_id": "1393967"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1591329540,
         "tms_id": "EP019059960039",
@@ -1893,7 +1893,7 @@
         "cma_id": "1389519"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1585281540,
         "tms_id": "EP019059960053",
@@ -2371,7 +2371,7 @@
         "cma_id": "1440189"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579237140,
         "tms_id": "EP019059960055",
@@ -2625,7 +2625,7 @@
         "cma_id": "1372795"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579237140,
         "tms_id": "EP019059960016",
