@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 17, 2020 at 00:30:37 EST_
+_Last Update: January 17, 2020 at 01:00:41 EST_
 ## Video added
 ### Summary
-618253 12 oz. Mouse: 1  
-### 660379
-**12 oz. Mouse S02E12 - Farewell**  
-TV-14-LV 🔓 11:58  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/12-oz-mouse/farewell  
-seriesid=`618253` titleid=`660379` id=`IaGGQ8ZAR6y26mLkCVke7A` mediaid=`6464744544706742bec2038439a405eb3672576d`  
-_The New Guy is secretly going out with a 45 year old man. Skillet is shocked when he finally meets him. The man has a ring and is ready to propose marraige to the New Guy.  Mouse Fitzgerald convinces the New Guy to break off the relationship._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_019_pt2-04.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_019_pt2-04.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2171453
+**Bob's Burgers S08E13 - Cheer Up Sleepy Gene**  
+TV-PG-LS 🔒 21:32  
+⌛ January 24, 2020 at 00:29:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/cheer-up-sleepy-gene  
+seriesid=`2003422` titleid=`2171453` id=`AWgadw-5zQU7gEG1jvbO` mediaid=`7bffedf6688752ff36c70895ca2b2c1a3d068118`  
+_Gene gets invited to his first sleepover and is nervous about it, and when things don't go as planned, he realizes he had a right to be. Meanwhile, Bob and Linda record themselves while sleeping to prove which of them snores more._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2003422 Bob's Burgers: 1  
+### 2132986
+**Bob's Burgers S07E15 - Thelma and Louise Except Thelma is Linda**  
+TV-PG-L 🔓 21:45  
+⌛ January 17, 2020 at 00:29:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/thelma-and-louise-except-thelma-is-linda  
+seriesid=`2003422` titleid=`2132986` id=`AWDToWcPZ-onAnjDLt1u` mediaid=`bc9de6bf7e153627ebe81dd351731cca9c940907`  
+_After Louise gets in trouble at school, Linda is forced to meet with Mr. Frond and potentially could lose her hard-earned position as the Wagstaff bake sale leader._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779965917.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779965917.jpg" height="144px" /></a>
