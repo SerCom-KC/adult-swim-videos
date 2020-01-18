@@ -145,7 +145,7 @@
         "cma_id": "1381813"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579323540,
         "tms_id": "EP007164450204",
@@ -592,52 +592,53 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1579321740,
-        "tms_id": "EP007164450203",
-        "description": "Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery.",
+        "auth_expiration_date": 1579926540,
+        "tms_id": "EP007164450208",
+        "description": "Steve and Snot alter their futures when they throw a party for the uncool kids. Meanwhile, Roger is disgruntled when a waitress doesn't compliment his order and Stan and Francine go on vacation in Bosnia.",
         "title_suggest": {
             "input": [
-                "Roots"
+                "The Unincludeds",
+                "Unincludeds"
             ]
         },
-        "expiration_date": 1551110340,
-        "title": "Roots",
+        "expiration_date": 1557154740,
+        "title": "The Unincludeds",
         "type": "episode",
         "platforms": [
             "web",
             "mobile"
         ],
-        "duration": 1273.2,
+        "duration": 1273.53,
         "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "1",
+        "episode_number": "11",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1578717000,
-        "modified": 1578287907,
-        "media_id": "566083395eaa38012ee31da187d895b1f2fcd330",
-        "airing_id": "RADS1001032000052011",
-        "id": "TYWscrkVRdCNVviIdM1W0Q",
-        "slug": "roots",
-        "views": 3704,
+        "auth_launch_date": 1579321800,
+        "modified": 1578941087,
+        "media_id": "e2a47c1c98de515dbe4b0543ad43bbec6202818e",
+        "airing_id": "RADS1001132000054279",
+        "id": "T0dzRensQzKclD28oo8UUw",
+        "slug": "the-unincludeds",
+        "views": 5140,
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002065003817.jpg",
-        "created": 1442333003,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200205081794.jpg",
+        "created": 1458757571,
         "season_number": "11",
-        "title_id": "2041474",
-        "tv_rating": "tv-14-dlv",
+        "title_id": "2041479",
+        "tv_rating": "tv-14-dls",
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1578287907,
-        "first_published": 1471872051,
+        "published": 1578941087,
+        "first_published": 1471320640,
         "tags": [],
         "collection_title": "American Dad",
         "modified_by": "ODT Listener",
-        "launch_date": 1550592000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg",
-        "cma_id": "1442186"
+        "launch_date": 1556550000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205081794.jpg",
+        "cma_id": "1495766"
     },
     {
         "auth": true,
@@ -1045,7 +1046,7 @@
         "cma_id": "1470084"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579323540,
         "tms_id": "EP007164450248",
