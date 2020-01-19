@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 19, 2020 at 02:30:38 EST_
+_Last Update: January 19, 2020 at 03:30:43 EST_
 ## Video added
 ### Summary
-2142267 My Hero Academia: 1  
-### 2214113
-**My Hero Academia S04E09 - Red Riot**  
-TV-14-LV 🔒 00:00  
-⌛ February 9, 2020 at 02:29:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/red-riot  
-seriesid=`2142267` titleid=`2214113` id=`AW-lBg2c3HMJfT8do6_8` mediaid=`b13639bdc5769d857779b572bc32d2d0112874dd`  
-_As the fight with the Shie Hassaikai continues, Kirishima has to face his past when he and Fat Gum get separated from the others._  
-<a href="https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_20114127113-myheroacademia_072.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_20114127113-myheroacademia_072.jpg" height="144px" /></a>
+2194658 The Promised Neverland: 1  
+### 2194661
+**The Promised Neverland S01E03 - 181045**  
+TV-14 🔓 21:33  
+⌛ February 2, 2020 at 03:29:00 EST  
+https://www.adultswim.com/videos/the-promised-neverland/181045  
+seriesid=`2194658` titleid=`2194661` id=`AWpWXI6IAScUIg8XxfLy` mediaid=`a70fe32ae2d9c95e30190ad457a75e07a880df1f`  
+_While preparations are underway, Emma, Norman, and Ray are now "training" the other kids so they can get stronger and be ready when the time comes. But despite Mom's orders, the new Sister Krone has her own plan._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622705878514.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622705878514.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
