@@ -2,52 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1579409940,
-        "tms_id": "EP007164450225",
-        "description": "The Smith family forgets to celebrate Father's Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him.",
-        "title_suggest": {
-            "input": [
-                "Father's Daze",
-                "Daze"
-            ]
-        },
-        "title": "Father's Daze",
-        "type": "episode",
-        "expiration_date": 1566791940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.9,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1578805200,
-        "clip_order": null,
-        "modified": 1578376327,
-        "media_id": "0d1b8527d9a327620560c807c976b68ecc297936",
-        "airing_id": "RADS1001062000052529",
-        "id": "1tfpfZcEQEulM8Gwxer2rg",
-        "slug": "fathers-daze",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151793526969010.jpg",
-        "created": 1479021033,
-        "title_id": "2069532",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1578376327,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1566187200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg",
-        "cma_id": "1326905"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1579582740,
         "tms_id": "EP007164450226",
         "description": "Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them.",
@@ -433,6 +387,54 @@
         "launch_date": 1566187200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg",
         "cma_id": "1394632"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580014740,
+        "tms_id": "EP007164450230",
+        "description": "Hayley experiences what pregnancy would be like after Roger agrees to give birth to Jeff so he can be human again. Snot's feelings are hurt when Steve secretly signs him up for a makeover.",
+        "title_suggest": {
+            "input": [
+                "Roger's Baby",
+                "Baby"
+            ]
+        },
+        "title": "Roger's Baby",
+        "type": "episode",
+        "expiration_date": 1557759540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.83,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1579410000,
+        "clip_order": null,
+        "modified": 1578981125,
+        "media_id": "3bf1b31e4d30b909c87bd5e7d5847e274013cbf3",
+        "airing_id": "RADS1001132000054338",
+        "id": "M1LxpLBLR8qZPNTNON4wTw",
+        "slug": "rogers-baby",
+        "views": 1063,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175251542555.jpg",
+        "created": 1482099024,
+        "title_id": "2069537",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578981125,
+        "first_published": 1482099024,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1557154800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg",
+        "cma_id": "1347008"
     },
     {
         "auth": true,
