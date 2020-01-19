@@ -492,7 +492,7 @@
         "launch_date": 1576409400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291548557-narutoshippuden_276.jpg",
         "id": "AW4ZEIMaadNs2hMNfuYO",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -639,6 +639,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291550180-narutoshippuden_279.jpg",
         "id": "AW4ZEb571YiBSfg0KYGg",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1581247740,
+        "tms_id": "",
+        "description": "Back at the Fifth Company's camp, Kurotsuchi attempts to negotiate with the captive Deidara to find out Kabuto's location.",
+        "title_suggest": {
+            "input": [
+                "Aesthetics of an Artist",
+                "of an Artist",
+                "an Artist",
+                "Artist"
+            ]
+        },
+        "title": "Aesthetics of an Artist",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 0,
+        "episode_number": "62",
+        "original_air_date": null,
+        "auth_launch_date": 1579433400,
+        "clip_order": null,
+        "media_id": "6f3d8bfe1ca893a7acbf7fc2ca8b3c4958a01970",
+        "modified": 1579241080,
+        "airing_id": "RADS1001172000055309",
+        "slug": "aesthetics-of-an-artist",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/1_1910291550471-narutoshippuden_280.jpg",
+        "created": 1572378653,
+        "season_number": "5",
+        "title_id": "2177709",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1579241080,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291550471-narutoshippuden_280.jpg",
+        "id": "AW4ZEjUn1YiBSfg0KYGh",
         "auth": true
     },
     {
