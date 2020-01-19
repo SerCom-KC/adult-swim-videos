@@ -1,6 +1,54 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1581245940,
+        "tms_id": "EP030726850010",
+        "description": "After an encounter with the Hitman Team's Formaggio, Narancia hunts down his assailant with a hail of bullets as Formaggio tries to understand his attacker's tracking skills.",
+        "title_suggest": {
+            "input": [
+                "Hitman Team",
+                "Team"
+            ]
+        },
+        "title": "Hitman Team",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
+        "duration": 0,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1579431600,
+        "clip_order": null,
+        "media_id": "698f7e9d2ebfd70e9ff1efa02069782ae387f870",
+        "modified": 1579249720,
+        "airing_id": "RADS1001172000055310",
+        "slug": "hitman-team",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200114/thumbnails/1_201141039388-jojo_goldenwind_010.jpg",
+        "created": 1579016383,
+        "season_number": "4",
+        "title_id": "2193966",
+        "tv_rating": "tv-ma-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1579249720,
+        "tags": [],
+        "collection_title": "JoJo's Bizarre Adventure",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_201141039388-jojo_goldenwind_010.jpg",
+        "id": "AW-ktet33HMJfT8do6-_",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1597636799,
         "tms_id": "EP030726850001",
         "description": "Amid the gritty beauty of Napoli, the Joestar lineage lives on. After sidestepping long-term Joestar ally Koichi Hirose, Giorno must contend with two powerful Mafia gangsters, Leaky Eye Lucca and the enigmatic Bruno Bucciarati.",
