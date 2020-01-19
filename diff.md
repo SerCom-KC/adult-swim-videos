@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 19, 2020 at 04:30:44 EST_
+_Last Update: January 19, 2020 at 05:00:34 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2193927 Lupin the 3rd Part 5: 1  
-### 2193931
-**Lupin the 3rd Part 5 S01E04 - Zenigata's Pride and the Desert Dust**  
-TV-14-DLSV 🔒 22:05  
-⌛ January 19, 2020 at 03:59:00 EST  
-https://www.adultswim.com/videos/lupin-the-3rd-part-5/zenigatas-pride-and-the-desert-dust  
-seriesid=`2193927` titleid=`2193931` id=`AWu0KmfsCorLtcgflrw2` mediaid=`8ff83068f9898233d8b3eb5b86628614a90510d2`  
-_Fujiko smiles deviously as she points her gun at Lupin, when Zenigata arrives to save him and Ami. They get into the inspector's car which takes off, but it's soon attacked by soldiers who are trying to cash in the price on Lupin's head._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15628608492617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15628608492617.jpg" height="144px" /></a>
+2201017 Food Wars!: 1  
+### 2201042
+**Food Wars! S02E01 - That Which is Placed Within the Box**  
+TV-MA-S 🔒 00:00  
+⌛ February 9, 2020 at 04:29:00 EST  
+https://www.adultswim.com/videos/food-wars/that-which-is-placed-within-the-box  
+seriesid=`2201017` titleid=`2201042` id=`AW-k-OOUGRcVO2K2pmDR` mediaid=`0e9ff5b7be8faf9eb87ae84d6c7d7a391fbb7d81`  
+_The Fall Election's final eight prepare for battle, and Soma is up in the first round! What bento will he create to combat the molecular gastronomy genius, Alice Nakiri?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_201141152430-FoodWars_Season02_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_201141152430-FoodWars_Season02_001.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
