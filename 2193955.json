@@ -855,7 +855,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1600055999,
         "tms_id": "",
         "description": "Josuke and Koichi are informed that a student at their school may be a Stand user and decide to look into the case. Their suspicions are quickly confirmed after Hazamada's wooden doll suddenly morphs into an exact look-alike of Josuke.",
@@ -1102,7 +1102,7 @@
         "launch_date": 1579496400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154204222753814.jpg",
         "id": "AWb1G5TSeP_aldpBV-8_",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
