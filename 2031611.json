@@ -56,6 +56,61 @@
         "cma_id": "1201284"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370069",
+        "description": "While Kami considers merging with Piccolo, Trunks and the others discover a second time machine. Elsewhere, Vegeta vows to become strong enough to defeat the Android invaders!",
+        "title_suggest": {
+            "input": [
+                "Another Time Machine! Bulma Uncovers a Mystery!",
+                "Time Machine! Bulma Uncovers a Mystery!",
+                "Machine! Bulma Uncovers a Mystery!",
+                "Bulma Uncovers a Mystery!",
+                "Uncovers a Mystery!",
+                "a Mystery!",
+                "Mystery!"
+            ]
+        },
+        "expiration_date": 1582520340,
+        "title": "Another Time Machine! Bulma Uncovers a Mystery!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1318,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "67",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1579249114,
+        "media_id": "34bb47ecd984def17e7b24f90412e20943f7ae60",
+        "airing_id": "RADS1001172000055306",
+        "id": "-oFgrKlhTZ6_DmOIX8MotA",
+        "slug": "another-time-machine-bulma-uncovers-a-mystery",
+        "views": 3203,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_19121016650-dragonballzkai_067_air_cid-2T7PN.jpg",
+        "created": 1454969635,
+        "season_number": "1",
+        "title_id": "2031678",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1579249114,
+        "first_published": 1461136218,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1579496400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016650-dragonballzkai_067_air_cid-2T7PN.jpg",
+        "cma_id": "1215420"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
@@ -2839,7 +2894,7 @@
         "cma_id": "1078433"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370062",
