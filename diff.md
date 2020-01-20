@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 20, 2020 at 02:00:40 EST_
+_Last Update: January 20, 2020 at 02:30:40 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2097206
-**Bob's Burgers S06E18 - Secret Admiral-Irer**  
-TV-PG 🔒 21:42  
-⌛ January 27, 2020 at 23:59:59 EST  
-https://www.adultswim.com/videos/bobs-burgers/secret-admiral-irer  
-seriesid=`2003422` titleid=`2097206` id=`pbADrCdVRay2C8NqO-O1YQ` mediaid=`62c36db15f8a42a3cd82dbc1cd103a44536d8b5c`  
-_Tina's ideas of love and romance are tested when she volunteers at a nursing home to earn her next Thunder Girls badge. Meanwhile, Bob makes new friends who cause him to make some questionable choices._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 2064591
+**Family Guy S14E18 - The New Adventures of Old Tom**  
+TV-14-DLSV 🔒 21:41  
+⌛ January 27, 2020 at 01:59:00 EST  
+https://www.adultswim.com/videos/family-guy/the-new-adventures-of-old-tom  
+seriesid=`440990` titleid=`2064591` id=`W-t92KTtRUWIOafvikWXfw` mediaid=`3df8965c700c76de8d53a093043725f64995f27d`  
+_After Peter gets stuck overnight on the kiddy train at the Quahog Mall, he becomes jealous when Lois fawns over the handsome new Channel 5 reporter, Dallas Portland, who interviews him._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-new-adventures-of-old-tom/familyguy_1316_air_cid-2YN66.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-new-adventures-of-old-tom/familyguy_1316_air_cid-2YN66.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2097204
-**Bob's Burgers S06E16 - Bye Bye Boo Boo**  
-TV-PG 🔒 21:40  
-⌛ January 20, 2020 at 01:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/bye-bye-boo-boo  
-seriesid=`2003422` titleid=`2097204` id=`Vu4iC1McRVG1appphTnL2w` mediaid=`d585b126a7913bd60f72f0bca2e3e41929eb1cb7`  
-_When Louise hears that Boo Boo is leaving Boyz 4 Now, she enters a contest that could give Tina the chance to meet him. Meanwhile, Bob and Linda learn an interesting piece of history regarding the restaurant, which leads to tension between Bob and Jimmy Pesto._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 2064589
+**Family Guy S14E16 - The Heartbreak Dog**  
+TV-14-DLSV 🔒 21:39  
+⌛ January 20, 2020 at 01:59:00 EST  
+https://www.adultswim.com/videos/family-guy/the-heartbreak-dog  
+seriesid=`440990` titleid=`2064589` id=`K79gVGUWTDmpPToM46gNnQ` mediaid=`44469797e24af99b2f7b73b8422df732082af92a`  
+_During a birthday party for Bonnie at the Swanson's, Brian spots Bonnie sitting alone in her bedroom looking very sad. She opens up to Brian, telling him that she feels like she's wasted much of her adult life taking care of Joe._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-heartbreak-dog/familyguy_1314_air_cid-2YN63.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-heartbreak-dog/familyguy_1314_air_cid-2YN63.jpg" height="144px" /></a>
