@@ -1,22 +1,26 @@
 {
-    "updated": 1579525355,
-    "added": [
+    "updated": 1579525529,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Love is graceful, love is kind. Love is\u2026 a little dicey.",
+            "description": "Sometimes you\u2019ve got to fight the enemy with\u2026 bubbles?",
             "title_suggest": {
                 "input": [
-                    "Sneak Peek - Temp Squad",
-                    "Peek - Temp Squad",
-                    "- Temp Squad",
-                    "Temp Squad",
-                    "Squad"
+                    "Sneak Peek - Suneater of the Big Three",
+                    "Peek - Suneater of the Big Three",
+                    "- Suneater of the Big Three",
+                    "Suneater of the Big Three",
+                    "of the Big Three",
+                    "the Big Three",
+                    "Big Three",
+                    "Three"
                 ]
             },
-            "title": "Sneak Peek - Temp Squad",
-            "expiration_date": 1580129940,
+            "title": "Sneak Peek - Suneater of the Big Three",
+            "expiration_date": 1579525200,
             "type": "clip",
             "platforms": [
                 "android",
@@ -31,81 +35,28 @@
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "",
-            "modified": 1579213715,
-            "slug": "sneak-peek-temp-squad",
+            "modified": 1578252573,
+            "slug": "sneak-peek-suneater-of-the-big-three",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200116/thumbnails/1_201161727158-promo_MHA_Top_73_SAT_15.jpg",
-            "created": 1579213676,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/1_2013135455-promo_Toonami_MHA_408_SAT_15.jpg",
+            "created": 1578077660,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1579213715,
+            "published": 1578252573,
             "tags": [],
             "collection_title": "My Hero Academia",
             "disable_ads": false,
             "modified_by": "Duke Nguyen",
-            "launch_date": 1579525200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200116/thumbnails/2_201161727158-promo_MHA_Top_73_SAT_15.jpg",
-            "id": "AW-weF_gGRcVO2K2pmJH",
+            "launch_date": 1578315600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_2013135455-promo_Toonami_MHA_408_SAT_15.jpg",
+            "id": "AW9swiPA3HMJfT8do6wo",
             "auth": false,
             "collection_slug": "my-hero-academia",
             "collection_title_id": "2142267",
             "online_exclusives": true
-        },
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Let\u2019s give these goblins a welcome they can never forget.",
-            "title_suggest": {
-                "input": [
-                    "Sneak Peek - Raids",
-                    "Peek - Raids",
-                    "- Raids",
-                    "Raids"
-                ]
-            },
-            "title": "Sneak Peek - Raids",
-            "expiration_date": 1580129940,
-            "type": "clip",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "online-exclusive",
-                "roku"
-            ],
-            "collection_id": "AW-k_nP1GRcVO2K2pmDS",
-            "duration": 14.97,
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "media_id": "",
-            "modified": 1579213583,
-            "slug": "sneak-peek-raids",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200116/thumbnails/1_201161725100-promo_SAO_TOPICAL_102_SAT.jpg",
-            "created": 1579213558,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1579213583,
-            "tags": [],
-            "collection_title": "Sword Art Online: Alicization - War of Underworld",
-            "disable_ads": false,
-            "modified_by": "Duke Nguyen",
-            "launch_date": 1579525200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200116/thumbnails/2_201161725100-promo_SAO_TOPICAL_102_SAT.jpg",
-            "id": "AW-wdpFw3HMJfT8do7LF",
-            "auth": false,
-            "collection_slug": "sword-art-online-alicization-war-of-underworld",
-            "collection_title_id": "2215991",
-            "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
