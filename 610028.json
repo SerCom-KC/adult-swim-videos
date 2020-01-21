@@ -683,6 +683,60 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582261199,
+        "tms_id": "EP007753880033",
+        "rating": 8.07367,
+        "description": "Three very different versions of a slave revolt led by Huey and Riley's great great great great great great grandparents. Who says the 1860's couldn't be fun?",
+        "title_suggest": {
+            "input": [
+                "The Story of Catcher Freeman",
+                "Story of Catcher Freeman",
+                "of Catcher Freeman",
+                "Catcher Freeman",
+                "Freeman"
+            ]
+        },
+        "type": "episode",
+        "title": "The Story of Catcher Freeman",
+        "expiration_date": 1428384599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
+        "duration": 1274.8675342,
+        "episode_number": "12",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1579588200,
+        "modified": 1579281221,
+        "airing_id": "RADS1001172000055296",
+        "media_id": "16ed1511e2a469df8e11a8416cc8994a3e2b8f7e",
+        "id": "mhnO2eHRQgW_kIiiosDhwg",
+        "slug": "the-story-of-catcher-freeman",
+        "views": 1297520,
+        "created": 1402945478,
+        "title_id": "683089",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1579281221,
+        "tags": [
+            "Boondocks",
+            "Episode 211",
+            "The Story of Catcher Freeman"
+        ],
+        "rating_count": 9013,
+        "collection_title": "The Boondocks",
+        "modified_by": "ODT Listener",
+        "launch_date": 1425796200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_211_pt2-05.jpg",
+        "cma_id": "1059820"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "This is starting to feel shoe-horned in now.",
