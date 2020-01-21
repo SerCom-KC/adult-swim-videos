@@ -2,6 +2,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1580185740,
+        "tms_id": "EP007164450215",
+        "description": "When Stan is on a mission, Francine pretends she's a widow. Steve and his friends play wrestling and get beat up by Principal Lewis.",
+        "title_suggest": {
+            "input": [
+                "Widow's Pique",
+                "Pique"
+            ]
+        },
+        "expiration_date": 1564977540,
+        "title": "Widow's Pique",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.43,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "13",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1579581000,
+        "modified": 1579246133,
+        "media_id": "0ad273cad890408604f0db466ea5d3f855ccf99f",
+        "airing_id": "RADS1001172000055280",
+        "id": "0KELcgZDS2SM3e4YZ_bLuw",
+        "slug": "widows-pique",
+        "views": 2395,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15107888270076.jpg",
+        "created": 1457705439,
+        "season_number": "11",
+        "title_id": "2041486",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1579246133,
+        "first_published": 1471677161,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1564372800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg",
+        "cma_id": "2041486"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
         "auth_expiration_date": 1579582740,
         "tms_id": "EP007164450226",
         "description": "Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them.",
@@ -632,7 +681,7 @@
         "cma_id": "1335078"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1579582740,
         "tms_id": "EP007164450206",
@@ -1041,57 +1090,5 @@
         "launch_date": 1564372800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg",
         "cma_id": "1465095"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1579580940,
-        "tms_id": "EP007164450205",
-        "description": "Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker.",
-        "title_suggest": {
-            "input": [
-                "Hayley Smith, Seal Team Six",
-                "Smith, Seal Team Six",
-                "Seal Team Six",
-                "Team Six",
-                "Six"
-            ]
-        },
-        "expiration_date": 1556549940,
-        "title": "Hayley Smith, Seal Team Six",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1273.57,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1578976200,
-        "modified": 1578677768,
-        "media_id": "c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c",
-        "airing_id": "RADS1001102000053520",
-        "id": "uo1Kf91lTPCZCjE4bnKkCQ",
-        "slug": "hayley-smith-seal-team-six",
-        "views": 6723,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200191612226.jpg",
-        "created": 1442344530,
-        "season_number": "11",
-        "title_id": "2041476",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1578677768,
-        "first_published": 1472703041,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1555945200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg",
-        "cma_id": "1470084"
     }
 ]
