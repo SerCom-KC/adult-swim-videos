@@ -2,43 +2,42 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 21, 2020 at 00:01:10 EST_
+_Last Update: January 21, 2020 at 00:30:31 EST_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-610028 The Boondocks: 2  
-### 2041486
-**American Dad S11E13 - Widow's Pique**  
-TV-14-LV 🔒 21:13  
-⌛ January 27, 2020 at 23:29:00 EST  
-https://www.adultswim.com/videos/american-dad/widows-pique  
-seriesid=`581006` titleid=`2041486` id=`0KELcgZDS2SM3e4YZ_bLuw` mediaid=`0ad273cad890408604f0db466ea5d3f855ccf99f`  
-_When Stan is on a mission, Francine pretends she's a widow. Steve and his friends play wrestling and get beat up by Principal Lewis._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg" height="144px" /></a>
-### 627811
-**The Boondocks S01E09 - Return of the King**  
-TV-MA 🔒 22:12  
-⌛ February 19, 2020 at 23:59:59 EST  
-https://www.adultswim.com/videos/the-boondocks/return-of-the-king  
-seriesid=`610028` titleid=`627811` id=`Hs-KTzZoTGOYmv0Awk5eRw` mediaid=`5225ccd6a358a2510e5dc5049bf1b5c444cfa551`  
-_When Martin Luther King comes out of a coma after 32 years and finds himself thrust into the 21st century and life in the post-September 11 era, his "turn the other cheek" philosophy quickly takes him from beloved national hero to despised terrorist sympathizer._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_110_pt3-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_110_pt3-02.jpg" height="144px" /></a>
-### 623578
-**The Boondocks S01E02 - The Trial of Robert Kelly**  
-TV-MA 🔒 21:19  
-⌛ February 19, 2020 at 23:59:59 EST  
-https://www.adultswim.com/videos/the-boondocks/the-trial-of-robert-kelly  
-seriesid=`610028` titleid=`623578` id=`3mT1tpgjTc-J5J7BpDS2pQ` mediaid=`17b73cad4907b3a690fbdb5b2a1507c6065b30c0`  
-_When the trial of R&B star R. Kelly comes to town, Huey and Riley are on opposing sides of the hot-button "underage peeing" issue._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_101_pt4-01.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_101_pt4-01.jpg" height="144px" /></a>
+581006 American Dad: 2  
+### 2069541
+**American Dad S12E10 - A Nice Night for a Drive**  
+TV-14 🔒 21:14  
+⌛ January 27, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/a-nice-night-for-a-drive  
+seriesid=`581006` titleid=`2069541` id=`Jv3Vtv7GTM2hwe473Cu2Vg` mediaid=`446e15882ee54ba47ea9eae12a96f6c03d736848`  
+_Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg" height="144px" /></a>
+### 2041487
+**American Dad S11E14 - The Nova Centauris-burgh Board of Tourism Presents: American Dad**  
+TV-14-DL 🔒 21:13  
+⌛ January 27, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-nova-centauris-burgh-board-of-tourism-presents-american-dad  
+seriesid=`581006` titleid=`2041487` id=`2NwZlkpvQJ2tY5SHaUsN5w` mediaid=`807f28321050d7c67daeb94d0bf926cc06388735`  
+_Francine joins in on Steve and his pals' live-action role-playing game. Stan opens a knock-off Seaworld in the house._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126752269831.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126752269831.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 2041476
-**American Dad S11E03 - Hayley Smith, Seal Team Six**  
-TV-14-DLV 🔒 21:13  
-⌛ January 20, 2020 at 23:29:00 EST  
-https://www.adultswim.com/videos/american-dad/hayley-smith-seal-team-six  
-seriesid=`581006` titleid=`2041476` id=`uo1Kf91lTPCZCjE4bnKkCQ` mediaid=`c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c`  
-_Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg" height="144px" /></a>
+581006 American Dad: 2  
+### 2069533
+**American Dad S12E02 - Fight and Flight**  
+TV-14 🔓 21:13  
+⌛ January 20, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/fight-and-flight  
+seriesid=`581006` titleid=`2069533` id=`2lgl7za3TEGrHYL2SIWJeQ` mediaid=`204b5cf0c24fb0a7ef617b2d33f4d1bd82480c6c`  
+_Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg" height="144px" /></a>
+### 2041477
+**American Dad S11E04 - N.S.A. (No Snoops Allowed)**  
+TV-14-DLSV 🔓 21:13  
+⌛ January 20, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/n-s-a-no-snoops-allowed  
+seriesid=`581006` titleid=`2041477` id=`R1Isc4OiQ5OqNqz5mq_ZJg` mediaid=`d873da559ba4646a889015fd6aeb309d464a2b90`  
+_Steve goes to work with Stan and discovers the N.S.A. Hayley decides to let go of being a vegetarian and eat meat for one day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg" height="144px" /></a>
