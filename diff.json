@@ -1,57 +1,7 @@
 {
-    "updated": 1579635039,
-    "added": [
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1581235140,
-            "tms_id": "EP032785230019",
-            "description": "Hyoga is disarmed, but the kingdom of science is still in danger - Ishigami village is in flames! And Tsukasa will soon know that Senku is still alive\u2026 How will the villagers fight off the coming invasion?",
-            "title_suggest": {
-                "input": [
-                    "To Modernity",
-                    "Modernity"
-                ]
-            },
-            "title": "To Modernity",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWyrt2Uc4aLemgzOLGQm",
-            "duration": 0,
-            "episode_number": "19",
-            "original_air_date": null,
-            "auth_launch_date": 1579420800,
-            "clip_order": null,
-            "media_id": "29aa25957620637dc1438df9e17312d1c8d512be",
-            "modified": 1579634424,
-            "airing_id": "RADS1001172000055232",
-            "slug": "to-modernity",
-            "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1579634165,
-            "season_number": "1",
-            "title_id": "2207404",
-            "tv_rating": "tv-14-lv",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1579634424,
-            "tags": [],
-            "collection_title": "Dr. Stone",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "",
-            "id": "AW_JiIgwGRcVO2K2pmOx",
-            "auth": true,
-            "collection_slug": "dr-stone",
-            "collection_title_id": "2207385",
-            "online_exclusives": false
-        },
+    "updated": 1579645841,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1581236940,
@@ -81,7 +31,7 @@
             "auth_launch_date": 1579422600,
             "clip_order": null,
             "media_id": "1678c52a1889ad82bedc448cf7ec2b3d99935e70",
-            "modified": 1579634424,
+            "modified": 1579639654,
             "airing_id": "RADS1001172000055243",
             "slug": "in-the-far-north",
             "exclude_from_search": false,
@@ -92,7 +42,7 @@
             "tv_rating": "tv-ma",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1579634424,
+            "published": 1579639654,
             "tags": [],
             "collection_title": "Sword Art Online: Alicization - War of Underworld",
             "disable_ads": false,
@@ -105,6 +55,5 @@
             "collection_title_id": "2215991",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
