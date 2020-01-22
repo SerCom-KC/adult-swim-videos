@@ -312,56 +312,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447784220,
-        "auth_expiration_date": 1579669140,
-        "tms_id": "EP008994530018",
-        "rating": 7.750595,
-        "description": "Steve Brule reports on the latest trends emerging from the region's hottest vineyards. Two children grow justifiably concerned when their D'ump falls silent.",
-        "title_suggest": {
-            "input": [
-                "Embarrassed"
-            ]
-        },
-        "type": "episode",
-        "title": "Embarrassed",
-        "expiration_date": 1559228340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 659.011,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1576645200,
-        "modified": 1576280164,
-        "media_id": "d3030dc46108d891b92a87387a6db87451ce87d3",
-        "airing_id": "RADS1012131900046796",
-        "id": "QBUnHg7RSfmuPnusFBCbTg",
-        "slug": "embarrassed",
-        "views": 463900,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945482,
-        "title_id": "691946",
-        "season_number": "2",
-        "tv_rating": "tv-14-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1576280164,
-        "tags": [],
-        "rating_count": 3781,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1556204400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_210_pt1-04.jpg",
-        "cma_id": "1323747"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1503930600,
         "tms_id": "SH027314480000",
@@ -621,6 +571,56 @@
         "launch_date": 1578546000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_106_pt2-02.jpg",
         "cma_id": "661593"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447784400,
+        "auth_expiration_date": 1582693140,
+        "tms_id": "EP008994530072",
+        "rating": 8.386338,
+        "description": "When Tim and Eric run out of show ideas, Aboxa Ballons drops by. Also, Brule goes viral, CORBS go coastal and Grill Vogel teaches you how to hug in the workplace.\r\n(John C Reilly, Ray Wise)",
+        "title_suggest": {
+            "input": [
+                "C.O.R.B.S."
+            ]
+        },
+        "type": "episode",
+        "title": "C.O.R.B.S.",
+        "expiration_date": 1562252340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 680.017,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1579669200,
+        "modified": 1579284011,
+        "media_id": "724141f3ab810c6400a6702f9b7ba32bae4dd6e8",
+        "airing_id": "RADS1001172000055504",
+        "id": "q12RsJJuR4u2iDZEKahS2w",
+        "slug": "c-o-r-b-s",
+        "views": 386503,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945481,
+        "title_id": "723438",
+        "season_number": "3",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1579284011,
+        "tags": [],
+        "rating_count": 1654,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1559228400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_305_pt1-03.jpg",
+        "cma_id": "1344769"
     },
     {
         "auth": true,
