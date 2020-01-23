@@ -2,126 +2,205 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 23, 2020 at 00:00:49 EST_
+_Last Update: January 23, 2020 at 00:30:38 EST_
 ## Video added
 ### Summary
-340533 Sealab 2021: 1  
-895948 The Eric Andre Show: 1  
-439722 The Venture Bros.: 1  
-661208 Tim and Eric Awesome Show Great Job!: 1  
-2013221 Tim & Eric's Bedtime Stories: 1  
-828177 Your Pretty Face is Going to Hell: 1  
-### 411002
-**Sealab 2021 S01E10 - Murphy Murphy & The Feng Shui Bunch**  
-TV-14 🔓 10:59  
+581006 American Dad: 1  
+2003422 Bob's Burgers: 1  
+2094567 DREAM CORP LLC: 1  
+828246 Eagleheart: 1  
+638050 Frisky Dingo: 1  
+340539 Harvey Birdman, Attorney at Law: 1  
+2128589 Lupin the 3rd Part 4: 1  
+629688 Moral Orel: 1  
+2007539 Mr. Pickles: 1  
+2073005 Neon Joe: 1  
+853486 NTSF:SD:SUV::: 1  
+### 2069545
+**American Dad S12E14 - Julia Rogerts**  
+TV-14 🔒 21:13  
+⌛ January 29, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/julia-rogerts  
+seriesid=`581006` titleid=`2069545` id=`Mtpd7rRDTN2tl4NtdbAaSw` mediaid=`dc755a68ae1822c19929072d1d89cbd4a0b4fda1`  
+_Roger runs off in disguise as a Julia Roberts character to a small town after Stan hurts his feelings. Steve plans a meeting when he finds out that Jeff and Barry have never met._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg" height="144px" /></a>
+### 2003424
+**Bob's Burgers S01E02 - Crawl Space**  
+TV-PG 🔒 21:30  
+⌛ January 29, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/crawl-space  
+seriesid=`2003422` titleid=`2003424` id=`7CPkiayCT7q_siDtFOqY8Q` mediaid=`3cb82ec5aa600492a3760a3298972f1c815f6e0c`  
+_When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg" height="144px" /></a>
+### 2133697
+**DREAM CORP LLC S02E13 - What Happens in Randy, Stays in Randy**  
+TV-14-DL 🔓 11:12  
+⌛ February 19, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/dream-corp-llc/what-happens-in-randy-stays-in-randy  
+seriesid=`2094567` titleid=`2133697` id=`AWY1bfH9h5enQuYyI6xW` mediaid=`9888c2320e9aa910072adb0b2773afe10a69e36a`  
+_Dr Roberts wrangles Randy for his biannual session. T.E.R.R.Y. struggles with his conscience._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15435309784922.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15435309784922.jpg" height="144px" /></a>
+### 828255
+**Eagleheart S01E03 - Master of Da Skies**  
+TV-14-DLV 🔓 11:13  
 ⌛ February 26, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/sealab-2021/murphy-murphy-the-feng-shui-bunch  
-seriesid=`340533` titleid=`411002` id=`XJgbyy_sT4CaZ3ZOtnnbGw` mediaid=`114985f534d31f022dcc0c3ded9669b4ff047451`  
-_Having nothing better to do, Murphy hires a high-priced feng shui master to "harmonize" Sealab. As the renovations run into the millions, Quinn suspects that "Master Loo" may not be the man Murphy thinks he is. We can't tell you the ending, but you'd better get ready for the ultimate extreme karate smackdown! Hi-yah!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/murphy-murphy-the-feng-shui-bunch/sealab_cc_010_revised-01.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/murphy-murphy-the-feng-shui-bunch/sealab_cc_010_revised-01.jpg" height="144px" /></a>
-### 2032599
-**The Eric Andre Show S03E04 - Jillian Barberie; Victor Ortiz**  
-TV-MA-L 🔓 10:51  
+https://www.adultswim.com/videos/eagleheart/master-of-da-skies  
+seriesid=`828246` titleid=`828255` id=`V3DPBNDNSIuV7IYjcaUvHg` mediaid=`2dc30bc9ade4f15fc55ea222796a86874aad4c8b`  
+_Chris learns of a shocking loophole in town law._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_109_pt1-05.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_109_pt1-05.jpg" height="144px" /></a>
+### 707262
+**Frisky Dingo S02E10 - Wendell Goes Undercover Again**  
+TV-MA 🔓 10:39  
 ⌛ February 26, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-eric-andre-show/jillian-barberie-victor-ortiz  
-seriesid=`895948` titleid=`2032599` id=`_DZgdugoTAS9MSQvAy3Pnw` mediaid=`318cbdb2dfc08e07434b69f1fd1377af12cd5334`  
-_Interviews with Jillian Barberie and Victor Ortiz; Musical guest Mac DeMarco._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/jillian-barberie-victor-ortiz/ericandre_cc_24_pt1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/jillian-barberie-victor-ortiz/ericandre_cc_24_pt1.jpg" height="144px" /></a>
-### 2165024
-**The Venture Bros. S07E08 - The Terminus Mandate**  
-TV-14-DLV 🔒 22:34  
+https://www.adultswim.com/videos/frisky-dingo/wendell-goes-undercover-again  
+seriesid=`638050` titleid=`707262` id=`Nh6KCLFtRae7fgu5fyUZ9g` mediaid=`7b65106c2ae021832a95cc94ad0084cf098a0376`  
+_Wendell goes undercover.  Again._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/wendell-goes-undercover-again/fd_023_bim.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/wendell-goes-undercover-again/fd_023_bim.jpg" height="144px" /></a>
+### 621193
+**Harvey Birdman, Attorney at Law S03E07 - Turner Classic Birdman AKA: Busy Day for Birdman**  
+TV-14 🔓 11:23  
 ⌛ February 26, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/the-terminus-mandate  
-seriesid=`439722` titleid=`2165024` id=`AWPLR0f5TdxzjxdCmQUy` mediaid=`f6a8fb966ef6eeb4d405f1606d0ee08904c6dca2`  
-_The members of Guild Council must face their arch rivals for one last time, while Doc happily falls into a black widow's deadly web._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15374619980536.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15374619980536.jpg" height="144px" /></a>
-### 663089
-**Tim and Eric Awesome Show Great Job! S01E09 - Anniversary**  
-TV-14-L 🔓 11:45  
+https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/turner-classic-birdman-aka-busy-day-for-birdman  
+seriesid=`340539` titleid=`621193` id=`mswc5q9DQRC_rm4hPKYhOg` mediaid=`c5519ff16153a69d40e2d0aa8f694b65492bd9e0`  
+_Turner Classic Movies' Robert Osborne introduces a recently "discovered" episode of the "classic" "Birdman" series.  In this very special Birdman, a pre-law-school Harvey encounters a number of his future courtroom adversaries who try to kill him.  Oh, and a six-legged spider, which only manages to irritate entomologists everywhere._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_027_pt1-04.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_027_pt1-04.jpg" height="144px" /></a>
+### 2128614
+**Lupin the 3rd Part 4 S01E14 - The End of Lupin III**  
+TV-PG-LS 🔓 21:34  
 ⌛ February 26, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/anniversary  
-seriesid=`661208` titleid=`663089` id=`kjdm7l1yTdSv3_bkpVN3tw` mediaid=`80041c60e56c1e48b97e781943a4f01f3a50fc1e`  
-_SPECIAL: It's the celebratory 50th Anniversary Show of Tim and Eric's Awesome Show Great Job.
-(Bob Odenkirk, Tom Kenny guest star)_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_109_pt1-04.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_109_pt1-04.jpg" height="144px" /></a>
-### 2133107
-**Tim & Eric's Bedtime Stories S02E04 - The Demotion**  
-TV-MA-LS 🔓 11:15  
+https://www.adultswim.com/videos/lupin-the-3rd-part-4/the-end-of-lupin-iii  
+seriesid=`2128589` titleid=`2128614` id=`YKVq5EO6RR2MakFilmhTvg` mediaid=`8765904a953f60180902f4e09f3c7af2ee2c120e`  
+_Zenigata is able to stop several attempts by Lupin to escape from many Italian prisons, but the government can't afford such surveillance. So, to prevent him from escaping, Zenigata escorts Lupin to an impenetrable cell on a tiny island._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-end-of-lupin-iii/lupinthe3rdpt4_114_air_cid-374RD.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-end-of-lupin-iii/lupinthe3rdpt4_114_air_cid-374RD.jpg" height="144px" /></a>
+### 653291
+**Moral Orel S02E01 - God's Image**  
+TV-MA 🔓 11:44  
 ⌛ February 26, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/the-demotion  
-seriesid=`2013221` titleid=`2133107` id=`QMrJj7JJQRC7uxvDFclGSw` mediaid=`b9ac230b42052db940f93e7e3f69ca2112739915`  
-_Will is assigned a sleep therapist to help him stay alert on the job._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-demotion/tebs_304_dup-20170919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-demotion/tebs_304_dup-20170919.jpg" height="144px" /></a>
-### 2191448
-**Your Pretty Face is Going to Hell S04E08 - Gary Bunda: Demon Killer**  
- 🔒 11:14  
+https://www.adultswim.com/videos/moral-orel/gods-image  
+seriesid=`629688` titleid=`653291` id=`5YoUVYiSTCWhLcM4jvhYhg` mediaid=`1e8b59a2bc1d6d233b85397e053c861600b9fcaa`  
+_Orel learns about the great American pastime, discrimination._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_011_pt1-05.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_011_pt1-05.jpg" height="144px" /></a>
+### 2196564
+**Mr. Pickles S04E01 - The Tree of Flesh**  
+ 🔓 11:18  
 ⌛ February 26, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/gary-bunda-demon-killer  
-seriesid=`828177` titleid=`2191448` id=`AWp5gcZBAScUIg8XxfaB` mediaid=`6b5be2c353badeb6cdafb8e7aca4abf3d4f353b6`  
-_When Gary gets kidnapped by a ghost-hunting show, he must choose between fame and friendship. (He chooses fame.)_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/mr-pickles/the-tree-of-flesh  
+seriesid=`2007539` titleid=`2196564` id=`AW3-cW8x1YiBSfg0KX-J` mediaid=`7ddcdd470d461c7a3bfc0ca92916ff14aaf2ab5b`  
+_After Mr. Pickles framed Grandpa for murder in the Season 3 finale, Sheriff learns of Grandpa's whereabouts, and heads out of the country to track him down. Meanwhile Grandpa has a new determination to finally end things with Mr. Pickles._  
+<a href="https://media.cdn.adultswim.com/uploads/20191024/thumbnails/2_1910241144587-mrpickles_401_dup-20190507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191024/thumbnails/2_1910241144587-mrpickles_401_dup-20190507.jpg" height="144px" /></a>
+### 2118598
+**Neon Joe S02E05 - Goodbye French Fry**  
+TV-14-DLSV 🔓 21:44  
+⌛ February 26, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/neon-joe/goodbye-french-fry  
+seriesid=`2073005` titleid=`2118598` id=`R7FkS6W3TJa0xiYNSabPCw` mediaid=`254ab4d98c9925d7f8225164bc9220e70103c9ee`  
+_Neon Joe and Vance battle Daggart and The Cube in the final showdown that will decide the fate of mankind. Will they succeed, or will Earth succumb to a race of all powerful superwerewolves?????_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/goodbye-french-fry/neonjoe_205_dup-20170519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/goodbye-french-fry/neonjoe_205_dup-20170519.jpg" height="144px" /></a>
+### 2005262
+**NTSF:SD:SUV:: S03E12 - Wreck the Malls**  
+TV-14-LV 🔓 10:51  
+⌛ February 26, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/wreck-the-malls  
+seriesid=`853486` titleid=`2005262` id=`Xn2jCAqOT46f4M7Q9VrHng` mediaid=`9a494f3dcfbed9c155476c3fd02233f42b8a040a`  
+_Trent's children learn the true meaning of Christmas when a terrorist dressed as Santa takes over the mall._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ntsf_cc_307_pt1_g435n-06.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ntsf_cc_307_pt1_g435n-06.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2013221 Tim & Eric's Bedtime Stories: 1  
-340533 Sealab 2021: 1  
-439722 The Venture Bros.: 1  
-581006 American Dad: 1  
-661208 Tim and Eric Awesome Show Great Job!: 1  
-828177 Your Pretty Face is Going to Hell: 1  
-895948 The Eric Andre Show: 1  
-### 2024897
-**Tim & Eric's Bedtime Stories S01E01 - Hole**  
-TV-14-V 🔒 11:19  
+2003422 Bob's Burgers: 1  
+2007539 Mr. Pickles: 1  
+2073005 Neon Joe: 1  
+2094567 Dream Corp LLC: 1  
+340539 Harvey Birdman, Attorney at Law: 1  
+581006 American Dad: 2  
+629688 Moral Orel: 1  
+638050 Frisky Dingo: 1  
+828246 Eagleheart: 1  
+853486 NTSF:SD:SUV::: 1  
+### 2171451
+**Bob's Burgers S08E11 - Sleeping with the Frenemy**  
+TV-PG-L 🔒 21:42  
+⌛ February 2, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/sleeping-with-the-frenemy  
+seriesid=`2003422` titleid=`2171451` id=`AWdWDWoGqD68dq0Op5ju` mediaid=`1008630bc02857a6e5214c023a4e5eb8051ddd31`  
+_Tina allows Tammy to spend Spring Break with the Belchers - and even plays Cupid, setting up Tammy with a boy from out of town. Meanwhile, Gene and Bob enlist the help of Dr. Yap in finding a baby tooth to complete Linda's collection._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg" height="144px" /></a>
+### 2120617
+**Mr. Pickles S03E10 - Season 3 Finale**  
+TV-MA-SV 🔓 11:16  
 ⌛ January 22, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/hole  
-seriesid=`2013221` titleid=`2024897` id=`zJU2JtkJQayronucs_v65w` mediaid=`d141c45d318651b7ae0d13c57daa7ac1c8ccc647`  
-_New to the neighborhood, IT guy Dennis Murphy and family clash with next door's Fish-obsessed, bully Brenner._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/hole/tebs_cc_101_pt1_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/hole/tebs_cc_101_pt1_1.jpg" height="144px" /></a>
-### 344208
-**Sealab 2021 S01E06 - Predator**  
-TV-14 🔓 11:29  
+https://www.adultswim.com/videos/mr-pickles/season-3-finale  
+seriesid=`2007539` titleid=`2120617` id=`AWJJbRujHAeP4-pUPd45` mediaid=`d376c95c41a9965e2a94454327ae5391ac0f08a3`  
+_Grandpa's path to moving out and starting a new life away from Mr. Pickles leads him down dangerous roads._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152182878693420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152182878693420.jpg" height="144px" /></a>
+### 2073010
+**Neon Joe S01E05 - Not Earth China**  
+TV-14-DLSV 🔓 22:18  
 ⌛ January 22, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/sealab-2021/predator  
-seriesid=`340533` titleid=`344208` id=`p9wKQ0oqR9K_Ujeg9f87JA` mediaid=`f29d75344749a465215619dbc8bf6857b867686b`  
-_A bloodthirsty, killer alien has boarded Sealab and trapped the entire crew. His shimmering form is seemingly everywhere, rending flesh from human bones, as the remaining survivors cower on the bridge. Once again, it's up to the brave Dr. Quinn (with a little help from Old Gus and Dolphin Boy) to save the day._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_006_pt2-05.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_006_pt2-05.jpg" height="144px" /></a>
-### 2165025
-**The Venture Bros. S07E09 - The Forecast Manufacturer**  
-TV-14-DLSV 🔓 22:33  
+https://www.adultswim.com/videos/neon-joe/not-earth-china  
+seriesid=`2073005` titleid=`2073010` id=`2WAYWONLQYa8pfF2iVdhww` mediaid=`4ae8ba6e807f79abcfc1b0d3ddb94a00f21f606b`  
+_The final showdown between Neon Joe and the Cybots._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/not-earth-china/neonjoe_ep105_001_BHDUYD3729HJSewudb.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/not-earth-china/neonjoe_ep105_001_BHDUYD3729HJSewudb.jpg" height="144px" /></a>
+### 2133693
+**Dream Corp LLC S02E09 - Staff Infection**  
+TV-14-LV 🔓 11:17  
+⌛ February 27, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/dream-corp-llc/staff-infection  
+seriesid=`2094567` titleid=`2133693` id=`AWSkcq60qBveI_0AhK5D` mediaid=`d01f3050a693271ee1c64b08ace75a38f5c8b6e8`  
+_Patient 30 visits Dream Corp LLC for treatment of a long list of "symptoms." A chemical spill in the Lab puts the facility on lock down. A new side of Ahmed is revealed while 88 is put in grave danger._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221706621913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221706621913.jpg" height="144px" /></a>
+### 611666
+**Harvey Birdman, Attorney at Law S03E02 - Harvey's Civvy**  
+TV-14-D 🔓 11:37  
 ⌛ January 22, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/the-forecast-manufacturer  
-seriesid=`439722` titleid=`2165025` id=`AWPahfntTdxzjxdCmTf5` mediaid=`c1de70c130b903e819bff075913b91c0052155c4`  
-_The city is hit with a mysterious blizzard that launches Team Venture into action. The Monarch and 21 are sent on a deadly mission to a secret island fortress._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433569776002.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433569776002.jpg" height="144px" /></a>
-### 2041481
-**American Dad S11E07 - The Devil Wears a Lapel Pin**  
-TV-14-DLSV 🔒 21:13  
-⌛ January 22, 2020 at 23:29:00 EST  
-https://www.adultswim.com/videos/american-dad/the-devil-wears-a-lapel-pin  
-seriesid=`581006` titleid=`2041481` id=`rR4-zIOsQj-NMJYR98be7Q` mediaid=`78c7ca28da36ab4bf33664b2de431b174238ab8e`  
-_When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg" height="144px" /></a>
-### 661590
-**Tim and Eric Awesome Show Great Job! S01E03 - Cats**  
-TV-14-V 🔓 11:05  
+https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/harveys-civvy  
+seriesid=`340539` titleid=`611666` id=`ksIe2P-IQ4SQrgo6Y-6DNA` mediaid=`8e2cb9989758726bb882a4b12a086ace9f90c081`  
+_Murro the Maurader sues Harvey for injuries suffered in 1967.   Murro's lawyer, the psychically bombastic Shado the Brain Thief, not only litigates Murro's case, but introduces a class action lawsuit as well.  Harvey begs Potamus to take the case and the hippo litigates on Harvey's behalf._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_022_pt1-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/harvey_cc_022_pt1-02.jpg" height="144px" /></a>
+### 2041482
+**American Dad S11E08 - Stan-Dan Deliver**  
+TV-14-DL 🔓 21:13  
 ⌛ January 22, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/cats  
-seriesid=`661208` titleid=`661590` id=`05OdjZgjR-OQ8P3apErGFA` mediaid=`6a3d12f6af6e376190d9854112572d284b6fa2da`  
-_When Eric knocks on a hallway door, an older woman answers. (Zach Galifianakis, Michael Cera, Paul Reubens guest star)_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_103_pt2-03.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_103_pt2-03.jpg" height="144px" /></a>
-### 2191445
-**Your Pretty Face is Going to Hell S04E10 - Five-Card Duds**  
- 🔓 11:14  
+https://www.adultswim.com/videos/american-dad/stan-dan-deliver  
+seriesid=`581006` titleid=`2041482` id=`IYkYK4IVTA21Vz0sQ_JUlg` mediaid=`8be0dff7343085f0046a2496452ed5fb7124101f`  
+_Roger becomes a teacher at Steve's school and gets involved with a class of underprivileged kids. Meanwhile, Stan and Francine visit a retirement home and Stan decides to stay._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg" height="144px" /></a>
+### 2069534
+**American Dad S12E03 - The Enlightenment of Ragi-Baba**  
+TV-14 🔓 21:15  
 ⌛ January 22, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/five-card-duds  
-seriesid=`828177` titleid=`2191445` id=`AWp5hFfgHl5gR6828zZU` mediaid=`45520e2ee6fbffd2d3daf420ebc7421a6b25f3f4`  
-_When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg" height="144px" /></a>
-### 2012287
-**The Eric Andre Show S02E09 - Chance The Rapper / Mel B**  
-TV-14-DLS 🔓 11:02  
+https://www.adultswim.com/videos/american-dad/the-enlightenment-of-ragi-baba  
+seriesid=`581006` titleid=`2069534` id=`Pio80KFJQd6SVdNWrk5VgA` mediaid=`8f30856332334da136247b93b0b70d05b6cd7cfc`  
+_Hayley takes Roger with her to a meditation center and he quickly takes over, becoming one of the world's leading authorities on meditation. Stan and Steve become apprentices as they are taught the art of making sushi._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg" height="144px" /></a>
+### 633148
+**Moral Orel S01E06 - Omnipresence**  
+TV-MA 🔓 10:50  
 ⌛ January 22, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-eric-andre-show/chance-the-rapper-mel-b  
-seriesid=`895948` titleid=`2012287` id=`tBAMz8UOQYKrIv2SLR_9Xg` mediaid=`811fc462eb64129390e655e9fc5e8e371989e15e`  
-_Interviews with Chance The Rapper and Mel B; Special guest Questlove and musical guest Henry Rollins._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_019_pt1_le45c-04.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_019_pt1_le45c-04.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/moral-orel/omnipresence  
+seriesid=`629688` titleid=`633148` id=`U0u4CS72SH-cG3HwEnMleA` mediaid=`b07ecb4d1a47fae81e62a10e89f81a7648f73100`  
+_Orel gets a big head when he learns that God is everywhere, even in him._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_006_pt2-03.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_006_pt2-03.jpg" height="144px" /></a>
+### 677652
+**Frisky Dingo S02E05 - The Miracle**  
+TV-MA 🔓 11:14  
+⌛ January 22, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/frisky-dingo/the-miracle  
+seriesid=`638050` titleid=`677652` id=`ow9_yx3XTemziwgcNxNROA` mediaid=`2984db41f75b23b02981f906a0ceda90f9408f83`  
+_Killface acquires an item for the home._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-miracle/fd_018_bim.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-miracle/fd_018_bim.jpg" height="144px" /></a>
+### 2012952
+**Eagleheart S03E08 - Spats**  
+TV-14-DLV 🔓 11:17  
+⌛ January 22, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/eagleheart/spats  
+seriesid=`828246` titleid=`2012952` id=`_9tnECkZSwONWquur9epjw` mediaid=`0871ac6d16b2c0e81ed4a383c345d1ee0c79497a`  
+_An unexpected encounter._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_032_pt1_y85sa-05.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_032_pt1_y85sa-05.jpg" height="144px" /></a>
+### 2005263
+**NTSF:SD:SUV:: S03E07 - A Hard Drive to Swallow**  
+TV-14 🔓 11:15  
+⌛ January 22, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/a-hard-drive-to-swallow  
+seriesid=`853486` titleid=`2005263` id=`RqLHeiKVQ-mqAc_LPSbFvg` mediaid=`ca6917d85c6b492e572f2efffcb97cadad110adf`  
+_When Robot S.A.M. is taken prisoner outside of NTSF:SD:SUV:: jurisdiction, the team becomes a viral video film crew in hopes it will help disguise their rescue mission._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ntsf_cc_308_pt2_gtrf5-05.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ntsf_cc_308_pt2_gtrf5-05.jpg" height="144px" /></a>
