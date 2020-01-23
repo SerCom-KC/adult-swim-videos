@@ -1,59 +1,65 @@
 {
-    "updated": 1579807295,
-    "added": [],
-    "removed": [
+    "updated": 1579821959,
+    "added": [
         {
-            "auth": true,
             "ott_launch_date": null,
-            "auth_expiration_date": 1579841940,
-            "tms_id": "EP007164450228",
-            "description": "Stan is embarrassed when a painting of Francine's genitals, done by a famous artist, is unveiled at the museum. Steve turns to helping people after masturbation is ruined by his mom's portrait.",
+            "auth_expiration_date": null,
+            "tms_id": "",
+            "description": "Let the ballz battlez beginz. Ballmastrz: 9009 returns on Sunday, February 23 at midnight ET.",
             "title_suggest": {
                 "input": [
-                    "Portrait of Francine's Genitals",
-                    "of Francine's Genitals",
-                    "Francine's Genitals",
-                    "Genitals"
+                    "Season 2 Sneak Peek",
+                    "2 Sneak Peek",
+                    "Sneak Peek",
+                    "Peek"
                 ]
             },
-            "title": "Portrait of Francine's Genitals",
-            "type": "episode",
-            "expiration_date": 1557759540,
+            "title": "Season 2 Sneak Peek",
+            "expiration_date": 1582088400,
+            "type": "clip",
             "platforms": [
-                "web",
-                "mobile"
+                "android",
+                "fire-tv",
+                "ios",
+                "online-exclusive",
+                "roku"
             ],
-            "collection_id": "kuykLeORSBmAK6JteESFCw",
-            "duration": 1273.4,
-            "episode_number": "4",
+            "collection_id": "AWHiPblUNWyh42wYnlGd",
+            "duration": 98.96,
             "original_air_date": null,
-            "auth_launch_date": 1579237200,
+            "auth_launch_date": null,
             "clip_order": null,
-            "modified": 1578939280,
-            "media_id": "11ace947a1678de01b3f446f06c28a4e33a58a9a",
-            "airing_id": "RADS1001132000054282",
-            "id": "hdcVKrFvQty4nyJhGa7MxQ",
-            "slug": "portrait-of-francines-genitals",
-            "views": 1047,
+            "media_id": "",
+            "modified": 1579821742,
+            "slug": "season-2-sneak-peek",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151752459586316.jpg",
-            "created": 1481112649,
-            "title_id": "2069535",
-            "tv_rating": "tv-14",
-            "season_number": "12",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/1_201231127586-ballmastrz9009_ep204_001_Sneak.jpg",
+            "created": 1579797082,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1578939280,
-            "first_published": 1481112649,
-            "tags": [],
-            "collection_title": "American Dad",
-            "modified_by": "ODT Listener",
-            "launch_date": 1557154800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg",
-            "cma_id": "1338735",
-            "collection_slug": "american-dad",
-            "collection_title_id": "581006",
-            "online_exclusives": false
+            "published": 1579821742,
+            "tags": [
+                "ballmastrz 9009",
+                "Christy Karacas",
+                "season 2",
+                "dana snyder",
+                "adult swim",
+                "promo"
+            ],
+            "collection_title": "Ballmastrz: 9009",
+            "disable_ads": false,
+            "modified_by": "Duke Nguyen",
+            "launch_date": 1579798800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231127586-ballmastrz9009_ep204_001_Sneak.jpg",
+            "id": "AW_TPnCyGRcVO2K2pmX0",
+            "auth": false,
+            "collection_slug": "ballmastrz-9009",
+            "collection_title_id": "2137894",
+            "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
