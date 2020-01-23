@@ -1,7 +1,6 @@
 {
-    "updated": 1579797041,
-    "added": [],
-    "removed": [
+    "updated": 1579802436,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1581236940,
@@ -16,7 +15,7 @@
                 ]
             },
             "title": "In the Far North",
-            "expiration_date": 1581236940,
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -31,7 +30,7 @@
             "auth_launch_date": 1579422600,
             "clip_order": null,
             "media_id": "1678c52a1889ad82bedc448cf7ec2b3d99935e70",
-            "modified": 1579750086,
+            "modified": 1579801621,
             "airing_id": "RADS1001172000055243",
             "slug": "in-the-far-north",
             "exclude_from_search": false,
@@ -42,18 +41,19 @@
             "tv_rating": "tv-ma",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1579750086,
+            "published": 1579801621,
             "tags": [],
             "collection_title": "Sword Art Online: Alicization - War of Underworld",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1579410000,
+            "modified_by": "Jonathan Jackson",
+            "launch_date": null,
             "poster": "",
             "id": "AW_JhikR3HMJfT8do7Xd",
-            "auth": false,
+            "auth": true,
             "collection_slug": "sword-art-online-alicization-war-of-underworld",
             "collection_title_id": "2215991",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
