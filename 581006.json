@@ -1045,5 +1045,54 @@
         "launch_date": 1557154800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg",
         "cma_id": "1338735"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580367540,
+        "tms_id": "EP007164450220",
+        "description": "When Stan discovers a salt mine in the backyard, the Morton Salt Company wants to buy it. It turns out Steve is the rightful owner of the land and he faces pressure from the family to sell.",
+        "title_suggest": {
+            "input": [
+                "Mine Struggle",
+                "Struggle"
+            ]
+        },
+        "expiration_date": 1557154740,
+        "title": "Mine Struggle",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.13,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "18",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1579762800,
+        "modified": 1579387722,
+        "media_id": "405e54b821301a3461a2f7d6b155141fcb7adeaa",
+        "airing_id": "RADS1001182000056066",
+        "id": "rgVIN2_yS7KtzI9iO0-BHQ",
+        "slug": "mine-struggle",
+        "views": 2082,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002060033816.jpg",
+        "created": 1461954314,
+        "season_number": "11",
+        "title_id": "2046302",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1579387722,
+        "first_published": 1472789452,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1556550000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002060033816.jpg",
+        "cma_id": "1421325"
     }
 ]
