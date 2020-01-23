@@ -1,6 +1,54 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1446763380,
+        "tms_id": "EP008626240028",
+        "rating": 8.230016,
+        "description": "Wendell goes undercover.  Again.\r\n\r\n",
+        "title_suggest": {
+            "input": [
+                "Wendell Goes Undercover Again",
+                "Goes Undercover Again",
+                "Undercover Again",
+                "Again"
+            ]
+        },
+        "type": "episode",
+        "title": "Wendell Goes Undercover Again",
+        "expiration_date": 1582779540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 639.019,
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1579732566,
+        "airing_id": "RADS1001182000056027",
+        "media_id": "7b65106c2ae021832a95cc94ad0084cf098a0376",
+        "id": "Nh6KCLFtRae7fgu5fyUZ9g",
+        "slug": "wendell-goes-undercover-again",
+        "views": 525090,
+        "created": 1402945466,
+        "title_id": "707262",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1579732566,
+        "tags": [],
+        "rating_count": 2678,
+        "collection_title": "Frisky Dingo",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579755600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/wendell-goes-undercover-again/fd_023_bim.jpg",
+        "cma_id": "1454360"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1446763260,
         "tms_id": "EP008626240019",
         "rating": 8.44262,
@@ -144,52 +192,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1577941200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-debate-part-one/fd_020_bim.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446763260,
-        "tms_id": "EP008626240018",
-        "rating": 8.265304,
-        "description": "Killface acquires an item for the home.\r\n\r\n",
-        "title_suggest": {
-            "input": [
-                "The Miracle",
-                "Miracle"
-            ]
-        },
-        "type": "episode",
-        "title": "The Miracle",
-        "expiration_date": 1579755540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 674,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "modified": 1579731366,
-        "airing_id": "RADS1012151900046999",
-        "media_id": "2984db41f75b23b02981f906a0ceda90f9408f83",
-        "id": "ow9_yx3XTemziwgcNxNROA",
-        "slug": "the-miracle",
-        "views": 528088,
-        "created": 1402945466,
-        "title_id": "677652",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1579731366,
-        "tags": [],
-        "rating_count": 2499,
-        "collection_title": "Frisky Dingo",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576731600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-miracle/fd_018_bim.jpg",
         "cma_id": ""
     },
     {
