@@ -50,6 +50,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447438320,
+        "tms_id": "EP004625760011",
+        "rating": 8.221241,
+        "description": "Having nothing better to do, Murphy hires a high-priced feng shui master to \"harmonize\" Sealab. As the renovations run into the millions, Quinn suspects that \"Master Loo\" may not be the man Murphy thinks he is. We can't tell you the ending, but you'd better get ready for the ultimate extreme karate smackdown! Hi-yah!",
+        "title_suggest": {
+            "input": [
+                "Murphy Murphy & The Feng Shui Bunch",
+                "Murphy & The Feng Shui Bunch",
+                "& The Feng Shui Bunch",
+                "The Feng Shui Bunch",
+                "Feng Shui Bunch",
+                "Shui Bunch",
+                "Bunch"
+            ]
+        },
+        "type": "episode",
+        "title": "Murphy Murphy & The Feng Shui Bunch",
+        "expiration_date": 1582779540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 659.39,
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1579385074,
+        "airing_id": "RADS1001182000056043",
+        "media_id": "114985f534d31f022dcc0c3ded9669b4ff047451",
+        "id": "XJgbyy_sT4CaZ3ZOtnnbGw",
+        "slug": "murphy-murphy-the-feng-shui-bunch",
+        "views": 188356,
+        "created": 1402945476,
+        "title_id": "411002",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1579385074,
+        "tags": [
+            "sealab 2021 murphy murph and the feng shui bunch episode 10"
+        ],
+        "rating_count": 1017,
+        "collection_title": "Sealab 2021",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579755600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/murphy-murphy-the-feng-shui-bunch/sealab_cc_010_revised-01.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447438200,
         "auth_expiration_date": null,
         "tms_id": "EP004625760005",
@@ -150,57 +203,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1577941200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_007_pt1-05.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447438200,
-        "auth_expiration_date": null,
-        "tms_id": "EP004625760006",
-        "rating": 8.56338,
-        "description": "A bloodthirsty, killer alien has boarded Sealab and trapped the entire crew. His shimmering form is seemingly everywhere, rending flesh from human bones, as the remaining survivors cower on the bridge. Once again, it's up to the brave Dr. Quinn (with a little help from Old Gus and Dolphin Boy) to save the day.",
-        "title_suggest": {
-            "input": [
-                "Predator"
-            ]
-        },
-        "type": "episode",
-        "title": "Predator",
-        "expiration_date": 1579755540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 689.92,
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1577125925,
-        "media_id": "f29d75344749a465215619dbc8bf6857b867686b",
-        "airing_id": "RADS1012181900047405",
-        "id": "p9wKQ0oqR9K_Ujeg9f87JA",
-        "slug": "predator",
-        "views": 249640,
-        "thumbnail": "",
-        "created": 1402945476,
-        "title_id": "344208",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1577125925,
-        "tags": [
-            "sealab 2021 predator episode 6"
-        ],
-        "rating_count": 923,
-        "collection_title": "Sealab 2021",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576731600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_006_pt2-05.jpg",
         "cma_id": ""
     },
     {

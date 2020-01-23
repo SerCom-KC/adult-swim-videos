@@ -400,7 +400,7 @@
         "launch_date": 1579755600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155742900812814.jpg",
         "id": "AWp5e54gAScUIg8XxfZ9",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -551,17 +551,19 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1576731540,
+        "auth_expiration_date": 1582779540,
         "tms_id": "",
-        "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
+        "description": "When Gary gets kidnapped by a ghost-hunting show, he must choose between fame and friendship. (He chooses fame.)",
         "title_suggest": {
             "input": [
-                "Five-Card Duds",
-                "Duds"
+                "Gary Bunda: Demon Killer",
+                "Bunda: Demon Killer",
+                "Demon Killer",
+                "Killer"
             ]
         },
-        "title": "Five-Card Duds",
-        "expiration_date": 1579755540,
+        "title": "Gary Bunda: Demon Killer",
+        "expiration_date": 1578545940,
         "type": "episode",
         "platforms": [
             "android",
@@ -570,32 +572,32 @@
             "fire-tv"
         ],
         "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 674.58,
-        "episode_number": "10",
+        "duration": 674.25,
+        "episode_number": "8",
         "original_air_date": null,
-        "auth_launch_date": 1573707600,
+        "auth_launch_date": 1579755600,
         "clip_order": null,
-        "media_id": "45520e2ee6fbffd2d3daf420ebc7421a6b25f3f4",
-        "modified": 1578002078,
-        "airing_id": "RADS1012151900047030",
-        "slug": "five-card-duds",
+        "media_id": "6b5be2c353badeb6cdafb8e7aca4abf3d4f353b6",
+        "modified": 1579336928,
+        "airing_id": "RADS1001182000056049",
+        "slug": "gary-bunda-demon-killer",
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155984019589717.jpg",
-        "created": 1556816877,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155914843405217.jpg",
+        "created": 1556816709,
         "season_number": "4",
-        "title_id": "2191445",
+        "title_id": "2191448",
         "tv_rating": "",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1578002078,
+        "published": 1579336928,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1576731600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
-        "id": "AWp5hFfgHl5gR6828zZU",
-        "auth": false
+        "launch_date": 1575522000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg",
+        "id": "AWp5gcZBAScUIg8XxfaB",
+        "auth": true
     },
     {
         "ott_launch_date": null,
