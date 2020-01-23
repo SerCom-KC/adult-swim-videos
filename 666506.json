@@ -530,11 +530,14 @@
         "description": "The Warden invites a motivational speaker to Superjail.",
         "title_suggest": {
             "input": [
+                "Don't Be a Negaton",
+                "Be a Negaton",
+                "a Negaton",
                 "Negaton"
             ]
         },
         "type": "episode",
-        "title": "Negaton",
+        "title": "Don't Be a Negaton",
         "expiration_date": 2085368400,
         "platforms": [
             "web",
@@ -547,11 +550,11 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1523430000,
-        "modified": 1579293776,
+        "modified": 1579807842,
         "media_id": "a1729128b09fbcff40966050d78e16b769ef2955",
         "airing_id": "RADS1011191800046156",
         "id": "F5ZKohd6TOmLl8YmKyllUw",
-        "slug": "negaton",
+        "slug": "dont-be-a-negaton",
         "views": 831399,
         "exclude_from_search": false,
         "thumbnail": "",
@@ -562,13 +565,14 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1579293776,
+        "published": 1579807842,
         "tags": [
             "superjail episode 5 don't be negaton motivational speaker aliens dl diamond power pyramid"
         ],
         "rating_count": 2510,
         "collection_title": "Superjail!",
-        "modified_by": "ODT Listener",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
         "launch_date": 1543208400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/superjail_cc_105_pt1-03.jpg",
         "cma_id": "1430982"
@@ -1732,11 +1736,12 @@
         "description": "Alice takes on a second job and discovers her hidden talent.",
         "title_suggest": {
             "input": [
-                "Oedipusmess"
+                "Oedipus Mess",
+                "Mess"
             ]
         },
         "type": "episode",
-        "title": "Oedipusmess",
+        "title": "Oedipus Mess",
         "expiration_date": 2085368400,
         "platforms": [
             "web",
@@ -1749,11 +1754,11 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": 1515560400,
-        "modified": 1579293761,
+        "modified": 1579807918,
         "media_id": "cfb76a4a9b83f6be02c4f56fc8c6257267e9e61a",
         "airing_id": "RADS1011191800046141",
         "id": "tv3lXraISmWbNWfl7eZtcw",
-        "slug": "oedipusmess",
+        "slug": "oedipus-mess",
         "views": 72735,
         "exclude_from_search": false,
         "thumbnail": "",
@@ -1764,7 +1769,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1579293761,
+        "published": 1579807918,
         "tags": [
             "oedipusmess",
             "Christy karacas",
@@ -1795,7 +1800,8 @@
         ],
         "rating_count": 309,
         "collection_title": "Superjail!",
-        "modified_by": "ODT Listener",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
         "launch_date": 1543208400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/superjail_cc_309_pt1_CC_wtkRx-05.jpg",
         "cma_id": "1376894"
