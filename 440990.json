@@ -155,6 +155,54 @@
         "cma_id": "2105395"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580455740,
+        "tms_id": "EP002960010290",
+        "description": "Peter takes his family to a fancy restaurant and falls in love with his toothpick. When Peter accidentally swallows it, he goes back to the restaurant to get another one.",
+        "title_suggest": {
+            "input": [
+                "Hot Pocket-Dial",
+                "Pocket-Dial"
+            ]
+        },
+        "expiration_date": 1578891540,
+        "title": "Hot Pocket-Dial",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1301.6339673,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1579851000,
+        "modified": 1579425611,
+        "media_id": "2cfe629cfd15681501ba0c523ec37b33fb28c912",
+        "airing_id": "RADS1001182000056076",
+        "id": "9Y5n8Ny3Tiibew5ZNcrTwg",
+        "slug": "hot-pocket-dial",
+        "views": 1,
+        "thumbnail": "",
+        "created": 1448901868,
+        "season_number": "14",
+        "title_id": "2064581",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1579425611,
+        "first_published": 1478149824,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1578286800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/hot-pocket-dial/familyguy_1306_air_cid-2XXC8.jpg",
+        "cma_id": "1446333"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1555912740,
