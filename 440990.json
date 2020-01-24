@@ -203,6 +203,55 @@
         "cma_id": "1446333"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580457540,
+        "tms_id": "EP002960010291",
+        "description": "Peter, Cleveland, and Quagmire are super excited about going to the Seriously Wicked Bull Run, but they're worried that Joe would be dead weight.",
+        "title_suggest": {
+            "input": [
+                "Brokeback Swanson",
+                "Swanson"
+            ]
+        },
+        "expiration_date": 1578891540,
+        "title": "Brokeback Swanson",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1301.6339673,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1579852800,
+        "modified": 1579476488,
+        "media_id": "c5b22667cc274256a49251b0297e58601ade924e",
+        "airing_id": "RADS1001182000056073",
+        "id": "E69StwjQRAa_8huY08OfPw",
+        "slug": "brokeback-swanson",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1451939988,
+        "season_number": "14",
+        "title_id": "2064582",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1579476488,
+        "first_published": 1478149843,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1578286800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/brokeback-swanson/familyguy_1307_air_cid-2XXDG.jpg",
+        "cma_id": "1451378"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1555912740,
