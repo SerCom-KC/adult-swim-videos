@@ -1,55 +1,58 @@
 {
-    "updated": 1580027552,
-    "added": [
+    "updated": 1580029354,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1564459199,
-            "tms_id": "EP031416130004",
-            "description": "Emma, Norman, and Ray figure out that there may be a traitor among the children, an informant for Mom. As Norman attempts to solve this mystery, Emma notices something strange about Gilda.",
+            "auth_expiration_date": 1580029140,
+            "tms_id": "EP029407000005",
+            "description": "After Lupin is shot in the head and dies, the Lupin Game is concluded. Time passes, and people forget about the game. Released from his duty of hunting Lupin, Ami now lives with Zenigata, when one day Goemon visits her.",
             "title_suggest": {
                 "input": [
-                    "291045"
+                    "A Crook's Resolve",
+                    "Crook's Resolve",
+                    "Resolve"
                 ]
             },
-            "title": "291045",
+            "title": "A Crook's Resolve",
             "type": "episode",
-            "expiration_date": 1581236940,
+            "expiration_date": 1566719940,
             "platforms": [
                 "android",
                 "ios",
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWmWt_pSHl5gR6828y3g",
-            "duration": 1279.5115,
-            "episode_number": "4",
+            "collection_id": "AWsjveiCCorLtcgflq7h",
+            "duration": 1326.4251,
+            "episode_number": "5",
             "original_air_date": null,
-            "auth_launch_date": 1560065400,
+            "auth_launch_date": 1566720000,
             "clip_order": null,
-            "airing_id": "RADS1001222000056300",
-            "media_id": "99e7be6d6f2c420843e1609e0d8ebb95a768272e",
-            "modified": 1579727766,
-            "slug": "291045",
+            "airing_id": "RADS1008181900013921",
+            "media_id": "7237331f7e46e3780ef462fdd647aa2342eae55f",
+            "modified": 1569601039,
+            "slug": "a-crooks-resolve",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15569042771246.jpg",
-            "created": 1556654771,
-            "title_id": "2194662",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156295861569310.jpg",
+            "created": 1562893685,
+            "title_id": "2193932",
             "season_number": "1",
-            "tv_rating": "tv-14",
+            "tv_rating": "tv-14-sv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1579727766,
+            "published": 1569601039,
             "tags": [],
-            "collection_title": "The Promised Neverland",
+            "collection_title": "Lupin the 3rd Part 5",
+            "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1580027400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15569042771246.jpg",
-            "id": "AWpv2sypHl5gR6828zXv",
-            "auth": false,
-            "collection_slug": "the-promised-neverland",
-            "collection_title_id": "2194658",
+            "launch_date": 1564905600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156295861569310.jpg",
+            "id": "AWvjuRJHCorLtcgflsBh",
+            "auth": true,
+            "collection_slug": "lupin-the-3rd-part-5",
+            "collection_title_id": "2193927",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
