@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 26, 2020 at 01:00:28 EST_
+_Last Update: January 26, 2020 at 01:30:34 EST_
 ## Video added
 ### Summary
 2003422 Bob's Burgers: 1  
-### 2003430
-**Bob's Burgers S01E08 - Art Crawl**  
-TV-14 🔒 21:32  
-⌛ February 2, 2020 at 00:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/art-crawl  
-seriesid=`2003422` titleid=`2003430` id=`Cy0lgbZFSg-5BlAVxPmVlw` mediaid=`7a16bff0a13713f66441a6183cb17dd8f43d3379`  
-_When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg" height="144px" /></a>
+### 2003431
+**Bob's Burgers S01E09 - Spaghetti Western and Meatballs**  
+TV-PG 🔒 21:34  
+⌛ February 2, 2020 at 00:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/spaghetti-western-and-meatballs  
+seriesid=`2003422` titleid=`2003431` id=`4Hb2eqXGTueest7kArYyDA` mediaid=`6575d178c15c95e042de6fc030daefdecb14fefe`  
+_When Bob and Gene start watching Spaghetti Western films, they wind up alienating Louise. As Gene takes pointers from the films on how to deal with his archrival at school, Tina takes out her aggression and fights her way through a conflict-resolution program._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-### 2171457
-**Bob's Burgers S08E17 - Boywatch**  
-TV-PG-L 🔒 21:41  
-⌛ January 26, 2020 at 00:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/boywatch  
-seriesid=`2003422` titleid=`2171457` id=`AWlyRK-eAScUIg8Xxd78` mediaid=`dc02c49b35f4dcc44deed10266f3a480daca6fb1`  
-_Tina decides to join the Junior Lifeguards, but one of her fellow junior guards tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg" height="144px" /></a>
+### 2171458
+**Bob's Burgers S08E18 - As I Walk Through the Alley of the Shadow of Ramps**  
+TV-PG-L 🔒 21:36  
+⌛ January 26, 2020 at 00:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/as-i-walk-through-the-alley-of-the-shadow-of-ramps  
+seriesid=`2003422` titleid=`2171458` id=`AWhYh5S3Hl5gR6828x2Q` mediaid=`a924b62b2974763a32b68f1a60caef5524dbbdea`  
+_When a malicious juice truck owner tries to set up shop in the Belcher's alley, Louise devises a plan to win back their turf. Meanwhile, Linda learns that she can't always run to her sister's defense._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg" height="144px" /></a>
