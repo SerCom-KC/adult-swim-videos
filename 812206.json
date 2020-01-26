@@ -590,7 +590,7 @@
         "launch_date": 1580038200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291549512-narutoshippuden_278.jpg",
         "id": "AW4ZEU1-1YiBSfg0KYGf",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -689,6 +689,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291550471-narutoshippuden_280.jpg",
         "id": "AW4ZEjUn1YiBSfg0KYGh",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1581852540,
+        "tms_id": "",
+        "description": "",
+        "title_suggest": {
+            "input": [
+                "The Allied Mom Force!!",
+                "Allied Mom Force!!",
+                "Mom Force!!",
+                "Force!!"
+            ]
+        },
+        "title": "The Allied Mom Force!!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 0,
+        "episode_number": "63",
+        "original_air_date": null,
+        "auth_launch_date": 1580038200,
+        "clip_order": null,
+        "media_id": "a9c244254a42595841fa06f3b0b9d5763aeff0a5",
+        "modified": 1579734606,
+        "airing_id": "RADS1001222000056414",
+        "slug": "the-allied-mom-force",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/1_1910291551158-narutoshippuden_281.jpg",
+        "created": 1572378680,
+        "season_number": "5",
+        "title_id": "2177710",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1579734606,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291551158-narutoshippuden_281.jpg",
+        "id": "AW4ZEp4A1YiBSfg0KYGi",
         "auth": true
     },
     {
