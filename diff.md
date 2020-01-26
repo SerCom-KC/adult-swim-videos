@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 26, 2020 at 01:30:34 EST_
+_Last Update: January 26, 2020 at 02:00:36 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2003431
-**Bob's Burgers S01E09 - Spaghetti Western and Meatballs**  
-TV-PG 🔒 21:34  
-⌛ February 2, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/spaghetti-western-and-meatballs  
-seriesid=`2003422` titleid=`2003431` id=`4Hb2eqXGTueest7kArYyDA` mediaid=`6575d178c15c95e042de6fc030daefdecb14fefe`  
-_When Bob and Gene start watching Spaghetti Western films, they wind up alienating Louise. As Gene takes pointers from the films on how to deal with his archrival at school, Tina takes out her aggression and fights her way through a conflict-resolution program._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 2064583
+**Family Guy S14E08 - The Peanut Butter Kid**  
+TV-14-DLSV 🔒 21:42  
+⌛ February 2, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/the-peanut-butter-kid  
+seriesid=`440990` titleid=`2064583` id=`OZrnSRbjSGC4Q8q6Up6AsQ` mediaid=`b616625d8762d37b3bd8b3c4ff082ed9d439b947`  
+_Stressed about their poor finances, Lois and Peter try to find a way to save money for Stewie's college fund. Peter buys a metal detector to search for expensive metals on the beach._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-peanut-butter-kid/familyguy_1308_air_cid-2XXDK.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-peanut-butter-kid/familyguy_1308_air_cid-2XXDK.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2171458
-**Bob's Burgers S08E18 - As I Walk Through the Alley of the Shadow of Ramps**  
-TV-PG-L 🔒 21:36  
-⌛ January 26, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/as-i-walk-through-the-alley-of-the-shadow-of-ramps  
-seriesid=`2003422` titleid=`2171458` id=`AWhYh5S3Hl5gR6828x2Q` mediaid=`a924b62b2974763a32b68f1a60caef5524dbbdea`  
-_When a malicious juice truck owner tries to set up shop in the Belcher's alley, Louise devises a plan to win back their turf. Meanwhile, Linda learns that she can't always run to her sister's defense._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 809299
+**Family Guy S13E17 - Fighting Irish**  
+TV-14-DLSV 🔒 21:31  
+⌛ January 26, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/fighting-irish  
+seriesid=`440990` titleid=`809299` id=`hyswOASJSbiKc4O7rFUesw` mediaid=`30497510bae61b87e851f529c76b1facc140eaa3`  
+_When Liam Nesson comes to town to shoot a movie, Peter is convinced that he can beat him up. Unsuccessful, Peter winds up in jail but is bailed out by Liam Neeson and becomes his manservant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484140255520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484140255520.jpg" height="144px" /></a>
