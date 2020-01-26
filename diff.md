@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 26, 2020 at 04:30:36 EST_
+_Last Update: January 26, 2020 at 05:00:39 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2193927 Lupin the 3rd Part 5: 1  
-### 2193932
-**Lupin the 3rd Part 5 S01E05 - A Crook's Resolve**  
-TV-14-SV 🔒 22:06  
-⌛ January 26, 2020 at 03:59:00 EST  
-https://www.adultswim.com/videos/lupin-the-3rd-part-5/a-crooks-resolve  
-seriesid=`2193927` titleid=`2193932` id=`AWvjuRJHCorLtcgflsBh` mediaid=`7237331f7e46e3780ef462fdd647aa2342eae55f`  
-_After Lupin is shot in the head and dies, the Lupin Game is concluded. Time passes, and people forget about the game. Released from his duty of hunting Lupin, Ami now lives with Zenigata, when one day Goemon visits her._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156295861569310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156295861569310.jpg" height="144px" /></a>
+2209292 Demon Slayer: 1  
+### 2209305
+**Demon Slayer S01E13 - Something More Important Than Life**  
+TV-MA-V 🔒 00:00  
+⌛ February 16, 2020 at 04:59:00 EST  
+https://www.adultswim.com/videos/demon-slayer/something-more-important-than-life  
+seriesid=`2209292` titleid=`2209305` id=`AW-kuee6GRcVO2K2pmCx` mediaid=`7eaab3ab815617307bff31142367058a464e7bfd`  
+_Tanjiro's world keeps spinning as Kyogai's tsuzumi commands gravity itself with every beat, driving Tanjiro up the wall. Literally._  
+<a href="https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_20114119564-demonslayer_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_20114119564-demonslayer_013.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
