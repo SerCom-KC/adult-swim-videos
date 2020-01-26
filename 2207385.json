@@ -807,7 +807,7 @@
         "launch_date": 1580025600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_1912171422241-DrStone_117.jpg",
         "id": "AW8VT8sUGRcVO2K2pl-Z",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -953,6 +953,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231610402-DrStone_119.jpg",
         "id": "AW_JiIgwGRcVO2K2pmOx",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1581839940,
+        "tms_id": "EP032785490020",
+        "description": "Work begins on creating the components for Senku's cell phone, but spinning gold wire is proving to be quite the task! Luckily, Chrome and Kaseki invent the water wheel and drastically improve the process!",
+        "title_suggest": {
+            "input": [
+                "The Age of Energy",
+                "Age of Energy",
+                "of Energy",
+                "Energy"
+            ]
+        },
+        "title": "The Age of Energy",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 0,
+        "episode_number": "20",
+        "original_air_date": null,
+        "auth_launch_date": 1580025600,
+        "clip_order": null,
+        "media_id": "a9ed999068d4bcfcd8433bbc43f0d370dbcedea5",
+        "modified": 1579816087,
+        "airing_id": "RADS1001232000056931",
+        "slug": "the-age-of-energy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/1_201231610246-DrStone_120.jpg",
+        "created": 1579813830,
+        "season_number": "1",
+        "title_id": "2207405",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1579816087,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231610246-DrStone_120.jpg",
+        "id": "AW_UPf6N3HMJfT8do7j6",
         "auth": true
     },
     {
