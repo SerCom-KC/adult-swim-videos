@@ -2458,6 +2458,64 @@
         "cma_id": "1192249"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370070",
+        "description": "During their investigation of the second time machine, Gohan and company stumble upon the shell of what appears to be a monstrous creature. Later, a horrific vision forces Kami to accept his fate and merge with Piccolo!",
+        "title_suggest": {
+            "input": [
+                "The Monster Goes Into Motion! Strike of the Super Namekian!",
+                "Monster Goes Into Motion! Strike of the Super Namekian!",
+                "Goes Into Motion! Strike of the Super Namekian!",
+                "Into Motion! Strike of the Super Namekian!",
+                "Motion! Strike of the Super Namekian!",
+                "Strike of the Super Namekian!",
+                "of the Super Namekian!",
+                "the Super Namekian!",
+                "Super Namekian!",
+                "Namekian!"
+            ]
+        },
+        "expiration_date": 1583125140,
+        "title": "The Monster Goes Into Motion! Strike of the Super Namekian!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1314,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "68",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1579738806,
+        "media_id": "dab30a01bc548760690cbca87a8e610a035b1eaf",
+        "airing_id": "RADS1001222000056423",
+        "id": "d-t_8wWPS3-mM_ppra-yzA",
+        "slug": "the-monster-goes-into-motion-strike-of-the-super-namekian",
+        "views": 2495,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210166174-dragonballzkai_068_air_cid-2T35K.jpg",
+        "created": 1454969682,
+        "season_number": "1",
+        "title_id": "2031679",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1579738806,
+        "first_published": 1461744637,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1580101200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210166174-dragonballzkai_068_air_cid-2T35K.jpg",
+        "cma_id": "1218115"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
@@ -3490,7 +3548,7 @@
         "cma_id": "1050184"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370063",
