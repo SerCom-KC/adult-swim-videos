@@ -852,7 +852,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1600660799,
         "tms_id": "",
         "description": "Koichi is both surprised and excited when a girl named Yukako Yamagishi says she likes him. But Koichi's joy quickly turns into fear after Yukako begins to express her love for him in very erratic and dangerous ways.",
@@ -1250,7 +1250,7 @@
         "launch_date": 1580101200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432565481947.jpg",
         "id": "AWcS1KuyeP_aldpBWFKM",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
