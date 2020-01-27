@@ -148,6 +148,51 @@
         "cma_id": "1489605"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580792399,
+        "tms_id": "EP012792980111",
+        "description": "When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside.",
+        "title_suggest": {
+            "input": [
+                "Flu-Ouise"
+            ]
+        },
+        "title": "Flu-Ouise",
+        "type": "episode",
+        "expiration_date": 1564372740,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1325.77,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1580106600,
+        "clip_order": null,
+        "media_id": "668bca67201e425b0fe66bd84c04031bd9e197a6",
+        "modified": 1579732087,
+        "airing_id": "RADS1001222000056450",
+        "id": "AWFYLCWdZ-onAnjDL5Nm",
+        "slug": "flu-ouise",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151845711531711.jpg",
+        "created": 1517602743,
+        "title_id": "2132990",
+        "tv_rating": "tv-pg-dlv",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1579732087,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1563768000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1579757340,
         "tms_id": "",
