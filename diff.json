@@ -1,7 +1,65 @@
 {
-    "updated": 1580227236,
-    "added": [],
-    "removed": [
+    "updated": 1580232636,
+    "added": [
+        {
+            "auth": false,
+            "ott_launch_date": 1451670120,
+            "auth_expiration_date": null,
+            "tms_id": "EP007542790020",
+            "rating": 5.684782,
+            "description": "Golden Joe refuses to take an IQ test at school, so he fails it.  Golden Joe claims it was a racist test, not at all suitable for the hip hop sub-culture.  The Eye and the Cop meet with the school faculty to discuss it, and end up getting jived by a white-bread computer nerd.",
+            "title_suggest": {
+                "input": [
+                    "Prolegomenon"
+                ]
+            },
+            "type": "episode",
+            "title": "Prolegomenon",
+            "expiration_date": 2085368400,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "4187UTxoQACKlt3B24ioQA",
+            "duration": 717.65,
+            "episode_number": "13",
+            "original_air_date": null,
+            "clip_order": null,
+            "auth_launch_date": null,
+            "modified": 1580222409,
+            "media_id": "25747f3140919fba404a57b80e2a6240810105ae",
+            "airing_id": "RADS1001282000057864",
+            "id": "bDBdvfa-Qjikw12bwPWEnA",
+            "slug": "prolegomenon",
+            "views": 127341,
+            "exclude_from_search": false,
+            "thumbnail": "",
+            "created": 1402945460,
+            "title_id": "660380",
+            "season_number": "2",
+            "tv_rating": "tv-14-lv",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1580222409,
+            "tags": [
+                "12 oz mouse",
+                "episode",
+                "prolegomenon",
+                "series finale",
+                "last"
+            ],
+            "rating_count": 1104,
+            "collection_title": "12 oz. Mouse",
+            "modified_by": "ODT Listener",
+            "launch_date": 1580230800,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_020_pt2-02.jpg",
+            "cma_id": "",
+            "collection_slug": "12-oz-mouse",
+            "collection_title_id": "618253",
+            "online_exclusives": false
+        },
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
@@ -31,9 +89,9 @@
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
-            "media_id": "",
-            "modified": 1579299767,
-            "airing_id": "RADS1011141800045168",
+            "media_id": "67e98b0e12b10ebdcb6cb50f52da3333a3096535",
+            "modified": 1580226914,
+            "airing_id": "RADS1001282000057862",
             "slug": "soft-focus-with-jena-friedman",
             "exclude_from_search": false,
             "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154506461198619.jpg",
@@ -43,7 +101,7 @@
             "tv_rating": "tv-ma-ls",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1579299767,
+            "published": 1580226914,
             "tags": [
                 "Soft Focus With Jena Friedman",
                 "Jena Friedman",
@@ -51,8 +109,8 @@
             ],
             "collection_title": "Soft Focus with Jena Friedman",
             "disable_ads": false,
-            "modified_by": "Duke Nguyen",
-            "launch_date": 1542776400,
+            "modified_by": "ODT Listener",
+            "launch_date": 1580230800,
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154506461198619.jpg",
             "id": "AWe9CD8aAScUIg8XxbXw",
             "auth": false,
@@ -60,5 +118,6 @@
             "collection_title_id": "2159121",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
