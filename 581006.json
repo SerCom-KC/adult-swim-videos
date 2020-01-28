@@ -50,6 +50,52 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1580797740,
+        "tms_id": "EP007164450225",
+        "description": "The Smith family forgets to celebrate Father's Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him.",
+        "title_suggest": {
+            "input": [
+                "Father's Daze",
+                "Daze"
+            ]
+        },
+        "title": "Father's Daze",
+        "type": "episode",
+        "expiration_date": 1566791940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.9,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1580193000,
+        "clip_order": null,
+        "modified": 1579763884,
+        "media_id": "0d1b8527d9a327620560c807c976b68ecc297936",
+        "airing_id": "RADS1001222000056466",
+        "id": "1tfpfZcEQEulM8Gwxer2rg",
+        "slug": "fathers-daze",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151793526969010.jpg",
+        "created": 1479021033,
+        "title_id": "2069532",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1579763884,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1566187200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg",
+        "cma_id": "1326905"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1580279340,
         "tms_id": "EP007164450217",
         "description": "Stan loses his faith in religion after Steve questions everything in the Bible. He takes the family to Korea to investigate the rumors of a reinvented \"Noah's Ark.\"",
