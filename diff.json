@@ -1,58 +1,64 @@
 {
-    "updated": 1580200232,
-    "added": [
+    "updated": 1580223633,
+    "added": [],
+    "removed": [
         {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1580803140,
-            "tms_id": "EP002960010296",
-            "description": "A drunk Peter drinks water from a fire hydrant; but when the water overflows, Peter ends up destroying the public library.  As a result of Peter's drunken hijinks, Major Adam West raises the legal drinking age to fifty.",
+            "auth": false,
+            "ott_launch_date": 1451670120,
+            "auth_expiration_date": null,
+            "tms_id": "EP007542790020",
+            "rating": 5.684782,
+            "description": "Golden Joe refuses to take an IQ test at school, so he fails it.  Golden Joe claims it was a racist test, not at all suitable for the hip hop sub-culture.  The Eye and the Cop meet with the school faculty to discuss it, and end up getting jived by a white-bread computer nerd.",
             "title_suggest": {
                 "input": [
-                    "Underage Peter",
-                    "Peter"
+                    "Prolegomenon"
                 ]
             },
-            "title": "Underage Peter",
             "type": "episode",
-            "expiration_date": 1574053140,
+            "title": "Prolegomenon",
+            "expiration_date": null,
             "platforms": [
                 "web",
-                "mobile"
+                "mobile",
+                "ott"
             ],
-            "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-            "duration": 1301.9676343,
-            "episode_number": "15",
+            "collection_id": "4187UTxoQACKlt3B24ioQA",
+            "duration": 717.65,
+            "episode_number": "13",
             "original_air_date": null,
             "clip_order": null,
-            "auth_launch_date": 1580198400,
-            "modified": 1579771806,
-            "media_id": "a2c2630e91d827e68c6d6f5a868ebc765077df35",
-            "airing_id": "RADS1001222000056463",
-            "id": "pkYPWvxZRWKJqb_9FFeBxQ",
-            "slug": "underage-peter",
-            "views": 7,
+            "auth_launch_date": null,
+            "modified": 1547754395,
+            "media_id": "",
+            "id": "bDBdvfa-Qjikw12bwPWEnA",
+            "slug": "prolegomenon",
+            "views": 127341,
             "exclude_from_search": false,
             "thumbnail": "",
-            "created": 1456812619,
-            "title_id": "2064588",
-            "tv_rating": "tv-14",
-            "season_number": "14",
-            "ott_expiration_date": null,
+            "created": 1402945460,
+            "title_id": "660380",
+            "season_number": "2",
+            "tv_rating": "tv-14-lv",
             "active": false,
+            "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1579771806,
-            "first_published": 1456812619,
-            "tags": [],
-            "collection_title": "Family Guy",
-            "modified_by": "ODT Listener",
-            "launch_date": 1573448400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg",
-            "cma_id": "1465189",
-            "collection_slug": "family-guy",
-            "collection_title_id": "440990",
+            "published": 1547754395,
+            "tags": [
+                "12 oz mouse",
+                "episode",
+                "prolegomenon",
+                "series finale",
+                "last"
+            ],
+            "rating_count": 1104,
+            "collection_title": "12 oz. Mouse",
+            "modified_by": "Jared Marquez",
+            "launch_date": 1426690800,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_020_pt2-02.jpg",
+            "cma_id": "",
+            "collection_slug": "12-oz-mouse",
+            "collection_title_id": "618253",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }

@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 28, 2020 at 03:30:32 EST_
+_Last Update: January 28, 2020 at 10:00:33 EST_
 ## Video added
-### Summary
-440990 Family Guy: 1  
-### 2064588
-**Family Guy S14E15 - Underage Peter**  
-TV-14 🔒 21:41  
-⌛ February 4, 2020 at 02:59:00 EST  
-https://www.adultswim.com/videos/family-guy/underage-peter  
-seriesid=`440990` titleid=`2064588` id=`pkYPWvxZRWKJqb_9FFeBxQ` mediaid=`a2c2630e91d827e68c6d6f5a868ebc765077df35`  
-_A drunk Peter drinks water from a fire hydrant; but when the water overflows, Peter ends up destroying the public library.  As a result of Peter's drunken hijinks, Major Adam West raises the legal drinking age to fifty._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+618253 12 oz. Mouse: 1  
+### 660380
+**12 oz. Mouse S02E13 - Prolegomenon**  
+TV-14-LV 🔓 11:57  
+https://www.adultswim.com/videos/12-oz-mouse/prolegomenon  
+seriesid=`618253` titleid=`660380` id=`bDBdvfa-Qjikw12bwPWEnA`  
+_Golden Joe refuses to take an IQ test at school, so he fails it.  Golden Joe claims it was a racist test, not at all suitable for the hip hop sub-culture.  The Eye and the Cop meet with the school faculty to discuss it, and end up getting jived by a white-bread computer nerd._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_020_pt2-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_020_pt2-02.jpg" height="144px" /></a>
