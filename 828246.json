@@ -50,54 +50,6 @@
         "cma_id": "1468728"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1446738540,
-        "auth_expiration_date": 1580273940,
-        "tms_id": "EP013120360019",
-        "rating": 7.520408,
-        "description": "When the town's newest crime boss kills the town's favorite hardware merchant, the marshals use extreme measures to catch him. Plus: Doc Shades finds a second career. ",
-        "title_suggest": {
-            "input": [
-                "Beat Shack",
-                "Shack"
-            ]
-        },
-        "type": "episode",
-        "title": "Beat Shack",
-        "expiration_date": 1571889540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 676.8008008,
-        "episode_number": "7",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577250000,
-        "modified": 1576880903,
-        "media_id": "2550d23fd901aac5eb64961774cb241272de2d42",
-        "airing_id": "RADS1012201900049135",
-        "id": "OsdVH7xGQcSRyYSlWtcdFg",
-        "slug": "beat-shack",
-        "views": 18429,
-        "created": 1402945464,
-        "title_id": "892255",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1576880903,
-        "tags": [],
-        "rating_count": 98,
-        "collection_title": "Eagleheart",
-        "modified_by": "ODT Listener",
-        "launch_date": 1568865600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_210_pt1-05.jpg",
-        "cma_id": "1394219"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1446676380,
         "auth_expiration_date": 1571198340,
@@ -196,6 +148,54 @@
         "launch_date": 1570680000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_207_pt1-06.jpg",
         "cma_id": "1406460"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1446738720,
+        "auth_expiration_date": 1583297940,
+        "tms_id": "EP013120360024",
+        "rating": 8.323077,
+        "description": "The Marshals are called to the woods to quell tensions between loggers and some local activists. They uncover a lot more than you were expecting.",
+        "title_suggest": {
+            "input": [
+                "Old Gary",
+                "Gary"
+            ]
+        },
+        "type": "episode",
+        "title": "Old Gary",
+        "expiration_date": 1574917140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 682.7007007,
+        "episode_number": "12",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1580274000,
+        "modified": 1579853167,
+        "media_id": "aeb2e9bf9e5db0ae4208e739da36e8e910d85771",
+        "airing_id": "RADS1001232000056942",
+        "id": "WPjwdo6BR7Se3B6_AYqFWw",
+        "slug": "old-gary",
+        "views": 19229,
+        "created": 1402945464,
+        "title_id": "892260",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1579853167,
+        "tags": [],
+        "rating_count": 65,
+        "collection_title": "Eagleheart",
+        "modified_by": "ODT Listener",
+        "launch_date": 1571889600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/old-gary/eagleheart_204.jpg",
+        "cma_id": "1414775"
     },
     {
         "auth": false,

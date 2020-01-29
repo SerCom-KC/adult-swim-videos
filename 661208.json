@@ -1,58 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": 1447784280,
-        "auth_expiration_date": 1580273940,
-        "tms_id": "EP008994530021",
-        "rating": 7.6751175,
-        "description": "Tim returns from the grave with a special gift. Paninis smell like horse.\r\n(John C. Reilly)",
-        "title_suggest": {
-            "input": [
-                "Resurrection"
-            ]
-        },
-        "type": "episode",
-        "title": "Resurrection",
-        "expiration_date": 1559833140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 694.006,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577250000,
-        "modified": 1576883168,
-        "media_id": "d7f6324b06a1c99b3310316e533aa5847fa57822",
-        "airing_id": "RADS1012201900049121",
-        "id": "0kLXvBSvSG-9hWX6RBbP3w",
-        "slug": "resurrection",
-        "views": 345526,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945482,
-        "title_id": "723265",
-        "season_number": "3",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1576883168,
-        "tags": [
-            "tim eric awesome show great job episode 21 resurrection season premiere return steve brule paninis griddleman"
-        ],
-        "rating_count": 3195,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1556809200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_301_pt2-03.jpg",
-        "cma_id": "1328371"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447784340,
         "auth_expiration_date": 1581483540,
         "tms_id": "EP008994530023",
@@ -673,5 +621,59 @@
         "launch_date": 1558623600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_304_pt1-05.jpg",
         "cma_id": "1340231"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447784400,
+        "auth_expiration_date": 1583297940,
+        "tms_id": "EP008994530026",
+        "rating": 8.015266,
+        "description": "Jim and Derrick board, Chug, and get chill with Elisha Cuthbert in the zone. And damn... Drez plays it all back.",
+        "title_suggest": {
+            "input": [
+                "Jim and Derrick",
+                "and Derrick",
+                "Derrick"
+            ]
+        },
+        "type": "episode",
+        "title": "Jim and Derrick",
+        "expiration_date": 1562857140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 690.006,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1580274000,
+        "modified": 1579855685,
+        "media_id": "b8be101e2d2830c89fb1ec5bdf175476d0d333c9",
+        "airing_id": "RADS1001232000056953",
+        "id": "zvqo-MP3TnqsuSTpSUl8Tw",
+        "slug": "jim-and-derrick",
+        "views": 739230,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945481,
+        "title_id": "723268",
+        "season_number": "3",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1579855685,
+        "tags": [
+            "tim eric awesome show great job episode 26 jim and derrick elisha cuthbert turbo fuel chug contest"
+        ],
+        "rating_count": 4063,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1559833200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_306_pt2-02.jpg",
+        "cma_id": "1348396"
     }
 ]
