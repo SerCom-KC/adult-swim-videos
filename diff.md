@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 29, 2020 at 02:00:48 EST_
+_Last Update: January 29, 2020 at 03:30:45 EST_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-### 2069535
-**American Dad S12E04 - Portrait of Francine's Genitals**  
-TV-14 🔒 21:13  
-⌛ February 5, 2020 at 23:59:59 EST  
-https://www.adultswim.com/videos/american-dad/portrait-of-francines-genitals  
-seriesid=`581006` titleid=`2069535` id=`hdcVKrFvQty4nyJhGa7MxQ` mediaid=`11ace947a1678de01b3f446f06c28a4e33a58a9a`  
-_Stan is embarrassed when a painting of Francine's genitals, done by a famous artist, is unveiled at the museum. Steve turns to helping people after masturbation is ruined by his mom's portrait._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 849586
+**Family Guy S09E18 - It's a Trap Part 1 & 2**  
+TV-14 🔒 43:35  
+⌛ February 5, 2020 at 02:59:00 EST  
+https://www.adultswim.com/videos/family-guy/its-a-trap-part-1-2  
+seriesid=`440990` titleid=`849586` id=`j6cQXeQtS8SsO8f_PfstXQ` mediaid=`ee0a8589f85607508cc6ad0a689f7b60d5b8b17b`  
+_The Trilogy comes full circle in this parody of Star Wars Episode VI: The Return of the Jedi._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214848807806.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214848807806.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 2046300
-**American Dad S11E16 - Daesong Heavy Industries II: Return to Innocence**  
-TV-14-DLSV 🔒 21:14  
-⌛ January 29, 2020 at 01:59:00 EST  
-https://www.adultswim.com/videos/american-dad/daesong-heavy-industries-ii-return-to-innocence  
-seriesid=`581006` titleid=`2046300` id=`IsWR_wnmSM-E7KEkZ7ggWw` mediaid=`19a48d743812fd75ac575ae53eba3200ea224ab7`  
-_Stan and Francine lose their memories and resort to primitive living on an island, Hayley and Jeff are rescued by the Navy and Jeff decides to enlist, and Roger and Steve try to survive on a lifeboat in the middle of the ocean._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001910118711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001910118711.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 821792
+**Family Guy S09E01 - And Then There Were Fewer Part 1 & 2**  
+TV-14 🔒 43:27  
+⌛ January 29, 2020 at 02:59:00 EST  
+https://www.adultswim.com/videos/family-guy/and-then-there-were-fewer-part-1-2  
+seriesid=`440990` titleid=`821792` id=`65YV0dkWQR2BxjSaRrY-LQ` mediaid=`7e9c3cc652638e4a7e07b26e1b77fc184cdc501e`  
+_Some vacations are to die for._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208895913551.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208895913551.jpg" height="144px" /></a>
