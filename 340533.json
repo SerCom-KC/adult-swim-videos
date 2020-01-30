@@ -1,6 +1,55 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1447438320,
+        "tms_id": "EP004625760012",
+        "rating": 7.918728,
+        "description": "The entire crew, thanks to Murphy, gets trapped in a storage closet. Tempers flare and fists (lots of fists) fly as the gang realizes they may be stuck with each other for a long, long time. Making her small-screen debut in this episode is the inanimate ingenue Buckethead Wendy, who...(sniff) does anybody smell dog urine?",
+        "title_suggest": {
+            "input": [
+                "In the Closet",
+                "the Closet",
+                "Closet"
+            ]
+        },
+        "type": "episode",
+        "title": "In the Closet",
+        "expiration_date": 1583384340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 660.16,
+        "episode_number": "11",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1580305442,
+        "airing_id": "RADS1001272000057325",
+        "media_id": "da43dd02f95acd904fa78b1894f85312b855c34e",
+        "id": "5Iji5FQITFuVSVoElK71yg",
+        "slug": "in-the-closet",
+        "views": 251847,
+        "created": 1402945476,
+        "title_id": "415759",
+        "season_number": "1",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1580305442,
+        "tags": [
+            "sealab 2021 in the closet episode 11"
+        ],
+        "rating_count": 1415,
+        "collection_title": "Sealab 2021",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580360400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/in-the-closet/sealab_cc_011_revised-01.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447438260,
         "tms_id": "EP004625760009",
         "rating": 9.098611,
@@ -99,57 +148,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1579755600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/murphy-murphy-the-feng-shui-bunch/sealab_cc_010_revised-01.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447438200,
-        "auth_expiration_date": null,
-        "tms_id": "EP004625760005",
-        "rating": 8.957913,
-        "description": "After a huge explosion destroys Sealab, Stormy and Dr. Quinn are mysteriously transported 15 minutes into the past, which puts them in a position to save Sealab from being destroyed in the first place. But Captain Murphy imprisons them. And so Sealab is destroyed by another huge explosion and the vicious cycle continues.",
-        "title_suggest": {
-            "input": [
-                "Lost in Time",
-                "in Time",
-                "Time"
-            ]
-        },
-        "type": "episode",
-        "title": "Lost in Time",
-        "expiration_date": 1580360340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 664.86,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1579807925,
-        "media_id": "fffd5239229fc98b1ebd189f76d3974328c47c6a",
-        "airing_id": "RADS1012201900049185",
-        "id": "ZqmfScj_QbmBMGkIav2omQ",
-        "slug": "lost-in-time",
-        "views": 215066,
-        "thumbnail": "",
-        "created": 1402945476,
-        "title_id": "344207",
-        "season_number": "1",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579807925,
-        "tags": [],
-        "rating_count": 808,
-        "collection_title": "Sealab 2021",
-        "modified_by": "ODT Listener",
-        "launch_date": 1577336400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/lost-in-time/sealab_cc_005_revised-01.jpg",
         "cma_id": ""
     },
     {

@@ -1,54 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1452099600,
-        "auth_expiration_date": 1580360340,
-        "tms_id": "SH019881990000",
-        "description": "Dr. Stork's successful toe clipping practice draws the attention of a local detective.",
-        "title_suggest": {
-            "input": [
-                "Toes"
-            ]
-        },
-        "expiration_date": 1577336340,
-        "title": "Toes",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 675.38,
-        "episode_number": "2",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577336400,
-        "modified": 1577014566,
-        "media_id": "f05efd9111211e8a37dfd415a772b2e3dab12886",
-        "airing_id": "RADS1012201900049178",
-        "id": "2FE2cUitRLCMDwBM2cQ7DA",
-        "slug": "toes",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1410544678,
-        "season_number": "1",
-        "title_id": "2024896",
-        "tv_rating": "tv-14-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1577014566,
-        "first_published": 1411366831,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574312400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/toes/tebs_cc_102_pt1_1.jpg",
-        "cma_id": "2024896"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "tms_id": "EP019881990009",
@@ -136,7 +87,7 @@
         "cma_id": "1142647"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447785660,
         "auth_expiration_date": 1583384340,
         "tms_id": "EP019881990007",
@@ -533,6 +484,55 @@
         "launch_date": 1577941200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/baklava/baklava.png",
         "cma_id": "1470891"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1506349740,
+        "auth_expiration_date": 1578545940,
+        "tms_id": "EP019881990015",
+        "description": "Forrest takes a gym up on their offer for a free workout.",
+        "title_suggest": {
+            "input": [
+                "Squat"
+            ]
+        },
+        "title": "Squat",
+        "type": "episode",
+        "expiration_date": 1583384340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 675.3753128,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1575522000,
+        "modified": 1580302321,
+        "media_id": "5bb657368773f6908b6e9d5017368a620849f226",
+        "airing_id": "RADS1001272000057326",
+        "id": "QGTOrcOBTL60cIeQCJ6dog",
+        "slug": "squat",
+        "views": 4486,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1506100228,
+        "title_id": "2133106",
+        "tv_rating": "tv-14-dl",
+        "season_number": "2",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1580302321,
+        "first_published": 1506100228,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580360400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/squat/tebs_303_dup-20170920.jpg",
+        "cma_id": "1481136"
     },
     {
         "auth": false,
