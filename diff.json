@@ -1,65 +1,57 @@
 {
-    "updated": 1580404599,
+    "updated": 1580413461,
     "added": [],
     "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Tim & Eric's Channel 5 Launches Monday, July 15th on AdultSwim.com.",
+            "description": "Tragedy forces a caveman and a dinosaur to rely upon each other for their survival.",
             "title_suggest": {
                 "input": [
-                    "Channel 5 Teaser",
-                    "5 Teaser",
-                    "Teaser"
+                    "Spear and Fang",
+                    "and Fang",
+                    "Fang"
                 ]
             },
-            "title": "Channel 5 Teaser",
+            "title": "Spear and Fang",
             "expiration_date": null,
-            "type": "clip",
+            "type": "episode",
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "online-exclusive",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-            "duration": 29.2,
+            "collection_id": "AWzZcF8hCorLtcgfluAN",
+            "duration": 1298.54,
+            "episode_number": "1",
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "",
-            "modified": 1562957622,
-            "slug": "channel-5-teaser",
+            "modified": 1570544890,
+            "slug": "spear-and-fang",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15629568831044.jpg",
-            "created": 1562955024,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/1_191031047369-Primal_001_dup-20190815.jpg",
+            "created": 1569871938,
+            "season_number": "1",
+            "title_id": "2211158",
+            "tv_rating": "tv-14-v",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1562957622,
-            "tags": [
-                "tim heidecker",
-                "eric wareheim",
-                "tim and eric awesome show great job",
-                "scum",
-                "our bodies",
-                "channel 5",
-                "adult swim"
-            ],
-            "collection_title": "Tim and Eric Awesome Show Great Job!",
+            "published": 1570544890,
+            "tags": [],
+            "collection_title": "Primal",
             "disable_ads": false,
-            "modified_by": "Jared Marquez",
-            "launch_date": 1562904000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15629568831044.jpg",
-            "id": "AWvnYQdSCorLtcgflsOL",
+            "modified_by": "Dene Shepherd",
+            "launch_date": 1570150800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031047369-Primal_001_dup-20190815.jpg",
+            "id": "AW2DqMKt1YiBSfg0KXWq",
             "auth": false,
-            "collection_slug": "tim-and-eric-awesome-show-great-job",
-            "collection_title_id": "661208",
-            "online_exclusives": true
+            "collection_slug": "primal",
+            "collection_title_id": "2211157",
+            "online_exclusives": false
         }
     ]
 }
