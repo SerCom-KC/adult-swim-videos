@@ -2,20 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 30, 2020 at 12:30:39 EST_
+_Last Update: January 30, 2020 at 15:00:32 EST_
 ## Video added
-### Summary
-2193927 Lupin the 3rd Part 5: 1  
-### 2193932
-**Lupin the 3rd Part 5 S01E05 - A Crook's Resolve**  
-TV-14-SV 🔒 22:06  
-⌛ February 9, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/lupin-the-3rd-part-5/a-crooks-resolve  
-seriesid=`2193927` titleid=`2193932` id=`AWvjuRJHCorLtcgflsBh` mediaid=`7237331f7e46e3780ef462fdd647aa2342eae55f`  
-_After Lupin is shot in the head and dies, the Lupin Game is concluded. Time passes, and people forget about the game. Released from his duty of hunting Lupin, Ami now lives with Zenigata, when one day Goemon visits her._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156295861569310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156295861569310.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-661208 Tim and Eric Awesome Show Great Job!: 1  
-### Online Exclusives
-`AWvnYQdSCorLtcgflsOL` [Tim and Eric Awesome Show Great Job! - Channel 5 Teaser](https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/channel-5-teaser)  
+2211157 Primal: 1  
+### 2211158
+**Primal S01E01 - Spear and Fang**  
+TV-14-V 🔓 21:38  
+https://www.adultswim.com/videos/primal/spear-and-fang  
+seriesid=`2211157` titleid=`2211158` id=`AW2DqMKt1YiBSfg0KXWq`  
+_Tragedy forces a caveman and a dinosaur to rely upon each other for their survival._  
+<a href="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031047369-Primal_001_dup-20190815.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031047369-Primal_001_dup-20190815.jpg" height="144px" /></a>
