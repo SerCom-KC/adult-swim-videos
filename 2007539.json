@@ -242,7 +242,7 @@
     },
     {
         "ott_launch_date": 1520865060,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1583384340,
         "tms_id": "EP018514630029",
         "description": "At Tommy's first day of school, he must climb the social pyramid to get the girl he likes.",
@@ -335,6 +335,53 @@
         "modified_by": "ODT Listener",
         "launch_date": 1579150800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15218288818828.jpg"
+    },
+    {
+        "ott_launch_date": 1522074660,
+        "auth": false,
+        "auth_expiration_date": 1579755540,
+        "tms_id": "EP018514630033",
+        "description": "Grandpa's path to moving out and starting a new life away from Mr. Pickles leads him down dangerous roads.",
+        "title_suggest": {
+            "input": [
+                "Season 3 Finale",
+                "3 Finale",
+                "Finale"
+            ]
+        },
+        "title": "Season 3 Finale",
+        "type": "episode",
+        "expiration_date": 1583384340,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 676.13,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1576731600,
+        "clip_order": null,
+        "media_id": "d376c95c41a9965e2a94454327ae5391ac0f08a3",
+        "modified": 1580292122,
+        "airing_id": "RADS1001272000057302",
+        "id": "AWJJbRujHAeP4-pUPd45",
+        "slug": "season-3-finale",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152182878693420.jpg",
+        "created": 1521650310,
+        "title_id": "2120617",
+        "tv_rating": "tv-ma-sv",
+        "season_number": "3",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580292122,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580360400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152182878693420.jpg"
     },
     {
         "ott_launch_date": null,
@@ -516,52 +563,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1574917200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151940609014319.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1519659060,
-        "auth_expiration_date": 1580360340,
-        "tms_id": "EP018514630024",
-        "description": "Grandpa found his dead wife alive with Mr. Pickles. Now, Mr. Pickles\u2019 dark secrets are in jeopardy when Tommy attempts to download his Grandma\u2019s memories.",
-        "title_suggest": {
-            "input": [
-                "Brain Download",
-                "Download"
-            ]
-        },
-        "title": "Brain Download",
-        "type": "episode",
-        "expiration_date": 1577336340,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 677.58,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577336400,
-        "modified": 1579130167,
-        "media_id": "60aa75f8f86f780114a50bc2ff34f982b20044ad",
-        "airing_id": "RADS1012201900049149",
-        "id": "v80JNxOrQ5eO5X0cOumGVg",
-        "slug": "brain-download",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151752276686610.jpg",
-        "created": 1496773366,
-        "season_number": "3",
-        "title_id": "2120608",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579130167,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "modified_by": "ODT Listener",
-        "launch_date": 1574312400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752276686610.jpg",
         "cma_id": ""
     }
 ]
