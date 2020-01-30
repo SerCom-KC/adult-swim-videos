@@ -576,6 +576,54 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1539748800,
+        "tms_id": "EP015632430026",
+        "description": "Following a severe spinal injury, Eric asks Hannibal to host the show. Featuring Nick Cannon and Carmen Electra; Musical guest Lil Jon.",
+        "title_suggest": {
+            "input": [
+                "The Hannibal Buress Show",
+                "Hannibal Buress Show",
+                "Buress Show",
+                "Show"
+            ]
+        },
+        "title": "The Hannibal Buress Show",
+        "type": "episode",
+        "expiration_date": 1583384340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 648.9676343,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1536724800,
+        "modified": 1580267401,
+        "media_id": "cfa5ed10cdc4a2ed5953222fb9699af99a9c0d82",
+        "airing_id": "RADS1001272000057297",
+        "id": "Iauya6NZTk-EzFzNXush0Q",
+        "slug": "the-hannibal-buress-show",
+        "views": 143162,
+        "created": 1417418421,
+        "title_id": "2032600",
+        "tv_rating": "tv-ma-l",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1580267401,
+        "first_published": 1417418421,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580360400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hannibal-buress-show/ericandre_cc_25_pt1.jpg",
+        "cma_id": "1340861"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
         "description": "Could you explain your beauty?",
         "title_suggest": {
             "input": [
@@ -795,58 +843,6 @@
         "launch_date": 1579755600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/jillian-barberie-victor-ortiz/ericandre_cc_24_pt1.jpg",
         "cma_id": "1336501"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1560956340,
-        "tms_id": "EP015632430020",
-        "rating": 8.39644,
-        "description": "Season finale. You've seen the show. You get it.",
-        "title_suggest": {
-            "input": [
-                "Scott Porter /  Brutus \"The Barber\" Beefcake",
-                "Porter /  Brutus \"The Barber\" Beefcake",
-                "/  Brutus \"The Barber\" Beefcake",
-                " Brutus \"The Barber\" Beefcake"
-            ]
-        },
-        "type": "episode",
-        "title": "Scott Porter /  Brutus \"The Barber\" Beefcake",
-        "expiration_date": 1580360340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 651.5338672,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1557932400,
-        "modified": 1576919524,
-        "media_id": "103240cbbcbe7a1f84a92bc1f0cd98a036a0d49b",
-        "airing_id": "RADS1012201900049153",
-        "id": "cZ0yD_p3TrOH6loZLUtP6w",
-        "slug": "scott-porter-brutus-the-barber-beefcake",
-        "views": 40402,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945479,
-        "title_id": "2012288",
-        "season_number": "2",
-        "tv_rating": "tv-14-lsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1576919524,
-        "tags": [],
-        "rating_count": 449,
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1577336400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_020_pt2_3kn5x-04.jpg",
-        "cma_id": "2012288"
     },
     {
         "auth": false,
