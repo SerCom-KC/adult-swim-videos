@@ -440,54 +440,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1542641400,
-        "auth_expiration_date": 1583470740,
-        "tms_id": "",
-        "description": "88 eats Ahmed's pickle without knowing that the pickle has been pickled. The journey begins.",
-        "title_suggest": {
-            "input": [
-                "Pickle Trip",
-                "Trip"
-            ]
-        },
-        "title": "Pickle Trip",
-        "expiration_date": 1580360340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 737.83,
-        "episode_number": "10",
-        "original_air_date": null,
-        "auth_launch_date": 1580446800,
-        "clip_order": null,
-        "media_id": "206c01fd01e8fcbed4b6f6a25cf1fd218e62b0b5",
-        "modified": 1580268245,
-        "airing_id": "RADS1012271900050446",
-        "slug": "pickle-trip",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154221713012610.jpg",
-        "created": 1538495507,
-        "season_number": "2",
-        "title_id": "2133694",
-        "tv_rating": "tv-14-ls",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1580268245,
-        "tags": [],
-        "collection_title": "DREAM CORP LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1577941200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221713012610.jpg",
-        "id": "AWY1emxah5enQuYyI6yr",
-        "auth": false
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -1085,6 +1037,54 @@
         "launch_date": 1543611600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15435281874946.jpg",
         "id": "AWdhcx17qD68dq0Op5na",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1543851000,
+        "auth_expiration_date": 1577422740,
+        "tms_id": "EP025239370021",
+        "description": "Patient 101 is wheeled into Dream Corp LLC as part of a court-ordered evaluation. Dr. Roberts struggles to navigate Patient 101's subconscious and calls on the entire staff to help contain their most challenging patient to date.",
+        "title_suggest": {
+            "input": [
+                "The Krux",
+                "Krux"
+            ]
+        },
+        "title": "The Krux",
+        "expiration_date": 1582779540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 1007.67,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1574398800,
+        "clip_order": null,
+        "media_id": "cc192a8e03e59f19a490568e5cd221a1b7e2671e",
+        "modified": 1580277721,
+        "airing_id": "RADS1001272000057296",
+        "slug": "the-krux",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154353101768015.jpg",
+        "created": 1543531021,
+        "season_number": "2",
+        "title_id": "2133698",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580277721,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580360400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154353101768015.jpg",
+        "id": "AWdhnkZrqD68dq0Op5ny",
         "auth": false
     }
 ]

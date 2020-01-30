@@ -100,54 +100,6 @@
         "cma_id": "1493996"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1580360340,
-        "tms_id": "EP012792980002",
-        "description": "When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever.",
-        "title_suggest": {
-            "input": [
-                "Crawl Space",
-                "Space"
-            ]
-        },
-        "title": "Crawl Space",
-        "type": "episode",
-        "expiration_date": 1507971599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.4559,
-        "episode_number": "2",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1579755600,
-        "modified": 1579386609,
-        "media_id": "3cb82ec5aa600492a3760a3298972f1c815f6e0c",
-        "airing_id": "RADS1001182000056052",
-        "id": "7CPkiayCT7q_siDtFOqY8Q",
-        "slug": "crawl-space",
-        "views": 5411,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088768414119.jpg",
-        "created": 1402888830,
-        "title_id": "2003424",
-        "tv_rating": "tv-pg",
-        "season_number": "1",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1579386609,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1507366800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg",
-        "cma_id": "1489605"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1580792399,
@@ -339,6 +291,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg",
         "id": "AWgadw-5zQU7gEG1jvbO",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1580965140,
+        "tms_id": "EP012792980014",
+        "description": "The kids hunt for treasure in an abandoned taffy factory, and Bob and Linda must find them before the factory's scheduled demolition.",
+        "title_suggest": {
+            "input": [
+                "The Belchies",
+                "Belchies"
+            ]
+        },
+        "title": "The Belchies",
+        "type": "episode",
+        "expiration_date": 1508909399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1288.4205,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1580360400,
+        "modified": 1580284808,
+        "media_id": "dad329b8a79066736b4d7ab006e5e2031edee533",
+        "airing_id": "RADS1001272000057330",
+        "id": "BPGA47QsQLaN-TLR_c8dUA",
+        "slug": "the-belchies",
+        "views": 7398,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148409497119.jpg",
+        "created": 1406517627,
+        "title_id": "2003436",
+        "tv_rating": "tv-14",
+        "season_number": "2",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580284808,
+        "first_published": 1406517627,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1508304600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148409497119.jpg",
+        "cma_id": "1496818"
     },
     {
         "auth": true,

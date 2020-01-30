@@ -2,6 +2,54 @@
     {
         "auth": false,
         "ott_launch_date": 1446763380,
+        "tms_id": "EP008626240029",
+        "rating": 7.6733294,
+        "description": "Cody is remembered with a namesake.\r\n",
+        "title_suggest": {
+            "input": [
+                "Cody Gains a Namesake",
+                "Gains a Namesake",
+                "a Namesake",
+                "Namesake"
+            ]
+        },
+        "type": "episode",
+        "title": "Cody Gains a Namesake",
+        "expiration_date": 1583384340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 689.017,
+        "episode_number": "11",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1580294645,
+        "airing_id": "RADS1001272000057308",
+        "media_id": "a56566dfc5a1285e42f22b60fd8186c6c5428f30",
+        "id": "1xYI9nS-RwqYyUBnBtF04w",
+        "slug": "cody-gains-a-namesake",
+        "views": 587195,
+        "created": 1402945466,
+        "title_id": "707263",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1580294645,
+        "tags": [],
+        "rating_count": 3502,
+        "collection_title": "Frisky Dingo",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580360400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/cody-gains-a-namesake/fd_024_bim.jpg",
+        "cma_id": "926593"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446763380,
         "tms_id": "EP008626240028",
         "rating": 8.230016,
         "description": "Wendell goes undercover.  Again.\r\n\r\n",
@@ -46,52 +94,6 @@
         "launch_date": 1579755600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/wendell-goes-undercover-again/fd_023_bim.jpg",
         "cma_id": "1454360"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446763260,
-        "tms_id": "EP008626240019",
-        "rating": 8.44262,
-        "description": "Wendell visits a friend.\r\n",
-        "title_suggest": {
-            "input": [
-                "The Middle",
-                "Middle"
-            ]
-        },
-        "type": "episode",
-        "title": "The Middle",
-        "expiration_date": 1580360340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 660,
-        "episode_number": "6",
-        "original_air_date": null,
-        "clip_order": null,
-        "modified": 1579731366,
-        "airing_id": "RADS1012201900049139",
-        "media_id": "bb808297a3bf62322998e7615404a326ac9d15e7",
-        "id": "kVcPR8gzThiqUUgC7vSUnQ",
-        "slug": "the-middle",
-        "views": 652147,
-        "created": 1402945466,
-        "title_id": "677653",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1579731366,
-        "tags": [],
-        "rating_count": 2126,
-        "collection_title": "Frisky Dingo",
-        "modified_by": "ODT Listener",
-        "launch_date": 1577336400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-middle/fd_019_bim.jpg",
-        "cma_id": ""
     },
     {
         "auth": false,
