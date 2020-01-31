@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 31, 2020 at 02:00:37 EST_
+_Last Update: January 31, 2020 at 02:30:35 EST_
 ## Video added
 ### Summary
 581006 American Dad: 1  
-### 2069540
-**American Dad S12E08 - Whole Slotta Love**  
+### 2069544
+**American Dad S12E09 - The Witches of Langley**  
 TV-14 🔒 21:14  
-⌛ February 7, 2020 at 01:29:00 EST  
-https://www.adultswim.com/videos/american-dad/whole-slotta-love  
-seriesid=`581006` titleid=`2069540` id=`5SnUDAJQT2G2Eit6_-l_HQ` mediaid=`e745900a93d0c34d4f6469acf1031491ab764998`  
-_Francine becomes less attracted to Stan when he gets involved with slot car racing. Roger becomes a stewardess to perform comedy routines on the plane but is upset when another stewardess is funnier than him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg" height="144px" /></a>
+⌛ February 7, 2020 at 23:59:59 EST  
+https://www.adultswim.com/videos/american-dad/the-witches-of-langley  
+seriesid=`581006` titleid=`2069544` id=`Y5ttR_r4RD--F5vHW1jb0Q` mediaid=`82d4c38087e623a89a32d2e71d1179ab0d8066d5`  
+_Steve and his friends take up witchcraft to gain power and popularity at school. Stan and Klaus become obsessed with remembering 90s bands._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 581006 American Dad: 1  
-### 2046303
-**American Dad S11E19 - Garfield and Friends**  
-TV-14-DS 🔒 21:13  
-⌛ January 31, 2020 at 01:29:00 EST  
-https://www.adultswim.com/videos/american-dad/garfield-and-friends  
-seriesid=`581006` titleid=`2046303` id=`zZQ5HOGITi-MZLcWyokOvw` mediaid=`f3dda050cea8bc61dfc36aebfd79bad7c77853da`  
-_Stan brings President Garfield back to life in order to teach Hayley about history. Steve writes for the school newspaper._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg" height="144px" /></a>
+### 2046304
+**American Dad S11E20 - Gift Me Liberty**  
+TV-14-DL 🔓 21:13  
+⌛ January 31, 2020 at 01:59:00 EST  
+https://www.adultswim.com/videos/american-dad/gift-me-liberty  
+seriesid=`581006` titleid=`2046304` id=`Kdd_ZRQXR3WvddNQ21__zw` mediaid=`5b4404e86eee6ae2c1852778d57e6621b396cca8`  
+_When Bullock is upset that somebody did not bring a gift to the CIA Secret Santa party, Stan goes on a mission to find out who it was. Meanwhile, Steve poses as the good guy boyfriend of several female classmates._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg" height="144px" /></a>
