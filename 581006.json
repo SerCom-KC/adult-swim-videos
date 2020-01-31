@@ -143,6 +143,56 @@
         "cma_id": "1331342"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1581056940,
+        "tms_id": "EP007164450234",
+        "description": "Francine becomes less attracted to Stan when he gets involved with slot car racing. Roger becomes a stewardess to perform comedy routines on the plane but is upset when another stewardess is funnier than him.",
+        "title_suggest": {
+            "input": [
+                "Whole Slotta Love",
+                "Slotta Love",
+                "Love"
+            ]
+        },
+        "title": "Whole Slotta Love",
+        "type": "episode",
+        "expiration_date": 1566791940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274,
+        "episode_number": "8",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1580452200,
+        "modified": 1580268245,
+        "media_id": "e745900a93d0c34d4f6469acf1031491ab764998",
+        "airing_id": "RADS1001272000057342",
+        "id": "5SnUDAJQT2G2Eit6_-l_HQ",
+        "slug": "whole-slotta-love",
+        "views": 1068,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151751862587510.jpg",
+        "created": 1492315823,
+        "title_id": "2069540",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1580268245,
+        "first_published": 1492315823,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1566187200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg",
+        "cma_id": "1381813"
+    },
+    {
         "ott_launch_date": null,
         "auth": false,
         "auth_expiration_date": 1577426340,
@@ -531,7 +581,7 @@
         "cma_id": "1433837"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1580453940,
         "tms_id": "EP007164450222",
@@ -1019,55 +1069,5 @@
         "launch_date": 1559746800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg",
         "cma_id": "1458910"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1580452140,
-        "tms_id": "EP007164450221",
-        "description": "Stan brings President Garfield back to life in order to teach Hayley about history. Steve writes for the school newspaper.",
-        "title_suggest": {
-            "input": [
-                "Garfield and Friends",
-                "and Friends",
-                "Friends"
-            ]
-        },
-        "expiration_date": 1557154740,
-        "title": "Garfield and Friends",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1273.97,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "19",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1579847400,
-        "modified": 1579476610,
-        "media_id": "f3dda050cea8bc61dfc36aebfd79bad7c77853da",
-        "airing_id": "RADS1001182000056061",
-        "id": "zZQ5HOGITi-MZLcWyokOvw",
-        "slug": "garfield-and-friends",
-        "views": 2209,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200192969994.jpg",
-        "created": 1463670440,
-        "season_number": "11",
-        "title_id": "2046303",
-        "tv_rating": "tv-14-ds",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579476610,
-        "first_published": 1473394230,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1556550000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg",
-        "cma_id": "1425039"
     }
 ]
