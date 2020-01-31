@@ -1103,6 +1103,58 @@
     {
         "ott_launch_date": null,
         "auth_expiration_date": null,
+        "tms_id": "EP018336730033",
+        "description": "Morty goes nuts this time dawg. Rick does stuff. Season 4 premiere broh.",
+        "title_suggest": {
+            "input": [
+                "Edge of Tomorty: Rick Die Rickpeat",
+                "of Tomorty: Rick Die Rickpeat",
+                "Tomorty: Rick Die Rickpeat",
+                "Rick Die Rickpeat",
+                "Die Rickpeat",
+                "Rickpeat"
+            ]
+        },
+        "title": "Edge of Tomorty: Rick Die Rickpeat",
+        "expiration_date": 1580792340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1358.54,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "c5ec932dcb235c9263fececd8799a198ca343d02",
+        "modified": 1580429051,
+        "airing_id": "RADS1011101900036232",
+        "slug": "edge-of-tomorty-rick-die-rickpeat",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191104/thumbnails/1_19114115060-rickandmorty_404_dup-20191101.jpg",
+        "created": 1572531794,
+        "season_number": "4",
+        "title_id": "2206489",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580429051,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1573446600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191104/thumbnails/2_19114115060-rickandmorty_404_dup-20191101.jpg",
+        "id": "AW4iMvQ41YiBSfg0KYIq",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
         "tms_id": "",
         "description": "More quality family time.",
         "title_suggest": {
