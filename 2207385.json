@@ -799,7 +799,7 @@
         "launch_date": 1580630400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_1912171422453-DrStone_118.jpg",
         "id": "AW8VUCrS3HMJfT8do6gV",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -949,6 +949,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231610246-DrStone_120.jpg",
         "id": "AW_UPf6N3HMJfT8do7j6",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582444740,
+        "tms_id": "EP032785490021",
+        "description": "With stored electricity, Senku takes the logical next step and creates light bulbs. After a little trial and error, Senku displays the new lights on a Christmas tree!",
+        "title_suggest": {
+            "input": [
+                "Spartan Crafts Club",
+                "Crafts Club",
+                "Club"
+            ]
+        },
+        "title": "Spartan Crafts Club",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 0,
+        "episode_number": "21",
+        "original_air_date": null,
+        "auth_launch_date": 1580630400,
+        "clip_order": null,
+        "media_id": "a55806d0ca17c9d624590a150ee3b58516b38062",
+        "modified": 1580451725,
+        "airing_id": "RADS1001302000059331",
+        "slug": "spartan-crafts-club",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200129/thumbnails/1_201291037340-DrStone_121.jpg",
+        "created": 1580312259,
+        "season_number": "1",
+        "title_id": "2207406",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580451725,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200129/thumbnails/2_201291037340-DrStone_121.jpg",
+        "id": "AW_x82nB3HMJfT8do70b",
         "auth": true
     },
     {
