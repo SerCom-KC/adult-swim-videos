@@ -540,7 +540,7 @@
         "launch_date": 1577619000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291549270-narutoshippuden_277.jpg",
         "id": "AW4ZEPJh1YiBSfg0KYGe",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -639,7 +639,7 @@
         "launch_date": 1580643000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291550180-narutoshippuden_279.jpg",
         "id": "AW4ZEb571YiBSfg0KYGg",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -739,6 +739,60 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291551158-narutoshippuden_281.jpg",
         "id": "AW4ZEp4A1YiBSfg0KYGi",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582457340,
+        "tms_id": "",
+        "description": "",
+        "title_suggest": {
+            "input": [
+                "The Secret Origin of the Ultimate Tag Team!",
+                "Secret Origin of the Ultimate Tag Team!",
+                "Origin of the Ultimate Tag Team!",
+                "of the Ultimate Tag Team!",
+                "the Ultimate Tag Team!",
+                "Ultimate Tag Team!",
+                "Tag Team!",
+                "Team!"
+            ]
+        },
+        "title": "The Secret Origin of the Ultimate Tag Team!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1312.678,
+        "episode_number": "64",
+        "original_air_date": null,
+        "auth_launch_date": 1580643000,
+        "clip_order": null,
+        "media_id": "c62957ecfd50f899a96bc616af7b0c14b590d597",
+        "modified": 1580382602,
+        "airing_id": "RADS1001292000058270",
+        "slug": "the-secret-origin-of-the-ultimate-tag-team",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/1_1910291551446-narutoshippuden_282.jpg",
+        "created": 1572378707,
+        "season_number": "5",
+        "title_id": "2177711",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580382602,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291551446-narutoshippuden_282.jpg",
+        "id": "AW4ZEwdp1YiBSfg0KYGj",
         "auth": true
     },
     {
