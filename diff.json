@@ -1,24 +1,19 @@
 {
-    "updated": 1580762819,
-    "added": [],
-    "removed": [
+    "updated": 1580763684,
+    "added": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1582451940,
-            "tms_id": "EP033351550014",
-            "description": "Kyogai defeated at last, Tanjiro finds Zenitsu battered and worn and holding an unconscious Nezuko before the dual Nichirin Swords of the man in the boar mask.",
+            "auth_expiration_date": 1582448340,
+            "tms_id": "EP032684490024",
+            "description": "Before being discharged from the hospital, Shinra is visited by Captain Burns, who offers to tell him all about the fire that happened 12 years ago, but only if Shinra can demonstrate that he is strong enough to hear the whole truth.",
             "title_suggest": {
                 "input": [
-                    "The House with the Wisteria Family Crest",
-                    "House with the Wisteria Family Crest",
-                    "with the Wisteria Family Crest",
-                    "the Wisteria Family Crest",
-                    "Wisteria Family Crest",
-                    "Family Crest",
-                    "Crest"
+                    "The Burning Past",
+                    "Burning Past",
+                    "Past"
                 ]
             },
-            "title": "The House with the Wisteria Family Crest",
+            "title": "The Burning Past",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -27,36 +22,37 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AW2OS1BT1YiBSfg0KXc4",
+            "collection_id": "AWwbkOBM4aLemgzOLF3t",
             "duration": 0,
-            "episode_number": "14",
+            "episode_number": "24",
             "original_air_date": null,
-            "auth_launch_date": 1580637600,
+            "auth_launch_date": 1580634000,
             "clip_order": null,
-            "media_id": "a0445d47b5da23b33dd083e783939691f0545ebe",
-            "modified": 1580746802,
-            "airing_id": "RADS1001292000058252",
-            "slug": "the-house-with-the-wisteria-family-crest",
+            "media_id": "325ce74859ba5fa279f97269bea21e1677b2f103",
+            "modified": 1580763602,
+            "airing_id": "RADS1001292000058246",
+            "slug": "the-burning-past",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/1_20123151126-demonslayer_014.jpg",
-            "created": 1579809680,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200127/thumbnails/1_201271333408-FireForce_024.jpg",
+            "created": 1580150073,
             "season_number": "1",
-            "title_id": "2209306",
-            "tv_rating": "tv-14-lv",
+            "title_id": "2203580",
+            "tv_rating": "tv-14-v",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1580746802,
+            "published": 1580763602,
             "tags": [],
-            "collection_title": "Demon Slayer",
+            "collection_title": "Fire Force",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_20123151126-demonslayer_014.jpg",
-            "id": "AW_T_q2AGRcVO2K2pmX5",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271333408-FireForce_024.jpg",
+            "id": "AW_oSKheGRcVO2K2pmcm",
             "auth": true,
-            "collection_slug": "demon-slayer",
-            "collection_title_id": "2209292",
+            "collection_slug": "fire-force",
+            "collection_title_id": "2203556",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
