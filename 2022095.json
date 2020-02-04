@@ -291,6 +291,54 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1580705940,
+        "tms_id": "",
+        "description": "Jesus lets Boonie have the power of Christ so he can see how difficult being the Son of God really is.  While Boonie is trying to figure out how to make his new powers work for him, Jesus takes a skip day for himself.",
+        "title_suggest": {
+            "input": [
+                "Boonie Christ",
+                "Christ"
+            ]
+        },
+        "title": "Boonie Christ",
+        "expiration_date": 1583812740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
+        "duration": 1365.5,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1577682000,
+        "clip_order": null,
+        "media_id": "b39a73a4822889868e085693cdb9d80013954e7a",
+        "modified": 1580767683,
+        "airing_id": "RADS1001302000059351",
+        "slug": "boonie-christ",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/1_1910151121290-blackjesus_305_air_cid-3FYKV.jpg",
+        "created": 1569883086,
+        "season_number": "3",
+        "title_id": "2160586",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580767683,
+        "tags": [],
+        "collection_title": "Black Jesus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1580792400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151121290-blackjesus_305_air_cid-3FYKV.jpg",
+        "id": "AW2EUt0E1YiBSfg0KXXC",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1581310740,
         "tms_id": "",
         "description": "There's a vigilante in Southwest Compton, and he's taken matters into his own hands.  Jesus has to stop him before he goes too far.",
@@ -435,7 +483,7 @@
         "launch_date": 1576917000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_191015112315-blackjesus_310_air_cid-3FYN7.jpg",
         "id": "AW2EVGQI1YiBSfg0KXXE",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
