@@ -1,19 +1,19 @@
 {
-    "updated": 1580798010,
+    "updated": 1580799685,
     "added": [
         {
             "auth": true,
             "ott_launch_date": null,
-            "auth_expiration_date": 1581402540,
-            "tms_id": "EP007164450238",
-            "description": "Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts.",
+            "auth_expiration_date": 1581404340,
+            "tms_id": "EP007164450236",
+            "description": "Steve is upset when Snot threatens their summer camp fun by becoming a counselor-in-training. Hayley and Jeff are suspicious of Roger when he organizes a Burning Man reenactment in the yard for their anniversary.",
             "title_suggest": {
                 "input": [
-                    "Bazooka Steve",
-                    "Steve"
+                    "Camp Campawanda",
+                    "Campawanda"
                 ]
             },
-            "title": "Bazooka Steve",
+            "title": "Camp Campawanda",
             "type": "episode",
             "expiration_date": 1554735540,
             "platforms": [
@@ -21,87 +21,38 @@
                 "mobile"
             ],
             "collection_id": "kuykLeORSBmAK6JteESFCw",
-            "duration": 1273.1,
-            "episode_number": "12",
+            "duration": 1273.97,
+            "episode_number": "13",
             "original_air_date": null,
-            "auth_launch_date": 1580797800,
             "clip_order": null,
-            "modified": 1580790122,
-            "media_id": "123955f7177e4d93e49b5e6257cfca8bbd43958e",
-            "airing_id": "RADS1002032000060311",
-            "id": "AitmXh48RkeeOF5Mpxu47w",
-            "slug": "bazooka-steve",
-            "views": 1397,
+            "auth_launch_date": 1580799600,
+            "modified": 1580474770,
+            "media_id": "a4d17c059cb2b4c2856320daa6a13eb68c7f77aa",
+            "airing_id": "RADS1001302000059352",
+            "id": "YX8yCyMDT7OTueWTm9ggig",
+            "slug": "camp-campawanda",
+            "views": 1215,
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870777267015.jpg",
-            "created": 1496549449,
-            "title_id": "2069543",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187077902924.jpg",
+            "created": 1497154225,
+            "title_id": "2069539",
             "tv_rating": "tv-14",
             "season_number": "12",
-            "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1580790122,
-            "first_published": 1496549449,
+            "active": false,
+            "blacklist": [],
+            "published": 1580474770,
+            "first_published": 1497154225,
             "tags": [],
             "collection_title": "American Dad",
             "modified_by": "ODT Listener",
             "launch_date": 1554130800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg",
-            "cma_id": "1411253",
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187077902924.jpg",
+            "cma_id": "1415165",
             "collection_slug": "american-dad",
             "collection_title_id": "581006",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1580797740,
-            "tms_id": "EP007164450225",
-            "description": "The Smith family forgets to celebrate Father's Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him.",
-            "title_suggest": {
-                "input": [
-                    "Father's Daze",
-                    "Daze"
-                ]
-            },
-            "title": "Father's Daze",
-            "type": "episode",
-            "expiration_date": 1566791940,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "kuykLeORSBmAK6JteESFCw",
-            "duration": 1273.9,
-            "episode_number": "1",
-            "original_air_date": null,
-            "auth_launch_date": 1580193000,
-            "clip_order": null,
-            "modified": 1579763884,
-            "media_id": "0d1b8527d9a327620560c807c976b68ecc297936",
-            "airing_id": "RADS1001222000056466",
-            "id": "1tfpfZcEQEulM8Gwxer2rg",
-            "slug": "fathers-daze",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151793526969010.jpg",
-            "created": 1479021033,
-            "title_id": "2069532",
-            "tv_rating": "tv-14",
-            "season_number": "12",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1579763884,
-            "tags": [],
-            "collection_title": "American Dad",
-            "modified_by": "ODT Listener",
-            "launch_date": 1566187200,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg",
-            "cma_id": "1326905",
-            "collection_slug": "american-dad",
-            "collection_title_id": "581006",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
