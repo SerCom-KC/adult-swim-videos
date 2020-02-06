@@ -245,9 +245,9 @@
         "cma_id": "2085183"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1471876200,
-        "auth_expiration_date": 1583985540,
+        "auth_expiration_date": null,
         "tms_id": "EP024500790009",
         "description": "Animated sketches from the mind of Brad Neely. Special guest star Kristen Schaal.",
         "title_suggest": {
@@ -256,7 +256,7 @@
                 "Sarandon"
             ]
         },
-        "expiration_date": 1580965140,
+        "expiration_date": 1583985540,
         "title": "For Sarandon",
         "type": "episode",
         "platforms": [
@@ -269,8 +269,8 @@
         "episode_number": "7",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1580965200,
-        "modified": 1581011767,
+        "auth_launch_date": null,
+        "modified": 1581012151,
         "media_id": "2b356e2ca14b9bc6ea11eb7b257065ee6097fec9",
         "airing_id": "RADS1001312000059992",
         "id": "ZtTH1SBtT2a4eKbnhxYiJA",
@@ -285,13 +285,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1581011767,
+        "published": 1581012151,
         "first_published": 1471511419,
         "tags": [],
         "collection_title": "Brad Neely's Harg Nallin' Sclopio Peepio",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1580446800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1580965200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/for-sarandon/bnhnsp_107_NoAdsCue_dup-20160801.jpg",
         "cma_id": "2085188"
     },
