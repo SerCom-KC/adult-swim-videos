@@ -588,54 +588,6 @@
         "cma_id": "1394632"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1580972340,
-        "tms_id": "EP007164450230",
-        "description": "Hayley experiences what pregnancy would be like after Roger agrees to give birth to Jeff so he can be human again. Snot's feelings are hurt when Steve secretly signs him up for a makeover.",
-        "title_suggest": {
-            "input": [
-                "Roger's Baby",
-                "Baby"
-            ]
-        },
-        "title": "Roger's Baby",
-        "type": "episode",
-        "expiration_date": 1557759540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.83,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1580367600,
-        "clip_order": null,
-        "modified": 1580300523,
-        "media_id": "3bf1b31e4d30b909c87bd5e7d5847e274013cbf3",
-        "airing_id": "RADS1001272000057331",
-        "id": "M1LxpLBLR8qZPNTNON4wTw",
-        "slug": "rogers-baby",
-        "views": 1063,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175251542555.jpg",
-        "created": 1482099024,
-        "title_id": "2069537",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1580300523,
-        "first_published": 1482099024,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1557154800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg",
-        "cma_id": "1347008"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1581488940,
@@ -934,6 +886,53 @@
         "launch_date": 1554130800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187077902924.jpg",
         "cma_id": "1415165"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1581577140,
+        "tms_id": "EP007164450243",
+        "description": "Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes a Picker based on his obsession with American Pickers.",
+        "title_suggest": {
+            "input": [
+                "Family Plan",
+                "Plan"
+            ]
+        },
+        "title": "Family Plan",
+        "type": "episode",
+        "expiration_date": 1555340340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.1,
+        "episode_number": "17",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1580972400,
+        "modified": 1580920445,
+        "media_id": "f7e8cff7c8c5db9d2aee6b540c50f902e89b330d",
+        "airing_id": "RADS1002032000060313",
+        "id": "pGjzE7geRJu1VCwFhvFK4Q",
+        "slug": "family-plan",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151820795951913.jpg",
+        "created": 1500651817,
+        "season_number": "12",
+        "title_id": "2069548",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1580920445,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554735600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg",
+        "cma_id": "1453904"
     },
     {
         "auth": true,
