@@ -52,58 +52,6 @@
         "cma_id": "1451430"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1580974140,
-        "tms_id": "EP002960010297",
-        "description": "After hearing that Stewie has been having nightmares, Brian decides to help.  He tries to cure Stewie by making a list of Stewie's fears and using exposure therapy to deal with them.",
-        "title_suggest": {
-            "input": [
-                "A Lot Going on Upstairs",
-                "Lot Going on Upstairs",
-                "Going on Upstairs",
-                "on Upstairs",
-                "Upstairs"
-            ]
-        },
-        "expiration_date": 1576472340,
-        "title": "A Lot Going on Upstairs",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1301.7674341,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "23",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1580369400,
-        "modified": 1580268003,
-        "media_id": "374e7d0b4cea2644356195ebdda88f7ac5e9d278",
-        "airing_id": "RADS1001272000057332",
-        "id": "1gNqAR65QOGAVfnpxNiQLg",
-        "slug": "a-lot-going-on-upstairs",
-        "views": 8,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1457705582,
-        "season_number": "14",
-        "title_id": "2064586",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1580268003,
-        "first_published": 1458018639,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1575867600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/a-lot-going-on-upstairs/familyguy_1311_air_cid-2XXDN.jpg",
-        "cma_id": "1465137"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1581148740,
@@ -603,5 +551,53 @@
         "launch_date": 1574053200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/bookie-of-the-year/familyguy_1310_air_cid-304HK.jpg",
         "cma_id": "1485399"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1581578940,
+        "tms_id": "EP002960010032",
+        "rating": 8.141775,
+        "description": "While working for the police in narcotics, Brian becomes addicted to cocaine.",
+        "title_suggest": {
+            "input": [
+                "Thin White Line",
+                "White Line",
+                "Line"
+            ]
+        },
+        "type": "episode",
+        "title": "Thin White Line",
+        "expiration_date": 1500789599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1338.7374,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1580974200,
+        "modified": 1580594403,
+        "media_id": "da358bca8dedddb27c174139eddf48dce40ff494",
+        "airing_id": "RADS1002012000060250",
+        "id": "xffY44rFQnS18Og7djXTvA",
+        "slug": "thin-white-line",
+        "views": 1169715,
+        "created": 1402945465,
+        "title_id": "441027",
+        "season_number": "3",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "published": 1580594403,
+        "tags": [
+            "family guy episode 217 thin white line brian cocaine addiction addicted police cop nose"
+        ],
+        "rating_count": 3089,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1500184800,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_6401017189358794191.jpg",
+        "cma_id": "1433120"
     }
 ]
