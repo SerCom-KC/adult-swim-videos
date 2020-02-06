@@ -449,7 +449,7 @@
         "launch_date": 1580965200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
         "id": "AWp5faU7AScUIg8XxfZ_",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -650,17 +650,17 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1577941140,
+        "auth_expiration_date": 1583985540,
         "tms_id": "",
-        "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
+        "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
         "title_suggest": {
             "input": [
-                "Fried Alive",
-                "Alive"
+                "Five-Card Duds",
+                "Duds"
             ]
         },
-        "title": "Fried Alive",
-        "expiration_date": 1580965140,
+        "title": "Five-Card Duds",
+        "expiration_date": 1579755540,
         "type": "episode",
         "platforms": [
             "android",
@@ -669,32 +669,32 @@
             "fire-tv"
         ],
         "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 677.58,
-        "episode_number": "12",
+        "duration": 674.58,
+        "episode_number": "10",
         "original_air_date": null,
-        "auth_launch_date": 1574917200,
+        "auth_launch_date": 1580965200,
         "clip_order": null,
-        "media_id": "9c14aa29afbf5968ef2ed18c82e5db81e288550b",
-        "modified": 1578003518,
-        "airing_id": "RADS1012271900050480",
-        "slug": "fried-alive",
+        "media_id": "45520e2ee6fbffd2d3daf420ebc7421a6b25f3f4",
+        "modified": 1580592370,
+        "airing_id": "RADS1002012000060235",
+        "slug": "five-card-duds",
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036482881015.jpg",
-        "created": 1556817021,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155984019589717.jpg",
+        "created": 1556816877,
         "season_number": "4",
-        "title_id": "2191449",
+        "title_id": "2191445",
         "tv_rating": "",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1578003518,
+        "published": 1580592370,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1577941200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
-        "id": "AWp5hohlHl5gR6828zZV",
-        "auth": false
+        "launch_date": 1576731600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
+        "id": "AWp5hFfgHl5gR6828zZU",
+        "auth": true
     },
     {
         "ott_launch_date": null,

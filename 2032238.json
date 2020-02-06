@@ -480,7 +480,7 @@
         "launch_date": 1580965200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156286096247919.jpg",
         "id": "AWu0NWQGCorLtcgflrw9",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -529,55 +529,6 @@
         "launch_date": 1580360400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15628609033427.jpg",
         "id": "AWu0NWiKCorLtcgflrw-",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1579150799,
-        "tms_id": "EP020020000052",
-        "description": "A very rich, very old man has vanished and everyone suspects his very hot, very young wife.",
-        "title_suggest": {
-            "input": [
-                "Time to Fly",
-                "to Fly",
-                "Fly"
-            ]
-        },
-        "title": "Time to Fly",
-        "expiration_date": 1580965140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 677.677,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1576126800,
-        "clip_order": null,
-        "media_id": "4f121b9fc8ce15b655da5af876e3e0f399c665ee",
-        "modified": 1580943366,
-        "airing_id": "RADS1001132000054238",
-        "slug": "time-to-fly",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15617511403472.jpg",
-        "created": 1561751144,
-        "season_number": "4",
-        "title_id": "2171998",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1580943366,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1579150800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15617511403472.jpg",
-        "id": "AWufn0iLCorLtcgflrku",
         "auth": false
     },
     {
@@ -835,6 +786,57 @@
         "launch_date": 1577336400,
         "poster": "https://media.cdn.adultswim.com/uploads/20190719/thumbnails/2_19719125373-miketysonmysteries_408_dup-20190605.jpg",
         "id": "AWwKti3r4aLemgzOLF2b",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583985599,
+        "tms_id": "EP020020000060",
+        "description": "Yung Hee (finally) wonders if being on a mystery team is what she wants to do with her life.",
+        "title_suggest": {
+            "input": [
+                "The Yung and the Restless",
+                "Yung and the Restless",
+                "and the Restless",
+                "the Restless",
+                "Restless"
+            ]
+        },
+        "title": "The Yung and the Restless",
+        "expiration_date": 1580936340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 671.4041,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1580965200,
+        "clip_order": null,
+        "media_id": "83e86c7172af829fbfee3e05c8d142c6f51a953b",
+        "modified": 1580937126,
+        "airing_id": "RADS1001312000059999",
+        "slug": "the-yung-and-the-restless",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/1_197251654447-miketysonmysteries_409_dup-20190605.jpg",
+        "created": 1564088089,
+        "season_number": "4",
+        "title_id": "2172006",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580937126,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1577941200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654447-miketysonmysteries_409_dup-20190605.jpg",
+        "id": "AWwq6jnV4aLemgzOLGDL",
         "auth": true
     },
     {
