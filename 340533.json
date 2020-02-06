@@ -50,6 +50,53 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447438380,
+        "tms_id": "EP004625760013",
+        "rating": 8.958435,
+        "description": "In his quest to build the evilest of all evil empires, Sparks invents a miraculous new drug. \"Stimutacs\" are billed as an \"herbal dietary supplement,\"but their side effects are truly amazing--and highly addictive! Can Dr. Quinn foil this nefarious plot?",
+        "title_suggest": {
+            "input": [
+                "Stimutacs"
+            ]
+        },
+        "type": "episode",
+        "title": "Stimutacs",
+        "expiration_date": 1583985540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 659.83,
+        "episode_number": "12",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1580959206,
+        "airing_id": "RADS1002052000061213",
+        "media_id": "e81429c594489a6b1ff0edf2b5d22719cb67ac38",
+        "id": "6BL__ORnQd6Ep1FF6G2nwg",
+        "slug": "stimutacs",
+        "views": 241284,
+        "created": 1402945476,
+        "title_id": "415760",
+        "season_number": "1",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1580959206,
+        "tags": [
+            "sealab 2021 stimutacs episode 12"
+        ],
+        "rating_count": 1275,
+        "collection_title": "Sealab 2021",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580965200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/stimutacs/sealab_cc_012_revised2-01.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447438260,
         "tms_id": "EP004625760009",
         "rating": 9.098611,
@@ -148,59 +195,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1579755600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/murphy-murphy-the-feng-shui-bunch/sealab_cc_010_revised-01.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447438200,
-        "auth_expiration_date": null,
-        "tms_id": "EP004625760007",
-        "rating": 8.523661,
-        "description": "Griffin, a terminally ill orphan from the Final Request Foundation, pays a visit to Sealab and captures Marco's heart. Griffin, however, may not be as sweet as he appears. Captain Murphy, fearing an outbreak of bubonic plague, basically freaks out, while Sparks hatches a plan to sell Griff's organs to an Irishman.",
-        "title_suggest": {
-            "input": [
-                "Little Orphan Angry",
-                "Orphan Angry",
-                "Angry"
-            ]
-        },
-        "type": "episode",
-        "title": "Little Orphan Angry",
-        "expiration_date": 1580965140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 660.16,
-        "episode_number": "7",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1579807925,
-        "media_id": "6f758bd741f6d8c16029c0d2ce29b9a5fe03b51d",
-        "airing_id": "RADS1012271900050463",
-        "id": "b-_W21yNQ16dUDr6MISw5Q",
-        "slug": "little-orphan-angry",
-        "views": 172437,
-        "thumbnail": "",
-        "created": 1402945476,
-        "title_id": "345417",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579807925,
-        "tags": [
-            "sealab 2021 little orphan angry episode 7"
-        ],
-        "rating_count": 634,
-        "collection_title": "Sealab 2021",
-        "modified_by": "ODT Listener",
-        "launch_date": 1577941200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_007_pt1-05.jpg",
         "cma_id": ""
     },
     {

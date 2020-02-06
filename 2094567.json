@@ -50,6 +50,55 @@
         "cma_id": "1281565"
     },
     {
+        "ott_launch_date": 1540218540,
+        "auth": false,
+        "auth_expiration_date": 1578027540,
+        "tms_id": "",
+        "description": "Patient 21 is afraid to fall asleep. After a parasomnia episode injures the new intern Bea, Dr Roberts drops in to the patient's dream to guide him through the wake of his fears.",
+        "title_suggest": {
+            "input": [
+                "Deep Impact",
+                "Impact"
+            ]
+        },
+        "expiration_date": 1583384340,
+        "type": "episode",
+        "title": "Deep Impact",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.17,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1575003600,
+        "clip_order": null,
+        "modified": 1580589842,
+        "media_id": "4dbc0b1b1041bd42ba45c6f2feb4e5c76db7bcae",
+        "airing_id": "RADS1001312000060004",
+        "id": "AV9fX_EUZ-onAnjDLsyi",
+        "slug": "deep-impact",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153980974611015.jpg",
+        "created": 1509133644,
+        "season_number": "2",
+        "title_id": "2133685",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580589842,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580965200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153980974611015.jpg",
+        "cma_id": ""
+    },
+    {
         "ott_launch_date": 1542036540,
         "auth_expiration_date": 1582261140,
         "tms_id": "",
@@ -241,54 +290,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154221706621913.jpg",
         "id": "AWSkcq60qBveI_0AhK5D",
         "auth": true
-    },
-    {
-        "ott_launch_date": 1543246140,
-        "auth_expiration_date": 1584071940,
-        "tms_id": "",
-        "description": "Patient 75 comes to Dream Corp LLC to help clean up his life and regain the respect of his children. T.E.R.R.Y. introduces the staff to his new friend Leonard.",
-        "title_suggest": {
-            "input": [
-                "Dust Bunnies",
-                "Bunnies"
-            ]
-        },
-        "expiration_date": 1580965140,
-        "type": "episode",
-        "title": "Dust Bunnies",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 676.67,
-        "episode_number": "11",
-        "original_air_date": null,
-        "auth_launch_date": 1581051600,
-        "clip_order": null,
-        "media_id": "640cebe885ee4bc3e66afc2ec2d7c8dbac3ed105",
-        "modified": 1580647801,
-        "airing_id": "RADS1001032000051958",
-        "slug": "dust-bunnies",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154283721744219.jpg",
-        "created": 1535565172,
-        "season_number": "2",
-        "title_id": "2133695",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1580647801,
-        "tags": [],
-        "collection_title": "DREAM CORP LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1578546000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154283721744219.jpg",
-        "id": "AWWG0Q2Oh5enQuYyHyR0",
-        "auth": false
     },
     {
         "ott_launch_date": 1543246140,
