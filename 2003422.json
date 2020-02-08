@@ -100,53 +100,6 @@
         "cma_id": "1495809"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1581137940,
-        "tms_id": "EP012792980019",
-        "description": "Bob's family persuades him to buy a food truck and compete with the ones stealing his customers right outside the restaurant. When the Belchers bring their food truck to the \"Lolla-Pa-Foods-A-Festival,\" the Belcher kids' mischief causes the foodies and other truck owners to riot against them.",
-        "title_suggest": {
-            "input": [
-                "Food Truckin",
-                "Truckin"
-            ]
-        },
-        "title": "Food Truckin",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1272.3711,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1580533200,
-        "clip_order": null,
-        "modified": 1580304482,
-        "media_id": "e8baf0ab87d7fd4f36d576afc30939bdc0c94c09",
-        "airing_id": "RADS1001272000057369",
-        "id": "8DUYQP_IT42r1-_igBVonQ",
-        "slug": "food-truckin",
-        "views": 4996,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15221626924138.jpg",
-        "created": 1407727232,
-        "title_id": "2003440",
-        "tv_rating": "tv-14",
-        "season_number": "2",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1580304482,
-        "first_published": 1407727232,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221626924138.jpg",
-        "cma_id": "2003440"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": 1575266340,
         "tms_id": "",
@@ -393,6 +346,54 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221632620243.jpg",
         "cma_id": "2003442"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1581742740,
+        "tms_id": "EP012792980033",
+        "description": "After Tina accidentally wrecks the car, and gets the whole family involved with a slimy insurance agent, she worries that she's a \"jinx.\"",
+        "title_suggest": {
+            "input": [
+                "Tina-Rannosaurus Wrecks",
+                "Wrecks"
+            ]
+        },
+        "expiration_date": null,
+        "title": "Tina-Rannosaurus Wrecks",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.7562,
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1581138000,
+        "modified": 1580726528,
+        "media_id": "3079ea58f034b7addb4bbda30a331721332b2e6b",
+        "airing_id": "RADS1002012000060264",
+        "id": "eqaaJMi1TQeFHArOnKLL0Q",
+        "slug": "tina-rannosaurus-wrecks",
+        "views": 7905,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152276713011413.jpg",
+        "created": 1403210451,
+        "season_number": "3",
+        "title_id": "2003518",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1580726528,
+        "first_published": 1411960830,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg",
+        "cma_id": "2003518"
     },
     {
         "auth": true,
