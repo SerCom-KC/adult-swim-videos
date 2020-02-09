@@ -751,7 +751,7 @@
         "launch_date": 1580025600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_1912171422241-DrStone_117.jpg",
         "id": "AW8VT8sUGRcVO2K2pl-Z",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -847,7 +847,7 @@
         "launch_date": 1581235200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231610402-DrStone_119.jpg",
         "id": "AW_JiIgwGRcVO2K2pmOx",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1147,5 +1147,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241420327-promo_DrStone_Topical_122_SAT_15.jpg",
         "id": "AXARpi2m3HMJfT8do8Iq",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583049540,
+        "tms_id": "EP032785490022",
+        "description": "Senku, Chrome and Magma venture into a cave in search of Tungsten, but there's a suspicious accident that leaves Senku and Chrome trapped at the bottom of a pit! What is Magma up to?",
+        "title_suggest": {
+            "input": [
+                "The Treasure",
+                "Treasure"
+            ]
+        },
+        "title": "The Treasure",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1345.8445,
+        "episode_number": "22",
+        "original_air_date": null,
+        "auth_launch_date": 1581235200,
+        "clip_order": null,
+        "media_id": "ff2e5cfdc460020312d3dc3abcbe71df3785060a",
+        "modified": 1581195244,
+        "airing_id": "RADS1002072000061527",
+        "slug": "the-treasure",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200207/thumbnails/1_20271059498-DrStone_122.jpg",
+        "created": 1581091195,
+        "season_number": "1",
+        "title_id": "2207407",
+        "tv_rating": "tv-pg-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1581195244,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200207/thumbnails/2_20271059498-DrStone_122.jpg",
+        "id": "AXAgYQtp3HMJfT8do8V9",
+        "auth": true
     }
 ]
