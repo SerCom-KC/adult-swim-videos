@@ -1107,7 +1107,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1597723140,
         "tms_id": "",
         "description": "Josuke and Okuyasu come across an Italian restaurant owned by an Italian chef named Tonio. When Okuyasu asks for the menu Tonio explains that he decides the menu on the spot based on the customer he sees.",
@@ -1356,7 +1356,7 @@
         "launch_date": 1581310800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154413666699117.jpg",
         "id": "AWd1Ll0FAsbXwNj3wAWO",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
