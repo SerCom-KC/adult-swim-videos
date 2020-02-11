@@ -100,6 +100,56 @@
         "cma_id": "1333783"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582010940,
+        "tms_id": "EP002960010316",
+        "description": "The Griffins attend Meg's talent show, where Peter becomes infatuated with the violin. Peter encourages Cleveland, Joe, and Quagmire to take up instruments so they can start a string quartet.",
+        "title_suggest": {
+            "input": [
+                "The Finer Strings",
+                "Finer Strings",
+                "Strings"
+            ]
+        },
+        "title": "The Finer Strings",
+        "type": "episode",
+        "expiration_date": 1579496340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1300.9676343,
+        "episode_number": "13",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1581406200,
+        "modified": 1580999049,
+        "media_id": "e70d7c5e97095e832ebcb58729242472ab908546",
+        "airing_id": "RADS1002052000061291",
+        "id": "CBAVitgCRISouMx5_P3Yzg",
+        "slug": "the-finer-strings",
+        "views": 10352,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1488100221,
+        "title_id": "2105392",
+        "tv_rating": "tv-14",
+        "season_number": "15",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1580999049,
+        "first_published": 1488100221,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1578891600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-finer-strings/familyguy_1410_air_cid-32N17.jpg",
+        "cma_id": "2105392"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1577347140,
