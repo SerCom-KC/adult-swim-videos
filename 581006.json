@@ -688,55 +688,6 @@
         "cma_id": "1490704"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1581404340,
-        "tms_id": "EP007164450236",
-        "description": "Steve is upset when Snot threatens their summer camp fun by becoming a counselor-in-training. Hayley and Jeff are suspicious of Roger when he organizes a Burning Man reenactment in the yard for their anniversary.",
-        "title_suggest": {
-            "input": [
-                "Camp Campawanda",
-                "Campawanda"
-            ]
-        },
-        "title": "Camp Campawanda",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.97,
-        "episode_number": "13",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1580799600,
-        "modified": 1580474770,
-        "media_id": "a4d17c059cb2b4c2856320daa6a13eb68c7f77aa",
-        "airing_id": "RADS1001302000059352",
-        "id": "YX8yCyMDT7OTueWTm9ggig",
-        "slug": "camp-campawanda",
-        "views": 1215,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187077902924.jpg",
-        "created": 1497154225,
-        "title_id": "2069539",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1580474770,
-        "first_published": 1497154225,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187077902924.jpg",
-        "cma_id": "1415165"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1581663540,
@@ -783,6 +734,52 @@
         "launch_date": 1555340400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg",
         "cma_id": "1463525"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582009140,
+        "tms_id": "EP007164450250",
+        "description": "Francine becomes a conspiracy theorist. Klaus & Steve help Snot pimp out his new room.",
+        "title_suggest": {
+            "input": [
+                "Paranoid_Frandroid"
+            ]
+        },
+        "title": "Paranoid_Frandroid",
+        "type": "episode",
+        "expiration_date": 1579496340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.9617,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1581404400,
+        "modified": 1580994254,
+        "media_id": "1542c80a5d351f5e2ea05236e9ef305674b96eaf",
+        "airing_id": "RADS1002052000061294",
+        "id": "kuyoMQr6Ta62NeNv3TRsgw",
+        "slug": "paranoid-frandroid",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199407975132.jpg",
+        "created": 1507751154,
+        "season_number": "13",
+        "title_id": "2069554",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1580994254,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1578891600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
