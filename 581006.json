@@ -383,55 +383,6 @@
         "cma_id": "1480590"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1581488940,
-        "tms_id": "EP007164450240",
-        "description": "Roger runs off in disguise as a Julia Roberts character to a small town after Stan hurts his feelings. Steve plans a meeting when he finds out that Jeff and Barry have never met.",
-        "title_suggest": {
-            "input": [
-                "Julia Rogerts",
-                "Rogerts"
-            ]
-        },
-        "title": "Julia Rogerts",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.97,
-        "episode_number": "14",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1580884200,
-        "modified": 1581070326,
-        "media_id": "dc755a68ae1822c19929072d1d89cbd4a0b4fda1",
-        "airing_id": "RADS1001302000059355",
-        "id": "Mtpd7rRDTN2tl4NtdbAaSw",
-        "slug": "julia-rogerts",
-        "views": 1533,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175188327576.jpg",
-        "created": 1497759043,
-        "title_id": "2069545",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1581070326,
-        "first_published": 1497759043,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg",
-        "cma_id": "1419613"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1581490740,
@@ -584,6 +535,56 @@
         "launch_date": 1555945200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg",
         "cma_id": "1456298"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582093740,
+        "tms_id": "EP007164450251",
+        "description": "Hayley and Stan compete while collecting data for the US Census. Klaus inherits a camera and has Steve and his friends model for him.",
+        "title_suggest": {
+            "input": [
+                "The Census of the Lambs",
+                "Census of the Lambs",
+                "of the Lambs",
+                "the Lambs",
+                "Lambs"
+            ]
+        },
+        "title": "The Census of the Lambs",
+        "type": "episode",
+        "expiration_date": 1579496340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0618,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1581489000,
+        "modified": 1581079814,
+        "media_id": "d34fb1ee35d829e85c542947bf3cf83f82bd9e07",
+        "airing_id": "RADS1002062000061449",
+        "id": "RktRj9lgSdelLLgUqsKLbA",
+        "slug": "the-census-of-the-lambs",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199407732527.jpg",
+        "created": 1507751092,
+        "season_number": "13",
+        "title_id": "2069555",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1581079814,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1578891600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
