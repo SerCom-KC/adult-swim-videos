@@ -357,6 +357,60 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447172280,
+        "auth_expiration_date": 1584503940,
+        "tms_id": "EP007959510029",
+        "rating": 6.5537734,
+        "description": "Orel and Clay take a father and son hunting trip.",
+        "title_suggest": {
+            "input": [
+                "Nature pt. 1",
+                "pt. 1",
+                "1"
+            ]
+        },
+        "type": "episode",
+        "title": "Nature pt. 1",
+        "expiration_date": 1567051140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 678.019,
+        "episode_number": "19",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1581483600,
+        "modified": 1581120611,
+        "media_id": "f03c78dab8fd65ab2080f3ed850d221557152680",
+        "airing_id": "RADS1002062000061455",
+        "id": "CZwiihI4QjSbAmOjo9G9eA",
+        "slug": "nature-pt-1",
+        "views": 372481,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945470,
+        "title_id": "657353",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1581120611,
+        "tags": [
+            "moral orel episode 22 nature 1 hunting camping trip clay shot gun"
+        ],
+        "rating_count": 5114,
+        "collection_title": "Moral Orel",
+        "modified_by": "ODT Listener",
+        "launch_date": 1564027200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_022_pt1-03.jpg",
+        "cma_id": "1427090"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447172640,
         "auth_expiration_date": 1582088340,
         "tms_id": "EP007959510025",
@@ -677,56 +731,6 @@
         "launch_date": 1562212800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_019_pt1-04.jpg",
         "cma_id": "1414028"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447172580,
-        "auth_expiration_date": 1581483540,
-        "tms_id": "EP007959510024",
-        "rating": 7.806212,
-        "description": "When Orel discovers the Missing Link on a camping trip, he learns the meaning of Geniusis.",
-        "title_suggest": {
-            "input": [
-                "Geniusis"
-            ]
-        },
-        "type": "episode",
-        "title": "Geniusis",
-        "expiration_date": 1564027140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 700.022,
-        "episode_number": "14",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1578459600,
-        "modified": 1579923283,
-        "media_id": "5930111a529f81eb63e51aa2db48dd9aaa5417f2",
-        "airing_id": "RADS1001022000051345",
-        "id": "fkYPzKCyS3uFDEVsJOTUPg",
-        "slug": "geniusis",
-        "views": 334120,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945470,
-        "title_id": "653305",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579923283,
-        "tags": [],
-        "rating_count": 1481,
-        "collection_title": "Moral Orel",
-        "modified_by": "ODT Listener",
-        "launch_date": 1561003200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_025_pt1-05.jpg",
-        "cma_id": "1406124"
     },
     {
         "auth": false,
