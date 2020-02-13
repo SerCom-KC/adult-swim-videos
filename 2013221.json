@@ -386,6 +386,56 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1505140140,
+        "auth_expiration_date": 1576126740,
+        "tms_id": "EP019881990011",
+        "description": "In pursuit of a badly needed bonus, Barry struggles to make piano sales and Mr. Crown becomes fixated on a new dessert.",
+        "title_suggest": {
+            "input": [
+                "Baklava"
+            ]
+        },
+        "create_in_collection": "niKVk47EQ3-pHuoxOIYMsQ",
+        "title": "Baklava",
+        "type": "episode",
+        "expiration_date": 1584590340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 676.8757298,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573102800,
+        "modified": 1581192124,
+        "media_id": "f334dbd2ef86849eaaed32260c94f2b0cbad0b9e",
+        "airing_id": "RADS1002072000061726",
+        "id": "OwqPnwL1TNesifUBI-XkYQ",
+        "slug": "baklava",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1504810178,
+        "season_number": "2",
+        "title_id": "2133104",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1581192124,
+        "first_published": 1504810178,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1581570000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/baklava/baklava.png",
+        "cma_id": "1470891"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1506349740,
         "auth_expiration_date": 1578545940,
         "tms_id": "EP019881990015",
@@ -532,56 +582,6 @@
         "launch_date": 1579150800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/angel-man/tebs_305_11mins_dup-20170913.jpg",
         "cma_id": "1478810"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447785600,
-        "auth_expiration_date": 1581569940,
-        "tms_id": "EP019881990004",
-        "description": "Dan Dimler gets a surprise on the heels of his son Patrick's Sweet 17 when Scotty shows up at the door peddling his latest DVD.",
-        "title_suggest": {
-            "input": [
-                "Angel Boy",
-                "Boy"
-            ]
-        },
-        "expiration_date": 1578545940,
-        "title": "Angel Boy",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 675.51,
-        "episode_number": "4",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1578546000,
-        "modified": 1578144967,
-        "media_id": "e6d3043b4192a84187f5a0392cf5a57af439cdf6",
-        "airing_id": "RADS1011271900041819",
-        "id": "pZSnNyF2TJWPT-y7DD6bTA",
-        "slug": "angel-boy",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1410544731,
-        "season_number": "1",
-        "title_id": "2032606",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1578144967,
-        "first_published": 1412432425,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1575522000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/angel-boy/tebs_cc_104_pt1_1.jpg",
-        "cma_id": "1150927"
     },
     {
         "auth": false,
@@ -782,5 +782,53 @@
         "launch_date": 1576126800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152950474525716.jpg",
         "cma_id": "1154562"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447785480,
+        "auth_expiration_date": 1584590340,
+        "tms_id": "EP019881990001",
+        "description": "New to the neighborhood, IT guy Dennis Murphy and family clash with next door's Fish-obsessed, bully Brenner.",
+        "title_suggest": {
+            "input": [
+                "Hole"
+            ]
+        },
+        "expiration_date": 1576731540,
+        "title": "Hole",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 679.38,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1581570000,
+        "modified": 1581203647,
+        "media_id": "d141c45d318651b7ae0d13c57daa7ac1c8ccc647",
+        "airing_id": "RADS1002072000061725",
+        "id": "zJU2JtkJQayronucs_v65w",
+        "slug": "hole",
+        "views": 2,
+        "thumbnail": "",
+        "created": 1410544656,
+        "season_number": "1",
+        "title_id": "2024897",
+        "tv_rating": "tv-14-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1581203647,
+        "first_published": 1410978047,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1573707600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/hole/tebs_cc_101_pt1_1.jpg",
+        "cma_id": "2024897"
     }
 ]
