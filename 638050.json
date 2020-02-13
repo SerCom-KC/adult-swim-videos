@@ -146,6 +146,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1446762660,
+        "auth_expiration_date": null,
+        "tms_id": "EP008626240001",
+        "rating": 7.976234,
+        "description": "Killface, supervillain extraordinaire and loving father, has just begun his quest to destroy the world by smashing it into the sun using Annihilatrix, a massive jet engine.  However, due to construction cost overruns he is unable to strike terror into the hearts of the populace about his nefarious scheme, and must rely on a direct mailing campaign.",
+        "title_suggest": {
+            "input": [
+                "Meet Killface",
+                "Killface"
+            ]
+        },
+        "type": "episode",
+        "title": "Meet Killface",
+        "expiration_date": 1584590340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 674.024,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1581213135,
+        "media_id": "a6afa354a03416d49e922db142926ed692c14951",
+        "airing_id": "RADS1002072000061721",
+        "id": "kNPBz4URQDy-eUVbzyd2Bg",
+        "slug": "meet-killface",
+        "views": 762101,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945466,
+        "title_id": "638051",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1581213135,
+        "tags": [
+            "frisky dingo episode 1 first premiere meet killface val ad meeting postcard"
+        ],
+        "rating_count": 3407,
+        "collection_title": "Frisky Dingo",
+        "modified_by": "ODT Listener",
+        "launch_date": 1581570000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/meet-killface/fd_001_bim.jpg",
+        "cma_id": "926924"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1446763320,
         "auth_expiration_date": null,
         "tms_id": "EP008626240027",
@@ -194,62 +247,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1579150800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/a-take-on-hooper/fd_022_bim.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446763320,
-        "auth_expiration_date": null,
-        "tms_id": "EP008626240026",
-        "rating": 8.674299,
-        "description": "Someone gets a new pair of pants.",
-        "title_suggest": {
-            "input": [
-                "The Debate - Part Two",
-                "Debate - Part Two",
-                "- Part Two",
-                "Part Two",
-                "Two"
-            ]
-        },
-        "type": "episode",
-        "title": "The Debate - Part Two",
-        "expiration_date": 1581569940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 660,
-        "episode_number": "8",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1579732207,
-        "media_id": "ac34cdd157dacbd5a6408e78f667a9671d6815e2",
-        "airing_id": "RADS1001032000051952",
-        "id": "rTr5Bu_FTrS9xzxrOTi90w",
-        "slug": "the-debate-part-two",
-        "views": 503567,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945466,
-        "title_id": "683256",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579732207,
-        "tags": [
-            "frisky dingo episode 21 208 pants debate ronnie death lamont"
-        ],
-        "rating_count": 1833,
-        "collection_title": "Frisky Dingo",
-        "modified_by": "ODT Listener",
-        "launch_date": 1578546000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-debate-part-two/fd_021_005.jpg",
         "cma_id": ""
     }
 ]
