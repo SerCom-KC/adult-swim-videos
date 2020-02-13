@@ -1,57 +1,7 @@
 {
-    "updated": 1581618928,
-    "added": [
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Tim & Eric\u2019s Beef House premieres Sunday, March 29th at 12:15A ET.",
-            "title_suggest": {
-                "input": [
-                    "Beef House Trailer",
-                    "House Trailer",
-                    "Trailer"
-                ]
-            },
-            "title": "Beef House Trailer",
-            "expiration_date": null,
-            "type": "clip",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "online-exclusive",
-                "roku"
-            ],
-            "collection_id": "AXA_fsNN3HMJfT8do8kA",
-            "duration": 29.42,
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "media_id": "",
-            "modified": 1581618450,
-            "slug": "beef-house-trailer",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200213/thumbnails/1_202131210526-2_202111510318-promo_BeefHouse_dated.jpg",
-            "created": 1581614066,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1581618450,
-            "tags": [],
-            "collection_title": "Beef House",
-            "disable_ads": false,
-            "modified_by": "Evan Delia",
-            "launch_date": 1581570000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200213/thumbnails/2_202131210526-2_202111510318-promo_BeefHouse_dated.jpg",
-            "id": "AXA_i2t63HMJfT8do8kF",
-            "auth": false,
-            "collection_slug": "beef-house",
-            "collection_title_id": "2215447",
-            "online_exclusives": true
-        },
+    "updated": 1581630098,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
@@ -81,7 +31,7 @@
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "",
-            "modified": 1581614823,
+            "modified": 1581621369,
             "slug": "three-busy-debras-trailer",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200213/thumbnails/1_202131226550-ThreeBusyDebras_ep101_poolboy.jpg",
@@ -91,11 +41,11 @@
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1581614823,
+            "published": 1581621369,
             "tags": [],
             "collection_title": "Three Busy Debras",
             "disable_ads": false,
-            "modified_by": "Duke Nguyen",
+            "modified_by": "Dene Shepherd",
             "launch_date": 1581570000,
             "poster": "https://media.cdn.adultswim.com/uploads/20200213/thumbnails/2_202131226550-ThreeBusyDebras_ep101_poolboy.jpg",
             "id": "AXA_kurH3HMJfT8do8kI",
@@ -104,6 +54,5 @@
             "collection_title_id": "2211644",
             "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
