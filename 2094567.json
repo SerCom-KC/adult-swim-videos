@@ -195,55 +195,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1542036540,
-        "auth_expiration_date": 1581656340,
-        "tms_id": "",
-        "description": "A dejected Mr. Simzer brings his teenage son to Dream Corp LLC for treatment. The staff realizes his son isn't the only one who needs Dream Therapy. Randy loves Mama's Meat Pops.",
-        "title_suggest": {
-            "input": [
-                "Guys and Dads",
-                "and Dads",
-                "Dads"
-            ]
-        },
-        "expiration_date": 1578545940,
-        "type": "episode",
-        "title": "Guys and Dads",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 676.97,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1578632400,
-        "clip_order": null,
-        "media_id": "805eb24c0e3f97931785a04374b1da3e43a0f161",
-        "modified": 1578234726,
-        "airing_id": "RADS1012081900044834",
-        "slug": "guys-and-dads",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154160540169415.jpg",
-        "created": 1523997429,
-        "season_number": "2",
-        "title_id": "2133691",
-        "tv_rating": "tv-14-dls",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1578234726,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576126800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154160540169415.jpg",
-        "id": "AWLVU03eTdxzjxdCldX1",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1542641400,
         "auth_expiration_date": 1582865940,
         "tms_id": "",
@@ -337,6 +288,55 @@
         "launch_date": 1578546000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154283721744219.jpg",
         "id": "AWWG0Q2Oh5enQuYyHyR0",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1543246140,
+        "auth_expiration_date": 1584676740,
+        "tms_id": "",
+        "description": "Skin to skin contact feels like fire to Patient 66. With a history of minimal human touch or relationships, Dr Roberts prescribes her a Dream Date.",
+        "title_suggest": {
+            "input": [
+                "Can't Touch This",
+                "Touch This",
+                "This"
+            ]
+        },
+        "expiration_date": 1581569940,
+        "type": "episode",
+        "title": "Can't Touch This",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.73,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1581656400,
+        "clip_order": null,
+        "media_id": "1088c25ca93b497af265097216b760a9a5e1db29",
+        "modified": 1581291604,
+        "airing_id": "RADS1002072000061752",
+        "slug": "cant-touch-this",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15428372548979.jpg",
+        "created": 1535562989,
+        "season_number": "2",
+        "title_id": "2133696",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1581291604,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579150800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15428372548979.jpg",
+        "id": "AWWGr788h5enQuYyHyOP",
         "auth": true
     },
     {
