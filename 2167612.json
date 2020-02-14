@@ -1,8 +1,8 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1580101140,
+        "auth_expiration_date": 1587355140,
         "tms_id": "EP029950790001",
         "description": "Get ready to fall in love! Idols, high school, and\u2014JUST KIDDING! Thought this was a slice of life? Think again, punk! Don't be upset, Pipimi and Popuko are here to ruin everything.",
         "title_suggest": {
@@ -23,10 +23,10 @@
         "duration": 1371.53,
         "episode_number": "1",
         "original_air_date": null,
-        "auth_launch_date": 1574053200,
+        "auth_launch_date": 1581310800,
         "clip_order": null,
         "media_id": "8668c654823338b53d9f5375fae46604dd108d39",
-        "modified": 1579738205,
+        "modified": 1581031094,
         "airing_id": "RADS1001222000056424",
         "id": "AWRNbpQ5qBveI_0AhKw3",
         "slug": "encounter",
@@ -38,7 +38,7 @@
         "season_number": "1",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1579738205,
+        "published": 1581031094,
         "tags": [],
         "collection_title": "Pop Team Epic",
         "modified_by": "ODT Listener",
@@ -47,8 +47,8 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1581310740,
+        "auth": false,
+        "auth_expiration_date": 1588564740,
         "tms_id": "EP029950790003",
         "description": "We're going behind the music in this special episode to look at the rise of famous idol, Pop-chin. Then, hop into my new, killer ride.",
         "title_suggest": {
@@ -57,7 +57,7 @@
                 "Documentary"
             ]
         },
-        "expiration_date": 1575262740,
+        "expiration_date": 1582520340,
         "type": "episode",
         "title": "The Documentary",
         "platforms": [
@@ -70,11 +70,11 @@
         "duration": 1277.79,
         "episode_number": "3",
         "original_air_date": null,
-        "auth_launch_date": 1575262800,
+        "auth_launch_date": 1582520400,
         "clip_order": null,
         "media_id": "9d6670b180788ba8fb0e150cc309b433910121a2",
-        "modified": 1574895966,
-        "airing_id": "RADS1011271900041570",
+        "modified": 1581566410,
+        "airing_id": "RADS1002132000063004",
         "id": "AWRhX-BaqBveI_0AhKx0",
         "slug": "the-documentary",
         "exclude_from_search": false,
@@ -85,17 +85,17 @@
         "tv_rating": "tv-ma",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1574895966,
+        "published": 1581566410,
         "tags": [],
         "collection_title": "Pop Team Epic",
         "modified_by": "ODT Listener",
-        "launch_date": 1574053200,
+        "launch_date": 1581310800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153140483418119.jpg"
     },
     {
         "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1580705940,
+        "auth": false,
+        "auth_expiration_date": 1587959940,
         "tms_id": "EP029950790002",
         "description": "Grab your controller, it's time to play\u2014what the crap? This game isn't even animated! Ugh, screw this. I'll just show you my Pop Technique!",
         "title_suggest": {
@@ -122,10 +122,10 @@
         "duration": 1281.38,
         "episode_number": "2",
         "original_air_date": null,
-        "auth_launch_date": 1574658000,
+        "auth_launch_date": 1581915600,
         "clip_order": null,
         "media_id": "141302005e3c2a426d91be505184a28d0584537f",
-        "modified": 1580427484,
+        "modified": 1581546372,
         "airing_id": "RADS1001302000059846",
         "id": "AWRhXjQ3qBveI_0AhKxz",
         "slug": "vanver-a-game-in-another-dimension",
@@ -137,7 +137,7 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1580427484,
+        "published": 1581546372,
         "tags": [],
         "collection_title": "Pop Team Epic",
         "modified_by": "ODT Listener",
@@ -156,7 +156,7 @@
                 "2018"
             ]
         },
-        "expiration_date": 1575867540,
+        "expiration_date": 1583125140,
         "type": "episode",
         "title": "SWGP 2018",
         "platforms": [
@@ -172,8 +172,8 @@
         "auth_launch_date": 1575867600,
         "clip_order": null,
         "media_id": "417f60ee90fd753a35100308033933205713fd97",
-        "modified": 1575507004,
-        "airing_id": "RADS1011201900038335",
+        "modified": 1581609012,
+        "airing_id": "RADS1012041900043337",
         "id": "AWSq3bDHTdxzjxdCm-hc",
         "slug": "swgp-2018",
         "exclude_from_search": false,
@@ -184,11 +184,11 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1575507004,
+        "published": 1581609012,
         "tags": [],
         "collection_title": "Pop Team Epic",
         "modified_by": "ODT Listener",
-        "launch_date": 1574658000,
+        "launch_date": 1581915600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15323664583288.jpg"
     },
     {
@@ -204,7 +204,7 @@
                 "Sis"
             ]
         },
-        "expiration_date": 1576472340,
+        "expiration_date": 1583726340,
         "type": "episode",
         "title": "Donca * Sis",
         "platforms": [
@@ -220,8 +220,8 @@
         "auth_launch_date": 1576472400,
         "clip_order": null,
         "media_id": "16cb839eefbfd55d018c79da487da0041eaa151e",
-        "modified": 1576116845,
-        "airing_id": "RADS1012111900046307",
+        "modified": 1581566410,
+        "airing_id": "RADS1002132000063003",
         "id": "AWTNjKLPqBveI_0AhK8m",
         "slug": "donca-sis",
         "exclude_from_search": false,
@@ -232,11 +232,11 @@
         "tv_rating": "tv-ma",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1576116845,
+        "published": 1581566410,
         "tags": [],
         "collection_title": "Pop Team Epic",
         "modified_by": "ODT Listener",
-        "launch_date": 1575262800,
+        "launch_date": 1582520400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153270644476716.jpg"
     },
     {
@@ -532,7 +532,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1586750340,
         "tms_id": "EP029950790012",
         "description": "It's all led up to this. The epic finale of the epic masterpiece. With this, we will grow up and never complain about the content provided to us\u2014never ever. We'll do our best, and not even Takeshobo can stop us! Or is it King?",
