@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 14, 2020 at 03:00:29 EST_
+_Last Update: February 14, 2020 at 03:30:33 EST_
 ## Video added
 ### Summary
 440990 Family Guy: 1  
-### 730918
-**Family Guy S07E01 - Love Blactually**  
-TV-PG 🔒 21:43  
-⌛ February 21, 2020 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/love-blactually  
-seriesid=`440990` titleid=`730918` id=`ksFGudAvTOGwRsdl_c647w` mediaid=`39de6e9e13af0e2f9fea3ba4af6444c491635c3f`  
-_When Stewie convinces Brian to go slow with his new girlfriend Carolyn, Cleveland moves in and steals her away; to get her back, Brian does his best to get Cleveland back together with his ex-wife._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8406498781874516737.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8406498781874516737.jpg" height="144px" /></a>
+### 809255
+**Family Guy S11E12 - Valentine's Day in Quahog**  
+TV-14 🔒 21:30  
+⌛ February 21, 2020 at 02:59:00 EST  
+https://www.adultswim.com/videos/family-guy/valentines-day-in-quahog  
+seriesid=`440990` titleid=`809255` id=`q_XWVe60Ta6hoPjQgabbDw` mediaid=`8c5bbb84b287768cb22489b41ee9795b23665a88`  
+_This Valentine's Day episode features a series of comic vignettes centered around the residents of Quahog._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870837177613.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870837177613.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+440990 Family Guy: 1  
+### 2105387
+**Family Guy S15E08 - Carter and Tricia**  
+TV-14 🔒 21:42  
+⌛ February 14, 2020 at 02:59:00 EST  
+https://www.adultswim.com/videos/family-guy/carter-and-tricia  
+seriesid=`440990` titleid=`2105387` id=`np9wHnd0R4i0HSeMJKknXQ` mediaid=`c7d0bd4b13261015a3a519217a722968b3f125b7`  
+_Carter purchases Pawtucket Brewery and becomes Peter's new boss. With great pleasure, he forces Peter to assume a variety of humiliating roles. Peter overhears Carter order staff to illegally make beer cans out of dangerous and cheap materials._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/carter-and-tricia/familyguy_1405_air_cid-30YY1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/carter-and-tricia/familyguy_1405_air_cid-30YY1.jpg" height="144px" /></a>
