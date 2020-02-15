@@ -203,6 +203,52 @@
     },
     {
         "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1582352940,
+        "tms_id": "EP007164450249",
+        "description": "Roger turns his attention to Steve's friend Snot who teaches him about Hanukkah, prompting him to convert to Judaism. Roger then decides to make Hanukkah more popular than Christmas by stealing Santa's powers, and becoming Schmanta Claus.",
+        "title_suggest": {
+            "input": [
+                "Santa, Schmanta",
+                "Schmanta"
+            ]
+        },
+        "expiration_date": 1580705940,
+        "type": "episode",
+        "title": "Santa, Schmanta",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.8616,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1581748200,
+        "clip_order": null,
+        "media_id": "6aa8247b1afbf690eeefce7bc6e77a755e93cd3a",
+        "modified": 1581373088,
+        "airing_id": "RADS1002102000061883",
+        "id": "AWBGBvYswdpKFAKSb0FM",
+        "slug": "santa-schmanta",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200072089515.jpg",
+        "created": 1513003349,
+        "season_number": "13",
+        "title_id": "2069561",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1581373088,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580101200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg"
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1582181940,
         "tms_id": "EP007164450254",
         "description": "Hayley witnesses harsh working conditions at the CIA and encourages action.",
@@ -683,55 +729,6 @@
         "launch_date": 1555340400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg",
         "cma_id": "1480590"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1581748140,
-        "tms_id": "EP007164450247",
-        "description": "Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck. Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town.",
-        "title_suggest": {
-            "input": [
-                "Garbage Stan",
-                "Stan"
-            ]
-        },
-        "expiration_date": 1555945140,
-        "title": "Garbage Stan",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1274.33,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "20",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1581143400,
-        "modified": 1581340686,
-        "media_id": "e0fefa9d69b802fa0dead91eee5b31d07509e1ca",
-        "airing_id": "RADS1002072000061483",
-        "id": "Psk8BZBXTS6y3k5Dt77-qw",
-        "slug": "garbage-stan",
-        "views": 237,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151880430802815.jpg",
-        "created": 1501618803,
-        "season_number": "12",
-        "title_id": "2069551",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1581340686,
-        "first_published": 1504411853,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1555340400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg",
-        "cma_id": "1470369"
     },
     {
         "auth": true,
