@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 16, 2020 at 01:30:32 EST_
+_Last Update: February 16, 2020 at 02:00:35 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2003534
-**Bob's Burgers S03E23 - The Unnatural**  
-TV-14 🔒 21:33  
-⌛ February 23, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-unnatural  
-seriesid=`2003422` titleid=`2003534` id=`bXAUZgtGRcKF7uHdKbibOQ` mediaid=`e0781e49fc2060a9942522ea34837c387cb03545`  
-_After Gene loses his confidence at his baseball game, Linda decides to sign him up for baseball camp. The only problem is, she needs money to pay for it! Meanwhile, Tina discovers her love for espresso and becomes a caffeine addict._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 440993
+**Family Guy S01E03 - Chitty Chitty Death Bang**  
+TV-14 🔒 22:29  
+⌛ February 23, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/chitty-chitty-death-bang  
+seriesid=`440990` titleid=`440993` id=`AEwZA_buQtmwjCSa9sSteA` mediaid=`6294e11d927f7c50f22d57b3196b92aeda44dc43`  
+_Meg infuriates Lois by going to a party instead of celebrating Stewie's birthday, and to make matters worse, the party turns out to be a cult meeting._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152632085318412.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152632085318412.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2003521
-**Bob's Burgers S03E10 - Mother Daughter Laser Razor**  
-TV-PG 🔓 21:30  
-⌛ February 16, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/mother-daughter-laser-razor  
-seriesid=`2003422` titleid=`2003521` id=`RNMHcG_NQnaimkMIInNOHA` mediaid=`ec0c202d5a8f2ae074e11c7fb693c3ecec6e033a`  
-_Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 2105390
+**Family Guy S15E11 - Gronkowsbees**  
+TV-14 🔒 21:42  
+⌛ February 16, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/family-guy/gronkowsbees  
+seriesid=`440990` titleid=`2105390` id=`B0x5VXDpQu-cZ5yEQKbDVg` mediaid=`57088717eae47dd182b4719bd8579d2f3a8ee2fa`  
+_Peter and the gang realize their new neighbor is none other than the New England Patriot's tight end, Rob Gronkowski._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/gronkowsbees/familyguy_1408_air_cid-31X7C.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/gronkowsbees/familyguy_1408_air_cid-31X7C.jpg" height="144px" /></a>
