@@ -799,7 +799,7 @@
         "launch_date": 1580630400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_1912171422453-DrStone_118.jpg",
         "id": "AW8VUCrS3HMJfT8do6gV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -897,7 +897,7 @@
         "launch_date": 1581840000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231610246-DrStone_120.jpg",
         "id": "AW_UPf6N3HMJfT8do7j6",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1194,6 +1194,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200207/thumbnails/2_20271059498-DrStone_122.jpg",
         "id": "AXAgYQtp3HMJfT8do8V9",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583650740,
+        "tms_id": "EP032785490023",
+        "description": "Senku and the rest of the village get to work on making the components for the cell phone. It's hard work but everyone is pumped!",
+        "title_suggest": {
+            "input": [
+                "Wave of Science",
+                "of Science",
+                "Science"
+            ]
+        },
+        "title": "Wave of Science",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1344.9436,
+        "episode_number": "23",
+        "original_air_date": null,
+        "auth_launch_date": 1581840000,
+        "clip_order": null,
+        "media_id": "de8189e632ef6f31a233c11b06a2a6dd61547d9d",
+        "modified": 1581719588,
+        "airing_id": "RADS1002132000063503",
+        "slug": "wave-of-science",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200207/thumbnails/1_202711062-DrStone_123.jpg",
+        "created": 1581091210,
+        "season_number": "1",
+        "title_id": "2207408",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1581719588,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200207/thumbnails/2_202711062-DrStone_123.jpg",
+        "id": "AXAgYUQJGRcVO2K2pmzI",
         "auth": true
     }
 ]
