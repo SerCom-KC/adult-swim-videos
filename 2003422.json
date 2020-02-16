@@ -299,56 +299,6 @@
         "auth": false
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1581832740,
-        "tms_id": "EP012792980035",
-        "description": "Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs.",
-        "title_suggest": {
-            "input": [
-                "Mother Daughter Laser Razor",
-                "Daughter Laser Razor",
-                "Laser Razor",
-                "Razor"
-            ]
-        },
-        "expiration_date": 1507264199,
-        "title": "Mother Daughter Laser Razor",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.6227,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1581228000,
-        "modified": 1580912046,
-        "media_id": "ec0c202d5a8f2ae074e11c7fb693c3ecec6e033a",
-        "airing_id": "RADS1002042000061193",
-        "id": "RNMHcG_NQnaimkMIInNOHA",
-        "slug": "mother-daughter-laser-razor",
-        "views": 1,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277440357314.jpg",
-        "created": 1403210547,
-        "season_number": "3",
-        "title_id": "2003521",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1580912046,
-        "first_published": 1413775225,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506659400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg",
-        "cma_id": "2003521"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1581919140,
@@ -394,6 +344,53 @@
         "launch_date": 1554735600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg",
         "cma_id": "2132983"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582437540,
+        "tms_id": "EP012792980043",
+        "description": "After Gene loses his confidence at his baseball game, Linda decides to sign him up for baseball camp. The only problem is, she needs money to pay for it! Meanwhile, Tina discovers her love for espresso and becomes a caffeine addict.",
+        "title_suggest": {
+            "input": [
+                "The Unnatural",
+                "Unnatural"
+            ]
+        },
+        "title": "The Unnatural",
+        "type": "episode",
+        "expiration_date": 1504159199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1293.9593,
+        "episode_number": "23",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1581832800,
+        "modified": 1581577448,
+        "media_id": "e0781e49fc2060a9942522ea34837c387cb03545",
+        "airing_id": "RADS1002112000061993",
+        "id": "bXAUZgtGRcKF7uHdKbibOQ",
+        "slug": "the-unnatural",
+        "views": 4,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085673348710.jpg",
+        "created": 1402284031,
+        "title_id": "2003534",
+        "tv_rating": "tv-14",
+        "season_number": "3",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1581577448,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503554400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg",
+        "cma_id": "2003534"
     },
     {
         "auth": true,
