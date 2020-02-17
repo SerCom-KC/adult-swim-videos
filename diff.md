@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 17, 2020 at 01:30:36 EST_
+_Last Update: February 17, 2020 at 02:00:34 EST_
 ## Video added
 ### Summary
 2003422 Bob's Burgers: 1  
-### 2132975
-**Bob's Burgers S07E03 - Large Brother, Where Fart Thou?**  
-TV-14-L 🔒 21:45  
-⌛ February 24, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/large-brother-where-fart-thou  
-seriesid=`2003422` titleid=`2132975` id=`JN51ikJcSbymg0xNrYEi_A` mediaid=`c681a0b1721d5a8e765e5d0e42975f1ebc88a61d`  
-_When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg" height="144px" /></a>
+### 2132992
+**Bob's Burgers S07E06 - The Quirk-Ducers**  
+TV-PG-DLV 🔒 21:40  
+⌛ February 24, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-quirk-ducers  
+seriesid=`2003422` titleid=`2132992` id=`AWG1Yym-NWyh42wYnk6f` mediaid=`c9c34718faeb1e812d3b7827ba7a72332c152649`  
+_When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-### 2132983
-**Bob's Burgers S07E05 - Bob Actually**  
-TV-PG-DL 🔓 21:42  
-⌛ February 17, 2020 at 00:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/bob-actually  
-seriesid=`2003422` titleid=`2132983` id=`VmnWvv2pTD2WBaYwR3ARdA` mediaid=`02f2bc7d7a7775a9d9c127202186f14a3faa9e6e`  
-_With Valentine's Day approaching, Tina, Gene and Louise each find themselves wrapped up in love-caused chaos. Meanwhile, Bob decides on a romantic gesture in order to impress Linda._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg" height="144px" /></a>
+### 2171448
+**Bob's Burgers S08E08 - V for Valentine-detta**  
+TV-PG-L 🔓 21:21  
+⌛ February 17, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/v-for-valentine-detta  
+seriesid=`2003422` titleid=`2171448` id=`AWjJqvOWAScUIg8Xxc65` mediaid=`6aff6c4e640dc811c44a0fb0eb89d68356fc995b`  
+_After a rough break up on Valentine's Day, the Belcher women have a limo girls' night out to make Tina feel better. Meanwhile, Bob and Gene have a trapeze experience that brings them closer._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154990210608314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154990210608314.jpg" height="144px" /></a>
