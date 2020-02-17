@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 17, 2020 at 02:00:34 EST_
+_Last Update: February 17, 2020 at 02:30:37 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2132992
-**Bob's Burgers S07E06 - The Quirk-Ducers**  
-TV-PG-DLV 🔒 21:40  
-⌛ February 24, 2020 at 01:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-quirk-ducers  
-seriesid=`2003422` titleid=`2132992` id=`AWG1Yym-NWyh42wYnk6f` mediaid=`c9c34718faeb1e812d3b7827ba7a72332c152649`  
-_When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 2064593
+**Family Guy S15E03 - Inside Family Guy**  
+TV-14 🔒 21:44  
+⌛ February 24, 2020 at 01:59:00 EST  
+https://www.adultswim.com/videos/family-guy/inside-family-guy  
+seriesid=`440990` titleid=`2064593` id=`gIKRwyLRSGWVVPuboBB54Q` mediaid=`6563cf6403fdedc766d2250cc0fb934a9e2f206e`  
+_James Woods hosts a "behind the scenes" episode of Family Guy, where we observe one production week in the life of the show (if the Griffins were a real family playing themselves and shooting on a soundstage)._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/inside-family-guy/familyguy_1320_air_cid-304HP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/inside-family-guy/familyguy_1320_air_cid-304HP.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2171448
-**Bob's Burgers S08E08 - V for Valentine-detta**  
-TV-PG-L 🔓 21:21  
-⌛ February 17, 2020 at 01:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/v-for-valentine-detta  
-seriesid=`2003422` titleid=`2171448` id=`AWjJqvOWAScUIg8Xxc65` mediaid=`6aff6c4e640dc811c44a0fb0eb89d68356fc995b`  
-_After a rough break up on Valentine's Day, the Belcher women have a limo girls' night out to make Tina feel better. Meanwhile, Bob and Gene have a trapeze experience that brings them closer._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154990210608314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154990210608314.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 809269
+**Family Guy S12E05 - Boopa-Dee Bappa Dee**  
+TV-14 🔓 21:28  
+⌛ February 17, 2020 at 01:59:00 EST  
+https://www.adultswim.com/videos/family-guy/boopa-dee-bappa-dee  
+seriesid=`440990` titleid=`809269` id=`fsK-5qRmTNiappnVucpzpw` mediaid=`939263ff396cc81569628276ab5da995b9a67d8b`  
+_The Quahog 5 News reports an ongoing price war between airlines has led to extremely reduced fares. Lois takes advantage of the situation and purchases tickets to Italy for the family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108602907375.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108602907375.jpg" height="144px" /></a>
