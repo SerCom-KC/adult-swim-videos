@@ -281,6 +281,64 @@
         "cma_id": "1209548"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370073",
+        "description": "Cell continues his bloodthirsty rampage, Krillin and Trunks destroy what little remains of Dr. Gero's laboratory, and Goku awakens from his extended slumber ready to fight!",
+        "title_suggest": {
+            "input": [
+                "The Hunt for Cell is On! Goku, Back in Action!",
+                "Hunt for Cell is On! Goku, Back in Action!",
+                "for Cell is On! Goku, Back in Action!",
+                "Cell is On! Goku, Back in Action!",
+                "is On! Goku, Back in Action!",
+                "On! Goku, Back in Action!",
+                "Goku, Back in Action!",
+                "Back in Action!",
+                "in Action!",
+                "Action!"
+            ]
+        },
+        "expiration_date": 1584935999,
+        "title": "The Hunt for Cell is On! Goku, Back in Action!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1318,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "71",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1581556207,
+        "media_id": "1ded9115e18f21c00d1772fc17340b8ae23471ee",
+        "airing_id": "RADS1002112000062256",
+        "id": "2CI8AMPJQfGUcdS0OCcWwA",
+        "slug": "the-hunt-for-cell-is-on-goku-back-in-action",
+        "views": 2185,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210166598-dragonballzkai_071_air_cid-2THJ2.jpg",
+        "created": 1458568881,
+        "season_number": "1",
+        "title_id": "2031682",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1581556207,
+        "first_published": 1463555439,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1581915600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210166598-dragonballzkai_071_air_cid-2THJ2.jpg",
+        "cma_id": "1226424"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
@@ -446,7 +504,7 @@
         "cma_id": "1180740"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370068",
