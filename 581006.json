@@ -396,6 +396,51 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1582612140,
+        "tms_id": "EP007164450258",
+        "description": "Stan gets in over his head when he runs for mayor.",
+        "title_suggest": {
+            "input": [
+                "Railroaded"
+            ]
+        },
+        "expiration_date": 1581915540,
+        "type": "episode",
+        "title": "Railroaded",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.9617,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1582007400,
+        "clip_order": null,
+        "media_id": "f4b384a8a54210087fd982834628bb76ff6eea66",
+        "modified": 1581611173,
+        "airing_id": "RADS1002052000061242",
+        "slug": "railroaded",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200101162688.jpg",
+        "created": 1520010119,
+        "season_number": "13",
+        "title_id": "2069563",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1581611173,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1581310800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200101162688.jpg",
+        "id": "AWHnqcjk0KIGIdXCKzww",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1572236940,
         "tms_id": "",
         "description": "Francine becomes obsessed with him security after a break in. Steve tries Hayley's laidback approach to school work.",
@@ -1043,53 +1088,5 @@
         "launch_date": 1581915600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg",
         "cma_id": "1475444"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1582007340,
-        "tms_id": "EP007164450248",
-        "description": "In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley.",
-        "title_suggest": {
-            "input": [
-                "West to Mexico",
-                "to Mexico",
-                "Mexico"
-            ]
-        },
-        "title": "West to Mexico",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.03,
-        "episode_number": "22",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1581402600,
-        "modified": 1581540369,
-        "media_id": "26317c90dca92ff6ac96b0624ea53f4a60d9b9a6",
-        "airing_id": "RADS1002102000061880",
-        "id": "vz3Y_dibRLuu8ZDlkfKtbQ",
-        "slug": "west-to-mexico",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15188043915002.jpg",
-        "created": 1502136942,
-        "season_number": "12",
-        "title_id": "2069553",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1581540369,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg",
-        "cma_id": ""
     }
 ]
