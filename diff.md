@@ -2,23 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 17, 2020 at 08:01:01 EST_
+_Last Update: February 18, 2020 at 00:00:43 EST_
 ## Video added
 ### Summary
-2207385 Dr. Stone: 1  
-2142267 My Hero Academia: 1  
-2215991 Sword Art Online: Alicization - War of Underworld: 1  
-### Online Exclusives
-`AXA6r8TkGRcVO2K2pm54` [Dr. Stone - Sneak Peek - Voices Over Infinite Distance](https://www.adultswim.com/videos/dr-stone/sneak-peek-voices-over-infinite-distance)  
-`AXA6tINiGRcVO2K2pm56` [My Hero Academia - In Two Weeks - Bright Future](https://www.adultswim.com/videos/my-hero-academia/in-two-weeks-bright-future)  
-`AXAb7tVn3HMJfT8do8Sf` [Sword Art Online: Alicization - War of Underworld - Sneak Peek - Battle of the Knights](https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/sneak-peek-battle-of-the-knights)  
+2022095 Black Jesus: 1  
+### 2160588
+**Black Jesus S03E07 - Hair Tudi**  
+TV-MA-L 🔓 21:36  
+⌛ March 23, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-jesus/hair-tudi  
+seriesid=`2022095` titleid=`2160588` id=`AW2EU3Uj1YiBSfg0KXXD` mediaid=`1f3fa02016d1f6bcfa0f35e91d1de689bd383e5a`  
+_Ms. Tudi miraculously scores a small business loan, and now she can open "Tudi's Wigs, Weaves and Whatnots."  The Korean Bitch Mafia isn't happy the store is on their turf, and that means war._  
+<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151122173-blackjesus_307_air_cid-3FXYD.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151122173-blackjesus_307_air_cid-3FXYD.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-2142267 My Hero Academia: 1  
-2207385 Dr. Stone: 2  
-2215991 Sword Art Online: Alicization - War of Underworld: 1  
-### Online Exclusives
-`AXAb5-dWGRcVO2K2pmww` [My Hero Academia - Sneak Peek - Infinite 100%](https://www.adultswim.com/videos/my-hero-academia/sneak-peek-infinite-100)  
-`AXARpi2m3HMJfT8do8Iq` [Dr. Stone - Sneak Peek - The Treasure](https://www.adultswim.com/videos/dr-stone/sneak-peek-the-treasure)  
-`AXAb4KFy3HMJfT8do8Rs` [Dr. Stone - Sneak Peek - Wave of Science](https://www.adultswim.com/videos/dr-stone/sneak-peek-wave-of-science)  
-`AXAb3YDkGRcVO2K2pmwb` [Sword Art Online: Alicization - War of Underworld - Sneak Peek - The Night Before Battle](https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/sneak-peek-the-night-before-battle)  
+No videos were removed.  
