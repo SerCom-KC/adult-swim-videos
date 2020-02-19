@@ -682,6 +682,54 @@
         "auth": true
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582700340,
+        "tms_id": "EP007164450261",
+        "description": "Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat.",
+        "title_suggest": {
+            "input": [
+                "Mean Francine",
+                "Francine"
+            ]
+        },
+        "title": "Mean Francine",
+        "type": "episode",
+        "expiration_date": 1580705940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1953,
+        "episode_number": "13",
+        "original_air_date": null,
+        "auth_launch_date": 1582095600,
+        "clip_order": null,
+        "airing_id": "RADS1002132000062875",
+        "media_id": "8965a176e09a79fd6c253187717958cb8fb2bd11",
+        "modified": 1581669369,
+        "slug": "mean-francine",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155844913831519.jpg",
+        "created": 1558107612,
+        "title_id": "2069566",
+        "season_number": "13",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1581669369,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1580101200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844913831519.jpg",
+        "id": "AWrGc2RCCorLtcgflqgM",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1581397140,
@@ -940,53 +988,6 @@
         "launch_date": 1503460800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152847347075519.jpg",
         "cma_id": "1456875"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1582095540,
-        "tms_id": "EP007164450252",
-        "description": "Steve sets out to stop Roger after he joins a mysterious order. Francine buys a new pasta sauce and the family starts changing.",
-        "title_suggest": {
-            "input": [
-                "Shell Game",
-                "Game"
-            ]
-        },
-        "title": "Shell Game",
-        "type": "episode",
-        "expiration_date": 1583125140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.0942,
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1581490800,
-        "modified": 1582093807,
-        "media_id": "1a31d701708436ebec1205201d34233c142d476f",
-        "airing_id": "RADS1002062000061445",
-        "id": "b6xubpzsSNO_D8tVF4hB2A",
-        "slug": "shell-game",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199407423806.jpg",
-        "created": 1508441152,
-        "season_number": "13",
-        "title_id": "2069556",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1582093807,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1582520400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg",
-        "cma_id": ""
     },
     {
         "auth": false,
