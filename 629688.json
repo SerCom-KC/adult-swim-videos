@@ -410,56 +410,6 @@
         "cma_id": "1427090"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447172640,
-        "auth_expiration_date": 1582088340,
-        "tms_id": "EP007959510025",
-        "rating": 7.1484637,
-        "description": "Orel learns a valuable lesson about man/woman relations when Doughy becomes involved with the teacher.",
-        "title_suggest": {
-            "input": [
-                "Courtship"
-            ]
-        },
-        "type": "episode",
-        "title": "Courtship",
-        "expiration_date": 1564631940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 693.022,
-        "episode_number": "15",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1579064400,
-        "modified": 1579923282,
-        "media_id": "660f9e8c76d4278a1ebe0bcc4f32531ca394ec5b",
-        "airing_id": "RADS1001102000053653",
-        "id": "Fku-cbeZSveGOuLB1TN1wg",
-        "slug": "courtship",
-        "views": 268262,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945470,
-        "title_id": "653307",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579923282,
-        "tags": [],
-        "rating_count": 2472,
-        "collection_title": "Moral Orel",
-        "modified_by": "ODT Listener",
-        "launch_date": 1561608000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_027_pt2-01.jpg",
-        "cma_id": "1410132"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447171860,
         "auth_expiration_date": 1574225940,
@@ -731,6 +681,60 @@
         "launch_date": 1562212800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_019_pt1-04.jpg",
         "cma_id": "1414028"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447172640,
+        "auth_expiration_date": 1585108740,
+        "tms_id": "EP007959510030",
+        "rating": 6.76644,
+        "description": "Orel and Clay take a father and son hunting trip.",
+        "title_suggest": {
+            "input": [
+                "Nature pt. 2",
+                "pt. 2",
+                "2"
+            ]
+        },
+        "type": "episode",
+        "title": "Nature pt. 2",
+        "expiration_date": 1567655940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 703.022,
+        "episode_number": "20",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1582088400,
+        "modified": 1581668649,
+        "media_id": "fd1570cc20eceed88abd68d7d5d95c90fa98a575",
+        "airing_id": "RADS1002132000062870",
+        "id": "sYw_oTpoQV2xTA9Tr9lbHw",
+        "slug": "nature-pt-2",
+        "views": 329724,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945470,
+        "title_id": "653309",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1581668649,
+        "tags": [
+            "moral orel episode 29 nature 2 hunting trip camping orel shot bear clay"
+        ],
+        "rating_count": 3528,
+        "collection_title": "Moral Orel",
+        "modified_by": "ODT Listener",
+        "launch_date": 1564632000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_029_pt1-04.jpg",
+        "cma_id": "1431483"
     },
     {
         "auth": false,
