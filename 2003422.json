@@ -495,6 +495,56 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1582779540,
+        "tms_id": "EP012792980053",
+        "description": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.",
+        "title_suggest": {
+            "input": [
+                "Turkey in a Can",
+                "in a Can",
+                "a Can",
+                "Can"
+            ]
+        },
+        "title": "Turkey in a Can",
+        "type": "episode",
+        "expiration_date": 1504589399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1274.0728,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1582174800,
+        "clip_order": null,
+        "modified": 1582026652,
+        "media_id": "7988a96e056706b043193c01d941367e05c15716",
+        "airing_id": "RADS1002132000062904",
+        "id": "oKS-s_nDTPW06xmPrkV5Lw",
+        "slug": "turkey-in-a-can",
+        "views": 6204,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153132725097715.jpg",
+        "created": 1416806423,
+        "title_id": "2030308",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1582026652,
+        "first_published": 1416806423,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503984600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153132725097715.jpg",
+        "cma_id": "1461131"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1582261140,
         "tms_id": "EP012792980080",
         "description": "Tina teams up with Darryl to win the Cupid's Couple contest at the school dance. Meanwhile, Linda plans a full week of ambitious Valentine's Day activities for her and Bob.",
@@ -591,54 +641,5 @@
         "launch_date": 1503289800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg",
         "cma_id": "2003528"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1582174740,
-        "tms_id": "EP012792980038",
-        "description": "When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will \"wow\" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned.",
-        "title_suggest": {
-            "input": [
-                "My Fuzzy Valentine",
-                "Fuzzy Valentine",
-                "Valentine"
-            ]
-        },
-        "expiration_date": 1503554399,
-        "title": "My Fuzzy Valentine",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.3881,
-        "episode_number": "13",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1581570000,
-        "modified": 1581219729,
-        "media_id": "bee43522f30b692925ca69c90a5d97356d243415",
-        "airing_id": "RADS1002072000061703",
-        "id": "sydZJtJDRU-O5iH5LCk0GQ",
-        "slug": "my-fuzzy-valentine",
-        "views": 7375,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870804604312.jpg",
-        "created": 1403210648,
-        "season_number": "3",
-        "title_id": "2003524",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1581219729,
-        "first_published": 1423455627,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502949600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870804604312.jpg",
-        "cma_id": "1454008"
     }
 ]

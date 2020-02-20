@@ -50,56 +50,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1520263860,
-        "auth": true,
-        "auth_expiration_date": 1582174740,
-        "tms_id": "EP018514630027",
-        "description": "When Mr. Goodman and his co-workers are kidnapped from Telemarketing Corp., he winds up the property of a farm owner who has a vendetta against telemarketers.",
-        "title_suggest": {
-            "input": [
-                "Telemarketers Are the Devil",
-                "Are the Devil",
-                "the Devil",
-                "Devil"
-            ]
-        },
-        "expiration_date": 1579150740,
-        "type": "episode",
-        "title": "Telemarketers Are the Devil",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 677.17,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1579150800,
-        "clip_order": null,
-        "media_id": "57268369f6dd44cbe35bd00dc73ac5542ff1ea3d",
-        "modified": 1579130167,
-        "airing_id": "RADS1001132000054235",
-        "id": "AWHToDZU0KIGIdXCKvmx",
-        "slug": "telemarketers-are-the-devil",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15196739434518.jpg",
-        "created": 1519673947,
-        "season_number": "3",
-        "title_id": "2120614",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1579130167,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "modified_by": "ODT Listener",
-        "launch_date": 1576126800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15196739434518.jpg"
-    },
-    {
         "ott_launch_date": 1521469860,
         "auth": true,
         "auth_expiration_date": 1583985540,
@@ -291,7 +241,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151974648293117.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1522074660,
         "auth_expiration_date": 1585195140,
         "tms_id": "EP018514630032",
@@ -473,6 +423,51 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152529299828715.jpg",
         "id": "AWMijH5aHAeP4-pUPe0o",
         "auth": false
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1520263860,
+        "auth_expiration_date": 1581569940,
+        "tms_id": "EP018514630026",
+        "description": "Tommy tries to protect a strange new friend from a military group that is out to capture him.",
+        "title_suggest": {
+            "input": [
+                "S.H.O.E.S"
+            ]
+        },
+        "title": "S.H.O.E.S",
+        "type": "episode",
+        "expiration_date": 1585195140,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.42,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1578546000,
+        "modified": 1582026652,
+        "media_id": "1ebd3d2ed17ce08a992eec6e2db6255f4543e931",
+        "airing_id": "RADS1002132000062889",
+        "id": "PgIM7J04SwmGLH09e7hjUQ",
+        "slug": "s-h-o-e-s",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151967391467517.jpg",
+        "created": 1500665697,
+        "season_number": "3",
+        "title_id": "2120611",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582026652,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582174800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151967391467517.jpg",
+        "cma_id": ""
     },
     {
         "auth": false,
