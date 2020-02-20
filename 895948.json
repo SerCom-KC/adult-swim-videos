@@ -915,6 +915,55 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1541566740,
+        "tms_id": "EP015632430029",
+        "description": "Interviews with Jimmy Kimmel and Tyler The Creator; Musical guest HEALTH.",
+        "title_suggest": {
+            "input": [
+                "Jimmy Kimmel; Tyler The Creator",
+                "Kimmel; Tyler The Creator",
+                "Tyler The Creator",
+                "The Creator",
+                "Creator"
+            ]
+        },
+        "title": "Jimmy Kimmel; Tyler The Creator",
+        "type": "episode",
+        "expiration_date": 1585195140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 646.6006006,
+        "episode_number": "8",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1538539200,
+        "modified": 1582026650,
+        "media_id": "a53a38e8ab45063ed91afc13a9ab6ebaab9b9042",
+        "airing_id": "RADS1002132000062886",
+        "id": "neK5nDXLSd2yDYye3WAmgA",
+        "slug": "jimmy-kimmel-tyler-the-creator",
+        "views": 127286,
+        "created": 1420730421,
+        "title_id": "2032602",
+        "tv_rating": "tv-ma-l",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1582026650,
+        "first_published": 1420730421,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582174800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/jimmy-kimmel-tyler-the-creator/ericandre_cc_28_pt1.jpg",
+        "cma_id": "1352878"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
         "description": "Protect your password.",
         "title_suggest": {
             "input": [
@@ -1129,55 +1178,6 @@
         "launch_date": 1576126800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_018_pt2_L4rgE-02.jpg",
         "cma_id": "2012286"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1562770740,
-        "tms_id": "EP015632430024",
-        "description": "Interviews with Ryan Kwanten and \"Beyonce & Jay Z\"; Musical guest Killer Mike and Action Bronson.",
-        "title_suggest": {
-            "input": [
-                "Ryan Kwanten; Beyonce & Jay-Z",
-                "Kwanten; Beyonce & Jay-Z",
-                "Beyonce & Jay-Z",
-                "& Jay-Z",
-                "Jay-Z"
-            ]
-        },
-        "expiration_date": 1582174740,
-        "title": "Ryan Kwanten; Beyonce & Jay-Z",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 655.9676343,
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1559746800,
-        "modified": 1578930160,
-        "media_id": "1d1bf58aabbc5e53ca35976060d6748dffb8dc85",
-        "airing_id": "RADS1001132000054228",
-        "id": "x9ev8CWGSC6m67JlegFUqA",
-        "slug": "ryan-kwanten-beyonce-jay-z",
-        "views": 3,
-        "created": 1416510622,
-        "season_number": "3",
-        "title_id": "2032598",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1578930160,
-        "first_published": 1416558022,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1579150800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/ryan-kwanten-beyonce-jay-z/ericandre_cc_23_pt1.jpg",
-        "cma_id": "2032598"
     },
     {
         "auth": true,
