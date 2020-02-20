@@ -157,53 +157,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1582174740,
-        "tms_id": "EP007164450214",
-        "description": "Roger loses his identity after becoming fascinated by a local dentist's wife. Meanwhile, Klaus throws a party when Stan and the kids are unable to move from being sore after working out.",
-        "title_suggest": {
-            "input": [
-                "The Dentist's Wife",
-                "Dentist's Wife",
-                "Wife"
-            ]
-        },
-        "title": "The Dentist's Wife",
-        "type": "episode",
-        "expiration_date": 1557154740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.1,
-        "episode_number": "12",
-        "original_air_date": null,
-        "auth_launch_date": 1581570000,
-        "clip_order": null,
-        "modified": 1581172567,
-        "media_id": "e0531106df1c5ed5955c3555f0a19df176fdf6fa",
-        "airing_id": "RADS1002072000061720",
-        "id": "7dJmcExrRtCnDk5rixt9Xw",
-        "slug": "the-dentists-wife",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002047527512.jpg",
-        "created": 1471320621,
-        "title_id": "2041485",
-        "tv_rating": "tv-14",
-        "season_number": "11",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1581172567,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1556550000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg",
-        "cma_id": "2041485"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1582433940,
         "tms_id": "EP007164450217",
         "description": "Stan loses his faith in religion after Steve questions everything in the Bible. He takes the family to Korea to investigate the rumors of a reinvented \"Noah's Ark.\"",
@@ -1090,5 +1043,55 @@
         "launch_date": 1556550000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002060033816.jpg",
         "cma_id": "1421325"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1582779540,
+        "tms_id": "EP007164450221",
+        "description": "Stan brings President Garfield back to life in order to teach Hayley about history. Steve writes for the school newspaper.",
+        "title_suggest": {
+            "input": [
+                "Garfield and Friends",
+                "and Friends",
+                "Friends"
+            ]
+        },
+        "expiration_date": 1557154740,
+        "title": "Garfield and Friends",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.97,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "19",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1582174800,
+        "modified": 1582026650,
+        "media_id": "f3dda050cea8bc61dfc36aebfd79bad7c77853da",
+        "airing_id": "RADS1002132000062882",
+        "id": "zZQ5HOGITi-MZLcWyokOvw",
+        "slug": "garfield-and-friends",
+        "views": 2209,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200192969994.jpg",
+        "created": 1463670440,
+        "season_number": "11",
+        "title_id": "2046303",
+        "tv_rating": "tv-14-ds",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582026650,
+        "first_published": 1473394230,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1556550000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg",
+        "cma_id": "1425039"
     }
 ]
