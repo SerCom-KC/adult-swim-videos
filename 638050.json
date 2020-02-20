@@ -49,6 +49,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1446762720,
+        "auth_expiration_date": null,
+        "tms_id": "EP008626240002",
+        "rating": 7.6881824,
+        "description": "Billionaire tycoon Xander Crews (and his alter-ego, superhero Awesome-X)have a problem: billionaire tycoon Xander Crews has frittered away the (literally) billions of dollars amassed  by his murdered parents.  So he mortgages the company to produce a line of Awesome-X action figures.  The only catch is, he needs a supervillain doll...",
+        "title_suggest": {
+            "input": [
+                "Meet Awesome X",
+                "Awesome X",
+                "X"
+            ]
+        },
+        "type": "episode",
+        "title": "Meet Awesome X",
+        "expiration_date": 1585195140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 689.005,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1582026651,
+        "media_id": "11e495a8f3031caade1559ffd2a202d48000e2d2",
+        "airing_id": "RADS1002132000062887",
+        "id": "AtuynknuRCqWtYzMak78Pw",
+        "slug": "meet-awesome-x",
+        "views": 614048,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945466,
+        "title_id": "640586",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582026651,
+        "tags": [
+            "frisky dingo episode 2 meet awesome x xander crews billionaire postcard"
+        ],
+        "rating_count": 2107,
+        "collection_title": "Frisky Dingo",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582174800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/meet-awesome-x/fd_002_bim_rev.jpg",
+        "cma_id": "926760"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1452088800,
         "tms_id": "EP008626240030",
         "rating": 8.996669,
@@ -196,57 +250,5 @@
         "launch_date": 1581570000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/meet-killface/fd_001_bim.jpg",
         "cma_id": "926924"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446763320,
-        "auth_expiration_date": null,
-        "tms_id": "EP008626240027",
-        "rating": 8.902401,
-        "description": "The film Hooper is heavily borrowed from.",
-        "title_suggest": {
-            "input": [
-                "A Take on 'Hooper'",
-                "Take on 'Hooper'",
-                "on 'Hooper'",
-                "'Hooper'"
-            ]
-        },
-        "type": "episode",
-        "title": "A Take on 'Hooper'",
-        "expiration_date": 1582174740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 629.014,
-        "episode_number": "9",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1579732566,
-        "media_id": "26b0c7ee5515ee6ba8d93824ef86d8ad30b9a0f6",
-        "airing_id": "RADS1001132000054234",
-        "id": "nW3vrutEQXiwa2XCh0hUwQ",
-        "slug": "a-take-on-hooper",
-        "views": 577643,
-        "thumbnail": "",
-        "created": 1402945466,
-        "title_id": "707261",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579732566,
-        "tags": [],
-        "rating_count": 2992,
-        "collection_title": "Frisky Dingo",
-        "modified_by": "ODT Listener",
-        "launch_date": 1579150800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/a-take-on-hooper/fd_022_bim.jpg",
-        "cma_id": ""
     }
 ]
