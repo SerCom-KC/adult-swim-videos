@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 21, 2020 at 01:00:34 EST_
+_Last Update: February 21, 2020 at 02:00:38 EST_
 ## Video added
-No videos were added.  
+### Summary
+581006 American Dad: 1  
+### 2069569
+**American Dad S13E16 - Persona Assistant**  
+TV-14-DLSV 🔒 21:02  
+⌛ February 28, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/american-dad/persona-assistant  
+seriesid=`581006` titleid=`2069569` id=`AWUlXVF1h5enQuYyHJfG` mediaid=`4cef04fe5be193d3d9142aa77acc8e97381757a6`  
+_In American Dad's 250th episode, Roger has a medical emergency and Stan has to take over his personas._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844918296313.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844918296313.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2097195
-**Bob's Burgers S06E07 - The Gene & Courtney Show**  
-TV-PG 🔒 21:36  
-⌛ February 21, 2020 at 00:29:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-gene-courtney-show  
-seriesid=`2003422` titleid=`2097195` id=`0AdbNN_BQna5isz9nm-d8w` mediaid=`d20f210e961b22cdf3d1f662940d1802a77acbb2`  
-_Gene and Courtney get their big break when they are asked to be the new hosts of the morning announcements, but their romantic history threatens to get in the way. Meanwhile, Tina's attempt to play Cupid goes tragically awry when she volunteers to spearhead the Valentine's Day carnation fundraiser._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-gene-courtney-show/bobsburgers_601_air_cid-2WX48.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-gene-courtney-show/bobsburgers_601_air_cid-2WX48.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 2069559
+**American Dad S13E06 - Klaustastrophe.tv**  
+TV-14-DLSV 🔓 21:02  
+⌛ February 21, 2020 at 01:29:00 EST  
+https://www.adultswim.com/videos/american-dad/klaustastrophe-tv  
+seriesid=`581006` titleid=`2069559` id=`AWHnfmza0KIGIdXCKzuM` mediaid=`b097c66fe3a817effdd244ffc3182fb7cbeb1ccf`  
+_Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg" height="144px" /></a>
