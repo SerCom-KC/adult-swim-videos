@@ -1,5 +1,56 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583040540,
+        "tms_id": "EP012792980059",
+        "description": "To compete with fellow \"restaurateur\" Jimmy Pesto, and his blowout Super Bowl event, Bob is determined to create a Bob's Burgers commercial to air during the big game. In an effort to outshine Pesto, the Belchers recruit Randy, a documentarian, to assist with the filmmaking, and hire on former pro football star Connie Frye to be the celebrity endorser.",
+        "title_suggest": {
+            "input": [
+                "Easy Com-Mercial, Easy Go-Mercial",
+                "Com-Mercial, Easy Go-Mercial",
+                "Easy Go-Mercial",
+                "Go-Mercial"
+            ]
+        },
+        "title": "Easy Com-Mercial, Easy Go-Mercial",
+        "type": "episode",
+        "expiration_date": 1504848599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.2233,
+        "episode_number": "11",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1582435800,
+        "modified": 1582068486,
+        "media_id": "32a217133a8ac5c350ce74d883d03128bc11a763",
+        "airing_id": "RADS1002132000062939",
+        "id": "0piNZQkURO2_ioAArzVaDQ",
+        "slug": "easy-com-mercial-easy-go-mercial",
+        "views": 2,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267557634713.jpg",
+        "created": 1411571139,
+        "season_number": "4",
+        "title_id": "2030650",
+        "tv_rating": "",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1582068486,
+        "first_published": 1411571139,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1504243800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267557634713.jpg",
+        "cma_id": "1464049"
+    },
+    {
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1582525740,
@@ -392,54 +443,6 @@
         "launch_date": 1503554400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg",
         "cma_id": "2003534"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1582435740,
-        "tms_id": "EP012792980048",
-        "description": "While acting as a parent chaperone on the school's trip to the museum, Bob has a father- daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy. Also, Tina questions her dorkiness; and on the steps of the museum, Linda lends her unique chanting abilities to striking museum workers.",
-        "title_suggest": {
-            "input": [
-                "Carpe Museum",
-                "Museum"
-            ]
-        },
-        "expiration_date": 1504157399,
-        "title": "Carpe Museum",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1275.5409,
-        "episode_number": "22",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1581831000,
-        "modified": 1581481207,
-        "media_id": "8e674d0188137794e2f77427f47ae40e6816f65b",
-        "airing_id": "RADS1002112000061998",
-        "id": "h-8I3clIQR2tn_K2jbkuMg",
-        "slug": "carpe-museum",
-        "views": 6123,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085671641218.jpg",
-        "created": 1403211516,
-        "season_number": "3",
-        "title_id": "2003533",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1581481207,
-        "first_published": 1422850826,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503552600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg",
-        "cma_id": "2003533"
     },
     {
         "auth": true,
