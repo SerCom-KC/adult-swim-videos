@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 23, 2020 at 04:30:38 EST_
+_Last Update: February 23, 2020 at 05:00:49 EST_
 ## Video added
 ### Summary
-2209292 Demon Slayer: 1  
-### 2209309
-**Demon Slayer S01E17 - You Must Master a Single Thing**  
-TV-MA-V 🔒 20:54  
-⌛ March 15, 2020 at 03:59:00 EDT  
-https://www.adultswim.com/videos/demon-slayer/you-must-master-a-single-thing  
-seriesid=`2209292` titleid=`2209309` id=`AXA0yK583HMJfT8do8cg` mediaid=`09b255dd81a7d9ea412a6d437024ab7d1a51562c`  
-_Tanjiro discovers a possible cure for Nezuko while Zenitsu faces his fears, only to find a face he fears._  
-<a href="https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_20211105255-DemonSlayer_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_20211105255-DemonSlayer_017.jpg" height="144px" /></a>
+2143080 Black Clover: 1  
+2201017 Food Wars!: 1  
+### 2216642
+**Black Clover S03E03 - Path of Revenge, Path of Atonement**  
+TV-PG-LV 🔒 00:00  
+⌛ March 15, 2020 at 05:00:00 EDT  
+https://www.adultswim.com/videos/black-clover/path-of-revenge-path-of-atonement  
+seriesid=`2143080` titleid=`2216642` id=`AXBu-vlnGRcVO2K2pm81` mediaid=`cfbdf7ed7d1348d25f887fdf020c1b52f16ba06f`  
+_Fueled by Charmy's magical meals, Asta's team detours to defend Hecairo on their way to the royal capital and picks up a trio of most unlikely allies._  
+<a href=""><img src="" height="144px" /></a>
+### 2201047
+**Food Wars! S02E30 - Morning Shall Come Again**  
+TV-MA-S 🔒 23:08  
+⌛ March 15, 2020 at 04:29:00 EDT  
+https://www.adultswim.com/videos/food-wars/morning-shall-come-again  
+seriesid=`2201017` titleid=`2201047` id=`AW_oWlJz3HMJfT8do7rb` mediaid=`74c6bb05966e223b3b06abd9ea98e23a944eb566`  
+_The battle between Soma and Mimasaka begins! Immediately, Mimasaka's mimicry of Soma's dish comes into play. Can Soma beat this detail oriented "mirror" chef?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271353472-FoodWars_030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271353472-FoodWars_030.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
