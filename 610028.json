@@ -401,6 +401,54 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1564811940,
+        "tms_id": "EP007753880017",
+        "rating": 8.355362,
+        "description": "Granddad forces the kids to sneak into the long awaited sequel for Soul Plane 2. What follows is bootlegging, nunchucks, and twenty dollar popcorn - everything a day at the movies should be.",
+        "title_suggest": {
+            "input": [
+                "...Or Die Trying",
+                "Die Trying",
+                "Trying"
+            ]
+        },
+        "type": "episode",
+        "title": "...Or Die Trying",
+        "expiration_date": 1583125140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
+        "duration": 1240.5338672,
+        "episode_number": "1",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1562997600,
+        "modified": 1582104486,
+        "airing_id": "RADS1002132000063002",
+        "media_id": "1af6a7d7d9142c56adee8ced87ef383272fe59c0",
+        "id": "EVdZs9TKRpOywQhXheVftQ",
+        "slug": "or-die-trying",
+        "views": 1217321,
+        "created": 1402945478,
+        "title_id": "682880",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1582104486,
+        "tags": [],
+        "rating_count": 13873,
+        "collection_title": "The Boondocks",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582520400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_205_pt1-06.jpg",
+        "cma_id": "1386550"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1583125199,
@@ -455,54 +503,6 @@
         "launch_date": 1470808800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_309_pt3-03.jpg",
         "cma_id": "1239903"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1563600540,
-        "tms_id": "EP007753880009",
-        "rating": 7.3855305,
-        "description": "When Granddad's oldest friend dies, the Freemans go back home and both Granddad and Huey have to learn to put the past behind them. ",
-        "title_suggest": {
-            "input": [
-                "Wingmen"
-            ]
-        },
-        "type": "episode",
-        "title": "Wingmen",
-        "expiration_date": 1582520340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1302.3003003,
-        "episode_number": "13",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1562391000,
-        "modified": 1581522851,
-        "airing_id": "RADS1002112000062265",
-        "media_id": "250204b9dcae1ecd09d71fd0245f396ed60ef8c9",
-        "id": "FD7BiqoZTNWFrhEUl0ZF1w",
-        "slug": "wingmen",
-        "views": 492278,
-        "created": 1402945478,
-        "title_id": "627812",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1581522851,
-        "tags": [
-            "boondocks episode 11 wingmen chicago wwii funeral ciro"
-        ],
-        "rating_count": 2944,
-        "collection_title": "The Boondocks",
-        "modified_by": "ODT Listener",
-        "launch_date": 1581915600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_111_pt2-01.jpg",
-        "cma_id": "1042038"
     },
     {
         "auth": false,
@@ -684,105 +684,53 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1562392740,
-        "tms_id": "EP007753880004",
-        "rating": 7.203871,
-        "description": "Granddad opens \"The Itis,\" the first and only soul food restaurant in Woodcrest. White people never expected it. They also didn't expect high cholesterol, heart disease and obesity.",
+        "auth_expiration_date": 1565414940,
+        "tms_id": "EP007753880020",
+        "rating": 8.208485,
+        "description": "Granddad's nemesis, Colonel H. Stinkmeaner, returns from hell to seek vengence on the Freemans and picks an unlikely vessel in poor Tom.",
         "title_suggest": {
             "input": [
-                "The Itis",
-                "Itis"
+                "Stinkmeaner Strikes Back",
+                "Strikes Back",
+                "Back"
             ]
         },
         "type": "episode",
-        "title": "The Itis",
-        "expiration_date": 1582520340,
+        "title": "Stinkmeaner Strikes Back",
+        "expiration_date": 1583125140,
         "platforms": [
             "web",
             "mobile"
         ],
         "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1190.7674341,
-        "episode_number": "10",
+        "duration": 1259.0333667,
+        "episode_number": "4",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1561183200,
-        "modified": 1581611290,
-        "media_id": "22c7197a9b2ce5918ffec3b2bed3b0200888bb87",
-        "airing_id": "RADS1002112000062270",
-        "id": "Vs575PcpT7iIvlj43Z9UvA",
-        "slug": "the-itis",
-        "views": 901072,
+        "auth_launch_date": 1564205400,
+        "modified": 1582104007,
+        "media_id": "73a408f4fb8118b270fe92ebbd2e9f9e3198a12e",
+        "airing_id": "RADS1002132000063007",
+        "id": "UTQ062nxRmCm9sYNMhb0Tg",
+        "slug": "stinkmeaner-strikes-back",
+        "views": 1406932,
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154082804621318.jpg",
+        "thumbnail": "",
         "created": 1402945478,
-        "title_id": "627809",
-        "season_number": "1",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1581611290,
-        "tags": [
-            "boondocks episode 8 the itis restaurant food luther burger"
-        ],
-        "rating_count": 6926,
-        "collection_title": "The Boondocks",
-        "modified_by": "ODT Listener",
-        "launch_date": 1581915600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154082804621318.jpg",
-        "cma_id": "1016495"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1579166940,
-        "tms_id": "EP007753880007",
-        "rating": 7.2994103,
-        "description": "A well meaning, liberal teacher offers Huey the chance to direct the elementary school Christmas play, and Huey decides to release his vision onto the world: \"The Adventures of Black Jesus.\"",
-        "title_suggest": {
-            "input": [
-                "A Huey Freeman Christmas",
-                "Huey Freeman Christmas",
-                "Freeman Christmas",
-                "Christmas"
-            ]
-        },
-        "type": "episode",
-        "title": "A Huey Freeman Christmas",
-        "expiration_date": 1582520340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1297.4004004,
-        "episode_number": "8",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1576575000,
-        "modified": 1581610573,
-        "airing_id": "RADS1002112000062271",
-        "media_id": "b39bda7fd90c3479b7bb8c9784973f0f30974022",
-        "id": "WAUdVb0SSSqDiwjsSLRsXQ",
-        "slug": "a-huey-freeman-christmas",
-        "views": 884602,
-        "created": 1402945478,
-        "title_id": "627810",
-        "season_number": "1",
+        "title_id": "682876",
+        "season_number": "2",
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1581610573,
-        "tags": [
-            "boondocks episode 9 huey freeman christmas play black jesus school pageant santa"
-        ],
-        "rating_count": 7291,
+        "blacklist": [],
+        "published": 1582104007,
+        "tags": [],
+        "rating_count": 16111,
         "collection_title": "The Boondocks",
         "modified_by": "ODT Listener",
-        "launch_date": 1581915600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_109_pt2-02.jpg",
-        "cma_id": "1312211"
+        "launch_date": 1582520400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_201_pt1-09.jpg",
+        "cma_id": "1050883"
     },
     {
         "auth": false,
@@ -847,60 +795,6 @@
         "launch_date": 1484943675,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240761921499.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1563600540,
-        "tms_id": "EP007753880011",
-        "rating": 7.644646,
-        "description": "Huey has to stop Riley and a small gang of misfit idiots from nabbing the talk show deity, Oprah.",
-        "title_suggest": {
-            "input": [
-                "Let's Nab Oprah",
-                "Nab Oprah",
-                "Oprah"
-            ]
-        },
-        "type": "episode",
-        "title": "Let's Nab Oprah",
-        "expiration_date": 1582520340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1353.667334,
-        "episode_number": "11",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1561786200,
-        "modified": 1581612014,
-        "media_id": "f96989adcaba3ffe15d2001abb4e623de0c393f8",
-        "airing_id": "RADS1002112000062266",
-        "id": "ccahU1SORCKuhv6w82f2yA",
-        "slug": "lets-nab-oprah",
-        "views": 767779,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154144839091313.jpg",
-        "created": 1402945478,
-        "title_id": "627813",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1581612014,
-        "tags": [
-            "boondocks",
-            "Let's Nab Oprah"
-        ],
-        "rating_count": 4072,
-        "collection_title": "The Boondocks",
-        "modified_by": "ODT Listener",
-        "launch_date": 1581915600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154144839091313.jpg",
-        "cma_id": "1038485"
     },
     {
         "auth": false,
@@ -1023,6 +917,114 @@
         "launch_date": 1484848681,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240746511079.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1564207140,
+        "tms_id": "EP007753880015",
+        "rating": 6.942263,
+        "description": "Jazmine learns the true meaning of \"Capitalism\" when she sells her lemonade stand to corporate tycoon, Ed Wuncler.",
+        "title_suggest": {
+            "input": [
+                "The Block is Hot",
+                "Block is Hot",
+                "is Hot",
+                "Hot"
+            ]
+        },
+        "type": "episode",
+        "title": "The Block is Hot",
+        "expiration_date": 1583125140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
+        "duration": 1334.7007007,
+        "episode_number": "14",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1562392800,
+        "modified": 1582109528,
+        "airing_id": "RADS1002132000063005",
+        "media_id": "c960d24888d1c95d80dc5f2eaa0e069bccdd1cf2",
+        "id": "kPauinkeQquApHCqpiKPyQ",
+        "slug": "the-block-is-hot",
+        "views": 558794,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154325679619418.jpg",
+        "created": 1402945478,
+        "title_id": "627815",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582109528,
+        "tags": [
+            "boondocks",
+            "block is hot",
+            "episode 14"
+        ],
+        "rating_count": 3031,
+        "collection_title": "The Boondocks",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582520400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325679619418.jpg",
+        "cma_id": "1043316"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1565416740,
+        "tms_id": "EP007753880019",
+        "rating": 7.65144,
+        "description": "A rash of home invasions has Woodcrest in a panic and the neighborhood watch on high alert. The Freemans are all too eager to mind their own business. But when Riley witnesses the theft of Granddad's precious car Dorothy, will he crack under questioning?  We're not telling.",
+        "title_suggest": {
+            "input": [
+                "Thank You For Not Snitching",
+                "You For Not Snitching",
+                "For Not Snitching",
+                "Not Snitching",
+                "Snitching"
+            ]
+        },
+        "type": "episode",
+        "title": "Thank You For Not Snitching",
+        "expiration_date": 1583125140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
+        "duration": 1148.8675342,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1563602400,
+        "modified": 1582110607,
+        "airing_id": "RADS1002132000063012",
+        "media_id": "c36ffb0e75844cb22db1371383a33b4f0f4e863e",
+        "id": "rw5cPS_-QjSYu_lmBsUwMw",
+        "slug": "thank-you-for-not-snitching",
+        "views": 1360626,
+        "created": 1402945478,
+        "title_id": "682878",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1582110607,
+        "tags": [
+            "boondocks thank you for not snitching episode 18"
+        ],
+        "rating_count": 12084,
+        "collection_title": "The Boondocks",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582520400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_203_pt1-05.jpg",
+        "cma_id": "1050551"
     },
     {
         "auth": false,
@@ -1189,49 +1191,52 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1562997540,
-        "tms_id": "EP007753880012",
-        "rating": 7.3915977,
-        "description": "Riley's affinity for graffiti goes too far when neighbors wake up to giant murals on their homes. Maybe a sweet natured, psycho war vet art teacher can help reel him in. \r\n\r\n",
+        "auth_expiration_date": 1564810140,
+        "tms_id": "EP007753880018",
+        "rating": 7.9306045,
+        "description": "After a chance meeting with Usher at a restaurant puts a strain on Tom and Sarah's marriage, Tom turns to A Pimp Named Slickback to help rescue his relationship.",
         "title_suggest": {
             "input": [
-                "Riley Wuz Here",
-                "Wuz Here",
-                "Here"
+                "Tom, Sarah and Usher",
+                "Sarah and Usher",
+                "and Usher",
+                "Usher"
             ]
         },
         "type": "episode",
-        "title": "Riley Wuz Here",
-        "expiration_date": 1582520340,
+        "title": "Tom, Sarah and Usher",
+        "expiration_date": 1583125140,
         "platforms": [
             "web",
             "mobile"
         ],
         "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1357.4671338,
-        "episode_number": "12",
+        "duration": 1262.6006006,
+        "episode_number": "2",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": 1561788000,
-        "modified": 1581513368,
-        "airing_id": "RADS1002112000062274",
-        "media_id": "3fba4abf51112936b37f33d486a92b5875907399",
-        "id": "wkk3t_z2Q2KwUZKl6jQoIw",
-        "slug": "riley-wuz-here",
-        "views": 535070,
+        "auth_launch_date": 1563600600,
+        "modified": 1582111207,
+        "airing_id": "RADS1002132000063009",
+        "media_id": "e2bbd74ca0ecb9ba1659598c6ac3732a58156ea4",
+        "id": "zuHUznwGSEaDjXrxiGWA9A",
+        "slug": "tom-sarah-and-usher",
+        "views": 1186611,
         "created": 1402945478,
-        "title_id": "627814",
-        "season_number": "1",
+        "title_id": "682877",
+        "season_number": "2",
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1581513368,
-        "tags": [],
-        "rating_count": 3118,
+        "published": 1582111207,
+        "tags": [
+            "boondocks tom sarah usher episode 17"
+        ],
+        "rating_count": 13000,
         "collection_title": "The Boondocks",
         "modified_by": "ODT Listener",
-        "launch_date": 1581915600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_113_pt1-06.jpg",
-        "cma_id": ""
+        "launch_date": 1582520400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/boondocks_cc_202_pt3-02.jpg",
+        "cma_id": "1386844"
     }
 ]
