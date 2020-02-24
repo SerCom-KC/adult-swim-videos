@@ -56,7 +56,7 @@
         "cma_id": "1201284"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370069",
@@ -1049,6 +1049,64 @@
         "launch_date": 1434267000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568407619962.jpg",
         "cma_id": "1086333"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370074",
+        "description": "Goku leads his Saiyan brethren to a secret room designed for highly-advanced training. Meanwhile, Piccolo puts his enhanced powers to the test against an Android adversary!",
+        "title_suggest": {
+            "input": [
+                "Break the Super Saiyan Barrier! Into the Hyperbolic Time Chamber!",
+                "the Super Saiyan Barrier! Into the Hyperbolic Time Chamber!",
+                "Super Saiyan Barrier! Into the Hyperbolic Time Chamber!",
+                "Saiyan Barrier! Into the Hyperbolic Time Chamber!",
+                "Barrier! Into the Hyperbolic Time Chamber!",
+                "Into the Hyperbolic Time Chamber!",
+                "the Hyperbolic Time Chamber!",
+                "Hyperbolic Time Chamber!",
+                "Time Chamber!",
+                "Chamber!"
+            ]
+        },
+        "expiration_date": 1585540799,
+        "title": "Break the Super Saiyan Barrier! Into the Hyperbolic Time Chamber!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1264,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "72",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1582099326,
+        "media_id": "5c768a5b9a9cf690e5bc5458958cc8cd6e7abd23",
+        "airing_id": "RADS1002132000062984",
+        "id": "9vsNGJpvRV2fK1E1mKMGmA",
+        "slug": "break-the-super-saiyan-barrier-into-the-hyperbolic-time-chamber",
+        "views": 2242,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210167138-dragonballzkai_072_air_cid-2TWPG.jpg",
+        "created": 1458568898,
+        "season_number": "1",
+        "title_id": "2031683",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582099326,
+        "first_published": 1463836219,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1582520400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210167138-dragonballzkai_072_air_cid-2TWPG.jpg",
+        "cma_id": "1226296"
     },
     {
         "auth": true,
