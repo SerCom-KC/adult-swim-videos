@@ -101,52 +101,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1582525740,
-        "tms_id": "EP012792980116",
-        "description": "When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend.",
-        "title_suggest": {
-            "input": [
-                "The Quirk-Ducers",
-                "Quirk-Ducers"
-            ]
-        },
-        "title": "The Quirk-Ducers",
-        "type": "episode",
-        "expiration_date": 1564977540,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1300.63,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1581921000,
-        "clip_order": null,
-        "media_id": "c9c34718faeb1e812d3b7827ba7a72332c152649",
-        "modified": 1581524407,
-        "airing_id": "RADS1002112000062272",
-        "id": "AWG1Yym-NWyh42wYnk6f",
-        "slug": "the-quirk-ducers",
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15198454863205.jpg",
-        "created": 1519166630,
-        "title_id": "2132992",
-        "tv_rating": "tv-pg-dlv",
-        "season_number": "7",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1581524407,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1564372800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1577428140,
         "tms_id": "EP012792980141",
         "description": "Linda is determined to host a party at the restaurant in order to spread a little cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she begins questioning all the guests.",
@@ -293,6 +247,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg",
         "id": "AWd63rgSqD68dq0Op5t4",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583130540,
+        "tms_id": "EP012792980118",
+        "description": "When Tina hurts her ankle, she is left with no choice but to telecommute to school. After enrolling in a program that allows her to send a robot version of herself to class, Tina finds herself having an unexpected breakthrough with Jimmy Jr.",
+        "title_suggest": {
+            "input": [
+                "Ex Machtina",
+                "Machtina"
+            ]
+        },
+        "expiration_date": 1554735540,
+        "title": "Ex Machtina",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1308.4004004,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "4",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1582525800,
+        "modified": 1582115647,
+        "media_id": "dbac9700328ed65b8ecd83c34930cd1abc609247",
+        "airing_id": "RADS1002132000063006",
+        "id": "BG0pb6rnSyu09zSBqyL_MA",
+        "slug": "ex-machtina",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15103318419278.jpg",
+        "created": 1505843811,
+        "season_number": "7",
+        "title_id": "2132974",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582115647,
+        "first_published": 1508991029,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554130800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15103318419278.jpg",
+        "cma_id": "2132974"
     },
     {
         "auth": true,
