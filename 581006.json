@@ -1,5 +1,51 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583211540,
+        "tms_id": "EP007164450225",
+        "description": "The Smith family forgets to celebrate Father's Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him.",
+        "title_suggest": {
+            "input": [
+                "Father's Daze",
+                "Daze"
+            ]
+        },
+        "title": "Father's Daze",
+        "type": "episode",
+        "expiration_date": 1566791940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.9,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1582606800,
+        "clip_order": null,
+        "modified": 1582309687,
+        "media_id": "0d1b8527d9a327620560c807c976b68ecc297936",
+        "airing_id": "RADS1002212000065435",
+        "id": "1tfpfZcEQEulM8Gwxer2rg",
+        "slug": "fathers-daze",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151793526969010.jpg",
+        "created": 1479021033,
+        "title_id": "2069532",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1582309687,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1566187200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg",
+        "cma_id": "1326905"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1582181940,
         "tms_id": "EP007164450254",
@@ -730,60 +776,6 @@
         "launch_date": 1582520400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1582606740,
-        "tms_id": "EP007164450219",
-        "description": "When Roger breaks his ankle, Francine convinces Stan to let him play in his basketball league. Meanwhile, Steve sings a song that parodies R. Kelley's \"Trapped in the Closet.\"",
-        "title_suggest": {
-            "input": [
-                "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
-                "Applesauce: The Ballad of Billy Jesusworth",
-                "The Ballad of Billy Jesusworth",
-                "Ballad of Billy Jesusworth",
-                "of Billy Jesusworth",
-                "Billy Jesusworth",
-                "Jesusworth"
-            ]
-        },
-        "expiration_date": 1555340340,
-        "title": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1273.7,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "17",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1582002000,
-        "modified": 1582026652,
-        "media_id": "7ca3f7b503b9411dfa2ef8f13687dfba332ec197",
-        "airing_id": "RADS1002122000062484",
-        "id": "W3K_g_63TnWUsXFUZ6YMbA",
-        "slug": "criss-cross-applesauce-the-ballad-of-billy-jesusworth",
-        "views": 1692,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152001919490614.jpg",
-        "created": 1462302500,
-        "season_number": "11",
-        "title_id": "2046301",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1582026652,
-        "first_published": 1472789432,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554735600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001919490614.jpg",
-        "cma_id": "1417554"
     },
     {
         "auth": true,
