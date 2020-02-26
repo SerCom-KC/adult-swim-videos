@@ -1,57 +1,56 @@
 {
-    "updated": 1582700490,
-    "added": [],
-    "removed": [
+    "updated": 1582702289,
+    "added": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1582700340,
-            "tms_id": "EP007164450261",
-            "description": "Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat.",
+            "auth": true,
+            "auth_expiration_date": 1583306940,
+            "tms_id": "EP002960010019",
+            "rating": 7.7099056,
+            "description": "The Griffins star in a reality television show, but Meg quits, prompting the producers to replace her with a scantily-clad vixen Meg while the real girl becomes a nanny for the Von Trapp children.\r\n",
             "title_suggest": {
                 "input": [
-                    "Mean Francine",
-                    "Francine"
+                    "Fifteen Minutes of Shame",
+                    "Minutes of Shame",
+                    "of Shame",
+                    "Shame"
                 ]
             },
-            "title": "Mean Francine",
             "type": "episode",
-            "expiration_date": 1580705940,
+            "title": "Fifteen Minutes of Shame",
+            "expiration_date": 1487230199,
             "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
+                "web",
+                "mobile"
             ],
-            "collection_id": "kuykLeORSBmAK6JteESFCw",
-            "duration": 1263.1953,
-            "episode_number": "13",
-            "original_air_date": null,
-            "auth_launch_date": 1582095600,
-            "clip_order": null,
-            "airing_id": "RADS1002132000062875",
-            "media_id": "8965a176e09a79fd6c253187717958cb8fb2bd11",
-            "modified": 1581669369,
-            "slug": "mean-francine",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155844913831519.jpg",
-            "created": 1558107612,
-            "title_id": "2069566",
-            "season_number": "13",
-            "tv_rating": "tv-14-dlv",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1581669369,
-            "tags": [],
-            "collection_title": "American Dad",
-            "disable_ads": false,
+            "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+            "duration": 1351.1498,
+            "episode_number": "12",
+            "auth_launch_date": 1582702200,
+            "modified": 1582317366,
+            "media_id": "f421e370039374c31d9799846f0f1da78bbf7196",
+            "airing_id": "RADS1002212000065448",
+            "id": "YIx5FIKzQPexK0mrcdMqDg",
+            "slug": "fifteen-minutes-of-shame",
+            "views": 481498,
+            "created": 1402945465,
+            "title_id": "441031",
+            "season_number": "2",
+            "tv_rating": "tv-14-dls",
+            "active": false,
+            "published": 1582317366,
+            "tags": [
+                "family guy episode 208 fifteen minutes of shame reality television show tv meg replacement embarrassing"
+            ],
+            "rating_count": 1272,
+            "collection_title": "Family Guy",
             "modified_by": "ODT Listener",
-            "launch_date": 1580101200,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844913831519.jpg",
-            "id": "AWrGc2RCCorLtcgflqgM",
-            "auth": true,
-            "collection_slug": "american-dad",
-            "collection_title_id": "581006",
+            "launch_date": 1486625400,
+            "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_50705.jpg",
+            "cma_id": "1341466",
+            "collection_slug": "family-guy",
+            "collection_title_id": "440990",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
