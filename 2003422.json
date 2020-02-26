@@ -396,52 +396,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1582693140,
-        "tms_id": "EP012792980051",
-        "description": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt,\" the most charming pilot in the air.",
-        "title_suggest": {
-            "input": [
-                "Seaplane!"
-            ]
-        },
-        "title": "Seaplane!",
-        "type": "episode",
-        "expiration_date": 1504342799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1294.8269,
-        "episode_number": "3",
-        "original_air_date": null,
-        "auth_launch_date": 1582088400,
-        "clip_order": null,
-        "modified": 1581667328,
-        "media_id": "04718512dcc45036018c4e92099724090fd93b84",
-        "airing_id": "RADS1002132000062877",
-        "id": "ifvc24W8Q-qBRnvUpRjLcw",
-        "slug": "seaplane",
-        "views": 6916,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267538029215.jpg",
-        "created": 1410751254,
-        "title_id": "2030306",
-        "tv_rating": "tv-14",
-        "season_number": "4",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1581667328,
-        "first_published": 1410751254,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503738000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg",
-        "cma_id": "2030306"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1583211540,
         "tms_id": "EP012792980061",
         "description": "Tina isn't invited to her classmate Tammy's Bat Mitzvah, but ends up at the party anyway, because Bob and the family were hired to cater. Despite the invite snub, Tina is excited to scope out the BFOS (boys from other schools). Things go awry and Louise and Tammy end up missing, so, to her total delight, Tina is left center stage.",
@@ -633,5 +587,56 @@
         "launch_date": 1504157400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg",
         "cma_id": "1463609"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583297940,
+        "tms_id": "EP012792980063",
+        "description": "The Belchers take a trip on a train, and to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a \"taste-off\" with a snobby couple.",
+        "title_suggest": {
+            "input": [
+                "The Kids Rob a Train",
+                "Kids Rob a Train",
+                "Rob a Train",
+                "a Train",
+                "Train"
+            ]
+        },
+        "title": "The Kids Rob a Train",
+        "type": "episode",
+        "expiration_date": 1505194199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.021,
+        "episode_number": "15",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1582693200,
+        "modified": 1582317247,
+        "media_id": "ac5753e20556bd176c26fd56dad1f85d5cb194f6",
+        "airing_id": "RADS1002212000065453",
+        "id": "xx3aqtTlTuuRU3V__UcHJA",
+        "slug": "the-kids-rob-a-train",
+        "views": 7238,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803238483417.jpg",
+        "created": 1411571297,
+        "season_number": "4",
+        "title_id": "2030317",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582317247,
+        "first_published": 1411571297,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1504589400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg",
+        "cma_id": "1465533"
     }
 ]
