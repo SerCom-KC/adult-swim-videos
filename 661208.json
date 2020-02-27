@@ -102,6 +102,58 @@
         "cma_id": "1361277"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447783980,
+        "auth_expiration_date": 1575435540,
+        "tms_id": "EP008994530014",
+        "rating": 7.7762036,
+        "description": "Baseball Man is forced to take action after noticing odd behavior from one of Chip's dolls during his date with Cindy.  (John C Reilly, Patton Oswalt)",
+        "title_suggest": {
+            "input": [
+                "Dolls"
+            ]
+        },
+        "type": "episode",
+        "title": "Dolls",
+        "expiration_date": 1585799940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 656.32,
+        "episode_number": "4",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1572408000,
+        "modified": 1582519567,
+        "media_id": "72eb949d259bc08645f120695779003ef88d7a02",
+        "airing_id": "RADS1002242000065749",
+        "id": "GTvnoqU1QXCC6oGj0Q6dQg",
+        "slug": "dolls",
+        "views": 614765,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154871416673117.jpg",
+        "created": 1402945481,
+        "title_id": "691940",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582519567,
+        "tags": [
+            "time and eric awesome show great job episode 14 dolls baseball man chip john c reilly steve brule john c reilly patton oswalt beaver boys shrimp white wine"
+        ],
+        "rating_count": 5219,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582779600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154871416673117.jpg",
+        "cma_id": "1294433"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447784460,
         "auth_expiration_date": 1584503940,
@@ -410,58 +462,6 @@
         "launch_date": 1560398400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_307_pt1-05.jpg",
         "cma_id": "1352293"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447783860,
-        "auth_expiration_date": 1572407940,
-        "tms_id": "EP008994530010",
-        "rating": 5.9164257,
-        "description": "SPECIAL: It's the celebratory 50th Anniversary Show of Tim and Eric's Awesome Show Great Job.\r\n(Bob Odenkirk, Tom Kenny guest star)",
-        "title_suggest": {
-            "input": [
-                "Anniversary"
-            ]
-        },
-        "type": "episode",
-        "title": "Anniversary",
-        "expiration_date": 1582779540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 705.001,
-        "episode_number": "9",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1569384000,
-        "modified": 1580758324,
-        "media_id": "80041c60e56c1e48b97e781943a4f01f3a50fc1e",
-        "airing_id": "RADS1001182000056048",
-        "id": "kjdm7l1yTdSv3_bkpVN3tw",
-        "slug": "anniversary",
-        "views": 348550,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "663089",
-        "tv_rating": "tv-14-l",
-        "season_number": "1",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1580758324,
-        "tags": [
-            "tim eric awesome show great job episode 9 anniversary 50th celebration special"
-        ],
-        "rating_count": 4164,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1579755600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_109_pt1-04.jpg",
-        "cma_id": "663089"
     },
     {
         "auth": false,
