@@ -1,21 +1,20 @@
 {
-    "updated": 1582785092,
+    "updated": 1582786945,
     "added": [],
     "removed": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1582784940,
+            "auth_expiration_date": 1582786740,
             "tms_id": "",
-            "description": "After her family accuses her of being a quitter, Francine becomes a bodybuilder. Klaus claims to have invented the high five.",
+            "description": "While in search of an identity, Jeff starts hanging out with Stan's favorite celebrity chef. Klaus gets an exciting new outfit.",
             "title_suggest": {
                 "input": [
-                    "One-Woman Swole",
-                    "Swole"
+                    "Flavortown"
                 ]
             },
             "expiration_date": 1581310740,
             "type": "episode",
-            "title": "One-Woman Swole",
+            "title": "Flavortown",
             "platforms": [
                 "android",
                 "ios",
@@ -23,21 +22,21 @@
                 "fire-tv"
             ],
             "collection_id": "kuykLeORSBmAK6JteESFCw",
-            "duration": 1273.33,
-            "episode_number": "14",
+            "duration": 1274.27,
+            "episode_number": "15",
             "original_air_date": null,
-            "auth_launch_date": 1582180200,
+            "auth_launch_date": 1582182000,
             "clip_order": null,
-            "media_id": "cde0b37544faec421f0898d1bcc7a58ab26ba462",
+            "media_id": "ceb984b8952cb51ed21899f512ff35923dcb7790",
             "modified": 1582026653,
-            "airing_id": "RADS1002132000062907",
-            "slug": "one-woman-swole",
+            "airing_id": "RADS1002132000062905",
+            "slug": "flavortown",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15501614167832.jpg",
-            "created": 1533144146,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15508508195033.jpg",
+            "created": 1534796755,
             "season_number": "13",
-            "title_id": "2069567",
-            "tv_rating": "tv-14-dlsv",
+            "title_id": "2069568",
+            "tv_rating": "tv-14-dls",
             "blacklist": [],
             "ott_expiration_date": null,
             "published": 1582026653,
@@ -45,9 +44,9 @@
             "collection_title": "American Dad",
             "modified_by": "ODT Listener",
             "launch_date": 1580706000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg",
-            "id": "AWT2gyOXTdxzjxdCnOX6",
-            "auth": true,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg",
+            "id": "AWVZA_KPh5enQuYyHe9I",
+            "auth": false,
             "collection_slug": "american-dad",
             "collection_title_id": "581006",
             "online_exclusives": false
