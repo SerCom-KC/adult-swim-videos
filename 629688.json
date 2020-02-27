@@ -126,59 +126,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447171800,
-        "auth_expiration_date": 1573621140,
-        "tms_id": "EP007959510011",
-        "rating": 7.5926414,
-        "description": "Orel learns about the great American pastime, discrimination.",
-        "title_suggest": {
-            "input": [
-                "God's Image",
-                "Image"
-            ]
-        },
-        "type": "episode",
-        "title": "God's Image",
-        "expiration_date": 1582779540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 704.018,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1570593600,
-        "modified": 1579922182,
-        "media_id": "1e8b59a2bc1d6d233b85397e053c861600b9fcaa",
-        "airing_id": "RADS1001182000056019",
-        "id": "5YoUVYiSTCWhLcM4jvhYhg",
-        "slug": "gods-image",
-        "views": 226496,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945470,
-        "title_id": "653291",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1579922182,
-        "tags": [
-            "Moral Orel Episode 11 God's Image"
-        ],
-        "rating_count": 761,
-        "collection_title": "Moral Orel",
-        "modified_by": "ODT Listener",
-        "launch_date": 1579755600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_011_pt1-05.jpg",
-        "cma_id": "1352545"
-    },
-    {
-        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -628,6 +575,57 @@
         "launch_date": 1562817600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_026_pt1-04.jpg",
         "cma_id": "1418730"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447172100,
+        "auth_expiration_date": 1576645140,
+        "tms_id": "EP007959510016",
+        "rating": 7.678889,
+        "description": "When Orel's friend, Tommy, does poorly in Reverend Putty's science class, the boy is put into \"special education.\"",
+        "title_suggest": {
+            "input": [
+                "God's Blunders",
+                "Blunders"
+            ]
+        },
+        "type": "episode",
+        "title": "God's Blunders",
+        "expiration_date": 1585799940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 704.015,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1573621200,
+        "modified": 1582518728,
+        "media_id": "1e829695614d742486d4ee840f3db45040193562",
+        "airing_id": "RADS1002242000065743",
+        "id": "azuZUAzMTYuLO7AVGekS9Q",
+        "slug": "gods-blunders",
+        "views": 237244,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945470,
+        "title_id": "653296",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582518728,
+        "tags": [],
+        "rating_count": 900,
+        "collection_title": "Moral Orel",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582779600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/moralorel_cc_016_pt1-04.jpg",
+        "cma_id": "1454318"
     },
     {
         "auth": true,
