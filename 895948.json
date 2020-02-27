@@ -638,6 +638,54 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1542171540,
+        "tms_id": "EP015632430030",
+        "description": "Interview with Pauly D; Special appearance by Rick Springfield; Musical guest Paul Wall.",
+        "title_suggest": {
+            "input": [
+                "Pauly D; Rick Springfield",
+                "D; Rick Springfield",
+                "Rick Springfield",
+                "Springfield"
+            ]
+        },
+        "title": "Pauly D; Rick Springfield",
+        "type": "episode",
+        "expiration_date": 1585799940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 647.3670337,
+        "episode_number": "9",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1539144000,
+        "modified": 1582515007,
+        "media_id": "c4102ce651e5182cb48859f60b4fc2fa7335a372",
+        "airing_id": "RADS1002242000065740",
+        "id": "Vsafy6LESTSmH7k0aE7y8w",
+        "slug": "pauly-d-rick-springfield",
+        "views": 97941,
+        "created": 1421349639,
+        "title_id": "2032604",
+        "tv_rating": "tv-ma-l",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1582515007,
+        "first_published": 1421349639,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582779600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/pauly-d-rick-springfield/ericandre_cc_29_pt1.jpg",
+        "cma_id": "1357048"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1583899140,
@@ -687,54 +735,6 @@
         "launch_date": 1575522000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ericandre_cc_017_pt2_f4E4d-09.jpg",
         "cma_id": "1477393"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1539144000,
-        "tms_id": "EP015632430025",
-        "description": "Interviews with Jillian Barberie and Victor Ortiz; Musical guest Mac DeMarco.",
-        "title_suggest": {
-            "input": [
-                "Jillian Barberie; Victor Ortiz",
-                "Barberie; Victor Ortiz",
-                "Victor Ortiz",
-                "Ortiz"
-            ]
-        },
-        "expiration_date": 1582779540,
-        "title": "Jillian Barberie; Victor Ortiz",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 651.8008008,
-        "episode_number": "4",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1536120000,
-        "modified": 1579381930,
-        "media_id": "318cbdb2dfc08e07434b69f1fd1377af12cd5334",
-        "airing_id": "RADS1001182000056021",
-        "id": "_DZgdugoTAS9MSQvAy3Pnw",
-        "slug": "jillian-barberie-victor-ortiz",
-        "views": 1,
-        "created": 1416952948,
-        "season_number": "3",
-        "title_id": "2032599",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1579381930,
-        "first_published": 1416972040,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "modified_by": "ODT Listener",
-        "launch_date": 1579755600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/jillian-barberie-victor-ortiz/ericandre_cc_24_pt1.jpg",
-        "cma_id": "1336501"
     },
     {
         "auth": true,
