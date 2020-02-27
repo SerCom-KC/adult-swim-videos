@@ -198,53 +198,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1582784940,
-        "tms_id": "",
-        "description": "After her family accuses her of being a quitter, Francine becomes a bodybuilder. Klaus claims to have invented the high five.",
-        "title_suggest": {
-            "input": [
-                "One-Woman Swole",
-                "Swole"
-            ]
-        },
-        "expiration_date": 1581310740,
-        "type": "episode",
-        "title": "One-Woman Swole",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.33,
-        "episode_number": "14",
-        "original_air_date": null,
-        "auth_launch_date": 1582180200,
-        "clip_order": null,
-        "media_id": "cde0b37544faec421f0898d1bcc7a58ab26ba462",
-        "modified": 1582026653,
-        "airing_id": "RADS1002132000062907",
-        "slug": "one-woman-swole",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15501614167832.jpg",
-        "created": 1533144146,
-        "season_number": "13",
-        "title_id": "2069567",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1582026653,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1580706000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg",
-        "id": "AWT2gyOXTdxzjxdCnOX6",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1582871340,
         "tms_id": "",
         "description": "In American Dad's 250th episode, Roger has a medical emergency and Stan has to take over his personas.",
@@ -386,7 +339,7 @@
         "launch_date": 1580706000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg",
         "id": "AWVZA_KPh5enQuYyHe9I",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
