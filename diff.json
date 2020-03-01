@@ -1,19 +1,20 @@
 {
-    "updated": 1583051667,
-    "added": [],
-    "removed": [
+    "updated": 1583053399,
+    "added": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1583051340,
-            "tms_id": "EP031416130001",
-            "description": "Grace Field House is where children without parents are taken in. An irreplaceable home for the 38 children who live happily every day. Until suddenly, their lives are completely changed forever.",
+            "auth_expiration_date": 1584863940,
+            "tms_id": "",
+            "description": "Tanjiro is blown away by the Father Spider Demon's overwhelming power and meets a dysfunctional familial dilemma that launches him in a battle against the sadistic demon Rui.",
             "title_suggest": {
                 "input": [
-                    "121045"
+                    "A Forged Bond",
+                    "Forged Bond",
+                    "Bond"
                 ]
             },
-            "title": "121045",
-            "expiration_date": 1579422540,
+            "title": "A Forged Bond",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -21,35 +22,37 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWmWt_pSHl5gR6828y3g",
-            "duration": 1292.33,
-            "episode_number": "1",
+            "collection_id": "AW2OS1BT1YiBSfg0KXc4",
+            "duration": 1255.988,
+            "episode_number": "18",
             "original_air_date": null,
-            "auth_launch_date": 1579422600,
+            "auth_launch_date": 1583053200,
             "clip_order": null,
-            "media_id": "d966d96b7683b80ccd5c64d4cf7bffba1629f0d2",
-            "modified": 1579236013,
-            "airing_id": "RADS1001032000052027",
-            "slug": "121045",
+            "media_id": "315fa66bdba9d04a2bb094b0084d236adfc93a7d",
+            "modified": 1582775166,
+            "airing_id": "RADS1002262000066401",
+            "slug": "a-forged-bond",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155500147480318.jpg",
-            "created": 1555001509,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200211/thumbnails/1_20211105477-DemonSlayer_018.jpg",
+            "created": 1581433551,
             "season_number": "1",
-            "title_id": "2194659",
-            "tv_rating": "tv-14-v",
+            "title_id": "2209310",
+            "tv_rating": "tv-ma-v",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1579236013,
+            "published": 1582775166,
             "tags": [],
-            "collection_title": "The Promised Neverland",
+            "collection_title": "Demon Slayer",
+            "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1578213000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155500147480318.jpg",
-            "id": "AWoNUAd-Hl5gR6828zPC",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_20211105477-DemonSlayer_018.jpg",
+            "id": "AXA0yPthGRcVO2K2pm19",
             "auth": true,
-            "collection_slug": "the-promised-neverland",
-            "collection_title_id": "2194658",
+            "collection_slug": "demon-slayer",
+            "collection_title_id": "2209292",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
