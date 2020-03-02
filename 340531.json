@@ -740,9 +740,10 @@
     {
         "auth": false,
         "ott_launch_date": 1451672520,
+        "auth_expiration_date": null,
         "tms_id": "EP004625740053",
         "rating": 8.621083,
-        "description": "When Zorak catches Brak talking to a favorite stuffed doll, he pressures him into throwing it away. Brak grows depressed over losing the doll, but Mom remedies the situation by giving him a new one that she received from a gypsy. When Zorak catches Brak talking to it, he confiscates the new toy and faces surprising consequences.\r\n\r\n",
+        "description": "When Zorak catches Brak talking to a favorite stuffed doll, he pressures him into throwing it away. Brak grows depressed over losing the doll, but Mom remedies the situation by giving him a new one that she received from a gypsy. When Zorak catches Brak talking to it, he confiscates the new toy and faces surprising consequences.",
         "title_suggest": {
             "input": [
                 "Hippo"
@@ -757,31 +758,36 @@
             "ott"
         ],
         "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
-        "duration": 668.67,
+        "duration": 670.7007007,
         "episode_number": "4",
         "original_air_date": null,
         "clip_order": null,
-        "modified": 1574713214,
+        "auth_launch_date": null,
+        "modified": 1583176699,
         "airing_id": "RADS1006071900097655",
         "media_id": "1d4d7246048204519b253b4a20f0dbe65ec1656c",
         "id": "bahqm2mSReq8LAFXUmO_IQ",
         "slug": "hippo",
         "views": 127884,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_2032141872-brak_2104.jpg",
         "created": 1402945478,
         "title_id": "345174",
         "season_number": "1",
         "tv_rating": "tv-pg-l",
         "active": true,
         "ott_expiration_date": null,
-        "published": 1574713214,
+        "blacklist": [],
+        "published": 1583176699,
         "tags": [
             "brak show episode 4 hipps toy doll"
         ],
         "rating_count": 351,
         "collection_title": "The Brak Show",
-        "modified_by": "ODT Listener",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
         "launch_date": 1560052800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/brak_cc_2104_pt1-05.jpg",
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032141872-brak_2104.jpg",
         "cma_id": ""
     },
     {
@@ -983,9 +989,10 @@
     {
         "auth": false,
         "ott_launch_date": 1451672460,
+        "auth_expiration_date": null,
         "tms_id": "EP004625740050",
         "rating": 8.74187,
-        "description": "Instead of doing homework, Brak and Zorak waste their entire weekend playing video games. As punishment, Dad decides that they will not be allowed to go to Brak's favorite fish restaurant, Fishpockets. Desperate, Brak and Zorak try using Thundercleese's time machine to remedy the situation.\r\n\r\n",
+        "description": "Instead of doing homework, Brak and Zorak waste their entire weekend playing video games. As punishment, Dad decides that they will not be allowed to go to Brak's favorite fish restaurant, Fishpockets. Desperate, Brak and Zorak try using Thundercleese's time machine to remedy the situation.",
         "title_suggest": {
             "input": [
                 "Time Machine",
@@ -1001,31 +1008,36 @@
             "ott"
         ],
         "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
-        "duration": 679.31,
+        "duration": 681.9009009,
         "episode_number": "3",
         "original_air_date": null,
         "clip_order": null,
-        "modified": 1574713214,
+        "auth_launch_date": null,
+        "modified": 1583176672,
         "airing_id": "RADS1006071900097652",
         "media_id": "94c154316a7573b4def8112d47737eb4a2b4a8fa",
         "id": "j8-EuTPFRLiARLU3dvrJ_w",
         "slug": "time-machine",
         "views": 154105,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321417420-brak_2103.jpg",
         "created": 1402945478,
         "title_id": "344204",
         "season_number": "1",
         "tv_rating": "tv-pg-l",
         "active": true,
         "ott_expiration_date": null,
-        "published": 1574713214,
+        "blacklist": [],
+        "published": 1583176672,
         "tags": [
             "brak show episode 3 time machine fish pockets video games shed homework"
         ],
         "rating_count": 492,
         "collection_title": "The Brak Show",
-        "modified_by": "ODT Listener",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
         "launch_date": 1560052800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/brak_cc_2103_pt1-04.jpg",
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321417420-brak_2103.jpg",
         "cma_id": ""
     },
     {
