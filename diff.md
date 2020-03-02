@@ -2,42 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 2, 2020 at 02:30:39 EST_
+_Last Update: March 2, 2020 at 03:30:39 EST_
 ## Video added
 ### Summary
-440990 Family Guy: 1  
-### 2105387
-**Family Guy S15E08 - Carter and Tricia**  
-TV-14 🔒 21:42  
-⌛ March 9, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/carter-and-tricia  
-seriesid=`440990` titleid=`2105387` id=`np9wHnd0R4i0HSeMJKknXQ` mediaid=`c7d0bd4b13261015a3a519217a722968b3f125b7`  
-_Carter purchases Pawtucket Brewery and becomes Peter's new boss. With great pleasure, he forces Peter to assume a variety of humiliating roles. Peter overhears Carter order staff to illegally make beer cans out of dangerous and cheap materials._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/carter-and-tricia/familyguy_1405_air_cid-30YY1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/carter-and-tricia/familyguy_1405_air_cid-30YY1.jpg" height="144px" /></a>
+2137894 Ballmastrz: 9009: 1  
+### 2199777
+**Ballmastrz: 9009 S02E03 - Big Boy Body, Bigger Baby Boy Heart! Can You Endure the Pain of Love? Babyball, Discover It Now!**  
+TV-14-DLV 🔒 11:15  
+⌛ March 23, 2020 at 03:14:00 EDT  
+https://www.adultswim.com/videos/ballmastrz-9009/big-boy-body-bigger-baby-boy-heart-can-you-endure-the-pain-of-love-babyball-discover-it-now  
+seriesid=`2137894` titleid=`2199777` id=`AXB9pq1tGRcVO2K2pm88` mediaid=`c8f271a9a6e7535a1991314bf43dcbaffa5a57a8`  
+_Babyball gets a special upgrade that comes with a surprising new attitude adjustment._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251340279-ballmastrz9009_204_dup-20191021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251340279-ballmastrz9009_204_dup-20191021.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-440990 Family Guy: 3  
-### 2105392
-**Family Guy S15E13 - The Finer Strings**  
-TV-14 🔓 21:40  
-⌛ March 2, 2020 at 01:59:00 EST  
-https://www.adultswim.com/videos/family-guy/the-finer-strings  
-seriesid=`440990` titleid=`2105392` id=`CBAVitgCRISouMx5_P3Yzg` mediaid=`e70d7c5e97095e832ebcb58729242472ab908546`  
-_The Griffins attend Meg's talent show, where Peter becomes infatuated with the violin. Peter encourages Cleveland, Joe, and Quagmire to take up instruments so they can start a string quartet._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-finer-strings/familyguy_1410_air_cid-32N17.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-finer-strings/familyguy_1410_air_cid-32N17.jpg" height="144px" /></a>
-### 2105386
-**Family Guy S15E07 - High School English**  
-TV-14 🔒 21:41  
-⌛ March 2, 2020 at 02:29:00 EST  
-https://www.adultswim.com/videos/family-guy/high-school-english  
-seriesid=`440990` titleid=`2105386` id=`KpBW89hWRU-JfghtKHrcnQ` mediaid=`89188c2ca72979d542469ae174d44946bdcb1dfa`  
-_After crashing his car into a stranger's home, Peter locks himself inside the library and takes this time to catch up on some of the classic American novels he never read in high school._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/high-school-english/familyguy_1404_air_cid-2YXKC.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/high-school-english/familyguy_1404_air_cid-2YXKC.jpg" height="144px" /></a>
-### 2105385
-**Family Guy S15E06 - Hot Shots**  
-TV-14 🔓 21:38  
-⌛ March 2, 2020 at 01:59:00 EST  
-https://www.adultswim.com/videos/family-guy/hot-shots  
-seriesid=`440990` titleid=`2105385` id=`jxToGtnESPeMTLaIVbD1mw` mediaid=`4e712b9d7d52a671a316d2ead44ae01d60f99a9c`  
-_The Griffins take Stewie to the hospital, fearing his arm may be broken. Dr. Hartman informs them that Stewie still hasn't had his vaccinations._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/hot-shots/familyguy_1403_air_cid-2YXK7.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/hot-shots/familyguy_1403_air_cid-2YXK7.jpg" height="144px" /></a>
+No videos were removed.  
