@@ -2689,7 +2689,7 @@
         "cma_id": "1192249"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370070",
@@ -2958,6 +2958,63 @@
         "launch_date": 1559435400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/surprise-goku-is-ginyu-and-ginyu-is-goku/dragonballzkai_cc_034_pt1_1.jpg",
         "cma_id": "1100716"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370075",
+        "description": "Piccolo and Android 17 trade blows in a battle of unprecedented brutality! Cell - sensing their presence - races to the scene of the skirmish in pursuit of his terrifying perfect form!",
+        "title_suggest": {
+            "input": [
+                "The Super Namekian Powers Up! Piccolo vs. Android 17!",
+                "Super Namekian Powers Up! Piccolo vs. Android 17!",
+                "Namekian Powers Up! Piccolo vs. Android 17!",
+                "Powers Up! Piccolo vs. Android 17!",
+                "Up! Piccolo vs. Android 17!",
+                "Piccolo vs. Android 17!",
+                "vs. Android 17!",
+                "Android 17!",
+                "17!"
+            ]
+        },
+        "expiration_date": 1586145599,
+        "title": "The Super Namekian Powers Up! Piccolo vs. Android 17!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1307.2059,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "73",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1582738807,
+        "media_id": "18bd9205eccecb9481c6d979ce8e8ea57b09ff2e",
+        "airing_id": "RADS1002262000066418",
+        "id": "jtL4dgn8R-qdLFb_H_Se6A",
+        "slug": "the-super-namekian-powers-up-piccolo-vs-android-17",
+        "views": 1531,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210167269-dragonballzkai_073_air_cid-2TYGD.jpg",
+        "created": 1458568923,
+        "season_number": "1",
+        "title_id": "2031684",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1582738807,
+        "first_published": 1464919819,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1583125200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210167269-dragonballzkai_073_air_cid-2TYGD.jpg",
+        "cma_id": "1232220"
     },
     {
         "auth": true,
