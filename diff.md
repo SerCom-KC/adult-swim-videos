@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 1, 2020 at 06:00:38 EST_
+_Last Update: March 2, 2020 at 00:00:36 EST_
 ## Video added
-### Summary
-2193955 JoJo's Bizarre Adventure: 1  
-812206 Naruto: Shippuden: 1  
-### 2193972
-**JoJo's Bizarre Adventure S04E16 - Thankful Death Part 2**  
-TV-MA-V 🔒 22:50  
-⌛ March 22, 2020 at 05:29:00 EDT  
-https://www.adultswim.com/videos/jo-jos-bizarre-adventure/thankful-death-part-2  
-seriesid=`2193955` titleid=`2193972` id=`AXA00Hiy3HMJfT8do8ck` mediaid=`505bfd7c27a8bc0dec3e0c4a2fa885290ff09268`  
-_To save his squad, Bucciarati risks all by grabbing hold of Prosciutto and hurling himself off the speeding train, only to be saved by Pesci's hook._  
-<a href="https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_202111013571-jojo_goldenwind_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_202111013571-jojo_goldenwind_016.jpg" height="144px" /></a>
-### 2177715
-**Naruto: Shippuden S06E03 - Things You Can't Get Back**  
- 🔒 21:51  
-⌛ March 22, 2020 at 05:59:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/things-you-cant-get-back  
-seriesid=`812206` titleid=`2177715` id=`AW4ZFP_D1YiBSfg0KYGl` mediaid=`a06462d0585d950e91ae16c4beebcbfb19492644`  
-<a href="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291553533-narutoshippuden_286.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291553533-narutoshippuden_286.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2022095 Black Jesus: 1  
+### 2160590
+**Black Jesus S03E09 - God's Team**  
+TV-MA-L 🔒 22:50  
+⌛ April 6, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-jesus/gods-team  
+seriesid=`2022095` titleid=`2160590` id=`AW2EVCG6adNs2hMNfuIs` mediaid=`36627d538b007dfd444e729c405b7ce1583691f8`  
+_Jesus suddenly finds himself as the coach for the Compton Devils junior high football.  His agenda to spread love and kindness is at odd with winning at all costs, and we see his struggle play out in the big game._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261718470-blackjesus_309_air_cid-3FYM4.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261718470-blackjesus_309_air_cid-3FYM4.jpg" height="144px" /></a>
