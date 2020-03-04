@@ -204,53 +204,6 @@
         "cma_id": "1432107"
     },
     {
-        "auth": true,
-        "auth_expiration_date": 1583306940,
-        "tms_id": "EP002960010019",
-        "rating": 7.7099056,
-        "description": "The Griffins star in a reality television show, but Meg quits, prompting the producers to replace her with a scantily-clad vixen Meg while the real girl becomes a nanny for the Von Trapp children.\r\n",
-        "title_suggest": {
-            "input": [
-                "Fifteen Minutes of Shame",
-                "Minutes of Shame",
-                "of Shame",
-                "Shame"
-            ]
-        },
-        "type": "episode",
-        "title": "Fifteen Minutes of Shame",
-        "expiration_date": 1487230199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1351.1498,
-        "episode_number": "12",
-        "auth_launch_date": 1582702200,
-        "modified": 1582317366,
-        "media_id": "f421e370039374c31d9799846f0f1da78bbf7196",
-        "airing_id": "RADS1002212000065448",
-        "id": "YIx5FIKzQPexK0mrcdMqDg",
-        "slug": "fifteen-minutes-of-shame",
-        "views": 481498,
-        "created": 1402945465,
-        "title_id": "441031",
-        "season_number": "2",
-        "tv_rating": "tv-14-dls",
-        "active": false,
-        "published": 1582317366,
-        "tags": [
-            "family guy episode 208 fifteen minutes of shame reality television show tv meg replacement embarrassing"
-        ],
-        "rating_count": 1272,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1486625400,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_50705.jpg",
-        "cma_id": "1341466"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1570427940,
@@ -402,6 +355,63 @@
         "launch_date": 1500015600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15276205100012.jpg",
         "cma_id": "1432615"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1583908140,
+        "tms_id": "EP002960010026",
+        "rating": 7.0521693,
+        "description": "When Happy-Go-Lucky Toys is purchased by a tobacco conglomerate, Peter becomes a Washington lobbyist... and his Congressional testimony causes the company to suffer a huge fine.\r\n\r\n",
+        "title_suggest": {
+            "input": [
+                "Mr. Griffin Goes to Washington",
+                "Griffin Goes to Washington",
+                "Goes to Washington",
+                "to Washington",
+                "Washington"
+            ]
+        },
+        "type": "episode",
+        "title": "Mr. Griffin Goes to Washington",
+        "expiration_date": 1487834999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1351.2166,
+        "episode_number": "3",
+        "auth_launch_date": 1583307000,
+        "modified": 1583258650,
+        "media_id": "0cc54820125f9b68c58138273b578c68a406feb9",
+        "airing_id": "RADS1002282000067829",
+        "id": "mhqwTComSBeh8OxZwvtG4w",
+        "slug": "mr-griffin-goes-to-washington",
+        "views": 414220,
+        "created": 1402945464,
+        "title_id": "441033",
+        "season_number": "3",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "published": 1583258650,
+        "tags": [
+            "Family Guy",
+            " Mr. Griffin Goes to Washington",
+            " Peter",
+            " Lois",
+            " Brian",
+            " Stewie",
+            " Chris",
+            " Meg",
+            " Adult Swim",
+            " Seth McFarlane"
+        ],
+        "rating_count": 2396,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1487230200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_23964.jpg",
+        "cma_id": "1345659"
     },
     {
         "auth": true,
