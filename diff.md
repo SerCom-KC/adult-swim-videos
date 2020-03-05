@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 5, 2020 at 01:00:30 EST_
+_Last Update: March 5, 2020 at 01:30:37 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2065456
-**Bob's Burgers S05E08 - Midday Run**  
-TV-PG 🔒 21:28  
-⌛ March 12, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/midday-run  
-seriesid=`2003422` titleid=`2065456` id=`cciQCvIBR2eWcB2fCfDcOA` mediaid=`0a052de313d208d17b6bb470df4195c3df4cd3a8`  
-_When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the job so she enlists the help of Gene and Louise. Back at the restaurant, Linda begins to decorate the walls with customer artwork on napkins._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 611815
+**American Dad S01E08 - Bullocks to Stan**  
+TV-14-DLSV 🔒 21:45  
+⌛ March 12, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/bullocks-to-stan  
+seriesid=`581006` titleid=`611815` id=`b3bqxFuJR4i_eVVaW6e78w` mediaid=`2f90ec50f24c4949f8e5208a6466391daffbfdd5`  
+_Hayley dumps Jeff and dates Bullock. Stan withholds his objections in order to get a promotion._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199185689033.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199185689033.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
