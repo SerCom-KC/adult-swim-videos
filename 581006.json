@@ -1026,5 +1026,56 @@
         "launch_date": 1559746800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg",
         "cma_id": "1458910"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1583992740,
+        "tms_id": "EP007164450009",
+        "description": "Steve injures Stan's groin and feels terrible, inadvertently leading Stan to discover masturbation. Meanwhile Roger opens a bar in the attic.",
+        "title_suggest": {
+            "input": [
+                "A Smith in the Hand",
+                "Smith in the Hand",
+                "in the Hand",
+                "the Hand",
+                "Hand"
+            ]
+        },
+        "expiration_date": 1499140799,
+        "title": "A Smith in the Hand",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1305.8379,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "9",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1583391600,
+        "modified": 1583007729,
+        "media_id": "c502e56a311062d9d9d274269842a6ea5b51d331",
+        "airing_id": "RADS1002282000067872",
+        "id": "yz27DW18R8CWsrm0X1OuXA",
+        "slug": "a-smith-in-the-hand",
+        "views": 1979,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151991858335914.jpg",
+        "created": 1403110543,
+        "season_number": "1",
+        "title_id": "611816",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1583007729,
+        "first_published": 1450336820,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1498536000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991858335914.jpg",
+        "cma_id": "1421619"
     }
 ]
