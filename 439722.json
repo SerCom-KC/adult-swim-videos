@@ -202,55 +202,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153393141455314.jpg"
     },
     {
-        "ott_launch_date": 1536071340,
-        "auth": false,
-        "auth_expiration_date": 1580965140,
-        "tms_id": "EP005604540083",
-        "description": "The Venture family returns to their old compound where intrigue, danger, jackets, and diplomacy await.",
-        "title_suggest": {
-            "input": [
-                "The Inamorata Consequence",
-                "Inamorata Consequence",
-                "Consequence"
-            ]
-        },
-        "expiration_date": 1583384340,
-        "type": "episode",
-        "title": "The Inamorata Consequence",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
-        "duration": 1354.21,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1577941200,
-        "clip_order": null,
-        "media_id": "195e321d8742ed5076fc0d65394c67af8ac4f0d3",
-        "modified": 1580592002,
-        "airing_id": "RADS1012271900050470",
-        "id": "AWPLRfSoqBveI_0AhKZM",
-        "slug": "the-inamorata-consequence",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153555263164312.jpg",
-        "created": 1528123749,
-        "season_number": "7",
-        "title_id": "2165021",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1580592002,
-        "tags": [],
-        "collection_title": "The Venture Bros.",
-        "modified_by": "ODT Listener",
-        "launch_date": 1580965200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153555263164312.jpg"
-    },
-    {
         "ott_launch_date": 1533652140,
         "auth": true,
         "auth_expiration_date": 1584590340,
@@ -403,6 +354,57 @@
         "modified_by": "ODT Listener",
         "launch_date": 1577941200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg"
+    },
+    {
+        "ott_launch_date": 1535380140,
+        "auth": true,
+        "auth_expiration_date": 1586404740,
+        "tms_id": "EP005604540082",
+        "description": "The Monarch faces financial challenges as he attempts to rebuild his fiendish organization, while Dean attempts to build a normal life out of his father's shadow at sleep-away college.",
+        "title_suggest": {
+            "input": [
+                "The High Cost of Loathing",
+                "High Cost of Loathing",
+                "Cost of Loathing",
+                "of Loathing",
+                "Loathing"
+            ]
+        },
+        "expiration_date": 1582779540,
+        "type": "episode",
+        "title": "The High Cost of Loathing",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1355,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1583384400,
+        "clip_order": null,
+        "media_id": "be760ac67a52d5095a05b5559c1bc049cdf453e8",
+        "modified": 1583024647,
+        "airing_id": "RADS1002282000067854",
+        "id": "AWRwHYIrTdxzjxdCmyOW",
+        "slug": "the-high-cost-of-loathing",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153505092677319.jpg",
+        "created": 1530889339,
+        "season_number": "7",
+        "title_id": "2165020",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1583024647,
+        "tags": [],
+        "collection_title": "The Venture Bros.",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580360400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153505092677319.jpg"
     },
     {
         "ott_launch_date": 1534775340,
