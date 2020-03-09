@@ -168,7 +168,7 @@
         "cma_id": "1047229"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370071",
@@ -3128,6 +3128,60 @@
         "launch_date": 1422777600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402234789.jpg",
         "cma_id": "1051215"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370076",
+        "description": "Cell's arrival forces Piccolo and the Androids into an uneasy - and temporary - alliance. While the Super Namekian mounts a desperate, final attack, Goku and Gohan wait for Vegeta to emerge from the Room of Spirit and Time!",
+        "title_suggest": {
+            "input": [
+                "Run, Android 17! Piccolo's All-Or-Nothing Struggle!",
+                "Android 17! Piccolo's All-Or-Nothing Struggle!",
+                "17! Piccolo's All-Or-Nothing Struggle!",
+                "Piccolo's All-Or-Nothing Struggle!",
+                "All-Or-Nothing Struggle!",
+                "Struggle!"
+            ]
+        },
+        "expiration_date": 1586750399,
+        "title": "Run, Android 17! Piccolo's All-Or-Nothing Struggle!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1318,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "74",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1583337366,
+        "media_id": "1e15a3a02b838256fffd2db832f09a97e23cf6b2",
+        "airing_id": "RADS1003032000069082",
+        "id": "n8ihmVjSShe6GOPPuBx5TA",
+        "slug": "run-android-17-piccolos-all-or-nothing-struggle",
+        "views": 2683,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210167397-dragonballzkai_074_air_cid-2V5DR.jpg",
+        "created": 1461954499,
+        "season_number": "1",
+        "title_id": "2031685",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1583337366,
+        "first_published": 1465366233,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1583726400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210167397-dragonballzkai_074_air_cid-2V5DR.jpg",
+        "cma_id": "1235569"
     },
     {
         "auth": true,
