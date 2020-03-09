@@ -104,6 +104,56 @@
         "cma_id": "1437076"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1584336540,
+        "tms_id": "EP002960010315",
+        "description": "Peter, Joe, Cleveland, and Quagmire want to do an activity together so they decide to start a podcast. After a horrendous start, Peter accidently plays multiple songs and is mistaken for a DJ by a club owner.",
+        "title_suggest": {
+            "input": [
+                "Peter's Def Jam",
+                "Def Jam",
+                "Jam"
+            ]
+        },
+        "title": "Peter's Def Jam",
+        "type": "episode",
+        "expiration_date": 1577681940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1299.8341675,
+        "episode_number": "12",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1583731800,
+        "modified": 1583427126,
+        "media_id": "f2a5ece07314c4db66c53e33bb4f6383e16efd8a",
+        "airing_id": "RADS1003042000069606",
+        "id": "HjV-qakcSqyBiF-RxkEpIw",
+        "slug": "peters-def-jam",
+        "views": 10237,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1487491826,
+        "title_id": "2105391",
+        "tv_rating": "tv-14",
+        "season_number": "15",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1583427126,
+        "first_published": 1487491826,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1577077200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-def-jam/familyguy_1409_air_cid-32N15.jpg",
+        "cma_id": "2105391"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1581060540,
