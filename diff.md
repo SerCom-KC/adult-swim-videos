@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 10, 2020 at 01:00:34 EDT_
+_Last Update: March 10, 2020 at 01:30:39 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-### 700727
-**American Dad S01E18 - Finances With Wolves**  
-TV-14-DLSV 🔒 21:45  
-⌛ March 17, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/finances-with-wolves  
-seriesid=`581006` titleid=`700727` id=`87yKURy6QRO4z-mqFN0dPw` mediaid=`76b3f7ce59b2daff57f960711c9add22553cc850`  
-_Stan gets a hefty bonus at work and uses it on himself while Francine opens a muffin shop without Stan's approval. Now without a housewife at home, Stan puts Klaus's brain back into a human body. Meanwhile, Steve is convinced he's becoming a werewolf._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991873548118.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991873548118.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2065464
+**Bob's Burgers S05E15 - Adventures in Chinchilla-Sitting**  
+TV-PG-DLV 🔒 21:28  
+⌛ March 17, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/adventures-in-chinchilla-sitting  
+seriesid=`2003422` titleid=`2065464` id=`EwK0rT-OR7-XEWIg3JcDsw` mediaid=`9ae3bd4895fe2026c5cc392a0880ce22fe6ec9fd`  
+_Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 611811
-**American Dad S01E05 - Rodger Codger**  
-TV-14 🔓 21:46  
-⌛ March 10, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/rodger-codger  
-seriesid=`581006` titleid=`611811` id=`p_94odYUQG-FLrfqEeMBMg` mediaid=`6f564c897693b066b3cb515feb026ae3be1764da`  
-_After a forgotten anniversary leads Stan to submit Francine for memory erasure at the CIA, she reverts twenty years back instead of twenty minutes, becoming once again the wild child she used to be._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991852567516.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991852567516.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2065450
+**Bob's Burgers S05E03 - Friends with Burger-Fits**  
+TV-PG-DLV 🔒 21:41  
+⌛ March 10, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/friends-with-burger-fits  
+seriesid=`2003422` titleid=`2065450` id=`Pt77Jy4sQGykImwmhEjCMg` mediaid=`f5614ca6513be1771ebc2149900fbe59a6209964`  
+_Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. The kids make an ice rink in the freezer._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg" height="144px" /></a>
