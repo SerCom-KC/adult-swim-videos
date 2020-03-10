@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 10, 2020 at 02:30:28 EDT_
+_Last Update: March 10, 2020 at 03:00:36 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2065465
-**Bob's Burgers S05E16 - The Runway Club**  
-TV-PG-DLV 🔒 21:40  
-⌛ March 17, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-runway-club  
-seriesid=`2003422` titleid=`2065465` id=`6b8hbbQgTGKR3yP41SgI8Q` mediaid=`66fa3fa490770723921e3a0fc6fa1dc41a0d6cf9`  
-_The kids are sentenced to Saturday detention and will do anything it takes to leave early so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe that they are being scammed by a young girl at the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-runway-club/bobsburgers_504_air_cid-2NTF5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-runway-club/bobsburgers_504_air_cid-2NTF5.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 441778
+**Family Guy S03E13 - Screwed the Pooch **  
+TV-14-DL 🔒 22:26  
+⌛ March 17, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/screwed-the-pooch  
+seriesid=`440990` titleid=`441778` id=`x6M19OShQEK4RpDKtzFdug` mediaid=`7c515271bf44156479148500a3434846ef2970bc`  
+_Brian gets an urge to have sex, and finally chases down the champion greyhound owned by Peter's rich and snooty father-in-law._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1352098681812510624.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1352098681812510624.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2065455
-**Bob's Burgers S05E04 - Dawn of the Peck**  
-TV-PG-DLV 🔒 21:30  
-⌛ March 10, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/dawn-of-the-peck  
-seriesid=`2003422` titleid=`2065455` id=`SmjARULQRayI7fqg43Kw5g` mediaid=`6593b29f3c92e638760bc4c876a5f9e78006e018`  
-_While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the first annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 441027
+**Family Guy S03E01 - Thin White Line**  
+TV-14-DL 🔓 22:18  
+⌛ March 10, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/thin-white-line  
+seriesid=`440990` titleid=`441027` id=`xffY44rFQnS18Og7djXTvA` mediaid=`da358bca8dedddb27c174139eddf48dce40ff494`  
+_While working for the police in narcotics, Brian becomes addicted to cocaine._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_6401017189358794191.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_6401017189358794191.jpg" height="144px" /></a>
