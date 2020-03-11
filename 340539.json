@@ -157,57 +157,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1446844860,
-        "auth_expiration_date": 1583899140,
-        "tms_id": "EP004625750037",
-        "rating": 8.561685,
-        "description": "Devlin hires Harvey to defend him (again). This time, a kid sues him for being injured by one of Devlin's toys.  X hires a life coach to help him become more evil.",
-        "title_suggest": {
-            "input": [
-                "Grodin"
-            ]
-        },
-        "type": "episode",
-        "title": "Grodin",
-        "expiration_date": 1564631940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 697.37,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1580878800,
-        "modified": 1583436410,
-        "media_id": "65fde1b070f86c58b15052570c471176823aaecb",
-        "airing_id": "RADS1001302000059850",
-        "id": "Bbprle1NSmGTQ3bW4vlSZA",
-        "slug": "grodin",
-        "views": 310561,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351426426-harvey_037.jpg",
-        "created": 1402945467,
-        "title_id": "651239",
-        "season_number": "4",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583436410,
-        "tags": [],
-        "rating_count": 689,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1561608000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351426426-harvey_037.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1446843840,
         "auth_expiration_date": 1586318340,
         "tms_id": "EP004625750002",
@@ -418,6 +367,60 @@
         "modified_by": "Duke Nguyen",
         "launch_date": 1581570000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351424119-harvey_030.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1446843840,
+        "auth_expiration_date": 1586923140,
+        "tms_id": "EP004625750003",
+        "rating": 8.231649,
+        "description": "Shaggy and Scooby are being held on possession. Harvey defends the two in an entirely circumstantial case brought against them by Spyro. Harvey is just about to win the case when Velma and Fred catch an old cotton farmer masquerading as a green monster to scare people away from his new, highly lucrative crop.",
+        "title_suggest": {
+            "input": [
+                "Shaggy Busted",
+                "Busted"
+            ]
+        },
+        "type": "episode",
+        "title": "Shaggy Busted",
+        "expiration_date": 1568260740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 711.8,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1583899200,
+        "modified": 1583531046,
+        "media_id": "66814299d4d4f6906c9e0da9587fb3f6e44c9101",
+        "airing_id": "RADS1003062000070137",
+        "id": "a86RyzGAS7uEbizFkOhfSw",
+        "slug": "shaggy-busted",
+        "views": 359127,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351221358-harvey_003.jpg",
+        "created": 1402945467,
+        "title_id": "344144",
+        "season_number": "1",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1583531046,
+        "tags": [
+            "harvey birdman episode 3 shaggy busted scooby doo pot marijuana possession drugs"
+        ],
+        "rating_count": 1308,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1565236800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351221358-harvey_003.jpg",
         "cma_id": ""
     },
     {

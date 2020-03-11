@@ -1,5 +1,54 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": 1447784580,
+        "auth_expiration_date": 1586923140,
+        "tms_id": "EP008994530032",
+        "rating": 8.457861,
+        "description": "When Eric's 3-T Scroat starts acting up, Tim is forced to investigate. Whoopsie Daisy!\r\n(Frank Stallone)",
+        "title_suggest": {
+            "input": [
+                "Balls"
+            ]
+        },
+        "type": "episode",
+        "title": "Balls",
+        "expiration_date": 1566446340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 694.006,
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1583899200,
+        "modified": 1583531046,
+        "media_id": "80aaf39e3e0a7522e25deb0aa6cc38eca37fa95a",
+        "airing_id": "RADS1003062000070134",
+        "id": "3sQtpcTmTaSR9lQR5JU0IQ",
+        "slug": "balls",
+        "views": 414918,
+        "thumbnail": "",
+        "created": 1402945481,
+        "title_id": "751392",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1583531046,
+        "tags": [],
+        "rating_count": 1887,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1563422400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_403_pt1-03.jpg",
+        "cma_id": "1376810"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
@@ -511,56 +560,6 @@
         "launch_date": 1583384400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_205_pt2-01.jpg",
         "cma_id": "1303437"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447784460,
-        "auth_expiration_date": 1583899140,
-        "tms_id": "EP008994530027",
-        "rating": 8.157213,
-        "description": "Tim and Eric lead their jazz band through jazz chatter scats. How do you truly clean up after your cat?\r\n(Maria Bamford)",
-        "title_suggest": {
-            "input": [
-                "Jazz"
-            ]
-        },
-        "type": "episode",
-        "title": "Jazz",
-        "expiration_date": 1563422340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 676.025,
-        "episode_number": "7",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1580878800,
-        "modified": 1580906886,
-        "media_id": "1c985966068dc625978109f219da38e3f4bb6bbe",
-        "airing_id": "RADS1001302000059856",
-        "id": "bw6osBIBRFKfTOeDWLdGIg",
-        "slug": "jazz",
-        "views": 406357,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "723439",
-        "season_number": "3",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1580906886,
-        "tags": [],
-        "rating_count": 2328,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1560398400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_307_pt1-05.jpg",
-        "cma_id": "1352293"
     },
     {
         "auth": false,
