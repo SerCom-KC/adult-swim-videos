@@ -1,53 +1,6 @@
 [
     {
         "auth": false,
-        "ott_launch_date": 1447438380,
-        "tms_id": "EP004625760013",
-        "rating": 8.958435,
-        "description": "In his quest to build the evilest of all evil empires, Sparks invents a miraculous new drug. \"Stimutacs\" are billed as an \"herbal dietary supplement,\"but their side effects are truly amazing--and highly addictive! Can Dr. Quinn foil this nefarious plot?",
-        "title_suggest": {
-            "input": [
-                "Stimutacs"
-            ]
-        },
-        "type": "episode",
-        "title": "Stimutacs",
-        "expiration_date": 1583985540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.83,
-        "episode_number": "12",
-        "original_air_date": null,
-        "clip_order": null,
-        "modified": 1580968328,
-        "airing_id": "RADS1002052000061213",
-        "media_id": "e81429c594489a6b1ff0edf2b5d22719cb67ac38",
-        "id": "6BL__ORnQd6Ep1FF6G2nwg",
-        "slug": "stimutacs",
-        "views": 241284,
-        "created": 1402945476,
-        "title_id": "415760",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1580968328,
-        "tags": [
-            "sealab 2021 stimutacs episode 12"
-        ],
-        "rating_count": 1275,
-        "collection_title": "Sealab 2021",
-        "modified_by": "ODT Listener",
-        "launch_date": 1580965200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/stimutacs/sealab_cc_012_revised2-01.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1447438680,
         "tms_id": "EP004625760017",
         "rating": 8.388164,
@@ -93,6 +46,53 @@
         "launch_date": 1583384400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/hail-squishface/sealab_018_revised.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447438740,
+        "tms_id": "EP004625760018",
+        "rating": 8.533943,
+        "description": "Murphy and the Sealab crew are held captive... by the Bizarros!",
+        "title_suggest": {
+            "input": [
+                "Bizarro"
+            ]
+        },
+        "type": "episode",
+        "title": "Bizarro",
+        "expiration_date": 1587009540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 660.03,
+        "episode_number": "6",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1583556366,
+        "airing_id": "RADS1002122000062485",
+        "media_id": "85821e601a6bf6c1685dd38d0814ef01b68061ed",
+        "id": "EPEODtpoSJC1Vl-OUcmRfw",
+        "slug": "bizarro",
+        "views": 218058,
+        "created": 1402945476,
+        "title_id": "434939",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1583556366,
+        "tags": [
+            "sealab 2021 bizarro episode 19"
+        ],
+        "rating_count": 1208,
+        "collection_title": "Sealab 2021",
+        "modified_by": "ODT Listener",
+        "launch_date": 1583985600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/bizarro/sealab_cc_019_revised2-01.jpg",
+        "cma_id": "1468142"
     },
     {
         "auth": false,
