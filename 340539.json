@@ -319,57 +319,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1446844620,
-        "auth_expiration_date": 1580273940,
-        "tms_id": "EP004625750030",
-        "rating": 8.19807,
-        "description": "Sheer courtroom boredom drives Mentok to mindswap Spyro.  Unfortunately, Mentok promptly loses Spyro's mind and is forced to drag him around until he finds the lost brain. Kitty-lovin' Harvey takes Top Cat and his crew into his home and somehow winds up in the pokey for running an illegal gambling establishment.",
-        "title_suggest": {
-            "input": [
-                "Mindless"
-            ]
-        },
-        "type": "episode",
-        "title": "Mindless",
-        "expiration_date": 1583985540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 697.37,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1577250000,
-        "modified": 1583436261,
-        "media_id": "4e6970de587788ab6dcd89a6db149a7bc0974c37",
-        "airing_id": "RADS1002072000061716",
-        "id": "XzfOxLEaSoSALFVLnTMsIQ",
-        "slug": "mindless",
-        "views": 308223,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351424119-harvey_030.jpg",
-        "created": 1402945467,
-        "title_id": "623568",
-        "season_number": "3",
-        "tv_rating": "tv-14-ds",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583436261,
-        "tags": [],
-        "rating_count": 934,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1581570000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351424119-harvey_030.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1446843840,
         "auth_expiration_date": 1586923140,
@@ -525,6 +474,58 @@
         "modified_by": "Duke Nguyen",
         "launch_date": 1564027200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351220523-harvey_001.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446844800,
+        "auth_expiration_date": 1582693140,
+        "tms_id": "EP004625750034",
+        "rating": 8.566061,
+        "description": "In a harrowing office accident involving a bagel, happy-go-lucky Peter Potamus consumes radioactive pellets which transform him into THE CREATURE!  Or rather, he turns green and his waist-size triples in seconds, which, let's face it, would send anyone over the edge.  On the brighter side, his new flowing mane leaves him bearing a striking resemblance to Frank Stallone!",
+        "title_suggest": {
+            "input": [
+                "Incredible Hippo",
+                "Hippo"
+            ]
+        },
+        "type": "episode",
+        "title": "Incredible Hippo",
+        "expiration_date": 1586404740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 696.9,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1579669200,
+        "modified": 1583575685,
+        "media_id": "4bd5bcb233122761d5f151ebd167f1cb4ce2724d",
+        "airing_id": "RADS1003062000070158",
+        "id": "uM2N80sOQumMeUpKATyzSQ",
+        "slug": "incredible-hippo",
+        "views": 269772,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351425387-harvey_034.jpg",
+        "created": 1402945467,
+        "title_id": "646352",
+        "season_number": "4",
+        "tv_rating": "tv-14-ds",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1583575685,
+        "tags": [],
+        "rating_count": 719,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1583985600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351425387-harvey_034.jpg",
         "cma_id": ""
     }
 ]
