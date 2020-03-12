@@ -547,6 +547,56 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1584595740,
+        "tms_id": "EP007164450021",
+        "rating": 7.9491525,
+        "description": "Stan wants Steve to be popular and goes to desperate measures giving him steroids to make him bigger, better and part of the in-crowd at school. But when the steroids have an unexpected side effect, Steve gets a lot more attention than anyone expected. Meanwhile, after Haley makes a movie about Francine's life as a housewife, Francine is determined to start a new career as a doctor.",
+        "title_suggest": {
+            "input": [
+                "Helping Handis",
+                "Handis"
+            ]
+        },
+        "type": "episode",
+        "title": "Helping Handis",
+        "expiration_date": 1499835599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1306.0715,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1583991000,
+        "clip_order": null,
+        "modified": 1583572927,
+        "media_id": "14c4242252302515d5c221e1bf68f6c0b7828e40",
+        "airing_id": "RADS1003062000070163",
+        "id": "JY0JW9a-RuaNS8B9EAS2XQ",
+        "slug": "helping-handis",
+        "views": 130354,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199187806734.jpg",
+        "created": 1402945460,
+        "title_id": "700730",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1583572927,
+        "tags": [],
+        "rating_count": 354,
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1499230800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199187806734.jpg",
+        "cma_id": "1425839"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1584158340,
         "tms_id": "EP007164450247",
         "description": "Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck. Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town.",
@@ -690,56 +740,6 @@
         "launch_date": 1498887000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991871802418.jpg",
         "cma_id": "1424492"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1583990940,
-        "tms_id": "EP007164450008",
-        "rating": 8.770968,
-        "description": "Hayley dumps Jeff and dates Bullock. Stan withholds his objections in order to get a promotion.",
-        "title_suggest": {
-            "input": [
-                "Bullocks to Stan",
-                "to Stan",
-                "Stan"
-            ]
-        },
-        "type": "episode",
-        "title": "Bullocks to Stan",
-        "expiration_date": 1498885199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1305.7712,
-        "episode_number": "8",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1583389800,
-        "modified": 1583022966,
-        "media_id": "2f90ec50f24c4949f8e5208a6466391daffbfdd5",
-        "airing_id": "RADS1002282000067871",
-        "id": "b3bqxFuJR4i_eVVaW6e78w",
-        "slug": "bullocks-to-stan",
-        "views": 357344,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199185689033.jpg",
-        "created": 1402945460,
-        "title_id": "611815",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1583022966,
-        "tags": [],
-        "rating_count": 310,
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1498280400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199185689033.jpg",
-        "cma_id": "1420311"
     },
     {
         "auth": true,
@@ -1036,7 +1036,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1583992740,
         "tms_id": "EP007164450009",
