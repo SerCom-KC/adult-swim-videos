@@ -2,55 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1584071940,
-        "tms_id": "EP012792980078",
-        "description": "Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, back at the restaurant, Bob and Teddy partner up to serve Teddy's home-brewed beer.",
-        "title_suggest": {
-            "input": [
-                "Speakeasy Rider",
-                "Rider"
-            ]
-        },
-        "expiration_date": 1554130740,
-        "title": "Speakeasy Rider",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1303.1334668,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "9",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1583470800,
-        "modified": 1583178610,
-        "media_id": "423be7451bb1a0465322abfb840143ca6a6b1172",
-        "airing_id": "RADS1002282000067886",
-        "id": "2ELQFzQvTKi81yGcQi3Y2Q",
-        "slug": "speakeasy-rider",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1443461422,
-        "season_number": "5",
-        "title_id": "2065459",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583178610,
-        "first_published": 1445311220,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1553526000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg",
-        "cma_id": "1480277"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1584592140,
         "tms_id": "EP012792980089",
         "description": "Bob and Louise are thrilled when they meet Hawk, star of their favorite 70's samurai vs. monster movies. When they find out Hawk is estranged from his daughter, who starred as Chick in his movies, they engineer a Hawk and Chick reunion.",
@@ -197,7 +148,7 @@
         "cma_id": "1476259"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1584073740,
         "tms_id": "EP012792980079",
@@ -646,5 +597,55 @@
         "launch_date": 1551715200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-itty-bitty-ditty-committee/bobsburgers_505_air_cid-2N879.jpg",
         "cma_id": "1476217"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1584676740,
+        "tms_id": "EP012792980090",
+        "description": "With the threat of a rent increase on Ocean Avenue, Bob and the other tenants organize a rent strike only to discover they will have to compete with each other on the grounds of Mr. Fischoeder's estate in order to keep their rents reasonable.",
+        "title_suggest": {
+            "input": [
+                "The Oeder Games",
+                "Oeder Games",
+                "Games"
+            ]
+        },
+        "expiration_date": 1553525940,
+        "title": "The Oeder Games",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1304.6006006,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "21",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584072000,
+        "modified": 1583669291,
+        "media_id": "f5a0b56235855f35df0787a031efdd845d3afa44",
+        "airing_id": "RADS1003062000070183",
+        "id": "gqtdwUujRoKMrFF_Z-xZHg",
+        "slug": "the-oeder-games",
+        "views": 4,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1451938051,
+        "season_number": "5",
+        "title_id": "2065469",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1583669291,
+        "first_published": 1452571819,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1552921200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-oeder-games/bobsburgers_508_air_cid-33DRJ.jpg",
+        "cma_id": "1478688"
     }
 ]
