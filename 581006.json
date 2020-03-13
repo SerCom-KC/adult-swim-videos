@@ -844,54 +844,6 @@
         "cma_id": "1364378"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1584071940,
-        "tms_id": "EP007164450246",
-        "description": "Roger and Klaus start having a secret affair after they accidentally end up on an online date together. Steve tries to catch Hayley's pink eye to get out of doing a fitness test at school.",
-        "title_suggest": {
-            "input": [
-                "Kloger"
-            ]
-        },
-        "expiration_date": 1555945140,
-        "title": "Kloger",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1295.03,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "19",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1583470800,
-        "modified": 1584044772,
-        "media_id": "c2747ea319e383231f803189cf5899733be7ea2a",
-        "airing_id": "RADS1002282000067882",
-        "id": "gWxgx0z4SRaEsAEM1PYSJA",
-        "slug": "kloger",
-        "views": 3462,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15182081116656.jpg",
-        "created": 1502136876,
-        "season_number": "12",
-        "title_id": "2069550",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1584044772,
-        "first_published": 1503807048,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1555340400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg",
-        "cma_id": "1463525"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1584511140,
@@ -1037,6 +989,58 @@
         "launch_date": 1498622400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199186214813.jpg",
         "cma_id": "611817"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1584676740,
+        "tms_id": "EP007164450205",
+        "description": "Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker.",
+        "title_suggest": {
+            "input": [
+                "Hayley Smith, Seal Team Six",
+                "Smith, Seal Team Six",
+                "Seal Team Six",
+                "Team Six",
+                "Six"
+            ]
+        },
+        "expiration_date": 1556549940,
+        "title": "Hayley Smith, Seal Team Six",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.57,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "3",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584072000,
+        "modified": 1584044775,
+        "media_id": "c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c",
+        "airing_id": "RADS1003062000070181",
+        "id": "uo1Kf91lTPCZCjE4bnKkCQ",
+        "slug": "hayley-smith-seal-team-six",
+        "views": 6723,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200191612226.jpg",
+        "created": 1442344530,
+        "season_number": "11",
+        "title_id": "2041476",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1584044775,
+        "first_published": 1472703041,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1555945200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg",
+        "cma_id": "1470084"
     },
     {
         "auth": true,
