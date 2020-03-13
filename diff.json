@@ -1,110 +1,68 @@
 {
-    "updated": 1584081199,
+    "updated": 1584115401,
     "added": [
         {
-            "auth": true,
-            "auth_expiration_date": 1584685740,
-            "tms_id": "EP002960010047",
-            "rating": 7.908972,
-            "description": "Peter's jealously forces a trial separation; Stewie and Brian get glued together.\r\n\r\n",
-            "title_suggest": {
-                "input": [
-                    "Stuck Together, Torn Apart",
-                    "Together, Torn Apart",
-                    "Torn Apart",
-                    "Apart"
-                ]
-            },
-            "type": "episode",
-            "title": "Stuck Together, Torn Apart",
-            "expiration_date": null,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-            "duration": 1348.9142,
-            "episode_number": "19",
-            "auth_launch_date": 1584081000,
-            "modified": 1583667012,
-            "media_id": "a4a0e046e8f9ac93dab58c9485d92837089c2a21",
-            "airing_id": "RADS1003062000070186",
-            "id": "pxfq-qCkSE6SGgXSgMkguw",
-            "slug": "stuck-together-torn-apart",
-            "views": 611263,
-            "created": 1402945464,
-            "title_id": "441780",
-            "season_number": "3",
-            "tv_rating": "tv-14-lv",
-            "active": false,
-            "published": 1583667012,
-            "tags": [
-                "family guy episode 310 stuck together torn apart peter lois jealous boyfriend glue stewie brian"
-            ],
-            "rating_count": 2384,
-            "collection_title": "Family Guy",
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_737234396258513158.jpg",
-            "cma_id": "1439937",
-            "collection_slug": "family-guy",
-            "collection_title_id": "440990",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth": false,
             "ott_launch_date": null,
-            "auth_expiration_date": 1584080940,
-            "tms_id": "EP002960010036",
-            "rating": 7.5006003,
-            "description": "Lois takes up the martial art Tae-Jitsu and chases away New York tourists; the Griffin family learns how to love/hate each other.",
+            "auth_expiration_date": null,
+            "tms_id": "",
+            "description": "A new comedy from Tim and Eric. Beef House premieres Sunday, March 29th at Midnight ET.",
             "title_suggest": {
                 "input": [
-                    "Lethal Weapons",
-                    "Weapons"
+                    "Beef House Premieres Sunday March 29th!",
+                    "House Premieres Sunday March 29th!",
+                    "Premieres Sunday March 29th!",
+                    "Sunday March 29th!",
+                    "March 29th!",
+                    "29th!"
                 ]
             },
-            "type": "episode",
-            "title": "Lethal Weapons",
-            "expiration_date": 1501136999,
+            "title": "Beef House Premieres Sunday March 29th!",
+            "expiration_date": 1588348770,
+            "type": "clip",
             "platforms": [
-                "web",
-                "mobile"
+                "android",
+                "fire-tv",
+                "ios",
+                "online-exclusive",
+                "roku"
             ],
-            "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-            "duration": 1349.0811,
-            "episode_number": "7",
+            "collection_id": "AXA_fsNN3HMJfT8do8kA",
+            "duration": 59.97,
             "original_air_date": null,
-            "auth_launch_date": 1583479800,
+            "auth_launch_date": null,
             "clip_order": null,
-            "modified": 1583115486,
-            "media_id": "f189f2161ad127605067a7eb11d1be13ff09074c",
-            "airing_id": "RADS1002282000067879",
-            "id": "pIzxBZ40QuudEAVe1IMb0A",
-            "slug": "lethal-weapons",
-            "views": 301571,
+            "media_id": "",
+            "modified": 1584037451,
+            "slug": "beef-house-premieres-sunday-march-29th",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15414477969167.jpg",
-            "created": 1402945465,
-            "title_id": "441041",
-            "season_number": "3",
-            "tv_rating": "tv-14-d",
-            "active": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200310/thumbnails/1_203101154530-promo_BEEFHOUSE_LAUNCH_60_DATED.jpg",
+            "created": 1583855734,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1583115486,
-            "tags": [],
-            "rating_count": 833,
-            "collection_title": "Family Guy",
-            "modified_by": "ODT Listener",
-            "launch_date": 1500532200,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15414477969167.jpg",
-            "cma_id": "1436740",
-            "collection_slug": "family-guy",
-            "collection_title_id": "440990",
-            "online_exclusives": false
+            "published": 1584037451,
+            "tags": [
+                "beef house",
+                "tim heidecker",
+                "eric wareheim",
+                "sitcom",
+                "trailer",
+                "adult swim",
+                "promo"
+            ],
+            "collection_title": "Beef House",
+            "disable_ads": false,
+            "modified_by": "Duke Nguyen",
+            "launch_date": 1584115200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200310/thumbnails/2_203101154530-promo_BEEFHOUSE_LAUNCH_60_DATED.jpg",
+            "id": "AXDFKI5HGRcVO2K2pm_1",
+            "auth": false,
+            "collection_slug": "beef-house",
+            "collection_title_id": "2215447",
+            "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
