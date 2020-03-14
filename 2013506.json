@@ -1,6 +1,58 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1505140260,
+        "auth_expiration_date": 1580965140,
+        "tms_id": "EP018336730029",
+        "description": "Atlantis here we come broh! A nice self contained episode about Atlantis!",
+        "title_suggest": {
+            "input": [
+                "The Ricklantis Mixup",
+                "Ricklantis Mixup",
+                "Mixup"
+            ]
+        },
+        "expiration_date": 1584590340,
+        "title": "The Ricklantis Mixup",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 1337.5838198,
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1580360400,
+        "modified": 1584163210,
+        "media_id": "42175deabefdce25823a3b49ca69dd321c30c62b",
+        "airing_id": "RADS1003062000070143",
+        "id": "-TuNRn5JSYm4T361r_KzAg",
+        "slug": "the-ricklantis-mixup",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1504728313,
+        "season_number": "3",
+        "title_id": "2116836",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1584163210,
+        "first_published": 1504879819,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1583985600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-ricklantis-mixup/rickandmorty_307_dup-20170906_1.jpg",
+        "cma_id": "1474030"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
