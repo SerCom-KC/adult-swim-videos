@@ -2,25 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 14, 2020 at 01:30:38 EDT_
+_Last Update: March 14, 2020 at 02:00:43 EDT_
 ## Video added
 ### Summary
-2013506 Rick and Morty: 2  
-### 2116838
-**Rick and Morty S03E08 - Morty's Mind Blowers**  
-TV-14-DLV 🔓 22:08  
-⌛ March 18, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/rick-and-morty/mortys-mind-blowers  
-seriesid=`2013506` titleid=`2116838` id=`sUCOK3V2SNq46JBhJyzBcQ` mediaid=`90b950976db46c86a99c6d811cca01ad8d3c142c`  
-_Morty's memories are restored and we learn the truth in this one broh._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/mortys-mind-blowers/rickandmorty_309_dup-20170913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/mortys-mind-blowers/rickandmorty_309_dup-20170913.jpg" height="144px" /></a>
-### 2116836
-**Rick and Morty S03E07 - The Ricklantis Mixup**  
-TV-14-DLV 🔓 22:17  
-⌛ March 18, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/rick-and-morty/the-ricklantis-mixup  
-seriesid=`2013506` titleid=`2116836` id=`-TuNRn5JSYm4T361r_KzAg` mediaid=`42175deabefdce25823a3b49ca69dd321c30c62b`  
-_Atlantis here we come broh! A nice self contained episode about Atlantis!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-ricklantis-mixup/rickandmorty_307_dup-20170906_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-ricklantis-mixup/rickandmorty_307_dup-20170906_1.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 700753
+**American Dad S02E06 - The American Dad After School Special**  
+TV-14-DL 🔒 21:44  
+⌛ March 21, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-american-dad-after-school-special  
+seriesid=`581006` titleid=`700753` id=`RDN4SsD8T6qEnk9K5pzuow` mediaid=`86ee2a2ec7fabf53b96877f6e1c0189ff5ceb414`  
+_Steve starts dating an overweight girl. Stan's insecurity about his own body image leads him to anorexia._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199199692924.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199199692924.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+581006 American Dad: 1  
+### 631387
+**American Dad S01E14 - Stannie Get Your Gun**  
+TV-14-DV 🔓 21:44  
+⌛ March 14, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/stannie-get-your-gun  
+seriesid=`581006` titleid=`631387` id=`7WAWmkVITAOagOXAsTnBqw` mediaid=`a1d5bc526e7aef262f949eb10eec7c036ba23830`  
+_Stan and Hayley attempt to bond, but things are difficult due to Stan's obsession with guns. In the process, Hayley herself accidentally shoots Stan and paralyzes him. Meanwhile, Roger takes revenge on Steve for eating his cookie by convincing him he's adopted._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991866804315.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991866804315.jpg" height="144px" /></a>
