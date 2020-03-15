@@ -505,6 +505,63 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1584856740,
+        "tms_id": "EP002960010051",
+        "rating": 7.7102594,
+        "description": "During their second honeymoon, Peter and Lois stumble upon a horror too great to bear: Mel Gibson's Passion of the Christ 2.",
+        "title_suggest": {
+            "input": [
+                "North By North Quahog",
+                "By North Quahog",
+                "North Quahog",
+                "Quahog"
+            ]
+        },
+        "type": "episode",
+        "title": "North By North Quahog",
+        "expiration_date": 1501914599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1310.4424,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1584252000,
+        "clip_order": null,
+        "modified": 1584025329,
+        "media_id": "2ab06982c2729d25331f4db978332559b30a1bbc",
+        "airing_id": "RADS1003092000070377",
+        "id": "laPeoUMvTE-LhG_tr0EoBg",
+        "slug": "north-by-north-quahog",
+        "views": 837850,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152848112135718.jpg",
+        "created": 1402945464,
+        "title_id": "615750",
+        "season_number": "4",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1584025329,
+        "tags": [
+            "Family Guy",
+            " Episode 401",
+            " Season 4",
+            " North By North Quahog"
+        ],
+        "rating_count": 2661,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1501309800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848112135718.jpg",
+        "cma_id": "1441129"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1584772140,
         "tms_id": "EP002960010048",
         "rating": 7.5584855,
