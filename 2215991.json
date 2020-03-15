@@ -101,56 +101,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1584257340,
-        "tms_id": "",
-        "description": "The Final Load Test has begun, and the Eastern Gate has collapsed. Incited by Gabriel, now Emperor Vecta, the massive army of the Land of Darkness pushes on towards the Human Empire.",
-        "title_suggest": {
-            "input": [
-                "Battle of the Knights",
-                "of the Knights",
-                "the Knights",
-                "Knights"
-            ]
-        },
-        "title": "Battle of the Knights",
-        "expiration_date": 1585470540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
-        "duration": 1321.3534,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1582446600,
-        "clip_order": null,
-        "media_id": "103769a2dc0a633c8e69db0f78a003685c32b5dd",
-        "modified": 1583869568,
-        "airing_id": "RADS1002132000062956",
-        "slug": "battle-of-the-knights",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/1_201231457562-SAO_WoU_006.jpg",
-        "created": 1579809482,
-        "season_number": "1",
-        "title_id": "2215997",
-        "tv_rating": "tv-14-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1583869568,
-        "tags": [],
-        "collection_title": "Sword Art Online: Alicization - War of Underworld",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1584261000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231457562-SAO_WoU_006.jpg",
-        "id": "AW_T-6j8GRcVO2K2pmX4",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1595303999,
         "tms_id": "EP033346400003",
         "description": "A force from the Dark Territory launches an attack on Rulid Village. Alice rushes over on her dragon, Amayori. There she finds the villagers unable to flee because the Taboo Index prevents them from defying the Chief Man-at-Arms' orders.",
@@ -292,7 +242,7 @@
         "launch_date": 1583051400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231457226-SAO_WoU_004.jpg",
         "id": "AW_T-x97GRcVO2K2pmX2",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -443,6 +393,55 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261335432-promo_SAO_WoU_Topical_108_SAT.jpg",
         "id": "AXCCyRbL3HMJfT8do8x9",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586071740,
+        "tms_id": "",
+        "description": "Now that he's seen Alice, Gabriel orders his entire army to charge in order to capture her. The Dark Forces' elite Pugilists Guild arrives ahead of the main army in pursuit of Alice and the raid unit.",
+        "title_suggest": {
+            "input": [
+                "Sword and Fist",
+                "and Fist",
+                "Fist"
+            ]
+        },
+        "title": "Sword and Fist",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
+        "duration": 1321.1198,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1584257400,
+        "clip_order": null,
+        "media_id": "2b86efe6d156ea2646555a4251a0c5280a15e87f",
+        "modified": 1584080769,
+        "airing_id": "RADS1003092000070388",
+        "slug": "sword-and-fist",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261337226-SAO_WoU_009.jpg",
+        "created": 1582742247,
+        "season_number": "1",
+        "title_id": "2216000",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1584080769,
+        "tags": [],
+        "collection_title": "Sword Art Online: Alicization - War of Underworld",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261337226-SAO_WoU_009.jpg",
+        "id": "AXCCyhd73HMJfT8do8x_",
+        "auth": true
     },
     {
         "ott_launch_date": null,
