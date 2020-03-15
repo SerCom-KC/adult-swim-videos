@@ -2,35 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 15, 2020 at 02:00:37 EDT_
+_Last Update: March 15, 2020 at 02:30:36 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
 440990 Family Guy: 1  
-### 2132989
-**Bob's Burgers S07E18 - Into the Mild**  
-TV-PG-L 🔒 21:45  
-⌛ March 22, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/into-the-mild  
-seriesid=`2003422` titleid=`2132989` id=`AWDc4J6jZ-onAnjDLt7A` mediaid=`a6fa6d914eab78ab23f8009606f9880ec252ba8e`  
-_When Bob finds out that the local outdoor adventure store is having a going out of business sale, he decides to finally realize his dream of becoming an outdoorsman._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151784511773910.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151784511773910.jpg" height="144px" /></a>
-### 615750
-**Family Guy S04E01 - North By North Quahog**  
-TV-14-DLSV 🔒 21:50  
-⌛ March 22, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/north-by-north-quahog  
-seriesid=`440990` titleid=`615750` id=`laPeoUMvTE-LhG_tr0EoBg` mediaid=`2ab06982c2729d25331f4db978332559b30a1bbc`  
-_During their second honeymoon, Peter and Lois stumble upon a horror too great to bear: Mel Gibson's Passion of the Christ 2._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848112135718.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848112135718.jpg" height="144px" /></a>
+### 615751
+**Family Guy S04E02 - Fast Times at Buddy Cianci High**  
+TV-14-DLS 🔒 21:04  
+⌛ March 22, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/fast-times-at-buddy-cianci-high  
+seriesid=`440990` titleid=`615751` id=`3rdiqn2NQyi20OX9BVvABg` mediaid=`a990187694bbe27337975ed6a717118e479eebbe`  
+_Chris falls for his new substitute teacher (who wants him to kill her husband), while Brian tries to get through to a bunch of school rejects._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881375263012.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881375263012.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2132988
-**Bob's Burgers S07E17 - Paraders of the Lost Float**  
-TV-PG-L 🔒 21:27  
-⌛ March 15, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/paraders-of-the-lost-float  
-seriesid=`2003422` titleid=`2132988` id=`AWDc4Ex_Z-onAnjDLt6_` mediaid=`45cfc2526dd3d321da486c669ef6e6aecbf844e2`  
-_When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg" height="144px" /></a>
+2142267 My Hero Academia: 1  
+### 2214116
+**My Hero Academia S04E12 - Unforeseen Hope**  
+TV-14-V 🔓 22:33  
+⌛ March 21, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/my-hero-academia/unforeseen-hope  
+seriesid=`2142267` titleid=`2214116` id=`AW_8CjeA3HMJfT8do7-3` mediaid=`ea618c84244fdb1d2fcd3148d474094bdcbed760`  
+_Izuku, Eraser Head, and Sir Nighteye finally reach the area where Chisaki and the others are and find Togata past his limit..._  
+<a href="https://media.cdn.adultswim.com/uploads/20200131/thumbnails/2_20131938408-myheroacademia_075.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200131/thumbnails/2_20131938408-myheroacademia_075.jpg" height="144px" /></a>
