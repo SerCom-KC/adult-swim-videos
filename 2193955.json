@@ -2618,56 +2618,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1584264540,
-        "tms_id": "EP030726850017",
-        "description": "Bucciarati and gang hide inside a turtle aboard their train hurtling toward Florence as Mista fights to keep Pesci's body-piercing fish hook from ensnaring his brain. Meanwhile, Prosciuttohas released his Stand.",
-        "title_suggest": {
-            "input": [
-                "Thankful Death Part 1",
-                "Death Part 1",
-                "Part 1",
-                "1"
-            ]
-        },
-        "title": "Thankful Death Part 1",
-        "expiration_date": 1587292140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
-        "duration": 1372.4711,
-        "episode_number": "15",
-        "original_air_date": null,
-        "auth_launch_date": 1582453800,
-        "clip_order": null,
-        "media_id": "df79462db75864695a4293955649fa50a4958e3a",
-        "modified": 1583876646,
-        "airing_id": "RADS1002132000062958",
-        "slug": "thankful-death-part-1",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200211/thumbnails/1_202111013332-jojo_goldenwind_015.jpg",
-        "created": 1581434017,
-        "season_number": "4",
-        "title_id": "2193971",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1583876646,
-        "tags": [],
-        "collection_title": "JoJo's Bizarre Adventure",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1584268200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_202111013332-jojo_goldenwind_015.jpg",
-        "id": "AXA00Bg83HMJfT8do8cj",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1584869340,
         "tms_id": "",
         "description": "To save his squad, Bucciarati risks all by grabbing hold of Prosciutto and hurling himself off the speeding train, only to be saved by Pesci's hook.",
@@ -2863,6 +2813,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341455110-jojo_goldenwind_017.jpg",
         "id": "AXCnHd0l3HMJfT8do9HN",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586078940,
+        "tms_id": "EP030726850020",
+        "description": "Giorno fights transmutation with transmutation as he weaponizes his own severed hand and imbues inanimate objects with life against Melone's baby Stand.",
+        "title_suggest": {
+            "input": [
+                "Verso Venezia",
+                "Venezia"
+            ]
+        },
+        "title": "Verso Venezia",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
+        "duration": 1371.6035,
+        "episode_number": "18",
+        "original_air_date": null,
+        "auth_launch_date": 1584264600,
+        "clip_order": null,
+        "media_id": "1f3aa376bcc1e6962d419f060df5177e4bba33d0",
+        "modified": 1583975527,
+        "airing_id": "RADS1003092000070381",
+        "slug": "verso-venezia",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341455486-jojo_goldenwind_018.jpg",
+        "created": 1583351753,
+        "season_number": "4",
+        "title_id": "2193974",
+        "tv_rating": "tv-ma-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1583975527,
+        "tags": [],
+        "collection_title": "JoJo's Bizarre Adventure",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341455486-jojo_goldenwind_018.jpg",
+        "id": "AXCnHms_3HMJfT8do9HO",
         "auth": true
     }
 ]
