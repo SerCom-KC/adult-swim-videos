@@ -2,49 +2,44 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 17, 2020 at 22:30:38 EDT_
+_Last Update: March 18, 2020 at 00:00:38 EDT_
 ## Video added
-No videos were added.  
+### Summary
+340539 Harvey Birdman, Attorney at Law: 1  
+629688 Moral Orel: 1  
+### 344145
+**Harvey Birdman, Attorney at Law S01E04 - Death By Chocolate**  
+TV-14 🔒 12:01  
+⌛ April 21, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/death-by-chocolate  
+seriesid=`340539` titleid=`344145` id=`Tid89QGpRcCL2JhZFWY1dw` mediaid=`09d2d531ff37da64b53a5e650ac78b12987bfcf9`  
+_The ATF surround Yogi and Boo Boo's cave and arrest the young bear, charging him with being the eco-terrorist Unabooboo, Harvey throws himself into the case, and into the loving arms of the cute little bear._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351221542-harvey_004.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351221542-harvey_004.jpg" height="144px" /></a>
+### 723831
+**Moral Orel S03E04 - Alone**  
+TV-MA 🔒 11:44  
+⌛ April 21, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/moral-orel/alone  
+seriesid=`629688` titleid=`723831` id=`aYqZHzj8RhmkDOiAi0UGIQ` mediaid=`592b5433fae12bcca563164da01b24701b227af2`  
+_The final nail in the show's coffin._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311166238-moralorel_033.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311166238-moralorel_033.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2161118 Joe Pera Talks With You: 5  
-### 2214316
-**Joe Pera Talks With You S02E11 - Joe Pera Shows You How to Do Good Fashion**  
- 🔓 22:22  
-⌛ March 17, 2020 at 21:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-shows-you-how-to-do-good-fashion  
-seriesid=`2161118` titleid=`2214316` id=`AW-BdXZv3HMJfT8do61F` mediaid=`1d9ba1c431e1f06a0fdba5a8cf77263fc102ac82`  
-_Where does fashion come from? Joe Pera and his friend Gene take a road trip to Milwaukee, Wisconsin to find out._  
-<a href="https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171422324-joeperatalks_211-212_dup-20191211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171422324-joeperatalks_211-212_dup-20191211.jpg" height="144px" /></a>
-### 2214318
-**Joe Pera Talks With You S02E12 - Joe Pera Shows You How to Pack a Lunch**  
-TV-14-DL 🔓 11:12  
-⌛ March 17, 2020 at 21:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-shows-you-how-to-pack-a-lunch  
-seriesid=`2161118` titleid=`2214318` id=`AW-Bdn073HMJfT8do61G` mediaid=`2013f17b8609e22e7877b2ff02a09d8fe4824cf5`  
-_How do you pack the perfect lunch? Joe Pera attempts it with you on the last night of summer before school begins._  
-<a href="https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171423399-joeperatalks_213_dup-20191212.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171423399-joeperatalks_213_dup-20191212.jpg" height="144px" /></a>
-### 2214310
-**Joe Pera Talks With You S02E05 - Joe Pera Takes You to the Grocery Store**  
-TV-PG-L 🔓 11:17  
-⌛ March 17, 2020 at 21:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-takes-you-to-the-grocery-store  
-seriesid=`2161118` titleid=`2214310` id=`AW8QY3oqGRcVO2K2pl8o` mediaid=`267cff36585f518533b4cc695bf05485ee128dbf`  
-_Featuring a number of fruits and vegetables, Joe Pera takes you on his weekly trip to the grocery store._  
-<a href="https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_191216152549-joeperatalks_205_dup-20191105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_191216152549-joeperatalks_205_dup-20191105.jpg" height="144px" /></a>
-### 2214311
-**Joe Pera Talks With You S02E06 - Joe Pera Goes to Dave Wojcek's Bachelor Party with You**  
-TV-14-DL 🔓 11:14  
-⌛ March 17, 2020 at 21:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-goes-to-dave-wojceks-bachelor-party-with-you  
-seriesid=`2161118` titleid=`2214311` id=`AW8QZBYtGRcVO2K2pl8p` mediaid=`ba5d014505640eff3a9f34081af3ea01fb60f007`  
-_Joe Pera and you bring a big cooler to a bachelor party in the woods._  
-<a href="https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_1912161526112-joeperatalks_206_dup-20191114.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_1912161526112-joeperatalks_206_dup-20191114.jpg" height="144px" /></a>
-### 2214315
-**Joe Pera Talks With You S02E10 - Joe Pera Helps You Write**  
-TV-PG 🔓 12:17  
-⌛ March 17, 2020 at 21:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-helps-you-write  
-seriesid=`2161118` titleid=`2214315` id=`AW8VHcyr3HMJfT8do6gM` mediaid=`6d770d2501f17778440043d4dcae44b27da9f260`  
-_In which Joe and you attempt to write something meaningful._  
-<a href="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_1912171327296-joeperatalks_210_dup-20191120.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_1912171327296-joeperatalks_210_dup-20191120.jpg" height="144px" /></a>
+340539 Harvey Birdman, Attorney at Law: 1  
+629688 Moral Orel: 1  
+### 651240
+**Harvey Birdman, Attorney at Law S04E06 - Harvey Birdman, Juror in Court**  
+TV-14-D 🔒 11:36  
+⌛ March 17, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/harvey-birdman-juror-in-court  
+seriesid=`340539` titleid=`651240` id=`PqKsGRN0QO6THR_5v5VR1A` mediaid=`50eb857ea3810431428f05b3ee8fac13bf7ad7c2`  
+_Harvey defends the Hair Bears for a mauling at a fast food restaurant, but he is also called to serve on the jury.  So naturally, the Deadly Duplicator appears and makes two of him, so he can do both.  Meanwhile, Potamus suffers from sexual harassment at the hands of Judy Ken Sebben._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035142727-harvey_038.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035142727-harvey_038.jpg" height="144px" /></a>
+### 657353
+**Moral Orel S02E19 - Nature pt. 1**  
+TV-MA 🔒 11:18  
+⌛ March 17, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/moral-orel/nature-pt-1  
+seriesid=`629688` titleid=`657353` id=`CZwiihI4QjSbAmOjo9G9eA` mediaid=`f03c78dab8fd65ab2080f3ed850d221557152680`  
+_Orel and Clay take a father and son hunting trip._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg" height="144px" /></a>
