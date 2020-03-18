@@ -410,61 +410,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447172280,
-        "auth_expiration_date": 1584503940,
-        "tms_id": "EP007959510029",
-        "rating": 6.5537734,
-        "description": "Orel and Clay take a father and son hunting trip.",
-        "title_suggest": {
-            "input": [
-                "Nature pt. 1",
-                "pt. 1",
-                "1"
-            ]
-        },
-        "type": "episode",
-        "title": "Nature pt. 1",
-        "expiration_date": 1567051140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 678.6339673,
-        "episode_number": "19",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1581483600,
-        "modified": 1583957047,
-        "media_id": "f03c78dab8fd65ab2080f3ed850d221557152680",
-        "airing_id": "RADS1002062000061455",
-        "id": "CZwiihI4QjSbAmOjo9G9eA",
-        "slug": "nature-pt-1",
-        "views": 372481,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311163585-moralorel_022.jpg",
-        "created": 1402945470,
-        "title_id": "657353",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583957047,
-        "tags": [
-            "moral orel episode 22 nature 1 hunting camping trip clay shot gun"
-        ],
-        "rating_count": 5114,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1564027200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg",
-        "cma_id": "1427090"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -526,6 +471,57 @@
         "launch_date": 1412878440,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/rev-putty-sermons-necrophilia/moralorel_putty_EXTENDED_5-01_1.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447172940,
+        "auth_expiration_date": 1587527940,
+        "tms_id": "EP007959510034",
+        "rating": 7.9383616,
+        "description": "The final nail in the show's coffin.",
+        "title_suggest": {
+            "input": [
+                "Alone"
+            ]
+        },
+        "type": "episode",
+        "title": "Alone",
+        "expiration_date": 1570075140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 704.6006006,
+        "episode_number": "4",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584504000,
+        "modified": 1584216728,
+        "media_id": "592b5433fae12bcca563164da01b24701b227af2",
+        "airing_id": "RADS1003142000073548",
+        "id": "aYqZHzj8RhmkDOiAi0UGIQ",
+        "slug": "alone",
+        "views": 343685,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311166238-moralorel_033.jpg",
+        "created": 1402945470,
+        "title_id": "723831",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1584216728,
+        "tags": [],
+        "rating_count": 1233,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1567051200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311166238-moralorel_033.jpg",
+        "cma_id": "1448703"
     },
     {
         "auth": false,
