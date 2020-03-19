@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 19, 2020 at 01:30:36 EDT_
+_Last Update: March 19, 2020 at 02:00:42 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 1  
-### 700761
-**American Dad S02E13 - Bush Comes to Dinner**  
-TV-14 🔒 21:46  
-⌛ March 26, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/bush-comes-to-dinner  
-seriesid=`581006` titleid=`700761` id=`fsADuEEgRsaisTcKYDlrxA` mediaid=`88cdb95550cfd3c32858ebaf1fd250cfa421e3cc`  
-_President Bush comes to dinner when Stan wins an essay-writing contest. Hayley is determined to bring down the presidency after Roger accidentally gets Bush drunk. Meanwhile, Roger thinks he's found Osama bin Laden._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993355428314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993355428314.jpg" height="144px" /></a>
+### 700762
+**American Dad S02E15 - American Dream Factory**  
+TV-14-DL 🔒 21:45  
+⌛ March 26, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/american-dream-factory  
+seriesid=`581006` titleid=`700762` id=`BxtCCNocTmG8GsT5kV02CQ` mediaid=`73a2ceb26f7f50ec6be07bfaa2abb5b9feb6f94e`  
+_Stan chases his dream of making a fortune and living the American dream by selling holiday teddy bears. When business takes off Stan hires illegal immigrants to help him, but INS quickly starts breathing down his neck. Meanwhile, Steve starts a band with his friends, only to have Roger usurp him as the lead._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199335771086.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199335771086.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 581006 American Dad: 1  
-### 700730
-**American Dad S02E02 - Helping Handis**  
-TV-14-DLV 🔒 21:46  
-⌛ March 19, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/helping-handis  
-seriesid=`581006` titleid=`700730` id=`JY0JW9a-RuaNS8B9EAS2XQ` mediaid=`14c4242252302515d5c221e1bf68f6c0b7828e40`  
-_Stan wants Steve to be popular and goes to desperate measures giving him steroids to make him bigger, better and part of the in-crowd at school. But when the steroids have an unexpected side effect, Steve gets a lot more attention than anyone expected. Meanwhile, after Haley makes a movie about Francine's life as a housewife, Francine is determined to start a new career as a doctor._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199187806734.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199187806734.jpg" height="144px" /></a>
+### 700731
+**American Dad S02E03 - With Friends Like Steve's**  
+TV-14 🔒 21:46  
+⌛ March 19, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/with-friends-like-steves  
+seriesid=`581006` titleid=`700731` id=`K2-akmYiR9udQIcniBkFJA` mediaid=`a2ded0c1fa62903b685cd08932db1dd6bceed888`  
+_After Steve shows a lack of interest in Stan's job, Stan replaces him with Barry, Steve's obese friend, who is in fact malicious (without his medication) and plots to replace him completely. Meanwhile, Roger does an impressive keg stand and becomes a fraternity brother._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200194434854.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200194434854.jpg" height="144px" /></a>
