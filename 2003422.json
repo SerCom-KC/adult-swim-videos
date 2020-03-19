@@ -102,54 +102,6 @@
         "cma_id": "1478480"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1584590340,
-        "tms_id": "EP012792980088",
-        "description": "In true Belcher fashion, the family gets stuck in a terrible storm while taking care of a beach house in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of the home.",
-        "title_suggest": {
-            "input": [
-                "Housetrap"
-            ]
-        },
-        "expiration_date": 1552921140,
-        "title": "Housetrap",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1304.9009009,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "19",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1583985600,
-        "modified": 1583577727,
-        "media_id": "4ee829b9a07504a4eaa97f8c1a46239e7280700a",
-        "airing_id": "RADS1003062000070166",
-        "id": "6Tm4GhhHRDy_HSL-uw8zQQ",
-        "slug": "housetrap",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1450299183,
-        "season_number": "5",
-        "title_id": "2065468",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583577727,
-        "first_published": 1451362819,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1552316400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg",
-        "cma_id": "1478102"
-    },
-    {
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1584854940,
@@ -649,5 +601,56 @@
         "launch_date": 1563768000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/sexy-dance-healing/bobsburgers_515_air_cid-2WYDJ_1.jpg",
         "cma_id": "1433795"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585195140,
+        "tms_id": "EP012792980101",
+        "description": "When Tina volunteers alongside Nurse Liz, she finds herself involved in the biggest scandal to hit Wagstaff School: a lice infestation. Meanwhile, Bob makes improvements to the restaurant that end up driving customers away. Can the Belchers juggle both a crisis at the restaurant and lice?",
+        "title_suggest": {
+            "input": [
+                "Lice Things Are Lice",
+                "Things Are Lice",
+                "Are Lice",
+                "Lice"
+            ]
+        },
+        "title": "Lice Things Are Lice",
+        "type": "episode",
+        "expiration_date": 1561348740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.4671338,
+        "episode_number": "10",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584590400,
+        "modified": 1584244092,
+        "media_id": "a909891d15d58088f05551a732c1f6c50929e894",
+        "airing_id": "RADS1003142000073575",
+        "id": "n30WUqEbTQ6SoVjPzcEF7w",
+        "slug": "lice-things-are-lice",
+        "views": 6,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1478412622,
+        "title_id": "2097198",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1584244092,
+        "first_published": 1478412622,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1560744000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/lice-things-are-lice/bobsburgers_519_air_cid-2X3CM.jpg",
+        "cma_id": "1434258"
     }
 ]
