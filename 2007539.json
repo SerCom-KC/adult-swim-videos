@@ -103,17 +103,17 @@
     {
         "ott_launch_date": 1521469860,
         "auth": false,
-        "auth_expiration_date": 1584590340,
-        "tms_id": "EP018514630031",
-        "description": "When Mrs. Goodman confronts the parents of Tommy's bullies, they dump their out-of-control kids with her for the day.",
+        "auth_expiration_date": 1583985540,
+        "tms_id": "EP018514630030",
+        "description": "Sheriff guest stars on the crime fighting reality show, Sheriffs.",
         "title_suggest": {
             "input": [
-                "Bullies"
+                "Sheriffs"
             ]
         },
-        "expiration_date": 1581569940,
+        "expiration_date": 1587614340,
         "type": "episode",
-        "title": "Bullies",
+        "title": "Sheriffs",
         "platforms": [
             "android",
             "fire-tv",
@@ -122,31 +122,31 @@
             "roku"
         ],
         "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 677.75,
-        "episode_number": "8",
+        "duration": 648.29,
+        "episode_number": "7",
         "original_air_date": null,
-        "auth_launch_date": 1581570000,
+        "auth_launch_date": 1580965200,
         "clip_order": null,
-        "media_id": "248842cb0b264dae86250bf3f8e3a737e1e1df68",
-        "modified": 1584026832,
-        "airing_id": "RADS1001032000051964",
-        "id": "AWHX879KNWyh42wYnlDD",
-        "slug": "bullies",
+        "media_id": "65cffdb045883636730bc2cdc4e3e5c9bfb27515",
+        "modified": 1584231969,
+        "airing_id": "RADS1003142000073568",
+        "id": "AWHX81TlNWyh42wYnlDC",
+        "slug": "sheriffs",
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15197465410168.jpg",
-        "created": 1519746531,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15197465106555.jpg",
+        "created": 1519746503,
         "season_number": "3",
-        "title_id": "2120613",
-        "tv_rating": "tv-ma-lsv",
+        "title_id": "2120609",
+        "tv_rating": "tv-ma-sv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1584026832,
+        "published": 1584231969,
         "tags": [],
         "collection_title": "Mr. Pickles",
         "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1578546000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465410168.jpg"
+        "modified_by": "ODT Listener",
+        "launch_date": 1584590400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465106555.jpg"
     },
     {
         "ott_launch_date": 1520865060,
@@ -480,7 +480,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1519659060,
         "auth_expiration_date": 1587614340,
         "tms_id": "EP018514630025",

@@ -144,6 +144,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447438680,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760020",
+        "rating": 8.025266,
+        "description": "Murphy's golf game is cut short by a lack of balls. In his frantic search for the pro shop, he encounters Monster-Hesh, snotty telephone operators, Dolphin Boy and the perfidious Eggers. Of course, none of that matters when you're blowing the foam off a couple of cold ones down at The Idiot. \"Hey! Is that my hat?!\"",
+        "title_suggest": {
+            "input": [
+                "Legend of Baggy Pants",
+                "of Baggy Pants",
+                "Baggy Pants",
+                "Pants"
+            ]
+        },
+        "type": "episode",
+        "title": "Legend of Baggy Pants",
+        "expiration_date": 1587614340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 675.54,
+        "episode_number": "4",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1584480731,
+        "media_id": "418d29d57b35f1d2a1207106321eafed39874c5e",
+        "airing_id": "RADS1003162000074847",
+        "id": "H7ZQHbGpTQuEnssFoOUSzQ",
+        "slug": "legend-of-baggy-pants",
+        "views": 216375,
+        "thumbnail": "",
+        "created": 1402945476,
+        "title_id": "434937",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1584480731,
+        "tags": [
+            "sealab 2021 legend of baggy pants episode 17"
+        ],
+        "rating_count": 1227,
+        "collection_title": "Sealab 2021",
+        "modified_by": "ODT Listener",
+        "launch_date": 1584590400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_017_pt2-05.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447438620,
         "tms_id": "EP004625760016",
         "rating": 7.68624,
@@ -188,59 +242,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1582779600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-policy/sealab_cc_015_revised-01.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447438380,
-        "auth_expiration_date": null,
-        "tms_id": "EP004625760014",
-        "rating": 8.398074,
-        "description": "Well, a summary of this episode would, in its essence, be a spoiler. But get ready to see some of your old favorites (and some soon-to-be favorites) in this season finale: Chopper Dave. The Bebop Cola Robot. The Forest Ranger Guy. Skanky Darlene. The Martian Quinn. And who can forget Debbie's boobies?",
-        "title_suggest": {
-            "input": [
-                "Swimming in Oblivion",
-                "in Oblivion",
-                "Oblivion"
-            ]
-        },
-        "type": "episode",
-        "title": "Swimming in Oblivion",
-        "expiration_date": 1584590340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.83,
-        "episode_number": "13",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1584396385,
-        "media_id": "4f8a056bc930434343c18bb13cd034d8fb49b5f4",
-        "airing_id": "RADS1002072000061724",
-        "id": "sg8NwTkBRvKRsD2bq6ka5Q",
-        "slug": "swimming-in-oblivion",
-        "views": 171651,
-        "thumbnail": "",
-        "created": 1402945476,
-        "title_id": "417615",
-        "season_number": "1",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1584396385,
-        "tags": [
-            "sealab 2021 swimming in oblivion episode 13"
-        ],
-        "rating_count": 623,
-        "collection_title": "Sealab 2021",
-        "modified_by": "ODT Listener",
-        "launch_date": 1581570000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/swimming-in-oblivion/sealab_cc_013_revised-01.jpg",
         "cma_id": ""
     }
 ]
