@@ -404,7 +404,7 @@
         "cma_id": "1432531"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1584678540,
         "tms_id": "EP012792980091",
@@ -451,56 +451,6 @@
         "launch_date": 1557154800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/sliding-bobs/bobsburgers_510_air_cid-2WTXF.jpg",
         "cma_id": "1479072"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1584676740,
-        "tms_id": "EP012792980090",
-        "description": "With the threat of a rent increase on Ocean Avenue, Bob and the other tenants organize a rent strike only to discover they will have to compete with each other on the grounds of Mr. Fischoeder's estate in order to keep their rents reasonable.",
-        "title_suggest": {
-            "input": [
-                "The Oeder Games",
-                "Oeder Games",
-                "Games"
-            ]
-        },
-        "expiration_date": 1553525940,
-        "title": "The Oeder Games",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1304.6006006,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "21",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584072000,
-        "modified": 1583669291,
-        "media_id": "f5a0b56235855f35df0787a031efdd845d3afa44",
-        "airing_id": "RADS1003062000070183",
-        "id": "gqtdwUujRoKMrFF_Z-xZHg",
-        "slug": "the-oeder-games",
-        "views": 4,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1451938051,
-        "season_number": "5",
-        "title_id": "2065469",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583669291,
-        "first_published": 1452571819,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1552921200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-oeder-games/bobsburgers_508_air_cid-33DRJ.jpg",
-        "cma_id": "1478688"
     },
     {
         "auth": true,
@@ -602,6 +552,56 @@
         "launch_date": 1563768000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/sexy-dance-healing/bobsburgers_515_air_cid-2WYDJ_1.jpg",
         "cma_id": "1433795"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585281540,
+        "tms_id": "EP012792980103",
+        "description": "When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant.",
+        "title_suggest": {
+            "input": [
+                "Stand by Gene",
+                "by Gene",
+                "Gene"
+            ]
+        },
+        "title": "Stand by Gene",
+        "type": "episode",
+        "expiration_date": 1557154740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.6006006,
+        "episode_number": "12",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584676800,
+        "modified": 1584286565,
+        "media_id": "d59cc0f48fca963b77685f6a1157497bc801e69d",
+        "airing_id": "RADS1003142000073600",
+        "id": "m5N_4JZOS_ulq3qtLDOwoA",
+        "slug": "stand-by-gene",
+        "views": 12468,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1479859820,
+        "title_id": "2097200",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1584286565,
+        "first_published": 1479859820,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1556550000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg",
+        "cma_id": "1480642"
     },
     {
         "auth": true,
