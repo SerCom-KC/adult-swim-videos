@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 20, 2020 at 02:30:34 EDT_
+_Last Update: March 20, 2020 at 03:00:35 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-### 700764
-**American Dad S02E17 - Black Mystery Month**  
-TV-14-DSV 🔒 21:46  
-⌛ March 27, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/black-mystery-month  
-seriesid=`581006` titleid=`700764` id=`7KKEhOXvSvOsD1rN1du43g` mediaid=`e121a26f201af2d2819a3cd82c13d3b9a51f3ccc`  
-_While researching a school paper, Steve happens upon the symbol of a mysterious order that protects a secret about the origins of peanut butter.  Together with Stan he sets out to unravel this mystery.  Meanwhile, Roger and Hayley play a marathon game of Jenga._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993362272417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993362272417.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 615764
+**Family Guy S04E09 - Breaking Out Is Hard To Do **  
+TV-14-DSV 🔒 21:37  
+⌛ March 27, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/breaking-out-is-hard-to-do  
+seriesid=`440990` titleid=`615764` id=`7sFl8XFdTYaCKczTNlhryA` mediaid=`2f1ebec8d5128005d2504f9937316f78e041b981`  
+_After feeling that her life has become routine, Lois becomes addicted to shop-lifting.  It doesn't take Joe long to put two and two together, and Lois soon finds herself an inmate of Quahog State Penitentiary.  Finding life without her unbearable, Peter breaks Lois out of prison and the Griffins become fugitives from the law._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_24054.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_24054.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 700752
-**American Dad S02E05 - Camp Refoogee**  
-TV-14-DL 🔒 21:46  
-⌛ March 20, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/camp-refoogee  
-seriesid=`581006` titleid=`700752` id=`BNiLDqJDSsaqdSQMQOZEqQ` mediaid=`c882dd463ad7ec65536c6f45f3b3aabdb11607d1`  
-_Stan desperately wants to send Steve to summer camp but accidentally sends him to a refugee camp. Stan turns the refugee camp into a summer camp so Steve can have the camp "experience." Back at home, Roger and Francine role-play as a professor and wife for a dinner party._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991995228819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991995228819.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 441780
+**Family Guy S03E19 - Stuck Together, Torn Apart**  
+TV-14-LV 🔒 22:28  
+⌛ March 20, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/stuck-together-torn-apart  
+seriesid=`440990` titleid=`441780` id=`pxfq-qCkSE6SGgXSgMkguw` mediaid=`a4a0e046e8f9ac93dab58c9485d92837089c2a21`  
+_Peter's jealously forces a trial separation; Stewie and Brian get glued together._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_737234396258513158.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_737234396258513158.jpg" height="144px" /></a>
