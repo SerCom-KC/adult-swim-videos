@@ -151,6 +151,56 @@
         "cma_id": "1429767"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585288740,
+        "tms_id": "EP007164450036",
+        "rating": 7.969697,
+        "description": "While researching a school paper, Steve happens upon the symbol of a mysterious order that protects a secret about the origins of peanut butter.  Together with Stan he sets out to unravel this mystery.  Meanwhile, Roger and Hayley play a marathon game of Jenga.",
+        "title_suggest": {
+            "input": [
+                "Black Mystery Month",
+                "Mystery Month",
+                "Month"
+            ]
+        },
+        "type": "episode",
+        "title": "Black Mystery Month",
+        "expiration_date": 1500699599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1306.3717,
+        "episode_number": "17",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584684000,
+        "modified": 1584281527,
+        "media_id": "e121a26f201af2d2819a3cd82c13d3b9a51f3ccc",
+        "airing_id": "RADS1003142000073603",
+        "id": "7KKEhOXvSvOsD1rN1du43g",
+        "slug": "black-mystery-month",
+        "views": 222353,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151993362272417.jpg",
+        "created": 1402945460,
+        "title_id": "700764",
+        "season_number": "2",
+        "tv_rating": "tv-14-dsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1584281527,
+        "tags": [],
+        "rating_count": 165,
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1500094800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993362272417.jpg",
+        "cma_id": "1432825"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1561435140,
         "tms_id": "EP007164450256",
@@ -389,55 +439,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg",
         "id": "AWqxHynKCorLtcgflqW9",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1584683940,
-        "tms_id": "EP007164450024",
-        "rating": 7.766234,
-        "description": "Stan desperately wants to send Steve to summer camp but accidentally sends him to a refugee camp. Stan turns the refugee camp into a summer camp so Steve can have the camp \"experience.\" Back at home, Roger and Francine role-play as a professor and wife for a dinner party.",
-        "title_suggest": {
-            "input": [
-                "Camp Refoogee",
-                "Refoogee"
-            ]
-        },
-        "type": "episode",
-        "title": "Camp Refoogee",
-        "expiration_date": 1500004799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1306.2716,
-        "episode_number": "5",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584079200,
-        "modified": 1584044775,
-        "media_id": "c882dd463ad7ec65536c6f45f3b3aabdb11607d1",
-        "airing_id": "RADS1003062000070182",
-        "id": "BNiLDqJDSsaqdSQMQOZEqQ",
-        "slug": "camp-refoogee",
-        "views": 136324,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151991995228819.jpg",
-        "created": 1402945460,
-        "title_id": "700752",
-        "season_number": "2",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1584044775,
-        "tags": [],
-        "rating_count": 154,
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1499400000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991995228819.jpg",
-        "cma_id": "1427969"
     },
     {
         "auth": true,
