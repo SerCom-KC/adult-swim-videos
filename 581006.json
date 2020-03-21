@@ -201,6 +201,56 @@
         "cma_id": "1432825"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585375140,
+        "tms_id": "EP007164450038",
+        "rating": 8.53,
+        "description": "Despite Francine's objections, Stan insists she set her friend up on a date with Bullock. When things go wrong and Bullock accidentally kills Francine's friend, Stan goes to incredible lengths to avoid hearing her tell him \"I told you so.\" Meanwhile, Roger gets a prosthetic nose and is mistaken for Kevin Bacon.",
+        "title_suggest": {
+            "input": [
+                "Four Little Words",
+                "Little Words",
+                "Words"
+            ]
+        },
+        "type": "episode",
+        "title": "Four Little Words",
+        "expiration_date": 1500955199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.072,
+        "episode_number": "19",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584770400,
+        "modified": 1584448448,
+        "media_id": "f4ddcf55829e6bab115c90e3be23658f04b09c64",
+        "airing_id": "RADS1003162000074196",
+        "id": "7l79Uoj7Rf6HfLWCHIYuyQ",
+        "slug": "four-little-words",
+        "views": 180406,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151993366995117.jpg",
+        "created": 1402945460,
+        "title_id": "700766",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1584448448,
+        "tags": [],
+        "rating_count": 200,
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1500350400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993366995117.jpg",
+        "cma_id": "1434048"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1561435140,
         "tms_id": "EP007164450256",
@@ -997,58 +1047,5 @@
         "launch_date": 1499749200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151992005911919.jpg",
         "cma_id": "1429851"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1584770340,
-        "tms_id": "EP007164450026",
-        "rating": 8.436095,
-        "description": "Stan hits rock bottom trying to prove he's the master negotiator when a car salesman bests him. The family suffers through poverty and demeaning jobs as a result. Roger starts a drive-in movie theater in the backyard.",
-        "title_suggest": {
-            "input": [
-                "Failure is Not a Factory-installed Option",
-                "is Not a Factory-installed Option",
-                "Not a Factory-installed Option",
-                "a Factory-installed Option",
-                "Factory-installed Option",
-                "Option"
-            ]
-        },
-        "type": "episode",
-        "title": "Failure is Not a Factory-installed Option",
-        "expiration_date": 1500094799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1307.4061,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1584165600,
-        "clip_order": null,
-        "modified": 1584044775,
-        "media_id": "d17981e551f4a3aaf5e078940d6aa8cc8bffbcbf",
-        "airing_id": "RADS1003092000070368",
-        "id": "zBV7wxiDQCS_a2tdZstzxg",
-        "slug": "failure-is-not-a-factory-installed-option",
-        "views": 206144,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151991999011419.jpg",
-        "created": 1402945460,
-        "title_id": "700754",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1584044775,
-        "tags": [],
-        "rating_count": 266,
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1499490000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991999011419.jpg",
-        "cma_id": "1428347"
     }
 ]
