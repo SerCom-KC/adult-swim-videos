@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 21, 2020 at 03:00:49 EDT_
+_Last Update: March 21, 2020 at 03:30:34 EDT_
 ## Video added
 ### Summary
 440990 Family Guy: 1  
-### 623583
-**Family Guy S04E11 - Peter's Got Woods **  
-TV-PG-DL 🔒 21:17  
-⌛ March 28, 2020 at 02:29:00 EDT  
-https://www.adultswim.com/videos/family-guy/peters-got-woods  
-seriesid=`440990` titleid=`623583` id=`nFiesKvxS_iC1RIBJy6Xdg` mediaid=`098c9642004db3e1497a3bf7e6c9e0e6011549f9`  
-_When Brian starts spending more time with his new girlfriend, Peter gets jealous.  And when they try to get James Woods High renamed Peter gets mad and calls in the real James Woods, who comes to town, ensuring the school's name stays the same.  Peter and James Woods form a great friendship, but when Peter starts to miss Brian, James Woods gets jealous and things take a dark turn._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_24155.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_24155.jpg" height="144px" /></a>
+### 627752
+**Family Guy S04E19 - Brian Sings and Swings **  
+TV-14-DLS 🔒 21:28  
+⌛ March 28, 2020 at 02:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/brian-sings-and-swings  
+seriesid=`440990` titleid=`627752` id=`Ud-1hEiqRg21VQqfaSkQiw` mediaid=`55c1f4a0c6226e7642120d396801e4da692bc90d`  
+_Brian falls into a deep depression after being struck by a car driven by Peter.  Contemplating how uncertain life is, he goes on a drinking spree, stumbling into bar where Frank Sinatra Jr. (voiced by himself) is performing.  Brian teams up with the member of the board, changing his outlook on life but continues to drink._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_6105384209305024852.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_6105384209305024852.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 440990 Family Guy: 1  
-### 441782
-**Family Guy S03E21 - Family Guy Viewer Mail #1**  
-TV-14-D 🔒 22:29  
-⌛ March 21, 2020 at 02:29:00 EDT  
-https://www.adultswim.com/videos/family-guy/family-guy-viewer-mail-1  
-seriesid=`440990` titleid=`441782` id=`lgTcjuUxTnWTps626ovzlw` mediaid=`4d60fee3cf30fb00187df5d352e897d52538cc71`  
-_Viewer mail inspires three stories in which Peter loses his bones, the Griffins gain superpowers, and Peter and his friends appear as eight-year-old "Little Rascals."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284759542674.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284759542674.jpg" height="144px" /></a>
+### 446630
+**Family Guy S03E22 - When You Wish Upon A Weinstein**  
+TV-14 🔒 22:24  
+⌛ March 21, 2020 at 02:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/when-you-wish-upon-a-weinstein  
+seriesid=`440990` titleid=`446630` id=`Xbic3g1WT5CXBmjhDRgx7A` mediaid=`12d1943a9d8c575ab7f3ea80fabe470bb1e3059d`  
+_After a visit from a Jewish man, Peter tries to convert Chris._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848108809011.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848108809011.jpg" height="144px" /></a>
