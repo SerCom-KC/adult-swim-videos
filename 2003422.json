@@ -250,55 +250,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1584764940,
-        "tms_id": "EP012792980093",
-        "description": "The Belchers are ready for an amazing Halloween! After Louise insists that she's never been scared before, Bob and Linda reveal their plans to visit a special haunted house that just might rectify the situation. But when trouble ensues following their visit, the Belchers find themselves in a zany situation more frightening than they bargained for!",
-        "title_suggest": {
-            "input": [
-                "The Hauntening",
-                "Hauntening"
-            ]
-        },
-        "title": "The Hauntening",
-        "type": "episode",
-        "expiration_date": 1554735540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1282.0667334,
-        "episode_number": "3",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584160200,
-        "modified": 1583783647,
-        "media_id": "548b1783b9bee6d20df357ed7277bd0504c00e2a",
-        "airing_id": "RADS1003092000070367",
-        "id": "NQ0Kl-53QhejqVZOuB4CUg",
-        "slug": "the-hauntening",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1483852222,
-        "title_id": "2097191",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1583783647,
-        "first_published": 1483852222,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hauntening/bobsburgers_513_air_cid-2WYDK.jpg",
-        "cma_id": "2097191"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1585196940,
         "tms_id": "EP012792980102",
         "description": "When there is a bounce house crisis at Regular Sized Rudy's birthday party, the Belcher kids devise a scheme to save the day. Meanwhile, Bob deals with an unexpected guest at the restaurant and is forced to come to terms with a longstanding fear.",
@@ -654,5 +605,55 @@
         "launch_date": 1560744000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/lice-things-are-lice/bobsburgers_519_air_cid-2X3CM.jpg",
         "cma_id": "1434258"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585369740,
+        "tms_id": "EP012792980108",
+        "description": "When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom.",
+        "title_suggest": {
+            "input": [
+                "Pro Tiki/Con Tiki",
+                "Tiki/Con Tiki",
+                "Tiki"
+            ]
+        },
+        "title": "Pro Tiki/Con Tiki",
+        "type": "episode",
+        "expiration_date": 1558969140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.333667,
+        "episode_number": "15",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584765000,
+        "modified": 1584448089,
+        "media_id": "85023daed95dfa1e0fa1f0a4a36b43b3f6bbbb4e",
+        "airing_id": "RADS1003162000074197",
+        "id": "vHn_yL2YSJaGa4pHqijGZg",
+        "slug": "pro-tiki-con-tiki",
+        "views": 11626,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1481451039,
+        "title_id": "2097203",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1584448089,
+        "first_published": 1481451039,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1558364400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg",
+        "cma_id": "1486547"
     }
 ]
