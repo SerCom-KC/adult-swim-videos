@@ -2,43 +2,43 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 22, 2020 at 05:30:59 EDT_
+_Last Update: March 22, 2020 at 06:01:03 EDT_
 ## Video added
 ### Summary
-2201017 Food Wars!: 2  
-2193955 JoJo's Bizarre Adventure: 1  
-### 2201048
-**Food Wars! S02E31 - Beasts That Devour Each Other**  
-TV-MA-S 🔓 23:08  
-⌛ April 26, 2020 at 05:29:00 EDT  
-https://www.adultswim.com/videos/food-wars/beasts-that-devour-each-other  
-seriesid=`2201017` titleid=`2201048` id=`AXARwE9c3HMJfT8do8I8` mediaid=`86f530323acd9c810aa352f52d095f3ac6fe0644`  
-_The arena is filled with scarcely contained, feral tension as Akira Hayama and Ryo Kurokiba face off in the last round of the semi-finals._  
-<a href="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241449367-FoodWars_031.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241449367-FoodWars_031.jpg" height="144px" /></a>
-### 2201043
-**Food Wars! S02E26 - Interplay of Light & Shadow**  
-TV-MA-S 🔒 23:09  
-⌛ January 5, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/food-wars/interplay-of-light-shadow  
-seriesid=`2201017` titleid=`2201043` id=`AW_nuyEEGRcVO2K2pmcQ` mediaid=`6a119b6b2cb2cddea3de50e080fdb44a457f3d48`  
-_With resolve and her newfound ability to keep a cool head, Megumi prepares to face Ryo in the next battle: ramen. These opposite personalities clash through their dishes!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271341309-FoodWars_Season02_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271341309-FoodWars_Season02_002.jpg" height="144px" /></a>
-### 2193975
-**JoJo's Bizarre Adventure S04E19 - White Ice**  
-TV-MA-V 🔒 22:52  
-⌛ April 12, 2020 at 05:29:00 EDT  
-https://www.adultswim.com/videos/jo-jos-bizarre-adventure/white-ice  
-seriesid=`2193955` titleid=`2193975` id=`AXCnHvGm3HMJfT8do9HP` mediaid=`11978a47e227bc8a1b93a5b3b9b87207a3a481fa`  
-_Ghiaccio's Stand, White Ice is able to envelop him like a bodysuit and able to freeze everything around him to extremely low temperatures. Giorno and Mista somewhat make it to Venice, despite being partially frozen by Ghiaccio._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341456138-jojo_goldenwind_019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341456138-jojo_goldenwind_019.jpg" height="144px" /></a>
+2143080 Black Clover: 1  
+812206 Naruto: Shippuden: 1  
+### 2216643
+**Black Clover S03E107 - The Battle for Clover Castle**  
+TV-PG-LV 🔓 21:17  
+⌛ April 5, 2020 at 05:59:00 EDT  
+https://www.adultswim.com/videos/black-clover/the-battle-for-clover-castle  
+seriesid=`2143080` titleid=`2216643` id=`AXB334sw3HMJfT8do8uV` mediaid=`53f84fbffbf878c686059c61d47448bfc10cf83e`  
+_Yami and Finral take on possessed members of the Golden Dawn. Noelle and Nozel must defend their siblings when the Silva family home is under siege._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241044582-BlackClover_107.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241044582-BlackClover_107.jpg" height="144px" /></a>
+### 2177718
+**Naruto: Shippuden S06E06 - The Lightning Blade: Ameyuri Ringo!**  
+ 🔒 21:49  
+⌛ April 12, 2020 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-lightning-blade-ameyuri-ringo  
+seriesid=`812206` titleid=`2177718` id=`AW4ZFjVnadNs2hMNfuYR` mediaid=`0efa1941d578b15d2f933062d366d9bb03f4c3fc`  
+<a href="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291555117-narutoshippuden_289.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291555117-narutoshippuden_289.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2193955 JoJo's Bizarre Adventure: 1  
-### 2193972
-**JoJo's Bizarre Adventure S04E16 - Thankful Death Part 2**  
-TV-MA-V 🔒 22:50  
-⌛ April 26, 2020 at 06:29:00 EDT  
-https://www.adultswim.com/videos/jo-jos-bizarre-adventure/thankful-death-part-2  
-seriesid=`2193955` titleid=`2193972` id=`AXA00Hiy3HMJfT8do8ck` mediaid=`505bfd7c27a8bc0dec3e0c4a2fa885290ff09268`  
-_To save his squad, Bucciarati risks all by grabbing hold of Prosciutto and hurling himself off the speeding train, only to be saved by Pesci's hook._  
-<a href="https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_202111013571-jojo_goldenwind_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_202111013571-jojo_goldenwind_016.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2193967
+**JoJo's Bizarre Adventure S04E11 - Narancia's Li'l Bomber**  
+TV-MA-LV 🔓 22:52  
+⌛ November 15, 2020 at 23:59:59 EST  
+https://www.adultswim.com/videos/jo-jos-bizarre-adventure/narancias-lil-bomber  
+seriesid=`2193955` titleid=`2193967` id=`AW-ktmEG3HMJfT8do6_A` mediaid=`c63ddcedb327c3a7bfb78401f2bd3d71cc4a0c93`  
+_Narancia is unshakable as he uses firepower and CO2 detection to survive Formaggio's body-shrinking attack._  
+<a href="https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_20114104024-jojo_goldenwind_011.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_20114104024-jojo_goldenwind_011.jpg" height="144px" /></a>
+### 2177715
+**Naruto: Shippuden S06E03 - Things You Can't Get Back**  
+ 🔒 21:51  
+⌛ April 26, 2020 at 06:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/things-you-cant-get-back  
+seriesid=`812206` titleid=`2177715` id=`AW4ZFP_D1YiBSfg0KYGl` mediaid=`a06462d0585d950e91ae16c4beebcbfb19492644`  
+_To cope with the loss of her loved ones, Tsunade indulges in gambling and drinking, while the Raikage and his men are on a mission to steal a scroll._  
+<a href="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291553533-narutoshippuden_286.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191029/thumbnails/2_1910291553533-narutoshippuden_286.jpg" height="144px" /></a>
