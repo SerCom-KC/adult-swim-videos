@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 22, 2020 at 12:30:38 EDT_
+_Last Update: March 22, 2020 at 16:31:03 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2143080 Black Clover: 1  
-### 2189780
-**Black Clover S02E62 - Bettering One Another**  
-TV-PG-LV 🔒 21:41  
-⌛ April 5, 2020 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/bettering-one-another  
-seriesid=`2143080` titleid=`2189780` id=`AWl4s1sRAScUIg8Xxd_w` mediaid=`fbbd677be07af127b7d8e84ac041f94c1406f36e`  
-_Fana reveals that there's a magic stone in the Witches' Forest but before Asta and his friends find it, Ladros reappears! When the Diamond Mage consumes Salamander's power, Asta may not stand a chance._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155317942658517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155317942658517.jpg" height="144px" /></a>
+2215447 Beef House: 1  
+### 2215452
+**Beef House S01E01 - Army Buddy Brad**  
+TV-MA-LS 🔓 11:58  
+⌛ May 25, 2020 at 00:14:00 EDT  
+https://www.adultswim.com/videos/beef-house/army-buddy-brad  
+seriesid=`2215447` titleid=`2215452` id=`AXCDbmLEGRcVO2K2pm9X`  
+_As Eric prepares his greatest Easter ever, Tim's army buddy Brad visits the Beef House, causing mayhem as he sets up camp and takes control._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226163947-BeefHouse_105_dup-20200106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226163947-BeefHouse_105_dup-20200106.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
