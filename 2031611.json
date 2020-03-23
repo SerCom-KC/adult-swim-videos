@@ -281,7 +281,7 @@
         "cma_id": "1209548"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370073",
@@ -3237,6 +3237,61 @@
         "launch_date": 1583726400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210167397-dragonballzkai_074_air_cid-2V5DR.jpg",
         "cma_id": "1235569"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370078",
+        "description": "Desperate to help Android 18 escape, Tien places his own life at risk in an unwinnable battle with the monster Cell. When the three-eyed warrior's power quickly fades, he'll need a lift from a friend to avoid a gruesome end!",
+        "title_suggest": {
+            "input": [
+                "Tien\u2019s Desperate Attack! Save Your Friends, Goku!",
+                "Desperate Attack! Save Your Friends, Goku!",
+                "Attack! Save Your Friends, Goku!",
+                "Save Your Friends, Goku!",
+                "Your Friends, Goku!",
+                "Friends, Goku!",
+                "Goku!"
+            ]
+        },
+        "expiration_date": 1587959999,
+        "title": "Tien\u2019s Desperate Attack! Save Your Friends, Goku!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1264,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "76",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1584572766,
+        "media_id": "50e9241b15719f330fc3fad9df6c8181eaa7d6f4",
+        "airing_id": "RADS1003182000075365",
+        "id": "nWTGhJxhQQOWIDVEOGinng",
+        "slug": "tiens-desperate-attack-save-your-friends-goku",
+        "views": 2600,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210168213-dragonballzkai_076_air_cid-2V5F8.jpg",
+        "created": 1461954567,
+        "season_number": "1",
+        "title_id": "2031687",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1584572766,
+        "first_published": 1466575825,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1584936000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210168213-dragonballzkai_076_air_cid-2V5F8.jpg",
+        "cma_id": "1242268"
     },
     {
         "auth": true,
