@@ -97,6 +97,56 @@
         "cma_id": "1444819"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585546140,
+        "tms_id": "EP002960010319",
+        "description": "After watching a documentary about the dangers of food, Lois decides to change the family's eating habits to a healthier one. Peter tries quinoa for the first time and his body immediately begins to reject it.",
+        "title_suggest": {
+            "input": [
+                "Saturated Fat Guy",
+                "Fat Guy",
+                "Guy"
+            ]
+        },
+        "title": "Saturated Fat Guy",
+        "type": "episode",
+        "expiration_date": 1580101140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1295.9342676,
+        "episode_number": "16",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1584941400,
+        "modified": 1584570249,
+        "media_id": "81b3f867ee182b930cc755bc2d9627ac38c027b8",
+        "airing_id": "RADS1003182000075350",
+        "id": "84HlaJyxQxSYM_gKHdvi4g",
+        "slug": "saturated-fat-guy",
+        "views": 2,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1490771422,
+        "title_id": "2105395",
+        "tv_rating": "tv-14",
+        "season_number": "15",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1584570249,
+        "first_published": 1490771422,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579496400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/saturated-fat-guy/familyguy_1413_air_cid-3365J.jpg",
+        "cma_id": "2105395"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1580543940,
@@ -147,7 +197,7 @@
         "cma_id": "1456152"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1584943140,
         "tms_id": "EP002960010318",
@@ -381,56 +431,6 @@
         "launch_date": 1501927200,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4499523756800723627.jpg",
         "cma_id": "1446209"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1584941340,
-        "tms_id": "EP002960010317",
-        "description": "When the Medieval Castle comes up for auction, Peter and the gang try to purchase it for \"castle fun\". After putting up a \"mystery\" paper bag containing nine thousand dollars, they end up losing the auction to Mayor West.",
-        "title_suggest": {
-            "input": [
-                "The Dating Game",
-                "Dating Game",
-                "Game"
-            ]
-        },
-        "title": "The Dating Game",
-        "type": "episode",
-        "expiration_date": 1579496340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1302.3003003,
-        "episode_number": "14",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584336600,
-        "modified": 1583964206,
-        "media_id": "aaf7f52dd801538ccdcbdb96f46a38cd67136066",
-        "airing_id": "RADS1003112000071489",
-        "id": "bpAvOoitTZKnemL0KVHzbQ",
-        "slug": "the-dating-game",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1489450230,
-        "title_id": "2105393",
-        "tv_rating": "tv-14",
-        "season_number": "15",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1583964206,
-        "first_published": 1489450230,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1578891600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-dating-game/familyguy_1411_air_cid-32X50.jpg",
-        "cma_id": "2105393"
     },
     {
         "auth": true,
