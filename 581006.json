@@ -347,6 +347,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1585628940,
+        "tms_id": "EP007164450039",
+        "description": "Stan takes Steve and his friends on a cattle drive through Langley Falls in an effort to turn them into men. But when Stan eats beef tainted with mad cow disease, it's up to the boys to save the day.",
+        "title_suggest": {
+            "input": [
+                "The Magnificent Steven",
+                "Magnificent Steven",
+                "Steven"
+            ]
+        },
+        "title": "The Magnificent Steven",
+        "type": "episode",
+        "expiration_date": 1501045199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1306.2383,
+        "episode_number": "22",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1585024200,
+        "modified": 1584596167,
+        "media_id": "fb955d598adc6f6a7f9f387809b25e8c4c3c3383",
+        "airing_id": "RADS1003182000075375",
+        "id": "Ga7WuD5tQwi4SGGpkIIbnA",
+        "slug": "the-magnificent-steven",
+        "views": 1842,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199347519259.jpg",
+        "created": 1441340428,
+        "title_id": "700769",
+        "tv_rating": "tv-14-lv",
+        "season_number": "2",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1584596167,
+        "first_published": 1441340428,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1500440400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199347519259.jpg",
+        "cma_id": "1434511"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1585281540,
         "tms_id": "EP007164450213",
         "description": "Francine sets out to help news anchor Greg when he and Terry split up. Roger becomes obsessed with a fictional boy from an old game called Dream Phone.",
@@ -989,55 +1038,5 @@
         "launch_date": 1581915600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg",
         "cma_id": "1475444"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585024140,
-        "tms_id": "EP007164450028",
-        "rating": 8.428571,
-        "description": "With Steve too busy with his girlfriend, Francine decides she wants another baby. Stan, however, does not, so he secretly gets a vasectomy.",
-        "title_suggest": {
-            "input": [
-                "Iced, Iced Babies",
-                "Iced Babies",
-                "Babies"
-            ]
-        },
-        "type": "episode",
-        "title": "Iced, Iced Babies",
-        "expiration_date": 1500353999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1307.2726,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584419400,
-        "modified": 1584044776,
-        "media_id": "5d9fa0976f90974ab21ada2f78df4fb6d43db18b",
-        "airing_id": "RADS1003112000071523",
-        "id": "yMgxvuUTRHSzxJ4bGctZ8w",
-        "slug": "iced-iced-babies",
-        "views": 268046,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151992005911919.jpg",
-        "created": 1402945460,
-        "title_id": "700757",
-        "season_number": "2",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1584044776,
-        "tags": [],
-        "rating_count": 364,
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1499749200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151992005911919.jpg",
-        "cma_id": "1429851"
     }
 ]
