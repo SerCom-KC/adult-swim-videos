@@ -198,49 +198,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1585031340,
-        "tms_id": "EP002960010053",
-        "rating": 7.7064166,
-        "description": "After Quagmire overcomes his rampant lust and saves a woman's life, Peter is suddenly struck with a burning desire to be remembered. How to do it?  Eat the most nickels of anyone in the world--which has the unfortunate side effect of rendering him blind.",
-        "title_suggest": {
-            "input": [
-                "Blind Ambition",
-                "Ambition"
-            ]
-        },
-        "type": "episode",
-        "title": "Blind Ambition",
-        "expiration_date": 1501997399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1305.9046,
-        "episode_number": "3",
-        "auth_launch_date": 1584426600,
-        "modified": 1584003727,
-        "media_id": "abcc3fe31084969a0a06109ca6a2c4ae6dfb7a35",
-        "airing_id": "RADS1003112000071525",
-        "id": "EGSepOA1QViQqDID41TpEA",
-        "slug": "blind-ambition",
-        "views": 445287,
-        "created": 1402945464,
-        "title_id": "615752",
-        "season_number": "4",
-        "tv_rating": "tv-14-dsv",
-        "active": false,
-        "published": 1584003727,
-        "tags": [],
-        "rating_count": 1652,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1501392600,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8037848388637682174.jpg",
-        "cma_id": "1441679"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1585117740,
         "tms_id": "EP002960010055",
         "rating": 7.8674746,
@@ -282,6 +239,52 @@
         "launch_date": 1474439400,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_6832595428284054438.jpg",
         "cma_id": "1263202"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1585636140,
+        "tms_id": "EP002960010066",
+        "rating": 7.931689,
+        "description": "Brian loses his job at the New Yorker after it's discovered that he doesn't have a college degree. He decides to return to Brown and get his diploma. Struggling with his grade in Advanced Physics, he decides to cheat with help from Stewie, thus becoming the teacher's pet.",
+        "title_suggest": {
+            "input": [
+                "Brian Goes Back To College",
+                "Goes Back To College",
+                "Back To College",
+                "To College",
+                "College"
+            ]
+        },
+        "type": "episode",
+        "title": "Brian Goes Back To College",
+        "expiration_date": 1502602199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1306.2049,
+        "episode_number": "15",
+        "auth_launch_date": 1585031400,
+        "modified": 1584605767,
+        "media_id": "23e01aa4e5e16b4e4f3c5f35ca2af77f113c363d",
+        "airing_id": "RADS1003182000075381",
+        "id": "SoidtdM_Sr2hhpm79UmKsw",
+        "slug": "brian-goes-back-to-college",
+        "views": 318200,
+        "created": 1402945465,
+        "title_id": "627749",
+        "season_number": "4",
+        "tv_rating": "tv-14-d",
+        "active": false,
+        "published": 1584605767,
+        "tags": [],
+        "rating_count": 527,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1501997400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_661863920486185603.jpg",
+        "cma_id": "1445533"
     },
     {
         "auth": true,
