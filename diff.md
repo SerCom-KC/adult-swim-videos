@@ -2,44 +2,62 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 24, 2020 at 02:30:42 EDT_
+_Last Update: March 25, 2020 at 00:00:38 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-440990 Family Guy: 1  
-### 2097207
-**Bob's Burgers S06E19 - Glued, Where's My Bob?**  
-TV-PG 🔒 21:40  
-⌛ March 31, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/glued-wheres-my-bob  
-seriesid=`2003422` titleid=`2097207` id=`KZHzK9CvTwCRExJXY6SSUw` mediaid=`6b5661bddd9aa0e25e1da7b017424420f36d36bf`  
-_The kids' goop war lands Bob in a sticky situation. The prank occurs on the same day Skip Marooch calls to tell Bob that a journalist is going to interview him for a piece on unknown restaurants._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg" height="144px" /></a>
-### 627749
-**Family Guy S04E15 - Brian Goes Back To College**  
-TV-14-D 🔒 21:46  
-⌛ March 31, 2020 at 02:29:00 EDT  
-https://www.adultswim.com/videos/family-guy/brian-goes-back-to-college  
-seriesid=`440990` titleid=`627749` id=`SoidtdM_Sr2hhpm79UmKsw` mediaid=`23e01aa4e5e16b4e4f3c5f35ca2af77f113c363d`  
-_Brian loses his job at the New Yorker after it's discovered that he doesn't have a college degree. He decides to return to Brown and get his diploma. Struggling with his grade in Advanced Physics, he decides to cheat with help from Stewie, thus becoming the teacher's pet._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_661863920486185603.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_661863920486185603.jpg" height="144px" /></a>
+581006 American Dad: 1  
+828246 Eagleheart: 1  
+2196566 Momma Named Me Sheriff: 1  
+### 2041486
+**American Dad S11E13 - Widow's Pique**  
+TV-14-LV 🔒 21:13  
+⌛ March 31, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/widows-pique  
+seriesid=`581006` titleid=`2041486` id=`0KELcgZDS2SM3e4YZ_bLuw` mediaid=`0ad273cad890408604f0db466ea5d3f855ccf99f`  
+_When Stan is on a mission, Francine pretends she's a widow. Steve and his friends play wrestling and get beat up by Principal Lewis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg" height="144px" /></a>
+### 2012952
+**Eagleheart S03E08 - Spats**  
+TV-14-DLV 🔒 11:17  
+⌛ April 28, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/eagleheart/spats  
+seriesid=`828246` titleid=`2012952` id=`_9tnECkZSwONWquur9epjw` mediaid=`0871ac6d16b2c0e81ed4a383c345d1ee0c79497a`  
+_An unexpected encounter._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341556198-eagleheart_032_dup-20131230.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341556198-eagleheart_032_dup-20131230.jpg" height="144px" /></a>
+### 2196567
+**Momma Named Me Sheriff S01E01 - Hats**  
+TV-MA 🔓 11:18  
+⌛ April 28, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/momma-named-me-sheriff/hats  
+seriesid=`2196566` titleid=`2196567` id=`AW5qi-Vv1YiBSfg0KYe1` mediaid=`97608903daeb5857377c0615421d1d0f96296fee`  
+_When Floyd eats Sheriff's hat, Sheriff becomes convinced that nobody will respect his authority without it._  
+<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-440990 Family Guy: 1  
-### 2097195
-**Bob's Burgers S06E07 - The Gene & Courtney Show**  
-TV-PG 🔒 21:36  
-⌛ March 24, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-gene-courtney-show  
-seriesid=`2003422` titleid=`2097195` id=`0AdbNN_BQna5isz9nm-d8w` mediaid=`d20f210e961b22cdf3d1f662940d1802a77acbb2`  
-_Gene and Courtney get their big break when they are asked to be the new hosts of the morning announcements, but their romantic history threatens to get in the way. Meanwhile, Tina's attempt to play Cupid goes tragically awry when she volunteers to spearhead the Valentine's Day carnation fundraiser._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-gene-courtney-show/bobsburgers_601_air_cid-2WX48.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-gene-courtney-show/bobsburgers_601_air_cid-2WX48.jpg" height="144px" /></a>
-### 615752
-**Family Guy S04E03 - Blind Ambition**  
-TV-14-DSV 🔒 21:45  
-⌛ March 24, 2020 at 02:29:00 EDT  
-https://www.adultswim.com/videos/family-guy/blind-ambition  
-seriesid=`440990` titleid=`615752` id=`EGSepOA1QViQqDID41TpEA` mediaid=`abcc3fe31084969a0a06109ca6a2c4ae6dfb7a35`  
-_After Quagmire overcomes his rampant lust and saves a woman's life, Peter is suddenly struck with a burning desire to be remembered. How to do it?  Eat the most nickels of anyone in the world--which has the unfortunate side effect of rendering him blind._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8037848388637682174.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8037848388637682174.jpg" height="144px" /></a>
+2196566 Momma Named Me Sheriff: 1  
+581006 American Dad: 1  
+828246 Eagleheart: 1  
+### 2196568
+**Momma Named Me Sheriff S01E02 - Smelly Glenn**  
+TV-MA-V 🔒 11:13  
+⌛ March 24, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/momma-named-me-sheriff/smelly-glenn  
+seriesid=`2196566` titleid=`2196568` id=`AW5qjExh1YiBSfg0KYe2` mediaid=`f5982effad1dfbbbef2d09371b873e08165905f6`  
+_When Sheriff learns that he was once a bully to a long lost schoolmate, he sets out to right his wrong._  
+<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg" height="144px" /></a>
+### 2041481
+**American Dad S11E07 - The Devil Wears a Lapel Pin**  
+TV-14-DLSV 🔒 21:13  
+⌛ March 24, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-devil-wears-a-lapel-pin  
+seriesid=`581006` titleid=`2041481` id=`rR4-zIOsQj-NMJYR98be7Q` mediaid=`78c7ca28da36ab4bf33664b2de431b174238ab8e`  
+_When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg" height="144px" /></a>
+### 2012947
+**Eagleheart S03E03 - Bowsley**  
+TV-14-DLSV 🔒 10:51  
+⌛ March 24, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/eagleheart/bowsley  
+seriesid=`828246` titleid=`2012947` id=`N37AW43dTeOru-ziKghDoA` mediaid=`5f54076b127c0ee17218dbe2bb58dd18b58e62c3`  
+_Several characters deal with change._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341554224-eagleheart_027_dup-20140110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341554224-eagleheart_027_dup-20140110.jpg" height="144px" /></a>
