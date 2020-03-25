@@ -1,6 +1,59 @@
 [
     {
         "auth": true,
+        "ott_launch_date": 1447173060,
+        "auth_expiration_date": 1588132740,
+        "tms_id": "EP007959510035",
+        "rating": 8.438207,
+        "description": "When Doughy becomes Orel's shooting coach, he discovers that his student has quite the \"itchy trigger finger.\"",
+        "title_suggest": {
+            "input": [
+                "Trigger"
+            ]
+        },
+        "type": "episode",
+        "title": "Trigger",
+        "expiration_date": 1570679940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 677.1001001,
+        "episode_number": "5",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1585108800,
+        "modified": 1584697330,
+        "media_id": "f0c2c41012d1d3a7e35b61a319cae12df45e1b15",
+        "airing_id": "RADS1003192000075587",
+        "id": "-pDAEmcqQXyBKQRNih-eFA",
+        "slug": "trigger",
+        "views": 264540,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311166462-moralorel_034.jpg",
+        "created": 1402945470,
+        "title_id": "723832",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1584697330,
+        "tags": [
+            "moral orel episode 34 trigger doughy gun shooting coach"
+        ],
+        "rating_count": 623,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1567656000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311166462-moralorel_034.jpg",
+        "cma_id": "1452492"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447172940,
         "auth_expiration_date": 1586923140,
         "tms_id": "EP007959510033",
@@ -679,61 +732,6 @@
         "launch_date": 1565236800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311164382-moralorel_031.jpg",
         "cma_id": "1434931"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447172640,
-        "auth_expiration_date": 1585108740,
-        "tms_id": "EP007959510030",
-        "rating": 6.76644,
-        "description": "Orel and Clay take a father and son hunting trip.",
-        "title_suggest": {
-            "input": [
-                "Nature pt. 2",
-                "pt. 2",
-                "2"
-            ]
-        },
-        "type": "episode",
-        "title": "Nature pt. 2",
-        "expiration_date": 1567655940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 703.7340674,
-        "episode_number": "20",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1582088400,
-        "modified": 1583957066,
-        "media_id": "fd1570cc20eceed88abd68d7d5d95c90fa98a575",
-        "airing_id": "RADS1002132000062870",
-        "id": "sYw_oTpoQV2xTA9Tr9lbHw",
-        "slug": "nature-pt-2",
-        "views": 329724,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311164180-moralorel_029.jpg",
-        "created": 1402945470,
-        "title_id": "653309",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583957066,
-        "tags": [
-            "moral orel episode 29 nature 2 hunting trip camping orel shot bear clay"
-        ],
-        "rating_count": 3528,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1564632000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311164180-moralorel_029.jpg",
-        "cma_id": "1431483"
     },
     {
         "auth": false,
