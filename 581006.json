@@ -51,57 +51,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1585115940,
-        "tms_id": "EP007164450032",
-        "description": "Stan goes to the past to keep Jane Fonda from ruining Christmas, but he winds up creating an alternate future where the United States has been taken over by the Soviet Union.",
-        "title_suggest": {
-            "input": [
-                "The Best Christmas Story Never Told",
-                "Best Christmas Story Never Told",
-                "Christmas Story Never Told",
-                "Story Never Told",
-                "Never Told",
-                "Told"
-            ]
-        },
-        "title": "The Best Christmas Story Never Told",
-        "type": "episode",
-        "expiration_date": 1483079399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1306.2049,
-        "episode_number": "24",
-        "original_air_date": null,
-        "auth_launch_date": 1584511200,
-        "clip_order": null,
-        "modified": 1584244327,
-        "media_id": "93b1e63fdc7e7333f658c98edf5984ff02593c4f",
-        "airing_id": "RADS1003142000073557",
-        "id": "1aJhal8NQwSRqml_H47aiw",
-        "slug": "the-best-christmas-story-never-told",
-        "views": 1894,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199348053771.jpg",
-        "created": 1450848021,
-        "title_id": "700760",
-        "tv_rating": "tv-14",
-        "season_number": "2",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1584244327,
-        "first_published": 1450848021,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1482474600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199348053771.jpg",
-        "cma_id": "1314975"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1585288740,
         "tms_id": "EP007164450036",
         "rating": 7.969697,
@@ -1032,5 +981,53 @@
         "launch_date": 1500354000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993369325010.jpg",
         "cma_id": "1434174"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585720740,
+        "tms_id": "EP007164450040",
+        "description": "The Smiths find out that their outstanding family vacations have only been experiences in virtual reality. Stan vows to redeem himself by taking the family on a cruise, but when they are stranded on a remote island, things get out of hand.",
+        "title_suggest": {
+            "input": [
+                "The Vacation Goo",
+                "Vacation Goo",
+                "Goo"
+            ]
+        },
+        "title": "The Vacation Goo",
+        "type": "episode",
+        "expiration_date": 1501131599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1308.0734,
+        "episode_number": "21",
+        "original_air_date": null,
+        "auth_launch_date": 1585116000,
+        "clip_order": null,
+        "modified": 1584689047,
+        "media_id": "5d403b259baf7f1910428c469315651696736edf",
+        "airing_id": "RADS1003192000075588",
+        "id": "wlf1dLW9TyqJL7RkQAGxhA",
+        "slug": "the-vacation-goo",
+        "views": 749,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151993371336116.jpg",
+        "created": 1474344641,
+        "title_id": "700733",
+        "tv_rating": "tv-14",
+        "season_number": "2",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1584689047,
+        "first_published": 1474344641,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1500526800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993371336116.jpg",
+        "cma_id": "1436362"
     }
 ]
