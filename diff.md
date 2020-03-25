@@ -2,26 +2,42 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 25, 2020 at 01:00:33 EDT_
+_Last Update: March 25, 2020 at 02:30:27 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2132972
-**Bob's Burgers S07E01 - Sea Me Now**  
-TV-PG-L 🔒 21:44  
-⌛ April 1, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/sea-me-now  
-seriesid=`2003422` titleid=`2132972` id=`uigHTPzpQmefLwG4q27qRw` mediaid=`36a0ccc64d9f8f32a8f88e60d768f34b10eb5b9b`  
-_Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's chalkboard eraser from the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg" height="144px" /></a>
+581006 American Dad: 2  
+### 700770
+**American Dad S02E23 - Joint Custody**  
+TV-14-D 🔒 21:46  
+⌛ April 1, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/joint-custody  
+seriesid=`581006` titleid=`700770` id=`EuO_y_fDQpGNZtoT0Ditaw` mediaid=`0d4ae917499befc38dbf5ec24ca42e89a43462e4`  
+_Stan tries to get an unsuspecting Jeff Fischer out of his life for good by taking him on a road trip to Florida, where there is a warrant out for Jeff's arrest._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993478142914.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993478142914.jpg" height="144px" /></a>
+### 700733
+**American Dad S02E21 - The Vacation Goo**  
+TV-14 🔒 21:48  
+⌛ April 1, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-vacation-goo  
+seriesid=`581006` titleid=`700733` id=`wlf1dLW9TyqJL7RkQAGxhA` mediaid=`5d403b259baf7f1910428c469315651696736edf`  
+_The Smiths find out that their outstanding family vacations have only been experiences in virtual reality. Stan vows to redeem himself by taking the family on a cruise, but when they are stranded on a remote island, things get out of hand._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993371336116.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993371336116.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2097197
-**Bob's Burgers S06E09 - Sacred Couch**  
-TV-PG 🔒 21:41  
-⌛ March 25, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/sacred-couch  
-seriesid=`2003422` titleid=`2097197` id=`hwBESIpuTuWJp_-Rf_N-Qg` mediaid=`4a8191c6a88be8aa109f177b952cdef4b09fb5ef`  
-_During family TV night an ad for the Sofa Queen comes on and Louise takes the opportunity to lobby for a new couch. The Belchers take sides with Linda, gathering support for keeping their lumpy, smelly, moist couch, because off all the memories it holds. When a family vote goes against her, Louise takes matters into her own hands._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/sacred-couch/bobsburgers_516_air_cid-2X581.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sacred-couch/bobsburgers_516_air_cid-2X581.jpg" height="144px" /></a>
+581006 American Dad: 2  
+### 700760
+**American Dad S02E24 - The Best Christmas Story Never Told**  
+TV-14 🔒 21:46  
+⌛ March 25, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-best-christmas-story-never-told  
+seriesid=`581006` titleid=`700760` id=`1aJhal8NQwSRqml_H47aiw` mediaid=`93b1e63fdc7e7333f658c98edf5984ff02593c4f`  
+_Stan goes to the past to keep Jane Fonda from ruining Christmas, but he winds up creating an alternate future where the United States has been taken over by the Soviet Union._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199348053771.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199348053771.jpg" height="144px" /></a>
+### 700758
+**American Dad S02E11 - Of Ice and Men**  
+TV-14-DL 🔓 21:46  
+⌛ March 25, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/of-ice-and-men  
+seriesid=`581006` titleid=`700758` id=`SicpEBxaTMSmCC27fUD6FQ` mediaid=`a49c1e6fa83ef693d2199c847026836b5097eebd`  
+_Stan's competitive streak is unleashed when he and Francine start ice dancing together. Stan dumps Francine to compete with Roger. Meanwhile, Steve and his friends get a mail order Russian bride._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151992008130310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151992008130310.jpg" height="144px" /></a>
