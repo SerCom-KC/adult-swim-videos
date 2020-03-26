@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 26, 2020 at 02:30:36 EDT_
+_Last Update: March 26, 2020 at 03:00:40 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-### 711542
-**American Dad S03E20 - Escape From Pearl Bailey**  
-TV-14-DL 🔒 21:46  
-⌛ April 2, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/escape-from-pearl-bailey  
-seriesid=`581006` titleid=`711542` id=`dRWUML6yQDKkAuOnI3ABrA` mediaid=`06f2944c4d30c57969e2fd80112c965e28e6f8c5`  
-_Steve plots revenge against Lisa Silver and the cool kids after Debbie loses her bid to become Student Council president. But when the cool kids stage a counterattack, will Steve and his friends survive?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199405803964.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199405803964.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 627754
+**Family Guy S04E21 - I Take Thee, Quagmire**  
+TV-14-DS 🔒 21:44  
+⌛ April 2, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/i-take-thee-quagmire  
+seriesid=`440990` titleid=`627754` id=`NbZ0sW1yTvqsPJTVHycBfg` mediaid=`cdcc4131d751248d84ea3f986e72c2ee41b573c2`  
+_After courting Peter's maid briefly, Quagmire decides that he's in love.  He proposes and she accepts.  Quagmire is pulled away from his friends leaving them all distraught.  He soon realizes that he's made a mistake.  The boys launch a plan to get Quagmire out of his marriage by faking his own death. Meanwhile, Stewie becomes possessive of Lois as she attempts to wean him off of her breast milk.  Just as he kicks his addiction to his mother, she confesses that she has missed their bonding._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1070859718727390306.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1070859718727390306.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 700762
-**American Dad S02E15 - American Dream Factory**  
-TV-14-DL 🔒 21:45  
-⌛ March 26, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/american-dream-factory  
-seriesid=`581006` titleid=`700762` id=`BxtCCNocTmG8GsT5kV02CQ` mediaid=`73a2ceb26f7f50ec6be07bfaa2abb5b9feb6f94e`  
-_Stan chases his dream of making a fortune and living the American dream by selling holiday teddy bears. When business takes off Stan hires illegal immigrants to help him, but INS quickly starts breathing down his neck. Meanwhile, Steve starts a band with his friends, only to have Roger usurp him as the lead._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199335771086.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199335771086.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 615762
+**Family Guy S04E07 - Brian the Bachelor**  
+TV-14-DLS 🔒 21:46  
+⌛ March 26, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/brian-the-bachelor  
+seriesid=`440990` titleid=`615762` id=`nvT08pE-Qayrq0KM8bHbnw` mediaid=`205c64117109a547906f2b2b3d748685070ecf22`  
+_Brian and Quagmire vie for the same woman's affections when they are cast on "The Bachelorette"._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154264623381418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154264623381418.jpg" height="144px" /></a>
