@@ -45,6 +45,53 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585799940,
+        "tms_id": "EP012792980113",
+        "description": "With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. But when Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose.",
+        "title_suggest": {
+            "input": [
+                "Teen-a Witch",
+                "Witch"
+            ]
+        },
+        "title": "Teen-a Witch",
+        "type": "episode",
+        "expiration_date": 1565582340,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1307.93,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1585195200,
+        "clip_order": null,
+        "media_id": "5b0d6ca24561e9c052c6c76c933c3b89d6532205",
+        "modified": 1584888608,
+        "airing_id": "RADS1003222000075924",
+        "id": "AWGLqx6ENWyh42wYnkw9",
+        "slug": "teen-a-witch",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15192402394087.jpg",
+        "created": 1518466702,
+        "title_id": "2132991",
+        "tv_rating": "tv-pg-l",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1584888608,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1564977600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg"
+    },
+    {
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1585459740,
@@ -453,57 +500,6 @@
         "launch_date": 1556550000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg",
         "cma_id": "1480642"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585195140,
-        "tms_id": "EP012792980101",
-        "description": "When Tina volunteers alongside Nurse Liz, she finds herself involved in the biggest scandal to hit Wagstaff School: a lice infestation. Meanwhile, Bob makes improvements to the restaurant that end up driving customers away. Can the Belchers juggle both a crisis at the restaurant and lice?",
-        "title_suggest": {
-            "input": [
-                "Lice Things Are Lice",
-                "Things Are Lice",
-                "Are Lice",
-                "Lice"
-            ]
-        },
-        "title": "Lice Things Are Lice",
-        "type": "episode",
-        "expiration_date": 1561348740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1301.4671338,
-        "episode_number": "10",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584590400,
-        "modified": 1584244092,
-        "media_id": "a909891d15d58088f05551a732c1f6c50929e894",
-        "airing_id": "RADS1003142000073575",
-        "id": "n30WUqEbTQ6SoVjPzcEF7w",
-        "slug": "lice-things-are-lice",
-        "views": 6,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1478412622,
-        "title_id": "2097198",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1584244092,
-        "first_published": 1478412622,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1560744000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/lice-things-are-lice/bobsburgers_519_air_cid-2X3CM.jpg",
-        "cma_id": "1434258"
     },
     {
         "auth": true,

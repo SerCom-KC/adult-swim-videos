@@ -96,54 +96,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447438560,
-        "tms_id": "EP004625760015",
-        "rating": 8.767402,
-        "description": "When things start going missing on Sealab, fingers start to point and tempers start to flare. It'll be up to Murphy and his cadre of Martian Knights to quell the chaos. Or, more accurately, to exacerbate the existing chaos into something much more chaotic. But at the end there might be cake.\r\n",
-        "title_suggest": {
-            "input": [
-                "Der Dieb",
-                "Dieb"
-            ]
-        },
-        "type": "episode",
-        "title": "Der Dieb",
-        "expiration_date": 1585195140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.93,
-        "episode_number": "1",
-        "original_air_date": null,
-        "clip_order": null,
-        "modified": 1584396385,
-        "airing_id": "RADS1002132000063062",
-        "media_id": "9ff0cca8c521e2854facaa2c16e874a9cc640ee0",
-        "id": "EY7omnh4Sw-TLNNKzfk-ew",
-        "slug": "der-dieb",
-        "views": 245122,
-        "created": 1402945476,
-        "title_id": "417616",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1584396385,
-        "tags": [
-            "sealab 2021 derdieb episode 14"
-        ],
-        "rating_count": 1221,
-        "collection_title": "Sealab 2021",
-        "modified_by": "ODT Listener",
-        "launch_date": 1582174800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/der-dieb/sealab_cc_014_revised-01.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1447438680,
         "auth_expiration_date": null,
         "tms_id": "EP004625760020",
@@ -242,6 +194,53 @@
         "modified_by": "ODT Listener",
         "launch_date": 1582779600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-policy/sealab_cc_015_revised-01.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447438740,
+        "tms_id": "EP004625760021",
+        "rating": 6.4581633,
+        "description": "Join sexy host Toni Carmel for an action-packed thrill ride as we go behind the scenes of this summer's hottest new action flick, Tinfins!   Featuring exclusive interviews with Kid and Play.\t\r\n",
+        "title_suggest": {
+            "input": [
+                "Tinfins"
+            ]
+        },
+        "type": "episode",
+        "title": "Tinfins",
+        "expiration_date": 1588219140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 690.09,
+        "episode_number": "7",
+        "original_air_date": null,
+        "clip_order": null,
+        "modified": 1584925687,
+        "airing_id": "RADS1003222000075947",
+        "media_id": "1860310d76abae1fe060fc0d87fae4f2fdf64700",
+        "id": "ogh0DVU6SKawZ6UpwS6YcQ",
+        "slug": "tinfins",
+        "views": 162930,
+        "created": 1402945476,
+        "title_id": "437997",
+        "season_number": "2",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1584925687,
+        "tags": [
+            "sealab 2021 tinfins episode 20"
+        ],
+        "rating_count": 980,
+        "collection_title": "Sealab 2021",
+        "modified_by": "ODT Listener",
+        "launch_date": 1585195200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/sealab_cc_020_pt2-02.jpg",
         "cma_id": ""
     }
 ]
