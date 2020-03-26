@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 26, 2020 at 02:00:35 EDT_
+_Last Update: March 26, 2020 at 02:30:36 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 1  
-### 700734
-**American Dad S03E01 - Meter Made**  
-TV-14-DSV 🔒 21:46  
-⌛ April 2, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/meter-made  
-seriesid=`581006` titleid=`700734` id=`G_Ul-JUQQ7aENjxiHyYsuA` mediaid=`91c2f48499829499052a1cf5a61d30845b9741ad`  
-_An homage to "Goodfellas." In order to be taken more seriously and to be a "somebody", Stan becomes a meter maid who seems to have all the power._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993482121818.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993482121818.jpg" height="144px" /></a>
+### 711542
+**American Dad S03E20 - Escape From Pearl Bailey**  
+TV-14-DL 🔒 21:46  
+⌛ April 2, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/escape-from-pearl-bailey  
+seriesid=`581006` titleid=`711542` id=`dRWUML6yQDKkAuOnI3ABrA` mediaid=`06f2944c4d30c57969e2fd80112c965e28e6f8c5`  
+_Steve plots revenge against Lisa Silver and the cool kids after Debbie loses her bid to become Student Council president. But when the cool kids stage a counterattack, will Steve and his friends survive?_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199405803964.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199405803964.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 581006 American Dad: 1  
-### 700761
-**American Dad S02E13 - Bush Comes to Dinner**  
-TV-14 🔒 21:46  
-⌛ March 26, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/bush-comes-to-dinner  
-seriesid=`581006` titleid=`700761` id=`fsADuEEgRsaisTcKYDlrxA` mediaid=`88cdb95550cfd3c32858ebaf1fd250cfa421e3cc`  
-_President Bush comes to dinner when Stan wins an essay-writing contest. Hayley is determined to bring down the presidency after Roger accidentally gets Bush drunk. Meanwhile, Roger thinks he's found Osama bin Laden._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993355428314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993355428314.jpg" height="144px" /></a>
+### 700762
+**American Dad S02E15 - American Dream Factory**  
+TV-14-DL 🔒 21:45  
+⌛ March 26, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/american-dream-factory  
+seriesid=`581006` titleid=`700762` id=`BxtCCNocTmG8GsT5kV02CQ` mediaid=`73a2ceb26f7f50ec6be07bfaa2abb5b9feb6f94e`  
+_Stan chases his dream of making a fortune and living the American dream by selling holiday teddy bears. When business takes off Stan hires illegal immigrants to help him, but INS quickly starts breathing down his neck. Meanwhile, Steve starts a band with his friends, only to have Roger usurp him as the lead._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199335771086.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199335771086.jpg" height="144px" /></a>
