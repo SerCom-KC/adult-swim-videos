@@ -252,6 +252,56 @@
         "cma_id": "1434048"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1585886340,
+        "tms_id": "EP007164450217",
+        "description": "Stan loses his faith in religion after Steve questions everything in the Bible. He takes the family to Korea to investigate the rumors of a reinvented \"Noah's Ark.\"",
+        "title_suggest": {
+            "input": [
+                "Daesong Heavy Industries",
+                "Heavy Industries",
+                "Industries"
+            ]
+        },
+        "expiration_date": 1554130740,
+        "title": "Daesong Heavy Industries",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1274.2,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "15",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1585281600,
+        "modified": 1584891007,
+        "media_id": "92e9c92d996568cee9b7056a3008dd9d08051794",
+        "airing_id": "RADS1003222000075962",
+        "id": "8D7FQHc-RLisjOMQHSpvSQ",
+        "slug": "daesong-heavy-industries",
+        "views": 2157,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200190482404.jpg",
+        "created": 1461010841,
+        "season_number": "11",
+        "title_id": "2041488",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1584891007,
+        "first_published": 1472184652,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1553526000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200190482404.jpg",
+        "cma_id": "1408870"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1583218740,
         "tms_id": "",
@@ -494,54 +544,6 @@
         "launch_date": 1500440400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199347519259.jpg",
         "cma_id": "1434511"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585281540,
-        "tms_id": "EP007164450213",
-        "description": "Francine sets out to help news anchor Greg when he and Terry split up. Roger becomes obsessed with a fictional boy from an old game called Dream Phone.",
-        "title_suggest": {
-            "input": [
-                "Anchorfran"
-            ]
-        },
-        "expiration_date": 1582520340,
-        "title": "Anchorfran",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1273.7,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "9",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584676800,
-        "modified": 1584289327,
-        "media_id": "cadedd806c91b9e4044ed0857981d46e085abb37",
-        "airing_id": "RADS1003142000073609",
-        "id": "GxRKsyxrS4ChVDtp_vuY2Q",
-        "slug": "anchorfran",
-        "views": 5114,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200205325857.jpg",
-        "created": 1454969877,
-        "season_number": "11",
-        "title_id": "2041484",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1584289327,
-        "first_published": 1470712241,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1581915600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205325857.jpg",
-        "cma_id": "1485305"
     },
     {
         "auth": true,
