@@ -97,6 +97,52 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"
     },
     {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1585888140,
+        "tms_id": "EP012792980116",
+        "description": "When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend.",
+        "title_suggest": {
+            "input": [
+                "The Quirk-Ducers",
+                "Quirk-Ducers"
+            ]
+        },
+        "title": "The Quirk-Ducers",
+        "type": "episode",
+        "expiration_date": 1564977540,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1300.63,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1585283400,
+        "clip_order": null,
+        "media_id": "c9c34718faeb1e812d3b7827ba7a72332c152649",
+        "modified": 1584879847,
+        "airing_id": "RADS1003222000075967",
+        "id": "AWG1Yym-NWyh42wYnk6f",
+        "slug": "the-quirk-ducers",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15198454863205.jpg",
+        "created": 1519166630,
+        "title_id": "2132992",
+        "tv_rating": "tv-pg-dlv",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1584879847,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1564372800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1585799940,
@@ -453,56 +499,6 @@
         "launch_date": 1562558400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg",
         "cma_id": "1488947"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585283340,
-        "tms_id": "EP012792980106",
-        "description": "When Bob's longtime friend, Critter, finds himself in jail for unpaid parking tickets, the Belchers decide to do what they can to help him out. Meanwhile, Linda takes on a babysitting job that becomes more work than she signed up for.",
-        "title_suggest": {
-            "input": [
-                "Wag the Hog",
-                "the Hog",
-                "Hog"
-            ]
-        },
-        "title": "Wag the Hog",
-        "type": "episode",
-        "expiration_date": 1558969140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1276.333667,
-        "episode_number": "13",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584678600,
-        "modified": 1584291487,
-        "media_id": "b0ee1d469ca6c3a3ecb8f65a4ae11e243a90a64a",
-        "airing_id": "RADS1003142000073601",
-        "id": "b5vx0ZI7QXKQurddVmWXcw",
-        "slug": "wag-the-hog",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1480515064,
-        "title_id": "2097201",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1584291487,
-        "first_published": 1480515064,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1558364400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/wag-the-hog/bobsburgers_522_air_cid-2X478.jpg",
-        "cma_id": "1485939"
     },
     {
         "auth": true,
