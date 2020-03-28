@@ -400,6 +400,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1585974540,
+        "tms_id": "EP012792980118",
+        "description": "When Tina hurts her ankle, she is left with no choice but to telecommute to school. After enrolling in a program that allows her to send a robot version of herself to class, Tina finds herself having an unexpected breakthrough with Jimmy Jr.",
+        "title_suggest": {
+            "input": [
+                "Ex Machtina",
+                "Machtina"
+            ]
+        },
+        "expiration_date": 1554735540,
+        "title": "Ex Machtina",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1308.4004004,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "4",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1585369800,
+        "modified": 1584940927,
+        "media_id": "dbac9700328ed65b8ecd83c34930cd1abc609247",
+        "airing_id": "RADS1003222000075974",
+        "id": "BG0pb6rnSyu09zSBqyL_MA",
+        "slug": "ex-machtina",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15103318419278.jpg",
+        "created": 1505843811,
+        "season_number": "7",
+        "title_id": "2132974",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1584940927,
+        "first_published": 1508991029,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1554130800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15103318419278.jpg",
+        "cma_id": "2132974"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1585886340,
         "tms_id": "EP012792980115",
         "description": "When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone.",
@@ -598,55 +646,5 @@
         "launch_date": 1561348800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg",
         "cma_id": "1490747"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585369740,
-        "tms_id": "EP012792980108",
-        "description": "When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom.",
-        "title_suggest": {
-            "input": [
-                "Pro Tiki/Con Tiki",
-                "Tiki/Con Tiki",
-                "Tiki"
-            ]
-        },
-        "title": "Pro Tiki/Con Tiki",
-        "type": "episode",
-        "expiration_date": 1558969140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1301.333667,
-        "episode_number": "15",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1584765000,
-        "modified": 1584448089,
-        "media_id": "85023daed95dfa1e0fa1f0a4a36b43b3f6bbbb4e",
-        "airing_id": "RADS1003162000074197",
-        "id": "vHn_yL2YSJaGa4pHqijGZg",
-        "slug": "pro-tiki-con-tiki",
-        "views": 11626,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1481451039,
-        "title_id": "2097203",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1584448089,
-        "first_published": 1481451039,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1558364400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg",
-        "cma_id": "1486547"
     }
 ]
