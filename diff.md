@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 29, 2020 at 02:00:40 EDT_
+_Last Update: March 29, 2020 at 03:00:34 EDT_
 ## Video added
 ### Summary
 440990 Family Guy: 1  
-### 615754
-**Family Guy S04E28 - Stewie B. Goode**  
-TV-14-DLSV 🔒 21:43  
-⌛ April 5, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/stewie-b-goode  
-seriesid=`440990` titleid=`615754` id=`yoreKCJlQvmQ3Xq-MNf-PA` mediaid=`e8e09f9efaee237836b2404b321a58000ce30d37`  
-_A near-death experience drives Stewie to be nice; Peter's new popularity as a television commentator draws the ire of newsman Tom Tucker._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301079924587.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301079924587.jpg" height="144px" /></a>
+### 615756
+**Family Guy S04E29 - Bango Was His Name, Oh!**  
+TV-14-DLSV 🔒 20:44  
+⌛ April 5, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/bango-was-his-name-oh  
+seriesid=`440990` titleid=`615756` id=`8ZCcUCmATA-zuze_c4j4DA` mediaid=`4ad8d5b279a7a817e73a762579c85c28b55840d1`  
+_Stewie and Brian head out on a road trip to San Francisco to meet that man that Stewie believes may just be his real father._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8644022315160930614.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8644022315160930614.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 440990 Family Guy: 1  
-### 623585
-**Family Guy S04E13 - Jungle Love**  
-TV-14-DV 🔒 21:41  
-⌛ March 29, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/jungle-love  
-seriesid=`440990` titleid=`623585` id=`u6SfaOuIQrarYA1i5GPCbw` mediaid=`9f975cb2d9fb860edfa5471ac191e62162309e1b`  
-_Chris starts high school and is terrorized by the older students, so he joins the Peace Corps to get away.  The family is shocked, especially to learn that Chris has married a tribal girl and plans on never coming home._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432563566202.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432563566202.jpg" height="144px" /></a>
+### 627817
+**Family Guy S04E14 - PTV**  
+TV-14-DLS 🔒 21:44  
+⌛ March 29, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/ptv  
+seriesid=`440990` titleid=`627817` id=`b4rgK3_FShixZsYGcCN0_A` mediaid=`9eba8a9a0ee6eda00eb08c6c5d401c3822550a42`  
+_After a "trouser malfunction" during a live Emmy broadcast, the FCC decides to "correct" some of Peter's beloved television shows. Frustrated, he decides to start his own television station so he can have control of the airwaves. Soon his ratings soar and the FCC steps in, not only censoring Peter's original programming, but his home life as well. The family loads up and heads to Washington to fight congress from banning indecent real life situations._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4499523756800723627.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4499523756800723627.jpg" height="144px" /></a>
