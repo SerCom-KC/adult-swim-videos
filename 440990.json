@@ -505,56 +505,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585461540,
-        "tms_id": "EP002960010062",
-        "rating": 8.119893,
-        "description": "Chris starts high school and is terrorized by the older students, so he joins the Peace Corps to get away.  The family is shocked, especially to learn that Chris has married a tribal girl and plans on never coming home.",
-        "title_suggest": {
-            "input": [
-                "Jungle Love",
-                "Love"
-            ]
-        },
-        "type": "episode",
-        "title": "Jungle Love",
-        "expiration_date": 1502519399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1301.4334,
-        "episode_number": "13",
-        "original_air_date": null,
-        "auth_launch_date": 1584856800,
-        "clip_order": null,
-        "modified": 1584471728,
-        "media_id": "9f975cb2d9fb860edfa5471ac191e62162309e1b",
-        "airing_id": "RADS1003162000074198",
-        "id": "u6SfaOuIQrarYA1i5GPCbw",
-        "slug": "jungle-love",
-        "views": 242982,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15432563566202.jpg",
-        "created": 1402945465,
-        "title_id": "623585",
-        "season_number": "4",
-        "tv_rating": "tv-14-dv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1584471728,
-        "tags": [],
-        "rating_count": 367,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1501914600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432563566202.jpg",
-        "cma_id": "1445407"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1585722540,
         "tms_id": "EP002960010068",
         "rating": 7.745975,
@@ -596,5 +546,59 @@
         "launch_date": 1489044600,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1537851185781296138.jpg",
         "cma_id": "627751"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586066340,
+        "tms_id": "EP002960010080",
+        "rating": 7.5562897,
+        "description": "A near-death experience drives Stewie to be nice; Peter's new popularity as a television commentator draws the ire of newsman Tom Tucker.",
+        "title_suggest": {
+            "input": [
+                "Stewie B. Goode",
+                "B. Goode",
+                "Goode"
+            ]
+        },
+        "type": "episode",
+        "title": "Stewie B. Goode",
+        "expiration_date": 1503208799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1303.9693,
+        "episode_number": "28",
+        "original_air_date": null,
+        "auth_launch_date": 1585461600,
+        "clip_order": null,
+        "modified": 1585034287,
+        "media_id": "e8e09f9efaee237836b2404b321a58000ce30d37",
+        "airing_id": "RADS1003232000075989",
+        "id": "yoreKCJlQvmQ3Xq-MNf-PA",
+        "slug": "stewie-b-goode",
+        "views": 1018692,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15301079924587.jpg",
+        "created": 1402945465,
+        "title_id": "615754",
+        "season_number": "4",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1585034287,
+        "tags": [
+            "Family Guy",
+            " Stewie B Goode"
+        ],
+        "rating_count": 4237,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1502604000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301079924587.jpg",
+        "cma_id": "1450447"
     }
 ]
