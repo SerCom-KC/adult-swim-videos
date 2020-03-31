@@ -52,6 +52,56 @@
         "cma_id": "1495809"
     },
     {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1586237340,
+        "tms_id": "EP012792980121",
+        "description": "Louise is put in a sticky situation when she must defend one of her biggest foes at Wagstaff during a mock trial. Meanwhile, after they're both taken in by a food scammer, Bob teams up with Jimmy Pesto to exact their revenge.",
+        "title_suggest": {
+            "input": [
+                "A Few 'gurt Men",
+                "Few 'gurt Men",
+                "'gurt Men",
+                "Men"
+            ]
+        },
+        "expiration_date": 1555945140,
+        "type": "episode",
+        "title": "A Few 'gurt Men",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1306.13,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1585632600,
+        "clip_order": null,
+        "media_id": "b2dfa4421e179af0084b877402f89f97c9006b0d",
+        "modified": 1585203607,
+        "airing_id": "RADS1003252000076451",
+        "id": "AV-SbT3jwdpKFAKSbO13",
+        "slug": "a-few-gurt-men",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151095084529720.jpg",
+        "created": 1509990153,
+        "season_number": "7",
+        "title_id": "2132980",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1585203607,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1555340400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1585713540,
@@ -533,55 +583,6 @@
         "launch_date": 1562558400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg",
         "cma_id": "1488947"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585632540,
-        "tms_id": "EP012792980104",
-        "description": "Tina's ideas of love and romance are tested when she volunteers at a nursing home to earn her next Thunder Girls badge. Meanwhile, Bob makes new friends who cause him to make some questionable choices.",
-        "title_suggest": {
-            "input": [
-                "Secret Admiral-Irer",
-                "Admiral-Irer"
-            ]
-        },
-        "title": "Secret Admiral-Irer",
-        "type": "episode",
-        "expiration_date": 1563163140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1302.1334668,
-        "episode_number": "18",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": 1585027800,
-        "modified": 1584599047,
-        "media_id": "62c36db15f8a42a3cd82dbc1cd103a44536d8b5c",
-        "airing_id": "RADS1003182000075376",
-        "id": "pbADrCdVRay2C8NqO-O1YQ",
-        "slug": "secret-admiral-irer",
-        "views": 10599,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1483261860,
-        "title_id": "2097206",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1584599047,
-        "first_published": 1483261860,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1562558400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg",
-        "cma_id": "1488549"
     },
     {
         "auth": true,
