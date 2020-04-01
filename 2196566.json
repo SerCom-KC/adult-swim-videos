@@ -48,16 +48,17 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1585713540,
-        "tms_id": "",
-        "description": "When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better.",
+        "auth_expiration_date": 1585108740,
+        "tms_id": "EP033701060002",
+        "description": "When Sheriff learns that he was once a bully to a long lost schoolmate, he sets out to right his wrong.",
         "title_suggest": {
             "input": [
-                "Stuck"
+                "Smelly Glenn",
+                "Glenn"
             ]
         },
-        "title": "Stuck",
-        "expiration_date": 1583297940,
+        "title": "Smelly Glenn",
+        "expiration_date": 1588737540,
         "type": "episode",
         "platforms": [
             "android",
@@ -66,32 +67,32 @@
             "fire-tv"
         ],
         "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 676.08,
-        "episode_number": "3",
-        "original_air_date": 1574658900,
-        "auth_launch_date": 1583298000,
+        "duration": 673.21,
+        "episode_number": "2",
+        "original_air_date": 1574658000,
+        "auth_launch_date": 1582693200,
         "clip_order": null,
-        "media_id": "c01805fe1c0e2a6092ae3c1b99dbc081cc4b6dae",
-        "modified": 1583253731,
-        "airing_id": "RADS1001232000056944",
-        "slug": "stuck",
+        "media_id": "f5982effad1dfbbbef2d09371b873e08165905f6",
+        "modified": 1585427170,
+        "airing_id": "RADS1003262000077473",
+        "slug": "smelly-glenn",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
-        "created": 1573745635,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
+        "created": 1573745609,
         "season_number": "1",
-        "title_id": "2196569",
-        "tv_rating": "tv-ma",
+        "title_id": "2196568",
+        "tv_rating": "tv-ma-v",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1583253731,
+        "published": 1585427170,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1580274000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
-        "id": "AW5qjLBr1YiBSfg0KYe3",
-        "auth": true
+        "launch_date": 1585713600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
+        "id": "AW5qjExh1YiBSfg0KYe2",
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -234,7 +235,7 @@
         "launch_date": 1582693200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg",
         "id": "AW5qjgBaadNs2hMNfugG",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
