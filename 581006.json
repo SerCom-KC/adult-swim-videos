@@ -1,54 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585713540,
-        "tms_id": "EP007164450215",
-        "description": "When Stan is on a mission, Francine pretends she's a widow. Steve and his friends play wrestling and get beat up by Principal Lewis.",
-        "title_suggest": {
-            "input": [
-                "Widow's Pique",
-                "Pique"
-            ]
-        },
-        "expiration_date": 1564977540,
-        "title": "Widow's Pique",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1273.43,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "13",
-        "original_air_date": 1462242600,
-        "clip_order": null,
-        "auth_launch_date": 1585108800,
-        "modified": 1585596969,
-        "media_id": "0ad273cad890408604f0db466ea5d3f855ccf99f",
-        "airing_id": "RADS1003192000075584",
-        "id": "0KELcgZDS2SM3e4YZ_bLuw",
-        "slug": "widows-pique",
-        "views": 2395,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15107888270076.jpg",
-        "created": 1457705439,
-        "season_number": "11",
-        "title_id": "2041486",
-        "tv_rating": "tv-14-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1585596969,
-        "first_published": 1471677161,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1564372800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg",
-        "cma_id": "2041486"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1585799940,
@@ -1104,5 +1055,55 @@
         "launch_date": 1500526800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993371336116.jpg",
         "cma_id": "1436362"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586318340,
+        "tms_id": "EP007164450221",
+        "description": "Stan brings President Garfield back to life in order to teach Hayley about history. Steve writes for the school newspaper.",
+        "title_suggest": {
+            "input": [
+                "Garfield and Friends",
+                "and Friends",
+                "Friends"
+            ]
+        },
+        "expiration_date": 1557154740,
+        "title": "Garfield and Friends",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.97,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "19",
+        "original_air_date": 1465871400,
+        "clip_order": null,
+        "auth_launch_date": 1585713600,
+        "modified": 1585596971,
+        "media_id": "f3dda050cea8bc61dfc36aebfd79bad7c77853da",
+        "airing_id": "RADS1003262000077469",
+        "id": "zZQ5HOGITi-MZLcWyokOvw",
+        "slug": "garfield-and-friends",
+        "views": 2209,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200192969994.jpg",
+        "created": 1463670440,
+        "season_number": "11",
+        "title_id": "2046303",
+        "tv_rating": "tv-14-ds",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1585596971,
+        "first_published": 1473394230,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1556550000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg",
+        "cma_id": "1425039"
     }
 ]
