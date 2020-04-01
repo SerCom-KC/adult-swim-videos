@@ -2,144 +2,116 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 1, 2020 at 00:00:40 EDT_
+_Last Update: April 1, 2020 at 00:30:34 EDT_
 ## Video added
 ### Summary
-828246 Eagleheart: 1  
-2133085 Final Space: 5  
-340539 Harvey Birdman, Attorney at Law: 1  
-2196566 Momma Named Me Sheriff: 1  
-### 2012953
-**Eagleheart S03E09 - Gribbs**  
-TV-14 🔒 11:16  
+581006 American Dad: 1  
+2003422 Bob's Burgers: 2  
+629688 Moral Orel: 1  
+895948 The Eric Andre Show: 1  
+661208 Tim and Eric Awesome Show Great Job!: 1  
+### 2046303
+**American Dad S11E19 - Garfield and Friends**  
+TV-14-DS 🔒 21:13  
+⌛ April 7, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/garfield-and-friends  
+seriesid=`581006` titleid=`2046303` id=`zZQ5HOGITi-MZLcWyokOvw` mediaid=`f3dda050cea8bc61dfc36aebfd79bad7c77853da`  
+_Stan brings President Garfield back to life in order to teach Hayley about history. Steve writes for the school newspaper._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg" height="144px" /></a>
+### 2132979
+**Bob's Burgers S07E10 - Aquaticism**  
+TV-PG-L 🔒 21:43  
+⌛ April 8, 2020 at 00:29:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/aquaticism  
+seriesid=`2003422` titleid=`2132979` id=`AWATwpnwZ-onAnjDLtUU` mediaid=`33623b218d1d94f92c3923ba791e665628d3526b`  
+_When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg" height="144px" /></a>
+### 2132977
+**Bob's Burgers S07E09 - The Grand Mama-Pest Hotel**  
+TV-PG-L 🔒 21:46  
+⌛ April 7, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-grand-mama-pest-hotel  
+seriesid=`2003422` titleid=`2132977` id=`AWAJmC0kwdpKFAKSbnfG` mediaid=`ead9e6aa8afe4c1b9b2fbfdfb8ef6547b3f0be53`  
+_Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg" height="144px" /></a>
+### 723833
+**Moral Orel S03E06 - Dumb**  
+TV-MA 🔒 11:40  
 ⌛ May 5, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/eagleheart/gribbs  
-seriesid=`828246` titleid=`2012953` id=`rZsV2xghStqNbt-GwxKELA` mediaid=`413088daf91c2134492bd52de59e2f635d50b5b5`  
-_Circumstances change._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341556393-eagleheart_033_dup-20140108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341556393-eagleheart_033_dup-20140108.jpg" height="144px" /></a>
-### 2184022
-**Final Space S02E03 - The Grand Surrender**  
-TV-14-DLV 🔓 21:01  
-⌛ April 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-grand-surrender  
-seriesid=`2133085` titleid=`2184022` id=`AWu0N1MG4aLemgzOLFAR` mediaid=`22e0722e2dff7d69901b97d45ea5de26018d1e9c`  
-_The search for a dimensional key leads the Crimson Light to Ash's home planet. HUE hosts a bachelor party for an unexpected visitor._  
-<a href="https://media.cdn.adultswim.com/uploads/20190718/thumbnails/2_197181939363-finalspace_203_air_cid-3XJJ4.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190718/thumbnails/2_197181939363-finalspace_203_air_cid-3XJJ4.jpg" height="144px" /></a>
-### 2184021
-**Final Space S02E02 - The Happy Place**  
-TV-14-DLV 🔓 21:00  
-⌛ April 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-happy-place  
-seriesid=`2133085` titleid=`2184021` id=`AWueerliCorLtcgflrj4` mediaid=`d98379dc867ecfc3b7edbb1b54edb31bc2e918fd`  
-_The crew gets trapped in a happy ship where things aren't what they seem, and Gary must confront the human cost of having lost earth._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156207853223511.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156207853223511.jpg" height="144px" /></a>
-### 2184024
-**Final Space S02E05 - The Notorious Mrs. Goodspeed**  
-TV-14-DLV 🔒 21:02  
-⌛ April 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-notorious-mrs-goodspeed  
-seriesid=`2133085` titleid=`2184024` id=`AWwF9r0-4aLemgzOLFZX` mediaid=`12fbf429cad0f106f8e608b056d94a8d722111da`  
-_Gary reconnects with the mother who abandoned him. Mooncake misses Gary's attention._  
-<a href="https://media.cdn.adultswim.com/uploads/20190719/thumbnails/2_19719127116-finalspace_205_air_cid-3XVD7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190719/thumbnails/2_19719127116-finalspace_205_air_cid-3XVD7.jpg" height="144px" /></a>
-### 2184023
-**Final Space S02E04 - The Other Side**  
-TV-14-DLV 🔒 21:01  
-⌛ April 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-other-side  
-seriesid=`2133085` titleid=`2184023` id=`AWvjwjqeCorLtcgflsBp` mediaid=`f6f3609d7b148d0e0b37eb33d50954434a0bd021`  
-_A collision with space time traps half of the Crimson Light in a perilous other dimension_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156295892967913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156295892967913.jpg" height="144px" /></a>
-### 2184020
-**Final Space S02E01 - The Toro Regatta**  
-TV-14-DLSV 🔓 21:41  
-⌛ April 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-toro-regatta  
-seriesid=`2133085` titleid=`2184020` id=`AWt7VNVy4aLemgzOLEzg` mediaid=`030688b6397fed5dc2cb77e568e5760a0aef4672`  
-_Gary is rescued from the wreckage of space then must earn his freedom by winning the deadliest race in the galaxy._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15614848421651.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15614848421651.jpg" height="144px" /></a>
-### 344147
-**Harvey Birdman, Attorney at Law S01E06 - The Dabba Don**  
-TV-14 🔒 12:01  
+https://www.adultswim.com/videos/moral-orel/dumb  
+seriesid=`629688` titleid=`723833` id=`nj5LAcM2SrOyOzb-mk9nvQ` mediaid=`682fe870920415b83e1209f3409d26b137401970`  
+_Discontent with being raised by his octogenarian Father and depressed, middle-aged half sister, Joe searches for a more vibrant guardian._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311167106-moralorel_036.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311167106-moralorel_036.jpg" height="144px" /></a>
+### 2032600
+**The Eric Andre Show S03E05 - The Hannibal Buress Show**  
+TV-MA-L 🔒 10:48  
 ⌛ May 5, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/the-dabba-don  
-seriesid=`340539` titleid=`344147` id=`rSSxcv1qTCKs32kAmUNU7Q` mediaid=`7dabe8fe1ee06f1884ec3db97db6551c7ff0d700`  
-_Fred Flintstone is a family man--possibly in more ways than one. Looking to expand beyond construction with a couple of small side businesses, Fred seeks legal advice from Harvey. The case is seemingly a simple matter until the feds start questioning the legitimacy of Fred's business dealings and his possible ties to the Mob._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351346126-harvey_006.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351346126-harvey_006.jpg" height="144px" /></a>
-### 2196568
-**Momma Named Me Sheriff S01E02 - Smelly Glenn**  
-TV-MA-V 🔓 11:13  
+https://www.adultswim.com/videos/the-eric-andre-show/the-hannibal-buress-show  
+seriesid=`895948` titleid=`2032600` id=`Iauya6NZTk-EzFzNXush0Q` mediaid=`cfa5ed10cdc4a2ed5953222fb9699af99a9c0d82`  
+_Following a severe spinal injury, Eric asks Hannibal to host the show. Featuring Nick Cannon and Carmen Electra; Musical guest Lil Jon._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341616309-ericandre_025_dup-20141201.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341616309-ericandre_025_dup-20141201.jpg" height="144px" /></a>
+### 751394
+**Tim and Eric Awesome Show Great Job! S04E05 - Tommy**  
+TV-MA 🔒 11:16  
 ⌛ May 5, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/momma-named-me-sheriff/smelly-glenn  
-seriesid=`2196566` titleid=`2196568` id=`AW5qjExh1YiBSfg0KYe2` mediaid=`f5982effad1dfbbbef2d09371b873e08165905f6`  
-_When Sheriff learns that he was once a bully to a long lost schoolmate, he sets out to right his wrong._  
-<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/tommy  
+seriesid=`661208` titleid=`751394` id=`Gy8rFCuKRtiHRESEz7Sw9w` mediaid=`52e9515e5babd11e1ebbb506c89d37d38c9a025f`  
+_The network forces Tim and Eric to hire The Room director Tommy Wiseau to direct a sketch. Coincidentally, two businessmen/friends look for a bite to eat in Denver.
+(Tommy Wiseau, Fred Willard)_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_405_pt2-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_405_pt2-02.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2133085 Final Space: 5  
-2196566 Momma Named Me Sheriff: 1  
-340539 Harvey Birdman, Attorney at Law: 1  
-828246 Eagleheart: 1  
-### 2184030
-**Final Space S02E11 - The Set Up**  
-TV-14-DLSV 🔒 21:01  
+2003422 Bob's Burgers: 2  
+581006 American Dad: 1  
+629688 Moral Orel: 1  
+661208 Tim and Eric Awesome Show Great Job!: 1  
+895948 The Eric Andre Show: 1  
+### 2132990
+**Bob's Burgers S07E01 - Flu-Ouise**  
+TV-PG-DLV 🔒 22:05  
 ⌛ March 31, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-set-up  
-seriesid=`2133085` titleid=`2184030` id=`AW0HDuF-4aLemgzOLGZI` mediaid=`9642446f6dea829e5c57ae9881969a5447bc0313`  
-_An act of betrayal shakes the crew. Hue and Mooncake have a boys' day out._  
-<a href="https://media.cdn.adultswim.com/uploads/20190906/thumbnails/2_19961051142-FinalSpace_211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190906/thumbnails/2_19961051142-FinalSpace_211.jpg" height="144px" /></a>
-### 2184031
-**Final Space S02E12 - The Descent Into Darkness**  
-TV-14-DLV 🔒 21:05  
+https://www.adultswim.com/videos/bobs-burgers/flu-ouise  
+seriesid=`2003422` titleid=`2132990` id=`AWFYLCWdZ-onAnjDL5Nm` mediaid=`668bca67201e425b0fe66bd84c04031bd9e197a6`  
+_When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg" height="144px" /></a>
+### 2132972
+**Bob's Burgers S07E01 - Sea Me Now**  
+TV-PG-L 🔒 21:44  
+⌛ April 1, 2020 at 00:29:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/sea-me-now  
+seriesid=`2003422` titleid=`2132972` id=`uigHTPzpQmefLwG4q27qRw` mediaid=`36a0ccc64d9f8f32a8f88e60d768f34b10eb5b9b`  
+_Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's chalkboard eraser from the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg" height="144px" /></a>
+### 2041486
+**American Dad S11E13 - Widow's Pique**  
+TV-14-LV 🔓 21:13  
 ⌛ March 31, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-descent-into-darkness  
-seriesid=`2133085` titleid=`2184031` id=`AW0rt68j4aLemgzOLGcO` mediaid=`6c379cff6b7d00f6453600d8206a9069617d7812`  
-_The search for the stolen dimensional keys leads the crew to a planet being sucked into the Dark Zone. Hue and Ava get closer._  
-<a href="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_199131341560-FinalSpace_212.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_199131341560-FinalSpace_212.jpg" height="144px" /></a>
-### 2184032
-**Final Space S02E13 - The Sixth Key**  
-TV-14-DLV 🔒 21:54  
+https://www.adultswim.com/videos/american-dad/widows-pique  
+seriesid=`581006` titleid=`2041486` id=`0KELcgZDS2SM3e4YZ_bLuw` mediaid=`0ad273cad890408604f0db466ea5d3f855ccf99f`  
+_When Stan is on a mission, Francine pretends she's a widow. Steve and his friends play wrestling and get beat up by Principal Lewis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg" height="144px" /></a>
+### 724140
+**Moral Orel S03E01 - Numb**  
+TV-MA 🔒 11:43  
 ⌛ March 31, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-sixth-key  
-seriesid=`2133085` titleid=`2184032` id=`AW1KfAmF1YiBSfg0KXA6` mediaid=`d86e057fff47fcc2f0a3819821af6bbf7ffa0864`  
-_With the dimensional keys recovered, the crew travels to Inner Space where they finally try to free Bolo._  
-<a href="https://media.cdn.adultswim.com/uploads/20190919/thumbnails/2_1991913514-FinalSpace_213.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190919/thumbnails/2_1991913514-FinalSpace_213.jpg" height="144px" /></a>
-### 2184028
-**Final Space S02E09 - The Closer You Get**  
-TV-14-DLV 🔒 21:01  
+https://www.adultswim.com/videos/moral-orel/numb  
+seriesid=`629688` titleid=`724140` id=`fZa17oRcQLuz7PtDB8y2Tw` mediaid=`d1598ab4891d6027c2f25a6b484036f91654c44a`  
+_Bloberta searches for a solution to her humdrum life._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311164382-moralorel_031.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311164382-moralorel_031.jpg" height="144px" /></a>
+### 723441
+**Tim and Eric Awesome Show Great Job! S03E10 - Brownies**  
+TV-14-D 🔒 11:20  
 ⌛ March 31, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-closer-you-get  
-seriesid=`2133085` titleid=`2184028` id=`AWyVrkqq4aLemgzOLGO2` mediaid=`94f5a0ae3345a6588a80341113c91eb181521cc7`  
-_Gary discovers a way he may be able to communicate with Quinn. Tribore reconnects with a resistance fighter who has an ulterior motive._  
-<a href="https://media.cdn.adultswim.com/uploads/20190816/thumbnails/2_198161150475-FinalSpace_209_dup-20190809.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190816/thumbnails/2_198161150475-FinalSpace_209_dup-20190809.jpg" height="144px" /></a>
-### 2184029
-**Final Space S02E10 - The Lost Spy**  
-TV-14-DLSV 🔒 21:13  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/brownies  
+seriesid=`661208` titleid=`723441` id=`SHKA41vOQ9OXWzMZmLvq3Q` mediaid=`c816b694d67a28774b87f404ac0f44103071cd0c`  
+_Browntown? Nope. Brownies.
+(John C Reilly, Michael Ian Black, Bob Odenkirk, Ray Wise)_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_310_pt2-03.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_310_pt2-03.jpg" height="144px" /></a>
+### 2012288
+**The Eric Andre Show S02E10 - Scott Porter /  Brutus "The Barber" Beefcake**  
+TV-14-LSV 🔒 10:51  
 ⌛ March 31, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/final-space/the-lost-spy  
-seriesid=`2133085` titleid=`2184029` id=`AWy_xfvkCorLtcgflt5Z` mediaid=`4b0105e81aee15fcba5d369305e5eac0d739b6ff`  
-_Gary and crew search Galang 22 for Little Cato, while Clarence, Fox and Ash pull off their greatest con. We learn more about Sheryl's secret past._  
-<a href="https://media.cdn.adultswim.com/uploads/20190823/thumbnails/2_198231514168-finalspace_210_dup-20190802.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190823/thumbnails/2_198231514168-finalspace_210_dup-20190802.jpg" height="144px" /></a>
-### 2196569
-**Momma Named Me Sheriff S01E03 - Stuck**  
-TV-MA 🔒 11:16  
-⌛ March 31, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/momma-named-me-sheriff/stuck  
-seriesid=`2196566` titleid=`2196569` id=`AW5qjLBr1YiBSfg0KYe3` mediaid=`c01805fe1c0e2a6092ae3c1b99dbc081cc4b6dae`  
-_When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better._  
-<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg" height="144px" /></a>
-### 340540
-**Harvey Birdman, Attorney at Law S01E01 - Bannon Custody Battle**  
-TV-PG 🔒 11:56  
-⌛ March 31, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/bannon-custody-battle  
-seriesid=`340539` titleid=`340540` id=`uJQOexIPSVa3efhooQRifg` mediaid=`4c9b4b97e49f6caf36d6ff836431b8c6067e0e2d`  
-_Bannon Custody Battle: Harvey represents Dr. Quest in a parental custody battle with Race Bannon over Jonny and Hadji._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351220523-harvey_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351220523-harvey_001.jpg" height="144px" /></a>
-### 2012948
-**Eagleheart S03E04 - Grandy**  
-TV-14-DLSV 🔒 21:38  
-⌛ March 31, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/eagleheart/grandy  
-seriesid=`828246` titleid=`2012948` id=`x9_LhiS5Sm6OlvLoVz3xfQ` mediaid=`78c49d2fc53e809413e62226d77b9c9e09e85559`  
-_Chris faces consequences._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341554550-eagleheart_028_dup-20140110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341554550-eagleheart_028_dup-20140110.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-eric-andre-show/scott-porter-brutus-the-barber-beefcake  
+seriesid=`895948` titleid=`2012288` id=`cZ0yD_p3TrOH6loZLUtP6w` mediaid=`103240cbbcbe7a1f84a92bc1f0cd98a036a0d49b`  
+_Season finale. You've seen the show. You get it._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341614516-ericandre_020_dup-20131205.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341614516-ericandre_020_dup-20131205.jpg" height="144px" /></a>

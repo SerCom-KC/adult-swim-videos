@@ -203,6 +203,53 @@
         "cma_id": "1294433"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447784640,
+        "auth_expiration_date": 1588737540,
+        "tms_id": "EP008994530036",
+        "rating": 8.121045,
+        "description": "The network forces Tim and Eric to hire The Room director Tommy Wiseau to direct a sketch. Coincidentally, two businessmen/friends look for a bite to eat in Denver.\r\n(Tommy Wiseau, Fred Willard)\r\n",
+        "title_suggest": {
+            "input": [
+                "Tommy"
+            ]
+        },
+        "type": "episode",
+        "title": "Tommy",
+        "expiration_date": 1568260740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 676.006,
+        "episode_number": "5",
+        "original_air_date": 1236573000,
+        "clip_order": null,
+        "auth_launch_date": 1585713600,
+        "modified": 1585367407,
+        "media_id": "52e9515e5babd11e1ebbb506c89d37d38c9a025f",
+        "airing_id": "RADS1003262000077483",
+        "id": "Gy8rFCuKRtiHRESEz7Sw9w",
+        "slug": "tommy",
+        "views": 325380,
+        "created": 1402945481,
+        "title_id": "751394",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1585367407,
+        "tags": [],
+        "rating_count": 1520,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1565236800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_405_pt2-02.jpg",
+        "cma_id": "1384868"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1447783980,
         "auth_expiration_date": 1576645140,
@@ -353,56 +400,6 @@
         "launch_date": 1503603292,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/awesome-10-year-anniversary-version-great-job/timanderic_10thAnniversary_dup-20170823.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447784520,
-        "auth_expiration_date": 1585713540,
-        "tms_id": "EP008994530030",
-        "rating": 8.559941,
-        "description": "Browntown? Nope. Brownies.\r\n(John C Reilly, Michael Ian Black, Bob Odenkirk, Ray Wise)",
-        "title_suggest": {
-            "input": [
-                "Brownies"
-            ]
-        },
-        "type": "episode",
-        "title": "Brownies",
-        "expiration_date": 1565236740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 680.02,
-        "episode_number": "10",
-        "original_air_date": 1222662600,
-        "clip_order": null,
-        "auth_launch_date": 1582693200,
-        "modified": 1582312687,
-        "media_id": "c816b694d67a28774b87f404ac0f44103071cd0c",
-        "airing_id": "RADS1002212000065457",
-        "id": "SHKA41vOQ9OXWzMZmLvq3Q",
-        "slug": "brownies",
-        "views": 338013,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "723441",
-        "season_number": "3",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1582312687,
-        "tags": [],
-        "rating_count": 1518,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1562212800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_310_pt2-03.jpg",
-        "cma_id": "1365359"
     },
     {
         "auth": false,
