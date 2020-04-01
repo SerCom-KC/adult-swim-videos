@@ -4300,6 +4300,64 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "The Other 5 Returns May 3rd.",
+        "title_suggest": {
+            "input": [
+                "The Other 5 Trailer",
+                "Other 5 Trailer",
+                "5 Trailer",
+                "Trailer"
+            ]
+        },
+        "title": "The Other 5 Trailer",
+        "expiration_date": 1588564740,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 75.1,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "",
+        "modified": 1585715696,
+        "airing_id": "",
+        "slug": "the-other-5-trailer",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_203261225433-promo_RAM4_Pt2_Dated_75.jpg",
+        "created": 1585235943,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1585715696,
+        "tags": [
+            "rick and morty",
+            "season 4",
+            "justin roiland",
+            "dan harmon",
+            "trailer",
+            "adult swim",
+            "other 5"
+        ],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1585715640,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203261225433-promo_RAM4_Pt2_Dated_75.jpg",
+        "id": "AXEXbN-gC8QgH-t19H6u",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
