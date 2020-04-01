@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 1, 2020 at 01:30:35 EDT_
+_Last Update: April 1, 2020 at 02:30:44 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 1  
-### 700745
-**American Dad S03E10 - Oedipal Panties**  
-TV-14 🔒 21:47  
-⌛ April 8, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/oedipal-panties  
-seriesid=`581006` titleid=`700745` id=`Jlj7HHJrTsWD7m-PvyeuZA` mediaid=`5732754aef0ccc12d8b00e0330f412dfb299598e`  
-_When Stan's mom, Betty, gets dumped by a boyfriend for the umpteenth time, she comes running to Stan for support._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994036853511.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994036853511.jpg" height="144px" /></a>
+### 700751
+**American Dad S03E11 - Widowmaker**  
+TV-14-DLV 🔒 21:47  
+⌛ April 8, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/widowmaker  
+seriesid=`581006` titleid=`700751` id=`uNwbImDHSvCCr-Cp3MSuYA` mediaid=`65cf24174b1c5a4132a6598c445be289c30db120`  
+_Francine consoles her friend Julie because her open and loving husband has gone missing. After talking to Julie, Francine wishes Stan would share more with her. The two of them visit Roger for some couples' therapy. After a few sessions, Stan becomes an open book and shares generously with Francine. One of the secrets he reveals is that he was forced by the CIA to kill Julie's husband. Francine struggles to keep this secret safe, despite Stan's growing relationship with Julie._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994038953615.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994038953615.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 581006 American Dad: 1  
-### 700770
-**American Dad S02E23 - Joint Custody**  
-TV-14-D 🔒 21:46  
-⌛ April 1, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/joint-custody  
-seriesid=`581006` titleid=`700770` id=`EuO_y_fDQpGNZtoT0Ditaw` mediaid=`0d4ae917499befc38dbf5ec24ca42e89a43462e4`  
-_Stan tries to get an unsuspecting Jeff Fischer out of his life for good by taking him on a road trip to Florida, where there is a warrant out for Jeff's arrest._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993478142914.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993478142914.jpg" height="144px" /></a>
+### 700733
+**American Dad S02E21 - The Vacation Goo**  
+TV-14 🔒 21:48  
+⌛ April 1, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-vacation-goo  
+seriesid=`581006` titleid=`700733` id=`wlf1dLW9TyqJL7RkQAGxhA` mediaid=`5d403b259baf7f1910428c469315651696736edf`  
+_The Smiths find out that their outstanding family vacations have only been experiences in virtual reality. Stan vows to redeem himself by taking the family on a cruise, but when they are stranded on a remote island, things get out of hand._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993371336116.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993371336116.jpg" height="144px" /></a>
