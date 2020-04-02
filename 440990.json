@@ -102,6 +102,52 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1586413740,
+        "tms_id": "EP002960010086",
+        "rating": 8.180228,
+        "description": "Chris' school is visited by an Army recruiter, who sparks his interest in the military. Brian is outraged and decides to visit the recruitment office to give them a piece of his mind. After he steps outside for a minute, Stewie signs the both of them up to be in the Army. Brian struggles quite a bit during training and is about to quit when Stewie convinces him to follow through with it, only for them to be rewarded with a deployment to Iraq.",
+        "title_suggest": {
+            "input": [
+                "Saving Private Brian",
+                "Private Brian",
+                "Brian"
+            ]
+        },
+        "type": "episode",
+        "title": "Saving Private Brian",
+        "expiration_date": 1490507999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1303.6023,
+        "episode_number": "4",
+        "original_air_date": 1163995200,
+        "clip_order": null,
+        "auth_launch_date": 1585809000,
+        "modified": 1585652286,
+        "airing_id": "RADS1003292000078075",
+        "media_id": "4b8d641ae917379d7982413910b4262ae4f23e5b",
+        "id": "9ExQolhTTqCMqIT7pAoFSg",
+        "slug": "saving-private-brian",
+        "views": 923127,
+        "created": 1402945465,
+        "title_id": "638934",
+        "season_number": "5",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "published": 1585652286,
+        "tags": [],
+        "rating_count": 2519,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1489903200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_61653.jpg",
+        "cma_id": "1362596"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1585983540,
         "tms_id": "EP002960010078",
         "rating": 8.215575,
@@ -260,64 +306,6 @@
         "launch_date": 1489820400,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4944756086532748876.jpg",
         "cma_id": "1362386"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1585808940,
-        "tms_id": "EP002960010072",
-        "rating": 7.197722,
-        "description": "After courting Peter's maid briefly, Quagmire decides that he's in love.  He proposes and she accepts.  Quagmire is pulled away from his friends leaving them all distraught.  He soon realizes that he's made a mistake.  The boys launch a plan to get Quagmire out of his marriage by faking his own death. Meanwhile, Stewie becomes possessive of Lois as she attempts to wean him off of her breast milk.  Just as he kicks his addiction to his mother, she confesses that she has missed their bonding.",
-        "title_suggest": {
-            "input": [
-                "I Take Thee, Quagmire",
-                "Take Thee, Quagmire",
-                "Thee, Quagmire",
-                "Quagmire"
-            ]
-        },
-        "type": "episode",
-        "title": "I Take Thee, Quagmire",
-        "expiration_date": 1502951399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1304.1028,
-        "episode_number": "21",
-        "original_air_date": 1148266800,
-        "clip_order": null,
-        "auth_launch_date": 1585204200,
-        "modified": 1584887647,
-        "airing_id": "RADS1003222000075926",
-        "media_id": "cdcc4131d751248d84ea3f986e72c2ee41b573c2",
-        "id": "NbZ0sW1yTvqsPJTVHycBfg",
-        "slug": "i-take-thee-quagmire",
-        "views": 743742,
-        "created": 1402945465,
-        "title_id": "627754",
-        "season_number": "4",
-        "tv_rating": "tv-14-ds",
-        "active": false,
-        "published": 1584887647,
-        "tags": [
-            "I Take Thee Quagmire",
-            "Family Guy",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Seth McFarlane",
-            "Griffins",
-            "Peter",
-            "Stewie",
-            "Brian"
-        ],
-        "rating_count": 2281,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502346600,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1070859718727390306.jpg",
-        "cma_id": "1449937"
     },
     {
         "auth": false,
