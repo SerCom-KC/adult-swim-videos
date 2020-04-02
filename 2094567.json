@@ -247,54 +247,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341036549-dreamcorpllc_204_air_cid-3N6HG.jpg"
     },
     {
-        "ott_launch_date": 1541431740,
-        "auth": false,
-        "auth_expiration_date": 1588910340,
-        "tms_id": "",
-        "description": "A very pregnant Patient 6 visits Dream Corp LLC desperate to be cured of her strange addiction to eating couch cushions. Randy makes a cyst popping video.",
-        "title_suggest": {
-            "input": [
-                "Woomba"
-            ]
-        },
-        "expiration_date": 1585799940,
-        "type": "episode",
-        "title": "Woomba",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 677.5,
-        "episode_number": "5",
-        "original_air_date": 1541394000,
-        "auth_launch_date": 1585886400,
-        "clip_order": null,
-        "media_id": "a527324752d2c29fdcce449b1f40c123823dc81c",
-        "modified": 1585631651,
-        "airing_id": "RADS1002282000067846",
-        "id": "AWG_IUn4NWyh42wYnk9K",
-        "slug": "woomba",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341037190-dreamcorpllc_205_air_cid-3NJC8.jpg",
-        "created": 1519330085,
-        "season_number": "2",
-        "title_id": "2133689",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1585631651,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1583384400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037190-dreamcorpllc_205_air_cid-3NJC8.jpg"
-    },
-    {
         "ott_launch_date": 1542036540,
         "auth_expiration_date": 1582261140,
         "tms_id": "",
@@ -440,6 +392,55 @@
         "launch_date": 1584590400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037588-dreamcorpllc_207_air_cid-3NYH8.jpg",
         "id": "AWLVU03eTdxzjxdCldX1",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1542641400,
+        "auth_expiration_date": 1582865940,
+        "tms_id": "",
+        "description": "Patient 30 visits Dream Corp LLC for treatment of a long list of \"symptoms.\" A chemical spill in the Lab puts the facility on lock down. A new side of Ahmed is revealed while 88 is put in grave danger.",
+        "title_suggest": {
+            "input": [
+                "Staff Infection",
+                "Infection"
+            ]
+        },
+        "expiration_date": 1588219140,
+        "type": "episode",
+        "title": "Staff Infection",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.6,
+        "episode_number": "9",
+        "original_air_date": 1542603600,
+        "auth_launch_date": 1579842000,
+        "clip_order": null,
+        "media_id": "d01f3050a693271ee1c64b08ace75a38f5c8b6e8",
+        "modified": 1585640286,
+        "airing_id": "RADS1003292000078068",
+        "slug": "staff-infection",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341419221-dreamcorpllc_209_air_cid-3NXJP.jpg",
+        "created": 1531767336,
+        "season_number": "2",
+        "title_id": "2133693",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1585640286,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1585800000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341419221-dreamcorpllc_209_air_cid-3NXJP.jpg",
+        "id": "AWSkcq60qBveI_0AhK5D",
         "auth": false
     },
     {
