@@ -524,8 +524,9 @@
         "original_air_date": null,
         "clip_order": null,
         "auth_launch_date": null,
-        "modified": 1541621510,
+        "modified": 1585922401,
         "media_id": "",
+        "airing_id": "",
         "id": "Q5AQFsElTqOEKXxYQanUjA",
         "slug": "tom-needs-a-favor",
         "views": 4,
@@ -538,7 +539,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1541621510,
+        "published": 1585922401,
         "first_published": 1485370275,
         "tags": [
             "tom sarah and usher",
@@ -553,7 +554,8 @@
             "separated"
         ],
         "collection_title": "The Boondocks",
-        "modified_by": "Jared Marquez",
+        "disable_ads": false,
+        "modified_by": "Justin Gardner",
         "launch_date": 1484943675,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240761196049.jpg",
         "cma_id": ""
