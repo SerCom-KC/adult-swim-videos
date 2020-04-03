@@ -292,6 +292,54 @@
     {
         "ott_launch_date": null,
         "auth": true,
+        "auth_expiration_date": 1586491140,
+        "tms_id": "EP012792980131",
+        "description": "When Linda wins a contest to spend a dream weekend at the home where her favorite television show is filmed, things don't go quite as planned. Also, Teddy's back problems leave him stuck on the floor, while he babysits the kids.",
+        "title_suggest": {
+            "input": [
+                "Zero Larp Thirty",
+                "Larp Thirty",
+                "Thirty"
+            ]
+        },
+        "expiration_date": 1559573940,
+        "type": "episode",
+        "title": "Zero Larp Thirty",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1308.1,
+        "episode_number": "13",
+        "original_air_date": 1514772000,
+        "auth_launch_date": 1585886400,
+        "clip_order": null,
+        "media_id": "8d55fe253c59d19038310c031b49e3bdcf6ce0ed",
+        "modified": 1585556166,
+        "airing_id": "RADS1003292000078092",
+        "id": "AWCZsR8XwdpKFAKScFZA",
+        "slug": "zero-larp-thirty",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151440700694020.jpg",
+        "created": 1514407010,
+        "season_number": "7",
+        "title_id": "2132984",
+        "tv_rating": "tv-pg-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1585556166,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1558969200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151440700694020.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth": true,
         "auth_expiration_date": 1585888140,
         "tms_id": "EP012792980116",
         "description": "When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend.",
@@ -576,57 +624,5 @@
         "launch_date": 1554130800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15103318419278.jpg",
         "cma_id": "2132974"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585886340,
-        "tms_id": "EP012792980115",
-        "description": "When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone.",
-        "title_suggest": {
-            "input": [
-                "Large Brother, Where Fart Thou?",
-                "Brother, Where Fart Thou?",
-                "Where Fart Thou?",
-                "Fart Thou?",
-                "Thou?"
-            ]
-        },
-        "expiration_date": 1554130740,
-        "title": "Large Brother, Where Fart Thou?",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1305.7007007,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "3",
-        "original_air_date": 1508720400,
-        "clip_order": null,
-        "auth_launch_date": 1585281600,
-        "modified": 1584891007,
-        "media_id": "c681a0b1721d5a8e765e5d0e42975f1ebc88a61d",
-        "airing_id": "RADS1003222000075964",
-        "id": "JN51ikJcSbymg0xNrYEi_A",
-        "slug": "large-brother-where-fart-thou",
-        "views": 1116,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-150965565175913.jpg",
-        "created": 1504123454,
-        "season_number": "7",
-        "title_id": "2132975",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1584891007,
-        "first_published": 1508537428,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1553526000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg",
-        "cma_id": "2132975"
     }
 ]
