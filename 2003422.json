@@ -386,6 +386,55 @@
     },
     {
         "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1586579340,
+        "tms_id": "EP012792980133",
+        "description": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff. When Bob's outdated camcorder malfunctions, the kids perform a re-imagined version of the pageant for Linda back at home.",
+        "title_suggest": {
+            "input": [
+                "Mom, Lies, and Videotape",
+                "Lies, and Videotape",
+                "and Videotape",
+                "Videotape"
+            ]
+        },
+        "expiration_date": 1559573940,
+        "type": "episode",
+        "title": "Mom, Lies, and Videotape",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1292.73,
+        "episode_number": "16",
+        "original_air_date": 1516586400,
+        "auth_launch_date": 1585974600,
+        "clip_order": null,
+        "media_id": "c4c3c380987abd9c560286b6cdda63f1a596f3d2",
+        "modified": 1585646887,
+        "airing_id": "RADS1003292000078110",
+        "id": "AWDc3_enZ-onAnjDLt6-",
+        "slug": "mom-lies-and-videotape",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151700281557312.jpg",
+        "created": 1515534153,
+        "season_number": "7",
+        "title_id": "2132987",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1585646887,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1558969200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151700281557312.jpg"
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1586064540,
         "tms_id": "",
         "description": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
@@ -577,53 +626,5 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg",
         "id": "AWlyRK-eAScUIg8Xxd78",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585974540,
-        "tms_id": "EP012792980118",
-        "description": "When Tina hurts her ankle, she is left with no choice but to telecommute to school. After enrolling in a program that allows her to send a robot version of herself to class, Tina finds herself having an unexpected breakthrough with Jimmy Jr.",
-        "title_suggest": {
-            "input": [
-                "Ex Machtina",
-                "Machtina"
-            ]
-        },
-        "expiration_date": 1554735540,
-        "title": "Ex Machtina",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1308.4004004,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "4",
-        "original_air_date": 1509325200,
-        "clip_order": null,
-        "auth_launch_date": 1585369800,
-        "modified": 1584940927,
-        "media_id": "dbac9700328ed65b8ecd83c34930cd1abc609247",
-        "airing_id": "RADS1003222000075974",
-        "id": "BG0pb6rnSyu09zSBqyL_MA",
-        "slug": "ex-machtina",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15103318419278.jpg",
-        "created": 1505843811,
-        "season_number": "7",
-        "title_id": "2132974",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1584940927,
-        "first_published": 1508991029,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1554130800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15103318419278.jpg",
-        "cma_id": "2132974"
     }
 ]
