@@ -95,56 +95,6 @@
         "cma_id": "1331342"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1585978140,
-        "tms_id": "EP007164450048",
-        "rating": 7.8894014,
-        "description": "At a poker game with Roger and a couple of work friends, Stan reveals that he has never actually killed anyone. He was taunted so badly by the first enemy spy he was supposed to kill, that he couldn't do it.",
-        "title_suggest": {
-            "input": [
-                "42-Year-Old Virgin",
-                "Virgin"
-            ]
-        },
-        "type": "episode",
-        "title": "42-Year-Old Virgin",
-        "expiration_date": 1501559999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1301.0998,
-        "episode_number": "5",
-        "original_air_date": 1205721000,
-        "auth_launch_date": 1585373400,
-        "clip_order": null,
-        "modified": 1585596970,
-        "media_id": "d941a374b6d04add5ce0b2b6ca97ec3b36b81a8e",
-        "airing_id": "RADS1003222000075972",
-        "id": "91g5sxnxSRepiNijDu2d2A",
-        "slug": "42-year-old-virgin",
-        "views": 323305,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151993489636814.jpg",
-        "created": 1402945460,
-        "title_id": "700738",
-        "season_number": "3",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1585596970,
-        "tags": [],
-        "rating_count": 217,
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1500955200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151993489636814.jpg",
-        "cma_id": "1438298"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": 1582181940,
         "tms_id": "EP007164450254",
@@ -448,6 +398,56 @@
         "launch_date": 1556550000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg",
         "cma_id": "1429390"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586582940,
+        "tms_id": "EP007164450059",
+        "rating": 8.330616,
+        "description": "Steve hits puberty and his newly emboldened personality frightens Stan and Francine. Francine turns to the CIA scientists to help keep Steve a child a little longer, but inadvertently turns Steve back into a 4 year-old. Then, Stan's attempt to re-age Steve goes too far and turns Steve into an 80 year-old. When Steve decides he'd rather stay 80 than go through the tumult of young adult life, Stan and Francine must convince him to leave the retirement home and return to life as a 14 year-old.",
+        "title_suggest": {
+            "input": [
+                "1600 Candles",
+                "Candles"
+            ]
+        },
+        "type": "episode",
+        "title": "1600 Candles",
+        "expiration_date": 1502168399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1305.6377,
+        "episode_number": "16",
+        "original_air_date": 1223260200,
+        "clip_order": null,
+        "auth_launch_date": 1585978200,
+        "modified": 1585646766,
+        "media_id": "606bd4d01abd0d5d1a35795bfc016db81e5e9773",
+        "airing_id": "RADS1003292000078109",
+        "id": "MLw-Wye8RXufTQA2H1XuGw",
+        "slug": "1600-candles",
+        "views": 122480,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199404924954.jpg",
+        "created": 1402945460,
+        "title_id": "711537",
+        "season_number": "3",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1585646766,
+        "tags": [],
+        "rating_count": 245,
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1501563600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199404924954.jpg",
+        "cma_id": "1442522"
     },
     {
         "auth": true,
