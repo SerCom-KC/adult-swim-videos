@@ -350,6 +350,74 @@
         "cma_id": "1362386"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586671140,
+        "tms_id": "EP002960010093",
+        "rating": 8.041345,
+        "description": "Peter takes Stewie out for a day on the golf course with Joe, Cleveland and Quagmire.  Due to his exposure to the sun, Stewie ends up with a deep tan and Peter ends up in deep trouble with Lois.  This new look is just what Stewie wanted as he changes his clothes, music, and friends.  But after Stewie gets a bad burn when he stays in his tanning bed for too long, he faces the possibility that he has skin cancer.",
+        "title_suggest": {
+            "input": [
+                "The Tan Aquatic with Steve Zissou",
+                "Tan Aquatic with Steve Zissou",
+                "Aquatic with Steve Zissou",
+                "with Steve Zissou",
+                "Steve Zissou",
+                "Zissou"
+            ]
+        },
+        "type": "episode",
+        "title": "The Tan Aquatic with Steve Zissou",
+        "expiration_date": 1476773999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1302.9016,
+        "episode_number": "11",
+        "original_air_date": 1173666600,
+        "clip_order": null,
+        "auth_launch_date": 1586066400,
+        "modified": 1586000887,
+        "media_id": "2ad944f336f0df87bcc96199f0000e819acb627e",
+        "airing_id": "RADS1003312000078857",
+        "id": "Mf3Vqav8ScKZrp2atlkWWQ",
+        "slug": "the-tan-aquatic-with-steve-zissou",
+        "views": 1380809,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154325639509418.jpg",
+        "created": 1402945465,
+        "title_id": "652672",
+        "season_number": "5",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1586000887,
+        "tags": [
+            "family guy",
+            "the tan aquatic with steve zissou",
+            "peter",
+            "stewie",
+            "golf",
+            "joe",
+            "cleveland",
+            "quagmire",
+            "exposure",
+            "sun",
+            "tan",
+            "trouble",
+            "lois"
+        ],
+        "rating_count": 4088,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1476169200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325639509418.jpg",
+        "cma_id": "1274105"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1581319740,
@@ -613,59 +681,5 @@
         "launch_date": 1585540800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/bookie-of-the-year/familyguy_1310_air_cid-304HK.jpg",
         "cma_id": "1485399"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1586066340,
-        "tms_id": "EP002960010080",
-        "rating": 7.5562897,
-        "description": "A near-death experience drives Stewie to be nice; Peter's new popularity as a television commentator draws the ire of newsman Tom Tucker.",
-        "title_suggest": {
-            "input": [
-                "Stewie B. Goode",
-                "B. Goode",
-                "Goode"
-            ]
-        },
-        "type": "episode",
-        "title": "Stewie B. Goode",
-        "expiration_date": 1503208799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1303.9693,
-        "episode_number": "28",
-        "original_air_date": 1152500400,
-        "auth_launch_date": 1585461600,
-        "clip_order": null,
-        "modified": 1585034287,
-        "media_id": "e8e09f9efaee237836b2404b321a58000ce30d37",
-        "airing_id": "RADS1003232000075989",
-        "id": "yoreKCJlQvmQ3Xq-MNf-PA",
-        "slug": "stewie-b-goode",
-        "views": 1018692,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15301079924587.jpg",
-        "created": 1402945465,
-        "title_id": "615754",
-        "season_number": "4",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1585034287,
-        "tags": [
-            "Family Guy",
-            " Stewie B Goode"
-        ],
-        "rating_count": 4237,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502604000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301079924587.jpg",
-        "cma_id": "1450447"
     }
 ]
