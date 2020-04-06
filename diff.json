@@ -1,7 +1,6 @@
 {
-    "updated": 1586189541,
-    "added": [],
-    "removed": [
+    "updated": 1586190742,
+    "added": [
         {
             "auth_expiration_date": 1587884340,
             "tms_id": "EP024348490086",
@@ -36,7 +35,7 @@
             "clip_order": null,
             "airing_id": "RADS1003312000078851",
             "media_id": "c6140df87eccf9d0fd95fb4bf821d0d303d628da",
-            "modified": 1586189172,
+            "modified": 1586190486,
             "slug": "prepping-for-the-school-festival-is-the-funnest-part",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411923364-myheroacademia_082.jpg",
@@ -44,7 +43,7 @@
             "season_number": "4",
             "title_id": "2214123",
             "tv_rating": "tv-14",
-            "published": 1586189172,
+            "published": 1586190486,
             "tags": [],
             "collection_title": "My Hero Academia",
             "disable_ads": false,
@@ -57,5 +56,6 @@
             "collection_title_id": "2142267",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
