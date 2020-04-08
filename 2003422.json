@@ -1,55 +1,6 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1586318340,
-        "tms_id": "EP012792980123",
-        "description": "Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob.",
-        "title_suggest": {
-            "input": [
-                "The Grand Mama-Pest Hotel",
-                "Grand Mama-Pest Hotel",
-                "Mama-Pest Hotel",
-                "Hotel"
-            ]
-        },
-        "title": "The Grand Mama-Pest Hotel",
-        "type": "episode",
-        "expiration_date": 1557759540,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1306.47,
-        "episode_number": "9",
-        "original_air_date": 1512352800,
-        "auth_launch_date": 1585713600,
-        "clip_order": null,
-        "media_id": "ead9e6aa8afe4c1b9b2fbfdfb8ef6547b3f0be53",
-        "modified": 1586212209,
-        "airing_id": "RADS1003262000077466",
-        "id": "AWAJmC0kwdpKFAKSbnfG",
-        "slug": "the-grand-mama-pest-hotel",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151361132028519.jpg",
-        "created": 1511989456,
-        "title_id": "2132977",
-        "tv_rating": "tv-pg-l",
-        "season_number": "7",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1586212209,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1557154800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg"
-    },
-    {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1586320140,
         "tms_id": "EP012792980125",
@@ -476,6 +427,55 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432560858977.jpg",
         "id": "AWc2wpztAsbXwNj3wAJf",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586923140,
+        "tms_id": "EP012792980141",
+        "description": "Linda is determined to host a party at the restaurant in order to spread a little cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she begins questioning all the guests.",
+        "title_suggest": {
+            "input": [
+                "The Bleakening Part 1",
+                "Bleakening Part 1",
+                "Part 1",
+                "1"
+            ]
+        },
+        "title": "The Bleakening Part 1",
+        "type": "episode",
+        "expiration_date": 1583125140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.97,
+        "episode_number": "6",
+        "original_air_date": 1544409000,
+        "auth_launch_date": 1586318400,
+        "clip_order": null,
+        "airing_id": "RADS1004032000080014",
+        "media_id": "9fa33279ac79cbb83f2cd4a35ca83a04cc69d149",
+        "modified": 1586212211,
+        "slug": "the-bleakening-part-1",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15444603910052.jpg",
+        "created": 1543859362,
+        "title_id": "2171437",
+        "season_number": "8",
+        "tv_rating": "tv-pg-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1586212211,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1582520400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444603910052.jpg",
+        "id": "AWd1MFj-qD68dq0Op5rc",
+        "auth": true
     },
     {
         "ott_launch_date": null,
