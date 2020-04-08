@@ -145,6 +145,53 @@
         "cma_id": "1442889"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1586928540,
+        "tms_id": "EP007164450067",
+        "description": "Fed up with a lack of alone time, Stan starts taking experimental CIA pills that allow him to remain awake 24/7.",
+        "title_suggest": {
+            "input": [
+                "Stan Time",
+                "Time"
+            ]
+        },
+        "title": "Stan Time",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1306.2049,
+        "episode_number": "2",
+        "original_air_date": 1235275200,
+        "auth_launch_date": 1586323800,
+        "clip_order": null,
+        "modified": 1585958054,
+        "media_id": "0a7b72f5649cc01beeae0256aba4f891e4f4ac4a",
+        "airing_id": "RADS1004032000080013",
+        "id": "9G2IuXJMTyCbRMHmk_Yrog",
+        "slug": "stan-time",
+        "views": 1453,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152000750865718.jpg",
+        "created": 1476681024,
+        "title_id": "751046",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1585958054,
+        "first_published": 1476681024,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000750865718.jpg",
+        "cma_id": "1445239"
+    },
+    {
         "ott_launch_date": null,
         "auth": false,
         "auth_expiration_date": 1582352940,
@@ -429,54 +476,6 @@
         "launch_date": 1557154800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002062164210.jpg",
         "cma_id": "1433837"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1586323740,
-        "tms_id": "EP007164450053",
-        "description": "When Stan's mom, Betty, gets dumped by a boyfriend for the umpteenth time, she comes running to Stan for support.",
-        "title_suggest": {
-            "input": [
-                "Oedipal Panties",
-                "Panties"
-            ]
-        },
-        "title": "Oedipal Panties",
-        "type": "episode",
-        "expiration_date": 1501736399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1307.1058,
-        "episode_number": "10",
-        "original_air_date": 1202094000,
-        "auth_launch_date": 1585719000,
-        "clip_order": null,
-        "modified": 1585596971,
-        "media_id": "5732754aef0ccc12d8b00e0330f412dfb299598e",
-        "airing_id": "RADS1003262000077479",
-        "id": "Jlj7HHJrTsWD7m-PvyeuZA",
-        "slug": "oedipal-panties",
-        "views": 2195,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151994036853511.jpg",
-        "created": 1442416823,
-        "title_id": "700745",
-        "tv_rating": "tv-14",
-        "season_number": "3",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1585596971,
-        "first_published": 1442416823,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1501131600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994036853511.jpg",
-        "cma_id": "1439769"
     },
     {
         "auth": true,

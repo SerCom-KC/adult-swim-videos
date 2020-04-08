@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 8, 2020 at 01:00:32 EDT_
+_Last Update: April 8, 2020 at 01:30:32 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2171438
-**Bob's Burgers S08E07 - The Bleakening Part 2**  
-TV-PG-DL 🔒 21:37  
-⌛ April 15, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-bleakening-part-2  
-seriesid=`2003422` titleid=`2171438` id=`AWd63rgSqD68dq0Op5t4` mediaid=`0784465192256af12e5850f1469d9f5d5a24183a`  
-_After Linda's prized ornaments go missing during a holiday party at the restaurant, Linda suspects one of the attendees as the thief. However, the kids have their own theory: attributing the robbery to the anti-Santa - "The Bleaken."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 751046
+**American Dad S04E02 - Stan Time**  
+TV-14 🔒 21:46  
+⌛ April 15, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/stan-time  
+seriesid=`581006` titleid=`751046` id=`9G2IuXJMTyCbRMHmk_Yrog` mediaid=`0a7b72f5649cc01beeae0256aba4f891e4f4ac4a`  
+_Fed up with a lack of alone time, Stan starts taking experimental CIA pills that allow him to remain awake 24/7._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000750865718.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000750865718.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2132979
-**Bob's Burgers S07E10 - Aquaticism**  
-TV-PG-L 🔓 21:43  
-⌛ April 8, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/aquaticism  
-seriesid=`2003422` titleid=`2132979` id=`AWATwpnwZ-onAnjDLtUU` mediaid=`33623b218d1d94f92c3923ba791e665628d3526b`  
-_When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 700745
+**American Dad S03E10 - Oedipal Panties**  
+TV-14 🔒 21:47  
+⌛ April 8, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/oedipal-panties  
+seriesid=`581006` titleid=`700745` id=`Jlj7HHJrTsWD7m-PvyeuZA` mediaid=`5732754aef0ccc12d8b00e0330f412dfb299598e`  
+_When Stan's mom, Betty, gets dumped by a boyfriend for the umpteenth time, she comes running to Stan for support._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994036853511.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994036853511.jpg" height="144px" /></a>
