@@ -950,5 +950,60 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154758686302911.jpg",
         "id": "AWhTXQzcAScUIg8XxcCO",
         "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "You're (not) paranoid.  Season two premieres May 10th at Midnight ET.",
+        "title_suggest": {
+            "input": [
+                "Season Two Sneak Peek",
+                "Two Sneak Peek",
+                "Sneak Peek",
+                "Peek"
+            ]
+        },
+        "title": "Season Two Sneak Peek",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
+        "duration": 27.38,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1586363536,
+        "slug": "season-two-sneak-peek",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_20481222505-TheShiveringTruth_ep203_ParanoiaConspiracy_Sneak.jpg",
+        "created": 1586363001,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1586363536,
+        "tags": [
+            "the shivering truth",
+            "season two",
+            "vernon chatman",
+            "trailer",
+            "cat olsen",
+            "adult swim",
+            "promo"
+        ],
+        "collection_title": "The Shivering Truth",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": 1586318400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481222505-TheShiveringTruth_ep203_ParanoiaConspiracy_Sneak.jpg",
+        "id": "AXFammlLC8QgH-t19IEO",
+        "auth": false
     }
 ]
