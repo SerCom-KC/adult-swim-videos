@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 8, 2020 at 03:30:40 EDT_
+_Last Update: April 8, 2020 at 12:30:37 EDT_
 ## Video added
-### Summary
-440990 Family Guy: 1  
-### 652686
-**Family Guy S06E01 - Blue Harvest Part 1 & 2**  
-TV-14 🔒 42:58  
-⌛ April 15, 2020 at 02:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/blue-harvest-part-1-2  
-seriesid=`440990` titleid=`652686` id=`l-66ZycyTYqBKw95GhB5gA` mediaid=`b91a066971fe3eeaa3b1af69597ec6786580619d`  
-_After a power outage in Quahog, Peter Griffin tells his family the greatest story every told, "Star Wars IV: A New Hope".  "Family Guy" parodies the tale of Luke Skywalker (Chris Griffin) on his path to aid the rebellion. Along with his companions, R2D2 (Cleveland), C-3PO (Quagmire), Han Solo (Peter), Chewbacca (Brian), and Obi-Wan Kenobi (Herbert), Luke infiltrates the Death Star to rescue Princess Leia (Lois) from the clutches of Darth Vader (Stewie).  After a daring escape, the rebellion attacks and eventually destroys the Death Star._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180327354484.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180327354484.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2161118 Joe Pera Talks With You: 1  
+### 2214307
+**Joe Pera Talks With You S02E02 - Joe Pera Takes You on a Hike**  
+TV-14-DL 🔓 11:16  
+⌛ June 3, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-takes-you-on-a-hike  
+seriesid=`2161118` titleid=`2214307` id=`AW5GpK3QadNs2hMNfub6` mediaid=`c3e9f70e9a8304bf0ccce4f3cc0feea74979f5a5`  
+_A teacher in Michigan's Upper Peninsula explores subject matters such as pancakes, blueberries, eggs, toast, sausage, bacon, English muffins, coffee, orange juice, maple syrup, waffles, cornbread, and strawberries._  
+<a href="https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171113412-joeperatalks_202_dup-20191021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171113412-joeperatalks_202_dup-20191021.jpg" height="144px" /></a>
