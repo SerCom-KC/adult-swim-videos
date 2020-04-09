@@ -1,54 +1,6 @@
 [
     {
         "auth": false,
-        "ott_launch_date": 1447438680,
-        "tms_id": "EP004625760017",
-        "rating": 8.388164,
-        "description": "Adorable-ness ensues when Murphy buys a cute little Gloop from a sexy Asian lady. But what the...? Those things are multiplying like crazy! And they've got a hankering for the kelp harvest! And they're filled with poison gas! And we better get some flamethrowers down here to show those damn Gloops who's boss!",
-        "title_suggest": {
-            "input": [
-                "Hail, Squishface",
-                "Squishface"
-            ]
-        },
-        "type": "episode",
-        "title": "Hail, Squishface",
-        "expiration_date": 1586404740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.93,
-        "episode_number": "5",
-        "original_air_date": 1036987200,
-        "clip_order": null,
-        "modified": 1584396386,
-        "airing_id": "RADS1002282000067853",
-        "media_id": "5440f0fe4e77986952b0281e3ba0b740f5229b3f",
-        "id": "7KQ-BsDsRPulVKI2W6y0_g",
-        "slug": "hail-squishface",
-        "views": 223088,
-        "created": 1402945476,
-        "title_id": "434938",
-        "season_number": "2",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1584396386,
-        "tags": [
-            "sealab 2021 hail squishface episode 18"
-        ],
-        "rating_count": 1082,
-        "collection_title": "Sealab 2021",
-        "modified_by": "ODT Listener",
-        "launch_date": 1583384400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/hail-squishface/sealab_018_revised.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1447438740,
         "tms_id": "EP004625760018",
         "rating": 8.533943,
@@ -93,6 +45,53 @@
         "launch_date": 1583985600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/bizarro/sealab_cc_019_revised2-01.jpg",
         "cma_id": "1468142"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447438800,
+        "tms_id": "EP004625760022",
+        "rating": 8.204413,
+        "description": "Tempers flare--and deeply-rooted religious beliefs are mocked--as Murphy readies Sealab for the biggest Feast of Alvis this side of the Marianas Trench.  It'll take a miracle to bring the crew together for... wait!  What's that strangely brilliant light?  Could it be...?\r\n",
+        "title_suggest": {
+            "input": [
+                "Feast of Alvis",
+                "of Alvis",
+                "Alvis"
+            ]
+        },
+        "type": "episode",
+        "title": "Feast of Alvis",
+        "expiration_date": 1589428740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 674.84,
+        "episode_number": "8",
+        "original_air_date": 1041220800,
+        "clip_order": null,
+        "modified": 1585983967,
+        "airing_id": "RADS1004032000080034",
+        "media_id": "8166dd97aaf8ddda70f08062542022d3ef621335",
+        "id": "GQsFuxHxR2KKXE6x1vxJKQ",
+        "slug": "feast-of-alvis",
+        "views": 234859,
+        "created": 1402945476,
+        "title_id": "437998",
+        "tv_rating": "tv-14-l",
+        "season_number": "2",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1585983967,
+        "tags": [],
+        "rating_count": 998,
+        "collection_title": "Sealab 2021",
+        "modified_by": "ODT Listener",
+        "launch_date": 1586404800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/feast-of-alvis/sealab_cc_021_bim_revised2-01.jpg",
+        "cma_id": ""
     },
     {
         "auth": false,
