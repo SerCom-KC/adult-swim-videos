@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 10, 2020 at 01:00:27 EDT_
+_Last Update: April 10, 2020 at 02:00:30 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2171451
-**Bob's Burgers S08E11 - Sleeping with the Frenemy**  
-TV-PG-L 🔒 21:42  
-⌛ April 17, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/sleeping-with-the-frenemy  
-seriesid=`2003422` titleid=`2171451` id=`AWdWDWoGqD68dq0Op5ju` mediaid=`1008630bc02857a6e5214c023a4e5eb8051ddd31`  
-_Tina allows Tammy to spend Spring Break with the Belchers - and even plays Cupid, setting up Tammy with a boy from out of town. Meanwhile, Gene and Bob enlist the help of Dr. Yap in finding a baby tooth to complete Linda's collection._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 748109
+**American Dad S04E06 - Jack's Back**  
+TV-14 🔒 21:45  
+⌛ April 17, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/jacks-back  
+seriesid=`581006` titleid=`748109` id=`899mNyltRsyojBL4t4E2Jg` mediaid=`f32e7fbea1135f33bd089bb658c4b74bbdeec1da`  
+_When Stan's con-man dad Jack resurfaces in prison awaiting trial for a crime he did not commit, Steve gets Stan to let Jack stay with them under house arrest._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15422218610141.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15422218610141.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2132985
-**Bob's Burgers S07E14 - The Laser-Inth**  
-TV-PG-L 🔒 21:42  
-⌛ April 10, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-laser-inth  
-seriesid=`2003422` titleid=`2132985` id=`AWCqZpWiZ-onAnjDLtw7` mediaid=`3d2c0cb05daddbc68467f3a429540082afca43fd`  
-_Gene accompanies Bob on the last-ever rock and roll laser show at the planetarium, while Linda and the girls go out for dinner at a wacky restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779340694.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779340694.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 700750
+**American Dad S03E14 - Stanny Slickers 2: the Legend of Ollie's Gold**  
+TV-14-DL 🔒 21:16  
+⌛ April 10, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/stanny-slickers-2-the-legend-of-ollies-gold  
+seriesid=`581006` titleid=`700750` id=`u82p9Gl9RjOlDFG2Coyq3g` mediaid=`d304c6623158d785a632766d2692c86b0e0c854d`  
+_After a car crash nearly ends his life, Stan realizes that he has no legacy to leave to the world. Desperate, Stan revives his search for Oliver North's gold - gold Stan believes is buried under his own home._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994044640016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994044640016.jpg" height="144px" /></a>
