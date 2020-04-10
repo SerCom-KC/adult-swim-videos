@@ -813,7 +813,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1592539140,
         "tms_id": "",
         "description": "Desperate to stop the approaching monstrosity, the Scouts resort to unconventional tactics before it destroys everything in its path.",
@@ -909,7 +909,7 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251636508-attackontitan_047_air_cid-3NH50.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1586491140,
         "tms_id": "EP019059960075",
@@ -1495,7 +1495,7 @@
         "auth": true
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1586491140,
         "tms_id": "EP019059960031",
@@ -1928,7 +1928,7 @@
         "cma_id": "1389519"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1592539140,
         "tms_id": "EP019059960053",
@@ -2424,7 +2424,7 @@
         "cma_id": "1440189"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1586491140,
         "tms_id": "EP019059960055",
@@ -2749,7 +2749,7 @@
         "cma_id": "1398117"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1598587140,
         "tms_id": "EP019059960021",
