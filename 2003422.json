@@ -1,52 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1586492940,
-        "tms_id": "EP012792980132",
-        "description": "Gene accompanies Bob on the last-ever rock and roll laser show at the planetarium, while Linda and the girls go out for dinner at a wacky restaurant.",
-        "title_suggest": {
-            "input": [
-                "The Laser-Inth",
-                "Laser-Inth"
-            ]
-        },
-        "title": "The Laser-Inth",
-        "type": "episode",
-        "expiration_date": 1559573940,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1302.83,
-        "episode_number": "14",
-        "original_air_date": 1515376800,
-        "auth_launch_date": 1585888200,
-        "clip_order": null,
-        "media_id": "3d2c0cb05daddbc68467f3a429540082afca43fd",
-        "modified": 1586212210,
-        "airing_id": "RADS1003292000078094",
-        "id": "AWCqZpWiZ-onAnjDLtw7",
-        "slug": "the-laser-inth",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15163779340694.jpg",
-        "created": 1514687337,
-        "title_id": "2132985",
-        "tv_rating": "tv-pg-l",
-        "season_number": "7",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1586212210,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1558969200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779340694.jpg"
-    },
-    {
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1586579340,
@@ -434,6 +387,55 @@
         "launch_date": 1582520400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg",
         "id": "AWd63rgSqD68dq0Op5t4",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1587097740,
+        "tms_id": "",
+        "description": "Tina allows Tammy to spend Spring Break with the Belchers - and even plays Cupid, setting up Tammy with a boy from out of town. Meanwhile, Gene and Bob enlist the help of Dr. Yap in finding a baby tooth to complete Linda's collection.",
+        "title_suggest": {
+            "input": [
+                "Sleeping with the Frenemy",
+                "with the Frenemy",
+                "the Frenemy",
+                "Frenemy"
+            ]
+        },
+        "title": "Sleeping with the Frenemy",
+        "expiration_date": 1584935940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1302.87,
+        "episode_number": "11",
+        "original_air_date": 1546828200,
+        "auth_launch_date": 1586493000,
+        "clip_order": null,
+        "media_id": "1008630bc02857a6e5214c023a4e5eb8051ddd31",
+        "modified": 1586212211,
+        "airing_id": "RADS1004062000080314",
+        "slug": "sleeping-with-the-frenemy",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15466229329904.jpg",
+        "created": 1543336978,
+        "season_number": "8",
+        "title_id": "2171451",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1586212211,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1584331200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg",
+        "id": "AWdWDWoGqD68dq0Op5ju",
         "auth": true
     },
     {
