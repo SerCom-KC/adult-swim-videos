@@ -100,56 +100,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341029312-dreamcorpllc_202_air_cid-3N6DX.jpg"
     },
     {
-        "ott_launch_date": 1540218540,
-        "auth": true,
-        "auth_expiration_date": 1586491140,
-        "tms_id": "",
-        "description": "Patient 21 is afraid to fall asleep. After a parasomnia episode injures the new intern Bea, Dr Roberts drops in to the patient's dream to guide him through the wake of his fears.",
-        "title_suggest": {
-            "input": [
-                "Deep Impact",
-                "Impact"
-            ]
-        },
-        "expiration_date": 1583384340,
-        "type": "episode",
-        "title": "Deep Impact",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 677.17,
-        "episode_number": "1",
-        "original_air_date": 1540180800,
-        "auth_launch_date": 1583470800,
-        "clip_order": null,
-        "modified": 1583335759,
-        "media_id": "4dbc0b1b1041bd42ba45c6f2feb4e5c76db7bcae",
-        "airing_id": "RADS1001312000060004",
-        "id": "AV9fX_EUZ-onAnjDLsyi",
-        "slug": "deep-impact",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341029113-dreamcorpllc_201_air_cid-3MRXM.jpg",
-        "created": 1509133644,
-        "season_number": "2",
-        "title_id": "2133685",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1583335759,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1580965200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341029113-dreamcorpllc_201_air_cid-3MRXM.jpg",
-        "cma_id": ""
-    },
-    {
         "ott_launch_date": 1540823340,
         "auth": true,
         "auth_expiration_date": 1587700740,
@@ -342,6 +292,55 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341038247-dreamcorpllc_208_air_cid-3NYJ6.jpg",
         "id": "AWLVTT7STdxzjxdCldXa",
         "auth": false
+    },
+    {
+        "ott_launch_date": 1541431740,
+        "auth": true,
+        "auth_expiration_date": 1589515140,
+        "tms_id": "",
+        "description": "Roberts' old roommate, Bill Ruff, pays a visit to Dream Corp LLC under the guise of selling bad office artwork. Everyone in the staff is charmed except for 88 who makes it his mission to expose Bill's real intentions.",
+        "title_suggest": {
+            "input": [
+                "Wild Bill",
+                "Bill"
+            ]
+        },
+        "expiration_date": 1586404740,
+        "type": "episode",
+        "title": "Wild Bill",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 722.8,
+        "episode_number": "6",
+        "original_air_date": 1541394900,
+        "auth_launch_date": 1586491200,
+        "clip_order": null,
+        "media_id": "fce5d29975e084228ae88991d9e54a831495035e",
+        "modified": 1586189526,
+        "airing_id": "RADS1003062000070147",
+        "id": "AWLVTk9gTdxzjxdCldXh",
+        "slug": "wild-bill",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg",
+        "created": 1523997101,
+        "season_number": "2",
+        "title_id": "2133690",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1586189526,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1583985600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg"
     },
     {
         "ott_launch_date": 1542036540,
