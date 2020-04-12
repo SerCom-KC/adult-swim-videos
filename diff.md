@@ -2,26 +2,36 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 12, 2020 at 02:30:37 EDT_
+_Last Update: April 12, 2020 at 03:00:34 EDT_
 ## Video added
 ### Summary
 440990 Family Guy: 1  
-### 666744
-**Family Guy S06E04 - Stewie Kills Lois**  
-TV-14-DLSV 🔒 21:52  
-⌛ April 19, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/stewie-kills-lois  
-seriesid=`440990` titleid=`666744` id=`_rkYJo51Q0O9Jhfsfeqp2g` mediaid=`eb668ed2edfc22150b160f2351e434da66676915`  
-_Brian surprises Lois for her birthday with two tickets for a cruise.  After Peter and Lois embark without their baby Stewie, he takes revenge by pulling off his life-long dream of killing his mother._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793535537517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793535537517.jpg" height="144px" /></a>
+### 652690
+**Family Guy S06E05 - Lois Kills Stewie**  
+TV-14-DLSV 🔒 21:40  
+⌛ April 19, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/lois-kills-stewie  
+seriesid=`440990` titleid=`652690` id=`THavBGoDSkCYkzs2kz9TtA` mediaid=`3dff7e45a0dee0ebf88a69dc1a1bd6eeb1587477`  
+_After Stewie shot his mother in cold blood on the deck of the cruise ship, Lois returned to Quahog, entering the courtroom just before Peter was sentenced to life in prison.  
+Stewie escapes the courtroom and along with his hostage Brian, he moves forward with his diabolical plans to take over the world.  The only person in the world who can stop him is his mother, Lois._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090030440813.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090030440813.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
+2194658 The Promised Neverland: 1  
 440990 Family Guy: 1  
-### 652672
-**Family Guy S05E11 - The Tan Aquatic with Steve Zissou**  
-TV-14-DLSV 🔒 21:42  
-⌛ April 12, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/the-tan-aquatic-with-steve-zissou  
-seriesid=`440990` titleid=`652672` id=`Mf3Vqav8ScKZrp2atlkWWQ` mediaid=`2ad944f336f0df87bcc96199f0000e819acb627e`  
-_Peter takes Stewie out for a day on the golf course with Joe, Cleveland and Quagmire.  Due to his exposure to the sun, Stewie ends up with a deep tan and Peter ends up in deep trouble with Lois.  This new look is just what Stewie wanted as he changes his clothes, music, and friends.  But after Stewie gets a bad burn when he stays in his tanning bed for too long, he faces the possibility that he has skin cancer._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325639509418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325639509418.jpg" height="144px" /></a>
+### 2194665
+**The Promised Neverland S01E07 - 011145**  
+TV-14 🔒 21:32  
+⌛ April 12, 2020 at 02:59:00 EDT  
+https://www.adultswim.com/videos/the-promised-neverland/011145  
+seriesid=`2194658` titleid=`2194665` id=`AWrqYKjSCorLtcgflqrC` mediaid=`ebf4b9f1ca0a368a01dad31fb3c651d64255ffb2`  
+_The children gain a powerful ally, but they need to be careful with this person. Who knows what this person could be plotting behind the children's backs?_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155905516715616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155905516715616.jpg" height="144px" /></a>
+### 652675
+**Family Guy S05E12 - Airport '07**  
+TV-14-DLV 🔒 21:12  
+⌛ April 12, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/airport-07  
+seriesid=`440990` titleid=`652675` id=`S1bXLgp6QJyHIUvM2U2zng` mediaid=`e49196d6c24b7265438aa524ea4e0e1a8c7f43c4`  
+_When Quagmire loses his job as an airline pilot because of Peter's shenanigans, the Griffins have Glenn live in their home.  Lois soon becomes upset with Quagmire's extended stay so Peter and the guys concoct a plan to get their buddy his job back._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432564176941.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432564176941.jpg" height="144px" /></a>
