@@ -3248,7 +3248,7 @@
         "cma_id": "1051215"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370076",
@@ -3855,6 +3855,64 @@
         "launch_date": 1424593800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684027363420.jpg",
         "cma_id": "1055926"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370081",
+        "description": "Vegeta's unrivaled arrogance and Krillin's unusual affection for Androids help Cell move one step closer to his perfect form. Meanwhile, Gohan struggles to achieve Super Saiyan status!",
+        "title_suggest": {
+            "input": [
+                "The Battle Turns for the Worst! Cell Attacks Android 18!",
+                "Battle Turns for the Worst! Cell Attacks Android 18!",
+                "Turns for the Worst! Cell Attacks Android 18!",
+                "for the Worst! Cell Attacks Android 18!",
+                "the Worst! Cell Attacks Android 18!",
+                "Worst! Cell Attacks Android 18!",
+                "Cell Attacks Android 18!",
+                "Attacks Android 18!",
+                "Android 18!",
+                "18!"
+            ]
+        },
+        "title": "The Battle Turns for the Worst! Cell Attacks Android 18!",
+        "type": "episode",
+        "expiration_date": 1589774399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1318,
+        "episode_number": "79",
+        "original_air_date": 1469331000,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1586375886,
+        "media_id": "47af952f0cb53d7e7ed1734f0e40d611f8a3cde0",
+        "airing_id": "RADS1004082000081841",
+        "id": "ujRAXL69RHiArJMPy1IaAQ",
+        "slug": "the-battle-turns-for-the-worst-cell-attacks-android-18",
+        "views": 2706,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_19121016916-dragonballzkai_079_air_cid-2W69V.jpg",
+        "created": 1468995020,
+        "title_id": "2031690",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1586375886,
+        "first_published": 1468995020,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1586750400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg",
+        "cma_id": "1257584"
     },
     {
         "auth": true,
