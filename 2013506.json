@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505140260,
         "auth_expiration_date": 1587009540,
         "tms_id": "EP018336730029",
@@ -12,7 +12,7 @@
                 "Mixup"
             ]
         },
-        "expiration_date": 1587009540,
+        "expiration_date": null,
         "title": "The Ricklantis Mixup",
         "type": "episode",
         "platforms": [
@@ -26,7 +26,7 @@
         "original_air_date": 1505100600,
         "clip_order": null,
         "auth_launch_date": 1586404800,
-        "modified": 1586208006,
+        "modified": 1586791324,
         "media_id": "42175deabefdce25823a3b49ca69dd321c30c62b",
         "airing_id": "RADS1004032000080030",
         "id": "-TuNRn5JSYm4T361r_KzAg",
@@ -41,13 +41,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1586208006,
+        "published": 1586791324,
         "first_published": 1504879819,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1586404800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324948105-rickandmorty_307_dup-20170906.jpg",
         "cma_id": "1474030"
     },
@@ -5456,7 +5456,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506954660,
         "auth_expiration_date": 1587009540,
         "tms_id": "EP018336730032",
@@ -5470,7 +5470,7 @@
         },
         "title": "The Rickchurian Mortydate",
         "type": "episode",
-        "expiration_date": 1587009540,
+        "expiration_date": null,
         "platforms": [
             "web",
             "mobile",
@@ -5482,7 +5482,7 @@
         "original_air_date": 1506915000,
         "clip_order": null,
         "auth_launch_date": 1586404800,
-        "modified": 1586209445,
+        "modified": 1586791384,
         "media_id": "00769e8872a88cfb772f34e4eaa556422835de89",
         "airing_id": "RADS1004032000080026",
         "id": "ULSn-UIRQ7yqEUzhXUe7Fg",
@@ -5497,13 +5497,13 @@
         "ott_expiration_date": null,
         "active": false,
         "blacklist": [],
-        "published": 1586209445,
+        "published": 1586791384,
         "first_published": 1506759044,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1586404800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324949285-rickandmorty_310_dup-20170928.jpg",
         "cma_id": "1487468"
     },
@@ -6600,7 +6600,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1503930660,
         "auth_expiration_date": 1587009540,
         "tms_id": "EP018336730027",
@@ -6614,7 +6614,7 @@
         },
         "title": "Rest and Ricklaxation",
         "type": "episode",
-        "expiration_date": 1587009540,
+        "expiration_date": null,
         "platforms": [
             "web",
             "mobile",
@@ -6626,7 +6626,7 @@
         "original_air_date": 1503891000,
         "clip_order": null,
         "auth_launch_date": 1586404800,
-        "modified": 1586245566,
+        "modified": 1586791311,
         "media_id": "d5fd883474a2ca704527e7ecee582c57550aca1a",
         "airing_id": "RADS1004032000080033",
         "id": "l0mb1VFWQZyKBTFeHSWp0A",
@@ -6641,13 +6641,13 @@
         "ott_expiration_date": null,
         "active": false,
         "blacklist": [],
-        "published": 1586245566,
+        "published": 1586791311,
         "first_published": 1503793383,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1586404800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324947464-rickandmorty_306_dup-20170823.jpg",
         "cma_id": "1462604"
     },
@@ -7071,7 +7071,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505745060,
         "auth_expiration_date": 1587009540,
         "tms_id": "EP018336730030",
@@ -7083,7 +7083,7 @@
                 "Blowers"
             ]
         },
-        "expiration_date": 1587009540,
+        "expiration_date": null,
         "title": "Morty's Mind Blowers",
         "type": "episode",
         "platforms": [
@@ -7097,7 +7097,7 @@
         "original_air_date": 1505705400,
         "clip_order": null,
         "auth_launch_date": 1586404800,
-        "modified": 1586252529,
+        "modified": 1586791343,
         "media_id": "90b950976db46c86a99c6d811cca01ad8d3c142c",
         "airing_id": "RADS1004032000080025",
         "id": "sUCOK3V2SNq46JBhJyzBcQ",
@@ -7112,13 +7112,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1586252529,
+        "published": 1586791343,
         "first_published": 1505571018,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1586404800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324948359-rickandmorty_309_dup-20171002.jpg",
         "cma_id": "1478852"
     },
@@ -7624,7 +7624,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506349860,
         "auth_expiration_date": 1587009540,
         "tms_id": "EP018336730031",
@@ -7637,7 +7637,7 @@
                 "Beth"
             ]
         },
-        "expiration_date": 1587009540,
+        "expiration_date": null,
         "title": "The ABC's of Beth",
         "type": "episode",
         "platforms": [
@@ -7651,7 +7651,7 @@
         "original_air_date": 1506310200,
         "clip_order": null,
         "auth_launch_date": 1586404800,
-        "modified": 1586207408,
+        "modified": 1586791365,
         "media_id": "bcafa5cf59ce943967ad5d2cbcc7247f29f17192",
         "airing_id": "RADS1004032000080028",
         "id": "zNy3b46_RBiptb1bQUAJUQ",
@@ -7666,13 +7666,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1586207408,
+        "published": 1586791365,
         "first_published": 1506327021,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1586404800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494953-rickandmorty_308_dup-20170929.jpg",
         "cma_id": "1483488"
     },
