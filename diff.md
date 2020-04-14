@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 14, 2020 at 03:00:33 EDT_
+_Last Update: April 14, 2020 at 09:00:40 EDT_
 ## Video added
-### Summary
-440990 Family Guy: 1  
-### 663588
-**Family Guy S06E06 - Padre de Familia**  
-TV-14-DLSV 🔒 21:48  
-⌛ April 21, 2020 at 02:29:00 EDT  
-https://www.adultswim.com/videos/family-guy/padre-de-familia  
-seriesid=`440990` titleid=`663588` id=`giCom3yGQOaCez2NgModEw` mediaid=`4dfc4fcc63329156fd30cfec7d47f8baa3580466`  
-_Peter finds out that his mother gave birth to him in Mexico years ago and because she never got him a U.S. birth certificate, it turns out that he is an illegal immigrant.  Peter is let go from his job at the brewery and because of his lack of citizenship, cannot find any work. Lois's father Carter steps in and helps the family, giving Peter a job working on his property.  Peter learns the difficulties of being an illegal immigrant living in the United States._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2011378066804950814.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2011378066804950814.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2003422 Bob's Burgers: 1  
+### 2171432
+**Bob's Burgers S08E01 - Brunchsquatch**  
+TV-PG-LV 🔓 21:21  
+⌛ April 14, 2020 at 08:29:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/brunchsquatch  
+seriesid=`2003422` titleid=`2171432` id=`AWY1PDReh5enQuYyI6rv` mediaid=`f7b65ee9285010f25d670eee5521b121b0fc1d59`  
+_Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325465279617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325465279617.jpg" height="144px" /></a>
