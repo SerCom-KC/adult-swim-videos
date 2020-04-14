@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 14, 2020 at 02:00:35 EDT_
+_Last Update: April 14, 2020 at 02:30:32 EDT_
 ## Video added
 ### Summary
 2003422 Bob's Burgers: 1  
-### 2171454
-**Bob's Burgers S08E14 - The Trouble with Doubles**  
-TV-14-LV 🔒 21:32  
-⌛ April 21, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-trouble-with-doubles  
-seriesid=`2003422` titleid=`2171454` id=`AWlyQ4jeHl5gR6828yz8` mediaid=`20482d36e5c5a76dd4b07eff922456c22b1d7d53`  
-_Bob and Linda's double date plans take a disastrous turn when the couples find themselves trapped inside an Escape Room. Meanwhile, Louise hosts a zombie-movie night, but when the zombies turn out to be too scary, Tina must take charge._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg" height="144px" /></a>
+### 2171455
+**Bob's Burgers S08E15 - Go Tina on the Mountain**  
+TV-PG-L 🔒 21:41  
+⌛ April 21, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/go-tina-on-the-mountain  
+seriesid=`2003422` titleid=`2171455` id=`AWgad-OgzQU7gEG1jvbP` mediaid=`8a20666d1f8598cd129fa16e06bfb0f56b6d4342`  
+_The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
