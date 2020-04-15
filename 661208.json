@@ -1,54 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": 1447784580,
-        "auth_expiration_date": 1586923140,
-        "tms_id": "EP008994530032",
-        "rating": 8.457861,
-        "description": "When Eric's 3-T Scroat starts acting up, Tim is forced to investigate. Whoopsie Daisy!\r\n(Frank Stallone)",
-        "title_suggest": {
-            "input": [
-                "Balls"
-            ]
-        },
-        "type": "episode",
-        "title": "Balls",
-        "expiration_date": 1566446340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 694.006,
-        "episode_number": "3",
-        "original_air_date": 1234762200,
-        "clip_order": null,
-        "auth_launch_date": 1583899200,
-        "modified": 1583531046,
-        "media_id": "80aaf39e3e0a7522e25deb0aa6cc38eca37fa95a",
-        "airing_id": "RADS1003062000070134",
-        "id": "3sQtpcTmTaSR9lQR5JU0IQ",
-        "slug": "balls",
-        "views": 414918,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "751392",
-        "season_number": "4",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583531046,
-        "tags": [],
-        "rating_count": 1887,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1563422400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_403_pt1-03.jpg",
-        "cma_id": "1376810"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1447784640,
         "auth_expiration_date": 1588132740,
@@ -450,6 +401,53 @@
         "launch_date": 1564027200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_404_pt1-03.jpg",
         "cma_id": "1380845"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447784760,
+        "auth_expiration_date": 1589947140,
+        "tms_id": "EP008994530037",
+        "rating": 8.59844,
+        "description": "Michael Ian Black hosts another crazy edition of Focus on Comedy. Dr. Steve Brule teaches children the anatomy of the human body.\r\n(Michael Ian Black, John C Reilly)",
+        "title_suggest": {
+            "input": [
+                "Presidents"
+            ]
+        },
+        "type": "episode",
+        "title": "Presidents",
+        "expiration_date": 1569470340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 697.83,
+        "episode_number": "10",
+        "original_air_date": 1237782600,
+        "clip_order": null,
+        "auth_launch_date": 1586923200,
+        "modified": 1586502012,
+        "media_id": "945e0a0d21b2bf7134f1d2d3f23de2e298bea420",
+        "airing_id": "RADS1004092000082059",
+        "id": "f62AloY2T5G4XKKqIDi_LQ",
+        "slug": "presidents",
+        "views": 457431,
+        "created": 1402945481,
+        "title_id": "751412",
+        "season_number": "4",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1586502012,
+        "tags": [],
+        "rating_count": 2296,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1566446400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_410_pt1-04.jpg",
+        "cma_id": "1406586"
     },
     {
         "auth": false,
