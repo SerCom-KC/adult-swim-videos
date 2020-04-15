@@ -1,53 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1586930340,
-        "tms_id": "EP007164450068",
-        "description": "Roger is on the outs with Stan and the family when they discover he has been seeing other families behind their back. Before they can truly forgive him, Roger must overcome his family infidelity.",
-        "title_suggest": {
-            "input": [
-                "Family Affair",
-                "Affair"
-            ]
-        },
-        "title": "Family Affair",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1305.8045,
-        "episode_number": "3",
-        "original_air_date": 1235880000,
-        "auth_launch_date": 1586325600,
-        "clip_order": null,
-        "modified": 1585958167,
-        "media_id": "8e82632524e216e8487d8b012df4306c9334ffe6",
-        "airing_id": "RADS1004032000080012",
-        "id": "-qa6cPDAQsmH1aQ0FaV2TA",
-        "slug": "family-affair",
-        "views": 1584,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152000747466119.jpg",
-        "created": 1476886221,
-        "title_id": "751047",
-        "tv_rating": "tv-14",
-        "season_number": "4",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1585958167,
-        "first_published": 1476886221,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000747466119.jpg",
-        "cma_id": "1446682"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1587187740,
         "tms_id": "EP007164450073",
         "rating": 8.470717,
@@ -472,6 +425,58 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277782311232.jpg",
         "cma_id": "1450063"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1587535140,
+        "tms_id": "EP007164450080",
+        "rating": 8.556214,
+        "description": "As part of a CIA assignment, Stan must court a South American dictator in order to gain access to his country's oil reserves.",
+        "title_suggest": {
+            "input": [
+                "Moon Over Isla Island",
+                "Over Isla Island",
+                "Isla Island",
+                "Island"
+            ]
+        },
+        "type": "episode",
+        "title": "Moon Over Isla Island",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.3727,
+        "episode_number": "15",
+        "original_air_date": 1255750200,
+        "auth_launch_date": 1586930400,
+        "clip_order": null,
+        "modified": 1586503208,
+        "media_id": "5e836cc46c628844583917dbd64efd95feedc33b",
+        "airing_id": "RADS1004092000082061",
+        "id": "CF3Z7fUZQFSQ9kILj0CFPg",
+        "slug": "moon-over-isla-island",
+        "views": 172412,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152778672095214.jpg",
+        "created": 1402945460,
+        "title_id": "748117",
+        "season_number": "4",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1586503208,
+        "tags": [],
+        "rating_count": 169,
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152778672095214.jpg",
+        "cma_id": "1451937"
     },
     {
         "auth": true,
