@@ -367,6 +367,61 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1446844020,
+        "auth_expiration_date": 1589947140,
+        "tms_id": "EP004625750008",
+        "rating": 9.736903,
+        "description": "The exciting conclusion of \"The Case of Crooked Creek.\" No, wait... \"Deadomutt.\"",
+        "title_suggest": {
+            "input": [
+                "Deadomutt Pt 2",
+                "Pt 2",
+                "2"
+            ]
+        },
+        "type": "episode",
+        "title": "Deadomutt Pt 2",
+        "expiration_date": 1571284740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 691.5,
+        "episode_number": "8",
+        "original_air_date": 1054524600,
+        "clip_order": null,
+        "auth_launch_date": 1586923200,
+        "modified": 1586499245,
+        "media_id": "813aaf2512be6e9f27adfde957ff12f8331cc0c3",
+        "airing_id": "RADS1004082000081888",
+        "id": "VLZegfSYQFO3gKmZISEAew",
+        "slug": "deadomutt-pt-2",
+        "views": 203641,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035134832-harvey_008.jpg",
+        "created": 1402945467,
+        "title_id": "344149",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1586499245,
+        "tags": [
+            "harvey birdman episode 8 deadomutt pt 2 azure falcone blue falcon dynomutt murder trial jail"
+        ],
+        "rating_count": 1794,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1568260800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035134832-harvey_008.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1446843960,
         "auth_expiration_date": 1589342340,
         "tms_id": "EP004625750007",
@@ -418,60 +473,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1567656000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351347445-harvey_007.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446843840,
-        "auth_expiration_date": 1586923140,
-        "tms_id": "EP004625750003",
-        "rating": 8.231649,
-        "description": "Shaggy and Scooby are being held on possession. Harvey defends the two in an entirely circumstantial case brought against them by Spyro. Harvey is just about to win the case when Velma and Fred catch an old cotton farmer masquerading as a green monster to scare people away from his new, highly lucrative crop.",
-        "title_suggest": {
-            "input": [
-                "Shaggy Busted",
-                "Busted"
-            ]
-        },
-        "type": "episode",
-        "title": "Shaggy Busted",
-        "expiration_date": 1568260740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 711.8,
-        "episode_number": "3",
-        "original_air_date": 1026097200,
-        "clip_order": null,
-        "auth_launch_date": 1583899200,
-        "modified": 1583531046,
-        "media_id": "66814299d4d4f6906c9e0da9587fb3f6e44c9101",
-        "airing_id": "RADS1003062000070137",
-        "id": "a86RyzGAS7uEbizFkOhfSw",
-        "slug": "shaggy-busted",
-        "views": 359127,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351221358-harvey_003.jpg",
-        "created": 1402945467,
-        "title_id": "344144",
-        "season_number": "1",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1583531046,
-        "tags": [
-            "harvey birdman episode 3 shaggy busted scooby doo pot marijuana possession drugs"
-        ],
-        "rating_count": 1308,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1565236800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351221358-harvey_003.jpg",
         "cma_id": ""
     },
     {
