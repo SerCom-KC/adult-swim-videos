@@ -1,6 +1,58 @@
 [
     {
         "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1587621540,
+        "tms_id": "EP007164450082",
+        "rating": 8.950103,
+        "description": "Stan poisons Roger in an attempt to keep Roger from leaving home. But when Roger slips into a coma, Stan must use experimental CIA technology to go into Roger's mind in order to wake Roger up. Meanwhile at summer camp, Steve and his friends attempt to become cool kids through unorthodox means.",
+        "title_suggest": {
+            "input": [
+                "Brains Brains and Automobiles",
+                "Brains and Automobiles",
+                "and Automobiles",
+                "Automobiles"
+            ]
+        },
+        "type": "episode",
+        "title": "Brains Brains and Automobiles",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1308.1401,
+        "episode_number": "17",
+        "original_air_date": 1257568200,
+        "clip_order": null,
+        "auth_launch_date": 1587016800,
+        "modified": 1586599328,
+        "media_id": "3f3df1d4af80a4fa81e98d940762d48db2a1b277",
+        "airing_id": "RADS1004102000082488",
+        "id": "0Wvt7Y1YSi-LvGM4BZ2iZQ",
+        "slug": "brains-brains-and-automobiles",
+        "views": 509795,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15277870073671.jpg",
+        "created": 1402945460,
+        "title_id": "748134",
+        "season_number": "4",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1586599328,
+        "tags": [],
+        "rating_count": 501,
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277870073671.jpg",
+        "cma_id": "1371583"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1587187740,
         "tms_id": "EP007164450073",
         "rating": 8.470717,
@@ -722,54 +774,6 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152769096723011.jpg",
         "cma_id": "1449979"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1587016740,
-        "tms_id": "EP007164450070",
-        "description": "After term limits force Stan out of his position as president of the HOA, Roger steps in as the new leader under the guise of one Roy Rogers McFreely. Roger uses his power to pass new resolutions and by-laws solely to anger Stan, who earlier refused to buy Roger grenadine. Stan teams up with Hayley and plots to have Roger removed from office.",
-        "title_suggest": {
-            "input": [
-                "Roy Rodgers McFreely",
-                "Rodgers McFreely",
-                "McFreely"
-            ]
-        },
-        "title": "Roy Rodgers McFreely",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1306.3718,
-        "episode_number": "5",
-        "original_air_date": 1237690800,
-        "clip_order": null,
-        "auth_launch_date": 1586412000,
-        "modified": 1585987926,
-        "media_id": "7a6a86d1a69afe822ebc96ca8d1a52e235ffc386",
-        "airing_id": "RADS1004032000080044",
-        "id": "Z344jSHKRrGMpA2d6IWFiA",
-        "slug": "roy-rodgers-mc-freely",
-        "views": 2393,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152000758707410.jpg",
-        "created": 1402374070,
-        "title_id": "748152",
-        "tv_rating": "tv-14",
-        "season_number": "4",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1585987926,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000758707410.jpg",
-        "cma_id": "1447151"
     },
     {
         "auth": true,
