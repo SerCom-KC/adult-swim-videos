@@ -146,54 +146,6 @@
         "cma_id": "1381813"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1587101340,
-        "tms_id": "EP007164450071",
-        "description": "When Stan's con-man dad Jack resurfaces in prison awaiting trial for a crime he did not commit, Steve gets Stan to let Jack stay with them under house arrest.",
-        "title_suggest": {
-            "input": [
-                "Jack's Back",
-                "Back"
-            ]
-        },
-        "title": "Jack's Back",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1305.9046,
-        "episode_number": "6",
-        "original_air_date": 1238295600,
-        "auth_launch_date": 1586496600,
-        "clip_order": null,
-        "modified": 1586190010,
-        "media_id": "f32e7fbea1135f33bd089bb658c4b74bbdeec1da",
-        "airing_id": "RADS1004062000080309",
-        "id": "899mNyltRsyojBL4t4E2Jg",
-        "slug": "jacks-back",
-        "views": 1724,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15422218610141.jpg",
-        "created": 1477113022,
-        "title_id": "748109",
-        "tv_rating": "tv-14",
-        "season_number": "4",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1586190010,
-        "first_published": 1477113022,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15422218610141.jpg",
-        "cma_id": "1447203"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": 1560311940,
         "tms_id": "EP007164450257",
@@ -779,6 +731,56 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152769096723011.jpg",
         "cma_id": "1449979"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1587706140,
+        "tms_id": "EP007164450083",
+        "description": "Stan vows to live out all the teenage pranks he missed with Steve and his friends. But when they are caught, he winds up going to prison.",
+        "title_suggest": {
+            "input": [
+                "Man in the Moonbounce",
+                "in the Moonbounce",
+                "the Moonbounce",
+                "Moonbounce"
+            ]
+        },
+        "title": "Man in the Moonbounce",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.7397,
+        "episode_number": "18",
+        "original_air_date": 1258777800,
+        "auth_launch_date": 1587101400,
+        "clip_order": null,
+        "modified": 1586749206,
+        "media_id": "6c716b98295bc1bf72f4cf9c76f85307e020f259",
+        "airing_id": "RADS1004132000082651",
+        "id": "aQP3d-khRUq5Jg6tq2-01Q",
+        "slug": "man-in-the-moonbounce",
+        "views": 1586,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15282143135773.jpg",
+        "created": 1477901479,
+        "title_id": "748132",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1586749206,
+        "first_published": 1477901479,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282143135773.jpg",
+        "cma_id": "1465407"
     },
     {
         "auth": true,
