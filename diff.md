@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 17, 2020 at 01:00:33 EDT_
+_Last Update: April 17, 2020 at 02:00:33 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2171461
-**Bob's Burgers S08E21 - Something Old, Something New, Something Bob Caters for You**  
-TV-PG-L 🔒 21:39  
-⌛ April 24, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/something-old-something-new-something-bob-caters-for-you  
-seriesid=`2003422` titleid=`2171461` id=`AWjywSA7Hl5gR6828yeU` mediaid=`f94d7b269e0ce2b79b6f201867c0375f10c2bf2e`  
-_Just as Bob wonders if working in the restaurant business is worth it, a couple who fell in love at the restaurant asks the Belchers to cater their wedding. When things don't go as planned, Linda steps in and attempts to save the day._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155198937820315.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155198937820315.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 748132
+**American Dad S04E18 - Man in the Moonbounce**  
+TV-14 🔒 21:47  
+⌛ April 24, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/man-in-the-moonbounce  
+seriesid=`581006` titleid=`748132` id=`aQP3d-khRUq5Jg6tq2-01Q` mediaid=`6c716b98295bc1bf72f4cf9c76f85307e020f259`  
+_Stan vows to live out all the teenage pranks he missed with Steve and his friends. But when they are caught, he winds up going to prison._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282143135773.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282143135773.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2171451
-**Bob's Burgers S08E11 - Sleeping with the Frenemy**  
-TV-PG-L 🔒 21:42  
-⌛ April 17, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/sleeping-with-the-frenemy  
-seriesid=`2003422` titleid=`2171451` id=`AWdWDWoGqD68dq0Op5ju` mediaid=`1008630bc02857a6e5214c023a4e5eb8051ddd31`  
-_Tina allows Tammy to spend Spring Break with the Belchers - and even plays Cupid, setting up Tammy with a boy from out of town. Meanwhile, Gene and Bob enlist the help of Dr. Yap in finding a baby tooth to complete Linda's collection._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 748109
+**American Dad S04E06 - Jack's Back**  
+TV-14 🔓 21:45  
+⌛ April 17, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/jacks-back  
+seriesid=`581006` titleid=`748109` id=`899mNyltRsyojBL4t4E2Jg` mediaid=`f32e7fbea1135f33bd089bb658c4b74bbdeec1da`  
+_When Stan's con-man dad Jack resurfaces in prison awaiting trial for a crime he did not commit, Steve gets Stan to let Jack stay with them under house arrest._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15422218610141.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15422218610141.jpg" height="144px" /></a>
