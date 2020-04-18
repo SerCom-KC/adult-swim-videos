@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 17, 2020 at 03:30:28 EDT_
+_Last Update: April 18, 2020 at 00:30:31 EDT_
 ## Video added
-No videos were added.  
+### Summary
+581006 American Dad: 1  
+### 2069542
+**American Dad S12E11 - Casino Normale**  
+TV-14 🔒 21:13  
+⌛ April 24, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/casino-normale  
+seriesid=`581006` titleid=`2069542` id=`Kh2zdJEDQb-HJmzQQbcygw` mediaid=`78b0f4774f029711db4b5301b3c3d74970c7cf9c`  
+_Francine steals from the CIA and pretends to be a sexy supervillain to incite Stan to be more seductive. Roger tricks Hayley and Steve into trapping Jay Leno so he can take revenge on him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-440990 Family Guy: 1  
-### 652682
-**Family Guy S05E18 - Meet the Quagmires**  
-TV-14-DL 🔒 21:49  
-⌛ April 17, 2020 at 02:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/meet-the-quagmires  
-seriesid=`440990` titleid=`652682` id=`5rx_3RcsQqOwL-_PcLQohQ` mediaid=`e9adfac188bb7ced52f668c3845b06e69bda80d4`  
-_When Peter bumps into Death at The Drunken Clam one evening, he gets nostalgic about what it would be like to relive his life as an 18-year old.  Death grants him this wish and Peter and Brian are sent back to 1984 where they meet up with Cleveland, Quagmire, Joe and Lois in hip 80's styles. While visiting the past, Peter screws up his present day, now married to Molly Ringwald while Lois has a family with Quagmire._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2476433855308777022.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2476433855308777022.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 2069537
+**American Dad S12E06 - Roger's Baby**  
+TV-14 🔒 21:13  
+⌛ April 17, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/rogers-baby  
+seriesid=`581006` titleid=`2069537` id=`M1LxpLBLR8qZPNTNON4wTw` mediaid=`3bf1b31e4d30b909c87bd5e7d5847e274013cbf3`  
+_Hayley experiences what pregnancy would be like after Roger agrees to give birth to Jeff so he can be human again. Snot's feelings are hurt when Steve secretly signs him up for a makeover._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg" height="144px" /></a>
