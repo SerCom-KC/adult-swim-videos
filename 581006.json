@@ -103,50 +103,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1587187740,
-        "tms_id": "EP007164450073",
-        "rating": 8.470717,
-        "description": "Stan reveals to Francine that, in the case she should die, he has a back up wife. Enraged with Stan, Francine takes Jim, one of Stan's CIA buddies, as her back up husband.",
-        "title_suggest": {
-            "input": [
-                "Wife Insurance ",
-                "Insurance"
-            ]
-        },
-        "type": "episode",
-        "title": "Wife Insurance ",
-        "expiration_date": 1505188799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1306.572,
-        "episode_number": "8",
-        "original_air_date": 1239505200,
-        "auth_launch_date": 1586583000,
-        "modified": 1586190775,
-        "media_id": "b23659f6fa9e9ec010488975b43b4cd7cc833951",
-        "airing_id": "RADS1004062000080315",
-        "id": "0mC3go-OTQ2WbZehCLFWUQ",
-        "slug": "wife-insurance",
-        "views": 381498,
-        "created": 1402945460,
-        "title_id": "748116",
-        "season_number": "4",
-        "tv_rating": "tv-14",
-        "active": false,
-        "published": 1586190775,
-        "tags": [],
-        "rating_count": 444,
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1504584000,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_5212858645293464439.jpg",
-        "cma_id": "1470356"
-    },
-    {
-        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1587355140,
         "tms_id": "EP007164450234",
@@ -685,6 +641,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1587792540,
+        "tms_id": "EP007164450085",
+        "description": "After attending a concert with Hayley, Stan becomes obsessed with her music.",
+        "title_suggest": {
+            "input": [
+                "My Morning Straitjacket",
+                "Morning Straitjacket",
+                "Straitjacket"
+            ]
+        },
+        "title": "My Morning Straitjacket",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.1058,
+        "episode_number": "20",
+        "original_air_date": 1259987400,
+        "auth_launch_date": 1587187800,
+        "clip_order": null,
+        "modified": 1586759048,
+        "media_id": "89b915f8eb746d75db8b3b306734003e1bed4028",
+        "airing_id": "RADS1004132000082665",
+        "id": "PZMy500kSvu7lOzRAZ3r7g",
+        "slug": "my-morning-straitjacket",
+        "views": 1966,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152829876229720.jpg",
+        "created": 1444796466,
+        "title_id": "748133",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1586759048,
+        "first_published": 1444796466,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152829876229720.jpg",
+        "cma_id": "1454718"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1587614340,
         "tms_id": "EP007164450233",
         "description": "Steve and his friends take up witchcraft to gain power and popularity at school. Stan and Klaus become obsessed with remembering 90s bands.",
@@ -883,7 +888,7 @@
         "cma_id": "1451643"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1587189540,
         "tms_id": "EP007164450074",
