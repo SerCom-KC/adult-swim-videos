@@ -95,57 +95,6 @@
         "cma_id": "1490789"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1587277740,
-        "tms_id": "EP002960010108",
-        "rating": 7.297536,
-        "description": "After Stewie shot his mother in cold blood on the deck of the cruise ship, Lois returned to Quahog, entering the courtroom just before Peter was sentenced to life in prison.  \r\nStewie escapes the courtroom and along with his hostage Brian, he moves forward with his diabolical plans to take over the world.  The only person in the world who can stop him is his mother, Lois.",
-        "title_suggest": {
-            "input": [
-                "Lois Kills Stewie",
-                "Kills Stewie",
-                "Stewie"
-            ]
-        },
-        "type": "episode",
-        "title": "Lois Kills Stewie",
-        "expiration_date": 1504418399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1300.8329,
-        "episode_number": "5",
-        "original_air_date": 1196049600,
-        "clip_order": null,
-        "auth_launch_date": 1586673000,
-        "modified": 1586375652,
-        "media_id": "3dff7e45a0dee0ebf88a69dc1a1bd6eeb1587477",
-        "airing_id": "RADS1004082000081829",
-        "id": "THavBGoDSkCYkzs2kz9TtA",
-        "slug": "lois-kills-stewie",
-        "views": 318513,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153090030440813.jpg",
-        "created": 1402945465,
-        "title_id": "652690",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1586375652,
-        "tags": [],
-        "rating_count": 1136,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503813600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090030440813.jpg",
-        "cma_id": "1460004"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1586152740,
@@ -624,5 +573,65 @@
         "launch_date": 1586750400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg",
         "cma_id": "1437963"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1587882540,
+        "tms_id": "EP002960010123",
+        "rating": 7.7775273,
+        "description": "Peter's boss sends him back to third grade to qualify for a promotion at work; and Brian and Frank Sinatra Jr. struggle opening a nightclub until Stewie turns it into the coolest nightclub in Quahog.",
+        "title_suggest": {
+            "input": [
+                "Tales of a Third Grade Nothing",
+                "of a Third Grade Nothing",
+                "a Third Grade Nothing",
+                "Third Grade Nothing",
+                "Grade Nothing",
+                "Nothing"
+            ]
+        },
+        "type": "episode",
+        "title": "Tales of a Third Grade Nothing",
+        "expiration_date": 1468132199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1301.9006,
+        "episode_number": "6",
+        "original_air_date": 1228192200,
+        "clip_order": null,
+        "auth_launch_date": 1587277800,
+        "modified": 1586966166,
+        "media_id": "f95957388431bd67bac9cc40d52919ae49b9ffb0",
+        "airing_id": "RADS1004152000082942",
+        "id": "vFFUpltUTsKcAx7Bwls9Fg",
+        "slug": "tales-of-a-third-grade-nothing",
+        "views": 306565,
+        "created": 1402945465,
+        "title_id": "730923",
+        "season_number": "7",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "published": 1586966166,
+        "tags": [
+            "Tales of a Third Grade Nothing",
+            "Family Guy",
+            "Adult Swim",
+            "video",
+            "funny",
+            "Seth McFarlane",
+            "Griffins",
+            "Peter",
+            "Stewie",
+            "Brian"
+        ],
+        "rating_count": 890,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1467527400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_47184.jpg",
+        "cma_id": "1225789"
     }
 ]
