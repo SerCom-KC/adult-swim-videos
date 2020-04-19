@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 19, 2020 at 05:00:34 EDT_
+_Last Update: April 19, 2020 at 05:30:33 EDT_
 ## Video added
 ### Summary
-2201017 Food Wars!: 1  
-### 2201054
-**Food Wars! S02E37 - Pomp & Circumstance**  
-TV-MA-S 🔒 23:44  
-⌛ May 10, 2020 at 04:29:00 EDT  
-https://www.adultswim.com/videos/food-wars/pomp-circumstance  
-seriesid=`2201017` titleid=`2201054` id=`AXA0y-VXGRcVO2K2pm1_` mediaid=`daf8f1c15983ea18268d3d658e21ee519c836f99`  
-_After the soft opening, SHINO'S has one more set of important customers for Soma to serve: Shinomiya's Totsuki Academy peers! The final act: the new menu item competition._  
-<a href="https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_20211108566-FoodWars_037.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_20211108566-FoodWars_037.jpg" height="144px" /></a>
+2143080 Black Clover: 1  
+### 2219230
+**Black Clover S03E113 - Storming the Shadow Palace**  
+TV-PG 🔒 22:14  
+⌛ May 10, 2020 at 04:59:00 EDT  
+https://www.adultswim.com/videos/black-clover/storming-the-shadow-palace  
+seriesid=`2143080` titleid=`2219230` id=`AXF-HlH_C8QgH-t19IJy` mediaid=`3adf562e6cf0e5aa2733882778a06c6a4a428f14`  
+_A team of squad captains and talented Magic Knights invade the Shadow Palace, where a few formidable elves await the arrival of the final magic stone._  
+<a href="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_2041595432-BlackClover_113.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_2041595432-BlackClover_113.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
