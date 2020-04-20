@@ -1,22 +1,19 @@
 {
-    "updated": 1587384320,
-    "added": [],
-    "removed": [
+    "updated": 1587398703,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Mix it up this weekend with Dragon Ball Z Kai!",
+            "description": "Fear floods the streets, as the attacker runs free. Could it really be a boy who\u2019s causing this madness?",
             "title_suggest": {
                 "input": [
-                    "Dragon Ball Z Kai Marathon",
-                    "Ball Z Kai Marathon",
-                    "Z Kai Marathon",
-                    "Kai Marathon",
-                    "Marathon"
+                    "Paranoia Agent Trailer",
+                    "Agent Trailer",
+                    "Trailer"
                 ]
             },
-            "title": "Dragon Ball Z Kai Marathon",
-            "expiration_date": 1587383940,
+            "title": "Paranoia Agent Trailer",
+            "expiration_date": 1588593540,
             "type": "clip",
             "platforms": [
                 "android",
@@ -25,40 +22,34 @@
                 "online-exclusive",
                 "roku"
             ],
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "duration": 29.97,
+            "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+            "duration": 59.97,
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "",
             "media_id": "",
-            "modified": 1585924083,
-            "slug": "dragon-ball-z-kai-marathon",
+            "modified": 1587161751,
+            "slug": "paranoia-agent-trailer",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/1_204217736-promo_DBZKAI_MARATHON_20200406_SAT.jpg",
-            "created": 1585861696,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_204171657179-promo_ParanoiaAgent_TRAILER_SAT.jpg",
+            "created": 1587138694,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
-            "published": 1585924083,
-            "tags": [
-                "dragon ball z kai",
-                "buu",
-                "adult swim",
-                "toonami",
-                "promo",
-                "video"
-            ],
-            "collection_title": "Dragon Ball Z Kai",
+            "published": 1587161751,
+            "tags": [],
+            "collection_title": "Paranoia Agent",
             "disable_ads": false,
             "modified_by": "Duke Nguyen",
-            "launch_date": 1586174400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_204217736-promo_DBZKAI_MARATHON_20200406_SAT.jpg",
-            "id": "AXE8uRxtC8QgH-t19H_E",
+            "launch_date": 1587384000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171657179-promo_ParanoiaAgent_TRAILER_SAT.jpg",
+            "id": "AXGI1ovGC8QgH-t19IOm",
             "auth": false,
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
+            "collection_slug": "paranoia-agent",
+            "collection_title_id": "612379",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
