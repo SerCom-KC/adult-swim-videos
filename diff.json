@@ -1,23 +1,22 @@
 {
-    "updated": 1587384081,
-    "added": [
+    "updated": 1587384320,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Find your quirk! Class is in session on the next episode of My Hero Academia.",
+            "description": "Mix it up this weekend with Dragon Ball Z Kai!",
             "title_suggest": {
                 "input": [
-                    "Sneak Peek - Deku vs. Gentle Criminal",
-                    "Peek - Deku vs. Gentle Criminal",
-                    "- Deku vs. Gentle Criminal",
-                    "Deku vs. Gentle Criminal",
-                    "vs. Gentle Criminal",
-                    "Gentle Criminal",
-                    "Criminal"
+                    "Dragon Ball Z Kai Marathon",
+                    "Ball Z Kai Marathon",
+                    "Z Kai Marathon",
+                    "Kai Marathon",
+                    "Marathon"
                 ]
             },
-            "title": "Sneak Peek - Deku vs. Gentle Criminal",
-            "expiration_date": 1588590000,
+            "title": "Dragon Ball Z Kai Marathon",
+            "expiration_date": 1587383940,
             "type": "clip",
             "platforms": [
                 "android",
@@ -26,34 +25,40 @@
                 "online-exclusive",
                 "roku"
             ],
-            "collection_id": "AWLf4YziHAeP4-pUPegM",
-            "duration": 14.97,
+            "collection_id": "duzujScQQRKOubvQENdNag",
+            "duration": 29.97,
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "",
             "media_id": "",
-            "modified": 1587157134,
-            "slug": "sneak-peek-deku-vs-gentle-criminal",
+            "modified": 1585924083,
+            "slug": "dragon-ball-z-kai-marathon",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_204171150108-promo_MHA_Topical_84_SAT_15.jpg",
-            "created": 1587138524,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/1_204217736-promo_DBZKAI_MARATHON_20200406_SAT.jpg",
+            "created": 1585861696,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
-            "published": 1587157134,
-            "tags": [],
-            "collection_title": "My Hero Academia",
+            "published": 1585924083,
+            "tags": [
+                "dragon ball z kai",
+                "buu",
+                "adult swim",
+                "toonami",
+                "promo",
+                "video"
+            ],
+            "collection_title": "Dragon Ball Z Kai",
             "disable_ads": false,
             "modified_by": "Duke Nguyen",
-            "launch_date": 1587384000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171150108-promo_MHA_Topical_84_SAT_15.jpg",
-            "id": "AXGI0_bARs3h4hI_X3AG",
+            "launch_date": 1586174400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_204217736-promo_DBZKAI_MARATHON_20200406_SAT.jpg",
+            "id": "AXE8uRxtC8QgH-t19H_E",
             "auth": false,
-            "collection_slug": "my-hero-academia",
-            "collection_title_id": "2142267",
+            "collection_slug": "dragon-ball-z-kai",
+            "collection_title_id": "2031611",
             "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
