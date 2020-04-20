@@ -1609,7 +1609,7 @@
         "cma_id": "1063526"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370077",
@@ -4312,6 +4312,63 @@
         "launch_date": 1577077200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210165129-dragonballzkai_063_air_cid-2RF23.jpg",
         "cma_id": "1206916"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370082",
+        "description": "Gohan uses the pain of past failures to make a Super Saiyan breakthrough, and Vegeta is shocked to find he's no match for Cell's formidable perfect form!",
+        "title_suggest": {
+            "input": [
+                "The Tables Are Turned! Witness the Power of Perfection!",
+                "Tables Are Turned! Witness the Power of Perfection!",
+                "Are Turned! Witness the Power of Perfection!",
+                "Turned! Witness the Power of Perfection!",
+                "Witness the Power of Perfection!",
+                "the Power of Perfection!",
+                "Power of Perfection!",
+                "of Perfection!",
+                "Perfection!"
+            ]
+        },
+        "title": "The Tables Are Turned! Witness the Power of Perfection!",
+        "type": "episode",
+        "expiration_date": 1590379199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1318,
+        "episode_number": "80",
+        "original_air_date": 1469935800,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1586970007,
+        "media_id": "48c82edc88ee32e87c489d625b706995c99933bc",
+        "airing_id": "RADS1004152000082960",
+        "id": "yXZjZBuXTrWeR2BEsUUCHg",
+        "slug": "the-tables-are-turned-witness-the-power-of-perfection",
+        "views": 2935,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210169159-dragonballzkai_080_air_cid-2W7MN.jpg",
+        "created": 1469599870,
+        "title_id": "2031691",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1586970007,
+        "first_published": 1469599870,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1587355200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210169159-dragonballzkai_080_air_cid-2W7MN.jpg",
+        "cma_id": "1261725"
     },
     {
         "auth": true,
