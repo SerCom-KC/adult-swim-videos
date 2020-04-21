@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 21, 2020 at 02:00:27 EDT_
+_Last Update: April 21, 2020 at 02:30:31 EDT_
 ## Video added
 ### Summary
 2003422 Bob's Burgers: 1  
-### 2003428
-**Bob's Burgers S01E06 - Sheesh! Cab, Bob?**  
-TV-PG 🔒 21:34  
-⌛ April 28, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/sheesh-cab-bob  
-seriesid=`2003422` titleid=`2003428` id=`Z-2JQXrqSduNuyz2syFZpQ` mediaid=`d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95`  
-_Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg" height="144px" /></a>
+### 2003514
+**Bob's Burgers S03E03 - Bob Fires the Kids**  
+TV-14 🔒 21:30  
+⌛ April 28, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/bob-fires-the-kids  
+seriesid=`2003422` titleid=`2003514` id=`m6oToyJWT4iP8igvJtBeOA` mediaid=`362e1875ab9ec1ea7102197574f0e6578c7977fc`  
+_Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers, who hire the Belcher kids as "weed pickers." Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-### 2171454
-**Bob's Burgers S08E14 - The Trouble with Doubles**  
-TV-14-LV 🔒 21:32  
-⌛ April 21, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-trouble-with-doubles  
-seriesid=`2003422` titleid=`2171454` id=`AWlyQ4jeHl5gR6828yz8` mediaid=`20482d36e5c5a76dd4b07eff922456c22b1d7d53`  
-_Bob and Linda's double date plans take a disastrous turn when the couples find themselves trapped inside an Escape Room. Meanwhile, Louise hosts a zombie-movie night, but when the zombies turn out to be too scary, Tina must take charge._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg" height="144px" /></a>
+### 2171455
+**Bob's Burgers S08E15 - Go Tina on the Mountain**  
+TV-PG-L 🔒 21:41  
+⌛ April 21, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/go-tina-on-the-mountain  
+seriesid=`2003422` titleid=`2171455` id=`AWgad-OgzQU7gEG1jvbP` mediaid=`8a20666d1f8598cd129fa16e06bfb0f56b6d4342`  
+_The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg" height="144px" /></a>
