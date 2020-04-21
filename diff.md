@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 21, 2020 at 01:00:35 EDT_
+_Last Update: April 21, 2020 at 02:00:27 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2003422 Bob's Burgers: 1  
+### 2003428
+**Bob's Burgers S01E06 - Sheesh! Cab, Bob?**  
+TV-PG 🔒 21:34  
+⌛ April 28, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/sheesh-cab-bob  
+seriesid=`2003422` titleid=`2003428` id=`Z-2JQXrqSduNuyz2syFZpQ` mediaid=`d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95`  
+_Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 748122
-**American Dad S04E13 - Stan's Night Out**  
-TV-14 🔒 21:35  
-⌛ April 21, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/stans-night-out  
-seriesid=`581006` titleid=`748122` id=`qykbVK3aRfuM42mU29gLOA` mediaid=`dbe247f847d0886791b36dc4bee10e72a0a200cb`  
-_Stan feels left out when he discovers that a few of the guys from work have been hitting the town while he sits at home with Francine eating dinner on a TV tray and watching gardening shows._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152777831366317.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152777831366317.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2171454
+**Bob's Burgers S08E14 - The Trouble with Doubles**  
+TV-14-LV 🔒 21:32  
+⌛ April 21, 2020 at 01:29:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-trouble-with-doubles  
+seriesid=`2003422` titleid=`2171454` id=`AWlyQ4jeHl5gR6828yz8` mediaid=`20482d36e5c5a76dd4b07eff922456c22b1d7d53`  
+_Bob and Linda's double date plans take a disastrous turn when the couples find themselves trapped inside an Escape Room. Meanwhile, Louise hosts a zombie-movie night, but when the zombies turn out to be too scary, Tina must take charge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg" height="144px" /></a>
