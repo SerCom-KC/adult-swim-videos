@@ -1,7 +1,6 @@
 {
-    "updated": 1587573755,
-    "added": [],
-    "removed": [
+    "updated": 1587575099,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
@@ -32,7 +31,7 @@
             "clip_order": null,
             "airing_id": "",
             "media_id": "",
-            "modified": 1587573320,
+            "modified": 1587575017,
             "slug": "rick-and-mortys-music-maestro",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200422/thumbnails/1_204221122467-RAM_BTS_SnakeJazz.jpg",
@@ -40,7 +39,7 @@
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
-            "published": 1587573320,
+            "published": 1587575017,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
@@ -53,5 +52,6 @@
             "collection_title_id": "2013506",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
