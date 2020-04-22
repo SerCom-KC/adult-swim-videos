@@ -49,6 +49,54 @@
     },
     {
         "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1588132740,
+        "tms_id": "EP012792980134",
+        "description": "When Bob finds out that the local outdoor adventure store is having a going out of business sale, he decides to finally realize his dream of becoming an outdoorsman.",
+        "title_suggest": {
+            "input": [
+                "Into the Mild",
+                "the Mild",
+                "Mild"
+            ]
+        },
+        "expiration_date": 1563767940,
+        "type": "episode",
+        "title": "Into the Mild",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1305.77,
+        "episode_number": "18",
+        "original_air_date": 1517796000,
+        "auth_launch_date": 1587528000,
+        "clip_order": null,
+        "media_id": "a6fa6d914eab78ab23f8009606f9880ec252ba8e",
+        "modified": 1587397328,
+        "airing_id": "RADS1004202000083845",
+        "id": "AWDc4J6jZ-onAnjDLt7A",
+        "slug": "into-the-mild",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151784511773910.jpg",
+        "created": 1515534196,
+        "season_number": "7",
+        "title_id": "2132989",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1587397328,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1563163200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151784511773910.jpg"
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1586869140,
         "tms_id": "",
         "description": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
@@ -190,58 +238,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg",
         "id": "AWd63rgSqD68dq0Op5t4",
         "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1587527940,
-        "tms_id": "",
-        "description": "After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections.",
-        "title_suggest": {
-            "input": [
-                "Are You There Bob? It's Me Birthday",
-                "You There Bob? It's Me Birthday",
-                "There Bob? It's Me Birthday",
-                "Bob? It's Me Birthday",
-                "It's Me Birthday",
-                "Me Birthday",
-                "Birthday"
-            ]
-        },
-        "title": "Are You There Bob? It's Me Birthday",
-        "expiration_date": 1585540740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1299.23,
-        "episode_number": "16",
-        "original_air_date": 1549247400,
-        "auth_launch_date": 1586923200,
-        "clip_order": null,
-        "media_id": "4e4692394c78f2d813c1bfa01a2eb77ea9af5270",
-        "modified": 1586499970,
-        "airing_id": "RADS1004092000082060",
-        "slug": "are-you-there-bob-its-me-birthday",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15489649010681.jpg",
-        "created": 1546632318,
-        "season_number": "8",
-        "title_id": "2171456",
-        "tv_rating": "tv-pg-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1586499970,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1584936000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15489649010681.jpg",
-        "id": "AWgaeE-hAScUIg8Xxbmv",
-        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -641,5 +637,53 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg",
         "cma_id": "2003514"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1588132740,
+        "tms_id": "EP012792980003",
+        "description": "When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob ends up treating the cow like a member of the family.",
+        "title_suggest": {
+            "input": [
+                "Sacred Cow",
+                "Cow"
+            ]
+        },
+        "title": "Sacred Cow",
+        "type": "episode",
+        "expiration_date": 1508218199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1296.3284,
+        "episode_number": "3",
+        "original_air_date": 1372647600,
+        "clip_order": null,
+        "auth_launch_date": 1587528000,
+        "modified": 1587397927,
+        "media_id": "f89db78e609e6ac2b3578dcc90af991e20df44a1",
+        "airing_id": "RADS1004202000083842",
+        "id": "xJmLhV5aQoOv_wp8zd_p-g",
+        "slug": "sacred-cow",
+        "views": 6850,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088771879719.jpg",
+        "created": 1402896028,
+        "title_id": "2003425",
+        "tv_rating": "tv-14",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1587397927,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1507613400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg",
+        "cma_id": "1491178"
     }
 ]
