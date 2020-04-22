@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 22, 2020 at 03:30:39 EDT_
+_Last Update: April 22, 2020 at 12:00:48 EDT_
 ## Video added
-### Summary
-440990 Family Guy: 1  
-### 730930
-**Family Guy S07E11 - Not All Dogs Go To Heaven**  
-TV-14-DLSV 🔒 21:32  
-⌛ April 29, 2020 at 02:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/not-all-dogs-go-to-heaven  
-seriesid=`440990` titleid=`730930` id=`b1LRU7chTBOgGDlUSF06Cg` mediaid=`c3a1e111a211ca83e9137d815fc9ced40daea70c`  
-_After a frustrating day at the annual Quahog <i>Star Trek</i> convention, Stewie builds a transporter and beams the entire cast of <i>Star Trek: The Next Generation</i> into his room for a fun-filled day in Quahog._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_63130.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_63130.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2161118 Joe Pera Talks With You: 1  
+### 2214309
+**Joe Pera Talks With You S02E04 - Joe Pera Guides You Through the Dark**  
+TV-14-L 🔓 11:01  
+⌛ June 17, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-guides-you-through-the-dark  
+seriesid=`2161118` titleid=`2214309` id=`AW5GpT0_1YiBSfg0KYRx` mediaid=`b9611afe2dd1358363d7f425810a81178dfaab85`  
+_A teacher in Michigan's Upper Peninsula explores subject matters such as pancakes, blueberries, eggs, toast, sausage, bacon, English muffins, coffee, orange juice, maple syrup, waffles, cornbread, and strawberries._  
+<a href="https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171114207-joeperatalks_204_dup-20191021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171114207-joeperatalks_204_dup-20191021.jpg" height="144px" /></a>
