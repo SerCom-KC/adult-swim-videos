@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 23, 2020 at 02:30:27 EDT_
+_Last Update: April 23, 2020 at 03:00:28 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-### 798359
-**American Dad S05E07 - Bully For Steve**  
-TV-14-DL 🔒 21:47  
-⌛ April 30, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/bully-for-steve  
-seriesid=`581006` titleid=`798359` id=`fHExvwYNSWqfcy2sY_Kjig` mediaid=`039fc83429d876effd2ecf3dfb68dce29e98ebc9`  
-_After concluding that Steve is too passive, Stan begins to bully him; Reggie asks Hayley out on a date._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881343219918.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881343219918.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 730926
+**Family Guy S07E09 - The Juice is Loose**  
+TV-14-DLV 🔒 21:47  
+⌛ April 30, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/the-juice-is-loose  
+seriesid=`440990` titleid=`730926` id=`bMRTIGEgTJqwOKYuktXqOw` mediaid=`642b4a458380641dc653393dc426dce9ce33dce3`  
+_Peter cashes in a raffle ticket, and wins a golf outing with O.J. Simpson; but when he brings home the infamous former running back, the residents of Quahog are not so welcoming to the new houseguest._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_7851473053617014718.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_7851473053617014718.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-### 748134
-**American Dad S04E17 - Brains Brains and Automobiles**  
-TV-14-DLV 🔓 21:48  
-⌛ April 23, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/brains-brains-and-automobiles  
-seriesid=`581006` titleid=`748134` id=`0Wvt7Y1YSi-LvGM4BZ2iZQ` mediaid=`3f3df1d4af80a4fa81e98d940762d48db2a1b277`  
-_Stan poisons Roger in an attempt to keep Roger from leaving home. But when Roger slips into a coma, Stan must use experimental CIA technology to go into Roger's mind in order to wake Roger up. Meanwhile at summer camp, Steve and his friends attempt to become cool kids through unorthodox means._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277870073671.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277870073671.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 715147
+**Family Guy S06E11 - The Former Life of Brian**  
+TV-14-DLSV 🔒 21:47  
+⌛ April 23, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/the-former-life-of-brian  
+seriesid=`440990` titleid=`715147` id=`l-iQR-jbQDaXQV7e0TxMmg` mediaid=`209b1f707befa8145590ce4d7d66b942e07e8a3b`  
+_After striking out with yet another lady, Brian attempts to reconnect with his only true love, Tracy Flannigan.  He and Stewie visit this past love but find out that the years have not been kind to Tracy. She tells Brian that the two of them had a love child named Dylan, who has grown to be a complete delinquent. Tracy then sends Dylan to live with Brian and the Griffin family but Dylan's unruly behavior causes Brian to step up as a father figure. With this guidance, he becomes a model student._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2909629671454996742.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2909629671454996742.jpg" height="144px" /></a>
