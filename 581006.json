@@ -50,7 +50,7 @@
         "cma_id": "1454562"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1587621540,
         "tms_id": "EP007164450082",
@@ -100,6 +100,56 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277870073671.jpg",
         "cma_id": "1371583"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1588224540,
+        "tms_id": "EP007164450093",
+        "description": "When Roger and Francine go wine-tasting, Roger plants a big kiss on Francine in a drunken moment. Francine decides to tell Stan about this incident, but when they sit down to talk, Roger convinces Stan that Francine started it all.",
+        "title_suggest": {
+            "input": [
+                "Merlot Down Dirty Shame",
+                "Down Dirty Shame",
+                "Dirty Shame",
+                "Shame"
+            ]
+        },
+        "title": "Merlot Down Dirty Shame",
+        "type": "episode",
+        "expiration_date": 1505275199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.306,
+        "episode_number": "6",
+        "original_air_date": 1272684600,
+        "auth_launch_date": 1587619800,
+        "clip_order": null,
+        "modified": 1587404286,
+        "media_id": "35ad52c9b508d7b17940dd3091470c050309f407",
+        "airing_id": "RADS1004202000083875",
+        "id": "5PbaTBkKQpeEHWNzxdz0OA",
+        "slug": "merlot-down-dirty-shame",
+        "views": 2378,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15288133930095.jpg",
+        "created": 1445401221,
+        "title_id": "798357",
+        "tv_rating": "tv-14",
+        "season_number": "5",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1587404286,
+        "first_published": 1445401221,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1504670400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15288133930095.jpg",
+        "cma_id": "1465793"
     },
     {
         "auth": true,
@@ -589,54 +639,6 @@
         "launch_date": 1566187200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg",
         "cma_id": "1391072"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1587619740,
-        "tms_id": "EP007164450081",
-        "description": "When Steve has the house to himself while the rest of the Smiths are away, he and his friends crash and then lose $50 million military drone that is under the care of his father.",
-        "title_suggest": {
-            "input": [
-                "Home Adrone",
-                "Adrone"
-            ]
-        },
-        "title": "Home Adrone",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1306.8723,
-        "episode_number": "16",
-        "original_air_date": 1256959800,
-        "auth_launch_date": 1587015000,
-        "clip_order": null,
-        "modified": 1586594888,
-        "media_id": "5522c55852c179bec9480bcf77e4f3ef643c2f36",
-        "airing_id": "RADS1004102000082492",
-        "id": "KQF6bEv2R4WKXciHzNw2uA",
-        "slug": "home-adrone",
-        "views": 2230,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15277868626722.jpg",
-        "created": 1444414922,
-        "title_id": "748118",
-        "tv_rating": "tv-14",
-        "season_number": "4",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1586594888,
-        "first_published": 1444414922,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277868626722.jpg",
-        "cma_id": "1452074"
     },
     {
         "auth": true,
