@@ -572,6 +572,59 @@
         "auth": false
     },
     {
+        "auth": false,
+        "ott_launch_date": 1474718400,
+        "auth_expiration_date": 1571198340,
+        "tms_id": "EP015632430038",
+        "description": "Interviews with Raymond Cruz and Amber Rose; Musical guest Thundercat",
+        "title_suggest": {
+            "input": [
+                "Raymond Cruz; Amber Rose",
+                "Cruz; Amber Rose",
+                "Amber Rose",
+                "Rose"
+            ]
+        },
+        "title": "Raymond Cruz; Amber Rose",
+        "type": "episode",
+        "expiration_date": 1590638340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 651.0333667,
+        "episode_number": "7",
+        "original_air_date": 1474689600,
+        "clip_order": null,
+        "auth_launch_date": 1568174400,
+        "modified": 1587400812,
+        "media_id": "9f4d23ba34aa19e1cfd52200281d7d8e3d4ffceb",
+        "airing_id": "RADS1004202000083860",
+        "id": "B4JH6hHIRYqEOgKMzvinRg",
+        "slug": "raymond-cruz-amber-rose",
+        "views": 51578,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341620526-ericandre_407_dup-20160525.jpg",
+        "created": 1474355419,
+        "title_id": "2088423",
+        "tv_rating": "tv-ma-ls",
+        "season_number": "4",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1587400812,
+        "first_published": 1474355419,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1587614400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341620526-ericandre_407_dup-20160525.jpg",
+        "cma_id": "1389645"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1588737540,
@@ -1196,58 +1249,5 @@
         "launch_date": 1581570000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617101-ericandre_027_dup-20141204.jpg",
         "cma_id": "1348939"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1471091460,
-        "auth_expiration_date": 1568174340,
-        "tms_id": "EP015632430033",
-        "description": "Interviews with Stacey Dash and Jack McBrayer; Musical guest A$AP Rocky, Danny Brown, Go Dreamer.",
-        "title_suggest": {
-            "input": [
-                "Stacey Dash; Jack McBrayer",
-                "Dash; Jack McBrayer",
-                "Jack McBrayer",
-                "McBrayer"
-            ]
-        },
-        "title": "Stacey Dash; Jack McBrayer",
-        "type": "episode",
-        "expiration_date": 1587614340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 679.73,
-        "episode_number": "2",
-        "original_air_date": 1471060800,
-        "clip_order": null,
-        "auth_launch_date": 1565150400,
-        "modified": 1584276726,
-        "media_id": "fe468f23ff9ccd05d062a8a3e763efebd3bf2e2f",
-        "airing_id": "RADS1003142000073590",
-        "id": "wjd9pAoaS2WR7cFtE_AroQ",
-        "slug": "stacey-dash-jack-mc-brayer",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161942-ericandre_402_dup-20160419.jpg",
-        "created": 1470726638,
-        "title_id": "2088418",
-        "tv_rating": "tv-ma-lsv",
-        "season_number": "4",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1584276726,
-        "first_published": 1470726638,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1584590400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161942-ericandre_402_dup-20160419.jpg",
-        "cma_id": "1369025"
     }
 ]
