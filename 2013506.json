@@ -4414,6 +4414,62 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "An exclusive look at the cutting-edge animation techniques introduced this season, including special hand-drawn segments, an epic \u201cGame of Thrones\u201d-style battle scene that features hundreds of characters, special 3D models and more! Viewers will learn why this Rick and Morty's most technically ambitious season yet.",
+        "title_suggest": {
+            "input": [
+                "Rick and Morty: Animation Challenges",
+                "and Morty: Animation Challenges",
+                "Morty: Animation Challenges",
+                "Animation Challenges",
+                "Challenges"
+            ]
+        },
+        "title": "Rick and Morty: Animation Challenges",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 148.53,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1587593594,
+        "slug": "rick-and-morty-animation-challenges",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200422/thumbnails/1_204221124421-RAM_BTS_AnimationChallenges.jpg",
+        "created": 1587569129,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1587593594,
+        "tags": [
+            "rick and morty",
+            "season 4",
+            "justin roiland",
+            "dan harmon",
+            "trailer",
+            "adult swim",
+            "animation"
+        ],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": 1587658500,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200422/thumbnails/2_204221124421-RAM_BTS_AnimationChallenges.jpg",
+        "id": "AXGifnhIRs3h4hI_X3Eu",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
