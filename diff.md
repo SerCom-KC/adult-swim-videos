@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 23, 2020 at 02:00:29 EDT_
+_Last Update: April 23, 2020 at 02:30:27 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 1  
-### 798357
-**American Dad S05E06 - Merlot Down Dirty Shame**  
-TV-14 🔒 21:47  
-⌛ April 30, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/merlot-down-dirty-shame  
-seriesid=`581006` titleid=`798357` id=`5PbaTBkKQpeEHWNzxdz0OA` mediaid=`35ad52c9b508d7b17940dd3091470c050309f407`  
-_When Roger and Francine go wine-tasting, Roger plants a big kiss on Francine in a drunken moment. Francine decides to tell Stan about this incident, but when they sit down to talk, Roger convinces Stan that Francine started it all._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15288133930095.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15288133930095.jpg" height="144px" /></a>
+### 798359
+**American Dad S05E07 - Bully For Steve**  
+TV-14-DL 🔒 21:47  
+⌛ April 30, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/bully-for-steve  
+seriesid=`581006` titleid=`798359` id=`fHExvwYNSWqfcy2sY_Kjig` mediaid=`039fc83429d876effd2ecf3dfb68dce29e98ebc9`  
+_After concluding that Steve is too passive, Stan begins to bully him; Reggie asks Hayley out on a date._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881343219918.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881343219918.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 581006 American Dad: 1  
-### 748118
-**American Dad S04E16 - Home Adrone**  
-TV-14 🔓 21:46  
-⌛ April 23, 2020 at 01:29:00 EDT  
-https://www.adultswim.com/videos/american-dad/home-adrone  
-seriesid=`581006` titleid=`748118` id=`KQF6bEv2R4WKXciHzNw2uA` mediaid=`5522c55852c179bec9480bcf77e4f3ef643c2f36`  
-_When Steve has the house to himself while the rest of the Smiths are away, he and his friends crash and then lose $50 million military drone that is under the care of his father._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277868626722.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277868626722.jpg" height="144px" /></a>
+### 748134
+**American Dad S04E17 - Brains Brains and Automobiles**  
+TV-14-DLV 🔓 21:48  
+⌛ April 23, 2020 at 01:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/brains-brains-and-automobiles  
+seriesid=`581006` titleid=`748134` id=`0Wvt7Y1YSi-LvGM4BZ2iZQ` mediaid=`3f3df1d4af80a4fa81e98d940762d48db2a1b277`  
+_Stan poisons Roger in an attempt to keep Roger from leaving home. But when Roger slips into a coma, Stan must use experimental CIA technology to go into Roger's mind in order to wake Roger up. Meanwhile at summer camp, Steve and his friends attempt to become cool kids through unorthodox means._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277870073671.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277870073671.jpg" height="144px" /></a>
