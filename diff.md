@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 26, 2020 at 01:00:35 EDT_
+_Last Update: April 26, 2020 at 01:30:40 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2003434
-**Bob's Burgers S01E12 - Lobsterfest**  
-TV-14 🔒 21:33  
-⌛ May 3, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/lobsterfest  
-seriesid=`2003422` titleid=`2003434` id=`OqDpbb5iRy2a9Kybe4j4Tw` mediaid=`190cdf5a9c6f68479214bd74a4f4f9b21ce68efa`  
-_After the town's annual Lobsterfest is cancelled by a storm, Bob defiantly opens his doors for a festive celebration. When he wakes the next morning, Bob finds the restaurant in disarray, and the town has spurned him. Meanwhile, the kids secretly try lobster for the first time._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214840324846.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214840324846.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 822207
+**American Dad S06E04 - Stan's Food Restaurant**  
+TV-14 🔒 21:48  
+⌛ May 3, 2020 at 00:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stans-food-restaurant  
+seriesid=`581006` titleid=`822207` id=`T2nEdzPeTh-5COE75E0diw` mediaid=`6fcc0633eabcccd1b48b7d3a9f2090aac3495a22`  
+_Roger offers to help Stan live out his dream of opening a restaurant until their different visions for what the eatery should be causes havoc._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433561333518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433561333518.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2003424
-**Bob's Burgers S01E02 - Crawl Space**  
-TV-PG 🔓 21:30  
-⌛ April 26, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/crawl-space  
-seriesid=`2003422` titleid=`2003424` id=`7CPkiayCT7q_siDtFOqY8Q` mediaid=`3cb82ec5aa600492a3760a3298972f1c815f6e0c`  
-_When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 748138
+**American Dad S05E01 - Don't Look a Smith Horse in the Mouth**  
+TV-14 🔓 21:41  
+⌛ April 26, 2020 at 00:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/dont-look-a-smith-horse-in-the-mouth  
+seriesid=`581006` titleid=`748138` id=`nQ9t2dWZQ-aHsr7rbV6NUQ` mediaid=`55dd0002dec4342b1e8b710abfb840d705404369`  
+_When Francine demands that Stan get rid of his gas-guzzling SUV because it's draining the family of money, he hatches a plan with Roger at the local horse track to avoid giving up his ride._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15283829436196.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15283829436196.jpg" height="144px" /></a>
