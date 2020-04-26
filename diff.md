@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 26, 2020 at 05:30:36 EDT_
+_Last Update: April 26, 2020 at 06:00:36 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-### 2219231
-**Black Clover S03E14 - The Final Invaders**  
-TV-PG 🔒 21:17  
-⌛ May 17, 2020 at 04:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/the-final-invaders  
-seriesid=`2143080` titleid=`2219231` id=`AXGndaM3C8QgH-t19IVt` mediaid=`1824c6be8271bf2b1e9feac84956f49f171fc283`  
-_As Noelle struggles against Fana, Asta and Mimosa fight to counter the elvish Rill's sinister spells. Charmy learns a shocking fact about her origins._  
-<a href="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231034181-BlackClover_114.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231034181-BlackClover_114.jpg" height="144px" /></a>
+2193955 JoJo's Bizarre Adventure: 1  
+### 2193979
+**JoJo's Bizarre Adventure S04E23 - Crush and Talking Mouth**  
+TV-MA-LV 🔒 22:39  
+⌛ May 17, 2020 at 05:29:00 EDT  
+https://www.adultswim.com/videos/jo-jos-bizarre-adventure/crush-and-talking-mouth  
+seriesid=`2193955` titleid=`2193979` id=`AXGngCbJC8QgH-t19IVy` mediaid=`647779542a2affb89f28c9a33d0a22699f183246`  
+_As Giorno is teleported between puddles with Squalo's shark attached firmly to his jugular, Narancia tries to sniff out the perpetrator using his CO2 tracer but is inhibited by Tiziano's tongue-fusing Stand._  
+<a href="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231045222-jojo_goldenwind_023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231045222-jojo_goldenwind_023.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
