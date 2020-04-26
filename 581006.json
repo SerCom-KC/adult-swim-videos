@@ -389,54 +389,6 @@
         "auth": false
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1587873540,
-        "tms_id": "EP007164450238",
-        "description": "Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts.",
-        "title_suggest": {
-            "input": [
-                "Bazooka Steve",
-                "Steve"
-            ]
-        },
-        "title": "Bazooka Steve",
-        "type": "episode",
-        "expiration_date": 1583726340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.1,
-        "episode_number": "12",
-        "original_air_date": 1496885400,
-        "auth_launch_date": 1587268800,
-        "clip_order": null,
-        "modified": 1586966166,
-        "media_id": "123955f7177e4d93e49b5e6257cfca8bbd43958e",
-        "airing_id": "RADS1004152000082941",
-        "id": "AitmXh48RkeeOF5Mpxu47w",
-        "slug": "bazooka-steve",
-        "views": 1397,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870777267015.jpg",
-        "created": 1496549449,
-        "title_id": "2069543",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1586966166,
-        "first_published": 1496549449,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1583125200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg",
-        "cma_id": "1411253"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1588139940,
@@ -1036,6 +988,57 @@
         "launch_date": 1554735600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg",
         "cma_id": "1453904"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1588478340,
+        "tms_id": "EP007164450244",
+        "description": "While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort.",
+        "title_suggest": {
+            "input": [
+                "The Long Bomb",
+                "Long Bomb",
+                "Bomb"
+            ]
+        },
+        "expiration_date": 1560441540,
+        "title": "The Long Bomb",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.53,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "18",
+        "original_air_date": 1503538200,
+        "clip_order": null,
+        "auth_launch_date": 1587873600,
+        "modified": 1587445087,
+        "media_id": "12e569fcc167d47273c8b99276cc8fa2d1a0a970",
+        "airing_id": "RADS1004202000083922",
+        "id": "vChQxBcdSiCMUBywWd3bJA",
+        "slug": "the-long-bomb",
+        "views": 3377,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151820800335318.jpg",
+        "created": 1500652774,
+        "season_number": "12",
+        "title_id": "2069549",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1587445087,
+        "first_published": 1503205876,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1559746800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg",
+        "cma_id": "1458910"
     },
     {
         "auth": true,
