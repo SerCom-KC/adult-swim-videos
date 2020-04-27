@@ -1716,6 +1716,61 @@
         "cma_id": "1108284"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370083",
+        "description": "Vegeta unleashes an awesome attack that leaves Cell shorthanded, but the monster responds with a brutal beat down, knocking the Saiyan prince unconscious and clearing the way for Trunks to enter the fight!",
+        "title_suggest": {
+            "input": [
+                "Vegeta's Final Push! Defeat the Invincible Cell!",
+                "Final Push! Defeat the Invincible Cell!",
+                "Push! Defeat the Invincible Cell!",
+                "Defeat the Invincible Cell!",
+                "the Invincible Cell!",
+                "Invincible Cell!",
+                "Cell!"
+            ]
+        },
+        "title": "Vegeta's Final Push! Defeat the Invincible Cell!",
+        "type": "episode",
+        "expiration_date": 1590983999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1318,
+        "episode_number": "81",
+        "original_air_date": 1470540600,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1587570371,
+        "media_id": "8a6cfa4ecd1a427290419f1fea1b5e523e14ba5f",
+        "airing_id": "RADS1004222000085385",
+        "id": "PX49ibGXTPSTO5-JO7O5ow",
+        "slug": "vegetas-final-push-defeat-the-invincible-cell",
+        "views": 3708,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_1912101612405-dragonballzkai_081_air_cid-2WFV9.jpg",
+        "created": 1470384640,
+        "title_id": "2031692",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1587570371,
+        "first_published": 1470384640,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1587960000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101612405-dragonballzkai_081_air_cid-2WFV9.jpg",
+        "cma_id": "1265812"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
@@ -3262,7 +3317,7 @@
         "cma_id": "1235569"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370078",
