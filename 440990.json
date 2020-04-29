@@ -600,6 +600,56 @@
         "cma_id": "1490841"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1588746540,
+        "tms_id": "EP002960010139",
+        "rating": 7.744,
+        "description": "Peter's ham radio communicates with the ghost of Ronald Regan; Quagmire discovers he fathered a baby girl; Stewie has himself cloned.",
+        "title_suggest": {
+            "input": [
+                "Quagmire's Baby",
+                "Baby"
+            ]
+        },
+        "type": "episode",
+        "title": "Quagmire's Baby",
+        "expiration_date": 1505890799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1307.7732,
+        "episode_number": "6",
+        "original_air_date": 1259035200,
+        "clip_order": null,
+        "auth_launch_date": 1588141800,
+        "modified": 1587745329,
+        "media_id": "09fcdcfa3e32d94dbb4d907344b550854cc09750",
+        "airing_id": "RADS1004242000087149",
+        "id": "nXW40XoTQy2GCaIoamwlIg",
+        "slug": "quagmires-baby",
+        "views": 62006,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153270604804710.jpg",
+        "created": 1402945465,
+        "title_id": "748753",
+        "season_number": "8",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1587745329,
+        "tags": [],
+        "rating_count": 125,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1505286000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153270604804710.jpg",
+        "cma_id": "1471491"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1583733540,
