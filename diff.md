@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 30, 2020 at 01:00:34 EDT_
+_Last Update: April 30, 2020 at 01:30:31 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-### 2003430
-**Bob's Burgers S01E08 - Art Crawl**  
-TV-14 🔓 21:32  
-⌛ April 30, 2020 at 00:29:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/art-crawl  
-seriesid=`2003422` titleid=`2003430` id=`Cy0lgbZFSg-5BlAVxPmVlw` mediaid=`7a16bff0a13713f66441a6183cb17dd8f43d3379`  
-_When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg" height="144px" /></a>
+### 2003440
+**Bob's Burgers S02E05 - Food Truckin**  
+TV-14 🔒 21:12  
+⌛ May 6, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/food-truckin  
+seriesid=`2003422` titleid=`2003440` id=`8DUYQP_IT42r1-_igBVonQ` mediaid=`e8baf0ab87d7fd4f36d576afc30939bdc0c94c09`  
+_Bob's family persuades him to buy a food truck and compete with the ones stealing his customers right outside the restaurant. When the Belchers bring their food truck to the "Lolla-Pa-Foods-A-Festival," the Belcher kids' mischief causes the foodies and other truck owners to riot against them._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221626924138.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221626924138.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
