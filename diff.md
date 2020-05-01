@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 1, 2020 at 09:30:58 EDT_
+_Last Update: May 1, 2020 at 11:00:36 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2201017 Food Wars!: 1  
-### 2201036
-**Food Wars! S01E19 - The Chosen One**  
-TV-MA-S 🔒 23:09  
-⌛ May 4, 2020 at 23:59:59 EDT  
-https://www.adultswim.com/videos/food-wars/the-chosen-one  
-seriesid=`2201017` titleid=`2201036` id=`AW3018p9adNs2hMNfuWQ` mediaid=`b5e2717fe6fc51f915f7ffae2e0e84fe0ea4369a`  
-_The lists for the Fall Selection are out! When the topic is announced, Soma seeks out a former colleague of his father's and finds more than he bargained for._  
-<a href="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022150414-foodwars_019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022150414-foodwars_019.jpg" height="144px" /></a>
+343621 Samurai Jack: 1  
+### 434841
+**Samurai Jack S03E10 - XXXVI**  
+TV-Y7-FV 🔓 22:34  
+⌛ May 26, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxxvi  
+seriesid=`343621` titleid=`434841` id=`6yY4dmSxQ86cR886b3nTYQ` mediaid=`7d3f8354de220e63fd7e64d266708a9609455bf7`  
+_Jack falls into a hidden temple sanctuary to find monks trained like him in the style of the Ancient Master. The Ancient Master's Son then tells Jack of a portal to send him home, but in order to use it, his new friends must be sacrificed._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471417179-samjack_036.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471417179-samjack_036.jpg" height="144px" /></a>
