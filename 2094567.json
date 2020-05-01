@@ -51,54 +51,6 @@
         "cma_id": "1281565"
     },
     {
-        "ott_launch_date": 1540823340,
-        "auth": false,
-        "auth_expiration_date": 1588305540,
-        "tms_id": "",
-        "description": "Patient 62 catches Amnesia during a routine arachnophobia treatment. Dr Roberts attempts to cure him by hand using fundamentals. Randy gets catfished.",
-        "title_suggest": {
-            "input": [
-                "Amnesia"
-            ]
-        },
-        "expiration_date": 1585195140,
-        "type": "episode",
-        "title": "Amnesia",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 692.27,
-        "episode_number": "4",
-        "original_air_date": 1540786500,
-        "auth_launch_date": 1585281600,
-        "clip_order": null,
-        "media_id": "9f95e3410fb941f0623ec25152414f14b9ab8cba",
-        "modified": 1584884887,
-        "airing_id": "RADS1003222000075963",
-        "id": "AWG_IK9XNWyh42wYnk9J",
-        "slug": "amnesia",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341036549-dreamcorpllc_204_air_cid-3N6HG.jpg",
-        "created": 1519330045,
-        "season_number": "2",
-        "title_id": "2133688",
-        "tv_rating": "tv-14-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1584884887,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1582779600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341036549-dreamcorpllc_204_air_cid-3N6HG.jpg"
-    },
-    {
         "ott_launch_date": 1541431740,
         "auth": true,
         "auth_expiration_date": 1588910340,
@@ -292,6 +244,55 @@
         "launch_date": 1584590400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037588-dreamcorpllc_207_air_cid-3NYH8.jpg",
         "id": "AWLVU03eTdxzjxdCldX1",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1542641400,
+        "auth_expiration_date": 1591329540,
+        "tms_id": "",
+        "description": "Patient 30 visits Dream Corp LLC for treatment of a long list of \"symptoms.\" A chemical spill in the Lab puts the facility on lock down. A new side of Ahmed is revealed while 88 is put in grave danger.",
+        "title_suggest": {
+            "input": [
+                "Staff Infection",
+                "Infection"
+            ]
+        },
+        "expiration_date": 1588219140,
+        "type": "episode",
+        "title": "Staff Infection",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.6,
+        "episode_number": "9",
+        "original_air_date": 1542603600,
+        "auth_launch_date": 1588305600,
+        "clip_order": null,
+        "media_id": "d01f3050a693271ee1c64b08ace75a38f5c8b6e8",
+        "modified": 1588149369,
+        "airing_id": "RADS1003292000078068",
+        "slug": "staff-infection",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341419221-dreamcorpllc_209_air_cid-3NXJP.jpg",
+        "created": 1531767336,
+        "season_number": "2",
+        "title_id": "2133693",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1588149369,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1585800000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341419221-dreamcorpllc_209_air_cid-3NXJP.jpg",
+        "id": "AWSkcq60qBveI_0AhK5D",
         "auth": true
     },
     {
