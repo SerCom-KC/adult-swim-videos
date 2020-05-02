@@ -148,54 +148,6 @@
         "auth": false
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1588397340,
-        "tms_id": "EP007164450100",
-        "description": "When Hayley and her old boyfriend, Jeff, elope, Stan freaks out and offers a reward to anyone who can stop them, sparking a wild goose chase throughout town.",
-        "title_suggest": {
-            "input": [
-                "100 A.D.",
-                "A.D."
-            ]
-        },
-        "title": "100 A.D.",
-        "type": "episode",
-        "expiration_date": 1504328399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1307.5062,
-        "episode_number": "1",
-        "original_air_date": 1287201600,
-        "auth_launch_date": 1587792600,
-        "clip_order": null,
-        "modified": 1587407167,
-        "media_id": "4947bca08f41009118b17ccaa16c30e4fca4bb76",
-        "airing_id": "RADS1004202000083899",
-        "id": "D2diUmZ4SQCQm3lQPfcAGg",
-        "slug": "100-a-d",
-        "views": 2846,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15289902355402.jpg",
-        "created": 1445574046,
-        "title_id": "748140",
-        "tv_rating": "tv-14",
-        "season_number": "6",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1587407167,
-        "first_published": 1445574046,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503723600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15289902355402.jpg",
-        "cma_id": "1459744"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1588910340,
@@ -1135,7 +1087,7 @@
         "cma_id": "1458910"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1588399140,
         "tms_id": "EP007164450101",
