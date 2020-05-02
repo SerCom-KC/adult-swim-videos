@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 1, 2020 at 14:30:43 EDT_
+_Last Update: May 2, 2020 at 00:00:35 EDT_
 ## Video added
 ### Summary
-343621 Samurai Jack: 1  
-### 434841
-**Samurai Jack S03E10 - XXXVI**  
-TV-Y7-FV 🔓 22:34  
-⌛ May 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xxxvi  
-seriesid=`343621` titleid=`434841` id=`6yY4dmSxQ86cR886b3nTYQ` mediaid=`19637666a950277209f93c27acecaff45929964c`  
-_Jack falls into a hidden temple sanctuary to find monks trained like him in the style of the Ancient Master. The Ancient Master's Son then tells Jack of a portal to send him home, but in order to use it, his new friends must be sacrificed._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471417179-samjack_036.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471417179-samjack_036.jpg" height="144px" /></a>
+581006 American Dad: 1  
+### 822212
+**American Dad S06E13 - I Am the Walrus**  
+TV-14 🔒 21:47  
+⌛ May 8, 2020 at 23:29:00 EDT  
+https://www.adultswim.com/videos/american-dad/i-am-the-walrus  
+seriesid=`581006` titleid=`822212` id=`Du6G4iljT02OZdbvI5Dn0g` mediaid=`2be39a0d40bdb59fac2f3bf0830062cd3636eede`  
+_Stan resorts to extreme and cruel measures to humiliate Steve and maintain his alpha-male status in the house, and Hayley and Jeff turn to Principal Lewis for marriage counseling._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296797543646.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296797543646.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
