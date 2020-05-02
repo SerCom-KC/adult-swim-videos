@@ -291,6 +291,56 @@
     },
     {
         "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1589005740,
+        "tms_id": "EP002960010145",
+        "rating": 7.859756,
+        "description": "Peter believes he possesses psychic powers; Chris falls for a classmate with Down's Syndrome.",
+        "title_suggest": {
+            "input": [
+                "Extra Large Medium",
+                "Large Medium",
+                "Medium"
+            ]
+        },
+        "type": "episode",
+        "title": "Extra Large Medium",
+        "expiration_date": 1506052740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1306.8055,
+        "episode_number": "12",
+        "original_air_date": 1266897600,
+        "clip_order": null,
+        "auth_launch_date": 1588401000,
+        "modified": 1588101248,
+        "media_id": "b74df30f0050499e5d03b8a48a1ce8c2b3e3bd1c",
+        "airing_id": "RADS1004272000088343",
+        "id": "U1ByX963TlmN4vi1fjnr3g",
+        "slug": "extra-large-medium",
+        "views": 98915,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152027957656113.jpg",
+        "created": 1402945465,
+        "title_id": "748763",
+        "season_number": "8",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1588101248,
+        "tags": [],
+        "rating_count": 164,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1505458800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152027957656113.jpg",
+        "cma_id": "1473963"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1588402740,
         "tms_id": "EP002960010134",
         "rating": 7.5670104,
@@ -481,51 +531,6 @@
         "launch_date": 1492925400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192400349953.jpg",
         "cma_id": "1382934"
-    },
-    {
-        "auth": false,
-        "auth_expiration_date": 1588400940,
-        "tms_id": "EP002960010132",
-        "rating": 6.6271195,
-        "description": "Cleveland's psychic cousin reads Peter's past, when Peter was the founder of the city of Quahog.",
-        "title_suggest": {
-            "input": [
-                "Peter's Progress",
-                "Progress"
-            ]
-        },
-        "type": "episode",
-        "title": "Peter's Progress",
-        "expiration_date": 1505626199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1302.0007,
-        "episode_number": "16",
-        "original_air_date": 1244516400,
-        "clip_order": null,
-        "auth_launch_date": 1587796200,
-        "modified": 1587407647,
-        "media_id": "20fcf6ca30f2f39d63ea600990b02ee582dc9bc1",
-        "airing_id": "RADS1004202000083901",
-        "id": "d07dcSHWTAWxxTdZPdX_DA",
-        "slug": "peters-progress",
-        "views": 80155,
-        "created": 1402945465,
-        "title_id": "748747",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "published": 1587407647,
-        "tags": [],
-        "rating_count": 177,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1505021400,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_7276379534943648350.jpg",
-        "cma_id": "1469220"
     },
     {
         "auth": true,
