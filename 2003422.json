@@ -532,6 +532,51 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1589003940,
+        "tms_id": "EP012792980018",
+        "description": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
+        "title_suggest": {
+            "input": [
+                "Beefsquatch"
+            ]
+        },
+        "title": "Beefsquatch",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1292.1576,
+        "episode_number": "9",
+        "original_air_date": 1378173600,
+        "clip_order": null,
+        "auth_launch_date": 1588399200,
+        "modified": 1588110727,
+        "media_id": "d834c8e03f201daba9dac1c65ec593aa2ba1baac",
+        "airing_id": "RADS1004272000088346",
+        "id": "lnvX70L6QRqXFM7gA-gnyg",
+        "slug": "beefsquatch",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216331674219.jpg",
+        "created": 1403213495,
+        "season_number": "2",
+        "title_id": "2003444",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1588110727,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg",
+        "cma_id": "2003444"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1588831140,
         "tms_id": "EP012792980020",
         "description": "Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help.",
