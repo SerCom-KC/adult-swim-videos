@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 3, 2020 at 04:31:00 EDT_
+_Last Update: May 3, 2020 at 05:00:47 EDT_
 ## Video added
 ### Summary
-612379 Paranoia Agent: 1  
-### 613790
-**Paranoia Agent S01E02 - The Golden Shoes**  
-TV-14-LV 🔒 22:26  
-⌛ May 24, 2020 at 04:29:00 EDT  
-https://www.adultswim.com/videos/paranoia-agent/the-golden-shoes  
-seriesid=`612379` titleid=`613790` id=`AXGiel8TC8QgH-t19ITt` mediaid=`7b5f68a3beff3a3d996cb94dc829a2e74ee80cc5`  
-_Rumors spread Ichi is responsible for mysterious attacks._  
-<a href="https://media.cdn.adultswim.com/uploads/20200422/thumbnails/2_204221120563-ParanoiaAgent_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200422/thumbnails/2_204221120563-ParanoiaAgent_002.jpg" height="144px" /></a>
+2143080 Black Clover: 1  
+### 2219232
+**Black Clover S03E15 - Mastermind**  
+TV-14-V 🔒 22:14  
+⌛ May 24, 2020 at 04:59:00 EDT  
+https://www.adultswim.com/videos/black-clover/mastermind  
+seriesid=`2143080` titleid=`2219232` id=`AXGndme8Rs3h4hI_X3F6` mediaid=`19cc530c947ffddf7bcddd877acd90f6c2169490`  
+_The elf Ronne's betrayal pulls back the curtain to reveal a truly fiendish puppet master who's not nearly done pulling the strings, not by a long shot._  
+<a href="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231034420-BlackClover_115.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231034420-BlackClover_115.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
