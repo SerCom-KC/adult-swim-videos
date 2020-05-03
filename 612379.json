@@ -92,6 +92,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1590308940,
+        "tms_id": "",
+        "description": "Rumors spread Ichi is responsible for mysterious attacks.",
+        "title_suggest": {
+            "input": [
+                "The Golden Shoes",
+                "Golden Shoes",
+                "Shoes"
+            ]
+        },
+        "title": "The Golden Shoes",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+        "duration": 1346.5786,
+        "episode_number": "2",
+        "original_air_date": "1117944000",
+        "auth_launch_date": 1588494600,
+        "clip_order": null,
+        "airing_id": "RADS1004272000088338",
+        "media_id": "7b5f68a3beff3a3d996cb94dc829a2e74ee80cc5",
+        "modified": 1588243925,
+        "slug": "the-golden-shoes",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200422/thumbnails/1_204221120563-ParanoiaAgent_002.jpg",
+        "created": 1587568860,
+        "season_number": "1",
+        "title_id": "613790",
+        "tv_rating": "tv-14-lv",
+        "published": 1588243925,
+        "tags": [],
+        "collection_title": "Paranoia Agent",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200422/thumbnails/2_204221120563-ParanoiaAgent_002.jpg",
+        "id": "AXGiel8TC8QgH-t19ITt",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Chaos, outrage, and an unforgiveable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 1a!",
