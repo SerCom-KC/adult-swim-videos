@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 3, 2020 at 03:30:33 EDT_
+_Last Update: May 3, 2020 at 04:01:01 EDT_
 ## Video added
 ### Summary
-440990 Family Guy: 1  
-### 748765
-**Family Guy S08E14 - Peter-Assment**  
-TV-14 🔒 21:43  
-⌛ May 10, 2020 at 02:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/peter-assment  
-seriesid=`440990` titleid=`748765` id=`slQjoZPMTGeWE8R09DOefw` mediaid=`a4fe1487e4b49854511f3b83932d9f58f0b35135`  
-_Peter turns journalist after TMZ buys his amateur video; Peter is sexually-harassed by his boss._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4415227540832853399.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4415227540832853399.jpg" height="144px" /></a>
+2209292 Demon Slayer: 1  
+2142267 My Hero Academia: 1  
+### 2209318
+**Demon Slayer S01E26 - New Mission**  
+TV-MA-V 🔒 23:39  
+⌛ May 24, 2020 at 03:59:00 EDT  
+https://www.adultswim.com/videos/demon-slayer/new-mission  
+seriesid=`2209292` titleid=`2209318` id=`AXGnd9G7C8QgH-t19IVv` mediaid=`718dac75e90517f706109ca529f4a99e57e1b7f0`  
+_New threats begin to make their move as Tanjiro matches his training opponent in strength at long last and soon receives his first assignment in months._  
+<a href="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231036153-DemonSlayer_026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231036153-DemonSlayer_026.jpg" height="144px" /></a>
+### 2214126
+**My Hero Academia S04E22 - School Festival Start!!**  
+ 🔒 22:56  
+⌛ May 24, 2020 at 03:29:00 EDT  
+https://www.adultswim.com/videos/my-hero-academia/school-festival-start  
+seriesid=`2142267` titleid=`2214126` id=`AXHGcLkERs3h4hI_X3P8` mediaid=`0c76f3095028ec632749f8a5b9755d09ce589078`  
+_Izuku must stop Gentle Criminal and his partner, La Brava, or else the school festival will be cancelled._  
+<a href="https://media.cdn.adultswim.com/uploads/20200429/thumbnails/2_204291056433-myheroacademia_085.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200429/thumbnails/2_204291056433-myheroacademia_085.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-440990 Family Guy: 1  
-### 748750
-**Family Guy S08E02 - Family Goy**  
-TV-14 🔒 21:47  
-⌛ May 3, 2020 at 02:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/family-goy  
-seriesid=`440990` titleid=`748750` id=`DrtRuBE1RKiJGskYFtGfvg` mediaid=`69b51aac180abaf1f1d9d1375adb19b32b8b0ba0`  
-_Peter falls in love with a life-size Kathy Ireland cut-out; Lois discovers she's Jewish._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192399957897.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192399957897.jpg" height="144px" /></a>
+No videos were removed.  
