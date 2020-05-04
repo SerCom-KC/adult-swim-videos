@@ -93,7 +93,7 @@
         "launch_date": 1588565700,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261638488-BeefHouse_101_dup-20200106.jpg",
         "id": "AXCDcC1z3HMJfT8do8yU",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -239,6 +239,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261639502-BeefHouse_102_dup-20200106.jpg",
         "id": "AXCDcR-N3HMJfT8do8yW",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1590380040,
+        "tms_id": "",
+        "description": "As Tim and the gang create a spooky haunted house, Eric comes face-to-face with his terrifying past.",
+        "title_suggest": {
+            "input": [
+                "Crab Dip",
+                "Dip"
+            ]
+        },
+        "title": "Crab Dip",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXA_fsNN3HMJfT8do8kA",
+        "duration": 675.5082,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1588565700,
+        "clip_order": null,
+        "media_id": "dfde8b5081642efa253652d8f3167c4f7dd48a13",
+        "modified": 1588381566,
+        "airing_id": "RADS1004302000089944",
+        "slug": "crab-dip",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261640145-BeefHouse_104_dup-20200106.jpg",
+        "created": 1582753218,
+        "season_number": "1",
+        "title_id": "2215451",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1588381566,
+        "tags": [],
+        "collection_title": "Beef House",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261640145-BeefHouse_104_dup-20200106.jpg",
+        "id": "AXCDcYG83HMJfT8do8yX",
         "auth": true
     }
 ]
