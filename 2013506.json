@@ -4526,6 +4526,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1590377340,
+        "tms_id": "EP018336730038",
+        "description": "Choo Choo, broh. Catch this train broh.",
+        "title_suggest": {
+            "input": [
+                "Never Ricking Morty",
+                "Ricking Morty",
+                "Morty"
+            ]
+        },
+        "title": "Never Ricking Morty",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1287.0858,
+        "episode_number": "6",
+        "original_air_date": "1588563000",
+        "auth_launch_date": 1588563000,
+        "clip_order": null,
+        "airing_id": "RADS1005032000090903",
+        "media_id": "556783b642937767d8ebe25f3cab6c49250df8cf",
+        "modified": 1588553446,
+        "slug": "never-ricking-morty",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/1_204231214340-rickandmorty_407_dup-20200416.jpg",
+        "created": 1587658479,
+        "season_number": "4",
+        "title_id": "2206492",
+        "tv_rating": "tv-14-dlv",
+        "published": 1588553446,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231214340-rickandmorty_407_dup-20200416.jpg",
+        "id": "AXGn0daHRs3h4hI_X3F_",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
