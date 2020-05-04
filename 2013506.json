@@ -4514,6 +4514,65 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Co-creator Dan Harmon and writer Jeff Loveness dive into the many literal literary devices in 'Never Ricking Morty' and their feelings about disgusting yet enviable anatomical features.",
+        "title_suggest": {
+            "input": [
+                "Inside The Episode 'Never Ricking Morty'",
+                "The Episode 'Never Ricking Morty'",
+                "Episode 'Never Ricking Morty'",
+                "'Never Ricking Morty'",
+                "Ricking Morty'",
+                "Morty'"
+            ]
+        },
+        "title": "Inside The Episode 'Never Ricking Morty'",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 97.42,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1588254508,
+        "slug": "inside-the-episode-never-ricking-morty",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200428/thumbnails/1_204281233284-RAM_BTS_Inside407.jpg",
+        "created": 1588091628,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1588254508,
+        "tags": [
+            "rick and morty",
+            "behind the scenes",
+            "inside episode",
+            "dan harmon",
+            "justin roiland",
+            "jeff loveness",
+            "never ricking morty",
+            "adult swim",
+            "promo"
+        ],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1588593600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200428/thumbnails/2_204281233284-RAM_BTS_Inside407.jpg",
+        "id": "AXHBoyorC8QgH-t19IgT",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
