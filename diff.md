@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 5, 2020 at 03:00:29 EDT_
+_Last Update: May 5, 2020 at 04:30:32 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-440990 Family Guy: 1  
-### 865345
-**Family Guy S11E01 - Into Fat Air**  
-TV-14 🔓 21:30  
-⌛ May 5, 2020 at 02:29:00 EDT  
-https://www.adultswim.com/videos/family-guy/into-fat-air  
-seriesid=`440990` titleid=`865345` id=`auWpzpFCQPuSQiQz0oClkQ` mediaid=`1dbd9d6a805c45d2b1538f2a18dd50544d280c25`  
-_When the successful family of Lois' ex-boyfriend, Ross Fishman, mentions that they're all climbing Mount Everest, Peter announces that the Griffins are climbing it too...and will beat the Fishmans to the top.  But the Griffins are woefully unprepared for the trip._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221638509023.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221638509023.jpg" height="144px" /></a>
+2007823 Infomercials: 1  
+### 2222972
+**Infomercials S01E34 - Skeleton Landlord**  
+TV-MA-L 🔒 11:15  
+⌛ May 26, 2020 at 03:59:00 EDT  
+https://www.adultswim.com/videos/infomercials/skeleton-landlord  
+seriesid=`2007823` titleid=`2222972` id=`AXHGdRFORs3h4hI_X3QA` mediaid=`eff3eee8dd534461ff99b283761f7b139d4ffabe`  
+_After two hip young tenants fail to pay their rent 12 months in a row, Skeleton pays them a visit and quickly realizes his need to appear cool vastly outweighs his desire for rent money._  
+<a href="https://media.cdn.adultswim.com/uploads/20200429/thumbnails/2_20429111277-infomercials_SkeletonLandlord_Pilot.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200429/thumbnails/2_20429111277-infomercials_SkeletonLandlord_Pilot.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
