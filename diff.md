@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 5, 2020 at 02:30:29 EDT_
+_Last Update: May 5, 2020 at 03:00:29 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2030320
-**Bob's Burgers S04E19 - The Kids Run Away**  
-TV-14-DLSV 🔒 21:29  
-⌛ May 5, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-run-away  
-seriesid=`2003422` titleid=`2030320` id=`HitQgvSzThuAVR_UfR4vrg` mediaid=`1e654ff19406e44ebbb2203b6987b21a2c10ae58`  
-_Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 865345
+**Family Guy S11E01 - Into Fat Air**  
+TV-14 🔓 21:30  
+⌛ May 5, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/into-fat-air  
+seriesid=`440990` titleid=`865345` id=`auWpzpFCQPuSQiQz0oClkQ` mediaid=`1dbd9d6a805c45d2b1538f2a18dd50544d280c25`  
+_When the successful family of Lois' ex-boyfriend, Ross Fishman, mentions that they're all climbing Mount Everest, Peter announces that the Griffins are climbing it too...and will beat the Fishmans to the top.  But the Griffins are woefully unprepared for the trip._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221638509023.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221638509023.jpg" height="144px" /></a>
