@@ -140,6 +140,55 @@
         "cma_id": "1490789"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1589342340,
+        "tms_id": "EP002960010285",
+        "description": "Brian decides to do stand up comedy, but when his set begins to tank, he starts stealing Stewie's Twitter material.",
+        "title_suggest": {
+            "input": [
+                "Guy, Robot",
+                "Robot"
+            ]
+        },
+        "expiration_date": 1587959940,
+        "title": "Guy, Robot",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1300.1334668,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "2",
+        "original_air_date": 1445310000,
+        "clip_order": null,
+        "auth_launch_date": 1588737600,
+        "modified": 1588379646,
+        "media_id": "328552a36ca60f04a6b85d39645f504a594f1b37",
+        "airing_id": "RADS1005012000090670",
+        "id": "RAsk22suQ9yV8VE-zt_oVQ",
+        "slug": "guy-robot",
+        "views": 3,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1445456150,
+        "season_number": "14",
+        "title_id": "2064577",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1588379646,
+        "first_published": 1476335443,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1587355200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/guy-robot/familyguy_1302_air_cid-2M6R4.jpg",
+        "cma_id": "1438005"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1586757540,
