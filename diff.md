@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 7, 2020 at 02:30:33 EDT_
+_Last Update: May 7, 2020 at 03:00:32 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-### 2003441
-**Bob's Burgers S02E06 - Dr. Yap**  
-TV-14 🔒 21:32  
-⌛ May 7, 2020 at 01:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/dr-yap  
-seriesid=`2003422` titleid=`2003441` id=`mXBWtsgfTi6STJB21Re0nw` mediaid=`a409c80e69cea0e5280555c6aaa2bd0673808013`  
-_Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+### 748756
+**Family Guy S08E08 - Dog Gone**  
+TV-14 🔒 21:46  
+⌛ May 7, 2020 at 02:29:00 EDT  
+https://www.adultswim.com/videos/family-guy/dog-gone  
+seriesid=`440990` titleid=`748756` id=`w0u1j6pkQe6BX5GWRrIX_A` mediaid=`d3cf91949f84ddb5e25c28d45cd55a3b7a20fcd3`  
+_Brian accidentally kills a dog; the Griffins hire a housekeeper._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192400136303.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192400136303.jpg" height="144px" /></a>
