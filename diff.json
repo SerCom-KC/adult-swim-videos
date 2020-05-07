@@ -1,54 +1,64 @@
 {
-    "updated": 1588834980,
-    "added": [],
-    "removed": [
+    "updated": 1588867496,
+    "added": [
         {
-            "auth": true,
-            "auth_expiration_date": 1588834740,
-            "tms_id": "EP002960010142",
-            "rating": 7.4400005,
-            "description": "When Mr. Pewterschmidt has a heart attack, Peter takes over his business.",
+            "auth_expiration_date": null,
+            "tms_id": "",
+            "description": "Longtime RAM storyboard artist Erica Hayes has been promoted to director this season. We take a look at her life\u2019s journey up to this point (6 years ago she was working as a coffee barista). Then, she'll break down her newfound responsibilities of overseeing the completion of animatics in season 4.",
             "title_suggest": {
                 "input": [
-                    "Business Guy",
-                    "Guy"
+                    "Directing Rick and Morty",
+                    "Rick and Morty",
+                    "and Morty",
+                    "Morty"
                 ]
             },
-            "type": "episode",
-            "title": "Business Guy",
-            "expiration_date": 1493449199,
+            "title": "Directing Rick and Morty",
+            "expiration_date": null,
+            "type": "clip",
             "platforms": [
-                "web",
-                "mobile"
+                "android",
+                "fire-tv",
+                "ios",
+                "online-exclusive",
+                "roku"
             ],
-            "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-            "duration": 1261.8939,
-            "episode_number": "9",
-            "original_air_date": 1261454400,
+            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+            "duration": 173.27,
+            "original_air_date": null,
+            "auth_launch_date": null,
             "clip_order": null,
-            "auth_launch_date": 1588230000,
-            "modified": 1587831014,
-            "media_id": "85a320ce455f661354865d390bd48573851d471b",
-            "airing_id": "RADS1004252000088112",
-            "id": "8HoFRu4ISe-YQtoF7hS7RQ",
-            "slug": "business-guy",
-            "views": 58758,
-            "created": 1402945465,
-            "title_id": "748760",
-            "season_number": "8",
-            "tv_rating": "tv-14",
-            "active": false,
-            "published": 1587831014,
-            "tags": [],
-            "rating_count": 100,
-            "collection_title": "Family Guy",
-            "modified_by": "ODT Listener",
-            "launch_date": 1492844400,
-            "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8392515885556995828.jpg",
-            "cma_id": "1383485",
-            "collection_slug": "family-guy",
-            "collection_title_id": "440990",
-            "online_exclusives": false
+            "airing_id": "",
+            "media_id": "",
+            "modified": 1588865191,
+            "slug": "directing-rick-and-morty",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200422/thumbnails/1_204221127503-RAM_BTS_Directing.jpg",
+            "created": 1587569296,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
+            "published": 1588865191,
+            "tags": [
+                "rick and morty",
+                "season 4",
+                "justin roiland",
+                "dan harmon",
+                "trailer",
+                "adult swim",
+                "animation"
+            ],
+            "collection_title": "Rick and Morty",
+            "disable_ads": false,
+            "modified_by": "Jonas Eason",
+            "launch_date": 1588867200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200422/thumbnails/2_204221127503-RAM_BTS_Directing.jpg",
+            "id": "AXGigQMnC8QgH-t19ITx",
+            "auth": false,
+            "collection_slug": "rick-and-morty",
+            "collection_title_id": "2013506",
+            "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
