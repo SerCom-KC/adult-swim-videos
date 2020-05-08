@@ -46,6 +46,57 @@
         "cma_id": "981355"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1589515140,
+        "tms_id": "EP002960010287",
+        "description": "After learning his childhood home has finally been sold after his mother\u2019s death, Peter and the gang plan on breaking in to retrieve Peter\u2019s old porn video collection.",
+        "title_suggest": {
+            "input": [
+                "Peter, Chris, & Brian",
+                "Chris, & Brian",
+                "& Brian",
+                "Brian"
+            ]
+        },
+        "expiration_date": 1586145540,
+        "title": "Peter, Chris, & Brian",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1302.3670337,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "3",
+        "original_air_date": 1447732800,
+        "clip_order": null,
+        "auth_launch_date": 1588910400,
+        "modified": 1588513207,
+        "media_id": "ae36e83ca218617e91a3a3fc900e47b58f38219b",
+        "airing_id": "RADS1005012000090710",
+        "id": "61Y8OOmVSoGUKMyCKiUbGg",
+        "slug": "peter-chris-brian",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1447444001,
+        "season_number": "14",
+        "title_id": "2064578",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1588513207,
+        "first_published": 1476940243,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1585540800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/peter-chris-brian/familyguy_1303_air_cid-2XX7N.jpg",
+        "cma_id": "1442270"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1587362340,
@@ -646,5 +697,54 @@
         "launch_date": 1577077200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/peternormal-activity/familyguy_1216_air_cid-2XX7M.jpg",
         "cma_id": "809300"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1589515140,
+        "tms_id": "EP002960010289",
+        "description": "Peter's estranged sister Karen shows up to the Griffin family's Thanksgiving dinner, and Joe, Cleveland, and Quagmire realize that she is the famous wrestler, Heavy Flo.",
+        "title_suggest": {
+            "input": [
+                "Peter's Sister",
+                "Sister"
+            ]
+        },
+        "expiration_date": 1587959940,
+        "title": "Peter's Sister",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1301.2669336,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "4",
+        "original_air_date": 1448337600,
+        "clip_order": null,
+        "auth_launch_date": 1588910400,
+        "modified": 1588511646,
+        "media_id": "e2e6700dd63abab62aea11615a6e9f68cd48774e",
+        "airing_id": "RADS1005012000090712",
+        "id": "urRzi84KRtaRBNmMFEikLg",
+        "slug": "peters-sister",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1448307026,
+        "season_number": "14",
+        "title_id": "2064579",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1588511646,
+        "first_published": 1476940224,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1587355200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-sister/familyguy_1304_air_cid-2XX84.jpg",
+        "cma_id": "1446375"
     }
 ]
