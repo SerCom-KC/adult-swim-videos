@@ -5556,7 +5556,7 @@
         "launch_date": 1589101200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_2041595432-BlackClover_113.jpg",
         "id": "AXF-HlH_C8QgH-t19IJy",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1610427599,
@@ -5604,7 +5604,7 @@
         "launch_date": 1587891600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg",
         "id": "AXFAjI36Rs3h4hI_X2x1",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1589705940,
@@ -5694,6 +5694,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231034420-BlackClover_115.jpg",
         "id": "AXGndme8Rs3h4hI_X3F6",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1590915540,
+        "tms_id": "EP032284200116",
+        "description": "Nozel's Mercury spells are the perfect match for Patry's Light Magic, but Asta's plan to drive the elf out of Vangeance's body doesn't go as expected.",
+        "title_suggest": {
+            "input": [
+                "The Ultimate Natural Enemy",
+                "Ultimate Natural Enemy",
+                "Natural Enemy",
+                "Enemy"
+            ]
+        },
+        "title": "The Ultimate Natural Enemy",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1351.8171,
+        "episode_number": "116",
+        "original_air_date": "1589088600",
+        "auth_launch_date": 1589101200,
+        "clip_order": null,
+        "airing_id": "RADS1005062000092658",
+        "media_id": "c946ef130cc0e716eb05b275f6feadb3d974abc4",
+        "modified": 1588796047,
+        "slug": "the-ultimate-natural-enemy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200505/thumbnails/1_20551158364-BlackClover_116.jpg",
+        "created": 1588694320,
+        "season_number": "3",
+        "title_id": "2219233",
+        "tv_rating": "tv-14-v",
+        "published": 1588796047,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200505/thumbnails/2_20551158364-BlackClover_116.jpg",
+        "id": "AXHlj4bGRs3h4hI_X3Ys",
         "auth": true
     }
 ]
