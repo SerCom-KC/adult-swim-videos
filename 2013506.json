@@ -4737,6 +4737,50 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1590982140,
+        "tms_id": "EP018336730039",
+        "description": "Get off my face broh.",
+        "title_suggest": {
+            "input": [
+                "Promortyus"
+            ]
+        },
+        "title": "Promortyus",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1274.5733,
+        "episode_number": "7",
+        "original_air_date": "1589167800",
+        "auth_launch_date": 1589167800,
+        "clip_order": null,
+        "airing_id": "RADS1005102000094645",
+        "media_id": "0d17c0e87dab926c4991b90c94e96891314f8380",
+        "modified": 1589165436,
+        "slug": "promortyus",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200510/thumbnails/1_205102235256-rickandmorty_407_dup-20200416.jpg",
+        "created": 1589160909,
+        "season_number": "4",
+        "title_id": "2206491",
+        "tv_rating": "tv-14-dlv",
+        "published": 1589165436,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200510/thumbnails/2_205102235256-rickandmorty_407_dup-20200416.jpg",
+        "id": "AXIBXxpvRs3h4hI_X3hZ",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
