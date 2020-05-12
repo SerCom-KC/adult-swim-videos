@@ -4828,6 +4828,58 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "The crew behind Promortyus answers viewer calls while discussing the intricacies of time jumps, alien facehuggers, and more!",
+        "title_suggest": {
+            "input": [
+                "Rick and Morty Companion Podcast Live: EPISODE #406 - Promortyus",
+                "and Morty Companion Podcast Live: EPISODE #406 - Promortyus",
+                "Morty Companion Podcast Live: EPISODE #406 - Promortyus",
+                "Companion Podcast Live: EPISODE #406 - Promortyus",
+                "Podcast Live: EPISODE #406 - Promortyus",
+                "Live: EPISODE #406 - Promortyus",
+                "EPISODE #406 - Promortyus",
+                "#406 - Promortyus",
+                "- Promortyus",
+                "Promortyus"
+            ]
+        },
+        "title": "Rick and Morty Companion Podcast Live: EPISODE #406 - Promortyus",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 3828.87,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1589306631,
+        "slug": "rick-and-morty-companion-podcast-live-episode-406-promortyus",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200512/thumbnails/1_205121355546-as_podcast_rickandmortycompanion_20200511.jpg",
+        "created": 1589227524,
+        "season_number": "0",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1589306631,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1589306400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200512/thumbnails/2_205121355546-as_podcast_rickandmortycompanion_20200511.jpg",
+        "id": "AXIFV5BzC8QgH-t19I7C",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
