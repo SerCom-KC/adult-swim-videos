@@ -507,58 +507,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1589255940,
-        "tms_id": "EP002960010284",
-        "description": "It's nearly Fathers' Day, and when Peter learns about Joe's distant relationship with his father Bud, he invites Bud to town.",
-        "title_suggest": {
-            "input": [
-                "Papa Has a Rollin' Son",
-                "Has a Rollin' Son",
-                "a Rollin' Son",
-                "Rollin' Son",
-                "Son"
-            ]
-        },
-        "expiration_date": 1587355140,
-        "title": "Papa Has a Rollin' Son",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1299.1001001,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "22",
-        "original_air_date": 1444705200,
-        "clip_order": null,
-        "auth_launch_date": 1588651200,
-        "modified": 1588379413,
-        "media_id": "c7672afaaf8df3a657d3ad3b10f6fcc8a0a7d903",
-        "airing_id": "RADS1005012000090667",
-        "id": "t27qtYTfTBiQ41uuL_AXpw",
-        "slug": "papa-has-a-rollin-son",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1444659523,
-        "season_number": "13",
-        "title_id": "809302",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1588379413,
-        "first_published": 1476335424,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1586750400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg",
-        "cma_id": "1437963"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1589428740,
         "tms_id": "EP002960010286",
         "description": "After watching a bad sequel to their favorite horror film, \"Maniac Pope\", Peter and the guys decide they could write a better scary movie themselves.",
@@ -653,5 +601,54 @@
         "launch_date": 1587355200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-sister/familyguy_1304_air_cid-2XX84.jpg",
         "cma_id": "1446375"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1589860740,
+        "tms_id": "EP002960010294",
+        "description": "With Lois and her mother Babs out at the spa, Peter is forced to spend the afternoon her father, Carter. The two are quickly sucked into a \"promising\" online deal involving loaning a large sum of money to a Nigerian prince.",
+        "title_suggest": {
+            "input": [
+                "Scammed Yankees",
+                "Yankees"
+            ]
+        },
+        "expiration_date": 1586750340,
+        "title": "Scammed Yankees",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1298.9676343,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "9",
+        "original_air_date": 1453780800,
+        "clip_order": null,
+        "auth_launch_date": 1589256000,
+        "modified": 1588828813,
+        "media_id": "b76fbf98e5d988de7cae16c2603dab7744b1fbb6",
+        "airing_id": "RADS1005062000092724",
+        "id": "xGyDNJDeSeSH9b2nifffgg",
+        "slug": "scammed-yankees",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1453407410,
+        "season_number": "14",
+        "title_id": "2064584",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1588828813,
+        "first_published": 1480097471,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1586145600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/scammed-yankees/familyguy_1309_air_cid-2XXDM.jpg",
+        "cma_id": "1460784"
     }
 ]
