@@ -301,55 +301,6 @@
         "cma_id": "1456194"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1589342340,
-        "tms_id": "EP002960010285",
-        "description": "Brian decides to do stand up comedy, but when his set begins to tank, he starts stealing Stewie's Twitter material.",
-        "title_suggest": {
-            "input": [
-                "Guy, Robot",
-                "Robot"
-            ]
-        },
-        "expiration_date": 1587959940,
-        "title": "Guy, Robot",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1300.1334668,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "2",
-        "original_air_date": 1445310000,
-        "clip_order": null,
-        "auth_launch_date": 1588737600,
-        "modified": 1588379646,
-        "media_id": "328552a36ca60f04a6b85d39645f504a594f1b37",
-        "airing_id": "RADS1005012000090670",
-        "id": "RAsk22suQ9yV8VE-zt_oVQ",
-        "slug": "guy-robot",
-        "views": 3,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1445456150,
-        "season_number": "14",
-        "title_id": "2064577",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1588379646,
-        "first_published": 1476335443,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1587355200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/guy-robot/familyguy_1302_air_cid-2M6R4.jpg",
-        "cma_id": "1438005"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1587967140,
@@ -404,6 +355,57 @@
         "launch_date": 1589169600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/chris-has-got-a-date-date-date-date-date/familyguy_1402_air_cid-2YX37.jpg",
         "cma_id": "1295404"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1589947140,
+        "tms_id": "EP002960010295",
+        "description": "After Peter damages his phone in the shower playing with apps, he gives it to Chris. Chris uses his new phone to send a not-safe-for-school picture to his crush Marcy.",
+        "title_suggest": {
+            "input": [
+                "An App a Day",
+                "App a Day",
+                "a Day",
+                "Day"
+            ]
+        },
+        "title": "An App a Day",
+        "type": "episode",
+        "expiration_date": 1584935940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1300.3670337,
+        "episode_number": "12",
+        "original_air_date": 1456200000,
+        "clip_order": null,
+        "auth_launch_date": 1589342400,
+        "modified": 1588956246,
+        "media_id": "5b0cbf45e0ebbfa322310220b5d725e1e89f54f0",
+        "airing_id": "RADS1005082000094075",
+        "id": "fYDMbEwEQxGqsEzZ4V8nvA",
+        "slug": "an-app-a-day",
+        "views": 7,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1456207838,
+        "title_id": "2064587",
+        "tv_rating": "tv-14",
+        "season_number": "14",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1588956246,
+        "first_published": 1456207838,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1584331200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/an-app-a-day/familyguy_1312_air_cid-2XXDT.jpg",
+        "cma_id": "1460742"
     },
     {
         "auth": false,
