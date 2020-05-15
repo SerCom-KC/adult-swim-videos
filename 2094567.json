@@ -150,55 +150,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1541431740,
-        "auth": false,
-        "auth_expiration_date": 1589515140,
-        "tms_id": "",
-        "description": "Roberts' old roommate, Bill Ruff, pays a visit to Dream Corp LLC under the guise of selling bad office artwork. Everyone in the staff is charmed except for 88 who makes it his mission to expose Bill's real intentions.",
-        "title_suggest": {
-            "input": [
-                "Wild Bill",
-                "Bill"
-            ]
-        },
-        "expiration_date": 1586404740,
-        "type": "episode",
-        "title": "Wild Bill",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 722.8,
-        "episode_number": "6",
-        "original_air_date": 1541394900,
-        "auth_launch_date": 1586491200,
-        "clip_order": null,
-        "media_id": "fce5d29975e084228ae88991d9e54a831495035e",
-        "modified": 1588685416,
-        "airing_id": "RADS1004062000080313",
-        "id": "AWLVTk9gTdxzjxdCldXh",
-        "slug": "wild-bill",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg",
-        "created": 1523997101,
-        "season_number": "2",
-        "title_id": "2133690",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1588685416,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1583985600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg"
-    },
-    {
         "ott_launch_date": 1542036540,
         "auth_expiration_date": 1590119940,
         "tms_id": "",
@@ -295,6 +246,55 @@
         "launch_date": 1585800000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341419221-dreamcorpllc_209_air_cid-3NXJP.jpg",
         "id": "AWSkcq60qBveI_0AhK5D",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1543246140,
+        "auth_expiration_date": 1592539140,
+        "tms_id": "",
+        "description": "Patient 75 comes to Dream Corp LLC to help clean up his life and regain the respect of his children. T.E.R.R.Y. introduces the staff to his new friend Leonard.",
+        "title_suggest": {
+            "input": [
+                "Dust Bunnies",
+                "Bunnies"
+            ]
+        },
+        "expiration_date": 1589428740,
+        "type": "episode",
+        "title": "Dust Bunnies",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.87,
+        "episode_number": "11",
+        "original_air_date": 1543208400,
+        "auth_launch_date": 1589515200,
+        "clip_order": null,
+        "media_id": "640cebe885ee4bc3e66afc2ec2d7c8dbac3ed105",
+        "modified": 1589117766,
+        "airing_id": "RADS1005082000094352",
+        "slug": "dust-bunnies",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341420127-dreamcorpllc_211_air_cid-3P4V7.jpg",
+        "created": 1535565172,
+        "season_number": "2",
+        "title_id": "2133695",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1589117766,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1587009600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341420127-dreamcorpllc_211_air_cid-3P4V7.jpg",
+        "id": "AWWG0Q2Oh5enQuYyHyR0",
         "auth": true
     },
     {
