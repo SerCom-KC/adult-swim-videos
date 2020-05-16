@@ -4788,6 +4788,62 @@
     {
         "auth_expiration_date": null,
         "tms_id": "",
+        "description": "Do as he says broh.",
+        "title_suggest": {
+            "input": [
+                "Sneak Peek: Vat of Acid",
+                "Peek: Vat of Acid",
+                "Vat of Acid",
+                "of Acid",
+                "Acid"
+            ]
+        },
+        "title": "Sneak Peek: Vat of Acid",
+        "expiration_date": 1590814740,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 29.97,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1589306403,
+        "slug": "sneak-peek-vat-of-acid",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_2056119541-promo_RAM_Top408_Sun_30.jpg",
+        "created": 1588777768,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1589306403,
+        "tags": [
+            "rick and morty",
+            "sneak peek",
+            "preview",
+            "vat of acid",
+            "season 4",
+            "adult swim",
+            "promo"
+        ],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": 1589644800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056119541-promo_RAM_Top408_Sun_30.jpg",
+        "id": "AXHqiNbeC8QgH-t19Iuh",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
         "description": "The episode's director, writer, and artists field viewer phone calls and chat about the details of Never Ricking Morty.",
         "title_suggest": {
             "input": [
