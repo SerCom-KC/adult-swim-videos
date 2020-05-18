@@ -1,7 +1,6 @@
 {
-    "updated": 1589817636,
-    "added": [],
-    "removed": [
+    "updated": 1589819430,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
@@ -33,7 +32,7 @@
             "clip_order": null,
             "airing_id": "",
             "media_id": "",
-            "modified": 1589815632,
+            "modified": 1589817641,
             "slug": "sneak-peek-childrick-of-mort",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200518/thumbnails/1_205181126234-promo_RAM_Top409_Sun_30.jpg",
@@ -41,7 +40,7 @@
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
-            "published": 1589815632,
+            "published": 1589817641,
             "tags": [
                 "rick and morty",
                 "season 4",
@@ -55,8 +54,8 @@
             ],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
-            "modified_by": "Duke Nguyen",
-            "launch_date": 1589774400,
+            "modified_by": "Dene Shepherd",
+            "launch_date": 1589817600,
             "poster": "https://media.cdn.adultswim.com/uploads/20200518/thumbnails/2_205181126234-promo_RAM_Top409_Sun_30.jpg",
             "id": "AXIoZRQlRs3h4hI_X3tC",
             "auth": false,
@@ -64,5 +63,6 @@
             "collection_title_id": "2013506",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
