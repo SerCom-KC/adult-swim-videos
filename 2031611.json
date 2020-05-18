@@ -3818,6 +3818,61 @@
         "cma_id": "1062202"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370086",
+        "description": "Goku and Gohan emerge from their training session with Super Saiyan hair and a strange sense of calm. Goku's newfound strength is out of this world, but he's not sure it will be enough to defeat Cell!",
+        "title_suggest": {
+            "input": [
+                "Training Complete! Goku Sizes Up the Competition!",
+                "Complete! Goku Sizes Up the Competition!",
+                "Goku Sizes Up the Competition!",
+                "Sizes Up the Competition!",
+                "Up the Competition!",
+                "the Competition!",
+                "Competition!"
+            ]
+        },
+        "title": "Training Complete! Goku Sizes Up the Competition!",
+        "type": "episode",
+        "expiration_date": 1592798340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1318,
+        "episode_number": "84",
+        "original_air_date": 1472355000,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1589358490,
+        "media_id": "921a2bc48921d322b74a816c2f672eb8e02c4716",
+        "airing_id": "RADS1005132000094896",
+        "id": "s_soKnC_QnS9oGGUrV9ncw",
+        "slug": "training-complete-goku-sizes-up-the-competition",
+        "views": 4066,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_1912101613230-dragonballzkai_084_air_cid-2WFVN.jpg",
+        "created": 1472019023,
+        "title_id": "2031695",
+        "tv_rating": "tv-pg",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1589358490,
+        "first_published": 1472019023,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1589774400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101613230-dragonballzkai_084_air_cid-2WFVN.jpg",
+        "cma_id": "1276827"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597451340,
@@ -3983,7 +4038,7 @@
         "cma_id": "1055926"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
         "tms_id": "EP012647370081",
