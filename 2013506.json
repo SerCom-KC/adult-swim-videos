@@ -4940,6 +4940,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1591586940,
+        "tms_id": "EP018336730040",
+        "description": "The one with the acid vat, broh.",
+        "title_suggest": {
+            "input": [
+                "The Vat of Acid Episode",
+                "Vat of Acid Episode",
+                "of Acid Episode",
+                "Acid Episode",
+                "Episode"
+            ]
+        },
+        "title": "The Vat of Acid Episode",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1355.6543,
+        "episode_number": "8",
+        "original_air_date": "1589772600",
+        "auth_launch_date": 1589772600,
+        "clip_order": null,
+        "airing_id": "RADS1005172000095413",
+        "media_id": "93c4bcce954a9832d0b5ae686b646a009a682d43",
+        "modified": 1589769171,
+        "slug": "the-vat-of-acid-episode",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200511/thumbnails/1_205111534456-rickandmorty_408_dup-20200429.jpg",
+        "created": 1589225692,
+        "season_number": "4",
+        "title_id": "2206493",
+        "tv_rating": "tv-14-dlv",
+        "published": 1589769171,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200511/thumbnails/2_205111534456-rickandmorty_408_dup-20200429.jpg",
+        "id": "AXIFO51VRs3h4hI_X3iF",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "The crew behind Promortyus answers viewer calls while discussing the intricacies of time jumps, alien facehuggers, and more!",
