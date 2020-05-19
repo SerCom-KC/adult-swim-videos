@@ -104,6 +104,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1590465540,
+        "tms_id": "EP002960010264",
+        "description": "With Peter's urging, Joe publishes his first children's book; but his lack of stage presence prompts Joe's publisher to ask Peter to become the face of the book.",
+        "title_suggest": {
+            "input": [
+                "Book of Joe",
+                "of Joe",
+                "Joe"
+            ]
+        },
+        "title": "Book of Joe",
+        "type": "episode",
+        "expiration_date": 1580101140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1291.5236,
+        "episode_number": "2",
+        "original_air_date": 1413255600,
+        "auth_launch_date": 1589860800,
+        "clip_order": null,
+        "modified": 1589476087,
+        "media_id": "7abd113e8cf0cad83e8a3553adbe241a762b7dd4",
+        "airing_id": "RADS1005142000095077",
+        "id": "6ct8MAGzRWqQxkXLNrPEIA",
+        "slug": "book-of-joe",
+        "views": 2664,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15242349831052.jpg",
+        "created": 1413264023,
+        "title_id": "809136",
+        "tv_rating": "tv-14",
+        "season_number": "13",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1589476087,
+        "first_published": 1413264023,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1579496400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15242349831052.jpg",
+        "cma_id": "1416202"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1590292740,
         "tms_id": "EP002960010302",
         "description": "Chris decides to run for homecoming king and, to the surprise of everyone, wins! Lois, Brian, and Stewie fear that Chris's classmates only voted for him in order to pull a prank on him at the dance.",
@@ -602,54 +651,5 @@
         "launch_date": 1584936000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg",
         "cma_id": "1465189"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1589860740,
-        "tms_id": "EP002960010294",
-        "description": "With Lois and her mother Babs out at the spa, Peter is forced to spend the afternoon her father, Carter. The two are quickly sucked into a \"promising\" online deal involving loaning a large sum of money to a Nigerian prince.",
-        "title_suggest": {
-            "input": [
-                "Scammed Yankees",
-                "Yankees"
-            ]
-        },
-        "expiration_date": 1586750340,
-        "title": "Scammed Yankees",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1298.9676343,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "9",
-        "original_air_date": 1453780800,
-        "clip_order": null,
-        "auth_launch_date": 1589256000,
-        "modified": 1588828813,
-        "media_id": "b76fbf98e5d988de7cae16c2603dab7744b1fbb6",
-        "airing_id": "RADS1005062000092724",
-        "id": "xGyDNJDeSeSH9b2nifffgg",
-        "slug": "scammed-yankees",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1453407410,
-        "season_number": "14",
-        "title_id": "2064584",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1588828813,
-        "first_published": 1480097471,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1586145600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/scammed-yankees/familyguy_1309_air_cid-2XXDM.jpg",
-        "cma_id": "1460784"
     }
 ]
