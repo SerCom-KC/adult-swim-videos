@@ -308,6 +308,56 @@
         "cma_id": "1488947"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1590465540,
+        "tms_id": "EP012792980073",
+        "description": "Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. The kids make an ice rink in the freezer.",
+        "title_suggest": {
+            "input": [
+                "Friends with Burger-Fits",
+                "with Burger-Fits",
+                "Burger-Fits"
+            ]
+        },
+        "expiration_date": 1550591940,
+        "title": "Friends with Burger-Fits",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1301.2669336,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "3",
+        "original_air_date": 1442883600,
+        "clip_order": null,
+        "auth_launch_date": 1589860800,
+        "modified": 1589476355,
+        "media_id": "f5614ca6513be1771ebc2149900fbe59a6209964",
+        "airing_id": "RADS1005142000095075",
+        "id": "Pt77Jy4sQGykImwmhEjCMg",
+        "slug": "friends-with-burger-fits",
+        "views": 2,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1441802468,
+        "season_number": "5",
+        "title_id": "2065450",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1589476355,
+        "first_published": 1442892021,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1549900800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg",
+        "cma_id": "1470042"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1581919140,
@@ -503,56 +553,6 @@
         "launch_date": 1561348800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg",
         "cma_id": "1485981"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1589860740,
-        "tms_id": "EP012792980103",
-        "description": "When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant.",
-        "title_suggest": {
-            "input": [
-                "Stand by Gene",
-                "by Gene",
-                "Gene"
-            ]
-        },
-        "title": "Stand by Gene",
-        "type": "episode",
-        "expiration_date": 1557154740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1301.6006006,
-        "episode_number": "12",
-        "original_air_date": 1479958200,
-        "clip_order": null,
-        "auth_launch_date": 1589256000,
-        "modified": 1588829048,
-        "media_id": "d59cc0f48fca963b77685f6a1157497bc801e69d",
-        "airing_id": "RADS1005062000092722",
-        "id": "m5N_4JZOS_ulq3qtLDOwoA",
-        "slug": "stand-by-gene",
-        "views": 12468,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1479859820,
-        "title_id": "2097200",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1588829048,
-        "first_published": 1479859820,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1556550000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg",
-        "cma_id": "1480642"
     },
     {
         "auth": true,
