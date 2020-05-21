@@ -2,6 +2,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1590638340,
+        "tms_id": "EP002960010266",
+        "description": "A fight over a chew-rope with Peter leaves Brian toothless and disfigured. But after a visit with Quagmire\u00c6s dentist, Brian puts his new \u00f4toothy\u00f6 smile to the test, as a real estate agent.",
+        "title_suggest": {
+            "input": [
+                "Brian the Closer",
+                "the Closer",
+                "Closer"
+            ]
+        },
+        "title": "Brian the Closer",
+        "type": "episode",
+        "expiration_date": 1580705940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1291.1899,
+        "episode_number": "4",
+        "original_air_date": 1416283200,
+        "auth_launch_date": 1590033600,
+        "clip_order": null,
+        "modified": 1589628969,
+        "media_id": "f22bce3f078850324e70250b33030664989ca46a",
+        "airing_id": "RADS1005152000095232",
+        "id": "0a9lj0f0TnKBJbFi6k0ojw",
+        "slug": "brian-the-closer",
+        "views": 2598,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267590705012.jpg",
+        "created": 1416291626,
+        "title_id": "809285",
+        "tv_rating": "tv-14",
+        "season_number": "13",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1589628969,
+        "first_published": 1416291626,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1580101200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267590705012.jpg",
+        "cma_id": "809285"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1590119940,
         "tms_id": "EP002960010297",
         "description": "After hearing that Stewie has been having nightmares, Brian decides to help.  He tries to cure Stewie by making a list of Stewie's fears and using exposure therapy to deal with them.",
@@ -599,54 +648,5 @@
         "launch_date": 1589774400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/carter-and-tricia/familyguy_1405_air_cid-30YY1.jpg",
         "cma_id": "1495893"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1590033540,
-        "tms_id": "EP002960010296",
-        "description": "A drunk Peter drinks water from a fire hydrant; but when the water overflows, Peter ends up destroying the public library.  As a result of Peter's drunken hijinks, Major Adam West raises the legal drinking age to fifty.",
-        "title_suggest": {
-            "input": [
-                "Underage Peter",
-                "Peter"
-            ]
-        },
-        "title": "Underage Peter",
-        "type": "episode",
-        "expiration_date": 1585540740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1301.9676343,
-        "episode_number": "15",
-        "original_air_date": 1456804800,
-        "clip_order": null,
-        "auth_launch_date": 1589428800,
-        "modified": 1589009410,
-        "media_id": "a2c2630e91d827e68c6d6f5a868ebc765077df35",
-        "airing_id": "RADS1005082000094099",
-        "id": "pkYPWvxZRWKJqb_9FFeBxQ",
-        "slug": "underage-peter",
-        "views": 7,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1456812619,
-        "title_id": "2064588",
-        "tv_rating": "tv-14",
-        "season_number": "14",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1589009410,
-        "first_published": 1456812619,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1584936000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg",
-        "cma_id": "1465189"
     }
 ]
