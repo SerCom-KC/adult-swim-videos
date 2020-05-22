@@ -1,61 +1,7 @@
 {
-    "updated": 1590189083,
-    "added": [
-        {
-            "auth": false,
-            "ott_launch_date": 1446135420,
-            "auth_expiration_date": 1545195540,
-            "tms_id": "EP017757420009",
-            "rating": 7.4444447,
-            "description": "On a very special Aqua TV Show Show, we explore the deadly potential of viral marketing.",
-            "title_suggest": {
-                "input": [
-                    "Piranha Germs",
-                    "Germs"
-                ]
-            },
-            "type": "episode",
-            "title": "Piranha Germs",
-            "expiration_date": 1590551999,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-            "duration": 676.8340284,
-            "episode_number": "9",
-            "original_air_date": 1381723200,
-            "clip_order": null,
-            "auth_launch_date": 1542171600,
-            "modified": 1590189011,
-            "media_id": "4c5d6924b9798414d39c40f73782fd9447bc2e39",
-            "airing_id": "RADS1001071900059105",
-            "id": "tuPW5XMwTZa0-1CdVTvCvQ",
-            "slug": "piranha-germs",
-            "views": 97401,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251056266-atvss_1208_dup-20131009.jpg",
-            "created": 1402945460,
-            "title_id": "2005994",
-            "season_number": "10",
-            "tv_rating": "tv-14-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1590189011,
-            "tags": [],
-            "rating_count": 225,
-            "collection_title": "Aqua Teen Hunger Force",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1548738000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251056266-atvss_1208_dup-20131009.jpg",
-            "cma_id": "2005994",
-            "collection_slug": "aqua-teen-hunger-force",
-            "collection_title_id": "340537",
-            "online_exclusives": false
-        },
+    "updated": 1590191841,
+    "added": [],
+    "removed": [
         {
             "auth": false,
             "ott_launch_date": 1449849600,
@@ -122,6 +68,5 @@
             "collection_title_id": "340537",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
