@@ -2,110 +2,131 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 22, 2020 at 00:30:34 EDT_
+_Last Update: May 22, 2020 at 13:00:35 EDT_
 ## Video added
-### Summary
-581006 American Dad: 3  
-2003422 Bob's Burgers: 2  
-2094567 DREAM CORP LLC: 1  
-### 2019416
-**American Dad S10E01 - Blonde Ambition**  
-TV-14 🔒 21:01  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/blonde-ambition  
-seriesid=`581006` titleid=`2019416` id=`bCTt_9u2RIqanyRvylNJqw` mediaid=`ae7c4429f9a90926ee5da04b81765976f6d55a16`  
-_When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg" height="144px" /></a>
-### 2019417
-**American Dad S10E02 - CIAPOW**  
-TV-14 🔒 21:02  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ciapow  
-seriesid=`581006` titleid=`2019417` id=`J2yASXnmQXC3fGXJHQOU7g` mediaid=`6ecfc892cd6e3da64fdba07d16892dbf3d156ae0`  
-_When Bullock sends a drone to do the job Stan and his colleagues are supposed to do, Stan is determined to prove that humans are better than robots. Meanwhile, Francine and the rest of the family participate in a slow motion race in the living room._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg" height="144px" /></a>
-### 2069553
-**American Dad S12E22 - West to Mexico**  
-TV-14-DLV 🔒 21:14  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/west-to-mexico  
-seriesid=`581006` titleid=`2069553` id=`vz3Y_dibRLuu8ZDlkfKtbQ` mediaid=`26317c90dca92ff6ac96b0624ea53f4a60d9b9a6`  
-_In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg" height="144px" /></a>
-### 2065457
-**Bob's Burgers S05E06 - Father of the Bob**  
-TV-PG-DL 🔒 21:40  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/father-of-the-bob  
-seriesid=`2003422` titleid=`2065457` id=`2fdFjJsaSXygZtPs-pfBqg` mediaid=`681ca032a7df40b43a645f0c9a4ff96ad1a3df60`  
-_At Bob's father's Christmas party, Bob and "Big Bob" rehash an old argument and try to outdo each other in the kitchen. Meanwhile, the kids compete to find the best gift for their dad._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/father-of-the-bob/bobsburgers_418_air_cid-2PH4J.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/father-of-the-bob/bobsburgers_418_air_cid-2PH4J.jpg" height="144px" /></a>
-### 2065454
-**Bob's Burgers S05E07 - Tina Tailor Soldier Spy**  
-TV-PG-DL 🔒 21:43  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/tina-tailor-soldier-spy  
-seriesid=`2003422` titleid=`2065454` id=`nmcdZVZUR8iGAUPGiABYIQ` mediaid=`65908625d24382510d50ce1b9f85f1b24162b774`  
-_Tina goes undercover to find the mole who is giving away their cookie secrets. Tired of the kids counting her gray hairs, Linda goes blonde. When she starts making dumb mistakes at work, Bob worries being blonde has gone to her head!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg" height="144px" /></a>
-### 2133696
-**DREAM CORP LLC S02E12 - Can't Touch This**  
-TV-14-DLV 🔒 11:17  
-⌛ June 25, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dream-corp-llc/cant-touch-this  
-seriesid=`2094567` titleid=`2133696` id=`AWWGr788h5enQuYyHyOP` mediaid=`1088c25ca93b497af265097216b760a9a5e1db29`  
-_Skin to skin contact feels like fire to Patient 66. With a history of minimal human touch or relationships, Dr Roberts prescribes her a Dream Date._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341420375-dreamcorpllc_212_air_cid-3MRXJ.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341420375-dreamcorpllc_212_air_cid-3MRXJ.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-2094567 Dream Corp LLC: 1  
-581006 American Dad: 3  
-### 2097204
-**Bob's Burgers S06E16 - Bye Bye Boo Boo**  
-TV-PG 🔒 21:40  
-⌛ May 21, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/bye-bye-boo-boo  
-seriesid=`2003422` titleid=`2097204` id=`Vu4iC1McRVG1appphTnL2w` mediaid=`d585b126a7913bd60f72f0bca2e3e41929eb1cb7`  
-_When Louise hears that Boo Boo is leaving Boyz 4 Now, she enters a contest that could give Tina the chance to meet him. Meanwhile, Bob and Linda learn an interesting piece of history regarding the restaurant, which leads to tension between Bob and Jimmy Pesto._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg" height="144px" /></a>
-### 2097203
-**Bob's Burgers S06E15 - Pro Tiki/Con Tiki**  
-TV-PG 🔒 21:41  
-⌛ May 21, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/pro-tiki-con-tiki  
-seriesid=`2003422` titleid=`2097203` id=`vHn_yL2YSJaGa4pHqijGZg` mediaid=`85023daed95dfa1e0fa1f0a4a36b43b3f6bbbb4e`  
-_When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg" height="144px" /></a>
-### 2133691
-**Dream Corp LLC S02E07 - Guys and Dads**  
-TV-14-DLS 🔒 11:16  
-⌛ May 21, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dream-corp-llc/guys-and-dads  
-seriesid=`2094567` titleid=`2133691` id=`AWLVU03eTdxzjxdCldX1` mediaid=`805eb24c0e3f97931785a04374b1da3e43a0f161`  
-_A dejected Mr. Simzer brings his teenage son to Dream Corp LLC for treatment. The staff realizes his son isn't the only one who needs Dream Therapy. Randy loves Mama's Meat Pops._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037588-dreamcorpllc_207_air_cid-3NYH8.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037588-dreamcorpllc_207_air_cid-3NYH8.jpg" height="144px" /></a>
-### 2069537
-**American Dad S12E06 - Roger's Baby**  
-TV-14 🔓 21:13  
-⌛ May 21, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/rogers-baby  
-seriesid=`581006` titleid=`2069537` id=`M1LxpLBLR8qZPNTNON4wTw` mediaid=`3bf1b31e4d30b909c87bd5e7d5847e274013cbf3`  
-_Hayley experiences what pregnancy would be like after Roger agrees to give birth to Jeff so he can be human again. Snot's feelings are hurt when Steve secretly signs him up for a makeover._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg" height="144px" /></a>
-### 2069536
-**American Dad S12E05 - Bahama Mama**  
-TV-14 🔓 21:14  
-⌛ May 21, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/bahama-mama  
-seriesid=`581006` titleid=`2069536` id=`NGLrMHi2SMaOBw4VfXHxTw` mediaid=`695ce2af38d44bffdca9bbd052d1287629ab734b`  
-_Stan is upset at the idea of becoming a grandfather after Hayley and Jeff announce they're trying to have a baby. Steve and Klaus join a drug gang after Steve decides to take being an uncle extra seriously._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175246934826.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175246934826.jpg" height="144px" /></a>
-### 2069538
-**American Dad S12E07 - Ninety North, Zero West**  
-TV-14 🔓 21:14  
-⌛ May 21, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ninety-north-zero-west  
-seriesid=`581006` titleid=`2069538` id=`tws7PtVrRlKyTN3PRz_gKQ` mediaid=`e374e0327ea852a8a2e8c3fbfdccb9a344bbec85`  
-_The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg" height="144px" /></a>
+2209292 Demon Slayer: 5  
+340537 Aqua Teen Hunger Force: 5  
+344089 Home Movies: 5  
+### 2209311
+**Demon Slayer S01E19 - Hinokami**  
+TV-MA-V 🔒 21:57  
+⌛ May 25, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/demon-slayer/hinokami  
+seriesid=`2209292` titleid=`2209311` id=`AXCIWbf23HMJfT8do80j` mediaid=`0e9df8198260e34ddfb0a78530e02b8c5732123a`  
+_The Demon Slayer Hashira storms Mt. Natagumo, rescuing the trio and inspiring Inosuke to challenge the superior swordsman before him in a boar-headed test of strength._  
+<a href="https://media.cdn.adultswim.com/uploads/20200227/thumbnails/2_20227153260-DemonSlayer_019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200227/thumbnails/2_20227153260-DemonSlayer_019.jpg" height="144px" /></a>
+### 2209312
+**Demon Slayer S01E20 - Pretend Family**  
+TV-MA-V 🔒 20:56  
+⌛ May 25, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/demon-slayer/pretend-family  
+seriesid=`2209292` titleid=`2209312` id=`AXC_yA8HGRcVO2K2pm_Y` mediaid=`10fdbbb61d7adb9692e963d96a07f4e483b7a4d7`  
+_The distant memory of his father inspires Tanjiro with a new move to aid him in his fight against Rui._  
+<a href="https://media.cdn.adultswim.com/uploads/20200309/thumbnails/2_20391051598-DemonSlayer_020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200309/thumbnails/2_20391051598-DemonSlayer_020.jpg" height="144px" /></a>
+### 2209313
+**Demon Slayer S01E21 - Against Corps Rules**  
+TV-MA-V 🔒 20:56  
+⌛ May 25, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/demon-slayer/against-corps-rules  
+seriesid=`2209292` titleid=`2209313` id=`AXDqOBT5C8QgH-t19H23` mediaid=`4cf45a2e4589fb180a6099abe744a4d283530222`  
+_Rui is visited by memories of his life before becoming a demon._  
+<a href="https://media.cdn.adultswim.com/uploads/20200317/thumbnails/2_203171638215-DemonSlayer_021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200317/thumbnails/2_203171638215-DemonSlayer_021.jpg" height="144px" /></a>
+### 2209314
+**Demon Slayer S01E22 - Master of the Mansion**  
+TV-MA-V 🔒 20:56  
+⌛ May 25, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/demon-slayer/master-of-the-mansion  
+seriesid=`2209292` titleid=`2209314` id=`AXDqOGpjRs3h4hI_X2ZZ` mediaid=`e9e3da153626b53698d7eed8b2f6b278edd11686`  
+_The Hashira take Tanjiro and Nezuko to the Demon Slayer Corps headquarters where Tanjiro is tried for protecting a demon._  
+<a href="https://media.cdn.adultswim.com/uploads/20200317/thumbnails/2_203171638468-DemonSlayer_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200317/thumbnails/2_203171638468-DemonSlayer_022.jpg" height="144px" /></a>
+### 2209315
+**Demon Slayer S01E23 - Hashira Meeting**  
+TV-14-V 🔒 20:55  
+⌛ May 25, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/demon-slayer/hashira-meeting  
+seriesid=`2209292` titleid=`2209315` id=`AXDqOLdIC8QgH-t19H24` mediaid=`ebbc15055f788f744d9cfe3fae1a654ff09055b8`  
+_The Hashira discuss Tanjiro's candidacy as a Demon Slayer and question Nezuko's humanity._  
+<a href="https://media.cdn.adultswim.com/uploads/20200317/thumbnails/2_20317163932-DemonSlayer_023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200317/thumbnails/2_20317163932-DemonSlayer_023.jpg" height="144px" /></a>
+### 2059928
+**Aqua Teen Hunger Force S11E08 - The Last One Forever and Ever (For Real This Time)(We ****ing Mean It)**  
+TV-14-DLSV 🔓 23:09  
+⌛ May 26, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/the-last-one-forever-and-ever-for-real-this-time-we-ing-mean-it  
+seriesid=`340537` titleid=`2059928` id=`49NSB4keRfaDM9_1JL135g` mediaid=`ff93a58d7b0ffbae40ec9f8ec826d79adcc54e43`  
+_After 15 years of animated entertainment, The Aqua Teen Hunger Force takes a bow. This is the last episode, seriously._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225113577-athff_1308_1309_dup-20150821.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225113577-athff_1308_1309_dup-20150821.jpg" height="144px" /></a>
+### 2005995
+**Aqua Teen Hunger Force S10E07 - Freda**  
+TV-14-DL 🔓 11:18  
+⌛ May 26, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/freda  
+seriesid=`340537` titleid=`2005995` id=`FQnkCiyFTnuj5z-wnaxpPw` mediaid=`39695945783524edae6877917de29616485222c1`  
+_Master Shake finds love in a woman so perfect, it seems as if she were made for him._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251055319-atvss_1209_dup-20130926.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251055319-atvss_1209_dup-20130926.jpg" height="144px" /></a>
+### 2005996
+**Aqua Teen Hunger Force S10E08 - Storage Zeebles**  
+TV-14-DL 🔓 11:21  
+⌛ May 26, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/storage-zeebles  
+seriesid=`340537` titleid=`2005996` id=`eppds4AjQHeK9YJ7k_w90Q` mediaid=`b6e1ab20604ac5f896a7213c119b93dfb76e9a53`  
+_Carl buys the contents of a storage unit to make a quick buck, and he comes across an amazing discovery._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225105630-atvss_1210_dup-20131009.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225105630-atvss_1210_dup-20131009.jpg" height="144px" /></a>
+### 2005987
+**Aqua Teen Hunger Force S10E10 - Spacecadeuce**  
+TV-14-DLSV 🔓 11:16  
+⌛ May 26, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/spacecadeuce  
+seriesid=`340537` titleid=`2005987` id=`npQcFp_hQ_aGZacRCUczUw` mediaid=`171c8ac9b2f2ac5e962b4d457580326e3c21bddd`  
+_After awakening from months of hypersleep, the Plutonians are sent on a deadly mission by their new masters, the Mooninites._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251056517-atvss_1201_dup-20131018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251056517-atvss_1201_dup-20131018.jpg" height="144px" /></a>
+### 2005994
+**Aqua Teen Hunger Force S10E09 - Piranha Germs**  
+TV-14-LV 🔓 11:16  
+⌛ May 26, 2020 at 23:59:59 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/piranha-germs  
+seriesid=`340537` titleid=`2005994` id=`tuPW5XMwTZa0-1CdVTvCvQ` mediaid=`4c5d6924b9798414d39c40f73782fd9447bc2e39`  
+_On a very special Aqua TV Show Show, we explore the deadly potential of viral marketing._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251056266-atvss_1208_dup-20131009.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251056266-atvss_1208_dup-20131009.jpg" height="144px" /></a>
+### 432261
+**Home Movies S03E11 - Broken Dreams**  
+TV-PG-L 🔓 22:38  
+⌛ May 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/broken-dreams  
+seriesid=`344089` titleid=`432261` id=`1jVnCfTPTneifhJSJYaUbw`  
+_In a suspicious coincidence, Melissa and Jason each break their arms. This may affect the current film in production, but Brendon is also worried that he is dumb, or at the very least, that Melissa is smarter than he is. Meanwhile, McGuirk wants desperately to become a lifeguard._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624362-hmovies_037.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624362-hmovies_037.jpg" height="144px" /></a>
+### 432262
+**Home Movies S03E12 - Stow-A-Way**  
+TV-PG-L 🔓 22:41  
+⌛ May 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/stow-a-way  
+seriesid=`344089` titleid=`432262` id=`GZrSDaQOTK2LKljNbh7gRg`  
+_The kids decide to run away to Europe and become ex-patriot artists, but find their plan is a little lost at sea. Back home, McGuirk's car breaks down and he has no money to fix it. He asks Tom Wilsonberg, author of "Starting Early: The New World of Corporate Kids,"for financial advice. Tom's answer? Gambling._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351625198-hmovies_038.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351625198-hmovies_038.jpg" height="144px" /></a>
+### 432259
+**Home Movies S03E09 - Storm Warning**  
+TV-PG-L 🔓 22:36  
+⌛ May 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/storm-warning  
+seriesid=`344089` titleid=`432259` id=`PSi2LD81TiW5qQJfGpb0ZQ`  
+_Coach McGuirk tries to convince Paula to pose as his fiance while his sister visits. Meanwhile, Paula needs to get her novel to her agent before he goes on vacation. On the filmmaking front, the kids try to decide whether they want to make a mockumentary about making a movie or a mock, making-of-a-mockumentary movie or just a movie._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351623568-hmovies_035.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351623568-hmovies_035.jpg" height="144px" /></a>
+### 438272
+**Home Movies S03E13 - Coffins and Cradles**  
+TV-PG-DL 🔓 22:41  
+⌛ May 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/coffins-and-cradles  
+seriesid=`344089` titleid=`438272` id=`ZipqHcoUSEK11b9EUtBueA` mediaid=`0eb6fbf7233b0757616201edc86eb051141bac69`  
+_The kids are preparing for Halloween, Linda (Brendon's new stepmother) is preparing to have a baby, and Coach McGuirk is preparing to have the romantic night of his life. Despite all this, no one is prepared when things start to go wrong._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351626257-hmovies_039.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351626257-hmovies_039.jpg" height="144px" /></a>
+### 432260
+**Home Movies S03E10 - Time To Pay The Price**  
+TV-PG 🔓 22:12  
+⌛ May 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/time-to-pay-the-price  
+seriesid=`344089` titleid=`432260` id=`ed8VyMzxR4aW8wn_DEAGXA`  
+_Brendon, Jason and Melissa get in BIG trouble at school and have to go to a "scared straight" program at the local prison. Meanwhile, Paula stumbles across a huge pile of the kids' old movies and incredibly, she watches them. What's more, she discovers an odd motif that runs through every film._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624175-hmovies_036.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624175-hmovies_036.jpg" height="144px" /></a>
