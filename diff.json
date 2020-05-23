@@ -1,7 +1,6 @@
 {
-    "updated": 1590192036,
-    "added": [],
-    "removed": [
+    "updated": 1590193836,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1449849600,
@@ -40,7 +39,7 @@
             "original_air_date": 1440388800,
             "clip_order": null,
             "auth_launch_date": 1536120000,
-            "modified": 1590188888,
+            "modified": 1590191886,
             "media_id": "ff93a58d7b0ffbae40ec9f8ec826d79adcc54e43",
             "airing_id": "RADS1001071900059115",
             "id": "49NSB4keRfaDM9_1JL135g",
@@ -55,7 +54,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1590188888,
+            "published": 1590191886,
             "first_published": 1440242458,
             "tags": [],
             "collection_title": "Aqua Teen Hunger Force",
@@ -68,5 +67,6 @@
             "collection_title_id": "340537",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
