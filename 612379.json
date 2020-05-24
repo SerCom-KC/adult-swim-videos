@@ -230,5 +230,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200515/thumbnails/2_20515950411-ParanoiaAgent_004.jpg",
         "id": "AXIYmg03C8QgH-t19JEE",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1592121540,
+        "tms_id": "EP007439340005",
+        "description": "The Lil' Slugger suspect believes he is a video game character.",
+        "title_suggest": {
+            "input": [
+                "The Holy Warrior",
+                "Holy Warrior",
+                "Warrior"
+            ]
+        },
+        "title": "The Holy Warrior",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+        "duration": 1347.2459,
+        "episode_number": "5",
+        "original_air_date": "1119762000",
+        "auth_launch_date": 1590307200,
+        "clip_order": null,
+        "airing_id": "RADS1005202000095575",
+        "media_id": "2c545f595c20d5f4a2a8b435286255855814f863",
+        "modified": 1590102394,
+        "slug": "the-holy-warrior",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/1_2052093001-ParanoiaAgent_005.jpg",
+        "created": 1589981404,
+        "season_number": "1",
+        "title_id": "613793",
+        "tv_rating": "tv-14-lv",
+        "published": 1590102394,
+        "tags": [],
+        "collection_title": "Paranoia Agent",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_2052093001-ParanoiaAgent_005.jpg",
+        "id": "AXIyRt8sC8QgH-t19JOH",
+        "auth": true
     }
 ]
