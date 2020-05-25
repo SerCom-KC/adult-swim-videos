@@ -276,5 +276,56 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_2052093001-ParanoiaAgent_005.jpg",
         "id": "AXIyRt8sC8QgH-t19JOH",
         "auth": true
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Chaos, outrage, and an unforgiveable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 1A!",
+        "title_suggest": {
+            "input": [
+                "Sneak Peek - Fear of a Direct Hit",
+                "Peek - Fear of a Direct Hit",
+                "- Fear of a Direct Hit",
+                "Fear of a Direct Hit",
+                "of a Direct Hit",
+                "a Direct Hit",
+                "Direct Hit",
+                "Hit"
+            ]
+        },
+        "title": "Sneak Peek - Fear of a Direct Hit",
+        "expiration_date": 1591012740,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+        "duration": 14.97,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1590017237,
+        "slug": "sneak-peek-fear-of-a-direct-hit",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/1_2052093312-promo_ParanoiaAgent_Top106_SAT_15.jpg",
+        "created": 1589981562,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1590017237,
+        "tags": [],
+        "collection_title": "Paranoia Agent",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": 1590408000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_2052093312-promo_ParanoiaAgent_Top106_SAT_15.jpg",
+        "id": "AXIySUc2C8QgH-t19JOI",
+        "auth": false
     }
 ]
