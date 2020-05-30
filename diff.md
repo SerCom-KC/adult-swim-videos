@@ -2,126 +2,126 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 29, 2020 at 00:30:33 EDT_
+_Last Update: May 30, 2020 at 00:30:29 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 3  
 2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
-### 2069556
-**American Dad S13E03 - Shell Game**  
-TV-14-DL 🔒 21:02  
-⌛ June 4, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/shell-game  
-seriesid=`581006` titleid=`2069556` id=`b6xubpzsSNO_D8tVF4hB2A` mediaid=`1a31d701708436ebec1205201d34233c142d476f`  
-_Steve sets out to stop Roger after he joins a mysterious order. Francine buys a new pasta sauce and the family starts changing._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg" height="144px" /></a>
-### 2069555
-**American Dad S13E02 - The Census of the Lambs**  
-TV-14-DLV 🔒 21:03  
-⌛ June 4, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-census-of-the-lambs  
-seriesid=`581006` titleid=`2069555` id=`RktRj9lgSdelLLgUqsKLbA` mediaid=`d34fb1ee35d829e85c542947bf3cf83f82bd9e07`  
-_Hayley and Stan compete while collecting data for the US Census. Klaus inherits a camera and has Steve and his friends model for him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg" height="144px" /></a>
-### 2069557
-**American Dad S13E04 - The Mural of the Story**  
+### 2069558
+**American Dad S13E05 - (You Gotta) Strike for Your Right**  
 TV-14-DLSV 🔒 21:02  
-⌛ June 4, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-mural-of-the-story  
-seriesid=`581006` titleid=`2069557` id=`HaM_sE0HSDqPRAv4ZnXN5g` mediaid=`5a836cfd83e71e2a3d6a031f1f85d373681dd25c`  
-_Hayley becomes a town outcast after Stan ruins a town mural. Steve attends clown school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg" height="144px" /></a>
-### 2065466
-**Bob's Burgers S05E17 - The Itty Bitty Ditty Committee**  
-TV-PG-DL 🔒 21:45  
-⌛ June 4, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-itty-bitty-ditty-committee  
-seriesid=`2003422` titleid=`2065466` id=`cvWRUxG3TDyBf5UQFtOu3g` mediaid=`155fb6364e8d0a4a64ccdbeb8e95412c64e24de1`  
-_Gene starts a band only to be kicked out and left on his own. After declaring that he will never play again, Tina and Louise join forces to help Gene rediscover his love of music. Linda deals with a armpit rash that has everyone disgusted!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-itty-bitty-ditty-committee/bobsburgers_505_air_cid-2N879.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-itty-bitty-ditty-committee/bobsburgers_505_air_cid-2N879.jpg" height="144px" /></a>
-### 2065465
-**Bob's Burgers S05E16 - The Runway Club**  
-TV-PG-DLV 🔒 21:40  
-⌛ June 4, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-runway-club  
-seriesid=`2003422` titleid=`2065465` id=`6b8hbbQgTGKR3yP41SgI8Q` mediaid=`66fa3fa490770723921e3a0fc6fa1dc41a0d6cf9`  
-_The kids are sentenced to Saturday detention and will do anything it takes to leave early so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe that they are being scammed by a young girl at the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-runway-club/bobsburgers_504_air_cid-2NTF5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-runway-club/bobsburgers_504_air_cid-2NTF5.jpg" height="144px" /></a>
-### 809297
-**Family Guy S13E15 - Once Bitten**  
-TV-14-DLSV 🔒 21:30  
-⌛ June 4, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/once-bitten  
-seriesid=`440990` titleid=`809297` id=`zIxjF5rwTdCPJtNa17AI8A` mediaid=`02a40fc6279d871edc11f16a3ec72a047ad9277e`  
-_After Brian gets diagnosed with liver disease from his heavy drinking, Peter is stuck with the task of inserting Brian's suppository pills.  When Brian bites Peter's arm in self-defense, Brian becomes the alpha dog._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15248413271652.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15248413271652.jpg" height="144px" /></a>
-### 809298
-**Family Guy S13E16 - Roasted Guy**  
-TV-14-DLSV 🔒 21:30  
-⌛ June 4, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/roasted-guy  
-seriesid=`440990` titleid=`809298` id=`rgobH57MRzGk20PrP36ZFA` mediaid=`c3d91f9a6ed52fe55f020b0083aa994db27dad8e`  
-_While watching a celebrity roast with Brian, Peter is inspired to throw a roast for himself, but it backfires when his friends go further then he expected. Hurt by what was said, Peter decides to seek out a new group of friends._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15248413662172.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15248413662172.jpg" height="144px" /></a>
+⌛ June 5, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/you-gotta-strike-for-your-right  
+seriesid=`581006` titleid=`2069558` id=`AWBGCJbQwdpKFAKSb0FQ` mediaid=`1de57ad7b65fa747c811f1d1bfc0ae638219da07`  
+_Hayley witnesses harsh working conditions at the CIA and encourages action._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg" height="144px" /></a>
+### 2069560
+**American Dad S13E07 - Death by Dinner Party**  
+TV-14-DLV 🔒 21:03  
+⌛ June 5, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/death-by-dinner-party  
+seriesid=`581006` titleid=`2069560` id=`AWHnfcH0NWyh42wYnlIQ` mediaid=`3b8b5bcf8d34b1784b9bb91cce36aa62ccd880e9`  
+_Francine's dinner party goes awry when the mysterious Dinner Party Killer threatens it and the family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg" height="144px" /></a>
+### 2069559
+**American Dad S13E06 - Klaustastrophe.tv**  
+TV-14-DLSV 🔒 21:02  
+⌛ June 5, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/klaustastrophe-tv  
+seriesid=`581006` titleid=`2069559` id=`AWHnfmza0KIGIdXCKzuM` mediaid=`b097c66fe3a817effdd244ffc3182fb7cbeb1ccf`  
+_Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg" height="144px" /></a>
+### 2065467
+**Bob's Burgers S05E18 - Eat, Spray, Linda**  
+TV-PG-DL 🔒 21:29  
+⌛ June 5, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/eat-spray-linda  
+seriesid=`2003422` titleid=`2065467` id=`GF4w8jfUQySKUKlq1fD8TQ` mediaid=`b446e1fe4fc713e01f05bb97126319c66fa25484`  
+_It's Linda's birthday and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing! Mayhem ensues as the Belchers must work together to find Linda._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg" height="144px" /></a>
+### 2065468
+**Bob's Burgers S05E19 - Housetrap**  
+TV-PG-DLV 🔒 21:44  
+⌛ June 5, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/housetrap  
+seriesid=`2003422` titleid=`2065468` id=`6Tm4GhhHRDy_HSL-uw8zQQ` mediaid=`4ee829b9a07504a4eaa97f8c1a46239e7280700a`  
+_In true Belcher fashion, the family gets stuck in a terrible storm while taking care of a beach house in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of the home._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg" height="144px" /></a>
+### 809299
+**Family Guy S13E17 - Fighting Irish**  
+TV-14-DLSV 🔒 21:31  
+⌛ June 5, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/fighting-irish  
+seriesid=`440990` titleid=`809299` id=`hyswOASJSbiKc4O7rFUesw` mediaid=`30497510bae61b87e851f529c76b1facc140eaa3`  
+_When Liam Nesson comes to town to shoot a movie, Peter is convinced that he can beat him up. Unsuccessful, Peter winds up in jail but is bailed out by Liam Neeson and becomes his manservant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484140255520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484140255520.jpg" height="144px" /></a>
+### 809137
+**Family Guy S13E18 - Take My Wife**  
+TV-14-DLSV 🔒 21:32  
+⌛ June 5, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/take-my-wife  
+seriesid=`440990` titleid=`809137` id=`R6VzWFmnQ8uv26buEkFvqg` mediaid=`9cea179215a69979bbe26e742596c80f53295fc6`  
+_Peter and the guys are invited on a Bahamas couples' vacation with their wives. Upon arrival, their host reveals that they're at a "couples' counseling retreat."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15251857119415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15251857119415.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
 581006 American Dad: 3  
-### 2065457
-**Bob's Burgers S05E06 - Father of the Bob**  
-TV-PG-DL 🔒 21:40  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/father-of-the-bob  
-seriesid=`2003422` titleid=`2065457` id=`2fdFjJsaSXygZtPs-pfBqg` mediaid=`681ca032a7df40b43a645f0c9a4ff96ad1a3df60`  
-_At Bob's father's Christmas party, Bob and "Big Bob" rehash an old argument and try to outdo each other in the kitchen. Meanwhile, the kids compete to find the best gift for their dad._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/father-of-the-bob/bobsburgers_418_air_cid-2PH4J.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/father-of-the-bob/bobsburgers_418_air_cid-2PH4J.jpg" height="144px" /></a>
-### 2065454
-**Bob's Burgers S05E07 - Tina Tailor Soldier Spy**  
+### 2065459
+**Bob's Burgers S05E09 - Speakeasy Rider**  
 TV-PG-DL 🔒 21:43  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/tina-tailor-soldier-spy  
-seriesid=`2003422` titleid=`2065454` id=`nmcdZVZUR8iGAUPGiABYIQ` mediaid=`65908625d24382510d50ce1b9f85f1b24162b774`  
-_Tina goes undercover to find the mole who is giving away their cookie secrets. Tired of the kids counting her gray hairs, Linda goes blonde. When she starts making dumb mistakes at work, Bob worries being blonde has gone to her head!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg" height="144px" /></a>
-### 809268
-**Family Guy S13E06 - The 2000-Year-Old-Virgin**  
-TV-14 🔒 21:23  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/the-2000-year-old-virgin  
-seriesid=`440990` titleid=`809268` id=`CDdDqXbLR4afv_4nIH-kWQ` mediaid=`8a44b8c36d6778ec8401245911377717904f26d4`  
-_It's Christmas time in Quahog! While shopping at the local mall for gifts, Peter and Lois run into an old friend, Jesus Christ. Over drinks, Peter and the gang discover Jesus is a virgin. Peter won't have it, and makes it his mission to get Jesus a girlfriend._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240010718394.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240010718394.jpg" height="144px" /></a>
-### 809287
-**Family Guy S13E05 - Turkey Guys**  
-TV-14 🔒 21:30  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/turkey-guys  
-seriesid=`440990` titleid=`809287` id=`HmGTUYAmQMCyb6b6b70hsA` mediaid=`7214b4f32de74e14f43be56a77675f6841be6ede`  
-_It's Thanksgiving time at the Griffin's house but dinner plans come to a halt as Lois discovers that Peter has eaten the turkey._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400104571411.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400104571411.jpg" height="144px" /></a>
-### 2019417
-**American Dad S10E02 - CIAPOW**  
-TV-14 🔓 21:02  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ciapow  
-seriesid=`581006` titleid=`2019417` id=`J2yASXnmQXC3fGXJHQOU7g` mediaid=`6ecfc892cd6e3da64fdba07d16892dbf3d156ae0`  
-_When Bullock sends a drone to do the job Stan and his colleagues are supposed to do, Stan is determined to prove that humans are better than robots. Meanwhile, Francine and the rest of the family participate in a slow motion race in the living room._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg" height="144px" /></a>
-### 2019416
-**American Dad S10E01 - Blonde Ambition**  
-TV-14 🔓 21:01  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/blonde-ambition  
-seriesid=`581006` titleid=`2019416` id=`bCTt_9u2RIqanyRvylNJqw` mediaid=`ae7c4429f9a90926ee5da04b81765976f6d55a16`  
-_When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg" height="144px" /></a>
-### 2069553
-**American Dad S12E22 - West to Mexico**  
-TV-14-DLV 🔓 21:14  
-⌛ May 28, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/west-to-mexico  
-seriesid=`581006` titleid=`2069553` id=`vz3Y_dibRLuu8ZDlkfKtbQ` mediaid=`26317c90dca92ff6ac96b0624ea53f4a60d9b9a6`  
-_In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg" height="144px" /></a>
+⌛ May 29, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/speakeasy-rider  
+seriesid=`2003422` titleid=`2065459` id=`2ELQFzQvTKi81yGcQi3Y2Q` mediaid=`423be7451bb1a0465322abfb840143ca6a6b1172`  
+_Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, back at the restaurant, Bob and Teddy partner up to serve Teddy's home-brewed beer._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg" height="144px" /></a>
+### 2065456
+**Bob's Burgers S05E08 - Midday Run**  
+TV-PG 🔒 21:28  
+⌛ May 29, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/midday-run  
+seriesid=`2003422` titleid=`2065456` id=`cciQCvIBR2eWcB2fCfDcOA` mediaid=`0a052de313d208d17b6bb470df4195c3df4cd3a8`  
+_When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the job so she enlists the help of Gene and Louise. Back at the restaurant, Linda begins to decorate the walls with customer artwork on napkins._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg" height="144px" /></a>
+### 809289
+**Family Guy S13E07 - Stewie, Chris & Brian's Excellent Adventure**  
+TV-14 🔒 21:31  
+⌛ May 29, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/stewie-chris-brians-excellent-adventure  
+seriesid=`440990` titleid=`809289` id=`5sX3b9tyRBe45Iqni4XiVg` mediaid=`1c606d40aaa6358da5ded2d6bf306236ca382e32`  
+_Peter and Lois receive a note from Principal Shepherd pinned to Chris' backpack. During their meeting they learn that if Chris doesn't pass his upcoming history exam he will have to repeat the 9th grade._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267607620616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267607620616.jpg" height="144px" /></a>
+### 809290
+**Family Guy S13E08 - Our Idiot Brian**  
+TV-14 🔒 21:31  
+⌛ May 29, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/our-idiot-brian  
+seriesid=`440990` titleid=`809290` id=`MpXQiUOfT_KZeDTbLhc1kQ` mediaid=`372a600dd5e23518d98e80262d3eec835b402497`  
+_Meg is worried that she won't do well on her SATs, so she convinces Brian to take the test for her. A confident Brian agrees to the challenge, and even dresses up like Meg, only to find out that he received the lowest score in the class._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761262551.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761262551.jpg" height="144px" /></a>
+### 2019420
+**American Dad S10E03 - Scents and Sensei-bility**  
+TV-14 🔒 21:02  
+⌛ May 29, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/scents-and-sensei-bility  
+seriesid=`581006` titleid=`2019420` id=`TBFgQoSBRUKm2eDTb1QWmQ` mediaid=`5d7a0ed7dfe5a7dcdb86c6f949e0dfbddc4dbc44`  
+_Steve and Snot are fed up with being bullied. When they enroll in a karate class, Snot is brainwashed by the sensei and it's Steve’s mission to get him back. Meanwhile, Klaus develops a horrible odor and is forced to be an outside pet._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202795336366.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202795336366.jpg" height="144px" /></a>
+### 2019419
+**American Dad S10E04 - Big Stan on Campus**  
+TV-14 🔒 21:02  
+⌛ May 29, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/big-stan-on-campus  
+seriesid=`581006` titleid=`2019419` id=`wF2wtyYAQqqyRqsnuxL4AA` mediaid=`423815faf208443b9e6abca4d5c0bbfd2d4a99a0`  
+_When the CIA is forced to make cutbacks and go on furlough, Stan volunteers to take a position as a College Campus Security Guard. Meanwhile, Roger opens a bed and breakfast in order to boost the family's income._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199409474869.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199409474869.jpg" height="144px" /></a>
+### 2019421
+**American Dad S10E05 - Now and Gwen**  
+TV-14 🔒 21:03  
+⌛ May 29, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/now-and-gwen  
+seriesid=`581006` titleid=`2019421` id=`yl36vIIkSmiG-pCULIEgOw` mediaid=`7514ae85c990bd9a217250c8bee8e0f19a982fb4`  
+_When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg" height="144px" /></a>
