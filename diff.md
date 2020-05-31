@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 31, 2020 at 06:00:33 EDT_
+_Last Update: May 31, 2020 at 06:30:31 EDT_
 ## Video added
 ### Summary
-2193955 JoJo's Bizarre Adventure: 1  
-### 2193984
-**JoJo's Bizarre Adventure S04E28 - Beneath a Sky on the Verge of Falling**  
-TV-MA-V 🔒 22:39  
-⌛ June 21, 2020 at 05:29:00 EDT  
-https://www.adultswim.com/videos/jo-jos-bizarre-adventure/beneath-a-sky-on-the-verge-of-falling  
-seriesid=`2193955` titleid=`2193984` id=`AXJdWkkRRs3h4hI_X36T` mediaid=`db132246c3c29e0c74e3565740470eb0443f535e`  
-_A picturesque Sardinian cliff becomes the bloody backdrop to Doppio's sudden dominance over Risotto, courtesy of Narancia's own Stand. Abbacchio works to rewind time 15 years to identify the identity of a certain photographer._  
-<a href="https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281814494-jojo_goldenwind_028.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281814494-jojo_goldenwind_028.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177727
+**Naruto: Shippuden S06E15 - Contact! Naruto vs. Itachi**  
+TV-PG 🔒 00:00  
+⌛ July 5, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/contact-naruto-vs-itachi  
+seriesid=`812206` titleid=`2177727` id=`AXJlyIjIRs3h4hI_X38d` mediaid=`2b72f5cd3aa6e1afcf4702a620bef7105f8e5329`  
+_Naruto and Killer Bee engage in battle against the reanimated Itachi Uchiha and Nagato. Seeing Naruto's growth as a shinobi, Itachi reaffirms his decision to entrust his brother's fate to Naruto._  
+<a href=""><img src="" height="144px" /></a>
 ## Video removed
 No videos were removed.  
