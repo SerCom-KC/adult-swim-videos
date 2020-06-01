@@ -1,68 +1,53 @@
 {
-    "updated": 1590984382,
-    "added": [],
-    "removed": [
+    "updated": 1590985160,
+    "added": [
         {
-            "auth_expiration_date": null,
+            "auth_expiration_date": 1592799240,
             "tms_id": "",
-            "description": "Vacation is ruined broh.",
+            "description": "Lonely old man wishes he had a son. His wish comes true... unfortunately.",
             "title_suggest": {
                 "input": [
-                    "Sneak Peek \u2013 Childrick of Mort",
-                    "Peek \u2013 Childrick of Mort",
-                    "\u2013 Childrick of Mort",
-                    "Childrick of Mort",
-                    "of Mort",
-                    "Mort"
+                    "Pinocchio"
                 ]
             },
-            "title": "Sneak Peek \u2013 Childrick of Mort",
-            "expiration_date": 1590984000,
-            "type": "clip",
+            "title": "Pinocchio",
+            "expiration_date": null,
+            "type": "episode",
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "online-exclusive",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 29.97,
-            "original_air_date": null,
-            "auth_launch_date": null,
+            "collection_id": "AXD5sp41Rs3h4hI_X2eX",
+            "duration": 675.0077,
+            "episode_number": "4",
+            "original_air_date": "1590984900",
+            "auth_launch_date": 1590984900,
             "clip_order": null,
-            "airing_id": "",
-            "media_id": "",
-            "modified": 1589817641,
-            "slug": "sneak-peek-childrick-of-mort",
+            "airing_id": "RADS1005282000097828",
+            "media_id": "d84ce0683e0abed01c29709da7e37ff2eeb1b4c6",
+            "modified": 1590762964,
+            "slug": "pinocchio",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200518/thumbnails/1_205181126234-promo_RAM_Top409_Sun_30.jpg",
-            "created": 1589815612,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1589817641,
-            "tags": [
-                "rick and morty",
-                "season 4",
-                "justin roiland",
-                "dan harmon",
-                "childrick of mort",
-                "sneak peek",
-                "preview",
-                "adult swim",
-                "promo"
-            ],
-            "collection_title": "Rick and Morty",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_2056105678-JJVFT_005.jpg",
+            "created": 1588776972,
+            "season_number": "1",
+            "title_id": "2213499",
+            "tv_rating": "tv-ma-lv",
+            "published": 1590762964,
+            "tags": [],
+            "collection_title": "JJ Villard's Fairy Tales",
             "disable_ads": false,
-            "modified_by": "Dene Shepherd",
-            "launch_date": 1589817600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200518/thumbnails/2_205181126234-promo_RAM_Top409_Sun_30.jpg",
-            "id": "AXIoZRQlRs3h4hI_X3tC",
-            "auth": false,
-            "collection_slug": "rick-and-morty",
-            "collection_title_id": "2013506",
-            "online_exclusives": true
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056105678-JJVFT_005.jpg",
+            "id": "AXHqfLGLC8QgH-t19Iub",
+            "auth": true,
+            "collection_slug": "jj-villards-fairy-tales",
+            "collection_title_id": "2213494",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
