@@ -1,53 +1,63 @@
 {
-    "updated": 1590985160,
-    "added": [
+    "updated": 1590987753,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1592799240,
+            "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Lonely old man wishes he had a son. His wish comes true... unfortunately.",
+            "description": "Get tickled.",
             "title_suggest": {
                 "input": [
-                    "Pinocchio"
+                    "Sneak Peek - Kook",
+                    "Peek - Kook",
+                    "- Kook",
+                    "Kook"
                 ]
             },
-            "title": "Pinocchio",
-            "expiration_date": null,
-            "type": "episode",
+            "title": "Sneak Peek - Kook",
+            "expiration_date": 1590987540,
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
-            "collection_id": "AXD5sp41Rs3h4hI_X2eX",
-            "duration": 675.0077,
-            "episode_number": "4",
-            "original_air_date": "1590984900",
-            "auth_launch_date": 1590984900,
+            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
+            "duration": 14.97,
+            "original_air_date": null,
+            "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "RADS1005282000097828",
-            "media_id": "d84ce0683e0abed01c29709da7e37ff2eeb1b4c6",
-            "modified": 1590762964,
-            "slug": "pinocchio",
+            "airing_id": "",
+            "media_id": "",
+            "modified": 1589559562,
+            "slug": "sneak-peek-kook",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_2056105678-JJVFT_005.jpg",
-            "created": 1588776972,
-            "season_number": "1",
-            "title_id": "2213499",
-            "tv_rating": "tv-ma-lv",
-            "published": 1590762964,
-            "tags": [],
-            "collection_title": "JJ Villard's Fairy Tales",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200515/thumbnails/1_205151217325-promo_ShiveringTruth_TOPICAL_204_SUN.jpg",
+            "created": 1589559515,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
+            "published": 1589559562,
+            "tags": [
+                "the shivering truth",
+                "vernon chatman",
+                "cat olsen",
+                "sneak peek",
+                "adult swim",
+                "promo"
+            ],
+            "collection_title": "The Shivering Truth",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056105678-JJVFT_005.jpg",
-            "id": "AXHqfLGLC8QgH-t19Iub",
-            "auth": true,
-            "collection_slug": "jj-villards-fairy-tales",
-            "collection_title_id": "2213494",
-            "online_exclusives": false
+            "modified_by": "Duke Nguyen",
+            "launch_date": 1590408000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200515/thumbnails/2_205151217325-promo_ShiveringTruth_TOPICAL_204_SUN.jpg",
+            "id": "AXIZIVh_Rs3h4hI_X3pC",
+            "auth": false,
+            "collection_slug": "the-shivering-truth",
+            "collection_title_id": "2165429",
+            "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
