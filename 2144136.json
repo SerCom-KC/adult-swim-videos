@@ -976,5 +976,60 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432766940189.jpg",
         "id": "AWdSdbp9AsbXwNj3wAOe",
         "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Get another dose of brotherly love. Tender Touches returns June 15th at Midnight ET.",
+        "title_suggest": {
+            "input": [
+                "Season 3 Trailer",
+                "3 Trailer",
+                "Trailer"
+            ]
+        },
+        "title": "Season 3 Trailer",
+        "expiration_date": 1593014340,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "AWBMMba1Z-onAnjDLthP",
+        "duration": 29.97,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1590791303,
+        "slug": "season-3-trailer",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200529/thumbnails/1_205291826131-promo_TenderTouches_S2_Dated_June15_Midnight_30.jpg",
+        "created": 1590791254,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1590791303,
+        "tags": [
+            "tender touches",
+            "maxime simonet",
+            "dave bonawits",
+            "lauren payne",
+            "fishcenter",
+            "season 3",
+            "adult swim",
+            "promo"
+        ],
+        "collection_title": "Tender Touches",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": 1591200000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200529/thumbnails/2_205291826131-promo_TenderTouches_S2_Dated_June15_Midnight_30.jpg",
+        "id": "AXJijDFJC8QgH-t19Jbd",
+        "auth": false
     }
 ]
