@@ -428,6 +428,57 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1591847940,
+        "tms_id": "",
+        "description": "The family visits Possum Lake. Roger learns to ride a bike.",
+        "title_suggest": {
+            "input": [
+                "The Legend of Old Ulysses",
+                "Legend of Old Ulysses",
+                "of Old Ulysses",
+                "Old Ulysses",
+                "Ulysses"
+            ]
+        },
+        "expiration_date": 1589774340,
+        "type": "episode",
+        "title": "The Legend of Old Ulysses",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0951,
+        "episode_number": "17",
+        "original_air_date": 1552269600,
+        "auth_launch_date": 1591243200,
+        "clip_order": null,
+        "media_id": "6a83f15d19deef060f7d4298c5a238e284a5b2cd",
+        "modified": 1591049411,
+        "airing_id": "RADS1005292000098710",
+        "slug": "the-legend-of-old-ulysses",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155844922532615.jpg",
+        "created": 1534796730,
+        "season_number": "13",
+        "title_id": "2069570",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1591049411,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1589169600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844922532615.jpg",
+        "id": "AWVZA5A9h5enQuYyHe9E",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1591761540,
         "tms_id": "",
         "description": "While in search of an identity, Jeff starts hanging out with Stan's favorite celebrity chef. Klaus gets an exciting new outfit.",
@@ -470,6 +521,53 @@
         "launch_date": 1589169600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg",
         "id": "AWVZA_KPh5enQuYyHe9I",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1591847940,
+        "tms_id": "",
+        "description": "Steve and Roger restart their career as a twin brother acting duo. The family becomes addicted to a novelty gift shop.",
+        "title_suggest": {
+            "input": [
+                "Twinanigans"
+            ]
+        },
+        "expiration_date": 1587959940,
+        "type": "episode",
+        "title": "Twinanigans",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1286,
+        "episode_number": "18",
+        "original_air_date": 1552874400,
+        "auth_launch_date": 1591243200,
+        "clip_order": null,
+        "media_id": "95f3c4b162e5cd6fa3793703efa13d12459a30fa",
+        "modified": 1591049411,
+        "airing_id": "RADS1005292000098707",
+        "slug": "twinanigans",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15578672630545.jpg",
+        "created": 1535563480,
+        "season_number": "13",
+        "title_id": "2069571",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1591049411,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1587355200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15578672630545.jpg",
+        "id": "AWWGtzvUh5enQuYyHyPD",
         "auth": true
     },
     {
@@ -851,56 +949,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1591243140,
-        "tms_id": "EP007164450202",
-        "description": "When Stan lies about his texting and driving accident, he takes a seizure medication and suffers from the side effects. Meanwhile, Roger helps Steve with his performance anxiety.",
-        "title_suggest": {
-            "input": [
-                "Seizures Suit Stanny",
-                "Suit Stanny",
-                "Stanny"
-            ]
-        },
-        "title": "Seizures Suit Stanny",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1257.3895,
-        "episode_number": "15",
-        "original_air_date": 1433817000,
-        "clip_order": null,
-        "auth_launch_date": 1590638400,
-        "modified": 1591049409,
-        "media_id": "7e2d7f72cd808f507a148c6925d03b66d4f476ad",
-        "airing_id": "RADS1005232000096578",
-        "id": "JG2h5XE-Sc-97MLP6lOnuQ",
-        "slug": "seizures-suit-stanny",
-        "views": 2782,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203654648735.jpg",
-        "created": 1411569811,
-        "season_number": "10",
-        "title_id": "2019430",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1591049409,
-        "first_published": 1411569811,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg",
-        "cma_id": "2019430"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1591329540,
@@ -995,52 +1043,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1587960000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1591243140,
-        "tms_id": "EP007164450250",
-        "description": "Francine becomes a conspiracy theorist. Klaus & Steve help Snot pimp out his new room.",
-        "title_suggest": {
-            "input": [
-                "Paranoid_Frandroid"
-            ]
-        },
-        "title": "Paranoid_Frandroid",
-        "type": "episode",
-        "expiration_date": 1588564740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.9617,
-        "episode_number": "1",
-        "original_air_date": 1519612200,
-        "clip_order": null,
-        "auth_launch_date": 1590638400,
-        "modified": 1591049409,
-        "media_id": "1542c80a5d351f5e2ea05236e9ef305674b96eaf",
-        "airing_id": "RADS1005232000096584",
-        "id": "kuyoMQr6Ta62NeNv3TRsgw",
-        "slug": "paranoid-frandroid",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199407975132.jpg",
-        "created": 1507751154,
-        "season_number": "13",
-        "title_id": "2069554",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1591049409,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1587960000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg",
         "cma_id": ""
     }
 ]

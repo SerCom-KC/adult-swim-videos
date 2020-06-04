@@ -2,31 +2,61 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 4, 2020 at 00:00:35 EDT_
+_Last Update: June 4, 2020 at 00:30:42 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 1  
-2094567 Dream Corp LLC: 1  
-2013506 Rick and Morty: 1  
-439722 The Venture Bros.: 1  
-2013221 Tim & Eric's Bedtime Stories: 2  
-828177 Your Pretty Face is Going to Hell: 1  
-### 2097192
-**Bob's Burgers S06E04 - Gayle Makin' Bob Sled**  
-TV-PG 🔒 21:38  
+581006 American Dad: 2  
+440990 Family Guy: 1  
+2073005 Neon Joe: 1  
+895948 The Eric Andre Show: 1  
+### 2069570
+**American Dad S13E17 - The Legend of Old Ulysses**  
+TV-14-DLV 🔒 21:03  
 ⌛ June 10, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/gayle-makin-bob-sled  
-seriesid=`2003422` titleid=`2097192` id=`v6nNJ5WAThuzJULB1NDY5w` mediaid=`129e1c8d99bfd9ce3d6b214e4de5021aead414eb`  
-_When Gayle is injured, Linda sends Bob off to pick her up so she doesn't miss out on the Thanksgiving festivities. But a snowstorm derails his trip home and his epic plan to prepare the turkey is foiled._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg" height="144px" /></a>
-### 2133688
-**Dream Corp LLC S02E04 - Amnesia**  
-TV-14-DL 🔓 11:32  
-⌛ July 1, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dream-corp-llc/amnesia  
-seriesid=`2094567` titleid=`2133688` id=`AWG_IK9XNWyh42wYnk9J` mediaid=`9f95e3410fb941f0623ec25152414f14b9ab8cba`  
-_Patient 62 catches Amnesia during a routine arachnophobia treatment. Dr Roberts attempts to cure him by hand using fundamentals. Randy gets catfished._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341036549-dreamcorpllc_204_air_cid-3N6HG.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341036549-dreamcorpllc_204_air_cid-3N6HG.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/the-legend-of-old-ulysses  
+seriesid=`581006` titleid=`2069570` id=`AWVZA5A9h5enQuYyHe9E` mediaid=`6a83f15d19deef060f7d4298c5a238e284a5b2cd`  
+_The family visits Possum Lake. Roger learns to ride a bike._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844922532615.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844922532615.jpg" height="144px" /></a>
+### 2069571
+**American Dad S13E18 - Twinanigans**  
+TV-14-DLSV 🔒 21:03  
+⌛ June 10, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/twinanigans  
+seriesid=`581006` titleid=`2069571` id=`AWWGtzvUh5enQuYyHyPD` mediaid=`95f3c4b162e5cd6fa3793703efa13d12459a30fa`  
+_Steve and Roger restart their career as a twin brother acting duo. The family becomes addicted to a novelty gift shop._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15578672630545.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15578672630545.jpg" height="144px" /></a>
+### 809270
+**Family Guy S12E06 - Life of Brian**  
+TV-14 🔒 21:30  
+⌛ June 10, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/life-of-brian  
+seriesid=`440990` titleid=`809270` id=`ia4D9_8WQX2SFZHWySmiBA` mediaid=`d2f1b2e8b899fe80c1dd63bab41c5e09483dba03`  
+_While visiting 17th century Jamestown in his time machine, Stewie gives guns to the Native Americans in an effort to be amiable. Back in the present, Stewie and Brian are surprised to discover that Native Americans are now in control of the entire country._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108603111027.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108603111027.jpg" height="144px" /></a>
+### 2118597
+**Neon Joe S02E04 - Walk Away, Friend. Walk Away**  
+TV-14-DLS 🔓 22:29  
+⌛ July 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/neon-joe/walk-away-friend-walk-away  
+seriesid=`2073005` titleid=`2118597` id=`A1xhMYnDTUOPlv4L3HmsFg` mediaid=`a01e51423d3145183d5e800620f27d0451800fac`  
+_Neon Joe and Vance try to set aside their differences for the ultimate greater good: saving Planet Earth. Will they succeed????_  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121147288-neonjoe_204_dup-20170512.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121147288-neonjoe_204_dup-20170512.jpg" height="144px" /></a>
+### 895951
+**The Eric Andre Show S01E03 - Tatyana Ali**  
+TV-14-DLSV 🔓 11:02  
+⌛ July 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/tatyana-ali  
+seriesid=`895948` titleid=`895951` id=`6wiJ5yM4SxyvOYAonm7uWg` mediaid=`a45428eede40c85f2b5825296103e9204cb89797`  
+_Eric interviews Tatyana Ali and Arnold Schwarzenegger._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034168168-ericandre_103_dup-20120601.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034168168-ericandre_103_dup-20120601.jpg" height="144px" /></a>
+## Video removed
+### Summary
+2013506 Rick and Morty: 1  
+2073005 Neon Joe: 1  
+340537 Aqua Teen Hunger Force: 1  
+440990 Family Guy: 1  
+581006 American Dad: 2  
+895948 The Eric Andre Show: 1  
 ### 
 **Rick and Morty S??E05 - Rick and Morty Companion Podcast Live: EPISODE #410 - Star Mort Rickturn of the Jerri**  
  🔓 58:22  
@@ -34,90 +64,51 @@ https://www.adultswim.com/videos/rick-and-morty/rick-and-morty-companion-podcast
 seriesid=`2013506` titleid=`` id=`AXJ1c35FC8QgH-t19JdK`  
 _Season 4 concludes with a bang as the creative crew behind Star Mort Rickturn of the Jerri answers viewer calls about Star Wars, Mortal Kombat, and Wrangler Jeans._  
 <a href="https://media.cdn.adultswim.com/uploads/20200602/thumbnails/2_20621750252-as_podcast_rickandmortycompanion_410_20200602.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200602/thumbnails/2_20621750252-as_podcast_rickandmortycompanion_410_20200602.jpg" height="144px" /></a>
-### 2165023
-**The Venture Bros. S07E07 - The Unicorn in Captivity**  
-TV-MA-LS 🔒 22:36  
-⌛ July 8, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/the-unicorn-in-captivity  
-seriesid=`439722` titleid=`2165023` id=`AWW0xUrhh5enQuYyIFWU` mediaid=`d22a1c5257f206d5e2cfe151f536da1bbb54c1e6`  
-_Dr. Venture's latest invention is a real game-changer. And the new game is deadly!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154222215524813.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154222215524813.jpg" height="144px" /></a>
-### 2024896
-**Tim & Eric's Bedtime Stories S01E02 - Toes**  
-TV-14-LV 🔓 11:15  
-⌛ July 8, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/toes  
-seriesid=`2013221` titleid=`2024896` id=`2FE2cUitRLCMDwBM2cQ7DA` mediaid=`f05efd9111211e8a37dfd415a772b2e3dab12886`  
-_Dr. Stork's successful toe clipping practice draws the attention of a local detective._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/toes/tebs_cc_102_pt1_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/toes/tebs_cc_102_pt1_1.jpg" height="144px" /></a>
-### 2073346
-**Tim & Eric's Bedtime Stories S01E09 - Tornado**  
-TV-MA-L 🔒 22:31  
-⌛ July 8, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/tornado  
-seriesid=`2013221` titleid=`2073346` id=`9j_r9epBTF-qozLojK1h_g` mediaid=`ef021efdb3fe3d1911a57e0ed46fb150dfd0bc29`  
-_A Tornado rips through Matt Peters childhood home, exposing something horribly embarrassing from his past. To make it go away, Matt must make a deal with the devil._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/tornado/tebs_ep202_001_ajlkhweo762w8e8Sj4.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tornado/tebs_ep202_001_ajlkhweo762w8e8Sj4.jpg" height="144px" /></a>
-### 2191441
-**Your Pretty Face is Going to Hell S04E03 - OMGouija**  
-TV-MA 🔒 11:20  
-⌛ July 8, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/om-gouija  
-seriesid=`828177` titleid=`2191441` id=`AWp5e54gAScUIg8XxfZ9` mediaid=`e0470686fe4a35309e963c3ef68731bb2b0c0c3e`  
-_Satan taps into the youth market with a hot, new board game._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155742900812814.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155742900812814.jpg" height="144px" /></a>
-## Video removed
-### Summary
-2003422 Bob's Burgers: 1  
-2013221 Tim & Eric's Bedtime Stories: 2  
-2094567 DREAM CORP LLC: 1  
-439722 The Venture Bros.: 1  
-828177 Your Pretty Face is Going to Hell: 1  
-### 2065464
-**Bob's Burgers S05E15 - Adventures in Chinchilla-Sitting**  
-TV-PG-DLV 🔒 21:28  
+### 2073009
+**Neon Joe S01E04 - Dignity Cap**  
+TV-14-DLSV 🔓 21:40  
 ⌛ June 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/adventures-in-chinchilla-sitting  
-seriesid=`2003422` titleid=`2065464` id=`EwK0rT-OR7-XEWIg3JcDsw` mediaid=`9ae3bd4895fe2026c5cc392a0880ce22fe6ec9fd`  
-_Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg" height="144px" /></a>
-### 2133107
-**Tim & Eric's Bedtime Stories S02E04 - The Demotion**  
-TV-MA-LS 🔓 11:15  
+https://www.adultswim.com/videos/neon-joe/dignity-cap  
+seriesid=`2073005` titleid=`2073009` id=`JAh_MwipSOORzjkgeoszbQ` mediaid=`d18d4971ed3c5ab8c6aa97b5632dcf8073338a4e`  
+_Neon Joe comes face to face with his destiny._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121145113-neonjoe_104_dup-20151002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121145113-neonjoe_104_dup-20151002.jpg" height="144px" /></a>
+### 2059921
+**Aqua Teen Hunger Force S11E01 - Mouth Quest**  
+TV-MA-L 🔓 11:24  
 ⌛ June 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/the-demotion  
-seriesid=`2013221` titleid=`2133107` id=`QMrJj7JJQRC7uxvDFclGSw` mediaid=`b9ac230b42052db940f93e7e3f69ca2112739915`  
-_Will is assigned a sleep therapist to help him stay alert on the job._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-demotion/tebs_304_dup-20170919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-demotion/tebs_304_dup-20170919.jpg" height="144px" /></a>
-### 2032606
-**Tim & Eric's Bedtime Stories S01E04 - Angel Boy**  
-TV-14-L 🔒 11:15  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/mouth-quest  
+seriesid=`340537` titleid=`2059921` id=`VVAQkXspSgyDxaDwXuSKdw` mediaid=`1034976fb80a18ff0b97c831124eede33ae510f6`  
+_This very special episode of Aqua Teen is brought to you by Abraham Lincoln's Lunch Links. Now available in Tough n' Tenacious Teriyaki!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251057287-athff_1301_dup-20150617.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251057287-athff_1301_dup-20150617.jpg" height="144px" /></a>
+### 809296
+**Family Guy S13E24 - #JOLO**  
+TV-14-DLSV 🔓 21:29  
 ⌛ June 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/angel-boy  
-seriesid=`2013221` titleid=`2032606` id=`pZSnNyF2TJWPT-y7DD6bTA` mediaid=`e6d3043b4192a84187f5a0392cf5a57af439cdf6`  
-_Dan Dimler gets a surprise on the heels of his son Patrick's Sweet 17 when Scotty shows up at the door peddling his latest DVD._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/angel-boy/tebs_cc_104_pt1_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/angel-boy/tebs_cc_104_pt1_1.jpg" height="144px" /></a>
-### 2133698
-**DREAM CORP LLC S02E14 - The Krux**  
-TV-14-DLSV 🔓 16:47  
-⌛ July 9, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dream-corp-llc/the-krux  
-seriesid=`2094567` titleid=`2133698` id=`AWdhnkZrqD68dq0Op5ny` mediaid=`cc192a8e03e59f19a490568e5cd221a1b7e2671e`  
-_Patient 101 is wheeled into Dream Corp LLC as part of a court-ordered evaluation. Dr. Roberts struggles to navigate Patient 101's subconscious and calls on the entire staff to help contain their most challenging patient to date._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341421221-dreamcorpllc_214_air_cid-3P8F0.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341421221-dreamcorpllc_214_air_cid-3P8F0.jpg" height="144px" /></a>
-### 2165024
-**The Venture Bros. S07E08 - The Terminus Mandate**  
-TV-14-DLV 🔓 22:34  
+https://www.adultswim.com/videos/family-guy/jolo  
+seriesid=`440990` titleid=`809296` id=`ZDNdCeIpSUy1YOMANefZXg` mediaid=`e6cd68c90e8a6e752b70541fe16780b1a71ae74b`  
+_Joe decides to become more spontaneous and independent, leaving Bonnie and quitting his job. This "New Joe" invites the guys on a road trip to Niagara Falls to celebrate._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484128275713.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484128275713.jpg" height="144px" /></a>
+### 2019430
+**American Dad S10E15 - Seizures Suit Stanny**  
+TV-14 🔓 20:57  
 ⌛ June 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/the-terminus-mandate  
-seriesid=`439722` titleid=`2165024` id=`AWPLR0f5TdxzjxdCmQUy` mediaid=`f6a8fb966ef6eeb4d405f1606d0ee08904c6dca2`  
-_The members of Guild Council must face their arch rivals for one last time, while Doc happily falls into a black widow's deadly web._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15374619980536.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15374619980536.jpg" height="144px" /></a>
-### 2191443
-**Your Pretty Face is Going to Hell S04E05 - The Party Hole**  
- 🔓 10:55  
+https://www.adultswim.com/videos/american-dad/seizures-suit-stanny  
+seriesid=`581006` titleid=`2019430` id=`JG2h5XE-Sc-97MLP6lOnuQ` mediaid=`7e2d7f72cd808f507a148c6925d03b66d4f476ad`  
+_When Stan lies about his texting and driving accident, he takes a seizure medication and suffers from the side effects. Meanwhile, Roger helps Steve with his performance anxiety._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg" height="144px" /></a>
+### 2069554
+**American Dad S13E01 - Paranoid_Frandroid**  
+TV-14-DLSV 🔓 21:02  
 ⌛ June 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/the-party-hole  
-seriesid=`828177` titleid=`2191443` id=`AWp5faU7AScUIg8XxfZ_` mediaid=`a9ba3c53fd1288034711663f8469ca3a40bc0323`  
-_Gary and his brain trust bring radical changes to old-fashioned soul collecting._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/paranoid-frandroid  
+seriesid=`581006` titleid=`2069554` id=`kuyoMQr6Ta62NeNv3TRsgw` mediaid=`1542c80a5d351f5e2ea05236e9ef305674b96eaf`  
+_Francine becomes a conspiracy theorist. Klaus & Steve help Snot pimp out his new room._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg" height="144px" /></a>
+### 2088424
+**The Eric Andre Show S04E08 - Chris Jericho; Roy Hibbert; Flavor Flav**  
+TV-MA 🔓 11:10  
+⌛ June 3, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/chris-jericho-roy-hibbert-flavor-flav  
+seriesid=`895948` titleid=`2088424` id=`5P7Ss838Q3S2ZBeuUL742A` mediaid=`079d6d0f233a19f003ae3dcedb38b5c9c3943184`  
+_Interviews with Chris Jericho, Roy Hibbert, and Flavor Flav._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341621159-ericandre_408_dup-20160512.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341621159-ericandre_408_dup-20160512.jpg" height="144px" /></a>
