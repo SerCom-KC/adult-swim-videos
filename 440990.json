@@ -99,6 +99,56 @@
         "cma_id": "2105394"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1591934340,
+        "tms_id": "EP002960010243",
+        "description": "Peter and Quagmire both scream when a bee flies by and realize they harmonize well together. They start writing and singing songs in their spare time. Mort overhears them one day and is amazed by their talent. He offers to manage them since he used to have his own record label in the 70's.",
+        "title_suggest": {
+            "input": [
+                "In Harmony's Way",
+                "Harmony's Way",
+                "Way"
+            ]
+        },
+        "title": "In Harmony's Way",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1287.3194,
+        "episode_number": "7",
+        "original_air_date": 1387252800,
+        "clip_order": null,
+        "auth_launch_date": 1591329600,
+        "modified": 1590965046,
+        "media_id": "8bb04dfb2b77b37783b93f9d8e2f0c7eb79ed78a",
+        "airing_id": "RADS1005312000098969",
+        "id": "BWnhdF0dSFuDzLzd_4RVMg",
+        "slug": "in-harmonys-way",
+        "views": 1789,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15355668367514.jpg",
+        "created": 1411575010,
+        "season_number": "12",
+        "title_id": "809271",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1590965046,
+        "first_published": 1411575010,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15355668367514.jpg",
+        "cma_id": "1412094"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1584338340,
@@ -246,6 +296,54 @@
         "launch_date": 1583726400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15251857119415.jpg",
         "cma_id": "1334035"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1591934340,
+        "tms_id": "EP002960010244",
+        "description": "The Griffins visit the Quahog Mall for the Christmas Carnival only to find that it has been canceled. Upset, Stewie begins to act out.",
+        "title_suggest": {
+            "input": [
+                "Christmas Guy",
+                "Guy"
+            ]
+        },
+        "title": "Christmas Guy",
+        "type": "episode",
+        "expiration_date": 1497682799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1290.6894,
+        "episode_number": "8",
+        "original_air_date": 1387857600,
+        "clip_order": null,
+        "auth_launch_date": 1591329600,
+        "modified": 1590966972,
+        "media_id": "b9112e51310f9cb531764e9289008e4288e4e822",
+        "airing_id": "RADS1005312000098975",
+        "id": "aTnUsCAoTp6rHLnkPoZriw",
+        "slug": "christmas-guy",
+        "views": 1751,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152338132076119.jpg",
+        "created": 1411575035,
+        "season_number": "12",
+        "title_id": "809272",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1590966972,
+        "first_published": 1411575035,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1497078000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152338132076119.jpg",
+        "cma_id": "1412010"
     },
     {
         "auth": false,
@@ -497,55 +595,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1591329540,
-        "tms_id": "EP002960010279",
-        "description": "While watching a celebrity roast with Brian, Peter is inspired to throw a roast for himself, but it backfires when his friends go further then he expected. Hurt by what was said, Peter decides to seek out a new group of friends.",
-        "title_suggest": {
-            "input": [
-                "Roasted Guy",
-                "Guy"
-            ]
-        },
-        "expiration_date": 1583726340,
-        "title": "Roasted Guy",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1290.5559,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "16",
-        "original_air_date": 1430794800,
-        "clip_order": null,
-        "auth_launch_date": 1590724800,
-        "modified": 1590337566,
-        "media_id": "c3d91f9a6ed52fe55f020b0083aa994db27dad8e",
-        "airing_id": "RADS1005232000096588",
-        "id": "rgobH57MRzGk20PrP36ZFA",
-        "slug": "roasted-guy",
-        "views": 3,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15248413662172.jpg",
-        "created": 1430333787,
-        "season_number": "13",
-        "title_id": "809298",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1590337566,
-        "first_published": 1471237821,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1583125200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15248413662172.jpg",
-        "cma_id": "1269908"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1591588740,
         "tms_id": "EP002960010239",
         "description": "Quagmire purchases a new laptop, which promptly gets infected by viruses from all of the dirty websites he visits. When he takes it in to be fixed, the technician, Sonja, is unfazed by his browser history and actually recommends alternate sites. Impressed, Quagmire asks her out on a date.",
@@ -591,54 +640,5 @@
         "launch_date": 1483786800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227752778257.jpg",
         "cma_id": "809267"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1591329540,
-        "tms_id": "EP002960010278",
-        "description": "After Brian gets diagnosed with liver disease from his heavy drinking, Peter is stuck with the task of inserting Brian's suppository pills.  When Brian bites Peter's arm in self-defense, Brian becomes the alpha dog.",
-        "title_suggest": {
-            "input": [
-                "Once Bitten",
-                "Bitten"
-            ]
-        },
-        "expiration_date": 1583726340,
-        "title": "Once Bitten",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1290.7561,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "15",
-        "original_air_date": 1430190000,
-        "clip_order": null,
-        "auth_launch_date": 1590724800,
-        "modified": 1590323885,
-        "media_id": "02a40fc6279d871edc11f16a3ec72a047ad9277e",
-        "airing_id": "RADS1005232000096594",
-        "id": "zIxjF5rwTdCPJtNa17AI8A",
-        "slug": "once-bitten",
-        "views": 2183,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15248413271652.jpg",
-        "created": 1430150039,
-        "season_number": "13",
-        "title_id": "809297",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1590323885,
-        "first_published": 1430198423,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1583125200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15248413271652.jpg",
-        "cma_id": "1422333"
     }
 ]
