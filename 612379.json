@@ -89,7 +89,7 @@
         "launch_date": 1590309000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200422/thumbnails/2_204221120563-ParanoiaAgent_002.jpg",
         "id": "AXGiel8TC8QgH-t19ITt",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1590911940,
@@ -180,7 +180,7 @@
         "launch_date": 1591516800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200515/thumbnails/2_20515950411-ParanoiaAgent_004.jpg",
         "id": "AXIYmg03C8QgH-t19JEE",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1592121540,
@@ -322,5 +322,49 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281820256-promo_ParanoiaAgent_107_SAT_15.jpg",
         "id": "AXJdX1hVRs3h4hI_X36W",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1593331140,
+        "tms_id": "EP007439340007",
+        "description": "Maniwa and Ikari investigate Kozuka for the attack on Taeko but their investigation takes a turn when Ikari realizes Kozuka is the next intended victim.",
+        "title_suggest": {
+            "input": [
+                "MHz"
+            ]
+        },
+        "title": "MHz",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+        "duration": 1347.1792,
+        "episode_number": "7",
+        "original_air_date": "1120971600",
+        "auth_launch_date": 1591516800,
+        "clip_order": null,
+        "airing_id": "RADS1006032000099951",
+        "media_id": "b9d94fab009e81e8574de134d1e28d1a1dab8bcf",
+        "modified": 1591228809,
+        "slug": "m-hz",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200528/thumbnails/1_205281818384-ParanoiaAgent_107.jpg",
+        "created": 1590704324,
+        "season_number": "1",
+        "title_id": "613846",
+        "tv_rating": "tv-14-v",
+        "published": 1591228809,
+        "tags": [],
+        "collection_title": "Paranoia Agent",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281818384-ParanoiaAgent_107.jpg",
+        "id": "AXJdXb-NC8QgH-t19JZ5",
+        "auth": true
     }
 ]
