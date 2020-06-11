@@ -55,6 +55,55 @@
         "cma_id": "980735"
     },
     {
+        "ott_launch_date": 1537774200,
+        "auth": true,
+        "auth_expiration_date": 1594871940,
+        "tms_id": "EP005604540086",
+        "description": "The members of Guild Council must face their arch rivals for one last time, while Doc happily falls into a black widow's deadly web.",
+        "title_suggest": {
+            "input": [
+                "The Terminus Mandate",
+                "Terminus Mandate",
+                "Mandate"
+            ]
+        },
+        "expiration_date": 1591243140,
+        "type": "episode",
+        "title": "The Terminus Mandate",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1354.7,
+        "episode_number": "8",
+        "original_air_date": 1537761600,
+        "auth_launch_date": 1591848000,
+        "clip_order": null,
+        "media_id": "f6a8fb966ef6eeb4d405f1606d0ee08904c6dca2",
+        "modified": 1591438205,
+        "airing_id": "RADS1006052000000532",
+        "id": "AWPLR0f5TdxzjxdCmQUy",
+        "slug": "the-terminus-mandate",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15374619980536.jpg",
+        "created": 1528123836,
+        "season_number": "7",
+        "title_id": "2165024",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1591438205,
+        "tags": [],
+        "collection_title": "The Venture Bros.",
+        "modified_by": "ODT Listener",
+        "launch_date": 1588824000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15374619980536.jpg"
+    },
+    {
         "ott_launch_date": 1536589740,
         "auth": true,
         "auth_expiration_date": 1593662340,
@@ -258,55 +307,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153323590772516.jpg"
     },
     {
-        "ott_launch_date": 1538404140,
-        "auth": false,
-        "auth_expiration_date": 1589428740,
-        "tms_id": "",
-        "description": "The city is hit with a mysterious blizzard that launches Team Venture into action. The Monarch and 21 are sent on a deadly mission to a secret island fortress.",
-        "title_suggest": {
-            "input": [
-                "The Forecast Manufacturer",
-                "Forecast Manufacturer",
-                "Manufacturer"
-            ]
-        },
-        "expiration_date": 1591847940,
-        "type": "episode",
-        "title": "The Forecast Manufacturer",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
-        "duration": 1353.03,
-        "episode_number": "9",
-        "original_air_date": 1538366400,
-        "auth_launch_date": 1586404800,
-        "clip_order": null,
-        "media_id": "c1de70c130b903e819bff075913b91c0052155c4",
-        "modified": 1591645042,
-        "airing_id": "RADS1005082000094095",
-        "id": "AWPahfntTdxzjxdCmTf5",
-        "slug": "the-forecast-manufacturer",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15433569776002.jpg",
-        "created": 1528379603,
-        "season_number": "7",
-        "title_id": "2165025",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1591645042,
-        "tags": [],
-        "collection_title": "The Venture Bros.",
-        "modified_by": "ODT Listener",
-        "launch_date": 1589428800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433569776002.jpg"
-    },
-    {
         "ott_launch_date": 1539008940,
         "auth": false,
         "auth_expiration_date": 1590033540,
@@ -408,7 +408,7 @@
     },
     {
         "ott_launch_date": 1534775340,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1591847940,
         "tms_id": "EP005604540081",
         "description": "The Morphic Trilogy reaches its stunning conclusion in a decades-spanning tale of friendship, betrayal, and mass murder that overwrites Venture history.",
