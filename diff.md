@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 14, 2020 at 05:30:40 EDT_
+_Last Update: June 14, 2020 at 06:30:37 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-### 2223891
-**Black Clover S03E121 - Three Problems**  
-TV-PG 🔒 22:18  
-⌛ July 5, 2020 at 04:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/three-problems  
-seriesid=`2143080` titleid=`2223891` id=`AXKjb_M5C8QgH-t19JnJ` mediaid=`258279f5c3081ea5c5a9e9f6531652f65f27e7fb`  
-_Yami is agog at what--or who--has taken the place of Julius's body. Asta and Secre are called before the Magic Parliament for their devilish dealings._  
-<a href="https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_20611851556-BlackClover_121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_20611851556-BlackClover_121.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177729
+**Naruto: Shippuden S06E17 - The Mizukage, the Giant Clam, and the Mirage**  
+TV-PG-L 🔒 21:52  
+⌛ July 5, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-mizukage-the-giant-clam-and-the-mirage  
+seriesid=`812206` titleid=`2177729` id=`AXKUNkrqC8QgH-t19Jj2` mediaid=`387dbc20a66700a8338503934e6ae848820da2e4`  
+_The Fourth Company continue their fight against the reanimated Kage. Gaara and Ohnoki team up to hold off Second Tsuchikage Mu, while the remaining shinobi take on the Second Mizukage._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068954401-narutoshippuden_300_TheMizukage.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068954401-narutoshippuden_300_TheMizukage.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
