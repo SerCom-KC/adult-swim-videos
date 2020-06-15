@@ -1,54 +1,107 @@
 {
-    "updated": 1592194578,
+    "updated": 1592222664,
     "added": [
         {
-            "auth_expiration_date": 1594008840,
+            "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Jealous queen tries to assassinate her stepdaughter because the stepdaughter makes better congo bars than her.",
+            "description": "Chaos, outrage, and an unforgiveable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 1A!",
             "title_suggest": {
                 "input": [
-                    "Snow White",
-                    "White"
+                    "Sneak Peek - Etc.",
+                    "Peek - Etc.",
+                    "- Etc.",
+                    "Etc."
                 ]
             },
-            "title": "Snow White",
-            "expiration_date": null,
-            "type": "episode",
+            "title": "Sneak Peek - Etc.",
+            "expiration_date": 1593431940,
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
-            "collection_id": "AXD5sp41Rs3h4hI_X2eX",
-            "duration": 667.9339,
-            "episode_number": "6",
+            "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+            "duration": 0,
             "original_air_date": null,
-            "auth_launch_date": 1592194500,
+            "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "RADS1006092000002303",
-            "media_id": "1658af2e1ab58419958e126c33b1d017aab2b65b",
-            "modified": 1591904648,
-            "slug": "snow-white",
+            "airing_id": "",
+            "media_id": "meb59e3004e2d57306caa7603af249aa5a5c82b9e6",
+            "modified": 1591879321,
+            "slug": "sneak-peek-etc",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/1_20520101801-JJVFT_006.jpg",
-            "created": 1589983794,
-            "season_number": "1",
-            "title_id": "2213500",
-            "tv_rating": "tv-ma-lv",
-            "published": 1591904648,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200611/thumbnails/1_2061184068-promo_ParanoiaAgent_Top_109_SAT.jpg",
+            "created": 1591879235,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
+            "published": 1591879321,
             "tags": [],
-            "collection_title": "JJ Villard's Fairy Tales",
+            "collection_title": "Paranoia Agent",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_20520101801-JJVFT_006.jpg",
-            "id": "AXIya1SnC8QgH-t19JOh",
-            "auth": true,
-            "collection_slug": "jj-villards-fairy-tales",
-            "collection_title_id": "2213494",
-            "online_exclusives": false
+            "modified_by": "Duke Nguyen",
+            "launch_date": 1592222400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_2061184068-promo_ParanoiaAgent_Top_109_SAT.jpg",
+            "id": "AXKjZXkGC8QgH-t19JnE",
+            "auth": false,
+            "collection_slug": "paranoia-agent",
+            "collection_title_id": "612379",
+            "online_exclusives": true
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": null,
+            "tms_id": "",
+            "description": "Chaos, outrage, and an unforgiveable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 1A!",
+            "title_suggest": {
+                "input": [
+                    "Sneak Peek - MHz",
+                    "Peek - MHz",
+                    "- MHz",
+                    "MHz"
+                ]
+            },
+            "title": "Sneak Peek - MHz",
+            "expiration_date": 1592222340,
+            "type": "clip",
+            "platforms": [
+                "android",
+                "fire-tv",
+                "ios",
+                "online-exclusive",
+                "roku"
+            ],
+            "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+            "duration": 15,
+            "original_air_date": null,
+            "auth_launch_date": null,
+            "clip_order": null,
+            "airing_id": "",
+            "media_id": "",
+            "modified": 1591024939,
+            "slug": "sneak-peek-m-hz",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200528/thumbnails/1_205281820256-promo_ParanoiaAgent_107_SAT_15.jpg",
+            "created": 1590704429,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
+            "published": 1591024939,
+            "tags": [],
+            "collection_title": "Paranoia Agent",
+            "disable_ads": false,
+            "modified_by": "Duke Nguyen",
+            "launch_date": 1591012800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281820256-promo_ParanoiaAgent_107_SAT_15.jpg",
+            "id": "AXJdX1hVRs3h4hI_X36W",
+            "auth": false,
+            "collection_slug": "paranoia-agent",
+            "collection_title_id": "612379",
+            "online_exclusives": true
+        }
+    ]
 }
