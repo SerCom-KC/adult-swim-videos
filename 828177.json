@@ -404,6 +404,55 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1595476740,
+        "tms_id": "",
+        "description": "Gary and his brain trust bring radical changes to old-fashioned soul collecting.",
+        "title_suggest": {
+            "input": [
+                "The Party Hole",
+                "Party Hole",
+                "Hole"
+            ]
+        },
+        "title": "The Party Hole",
+        "expiration_date": 1591243140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 655,
+        "episode_number": "5",
+        "original_air_date": 1558152000,
+        "auth_launch_date": 1592452800,
+        "clip_order": null,
+        "media_id": "a9ba3c53fd1288034711663f8469ca3a40bc0323",
+        "modified": 1592040727,
+        "airing_id": "RADS1006122000003211",
+        "slug": "the-party-hole",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15580247557034.jpg",
+        "created": 1556816438,
+        "season_number": "4",
+        "title_id": "2191443",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1592040727,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1588219200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
+        "id": "AWp5faU7AScUIg8XxfZ_",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1590638340,
         "tms_id": "",
         "description": "When Hell runs out of ball clamps, Satan sends his best men to get more. Unfortunately, Gary is one of his best men.",
@@ -449,55 +498,6 @@
         "launch_date": 1590638400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15598401267412.jpg",
         "id": "AWp5g9Z2AScUIg8XxfaD",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1589428740,
-        "tms_id": "",
-        "description": "Satan finds his new calling, dropping truth bombs on real Americans.",
-        "title_suggest": {
-            "input": [
-                "Stan the Man",
-                "the Man",
-                "Man"
-            ]
-        },
-        "title": "Stan the Man",
-        "expiration_date": 1592452740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 674.88,
-        "episode_number": "7",
-        "original_air_date": 1559361600,
-        "auth_launch_date": 1586404800,
-        "clip_order": null,
-        "media_id": "8307f480bae4c380982bd40f44dfd21e25c1f5c8",
-        "modified": 1590102983,
-        "airing_id": "RADS1005082000094096",
-        "slug": "stan-the-man",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15591483969052.jpg",
-        "created": 1556816665,
-        "season_number": "4",
-        "title_id": "2191446",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1590102983,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1589428800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15591483969052.jpg",
-        "id": "AWp5gRnyHl5gR6828zZT",
         "auth": false
     },
     {
@@ -693,7 +693,7 @@
         "launch_date": 1592452800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
         "id": "AWp5hohlHl5gR6828zZV",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
