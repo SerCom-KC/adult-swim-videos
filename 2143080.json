@@ -5787,7 +5787,7 @@
         "launch_date": 1591520400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200515/thumbnails/2_20515951566-BlackClover_117.jpg",
         "id": "AXIYmyn8C8QgH-t19JEF",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1592125140,
@@ -5926,7 +5926,7 @@
         "launch_date": 1592730000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281236172-BlackClover_119.jpg",
         "id": "AXJcJqNcC8QgH-t19JZh",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1593939540,
@@ -5971,6 +5971,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_20611851556-BlackClover_121.jpg",
         "id": "AXKjb_M5C8QgH-t19JnJ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1594544340,
+        "tms_id": "EP032284200122",
+        "description": "Asta's Black Asta form does him no favors in the court of Damnatio Kira. It's up to a powerful few to save Asta's head from the chopping block.",
+        "title_suggest": {
+            "input": [
+                "As Pitch Black as It Gets",
+                "Pitch Black as It Gets",
+                "Black as It Gets",
+                "as It Gets",
+                "It Gets",
+                "Gets"
+            ]
+        },
+        "title": "As Pitch Black as It Gets",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1303.4688,
+        "episode_number": "19",
+        "original_air_date": 1592717400,
+        "auth_launch_date": 1592730000,
+        "clip_order": null,
+        "airing_id": "RADS1006172000003708",
+        "media_id": "6538ad684d0a040477024657cae442a5f856dc9b",
+        "modified": 1592418237,
+        "slug": "as-pitch-black-as-it-gets",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200617/thumbnails/1_206171423436-BlackClover_122.jpg",
+        "created": 1592404566,
+        "title_id": "2223892",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "published": 1592418237,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_206171423436-BlackClover_122.jpg",
+        "id": "AXLCtWPBRs3h4hI_X4Gz",
         "auth": true
     }
 ]
