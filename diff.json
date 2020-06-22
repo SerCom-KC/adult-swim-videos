@@ -1,21 +1,21 @@
 {
-    "updated": 1592827482,
-    "added": [
+    "updated": 1592827785,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Chaos, outrage, and an unforgiveable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 12:30A!",
+            "description": "Feel the void.",
             "title_suggest": {
                 "input": [
-                    "Sneak Peek - Mellow Maromi",
-                    "Peek - Mellow Maromi",
-                    "- Mellow Maromi",
-                    "Mellow Maromi",
-                    "Maromi"
+                    "Sneak Peek - Holeways",
+                    "Peek - Holeways",
+                    "- Holeways",
+                    "Holeways"
                 ]
             },
-            "title": "Sneak Peek - Mellow Maromi",
-            "expiration_date": 1594036740,
+            "title": "Sneak Peek - Holeways",
+            "expiration_date": 1592827200,
             "type": "clip",
             "platforms": [
                 "android",
@@ -24,86 +24,32 @@
                 "online-exclusive",
                 "roku"
             ],
-            "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
             "duration": 0,
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "",
-            "media_id": "me93c10b560040a264b490869e0f143964e6769242",
-            "modified": 1592431265,
-            "slug": "sneak-peek-mellow-maromi",
+            "media_id": "mefdd5a9253fd7bba6d27d75c1799e1b1c8b1ea4a5",
+            "modified": 1591897486,
+            "slug": "sneak-peek-holeways",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200617/thumbnails/1_20617180596-promo_ParanoiaAgent_Top_110_SAT_15.jpg",
-            "created": 1592431063,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200605/thumbnails/1_2065939364-promo_ShiveringTruth_TOPICAL_206_SUN.jpg",
+            "created": 1591362307,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
-            "published": 1592431265,
+            "published": 1591897486,
             "tags": [],
-            "collection_title": "Paranoia Agent",
-            "disable_ads": false,
-            "modified_by": "Duke Nguyen",
-            "launch_date": 1592827200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_20617180596-promo_ParanoiaAgent_Top_110_SAT_15.jpg",
-            "id": "AXLESbO3C8QgH-t19JsZ",
-            "auth": false,
-            "collection_slug": "paranoia-agent",
-            "collection_title_id": "612379",
-            "online_exclusives": true
-        }
-    ],
-    "removed": [
-        {
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Chaos, outrage, and an unforgivable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 1A!",
-            "title_suggest": {
-                "input": [
-                    "Sneak Peek - Happy Family Planning",
-                    "Peek - Happy Family Planning",
-                    "- Happy Family Planning",
-                    "Happy Family Planning",
-                    "Family Planning",
-                    "Planning"
-                ]
-            },
-            "title": "Sneak Peek - Happy Family Planning",
-            "expiration_date": 1592827140,
-            "type": "clip",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "online-exclusive",
-                "roku"
-            ],
-            "collection_id": "AXF_uNw4Rs3h4hI_X29W",
-            "duration": 14.97,
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "airing_id": "",
-            "media_id": "",
-            "modified": 1591627577,
-            "slug": "sneak-peek-happy-family-planning",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200604/thumbnails/1_2064938419-promo_ParanoiaAgent_Top_108_SAT_15.jpg",
-            "created": 1591277968,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1591627577,
-            "tags": [],
-            "collection_title": "Paranoia Agent",
+            "collection_title": "The Shivering Truth",
             "disable_ads": false,
             "modified_by": "Jonas Eason",
             "launch_date": 1591617600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200604/thumbnails/2_2064938419-promo_ParanoiaAgent_Top_108_SAT_15.jpg",
-            "id": "AXJ_jtzGRs3h4hI_X3-w",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200605/thumbnails/2_2065939364-promo_ShiveringTruth_TOPICAL_206_SUN.jpg",
+            "id": "AXKElcaIRs3h4hI_X3_l",
             "auth": false,
-            "collection_slug": "paranoia-agent",
-            "collection_title_id": "612379",
+            "collection_slug": "the-shivering-truth",
+            "collection_title_id": "2165429",
             "online_exclusives": true
         }
     ]
