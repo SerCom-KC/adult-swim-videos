@@ -1,6 +1,58 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1443383760,
+        "auth_expiration_date": 1571198340,
+        "tms_id": "EP019635740005",
+        "description": "The gang is ready to quit the garden when they find the weed in the garden has failed, but they discover an abundance of \"miracle\" green tomatoes.",
+        "title_suggest": {
+            "input": [
+                "Fried Green Tomatoes",
+                "Green Tomatoes",
+                "Tomatoes"
+            ]
+        },
+        "title": "Fried Green Tomatoes",
+        "type": "episode",
+        "expiration_date": 1595908740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
+        "duration": 1206.6672227,
+        "episode_number": "5",
+        "original_air_date": 1409886000,
+        "clip_order": null,
+        "auth_launch_date": 1568347200,
+        "modified": 1592466127,
+        "media_id": "5e5a62be0b16628f4e503e2e6ec2c9514090fc15",
+        "airing_id": "RADS1006172000003722",
+        "id": "-qvQ-cKwQZu9Sj-se4FHjw",
+        "slug": "fried-green-tomatoes",
+        "views": 5,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_2022617724-blackjesus_005_dup-20140905.jpg",
+        "created": 1409818823,
+        "title_id": "2031269",
+        "tv_rating": "tv-ma-l",
+        "season_number": "1",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1592466127,
+        "first_published": 1409818823,
+        "tags": [],
+        "collection_title": "Black Jesus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1592884800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_2022617724-blackjesus_005_dup-20140905.jpg",
+        "cma_id": "1427468"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1443383520,
         "auth_expiration_date": 1569988740,
         "tms_id": "EP019635740003",
@@ -150,54 +202,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1592884740,
-        "tms_id": "",
-        "description": "Jesus lets Boonie have the power of Christ so he can see how difficult being the Son of God really is.  While Boonie is trying to figure out how to make his new powers work for him, Jesus takes a skip day for himself.",
-        "title_suggest": {
-            "input": [
-                "Boonie Christ",
-                "Christ"
-            ]
-        },
-        "title": "Boonie Christ",
-        "expiration_date": 1589860740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "duration": 1365.5,
-        "episode_number": "5",
-        "original_air_date": 1572062400,
-        "auth_launch_date": 1589860800,
-        "clip_order": null,
-        "media_id": "b39a73a4822889868e085693cdb9d80013954e7a",
-        "modified": 1591904771,
-        "airing_id": "RADS1005142000095068",
-        "slug": "boonie-christ",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261717499-blackjesus_305_air_cid-3FYKV.jpg",
-        "created": 1569883086,
-        "season_number": "3",
-        "title_id": "2160586",
-        "tv_rating": "tv-ma-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1591904771,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1586836800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261717499-blackjesus_305_air_cid-3FYKV.jpg",
-        "id": "AW2EUt0E1YiBSfg0KXXC",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1593489540,
         "tms_id": "",
         "description": "There's a vigilante in Southwest Compton, and he's taken matters into his own hands.  Jesus has to stop him before he goes too far.",
@@ -342,7 +346,7 @@
         "launch_date": 1589860800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261719314-blackjesus_310_air_cid-3FYN7.jpg",
         "id": "AW2EVGQI1YiBSfg0KXXE",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
