@@ -2,118 +2,126 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 27, 2020 at 00:30:37 EDT_
+_Last Update: June 28, 2020 at 00:30:32 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 3  
-2003422 Bob's Burgers: 1  
+2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
-### 2069538
-**American Dad S12E07 - Ninety North, Zero West**  
+### 2069541
+**American Dad S12E10 - A Nice Night for a Drive**  
 TV-14 🔒 21:14  
-⌛ July 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ninety-north-zero-west  
-seriesid=`581006` titleid=`2069538` id=`tws7PtVrRlKyTN3PRz_gKQ` mediaid=`e374e0327ea852a8a2e8c3fbfdccb9a344bbec85`  
-_The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg" height="144px" /></a>
-### 2069544
-**American Dad S12E09 - The Witches of Langley**  
-TV-14 🔒 21:14  
-⌛ July 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-witches-of-langley  
-seriesid=`581006` titleid=`2069544` id=`Y5ttR_r4RD--F5vHW1jb0Q` mediaid=`82d4c38087e623a89a32d2e71d1179ab0d8066d5`  
-_Steve and his friends take up witchcraft to gain power and popularity at school. Stan and Klaus become obsessed with remembering 90s bands._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg" height="144px" /></a>
-### 2069540
-**American Dad S12E08 - Whole Slotta Love**  
-TV-14 🔒 21:14  
-⌛ July 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/whole-slotta-love  
-seriesid=`581006` titleid=`2069540` id=`5SnUDAJQT2G2Eit6_-l_HQ` mediaid=`e745900a93d0c34d4f6469acf1031491ab764998`  
-_Francine becomes less attracted to Stan when he gets involved with slot car racing. Roger becomes a stewardess to perform comedy routines on the plane but is upset when another stewardess is funnier than him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg" height="144px" /></a>
-### 2003441
-**Bob's Burgers S02E06 - Dr. Yap**  
-TV-14 🔒 21:32  
-⌛ July 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/dr-yap  
-seriesid=`2003422` titleid=`2003441` id=`mXBWtsgfTi6STJB21Re0nw` mediaid=`a409c80e69cea0e5280555c6aaa2bd0673808013`  
-_Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg" height="144px" /></a>
-### 809301
-**Family Guy S13E20 - Pilling Them Softly**  
-TV-14-DLSV 🔒 21:38  
-⌛ July 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/pilling-them-softly  
-seriesid=`440990` titleid=`809301` id=`kSVnrtUFQwWI1m1ClhAkAQ` mediaid=`7a49da08547b9861cf1138f6ebf679e76c0b41f2`  
-_After Quagmire shows off his cooking skills to the gang, Lois suggests that he audtion for Channel 5's new cooking show._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/pilling-them-softly/familyguy_1217_air_cid-2M1KP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/pilling-them-softly/familyguy_1217_air_cid-2M1KP.jpg" height="144px" /></a>
-### 809137
-**Family Guy S13E18 - Take My Wife**  
-TV-14-DLSV 🔒 21:32  
-⌛ July 3, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/take-my-wife  
-seriesid=`440990` titleid=`809137` id=`R6VzWFmnQ8uv26buEkFvqg` mediaid=`9cea179215a69979bbe26e742596c80f53295fc6`  
-_Peter and the guys are invited on a Bahamas couples' vacation with their wives. Upon arrival, their host reveals that they're at a "couples' counseling retreat."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15251857119415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15251857119415.jpg" height="144px" /></a>
+⌛ July 4, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/a-nice-night-for-a-drive  
+seriesid=`581006` titleid=`2069541` id=`Jv3Vtv7GTM2hwe473Cu2Vg` mediaid=`446e15882ee54ba47ea9eae12a96f6c03d736848`  
+_Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg" height="144px" /></a>
+### 2069543
+**American Dad S12E12 - Bazooka Steve**  
+TV-14 🔒 21:13  
+⌛ July 4, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/bazooka-steve  
+seriesid=`581006` titleid=`2069543` id=`AitmXh48RkeeOF5Mpxu47w` mediaid=`123955f7177e4d93e49b5e6257cfca8bbd43958e`  
+_Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg" height="144px" /></a>
+### 2069542
+**American Dad S12E11 - Casino Normale**  
+TV-14 🔒 21:13  
+⌛ July 4, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/casino-normale  
+seriesid=`581006` titleid=`2069542` id=`Kh2zdJEDQb-HJmzQQbcygw` mediaid=`78b0f4774f029711db4b5301b3c3d74970c7cf9c`  
+_Francine steals from the CIA and pretends to be a sexy supervillain to incite Stan to be more seductive. Roger tricks Hayley and Steve into trapping Jay Leno so he can take revenge on him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg" height="144px" /></a>
+### 2003443
+**Bob's Burgers S02E08 - Bad Tina**  
+TV-14 🔒 21:29  
+⌛ July 4, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/bad-tina  
+seriesid=`2003422` titleid=`2003443` id=`-c404yM4SMCfjTvgiE3KHw` mediaid=`99e3c5b27a452c81dfa68c7eb7df9f26e6e535ad`  
+_Tina starts hanging out with bad girl Tammy in an effort to get closer to Jimmy Junior._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216329440819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216329440819.jpg" height="144px" /></a>
+### 2003442
+**Bob's Burgers S02E07 - Moody Foodie**  
+TV-14 🔒 21:21  
+⌛ July 4, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/moody-foodie  
+seriesid=`2003422` titleid=`2003442` id=`b0-2bYZcRqKxlbALJnVQ8Q` mediaid=`de0de31f26c4729c9c008d62aa3572006f5e6205`  
+_When the restaurant receives a bad review from a food critic, the Belchers fear that the negative press will keep customers away. When Bob shows up at the critic's house for a redo, his plan quickly spirals out of control when the kids and his fellow restaurant owners show up to support him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221632620243.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221632620243.jpg" height="144px" /></a>
+### 2064577
+**Family Guy S14E02 - Guy, Robot**  
+TV-14-DLSV 🔒 21:40  
+⌛ July 4, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/guy-robot  
+seriesid=`440990` titleid=`2064577` id=`RAsk22suQ9yV8VE-zt_oVQ` mediaid=`328552a36ca60f04a6b85d39645f504a594f1b37`  
+_Brian decides to do stand up comedy, but when his set begins to tank, he starts stealing Stewie's Twitter material._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/guy-robot/familyguy_1302_air_cid-2M6R4.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/guy-robot/familyguy_1302_air_cid-2M6R4.jpg" height="144px" /></a>
+### 809302
+**Family Guy S13E22 - Papa Has a Rollin' Son**  
+TV-14-DLSV 🔒 21:39  
+⌛ July 4, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/papa-has-a-rollin-son  
+seriesid=`440990` titleid=`809302` id=`t27qtYTfTBiQ41uuL_AXpw` mediaid=`c7672afaaf8df3a657d3ad3b10f6fcc8a0a7d903`  
+_It's nearly Fathers' Day, and when Peter learns about Joe's distant relationship with his father Bud, he invites Bud to town._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
 581006 American Dad: 3  
-### 2003431
-**Bob's Burgers S01E09 - Spaghetti Western and Meatballs**  
-TV-PG 🔓 21:34  
-⌛ June 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/spaghetti-western-and-meatballs  
-seriesid=`2003422` titleid=`2003431` id=`4Hb2eqXGTueest7kArYyDA` mediaid=`6575d178c15c95e042de6fc030daefdecb14fefe`  
-_When Bob and Gene start watching Spaghetti Western films, they wind up alienating Louise. As Gene takes pointers from the films on how to deal with his archrival at school, Tina takes out her aggression and fights her way through a conflict-resolution program._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg" height="144px" /></a>
-### 2003430
-**Bob's Burgers S01E08 - Art Crawl**  
-TV-14 🔓 21:32  
-⌛ June 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/art-crawl  
-seriesid=`2003422` titleid=`2003430` id=`Cy0lgbZFSg-5BlAVxPmVlw` mediaid=`7a16bff0a13713f66441a6183cb17dd8f43d3379`  
-_When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg" height="144px" /></a>
-### 809291
-**Family Guy S13E09 - This Little Piggy**  
+### 2003433
+**Bob's Burgers S01E11 - Weekend at Morts**  
+TV-14 🔒 21:16  
+⌛ June 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/weekend-at-morts  
+seriesid=`2003422` titleid=`2003433` id=`Jxxs6VHsQ7yZ9TI8o0MfKw` mediaid=`935f418e04a7ef41e463d320690d02bfbdf5d5cc`  
+_Bob and his family are forced to spend the weekend at Mort the Mortician's while the restaurant is being eradicated of toxic mold. Linda and Bob double-date with Mort and a female mortician he meets on-line, while Tina babysits Gene and Louise at the crematorium._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148399784520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148399784520.jpg" height="144px" /></a>
+### 2003432
+**Bob's Burgers S01E10 - Burger Wars**  
+TV-PG 🔒 21:33  
+⌛ June 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/burger-wars  
+seriesid=`2003422` titleid=`2003432` id=`q_NTzct-QmCtABt1J6LySQ` mediaid=`7fbe3f232ca2f871b3c8b5c2f7ff27b6e8dadf83`  
+_When Bob's eccentric landlord, Mr. Fischoeder, pays the family a visit, he informs Bob that his rival across the street, Jimmy Pesto of Pesto's Pizzeria, wants to take over Bob's lease so that he can expand his gift shop. With little time and not enough money, the Belcher family must cook up some business or luck to save the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148369035519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148369035519.jpg" height="144px" /></a>
+### 809292
+**Family Guy S13E10 - Quagmire's Mom**  
 TV-14 🔒 21:30  
-⌛ June 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/this-little-piggy  
-seriesid=`440990` titleid=`809291` id=`8rfWndh1RUm8E6zMF4BKoQ` mediaid=`efcaf8b7f59ecce4ab099bdf6fbf4e6993c8c9aa`  
-_At Stewie's graduation, Brian states that Stewie's proud moment is no big feat. Stewie takes it upon himself to try and acquire some real world knowledge.  Meg is discovered by a photographer who asks her if she would like to model for him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267603955719.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267603955719.jpg" height="144px" /></a>
-### 809290
-**Family Guy S13E08 - Our Idiot Brian**  
+⌛ June 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/quagmires-mom  
+seriesid=`440990` titleid=`809292` id=`I0X6z9adREedJ4ZTmJfFJg` mediaid=`bec6478d7cc8c1752947356ff8ba51cd142238b4`  
+_When Meg asks Peter for a check for her upcoming field trip, he finally notices that his "checkbook" is just a blank pad of paper. Lois agrees to take Peter to the bank where they discover that Peter's first name is really "Justin"._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247535892981.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247535892981.jpg" height="144px" /></a>
+### 809293
+**Family Guy S13E11 - Encyclopedia Griffin**  
 TV-14 🔒 21:31  
-⌛ June 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/our-idiot-brian  
-seriesid=`440990` titleid=`809290` id=`MpXQiUOfT_KZeDTbLhc1kQ` mediaid=`372a600dd5e23518d98e80262d3eec835b402497`  
-_Meg is worried that she won't do well on her SATs, so she convinces Brian to take the test for her. A confident Brian agrees to the challenge, and even dresses up like Meg, only to find out that he received the lowest score in the class._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761262551.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761262551.jpg" height="144px" /></a>
-### 2041486
-**American Dad S11E13 - Widow's Pique**  
-TV-14-LV 🔒 21:13  
-⌛ June 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/widows-pique  
-seriesid=`581006` titleid=`2041486` id=`0KELcgZDS2SM3e4YZ_bLuw` mediaid=`0ad273cad890408604f0db466ea5d3f855ccf99f`  
-_When Stan is on a mission, Francine pretends she's a widow. Steve and his friends play wrestling and get beat up by Principal Lewis._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15107888270076.jpg" height="144px" /></a>
-### 2041487
-**American Dad S11E14 - The Nova Centauris-burgh Board of Tourism Presents: American Dad**  
-TV-14-DL 🔒 21:13  
-⌛ June 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-nova-centauris-burgh-board-of-tourism-presents-american-dad  
-seriesid=`581006` titleid=`2041487` id=`2NwZlkpvQJ2tY5SHaUsN5w` mediaid=`807f28321050d7c67daeb94d0bf926cc06388735`  
-_Francine joins in on Steve and his pals' live-action role-playing game. Stan opens a knock-off Seaworld in the house._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126752269831.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126752269831.jpg" height="144px" /></a>
-### 2041485
-**American Dad S11E12 - The Dentist's Wife**  
-TV-14 🔒 21:13  
-⌛ June 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-dentists-wife  
-seriesid=`581006` titleid=`2041485` id=`7dJmcExrRtCnDk5rixt9Xw` mediaid=`e0531106df1c5ed5955c3555f0a19df176fdf6fa`  
-_Roger loses his identity after becoming fascinated by a local dentist's wife. Meanwhile, Klaus throws a party when Stan and the kids are unable to move from being sore after working out._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg" height="144px" /></a>
+⌛ June 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/encyclopedia-griffin  
+seriesid=`440990` titleid=`809293` id=`sI4vFD1oSWqoRIeQhFMZew` mediaid=`e33b93a9a44a4cf8958804bd71d954fa66a5aa6a`  
+_When Stewie complains that his tricycle has been stolen, Peter and his friends are spurred into action. Peter finds the kid responsible, and the success leads the group to start a detective agency for kids._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761636641.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761636641.jpg" height="144px" /></a>
+### 2041488
+**American Dad S11E15 - Daesong Heavy Industries**  
+TV-14-DLV 🔓 21:14  
+⌛ June 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/daesong-heavy-industries  
+seriesid=`581006` titleid=`2041488` id=`8D7FQHc-RLisjOMQHSpvSQ` mediaid=`92e9c92d996568cee9b7056a3008dd9d08051794`  
+_Stan loses his faith in religion after Steve questions everything in the Bible. He takes the family to Korea to investigate the rumors of a reinvented "Noah's Ark."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200190482404.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200190482404.jpg" height="144px" /></a>
+### 2046300
+**American Dad S11E16 - Daesong Heavy Industries II: Return to Innocence**  
+TV-14-DLSV 🔓 21:14  
+⌛ June 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/daesong-heavy-industries-ii-return-to-innocence  
+seriesid=`581006` titleid=`2046300` id=`IsWR_wnmSM-E7KEkZ7ggWw` mediaid=`19a48d743812fd75ac575ae53eba3200ea224ab7`  
+_Stan and Francine lose their memories and resort to primitive living on an island, Hayley and Jeff are rescued by the Navy and Jeff decides to enlist, and Roger and Steve try to survive on a lifeboat in the middle of the ocean._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001910118711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001910118711.jpg" height="144px" /></a>
+### 2046301
+**American Dad S11E17 - Criss-Cross Applesauce: The Ballad of Billy Jesusworth**  
+TV-14-DLV 🔓 21:13  
+⌛ June 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/criss-cross-applesauce-the-ballad-of-billy-jesusworth  
+seriesid=`581006` titleid=`2046301` id=`W3K_g_63TnWUsXFUZ6YMbA` mediaid=`7ca3f7b503b9411dfa2ef8f13687dfba332ec197`  
+_When Roger breaks his ankle, Francine convinces Stan to let him play in his basketball league. Meanwhile, Steve sings a song that parodies R. Kelley's "Trapped in the Closet."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001919490614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001919490614.jpg" height="144px" /></a>
