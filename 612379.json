@@ -226,7 +226,7 @@
         "launch_date": 1592121600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_2052093001-ParanoiaAgent_005.jpg",
         "id": "AXIyRt8sC8QgH-t19JOH",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1592726340,
@@ -323,6 +323,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1595145540,
+        "tms_id": "",
+        "description": "Maromi's anime falls behind schedule as the staff members start ending up in the hospital. Soon, only the production manager is left until he receives a visit from Lil' Slugger.",
+        "title_suggest": {
+            "input": [
+                "Mellow Maromi",
+                "Maromi"
+            ]
+        },
+        "title": "Mellow Maromi",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+        "duration": 1347.2125,
+        "episode_number": "10",
+        "original_air_date": "1122786000",
+        "auth_launch_date": 1593331200,
+        "clip_order": null,
+        "airing_id": "RADS1006232000005639",
+        "media_id": "67ed66837bf52da2fcdc38f9d81b5edf93828d7f",
+        "modified": 1593009434,
+        "slug": "mellow-maromi",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200624/thumbnails/1_20624103735-ParanoiaAgent_10.jpg",
+        "created": 1590704242,
+        "season_number": "1",
+        "title_id": "613849",
+        "tv_rating": "tv-14-v",
+        "published": 1593009434,
+        "tags": [],
+        "collection_title": "Paranoia Agent",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200624/thumbnails/2_20624103735-ParanoiaAgent_10.jpg",
+        "id": "AXJdXH8LC8QgH-t19JZ4",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1593331140,
         "tms_id": "EP007439340007",
         "description": "Maniwa and Ikari investigate Kozuka for the attack on Taeko but their investigation takes a turn when Ikari realizes Kozuka is the next intended victim.",
@@ -364,7 +409,7 @@
         "launch_date": 1593331200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281818384-ParanoiaAgent_107.jpg",
         "id": "AXJdXb-NC8QgH-t19JZ5",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1594540740,
