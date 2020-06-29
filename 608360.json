@@ -3224,6 +3224,58 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1595218440,
+        "tms_id": "",
+        "description": "The RC writers imagine Harry Potter as a 70's sitcom. The future looks bleak for Nostradamus's assistant. We answer the question of what's underneath Abe Lincoln's hat. And the Jonas Brothers learn they are more than just brothers.",
+        "title_suggest": {
+            "input": [
+                "Petless M in: Cars are Couches of the Road",
+                "M in: Cars are Couches of the Road",
+                "in: Cars are Couches of the Road",
+                "Cars are Couches of the Road",
+                "are Couches of the Road",
+                "Couches of the Road",
+                "of the Road",
+                "the Road",
+                "Road"
+            ]
+        },
+        "title": "Petless M in: Cars are Couches of the Road",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 0,
+        "episode_number": "14",
+        "original_air_date": 1593404100,
+        "auth_launch_date": 1593404100,
+        "clip_order": null,
+        "airing_id": "RADS1006262000006501",
+        "media_id": "96f4646cbe006ed443bc49713a3fa923d2548df4",
+        "modified": 1593190510,
+        "slug": "petless-m-in-cars-are-couches-of-the-road",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200626/thumbnails/1_206261254274-robotchicken_1015_dup-20190823.jpg",
+        "created": 1593184686,
+        "title_id": "2213488",
+        "season_number": "10",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1593190510,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200626/thumbnails/2_206261254274-robotchicken_1015_dup-20190823.jpg",
+        "id": "AXLxNROaRs3h4hI_X4MJ",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": 1460988000,
         "auth_expiration_date": 1598932740,
