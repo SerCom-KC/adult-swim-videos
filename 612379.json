@@ -461,53 +461,6 @@
         "description": "Chaos, outrage, and an unforgiveable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 12:30A!",
         "title_suggest": {
             "input": [
-                "Sneak Peek - Etc.",
-                "Peek - Etc.",
-                "- Etc.",
-                "Etc."
-            ]
-        },
-        "title": "Sneak Peek - Etc.",
-        "expiration_date": 1593431940,
-        "type": "clip",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "online-exclusive",
-            "roku"
-        ],
-        "collection_id": "AXF_uNw4Rs3h4hI_X29W",
-        "duration": 0,
-        "original_air_date": null,
-        "auth_launch_date": null,
-        "clip_order": null,
-        "airing_id": "",
-        "media_id": "meb59e3004e2d57306caa7603af249aa5a5c82b9e6",
-        "modified": 1592233645,
-        "slug": "sneak-peek-etc",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200611/thumbnails/1_2061184068-promo_ParanoiaAgent_Top_109_SAT.jpg",
-        "created": 1591879235,
-        "season_number": "",
-        "title_id": "",
-        "tv_rating": "",
-        "published": 1592233645,
-        "tags": [],
-        "collection_title": "Paranoia Agent",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": 1592222400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_2061184068-promo_ParanoiaAgent_Top_109_SAT.jpg",
-        "id": "AXKjZXkGC8QgH-t19JnE",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": null,
-        "tms_id": "",
-        "description": "Chaos, outrage, and an unforgiveable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 12:30A!",
-        "title_suggest": {
-            "input": [
                 "Sneak Peek - Mellow Maromi",
                 "Peek - Mellow Maromi",
                 "- Mellow Maromi",
@@ -548,6 +501,56 @@
         "launch_date": 1592827200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_20617180596-promo_ParanoiaAgent_Top_110_SAT_15.jpg",
         "id": "AXLESbO3C8QgH-t19JsZ",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Chaos, outrage, and an unforgiveable crime\u2026 Prepare yourself for the next episode of Paranoia Agent, Saturday at 12:30A!",
+        "title_suggest": {
+            "input": [
+                "Paranoia Agent \u2013 Returns in Two Weeks",
+                "Agent \u2013 Returns in Two Weeks",
+                "\u2013 Returns in Two Weeks",
+                "Returns in Two Weeks",
+                "in Two Weeks",
+                "Two Weeks",
+                "Weeks"
+            ]
+        },
+        "title": "Paranoia Agent \u2013 Returns in Two Weeks",
+        "expiration_date": 1594641600,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+        "duration": 0,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me0a15f71b617547df2c08050d15e5c63177815185",
+        "modified": 1593196301,
+        "slug": "paranoia-agent-returns-in-two-weeks",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200626/thumbnails/1_20626133236-promo_ParanoiaAgent_11_WillReturn_15.jpg",
+        "created": 1593192781,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1593196301,
+        "tags": [],
+        "collection_title": "Paranoia Agent",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1593432000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200626/thumbnails/2_20626133236-promo_ParanoiaAgent_11_WillReturn_15.jpg",
+        "id": "AXLxsJabRs3h4hI_X4MR",
         "auth": false
     }
 ]
