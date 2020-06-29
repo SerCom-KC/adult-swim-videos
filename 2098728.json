@@ -747,7 +747,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1593403140,
         "tms_id": "EP025761330039",
         "description": "Figuring out Hit's time skipping ability allows Goku to keep up, until Hit powers up! Will Goku finally face defeat, or does the Saiyan have a secret power of his own?",
@@ -6888,7 +6888,7 @@
         "cma_id": "1354109"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330034",
