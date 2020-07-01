@@ -203,54 +203,6 @@
         "cma_id": "1406976"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1593575940,
-        "tms_id": "EP002960010277",
-        "description": "Joe decides to become more spontaneous and independent, leaving Bonnie and quitting his job. This \"New Joe\" invites the guys on a road trip to Niagara Falls to celebrate.",
-        "title_suggest": {
-            "input": [
-                "#JOLO"
-            ]
-        },
-        "title": "#JOLO",
-        "type": "episode",
-        "expiration_date": 1583726340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1289.2546,
-        "episode_number": "24",
-        "original_air_date": 1429585200,
-        "clip_order": null,
-        "auth_launch_date": 1592971200,
-        "modified": 1592549167,
-        "media_id": "e6cd68c90e8a6e752b70541fe16780b1a71ae74b",
-        "airing_id": "RADS1006182000004294",
-        "id": "ZDNdCeIpSUy1YOMANefZXg",
-        "slug": "jolo",
-        "views": 3346,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152484128275713.jpg",
-        "created": 1429593624,
-        "title_id": "809296",
-        "tv_rating": "tv-14-dlsv",
-        "season_number": "13",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1592549167,
-        "first_published": 1429593624,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1583125200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484128275713.jpg",
-        "cma_id": "1262743"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1576828740,
@@ -595,6 +547,55 @@
         "launch_date": 1577077200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/peternormal-activity/familyguy_1216_air_cid-2XX7M.jpg",
         "cma_id": "809300"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1594180740,
+        "tms_id": "EP002960010289",
+        "description": "Peter's estranged sister Karen shows up to the Griffin family's Thanksgiving dinner, and Joe, Cleveland, and Quagmire realize that she is the famous wrestler, Heavy Flo.",
+        "title_suggest": {
+            "input": [
+                "Peter's Sister",
+                "Sister"
+            ]
+        },
+        "expiration_date": 1587959940,
+        "title": "Peter's Sister",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1301.2669336,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "4",
+        "original_air_date": 1448337600,
+        "clip_order": null,
+        "auth_launch_date": 1593576000,
+        "modified": 1593094089,
+        "media_id": "e2e6700dd63abab62aea11615a6e9f68cd48774e",
+        "airing_id": "RADS1006252000006255",
+        "id": "urRzi84KRtaRBNmMFEikLg",
+        "slug": "peters-sister",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1448307026,
+        "season_number": "14",
+        "title_id": "2064579",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1593094089,
+        "first_published": 1476940224,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1587355200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-sister/familyguy_1304_air_cid-2XX84.jpg",
+        "cma_id": "1446375"
     },
     {
         "auth": true,
