@@ -695,7 +695,7 @@
     {
         "auth": false,
         "ott_launch_date": 1451669520,
-        "auth_expiration_date": 1609477199,
+        "auth_expiration_date": null,
         "tms_id": "EP007542790005",
         "rating": 6.798024,
         "description": "During a schoolroom history class, the Eye calls George Washington a racist because he was a slave owner. The Eye gets suspended from school and sent home. Rhoda and Liquor try to persuade the Eye to apologize for his statement.",
@@ -706,7 +706,7 @@
         },
         "type": "episode",
         "title": "Rememorized",
-        "expiration_date": 2085368400,
+        "expiration_date": 1593720900,
         "platforms": [
             "web",
             "mobile",
@@ -717,10 +717,10 @@
         "episode_number": "5",
         "original_air_date": 1131946200,
         "clip_order": null,
-        "auth_launch_date": 1593662400,
-        "modified": 1593699609,
+        "auth_launch_date": null,
+        "modified": 1593720849,
         "media_id": "ace879e352e8385cf1f75ba847b3332911f8731c",
-        "airing_id": "RADS1006252000006126",
+        "airing_id": "RADS1010111900027081",
         "id": "YtD8liBlRy6x5kS9f8LcUw",
         "slug": "rememorized",
         "views": 160960,
@@ -733,7 +733,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1593699609,
+        "published": 1593720849,
         "tags": [
             "12 oz mouse episode rememorized"
         ],
