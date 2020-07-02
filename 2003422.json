@@ -290,55 +290,6 @@
         "cma_id": "2003513"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1593662340,
-        "tms_id": "EP012792980015",
-        "description": "A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis.",
-        "title_suggest": {
-            "input": [
-                "Bob Day Afternoon",
-                "Day Afternoon",
-                "Afternoon"
-            ]
-        },
-        "expiration_date": 1508911199,
-        "title": "Bob Day Afternoon",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.8886,
-        "episode_number": "2",
-        "original_air_date": 1376276400,
-        "clip_order": null,
-        "auth_launch_date": 1593057600,
-        "modified": 1592640967,
-        "media_id": "3ae7a97e67840c6e49f14b6748964f1ec91c77b7",
-        "airing_id": "RADS1006192000004782",
-        "id": "ICnCBkoDSiuMym6JboTa5Q",
-        "slug": "bob-day-afternoon",
-        "views": 2,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15214841198095.jpg",
-        "created": 1403210985,
-        "season_number": "2",
-        "title_id": "2003437",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1592640967,
-        "first_published": 1406521228,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1508306400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg",
-        "cma_id": "1496692"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1594094340,
@@ -478,6 +429,56 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg",
         "cma_id": "2003444"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1594267140,
+        "tms_id": "EP012792980025",
+        "description": "Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers, who hire the Belcher kids as \"weed pickers.\" Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision.",
+        "title_suggest": {
+            "input": [
+                "Bob Fires the Kids",
+                "Fires the Kids",
+                "the Kids",
+                "Kids"
+            ]
+        },
+        "expiration_date": null,
+        "title": "Bob Fires the Kids",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.7895,
+        "episode_number": "3",
+        "original_air_date": 1381197600,
+        "clip_order": null,
+        "auth_launch_date": 1593662400,
+        "modified": 1593187447,
+        "media_id": "362e1875ab9ec1ea7102197574f0e6578c7977fc",
+        "airing_id": "RADS1006262000006505",
+        "id": "m6oToyJWT4iP8igvJtBeOA",
+        "slug": "bob-fires-the-kids",
+        "views": 7552,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216340091915.jpg",
+        "created": 1403210221,
+        "season_number": "3",
+        "title_id": "2003514",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1593187447,
+        "first_published": 1409541651,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg",
+        "cma_id": "2003514"
     },
     {
         "auth": true,
