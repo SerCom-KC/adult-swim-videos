@@ -2,14 +2,11 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 6, 2020 at 08:30:56 EDT_
+_Last Update: July 6, 2020 at 12:30:59 EDT_
 ## Video added
 ### Summary
-612379 Paranoia Agent: 1  
+618253 12 oz Mouse: 1  
 ### Online Exclusives
-`AXLr5gQBC8QgH-t19JyW` [Paranoia Agent - Sneak Peek - No Entry](https://www.adultswim.com/videos/paranoia-agent/sneak-peek-no-entry)  
+`AXML_SkAC8QgH-t19J1C` [12 oz Mouse - 12 Oz Mouse Season 3 Trailer](https://www.adultswim.com/videos/12-oz-mouse/12-oz-mouse-season-3-trailer)  
 ## Video removed
-### Summary
-612379 Paranoia Agent: 1  
-### Online Exclusives
-`AXLESbO3C8QgH-t19JsZ` [Paranoia Agent - Sneak Peek - Mellow Maromi](https://www.adultswim.com/videos/paranoia-agent/sneak-peek-mellow-maromi)  
+No videos were removed.  
