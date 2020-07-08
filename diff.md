@@ -2,114 +2,102 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 7, 2020 at 00:30:37 EDT_
+_Last Update: July 8, 2020 at 00:00:38 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2022095 Black Jesus: 1  
-2003422 Bob's Burgers: 1  
-2209292 Demon Slayer: 1  
-440990 Family Guy: 1  
-### 2069564
-**American Dad S13E11 - My Purity Ball and Chain**  
-TV-14-DLSV 🔒 21:02  
-⌛ July 13, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/my-purity-ball-and-chain  
-seriesid=`581006` titleid=`2069564` id=`AWHnqhey0KIGIdXCKzwy` mediaid=`40521d4cb0383da4e4ca2865d2c48703cb13dd51`  
-_Stan avoids giving Steve "the talk" by joining a chastity group. The Smiths build a waterslide in the backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001014945514.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001014945514.jpg" height="144px" /></a>
-### 2069563
-**American Dad S13E10 - Railroaded**  
-TV-14-DLSV 🔒 21:02  
-⌛ July 13, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/railroaded  
-seriesid=`581006` titleid=`2069563` id=`AWHnqcjk0KIGIdXCKzww` mediaid=`f4b384a8a54210087fd982834628bb76ff6eea66`  
-_Stan gets in over his head when he runs for mayor._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200101162688.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200101162688.jpg" height="144px" /></a>
-### 2031271
-**Black Jesus S01E07 - The Other Shoe Drops**  
-TV-MA-L 🔓 18:46  
-⌛ August 10, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-jesus/the-other-shoe-drops  
-seriesid=`2022095` titleid=`2031271` id=`DqOGg5MtQtC4w-N3kvB_lA` mediaid=`ee9ec03b9ba2000a8230939e24d4ba451abaa2f4`  
-_Trayvon's foray into documentary filmmaking reveals greed, chaos, angry farmers, and a saboteur pouring bleach in the garden._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226177469-blackjesus_007_dup-20140814.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226177469-blackjesus_007_dup-20140814.jpg" height="144px" /></a>
-### 2003522
-**Bob's Burgers S03E11 - Nude Beach**  
-TV-14 🔒 21:33  
-⌛ July 13, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/nude-beach  
-seriesid=`2003422` titleid=`2003522` id=`-iEHRbHnQaKmCbMl2ZZQeQ` mediaid=`4d479a4000b4c5f006811ad5bb56110aedb5ec29`  
-_Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg" height="144px" /></a>
-### 2209299
-**Demon Slayer S01E07 - Muzan Kibutsuji**  
- 🔓 20:56  
-⌛ July 20, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/demon-slayer/muzan-kibutsuji  
-seriesid=`2209292` titleid=`2209299` id=`AW5cMr7BadNs2hMNfudw` mediaid=`db1bf71c08856d2266bf3016dd86cc99f3e322c3`  
-_And then there were three. Tanjiro, backed into a corner, is saved by Nezuko and follows the demons to their swamp._  
-<a href="https://media.cdn.adultswim.com/uploads/20191111/thumbnails/2_1911111540513-DemonSlayer_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191111/thumbnails/2_1911111540513-DemonSlayer_007.jpg" height="144px" /></a>
-### 2064586
-**Family Guy S14E23 - A Lot Going on Upstairs**  
-TV-14-DLSV 🔒 21:41  
-⌛ July 13, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/a-lot-going-on-upstairs  
-seriesid=`440990` titleid=`2064586` id=`1gNqAR65QOGAVfnpxNiQLg` mediaid=`374e7d0b4cea2644356195ebdda88f7ac5e9d278`  
-_After hearing that Stewie has been having nightmares, Brian decides to help.  He tries to cure Stewie by making a list of Stewie's fears and using exposure therapy to deal with them._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/a-lot-going-on-upstairs/familyguy_1311_air_cid-2XXDN.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/a-lot-going-on-upstairs/familyguy_1311_air_cid-2XXDN.jpg" height="144px" /></a>
+344089 Home Movies: 2  
+322328 Space Ghost Coast to Coast: 1  
+### 2069566
+**American Dad S13E13 - Mean Francine**  
+TV-14-DLV 🔒 21:03  
+⌛ July 14, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/mean-francine  
+seriesid=`581006` titleid=`2069566` id=`AWrGc2RCCorLtcgflqgM` mediaid=`8965a176e09a79fd6c253187717958cb8fb2bd11`  
+_Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844913831519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155844913831519.jpg" height="144px" /></a>
+### 2069565
+**American Dad S13E12 - OreTron Trail**  
+TV-14-DLV 🔒 21:02  
+⌛ July 14, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/ore-tron-trail  
+seriesid=`581006` titleid=`2069565` id=`AWqxHynKCorLtcgflqW9` mediaid=`ba53e3d565c6882675dfcfb2ff3c38708688df18`  
+_Roger becomes worried about outliving the family. Klaus opens a convenience store in the attic._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg" height="144px" /></a>
+### 420674
+**Home Movies S03E02 - Breaking Up Is Hard to Do**  
+TV-PG-L 🔒 22:07  
+⌛ August 11, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/breaking-up-is-hard-to-do  
+seriesid=`344089` titleid=`420674` id=`je4maiWATwmcLEWosmhIOQ` mediaid=`69e4823ffcd05d3f8d31b4edb8c539a1b9abd213`  
+_A kitchen fire at the Smalls is nothing compared to the flaring tempers triggered when both of Paula's newly separated parents move in. To make matters worse, Coach McGuirk volunteers to "renovate" the kitchen. Meanwhile, Brendon, Jason and Melissa make a crime drama called "Mulligan and Winooski" about two cops._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162040-hmovies_028.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162040-hmovies_028.jpg" height="144px" /></a>
+### 448590
+**Home Movies S04E04 - Psycho-Delicate**  
+TV-PG-L 🔓 22:43  
+⌛ August 11, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/psycho-delicate  
+seriesid=`344089` titleid=`448590` id=`1aDr7J4xRq27cK185N-Bxw` mediaid=`2a9404daef35fd52e2c0b39925167178115f2863`  
+_Brendon, Jason and Melissa try their hand at a Hitchcock-style thriller. They want to get into a film festival run by a local video store clerk.  Coach McGuirk spends all his time at a diner, trying to woo a roller-skating waitress/actress named Fred.  Meanwhile, Paula tries to get a refund from her hairdresser._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162646-hmovies_043.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162646-hmovies_043.jpg" height="144px" /></a>
+### 322747
+**Space Ghost Coast to Coast S02E04 - Hungry**  
+TV-PG 🔓 12:35  
+⌛ August 11, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/hungry  
+seriesid=`322328` titleid=`322747` id=`U_7PSt_pSz-jX_Bs4swieQ` mediaid=`a6e9c27efe6cf61e889c7b89df561c8ff6d41895`  
+_Space Ghost welcomes shiny happy Michael Stipe from R.E.M. (Space Ghost: "Is that you in the corner?"Stipe: "Yes, it is.") Later, he shares time-honored difficult-places-to-reach-while-scratching-stories with Lassie. Mujibur and Sirajul, frequent guest stars on "The Late Show with David Letterman,"mysteriously appear with Space Ghost's pizza._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417951225-sgc2c_9504_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417951225-sgc2c_9504_bim.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2022095 Black Jesus: 1  
-2209292 Demon Slayer: 1  
-440990 Family Guy: 1  
+322328 Space Ghost Coast to Coast: 2  
+344089 Home Movies: 2  
 581006 American Dad: 2  
-### 2003512
-**Bob's Burgers S03E01 - Ear-sy Rider**  
-TV-14 🔒 21:30  
-⌛ July 6, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/ear-sy-rider  
-seriesid=`2003422` titleid=`2003512` id=`WQLkpD32SgOYEJ164dTdtQ` mediaid=`d9e7f05f7437f4a44494080bb3fd91b2633c9909`  
-_A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader "Horny Dave." Meanwhile, Louise has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg" height="144px" /></a>
-### 2160588
-**Black Jesus S03E07 - Hair Tudi**  
-TV-MA-L 🔒 21:36  
-⌛ July 6, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-jesus/hair-tudi  
-seriesid=`2022095` titleid=`2160588` id=`AW2EU3Uj1YiBSfg0KXXD` mediaid=`1f3fa02016d1f6bcfa0f35e91d1de689bd383e5a`  
-_Ms. Tudi miraculously scores a small business loan, and now she can open "Tudi's Wigs, Weaves and Whatnots."  The Korean Bitch Mafia isn't happy the store is on their turf, and that means war._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261718260-blackjesus_307_air_cid-3FXYD.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261718260-blackjesus_307_air_cid-3FXYD.jpg" height="144px" /></a>
-### 2209317
-**Demon Slayer S01E25 - Tsuguko, Kanao Tsuyuri**  
-TV-14-LV 🔒 20:55  
-⌛ July 6, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/demon-slayer/tsuguko-kanao-tsuyuri  
-seriesid=`2209292` titleid=`2209317` id=`AXGnd4wiC8QgH-t19IVu` mediaid=`1dbc5f58f9d196809b73769fcfa635c53f269970`  
-_Tanjiro endures rigorous training and struggles to reclaim control of his Total Concentration Breathing. Wax on, wax off._  
-<a href="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231035435-DemonSlayer_025.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231035435-DemonSlayer_025.jpg" height="144px" /></a>
-### 2064578
-**Family Guy S14E03 - Peter, Chris, & Brian**  
-TV-14-DLSV 🔒 21:42  
-⌛ July 6, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/peter-chris-brian  
-seriesid=`440990` titleid=`2064578` id=`61Y8OOmVSoGUKMyCKiUbGg` mediaid=`ae36e83ca218617e91a3a3fc900e47b58f38219b`  
-_After learning his childhood home has finally been sold after his mother’s death, Peter and the gang plan on breaking in to retrieve Peter’s old porn video collection._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/peter-chris-brian/familyguy_1303_air_cid-2XX7N.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/peter-chris-brian/familyguy_1303_air_cid-2XX7N.jpg" height="144px" /></a>
-### 2069552
-**American Dad S12E16 - The Bitchin' Race**  
-TV-14-DLV 🔒 21:14  
-⌛ July 6, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-bitchin-race  
-seriesid=`581006` titleid=`2069552` id=`05iJVgiuR_SKZhxuOw-INQ` mediaid=`7f8f09f5135027e7060c634e823a41cf7399c501`  
-_The family competes on the reality show The Bitchin' Race. After Stan and Hayley ditch the less-motivated Steve and Francine and team up, they end up in a Tunisian labor prison._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg" height="144px" /></a>
-### 2069546
-**American Dad S12E15 - The Life and Times of Stan Smith**  
-TV-14 🔒 21:14  
-⌛ July 6, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-life-and-times-of-stan-smith  
-seriesid=`581006` titleid=`2069546` id=`NEXYZWHTTPWiGgpURTkSWQ` mediaid=`90d393ac4d8f357c86e9bc7bd9a3d673d0a05d66`  
-_Stan becomes addicted to "dying" after Roger tricks him into thinking he had a heart attack. Klaus takes Steve to Arizona State University for a college visit, where a fraternity hazes him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182071483476.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182071483476.jpg" height="144px" /></a>
+### 322757
+**Space Ghost Coast to Coast S03E01 - Explode**  
+TV-PG 🔒 15:24  
+⌛ July 7, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/explode  
+seriesid=`322328` titleid=`322757` id=`hQy4PggcQx-DgOyD3jHw7A` mediaid=`ee6a154ab8ae4de51e5d3a0d1bdb2feb4cbf09bf`  
+_Lokar, a villain from Space Ghost's original series, attempts to woo Moltar away from his helm as director. Oblivious, Space Ghost proceeds with his celebrity guests--Terry Jones and Glen Phillips--one of whom reveals his secret identity as Tongue Man._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417953394-sgc2c_9601_dst_cid-9105595.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417953394-sgc2c_9601_dst_cid-9105595.jpg" height="144px" /></a>
+### 322739
+**Space Ghost Coast to Coast S01E07 - Banjo**  
+TV-PG 🔓 11:37  
+⌛ July 7, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/banjo  
+seriesid=`322328` titleid=`322739` id=`kMaoQQ0CT2m9iF4VLzADfQ` mediaid=`e7b02c801289f93f4421a06ccf1b3d1d3a2b8b48`  
+_Space Ghost is nurturing a special pet—Banjo the sea monkey. Zorak sabotages the interview with Schooly D by hypnotically controlling Space Ghost's mind. Weird Al Yankovic reveals that he can eat his weight in Ding Dongs, but his interview is cut short by Banjo, now a colossal brine shrimp intent on destroying the set._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417947534-sgc2c_9407_dst_cid-9105443.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417947534-sgc2c_9407_dst_cid-9105443.jpg" height="144px" /></a>
+### 344139
+**Home Movies S02E10 - History**  
+TV-PG 🔒 22:31  
+⌛ July 7, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/history  
+seriesid=`344089` titleid=`344139` id=`EOnek1kVS7eJZx1E2Px0Ww` mediaid=`5af1232705110e8c4a0c7c765a03c309ff78b35c`  
+_Mr. Lynch is tutoring Brendon, who is failing History. His lack of historical perspective is evident through his movies, which star the evil George Washington, the evil Picasso and the evil Annie Oakley._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351618265-hmovies_023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351618265-hmovies_023.jpg" height="144px" /></a>
+### 446850
+**Home Movies S04E01 - Everyone's Entitled to My Opinion**  
+TV-PG-DL 🔓 22:24  
+⌛ July 7, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/everyones-entitled-to-my-opinion  
+seriesid=`344089` titleid=`446850` id=`fhfvso9iTi-4J1k9KUlz7Q` mediaid=`099baeb55dc234aaa615329c3a154fdb9380ca30`  
+_Brendon begins writing reviews for a movie website called movie-winner-or-weiner.com.  Jason and Melissa are excited because Brendon gets passes for all of them to see the premiere of "All That Violence".  Meanwhile, Coach McGuirk wreaks havoc because he's finally got a friend "on the inside"._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351621174-hmovies_040.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351621174-hmovies_040.jpg" height="144px" /></a>
+### 2069548
+**American Dad S12E17 - Family Plan**  
+TV-14-DLSV 🔒 21:14  
+⌛ July 7, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/family-plan  
+seriesid=`581006` titleid=`2069548` id=`pGjzE7geRJu1VCwFhvFK4Q` mediaid=`f7e8cff7c8c5db9d2aee6b540c50f902e89b330d`  
+_Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes a Picker based on his obsession with American Pickers._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg" height="144px" /></a>
+### 2069549
+**American Dad S12E18 - The Long Bomb**  
+TV-14-DLSV 🔒 21:13  
+⌛ July 7, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-long-bomb  
+seriesid=`581006` titleid=`2069549` id=`vChQxBcdSiCMUBywWd3bJA` mediaid=`12e569fcc167d47273c8b99276cc8fa2d1a0a970`  
+_While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg" height="144px" /></a>
