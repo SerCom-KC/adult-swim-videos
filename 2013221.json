@@ -1,6 +1,52 @@
 [
     {
         "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1593662340,
+        "tms_id": "EP019881990009",
+        "description": "A shady character helps Gary Royce overcome a strange addiction; for a price.",
+        "title_suggest": {
+            "input": [
+                "Sauce Boy",
+                "Boy"
+            ]
+        },
+        "title": "Sauce Boy",
+        "type": "episode",
+        "expiration_date": 1597895940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 1351.0417014,
+        "episode_number": "8",
+        "original_air_date": 1446870600,
+        "clip_order": null,
+        "auth_launch_date": 1590638400,
+        "modified": 1594470492,
+        "airing_id": "RADS1007102000010371",
+        "media_id": "04e638e8c939ea72b48370ca0f1850c6cbf89368",
+        "id": "7ZUfKlgvSbmPpgVf5UASjQ",
+        "slug": "sauce-boy",
+        "views": 4,
+        "created": 1446535220,
+        "title_id": "2073345",
+        "tv_rating": "tv-14-l",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "published": 1594470492,
+        "first_published": 1446535220,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1594872000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/sauce-boy/tebs_ep201_002_KJHSaw8dsxSHe7_2.jpg",
+        "cma_id": "1132934"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447785660,
         "auth_expiration_date": 1593057540,
         "tms_id": "EP019881990007",
@@ -254,57 +300,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447785600,
-        "auth_expiration_date": 1590638340,
-        "tms_id": "EP019881990003",
-        "description": "Tim, Eric, and Zach work and live in the men's public restroom on the 6th floor of the Stanton Building. Will their cover be blown when they suddenly run out of mints?",
-        "title_suggest": {
-            "input": [
-                "The Bathroom Boys",
-                "Bathroom Boys",
-                "Boys"
-            ]
-        },
-        "expiration_date": 1594871940,
-        "title": "The Bathroom Boys",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 675.38,
-        "episode_number": "3",
-        "original_air_date": 1412309700,
-        "clip_order": null,
-        "auth_launch_date": 1587614400,
-        "modified": 1591437366,
-        "media_id": "eaa750eba1caeed57fcf4396f49444e8a65b3d5d",
-        "airing_id": "RADS1006052000000534",
-        "id": "K_cqWiVEShGdqFjIBBuJpQ",
-        "slug": "the-bathroom-boys",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1410544714,
-        "season_number": "1",
-        "title_id": "2024894",
-        "tv_rating": "tv-14-dls",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1591437366,
-        "first_published": 1411971652,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1591848000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-bathroom-boys/tebs_cc_103_pt1.jpg",
-        "cma_id": "2024894"
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1505744940,
         "description": "EXTENDED CUT - Mr. Dimler escapes the institution for one last encounter with Scotty and is disappointed with the results.",
         "title_suggest": {
@@ -347,56 +342,6 @@
         "launch_date": 1505746198,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/angel-man-extended-cut/tebs_305_22min_dup-20170913.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1505140140,
-        "auth_expiration_date": 1594871940,
-        "tms_id": "EP019881990011",
-        "description": "In pursuit of a badly needed bonus, Barry struggles to make piano sales and Mr. Crown becomes fixated on a new dessert.",
-        "title_suggest": {
-            "input": [
-                "Baklava"
-            ]
-        },
-        "create_in_collection": "niKVk47EQ3-pHuoxOIYMsQ",
-        "title": "Baklava",
-        "type": "episode",
-        "expiration_date": 1589428740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 676.8757298,
-        "episode_number": "1",
-        "original_air_date": 1505102400,
-        "clip_order": null,
-        "auth_launch_date": 1591848000,
-        "modified": 1591436650,
-        "media_id": "f334dbd2ef86849eaaed32260c94f2b0cbad0b9e",
-        "airing_id": "RADS1006052000000530",
-        "id": "OwqPnwL1TNesifUBI-XkYQ",
-        "slug": "baklava",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1504810178,
-        "season_number": "2",
-        "title_id": "2133104",
-        "tv_rating": "tv-14-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1591436650,
-        "first_published": 1504810178,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1586404800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/baklava/baklava.png",
-        "cma_id": "1470891"
     },
     {
         "auth": true,
@@ -596,6 +541,55 @@
         "launch_date": 1592452800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/angel-boy/tebs_cc_104_pt1_1.jpg",
         "cma_id": "1150927"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1506954540,
+        "auth_expiration_date": 1597895940,
+        "tms_id": "EP019881990016",
+        "description": "Belle and Bonnie, owners of the Butter Barn, fall for the charm of an eccentric billionaire and lose their prized boy, Mongo in the process.",
+        "title_suggest": {
+            "input": [
+                "Butter"
+            ]
+        },
+        "title": "Butter",
+        "type": "episode",
+        "expiration_date": 1592452740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 1290.2919099,
+        "episode_number": "6",
+        "original_air_date": 1506916800,
+        "clip_order": null,
+        "auth_launch_date": 1594872000,
+        "modified": 1594469049,
+        "media_id": "1e07db9f8cf70dcdd751e6802ffe18b48af676ba",
+        "airing_id": "RADS1007102000010366",
+        "id": "psNwF_AEQk2tZck9gzZBSg",
+        "slug": "butter",
+        "views": 1897,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1506716302,
+        "season_number": "2",
+        "title_id": "2133105",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1594469049,
+        "first_published": 1506716302,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1589428800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/butter/tebs_302_dup-20170925.jpg",
+        "cma_id": "1488191"
     },
     {
         "auth": false,
