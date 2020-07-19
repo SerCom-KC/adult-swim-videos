@@ -5971,7 +5971,7 @@
         "launch_date": 1593939600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_20611851556-BlackClover_121.jpg",
         "id": "AXKjb_M5C8QgH-t19JnJ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1594544340,
@@ -6067,7 +6067,7 @@
         "launch_date": 1595149200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_206171424355-BlackClover_123.jpg",
         "id": "AXLDhqKCC8QgH-t19Jr6",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1596358740,
@@ -6114,6 +6114,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791046435-BlackClover_124.jpg",
         "id": "AXMp121_C8QgH-t19J37",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1596963540,
+        "tms_id": "EP032284200125",
+        "description": "The Black Bulls return to a hideout in dire need of rebuilding, but first they must track down Yami's escaped beasts, now likely feral--and hungry.",
+        "title_suggest": {
+            "input": [
+                "Return"
+            ]
+        },
+        "title": "Return",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1350.2489,
+        "episode_number": "125",
+        "original_air_date": 1595136600,
+        "auth_launch_date": 1595149200,
+        "clip_order": null,
+        "airing_id": "RADS1007142000011283",
+        "media_id": "bb120d9477c59144de26c8046b0ec96bc4fb41e5",
+        "modified": 1595005766,
+        "slug": "return",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_20717138423-BlackClover_125.jpg",
+        "created": 1594758611,
+        "title_id": "2230139",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "published": 1595005766,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_20717138423-BlackClover_125.jpg",
+        "id": "AXNPBUKhC8QgH-t19J8o",
         "auth": true
     }
 ]
