@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 19, 2020 at 05:30:31 EDT_
+_Last Update: July 19, 2020 at 06:30:39 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-### 2230139
-**Black Clover S03E125 - Return**  
-TV-PG-L 🔒 22:30  
-⌛ August 9, 2020 at 04:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/return  
-seriesid=`2143080` titleid=`2230139` id=`AXNPBUKhC8QgH-t19J8o` mediaid=`bb120d9477c59144de26c8046b0ec96bc4fb41e5`  
-_The Black Bulls return to a hideout in dire need of rebuilding, but first they must track down Yami's escaped beasts, now likely feral--and hungry._  
-<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_20717138423-BlackClover_125.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_20717138423-BlackClover_125.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177733
+**Naruto: Shippuden S06E21 - The Underworld Transfer Jutsu**  
+TV-PG-L 🔒 21:51  
+⌛ July 5, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-underworld-transfer-jutsu  
+seriesid=`812206` titleid=`2177733` id=`AXLDiYEiC8QgH-t19Jr7` mediaid=`a3ccdca3f12e6a09109217f6514dc82a77dfca39`  
+_Shikamaru, Neji, Choji, and Kiba succeed in defeating the Sound Ninja Four. But the enemy uses the Underworld Transfer Jutsu to trap the Leaf Shinobi's souls inside a barrier._  
+<a href="https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_206171427430-narutoshippuden_304_TheUnderworldTransfer.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_206171427430-narutoshippuden_304_TheUnderworldTransfer.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
