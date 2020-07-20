@@ -56,6 +56,61 @@
         "cma_id": "1201284"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP012647370099",
+        "description": "In the aftermath of battle, Dende heals the injured heroes and summons the magic Dragon Balls in an attempt to resurrect those killed during Cell's rampage!",
+        "title_suggest": {
+            "input": [
+                "A Bittersweet Victory! Until We Meet Again!",
+                "Bittersweet Victory! Until We Meet Again!",
+                "Victory! Until We Meet Again!",
+                "Until We Meet Again!",
+                "We Meet Again!",
+                "Meet Again!",
+                "Again!"
+            ]
+        },
+        "title": "A Bittersweet Victory! Until We Meet Again!",
+        "type": "episode",
+        "expiration_date": 1597463940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1318,
+        "episode_number": "97",
+        "original_air_date": 1481432400,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1594917487,
+        "media_id": "3299d86f489624a037c19e97fba5f30da0672066",
+        "airing_id": "RADS1007162000011521",
+        "id": "-Ve9UNJGR6uw7091e9UkbQ",
+        "slug": "a-bittersweet-victory-until-we-meet-again",
+        "views": 4944,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210161606-dragonballzkai_097_air_cid-30FGJ.jpg",
+        "created": 1481163145,
+        "title_id": "2031708",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1594917487,
+        "first_published": 1481163146,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1595217600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210161606-dragonballzkai_097_air_cid-30FGJ.jpg",
+        "cma_id": "1334570"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463999,
@@ -1877,7 +1932,7 @@
         "cma_id": "1272400"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1597463940,
         "tms_id": "EP012647370094",
