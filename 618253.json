@@ -317,6 +317,51 @@
     },
     {
         "auth_expiration_date": null,
+        "tms_id": "EP007542790037",
+        "description": "Picking up from INVICTUS episode, Mouse finds himself without memory and in a new world called Lotharganin where he meets Aria and Professor Wilx; two top scientists from the Outer Earth who worked with Shyd Industries.",
+        "title_suggest": {
+            "input": [
+                "First 12",
+                "12"
+            ]
+        },
+        "title": "First 12",
+        "expiration_date": 1597723140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 675.041,
+        "episode_number": "1",
+        "original_air_date": "1595304000",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1007172000011676",
+        "media_id": "93f1720c51cb320b20693656aac3f7eb25f64d62",
+        "modified": 1595029928,
+        "slug": "first-12",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200716/thumbnails/1_20716106317-12oz_301_dup-20200625.jpg",
+        "created": 1594908396,
+        "season_number": "3",
+        "title_id": "2224137",
+        "tv_rating": "tv-14-lv",
+        "published": 1595029928,
+        "tags": [],
+        "collection_title": "12 oz Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1595304000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200716/thumbnails/2_20716106317-12oz_301_dup-20200625.jpg",
+        "id": "AXNX8soURs3h4hI_X4Tx",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
         "tms_id": "EP007542790036",
         "description": "In this juicy, explosive episode, the cast of 12 oz. Mouse answers all the questions you've been dying to ask!",
         "title_suggest": {
