@@ -53,5 +53,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141643575-2_20691015329-promo_YOLO.jpg",
         "id": "AXNPEjcYC8QgH-t19J8s",
         "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "EP034814970001",
+        "description": "Maddison's Birthday Party",
+        "title_suggest": {
+            "input": [
+                "Maddison's Birthday Party",
+                "Birthday Party",
+                "Party"
+            ]
+        },
+        "title": "Maddison's Birthday Party",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXNJnfSIC8QgH-t19J8N",
+        "duration": 685.205,
+        "episode_number": "1",
+        "original_air_date": "1585719000",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me8a59296b6c46105b00d57bca39196d94ce833cbd",
+        "modified": 1595342603,
+        "slug": "maddisons-birthday-party",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200721/thumbnails/1_207211030518-YOLO_001_dup-20200326.jpg",
+        "created": 1595341688,
+        "season_number": "1",
+        "title_id": "2224724",
+        "tv_rating": "tv-14-lsv",
+        "published": 1595342603,
+        "tags": [],
+        "collection_title": "YOLO Crystal Fantasy",
+        "disable_ads": false,
+        "modified_by": "Zeus Listener",
+        "launch_date": 1595426400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200721/thumbnails/2_207211030518-YOLO_001_dup-20200326.jpg",
+        "id": "AXNxxk4LRs3h4hI_X4Xq",
+        "auth": false
     }
 ]
