@@ -546,6 +546,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1597565940,
+        "tms_id": "",
+        "description": "A detective follows mysterious attacks in Tokyo.",
+        "title_suggest": {
+            "input": [
+                "The Final Episode",
+                "Final Episode",
+                "Episode"
+            ]
+        },
+        "title": "The Final Episode",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXF_uNw4Rs3h4hI_X29W",
+        "duration": 1377.1758,
+        "episode_number": "13",
+        "original_air_date": "1124600400",
+        "auth_launch_date": 1595751600,
+        "clip_order": null,
+        "airing_id": "RADS1007242000013155",
+        "media_id": "e3720d1e536ec7cc7a5812de3127aa049f1841b6",
+        "modified": 1595607369,
+        "slug": "the-final-episode",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200624/thumbnails/1_206241038368-ParanoiaAgent_13.jpg",
+        "created": 1593009522,
+        "season_number": "1",
+        "title_id": "613852",
+        "tv_rating": "tv-14-lsv",
+        "published": 1595607369,
+        "tags": [],
+        "collection_title": "Paranoia Agent",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200624/thumbnails/2_206241038368-ParanoiaAgent_13.jpg",
+        "id": "AXLmxEYgC8QgH-t19Jw2",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Chaos, outrage, and an unforgiveable crime... Prepare yourself for the next episode of Paranoia Agent, Saturday at 12:30A!",
