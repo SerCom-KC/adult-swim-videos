@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 26, 2020 at 03:00:27 EDT_
+_Last Update: September 26, 2020 at 03:30:28 EDT_
 ## Video added
-### Summary
-830073 Off The Air: 1  
-### 2087833
-**Off The Air S06E03 - Work**  
-TV-14-L 🔓 11:08  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/off-the-air/work  
-seriesid=`830073` titleid=`2087833` id=`5dSygUxvRravogCwSabK4g` mediaid=`88a43588a2ece09fe7c5357e3969c1bceeb0ad91`  
-_A Q4 analysis._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341567-offtheair_603_dup-20161103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341567-offtheair_603_dup-20161103.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+340531 The Brak Show: 1  
+### 345423
+**The Brak Show S01E07 - Expiration Day**  
+TV-PG-L 🔓 11:37  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/expiration-day  
+seriesid=`340531` titleid=`345423` id=`bf6ZSp8cT6-qJ_1bC9p9kA` mediaid=`ad046a084c8cd1bc3d70312d64a5dbc0b0f9340c`  
+_Thundercleese's parent company, MoroccoBotix, Inc., deactivates him on his birthday. So depressed is Thundercleese that he stops caring for his yard, usually his pride and joy. When an asteroid is discovered to be on a collision course with their neighborhood, Brak and Dad need Thundercleese to save them._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425296-brak_2107.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425296-brak_2107.jpg" height="144px" /></a>
