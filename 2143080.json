@@ -6268,7 +6268,7 @@
         "launch_date": 1598778000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200806/thumbnails/2_20861626259-BlackClover_128.jpg",
         "id": "AXO7ZNItC8QgH-t19KPk",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1614574740,
@@ -6359,6 +6359,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200827/thumbnails/2_208271229528-BlackClover_129.jpg",
         "id": "AXQrylExLyLQBOXK_PMO",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1603011540,
+        "tms_id": "",
+        "description": "The trainees split into teams hoping to find a certain magic item in the Yultim dungeon--if the gigantic spider lurking there doesn\u2019t find them first.",
+        "title_suggest": {
+            "input": [
+                "The Lion Awakens, Continued",
+                "Lion Awakens, Continued",
+                "Awakens, Continued",
+                "Continued"
+            ]
+        },
+        "title": "The Lion Awakens, Continued",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1293.926,
+        "episode_number": "31",
+        "original_air_date": "1601184600",
+        "auth_launch_date": 1601197200,
+        "clip_order": null,
+        "airing_id": "RADS1009232000028715",
+        "media_id": "674055e299b040aa98c298aa5fd1687957aa815e",
+        "modified": 1601067841,
+        "slug": "the-lion-awakens-continued",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/1_20924121820-BlackClover_133.jpg",
+        "created": 1599685739,
+        "season_number": "3",
+        "title_id": "2230147",
+        "tv_rating": "",
+        "published": 1601067841,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/2_20924121820-BlackClover_133.jpg",
+        "id": "AXR0s0VlSeFB2d0c381y",
+        "auth": true
     },
     {
         "auth_expiration_date": 1602406740,
@@ -6500,6 +6547,6 @@
         "launch_date": 1601197200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200904/thumbnails/2_2094106212-BlackClover_130.jpg",
         "id": "AXRZcJJESeFB2d0c38wn",
-        "auth": true
+        "auth": false
     }
 ]
