@@ -396,6 +396,7 @@
     {
         "ott_launch_date": null,
         "auth_expiration_date": null,
+        "tms_id": "",
         "description": "",
         "title_suggest": {
             "input": [
@@ -419,8 +420,9 @@
         "original_air_date": null,
         "auth_launch_date": null,
         "clip_order": null,
-        "media_id": "",
-        "modified": 1525293394,
+        "media_id": "me9a936a115156fcf2ca61c544b7bb504d75e7e666",
+        "modified": 1601402863,
+        "airing_id": "",
         "slug": "mama-bird-mike",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152529333504413.jpg",
@@ -430,10 +432,11 @@
         "tv_rating": "",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1525293394,
+        "published": 1601402863,
         "tags": [],
         "collection_title": "Mike Tyson Mysteries",
-        "modified_by": "Jared Marquez",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
         "launch_date": 1525233600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152529333504413.jpg",
         "id": "AWMikhyrTdxzjxdCltvE",
