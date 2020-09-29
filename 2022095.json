@@ -312,7 +312,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449846000,
         "auth_expiration_date": 1604379540,
         "tms_id": "EP019635740015",
@@ -415,6 +415,57 @@
         "launch_date": 1597118400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171156-blackjesus_202_dup-20150922.jpg",
         "cma_id": "1457335"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1449846000,
+        "auth_expiration_date": 1571803140,
+        "tms_id": "EP019635740020",
+        "description": "When Trayvon's dad hooks them up with free cable, Vic will stop at nothing to spoil the gang's enjoyment of fight night.",
+        "title_suggest": {
+            "input": [
+                "Janky Cable",
+                "Cable"
+            ]
+        },
+        "expiration_date": 1604379540,
+        "title": "Janky Cable",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 1239,
+        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
+        "episode_number": "9",
+        "original_air_date": 1447473600,
+        "clip_order": null,
+        "auth_launch_date": 1568779200,
+        "modified": 1601093920,
+        "media_id": "708ce9bcc1d896f8c6e8f29f8fd11116b5c94943",
+        "airing_id": "RADS1009252000029413",
+        "id": "cWv6lI5pSPudjxmX4RZkPA",
+        "slug": "janky-cable",
+        "views": 25460,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261714224-blackjesus_209_dup-20151026.jpg",
+        "created": 1441735832,
+        "season_number": "2",
+        "title_id": "2065418",
+        "tv_rating": "tv-ma-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1601093920,
+        "first_published": 1447406420,
+        "tags": [],
+        "collection_title": "Black Jesus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1601352000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261714224-blackjesus_209_dup-20151026.jpg",
+        "cma_id": "2065418"
     },
     {
         "auth": false,
@@ -693,56 +744,5 @@
         "launch_date": 1600747200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261713569-blackjesus_208_dup-20151016.jpg",
         "cma_id": "2065417"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1443384120,
-        "auth_expiration_date": 1601351940,
-        "tms_id": "EP019635740009",
-        "description": "With the garden in danger, our heroes decide to have an online benefit concert with Coolio to raise the money.",
-        "title_suggest": {
-            "input": [
-                "Gangsta's Paradise",
-                "Paradise"
-            ]
-        },
-        "expiration_date": 1598327940,
-        "title": "Gangsta's Paradise",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "duration": 1206.3336113,
-        "episode_number": "9",
-        "original_air_date": 1412305200,
-        "clip_order": null,
-        "auth_launch_date": 1598328000,
-        "modified": 1598205159,
-        "media_id": "8630bf34c159acee51213d150396b33c73614d76",
-        "airing_id": "RADS1007172000011678",
-        "id": "ydOCgPSMTcuTzM5TgGU-9A",
-        "slug": "gangstas-paradise",
-        "views": 4,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_20226179180-blackjesus_009_dup-20140916.jpg",
-        "created": 1409925182,
-        "season_number": "1",
-        "title_id": "2031273",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1598205159,
-        "first_published": 1411971628,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1595304000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226179180-blackjesus_009_dup-20140916.jpg",
-        "cma_id": "1443183"
     }
 ]
