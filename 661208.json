@@ -51,72 +51,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1450715220,
-        "auth_expiration_date": 1601438340,
-        "tms_id": "EP008994530059",
-        "rating": 7.9494395,
-        "description": "Chrimbus is the holiday of receiving, and the Tim and Eric Chrimbus Special is a \"for retailers only\" live performance aimed at convincing retailers to buy the dvd of the special. (Guest starring: Zach Galifianakis, Dean Norris, John C Reilly)",
-        "title_suggest": {
-            "input": [
-                "Tim and Eric Chrimbus Special",
-                "and Eric Chrimbus Special",
-                "Eric Chrimbus Special",
-                "Chrimbus Special",
-                "Special"
-            ]
-        },
-        "type": "episode",
-        "title": "Tim and Eric Chrimbus Special",
-        "expiration_date": 1598932740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 2679.58,
-        "episode_number": "1",
-        "original_air_date": 1291611600,
-        "clip_order": null,
-        "auth_launch_date": 1598932800,
-        "modified": 1599574131,
-        "media_id": "90e66dfba960270c09c8c5374e3458c51c535e62",
-        "airing_id": "RADS1008292000022949",
-        "id": "7co6CI6STHen3A9s-UBhUQ",
-        "slug": "tim-and-eric-chrimbus-special",
-        "views": 471502,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "824346",
-        "tv_rating": "tv-ma",
-        "season_number": "13",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1599574131,
-        "tags": [
-            "Tim and Eric",
-            "Awesome Show Great Job",
-            "Comedy",
-            "Tim Heidecker",
-            "Eric Wareheim",
-            "Chrimbus",
-            "Hospital",
-            "Dee Vee",
-            "Jennifer",
-            "DVD"
-        ],
-        "rating_count": 1958,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1588305600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/tim-and-eric-chrimbus-special/timanderic_cc_chrimbus_int_dup_withtextless-02.jpg",
-        "cma_id": "1453747"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447783740,
         "auth_expiration_date": 1603857540,
         "tms_id": "EP008994530004",
@@ -429,7 +363,7 @@
         "cma_id": "661594"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783800,
         "auth_expiration_date": 1604465940,
         "tms_id": "EP008994530005",
@@ -583,5 +517,57 @@
         "launch_date": 1599624000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_106_pt2-02.jpg",
         "cma_id": "661593"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783860,
+        "auth_expiration_date": 1573016340,
+        "tms_id": "EP008994530008",
+        "rating": 6.720391,
+        "description": "Tim and Eric are late in delivering the episode to the Network and must rely on Hamburger Taxi to get the tape there on time. \r\n(John C. Reilly, Neil Hamburger, Al Yankovic guest star)",
+        "title_suggest": {
+            "input": [
+                "Hamburger"
+            ]
+        },
+        "type": "episode",
+        "title": "Hamburger",
+        "expiration_date": 1604465940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 683.006,
+        "episode_number": "8",
+        "original_air_date": 1176090300,
+        "clip_order": null,
+        "auth_launch_date": 1569988800,
+        "modified": 1601106124,
+        "media_id": "0dad6dd0fe7e0d1c675b384a269f2eb0d92a2a35",
+        "airing_id": "RADS1009252000029462",
+        "id": "wdXtFjTgQF6RoWyWD980lQ",
+        "slug": "hamburger",
+        "views": 387206,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945481,
+        "title_id": "661595",
+        "season_number": "1",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1601106124,
+        "tags": [
+            "tim eric awesome show great job episode 8 hamburger late delivery network taxi john c reilly neil weird al yankovic"
+        ],
+        "rating_count": 3276,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1601438400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_108_pt2-04.jpg",
+        "cma_id": "661595"
     }
 ]
