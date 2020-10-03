@@ -1,7 +1,6 @@
 {
-    "updated": 1601679640,
-    "added": [],
-    "removed": [
+    "updated": 1601688635,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1572506940,
@@ -15,7 +14,7 @@
                 ]
             },
             "title": "A Cold Death",
-            "expiration_date": 1601870399,
+            "expiration_date": 1604896140,
             "type": "episode",
             "platforms": [
                 "android",
@@ -30,8 +29,8 @@
             "auth_launch_date": 1570692600,
             "clip_order": null,
             "media_id": "7064ac186335739861b588ea592d27d7b8536ad0",
-            "modified": 1601668743,
-            "airing_id": "RADS1010261900030217",
+            "modified": 1601688036,
+            "airing_id": "RADS1010022000032547",
             "slug": "a-cold-death",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20191004/thumbnails/1_191041426462-Primal_003_dup-20190815.jpg",
@@ -41,18 +40,73 @@
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1601668743,
+            "published": 1601688036,
             "tags": [],
             "collection_title": "Primal",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1572507000,
+            "modified_by": "Jonathan Jackson",
+            "launch_date": 1601688017,
             "poster": "https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041426462-Primal_003_dup-20190815.jpg",
             "id": "AW2DrP9k1YiBSfg0KXWr",
             "auth": false,
             "collection_slug": "primal",
             "collection_title_id": "2211157",
             "online_exclusives": false
+        },
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1572593340,
+            "tms_id": "",
+            "description": "The horrors of the red night challenges Spear and Fang for their very survival.",
+            "title_suggest": {
+                "input": [
+                    "Terror Under the Blood Moon",
+                    "Under the Blood Moon",
+                    "the Blood Moon",
+                    "Blood Moon",
+                    "Moon"
+                ]
+            },
+            "title": "Terror Under the Blood Moon",
+            "expiration_date": 1605500940,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AWzZcF8hCorLtcgfluAN",
+            "duration": 1351.67,
+            "episode_number": "4",
+            "original_air_date": 1570766400,
+            "auth_launch_date": 1570768200,
+            "clip_order": null,
+            "media_id": "fe8cd6bb47222f0b343493a9f4f18150347a39cc",
+            "modified": 1601688233,
+            "airing_id": "RADS1010022000032559",
+            "slug": "terror-under-the-blood-moon",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191004/thumbnails/1_191041426572-Primal_004_dup-20190815.jpg",
+            "created": 1569872318,
+            "season_number": "1",
+            "title_id": "2211161",
+            "tv_rating": "tv-14-v",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1601688233,
+            "tags": [],
+            "collection_title": "Primal",
+            "disable_ads": false,
+            "modified_by": "Jonathan Jackson",
+            "launch_date": 1601688211,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041426572-Primal_004_dup-20190815.jpg",
+            "id": "AW2DrpEcadNs2hMNfuIg",
+            "auth": false,
+            "collection_slug": "primal",
+            "collection_title_id": "2211157",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
