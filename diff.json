@@ -1,21 +1,19 @@
 {
-    "updated": 1601901030,
-    "added": [],
-    "removed": [
+    "updated": 1601920829,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Looks like gym class on a whole new level! Exercise those arms and tune into a brand new episode of Assassination Classroom, this Saturday night at 1A!",
+            "description": "Spear and Fang continue their journey October 4th at 11:30P ET.",
             "title_suggest": {
                 "input": [
-                    "Sneak Peek: Test Time",
-                    "Peek: Test Time",
-                    "Test Time",
-                    "Time"
+                    "Primal Returns Trailer",
+                    "Returns Trailer",
+                    "Trailer"
                 ]
             },
-            "title": "Sneak Peek: Test Time",
-            "expiration_date": 1601899140,
+            "title": "Primal Returns Trailer",
+            "expiration_date": 1604030400,
             "type": "clip",
             "platforms": [
                 "android",
@@ -24,33 +22,41 @@
                 "online-exclusive",
                 "roku"
             ],
-            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+            "collection_id": "AWzZcF8hCorLtcgfluAN",
             "duration": 0,
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "",
-            "media_id": "me4c71780d249ca30ca88734b42ae4c6e97a6a40d5",
-            "modified": 1600960173,
-            "slug": "sneak-peek-test-time",
+            "media_id": "me4844a20313e76a95afb7a04cc7bb996530730d2d",
+            "modified": 1601919008,
+            "slug": "primal-returns-trailer",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/1_20924116550-promo_AssClass_106_SAT_15.jpg",
-            "created": 1600960051,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/1_20911177202-promo_PRIMAL_S2_30_DATED.jpg",
+            "created": 1599858460,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
-            "published": 1600960173,
-            "tags": [],
-            "collection_title": "Assassination Classroom",
+            "published": 1601919008,
+            "tags": [
+                "primal",
+                "season 2",
+                "premiere",
+                "genndy tartakovsky",
+                "adult swim",
+                "promo"
+            ],
+            "collection_title": "Primal",
             "disable_ads": false,
-            "modified_by": "Duke Nguyen",
-            "launch_date": 1601294400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/2_20924116550-promo_AssClass_106_SAT_15.jpg",
-            "id": "AXTAp7p2LyLQBOXK_POk",
+            "modified_by": "Dene Shepherd",
+            "launch_date": 1600104600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_20911177202-promo_PRIMAL_S2_30_DATED.jpg",
+            "id": "AXR-_sdDSeFB2d0c384K",
             "auth": false,
-            "collection_slug": "assassination-classroom",
-            "collection_title_id": "2238413",
+            "collection_slug": "primal",
+            "collection_title_id": "2211157",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
