@@ -548,6 +548,57 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Episode pitch from episode six, 'Scent of Prey' (formerly 'Scent of Death'), of Genndy Tartakovksy's Primal.",
+        "title_suggest": {
+            "input": [
+                "Episode Pitch: Scent Of Prey",
+                "Pitch: Scent Of Prey",
+                "Scent Of Prey",
+                "Of Prey",
+                "Prey"
+            ]
+        },
+        "title": "Episode Pitch: Scent Of Prey",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1565.79,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "me8c0061c125c2aa53a0d2359f50d281dfbd76f3c6",
+        "modified": 1601997789,
+        "airing_id": "",
+        "slug": "episode-pitch-scent-of-prey",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/1_191018111547-Primal_ep106_pitch.jpg",
+        "created": 1571407640,
+        "season_number": "0",
+        "title_id": "",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1601997789,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1601956800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/2_191018111547-Primal_ep106_pitch.jpg",
+        "id": "AW3fMbYs1YiBSfg0KX1t",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "EP033124370007",
         "description": "Spear struggles to nurse Fang back to health and escape the scavengers of the primordial world.",
