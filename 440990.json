@@ -448,56 +448,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1602043140,
-        "tms_id": "EP002960010310",
-        "description": "After crashing his car into a stranger's home, Peter locks himself inside the library and takes this time to catch up on some of the classic American novels he never read in high school.",
-        "title_suggest": {
-            "input": [
-                "High School English",
-                "School English",
-                "English"
-            ]
-        },
-        "title": "High School English",
-        "type": "episode",
-        "expiration_date": 1590379140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1301.333667,
-        "episode_number": "7",
-        "original_air_date": 1480564800,
-        "clip_order": null,
-        "auth_launch_date": 1601438400,
-        "modified": 1601103251,
-        "media_id": "89188c2ca72979d542469ae174d44946bdcb1dfa",
-        "airing_id": "RADS1009252000029439",
-        "id": "KpBW89hWRU-JfghtKHrcnQ",
-        "slug": "high-school-english",
-        "views": 14205,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1480515100,
-        "title_id": "2105386",
-        "tv_rating": "tv-14",
-        "season_number": "15",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1601103251,
-        "first_published": 1480515100,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1589774400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/high-school-english/familyguy_1404_air_cid-2YXKC.jpg",
-        "cma_id": "1495851"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1602388740,
         "tms_id": "EP002960010317",
         "description": "When the Medieval Castle comes up for auction, Peter and the gang try to purchase it for \"castle fun\". After putting up a \"mystery\" paper bag containing nine thousand dollars, they end up losing the auction to Mayor West.",
@@ -646,5 +596,55 @@
         "launch_date": 1589774400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/carter-and-tricia/familyguy_1405_air_cid-30YY1.jpg",
         "cma_id": "1495893"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1602647940,
+        "tms_id": "EP002960010320",
+        "description": "Peter wins a fantasy weekend for two at Fenway Park in the church raffle. Although Cleveland, Joe and Quagmire all vie for the second spot, Peter decides to take Lois along with him.",
+        "title_suggest": {
+            "input": [
+                "Peter's Lost Youth",
+                "Lost Youth",
+                "Youth"
+            ]
+        },
+        "title": "Peter's Lost Youth",
+        "type": "episode",
+        "expiration_date": 1592193540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1301.0667334,
+        "episode_number": "17",
+        "original_air_date": 1491447600,
+        "clip_order": null,
+        "auth_launch_date": 1602043200,
+        "modified": 1601847046,
+        "media_id": "5ff49787fb1007c18a1183e48550af5614feec4e",
+        "airing_id": "RADS1010022000032617",
+        "id": "pnhmgzztTguw6kIZFr_F_w",
+        "slug": "peters-lost-youth",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1491297020,
+        "title_id": "2105396",
+        "tv_rating": "tv-14",
+        "season_number": "15",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1601847046,
+        "first_published": 1491297020,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1591588800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-lost-youth/familyguy_1414_air_cid-33M0K.jpg",
+        "cma_id": "1374382"
     }
 ]
