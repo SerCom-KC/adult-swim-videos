@@ -2,201 +2,143 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 8, 2020 at 00:30:27 EDT_
+_Last Update: October 9, 2020 at 00:30:26 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-859366 Black Dynamite: 2  
-2003422 Bob's Burgers: 1  
-2094567 Dream Corp LLC: 1  
-440990 Family Guy: 1  
-2073005 Neon Joe: 1  
-2013221 Tim & Eric's Bedtime Stories: 2  
-828177 Your Pretty Face is Going to Hell: 1  
-### 822208
-**American Dad S06E18 - There Will Be Bad Blood**  
-TV-14 🔒 21:40  
-⌛ October 14, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/there-will-be-bad-blood  
-seriesid=`581006` titleid=`822208` id=`-n7pptEaSK-nCb751T7B4w` mediaid=`1901effee4b06f454a712c0f86a9fd188da9a7e2`  
-_The Smiths prepare for the arrival of Stan's half-brother's family for Thanksgiving._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg" height="144px" /></a>
-### 748128
-**American Dad S06E05 - White Rice**  
+581006 American Dad: 3  
+2003422 Bob's Burgers: 2  
+440990 Family Guy: 2  
+343621 Samurai Jack: 2  
+### 822211
+**American Dad S06E09 - Fartbreak Hotel**  
+TV-14 🔒 21:47  
+⌛ October 15, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/fartbreak-hotel  
+seriesid=`581006` titleid=`822211` id=`LeYJBjZiTAG-DniHWsx1TA` mediaid=`5655178c8ae88f45cf628c343d530e3a58cdfc14`  
+_When Roger releases lethal gas into the Smith residence, the family moves into a hotel while the fumes clear._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg" height="144px" /></a>
+### 822210
+**American Dad S06E08 - For Whom The Sleigh Bell Tolls**  
 TV-14-DLSV 🔒 21:47  
-⌛ October 14, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/white-rice  
-seriesid=`581006` titleid=`748128` id=`psIzQSnCQrG2F0J92A5A7w` mediaid=`bb15e669655dcb7211132f1fbcc737412272512f`  
-_Every year on Francine's father's birthday, Francine and Stan have an argument about moving Francine's parents to town._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_6936894913331064753.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_6936894913331064753.jpg" height="144px" /></a>
-### 961494
-**Black Dynamite S01E09 - 'Apocalypse, This!' or 'For the Pity of Fools' AKA 'Flashbacks are Forever'**  
-TV-MA 🔓 21:43  
-⌛ November 11, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-dynamite/apocalypse-this-or-for-the-pity-of-fools-aka-flashbacks-are-forever  
-seriesid=`859366` titleid=`961494` id=`_bA-KAjHQtS43JA2uWED_Q` mediaid=`46c7be2f2554fa19707e1e979b805a5b6e81f3ad`  
-_Back in Vietnam, Black Dynamite's "brother from another mother," LAWRENCE TUREAUD was a force to be reckoned with. That is until the US pulled out and left the man for dead. Now it turns out he's alive and cannibalizing the locals-literally slow-roasting them with his own brand of BBQ sauce. BD and Crew agree to return to 'Nam to track down Tureaud and set him straight-before the US Special Forces do.  Pity the fool who will try to stop them!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261656175-blackdynamite_109.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261656175-blackdynamite_109.jpg" height="144px" /></a>
-### 961486
-**Black Dynamite S01E02 - 'Bullhorn Nights' or 'Murder, She Throats'**  
-TV-MA 🔒 21:59  
-⌛ November 11, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-dynamite/bullhorn-nights-or-murder-she-throats  
-seriesid=`859366` titleid=`961486` id=`DphAsAKESXmcdBTTCG4ihQ` mediaid=`9e8abf9e7f784a48f661ae13d4d3bf72cfcd6188`  
-_It started as a mission to infiltrate the world of adult film in order to solve a case. But now Bullhorn may be in over his head... in bitches. Convinced he's found his true purpose (making bitches happy with his "Sweet Throat"), Bullhorn abandons crime fighting to become a celebrity porn star. It's up to Black Dynamite to extract his sidekick from the pornucopia of pleasure and convince him there's more important things in life than f**king on film._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261652557-blackdynamite_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261652557-blackdynamite_102.jpg" height="144px" /></a>
-### 2003438
-**Bob's Burgers S02E03 - Synchronized Swimming**  
-TV-PG 🔒 21:11  
-⌛ October 14, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/synchronized-swimming  
-seriesid=`2003422` titleid=`2003438` id=`xE1hMOE6RlmxEfBUPcg2Uw` mediaid=`5edd083a7651f8439bee704d19cd702f4269fd3f`  
-_The kids con their way out of gym class with a bogus synchronized swimming independent study. Meanwhile, Bob welcomes a new soft serve ice cream machine to the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148415474414.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148415474414.jpg" height="144px" /></a>
-### 2133687
-**Dream Corp LLC S02E03 - Accordian Jim**  
-TV-14-LV 🔓 11:17  
-⌛ November 4, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/dream-corp-llc/accordian-jim  
-seriesid=`2094567` titleid=`2133687` id=`AWDc15lOZ-onAnjDLt68` mediaid=`02f8c850a251ac4bbe45d3ac0aa74382788482a8`  
-_Patient 13 returns for Dream Therapy. After cancelling her last four appointments, Dr Roberts cautiously agrees to treat her. 88 survives a dog attack._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341036136-dreamcorpllc_203_air_cid-3N6HN.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341036136-dreamcorpllc_203_air_cid-3N6HN.jpg" height="144px" /></a>
-### 2105398
-**Family Guy S15E18 - The Peter Principal**  
-TV-14-DLSV 🔒 21:40  
-⌛ October 14, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/the-peter-principal  
-seriesid=`440990` titleid=`2105398` id=`_-_PpGI9SEG74FgilqMHuA` mediaid=`94734845acd14bb886faf0d2c906cf4fc5eeb5bf`  
-_When Principal Shepard is suspended from James Woods High after a mental breakdown due to his ugly divorce, Peter volunteers to take his place as interim Principal._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-peter-principal/familyguy_1416_air_cid-34G33.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-peter-principal/familyguy_1416_air_cid-34G33.jpg" height="144px" /></a>
-### 2118595
-**Neon Joe S02E02 - Parenthetical Head Nod**  
-TV-14-DSV 🔓 22:19  
-⌛ November 11, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/parenthetical-head-nod  
-seriesid=`2073005` titleid=`2118595` id=`-o3osKg2T_mjc5HBSpGTeg` mediaid=`66fa72f7a50d3a259766b7f93fad64a459745c27`  
-_Jailed for the murder of his rival Plaid Jeff, Neon Joe has to fight off a violent skinhead gang while trying to escape and prove his innocence. Will he succeed??_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146486-neonjoe_202_dup-20170425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146486-neonjoe_202_dup-20170425.jpg" height="144px" /></a>
-### 2133106
-**Tim & Eric's Bedtime Stories S02E05 - Squat**  
-TV-14-DL 🔓 11:15  
-⌛ November 11, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/squat  
-seriesid=`2013221` titleid=`2133106` id=`QGTOrcOBTL60cIeQCJ6dog` mediaid=`5bb657368773f6908b6e9d5017368a620849f226`  
-_Forrest takes a gym up on their offer for a free workout._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/squat/tebs_303_dup-20170920.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/squat/tebs_303_dup-20170920.jpg" height="144px" /></a>
-### 2024894
-**Tim & Eric's Bedtime Stories S01E03 - The Bathroom Boys**  
-TV-14-DLS 🔒 11:15  
-⌛ November 11, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/the-bathroom-boys  
-seriesid=`2013221` titleid=`2024894` id=`K_cqWiVEShGdqFjIBBuJpQ` mediaid=`eaa750eba1caeed57fcf4396f49444e8a65b3d5d`  
-_Tim, Eric, and Zach work and live in the men's public restroom on the 6th floor of the Stanton Building. Will their cover be blown when they suddenly run out of mints?_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-bathroom-boys/tebs_cc_103_pt1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-bathroom-boys/tebs_cc_103_pt1.jpg" height="144px" /></a>
-### 2191450
-**Your Pretty Face is Going to Hell S04E09 - Milk and Honey**  
- 🔒 11:17  
-⌛ November 11, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/milk-and-honey  
-seriesid=`828177` titleid=`2191450` id=`AWp5g9Z2AScUIg8XxfaD` mediaid=`806982bb251273e19cd4130f8adb2611eae109e0`  
-_When Hell runs out of ball clamps, Satan sends his best men to get more. Unfortunately, Gary is one of his best men._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15598401267412.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15598401267412.jpg" height="144px" /></a>
+⌛ October 15, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/for-whom-the-sleigh-bell-tolls  
+seriesid=`581006` titleid=`822210` id=`LOh0dl-4Qr-3BCv_yUA-dQ` mediaid=`b3275b1ecf2000f2ba2f648be1e46bff9a2d512a`  
+_Stan decides to finally give Steve a gun for Christmas and is horrified when Steve accidentally shoots a Mall Santa._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg" height="144px" /></a>
+### 822209
+**American Dad S06E06 - The People Vs. Martin Sugar**  
+TV-14 🔒 21:47  
+⌛ October 15, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-people-vs-martin-sugar  
+seriesid=`581006` titleid=`822209` id=`Ug7GhGosSgi2s18Wa63WwQ` mediaid=`138d29d5aa19afacba6c24428488bfc70c1da6f8`  
+_Stan serves as jury foreman for the trial of one of Roger's personae, and he is hell-bent on making sure the jury finds him guilty._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg" height="144px" /></a>
+### 2003439
+**Bob's Burgers S02E04 - Burgerboss**  
+TV-14 🔒 21:29  
+⌛ October 15, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/burgerboss  
+seriesid=`2003422` titleid=`2003439` id=`4d4V76qWQ1SI9IOvsnT-hA` mediaid=`4cdd76bc8d9151f4f3355fc945013de870cca96f`  
+_Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes "BOB SUX" on the leader board._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214844247735.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214844247735.jpg" height="144px" /></a>
+### 2003441
+**Bob's Burgers S02E06 - Dr. Yap**  
+TV-14 🔒 21:32  
+⌛ October 15, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/dr-yap  
+seriesid=`2003422` titleid=`2003441` id=`mXBWtsgfTi6STJB21Re0nw` mediaid=`a409c80e69cea0e5280555c6aaa2bd0673808013`  
+_Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg" height="144px" /></a>
+### 2105401
+**Family Guy S15E26 - A House Full of Peters**  
+TV-14-DLSV 🔒 21:41  
+⌛ October 15, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/a-house-full-of-peters  
+seriesid=`440990` titleid=`2105401` id=`LnwrZuC7Q8aCkSofOJayOA` mediaid=`1d1e3f18c02ad6811ce57e3b06260195675c92a0`  
+_Lois has a girls' night out with Bonnie and Donna where they decide to prank call their husbands. After Lois's friends ridicule their spouses, Lois decides to pretend to be Peter's long lost daughter._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/a-house-full-of-peters/familyguy_1419_air_cid-34TC4.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/a-house-full-of-peters/familyguy_1419_air_cid-34TC4.jpg" height="144px" /></a>
+### 2105399
+**Family Guy S15E20 - Dearly Deported**  
+TV-14-DLSV 🔒 21:41  
+⌛ October 15, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/dearly-deported  
+seriesid=`440990` titleid=`2105399` id=`VE1tD_JkT621coGs-4dA1A` mediaid=`5770cff3bf247ff355520635724aadcdd55163eb`  
+_The Griffins go to a waterpark for Lois and Peter's anniversary (his idea), where Chris meets a girl named Isabella and decides to ask her out.  She wants to say yes, but she informs Chris that she has two young children._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/dearly-deported/familyguy_1417_air_cid-35R41.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/dearly-deported/familyguy_1417_air_cid-35R41.jpg" height="144px" /></a>
+### 2115100
+**Samurai Jack S05E09 - C**  
+TV-14-V 🔒 22:28  
+⌛ November 12, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/samurai-jack/c  
+seriesid=`343621` titleid=`2115100` id=`h7eKkC2fSWGKICy6kJciBA` mediaid=`34de15fa02fd41232ec3e5e7977e1b0970b3270d`  
+_Samurai Jack's worst fear is realized when he faces off against Aku, and the demon makes a shocking discovery about Ashi that puts her in grave danger._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471431502-samjack_100_dup-20170510.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471431502-samjack_100_dup-20170510.jpg" height="144px" /></a>
+### 2115095
+**Samurai Jack S05E04 - XCV**  
+TV-14-V 🔓 22:16  
+⌛ November 12, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/samurai-jack/xcv  
+seriesid=`343621` titleid=`2115095` id=`mi8VOETTRaGsY5yedMU9xQ` mediaid=`5db360b8cdac686169c3cdf6b1a1489750f93abc`  
+_Samurai Jack must work with a deadly assassin bent on his destruction in order to escape the strange, otherworldly insides of a gargantuan creature that has swallowed them whole._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471429582-samjack_095_dup-20170329.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471429582-samjack_095_dup-20170329.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2007539 Mr. Pickles: 1  
-2013221 Tim & Eric's Bedtime Stories: 2  
-2073005 Neon Joe: 1  
-2094567 DREAM CORP LLC: 1  
-440990 Family Guy: 1  
-581006 American Dad: 2  
-828177 Your Pretty Face is Going to Hell: 1  
-859366 Black Dynamite: 1  
-### 2003427
-**Bob's Burgers S01E05 - Hamburger Dinner Theater**  
-TV-PG 🔓 21:16  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/hamburger-dinner-theater  
-seriesid=`2003422` titleid=`2003427` id=`fiET6YUKQF66U8IFgneXWQ` mediaid=`e16606aaa61acf8500480a4b7bf17289cd886f57`  
-_Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg" height="144px" /></a>
-### 2120614
-**Mr. Pickles S03E04 - Telemarketers Are the Devil**  
-TV-MA-V 🔒 11:17  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mr-pickles/telemarketers-are-the-devil  
-seriesid=`2007539` titleid=`2120614` id=`AWHToDZU0KIGIdXCKvmx` mediaid=`57268369f6dd44cbe35bd00dc73ac5542ff1ea3d`  
-_When Mr. Goodman and his co-workers are kidnapped from Telemarketing Corp., he winds up the property of a farm owner who has a vendetta against telemarketers._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15196739434518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15196739434518.jpg" height="144px" /></a>
-### 2024899
-**Tim & Eric's Bedtime Stories S01E07 - Baby**  
-TV-14-L 🔒 11:15  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/baby  
-seriesid=`2013221` titleid=`2024899` id=`A02MMjcAR1uhCXzQxHGvoQ` mediaid=`daedc114605f7a7fa590053858ff00f34ccfca69`  
-_Drawn in by the comic stylings of Jonathan Terp, Jordan enrolls in the Be a Baby program only to find out that babies don't use DVDs._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308257625795.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308257625795.jpg" height="144px" /></a>
-### 2133105
-**Tim & Eric's Bedtime Stories S02E06 - Butter**  
-TV-14-DLSV 🔓 21:30  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tim-erics-bedtime-stories/butter  
-seriesid=`2013221` titleid=`2133105` id=`psNwF_AEQk2tZck9gzZBSg` mediaid=`1e07db9f8cf70dcdd751e6802ffe18b48af676ba`  
-_Belle and Bonnie, owners of the Butter Barn, fall for the charm of an eccentric billionaire and lose their prized boy, Mongo in the process._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/butter/tebs_302_dup-20170925.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/butter/tebs_302_dup-20170925.jpg" height="144px" /></a>
-### 2073007
-**Neon Joe S01E02 - Neon Nights**  
-TV-14-DLV 🔓 22:34  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/neon-joe/neon-nights  
-seriesid=`2073005` titleid=`2073007` id=`6OepLmU4RdqwzCnrR1NFmA` mediaid=`fec5236d39d41bf4a55bca50ac7986f96f718ca2`  
-_It is revealed that Neon Joe authored a series of erotica novels many years ago._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144261-neonjoe_102_dup-20150929.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144261-neonjoe_102_dup-20150929.jpg" height="144px" /></a>
-### 2133697
-**DREAM CORP LLC S02E13 - What Happens in Randy, Stays in Randy**  
-TV-14-DL 🔒 11:12  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dream-corp-llc/what-happens-in-randy-stays-in-randy  
-seriesid=`2094567` titleid=`2133697` id=`AWY1bfH9h5enQuYyI6xW` mediaid=`9888c2320e9aa910072adb0b2773afe10a69e36a`  
-_Dr Roberts wrangles Randy for his biannual session. T.E.R.R.Y. struggles with his conscience._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341420594-dreamcorpllc_213_air_cid-3P0XK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341420594-dreamcorpllc_213_air_cid-3P0XK.jpg" height="144px" /></a>
-### 2105387
-**Family Guy S15E08 - Carter and Tricia**  
+2003422 Bob's Burgers: 2  
+440990 Family Guy: 2  
+581006 American Dad: 3  
+### 2003429
+**Bob's Burgers S01E07 - Bed & Breakfast**  
+TV-14 🔓 21:35  
+⌛ October 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/bed-breakfast  
+seriesid=`2003422` titleid=`2003429` id=`3IyKle5KTkmV2gK-NLiAhQ` mediaid=`331d877c5b9ce878fabf44979699c674714437f4`  
+_With a long weekend approaching, Linda sees an opportunity to capitalize on the tourist traffic by turning their home into a bed and breakfast. As usual, she goes overboard and gets a little crazy when her efforts aren't appreciated._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088796942016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088796942016.jpg" height="144px" /></a>
+### 2003428
+**Bob's Burgers S01E06 - Sheesh! Cab, Bob?**  
+TV-PG 🔓 21:34  
+⌛ October 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/sheesh-cab-bob  
+seriesid=`2003422` titleid=`2003428` id=`Z-2JQXrqSduNuyz2syFZpQ` mediaid=`d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95`  
+_Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg" height="144px" /></a>
+### 2105389
+**Family Guy S15E10 - Passenger Fatty-Seven**  
+TV-14 🔒 21:41  
+⌛ October 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/passenger-fatty-seven  
+seriesid=`440990` titleid=`2105389` id=`05zxmlIURIe_u6KEcbgS5A` mediaid=`426064b5c10b349b34db895d8316b6a585b8e0fa`  
+_Peter and his friends take full advantage of Quagmire's "family and friends" airline discount and decide to take a trip to San Francisco.  While flying back to Quahog, the plane they're on gets hi-jacked by three terrorists._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/passenger-fatty-seven/familyguy_1407_air_cid-32FHP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/passenger-fatty-seven/familyguy_1407_air_cid-32FHP.jpg" height="144px" /></a>
+### 2105388
+**Family Guy S15E09 - How the Griffin Stole Christmas**  
 TV-14 🔒 21:42  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/carter-and-tricia  
-seriesid=`440990` titleid=`2105387` id=`np9wHnd0R4i0HSeMJKknXQ` mediaid=`c7d0bd4b13261015a3a519217a722968b3f125b7`  
-_Carter purchases Pawtucket Brewery and becomes Peter's new boss. With great pleasure, he forces Peter to assume a variety of humiliating roles. Peter overhears Carter order staff to illegally make beer cans out of dangerous and cheap materials._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/carter-and-tricia/familyguy_1405_air_cid-30YY1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/carter-and-tricia/familyguy_1405_air_cid-30YY1.jpg" height="144px" /></a>
-### 2069541
-**American Dad S12E10 - A Nice Night for a Drive**  
-TV-14 🔓 21:14  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/a-nice-night-for-a-drive  
-seriesid=`581006` titleid=`2069541` id=`Jv3Vtv7GTM2hwe473Cu2Vg` mediaid=`446e15882ee54ba47ea9eae12a96f6c03d736848`  
-_Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg" height="144px" /></a>
-### 2069544
-**American Dad S12E09 - The Witches of Langley**  
-TV-14 🔓 21:14  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-witches-of-langley  
-seriesid=`581006` titleid=`2069544` id=`Y5ttR_r4RD--F5vHW1jb0Q` mediaid=`82d4c38087e623a89a32d2e71d1179ab0d8066d5`  
-_Steve and his friends take up witchcraft to gain power and popularity at school. Stan and Klaus become obsessed with remembering 90s bands._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg" height="144px" /></a>
-### 2191447
-**Your Pretty Face is Going to Hell S04E11 - Conceal and Gary**  
- 🔓 11:07  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/conceal-and-gary  
-seriesid=`828177` titleid=`2191447` id=`AWp5hbdAAScUIg8XxfaF` mediaid=`d8806c857a4ef8d8ee746aff3502c32001b2d17b`  
-_After Gary gets shot by one of the unborn, Satan institutes an unsensible gun policy to ensure something like that will happen again._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg" height="144px" /></a>
-### 2034533
-**Black Dynamite S02E07 - 'American Band Standoff' or 'The Godfather of Soooul Train' or 'Get On Your Goodfellas'**  
-TV-MA 🔒 22:28  
-⌛ October 7, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-dynamite/american-band-standoff-or-the-godfather-of-soooul-train-or-get-on-your-goodfellas  
-seriesid=`859366` titleid=`2034533` id=`7h6lj-LXRV65mXpk-0u7zg` mediaid=`253cdeb1227dd520a0afbddca6ebacc90c4e6536`  
-_Cream Corn is excited as hell at getting a chance to dance on Soooooooul Train, the hippest trip in America, but BD knows the truth the music game is a vicious, to-the-death battle between the Godfather Don Cornelius and murderous Dick Clark of American Bandstand. Cream Corn becomes a Soul Train dancer, and Don's old muscle Black Dynamite sees that just when he thought he was out… they pull him back in._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171582-blackdynamite_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171582-blackdynamite_017.jpg" height="144px" /></a>
+⌛ October 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/how-the-griffin-stole-christmas  
+seriesid=`440990` titleid=`2105388` id=`fxsIzyp7TVi2QyN2uZi1uw` mediaid=`7226655f77cc0c8ccebcb7ff00e616ebf2878b66`  
+_It's Christmas time in Quahog, and the first snow has arrived. The whole town goes sledding, including Peter who destroys the family dining table by using it as a giant sled._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/how-the-griffin-stole-christmas/familyguy_1406_air_cid-30YTK.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/how-the-griffin-stole-christmas/familyguy_1406_air_cid-30YTK.jpg" height="144px" /></a>
+### 2069543
+**American Dad S12E12 - Bazooka Steve**  
+TV-14 🔒 21:13  
+⌛ October 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/bazooka-steve  
+seriesid=`581006` titleid=`2069543` id=`AitmXh48RkeeOF5Mpxu47w` mediaid=`123955f7177e4d93e49b5e6257cfca8bbd43958e`  
+_Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg" height="144px" /></a>
+### 2069542
+**American Dad S12E11 - Casino Normale**  
+TV-14 🔒 21:13  
+⌛ October 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/casino-normale  
+seriesid=`581006` titleid=`2069542` id=`Kh2zdJEDQb-HJmzQQbcygw` mediaid=`78b0f4774f029711db4b5301b3c3d74970c7cf9c`  
+_Francine steals from the CIA and pretends to be a sexy supervillain to incite Stan to be more seductive. Roger tricks Hayley and Steve into trapping Jay Leno so he can take revenge on him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg" height="144px" /></a>
+### 2069545
+**American Dad S12E14 - Julia Rogerts**  
+TV-14 🔒 21:13  
+⌛ October 8, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/julia-rogerts  
+seriesid=`581006` titleid=`2069545` id=`Mtpd7rRDTN2tl4NtdbAaSw` mediaid=`dc755a68ae1822c19929072d1d89cbd4a0b4fda1`  
+_Roger runs off in disguise as a Julia Roberts character to a small town after Stan hurts his feelings. Steve plans a meeting when he finds out that Jeff and Barry have never met._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg" height="144px" /></a>
