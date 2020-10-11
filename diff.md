@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 11, 2020 at 04:30:30 EDT_
+_Last Update: October 11, 2020 at 05:00:31 EDT_
 ## Video added
 ### Summary
-2193955 JoJo's Bizarre Adventure: 1  
-### 2193993
-**JoJo's Bizarre Adventure S04E37 - King of Kings**  
-TV-MA-V 🔒 22:15  
-⌛ November 1, 2020 at 03:59:00 EST  
-https://www.adultswim.com/videos/jo-jos-bizarre-adventure/king-of-kings  
-seriesid=`2193955` titleid=`2193993` id=`AXSM61rwLyLQBOXK_PNq` mediaid=`8d4defe547f1e00214868d34911f054305297366`  
-_Solving the mystery of Requiem, Diavolo takes control of Trish's soul and steals the arrow. Attacks do nothing against Emperor Crimson's time leaps and Eulogy's predictions. Just as Diavolo is about to pierce his own Stand with the arrow._  
-<a href="https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_2091410153-jojo_goldenwind_037.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_2091410153-jojo_goldenwind_037.jpg" height="144px" /></a>
+2238413 Assassination Classroom: 1  
+### 2238420
+**Assassination Classroom S01E07 - School Trip Time/1st Period**  
+TV-14-L 🔒 21:21  
+⌛ November 1, 2020 at 04:29:00 EST  
+https://www.adultswim.com/videos/assassination-classroom/school-trip-time-1st-period  
+seriesid=`2238413` titleid=`2238420` id=`AXTp_T6uLyLQBOXK_PPC` mediaid=`7ccccc0063247a3288b9dc47aefab95cd202f8c6`  
+_The students go on a school trip to Kyoto, where they must still keep assassination foremost in their minds. Kanzaki faces trouble from her past._  
+<a href="https://media.cdn.adultswim.com/uploads/20201002/thumbnails/2_201021145196-AssasinationClass_107.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201002/thumbnails/2_201021145196-AssasinationClass_107.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
