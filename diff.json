@@ -1,7 +1,6 @@
 {
-    "updated": 1602450031,
-    "added": [],
-    "removed": [
+    "updated": 1602451828,
+    "added": [
         {
             "auth_expiration_date": 1604224740,
             "tms_id": "EP032284200138",
@@ -37,7 +36,7 @@
             "clip_order": null,
             "airing_id": "RADS1010112000034646",
             "media_id": "ffc65164ec22e8da96903ec92bc67619811d5772",
-            "modified": 1602378456,
+            "modified": 1602451616,
             "slug": "the-one-who-has-my-heart-my-mind-and-soul",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201009/thumbnails/1_201091746546-BlackClover_135.jpg",
@@ -45,11 +44,11 @@
             "season_number": "3",
             "title_id": "2238503",
             "tv_rating": "tv-pg",
-            "published": 1602378456,
+            "published": 1602451616,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
+            "modified_by": "Jonathan Jackson",
             "launch_date": null,
             "poster": "https://media.cdn.adultswim.com/uploads/20201009/thumbnails/2_201091746546-BlackClover_135.jpg",
             "id": "AXUPVM7kLyLQBOXK_PPc",
@@ -58,5 +57,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
