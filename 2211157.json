@@ -46,7 +46,7 @@
         "launch_date": 1601870400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_19103139229-Primal_002_dup-20190815.jpg",
         "id": "AW2Dq4bHadNs2hMNfuIf",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -596,6 +596,52 @@
         "launch_date": 1601956800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/2_191018111547-Primal_ep106_pitch.jpg",
         "id": "AW3fMbYs1YiBSfg0KX1t",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "EP033124370006",
+        "description": "A relentless dinosaur infected with a terrifying disease pursues Spear and Fang.",
+        "title_suggest": {
+            "input": [
+                "Plague of Madness",
+                "of Madness",
+                "Madness"
+            ]
+        },
+        "title": "Plague of Madness",
+        "expiration_date": 1607315340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 0,
+        "episode_number": "7",
+        "original_air_date": "1585713600",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1010112000034992",
+        "media_id": "0accc489aaafb4297b507b554506e38f236459cf",
+        "modified": 1602437376,
+        "slug": "plague-of-madness",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201006/thumbnails/1_201061139303-Primal_008_dup-20200417.jpg",
+        "created": 1601924851,
+        "season_number": "1",
+        "title_id": "2211165",
+        "tv_rating": "tv-ma-v",
+        "published": 1602437376,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1602473400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201006/thumbnails/2_201061139303-Primal_008_dup-20200417.jpg",
+        "id": "AXT6KWhVSeFB2d0c39LA",
         "auth": false
     },
     {
