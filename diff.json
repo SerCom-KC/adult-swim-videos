@@ -1,55 +1,60 @@
 {
-    "updated": 1602505878,
-    "added": [],
-    "removed": [
+    "updated": 1602506478,
+    "added": [
         {
+            "ott_launch_date": null,
             "auth_expiration_date": null,
-            "tms_id": "EP033124370006",
-            "description": "A relentless dinosaur infected with a terrifying disease pursues Spear and Fang.",
+            "tms_id": "",
+            "description": "Episode pitch from episode seven, 'Plague of Madness' (formerly 'Plague of Death'), of Genndy Tartakovksy's Primal.",
             "title_suggest": {
                 "input": [
-                    "Plague of Madness",
-                    "of Madness",
+                    "Episode Pitch: Plague Of Madness",
+                    "Pitch: Plague Of Madness",
+                    "Plague Of Madness",
+                    "Of Madness",
                     "Madness"
                 ]
             },
-            "title": "Plague of Madness",
-            "expiration_date": 1607315340,
-            "type": "episode",
+            "title": "Episode Pitch: Plague Of Madness",
+            "expiration_date": null,
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
             "collection_id": "AWzZcF8hCorLtcgfluAN",
-            "duration": 0,
-            "episode_number": "7",
-            "original_air_date": "1585713600",
+            "duration": 1284.75,
+            "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "RADS1010112000034992",
-            "media_id": "0accc489aaafb4297b507b554506e38f236459cf",
-            "modified": 1602437376,
-            "slug": "plague-of-madness",
+            "media_id": "me8ffa0644542cf75f42ac144519d8c96311a919e9",
+            "modified": 1602506156,
+            "airing_id": "",
+            "slug": "episode-pitch-plague-of-madness",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201006/thumbnails/1_201061139303-Primal_008_dup-20200417.jpg",
-            "created": 1601924851,
-            "season_number": "1",
-            "title_id": "2211165",
-            "tv_rating": "tv-ma-v",
-            "published": 1602437376,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/1_1910181114330-Primal_ep108_pitch.jpg",
+            "created": 1571407563,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1602506156,
             "tags": [],
             "collection_title": "Primal",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1602473400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201006/thumbnails/2_201061139303-Primal_008_dup-20200417.jpg",
-            "id": "AXT6KWhVSeFB2d0c39LA",
+            "modified_by": "Jonas Eason",
+            "launch_date": 1602504000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/2_1910181114330-Primal_ep108_pitch.jpg",
+            "id": "AW3fMIsj1YiBSfg0KX1s",
             "auth": false,
             "collection_slug": "primal",
             "collection_title_id": "2211157",
-            "online_exclusives": false
+            "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
