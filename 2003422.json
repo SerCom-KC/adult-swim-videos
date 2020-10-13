@@ -94,54 +94,6 @@
         "cma_id": "2003439"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1602561540,
-        "tms_id": "EP012792980014",
-        "description": "The kids hunt for treasure in an abandoned taffy factory, and Bob and Linda must find them before the factory's scheduled demolition.",
-        "title_suggest": {
-            "input": [
-                "The Belchies",
-                "Belchies"
-            ]
-        },
-        "title": "The Belchies",
-        "type": "episode",
-        "expiration_date": 1600055940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1288.4205,
-        "episode_number": "1",
-        "original_air_date": 1375754400,
-        "clip_order": null,
-        "auth_launch_date": 1601956800,
-        "modified": 1602254264,
-        "media_id": "dad329b8a79066736b4d7ab006e5e2031edee533",
-        "airing_id": "RADS1010022000032579",
-        "id": "BPGA47QsQLaN-TLR_c8dUA",
-        "slug": "the-belchies",
-        "views": 7398,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148409497119.jpg",
-        "created": 1406517627,
-        "title_id": "2003436",
-        "tv_rating": "tv-14",
-        "season_number": "2",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1602254264,
-        "first_published": 1406517627,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1599451200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148409497119.jpg",
-        "cma_id": "1496818"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1602647940,
@@ -388,6 +340,52 @@
         "launch_date": 1602475200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg",
         "cma_id": "2003518"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1603166340,
+        "tms_id": "EP012792980051",
+        "description": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt,\" the most charming pilot in the air.",
+        "title_suggest": {
+            "input": [
+                "Seaplane!"
+            ]
+        },
+        "title": "Seaplane!",
+        "type": "episode",
+        "expiration_date": 1504342799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1294.8269,
+        "episode_number": "3",
+        "original_air_date": 1410744600,
+        "auth_launch_date": 1602561600,
+        "clip_order": null,
+        "modified": 1602535535,
+        "media_id": "04718512dcc45036018c4e92099724090fd93b84",
+        "airing_id": "RADS1010112000034713",
+        "id": "ifvc24W8Q-qBRnvUpRjLcw",
+        "slug": "seaplane",
+        "views": 6916,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267538029215.jpg",
+        "created": 1410751254,
+        "title_id": "2030306",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1602535535,
+        "first_published": 1410751254,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503738000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg",
+        "cma_id": "2030306"
     },
     {
         "auth": true,
