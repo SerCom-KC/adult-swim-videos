@@ -154,56 +154,56 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447783740,
-        "auth_expiration_date": 1602647940,
-        "tms_id": "EP008994530002",
-        "rating": 6.5015326,
-        "description": "Eric sends Tim an ornamental hot dog. Ron Auster teaches children how to dance. (John C. Reilly guest stars)",
+        "auth": false,
+        "ott_launch_date": 1447783920,
+        "auth_expiration_date": 1574225940,
+        "tms_id": "EP008994530011",
+        "rating": 7.7815695,
+        "description": "The existence of someone as cool as Raz threatens to drive a wedge through the Tim and Eric partnership. (Bob Odenkirk, Al Yankovic)",
         "title_suggest": {
             "input": [
-                "Friends"
+                "Vacation"
             ]
         },
         "type": "episode",
-        "title": "Friends",
-        "expiration_date": 1599623999,
+        "title": "Vacation",
+        "expiration_date": 1605675540,
         "platforms": [
             "web",
             "mobile",
             "ott"
         ],
         "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 693.008,
-        "episode_number": "2",
-        "original_air_date": 1171860300,
+        "duration": 697.026,
+        "episode_number": "1",
+        "original_air_date": 1195449300,
         "clip_order": null,
-        "auth_launch_date": 1599624000,
-        "modified": 1599575765,
-        "media_id": "96b3dd0d2268ff9462295e8db366f15c15846063",
-        "airing_id": "RADS1004272000088432",
-        "id": "C_d8dT8WS6m1st_JUCE4mg",
-        "slug": "friends",
-        "views": 415517,
+        "auth_launch_date": 1571198400,
+        "modified": 1602538505,
+        "media_id": "c6090cbf859ca0604b58f928711bdbc3e5ac46c7",
+        "airing_id": "RADS1010112000035009",
+        "id": "NrQiFf6wSq6uQF7rQolNkQ",
+        "slug": "vacation",
+        "views": 1238004,
         "exclude_from_search": false,
         "thumbnail": "",
         "created": 1402945481,
-        "title_id": "661589",
-        "season_number": "1",
-        "tv_rating": "tv-14-l",
+        "title_id": "691937",
+        "tv_rating": "tv-14",
+        "season_number": "2",
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1599575765,
+        "published": 1602538505,
         "tags": [
-            "tim eric awesome show great job episode 2 friends hot dog dance john c reilly steve brule jan wayne skylar"
+            "time and eric awesome show great job episode 11 vacation raz bob odenkirk al yankovic"
         ],
-        "rating_count": 5228,
+        "rating_count": 7824,
         "collection_title": "Tim and Eric Awesome Show Great Job!",
         "modified_by": "ODT Listener",
-        "launch_date": 1588305600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_102_pt1-04.jpg",
-        "cma_id": "1462289"
+        "launch_date": 1602648000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_201_pt1-03.jpg",
+        "cma_id": "691937"
     },
     {
         "auth": false,
@@ -415,7 +415,7 @@
         "cma_id": "663089"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783800,
         "auth_expiration_date": 1605675540,
         "tms_id": "EP008994530006",
