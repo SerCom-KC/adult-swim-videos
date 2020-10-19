@@ -650,6 +650,58 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Episode pitch from episode eight, 'Coven of the Damned', of Genndy Tartakovksy's Primal.",
+        "title_suggest": {
+            "input": [
+                "Episode Pitch: Coven Of The Damned",
+                "Pitch: Coven Of The Damned",
+                "Coven Of The Damned",
+                "Of The Damned",
+                "The Damned",
+                "Damned"
+            ]
+        },
+        "title": "Episode Pitch: Coven Of The Damned",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1674.21,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "meb1e25de1cb00a5de16294654f6c2d98c62c192da",
+        "modified": 1602874887,
+        "airing_id": "",
+        "slug": "episode-pitch-coven-of-the-damned",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/1_1910181114470-Primal_ep109_pitch.jpg",
+        "created": 1571408044,
+        "season_number": "0",
+        "title_id": "",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1602874887,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1603108800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/2_1910181114470-Primal_ep109_pitch.jpg",
+        "id": "AW3fN-AQadNs2hMNfuUR",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "EP033124370006",
         "description": "A relentless dinosaur infected with a terrifying disease pursues Spear and Fang.",
