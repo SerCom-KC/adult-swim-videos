@@ -360,6 +360,51 @@
         "cma_id": "1440147"
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Eagleheart 24/7 365",
+        "title_suggest": {
+            "input": [
+                "Eagleheart"
+            ]
+        },
+        "title": "Eagleheart",
+        "expiration_date": null,
+        "type": "stream",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": "0",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "",
+        "modified": 1578690430,
+        "slug": "eagleheart",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191106/thumbnails/1_191161623148-eagle2.jpg",
+        "created": 1573075407,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1578690430,
+        "tags": [],
+        "collection_title": "Live Streams",
+        "disable_ads": false,
+        "modified_by": "Jared Marquez",
+        "launch_date": 1573075375,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191106/thumbnails/2_191161623148-eagle2.jpg",
+        "id": "AW5CmdRY1YiBSfg0KYRY",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": 1446738120,
         "auth_expiration_date": 1573621140,
