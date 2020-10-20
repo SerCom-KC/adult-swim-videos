@@ -903,5 +903,61 @@
         "launch_date": 1484167290,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-satans-teeth/ASID_30FMF_SatansTeeth_15.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Your Pretty Face is Going to Hell Marathon",
+        "title_suggest": {
+            "input": [
+                "Your Pretty Face is Going to Hell",
+                "Pretty Face is Going to Hell",
+                "Face is Going to Hell",
+                "is Going to Hell",
+                "Going to Hell",
+                "to Hell",
+                "Hell"
+            ]
+        },
+        "title": "Your Pretty Face is Going to Hell",
+        "type": "stream",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "roku"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 0,
+        "episode_number": "",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1590701017,
+        "media_id": "",
+        "airing_id": "",
+        "id": "tDnN2632S0KQpbsC4OTMag",
+        "slug": "your-pretty-face-is-going-to-hell",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1484778592,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1590701017,
+        "first_published": 1484778592,
+        "tags": [],
+        "collection_title": "Live Streams",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1481577852,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-marathon/marathonStream_ypf6.jpg",
+        "cma_id": ""
     }
 ]
