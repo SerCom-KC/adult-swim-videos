@@ -45,7 +45,7 @@
         "launch_date": 1601791200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220112932-FireForce_021.jpg",
         "id": "AW-f5uufGRcVO2K2pmCE",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -147,7 +147,54 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1583211599,
+        "auth_expiration_date": 1581843540,
+        "tms_id": "EP032684490023",
+        "description": "Shinra revisits his childhood to share his memories with Sho, to try to forge a deeper connection. When one of their own is critically injured, the members of the 8th rally to the rescue, and turn to Captain Huang of the 6th for assistance.",
+        "title_suggest": {
+            "input": [
+                "Smile"
+            ]
+        },
+        "title": "Smile",
+        "expiration_date": 1604215740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWwbkOBM4aLemgzOLF3t",
+        "duration": 1323.0885,
+        "episode_number": "23",
+        "original_air_date": 1580016600,
+        "auth_launch_date": 1580029200,
+        "clip_order": null,
+        "media_id": "5ada5194c4afd2acf38018818330e2b6392f1491",
+        "modified": 1602682439,
+        "airing_id": "RADS1010112000035092",
+        "slug": "smile",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201129530-FireForce_023.jpg",
+        "created": 1580140701,
+        "season_number": "1",
+        "title_id": "2203579",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1602682439,
+        "tags": [],
+        "collection_title": "Fire Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1603002600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201129530-FireForce_023.jpg",
+        "id": "AW_nuadj3HMJfT8do7qR",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1605070740,
         "tms_id": "EP032684490022",
         "description": "As Shinra and Sho continue to share their Adolla Link, Shinra learns a startling truth about the origin of his Adolla Burst flame. Shinra comes to understand the Link's nature further, developing his skills even more.",
         "title_suggest": {
@@ -170,11 +217,11 @@
         "duration": 1324.8903,
         "episode_number": "22",
         "original_air_date": 1579411800,
-        "auth_launch_date": 1582448400,
+        "auth_launch_date": 1603605600,
         "clip_order": null,
         "media_id": "0988b84e33b9027905022fd7c9d682da629bddf2",
-        "modified": 1602254249,
-        "airing_id": "RADS1010062000033138",
+        "modified": 1602898590,
+        "airing_id": "RADS1010172000036594",
         "slug": "a-brothers-determination",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201129288-FireForce_022.jpg",
@@ -184,7 +231,7 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1602254249,
+        "published": 1602898590,
         "tags": [],
         "collection_title": "Fire Force",
         "disable_ads": false,

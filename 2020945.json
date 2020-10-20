@@ -60,7 +60,7 @@
         "cma_id": "1381139"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1614920340,
         "tms_id": "EP019059960017",
@@ -226,7 +226,7 @@
         "cma_id": "1361025"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1602820740,
         "tms_id": "EP019059960058",
@@ -278,7 +278,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1602215940,
+        "auth_expiration_date": 1609477140,
         "tms_id": "EP019059960057",
         "description": "Following the battle, the Scouts regroup atop the wall only to find more questions than answers. Before they leave for Trost to get medical attention, Reiner must fulfill what he came to do.",
         "title_suggest": {
@@ -298,8 +298,8 @@
         "episode_number": "6",
         "original_air_date": 1496550600,
         "clip_order": null,
-        "auth_launch_date": 1596168000,
-        "modified": 1602254263,
+        "auth_launch_date": 1603425600,
+        "modified": 1603029469,
         "media_id": "32c1bfad04b1a307db7f7cf2bc33148a49667826",
         "airing_id": "RADS1010022000032667",
         "id": "6Ebuza6yRVCjSmdNfv4jbg",
@@ -314,7 +314,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1602254263,
+        "published": 1603029469,
         "first_published": 1496670949,
         "tags": [],
         "collection_title": "Attack on Titan",
@@ -431,7 +431,7 @@
     {
         "ott_launch_date": null,
         "auth": false,
-        "auth_expiration_date": 1602215940,
+        "auth_expiration_date": 1609477140,
         "tms_id": "EP019059960065",
         "description": "After barely surviving Eren's recovery a rising threat from the shadows puts everyone's lives in danger again.",
         "title_suggest": {
@@ -453,11 +453,11 @@
         "duration": 1404.04,
         "episode_number": "1",
         "original_air_date": 1534647600,
-        "auth_launch_date": 1596168000,
+        "auth_launch_date": 1603425600,
         "clip_order": null,
         "media_id": "c6146c67d8e11711b154ff65c5e324648f5982f2",
-        "modified": 1602254260,
-        "airing_id": "RADS1010022000032663",
+        "modified": 1603025851,
+        "airing_id": "RADS1010172000036544",
         "id": "AWU_GGE7h5enQuYyHUIw",
         "slug": "smoke-signal",
         "exclude_from_search": false,
@@ -468,7 +468,7 @@
         "tv_rating": "tv-14-dlsv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1602254260,
+        "published": 1603025851,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
@@ -478,7 +478,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1602820740,
         "tms_id": "EP019059960066",
         "description": "The Scouts take a stand against a new enemy, but it's not just Titans they'll be fighting anymore.",
@@ -584,7 +584,7 @@
         },
         "title": "Old Story",
         "type": "episode",
-        "expiration_date": 1590119940,
+        "expiration_date": 1604638740,
         "platforms": [
             "web",
             "mobile",
@@ -598,7 +598,7 @@
         "auth_launch_date": 1598846400,
         "clip_order": null,
         "media_id": "14f9a73bbeb97403c4694e91f9bcf39dc5460596",
-        "modified": 1598646301,
+        "modified": 1603029470,
         "airing_id": "RADS1008282000022533",
         "id": "AWWwd4bPh5enQuYyIDiZ",
         "slug": "old-story",
@@ -610,12 +610,12 @@
         "season_number": "3",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1598646301,
+        "published": 1603029470,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1588910400,
+        "launch_date": 1603425600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251634135-attackontitan_040_air_cid-3M5W3.jpg"
     },
     {
@@ -1007,7 +1007,7 @@
         "launch_date": 1601611200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg",
         "id": "AWbu1YiT3OEkyfT4qJSV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -1025,7 +1025,7 @@
         },
         "title": "The Town Where Everything Began",
         "type": "episode",
-        "expiration_date": 1598241540,
+        "expiration_date": 1604293140,
         "platforms": [
             "android",
             "ios",
@@ -1040,7 +1040,7 @@
         "clip_order": null,
         "airing_id": "RADS1008192000020307",
         "media_id": "40c4feb6743dde1109ce0bc728beb6e71be137ff",
-        "modified": 1599432442,
+        "modified": 1602923489,
         "slug": "the-town-where-everything-began",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251637548-attackontitan_050_air_cid-3WND7.jpg",
@@ -1050,15 +1050,15 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1599432442,
+        "published": 1602923489,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1597032000,
+        "launch_date": 1603080000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637548-attackontitan_050_air_cid-3WND7.jpg",
         "id": "AWrqXuEBCorLtcgflqrB",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1348,7 +1348,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1601870340,
+        "auth_expiration_date": 1607921940,
         "tms_id": "EP019059960085",
         "description": "Eren learns how all paths connect in the story that his father began. If Grisha is to pay for his sins, he must fight for freedom and take a stand.",
         "title_suggest": {
@@ -1370,11 +1370,11 @@
         "duration": 1384.0827,
         "episode_number": "21",
         "original_air_date": 1563681600,
-        "auth_launch_date": 1597032000,
+        "auth_launch_date": 1603080000,
         "clip_order": null,
         "airing_id": "RADS1010022000032534",
         "media_id": "af9c02069a3dce9921f84313e8555d3cff2e8655",
-        "modified": 1602254265,
+        "modified": 1602903147,
         "slug": "attack-titan",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251646257-attackontitan_058_dup-20190716.jpg",
@@ -1384,7 +1384,7 @@
         "tv_rating": "tv-14-dlv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1602254265,
+        "published": 1602903147,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
@@ -1392,7 +1392,7 @@
         "launch_date": 1601870400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251646257-attackontitan_058_dup-20190716.jpg",
         "id": "AWwKqWCxCorLtcgfls0-",
-        "auth": false
+        "auth": true
     },
     {
         "auth": false,
@@ -1453,7 +1453,7 @@
         "cma_id": "1448651"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1602820740,
         "tms_id": "EP019059960027",
@@ -1559,7 +1559,7 @@
         "cma_id": "1445703"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1608872340,
         "tms_id": "EP019059960056",
@@ -2060,7 +2060,7 @@
         },
         "title": "The Hunters",
         "type": "episode",
-        "expiration_date": 1597377540,
+        "expiration_date": 1604638740,
         "platforms": [
             "web",
             "mobile"
@@ -2071,7 +2071,7 @@
         "original_air_date": 1497760200,
         "clip_order": null,
         "auth_launch_date": 1597377600,
-        "modified": 1597460451,
+        "modified": 1603029470,
         "media_id": "92ae5a7ac55af2c5007c86e93b7f1975e3e1e51c",
         "airing_id": "RADS1008112000019013",
         "id": "V0jkUUAdRM2BdCF_JlsW9w",
@@ -2086,13 +2086,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1597460451,
+        "published": 1603029470,
         "first_published": 1497882997,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1596168000,
+        "launch_date": 1603425600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225161433-attackontitan_033_air_cid-35G51.jpg",
         "cma_id": "2117212"
     },
@@ -2119,7 +2119,7 @@
         },
         "title": "I Can Hear His Heartbeat: The Struggle for Trost, Part 4",
         "type": "episode",
-        "expiration_date": 1591329540,
+        "expiration_date": 1606453140,
         "platforms": [
             "web",
             "mobile"
@@ -2130,9 +2130,9 @@
         "original_air_date": 1403407800,
         "clip_order": null,
         "auth_launch_date": 1591329600,
-        "modified": 1591645043,
+        "modified": 1603029471,
         "media_id": "d7ad9be21dfee5748ca706337a5482be4ba4bbce",
-        "airing_id": "RADS1005312000098961",
+        "airing_id": "RADS1010172000036562",
         "id": "W2wiXPOuRH26ugatTdf65A",
         "slug": "i-can-hear-his-heartbeat-the-struggle-for-trost-part-4",
         "views": 7,
@@ -2145,13 +2145,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1591645043,
+        "published": 1603029471,
         "first_published": 1406532025,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1588305600,
+        "launch_date": 1603425600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251159326-attackontitan_008.jpg",
         "cma_id": "1356922"
     },
@@ -2268,7 +2268,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1600401540,
+        "auth_expiration_date": 1615525140,
         "tms_id": "EP019059960010",
         "rating": 7.4691358,
         "description": "Eren begins his training with the Cadet Corps, but questions about his painful past overwhelm him. When he struggles with a maneuvering exercise, Berholt and Reiner offer kindly advice.",
@@ -2297,8 +2297,8 @@
         "episode_number": "3",
         "original_air_date": 1400383800,
         "clip_order": null,
-        "auth_launch_date": 1588305600,
-        "modified": 1600702565,
+        "auth_launch_date": 1603425600,
+        "modified": 1603025848,
         "media_id": "843251fbbbe96c4ccee0a0c926866c5b88cf2824",
         "airing_id": "RADS1009112000026373",
         "id": "Z1q2JMXASNSiNVFrwM9mrQ",
@@ -2313,7 +2313,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1600702565,
+        "published": 1603025848,
         "tags": [],
         "rating_count": 162,
         "collection_title": "Attack on Titan",

@@ -90,7 +90,7 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1601800140,
+        "auth_expiration_date": 1615867140,
         "tms_id": "EP035989030003",
         "description": "The brilliant, belligerent Karma Akabane, Nagisa's former classmate, joins 3-E and immediately jumps into the assassination mission with both feet.",
         "title_suggest": {
@@ -112,11 +112,11 @@
         "duration": 1280.546,
         "episode_number": "3",
         "original_air_date": 1599973200,
-        "auth_launch_date": 1599985800,
+        "auth_launch_date": 1603009800,
         "clip_order": null,
         "airing_id": "RADS1009292000031221",
         "media_id": "b9ac8c5e43acb14730d640abcfb6541b170b8a0b",
-        "modified": 1602254264,
+        "modified": 1602863711,
         "slug": "karma-time",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/1_20911110558-AssassinationClass_103.jpg",
@@ -124,7 +124,7 @@
         "title_id": "2238416",
         "season_number": "1",
         "tv_rating": "tv-14",
-        "published": 1602254264,
+        "published": 1602863711,
         "tags": [],
         "collection_title": "Assassination Classroom",
         "disable_ads": false,
@@ -132,10 +132,10 @@
         "launch_date": 1601800200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_20911110558-AssassinationClass_103.jpg",
         "id": "AXR9dsX0SeFB2d0c3828",
-        "auth": false
+        "auth": true
     },
     {
-        "auth_expiration_date": 1602404940,
+        "auth_expiration_date": 1615867140,
         "tms_id": "EP035989030004",
         "description": "A new foreign-language teacher comes to 3-E with some major ulterior motives... among other things. Will she get any closer to killing Koro Sensei?",
         "title_suggest": {
@@ -157,11 +157,11 @@
         "duration": 1280.3791,
         "episode_number": "4",
         "original_air_date": "1600578000",
-        "auth_launch_date": 1600590600,
+        "auth_launch_date": 1603614600,
         "clip_order": null,
-        "airing_id": "RADS1010062000033134",
+        "airing_id": "RADS1010172000036593",
         "media_id": "1d99388a45a6cac93b2d88dd015e0ff91ef4c7b4",
-        "modified": 1602254266,
+        "modified": 1602898589,
         "slug": "grown-up-time",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/1_20911111232-AssassinationClass_104.jpg",
@@ -169,7 +169,7 @@
         "season_number": "1",
         "title_id": "2238417",
         "tv_rating": "tv-14-dlsv",
-        "published": 1602254266,
+        "published": 1602898589,
         "tags": [],
         "collection_title": "Assassination Classroom",
         "disable_ads": false,
@@ -222,7 +222,7 @@
         "launch_date": 1603009800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161651436-AssClass_105.jpg",
         "id": "AXSYsAM_SeFB2d0c3874",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1603614540,
@@ -235,7 +235,7 @@
             ]
         },
         "title": "Test Time",
-        "expiration_date": null,
+        "expiration_date": 1604827740,
         "type": "episode",
         "platforms": [
             "android",
@@ -249,9 +249,9 @@
         "original_air_date": "1601787600",
         "auth_launch_date": 1601800200,
         "clip_order": null,
-        "airing_id": "RADS1009292000031222",
+        "airing_id": "RADS1010172000036592",
         "media_id": "a2d7adc6f27120bdbc82ef8deed83fccd28fab61",
-        "modified": 1602254250,
+        "modified": 1602898589,
         "slug": "test-time",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/1_209241114276-AssassinationClass_106.jpg",
@@ -259,12 +259,12 @@
         "season_number": "1",
         "title_id": "2238419",
         "tv_rating": "tv-14-dlv",
-        "published": 1602254250,
+        "published": 1602898589,
         "tags": [],
         "collection_title": "Assassination Classroom",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": null,
+        "launch_date": 1603614600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/2_209241114276-AssassinationClass_106.jpg",
         "id": "AXTAriNuSeFB2d0c39CL",
         "auth": true
@@ -314,6 +314,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20201002/thumbnails/2_201021145196-AssasinationClass_107.jpg",
         "id": "AXTp_T6uLyLQBOXK_PPC",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1604831340,
+        "tms_id": "EP035989030008",
+        "description": "The E Class gives a pro sniper plenty of chances to take down Koro Sensei, then try to make the most of what's left of their school trip to Kyoto.",
+        "title_suggest": {
+            "input": [
+                "School Trip Time/2nd Period",
+                "Trip Time/2nd Period",
+                "Time/2nd Period",
+                "Period"
+            ]
+        },
+        "title": "School Trip Time/2nd Period",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1278.7108,
+        "episode_number": "8",
+        "original_air_date": "1603000800",
+        "auth_launch_date": 1603013400,
+        "clip_order": null,
+        "airing_id": "RADS1010162000036095",
+        "media_id": "072b5934a094aa78abb96896ede445ca09d67340",
+        "modified": 1602863709,
+        "slug": "school-trip-time-2nd-period",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201009/thumbnails/1_20109188499-AssasinationClass_108.jpg",
+        "created": 1602281333,
+        "season_number": "1",
+        "title_id": "2238421",
+        "tv_rating": "tv-14-dl",
+        "published": 1602863709,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201009/thumbnails/2_20109188499-AssasinationClass_108.jpg",
+        "id": "AXUPaOFSLyLQBOXK_PPe",
         "auth": true
     }
 ]
