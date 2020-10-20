@@ -1643,6 +1643,56 @@
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "",
+        "title_suggest": {
+            "input": [
+                "Squidbillies"
+            ]
+        },
+        "title": "Squidbillies",
+        "type": "stream",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 0,
+        "episode_number": "",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1581545735,
+        "media_id": "",
+        "id": "GfVjwYh3R_G1bm5agpzO_A",
+        "slug": "squidbillies",
+        "views": 9,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15188055586141.jpg",
+        "created": 1484778610,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1581545735,
+        "first_published": 1484778610,
+        "tags": [],
+        "collection_title": "Live Streams",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1481577852,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188055586141.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
         "description": "Laura Jane Grace enthusiastically shares her version of the theme song.",
         "title_suggest": {
             "input": [
