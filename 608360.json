@@ -1374,58 +1374,6 @@
         "cma_id": "1340399"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": null,
-        "tms_id": "",
-        "description": "",
-        "title_suggest": {
-            "input": [
-                "Robot Chicken",
-                "Chicken"
-            ]
-        },
-        "title": "Robot Chicken",
-        "type": "stream",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "roku"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 0,
-        "episode_number": "",
-        "original_air_date": null,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1590700923,
-        "media_id": "",
-        "airing_id": "",
-        "id": "FeaqiXGYSiuuOMWIxcwKyA",
-        "slug": "robot-chicken",
-        "views": 35,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1484778492,
-        "season_number": "",
-        "title_id": "",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1590700923,
-        "first_published": 1484778492,
-        "tags": [],
-        "collection_title": "Live Streams",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": 1481577852,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1447360140,
         "auth_expiration_date": 1603684740,
