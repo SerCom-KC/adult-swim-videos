@@ -2,17 +2,15 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 22, 2020 at 21:00:28 EDT_
+_Last Update: October 22, 2020 at 23:00:33 EDT_
 ## Video added
-### Summary
-2143080 Black Clover: 1  
-### 2230146
-**Black Clover S03E30 - The Lion Awakens**  
-TV-PG 🔓 21:35  
-⌛ October 25, 2020 at 04:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/the-lion-awakens  
-seriesid=`2143080` titleid=`2230146` id=`AXR0s8IcSeFB2d0c381z` mediaid=`ce86e5ba28b49cf725c21a901c0bc60213a8147e`  
-_Mereoleona grabs a few fiery handsful of Black Bulls to join her squad in a training session at Yultim Volcano, where several surprises await them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171446556-BlackClover_132.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171446556-BlackClover_132.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+608360 Live Streams: 1  
+### 
+**Live Streams S??E?? - Robot Chicken**  
+TV-MA-L 🔓 00:00  
+https://www.adultswim.com/videos/robot-chicken/robot-chicken  
+seriesid=`608360` titleid=`` id=`FeaqiXGYSiuuOMWIxcwKyA`  
+<a href="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg" height="144px" /></a>
