@@ -1,5 +1,54 @@
 [
     {
+        "ott_launch_date": 1549899000,
+        "auth_expiration_date": 1603079940,
+        "tms_id": "",
+        "description": "All the quests in the realm suddenly vanish so Tigtone must fight nothing, itself.",
+        "title_suggest": {
+            "input": [
+                "Tigtone vs. Nothing",
+                "vs. Nothing",
+                "Nothing"
+            ]
+        },
+        "title": "Tigtone vs. Nothing",
+        "expiration_date": 1606712340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 677.42,
+        "episode_number": "10",
+        "original_air_date": 1549862100,
+        "auth_launch_date": 1600056000,
+        "clip_order": null,
+        "media_id": "d8e958fadc07c00a6a6dde5b41e56174c4b6e296",
+        "modified": 1603407882,
+        "airing_id": "RADS1010222000037176",
+        "slug": "tigtone-vs-nothing",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15494661879979.jpg",
+        "created": 1545336804,
+        "season_number": "1",
+        "title_id": "2171692",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1603407882,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "modified_by": "ODT Listener",
+        "launch_date": 1603684800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15494661879979.jpg",
+        "id": "AWfNQFL4zQU7gEG1jvYx",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1548169200,
         "auth_expiration_date": 1606107540,
         "tms_id": "",
@@ -201,7 +250,7 @@
         "launch_date": 1600660800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843439050312.jpg",
         "id": "AWgQZAcWzQU7gEG1jvbI",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1548689340,
@@ -781,7 +830,7 @@
         "launch_date": 1601871300,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091848488-Tigtone_202_dup-20200630.jpg",
         "id": "AXRJttADLyLQBOXK_PMo",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1603684740,
@@ -829,7 +878,7 @@
         "launch_date": 1603684800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091854137-Tigtone_204_dup-20200717.jpg",
         "id": "AXRJu8nuSeFB2d0c38ty",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1602475140,
@@ -976,7 +1025,7 @@
         "launch_date": 1599710400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091853152-Tigtone_205_dup-20200717.jpg",
         "id": "AXRJutv-SeFB2d0c38tw",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1603685640,
@@ -1025,7 +1074,7 @@
         "launch_date": 1603685700,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_209185557-Tigtone_208_dup-20200717.jpg",
         "id": "AXRJvJWgSeFB2d0c38tz",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1604293140,
