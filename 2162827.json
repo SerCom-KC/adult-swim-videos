@@ -830,7 +830,7 @@
         "launch_date": 1601871300,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091848488-Tigtone_202_dup-20200630.jpg",
         "id": "AXRJttADLyLQBOXK_PMo",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1603684740,
@@ -981,6 +981,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1607919240,
+        "tms_id": "EP029602940012",
+        "description": "An exotic quest on an island of mutants is just the relaxing getaway Tigtone needed.",
+        "title_suggest": {
+            "input": [
+                "Tigtone and Tigtone's Island",
+                "and Tigtone's Island",
+                "Tigtone's Island",
+                "Island"
+            ]
+        },
+        "title": "Tigtone and Tigtone's Island",
+        "expiration_date": 1603684740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 674.8742,
+        "episode_number": "6",
+        "original_air_date": "1585718100",
+        "auth_launch_date": 1603685700,
+        "clip_order": null,
+        "airing_id": "RADS1010222000037227",
+        "media_id": "04a82e452925e399fc9f2420c98ea325cc6b83a4",
+        "modified": 1603415068,
+        "slug": "tigtone-and-tigtones-island",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/1_2091853152-Tigtone_205_dup-20200717.jpg",
+        "created": 1598964816,
+        "season_number": "2",
+        "title_id": "2222958",
+        "tv_rating": "tv-14-v",
+        "published": 1603415068,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1599710400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091853152-Tigtone_205_dup-20200717.jpg",
+        "id": "AXRJutv-SeFB2d0c38tw",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1603685640,
         "tms_id": "",
         "description": "Honor, manliness, living: it's all on the line.",
@@ -1027,7 +1074,7 @@
         "launch_date": 1603685700,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_209185557-Tigtone_208_dup-20200717.jpg",
         "id": "AXRJvJWgSeFB2d0c38tz",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1604293140,
