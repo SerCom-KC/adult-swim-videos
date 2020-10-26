@@ -1194,8 +1194,6 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": null,
-        "tms_id": "",
         "description": "Protect your password.",
         "title_suggest": {
             "input": [
@@ -1224,22 +1222,17 @@
         "episode_number": "2",
         "original_air_date": null,
         "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1603737083,
-        "airing_id": "",
-        "media_id": "",
+        "modified": 1487963444,
         "id": "pdIcLSiJREOZaob-Ufq8zA",
         "slug": "eric-andre-interviews-the-hot-babes-of-instagram-ana-montana",
         "views": 3965,
-        "exclude_from_search": false,
-        "thumbnail": "",
         "created": 1487084821,
         "season_number": "0",
         "title_id": "",
         "tv_rating": "",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1603737083,
+        "published": 1487963444,
         "first_published": 1487084821,
         "tags": [
             "eric andre show",
@@ -1255,9 +1248,8 @@
             "video"
         ],
         "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": 1598414400,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1487080800,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-ana-montana/ericandre_HGOI_102_AnaMontana.jpg",
         "cma_id": ""
     },
