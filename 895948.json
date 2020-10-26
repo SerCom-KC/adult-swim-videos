@@ -421,6 +421,53 @@
     {
         "auth_expiration_date": null,
         "tms_id": "",
+        "description": "Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six .Paak!",
+        "title_suggest": {
+            "input": [
+                "A King Is Born",
+                "King Is Born",
+                "Is Born",
+                "Born"
+            ]
+        },
+        "title": "A King Is Born",
+        "expiration_date": 1606712340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 674.4404,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1010222000037248",
+        "media_id": "a994a03f9ab4017b638d036a3eec0ea4415bf116",
+        "modified": 1603417770,
+        "slug": "a-king-is-born",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161711506-ericandre_501_dup-20200812.jpg",
+        "created": 1600290716,
+        "season_number": "5",
+        "title_id": "2230780",
+        "tv_rating": "tv-ma-lv",
+        "published": 1603417770,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1603684800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg",
+        "id": "AXSYwnpvLyLQBOXK_PN8",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
         "description": "Mess up your equilibrium. Season 5 premieres Sunday, October 25th at Midnight ET/PT.",
         "title_suggest": {
             "input": [
