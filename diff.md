@@ -2,80 +2,124 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 26, 2020 at 22:30:29 EDT_
+_Last Update: October 27, 2020 at 00:00:30 EDT_
 ## Video added
 ### Summary
-608360 Robot Chicken: 6  
-### 2072674
-**Robot Chicken S08E08 - Joel Hurwitz**  
-TV-14-DLSV 🔒 11:16  
-⌛ November 15, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/joel-hurwitz  
-seriesid=`608360` titleid=`2072674` id=`Q7ln7bIZQsyk4afxRO6v5w` mediaid=`1519164a5a0e1b6dde36739ff4142838b9e2a3cb`  
-_From the geniuses in the Robot Chicken writers room, we bring you - uh oh, Skipper, that is not Barbie's bus. The Purge is on, and the unbreakable laws are broken! The battle of the Ex X's? Is it The Predator or The Bachelor…or both?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461251322-robotchicken_807_dup-20151215.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461251322-robotchicken_807_dup-20151215.jpg" height="144px" /></a>
-### 2213485
-**Robot Chicken S10E13 - Max Caenen in: Why Would He Know If His Mother's A Size Queen**  
-TV-MA-L 🔓 11:01  
-⌛ November 29, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/max-caenen-in-why-would-he-know-if-his-mothers-a-size-queen  
-seriesid=`608360` titleid=`2213485` id=`AXLruou5Rs3h4hI_X4LF` mediaid=`1df4e5293ebfe469d10c76ef31fe0064d223dd55`  
-_The Lady of the Lake gives Percival some trouble. The Robot Chicken crew shows what Dumbledore sees in the Mirror of Desire. Professor X reveals how the X-Men first discovered their powers. And Garfield gets buried in the pet cemetery._  
-<a href="https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg" height="144px" /></a>
-### 
-**Live Streams S??E?? - Robot Chicken**  
-TV-MA-L 🔓 00:00  
-https://www.adultswim.com/videos/robot-chicken/robot-chicken  
-seriesid=`608360` titleid=`` id=`FeaqiXGYSiuuOMWIxcwKyA`  
-<a href="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg" height="144px" /></a>
-### 826674
-**Robot Chicken S05E08 - Schindler's Bucket List**  
-TV-MA 🔒 11:00  
-⌛ November 15, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/schindlers-bucket-list  
-seriesid=`608360` titleid=`826674` id=`qC9w-3HTQiWROdYEFONvUw` mediaid=`c4cfb8b4b842835998311cdc1d4cf73dffeebe55`  
-_Baby needs-a-name, from Strawberry Shortcake, gets a name no one will ever forget; a roast for Cobra Commander has a surprise ending and the creators finally reveal the secret of what happened to Skeeter from Muppet Babies._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg" height="144px" /></a>
-### 2020463
-**Robot Chicken S07E08 - Up Up and Buffet**  
-TV-MA 🔒 11:03  
-⌛ November 8, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/up-up-and-buffet  
-seriesid=`608360` titleid=`2020463` id=`qpR16qNORGWmi7YLvGLIUQ` mediaid=`44ca6e1ecc2f5ad465570884876a936afe3bc20d`  
-_Our writers imagine how Scrooge McDuck would do on Shark Tank, Fred Flintstone gets a colonoscopy, Shrek has a moment of clarity, and Doc from Mike Tyson's Punchout passes on to the great arena in the sky._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg" height="144px" /></a>
-### 2139701
-**Robot Chicken S09E08 - We Don't See Much of That in 1940s America**  
-TV-MA 🔒 10:48  
-⌛ November 8, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/we-dont-see-much-of-that-in-1940-s-america  
-seriesid=`608360` titleid=`2139701` id=`AWDbcffPZ-onAnjDLt2m` mediaid=`0983b16b9cef57c15eebdf06496b0e0ff2006c0e`  
-_From the geniuses in Robot Chicken's writers room, witness how far Miss Frizzle will go to survive when the Magic School Bus crashes! Harry Potter relives his golden years. Dominic Toretto gets fast and furious with the Titanic._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046131655-robotchicken_907_dup-20180104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046131655-robotchicken_907_dup-20180104.jpg" height="144px" /></a>
+581006 American Dad: 2  
+581268 Squidbillies: 5  
+### 748214
+**American Dad S08E16 - The Boring Identity**  
+TV-14 🔒 21:31  
+⌛ November 2, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-boring-identity  
+seriesid=`581006` titleid=`748214` id=`XnaRNcwGSVatNqjZuzzDDQ` mediaid=`77698cecba87b21253d4efaba292a828bd9254bd`  
+_When Stan loses his memory, Francine attempts to transform him into the perfect husband; Roger joins Steve's newspaper route._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803208209919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803208209919.jpg" height="144px" /></a>
+### 748216
+**American Dad S08E15 - The Missing Kink**  
+TV-14 🔒 21:31  
+⌛ November 2, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-missing-kink  
+seriesid=`581006` titleid=`748216` id=`nmy7UZoeT8uHdtPWAchqLQ` mediaid=`480017ef15c2fab179f4ef1c9dfe4583d78b0532`  
+_Francine discovers she has a spanking fetish; Hayley goes out on a date with Snot._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803210225020.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803210225020.jpg" height="144px" /></a>
+### 654430
+**Squidbillies S02E09 - Bubba Trubba**  
+TV-14-LV 🔒 11:29  
+⌛ November 16, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/bubba-trubba  
+seriesid=`581268` titleid=`654430` id=`H1jZSvlvQc26Eis3_qFJZg` mediaid=`aa8887ffe16275ba19c66805bc3f257d088946b8`  
+_Early learns a valuable lesson about the downside of mind control._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111626-squidbillies_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111626-squidbillies_014.jpg" height="144px" /></a>
+### 2006883
+**Squidbillies S08E02 - Ga-Ga-Ghost**  
+TV-14-DLSV 🔒 11:24  
+⌛ November 16, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/ga-ga-ghost  
+seriesid=`581268` titleid=`2006883` id=`cTGIZdLfRR2cfC6jf-FuoA` mediaid=`ce7bb545c71d34b9766fb99242bfd1043c1c0cba`  
+_Early goes on a rampage with the ghost of his dead father._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414105852-squidbillies_703_dup-20130813.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414105852-squidbillies_703_dup-20130813.jpg" height="144px" /></a>
+### 714675
+**Squidbillies S03E14 - Gimmicky Magazine Show Spoof Parody about Dan Halen**  
+TV-14-DLV 🔒 11:26  
+⌛ November 9, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/gimmicky-magazine-show-spoof-parody-about-dan-halen  
+seriesid=`581268` titleid=`714675` id=`U67qkEM0TQeVJGhS96fLwg` mediaid=`0a6a7d7e843574a9e0e64f119caad9aa8fbafc2f`  
+_...About Dan Halen: An intimate look at one of history's most intriguing figures, presented in glorious English._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131135503-squidbillies_034_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131135503-squidbillies_034_bim.jpg" height="144px" /></a>
+### 859424
+**Squidbillies S06E04 - The Big E**  
+TV-14-DLV 🔒 11:25  
+⌛ November 9, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/the-big-e  
+seriesid=`581268` titleid=`859424` id=`ZoBoo4GbQaaiYtVgISkrjg` mediaid=`17a3fdef98c45287b2826a21c685a1291b8876da`  
+_Early brings his message to the people whether they want it or not._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322433-squidbillies_505_dup-20110930.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322433-squidbillies_505_dup-20110930.jpg" height="144px" /></a>
+### 2199305
+**Squidbillies S12E04 - The Reenactment of the Repulsion of the Siege of Cuyler Mountain**  
+TV-14-DLSV 🔓 11:19  
+⌛ November 30, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/the-reenactment-of-the-repulsion-of-the-siege-of-cuyler-mountain  
+seriesid=`581268` titleid=`2199305` id=`AWy6cAeUCorLtcgflt2e` mediaid=`a4f39fcd0f87f7b94b875f8093c6a2fe547ebfcc`  
+_Early finds a priceless civil war relic and sells it for the right price._  
+<a href="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_198221346131-squidbillies_1004_dup-20190819.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_198221346131-squidbillies_1004_dup-20190819.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-608360 Robot Chicken: 3  
-### 2201004
-**Robot Chicken S10E08 - Molly Lucero in: Your Friend's Boob**  
-TV-14-DLSV 🔓 11:15  
-⌛ October 25, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/molly-lucero-in-your-friends-boob  
-seriesid=`608360` titleid=`2201004` id=`AW2EUAs81YiBSfg0KXXA` mediaid=`257563cb226ddc224e97327f4d4cb231a9310f2d`  
-_Betty Spaghetty tries her best to save an elevator full of people. RC finds out what goes on behind Bert and Ernie's closed bedroom doors. Godzilla: The Musical comes to a Broadway theatre and brings the house down._  
-<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg" height="144px" /></a>
-### 826670
-**Robot Chicken S05E04 - Kramer vs. Showgirls**  
-TV-MA 🔒 10:39  
-⌛ October 25, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/kramer-vs-showgirls  
-seriesid=`608360` titleid=`826670` id=`HpiKG4unSfGoge0uTxWpPA` mediaid=`a2aebdae49a10efaf739da212a7bd22dbf091a57`  
-_Kim Possible's Dr. Drakken gets sent to prison, NASA's Lego people have a very bad launch day; see how Andy treats his toys after he comes home from college in Toy Story 4, and we find out what happened to some of our most memorable TV characters from the 90's. All this and more from the minds of the creators._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461127584-robotchicken_084_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461127584-robotchicken_084_bim.jpg" height="144px" /></a>
-### 2072672
-**Robot Chicken S08E05 - Cake Pillow**  
-TV-MA 🔒 11:14  
-⌛ October 25, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/cake-pillow  
-seriesid=`608360` titleid=`2072672` id=`gTPiROD9R8K9cSxeFkazIA` mediaid=`cfd42430690aa19d301c68af8a5a8508362dc312`  
-_Take a trip with the Robot Chicken team when the Magic School Bus goes on its final adventure! The circle of life sends the Wonder Pets through a loop! Teenage Archie Andrews finally picks a girlfriend…to smash._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249522-robotchicken_805_dup-20151117.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249522-robotchicken_805_dup-20151117.jpg" height="144px" /></a>
+581006 American Dad: 2  
+581268 Squidbillies: 5  
+### 748178
+**American Dad S07E17 - Ricky Spanish**  
+TV-14 🔒 21:32  
+⌛ October 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/ricky-spanish  
+seriesid=`581006` titleid=`748178` id=`kr-W66nzTjGoQeoeLzG0GQ` mediaid=`37c21def8464ff30b255352e31b6f2ef6d1df1bf`  
+_Steve convinces Roger to redeem his most hated and disgusting persona, Ricky Spanish, while Stan and Francine get a visit from the Nigerian boy they once sponsored._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999410931.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999410931.jpg" height="144px" /></a>
+### 748148
+**American Dad S07E16 - The Kidney Stays in the Picture**  
+TV-14 🔒 21:32  
+⌛ October 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-kidney-stays-in-the-picture  
+seriesid=`581006` titleid=`748148` id=`sTSE8UtsR-2jevsQN9g64Q` mediaid=`878f6a870982c662faaa2c8bbf8765fe847a071c`  
+_When Hayley experiences kidney failure, Stan and Fran travel into the past to find the man who may be Hayley's real father._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999137965.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999137965.jpg" height="144px" /></a>
+### 961484
+**Squidbillies S07E05 - The Legend of Kid Squid**  
+TV-14-LV 🔒 11:14  
+⌛ October 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/the-legend-of-kid-squid  
+seriesid=`581268` titleid=`961484` id=`6XJin83FQ0GUPzpZtgC4uA` mediaid=`afb9e19941c1c115526b1627d61bc667d3a688d4`  
+_Early gets jealous that Rusty has been taking the credit for all the crimes Early blamed on him._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141053373-squidbillies_605_dup-20120817.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141053373-squidbillies_605_dup-20120817.jpg" height="144px" /></a>
+### 2108974
+**Squidbillies S11E09 - The War on the War on Christmas**  
+TV-14-DLSV 🔓 11:26  
+⌛ October 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/the-war-on-the-war-on-christmas  
+seriesid=`581268` titleid=`2108974` id=`AWA42fCwZ-onAnjDLtdq` mediaid=`6ea0d31d516bd80fa67cbb8475e9fcdca8f2e56a`  
+_Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130121655473.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130121655473.jpg" height="144px" /></a>
+### 714673
+**Squidbillies S03E12 - Tuscaloosa Dumpling**  
+TV-14-LV 🔒 11:15  
+⌛ October 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/tuscaloosa-dumpling  
+seriesid=`581268` titleid=`714673` id=`QQXjB6_-SVKQqN6cGnbtUg` mediaid=`bc47cf1643caaf78f22c278c638f44738f82f2b6`  
+_Early teaches Rusty that life is a game and sex is first place._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113511-squidbillies_032_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113511-squidbillies_032_bim.jpg" height="144px" /></a>
+### 654429
+**Squidbillies S02E06 - Meth O.D. to My Madness**  
+TV-14-DLV 🔒 11:31  
+⌛ October 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/meth-o-d-to-my-madness  
+seriesid=`581268` titleid=`654429` id=`QrxUtwB2SuySaNtTVOKvGw` mediaid=`e863115ef596f5d348d6c4afc9c38e9be7ab883f`  
+_Early discovers that his magic beans are far from magic._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111562-squidbillies_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111562-squidbillies_013.jpg" height="144px" /></a>
+### 859423
+**Squidbillies S06E02 - Class of '86**  
+TV-14-DLSV 🔒 11:01  
+⌛ October 26, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/class-of-86  
+seriesid=`581268` titleid=`859423` id=`yER7qQefRTKcRvquLkPDZw` mediaid=`156304fac509c8293d493d74bcbcc5e41b80ea86`  
+_At his high school reunion, the Sheriff settles an old score._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg" height="144px" /></a>
