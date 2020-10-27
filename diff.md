@@ -2,134 +2,80 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 27, 2020 at 00:30:29 EDT_
+_Last Update: October 27, 2020 at 01:00:29 EDT_
 ## Video added
 ### Summary
-2137894 Ballmastrz: 9009: 1  
-2022095 Black Jesus: 1  
-2003422 Bob's Burgers: 1  
-440990 Family Guy: 1  
-340539 Harvey Birdman, Attorney at Law: 1  
-2007823 Infomercials: 1  
-2161118 Joe Pera Talks With You: 1  
-### 2137902
-**Ballmastrz: 9009 S01E08 - Hunger Cramps on the Playing Field of Friendship**  
-TV-14-DLV 🔓 11:16  
-⌛ November 30, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/ballmastrz-9009/hunger-cramps-on-the-playing-field-of-friendship  
-seriesid=`2137894` titleid=`2137902` id=`AWLeZ5w2TdxzjxdClfRH` mediaid=`392fd577d6cd8ac38b78061984ff3379f86cc4e2`  
-_Feeling unappreciated by his teammates, Ace finds comfort in a bizarre new vice that leaves him with an unhealthy appetite._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152414975067820.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152414975067820.jpg" height="144px" /></a>
-### 2160583
-**Black Jesus S03E02 - Vatican Guys**  
-TV-MA-L 🔓 21:57  
-⌛ November 30, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-jesus/vatican-guys  
-seriesid=`2022095` titleid=`2160583` id=`AW1KfNrRadNs2hMNft_Q` mediaid=`f5769aa3c11eca12ab056dbfca88ad99f607298d`  
-_After discovering the leaked video of Jesus performing a miracle, the Vatican sends two secret Vatican agents from Italy to Compton USA to kidnap "the Black Jesus" and determine if this oversized black guy is really the son of God._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261716375-blackjesus_302_air_cid-427WX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261716375-blackjesus_302_air_cid-427WX.jpg" height="144px" /></a>
-### 2065453
-**Bob's Burgers S05E01 - Work Hard or Die Trying, Girl**  
-TV-PG-DLV 🔒 21:45  
-⌛ November 2, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/work-hard-or-die-trying-girl  
-seriesid=`2003422` titleid=`2065453` id=`BEPB1YKHSWiwLid9P9MDvw` mediaid=`e3a4128e30e4fad60510ffa9fc1dbfd397edb2de`  
-_When Gene's musical doesn't get picked for the school's fall performance, he stages an underground show with Louise. Wagstaff Middle School families feud when they learn Eugene planned his show on the same night as Courtney's musical._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/work-hard-or-die-trying-girl/bobsburgers_414_air_cid-2P2TD.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/work-hard-or-die-trying-girl/bobsburgers_414_air_cid-2P2TD.jpg" height="144px" /></a>
-### 441026
-**Family Guy S02E20 - Wasted Talent**  
-TV-14 🔒 22:29  
-⌛ November 2, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/wasted-talent  
-seriesid=`440990` titleid=`441026` id=`cVvZMw2_R8eXBYM5Eb-5PA` mediaid=`9e2c39a90b528900a2729d111e856e5034499605`  
-_An over-zealous Lois loses a young piano student she chloroforms in order to force-train the girl to win the State Piano Competition, but then discovers that Peter, when inebriated, is a piano-playing genius._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152762054757110.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152762054757110.jpg" height="144px" /></a>
-### 344144
-**Harvey Birdman, Attorney at Law S01E03 - Shaggy Busted**  
-TV-14-D 🔓 11:51  
-⌛ November 30, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/shaggy-busted  
-seriesid=`340539` titleid=`344144` id=`a86RyzGAS7uEbizFkOhfSw` mediaid=`66814299d4d4f6906c9e0da9587fb3f6e44c9101`  
-_Shaggy and Scooby are being held on possession. Harvey defends the two in an entirely circumstantial case brought against them by Spyro. Harvey is just about to win the case when Velma and Fred catch an old cotton farmer masquerading as a green monster to scare people away from his new, highly lucrative crop._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351221358-harvey_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351221358-harvey_003.jpg" height="144px" /></a>
-### 2134721
-**Infomercials S07E04 - Cool Dad - Official Trailer**  
-TV-14 🔓 11:17  
-⌛ November 30, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/infomercials/cool-dad-official-trailer  
-seriesid=`2007823` titleid=`2134721` id=`AWPMWkOrTdxzjxdCmQjn` mediaid=`200082e3383f4d65ba0e80e5559f73c64a59ef1d`  
-_Dreambow Entertainment Home Video presents "Cool Dad" and other fun fantasy-comedies for the whole family coming soon to videocassette!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152840392707715.png"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152840392707715.png" height="144px" /></a>
-### 2214319
-**Joe Pera Talks With You S02E13 - Joe Pera Talks with You on the First Day of School**  
-TV-14-DL 🔓 11:09  
-⌛ November 30, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-talks-with-you-on-the-first-day-of-school  
-seriesid=`2161118` titleid=`2214319` id=`AW-BdrCFGRcVO2K2pl_y` mediaid=`58e1770c4c172d1a9f5f88fadd6c115f5c1618d7`  
-_A return to the middle school. As summer ends, you and Joe Pera meet the new school year head on, with new pairs of sneakers and weak cups of coffee._  
-<a href="https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171423526-joeperatalks_214_dup-20191213.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171423526-joeperatalks_214_dup-20191213.jpg" height="144px" /></a>
+608360 Robot Chicken: 3  
+### 2072672
+**Robot Chicken S08E05 - Cake Pillow**  
+TV-MA 🔒 11:14  
+⌛ October 25, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/cake-pillow  
+seriesid=`608360` titleid=`2072672` id=`gTPiROD9R8K9cSxeFkazIA` mediaid=`cfd42430690aa19d301c68af8a5a8508362dc312`  
+_Take a trip with the Robot Chicken team when the Magic School Bus goes on its final adventure! The circle of life sends the Wonder Pets through a loop! Teenage Archie Andrews finally picks a girlfriend…to smash._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249522-robotchicken_805_dup-20151117.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249522-robotchicken_805_dup-20151117.jpg" height="144px" /></a>
+### 826670
+**Robot Chicken S05E04 - Kramer vs. Showgirls**  
+TV-MA 🔒 10:39  
+⌛ October 25, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/kramer-vs-showgirls  
+seriesid=`608360` titleid=`826670` id=`HpiKG4unSfGoge0uTxWpPA` mediaid=`a2aebdae49a10efaf739da212a7bd22dbf091a57`  
+_Kim Possible's Dr. Drakken gets sent to prison, NASA's Lego people have a very bad launch day; see how Andy treats his toys after he comes home from college in Toy Story 4, and we find out what happened to some of our most memorable TV characters from the 90's. All this and more from the minds of the creators._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461127584-robotchicken_084_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461127584-robotchicken_084_bim.jpg" height="144px" /></a>
+### 2201004
+**Robot Chicken S10E08 - Molly Lucero in: Your Friend's Boob**  
+TV-14-DLSV 🔓 11:15  
+⌛ October 25, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/molly-lucero-in-your-friends-boob  
+seriesid=`608360` titleid=`2201004` id=`AW2EUAs81YiBSfg0KXXA` mediaid=`257563cb226ddc224e97327f4d4cb231a9310f2d`  
+_Betty Spaghetty tries her best to save an elevator full of people. RC finds out what goes on behind Bert and Ernie's closed bedroom doors. Godzilla: The Musical comes to a Broadway theatre and brings the house down._  
+<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-2022095 Black Jesus: 1  
-2137894 Ballmastrz: 9009: 1  
-2209292 Demon Slayer: 1  
-340539 Harvey Birdman, Attorney at Law: 1  
-440990 Family Guy: 1  
-### 2030314
-**Bob's Burgers S04E13 - Mazel Tina**  
-TV-14-DLSV 🔒 21:34  
-⌛ October 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/mazel-tina  
-seriesid=`2003422` titleid=`2030314` id=`kDyq7D52Td-yWvGflYNsKA` mediaid=`34f5e5ab484ac95ddc1dbc79cef599815cb4ca10`  
-_Tina isn't invited to her classmate Tammy's Bat Mitzvah, but ends up at the party anyway, because Bob and the family were hired to cater. Despite the invite snub, Tina is excited to scope out the BFOS (boys from other schools). Things go awry and Louise and Tammy end up missing, so, to her total delight, Tina is left center stage._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg" height="144px" /></a>
-### 2086420
-**Infomercials S06E04 - Live at the Necropolis: Lords of Synth**  
-TV-14 🔓 10:53  
-⌛ October 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/live-at-the-necropolis-lords-of-synth  
-seriesid=`2007823` titleid=`2086420` id=`AXRKK6AmLyLQBOXK_PMt` mediaid=`4d71bdc463425ef2b5418e9dc74c15c185040755`  
-_Three legendary synth musicians compete in a cosmic battle for synth dominance, in this recently-unearthed concert from 1986._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092159310-infomercials_LordsOfSynth.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092159310-infomercials_LordsOfSynth.jpg" height="144px" /></a>
-### 2065416
-**Black Jesus S02E03 - False Witness**  
-TV-MA-L 🔒 21:57  
-⌛ October 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-jesus/false-witness  
-seriesid=`2022095` titleid=`2065416` id=`4zHadcClTG-MCR4fMZ9hMQ` mediaid=`32186c11887f6d68cd2ae517ed031b80bcf7d7e6`  
-_When Vic misinterprets the gang's latest hustle as terrorist activity, he gears up to wage a one-man war against them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261711392-blackjesus_207_dup-20150924.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261711392-blackjesus_207_dup-20150924.jpg" height="144px" /></a>
-### 2199781
-**Ballmastrz: 9009 S02E08 - Dance Dance Convolution?! Egos Warped by the Hair Gel of Hubris! Atonement, NOW!**  
-TV-14-DLV 🔒 11:13  
-⌛ October 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ballmastrz-9009/dance-dance-convolution-egos-warped-by-the-hair-gel-of-hubris-atonement-now  
-seriesid=`2137894` titleid=`2199781` id=`AW8U066k3HMJfT8do6gB` mediaid=`0f52a2462580bd489c58b450b7fb235f3a30cb8e`  
-_A smooth-talking manager molds Ace into a popstar and Ace-mania takes the consortium by storm._  
-<a href="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217126508-ballmastrz9009_208_dup-20191105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217126508-ballmastrz9009_208_dup-20191105.jpg" height="144px" /></a>
-### 2209307
-**Demon Slayer S01E15 - Mount Natagumo**  
-TV-MA-V 🔒 20:56  
-⌛ October 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/demon-slayer/mount-natagumo  
-seriesid=`2209292` titleid=`2209307` id=`AXARvrcpGRcVO2K2pmri` mediaid=`bd8a2128fd64c41d3c0c64a1b4a11346b1a93669`  
-_Tanjiro, Nezuko, Zenitsu and Inosuke travel north-northwest to spider-infested Mt. Natagumo where they find fellow Demon Slayers in a bit of a bind._  
-<a href="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241447520-demonslayer_015.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241447520-demonslayer_015.jpg" height="144px" /></a>
-### 639264
-**Harvey Birdman, Attorney at Law S04E01 - Shazzan**  
-TV-14-D 🔒 11:36  
-⌛ October 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/shazzan  
-seriesid=`340539` titleid=`639264` id=`AMNl45FYSaqGkZsJ-53iKw` mediaid=`a55c7ad28d4726f40ebdee736fe1429d10bd85b8`  
-_After centuries trapped in Phil's vase, Shazzan pops out by the hand of Peanut.  Or rather, Master Peanut, who proceeds to wish for everything that's, uh, big.  Shazzan, because ostensibly it's a law show, forms a case against his imprisoner, Mufti the Mizwa of Muzzy Tah!  All the while, Avenger  - without warning - speaks, embracing a fresh vocabulary of insults and occasional slurs._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351425199-harvey_033.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351425199-harvey_033.jpg" height="144px" /></a>
-### 441002
-**Family Guy S02E09 - If I'm Dyin' I'm Lyin'**  
-TV-14-D 🔒 22:27  
-⌛ October 26, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/if-im-dyin-im-lyin  
-seriesid=`440990` titleid=`441002` id=`hP59VcxsRpqwg4ZUm981LQ` mediaid=`24410243245b103543984225b11c346c3d4b08e0`  
-_Peter gets a reputation for being a healer when he miraculously cures a made-up disease Chris uses as part of a scam on the Grant-A-Dream Foundation._  
-<a href=""><img src="" height="144px" /></a>
+608360 Robot Chicken: 6  
+### 2139701
+**Robot Chicken S09E08 - We Don't See Much of That in 1940s America**  
+TV-MA 🔒 10:48  
+⌛ November 8, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/we-dont-see-much-of-that-in-1940-s-america  
+seriesid=`608360` titleid=`2139701` id=`AWDbcffPZ-onAnjDLt2m` mediaid=`0983b16b9cef57c15eebdf06496b0e0ff2006c0e`  
+_From the geniuses in Robot Chicken's writers room, witness how far Miss Frizzle will go to survive when the Magic School Bus crashes! Harry Potter relives his golden years. Dominic Toretto gets fast and furious with the Titanic._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046131655-robotchicken_907_dup-20180104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046131655-robotchicken_907_dup-20180104.jpg" height="144px" /></a>
+### 2213485
+**Robot Chicken S10E13 - Max Caenen in: Why Would He Know If His Mother's A Size Queen**  
+TV-MA-L 🔓 11:01  
+⌛ November 29, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/max-caenen-in-why-would-he-know-if-his-mothers-a-size-queen  
+seriesid=`608360` titleid=`2213485` id=`AXLruou5Rs3h4hI_X4LF` mediaid=`1df4e5293ebfe469d10c76ef31fe0064d223dd55`  
+_The Lady of the Lake gives Percival some trouble. The Robot Chicken crew shows what Dumbledore sees in the Mirror of Desire. Professor X reveals how the X-Men first discovered their powers. And Garfield gets buried in the pet cemetery._  
+<a href="https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg" height="144px" /></a>
+### 
+**Live Streams S??E?? - Robot Chicken**  
+TV-MA-L 🔓 00:00  
+https://www.adultswim.com/videos/robot-chicken/robot-chicken  
+seriesid=`608360` titleid=`` id=`FeaqiXGYSiuuOMWIxcwKyA`  
+<a href="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg" height="144px" /></a>
+### 2072674
+**Robot Chicken S08E08 - Joel Hurwitz**  
+TV-14-DLSV 🔒 11:16  
+⌛ November 15, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/joel-hurwitz  
+seriesid=`608360` titleid=`2072674` id=`Q7ln7bIZQsyk4afxRO6v5w` mediaid=`1519164a5a0e1b6dde36739ff4142838b9e2a3cb`  
+_From the geniuses in the Robot Chicken writers room, we bring you - uh oh, Skipper, that is not Barbie's bus. The Purge is on, and the unbreakable laws are broken! The battle of the Ex X's? Is it The Predator or The Bachelor…or both?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461251322-robotchicken_807_dup-20151215.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461251322-robotchicken_807_dup-20151215.jpg" height="144px" /></a>
+### 826674
+**Robot Chicken S05E08 - Schindler's Bucket List**  
+TV-MA 🔒 11:00  
+⌛ November 15, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/schindlers-bucket-list  
+seriesid=`608360` titleid=`826674` id=`qC9w-3HTQiWROdYEFONvUw` mediaid=`c4cfb8b4b842835998311cdc1d4cf73dffeebe55`  
+_Baby needs-a-name, from Strawberry Shortcake, gets a name no one will ever forget; a roast for Cobra Commander has a surprise ending and the creators finally reveal the secret of what happened to Skeeter from Muppet Babies._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg" height="144px" /></a>
+### 2020463
+**Robot Chicken S07E08 - Up Up and Buffet**  
+TV-MA 🔒 11:03  
+⌛ November 8, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/up-up-and-buffet  
+seriesid=`608360` titleid=`2020463` id=`qpR16qNORGWmi7YLvGLIUQ` mediaid=`44ca6e1ecc2f5ad465570884876a936afe3bc20d`  
+_Our writers imagine how Scrooge McDuck would do on Shark Tank, Fred Flintstone gets a colonoscopy, Shrek has a moment of clarity, and Doc from Mike Tyson's Punchout passes on to the great arena in the sky._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg" height="144px" /></a>
