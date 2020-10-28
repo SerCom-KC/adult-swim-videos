@@ -242,7 +242,7 @@
         "launch_date": 1600833600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171326188-miketysonmysteries_417.jpg",
         "id": "AW-BQfulGRcVO2K2pl_u",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -595,58 +595,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1603857540,
-        "tms_id": "EP020020000058",
-        "description": "The death penalty debate is settled once and for all.",
-        "title_suggest": {
-            "input": [
-                "The Death of Lyle Victor Linkus",
-                "Death of Lyle Victor Linkus",
-                "of Lyle Victor Linkus",
-                "Lyle Victor Linkus",
-                "Victor Linkus",
-                "Linkus"
-            ]
-        },
-        "title": "The Death of Lyle Victor Linkus",
-        "expiration_date": 1597809540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 666.3657,
-        "episode_number": "7",
-        "original_air_date": 1563768000,
-        "auth_launch_date": 1597809600,
-        "clip_order": null,
-        "media_id": "e312e599ec7ef44b356014fad77702adf848726a",
-        "modified": 1597469584,
-        "airing_id": "RADS1008142000019456",
-        "slug": "the-death-of-lyle-victor-linkus",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190719/thumbnails/1_19719126207-miketysonmysteries_407_dup-20190605.jpg",
-        "created": 1563467959,
-        "season_number": "4",
-        "title_id": "2172004",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1597469584,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1594785600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20190719/thumbnails/2_19719126207-miketysonmysteries_407_dup-20190605.jpg",
-        "id": "AWwF885GCorLtcgflsZX",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1604465940,
         "tms_id": "EP020020000059",
         "description": "Why haven't the swallows returned to San Juan Capistrano?",
@@ -902,5 +850,56 @@
         "launch_date": 1602648000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311151953-miketysonmysteries_001.jpg",
         "cma_id": "1285880"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1524034799,
+        "tms_id": "EP020020000012",
+        "description": "Mike Tyson is asked to entertain the troops in Afghanistan.",
+        "title_suggest": {
+            "input": [
+                "For the Troops",
+                "the Troops",
+                "Troops"
+            ]
+        },
+        "expiration_date": 1606885140,
+        "title": "For the Troops",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 635.3336113,
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "episode_number": "2",
+        "original_air_date": 1447046100,
+        "clip_order": null,
+        "auth_launch_date": 1521010800,
+        "modified": 1603436843,
+        "media_id": "3a5354f169f7cdcd55e3a53dbb22a461273a3aea",
+        "airing_id": "RADS1010222000037274",
+        "id": "ausAZ70LT5S28ij7C1KEIw",
+        "slug": "for-the-troops",
+        "views": 32005,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111524138-miketysonmysteries_012.jpg",
+        "created": 1443721186,
+        "season_number": "2",
+        "title_id": "2069736",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1603436843,
+        "first_published": 1446711617,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1603857600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111524138-miketysonmysteries_012.jpg",
+        "cma_id": "2069736"
     }
 ]
