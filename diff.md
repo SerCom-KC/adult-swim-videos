@@ -2,80 +2,63 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 27, 2020 at 23:00:34 EDT_
+_Last Update: October 28, 2020 at 00:00:34 EDT_
 ## Video added
 ### Summary
-608360 Robot Chicken: 6  
-### 2072674
-**Robot Chicken S08E08 - Joel Hurwitz**  
-TV-14-DLSV 🔒 11:16  
-⌛ November 15, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/joel-hurwitz  
-seriesid=`608360` titleid=`2072674` id=`Q7ln7bIZQsyk4afxRO6v5w` mediaid=`1519164a5a0e1b6dde36739ff4142838b9e2a3cb`  
-_From the geniuses in the Robot Chicken writers room, we bring you - uh oh, Skipper, that is not Barbie's bus. The Purge is on, and the unbreakable laws are broken! The battle of the Ex X's? Is it The Predator or The Bachelor…or both?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461251322-robotchicken_807_dup-20151215.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461251322-robotchicken_807_dup-20151215.jpg" height="144px" /></a>
-### 2213485
-**Robot Chicken S10E13 - Max Caenen in: Why Would He Know If His Mother's A Size Queen**  
-TV-MA-L 🔓 11:01  
-⌛ November 29, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/max-caenen-in-why-would-he-know-if-his-mothers-a-size-queen  
-seriesid=`608360` titleid=`2213485` id=`AXLruou5Rs3h4hI_X4LF` mediaid=`1df4e5293ebfe469d10c76ef31fe0064d223dd55`  
-_The Lady of the Lake gives Percival some trouble. The Robot Chicken crew shows what Dumbledore sees in the Mirror of Desire. Professor X reveals how the X-Men first discovered their powers. And Garfield gets buried in the pet cemetery._  
-<a href="https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg" height="144px" /></a>
-### 
-**Live Streams S??E?? - Robot Chicken**  
-TV-MA-L 🔓 00:00  
-https://www.adultswim.com/videos/robot-chicken/robot-chicken  
-seriesid=`608360` titleid=`` id=`FeaqiXGYSiuuOMWIxcwKyA`  
-<a href="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg" height="144px" /></a>
-### 826674
-**Robot Chicken S05E08 - Schindler's Bucket List**  
-TV-MA 🔒 11:00  
-⌛ November 15, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/schindlers-bucket-list  
-seriesid=`608360` titleid=`826674` id=`qC9w-3HTQiWROdYEFONvUw` mediaid=`c4cfb8b4b842835998311cdc1d4cf73dffeebe55`  
-_Baby needs-a-name, from Strawberry Shortcake, gets a name no one will ever forget; a roast for Cobra Commander has a surprise ending and the creators finally reveal the secret of what happened to Skeeter from Muppet Babies._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg" height="144px" /></a>
-### 2020463
-**Robot Chicken S07E08 - Up Up and Buffet**  
-TV-MA 🔒 11:03  
-⌛ November 8, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/up-up-and-buffet  
-seriesid=`608360` titleid=`2020463` id=`qpR16qNORGWmi7YLvGLIUQ` mediaid=`44ca6e1ecc2f5ad465570884876a936afe3bc20d`  
-_Our writers imagine how Scrooge McDuck would do on Shark Tank, Fred Flintstone gets a colonoscopy, Shrek has a moment of clarity, and Doc from Mike Tyson's Punchout passes on to the great arena in the sky._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg" height="144px" /></a>
-### 2139701
-**Robot Chicken S09E08 - We Don't See Much of That in 1940s America**  
-TV-MA 🔒 10:48  
-⌛ November 8, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/we-dont-see-much-of-that-in-1940-s-america  
-seriesid=`608360` titleid=`2139701` id=`AWDbcffPZ-onAnjDLt2m` mediaid=`0983b16b9cef57c15eebdf06496b0e0ff2006c0e`  
-_From the geniuses in Robot Chicken's writers room, witness how far Miss Frizzle will go to survive when the Magic School Bus crashes! Harry Potter relives his golden years. Dominic Toretto gets fast and furious with the Titanic._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046131655-robotchicken_907_dup-20180104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046131655-robotchicken_907_dup-20180104.jpg" height="144px" /></a>
+440990 Family Guy: 1  
+340533 Sealab 2021: 1  
+661208 Tim and Eric Awesome Show Great Job!: 1  
+### 441028
+**Family Guy S02E21 - Fore Father**  
+TV-14-S 🔒 22:25  
+⌛ November 3, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/fore-father  
+seriesid=`440990` titleid=`441028` id=`Lk1B1SrTSf-FwnW9-CdbVw` mediaid=`3224e96edb2905196724c9c6ab6b6c23c4db206e`  
+_Peter unsuccessfully teaches Chris to be responsible on a camping trip and then on the golf course.  Meanwhile, Brian convinces Stewie that the booster shots he just received are part of an attempt to control his mind._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152762062115820.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152762062115820.jpg" height="144px" /></a>
+### 345418
+**Sealab 2021 S01E08 - Waking Quinn**  
+TV-14-D 🔓 10:59  
+⌛ December 1, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/sealab-2021/waking-quinn  
+seriesid=`340533` titleid=`345418` id=`qk15EFxhRFSBiUEVviJKLg` mediaid=`cc359aec6988c60d652b8e840b50c2c4bc5d4851`  
+_Dr. Quinn (electrocuted through an act of profound stupidity by Stormy) has a series of random and bizarre hallucinations, which bring to mind everything from "The Incredible Mr. Limpet" to "Apocalypse Now."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151030265-sealab_008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151030265-sealab_008.jpg" height="144px" /></a>
+### 691940
+**Tim and Eric Awesome Show Great Job! S02E04 - Dolls**  
+TV-MA 🔓 10:56  
+⌛ December 1, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/dolls  
+seriesid=`661208` titleid=`691940` id=`GTvnoqU1QXCC6oGj0Q6dQg` mediaid=`72eb949d259bc08645f120695779003ef88d7a02`  
+_Baseball Man is forced to take action after noticing odd behavior from one of Chip's dolls during his date with Cindy.  (John C Reilly, Patton Oswalt)_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154871416673117.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154871416673117.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-608360 Robot Chicken: 3  
-### 2201004
-**Robot Chicken S10E08 - Molly Lucero in: Your Friend's Boob**  
-TV-14-DLSV 🔓 11:15  
-⌛ October 25, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/molly-lucero-in-your-friends-boob  
-seriesid=`608360` titleid=`2201004` id=`AW2EUAs81YiBSfg0KXXA` mediaid=`257563cb226ddc224e97327f4d4cb231a9310f2d`  
-_Betty Spaghetty tries her best to save an elevator full of people. RC finds out what goes on behind Bert and Ernie's closed bedroom doors. Godzilla: The Musical comes to a Broadway theatre and brings the house down._  
-<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg" height="144px" /></a>
-### 826670
-**Robot Chicken S05E04 - Kramer vs. Showgirls**  
-TV-MA 🔒 10:39  
-⌛ October 25, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/kramer-vs-showgirls  
-seriesid=`608360` titleid=`826670` id=`HpiKG4unSfGoge0uTxWpPA` mediaid=`a2aebdae49a10efaf739da212a7bd22dbf091a57`  
-_Kim Possible's Dr. Drakken gets sent to prison, NASA's Lego people have a very bad launch day; see how Andy treats his toys after he comes home from college in Toy Story 4, and we find out what happened to some of our most memorable TV characters from the 90's. All this and more from the minds of the creators._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461127584-robotchicken_084_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461127584-robotchicken_084_bim.jpg" height="144px" /></a>
-### 2072672
-**Robot Chicken S08E05 - Cake Pillow**  
-TV-MA 🔒 11:14  
-⌛ October 25, 2020 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/cake-pillow  
-seriesid=`608360` titleid=`2072672` id=`gTPiROD9R8K9cSxeFkazIA` mediaid=`cfd42430690aa19d301c68af8a5a8508362dc312`  
-_Take a trip with the Robot Chicken team when the Magic School Bus goes on its final adventure! The circle of life sends the Wonder Pets through a loop! Teenage Archie Andrews finally picks a girlfriend…to smash._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249522-robotchicken_805_dup-20151117.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249522-robotchicken_805_dup-20151117.jpg" height="144px" /></a>
+340533 Sealab 2021: 1  
+440990 Family Guy: 1  
+661208 Tim and Eric Awesome Show Great Job!: 1  
+### 613478
+**Sealab 2021 S04E11 - Moby Sick**  
+TV-14-LV 🔒 10:29  
+⌛ October 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/sealab-2021/moby-sick  
+seriesid=`340533` titleid=`613478` id=`6rF9b6MPQvqLcoGGqBZ8lQ` mediaid=`3756f18df5d4e457c9defd042895663447a5c1be`  
+_Sealab is visited by a cherished old friend: Abelard the Talking Whale.  Although he can't really talk; it's more like Quinn just makes him talk with a machine.  And he's not so much an old friend; he's just some whale that happens to be dying of whale cancer.  And a quick word about whale cancer: you don't want to catch it._  
+<a href="https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416915388-sealab_050.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416915388-sealab_050.jpg" height="144px" /></a>
+### 440999
+**Family Guy S02E10 - Running Mates**  
+TV-14-LS 🔒 22:29  
+⌛ October 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/running-mates  
+seriesid=`440990` titleid=`440999` id=`Ny7aIga5S1aJZ3XWrIzI6w` mediaid=`fb3c2d9d76aecd991d3ebb97b08bc6e77302e0fd`  
+_Lois and Peter face off against each other in a bitter run for the school board, culminating in Peter spreading lies and sexy pictures of Lois around town._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_52754.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_52754.jpg" height="144px" /></a>
+### 661591
+**Tim and Eric Awesome Show Great Job! S01E04 - Salame**  
+TV-14 🔒 11:26  
+⌛ October 27, 2020 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/salame  
+seriesid=`661208` titleid=`661591` id=`7slCiE23QlWVDyiABDZQAQ` mediaid=`0bcc7ad08f844ac2584aab88e046b2243a59c8cc`  
+_Tim and Eric give a seminar in how to build a successful sitcom writing career. Tim meets his wife. 
+(Al Yankovic, Bob Odenkirk guest star)_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_104_pt1-06.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_104_pt1-06.jpg" height="144px" /></a>
