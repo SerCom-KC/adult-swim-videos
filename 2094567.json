@@ -1092,6 +1092,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1606109340,
+        "tms_id": "",
+        "description": "Patient 84 visits Dream Corp LLC for hiccups and will never be the same again.",
+        "title_suggest": {
+            "input": [
+                "Monkey Man",
+                "Man"
+            ]
+        },
+        "title": "Monkey Man",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 841.7409,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1604295000,
+        "clip_order": null,
+        "airing_id": "RADS1010302000040044",
+        "media_id": "0fce348debf1c71c56168b446b98c3587b00cb07",
+        "modified": 1604147948,
+        "slug": "monkey-man",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/1_209171518328-DreamCorpLLC_302.jpg",
+        "created": 1600370317,
+        "season_number": "3",
+        "title_id": "2215440",
+        "tv_rating": "tv-14-lsv",
+        "published": 1604147948,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171518328-DreamCorpLLC_302.jpg",
+        "id": "AXSdgRioLyLQBOXK_POD",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Is reality ruining your life? Dream Corp LLC returns Sunday, October 25th at 12:30A ET/PT on Adult Swim.",
