@@ -753,6 +753,58 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Episode pitch from episode ten, \"Slave of the Scorpion,\" of Genndy Tartakovksy's Primal.",
+        "title_suggest": {
+            "input": [
+                "Episode Pitch: Slave of the Scorpion",
+                "Pitch: Slave of the Scorpion",
+                "Slave of the Scorpion",
+                "of the Scorpion",
+                "the Scorpion",
+                "Scorpion"
+            ]
+        },
+        "title": "Episode Pitch: Slave of the Scorpion",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1501.17,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "me1b68e9de628e82e7cccfd6e20890bc578a8fa3f7",
+        "modified": 1604075477,
+        "airing_id": "",
+        "slug": "episode-pitch-slave-of-the-scorpion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/1_1910181115268-Primal_ep110_pitch.jpg",
+        "created": 1571408096,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1604075477,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1604322000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191018/thumbnails/2_1910181115268-Primal_ep110_pitch.jpg",
+        "id": "AW3fOK581YiBSfg0KX1u",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1606105740,
         "tms_id": "",
         "description": "Spear and Fang are confronted by a far more developed human than they've ever encountered before.",
