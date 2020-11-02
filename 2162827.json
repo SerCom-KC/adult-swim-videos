@@ -1,5 +1,54 @@
 [
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP029602940001",
+        "description": "Tigtone is the saga of a quest-addicted hero who slashes his way across a satirical fantasy universe with melodramatic ferocity, always obeying the letter of the law but never its spirit.",
+        "title_suggest": {
+            "input": [
+                "Tigtone and the Pilot",
+                "and the Pilot",
+                "the Pilot",
+                "Pilot"
+            ]
+        },
+        "title": "Tigtone and the Pilot",
+        "expiration_date": 1607317140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 688.46,
+        "episode_number": "0",
+        "original_air_date": 1526270400,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "c7e96ac5a250eef467f2b1d50faa1920beb3f060",
+        "modified": 1604146027,
+        "airing_id": "RADS1010302000039984",
+        "slug": "tigtone-and-the-pilot",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154472179793018.jpg",
+        "created": 1544721878,
+        "season_number": "1",
+        "title_id": "2162828",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1604146027,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "modified_by": "ODT Listener",
+        "launch_date": 1604293200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154472179793018.jpg",
+        "id": "AWeomUxNAsbXwNj3wAga",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1549899000,
         "auth_expiration_date": 1603079940,
         "tms_id": "",
@@ -98,57 +147,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15475768347268.jpg",
         "id": "AWgQY0k7AScUIg8XxbiG",
         "auth": true
-    },
-    {
-        "ott_launch_date": 1547479800,
-        "auth_expiration_date": 1604293140,
-        "tms_id": "EP029602940002",
-        "description": "Tigtone quests alone, just the way he likes it--until a fellowship is forced upon him.",
-        "title_suggest": {
-            "input": [
-                "Tigtone and His Fellowship Of",
-                "and His Fellowship Of",
-                "His Fellowship Of",
-                "Fellowship Of",
-                "Of"
-            ]
-        },
-        "title": "Tigtone and His Fellowship Of",
-        "expiration_date": 1601265599,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 677,
-        "episode_number": "1",
-        "original_air_date": 1547442000,
-        "auth_launch_date": 1601265600,
-        "clip_order": null,
-        "media_id": "a54e64d9a60e5215ac253cd66d0d7ae45fb9083c",
-        "modified": 1602254264,
-        "airing_id": "RADS1009252000029352",
-        "slug": "tigtone-and-his-fellowship-of",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154722279297320.jpg",
-        "created": 1546462972,
-        "season_number": "1",
-        "title_id": "2171683",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1602254264,
-        "tags": [],
-        "collection_title": "Tigtone",
-        "modified_by": "ODT Listener",
-        "launch_date": 1549268100,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154722279297320.jpg",
-        "id": "AWgQYEklAScUIg8XxbiD",
-        "auth": false
     },
     {
         "ott_launch_date": 1547479800,
@@ -302,7 +300,7 @@
         "launch_date": 1601265600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843445502714.jpg",
         "id": "AWgQZLd4zQU7gEG1jvbJ",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1549294200,
@@ -926,7 +924,7 @@
         "launch_date": 1602475200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091850138-Tigtone_206_dup-20200717.jpg",
         "id": "AXRJuBgSSeFB2d0c38tv",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1603079940,
@@ -1218,6 +1216,6 @@
         "launch_date": 1602476100,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091184363-Tigtone_207_dup-20200424.jpg",
         "id": "AXRLs1kFSeFB2d0c38ue",
-        "auth": false
+        "auth": true
     }
 ]
