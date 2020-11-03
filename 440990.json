@@ -210,58 +210,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1604379540,
-        "tms_id": "EP002960010029",
-        "rating": 8.179583,
-        "description": "An over-zealous Lois loses a young piano student she chloroforms in order to force-train the girl to win the State Piano Competition, but then discovers that Peter, when inebriated, is a piano-playing genius.",
-        "title_suggest": {
-            "input": [
-                "Wasted Talent",
-                "Talent"
-            ]
-        },
-        "type": "episode",
-        "title": "Wasted Talent",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1349.9819,
-        "episode_number": "20",
-        "original_air_date": 1052364600,
-        "auth_launch_date": 1603771200,
-        "clip_order": null,
-        "modified": 1603419258,
-        "media_id": "9e2c39a90b528900a2729d111e856e5034499605",
-        "airing_id": "RADS1010222000037259",
-        "id": "cVvZMw2_R8eXBYM5Eb-5PA",
-        "slug": "wasted-talent",
-        "views": 616938,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152762054757110.jpg",
-        "created": 1402945465,
-        "title_id": "441026",
-        "season_number": "2",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1603419258,
-        "tags": [
-            "family guy episode 215 wasted talent lois peter piano drunk contest"
-        ],
-        "rating_count": 1097,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152762054757110.jpg",
-        "cma_id": "441026"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1604725140,
         "tms_id": "EP002960010031",
         "rating": 7.739171,
@@ -521,6 +469,59 @@
         "launch_date": 1500532200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15414477969167.jpg",
         "cma_id": "1436740"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1604984340,
+        "tms_id": "EP002960010038",
+        "rating": 5.810123,
+        "description": "Peter decides to pursue his dream career as a knight.",
+        "title_suggest": {
+            "input": [
+                "Mr. Saturday Knight",
+                "Saturday Knight",
+                "Knight"
+            ]
+        },
+        "type": "episode",
+        "title": "Mr. Saturday Knight",
+        "expiration_date": 1501223399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1350.716,
+        "episode_number": "9",
+        "original_air_date": 1053660600,
+        "clip_order": null,
+        "auth_launch_date": 1604379600,
+        "modified": 1604148886,
+        "media_id": "96999a501fb6870b6787b594d0385fc0b43ced7c",
+        "airing_id": "RADS1010302000040067",
+        "id": "vm20TAY2RSe8FIeM7ro9bw",
+        "slug": "mr-saturday-knight",
+        "views": 948860,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152778923116211.jpg",
+        "created": 1402945464,
+        "title_id": "441774",
+        "season_number": "3",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1604148886,
+        "tags": [
+            "family guy episode 304 mr saturday knight peter job renaissance faire medieval"
+        ],
+        "rating_count": 10328,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1500618600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152778923116211.jpg",
+        "cma_id": "1436824"
     },
     {
         "auth": true,
