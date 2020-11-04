@@ -147,6 +147,57 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151974646385420.jpg"
     },
     {
+        "ott_launch_date": 1520865060,
+        "auth": false,
+        "auth_expiration_date": 1603339140,
+        "tms_id": "EP018514630029",
+        "description": "At Tommy's first day of school, he must climb the social pyramid to get the girl he likes.",
+        "title_suggest": {
+            "input": [
+                "Tommy Goes to School",
+                "Goes to School",
+                "to School",
+                "School"
+            ]
+        },
+        "expiration_date": 1607489940,
+        "type": "episode",
+        "title": "Tommy Goes to School",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 678.42,
+        "episode_number": "6",
+        "original_air_date": 1520828100,
+        "auth_launch_date": 1600315200,
+        "clip_order": null,
+        "media_id": "04bfd9d20530350259764a06961a83be5f47928d",
+        "modified": 1604150760,
+        "airing_id": "RADS1010302000040111",
+        "id": "AWHX8xyj0KIGIdXCKwfk",
+        "slug": "tommy-goes-to-school",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151974648293117.jpg",
+        "created": 1519746489,
+        "season_number": "3",
+        "title_id": "2120612",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1604150760,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1604466000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151974648293117.jpg"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "",
@@ -383,7 +434,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1519659060,
         "auth_expiration_date": 1607489940,
         "tms_id": "EP018514630024",
