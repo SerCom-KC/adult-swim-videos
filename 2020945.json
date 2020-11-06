@@ -571,7 +571,7 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251634366-attackontitan_041_air_cid-3M7FJ.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1610686740,
         "tms_id": "EP019059960067",
@@ -1447,7 +1447,7 @@
         "auth": true
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1616731140,
         "tms_id": "EP019059960031",
@@ -2099,7 +2099,7 @@
         "cma_id": "1385201"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1610686740,
         "tms_id": "EP019059960059",
