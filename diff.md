@@ -2,264 +2,126 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 6, 2020 at 00:30:33 EST_
+_Last Update: November 7, 2020 at 00:30:26 EST_
 ## Video added
 ### Summary
 581006 American Dad: 3  
 2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
-2194549 Gemusetto: 11  
-### 2012717
-**American Dad S09E21 - A Boy Named Michael**  
-TV-14 🔒 21:32  
-⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/a-boy-named-michael  
-seriesid=`581006` titleid=`2012717` id=`nD8GXuxMS1i_2tY3lsuaeQ` mediaid=`cb882ae5aba602a125fc7436becfb91a1c858ced`  
-_Greg and Terry decide to adopt a ten-year-old Russian boy named Michael.  At a party celebrating the decision, Roger is jealous of Greg and Terry's fabulous lifestyle of culture and sophistication.  Roger rejects the Smith family as trashy and impersonates Michael, successfully integrating into his new home._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg" height="144px" /></a>
-### 2012721
-**American Dad S09E22 - Roger Passes the Bar**  
-TV-14 🔒 21:20  
-⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/roger-passes-the-bar  
-seriesid=`581006` titleid=`2012721` id=`AUUluKMZS6OJ2XYUmGbT3Q` mediaid=`b0bab8b5f91c35797409c652e52141d7e5da204d`  
-_Roger pushes himself to the breaking point by working non-stop at his dive bar.  When he suffers a heart attack, Roger decides to sell the bar to a company that promises to continue his vision.  Upon returning to visit, Roger sees that the dive bar has been completely remade as a family friendly restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg" height="144px" /></a>
-### 2012718
-**American Dad S09E20 - The Longest Distance Relationship**  
-TV-14 🔒 21:29  
-⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-longest-distance-relationship  
-seriesid=`581006` titleid=`2012718` id=`-_KxrHo3QzavOte0INnaOA` mediaid=`e143715f446287316857fb4ad3495be8d050972c`  
-_Hayley is injured in a fire and while she is in the hospital she meets Millionaire Matt Davis.  As Hayley and Matt fall in love, Steve discovers Jeff Fischer is still alive in outer space.  Jeff and Hayley communicate via an old CB radio and Jeff asks Hayley to stay true to him while he finds a way back to Earth._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg" height="144px" /></a>
-### 2065464
-**Bob's Burgers S05E15 - Adventures in Chinchilla-Sitting**  
-TV-PG-DLV 🔒 21:28  
-⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/adventures-in-chinchilla-sitting  
-seriesid=`2003422` titleid=`2065464` id=`EwK0rT-OR7-XEWIg3JcDsw` mediaid=`9ae3bd4895fe2026c5cc392a0880ce22fe6ec9fd`  
-_Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg" height="144px" /></a>
-### 2065463
-**Bob's Burgers S05E14 - Li'l Hard Dad**  
-TV-PG-DLV 🔒 21:32  
-⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/lil-hard-dad  
-seriesid=`2003422` titleid=`2065463` id=`ge6stmRQRkWvKjDZIsQ0aA` mediaid=`db29d2e9cf5df46bca0482bfd5ab84039895f9ea`  
-_Bob's obsessed with his automatic helicopter. When it falls apart, he demands a refund and disputes with the manufacturer. Gene assists Bob but things end up in a helicopter battle. Louise and Linda help Tina prepare for her oral book report._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/lil-hard-dad/bobsburgers_502_air_cid-30HPH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/lil-hard-dad/bobsburgers_502_air_cid-30HPH.jpg" height="144px" /></a>
-### 441778
-**Family Guy S03E13 - Screwed the Pooch**  
-TV-14-DL 🔒 22:26  
-⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/screwed-the-pooch  
-seriesid=`440990` titleid=`441778` id=`x6M19OShQEK4RpDKtzFdug` mediaid=`7c515271bf44156479148500a3434846ef2970bc`  
-_Brian gets an urge to have sex, and finally chases down the champion greyhound owned by Peter's rich and snooty father-in-law._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1352098681812510624.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1352098681812510624.jpg" height="144px" /></a>
-### 441779
-**Family Guy S03E12 - To Love and Die in Dixie**  
-TV-14-DL 🔒 22:27  
-⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/to-love-and-die-in-dixie  
-seriesid=`440990` titleid=`441779` id=`AzBwTIN7TzyZFzprUkRnRQ` mediaid=`017b5e9d25ce325d66061b20a9417b3006e94f51`  
-_The Griffins, forced into the witness protection program, move to a backwoods southern town._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152821448954917.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152821448954917.jpg" height="144px" /></a>
-### 2195924
-**Gemusetto S01E01 - Chapter 1A: Your Serve**  
-TV-MA-V 🔓 21:40  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-1-a-your-serve  
-seriesid=`2194549` titleid=`2195924` id=`AXWU-lk1LyLQBOXK_PZf` mediaid=`ea7922e26328b7d07f54431b5cca122a375eab38`  
-_Makasu arrives in South America and struggles with memories of his grandfather's mental decline before learning humility from his new mentor, the God of Tennis._  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114177363-gsmp_101A_dup-20190419.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114177363-gsmp_101A_dup-20190419.jpg" height="144px" /></a>
-### 2195925
-**Gemusetto S01E02 - Chapter 1B: Your Serve**  
-TV-MA 🔓 21:32  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-1-b-your-serve  
-seriesid=`2194549` titleid=`2195925` id=`AXWU-lZ7bxpjZvbXYlbw` mediaid=`84f4161585ca3163e3cfb1cfaceefc3f4ed440d2`  
-_Ekeko proves more challenging than anticipated as he conjures infinite rackets from his magical God-bags. Makasu must think fast in order to conjure up his own tennis tricks and win._  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114177548-gsmp_101B_dup-20190419.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114177548-gsmp_101B_dup-20190419.jpg" height="144px" /></a>
-### 2195926
-**Gemusetto S01E03 - Chapter 2A: Second Set**  
-TV-MA-LS 🔓 22:32  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-2-a-second-set  
-seriesid=`2194549` titleid=`2195926` id=`AXWU-lzQLyLQBOXK_PZg` mediaid=`e3d78f5742836b6db1a9e9549506b48571859425`  
-_On his way to the sea to challenge Mama Cocha, the water goddess, in tennis, Makasu is tricked by Interpol and is forced to deal with unlikely water beasts. Also, he holds hands with the God of Tennis and sings at one point._  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_2011417889-gsmp_102A_dup-20190422.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_2011417889-gsmp_102A_dup-20190422.jpg" height="144px" /></a>
-### 2195927
-**Gemusetto S01E04 - Chapter 2B: Second Set**  
-TV-MA-S 🔓 21:46  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-2-b-second-set  
-seriesid=`2194549` titleid=`2195927` id=`AXWU-lzwbxpjZvbXYlbz` mediaid=`dc646c9211f9dc60c37e2761a7417fa6d66351f3`  
-_Out-thinking Mama Cocha's water balls requires cool composure and time to himself in the break room, but Makasu defeats her and makes his way to the Llama deity, Urcuchillay._  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178235-gsmp_102B_dup-20190422.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178235-gsmp_102B_dup-20190422.jpg" height="144px" /></a>
-### 2195928
-**Gemusetto S01E05 - Chapter 3A: Back Spin**  
-TV-MA-LS 🔓 21:44  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-3-a-back-spin  
-seriesid=`2194549` titleid=`2195928` id=`AXWU-lqobxpjZvbXYlby` mediaid=`b3bf19f1e8a9e71188974c23d1830ae5b21ea9b9`  
-_In Ukhu Pacha, the Inca underworld, God of Death Supay lulls Makasu into a dream-like trance, forcing him to revisit visions of his time at Sports Academy High School known as the All Supotsu Academy for All Sports._  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178393-gsmp_103A_dup-20190425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178393-gsmp_103A_dup-20190425.jpg" height="144px" /></a>
-### 2195929
-**Gemusetto S01E06 - Chapter 3B: Back Spin**  
-TV-MA-LSV 🔓 22:18  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-3-b-back-spin  
-seriesid=`2194549` titleid=`2195929` id=`AXWU-lzwbxpjZvbXYlb0` mediaid=`a8be5e8576741f9abfbe2d702ac90a8cec908c79`  
-_Flooded by even more memories, it becomes clear Supay intends to incapacitate Makasu by reminding him of all the deaths he caused in High School. This is called "guilt."_  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178544-gsmp_103B_dup-20190425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178544-gsmp_103B_dup-20190425.jpg" height="144px" /></a>
-### 2195930
-**Gemusetto S01E07 - Chapter 4A: Break Point**  
-TV-MA 🔓 22:15  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-4-a-break-point  
-seriesid=`2194549` titleid=`2195930` id=`AXWU-l9ZLyLQBOXK_PZh` mediaid=`9029212b79b1001cbaba5429e703a16a6695abb3`  
-_The God of Tennis helps Makasu forget his guilt with the power of alcohol before they are ambushed by Kon, the wind god. The rest of this episode is a flashback to eight years ago in Serbia. What a great story!_  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114179101-gsmp_104A_dup-20190430.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114179101-gsmp_104A_dup-20190430.jpg" height="144px" /></a>
-### 2195931
-**Gemusetto S01E08 - Chapter 4B: Break Point**  
-TV-MA 🔓 22:32  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-4-b-break-point  
-seriesid=`2194549` titleid=`2195931` id=`AXWU-lTRbxpjZvbXYlbv` mediaid=`dc306293128d3f7b48a777d64af439b9161cf3c9`  
-_Will Kon and Catequil decimate our hero in surprise doubles tennis? Is merging into an ultra individual the only way to win?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114179242-gsmp_104B_dup-20190430.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114179242-gsmp_104B_dup-20190430.jpg" height="144px" /></a>
-### 2195932
-**Gemusetto S01E09 - Chapter 5A: Foot Fault**  
-TV-MA-LS 🔓 22:30  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-5-a-foot-fault  
-seriesid=`2194549` titleid=`2195932` id=`AXWU-l8ebxpjZvbXYlb1` mediaid=`22459d6335aeb17d2b2f5b1468ff862890d86057`  
-_Relaxing after a treacherous ultra-merge, Makasu revels in the warm springs of the heavenly Hanan Pacha. However, erotic ladies in the pools keep attempting to lull him into sports complacency._  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114179459-gsmp_105A_dup-20190502.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114179459-gsmp_105A_dup-20190502.jpg" height="144px" /></a>
-### 2195933
-**Gemusetto S01E10 - Chapter 5B: Foot Fault**  
-TV-MA-LS 🔓 21:52  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-5-b-foot-fault  
-seriesid=`2194549` titleid=`2195933` id=`AXWU-lmHbxpjZvbXYlbx` mediaid=`fe3287d79b42927c8ec36aad07643336d560fe22`  
-_Mama Killa, the moon goddess, has thrown aside all her tricky machinations and meat puppets to play tennis against Makasu. How does our hero succeed against her fetus tennis power techniques?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114171025-gsmp_105B_dup-20190506.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114171025-gsmp_105B_dup-20190506.jpg" height="144px" /></a>
-### 2195934
-**Gemusetto S01E11 - Chapter 6A: Match Point**  
-TV-14-DLSV 🔓 22:32  
-⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-6-a-match-point  
-seriesid=`2194549` titleid=`2195934` id=`AXWU-mBKbxpjZvbXYlb2` mediaid=`c015e9c060895ec94fcee8078ee2c15392259d7d`  
-_Delving deep into the core of Incan cosmos, the aging creator deity Viracocha creaks and crumbles as he lifts his gigantic racket to challenge Makasu. The journey is almost at its end- but at what cost?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114164292-thumb-2_image-155430457884516.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114164292-thumb-2_image-155430457884516.jpg" height="144px" /></a>
+### 2012722
+**American Dad S09E23 - Blagsnarst: A Love Story**  
+TV-14 🔒 21:30  
+⌛ November 13, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/blagsnarst-a-love-story  
+seriesid=`581006` titleid=`2012722` id=`pU_oLaCpQXme76yA_IlY_g` mediaid=`f5559d28732382f7fff03098fb9688e459b2e801`  
+_Roger has been acting incredibly needy and clingy with the family.  He senses something in the air that is affecting his behavior but he can't tell where its coming from.  Roger leads Francine to a forest where they find a crashed alien ship, with the alien still alive._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452564517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452564517.jpg" height="144px" /></a>
+### 2019416
+**American Dad S10E01 - Blonde Ambition**  
+TV-14 🔒 21:01  
+⌛ November 13, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/blonde-ambition  
+seriesid=`581006` titleid=`2019416` id=`bCTt_9u2RIqanyRvylNJqw` mediaid=`ae7c4429f9a90926ee5da04b81765976f6d55a16`  
+_When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg" height="144px" /></a>
+### 2019417
+**American Dad S10E02 - CIAPOW**  
+TV-14 🔒 21:02  
+⌛ November 13, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/ciapow  
+seriesid=`581006` titleid=`2019417` id=`J2yASXnmQXC3fGXJHQOU7g` mediaid=`6ecfc892cd6e3da64fdba07d16892dbf3d156ae0`  
+_When Bullock sends a drone to do the job Stan and his colleagues are supposed to do, Stan is determined to prove that humans are better than robots. Meanwhile, Francine and the rest of the family participate in a slow motion race in the living room._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg" height="144px" /></a>
+### 2065466
+**Bob's Burgers S05E17 - The Itty Bitty Ditty Committee**  
+TV-PG-DL 🔒 21:45  
+⌛ November 13, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-itty-bitty-ditty-committee  
+seriesid=`2003422` titleid=`2065466` id=`cvWRUxG3TDyBf5UQFtOu3g` mediaid=`155fb6364e8d0a4a64ccdbeb8e95412c64e24de1`  
+_Gene starts a band only to be kicked out and left on his own. After declaring that he will never play again, Tina and Louise join forces to help Gene rediscover his love of music. Linda deals with a armpit rash that has everyone disgusted!_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-itty-bitty-ditty-committee/bobsburgers_505_air_cid-2N879.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-itty-bitty-ditty-committee/bobsburgers_505_air_cid-2N879.jpg" height="144px" /></a>
+### 2065465
+**Bob's Burgers S05E16 - The Runway Club**  
+TV-PG-DLV 🔒 21:40  
+⌛ November 13, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-runway-club  
+seriesid=`2003422` titleid=`2065465` id=`6b8hbbQgTGKR3yP41SgI8Q` mediaid=`66fa3fa490770723921e3a0fc6fa1dc41a0d6cf9`  
+_The kids are sentenced to Saturday detention and will do anything it takes to leave early so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe that they are being scammed by a young girl at the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-runway-club/bobsburgers_504_air_cid-2NTF5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-runway-club/bobsburgers_504_air_cid-2NTF5.jpg" height="144px" /></a>
+### 441776
+**Family Guy S03E14 - Peter Griffin: Husband, Father, Brother?**  
+TV-14-D 🔒 22:29  
+⌛ November 13, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/peter-griffin-husband-father-brother  
+seriesid=`440990` titleid=`441776` id=`ajh4VAvZSg6TcVg3AL0zRw` mediaid=`772a03dc4310724c125ae84d6f23c376bd9d68ec`  
+_Peter discovers he has a black ancestor; Stewie tries to learn cheerleaders' power to entrance._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152830179542311.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152830179542311.jpg" height="144px" /></a>
+### 441777
+**Family Guy S03E15 - Ready, Willing, and Disabled**  
+TV-14-DV 🔒 22:26  
+⌛ November 13, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/ready-willing-and-disabled  
+seriesid=`440990` titleid=`441777` id=`U4JmlJJ-Sey3EQPLu9ykrQ` mediaid=`15843df52e7688901db9c3f8a4cc56e5746cfa4d`  
+_After Joe fails to make an arrest because of his physical limitations, Peter helps him rebuild his self-esteem by talking him into entering the decathlon at the "Special People's Games."_  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_3723.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_3723.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
-2194549 Gemusetto Machu Picchu: 6  
 440990 Family Guy: 2  
 581006 American Dad: 3  
-### 2065455
-**Bob's Burgers S05E04 - Dawn of the Peck**  
-TV-PG-DLV 🔒 21:30  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/dawn-of-the-peck  
-seriesid=`2003422` titleid=`2065455` id=`SmjARULQRayI7fqg43Kw5g` mediaid=`6593b29f3c92e638760bc4c876a5f9e78006e018`  
-_While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the first annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg" height="144px" /></a>
-### 2065451
-**Bob's Burgers S05E05 - Best Burger**  
-TV-PG-DL 🔒 21:09  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/best-burger  
-seriesid=`2003422` titleid=`2065451` id=`_PuADVu2STOhYxozFF8yUA` mediaid=`62878783d9119b40cadc7d0f34a263d2f48b5379`  
-_Bob enters a burger-tasting contest, only to discover that his most distinguishing ingredient is missing! To help out their dad, the kids go on a mission to find the ever-so-important black garlic._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/best-burger/bobsburgers_412_air_cid-2KRKV.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/best-burger/bobsburgers_412_air_cid-2KRKV.jpg" height="144px" /></a>
-### 2194550
-**Gemusetto Machu Picchu S01E01 - Chapter 1: Your Serve**  
-TV-MA-V 🔓 44:24  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-1-your-serve  
-seriesid=`2194549` titleid=`2194550` id=`AWnjwHpOAScUIg8Xxef3`  
-_Makasu arrives in South America and struggles with memories of his grandfather's mental decline before learning humility from his new mentor, the God of Tennis._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430419278414.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430419278414.jpg" height="144px" /></a>
-### 2194551
-**Gemusetto Machu Picchu S01E02 - Chapter 2: Second Set**  
-TV-MA-LS 🔓 44:05  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-2-second-set  
-seriesid=`2194549` titleid=`2194551` id=`AWnjwStjAScUIg8Xxef4`  
-_On his way to the sea to challenge Mama Cocha, the water goddess, in tennis, Makasu is tricked by Interpol and is forced to deal with unlikely water beasts. Also, he holds hands with the God of Tennis and sings at one point._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430425748219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430425748219.jpg" height="144px" /></a>
-### 2194552
-**Gemusetto Machu Picchu S01E03 - Chapter 3: Back Spin**  
-TV-MA-LSV 🔓 43:56  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-3-back-spin  
-seriesid=`2194549` titleid=`2194552` id=`AWnjxBBtAScUIg8Xxef5`  
-_In Ukhu Pacha, the Inca underworld, God of Death Supay lulls Makasu into a dream-like trance, forcing him to revisit visions of his time at Sports Academy High School known as the All Supotsu Academy for All Sports._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155431049015619.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155431049015619.jpg" height="144px" /></a>
-### 2194553
-**Gemusetto Machu Picchu S01E04 - Chapter 4: Break Point**  
-TV-MA 🔓 46:36  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-4-break-point  
-seriesid=`2194549` titleid=`2194553` id=`AWnjxJ7BHl5gR6828zEt`  
-_The God of Tennis helps Makasu forget his guilt with the power of alcohol before they are ambushed by Kon and Catequil who decimate our hero in surprise doubles tennis. Is there a way around a surprise doubles tennis?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430448852520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430448852520.jpg" height="144px" /></a>
-### 2194554
-**Gemusetto Machu Picchu S01E05 - Chapter 5: Foot Fault**  
-TV-MA-LS 🔓 44:47  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-5-foot-fault  
-seriesid=`2194549` titleid=`2194554` id=`AWnjxUOpAScUIg8Xxef6`  
-_Relaxing after a treacherous ultra-merge, Makasu revels in the warm springs of the heavenly Hanan Pacha. However, erotic ladies in the pools keep attempting to lull him into sports complacency._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15543045257237.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15543045257237.jpg" height="144px" /></a>
-### 2194555
-**Gemusetto Machu Picchu S01E06 - Chapter 6: Match Point**  
-TV-14-DLSV 🔓 33:05  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-6-match-point  
-seriesid=`2194549` titleid=`2194555` id=`AWnjxk1EAScUIg8Xxef8`  
-_Delving deep into the core of Incan cosmos, the aging creator deity Viracocha creaks and crumbles as he lifts his gigantic racket to challenge Makasu. The journey is almost at its end, but at what cost?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430457884516.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430457884516.jpg" height="144px" /></a>
-### 441040
-**Family Guy S03E02 - Brian Does Hollywood**  
-TV-14-DS 🔓 22:31  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/brian-does-hollywood  
-seriesid=`440990` titleid=`441040` id=`P7dtuN4-QfKZQK9eFlDwVQ` mediaid=`63ef2237cf25cd20680948bf254997468fa0be4f`  
-_Brian moves to Los Angeles to make it as a writer but instead ends up directing pornographic films._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152769188151518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152769188151518.jpg" height="144px" /></a>
-### 441033
-**Family Guy S03E03 - Mr. Griffin Goes to Washington**  
-TV-14-L 🔓 22:31  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/mr-griffin-goes-to-washington  
-seriesid=`440990` titleid=`441033` id=`mhqwTComSBeh8OxZwvtG4w` mediaid=`0cc54820125f9b68c58138273b578c68a406feb9`  
-_When Happy-Go-Lucky Toys is purchased by a tobacco conglomerate, Peter becomes a Washington lobbyist... and his Congressional testimony causes the company to suffer a huge fine._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_23964.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_23964.jpg" height="144px" /></a>
-### 2007873
-**American Dad S09E02 - Poltergasm**  
+### 2065457
+**Bob's Burgers S05E06 - Father of the Bob**  
+TV-PG-DL 🔓 21:40  
+⌛ November 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/father-of-the-bob  
+seriesid=`2003422` titleid=`2065457` id=`2fdFjJsaSXygZtPs-pfBqg` mediaid=`681ca032a7df40b43a645f0c9a4ff96ad1a3df60`  
+_At Bob's father's Christmas party, Bob and "Big Bob" rehash an old argument and try to outdo each other in the kitchen. Meanwhile, the kids compete to find the best gift for their dad._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/father-of-the-bob/bobsburgers_418_air_cid-2PH4J.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/father-of-the-bob/bobsburgers_418_air_cid-2PH4J.jpg" height="144px" /></a>
+### 2065454
+**Bob's Burgers S05E07 - Tina Tailor Soldier Spy**  
+TV-PG-DL 🔓 21:43  
+⌛ November 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/tina-tailor-soldier-spy  
+seriesid=`2003422` titleid=`2065454` id=`nmcdZVZUR8iGAUPGiABYIQ` mediaid=`65908625d24382510d50ce1b9f85f1b24162b774`  
+_Tina goes undercover to find the mole who is giving away their cookie secrets. Tired of the kids counting her gray hairs, Linda goes blonde. When she starts making dumb mistakes at work, Bob worries being blonde has gone to her head!_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg" height="144px" /></a>
+### 441025
+**Family Guy S03E04 - One If By Clam, Two If By Sea**  
+TV-14-DL 🔓 22:28  
+⌛ November 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/one-if-by-clam-two-if-by-sea  
+seriesid=`440990` titleid=`441025` id=`dQVtx9leRoqFmWoUbQMcEA` mediaid=`46452d571c313e3f75b262c34660bb5adfef93ad`  
+_After the Drunken Clam is destroyed by fire, Peter and friends are framed as the arsonists; Stewie plays Henry Higgins to his new neighbor Eliza._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277785269017.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277785269017.jpg" height="144px" /></a>
+### 441030
+**Family Guy S03E05 - And the Wiener is...**  
+TV-14-DV 🔓 21:05  
+⌛ November 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/and-the-wiener-is  
+seriesid=`440990` titleid=`441030` id=`wJkv475KR2GiwIOOb6YDbQ` mediaid=`050a0b0f1f8e00232a9fd2682c9c5686839dad4a`  
+_Chris teaches Peter the true meaning of penis envy; after suffering outrageous humiliations, Meg gets revenge on the popular crowd._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154144774451414.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154144774451414.jpg" height="144px" /></a>
+### 2007878
+**American Dad S09E05 - Kung Pao Turkey**  
+TV-14-DLSV 🔓 21:20  
+⌛ November 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/kung-pao-turkey  
+seriesid=`581006` titleid=`2007878` id=`AWHoN9My0KIGIdXCKz4t` mediaid=`5fe37e7111fe0e96edc326bdc3d0a010f241e38c`  
+_Stan's plan for a perfect Thanksgiving watching football in his underwear is thwarted when Francine invites her parents to join them. Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg" height="144px" /></a>
+### 2007875
+**American Dad S09E06 - Independent Movie**  
+TV-14 🔓 21:28  
+⌛ November 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/independent-movie  
+seriesid=`581006` titleid=`2007875` id=`buqUCWG2T2eDk9HkT-DMtA` mediaid=`efd81d52d37ec3a7bf41c6c94ebdaf3c9d3d4924`  
+_Snot's father dies but Snot refuses to go to the funeral.  Steve convinces Snot to take a road trip across the country to attend.  Along the way the boys experience life as an independent movie, complete with strange characters and moments of raw emotion._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg" height="144px" /></a>
+### 2007879
+**American Dad S09E07 - Faking Bad**  
 TV-14 🔓 21:31  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/poltergasm  
-seriesid=`581006` titleid=`2007873` id=`4fnvjYccTd6P8UAEgv1dDg` mediaid=`5a5b869ca11d32906df4ae127677bf798c0ba92c`  
-_Steve and Roger discover that the house is haunted.  The ghost appears as an apparition of a younger Francine.  The ghost grows more powerful until it attacks Hayley's boyfriend and pulls him into the netherworld._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199408743869.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199408743869.jpg" height="144px" /></a>
-### 2007874
-**American Dad S09E04 - Crotchwalkers**  
-TV-14 🔓 21:31  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/crotchwalkers  
-seriesid=`581006` titleid=`2007874` id=`_6oDiwwbSUiwXn4oZ8Y1sw` mediaid=`32eaefcf4d362663efcbf89e5732c350a7d67fb5`  
-_In a desperate attempt to show Steve that she's still a "cool" mom, Francine teaches him a vast array of shoplifting techniques to try out at the local mall. When their attempt to pull off the ultimate heist at "The Gash" goes awry, Steve is captured and sent to a Venezuelan sweatshop. Meanwhile, Roger, Hayley and Klaus form Langley Falls' first Russian Balalaika trio._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg" height="144px" /></a>
-### 2007876
-**American Dad S09E03 - Buck, Wild**  
-TV-14 🔓 21:31  
-⌛ November 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/buck-wild  
-seriesid=`581006` titleid=`2007876` id=`izJAMWIQQ2KgLwdWzDy-iA` mediaid=`37e6f935c909274c8c7529d36edd850a4297e4cb`  
-_Steve is eager to prove that he's no longer a little boy, so he sets off to prove his manhood by joining Stan, Bullock, and the rest of the CIA on their annual hunting trip. Meanwhile, Roger and Klaus set off on a cross-country road trip._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078378984.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078378984.jpg" height="144px" /></a>
+⌛ November 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/faking-bad  
+seriesid=`581006` titleid=`2007879` id=`faIr12CSQ-GFMxkjMoX9hg` mediaid=`1262714f3a43bc9e9c62fcf1ac907f8f93d6b687`  
+_When Hayley tries to go clubbing with her old friends she is turned away at the door because she doesn't have proper ID.  Hayley convinces Steve to make a fake ID for her.  The fake ID is so good that Hayley and Steve go into business together as counterfeiters._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg" height="144px" /></a>
