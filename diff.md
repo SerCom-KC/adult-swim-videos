@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 8, 2020 at 05:00:44 EST_
+_Last Update: November 8, 2020 at 06:30:35 EST_
 ## Video added
 ### Summary
-2238413 Assassination Classroom: 1  
-### 2238423
-**Assassination Classroom S01E10 - L and R Time**  
-TV-14-DL 🔒 21:20  
-⌛ November 29, 2020 at 04:59:00 EST  
-https://www.adultswim.com/videos/assassination-classroom/l-and-r-time  
-seriesid=`2238413` titleid=`2238423` id=`AXWJic6lLyLQBOXK_PYT` mediaid=`5771dedbc2822609b06c2e9f0e2f3fd169fb1a15`  
-_Prof. Jelavich is forced to prove her assassin chops when her mentor pays a visit. Koro Sensei takes Nagisa and Karma on a trip they'll never forget._  
-<a href="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131729203-AssassinationClass_110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131729203-AssassinationClass_110.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177746
+**Naruto: Shippuden S06E34 - Shino vs. Torune**  
+TV-PG 🔒 21:51  
+⌛ February 21, 2021 at 05:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/shino-vs-torune  
+seriesid=`812206` titleid=`2177746` id=`AXSM5GrRLyLQBOXK_PNp` mediaid=`18de9e36d9a3093967eb91c0bfa17649971ad717`  
+_Reunited with his old friend and fellow Aburame Clan member, Shino is forced to take on Torune's Venomous Beetles alone._  
+<a href="https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914953315-narutoshippuden_317_ShinovsTorune.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914953315-narutoshippuden_317_ShinovsTorune.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
