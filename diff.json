@@ -1,114 +1,55 @@
 {
-    "updated": 1604812225,
-    "added": [],
-    "removed": [
+    "updated": 1604818836,
+    "added": [
         {
             "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "This time, it's not about tennis. Gemusetto: Death Beat(s) premieres Saturday, November 7 at 1AM ET/PT",
+            "tms_id": "EP031962300020",
+            "description": "All-sinner and sportsman Makasu has recently died, but his death is causing the afterlives to converge and the universe is collapsing! Can the finger being Dr. Legs convince Makasu to be friend his Piano Frog and save existence?",
             "title_suggest": {
                 "input": [
-                    "Gemusetto: Death Beat(s) Tease",
-                    "Death Beat(s) Tease",
-                    "Beat(s) Tease",
-                    "Tease"
+                    "Episode One: Asus4",
+                    "One: Asus4",
+                    "Asus4"
                 ]
             },
-            "title": "Gemusetto: Death Beat(s) Tease",
-            "expiration_date": 1604811600,
-            "type": "clip",
+            "title": "Episode One: Asus4",
+            "type": "episode",
+            "expiration_date": 1607835540,
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "online-exclusive",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
             "collection_id": "AWnYBNDcHl5gR6828zAp",
-            "duration": 0,
-            "original_air_date": null,
+            "duration": 676.1421,
+            "episode_number": "1",
+            "original_air_date": 1604818800,
             "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "",
-            "media_id": "me729b1c0f5ffc058205c3af1fb69dbbdab0da44bb",
-            "modified": 1602089775,
-            "slug": "gemusetto-death-beat-s-tease",
+            "airing_id": "RADS1011042000041710",
+            "media_id": "def3257a369fa572eddfcc0be1bab7cd08f946e9",
+            "modified": 1604719289,
+            "slug": "episode-one-asus-4",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201007/thumbnails/1_20107124657-promo_Gemusetto_GameSet2_teaser.jpg",
-            "created": 1602017802,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1602089775,
-            "tags": [
-                "gemusetto machu piccu",
-                "death beats",
-                "season 2",
-                "max simonet",
-                "bloodfeast",
-                "preview",
-                "adult swim"
-            ],
-            "collection_title": "Gemusetto Machu Picchu",
-            "disable_ads": false,
-            "modified_by": "Jonas Eason",
-            "launch_date": 1602086400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201007/thumbnails/2_20107124657-promo_Gemusetto_GameSet2_teaser.jpg",
-            "id": "AXT_s7edSeFB2d0c39Mr",
-            "auth": false,
-            "collection_slug": "gemusetto",
-            "collection_title_id": "2194549",
-            "online_exclusives": true
-        },
-        {
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Looks like Makasu has gotten into trouble - again. Get ready for the second season of Gemusetto: Death Beat(s), premiering November 7th at 2A!",
-            "title_suggest": {
-                "input": [
-                    "Gemusetto Death Beat(s) Trailer",
-                    "Death Beat(s) Trailer",
-                    "Beat(s) Trailer",
-                    "Trailer"
-                ]
-            },
-            "title": "Gemusetto Death Beat(s) Trailer",
-            "expiration_date": 1604811600,
-            "type": "clip",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "online-exclusive",
-                "roku"
-            ],
-            "collection_id": "AWnYBNDcHl5gR6828zAp",
-            "duration": 0,
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "airing_id": "",
-            "media_id": "me6bd859a1b41020150914eeef21c433167b46e121",
-            "modified": 1603718590,
-            "slug": "gemusetto-death-beat-s-trailer",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201024/thumbnails/1_201024852353-promo_GemusettoDeathBeats_Trailer_Dated_60.jpg",
-            "created": 1603543297,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1603718590,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201106/thumbnails/1_20116222172-GSMP_201_102120-20201023.jpg",
+            "created": 1604531085,
+            "title_id": "2241826",
+            "season_number": "2",
+            "tv_rating": "tv-ma-l",
+            "published": 1604719289,
             "tags": [],
             "collection_title": "Gemusetto",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
-            "launch_date": 1603713600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201024/thumbnails/2_201024852353-promo_GemusettoDeathBeats_Trailer_Dated_60.jpg",
-            "id": "AXVaoO-NLyLQBOXK_PTe",
+            "modified_by": "Duke Nguyen",
+            "launch_date": 1604818800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_20116222172-GSMP_201_102120-20201023.jpg",
+            "id": "AXWVgWJXLyLQBOXK_PZv",
             "auth": false,
             "collection_slug": "gemusetto",
             "collection_title_id": "2194549",
-            "online_exclusives": true
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
