@@ -408,5 +408,52 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20201020/thumbnails/2_2010201234521-AssasinationClass_109.jpg",
         "id": "AXVG3RMvLyLQBOXK_PQP",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1606643940,
+        "tms_id": "EP035989030010",
+        "description": "Prof. Jelavich is forced to prove her assassin chops when her mentor pays a visit. Koro Sensei takes Nagisa and Karma on a trip they'll never forget.",
+        "title_suggest": {
+            "input": [
+                "L and R Time",
+                "and R Time",
+                "R Time",
+                "Time"
+            ]
+        },
+        "title": "L and R Time",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1280.279,
+        "episode_number": "10",
+        "original_air_date": 1604817000,
+        "auth_launch_date": 1604829600,
+        "clip_order": null,
+        "airing_id": "RADS1011022000040347",
+        "media_id": "5771dedbc2822609b06c2e9f0e2f3fd169fb1a15",
+        "modified": 1604725160,
+        "slug": "l-and-r-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/1_201131729203-AssassinationClass_110.jpg",
+        "created": 1604330311,
+        "title_id": "2238423",
+        "season_number": "1",
+        "tv_rating": "tv-14-dl",
+        "published": 1604725160,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131729203-AssassinationClass_110.jpg",
+        "id": "AXWJic6lLyLQBOXK_PYT",
+        "auth": true
     }
 ]
