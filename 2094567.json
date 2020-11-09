@@ -1232,6 +1232,97 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1606714140,
+        "tms_id": "",
+        "description": "Patient 27 is treated for his crippling fear of heights. T.E.R.R.Y. becomes enlightened.",
+        "title_suggest": {
+            "input": [
+                "Fear of Heights",
+                "of Heights",
+                "Heights"
+            ]
+        },
+        "title": "Fear of Heights",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 1067.8001,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1604899800,
+        "clip_order": null,
+        "airing_id": "RADS1011042000041784",
+        "media_id": "cdae8877c0c4b8f6ed08979a1b7b92d39ea04008",
+        "modified": 1604577425,
+        "slug": "fear-of-heights",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/1_20917152073-DreamCorpLLC_304.jpg",
+        "created": 1600370413,
+        "season_number": "3",
+        "title_id": "2215442",
+        "tv_rating": "tv-14-dlv",
+        "published": 1604577425,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_20917152073-DreamCorpLLC_304.jpg",
+        "id": "AXSdgpCGSeFB2d0c388R",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1606715340,
+        "tms_id": "",
+        "description": "Medical phenomenon, Virgil Bottoms, bullies his way into an appointment at Dream Corp LLC.",
+        "title_suggest": {
+            "input": [
+                "Virgil Bottoms",
+                "Bottoms"
+            ]
+        },
+        "title": "Virgil Bottoms",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 799.0983,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1604901000,
+        "clip_order": null,
+        "airing_id": "RADS1011042000041773",
+        "media_id": "6770b7ecc4437a9f47d06b5901c38ba72989c9cd",
+        "modified": 1604575474,
+        "slug": "virgil-bottoms",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/1_209171520320-DreamCorpLLC_305.jpg",
+        "created": 1600370435,
+        "season_number": "3",
+        "title_id": "2215443",
+        "tv_rating": "tv-14-dl",
+        "published": 1604575474,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171520320-DreamCorpLLC_305.jpg",
+        "id": "AXSdguVMSeFB2d0c388S",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Is reality ruining your life? Dream Corp LLC returns Sunday, October 25th at 12:30A ET/PT on Adult Swim.",
