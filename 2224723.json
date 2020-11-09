@@ -136,53 +136,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1604897940,
-        "tms_id": "EP034814970007",
-        "description": "After one too many drinks, Rachel stumbles into the bush to take a leak against a tree, where she unwittingly falls through a portal into the Bushworld dimension. Sarah waits for her patiently, but hours turn into months turn into years.",
-        "title_suggest": {
-            "input": [
-                "Enter Bushworld Part One",
-                "Bushworld Part One",
-                "Part One",
-                "One"
-            ]
-        },
-        "title": "Enter Bushworld Part One",
-        "expiration_date": 1603079940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AXNJnfSIC8QgH-t19J8N",
-        "duration": 669.8692,
-        "episode_number": "7",
-        "original_air_date": "1598846400",
-        "auth_launch_date": 1603080000,
-        "clip_order": null,
-        "airing_id": "RADS1010172000036394",
-        "media_id": "e11c55baa0a3bf63a0731116e2b9ffa63fc09ca0",
-        "modified": 1604566551,
-        "slug": "enter-bushworld-part-one",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200826/thumbnails/1_2082692383-YOLO_106_dup-20200820.jpg",
-        "created": 1598448256,
-        "season_number": "1",
-        "title_id": "2224729",
-        "tv_rating": "tv-14-ls",
-        "published": 1604566551,
-        "tags": [],
-        "collection_title": "YOLO Crystal Fantasy",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1600660800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200826/thumbnails/2_2082692383-YOLO_106_dup-20200820.jpg",
-        "id": "AXQq8MRjLyLQBOXK_PMK",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1605502740,
         "tms_id": "EP034814970008",
         "description": "When Sarah's husband dies suddenly, she tackles her grief by losing herself in pottery. It gives her a new purpose, and yet she is plagued by persistent calls claiming to be from her long missing friend Rachel.",
@@ -273,6 +226,42 @@
         "launch_date": 1601265600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_209111619464-2_207211030518-YOLO_001_dup-20200326.jpg",
         "id": "AXR-UL0sLyLQBOXK_PNo",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1606712340,
+        "created": 1600451694,
+        "tms_id": "EP034814970002",
+        "title_id": "2224725",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "description": "Rachel and Sarah head to the outback town of Goondawindi for the annual Dusty Truck 'n' Donut Muster, lured by the chance to win a meat tray and a glimpse of Trent, the star of TV's 'Outback Trent'.",
+        "title_suggest": {
+            "input": [
+                "The Dusty Truck 'n' Donut Muster",
+                "Dusty Truck 'n' Donut Muster",
+                "Truck 'n' Donut Muster",
+                "'n' Donut Muster",
+                "Donut Muster",
+                "Muster"
+            ]
+        },
+        "published": 1604568083,
+        "title": "The Dusty Truck 'n' Donut Muster",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AXNJnfSIC8QgH-t19J8N",
+        "duration": 669.3353,
+        "episode_number": "2",
+        "collection_title": "YOLO Crystal Fantasy",
+        "original_air_date": 1597032900,
+        "auth_launch_date": 1604898000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1011042000041719",
+        "media_id": "1e9fd0f84cd52731a7dea8f2c70bb4c390e89284",
+        "modified": 1604568083,
+        "slug": "the-dusty-truck-n-donut-muster",
+        "id": "AXSiWtBmLyLQBOXK_POP",
         "auth": true
     }
 ]
