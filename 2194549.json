@@ -373,8 +373,8 @@
         "auth_launch_date": null,
         "clip_order": null,
         "airing_id": "RADS1011042000041710",
-        "media_id": "def3257a369fa572eddfcc0be1bab7cd08f946e9",
-        "modified": 1604719289,
+        "media_id": "me822cda49981a6a55153106a4f2570a2437739b78",
+        "modified": 1605022583,
         "slug": "episode-one-asus-4",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20201106/thumbnails/1_20116222172-GSMP_201_102120-20201023.jpg",
@@ -382,8 +382,10 @@
         "title_id": "2241826",
         "season_number": "2",
         "tv_rating": "tv-ma-l",
-        "published": 1604719289,
-        "tags": [],
+        "published": 1605022583,
+        "tags": [
+            "def3257a369fa572eddfcc0be1bab7cd08f946e9"
+        ],
         "collection_title": "Gemusetto",
         "disable_ads": false,
         "modified_by": "Duke Nguyen",
