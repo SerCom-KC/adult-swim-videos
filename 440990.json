@@ -409,6 +409,57 @@
         "cma_id": "1439937"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1605675540,
+        "tms_id": "EP002960010049",
+        "rating": 7.903526,
+        "description": "Stewie goes to England to take refuge in his favorite television show, while Lois embarrasses Peter at a KISS concert.",
+        "title_suggest": {
+            "input": [
+                "Road to Europe",
+                "to Europe",
+                "Europe"
+            ]
+        },
+        "type": "episode",
+        "title": "Road to Europe",
+        "expiration_date": 1488614399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1338.3704,
+        "episode_number": "20",
+        "original_air_date": 1055215800,
+        "auth_launch_date": 1605070800,
+        "clip_order": null,
+        "modified": 1604646998,
+        "media_id": "965997e68fac3e26441c42648bb1833509d878eb",
+        "airing_id": "RADS1011042000041833",
+        "id": "qigg4j0qSMKKkqT-8yJiBw",
+        "slug": "road-to-europe",
+        "views": 253704,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152848105106110.jpg",
+        "created": 1402945465,
+        "title_id": "441783",
+        "season_number": "3",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1604646998,
+        "tags": [],
+        "rating_count": 850,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1488009600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848105106110.jpg",
+        "cma_id": "1350120"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1600574340,
@@ -563,61 +614,6 @@
         "launch_date": 1604898000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/peternormal-activity/familyguy_1216_air_cid-2XX7M.jpg",
         "cma_id": "809300"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1605070740,
-        "tms_id": "EP002960010039",
-        "rating": 6.7626886,
-        "description": "Peter becomes a commercial fisherman and almost kills a popular myth; Lois teaches Meg how to let loose at Spring Break.",
-        "title_suggest": {
-            "input": [
-                "A Fish Out of Water",
-                "Fish Out of Water",
-                "Out of Water",
-                "of Water",
-                "Water"
-            ]
-        },
-        "type": "episode",
-        "title": "A Fish Out of Water",
-        "expiration_date": 1501225199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1351.8505,
-        "episode_number": "10",
-        "original_air_date": 1054006200,
-        "auth_launch_date": 1604466000,
-        "clip_order": null,
-        "modified": 1604150761,
-        "media_id": "4e6d47aa2a390b737512ee6a91287bca62a0a2c9",
-        "airing_id": "RADS1010302000040113",
-        "id": "wI0FSG_BSpeJ65BgNY2n9Q",
-        "slug": "a-fish-out-of-water",
-        "views": 433689,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152778939272717.jpg",
-        "created": 1402945465,
-        "title_id": "441775",
-        "season_number": "3",
-        "tv_rating": "tv-14-d",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1604150761,
-        "tags": [
-            "family guy episode 305 fish out of water peter fisherman myth lois meg spring break"
-        ],
-        "rating_count": 729,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1500620400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152778939272717.jpg",
-        "cma_id": "1436782"
     },
     {
         "auth": true,
