@@ -54,56 +54,6 @@
         "cma_id": "1437160"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1605157140,
-        "tms_id": "EP002960010040",
-        "rating": 5.845877,
-        "description": "When Peter and Lois decide to have another baby, Stewie does whatever he can to prevent conception.",
-        "title_suggest": {
-            "input": [
-                "Emission Impossible",
-                "Impossible"
-            ]
-        },
-        "type": "episode",
-        "title": "Emission Impossible",
-        "expiration_date": 1501309799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1349.5148,
-        "episode_number": "11",
-        "original_air_date": 1053401400,
-        "clip_order": null,
-        "auth_launch_date": 1604552400,
-        "modified": 1604200166,
-        "media_id": "0a1331da3919744fc3c65f0ae04d1b3ba2b56d87",
-        "airing_id": "RADS1010302000040143",
-        "id": "E_6VQQdETsOk7x5h36XOCw",
-        "slug": "emission-impossible",
-        "views": 682265,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15277892832398.jpg",
-        "created": 1402945465,
-        "title_id": "441771",
-        "season_number": "3",
-        "tv_rating": "tv-14-d",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1604200166,
-        "tags": [],
-        "rating_count": 3919,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1500705000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277892832398.jpg",
-        "cma_id": "1437076"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1605416340,
@@ -359,6 +309,61 @@
         "launch_date": 1436596200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152847588218915.jpg",
         "cma_id": "1094661"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1605761940,
+        "tms_id": "EP002960010048",
+        "rating": 7.5584855,
+        "description": "Viewer mail inspires three stories in which Peter loses his bones, the Griffins gain superpowers, and Peter and his friends appear as eight-year-old \"Little Rascals.\"",
+        "title_suggest": {
+            "input": [
+                "Family Guy Viewer Mail #1",
+                "Guy Viewer Mail #1",
+                "Viewer Mail #1",
+                "Mail #1",
+                "#1"
+            ]
+        },
+        "type": "episode",
+        "title": "Family Guy Viewer Mail #1",
+        "expiration_date": 1501828199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1349.6817,
+        "episode_number": "21",
+        "original_air_date": 1054870200,
+        "auth_launch_date": 1605157200,
+        "clip_order": null,
+        "modified": 1604732839,
+        "media_id": "4d60fee3cf30fb00187df5d352e897d52538cc71",
+        "airing_id": "RADS1011042000041864",
+        "id": "lgTcjuUxTnWTps626ovzlw",
+        "slug": "family-guy-viewer-mail-1",
+        "views": 442357,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15284759542674.jpg",
+        "created": 1402945464,
+        "title_id": "441782",
+        "season_number": "3",
+        "tv_rating": "tv-14-d",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1604732839,
+        "tags": [
+            "family guy episode 312 family guy viewer mail supergriffins super powers bones wishes lil rascals"
+        ],
+        "rating_count": 1479,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1501223400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284759542674.jpg",
+        "cma_id": "1440894"
     },
     {
         "auth": true,

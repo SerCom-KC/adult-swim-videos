@@ -253,7 +253,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447785600,
         "auth_expiration_date": 1605157140,
         "tms_id": "EP019881990003",
@@ -349,7 +349,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506349740,
         "auth_expiration_date": 1608181140,
         "tms_id": "EP019881990015",
@@ -599,7 +599,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447785660,
-        "auth_expiration_date": 1588823940,
+        "auth_expiration_date": 1609390740,
         "tms_id": "SH018096150000",
         "rating": 7.058182,
         "description": "Tim, Eric and Zach are elated to learn their grandfather has left them each $1,000 in his will. However, there's a catch. In order to collect their money, they must live in his haunted mansion for the rest of their lives.",
@@ -627,9 +627,9 @@
         "episode_number": "",
         "original_air_date": 1383278400,
         "clip_order": null,
-        "auth_launch_date": 1585800000,
-        "modified": 1602958588,
-        "airing_id": "RADS1010172000036532",
+        "auth_launch_date": 1606366800,
+        "modified": 1605157406,
+        "airing_id": "RADS1011112000044416",
         "media_id": "a23013d9cd258b814d0c7ec12fea745067088045",
         "id": "qhedLUghQo2cWoKz09ZfGg",
         "slug": "tim-erics-bedtime-stories-haunted-house",
@@ -640,7 +640,7 @@
         "season_number": "0",
         "active": true,
         "ott_expiration_date": null,
-        "published": 1602958588,
+        "published": 1605157406,
         "tags": [],
         "rating_count": 275,
         "collection_title": "Tim & Eric's Bedtime Stories",
@@ -660,7 +660,7 @@
                 "Roommates"
             ]
         },
-        "expiration_date": 1596081540,
+        "expiration_date": 1609390740,
         "title": "Roommates",
         "type": "episode",
         "platforms": [
@@ -674,9 +674,9 @@
         "original_air_date": 1413519300,
         "clip_order": null,
         "auth_launch_date": 1603339200,
-        "modified": 1602958276,
+        "modified": 1605157406,
         "media_id": "94bab682925cd040fa74fcf3bc7f013cc87a0f00",
-        "airing_id": "RADS1010172000036539",
+        "airing_id": "RADS1011112000044453",
         "id": "tgov7jOSSLGkHZGPVnMxMg",
         "slug": "roommates",
         "views": 1,
@@ -689,12 +689,12 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1602958276,
+        "published": 1605157406,
         "first_published": 1413181259,
         "tags": [],
         "collection_title": "Tim & Eric's Bedtime Stories",
         "modified_by": "ODT Listener",
-        "launch_date": 1593057600,
+        "launch_date": 1606366800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152950474525716.jpg",
         "cma_id": "1154562"
     },
