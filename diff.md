@@ -2,76 +2,67 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 13, 2020 at 00:00:32 EST_
+_Last Update: November 13, 2020 at 00:30:32 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 2  
-440990 Family Guy: 2  
-### 2097192
-**Bob's Burgers S06E04 - Gayle Makin' Bob Sled**  
-TV-PG 🔒 21:38  
+581006 American Dad: 3  
+### 2041476
+**American Dad S11E03 - Hayley Smith, Seal Team Six**  
+TV-14-DLV 🔒 21:13  
 ⌛ November 19, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/gayle-makin-bob-sled  
-seriesid=`2003422` titleid=`2097192` id=`v6nNJ5WAThuzJULB1NDY5w` mediaid=`129e1c8d99bfd9ce3d6b214e4de5021aead414eb`  
-_When Gayle is injured, Linda sends Bob off to pick her up so she doesn't miss out on the Thanksgiving festivities. But a snowstorm derails his trip home and his epic plan to prepare the turkey is foiled._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg" height="144px" /></a>
-### 2097191
-**Bob's Burgers S06E03 - The Hauntening**  
-TV-PG 🔒 21:22  
+https://www.adultswim.com/videos/american-dad/hayley-smith-seal-team-six  
+seriesid=`581006` titleid=`2041476` id=`uo1Kf91lTPCZCjE4bnKkCQ` mediaid=`c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c`  
+_Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg" height="144px" /></a>
+### 2041474
+**American Dad S11E01 - Roots**  
+TV-14-DLV 🔒 21:13  
 ⌛ November 19, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-hauntening  
-seriesid=`2003422` titleid=`2097191` id=`NQ0Kl-53QhejqVZOuB4CUg` mediaid=`548b1783b9bee6d20df357ed7277bd0504c00e2a`  
-_The Belchers are ready for an amazing Halloween! After Louise insists that she's never been scared before, Bob and Linda reveal their plans to visit a special haunted house that just might rectify the situation. But when trouble ensues following their visit, the Belchers find themselves in a zany situation more frightening than they bargained for!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-hauntening/bobsburgers_513_air_cid-2WYDK.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-hauntening/bobsburgers_513_air_cid-2WYDK.jpg" height="144px" /></a>
-### 615750
-**Family Guy S04E01 - North By North Quahog**  
-TV-14-DLSV 🔒 21:50  
+https://www.adultswim.com/videos/american-dad/roots  
+seriesid=`581006` titleid=`2041474` id=`TYWscrkVRdCNVviIdM1W0Q` mediaid=`566083395eaa38012ee31da187d895b1f2fcd330`  
+_Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg" height="144px" /></a>
+### 2041475
+**American Dad S11E02 - The Life Aquatic with Steve Smith**  
+TV-14-DLS 🔒 21:13  
 ⌛ November 19, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/north-by-north-quahog  
-seriesid=`440990` titleid=`615750` id=`laPeoUMvTE-LhG_tr0EoBg` mediaid=`2ab06982c2729d25331f4db978332559b30a1bbc`  
-_During their second honeymoon, Peter and Lois stumble upon a horror too great to bear: Mel Gibson's Passion of the Christ 2._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848112135718.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848112135718.jpg" height="144px" /></a>
-### 446630
-**Family Guy S03E22 - When You Wish Upon A Weinstein**  
-TV-14 🔒 22:24  
-⌛ November 19, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/when-you-wish-upon-a-weinstein  
-seriesid=`440990` titleid=`446630` id=`Xbic3g1WT5CXBmjhDRgx7A` mediaid=`12d1943a9d8c575ab7f3ea80fabe470bb1e3059d`  
-_After a visit from a Jewish man, Peter tries to convert Chris._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848108809011.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848108809011.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/the-life-aquatic-with-steve-smith  
+seriesid=`581006` titleid=`2041475` id=`6m-aKqOzTuiKpe2ndROi_A` mediaid=`fa3d734eb2c5fa3d94b53c53e75274c723ac5905`  
+_Steve joins the high school water polo team in order to get girls. Meanwhile, Roger and Stan get a boat._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-440990 Family Guy: 2  
-### 2065464
-**Bob's Burgers S05E15 - Adventures in Chinchilla-Sitting**  
-TV-PG-DLV 🔒 21:28  
+2007823 Infomercials: 1  
+581006 American Dad: 3  
+### 2236209
+**Infomercials S10E03 - Wormholes**  
+TV-14-DL 🔓 11:15  
 ⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/adventures-in-chinchilla-sitting  
-seriesid=`2003422` titleid=`2065464` id=`EwK0rT-OR7-XEWIg3JcDsw` mediaid=`9ae3bd4895fe2026c5cc392a0880ce22fe6ec9fd`  
-_Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg" height="144px" /></a>
-### 2065463
-**Bob's Burgers S05E14 - Li'l Hard Dad**  
-TV-PG-DLV 🔒 21:32  
+https://www.adultswim.com/videos/infomercials/wormholes  
+seriesid=`2007823` titleid=`2236209` id=`AXRO7ow6SeFB2d0c38u0` mediaid=`e9655bc9b7028deb907efec429ce09f855be387a`  
+_Ben goes down a late-night internet wormhole of bad advice and growing neuroses._  
+<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20929854-Infomercials_Wormholes_001_dup-20200805.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20929854-Infomercials_Wormholes_001_dup-20200805.jpg" height="144px" /></a>
+### 2012718
+**American Dad S09E20 - The Longest Distance Relationship**  
+TV-14 🔒 21:29  
 ⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/lil-hard-dad  
-seriesid=`2003422` titleid=`2065463` id=`ge6stmRQRkWvKjDZIsQ0aA` mediaid=`db29d2e9cf5df46bca0482bfd5ab84039895f9ea`  
-_Bob's obsessed with his automatic helicopter. When it falls apart, he demands a refund and disputes with the manufacturer. Gene assists Bob but things end up in a helicopter battle. Louise and Linda help Tina prepare for her oral book report._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/lil-hard-dad/bobsburgers_502_air_cid-30HPH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/lil-hard-dad/bobsburgers_502_air_cid-30HPH.jpg" height="144px" /></a>
-### 441779
-**Family Guy S03E12 - To Love and Die in Dixie**  
-TV-14-DL 🔒 22:27  
+https://www.adultswim.com/videos/american-dad/the-longest-distance-relationship  
+seriesid=`581006` titleid=`2012718` id=`-_KxrHo3QzavOte0INnaOA` mediaid=`e143715f446287316857fb4ad3495be8d050972c`  
+_Hayley is injured in a fire and while she is in the hospital she meets Millionaire Matt Davis.  As Hayley and Matt fall in love, Steve discovers Jeff Fischer is still alive in outer space.  Jeff and Hayley communicate via an old CB radio and Jeff asks Hayley to stay true to him while he finds a way back to Earth._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg" height="144px" /></a>
+### 2012721
+**American Dad S09E22 - Roger Passes the Bar**  
+TV-14 🔒 21:20  
 ⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/to-love-and-die-in-dixie  
-seriesid=`440990` titleid=`441779` id=`AzBwTIN7TzyZFzprUkRnRQ` mediaid=`017b5e9d25ce325d66061b20a9417b3006e94f51`  
-_The Griffins, forced into the witness protection program, move to a backwoods southern town._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152821448954917.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152821448954917.jpg" height="144px" /></a>
-### 441778
-**Family Guy S03E13 - Screwed the Pooch**  
-TV-14-DL 🔒 22:26  
+https://www.adultswim.com/videos/american-dad/roger-passes-the-bar  
+seriesid=`581006` titleid=`2012721` id=`AUUluKMZS6OJ2XYUmGbT3Q` mediaid=`b0bab8b5f91c35797409c652e52141d7e5da204d`  
+_Roger pushes himself to the breaking point by working non-stop at his dive bar.  When he suffers a heart attack, Roger decides to sell the bar to a company that promises to continue his vision.  Upon returning to visit, Roger sees that the dive bar has been completely remade as a family friendly restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg" height="144px" /></a>
+### 2012717
+**American Dad S09E21 - A Boy Named Michael**  
+TV-14 🔒 21:32  
 ⌛ November 12, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/screwed-the-pooch  
-seriesid=`440990` titleid=`441778` id=`x6M19OShQEK4RpDKtzFdug` mediaid=`7c515271bf44156479148500a3434846ef2970bc`  
-_Brian gets an urge to have sex, and finally chases down the champion greyhound owned by Peter's rich and snooty father-in-law._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1352098681812510624.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_1352098681812510624.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/a-boy-named-michael  
+seriesid=`581006` titleid=`2012717` id=`nD8GXuxMS1i_2tY3lsuaeQ` mediaid=`cb882ae5aba602a125fc7436becfb91a1c858ced`  
+_Greg and Terry decide to adopt a ten-year-old Russian boy named Michael.  At a party celebrating the decision, Roger is jealous of Greg and Terry's fabulous lifestyle of culture and sophistication.  Roger rejects the Smith family as trashy and impersonates Michael, successfully integrating into his new home._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg" height="144px" /></a>
