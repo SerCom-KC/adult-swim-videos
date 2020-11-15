@@ -455,5 +455,52 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131729203-AssassinationClass_110.jpg",
         "id": "AXWJic6lLyLQBOXK_PYT",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1607248740,
+        "tms_id": "EP035989030011",
+        "description": "Another new student throws everyone for a loop. His raw power is one thing, but what's with these mysterious ties he claims to have with Koro Sensei?",
+        "title_suggest": {
+            "input": [
+                "Transfer Student Time/2nd Period",
+                "Student Time/2nd Period",
+                "Time/2nd Period",
+                "Period"
+            ]
+        },
+        "title": "Transfer Student Time/2nd Period",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1330.5626,
+        "episode_number": "11",
+        "original_air_date": "1605421800",
+        "auth_launch_date": 1605434400,
+        "clip_order": null,
+        "airing_id": "RADS1011112000044031",
+        "media_id": "48b47f8a299c34b8bc140479846c0fc32a2d6537",
+        "modified": 1605132165,
+        "slug": "transfer-student-time-2nd-period",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201110/thumbnails/1_2011101511202-AssassinationClass_111.jpg",
+        "created": 1605039084,
+        "season_number": "1",
+        "title_id": "2238424",
+        "tv_rating": "tv-14-dlv",
+        "published": 1605132165,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201110/thumbnails/2_2011101511202-AssassinationClass_111.jpg",
+        "id": "AXWzyNVvLyLQBOXK_PgS",
+        "auth": true
     }
 ]
