@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 15, 2020 at 02:30:30 EST_
+_Last Update: November 15, 2020 at 04:30:36 EST_
 ## Video added
 ### Summary
-2194549 Gemusetto: 2  
-### 2241829
-**Gemusetto S02E04 - Episode Four: C MAJOR**  
-TV-14-DLV 🔒 00:00  
-⌛ December 6, 2020 at 02:14:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-four-c-major  
-seriesid=`2194549` titleid=`2241829` id=`AXW5HlihLyLQBOXK_Pgv` mediaid=`7218145f06c73c32b058d39ea398c2d310bcae0b`  
-_Josie has been seething with rage towards Makasu ever since his own death- but is holding on to anger just a waste of time? Will their musical battle rip the afterlife of Kur apart?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg" height="144px" /></a>
-### 2241828
-**Gemusetto S02E03 - Episode Three: B7+5**  
-TV-14-DLV 🔒 00:00  
-⌛ December 6, 2020 at 01:59:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-three-b-7-5  
-seriesid=`2194549` titleid=`2241828` id=`AXW5Hl8_LyLQBOXK_Pgw` mediaid=`28694d472de76d270bef1186571c1ff3878f5330`  
-_Making their way through the Mesopotamian underworld of Kur, Dr. Legs and Makasu run into a formidable foe. Can a vengeful spirit who has a bone to pick with Makasu be more dangerous than a god?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg" height="144px" /></a>
+2215991 Sword Art Online: Alicization - War of Underworld: 1  
+### 2216005
+**Sword Art Online: Alicization - War of Underworld S01E14 - End to Eternity**  
+TV-14-LV 🔒 22:44  
+⌛ December 6, 2020 at 03:59:00 EST  
+https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/end-to-eternity  
+seriesid=`2215991` titleid=`2216005` id=`AXWQPgwUbxpjZvbXYlbs` mediaid=`eab5eda8e9d6f8805c799a1af9056ebc5ac53cb4`  
+_Despite its modest size, the Human Empire Army and Asuna valiantly battle the wave of American players surging towards them. But they're hopelessly outnumbered, and the Human Empire soldiers start to fall one after another._  
+<a href="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113173312-SAO_WoU_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113173312-SAO_WoU_014.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
