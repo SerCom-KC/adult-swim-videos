@@ -848,6 +848,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1607318040,
+        "tms_id": "",
+        "description": "Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty.",
+        "title_suggest": {
+            "input": [
+                "Bone TV",
+                "TV"
+            ]
+        },
+        "title": "Bone TV",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 667.4668,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1605503700,
+        "clip_order": null,
+        "airing_id": "RADS1011112000044106",
+        "media_id": "795aeeed63dd7f1919a85f983666386c2f7ff5c7",
+        "modified": 1605145258,
+        "slug": "bone-tv",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161721227-ericandre_508_dup-20200914.jpg",
+        "created": 1600291286,
+        "season_number": "5",
+        "title_id": "2230787",
+        "tv_rating": "tv-ma-ls",
+        "published": 1605145258,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg",
+        "id": "AXSYyy1XLyLQBOXK_POB",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Mess up your equilibrium. Season 5 premieres Sunday, October 25th at Midnight ET/PT.",
