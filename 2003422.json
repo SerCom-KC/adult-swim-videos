@@ -203,6 +203,57 @@
         "cma_id": "2097191"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1606280340,
+        "tms_id": "EP012792980102",
+        "description": "When there is a bounce house crisis at Regular Sized Rudy's birthday party, the Belcher kids devise a scheme to save the day. Meanwhile, Bob deals with an unexpected guest at the restaurant and is forced to come to terms with a longstanding fear.",
+        "title_suggest": {
+            "input": [
+                "House of 1000 Bounces",
+                "of 1000 Bounces",
+                "1000 Bounces",
+                "Bounces"
+            ]
+        },
+        "title": "House of 1000 Bounces",
+        "type": "episode",
+        "expiration_date": 1561348740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1286.333667,
+        "episode_number": "11",
+        "original_air_date": 1479353400,
+        "clip_order": null,
+        "auth_launch_date": 1605675600,
+        "modified": 1605272280,
+        "media_id": "fd8e041c6c52fc89b7f6e46d354e9a320bae9b41",
+        "airing_id": "RADS1011112000044185",
+        "id": "aTRwApkFTRWzcxJY67mdng",
+        "slug": "house-of-1000-bounces",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1479017422,
+        "title_id": "2097199",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1605272280,
+        "first_published": 1479017422,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1560744000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/house-of-1000-bounces/bobsburgers_520_air_cid-2X464.jpg",
+        "cma_id": "1434637"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1595476740,
@@ -304,55 +355,6 @@
         "launch_date": 1560139200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-cook-the-steve-the-gayle-her-lover/bobsburgers_512_air_cid-2WX47.jpg",
         "cma_id": "1432531"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1605675540,
-        "tms_id": "EP012792980091",
-        "description": "Bob notices that he has started to lose his hair, his mustache hair. In a wave of nostalgia, Linda reminisces about Bob's mustache and how it made her fall for him years ago. Meanwhile, the kids create their own versions of what would have happened had Linda not fallen for Bob and his mustache.",
-        "title_suggest": {
-            "input": [
-                "Sliding Bobs",
-                "Bobs"
-            ]
-        },
-        "title": "Sliding Bobs",
-        "type": "episode",
-        "expiration_date": 1557759540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1299.3670337,
-        "episode_number": "1",
-        "original_air_date": 1475116200,
-        "clip_order": null,
-        "auth_launch_date": 1605070800,
-        "modified": 1604646095,
-        "media_id": "3f6dfc49ed8029fb899c99839fcf727641b3fd9b",
-        "airing_id": "RADS1011042000041831",
-        "id": "dbvJ5aGPTDyNLSLMrQVdJg",
-        "slug": "sliding-bobs",
-        "views": 3,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1474985421,
-        "title_id": "2097189",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1604646095,
-        "first_published": 1474985421,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1557154800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/sliding-bobs/bobsburgers_510_air_cid-2WTXF.jpg",
-        "cma_id": "1479072"
     },
     {
         "auth": false,
