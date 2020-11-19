@@ -105,6 +105,54 @@
         "cma_id": "1442270"
     },
     {
+        "auth": true,
+        "auth_expiration_date": 1606366740,
+        "tms_id": "EP002960010059",
+        "rating": 7.3388429752066,
+        "description": "After feeling that her life has become routine, Lois becomes addicted to shop-lifting.  It doesn't take Joe long to put two and two together, and Lois soon finds herself an inmate of Quahog State Penitentiary.  Finding life without her unbearable, Peter breaks Lois out of prison and the Griffins become fugitives from the law.",
+        "title_suggest": {
+            "input": [
+                "Breaking Out Is Hard To Do ",
+                "Out Is Hard To Do",
+                "Is Hard To Do",
+                "Hard To Do",
+                "To Do",
+                "Do"
+            ]
+        },
+        "type": "episode",
+        "title": "Breaking Out Is Hard To Do ",
+        "expiration_date": 1502346599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1297.8966,
+        "episode_number": "9",
+        "original_air_date": 1123212600,
+        "auth_launch_date": 1605762000,
+        "modified": 1605619321,
+        "airing_id": "RADS1011112000044201",
+        "media_id": "2f1ebec8d5128005d2504f9937316f78e041b981",
+        "id": "7sFl8XFdTYaCKczTNlhryA",
+        "slug": "breaking-out-is-hard-to-do",
+        "views": 200875,
+        "created": 1402945465,
+        "title_id": "615764",
+        "season_number": "4",
+        "tv_rating": "tv-14-dsv",
+        "active": false,
+        "published": 1605619321,
+        "tags": [],
+        "rating_count": 242,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1501741800,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_24054.jpg",
+        "cma_id": "1444819"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1600919940,
@@ -451,61 +499,6 @@
         "launch_date": 1501309800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152848112135718.jpg",
         "cma_id": "1441129"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1605761940,
-        "tms_id": "EP002960010048",
-        "rating": 7.5584855,
-        "description": "Viewer mail inspires three stories in which Peter loses his bones, the Griffins gain superpowers, and Peter and his friends appear as eight-year-old \"Little Rascals.\"",
-        "title_suggest": {
-            "input": [
-                "Family Guy Viewer Mail #1",
-                "Guy Viewer Mail #1",
-                "Viewer Mail #1",
-                "Mail #1",
-                "#1"
-            ]
-        },
-        "type": "episode",
-        "title": "Family Guy Viewer Mail #1",
-        "expiration_date": 1501828199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1349.6817,
-        "episode_number": "21",
-        "original_air_date": 1054870200,
-        "auth_launch_date": 1605157200,
-        "clip_order": null,
-        "modified": 1605290678,
-        "media_id": "4d60fee3cf30fb00187df5d352e897d52538cc71",
-        "airing_id": "RADS1011042000041864",
-        "id": "lgTcjuUxTnWTps626ovzlw",
-        "slug": "family-guy-viewer-mail-1",
-        "views": 442357,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15284759542674.jpg",
-        "created": 1402945464,
-        "title_id": "441782",
-        "season_number": "3",
-        "tv_rating": "tv-14-d",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1605290678,
-        "tags": [
-            "family guy episode 312 family guy viewer mail supergriffins super powers bones wishes lil rascals"
-        ],
-        "rating_count": 1479,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1501223400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284759542674.jpg",
-        "cma_id": "1440894"
     },
     {
         "auth": true,
