@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 22, 2020 at 05:00:35 EST_
+_Last Update: November 22, 2020 at 05:30:31 EST_
 ## Video added
 ### Summary
-2203556 Fire Force: 1  
-### 2233670
-**Fire Force S02E03 - A New Flashpoint**  
-TV-MA-V 🔒 22:35  
-⌛ December 13, 2020 at 04:29:00 EST  
-https://www.adultswim.com/videos/fire-force/a-new-flashpoint  
-seriesid=`2203556` titleid=`2233670` id=`AXWQO_N3bxpjZvbXYlbp` mediaid=`f92dc70e2774de300f67c75a14d75f9362e85d51`  
-_Obi goes to see the chief with news of a fifth Adolla-Burst bearer. Inca, who has the ability to sniff out fires before they start, becomes notorious as the Fireground Thief, extorting valuables from victims in exchange for rescuing them._  
-<a href="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131730459-FireForce2_027.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131730459-FireForce2_027.jpg" height="144px" /></a>
+2238413 Assassination Classroom: 1  
+### 2238425
+**Assassination Classroom S01E12 - Ball Game Tournament Time**  
+TV-14-D 🔒 22:03  
+⌛ December 13, 2020 at 04:59:00 EST  
+https://www.adultswim.com/videos/assassination-classroom/ball-game-tournament-time  
+seriesid=`2238413` titleid=`2238425` id=`AXWzyT33bxpjZvbXYlcO` mediaid=`79dcd9884194a806031a3542b9049bb84ecae615`  
+_The E Class boys must play the Baseball Club in an exhibition game meant to humiliate them. Can Koro Sensei's unique coaching style make a difference?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201110/thumbnails/2_2011101511454-AssassinationClass_112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201110/thumbnails/2_2011101511454-AssassinationClass_112.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
