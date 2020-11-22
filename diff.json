@@ -1,19 +1,21 @@
 {
-    "updated": 1606041031,
+    "updated": 1606044636,
     "added": [
         {
-            "auth_expiration_date": 1607853540,
-            "tms_id": "EP035989030012",
-            "description": "The E Class boys must play the Baseball Club in an exhibition game meant to humiliate them. Can Koro Sensei's unique coaching style make a difference?",
+            "auth_expiration_date": 1615114740,
+            "tms_id": "",
+            "description": "A reanimated Granny Chiyo attacks Kankuro and Mifune's team. Kankuro fights back by using the human puppet of Sasori.",
             "title_suggest": {
                 "input": [
-                    "Ball Game Tournament Time",
-                    "Game Tournament Time",
-                    "Tournament Time",
-                    "Time"
+                    "The Soul Living Inside the Puppet",
+                    "Soul Living Inside the Puppet",
+                    "Living Inside the Puppet",
+                    "Inside the Puppet",
+                    "the Puppet",
+                    "Puppet"
                 ]
             },
-            "title": "Ball Game Tournament Time",
+            "title": "The Soul Living Inside the Puppet",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -22,35 +24,86 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
-            "duration": 1323.8893,
-            "episode_number": "12",
-            "original_air_date": "1606026600",
-            "auth_launch_date": 1606039200,
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1312.9784,
+            "episode_number": "36",
+            "original_air_date": "1606030200",
+            "auth_launch_date": 1606042800,
             "clip_order": null,
-            "airing_id": "RADS1011112000044239",
-            "media_id": "79dcd9884194a806031a3542b9049bb84ecae615",
-            "modified": 1605639086,
-            "slug": "ball-game-tournament-time",
+            "airing_id": "RADS1011112000044238",
+            "media_id": "7a185a9b19557a369c8f61cfbca5350ea9244279",
+            "modified": 1605637221,
+            "slug": "the-soul-living-inside-the-puppet",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201110/thumbnails/1_2011101511454-AssassinationClass_112.jpg",
-            "created": 1605039111,
-            "season_number": "1",
-            "title_id": "2238425",
-            "tv_rating": "tv-14-d",
-            "published": 1605639086,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/1_201131728574-narutoshippuden_319_SoulLivingInsidePuppet.jpg",
+            "created": 1604442540,
+            "season_number": "6",
+            "title_id": "2177748",
+            "tv_rating": "tv-pg",
+            "published": 1605637221,
             "tags": [],
-            "collection_title": "Assassination Classroom",
+            "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201110/thumbnails/2_2011101511454-AssassinationClass_112.jpg",
-            "id": "AXWzyT33bxpjZvbXYlcO",
+            "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131728574-narutoshippuden_319_SoulLivingInsidePuppet.jpg",
+            "id": "AXWQOkqaLyLQBOXK_PZM",
             "auth": true,
-            "collection_slug": "assassination-classroom",
-            "collection_title_id": "2238413",
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": 1606042740,
+            "tms_id": "",
+            "description": "Kabuto has reanimated Hayate and assigns him to infiltrate and steal corpses from the Medical Corps camp.",
+            "title_suggest": {
+                "input": [
+                    "Fade into the Moonlight",
+                    "into the Moonlight",
+                    "the Moonlight",
+                    "Moonlight"
+                ]
+            },
+            "title": "Fade into the Moonlight",
+            "expiration_date": null,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.0097,
+            "episode_number": "24",
+            "original_air_date": null,
+            "auth_launch_date": 1596967200,
+            "clip_order": null,
+            "airing_id": "RADS1008042000017008",
+            "media_id": "a04d095b4cfc9d3bdabbbbcf17c9c5ef8059ed62",
+            "modified": 1605686090,
+            "slug": "fade-into-the-moonlight",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200625/thumbnails/1_206251029530-narutoshippuden_307_FadeintotheMoonlight.jpg",
+            "created": 1593095396,
+            "season_number": "6",
+            "title_id": "2177736",
+            "tv_rating": "tv-pg-v",
+            "published": 1605686090,
+            "tags": [],
+            "collection_title": "Naruto: Shippuden",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251029530-narutoshippuden_307_FadeintotheMoonlight.jpg",
+            "id": "AXLr4pv9C8QgH-t19JyU",
+            "auth": true,
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
+            "online_exclusives": false
+        }
+    ]
 }
