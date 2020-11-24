@@ -94,7 +94,7 @@
         "launch_date": 1603166400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261716121-blackjesus_301_air_cid-3GPVP.jpg",
         "id": "AW1A19QS1YiBSfg0KW-v",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -238,6 +238,55 @@
         "launch_date": 1605589200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261717499-blackjesus_305_air_cid-3FYKV.jpg",
         "id": "AW2EUt0E1YiBSfg0KXXC",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1593489540,
+        "tms_id": "",
+        "description": "There's a vigilante in Southwest Compton, and he's taken matters into his own hands.  Jesus has to stop him before he goes too far.",
+        "title_suggest": {
+            "input": [
+                "The Compton Crusader",
+                "Compton Crusader",
+                "Crusader"
+            ]
+        },
+        "title": "The Compton Crusader",
+        "expiration_date": 1609217940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
+        "duration": 1188.23,
+        "episode_number": "6",
+        "original_air_date": 1572667200,
+        "auth_launch_date": 1590465600,
+        "clip_order": null,
+        "media_id": "03c8b8f4184c96503e65330a77e532ceaaceae46",
+        "modified": 1605768358,
+        "airing_id": "RADS1011112000044336",
+        "slug": "the-compton-crusader",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_20226171871-blackjesus_306_air_cid-3HCRK.jpg",
+        "created": 1569883108,
+        "season_number": "3",
+        "title_id": "2160587",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1605768358,
+        "tags": [],
+        "collection_title": "Black Jesus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1606194000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171871-blackjesus_306_air_cid-3HCRK.jpg",
+        "id": "AW2EUzNiadNs2hMNfuIq",
         "auth": false
     },
     {
@@ -556,58 +605,6 @@
         "launch_date": 1601352000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261714224-blackjesus_209_dup-20151026.jpg",
         "cma_id": "2065418"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1449846000,
-        "auth_expiration_date": 1606193940,
-        "tms_id": "EP019635740018",
-        "description": "Vic plunges into sin courtesy of Lloyd's estranged wife. Meanwhile, the gang shoots a music video for Boonie's latest track, \"Side Bitches\".",
-        "title_suggest": {
-            "input": [
-                "Thy Neighbor's Strife",
-                "Neighbor's Strife",
-                "Strife"
-            ]
-        },
-        "expiration_date": 1603166340,
-        "title": "Thy Neighbor's Strife",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1266.2085071,
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "episode_number": "7",
-        "original_air_date": 1446260400,
-        "clip_order": null,
-        "auth_launch_date": 1603166400,
-        "modified": 1602924709,
-        "media_id": "5a8c8c0123642a781167fcf18e02d00b77544498",
-        "airing_id": "RADS1010172000036473",
-        "id": "eBJ_D4zyS12ylAvRjqZjtA",
-        "slug": "thy-neighbors-strife",
-        "views": 35310,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261713189-blackjesus_206_dup-20151013.jpg",
-        "created": 1441735799,
-        "season_number": "2",
-        "title_id": "2065415",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1602924709,
-        "first_published": 1445926820,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1600142400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261713189-blackjesus_206_dup-20151013.jpg",
-        "cma_id": "2065415"
     },
     {
         "auth": true,
