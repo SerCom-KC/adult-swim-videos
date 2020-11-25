@@ -1,7 +1,7 @@
 [
     {
         "ott_launch_date": 1520263860,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1609304340,
         "tms_id": "EP018514630027",
         "description": "When Mr. Goodman and his co-workers are kidnapped from Telemarketing Corp., he winds up the property of a farm owner who has a vendetta against telemarketers.",
@@ -244,6 +244,53 @@
         "modified_by": "ODT Listener",
         "launch_date": 1604466000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151974648293117.jpg"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1522074660,
+        "auth_expiration_date": 1592452740,
+        "tms_id": "EP018514630032",
+        "description": "Tommy sets out to make his own cartoon show but finds it harder than he thought.",
+        "title_suggest": {
+            "input": [
+                "Tommy's Cartoon",
+                "Cartoon"
+            ]
+        },
+        "title": "Tommy's Cartoon",
+        "type": "episode",
+        "expiration_date": 1609304340,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.58,
+        "episode_number": "9",
+        "original_air_date": 1522036800,
+        "auth_launch_date": 1589428800,
+        "clip_order": null,
+        "media_id": "a901639d297165117dcfea02646e78987ffc7c97",
+        "modified": 1605853413,
+        "airing_id": "RADS1011112000044407",
+        "id": "AWI_5NmbHAeP4-pUPdqx",
+        "slug": "tommys-cartoon",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15218288818828.jpg",
+        "created": 1521490385,
+        "title_id": "2120615",
+        "tv_rating": "tv-ma-v",
+        "season_number": "3",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1605853413,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1606280400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15218288818828.jpg"
     },
     {
         "ott_launch_date": null,
