@@ -96,7 +96,7 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1603684740,
+        "auth_expiration_date": 1608526740,
         "tms_id": "EP034814970005",
         "description": "Rachel and Sarah hear about a nearby 'bush doof' outback dance party. Rachel forces the car to crash so she can enjoy the dreamy vibes and genuinely good acoustics and win a t-shirt from the t-shirt cannon.",
         "title_suggest": {
@@ -118,11 +118,11 @@
         "duration": 645.8118,
         "episode_number": "5",
         "original_air_date": "1598241600",
-        "auth_launch_date": 1601870400,
+        "auth_launch_date": 1606712400,
         "clip_order": null,
-        "airing_id": "RADS1010222000037169",
+        "airing_id": "RADS1011252000047195",
         "media_id": "99cd4ef1eaff2d84720ae43b63db85a650b9337b",
-        "modified": 1605834626,
+        "modified": 1606324818,
         "slug": "bush-doof",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200819/thumbnails/1_20819813304-YOLO_105_dup-20200817.jpg",
@@ -130,7 +130,7 @@
         "season_number": "1",
         "title_id": "2224728",
         "tv_rating": "tv-14-lv",
-        "published": 1605834626,
+        "published": 1606324818,
         "tags": [],
         "collection_title": "YOLO Crystal Fantasy",
         "disable_ads": false,
@@ -280,11 +280,7 @@
     },
     {
         "auth_expiration_date": 1606712340,
-        "created": 1600451694,
         "tms_id": "EP034814970002",
-        "title_id": "2224725",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
         "description": "Rachel and Sarah head to the outback town of Goondawindi for the annual Dusty Truck 'n' Donut Muster, lured by the chance to win a meat tray and a glimpse of Trent, the star of TV's 'Outback Trent'.",
         "title_suggest": {
             "input": [
@@ -296,21 +292,27 @@
                 "Muster"
             ]
         },
-        "published": 1605834622,
         "title": "The Dusty Truck 'n' Donut Muster",
         "type": "episode",
-        "tags": [],
+        "expiration_date": 1609736340,
         "collection_id": "AXNJnfSIC8QgH-t19J8N",
         "duration": 669.3353,
         "episode_number": "2",
-        "collection_title": "YOLO Crystal Fantasy",
         "original_air_date": 1597032900,
         "auth_launch_date": 1604898000,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1011042000041719",
+        "airing_id": "RADS1011252000047272",
         "media_id": "1e9fd0f84cd52731a7dea8f2c70bb4c390e89284",
-        "modified": 1605834622,
+        "modified": 1606324990,
         "slug": "the-dusty-truck-n-donut-muster",
+        "created": 1600451694,
+        "title_id": "2224725",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1606324990,
+        "tags": [],
+        "collection_title": "YOLO Crystal Fantasy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1606712400,
         "id": "AXSiWtBmLyLQBOXK_POP",
         "auth": true
     }
