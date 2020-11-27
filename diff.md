@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 27, 2020 at 02:30:29 EST_
+_Last Update: November 27, 2020 at 03:30:26 EST_
 ## Video added
 ### Summary
-830073 Off The Air: 1  
-### 2199312
-**Off The Air S09E02 - Trash**  
- 🔓 10:53  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/off-the-air/trash  
-seriesid=`830073` titleid=`2199312` id=`AW306X2g1YiBSfg0KX7n` mediaid=`83ede7f1d81634dfec7345cacaacb8e67af2077f`  
-_Everybody's doing it._  
-<a href="https://media.cdn.adultswim.com/uploads/20191025/thumbnails/2_1910251214530-offtheair_902_dup-20191024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191025/thumbnails/2_1910251214530-offtheair_902_dup-20191024.jpg" height="144px" /></a>
+2211157 Primal: 2  
+### 2211159
+**Primal S01E02 - River of Snakes**  
+ 🔒 20:39  
+⌛ December 1, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/primal/river-of-snakes  
+seriesid=`2211157` titleid=`2211159` id=`AW2Dq4bHadNs2hMNfuIf` mediaid=`5c71b35a5ab29551053cea87cfa93d6481bced7f`  
+_Man and beast are challenged to find a way to exist together._  
+<a href="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_19103139229-Primal_002_dup-20190815.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_19103139229-Primal_002_dup-20190815.jpg" height="144px" /></a>
+### 2211158
+**Primal S01E01 - Spear and Fang**  
+TV-14-V 🔒 21:38  
+⌛ December 1, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/primal/spear-and-fang  
+seriesid=`2211157` titleid=`2211158` id=`AW2DqMKt1YiBSfg0KXWq` mediaid=`f3aa0a7440cd36703dfce386dab1cc3743adc098`  
+_Tragedy forces a caveman and a dinosaur to rely upon each other for their survival._  
+<a href="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031047369-Primal_001_dup-20190815.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031047369-Primal_001_dup-20190815.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
