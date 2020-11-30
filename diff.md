@@ -2,126 +2,74 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 29, 2020 at 00:30:37 EST_
+_Last Update: November 30, 2020 at 00:00:35 EST_
 ## Video added
 ### Summary
-581006 American Dad: 3  
-2003422 Bob's Burgers: 2  
-440990 Family Guy: 2  
-### 2069551
-**American Dad S12E20 - Garbage Stan**  
-TV-14-DLV 🔒 21:14  
-⌛ December 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/garbage-stan  
-seriesid=`581006` titleid=`2069551` id=`Psk8BZBXTS6y3k5Dt77-qw` mediaid=`e0fefa9d69b802fa0dead91eee5b31d07509e1ca`  
-_Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck. Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg" height="144px" /></a>
-### 2069547
-**American Dad S12E21 - The Talented Mr. Dingleberry**  
-TV-14-DLSV 🔒 21:14  
-⌛ December 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-talented-mr-dingleberry  
-seriesid=`581006` titleid=`2069547` id=`DHxenpZFQmqu9ENjBxxVnQ` mediaid=`366101442a6bb7b18612b41dc9f46f31fad4248e`  
-_Roger becomes a marionette and injures other students to help Steve win the school talent show. Stan, Hayley and Klaus start their own local honey business._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg" height="144px" /></a>
-### 2069553
-**American Dad S12E22 - West to Mexico**  
-TV-14-DLV 🔒 21:14  
-⌛ December 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/west-to-mexico  
-seriesid=`581006` titleid=`2069553` id=`vz3Y_dibRLuu8ZDlkfKtbQ` mediaid=`26317c90dca92ff6ac96b0624ea53f4a60d9b9a6`  
-_In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg" height="144px" /></a>
-### 2132983
-**Bob's Burgers S07E05 - Bob Actually**  
-TV-PG-DL 🔒 21:42  
-⌛ December 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/bob-actually  
-seriesid=`2003422` titleid=`2132983` id=`VmnWvv2pTD2WBaYwR3ARdA` mediaid=`02f2bc7d7a7775a9d9c127202186f14a3faa9e6e`  
-_With Valentine's Day approaching, Tina, Gene and Louise each find themselves wrapped up in love-caused chaos. Meanwhile, Bob decides on a romantic gesture in order to impress Linda._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg" height="144px" /></a>
-### 2132978
-**Bob's Burgers S07E06 - There's No Business Like Mr. Business Business**  
-TV-PG-L 🔒 21:25  
-⌛ December 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/theres-no-business-like-mr-business-business  
-seriesid=`2003422` titleid=`2132978` id=`T2-Fm5wyRsK7J8IPcGCpxA` mediaid=`1e720e1a89f8a01a816898b0daa84e6402d9acb3`  
-_When Gayle's cat, Mr. Business, lands himself a pet agent, Ian Amberson, Bob finds out that Linda may have been helping to fund the cat's career._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151068053993417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151068053993417.jpg" height="144px" /></a>
-### 641007
-**Family Guy S04E24 - Peterotica**  
-TV-14-DLS 🔒 21:43  
-⌛ December 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/peterotica  
-seriesid=`440990` titleid=`641007` id=`WQKVUvcPSH-GTxHPU9hScQ` mediaid=`74d0ccf0f2e2402583fcd5de56e087f247a7a5f3`  
-_Peter decides to write his own erotic novels financed by his father in law, Carter Pewterschmidt.  A lawsuit involving the books leave Carter penniless and gives Peter the chance to show him just how the other half live._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299487607398.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299487607398.jpg" height="144px" /></a>
-### 638928
-**Family Guy S04E25 - You May Now Kiss the... uh... Guy Who Receives**  
-TV-14-DLV 🔒 21:44  
-⌛ December 5, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/you-may-now-kiss-the-uh-guy-who-receives  
-seriesid=`440990` titleid=`638928` id=`xP7NZlVoTB-n1lKdbob1Tw` mediaid=`9d0e96bc5c4a9bab70a61a8a9795d5406d71065c`  
-_Brian's cousin Jasper visits Quahog to announce his engagement to his partner, Phillipe.  Lois struggles with her issues about the two men getting married.  The wedding is to take place at the Griffins' house, but plans are halted when Mayor West intends to sign a bill banning gay marriage._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994896352114.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994896352114.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 4  
+### 2132980
+**Bob's Burgers S07E07 - A Few 'gurt Men**  
+TV-PG-L 🔒 21:46  
+⌛ December 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/a-few-gurt-men  
+seriesid=`2003422` titleid=`2132980` id=`AV-SbT3jwdpKFAKSbO13` mediaid=`b2dfa4421e179af0084b877402f89f97c9006b0d`  
+_Louise is put in a sticky situation when she must defend one of her biggest foes at Wagstaff during a mock trial. Meanwhile, after they're both taken in by a food scammer, Bob teams up with Jimmy Pesto to exact their revenge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg" height="144px" /></a>
+### 2030310
+**Bob's Burgers S04E07 - Bob and Deliver**  
+ 🔓 21:34  
+⌛ December 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/bob-and-deliver  
+seriesid=`2003422` titleid=`2030310` id=`t7ZWm1IkQce4crIKMFrpPA` mediaid=`d494b26dfd04bf3c0821d98be5ab97630a711655`  
+_To Tina's delight, Bob becomes the substitute "Home Ec" teacher at her school and ends up creating a full-scale restaurant in the classroom. However, her excitement is short-lived as Bob's position causes father/daughter friction. But when Gene and Louise go to work for Bob's "school" restaurant, Linda must fend for herself at the family's other restaurant (aka Bob's Burgers)._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187080847379.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187080847379.jpg" height="144px" /></a>
+### 2030307
+**Bob's Burgers S04E06 - Purple Rain-Union**  
+TV-14 🔓 21:31  
+⌛ December 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/purple-rain-union  
+seriesid=`2003422` titleid=`2030307` id=`v0G53m0sSreGe4zKqAbsxw` mediaid=`7289c265db498136b3e379f3bef3020e77690b3c`  
+_In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg" height="144px" /></a>
+### 2030308
+**Bob's Burgers S04E05 - Turkey in a Can**  
+TV-14 🔓 21:14  
+⌛ December 6, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/turkey-in-a-can  
+seriesid=`2003422` titleid=`2030308` id=`oKS-s_nDTPW06xmPrkV5Lw` mediaid=`7988a96e056706b043193c01d941367e05c15716`  
+_Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153132725097715.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153132725097715.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-440990 Family Guy: 2  
-581006 American Dad: 3  
-### 2097205
-**Bob's Burgers S06E17 - The Horse Rider-Er**  
-TV-PG 🔒 21:42  
-⌛ November 28, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-horse-rider-er  
-seriesid=`2003422` titleid=`2097205` id=`7hdKuh3uTCC3nZ9h4OLraw` mediaid=`051f1a9935273d6cf13eb16db2884e7b3021a427`  
-_After finally convincing Bob and Linda to send her to horse camp, Tina realizes she has to part ways with Jericho, her imaginary horse. Meanwhile, Linda decides to create a restaurant camp in an attempt to make things fair for Gene and Louise._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-horse-rider-er/bobsburgers_602_air_cid-2X85C.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-horse-rider-er/bobsburgers_602_air_cid-2X85C.jpg" height="144px" /></a>
-### 2097206
-**Bob's Burgers S06E18 - Secret Admiral-Irer**  
-TV-PG 🔒 21:42  
-⌛ November 28, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/secret-admiral-irer  
-seriesid=`2003422` titleid=`2097206` id=`pbADrCdVRay2C8NqO-O1YQ` mediaid=`62c36db15f8a42a3cd82dbc1cd103a44536d8b5c`  
-_Tina's ideas of love and romance are tested when she volunteers at a nursing home to earn her next Thunder Girls badge. Meanwhile, Bob makes new friends who cause him to make some questionable choices._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg" height="144px" /></a>
-### 627749
-**Family Guy S04E15 - Brian Goes Back To College**  
-TV-14-D 🔒 21:46  
-⌛ November 28, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/brian-goes-back-to-college  
-seriesid=`440990` titleid=`627749` id=`SoidtdM_Sr2hhpm79UmKsw` mediaid=`23e01aa4e5e16b4e4f3c5f35ca2af77f113c363d`  
-_Brian loses his job at the New Yorker after it's discovered that he doesn't have a college degree. He decides to return to Brown and get his diploma. Struggling with his grade in Advanced Physics, he decides to cheat with help from Stewie, thus becoming the teacher's pet._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_661863920486185603.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_661863920486185603.jpg" height="144px" /></a>
-### 627817
-**Family Guy S04E14 - PTV**  
-TV-14-DLS 🔒 21:44  
-⌛ November 28, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/ptv  
-seriesid=`440990` titleid=`627817` id=`b4rgK3_FShixZsYGcCN0_A` mediaid=`9eba8a9a0ee6eda00eb08c6c5d401c3822550a42`  
-_After a "trouser malfunction" during a live Emmy broadcast, the FCC decides to "correct" some of Peter's beloved television shows. Frustrated, he decides to start his own television station so he can have control of the airwaves. Soon his ratings soar and the FCC steps in, not only censoring Peter's original programming, but his home life as well. The family loads up and heads to Washington to fight congress from banning indecent real life situations._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4499523756800723627.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4499523756800723627.jpg" height="144px" /></a>
-### 2069533
-**American Dad S12E02 - Fight and Flight**  
-TV-14 🔒 21:13  
-⌛ November 28, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/fight-and-flight  
-seriesid=`581006` titleid=`2069533` id=`2lgl7za3TEGrHYL2SIWJeQ` mediaid=`204b5cf0c24fb0a7ef617b2d33f4d1bd82480c6c`  
-_Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg" height="144px" /></a>
-### 2069534
-**American Dad S12E03 - The Enlightenment of Ragi-Baba**  
-TV-14 🔒 21:15  
-⌛ November 28, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-enlightenment-of-ragi-baba  
-seriesid=`581006` titleid=`2069534` id=`Pio80KFJQd6SVdNWrk5VgA` mediaid=`8f30856332334da136247b93b0b70d05b6cd7cfc`  
-_Hayley takes Roger with her to a meditation center and he quickly takes over, becoming one of the world's leading authorities on meditation. Stan and Steve become apprentices as they are taught the art of making sushi._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg" height="144px" /></a>
-### 2069535
-**American Dad S12E04 - Portrait of Francine's Genitals**  
-TV-14 🔒 21:13  
-⌛ November 28, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/portrait-of-francines-genitals  
-seriesid=`581006` titleid=`2069535` id=`hdcVKrFvQty4nyJhGa7MxQ` mediaid=`11ace947a1678de01b3f446f06c28a4e33a58a9a`  
-_Stan is embarrassed when a painting of Francine's genitals, done by a famous artist, is unveiled at the museum. Steve turns to helping people after masturbation is ruined by his mom's portrait._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 4  
+### 2097207
+**Bob's Burgers S06E19 - Glued, Where's My Bob?**  
+TV-PG 🔒 21:40  
+⌛ November 29, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/glued-wheres-my-bob  
+seriesid=`2003422` titleid=`2097207` id=`KZHzK9CvTwCRExJXY6SSUw` mediaid=`6b5661bddd9aa0e25e1da7b017424420f36d36bf`  
+_The kids' goop war lands Bob in a sticky situation. The prank occurs on the same day Skip Marooch calls to tell Bob that a journalist is going to interview him for a piece on unknown restaurants._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg" height="144px" /></a>
+### 2030304
+**Bob's Burgers S04E04 - My Big Fat Greek Bob**  
+TV-14 🔓 21:24  
+⌛ November 29, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/my-big-fat-greek-bob  
+seriesid=`2003422` titleid=`2030304` id=`LuW7F2-NQTeLeDWsvE5ANg` mediaid=`b3c988b5d81799241716759468b7caaa5e9eb32a`  
+_Bob scores a temporary gig as a cook at an "underdog" frat house and discovers that he fits right in! Hijinks ensue as Bob and the rest of the fraternity brothers find themselves in the middle of a collegiate prank war that involves the house's most famous alumnus, Dr. Yap. Meanwhile, the kids are on a mission to invade the frat house and get in on the action._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754378983.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754378983.jpg" height="144px" /></a>
+### 2030306
+**Bob's Burgers S04E03 - Seaplane!**  
+TV-14 🔓 21:34  
+⌛ November 29, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/seaplane  
+seriesid=`2003422` titleid=`2030306` id=`ifvc24W8Q-qBRnvUpRjLcw` mediaid=`04718512dcc45036018c4e92099724090fd93b84`  
+_Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of "Upskirt Kurt," the most charming pilot in the air._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg" height="144px" /></a>
+### 2030305
+**Bob's Burgers S04E02 - Fort Night**  
+TV-14 🔓 21:33  
+⌛ November 29, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/fort-night  
+seriesid=`2003422` titleid=`2030305` id=`pgZGJHhBSiiiY1E3pl_GCw` mediaid=`dbcf8d8506e797ca8b6c07e9952277eb13915020`  
+_Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187081051505.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187081051505.jpg" height="144px" /></a>
