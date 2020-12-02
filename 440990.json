@@ -345,62 +345,6 @@
         "cma_id": "1450251"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1606885140,
-        "tms_id": "EP002960010069",
-        "rating": 6.734375,
-        "description": "Peter's father Francis (Charles Durning) pays a visit spawning a debate over religion after he finds out that Stewie hasn't been baptized. Not only does Francis force his religious views on his family but tainted holy water onto his youngest grandson as well.",
-        "title_suggest": {
-            "input": [
-                "The Father, The Son and The Holy Fonz",
-                "Father, The Son and The Holy Fonz",
-                "The Son and The Holy Fonz",
-                "Son and The Holy Fonz",
-                "and The Holy Fonz",
-                "The Holy Fonz",
-                "Holy Fonz",
-                "Fonz"
-            ]
-        },
-        "type": "episode",
-        "title": "The Father, The Son and The Holy Fonz",
-        "expiration_date": 1413008999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1303.6357,
-        "episode_number": "18",
-        "original_air_date": 1146452400,
-        "auth_launch_date": 1606280400,
-        "clip_order": null,
-        "modified": 1605861993,
-        "media_id": "3053967933119d59c5802ae54a4f99a94f06949c",
-        "airing_id": "RADS1011112000044399",
-        "id": "eWWMwbOURyCRT5Wvmyrpdw",
-        "slug": "the-father-the-son-and-the-holy-fonz",
-        "views": 255135,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152959266544415.jpg",
-        "created": 1402945465,
-        "title_id": "627753",
-        "season_number": "4",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1605861993,
-        "tags": [],
-        "rating_count": 704,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1412404200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152959266544415.jpg",
-        "cma_id": "1016995"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1601179140,
@@ -710,5 +654,59 @@
         "launch_date": 1502433000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994859092913.jpg",
         "cma_id": "1450303"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1607489940,
+        "tms_id": "EP002960010080",
+        "rating": 7.5562897,
+        "description": "A near-death experience drives Stewie to be nice; Peter's new popularity as a television commentator draws the ire of newsman Tom Tucker.",
+        "title_suggest": {
+            "input": [
+                "Stewie B. Goode",
+                "B. Goode",
+                "Goode"
+            ]
+        },
+        "type": "episode",
+        "title": "Stewie B. Goode",
+        "expiration_date": 1503208799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1303.9693,
+        "episode_number": "28",
+        "original_air_date": 1152500400,
+        "auth_launch_date": 1606885200,
+        "clip_order": null,
+        "modified": 1606471538,
+        "media_id": "e8e09f9efaee237836b2404b321a58000ce30d37",
+        "airing_id": "RADS1011252000047313",
+        "id": "yoreKCJlQvmQ3Xq-MNf-PA",
+        "slug": "stewie-b-goode",
+        "views": 1018692,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15301079924587.jpg",
+        "created": 1402945465,
+        "title_id": "615754",
+        "season_number": "4",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1606471538,
+        "tags": [
+            "Family Guy",
+            " Stewie B Goode"
+        ],
+        "rating_count": 4237,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1502604000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301079924587.jpg",
+        "cma_id": "1450447"
     }
 ]
