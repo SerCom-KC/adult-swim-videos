@@ -148,7 +148,7 @@
     },
     {
         "ott_launch_date": 1520865060,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1609909140,
         "tms_id": "EP018514630028",
         "description": "When Linda goes on a shopping spree, she winds up on the run from a zombie-like mob of homeless people that want her money.",
@@ -291,6 +291,54 @@
         "modified_by": "ODT Listener",
         "launch_date": 1606280400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15218288818828.jpg"
+    },
+    {
+        "ott_launch_date": 1522074660,
+        "auth": false,
+        "auth_expiration_date": 1593057540,
+        "tms_id": "EP018514630033",
+        "description": "Grandpa's path to moving out and starting a new life away from Mr. Pickles leads him down dangerous roads.",
+        "title_suggest": {
+            "input": [
+                "Season 3 Finale",
+                "3 Finale",
+                "Finale"
+            ]
+        },
+        "title": "Season 3 Finale",
+        "type": "episode",
+        "expiration_date": 1609909140,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 676.13,
+        "episode_number": "10",
+        "original_air_date": 1522037700,
+        "auth_launch_date": 1590033600,
+        "clip_order": null,
+        "media_id": "d376c95c41a9965e2a94454327ae5391ac0f08a3",
+        "modified": 1606461312,
+        "airing_id": "RADS1011252000047325",
+        "id": "AWJJbRujHAeP4-pUPd45",
+        "slug": "season-3-finale",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152182878693420.jpg",
+        "created": 1521650310,
+        "title_id": "2120617",
+        "tv_rating": "tv-ma-sv",
+        "season_number": "3",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1606461312,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1606885200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152182878693420.jpg"
     },
     {
         "ott_launch_date": null,
