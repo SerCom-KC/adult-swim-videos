@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 6, 2020 at 05:30:37 EST_
+_Last Update: December 6, 2020 at 06:30:37 EST_
 ## Video added
 ### Summary
-2238413 Assassination Classroom: 1  
-### 2238426
-**Assassination Classroom S01E13 - Talent Time**  
-TV-14-LV 🔒 21:29  
-⌛ December 27, 2020 at 04:59:00 EST  
-https://www.adultswim.com/videos/assassination-classroom/talent-time  
-seriesid=`2238413` titleid=`2238426` id=`AXYZnK2TQJ_4Uej5kTc0` mediaid=`7cbb660155cd5a765e3845f842d2d182843ee688`  
-_Jolly Mr. Takaoka comes to assist Mr. Karasuma with training, but his unconventional methods have everyone upset. Nagisa reveals a hidden talent._  
-<a href="https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_20121121564-AssassinationClass_113.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_20121121564-AssassinationClass_113.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177749
+**Naruto: Shippuden S06E37 - Run, Omoi!**  
+TV-PG-L 🔒 21:50  
+⌛ March 21, 2021 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/run-omoi  
+seriesid=`812206` titleid=`2177749` id=`AXYZnLgsQJ_4Uej5kTc1` mediaid=`804c395f32893b6c00f75f77a1650bcbcf0d0383`  
+_The Allied Forces receive a report that Omoi has deserted his post, much to the Raikage's shock._  
+<a href="https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_20124197143-NarutoShippuden_320_RunOmoi.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_20124197143-NarutoShippuden_320_RunOmoi.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
