@@ -149,66 +149,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1607403540,
-        "tms_id": "EP002960010078",
-        "rating": 8.215575,
-        "description": "When burglars break into the Griffin's house, Peter guides his wife and kids up to a panic room in the attic.  Fearing that he might not survive the ordeal, Peter recounts the tale of the Griffin family history, from early man all the way up to World War II Germany.",
-        "title_suggest": {
-            "input": [
-                "Untitled Griffin Family History",
-                "Griffin Family History",
-                "Family History",
-                "History"
-            ]
-        },
-        "type": "episode",
-        "title": "Untitled Griffin Family History",
-        "expiration_date": 1503206999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1303.2353,
-        "episode_number": "27",
-        "original_air_date": 1151895600,
-        "clip_order": null,
-        "auth_launch_date": 1606798800,
-        "modified": 1606387276,
-        "media_id": "d5fac6142342944e33216415e14d6406f4724e81",
-        "airing_id": "RADS1011252000047293",
-        "id": "AlpXx4XxRCGiVqj9yrEd8A",
-        "slug": "untitled-griffin-family-history",
-        "views": 314417,
-        "created": 1402945465,
-        "title_id": "638930",
-        "season_number": "4",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "published": 1606387276,
-        "tags": [
-            "family guy",
-            "untitled griffin family history",
-            "burglar",
-            "break",
-            "griffin",
-            "peter",
-            "panic room",
-            "fear",
-            "survive",
-            "world war 2",
-            "world war ii",
-            "germany"
-        ],
-        "rating_count": 886,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502602200,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2182074880157903926.jpg",
-        "cma_id": "1450489"
-    },
-    {
-        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1607749140,
         "tms_id": "EP002960010085",
@@ -620,6 +560,57 @@
         "launch_date": 1502865000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151726342463517.jpg",
         "cma_id": "1455080"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1608008340,
+        "tms_id": "EP002960010089",
+        "rating": 7.724138,
+        "description": "Peter learns the joys of the \"chick flick\" after Lois forces him to go see the movie \"Autumn's Piano.\" Inspired by this film, he decides to make a movie of his own starring his friends and family.\r\nAfter years of not seeing his old flame Olivia, Stewie attempts to attempts to act older in order to gain her affection.  He wins her over, but their relationship is strained after marriage and the presence of another man.",
+        "title_suggest": {
+            "input": [
+                "Chick Cancer",
+                "Cancer"
+            ]
+        },
+        "type": "episode",
+        "title": "Chick Cancer",
+        "expiration_date": 1503728999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1292.492,
+        "episode_number": "7",
+        "original_air_date": 1165809600,
+        "clip_order": null,
+        "auth_launch_date": 1607403600,
+        "modified": 1607139772,
+        "media_id": "323acc067b8f8f9fb4fe189738e7023e5cd316fa",
+        "airing_id": "RADS1012042000050496",
+        "id": "k3HRhIwKQuiEUOkWbAHbVQ",
+        "slug": "chick-cancer",
+        "views": 557605,
+        "thumbnail": "",
+        "created": 1402945465,
+        "title_id": "652322",
+        "season_number": "5",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1607139772,
+        "tags": [
+            "family guy episode 502 chick cancer flick movie stewie olivia marriage not your fault"
+        ],
+        "rating_count": 1131,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503124200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_3513190722694857554.jpg",
+        "cma_id": "1455204"
     },
     {
         "auth": true,
