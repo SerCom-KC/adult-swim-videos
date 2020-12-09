@@ -154,56 +154,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1478532540,
-        "auth_expiration_date": 1607489940,
-        "tms_id": "EP014135410026",
-        "description": "A Q4 analysis.",
-        "title_suggest": {
-            "input": [
-                "Work"
-            ]
-        },
-        "title": "Work",
-        "type": "episode",
-        "expiration_date": 1604465940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-        "duration": 668.0667334,
-        "episode_number": "3",
-        "original_air_date": 1478595600,
-        "clip_order": null,
-        "auth_launch_date": 1604466000,
-        "modified": 1604148218,
-        "airing_id": "RADS1009252000029448",
-        "media_id": "88a43588a2ece09fe7c5357e3969c1bceeb0ad91",
-        "id": "5dSygUxvRravogCwSabK4g",
-        "slug": "work",
-        "views": 6713,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121341567-offtheair_603_dup-20161103.jpg",
-        "created": 1478534276,
-        "season_number": "6",
-        "title_id": "2087833",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1604148218,
-        "first_published": 1478534276,
-        "tags": [],
-        "collection_title": "Off The Air",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1601438400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341567-offtheair_603_dup-20161103.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1608699540,
         "tms_id": "EP014135410029",
@@ -344,6 +294,53 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP014135410038",
+        "description": "It's all around you.",
+        "title_suggest": {
+            "input": [
+                "Fire"
+            ]
+        },
+        "title": "Fire",
+        "expiration_date": 1610513940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 681.47,
+        "episode_number": "3",
+        "original_air_date": 1574758800,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "a28dd0dfaa7a97951d58b3a51983c1577b049fc9",
+        "modified": 1607145061,
+        "airing_id": "RADS1012042000050538",
+        "slug": "fire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/1_19112117860-offtheair_903_dup-20191121.jpg",
+        "created": 1574374080,
+        "season_number": "9",
+        "title_id": "2199313",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1607145061,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1607490000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg",
+        "id": "AW6QAf5z1YiBSfg0KYx3",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1609909140,
@@ -435,7 +432,7 @@
         "launch_date": 1604466000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121345532-offtheair_801_dup-20180524.jpg",
         "id": "AWOsTXDmTdxzjxdCmJ6m",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1535466540,
