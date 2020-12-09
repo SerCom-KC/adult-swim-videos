@@ -1,6 +1,56 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1447784160,
+        "auth_expiration_date": 1579064340,
+        "tms_id": "EP008994530019",
+        "rating": 7.523686,
+        "description": "The Mayor and Roy Teppert have a disagreement as Tom looks on.",
+        "title_suggest": {
+            "input": [
+                "Pepperoni"
+            ]
+        },
+        "type": "episode",
+        "title": "Pepperoni",
+        "expiration_date": 1610513940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 701.6,
+        "episode_number": "9",
+        "original_air_date": 1200892500,
+        "clip_order": null,
+        "auth_launch_date": 1576040400,
+        "modified": 1607143441,
+        "media_id": "85dac34d129e5cd8ca8d7389c7756c962b52d420",
+        "airing_id": "RADS1012042000050528",
+        "id": "9cvLfdAlRLGBQ3e1wQTqhg",
+        "slug": "pepperoni",
+        "views": 460727,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945482,
+        "title_id": "691945",
+        "season_number": "2",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1607143441,
+        "tags": [],
+        "rating_count": 3462,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "modified_by": "ODT Listener",
+        "launch_date": 1607490000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_209_pt1-04.jpg",
+        "cma_id": "1151851"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
         "title_suggest": {
@@ -314,7 +364,7 @@
         "cma_id": "1287183"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784100,
         "auth_expiration_date": 1610513940,
         "tms_id": "EP008994530015",
@@ -572,57 +622,5 @@
         "launch_date": 1606885200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_208_pt1-02.jpg",
         "cma_id": "1313933"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783860,
-        "auth_expiration_date": 1607489940,
-        "tms_id": "EP008994530008",
-        "rating": 6.720391,
-        "description": "Tim and Eric are late in delivering the episode to the Network and must rely on Hamburger Taxi to get the tape there on time. \r\n(John C. Reilly, Neil Hamburger, Al Yankovic guest star)",
-        "title_suggest": {
-            "input": [
-                "Hamburger"
-            ]
-        },
-        "type": "episode",
-        "title": "Hamburger",
-        "expiration_date": 1604465940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 683.006,
-        "episode_number": "8",
-        "original_air_date": 1176090300,
-        "clip_order": null,
-        "auth_launch_date": 1604466000,
-        "modified": 1604148851,
-        "media_id": "0dad6dd0fe7e0d1c675b384a269f2eb0d92a2a35",
-        "airing_id": "RADS1009252000029462",
-        "id": "wdXtFjTgQF6RoWyWD980lQ",
-        "slug": "hamburger",
-        "views": 387206,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945481,
-        "title_id": "661595",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1604148851,
-        "tags": [
-            "tim eric awesome show great job episode 8 hamburger late delivery network taxi john c reilly neil weird al yankovic"
-        ],
-        "rating_count": 3276,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "modified_by": "ODT Listener",
-        "launch_date": 1601438400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/timanderic_cc_108_pt2-04.jpg",
-        "cma_id": "661595"
     }
 ]
