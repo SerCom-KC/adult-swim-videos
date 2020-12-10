@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1452099600,
         "auth_expiration_date": 1610600340,
         "tms_id": "SH019881990000",
@@ -47,6 +47,55 @@
         "launch_date": 1604552400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/toes/tebs_cc_102_pt1_1.jpg",
         "cma_id": "2024896"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447785660,
+        "auth_expiration_date": 1602129540,
+        "tms_id": "EP019881990007",
+        "description": "Drawn in by the comic stylings of Jonathan Terp, Jordan enrolls in the Be a Baby program only to find out that babies don't use DVDs.",
+        "title_suggest": {
+            "input": [
+                "Baby"
+            ]
+        },
+        "expiration_date": 1610600340,
+        "title": "Baby",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 675.24,
+        "episode_number": "7",
+        "original_air_date": 1414728900,
+        "clip_order": null,
+        "auth_launch_date": 1599105600,
+        "modified": 1607151526,
+        "media_id": "daedc114605f7a7fa590053858ff00f34ccfca69",
+        "airing_id": "RADS1012042000050581",
+        "id": "A02MMjcAR1uhCXzQxHGvoQ",
+        "slug": "baby",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15308257625795.jpg",
+        "created": 1410544959,
+        "season_number": "1",
+        "title_id": "2024899",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1607151526,
+        "first_published": 1414430426,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1607576400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308257625795.jpg",
+        "cma_id": "1156507"
     },
     {
         "ott_launch_date": null,
@@ -396,56 +445,6 @@
         "launch_date": 1602129600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/squat/tebs_303_dup-20170920.jpg",
         "cma_id": "1481136"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1506349740,
-        "auth_expiration_date": 1607576340,
-        "tms_id": "EP019881990012",
-        "description": "Will is assigned a sleep therapist to help him stay alert on the job.",
-        "title_suggest": {
-            "input": [
-                "The Demotion",
-                "Demotion"
-            ]
-        },
-        "title": "The Demotion",
-        "type": "episode",
-        "expiration_date": 1604552340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 675.2919099,
-        "episode_number": "4",
-        "original_air_date": 1506312000,
-        "clip_order": null,
-        "auth_launch_date": 1604552400,
-        "modified": 1604199875,
-        "media_id": "b9ac230b42052db940f93e7e3f69ca2112739915",
-        "airing_id": "RADS1009252000029474",
-        "id": "QMrJj7JJQRC7uxvDFclGSw",
-        "slug": "the-demotion",
-        "views": 4159,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1506067821,
-        "title_id": "2133107",
-        "tv_rating": "tv-ma-ls",
-        "season_number": "2",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1604199875,
-        "first_published": 1506067821,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1601524800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-demotion/tebs_304_dup-20170919.jpg",
-        "cma_id": "1480947"
     },
     {
         "auth": false,
