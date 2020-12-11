@@ -1,117 +1,6 @@
 {
-    "updated": 1607715035,
-    "added": [],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": 1448989020,
-            "auth_expiration_date": 1545195540,
-            "tms_id": "EP023142130003",
-            "description": "Neon Joe takes extreme measures to help Sheriff deal with his past.",
-            "title_suggest": {
-                "input": [
-                    "Bark Bark Yum Yum",
-                    "Bark Yum Yum",
-                    "Yum Yum",
-                    "Yum"
-                ]
-            },
-            "title": "Bark Bark Yum Yum",
-            "type": "episode",
-            "expiration_date": 1608177540,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "_NeOfFU6TgWVR4BIUhAv4A",
-            "duration": 1345.2502085,
-            "episode_number": "3",
-            "original_air_date": 1449723600,
-            "clip_order": null,
-            "auth_launch_date": 1542171600,
-            "modified": 1603178528,
-            "media_id": "04feb19ce3c42c5ec93a1f37fead29e7acbadd6c",
-            "airing_id": "RADS1010172000036570",
-            "id": "OCyKfzcPRy6G9FAebeOA7A",
-            "slug": "bark-bark-yum-yum",
-            "views": 12398,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121144448-neonjoe_103_dup-20150930.jpg",
-            "created": 1448989055,
-            "season_number": "1",
-            "title_id": "2073008",
-            "tv_rating": "tv-14-dls",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1603178528,
-            "first_published": 1448989055,
-            "tags": [],
-            "collection_title": "Neon Joe",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1603598400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144448-neonjoe_103_dup-20150930.jpg",
-            "cma_id": "1477309",
-            "collection_slug": "neon-joe",
-            "collection_title_id": "2073005",
-            "online_exclusives": false
-        },
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1600919940,
-            "tms_id": "",
-            "description": "While Tim practices for his upcoming darts championship, a beaver plagues the Beef House and only one item will lure it out.",
-            "title_suggest": {
-                "input": [
-                    "Beaver in the Beef House",
-                    "in the Beef House",
-                    "the Beef House",
-                    "Beef House",
-                    "House"
-                ]
-            },
-            "title": "Beaver in the Beef House",
-            "expiration_date": 1608181140,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AXA_fsNN3HMJfT8do8kA",
-            "duration": 675.5082,
-            "episode_number": "4",
-            "original_air_date": 1587356100,
-            "auth_launch_date": 1600315200,
-            "clip_order": null,
-            "media_id": "a24c4b30d36915a0478a8d7ec681703b6e97ace3",
-            "modified": 1604200165,
-            "airing_id": "RADS1010302000040145",
-            "slug": "beaver-in-the-beef-house",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261639344-BeefHouse_106_dup-20200106.jpg",
-            "created": 1582753178,
-            "season_number": "1",
-            "title_id": "2215453",
-            "tv_rating": "tv-ma-ls",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1604200165,
-            "tags": [],
-            "collection_title": "Beef House",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1604552400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261639344-BeefHouse_106_dup-20200106.jpg",
-            "id": "AXCDcOGs3HMJfT8do8yV",
-            "auth": false,
-            "collection_slug": "beef-house",
-            "collection_title_id": "2215447",
-            "online_exclusives": false
-        },
+    "updated": 1607729436,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1451673840,
@@ -141,7 +30,7 @@
             "original_air_date": 1041222600,
             "clip_order": null,
             "auth_launch_date": null,
-            "modified": 1604148850,
+            "modified": 1607729309,
             "media_id": "62096cd9e247e6f8df5863725f3fd32fcc6afb13",
             "airing_id": "RADS1006261900003143",
             "id": "txlx10CfRjSGghpXrlZz-g",
@@ -156,7 +45,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1604148850,
+            "published": 1607729309,
             "tags": [
                 "brak show episode 20 we ski in peace take your son to work day giant ants"
             ],
@@ -171,5 +60,6 @@
             "collection_title_id": "340531",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
