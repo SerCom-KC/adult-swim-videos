@@ -1,5 +1,57 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1608353940,
+        "tms_id": "EP002960010096",
+        "rating": 8.227728,
+        "description": "The Griffin family comes into some money after finding a rare coin under their carpet. They decide to use this windfall to open a restaurant in Quahog.  When business doesn't seem to be booming, Joe comes to the rescue by promising to make it the new local hangout for him and his friends.  \r\nPeter assumes Joe's friends would be his cop buddies, but instead it's his disabled friends that arrive, much to Peter's chagrin.",
+        "title_suggest": {
+            "input": [
+                "No Meals on Wheels",
+                "Meals on Wheels",
+                "on Wheels",
+                "Wheels"
+            ]
+        },
+        "type": "episode",
+        "title": "No Meals on Wheels",
+        "expiration_date": 1491110999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1275.3741,
+        "episode_number": "14",
+        "original_air_date": 1176087600,
+        "clip_order": null,
+        "auth_launch_date": 1607749200,
+        "modified": 1607321115,
+        "airing_id": "RADS1012042000050604",
+        "media_id": "86c9d946e857c6c72399b05b38929b82989a2977",
+        "id": "-bX2v_iwQsKG0DFLCxuUwQ",
+        "slug": "no-meals-on-wheels",
+        "views": 411717,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15438572512962.jpg",
+        "created": 1402945465,
+        "title_id": "652676",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1607321115,
+        "tags": [],
+        "rating_count": 909,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1490506200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15438572512962.jpg",
+        "cma_id": "1366457"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1601265540,
@@ -96,58 +148,6 @@
         "launch_date": 1489903200,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_61653.jpg",
         "cma_id": "1362596"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1607749140,
-        "tms_id": "EP002960010085",
-        "rating": 7.835512,
-        "description": "When Peter leaves Meg behind at the roller rink after he was supposed to pick her up, she decides to get her own car.  The family heads out to the local car lot but when Meg picks out a nice reliable sedan, Peter insists on getting her a tank.  Behind the wheel of the assault vehicle, Peter causes havoc throughout town finally ending with Joe impounding it. In order to buy a car on her own, Meg then takes a job at Superstore USA, which has just moved into Quahog.",
-        "title_suggest": {
-            "input": [
-                "Hell Comes to Quahog",
-                "Comes to Quahog",
-                "to Quahog",
-                "Quahog"
-            ]
-        },
-        "type": "episode",
-        "title": "Hell Comes to Quahog",
-        "expiration_date": 1503556199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1330.796,
-        "episode_number": "3",
-        "original_air_date": 1163390400,
-        "clip_order": null,
-        "auth_launch_date": 1607144400,
-        "modified": 1606755540,
-        "media_id": "8a27fa128662b7f1d49a5c78110b6773eef1a9c0",
-        "airing_id": "RADS1011302000047723",
-        "id": "HiaJzwKiRjaTRUFwDZ40fQ",
-        "slug": "hell-comes-to-quahog",
-        "views": 566675,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15302843966336.jpg",
-        "created": 1402945465,
-        "title_id": "638933",
-        "season_number": "5",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1606755540,
-        "tags": [],
-        "rating_count": 918,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502951400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15302843966336.jpg",
-        "cma_id": "1454050"
     },
     {
         "auth": false,
@@ -348,51 +348,6 @@
         "launch_date": 1503039600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15314127514529.jpg",
         "cma_id": "1454916"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1607749140,
-        "tms_id": "EP002960010084",
-        "rating": 8.002542,
-        "description": "Peter's mother, Thelma, comes into town announcing that she and Peter's dad are getting a divorce.  Lois takes Thelma to a Quahog singles mixer where she meets local newscaster Tom Tucker.  Their relationship flourishes but Peter has a hard time accepting the reality of having a new man in his mother's life.\r\nMeanwhile, Brian meets the manager of a radio station and is offered his own radio show.",
-        "title_suggest": {
-            "input": [
-                "Mother Tucker ",
-                "Tucker"
-            ]
-        },
-        "type": "episode",
-        "title": "Mother Tucker ",
-        "expiration_date": 1490425199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1303.9359,
-        "episode_number": "2",
-        "original_air_date": 1162180800,
-        "clip_order": null,
-        "auth_launch_date": 1607144400,
-        "modified": 1606755035,
-        "airing_id": "RADS1011302000047721",
-        "media_id": "dc5cde6691df9374e7eeaba69f69c382692fa7f0",
-        "id": "MTwesQRfTvq77TtQeK4B_Q",
-        "slug": "mother-tucker",
-        "views": 843919,
-        "created": 1402945465,
-        "title_id": "638931",
-        "season_number": "5",
-        "tv_rating": "tv-14-ds",
-        "active": false,
-        "published": 1606755035,
-        "tags": [],
-        "rating_count": 1967,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1489820400,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4944756086532748876.jpg",
-        "cma_id": "1362386"
     },
     {
         "auth": true,
@@ -680,5 +635,67 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153082492858119.jpg",
         "cma_id": "1455422"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1608353940,
+        "tms_id": "EP002960010095",
+        "rating": 8.154831,
+        "description": "After his presidential limo breaks down in front of the Griffins' house, Bill Clinton and Peter become good friends.",
+        "title_suggest": {
+            "input": [
+                "Bill and Peter's Bogus Journey",
+                "and Peter's Bogus Journey",
+                "Peter's Bogus Journey",
+                "Bogus Journey",
+                "Journey"
+            ]
+        },
+        "type": "episode",
+        "title": "Bill and Peter's Bogus Journey",
+        "expiration_date": 1504074599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1317.4828,
+        "episode_number": "13",
+        "original_air_date": 1174876200,
+        "auth_launch_date": 1607749200,
+        "clip_order": null,
+        "modified": 1607321975,
+        "media_id": "7572dd768293d8e1ba7b427e9b3aca43fe5fd1b6",
+        "airing_id": "RADS1012042000050607",
+        "id": "zVdAnkYIRIyAxPmn9h60FA",
+        "slug": "bill-and-peters-bogus-journey",
+        "views": 847558,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15438571609964.jpg",
+        "created": 1402945465,
+        "title_id": "652674",
+        "season_number": "5",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1607321975,
+        "tags": [
+            "family guy",
+            " bill and peter's bogus journey",
+            " president",
+            " limo",
+            " giffin",
+            " bill clinton",
+            " peter",
+            " friends"
+        ],
+        "rating_count": 1718,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503469800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15438571609964.jpg",
+        "cma_id": "1459964"
     }
 ]
