@@ -454,7 +454,7 @@
         "launch_date": 1606644000,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131729203-AssassinationClass_110.jpg",
         "id": "AXWJic6lLyLQBOXK_PYT",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1607248740,
@@ -548,7 +548,7 @@
         "launch_date": 1607853600,
         "poster": "https://media.cdn.adultswim.com/uploads/20201110/thumbnails/2_2011101511454-AssassinationClass_112.jpg",
         "id": "AXWzyT33bxpjZvbXYlcO",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1609063140,
@@ -593,6 +593,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_20121121564-AssassinationClass_113.jpg",
         "id": "AXYZnK2TQJ_4Uej5kTc0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1609667940,
+        "tms_id": "",
+        "description": "Koro Sensei exposes a major weakness, and Terasaka interrupts a fun summer day out with an assassination attempt that goes a little too far.",
+        "title_suggest": {
+            "input": [
+                "Vision Time",
+                "Time"
+            ]
+        },
+        "title": "Vision Time",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1290.1221,
+        "episode_number": "14",
+        "original_air_date": "1607841000",
+        "auth_launch_date": 1607853600,
+        "clip_order": null,
+        "airing_id": "RADS1012092000051592",
+        "media_id": "4db0dfd3cc05a289e8a9effbf5a834efaf9a4a73",
+        "modified": 1607540540,
+        "slug": "vision-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201201/thumbnails/1_20121121600-AssassinationClass_114.jpg",
+        "created": 1606842968,
+        "season_number": "1",
+        "title_id": "2238427",
+        "tv_rating": "tv-14-lv",
+        "published": 1607540540,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_20121121600-AssassinationClass_114.jpg",
+        "id": "AXYfTerJbxpjZvbXYlg2",
         "auth": true
     }
 ]
