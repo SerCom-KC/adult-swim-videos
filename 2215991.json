@@ -635,7 +635,7 @@
         "launch_date": 1606640400,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131732303-SAO_WoU_013.jpg",
         "id": "AXWJic6lLyLQBOXK_PYS",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1607245140,
@@ -770,6 +770,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20201203/thumbnails/2_20123929237-SAO_WoU_016.jpg",
         "id": "AXYpAgECQJ_4Uej5kTc2",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1609664340,
+        "tms_id": "EP034356920019",
+        "description": "Asuna and the others succumb to Vassago and the Chinese/Korean players. Discovering the catatonic Kirito, Vassago kicks his wheelchair over. Enraged, Klein lunges at Vassago, only to be pinned down by enemy players.",
+        "title_suggest": {
+            "input": [
+                "Prince of Hell",
+                "of Hell",
+                "Hell"
+            ]
+        },
+        "title": "Prince of Hell",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
+        "duration": 1317.7164,
+        "episode_number": "17",
+        "original_air_date": "1607837400",
+        "auth_launch_date": 1607850000,
+        "clip_order": null,
+        "airing_id": "RADS1012092000051597",
+        "media_id": "4c6fdbfa5c7f3c4db7cb24ba7f4fd1869826327a",
+        "modified": 1607541160,
+        "slug": "prince-of-hell",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201203/thumbnails/1_20123929425-SAO_WoU_017.jpg",
+        "created": 1607005784,
+        "season_number": "1",
+        "title_id": "2216008",
+        "tv_rating": "tv-14-lv",
+        "published": 1607541160,
+        "tags": [],
+        "collection_title": "Sword Art Online: Alicization - War of Underworld",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201203/thumbnails/2_20123929425-SAO_WoU_017.jpg",
+        "id": "AXYpAkoZQJ_4Uej5kTc3",
         "auth": true
     }
 ]
