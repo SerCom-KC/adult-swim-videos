@@ -436,7 +436,7 @@
         "launch_date": 1607843700,
         "poster": "https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111735131-GSMP_206_dup-20201104.jpg",
         "id": "AXW5UJxxLyLQBOXK_Pg3",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1607842740,
@@ -482,7 +482,7 @@
         "launch_date": 1607842800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111734488-GSMP_205_dup-20201103.jpg",
         "id": "AXW5UK4TLyLQBOXK_Pg4",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -1186,6 +1186,98 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_201211218485-GSMP_208.jpg",
         "id": "AXYfUGqdbxpjZvbXYlg3",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1609657140,
+        "tms_id": "EP036530620009",
+        "description": "Religions begin colliding and merging in the ground zero that is the ruins of Suicide Town. How does Makasu deal with jealousy when someone Perfect comes to save them?",
+        "title_suggest": {
+            "input": [
+                "Episode Nine: Fdim",
+                "Nine: Fdim",
+                "Fdim"
+            ]
+        },
+        "title": "Episode Nine: Fdim",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWnYBNDcHl5gR6828zAp",
+        "duration": 675.6083,
+        "episode_number": "9",
+        "original_air_date": 1607842800,
+        "auth_launch_date": 1607842800,
+        "clip_order": null,
+        "airing_id": "RADS1012092000051585",
+        "media_id": "a49204d567ca6d05907afdf06258e00f4f6fffee",
+        "modified": 1607718621,
+        "slug": "episode-nine-fdim",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201210/thumbnails/1_2012101122172-GSMP_209_dup-20201202.jpg",
+        "created": 1607535644,
+        "title_id": "2241834",
+        "season_number": "2",
+        "tv_rating": "tv-ma-l",
+        "published": 1607718621,
+        "tags": [],
+        "collection_title": "Gemusetto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201210/thumbnails/2_2012101122172-GSMP_209_dup-20201202.jpg",
+        "id": "AXZIl086QJ_4Uej5kTd3",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1609658040,
+        "tms_id": "EP036530620010",
+        "description": "Locked in their own illusory nightmares, our heroes must find a way out of The Perfect Human's torment. But how do you taunt a man who already hates himself half the time?",
+        "title_suggest": {
+            "input": [
+                "Episode Ten: F#Min7",
+                "Ten: F#Min7",
+                "F#Min7"
+            ]
+        },
+        "title": "Episode Ten: F#Min7",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWnYBNDcHl5gR6828zAp",
+        "duration": 675.6416,
+        "episode_number": "10",
+        "original_air_date": "1607843700",
+        "auth_launch_date": 1607843700,
+        "clip_order": null,
+        "airing_id": "RADS1012102000052834",
+        "media_id": "66df980803916ff4289ee03a3de43aa66d734a60",
+        "modified": 1607636081,
+        "slug": "episode-ten-f-min-7",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201210/thumbnails/1_201210112245-GSMP_210_dup-20201202.jpg",
+        "created": 1607617327,
+        "season_number": "2",
+        "title_id": "2241835",
+        "tv_rating": "tv-ma-ls",
+        "published": 1607636081,
+        "tags": [],
+        "collection_title": "Gemusetto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201210/thumbnails/2_201210112245-GSMP_210_dup-20201202.jpg",
+        "id": "AXZNdbFAQJ_4Uej5kTd9",
         "auth": true
     }
 ]
