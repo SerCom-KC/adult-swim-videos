@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446843960,
         "auth_expiration_date": 1611032340,
         "tms_id": "EP004625750005",
@@ -50,57 +50,6 @@
         "launch_date": 1604984400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351222137-harvey_005.jpg",
         "cma_id": ""
-    },
-    {
-        "ott_launch_date": 1539613860,
-        "auth": true,
-        "auth_expiration_date": 1608008340,
-        "tms_id": "",
-        "description": "It's up to Harvey Birdman to find a way to remove President Phil Ken Sebben from office before everyone starts to worry it's more than the ridiculous plot to an animated show.",
-        "title_suggest": {
-            "input": [
-                "Harvey Birdman: Attorney General",
-                "Birdman: Attorney General",
-                "Attorney General",
-                "General"
-            ]
-        },
-        "title": "Harvey Birdman: Attorney General",
-        "expiration_date": 1604984340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 1358.97,
-        "episode_number": "",
-        "original_air_date": 1539576000,
-        "auth_launch_date": 1604984400,
-        "clip_order": null,
-        "media_id": "899e7435482246c253c731d7f1a285512bd14868",
-        "modified": 1604589168,
-        "airing_id": "RADS1011042000041756",
-        "id": "AWZU86Vjh5enQuYyJHz2",
-        "slug": "harvey-birdman-attorney-general",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153920904288120.jpg",
-        "created": 1539023545,
-        "season_number": "5",
-        "title_id": "2171342",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1604589168,
-        "tags": [],
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1601956800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153920904288120.jpg"
     },
     {
         "auth": true,
@@ -153,6 +102,60 @@
         "modified_by": "ODT Listener",
         "launch_date": 1603166400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351221161-harvey_002.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446844200,
+        "auth_expiration_date": 1568174340,
+        "tms_id": "EP004625750011",
+        "rating": 9.113817,
+        "description": "When Harvey's boss Phil Ken Sebben believes his office has been burgled, he installs a series of oppressive security measures at the firm.  The email monitoring, cavity searches, color-coded crime alert system and security cameras aren't making the office any more safe, but Phil seems to enjoy them.  Meanwhile, Harvey is under pressure to bring in a new client.  He ends up representing Secret Squirrel, who is on trial for publicly displaying the equipment he keeps underneath his trench coat.",
+        "title_suggest": {
+            "input": [
+                "Blackwatch Plaid",
+                "Plaid"
+            ]
+        },
+        "type": "episode",
+        "title": "Blackwatch Plaid",
+        "expiration_date": 1611032340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 696.27,
+        "episode_number": "1",
+        "original_air_date": 1072933200,
+        "clip_order": null,
+        "auth_launch_date": 1565150400,
+        "modified": 1607724755,
+        "media_id": "3c894f47c8cc548ab0fc906acd8b5ee4de916b4c",
+        "airing_id": "RADS1012112000053259",
+        "id": "DY_b5WK7QJehcU6TBFQa8Q",
+        "slug": "blackwatch-plaid",
+        "views": 321894,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035142345-harvey_015.jpg",
+        "created": 1402945467,
+        "title_id": "449206",
+        "season_number": "2",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1607724755,
+        "tags": [
+            "harvey birdman episode attorney at law 15 blackwatch plaid patriot act security secret squirrel"
+        ],
+        "rating_count": 984,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1608008400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035142345-harvey_015.jpg",
         "cma_id": ""
     },
     {
