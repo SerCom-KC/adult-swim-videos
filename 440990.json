@@ -165,6 +165,52 @@
         "cma_id": "1480726"
     },
     {
+        "auth": true,
+        "auth_expiration_date": 1608613140,
+        "tms_id": "EP002960010100",
+        "rating": 8.281001,
+        "description": "When Peter bumps into Death at The Drunken Clam one evening, he gets nostalgic about what it would be like to relive his life as an 18-year old.  Death grants him this wish and Peter and Brian are sent back to 1984 where they meet up with Cleveland, Quagmire, Joe and Lois in hip 80's styles. While visiting the past, Peter screws up his present day, now married to Molly Ringwald while Lois has a family with Quagmire.",
+        "title_suggest": {
+            "input": [
+                "Meet the Quagmires",
+                "the Quagmires",
+                "Quagmires"
+            ]
+        },
+        "type": "episode",
+        "title": "Meet the Quagmires",
+        "expiration_date": 1504249199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1309.9753,
+        "episode_number": "18",
+        "original_air_date": 1181530800,
+        "clip_order": null,
+        "auth_launch_date": 1608008400,
+        "modified": 1607724756,
+        "media_id": "e9adfac188bb7ced52f668c3845b06e69bda80d4",
+        "airing_id": "RADS1012112000053250",
+        "id": "5rx_3RcsQqOwL-_PcLQohQ",
+        "slug": "meet-the-quagmires",
+        "views": 385449,
+        "created": 1402945465,
+        "title_id": "652682",
+        "season_number": "5",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "published": 1607724756,
+        "tags": [],
+        "rating_count": 879,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503644400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2476433855308777022.jpg",
+        "cma_id": "1459598"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1601611140,
@@ -548,57 +594,6 @@
         "launch_date": 1490682600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154514999800016.jpg",
         "cma_id": "1367756"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1608008340,
-        "tms_id": "EP002960010089",
-        "rating": 7.724138,
-        "description": "Peter learns the joys of the \"chick flick\" after Lois forces him to go see the movie \"Autumn's Piano.\" Inspired by this film, he decides to make a movie of his own starring his friends and family.\r\nAfter years of not seeing his old flame Olivia, Stewie attempts to attempts to act older in order to gain her affection.  He wins her over, but their relationship is strained after marriage and the presence of another man.",
-        "title_suggest": {
-            "input": [
-                "Chick Cancer",
-                "Cancer"
-            ]
-        },
-        "type": "episode",
-        "title": "Chick Cancer",
-        "expiration_date": 1503728999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1292.492,
-        "episode_number": "7",
-        "original_air_date": 1165809600,
-        "clip_order": null,
-        "auth_launch_date": 1607403600,
-        "modified": 1607139772,
-        "media_id": "323acc067b8f8f9fb4fe189738e7023e5cd316fa",
-        "airing_id": "RADS1012042000050496",
-        "id": "k3HRhIwKQuiEUOkWbAHbVQ",
-        "slug": "chick-cancer",
-        "views": 557605,
-        "thumbnail": "",
-        "created": 1402945465,
-        "title_id": "652322",
-        "season_number": "5",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1607139772,
-        "tags": [
-            "family guy episode 502 chick cancer flick movie stewie olivia marriage not your fault"
-        ],
-        "rating_count": 1131,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503124200,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_3513190722694857554.jpg",
-        "cma_id": "1455204"
     },
     {
         "auth": true,
