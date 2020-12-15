@@ -49,57 +49,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1608008340,
-        "tms_id": "EP027786570027",
-        "description": "Docu-series profiling American ingenuity.",
-        "title_suggest": {
-            "input": [
-                "Innovation Makers: The Coyote Suit",
-                "Makers: The Coyote Suit",
-                "The Coyote Suit",
-                "Coyote Suit",
-                "Suit"
-            ]
-        },
-        "expiration_date": 1604984340,
-        "type": "episode",
-        "title": "Innovation Makers: The Coyote Suit",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 702.5,
-        "episode_number": "3",
-        "original_air_date": 1513069200,
-        "auth_launch_date": 1604984400,
-        "clip_order": null,
-        "media_id": "5b353baa4104b2f1bb3472287e4114a7ab8b721e",
-        "modified": 1604589169,
-        "airing_id": "RADS1011042000041753",
-        "slug": "innovation-makers-the-coyote-suit",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15143258616671.png",
-        "created": 1513362575,
-        "season_number": "7",
-        "title_id": "2134723",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1604589169,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1602561600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15143258616671.png",
-        "id": "AWBbcE9HwdpKFAKSb4fy",
-        "auth": true
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1609217940,
@@ -255,7 +204,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1611032340,
         "tms_id": "",
         "description": "A carrot takes a dark and surprising journey as it makes its way from a country farm to an upscale restaurant. Food this fresh comes at a cost.",

@@ -680,64 +680,6 @@
     {
         "ott_launch_date": 1524493800,
         "auth": true,
-        "auth_expiration_date": 1608008340,
-        "tms_id": "EP029156490005",
-        "description": "When a stinky stalker torments The Leptons, they enlist the help of a former foe.",
-        "title_suggest": {
-            "input": [
-                "Breathe Deep to Win! Teamwork Cuts Through the Foul Odor of Obsession!",
-                "Deep to Win! Teamwork Cuts Through the Foul Odor of Obsession!",
-                "to Win! Teamwork Cuts Through the Foul Odor of Obsession!",
-                "Win! Teamwork Cuts Through the Foul Odor of Obsession!",
-                "Teamwork Cuts Through the Foul Odor of Obsession!",
-                "Cuts Through the Foul Odor of Obsession!",
-                "Through the Foul Odor of Obsession!",
-                "the Foul Odor of Obsession!",
-                "Foul Odor of Obsession!",
-                "Odor of Obsession!",
-                "of Obsession!",
-                "Obsession!"
-            ]
-        },
-        "expiration_date": 1604984340,
-        "type": "episode",
-        "title": "Breathe Deep to Win! Teamwork Cuts Through the Foul Odor of Obsession!",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWHiPblUNWyh42wYnlGd",
-        "duration": 676.58,
-        "episode_number": "5",
-        "original_air_date": 1524456000,
-        "auth_launch_date": 1604984400,
-        "clip_order": null,
-        "media_id": "18318a08f4379a32ea2a303725ab49275abac887",
-        "modified": 1604587926,
-        "airing_id": "RADS1010022000032576",
-        "id": "AWLVfa4RTdxzjxdCldaU",
-        "slug": "breathe-deep-to-win-teamwork-cuts-through-the-foul-odor-of-obsession",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15240001959542.jpg",
-        "created": 1524000206,
-        "season_number": "1",
-        "title_id": "2137898",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1604587926,
-        "tags": [],
-        "collection_title": "Ballmastrz: 9009",
-        "modified_by": "ODT Listener",
-        "launch_date": 1601956800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240001959542.jpg"
-    },
-    {
-        "ott_launch_date": 1524493800,
-        "auth": true,
         "auth_expiration_date": 1608613140,
         "tms_id": "EP029156490006",
         "description": "A search for lucrative sports memorabilia leads Ace, Gaz, and Babyball to the lair of an Ulsa Guerin wise guy.",
@@ -1017,7 +959,7 @@
         "launch_date": 1604984400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15252863563732.jpg",
         "id": "AWMg8HU5HAeP4-pUPe0Y",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
