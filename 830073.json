@@ -341,6 +341,53 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Watch, rinse, repeat.",
+        "title_suggest": {
+            "input": [
+                "Patterns"
+            ]
+        },
+        "title": "Patterns",
+        "expiration_date": 1611118740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 681,
+        "episode_number": "4",
+        "original_air_date": 1577782800,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "405969393beaeacf6a315ea92aeaa9bb135115fd",
+        "modified": 1607730219,
+        "airing_id": "RADS1012112000053381",
+        "slug": "patterns",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191220/thumbnails/1_1912201138493-offtheair_904_dup-20191220.jpg",
+        "created": 1576859965,
+        "season_number": "9",
+        "title_id": "2199314",
+        "tv_rating": "tv-pg",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1607730219,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1608094800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg",
+        "id": "AW8kLZlAGRcVO2K2pl_H",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1609909140,
@@ -480,7 +527,7 @@
         "launch_date": 1605070800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121346123-offtheair_802_dup-20180821.jpg",
         "id": "AWVY_2rSh5enQuYyHe8n",
-        "auth": false
+        "auth": true
     },
     {
         "auth": false,
@@ -1290,56 +1337,6 @@
         "launch_date": 1542949200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121326246-offtheair_203A_dup-20141029.jpg",
         "cma_id": "1028960"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1485876600,
-        "auth_expiration_date": 1608094740,
-        "tms_id": "EP014135410028",
-        "description": "Now with 50 percent less meaning!",
-        "title_suggest": {
-            "input": [
-                "Words"
-            ]
-        },
-        "title": "Words",
-        "type": "episode",
-        "expiration_date": 1605070740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-        "duration": 668.7674341,
-        "episode_number": "4",
-        "original_air_date": 1485853200,
-        "clip_order": null,
-        "auth_launch_date": 1605070800,
-        "modified": 1604647904,
-        "airing_id": "RADS1010022000032620",
-        "media_id": "33483019ea53739ccc3290310551bfe1f5cd48ca",
-        "id": "pg1pY249QLKbPTmZ4T9bhg",
-        "slug": "words",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121342218-offtheair_604_dup-20170127.jpg",
-        "created": 1485788475,
-        "season_number": "6",
-        "title_id": "2087834",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1604647904,
-        "first_published": 1485788475,
-        "tags": [],
-        "collection_title": "Off The Air",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1602043200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121342218-offtheair_604_dup-20170127.jpg",
-        "cma_id": ""
     },
     {
         "auth": false,
