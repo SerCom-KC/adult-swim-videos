@@ -1,7 +1,6 @@
 {
-    "updated": 1608148588,
-    "added": [],
-    "removed": [
+    "updated": 1608162582,
+    "added": [
         {
             "auth_expiration_date": 1608461940,
             "tms_id": "",
@@ -32,7 +31,7 @@
             "clip_order": null,
             "airing_id": "RADS1009032000023909",
             "media_id": "4a54f3d02e3ae791a82a59ce4e6fad7437a92c61",
-            "modified": 1605302462,
+            "modified": 1608162259,
             "slug": "the-a-rank-mission-food-fight",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200806/thumbnails/1_20861628385-narutoshippuden_309_ARankMission.jpg",
@@ -40,7 +39,7 @@
             "season_number": "6",
             "title_id": "2177738",
             "tv_rating": "tv-pg",
-            "published": 1605302462,
+            "published": 1608162259,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
@@ -53,5 +52,6 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
