@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 16, 2020 at 19:30:35 EST_
+_Last Update: December 16, 2020 at 23:00:30 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177738
-**Naruto: Shippuden S06E26 - The A-Rank Mission: Food Fight!**  
-TV-PG 🔒 21:52  
-⌛ December 20, 2020 at 05:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/the-a-rank-mission-food-fight  
-seriesid=`812206` titleid=`2177738` id=`AXPFdigeSeFB2d0c38Tf` mediaid=`4a54f3d02e3ae791a82a59ce4e6fad7437a92c61`  
-_Naruto arrives to help a team of Allied Shinobi Forces led by Karui, who are struggling against a reanimated samurai._  
-<a href="https://media.cdn.adultswim.com/uploads/20200806/thumbnails/2_20861628385-narutoshippuden_309_ARankMission.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200806/thumbnails/2_20861628385-narutoshippuden_309_ARankMission.jpg" height="144px" /></a>
+2073005 Neon Joe: 1  
+### 2073008
+**Neon Joe S01E03 - Bark Bark Yum Yum**  
+TV-14-DLS 🔓 22:25  
+⌛ December 16, 2020 at 22:59:00 EST  
+https://www.adultswim.com/videos/neon-joe/bark-bark-yum-yum  
+seriesid=`2073005` titleid=`2073008` id=`OCyKfzcPRy6G9FAebeOA7A` mediaid=`04feb19ce3c42c5ec93a1f37fead29e7acbadd6c`  
+_Neon Joe takes extreme measures to help Sheriff deal with his past._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144448-neonjoe_103_dup-20150930.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144448-neonjoe_103_dup-20150930.jpg" height="144px" /></a>
