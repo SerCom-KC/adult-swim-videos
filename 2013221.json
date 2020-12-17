@@ -50,6 +50,52 @@
     },
     {
         "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1602734340,
+        "tms_id": "EP019881990009",
+        "description": "A shady character helps Gary Royce overcome a strange addiction; for a price.",
+        "title_suggest": {
+            "input": [
+                "Sauce Boy",
+                "Boy"
+            ]
+        },
+        "title": "Sauce Boy",
+        "type": "episode",
+        "expiration_date": 1611205140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 1351.0417014,
+        "episode_number": "8",
+        "original_air_date": 1446870600,
+        "clip_order": null,
+        "auth_launch_date": 1599710400,
+        "modified": 1607761673,
+        "airing_id": "RADS1012112000053433",
+        "media_id": "04e638e8c939ea72b48370ca0f1850c6cbf89368",
+        "id": "7ZUfKlgvSbmPpgVf5UASjQ",
+        "slug": "sauce-boy",
+        "views": 4,
+        "created": 1446535220,
+        "title_id": "2073345",
+        "tv_rating": "tv-14-l",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "published": 1607761673,
+        "first_published": 1446535220,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "modified_by": "ODT Listener",
+        "launch_date": 1608181200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/sauce-boy/tebs_ep201_002_KJHSaw8dsxSHe7_2.jpg",
+        "cma_id": "1132934"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447785660,
         "auth_expiration_date": 1602129540,
         "tms_id": "EP019881990007",
@@ -302,7 +348,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447785600,
         "auth_expiration_date": 1611205140,
         "tms_id": "EP019881990003",
@@ -396,55 +442,6 @@
         "launch_date": 1505746198,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/angel-man-extended-cut/tebs_305_22min_dup-20170913.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1506349740,
-        "auth_expiration_date": 1608181140,
-        "tms_id": "EP019881990015",
-        "description": "Forrest takes a gym up on their offer for a free workout.",
-        "title_suggest": {
-            "input": [
-                "Squat"
-            ]
-        },
-        "title": "Squat",
-        "type": "episode",
-        "expiration_date": 1605157140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 675.3753128,
-        "episode_number": "5",
-        "original_air_date": 1506312900,
-        "clip_order": null,
-        "auth_launch_date": 1605157200,
-        "modified": 1605290675,
-        "media_id": "5bb657368773f6908b6e9d5017368a620849f226",
-        "airing_id": "RADS1011042000041849",
-        "id": "QGTOrcOBTL60cIeQCJ6dog",
-        "slug": "squat",
-        "views": 4486,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1506100228,
-        "title_id": "2133106",
-        "tv_rating": "tv-14-dl",
-        "season_number": "2",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1605290675,
-        "first_published": 1506100228,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "modified_by": "ODT Listener",
-        "launch_date": 1602129600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/squat/tebs_303_dup-20170920.jpg",
-        "cma_id": "1481136"
     },
     {
         "auth": false,
