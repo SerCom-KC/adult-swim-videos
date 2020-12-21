@@ -194,7 +194,7 @@
         "launch_date": 1605502800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_19102215929-jojo_goldenwind_001.jpg",
         "id": "AW3038or1YiBSfg0KX7d",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -441,7 +441,7 @@
         "launch_date": 1608526800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191111/thumbnails/2_1911111613495-jojo_goldenwind_006.jpg",
         "id": "AW5cSGRl1YiBSfg0KYZC",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -595,56 +595,6 @@
         "launch_date": 1580641200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_2013940472-jojo_goldenwind_009.jpg",
         "id": "AW9r2iiJGRcVO2K2pl_P",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1608526799,
-        "tms_id": "",
-        "description": "To save his squad, Bucciarati risks all by grabbing hold of Prosciutto and hurling himself off the speeding train, only to be saved by Pesci's hook.",
-        "title_suggest": {
-            "input": [
-                "Thankful Death Part 2",
-                "Death Part 2",
-                "Part 2",
-                "2"
-            ]
-        },
-        "title": "Thankful Death Part 2",
-        "expiration_date": 1587896940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
-        "duration": 1370.1354,
-        "episode_number": "16",
-        "original_air_date": 1583046000,
-        "auth_launch_date": 1587897000,
-        "clip_order": null,
-        "media_id": "505bfd7c27a8bc0dec3e0c4a2fa885290ff09268",
-        "modified": 1592292372,
-        "airing_id": "RADS1004202000083925",
-        "slug": "thankful-death-part-2",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200211/thumbnails/1_202111013571-jojo_goldenwind_016.jpg",
-        "created": 1581434042,
-        "season_number": "4",
-        "title_id": "2193972",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1592292372,
-        "tags": [],
-        "collection_title": "JoJo's Bizarre Adventure",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1584873000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_202111013571-jojo_goldenwind_016.jpg",
-        "id": "AXA00Hiy3HMJfT8do8ck",
         "auth": true
     },
     {

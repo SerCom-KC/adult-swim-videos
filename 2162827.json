@@ -248,7 +248,7 @@
         "launch_date": 1605502800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15472229580923.jpg",
         "id": "AWgQYXYNzQU7gEG1jvbH",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1548171000,
@@ -406,22 +406,20 @@
     },
     {
         "ott_launch_date": 1549294200,
-        "auth_expiration_date": 1608526740,
+        "auth_expiration_date": 1601265540,
         "tms_id": "",
-        "description": "A fiendish murder plot lures Tigtone into the netherworld.",
+        "description": "Tigtone meets Beconka, the only adventurer to rival his skills.",
         "title_suggest": {
             "input": [
-                "Tigtone and the Cemetery of the Dead",
-                "and the Cemetery of the Dead",
-                "the Cemetery of the Dead",
-                "Cemetery of the Dead",
-                "of the Dead",
-                "the Dead",
-                "Dead"
+                "Tigtone and His Manless Match",
+                "and His Manless Match",
+                "His Manless Match",
+                "Manless Match",
+                "Match"
             ]
         },
-        "title": "Tigtone and the Cemetery of the Dead",
-        "expiration_date": 1598932799,
+        "title": "Tigtone and His Manless Match",
+        "expiration_date": 1611550740,
         "type": "episode",
         "platforms": [
             "android",
@@ -431,31 +429,31 @@
             "roku"
         ],
         "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 675.25,
-        "episode_number": "8",
-        "original_air_date": 1549257300,
-        "auth_launch_date": 1605502800,
+        "duration": 674.33,
+        "episode_number": "7",
+        "original_air_date": 1549256400,
+        "auth_launch_date": 1598932800,
         "clip_order": null,
-        "media_id": "598922087780fbf624e00bb06f6e72593efae223",
-        "modified": 1605140379,
-        "airing_id": "RADS1011112000044065",
-        "slug": "tigtone-and-the-cemetery-of-the-dead",
+        "media_id": "de93422454b65d49d414e8eac3e65c7079426df5",
+        "modified": 1608166532,
+        "airing_id": "RADS1012162000056062",
+        "slug": "tigtone-and-his-manless-match",
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154895741967918.jpg",
-        "created": 1546463337,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154895724671420.jpg",
+        "created": 1546463300,
         "season_number": "1",
-        "title_id": "2171687",
-        "tv_rating": "tv-14-v",
+        "title_id": "2171689",
+        "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1605140379,
+        "published": 1608166532,
         "tags": [],
         "collection_title": "Tigtone",
         "modified_by": "ODT Listener",
-        "launch_date": 1551083400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895741967918.jpg",
-        "id": "AWgQZd1EAScUIg8XxbiI",
-        "auth": true
+        "launch_date": 1608526800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895724671420.jpg",
+        "id": "AWgQZUzbAScUIg8XxbiH",
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -932,7 +930,7 @@
         "launch_date": 1605502800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091848488-Tigtone_202_dup-20200630.jpg",
         "id": "AXRJttADLyLQBOXK_PMo",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1608526740,
@@ -980,7 +978,7 @@
         "launch_date": 1608526800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200901/thumbnails/2_2091854137-Tigtone_204_dup-20200717.jpg",
         "id": "AXRJu8nuSeFB2d0c38ty",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1606107540,
