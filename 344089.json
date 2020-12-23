@@ -378,7 +378,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": null,
+        "auth_expiration_date": 1612328340,
         "tms_id": "EP002989350013",
         "rating": 8.626713,
         "description": "Brendon, Melissa and Jason win local filmmaker awards. In an interview for the local news, the anchor asks Brendon about his family, which triggers a sudden curiosity about his dad.",
@@ -400,10 +400,10 @@
         "episode_number": "13",
         "original_air_date": 1002508200,
         "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1605858527,
+        "auth_launch_date": 1609304400,
+        "modified": 1608760732,
         "media_id": "389bfde4dcfd8618588aa0b0079fdf20dee5f89f",
-        "airing_id": "RADS1011112000044403",
+        "airing_id": "RADS1012232000058042",
         "id": "kh0l1Hm0SDqMD2hnFyOS0w",
         "slug": "brendons-choice",
         "views": 352893,
@@ -416,7 +416,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1605858527,
+        "published": 1608760732,
         "tags": [
             "home movies brendon's choice episode 13"
         ],
