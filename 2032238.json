@@ -102,56 +102,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1608699540,
-        "tms_id": "",
-        "description": "The team goes to the grocery store.",
-        "title_suggest": {
-            "input": [
-                "Shop 'Til You Drop",
-                "'Til You Drop",
-                "You Drop",
-                "Drop"
-            ]
-        },
-        "title": "Shop 'Til You Drop",
-        "expiration_date": 1602647940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 675.8085,
-        "episode_number": "15",
-        "original_air_date": 1580101200,
-        "auth_launch_date": 1602648000,
-        "clip_order": null,
-        "media_id": "dac3c62675c2b09a8a59ba323b253a3704012663",
-        "modified": 1602538146,
-        "airing_id": "RADS1010112000034999",
-        "slug": "shop-til-you-drop",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/1_2017132621-miketysonmysteries_415.jpg",
-        "created": 1578421565,
-        "season_number": "4",
-        "title_id": "2172012",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1602538146,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1599624000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_2017132621-miketysonmysteries_415.jpg",
-        "id": "AW-BQbnfGRcVO2K2pl_t",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1609909140,
         "tms_id": "",
         "description": "Can a grieving father help his beautiful boy?",
@@ -701,7 +651,7 @@
         "cma_id": "1285880"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1614747540,
         "tms_id": "EP020020000015",
@@ -906,5 +856,54 @@
         "launch_date": 1608094800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111526260-miketysonmysteries_020.jpg",
         "cma_id": "1443099"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1517385599,
+        "tms_id": "EP020020000020",
+        "description": "Pigeon is forced to confront his past at the house by the lake.",
+        "title_suggest": {
+            "input": [
+                "Ogopogo!"
+            ]
+        },
+        "expiration_date": 1611723540,
+        "title": "Ogopogo!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 677.2919099,
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "episode_number": "10",
+        "original_air_date": 1453094100,
+        "clip_order": null,
+        "auth_launch_date": 1514361600,
+        "modified": 1608272114,
+        "media_id": "650dd6bac6baba2004bd60e40c1d6cd08a5a10e1",
+        "airing_id": "RADS1012162000056102",
+        "id": "flUIWzYXRhSj38MJo6gdAg",
+        "slug": "ogopogo",
+        "views": 3,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111526572-miketysonmysteries_018.jpg",
+        "created": 1445444011,
+        "season_number": "2",
+        "title_id": "2069742",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1608272114,
+        "first_published": 1452762619,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1608699600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111526572-miketysonmysteries_018.jpg",
+        "cma_id": "1447463"
     }
 ]
