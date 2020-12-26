@@ -2,126 +2,127 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 25, 2020 at 00:30:26 EST_
+_Last Update: December 26, 2020 at 00:30:35 EST_
 ## Video added
 ### Summary
 581006 American Dad: 3  
 2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
-### 2041476
-**American Dad S11E03 - Hayley Smith, Seal Team Six**  
-TV-14-DLV 🔒 21:13  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/hayley-smith-seal-team-six  
-seriesid=`581006` titleid=`2041476` id=`uo1Kf91lTPCZCjE4bnKkCQ` mediaid=`c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c`  
-_Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg" height="144px" /></a>
-### 2041477
-**American Dad S11E04 - N.S.A. (No Snoops Allowed)**  
+### 2041480
+**American Dad S11E06 - Kiss Kiss, Cam Cam**  
 TV-14-DLSV 🔒 21:13  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/n-s-a-no-snoops-allowed  
-seriesid=`581006` titleid=`2041477` id=`R1Isc4OiQ5OqNqz5mq_ZJg` mediaid=`d873da559ba4646a889015fd6aeb309d464a2b90`  
-_Steve goes to work with Stan and discovers the N.S.A. Hayley decides to let go of being a vegetarian and eat meat for one day._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg" height="144px" /></a>
-### 2041475
-**American Dad S11E02 - The Life Aquatic with Steve Smith**  
-TV-14-DLS 🔒 21:13  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-life-aquatic-with-steve-smith  
-seriesid=`581006` titleid=`2041475` id=`6m-aKqOzTuiKpe2ndROi_A` mediaid=`fa3d734eb2c5fa3d94b53c53e75274c723ac5905`  
-_Steve joins the high school water polo team in order to get girls. Meanwhile, Roger and Stan get a boat._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg" height="144px" /></a>
-### 2003424
-**Bob's Burgers S01E02 - Crawl Space**  
-TV-PG 🔒 21:30  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/crawl-space  
-seriesid=`2003422` titleid=`2003424` id=`7CPkiayCT7q_siDtFOqY8Q` mediaid=`3cb82ec5aa600492a3760a3298972f1c815f6e0c`  
-_When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg" height="144px" /></a>
-### 2003425
-**Bob's Burgers S01E03 - Sacred Cow**  
-TV-14 🔒 21:36  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/sacred-cow  
-seriesid=`2003422` titleid=`2003425` id=`xJmLhV5aQoOv_wp8zd_p-g` mediaid=`f89db78e609e6ac2b3578dcc90af991e20df44a1`  
-_When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob ends up treating the cow like a member of the family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg" height="144px" /></a>
-### 730919
-**Family Guy S07E02 - I Dream of Jesus**  
-TV-14-DLSV 🔒 21:46  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/i-dream-of-jesus  
-seriesid=`440990` titleid=`730919` id=`9lyTN5P_Tx24O3Vza_4Thw` mediaid=`83bbd51fa0515cdcbf11a96fee02f8eb8a5587a8`  
-_Peter rediscovers his love for the painfully annoying song, "Surfin' Bird" which drives people around him crazy; and when Peter finds Jesus in a record store, he's determined to be his new best friend._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_9168481918573286633.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_9168481918573286633.jpg" height="144px" /></a>
-### 730918
-**Family Guy S07E01 - Love Blactually**  
-TV-PG 🔒 21:43  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/love-blactually  
-seriesid=`440990` titleid=`730918` id=`ksFGudAvTOGwRsdl_c647w` mediaid=`39de6e9e13af0e2f9fea3ba4af6444c491635c3f`  
-_When Stewie convinces Brian to go slow with his new girlfriend Carolyn, Cleveland moves in and steals her away; to get her back, Brian does his best to get Cleveland back together with his ex-wife._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8406498781874516737.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8406498781874516737.jpg" height="144px" /></a>
+⌛ January 1, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/kiss-kiss-cam-cam  
+seriesid=`581006` titleid=`2041480` id=`un5GKAHcTHu0l8SJPfqaCQ` mediaid=`2d71a4b54268c799ed40ce185259be6c257b4b30`  
+_Stan gets Francine baseball tickets for her birthday but is upset when they have a horrible kiss on the kiss cam. Steve and Roger head to Nevada to help clean polluted water._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg" height="144px" /></a>
+### 2041478
+**American Dad S11E05 - Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers**  
+TV-14 🔒 21:13  
+⌛ January 1, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/stan-smith-as-keanu-reeves-as-stanny-utah-in-point-breakers  
+seriesid=`581006` titleid=`2041478` id=`lhPueYEFSTGBnbn2xsc9Mg` mediaid=`19c05ab4df7f77e4458a0e6b54e8907c05994974`  
+_Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg" height="144px" /></a>
+### 2041481
+**American Dad S11E07 - The Devil Wears a Lapel Pin**  
+TV-14-DLSV 🔒 21:13  
+⌛ January 1, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-devil-wears-a-lapel-pin  
+seriesid=`581006` titleid=`2041481` id=`rR4-zIOsQj-NMJYR98be7Q` mediaid=`78c7ca28da36ab4bf33664b2de431b174238ab8e`  
+_When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg" height="144px" /></a>
+### 2003427
+**Bob's Burgers S01E05 - Hamburger Dinner Theater**  
+TV-PG 🔒 21:16  
+⌛ January 1, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/hamburger-dinner-theater  
+seriesid=`2003422` titleid=`2003427` id=`fiET6YUKQF66U8IFgneXWQ` mediaid=`e16606aaa61acf8500480a4b7bf17289cd886f57`  
+_Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg" height="144px" /></a>
+### 2003426
+**Bob's Burgers S01E04 - Sexy Dance Fighting**  
+TV-PG 🔒 21:35  
+⌛ January 1, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/sexy-dance-fighting  
+seriesid=`2003422` titleid=`2003426` id=`wN7dmv1cQrqDFRE4XCHxhw` mediaid=`b8c95a111d57ed23f37a5f9fecab0a27d5398d18`  
+_When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg" height="144px" /></a>
+### 730920
+**Family Guy S07E04 - Baby Not on Board**  
+TV-14-DLSV 🔒 21:40  
+⌛ January 1, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/baby-not-on-board  
+seriesid=`440990` titleid=`730920` id=`YeaIvqkKSnm5WB6Ax0mCmQ` mediaid=`c60e6ae43491c4b07d8c416bcb5c864c40ab77dc`  
+_When Peter gets a free gas card, the family decides to hit the road on vacation, but they accidentally leave Stewie behind; home alone, Stewie soon runs out of food and diapers, and is forced to take a job._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151810302499813.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151810302499813.jpg" height="144px" /></a>
+### 730921
+**Family Guy S07E03 - Road to Germany**  
+TV-14-DLSV 🔒 21:54  
+⌛ January 1, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/road-to-germany  
+seriesid=`440990` titleid=`730921` id=`ILsAnLVKQ4uMKE7LARqg7Q` mediaid=`1bb707a9a6b1f6377d4eb171afd306ba4ad316b7`  
+_When Mort accidentally steps into a time machine, Stewie and Brian decide to follow him; but when they learn they are in Poland on the day of the Nazi invasion, they have to find their way back home._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4600742792177837747.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_4600742792177837747.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
 581006 American Dad: 3  
-### 2171453
-**Bob's Burgers S08E13 - Cheer Up Sleepy Gene**  
-TV-PG-LS 🔒 21:32  
-⌛ December 24, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/cheer-up-sleepy-gene  
-seriesid=`2003422` titleid=`2171453` id=`AWgadw-5zQU7gEG1jvbO` mediaid=`7bffedf6688752ff36c70895ca2b2c1a3d068118`  
-_Gene gets invited to his first sleepover and is nervous about it, and when things don't go as planned, he realizes he had a right to be. Meanwhile, Bob and Linda record themselves while sleeping to prove which of them snores more._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg" height="144px" /></a>
-### 2171454
-**Bob's Burgers S08E14 - The Trouble with Doubles**  
-TV-14-LV 🔒 21:32  
-⌛ December 24, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-trouble-with-doubles  
-seriesid=`2003422` titleid=`2171454` id=`AWlyQ4jeHl5gR6828yz8` mediaid=`20482d36e5c5a76dd4b07eff922456c22b1d7d53`  
-_Bob and Linda's double date plans take a disastrous turn when the couples find themselves trapped inside an Escape Room. Meanwhile, Louise hosts a zombie-movie night, but when the zombies turn out to be too scary, Tina must take charge._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg" height="144px" /></a>
-### 666744
-**Family Guy S06E04 - Stewie Kills Lois**  
-TV-14-DLSV 🔒 21:52  
-⌛ December 24, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/stewie-kills-lois  
-seriesid=`440990` titleid=`666744` id=`_rkYJo51Q0O9Jhfsfeqp2g` mediaid=`eb668ed2edfc22150b160f2351e434da66676915`  
-_Brian surprises Lois for her birthday with two tickets for a cruise.  After Peter and Lois embark without their baby Stewie, he takes revenge by pulling off his life-long dream of killing his mother._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793535537517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793535537517.jpg" height="144px" /></a>
-### 652685
-**Family Guy S06E03 - Believe it or Not, Joe's Walking on Air**  
-TV-14-DLSV 🔒 22:07  
-⌛ December 24, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/believe-it-or-not-joes-walking-on-air  
-seriesid=`440990` titleid=`652685` id=`gJ-_FTVpROm3oWKj7UUZ_w` mediaid=`6f5c7151fe5a77829eeec95b9b04675b99f0ebb2`  
-_Doctor Hartman performs a leg transplant on Joe, giving him the ability to walk.  With his newly acquired mobility, the once crippled police officer also gains a new, more aggressive personality._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090024708216.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090024708216.jpg" height="144px" /></a>
-### 2186670
-**American Dad S14E21 - Downtown**  
-TV-14-DLV 🔒 21:02  
-⌛ December 24, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/downtown  
-seriesid=`581006` titleid=`2186670` id=`AXKUOl5bC8QgH-t19Jj7` mediaid=`55e549081cab0688a8ae30a45b1563e0944d8b76`  
-_Hayley drives Steve to a testing center in "no good" downtown but they end up stranded in a worse suburban neighborhood. Stan, Francine, and Roger mistakenly go downtown to rescue them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg" height="144px" /></a>
-### 2186671
-**American Dad S14E22 - Cheek to Cheek: A Stripper's Story**  
-TV-14-DLSV 🔒 21:02  
-⌛ December 24, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/cheek-to-cheek-a-strippers-story  
-seriesid=`581006` titleid=`2186671` id=`AXKUOra-C8QgH-t19Jj8` mediaid=`a8730522bf32d8baa5b99e4c6d385e3952b8dee6`  
-_Roger enlists Jeff as his protégé in order to open his dream chivalric strip club. Klaus moves into Steve's room._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg" height="144px" /></a>
-### 2019416
-**American Dad S10E01 - Blonde Ambition**  
-TV-14 🔒 21:01  
-⌛ December 24, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/blonde-ambition  
-seriesid=`581006` titleid=`2019416` id=`bCTt_9u2RIqanyRvylNJqw` mediaid=`ae7c4429f9a90926ee5da04b81765976f6d55a16`  
-_When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg" height="144px" /></a>
+### 2171455
+**Bob's Burgers S08E15 - Go Tina on the Mountain**  
+TV-PG-L 🔒 21:41  
+⌛ December 25, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/go-tina-on-the-mountain  
+seriesid=`2003422` titleid=`2171455` id=`AWgad-OgzQU7gEG1jvbP` mediaid=`8a20666d1f8598cd129fa16e06bfb0f56b6d4342`  
+_The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg" height="144px" /></a>
+### 2171456
+**Bob's Burgers S08E16 - Are You There Bob? It's Me Birthday**  
+TV-PG-LV 🔒 21:39  
+⌛ December 25, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/are-you-there-bob-its-me-birthday  
+seriesid=`2003422` titleid=`2171456` id=`AWgaeE-hAScUIg8Xxbmv` mediaid=`4e4692394c78f2d813c1bfa01a2eb77ea9af5270`  
+_After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15489649010681.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15489649010681.jpg" height="144px" /></a>
+### 652690
+**Family Guy S06E05 - Lois Kills Stewie**  
+TV-14-DLSV 🔒 21:40  
+⌛ December 25, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/lois-kills-stewie  
+seriesid=`440990` titleid=`652690` id=`THavBGoDSkCYkzs2kz9TtA` mediaid=`3dff7e45a0dee0ebf88a69dc1a1bd6eeb1587477`  
+_After Stewie shot his mother in cold blood on the deck of the cruise ship, Lois returned to Quahog, entering the courtroom just before Peter was sentenced to life in prison.  
+Stewie escapes the courtroom and along with his hostage Brian, he moves forward with his diabolical plans to take over the world.  The only person in the world who can stop him is his mother, Lois._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090030440813.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090030440813.jpg" height="144px" /></a>
+### 663588
+**Family Guy S06E06 - Padre de Familia**  
+TV-14-DLSV 🔒 21:48  
+⌛ December 25, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/padre-de-familia  
+seriesid=`440990` titleid=`663588` id=`giCom3yGQOaCez2NgModEw` mediaid=`4dfc4fcc63329156fd30cfec7d47f8baa3580466`  
+_Peter finds out that his mother gave birth to him in Mexico years ago and because she never got him a U.S. birth certificate, it turns out that he is an illegal immigrant.  Peter is let go from his job at the brewery and because of his lack of citizenship, cannot find any work. Lois's father Carter steps in and helps the family, giving Peter a job working on his property.  Peter learns the difficulties of being an illegal immigrant living in the United States._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2011378066804950814.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2011378066804950814.jpg" height="144px" /></a>
+### 2019417
+**American Dad S10E02 - CIAPOW**  
+TV-14 🔒 21:02  
+⌛ December 25, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/ciapow  
+seriesid=`581006` titleid=`2019417` id=`J2yASXnmQXC3fGXJHQOU7g` mediaid=`6ecfc892cd6e3da64fdba07d16892dbf3d156ae0`  
+_When Bullock sends a drone to do the job Stan and his colleagues are supposed to do, Stan is determined to prove that humans are better than robots. Meanwhile, Francine and the rest of the family participate in a slow motion race in the living room._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg" height="144px" /></a>
+### 2019420
+**American Dad S10E03 - Scents and Sensei-bility**  
+TV-14 🔒 21:02  
+⌛ December 25, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/scents-and-sensei-bility  
+seriesid=`581006` titleid=`2019420` id=`TBFgQoSBRUKm2eDTb1QWmQ` mediaid=`5d7a0ed7dfe5a7dcdb86c6f949e0dfbddc4dbc44`  
+_Steve and Snot are fed up with being bullied. When they enroll in a karate class, Snot is brainwashed by the sensei and it's Steve’s mission to get him back. Meanwhile, Klaus develops a horrible odor and is forced to be an outside pet._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202795336366.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202795336366.jpg" height="144px" /></a>
+### 2019421
+**American Dad S10E05 - Now and Gwen**  
+TV-14 🔒 21:03  
+⌛ December 25, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/now-and-gwen  
+seriesid=`581006` titleid=`2019421` id=`yl36vIIkSmiG-pCULIEgOw` mediaid=`7514ae85c990bd9a217250c8bee8e0f19a982fb4`  
+_When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg" height="144px" /></a>
