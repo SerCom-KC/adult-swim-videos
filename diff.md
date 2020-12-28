@@ -2,263 +2,222 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 28, 2020 at 00:00:35 EST_
+_Last Update: December 28, 2020 at 00:30:28 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 4  
-440990 Family Guy: 4  
-610028 The Boondocks: 7  
-### 2030319
-**Bob's Burgers S04E18 - Ambergris**  
- 🔓 21:09  
+581006 American Dad: 7  
+608360 Robot Chicken: 5  
+2162827 Tigtone: 1  
+### 2007879
+**American Dad S09E07 - Faking Bad**  
+TV-14 🔓 21:31  
 ⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/ambergris  
-seriesid=`2003422` titleid=`2030319` id=`2_qqPjdXTcSqml5VwTJidA` mediaid=`e2184ec831627b5d12dd23768803fa7a85ca109b`  
-_Gene, Louise, and Tina discover a seaweed-covered object at the beach that turns out to be a large hunk of Ambergris - an extremely valuable, but illegal, byproduct of whale poop that is used in high-end perfumes - and Louise tries to cheat Gene and Tina out of the profit she hopes to make by selling the treasure on the black market. Meanwhile, Bob and Linda deal with their psychologically unstable landlord who is building them a new bathroom._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180324497628.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180324497628.jpg" height="144px" /></a>
-### 2003430
-**Bob's Burgers S01E08 - Art Crawl**  
-TV-14 🔒 21:32  
+https://www.adultswim.com/videos/american-dad/faking-bad  
+seriesid=`581006` titleid=`2007879` id=`faIr12CSQ-GFMxkjMoX9hg` mediaid=`1262714f3a43bc9e9c62fcf1ac907f8f93d6b687`  
+_When Hayley tries to go clubbing with her old friends she is turned away at the door because she doesn't have proper ID.  Hayley convinces Steve to make a fake ID for her.  The fake ID is so good that Hayley and Steve go into business together as counterfeiters._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg" height="144px" /></a>
+### 2007880
+**American Dad S09E10 - Familyland**  
+TV-14 🔓 21:01  
 ⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/art-crawl  
-seriesid=`2003422` titleid=`2003430` id=`Cy0lgbZFSg-5BlAVxPmVlw` mediaid=`7a16bff0a13713f66441a6183cb17dd8f43d3379`  
-_When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg" height="144px" /></a>
-### 2030318
-**Bob's Burgers S04E17 - Equestranauts**  
- 🔓 21:31  
+https://www.adultswim.com/videos/american-dad/familyland  
+seriesid=`581006` titleid=`2007880` id=`dcezhE_lRuSOYiPVSQKbMA` mediaid=`584cf45cd3c3bcd1e3ffbba7501490f450a1a724`  
+_The Smith family goes to the theme park "Familyland" for vacation.  Francine wants the family to spend the day together, but the individual members go their separate ways.  Francine cries in front of a statue of the park's founder, Roy Family, and awakens Roy from a deep slumber._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923992528317.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923992528317.jpg" height="144px" /></a>
+### 2007875
+**American Dad S09E06 - Independent Movie**  
+TV-14 🔓 21:28  
 ⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/equestranauts  
-seriesid=`2003422` titleid=`2030318` id=`hPy1osc9S_W4WkpbPKsFNg` mediaid=`8ed6ad78cda195fae6b0cd973c5b071f421a4815`  
-_In homage to the “Bronies” subculture, Tina attends her first Equestra-Con, a convention based on her favorite animated pony show, “The Equestranauts.” To her surprise, she finds that the show’s fans are middle-aged men (called “Equesticles”). When a powerful super-fan tricks Tina out of her rare toy pony, it’s up to Bob to go undercover to get it back._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg" height="144px" /></a>
-### 2030320
-**Bob's Burgers S04E19 - The Kids Run Away**  
-TV-14-DLSV 🔓 21:29  
+https://www.adultswim.com/videos/american-dad/independent-movie  
+seriesid=`581006` titleid=`2007875` id=`buqUCWG2T2eDk9HkT-DMtA` mediaid=`efd81d52d37ec3a7bf41c6c94ebdaf3c9d3d4924`  
+_Snot's father dies but Snot refuses to go to the funeral.  Steve convinces Snot to take a road trip across the country to attend.  Along the way the boys experience life as an independent movie, complete with strange characters and moments of raw emotion._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg" height="144px" /></a>
+### 748219
+**American Dad S09E08 - Minstrel Krampus**  
+TV-14 🔓 21:31  
 ⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-run-away  
-seriesid=`2003422` titleid=`2030320` id=`HitQgvSzThuAVR_UfR4vrg` mediaid=`1e654ff19406e44ebbb2203b6987b21a2c10ae58`  
-_Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg" height="144px" /></a>
-### 2105384
-**Family Guy S15E05 - Chris Has Got a Date, Date, Date, Date, Date**  
-TV-14 🔓 21:39  
+https://www.adultswim.com/videos/american-dad/minstrel-krampus  
+seriesid=`581006` titleid=`748219` id=`PX1PFiPARziHCDlJ7sU-Yg` mediaid=`b99a0749bca6e7b734803d1f6a74862d942e958c`  
+_When Steve starts acting like a spoiled brat during the holidays, Stan takes him to see his incarcerated Grandpa Jack, who tells him the story of how he caught Minstrel Krampus, a legendary demon who punishes naughty children on Christmas. Stan decides that releasing Krampus is the only way to straighten out Steve's attitude. But when Krampus kidnaps Steve, it's up to Stan and Roger to get him back. Meanwhile, Hayley gets a job at the airport, but quickly realizes that she might not be cut out for customer service._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450619121245.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450619121245.jpg" height="144px" /></a>
+### 2041485
+**American Dad S11E12 - The Dentist's Wife**  
+TV-14 🔒 21:13  
 ⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/chris-has-got-a-date-date-date-date-date  
-seriesid=`440990` titleid=`2105384` id=`ZRzd_T6lRdmFQynm462NIA` mediaid=`c831e1223e1d3d8d3f31fc23979b0393a475eec4`  
-_As prom approaches, Chris is having his usual girl troubles at school. When Chris is rejected by his crush, Stewie encourages him to post a fan video asking pop star Taylor Swift to the prom._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/chris-has-got-a-date-date-date-date-date/familyguy_1402_air_cid-2YX37.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/chris-has-got-a-date-date-date-date-date/familyguy_1402_air_cid-2YX37.jpg" height="144px" /></a>
-### 2105385
-**Family Guy S15E06 - Hot Shots**  
-TV-14 🔓 21:38  
+https://www.adultswim.com/videos/american-dad/the-dentists-wife  
+seriesid=`581006` titleid=`2041485` id=`7dJmcExrRtCnDk5rixt9Xw` mediaid=`e0531106df1c5ed5955c3555f0a19df176fdf6fa`  
+_Roger loses his identity after becoming fascinated by a local dentist's wife. Meanwhile, Klaus throws a party when Stan and the kids are unable to move from being sore after working out._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg" height="144px" /></a>
+### 2041479
+**American Dad S11E11 - The Unincludeds**  
+TV-14-DLS 🔒 21:13  
 ⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/hot-shots  
-seriesid=`440990` titleid=`2105385` id=`jxToGtnESPeMTLaIVbD1mw` mediaid=`4e712b9d7d52a671a316d2ead44ae01d60f99a9c`  
-_The Griffins take Stewie to the hospital, fearing his arm may be broken. Dr. Hartman informs them that Stewie still hasn't had his vaccinations._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/hot-shots/familyguy_1403_air_cid-2YXK7.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/hot-shots/familyguy_1403_air_cid-2YXK7.jpg" height="144px" /></a>
-### 2064593
-**Family Guy S15E03 - Inside Family Guy**  
-TV-14 🔓 21:44  
+https://www.adultswim.com/videos/american-dad/the-unincludeds  
+seriesid=`581006` titleid=`2041479` id=`T0dzRensQzKclD28oo8UUw` mediaid=`e2a47c1c98de515dbe4b0543ad43bbec6202818e`  
+_Steve and Snot alter their futures when they throw a party for the uncool kids. Meanwhile, Roger is disgruntled when a waitress doesn't compliment his order and Stan and Francine go on vacation in Bosnia._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205081794.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205081794.jpg" height="144px" /></a>
+### 2007881
+**American Dad S09E09 - Vision: Impossible**  
+TV-14 🔓 21:26  
 ⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/inside-family-guy  
-seriesid=`440990` titleid=`2064593` id=`gIKRwyLRSGWVVPuboBB54Q` mediaid=`6563cf6403fdedc766d2250cc0fb934a9e2f206e`  
-_James Woods hosts a "behind the scenes" episode of Family Guy, where we observe one production week in the life of the show (if the Griffins were a real family playing themselves and shooting on a soundstage)._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/inside-family-guy/familyguy_1320_air_cid-304HP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/inside-family-guy/familyguy_1320_air_cid-304HP.jpg" height="144px" /></a>
-### 730924
-**Family Guy S07E07 - Ocean's Three and a Half**  
-TV-14 🔒 21:45  
-⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/oceans-three-and-a-half  
-seriesid=`440990` titleid=`730924` id=`iVOfpS7fQVSkr6Jac5wb3Q` mediaid=`b42236389ee9f5045ad9ed16c037a8def716ad09`  
-_After seven years of pregnancy, Bonnie gives birth to baby Susie, and Stewie immediately falls in love; but when Joe can't pay the massive hospital bill, Peter and the boys plan to rob Mr. Pewterschmidt._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15597472068751.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15597472068751.jpg" height="144px" /></a>
-### 798559
-**The Boondocks S03E07 - A Date with the Booty Warrior**  
-TV-MA 🔓 22:40  
-⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/a-date-with-the-booty-warrior  
-seriesid=`610028` titleid=`798559` id=`e7ZBS3i4R_qGXPnIWtUrdQ` mediaid=`4d8dd47bc4b5d8dcfbeea6f1c751a475c7edd29f`  
-_Having conquered his fear of prison rape, Tom volunteers to lead Huey, Riley, and some classmates on a trip to jail as part of a "Scared Stiff" program. But when a riot breaks out, Tom has to get the kids, and his delicate backside, out of jail in one piece._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136342-boondocks_308.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136342-boondocks_308.jpg" height="144px" /></a>
-### 627765
-**The Boondocks S01E05 - A Date with the Health Inspector**  
-TV-MA 🔒 20:52  
-⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/a-date-with-the-health-inspector  
-seriesid=`610028` titleid=`627765` id=`zTGhsXtATXyiOnnrgZwt0w` mediaid=`140fe7c629a76e477d406c69e573903f0cc98d32`  
-_District Attorney and law abiding citizen Tom Dubois fits the description of the elusive "X-Box Killer" and is arrested. Huey has to find the real killer, before Tom is shipped off to "real" prison where he will most assuredly be made very, very uncomfortable._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116120-boondocks_106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116120-boondocks_106.jpg" height="144px" /></a>
-### 623581
-**The Boondocks S01E04 - Granddad's Fight**  
-TV-MA 🔒 21:51  
-⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/granddads-fight  
-seriesid=`610028` titleid=`623581` id=`GC_Q8yDjTlCIIjKWhpz54A` mediaid=`db0fd7d1fcbbefd4e7371d0819af8025b10e9de1`  
-_Granddad and Colonel Stinkmeaner have a beef. One man's blind. One man's feeble. Both are really, really old.  Let "The Slugfest in Woodcrest" commence!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115532-boondocks_104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115532-boondocks_104.jpg" height="144px" /></a>
-### 623579
-**The Boondocks S01E03 - Guess Hoe's Coming to Dinner**  
-TV-MA 🔒 21:42  
-⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/guess-hoes-coming-to-dinner  
-seriesid=`610028` titleid=`623579` id=`xvcajX5DRvCk5e_OEfHlVA` mediaid=`54438afa1c60b1d299631cb81af49f7c9a0cc751`  
-_Granddad's bad luck with the ladies is about to change when he meets a very beautiful young woman. The boys disapprove when they discover that something is just "different" about her. Like the fact that she's a prostitute._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115338-boondocks_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115338-boondocks_102.jpg" height="144px" /></a>
-### 798563
-**The Boondocks S03E09 - The Lovely Ebony Brown**  
-TV-MA 🔓 22:33  
-⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/the-lovely-ebony-brown  
-seriesid=`610028` titleid=`798563` id=`Qr6Ov6UlSr6J21bhiLkfBg` mediaid=`7adfa627cb04f4dd79f9ca21928340d0b010f951`  
-_Granddad finds a Black woman so beautiful and charming not even Ruckus can hate her. Ebony Brown is perfect in every way . . . so is this the end of Granddad's long, sad, desperate search for a woman? Not if he can help it._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113775-boondocks_311.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113775-boondocks_311.jpg" height="144px" /></a>
-### 623582
-**The Boondocks S01E06 - The Real**  
-TV-MA 🔒 21:31  
-⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/the-real  
-seriesid=`610028` titleid=`623582` id=`9de12MjMSpunoy9oSLrzRw` mediaid=`d5cab8432741d609b4904e811fd4012807f27c32`  
-_While Riley's convincing two reality shows that Granddad's blind and running a homeless shelter, Huey is being shadowed by a secret government agent. But is he real?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116383-boondocks_105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116383-boondocks_105.jpg" height="144px" /></a>
-### 798560
-**The Boondocks S03E08 - The Story of Lando Freeman**  
-TV-MA 🔓 22:38  
-⌛ January 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/the-story-of-lando-freeman  
-seriesid=`610028` titleid=`798560` id=`Ak6cdNvWSx2EBxm6H7m1hQ` mediaid=`f3abd5cafe00106c106d305279fcb40ccab59d7c`  
-_There's a new handyman in the neighborhood undercutting Uncle Ruckus... which is all good for Granddad and his garden until the man claims to be his long lost son, Lando. Will Granddad take responsibility and be a father to his child? Not without a talk show paternity test..._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136502-boondocks_312.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136502-boondocks_312.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/vision-impossible  
+seriesid=`581006` titleid=`2007881` id=`5B9VjrJwSxKS16oWx4fh4w` mediaid=`70f19deec6ffce6ab87d9cdb7e3fa79b77e7240f`  
+_Roger gets into a serious car accident and wakes up from his coma to discover that he now has the ability to see the future.  He uses this ability to rescue the Smith family from dangerous situations._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079261367.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079261367.jpg" height="144px" /></a>
+### 2020471
+**Robot Chicken S07E17 - Batman Forever 21**  
+TV-MA 🔒 11:27  
+⌛ January 10, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/batman-forever-21  
+seriesid=`608360` titleid=`2020471` id=`_Ho1S1M3Qqe9B6hG9H5-BQ` mediaid=`46f548dbc3b4912ddaa4a6bcb47e1a1971016a70`  
+_From the minds of the writers, we see how Bear Grylls deal with some Wild Things, Dr. Ryan Stone calls a radio station, Brainy Smurf manipulates events in House of Smurfs, and Baloo discovers he hasn't always just been a bear in the jungle._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046125281-robotchicken_136_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046125281-robotchicken_136_dup.jpg" height="144px" /></a>
+### 2139711
+**Robot Chicken S09E17 - He's Not Even Aiming at the Toilet**  
+TV-14-DLSV 🔒 11:11  
+⌛ January 10, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/hes-not-even-aiming-at-the-toilet  
+seriesid=`608360` titleid=`2139711` id=`AWG_GDkN0KIGIdXCKrgS` mediaid=`5640653701e45345b306334201585a04ce7a7b40`  
+_Robot Chicken reviews all the Star Wars plot holes that Galen Erso helped close in Rogue One. Peppa Pig's family deal with Brexit fallout. Some swine dare to make a knock-off of the Broadway mega-hit Hamilton._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046132124-robotchicken_917_dup-20180228.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046132124-robotchicken_917_dup-20180228.jpg" height="144px" /></a>
+### 609693
+**Robot Chicken S01E02 - Nutcracker Sweet**  
+TV-MA 🔓 11:35  
+⌛ January 31, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/nutcracker-sweet  
+seriesid=`608360` titleid=`609693` id=`1zXFlqpaQFWCvSbjuGb2bA` mediaid=`39ff6c66f91ef38cdc74f3e0509f8f469de4109b`  
+_Voltron engages in an old-school dance-off in "You Got Robo-Served." The secret lives of nature's most fascinating beasts are exposed in "Secrets of the Animal Kingdom." Testicles are terrorized in "Ode to the Nut Shot."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203358-robotchicken_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203358-robotchicken_005.jpg" height="144px" /></a>
+### 2072684
+**Robot Chicken S08E17 - Secret of the Flushed Footlong**  
+TV-MA 🔒 11:22  
+⌛ January 17, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/secret-of-the-flushed-footlong  
+seriesid=`608360` titleid=`2072684` id=`F6aqAEZBQF6RAO7oVoarMw` mediaid=`2dcb5499fe572293c3a5f71224c92f0553694e86`  
+_The RC writers uncover the outtakes from Seth Green's classic Burger King commerical. Krang lies on his online dating profile. Andy's latest toy doesn't fit in with the Toy Story gang.  Huey Lewis' lost "Back to the Future" hit song._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046125661-robotchicken_817_dup-20160329.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046125661-robotchicken_817_dup-20160329.jpg" height="144px" /></a>
+### 862619
+**Robot Chicken S05E17 - The Curious Case of The Box**  
+TV-MA 🔒 11:12  
+⌛ January 17, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/the-curious-case-of-the-box  
+seriesid=`608360` titleid=`862619` id=`Z4YzL56ETUWEH5QQ_Hn1PQ` mediaid=`7f6900a7ba04f2e59043e3d31ce1034584846e83`  
+_The creators re-imagine the moment before death in Reaped, Dora the Explorer conquers Mt. Everest, God gets busted in the Garden of Eden and witness the most horrifyingly hysterical car clown crash in history._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461133256-robotchicken_097_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461133256-robotchicken_097_BIM.jpg" height="144px" /></a>
+### 2171687
+**Tigtone S01E08 - Tigtone and the Cemetery of the Dead**  
+TV-14-V 🔓 11:15  
+⌛ January 31, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/tigtone/tigtone-and-the-cemetery-of-the-dead  
+seriesid=`2162827` titleid=`2171687` id=`AWgQZd1EAScUIg8XxbiI` mediaid=`598922087780fbf624e00bb06f6e72593efae223`  
+_A fiendish murder plot lures Tigtone into the netherworld._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895741967918.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895741967918.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 4  
-2193955 JoJo's Bizarre Adventure: 1  
-440990 Family Guy: 4  
-610028 The Boondocks: 7  
-### 2030316
-**Bob's Burgers S04E14 - Uncle Teddy**  
- 🔓 21:34  
+2162827 Tigtone: 1  
+581006 American Dad: 7  
+608360 Robot Chicken: 5  
+### 2171691
+**Tigtone S01E09 - Tigtone and the Singing Blade**  
+TV-14-LV 🔒 11:09  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/uncle-teddy  
-seriesid=`2003422` titleid=`2030316` id=`6ZcfIvgnRS62_HwcBG6rmw` mediaid=`de97cd35eb93adb8713128a87cd4b280a8668594`  
-_When Bob and Linda leave town for a romantic getaway (at a Burger Convention), they ask Teddy to babysit Tina, Gene and Louise. While the parents are away, Teddy is eager to earn the coveted title of "Uncle Teddy" and does so by putting Tina's crush in his rightful place after discovering that he was just using her for - gasp - free burgers! Hijinks ensue._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg" height="144px" /></a>
-### 2171459
-**Bob's Burgers S08E19 - Mo Mommy Mo Problems**  
-TV-PG-DLV 🔒 21:38  
+https://www.adultswim.com/videos/tigtone/tigtone-and-the-singing-blade  
+seriesid=`2162827` titleid=`2171691` id=`AWi-sgeEAScUIg8Xxcy7` mediaid=`22fe0dbb8a6bc82cf7dfed34739a013a2434f187`  
+_The ballad of Tigtone and the homicidal sword, sung by the homicidal sword._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154946588079415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154946588079415.jpg" height="144px" /></a>
+### 2007873
+**American Dad S09E02 - Poltergasm**  
+TV-14 🔓 21:31  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/mo-mommy-mo-problems  
-seriesid=`2003422` titleid=`2171459` id=`AWjywFQVHl5gR6828yeS` mediaid=`18d43b0b9bcb6f90ebb3cfcc2fa51344fa05d201`  
-_The Belchers attend open houses for the free food, per Linda's "momnipotent" Mother's Day request. When Linda meets a real estate agent and agrees to a private showing, the family ends up at the helm of a real estate scheme._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155085074712611.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155085074712611.jpg" height="144px" /></a>
-### 2030313
-**Bob's Burgers S04E16 - I Get Psy-Chic Out of You**  
- 🔓 21:31  
+https://www.adultswim.com/videos/american-dad/poltergasm  
+seriesid=`581006` titleid=`2007873` id=`4fnvjYccTd6P8UAEgv1dDg` mediaid=`5a5b869ca11d32906df4ae127677bf798c0ba92c`  
+_Steve and Roger discover that the house is haunted.  The ghost appears as an apparition of a younger Francine.  The ghost grows more powerful until it attacks Hayley's boyfriend and pulls him into the netherworld._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199408743869.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199408743869.jpg" height="144px" /></a>
+### 2007878
+**American Dad S09E05 - Kung Pao Turkey**  
+TV-14-DLSV 🔓 21:20  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/i-get-psy-chic-out-of-you  
-seriesid=`2003422` titleid=`2030313` id=`PATNtAZjTY2f8wWbi5TMAQ` mediaid=`a8d3479b3a2e847c16a158f165eced4c49bbb0e4`  
-_After predicting that a telemarketer is calling the restaurant when the phone rings, Linda and the kids believe that she is a psychic. Needless to say, her "predictions" irk Bob and spell out hilarious happenings._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803240519211.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803240519211.jpg" height="144px" /></a>
-### 2030317
-**Bob's Burgers S04E15 - The Kids Rob a Train**  
-TV-PG-DL 🔓 21:29  
+https://www.adultswim.com/videos/american-dad/kung-pao-turkey  
+seriesid=`581006` titleid=`2007878` id=`AWHoN9My0KIGIdXCKz4t` mediaid=`5fe37e7111fe0e96edc326bdc3d0a010f241e38c`  
+_Stan's plan for a perfect Thanksgiving watching football in his underwear is thwarted when Francine invites her parents to join them. Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg" height="144px" /></a>
+### 2019418
+**American Dad S10E08 - My Affair Lady**  
+TV-14-DLSV 🔒 21:02  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-rob-a-train  
-seriesid=`2003422` titleid=`2030317` id=`xx3aqtTlTuuRU3V__UcHJA` mediaid=`ac5753e20556bd176c26fd56dad1f85d5cb194f6`  
-_The Belchers take a trip on a train, and to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a "taste-off" with a snobby couple._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg" height="144px" /></a>
-### 2193973
-**JoJo's Bizarre Adventure S04E17 - Babyhead**  
-TV-MA-LV 🔒 22:52  
-⌛ December 27, 2020 at 23:59:59 EST  
-https://www.adultswim.com/videos/jo-jos-bizarre-adventure/babyhead  
-seriesid=`2193955` titleid=`2193973` id=`AXCnHd0l3HMJfT8do9HN` mediaid=`fb36175057b859341aec103b6d3b9663697f2d1f`  
-_Bucciarati and crew head to Venice by car after a near-death encounter with Pesci. Unbeknownst to them, Melone from the Hitma Team has created an atomizing ancillary Stand from Bruno's blood and the body of an unsuspecting female._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341455110-jojo_goldenwind_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341455110-jojo_goldenwind_017.jpg" height="144px" /></a>
-### 809303
-**Family Guy S15E02 - American Gigg-olo**  
-TV-14 🔓 21:42  
+https://www.adultswim.com/videos/american-dad/my-affair-lady  
+seriesid=`581006` titleid=`2019418` id=`POrgCXifS1egOAx2k_iKpQ` mediaid=`654f3bde8695ff02c0de0fcc77a976c962d24ed5`  
+_Hayley gets a job and starts to fall for a co-worker. Meanwhile, Stan chauffers Steve and Francine to a Mother-Son dance. Hayley is broke and gets an office job where she meets a cute co-worker named Ax. Klaus and Roger encourage her to have sex with Ax on an office retreat. Hayley is all for it until she finds out Ax is a married man. Hayley backs out when she sees he has a tattoo of Roger. Back at home, Stan steals Francine from Steve at the school dance and tries to make it up to him by letting them dance at home._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202872927494.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202872927494.jpg" height="144px" /></a>
+### 2019424
+**American Dad S10E09 - A Star Is Reborn**  
+TV-14-DLSV 🔒 21:04  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/american-gigg-olo  
-seriesid=`440990` titleid=`809303` id=`PTZz3Wu_QX6XmxheJTHvlw` mediaid=`e5ddf8c7d3f9186d80de388efb74e6e7ce6a26ca`  
-_The pilots at the Quahog Airport are on strike, and Quagmire is worried about being able to pay his bills. When a bachelorette party mistakes him for the male stripper they hired, he decides to take it up and make some easy money._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/american-gigg-olo/familyguy_1319_air_cid-304HN.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/american-gigg-olo/familyguy_1319_air_cid-304HN.jpg" height="144px" /></a>
-### 2105383
-**Family Guy S15E04 - The Boys in the Band**  
-TV-14 🔓 21:41  
+https://www.adultswim.com/videos/american-dad/a-star-is-reborn  
+seriesid=`581006` titleid=`2019424` id=`XNC8NPgfSOmtdxmD-9o-eQ` mediaid=`5900c53eebb60298f141100237541519b405b54a`  
+_While on vacation in Los Angeles, Stan joins the world of old Hollywood._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036510818619.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036510818619.jpg" height="144px" /></a>
+### 2007872
+**American Dad S09E01 - Steve and Snot's Test-Tubular Adventure**  
+TV-14 🔓 21:30  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/the-boys-in-the-band  
-seriesid=`440990` titleid=`2105383` id=`SMnW-B9iRYahMuQhpeeoxA` mediaid=`5ac2a5f3efe6105edfe936e63ef77b151618b9b3`  
-_When Lois catches Stewie and Brian watching something inappropriate and puts on a children's music program instead, a frustrated Stewie decides to write his own baby songs with Brian.  The two form a band, "Red Shirt, Blue Shirt"._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-boys-in-the-band/familyguy_1401_air_cid-303HV.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-boys-in-the-band/familyguy_1401_air_cid-303HV.jpg" height="144px" /></a>
-### 715146
-**Family Guy S06E09 - Back to the Woods**  
-TV-14-DLSV 🔒 21:44  
+https://www.adultswim.com/videos/american-dad/steve-and-snots-test-tubular-adventure  
+seriesid=`581006` titleid=`2007872` id=`Yx2GAuIfSJKfKtQv01UbeA` mediaid=`4baf9bf26cc0dcc23f11fa97a2a3a47a684fc590`  
+_Stan reveals that the C.I.A. has a cloning machine at work.  Steve and Snot decide to use the machine to clone girls so that they will finally have prom dates._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870781061110.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870781061110.jpg" height="144px" /></a>
+### 2007874
+**American Dad S09E04 - Crotchwalkers**  
+TV-14 🔓 21:31  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/back-to-the-woods  
-seriesid=`440990` titleid=`715146` id=`eeTSLvdPQj2UJxoHEkXGYg` mediaid=`d90b0ddf9f0ccad781721f0c63f9989349f747cb`  
-_Peter's identity is stolen after he loses his wallet at a Barry Manilow concert. The thief ends up being none other than James Woods, who takes revenge on Peter for locking him in a crate without air holes. Because James has all of the necessary credentials, he assumes Peter's life and moves into the Griffin house. Peter then adopts the life of James Woods and attempts to ruin the actor's career with an appearance on late night television._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_5457170725066414122.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_5457170725066414122.jpg" height="144px" /></a>
-### 2064585
-**Family Guy S15E01 - Bookie of the Year**  
-TV-14 🔓 21:38  
+https://www.adultswim.com/videos/american-dad/crotchwalkers  
+seriesid=`581006` titleid=`2007874` id=`_6oDiwwbSUiwXn4oZ8Y1sw` mediaid=`32eaefcf4d362663efcbf89e5732c350a7d67fb5`  
+_In a desperate attempt to show Steve that she's still a "cool" mom, Francine teaches him a vast array of shoplifting techniques to try out at the local mall. When their attempt to pull off the ultimate heist at "The Gash" goes awry, Steve is captured and sent to a Venezuelan sweatshop. Meanwhile, Roger, Hayley and Klaus form Langley Falls' first Russian Balalaika trio._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg" height="144px" /></a>
+### 2007876
+**American Dad S09E03 - Buck, Wild**  
+TV-14 🔓 21:31  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/bookie-of-the-year  
-seriesid=`440990` titleid=`2064585` id=`oq3V1Qz6S72vbYy5d2nmiw` mediaid=`8094207587f62f009563245355abe2743f2f84bd`  
-_While throwing rotten apples into oncoming traffic with Peter, Chris hits the car of the coach of the James Woods High School baseball team.  Impressed with his arm, Coach Doyle asks Chris to join the team._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/bookie-of-the-year/familyguy_1310_air_cid-304HK.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/bookie-of-the-year/familyguy_1310_air_cid-304HK.jpg" height="144px" /></a>
-### 623578
-**The Boondocks S01E02 - The Trial of Robert Kelly**  
-TV-MA 🔒 21:19  
+https://www.adultswim.com/videos/american-dad/buck-wild  
+seriesid=`581006` titleid=`2007876` id=`izJAMWIQQ2KgLwdWzDy-iA` mediaid=`37e6f935c909274c8c7529d36edd850a4297e4cb`  
+_Steve is eager to prove that he's no longer a little boy, so he sets off to prove his manhood by joining Stan, Bullock, and the rest of the CIA on their annual hunting trip. Meanwhile, Roger and Klaus set off on a cross-country road trip._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078378984.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078378984.jpg" height="144px" /></a>
+### 2139709
+**Robot Chicken S09E15 - Why Is It Wet?**  
+TV-14-DLSV 🔓 11:08  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/the-trial-of-robert-kelly  
-seriesid=`610028` titleid=`623578` id=`3mT1tpgjTc-J5J7BpDS2pQ` mediaid=`044408f3a392a2c5318d44d362243c849299b3f1`  
-_When the trial of R&B star R. Kelly comes to town, Huey and Riley are on opposing sides of the hot-button "underage peeing" issue._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115150-boondocks_101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115150-boondocks_101.jpg" height="144px" /></a>
-### 798558
-**The Boondocks S03E06 - The Fund-Raiser**  
-TV-MA 🔓 22:39  
+https://www.adultswim.com/videos/robot-chicken/why-is-it-wet  
+seriesid=`608360` titleid=`2139709` id=`AWFn7tgVZ-onAnjDL8ij` mediaid=`91ec4b61a26d6cbf0a728c10bc3c0ee56a83329c`  
+_The creators of Robot Chicken revisit the POG craze for some reason. Mulan's disguise has worked too well. Rita Repulsa advertises a new use for her wand, and the Power Rangers refuse to pay the price!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461319335-robotchicken_915_dup-20180227.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461319335-robotchicken_915_dup-20180227.jpg" height="144px" /></a>
+### 2213490
+**Robot Chicken S10E17 - Gracie Purgatory in: That's How You Get Hemorrhoids**  
+TV-MA-L 🔓 11:14  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/the-fund-raiser  
-seriesid=`610028` titleid=`798558` id=`7da7T-0ETq2nxh2B7blNfw` mediaid=`6d74e35998c788705398d94f7043978c2a87cae6`  
-_Riley takes over the school candy bar hustle and floods the block with sugar. But when the competition comes looking for payback, it's all out war for control of the chocolate covered streets. Will the sweet life take Riley under?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113669-boondocks_310.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113669-boondocks_310.jpg" height="144px" /></a>
-### 798567
-**The Boondocks S03E13 - It's Goin' Down**  
-TV-MA-V 🔒 22:42  
+https://www.adultswim.com/videos/robot-chicken/gracie-purgatory-in-thats-how-you-get-hemorrhoids  
+seriesid=`608360` titleid=`2213490` id=`AXMvswKDC8QgH-t19J5a` mediaid=`3d8dd90f608d6f9fe03cb78e152ecde5f7e85237`  
+_We learn what Squidward is up to after his role on Spongebob ends. Uber has a new ride share system. Broadway will never be the same after Venom joins the cast of Hamilton. Pink Panther challenges The Black Panther for the throne._  
+<a href="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791032589-robotchicken_1017_dup-20190903.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791032589-robotchicken_1017_dup-20190903.jpg" height="144px" /></a>
+### 2020472
+**Robot Chicken S07E15 - Victoria's Secret of NIMH**  
+TV-MA 🔓 11:16  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/its-goin-down  
-seriesid=`610028` titleid=`798567` id=`E7jWMF2qTbebM5hBgbqfuA` mediaid=`b5bb4c0ee78621be7e5ae5b3a55879301286bd6c`  
-_A terror attack near Woodcrest is imminent, and domestic terrorist Huey Freeman is the main suspect. With super-agent Jack Flowers on his tail and Ed and Rummy on the loose, can anyone save the day?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321138317-boondocks_305.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321138317-boondocks_305.jpg" height="144px" /></a>
-### 798557
-**The Boondocks S03E05 - Smokin' with Cigarettes**  
-TV-MA 🔓 21:51  
+https://www.adultswim.com/videos/robot-chicken/victorias-secret-of-nimh  
+seriesid=`608360` titleid=`2020472` id=`LySatV4NS1u-f3K6HvfrpQ` mediaid=`78164f5ce5b3de7841819bc1748d45af79c488ee`  
+_From the minds of the writers, we watch as The Count from Sesame Street has a run-in with Blade, we see that McDonald's isn't just a place for eating, Jor-El has some very helpful advice for Superman, and a new nemesis comes to Gotham City._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612988-robotchicken_137_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612988-robotchicken_137_dup.jpg" height="144px" /></a>
+### 2072681
+**Robot Chicken S08E14 - Joel Hurwitz Returns**  
+TV-MA-L 🔓 11:18  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/smokin-with-cigarettes  
-seriesid=`610028` titleid=`798557` id=`EXNa5YjQR7GpSv5jb1hXXA` mediaid=`31b6a78aeb702b20b51a4f32c73d8a29b4e5ac52`  
-_If it's fun to do bad things, then Riley is having the best time ever with juvenile felon Lamilton Taeshawn. But when Lamilton wants to prove he has the "juice", the good times come to a shocking end. Will Riley "know the ledge"? Well anyone get these movie references?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135483-boondocks_309.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135483-boondocks_309.jpg" height="144px" /></a>
-### 798556
-**The Boondocks S03E04 - Stinkmeaner 3: The Hateocracy**  
-TV-MA-V 🔓 21:15  
+https://www.adultswim.com/videos/robot-chicken/joel-hurwitz-returns  
+seriesid=`608360` titleid=`2072681` id=`POiG4t_gQDS9oaotUq1Qcw` mediaid=`d766d86e48d117005adf962ac7ced27dde552cd5`  
+_The RC crew sees Daredevil wasn't the only one to lose his senses in an accident. Hogwarts doesn't teach birth control. Solid Snake gives away his position in the bathroom. The Micronauts get the greatest or worst public transportation system._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461254180-robotchicken_814_air_cid-2RJ6F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461254180-robotchicken_814_air_cid-2RJ6F.jpg" height="144px" /></a>
+### 862616
+**Robot Chicken S05E14 - Some like it Hitman**  
+TV-MA 🔓 10:51  
 ⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/stinkmeaner-3-the-hateocracy  
-seriesid=`610028` titleid=`798556` id=`JdmLFiJ9RziR3ynIw_JWbw` mediaid=`03898c609f3bd4607553a7b0135fc2fe5b5ecefa`  
-_Colonel H. Stinkmeaner had no family and no friends... but he did have a mean crew. Three of Stinkmeaner's old crew arrive in town to exact payback on the Freeman family. Is revenge a dish best served old?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135168-boondocks_307.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135168-boondocks_307.jpg" height="144px" /></a>
-### 790590
-**The Boondocks S03E?? - Pause**  
-TV-MA-L 🔓 22:24  
-⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/pause  
-seriesid=`610028` titleid=`790590` id=`ZGoaZ0VKR8qRLJP3dr9aTA` mediaid=`f407629fa51675c026d3734137e473fef2ead5ea`  
-_Granddad is cast as the leading man by mega-superstar of stage and screen, Winston Jerome. But when the theater group turns out to be a homoerotic evangelical cult, it's up to Huey and Riley to put a pause to it._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eafc3fecd017e/thumbnail_30078.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eafc3fecd017e/thumbnail_30078.jpg" height="144px" /></a>
-### 623580
-**The Boondocks S01E01 - The Garden Party**  
-TV-MA 🔒 19:56  
-⌛ December 27, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-boondocks/the-garden-party  
-seriesid=`610028` titleid=`623580` id=`o67pvs6mTvawvuC49FfYYQ` mediaid=`d3300281b4fc7be9cc620520c586e9e4e9a90151`  
-_Granddad's perpetual fear that Huey and Riley will embarrass him in front of their new neighbors reaches paranoid heights when the family attends a stuffy, high-class garden party. The good news is: only one person gets shot._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321114545-boondocks_103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321114545-boondocks_103.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/robot-chicken/some-like-it-hitman  
+seriesid=`608360` titleid=`862616` id=`knoPqeC_TsedAV5oB6kP3Q` mediaid=`45addf5aa3e0b70c18db9427f72622a905349546`  
+_Think being a witch or wizard would be fun? The creators show you what life in Hogwart's would really be like. Ever wonder why Winnie the Pooh likes honey so much? Can you say addict? Find out why Donald Duck's nephew's spend so much time with their uncle instead of their mother. All that, plus find out who's ass Tommy Tapeworm will come wriggling out of._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046113276-robotchicken_094_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046113276-robotchicken_094_BIM.jpg" height="144px" /></a>
