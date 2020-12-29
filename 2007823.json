@@ -51,57 +51,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1609217940,
-        "tms_id": "",
-        "description": "The following is a very important announcement that will affect all people of earth.",
-        "title_suggest": {
-            "input": [
-                "A Message from the Future",
-                "Message from the Future",
-                "from the Future",
-                "the Future",
-                "Future"
-            ]
-        },
-        "title": "A Message from the Future",
-        "type": "episode",
-        "expiration_date": 1606193940,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 536.8,
-        "episode_number": "1",
-        "original_air_date": 1528185600,
-        "auth_launch_date": 1606194000,
-        "clip_order": null,
-        "media_id": "ee0ed06a2a2e4036370f08f81eb65250c009df77",
-        "modified": 1605767753,
-        "airing_id": "RADS1011112000044291",
-        "id": "AWPA09W2qBveI_0AhKZG",
-        "slug": "a-message-from-the-future",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15282098449926.jpg",
-        "created": 1527948498,
-        "title_id": "2159568",
-        "tv_rating": "tv-14-dlv",
-        "season_number": "8",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1605767753,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1603166400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282098449926.jpg"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1609822740,
         "tms_id": "",
         "description": "Dreambow Entertainment Home Video presents \"Cool Dad\" and other fun fantasy-comedies for the whole family coming soon to videocassette!",
@@ -346,7 +295,7 @@
         "launch_date": 1606194000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg",
         "id": "AWeFAhMFAsbXwNj3wAaC",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1605589140,
