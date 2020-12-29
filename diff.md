@@ -2,33 +2,44 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 28, 2020 at 16:30:39 EST_
+_Last Update: December 29, 2020 at 00:00:36 EST_
 ## Video added
-No videos were added.  
+### Summary
+2022095 Black Jesus: 1  
+### 2160591
+**Black Jesus S03E10 - The Real Jesus of Compton**  
+TV-MA-L 🔓 21:38  
+⌛ February 1, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-jesus/the-real-jesus-of-compton  
+seriesid=`2022095` titleid=`2160591` id=`AW2EVGQI1YiBSfg0KXXE` mediaid=`da3fc8fc118abc8fd4a87d0b5bd89051b511dbf0`  
+_The gang talks Jesus into starring in a reality show after a sleazy producer promises them fame and fortune.  It's a disaster from start to finish, but Jesus is determined to get Pop's good word out as a result._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261719314-blackjesus_310_air_cid-3FYN7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261719314-blackjesus_310_air_cid-3FYN7.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2137894 Ballmastrz: 9009: 3  
-### 2199781
-**Ballmastrz: 9009 S02E08 - Dance Dance Convolution?! Egos Warped by the Hair Gel of Hubris! Atonement, NOW!**  
-TV-14-DLV 🔓 11:13  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/ballmastrz-9009/dance-dance-convolution-egos-warped-by-the-hair-gel-of-hubris-atonement-now  
-seriesid=`2137894` titleid=`2199781` id=`AW8U066k3HMJfT8do6gB` mediaid=`0f52a2462580bd489c58b450b7fb235f3a30cb8e`  
-_A smooth-talking manager molds Ace into a popstar and Ace-mania takes the consortium by storm._  
-<a href="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217126508-ballmastrz9009_208_dup-20191105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217126508-ballmastrz9009_208_dup-20191105.jpg" height="144px" /></a>
-### 2199782
-**Ballmastrz: 9009 S02E09 - Don't Let a Big Head Give You The Championship Blues! You Can Do It, Leptons! Try Your Best To Win!!**  
-TV-MA-V 🔓 11:15  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/ballmastrz-9009/dont-let-a-big-head-give-you-the-championship-blues-you-can-do-it-leptons-try-your-best-to-win  
-seriesid=`2137894` titleid=`2199782` id=`AW8U1ACG3HMJfT8do6gC` mediaid=`fbc5e33ecc6eef7a6406c493ea3b5677ca9ec5fe`  
-_The Leptons face their most ruthless foe yet, and Ace's selfish streak isn't helping. Tensions boil over until it's an all-out grudge match that neither team can handle._  
-<a href="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217127115-ballmastrz9009_209_dup-20191007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217127115-ballmastrz9009_209_dup-20191007.jpg" height="144px" /></a>
-### 2199783
-**Ballmastrz: 9009 S02E10 - Onward, True Blue Friends Win Eternal; Paladin of the Heavens, Start Today!**  
-TV-14-DLV 🔓 11:16  
-⌛ December 31, 2020 at 23:59:00 EST  
-https://www.adultswim.com/videos/ballmastrz-9009/onward-true-blue-friends-win-eternal-paladin-of-the-heavens-start-today  
-seriesid=`2137894` titleid=`2199783` id=`AW8U1EZEGRcVO2K2pl-S` mediaid=`4f1617420a2fc0b6a56c9ce23f6343e15f6c294a`  
-_A menacing figure from Gaz's past threatens the team's unity. Now, it will take an unprecedented threat to bring the team back together._  
-<a href="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217127266-ballmastrz9009_210_dup-20191112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217127266-ballmastrz9009_210_dup-20191112.jpg" height="144px" /></a>
+2007823 Infomercials: 1  
+2022095 Black Jesus: 1  
+2137894 Ballmastrz: 9009: 1  
+### 2159568
+**Infomercials S08E01 - A Message from the Future**  
+TV-14-DLV 🔒 08:56  
+⌛ December 28, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/infomercials/a-message-from-the-future  
+seriesid=`2007823` titleid=`2159568` id=`AWPA09W2qBveI_0AhKZG` mediaid=`ee0ed06a2a2e4036370f08f81eb65250c009df77`  
+_The following is a very important announcement that will affect all people of earth._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282098449926.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282098449926.jpg" height="144px" /></a>
+### 2160582
+**Black Jesus S03E01 - The Compton Carter**  
+TV-MA-L 🔒 22:15  
+⌛ December 28, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-jesus/the-compton-carter  
+seriesid=`2022095` titleid=`2160582` id=`AW1A19QS1YiBSfg0KW-v` mediaid=`108f76782c72c9318c00ce255db70eace9161a38`  
+_Jesus returns from jail to discover his running buddy Boonie has relocated from their old Compton Gardens apartment complex to the "New" Compton Gardens, where Lloyd is building manager._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261716121-blackjesus_301_air_cid-3GPVP.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261716121-blackjesus_301_air_cid-3GPVP.jpg" height="144px" /></a>
+### 2137897
+**Ballmastrz: 9009 S01E07 - Leather Passions! 2 Hearts, 2 Wheelz, Infinite Roadz. RIDE NOW!**  
+TV-14-DLV 🔒 11:16  
+⌛ December 28, 2020 at 23:59:00 EST  
+https://www.adultswim.com/videos/ballmastrz-9009/leather-passions-2-hearts-2-wheelz-infinite-roadz-ride-now  
+seriesid=`2137894` titleid=`2137897` id=`AWLeZsgoHAeP4-pUPee4` mediaid=`2086a66b96d6251359771006dcc70401df410208`  
+_Dee Dee ditches the team for the hunky leader of a menacing biker gang. Is Leto man enough to win her back?_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152414868765314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152414868765314.jpg" height="144px" /></a>
