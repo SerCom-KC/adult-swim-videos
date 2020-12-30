@@ -101,57 +101,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1520263860,
-        "auth": true,
-        "auth_expiration_date": 1609304340,
-        "tms_id": "EP018514630027",
-        "description": "When Mr. Goodman and his co-workers are kidnapped from Telemarketing Corp., he winds up the property of a farm owner who has a vendetta against telemarketers.",
-        "title_suggest": {
-            "input": [
-                "Telemarketers Are the Devil",
-                "Are the Devil",
-                "the Devil",
-                "Devil"
-            ]
-        },
-        "expiration_date": 1606280340,
-        "type": "episode",
-        "title": "Telemarketers Are the Devil",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 677.17,
-        "episode_number": "4",
-        "original_air_date": 1520226900,
-        "auth_launch_date": 1606280400,
-        "clip_order": null,
-        "media_id": "57268369f6dd44cbe35bd00dc73ac5542ff1ea3d",
-        "modified": 1605858526,
-        "airing_id": "RADS1010172000036512",
-        "id": "AWHToDZU0KIGIdXCKvmx",
-        "slug": "telemarketers-are-the-devil",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15196739434518.jpg",
-        "created": 1519673947,
-        "season_number": "3",
-        "title_id": "2120614",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1605858526,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1603252800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15196739434518.jpg"
-    },
-    {
         "ott_launch_date": 1521469860,
         "auth": true,
         "auth_expiration_date": 1611118740,
@@ -347,7 +296,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151974648293117.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1522074660,
         "auth_expiration_date": 1612328340,
         "tms_id": "EP018514630032",
@@ -687,5 +636,56 @@
         "launch_date": 1607490000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312115262-mrpickles_001_dup-20140909.jpg",
         "cma_id": "1430898"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447173540,
+        "auth_expiration_date": 1516867199,
+        "tms_id": "EP018514630005",
+        "description": "The Goodmans go on a family camping trip and Tommy learns the frightening legend of The Cheeseman.",
+        "title_suggest": {
+            "input": [
+                "The Cheeseman",
+                "Cheeseman"
+            ]
+        },
+        "title": "The Cheeseman",
+        "type": "episode",
+        "expiration_date": 1612328340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 676.500417,
+        "episode_number": "4",
+        "original_air_date": 1413171000,
+        "clip_order": null,
+        "auth_launch_date": 1513843200,
+        "modified": 1608881574,
+        "media_id": "178ea50828534a81d43640839904f94bb913fa2c",
+        "airing_id": "RADS1012232000058051",
+        "id": "ybYAuf3OTZaj4UksS0_MAg",
+        "slug": "the-cheeseman",
+        "views": 11,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121117414-mrpickles_004_dup-20140918.jpg",
+        "created": 1412835623,
+        "title_id": "2032505",
+        "tv_rating": "tv-ma-sv",
+        "season_number": "1",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1608881574,
+        "first_published": 1412835623,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1609304400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121117414-mrpickles_004_dup-20140918.jpg",
+        "cma_id": "1443600"
     }
 ]
