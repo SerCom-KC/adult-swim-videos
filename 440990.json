@@ -47,63 +47,6 @@
         "cma_id": "1464613"
     },
     {
-        "auth": false,
-        "auth_expiration_date": 1609390740,
-        "tms_id": "EP002960010117",
-        "rating": 8.075554,
-        "description": "The family takes Brian to the vet where Peter befriends a parrot, and Chris meets a beautiful intern named Anna.",
-        "title_suggest": {
-            "input": [
-                "Long John Peter",
-                "John Peter",
-                "Peter"
-            ]
-        },
-        "type": "episode",
-        "title": "Long John Peter",
-        "expiration_date": 1504938599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1317.95,
-        "episode_number": "12",
-        "original_air_date": 1210649400,
-        "clip_order": null,
-        "auth_launch_date": 1608786000,
-        "modified": 1608359749,
-        "media_id": "f6db04c79df64f313ea16282f7c403bc5b3d7300",
-        "airing_id": "RADS1012182000056463",
-        "id": "Hf3yIUdcQP-XlTnZhqx3TA",
-        "slug": "long-john-peter",
-        "views": 890045,
-        "created": 1402945465,
-        "title_id": "715148",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "published": 1608359749,
-        "tags": [
-            "Long John Peter",
-            "Family Guy",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Seth McFarlane",
-            "Griffins",
-            "Peter",
-            "Stewie",
-            "Brian"
-        ],
-        "rating_count": 2753,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1504333800,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_8701073317065185893.jpg",
-        "cma_id": "1464403"
-    },
-    {
         "auth": true,
         "auth_expiration_date": 1609563540,
         "tms_id": "EP002960010120",
@@ -198,6 +141,62 @@
         "launch_date": 1491978600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180327681302.jpg",
         "cma_id": "1376138"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1609995540,
+        "tms_id": "EP002960010127",
+        "rating": 8.41004,
+        "description": "Lois lands a job as a Fox TV news reporter; her first assignment is an expose on a well-known liberal filmmaker, but when her story implicates a famous conservative radio host, she may get fired.",
+        "title_suggest": {
+            "input": [
+                "Fox-y Lady",
+                "Lady"
+            ]
+        },
+        "type": "episode",
+        "title": "Fox-y Lady",
+        "expiration_date": 1492757999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1328.327,
+        "episode_number": "10",
+        "original_air_date": 1239073200,
+        "clip_order": null,
+        "auth_launch_date": 1609390800,
+        "modified": 1609332920,
+        "media_id": "0bf73658e4b1b67a3794c65fed7a512e00150364",
+        "airing_id": "RADS1012282000059103",
+        "id": "LErqucJlQCK3g5l3U1qL2g",
+        "slug": "fox-y-lady",
+        "views": 772923,
+        "created": 1402945465,
+        "title_id": "730927",
+        "season_number": "7",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "published": 1609332920,
+        "tags": [
+            "Fox-y Lady",
+            "Family Guy",
+            "Adult Swim",
+            "video",
+            "funny",
+            "Seth McFarlane",
+            "Griffins",
+            "Peter",
+            "Stewie",
+            "Brian"
+        ],
+        "rating_count": 2212,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1492153200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2187932576141370037.jpg",
+        "cma_id": "1378121"
     },
     {
         "auth": true,
