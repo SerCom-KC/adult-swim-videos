@@ -714,7 +714,7 @@
         "launch_date": 1606366800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473082180816.jpg",
         "id": "AWeE99MOqD68dq0Op5wC",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -1290,50 +1290,6 @@
         "launch_date": 1605070800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068952195-TheShiveringTruth_205_dup-20200228.jpg",
         "id": "AXKPZ_7iC8QgH-t19JjW",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1605675540,
-        "tms_id": "EP029602990015",
-        "description": "Every father is mother to a tunnel inside us, leading them away. [Note: Prior to viewing this, you will want to install a restroom in your pants. Because what you see might make you need to use the restroom right into a toilet.]",
-        "title_suggest": {
-            "input": [
-                "Holeways"
-            ]
-        },
-        "title": "Holeways",
-        "type": "episode",
-        "expiration_date": 1609477140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "duration": 675.5082,
-        "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-        "episode_number": "6",
-        "original_air_date": 1592193600,
-        "auth_launch_date": 1605070800,
-        "clip_order": null,
-        "airing_id": "RADS1011112000044143",
-        "media_id": "6776d1d0039272d5d9df9a3548c691fc47d43527",
-        "modified": 1605272251,
-        "slug": "holeways",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200615/thumbnails/1_20615112592-TheShiveringTruth_206_dup-20200303.jpg",
-        "created": 1591894493,
-        "title_id": "2222980",
-        "season_number": "2",
-        "tv_rating": "tv-ma-sv",
-        "published": 1605272251,
-        "tags": [],
-        "collection_title": "The Shivering Truth",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1605675600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200615/thumbnails/2_20615112592-TheShiveringTruth_206_dup-20200303.jpg",
-        "id": "AXKkTkr3C8QgH-t19Jns",
         "auth": false
     }
 ]
