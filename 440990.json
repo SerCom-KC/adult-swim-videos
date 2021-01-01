@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1609477140,
         "tms_id": "EP002960010119",
         "rating": 6.5443425,
@@ -582,7 +582,7 @@
         "cma_id": "1113190"
     },
     {
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1609477140,
         "tms_id": "EP002960010118",
         "rating": 7.9185724,
