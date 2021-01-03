@@ -194,7 +194,7 @@
         "launch_date": 1607851800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131730459-FireForce2_027.jpg",
         "id": "AXWQO_N3bxpjZvbXYlbp",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1609061340,
@@ -291,6 +291,40 @@
         "launch_date": 1609666200,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131731161-FireForce2_029.jpg",
         "id": "AXWQPGMHbxpjZvbXYlbr",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1611480540,
+        "created": 1609186316,
+        "tms_id": "EP032684490030",
+        "title_id": "2233673",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "description": "Inca is faced with the decision of whether to go with Shinra and the Fire Force, or to go with Charon and side with the Evangelist. Fed up with always being a step behind the Evangelist's men, the 8th launches an expedition to find answers.",
+        "title_suggest": {
+            "input": [
+                "The Time to Choose",
+                "Time to Choose",
+                "to Choose",
+                "Choose"
+            ]
+        },
+        "published": 1609569988,
+        "title": "The Time to Choose",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AWwbkOBM4aLemgzOLF3t",
+        "duration": 1354.2529,
+        "episode_number": "6",
+        "collection_title": "Fire Force",
+        "original_air_date": 1609653600,
+        "auth_launch_date": 1609666200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1012282000059307",
+        "media_id": "93a603dd31ee17196db757ced4974ec428a2f10e",
+        "modified": 1609569988,
+        "slug": "the-time-to-choose",
+        "id": "AXaq-o_4QJ_4Uej5kTgu",
         "auth": true
     }
 ]
