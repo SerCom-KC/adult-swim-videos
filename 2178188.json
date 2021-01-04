@@ -1051,6 +1051,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1611550740,
+        "tms_id": "",
+        "description": "Prolly for the Better?",
+        "title_suggest": {
+            "input": [
+                "Prolly for the Better?",
+                "for the Better?",
+                "the Better?",
+                "Better?"
+            ]
+        },
+        "title": "Prolly for the Better?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 663.3961,
+        "episode_number": "7",
+        "original_air_date": "1609736400",
+        "auth_launch_date": 1609736400,
+        "clip_order": null,
+        "airing_id": "RADS1012302000059933",
+        "media_id": "1cfcc49ce8f934ac57201ff9a4db295da510b25b",
+        "modified": 1609583360,
+        "slug": "prolly-for-the-better",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241042103-LazorWulf_207_dup-20201006_ProllyForBetter.jpg",
+        "created": 1606232532,
+        "season_number": "2",
+        "title_id": "2224738",
+        "tv_rating": "tv-14-l",
+        "published": 1609583360,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241042103-LazorWulf_207_dup-20201006_ProllyForBetter.jpg",
+        "id": "AXX662fabxpjZvbXYlcz",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "EP031867090013",
         "description": "Still Dying to Eat.",
