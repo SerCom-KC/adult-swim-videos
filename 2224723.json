@@ -230,7 +230,7 @@
         "launch_date": 1609736400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200826/thumbnails/2_2082692383-YOLO_106_dup-20200820.jpg",
         "id": "AXQq8MRjLyLQBOXK_PMK",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1610341140,
@@ -361,6 +361,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1606712400,
         "id": "AXSiWtBmLyLQBOXK_POP",
-        "auth": false
+        "auth": true
     }
 ]
