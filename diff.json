@@ -1,57 +1,63 @@
 {
-    "updated": 1609748958,
-    "added": [],
-    "removed": [
+    "updated": 1609752083,
+    "added": [
         {
             "auth": false,
-            "ott_launch_date": 1512401460,
-            "auth_expiration_date": 1514190599,
-            "tms_id": "EP027912080007",
-            "description": "A mysterious dog with secret motives captures the of heart of Cornell.",
+            "ott_launch_date": 1447786320,
+            "auth_expiration_date": null,
+            "tms_id": "EP000337110007",
+            "rating": 7.0335135,
+            "description": "When a factory mixem-up brings a town to its dusty knees, Xavier decides to PFR (Pray For Rain), but God She no take kindly to freaks.",
             "title_suggest": {
                 "input": [
-                    "Cornell Gets a Dog",
-                    "Gets a Dog",
-                    "a Dog",
-                    "Dog"
+                    "Bloodcorn"
                 ]
             },
-            "title": "Cornell Gets a Dog",
             "type": "episode",
+            "title": "Bloodcorn",
             "expiration_date": 2085368400,
             "platforms": [
+                "web",
+                "mobile",
                 "ott"
             ],
-            "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-            "duration": 648.87,
+            "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+            "duration": 680.71,
             "episode_number": "7",
-            "original_air_date": 1512364500,
+            "original_air_date": 1197867600,
             "clip_order": null,
-            "auth_launch_date": 1512376200,
-            "modified": 1609747662,
-            "media_id": "bf05efd37b4cad68a8ea3fae0a8a57c76acabad3",
-            "airing_id": "RADS1011191800046137",
-            "id": "fmtIuGWkRPaAkceqxUz1MA",
-            "slug": "cornell-gets-a-dog",
+            "auth_launch_date": null,
+            "modified": 1609751852,
+            "airing_id": "RADS1011191800046193",
+            "media_id": "ccf32016288646512cfc376b4e1e955b5c710e82",
+            "id": "QeMWNXIuQCK4_7IG367amw",
+            "slug": "bloodcorn",
+            "views": 265313,
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15124927403673.jpg",
-            "created": 1504882768,
+            "thumbnail": "",
+            "created": 1402945482,
+            "title_id": "693202",
             "season_number": "1",
-            "title_id": "2132032",
-            "tv_rating": "tv-14-lv",
-            "active": false,
+            "tv_rating": "tv-ma",
+            "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1609747662,
-            "tags": [],
-            "collection_title": "The Jellies",
+            "published": 1609751852,
+            "tags": [
+                "Xavier Renegade Angel",
+                "Adult Swim",
+                "Bloodcorn"
+            ],
+            "rating_count": 1850,
+            "collection_title": "Xavier: Renegade Angel",
             "modified_by": "ODT Listener",
             "launch_date": 1543208400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124927403673.jpg",
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/xavier_cc_107_pt1-02.jpg",
             "cma_id": "",
-            "collection_slug": "the-jellies",
-            "collection_title_id": "2132025",
+            "collection_slug": "xavier-renegade-angel",
+            "collection_title_id": "691917",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
