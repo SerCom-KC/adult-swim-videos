@@ -62,7 +62,7 @@
         },
         "title": "The Magmafying Past",
         "type": "episode",
-        "expiration_date": 2085368400,
+        "expiration_date": 1609803874,
         "platforms": [
             "android",
             "fire-tv",
@@ -78,7 +78,7 @@
         "clip_order": null,
         "airing_id": "RADS1012282000059130",
         "media_id": "eb252a0370efcdef9106a5c017c9d60c2148146d",
-        "modified": 1609552818,
+        "modified": 1609803878,
         "slug": "the-magmafying-past",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15441360054166.jpg",
@@ -88,61 +88,15 @@
         "tv_rating": "tv-ma-v",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1609552818,
+        "published": 1609803878,
         "tags": [],
         "collection_title": "The Shivering Truth",
-        "modified_by": "ODT Listener",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
         "launch_date": 1546245000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441360054166.jpg",
         "id": "AWd1MFj9qD68dq0Op5rb",
-        "auth": false
-    },
-    {
-        "ott_launch_date": 1543208400,
-        "auth_expiration_date": null,
-        "tms_id": "EP029602990001",
-        "description": "The grudge match between Order and Chaos is finally settled in a slapfight -- and whoever is victorious will get a sexy new atomic makeover!",
-        "title_suggest": {
-            "input": [
-                "Chaos Beknownst",
-                "Beknownst"
-            ]
-        },
-        "title": "Chaos Beknownst",
-        "expiration_date": 2085368400,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-        "duration": 672.17,
-        "episode_number": "",
-        "original_air_date": 1526273100,
-        "auth_launch_date": null,
-        "clip_order": null,
-        "media_id": "5d16648ec11daeec833bef65d96772844d1c2450",
-        "modified": 1587065768,
-        "airing_id": "RADS1011141800045174",
-        "slug": "chaos-beknownst",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154325290303410.jpg",
-        "created": 1543253023,
-        "season_number": "1",
-        "title_id": "2165430",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1587065768,
-        "tags": [],
-        "collection_title": "The Shivering Truth",
-        "modified_by": "ODT Listener",
-        "launch_date": 1542776400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325290303410.jpg",
-        "id": "AWdRDFzzqD68dq0Op5gw",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -536,7 +490,7 @@
             ]
         },
         "title": "Fowl Flow",
-        "expiration_date": 2085368400,
+        "expiration_date": 1609803934,
         "type": "episode",
         "platforms": [
             "android",
@@ -552,7 +506,7 @@
         "auth_launch_date": 1609477200,
         "clip_order": null,
         "media_id": "ee1d1457a5e0788e336d53395889dd6b58d80719",
-        "modified": 1609554923,
+        "modified": 1609803939,
         "airing_id": "RADS1001111900059410",
         "slug": "fowl-flow",
         "exclude_from_search": false,
@@ -563,14 +517,15 @@
         "tv_rating": "tv-ma-sv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1609554923,
+        "published": 1609803939,
         "tags": [],
         "collection_title": "The Shivering Truth",
-        "modified_by": "ODT Listener",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
         "launch_date": 1547454600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg",
         "id": "AWdcesecqD68dq0Op5mi",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1545060600,
@@ -583,7 +538,7 @@
             ]
         },
         "title": "ConstaDeath",
-        "expiration_date": 2085368400,
+        "expiration_date": 1609803902,
         "type": "episode",
         "platforms": [
             "android",
@@ -599,7 +554,7 @@
         "auth_launch_date": 1609477200,
         "clip_order": null,
         "media_id": "df27ea0f422a6f3f599dd79252ee22378dc2d337",
-        "modified": 1609552212,
+        "modified": 1609803905,
         "airing_id": "RADS1012282000059129",
         "slug": "consta-death",
         "exclude_from_search": false,
@@ -610,14 +565,15 @@
         "tv_rating": "tv-ma-v",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1609552212,
+        "published": 1609803905,
         "tags": [],
         "collection_title": "The Shivering Truth",
-        "modified_by": "ODT Listener",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
         "launch_date": 1546849800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg",
         "id": "AWeE-I91AsbXwNj3wAaA",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1545838200,
@@ -632,7 +588,7 @@
             ]
         },
         "title": "Tow and Shell",
-        "expiration_date": 2085368400,
+        "expiration_date": 1609803917,
         "type": "episode",
         "platforms": [
             "android",
@@ -648,7 +604,7 @@
         "auth_launch_date": 1609477200,
         "clip_order": null,
         "media_id": "c90e090fe747cdfb1b0177794e22bc65f225a87b",
-        "modified": 1609552818,
+        "modified": 1609803919,
         "airing_id": "RADS1001111900059411",
         "slug": "tow-and-shell",
         "exclude_from_search": false,
@@ -659,14 +615,15 @@
         "tv_rating": "tv-ma",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1609552818,
+        "published": 1609803919,
         "tags": [],
         "collection_title": "The Shivering Truth",
-        "modified_by": "ODT Listener",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
         "launch_date": 1547453700,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15452410357433.jpg",
         "id": "AWeE-UjTqD68dq0Op5wD",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1545060600,
