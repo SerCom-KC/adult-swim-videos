@@ -48,6 +48,53 @@
     },
     {
         "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1610427540,
+        "tms_id": "EP002960010135",
+        "description": "Peter falls in love with a life-size Kathy Ireland cut-out; Lois discovers she's Jewish.",
+        "title_suggest": {
+            "input": [
+                "Family Goy",
+                "Goy"
+            ]
+        },
+        "title": "Family Goy",
+        "type": "episode",
+        "expiration_date": 1493188199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1307.2392,
+        "episode_number": "2",
+        "original_air_date": 1255402800,
+        "auth_launch_date": 1609822800,
+        "clip_order": null,
+        "modified": 1609596614,
+        "media_id": "69b51aac180abaf1f1d9d1375adb19b32b8b0ba0",
+        "airing_id": "RADS1012302000059995",
+        "id": "DrtRuBE1RKiJGskYFtGfvg",
+        "slug": "family-goy",
+        "views": 1015,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15192399957897.jpg",
+        "created": 1442031683,
+        "title_id": "748750",
+        "tv_rating": "tv-14",
+        "season_number": "8",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1609596614,
+        "first_published": 1442031683,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1492583400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192399957897.jpg",
+        "cma_id": "1380257"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1610081940,
         "tms_id": "EP002960010129",
         "rating": 7.92164,
@@ -584,62 +631,6 @@
         "launch_date": 1609736400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/how-the-griffin-stole-christmas/familyguy_1406_air_cid-30YTK.jpg",
         "cma_id": "1314764"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1609822740,
-        "tms_id": "EP002960010125",
-        "rating": 8.067969,
-        "description": "To pay off a massive debt, Peter participates in a medical experiment, allowing himself to be injected with the \"gay\" gene; and this change in lifestyle leads him to find a new mate, leaving a broken-hearted Lois behind. ",
-        "title_suggest": {
-            "input": [
-                "Family Gay",
-                "Gay"
-            ]
-        },
-        "type": "episode",
-        "title": "Family Gay",
-        "expiration_date": 1442037599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1277.7432,
-        "episode_number": "8",
-        "original_air_date": 1237863600,
-        "clip_order": null,
-        "auth_launch_date": 1609218000,
-        "modified": 1608794785,
-        "media_id": "5871454ead4a5b3db210154ad743d55fdc6b34fe",
-        "airing_id": "RADS1012232000058000",
-        "id": "kIpEpNs7TT-4X4cbmRqU7Q",
-        "slug": "family-gay",
-        "views": 1418212,
-        "created": 1402945465,
-        "title_id": "730925",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "published": 1608794785,
-        "tags": [
-            "Family Gay",
-            "Family Guy",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Seth McFarlane",
-            "Griffins",
-            "Peter",
-            "Stewie",
-            "Brian"
-        ],
-        "rating_count": 5282,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1441432800,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_5454253676021674802.jpg",
-        "cma_id": "1113190"
     },
     {
         "auth": false,
