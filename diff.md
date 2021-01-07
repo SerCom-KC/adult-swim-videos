@@ -2,58 +2,49 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 7, 2021 at 02:30:34 EST_
+_Last Update: January 7, 2021 at 03:00:29 EST_
 ## Video added
 ### Summary
-2143080 Black Clover: 2  
-### 2219230
-**Black Clover S03E11 - Storming the Shadow Palace**  
-TV-PG 🔒 22:14  
+2143080 Black Clover: 5  
+### 2192591
+**Black Clover S02E16 - A Fun Festival Double Date**  
+TV-PG-V 🔒 21:32  
 ⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/storming-the-shadow-palace  
-seriesid=`2143080` titleid=`2219230` id=`AXF-HlH_C8QgH-t19IJy` mediaid=`3adf562e6cf0e5aa2733882778a06c6a4a428f14`  
-_A team of squad captains and talented Magic Knights invade the Shadow Palace, where a few formidable elves await the arrival of the final magic stone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_2041595432-BlackClover_113.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_2041595432-BlackClover_113.jpg" height="144px" /></a>
-### 2205126
-**Black Clover S02E49 - We Won't Lose to You**  
-TV-14 🔒 22:00  
+https://www.adultswim.com/videos/black-clover/a-fun-festival-double-date  
+seriesid=`2143080` titleid=`2192591` id=`AWpWX8EgHl5gR6828zVp` mediaid=`c6636f67eb2e59a9dc886e5ede3c6dd62656d4b0`  
+_Time for a festival—the Star Festival that is! The Magic Knights all gather to celebrate the stars each squad has earned. But when Asta invites Kahono and Kiato, he and Noelle end up on a double date with them!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622724962711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622724962711.jpg" height="144px" /></a>
+### 2196257
+**Black Clover S02E25 - Mage X**  
+TV-PG 🔒 21:26  
+⌛ January 11, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/mage-x  
+seriesid=`2143080` titleid=`2196257` id=`AWufnOyNCorLtcgflrkr` mediaid=`a71f0b396f2898a876630542bc2dfeb761906ab5`  
+_Rill surprises everyone by entering the competition! Are the knights ready to face a Magic Knight captain? Or will Rill make everyone question a captain's capabilities? Meanwhile, Luck and Klaus get ready to start their first match._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15617509791383.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15617509791383.jpg" height="144px" /></a>
+### 2216642
+**Black Clover S03E04 - Path of Revenge, Path of Atonement**  
+TV-PG-LV 🔒 21:22  
 ⌛ January 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/black-clover/we-wont-lose-to-you  
-seriesid=`2143080` titleid=`2205126` id=`AW9r2JZ2GRcVO2K2pl_O` mediaid=`83948c62b95d4e1a3011a3bd36db78ef2b18093a`  
-_Asta confronts his rival Yuno, one of many Golden Dawn members to have been taken over by elves. Licht is spurred to action, as are Yami and Finral._  
-<a href="https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_201393988-BlackClover_100.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_201393988-BlackClover_100.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/black-clover/path-of-revenge-path-of-atonement  
+seriesid=`2143080` titleid=`2216642` id=`AXBu-vlnGRcVO2K2pm81` mediaid=`cfbdf7ed7d1348d25f887fdf020c1b52f16ba06f`  
+_Fueled by Charmy's magical meals, Asta's team detours to defend Hecairo on their way to the royal capital and picks up a trio of most unlikely allies._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241043429-BlackClover_106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241043429-BlackClover_106.jpg" height="144px" /></a>
+### 2205118
+**Black Clover S02E41 - The Wizard King vs. the Leader of the Eye of the Midnight Sun**  
+ 🔒 21:18  
+⌛ January 11, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/the-wizard-king-vs-the-leader-of-the-eye-of-the-midnight-sun  
+seriesid=`2143080` titleid=`2205118` id=`AW3U8z0iadNs2hMNfuT6` mediaid=`d4b0d4bc7a8396d3a315d5c05d6b1951991ee437`  
+_It's a battle for the ages as the Clover Kingdom's mightiest mage takes on the dynamic leader of the Eye of the Midnight Sun, and an unexpected guest._  
+<a href="https://media.cdn.adultswim.com/uploads/20191016/thumbnails/2_1910161022441-BlackClover_092.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191016/thumbnails/2_1910161022441-BlackClover_092.jpg" height="144px" /></a>
+### 2196251
+**Black Clover S02E19 - Two New Stars**  
+TV-14 🔒 21:45  
+⌛ January 11, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/two-new-stars  
+seriesid=`2143080` titleid=`2196251` id=`AWq4Y4dn4aLemgzOLEgd` mediaid=`1362169f4e2c96312259f739a94a69e8e6e5840a`  
+_It's time to announce the rankings of the stars! Which Magic Knight squad will come out on top? And who will surprise them all? Then when the king makes his appearance, he announces an exciting new event—a tournament for the Magic Knights!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15581127223833.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15581127223833.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-2143080 Black Clover: 4  
-### 2205115
-**Black Clover S02E38 - The Black Bulls' Hideout**  
-TV-14 🔒 21:29  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-black-bulls-hideout  
-seriesid=`2143080` titleid=`2205115` id=`AW2JBhxp1YiBSfg0KXZp` mediaid=`bcb51c683fcc20d77d35226aeef1bc7edb82c5cb`  
-_Gauche, Gordon, and Grey are holding down the fort when the hideout is attacked by some familiar faces. The trio must work fast to defend their home._  
-<a href="https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041423274-blackclover_089.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041423274-blackclover_089.jpg" height="144px" /></a>
-### 2205128
-**Black Clover S02E51 - Two Miracles**  
-TV-14-V 🔒 21:59  
-⌛ January 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/black-clover/two-miracles  
-seriesid=`2143080` titleid=`2205128` id=`AW_nvEhU3HMJfT8do7qS` mediaid=`d273ef9a39947b412096a673175f5d4fe66587d3`  
-_As Asta and Yuno battle a Poison Plant mage, Sister Lily recalls the letters they would send home. The priest is in a bad way; can Asta's sword help?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271543540-BlackClover_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271543540-BlackClover_102.jpg" height="144px" /></a>
-### 2216646
-**Black Clover S03E08 - The Raging Bull Joins the Showdown!!**  
-TV-PG-L 🔒 21:28  
-⌛ January 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/black-clover/the-raging-bull-joins-the-showdown  
-seriesid=`2143080` titleid=`2216646` id=`AXDuMZADC8QgH-t19H28` mediaid=`808da42cf957b4f9fe4abbc5a23117b6b31334d2`  
-_Rhya welcomes back two old allies as the Apostles of Sephira open an eerie portal over the capital. Asta and friends fight to stop the elvish Gauche._  
-<a href="https://media.cdn.adultswim.com/uploads/20200318/thumbnails/2_20318119455-BlackClover_110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200318/thumbnails/2_20318119455-BlackClover_110.jpg" height="144px" /></a>
-### 2219229
-**Black Clover S03E10 - Humans Who Can Be Trusted**  
-TV-PG-L 🔒 21:22  
-⌛ January 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/black-clover/humans-who-can-be-trusted  
-seriesid=`2143080` titleid=`2219229` id=`AXFAjI36Rs3h4hI_X2x1` mediaid=`18dccb6d51411e6e325aec3f2d741a2ede84be5a`  
-_Luck and friends enlist an unusual ally in their fight against the elvish Dorothy Unsworth. Droit recalls the humans' atrocities against his people._  
-<a href="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg" height="144px" /></a>
+No videos were removed.  
