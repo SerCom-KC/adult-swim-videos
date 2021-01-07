@@ -258,65 +258,6 @@
         "cma_id": "1495851"
     },
     {
-        "auth": false,
-        "auth_expiration_date": 1609995540,
-        "tms_id": "EP002960010127",
-        "rating": 8.41004,
-        "description": "Lois lands a job as a Fox TV news reporter; her first assignment is an expose on a well-known liberal filmmaker, but when her story implicates a famous conservative radio host, she may get fired.",
-        "title_suggest": {
-            "input": [
-                "Fox-y Lady",
-                "Lady"
-            ]
-        },
-        "type": "episode",
-        "title": "Fox-y Lady",
-        "expiration_date": 1492757999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1328.327,
-        "episode_number": "10",
-        "original_air_date": 1239073200,
-        "clip_order": null,
-        "auth_launch_date": 1609390800,
-        "modified": 1609868936,
-        "media_id": "0bf73658e4b1b67a3794c65fed7a512e00150364",
-        "airing_id": "RADS1012282000059103",
-        "id": "LErqucJlQCK3g5l3U1qL2g",
-        "slug": "fox-y-lady",
-        "views": 772923,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/1_21151248518-familyguy_614_FoxyLady.jpg",
-        "created": 1402945465,
-        "title_id": "730927",
-        "season_number": "7",
-        "tv_rating": "tv-14-dls",
-        "active": false,
-        "published": 1609868936,
-        "tags": [
-            "Fox-y Lady",
-            "Family Guy",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Seth McFarlane",
-            "Griffins",
-            "Peter",
-            "Stewie",
-            "Brian"
-        ],
-        "rating_count": 2212,
-        "collection_title": "Family Guy",
-        "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1492153200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151248518-familyguy_614_FoxyLady.jpg",
-        "cma_id": "1378121"
-    },
-    {
         "auth": true,
         "auth_expiration_date": 1610254740,
         "tms_id": "EP002960010133",
@@ -376,6 +317,55 @@
         "launch_date": 1504951200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151255591-familyguy_615_ThreeKings.jpg",
         "cma_id": "1469136"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1610600340,
+        "tms_id": "EP002960010136",
+        "rating": 7.5021095,
+        "description": "The Griffins ridicule Brian when he begins dating a 50-year-old woman.",
+        "title_suggest": {
+            "input": [
+                "Brian's Got A Brand New Bag",
+                "Got A Brand New Bag",
+                "A Brand New Bag",
+                "Brand New Bag",
+                "New Bag",
+                "Bag"
+            ]
+        },
+        "type": "episode",
+        "title": "Brian's Got A Brand New Bag",
+        "expiration_date": 1493274599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1301.5336,
+        "episode_number": "4",
+        "original_air_date": 1258432200,
+        "clip_order": null,
+        "auth_launch_date": 1609995600,
+        "modified": 1609747584,
+        "media_id": "79df10ef2e5a6f8917a738f4bac00463bd78853f",
+        "airing_id": "RADS1001042100060372",
+        "id": "UvhMpehWRlG0fSRAOYiPEg",
+        "slug": "brians-got-a-brand-new-bag",
+        "views": 107582,
+        "created": 1402945465,
+        "title_id": "748751",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "published": 1609747584,
+        "tags": [],
+        "rating_count": 237,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1492669800,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_5559612497223748097.jpg",
+        "cma_id": "1381977"
     },
     {
         "auth": true,
