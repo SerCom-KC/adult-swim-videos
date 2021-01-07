@@ -295,11 +295,7 @@
     },
     {
         "auth_expiration_date": 1611480540,
-        "created": 1609186316,
         "tms_id": "EP032684490030",
-        "title_id": "2233673",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
         "description": "Inca is faced with the decision of whether to go with Shinra and the Fire Force, or to go with Charon and side with the Evangelist. Fed up with always being a step behind the Evangelist's men, the 8th launches an expedition to find answers.",
         "title_suggest": {
             "input": [
@@ -309,21 +305,38 @@
                 "Choose"
             ]
         },
-        "published": 1609569988,
         "title": "The Time to Choose",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AWwbkOBM4aLemgzOLF3t",
         "duration": 1354.2529,
         "episode_number": "6",
-        "collection_title": "Fire Force",
         "original_air_date": 1609653600,
         "auth_launch_date": 1609666200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1012282000059307",
         "media_id": "93a603dd31ee17196db757ced4974ec428a2f10e",
-        "modified": 1609569988,
+        "modified": 1610044146,
         "slug": "the-time-to-choose",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117132917-FireForce2_030_TimeToChoose.jpg",
+        "created": 1609186316,
+        "title_id": "2233673",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "published": 1610044146,
+        "tags": [],
+        "collection_title": "Fire Force",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117132917-FireForce2_030_TimeToChoose.jpg",
         "id": "AXaq-o_4QJ_4Uej5kTgu",
         "auth": true
     }
