@@ -2,58 +2,76 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 9, 2021 at 00:00:29 EST_
+_Last Update: January 9, 2021 at 00:30:29 EST_
 ## Video added
 ### Summary
-581006 American Dad: 3  
-### 2069551
-**American Dad S12E20 - Garbage Stan**  
-TV-14-DLV 🔒 21:14  
+2003422 Bob's Burgers: 2  
+440990 Family Guy: 2  
+### 2003516
+**Bob's Burgers S03E05 - An Indecent Thanksgiving Proposal**  
+TV-14 🔒 21:34  
 ⌛ January 15, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/garbage-stan  
-seriesid=`581006` titleid=`2069551` id=`Psk8BZBXTS6y3k5Dt77-qw` mediaid=`e0fefa9d69b802fa0dead91eee5b31d07509e1ca`  
-_Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck. Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg" height="144px" /></a>
-### 2069550
-**American Dad S12E19 - Kloger**  
-TV-14 🔒 21:35  
+https://www.adultswim.com/videos/bobs-burgers/an-indecent-thanksgiving-proposal  
+seriesid=`2003422` titleid=`2003516` id=`sldYo92OShixZ1NZiHNN_g` mediaid=`3287169512e681455e84ed24a9a08fe6f57ff57a`  
+_Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg" height="144px" /></a>
+### 2003515
+**Bob's Burgers S03E04 - Mutiny on the Windbreaker**  
+TV-PG 🔒 21:30  
 ⌛ January 15, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/kloger  
-seriesid=`581006` titleid=`2069550` id=`gWxgx0z4SRaEsAEM1PYSJA` mediaid=`c2747ea319e383231f803189cf5899733be7ea2a`  
-_Roger and Klaus start having a secret affair after they accidentally end up on an online date together. Steve tries to catch Hayley's pink eye to get out of doing a fitness test at school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg" height="144px" /></a>
-### 2069549
-**American Dad S12E18 - The Long Bomb**  
-TV-14-DLSV 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/mutiny-on-the-windbreaker  
+seriesid=`2003422` titleid=`2003515` id=`xtqPT4FZRSurHPCTuRq7sg` mediaid=`fefdb409b44127d638c4a036074b87355d9e2de4`  
+_When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg" height="144px" /></a>
+### 748756
+**Family Guy S08E08 - Dog Gone**  
+TV-14 🔒 21:46  
 ⌛ January 15, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-long-bomb  
-seriesid=`581006` titleid=`2069549` id=`vChQxBcdSiCMUBywWd3bJA` mediaid=`12e569fcc167d47273c8b99276cc8fa2d1a0a970`  
-_While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/family-guy/dog-gone  
+seriesid=`440990` titleid=`748756` id=`w0u1j6pkQe6BX5GWRrIX_A` mediaid=`d3cf91949f84ddb5e25c28d45cd55a3b7a20fcd3`  
+_Brian accidentally kills a dog; the Griffins hire a housekeeper._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192400136303.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192400136303.jpg" height="144px" /></a>
+### 748757
+**Family Guy S08E07 - Jerome is the New Black**  
+TV-14 🔒 21:43  
+⌛ January 15, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/jerome-is-the-new-black  
+seriesid=`440990` titleid=`748757` id=`HHjzX03PRyO5K0ClZ9yfQQ` mediaid=`dadced9f88b2b2e13565e94cd8e07724fd1a5083`  
+_Peter and his buddies befriend an African-American man who turns out to be Lois's ex-boyfriend; Brian tries to determine why Quagmire hates him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153270614970219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153270614970219.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 3  
-### 2069532
-**American Dad S12E01 - Father's Daze**  
-TV-14 🔒 21:13  
+2003422 Bob's Burgers: 2  
+440990 Family Guy: 2  
+### 2003437
+**Bob's Burgers S02E02 - Bob Day Afternoon**  
+TV-14 🔒 21:29  
 ⌛ January 8, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/fathers-daze  
-seriesid=`581006` titleid=`2069532` id=`1tfpfZcEQEulM8Gwxer2rg` mediaid=`0d1b8527d9a327620560c807c976b68ecc297936`  
-_The Smith family forgets to celebrate Father's Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg" height="144px" /></a>
-### 2069533
-**American Dad S12E02 - Fight and Flight**  
-TV-14 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/bob-day-afternoon  
+seriesid=`2003422` titleid=`2003437` id=`ICnCBkoDSiuMym6JboTa5Q` mediaid=`3ae7a97e67840c6e49f14b6748964f1ec91c77b7`  
+_A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg" height="144px" /></a>
+### 2003438
+**Bob's Burgers S02E03 - Synchronized Swimming**  
+TV-PG 🔒 21:11  
 ⌛ January 8, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/fight-and-flight  
-seriesid=`581006` titleid=`2069533` id=`2lgl7za3TEGrHYL2SIWJeQ` mediaid=`204b5cf0c24fb0a7ef617b2d33f4d1bd82480c6c`  
-_Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg" height="144px" /></a>
-### 2046306
-**American Dad S11E22 - Standard Deviation**  
-TV-14-DLV 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/synchronized-swimming  
+seriesid=`2003422` titleid=`2003438` id=`xE1hMOE6RlmxEfBUPcg2Uw` mediaid=`5edd083a7651f8439bee704d19cd702f4269fd3f`  
+_The kids con their way out of gym class with a bogus synchronized swimming independent study. Meanwhile, Bob welcomes a new soft serve ice cream machine to the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148415474414.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148415474414.jpg" height="144px" /></a>
+### 748746
+**Family Guy S07E14 - We Love You, Conrad**  
+TV-14 🔒 21:46  
 ⌛ January 8, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/standard-deviation  
-seriesid=`581006` titleid=`2046306` id=`auZtRXZYRliIhZg-c2XmGA` mediaid=`dddb15543c01e998371fafc7adbbd456f3ae4c4a`  
-_In order to avoid being sent on a suicide mission, Stan learns how to become a DJ to beat Bullock in a DJ Battle. Jeff takes up drinking psychedelic teas and Roger helps him build an imaginary musical instrument._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/family-guy/we-love-you-conrad  
+seriesid=`440990` titleid=`748746` id=`4iaV4RHVS1eq11croq56kg` mediaid=`19734d06d9ae101473143ca96dfe57cb95e1c59d`  
+_When Jillian announces she's getting married, Brian begins dating "The Hills" actress Lauren Conrad._  
+<a href="https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151256236-familyguy_619_WeLoveYouConrad.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151256236-familyguy_619_WeLoveYouConrad.jpg" height="144px" /></a>
+### 743929
+**Family Guy S07E13 - Stew-Roids**  
+TV-PG 🔒 21:48  
+⌛ January 8, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/stew-roids  
+seriesid=`440990` titleid=`743929` id=`bRxpRasXTxS-g635f5LBew` mediaid=`c9bd4f1359a5cfe791a8fba5f79de17cd347dbf6`  
+_After Stewie gets beaten up by Joe's infant daughter, Peter injects Stewie with steroids; Chris's popularity at school soars when he begins dating Connie._  
+<a href="https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151256411-familyguy_618_Stewroids.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151256411-familyguy_618_Stewroids.jpg" height="144px" /></a>
