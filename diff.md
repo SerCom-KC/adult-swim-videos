@@ -2,26 +2,35 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 10, 2021 at 04:30:39 EST_
+_Last Update: January 10, 2021 at 05:31:04 EST_
 ## Video added
 ### Summary
-2020945 Attack on Titan: 1  
-2215991 Sword Art Online: Alicization - War of Underworld: 1  
-### 2244423
-**Attack on Titan S04E01 - The Other Side of the Sea**  
-TV-MA 🔒 24:11  
-⌛ January 31, 2021 at 03:59:00 EST  
-https://www.adultswim.com/videos/attack-on-titan/the-other-side-of-the-sea  
-seriesid=`2020945` titleid=`2244423` id=`AXbidUa9bxpjZvbXYl65` mediaid=`eb6d9a7a32f19939d0bda9fb25be5c28a3a7c6eb`  
-_As Marley battles the Mid-East Alliance to end a four-year war, a group of Warrior candidates on the front lines compete to be the successor of the Armored Titan._  
-<a href="https://media.cdn.adultswim.com/uploads/20210108/thumbnails/2_2118944550-attackontitan_060_air_cid-MTC84.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210108/thumbnails/2_2118944550-attackontitan_060_air_cid-MTC84.jpg" height="144px" /></a>
-### 2216010
-**Sword Art Online: Alicization - War of Underworld S01E19 - Awakening**  
-TV-14-DLV 🔒 21:58  
-⌛ January 31, 2021 at 04:29:00 EST  
-https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/awakening  
-seriesid=`2215991` titleid=`2216010` id=`AXbaE23cQJ_4Uej5kTjL` mediaid=`6e1d422c1cb2c4bd6eef653b2cace18860935fba`  
-_Escaping his nightmares, Kirito regains consciousness at last. With the Night-Sky Blade in his right hand and the broken Blue Rose Sword in his left, he faces off against Vassago, armed with the Mate-Chopper, now enormous in size._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211710137-SAO_WoU_019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211710137-SAO_WoU_019.jpg" height="144px" /></a>
+2238413 Assassination Classroom: 1  
+2203556 Fire Force: 1  
+812206 Naruto: Shippuden: 1  
+### 2238429
+**Assassination Classroom S01E16 - School's Out/1st Term**  
+TV-14-L 🔒 21:29  
+⌛ January 31, 2021 at 05:29:00 EST  
+https://www.adultswim.com/videos/assassination-classroom/schools-out-1st-term  
+seriesid=`2238413` titleid=`2238429` id=`AXbLXNQMQJ_4Uej5kTiF` mediaid=`fd9d34c208194ff5e00683f59215e2a2093e2469`  
+_After two days of exams, the results are in. Both the ace A Class and the end E Class must come to terms with the outcome--and so must Koro Sensei._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171327135-AssassinationClass_116.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171327135-AssassinationClass_116.jpg" height="144px" /></a>
+### 2233674
+**Fire Force S02E07 - Road to the Oasis**  
+TV-MA 🔒 22:35  
+⌛ January 31, 2021 at 04:59:00 EST  
+https://www.adultswim.com/videos/fire-force/road-to-the-oasis  
+seriesid=`2203556` titleid=`2233674` id=`AXbLXNx5QJ_4Uej5kTiG` mediaid=`1a330b33e60eef9c933ec733d7dcb91491dfa9f3`  
+_The task force arrives on the Chinese Peninsula, and sets off through inhospitable territory toward a spatial rift that they hope will provide the answers they seek. They pick up a companion along the way who agrees to be their guide._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171329264-FireForce2_031_RoadToOasis.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171329264-FireForce2_031_RoadToOasis.jpg" height="144px" /></a>
+### 2177741
+**Naruto: Shippuden S06E29 - The Old Master and the Dragon's Eye**  
+TV-PG-V 🔒 21:52  
+⌛ April 25, 2021 at 04:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-old-master-and-the-dragons-eye  
+seriesid=`812206` titleid=`2177741` id=`AXRPm3WpLyLQBOXK_PM0` mediaid=`2ff9e0f5165e261cce68c95a65c541c3fa2d4ca5`  
+_Might Guy arrives on the battlefield to stop a Reanimated Shinobi who he recognizes as Master Chen, the legendary Taijutsu User from the Third Great Ninja War._  
+<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921216583-narutoshippuden_312_TheOldMasterand.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921216583-narutoshippuden_312_TheOldMasterand.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
