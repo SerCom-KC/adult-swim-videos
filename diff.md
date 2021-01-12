@@ -2,215 +2,193 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 11, 2021 at 13:00:34 EST_
+_Last Update: January 11, 2021 at 20:30:25 EST_
 ## Video added
 ### Summary
-2215447 Beef House: 1  
-2143080 Black Clover: 10  
-2073005 Neon Joe: 3  
-830073 Off The Air: 2  
-### 2215449
-**Beef House S01E05 - Bus Driver**  
-TV-MA-LV 🔓 11:13  
-⌛ February 3, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/beef-house/bus-driver  
-seriesid=`2215447` titleid=`2215449` id=`AXCDcR-N3HMJfT8do8yW` mediaid=`c23ba0994dfe32862dccefe5329066e5b581b69c`  
-_In an effort to help Megan, Eric gets a job as a big boy bus driver. When he hits rough waters, it's up to the Beef Boys to get him out._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261639502-BeefHouse_102_dup-20200106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261639502-BeefHouse_102_dup-20200106.jpg" height="144px" /></a>
-### 2143081
-**Black Clover S01E01 - Asta and Yuno**  
-TV-PG-LV 🔒 23:13  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/asta-and-yuno  
-seriesid=`2143080` titleid=`2143081` id=`AWANSRFrwdpKFAKSboQ2` mediaid=`08f0852fa91138ecd6a1abce35be54a282a169ba`  
-_Asta and Yuno, two orphans living in the small Hage Village, share a dream—to become the Wizard King! But in this world of magic, Asta is powerless. When the time comes for their grimoire awarding ceremony, will his luck change?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261641214-BlackClover_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261641214-BlackClover_001.jpg" height="144px" /></a>
-### 2196274
-**Black Clover S02E26 - Bad Blood**  
-TV-PG-L 🔒 22:10  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/bad-blood  
-seriesid=`2143080` titleid=`2196274` id=`AWu0Kmfm4aLemgzOLFAN` mediaid=`59acd8dfe70b2de018fe50599c4461a24d376e74`  
-_The battles continue to heat up as Luck and Klaus prove that hard work pays off!  But in the final round of the first half, Yuno and Noelle will face Solid Silva—Noelle's brother!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15628605198976.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15628605198976.jpg" height="144px" /></a>
-### 2159482
-**Black Clover S01E49 - Beyond Limits**  
-TV-14-V 🔒 21:09  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/beyond-limits  
-seriesid=`2143080` titleid=`2159482` id=`AWcS0Z-a3OEkyfT4qQ1C` mediaid=`375281abea4c767ace63db8e39c5e81f6b3e9b53`  
-_Not even the sickening crack of his own bones will cause Asta to fall into despair! Right when things seem the most hopeless, he pushes past his limit to keep fighting on. But is the battle finally won?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441367197956.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441367197956.jpg" height="144px" /></a>
-### 2219229
-**Black Clover S03E10 - Humans Who Can Be Trusted**  
-TV-PG-L 🔒 21:22  
-⌛ January 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/black-clover/humans-who-can-be-trusted  
-seriesid=`2143080` titleid=`2219229` id=`AXFAjI36Rs3h4hI_X2x1` mediaid=`18dccb6d51411e6e325aec3f2d741a2ede84be5a`  
-_Luck and friends enlist an unusual ally in their fight against the elvish Dorothy Unsworth. Droit recalls the humans' atrocities against his people._  
-<a href="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg" height="144px" /></a>
-### 2216640
-**Black Clover S03E02 - Lightning of Rage vs. Friends**  
- 🔒 22:14  
-⌛ January 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/black-clover/lightning-of-rage-vs-friends  
-seriesid=`2143080` titleid=`2216640` id=`AW-ktBmEGRcVO2K2pmCv` mediaid=`a72314529e39f8201e8f9a20a93670c969d260f7`  
-_After a chance encounter with their squadmate Luck, Magna and Vanessa go to extremes in a struggle to free their friend from a crazed elf's clutches._  
-<a href="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241444531-BlackClover_104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241444531-BlackClover_104.jpg" height="144px" /></a>
-### 2205120
-**Black Clover S02E43 - New Future**  
- 🔒 21:10  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/new-future  
-seriesid=`2143080` titleid=`2205120` id=`AW4S8Xa1adNs2hMNfuXp` mediaid=`1cd4ac470bbb1e4b4203abfa2d4f567abb5f3c26`  
-_Yami rushes to Julius's side as the Wizard King's battle with Licht draws to a close. Yuno's team approaches the center of the terrorist's hideout._  
-<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117213-BlackClover_094.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117213-BlackClover_094.jpg" height="144px" /></a>
-### 2159484
-**Black Clover S01E51 - Proof of Rightness**  
-TV-PG-V 🔒 21:43  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/proof-of-rightness  
-seriesid=`2143080` titleid=`2159484` id=`AWe-Il0wzQU7gEG1jvWK` mediaid=`09965ac11d0586be10f6bc727028af6d78cc1679`  
-_A visit to the Wizard King goes awry when Asta and the knights learn the Diamond King is attacking! The Golden Dawn keeps the attackers at bay but are the Black Bulls up for another battle after returning from the Underwater Temple?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154662298148011.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154662298148011.jpg" height="144px" /></a>
-### 2205115
-**Black Clover S02E38 - The Black Bulls' Hideout**  
-TV-14 🔒 21:29  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-black-bulls-hideout  
-seriesid=`2143080` titleid=`2205115` id=`AW2JBhxp1YiBSfg0KXZp` mediaid=`bcb51c683fcc20d77d35226aeef1bc7edb82c5cb`  
-_Gauche, Gordon, and Grey are holding down the fort when the hideout is attacked by some familiar faces. The trio must work fast to defend their home._  
-<a href="https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041423274-blackclover_089.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041423274-blackclover_089.jpg" height="144px" /></a>
-### 2159468
-**Black Clover S01E35 - The Light of Judgment**  
-TV-PG-V 🔒 21:43  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-light-of-judgment  
-seriesid=`2143080` titleid=`2159468` id=`AWTstG9JTdxzjxdCnMU6` mediaid=`574858d164107726fae57f5f0477f62db099bf34`  
-_Yami and Licht face off in a fierce battle of Dark and Light Magic! Meanwhile, Asta tests his new ability to sense qi to face Valtos. But is the power of two Black Bulls enough to take these powerful foes down?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153452555042311.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153452555042311.jpg" height="144px" /></a>
-### 2159472
-**Black Clover S01E39 - Three-Leaf Salute**  
-TV-PG-L 🔒 21:46  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/three-leaf-salute  
-seriesid=`2143080` titleid=`2159472` id=`AWV844SZh5enQuYyHuH0` mediaid=`a365ad4e238a0463b3de3445a027b975555d903c`  
-_The traitor to the kingdom is called out! But is it really…?! After apprehending the traitor, Asta and Yami are given information about what the Eye of the Midnight Sun are after—and where the Black Bulls will face their next mission!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153755940288215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153755940288215.jpg" height="144px" /></a>
-### 2118594
-**Neon Joe S02E01 - Loose Lips Drink Sips**  
-TV-14-DLSV 🔓 21:37  
-⌛ February 17, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/loose-lips-drink-sips  
-seriesid=`2073005` titleid=`2118594` id=`e6sw9L63Ty2DlwQpxUaj-g` mediaid=`c36bf9493ad939f83efc8da52034448c19e9fa7c`  
-_Retired from werewolf hunting and running his tropical themed dream bar, Neon Joe gets an ominous visit from his past, and must resist the temptation to give in to his anger. Will he succeed?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146250-neonjoe_201_dup-20170425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146250-neonjoe_201_dup-20170425.jpg" height="144px" /></a>
-### 2073007
-**Neon Joe S01E02 - Neon Nights**  
-TV-14-DLV 🔓 22:34  
-⌛ January 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/neon-nights  
-seriesid=`2073005` titleid=`2073007` id=`6OepLmU4RdqwzCnrR1NFmA` mediaid=`fec5236d39d41bf4a55bca50ac7986f96f718ca2`  
-_It is revealed that Neon Joe authored a series of erotica novels many years ago._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144261-neonjoe_102_dup-20150929.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144261-neonjoe_102_dup-20150929.jpg" height="144px" /></a>
-### 2073010
-**Neon Joe S01E05 - Not Earth China**  
-TV-14-DLSV 🔓 22:18  
-⌛ February 10, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/not-earth-china  
-seriesid=`2073005` titleid=`2073010` id=`2WAYWONLQYa8pfF2iVdhww` mediaid=`4ae8ba6e807f79abcfc1b0d3ddb94a00f21f606b`  
-_The final showdown between Neon Joe and the Cybots._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114648-neonjoe_105_dup-20151005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114648-neonjoe_105_dup-20151005.jpg" height="144px" /></a>
-### 2141743
-**Off The Air S07E01 - Earth**  
-TV-PG 🔓 11:05  
+340531 The Brak Show: 23  
+### 448016
+**The Brak Show S03E07 - All That I Desire You**  
+TV-PG-DLV 🔓 11:17  
 ⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/off-the-air/earth  
-seriesid=`830073` titleid=`2141743` id=`AV_Prp0dZ-onAnjDLtIz` mediaid=`3ced2dbea6e8e101cde450bff77f2e4a3f91da36`  
-_You break it, you buy it_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121342463-offtheair_703_dup-20171117.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121342463-offtheair_703_dup-20171117.jpg" height="144px" /></a>
-### 2087833
-**Off The Air S06E03 - Work**  
-TV-14-L 🔓 11:08  
+https://www.adultswim.com/videos/the-brak-show/all-that-i-desire-you  
+seriesid=`340531` titleid=`448016` id=`iyvCqD36RsaYahAc7QU4lQ` mediaid=`ac433ba9bee988aaf7918f3ab29d696f2f5cdf9f`  
+_Romance and deception rule the day in this soapy send-up._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321443403-brak_2307.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321443403-brak_2307.jpg" height="144px" /></a>
+### 434934
+**The Brak Show S02E09 - Brak Street**  
+TV-PG-L 🔓 11:31  
 ⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/off-the-air/work  
-seriesid=`830073` titleid=`2087833` id=`5dSygUxvRravogCwSabK4g` mediaid=`88a43588a2ece09fe7c5357e3969c1bceeb0ad91`  
-_A Q4 analysis._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341567-offtheair_603_dup-20161103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341567-offtheair_603_dup-20161103.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-brak-show/brak-street  
+seriesid=`340531` titleid=`434934` id=`j3yAm1U9ROSvfIDSqbEw9Q` mediaid=`ae26ceca103dc1c4affcf52e72488f0933dbcc89`  
+_Brak raps his way into a rap contest with a badass rapper. Cee-lo guest stars._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032143023-brak_2209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032143023-brak_2209.jpg" height="144px" /></a>
+### 448010
+**The Brak Show S03E01 - Braklet, Prince of Spaceland**  
+TV-PG-DL 🔓 11:31  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/braklet-prince-of-spaceland  
+seriesid=`340531` titleid=`448010` id=`_RZN9GLUQrOWJF-ltsp3og` mediaid=`03b9abdae1619a6f73161d109295523fe2730b94`  
+_The Brak Family Players perform their rendition of "Hamlet"._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321441166-brak_2301.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321441166-brak_2301.jpg" height="144px" /></a>
+### 415758
+**The Brak Show S02E02 - Bully**  
+TV-PG-D 🔓 11:17  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/bully  
+seriesid=`340531` titleid=`415758` id=`qfj2P0pIRUythFzoJdsKMw` mediaid=`a2382cb6479ca4f37c7d57c20ed5a8afa1671b4a`  
+_Zorak sets up a booth and offers to give beatings to the neighborhood kids. One day a new bully forcefully takes over Zorak's booth. A distressed Zorak moves into Brak's room. Mom is so upset by the situation that she is moved to go out and beat up the new bully. Zorak gets his booth back and moves out of Brak's house._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321427302-brak_2202.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321427302-brak_2202.jpg" height="144px" /></a>
+### 450577
+**The Brak Show S03E08 - Cardburkey**  
+TV-14 🔓 11:14  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/cardburkey  
+seriesid=`340531` titleid=`450577` id=`JrdSp6wzR_GU6gT9mUrF4A` mediaid=`eee7a649827f3f89e819ceb5e9393df2869b4c5c`  
+_Brak decides that living in a cardboard box will land him an impressive girlfriend._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032144403-brak_2308.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032144403-brak_2308.jpg" height="144px" /></a>
+### 448011
+**The Brak Show S03E02 - Coma**  
+TV-PG-DV 🔓 11:03  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/coma  
+seriesid=`340531` titleid=`448011` id=`mNOqhJNNQZWeaaEqCXkwZA` mediaid=`4fd5533c206e1633a110092a191b21bd976fcf32`  
+_Dad helps Thundercleese win the hand of his true love._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321441364-brak_2302.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321441364-brak_2302.jpg" height="144px" /></a>
+### 438042
+**The Brak Show S02E10 - Dinner Party**  
+TV-PG-D 🔓 11:17  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/dinner-party  
+seriesid=`340531` titleid=`438042` id=`_1i0j942RfaEFGrIQ75Tog` mediaid=`c52d9f686bf2834ec3c5865da2fe5d3724802fcc`  
+_The new neighbors invite Brak and family over for an evening of awkward conversation and murder._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321430278-brak_2210.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321430278-brak_2210.jpg" height="144px" /></a>
+### 448014
+**The Brak Show S03E04 - Enter the Hump**  
+TV-PG 🔓 11:31  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/enter-the-hump  
+seriesid=`340531` titleid=`448014` id=`UNfjTnnzSwaT6BQdnGzTbg` mediaid=`db9a7a2d148d991a69673657c0759c71492f47be`  
+_Dad and Brak visit the zoo, and Dad is bitten by a radioactive camel._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321442284-brak_2304.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321442284-brak_2304.jpg" height="144px" /></a>
+### 344203
+**The Brak Show S01E01 - Goldfish**  
+TV-PG-L 🔓 11:16  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/goldfish  
+seriesid=`340531` titleid=`344203` id=`VDWhpXruRNmGw5r1vUq6Pg` mediaid=`55842c06853fb7ca52c1924d294fe4984be6a1b2`  
+_Before going on vacation, Thundercleese asks Brak to take care of his beloved goldfish, Mr. Tickles. After Brak accidentally kills the goldfish, it appears in one of his dreams._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg" height="144px" /></a>
+### 345174
+**The Brak Show S01E04 - Hippo**  
+TV-PG-L 🔓 11:10  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/hippo  
+seriesid=`340531` titleid=`345174` id=`bahqm2mSReq8LAFXUmO_IQ` mediaid=`1d4d7246048204519b253b4a20f0dbe65ec1656c`  
+_When Zorak catches Brak talking to a favorite stuffed doll, he pressures him into throwing it away. Brak grows depressed over losing the doll, but Mom remedies the situation by giving him a new one that she received from a gypsy. When Zorak catches Brak talking to it, he confiscates the new toy and faces surprising consequences._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032141872-brak_2104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032141872-brak_2104.jpg" height="144px" /></a>
+### 417617
+**The Brak Show S02E03 - Mother, Did You Move My Chair?**  
+TV-PG-D 🔓 11:44  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/mother-did-you-move-my-chair  
+seriesid=`340531` titleid=`417617` id=`CAU8XEwCQTaYeFlX8nmGew` mediaid=`d49770ceedd3a58da4f374ba958a1946739e0609`  
+_Brak finds all kinds of excuses to skip school because he does not want to dissect a friendly clam. In his sleep, Spoonie, a talking wooden spoon, and Wunderbird, a yellow bird with a French accent, appear and promise to help Brak save the clam._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321427513-brak_2203.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321427513-brak_2203.jpg" height="144px" /></a>
+### 434931
+**The Brak Show S02E06 - New Brak**  
+TV-PG 🔓 11:28  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/new-brak  
+seriesid=`340531` titleid=`434931` id=`WgaQMg76QfStBVd9Bec6jw` mediaid=`dcd6d253547e9e336347ff3fb074ab77687b51db`  
+_A new pal begins to emulate Brak so much that he comes to be known as "the new Brak." Mom and Dad take a liking to the new Brak, which upsets the real Brak so much that he confronts the new Brak on his new Brak TV show. In the end, Ron Jaworski and Jim Plunkett show up in their football uniforms to prevent the Braks from coming to blows._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428574-brak_2206.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428574-brak_2206.jpg" height="144px" /></a>
+### 434930
+**The Brak Show S02E05 - Pepper**  
+TV-PG-D 🔓 11:34  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/pepper  
+seriesid=`340531` titleid=`434930` id=`VBDtsYu3QUqMragsJBdtFQ` mediaid=`b9d0ed73be065ff90ca9d9c07ef9cbd2f403d726`  
+_Zorak falls for a new friend. Dad, meanwhile, is waiting for the "Mothership" to pick him up because he believes he is the "chosen one." When the Mothership finally arrives, however, it is Sisto who is taken. And Zorak learns that the object of his affection is part of the Mothership's crew and actually has a wife and kids!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428360-brak_2205.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428360-brak_2205.jpg" height="144px" /></a>
+### 415757
+**The Brak Show S02E01 - Poppy**  
+TV-PG-D 🔓 11:35  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/poppy  
+seriesid=`340531` titleid=`415757` id=`kX-7dShOT4mfFtph_ttIUQ` mediaid=`e0468b2de44155da191d3c0de8bd6925bca9398a`  
+_Mom and Dad tell Brak about his late-grandfather, Poppy, who had quite a way with the ladies. Poppy sported a variety of noses for various occasions, so Mom gives Brak the nose that Poppy used to wear on dates. Brak is not very successful, however, especially after the nose starts giving him bad advice._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321426471-brak_2201.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321426471-brak_2201.jpg" height="144px" /></a>
+### 417618
+**The Brak Show S02E04 - President Dad**  
+TV-PG 🔓 11:27  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/president-dad  
+seriesid=`340531` titleid=`417618` id=`mccXjb2PR8mGvHrJRsWTHg` mediaid=`99dbc28a829b7e3601bb6d4b7177e574e5b6ea71`  
+_Dad gets upset with the neighborhood association and decides to run for its presidency. With the help of Brak and Zorak, he puts an ad in the newspaper filled with lies about the current president, Galrog. In retaliation, Galrog challenges Dad to a public debate._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg" height="144px" /></a>
+### 448015
+**The Brak Show S03E06 - Sexy New Brak Show Go**  
+TV-14 🔓 11:21  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/sexy-new-brak-show-go  
+seriesid=`340531` titleid=`448015` id=`0qiYUcMXSzqx56yfR_34lQ` mediaid=`882e0bde44dd0b0e55c6202442f4e8d361512888`  
+_A self-serving television producer gives Brak and family their own TV show._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321443129-brak_2306.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321443129-brak_2306.jpg" height="144px" /></a>
+### 448012
+**The Brak Show S03E03 - Shadows of Heat**  
+TV-PG 🔓 11:04  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/shadows-of-heat  
+seriesid=`340531` titleid=`448012` id=`a0oU0b3rTJa8ldGBwYb-LQ` mediaid=`c9d921b255c1688d8a8602a883f7b125aadc09fc`  
+_Dad is now a secret agent. He solves a mystery of mind-boggling proportions._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032144219-brak_2303.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032144219-brak_2303.jpg" height="144px" /></a>
+### 448013
+**The Brak Show S03E05 - Splat**  
+TV-14 🔓 11:11  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/splat  
+seriesid=`340531` titleid=`448013` id=`bPlla54gSauYjHKrGG07Zw` mediaid=`d9c2774de489089116d592b511d743c342c92735`  
+_Dad and Mom are involved in a car accident that could send them to prison._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321442528-brak_2305.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321442528-brak_2305.jpg" height="144px" /></a>
+### 411001
+**The Brak Show S01E09 - The Eye**  
+TV-PG 🔓 11:35  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/the-eye  
+seriesid=`340531` titleid=`411001` id=`vCRzwErfTVWvgfG2B3E5wA` mediaid=`a7e5c4c27776a537617a5f35a3e7277c14e80673`  
+_Dad used to be a master of the staring contest. Although he is retired, he accepts Zorak's staring contest challenge. Zorak loses because wasps, which are attracted to his eye juices, attack him.  Later, Dad's most fearsome challenger re-appears: The Eye._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321426140-brak_2109.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321426140-brak_2109.jpg" height="144px" /></a>
+### 434932
+**The Brak Show S02E07 - The Feud**  
+TV-PG-D 🔓 11:11  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/the-feud  
+seriesid=`340531` titleid=`434932` id=`w4dVSI4NQ-OMlahxLMQwuw` mediaid=`8a4fff499fdbd40ad98d680f0c0f6979f21ee038`  
+_A feud erupts between Thundercleese and Dad after the two antagonize each other with yard-related mischief, including the freeing of Dad's pigs and the stealing of Thundercleese's yard bunnies._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321429201-brak_2207.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321429201-brak_2207.jpg" height="144px" /></a>
+### 434933
+**The Brak Show S02E08 - The Runaway**  
+TV-PG 🔓 11:40  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/the-runaway  
+seriesid=`340531` titleid=`434933` id=`RKn6u4Z1RIegXWO_yTE7tg` mediaid=`47e4d2f6a9b8989e7e4ee120409ffa986b42502f`  
+_Space Ghost travels back in time to arrest Brak for crimes committed in the future._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321429404-brak_2208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321429404-brak_2208.jpg" height="144px" /></a>
+### 344204
+**The Brak Show S01E03 - Time Machine**  
+TV-PG-L 🔓 11:21  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/time-machine  
+seriesid=`340531` titleid=`344204` id=`j8-EuTPFRLiARLU3dvrJ_w` mediaid=`94c154316a7573b4def8112d47737eb4a2b4a8fa`  
+_Instead of doing homework, Brak and Zorak waste their entire weekend playing video games. As punishment, Dad decides that they will not be allowed to go to Brak's favorite fish restaurant, Fishpockets. Desperate, Brak and Zorak try using Thundercleese's time machine to remedy the situation._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321417420-brak_2103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321417420-brak_2103.jpg" height="144px" /></a>
+### 344205
+**The Brak Show S01E02 - War Next Door**  
+TV-PG-LV 🔓 11:25  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/war-next-door  
+seriesid=`340531` titleid=`344205` id=`OaH4d_c8QXCUPGUol6Tjgw` mediaid=`abcb786cf2b6eaf90f85b4050ce7c95435740e89`  
+_After an altercation with a robot sent to kill Thundercleese, Zorak coughs up a lump from his throat. Miraculously, he now has a beautiful man-voice. The lump, whose name is Carmine, promises to make Zorak rich and famous._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032135577-brak_2202.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032135577-brak_2202.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-2104364 Hot Streets: 1  
-2143080 Black Clover: 7  
-812206 Naruto: Shippuden: 1  
-### 2184498
-**Hot Streets S02E02 - The Moon Masters**  
-TV-14-DLSV 🔓 11:15  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/hot-streets/the-moon-masters  
-seriesid=`2104364` titleid=`2184498` id=`AWd2LdHcqD68dq0Op5sd` mediaid=`08b1229b342afaf329d376d0e20482f9ca3a25c8`  
-_Branski enters a space race to win back the Earth's Moon._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351528513-hotstreets_203_dup-20181214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351528513-hotstreets_203_dup-20181214.jpg" height="144px" /></a>
-### 2205125
-**Black Clover S02E48 - The Desperate Path Toward Survival**  
-TV-14 🔒 21:15  
-⌛ January 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/black-clover/the-desperate-path-toward-survival  
-seriesid=`2143080` titleid=`2205125` id=`AW7X0c9A1YiBSfg0KZHT` mediaid=`d5e086ceb04c8f4adf9a23699ce9968d0230b517`  
-_Mereoleona is left to face five powerful elf enemies alone, putting her "undefeated" title to the test. Mimosa's Royal Knight teammates turn on her._  
-<a href="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271210286-BlackClover_099.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271210286-BlackClover_099.jpg" height="144px" /></a>
-### 2143084
-**Black Clover S01E04 - The Magic Knights Entrance Exam**  
-TV-PG-LV 🔒 22:08  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-magic-knights-entrance-exam  
-seriesid=`2143080` titleid=`2143084` id=`AWBF-eE2Z-onAnjDLtd_` mediaid=`4443f9cc52e9798cd3e8af7efe6594a7803a0251`  
-_The first step to becoming the Wizard King is joining the Magic Knights. But in a test that assesses magic prowess, does Asta stand a chance of passing it? He's not giving up until he proves himself!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261642127-blackclover_004_air_cid-3CKDW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261642127-blackclover_004_air_cid-3CKDW.jpg" height="144px" /></a>
-### 2143092
-**Black Clover S01E12 - The Wizard King Saw**  
-TV-PG-L 🔒 21:50  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-wizard-king-saw  
-seriesid=`2143080` titleid=`2143092` id=`AWGQ9oDaZ-onAnjDME-P` mediaid=`6585303e63fc780bae3e74322c6f70df5182fe59`  
-_Asta and Sekke take down a thief in the black market and unknowingly end up helping the Wizard King! Then, an escort mission for Yuno's team takes a turn for the dangerous when they're attacked and wind up detouring in Hage._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151967017533214.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151967017533214.jpg" height="144px" /></a>
-### 2159455
-**Black Clover S01E22 - Wild Magic Dance**  
-TV-PG-V 🔒 21:44  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/wild-magic-dance  
-seriesid=`2143080` titleid=`2159455` id=`AWLU-r5_HAeP4-pUPed6` mediaid=`ee929acc433192f5c20ebe099da042a39bbb24dd`  
-_Asta and the rest of the Magic Knights move in to protect the capital. But when Asta is ready to go face to face with the madman behind the chaos, he winds up fighting a horrifying creature known as Jimmy!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152597370364120.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152597370364120.jpg" height="144px" /></a>
-### 2159457
-**Black Clover S01E24 - Blackout**  
-TV-PG 🔒 21:53  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/blackout  
-seriesid=`2143080` titleid=`2159457` id=`AWOJfLKxHAeP4-pUPfZh` mediaid=`234356a7427c6a9394cd96819a242b78b553307f`  
-_Rades isn't the only one threatening the capital as a mysterious Spatial Magic user transports half of the Magic Knights away. When trying to get an answer from Rades, Fuegoleon learns who the true target is!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277873088776.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277873088776.jpg" height="144px" /></a>
-### 2159465
-**Black Clover S01E32 - Three-Leaf Sprouts**  
-TV-PG-V 🔒 21:37  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/three-leaf-sprouts  
-seriesid=`2143080` titleid=`2159465` id=`AWR36hUdTdxzjxdCmz0r` mediaid=`a21ef0c2fd50b58a4b5098366681f9e9ff8e65b9`  
-_Sekke is sent to request backup from the Black Bulls, but his encounter with the squad is less than ideal. Meanwhile, Asta and Gauche face the kidnappers, and right when they see victory, Sally appears!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153270575615317.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153270575615317.jpg" height="144px" /></a>
-### 2196254
-**Black Clover S02E22 - The Royal Knights Selection Test**  
-TV-14 🔒 21:23  
-⌛ January 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-royal-knights-selection-test  
-seriesid=`2143080` titleid=`2196254` id=`AWspr18mCorLtcgflq-S` mediaid=`f29150589abb5cefcfd880025e937f8180df3bba`  
-_It's time to begin the Royal Knights Selection test! Rather than one-on-one matches, the knights will have to team up with members of other squads to face off. Can Asta get along with the mysterious Xerx that's teamed up with him?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155994769754815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155994769754815.jpg" height="144px" /></a>
-### 2177742
-**Naruto: Shippuden S06E30 - Rain Followed by Snow, with Some Lightning**  
-TV-PG-L 🔒 21:51  
-⌛ January 17, 2021 at 05:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/rain-followed-by-snow-with-some-lightning  
-seriesid=`812206` titleid=`2177742` id=`AXRPm91MLyLQBOXK_PM1` mediaid=`95dc7b9d712d0e96cf4410c4490b9f9c615e9688`  
-_A reanimated boy who can control weather appears before Team Ino-Shika-Cho, Sakura, and Kiba, who are all fighting in different locations._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921217266-narutoshippuden_313_RainFollowedBy.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921217266-narutoshippuden_313_RainFollowedBy.jpg" height="144px" /></a>
+No videos were removed.  
