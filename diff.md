@@ -2,17 +2,44 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 12, 2021 at 12:30:25 EST_
+_Last Update: January 13, 2021 at 00:00:26 EST_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177742
-**Naruto: Shippuden S06E30 - Rain Followed by Snow, with Some Lightning**  
-TV-PG-L 🔒 21:51  
-⌛ January 17, 2021 at 05:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/rain-followed-by-snow-with-some-lightning  
-seriesid=`812206` titleid=`2177742` id=`AXRPm91MLyLQBOXK_PM1` mediaid=`95dc7b9d712d0e96cf4410c4490b9f9c615e9688`  
-_A reanimated boy who can control weather appears before Team Ino-Shika-Cho, Sakura, and Kiba, who are all fighting in different locations._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921217266-narutoshippuden_313_RainFollowedBy.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921217266-narutoshippuden_313_RainFollowedBy.jpg" height="144px" /></a>
+2032238 Mike Tyson Mysteries: 1  
+629688 Moral Orel: 1  
+### 2069746
+**Mike Tyson Mysteries S02E13 - Losin' it**  
+TV-14-DLV 🔓 11:22  
+⌛ February 16, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/mike-tyson-mysteries/losin-it  
+seriesid=`2032238` titleid=`2069746` id=`6NIBPeQvQMWIo1xKfFMmtw` mediaid=`767848976e4f90a7295edcb5cf900b1d175782e4`  
+_A severely overweight young man asks Mike Tyson to help him get in shape._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111527570-miketysonmysteries_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111527570-miketysonmysteries_022.jpg" height="144px" /></a>
+### 630820
+**Moral Orel S01E03 - Charity**  
+TV-MA 🔓 11:33  
+⌛ February 16, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/moral-orel/charity  
+seriesid=`629688` titleid=`630820` id=`Y-wDkaWFT1upgydtGlE_tQ` mediaid=`130509322d35826b736f861be90dc07102e19721`  
+_When Reverend Putty preaches the righteousness of helping the poor, Orel befriends a down-and-out crack dealer._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551249-moralorel_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551249-moralorel_003.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2032238 Mike Tyson Mysteries: 1  
+629688 Moral Orel: 1  
+### 2172015
+**Mike Tyson Mysteries S04E18 - The Stein Way**  
+TV-14-DLSV 🔒 11:07  
+⌛ January 12, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/mike-tyson-mysteries/the-stein-way  
+seriesid=`2032238` titleid=`2172015` id=`AW-BQkL-GRcVO2K2pl_v` mediaid=`418f826bd71eb1c003d13203ef3ddc8a3ef7cecd`  
+_For once (and surely the only time), Mike's attorney needs Mike's help._  
+<a href="https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171326367-miketysonmysteries_418.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171326367-miketysonmysteries_418.jpg" height="144px" /></a>
+### 723834
+**Moral Orel S03E07 - Help**  
+TV-MA 🔒 11:44  
+⌛ January 12, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/moral-orel/help  
+seriesid=`629688` titleid=`723834` id=`DJWekYSPQSWR-P4PHUMc9A` mediaid=`4ebd4207ba98dccf159b01eb5d68e9379f7ca5af`  
+_Bloberta ponders Orel's question: "Why did you marry Dad?"_  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311167346-moralorel_039.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311167346-moralorel_039.jpg" height="144px" /></a>
