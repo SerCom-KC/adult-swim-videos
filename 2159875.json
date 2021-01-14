@@ -308,6 +308,52 @@
     },
     {
         "ott_launch_date": 1531146540,
+        "auth": false,
+        "auth_expiration_date": null,
+        "tms_id": "EP029829490003",
+        "description": "Millennial hero, Derrick Beckles, interviews millennial SJW Coby Persin.",
+        "title_suggest": {
+            "input": [
+                "Bravery"
+            ]
+        },
+        "title": "Bravery",
+        "type": "episode",
+        "expiration_date": 1613624340,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWPW8JhjqBveI_0AhKbg",
+        "duration": 674.23,
+        "episode_number": "4",
+        "original_air_date": 1531109700,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "0ecf91d3931794ea9fa5315fb21445074de780bf",
+        "modified": 1610181198,
+        "airing_id": "RADS1001082100062142",
+        "id": "AWRc13LfTdxzjxdCmuVO",
+        "slug": "bravery",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153080606977010.jpg",
+        "created": 1530565980,
+        "title_id": "2160046",
+        "tv_rating": "tv-ma-ls",
+        "season_number": "1",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1610181198,
+        "tags": [],
+        "collection_title": "Mostly 4 Millennials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1610600400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153080606977010.jpg"
+    },
+    {
+        "ott_launch_date": 1531146540,
         "auth_expiration_date": null,
         "tms_id": "EP029829490004",
         "description": "Millennial hero Derrick Beckles interviews millennial reality star Snooki and gets deep with a Conservative Focus group.",
@@ -450,7 +496,7 @@
     },
     {
         "ott_launch_date": 1532356140,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1612414740,
         "tms_id": "EP029829490007",
         "description": "Millennial hero Derrick Beckles interviews millennial Steve Wilkos.",
