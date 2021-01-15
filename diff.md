@@ -2,70 +2,49 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 15, 2021 at 14:00:31 EST_
+_Last Update: January 15, 2021 at 15:30:26 EST_
 ## Video added
 ### Summary
-2194549 Gemusetto: 1  
-### 2195924
-**Gemusetto S01E01 - Chapter 1A: Your Serve**  
-TV-MA-V 🔓 21:40  
+2194549 Gemusetto: 5  
+### 2195925
+**Gemusetto S01E02 - Chapter 1B: Your Serve**  
+TV-MA 🔓 21:32  
 ⌛ January 17, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/gemusetto/chapter-1-a-your-serve  
-seriesid=`2194549` titleid=`2195924` id=`AXWU-lk1LyLQBOXK_PZf` mediaid=`ea7922e26328b7d07f54431b5cca122a375eab38`  
-_Makasu arrives in South America and struggles with memories of his grandfather's mental decline before learning humility from his new mentor, the God of Tennis._  
-<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114177363-gsmp_101A_dup-20190419.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114177363-gsmp_101A_dup-20190419.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/gemusetto/chapter-1-b-your-serve  
+seriesid=`2194549` titleid=`2195925` id=`AXWU-lZ7bxpjZvbXYlbw` mediaid=`84f4161585ca3163e3cfb1cfaceefc3f4ed440d2`  
+_Ekeko proves more challenging than anticipated as he conjures infinite rackets from his magical God-bags. Makasu must think fast in order to conjure up his own tennis tricks and win._  
+<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114177548-gsmp_101B_dup-20190419.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114177548-gsmp_101B_dup-20190419.jpg" height="144px" /></a>
+### 2195927
+**Gemusetto S01E04 - Chapter 2B: Second Set**  
+TV-MA-S 🔓 21:46  
+⌛ January 17, 2021 at 23:59:59 EST  
+https://www.adultswim.com/videos/gemusetto/chapter-2-b-second-set  
+seriesid=`2194549` titleid=`2195927` id=`AXWU-lzwbxpjZvbXYlbz` mediaid=`dc646c9211f9dc60c37e2761a7417fa6d66351f3`  
+_Out-thinking Mama Cocha's water balls requires cool composure and time to himself in the break room, but Makasu defeats her and makes his way to the Llama deity, Urcuchillay._  
+<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178235-gsmp_102B_dup-20190422.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178235-gsmp_102B_dup-20190422.jpg" height="144px" /></a>
+### 2195929
+**Gemusetto S01E06 - Chapter 3B: Back Spin**  
+TV-MA-LSV 🔓 22:18  
+⌛ January 17, 2021 at 23:59:59 EST  
+https://www.adultswim.com/videos/gemusetto/chapter-3-b-back-spin  
+seriesid=`2194549` titleid=`2195929` id=`AXWU-lzwbxpjZvbXYlb0` mediaid=`a8be5e8576741f9abfbe2d702ac90a8cec908c79`  
+_Flooded by even more memories, it becomes clear Supay intends to incapacitate Makasu by reminding him of all the deaths he caused in High School. This is called "guilt."_  
+<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178544-gsmp_103B_dup-20190425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114178544-gsmp_103B_dup-20190425.jpg" height="144px" /></a>
+### 2195932
+**Gemusetto S01E09 - Chapter 5A: Foot Fault**  
+TV-MA-LS 🔓 22:30  
+⌛ January 17, 2021 at 23:59:59 EST  
+https://www.adultswim.com/videos/gemusetto/chapter-5-a-foot-fault  
+seriesid=`2194549` titleid=`2195932` id=`AXWU-l8ebxpjZvbXYlb1` mediaid=`22459d6335aeb17d2b2f5b1468ff862890d86057`  
+_Relaxing after a treacherous ultra-merge, Makasu revels in the warm springs of the heavenly Hanan Pacha. However, erotic ladies in the pools keep attempting to lull him into sports complacency._  
+<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114179459-gsmp_105A_dup-20190502.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114179459-gsmp_105A_dup-20190502.jpg" height="144px" /></a>
+### 2195933
+**Gemusetto S01E10 - Chapter 5B: Foot Fault**  
+TV-MA-LS 🔓 21:52  
+⌛ January 17, 2021 at 23:59:59 EST  
+https://www.adultswim.com/videos/gemusetto/chapter-5-b-foot-fault  
+seriesid=`2194549` titleid=`2195933` id=`AXWU-lmHbxpjZvbXYlbx` mediaid=`fe3287d79b42927c8ec36aad07643336d560fe22`  
+_Mama Killa, the moon goddess, has thrown aside all her tricky machinations and meat puppets to play tennis against Makasu. How does our hero succeed against her fetus tennis power techniques?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114171025-gsmp_105B_dup-20190506.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201104/thumbnails/2_20114171025-gsmp_105B_dup-20190506.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-2073005 Neon Joe: 2  
-2104364 Hot Streets: 1  
-2165429 The Shivering Truth: 1  
-2215447 Beef House: 1  
-862772 China, IL: 1  
-### 2073007
-**Neon Joe S01E02 - Neon Nights**  
-TV-14-DLV 🔓 22:34  
-⌛ January 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/neon-nights  
-seriesid=`2073005` titleid=`2073007` id=`6OepLmU4RdqwzCnrR1NFmA` mediaid=`fec5236d39d41bf4a55bca50ac7986f96f718ca2`  
-_It is revealed that Neon Joe authored a series of erotica novels many years ago._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144261-neonjoe_102_dup-20150929.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144261-neonjoe_102_dup-20150929.jpg" height="144px" /></a>
-### 2118596
-**Neon Joe S02E03 - Rules of the Road**  
-TV-14-DLV 🔓 21:55  
-⌛ January 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/rules-of-the-road  
-seriesid=`2073005` titleid=`2118596` id=`pFI4H7GGSOqx35I3-Tib2g` mediaid=`4f100a9f6f2e7627b3393e6b1c0d03270ad0e391`  
-_Having escaped prison, Neon Joe confronts billionaire Elon Musk-type inventor Vance Dontay, and gets the shocking surprise of his life, forcing him to confront his demons. Will he succeed???_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114774-neonjoe_203_dup-20170508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114774-neonjoe_203_dup-20170508.jpg" height="144px" /></a>
-### 2184500
-**Hot Streets S02E03 - Super Agent 2**  
-TV-14-DLSV 🔓 11:13  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/hot-streets/super-agent-2  
-seriesid=`2104364` titleid=`2184500` id=`AWd2L_OJAsbXwNj3wAW-` mediaid=`9e91a365050b6c02d8206a3b7524b8357d863781`  
-_Chubbie Webbers must confront his dark past._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351529104-hotstreets_205_dup-20190221.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351529104-hotstreets_205_dup-20190221.jpg" height="144px" /></a>
-### 2172247
-**The Shivering Truth S01E01 - The Nurple Rainbow**  
-TV-MA-SV 🔓 11:17  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-shivering-truth/the-nurple-rainbow  
-seriesid=`2165429` titleid=`2172247` id=`AWd1MF5kqD68dq0Op5rd` mediaid=`046eec3ea2da2d48e4721c90b684470190682d86`  
-_Unfortunately everything in the whole universe just oozed out from Doug Dwyer's head.  But luckily, all that stuff is now coming over here to get you and also bite you._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441359233745.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441359233745.jpg" height="144px" /></a>
-### 2215448
-**Beef House S01E03 - Boro**  
-TV-MA-L 🔓 11:15  
-⌛ January 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/beef-house/boro  
-seriesid=`2215447` titleid=`2215448` id=`AXCDcC1z3HMJfT8do8yU` mediaid=`96daabbb4604112305b580ec915f0c56ea1e8be3`  
-_Eric takes in his troubled nephew Boro only to discover he's more than the Beef House could ever have expected._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261638488-BeefHouse_101_dup-20200106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261638488-BeefHouse_101_dup-20200106.jpg" height="144px" /></a>
-### 2053736
-**China, IL S03E06 - Parent's Day**  
-TV-14-DLV 🔓 22:33  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/china-il/parents-day  
-seriesid=`862772` titleid=`2053736` id=`aLp7cIYnRXmQCLlw8W-jqA` mediaid=`99a4bb7ce653af262f55698d34bf30b78321db8f`  
-_It's Parent's Day at UCI (for faculty, not students), but Baby Cakes can't attend because he has to visit his mom for the weekend._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_203217165-chinail_305_dup-20150501.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_203217165-chinail_305_dup-20150501.jpg" height="144px" /></a>
+No videos were removed.  
