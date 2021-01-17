@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 17, 2021 at 15:30:23 EST_
+_Last Update: January 17, 2021 at 16:00:45 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2224721 Smiling Friends: 1  
-### 2224722
-**Smiling Friends S99E?? - Smiling Friends**  
-TV-MA 🔓 14:01  
-⌛ January 23, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/smiling-friends/smiling-friends  
-seriesid=`2224721` titleid=`2224722` id=`AXFBBmXBRs3h4hI_X2zb` mediaid=`020010a88fab99bfe182319423394ab19fb5ada3`  
-_Desmond’s Big Day Out: A small company dedicated to bringing happiness to the world receives a simple request to help a woman’s unhappy son smile again, but the job turns out to be more complicated than it seems._  
-<a href="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_2043148580-SMILINGFRIENDS_online_thumb.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_2043148580-SMILINGFRIENDS_online_thumb.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177743
+**Naruto: Shippuden S06E31 - The Sad Sun Shower**  
+TV-PG 🔒 21:51  
+⌛ January 24, 2021 at 05:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-sad-sun-shower  
+seriesid=`812206` titleid=`2177743` id=`AXRPnEuoSeFB2d0c38u5` mediaid=`26a77f813d26649da4d1a22b52349cc6ca95d1a9`  
+_The weather-controlling enemy is revealed to be Yota, a boy who came to the Leaf Village years ago and befriended the local kids, including Naruto._  
+<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921217542-narutoshippuden_314_TheSadSunShower.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921217542-narutoshippuden_314_TheSadSunShower.jpg" height="144px" /></a>
