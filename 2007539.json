@@ -154,54 +154,6 @@
     },
     {
         "ott_launch_date": 1521469860,
-        "auth": false,
-        "auth_expiration_date": 1611118740,
-        "tms_id": "EP018514630030",
-        "description": "Sheriff guest stars on the crime fighting reality show, Sheriffs.",
-        "title_suggest": {
-            "input": [
-                "Sheriffs"
-            ]
-        },
-        "expiration_date": 1608094740,
-        "type": "episode",
-        "title": "Sheriffs",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 648.29,
-        "episode_number": "7",
-        "original_air_date": 1521432000,
-        "auth_launch_date": 1608094800,
-        "clip_order": null,
-        "media_id": "65cffdb045883636730bc2cdc4e3e5c9bfb27515",
-        "modified": 1607728702,
-        "airing_id": "RADS1012112000053371",
-        "id": "AWHX81TlNWyh42wYnlDC",
-        "slug": "sheriffs",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15197465106555.jpg",
-        "created": 1519746503,
-        "season_number": "3",
-        "title_id": "2120609",
-        "tv_rating": "tv-ma-sv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1607728702,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1605070800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465106555.jpg"
-    },
-    {
-        "ott_launch_date": 1521469860,
         "auth": true,
         "auth_expiration_date": 1611723540,
         "tms_id": "EP018514630031",
@@ -538,7 +490,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447173480,
         "auth_expiration_date": 1614142740,
         "tms_id": "EP018514630002",
@@ -640,6 +592,58 @@
         "launch_date": 1607490000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312115262-mrpickles_001_dup-20140909.jpg",
         "cma_id": "1430898"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447173600,
+        "auth_expiration_date": null,
+        "tms_id": "EP018514630008",
+        "description": "Grandpa wakes up hungover, and soon finds out that he made a horrible mistake the night before.",
+        "title_suggest": {
+            "input": [
+                "Grandpa's Night Out",
+                "Night Out",
+                "Out"
+            ]
+        },
+        "title": "Grandpa's Night Out",
+        "type": "episode",
+        "expiration_date": 1614142740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 680.2335669,
+        "episode_number": "7",
+        "original_air_date": 1414989000,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1610761752,
+        "media_id": "ac5dbcf0d9864a1f1c62a51718e5faaf58f6215e",
+        "airing_id": "RADS1001152100064066",
+        "id": "Zs9rieH7SICGG3weitRKgw",
+        "slug": "grandpas-night-out",
+        "views": 104625,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_20312111962-mrpickles_007_dup-20140918.jpg",
+        "created": 1414650025,
+        "title_id": "2032508",
+        "tv_rating": "tv-ma-v",
+        "season_number": "1",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1610761752,
+        "first_published": 1414650025,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1611118800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312111962-mrpickles_007_dup-20140918.jpg",
+        "cma_id": "1457740"
     },
     {
         "auth": false,
