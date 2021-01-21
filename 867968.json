@@ -203,6 +203,62 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1446845340,
+        "auth_expiration_date": 1519199999,
+        "tms_id": "EP014825730011",
+        "rating": 7.018182,
+        "description": "When a henchbaby's guilt comes back to haunt the Holler, Hurlan must become a man - all over his gun.",
+        "title_suggest": {
+            "input": [
+                "Mu-Mu-Mu-Meat"
+            ]
+        },
+        "type": "episode",
+        "title": "Mu-Mu-Mu-Meat",
+        "expiration_date": 1614229140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "gpQz0eFbTYebWp_hbdmWPw",
+        "duration": 673.3753128,
+        "episode_number": "5",
+        "original_air_date": 1379392200,
+        "clip_order": null,
+        "auth_launch_date": 1516176000,
+        "modified": 1610793954,
+        "media_id": "61d91ec199ad22df96d4db46654f829e76017b60",
+        "airing_id": "RADS1001152100064098",
+        "id": "J4de-Xm2TDmMwIcKXteyow",
+        "slug": "mu-mu-mu-meat",
+        "views": 13159,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035112280-heartsheholler_202_011_dup-20130904.jpg",
+        "created": 1402945479,
+        "title_id": "2007200",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1610793954,
+        "tags": [
+            "The Heart She Holler",
+            "Hurlan",
+            "Patton Oswalt",
+            "adult swim"
+        ],
+        "rating_count": 55,
+        "collection_title": "The Heart, She Holler",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1611205200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035112280-heartsheholler_202_011_dup-20130904.jpg",
+        "cma_id": "1418436"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -847,7 +903,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446845220,
         "auth_expiration_date": 1614229140,
         "tms_id": "EP014825730006",
