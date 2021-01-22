@@ -97,6 +97,52 @@
         "cma_id": "2132028"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1513611060,
+        "auth_expiration_date": 1515401099,
+        "tms_id": "EP027912080009",
+        "description": "Just watch this episode, trust me.",
+        "title_suggest": {
+            "input": [
+                "The Invasion",
+                "Invasion"
+            ]
+        },
+        "title": "The Invasion",
+        "type": "episode",
+        "expiration_date": 1614315540,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 1363.23,
+        "episode_number": "9",
+        "original_air_date": 1513574100,
+        "clip_order": null,
+        "auth_launch_date": 1513586700,
+        "modified": 1610876955,
+        "media_id": "e997bd097af8819be5282265d7f15fecaf5f0b15",
+        "airing_id": "RADS1001152100064148",
+        "id": "4X4xmJc8Sn-6DNQc4CxcEA",
+        "slug": "the-invasion",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15136128385054.jpg",
+        "created": 1508442224,
+        "season_number": "1",
+        "title_id": "2132034",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1610876955,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1611291600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15136128385054.jpg",
+        "cma_id": ""
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -294,56 +340,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580246898559.jpg",
         "id": "AWmWX7f_Hl5gR6828y3Z",
         "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1611291540,
-        "tms_id": "",
-        "description": "Cornell's high school is under seige.",
-        "title_suggest": {
-            "input": [
-                "Walla Walla Wallabees B",
-                "Walla Wallabees B",
-                "Wallabees B",
-                "B"
-            ]
-        },
-        "title": "Walla Walla Wallabees B",
-        "expiration_date": 1609803637,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-        "duration": 649.4822,
-        "episode_number": "9",
-        "original_air_date": 1561348800,
-        "auth_launch_date": 1609477200,
-        "clip_order": null,
-        "media_id": "89b64122d0e12cc7804dd2b327f3aa15e382e470",
-        "modified": 1610571037,
-        "airing_id": "RADS1012282000059246",
-        "slug": "walla-walla-wallabees-b",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156106128465713.jpg",
-        "created": 1553006002,
-        "season_number": "2",
-        "title_id": "2191421",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1610571037,
-        "tags": [],
-        "collection_title": "The Jellies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1563174900,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156106128465713.jpg",
-        "id": "AWmWXv_pHl5gR6828y3Y",
-        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -1049,7 +1045,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1510587060,
         "auth_expiration_date": 1614315540,
         "tms_id": "EP027912080004",
