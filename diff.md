@@ -2,26 +2,24 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 24, 2021 at 06:30:28 EST_
+_Last Update: January 24, 2021 at 07:00:32 EST_
 ## Video added
 ### Summary
-2236251 SSSS Gridman: 1  
-### 2236253
-**SSSS Gridman S01E02 - Restoration**  
-TV-PG-LV 🔒 22:52  
-⌛ February 14, 2021 at 05:59:00 EST  
-https://www.adultswim.com/videos/ssss-gridman/restoration  
-seriesid=`2236251` titleid=`2236253` id=`AXbeIfIFbxpjZvbXYl6u` mediaid=`473e6bd79bca20735f112a5d1aac6cfdf9075967`  
-_Yuta and his friends attempt to unravel the mystery of the city and everyone else's memories. However, more questions arise when a strange samurai arrives and tries to tamper with Gridman._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171335330-SSSS_Gridman_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171335330-SSSS_Gridman_002.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 2  
+### 2177754
+**Naruto: Shippuden S06E42 - Jinchuriki vs. Jinchuriki!!**  
+TV-PG-LV 🔒 00:00  
+⌛ May 9, 2021 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/jinchuriki-vs-jinchuriki  
+seriesid=`812206` titleid=`2177754` id=`AXcSB1PbQJ_4Uej5kTmg` mediaid=`29bf5708c9c39986b93b4e3216dc45e468ec45c9`  
+_Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan._  
+<a href="https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg" height="144px" /></a>
+### 2177754
+**Naruto: Shippuden S06E42 - Jinchuriki vs. Jinchuriki!!**  
+TV-PG-LV 🔒 21:51  
+⌛ May 9, 2021 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/jinchuriki-vs-jinchuriki  
+seriesid=`812206` titleid=`2177754` id=`AXcSB1PabxpjZvbXYmDA` mediaid=`29bf5708c9c39986b93b4e3216dc45e468ec45c9`  
+_Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan._  
 ## Video removed
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177743
-**Naruto: Shippuden S06E31 - The Sad Sun Shower**  
-TV-PG 🔒 21:51  
-⌛ January 24, 2021 at 05:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/the-sad-sun-shower  
-seriesid=`812206` titleid=`2177743` id=`AXRPnEuoSeFB2d0c38u5` mediaid=`26a77f813d26649da4d1a22b52349cc6ca95d1a9`  
-_The weather-controlling enemy is revealed to be Yota, a boy who came to the Leaf Village years ago and befriended the local kids, including Naruto._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921217542-narutoshippuden_314_TheSadSunShower.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921217542-narutoshippuden_314_TheSadSunShower.jpg" height="144px" /></a>
+No videos were removed.  
