@@ -1,21 +1,20 @@
 {
-    "updated": 1611467542,
-    "added": [],
-    "removed": [
+    "updated": 1611478939,
+    "added": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1560150840,
-            "tms_id": "",
-            "description": "Barry's brother comes to town and has a negative influence on Cornell.",
+            "auth_expiration_date": 1613293140,
+            "tms_id": "EP019059960089",
+            "description": "Reiner reflects on his past, remembering what pushed him to become a Warrior and keep moving forward when all hope was lost.",
             "title_suggest": {
                 "input": [
-                    "My Brother's Keeper",
-                    "Brother's Keeper",
-                    "Keeper"
+                    "The Door of Hope",
+                    "Door of Hope",
+                    "of Hope",
+                    "Hope"
                 ]
             },
-            "title": "My Brother's Keeper",
-            "expiration_date": 2085368400,
+            "title": "The Door of Hope",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -23,36 +22,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-            "duration": 676.42,
-            "episode_number": "1",
-            "original_air_date": 1558324800,
-            "auth_launch_date": 1558336500,
+            "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+            "duration": 1362.2275,
+            "episode_number": "3",
+            "original_air_date": "1611466200",
+            "auth_launch_date": 1611478800,
             "clip_order": null,
-            "media_id": "c795539121d219f1627b5b00bc0187d3eb7a1e29",
-            "modified": 1611466119,
-            "airing_id": "RADS1006071900097718",
-            "slug": "my-brothers-keeper",
+            "airing_id": "RADS1001222100065487",
+            "media_id": "97c35cc552d6df8273dd33e1125cf0aade799a68",
+            "modified": 1611338076,
+            "slug": "the-door-of-hope",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15580246898559.jpg",
-            "created": 1553006049,
-            "season_number": "2",
-            "title_id": "2191418",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/1_21121114545-attackontitan_062_DoorOfHope.jpg",
+            "created": 1611245096,
+            "season_number": "4",
+            "title_id": "2244425",
             "tv_rating": "tv-ma",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1611466119,
+            "published": 1611338076,
             "tags": [],
-            "collection_title": "The Jellies",
+            "collection_title": "Attack on Titan",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1560150900,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580246898559.jpg",
-            "id": "AWmWX7f_Hl5gR6828y3Z",
-            "auth": false,
-            "collection_slug": "the-jellies",
-            "collection_title_id": "2132025",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_21121114545-attackontitan_062_DoorOfHope.jpg",
+            "id": "AXclsQ5hQJ_4Uej5kTm9",
+            "auth": true,
+            "collection_slug": "attack-on-titan",
+            "collection_title_id": "2020945",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
