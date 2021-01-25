@@ -151,20 +151,20 @@
     },
     {
         "ott_launch_date": 1547479800,
-        "auth_expiration_date": 1611550740,
-        "tms_id": "EP029602940003",
-        "description": "Lord Festus tasks Tigtone with saving his ugly kingdom from ravaging beauty.",
+        "auth_expiration_date": 1610945940,
+        "tms_id": "EP029602940002",
+        "description": "Tigtone quests alone, just the way he likes it--until a fellowship is forced upon him.",
         "title_suggest": {
             "input": [
-                "Tigtone and the Beautiful War",
-                "and the Beautiful War",
-                "the Beautiful War",
-                "Beautiful War",
-                "War"
+                "Tigtone and His Fellowship Of",
+                "and His Fellowship Of",
+                "His Fellowship Of",
+                "Fellowship Of",
+                "Of"
             ]
         },
-        "title": "Tigtone and the Beautiful War",
-        "expiration_date": 1608526740,
+        "title": "Tigtone and His Fellowship Of",
+        "expiration_date": 1614574740,
         "type": "episode",
         "platforms": [
             "android",
@@ -174,31 +174,32 @@
             "roku"
         ],
         "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 676.75,
-        "episode_number": "2",
-        "original_air_date": 1547442900,
-        "auth_launch_date": 1608526800,
+        "duration": 677,
+        "episode_number": "1",
+        "original_air_date": 1547442000,
+        "auth_launch_date": 1607922000,
         "clip_order": null,
-        "media_id": "b540c7b279a08c43573c84f74ecbde47fe40330c",
-        "modified": 1608156876,
-        "airing_id": "RADS1012162000055997",
-        "slug": "tigtone-and-the-beautiful-war",
+        "media_id": "a54e64d9a60e5215ac253cd66d0d7ae45fb9083c",
+        "modified": 1611343796,
+        "airing_id": "RADS1001222100065524",
+        "slug": "tigtone-and-his-fellowship-of",
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15472229580923.jpg",
-        "created": 1546463049,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117941352-tigtone_101_dup-20181102.jpg",
+        "created": 1546462972,
         "season_number": "1",
-        "title_id": "2171684",
-        "tv_rating": "tv-14-v",
+        "title_id": "2171683",
+        "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1608156876,
+        "published": 1611343796,
         "tags": [],
         "collection_title": "Tigtone",
+        "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1605502800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15472229580923.jpg",
-        "id": "AWgQYXYNzQU7gEG1jvbH",
-        "auth": true
+        "launch_date": 1611550800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117941352-tigtone_101_dup-20181102.jpg",
+        "id": "AWgQYEklAScUIg8XxbiD",
+        "auth": false
     },
     {
         "ott_launch_date": 1548171000,
@@ -403,7 +404,7 @@
         "launch_date": 1608526800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895724671420.jpg",
         "id": "AWgQZUzbAScUIg8XxbiH",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1549294200,
@@ -933,7 +934,7 @@
         "launch_date": 1611550800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211794526-Tigtone_202_dup-20200630.jpg",
         "id": "AXRJttADLyLQBOXK_PMo",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1614574740,
@@ -981,7 +982,7 @@
         "launch_date": 1608526800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211794735-Tigtone_204_dup-20200717.jpg",
         "id": "AXRJu8nuSeFB2d0c38ty",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1612155540,
