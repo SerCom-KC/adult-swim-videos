@@ -1,51 +1,5 @@
 [
     {
-        "auth": false,
-        "auth_expiration_date": 1611637140,
-        "tms_id": "EP002960010176",
-        "description": "A storm hits the towns of Stoolbend, Quahog and Langley Falls. To help pass the time and calm his nerves, Brian consumes some questionable substances and has trouble sobering up. Meanwhile, Meg goes off the deep end after the family takes one too many jabs at her.",
-        "title_suggest": {
-            "input": [
-                "Seahorse Sea Shell Party",
-                "Sea Shell Party",
-                "Shell Party",
-                "Party"
-            ]
-        },
-        "title": "Seahorse Sea Shell Party",
-        "type": "episode",
-        "expiration_date": 1507357799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1304.0361,
-        "episode_number": "2",
-        "original_air_date": 1318302000,
-        "clip_order": null,
-        "auth_launch_date": 1611032400,
-        "modified": 1610759375,
-        "airing_id": "RADS1001152100064049",
-        "media_id": "f790ac3073c5e1e12351ec4b0eb0f7e11645f4a0",
-        "id": "-N3PEqeOTqGphpC4VBu_ew",
-        "slug": "seahorse-sea-shell-party",
-        "views": 1167,
-        "created": 1406352027,
-        "title_id": "809154",
-        "tv_rating": "tv-14",
-        "season_number": "10",
-        "active": false,
-        "published": 1610759375,
-        "first_published": 1406352027,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506753000,
-        "poster": "",
-        "cma_id": "1485134"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1611896340,
@@ -544,6 +498,56 @@
         "launch_date": 1506765600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088961897018.jpg",
         "cma_id": "1485268"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1612241940,
+        "tms_id": "EP002960010197",
+        "description": "When Lois discovers that Stewie's sick playmate is being denied medical treatment because his parents are Christian Scientists, she decides to take matters into her own hands.",
+        "title_suggest": {
+            "input": [
+                "Livin' on a Prayer",
+                "on a Prayer",
+                "a Prayer",
+                "Prayer"
+            ]
+        },
+        "title": "Livin' on a Prayer",
+        "type": "episode",
+        "expiration_date": 1508221799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1288.2202,
+        "episode_number": "12",
+        "original_air_date": 1328587200,
+        "clip_order": null,
+        "auth_launch_date": 1611637200,
+        "modified": 1611353733,
+        "media_id": "b044a73d0db533c3b3ff9928cf5f019b599b3cd9",
+        "airing_id": "RADS1001222100065586",
+        "id": "lGduOcc-Q6GEbaJHNi7-Sw",
+        "slug": "livin-on-a-prayer",
+        "views": 1245,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148483178612.jpg",
+        "created": 1406960428,
+        "title_id": "865330",
+        "tv_rating": "tv-14",
+        "season_number": "10",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1611353733,
+        "first_published": 1406960428,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1507617000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148483178612.jpg",
+        "cma_id": "1493717"
     },
     {
         "auth": false,
