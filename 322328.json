@@ -1,109 +1,54 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1450888080,
-        "auth_expiration_date": 1611723540,
-        "tms_id": "EP001022180073",
-        "rating": 5.797546,
-        "description": "The creators of Space Ghost Coast to Coast did not have enough time to finish the show.  So, here, watch this rough cut.",
+        "auth": false,
+        "ott_launch_date": 1450888140,
+        "auth_expiration_date": 1610513940,
+        "tms_id": "EP001022180021",
+        "rating": 8.152814,
+        "description": "Space Ghost's obsession with hair care products finally gets him into trouble when he lathers up with Chambraigne, the shampoo for your brain. Despite limb loss, Space Ghost tries to convince Bob Costas and the world that Chambraigne truly is an intelli-hancer. Then Carl explodes.",
         "title_suggest": {
             "input": [
-                "Live at the Filmore",
-                "at the Filmore",
-                "the Filmore",
-                "Filmore"
+                "Chambraigne"
             ]
         },
         "type": "episode",
-        "title": "Live at the Filmore",
-        "expiration_date": 1600613556,
+        "title": "Chambraigne",
+        "expiration_date": 1614747540,
         "platforms": [
             "web",
             "mobile",
             "ott"
         ],
         "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 641.6006006,
-        "episode_number": "2",
-        "original_air_date": null,
+        "duration": 700.6339673,
+        "episode_number": "1",
+        "original_air_date": 939438000,
         "clip_order": null,
-        "auth_launch_date": 1609909200,
-        "modified": 1609633649,
-        "airing_id": "RADS1012302000060035",
-        "media_id": "9aeefbc951ed10ef45ba81a8de2d48c6007ae9f5",
-        "id": "0CgjXBxgRkGPriCubw7YJQ",
-        "slug": "live-at-the-filmore",
-        "views": 16258,
+        "auth_launch_date": 1608699600,
+        "modified": 1611361523,
+        "airing_id": "RADS1001222100065620",
+        "media_id": "e87e4a58a573a77efd45756ecf951e1693f69a64",
+        "id": "2P-Gsxz5RDCOmGiWNAGTXg",
+        "slug": "chambraigne",
+        "views": 36813,
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420121391-sgc2c_2402_dst_cid-9281918.jpg",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201150503-sgc2c_9901_air.jpg",
         "created": 1402945476,
-        "title_id": "542886",
-        "season_number": "9",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1609633649,
-        "tags": [
-            "space ghost c2c sg episode 89 live at the filmore"
-        ],
-        "rating_count": 163,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1244088000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420121391-sgc2c_2402_dst_cid-9281918.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1449258300,
-        "auth_expiration_date": 1611723540,
-        "tms_id": "EP001022180015",
-        "rating": 7.512195,
-        "description": "Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin! Evil Twin!",
-        "title_suggest": {
-            "input": [
-                "Switcheroo"
-            ]
-        },
-        "type": "episode",
-        "title": "Switcheroo",
-        "expiration_date": 1603252740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 943.2335669,
-        "episode_number": "8",
-        "original_air_date": 900732600,
-        "clip_order": null,
-        "auth_launch_date": 1610514000,
-        "modified": 1610144885,
-        "airing_id": "RADS1001082100062115",
-        "media_id": "8ce2817a06fec618cf2271904d6b0cd288111f14",
-        "id": "0UXyxQVgQJyYpaPjBL6nhg",
-        "slug": "switcheroo",
-        "views": 24879,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945476,
-        "title_id": "322767",
-        "season_number": "3",
+        "title_id": "332367",
+        "season_number": "6",
         "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1610144885,
+        "published": 1611361523,
         "tags": [
-            "space ghost coast to coast episode 26 switcheroo evil twin susan olsen elvira"
+            "Space Ghost episode 69 Chambraigne"
         ],
-        "rating_count": 123,
+        "rating_count": 373,
         "collection_title": "Space Ghost Coast to Coast",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1600228800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/switcheroo/sgc2c_9608_dst_cid-9112594-201104191445049145.jpg",
+        "launch_date": 1611723600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201150503-sgc2c_9901_air.jpg",
         "cma_id": ""
     },
     {
@@ -156,58 +101,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1609304400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1449870840,
-        "auth_expiration_date": 1607489940,
-        "tms_id": "EP001022180020",
-        "rating": 9.497584,
-        "description": "Grandpa Space Ghost, whose physique is identical to his grandson's and whose voice is identical to WCW wrestler \"Macho Man\" Randy Savage, gives an \"OOOO-YEEAAAHHH!\" performance despite being clubbed with a chair by Zorak. Grandpa Ghostal interviews kid actress Raven Symone.",
-        "title_suggest": {
-            "input": [
-                "Piledriver"
-            ]
-        },
-        "type": "episode",
-        "title": "Piledriver",
-        "expiration_date": 1611723540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 632.8,
-        "episode_number": "18",
-        "original_air_date": 909199800,
-        "clip_order": null,
-        "auth_launch_date": 1605675600,
-        "modified": 1608273961,
-        "airing_id": "RADS1012162000056103",
-        "media_id": "3a79d317719736a471c0368e39c19aeb94ea0241",
-        "id": "AHVmtcYwRxeQQXC0SQndIQ",
-        "slug": "piledriver",
-        "views": 45541,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420113803-sgc2c_9718.jpg",
-        "created": 1402945476,
-        "title_id": "322344",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1608273961,
-        "tags": [
-            "space ghost coast to coast sgc2c episode 51 piledriver macho man randy savage grandpa leonard ghostal raven symone"
-        ],
-        "rating_count": 207,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608699600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420113803-sgc2c_9718.jpg",
         "cma_id": ""
     },
     {
@@ -413,111 +306,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1450888800,
-        "auth_expiration_date": 1611723540,
-        "tms_id": "EP001022180090",
-        "rating": 7.127118,
-        "description": "Girl hair. Hanson has it and Space Ghost is obsessed with combing it. This episode reveals Space Ghost's dark side as well as Zorak's desire to procure teeth so that he can get into clubs. Appearances by the Tooth Fairy and Santa bring about one of the weirdest scenes yet staged on the show.",
-        "title_suggest": {
-            "input": [
-                "Girl Hair",
-                "Hair"
-            ]
-        },
-        "type": "episode",
-        "title": "Girl Hair",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 703.9342676,
-        "episode_number": "3",
-        "original_air_date": 940647600,
-        "clip_order": null,
-        "auth_launch_date": 1609909200,
-        "modified": 1609633648,
-        "airing_id": "RADS1012302000060042",
-        "media_id": "d519f119aa2ce1753e38e20656b336f296e7c92d",
-        "id": "Nqw6vI_HQy6viMdOl_6pMQ",
-        "slug": "girl-hair",
-        "views": 33686,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201151469-sgc2c_9903_dst_cid-9153809.jpg",
-        "created": 1402945476,
-        "title_id": "332369",
-        "season_number": "6",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1609633648,
-        "tags": [
-            "Space Ghost Episode 71 Girl Hair"
-        ],
-        "rating_count": 236,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151469-sgc2c_9903_dst_cid-9153809.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1448983920,
-        "auth_expiration_date": 1611723540,
-        "tms_id": "EP001022180054",
-        "rating": 8.018808,
-        "description": "Space Ghost welcomes shiny happy Michael Stipe from R.E.M. (Space Ghost: \"Is that you in the corner?\"Stipe: \"Yes, it is.\") Later, he shares time-honored difficult-places-to-reach-while-scratching-stories with Lassie. Mujibur and Sirajul, frequent guest stars on \"The Late Show with David Letterman,\"mysteriously appear with Space Ghost's pizza.",
-        "title_suggest": {
-            "input": [
-                "Hungry"
-            ]
-        },
-        "type": "episode",
-        "title": "Hungry",
-        "expiration_date": 1597204740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 755.0333667,
-        "episode_number": "4",
-        "original_air_date": 940647600,
-        "clip_order": null,
-        "auth_launch_date": 1610514000,
-        "modified": 1610144144,
-        "airing_id": "RADS1001082100062116",
-        "media_id": "a6e9c27efe6cf61e889c7b89df561c8ff6d41895",
-        "id": "U_7PSt_pSz-jX_Bs4swieQ",
-        "slug": "hungry",
-        "views": 79744,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417951225-sgc2c_9504_bim.jpg",
-        "created": 1402945476,
-        "title_id": "322747",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1610144144,
-        "tags": [
-            "space ghost coast to coast c2c hungry episode 14"
-        ],
-        "rating_count": 319,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1594180800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417951225-sgc2c_9504_bim.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1448046300,
         "auth_expiration_date": 1612328340,
         "tms_id": "EP001022180001",
@@ -567,6 +355,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1588305600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417944474-sgc2c_9401_dst_cid-9114080.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1448046840,
+        "auth_expiration_date": 1613537940,
+        "tms_id": "",
+        "rating": 7.710692,
+        "description": "Self-proclaimed goddess of the galaxy Judy Tenuta and Space Ghost decide to visit the Elvis Chapel in Las Vegas. Space Ghost also talks with Dr. Timothy Leary, a man branded by Nixon as \"the most dangerous man alive.\"  Then, it's tacos for everybody, even actress Ashley Judd.",
+        "title_suggest": {
+            "input": [
+                "Elevator"
+            ]
+        },
+        "type": "episode",
+        "title": "Elevator",
+        "expiration_date": 1592366340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 638.7007007,
+        "episode_number": "3",
+        "original_air_date": 895289400,
+        "clip_order": null,
+        "auth_launch_date": 1611723600,
+        "modified": 1611363957,
+        "airing_id": "RADS1001222100065628",
+        "media_id": "b017de5503f79385fb2c594b63b50a0dfbe90d7f",
+        "id": "Xw2RPNeQRvuiJmkYA8Sp_g",
+        "slug": "elevator",
+        "views": 48561,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417945390-sgc2c_9403_dst_cid-9129902.jpg",
+        "created": 1402945476,
+        "title_id": "322735",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1611363957,
+        "tags": [
+            "space ghost c2c sg episode 3 elevator judy tenuta"
+        ],
+        "rating_count": 159,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1588305600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417945390-sgc2c_9403_dst_cid-9129902.jpg",
         "cma_id": ""
     },
     {
@@ -689,6 +529,57 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": 1448983980,
+        "auth_expiration_date": 1612933140,
+        "tms_id": "EP001022180061",
+        "rating": 7.3344593,
+        "description": "Feeling a little wired, Space Ghost asks professional wrestler Hulk Hogan to put him in a sleeper hold so that he can get some rest. Instead, Hogan recites an original haiku about Zorak. Slash from Guns 'N' Roses winds up the show with his usual gift for gab.",
+        "title_suggest": {
+            "input": [
+                "Sleeper"
+            ]
+        },
+        "type": "episode",
+        "title": "Sleeper",
+        "expiration_date": 1600613645,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 763.6339673,
+        "episode_number": "6",
+        "original_air_date": 960177600,
+        "clip_order": null,
+        "auth_launch_date": 1611723600,
+        "modified": 1611365720,
+        "media_id": "bf5a9b464bb37ea916c16327d95ac1e53e54838c",
+        "airing_id": "RADS1001222100065629",
+        "id": "lUoraWEWRWONNkWl2uwFpA",
+        "slug": "sleeper",
+        "views": 57829,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417952206-sgc2c_9506_dst_cid-9112591_rev.jpg",
+        "created": 1402945476,
+        "title_id": "322752",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1611365720,
+        "tags": [],
+        "rating_count": 296,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1311307200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417952206-sgc2c_9506_dst_cid-9112591_rev.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": false,
         "ott_launch_date": 1450802100,
         "auth_expiration_date": 1608699540,
@@ -738,6 +629,60 @@
         "modified_by": "ODT Listener",
         "launch_date": 1609909200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201143523-sgc2c_9803_air_cid-9129062.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1450889040,
+        "auth_expiration_date": 1613537940,
+        "tms_id": "EP001022180075",
+        "rating": 8.022785,
+        "description": "Jon Benjamin, voice of Ben Katz on Comedy Central's \"Dr. Katz,\"guests on a show that features rare appearances by Brak and Tansut.",
+        "title_suggest": {
+            "input": [
+                "King Dead",
+                "Dead"
+            ]
+        },
+        "type": "episode",
+        "title": "King Dead",
+        "expiration_date": 1600614327,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 721.4671338,
+        "episode_number": "8",
+        "original_air_date": 945489600,
+        "clip_order": null,
+        "auth_launch_date": 1611723600,
+        "modified": 1611363955,
+        "media_id": "ba483cdc363c88bd6d97eea48fcdcec7c270802e",
+        "airing_id": "RADS1001222100065626",
+        "id": "ldawDzfnQ6COIRBoxu3fDw",
+        "slug": "king-dead",
+        "views": 39787,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420115384-sgc2c_9909_dst_cid-9156745.jpg",
+        "created": 1402945476,
+        "title_id": "333229",
+        "season_number": "6",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1611363955,
+        "tags": [
+            "space ghost c2c episode 76 king dead jon benjamin dr katz"
+        ],
+        "rating_count": 395,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1302840000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420115384-sgc2c_9909_dst_cid-9156745.jpg",
         "cma_id": ""
     },
     {
@@ -791,6 +736,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1611118800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201149396-sgc2c_9812.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1449258420,
+        "auth_expiration_date": 1612933140,
+        "tms_id": "EP001022180105",
+        "rating": 8.624999,
+        "description": "Former \"Late Show With David Letterman\" writers scripted this unabashed spoof of late-night talk show convention. Janeane Garofalo reveals her secret power, then hypnotist Flip Orley joins Space Ghost until Zorak, using an incantation, turns him into David Grohl of the Foo Fighters. Sitting in with the band is John Popper of Blues Traveler.",
+        "title_suggest": {
+            "input": [
+                "Late Show",
+                "Show"
+            ]
+        },
+        "type": "episode",
+        "title": "Late Show",
+        "expiration_date": 1604465940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 1196.63,
+        "episode_number": "12",
+        "original_air_date": 897103800,
+        "clip_order": null,
+        "auth_launch_date": 1611723600,
+        "modified": 1611367527,
+        "airing_id": "RADS1001222100065638",
+        "media_id": "1f48f9c4fb79d9cf8733769395bbfec7835b6bce",
+        "id": "qTHfxyfxQs2HaaGe1rU0WQ",
+        "slug": "late-show",
+        "views": 57780,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417100106-sgc2c_9612_dst_cid-9105584.jpg",
+        "created": 1402945476,
+        "title_id": "322770",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1611367527,
+        "tags": [
+            "space ghost coast to coast episode 30 late show david letterman janeane garofalo flip orley dave grohl john popper foo fighters blues traveler"
+        ],
+        "rating_count": 104,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1601438400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417100106-sgc2c_9612_dst_cid-9105584.jpg",
         "cma_id": ""
     },
     {

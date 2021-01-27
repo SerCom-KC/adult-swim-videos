@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784280,
         "auth_expiration_date": 1614747540,
         "tms_id": "EP008994530021",
@@ -373,59 +373,6 @@
     {
         "auth": true,
         "ott_launch_date": 1447784100,
-        "auth_expiration_date": 1611723540,
-        "tms_id": "EP008994530020",
-        "rating": 7.635538,
-        "description": "Carol's worst fear is realized after revealing a secret tape she made for Mr. Henderson. (AD Miles)",
-        "title_suggest": {
-            "input": [
-                "Carol"
-            ]
-        },
-        "type": "episode",
-        "title": "Carol",
-        "expiration_date": 1608699540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 670.003,
-        "episode_number": "7",
-        "original_air_date": 1198473300,
-        "clip_order": null,
-        "auth_launch_date": 1608699600,
-        "modified": 1609964297,
-        "media_id": "07f567a0a3b65006540a69118b6d818c9f9ac31c",
-        "airing_id": "RADS1012162000056097",
-        "id": "ny9vR2SHSCK0xVTS3n6KqQ",
-        "slug": "carol",
-        "views": 680409,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161518118-timanderic_207.jpg",
-        "created": 1402945482,
-        "title_id": "691943",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1609964297,
-        "tags": [
-            "time and eric awesome show great job episode 17 carol mr mister henderson secret tape love fantasy"
-        ],
-        "rating_count": 4626,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1605675600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161518118-timanderic_207.jpg",
-        "cma_id": "1309446"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447784100,
         "auth_expiration_date": 1612328340,
         "tms_id": "EP008994530016",
         "rating": 7.6774297,
@@ -630,5 +577,60 @@
         "launch_date": 1610514000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161623387-timanderic_304.jpg",
         "cma_id": "1340231"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447784400,
+        "auth_expiration_date": 1583297940,
+        "tms_id": "EP008994530026",
+        "rating": 8.015266,
+        "description": "Jim and Derrick board, Chug, and get chill with Elisha Cuthbert in the zone. And damn... Drez plays it all back.",
+        "title_suggest": {
+            "input": [
+                "Jim and Derrick",
+                "and Derrick",
+                "Derrick"
+            ]
+        },
+        "type": "episode",
+        "title": "Jim and Derrick",
+        "expiration_date": 1614747540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 690.006,
+        "episode_number": "6",
+        "original_air_date": 1220243400,
+        "clip_order": null,
+        "auth_launch_date": 1580274000,
+        "modified": 1611365717,
+        "media_id": "b8be101e2d2830c89fb1ec5bdf175476d0d333c9",
+        "airing_id": "RADS1001222100065632",
+        "id": "zvqo-MP3TnqsuSTpSUl8Tw",
+        "slug": "jim-and-derrick",
+        "views": 739230,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161624280-timanderic_306.jpg",
+        "created": 1402945481,
+        "title_id": "723268",
+        "season_number": "3",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1611365717,
+        "tags": [
+            "tim eric awesome show great job episode 26 jim and derrick elisha cuthbert turbo fuel chug contest"
+        ],
+        "rating_count": 4063,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1611723600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161624280-timanderic_306.jpg",
+        "cma_id": "1348396"
     }
 ]
