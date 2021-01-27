@@ -52,7 +52,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1614747540,
         "tms_id": "EP002989350017",
@@ -160,6 +160,59 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1593575940,
+        "tms_id": "EP002989350022",
+        "rating": 9.071561,
+        "description": "A class trip to a hotel provides a great opportunity for some \"on location\" footage. It sounds like a great plan until Paula is asked to chaperone the trip with Mr. Lynch. Coach McGuirk has to get a second job to pay for damages resulting from a fight with the office coffeemaker.",
+        "title_suggest": {
+            "input": [
+                "Class Trip",
+                "Trip"
+            ]
+        },
+        "type": "episode",
+        "title": "Class Trip",
+        "expiration_date": 1614747540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1285.1334668,
+        "episode_number": "9",
+        "original_air_date": 1015210800,
+        "clip_order": null,
+        "auth_launch_date": 1590552000,
+        "modified": 1611365719,
+        "media_id": "79f1afada2767c016ebeef612ab9203c6496cec6",
+        "airing_id": "RADS1001222100065623",
+        "id": "Ri3WN8ZASDGszoIWKysYFg",
+        "slug": "class-trip",
+        "views": 412364,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035161883-hmovies_022.jpg",
+        "created": 1402945467,
+        "title_id": "344138",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1611365719,
+        "tags": [
+            "home movies class trip episode 22"
+        ],
+        "rating_count": 1090,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1611723600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161883-hmovies_022.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
         "auth_expiration_date": 1592366340,
         "tms_id": "EP002989350020",
         "rating": 8.94538,
@@ -207,60 +260,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1610514000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161793-hmovies_020.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1611723540,
-        "tms_id": "EP002989350012",
-        "rating": 9.144348,
-        "description": "Brendon gets hit by a car while riding down the wrong side of the road on his bicycle and ends up with Coach McGuirk representing him in court. Meanwhile, an old \"friend\" of Paula's from college pays an unexpected visit.",
-        "title_suggest": {
-            "input": [
-                "Law and Boarders",
-                "and Boarders",
-                "Boarders"
-            ]
-        },
-        "type": "episode",
-        "title": "Law and Boarders",
-        "expiration_date": 1608699540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1359.3003003,
-        "episode_number": "12",
-        "original_air_date": 1002506400,
-        "clip_order": null,
-        "auth_launch_date": 1608699600,
-        "modified": 1610386209,
-        "media_id": "f6088917d4fc8a76c62398602f55b04ea71e1984",
-        "airing_id": "RADS1012162000056111",
-        "id": "h3HPaRMQQqemVVasBpRx0Q",
-        "slug": "law-and-boarders",
-        "views": 366693,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035165282-hmovies_012.jpg",
-        "created": 1402945467,
-        "title_id": "344128",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610386209,
-        "tags": [
-            "home movies law and boarders episode 12"
-        ],
-        "rating_count": 672,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1605675600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035165282-hmovies_012.jpg",
         "cma_id": ""
     },
     {
