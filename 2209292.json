@@ -149,7 +149,7 @@
         "launch_date": 1611810000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022154575-DemonSlayer_004.jpg",
         "id": "AW3027Ng1YiBSfg0KX7b",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -199,55 +199,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_191022155152-DemonSlayer_005.jpg",
         "id": "AW302_aIadNs2hMNfuWR",
         "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1610600340,
-        "tms_id": "EP031940790002",
-        "description": "On his search for a cure to revive Nezuko's humanity, Tanjiro encounters a man-eating demon hungry for human flesh, only to be saved by an unlikely ally. Who says having a demonic little sister doesn't have its perks?",
-        "title_suggest": {
-            "input": [
-                "Trainer Sakonji Urokodaki",
-                "Sakonji Urokodaki",
-                "Urokodaki"
-            ]
-        },
-        "title": "Trainer Sakonji Urokodaki",
-        "type": "episode",
-        "expiration_date": 1611809940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
-        "duration": 1256.0214,
-        "episode_number": "2",
-        "original_air_date": 1571549400,
-        "auth_launch_date": 1606971600,
-        "clip_order": null,
-        "airing_id": "RADS1001082100062149",
-        "media_id": "d5440c8b3dd396159aa85b0a9d623f621242f6f2",
-        "modified": 1610386214,
-        "slug": "trainer-sakonji-urokodaki",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/1_191015125626-DemonSlayer_002.jpg",
-        "created": 1571154970,
-        "title_id": "2209294",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1610386214,
-        "tags": [],
-        "collection_title": "Demon Slayer",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610600400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_191015125626-DemonSlayer_002.jpg",
-        "id": "AW3QIkZMadNs2hMNfuTO",
-        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -447,6 +398,54 @@
         "launch_date": 1595304000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231039593-DemonSlayer_009.jpg",
         "id": "AW7MayQhadNs2hMNfuqL",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1615438740,
+        "tms_id": "EP033351550010",
+        "description": "Tanjirou's arsenal of techniques barely holds Yahaba's final Blood Demon Art at bay. Think German Expressionism, only demonic.",
+        "title_suggest": {
+            "input": [
+                "Together Forever",
+                "Forever"
+            ]
+        },
+        "title": "Together Forever",
+        "expiration_date": 1597118340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
+        "duration": 1255.9547,
+        "episode_number": "10",
+        "original_air_date": 1578205800,
+        "auth_launch_date": 1611810000,
+        "clip_order": null,
+        "media_id": "ad23eb39dd1fb73ee9cc3cdd3f4da2538ba2e623",
+        "modified": 1611398624,
+        "airing_id": "RADS1001222100065665",
+        "slug": "together-forever",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200309/thumbnails/1_20391051256-DemonSlayer_010.jpg",
+        "created": 1578326661,
+        "season_number": "1",
+        "title_id": "2209302",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1611398624,
+        "tags": [],
+        "collection_title": "Demon Slayer",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1595908800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200309/thumbnails/2_20391051256-DemonSlayer_010.jpg",
+        "id": "AW97mZkNGRcVO2K2pl_h",
         "auth": true
     }
 ]
