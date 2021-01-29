@@ -116,61 +116,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1451683020,
-        "auth_expiration_date": 1611896340,
-        "tms_id": "EP000337110020",
-        "rating": 8.570096,
-        "description": "When Xavier runs out of desert across which to ramble, he drowns in a sea of completion.",
-        "title_suggest": {
-            "input": [
-                "Braingea's Final Cranny",
-                "Final Cranny",
-                "Cranny"
-            ]
-        },
-        "type": "episode",
-        "title": "Braingea's Final Cranny",
-        "expiration_date": 1609879500,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
-        "duration": 689.32,
-        "episode_number": "10",
-        "original_air_date": 1239941700,
-        "clip_order": null,
-        "auth_launch_date": 1609477200,
-        "modified": 1609884994,
-        "airing_id": "RADS1012282000059314",
-        "media_id": "249071a4ea362194a235ac5181bf667f35a09de3",
-        "id": "C-TEcv5nStePWA22PdQ_Iw",
-        "slug": "braingeas-final-cranny",
-        "views": 113777,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_21141732531-xavier_210.jpg",
-        "created": 1402945482,
-        "title_id": "747220",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1609884994,
-        "tags": [
-            "xavier renegade angel episode 20 braingeas final cranny season finale mother hospital crazy mental ward"
-        ],
-        "rating_count": 428,
-        "collection_title": "Xavier: Renegade Angel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1543208400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141732531-xavier_210.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447786260,
         "auth_expiration_date": 1613710740,
         "tms_id": "EP000337110003",
@@ -445,7 +390,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447786260,
         "auth_expiration_date": 1614920340,
         "tms_id": "EP000337110005",
@@ -547,6 +492,62 @@
         "modified_by": "ODT Listener",
         "launch_date": 1543208400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141727525-xavier_102.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447786380,
+        "auth_expiration_date": null,
+        "tms_id": "EP000337110010",
+        "rating": 7.8037896,
+        "description": "And so the final chapter begends when Xavier meets his match.",
+        "title_suggest": {
+            "input": [
+                "Shakashuri Blowdown",
+                "Blowdown"
+            ]
+        },
+        "type": "episode",
+        "title": "Shakashuri Blowdown",
+        "expiration_date": 1614920340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+        "duration": 691.36,
+        "episode_number": "10",
+        "original_air_date": 1200286800,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1611481419,
+        "airing_id": "RADS1001222100065690",
+        "media_id": "f3decd5299cbb4b96d187a66853fd83d5a052e9c",
+        "id": "xcvEocTsRN-0cFVFMBEHWg",
+        "slug": "shakashuri-blowdown",
+        "views": 287779,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_2114173039-xavier_110.jpg",
+        "created": 1402945482,
+        "title_id": "693205",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1611481419,
+        "tags": [
+            "Xavier Renegade Angel",
+            "Adult Swim",
+            "Shakashuri Blowdown"
+        ],
+        "rating_count": 2375,
+        "collection_title": "Xavier: Renegade Angel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1611896400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114173039-xavier_110.jpg",
         "cma_id": ""
     }
 ]

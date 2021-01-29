@@ -294,6 +294,55 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1560150840,
+        "tms_id": "",
+        "description": "Barry's brother comes to town and has a negative influence on Cornell.",
+        "title_suggest": {
+            "input": [
+                "My Brother's Keeper",
+                "Brother's Keeper",
+                "Keeper"
+            ]
+        },
+        "title": "My Brother's Keeper",
+        "expiration_date": 1614920340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 676.42,
+        "episode_number": "1",
+        "original_air_date": 1558324800,
+        "auth_launch_date": 1558336500,
+        "clip_order": null,
+        "media_id": "c795539121d219f1627b5b00bc0187d3eb7a1e29",
+        "modified": 1611467371,
+        "airing_id": "RADS1001222100065677",
+        "slug": "my-brothers-keeper",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15580246898559.jpg",
+        "created": 1553006049,
+        "season_number": "2",
+        "title_id": "2191418",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1611467371,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1611896400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580246898559.jpg",
+        "id": "AWmWX7f_Hl5gR6828y3Z",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1560756540,
         "tms_id": "",
         "description": "Debbie meets a sleazy TV lawyer and gets swept up in the world of sleazy TV law.",
@@ -803,7 +852,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1511191860,
         "auth_expiration_date": 1614920340,
         "tms_id": "EP027912080005",
