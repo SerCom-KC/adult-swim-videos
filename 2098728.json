@@ -2282,7 +2282,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330065",
         "description": "Zamasu and Black merge into an immortal being with limitless power. Is this the end of Future Trunks' world? Is there any hope left for a victory?",
@@ -2551,7 +2551,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296814668916.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330070",
