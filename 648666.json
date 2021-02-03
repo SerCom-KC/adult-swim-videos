@@ -98,66 +98,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447168860,
-        "auth_expiration_date": 1612328340,
-        "tms_id": "EP008519090019",
-        "rating": 7.844651,
-        "description": "When Dethklok is given a Carte Blanche development deal, the future of silver screen entertainment rests in their hands.",
-        "title_suggest": {
-            "input": [
-                "Dethstars"
-            ]
-        },
-        "type": "episode",
-        "title": "Dethstars",
-        "expiration_date": 1609304340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 692.5672339,
-        "episode_number": "19",
-        "original_air_date": 1165812300,
-        "clip_order": null,
-        "auth_launch_date": 1609304400,
-        "modified": 1608881575,
-        "media_id": "fe9054b77c666c17359cd636ed92b7c63e490219",
-        "airing_id": "RADS1012232000058036",
-        "id": "K5JK0_C_SUK-N_vVOZnEAA",
-        "slug": "dethstars",
-        "views": 1086897,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111127329-metalocalypse_119.jpg",
-        "created": 1402945469,
-        "title_id": "655953",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1608881575,
-        "tags": [
-            "metalocalypse",
-            "dethklok",
-            "episode 19",
-            "dethstars",
-            "movie",
-            "deal",
-            "blood",
-            "ocean"
-        ],
-        "rating_count": 3328,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606280400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111127329-metalocalypse_119.jpg",
-        "cma_id": "1443558"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447169040,
         "auth_expiration_date": 1613537940,
         "tms_id": "EP008519090022",
@@ -421,7 +361,7 @@
         "cma_id": "1457886"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169100,
         "auth_expiration_date": 1615352340,
         "tms_id": "EP008519090024",
@@ -472,6 +412,57 @@
         "launch_date": 1609304400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111048229-metalocalypse_204_bim.jpg",
         "cma_id": "1466715"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447169220,
+        "auth_expiration_date": 1511947799,
+        "tms_id": "EP008519090029",
+        "rating": 9.0246525,
+        "description": "Dethklok travels to the Amazon where they learn about native brutality from the Yannemango Indians.",
+        "title_suggest": {
+            "input": [
+                "Dethcarraldo"
+            ]
+        },
+        "type": "episode",
+        "title": "Dethcarraldo",
+        "expiration_date": 1615352340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 691.4671338,
+        "episode_number": "9",
+        "original_air_date": 1212379200,
+        "clip_order": null,
+        "auth_launch_date": 1508315400,
+        "modified": 1611972045,
+        "media_id": "8887a0d690fa99538726fec007bbec15b05498c8",
+        "airing_id": "RADS1001292100069583",
+        "id": "xiJh6gyHTD2y_TjyAAQQiA",
+        "slug": "dethcarraldo",
+        "views": 851375,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111052280-metalocalypse_209_bim.jpg",
+        "created": 1402945469,
+        "title_id": "693499",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1611972045,
+        "tags": [],
+        "rating_count": 2880,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612328400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111052280-metalocalypse_209_bim.jpg",
+        "cma_id": "693499"
     },
     {
         "auth": true,
