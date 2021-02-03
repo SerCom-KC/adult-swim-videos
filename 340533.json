@@ -1,58 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": 1447438380,
-        "auth_expiration_date": 1612328340,
-        "tms_id": "EP004625760013",
-        "rating": 8.958435,
-        "description": "In his quest to build the evilest of all evil empires, Sparks invents a miraculous new drug. \"Stimutacs\" are billed as an \"herbal dietary supplement,\"but their side effects are truly amazing--and highly addictive! Can Dr. Quinn foil this nefarious plot?",
-        "title_suggest": {
-            "input": [
-                "Stimutacs"
-            ]
-        },
-        "type": "episode",
-        "title": "Stimutacs",
-        "expiration_date": 1609304340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.7674341,
-        "episode_number": "12",
-        "original_air_date": 1020050100,
-        "clip_order": null,
-        "auth_launch_date": 1609304400,
-        "modified": 1608882451,
-        "airing_id": "RADS1011112000044404",
-        "media_id": "e81429c594489a6b1ff0edf2b5d22719cb67ac38",
-        "id": "6BL__ORnQd6Ep1FF6G2nwg",
-        "slug": "stimutacs",
-        "views": 241284,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151429332-sealab_012.jpg",
-        "created": 1402945476,
-        "title_id": "415760",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1608882451,
-        "tags": [
-            "sealab 2021 stimutacs episode 12"
-        ],
-        "rating_count": 1275,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606280400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151429332-sealab_012.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447438680,
         "auth_expiration_date": 1614747540,
         "tms_id": "EP004625760017",
@@ -105,7 +53,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438740,
         "auth_expiration_date": 1615352340,
         "tms_id": "EP004625760018",
@@ -420,6 +368,56 @@
         "modified_by": "ODT Listener",
         "launch_date": 1611118800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_20415143196-sealab_016.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447438920,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760025",
+        "rating": 8.541329,
+        "description": "When something majorly weird happens, involving an explosion, something else majorly weird happens, involving Quinn's and Stormy's brains.",
+        "title_suggest": {
+            "input": [
+                "Brainswitch"
+            ]
+        },
+        "type": "episode",
+        "title": "Brainswitch",
+        "expiration_date": 1615352340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 684.8341675,
+        "episode_number": "11",
+        "original_air_date": 1053921600,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1611972045,
+        "airing_id": "RADS1001292100069584",
+        "media_id": "61d4182e556953c5af945b696ad89b0e89d4c279",
+        "id": "h9wK3iajSNilP6Srt1iriA",
+        "slug": "brainswitch",
+        "views": 185434,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151529317-sealab_024.jpg",
+        "created": 1402945476,
+        "title_id": "444405",
+        "season_number": "2",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1611972045,
+        "tags": [],
+        "rating_count": 617,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612328400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151529317-sealab_024.jpg",
         "cma_id": ""
     },
     {
