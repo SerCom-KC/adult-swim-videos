@@ -53,6 +53,59 @@
         "cma_id": "972683"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1451677620,
+        "auth_expiration_date": 1611896340,
+        "tms_id": "EP007819760009",
+        "rating": 7.273136,
+        "description": "The Dreamster Sound Effects Machine was designed to help you fall asleep naturally and deeply. Warning: side effects may include drowsiness, nightmares, and psychotic episodes. If you die in your dreams you die in real life.",
+        "title_suggest": {
+            "input": [
+                "Dreamster"
+            ]
+        },
+        "type": "episode",
+        "title": "Dreamster",
+        "expiration_date": 1615438740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
+        "duration": 708.27,
+        "episode_number": "9",
+        "original_air_date": 1193631300,
+        "clip_order": null,
+        "auth_launch_date": 1609477200,
+        "modified": 1612001716,
+        "media_id": "0a0a4eea21032cbc6f516b495a096c22513ad7e2",
+        "airing_id": "RADS1001292100069558",
+        "id": "3dFQgWnvTdqRD0XoOTa9PQ",
+        "slug": "dreamster",
+        "views": 463625,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361034268-lucy_109_air.jpg",
+        "created": 1402945468,
+        "title_id": "678355",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1612001716,
+        "tags": [
+            "lucy daughter of the devil episode 9 dreamster sound effects machine sleep"
+        ],
+        "rating_count": 3112,
+        "collection_title": "Lucy, The Daughter of the Devil",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612414800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361034268-lucy_109_air.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1451677500,
         "auth_expiration_date": 1614833940,
@@ -165,62 +218,6 @@
         "launch_date": 1611810000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036103482-lucy_108_air.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451677680,
-        "auth_expiration_date": 1612414740,
-        "tms_id": "EP007819760010",
-        "rating": 8.605093,
-        "description": "DJ Jesus and his entourage rent out an old Catholic girl's boarding school so he can work on his re-remix in quiet isolation. But thirty years ago this place was the scene of a grisly crime - and soon the past invades the present in the form of Catholic school girl ghosts and an irritating disco song.",
-        "title_suggest": {
-            "input": [
-                "Satan's School for Girls",
-                "School for Girls",
-                "for Girls",
-                "Girls"
-            ]
-        },
-        "type": "episode",
-        "title": "Satan's School for Girls",
-        "expiration_date": 1609477199,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
-        "duration": 702.9,
-        "episode_number": "10",
-        "original_air_date": 1194239700,
-        "clip_order": null,
-        "auth_launch_date": 1609477200,
-        "modified": 1609559140,
-        "media_id": "5c2e1396720c7fc7115a91bbf46c0ef03917bc23",
-        "airing_id": "RADS1012282000059216",
-        "id": "RlkirPulSFqMNsJIzGYtZw",
-        "slug": "satans-school-for-girls",
-        "views": 514267,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_2036110288-lucy_110_air.jpg",
-        "created": 1402945468,
-        "title_id": "678356",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1609559140,
-        "tags": [
-            "lucy daughter of the devil episode 10 satan's school for girls flashback banana hammock lifeguard re remix disco tomtom song jesus"
-        ],
-        "rating_count": 1922,
-        "collection_title": "Lucy, The Daughter of the Devil",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1591934400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036110288-lucy_110_air.jpg",
-        "cma_id": "972607"
     },
     {
         "auth": false,
@@ -439,7 +436,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451677500,
         "auth_expiration_date": 1615438740,
         "tms_id": "EP007819760004",

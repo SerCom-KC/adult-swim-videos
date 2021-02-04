@@ -352,7 +352,7 @@
         "launch_date": 1609390800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15574290498536.jpg",
         "id": "AWp5e-VZAScUIg8XxfZ-",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1557757800,
@@ -695,55 +695,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
         "id": "AWp5hFfgHl5gR6828zZU",
         "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1612414740,
-        "tms_id": "",
-        "description": "After Gary gets shot by one of the unborn, Satan institutes an unsensible gun policy to ensure something like that will happen again.",
-        "title_suggest": {
-            "input": [
-                "Conceal and Gary",
-                "and Gary",
-                "Gary"
-            ]
-        },
-        "title": "Conceal and Gary",
-        "expiration_date": 1609390740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 667.46,
-        "episode_number": "11",
-        "original_air_date": 1560571200,
-        "auth_launch_date": 1609390800,
-        "clip_order": null,
-        "media_id": "d8806c857a4ef8d8ee746aff3502c32001b2d17b",
-        "modified": 1610386212,
-        "airing_id": "RADS1012282000059127",
-        "slug": "conceal-and-gary",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036474992413.jpg",
-        "created": 1556816967,
-        "season_number": "4",
-        "title_id": "2191447",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1610386212,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606366800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg",
-        "id": "AWp5hbdAAScUIg8XxfaF",
-        "auth": false
     },
     {
         "ott_launch_date": null,

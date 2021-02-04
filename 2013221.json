@@ -404,7 +404,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505140140,
         "auth_expiration_date": 1615438740,
         "tms_id": "EP019881990011",
@@ -607,6 +607,56 @@
         "cma_id": "1478810"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1506954540,
+        "auth_expiration_date": 1608785940,
+        "tms_id": "EP019881990016",
+        "description": "Belle and Bonnie, owners of the Butter Barn, fall for the charm of an eccentric billionaire and lose their prized boy, Mongo in the process.",
+        "title_suggest": {
+            "input": [
+                "Butter"
+            ]
+        },
+        "title": "Butter",
+        "type": "episode",
+        "expiration_date": 1615438740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 1290.2919099,
+        "episode_number": "6",
+        "original_air_date": 1506916800,
+        "clip_order": null,
+        "auth_launch_date": 1605762000,
+        "modified": 1611993918,
+        "media_id": "1e07db9f8cf70dcdd751e6802ffe18b48af676ba",
+        "airing_id": "RADS1001292100069605",
+        "id": "psNwF_AEQk2tZck9gzZBSg",
+        "slug": "butter",
+        "views": 1897,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211784346-tebs_302_dup-20170925.jpg",
+        "created": 1506716302,
+        "season_number": "2",
+        "title_id": "2133105",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1611993918,
+        "first_published": 1506716302,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612414800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211784346-tebs_302_dup-20170925.jpg",
+        "cma_id": "1488191"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1613019540,
@@ -655,56 +705,6 @@
         "launch_date": 1606971600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117844495-tebs_106_dup-20140910.jpg",
         "cma_id": "1039683"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447785600,
-        "auth_expiration_date": 1612414740,
-        "tms_id": "EP019881990005",
-        "description": "Franklin Bing welcomes fellow actor and barista Tony K. Dort as his new roommate. Will their mutual love for latin jazz unite them, or will Dort represent another failed living arrangement for Bing? Dort's mom. Dos Tortugas.",
-        "title_suggest": {
-            "input": [
-                "Roommates"
-            ]
-        },
-        "expiration_date": 1609390740,
-        "title": "Roommates",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 1255.96,
-        "episode_number": "5",
-        "original_air_date": 1413519300,
-        "clip_order": null,
-        "auth_launch_date": 1609390800,
-        "modified": 1610027080,
-        "media_id": "94bab682925cd040fa74fcf3bc7f013cc87a0f00",
-        "airing_id": "RADS1012282000059117",
-        "id": "tgov7jOSSLGkHZGPVnMxMg",
-        "slug": "roommates",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117844344-tebs_105_dup-20140910.jpg",
-        "created": 1410544763,
-        "season_number": "1",
-        "title_id": "2024895",
-        "tv_rating": "tv-ma-s",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610027080,
-        "first_published": 1413181259,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "disable_ads": false,
-        "modified_by": "Duke Nguyen",
-        "launch_date": 1606366800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117844344-tebs_105_dup-20140910.jpg",
-        "cma_id": "1154562"
     },
     {
         "auth": false,
