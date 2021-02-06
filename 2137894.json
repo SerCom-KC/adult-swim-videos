@@ -889,7 +889,7 @@
     },
     {
         "ott_launch_date": 1524493800,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1613192340,
         "tms_id": "EP029156490005",
         "description": "When a stinky stalker torments The Leptons, they enlist the help of a former foe.",
@@ -1227,7 +1227,7 @@
         "launch_date": 1612587600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15252863563732.jpg",
         "id": "AWMg8HU5HAeP4-pUPe0Y",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
