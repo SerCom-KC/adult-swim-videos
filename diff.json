@@ -1,57 +1,55 @@
 {
-    "updated": 1612688440,
-    "added": [],
-    "removed": [
+    "updated": 1612690242,
+    "added": [
         {
-            "ott_launch_date": 1545060600,
-            "auth_expiration_date": 1611291540,
-            "tms_id": "EP029602990005",
-            "description": "Die once, shame on you.  Die once every three seconds, shame on us all.",
+            "auth_expiration_date": 1614502740,
+            "tms_id": "EP034992000064",
+            "description": "While Willy Tybur reveals the truth in a shocking speech to the world, tensions rise behind the stage as Eren and Reiner meet face to face.",
             "title_suggest": {
                 "input": [
-                    "ConstaDeath"
+                    "Declaration of War",
+                    "of War",
+                    "War"
                 ]
             },
-            "title": "ConstaDeath",
-            "expiration_date": 2085368400,
+            "title": "Declaration of War",
             "type": "episode",
+            "expiration_date": null,
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "ott",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-            "duration": 676.67,
-            "episode_number": "4",
-            "original_air_date": 1545023700,
-            "auth_launch_date": 1609477200,
+            "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+            "duration": 1362.5612,
+            "episode_number": "",
+            "original_air_date": 1612675800,
+            "auth_launch_date": 1612688400,
             "clip_order": null,
-            "media_id": "df27ea0f422a6f3f599dd79252ee22378dc2d337",
-            "modified": 1612686393,
-            "airing_id": "RADS1012311800056775",
-            "slug": "consta-death",
+            "airing_id": "RADS1002052100070651",
+            "media_id": "6dfa422ffd90433f8365abe3a4ee8bfb414a7f88",
+            "modified": 1612649162,
+            "slug": "declaration-of-war",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154473089725510.jpg",
-            "created": 1544124141,
-            "season_number": "1",
-            "title_id": "2172250",
-            "tv_rating": "tv-ma-v",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1612686393,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210205/thumbnails/1_2125188246-attackontitan_064_DeclarationofWar.jpg",
+            "created": 1612539281,
+            "title_id": "2244427",
+            "season_number": "4",
+            "tv_rating": "tv-14-lv",
+            "published": 1612649162,
             "tags": [],
-            "collection_title": "The Shivering Truth",
+            "collection_title": "Attack on Titan",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1546849800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg",
-            "id": "AWeE-I91AsbXwNj3wAaA",
-            "auth": false,
-            "collection_slug": "the-shivering-truth",
-            "collection_title_id": "2165429",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210205/thumbnails/2_2125188246-attackontitan_064_DeclarationofWar.jpg",
+            "id": "AXdy1MASQJ_4Uej5kTpx",
+            "auth": true,
+            "collection_slug": "attack-on-titan",
+            "collection_title_id": "2020945",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
