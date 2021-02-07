@@ -1,18 +1,16 @@
 {
-    "updated": 1612693933,
+    "updated": 1612695883,
     "added": [
         {
-            "auth_expiration_date": 1614508140,
+            "auth_expiration_date": 1614509940,
             "tms_id": "",
-            "description": "Karma must use his head to get past a formidable foe. Nagisa goes undercover as the E Class continues to sneak its way to the hotel's top floor.",
+            "description": "Rikka and Akane are invited on a group date, but the aftermath is disastrous. Will Yuta be able to convey his feelings for Rikka before it's too late?",
             "title_suggest": {
                 "input": [
-                    "Karma Time/2nd Period",
-                    "Time/2nd Period",
-                    "Period"
+                    "Suspicion"
                 ]
             },
-            "title": "Karma Time/2nd Period",
+            "title": "Suspicion",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -21,35 +19,86 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
-            "duration": 1290.2223,
-            "episode_number": "20",
-            "original_air_date": "1612681200",
-            "auth_launch_date": 1612693800,
+            "collection_id": "AXbO6qqIbxpjZvbXYl08",
+            "duration": 1326.4251,
+            "episode_number": "4",
+            "original_air_date": null,
+            "auth_launch_date": 1612695600,
             "clip_order": null,
-            "airing_id": "RADS1002052100070656",
-            "media_id": "de30bf6f3a1465ed251f7ea08b2e0e5092ce81e2",
-            "modified": 1612604385,
-            "slug": "karma-time-2nd-period",
+            "airing_id": "RADS1002012100069969",
+            "media_id": "5d421fb09712d4d647cb980616ecfed18aa09888",
+            "modified": 1612267730,
+            "slug": "suspicion",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/1_21122124530-AssassinationClass_120_KarmaTime2ndPeriod.jpg",
-            "created": 1611337505,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171335545-SSSS_Gridman_004.jpg",
+            "created": 1610044558,
             "season_number": "1",
-            "title_id": "2238433",
+            "title_id": "2236255",
             "tv_rating": "tv-14-l",
-            "published": 1612604385,
+            "published": 1612267730,
             "tags": [],
-            "collection_title": "Assassination Classroom",
+            "collection_title": "SSSS Gridman",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122124530-AssassinationClass_120_KarmaTime2ndPeriod.jpg",
-            "id": "AXcrMxo1QJ_4Uej5kTnN",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171335545-SSSS_Gridman_004.jpg",
+            "id": "AXbeIk3TQJ_4Uej5kTkE",
             "auth": true,
-            "collection_slug": "assassination-classroom",
-            "collection_title_id": "2238413",
+            "collection_slug": "ssss-gridman",
+            "collection_title_id": "2236251",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": 1612695540,
+            "tms_id": "",
+            "description": "Kabuto reanimates an army of unknown shinobi led by Danzo's former bodyguard Torune to retrieve the ones he lost to the Allied Forces.",
+            "title_suggest": {
+                "input": [
+                    "The Reanimated Allied Forces",
+                    "Reanimated Allied Forces",
+                    "Allied Forces",
+                    "Forces"
+                ]
+            },
+            "title": "The Reanimated Allied Forces",
+            "expiration_date": null,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.8772,
+            "episode_number": "33",
+            "original_air_date": null,
+            "auth_launch_date": 1603620000,
+            "clip_order": null,
+            "airing_id": "RADS1010172000036595",
+            "media_id": "7c7deb6bb6ba9bed0798172096bf7170c9c088a1",
+            "modified": 1612263681,
+            "slug": "the-reanimated-allied-forces",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/1_2091495389-narutoshippuden_316_TheReanimatedAllied.jpg",
+            "created": 1600091591,
+            "season_number": "6",
+            "title_id": "2177745",
+            "tv_rating": "tv-pg",
+            "published": 1612263681,
+            "tags": [],
+            "collection_title": "Naruto: Shippuden",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_2091495389-narutoshippuden_316_TheReanimatedAllied.jpg",
+            "id": "AXSM5BNMSeFB2d0c3857",
+            "auth": true,
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
+            "online_exclusives": false
+        }
+    ]
 }
