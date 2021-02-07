@@ -1,68 +1,17 @@
 {
-    "updated": 1612697451,
+    "updated": 1612699293,
     "added": [
         {
-            "auth_expiration_date": 1614509940,
+            "auth_expiration_date": 1621765740,
             "tms_id": "",
-            "description": "Rikka and Akane are invited on a group date, but the aftermath is disastrous. Will Yuta be able to convey his feelings for Rikka before it's too late?",
+            "description": "Naruto finds himself inside Four Tails' inner world, where he promises to free him from Madara's control.",
             "title_suggest": {
                 "input": [
-                    "Suspicion"
+                    "Nine Tails",
+                    "Tails"
                 ]
             },
-            "title": "Suspicion",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AXbO6qqIbxpjZvbXYl08",
-            "duration": 1326.4251,
-            "episode_number": "4",
-            "original_air_date": null,
-            "auth_launch_date": 1612695600,
-            "clip_order": null,
-            "airing_id": "RADS1002012100069969",
-            "media_id": "5d421fb09712d4d647cb980616ecfed18aa09888",
-            "modified": 1612267730,
-            "slug": "suspicion",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171335545-SSSS_Gridman_004.jpg",
-            "created": 1610044558,
-            "season_number": "1",
-            "title_id": "2236255",
-            "tv_rating": "tv-14-l",
-            "published": 1612267730,
-            "tags": [],
-            "collection_title": "SSSS Gridman",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171335545-SSSS_Gridman_004.jpg",
-            "id": "AXbeIk3TQJ_4Uej5kTkE",
-            "auth": true,
-            "collection_slug": "ssss-gridman",
-            "collection_title_id": "2236251",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth_expiration_date": 1612695540,
-            "tms_id": "",
-            "description": "Kabuto reanimates an army of unknown shinobi led by Danzo's former bodyguard Torune to retrieve the ones he lost to the Allied Forces.",
-            "title_suggest": {
-                "input": [
-                    "The Reanimated Allied Forces",
-                    "Reanimated Allied Forces",
-                    "Allied Forces",
-                    "Forces"
-                ]
-            },
-            "title": "The Reanimated Allied Forces",
+            "title": "Nine Tails",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -72,33 +21,34 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.8772,
-            "episode_number": "33",
-            "original_air_date": null,
-            "auth_launch_date": 1603620000,
+            "duration": 1311.5102,
+            "episode_number": "44",
+            "original_air_date": "1612684800",
+            "auth_launch_date": 1612697400,
             "clip_order": null,
-            "airing_id": "RADS1010172000036595",
-            "media_id": "7c7deb6bb6ba9bed0798172096bf7170c9c088a1",
-            "modified": 1612263681,
-            "slug": "the-reanimated-allied-forces",
+            "airing_id": "RADS1002012100069973",
+            "media_id": "920c8c2df3bb493ebd2c891960fbb336978eebb9",
+            "modified": 1612647635,
+            "slug": "nine-tails",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/1_2091495389-narutoshippuden_316_TheReanimatedAllied.jpg",
-            "created": 1600091591,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/1_211211112362-NarutoShippuden_327_NineTails.jpg",
+            "created": 1611245558,
             "season_number": "6",
-            "title_id": "2177745",
-            "tv_rating": "tv-pg",
-            "published": 1612263681,
+            "title_id": "2177756",
+            "tv_rating": "tv-pg-l",
+            "published": 1612647635,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_2091495389-narutoshippuden_316_TheReanimatedAllied.jpg",
-            "id": "AXSM5BNMSeFB2d0c3857",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211112362-NarutoShippuden_327_NineTails.jpg",
+            "id": "AXcluBsmbxpjZvbXYmEI",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
