@@ -2389,7 +2389,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152900350422316.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330066",
@@ -2606,7 +2606,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330071",
         "description": "Goku is convinced someone is trying to kill him, and he's ready to fight for his life. However, can Goku withstand an assassination attempt from the brutally efficient Hit?",
