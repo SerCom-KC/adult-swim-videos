@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447173540,
         "auth_expiration_date": 1615953540,
         "tms_id": "EP018514630006",
@@ -201,54 +201,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191024/thumbnails/2_1910241144587-mrpickles_401_dup-20190507.jpg",
         "id": "AW3-cW8x1YiBSfg0KX-J",
         "auth": true
-    },
-    {
-        "ott_launch_date": 1522074660,
-        "auth": false,
-        "auth_expiration_date": 1612933140,
-        "tms_id": "EP018514630033",
-        "description": "Grandpa's path to moving out and starting a new life away from Mr. Pickles leads him down dangerous roads.",
-        "title_suggest": {
-            "input": [
-                "Season 3 Finale",
-                "3 Finale",
-                "Finale"
-            ]
-        },
-        "title": "Season 3 Finale",
-        "type": "episode",
-        "expiration_date": 1609909140,
-        "platforms": [
-            "fire-tv",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 676.13,
-        "episode_number": "10",
-        "original_air_date": 1522037700,
-        "auth_launch_date": 1609909200,
-        "clip_order": null,
-        "media_id": "d376c95c41a9965e2a94454327ae5391ac0f08a3",
-        "modified": 1609634279,
-        "airing_id": "RADS1012302000060033",
-        "id": "AWJJbRujHAeP4-pUPd45",
-        "slug": "season-3-finale",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152182878693420.jpg",
-        "created": 1521650310,
-        "title_id": "2120617",
-        "tv_rating": "tv-ma-sv",
-        "season_number": "3",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1609634279,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606885200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152182878693420.jpg"
     },
     {
         "ott_launch_date": null,
@@ -652,6 +604,53 @@
         "launch_date": 1612328400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121119494-mrpickles_009_dup-20141112.jpg",
         "cma_id": "1466809"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1519659060,
+        "auth_expiration_date": 1607489940,
+        "tms_id": "EP018514630024",
+        "description": "Grandpa found his dead wife alive with Mr. Pickles. Now, Mr. Pickles\u2019 dark secrets are in jeopardy when Tommy attempts to download his Grandma\u2019s memories.",
+        "title_suggest": {
+            "input": [
+                "Brain Download",
+                "Download"
+            ]
+        },
+        "title": "Brain Download",
+        "type": "episode",
+        "expiration_date": 1615953540,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.58,
+        "episode_number": "1",
+        "original_air_date": 1519621200,
+        "clip_order": null,
+        "auth_launch_date": 1604466000,
+        "modified": 1612812353,
+        "media_id": "60aa75f8f86f780114a50bc2ff34f982b20044ad",
+        "airing_id": "RADS1002082100071149",
+        "id": "v80JNxOrQ5eO5X0cOumGVg",
+        "slug": "brain-download",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121124182-mrpickles_301_dup-20171102.jpg",
+        "created": 1496773366,
+        "season_number": "3",
+        "title_id": "2120608",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1612812353,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612933200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121124182-mrpickles_301_dup-20171102.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
