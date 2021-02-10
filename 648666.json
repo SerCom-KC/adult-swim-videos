@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169100,
         "auth_expiration_date": 1615953540,
         "tms_id": "EP008519090025",
@@ -95,6 +95,57 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152424259996810.jpg",
         "id": "AWLjfwKXHAeP4-pUPegp",
         "auth": false
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447169220,
+        "auth_expiration_date": 1512547199,
+        "tms_id": "EP008519090030",
+        "rating": 9.002677,
+        "description": "Nathan Explosion serves an emergency term as temporary governor for the state of Florida, sending Florida into a state of further emergency.",
+        "title_suggest": {
+            "input": [
+                "Dethgov"
+            ]
+        },
+        "type": "episode",
+        "title": "Dethgov",
+        "expiration_date": 1615953540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 691.5,
+        "episode_number": "10",
+        "original_air_date": 1212984000,
+        "clip_order": null,
+        "auth_launch_date": 1511856000,
+        "modified": 1612624923,
+        "media_id": "a7e7a6d26bcc97ccfacf16b39005ae89f2f89199",
+        "airing_id": "RADS1002052100070799",
+        "id": "TP6gkrIVQj6huYQK0Uk3RA",
+        "slug": "dethgov",
+        "views": 895476,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111052508-metalocalypse_210_bim.jpg",
+        "created": 1402945469,
+        "title_id": "693500",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1612624923,
+        "tags": [],
+        "rating_count": 3708,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612933200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111052508-metalocalypse_210_bim.jpg",
+        "cma_id": "693500"
     },
     {
         "auth": true,
@@ -463,71 +514,6 @@
         "launch_date": 1612328400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111052280-metalocalypse_209_bim.jpg",
         "cma_id": "693499"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447168860,
-        "auth_expiration_date": 1612933140,
-        "tms_id": "EP008519090020",
-        "rating": 9.169083,
-        "description": "In this first season finale, the Metalocalypse creeps closer to fulfillment when Dethklok executes their most brutal performance to date, and the Tribunal finally makes their move.",
-        "title_suggest": {
-            "input": [
-                "The Metalocalypse Has Begun",
-                "Metalocalypse Has Begun",
-                "Has Begun",
-                "Begun"
-            ]
-        },
-        "type": "episode",
-        "title": "The Metalocalypse Has Begun",
-        "expiration_date": 1609909140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 691.8341675,
-        "episode_number": "20",
-        "original_air_date": 1166417100,
-        "clip_order": null,
-        "auth_launch_date": 1609909200,
-        "modified": 1609635736,
-        "media_id": "9e2a9e859019701e5ad16accf4814f8707c0de59",
-        "airing_id": "RADS1012302000060018",
-        "id": "yifEfjaMRgGY4xtI3UZ-Lg",
-        "slug": "the-metalocalypse-has-begun",
-        "views": 703398,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111140415-metalocalypse_120.jpg",
-        "created": 1402945469,
-        "title_id": "655954",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1609635736,
-        "tags": [
-            "metalocalypse",
-            "dethklok",
-            "episode 20",
-            "has",
-            "begun",
-            "season",
-            "finale",
-            "concert",
-            "tribunal",
-            "assassin"
-        ],
-        "rating_count": 3732,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606885200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111140415-metalocalypse_120.jpg",
-        "cma_id": "1447979"
     },
     {
         "auth": true,

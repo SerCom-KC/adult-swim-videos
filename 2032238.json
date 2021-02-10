@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1615953540,
         "tms_id": "EP020020000022",
@@ -199,57 +199,6 @@
         "launch_date": 1610514000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111527570-miketysonmysteries_022.jpg",
         "cma_id": "1463062"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1612933140,
-        "tms_id": "EP020020000017",
-        "description": "Is the new location of a popular restaurant cursed?",
-        "title_suggest": {
-            "input": [
-                "A Plaintive Wail",
-                "Plaintive Wail",
-                "Wail"
-            ]
-        },
-        "expiration_date": 1609909140,
-        "title": "A Plaintive Wail",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 678.500417,
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "episode_number": "7",
-        "original_air_date": 1450674900,
-        "clip_order": null,
-        "auth_launch_date": 1609909200,
-        "modified": 1609635445,
-        "media_id": "ed0df2398ac4382a24677a8aa14e09a003f98968",
-        "airing_id": "RADS1011252000047316",
-        "id": "7GR_WzMmRCGcutfpc7IM6A",
-        "slug": "a-plaintive-wail",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111525512-miketysonmysteries_011.jpg",
-        "created": 1445443973,
-        "season_number": "2",
-        "title_id": "2069735",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1609635445,
-        "first_published": 1450340419,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606885200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111525512-miketysonmysteries_011.jpg",
-        "cma_id": "1434763"
     },
     {
         "auth": false,
@@ -556,57 +505,6 @@
         "cma_id": "1427048"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1612933140,
-        "tms_id": "EP020020000012",
-        "description": "Mike Tyson is asked to entertain the troops in Afghanistan.",
-        "title_suggest": {
-            "input": [
-                "For the Troops",
-                "the Troops",
-                "Troops"
-            ]
-        },
-        "expiration_date": 1606885140,
-        "title": "For the Troops",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 635.3336113,
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "episode_number": "2",
-        "original_air_date": 1447046100,
-        "clip_order": null,
-        "auth_launch_date": 1606885200,
-        "modified": 1606471539,
-        "media_id": "3a5354f169f7cdcd55e3a53dbb22a461273a3aea",
-        "airing_id": "RADS1010222000037274",
-        "id": "ausAZ70LT5S28ij7C1KEIw",
-        "slug": "for-the-troops",
-        "views": 32005,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111524138-miketysonmysteries_012.jpg",
-        "created": 1443721186,
-        "season_number": "2",
-        "title_id": "2069736",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1606471539,
-        "first_published": 1446711617,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1603857600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111524138-miketysonmysteries_012.jpg",
-        "cma_id": "2069736"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1614142740,
@@ -657,6 +555,57 @@
         "launch_date": 1608094800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111526260-miketysonmysteries_020.jpg",
         "cma_id": "1443099"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1521615599,
+        "tms_id": "EP020020000027",
+        "description": "A theater director fears his production of Macbeth is cursed!",
+        "title_suggest": {
+            "input": [
+                "The Bard's Curse",
+                "Bard's Curse",
+                "Curse"
+            ]
+        },
+        "expiration_date": 1615953540,
+        "title": "The Bard's Curse",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 690.2085071,
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "episode_number": "17",
+        "original_air_date": 1464579900,
+        "clip_order": null,
+        "auth_launch_date": 1518595200,
+        "modified": 1612812354,
+        "media_id": "67b30b9e98a75caffea0bb300b172d56d01c62d8",
+        "airing_id": "RADS1002082100071148",
+        "id": "ddPKl2HmTIeYnWVAGx7Xog",
+        "slug": "the-bards-curse",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111529199-miketysonmysteries_029.jpg",
+        "created": 1445444196,
+        "season_number": "2",
+        "title_id": "2069752",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1612812354,
+        "first_published": 1464243048,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612933200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111529199-miketysonmysteries_029.jpg",
+        "cma_id": "2069752"
     },
     {
         "auth": true,

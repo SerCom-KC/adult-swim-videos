@@ -153,7 +153,7 @@
         "cma_id": "1448911"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1452081600,
         "auth_expiration_date": 1615953540,
         "tms_id": "EP015399680031",
@@ -255,6 +255,61 @@
         "launch_date": 1609477200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361026201-loitersquad_026_dup-20140505.jpg",
         "cma_id": "1440575"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446846660,
+        "auth_expiration_date": 1529477999,
+        "tms_id": "EP015399680004",
+        "rating": 7.679312,
+        "description": "E.T.'s arrest leads to an interrogation room shootout; a pickup basketball game goes bottomless; some angry ice dancers take down a pig and a school.",
+        "title_suggest": {
+            "input": [
+                "Episode 4",
+                "4"
+            ]
+        },
+        "type": "episode",
+        "title": "Episode 4",
+        "expiration_date": 1615953540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
+        "duration": 667.500417,
+        "episode_number": "4",
+        "original_air_date": 1335151800,
+        "clip_order": null,
+        "auth_launch_date": 1529477880,
+        "modified": 1612622478,
+        "media_id": "746acc8c1c8dfd523ba277cbafb70b65d46063ee",
+        "airing_id": "RADS1002052100070762",
+        "id": "ay5slQFvTDC85dxHvJmrCg",
+        "slug": "episode-4",
+        "views": 235220,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361017254-loitersquad_104_dup-20120416.jpg",
+        "created": 1402945468,
+        "title_id": "887692",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1612622478,
+        "tags": [
+            "adult swim",
+            "loiter squad"
+        ],
+        "rating_count": 1740,
+        "collection_title": "Loiter Squad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612933200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361017254-loitersquad_104_dup-20120416.jpg",
+        "cma_id": "887692"
     },
     {
         "auth": true,
@@ -409,59 +464,6 @@
         "launch_date": 1611723600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361016368-loitersquad_102_dup-20120406.jpg",
         "cma_id": "1472859"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446847200,
-        "auth_expiration_date": 1612933140,
-        "tms_id": "EP015399680026",
-        "rating": 6.0917873,
-        "description": "The return of Catchphrase Jones; Family and friends hold a funeral for Carl.",
-        "title_suggest": {
-            "input": [
-                "Rock Bottom/People's Elbow",
-                "Bottom/People's Elbow",
-                "Elbow"
-            ]
-        },
-        "type": "episode",
-        "title": "Rock Bottom/People's Elbow",
-        "expiration_date": 1609801800,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
-        "duration": 675.8340284,
-        "episode_number": "5",
-        "original_air_date": 1402632000,
-        "clip_order": null,
-        "auth_launch_date": 1609909200,
-        "modified": 1609811637,
-        "media_id": "f47bf4daa9cd48cbcfd04b1450429d47339bc3cb",
-        "airing_id": "RADS1012302000060027",
-        "id": "lVJRqSWXQ1KnJivqHcsEHw",
-        "slug": "rock-bottom-peoples-elbow",
-        "views": 26283,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361025580-loitersquad_025_dup-20140509.jpg",
-        "created": 1405976601,
-        "title_id": "2021130",
-        "season_number": "3",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1609811637,
-        "tags": [],
-        "rating_count": 207,
-        "collection_title": "Loiter Squad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542949200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361025580-loitersquad_025_dup-20140509.jpg",
-        "cma_id": "1435723"
     },
     {
         "auth": false,

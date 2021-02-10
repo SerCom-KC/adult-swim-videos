@@ -210,7 +210,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438680,
         "auth_expiration_date": 1615953540,
         "tms_id": "EP004625760020",
@@ -316,6 +316,56 @@
         "modified_by": "ODT Listener",
         "launch_date": 1608094800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151430463-sealab_015.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447438860,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760024",
+        "rating": 7.4179945,
+        "description": "Dear Dr. Quinn:  Well, I hope you are having a great vacation and doing lots of fun things.  Yes, have a great time.  Oh, wait.  Never mind.  Because you're not going ANYWHERE!  Love, Murphy.",
+        "title_suggest": {
+            "input": [
+                "Vacation"
+            ]
+        },
+        "type": "episode",
+        "title": "Vacation",
+        "expiration_date": 1615953540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 659.3003003,
+        "episode_number": "9",
+        "original_air_date": 1054526400,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1612627960,
+        "airing_id": "RADS1002052100070816",
+        "media_id": "37797b55cfce0ff4fa69fde2f34c376ffe1903f7",
+        "id": "MHqojBEHTtmlC-AMryLj-A",
+        "slug": "vacation",
+        "views": 189070,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151528190-sealab_022.jpg",
+        "created": 1402945476,
+        "title_id": "437999",
+        "season_number": "2",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1612627960,
+        "tags": [],
+        "rating_count": 1256,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612933200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151528190-sealab_022.jpg",
         "cma_id": ""
     },
     {
@@ -470,61 +520,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1610514000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151525453-sealab_020.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447438380,
-        "auth_expiration_date": 1612933140,
-        "tms_id": "EP004625760014",
-        "rating": 8.398074,
-        "description": "Well, a summary of this episode would, in its essence, be a spoiler. But get ready to see some of your old favorites (and some soon-to-be favorites) in this season finale: Chopper Dave. The Bebop Cola Robot. The Forest Ranger Guy. Skanky Darlene. The Martian Quinn. And who can forget Debbie's boobies?",
-        "title_suggest": {
-            "input": [
-                "Swimming in Oblivion",
-                "in Oblivion",
-                "Oblivion"
-            ]
-        },
-        "type": "episode",
-        "title": "Swimming in Oblivion",
-        "expiration_date": 1609909140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.7674341,
-        "episode_number": "13",
-        "original_air_date": 1020656700,
-        "clip_order": null,
-        "auth_launch_date": 1609909200,
-        "modified": 1610386213,
-        "media_id": "4f8a056bc930434343c18bb13cd034d8fb49b5f4",
-        "airing_id": "RADS1012302000060041",
-        "id": "sg8NwTkBRvKRsD2bq6ka5Q",
-        "slug": "swimming-in-oblivion",
-        "views": 171651,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151429567-sealab_013.jpg",
-        "created": 1402945476,
-        "title_id": "417615",
-        "season_number": "1",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610386213,
-        "tags": [
-            "sealab 2021 swimming in oblivion episode 13"
-        ],
-        "rating_count": 623,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606885200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151429567-sealab_013.jpg",
         "cma_id": ""
     }
 ]
