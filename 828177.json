@@ -449,7 +449,7 @@
         "launch_date": 1609995600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
         "id": "AWp5faU7AScUIg8XxfZ_",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -694,55 +694,7 @@
         "launch_date": 1613019600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
         "id": "AWp5hFfgHl5gR6828zZU",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1613019540,
-        "tms_id": "",
-        "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
-        "title_suggest": {
-            "input": [
-                "Fried Alive",
-                "Alive"
-            ]
-        },
-        "title": "Fried Alive",
-        "expiration_date": 1609995540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 677.58,
-        "episode_number": "12",
-        "original_air_date": 1560572100,
-        "auth_launch_date": 1609995600,
-        "clip_order": null,
-        "media_id": "9c14aa29afbf5968ef2ed18c82e5db81e288550b",
-        "modified": 1609745178,
-        "airing_id": "RADS1001042100060366",
-        "slug": "fried-alive",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036482881015.jpg",
-        "created": 1556817021,
-        "season_number": "4",
-        "title_id": "2191449",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1609745178,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606971600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
-        "id": "AWp5hohlHl5gR6828zZV",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
