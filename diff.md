@@ -2,146 +2,95 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 12, 2021 at 00:30:24 EST_
+_Last Update: February 12, 2021 at 14:30:26 EST_
 ## Video added
-### Summary
-581006 American Dad: 3  
-2003422 Bob's Burgers: 2  
-798427 Check It Out! with Dr. Steve Brule: 1  
-547867 Tom Goes To The Mayor: 1  
-### 748220
-**American Dad S08E18 - Lost in Space**  
-TV-14 🔒 21:31  
-⌛ February 18, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/lost-in-space  
-seriesid=`581006` titleid=`748220` id=`RZFVgQBGR06dMRFMlECogw` mediaid=`2a4c7b812c19c2e9c4b32becb19b9d081f5cd866`  
-_In order to return to Earth, the space-bound Jeff must convince an Emperor that he is in love with Hayley._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180321360194.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180321360194.jpg" height="144px" /></a>
-### 748214
-**American Dad S08E16 - The Boring Identity**  
-TV-14 🔒 21:31  
-⌛ February 18, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-boring-identity  
-seriesid=`581006` titleid=`748214` id=`XnaRNcwGSVatNqjZuzzDDQ` mediaid=`77698cecba87b21253d4efaba292a828bd9254bd`  
-_When Stan loses his memory, Francine attempts to transform him into the perfect husband; Roger joins Steve's newspaper route._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803208209919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803208209919.jpg" height="144px" /></a>
-### 748218
-**American Dad S08E17 - The Full Cognitive Redaction of Avery Bullock by the Coward Stan Smith**  
-TV-14 🔒 21:31  
-⌛ February 18, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-full-cognitive-redaction-of-avery-bullock-by-the-coward-stan-smith  
-seriesid=`581006` titleid=`748218` id=`_1sXTK7gQQulIaX-njJqRw` mediaid=`53cd6080effcc7fb3b28971e957e762e593c8a1c`  
-_Stan learns that the CIA wants to wipe out Bullock's memory after he exhibits signs of dementia; Roger hires Stelio Kontos to deal with a student who's bullying Steve at school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803211999014.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803211999014.jpg" height="144px" /></a>
-### 2097196
-**Bob's Burgers S06E08 - Sexy Dance Healing**  
-TV-PG 🔒 21:31  
-⌛ February 18, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/sexy-dance-healing  
-seriesid=`2003422` titleid=`2097196` id=`irXYfNkpR0qqagndMoqUgw` mediaid=`f5141d7395baf55493b7990990f30bb67027c3ae`  
-_After Bob slips on the sidewalk, he is forced to take legal action in order to pay for surgery. In a turn of events, Bob finds himself under the care of Jairo, who promises to help him heal without a doctor. Meanwhile, the kids create a fake law firm to settle their personal disputes._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/sexy-dance-healing/bobsburgers_515_air_cid-2WYDJ_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sexy-dance-healing/bobsburgers_515_air_cid-2WYDJ_1.jpg" height="144px" /></a>
-### 2097195
-**Bob's Burgers S06E07 - The Gene & Courtney Show**  
-TV-PG 🔒 21:36  
-⌛ February 18, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-gene-courtney-show  
-seriesid=`2003422` titleid=`2097195` id=`0AdbNN_BQna5isz9nm-d8w` mediaid=`d20f210e961b22cdf3d1f662940d1802a77acbb2`  
-_Gene and Courtney get their big break when they are asked to be the new hosts of the morning announcements, but their romantic history threatens to get in the way. Meanwhile, Tina's attempt to play Cupid goes tragically awry when she volunteers to spearhead the Valentine's Day carnation fundraiser._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-gene-courtney-show/bobsburgers_601_air_cid-2WX48.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-gene-courtney-show/bobsburgers_601_air_cid-2WX48.jpg" height="144px" /></a>
-### 798428
-**Check It Out! with Dr. Steve Brule S01E04 - Health**  
-TV-14 🔓 11:08  
-⌛ March 18, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/health  
-seriesid=`798427` titleid=`798428` id=`Xe4z3nMfRkeqYan6Ea7fvg` mediaid=`cbc423c8a5fee1af3640315940e37baf5e7d73a3`  
-_Dr. Steve learns a few beauty tips, and finds a path to inner peace._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032152090-checkitout_104_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032152090-checkitout_104_bim.jpg" height="144px" /></a>
-### 612758
-**Tom Goes To The Mayor S01E09 - Re-Birth**  
-TV-MA 🔓 11:48  
-⌛ March 18, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/re-birth  
-seriesid=`547867` titleid=`612758` id=`_aEKJkhaTx-Tb4wuQMQXfA` mediaid=`63903d39e4b926cace8adcb33098f71196db2cbf`  
-_Tom tries to start a consulting business in Jefferton but is denied by City Council until his family becomes registered._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836571-tgttm_009.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836571-tgttm_009.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-2211644 Three Busy Debras: 1  
-547867 Tom Goes To The Mayor: 1  
-581006 American Dad: 3  
-798427 Check It Out! with Dr. Steve Brule: 1  
-895948 The Eric Andre Show: 1  
-### 2030320
-**Bob's Burgers S04E19 - The Kids Run Away**  
-TV-14-DLSV 🔒 21:29  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-run-away  
-seriesid=`2003422` titleid=`2030320` id=`HitQgvSzThuAVR_UfR4vrg` mediaid=`1e654ff19406e44ebbb2203b6987b21a2c10ae58`  
-_Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg" height="144px" /></a>
-### 2030321
-**Bob's Burgers S04E20 - Gene It On**  
- 🔒 21:31  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/gene-it-on  
-seriesid=`2003422` titleid=`2030321` id=`wWlw54Z8TwmdAibq5WkgmQ` mediaid=`934a5df202b2d9c777f98a3dd91cf0f6256a9c28`  
-_Tina decides to try out for the cheerleading squad, but it's actually Gene who gets noticed in the crowd for his spirit and cheering ability. Meanwhile, during her cheer audition, Tina falls and bites her tongue, leaving her unable to speak - and a mischievous Louise steps up to be her translator._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg" height="144px" /></a>
-### 2211645
-**Three Busy Debras S01E01 - A Very Debra Christmas**  
-TV-14-DLSV 🔓 11:07  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/three-busy-debras/a-very-debra-christmas  
-seriesid=`2211644` titleid=`2211645` id=`AXDAA47b3HMJfT8do9OU` mediaid=`1b95f58e1a3f3b0f80b55cdd177f1bf9c8c1eb21`  
-_Debra, Debra, and Debra make a big mess on the way to brunch and must clean up the evidence before it's too late._  
-<a href="https://media.cdn.adultswim.com/uploads/20200309/thumbnails/2_20391156505-ThreeBusyDebras_101_dup-20191115.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200309/thumbnails/2_20391156505-ThreeBusyDebras_101_dup-20191115.jpg" height="144px" /></a>
-### 607108
-**Tom Goes To The Mayor S01E03 - WW Laserz**  
-TV-PG 🔒 11:35  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/ww-laserz  
-seriesid=`547867` titleid=`607108` id=`LIeGI_YTT3KeyCqV508ZsA` mediaid=`47092b374778aab28d4e26e9a39515a5fb93dc16`  
-_Tom proposes a World War II-themed restaurant, but the Mayor's nephew turns it into an arcade/pizza parlor that veers far from his original vision._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211783543-tgttm_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211783543-tgttm_003.jpg" height="144px" /></a>
-### 748203
-**American Dad S08E01 - Love American Dad Style**  
-TV-14 🔒 21:31  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/love-american-dad-style  
-seriesid=`581006` titleid=`748203` id=`JSI3gl09T1uuWRctY7mIcQ` mediaid=`4495a5a8d965decee3a99f3eeda187ce76229713`  
-_Roger (Seth MacFarlane) opens a crooner's bar in the Smith family's attic and recruits Hayley (Rachael MacFarlane) as his main entertainer. Soon, all of Langley Falls becomes enthralled by her singing voice - including Roger, who takes his crush on Hayley a bit too far. Meanwhile, Stan tries to prove his manhood by negotiating a good deal on a new car._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180320126392.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180320126392.jpg" height="144px" /></a>
-### 748177
-**American Dad S07E18 - Toy Whorey**  
-TV-14 🔒 21:32  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/toy-whorey  
-seriesid=`581006` titleid=`748177` id=`ZNMqjxtWQuyD18K1WVC6cA` mediaid=`0568a7b4fcbb7fff1ac95d4f6dcb5a513d5a4c34`  
-_Stan wants Steve to stop playing with toys and be a man, so he brings Steve to Mexico to make love to a prostitute; Roger attempts to retrieve a bottle of wine from Terry and Greg._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312479901537.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312479901537.jpg" height="144px" /></a>
-### 748178
-**American Dad S07E17 - Ricky Spanish**  
-TV-14 🔒 21:32  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/ricky-spanish  
-seriesid=`581006` titleid=`748178` id=`kr-W66nzTjGoQeoeLzG0GQ` mediaid=`37c21def8464ff30b255352e31b6f2ef6d1df1bf`  
-_Steve convinces Roger to redeem his most hated and disgusting persona, Ricky Spanish, while Stan and Francine get a visit from the Nigerian boy they once sponsored._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999410931.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999410931.jpg" height="144px" /></a>
-### 2016881
-**Check It Out! with Dr. Steve Brule S03E06 - Skateboards**  
-TV-14-LV 🔒 11:14  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/skateboards  
-seriesid=`798427` titleid=`2016881` id=`fp4mYhYhSdGzAIzlmU3MMw` mediaid=`a7262bf0f2ca94c8d7cacb795de2545488bc1cbe`  
-_Dr. Steven Brule teaches YOU how to ride around on a skateboard also with cool tricks._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321613152-checkitout_018_dup-20140314.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321613152-checkitout_018_dup-20140314.jpg" height="144px" /></a>
-### 2240454
-**The Eric Andre Show S05E?? - The Eric Andre Show: The Making of Season Five**  
-TV-MA-LS 🔓 11:15  
-⌛ February 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-eric-andre-show/the-eric-andre-show-the-making-of-season-five  
-seriesid=`895948` titleid=`2240454` id=`AXWPF5rqbxpjZvbXYlbm` mediaid=`824bdc8a2cdbee1a85dcb297b4a47e45d0665173`  
-_The making of The Eric Andre Show has forever been shrouded in mystery... but now you can finally see the blood, sweat, and ranch that goes into it._  
-<a href="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131211270-ericandre_511_S5_BTS_CENSORED_dup-20201019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131211270-ericandre_511_S5_BTS_CENSORED_dup-20201019.jpg" height="144px" /></a>
+2132025 The Jellies: 1  
+2137894 Ballmastrz: 9009: 1  
+2193955 JoJo's Bizarre Adventure: 1  
+2215447 Beef House: 1  
+2215991 Sword Art Online: Alicization - War of Underworld: 4  
+830073 Off The Air: 1  
+862772 China, IL: 1  
+### 2191419
+**The Jellies S02E04 - Crash for Cash**  
+TV-14-DLSV 🔓 11:16  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-jellies/crash-for-cash  
+seriesid=`2132025` titleid=`2191419` id=`AWmWYAl_AScUIg8XxeHK` mediaid=`ee5422a59e5377fb9df94b43d8015e212bf0e8ff`  
+_Debbie meets a sleazy TV lawyer and gets swept up in the world of sleazy TV law._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862422482119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862422482119.jpg" height="144px" /></a>
+### 2199779
+**Ballmastrz: 9009 S02E04 - Children of the Night Serenade Wet Nurse of Reprisal; Scream, Bloodsucker, Scream!**  
+ 🔓 10:51  
+⌛ February 12, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/ballmastrz-9009/children-of-the-night-serenade-wet-nurse-of-reprisal-scream-bloodsucker-scream  
+seriesid=`2137894` titleid=`2199779` id=`AW3u_YDX1YiBSfg0KX6P` mediaid=`3c5773464745732f48d3f4422cab0738ada76a3f`  
+_When Gaz falls under the spell of a mysterious pickup artist, one of her teammates must resurrect a heroic alter ego to save the day._  
+<a href="https://media.cdn.adultswim.com/uploads/20191021/thumbnails/2_191021114497-ballmastrz9009_206_dup-20190607.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191021/thumbnails/2_191021114497-ballmastrz9009_206_dup-20190607.jpg" height="144px" /></a>
+### 2193979
+**JoJo's Bizarre Adventure S04E23 - Crush and Talking Mouth**  
+TV-MA-LV 🔒 22:39  
+⌛ February 14, 2021 at 11:59:00 EST  
+https://www.adultswim.com/videos/jo-jos-bizarre-adventure/crush-and-talking-mouth  
+seriesid=`2193955` titleid=`2193979` id=`AXGngCbJC8QgH-t19IVy` mediaid=`6a9308232a676ff087346f4577fc5192b12a4f18`  
+_As Giorno is teleported between puddles with Squalo's shark attached firmly to his jugular, Narancia tries to sniff out the perpetrator using his CO2 tracer but is inhibited by Tiziano's tongue-fusing Stand._  
+<a href="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231045222-jojo_goldenwind_023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231045222-jojo_goldenwind_023.jpg" height="144px" /></a>
+### 2215452
+**Beef House S01E01 - Army Buddy Brad**  
+TV-MA-LS 🔓 11:59  
+⌛ February 17, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/beef-house/army-buddy-brad  
+seriesid=`2215447` titleid=`2215452` id=`AXCDbmLEGRcVO2K2pm9X` mediaid=`6da3ff5c46cd2d65b974b6a7d389460b6be35152`  
+_As Eric prepares his greatest Easter ever, Tim's army buddy Brad visits the Beef House, causing mayhem as he sets up camp and takes control._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226163947-BeefHouse_105_dup-20200106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226163947-BeefHouse_105_dup-20200106.jpg" height="144px" /></a>
+### 2215995
+**Sword Art Online: Alicization - War of Underworld S01E04 - Dark Territory**  
+TV-MA-V 🔒 22:01  
+⌛ February 14, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/dark-territory  
+seriesid=`2215991` titleid=`2215995` id=`AW_T-x97GRcVO2K2pmX2` mediaid=`0548d9f358bf41e13239d9bc7478c54ab4e99fc0`  
+_Shasta had intended to use Administrator's death as an opportunity to propose a truce with the Human Empire, but his plans are thwarted by Emperor Vecta's return to the Land of Darkness._  
+<a href="https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231457226-SAO_WoU_004.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231457226-SAO_WoU_004.jpg" height="144px" /></a>
+### 2216001
+**Sword Art Online: Alicization - War of Underworld S01E10 - Stacia, the Goddess of Creation**  
+TV-PG-V 🔒 22:01  
+⌛ February 14, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/stacia-the-goddess-of-creation  
+seriesid=`2215991` titleid=`2216001` id=`AXCnHBkYGRcVO2K2pm-s` mediaid=`c73a86df23597b7ce2c1a1c6a1c1dd936eadc95f`  
+_Asuna has logged into the Underworld using the super-account of Stacia, the Goddess of Creation. She unleashes a rainbow-hued aurora-like Sacred Art that causes landscape alteration._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341453129-SAO_WoU_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341453129-SAO_WoU_010.jpg" height="144px" /></a>
+### 2216002
+**Sword Art Online: Alicization - War of Underworld S01E11 - Heartless Choice**  
+TV-14-LV 🔒 22:46  
+⌛ February 14, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/heartless-choice  
+seriesid=`2215991` titleid=`2216002` id=`AXCnHKak3HMJfT8do9HM` mediaid=`bb26e65541e6e0f2fcbc1db85364c280faa5c942`  
+_Using the "landscape alteration" command, Asuna has created a bottomless gorge. The Dark Knights and the Pugilists attempt to cross over to the other side where the Human Empire Army awaits them._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341453486-SAO_WoU_011.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341453486-SAO_WoU_011.jpg" height="144px" /></a>
+### 2216003
+**Sword Art Online: Alicization - War of Underworld S01E12 - Ray of Light**  
+TV-14-LV 🔒 22:01  
+⌛ February 14, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/ray-of-light  
+seriesid=`2215991` titleid=`2216003` id=`AXDUPEnNRs3h4hI_X2Uh` mediaid=`3f59718e74d3f231be6cb1b03f4d90870428f7f4`  
+_Thanks to Gabriel's scheme, U.S. gamers from the real world have been granted Dark Knight accounts allowing them to slaughter the Artificial Fluctlights._  
+<a href="https://media.cdn.adultswim.com/uploads/20200313/thumbnails/2_203131011211-SAO_WoU_012.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200313/thumbnails/2_203131011211-SAO_WoU_012.jpg" height="144px" /></a>
+### 964851
+**Off The Air S02E03 - Nightmares**  
+TV-14-V 🔓 11:04  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/off-the-air/nightmares  
+seriesid=`830073` titleid=`964851` id=`kRiOneXOR6yeC-8psSOO6w` mediaid=`3bf724d61780f88ac24f65f0f477bcc5b77c6c8b`  
+_They don't only happen while you're sleeping. You're having one right now._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121325325-offtheair_203_dup-20121220.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121325325-offtheair_203_dup-20121220.jpg" height="144px" /></a>
+### 2053739
+**China, IL S03E10 - Magical Pet**  
+TV-14-DLSV 🔓 45:13  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/china-il/magical-pet  
+seriesid=`862772` titleid=`2053739` id=`EOFr0c1eR-2AEy-PF1yKYQ` mediaid=`e5ac3fc17003666f9fd9dd2525916b064ee31b2f`  
+_In this one-hour musical episode, Baby Cakes wants a magical pet; Frank discovers why women find him unattractive; and Pony & Steve do horrifying things to prove to each other that they are good people._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032173146-chinail_308_dup-20150612_cut.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032173146-chinail_308_dup-20150612_cut.jpg" height="144px" /></a>
