@@ -115,6 +115,58 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1451682840,
+        "auth_expiration_date": null,
+        "tms_id": "EP000337110012",
+        "rating": 6.6455975,
+        "description": "Xavier unleashes his revolutionary lifesaving maneuver all up on those who find theyselfs in need of his protection.",
+        "title_suggest": {
+            "input": [
+                "Xavier's Maneuver",
+                "Maneuver"
+            ]
+        },
+        "type": "episode",
+        "title": "Xavier's Maneuver",
+        "expiration_date": 1616126340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+        "duration": 686.95,
+        "episode_number": "2",
+        "original_air_date": 1235106900,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1612812352,
+        "airing_id": "RADS1002082100071151",
+        "media_id": "80c6abae6aaa2d294ae85492a293d265322d41a3",
+        "id": "Bxz_WXplRY6N1bXToRDR3A",
+        "slug": "xaviers-maneuver",
+        "views": 116584,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_21141730588-xavier_202.jpg",
+        "created": 1402945482,
+        "title_id": "747212",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1612812352,
+        "tags": [],
+        "rating_count": 886,
+        "collection_title": "Xavier: Renegade Angel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613106000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730588-xavier_202.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447786260,
         "auth_expiration_date": 1613710740,
@@ -168,7 +220,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447786320,
         "auth_expiration_date": 1616126340,
         "tms_id": "EP000337110007",
@@ -437,59 +489,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1609477200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141728412-xavier_105.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447786200,
-        "auth_expiration_date": 1613105940,
-        "tms_id": "EP000337110002",
-        "rating": 6.934293,
-        "description": "When a young boy's dreams of mascoting gets crushed by a local gang of gang members, Xavier takes the toughs under his wing. His good deedery results in a drug Lord's death-and per chance a lover for Xavier",
-        "title_suggest": {
-            "input": [
-                "Chief Beef Loco",
-                "Beef Loco",
-                "Loco"
-            ]
-        },
-        "type": "episode",
-        "title": "Chief Beef Loco",
-        "expiration_date": 1610081940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
-        "duration": 692.6,
-        "episode_number": "2",
-        "original_air_date": 1194843600,
-        "clip_order": null,
-        "auth_launch_date": 1610082000,
-        "modified": 1610386211,
-        "airing_id": "RADS1001042100060380",
-        "media_id": "a0758cd3a62cc3f689c17bf3a2b08bcf6374f91f",
-        "id": "sOEAUQNFS9ebxHH_EKImBg",
-        "slug": "chief-beef-loco",
-        "views": 329895,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_21141727525-xavier_102.jpg",
-        "created": 1402945482,
-        "title_id": "693278",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610386211,
-        "tags": [],
-        "rating_count": 2922,
-        "collection_title": "Xavier: Renegade Angel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1543208400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141727525-xavier_102.jpg",
         "cma_id": ""
     },
     {
