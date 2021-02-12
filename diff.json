@@ -1,20 +1,21 @@
 {
-    "updated": 1613166625,
-    "added": [
+    "updated": 1613166977,
+    "added": [],
+    "removed": [
         {
-            "ott_launch_date": null,
             "auth_expiration_date": 1613365140,
-            "tms_id": "",
-            "description": "Thanks to Gabriel's scheme, U.S. gamers from the real world have been granted Dark Knight accounts allowing them to slaughter the Artificial Fluctlights.",
+            "tms_id": "EP030726850026",
+            "description": "As Giorno is teleported between puddles with Squalo's shark attached firmly to his jugular, Narancia tries to sniff out the perpetrator using his CO2 tracer but is inhibited by Tiziano's tongue-fusing Stand.",
             "title_suggest": {
                 "input": [
-                    "Ray of Light",
-                    "of Light",
-                    "Light"
+                    "Crush and Talking Mouth",
+                    "and Talking Mouth",
+                    "Talking Mouth",
+                    "Mouth"
                 ]
             },
-            "title": "Ray of Light",
-            "expiration_date": 1607230740,
+            "title": "Crush and Talking Mouth",
+            "expiration_date": 1592731740,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,37 +23,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AW-k_nP1GRcVO2K2pmDS",
-            "duration": 1321.3533,
-            "episode_number": "12",
-            "original_air_date": 1586059200,
-            "auth_launch_date": 1607230800,
+            "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
+            "duration": 1359.4247,
+            "episode_number": "23",
+            "original_air_date": "1587880800",
+            "auth_launch_date": 1596038400,
             "clip_order": null,
-            "media_id": "3f59718e74d3f231be6cb1b03f4d90870428f7f4",
-            "modified": 1613166267,
-            "airing_id": "RADS1011302000047730",
-            "slug": "ray-of-light",
+            "airing_id": "RADS1007282000014942",
+            "media_id": "6a9308232a676ff087346f4577fc5192b12a4f18",
+            "modified": 1613165101,
+            "slug": "crush-and-talking-mouth",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200313/thumbnails/1_203131011211-SAO_WoU_012.jpg",
-            "created": 1584108685,
-            "season_number": "1",
-            "title_id": "2216003",
-            "tv_rating": "tv-14-lv",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1613166267,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/1_204231045222-jojo_goldenwind_023.jpg",
+            "created": 1587653125,
+            "season_number": "4",
+            "title_id": "2193979",
+            "tv_rating": "tv-ma-lv",
+            "published": 1613165101,
             "tags": [],
-            "collection_title": "Sword Art Online: Alicization - War of Underworld",
+            "collection_title": "JoJo's Bizarre Adventure",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1605502800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200313/thumbnails/2_203131011211-SAO_WoU_012.jpg",
-            "id": "AXDUPEnNRs3h4hI_X2Uh",
+            "launch_date": 1589707800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231045222-jojo_goldenwind_023.jpg",
+            "id": "AXGngCbJC8QgH-t19IVy",
             "auth": true,
-            "collection_slug": "sword-art-online-alicization-war-of-underworld",
-            "collection_title_id": "2215991",
+            "collection_slug": "jo-jos-bizarre-adventure",
+            "collection_title_id": "2193955",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
