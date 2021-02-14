@@ -2,76 +2,58 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 14, 2021 at 00:00:29 EST_
+_Last Update: February 14, 2021 at 00:30:25 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 2  
-440990 Family Guy: 2  
-### 2097199
-**Bob's Burgers S06E11 - House of 1000 Bounces**  
-TV-PG 🔒 21:26  
+581006 American Dad: 3  
+### 2007876
+**American Dad S09E03 - Buck, Wild**  
+TV-14 🔒 21:31  
 ⌛ February 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/house-of-1000-bounces  
-seriesid=`2003422` titleid=`2097199` id=`aTRwApkFTRWzcxJY67mdng` mediaid=`fd8e041c6c52fc89b7f6e46d354e9a320bae9b41`  
-_When there is a bounce house crisis at Regular Sized Rudy's birthday party, the Belcher kids devise a scheme to save the day. Meanwhile, Bob deals with an unexpected guest at the restaurant and is forced to come to terms with a longstanding fear._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/house-of-1000-bounces/bobsburgers_520_air_cid-2X464.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/house-of-1000-bounces/bobsburgers_520_air_cid-2X464.jpg" height="144px" /></a>
-### 2097200
-**Bob's Burgers S06E12 - Stand by Gene**  
-TV-PG 🔒 21:41  
+https://www.adultswim.com/videos/american-dad/buck-wild  
+seriesid=`581006` titleid=`2007876` id=`izJAMWIQQ2KgLwdWzDy-iA` mediaid=`37e6f935c909274c8c7529d36edd850a4297e4cb`  
+_Steve is eager to prove that he's no longer a little boy, so he sets off to prove his manhood by joining Stan, Bullock, and the rest of the CIA on their annual hunting trip. Meanwhile, Roger and Klaus set off on a cross-country road trip._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078378984.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078378984.jpg" height="144px" /></a>
+### 2007874
+**American Dad S09E04 - Crotchwalkers**  
+TV-14 🔒 21:31  
 ⌛ February 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/stand-by-gene  
-seriesid=`2003422` titleid=`2097200` id=`m5N_4JZOS_ulq3qtLDOwoA` mediaid=`d59cc0f48fca963b77685f6a1157497bc801e69d`  
-_When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg" height="144px" /></a>
-### 809134
-**Family Guy S11E16 - 12 and a Half Angry Men**  
-TV-14 🔒 21:25  
+https://www.adultswim.com/videos/american-dad/crotchwalkers  
+seriesid=`581006` titleid=`2007874` id=`_6oDiwwbSUiwXn4oZ8Y1sw` mediaid=`32eaefcf4d362663efcbf89e5732c350a7d67fb5`  
+_In a desperate attempt to show Steve that she's still a "cool" mom, Francine teaches him a vast array of shoplifting techniques to try out at the local mall. When their attempt to pull off the ultimate heist at "The Gash" goes awry, Steve is captured and sent to a Venezuelan sweatshop. Meanwhile, Roger, Hayley and Klaus form Langley Falls' first Russian Balalaika trio._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg" height="144px" /></a>
+### 2007878
+**American Dad S09E05 - Kung Pao Turkey**  
+TV-14-DLSV 🔒 21:20  
 ⌛ February 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/12-and-a-half-angry-men  
-seriesid=`440990` titleid=`809134` id=`9TxOhamRRhqwdFWUfGaKPw` mediaid=`f2286ba61186c02611193d47be4f54654b38cbf5`  
-_Mayor West goes on trial for murder after his aide is found stabbed to death._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227747479499.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227747479499.jpg" height="144px" /></a>
-### 809258
-**Family Guy S11E17 - Bigfat**  
-TV-14 🔒 21:28  
-⌛ February 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/bigfat  
-seriesid=`440990` titleid=`809258` id=`Blimq6bLQZeLgZBndZOXVw` mediaid=`cedb707e236b1124356f4403cfc6adf98a3af79e`  
-_After the airplane he's riding in crashes in the Canadian wilderness, Peter transforms into a feral beast._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15366040218412.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15366040218412.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/kung-pao-turkey  
+seriesid=`581006` titleid=`2007878` id=`AWHoN9My0KIGIdXCKz4t` mediaid=`5fe37e7111fe0e96edc326bdc3d0a010f241e38c`  
+_Stan's plan for a perfect Thanksgiving watching football in his underwear is thwarted when Francine invites her parents to join them. Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-440990 Family Guy: 2  
-### 2097190
-**Bob's Burgers S06E02 - The Land Ship**  
-TV-PG 🔒 21:41  
+581006 American Dad: 3  
+### 748206
+**American Dad S08E05 - Why Can't We Be Friends**  
+TV-14 🔒 21:31  
 ⌛ February 13, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-land-ship  
-seriesid=`2003422` titleid=`2097190` id=`1wkLQSpVSe6417MkEhhR3g` mediaid=`cc14511aefcd6eae90b4bd7a9640f8dbc95ec1aa`  
-_The upcoming Land Ship parade could mean increased business for Bob, until he learns that two port-o-potties will be placed in front of the restaurant. Meanwhile, Tina learns from her friends that she's boring, so she joins up with Jordan who has been vandalizing the school with graffiti. But when Jordan wants to spray graffiti on the Land Ship, Tina must decide between ruining the parade and disappointing her new crush._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-land-ship/bobsburgers_511_air_cid-2WX46.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-land-ship/bobsburgers_511_air_cid-2WX46.jpg" height="144px" /></a>
-### 2097189
-**Bob's Burgers S06E01 - Sliding Bobs**  
-TV-PG 🔒 21:39  
+https://www.adultswim.com/videos/american-dad/why-cant-we-be-friends  
+seriesid=`581006` titleid=`748206` id=`jVN8ceujT-emfiwm4E3xNA` mediaid=`02ba0bfef7412eaf6df9c297a1e96f13541a5f5f`  
+_After concluding that Snot isn't cool enough to hang out with Steve, Stan concocts a scheme to separate the pair by sticking Snot in the Witness Protection Program; Roger gives Steve money to clean out his attic._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803226157714.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803226157714.jpg" height="144px" /></a>
+### 748204
+**American Dad S08E07 - National Treasure 4: Baby Franny: She's Doing Well: The Hole Story**  
+TV-14 🔒 21:31  
 ⌛ February 13, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/sliding-bobs  
-seriesid=`2003422` titleid=`2097189` id=`dbvJ5aGPTDyNLSLMrQVdJg` mediaid=`3f6dfc49ed8029fb899c99839fcf727641b3fd9b`  
-_Bob notices that he has started to lose his hair, his mustache hair. In a wave of nostalgia, Linda reminisces about Bob's mustache and how it made her fall for him years ago. Meanwhile, the kids create their own versions of what would have happened had Linda not fallen for Bob and his mustache._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/sliding-bobs/bobsburgers_510_air_cid-2WTXF.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sliding-bobs/bobsburgers_510_air_cid-2WTXF.jpg" height="144px" /></a>
-### 809249
-**Family Guy S11E06 - Lois Comes Out of Her Shell**  
-TV-14 🔒 21:32  
+https://www.adultswim.com/videos/american-dad/national-treasure-4-baby-franny-shes-doing-well-the-hole-story  
+seriesid=`581006` titleid=`748204` id=`nK8wFIK4SCCrjtR-AcEnMA` mediaid=`1d9b6fa9c498932144916f1dd79638e23a4bbcd2`  
+_A Langley Falls talk show outs Francine as "Baby Franny," the toddler who was once rescued from a well by a heroic fireman (guest voice Will Forte). Then, on the anniversary of her rescue, she falls down the well again and makes a shocking discovery. Meanwhile, Stan and Roger have an entrepreneurial "eureka!" moment when they think of the world's next game-changing business opportunity - male stripper shoes._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803229882712.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803229882712.jpg" height="144px" /></a>
+### 748209
+**American Dad S08E06 - Adventures in Hayleysitting**  
+TV-14 🔒 21:31  
 ⌛ February 13, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/lois-comes-out-of-her-shell  
-seriesid=`440990` titleid=`809249` id=`ReYapF2rTIeYMhdt1usEpg` mediaid=`12e75441ab80af75133846d98429e2b37b10cda7`  
-_After celebrating another birthday, Lois adopts a younger look and lifestyle - much to Peter's chagrin; a vengeful turtle targets the Griffins._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15513778562054.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15513778562054.jpg" height="144px" /></a>
-### 809246
-**Family Guy S11E07 - Friends Without Benefits**  
-TV-14 🔒 21:24  
-⌛ February 13, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/family-guy/friends-without-benefits  
-seriesid=`440990` titleid=`809246` id=`ZqSxCe0SSx2JzM0MJ-AbZQ` mediaid=`b36cd9d57428f9c6b903e338c66b0a6917c743c8`  
-_Meg discovers that a boy she has a crush on is gay - and that has his eye on Chris._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216392720218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216392720218.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/adventures-in-hayleysitting  
+seriesid=`581006` titleid=`748209` id=`nlhDgSXLQKi9RVJlQBbaGw` mediaid=`b24922ca9506f6147737a6208343459a3c7b4552`  
+_The Smith family's regular babysitter, Lindsay (guest voice Alison Brie), breaks her leg in a soccer match, so Stan and Francine are forced to leave Steve with Hayley, despite her track record of being extremely irresponsible. When Hayley teases Steve about being a goody-two-shoes, Steve is determined to prove her wrong and sneaks out of the house to go to a party with the cool kids._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803227877812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803227877812.jpg" height="144px" /></a>
