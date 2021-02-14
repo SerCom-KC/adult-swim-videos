@@ -1540,7 +1540,7 @@
         "launch_date": 1612083600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210108/thumbnails/2_2118944550-attackontitan_060_air_cid-MTC84.jpg",
         "id": "AXbidUa9bxpjZvbXYl65",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1612688340,
@@ -1632,7 +1632,7 @@
         "launch_date": 1613293200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_21121114545-attackontitan_062_DoorOfHope.jpg",
         "id": "AXclsQ5hQJ_4Uej5kTm9",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1613897940,
@@ -1726,6 +1726,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210205/thumbnails/2_2125188246-attackontitan_064_DeclarationofWar.jpg",
         "id": "AXdy1MASQJ_4Uej5kTpx",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1615107540,
+        "tms_id": "EP034992000065",
+        "description": "Eren's rampage is thwarted by the War Hammer Titan whose tenacity leaves him stumped. With Marley's military joining the fight, he'll be hard-pressed to survive on his own.",
+        "title_suggest": {
+            "input": [
+                "The War Hammer Titan",
+                "War Hammer Titan",
+                "Hammer Titan",
+                "Titan"
+            ]
+        },
+        "title": "The War Hammer Titan",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+        "duration": 1362.4945,
+        "episode_number": "",
+        "original_air_date": 1613280600,
+        "auth_launch_date": 1613293200,
+        "clip_order": null,
+        "airing_id": "RADS1002122100073682",
+        "media_id": "69275c5706f4aabb2fcca1eda97c22ab2d46de95",
+        "modified": 1613169311,
+        "slug": "the-war-hammer-titan",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210212/thumbnails/1_21212173542-attackontitan_065.jpg",
+        "created": 1613157373,
+        "title_id": "2244428",
+        "season_number": "4",
+        "tv_rating": "tv-14-lv",
+        "published": 1613169311,
+        "tags": [],
+        "collection_title": "Attack on Titan",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210212/thumbnails/2_21212173542-attackontitan_065.jpg",
+        "id": "AXeXrBebQJ_4Uej5kTrD",
         "auth": true
     },
     {
