@@ -470,5 +470,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_21121119314-MommaNamedMeSheriff_204_Charter.jpg",
         "id": "AXcltU4IQJ_4Uej5kTm_",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1615180440,
+        "tms_id": "",
+        "description": "Somebody or something is kidnapping Good Guys all around town. But when Sheriff discovers that he's not good enough to be kidnapped, he sets out to prove that he's the goodest guy in town.",
+        "title_suggest": {
+            "input": [
+                "Good Guys",
+                "Guys"
+            ]
+        },
+        "title": "Good Guys",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 675.9086,
+        "episode_number": "2",
+        "original_air_date": "1613366100",
+        "auth_launch_date": 1613366100,
+        "clip_order": null,
+        "airing_id": "RADS1002122100073757",
+        "media_id": "de63e68583ce036213c4b61bb5aa885483839746",
+        "modified": 1613171727,
+        "slug": "good-guys",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/1_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
+        "created": 1611861981,
+        "season_number": "2",
+        "title_id": "2247952",
+        "tv_rating": "tv-ma-v",
+        "published": 1613171727,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
+        "id": "AXdKdfpDQJ_4Uej5kTon",
+        "auth": true
     }
 ]
