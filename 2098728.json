@@ -2335,7 +2335,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15281234136853.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330067",
@@ -2659,7 +2659,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330072",
         "description": "After cleverly saving himself from an instant death, Goku is itching to find out the nature of Hit's abilities. Will Goku's deductions prevent his untimely destruction?",
