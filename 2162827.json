@@ -96,6 +96,57 @@
         "launch_date": 1610341200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15494661879979.jpg",
         "id": "AWfNQFL4zQU7gEG1jvYx",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1548169200,
+        "auth_expiration_date": 1612760340,
+        "tms_id": "",
+        "description": "Tigtone must collect the essences of four elements to unlock a door.",
+        "title_suggest": {
+            "input": [
+                "Tigtone and Those Elemental Kings",
+                "and Those Elemental Kings",
+                "Those Elemental Kings",
+                "Elemental Kings",
+                "Kings"
+            ]
+        },
+        "title": "Tigtone and Those Elemental Kings",
+        "expiration_date": 1614574799,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 667.5,
+        "episode_number": "4",
+        "original_air_date": 1548047700,
+        "auth_launch_date": 1609736400,
+        "clip_order": null,
+        "media_id": "29d87c2bff32d72a5a921fda92d1f8323c907f57",
+        "modified": 1613166266,
+        "airing_id": "RADS1002122100073717",
+        "slug": "tigtone-and-those-elemental-kings",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15475768347268.jpg",
+        "created": 1546463168,
+        "season_number": "1",
+        "title_id": "2171688",
+        "tv_rating": "tv-14-dv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1613166266,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "modified_by": "ODT Listener",
+        "launch_date": 1613365200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15475768347268.jpg",
+        "id": "AWgQY0k7AScUIg8XxbiG",
         "auth": false
     },
     {
@@ -251,57 +302,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154757675592213.jpg",
         "id": "AWgQYrnfAScUIg8XxbiE",
         "auth": false
-    },
-    {
-        "ott_launch_date": 1548689400,
-        "auth_expiration_date": 1613365140,
-        "tms_id": "",
-        "description": "Wizard Hunt is Tigtone's favorite holiday, but this year he too is hunted!",
-        "title_suggest": {
-            "input": [
-                "Tigtone and the Wizard Hunt",
-                "and the Wizard Hunt",
-                "the Wizard Hunt",
-                "Wizard Hunt",
-                "Hunt"
-            ]
-        },
-        "title": "Tigtone and the Wizard Hunt",
-        "expiration_date": 1610341140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 677.79,
-        "episode_number": "5",
-        "original_air_date": 1548651600,
-        "auth_launch_date": 1610341200,
-        "clip_order": null,
-        "media_id": "e0adb6cca9cb58ff3664fca4f5d7c7f536fd1ac2",
-        "modified": 1609986240,
-        "airing_id": "RADS1001062100061319",
-        "slug": "tigtone-and-the-wizard-hunt",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154843439050312.jpg",
-        "created": 1546463217,
-        "season_number": "1",
-        "title_id": "2171686",
-        "tv_rating": "tv-14-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1609986240,
-        "tags": [],
-        "collection_title": "Tigtone",
-        "modified_by": "ODT Listener",
-        "launch_date": 1607317200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843439050312.jpg",
-        "id": "AWgQZAcWzQU7gEG1jvbI",
-        "auth": true
     },
     {
         "ott_launch_date": 1548689340,
@@ -1082,7 +1082,7 @@
         "launch_date": 1613365200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117946102-Tigtone_203_dup-20200717.jpg",
         "id": "AXRJufb6LyLQBOXK_PMp",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1613969940,
@@ -1274,7 +1274,7 @@
         "launch_date": 1610341200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117951210-Tigtone_210.jpg",
         "id": "AXRJvStHLyLQBOXK_PMq",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1612760340,
