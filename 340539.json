@@ -219,61 +219,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1446844020,
-        "auth_expiration_date": 1613451540,
-        "tms_id": "EP004625750009",
-        "rating": 8.305418,
-        "description": "X the Eliminator is sitting at home, having mostly forgotten that he was paid a million bucks to kill Birdman in 1968, when he sees Harvey in an ad for his law practice. X launches right back on his quest and, now posing as \"X the Exterminator,\"confronts Harvey. And is devastated to discover that Harvey just doesn't remember him.",
-        "title_suggest": {
-            "input": [
-                "X, the Exterminator",
-                "the Exterminator",
-                "Exterminator"
-            ]
-        },
-        "type": "episode",
-        "title": "X, the Exterminator",
-        "expiration_date": 1610427540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 696.57,
-        "episode_number": "9",
-        "original_air_date": 1055129400,
-        "clip_order": null,
-        "auth_launch_date": 1610427600,
-        "modified": 1610016053,
-        "media_id": "fbf8d87808b88319d3c852d9d0335690f3edc010",
-        "airing_id": "RADS1012042000050501",
-        "id": "Tn1IuibvR0ew8k-fRSymDg",
-        "slug": "x-the-exterminator",
-        "views": 321004,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035135611-harvey_009.jpg",
-        "created": 1402945467,
-        "title_id": "440962",
-        "season_number": "1",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610016053,
-        "tags": [
-            "harvey birdman episode 9 x the exterminator eliminator flashback crest helmet"
-        ],
-        "rating_count": 848,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1607403600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035135611-harvey_009.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1446844140,
         "auth_expiration_date": 1614661140,
         "tms_id": "EP004625750012",
@@ -381,7 +326,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446844080,
         "auth_expiration_date": 1616471940,
         "tms_id": "EP004625750010",
@@ -488,6 +433,60 @@
         "modified_by": "ODT Listener",
         "launch_date": 1609218000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035143196-harvey_011.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446844320,
+        "auth_expiration_date": 1573621140,
+        "tms_id": "EP004625750019",
+        "rating": 8.628206,
+        "description": "Believe it or not, Harvey successfully defends a plastic surgeon of botching Botox injections on Droopy.  The relieved doctor pays instantly and, in a fit of generosity, throws in a free coupon book of cosmetic surgeries.  Harvey feels guilty that a scary, grinning Droopy suffers while Harvey and the firm enjoy the largress.  While Harvey wrestles with his guilt, the firm goes on an extreme makeover bender, getting \"enhanced\" beyond recognition.",
+        "title_suggest": {
+            "input": [
+                "Droopy Botox",
+                "Botox"
+            ]
+        },
+        "type": "episode",
+        "title": "Droopy Botox",
+        "expiration_date": 1616471940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 705.5,
+        "episode_number": "10",
+        "original_air_date": 1090207800,
+        "clip_order": null,
+        "auth_launch_date": 1570593600,
+        "modified": 1613175919,
+        "media_id": "d20dfe4d4de8337353ae15ec31222255dd281e27",
+        "airing_id": "RADS1002122100073773",
+        "id": "rVW1FR94Q1uCnRxISdlTrQ",
+        "slug": "droopy-botox",
+        "views": 306721,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035149244-harvey_019.jpg",
+        "created": 1402945467,
+        "title_id": "547349",
+        "season_number": "2",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1613175919,
+        "tags": [
+            "harvey birdman episode attorney at law 19 droopy botox plastic surgery coupons"
+        ],
+        "rating_count": 858,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613451600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035149244-harvey_019.jpg",
         "cma_id": ""
     },
     {

@@ -363,6 +363,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1614056340,
+        "tms_id": "EP012792980107",
+        "description": "When Dottie Minerva comes down with a bad case of mono, Tina gets her shot as soloist of the Hormone-iums. But as she rehearses for the big assembly, Tina realizes that her role in the play could ruin her social status. Meanwhile, Linda strikes gold with a business plan that she thinks could make the Belchers rich.",
+        "title_suggest": {
+            "input": [
+                "The Hormone-Iums",
+                "Hormone-Iums"
+            ]
+        },
+        "title": "The Hormone-Iums",
+        "type": "episode",
+        "expiration_date": 1561953540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.4004004,
+        "episode_number": "14",
+        "original_air_date": 1481164200,
+        "clip_order": null,
+        "auth_launch_date": 1613451600,
+        "modified": 1613176814,
+        "media_id": "525bf3b62874b79784500af9a87e7e2d622eca18",
+        "airing_id": "RADS1002122100073782",
+        "id": "euSDjeK-Qb2-zdr4qGcPog",
+        "slug": "the-hormone-iums",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1481152220,
+        "title_id": "2097202",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1613176814,
+        "first_published": 1481152220,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1561348800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg",
+        "cma_id": "1485981"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1613797140,
         "tms_id": "EP012792980100",
         "description": "During family TV night an ad for the Sofa Queen comes on and Louise takes the opportunity to lobby for a new couch. The Belchers take sides with Linda, gathering support for keeping their lumpy, smelly, moist couch, because off all the memories it holds. When a family vote goes against her, Louise takes matters into her own hands.",
@@ -609,56 +658,5 @@
         "launch_date": 1554735600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/nice-capades/bobsburgers_518_air_cid-2X5HJ.jpg",
         "cma_id": "1432573"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1613451540,
-        "tms_id": "EP012792980094",
-        "description": "When Gayle is injured, Linda sends Bob off to pick her up so she doesn't miss out on the Thanksgiving festivities. But a snowstorm derails his trip home and his epic plan to prepare the turkey is foiled.",
-        "title_suggest": {
-            "input": [
-                "Gayle Makin' Bob Sled",
-                "Makin' Bob Sled",
-                "Bob Sled",
-                "Sled"
-            ]
-        },
-        "title": "Gayle Makin' Bob Sled",
-        "type": "episode",
-        "expiration_date": 1556549940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1298.5338672,
-        "episode_number": "4",
-        "original_air_date": 1484794800,
-        "clip_order": null,
-        "auth_launch_date": 1612846800,
-        "modified": 1612624014,
-        "media_id": "129e1c8d99bfd9ce3d6b214e4de5021aead414eb",
-        "airing_id": "RADS1002052100070776",
-        "id": "v6nNJ5WAThuzJULB1NDY5w",
-        "slug": "gayle-makin-bob-sled",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1484460645,
-        "title_id": "2097192",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1612624014,
-        "first_published": 1484460645,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1555945200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg",
-        "cma_id": "1432023"
     }
 ]

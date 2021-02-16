@@ -103,7 +103,7 @@
         "launch_date": 1610427600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171113412-joeperatalks_202_dup-20191021.jpg",
         "id": "AW5GpK3QadNs2hMNfub6",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -321,6 +321,58 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1606193940,
+        "tms_id": "",
+        "description": "What does it take to be married for 40 years? Joe Pera helps teach his friend's wife how to play a song on the piano in time for their anniversary party.",
+        "title_suggest": {
+            "input": [
+                "Joe Pera Gives You Piano Lessons",
+                "Pera Gives You Piano Lessons",
+                "Gives You Piano Lessons",
+                "You Piano Lessons",
+                "Piano Lessons",
+                "Lessons"
+            ]
+        },
+        "title": "Joe Pera Gives You Piano Lessons",
+        "expiration_date": 1616471940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWK7V5RwTdxzjxdClXz8",
+        "duration": 665.75,
+        "episode_number": "7",
+        "original_air_date": 1578718800,
+        "auth_launch_date": 1603166400,
+        "clip_order": null,
+        "media_id": "44c8eae6dd8a4cfc53f6bfa3397006cdf8d288f9",
+        "modified": 1613174754,
+        "airing_id": "RADS1002122100073778",
+        "slug": "joe-pera-gives-you-piano-lessons",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191216/thumbnails/1_1912161526509-joeperatalks_207_dup-20191115.jpg",
+        "created": 1576528029,
+        "season_number": "2",
+        "title_id": "2214312",
+        "tv_rating": "tv-14-d",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1613174754,
+        "tags": [],
+        "collection_title": "Joe Pera Talks With You",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613451600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_1912161526509-joeperatalks_207_dup-20191115.jpg",
+        "id": "AW8QZKjE3HMJfT8do6co",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Dancing is many things. Joe Pera Talks With You premieres Sunday, May 20th at Midnight and 12:15am on Adult Swim.",
@@ -493,60 +545,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1608613200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351637207-joeperatalks_108_air_cid-3GVT9.jpg"
-    },
-    {
-        "ott_launch_date": 1528122660,
-        "auth": false,
-        "auth_expiration_date": 1613451540,
-        "tms_id": "EP029506900006",
-        "description": "In which Joe Pera reads the announcements at church (second Sunday of Advent).",
-        "title_suggest": {
-            "input": [
-                "Joe Pera Reads You The Church Announcements",
-                "Pera Reads You The Church Announcements",
-                "Reads You The Church Announcements",
-                "You The Church Announcements",
-                "The Church Announcements",
-                "Church Announcements",
-                "Announcements"
-            ]
-        },
-        "expiration_date": 1610427540,
-        "type": "episode",
-        "title": "Joe Pera Reads You The Church Announcements",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWK7V5RwTdxzjxdClXz8",
-        "duration": 662.13,
-        "episode_number": "6",
-        "original_air_date": 1528085700,
-        "auth_launch_date": 1610427600,
-        "clip_order": null,
-        "media_id": "5619e28e43ec57b5806a5626571d72499f8ab65a",
-        "modified": 1610021974,
-        "airing_id": "RADS1012042000050505",
-        "id": "AWLfco7THAeP4-pUPegJ",
-        "slug": "joe-pera-reads-you-the-church-announcements",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351636342-joeperatalks_106_air_cid-3GM44.jpg",
-        "created": 1524167249,
-        "season_number": "1",
-        "title_id": "2161124",
-        "tv_rating": "tv-pg-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1610021974,
-        "tags": [],
-        "collection_title": "Joe Pera Talks With You",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1607403600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351636342-joeperatalks_106_air_cid-3GM44.jpg"
     },
     {
         "auth": true,
