@@ -1,53 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1613451540,
-        "tms_id": "EP002960010221",
-        "description": "After Chris enrolls in a NASA space camp, Stewie accidentally launches the Griffins into outer space.",
-        "title_suggest": {
-            "input": [
-                "Space Cadet",
-                "Cadet"
-            ]
-        },
-        "title": "Space Cadet",
-        "type": "episode",
-        "expiration_date": 1594612740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1282.4478,
-        "episode_number": "9",
-        "original_air_date": 1358222400,
-        "clip_order": null,
-        "auth_launch_date": 1612846800,
-        "modified": 1612620422,
-        "media_id": "570a0914eeb91fc290fcaaa153502f6c8c0f67fc",
-        "airing_id": "RADS1002052100070758",
-        "id": "3IklgIddRTu9eMqESz0OuA",
-        "slug": "space-cadet",
-        "views": 1069,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216396166019.jpg",
-        "created": 1411574425,
-        "season_number": "11",
-        "title_id": "809250",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1612620422,
-        "first_published": 1411574425,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1594008000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216396166019.jpg",
-        "cma_id": "809250"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1613624340,
@@ -594,6 +546,56 @@
         "launch_date": 1595217600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200721/thumbnails/2_207212054496-familyguy_1013_TurbanCowboy.jpg",
         "cma_id": "809257"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1614056340,
+        "tms_id": "EP002960010232",
+        "description": "Peter and his friends attempt to save The Drunken Clam bar from being demolished; Meg takes a job as an undertaker's assistant.",
+        "title_suggest": {
+            "input": [
+                "Save the Clam",
+                "the Clam",
+                "Clam"
+            ]
+        },
+        "title": "Save the Clam",
+        "type": "episode",
+        "expiration_date": 1596427140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1290.4559,
+        "episode_number": "19",
+        "original_air_date": 1368500400,
+        "clip_order": null,
+        "auth_launch_date": 1613451600,
+        "modified": 1613176815,
+        "media_id": "13ff87b2f6990655dada4b6bfec49f67d8ee7324",
+        "airing_id": "RADS1002122100073788",
+        "id": "tvvwll2XS1WdhFX5nNAjoQ",
+        "slug": "save-the-clam",
+        "views": 705,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15500810324198.jpg",
+        "created": 1411574717,
+        "season_number": "11",
+        "title_id": "809261",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1613176815,
+        "first_published": 1411574717,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1595822400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15500810324198.jpg",
+        "cma_id": "809261"
     },
     {
         "auth": false,
