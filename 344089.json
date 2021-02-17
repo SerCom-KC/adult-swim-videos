@@ -318,7 +318,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1616558340,
         "tms_id": "EP002989350020",
@@ -372,60 +372,6 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1613537940,
-        "tms_id": "EP002989350015",
-        "rating": 8.408332,
-        "description": "Brendon is doing a good job trying to raise money for the school walk-a-thon, but Coach McGuirk is doing a better job spending it. No worries! Coach's long-lost Uncle Pedro has died and left something for him in his will.",
-        "title_suggest": {
-            "input": [
-                "Identifying A Body",
-                "A Body",
-                "Body"
-            ]
-        },
-        "type": "episode",
-        "title": "Identifying A Body",
-        "expiration_date": 1610513940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1331.8008008,
-        "episode_number": "2",
-        "original_air_date": 1010977200,
-        "clip_order": null,
-        "auth_launch_date": 1610514000,
-        "modified": 1610135660,
-        "media_id": "5c1f6648b7c6cc4dffd3006f0c8f44f3f372f1cc",
-        "airing_id": "RADS1012042000050537",
-        "id": "mVei5dIbQmyEoVLfi7iNCg",
-        "slug": "identifying-a-body",
-        "views": 333613,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035166247-hmovies_015.jpg",
-        "created": 1402945467,
-        "title_id": "344131",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610135660,
-        "tags": [
-            "home movies episode 15 identifying a body walk a thon"
-        ],
-        "rating_count": 720,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1607490000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035166247-hmovies_015.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
         "auth_expiration_date": 1592971140,
         "tms_id": "EP002989350021",
         "rating": 8.708514,
@@ -473,6 +419,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1611118800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351617424-hmovies_021.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1595390340,
+        "tms_id": "EP002989350025",
+        "rating": 8.647795,
+        "description": "Paula tries to get a role in one of Brendon's films about a little girl named Little Malooloo who has two fathers. McGuirk feels left out by the regular pizza club meetings that Brendon has with his dad.",
+        "title_suggest": {
+            "input": [
+                "Pizza Club",
+                "Club"
+            ]
+        },
+        "type": "episode",
+        "title": "Pizza Club",
+        "expiration_date": 1616558340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1346.6339673,
+        "episode_number": "12",
+        "original_air_date": 1017025200,
+        "clip_order": null,
+        "auth_launch_date": 1592366400,
+        "modified": 1613176231,
+        "media_id": "6de6fa6fe273b425f491158784dd7edf48bf2386",
+        "airing_id": "RADS1002122100073781",
+        "id": "wJJ9gZMVRUGwD3dD7puWsA",
+        "slug": "pizza-club",
+        "views": 397554,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035161958-hmovies_025.jpg",
+        "created": 1402945467,
+        "title_id": "344141",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1613176231,
+        "tags": [
+            "home movies pizza club episode 25"
+        ],
+        "rating_count": 954,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613538000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161958-hmovies_025.jpg",
         "cma_id": ""
     },
     {
