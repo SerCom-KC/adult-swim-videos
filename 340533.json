@@ -105,59 +105,6 @@
         "cma_id": "1468142"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447438560,
-        "auth_expiration_date": 1613537940,
-        "tms_id": "EP004625760015",
-        "rating": 8.767402,
-        "description": "When things start going missing on Sealab, fingers start to point and tempers start to flare. It'll be up to Murphy and his cadre of Martian Knights to quell the chaos. Or, more accurately, to exacerbate the existing chaos into something much more chaotic. But at the end there might be cake.",
-        "title_suggest": {
-            "input": [
-                "Der Dieb",
-                "Dieb"
-            ]
-        },
-        "type": "episode",
-        "title": "Der Dieb",
-        "expiration_date": 1610513940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.8675342,
-        "episode_number": "1",
-        "original_air_date": 1021261500,
-        "clip_order": null,
-        "auth_launch_date": 1610514000,
-        "modified": 1610142261,
-        "airing_id": "RADS1001082100062096",
-        "media_id": "9ff0cca8c521e2854facaa2c16e874a9cc640ee0",
-        "id": "EY7omnh4Sw-TLNNKzfk-ew",
-        "slug": "der-dieb",
-        "views": 245122,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151430223-sealab_014.jpg",
-        "created": 1402945476,
-        "title_id": "417616",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1610142261,
-        "tags": [
-            "sealab 2021 derdieb episode 14"
-        ],
-        "rating_count": 1221,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1607490000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151430223-sealab_014.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447438800,
         "auth_expiration_date": null,
@@ -370,6 +317,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447438920,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760026",
+        "rating": 8.246328,
+        "description": "A power outage leaves the crew of Sealab in the dark.",
+        "title_suggest": {
+            "input": [
+                "Fusebox"
+            ]
+        },
+        "type": "episode",
+        "title": "Fusebox",
+        "expiration_date": 1616558340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 599.667334,
+        "episode_number": "10",
+        "original_air_date": 1055131200,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1613180420,
+        "airing_id": "RADS1002122100073821",
+        "media_id": "af6e25df9070be089f69c80aedb5d0ab07a8582c",
+        "id": "ZMgXPRaoS7SCy-4ggDw5Bg",
+        "slug": "fusebox",
+        "views": 219185,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151528546-sealab_023.jpg",
+        "created": 1402945476,
+        "title_id": "444406",
+        "season_number": "2",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1613180420,
+        "tags": [
+            "Sealab 2021",
+            "Episode 23",
+            "Fusebox"
+        ],
+        "rating_count": 1157,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613538000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151528546-sealab_023.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447438680,
         "auth_expiration_date": null,
         "tms_id": "EP004625760019",
@@ -471,7 +472,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438740,
         "auth_expiration_date": 1616558340,
         "tms_id": "EP004625760021",

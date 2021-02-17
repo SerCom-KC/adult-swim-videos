@@ -51,6 +51,59 @@
         "cma_id": "1472461"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447169220,
+        "auth_expiration_date": 1513151999,
+        "tms_id": "EP008519090031",
+        "rating": 8.793946,
+        "description": "William Murderface creates the \"Nascar-type Theatrical Hybrid Event\" and takes all creative and logistical control upon himself.  Nathan and Pickles try to be supportive of their overwhelmed pal, while Skwisgaar and Toki attempt to get their driver licenses.",
+        "title_suggest": {
+            "input": [
+                "Dethrace"
+            ]
+        },
+        "type": "episode",
+        "title": "Dethrace",
+        "expiration_date": 1616558340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 691.5338672,
+        "episode_number": "11",
+        "original_air_date": 1213588800,
+        "clip_order": null,
+        "auth_launch_date": 1511856000,
+        "modified": 1613179556,
+        "media_id": "6bcffaed2dac98f2dbe2d9f4a606d4ee53881eee",
+        "airing_id": "RADS1002122100073808",
+        "id": "7d5gKcVvTSO5JScsMGhEkQ",
+        "slug": "dethrace",
+        "views": 1007996,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111053123-metalocalypse_211_bim.jpg",
+        "created": 1402945469,
+        "title_id": "693501",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1613179556,
+        "tags": [
+            "Metalocalypse Dethrace episode 31"
+        ],
+        "rating_count": 2970,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613538000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111053123-metalocalypse_211_bim.jpg",
+        "cma_id": "693501"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -146,59 +199,6 @@
         "launch_date": 1612933200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111052508-metalocalypse_210_bim.jpg",
         "cma_id": "693500"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447169040,
-        "auth_expiration_date": 1613537940,
-        "tms_id": "EP008519090022",
-        "rating": 8.906541,
-        "description": "Since Dethklok's withdrawal from the public following the purported Dethwater Live \"fan attack\", the world economy teeters on the brink of disaster.  Dethklok is finally lured back into the outside world with their protective \"pelvic-thrust mace belts\" to be a part of the world's largest public execution of criminals in recorded history.",
-        "title_suggest": {
-            "input": [
-                "Dethecution"
-            ]
-        },
-        "type": "episode",
-        "title": "Dethecution",
-        "expiration_date": 1610513940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 691,
-        "episode_number": "1",
-        "original_air_date": 1190605500,
-        "clip_order": null,
-        "auth_launch_date": 1610514000,
-        "modified": 1610140757,
-        "media_id": "63be399c18674c19be7d77395e1aedefb09fb1ee",
-        "airing_id": "RADS1012042000050520",
-        "id": "YtychPmxTSu6ILdv2COwOw",
-        "slug": "dethecution",
-        "views": 1147921,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111047159-metalocalypse_201_dst_cid-MA98.jpg",
-        "created": 1402945469,
-        "title_id": "678358",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610140757,
-        "tags": [
-            "dethklok metalocalypse episode 21 dethecution execution season premiere hiding"
-        ],
-        "rating_count": 5552,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1607490000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111047159-metalocalypse_201_dst_cid-MA98.jpg",
-        "cma_id": "1454155"
     },
     {
         "auth": false,
@@ -306,7 +306,7 @@
         "cma_id": "693497"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169160,
         "auth_expiration_date": 1616558340,
         "tms_id": "EP008519090026",
