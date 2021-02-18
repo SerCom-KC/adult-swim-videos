@@ -97,56 +97,6 @@
         "cma_id": "1142647"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447785660,
-        "auth_expiration_date": 1613624340,
-        "tms_id": "EP019881990007",
-        "description": "Drawn in by the comic stylings of Jonathan Terp, Jordan enrolls in the Be a Baby program only to find out that babies don't use DVDs.",
-        "title_suggest": {
-            "input": [
-                "Baby"
-            ]
-        },
-        "expiration_date": 1610600340,
-        "title": "Baby",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 675.24,
-        "episode_number": "7",
-        "original_air_date": 1414728900,
-        "clip_order": null,
-        "auth_launch_date": 1610600400,
-        "modified": 1610182112,
-        "media_id": "daedc114605f7a7fa590053858ff00f34ccfca69",
-        "airing_id": "RADS1012042000050581",
-        "id": "A02MMjcAR1uhCXzQxHGvoQ",
-        "slug": "baby",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211784577-tebs_107_dup-20140910.jpg",
-        "created": 1410544959,
-        "season_number": "1",
-        "title_id": "2024899",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610182112,
-        "first_published": 1414430426,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1607576400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211784577-tebs_107_dup-20140910.jpg",
-        "cma_id": "1156507"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "Bedtime Sauce",
@@ -556,7 +506,7 @@
         "cma_id": "1480947"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1505744940,
         "auth_expiration_date": 1616644740,
         "tms_id": "EP019881990013",
@@ -762,5 +712,55 @@
         "launch_date": 1609995600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117846136-tebs_306_dup-20170905.jpg",
         "cma_id": "1470838"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447785480,
+        "auth_expiration_date": 1609995540,
+        "tms_id": "EP019881990001",
+        "description": "New to the neighborhood, IT guy Dennis Murphy and family clash with next door's Fish-obsessed, bully Brenner.",
+        "title_suggest": {
+            "input": [
+                "Hole"
+            ]
+        },
+        "expiration_date": 1616644740,
+        "title": "Hole",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 680.2919099,
+        "episode_number": "1",
+        "original_air_date": 1411100100,
+        "clip_order": null,
+        "auth_launch_date": 1606971600,
+        "modified": 1613196282,
+        "media_id": "d141c45d318651b7ae0d13c57daa7ac1c8ccc647",
+        "airing_id": "RADS1002122100073870",
+        "id": "zJU2JtkJQayronucs_v65w",
+        "slug": "hole",
+        "views": 2,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117847515-tebs_101_dup-20140909.jpg",
+        "created": 1410544656,
+        "season_number": "1",
+        "title_id": "2024897",
+        "tv_rating": "tv-14-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1613196282,
+        "first_published": 1410978047,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613624400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117847515-tebs_101_dup-20140909.jpg",
+        "cma_id": "2024897"
     }
 ]
