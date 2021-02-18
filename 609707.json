@@ -1,6 +1,59 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1451677680,
+        "auth_expiration_date": 1613019540,
+        "tms_id": "EP007819760011",
+        "rating": 8.644829,
+        "description": "A monster has been coming across the Golden Gate Bridge at night and attacking the city of San Francisco. Everyone - Satan, DJ Jesus, Senator Whitehead, even the Pope - wants to be involved in the final confrontation with this huge, terrible, and strangely familiar creature.",
+        "title_suggest": {
+            "input": [
+                "Monster"
+            ]
+        },
+        "type": "episode",
+        "title": "Monster",
+        "expiration_date": 1616644740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
+        "duration": 703.43,
+        "episode_number": "11",
+        "original_air_date": 1194844500,
+        "clip_order": null,
+        "auth_launch_date": 1609995600,
+        "modified": 1613205064,
+        "media_id": "9979615f99308053d65003f06acab2c63360769b",
+        "airing_id": "RADS1002122100073811",
+        "id": "-IWqF1hvSNGy8dslz1tW3A",
+        "slug": "monster",
+        "views": 398068,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_2036110467-lucy_111_air.jpg",
+        "created": 1402945468,
+        "title_id": "678357",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1613205064,
+        "tags": [
+            "lucy daughter of the devil episode 11 monster senator whitehead san francisco pope golden gate bridge"
+        ],
+        "rating_count": 1771,
+        "collection_title": "Lucy, The Daughter of the Devil",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613624400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036110467-lucy_111_air.jpg",
+        "cma_id": "972683"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451677620,
         "auth_expiration_date": 1611896340,
         "tms_id": "EP007819760009",
@@ -223,7 +276,7 @@
         "cma_id": "972607"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451677560,
         "auth_expiration_date": 1616644740,
         "tms_id": "EP007819760006",
@@ -489,65 +542,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1609477200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036103277-lucy_104_air.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451677440,
-        "auth_expiration_date": 1613624340,
-        "tms_id": "EP007819760001",
-        "rating": 8.517068,
-        "description": "Lucy, daughter of Satan, struggles to find a boyfriend free of her father's meddling. The Prince of Lies sets her up on a blind date with a senator at Club Armageddon, home of DJ Jesus.",
-        "title_suggest": {
-            "input": [
-                "He's Not the Messiah, He's a DJ",
-                "Not the Messiah, He's a DJ",
-                "the Messiah, He's a DJ",
-                "Messiah, He's a DJ",
-                "He's a DJ",
-                "a DJ",
-                "DJ"
-            ]
-        },
-        "type": "episode",
-        "title": "He's Not the Messiah, He's a DJ",
-        "expiration_date": 1610600340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
-        "duration": 701.6,
-        "episode_number": "1",
-        "original_air_date": 1130733900,
-        "clip_order": null,
-        "auth_launch_date": 1610600400,
-        "modified": 1610183650,
-        "media_id": "73c188fa0eb674ea7ee04da8440828338bd53820",
-        "airing_id": "RADS1012282000059225",
-        "id": "ydzWK54QSKCX17iL29ckvg",
-        "slug": "hes-not-the-messiah-hes-a-dj",
-        "views": 716103,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_2036103139-lucy_101_air.jpg",
-        "created": 1402945468,
-        "title_id": "609712",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1610183650,
-        "tags": [
-            "lucy daughter of the devil episode 1 not messiah dj jesus boyfriend senator whitehead"
-        ],
-        "rating_count": 5069,
-        "collection_title": "Lucy, The Daughter of the Devil",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609477200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036103139-lucy_101_air.jpg",
         "cma_id": ""
     }
 ]
