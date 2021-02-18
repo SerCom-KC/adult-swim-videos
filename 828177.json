@@ -257,54 +257,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1557153000,
-        "auth_expiration_date": 1613624340,
-        "tms_id": "EP013726210034",
-        "description": "Gary learns how to flip his twists to screw turkeys.",
-        "title_suggest": {
-            "input": [
-                "The Flip",
-                "Flip"
-            ]
-        },
-        "title": "The Flip",
-        "type": "episode",
-        "expiration_date": 1610600340,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 678.08,
-        "episode_number": "1",
-        "original_air_date": 1556942400,
-        "auth_launch_date": 1610600400,
-        "clip_order": null,
-        "airing_id": "RADS1012042000050574",
-        "media_id": "0db1b07ddc4a7f9f882958d4422eefc3f7440c2d",
-        "modified": 1610174669,
-        "slug": "the-flip",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568180531328.jpg",
-        "created": 1556741289,
-        "title_id": "2191439",
-        "season_number": "4",
-        "tv_rating": "tv-ma-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1610174669,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1607576400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568180531328.jpg",
-        "id": "AWp1AvclHl5gR6828zYR",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1557757800,
         "auth_expiration_date": 1615438740,
         "tms_id": "EP013726210036",
@@ -547,7 +499,7 @@
         "launch_date": 1610600400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg",
         "id": "AWp5gEnSHl5gR6828zZS",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -694,6 +646,55 @@
         "launch_date": 1613019600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
         "id": "AWp5hFfgHl5gR6828zZU",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1612414740,
+        "tms_id": "",
+        "description": "After Gary gets shot by one of the unborn, Satan institutes an unsensible gun policy to ensure something like that will happen again.",
+        "title_suggest": {
+            "input": [
+                "Conceal and Gary",
+                "and Gary",
+                "Gary"
+            ]
+        },
+        "title": "Conceal and Gary",
+        "expiration_date": 1616644740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 667.46,
+        "episode_number": "11",
+        "original_air_date": 1560571200,
+        "auth_launch_date": 1609390800,
+        "clip_order": null,
+        "media_id": "d8806c857a4ef8d8ee746aff3502c32001b2d17b",
+        "modified": 1613204169,
+        "airing_id": "RADS1002122100073861",
+        "slug": "conceal-and-gary",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036474992413.jpg",
+        "created": 1556816967,
+        "season_number": "4",
+        "title_id": "2191447",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1613204169,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1613624400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg",
+        "id": "AWp5hbdAAScUIg8XxfaF",
         "auth": false
     },
     {
