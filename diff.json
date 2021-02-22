@@ -1,17 +1,24 @@
 {
-    "updated": 1613970926,
-    "added": [
+    "updated": 1614012632,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1615781640,
+            "auth_expiration_date": 1614509940,
             "tms_id": "",
-            "description": "Goodman's attempts to impress his son Tommy causes a car crash, leaving Tommy with a surprise crash course in parenthood.",
+            "description": "Kabuto reanimates Fukai, the previous Eight Tails' Jinchuriki, to attack Killer Bee and Motoi.",
             "title_suggest": {
                 "input": [
-                    "Bad Parents",
-                    "Parents"
+                    "A Hole in the Heart: The Other Jinchuriki",
+                    "Hole in the Heart: The Other Jinchuriki",
+                    "in the Heart: The Other Jinchuriki",
+                    "the Heart: The Other Jinchuriki",
+                    "Heart: The Other Jinchuriki",
+                    "The Other Jinchuriki",
+                    "Other Jinchuriki",
+                    "Jinchuriki"
                 ]
             },
-            "title": "Bad Parents",
+            "title": "A Hole in the Heart: The Other Jinchuriki",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -20,35 +27,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AW5moY7HadNs2hMNfuf_",
-            "duration": 676.1421,
-            "episode_number": "4",
-            "original_air_date": "1613970900",
-            "auth_launch_date": 1613970900,
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.677,
+            "episode_number": "35",
+            "original_air_date": null,
+            "auth_launch_date": 1605438000,
             "clip_order": null,
-            "airing_id": "RADS1002172100074415",
-            "media_id": "3db6ea98412cd0638c43ebd1b567b168e605bc3e",
-            "modified": 1613852821,
-            "slug": "bad-parents",
+            "airing_id": "RADS1011092000042364",
+            "media_id": "426bfa3b835e40692a74746f2d204bbb684c9d43",
+            "modified": 1605009790,
+            "slug": "a-hole-in-the-heart-the-other-jinchuriki",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210201/thumbnails/1_2121104624-MommaNamedMeSheriff_202_dup-20210127_BadParents.jpg",
-            "created": 1612194365,
-            "season_number": "2",
-            "title_id": "2247954",
-            "tv_rating": "tv-ma-lv",
-            "published": 1613852821,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/1_20914953489-narutoshippuden_318_AHoleintheHeart.jpg",
+            "created": 1600091632,
+            "season_number": "6",
+            "title_id": "2177747",
+            "tv_rating": "tv-14-v",
+            "published": 1605009790,
             "tags": [],
-            "collection_title": "Momma Named Me Sheriff",
+            "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210201/thumbnails/2_2121104624-MommaNamedMeSheriff_202_dup-20210127_BadParents.jpg",
-            "id": "AXdeRcIrbxpjZvbXYmKj",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914953489-narutoshippuden_318_AHoleintheHeart.jpg",
+            "id": "AXSM5LJqSeFB2d0c3858",
             "auth": true,
-            "collection_slug": "momma-named-me-sheriff",
-            "collection_title_id": "2196566",
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
