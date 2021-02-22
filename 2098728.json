@@ -2498,7 +2498,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125527764416.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330068",
@@ -2768,7 +2768,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330073",
         "description": "Gohan accepts an opportunity to be a stunt double in the Great Saiyaman movie. But keeping his identity as the real Great Saiyaman a secret will be difficult when there's a parasitic alien floating around town!",
