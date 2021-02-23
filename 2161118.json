@@ -154,7 +154,7 @@
         "launch_date": 1611032400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_19117111407-joeperatalks_203_dup-20191021.jpg",
         "id": "AW5GpPgZadNs2hMNfub7",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -373,6 +373,59 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1606798740,
+        "tms_id": "",
+        "description": "Unable to sleep, Joe Pera stays up late with you sharing some of his favorite internet videos, including 'Yoobi on Wheels'.",
+        "title_suggest": {
+            "input": [
+                "Joe Pera Watches Internet Videos with You",
+                "Pera Watches Internet Videos with You",
+                "Watches Internet Videos with You",
+                "Internet Videos with You",
+                "Videos with You",
+                "with You",
+                "You"
+            ]
+        },
+        "title": "Joe Pera Watches Internet Videos with You",
+        "expiration_date": 1617076740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWK7V5RwTdxzjxdClXz8",
+        "duration": 661.33,
+        "episode_number": "8",
+        "original_air_date": 1578719700,
+        "auth_launch_date": 1603771200,
+        "clip_order": null,
+        "media_id": "633bb994cfbd67ba85d6e89640ebedf62cbd1711",
+        "modified": 1614045636,
+        "airing_id": "RADS1002172100074433",
+        "slug": "joe-pera-watches-internet-videos-with-you",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191216/thumbnails/1_1912161527318-joeperatalks_208_dup-20191121.jpg",
+        "created": 1576528073,
+        "season_number": "2",
+        "title_id": "2214313",
+        "tv_rating": "tv-pg-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1614045636,
+        "tags": [],
+        "collection_title": "Joe Pera Talks With You",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614056400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_1912161527318-joeperatalks_208_dup-20191121.jpg",
+        "id": "AW8QZVN_GRcVO2K2pl8q",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Dancing is many things. Joe Pera Talks With You premieres Sunday, May 20th at Midnight and 12:15am on Adult Swim.",
@@ -545,60 +598,5 @@
         "modified_by": "ODT Listener",
         "launch_date": 1608613200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351637207-joeperatalks_108_air_cid-3GVT9.jpg"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1528727460,
-        "auth_expiration_date": 1614056340,
-        "tms_id": "EP029506900008",
-        "description": "In which Joe Pera attempts to present a spirited New Year's Eve celebration to viewers as well as his neighbor's five-year-old daughter, whom he is babysitting.",
-        "title_suggest": {
-            "input": [
-                "Joe Pera Lights Up the Night With You",
-                "Pera Lights Up the Night With You",
-                "Lights Up the Night With You",
-                "Up the Night With You",
-                "the Night With You",
-                "Night With You",
-                "With You",
-                "You"
-            ]
-        },
-        "title": "Joe Pera Lights Up the Night With You",
-        "type": "episode",
-        "expiration_date": 1611032340,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWK7V5RwTdxzjxdClXz8",
-        "duration": 676.77,
-        "episode_number": "7",
-        "original_air_date": 1528689600,
-        "auth_launch_date": 1611032400,
-        "clip_order": null,
-        "media_id": "eca203509fbe161f5f50e92306b2a21f21f5cea1",
-        "modified": 1614046924,
-        "airing_id": "RADS1001152100064019",
-        "id": "AWPMRhrBTdxzjxdCmQij",
-        "slug": "joe-pera-lights-up-the-night-with-you",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351636550-joeperatalks_107_air_cid-3HP5N.jpg",
-        "created": 1528140536,
-        "title_id": "2161125",
-        "tv_rating": "tv-14-dl",
-        "season_number": "1",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614046924,
-        "tags": [],
-        "collection_title": "Joe Pera Talks With You",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608008400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351636550-joeperatalks_107_air_cid-3HP5N.jpg"
     }
 ]
