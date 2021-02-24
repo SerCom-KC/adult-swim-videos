@@ -344,53 +344,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1614142740,
-        "tms_id": "",
-        "description": "Watch, rinse, repeat.",
-        "title_suggest": {
-            "input": [
-                "Patterns"
-            ]
-        },
-        "title": "Patterns",
-        "expiration_date": 1611118740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-        "duration": 681,
-        "episode_number": "4",
-        "original_air_date": 1577782800,
-        "auth_launch_date": 1611118800,
-        "clip_order": null,
-        "media_id": "405969393beaeacf6a315ea92aeaa9bb135115fd",
-        "modified": 1614046923,
-        "airing_id": "RADS1001152100064035",
-        "slug": "patterns",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191220/thumbnails/1_1912201138493-offtheair_904_dup-20191220.jpg",
-        "created": 1576859965,
-        "season_number": "9",
-        "title_id": "2199314",
-        "tv_rating": "tv-pg",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614046923,
-        "tags": [],
-        "collection_title": "Off The Air",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608094800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg",
-        "id": "AW8kLZlAGRcVO2K2pl_H",
-        "auth": true
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1609909140,
@@ -1067,7 +1020,7 @@
         "cma_id": "1066580"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449259200,
         "auth_expiration_date": 1617163140,
         "tms_id": "MV002289370000",
