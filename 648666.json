@@ -1,5 +1,59 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1447169280,
+        "auth_expiration_date": 1514361599,
+        "tms_id": "EP008519090032",
+        "rating": 9.130739,
+        "description": "Dethklok visits the scarred and disfigured victims of recent bomb attacks in the hospital, completely unaware that Dethklok themselves are the target of the anti-Dethklok terrorist organization \"The Revengencers\".",
+        "title_suggest": {
+            "input": [
+                "The Revengencers",
+                "Revengencers"
+            ]
+        },
+        "type": "episode",
+        "title": "The Revengencers",
+        "expiration_date": 1617163140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 661.5672339,
+        "episode_number": "12",
+        "original_air_date": 1214193600,
+        "clip_order": null,
+        "auth_launch_date": 1511856000,
+        "modified": 1614037229,
+        "media_id": "dc6f583e70ddfcdb5b03cf9a851be4252860c654",
+        "airing_id": "RADS1002202100074874",
+        "id": "0_cXKnPTQaW3Z5EpeqnuVg",
+        "slug": "the-revengencers",
+        "views": 784864,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111053344-metalocalypse_212_bim.jpg",
+        "created": 1402945469,
+        "title_id": "693502",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614037229,
+        "tags": [
+            "Metalocalypse Revengencers episode 32"
+        ],
+        "rating_count": 2570,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614142800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111053344-metalocalypse_212_bim.jpg",
+        "cma_id": "1244369"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447169100,
         "auth_expiration_date": 1615953540,
@@ -253,7 +307,7 @@
         "cma_id": "693498"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169160,
         "auth_expiration_date": 1617163140,
         "tms_id": "EP008519090027",
@@ -357,59 +411,6 @@
         "launch_date": 1610514000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111051287-metalocalypse_206_air_cid_MD5Z64589.jpg",
         "cma_id": "1477519"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447169040,
-        "auth_expiration_date": 1614142740,
-        "tms_id": "EP008519090021",
-        "rating": 8.645527,
-        "description": "Toki Wartooth is fed up playing in the shadow of Skwisgaar's lead guitar. Under the tutelage of a crusty old guitar master, Toki learns that the heart, too, has strings.",
-        "title_suggest": {
-            "input": [
-                "Dethlessons"
-            ]
-        },
-        "type": "episode",
-        "title": "Dethlessons",
-        "expiration_date": 1611118740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 691.3003003,
-        "episode_number": "2",
-        "original_air_date": 1191210300,
-        "clip_order": null,
-        "auth_launch_date": 1611118800,
-        "modified": 1614037308,
-        "media_id": "24f720b1c789500cae82daa565832aea27a7335b",
-        "airing_id": "RADS1001152100064037",
-        "id": "nsrv9-P6R76InDin7nHBZQ",
-        "slug": "dethlessons",
-        "views": 834357,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111047436-metalocalypse_202_bim.jpg",
-        "created": 1402945469,
-        "title_id": "678359",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614037308,
-        "tags": [
-            "dethklok metalocalypse episode 22 dethlessons guitar lessons toki teacher master"
-        ],
-        "rating_count": 4353,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608094800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111047436-metalocalypse_202_bim.jpg",
-        "cma_id": "1457886"
     },
     {
         "auth": true,
