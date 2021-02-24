@@ -213,59 +213,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447438620,
-        "auth_expiration_date": 1614142740,
-        "tms_id": "EP004625760016",
-        "rating": 7.68624,
-        "description": "In a fevered spurt of conspicuous consumption, Murphy runs up a hundred grand in credit card bills. And let's face it: He just doesn't have that kind of money. So he sends his unwilling crew in search of sunken treasure. Sharks? Sure. Lack of oxygen? You bet. And hey, isn't that dynamite over there? Well, I'll be darn.",
-        "title_suggest": {
-            "input": [
-                "The Policy",
-                "Policy"
-            ]
-        },
-        "type": "episode",
-        "title": "The Policy",
-        "expiration_date": 1611118740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.7674341,
-        "episode_number": "2",
-        "original_air_date": 1036382400,
-        "clip_order": null,
-        "auth_launch_date": 1611118800,
-        "modified": 1614034247,
-        "airing_id": "RADS1001152100064038",
-        "media_id": "e789fcd09b85e26e9000210e04203087c335c80a",
-        "id": "KqKTYW5EQBeNm2ydYJKFhQ",
-        "slug": "the-policy",
-        "views": 244602,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151430463-sealab_015.jpg",
-        "created": 1402945476,
-        "title_id": "434935",
-        "season_number": "2",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1614034247,
-        "tags": [
-            "sealab 2021 policy episode 15"
-        ],
-        "rating_count": 1141,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608094800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151430463-sealab_015.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447438860,
         "auth_expiration_date": null,
@@ -313,6 +260,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1612933200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151528190-sealab_022.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447438980,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760027",
+        "rating": 9.028632,
+        "description": "Affirmitave Action promotes everyone to the rank of Captain... except for Quinn.  And also except for Captain Murphy, because he is already a Captain.  That's why his name is Captain Murphy.",
+        "title_suggest": {
+            "input": [
+                "Article 4",
+                "4"
+            ]
+        },
+        "type": "episode",
+        "title": "Article 4",
+        "expiration_date": 1617163140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 660.0333667,
+        "episode_number": "12",
+        "original_air_date": 1055736000,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1614033051,
+        "media_id": "66b156473a2008cc662257eb836d4adc5e9ebe52",
+        "airing_id": "RADS1002202100074853",
+        "id": "Xw3xsOwMSrS-qX7e7235Sg",
+        "slug": "article-4",
+        "views": 167437,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_20415153014-sealab_025.jpg",
+        "created": 1402945476,
+        "title_id": "444407",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614033051,
+        "tags": [],
+        "rating_count": 489,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614142800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_20415153014-sealab_025.jpg",
         "cma_id": ""
     },
     {
@@ -370,7 +369,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438680,
         "auth_expiration_date": 1617163140,
         "tms_id": "EP004625760019",

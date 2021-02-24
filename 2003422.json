@@ -245,6 +245,52 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"
     },
     {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1614747540,
+        "tms_id": "EP012792980116",
+        "description": "When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend.",
+        "title_suggest": {
+            "input": [
+                "The Quirk-Ducers",
+                "Quirk-Ducers"
+            ]
+        },
+        "title": "The Quirk-Ducers",
+        "type": "episode",
+        "expiration_date": 1589774340,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1300.63,
+        "episode_number": "6",
+        "original_air_date": 1519610400,
+        "auth_launch_date": 1614142800,
+        "clip_order": null,
+        "media_id": "c9c34718faeb1e812d3b7827ba7a72332c152649",
+        "modified": 1613832629,
+        "airing_id": "RADS1002202100074879",
+        "id": "AWG1Yym-NWyh42wYnk6f",
+        "slug": "the-quirk-ducers",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15198454863205.jpg",
+        "created": 1519166630,
+        "title_id": "2132992",
+        "tv_rating": "tv-pg-dlv",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1613832629,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1589169600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1614488340,
@@ -593,55 +639,5 @@
         "launch_date": 1588564800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg",
         "cma_id": "1490747"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1614142740,
-        "tms_id": "EP012792980108",
-        "description": "When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom.",
-        "title_suggest": {
-            "input": [
-                "Pro Tiki/Con Tiki",
-                "Tiki/Con Tiki",
-                "Tiki"
-            ]
-        },
-        "title": "Pro Tiki/Con Tiki",
-        "type": "episode",
-        "expiration_date": 1558969140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1301.333667,
-        "episode_number": "15",
-        "original_air_date": 1481769000,
-        "clip_order": null,
-        "auth_launch_date": 1613538000,
-        "modified": 1613178320,
-        "media_id": "85023daed95dfa1e0fa1f0a4a36b43b3f6bbbb4e",
-        "airing_id": "RADS1002122100073796",
-        "id": "vHn_yL2YSJaGa4pHqijGZg",
-        "slug": "pro-tiki-con-tiki",
-        "views": 11626,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1481451039,
-        "title_id": "2097203",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1613178320,
-        "first_published": 1481451039,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1558364400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg",
-        "cma_id": "1486547"
     }
 ]

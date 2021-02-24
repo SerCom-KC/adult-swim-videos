@@ -215,58 +215,6 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1614142740,
-        "tms_id": "EP002989350016",
-        "rating": 8.163462,
-        "description": "Believing they are in a creative rut, the kids agree to take a hiatus. Brendon reluctantly agrees to film Duane's band rehearsal and meets Cynthia, an older choreographer. Coach McGuirk and Mr. Lynch plan a trip to Cancun, while Paula is the victim of budget cuts at her school.",
-        "title_suggest": {
-            "input": [
-                "Hiatus"
-            ]
-        },
-        "type": "episode",
-        "title": "Hiatus",
-        "expiration_date": 1611118740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1364.4004004,
-        "episode_number": "3",
-        "original_air_date": 1011582000,
-        "clip_order": null,
-        "auth_launch_date": 1611118800,
-        "modified": 1614033653,
-        "media_id": "ca399dff3bda6b2d4a96ff0be12e601dcd77187d",
-        "airing_id": "RADS1001152100064027",
-        "id": "RCrFt3APRJasCaFgixcxJg",
-        "slug": "hiatus",
-        "views": 262742,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035166477-hmovies_016.jpg",
-        "created": 1402945467,
-        "title_id": "344132",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614033653,
-        "tags": [
-            "home movies episode 16 hiatus"
-        ],
-        "rating_count": 624,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608094800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035166477-hmovies_016.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
         "auth_expiration_date": 1593575940,
         "tms_id": "EP002989350022",
         "rating": 9.071561,
@@ -370,7 +318,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1617163140,
         "tms_id": "EP002989350021",
@@ -419,6 +367,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1611118800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351617424-hmovies_021.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1595995140,
+        "tms_id": "EP002989350026",
+        "rating": 8.552118,
+        "description": "The big day is here: Brendon's dad is marrying his girlfriend. A rash is slowly covering Brendon's body, but otherwise he's doing okay. Paula's friend Stephanie is in town for the wedding and takes a liking to Coach McGuirk.",
+        "title_suggest": {
+            "input": [
+                "The Wedding",
+                "Wedding"
+            ]
+        },
+        "type": "episode",
+        "title": "The Wedding",
+        "expiration_date": 1617163140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1327.0667334,
+        "episode_number": "13",
+        "original_air_date": 1017630000,
+        "clip_order": null,
+        "auth_launch_date": 1592971200,
+        "modified": 1614033649,
+        "media_id": "cb226903c8de7e718695571dab2806e63181589a",
+        "airing_id": "RADS1002202100074851",
+        "id": "uUPvhoz4RtGhpHrMazBidw",
+        "slug": "the-wedding",
+        "views": 399632,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351619255-hmovies_026.jpg",
+        "created": 1402945467,
+        "title_id": "344142",
+        "season_number": "2",
+        "tv_rating": "tv-pg-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614033649,
+        "tags": [
+            "home movies the wedding episode 26"
+        ],
+        "rating_count": 1036,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614142800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351619255-hmovies_026.jpg",
         "cma_id": ""
     },
     {
