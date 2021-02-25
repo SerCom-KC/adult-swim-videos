@@ -205,58 +205,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1557153000,
-        "auth_expiration_date": 1614229140,
-        "tms_id": "EP013726210035",
-        "description": "When re-negotiations with the union stall, Satan makes some new additions to the Horsemen of the Apocalypse.",
-        "title_suggest": {
-            "input": [
-                "The Poor Horsemen of the Apocalypse",
-                "Poor Horsemen of the Apocalypse",
-                "Horsemen of the Apocalypse",
-                "of the Apocalypse",
-                "the Apocalypse",
-                "Apocalypse"
-            ]
-        },
-        "title": "The Poor Horsemen of the Apocalypse",
-        "type": "episode",
-        "expiration_date": 1611205140,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 678.5,
-        "episode_number": "2",
-        "original_air_date": 1556943300,
-        "auth_launch_date": 1611205200,
-        "clip_order": null,
-        "airing_id": "RADS1001152100064091",
-        "media_id": "de89e28a9b21786221139589a8fcca6e8f1b7e1b",
-        "modified": 1610785729,
-        "slug": "the-poor-horsemen-of-the-apocalypse",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568185198013.jpg",
-        "created": 1556741289,
-        "title_id": "2191442",
-        "season_number": "4",
-        "tv_rating": "tv-ma-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1610785729,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1608181200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568185198013.jpg",
-        "id": "AWp1AvckHl5gR6828zYQ",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1557757800,
         "auth_expiration_date": 1615438740,
         "tms_id": "EP013726210036",
@@ -548,7 +496,7 @@
         "launch_date": 1611205200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15591483969052.jpg",
         "id": "AWp5gRnyHl5gR6828zZT",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -695,6 +643,54 @@
         "launch_date": 1613624400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg",
         "id": "AWp5hbdAAScUIg8XxfaF",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1613019540,
+        "tms_id": "",
+        "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
+        "title_suggest": {
+            "input": [
+                "Fried Alive",
+                "Alive"
+            ]
+        },
+        "title": "Fried Alive",
+        "expiration_date": 1617249540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 677.58,
+        "episode_number": "12",
+        "original_air_date": 1560572100,
+        "auth_launch_date": 1609995600,
+        "clip_order": null,
+        "media_id": "9c14aa29afbf5968ef2ed18c82e5db81e288550b",
+        "modified": 1613881577,
+        "airing_id": "RADS1002212100074945",
+        "slug": "fried-alive",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036482881015.jpg",
+        "created": 1556817021,
+        "season_number": "4",
+        "title_id": "2191449",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1613881577,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614229200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
+        "id": "AWp5hohlHl5gR6828zZV",
         "auth": false
     },
     {
