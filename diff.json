@@ -1,62 +1,6 @@
 {
-    "updated": 1614229475,
+    "updated": 1614229518,
     "added": [
-        {
-            "auth": false,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1614229140,
-            "tms_id": "EP012792980109",
-            "description": "When Louise hears that Boo Boo is leaving Boyz 4 Now, she enters a contest that could give Tina the chance to meet him. Meanwhile, Bob and Linda learn an interesting piece of history regarding the restaurant, which leads to tension between Bob and Jimmy Pesto.",
-            "title_suggest": {
-                "input": [
-                    "Bye Bye Boo Boo",
-                    "Bye Boo Boo",
-                    "Boo Boo",
-                    "Boo"
-                ]
-            },
-            "title": "Bye Bye Boo Boo",
-            "type": "episode",
-            "expiration_date": 1562558340,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "duration": 1300.2669336,
-            "episode_number": "16",
-            "original_air_date": 1482373800,
-            "clip_order": null,
-            "auth_launch_date": 1613624400,
-            "modified": 1613205061,
-            "media_id": "d585b126a7913bd60f72f0bca2e3e41929eb1cb7",
-            "airing_id": "RADS1002122100073847",
-            "id": "Vu4iC1McRVG1appphTnL2w",
-            "slug": "bye-bye-boo-boo",
-            "views": 11296,
-            "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1482045037,
-            "title_id": "2097204",
-            "tv_rating": "tv-pg",
-            "season_number": "6",
-            "ott_expiration_date": null,
-            "active": false,
-            "blacklist": [],
-            "published": 1613205061,
-            "first_published": 1482045037,
-            "tags": [],
-            "collection_title": "Bob's Burgers",
-            "modified_by": "ODT Listener",
-            "launch_date": 1561953600,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg",
-            "cma_id": "1486495",
-            "collection_slug": "bobs-burgers",
-            "collection_title_id": "2003422",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "ott_launch_date": null,
             "auth": true,
@@ -108,6 +52,62 @@
             "modified_by": "ODT Listener",
             "launch_date": 1589774400,
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984550603814.jpg",
+            "collection_slug": "bobs-burgers",
+            "collection_title_id": "2003422",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": false,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1614229140,
+            "tms_id": "EP012792980109",
+            "description": "When Louise hears that Boo Boo is leaving Boyz 4 Now, she enters a contest that could give Tina the chance to meet him. Meanwhile, Bob and Linda learn an interesting piece of history regarding the restaurant, which leads to tension between Bob and Jimmy Pesto.",
+            "title_suggest": {
+                "input": [
+                    "Bye Bye Boo Boo",
+                    "Bye Boo Boo",
+                    "Boo Boo",
+                    "Boo"
+                ]
+            },
+            "title": "Bye Bye Boo Boo",
+            "type": "episode",
+            "expiration_date": 1562558340,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+            "duration": 1300.2669336,
+            "episode_number": "16",
+            "original_air_date": 1482373800,
+            "clip_order": null,
+            "auth_launch_date": 1613624400,
+            "modified": 1613205061,
+            "media_id": "d585b126a7913bd60f72f0bca2e3e41929eb1cb7",
+            "airing_id": "RADS1002122100073847",
+            "id": "Vu4iC1McRVG1appphTnL2w",
+            "slug": "bye-bye-boo-boo",
+            "views": 11296,
+            "exclude_from_search": false,
+            "thumbnail": "",
+            "created": 1482045037,
+            "title_id": "2097204",
+            "tv_rating": "tv-pg",
+            "season_number": "6",
+            "ott_expiration_date": null,
+            "active": false,
+            "blacklist": [],
+            "published": 1613205061,
+            "first_published": 1482045037,
+            "tags": [],
+            "collection_title": "Bob's Burgers",
+            "modified_by": "ODT Listener",
+            "launch_date": 1561953600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg",
+            "cma_id": "1486495",
             "collection_slug": "bobs-burgers",
             "collection_title_id": "2003422",
             "online_exclusives": false
