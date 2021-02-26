@@ -666,7 +666,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1620359940,
         "tms_id": "EP019059960071",
         "description": "As battle breaks out to prevent the ritual, Historia makes a shocking decision which leads to catastrophe.",
@@ -812,7 +812,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1614315540,
         "tms_id": "",
         "description": "Desperate to stop the approaching monstrosity, the Scouts resort to unconventional tactics before it destroys everything in its path.",
@@ -1935,7 +1935,7 @@
         "cma_id": "1348519"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1620359940,
         "tms_id": "EP019059960063",
@@ -2253,7 +2253,7 @@
         "cma_id": "1389519"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1614315540,
         "tms_id": "EP019059960053",
@@ -3128,7 +3128,7 @@
         "cma_id": "1427426"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1614315540,
         "tms_id": "EP019059960018",
@@ -3356,7 +3356,7 @@
         "cma_id": "1419402"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1626407940,
         "tms_id": "EP019059960047",
