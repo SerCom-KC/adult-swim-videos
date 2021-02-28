@@ -1,20 +1,18 @@
 {
-    "updated": 1614493830,
-    "added": [],
-    "removed": [
+    "updated": 1614504626,
+    "added": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1561965240,
-            "tms_id": "",
-            "description": "You know, every show has an episode like this.",
+            "auth_expiration_date": 1616317140,
+            "tms_id": "EP019059960094",
+            "description": "With no Titans left to threaten their escape, the Scouts retreat on the airship. Determined to make them pay for trampling on her home, Gabi chases after with gun in hand.",
             "title_suggest": {
                 "input": [
-                    "The Storm",
-                    "Storm"
+                    "Assassin's Bullet",
+                    "Bullet"
                 ]
             },
-            "title": "The Storm",
-            "expiration_date": 2085368400,
+            "title": "Assassin's Bullet",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,36 +20,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-            "duration": 647.08,
-            "episode_number": "6",
-            "original_air_date": 1560139200,
-            "auth_launch_date": 1560150900,
+            "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+            "duration": 1362.728,
+            "episode_number": "8",
+            "original_air_date": "1614490200",
+            "auth_launch_date": 1614502800,
             "clip_order": null,
-            "media_id": "a70d0c4119878d55d2bf14ed4cd4ac7abdf92788",
-            "modified": 1614491678,
-            "airing_id": "RADS1006261900003193",
-            "slug": "the-storm",
+            "airing_id": "RADS1002262100076704",
+            "media_id": "60553429dd3ce19f3fb7713445cc716ab3adae84",
+            "modified": 1614356193,
+            "slug": "assassins-bullet",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155983921420515.jpg",
-            "created": 1553004918,
-            "season_number": "2",
-            "title_id": "2191420",
-            "tv_rating": "tv-ma-l",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1614491678,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210226/thumbnails/1_21226952512-attackontitan_067_AssassinsBullet.jpg",
+            "created": 1613759124,
+            "season_number": "4",
+            "title_id": "2244430",
+            "tv_rating": "",
+            "published": 1614356193,
             "tags": [],
-            "collection_title": "The Jellies",
+            "collection_title": "Attack on Titan",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1561965300,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983921420515.jpg",
-            "id": "AWmWTncEAScUIg8XxeHF",
-            "auth": false,
-            "collection_slug": "the-jellies",
-            "collection_title_id": "2132025",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210226/thumbnails/2_21226952512-attackontitan_067_AssassinsBullet.jpg",
+            "id": "AXe7ihO8bxpjZvbXYmUS",
+            "auth": true,
+            "collection_slug": "attack-on-titan",
+            "collection_title_id": "2020945",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
