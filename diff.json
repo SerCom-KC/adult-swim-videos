@@ -1,18 +1,22 @@
 {
-    "updated": 1614512004,
-    "added": [
+    "updated": 1614528148,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1623580140,
-            "tms_id": "EP034917240099",
-            "description": "The tide of battle is slowly shifting in the Allied Forces' favor, but many are uncertain that they really stand a chance against Madara Uchiha.",
+            "auth_expiration_date": 1615114740,
+            "tms_id": "",
+            "description": "A reanimated Granny Chiyo attacks Kankuro and Mifune's team. Kankuro fights back by using the human puppet of Sasori.",
             "title_suggest": {
                 "input": [
-                    "Promise of Victory",
-                    "of Victory",
-                    "Victory"
+                    "The Soul Living Inside the Puppet",
+                    "Soul Living Inside the Puppet",
+                    "Living Inside the Puppet",
+                    "Inside the Puppet",
+                    "the Puppet",
+                    "Puppet"
                 ]
             },
-            "title": "Promise of Victory",
+            "title": "The Soul Living Inside the Puppet",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -22,34 +26,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1309.575,
-            "episode_number": "47",
-            "original_air_date": "1614499200",
-            "auth_launch_date": 1614511800,
+            "duration": 1312.9784,
+            "episode_number": "36",
+            "original_air_date": "1606030200",
+            "auth_launch_date": 1606042800,
             "clip_order": null,
-            "airing_id": "RADS1002262100076707",
-            "media_id": "6ca07d6936934521b08716a4909acd941054cb60",
-            "modified": 1614356901,
-            "slug": "promise-of-victory",
+            "airing_id": "RADS1011112000044238",
+            "media_id": "7a185a9b19557a369c8f61cfbca5350ea9244279",
+            "modified": 1610433091,
+            "slug": "the-soul-living-inside-the-puppet",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210219/thumbnails/1_21219948281-NarutoShippuden_330_PromiseOfVictory.jpg",
-            "created": 1613746110,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/1_201131728574-narutoshippuden_319_SoulLivingInsidePuppet.jpg",
+            "created": 1604442540,
             "season_number": "6",
-            "title_id": "2177759",
+            "title_id": "2177748",
             "tv_rating": "tv-pg",
-            "published": 1614356901,
+            "published": 1610433091,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210219/thumbnails/2_21219948281-NarutoShippuden_330_PromiseOfVictory.jpg",
-            "id": "AXe6w4H7bxpjZvbXYmUP",
+            "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131728574-narutoshippuden_319_SoulLivingInsidePuppet.jpg",
+            "id": "AXWQOkqaLyLQBOXK_PZM",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
