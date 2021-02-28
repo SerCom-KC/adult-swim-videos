@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 28, 2021 at 05:30:29 EST_
+_Last Update: February 28, 2021 at 06:30:27 EST_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-2203556 Fire Force: 1  
-### 2238507
-**Black Clover S03E36 - A Witch's Homecoming**  
-TV-PG 🔒 22:18  
-⌛ March 21, 2021 at 05:29:00 EDT  
-https://www.adultswim.com/videos/black-clover/a-witchs-homecoming  
-seriesid=`2143080` titleid=`2238507` id=`AXc_VLdCQJ_4Uej5kToS` mediaid=`7062f1dfa2c367cf604aaec2b758aba8b5250b03`  
-_The Queen of Witches agrees to teach Vanessa magic to buff her squadmates--but only if she can drive the huge magic beasts out of the queen's domain._  
-<a href="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_21126103459-BlackClover_139_WitchesHomecoming.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_21126103459-BlackClover_139_WitchesHomecoming.jpg" height="144px" /></a>
-### 2233681
-**Fire Force S02E14 - The Ashen Reaper**  
-TV-MA 🔒 22:44  
+812206 Naruto: Shippuden: 1  
+2236251 SSSS Gridman: 1  
+### 2177747
+**Naruto: Shippuden S06E35 - A Hole in the Heart: The Other Jinchuriki**  
+TV-14-V 🔒 21:51  
+⌛ June 13, 2021 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/a-hole-in-the-heart-the-other-jinchuriki  
+seriesid=`812206` titleid=`2177747` id=`AXSM5LJqSeFB2d0c3858` mediaid=`426bfa3b835e40692a74746f2d204bbb684c9d43`  
+_Kabuto reanimates Fukai, the previous Eight Tails' Jinchuriki, to attack Killer Bee and Motoi._  
+<a href="https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914953489-narutoshippuden_318_AHoleintheHeart.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914953489-narutoshippuden_318_AHoleintheHeart.jpg" height="144px" /></a>
+### 2236258
+**SSSS Gridman S01E07 - Scheme**  
+TV-14-V 🔒 22:06  
 ⌛ March 21, 2021 at 05:59:00 EDT  
-https://www.adultswim.com/videos/fire-force/the-ashen-reaper  
-seriesid=`2203556` titleid=`2233681` id=`AXcltxLmQJ_4Uej5kTnA` mediaid=`568557f34c08c67e71c76742ce494c473749e406`  
-_Licht reveals to the members of the 8th that he has been spying on them for Haijima. Licht and Shinra come up with a plan to get inside the child pyrokinesis lab where Shinra was institutionalized as a child to uncover some dirt on Haijima._  
-<a href="https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211111280-FireForce2_038_AshenReaper.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211111280-FireForce2_038_AshenReaper.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/ssss-gridman/scheme  
+seriesid=`2236251` titleid=`2236258` id=`AXbeItbmbxpjZvbXYl6w` mediaid=`c1e349fe304362f4c67b9b8153494e79b042af02`  
+_The others are finding Yuta's story hard to believe. Nobody wants to confront and ask Akane, but in the meantime, Anti has made plans of his own._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336316-SSSS_Gridman_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336316-SSSS_Gridman_007.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
