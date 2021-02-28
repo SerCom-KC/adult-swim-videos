@@ -85,7 +85,7 @@
         "launch_date": 1613300400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171335330-SSSS_Gridman_002.jpg",
         "id": "AXbeIfIFbxpjZvbXYl6u",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1613905140,
@@ -173,7 +173,7 @@
         "launch_date": 1614510000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171335545-SSSS_Gridman_004.jpg",
         "id": "AXbeIk3TQJ_4Uej5kTkE",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1615114740,
@@ -261,6 +261,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336186-SSSS_Gridman_006.jpg",
         "id": "AXbeIqMUQJ_4Uej5kTkG",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1616320740,
+        "tms_id": "",
+        "description": "The others are finding Yuta's story hard to believe. Nobody wants to confront and ask Akane, but in the meantime, Anti has made plans of his own.",
+        "title_suggest": {
+            "input": [
+                "Scheme"
+            ]
+        },
+        "title": "Scheme",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXbO6qqIbxpjZvbXYl08",
+        "duration": 1326.3917,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1614510000,
+        "clip_order": null,
+        "airing_id": "RADS1002262100076708",
+        "media_id": "c1e349fe304362f4c67b9b8153494e79b042af02",
+        "modified": 1614357193,
+        "slug": "scheme",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171336316-SSSS_Gridman_007.jpg",
+        "created": 1610044593,
+        "season_number": "1",
+        "title_id": "2236258",
+        "tv_rating": "tv-14-v",
+        "published": 1614357193,
+        "tags": [],
+        "collection_title": "SSSS Gridman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336316-SSSS_Gridman_007.jpg",
+        "id": "AXbeItbmbxpjZvbXYl6w",
         "auth": true
     }
 ]
