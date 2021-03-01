@@ -1,22 +1,16 @@
 {
-    "updated": 1614528148,
-    "added": [],
-    "removed": [
+    "updated": 1614574830,
+    "added": [
         {
-            "auth_expiration_date": 1615114740,
+            "auth_expiration_date": 1616385540,
             "tms_id": "",
-            "description": "A reanimated Granny Chiyo attacks Kankuro and Mifune's team. Kankuro fights back by using the human puppet of Sasori.",
+            "description": "When Sheriff realizes that an addiction to his Momma's pudding is allowing her to control him, he decides to better his relationship with her, by kicking his pudding habit.",
             "title_suggest": {
                 "input": [
-                    "The Soul Living Inside the Puppet",
-                    "Soul Living Inside the Puppet",
-                    "Living Inside the Puppet",
-                    "Inside the Puppet",
-                    "the Puppet",
-                    "Puppet"
+                    "Puddin"
                 ]
             },
-            "title": "The Soul Living Inside the Puppet",
+            "title": "Puddin",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -25,34 +19,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.9784,
-            "episode_number": "36",
-            "original_air_date": "1606030200",
-            "auth_launch_date": 1606042800,
+            "collection_id": "AW5moY7HadNs2hMNfuf_",
+            "duration": 676.5425,
+            "episode_number": "5",
+            "original_air_date": "1614574800",
+            "auth_launch_date": 1614574800,
             "clip_order": null,
-            "airing_id": "RADS1011112000044238",
-            "media_id": "7a185a9b19557a369c8f61cfbca5350ea9244279",
-            "modified": 1610433091,
-            "slug": "the-soul-living-inside-the-puppet",
+            "airing_id": "RADS1002262100077074",
+            "media_id": "922fc2d3b5d10b8838426e3ed0202c6b248aa3cf",
+            "modified": 1614384689,
+            "slug": "puddin",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/1_201131728574-narutoshippuden_319_SoulLivingInsidePuppet.jpg",
-            "created": 1604442540,
-            "season_number": "6",
-            "title_id": "2177748",
-            "tv_rating": "tv-pg",
-            "published": 1610433091,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/1_211281426394-MommaNamedMeSheriff_203_dup-20210122_Puddin.jpg",
+            "created": 1611862004,
+            "season_number": "2",
+            "title_id": "2247955",
+            "tv_rating": "tv-ma-lsv",
+            "published": 1614384689,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Momma Named Me Sheriff",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131728574-narutoshippuden_319_SoulLivingInsidePuppet.jpg",
-            "id": "AXWQOkqaLyLQBOXK_PZM",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426394-MommaNamedMeSheriff_203_dup-20210122_Puddin.jpg",
+            "id": "AXdKdla2QJ_4Uej5kToo",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "momma-named-me-sheriff",
+            "collection_title_id": "2196566",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
