@@ -98,7 +98,7 @@
         "launch_date": 1614574800,
         "poster": "https://media.cdn.adultswim.com/uploads/20190919/thumbnails/2_1991913459-lupinthe3rdpt5_015.jpg",
         "id": "AW1Ke2zb1YiBSfg0KXA5",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -149,6 +149,57 @@
         "launch_date": 1600056000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191012/thumbnails/2_1910121133117-lupinthe3rdpt5_017.jpg",
         "id": "AW28BU_NadNs2hMNfuSf",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1615179540,
+        "tms_id": "EP029407000016",
+        "description": "Padar sinks into chaos because of the civil war, but things take a sudden turn when the Shake Hands company gets involved.",
+        "title_suggest": {
+            "input": [
+                "Let's Talk About First Loves",
+                "Talk About First Loves",
+                "About First Loves",
+                "First Loves",
+                "Loves"
+            ]
+        },
+        "title": "Let's Talk About First Loves",
+        "type": "episode",
+        "expiration_date": 1601265540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWsjveiCCorLtcgflq7h",
+        "duration": 1325.7578,
+        "episode_number": "16",
+        "original_air_date": 1570347000,
+        "auth_launch_date": 1614574800,
+        "clip_order": null,
+        "airing_id": "RADS1002272100077094",
+        "media_id": "9dd0dbb75dfa7c3ce41da3b483cd1fb57a70ad6c",
+        "modified": 1614392380,
+        "slug": "lets-talk-about-first-loves",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191014/thumbnails/1_191014103394-lupinthe3rdpt5_016.jpg",
+        "created": 1569962073,
+        "title_id": "2193943",
+        "season_number": "1",
+        "tv_rating": "tv-14-lsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1614392380,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 5",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1599451200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191014/thumbnails/2_191014103394-lupinthe3rdpt5_016.jpg",
+        "id": "AW2JCBwZ1YiBSfg0KXZq",
         "auth": true
     },
     {
@@ -1206,6 +1257,6 @@
         "launch_date": 1612760400,
         "poster": "https://media.cdn.adultswim.com/uploads/20190830/thumbnails/2_19830152141-lupinthe3rdpt5_012.jpg",
         "id": "AWze4xvI4aLemgzOLGVm",
-        "auth": false
+        "auth": true
     }
 ]
