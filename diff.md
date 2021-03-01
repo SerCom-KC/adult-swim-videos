@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 28, 2021 at 11:30:26 EST_
+_Last Update: March 1, 2021 at 00:00:31 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177748
-**Naruto: Shippuden S06E36 - The Soul Living Inside the Puppet**  
-TV-PG 🔒 21:52  
-⌛ March 7, 2021 at 05:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/the-soul-living-inside-the-puppet  
-seriesid=`812206` titleid=`2177748` id=`AXWQOkqaLyLQBOXK_PZM` mediaid=`7a185a9b19557a369c8f61cfbca5350ea9244279`  
-_A reanimated Granny Chiyo attacks Kankuro and Mifune's team. Kankuro fights back by using the human puppet of Sasori._  
-<a href="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131728574-narutoshippuden_319_SoulLivingInsidePuppet.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131728574-narutoshippuden_319_SoulLivingInsidePuppet.jpg" height="144px" /></a>
+2196566 Momma Named Me Sheriff: 1  
+### 2247955
+**Momma Named Me Sheriff S02E05 - Puddin**  
+TV-MA-LSV 🔒 11:16  
+⌛ March 21, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/momma-named-me-sheriff/puddin  
+seriesid=`2196566` titleid=`2247955` id=`AXdKdla2QJ_4Uej5kToo` mediaid=`922fc2d3b5d10b8838426e3ed0202c6b248aa3cf`  
+_When Sheriff realizes that an addiction to his Momma's pudding is allowing her to control him, he decides to better his relationship with her, by kicking his pudding habit._  
+<a href="https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426394-MommaNamedMeSheriff_203_dup-20210122_Puddin.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426394-MommaNamedMeSheriff_203_dup-20210122_Puddin.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
