@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446580860,
         "auth_expiration_date": 1617681540,
         "tms_id": "EP011016070001",
@@ -329,57 +329,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1444574820,
-        "auth_expiration_date": 1614661140,
-        "tms_id": "EP011016070026",
-        "rating": 7.0392156,
-        "description": "\"Jon\" realizes he doesn't have any friends. The Mirminsky's hire someone new.",
-        "title_suggest": {
-            "input": [
-                "Friend"
-            ]
-        },
-        "type": "episode",
-        "title": "Friend",
-        "expiration_date": 1611637140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
-        "duration": 1346.9174312,
-        "episode_number": "7",
-        "original_air_date": 1331870400,
-        "clip_order": null,
-        "auth_launch_date": 1611637200,
-        "modified": 1614038426,
-        "media_id": "42c842e2429a4533350340878fcfd1e761e5593c",
-        "airing_id": "RADS1001222100065533",
-        "id": "ZxLldonoQymP1cvWTiXPbg",
-        "slug": "friend",
-        "views": 118243,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331457107-delocated_307.jpg",
-        "created": 1402945463,
-        "title_id": "878914",
-        "season_number": "3",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614038426,
-        "tags": [],
-        "rating_count": 102,
-        "collection_title": "Delocated",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609477200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331457107-delocated_307.jpg",
-        "cma_id": "1458702"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1444575000,
         "auth_expiration_date": 1615867140,
         "tms_id": "EP011016070028",
@@ -431,6 +380,60 @@
         "launch_date": 1609822800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331457493-delocated_309.jpg",
         "cma_id": "1468784"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446581160,
+        "auth_expiration_date": 1513151999,
+        "tms_id": "EP011016070006",
+        "rating": 7.32047,
+        "description": "\"Jon\" joins a country club. A TV movie is made about \"Susan's\" life.",
+        "title_suggest": {
+            "input": [
+                "Members Only",
+                "Only"
+            ]
+        },
+        "type": "episode",
+        "title": "Members Only",
+        "expiration_date": 1617681540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
+        "duration": 683.5005005,
+        "episode_number": "5",
+        "original_air_date": 1237781700,
+        "clip_order": null,
+        "auth_launch_date": 1511683200,
+        "modified": 1614401268,
+        "media_id": "c69e4e8535c34035a934526839e6f2fa0a2a894b",
+        "airing_id": "RADS1002272100077168",
+        "id": "k_psr-U2Q8-683v0C0QiHw",
+        "slug": "members-only",
+        "views": 120068,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331434194-delocated_105.jpg",
+        "created": 1402945463,
+        "title_id": "751596",
+        "tv_rating": "tv-14-l",
+        "season_number": "1",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614401268,
+        "tags": [
+            "delocated episode 5 members only susan movie golf tournament racism black caddy"
+        ],
+        "rating_count": 596,
+        "collection_title": "Delocated",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614661200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331434194-delocated_105.jpg",
+        "cma_id": "751596"
     },
     {
         "auth": false,
