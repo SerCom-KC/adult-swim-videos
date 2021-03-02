@@ -473,7 +473,7 @@
         "cma_id": "1434847"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1443383700,
         "auth_expiration_date": 1617681540,
         "tms_id": "EP019635740004",
@@ -579,61 +579,6 @@
         "launch_date": 1614056400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226178106-blackjesus_008_dup-20140819.jpg",
         "cma_id": "1438884"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1448057940,
-        "auth_expiration_date": 1614661140,
-        "tms_id": "EP019635740022",
-        "description": "Fed up with the commercialization of the holiday, Jesus makes a Christmas wish of his own. When it's granted, he's forced to face the unintended consequences of life without divinity.",
-        "title_suggest": {
-            "input": [
-                "A Very Special Christmas in Compton",
-                "Very Special Christmas in Compton",
-                "Special Christmas in Compton",
-                "Christmas in Compton",
-                "in Compton",
-                "Compton"
-            ]
-        },
-        "title": "A Very Special Christmas in Compton",
-        "type": "episode",
-        "expiration_date": 1611637140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "duration": 1216.7340674,
-        "episode_number": "11",
-        "original_air_date": 1448683200,
-        "clip_order": null,
-        "auth_launch_date": 1611637200,
-        "modified": 1611345941,
-        "media_id": "cf41f4072bd8ce8eb0cb87b17758eadfb2e1c049",
-        "airing_id": "RADS1001222100065532",
-        "id": "TPOPv-LxSmmnxejrrJSaEA",
-        "slug": "a-very-special-christmas-in-compton",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261715240-blackjesus_211_dup-20151019.jpg",
-        "created": 1448058033,
-        "season_number": "2",
-        "title_id": "2065420",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1611345941,
-        "first_published": 1448058033,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608613200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261715240-blackjesus_211_dup-20151019.jpg",
-        "cma_id": "2065420"
     },
     {
         "auth": true,
@@ -812,5 +757,56 @@
         "launch_date": 1609822800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_2022617586-blackjesus_001_dup-20140716.jpg",
         "cma_id": "2031265"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1443384120,
+        "auth_expiration_date": 1601351940,
+        "tms_id": "EP019635740009",
+        "description": "With the garden in danger, our heroes decide to have an online benefit concert with Coolio to raise the money.",
+        "title_suggest": {
+            "input": [
+                "Gangsta's Paradise",
+                "Paradise"
+            ]
+        },
+        "expiration_date": 1617681540,
+        "title": "Gangsta's Paradise",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
+        "duration": 1206.3336113,
+        "episode_number": "9",
+        "original_air_date": 1412305200,
+        "clip_order": null,
+        "auth_launch_date": 1598328000,
+        "modified": 1614403363,
+        "media_id": "8630bf34c159acee51213d150396b33c73614d76",
+        "airing_id": "RADS1002272100077181",
+        "id": "ydOCgPSMTcuTzM5TgGU-9A",
+        "slug": "gangstas-paradise",
+        "views": 4,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_20226179180-blackjesus_009_dup-20140916.jpg",
+        "created": 1409925182,
+        "season_number": "1",
+        "title_id": "2031273",
+        "tv_rating": "tv-ma-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614403363,
+        "first_published": 1411971628,
+        "tags": [],
+        "collection_title": "Black Jesus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614661200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226179180-blackjesus_009_dup-20140916.jpg",
+        "cma_id": "1443183"
     }
 ]
