@@ -159,61 +159,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1614747540,
-        "tms_id": "EP002989350017",
-        "rating": 8.835903,
-        "description": "Jason and Melissa fight for bigger roles in Brendon's latest movie project. Erik, meanwhile, helps Paula with her job search. McGuirk, who is taking care of a friend's dog, becomes suspicious that Brendon is doing drugs after he starts showing up to practice late and tired.",
-        "title_suggest": {
-            "input": [
-                "Business and Pleasure",
-                "and Pleasure",
-                "Pleasure"
-            ]
-        },
-        "type": "episode",
-        "title": "Business and Pleasure",
-        "expiration_date": 1611723540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1338.1668335,
-        "episode_number": "4",
-        "original_air_date": 1012186800,
-        "clip_order": null,
-        "auth_launch_date": 1611723600,
-        "modified": 1614033665,
-        "media_id": "94657ef16b7011de6b88effb21ba864ffffbff00",
-        "airing_id": "RADS1001222100065571",
-        "id": "JzdIYj8_SbWHbU2-Xd4O-g",
-        "slug": "business-and-pleasure",
-        "views": 440459,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035167217-hmovies_017.jpg",
-        "created": 1402945467,
-        "title_id": "344133",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614033665,
-        "tags": [
-            "home movies episode 17 business and pleasure drugs"
-        ],
-        "rating_count": 713,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608699600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035167217-hmovies_017.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1617767940,
         "tms_id": "EP002989350022",
@@ -315,6 +261,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1610514000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161793-hmovies_020.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1596599940,
+        "tms_id": "EP002989350028",
+        "rating": 8.875581,
+        "description": "Erik is worried that Melissa doesn't have enough friends who are girls so he enrolls her in The Fairy Princesses. Meanwhile, Brendon gets invited to spend the weekend with Fenton, whom he didn't even know he was friends with. Both Brendon and Melissa have what they consider to be the worst weekends of their lives.",
+        "title_suggest": {
+            "input": [
+                "Shore Leave",
+                "Leave"
+            ]
+        },
+        "type": "episode",
+        "title": "Shore Leave",
+        "expiration_date": 1617767940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1337.4004004,
+        "episode_number": "1",
+        "original_air_date": 1028512800,
+        "clip_order": null,
+        "auth_launch_date": 1593576000,
+        "modified": 1614407925,
+        "media_id": "5e1fb72676e6dc08816448141c62b2db7831cf9e",
+        "airing_id": "RADS1002272100077207",
+        "id": "aWz5PdFiRyqt-pbvKGioEQ",
+        "slug": "shore-leave",
+        "views": 386054,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351619457-hmovies_027.jpg",
+        "created": 1402945467,
+        "title_id": "420673",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614407925,
+        "tags": [
+            "home movies episode 27 shore leave"
+        ],
+        "rating_count": 1077,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614747600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351619457-hmovies_027.jpg",
         "cma_id": ""
     },
     {
