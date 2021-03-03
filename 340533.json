@@ -1,59 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": 1447438680,
-        "auth_expiration_date": 1614747540,
-        "tms_id": "EP004625760017",
-        "rating": 8.388164,
-        "description": "Adorable-ness ensues when Murphy buys a cute little Gloop from a sexy Asian lady. But what the...? Those things are multiplying like crazy! And they've got a hankering for the kelp harvest! And they're filled with poison gas! And we better get some flamethrowers down here to show those damn Gloops who's boss!",
-        "title_suggest": {
-            "input": [
-                "Hail, Squishface",
-                "Squishface"
-            ]
-        },
-        "type": "episode",
-        "title": "Hail, Squishface",
-        "expiration_date": 1611723540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.9009009,
-        "episode_number": "5",
-        "original_air_date": 1036987200,
-        "clip_order": null,
-        "auth_launch_date": 1611723600,
-        "modified": 1614034231,
-        "airing_id": "RADS1001222100065574",
-        "media_id": "5440f0fe4e77986952b0281e3ba0b740f5229b3f",
-        "id": "7KQ-BsDsRPulVKI2W6y0_g",
-        "slug": "hail-squishface",
-        "views": 223088,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_20415150163-sealab_018.jpg",
-        "created": 1402945476,
-        "title_id": "434938",
-        "season_number": "2",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1614034231,
-        "tags": [
-            "sealab 2021 hail squishface episode 18"
-        ],
-        "rating_count": 1082,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608699600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_20415150163-sealab_018.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447438740,
         "auth_expiration_date": 1615352340,
         "tms_id": "EP004625760018",
@@ -105,7 +52,7 @@
         "cma_id": "1468142"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438800,
         "auth_expiration_date": 1617767940,
         "tms_id": "EP004625760022",
@@ -366,6 +313,63 @@
         "modified_by": "ODT Listener",
         "launch_date": 1613538000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151528546-sealab_023.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447438980,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760029",
+        "rating": 8.2048,
+        "description": "Join Prescott, the many-tentacled network executive, as he goes behind-the-scenes of Sealab. Will the show be canceled? Burned to the ground? Will there be a spin-off? And hey: what's up with that weird smell coming from Estrada's trailer?",
+        "title_suggest": {
+            "input": [
+                "Return to Oblivion",
+                "to Oblivion",
+                "Oblivion"
+            ]
+        },
+        "type": "episode",
+        "title": "Return to Oblivion",
+        "expiration_date": 1617767940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 689.8675342,
+        "episode_number": "13",
+        "original_air_date": 1069042500,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1614407925,
+        "media_id": "15782fe5ec5f6dbbb277885bd339cda975841aed",
+        "airing_id": "RADS1002272100077208",
+        "id": "cY0Qb6vrT66CUeLnOumLPQ",
+        "slug": "return-to-oblivion",
+        "views": 212886,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151530355-sealab_026.jpg",
+        "created": 1402945476,
+        "title_id": "448026",
+        "season_number": "2",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614407925,
+        "tags": [
+            "Sealab 2021",
+            "Episode 26",
+            "Return to Oblivion"
+        ],
+        "rating_count": 625,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614747600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151530355-sealab_026.jpg",
         "cma_id": ""
     },
     {

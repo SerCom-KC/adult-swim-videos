@@ -256,6 +256,57 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447169280,
+        "auth_expiration_date": 1514966399,
+        "tms_id": "EP008519090033",
+        "rating": 9.458055,
+        "description": "When Nathan learns that his ex-girlfriend, Rebecca Nightrod, has already found new love while still in a coma, he decides to return to the dating scene.  Unfortunately, the rest of the band makes it difficult for Nathan to make a true love connection.",
+        "title_suggest": {
+            "input": [
+                "Klokblocked"
+            ]
+        },
+        "type": "episode",
+        "title": "Klokblocked",
+        "expiration_date": 1617767940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 691.7340674,
+        "episode_number": "13",
+        "original_air_date": 1214798400,
+        "clip_order": null,
+        "auth_launch_date": 1511942400,
+        "modified": 1614404569,
+        "media_id": "3cf324fef83d9bc9013c94075df1cd380a9e0335",
+        "airing_id": "RADS1002272100077194",
+        "id": "UipSO2KTQuOf789PLXTSYQ",
+        "slug": "klokblocked",
+        "views": 732516,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111053573-metalocalypse_213_bim.jpg",
+        "created": 1402945469,
+        "title_id": "693503",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614404569,
+        "tags": [],
+        "rating_count": 4351,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614747600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111053573-metalocalypse_213_bim.jpg",
+        "cma_id": "1246858"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447169160,
         "auth_expiration_date": 1617767940,
         "tms_id": "EP008519090028",
@@ -515,58 +566,5 @@
         "launch_date": 1612328400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111052280-metalocalypse_209_bim.jpg",
         "cma_id": "693499"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447169040,
-        "auth_expiration_date": 1614747540,
-        "tms_id": "EP008519090023",
-        "rating": 8.657428,
-        "description": "The wounded, the scared, and the disfigured unite. Meanwhile, an oblivious Dethklok spends their studio time recording onto the purest of all analog formats: water.",
-        "title_suggest": {
-            "input": [
-                "Dethvengeance"
-            ]
-        },
-        "type": "episode",
-        "title": "Dethvengeance",
-        "expiration_date": 1611723540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 674.6339673,
-        "episode_number": "3",
-        "original_air_date": 1191815100,
-        "clip_order": null,
-        "auth_launch_date": 1611723600,
-        "modified": 1614037299,
-        "media_id": "ca48522768e5494b46ea0e8342e138faae0d8ad8",
-        "airing_id": "RADS1001222100065573",
-        "id": "zYLQu70XQjiT0LbCdnGuxw",
-        "slug": "dethvengeance",
-        "views": 831881,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311104829-metalocalypse_203_bim.jpg",
-        "created": 1402945469,
-        "title_id": "678360",
-        "season_number": "2",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614037299,
-        "tags": [
-            "dethklok metalocalypse episode 23 dethvengeance revengencers studio water"
-        ],
-        "rating_count": 3354,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608699600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311104829-metalocalypse_203_bim.jpg",
-        "cma_id": "1462373"
     }
 ]

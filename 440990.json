@@ -98,6 +98,54 @@
         "cma_id": "1413863"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1615352340,
+        "tms_id": "EP002960010256",
+        "description": "Peter and Meg bond during a college visit to Vermont. The two party all night resulting in Meg missing out on an important interview. Lois begins to worry that Peter is becoming too much of a distraction and warns Meg not to get too attached, but Meg is just happy to be getting positive attention from her father for the first time.",
+        "title_suggest": {
+            "input": [
+                "Meg Stinks!",
+                "Stinks!"
+            ]
+        },
+        "title": "Meg Stinks!",
+        "type": "episode",
+        "expiration_date": 1600660740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1271.7705,
+        "episode_number": "19",
+        "original_air_date": 1399946400,
+        "clip_order": null,
+        "auth_launch_date": 1614747600,
+        "modified": 1614410636,
+        "media_id": "d658141e34f4751118658d2c866091f4c3e1015d",
+        "airing_id": "RADS1002272100077214",
+        "id": "N5nPbAtKRtePtSx3nP07GA",
+        "slug": "meg-stinks",
+        "views": 2674,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108604519322.jpg",
+        "created": 1411575395,
+        "season_number": "12",
+        "title_id": "809281",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1614410636,
+        "first_published": 1411575395,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1600056000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108604519322.jpg",
+        "cma_id": "1417302"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1574926140,
@@ -201,54 +249,6 @@
         "launch_date": 1614574800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203656369105.jpg",
         "cma_id": "1483976"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1614747540,
-        "tms_id": "EP002960010244",
-        "description": "The Griffins visit the Quahog Mall for the Christmas Carnival only to find that it has been canceled. Upset, Stewie begins to act out.",
-        "title_suggest": {
-            "input": [
-                "Christmas Guy",
-                "Guy"
-            ]
-        },
-        "title": "Christmas Guy",
-        "type": "episode",
-        "expiration_date": 1598846340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1290.6894,
-        "episode_number": "8",
-        "original_air_date": 1387857600,
-        "clip_order": null,
-        "auth_launch_date": 1614142800,
-        "modified": 1613829506,
-        "media_id": "b9112e51310f9cb531764e9289008e4288e4e822",
-        "airing_id": "RADS1002202100074850",
-        "id": "aTnUsCAoTp6rHLnkPoZriw",
-        "slug": "christmas-guy",
-        "views": 1751,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152338132076119.jpg",
-        "created": 1411575035,
-        "season_number": "12",
-        "title_id": "809272",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1613829506,
-        "first_published": 1411575035,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1598241600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152338132076119.jpg",
-        "cma_id": "1412010"
     },
     {
         "auth": true,
