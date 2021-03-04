@@ -50,54 +50,6 @@
         "cma_id": "2024896"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1614833940,
-        "tms_id": "EP019881990010",
-        "description": "A Tornado rips through Matt Peters childhood home, exposing something horribly embarrassing from his past. To make it go away, Matt must make a deal with the devil.",
-        "title_suggest": {
-            "input": [
-                "Tornado"
-            ]
-        },
-        "title": "Tornado",
-        "type": "episode",
-        "expiration_date": 1611809940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 1351.8757298,
-        "episode_number": "9",
-        "original_air_date": 1449288000,
-        "clip_order": null,
-        "auth_launch_date": 1611810000,
-        "modified": 1611393210,
-        "airing_id": "RADS1001222100065641",
-        "media_id": "ef021efdb3fe3d1911a57e0ed46fb150dfd0bc29",
-        "id": "9j_r9epBTF-qozLojK1h_g",
-        "slug": "tornado",
-        "views": 3,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117845426-tebs_202_dup-20151028.jpg",
-        "created": 1448954419,
-        "title_id": "2073346",
-        "tv_rating": "tv-ma-l",
-        "season_number": "1",
-        "ott_expiration_date": null,
-        "active": false,
-        "published": 1611393210,
-        "first_published": 1448954419,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608786000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117845426-tebs_202_dup-20151028.jpg",
-        "cma_id": "1142647"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "Bedtime Sauce",
@@ -303,6 +255,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447785600,
+        "auth_expiration_date": 1611205140,
+        "tms_id": "EP019881990003",
+        "description": "Tim, Eric, and Zach work and live in the men's public restroom on the 6th floor of the Stanton Building. Will their cover be blown when they suddenly run out of mints?",
+        "title_suggest": {
+            "input": [
+                "The Bathroom Boys",
+                "Bathroom Boys",
+                "Boys"
+            ]
+        },
+        "expiration_date": 1617854340,
+        "title": "The Bathroom Boys",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 675.38,
+        "episode_number": "3",
+        "original_air_date": 1412309700,
+        "clip_order": null,
+        "auth_launch_date": 1608181200,
+        "modified": 1614417174,
+        "media_id": "eaa750eba1caeed57fcf4396f49444e8a65b3d5d",
+        "airing_id": "RADS1002272100077248",
+        "id": "K_cqWiVEShGdqFjIBBuJpQ",
+        "slug": "the-bathroom-boys",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211784448-tebs_103_dup-20140909.jpg",
+        "created": 1410544714,
+        "season_number": "1",
+        "title_id": "2024894",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614417174,
+        "first_published": 1411971652,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614834000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211784448-tebs_103_dup-20140909.jpg",
+        "cma_id": "2024894"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1505744940,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -406,7 +410,7 @@
         "cma_id": "1470891"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1506349740,
         "auth_expiration_date": 1617854340,
         "tms_id": "EP019881990015",

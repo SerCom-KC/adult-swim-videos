@@ -255,54 +255,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1557757800,
-        "auth_expiration_date": 1614833940,
-        "tms_id": "EP013726210037",
-        "description": "Satan taps into the youth market with a hot, new board game.",
-        "title_suggest": {
-            "input": [
-                "OMGouija"
-            ]
-        },
-        "title": "OMGouija",
-        "expiration_date": 1611809940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 680.17,
-        "episode_number": "3",
-        "original_air_date": 1557547200,
-        "auth_launch_date": 1611810000,
-        "clip_order": null,
-        "media_id": "e0470686fe4a35309e963c3ef68731bb2b0c0c3e",
-        "modified": 1611395747,
-        "airing_id": "RADS1012182000056467",
-        "slug": "om-gouija",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155742900812814.jpg",
-        "created": 1556816305,
-        "season_number": "4",
-        "title_id": "2191441",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1611395747,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1608786000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155742900812814.jpg",
-        "id": "AWp5e54gAScUIg8XxfZ9",
-        "auth": true
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": 1616039940,
         "tms_id": "",
@@ -546,7 +498,7 @@
         "launch_date": 1611810000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg",
         "id": "AWp5gcZBAScUIg8XxfaB",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -848,6 +800,54 @@
         "launch_date": 1484167383,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/fence/ASID_2YXCH_YPF_Fence_15.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447786920,
+        "tms_id": "EP013726210009",
+        "description": "When Gary goes AWOL, Satan sends for his top bounty hunters.",
+        "title_suggest": {
+            "input": [
+                "Psyklone and the Thin Twins",
+                "and the Thin Twins",
+                "the Thin Twins",
+                "Thin Twins",
+                "Twins"
+            ]
+        },
+        "expiration_date": 1617854340,
+        "title": "Psyklone and the Thin Twins",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 685.13,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "1",
+        "original_air_date": 1436760900,
+        "clip_order": null,
+        "modified": 1614417478,
+        "airing_id": "RADS1002272100077234",
+        "media_id": "4e4bcc2ef1a8b7103a7fb5ad4584a3399b1ddbd7",
+        "id": "IiJRi9bUQnm2rDTCMzCUVw",
+        "slug": "psyklone-and-the-thin-twins",
+        "views": 3,
+        "created": 1436294062,
+        "season_number": "2",
+        "title_id": "2062763",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1614417478,
+        "first_published": 1436534422,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1614834000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/psyklone-and-the-thin-twins/ypf_ep201_003.jpg",
+        "cma_id": "1384952"
     },
     {
         "auth": false,
