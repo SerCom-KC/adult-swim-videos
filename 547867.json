@@ -107,7 +107,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451682000,
         "auth_expiration_date": 1617940740,
         "tms_id": "EP007008200013",
@@ -156,6 +156,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1611896400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952352-tgttm_012.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451682900,
+        "auth_expiration_date": null,
+        "tms_id": "EP007008200016",
+        "rating": 8.80096,
+        "description": "Tom tries to stop the Mayor from holding a Bass Fest, which threatens the town dam.",
+        "title_suggest": {
+            "input": [
+                "Bass Fest",
+                "Fest"
+            ]
+        },
+        "type": "episode",
+        "title": "Bass Fest",
+        "expiration_date": 1617940740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 696.73,
+        "episode_number": "4",
+        "original_air_date": 1150086600,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1614491969,
+        "airing_id": "RADS1002272100077274",
+        "media_id": "5680a904abe1d98e353d92e48d6990681cd02da7",
+        "id": "UXKkuujNS0mNdr6UI8QrWA",
+        "slug": "bass-fest",
+        "views": 118011,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117953598-tgttm_017.jpg",
+        "created": 1402945482,
+        "title_id": "633326",
+        "season_number": "2",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1614491969,
+        "tags": [
+            "tom goes to the mayor episode 17 bass fest dam"
+        ],
+        "rating_count": 417,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614920400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953598-tgttm_017.jpg",
         "cma_id": ""
     },
     {
@@ -366,61 +419,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1612501200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952499-tgttm_013.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1451681820,
-        "auth_expiration_date": 1614920340,
-        "tms_id": "EP007008200005",
-        "rating": 8.462963,
-        "description": "Tom creates a T-shirt that reads \"Rats Off to Ya\" for Christmas. It becomes a local phenomenon, but the idea is quickly stolen from Tom by a local novelty store.  Jeff Garlin appears as Pat Croece, the novelty store owner.",
-        "title_suggest": {
-            "input": [
-                "Rats Off To Ya",
-                "Off To Ya",
-                "To Ya",
-                "Ya"
-            ]
-        },
-        "type": "episode",
-        "title": "Rats Off To Ya",
-        "expiration_date": 1611896340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 700.9,
-        "episode_number": "4",
-        "original_air_date": 1103517000,
-        "clip_order": null,
-        "auth_launch_date": 1611896400,
-        "modified": 1614033034,
-        "airing_id": "RADS1001222100065675",
-        "media_id": "2995848883f99b05173ce71cb26f881bf53d7d8c",
-        "id": "ls1SsyXOSXOf3Jp2Uvqgyg",
-        "slug": "rats-off-to-ya",
-        "views": 93313,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117835245-tgttm_004.jpg",
-        "created": 1402945482,
-        "title_id": "607109",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1614033034,
-        "tags": [
-            "tom goes to the mayor tgttm episode 4 rats off to ya christmas"
-        ],
-        "rating_count": 324,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609477200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835245-tgttm_004.jpg",
         "cma_id": ""
     },
     {

@@ -1,56 +1,6 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": 1468067400,
-        "auth_expiration_date": 1614920340,
-        "tms_id": "EP012636510021",
-        "description": "Dr. Steven Brule learns what words are and learns his favorite words.",
-        "title_suggest": {
-            "input": [
-                "Words"
-            ]
-        },
-        "title": "Words",
-        "type": "episode",
-        "expiration_date": 1611896340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "qRGWFcDjQv2t5Pb9x17sKA",
-        "duration": 677.667334,
-        "episode_number": "3",
-        "original_air_date": 1468037700,
-        "clip_order": null,
-        "auth_launch_date": 1611896400,
-        "modified": 1614045098,
-        "media_id": "2fc2589820efd915e00543bd7fa37decb6259028",
-        "airing_id": "RADS1001222100065652",
-        "id": "0tzMb1owQlmGxw9kFhvHrw",
-        "slug": "words",
-        "views": 42764,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321620480-checkitout_403_dup-20160315.jpg",
-        "created": 1467702621,
-        "title_id": "2087965",
-        "tv_rating": "tv-14-l",
-        "season_number": "4",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1614045098,
-        "first_published": 1467702621,
-        "tags": [],
-        "collection_title": "Check It Out! with Dr. Steve Brule",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609477200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321620480-checkitout_403_dup-20160315.jpg",
-        "cma_id": "2087965"
-    },
-    {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445371440,
         "auth_expiration_date": 1617940740,
         "tms_id": "EP012636510002",
@@ -207,6 +157,60 @@
         "launch_date": 1614315600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321550143-checkitout_106_bim.jpg",
         "cma_id": "1426547"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1445372340,
+        "auth_expiration_date": 1532415599,
+        "tms_id": "EP012636510007",
+        "rating": 7.940715,
+        "description": "Dr. Steve dines on seafood and hides his wallet from a pirate. Carol Krabit reports on the weather.",
+        "title_suggest": {
+            "input": [
+                "Boats"
+            ]
+        },
+        "type": "episode",
+        "title": "Boats",
+        "expiration_date": 1617940740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "qRGWFcDjQv2t5Pb9x17sKA",
+        "duration": 657.4671338,
+        "episode_number": "1",
+        "original_air_date": 1332131400,
+        "clip_order": null,
+        "auth_launch_date": 1529478000,
+        "modified": 1614500936,
+        "media_id": "510037419c9e29e5acf71a42120cf2f04a943878",
+        "airing_id": "RADS1002272100077265",
+        "id": "XQ_K104dSMClqoF193IqiQ",
+        "slug": "boats",
+        "views": 213743,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321553308-checkitout_201_bim.jpg",
+        "created": 1402945462,
+        "title_id": "887728",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614500936,
+        "tags": [
+            "Steve Brule",
+            "Adult Swim"
+        ],
+        "rating_count": 1147,
+        "collection_title": "Check It Out! with Dr. Steve Brule",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614920400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321553308-checkitout_201_bim.jpg",
+        "cma_id": "1432205"
     },
     {
         "auth": false,
