@@ -1,9 +1,8 @@
 {
-    "updated": 1614914963,
-    "added": [],
-    "removed": [
+    "updated": 1614920433,
+    "added": [
         {
-            "auth": false,
+            "auth": true,
             "ott_launch_date": null,
             "auth_expiration_date": 1620964740,
             "tms_id": "EP019059960052",
@@ -55,5 +54,6 @@
             "collection_title_id": "2020945",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
