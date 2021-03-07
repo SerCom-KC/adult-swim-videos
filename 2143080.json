@@ -3944,7 +3944,7 @@
         "launch_date": 1615113000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261032210-BlackClover_137_ChammyCenturyOfHunger.jpg",
         "id": "AXc_UzTnQJ_4Uej5kToQ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1615714140,
@@ -4036,6 +4036,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_21126103459-BlackClover_139_WitchesHomecoming.jpg",
         "id": "AXc_VLdCQJ_4Uej5kToS",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1616923740,
+        "tms_id": "",
+        "description": "Julius enlists the aid of an expert in dark magic items and sends two Magic Knight captains to investigate reports of bandits near a distant village.",
+        "title_suggest": {
+            "input": [
+                "A Favor for Julius",
+                "Favor for Julius",
+                "for Julius",
+                "Julius"
+            ]
+        },
+        "title": "A Favor for Julius",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1339.1712,
+        "episode_number": "37",
+        "original_air_date": null,
+        "auth_launch_date": 1615113000,
+        "clip_order": null,
+        "airing_id": "RADS1003022100078243",
+        "media_id": "9ec96e7d8d76e1ccec6c0e186ae79cc57335007e",
+        "modified": 1614726361,
+        "slug": "a-favor-for-julius",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/1_211261034478-BlackClover_140_FavorForJulius.jpg",
+        "created": 1611675294,
+        "season_number": "3",
+        "title_id": "2238508",
+        "tv_rating": "tv-pg",
+        "published": 1614726361,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261034478-BlackClover_140_FavorForJulius.jpg",
+        "id": "AXc_VV0JQJ_4Uej5kToT",
         "auth": true
     }
 ]
