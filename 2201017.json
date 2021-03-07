@@ -92,5 +92,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210219/thumbnails/2_212191320511-promo_FoodWars_S3_Trailer_SAT_30.jpg",
         "id": "AXe7hhJMQJ_4Uej5kTsH",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1616920140,
+        "tms_id": "EP034485810002",
+        "description": "There's more to Chinese cooking than Soma realized and he's running out of time. Fortunately, Hisako, Alice and Erina give him pointers about the nuances of \"ma\" and \"la.\"",
+        "title_suggest": {
+            "input": [
+                "Ma & La",
+                "& La",
+                "La"
+            ]
+        },
+        "title": "Ma & La",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 1390.4557,
+        "episode_number": "2",
+        "original_air_date": 1615096800,
+        "auth_launch_date": 1615109400,
+        "clip_order": null,
+        "airing_id": "RADS1003022100078241",
+        "media_id": "334c949562372f7470ec907426091285b38deeca",
+        "modified": 1614786977,
+        "slug": "ma-la",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210303/thumbnails/1_21331056119-FoodWars_039_MaLa.jpg",
+        "created": 1614722379,
+        "title_id": "2258225",
+        "season_number": "3",
+        "tv_rating": "tv-ma-s",
+        "published": 1614786977,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210303/thumbnails/2_21331056119-FoodWars_039_MaLa.jpg",
+        "id": "AXf09C-hBH5Z6gH5aV3Q",
+        "auth": true
     }
 ]
