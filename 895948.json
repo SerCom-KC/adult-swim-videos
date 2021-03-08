@@ -471,51 +471,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1615179540,
-        "tms_id": "",
-        "description": "After only one and a half episodes, Hannibal quits the show and is poorly cloned into a giant mutant version of himself named Blannibal.",
-        "title_suggest": {
-            "input": [
-                "Hannibal Quits",
-                "Quits"
-            ]
-        },
-        "title": "Hannibal Quits",
-        "expiration_date": 1612155540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 674.1068,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1612155600,
-        "clip_order": null,
-        "airing_id": "RADS1012232000057960",
-        "media_id": "738990f5b3458234de1f741e63a193407bdbea32",
-        "modified": 1611957056,
-        "slug": "hannibal-quits",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161712495-ericandre_502_dup-20200812.jpg",
-        "created": 1600290772,
-        "season_number": "5",
-        "title_id": "2230781",
-        "tv_rating": "tv-ma-l",
-        "published": 1611957056,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609131600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161712495-ericandre_502_dup-20200812.jpg",
-        "id": "AXSYw1UXSeFB2d0c3877",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1615780740,
         "tms_id": "",
         "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
@@ -560,6 +515,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161714163-ericandre_503_dup-20200813.jpg",
         "id": "AXSYw_QbLyLQBOXK_PN9",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1614574740,
+        "tms_id": "",
+        "description": "Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six .Paak!",
+        "title_suggest": {
+            "input": [
+                "A King Is Born",
+                "King Is Born",
+                "Is Born",
+                "Born"
+            ]
+        },
+        "title": "A King Is Born",
+        "expiration_date": 1618199940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 674.4404,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1611550800,
+        "clip_order": null,
+        "airing_id": "RADS1003032100078748",
+        "media_id": "a994a03f9ab4017b638d036a3eec0ea4415bf116",
+        "modified": 1614822556,
+        "slug": "a-king-is-born",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161711506-ericandre_501_dup-20200812.jpg",
+        "created": 1600290716,
+        "season_number": "5",
+        "title_id": "2230780",
+        "tv_rating": "tv-ma-lv",
+        "published": 1614822556,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615179600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg",
+        "id": "AXSYwnpvLyLQBOXK_PN8",
+        "auth": false
     },
     {
         "auth_expiration_date": 1616385540,
@@ -744,7 +746,7 @@
         "launch_date": 1612155600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
         "id": "AXSYyk1WSeFB2d0c387_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1612760340,
