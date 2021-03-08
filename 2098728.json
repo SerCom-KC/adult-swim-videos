@@ -2090,7 +2090,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296814668916.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330070",
@@ -2251,7 +2251,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330075",
         "description": "Everyone is too busy to spar with Goku, so he seeks out Krillin for old times' sake. Disappointed in his current combat ability, Krillin decides that he's in dire need of retraining.",
