@@ -1,57 +1,56 @@
 {
-    "updated": 1615176078,
-    "added": [],
-    "removed": [
+    "updated": 1615179626,
+    "added": [
         {
-            "auth_expiration_date": null,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1604465940,
             "tms_id": "",
-            "description": "Order up! Food Wars is dishing out a fresh helping of season three. Dig into the premiere this Saturday night at 1:00a!",
+            "description": "Debra, Debra, and Debra welcome a very cool visitor who threatens to tear Debra and Debra away from Debra.",
             "title_suggest": {
                 "input": [
-                    "Food Wars: Season 3 Trailer",
-                    "Wars: Season 3 Trailer",
-                    "Season 3 Trailer",
-                    "3 Trailer",
-                    "Trailer"
+                    "Barbra"
                 ]
             },
-            "title": "Food Wars: Season 3 Trailer",
-            "expiration_date": 1617019140,
-            "type": "clip",
+            "title": "Barbra",
+            "expiration_date": 1618199940,
+            "type": "episode",
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "online-exclusive",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "AWuvYf7tCorLtcgflrvU",
-            "duration": 0,
-            "original_air_date": null,
-            "auth_launch_date": null,
+            "collection_id": "AXA_dLX33HMJfT8do8j9",
+            "duration": 645.9787,
+            "episode_number": "4",
+            "original_air_date": 1587355200,
+            "auth_launch_date": 1603857600,
             "clip_order": null,
-            "airing_id": "",
-            "media_id": "mee812230d9027a695c4e8c4b143d401b6532e8040",
-            "modified": 1614971843,
-            "slug": "food-wars-season-3-trailer",
+            "media_id": "59ab8d0e522edd1a1760dd6bd6979ad642749a61",
+            "modified": 1614822556,
+            "airing_id": "RADS1003032100078756",
+            "slug": "barbra",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210219/thumbnails/1_212191320511-promo_FoodWars_S3_Trailer_SAT_30.jpg",
-            "created": 1613758861,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1614971843,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_20324937177-ThreeBusyDebras_104_dup-20191204.jpg",
+            "created": 1585057043,
+            "season_number": "1",
+            "title_id": "2211648",
+            "tv_rating": "tv-14-dl",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1614822556,
             "tags": [],
-            "collection_title": "Food Wars!",
+            "collection_title": "Three Busy Debras",
             "disable_ads": false,
-            "modified_by": "Duke Nguyen",
-            "launch_date": 1613998800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210219/thumbnails/2_212191320511-promo_FoodWars_S3_Trailer_SAT_30.jpg",
-            "id": "AXe7hhJMQJ_4Uej5kTsH",
+            "modified_by": "ODT Listener",
+            "launch_date": 1615179600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324937177-ThreeBusyDebras_104_dup-20191204.jpg",
+            "id": "AXEMwxSsRs3h4hI_X2kv",
             "auth": false,
-            "collection_slug": "food-wars",
-            "collection_title_id": "2201017",
-            "online_exclusives": true
+            "collection_slug": "three-busy-debras",
+            "collection_title_id": "2211644",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
