@@ -1,53 +1,5 @@
 [
     {
-        "ott_launch_date": 1447789740,
-        "auth_expiration_date": 1615265940,
-        "tms_id": "SH018336770000",
-        "description": "Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time.",
-        "title_suggest": {
-            "input": [
-                "Broomshakalaka"
-            ]
-        },
-        "expiration_date": 1598932799,
-        "type": "episode",
-        "title": "Broomshakalaka",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 635.4170142,
-        "episode_number": "1",
-        "original_air_date": 1386666000,
-        "auth_launch_date": 1612242000,
-        "clip_order": null,
-        "media_id": "20cd6e2709abbcf7ecd5d3d9a2119f3e03801712",
-        "modified": 1614039053,
-        "airing_id": "RADS1001292100069510",
-        "slug": "broomshakalaka",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150986087747.jpg",
-        "created": 1510603670,
-        "season_number": "3",
-        "title_id": "2007826",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614039053,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg",
-        "id": "AV-2_sJ8wdpKFAKSbWYY",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1447789260,
         "auth_expiration_date": 1615867140,
         "tms_id": "SH018336790000",
@@ -254,6 +206,56 @@
         "launch_date": 1542690000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509848751617.jpg",
         "id": "AV-3ELLRwdpKFAKSbWZf",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1447789560,
+        "auth_expiration_date": 1618286340,
+        "tms_id": "SH020222930000",
+        "description": "Inventor Kent Ross introduces his newest dietary supplement that increases muscle growth, sex drive, and intelligence... in dogs! And, a popular fitness couple abandons typical fad systems and introduce their new program based on ancient spells and gothic rituals.",
+        "title_suggest": {
+            "input": [
+                "Alpha Chow & Goth Fitness",
+                "Chow & Goth Fitness",
+                "& Goth Fitness",
+                "Goth Fitness",
+                "Fitness"
+            ]
+        },
+        "expiration_date": 1415880840,
+        "type": "episode",
+        "title": "Alpha Chow & Goth Fitness",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 659.03,
+        "episode_number": "",
+        "original_air_date": 1413878400,
+        "auth_launch_date": 1615266000,
+        "clip_order": null,
+        "media_id": "8347e15d26df6e2ae701062954613cd452af9ca5",
+        "modified": 1614839324,
+        "airing_id": "RADS1003032100078771",
+        "slug": "alpha-chow-goth-fitness",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509761924415.jpg",
+        "created": 1510608292,
+        "season_number": "4",
+        "title_id": "2007829",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1614839324,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "modified_by": "ODT Listener",
+        "launch_date": 1413890100,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509761924415.jpg",
+        "id": "AV-3RUyRZ-onAnjDLtAm",
         "auth": true
     },
     {
