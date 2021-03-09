@@ -1,53 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1615265940,
-        "tms_id": "EP012792980126",
-        "description": "When Tina is recruited by the debate team, she finds unexpected success and an even more unexpected relationship. Meanwhile, Louise and Gene convince their parents to help fund a stop-motion movie focusing on a surprising subject matter.",
-        "title_suggest": {
-            "input": [
-                "Ain't Miss Debatin'",
-                "Miss Debatin'",
-                "Debatin'"
-            ]
-        },
-        "title": "Ain't Miss Debatin'",
-        "type": "episode",
-        "expiration_date": 1591588740,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1308.2,
-        "episode_number": "11",
-        "original_air_date": 1513562400,
-        "auth_launch_date": 1614661200,
-        "clip_order": null,
-        "media_id": "addc7a3f7ecb55fbd678f59b6ecc026e948e608a",
-        "modified": 1614401268,
-        "airing_id": "RADS1002272100077170",
-        "id": "AWBH4xX5wdpKFAKSb0gB",
-        "slug": "aint-miss-debatin",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151579446187113.jpg",
-        "created": 1513034552,
-        "title_id": "2132981",
-        "tv_rating": "tv-pg-l",
-        "season_number": "7",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614401268,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1590984000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579446187113.jpg"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1615352340,
@@ -483,6 +435,56 @@
         "launch_date": 1592798400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154204254483011.jpg",
         "id": "AWZFhMyKh5enQuYyJBbs",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1615867140,
+        "tms_id": "",
+        "description": "On Halloween night, Linda tries to impress the kids by taking them to look for a wolf that has been terrorizing the town. Meanwhile, an injured and medicated Bob believes that Teddy has turned into a werewolf.",
+        "title_suggest": {
+            "input": [
+                "The Wolf of Wharf Street",
+                "Wolf of Wharf Street",
+                "of Wharf Street",
+                "Wharf Street",
+                "Street"
+            ]
+        },
+        "title": "The Wolf of Wharf Street",
+        "expiration_date": 1594007940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1302.47,
+        "episode_number": "3",
+        "original_air_date": 1552872600,
+        "auth_launch_date": 1615266000,
+        "clip_order": null,
+        "media_id": "52292d1d96db5b3119675a05d402ee727a8ac963",
+        "modified": 1614840509,
+        "airing_id": "RADS1003032100078745",
+        "slug": "the-wolf-of-wharf-street",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155258489520315.jpg",
+        "created": 1543597770,
+        "season_number": "8",
+        "title_id": "2171434",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1614840509,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1593403200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155258489520315.jpg",
+        "id": "AWdlmMb3AsbXwNj3wATz",
         "auth": true
     },
     {
