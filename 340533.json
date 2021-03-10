@@ -1,58 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": 1447438740,
-        "auth_expiration_date": 1615352340,
-        "tms_id": "EP004625760018",
-        "rating": 8.533943,
-        "description": "Murphy and the Sealab crew are held captive... by the Bizarros!",
-        "title_suggest": {
-            "input": [
-                "Bizarro"
-            ]
-        },
-        "type": "episode",
-        "title": "Bizarro",
-        "expiration_date": 1612328340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 660.0333667,
-        "episode_number": "6",
-        "original_air_date": 1037592000,
-        "clip_order": null,
-        "auth_launch_date": 1612328400,
-        "modified": 1614034255,
-        "airing_id": "RADS1001292100069522",
-        "media_id": "85821e601a6bf6c1685dd38d0814ef01b68061ed",
-        "id": "EPEODtpoSJC1Vl-OUcmRfw",
-        "slug": "bizarro",
-        "views": 218058,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_2041515115-sealab_019.jpg",
-        "created": 1402945476,
-        "title_id": "434939",
-        "season_number": "2",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1614034255,
-        "tags": [
-            "sealab 2021 bizarro episode 19"
-        ],
-        "rating_count": 1208,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609304400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_2041515115-sealab_019.jpg",
-        "cma_id": "1468142"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447438800,
         "auth_expiration_date": 1617767940,
         "tms_id": "EP004625760022",
@@ -157,6 +105,56 @@
         "modified_by": "ODT Listener",
         "launch_date": 1609909200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151459453-sealab_017.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447439280,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760034",
+        "rating": 8.353946,
+        "description": "Quinn and Debbie are finally breaking up. But not before Virjay gets the band back together. And not before everybody gets real drunk at The Idiot.  And not before the insults and fists and beer bottles start flying. You wanted a topless catfight? Well, you got it.  Now hush.",
+        "title_suggest": {
+            "input": [
+                "Splitsville"
+            ]
+        },
+        "type": "episode",
+        "title": "Splitsville",
+        "expiration_date": 1618372740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 676.4004004,
+        "episode_number": "6",
+        "original_air_date": 1069647300,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1614927684,
+        "airing_id": "RADS1003032100078814",
+        "media_id": "b67f531b7b801ca85926f7f9a77bd18f0b8ab46e",
+        "id": "KkxXBwNqT9WFKNLc1AXFOQ",
+        "slug": "splitsville",
+        "views": 180159,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_204169752-sealab_032.jpg",
+        "created": 1402945476,
+        "title_id": "450506",
+        "season_number": "3",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1614927684,
+        "tags": [],
+        "rating_count": 647,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615352400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_204169752-sealab_032.jpg",
         "cma_id": ""
     },
     {
@@ -425,7 +423,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438920,
         "auth_expiration_date": 1618372740,
         "tms_id": "EP004625760025",

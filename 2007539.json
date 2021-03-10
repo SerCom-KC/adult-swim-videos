@@ -203,6 +203,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15196739434518.jpg"
     },
     {
+        "ott_launch_date": 1520865060,
+        "auth": false,
+        "auth_expiration_date": 1609909140,
+        "tms_id": "EP018514630028",
+        "description": "When Linda goes on a shopping spree, she winds up on the run from a zombie-like mob of homeless people that want her money.",
+        "title_suggest": {
+            "input": [
+                "Gorzoth"
+            ]
+        },
+        "expiration_date": 1618372740,
+        "type": "episode",
+        "title": "Gorzoth",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 664.08,
+        "episode_number": "5",
+        "original_air_date": 1520827200,
+        "auth_launch_date": 1606885200,
+        "clip_order": null,
+        "media_id": "5d45d8e890ffb15db9235e9f34e1119599522317",
+        "modified": 1614928591,
+        "airing_id": "RADS1003032100078803",
+        "id": "AWHX8ovuNWyh42wYnlDB",
+        "slug": "gorzoth",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151974646385420.jpg",
+        "created": 1519746452,
+        "season_number": "3",
+        "title_id": "2120616",
+        "tv_rating": "tv-ma-sv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1614928591,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615352400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151974646385420.jpg"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "",
@@ -542,7 +590,7 @@
         "cma_id": "1457740"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447173660,
         "auth_expiration_date": 1618372740,
         "tms_id": "EP018514630010",
@@ -640,56 +688,5 @@
         "launch_date": 1612933200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121124182-mrpickles_301_dup-20171102.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447173540,
-        "auth_expiration_date": 1615352340,
-        "tms_id": "EP018514630005",
-        "description": "The Goodmans go on a family camping trip and Tommy learns the frightening legend of The Cheeseman.",
-        "title_suggest": {
-            "input": [
-                "The Cheeseman",
-                "Cheeseman"
-            ]
-        },
-        "title": "The Cheeseman",
-        "type": "episode",
-        "expiration_date": 1612328340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 676.500417,
-        "episode_number": "4",
-        "original_air_date": 1413171000,
-        "clip_order": null,
-        "auth_launch_date": 1612328400,
-        "modified": 1611970541,
-        "media_id": "178ea50828534a81d43640839904f94bb913fa2c",
-        "airing_id": "RADS1001292100069550",
-        "id": "ybYAuf3OTZaj4UksS0_MAg",
-        "slug": "the-cheeseman",
-        "views": 11,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121117414-mrpickles_004_dup-20140918.jpg",
-        "created": 1412835623,
-        "title_id": "2032505",
-        "tv_rating": "tv-ma-sv",
-        "season_number": "1",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1611970541,
-        "first_published": 1412835623,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609304400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121117414-mrpickles_004_dup-20140918.jpg",
-        "cma_id": "1443600"
     }
 ]
