@@ -52,6 +52,57 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447784580,
+        "auth_expiration_date": 1586923140,
+        "tms_id": "EP008994530032",
+        "rating": 8.457861,
+        "description": "When Eric's 3-T Scroat starts acting up, Tim is forced to investigate. Whoopsie Daisy!\r\n(Frank Stallone)",
+        "title_suggest": {
+            "input": [
+                "Balls"
+            ]
+        },
+        "type": "episode",
+        "title": "Balls",
+        "expiration_date": 1618372740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 694.006,
+        "episode_number": "3",
+        "original_air_date": 1234762200,
+        "clip_order": null,
+        "auth_launch_date": 1583899200,
+        "modified": 1614927687,
+        "media_id": "80aaf39e3e0a7522e25deb0aa6cc38eca37fa95a",
+        "airing_id": "RADS1003032100078824",
+        "id": "3sQtpcTmTaSR9lQR5JU0IQ",
+        "slug": "balls",
+        "views": 414918,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161652590-timanderic_403.jpg",
+        "created": 1402945481,
+        "title_id": "751392",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614927687,
+        "tags": [],
+        "rating_count": 1887,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615352400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652590-timanderic_403.jpg",
+        "cma_id": "1376810"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
         "title_suggest": {
@@ -368,7 +419,7 @@
         "cma_id": "1365359"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784460,
         "auth_expiration_date": 1618372740,
         "tms_id": "EP008994530027",
@@ -417,59 +468,6 @@
         "launch_date": 1612328400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161624504-timanderic_307.jpg",
         "cma_id": "1352293"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447784340,
-        "auth_expiration_date": 1615352340,
-        "tms_id": "EP008994530022",
-        "rating": 7.5583057,
-        "description": "Tim and Eric celebrate 100 Years of Jackie Chan. A secret affair is discovered. Child Clowns.\r\n(Will Forte)",
-        "title_suggest": {
-            "input": [
-                "Chan"
-            ]
-        },
-        "type": "episode",
-        "title": "Chan",
-        "expiration_date": 1612328340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 695.028,
-        "episode_number": "2",
-        "original_air_date": 1217824200,
-        "clip_order": null,
-        "auth_launch_date": 1612328400,
-        "modified": 1614036666,
-        "media_id": "bd4348d9855494c52d1d6bf57b480c3fe4ad60c8",
-        "airing_id": "RADS1001292100069529",
-        "id": "d4GYyRQ2R-aeC542P-OKtQ",
-        "slug": "chan",
-        "views": 892137,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116167432-timanderic_302.jpg",
-        "created": 1402945481,
-        "title_id": "723435",
-        "season_number": "3",
-        "tv_rating": "tv-14-ds",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614036666,
-        "tags": [
-            "tim eric awesome show great job episode 22 jackie chan game child clowns sexual romance"
-        ],
-        "rating_count": 6303,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609304400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116167432-timanderic_302.jpg",
-        "cma_id": "1334329"
     },
     {
         "auth": true,
