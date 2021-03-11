@@ -1,20 +1,18 @@
 {
-    "updated": 1615503501,
+    "updated": 1615505001,
     "added": [
         {
             "auth_expiration_date": 1615867140,
-            "tms_id": "EP035989030008",
-            "description": "The E Class gives a pro sniper plenty of chances to take down Koro Sensei, then try to make the most of what's left of their school trip to Kyoto.",
+            "tms_id": "EP035989030004",
+            "description": "A new foreign-language teacher comes to 3-E with some major ulterior motives... among other things. Will she get any closer to killing Koro Sensei?",
             "title_suggest": {
                 "input": [
-                    "School Trip Time/2nd Period",
-                    "Trip Time/2nd Period",
-                    "Time/2nd Period",
-                    "Period"
+                    "Grown-Up Time",
+                    "Time"
                 ]
             },
-            "title": "School Trip Time/2nd Period",
-            "expiration_date": 1606037340,
+            "title": "Grown-Up Time",
+            "expiration_date": 1603614540,
             "type": "episode",
             "platforms": [
                 "android",
@@ -23,34 +21,83 @@
                 "fire-tv"
             ],
             "collection_id": "AXQS2HnhLyLQBOXK_PL8",
-            "duration": 1278.7108,
-            "episode_number": "8",
-            "original_air_date": "1603000800",
-            "auth_launch_date": 1606037400,
+            "duration": 1280.3791,
+            "episode_number": "4",
+            "original_air_date": "1600578000",
+            "auth_launch_date": 1603614600,
             "clip_order": null,
-            "airing_id": "RADS1011112000044232",
-            "media_id": "072b5934a094aa78abb96896ede445ca09d67340",
-            "modified": 1615503233,
-            "slug": "school-trip-time-2nd-period",
+            "airing_id": "RADS1010172000036593",
+            "media_id": "1d99388a45a6cac93b2d88dd015e0ff91ef4c7b4",
+            "modified": 1615504723,
+            "slug": "grown-up-time",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201009/thumbnails/1_20109188499-AssasinationClass_108.jpg",
-            "created": 1602281333,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/1_20911111232-AssassinationClass_104.jpg",
+            "created": 1599836486,
             "season_number": "1",
-            "title_id": "2238421",
-            "tv_rating": "tv-14-dl",
-            "published": 1615503233,
+            "title_id": "2238417",
+            "tv_rating": "tv-14-dlsv",
+            "published": 1615504723,
             "tags": [],
             "collection_title": "Assassination Classroom",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1604827800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201009/thumbnails/2_20109188499-AssasinationClass_108.jpg",
-            "id": "AXUPaOFSLyLQBOXK_PPe",
+            "launch_date": 1602405000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_20911111232-AssassinationClass_104.jpg",
+            "id": "AXR9r3l9SeFB2d0c383D",
             "auth": true,
             "collection_slug": "assassination-classroom",
             "collection_title_id": "2238413",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": 1615867140,
+            "tms_id": "EP035989030003",
+            "description": "The brilliant, belligerent Karma Akabane, Nagisa's former classmate, joins 3-E and immediately jumps into the assassination mission with both feet.",
+            "title_suggest": {
+                "input": [
+                    "Karma Time",
+                    "Time"
+                ]
+            },
+            "title": "Karma Time",
+            "type": "episode",
+            "expiration_date": 1603009740,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+            "duration": 1280.546,
+            "episode_number": "3",
+            "original_air_date": 1599973200,
+            "auth_launch_date": 1603009800,
+            "clip_order": null,
+            "airing_id": "RADS1010162000036094",
+            "media_id": "b9ac8c5e43acb14730d640abcfb6541b170b8a0b",
+            "modified": 1615502605,
+            "slug": "karma-time",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/1_20911110558-AssassinationClass_103.jpg",
+            "created": 1599832770,
+            "title_id": "2238416",
+            "season_number": "1",
+            "tv_rating": "tv-14",
+            "published": 1615502605,
+            "tags": [],
+            "collection_title": "Assassination Classroom",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1601800200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_20911110558-AssassinationClass_103.jpg",
+            "id": "AXR9dsX0SeFB2d0c3828",
+            "auth": true,
+            "collection_slug": "assassination-classroom",
+            "collection_title_id": "2238413",
+            "online_exclusives": false
+        }
+    ]
 }
