@@ -1,18 +1,18 @@
 {
-    "updated": 1615503630,
+    "updated": 1615505425,
     "added": [
         {
             "auth_expiration_date": 1615867140,
-            "tms_id": "EP035989030005",
-            "description": "Before the torturous school assembly begins, Okuda attempts to poison Koro Sensei in an unexpected way... with unexpected results.",
+            "tms_id": "EP035989030004",
+            "description": "A new foreign-language teacher comes to 3-E with some major ulterior motives... among other things. Will she get any closer to killing Koro Sensei?",
             "title_suggest": {
                 "input": [
-                    "Assembly Time",
+                    "Grown-Up Time",
                     "Time"
                 ]
             },
-            "title": "Assembly Time",
-            "expiration_date": 1604222940,
+            "title": "Grown-Up Time",
+            "expiration_date": 1603614540,
             "type": "episode",
             "platforms": [
                 "android",
@@ -21,34 +21,84 @@
                 "fire-tv"
             ],
             "collection_id": "AXQS2HnhLyLQBOXK_PL8",
-            "duration": 1279.9453,
-            "episode_number": "5",
-            "original_air_date": "1601182800",
-            "auth_launch_date": 1604219400,
+            "duration": 1280.3791,
+            "episode_number": "4",
+            "original_air_date": "1600578000",
+            "auth_launch_date": 1603614600,
             "clip_order": null,
-            "airing_id": "RADS1010282000038928",
-            "media_id": "9819857a5e67f63bdac4ec05489a5f23e8b5801e",
-            "modified": 1615502303,
-            "slug": "assembly-time",
+            "airing_id": "RADS1010172000036593",
+            "media_id": "1d99388a45a6cac93b2d88dd015e0ff91ef4c7b4",
+            "modified": 1615504723,
+            "slug": "grown-up-time",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161651436-AssClass_105.jpg",
-            "created": 1600289506,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/1_20911111232-AssassinationClass_104.jpg",
+            "created": 1599836486,
             "season_number": "1",
-            "title_id": "2238418",
-            "tv_rating": "tv-14-l",
-            "published": 1615502303,
+            "title_id": "2238417",
+            "tv_rating": "tv-14-dlsv",
+            "published": 1615504723,
             "tags": [],
             "collection_title": "Assassination Classroom",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1603009800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161651436-AssClass_105.jpg",
-            "id": "AXSYsAM_SeFB2d0c3874",
+            "launch_date": 1602405000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_20911111232-AssassinationClass_104.jpg",
+            "id": "AXR9r3l9SeFB2d0c383D",
             "auth": true,
             "collection_slug": "assassination-classroom",
             "collection_title_id": "2238413",
             "online_exclusives": false
         },
+        {
+            "auth_expiration_date": 1615867140,
+            "tms_id": "EP035989030006",
+            "description": "Time for midterms! Koro Sensei gives his aspiring assassins an ultimatum as they battle a grueling test and the disdain of the rest of the school.",
+            "title_suggest": {
+                "input": [
+                    "Test Time",
+                    "Time"
+                ]
+            },
+            "title": "Test Time",
+            "expiration_date": 1604827740,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+            "duration": 1279.8452,
+            "episode_number": "6",
+            "original_air_date": "1601787600",
+            "auth_launch_date": 1604824200,
+            "clip_order": null,
+            "airing_id": "RADS1011022000040339",
+            "media_id": "a2d7adc6f27120bdbc82ef8deed83fccd28fab61",
+            "modified": 1615504999,
+            "slug": "test-time",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/1_209241114276-AssassinationClass_106.jpg",
+            "created": 1600960471,
+            "season_number": "1",
+            "title_id": "2238419",
+            "tv_rating": "tv-14-dlv",
+            "published": 1615504999,
+            "tags": [],
+            "collection_title": "Assassination Classroom",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1603614600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/2_209241114276-AssassinationClass_106.jpg",
+            "id": "AXTAriNuSeFB2d0c39CL",
+            "auth": true,
+            "collection_slug": "assassination-classroom",
+            "collection_title_id": "2238413",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth_expiration_date": 1615867140,
             "tms_id": "EP035989030003",
@@ -96,57 +146,6 @@
             "collection_slug": "assassination-classroom",
             "collection_title_id": "2238413",
             "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1615867140,
-            "tms_id": "EP035989030008",
-            "description": "The E Class gives a pro sniper plenty of chances to take down Koro Sensei, then try to make the most of what's left of their school trip to Kyoto.",
-            "title_suggest": {
-                "input": [
-                    "School Trip Time/2nd Period",
-                    "Trip Time/2nd Period",
-                    "Time/2nd Period",
-                    "Period"
-                ]
-            },
-            "title": "School Trip Time/2nd Period",
-            "expiration_date": 1606037340,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
-            "duration": 1278.7108,
-            "episode_number": "8",
-            "original_air_date": "1603000800",
-            "auth_launch_date": 1606037400,
-            "clip_order": null,
-            "airing_id": "RADS1011112000044232",
-            "media_id": "072b5934a094aa78abb96896ede445ca09d67340",
-            "modified": 1615503233,
-            "slug": "school-trip-time-2nd-period",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201009/thumbnails/1_20109188499-AssasinationClass_108.jpg",
-            "created": 1602281333,
-            "season_number": "1",
-            "title_id": "2238421",
-            "tv_rating": "tv-14-dl",
-            "published": 1615503233,
-            "tags": [],
-            "collection_title": "Assassination Classroom",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1604827800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201009/thumbnails/2_20109188499-AssasinationClass_108.jpg",
-            "id": "AXUPaOFSLyLQBOXK_PPe",
-            "auth": true,
-            "collection_slug": "assassination-classroom",
-            "collection_title_id": "2238413",
-            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
