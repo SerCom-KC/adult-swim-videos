@@ -150,6 +150,54 @@
         "cma_id": "1416202"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1616039940,
+        "tms_id": "EP002960010271",
+        "description": "At Stewie's graduation, Brian states that Stewie's proud moment is no big feat. Stewie takes it upon himself to try and acquire some real world knowledge.  Meg is discovered by a photographer who asks her if she would like to model for him.",
+        "title_suggest": {
+            "input": [
+                "This Little Piggy",
+                "Little Piggy",
+                "Piggy"
+            ]
+        },
+        "title": "This Little Piggy",
+        "type": "episode",
+        "expiration_date": 1603079940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1290.9229,
+        "episode_number": "9",
+        "original_air_date": 1422936000,
+        "auth_launch_date": 1615438800,
+        "clip_order": null,
+        "modified": 1615015818,
+        "media_id": "efcaf8b7f59ecce4ab099bdf6fbf4e6993c8c9aa",
+        "airing_id": "RADS1003052100079237",
+        "id": "8rfWndh1RUm8E6zMF4BKoQ",
+        "slug": "this-little-piggy",
+        "views": 1440,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267603955719.jpg",
+        "created": 1472188223,
+        "title_id": "809291",
+        "tv_rating": "tv-14",
+        "season_number": "13",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1615015818,
+        "first_published": 1472188223,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1602475200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267603955719.jpg",
+        "cma_id": "1420395"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1562387340,
@@ -586,53 +634,5 @@
         "launch_date": 1601265600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267599850819.jpg",
         "cma_id": "809284"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1615438740,
-        "tms_id": "EP002960010257",
-        "description": "With the Brown family moving back to Quahog, it looks like the old gang is reunited. But Peter's friendship with Cleveland is quickly put on hold when Donna and Lois butt heads over different parenting styles, and forbid them to see each other.",
-        "title_suggest": {
-            "input": [
-                "He's Bla-ack!",
-                "Bla-ack!"
-            ]
-        },
-        "title": "He's Bla-ack!",
-        "type": "episode",
-        "expiration_date": 1601265540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1287.2526,
-        "episode_number": "20",
-        "original_air_date": 1400551200,
-        "clip_order": null,
-        "auth_launch_date": 1614834000,
-        "modified": 1614418352,
-        "media_id": "58ce7d3fa512fbee5b5c1f608f1ab3a14930d6d8",
-        "airing_id": "RADS1002272100077226",
-        "id": "g9VpAJODSxiSrDtUnrdEnQ",
-        "slug": "hes-bla-ack",
-        "views": 1635,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152400100174014.jpg",
-        "created": 1411575432,
-        "season_number": "12",
-        "title_id": "809283",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614418352,
-        "first_published": 1411575432,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1600660800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400100174014.jpg",
-        "cma_id": "1417386"
     }
 ]
