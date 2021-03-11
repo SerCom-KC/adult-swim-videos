@@ -1,56 +1,6 @@
 {
-    "updated": 1615440677,
+    "updated": 1615440916,
     "added": [
-        {
-            "auth": false,
-            "ott_launch_date": 1447787040,
-            "tms_id": "EP013726210010",
-            "description": "Gary learns the subtleties of working someone's conscience with help from an unexpected friend.",
-            "title_suggest": {
-                "input": [
-                    "Shoulder Work",
-                    "Work"
-                ]
-            },
-            "expiration_date": 1618459140,
-            "title": "Shoulder Work",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "duration": 674.74,
-            "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-            "episode_number": "2",
-            "original_air_date": 1437365700,
-            "clip_order": null,
-            "modified": 1615010001,
-            "airing_id": "RADS1003052100079448",
-            "media_id": "1547573698efc9392048e495e90684a61cf331eb",
-            "id": "MGjJ04MnR5erwEzXgE9ahw",
-            "slug": "shoulder-work",
-            "views": 43748,
-            "created": 1436294121,
-            "season_number": "2",
-            "title_id": "2062764",
-            "tv_rating": "tv-ma",
-            "active": false,
-            "ott_expiration_date": null,
-            "published": 1615010001,
-            "first_published": 1437189641,
-            "tags": [],
-            "collection_title": "Your Pretty Face is Going to Hell",
-            "modified_by": "ODT Listener",
-            "launch_date": 1615438800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg",
-            "cma_id": "1389350",
-            "collection_slug": "your-pretty-face-is-going-to-hell",
-            "collection_title_id": "828177",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "ott_launch_date": 1557757800,
             "auth_expiration_date": 1615438740,
@@ -100,6 +50,56 @@
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15574290498536.jpg",
             "id": "AWp5e-VZAScUIg8XxfZ-",
             "auth": true,
+            "collection_slug": "your-pretty-face-is-going-to-hell",
+            "collection_title_id": "828177",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": false,
+            "ott_launch_date": 1447787040,
+            "tms_id": "EP013726210010",
+            "description": "Gary learns the subtleties of working someone's conscience with help from an unexpected friend.",
+            "title_suggest": {
+                "input": [
+                    "Shoulder Work",
+                    "Work"
+                ]
+            },
+            "expiration_date": 1618459140,
+            "title": "Shoulder Work",
+            "type": "episode",
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "duration": 674.74,
+            "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+            "episode_number": "2",
+            "original_air_date": 1437365700,
+            "clip_order": null,
+            "modified": 1615010001,
+            "airing_id": "RADS1003052100079448",
+            "media_id": "1547573698efc9392048e495e90684a61cf331eb",
+            "id": "MGjJ04MnR5erwEzXgE9ahw",
+            "slug": "shoulder-work",
+            "views": 43748,
+            "created": 1436294121,
+            "season_number": "2",
+            "title_id": "2062764",
+            "tv_rating": "tv-ma",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1615010001,
+            "first_published": 1437189641,
+            "tags": [],
+            "collection_title": "Your Pretty Face is Going to Hell",
+            "modified_by": "ODT Listener",
+            "launch_date": 1615438800,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg",
+            "cma_id": "1389350",
             "collection_slug": "your-pretty-face-is-going-to-hell",
             "collection_title_id": "828177",
             "online_exclusives": false
