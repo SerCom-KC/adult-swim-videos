@@ -91,6 +91,51 @@
     },
     {
         "auth_expiration_date": 1615867140,
+        "tms_id": "EP035989030006",
+        "description": "Time for midterms! Koro Sensei gives his aspiring assassins an ultimatum as they battle a grueling test and the disdain of the rest of the school.",
+        "title_suggest": {
+            "input": [
+                "Test Time",
+                "Time"
+            ]
+        },
+        "title": "Test Time",
+        "expiration_date": 1604827740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1279.8452,
+        "episode_number": "6",
+        "original_air_date": "1601787600",
+        "auth_launch_date": 1604824200,
+        "clip_order": null,
+        "airing_id": "RADS1011022000040339",
+        "media_id": "a2d7adc6f27120bdbc82ef8deed83fccd28fab61",
+        "modified": 1615504999,
+        "slug": "test-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/1_209241114276-AssassinationClass_106.jpg",
+        "created": 1600960471,
+        "season_number": "1",
+        "title_id": "2238419",
+        "tv_rating": "tv-14-dlv",
+        "published": 1615504999,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1603614600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200924/thumbnails/2_209241114276-AssassinationClass_106.jpg",
+        "id": "AXTAriNuSeFB2d0c39CL",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1615867140,
         "tms_id": "EP035989030008",
         "description": "The E Class gives a pro sniper plenty of chances to take down Koro Sensei, then try to make the most of what's left of their school trip to Kyoto.",
         "title_suggest": {
