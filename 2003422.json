@@ -1,53 +1,5 @@
 [
     {
-        "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1615438740,
-        "tms_id": "EP012792980131",
-        "description": "When Linda wins a contest to spend a dream weekend at the home where her favorite television show is filmed, things don't go quite as planned. Also, Teddy's back problems leave him stuck on the floor, while he babysits the kids.",
-        "title_suggest": {
-            "input": [
-                "Zero Larp Thirty",
-                "Larp Thirty",
-                "Thirty"
-            ]
-        },
-        "expiration_date": 1592193540,
-        "type": "episode",
-        "title": "Zero Larp Thirty",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1308.1,
-        "episode_number": "13",
-        "original_air_date": 1514772000,
-        "auth_launch_date": 1614834000,
-        "clip_order": null,
-        "media_id": "8d55fe253c59d19038310c031b49e3bdcf6ce0ed",
-        "modified": 1614414423,
-        "airing_id": "RADS1002272100077236",
-        "id": "AWCZsR8XwdpKFAKScFZA",
-        "slug": "zero-larp-thirty",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151440700694020.jpg",
-        "created": 1514407010,
-        "season_number": "7",
-        "title_id": "2132984",
-        "tv_rating": "tv-pg-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614414423,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1591588800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151440700694020.jpg"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1615525140,
@@ -338,6 +290,52 @@
         "modified_by": "ODT Listener",
         "launch_date": 1592798400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325465279617.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1616039940,
+        "tms_id": "",
+        "description": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "title_suggest": {
+            "input": [
+                "Thanks-hoarding"
+            ]
+        },
+        "title": "Thanks-hoarding",
+        "expiration_date": 1594007940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1281.93,
+        "episode_number": "5",
+        "original_air_date": 1542594600,
+        "auth_launch_date": 1615438800,
+        "clip_order": null,
+        "media_id": "b27a2c8d48b94225f9899528db895459609321e6",
+        "modified": 1615015820,
+        "airing_id": "RADS1003052100079251",
+        "slug": "thanks-hoarding",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154264611007218.jpg",
+        "created": 1539627692,
+        "season_number": "8",
+        "title_id": "2171436",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1615015820,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1593403200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154264611007218.jpg",
+        "id": "AWZ49jL7h5enQuYyJW6z",
+        "auth": true
     },
     {
         "ott_launch_date": null,
