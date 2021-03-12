@@ -1,64 +1,6 @@
 [
     {
         "auth": false,
-        "ott_launch_date": 1447786320,
-        "auth_expiration_date": 1615525140,
-        "tms_id": "EP000337110006",
-        "rating": 7.318264,
-        "description": "When a battered woman reaches out to Xavier for help, Xavier reaches inside her-- to find that the truth hurts. Pain, madness, and fries collide in this intergalactic time bending mission to find out; why??",
-        "title_suggest": {
-            "input": [
-                "World of Hurt, BC",
-                "of Hurt, BC",
-                "Hurt, BC",
-                "BC"
-            ]
-        },
-        "type": "episode",
-        "title": "World of Hurt, BC",
-        "expiration_date": 1612501140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
-        "duration": 690.79,
-        "episode_number": "6",
-        "original_air_date": 1197262800,
-        "clip_order": null,
-        "auth_launch_date": 1612501200,
-        "modified": 1614037310,
-        "airing_id": "RADS1001292100069622",
-        "media_id": "de22f5c5c077c96c0b8ee9cd48e316c7b23ef940",
-        "id": "1bRyRdQUQuu1R4nP7YF6PA",
-        "slug": "world-of-hurt-bc",
-        "views": 316703,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_21141728567-xavier_106.jpg",
-        "created": 1402945482,
-        "title_id": "693201",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614037310,
-        "tags": [
-            "Xavier Renegade Angel",
-            "Adult Swim",
-            "World of Hurt BC"
-        ],
-        "rating_count": 2256,
-        "collection_title": "Xavier: Renegade Angel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609477200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141728567-xavier_106.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1451682840,
         "auth_expiration_date": null,
         "tms_id": "EP000337110013",
@@ -278,6 +220,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451682960,
+        "auth_expiration_date": null,
+        "tms_id": "EP000337110016",
+        "rating": 8.157963,
+        "description": "When Xavier wakes up with no memories, the power of deja vu reigns supreme. When Xavier wakes up with no memories, the power of deja vu reigns supreme.",
+        "title_suggest": {
+            "input": [
+                "Damnesia Vu",
+                "Vu"
+            ]
+        },
+        "type": "episode",
+        "title": "Damnesia Vu",
+        "expiration_date": 1618545540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+        "duration": 689.62,
+        "episode_number": "6",
+        "original_air_date": 1237522500,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1615102848,
+        "airing_id": "RADS1003052100079488",
+        "media_id": "1a1d928540ef5ed7326c6b05b46b066650a71f6d",
+        "id": "TcIbu3oSTtqZyfjShvH1kQ",
+        "slug": "damnesia-vu",
+        "views": 183988,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_2114173269-xavier_206.jpg",
+        "created": 1402945482,
+        "title_id": "747216",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1615102848,
+        "tags": [
+            "xavier renegade angel deja vu damnesia doors"
+        ],
+        "rating_count": 747,
+        "collection_title": "Xavier: Renegade Angel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615525200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114173269-xavier_206.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451682900,
         "auth_expiration_date": null,
         "tms_id": "EP000337110015",
@@ -387,7 +383,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451682720,
         "auth_expiration_date": 1618545540,
         "tms_id": "EP000337110011",

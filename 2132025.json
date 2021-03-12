@@ -1,54 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": 1511796660,
-        "auth_expiration_date": 1615525140,
-        "tms_id": "EP027912080006",
-        "description": "Barry reluctantly attends his high school reunion.",
-        "title_suggest": {
-            "input": [
-                "Barry's School Reunion",
-                "School Reunion",
-                "Reunion"
-            ]
-        },
-        "title": "Barry's School Reunion",
-        "type": "episode",
-        "expiration_date": 1612501140,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-        "duration": 676,
-        "episode_number": "6",
-        "original_air_date": 1511759700,
-        "clip_order": null,
-        "auth_launch_date": 1612501200,
-        "modified": 1614043825,
-        "media_id": "ff77c07f975a79b08e438fa298d7122a99156126",
-        "airing_id": "RADS1001292100069600",
-        "id": "19hJoKx2RkaPrA0O1rxDug",
-        "slug": "barrys-school-reunion",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151180498988714.jpg",
-        "created": 1508442470,
-        "season_number": "1",
-        "title_id": "2132031",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614043825,
-        "tags": [],
-        "collection_title": "The Jellies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609477200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151180498988714.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1513611060,
         "auth_expiration_date": 1617335940,
         "tms_id": "EP027912080009",
@@ -584,6 +536,54 @@
         "launch_date": 1560755700,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862418160317.jpg",
         "id": "AWmWYXMCHl5gR6828y3c",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1610081940,
+        "tms_id": "",
+        "description": "Debbie's family reunion is crashed by unsuspecting guests.",
+        "title_suggest": {
+            "input": [
+                "Doctor Pirates",
+                "Pirates"
+            ]
+        },
+        "title": "Doctor Pirates",
+        "expiration_date": 1618545540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 646.92,
+        "episode_number": "7",
+        "original_air_date": 1560140100,
+        "auth_launch_date": 1609477200,
+        "clip_order": null,
+        "media_id": "dd16c8f65dd804965448d26c5bd33c24e778cfbc",
+        "modified": 1615103742,
+        "airing_id": "RADS1003052100079465",
+        "slug": "doctor-pirates",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155983917361215.jpg",
+        "created": 1553006184,
+        "season_number": "2",
+        "title_id": "2191415",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1615103742,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615525200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983917361215.jpg",
+        "id": "AWmWYceSAScUIg8XxeHL",
         "auth": false
     },
     {
