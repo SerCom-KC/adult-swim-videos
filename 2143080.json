@@ -3947,6 +3947,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1615714140,
+        "tms_id": "",
+        "description": "While visiting his father Zara's grave, Zora encounters a commoner youth who's determined to join the Magic Knights despite upper-class opposition.",
+        "title_suggest": {
+            "input": [
+                "In Zara's Footsteps",
+                "Zara's Footsteps",
+                "Footsteps"
+            ]
+        },
+        "title": "In Zara's Footsteps",
+        "expiration_date": 1616927340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1282.0474,
+        "episode_number": "38",
+        "original_air_date": null,
+        "auth_launch_date": 1613903400,
+        "clip_order": null,
+        "airing_id": "RADS1002172100074348",
+        "media_id": "7a163071f74ddece8500fc20ca7028e37885f897",
+        "modified": 1615290704,
+        "slug": "in-zaras-footsteps",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/1_211261033217-BlackClover_138_InZaraFootstep.jpg",
+        "created": 1611675206,
+        "season_number": "3",
+        "title_id": "2238506",
+        "tv_rating": "tv-14-l",
+        "published": 1615290704,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615717800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261033217-BlackClover_138_InZaraFootstep.jpg",
+        "id": "AXc_VATIQJ_4Uej5kToR",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1616318940,
         "tms_id": "",
         "description": "The Queen of Witches agrees to teach Vanessa magic to buff her squadmates--but only if she can drive the huge magic beasts out of the queen's domain.",
@@ -4037,6 +4083,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261034478-BlackClover_140_FavorForJulius.jpg",
         "id": "AXc_VV0JQJ_4Uej5kToT",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1617532140,
+        "tms_id": "EP032284200144",
+        "description": "The Golden Dawn is dispatched to Saussy to defeat a bevy of beastly boars, then it's off to the Kiten region to defend a dungeon beset by bandits.",
+        "title_suggest": {
+            "input": [
+                "The Golden Family",
+                "Golden Family",
+                "Family"
+            ]
+        },
+        "title": "The Golden Family",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1378.1101,
+        "episode_number": "39",
+        "original_air_date": "1615705200",
+        "auth_launch_date": 1615717800,
+        "clip_order": null,
+        "airing_id": "RADS1003102100080654",
+        "media_id": "dfc2ea3de8e8ce3e42dfc47dffe0c6d2ce0c5e42",
+        "modified": 1615588185,
+        "slug": "the-golden-family",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/1_213101329386-BlackClover_141_GoldenFamily.jpg",
+        "created": 1615400981,
+        "season_number": "3",
+        "title_id": "2238509",
+        "tv_rating": "tv-pg",
+        "published": 1615588185,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101329386-BlackClover_141_GoldenFamily.jpg",
+        "id": "AXgdZtVRBH5Z6gH5aV7H",
         "auth": true
     }
 ]
