@@ -132,6 +132,50 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1620100740,
+        "tms_id": "",
+        "description": "Rikka and Akane are invited on a group date, but the aftermath is disastrous. Will Yuta be able to convey his feelings for Rikka before it's too late?",
+        "title_suggest": {
+            "input": [
+                "Suspicion"
+            ]
+        },
+        "title": "Suspicion",
+        "expiration_date": 1615715940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXbO6qqIbxpjZvbXYl08",
+        "duration": 1326.4251,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1615719600,
+        "clip_order": null,
+        "airing_id": "RADS1002222100075568",
+        "media_id": "5d421fb09712d4d647cb980616ecfed18aa09888",
+        "modified": 1615291512,
+        "slug": "suspicion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171335545-SSSS_Gridman_004.jpg",
+        "created": 1610044558,
+        "season_number": "1",
+        "title_id": "2236255",
+        "tv_rating": "tv-14-l",
+        "published": 1615291512,
+        "tags": [],
+        "collection_title": "SSSS Gridman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614510000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171335545-SSSS_Gridman_004.jpg",
+        "id": "AXbeIk3TQJ_4Uej5kTkE",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1615114740,
         "tms_id": "",
         "description": "A field trip takes the class away from the city for some summer fun, but when trouble occurs so far from home, there's no easy way to get to Junk.",
@@ -173,6 +217,50 @@
         "launch_date": 1615114800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117133670-SSSS_Gridman_005.jpg",
         "id": "AXbeInnsQJ_4Uej5kTkF",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1615715940,
+        "tms_id": "",
+        "description": "A few unexpected encounters leave Yuta and the others in shock. Except, Gridman being hunted down means Yuta is ever in danger.",
+        "title_suggest": {
+            "input": [
+                "Contact"
+            ]
+        },
+        "title": "Contact",
+        "expiration_date": 1616929140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXbO6qqIbxpjZvbXYl08",
+        "duration": 1326.1915,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1613905200,
+        "clip_order": null,
+        "airing_id": "RADS1002172100074346",
+        "media_id": "57b70f5bddbb2d74447f550ae66c0c248c1741a4",
+        "modified": 1615291833,
+        "slug": "contact",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171336186-SSSS_Gridman_006.jpg",
+        "created": 1610044580,
+        "season_number": "1",
+        "title_id": "2236257",
+        "tv_rating": "tv-14",
+        "published": 1615291833,
+        "tags": [],
+        "collection_title": "SSSS Gridman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615719600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336186-SSSS_Gridman_006.jpg",
+        "id": "AXbeIqMUQJ_4Uej5kTkG",
         "auth": false
     },
     {
@@ -261,6 +349,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336463-SSSS_Gridman_008.jpg",
         "id": "AXbeIxIHbxpjZvbXYl6x",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1617533940,
+        "tms_id": "",
+        "description": "Akane tries to win over the Gridman Alliance by lulling them into a dream. Will they remember each other and Gridman's calling or forever have sweet dreams?",
+        "title_suggest": {
+            "input": [
+                "Dream"
+            ]
+        },
+        "title": "Dream",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXbO6qqIbxpjZvbXYl08",
+        "duration": 1326.2917,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1615719600,
+        "clip_order": null,
+        "airing_id": "RADS1003082100079638",
+        "media_id": "a10ab38c28287e7a7d430d317952308f3d86b8ee",
+        "modified": 1615292737,
+        "slug": "dream",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171336577-SSSS_Gridman_009.jpg",
+        "created": 1610044620,
+        "season_number": "1",
+        "title_id": "2236260",
+        "tv_rating": "tv-pg",
+        "published": 1615292737,
+        "tags": [],
+        "collection_title": "SSSS Gridman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336577-SSSS_Gridman_009.jpg",
+        "id": "AXbeIz4OQJ_4Uej5kTkH",
         "auth": true
     }
 ]
