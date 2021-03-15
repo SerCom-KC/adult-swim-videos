@@ -1,7 +1,6 @@
 {
-    "updated": 1615818626,
-    "added": [],
-    "removed": [
+    "updated": 1615825830,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1610686740,
@@ -31,7 +30,7 @@
             "auth_launch_date": 1609477200,
             "clip_order": null,
             "media_id": "cda4275e99f9e609cf3ee0e596e6dcf4846209ee",
-            "modified": 1614047486,
+            "modified": 1615824586,
             "airing_id": "RADS1007021900004475",
             "slug": "walla-walla-civil-war",
             "exclude_from_search": false,
@@ -42,7 +41,7 @@
             "tv_rating": "tv-ma-v",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1614047486,
+            "published": 1615824586,
             "tags": [],
             "collection_title": "The Jellies",
             "disable_ads": false,
@@ -54,54 +53,7 @@
             "collection_slug": "the-jellies",
             "collection_title_id": "2132025",
             "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1616320740,
-            "tms_id": "EP034917240089",
-            "description": "The Allied Forces receive a report that Omoi has deserted his post, much to the Raikage's shock.",
-            "title_suggest": {
-                "input": [
-                    "Run, Omoi!",
-                    "Omoi!"
-                ]
-            },
-            "title": "Run, Omoi!",
-            "type": "episode",
-            "expiration_date": null,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1310.6093,
-            "episode_number": "37",
-            "original_air_date": 1607239800,
-            "auth_launch_date": 1607252400,
-            "clip_order": null,
-            "airing_id": "RADS1011302000047742",
-            "media_id": "804c395f32893b6c00f75f77a1650bcbcf0d0383",
-            "modified": 1607126859,
-            "slug": "run-omoi",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/1_20124197143-NarutoShippuden_320_RunOmoi.jpg",
-            "created": 1606747469,
-            "title_id": "2177749",
-            "season_number": "6",
-            "tv_rating": "tv-pg-l",
-            "published": 1607126859,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "Jonas Eason",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_20124197143-NarutoShippuden_320_RunOmoi.jpg",
-            "id": "AXYZnLgsQJ_4Uej5kTc1",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
