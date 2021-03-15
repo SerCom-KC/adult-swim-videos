@@ -471,18 +471,17 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1615780740,
+        "auth_expiration_date": 1615179540,
         "tms_id": "",
-        "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
+        "description": "After only one and a half episodes, Hannibal quits the show and is poorly cloned into a giant mutant version of himself named Blannibal.",
         "title_suggest": {
             "input": [
-                "You Got Served",
-                "Got Served",
-                "Served"
+                "Hannibal Quits",
+                "Quits"
             ]
         },
-        "title": "You Got Served",
-        "expiration_date": 1612760340,
+        "title": "Hannibal Quits",
+        "expiration_date": 1618804740,
         "type": "episode",
         "platforms": [
             "android",
@@ -491,30 +490,30 @@
             "fire-tv"
         ],
         "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "3",
+        "duration": 674.1068,
+        "episode_number": "2",
         "original_air_date": null,
-        "auth_launch_date": 1612760400,
+        "auth_launch_date": 1612155600,
         "clip_order": null,
-        "airing_id": "RADS1012302000059869",
-        "media_id": "e492a99d0935386e7b8aa303d3728fd008c8411d",
-        "modified": 1612607667,
-        "slug": "you-got-served",
+        "airing_id": "RADS1003082100079714",
+        "media_id": "738990f5b3458234de1f741e63a193407bdbea32",
+        "modified": 1615366553,
+        "slug": "hannibal-quits",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161714163-ericandre_503_dup-20200813.jpg",
-        "created": 1600290812,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161712495-ericandre_502_dup-20200812.jpg",
+        "created": 1600290772,
         "season_number": "5",
-        "title_id": "2230782",
+        "title_id": "2230781",
         "tv_rating": "tv-ma-l",
-        "published": 1612607667,
+        "published": 1615366553,
         "tags": [],
         "collection_title": "The Eric Andre Show",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1609736400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161714163-ericandre_503_dup-20200813.jpg",
-        "id": "AXSYw_QbLyLQBOXK_PN9",
-        "auth": true
+        "launch_date": 1615780800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161712495-ericandre_502_dup-20200812.jpg",
+        "id": "AXSYw1UXSeFB2d0c3877",
+        "auth": false
     },
     {
         "auth_expiration_date": 1614574740,
@@ -791,7 +790,7 @@
         "launch_date": 1612760400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg",
         "id": "AXSYyy1XLyLQBOXK_POB",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1613969940,
