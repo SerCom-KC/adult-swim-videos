@@ -139,7 +139,7 @@
         "launch_date": 1615780800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
         "id": "AW5qjLBr1YiBSfg0KYe3",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -378,7 +378,7 @@
         "launch_date": 1612760400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg",
         "id": "AW5qsjBR1YiBSfg0KYfN",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -787,6 +787,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210305/thumbnails/2_21351756213-MommaNamedMeSheriff_208_SadSadSheriff.jpg",
         "id": "AXf6KKqjQJ_4Uej5kTvR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1617595140,
+        "tms_id": "EP033701060018",
+        "description": "An upset Mayor forbids Sheriff's friends from hanging around the station so that he can focus on stopping crime. But to keep them around, Sheriff knights his friends, landing him in a predicament of medieval proportions.",
+        "title_suggest": {
+            "input": [
+                "Neighborhood Knight Watch",
+                "Knight Watch",
+                "Watch"
+            ]
+        },
+        "title": "Neighborhood Knight Watch",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 1351.8839,
+        "episode_number": "9",
+        "original_air_date": 1615780800,
+        "auth_launch_date": 1615780800,
+        "clip_order": null,
+        "airing_id": "RADS1003082100079722",
+        "media_id": "1127ea0d824abeb4a4de5e1df6f1b157677f671d",
+        "modified": 1615467008,
+        "slug": "neighborhood-knight-watch",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210311/thumbnails/1_2131175021-MommaNamedMeSheriff_209-10_dup-20210218_NeighborhoodKnightWatch.jpg",
+        "created": 1615216649,
+        "title_id": "2247959",
+        "season_number": "2",
+        "tv_rating": "tv-ma-sv",
+        "published": 1615467008,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "Duke Nguyen",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210311/thumbnails/2_2131175021-MommaNamedMeSheriff_209-10_dup-20210218_NeighborhoodKnightWatch.jpg",
+        "id": "AXgSaiZUQJ_4Uej5kTxu",
         "auth": true
     }
 ]
