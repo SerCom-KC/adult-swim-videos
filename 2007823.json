@@ -1,57 +1,5 @@
 [
     {
-        "ott_launch_date": 1447789260,
-        "auth_expiration_date": 1615867140,
-        "tms_id": "SH018336790000",
-        "description": "The Fastest Growing College on the Internet! Join Now, Print Your Degree Today and Come Profit With Us!",
-        "title_suggest": {
-            "input": [
-                "For-Profit Online University",
-                "Online University",
-                "University"
-            ]
-        },
-        "expiration_date": 1598932799,
-        "type": "episode",
-        "title": "For-Profit Online University",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 660.5838198,
-        "episode_number": "2",
-        "original_air_date": 1387270800,
-        "auth_launch_date": 1612846800,
-        "clip_order": null,
-        "media_id": "38a692afaa8d949719684f1e17db665b3b1fdd0c",
-        "modified": 1614042647,
-        "airing_id": "RADS1002052100070737",
-        "slug": "for-profit-online-university",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150977957037.jpg",
-        "created": 1510604496,
-        "season_number": "3",
-        "title_id": "2007825",
-        "tv_rating": "tv-14-dv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614042647,
-        "tags": [
-            "money custom family military dating livecam bachelors masters [[Ad sales contact user [BOT]FPOU-AdBotDomo]]"
-        ],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150977957037.jpg",
-        "id": "AV-3C18nwdpKFAKSbWZL",
-        "auth": false
-    },
-    {
         "ott_launch_date": 1447789320,
         "auth_expiration_date": 1616471940,
         "tms_id": "SH018336810000",
@@ -206,6 +154,65 @@
         "launch_date": 1542690000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509848751617.jpg",
         "id": "AV-3ELLRwdpKFAKSbWZf",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1447789500,
+        "auth_expiration_date": 1618891140,
+        "tms_id": "SH020417690000",
+        "description": "Sure, Newbridge, NJ is known as the muffler capital of the world but it's so much more than that. Learn about the fascinating often insane past and present of the town George Washington quickly decided against making the capital of the US.",
+        "title_suggest": {
+            "input": [
+                "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "\"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Newbridge, We're Comin' To Get Ya!\"",
+                "We're Comin' To Get Ya!\"",
+                "Comin' To Get Ya!\"",
+                "To Get Ya!\"",
+                "Get Ya!\"",
+                "Ya!\""
+            ]
+        },
+        "expiration_date": 1598932799,
+        "type": "episode",
+        "title": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 690.2085071,
+        "episode_number": "6",
+        "original_air_date": 1415091600,
+        "auth_launch_date": 1615867200,
+        "clip_order": null,
+        "media_id": "9fdd28daad74426e29ff0feb51c142cc40522313",
+        "modified": 1615508713,
+        "airing_id": "RADS1003112100081835",
+        "slug": "the-newbridge-tourism-board-presents-were-newbridge-were-comin-to-get-ya",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509835916018.jpg",
+        "created": 1510605679,
+        "season_number": "4",
+        "title_id": "2007844",
+        "tv_rating": "tv-14-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1615508713,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509835916018.jpg",
+        "id": "AV-3HWt2Z-onAnjDLtAg",
         "auth": true
     },
     {
