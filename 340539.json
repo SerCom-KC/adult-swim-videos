@@ -1,6 +1,62 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1446844440,
+        "auth_expiration_date": 1576040340,
+        "tms_id": "EP004625750023",
+        "rating": 8.564745,
+        "description": "After 30 years of failed attempts, X gets the crest on Birdman's helmet.  Convinced he's powerless without his crest, Harvey falls apart, stops shaving and loses a case defending Ricochet Rabbit from charges of wanton and willful destruction.  X, on the other hand, turns his life around.  He starts fighting for the cause of all that is good, winds up in newspaper headlines and on afternoon talk shows.",
+        "title_suggest": {
+            "input": [
+                "X Gets the Crest",
+                "Gets the Crest",
+                "the Crest",
+                "Crest"
+            ]
+        },
+        "type": "episode",
+        "title": "X Gets the Crest",
+        "expiration_date": 1618891140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 695.37,
+        "episode_number": "3",
+        "original_air_date": 1123472700,
+        "clip_order": null,
+        "auth_launch_date": 1573016400,
+        "modified": 1615508127,
+        "media_id": "d05a180b7f3a1c1a0aa71c61925e4bba6847fc70",
+        "airing_id": "RADS1003112100081828",
+        "id": "8bnZmF-yQmCeRsdatg8Mjg",
+        "slug": "x-gets-the-crest",
+        "views": 277918,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351420554-harvey_023.jpg",
+        "created": 1402945467,
+        "title_id": "614807",
+        "season_number": "3",
+        "tv_rating": "tv-pg-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1615508127,
+        "tags": [
+            "harvey birdman attorney at law episode 23 x gets the crest helmet poker"
+        ],
+        "rating_count": 726,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615867200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351420554-harvey_023.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1446844260,
         "auth_expiration_date": 1618891140,
         "tms_id": "EP004625750018",
@@ -269,62 +325,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1614661200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035142069-harvey_021.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446844200,
-        "auth_expiration_date": 1615867140,
-        "tms_id": "EP004625750014",
-        "rating": 8.715234,
-        "description": "Speed Buggy is arrested for leading the cops on a high-speed chase.  As Harvey prepares for the trial, longtime assistant Avenger resigns, landing a job with Harvey's rival Vulturo.  Harvey searches for a replacement, downgrading from a legal eagle to a legal finch.",
-        "title_suggest": {
-            "input": [
-                "High Speed Buggy Chase",
-                "Speed Buggy Chase",
-                "Buggy Chase",
-                "Chase"
-            ]
-        },
-        "type": "episode",
-        "title": "High Speed Buggy Chase",
-        "expiration_date": 1612846740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 697.43,
-        "episode_number": "4",
-        "original_air_date": 1083555000,
-        "clip_order": null,
-        "auth_launch_date": 1612846800,
-        "modified": 1614032435,
-        "media_id": "d1ce218e903abf8ff899150580f6fad5b233c27c",
-        "airing_id": "RADS1002052100070715",
-        "id": "YVAw3bsfQHit8BPxLZcGRQ",
-        "slug": "high-speed-buggy-chase",
-        "views": 269495,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035143414-harvey_013.jpg",
-        "created": 1402945467,
-        "title_id": "541626",
-        "season_number": "2",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614032435,
-        "tags": [
-            "harvey birdman episode attorney at law 13 high speed buggy chase oj vulturo avenger quits"
-        ],
-        "rating_count": 604,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609822800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035143414-harvey_013.jpg",
         "cma_id": ""
     },
     {
