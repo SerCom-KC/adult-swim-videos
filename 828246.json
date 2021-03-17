@@ -357,7 +357,7 @@
         "cma_id": "828248"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446738180,
         "auth_expiration_date": 1618977540,
         "tms_id": "EP013120360005",
@@ -467,6 +467,58 @@
     {
         "auth": false,
         "ott_launch_date": 1446738360,
+        "auth_expiration_date": 1577854740,
+        "tms_id": "EP013120360015",
+        "rating": 7.019231,
+        "description": "An organ thief is on the prowl in Elmwood Park and the marshals must go undercover to catch him. His identity will shock you.",
+        "title_suggest": {
+            "input": [
+                "Silly Sammy",
+                "Sammy"
+            ]
+        },
+        "type": "episode",
+        "title": "Silly Sammy",
+        "expiration_date": 1618977540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 675.7674341,
+        "episode_number": "3",
+        "original_air_date": 1335499200,
+        "clip_order": null,
+        "auth_launch_date": 1574830800,
+        "modified": 1615527928,
+        "media_id": "0f559870eb9052eef1b776c5c95534a7fae86591",
+        "airing_id": "RADS1003112100081858",
+        "id": "eKLDfH03T3uqcC1fDHjF1w",
+        "slug": "silly-sammy",
+        "views": 20109,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341549386-eagleheart_202_bim.jpg",
+        "created": 1402945464,
+        "title_id": "892251",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1615527928,
+        "tags": [],
+        "rating_count": 104,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615953600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341549386-eagleheart_202_bim.jpg",
+        "cma_id": "1378541"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446738360,
         "auth_expiration_date": 1577249940,
         "tms_id": "EP013120360014",
         "rating": 7.604651,
@@ -568,57 +620,5 @@
         "launch_date": 1612328400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/eagleheart_cc_106_pt1-05.jpg",
         "cma_id": "828252"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446676740,
-        "auth_expiration_date": 1615953540,
-        "tms_id": "EP013120360007",
-        "rating": 8.526008,
-        "description": "Chris makes amends after a shocking confrontation with a villain.",
-        "title_suggest": {
-            "input": [
-                "Death Punch",
-                "Punch"
-            ]
-        },
-        "type": "episode",
-        "title": "Death Punch",
-        "expiration_date": 1612933140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 675.3670337,
-        "episode_number": "5",
-        "original_air_date": 1299214800,
-        "clip_order": null,
-        "auth_launch_date": 1612933200,
-        "modified": 1614038515,
-        "media_id": "3fe3dbc44501f1f59fa47de742b175581725654c",
-        "airing_id": "RADS1002052100070753",
-        "id": "xY0p8o3AQfadHUDYAtC5Qg",
-        "slug": "death-punch",
-        "views": 218413,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341545242-eagleheart_101_bim.jpg",
-        "created": 1402945464,
-        "title_id": "828247",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614038515,
-        "tags": [],
-        "rating_count": 519,
-        "collection_title": "Eagleheart",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609909200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341545242-eagleheart_101_bim.jpg",
-        "cma_id": "828247"
     }
 ]

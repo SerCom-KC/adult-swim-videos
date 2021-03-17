@@ -1,56 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1447784340,
-        "auth_expiration_date": 1615953540,
-        "tms_id": "EP008994530023",
-        "rating": 8.229998,
-        "description": "Bob Odenkirk negotiates a truce. A child actor finds his voice. C-phone. Swing Dancing.\r\n(Patton Oswalt, Bob Odenkirk, Ed Begley, Jr., Zach Galifianakis)",
-        "title_suggest": {
-            "input": [
-                "Rascals"
-            ]
-        },
-        "type": "episode",
-        "title": "Rascals",
-        "expiration_date": 1612933140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 650.026,
-        "episode_number": "3",
-        "original_air_date": 1218429000,
-        "clip_order": null,
-        "auth_launch_date": 1612933200,
-        "modified": 1614036662,
-        "media_id": "b84216230c9cd38735cc1dfdd5de7149d6ed9499",
-        "airing_id": "RADS1002052100070781",
-        "id": "1cgyzrXoTo2TLYskZuJXTw",
-        "slug": "rascals",
-        "views": 437669,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116155113-timanderic_303.jpg",
-        "created": 1402945481,
-        "title_id": "723436",
-        "season_number": "3",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614036662,
-        "tags": [],
-        "rating_count": 3239,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609909200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116155113-timanderic_303.jpg",
-        "cma_id": "1336045"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447784580,
         "auth_expiration_date": 1586923140,
@@ -205,7 +154,7 @@
         "cma_id": "1361277"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784460,
         "auth_expiration_date": 1618977540,
         "tms_id": "EP008994530028",
@@ -417,6 +366,59 @@
         "launch_date": 1614142800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161625490-timanderic_310.jpg",
         "cma_id": "1365359"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447784580,
+        "auth_expiration_date": 1587527940,
+        "tms_id": "EP008994530033",
+        "rating": 8.862944,
+        "description": "Tim and Eric examine the discuss the mysteries of the universe. Pierre launches a PSA about food poisoning. The Zillions crew is back with a very special episode of Celebrity Zillions. \r\n(John C Reilly)",
+        "title_suggest": {
+            "input": [
+                "Universe"
+            ]
+        },
+        "type": "episode",
+        "title": "Universe",
+        "expiration_date": 1618977540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 680.028,
+        "episode_number": "4",
+        "original_air_date": 1235367000,
+        "clip_order": null,
+        "auth_launch_date": 1584504000,
+        "modified": 1615569618,
+        "media_id": "9d0fed9333c06d94cd20a1935db1d1299499b552",
+        "airing_id": "RADS1003122100081953",
+        "id": "YQXPxActSD-iqVYF9K04qA",
+        "slug": "universe",
+        "views": 481064,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161652413-timanderic_404.jpg",
+        "created": 1402945481,
+        "title_id": "751393",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1615569618,
+        "tags": [
+            "tim and eric awesome show universe episode 34"
+        ],
+        "rating_count": 2386,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615953600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652413-timanderic_404.jpg",
+        "cma_id": "1380845"
     },
     {
         "auth": true,
