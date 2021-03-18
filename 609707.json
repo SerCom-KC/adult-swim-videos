@@ -220,7 +220,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451677680,
         "auth_expiration_date": 1619063940,
         "tms_id": "EP007819760010",
@@ -384,61 +384,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1451677500,
-        "auth_expiration_date": 1616039940,
-        "tms_id": "EP007819760005",
-        "rating": 8.123167,
-        "description": "A teratoma is tumor that grows teeth and hair. Satan has one removed from his armpit and brings it home to be his friend. Terry the Teratoma immediately falls for Becky the Devil's advocate. Together they plot to kill DJ Jesus who has just published a novel - a thinly disguised roman clef called Lacy.",
-        "title_suggest": {
-            "input": [
-                "Terry The Teratoma",
-                "The Teratoma",
-                "Teratoma"
-            ]
-        },
-        "type": "episode",
-        "title": "Terry The Teratoma",
-        "expiration_date": 1613019540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
-        "duration": 698.4,
-        "episode_number": "5",
-        "original_air_date": 1191212100,
-        "clip_order": null,
-        "auth_launch_date": 1613019600,
-        "modified": 1614033632,
-        "media_id": "fe496e551f1ff506506fdc432151bb8b568246fb",
-        "airing_id": "RADS1002052100070786",
-        "id": "lY14VswLRd2G6It2O8GNiw",
-        "slug": "terry-the-teratoma",
-        "views": 473224,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361032289-lucy_105_air.jpg",
-        "created": 1402945468,
-        "title_id": "609716",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614033632,
-        "tags": [
-            "lucy daughter of the devil episode 5 terry teratoma teeth hair becky novel"
-        ],
-        "rating_count": 1908,
-        "collection_title": "Lucy, The Daughter of the Devil",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609995600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361032289-lucy_105_air.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1451677440,
         "auth_expiration_date": 1614229140,
@@ -489,6 +434,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1614834000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361031288-lucy_102_air.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451677500,
+        "auth_expiration_date": 1615438740,
+        "tms_id": "EP007819760004",
+        "rating": 8.151729,
+        "description": "The Prophesy tells us that if DJ Jesus doesn't perform at Burning Man an unholy sand storm will destroy the American west. The wind is rising, and everyone's waiting for him, but DJ Jesus gets lost in the desert, where Satan is waiting to tempt him with a food court, an electronics superstore, and finally, a magical place called Temptasia.",
+        "title_suggest": {
+            "input": [
+                "Temptasia"
+            ]
+        },
+        "type": "episode",
+        "title": "Temptasia",
+        "expiration_date": 1619063940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
+        "duration": 668.6,
+        "episode_number": "4",
+        "original_air_date": 1190607300,
+        "clip_order": null,
+        "auth_launch_date": 1612414800,
+        "modified": 1615620832,
+        "media_id": "1b23d20fe8a84be4c26c90d3b5b3ac5373651ad7",
+        "airing_id": "RADS1003122100081975",
+        "id": "o9d7l3hgR_iW7bKERptd7Q",
+        "slug": "temptasia",
+        "views": 553122,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_2036103277-lucy_104_air.jpg",
+        "created": 1402945468,
+        "title_id": "609715",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1615620832,
+        "tags": [
+            "lucy daughter of the devil episode 4 temptasia burning man sand storm desert dj jesus"
+        ],
+        "rating_count": 3157,
+        "collection_title": "Lucy, The Daughter of the Devil",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616040000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036103277-lucy_104_air.jpg",
         "cma_id": ""
     },
     {

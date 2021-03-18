@@ -123,7 +123,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446845460,
         "auth_expiration_date": 1619063940,
         "tms_id": "EP014825730014",
@@ -523,6 +523,57 @@
         "launch_date": 1417794353,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/illuminations-or-get-to-know-the-heart-she-holler-extras-the-abyss/thsh_promo_4_ABYSS_1.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446845580,
+        "auth_expiration_date": 1524034799,
+        "tms_id": "EP014825730019",
+        "rating": 7,
+        "description": "Destiny spelled sdrawkcab is Mee Maw.",
+        "title_suggest": {
+            "input": [
+                "Gamebored"
+            ]
+        },
+        "type": "episode",
+        "title": "Gamebored",
+        "expiration_date": 1619063940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "gpQz0eFbTYebWp_hbdmWPw",
+        "duration": 676.500417,
+        "episode_number": "13",
+        "original_air_date": 1380256200,
+        "clip_order": null,
+        "auth_launch_date": 1521010800,
+        "modified": 1615616157,
+        "media_id": "9fded71fa2344e73c9ce16799c3d943f9ecf8e89",
+        "airing_id": "RADS1003122100081977",
+        "id": "WoVA4-ZWQwyUUWoQnxEEuw",
+        "slug": "gamebored",
+        "views": 4407,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351125227-heartsheholler_213_019_dup-20130910.jpg",
+        "created": 1402945479,
+        "title_id": "2007211",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1615616157,
+        "tags": [],
+        "rating_count": 14,
+        "collection_title": "The Heart, She Holler",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616040000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351125227-heartsheholler_213_019_dup-20130910.jpg",
+        "cma_id": "1454451"
     },
     {
         "auth": false,
@@ -951,58 +1002,5 @@
         "launch_date": 1610600400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351121304-heartsheholler_209_010_dup-20130904.jpg",
         "cma_id": "1414238"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446845340,
-        "auth_expiration_date": 1616039940,
-        "tms_id": "EP014825730009",
-        "rating": 7.5,
-        "description": "Sometimes you just gotta get away from it all, in order to destroy the entirety of civilization.",
-        "title_suggest": {
-            "input": [
-                "The Blue Lonegoon",
-                "Blue Lonegoon",
-                "Lonegoon"
-            ]
-        },
-        "type": "episode",
-        "title": "The Blue Lonegoon",
-        "expiration_date": 1613019540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "gpQz0eFbTYebWp_hbdmWPw",
-        "duration": 676.8757298,
-        "episode_number": "3",
-        "original_air_date": 1379046600,
-        "clip_order": null,
-        "auth_launch_date": 1613019600,
-        "modified": 1614039024,
-        "media_id": "60628c9dceb28960ee1ff5d6792d53b73f030085",
-        "airing_id": "RADS1002052100070806",
-        "id": "x87tdMMqRQOIwEgROLP4ww",
-        "slug": "the-blue-lonegoon",
-        "views": 9236,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351120412-heartsheholler_203_009_dup-20130912.jpg",
-        "created": 1402945479,
-        "title_id": "2007201",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614039024,
-        "tags": [],
-        "rating_count": 46,
-        "collection_title": "The Heart, She Holler",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609995600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351120412-heartsheholler_203_009_dup-20130912.jpg",
-        "cma_id": "1410048"
     }
 ]
