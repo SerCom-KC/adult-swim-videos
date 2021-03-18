@@ -206,55 +206,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1616039940,
-        "tms_id": "",
-        "description": "Gary and his brain trust bring radical changes to old-fashioned soul collecting.",
-        "title_suggest": {
-            "input": [
-                "The Party Hole",
-                "Party Hole",
-                "Hole"
-            ]
-        },
-        "title": "The Party Hole",
-        "expiration_date": 1613019540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 655,
-        "episode_number": "5",
-        "original_air_date": 1558152000,
-        "auth_launch_date": 1613019600,
-        "clip_order": null,
-        "media_id": "a9ba3c53fd1288034711663f8469ca3a40bc0323",
-        "modified": 1612639881,
-        "airing_id": "RADS1012312000060112",
-        "slug": "the-party-hole",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15580247557034.jpg",
-        "created": 1556816438,
-        "season_number": "4",
-        "title_id": "2191443",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1612639881,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1609995600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
-        "id": "AWp5faU7AScUIg8XxfZ_",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1618459140,
         "tms_id": "",
         "description": "When Hell runs out of ball clamps, Satan sends his best men to get more. Unfortunately, Gary is one of his best men.",
@@ -496,7 +447,7 @@
         "launch_date": 1613019600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
         "id": "AWp5hFfgHl5gR6828zZU",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -895,6 +846,53 @@
         "launch_date": 1484167290,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-satans-teeth/ASID_30FMF_SatansTeeth_15.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447787040,
+        "tms_id": "EP013726210011",
+        "description": "Television's favorite redneck warlock puts on one last show.",
+        "title_suggest": {
+            "input": [
+                "Jett Copperhead, Six-Pack Magician",
+                "Copperhead, Six-Pack Magician",
+                "Six-Pack Magician",
+                "Magician"
+            ]
+        },
+        "expiration_date": 1619063940,
+        "title": "Jett Copperhead, Six-Pack Magician",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 690.59,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "3",
+        "original_air_date": 1437970500,
+        "clip_order": null,
+        "modified": 1615619237,
+        "airing_id": "RADS1003122100081992",
+        "media_id": "9a152742824e80fec41580299d7c2268141a5a40",
+        "id": "XRevrgXJTnCwXJLinttWMg",
+        "slug": "jett-copperhead-six-pack-magician",
+        "views": 6,
+        "created": 1436294158,
+        "season_number": "2",
+        "title_id": "2062767",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1615619237,
+        "first_published": 1437733222,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1616040000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/jett-copperhead-six-pack-magician/ypf_cc_205_pt2_1.jpg",
+        "cma_id": "1393798"
     },
     {
         "auth": false,
