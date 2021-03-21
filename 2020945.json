@@ -1818,53 +1818,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1622519999,
-        "tms_id": "EP034992000065",
-        "description": "Eren's rampage is thwarted by the War Hammer Titan whose tenacity leaves him stumped. With Marley's military joining the fight, he'll be hard-pressed to survive on his own.",
-        "title_suggest": {
-            "input": [
-                "The War Hammer Titan",
-                "War Hammer Titan",
-                "Hammer Titan",
-                "Titan"
-            ]
-        },
-        "title": "The War Hammer Titan",
-        "type": "episode",
-        "expiration_date": 1616313540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
-        "duration": 1362.4945,
-        "episode_number": "6",
-        "original_air_date": 1613280600,
-        "auth_launch_date": 1616317200,
-        "clip_order": null,
-        "airing_id": "RADS1002282100077374",
-        "media_id": "69275c5706f4aabb2fcca1eda97c22ab2d46de95",
-        "modified": 1615889786,
-        "slug": "the-war-hammer-titan",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210212/thumbnails/1_21212173542-attackontitan_065.jpg",
-        "created": 1613157373,
-        "title_id": "2244428",
-        "season_number": "4",
-        "tv_rating": "tv-14-lv",
-        "published": 1615889786,
-        "tags": [],
-        "collection_title": "Attack on Titan",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1615107600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210212/thumbnails/2_21212173542-attackontitan_065.jpg",
-        "id": "AXeXrBebQJ_4Uej5kTrD",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1617526740,
         "tms_id": "EP019059960095",
         "description": "As Paradis deals with the aftermath of the raid on Liberio, Armin looks back in the past to meeting the volunteer soldiers who reshaped their world.",
@@ -1907,6 +1860,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_21310132531-attackontitan_068_BraveVolunteers.jpg",
         "id": "AXgdYp-eBH5Z6gH5aV7F",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1618127940,
+        "tms_id": "EP034992000069",
+        "description": "Two years ago, Paradis welcomed their first visitor who was surprised to see one of their own. Obtaining their help will be critical in a three-part plan to protect Paradis.",
+        "title_suggest": {
+            "input": [
+                "A Sound Argument",
+                "Sound Argument",
+                "Argument"
+            ]
+        },
+        "title": "A Sound Argument",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+        "duration": 1362.5612,
+        "episode_number": "10",
+        "original_air_date": "1616301000",
+        "auth_launch_date": 1616313600,
+        "clip_order": null,
+        "airing_id": "RADS1003172100082636",
+        "media_id": "23cd38c7053137fe7c53b26ae403c240f9f629f2",
+        "modified": 1616226958,
+        "slug": "a-sound-argument",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210317/thumbnails/1_213171053438-attackontitan_069_ASoundArgument.jpg",
+        "created": 1615992826,
+        "season_number": "4",
+        "title_id": "2244432",
+        "tv_rating": "tv-14-l",
+        "published": 1616226958,
+        "tags": [],
+        "collection_title": "Attack on Titan",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210317/thumbnails/2_213171053438-attackontitan_069_ASoundArgument.jpg",
+        "id": "AXhArantDmGy9WFjRqoK",
         "auth": true
     },
     {
