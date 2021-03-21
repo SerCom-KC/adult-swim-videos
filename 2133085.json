@@ -977,5 +977,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20190816/thumbnails/2_19816113014-FINALSPACE_InsideEpisode_Ep9.jpg",
         "id": "AWybElBX4aLemgzOLGPy",
         "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Final Space is an intergalactic space saga about an astronaut named Gary and Mooncake. Follow their adventures as they embark on a quest to unlock the mystery of Final Space, the place where the entire universe ends.",
+        "title_suggest": {
+            "input": [
+                "\u2026 and Into the Fire",
+                "and Into the Fire",
+                "Into the Fire",
+                "the Fire",
+                "Fire"
+            ]
+        },
+        "title": "\u2026 and Into the Fire",
+        "expiration_date": 1626143340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWoJjOfPHl5gR6828zOv",
+        "duration": 1261.527,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1003162100082398",
+        "media_id": "d42e024266273aedbb9cf6b050d874d634e6eb17",
+        "modified": 1615924164,
+        "slug": "and-into-the-fire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/1_21223105225-finalspace_301_air_cid-NT4TM.jpg",
+        "created": 1614095527,
+        "season_number": "3",
+        "title_id": "2241625",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1615924164,
+        "tags": [],
+        "collection_title": "Final Space",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616293800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_21223105225-finalspace_301_air_cid-NT4TM.jpg",
+        "id": "AXfPly3fbxpjZvbXYmYF",
+        "auth": false
     }
 ]
