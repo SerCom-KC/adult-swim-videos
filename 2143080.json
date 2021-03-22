@@ -513,53 +513,6 @@
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1616471940,
-        "tms_id": "EP027937620006",
-        "description": "As an official member of the Black Bulls, Asta is one step closer to becoming the Wizard King! But surviving this chaotic squad is going to be his next challenge. Is he ready to take on\u2026initiation?!",
-        "title_suggest": {
-            "input": [
-                "The Black Bulls",
-                "Black Bulls",
-                "Bulls"
-            ]
-        },
-        "expiration_date": 1519653600,
-        "type": "episode",
-        "title": "The Black Bulls",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AV-7K77EZ-onAnjDLtBM",
-        "duration": 1321.43,
-        "episode_number": "6",
-        "original_air_date": 1516509000,
-        "auth_launch_date": 1610427600,
-        "clip_order": null,
-        "media_id": "2e2c9d13be2142795b46603bfd52b4ed42923f0d",
-        "modified": 1616442875,
-        "airing_id": "RADS1001072100061399",
-        "id": "AWDcvCt4Z-onAnjDLt62",
-        "slug": "the-black-bulls",
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151663490173112.jpg",
-        "created": 1515531807,
-        "season_number": "1",
-        "title_id": "2143086",
-        "tv_rating": "tv-pg-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616442875,
-        "tags": [],
-        "collection_title": "Black Clover",
-        "modified_by": "ODT Listener",
-        "launch_date": 1518444000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151663490173112.jpg"
-    },
-    {
-        "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1616471940,
         "tms_id": "EP027937620010",
         "description": "Desperate to protect the villagers of Saussy and fend off the powerful mages, Asta, Noelle, and Magna fight with everything they've got. While Noelle manages a new spell, Asta pushes himself to the edge to prove he's never giving up!",
         "title_suggest": {
@@ -645,6 +598,54 @@
         "modified_by": "ODT Listener",
         "launch_date": 1520258400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15184569945944.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1616471940,
+        "tms_id": "EP027937620012",
+        "description": "Asta and Sekke take down a thief in the black market and unknowingly end up helping the Wizard King! Then, an escort mission for Yuno's team takes a turn for the dangerous when they're attacked and wind up detouring in Hage.",
+        "title_suggest": {
+            "input": [
+                "The Wizard King Saw",
+                "Wizard King Saw",
+                "King Saw",
+                "Saw"
+            ]
+        },
+        "expiration_date": 1523278800,
+        "type": "episode",
+        "title": "The Wizard King Saw",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1310.53,
+        "episode_number": "12",
+        "original_air_date": 1520137800,
+        "auth_launch_date": 1610427600,
+        "clip_order": null,
+        "media_id": "6585303e63fc780bae3e74322c6f70df5182fe59",
+        "modified": 1616444719,
+        "airing_id": "RADS1001072100061393",
+        "id": "AWGQ9oDaZ-onAnjDME-P",
+        "slug": "the-wizard-king-saw",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151967017533214.jpg",
+        "created": 1518555529,
+        "season_number": "1",
+        "title_id": "2143092",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616444719,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "modified_by": "ODT Listener",
+        "launch_date": 1522069200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151967017533214.jpg"
     },
     {
         "ott_launch_date": null,
