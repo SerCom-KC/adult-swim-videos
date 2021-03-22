@@ -516,6 +516,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1615780740,
+        "tms_id": "",
+        "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
+        "title_suggest": {
+            "input": [
+                "You Got Served",
+                "Got Served",
+                "Served"
+            ]
+        },
+        "title": "You Got Served",
+        "expiration_date": 1619409540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 675.5082,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1612760400,
+        "clip_order": null,
+        "airing_id": "RADS1003172100082708",
+        "media_id": "e492a99d0935386e7b8aa303d3728fd008c8411d",
+        "modified": 1616024763,
+        "slug": "you-got-served",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161714163-ericandre_503_dup-20200813.jpg",
+        "created": 1600290812,
+        "season_number": "5",
+        "title_id": "2230782",
+        "tv_rating": "tv-ma-l",
+        "published": 1616024763,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616385600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161714163-ericandre_503_dup-20200813.jpg",
+        "id": "AXSYw_QbLyLQBOXK_PN9",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1614574740,
         "tms_id": "",
         "description": "Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six .Paak!",
@@ -561,51 +607,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg",
         "id": "AXSYwnpvLyLQBOXK_PN8",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1616385540,
-        "tms_id": "",
-        "description": "Eric welcomes Dermot Mulroney and Diane Guerrero with overweight musical guest Joey Bada$$. Lizzo debuts a surprise spinoff show.",
-        "title_suggest": {
-            "input": [
-                "Lizzo Up",
-                "Up"
-            ]
-        },
-        "title": "Lizzo Up",
-        "expiration_date": 1613365140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 667.3333,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1613365200,
-        "clip_order": null,
-        "airing_id": "RADS1001062100061305",
-        "media_id": "35aa730128e6dcbe1df3735a21e3d36d1f77ece5",
-        "modified": 1613160578,
-        "slug": "lizzo-up",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_20916171521-ericandre_504_dup-20200824.jpg",
-        "created": 1600290905,
-        "season_number": "5",
-        "title_id": "2230783",
-        "tv_rating": "tv-ma-ls",
-        "published": 1613160578,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610341200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_20916171521-ericandre_504_dup-20200824.jpg",
-        "id": "AXSYxV6pLyLQBOXK_PN-",
-        "auth": true
     },
     {
         "auth_expiration_date": 1616990340,
@@ -936,7 +937,7 @@
         "launch_date": 1613365200,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131210506-ericandre_509_dup-20200914.jpg",
         "id": "AXWPFwsXLyLQBOXK_PY8",
-        "auth": false
+        "auth": true
     },
     {
         "auth": false,
