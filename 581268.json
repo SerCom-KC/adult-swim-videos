@@ -2503,6 +2503,63 @@
         "cma_id": "1457782"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447442400,
+        "auth_expiration_date": 1599537540,
+        "tms_id": "EP007008180001",
+        "rating": 7.0740933,
+        "description": "Introducing America's favorite animated family.",
+        "title_suggest": {
+            "input": [
+                "This Show Is Called Squidbillies",
+                "Show Is Called Squidbillies",
+                "Is Called Squidbillies",
+                "Called Squidbillies",
+                "Squidbillies"
+            ]
+        },
+        "type": "episode",
+        "title": "This Show Is Called Squidbillies",
+        "expiration_date": 2085368400,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 690.0667334,
+        "episode_number": "1",
+        "original_air_date": 1112331600,
+        "clip_order": null,
+        "auth_launch_date": 1598932800,
+        "modified": 1616511867,
+        "media_id": "2db045d3f135421d737a4779b5469674fd9c15a2",
+        "airing_id": "RADS1011131800044821",
+        "id": "gfkJR1BZQbanV9SpCZYxDg",
+        "slug": "this-show-is-called-squidbillies",
+        "views": 403201,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_2048167591-squidbillies_001.jpg",
+        "created": 1402945477,
+        "title_id": "613466",
+        "season_number": "1",
+        "tv_rating": "tv-14-sv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1616511867,
+        "tags": [
+            "squidbillies episode 1 premiere this show is called early origin first"
+        ],
+        "rating_count": 3806,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_2048167591-squidbillies_001.jpg",
+        "cma_id": "1313348"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447444500,
         "auth_expiration_date": 1617076740,
