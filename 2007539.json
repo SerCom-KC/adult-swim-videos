@@ -151,6 +151,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15196739434518.jpg"
     },
     {
+        "ott_launch_date": 1521469860,
+        "auth": false,
+        "auth_expiration_date": 1611118740,
+        "tms_id": "EP018514630030",
+        "description": "Sheriff guest stars on the crime fighting reality show, Sheriffs.",
+        "title_suggest": {
+            "input": [
+                "Sheriffs"
+            ]
+        },
+        "expiration_date": 1619582340,
+        "type": "episode",
+        "title": "Sheriffs",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 648.29,
+        "episode_number": "7",
+        "original_air_date": 1521432000,
+        "auth_launch_date": 1608094800,
+        "clip_order": null,
+        "media_id": "65cffdb045883636730bc2cdc4e3e5c9bfb27515",
+        "modified": 1616348134,
+        "airing_id": "RADS1003212100083481",
+        "id": "AWHX81TlNWyh42wYnlDC",
+        "slug": "sheriffs",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15197465106555.jpg",
+        "created": 1519746503,
+        "season_number": "3",
+        "title_id": "2120609",
+        "tv_rating": "tv-ma-sv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616348134,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616558400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465106555.jpg"
+    },
+    {
         "ott_launch_date": 1520865060,
         "auth": false,
         "auth_expiration_date": 1609909140,
@@ -342,57 +390,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447173600,
-        "auth_expiration_date": 1616558340,
-        "tms_id": "EP018514630007",
-        "description": "Tommy sets out with Mr. Pickles to lose his tooth so he can meet the Tooth Fairy. Meanwhile, Sheriff searches for a group of wanted pedophiles.",
-        "title_suggest": {
-            "input": [
-                "Loose Tooth",
-                "Tooth"
-            ]
-        },
-        "expiration_date": 1613537940,
-        "title": "Loose Tooth",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 677.7007007,
-        "episode_number": "6",
-        "original_air_date": 1414380600,
-        "clip_order": null,
-        "auth_launch_date": 1613538000,
-        "modified": 1613179554,
-        "media_id": "0e7884f27e70a5800ff06f9052c06da2f469f6e6",
-        "airing_id": "RADS1002122100073816",
-        "id": "EF_c8qUoTX6WKvhc1fNcZw",
-        "slug": "loose-tooth",
-        "views": 13,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121118220-mrpickles_006_dup-20141009.jpg",
-        "created": 1414097136,
-        "season_number": "1",
-        "title_id": "2032507",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1613179554,
-        "first_published": 1414228839,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610514000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121118220-mrpickles_006_dup-20141009.jpg",
-        "cma_id": "1453011"
-    },
-    {
-        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -490,7 +487,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1519659060,
         "auth_expiration_date": 1619582340,
         "tms_id": "EP018514630025",

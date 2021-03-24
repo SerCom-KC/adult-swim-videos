@@ -140,7 +140,7 @@
         "cma_id": "828251"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446738180,
         "auth_expiration_date": 1619582340,
         "tms_id": "EP013120360011",
@@ -205,6 +205,57 @@
         "launch_date": 1613538000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341547278-eagleheart_104_bim.jpg",
         "cma_id": "1360440"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446738420,
+        "auth_expiration_date": 1578459540,
+        "tms_id": "EP013120360016",
+        "rating": 7.022222,
+        "description": "Chris goes on a journey to discover the blues - and learns that it may be in danger. Guest Starring Breaking Bad's Dean Norris.",
+        "title_suggest": {
+            "input": [
+                "Blues"
+            ]
+        },
+        "type": "episode",
+        "title": "Blues",
+        "expiration_date": 1619582340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 676.3003003,
+        "episode_number": "4",
+        "original_air_date": 1336104000,
+        "clip_order": null,
+        "auth_launch_date": 1575435600,
+        "modified": 1616350846,
+        "media_id": "b8b8376e14dbb7d50e87adc7f41e184295023f8c",
+        "airing_id": "RADS1003212100083495",
+        "id": "9WKKPMgjS5OOhfWRNJmPbw",
+        "slug": "blues",
+        "views": 30683,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034155053-eagleheart_206_bim.jpg",
+        "created": 1402945464,
+        "title_id": "892252",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1616350846,
+        "tags": [],
+        "rating_count": 90,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616558400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034155053-eagleheart_206_bim.jpg",
+        "cma_id": "1382617"
     },
     {
         "ott_launch_date": null,
@@ -302,59 +353,6 @@
         "launch_date": 1611723600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341546296-eagleheart_111_bim.jpg",
         "cma_id": "828257"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446738000,
-        "auth_expiration_date": 1616558340,
-        "tms_id": "EP013120360003",
-        "rating": 7.418955,
-        "description": "Twins from Chris's past turn out to be more than they seem.  Prepare to be shocked.",
-        "title_suggest": {
-            "input": [
-                "Double Your Displeasure",
-                "Your Displeasure",
-                "Displeasure"
-            ]
-        },
-        "type": "episode",
-        "title": "Double Your Displeasure",
-        "expiration_date": 1613537940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 673.8341675,
-        "episode_number": "6",
-        "original_air_date": 1299819600,
-        "clip_order": null,
-        "auth_launch_date": 1613538000,
-        "modified": 1614038510,
-        "media_id": "18ea05d5a03891ba98f1f652cc34013c8faf8886",
-        "airing_id": "RADS1002122100073779",
-        "id": "DJMDDPflR1aDlbQWXtXjEQ",
-        "slug": "double-your-displeasure",
-        "views": 205124,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341545444-eagleheart_102_bim.jpg",
-        "created": 1402945464,
-        "title_id": "828248",
-        "season_number": "1",
-        "tv_rating": "tv-14-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614038510,
-        "tags": [],
-        "rating_count": 401,
-        "collection_title": "Eagleheart",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610514000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341545444-eagleheart_102_bim.jpg",
-        "cma_id": "828248"
     },
     {
         "auth": true,

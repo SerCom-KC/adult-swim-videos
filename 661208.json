@@ -52,6 +52,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447784640,
+        "auth_expiration_date": 1588132740,
+        "tms_id": "EP008994530034",
+        "rating": 8.526765,
+        "description": "Tim and Eric embark on a road trip. James Quall goes Back to Squall. \r\n(Jonah Hill, John C Reilly, Peter Stormare)",
+        "title_suggest": {
+            "input": [
+                "Road Trip",
+                "Trip"
+            ]
+        },
+        "type": "episode",
+        "title": "Road Trip",
+        "expiration_date": 1619582340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 683.65,
+        "episode_number": "6",
+        "original_air_date": 1235971800,
+        "clip_order": null,
+        "auth_launch_date": 1585108800,
+        "modified": 1616355049,
+        "media_id": "242b96814b65868b07ec14c6563c83a4754dd23a",
+        "airing_id": "RADS1003212100083539",
+        "id": "5Tqkjy2-T9KeBLmYVf9brw",
+        "slug": "road-trip",
+        "views": 584687,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161651581-timanderic_406.jpg",
+        "created": 1402945481,
+        "title_id": "751408",
+        "season_number": "4",
+        "tv_rating": "tv-14-ds",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1616355049,
+        "tags": [],
+        "rating_count": 2802,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616558400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651581-timanderic_406.jpg",
+        "cma_id": "1389434"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
         "title_suggest": {
@@ -103,7 +155,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784460,
         "auth_expiration_date": 1619582340,
         "tms_id": "EP008994530029",
@@ -521,57 +573,6 @@
         "launch_date": 1611118800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161624108-timanderic_305.jpg",
         "cma_id": "1344769"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447784400,
-        "auth_expiration_date": 1616558340,
-        "tms_id": "EP008994530024",
-        "rating": 8.114317,
-        "description": "Spagett goes Hollywood, and a friendship is threatened. Love is not always hard.\r\n(John C. Reilly, Brian Posehn, Steve Schirripa)",
-        "title_suggest": {
-            "input": [
-                "Spagett"
-            ]
-        },
-        "type": "episode",
-        "title": "Spagett",
-        "expiration_date": 1613537940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 688.001,
-        "episode_number": "4",
-        "original_air_date": 1219033800,
-        "clip_order": null,
-        "auth_launch_date": 1613538000,
-        "modified": 1614036648,
-        "media_id": "b6283bb20ead3053fc973b96167796c113b7c225",
-        "airing_id": "RADS1002122100073818",
-        "id": "xNgoyUsGQoCiw3cQIB9QfQ",
-        "slug": "spagett",
-        "views": 440147,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161623387-timanderic_304.jpg",
-        "created": 1402945481,
-        "title_id": "723437",
-        "season_number": "3",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614036648,
-        "tags": [],
-        "rating_count": 2624,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610514000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161623387-timanderic_304.jpg",
-        "cma_id": "1340231"
     },
     {
         "auth": true,

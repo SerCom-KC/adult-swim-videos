@@ -357,7 +357,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171500,
         "auth_expiration_date": 1619582340,
         "tms_id": "EP007959510009",
@@ -687,59 +687,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447171380,
-        "auth_expiration_date": 1616558340,
-        "tms_id": "EP007959510002",
-        "rating": 8.125999,
-        "description": "When Reverend Putty preaches the righteousness of helping the poor, Orel befriends a down-and-out crack dealer.",
-        "title_suggest": {
-            "input": [
-                "Charity"
-            ]
-        },
-        "type": "episode",
-        "title": "Charity",
-        "expiration_date": 1613537940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 693.5005005,
-        "episode_number": "3",
-        "original_air_date": 1139202000,
-        "clip_order": null,
-        "auth_launch_date": 1613538000,
-        "modified": 1614033049,
-        "media_id": "130509322d35826b736f861be90dc07102e19721",
-        "airing_id": "RADS1002122100073813",
-        "id": "Y-wDkaWFT1upgydtGlE_tQ",
-        "slug": "charity",
-        "views": 241128,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111551249-moralorel_003.jpg",
-        "created": 1402945470,
-        "title_id": "630820",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614033049,
-        "tags": [
-            "moral orel episode 3 charity drugs crack dealer"
-        ],
-        "rating_count": 865,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610514000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551249-moralorel_003.jpg",
-        "cma_id": "1319108"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447171440,
         "auth_expiration_date": 1617767940,
         "tms_id": "EP007959510005",
@@ -843,5 +790,57 @@
         "launch_date": 1614142800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111553169-moralorel_009.jpg",
         "cma_id": "1345060"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447172100,
+        "auth_expiration_date": 1575435540,
+        "tms_id": "EP007959510014",
+        "rating": 7.727941,
+        "description": "Orel solves puzzling and mysterious capers through the sheer power of his righteous logic.",
+        "title_suggest": {
+            "input": [
+                "Elemental Orel",
+                "Orel"
+            ]
+        },
+        "type": "episode",
+        "title": "Elemental Orel",
+        "expiration_date": 1619582340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 680.1001001,
+        "episode_number": "4",
+        "original_air_date": 1165209300,
+        "clip_order": null,
+        "auth_launch_date": 1572408000,
+        "modified": 1616349948,
+        "media_id": "235b2bfcbee7992ebf662bcc05a5c35a34c2a39a",
+        "airing_id": "RADS1003212100083490",
+        "id": "xtdyH8VnRROEMhcAwFZxYA",
+        "slug": "elemental-orel",
+        "views": 189378,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111557404-moralorel_017.jpg",
+        "created": 1402945470,
+        "title_id": "653297",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1616349948,
+        "tags": [],
+        "rating_count": 544,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616558400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111557404-moralorel_017.jpg",
+        "cma_id": "1365127"
     }
 ]
