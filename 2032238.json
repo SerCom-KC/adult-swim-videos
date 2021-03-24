@@ -1,5 +1,57 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1559746740,
+        "tms_id": "EP020020000033",
+        "description": "Professional Bass Fishing Tournaments are a real thing.",
+        "title_suggest": {
+            "input": [
+                "All About That Bass",
+                "About That Bass",
+                "That Bass",
+                "Bass"
+            ]
+        },
+        "title": "All About That Bass",
+        "type": "episode",
+        "expiration_date": 1619582340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 677,
+        "episode_number": "4",
+        "original_air_date": 1496633400,
+        "clip_order": null,
+        "auth_launch_date": 1556722800,
+        "modified": 1616351140,
+        "media_id": "7d0279fc2fb9c6fd45d8d36dbc9e8d947f4b65d4",
+        "airing_id": "RADS1003212100083496",
+        "id": "-6mMhyzzTcyLcObDwkPJCg",
+        "slug": "all-about-that-bass",
+        "views": 8083,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311153296-miketysonmysteries_304.jpg",
+        "created": 1496297424,
+        "title_id": "2117687",
+        "tv_rating": "tv-14",
+        "season_number": "3",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1616351140,
+        "first_published": 1496297424,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616558400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311153296-miketysonmysteries_304.jpg",
+        "cma_id": "1438047"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1621396740,
@@ -248,7 +300,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1622606340,
         "tms_id": "EP020020000028",
