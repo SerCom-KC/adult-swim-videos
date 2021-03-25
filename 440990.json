@@ -458,56 +458,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1616644740,
-        "tms_id": "EP002960010283",
-        "description": "After Quagmire shows off his cooking skills to the gang, Lois suggests that he audtion for Channel 5's new cooking show.",
-        "title_suggest": {
-            "input": [
-                "Pilling Them Softly",
-                "Them Softly",
-                "Softly"
-            ]
-        },
-        "expiration_date": 1604897940,
-        "title": "Pilling Them Softly",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1298.9676343,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "20",
-        "original_air_date": 1444100400,
-        "clip_order": null,
-        "auth_launch_date": 1616040000,
-        "modified": 1615627346,
-        "media_id": "7a49da08547b9861cf1138f6ebf679e76c0b41f2",
-        "airing_id": "RADS1003122100081986",
-        "id": "kSVnrtUFQwWI1m1ClhAkAQ",
-        "slug": "pilling-them-softly",
-        "views": 7117,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1443645216,
-        "season_number": "13",
-        "title_id": "809301",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1615627346,
-        "first_published": 1475773875,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1604293200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/pilling-them-softly/familyguy_1217_air_cid-2M1KP.jpg",
-        "cma_id": "1480778"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1616731140,
         "tms_id": "EP002960010284",
         "description": "It's nearly Fathers' Day, and when Peter learns about Joe's distant relationship with his father Bud, he invites Bud to town.",
@@ -654,5 +604,54 @@
         "launch_date": 1605502800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-sister/familyguy_1304_air_cid-2XX84.jpg",
         "cma_id": "1446375"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1617249540,
+        "tms_id": "EP002960010294",
+        "description": "With Lois and her mother Babs out at the spa, Peter is forced to spend the afternoon her father, Carter. The two are quickly sucked into a \"promising\" online deal involving loaning a large sum of money to a Nigerian prince.",
+        "title_suggest": {
+            "input": [
+                "Scammed Yankees",
+                "Yankees"
+            ]
+        },
+        "expiration_date": 1607317140,
+        "title": "Scammed Yankees",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1298.9676343,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "9",
+        "original_air_date": 1453780800,
+        "clip_order": null,
+        "auth_launch_date": 1616644800,
+        "modified": 1616355051,
+        "media_id": "b76fbf98e5d988de7cae16c2603dab7744b1fbb6",
+        "airing_id": "RADS1003212100083534",
+        "id": "xGyDNJDeSeSH9b2nifffgg",
+        "slug": "scammed-yankees",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1453407410,
+        "season_number": "14",
+        "title_id": "2064584",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1616355051,
+        "first_published": 1480097471,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1606712400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/scammed-yankees/familyguy_1309_air_cid-2XXDM.jpg",
+        "cma_id": "1460784"
     }
 ]
