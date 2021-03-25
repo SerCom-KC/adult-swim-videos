@@ -255,55 +255,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1616644740,
-        "tms_id": "",
-        "description": "An outdated rule, a basket of law rocks, and Gary stand between a devout barbecue purveyor and eternal damnation.",
-        "title_suggest": {
-            "input": [
-                "Trial by Gary",
-                "by Gary",
-                "Gary"
-            ]
-        },
-        "title": "Trial by Gary",
-        "expiration_date": 1613624340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 675.88,
-        "episode_number": "6",
-        "original_air_date": 1558152900,
-        "auth_launch_date": 1613624400,
-        "clip_order": null,
-        "media_id": "20d0f885c6b189cba280b9336d70c59c6e15e1d0",
-        "modified": 1613205062,
-        "airing_id": "RADS1001082100062165",
-        "slug": "trial-by-gary",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155802479320520.jpg",
-        "created": 1556816611,
-        "season_number": "4",
-        "title_id": "2191440",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1613205062,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610600400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg",
-        "id": "AWp5gEnSHl5gR6828zZS",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1617249540,
         "tms_id": "",
         "description": "Satan finds his new calling, dropping truth bombs on real Americans.",
@@ -496,7 +447,7 @@
         "launch_date": 1613624400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg",
         "id": "AWp5hbdAAScUIg8XxfaF",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -893,6 +844,54 @@
         "launch_date": 1616040000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/jett-copperhead-six-pack-magician/ypf_cc_205_pt2_1.jpg",
         "cma_id": "1393798"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447787100,
+        "tms_id": "EP013726210012",
+        "description": "The demons scramble to find true love and bust themselves outta Hell.",
+        "title_suggest": {
+            "input": [
+                "True Love Will Find You",
+                "Love Will Find You",
+                "Will Find You",
+                "Find You",
+                "You"
+            ]
+        },
+        "expiration_date": 1619668740,
+        "title": "True Love Will Find You",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 680.42,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "4",
+        "original_air_date": 1438575300,
+        "clip_order": null,
+        "modified": 1616362821,
+        "airing_id": "RADS1003212100083574",
+        "media_id": "0250cf49f4efd4688fe2ce7c5f64a85aa8c1b7b3",
+        "id": "_RydenH-RICZySA1lNkRwQ",
+        "slug": "true-love-will-find-you",
+        "views": 33952,
+        "created": 1436294193,
+        "season_number": "2",
+        "title_id": "2062768",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1616362821,
+        "first_published": 1438420910,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1616644800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/true-love-will-find-you/ypf_cc_206_pt1_tia78wdyis0zvq1g_1.jpg",
+        "cma_id": "1397780"
     },
     {
         "auth": false,
