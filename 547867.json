@@ -107,6 +107,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451682240,
+        "auth_expiration_date": null,
+        "tms_id": "EP007008200018",
+        "rating": 8.538468,
+        "description": "The Mayor helps Tom become head coach of Jefferton's Boy's Wrestling Team.",
+        "title_suggest": {
+            "input": [
+                "Wrestling"
+            ]
+        },
+        "type": "episode",
+        "title": "Wrestling",
+        "expiration_date": 1619755140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 697.43,
+        "episode_number": "3",
+        "original_air_date": 1151901000,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1616362822,
+        "airing_id": "RADS1003212100083572",
+        "media_id": "99b57ab9b3ce4d1b3f7f8138f207391356fc4122",
+        "id": "NtmDAKF2SYOZhgcWwRXg4g",
+        "slug": "wrestling",
+        "views": 133911,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117953454-tgttm_016.jpg",
+        "created": 1402945482,
+        "title_id": "629807",
+        "season_number": "2",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1616362822,
+        "tags": [
+            "tom goes to the mayor episode 16 wrestling team"
+        ],
+        "rating_count": 455,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616731200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953454-tgttm_016.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451682900,
         "auth_expiration_date": null,
         "tms_id": "EP007008200016",
@@ -372,60 +424,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1451682900,
-        "auth_expiration_date": 1616731140,
-        "tms_id": "EP007008200008",
-        "rating": 8.280936,
-        "description": "After the Mayor is caught in a dirty sex scandal Tom is brought in to be his PR man.  In order to boost the Mayor's public opinion they enter into a local hot air balloon challenge.  Special Guest:  Bob Odenkirk.",
-        "title_suggest": {
-            "input": [
-                "Boy Meets Mayor",
-                "Meets Mayor",
-                "Mayor"
-            ]
-        },
-        "type": "episode",
-        "title": "Boy Meets Mayor",
-        "expiration_date": 1613710740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 703.27,
-        "episode_number": "8",
-        "original_air_date": 1115006400,
-        "clip_order": null,
-        "auth_launch_date": 1613710800,
-        "modified": 1614033652,
-        "airing_id": "RADS1002122100073864",
-        "media_id": "c05eabab9b91a26db36128425604d324749c998b",
-        "id": "pDHGdDC3TG-iFQzPnP2Mag",
-        "slug": "boy-meets-mayor",
-        "views": 93968,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117836424-tgttm_008.jpg",
-        "created": 1402945482,
-        "title_id": "612654",
-        "season_number": "1",
-        "tv_rating": "tv-pg-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1614033652,
-        "tags": [
-            "tom goes to the mayor tgttm episode 8 boy meets mayor sex scandal pr bob odenkirk hot air balloon"
-        ],
-        "rating_count": 299,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610686800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836424-tgttm_008.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1451682000,
         "auth_expiration_date": 1619755140,
         "tms_id": "EP007008200011",
