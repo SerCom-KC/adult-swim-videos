@@ -2,198 +2,126 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 26, 2021 at 00:30:28 EDT_
+_Last Update: March 27, 2021 at 00:30:23 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 3  
 2003422 Bob's Burgers: 2  
-798427 Check It Out! with Dr. Steve Brule: 1  
 440990 Family Guy: 2  
-2132025 The Jellies: 1  
-547867 Tom Goes To The Mayor: 1  
-691917 Xavier: Renegade Angel: 1  
-### 2069574
-**American Dad S13E21 - Fleabiscuit**  
+### 2186650
+**American Dad S14E01 - Fantasy Baseball**  
 TV-14-DLSV 🔒 21:02  
-⌛ April 1, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fleabiscuit  
-seriesid=`581006` titleid=`2069574` id=`AWW1ThNNh5enQuYyIFlW` mediaid=`da0debc4296f7b27876622978a9fa80b395c0283`  
-_Hayley feels left behind after Jeff becomes a star dog racing coach. Steve takes advantage of an empty house._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg" height="144px" /></a>
-### 2069573
-**American Dad S13E20 - Funnyish Games**  
-TV-14-DLV 🔒 21:03  
-⌛ April 1, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/funnyish-games  
-seriesid=`581006` titleid=`2069573` id=`AWW0uqDNh5enQuYyIFVG` mediaid=`c81520ce79be1171f04e86b25d87dc708fe1e67c`  
-_Francine becomes obsessed with home security after a break in. Steve tries Hayley's laidback approach to school work._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg" height="144px" /></a>
-### 2069575
-**American Dad S13E22 - The Future Is Borax**  
-TV-14-DLSV 🔒 21:03  
-⌛ April 1, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-future-is-borax  
-seriesid=`581006` titleid=`2069575` id=`AWqX3a3lCorLtcgflqRB` mediaid=`d200111469c32e4a3aaca740b27819c842baadbf`  
-_While trying to rekindle their marriage, Stan and Francine get trapped on a hot air balloon. The rest of the family wins a jingle writing contest._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg" height="144px" /></a>
-### 2003427
-**Bob's Burgers S01E05 - Hamburger Dinner Theater**  
-TV-PG 🔒 21:16  
-⌛ April 1, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/hamburger-dinner-theater  
-seriesid=`2003422` titleid=`2003427` id=`fiET6YUKQF66U8IFgneXWQ` mediaid=`e16606aaa61acf8500480a4b7bf17289cd886f57`  
-_Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg" height="144px" /></a>
-### 2003428
-**Bob's Burgers S01E06 - Sheesh! Cab, Bob?**  
-TV-PG 🔒 21:34  
-⌛ April 1, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/sheesh-cab-bob  
-seriesid=`2003422` titleid=`2003428` id=`Z-2JQXrqSduNuyz2syFZpQ` mediaid=`d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95`  
-_Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg" height="144px" /></a>
-### 887731
-**Check It Out! with Dr. Steve Brule S02E04 - Space**  
-TV-14-DS 🔓 11:16  
-⌛ April 29, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/space  
-seriesid=`798427` titleid=`887731` id=`vt2TyC8QQZyfvMUA98CR0A` mediaid=`db4dc1a3efeaea697646e2023586accb3bf2c7ba`  
-_Dr. Steve learns about the universe. Movie Reviews with Terry Bruge-Hiplo. Guest Starring Tim Heidecker and Eric Wareheim._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_203216155-checkitout_204_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_203216155-checkitout_204_bim.jpg" height="144px" /></a>
-### 2064587
-**Family Guy S14E12 - An App a Day**  
-TV-14 🔒 21:40  
-⌛ April 1, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/an-app-a-day  
-seriesid=`440990` titleid=`2064587` id=`fYDMbEwEQxGqsEzZ4V8nvA` mediaid=`5b0cbf45e0ebbfa322310220b5d725e1e89f54f0`  
-_After Peter damages his phone in the shower playing with apps, he gives it to Chris. Chris uses his new phone to send a not-safe-for-school picture to his crush Marcy._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/an-app-a-day/familyguy_1312_air_cid-2XXDT.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/an-app-a-day/familyguy_1312_air_cid-2XXDT.jpg" height="144px" /></a>
-### 2064588
-**Family Guy S14E15 - Underage Peter**  
-TV-14 🔒 21:41  
-⌛ April 1, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/underage-peter  
-seriesid=`440990` titleid=`2064588` id=`pkYPWvxZRWKJqb_9FFeBxQ` mediaid=`a2c2630e91d827e68c6d6f5a868ebc765077df35`  
-_A drunk Peter drinks water from a fire hydrant; but when the water overflows, Peter ends up destroying the public library.  As a result of Peter's drunken hijinks, Major Adam West raises the legal drinking age to fifty._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg" height="144px" /></a>
-### 2191421
-**The Jellies S02E09 - Walla Walla Wallabees B**  
-TV-MA 🔓 10:49  
-⌛ April 29, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-jellies/walla-walla-wallabees-b  
-seriesid=`2132025` titleid=`2191421` id=`AWmWXv_pHl5gR6828y3Y` mediaid=`89b64122d0e12cc7804dd2b327f3aa15e382e470`  
-_Cornell's high school is under seige._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156106128465713.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156106128465713.jpg" height="144px" /></a>
-### 629807
-**Tom Goes To The Mayor S02E03 - Wrestling**  
-TV-14-L 🔓 11:37  
-⌛ April 29, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/wrestling  
-seriesid=`547867` titleid=`629807` id=`NtmDAKF2SYOZhgcWwRXg4g` mediaid=`99b57ab9b3ce4d1b3f7f8138f207391356fc4122`  
-_The Mayor helps Tom become head coach of Jefferton's Boy's Wrestling Team._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953454-tgttm_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953454-tgttm_016.jpg" height="144px" /></a>
-### 747218
-**Xavier: Renegade Angel S02E08 - Kharmarabionic Lotion**  
-TV-MA 🔓 11:29  
-⌛ April 29, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/xavier-renegade-angel/kharmarabionic-lotion  
-seriesid=`691917` titleid=`747218` id=`EeNgHZH_SvGT_5ZjwZlfRA` mediaid=`7746c0449ed57dc491ad2d8cb219b2c301b7436a`  
-_A reporter gets his scoop on Xavier.  Here cometh the twist: It turns out to be a scoop of Lotion.  It's pretty cool.  Or, did he?_  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141732370-xavier_208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141732370-xavier_208.jpg" height="144px" /></a>
+⌛ April 2, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/fantasy-baseball  
+seriesid=`581006` titleid=`2186650` id=`AWjyVXZRAScUIg8XxdOH` mediaid=`596ffacb60795401af5fffdf6d1a3213ee6bb519`  
+_A CIA agent will do anything to protect his homeland and family._  
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg" height="144px" /></a>
+### 2186651
+**American Dad S14E02 - I Am The Jeans: The Gina Lavetti Story**  
+TV-14-DLV 🔒 21:02  
+⌛ April 2, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/i-am-the-jeans-the-gina-lavetti-story  
+seriesid=`581006` titleid=`2186651` id=`AWjyUKXnHl5gR6828yeL` mediaid=`a295465726db5a96b4c3e6f3ce151fbf0a9539b1`  
+_A CIA agent will do anything to protect his homeland and family._  
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg" height="144px" /></a>
+### 2186652
+**American Dad S14E03 - Stan & Francine & Connie & Ted**  
+TV-14-DLSV 🔒 21:02  
+⌛ April 2, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stan-francine-connie-ted  
+seriesid=`581006` titleid=`2186652` id=`AWjyT5XbAScUIg8XxdOE` mediaid=`5fa6fc2b56f1f6cb2eaa2c01406cb0f8f8822215`  
+_A CIA agent will do anything to protect his homeland and family._  
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg" height="144px" /></a>
+### 2003430
+**Bob's Burgers S01E08 - Art Crawl**  
+TV-14 🔒 21:32  
+⌛ April 2, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/art-crawl  
+seriesid=`2003422` titleid=`2003430` id=`Cy0lgbZFSg-5BlAVxPmVlw` mediaid=`7a16bff0a13713f66441a6183cb17dd8f43d3379`  
+_When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg" height="144px" /></a>
+### 2003429
+**Bob's Burgers S01E07 - Bed & Breakfast**  
+TV-14 🔒 21:35  
+⌛ April 2, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/bed-breakfast  
+seriesid=`2003422` titleid=`2003429` id=`3IyKle5KTkmV2gK-NLiAhQ` mediaid=`331d877c5b9ce878fabf44979699c674714437f4`  
+_With a long weekend approaching, Linda sees an opportunity to capitalize on the tourist traffic by turning their home into a bed and breakfast. As usual, she goes overboard and gets a little crazy when her efforts aren't appreciated._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088796942016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088796942016.jpg" height="144px" /></a>
+### 2064586
+**Family Guy S14E23 - A Lot Going on Upstairs**  
+TV-14-DLSV 🔒 21:41  
+⌛ April 2, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/a-lot-going-on-upstairs  
+seriesid=`440990` titleid=`2064586` id=`1gNqAR65QOGAVfnpxNiQLg` mediaid=`374e7d0b4cea2644356195ebdda88f7ac5e9d278`  
+_After hearing that Stewie has been having nightmares, Brian decides to help.  He tries to cure Stewie by making a list of Stewie's fears and using exposure therapy to deal with them._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/a-lot-going-on-upstairs/familyguy_1311_air_cid-2XXDN.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/a-lot-going-on-upstairs/familyguy_1311_air_cid-2XXDN.jpg" height="144px" /></a>
+### 2064589
+**Family Guy S14E16 - The Heartbreak Dog**  
+TV-14-DLSV 🔒 21:39  
+⌛ April 2, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/the-heartbreak-dog  
+seriesid=`440990` titleid=`2064589` id=`K79gVGUWTDmpPToM46gNnQ` mediaid=`44469797e24af99b2f7b73b8422df732082af92a`  
+_During a birthday party for Bonnie at the Swanson's, Brian spots Bonnie sitting alone in her bedroom looking very sad. She opens up to Brian, telling him that she feels like she's wasted much of her adult life taking care of Joe._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-heartbreak-dog/familyguy_1314_air_cid-2YN63.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-heartbreak-dog/familyguy_1314_air_cid-2YN63.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
-2132025 The Jellies: 1  
 440990 Family Guy: 2  
-547867 Tom Goes To The Mayor: 1  
 581006 American Dad: 3  
-691917 Xavier: Renegade Angel: 1  
-798427 Check It Out! with Dr. Steve Brule: 1  
-### 2171456
-**Bob's Burgers S08E16 - Are You There Bob? It's Me Birthday**  
-TV-PG-LV 🔒 21:39  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/are-you-there-bob-its-me-birthday  
-seriesid=`2003422` titleid=`2171456` id=`AWgaeE-hAScUIg8Xxbmv` mediaid=`4e4692394c78f2d813c1bfa01a2eb77ea9af5270`  
-_After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15489649010681.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15489649010681.jpg" height="144px" /></a>
-### 2171457
-**Bob's Burgers S08E17 - Boywatch**  
-TV-PG-L 🔒 21:41  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/boywatch  
-seriesid=`2003422` titleid=`2171457` id=`AWlyRK-eAScUIg8Xxd78` mediaid=`dc02c49b35f4dcc44deed10266f3a480daca6fb1`  
-_Tina decides to join the Junior Lifeguards, but one of her fellow junior guards tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg" height="144px" /></a>
-### 2132033
-**The Jellies S01E08 - Trial of the Century**  
-TV-14-L 🔒 11:16  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-jellies/trial-of-the-century  
-seriesid=`2132025` titleid=`2132033` id=`JiRXBcJ-Sqq0QC6OZr2bsA` mediaid=`59eb9385752a0ec33987e4933cd837984cdfd7e0`  
-_Two hip hop artists face off in a historic court case in civil court._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130122078113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130122078113.jpg" height="144px" /></a>
-### 2064577
-**Family Guy S14E02 - Guy, Robot**  
-TV-14-DLSV 🔒 21:40  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/guy-robot  
-seriesid=`440990` titleid=`2064577` id=`RAsk22suQ9yV8VE-zt_oVQ` mediaid=`328552a36ca60f04a6b85d39645f504a594f1b37`  
-_Brian decides to do stand up comedy, but when his set begins to tank, he starts stealing Stewie's Twitter material._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/guy-robot/familyguy_1302_air_cid-2M6R4.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/guy-robot/familyguy_1302_air_cid-2M6R4.jpg" height="144px" /></a>
-### 809302
-**Family Guy S13E22 - Papa Has a Rollin' Son**  
+### 2171458
+**Bob's Burgers S08E18 - As I Walk Through the Alley of the Shadow of Ramps**  
+TV-PG-L 🔒 21:36  
+⌛ March 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/as-i-walk-through-the-alley-of-the-shadow-of-ramps  
+seriesid=`2003422` titleid=`2171458` id=`AWhYh5S3Hl5gR6828x2Q` mediaid=`a924b62b2974763a32b68f1a60caef5524dbbdea`  
+_When a malicious juice truck owner tries to set up shop in the Belcher's alley, Louise devises a plan to win back their turf. Meanwhile, Linda learns that she can't always run to her sister's defense._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg" height="144px" /></a>
+### 2171459
+**Bob's Burgers S08E19 - Mo Mommy Mo Problems**  
+TV-PG-DLV 🔒 21:38  
+⌛ March 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/mo-mommy-mo-problems  
+seriesid=`2003422` titleid=`2171459` id=`AWjywFQVHl5gR6828yeS` mediaid=`18d43b0b9bcb6f90ebb3cfcc2fa51344fa05d201`  
+_The Belchers attend open houses for the free food, per Linda's "momnipotent" Mother's Day request. When Linda meets a real estate agent and agrees to a private showing, the family ends up at the helm of a real estate scheme._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155085074712611.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155085074712611.jpg" height="144px" /></a>
+### 2064578
+**Family Guy S14E03 - Peter, Chris, & Brian**  
+TV-14-DLSV 🔒 21:42  
+⌛ March 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/peter-chris-brian  
+seriesid=`440990` titleid=`2064578` id=`61Y8OOmVSoGUKMyCKiUbGg` mediaid=`ae36e83ca218617e91a3a3fc900e47b58f38219b`  
+_After learning his childhood home has finally been sold after his mother’s death, Peter and the gang plan on breaking in to retrieve Peter’s old porn video collection._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/peter-chris-brian/familyguy_1303_air_cid-2XX7N.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/peter-chris-brian/familyguy_1303_air_cid-2XX7N.jpg" height="144px" /></a>
+### 809300
+**Family Guy S13E19 - Peternormal Activity**  
 TV-14-DLSV 🔒 21:39  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/papa-has-a-rollin-son  
-seriesid=`440990` titleid=`809302` id=`t27qtYTfTBiQ41uuL_AXpw` mediaid=`c7672afaaf8df3a657d3ad3b10f6fcc8a0a7d903`  
-_It's nearly Fathers' Day, and when Peter learns about Joe's distant relationship with his father Bud, he invites Bud to town._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg" height="144px" /></a>
-### 612654
-**Tom Goes To The Mayor S01E08 - Boy Meets Mayor**  
-TV-PG-D 🔒 11:43  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/boy-meets-mayor  
-seriesid=`547867` titleid=`612654` id=`pDHGdDC3TG-iFQzPnP2Mag` mediaid=`c05eabab9b91a26db36128425604d324749c998b`  
-_After the Mayor is caught in a dirty sex scandal Tom is brought in to be his PR man.  In order to boost the Mayor's public opinion they enter into a local hot air balloon challenge.  Special Guest:  Bob Odenkirk._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836424-tgttm_008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836424-tgttm_008.jpg" height="144px" /></a>
-### 2069558
-**American Dad S13E05 - (You Gotta) Strike for Your Right**  
-TV-14-DLSV 🔓 21:02  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/you-gotta-strike-for-your-right  
-seriesid=`581006` titleid=`2069558` id=`AWBGCJbQwdpKFAKSb0FQ` mediaid=`1de57ad7b65fa747c811f1d1bfc0ae638219da07`  
-_Hayley witnesses harsh working conditions at the CIA and encourages action._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg" height="144px" /></a>
-### 2069557
-**American Dad S13E04 - The Mural of the Story**  
-TV-14-DLSV 🔓 21:02  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-mural-of-the-story  
-seriesid=`581006` titleid=`2069557` id=`HaM_sE0HSDqPRAv4ZnXN5g` mediaid=`5a836cfd83e71e2a3d6a031f1f85d373681dd25c`  
-_Hayley becomes a town outcast after Stan ruins a town mural. Steve attends clown school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg" height="144px" /></a>
-### 2069556
-**American Dad S13E03 - Shell Game**  
-TV-14-DL 🔓 21:02  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/shell-game  
-seriesid=`581006` titleid=`2069556` id=`b6xubpzsSNO_D8tVF4hB2A` mediaid=`1a31d701708436ebec1205201d34233c142d476f`  
-_Steve sets out to stop Roger after he joins a mysterious order. Francine buys a new pasta sauce and the family starts changing._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg" height="144px" /></a>
-### 693203
-**Xavier: Renegade Angel S01E08 - Escape from Squatopian Freedom**  
-TV-MA 🔓 11:29  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/xavier-renegade-angel/escape-from-squatopian-freedom  
-seriesid=`691917` titleid=`693203` id=`Zx9dxvMURdapQyHKP5-9fw` mediaid=`d720445c4619910e904e8c11175ca0001f352d38`  
-_When Xavier's significant Crystal is stoled, he is forced to venture forth._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141729294-xavier_108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141729294-xavier_108.jpg" height="144px" /></a>
-### 2087968
-**Check It Out! with Dr. Steve Brule S04E06 - Crime**  
-TV-14-L 🔓 11:17  
-⌛ March 25, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/crime  
-seriesid=`798427` titleid=`2087968` id=`kipGdHuuSA6BqSBtCY08Ng` mediaid=`3284c0cb8b4e2a3b5f2f67d47faabe88d82f6402`  
-_Dr. Steven Brule investigates what crime is also if crime pays?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321621344-checkitout_406_dup-20160321.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321621344-checkitout_406_dup-20160321.jpg" height="144px" /></a>
+⌛ March 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/peternormal-activity  
+seriesid=`440990` titleid=`809300` id=`tA_bbu2KQx6N1rHWhJTT8g` mediaid=`029eee6409ba58417ae670864a508b10febf5d8f`  
+_After watching a bad sequel to their favorite horror film, "Maniac Pope", Peter and the guys decide they could write a better scary movie themselves._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/peternormal-activity/familyguy_1216_air_cid-2XX7M.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/peternormal-activity/familyguy_1216_air_cid-2XX7M.jpg" height="144px" /></a>
+### 2069561
+**American Dad S13E08 - Santa, Schmanta**  
+TV-14-DLV 🔒 21:02  
+⌛ March 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/santa-schmanta  
+seriesid=`581006` titleid=`2069561` id=`AWBGBvYswdpKFAKSb0FM` mediaid=`6aa8247b1afbf690eeefce7bc6e77a755e93cd3a`  
+_Roger turns his attention to Steve's friend Snot who teaches him about Hanukkah, prompting him to convert to Judaism. Roger then decides to make Hanukkah more popular than Christmas by stealing Santa's powers, and becoming Schmanta Claus._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg" height="144px" /></a>
+### 2069560
+**American Dad S13E07 - Death by Dinner Party**  
+TV-14-DLV 🔒 21:03  
+⌛ March 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/death-by-dinner-party  
+seriesid=`581006` titleid=`2069560` id=`AWHnfcH0NWyh42wYnlIQ` mediaid=`3b8b5bcf8d34b1784b9bb91cce36aa62ccd880e9`  
+_Francine's dinner party goes awry when the mysterious Dinner Party Killer threatens it and the family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg" height="144px" /></a>
+### 2069559
+**American Dad S13E06 - Klaustastrophe.tv**  
+TV-14-DLSV 🔒 21:02  
+⌛ March 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/klaustastrophe-tv  
+seriesid=`581006` titleid=`2069559` id=`AWHnfmza0KIGIdXCKzuM` mediaid=`b097c66fe3a817effdd244ffc3182fb7cbeb1ccf`  
+_Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg" height="144px" /></a>
