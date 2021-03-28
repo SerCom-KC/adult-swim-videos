@@ -44,6 +44,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1618739940,
+        "tms_id": "",
+        "description": "Disaster strikes on a morning like none other and it's hard to tell friend from foe. Akane seems to have all but given up, but Alexis has other plans in store.",
+        "title_suggest": {
+            "input": [
+                "Decisive Battle",
+                "Battle"
+            ]
+        },
+        "title": "Decisive Battle",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXbO6qqIbxpjZvbXYl08",
+        "duration": 1326.5586,
+        "episode_number": "11",
+        "original_air_date": null,
+        "auth_launch_date": 1616925600,
+        "clip_order": null,
+        "airing_id": "RADS1003232100083809",
+        "media_id": "38ab22ab360818d384652753ac03bd1a31ce4569",
+        "modified": 1616540714,
+        "slug": "decisive-battle",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171337181-SSSS_Gridman_011.jpg",
+        "created": 1610044640,
+        "season_number": "1",
+        "title_id": "2236262",
+        "tv_rating": "tv-14-v",
+        "published": 1616540714,
+        "tags": [],
+        "collection_title": "SSSS Gridman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171337181-SSSS_Gridman_011.jpg",
+        "id": "AXbeI40DbxpjZvbXYl6y",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1620100740,
         "tms_id": "EP030808360001",
         "description": "Yuta Hibiki wakes up in the home of his classmate, Rikka Takarada, with amnesia. A voice from an old computer, identifying himself as \"Gridman,\" has a mission for him, but can he even survive the next day of school without his memories?",
@@ -350,50 +395,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336316-SSSS_Gridman_007.jpg",
         "id": "AXbeItbmbxpjZvbXYl6w",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1616925540,
-        "tms_id": "",
-        "description": "When the Tsutsujidai High School Festival is threatened, the Gridman Alliance must decide how to proceed. Some of them wonder if fighting is the only choice they have.",
-        "title_suggest": {
-            "input": [
-                "Confrontation"
-            ]
-        },
-        "title": "Confrontation",
-        "expiration_date": 1618138740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AXbO6qqIbxpjZvbXYl08",
-        "duration": 1377.9766,
-        "episode_number": "8",
-        "original_air_date": null,
-        "auth_launch_date": 1615114800,
-        "clip_order": null,
-        "airing_id": "RADS1003022100078244",
-        "media_id": "584fadb2bd67d5deeddad80d39a4369ef11f7a66",
-        "modified": 1616540114,
-        "slug": "confrontation",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171336463-SSSS_Gridman_008.jpg",
-        "created": 1610044609,
-        "season_number": "1",
-        "title_id": "2236259",
-        "tv_rating": "tv-14-l",
-        "published": 1616540114,
-        "tags": [],
-        "collection_title": "SSSS Gridman",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1616929200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336463-SSSS_Gridman_008.jpg",
-        "id": "AXbeIxIHbxpjZvbXYl6x",
-        "auth": true
     },
     {
         "auth_expiration_date": 1617533940,
