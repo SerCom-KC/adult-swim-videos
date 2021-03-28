@@ -978,6 +978,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1626143340,
+        "tms_id": "",
+        "description": "Gary and Quinn encounter Earth\u2019s last survivor and search for a ship so that they can save the others lost in Final Space.",
+        "title_suggest": {
+            "input": [
+                "The Hidden Light",
+                "Hidden Light",
+                "Light"
+            ]
+        },
+        "title": "The Hidden Light",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWoJjOfPHl5gR6828zOv",
+        "duration": 1261.4268,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1616898600,
+        "clip_order": null,
+        "airing_id": "RADS1003232100083796",
+        "media_id": "b25739fdca86fc9330d07a6552b8f3746ae72fda",
+        "modified": 1616785831,
+        "slug": "the-hidden-light",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/1_212231052336-finalspace_302_air_cid-NT54K.jpg",
+        "created": 1614095564,
+        "season_number": "3",
+        "title_id": "2241626",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1616785831,
+        "tags": [],
+        "collection_title": "Final Space",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231052336-finalspace_302_air_cid-NT54K.jpg",
+        "id": "AXfPl744bxpjZvbXYmYG",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Trapped in Final Space, The Team Squad confronts the horrors of Invictus and the Titans and now the only thing that matters is survival.",
