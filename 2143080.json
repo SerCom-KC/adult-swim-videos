@@ -4082,53 +4082,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1616923740,
-        "tms_id": "",
-        "description": "Julius enlists the aid of an expert in dark magic items and sends two Magic Knight captains to investigate reports of bandits near a distant village.",
-        "title_suggest": {
-            "input": [
-                "A Favor for Julius",
-                "Favor for Julius",
-                "for Julius",
-                "Julius"
-            ]
-        },
-        "title": "A Favor for Julius",
-        "expiration_date": 1618136940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AV-7K77EZ-onAnjDLtBM",
-        "duration": 1339.1712,
-        "episode_number": "37",
-        "original_air_date": null,
-        "auth_launch_date": 1615113000,
-        "clip_order": null,
-        "airing_id": "RADS1003022100078243",
-        "media_id": "9ec96e7d8d76e1ccec6c0e186ae79cc57335007e",
-        "modified": 1616539262,
-        "slug": "a-favor-for-julius",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/1_211261034478-BlackClover_140_FavorForJulius.jpg",
-        "created": 1611675294,
-        "season_number": "3",
-        "title_id": "2238508",
-        "tv_rating": "tv-pg",
-        "published": 1616539262,
-        "tags": [],
-        "collection_title": "Black Clover",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1616927400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261034478-BlackClover_140_FavorForJulius.jpg",
-        "id": "AXc_VV0JQJ_4Uej5kToT",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1618133340,
         "tms_id": "",
         "description": "A group of masked vigilantes calling themselves the Devil Vanishers is ambushing and abducting those they believe to be in service to the devil.",
@@ -4171,6 +4124,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130349-BlackClover_142_dup-20210122_ThoseRemaining.jpg",
         "id": "AXdjlOgHQJ_4Uej5kTpk",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1618738140,
+        "tms_id": "",
+        "description": "Asta is in a deep sleep as a contingent of Black Bulls searches for the kidnapped Marie and Secre. Julius offers both a promising lead and a warning.",
+        "title_suggest": {
+            "input": [
+                "The Tilted Scale",
+                "Tilted Scale",
+                "Scale"
+            ]
+        },
+        "title": "The Tilted Scale",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1280.2456,
+        "episode_number": "41",
+        "original_air_date": null,
+        "auth_launch_date": 1616923800,
+        "clip_order": null,
+        "airing_id": "RADS1003232100083812",
+        "media_id": "2ff2ce87f4a1a8ca0a41b4a5222d6f93c4602a47",
+        "modified": 1616540714,
+        "slug": "the-tilted-scale",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210202/thumbnails/1_21221130556-BlackClover_143_dup-20210122_TiltedScale.jpg",
+        "created": 1612283475,
+        "season_number": "3",
+        "title_id": "2238511",
+        "tv_rating": "tv-pg-l",
+        "published": 1616540714,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130556-BlackClover_143_dup-20210122_TiltedScale.jpg",
+        "id": "AXdjlXTqQJ_4Uej5kTpl",
         "auth": true
     },
     {
