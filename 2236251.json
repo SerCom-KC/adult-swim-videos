@@ -350,7 +350,7 @@
         "launch_date": 1615719600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336186-SSSS_Gridman_006.jpg",
         "id": "AXbeIqMUQJ_4Uej5kTkG",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1616320740,
@@ -394,6 +394,50 @@
         "launch_date": 1616324400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336316-SSSS_Gridman_007.jpg",
         "id": "AXbeItbmbxpjZvbXYl6w",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1616925540,
+        "tms_id": "",
+        "description": "When the Tsutsujidai High School Festival is threatened, the Gridman Alliance must decide how to proceed. Some of them wonder if fighting is the only choice they have.",
+        "title_suggest": {
+            "input": [
+                "Confrontation"
+            ]
+        },
+        "title": "Confrontation",
+        "expiration_date": 1618138740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXbO6qqIbxpjZvbXYl08",
+        "duration": 1377.9766,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1615114800,
+        "clip_order": null,
+        "airing_id": "RADS1003022100078244",
+        "media_id": "584fadb2bd67d5deeddad80d39a4369ef11f7a66",
+        "modified": 1616540114,
+        "slug": "confrontation",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171336463-SSSS_Gridman_008.jpg",
+        "created": 1610044609,
+        "season_number": "1",
+        "title_id": "2236259",
+        "tv_rating": "tv-14-l",
+        "published": 1616540114,
+        "tags": [],
+        "collection_title": "SSSS Gridman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1616929200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171336463-SSSS_Gridman_008.jpg",
+        "id": "AXbeIxIHbxpjZvbXYl6x",
         "auth": false
     },
     {
