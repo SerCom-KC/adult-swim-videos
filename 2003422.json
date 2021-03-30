@@ -102,54 +102,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1617076740,
-        "tms_id": "EP012792980002",
-        "description": "When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever.",
-        "title_suggest": {
-            "input": [
-                "Crawl Space",
-                "Space"
-            ]
-        },
-        "title": "Crawl Space",
-        "type": "episode",
-        "expiration_date": 1597636740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.4559,
-        "episode_number": "2",
-        "original_air_date": 1372125600,
-        "clip_order": null,
-        "auth_launch_date": 1616472000,
-        "modified": 1616046594,
-        "media_id": "3cb82ec5aa600492a3760a3298972f1c815f6e0c",
-        "airing_id": "RADS1003172100082718",
-        "id": "7CPkiayCT7q_siDtFOqY8Q",
-        "slug": "crawl-space",
-        "views": 5411,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088768414119.jpg",
-        "created": 1402888830,
-        "title_id": "2003424",
-        "tv_rating": "tv-pg",
-        "season_number": "1",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616046594,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1597032000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg",
-        "cma_id": "1489605"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1617422340,
         "tms_id": "EP012792980008",
         "description": "When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant.",
@@ -245,6 +197,53 @@
         "launch_date": 1598846400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148399784520.jpg",
         "cma_id": "1494519"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1617681540,
+        "tms_id": "EP012792980013",
+        "description": "Bob's hero, a washed-up professional baseball player named Torpedo Jones, starts pitching for the local minor league team. Torpedo befriends the Belcher's, and Bob is ecstatic until he finds out about the dark underbelly of baseball.",
+        "title_suggest": {
+            "input": [
+                "Torpedo"
+            ]
+        },
+        "expiration_date": 1600055940,
+        "title": "Torpedo",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1295.8946,
+        "episode_number": "13",
+        "original_air_date": 1375671600,
+        "clip_order": null,
+        "auth_launch_date": 1617076800,
+        "modified": 1616648786,
+        "media_id": "502acd2ca2ada6b3e16a4441c6cf7c44670a0404",
+        "airing_id": "RADS1003252100084045",
+        "id": "R3MRmrsRS2mJVaeKqfu2CA",
+        "slug": "torpedo",
+        "views": 1,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148406309113.jpg",
+        "created": 1403210021,
+        "season_number": "1",
+        "title_id": "2003435",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616648786,
+        "first_published": 1405916428,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1599451200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148406309113.jpg",
+        "cma_id": "1496229"
     },
     {
         "auth": true,
