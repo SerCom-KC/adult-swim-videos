@@ -52,6 +52,57 @@
         "cma_id": "1427468"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1446576840,
+        "auth_expiration_date": 1603771140,
+        "tms_id": "EP019635740013",
+        "description": "When Vic misinterprets the gang's latest hustle as terrorist activity, he gears up to wage a one-man war against them.",
+        "title_suggest": {
+            "input": [
+                "False Witness",
+                "Witness"
+            ]
+        },
+        "expiration_date": 1620100740,
+        "title": "False Witness",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 1317.6672227,
+        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
+        "episode_number": "3",
+        "original_air_date": 1443841200,
+        "clip_order": null,
+        "auth_launch_date": 1600747200,
+        "modified": 1616651476,
+        "media_id": "32186c11887f6d68cd2ae517ed031b80bcf7d7e6",
+        "airing_id": "RADS1003252100084037",
+        "id": "4zHadcClTG-MCR4fMZ9hMQ",
+        "slug": "false-witness",
+        "views": 6,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261711392-blackjesus_207_dup-20150924.jpg",
+        "created": 1441735726,
+        "season_number": "2",
+        "title_id": "2065416",
+        "tv_rating": "tv-ma-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1616651476,
+        "first_published": 1443619218,
+        "tags": [],
+        "collection_title": "Black Jesus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617076800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261711392-blackjesus_207_dup-20150924.jpg",
+        "cma_id": "1461839"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1443383820,
         "auth_expiration_date": 1618891140,
@@ -104,58 +155,6 @@
         "launch_date": 1612846800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226177264-blackjesus_006_dup-20140730.jpg",
         "cma_id": "1430439"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1443383520,
-        "auth_expiration_date": 1617076740,
-        "tms_id": "EP019635740003",
-        "description": "After being extorted by Mexican gangsters, our heroes are left with no money for fertilizer for their garden, so they must execute a manure heist at the Compton Boarding Stables.",
-        "title_suggest": {
-            "input": [
-                "The S*** Heist",
-                "S*** Heist",
-                "Heist"
-            ]
-        },
-        "title": "The S*** Heist",
-        "type": "episode",
-        "expiration_date": 1614056340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Mg-VjYmzQPiuqDAuwK0Auw",
-        "duration": 1278.8340284,
-        "episode_number": "3",
-        "original_air_date": 1408676400,
-        "clip_order": null,
-        "auth_launch_date": 1614056400,
-        "modified": 1613631000,
-        "media_id": "75d067caf1bfb0dc4c6cffb9904ca8bad5112358",
-        "airing_id": "RADS1001152100064056",
-        "id": "9fuLD94HQauorL20nbsnyw",
-        "slug": "the-s-heist",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_2022617667-blackjesus_003_dup-20140724.jpg",
-        "created": 1408724040,
-        "season_number": "1",
-        "title_id": "2031267",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1613631000,
-        "first_published": 1408724040,
-        "tags": [],
-        "collection_title": "Black Jesus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611032400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_2022617667-blackjesus_003_dup-20140724.jpg",
-        "cma_id": "1418268"
     },
     {
         "ott_launch_date": null,
@@ -476,7 +475,7 @@
         "cma_id": "1422291"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1443384060,
         "auth_expiration_date": 1620100740,
         "tms_id": "EP019635740008",
