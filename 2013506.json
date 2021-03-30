@@ -6406,6 +6406,56 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Now you can start asking us about season 6. Rick and Morty returns for season 5 on Sunday, June 20 at 11pm ET/PT on Adult Swim.",
+        "title_suggest": {
+            "input": [
+                "Rick and Morty Season 5 Uncensored Trailer!",
+                "and Morty Season 5 Uncensored Trailer!",
+                "Morty Season 5 Uncensored Trailer!",
+                "Season 5 Uncensored Trailer!",
+                "5 Uncensored Trailer!",
+                "Uncensored Trailer!",
+                "Trailer!"
+            ]
+        },
+        "title": "Rick and Morty Season 5 Uncensored Trailer!",
+        "expiration_date": 1624248000,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 0,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "mecb54eafe66b36b7fa60699d72698d4bcca90a5fd",
+        "modified": 1617109666,
+        "slug": "rick-and-morty-season-5-uncensored-trailer",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210326/thumbnails/1_21326754328-promo_RAM_Sheeple_Phase1_Trailer_Dated.jpg",
+        "created": 1616759711,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1617109666,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1617112800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210326/thumbnails/2_21326754328-promo_RAM_Sheeple_Phase1_Trailer_Dated.jpg",
+        "id": "AXhuY2hgBH5Z6gH5aWFi",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
