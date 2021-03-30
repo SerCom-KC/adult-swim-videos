@@ -49,54 +49,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1452085200,
-        "auth_expiration_date": 1617076740,
-        "tms_id": "SH020208840000",
-        "description": "It's a remote-controlled helicopter that also makes a farting noise, like a flying whoopee cushion. The infomercial is hosted by a young, fast-talking, super-enthused kid who shows all the hilarious ways fartcopter can be used.",
-        "title_suggest": {
-            "input": [
-                "Fartcopter"
-            ]
-        },
-        "expiration_date": 1598932799,
-        "type": "episode",
-        "title": "Fartcopter",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 662.8675342,
-        "episode_number": "1",
-        "original_air_date": 1412668800,
-        "auth_launch_date": 1614056400,
-        "clip_order": null,
-        "media_id": "f581111bc1b9cef39b937fd0ca82c5dc01b5831b",
-        "modified": 1614042629,
-        "airing_id": "RADS1002172100074425",
-        "slug": "fartcopter",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509848751617.jpg",
-        "created": 1510604845,
-        "season_number": "4",
-        "title_id": "2007824",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614042629,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509848751617.jpg",
-        "id": "AV-3ELLRwdpKFAKSbWZf",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1447789500,
         "auth_expiration_date": 1618891140,
         "tms_id": "SH020417690000",
@@ -153,6 +105,55 @@
         "launch_date": 1542690000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509835916018.jpg",
         "id": "AV-3HWt2Z-onAnjDLtAg",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1447789140,
+        "auth_expiration_date": 1620100740,
+        "tms_id": "SH020438260000",
+        "description": "Everything in our lives is connected to the internet, so why not our toilets? Take a tour of Smart Pipe, the hot new tech startup that turns your waste into valuable information and fun social connectivity.",
+        "title_suggest": {
+            "input": [
+                "Smart Pipe",
+                "Pipe"
+            ]
+        },
+        "expiration_date": 1598932799,
+        "type": "episode",
+        "title": "Smart Pipe",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 661.7923269,
+        "episode_number": "8",
+        "original_air_date": 1416301200,
+        "auth_launch_date": 1617076800,
+        "clip_order": null,
+        "media_id": "278bbb9fd04e3a3f1d3f65a4e27247ca327d4464",
+        "modified": 1616651475,
+        "airing_id": "RADS1003252100084038",
+        "slug": "smart-pipe",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150982592352.jpg",
+        "created": 1510606080,
+        "season_number": "4",
+        "title_id": "2041861",
+        "tv_rating": "tv-14-d",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616651475,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150982592352.jpg",
+        "id": "AV-3I4k8Z-onAnjDLtAh",
         "auth": true
     },
     {
