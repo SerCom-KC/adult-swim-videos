@@ -1,7 +1,6 @@
 {
-    "updated": 1617222638,
-    "added": [],
-    "removed": [
+    "updated": 1617226224,
+    "added": [
         {
             "auth_expiration_date": 1617526740,
             "tms_id": "EP032284200132",
@@ -34,7 +33,7 @@
             "clip_order": null,
             "airing_id": "RADS1010062000033142",
             "media_id": "3fba5f1bc4a3524ea29dafb825aaf48bdbf6ff06",
-            "modified": 1602254264,
+            "modified": 1617224449,
             "slug": "the-new-magic-knight-squad-captains-meeting",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200904/thumbnails/1_2094106212-BlackClover_130.jpg",
@@ -42,7 +41,7 @@
             "season_number": "3",
             "title_id": "2230144",
             "tv_rating": "tv-pg-l",
-            "published": 1602254264,
+            "published": 1617224449,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -55,5 +54,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
