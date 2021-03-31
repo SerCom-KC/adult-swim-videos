@@ -199,6 +199,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465106555.jpg"
     },
     {
+        "ott_launch_date": 1521469860,
+        "auth": false,
+        "auth_expiration_date": 1611723540,
+        "tms_id": "EP018514630031",
+        "description": "When Mrs. Goodman confronts the parents of Tommy's bullies, they dump their out-of-control kids with her for the day.",
+        "title_suggest": {
+            "input": [
+                "Bullies"
+            ]
+        },
+        "expiration_date": 1620187140,
+        "type": "episode",
+        "title": "Bullies",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.75,
+        "episode_number": "8",
+        "original_air_date": 1521432900,
+        "auth_launch_date": 1608699600,
+        "clip_order": null,
+        "media_id": "248842cb0b264dae86250bf3f8e3a737e1e1df68",
+        "modified": 1616948843,
+        "airing_id": "RADS1003282100084407",
+        "id": "AWHX879KNWyh42wYnlDD",
+        "slug": "bullies",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15197465410168.jpg",
+        "created": 1519746531,
+        "season_number": "3",
+        "title_id": "2120613",
+        "tv_rating": "tv-ma-lsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616948843,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617163200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465410168.jpg"
+    },
+    {
         "ott_launch_date": 1520865060,
         "auth": false,
         "auth_expiration_date": 1609909140,
@@ -441,7 +489,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1520263860,
         "auth_expiration_date": 1620187140,
         "tms_id": "EP018514630026",
@@ -532,58 +580,6 @@
         "launch_date": 1613538000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151940609014319.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447173600,
-        "auth_expiration_date": 1617163140,
-        "tms_id": "EP018514630008",
-        "description": "Grandpa wakes up hungover, and soon finds out that he made a horrible mistake the night before.",
-        "title_suggest": {
-            "input": [
-                "Grandpa's Night Out",
-                "Night Out",
-                "Out"
-            ]
-        },
-        "title": "Grandpa's Night Out",
-        "type": "episode",
-        "expiration_date": 1614142740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 680.2335669,
-        "episode_number": "7",
-        "original_air_date": 1414989000,
-        "clip_order": null,
-        "auth_launch_date": 1614142800,
-        "modified": 1613829504,
-        "media_id": "ac5dbcf0d9864a1f1c62a51718e5faaf58f6215e",
-        "airing_id": "RADS1002202100074852",
-        "id": "Zs9rieH7SICGG3weitRKgw",
-        "slug": "grandpas-night-out",
-        "views": 104625,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_20312111962-mrpickles_007_dup-20140918.jpg",
-        "created": 1414650025,
-        "title_id": "2032508",
-        "tv_rating": "tv-ma-v",
-        "season_number": "1",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1613829504,
-        "first_published": 1414650025,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611118800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312111962-mrpickles_007_dup-20140918.jpg",
-        "cma_id": "1457740"
     },
     {
         "auth": true,
