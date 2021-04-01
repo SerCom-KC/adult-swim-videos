@@ -607,6 +607,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447786920,
+        "auth_expiration_date": 1620878340,
         "tms_id": "EP013726210009",
         "description": "When Gary goes AWOL, Satan sends for his top bounty hunters.",
         "title_suggest": {
@@ -631,8 +632,9 @@
         "episode_number": "1",
         "original_air_date": 1436760900,
         "clip_order": null,
-        "modified": 1614417478,
-        "airing_id": "RADS1002272100077234",
+        "auth_launch_date": 1617854400,
+        "modified": 1617304097,
+        "airing_id": "RADS1004012100086720",
         "media_id": "4e4bcc2ef1a8b7103a7fb5ad4584a3399b1ddbd7",
         "id": "IiJRi9bUQnm2rDTCMzCUVw",
         "slug": "psyklone-and-the-thin-twins",
@@ -643,7 +645,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1614417478,
+        "published": 1617304097,
         "first_published": 1436534422,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
