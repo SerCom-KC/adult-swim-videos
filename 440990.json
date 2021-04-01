@@ -555,6 +555,57 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1617854340,
+        "tms_id": "EP002960010303",
+        "description": "While throwing rotten apples into oncoming traffic with Peter, Chris hits the car of the coach of the James Woods High School baseball team.  Impressed with his arm, Coach Doyle asks Chris to join the team.",
+        "title_suggest": {
+            "input": [
+                "Bookie of the Year",
+                "of the Year",
+                "the Year",
+                "Year"
+            ]
+        },
+        "title": "Bookie of the Year",
+        "type": "episode",
+        "expiration_date": 1609131540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1298.73,
+        "episode_number": "1",
+        "original_air_date": 1482984000,
+        "clip_order": null,
+        "auth_launch_date": 1617249600,
+        "modified": 1616956220,
+        "media_id": "8094207587f62f009563245355abe2743f2f84bd",
+        "airing_id": "RADS1003282100084433",
+        "id": "oq3V1Qz6S72vbYy5d2nmiw",
+        "slug": "bookie-of-the-year",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1482941524,
+        "title_id": "2064585",
+        "tv_rating": "tv-14",
+        "season_number": "15",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1616956220,
+        "first_published": 1482941524,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1608526800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/bookie-of-the-year/familyguy_1310_air_cid-304HK.jpg",
+        "cma_id": "1485399"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1617335940,
         "tms_id": "EP002960010296",
         "description": "A drunk Peter drinks water from a fire hydrant; but when the water overflows, Peter ends up destroying the public library.  As a result of Peter's drunken hijinks, Major Adam West raises the legal drinking age to fifty.",
@@ -600,54 +651,5 @@
         "launch_date": 1606712400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg",
         "cma_id": "1465189"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1617249540,
-        "tms_id": "EP002960010294",
-        "description": "With Lois and her mother Babs out at the spa, Peter is forced to spend the afternoon her father, Carter. The two are quickly sucked into a \"promising\" online deal involving loaning a large sum of money to a Nigerian prince.",
-        "title_suggest": {
-            "input": [
-                "Scammed Yankees",
-                "Yankees"
-            ]
-        },
-        "expiration_date": 1607317140,
-        "title": "Scammed Yankees",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1298.9676343,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "9",
-        "original_air_date": 1453780800,
-        "clip_order": null,
-        "auth_launch_date": 1616644800,
-        "modified": 1616355051,
-        "media_id": "b76fbf98e5d988de7cae16c2603dab7744b1fbb6",
-        "airing_id": "RADS1003212100083534",
-        "id": "xGyDNJDeSeSH9b2nifffgg",
-        "slug": "scammed-yankees",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1453407410,
-        "season_number": "14",
-        "title_id": "2064584",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616355051,
-        "first_published": 1480097471,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1606712400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/scammed-yankees/familyguy_1309_air_cid-2XXDM.jpg",
-        "cma_id": "1460784"
     }
 ]
