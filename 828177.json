@@ -255,55 +255,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1617249540,
-        "tms_id": "",
-        "description": "Satan finds his new calling, dropping truth bombs on real Americans.",
-        "title_suggest": {
-            "input": [
-                "Stan the Man",
-                "the Man",
-                "Man"
-            ]
-        },
-        "title": "Stan the Man",
-        "expiration_date": 1614229140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 674.88,
-        "episode_number": "7",
-        "original_air_date": 1559361600,
-        "auth_launch_date": 1614229200,
-        "clip_order": null,
-        "media_id": "8307f480bae4c380982bd40f44dfd21e25c1f5c8",
-        "modified": 1613881319,
-        "airing_id": "RADS1002212100074951",
-        "slug": "stan-the-man",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15591483969052.jpg",
-        "created": 1556816665,
-        "season_number": "4",
-        "title_id": "2191446",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1613881319,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611205200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15591483969052.jpg",
-        "id": "AWp5gRnyHl5gR6828zZT",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1617854340,
         "tms_id": "",
         "description": "When Gary gets kidnapped by a ghost-hunting show, he must choose between fame and friendship. (He chooses fame.)",
@@ -495,7 +446,7 @@
         "launch_date": 1614229200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
         "id": "AWp5hohlHl5gR6828zZV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -948,5 +899,49 @@
         "launch_date": 1481577852,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-marathon/marathonStream_ypf6.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447787160,
+        "tms_id": "EP013726210013",
+        "description": "The Demons go to Earth to spread the new devil book, which has been rewritten as a teen romance.",
+        "title_suggest": {
+            "input": [
+                "New-Cronomicon"
+            ]
+        },
+        "expiration_date": 1620273540,
+        "title": "New-Cronomicon",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 685.12,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "5",
+        "original_air_date": 1439180100,
+        "clip_order": null,
+        "modified": 1616965837,
+        "airing_id": "RADS1003282100084467",
+        "media_id": "b3abf70645626550580666f407e97f0b24253152",
+        "id": "zI3vELSzR2u7G4Naw36Dyw",
+        "slug": "new-cronomicon",
+        "views": 1,
+        "created": 1436294218,
+        "season_number": "2",
+        "title_id": "2062773",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1616965837,
+        "first_published": 1439018420,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1617249600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/new-cronomicon/ypf_ep211_002_bvykzj67ieasdf0x_2.jpg",
+        "cma_id": "1352461"
     }
 ]
