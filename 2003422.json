@@ -199,6 +199,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1617854340,
+        "tms_id": "EP012792980015",
+        "description": "A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis.",
+        "title_suggest": {
+            "input": [
+                "Bob Day Afternoon",
+                "Day Afternoon",
+                "Afternoon"
+            ]
+        },
+        "expiration_date": 1600055940,
+        "title": "Bob Day Afternoon",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.8886,
+        "episode_number": "2",
+        "original_air_date": 1376276400,
+        "clip_order": null,
+        "auth_launch_date": 1617249600,
+        "modified": 1616955630,
+        "media_id": "3ae7a97e67840c6e49f14b6748964f1ec91c77b7",
+        "airing_id": "RADS1003282100084423",
+        "id": "ICnCBkoDSiuMym6JboTa5Q",
+        "slug": "bob-day-afternoon",
+        "views": 2,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15214841198095.jpg",
+        "created": 1403210985,
+        "season_number": "2",
+        "title_id": "2003437",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616955630,
+        "first_published": 1406521228,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1599451200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg",
+        "cma_id": "1496692"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1617595140,
         "tms_id": "EP012792980011",
         "description": "Bob and his family are forced to spend the weekend at Mort the Mortician's while the restaurant is being eradicated of toxic mold. Linda and Bob double-date with Mort and a female mortician he meets on-line, while Tina babysits Gene and Louise at the crematorium.",
@@ -588,54 +637,5 @@
         "launch_date": 1616990400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg",
         "cma_id": "1486547"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1617249540,
-        "tms_id": "EP012792980004",
-        "description": "When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands.",
-        "title_suggest": {
-            "input": [
-                "Sexy Dance Fighting",
-                "Dance Fighting",
-                "Fighting"
-            ]
-        },
-        "expiration_date": 1598241540,
-        "title": "Sexy Dance Fighting",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1295.928,
-        "episode_number": "4",
-        "original_air_date": 1372730400,
-        "clip_order": null,
-        "auth_launch_date": 1616644800,
-        "modified": 1616355052,
-        "media_id": "b8c95a111d57ed23f37a5f9fecab0a27d5398d18",
-        "airing_id": "RADS1003212100083529",
-        "id": "wN7dmv1cQrqDFRE4XCHxhw",
-        "slug": "sexy-dance-fighting",
-        "views": 3977,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088775540220.jpg",
-        "created": 1403209845,
-        "season_number": "1",
-        "title_id": "2003426",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616355052,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1597636800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg",
-        "cma_id": "1491136"
     }
 ]

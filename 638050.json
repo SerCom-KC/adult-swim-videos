@@ -1,59 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": 1446763380,
-        "auth_expiration_date": null,
-        "tms_id": "EP008626240029",
-        "rating": 7.6733294,
-        "description": "Cody is remembered with a namesake.",
-        "title_suggest": {
-            "input": [
-                "Cody Gains a Namesake",
-                "Gains a Namesake",
-                "a Namesake",
-                "Namesake"
-            ]
-        },
-        "type": "episode",
-        "title": "Cody Gains a Namesake",
-        "expiration_date": 1620273540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 689.5672339,
-        "episode_number": "11",
-        "original_air_date": 1205727300,
-        "clip_order": null,
-        "auth_launch_date": null,
-        "modified": 1616957755,
-        "airing_id": "RADS1003282100084428",
-        "media_id": "a56566dfc5a1285e42f22b60fd8186c6c5428f30",
-        "id": "1xYI9nS-RwqYyUBnBtF04w",
-        "slug": "cody-gains-a-namesake",
-        "views": 587195,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034170589-fd_024.jpg",
-        "created": 1402945466,
-        "title_id": "707263",
-        "season_number": "2",
-        "tv_rating": "tv-ma-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616957755,
-        "tags": [],
-        "rating_count": 3502,
-        "collection_title": "Frisky Dingo",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1617249600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034170589-fd_024.jpg",
-        "cma_id": "926593"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1446763200,
         "auth_expiration_date": 1619063940,
@@ -161,7 +107,7 @@
         "cma_id": "1454360"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1446763260,
         "auth_expiration_date": 1620273540,
         "tms_id": "EP008626240019",
@@ -428,6 +374,62 @@
         "modified_by": "ODT Listener",
         "launch_date": 1615438800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341659569-fd_021.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446763140,
+        "auth_expiration_date": 1617249540,
+        "tms_id": "EP008626240014",
+        "rating": 7.930254,
+        "description": "Killface makes an important career decision.",
+        "title_suggest": {
+            "input": [
+                "Behold a Dark Horse",
+                "a Dark Horse",
+                "Dark Horse",
+                "Horse"
+            ]
+        },
+        "type": "episode",
+        "title": "Behold a Dark Horse",
+        "expiration_date": 1614229140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 654.7674341,
+        "episode_number": "1",
+        "original_air_date": 1188187200,
+        "clip_order": null,
+        "auth_launch_date": 1614229200,
+        "modified": 1614037300,
+        "media_id": "99257cbd5e84b4882dab0bf567d54b293bc2f197",
+        "airing_id": "RADS1001152100064112",
+        "id": "rqF5mgwaSvqGueuxzbridQ",
+        "slug": "behold-a-dark-horse",
+        "views": 596210,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034165722-fd_014.jpg",
+        "created": 1402945466,
+        "title_id": "677648",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1614037300,
+        "tags": [
+            "frisky dingo episode 14 201 killface president campaign running mate"
+        ],
+        "rating_count": 4373,
+        "collection_title": "Frisky Dingo",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1611205200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165722-fd_014.jpg",
         "cma_id": ""
     },
     {
