@@ -228,62 +228,6 @@
         "cma_id": "1458116"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1446845340,
-        "auth_expiration_date": 1617249540,
-        "tms_id": "EP014825730011",
-        "rating": 7.018182,
-        "description": "When a henchbaby's guilt comes back to haunt the Holler, Hurlan must become a man - all over his gun.",
-        "title_suggest": {
-            "input": [
-                "Mu-Mu-Mu-Meat"
-            ]
-        },
-        "type": "episode",
-        "title": "Mu-Mu-Mu-Meat",
-        "expiration_date": 1614229140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "gpQz0eFbTYebWp_hbdmWPw",
-        "duration": 673.3753128,
-        "episode_number": "5",
-        "original_air_date": 1379392200,
-        "clip_order": null,
-        "auth_launch_date": 1614229200,
-        "modified": 1614039031,
-        "media_id": "61d91ec199ad22df96d4db46654f829e76017b60",
-        "airing_id": "RADS1002212100074889",
-        "id": "J4de-Xm2TDmMwIcKXteyow",
-        "slug": "mu-mu-mu-meat",
-        "views": 13159,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035112280-heartsheholler_202_011_dup-20130904.jpg",
-        "created": 1402945479,
-        "title_id": "2007200",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614039031,
-        "tags": [
-            "The Heart She Holler",
-            "Hurlan",
-            "Patton Oswalt",
-            "adult swim"
-        ],
-        "rating_count": 55,
-        "collection_title": "The Heart, She Holler",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611205200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035112280-heartsheholler_202_011_dup-20130904.jpg",
-        "cma_id": "1418436"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1446845580,
         "auth_expiration_date": 1523429999,
@@ -755,7 +699,7 @@
         "cma_id": "1426298"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446845520,
         "auth_expiration_date": 1620273540,
         "tms_id": "EP014825730016",
@@ -1001,5 +945,56 @@
         "launch_date": 1417534510,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/illuminations-or-get-to-know-the-heart-she-holler-extras-miracle/thsh_promo_1_miracle_1.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446845640,
+        "auth_expiration_date": 1524639599,
+        "tms_id": "EP014825730021",
+        "description": "One billion gods working inside three trillion universes couldn't possibly create a reality this stupid.",
+        "title_suggest": {
+            "input": [
+                "In Meatro",
+                "Meatro"
+            ]
+        },
+        "title": "In Meatro",
+        "type": "episode",
+        "expiration_date": 1620273540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "gpQz0eFbTYebWp_hbdmWPw",
+        "duration": 680.2085071,
+        "episode_number": "1",
+        "original_air_date": 1417498200,
+        "clip_order": null,
+        "auth_launch_date": 1521615600,
+        "modified": 1616965837,
+        "media_id": "be6e13cae2e71607b91f7f5d89f8d6ee60e85ad9",
+        "airing_id": "RADS1003282100084473",
+        "id": "xx0yelfzT6uOLNiwPkCQoA",
+        "slug": "in-meatro",
+        "views": 10639,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035112665-heartsheholler_301_021_dup-20141023.jpg",
+        "created": 1417195225,
+        "title_id": "2041653",
+        "tv_rating": "tv-ma",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1616965837,
+        "first_published": 1417195225,
+        "tags": [],
+        "collection_title": "The Heart, She Holler",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617249600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035112665-heartsheholler_301_021_dup-20141023.jpg",
+        "cma_id": "1462121"
     }
 ]
