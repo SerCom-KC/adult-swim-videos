@@ -806,7 +806,7 @@
         "launch_date": 1614229200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035153162-hotstreets_208_dup-20181214.jpg",
         "id": "AWe-I-HEAScUIg8XxbYI",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1552919400,
@@ -1002,6 +1002,53 @@
         "modified_by": "ODT Listener",
         "launch_date": 1616644800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351445449-HotStreets_101_dup-20170908.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1516635060,
+        "auth_expiration_date": 1611291540,
+        "tms_id": "EP025439100004",
+        "description": "Chubbie Webbers, posing as a Hot Streets agent, must save the universe.",
+        "title_suggest": {
+            "input": [
+                "Super Agent",
+                "Agent"
+            ]
+        },
+        "title": "Super Agent",
+        "type": "episode",
+        "expiration_date": 1620273540,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "fXqvCbmfQGK3pmdTs7JWaw",
+        "duration": 680.5,
+        "episode_number": "3",
+        "original_air_date": 1516597200,
+        "clip_order": null,
+        "auth_launch_date": 1609477200,
+        "modified": 1616962815,
+        "media_id": "b7d5485a095fd34ecf7628cb0955c441bcc6215a",
+        "airing_id": "RADS1003282100084431",
+        "id": "QYDHciiwQmSH8NBmKKlsuA",
+        "slug": "super-agent",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351445213-HotStreets_103_dup-20170908.jpg",
+        "created": 1504125772,
+        "season_number": "1",
+        "title_id": "2131834",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1616962815,
+        "tags": [],
+        "collection_title": "Hot Streets",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617249600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351445213-HotStreets_103_dup-20170908.jpg",
         "cma_id": ""
     },
     {
