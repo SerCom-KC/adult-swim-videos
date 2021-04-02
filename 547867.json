@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451682480,
         "auth_expiration_date": 1620359940,
         "tms_id": "EP007008200031",
@@ -211,55 +211,55 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1451681940,
-        "auth_expiration_date": 1617335940,
-        "tms_id": "EP007008200012",
-        "rating": 8.220001,
-        "description": "Joy's ex-husband Todd pairs up with Tom to create a reality show called Mister Entrepreneur.  Special guest: David Cross.",
+        "auth": false,
+        "ott_launch_date": 1451682420,
+        "auth_expiration_date": null,
+        "tms_id": "EP007008200020",
+        "rating": 8.647798,
+        "description": "The Mayor hires a smooth jazz saxman, managed by Tom, to perform at the Grand Opening of a Waterbed Galleria.",
         "title_suggest": {
             "input": [
-                "Calcucorn"
+                "Saxman"
             ]
         },
         "type": "episode",
-        "title": "Calcucorn",
-        "expiration_date": 1614315540,
+        "title": "Saxman",
+        "expiration_date": 1620359940,
         "platforms": [
             "web",
             "mobile",
             "ott"
         ],
         "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 704.97,
-        "episode_number": "10",
-        "original_air_date": 1115611200,
+        "duration": 674.81,
+        "episode_number": "9",
+        "original_air_date": 1152505800,
         "clip_order": null,
-        "auth_launch_date": 1614315600,
-        "modified": 1614033056,
-        "airing_id": "RADS1001152100064132",
-        "media_id": "c6bc3136fc31cf5dcd0808569cf125519e529e63",
-        "id": "ZYbGOLW1R2G3kxieouRcKA",
-        "slug": "calcucorn",
-        "views": 97216,
+        "auth_launch_date": null,
+        "modified": 1616967022,
+        "airing_id": "RADS1003282100084474",
+        "media_id": "f2c691e024c5817ed6dd036bd60da82315859433",
+        "id": "ZiwyDpkpTeKv8OPjhbc-GQ",
+        "slug": "saxman",
+        "views": 114944,
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117837116-tgttm_010.jpg",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117956236-tgttm_022.jpg",
         "created": 1402945482,
-        "title_id": "614454",
-        "season_number": "1",
-        "tv_rating": "tv-pg-lv",
+        "title_id": "635907",
+        "season_number": "2",
+        "tv_rating": "tv-14",
         "active": true,
         "ott_expiration_date": null,
-        "published": 1614033056,
+        "published": 1616967022,
         "tags": [
-            "tom goes to the mayor tgttm episode 10 calcucorn joy todd ex husband mister entrepeneur david cross"
+            "tom goes to the mayor episode 22 saxman saxophone jazz waterbed galleria manager"
         ],
-        "rating_count": 300,
+        "rating_count": 318,
         "collection_title": "Tom Goes To The Mayor",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1611291600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117837116-tgttm_010.jpg",
+        "launch_date": 1617336000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg",
         "cma_id": ""
     },
     {

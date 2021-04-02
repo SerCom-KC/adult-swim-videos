@@ -1,51 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1513611060,
-        "auth_expiration_date": 1617335940,
-        "tms_id": "EP027912080009",
-        "description": "Just watch this episode, trust me.",
-        "title_suggest": {
-            "input": [
-                "The Invasion",
-                "Invasion"
-            ]
-        },
-        "title": "The Invasion",
-        "type": "episode",
-        "expiration_date": 1614315540,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-        "duration": 1363.23,
-        "episode_number": "9",
-        "original_air_date": 1513574100,
-        "clip_order": null,
-        "auth_launch_date": 1614315600,
-        "modified": 1614043902,
-        "media_id": "e997bd097af8819be5282265d7f15fecaf5f0b15",
-        "airing_id": "RADS1001152100064148",
-        "id": "4X4xmJc8Sn-6DNQc4CxcEA",
-        "slug": "the-invasion",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15136128385054.jpg",
-        "created": 1508442224,
-        "season_number": "1",
-        "title_id": "2132034",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614043902,
-        "tags": [],
-        "collection_title": "The Jellies",
-        "modified_by": "ODT Listener",
-        "launch_date": 1611291600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15136128385054.jpg",
-        "cma_id": ""
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -193,6 +147,56 @@
         "launch_date": 1562570100,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036488035418.jpg",
         "id": "AWmWTuMLAScUIg8XxeHG",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1611896340,
+        "tms_id": "",
+        "description": "There's something strange about Cornell's friend.",
+        "title_suggest": {
+            "input": [
+                "My Friend Sheldon Jr.",
+                "Friend Sheldon Jr.",
+                "Sheldon Jr.",
+                "Jr."
+            ]
+        },
+        "title": "My Friend Sheldon Jr.",
+        "expiration_date": 1620359940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 676.67,
+        "episode_number": "10",
+        "original_air_date": 1561349700,
+        "auth_launch_date": 1609477200,
+        "clip_order": null,
+        "media_id": "da9c812a7089dfd2a087151bd3fe49eaaa576285",
+        "modified": 1616967022,
+        "airing_id": "RADS1003282100084458",
+        "slug": "my-friend-sheldon-jr",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156043847819613.jpg",
+        "created": 1553005528,
+        "season_number": "2",
+        "title_id": "2191423",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616967022,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617336000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156043847819613.jpg",
+        "id": "AWmWV8RDHl5gR6828y3X",
         "auth": false
     },
     {
