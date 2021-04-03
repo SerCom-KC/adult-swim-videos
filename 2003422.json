@@ -1,54 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1617422340,
-        "tms_id": "EP012792980007",
-        "description": "With a long weekend approaching, Linda sees an opportunity to capitalize on the tourist traffic by turning their home into a bed and breakfast. As usual, she goes overboard and gets a little crazy when her efforts aren't appreciated.",
-        "title_suggest": {
-            "input": [
-                "Bed & Breakfast",
-                "& Breakfast",
-                "Breakfast"
-            ]
-        },
-        "expiration_date": 1598846340,
-        "title": "Bed & Breakfast",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1295.3941,
-        "episode_number": "7",
-        "original_air_date": 1373857200,
-        "clip_order": null,
-        "auth_launch_date": 1616817600,
-        "modified": 1616391702,
-        "media_id": "331d877c5b9ce878fabf44979699c674714437f4",
-        "airing_id": "RADS1003212100083578",
-        "id": "3IyKle5KTkmV2gK-NLiAhQ",
-        "slug": "bed-breakfast",
-        "views": 7128,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088796942016.jpg",
-        "created": 1403209896,
-        "season_number": "1",
-        "title_id": "2003429",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616391702,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1598241600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088796942016.jpg",
-        "cma_id": "1493606"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1617508740,
@@ -192,55 +143,6 @@
         "launch_date": 1599451200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148409497119.jpg",
         "cma_id": "1496818"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1617422340,
-        "tms_id": "EP012792980008",
-        "description": "When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant.",
-        "title_suggest": {
-            "input": [
-                "Art Crawl",
-                "Crawl"
-            ]
-        },
-        "expiration_date": 1598846340,
-        "title": "Art Crawl",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1292.8583,
-        "episode_number": "8",
-        "original_air_date": 1373940000,
-        "clip_order": null,
-        "auth_launch_date": 1616817600,
-        "modified": 1616394167,
-        "media_id": "7a16bff0a13713f66441a6183cb17dd8f43d3379",
-        "airing_id": "RADS1003212100083581",
-        "id": "Cy0lgbZFSg-5BlAVxPmVlw",
-        "slug": "art-crawl",
-        "views": 4717,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088810105016.jpg",
-        "created": 1403209912,
-        "season_number": "1",
-        "title_id": "2003430",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616394167,
-        "first_published": 1404703230,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1598241600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg",
-        "cma_id": "1493554"
     },
     {
         "auth": true,
@@ -389,6 +291,54 @@
         "cma_id": "1496229"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1618027140,
+        "tms_id": "EP012792980021",
+        "description": "When the restaurant receives a bad review from a food critic, the Belchers fear that the negative press will keep customers away. When Bob shows up at the critic's house for a redo, his plan quickly spirals out of control when the kids and his fellow restaurant owners show up to support him.",
+        "title_suggest": {
+            "input": [
+                "Moody Foodie",
+                "Foodie"
+            ]
+        },
+        "expiration_date": 1601265540,
+        "title": "Moody Foodie",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1281.8139,
+        "episode_number": "7",
+        "original_air_date": 1377568800,
+        "clip_order": null,
+        "auth_launch_date": 1617422400,
+        "modified": 1616995842,
+        "media_id": "de0de31f26c4729c9c008d62aa3572006f5e6205",
+        "airing_id": "RADS1003282100084484",
+        "id": "b0-2bYZcRqKxlbALJnVQ8Q",
+        "slug": "moody-foodie",
+        "views": 1,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15221632620243.jpg",
+        "created": 1403210114,
+        "season_number": "2",
+        "title_id": "2003442",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616995842,
+        "first_published": 1408332030,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1600660800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221632620243.jpg",
+        "cma_id": "2003442"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1613969940,
@@ -486,6 +436,55 @@
         "launch_date": 1616990400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg",
         "cma_id": "1485981"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1618027140,
+        "tms_id": "EP012792980020",
+        "description": "Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help.",
+        "title_suggest": {
+            "input": [
+                "Dr. Yap",
+                "Yap"
+            ]
+        },
+        "expiration_date": 1600660740,
+        "title": "Dr. Yap",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1292.0574,
+        "episode_number": "6",
+        "original_air_date": 1377486000,
+        "clip_order": null,
+        "auth_launch_date": 1617422400,
+        "modified": 1616996444,
+        "media_id": "a409c80e69cea0e5280555c6aaa2bd0673808013",
+        "airing_id": "RADS1003282100084481",
+        "id": "mXBWtsgfTi6STJB21Re0nw",
+        "slug": "dr-yap",
+        "views": 2,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15221627126382.jpg",
+        "created": 1403210097,
+        "season_number": "2",
+        "title_id": "2003441",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1616996444,
+        "first_published": 1407727266,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1600056000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg",
+        "cma_id": "2003441"
     },
     {
         "auth": true,
