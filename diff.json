@@ -1,18 +1,22 @@
 {
-    "updated": 1617526943,
+    "updated": 1617528677,
     "added": [
         {
-            "auth_expiration_date": 1619341140,
+            "auth_expiration_date": 1619342940,
             "tms_id": "",
-            "description": "Maki returns home for a family dinner, where her brother, Takigi, a criminal investigator with the Armed Forces, asks her about her time in the Nether. When Takigi is injured in a White-Clad attack Maki's father recalls her to the military.",
+            "description": "The search for Marie and Secre continues, stymied by villagers who resent the Magic Knights' inaction during the elf invasion. Time for a new plan.",
             "title_suggest": {
                 "input": [
-                    "The Oze Family",
-                    "Oze Family",
-                    "Family"
+                    "Those Who Wish for the Devil's Demise",
+                    "Who Wish for the Devil's Demise",
+                    "Wish for the Devil's Demise",
+                    "for the Devil's Demise",
+                    "the Devil's Demise",
+                    "Devil's Demise",
+                    "Demise"
                 ]
             },
-            "title": "The Oze Family",
+            "title": "Those Who Wish for the Devil's Demise",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -21,89 +25,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWwbkOBM4aLemgzOLF3t",
-            "duration": 1366.2649,
-            "episode_number": "19",
-            "original_air_date": "1617514200",
-            "auth_launch_date": 1617526800,
-            "clip_order": null,
-            "airing_id": "RADS1003312100086181",
-            "media_id": "fa56b0f6a56afa8aeef1f70d39e54347dfe15df5",
-            "modified": 1617227419,
-            "slug": "the-oze-family",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210303/thumbnails/1_2133858273-FireForce2_043_OzeFamily.jpg",
-            "created": 1614779911,
-            "season_number": "2",
-            "title_id": "2233686",
-            "tv_rating": "tv-ma",
-            "published": 1617227419,
-            "tags": [],
-            "collection_title": "Fire Force",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210303/thumbnails/2_2133858273-FireForce2_043_OzeFamily.jpg",
-            "id": "AXf4YgybBH5Z6gH5aV3S",
-            "auth": true,
-            "collection_slug": "fire-force",
-            "collection_title_id": "2203556",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth_expiration_date": 1617526740,
-            "tms_id": "EP032284200132",
-            "description": "The Wizard King summons the Magic Knight captains to brief them on the alliance with the Heart Kingdom against Megicula and to plan their next steps.",
-            "title_suggest": {
-                "input": [
-                    "The New Magic Knight Squad Captains' Meeting",
-                    "New Magic Knight Squad Captains' Meeting",
-                    "Magic Knight Squad Captains' Meeting",
-                    "Knight Squad Captains' Meeting",
-                    "Squad Captains' Meeting",
-                    "Captains' Meeting",
-                    "Meeting"
-                ]
-            },
-            "title": "The New Magic Knight Squad Captains' Meeting",
-            "expiration_date": 1602406740,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
             "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1339.338,
-            "episode_number": "28",
-            "original_air_date": "1599370200",
-            "auth_launch_date": 1602406800,
+            "duration": 1324.2896,
+            "episode_number": "42",
+            "original_air_date": "1617516000",
+            "auth_launch_date": 1617528600,
             "clip_order": null,
-            "airing_id": "RADS1010062000033142",
-            "media_id": "3fba5f1bc4a3524ea29dafb825aaf48bdbf6ff06",
-            "modified": 1617226245,
-            "slug": "the-new-magic-knight-squad-captains-meeting",
+            "airing_id": "RADS1003312100086187",
+            "media_id": "b79d8891fd368faa5b03c14bfdad5679e10c5d19",
+            "modified": 1617228913,
+            "slug": "those-who-wish-for-the-devils-demise",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200904/thumbnails/1_2094106212-BlackClover_130.jpg",
-            "created": 1599228383,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210226/thumbnails/1_212261131477-BlackClover_144_ThoseWhoWish.jpg",
+            "created": 1614357110,
             "season_number": "3",
-            "title_id": "2230144",
-            "tv_rating": "tv-pg-l",
-            "published": 1617226245,
+            "title_id": "2238512",
+            "tv_rating": "tv-pg",
+            "published": 1617228913,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1601197200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200904/thumbnails/2_2094106212-BlackClover_130.jpg",
-            "id": "AXRZcJJESeFB2d0c38wn",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210226/thumbnails/2_212261131477-BlackClover_144_ThoseWhoWish.jpg",
+            "id": "AXffLp1qbxpjZvbXYmYm",
             "auth": true,
             "collection_slug": "black-clover",
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
