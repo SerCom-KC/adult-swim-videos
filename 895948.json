@@ -654,17 +654,19 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1617595140,
+        "auth_expiration_date": 1616990340,
         "tms_id": "",
-        "description": "Blannibal has had enough of the show and quits, too. Eric gets into a dangerous situation with an organized crime associate. Eric and co-host Lakeith Stanfield welcome Tiffany Pollard and Naya Rivera with musical guest Big Freedia.",
+        "description": "Eric welcomes Mercedes Javid and Brenda Song and punishes Grimes. He also gives his dead boss some ranch!",
         "title_suggest": {
             "input": [
-                "Blannibal Quits",
-                "Quits"
+                "The A$AP Ferg Show",
+                "A$AP Ferg Show",
+                "Ferg Show",
+                "Show"
             ]
         },
-        "title": "Blannibal Quits",
-        "expiration_date": 1614574740,
+        "title": "The A$AP Ferg Show",
+        "expiration_date": 1620619140,
         "type": "episode",
         "platforms": [
             "android",
@@ -673,30 +675,30 @@
             "fire-tv"
         ],
         "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 684.9176,
-        "episode_number": "6",
+        "duration": 675.4748,
+        "episode_number": "5",
         "original_air_date": null,
-        "auth_launch_date": 1614574800,
+        "auth_launch_date": 1613970000,
         "clip_order": null,
-        "airing_id": "RADS1002272100077103",
-        "media_id": "00bbbafd3e8d7f44bde4314b6fa823c99773a16b",
-        "modified": 1614392378,
-        "slug": "blannibal-quits",
+        "airing_id": "RADS1003312100086337",
+        "media_id": "1157ed35bd1c2f80123f87c8c3243d7a2a056430",
+        "modified": 1617247799,
+        "slug": "the-a-ap-ferg-show",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161719212-ericandre_505_dup-20200824.jpg",
-        "created": 1600290968,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161719538-ericandre_507_dup-20200911.jpg",
+        "created": 1600290930,
         "season_number": "5",
-        "title_id": "2230785",
-        "tv_rating": "tv-ma-ls",
-        "published": 1614392378,
+        "title_id": "2230784",
+        "tv_rating": "tv-ma-lv",
+        "published": 1617247799,
         "tags": [],
         "collection_title": "The Eric Andre Show",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1611550800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719212-ericandre_505_dup-20200824.jpg",
-        "id": "AXSYxlIJLyLQBOXK_POA",
-        "auth": true
+        "launch_date": 1617595200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719538-ericandre_507_dup-20200911.jpg",
+        "id": "AXSYxcBTLyLQBOXK_PN_",
+        "auth": false
     },
     {
         "auth_expiration_date": 1618199940,
@@ -887,7 +889,7 @@
         "launch_date": 1614574800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131211270-ericandre_511_S5_BTS_CENSORED_dup-20201019.jpg",
         "id": "AXWPF5rqbxpjZvbXYlbm",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1619409540,
