@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 5, 2021 at 01:30:23 EDT_
+_Last Update: April 5, 2021 at 12:00:27 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-618253 12 oz Mouse: 1  
-### 2224143
-**12 oz Mouse S03E07 - Prime Time Nursery Rhyme**  
-TV-14-LV 🔒 10:34  
-⌛ May 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/12-oz-mouse/prime-time-nursery-rhyme  
-seriesid=`618253` titleid=`2224143` id=`AXNdvpyFC8QgH-t19KAJ` mediaid=`4148f5916d27a72032e59dcccc3ce8eb69a0d58c`  
-_Mouse realizes the Box of Worlds has been stolen is now unstable just as Peanut Cop and Golden Joe come to their rescue. Rooster meets with Sirus and formulate a plan to take down Shyd Industries. Wilx has found his way into Outer Earth._  
-<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_2071713704-12oz_307_dup-20200715.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_2071713704-12oz_307_dup-20200715.jpg" height="144px" /></a>
+2143080 Black Clover: 1  
+### 2230145
+**Black Clover S03E29 - A New Resolve**  
+TV-PG 🔒 22:19  
+⌛ April 11, 2021 at 04:59:00 EDT  
+https://www.adultswim.com/videos/black-clover/a-new-resolve  
+seriesid=`2143080` titleid=`2230145` id=`AXR0s9bgSeFB2d0c3810` mediaid=`85d4e5c8a5a88b4736cb2908513a04f52f4249bc`  
+_Asta, Yuno, Noelle, and Secre are dispatched to Hage Village, where Sister Lily presses the quartet into service at the village's newest institution._  
+<a href="https://media.cdn.adultswim.com/uploads/20200910/thumbnails/2_209101035400-BlackClover_131.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200910/thumbnails/2_209101035400-BlackClover_131.jpg" height="144px" /></a>
