@@ -1,55 +1,6 @@
 [
     {
         "ott_launch_date": 1447789500,
-        "auth_expiration_date": 1617681540,
-        "tms_id": "SH020223070000",
-        "description": "In a 1960s-era informercial for an electric vibrating salad tossing device that, unbeknownst to the host, might have a dual purpose.",
-        "title_suggest": {
-            "input": [
-                "The Salad Mixxxer",
-                "Salad Mixxxer",
-                "Mixxxer"
-            ]
-        },
-        "expiration_date": 1598932799,
-        "type": "episode",
-        "title": "The Salad Mixxxer",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 677.0333667,
-        "episode_number": "2",
-        "original_air_date": 1413273600,
-        "auth_launch_date": 1614661200,
-        "clip_order": null,
-        "media_id": "d87a882e506fe86786c6e9382e5d2bc3e1424c72",
-        "modified": 1614403361,
-        "airing_id": "RADS1002272100077182",
-        "slug": "the-salad-mixxxer",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509845082819.jpg",
-        "created": 1510605037,
-        "season_number": "4",
-        "title_id": "2007843",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1614403361,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509845082819.jpg",
-        "id": "AV-3E6AFwdpKFAKSbWZs",
-        "auth": true
-    },
-    {
-        "ott_launch_date": 1447789500,
         "auth_expiration_date": 1618891140,
         "tms_id": "SH020417690000",
         "description": "Sure, Newbridge, NJ is known as the muffler capital of the world but it's so much more than that. Learn about the fascinating often insane past and present of the town George Washington quickly decided against making the capital of the US.",
@@ -206,6 +157,56 @@
         "launch_date": 1542690000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150983047962.jpg",
         "id": "AV-3IJOpwdpKFAKSbWaa",
+        "auth": true
+    },
+    {
+        "ott_launch_date": 1447789200,
+        "auth_expiration_date": 1620705540,
+        "tms_id": "SH020456150000",
+        "description": "Three experts explore the newly-discovered Book of Christ, the first and only book of the Bible written by Jesus himself.",
+        "title_suggest": {
+            "input": [
+                "Book of Christ",
+                "of Christ",
+                "Christ"
+            ]
+        },
+        "expiration_date": null,
+        "type": "episode",
+        "title": "Book of Christ",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 649.6672227,
+        "episode_number": "9",
+        "original_air_date": 1416906000,
+        "auth_launch_date": 1617681600,
+        "clip_order": null,
+        "media_id": "93e35cec7ac83e07fd76e89a21306306d5541b98",
+        "modified": 1617255527,
+        "airing_id": "RADS1003312100086357",
+        "slug": "book-of-christ",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150981959475.jpg",
+        "created": 1510606330,
+        "season_number": "4",
+        "title_id": "2041862",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1617255527,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150981959475.jpg",
+        "id": "AV-3J1rFwdpKFAKSbWaw",
         "auth": true
     },
     {
