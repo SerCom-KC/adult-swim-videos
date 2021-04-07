@@ -98,6 +98,54 @@
         "cma_id": "1489511"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1618372740,
+        "tms_id": "EP002960010314",
+        "description": "Peter and the gang realize their new neighbor is none other than the New England Patriot's tight end, Rob Gronkowski.",
+        "title_suggest": {
+            "input": [
+                "Gronkowsbees"
+            ]
+        },
+        "title": "Gronkowsbees",
+        "type": "episode",
+        "expiration_date": 1610945940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1302.8008008,
+        "episode_number": "11",
+        "original_air_date": 1485403200,
+        "clip_order": null,
+        "auth_launch_date": 1617768000,
+        "modified": 1617343920,
+        "media_id": "57088717eae47dd182b4719bd8579d2f3a8ee2fa",
+        "airing_id": "RADS1004012100086688",
+        "id": "B0x5VXDpQu-cZ5yEQKbDVg",
+        "slug": "gronkowsbees",
+        "views": 10415,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1485220227,
+        "title_id": "2105390",
+        "tv_rating": "tv-14",
+        "season_number": "15",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1617343920,
+        "first_published": 1485220227,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1610341200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/gronkowsbees/familyguy_1408_air_cid-31X7C.jpg",
+        "cma_id": "1333783"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1612069140,
@@ -245,58 +293,6 @@
         "launch_date": 1608526800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/american-gigg-olo/familyguy_1319_air_cid-304HN.jpg",
         "cma_id": "1490789"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1617767940,
-        "tms_id": "EP002960010304",
-        "description": "When Lois catches Stewie and Brian watching something inappropriate and puts on a children's music program instead, a frustrated Stewie decides to write his own baby songs with Brian.  The two form a band, \"Red Shirt, Blue Shirt\".",
-        "title_suggest": {
-            "input": [
-                "The Boys in the Band",
-                "Boys in the Band",
-                "in the Band",
-                "the Band",
-                "Band"
-            ]
-        },
-        "title": "The Boys in the Band",
-        "type": "episode",
-        "expiration_date": 1609131540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1301.667334,
-        "episode_number": "4",
-        "original_air_date": 1481169600,
-        "clip_order": null,
-        "auth_launch_date": 1617163200,
-        "modified": 1616947974,
-        "media_id": "5ac2a5f3efe6105edfe936e63ef77b151618b9b3",
-        "airing_id": "RADS1003282100084397",
-        "id": "SMnW-B9iRYahMuQhpeeoxA",
-        "slug": "the-boys-in-the-band",
-        "views": 12621,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1481112619,
-        "title_id": "2105383",
-        "tv_rating": "tv-14",
-        "season_number": "15",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1616947974,
-        "first_published": 1481112619,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1608526800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-boys-in-the-band/familyguy_1401_air_cid-303HV.jpg",
-        "cma_id": "1488373"
     },
     {
         "auth": true,
