@@ -1,7 +1,6 @@
 {
-    "updated": 1617832823,
-    "added": [],
-    "removed": [
+    "updated": 1617838222,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1618199940,
@@ -33,7 +32,7 @@
             "auth_launch_date": 1597636800,
             "clip_order": null,
             "media_id": "ee4f417345fd65a0d09fd7b8de6f91f49e331f77",
-            "modified": 1606340594,
+            "modified": 1617838033,
             "airing_id": "RADS1008112000019057",
             "slug": "meet-the-mafioso-behind-the-wall",
             "exclude_from_search": false,
@@ -44,7 +43,7 @@
             "tv_rating": "tv-ma",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1606340594,
+            "published": 1617838033,
             "tags": [],
             "collection_title": "JoJo's Bizarre Adventure",
             "disable_ads": false,
@@ -57,5 +56,6 @@
             "collection_title_id": "2193955",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
