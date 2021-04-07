@@ -215,6 +215,62 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447169520,
+        "auth_expiration_date": null,
+        "tms_id": "EP008519090038",
+        "rating": 9.660598,
+        "description": "Dethklok's new album is released to the world. The Revengencers make their next move.",
+        "title_suggest": {
+            "input": [
+                "Black Fire Upon Us",
+                "Fire Upon Us",
+                "Upon Us",
+                "Us"
+            ]
+        },
+        "type": "episode",
+        "title": "Black Fire Upon Us",
+        "expiration_date": 1620791940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 1368.7340674,
+        "episode_number": "18",
+        "original_air_date": 1226037600,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1617343921,
+        "media_id": "7d473c5168cb578672857d0bae05f74ff8a95659",
+        "airing_id": "RADS1004012100086697",
+        "id": "8aiCaDjOQNePyHi62aRuDA",
+        "slug": "black-fire-upon-us",
+        "views": 1412885,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311115257-metalocalypse_219-220_dst-cid-MWUV.jpg",
+        "created": 1402945469,
+        "title_id": "733403",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1617343921,
+        "tags": [
+            "Metalocalypse Black Fire Upon Us episode 39 40"
+        ],
+        "rating_count": 4888,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617768000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311115257-metalocalypse_219-220_dst-cid-MWUV.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447169280,
         "auth_expiration_date": 1515571199,
         "tms_id": "EP008519090034",
@@ -364,7 +420,7 @@
         "cma_id": "693500"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169280,
         "auth_expiration_date": 1620791940,
         "tms_id": "EP008519090033",
@@ -413,58 +469,6 @@
         "launch_date": 1614747600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111053573-metalocalypse_213_bim.jpg",
         "cma_id": "1246858"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447169160,
-        "auth_expiration_date": 1617767940,
-        "tms_id": "EP008519090028",
-        "rating": 8.903405,
-        "description": "Pickles' popularity soars when he gets a personal P.R. agent, prompting the rest of Dethklok to form a rival P.R. firm.  Meanwhile, Pickles' P.R. woman has dark, otherworldy, and religious motives behind her Evil Press Releases.",
-        "title_suggest": {
-            "input": [
-                "P.R. Klok",
-                "Klok"
-            ]
-        },
-        "type": "episode",
-        "title": "P.R. Klok",
-        "expiration_date": 1614747540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 691.5672339,
-        "episode_number": "8",
-        "original_air_date": 1211774400,
-        "clip_order": null,
-        "auth_launch_date": 1614747600,
-        "modified": 1614402748,
-        "media_id": "bd56d98f421e54371c3cacc193776d59c3b130fb",
-        "airing_id": "RADS1002272100077179",
-        "id": "ZOf6L4_gST24MKjmdTZ51g",
-        "slug": "p-r-klok",
-        "views": 789387,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311105289-metalocalypse_208_bim.jpg",
-        "created": 1402945469,
-        "title_id": "693498",
-        "season_number": "2",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614402748,
-        "tags": [],
-        "rating_count": 3085,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611723600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311105289-metalocalypse_208_bim.jpg",
-        "cma_id": "693498"
     },
     {
         "auth": false,

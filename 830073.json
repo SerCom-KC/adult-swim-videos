@@ -1077,7 +1077,7 @@
         "cma_id": "1052689"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449259680,
         "auth_expiration_date": 1620791940,
         "tms_id": "EP014135410011",
@@ -1430,6 +1430,56 @@
         "launch_date": 1542949200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121326246-offtheair_203A_dup-20141029.jpg",
         "cma_id": "1028960"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1449259800,
+        "auth_expiration_date": 1602647940,
+        "tms_id": "EP014135410017",
+        "description": "Life without the hassle of living.",
+        "title_suggest": {
+            "input": [
+                "Death"
+            ]
+        },
+        "title": "Death",
+        "type": "episode",
+        "expiration_date": 1620791940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 650.1001001,
+        "episode_number": "3",
+        "original_air_date": 1419930000,
+        "clip_order": null,
+        "auth_launch_date": 1599624000,
+        "modified": 1617344193,
+        "airing_id": "RADS1004012100086700",
+        "media_id": "cb8646a0d5bd49ded7b967fa00a11c261c880624",
+        "id": "oJMulsyBS3e17w0qcfMY-w",
+        "slug": "death",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121337264-offtheair_402_dup.jpg",
+        "created": 1419956485,
+        "season_number": "4",
+        "title_id": "2032788",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1617344193,
+        "first_published": 1419956485,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617768000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121337264-offtheair_402_dup.jpg",
+        "cma_id": ""
     },
     {
         "auth": false,
