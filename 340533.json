@@ -52,58 +52,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447438800,
-        "auth_expiration_date": 1617767940,
-        "tms_id": "EP004625760022",
-        "rating": 8.204413,
-        "description": "Tempers flare--and deeply-rooted religious beliefs are mocked--as Murphy readies Sealab for the biggest Feast of Alvis this side of the Marianas Trench.  It'll take a miracle to bring the crew together for... wait!  What's that strangely brilliant light?  Could it be...?",
-        "title_suggest": {
-            "input": [
-                "Feast of Alvis",
-                "of Alvis",
-                "Alvis"
-            ]
-        },
-        "type": "episode",
-        "title": "Feast of Alvis",
-        "expiration_date": 1614747540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 674.8341675,
-        "episode_number": "8",
-        "original_air_date": 1041220800,
-        "clip_order": null,
-        "auth_launch_date": 1614747600,
-        "modified": 1614401268,
-        "airing_id": "RADS1001222100065627",
-        "media_id": "8166dd97aaf8ddda70f08062542022d3ef621335",
-        "id": "GQsFuxHxR2KKXE6x1vxJKQ",
-        "slug": "feast-of-alvis",
-        "views": 234859,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151526111-sealab_021.jpg",
-        "created": 1402945476,
-        "title_id": "437998",
-        "tv_rating": "tv-14-l",
-        "season_number": "2",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1614401268,
-        "tags": [],
-        "rating_count": 998,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611723600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151526111-sealab_021.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447439280,
         "auth_expiration_date": null,
@@ -201,6 +149,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1612933200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151528190-sealab_022.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447439220,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760056",
+        "rating": 8.917356,
+        "description": "Well, Quinn's really done it this time. And by \"it\" we mean: gotten drunk and messed around with Chubby Carol the Intern and then been blackmailed and then started slapping people's brain's into robot bodies like there's no tomorrow. Which, actually, there may not be.",
+        "title_suggest": {
+            "input": [
+                "I Robot, Really",
+                "Robot, Really",
+                "Really"
+            ]
+        },
+        "type": "episode",
+        "title": "I Robot, Really",
+        "expiration_date": 1620791940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 691.6006006,
+        "episode_number": "4",
+        "original_air_date": 1072066500,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1617342703,
+        "airing_id": "RADS1004012100086705",
+        "media_id": "d03a71c74317d796fe85db3d3a0945df51f8b9dd",
+        "id": "O3yluNFWSHOcAwVjPBE-pw",
+        "slug": "i-robot-really",
+        "views": 184532,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151550198-sealab_030.jpg",
+        "created": 1402945476,
+        "title_id": "449629",
+        "season_number": "3",
+        "tv_rating": "tv-14-dv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1617342703,
+        "tags": [],
+        "rating_count": 726,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617768000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151550198-sealab_030.jpg",
         "cma_id": ""
     },
     {
@@ -361,7 +361,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438980,
         "auth_expiration_date": 1620791940,
         "tms_id": "EP004625760029",
