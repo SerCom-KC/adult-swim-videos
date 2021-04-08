@@ -161,66 +161,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1451677620,
-        "auth_expiration_date": 1617854340,
-        "tms_id": "EP007819760008",
-        "rating": 8.586985,
-        "description": "Vampire altar boys and vampire choir boys have been preying on priests throughout the city. The Archbishop of San Francisco asks the Special Fathers for help and the Special Sister gets a crash course in vampire hunting. But will she be ready for the terrifying and unholy Vampire Communion?",
-        "title_suggest": {
-            "input": [
-                "The Special Fathers vs. The Vampire Altar Boys",
-                "Special Fathers vs. The Vampire Altar Boys",
-                "Fathers vs. The Vampire Altar Boys",
-                "vs. The Vampire Altar Boys",
-                "The Vampire Altar Boys",
-                "Vampire Altar Boys",
-                "Altar Boys",
-                "Boys"
-            ]
-        },
-        "type": "episode",
-        "title": "The Special Fathers vs. The Vampire Altar Boys",
-        "expiration_date": 1614833940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
-        "duration": 705.43,
-        "episode_number": "8",
-        "original_air_date": 1193026500,
-        "clip_order": null,
-        "auth_launch_date": 1614834000,
-        "modified": 1616511867,
-        "media_id": "4e5feadd54a2bc78b28652128977363e7706ce9f",
-        "airing_id": "RADS1002272100077186",
-        "id": "DxfqGF4eS1mguNz4tR_Lcw",
-        "slug": "the-special-fathers-vs-the-vampire-altar-boys",
-        "views": 482012,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_2036103482-lucy_108_air.jpg",
-        "created": 1402945468,
-        "title_id": "678354",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616511867,
-        "tags": [
-            "lucy daughter of the devil episode special fathers versus vs vampire altar boys archie bishop"
-        ],
-        "rating_count": 2213,
-        "collection_title": "Lucy, The Daughter of the Devil",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611810000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036103482-lucy_108_air.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1451677680,
         "auth_expiration_date": 1619063940,
         "tms_id": "EP007819760010",
@@ -331,6 +271,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451677560,
+        "auth_expiration_date": 1617249540,
+        "tms_id": "EP007819760007",
+        "rating": 7.7885375,
+        "description": "Senator Whitehead's son Tad is a registered sex offender so Satan gives him a job as a busboy at Tequila Sally's. Tad makes a life-sized sculpture of Lucy out of raw meat and left-over food and has sex with it in the walk-in refrigerator. Meanwhile, Satan becomes fascinated with the online sex offender registry and its artistic possibilities.",
+        "title_suggest": {
+            "input": [
+                "The Busboy",
+                "Busboy"
+            ]
+        },
+        "type": "episode",
+        "title": "The Busboy",
+        "expiration_date": 1620878340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
+        "duration": 704,
+        "episode_number": "7",
+        "original_air_date": 1192421700,
+        "clip_order": null,
+        "auth_launch_date": 1614229200,
+        "modified": 1617433975,
+        "media_id": "a765613efa01044c7829da636037c766abe218fa",
+        "airing_id": "RADS1004012100086741",
+        "id": "h2jSunviQVSkY9_N8e2clg",
+        "slug": "the-busboy",
+        "views": 510444,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_2036103385-lucy_107_air.jpg",
+        "created": 1402945468,
+        "title_id": "678353",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1617433975,
+        "tags": [
+            "lucy daughter of the devil episode 7 busboy stalker tad whitehead sex offender tequila sally's restaurant freezer meat locker"
+        ],
+        "rating_count": 2024,
+        "collection_title": "Lucy, The Daughter of the Devil",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1617854400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036103385-lucy_107_air.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451677500,
         "auth_expiration_date": 1616039940,
         "tms_id": "EP007819760005",
@@ -385,7 +379,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451677440,
         "auth_expiration_date": 1620878340,
         "tms_id": "EP007819760002",

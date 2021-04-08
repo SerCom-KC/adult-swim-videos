@@ -396,7 +396,7 @@
         "launch_date": 1614834000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153080495367117.jpg",
         "id": "AWRc13fHTdxzjxdCmuVQ",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1531751340,
@@ -544,7 +544,7 @@
     },
     {
         "ott_launch_date": 1532356140,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1617854340,
         "tms_id": "EP029829490008",
         "description": "Millennial hero Derrick Beckles interviews Rah Ali and has a very special millennial flash mob.",
