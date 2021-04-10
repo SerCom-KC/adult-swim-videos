@@ -1,6 +1,7 @@
 {
-    "updated": 1618037956,
-    "added": [
+    "updated": 1618040416,
+    "added": [],
+    "removed": [
         {
             "auth": false,
             "ott_launch_date": 1449184500,
@@ -54,63 +55,6 @@
             "collection_slug": "neon-joe",
             "collection_title_id": "2073005",
             "online_exclusives": false
-        },
-        {
-            "auth": false,
-            "ott_launch_date": 1495722600,
-            "auth_expiration_date": 1548824340,
-            "tms_id": "EP023142130008",
-            "description": "Having escaped prison, Neon Joe confronts billionaire Elon Musk-type inventor Vance Dontay, and gets the shocking surprise of his life, forcing him to confront his demons. Will he succeed???",
-            "title_suggest": {
-                "input": [
-                    "Rules of the Road",
-                    "of the Road",
-                    "the Road",
-                    "Road"
-                ]
-            },
-            "expiration_date": 1618459140,
-            "title": "Rules of the Road",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "duration": 1315.0834028,
-            "collection_id": "_NeOfFU6TgWVR4BIUhAv4A",
-            "episode_number": "3",
-            "original_air_date": 1495684800,
-            "clip_order": null,
-            "auth_launch_date": 1546405200,
-            "modified": 1618037822,
-            "media_id": "4f100a9f6f2e7627b3393e6b1c0d03270ad0e391",
-            "airing_id": "RADS1002272100077253",
-            "id": "pFI4H7GGSOqx35I3-Tib2g",
-            "slug": "rules-of-the-road",
-            "views": 2151,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_20312114774-neonjoe_203_dup-20170508.jpg",
-            "created": 1494258665,
-            "season_number": "2",
-            "title_id": "2118596",
-            "tv_rating": "tv-14-dlv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1618037822,
-            "first_published": 1495354223,
-            "tags": [],
-            "collection_title": "Neon Joe",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1614834000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114774-neonjoe_203_dup-20170508.jpg",
-            "cma_id": "1453591",
-            "collection_slug": "neon-joe",
-            "collection_title_id": "2073005",
-            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
