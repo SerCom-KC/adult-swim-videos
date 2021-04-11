@@ -183,7 +183,7 @@
         "launch_date": 1618129800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210303/thumbnails/2_21331056422-FoodWars_041_PrideOfYoungLions.jpg",
         "id": "AXf4zkubQJ_4Uej5kTvC",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1618734540,
@@ -278,52 +278,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101328382-FoodWars_043_CaptiveQueen.jpg",
         "id": "AXgdZeWNQJ_4Uej5kTxx",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1619944140,
-        "tms_id": "",
-        "description": "Azami stuns Totsuki Academy with his bold proclamation. Although his reasoning makes sense on paper, it means nothing but bad news for the clubs and Kyokusei.",
-        "title_suggest": {
-            "input": [
-                "The Academy Falls",
-                "Academy Falls",
-                "Falls"
-            ]
-        },
-        "title": "The Academy Falls",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWuvYf7tCorLtcgflrvU",
-        "duration": 1389.0877,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1618129800,
-        "clip_order": null,
-        "airing_id": "RADS1004052100087281",
-        "media_id": "1dd1b9dc2d2756e511b00f8500d0d9c05424e55d",
-        "modified": 1617702407,
-        "slug": "the-academy-falls",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/1_213101328521-FoodWars_044_AcademyFalls.jpg",
-        "created": 1615400935,
-        "season_number": "3",
-        "title_id": "2258230",
-        "tv_rating": "tv-ma",
-        "published": 1617702407,
-        "tags": [],
-        "collection_title": "Food Wars!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101328521-FoodWars_044_AcademyFalls.jpg",
-        "id": "AXgdZh7xQJ_4Uej5kTxy",
         "auth": true
     }
 ]
