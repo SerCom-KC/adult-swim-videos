@@ -1116,5 +1116,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231057109-finalspace_303_air_cid-NT54X.jpg",
         "id": "AXfPnCmqbxpjZvbXYmYH",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1626143340,
+        "tms_id": "",
+        "description": "Gary and Quinn plan a dangerous rescue mission to save Avocato and the others.",
+        "title_suggest": {
+            "input": [
+                "One of Us",
+                "of Us",
+                "Us"
+            ]
+        },
+        "title": "One of Us",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWoJjOfPHl5gR6828zOv",
+        "duration": 1262.0275,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1618108200,
+        "clip_order": null,
+        "airing_id": "RADS1004052100087273",
+        "media_id": "3e1493d5420937c3399c518c8a153a6da2502617",
+        "modified": 1618004407,
+        "slug": "one-of-us",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/1_213101326330-FinalSpace_304_OneOfUs.jpg",
+        "created": 1615400796,
+        "season_number": "3",
+        "title_id": "2241628",
+        "tv_rating": "tv-14-lv",
+        "published": 1618004407,
+        "tags": [],
+        "collection_title": "Final Space",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101326330-FinalSpace_304_OneOfUs.jpg",
+        "id": "AXgdZAMSQJ_4Uej5kTxv",
+        "auth": true
     }
 ]
