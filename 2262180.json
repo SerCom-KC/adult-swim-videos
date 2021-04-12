@@ -87,5 +87,49 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311122424-birdgirl_101_dup-20210326.jpg",
         "id": "AXiI4TwoDmGy9WFjRqqK",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1620014340,
+        "tms_id": "EP038016760002",
+        "description": "30-something Judy Ken Sebben inherits her father's company, which would be great if that company weren't built around the most socially irresponsible 20th Century products and practices.",
+        "title_suggest": {
+            "input": [
+                "ShareBear"
+            ]
+        },
+        "title": "ShareBear",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXhbHjJvDmGy9WFjRqo0",
+        "duration": 1352.4845,
+        "episode_number": "2",
+        "original_air_date": 1618200000,
+        "auth_launch_date": 1618200000,
+        "clip_order": null,
+        "airing_id": "RADS1004072100087948",
+        "media_id": "643e29f5a8bb9178b6b1ed62bc325f8a7ede7f26",
+        "modified": 1618004658,
+        "slug": "share-bear",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210409/thumbnails/1_2149174497-birdgirl_102_ShareBear.jpg",
+        "created": 1617832314,
+        "title_id": "2262182",
+        "season_number": "1",
+        "tv_rating": "tv-14-dl",
+        "published": 1618004658,
+        "tags": [],
+        "collection_title": "Birdgirl",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210409/thumbnails/2_2149174497-birdgirl_102_ShareBear.jpg",
+        "id": "AXiuUgd0DmGy9WFjRqsA",
+        "auth": true
     }
 ]
