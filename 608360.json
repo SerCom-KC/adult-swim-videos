@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447367760,
         "auth_expiration_date": 1618199940,
         "tms_id": "EP007259620118",
@@ -330,7 +330,7 @@
         "launch_date": 1577770200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191202/thumbnails/2_191221132100-robotchicken_1013_dup-20191025.jpg",
         "id": "AW7HdKmX1YiBSfg0KZAG",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -491,7 +491,7 @@
     },
     {
         "ott_launch_date": 1519140600,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1618199940,
         "tms_id": "EP007259620183",
         "description": "Robot Chicken's writers can't get a grasp of Fight Club's rules. Was old Rose's Titanic flashback just a tall tale? Zack Morris takes a time out with the Avengers.",
@@ -1742,7 +1742,7 @@
         "cma_id": "1180402"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1458568800,
         "auth_expiration_date": 1618199940,
         "tms_id": "EP007259620162",
