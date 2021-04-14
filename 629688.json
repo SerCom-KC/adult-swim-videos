@@ -410,7 +410,7 @@
         "cma_id": "1340189"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171860,
         "auth_expiration_date": 1621396740,
         "tms_id": "EP007959510012",
@@ -633,59 +633,6 @@
         "cma_id": "1335961"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447171440,
-        "auth_expiration_date": 1618372740,
-        "tms_id": "EP007959510004",
-        "rating": 7.346991,
-        "description": "Orel gets a big head when he learns that God is everywhere, even in him.",
-        "title_suggest": {
-            "input": [
-                "Omnipresence"
-            ]
-        },
-        "type": "episode",
-        "title": "Omnipresence",
-        "expiration_date": 1615352340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 650.7674341,
-        "episode_number": "6",
-        "original_air_date": 1139806800,
-        "clip_order": null,
-        "auth_launch_date": 1615352400,
-        "modified": 1614931529,
-        "media_id": "b07ecb4d1a47fae81e62a10e89f81a7648f73100",
-        "airing_id": "RADS1003032100078790",
-        "id": "U0u4CS72SH-cG3HwEnMleA",
-        "slug": "omnipresence",
-        "views": 256200,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111552231-moralorel_006.jpg",
-        "created": 1402945470,
-        "title_id": "633148",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614931529,
-        "tags": [
-            "Moral Orel Episode 6 Omnipresence"
-        ],
-        "rating_count": 781,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612328400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111552231-moralorel_006.jpg",
-        "cma_id": "1332224"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447172100,
         "auth_expiration_date": 1576645140,
@@ -736,6 +683,57 @@
         "launch_date": 1617768000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111558188-moralorel_016.jpg",
         "cma_id": "1454318"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447171920,
+        "auth_expiration_date": 1577249940,
+        "tms_id": "EP007959510017",
+        "rating": 7.7157416,
+        "description": "When Orel learns that most \"pleasures\" in life comes from the devil, he starts avoiding anything that makes him happy.",
+        "title_suggest": {
+            "input": [
+                "Pleasure"
+            ]
+        },
+        "type": "episode",
+        "title": "Pleasure",
+        "expiration_date": 1621396740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 679.0667334,
+        "episode_number": "7",
+        "original_air_date": 1168233300,
+        "clip_order": null,
+        "auth_launch_date": 1574226000,
+        "modified": 1617952526,
+        "media_id": "9c9a527731e1f3ce8dbb1e812ad071478fb48d29",
+        "airing_id": "RADS1004092100088177",
+        "id": "t4ArZQOvQhG28SxZPfNLZA",
+        "slug": "pleasure",
+        "views": 300765,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111558403-moralorel_012.jpg",
+        "created": 1402945470,
+        "title_id": "653292",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1617952526,
+        "tags": [],
+        "rating_count": 883,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618372800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111558403-moralorel_012.jpg",
+        "cma_id": "1459088"
     },
     {
         "auth": true,
