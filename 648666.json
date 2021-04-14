@@ -270,7 +270,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169280,
         "auth_expiration_date": 1621396740,
         "tms_id": "EP008519090034",
@@ -321,6 +321,72 @@
         "launch_date": 1615352400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113493-metalocalypse_214_bim.jpg",
         "cma_id": "1252313"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447169700,
+        "auth_expiration_date": 1518595199,
+        "tms_id": "EP008519090042",
+        "rating": 9.283698,
+        "description": "After the attack on Mordhaus, Dethklok is left without a manager and plagued by greedy record execs and forced to face the brutality of the slumping economy while dabbling in interior design. Will they spend everything and sign a deal that will render them powerless? Or worse, will they allow Murderface to turn the living room into an Arizona-styled sandscape?",
+        "title_suggest": {
+            "input": [
+                "Renovationklok"
+            ]
+        },
+        "type": "episode",
+        "title": "Renovationklok",
+        "expiration_date": 1621396740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 1307.7007007,
+        "episode_number": "1",
+        "original_air_date": 1257744600,
+        "clip_order": null,
+        "auth_launch_date": 1515571200,
+        "modified": 1617953433,
+        "media_id": "478c13f1b33a01e8581e1cff4b997f9d7af54ba6",
+        "airing_id": "RADS1004092100088172",
+        "id": "A-pLOH-XTPeayk2qHn9e-g",
+        "slug": "renovationklok",
+        "views": 1204283,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311115469-metalocalypse_301_air.jpg",
+        "created": 1402945469,
+        "title_id": "777846",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1617953433,
+        "tags": [
+            "renovation klok",
+            "attack",
+            "mordhaus",
+            "dethklok",
+            "manager",
+            "record execs",
+            "brutality",
+            "economy",
+            "interior design",
+            "deal",
+            "murderface",
+            "living room",
+            "arizona",
+            "sandscape"
+        ],
+        "rating_count": 4505,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618372800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311115469-metalocalypse_301_air.jpg",
+        "cma_id": "1271551"
     },
     {
         "ott_launch_date": null,
@@ -522,56 +588,5 @@
         "launch_date": 1616558400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_2031111540-metalocalypse_218_bim.jpg",
         "cma_id": "1263874"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447169220,
-        "auth_expiration_date": 1618372740,
-        "tms_id": "EP008519090029",
-        "rating": 9.0246525,
-        "description": "Dethklok travels to the Amazon where they learn about native brutality from the Yannemango Indians.",
-        "title_suggest": {
-            "input": [
-                "Dethcarraldo"
-            ]
-        },
-        "type": "episode",
-        "title": "Dethcarraldo",
-        "expiration_date": 1615352340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 691.4671338,
-        "episode_number": "9",
-        "original_air_date": 1212379200,
-        "clip_order": null,
-        "auth_launch_date": 1615352400,
-        "modified": 1614930412,
-        "media_id": "8887a0d690fa99538726fec007bbec15b05498c8",
-        "airing_id": "RADS1001292100069583",
-        "id": "xiJh6gyHTD2y_TjyAAQQiA",
-        "slug": "dethcarraldo",
-        "views": 851375,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111052280-metalocalypse_209_bim.jpg",
-        "created": 1402945469,
-        "title_id": "693499",
-        "season_number": "2",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614930412,
-        "tags": [],
-        "rating_count": 2880,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612328400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111052280-metalocalypse_209_bim.jpg",
-        "cma_id": "693499"
     }
 ]
