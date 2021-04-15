@@ -657,6 +657,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447787040,
+        "auth_expiration_date": 1622087940,
         "tms_id": "EP013726210011",
         "description": "Television's favorite redneck warlock puts on one last show.",
         "title_suggest": {
@@ -680,8 +681,9 @@
         "episode_number": "3",
         "original_air_date": 1437970500,
         "clip_order": null,
-        "modified": 1615619237,
-        "airing_id": "RADS1003122100081992",
+        "auth_launch_date": 1619064000,
+        "modified": 1618501116,
+        "airing_id": "RADS1004152100090358",
         "media_id": "9a152742824e80fec41580299d7c2268141a5a40",
         "id": "XRevrgXJTnCwXJLinttWMg",
         "slug": "jett-copperhead-six-pack-magician",
@@ -692,7 +694,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1615619237,
+        "published": 1618501116,
         "first_published": 1437733222,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
