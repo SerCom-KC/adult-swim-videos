@@ -206,55 +206,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1618459140,
-        "tms_id": "",
-        "description": "When Hell runs out of ball clamps, Satan sends his best men to get more. Unfortunately, Gary is one of his best men.",
-        "title_suggest": {
-            "input": [
-                "Milk and Honey",
-                "and Honey",
-                "Honey"
-            ]
-        },
-        "title": "Milk and Honey",
-        "expiration_date": 1615438740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 677.58,
-        "episode_number": "9",
-        "original_air_date": 1559966400,
-        "auth_launch_date": 1615438800,
-        "clip_order": null,
-        "media_id": "806982bb251273e19cd4130f8adb2611eae109e0",
-        "modified": 1615019961,
-        "airing_id": "RADS1003052100079248",
-        "slug": "milk-and-honey",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15598401267412.jpg",
-        "created": 1556816844,
-        "season_number": "4",
-        "title_id": "2191450",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1615019961,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612414800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15598401267412.jpg",
-        "id": "AWp5g9Z2AScUIg8XxfaD",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1619063940,
         "tms_id": "",
         "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
@@ -605,7 +556,7 @@
         "cma_id": "1384952"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787040,
         "auth_expiration_date": 1621483140,
         "tms_id": "EP013726210010",
@@ -749,6 +700,50 @@
         "launch_date": 1616040000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/jett-copperhead-six-pack-magician/ypf_cc_205_pt2_1.jpg",
         "cma_id": "1393798"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447787280,
+        "tms_id": "EP013726210015",
+        "description": "Cerberus is tired of guarding the gate to Hell, so he drags Gary out to Earth.",
+        "title_suggest": {
+            "input": [
+                "Cerberus"
+            ]
+        },
+        "expiration_date": 1621483140,
+        "title": "Cerberus",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 662.06,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "7",
+        "original_air_date": 1440994500,
+        "clip_order": null,
+        "modified": 1618034741,
+        "airing_id": "RADS1004092100088238",
+        "media_id": "5e7a036daed5f77747f46aa3ae8d6f2ac28bae09",
+        "id": "YT_QV3-7QJyrNOyH6Ys5qA",
+        "slug": "cerberus",
+        "views": 27619,
+        "created": 1436294406,
+        "season_number": "2",
+        "title_id": "2062769",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1618034741,
+        "first_published": 1440858021,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1618459200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/cerberus/ypf_ep207_001_ahuo5230ah78skx.jpg",
+        "cma_id": "1360899"
     },
     {
         "auth": false,

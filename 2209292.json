@@ -1,57 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1617249540,
-        "tms_id": "EP033351550013",
-        "description": "Tanjiro's world keeps spinning as Kyogai's tsuzumi commands gravity itself with every beat, driving Tanjiro up the wall. Literally.",
-        "title_suggest": {
-            "input": [
-                "Something More Important Than Life",
-                "More Important Than Life",
-                "Important Than Life",
-                "Than Life",
-                "Life"
-            ]
-        },
-        "title": "Something More Important Than Life",
-        "expiration_date": 1618459140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
-        "duration": 1256.0881,
-        "episode_number": "13",
-        "original_air_date": 1580020200,
-        "auth_launch_date": 1613624400,
-        "clip_order": null,
-        "media_id": "7eaab3ab815617307bff31142367058a464e7bfd",
-        "modified": 1616953418,
-        "airing_id": "RADS1003282100084421",
-        "slug": "something-more-important-than-life",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200114/thumbnails/1_20114119564-demonslayer_013.jpg",
-        "created": 1579016644,
-        "season_number": "1",
-        "title_id": "2209305",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616953418,
-        "tags": [],
-        "collection_title": "Demon Slayer",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1617249600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_20114119564-demonslayer_013.jpg",
-        "id": "AW-kuee6GRcVO2K2pmCx",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1617854340,
         "tms_id": "EP033351550014",
         "description": "Kyogai defeated at last, Tanjiro finds Zenitsu battered and worn and holding an unconscious Nezuko before the dual Nichirin Swords of the man in the boar mask.",
@@ -250,7 +199,7 @@
         "launch_date": 1618459200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241447520-demonslayer_015.jpg",
         "id": "AXARvrcpGRcVO2K2pmri",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -396,6 +345,55 @@
         "launch_date": 1601956800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200309/thumbnails/2_20391051598-DemonSlayer_020.jpg",
         "id": "AXC_yA8HGRcVO2K2pm_Y",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1622087940,
+        "tms_id": "EP033351550021",
+        "description": "Rui is visited by memories of his life before becoming a demon.",
+        "title_suggest": {
+            "input": [
+                "Against Corps Rules",
+                "Corps Rules",
+                "Rules"
+            ]
+        },
+        "title": "Against Corps Rules",
+        "expiration_date": 1603771140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
+        "duration": 1256.0881,
+        "episode_number": "21",
+        "original_air_date": 1584851400,
+        "auth_launch_date": 1618459200,
+        "clip_order": null,
+        "media_id": "4cf45a2e4589fb180a6099abe744a4d283530222",
+        "modified": 1618040179,
+        "airing_id": "RADS1004092100088203",
+        "slug": "against-corps-rules",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200317/thumbnails/1_203171638215-DemonSlayer_021.jpg",
+        "created": 1584477508,
+        "season_number": "1",
+        "title_id": "2209313",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1618040179,
+        "tags": [],
+        "collection_title": "Demon Slayer",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1602561600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200317/thumbnails/2_203171638215-DemonSlayer_021.jpg",
+        "id": "AXDqOBT5C8QgH-t19H23",
         "auth": true
     }
 ]

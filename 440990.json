@@ -315,56 +315,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1618459140,
-        "tms_id": "EP002960010315",
-        "description": "Peter, Joe, Cleveland, and Quagmire want to do an activity together so they decide to start a podcast. After a horrendous start, Peter accidently plays multiple songs and is mistaken for a DJ by a club owner.",
-        "title_suggest": {
-            "input": [
-                "Peter's Def Jam",
-                "Def Jam",
-                "Jam"
-            ]
-        },
-        "title": "Peter's Def Jam",
-        "type": "episode",
-        "expiration_date": 1610945940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1299.8341675,
-        "episode_number": "12",
-        "original_air_date": 1487822400,
-        "clip_order": null,
-        "auth_launch_date": 1617854400,
-        "modified": 1617435740,
-        "media_id": "f2a5ece07314c4db66c53e33bb4f6383e16efd8a",
-        "airing_id": "RADS1004012100086725",
-        "id": "HjV-qakcSqyBiF-RxkEpIw",
-        "slug": "peters-def-jam",
-        "views": 10237,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1487491826,
-        "title_id": "2105391",
-        "tv_rating": "tv-14",
-        "season_number": "15",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1617435740,
-        "first_published": 1487491826,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1610341200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-def-jam/familyguy_1409_air_cid-32N15.jpg",
-        "cma_id": "2105391"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1618891140,
         "tms_id": "EP002960010324",
         "description": "Lois has a girls' night out with Bonnie and Donna where they decide to prank call their husbands. After Lois's friends ridicule their spouses, Lois decides to pretend to be Peter's long lost daughter.",
@@ -661,5 +611,55 @@
         "launch_date": 1611550800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/peters-lost-youth/familyguy_1414_air_cid-33M0K.jpg",
         "cma_id": "1374382"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1619063940,
+        "tms_id": "EP002960010158",
+        "rating": 7.318421,
+        "description": "Lois accuses conservative radio talk show host Rush Limbaugh of brainwashing Brian into thinking he supports Republican values.",
+        "title_suggest": {
+            "input": [
+                "Excellence in Broadcasting",
+                "in Broadcasting",
+                "Broadcasting"
+            ]
+        },
+        "type": "episode",
+        "title": "Excellence in Broadcasting",
+        "expiration_date": 1613365140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1304.8368,
+        "episode_number": "2",
+        "original_air_date": 1286852400,
+        "clip_order": null,
+        "auth_launch_date": 1618459200,
+        "modified": 1618039303,
+        "media_id": "0136574a05c00387057f3f7b67e1b93c24288327",
+        "airing_id": "RADS1004092100088204",
+        "id": "tivDLiAoSmWr4SV9Pkhe2A",
+        "slug": "excellence-in-broadcasting",
+        "views": 143152,
+        "thumbnail": "",
+        "created": 1402945465,
+        "title_id": "809139",
+        "season_number": "9",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1618039303,
+        "tags": [],
+        "rating_count": 380,
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1612760400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2220400697644741607.jpg",
+        "cma_id": "1488989"
     }
 ]
