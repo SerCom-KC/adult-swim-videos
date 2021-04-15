@@ -1,7 +1,6 @@
 {
-    "updated": 1618444639,
-    "added": [],
-    "removed": [
+    "updated": 1618456005,
+    "added": [
         {
             "auth_expiration_date": 1603684740,
             "tms_id": "",
@@ -28,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1001152100063999",
             "media_id": "d84ce0683e0abed01c29709da7e37ff2eeb1b4c6",
-            "modified": 1610750432,
+            "modified": 1618455866,
             "slug": "pinocchio",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_2056105678-JJVFT_005.jpg",
@@ -36,7 +35,7 @@
             "season_number": "1",
             "title_id": "2213499",
             "tv_rating": "tv-ma-lv",
-            "published": 1610750432,
+            "published": 1618455866,
             "tags": [],
             "collection_title": "JJ Villard's Fairy Tales",
             "disable_ads": false,
@@ -49,5 +48,6 @@
             "collection_title_id": "2213494",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
