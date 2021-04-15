@@ -100,6 +100,54 @@
     },
     {
         "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1614833940,
+        "tms_id": "EP019881990010",
+        "description": "A Tornado rips through Matt Peters childhood home, exposing something horribly embarrassing from his past. To make it go away, Matt must make a deal with the devil.",
+        "title_suggest": {
+            "input": [
+                "Tornado"
+            ]
+        },
+        "title": "Tornado",
+        "type": "episode",
+        "expiration_date": 1621483140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 1351.8757298,
+        "episode_number": "9",
+        "original_air_date": 1449288000,
+        "clip_order": null,
+        "auth_launch_date": 1611810000,
+        "modified": 1618032565,
+        "airing_id": "RADS1004092100088237",
+        "media_id": "ef021efdb3fe3d1911a57e0ed46fb150dfd0bc29",
+        "id": "9j_r9epBTF-qozLojK1h_g",
+        "slug": "tornado",
+        "views": 3,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117845426-tebs_202_dup-20151028.jpg",
+        "created": 1448954419,
+        "title_id": "2073346",
+        "tv_rating": "tv-ma-l",
+        "season_number": "1",
+        "ott_expiration_date": null,
+        "active": false,
+        "published": 1618032565,
+        "first_published": 1448954419,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618459200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117845426-tebs_202_dup-20151028.jpg",
+        "cma_id": "1142647"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447785660,
         "auth_expiration_date": 1613624340,
         "tms_id": "EP019881990007",
@@ -458,7 +506,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447785600,
         "auth_expiration_date": 1621483140,
         "tms_id": "EP019881990004",
@@ -507,56 +555,6 @@
         "launch_date": 1615438800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117844188-tebs_104_dup-20140903.jpg",
         "cma_id": "1150927"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1506954540,
-        "auth_expiration_date": 1618459140,
-        "tms_id": "EP019881990016",
-        "description": "Belle and Bonnie, owners of the Butter Barn, fall for the charm of an eccentric billionaire and lose their prized boy, Mongo in the process.",
-        "title_suggest": {
-            "input": [
-                "Butter"
-            ]
-        },
-        "title": "Butter",
-        "type": "episode",
-        "expiration_date": 1615438740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 1290.2919099,
-        "episode_number": "6",
-        "original_air_date": 1506916800,
-        "clip_order": null,
-        "auth_launch_date": 1615438800,
-        "modified": 1616511865,
-        "media_id": "1e07db9f8cf70dcdd751e6802ffe18b48af676ba",
-        "airing_id": "RADS1003052100079228",
-        "id": "psNwF_AEQk2tZck9gzZBSg",
-        "slug": "butter",
-        "views": 1897,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211784346-tebs_302_dup-20170925.jpg",
-        "created": 1506716302,
-        "season_number": "2",
-        "title_id": "2133105",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616511865,
-        "first_published": 1506716302,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612414800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211784346-tebs_302_dup-20170925.jpg",
-        "cma_id": "1488191"
     },
     {
         "auth": true,
