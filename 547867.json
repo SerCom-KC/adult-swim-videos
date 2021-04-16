@@ -55,6 +55,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451682780,
+        "auth_expiration_date": null,
+        "tms_id": "EP007008200015",
+        "rating": 8.715221,
+        "description": "Tom makes a new friend on the Internet.",
+        "title_suggest": {
+            "input": [
+                "Friendship Alliance",
+                "Alliance"
+            ]
+        },
+        "type": "episode",
+        "title": "Friendship Alliance",
+        "expiration_date": 1621569540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 673.64,
+        "episode_number": "17",
+        "original_air_date": 1154925000,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1618126290,
+        "airing_id": "RADS1004092100088392",
+        "media_id": "ba01040b9b123ffe262a4b0c6fa4877247fe3e31",
+        "id": "AiL8W6G6TD2UJ4S3Tm38pQ",
+        "slug": "friendship-alliance",
+        "views": 118222,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117958366-tgttm_030.jpg",
+        "created": 1402945482,
+        "title_id": "639413",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1618126290,
+        "tags": [
+            "tom goes to the mayor episode 30 friendship alliance internet chat"
+        ],
+        "rating_count": 611,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618545600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958366-tgttm_030.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451682240,
         "auth_expiration_date": null,
         "tms_id": "EP007008200018",
@@ -264,59 +317,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1451682120,
-        "auth_expiration_date": 1618545540,
-        "tms_id": "EP007008200010",
-        "rating": 8.557838,
-        "description": "Tom's concerns for the health of Jefferton's children leads to a Pipe Camp.",
-        "title_suggest": {
-            "input": [
-                "Pipe Camp",
-                "Camp"
-            ]
-        },
-        "type": "episode",
-        "title": "Pipe Camp",
-        "expiration_date": 1615525140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 706.84,
-        "episode_number": "13",
-        "original_air_date": 1116821700,
-        "clip_order": null,
-        "auth_launch_date": 1615525200,
-        "modified": 1615104797,
-        "airing_id": "RADS1001292100069623",
-        "media_id": "6b5a3ab00801edbbcb117f7a678619a70bbc39b0",
-        "id": "glpgSl8ZQ0-YJOhQsF1ihQ",
-        "slug": "pipe-camp",
-        "views": 138471,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117952499-tgttm_013.jpg",
-        "created": 1402945482,
-        "title_id": "615368",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1615104797,
-        "tags": [
-            "tom goes to the mayor episode 13 pipe camp children"
-        ],
-        "rating_count": 389,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612501200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952499-tgttm_013.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1451682720,
         "auth_expiration_date": 1621569540,
         "tms_id": "EP007008200017",
