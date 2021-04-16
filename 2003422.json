@@ -143,6 +143,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1619150340,
+        "tms_id": "EP012792980041",
+        "description": "Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina).",
+        "title_suggest": {
+            "input": [
+                "Topsy"
+            ]
+        },
+        "expiration_date": 1604897940,
+        "title": "Topsy",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.9563,
+        "episode_number": "16",
+        "original_air_date": 1384831800,
+        "clip_order": null,
+        "auth_launch_date": 1618545600,
+        "modified": 1618130742,
+        "media_id": "094b5c412cdacb681041f2863bbd80f982e38076",
+        "airing_id": "RADS1004092100088383",
+        "id": "AnzNezb8RtW7UnMxRfuf3A",
+        "slug": "topsy",
+        "views": 7070,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085647121414.jpg",
+        "created": 1403211172,
+        "season_number": "3",
+        "title_id": "2003527",
+        "tv_rating": "tv-pg-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1618130742,
+        "first_published": 1419222027,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1604293200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085647121414.jpg",
+        "cma_id": "2003527"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1614401940,
@@ -242,54 +290,6 @@
         "launch_date": 1603080000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg",
         "cma_id": "2003521"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1618545540,
-        "tms_id": "EP012792980031",
-        "description": "In an homage to Jaws, Bob's landlord and pier proprietor Mr. Fischoeder buys a mechanical shark as a pier attraction, but when it turns wild and starts terrorizing the town, it's up to Bob and the family to stop it.",
-        "title_suggest": {
-            "input": [
-                "The Deepening",
-                "Deepening"
-            ]
-        },
-        "expiration_date": 1602475140,
-        "title": "The Deepening",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1270.7695,
-        "episode_number": "6",
-        "original_air_date": 1381802400,
-        "clip_order": null,
-        "auth_launch_date": 1617940800,
-        "modified": 1617514604,
-        "media_id": "227fded7473645fd6e648e0faff7074a91841a87",
-        "airing_id": "RADS1004022100086808",
-        "id": "Sw52DTbnSJWC2NfqUQ6kuQ",
-        "slug": "the-deepening",
-        "views": 6677,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216342451813.jpg",
-        "created": 1403210419,
-        "season_number": "3",
-        "title_id": "2003517",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1617514604,
-        "first_published": 1411356054,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1601870400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216342451813.jpg",
-        "cma_id": "2003517"
     },
     {
         "auth": true,
@@ -492,57 +492,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1618545540,
-        "tms_id": "EP012792980030",
-        "description": "Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous.",
-        "title_suggest": {
-            "input": [
-                "An Indecent Thanksgiving Proposal",
-                "Indecent Thanksgiving Proposal",
-                "Thanksgiving Proposal",
-                "Proposal"
-            ]
-        },
-        "expiration_date": 1602475140,
-        "title": "An Indecent Thanksgiving Proposal",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1294.2596,
-        "episode_number": "5",
-        "original_air_date": 1385348400,
-        "clip_order": null,
-        "auth_launch_date": 1617940800,
-        "modified": 1617523814,
-        "media_id": "3287169512e681455e84ed24a9a08fe6f57ff57a",
-        "airing_id": "RADS1004022100086793",
-        "id": "sldYo92OShixZ1NZiHNN_g",
-        "slug": "an-indecent-thanksgiving-proposal",
-        "views": 7351,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152967997623910.jpg",
-        "created": 1403211308,
-        "season_number": "3",
-        "title_id": "2003516",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1617523814,
-        "first_published": 1410751236,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1601870400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg",
-        "cma_id": "1451130"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1618977540,
         "tms_id": "EP012792980038",
         "description": "When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will \"wow\" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned.",
@@ -638,5 +587,55 @@
         "launch_date": 1618200000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg",
         "cma_id": "1490747"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1619150340,
+        "tms_id": "EP012792980040",
+        "description": "In an homage to E.T. the Extra-Terrestrial, Gene finds an expensive talking toilet and befriends it. Together with Louise and Tina, the Belcher kids help the toilet hide from the evil toilet hunter.",
+        "title_suggest": {
+            "input": [
+                "O.T. The Outside Toilet",
+                "The Outside Toilet",
+                "Outside Toilet",
+                "Toilet"
+            ]
+        },
+        "expiration_date": 1604293140,
+        "title": "O.T. The Outside Toilet",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1274.273,
+        "episode_number": "15",
+        "original_air_date": 1384743600,
+        "clip_order": null,
+        "auth_launch_date": 1618545600,
+        "modified": 1618138296,
+        "media_id": "2a100c0c37ca9c3c3320f58a684d5c264fa88d1a",
+        "airing_id": "RADS1004092100088371",
+        "id": "x-4SkB2lQp20nrsTB9k23w",
+        "slug": "o-t-the-outside-toilet",
+        "views": 8104,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870806659120.jpg",
+        "created": 1403210930,
+        "season_number": "3",
+        "title_id": "2003526",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1618138296,
+        "first_published": 1418617226,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1603684800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870806659120.jpg",
+        "cma_id": "2003526"
     }
 ]
