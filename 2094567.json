@@ -53,6 +53,55 @@
     {
         "ott_launch_date": 1540218540,
         "auth": false,
+        "auth_expiration_date": 1606971540,
+        "tms_id": "",
+        "description": "Patient 37 visits Dream Corp LLC for his debilitating fear of confined spaces. T.E.R.R.Y. discovers the internet.",
+        "title_suggest": {
+            "input": [
+                "The Bullied",
+                "Bullied"
+            ]
+        },
+        "expiration_date": 1621828740,
+        "type": "episode",
+        "title": "The Bullied",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.17,
+        "episode_number": "2",
+        "original_air_date": 1540181700,
+        "auth_launch_date": 1603944000,
+        "clip_order": null,
+        "media_id": "9d3c7601dbf8919c1e17a344e202dfdd2e42fde4",
+        "modified": 1618450223,
+        "airing_id": "RADS1004142100089852",
+        "id": "AV-ionxjwdpKFAKSbSMY",
+        "slug": "the-bullied",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341029312-dreamcorpllc_202_air_cid-3N6DX.jpg",
+        "created": 1510262078,
+        "season_number": "2",
+        "title_id": "2133686",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1618450223,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618804800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341029312-dreamcorpllc_202_air_cid-3N6DX.jpg"
+    },
+    {
+        "ott_launch_date": 1540218540,
+        "auth": false,
         "auth_expiration_date": 1606366740,
         "tms_id": "",
         "description": "Patient 21 is afraid to fall asleep. After a parasomnia episode injures the new intern Bea, Dr Roberts drops in to the patient's dream to guide him through the wake of his fears.",
@@ -1065,7 +1114,7 @@
         "launch_date": 1615780800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171520320-DreamCorpLLC_305.jpg",
         "id": "AXSdguVMSeFB2d0c388S",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1616385540,
