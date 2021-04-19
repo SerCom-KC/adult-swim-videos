@@ -513,7 +513,7 @@
         "launch_date": 1615780800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161712495-ericandre_502_dup-20200812.jpg",
         "id": "AXSYw1UXSeFB2d0c3877",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1615780740,
@@ -746,17 +746,20 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1618804740,
+        "auth_expiration_date": 1618199940,
         "tms_id": "",
-        "description": "Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty.",
+        "description": "Eric welcomes Luis Guzm\u00e1n and Tia Carrere. Felipe Esparza hangs out. Mike Penis returns with a guest list of his own! JPEGMAFIA, Lil Yachty, MURS, Trippie Redd and Zack Fox on a new Rapper Warrior Ninja.",
         "title_suggest": {
             "input": [
-                "Bone TV",
-                "TV"
+                "Named After My Dad's Penis",
+                "After My Dad's Penis",
+                "My Dad's Penis",
+                "Dad's Penis",
+                "Penis"
             ]
         },
-        "title": "Bone TV",
-        "expiration_date": 1615780740,
+        "title": "Named After My Dad's Penis",
+        "expiration_date": 1621828740,
         "type": "episode",
         "platforms": [
             "android",
@@ -765,30 +768,30 @@
             "fire-tv"
         ],
         "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 667.5002,
-        "episode_number": "8",
+        "duration": 675.5082,
+        "episode_number": "7",
         "original_air_date": null,
-        "auth_launch_date": 1615780800,
+        "auth_launch_date": 1615179600,
         "clip_order": null,
-        "airing_id": "RADS1003082100079671",
-        "media_id": "aacf6a70f967c518dfcfb33d9f805734dacc2fcd",
-        "modified": 1615477096,
-        "slug": "bone-tv",
+        "airing_id": "RADS1004142100089895",
+        "media_id": "dac345dc57549a17c2d38edad9eef09c3e88bba0",
+        "modified": 1618454246,
+        "slug": "named-after-my-dads-penis",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161721227-ericandre_508_dup-20200914.jpg",
-        "created": 1600291286,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161720229-ericandre_506_dup-20200910.jpg",
+        "created": 1600291229,
         "season_number": "5",
-        "title_id": "2230787",
-        "tv_rating": "tv-ma-ls",
-        "published": 1615477096,
+        "title_id": "2230786",
+        "tv_rating": "tv-ma-l",
+        "published": 1618454246,
         "tags": [],
         "collection_title": "The Eric Andre Show",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1612760400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg",
-        "id": "AXSYyy1XLyLQBOXK_POB",
-        "auth": true
+        "launch_date": 1618804800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
+        "id": "AXSYyk1WSeFB2d0c387_",
+        "auth": false
     },
     {
         "auth_expiration_date": 1620014340,

@@ -325,6 +325,56 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1554733800,
+        "auth_expiration_date": 1614661140,
+        "tms_id": "EP031867090001",
+        "description": "Dying to eat.",
+        "title_suggest": {
+            "input": [
+                "Dying to Eat",
+                "to Eat",
+                "Eat"
+            ]
+        },
+        "title": "Dying to Eat",
+        "type": "episode",
+        "expiration_date": 1621828740,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 688.79,
+        "episode_number": "1",
+        "original_air_date": 1554696000,
+        "auth_launch_date": 1611637200,
+        "clip_order": null,
+        "airing_id": "RADS1004142100089862",
+        "media_id": "2ec99faa7ab522b19a7be93d7b1423afcc72c362",
+        "modified": 1618450228,
+        "slug": "dying-to-eat",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15543096441134.jpg",
+        "created": 1553916364,
+        "title_id": "2178189",
+        "season_number": "1",
+        "tv_rating": "tv-14-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1618450228,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618804800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15543096441134.jpg",
+        "id": "AWnMogXzHl5gR6828zAo",
+        "auth": false
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -636,53 +686,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1618804740,
-        "tms_id": "EP031867090013",
-        "description": "Still Dying to Eat.",
-        "title_suggest": {
-            "input": [
-                "Still Dying to Eat",
-                "Dying to Eat",
-                "to Eat",
-                "Eat"
-            ]
-        },
-        "title": "Still Dying to Eat",
-        "expiration_date": 1615780740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 675.6416,
-        "episode_number": "1",
-        "original_air_date": "1607317200",
-        "auth_launch_date": 1615780800,
-        "clip_order": null,
-        "airing_id": "RADS1003082100079680",
-        "media_id": "7cc2503fb0ad9c6e4180ce36c3b7a50e574f6db8",
-        "modified": 1616511866,
-        "slug": "still-dying-to-eat",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241038493-LazorWulf_201_dup-20200930_DyingToEat.jpg",
-        "created": 1606232339,
-        "season_number": "2",
-        "title_id": "2224732",
-        "tv_rating": "tv-14-dl",
-        "published": 1616511866,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612760400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241038493-LazorWulf_201_dup-20200930_DyingToEat.jpg",
-        "id": "AXX66HRKbxpjZvbXYlcx",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1619409540,
         "tms_id": "EP031867090012",
         "description": "If That Was Tomorrow. This Is Today.",
@@ -958,7 +961,7 @@
         "launch_date": 1615780800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241041241-LazorWulf_206_dup-20201005_WhereYouStay.jpg",
         "id": "AXX66wHGLyLQBOXK_Prj",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1618199940,

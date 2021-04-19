@@ -153,6 +153,57 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1548171000,
+        "auth_expiration_date": 1612155540,
+        "tms_id": "",
+        "description": "A catastrophic disaster has struck the kingdom: all the wine has been stolen!",
+        "title_suggest": {
+            "input": [
+                "Tigtone and the Wine Crisis",
+                "and the Wine Crisis",
+                "the Wine Crisis",
+                "Wine Crisis",
+                "Crisis"
+            ]
+        },
+        "title": "Tigtone and the Wine Crisis",
+        "expiration_date": 1621828740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 665.5,
+        "episode_number": "3",
+        "original_air_date": 1548046800,
+        "auth_launch_date": 1609131600,
+        "clip_order": null,
+        "media_id": "0f5af8917667725e44e3e2e915767bd850009faf",
+        "modified": 1618450840,
+        "airing_id": "RADS1004142100089869",
+        "slug": "tigtone-and-the-wine-crisis",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154757675592213.jpg",
+        "created": 1546463132,
+        "season_number": "1",
+        "title_id": "2171685",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1618450840,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "modified_by": "ODT Listener",
+        "launch_date": 1618804800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154757675592213.jpg",
+        "id": "AWgQYrnfAScUIg8XxbiE",
+        "auth": false
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -723,7 +774,7 @@
         "launch_date": 1615780800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117947395-Tigtone_209_dup-20200717.jpg",
         "id": "AXRJvN7zSeFB2d0c38t1",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1616385540,
@@ -771,53 +822,5 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117951210-Tigtone_210.jpg",
         "id": "AXRJvStHLyLQBOXK_PMq",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1618804740,
-        "tms_id": "",
-        "description": "In order to escape an endless maze, Tigtone must find the way out!",
-        "title_suggest": {
-            "input": [
-                "Tigtone and the Demon Maze",
-                "and the Demon Maze",
-                "the Demon Maze",
-                "Demon Maze",
-                "Maze"
-            ]
-        },
-        "title": "Tigtone and the Demon Maze",
-        "expiration_date": 1615780740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 673.4728,
-        "episode_number": "4",
-        "original_air_date": "1600661700",
-        "auth_launch_date": 1615780800,
-        "clip_order": null,
-        "airing_id": "RADS1003082100079673",
-        "media_id": "bd8552a24d2699da1b6c3ba5aad7a4ab11b6b16f",
-        "modified": 1615366553,
-        "slug": "tigtone-and-the-demon-maze",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117945478-Tigtone_207_dup-20200424.jpg",
-        "created": 1598997879,
-        "season_number": "2",
-        "title_id": "2222960",
-        "tv_rating": "tv-14-v",
-        "published": 1615366553,
-        "tags": [],
-        "collection_title": "Tigtone",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612760400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117945478-Tigtone_207_dup-20200424.jpg",
-        "id": "AXRLs1kFSeFB2d0c38ue",
-        "auth": true
     }
 ]
