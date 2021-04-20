@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1444574100,
         "auth_expiration_date": 1621915140,
         "tms_id": "EP011016070008",
@@ -286,6 +286,67 @@
         "cma_id": "1390020"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1444574220,
+        "auth_expiration_date": null,
+        "tms_id": "EP011016070013",
+        "rating": 8.657346,
+        "description": "A mole is discovered in the witness protection decoy program.",
+        "title_suggest": {
+            "input": [
+                "Mole"
+            ]
+        },
+        "type": "episode",
+        "title": "Mole",
+        "expiration_date": 1621915140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
+        "duration": 1352.6339673,
+        "episode_number": "6",
+        "original_air_date": 1285300800,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1618470195,
+        "media_id": "08b73736da346244d31262ce04bb1d24d752fb14",
+        "airing_id": "RADS1004142100089928",
+        "id": "biPiaNiaQPq_CaPQNbQSsQ",
+        "slug": "mole",
+        "views": 228715,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331436536-delocated_206.jpg",
+        "created": 1402945463,
+        "title_id": "811364",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1618470195,
+        "tags": [
+            "Delocated",
+            "Jon Glaser",
+            "Ski Mask",
+            "Witness Protection Program",
+            "Mole",
+            "Jon",
+            "Rob",
+            "FBI",
+            "Susan"
+        ],
+        "rating_count": 429,
+        "collection_title": "Delocated",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618891200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331436536-delocated_206.jpg",
+        "cma_id": "1403859"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446581160,
         "auth_expiration_date": 1620705540,
@@ -338,58 +399,6 @@
         "launch_date": 1614661200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331434194-delocated_105.jpg",
         "cma_id": "751596"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446581040,
-        "auth_expiration_date": 1618891140,
-        "tms_id": "EP011016070003",
-        "rating": 7.793258,
-        "description": "\"Jon\" fires Mike so they can officially be friends.",
-        "title_suggest": {
-            "input": [
-                "Good Buds",
-                "Buds"
-            ]
-        },
-        "type": "episode",
-        "title": "Good Buds",
-        "expiration_date": 1615867140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
-        "duration": 688.7007007,
-        "episode_number": "2",
-        "original_air_date": 1235705400,
-        "clip_order": null,
-        "auth_launch_date": 1615867200,
-        "modified": 1615503810,
-        "media_id": "d808caa1e762a0e6edee3196d83a11426dd34c0a",
-        "airing_id": "RADS1002052100070723",
-        "id": "mTBwAzuCRgyp6Op6A1Qm9Q",
-        "slug": "good-buds",
-        "views": 108566,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331432514-delocated_102_dst_cid-KYA8.jpg",
-        "created": 1402945463,
-        "title_id": "751593",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1615503810,
-        "tags": [],
-        "rating_count": 890,
-        "collection_title": "Delocated",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612846800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331432514-delocated_102_dst_cid-KYA8.jpg",
-        "cma_id": "751593"
     },
     {
         "auth": true,

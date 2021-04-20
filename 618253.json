@@ -362,7 +362,7 @@
         "launch_date": 1615867200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200723/thumbnails/2_207231328247-12oz_304_dup-20200626.jpg",
         "id": "AXNenOrARs3h4hI_X4Vw",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1617681540,
@@ -411,17 +411,19 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1618891140,
-        "tms_id": "",
-        "description": "In this season finale, Industry Man and his Clock persona are destroyed but who really holds the key to the powerful Box of Worlds?",
+        "auth_expiration_date": 1618286340,
+        "tms_id": "EP007542790045",
+        "description": "As the Castellica saves Mouse and team, Rooster escapes the clutches of Industry Man.",
         "title_suggest": {
             "input": [
-                "Final Beginning",
-                "Beginning"
+                "Portal to the Doorway",
+                "to the Doorway",
+                "the Doorway",
+                "Doorway"
             ]
         },
-        "title": "Final Beginning",
-        "expiration_date": 1615867140,
+        "title": "Portal to the Doorway",
+        "expiration_date": 1621915140,
         "type": "episode",
         "platforms": [
             "android",
@@ -430,29 +432,29 @@
             "fire-tv"
         ],
         "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 674.7407,
-        "episode_number": "10",
-        "original_air_date": "1596254400",
-        "auth_launch_date": 1615867200,
+        "duration": 675.1745,
+        "episode_number": "9",
+        "original_air_date": "1596168000",
+        "auth_launch_date": 1615266000,
         "clip_order": null,
-        "airing_id": "RADS1001172100064525",
-        "media_id": "cc4f742fe274766e9ed3f8de18c405dff22656b7",
-        "modified": 1615503233,
-        "slug": "final-beginning",
+        "airing_id": "RADS1004142100089926",
+        "media_id": "6bbef743f0e5212e04cc4c492d99028def8947b3",
+        "modified": 1618469269,
+        "slug": "portal-to-the-doorway",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_207171734139-12oz_310_dup-20200708.jpg",
-        "created": 1595021657,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_207171733580-12oz_309_dup-20200703.jpg",
+        "created": 1595021641,
         "season_number": "3",
-        "title_id": "2224146",
+        "title_id": "2224145",
         "tv_rating": "tv-14-lv",
-        "published": 1615503233,
+        "published": 1618469269,
         "tags": [],
         "collection_title": "12 oz Mouse",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1611378000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171734139-12oz_310_dup-20200708.jpg",
-        "id": "AXNeswbcC8QgH-t19KA0",
-        "auth": true
+        "launch_date": 1618891200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171733580-12oz_309_dup-20200703.jpg",
+        "id": "AXNessexC8QgH-t19KAz",
+        "auth": false
     }
 ]
