@@ -53,6 +53,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1446847140,
+        "auth_expiration_date": 1610686740,
+        "tms_id": "EP015399680022",
+        "rating": 6.589286,
+        "description": "The guys return and take it to another level with Blake Anderson; Jasper shows off his cooking skills.",
+        "title_suggest": {
+            "input": [
+                "Sweet Chin Music",
+                "Chin Music",
+                "Music"
+            ]
+        },
+        "type": "episode",
+        "title": "Sweet Chin Music",
+        "expiration_date": 1622001540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
+        "duration": 671.5421184,
+        "episode_number": "1",
+        "original_air_date": 1400212800,
+        "clip_order": null,
+        "auth_launch_date": 1609477200,
+        "modified": 1618550216,
+        "media_id": "366699e277fd70ca1f2e38beac192f97a054da03",
+        "airing_id": "RADS1004152100090325",
+        "id": "042voLE-Ts66qgSiNzAERA",
+        "slug": "sweet-chin-music",
+        "views": 75490,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361024204-loitersquad_021_dup-20140428.jpg",
+        "created": 1403539919,
+        "title_id": "2021126",
+        "season_number": "3",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1618550216,
+        "tags": [],
+        "rating_count": 168,
+        "collection_title": "Loiter Squad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618977600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361024204-loitersquad_021_dup-20140428.jpg",
+        "cma_id": "1418184"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1446847020,
         "auth_expiration_date": 1518595199,
         "tms_id": "EP015399680018",
@@ -105,7 +158,7 @@
         "cma_id": "1404041"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446846960,
         "auth_expiration_date": 1622001540,
         "tms_id": "EP015399680017",
@@ -356,61 +409,6 @@
         "launch_date": 1614142800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361018253-loitersquad_106_dup-20120424.jpg",
         "cma_id": "887694"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446846660,
-        "auth_expiration_date": 1618977540,
-        "tms_id": "EP015399680004",
-        "rating": 7.679312,
-        "description": "E.T.'s arrest leads to an interrogation room shootout; a pickup basketball game goes bottomless; some angry ice dancers take down a pig and a school.",
-        "title_suggest": {
-            "input": [
-                "Episode 4",
-                "4"
-            ]
-        },
-        "type": "episode",
-        "title": "Episode 4",
-        "expiration_date": 1615953540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
-        "duration": 667.500417,
-        "episode_number": "4",
-        "original_air_date": 1335151800,
-        "clip_order": null,
-        "auth_launch_date": 1615953600,
-        "modified": 1615527044,
-        "media_id": "746acc8c1c8dfd523ba277cbafb70b65d46063ee",
-        "airing_id": "RADS1003112100081848",
-        "id": "ay5slQFvTDC85dxHvJmrCg",
-        "slug": "episode-4",
-        "views": 235220,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361017254-loitersquad_104_dup-20120416.jpg",
-        "created": 1402945468,
-        "title_id": "887692",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1615527044,
-        "tags": [
-            "adult swim",
-            "loiter squad"
-        ],
-        "rating_count": 1740,
-        "collection_title": "Loiter Squad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612933200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361017254-loitersquad_104_dup-20120416.jpg",
-        "cma_id": "887692"
     },
     {
         "auth": true,

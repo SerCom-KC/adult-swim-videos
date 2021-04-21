@@ -196,7 +196,7 @@
     },
     {
         "ott_launch_date": 1520865060,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1622001540,
         "tms_id": "EP018514630029",
         "description": "At Tommy's first day of school, he must climb the social pyramid to get the girl he likes.",
@@ -433,6 +433,56 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447173480,
+        "auth_expiration_date": 1514361599,
+        "tms_id": "EP018514630001",
+        "description": "In Mr. Pickles, the urban sprawl of modern society pollutes the old-fashioned town where the Goodman family lives with their lovable pet dog, Mr. Pickles, a deviant collie with a secret satanic streak. From creators Will Carsola and Dave Stewart.",
+        "title_suggest": {
+            "input": [
+                "Pilot"
+            ]
+        },
+        "title": "Pilot",
+        "type": "episode",
+        "expiration_date": 1622001540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 680.3753128,
+        "episode_number": "0",
+        "original_air_date": 1377492300,
+        "clip_order": null,
+        "auth_launch_date": 1511942400,
+        "modified": 1618551973,
+        "media_id": "8644eb2d093ded49a1cf56131b21f764b7fecdc1",
+        "airing_id": "RADS1004152100090340",
+        "id": "CxFVX_zTS_KwEnnpsw5lHw",
+        "slug": "pilot",
+        "views": 15,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_2031211528-mrpickles_000_dup-20130823.jpg",
+        "created": 1410809321,
+        "season_number": "1",
+        "title_id": "2007540",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1618551973,
+        "first_published": 1410809321,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618977600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_2031211528-mrpickles_000_dup-20130823.jpg",
+        "cma_id": "1426424"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -574,53 +624,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1613538000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151940609014319.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1519659060,
-        "auth_expiration_date": 1618977540,
-        "tms_id": "EP018514630024",
-        "description": "Grandpa found his dead wife alive with Mr. Pickles. Now, Mr. Pickles\u2019 dark secrets are in jeopardy when Tommy attempts to download his Grandma\u2019s memories.",
-        "title_suggest": {
-            "input": [
-                "Brain Download",
-                "Download"
-            ]
-        },
-        "title": "Brain Download",
-        "type": "episode",
-        "expiration_date": 1615953540,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 677.58,
-        "episode_number": "1",
-        "original_air_date": 1519621200,
-        "clip_order": null,
-        "auth_launch_date": 1615953600,
-        "modified": 1615527929,
-        "media_id": "60aa75f8f86f780114a50bc2ff34f982b20044ad",
-        "airing_id": "RADS1003112100081849",
-        "id": "v80JNxOrQ5eO5X0cOumGVg",
-        "slug": "brain-download",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121124182-mrpickles_301_dup-20171102.jpg",
-        "created": 1496773366,
-        "season_number": "3",
-        "title_id": "2120608",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1615527929,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612933200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121124182-mrpickles_301_dup-20171102.jpg",
         "cma_id": ""
     }
 ]

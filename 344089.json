@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1622001540,
         "tms_id": "EP002989350029",
@@ -100,59 +100,6 @@
         "launch_date": 1617163200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351622151-hmovies_033.jpg",
         "cma_id": "972800"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1618977540,
-        "tms_id": "EP002989350024",
-        "rating": 9.369627,
-        "description": "The school writing fair is one week away and Brendon is suffering a bad case of writer's block! Melissa and Jason put pressure on him to no avail, but they end up being a hit anyway. Paula is inspired by the pep talk she gives Brendon and gets back to her writing roots.",
-        "title_suggest": {
-            "input": [
-                "Writer's Block",
-                "Block"
-            ]
-        },
-        "type": "episode",
-        "title": "Writer's Block",
-        "expiration_date": 1615953540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1341.2669336,
-        "episode_number": "11",
-        "original_air_date": 1016420400,
-        "clip_order": null,
-        "auth_launch_date": 1615953600,
-        "modified": 1615528525,
-        "media_id": "906b479fe2b51dd919025d719979c4bc68a92186",
-        "airing_id": "RADS1002052100070814",
-        "id": "IX-2QkXzQi6IwNt9-NRhnw",
-        "slug": "writers-block",
-        "views": 370110,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351618456-hmovies_024.jpg",
-        "created": 1402945467,
-        "title_id": "344140",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1615528525,
-        "tags": [
-            "home movies writer's block episode 24"
-        ],
-        "rating_count": 1396,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612933200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351618456-hmovies_024.jpg",
-        "cma_id": ""
     },
     {
         "auth": false,
@@ -261,6 +208,56 @@
         "launch_date": 1618372800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351621525-hmovies_032.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP002989350034",
+        "rating": 8.555869,
+        "description": "The kids ignore the fact that they have no musical experience or talent and decide to start a band, recording their first single, \"Freaky Outie.\" At the same time, Duane enters a guitar contest where he will face his archrival, Jimmy Monet.",
+        "title_suggest": {
+            "input": [
+                "Guitarmageddon"
+            ]
+        },
+        "type": "episode",
+        "title": "Guitarmageddon",
+        "expiration_date": 1622001540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1363.8008008,
+        "episode_number": "8",
+        "original_air_date": 1035774000,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1618550791,
+        "media_id": "7314f92e5465500ccdaeab95c387d5e59ba8d2d7",
+        "airing_id": "RADS1004152100090339",
+        "id": "VGaf53wwSbeCCuQPJuSLSw",
+        "slug": "guitarmageddon",
+        "views": 415710,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351622420-hmovies_034.jpg",
+        "created": 1402945467,
+        "title_id": "432258",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1618550791,
+        "tags": [],
+        "rating_count": 1047,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618977600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351622420-hmovies_034.jpg",
+        "cma_id": "974195"
     },
     {
         "auth": true,
