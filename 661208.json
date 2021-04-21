@@ -104,6 +104,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447784700,
+        "auth_expiration_date": 1588305599,
+        "tms_id": "EP008994530038",
+        "rating": 8.525801,
+        "description": "Tim finally graduates from barber school and celebrates over an Italian supper with friends. J.J. Pepper releases his latest music video. \r\n(Will Forte, Josh Groban, Larry Miller, Bob Odenkirk, Scott Thompson, David Wain)",
+        "title_suggest": {
+            "input": [
+                "Hair"
+            ]
+        },
+        "type": "episode",
+        "title": "Hair",
+        "expiration_date": 1622001540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 698.63,
+        "episode_number": "8",
+        "original_air_date": 1238387400,
+        "clip_order": null,
+        "auth_launch_date": 1587528000,
+        "modified": 1618550792,
+        "media_id": "2920bfe452bcbb1f079a6e4832e9a25c2fbc284c",
+        "airing_id": "RADS1004152100090331",
+        "id": "8xxGPaR5ToiqW3Ac5qvYeA",
+        "slug": "hair",
+        "views": 309439,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161651177-timanderic_408.jpg",
+        "created": 1402945481,
+        "title_id": "751410",
+        "season_number": "4",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1618550792,
+        "tags": [
+            "tim eric awesome show great job episode 38 hair italian restaurant cinco c-bund barber school dinner"
+        ],
+        "rating_count": 1337,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618977600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651177-timanderic_408.jpg",
+        "cma_id": "1398495"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
         "title_suggest": {
@@ -254,59 +307,6 @@
         "launch_date": 1617163200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652217-timanderic_405.jpg",
         "cma_id": "1384868"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447784460,
-        "auth_expiration_date": 1618977540,
-        "tms_id": "EP008994530028",
-        "rating": 7.950603,
-        "description": "Tim and Eric not live from the Troubador!",
-        "title_suggest": {
-            "input": [
-                "Muscles For Bones",
-                "For Bones",
-                "Bones"
-            ]
-        },
-        "type": "episode",
-        "title": "Muscles For Bones",
-        "expiration_date": 1615953540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 695.023,
-        "episode_number": "8",
-        "original_air_date": 1221453000,
-        "clip_order": null,
-        "auth_launch_date": 1615953600,
-        "modified": 1615529815,
-        "media_id": "ab5c0f180233f7e03704bc4e6d346e4b223dcdd8",
-        "airing_id": "RADS1002052100070804",
-        "id": "N8GGbIPrQX6768BZHWHPZQ",
-        "slug": "muscles-for-bones",
-        "views": 312590,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116162587-timanderic_308.jpg",
-        "created": 1402945481,
-        "title_id": "723267",
-        "season_number": "3",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1615529815,
-        "tags": [],
-        "rating_count": 1741,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612933200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116162587-timanderic_308.jpg",
-        "cma_id": "1356418"
     },
     {
         "auth": true,
@@ -520,7 +520,7 @@
         "cma_id": "1369067"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784580,
         "auth_expiration_date": 1622001540,
         "tms_id": "EP008994530033",

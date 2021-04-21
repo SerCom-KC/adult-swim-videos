@@ -406,7 +406,7 @@
         "cma_id": "2069753"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1625025540,
         "tms_id": "EP020020000032",
@@ -557,6 +557,58 @@
         "launch_date": 1618372800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111533167-miketysonmysteries_307.jpg",
         "cma_id": "1451472"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1562165940,
+        "tms_id": "EP020020000037",
+        "description": "A husband fears his wife's reaction to the loss of his wedding ring.",
+        "title_suggest": {
+            "input": [
+                "Ring of Fire",
+                "of Fire",
+                "Fire"
+            ]
+        },
+        "create_in_collection": "Ftep7v7hQoavGD98IfRsUg",
+        "expiration_date": 1622001540,
+        "title": "Ring of Fire",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 676.5421184,
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "episode_number": "8",
+        "original_air_date": 1499052600,
+        "clip_order": null,
+        "auth_launch_date": 1559142000,
+        "modified": 1618549901,
+        "media_id": "ce7f5ef3bb9a5bb6b9ac251f888cd0094e6e9836",
+        "airing_id": "RADS1004152100090333",
+        "id": "Wrd554QoRhef-G-OrCGHzw",
+        "slug": "ring-of-fire",
+        "views": 7038,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111533382-miketysonmysteries_308.jpg",
+        "created": 1497019271,
+        "season_number": "3",
+        "title_id": "2117691",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1618549901,
+        "first_published": 1498734638,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1618977600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111533382-miketysonmysteries_308.jpg",
+        "cma_id": "1456058"
     },
     {
         "auth": true,
