@@ -50,6 +50,50 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447787280,
+        "tms_id": "EP013726210017",
+        "description": "Satan reunites with a beloved 80's hair band to give Millennials a swift kick in their hairless crotches.",
+        "title_suggest": {
+            "input": [
+                "N\u00fc-Byle"
+            ]
+        },
+        "expiration_date": 1622087940,
+        "title": "N\u00fc-Byle",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 699.52,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "8",
+        "original_air_date": 1442204100,
+        "clip_order": null,
+        "modified": 1618636877,
+        "airing_id": "RADS1004152100090389",
+        "media_id": "4ae2577554bf04062be9ca5790cc4c1fe237099a",
+        "id": "6Mue1m99QASv81po9csWzA",
+        "slug": "nu-byle",
+        "views": 25018,
+        "created": 1436294485,
+        "season_number": "2",
+        "title_id": "2062766",
+        "tv_rating": "tv-ma-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1618636877,
+        "first_published": 1442071220,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1619064000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/nu-byle/ypf_ep204_003_nyawpjsugey8a7dg6sfe_2.jpg",
+        "cma_id": "1365263"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "Created by Lee Hardcastle",
@@ -203,54 +247,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15169008879675.jpg",
         "id": "AWEuVsSNZ-onAnjDLwi1",
         "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1619063940,
-        "tms_id": "",
-        "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
-        "title_suggest": {
-            "input": [
-                "Five-Card Duds",
-                "Duds"
-            ]
-        },
-        "title": "Five-Card Duds",
-        "expiration_date": 1616039940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 674.58,
-        "episode_number": "10",
-        "original_air_date": 1559967300,
-        "auth_launch_date": 1616040000,
-        "clip_order": null,
-        "media_id": "45520e2ee6fbffd2d3daf420ebc7421a6b25f3f4",
-        "modified": 1615632660,
-        "airing_id": "RADS1002052100070846",
-        "slug": "five-card-duds",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155984019589717.jpg",
-        "created": 1556816877,
-        "season_number": "4",
-        "title_id": "2191445",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1615632660,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613019600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
-        "id": "AWp5hFfgHl5gR6828zZU",
-        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -655,7 +651,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787040,
         "auth_expiration_date": 1622087940,
         "tms_id": "EP013726210011",
