@@ -298,6 +298,54 @@
         "cma_id": "1494693"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1619668740,
+        "tms_id": "EP002960010215",
+        "description": "Joe, Peter and Quagmire set out to capture the criminal who caused Joe's paralysis; Brian grows jealous of Quagmire's cat.",
+        "title_suggest": {
+            "input": [
+                "Joe's Revenge",
+                "Revenge"
+            ]
+        },
+        "title": "Joe's Revenge",
+        "type": "episode",
+        "expiration_date": 1594007940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1288.287,
+        "episode_number": "5",
+        "original_air_date": 1353988800,
+        "clip_order": null,
+        "auth_launch_date": 1619064000,
+        "modified": 1618639882,
+        "media_id": "9a47ed6d7571288ab7f0428467756a0db0a5a564",
+        "airing_id": "RADS1004152100090343",
+        "id": "bxvMFRPQSbK5Sqr0mhOh5Q",
+        "slug": "joes-revenge",
+        "views": 1368,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216390703819.jpg",
+        "created": 1411574280,
+        "season_number": "11",
+        "title_id": "809247",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1618639882,
+        "first_published": 1411574280,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1593403200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216390703819.jpg",
+        "cma_id": "809247"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1612587540,
@@ -452,56 +500,6 @@
         "launch_date": 1613365200,
         "poster": "",
         "cma_id": "1308525"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1619063940,
-        "tms_id": "EP002960010158",
-        "rating": 7.318421,
-        "description": "Lois accuses conservative radio talk show host Rush Limbaugh of brainwashing Brian into thinking he supports Republican values.",
-        "title_suggest": {
-            "input": [
-                "Excellence in Broadcasting",
-                "in Broadcasting",
-                "Broadcasting"
-            ]
-        },
-        "type": "episode",
-        "title": "Excellence in Broadcasting",
-        "expiration_date": 1613365140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1304.8368,
-        "episode_number": "2",
-        "original_air_date": 1286852400,
-        "clip_order": null,
-        "auth_launch_date": 1618459200,
-        "modified": 1618039303,
-        "media_id": "0136574a05c00387057f3f7b67e1b93c24288327",
-        "airing_id": "RADS1004092100088204",
-        "id": "tivDLiAoSmWr4SV9Pkhe2A",
-        "slug": "excellence-in-broadcasting",
-        "views": 143152,
-        "thumbnail": "",
-        "created": 1402945465,
-        "title_id": "809139",
-        "season_number": "9",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1618039303,
-        "tags": [],
-        "rating_count": 380,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1612760400,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2220400697644741607.jpg",
-        "cma_id": "1488989"
     },
     {
         "auth": true,
