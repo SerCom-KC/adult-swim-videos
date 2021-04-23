@@ -746,6 +746,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447787100,
+        "auth_expiration_date": 1622692740,
         "tms_id": "EP013726210012",
         "description": "The demons scramble to find true love and bust themselves outta Hell.",
         "title_suggest": {
@@ -770,8 +771,9 @@
         "episode_number": "4",
         "original_air_date": 1438575300,
         "clip_order": null,
-        "modified": 1616362821,
-        "airing_id": "RADS1003212100083574",
+        "auth_launch_date": 1619668800,
+        "modified": 1619185923,
+        "airing_id": "RADS1004232100091605",
         "media_id": "0250cf49f4efd4688fe2ce7c5f64a85aa8c1b7b3",
         "id": "_RydenH-RICZySA1lNkRwQ",
         "slug": "true-love-will-find-you",
@@ -782,7 +784,7 @@
         "tv_rating": "tv-14-dlv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1616362821,
+        "published": 1619185923,
         "first_published": 1438420910,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
