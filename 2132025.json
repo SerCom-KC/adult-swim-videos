@@ -811,6 +811,52 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1509982260,
+        "auth_expiration_date": 1613710740,
+        "tms_id": "EP027912080001",
+        "description": "Cornell receives some shocking news that sends him on a wild chase.",
+        "title_suggest": {
+            "input": [
+                "Pilot"
+            ]
+        },
+        "title": "Pilot",
+        "type": "episode",
+        "expiration_date": 1622174340,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 667.3670337,
+        "episode_number": "3",
+        "original_air_date": 1509945300,
+        "clip_order": null,
+        "auth_launch_date": 1610686800,
+        "modified": 1618736053,
+        "media_id": "35130dbb1176ac127758cd1136813b3773fd39e3",
+        "airing_id": "RADS1004182100091175",
+        "id": "SvQXGgR1TaSnFl9TDVO4yg",
+        "slug": "pilot",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351632133-jellies_101_air_cid-36H40.jpg",
+        "created": 1502137127,
+        "season_number": "1",
+        "title_id": "2132026",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1618736053,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1619150400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351632133-jellies_101_air_cid-36H40.jpg",
+        "cma_id": "2132026"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1508769060,
         "auth_expiration_date": 1612501140,
         "tms_id": "EP027912080002",
