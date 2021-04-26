@@ -325,6 +325,59 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1554129000,
+        "auth_expiration_date": 1615265940,
+        "tms_id": "EP031867090002",
+        "description": "That was today. This is tomorrow.",
+        "title_suggest": {
+            "input": [
+                "That Was Today. This Is Tomorrow.",
+                "Was Today. This Is Tomorrow.",
+                "Today. This Is Tomorrow.",
+                "This Is Tomorrow.",
+                "Is Tomorrow.",
+                "Tomorrow."
+            ]
+        },
+        "title": "That Was Today. This Is Tomorrow.",
+        "type": "episode",
+        "expiration_date": 1622433540,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 681.17,
+        "episode_number": "2",
+        "original_air_date": 1554696900,
+        "auth_launch_date": 1612242000,
+        "clip_order": null,
+        "airing_id": "RADS1004212100091313",
+        "media_id": "ef9074ee57cc14920f69e43dbfeca558a35dbf18",
+        "modified": 1619048120,
+        "slug": "that-was-today-this-is-tomorrow",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155430974878612.jpg",
+        "created": 1553916364,
+        "title_id": "2178190",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1619048120,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1619409600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430974878612.jpg",
+        "id": "AWnMogXrHl5gR6828zAn",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1554733800,
         "auth_expiration_date": 1614661140,
         "tms_id": "EP031867090001",
@@ -638,7 +691,7 @@
         "launch_date": 1616385600,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241042103-LazorWulf_207_dup-20201006_ProllyForBetter.jpg",
         "id": "AXX662fabxpjZvbXYlcz",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1616990340,
@@ -684,56 +737,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241042289-LazorWulf_208_dup-20201013_KeepGoing.jpg",
         "id": "AXX667M6LyLQBOXK_Prk",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1619409540,
-        "tms_id": "EP031867090012",
-        "description": "If That Was Tomorrow. This Is Today.",
-        "title_suggest": {
-            "input": [
-                "If That Was Tomorrow. This Is Today.",
-                "That Was Tomorrow. This Is Today.",
-                "Was Tomorrow. This Is Today.",
-                "Tomorrow. This Is Today.",
-                "This Is Today.",
-                "Is Today.",
-                "Today."
-            ]
-        },
-        "title": "If That Was Tomorrow. This Is Today.",
-        "expiration_date": 1616385540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 669.9359,
-        "episode_number": "2",
-        "original_air_date": "1607318100",
-        "auth_launch_date": 1616385600,
-        "clip_order": null,
-        "airing_id": "RADS1003172100082641",
-        "media_id": "cc2a2a92db92b3badb479bed5fc33aa76ef48ab9",
-        "modified": 1619149867,
-        "slug": "if-that-was-tomorrow-this-is-today",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg",
-        "created": 1606232361,
-        "season_number": "2",
-        "title_id": "2224733",
-        "tv_rating": "tv-14-l",
-        "published": 1619149867,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613365200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg",
-        "id": "AXX66MmlLyLQBOXK_Prg",
-        "auth": true
     },
     {
         "auth_expiration_date": 1620014340,
