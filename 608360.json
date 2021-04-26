@@ -276,7 +276,7 @@
     },
     {
         "ott_launch_date": 1526913000,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1619409540,
         "tms_id": "EP007259620185",
         "description": "The minds at Robot Chicken uncover the real reason Indiana Jones hates snakes. Maxwell Lord gets an inside look at Supergirl's weakness. Date My Mom focuses on Jessica Rabbit's huge... personality.",
@@ -1317,7 +1317,7 @@
         "launch_date": 1603684800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg",
         "id": "AXLruou5Rs3h4hI_X4LF",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1620014340,
@@ -1532,7 +1532,7 @@
         "cma_id": "1453397"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1458568860,
         "auth_expiration_date": 1619409540,
         "tms_id": "EP007259620164",
@@ -1638,7 +1638,7 @@
         "cma_id": "1186083"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447367820,
         "auth_expiration_date": 1619409540,
         "tms_id": "EP007259620119",
