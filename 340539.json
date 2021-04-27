@@ -1,5 +1,58 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1446844620,
+        "auth_expiration_date": 1601351940,
+        "tms_id": "EP004625750029",
+        "rating": 8.73552,
+        "description": "Birdgirl's back with a new case for Harvey; Race Bannon and Dr. Quest want to form a legal partnership. Unfortunately for Harvey, the case goes to the highest court in the land, the Justice League. In the meantime, Phil has set his sights on Birdgirl and he won't take no for an answer. How far will Birdgirl go to protect her secret identity? Really, what girl doesn't dream of getting a marriage proposal... from her father?",
+        "title_suggest": {
+            "input": [
+                "Return of Birdgirl",
+                "of Birdgirl",
+                "Birdgirl"
+            ]
+        },
+        "type": "episode",
+        "title": "Return of Birdgirl",
+        "expiration_date": 1622519940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 697.67,
+        "episode_number": "9",
+        "original_air_date": 1127101500,
+        "clip_order": null,
+        "auth_launch_date": 1598932800,
+        "modified": 1619069428,
+        "media_id": "ee9213564b34720fa28afd0dddf6d77387f035d8",
+        "airing_id": "RADS1004212100091344",
+        "id": "10BBAjN8T2e4sXIFbZjlZQ",
+        "slug": "return-of-birdgirl",
+        "views": 288310,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351423417-harvey_029.jpg",
+        "created": 1402945467,
+        "title_id": "623567",
+        "season_number": "3",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1619069428,
+        "tags": [],
+        "rating_count": 794,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1619496000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351423417-harvey_029.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446844440,
         "auth_expiration_date": 1621915140,
@@ -276,7 +329,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446844500,
         "auth_expiration_date": 1622519940,
         "tms_id": "EP004625750024",
@@ -443,60 +496,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1618286400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351422540-harvey_027.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446844320,
-        "auth_expiration_date": 1619495940,
-        "tms_id": "EP004625750019",
-        "rating": 8.628206,
-        "description": "Believe it or not, Harvey successfully defends a plastic surgeon of botching Botox injections on Droopy.  The relieved doctor pays instantly and, in a fit of generosity, throws in a free coupon book of cosmetic surgeries.  Harvey feels guilty that a scary, grinning Droopy suffers while Harvey and the firm enjoy the largress.  While Harvey wrestles with his guilt, the firm goes on an extreme makeover bender, getting \"enhanced\" beyond recognition.",
-        "title_suggest": {
-            "input": [
-                "Droopy Botox",
-                "Botox"
-            ]
-        },
-        "type": "episode",
-        "title": "Droopy Botox",
-        "expiration_date": 1616471940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 705.5,
-        "episode_number": "10",
-        "original_air_date": 1090207800,
-        "clip_order": null,
-        "auth_launch_date": 1616472000,
-        "modified": 1616511870,
-        "media_id": "d20dfe4d4de8337353ae15ec31222255dd281e27",
-        "airing_id": "RADS1003172100082684",
-        "id": "rVW1FR94Q1uCnRxISdlTrQ",
-        "slug": "droopy-botox",
-        "views": 306721,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035149244-harvey_019.jpg",
-        "created": 1402945467,
-        "title_id": "547349",
-        "season_number": "2",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616511870,
-        "tags": [
-            "harvey birdman episode attorney at law 19 droopy botox plastic surgery coupons"
-        ],
-        "rating_count": 858,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613451600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035149244-harvey_019.jpg",
         "cma_id": ""
     },
     {

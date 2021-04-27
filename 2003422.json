@@ -347,54 +347,6 @@
         "cma_id": "2003534"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1619495940,
-        "tms_id": "EP012792980048",
-        "description": "While acting as a parent chaperone on the school's trip to the museum, Bob has a father- daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy. Also, Tina questions her dorkiness; and on the steps of the museum, Linda lends her unique chanting abilities to striking museum workers.",
-        "title_suggest": {
-            "input": [
-                "Carpe Museum",
-                "Museum"
-            ]
-        },
-        "expiration_date": 1606107540,
-        "title": "Carpe Museum",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1275.5409,
-        "episode_number": "22",
-        "original_air_date": 1387164600,
-        "clip_order": null,
-        "auth_launch_date": 1618891200,
-        "modified": 1618473884,
-        "media_id": "8e674d0188137794e2f77427f47ae40e6816f65b",
-        "airing_id": "RADS1004142100089930",
-        "id": "h-8I3clIQR2tn_K2jbkuMg",
-        "slug": "carpe-museum",
-        "views": 6123,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085671641218.jpg",
-        "created": 1403211516,
-        "season_number": "3",
-        "title_id": "2003533",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1618473884,
-        "first_published": 1422850826,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1605502800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg",
-        "cma_id": "2003533"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1619755140,
@@ -633,5 +585,53 @@
         "launch_date": 1606712400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg",
         "cma_id": "2030307"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1620100740,
+        "tms_id": "EP012792980057",
+        "description": "When Linda realizes that Louise has never had a sleepover, she throws her a surprise slumber party, much to Louise's chagrin. After Louise's repeated attempts to escape are thwarted, she decides to sabotage the party by eliminating the girls one by one. But she may have met her match in Jessica.",
+        "title_suggest": {
+            "input": [
+                "Slumber Party",
+                "Party"
+            ]
+        },
+        "title": "Slumber Party",
+        "type": "episode",
+        "expiration_date": 1607921940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1293.926,
+        "episode_number": "9",
+        "original_air_date": 1413163800,
+        "clip_order": null,
+        "auth_launch_date": 1619496000,
+        "modified": 1619069428,
+        "media_id": "6975057a09e0d3e1aea551ba2e90afde1c64d6c3",
+        "airing_id": "RADS1004212100091345",
+        "id": "x-ralBNsSuSW3Y2LnDqIkA",
+        "slug": "slumber-party",
+        "views": 8148,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15126755202705.jpg",
+        "created": 1411571088,
+        "season_number": "4",
+        "title_id": "2030649",
+        "tv_rating": "",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1619069428,
+        "first_published": 1411571088,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1607317200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg",
+        "cma_id": "1463609"
     }
 ]

@@ -397,6 +397,54 @@
         "cma_id": "809247"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1620100740,
+        "tms_id": "EP002960010225",
+        "description": "After Meg sees Chris stealing money out of Lois' purse, she blackmails him into doing everything she says.",
+        "title_suggest": {
+            "input": [
+                "Chris Cross",
+                "Cross"
+            ]
+        },
+        "title": "Chris Cross",
+        "type": "episode",
+        "expiration_date": 1595217540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1290.4224,
+        "episode_number": "13",
+        "original_air_date": 1361851200,
+        "clip_order": null,
+        "auth_launch_date": 1619496000,
+        "modified": 1619070329,
+        "media_id": "8c60bf26ac3f280fce4a1f752feccfa81a09c18a",
+        "airing_id": "RADS1004212100091343",
+        "id": "fSHHGcg7Qx6oJ8lxZ0xP1A",
+        "slug": "chris-cross",
+        "views": 519,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227671953846.jpg",
+        "created": 1411574534,
+        "season_number": "11",
+        "title_id": "809254",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1619070329,
+        "first_published": 1411574534,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1594612800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227671953846.jpg",
+        "cma_id": "809254"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1612673940,
@@ -545,58 +593,6 @@
         "launch_date": 1594612800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870837177613.jpg",
         "cma_id": "1344058"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1619495940,
-        "tms_id": "EP002960010213",
-        "description": "Brian overhears a doctor telling Carter that Carter has only two weeks to live, but when Lois frantically checks on her father he's mysteriously healthy - and Brian wants to know why.",
-        "title_suggest": {
-            "input": [
-                "Old Man and the Big C",
-                "Man and the Big C",
-                "and the Big C",
-                "the Big C",
-                "Big C",
-                "C"
-            ]
-        },
-        "title": "Old Man and the Big C",
-        "type": "episode",
-        "expiration_date": 1593403140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1291.4902,
-        "episode_number": "3",
-        "original_air_date": 1352779200,
-        "clip_order": null,
-        "auth_launch_date": 1618891200,
-        "modified": 1618472098,
-        "media_id": "54c2d6893a7b835407d5adf59aff0616ab4c174a",
-        "airing_id": "RADS1004142100089889",
-        "id": "uAVMM9pKR62PqcMHkEnB1g",
-        "slug": "old-man-and-the-big-c",
-        "views": 966,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216388455818.jpg",
-        "created": 1411574204,
-        "season_number": "11",
-        "title_id": "865346",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1618472098,
-        "first_published": 1411574204,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1592798400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216388455818.jpg",
-        "cma_id": "865346"
     },
     {
         "auth": false,
