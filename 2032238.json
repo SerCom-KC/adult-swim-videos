@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1625630340,
         "tms_id": "EP020020000033",
@@ -101,56 +101,6 @@
         "launch_date": 1612328400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111528530-miketysonmysteries_028.jpg",
         "cma_id": "1477183"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1619582340,
-        "tms_id": "EP020020000023",
-        "description": "A severely overweight young man asks Mike Tyson to help him get in shape.",
-        "title_suggest": {
-            "input": [
-                "Losin' it",
-                "it"
-            ]
-        },
-        "expiration_date": 1613537940,
-        "title": "Losin' it",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 682.2085071,
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "episode_number": "13",
-        "original_air_date": 1462160700,
-        "clip_order": null,
-        "auth_launch_date": 1613538000,
-        "modified": 1613179555,
-        "media_id": "767848976e4f90a7295edcb5cf900b1d175782e4",
-        "airing_id": "RADS1001082100062086",
-        "id": "6NIBPeQvQMWIo1xKfFMmtw",
-        "slug": "losin-it",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111527570-miketysonmysteries_022.jpg",
-        "created": 1445444038,
-        "season_number": "2",
-        "title_id": "2069746",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1613179555,
-        "first_published": 1461823925,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610514000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111527570-miketysonmysteries_022.jpg",
-        "cma_id": "1463062"
     },
     {
         "auth": true,
@@ -454,6 +404,58 @@
         "launch_date": 1615953600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111531464-miketysonmysteries_303.jpg",
         "cma_id": "1433879"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1562770740,
+        "tms_id": "EP020020000039",
+        "description": "Is something evil manipulating the stock market (other than all the big investment firms and all of the banks)?",
+        "title_suggest": {
+            "input": [
+                "Mystery on Wall Street",
+                "on Wall Street",
+                "Wall Street",
+                "Street"
+            ]
+        },
+        "title": "Mystery on Wall Street",
+        "type": "episode",
+        "expiration_date": 1622606340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 667.8340284,
+        "episode_number": "9",
+        "original_air_date": 1499657400,
+        "clip_order": null,
+        "auth_launch_date": 1559746800,
+        "modified": 1619161058,
+        "media_id": "f932920672548df6659a158be93a7c79388f1d6e",
+        "airing_id": "RADS1004222100091372",
+        "id": "NZJDjNocTHOcwlpxk-qPfg",
+        "slug": "mystery-on-wall-street",
+        "views": 6185,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111533594-miketysonmysteries_309.jpg",
+        "created": 1499321426,
+        "title_id": "2117692",
+        "tv_rating": "tv-14",
+        "season_number": "3",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1619161058,
+        "first_published": 1499321426,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1619582400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111533594-miketysonmysteries_309.jpg",
+        "cma_id": "1460826"
     },
     {
         "auth": false,
