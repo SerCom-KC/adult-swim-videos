@@ -1,58 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1451677680,
-        "auth_expiration_date": 1619668740,
-        "tms_id": "EP007819760011",
-        "rating": 8.644829,
-        "description": "A monster has been coming across the Golden Gate Bridge at night and attacking the city of San Francisco. Everyone - Satan, DJ Jesus, Senator Whitehead, even the Pope - wants to be involved in the final confrontation with this huge, terrible, and strangely familiar creature.",
-        "title_suggest": {
-            "input": [
-                "Monster"
-            ]
-        },
-        "type": "episode",
-        "title": "Monster",
-        "expiration_date": 1616644740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
-        "duration": 703.43,
-        "episode_number": "11",
-        "original_air_date": 1194844500,
-        "clip_order": null,
-        "auth_launch_date": 1616644800,
-        "modified": 1616355054,
-        "media_id": "3a8af6f744254f90293b70ae6486f2ec48ffd4fb",
-        "airing_id": "RADS1003212100083509",
-        "id": "-IWqF1hvSNGy8dslz1tW3A",
-        "slug": "monster",
-        "views": 398068,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_2036110467-lucy_111_air.jpg",
-        "created": 1402945468,
-        "title_id": "678357",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616355054,
-        "tags": [
-            "lucy daughter of the devil episode 11 monster senator whitehead san francisco pope golden gate bridge"
-        ],
-        "rating_count": 1771,
-        "collection_title": "Lucy, The Daughter of the Devil",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613624400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036110467-lucy_111_air.jpg",
-        "cma_id": "972683"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1451677620,
         "auth_expiration_date": 1618459140,
@@ -221,6 +168,62 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451677680,
+        "auth_expiration_date": 1619063940,
+        "tms_id": "EP007819760010",
+        "rating": 8.605093,
+        "description": "DJ Jesus and his entourage rent out an old Catholic girl's boarding school so he can work on his re-remix in quiet isolation. But thirty years ago this place was the scene of a grisly crime - and soon the past invades the present in the form of Catholic school girl ghosts and an irritating disco song.",
+        "title_suggest": {
+            "input": [
+                "Satan's School for Girls",
+                "School for Girls",
+                "for Girls",
+                "Girls"
+            ]
+        },
+        "type": "episode",
+        "title": "Satan's School for Girls",
+        "expiration_date": 1622692740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "iDc27OatQyGwFGZrt8VFPQ",
+        "duration": 702.9,
+        "episode_number": "10",
+        "original_air_date": 1194239700,
+        "clip_order": null,
+        "auth_launch_date": 1616040000,
+        "modified": 1619260997,
+        "media_id": "45311d525ebda1024090e293838afd3499699a2f",
+        "airing_id": "RADS1004232100091607",
+        "id": "RlkirPulSFqMNsJIzGYtZw",
+        "slug": "satans-school-for-girls",
+        "views": 514267,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_2036110288-lucy_110_air.jpg",
+        "created": 1402945468,
+        "title_id": "678356",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1619260997,
+        "tags": [
+            "lucy daughter of the devil episode 10 satan's school for girls flashback banana hammock lifeguard re remix disco tomtom song jesus"
+        ],
+        "rating_count": 1922,
+        "collection_title": "Lucy, The Daughter of the Devil",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1619668800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036110288-lucy_110_air.jpg",
+        "cma_id": "972607"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451677560,
         "auth_expiration_date": 1616644740,
         "tms_id": "EP007819760006",
@@ -328,7 +331,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451677500,
         "auth_expiration_date": 1622692740,
         "tms_id": "EP007819760005",
