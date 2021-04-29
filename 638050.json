@@ -56,6 +56,61 @@
     {
         "auth": false,
         "ott_launch_date": 1446762720,
+        "auth_expiration_date": 1610686740,
+        "tms_id": "EP008626240003",
+        "rating": 7.6511827,
+        "description": "In what can be termed a colossal misunderstanding, the creators of \"Frisky Dingo\" somehow got involved in producing an episode that revolves almost entirely around the (quite lengthy) list of options available on the sporty new tC from Scion.  Their tagline is \"It's what moves you.\"  You can learn more about the new Scion tC at scion.com.",
+        "title_suggest": {
+            "input": [
+                "Pimp My Revenue",
+                "My Revenue",
+                "Revenue"
+            ]
+        },
+        "type": "episode",
+        "title": "Pimp My Revenue",
+        "expiration_date": 1622692740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 683.9009009,
+        "episode_number": "3",
+        "original_air_date": 1162186200,
+        "clip_order": null,
+        "auth_launch_date": 1609477200,
+        "modified": 1619259883,
+        "media_id": "90f750a2224942487018ed7dc679a0d5fe71da92",
+        "airing_id": "RADS1004232100091610",
+        "id": "3bsnPSnmQFOngra4Pk93xA",
+        "slug": "pimp-my-revenue",
+        "views": 337604,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341652179-fd_003.jpg",
+        "created": 1402945466,
+        "title_id": "651248",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1619259883,
+        "tags": [
+            "frisky dingo episode 3 pimp my revenue scion tc regis daytime show"
+        ],
+        "rating_count": 1184,
+        "collection_title": "Frisky Dingo",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1619668800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341652179-fd_003.jpg",
+        "cma_id": "926883"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446762720,
         "auth_expiration_date": 1610081940,
         "tms_id": "EP008626240002",
         "rating": 7.6881824,
@@ -164,7 +219,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446763380,
         "auth_expiration_date": 1622692740,
         "tms_id": "EP008626240028",
@@ -430,58 +485,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1614834000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341659328-fd_020.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446763260,
-        "auth_expiration_date": 1619668740,
-        "tms_id": "EP008626240018",
-        "rating": 8.265304,
-        "description": "Killface acquires an item for the home.",
-        "title_suggest": {
-            "input": [
-                "The Miracle",
-                "Miracle"
-            ]
-        },
-        "type": "episode",
-        "title": "The Miracle",
-        "expiration_date": 1616644740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 674.7007007,
-        "episode_number": "5",
-        "original_air_date": 1190606400,
-        "clip_order": null,
-        "auth_launch_date": 1616644800,
-        "modified": 1616351139,
-        "airing_id": "RADS1002122100073804",
-        "media_id": "2984db41f75b23b02981f906a0ceda90f9408f83",
-        "id": "ow9_yx3XTemziwgcNxNROA",
-        "slug": "the-miracle",
-        "views": 528088,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341658476-fd_018.jpg",
-        "created": 1402945466,
-        "title_id": "677652",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616351139,
-        "tags": [],
-        "rating_count": 2499,
-        "collection_title": "Frisky Dingo",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613624400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341658476-fd_018.jpg",
         "cma_id": ""
     },
     {

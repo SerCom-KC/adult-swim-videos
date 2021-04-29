@@ -396,7 +396,7 @@
         "launch_date": 1619668800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153080495367117.jpg",
         "id": "AWRc13fHTdxzjxdCmuVQ",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": 1531751340,
@@ -448,7 +448,7 @@
     },
     {
         "ott_launch_date": 1531751340,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1621483140,
         "tms_id": "EP029829490006",
         "description": "Millennial hero Derrick Beckles interviews millennial pundit Anne Coulter, unveils a new Kardashian.",

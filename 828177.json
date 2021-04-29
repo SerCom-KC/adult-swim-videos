@@ -250,55 +250,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1619668740,
-        "tms_id": "",
-        "description": "After Gary gets shot by one of the unborn, Satan institutes an unsensible gun policy to ensure something like that will happen again.",
-        "title_suggest": {
-            "input": [
-                "Conceal and Gary",
-                "and Gary",
-                "Gary"
-            ]
-        },
-        "title": "Conceal and Gary",
-        "expiration_date": 1616644740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 667.46,
-        "episode_number": "11",
-        "original_air_date": 1560571200,
-        "auth_launch_date": 1616644800,
-        "clip_order": null,
-        "media_id": "d8806c857a4ef8d8ee746aff3502c32001b2d17b",
-        "modified": 1616511871,
-        "airing_id": "RADS1002122100073861",
-        "slug": "conceal-and-gary",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036474992413.jpg",
-        "created": 1556816967,
-        "season_number": "4",
-        "title_id": "2191447",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616511871,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613624400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg",
-        "id": "AWp5hbdAAScUIg8XxfaF",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1620273540,
         "tms_id": "",
         "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
@@ -500,6 +451,52 @@
         "launch_date": 1484167383,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/fence/ASID_2YXCH_YPF_Fence_15.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447787340,
+        "tms_id": "EP013726210018",
+        "description": "The demons find a hole to the female side of Hell.",
+        "title_suggest": {
+            "input": [
+                "National Buffoon\u2019s Fireballz",
+                "Buffoon\u2019s Fireballz",
+                "Fireballz"
+            ]
+        },
+        "title": "National Buffoon\u2019s Fireballz",
+        "type": "episode",
+        "expiration_date": 1622692740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 679.21,
+        "episode_number": "9",
+        "original_air_date": 1442808900,
+        "clip_order": null,
+        "modified": 1619259282,
+        "airing_id": "RADS1004232100091657",
+        "media_id": "6a877322e565663d65c5fff01acde2ddea655b7e",
+        "id": "GhJYTWjKTuCHKwM1603C6Q",
+        "slug": "national-buffoons-fireballz",
+        "views": 33451,
+        "created": 1442233932,
+        "season_number": "2",
+        "title_id": "2062765",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1619259282,
+        "first_published": 1442233932,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1619668800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/national-lampoons-fireballz/ypf_ep203_001_va5400099800nxhbxgyks.jpg",
+        "cma_id": "1368387"
     },
     {
         "auth": true,
@@ -744,7 +741,7 @@
         "cma_id": "1360899"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787100,
         "auth_expiration_date": 1622692740,
         "tms_id": "EP013726210012",
