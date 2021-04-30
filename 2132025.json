@@ -345,55 +345,6 @@
         "launch_date": 1616731200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156106128465713.jpg",
         "id": "AWmWXv_pHl5gR6828y3Y",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1619755140,
-        "tms_id": "",
-        "description": "Debbie meets a sleazy TV lawyer and gets swept up in the world of sleazy TV law.",
-        "title_suggest": {
-            "input": [
-                "Crash for Cash",
-                "for Cash",
-                "Cash"
-            ]
-        },
-        "title": "Crash for Cash",
-        "expiration_date": 1616731140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-        "duration": 676.75,
-        "episode_number": "4",
-        "original_air_date": 1558930500,
-        "auth_launch_date": 1616731200,
-        "clip_order": null,
-        "media_id": "ee5422a59e5377fb9df94b43d8015e212bf0e8ff",
-        "modified": 1616362826,
-        "airing_id": "RADS1002122100073838",
-        "slug": "crash-for-cash",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155862422482119.jpg",
-        "created": 1553006070,
-        "season_number": "2",
-        "title_id": "2191419",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616362826,
-        "tags": [],
-        "collection_title": "The Jellies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613710800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862422482119.jpg",
-        "id": "AWmWYAl_AScUIg8XxeHK",
         "auth": true
     },
     {
@@ -905,5 +856,53 @@
         "launch_date": 1617940800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351630416-jellies_102_air_cid-37GT5.jpg",
         "cma_id": "2132027"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1510587060,
+        "auth_expiration_date": 1614315540,
+        "tms_id": "EP027912080004",
+        "description": "Mervin Collins decides to run for Mayor against current Mayor Leonard Jenkins.",
+        "title_suggest": {
+            "input": [
+                "Mervin for Mayor",
+                "for Mayor",
+                "Mayor"
+            ]
+        },
+        "title": "Mervin for Mayor",
+        "type": "episode",
+        "expiration_date": 1622779140,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 676.6,
+        "episode_number": "4",
+        "original_air_date": 1510550100,
+        "clip_order": null,
+        "auth_launch_date": 1611291600,
+        "modified": 1619334804,
+        "media_id": "3efa3658511a124417860b53469578c4f900c5a7",
+        "airing_id": "RADS1004232100091646",
+        "id": "kSU3Z2NnQl-nTgzcDxMCSg",
+        "slug": "mervin-for-mayor",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351633126-jellies_104_air_cid-37F0Y.jpg",
+        "created": 1502222634,
+        "season_number": "1",
+        "title_id": "2132029",
+        "tv_rating": "tv-ma-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1619334804,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1619755200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351633126-jellies_104_air_cid-37F0Y.jpg",
+        "cma_id": "2132029"
     }
 ]
