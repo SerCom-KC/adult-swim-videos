@@ -1,7 +1,6 @@
 {
-    "updated": 1619719227,
-    "added": [],
-    "removed": [
+    "updated": 1619749828,
+    "added": [
         {
             "auth_expiration_date": 1604897940,
             "tms_id": "",
@@ -29,7 +28,7 @@
             "clip_order": null,
             "airing_id": "RADS1001292100069448",
             "media_id": "1658af2e1ab58419958e126c33b1d017aab2b65b",
-            "modified": 1611959420,
+            "modified": 1619749398,
             "slug": "snow-white",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/1_20520101801-JJVFT_006.jpg",
@@ -37,7 +36,7 @@
             "season_number": "1",
             "title_id": "2213500",
             "tv_rating": "tv-ma-lv",
-            "published": 1611959420,
+            "published": 1619749398,
             "tags": [],
             "collection_title": "JJ Villard's Fairy Tales",
             "disable_ads": false,
@@ -50,5 +49,6 @@
             "collection_title_id": "2213494",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
