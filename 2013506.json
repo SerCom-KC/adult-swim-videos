@@ -6308,6 +6308,56 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "EP033976470021",
+        "description": "The simulation is corrupt - repair the core. \nAnimated by Paul Robertson.",
+        "title_suggest": {
+            "input": [
+                "Rick + Morty In The Eternal Nightmare Machine",
+                "+ Morty In The Eternal Nightmare Machine",
+                "Morty In The Eternal Nightmare Machine",
+                "In The Eternal Nightmare Machine",
+                "The Eternal Nightmare Machine",
+                "Eternal Nightmare Machine",
+                "Nightmare Machine",
+                "Machine"
+            ]
+        },
+        "title": "Rick + Morty In The Eternal Nightmare Machine",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 0,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me35aa3655fe7ef5765e05971e924d59c206d9b13c",
+        "modified": 1619816525,
+        "slug": "rick-morty-in-the-eternal-nightmare-machine",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/1_214301539555-RAM_ITENM.png",
+        "created": 1619721027,
+        "season_number": "98",
+        "title_id": "2265750",
+        "tv_rating": "",
+        "published": 1619816525,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1619842500,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/2_214301539555-RAM_ITENM.png",
+        "id": "AXke5X-zDmGy9WFjRq68",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
