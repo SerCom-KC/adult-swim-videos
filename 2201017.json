@@ -278,7 +278,7 @@
         "launch_date": 1619339400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101328382-FoodWars_043_CaptiveQueen.jpg",
         "id": "AXgdZeWNQJ_4Uej5kTxx",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1619944140,
@@ -324,7 +324,7 @@
         "launch_date": 1619944200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101328521-FoodWars_044_AcademyFalls.jpg",
         "id": "AXgdZh7xQJ_4Uej5kTxy",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1620548940,
@@ -415,6 +415,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311129284-FoodWars_046_HuntingTheStragglers.jpg",
         "id": "AXiI52z1DmGy9WFjRqqO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1621758540,
+        "tms_id": "",
+        "description": "Clubs fall one by one against the onslaught of Central's elite cooking skills. Can Ryo prevail against Rentaro, or is the fiery chef yet another doomed statistic?",
+        "title_suggest": {
+            "input": [
+                "Dance of the Salmon",
+                "of the Salmon",
+                "the Salmon",
+                "Salmon"
+            ]
+        },
+        "title": "Dance of the Salmon",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 1389.7216,
+        "episode_number": "10",
+        "original_air_date": "1619931600",
+        "auth_launch_date": 1619944200,
+        "clip_order": null,
+        "airing_id": "RADS1004262100092127",
+        "media_id": "1c784c6c0862bf893b21b3a8e78d42ee0be5efbf",
+        "modified": 1619600324,
+        "slug": "dance-of-the-salmon",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/1_213311129457-FoodWars_047_DanceOfTheSalmon.jpg",
+        "created": 1617204587,
+        "season_number": "3",
+        "title_id": "2258233",
+        "tv_rating": "tv-ma-s",
+        "published": 1619600324,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311129457-FoodWars_047_DanceOfTheSalmon.jpg",
+        "id": "AXiI563NBH5Z6gH5aWHc",
         "auth": true
     }
 ]
