@@ -1997,7 +1997,7 @@
         "launch_date": 1618732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210325/thumbnails/2_21325826211-attackontitan_070_Deceiver.jpg",
         "id": "AXhk00leBH5Z6gH5aWEL",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1619337540,
@@ -2177,6 +2177,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210416/thumbnails/2_214161111247-AttackOnTitan_074_SoleSalvation.png",
         "id": "AXjbPNxBDmGy9WFjRqy8",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1621756740,
+        "tms_id": "EP034992000075",
+        "description": "With the Jaegerists now in charge, Zeke's master plan is revealed. But before it is put in motion, Eren recruits help to flush out any invaders in their midst.",
+        "title_suggest": {
+            "input": [
+                "Above and Below",
+                "and Below",
+                "Below"
+            ]
+        },
+        "title": "Above and Below",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+        "duration": 1347.5462,
+        "episode_number": "",
+        "original_air_date": 1619929800,
+        "auth_launch_date": 1619942400,
+        "clip_order": null,
+        "airing_id": "RADS1004302100093367",
+        "media_id": "c302b8cee4d6fc4bb82852f9faaeb747fc99afd4",
+        "modified": 1619858260,
+        "slug": "above-and-below",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/1_214301730182-AttackOnTitan_075_AboveAndBelow.png",
+        "created": 1619788027,
+        "title_id": "2244438",
+        "season_number": "4",
+        "tv_rating": "tv-14-lv",
+        "published": 1619858260,
+        "tags": [],
+        "collection_title": "Attack on Titan",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/2_214301730182-AttackOnTitan_075_AboveAndBelow.png",
+        "id": "AXki49XnBH5Z6gH5aWO2",
         "auth": true
     },
     {
