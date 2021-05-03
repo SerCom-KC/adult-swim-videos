@@ -651,7 +651,7 @@
         "launch_date": 1616990400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_20916171521-ericandre_504_dup-20200824.jpg",
         "id": "AXSYxV6pLyLQBOXK_PN-",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1616990340,
@@ -839,52 +839,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1620014340,
-        "tms_id": "",
-        "description": "Eric welcomes Blake Griffin and Stormy Daniels in the season finale. His crossing guard skills stink and Miss Eric Andre will be finally crowned.",
-        "title_suggest": {
-            "input": [
-                "The 50th Episode!",
-                "50th Episode!",
-                "Episode!"
-            ]
-        },
-        "title": "The 50th Episode!",
-        "expiration_date": 1616990340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 868.9681,
-        "episode_number": "10",
-        "original_air_date": "1606108500",
-        "auth_launch_date": 1616990400,
-        "clip_order": null,
-        "airing_id": "RADS1003252100083965",
-        "media_id": "86a625fb079a365a9e392b0e91cf37066ccb92e8",
-        "modified": 1616636668,
-        "slug": "the-50th-episode",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/1_20113121161-ericandre_510_dup-20200915.jpg",
-        "created": 1604423469,
-        "season_number": "5",
-        "title_id": "2230789",
-        "tv_rating": "tv-ma-lsv",
-        "published": 1616636668,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613970000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113121161-ericandre_510_dup-20200915.jpg",
-        "id": "AXWPF0lwLyLQBOXK_PY9",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1620619140,
         "tms_id": "EP015632430055",
         "description": "The making of The Eric Andre Show has forever been shrouded in mystery... but now you can finally see the blood, sweat, and ranch that goes into it.",
@@ -935,6 +889,54 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131211270-ericandre_511_S5_BTS_CENSORED_dup-20201019.jpg",
         "id": "AXWPF5rqbxpjZvbXYlbm",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1619409540,
+        "tms_id": "",
+        "description": "Eric welcomes Quincy and Chad Johnson. Rapper Warrior Ninja guests Fat Tony, Freddie Gibbs, OG Swaggerdick and CUCO. Ranch it up guy gets a job. Felipe hovers over the guests.",
+        "title_suggest": {
+            "input": [
+                "Is Your Wife Still Depressed?",
+                "Your Wife Still Depressed?",
+                "Wife Still Depressed?",
+                "Still Depressed?",
+                "Depressed?"
+            ]
+        },
+        "title": "Is Your Wife Still Depressed?",
+        "expiration_date": 1623038340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 664.9977,
+        "episode_number": "9",
+        "original_air_date": "1606107600",
+        "auth_launch_date": 1616385600,
+        "clip_order": null,
+        "airing_id": "RADS1004292100093100",
+        "media_id": "9758bd373a2f00bfb5692622903fe62cf2145164",
+        "modified": 1619752235,
+        "slug": "is-your-wife-still-depressed",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/1_201131210506-ericandre_509_dup-20200914.jpg",
+        "created": 1604423453,
+        "season_number": "5",
+        "title_id": "2230788",
+        "tv_rating": "tv-ma-l",
+        "published": 1619752235,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620014400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131210506-ericandre_509_dup-20200914.jpg",
+        "id": "AXWPFwsXLyLQBOXK_PY8",
+        "auth": false
     },
     {
         "auth": false,
