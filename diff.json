@@ -1,23 +1,20 @@
 {
-    "updated": 1619955202,
-    "added": [
+    "updated": 1620010640,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1629026940,
-            "tms_id": "EP034917240093",
-            "description": "Naruto and Killer Bee face off against the masked man originally thought to be Madara Uchiha.",
+            "auth_expiration_date": 1620446340,
+            "tms_id": "EP032284200134",
+            "description": "Mereoleona grabs a few fiery handsful of Black Bulls to join her squad in a training session at Yultim Volcano, where several surprises await them.",
             "title_suggest": {
                 "input": [
-                    "The Unbreakable Mask and the Shattered Bubble",
-                    "Unbreakable Mask and the Shattered Bubble",
-                    "Mask and the Shattered Bubble",
-                    "and the Shattered Bubble",
-                    "the Shattered Bubble",
-                    "Shattered Bubble",
-                    "Bubble"
+                    "The Lion Awakens",
+                    "Lion Awakens",
+                    "Awakens"
                 ]
             },
-            "title": "The Unbreakable Mask and the Shattered Bubble",
-            "expiration_date": null,
+            "title": "The Lion Awakens",
+            "expiration_date": 1604897940,
             "type": "episode",
             "platforms": [
                 "android",
@@ -25,35 +22,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.7104,
-            "episode_number": "41",
-            "original_air_date": "1610870400",
-            "auth_launch_date": 1619955000,
+            "collection_id": "AV-7K77EZ-onAnjDLtBM",
+            "duration": 1295.1271,
+            "episode_number": "30",
+            "original_air_date": "1600579800",
+            "auth_launch_date": 1612760400,
             "clip_order": null,
-            "airing_id": "RADS1004262100092115",
-            "media_id": "9ed3bffd5c69fc0c34255ad0e9650dec8d7c7231",
-            "modified": 1619602101,
-            "slug": "the-unbreakable-mask-and-the-shattered-bubble",
+            "airing_id": "RADS1002052100070691",
+            "media_id": "ce86e5ba28b49cf725c21a901c0bc60213a8147e",
+            "modified": 1616511867,
+            "slug": "the-lion-awakens",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_21171334242-NarutoShippuden_324_UnbreakableMask.jpg",
-            "created": 1610044470,
-            "season_number": "6",
-            "title_id": "2177753",
-            "tv_rating": "tv-pg-v",
-            "published": 1619602101,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/1_209171446556-BlackClover_132.jpg",
+            "created": 1599685771,
+            "season_number": "3",
+            "title_id": "2230146",
+            "tv_rating": "tv-pg",
+            "published": 1616511867,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Black Clover",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171334242-NarutoShippuden_324_UnbreakableMask.jpg",
-            "id": "AXbeIPMOQJ_4Uej5kTkC",
+            "launch_date": 1603702800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171446556-BlackClover_132.jpg",
+            "id": "AXR0s8IcSeFB2d0c381z",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "black-clover",
+            "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
