@@ -90,7 +90,7 @@
         "launch_date": 1618804800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155568672812612.jpg",
         "id": "AWo2J_T1Hl5gR6828zSd",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -186,17 +186,17 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1620014340,
-        "tms_id": "EP031416130008",
-        "description": "Ray will attempt to distract Mom while Emma and Norman go to inspect the wall. Gilda and Don are keeping a watchful eye on Ray, but will everything go smoothly?",
+        "auth_expiration_date": 1584862140,
+        "tms_id": "EP031416130004",
+        "description": "Emma, Norman, and Ray figure out that there may be a traitor among the children, an informant for Mom. As Norman attempts to solve this mystery, Emma notices something strange about Gilda.",
         "title_suggest": {
             "input": [
-                "021145"
+                "291045"
             ]
         },
-        "title": "021145",
+        "title": "291045",
         "type": "episode",
-        "expiration_date": 1583650740,
+        "expiration_date": 1621223940,
         "platforms": [
             "android",
             "ios",
@@ -204,32 +204,31 @@
             "fire-tv"
         ],
         "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1292.73,
-        "episode_number": "8",
-        "original_air_date": 1559448000,
-        "auth_launch_date": 1617595200,
+        "duration": 1279.5115,
+        "episode_number": "4",
+        "original_air_date": 1557028800,
+        "auth_launch_date": 1581237000,
         "clip_order": null,
-        "airing_id": "RADS1003312100086345",
-        "media_id": "84b9a8098925321581a0bab2765bfd7bfaf5e14f",
-        "modified": 1617248938,
-        "slug": "021145",
+        "airing_id": "RADS1004292100093081",
+        "media_id": "99e7be6d6f2c420843e1609e0d8ebb95a768272e",
+        "modified": 1619749843,
+        "slug": "291045",
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15592507484158.jpg",
-        "created": 1559157607,
-        "title_id": "2194666",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15569042771246.jpg",
+        "created": 1556654771,
+        "title_id": "2194662",
         "season_number": "1",
-        "tv_rating": "tv-14-lv",
+        "tv_rating": "tv-14",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1617248938,
+        "published": 1619749843,
         "tags": [],
         "collection_title": "The Promised Neverland",
-        "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1582444800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15592507484158.jpg",
-        "id": "AWsFCQrdCorLtcgflqy3",
-        "auth": true
+        "launch_date": 1620014400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15569042771246.jpg",
+        "id": "AWpv2sypHl5gR6828zXv",
+        "auth": false
     },
     {
         "ott_launch_date": null,
