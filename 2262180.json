@@ -130,7 +130,7 @@
         "launch_date": 1620014400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210409/thumbnails/2_2149174497-birdgirl_102_ShareBear.jpg",
         "id": "AXiuUgd0DmGy9WFjRqsA",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1620619140,
@@ -221,6 +221,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210416/thumbnails/2_214161110347-Birdgirl_104_WeHaveTheInternet.jpg",
         "id": "AXjbPBezBH5Z6gH5aWOv",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1621828740,
+        "tms_id": "EP038016760005",
+        "description": "Judy updates a classic soda can and fans vow to destroy her.",
+        "title_suggest": {
+            "input": [
+                "Topple the Popple",
+                "the Popple",
+                "Popple"
+            ]
+        },
+        "title": "Topple the Popple",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXhbHjJvDmGy9WFjRqo0",
+        "duration": 1352.4178,
+        "episode_number": "5",
+        "original_air_date": 1620014400,
+        "auth_launch_date": 1620014400,
+        "clip_order": null,
+        "airing_id": "RADS1004292100093089",
+        "media_id": "4666b14205757eb2ac098b463d67086919a48e9d",
+        "modified": 1619808672,
+        "slug": "topple-the-popple",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/1_214301450549-BirdGirl_105_ToppleThePopple.png",
+        "created": 1619716659,
+        "title_id": "2262185",
+        "season_number": "1",
+        "tv_rating": "tv-ma-ls",
+        "published": 1619808672,
+        "tags": [],
+        "collection_title": "Birdgirl",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/2_214301450549-BirdGirl_105_ToppleThePopple.png",
+        "id": "AXkeotrFBH5Z6gH5aWO1",
         "auth": true
     }
 ]
