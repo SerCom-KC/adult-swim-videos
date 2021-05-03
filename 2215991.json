@@ -1,56 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1620014340,
-        "tms_id": "EP033346400002",
-        "description": "Six months have passed since the fierce battle against Administrator.  Kirito has lost his right arm, and is now just a broken-down shell of his former self. Alice has brought him to the outskirts of her childhood home where they live.",
-        "title_suggest": {
-            "input": [
-                "In the Far North",
-                "the Far North",
-                "Far North",
-                "North"
-            ]
-        },
-        "title": "In the Far North",
-        "expiration_date": 1616385540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
-        "duration": 1421.2532,
-        "episode_number": "1",
-        "original_air_date": 1579410000,
-        "auth_launch_date": 1616385600,
-        "clip_order": null,
-        "media_id": "1678c52a1889ad82bedc448cf7ec2b3d99935e70",
-        "modified": 1616024762,
-        "airing_id": "RADS1003172100082704",
-        "slug": "in-the-far-north",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/1_20123145694-SAO_WoU_001.jpg",
-        "created": 1579634010,
-        "season_number": "1",
-        "title_id": "2215992",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616024762,
-        "tags": [],
-        "collection_title": "Sword Art Online: Alicization - War of Underworld",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1615266000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_20123145694-SAO_WoU_001.jpg",
-        "id": "AW_JhikR3HMJfT8do7Xd",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1622433540,
         "tms_id": "",
         "description": "The Dark Forces are now closing in on The Eastern Gate, which separates the Human Empire from the Dark Territory. Resolving to fight for humankind, Alice joins the Human Empire Forces, bringing Kirito with her.",
@@ -342,7 +292,7 @@
         "launch_date": 1618804800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241458455-sao_WoU_007.jpg",
         "id": "AXARyK7VGRcVO2K2pmrm",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -391,6 +341,55 @@
         "launch_date": 1619409600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241459101-SAO_WoU_008.jpg",
         "id": "AXARyRtA3HMJfT8do8JE",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1615265940,
+        "tms_id": "",
+        "description": "Now that he's seen Alice, Gabriel orders his entire army to charge in order to capture her. The Dark Forces' elite Pugilists Guild arrives ahead of the main army in pursuit of Alice and the raid unit.",
+        "title_suggest": {
+            "input": [
+                "Sword and Fist",
+                "and Fist",
+                "Fist"
+            ]
+        },
+        "title": "Sword and Fist",
+        "expiration_date": 1621223940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
+        "duration": 1321.1198,
+        "episode_number": "9",
+        "original_air_date": 1584244800,
+        "auth_launch_date": 1611550800,
+        "clip_order": null,
+        "media_id": "2b86efe6d156ea2646555a4251a0c5280a15e87f",
+        "modified": 1619752824,
+        "airing_id": "RADS1004292100093097",
+        "slug": "sword-and-fist",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261337226-SAO_WoU_009.jpg",
+        "created": 1582742247,
+        "season_number": "1",
+        "title_id": "2216000",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1619752824,
+        "tags": [],
+        "collection_title": "Sword Art Online: Alicization - War of Underworld",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620014400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261337226-SAO_WoU_009.jpg",
+        "id": "AXCCyhd73HMJfT8do8x_",
         "auth": false
     }
 ]
