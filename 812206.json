@@ -2925,7 +2925,11 @@
     },
     {
         "auth_expiration_date": 1620556140,
+        "created": 1610915206,
         "tms_id": "EP034917240094",
+        "title_id": "2177754",
+        "season_number": "6",
+        "tv_rating": "tv-pg-lv",
         "description": "Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan.",
         "title_suggest": {
             "input": [
@@ -2934,39 +2938,22 @@
                 "Jinchuriki!!"
             ]
         },
+        "published": 1620153809,
         "title": "Jinchuriki vs. Jinchuriki!!",
         "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
+        "tags": [],
         "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-        "duration": 0,
+        "duration": 1311.3768,
         "episode_number": "42",
+        "collection_title": "Naruto: Shippuden",
         "original_air_date": 1611475200,
         "auth_launch_date": 1611487800,
-        "clip_order": null,
+        "modified_by": "ODT Listener",
         "airing_id": "RADS1001172100064558",
         "media_id": "29bf5708c9c39986b93b4e3216dc45e468ec45c9",
-        "modified": 1611339201,
+        "modified": 1620153809,
         "slug": "jinchuriki-vs-jinchuriki",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/1_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg",
-        "created": 1610915206,
-        "title_id": "2177754",
-        "season_number": "6",
-        "tv_rating": "tv-pg-lv",
-        "published": 1611339201,
-        "tags": [],
-        "collection_title": "Naruto: Shippuden",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg",
-        "id": "AXcSB1PbQJ_4Uej5kTmg",
+        "id": "AXcSB1PabxpjZvbXYmDA",
         "auth": true
     },
     {
