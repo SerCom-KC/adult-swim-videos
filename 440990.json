@@ -1,5 +1,53 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1620705540,
+        "tms_id": "EP002960010236",
+        "description": "After Peter finally goes to the dentist to take care of his bad breath, the Griffins celebrate with a family dinner at The Founding Father Restaurant. The waiter notices Stewie coloring in his placemat, and explains that it's actually a reprinted treasure map.",
+        "title_suggest": {
+            "input": [
+                "Finders Keepers",
+                "Keepers"
+            ]
+        },
+        "title": "Finders Keepers",
+        "type": "episode",
+        "expiration_date": 1597636740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1287.7865,
+        "episode_number": "1",
+        "original_air_date": 1381201200,
+        "clip_order": null,
+        "auth_launch_date": 1620100800,
+        "modified": 1619755834,
+        "media_id": "2129de6c40f2035015d9dbebbb99b225986d3fc2",
+        "airing_id": "RADS1004292100093126",
+        "id": "1TX74cRLQMSYaBniRK0SmA",
+        "slug": "finders-keepers",
+        "views": 2900,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277485295815.jpg",
+        "created": 1411574855,
+        "season_number": "12",
+        "title_id": "809130",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1619755834,
+        "first_published": 1411574855,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1597032000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277485295815.jpg",
+        "cma_id": "809130"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1612933140,
@@ -446,54 +494,6 @@
         "launch_date": 1595822400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227747673707.jpg",
         "cma_id": "1407602"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1620100740,
-        "tms_id": "EP002960010225",
-        "description": "After Meg sees Chris stealing money out of Lois' purse, she blackmails him into doing everything she says.",
-        "title_suggest": {
-            "input": [
-                "Chris Cross",
-                "Cross"
-            ]
-        },
-        "title": "Chris Cross",
-        "type": "episode",
-        "expiration_date": 1595217540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1290.4224,
-        "episode_number": "13",
-        "original_air_date": 1361851200,
-        "clip_order": null,
-        "auth_launch_date": 1619496000,
-        "modified": 1619070329,
-        "media_id": "8c60bf26ac3f280fce4a1f752feccfa81a09c18a",
-        "airing_id": "RADS1004212100091343",
-        "id": "fSHHGcg7Qx6oJ8lxZ0xP1A",
-        "slug": "chris-cross",
-        "views": 519,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227671953846.jpg",
-        "created": 1411574534,
-        "season_number": "11",
-        "title_id": "809254",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1619070329,
-        "first_published": 1411574534,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1594612800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227671953846.jpg",
-        "cma_id": "809254"
     },
     {
         "auth": true,
