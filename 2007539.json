@@ -100,7 +100,7 @@
     },
     {
         "ott_launch_date": 1521469860,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1623211140,
         "tms_id": "EP018514630031",
         "description": "When Mrs. Goodman confronts the parents of Tommy's bullies, they dump their out-of-control kids with her for the day.",
@@ -535,6 +535,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447173480,
+        "auth_expiration_date": 1614142740,
+        "tms_id": "EP018514630002",
+        "description": "Grandpa is on a quest to discover what really goes on inside Mr. Pickles' doghouse, and to prove once and for all that he's not crazy.",
+        "title_suggest": {
+            "input": [
+                "Father's Day Pie",
+                "Day Pie",
+                "Pie"
+            ]
+        },
+        "title": "Father's Day Pie",
+        "type": "episode",
+        "expiration_date": 1623211140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 675.8757298,
+        "episode_number": "2",
+        "original_air_date": 1411961400,
+        "clip_order": null,
+        "auth_launch_date": 1611118800,
+        "modified": 1619771723,
+        "media_id": "45e96a0addc42b873595f7ce83c3bbd72af3ac3f",
+        "airing_id": "RADS1004292100093170",
+        "id": "GkRplmmHSmyxbMqEPCO7Fg",
+        "slug": "fathers-day-pie",
+        "views": 22,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121116489-mrpickles_002_dup-20140923.jpg",
+        "created": 1411737615,
+        "title_id": "2032503",
+        "tv_rating": "tv-ma-v",
+        "season_number": "1",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1619771723,
+        "first_published": 1411737615,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620187200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121116489-mrpickles_002_dup-20140923.jpg",
+        "cma_id": "1435471"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447173420,
         "auth_expiration_date": 1613537940,
         "tms_id": "EP018514630003",
@@ -584,51 +636,5 @@
         "launch_date": 1619582400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312115262-mrpickles_001_dup-20140909.jpg",
         "cma_id": "1430898"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1520263860,
-        "auth_expiration_date": 1620187140,
-        "tms_id": "EP018514630026",
-        "description": "Tommy tries to protect a strange new friend from a military group that is out to capture him.",
-        "title_suggest": {
-            "input": [
-                "S.H.O.E.S"
-            ]
-        },
-        "title": "S.H.O.E.S",
-        "type": "episode",
-        "expiration_date": 1617163140,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 677.42,
-        "episode_number": "3",
-        "original_air_date": 1520226000,
-        "clip_order": null,
-        "auth_launch_date": 1617163200,
-        "modified": 1616946750,
-        "media_id": "1ebd3d2ed17ce08a992eec6e2db6255f4543e931",
-        "airing_id": "RADS1003282100084390",
-        "id": "PgIM7J04SwmGLH09e7hjUQ",
-        "slug": "s-h-o-e-s",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151967391467517.jpg",
-        "created": 1500665697,
-        "season_number": "3",
-        "title_id": "2120611",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616946750,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1614142800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151967391467517.jpg",
-        "cma_id": ""
     }
 ]
