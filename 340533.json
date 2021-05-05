@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447439220,
         "auth_expiration_date": 1623211140,
         "tms_id": "EP004625760031",
@@ -256,6 +256,57 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447439340,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760038",
+        "rating": 9.284552,
+        "description": "Quinn agrees to teach Debbie Love's 4th grade class for the day.  And Shanks decides to tag along for the ride.  Everything goes pretty smoothly.  Except they kill the class pet and terrify the kids.  Oh, and unleash the bubonic plague.  Other than that, though...pretty smoothly.",
+        "title_suggest": {
+            "input": [
+                "Chalkboard Jungle",
+                "Jungle"
+            ]
+        },
+        "type": "episode",
+        "title": "Chalkboard Jungle",
+        "expiration_date": 1623211140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 694.0667334,
+        "episode_number": "9",
+        "original_air_date": 1088394300,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1619772364,
+        "airing_id": "RADS1004292100093156",
+        "media_id": "9bbfcca0a6b1b3a08994ad4586f1dbb28cf9e896",
+        "id": "T17jeEqHSaqDQXogOaGlXw",
+        "slug": "chalkboard-jungle",
+        "views": 207604,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_2041698270-sealab_035.jpg",
+        "created": 1402945476,
+        "title_id": "544396",
+        "season_number": "3",
+        "tv_rating": "tv-14-d",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1619772364,
+        "tags": [],
+        "rating_count": 1476,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620187200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041698270-sealab_035.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447439160,
         "auth_expiration_date": 1622606340,
@@ -304,58 +355,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1616558400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151531316-sealab_028.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447438980,
-        "auth_expiration_date": 1620187140,
-        "tms_id": "EP004625760027",
-        "rating": 9.028632,
-        "description": "Affirmitave Action promotes everyone to the rank of Captain... except for Quinn.  And also except for Captain Murphy, because he is already a Captain.  That's why his name is Captain Murphy.",
-        "title_suggest": {
-            "input": [
-                "Article 4",
-                "4"
-            ]
-        },
-        "type": "episode",
-        "title": "Article 4",
-        "expiration_date": 1617163140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 660.0333667,
-        "episode_number": "12",
-        "original_air_date": 1055736000,
-        "clip_order": null,
-        "auth_launch_date": 1617163200,
-        "modified": 1618862723,
-        "media_id": "66b156473a2008cc662257eb836d4adc5e9ebe52",
-        "airing_id": "RADS1003282100084380",
-        "id": "Xw3xsOwMSrS-qX7e7235Sg",
-        "slug": "article-4",
-        "views": 167437,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_20415153014-sealab_025.jpg",
-        "created": 1402945476,
-        "title_id": "444407",
-        "season_number": "2",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1618862723,
-        "tags": [],
-        "rating_count": 489,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1614142800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_20415153014-sealab_025.jpg",
         "cma_id": ""
     },
     {

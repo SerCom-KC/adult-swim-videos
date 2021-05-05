@@ -208,7 +208,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784640,
         "auth_expiration_date": 1623211140,
         "tms_id": "EP008994530036",
@@ -256,6 +256,59 @@
         "launch_date": 1617163200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652217-timanderic_405.jpg",
         "cma_id": "1384868"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447784700,
+        "auth_expiration_date": 1560956340,
+        "tms_id": "EP008994530040",
+        "rating": 8.842375,
+        "description": "Tim and Eric engage in a high stakes game of tennis, while Richard Dunn presides. Meanwhile, Glen Tennis sits down with Grum to discuss the release of their latest film. \r\n(Fred Armisen, AD Miles, Bob Odenkirk)",
+        "title_suggest": {
+            "input": [
+                "Tennis"
+            ]
+        },
+        "type": "episode",
+        "title": "Tennis",
+        "expiration_date": 1623211140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 674.17,
+        "episode_number": "9",
+        "original_air_date": 1239597000,
+        "clip_order": null,
+        "auth_launch_date": 1557932400,
+        "modified": 1619764376,
+        "media_id": "94eec97a03decc95f8cbcab5996ca9f6520669f4",
+        "airing_id": "RADS1004292100093174",
+        "id": "Pc1be-aJQX2WqoM4jCBykQ",
+        "slug": "tennis",
+        "views": 269152,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161650582-timanderic_409.jpg",
+        "created": 1402945481,
+        "title_id": "751411",
+        "tv_rating": "tv-14-d",
+        "season_number": "4",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1619764376,
+        "tags": [
+            "tim eric awesome show great job episode 39 tennis match bet movie grum movie"
+        ],
+        "rating_count": 1180,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620187200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161650582-timanderic_409.jpg",
+        "cma_id": "1403271"
     },
     {
         "auth": true,
@@ -366,57 +419,6 @@
         "launch_date": 1503603292,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116157434-timanderic_10thAnniversary_dup-20170919.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447784520,
-        "auth_expiration_date": 1620187140,
-        "tms_id": "EP008994530030",
-        "rating": 8.559941,
-        "description": "Browntown? Nope. Brownies.\r\n(John C Reilly, Michael Ian Black, Bob Odenkirk, Ray Wise)",
-        "title_suggest": {
-            "input": [
-                "Brownies"
-            ]
-        },
-        "type": "episode",
-        "title": "Brownies",
-        "expiration_date": 1617163140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 680.02,
-        "episode_number": "10",
-        "original_air_date": 1222662600,
-        "clip_order": null,
-        "auth_launch_date": 1617163200,
-        "modified": 1618862713,
-        "media_id": "c816b694d67a28774b87f404ac0f44103071cd0c",
-        "airing_id": "RADS1003282100084382",
-        "id": "SHKA41vOQ9OXWzMZmLvq3Q",
-        "slug": "brownies",
-        "views": 338013,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161625490-timanderic_310.jpg",
-        "created": 1402945481,
-        "title_id": "723441",
-        "season_number": "3",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1618862713,
-        "tags": [],
-        "rating_count": 1518,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1614142800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161625490-timanderic_310.jpg",
-        "cma_id": "1365359"
     },
     {
         "auth": false,

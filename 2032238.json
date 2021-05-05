@@ -52,6 +52,57 @@
         "cma_id": "1438047"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1563335940,
+        "tms_id": "EP020020000040",
+        "description": "Has a woman's late husband been reincarnated as her sweet little dog?",
+        "title_suggest": {
+            "input": [
+                "A Dog's Life",
+                "Dog's Life",
+                "Life"
+            ]
+        },
+        "expiration_date": 1623211140,
+        "title": "A Dog's Life",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 672.7506255,
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "episode_number": "10",
+        "original_air_date": 1500262200,
+        "clip_order": null,
+        "auth_launch_date": 1560312000,
+        "modified": 1619772363,
+        "media_id": "6b14a58de8088262c70f87970b98b8aa5170c3a6",
+        "airing_id": "RADS1004292100093161",
+        "id": "35Z25k6WQQe8a8rZ5i2y7A",
+        "slug": "a-dogs-life",
+        "views": 5312,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111534204-miketysonmysteries_310.jpg",
+        "created": 1499372690,
+        "season_number": "3",
+        "title_id": "2117693",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1619772363,
+        "first_published": 1499929820,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620187200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111534204-miketysonmysteries_310.jpg",
+        "cma_id": "1465241"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1621396740,
@@ -458,7 +509,7 @@
         "cma_id": "1460826"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1626235140,
         "tms_id": "EP020020000034",
@@ -815,56 +866,5 @@
         "launch_date": 1614142800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111530401-miketysonmysteries_026-027.jpg",
         "cma_id": "2069750"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1620187140,
-        "tms_id": "EP020020000024",
-        "description": "Mike Tyson wants a new tracksuit more suitable for summer.",
-        "title_suggest": {
-            "input": [
-                "Yves Klein Blues",
-                "Klein Blues",
-                "Blues"
-            ]
-        },
-        "expiration_date": 1614142740,
-        "title": "Yves Klein Blues",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 676.5838198,
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "episode_number": "14",
-        "original_air_date": 1462765500,
-        "clip_order": null,
-        "auth_launch_date": 1614142800,
-        "modified": 1613830437,
-        "media_id": "389e511d997afdf0b6f08cbb9ebbf67a2823b2d6",
-        "airing_id": "RADS1001152100064083",
-        "id": "vkAv1TnMQcqeRV-MKlTKXw",
-        "slug": "yves-klein-blues",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111528159-miketysonmysteries_025.jpg",
-        "created": 1445444073,
-        "season_number": "2",
-        "title_id": "2069749",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1613830437,
-        "first_published": 1462432217,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611118800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111528159-miketysonmysteries_025.jpg",
-        "cma_id": "1467342"
     }
 ]
