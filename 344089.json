@@ -51,7 +51,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1623211140,
         "tms_id": "EP002989350036",
@@ -364,6 +364,62 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "EP002989350038",
+        "rating": 8.712873,
+        "description": "Brendon, Jason and Melissa get in BIG trouble at school and have to go to a \"scared straight\" program at the local prison. Meanwhile, Paula stumbles across a huge pile of the kids' old movies and incredibly, she watches them. What's more, she discovers an odd motif that runs through every film.",
+        "title_suggest": {
+            "input": [
+                "Time To Pay The Price",
+                "To Pay The Price",
+                "Pay The Price",
+                "The Price",
+                "Price"
+            ]
+        },
+        "type": "episode",
+        "title": "Time To Pay The Price",
+        "expiration_date": 1623211140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1332.4004004,
+        "episode_number": "10",
+        "original_air_date": 1036983600,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1619772363,
+        "media_id": "7d7942395d134a2bad42b0b197ae9a0f4ac8362d",
+        "airing_id": "RADS1004292100093169",
+        "id": "ed8VyMzxR4aW8wn_DEAGXA",
+        "slug": "time-to-pay-the-price",
+        "views": 368113,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351624175-hmovies_036.jpg",
+        "created": 1402945467,
+        "title_id": "432260",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1619772363,
+        "tags": [
+            "home movies episode 36 time to pay the price brendon melissa scared straight jason"
+        ],
+        "rating_count": 808,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620187200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624175-hmovies_036.jpg",
+        "cma_id": "978544"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1621396740,
@@ -468,59 +524,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1617768000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351621344-hmovies_031.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1620187140,
-        "tms_id": "EP002989350026",
-        "rating": 8.552118,
-        "description": "The big day is here: Brendon's dad is marrying his girlfriend. A rash is slowly covering Brendon's body, but otherwise he's doing okay. Paula's friend Stephanie is in town for the wedding and takes a liking to Coach McGuirk.",
-        "title_suggest": {
-            "input": [
-                "The Wedding",
-                "Wedding"
-            ]
-        },
-        "type": "episode",
-        "title": "The Wedding",
-        "expiration_date": 1617163140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1327.0667334,
-        "episode_number": "13",
-        "original_air_date": 1017630000,
-        "clip_order": null,
-        "auth_launch_date": 1617163200,
-        "modified": 1616946753,
-        "media_id": "cb226903c8de7e718695571dab2806e63181589a",
-        "airing_id": "RADS1003282100084378",
-        "id": "uUPvhoz4RtGhpHrMazBidw",
-        "slug": "the-wedding",
-        "views": 399632,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351619255-hmovies_026.jpg",
-        "created": 1402945467,
-        "title_id": "344142",
-        "season_number": "2",
-        "tv_rating": "tv-pg-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1616946753,
-        "tags": [
-            "home movies the wedding episode 26"
-        ],
-        "rating_count": 1036,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1614142800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351619255-hmovies_026.jpg",
         "cma_id": ""
     }
 ]
