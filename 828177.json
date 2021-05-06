@@ -250,54 +250,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1620273540,
-        "tms_id": "",
-        "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
-        "title_suggest": {
-            "input": [
-                "Fried Alive",
-                "Alive"
-            ]
-        },
-        "title": "Fried Alive",
-        "expiration_date": 1617249540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 677.58,
-        "episode_number": "12",
-        "original_air_date": 1560572100,
-        "auth_launch_date": 1617249600,
-        "clip_order": null,
-        "media_id": "9c14aa29afbf5968ef2ed18c82e5db81e288550b",
-        "modified": 1616950667,
-        "airing_id": "RADS1003282100084418",
-        "slug": "fried-alive",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036482881015.jpg",
-        "created": 1556817021,
-        "season_number": "4",
-        "title_id": "2191449",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1616950667,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1614229200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
-        "id": "AWp5hohlHl5gR6828zZV",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Gary tracks down a delicious surprise.",
@@ -547,6 +499,50 @@
         "launch_date": 1614834000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/psyklone-and-the-thin-twins/ypf_ep201_003.jpg",
         "cma_id": "1384952"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447787400,
+        "tms_id": "EP013726210019",
+        "description": "A drug epidemic in Hell creates an opportunity.",
+        "title_suggest": {
+            "input": [
+                "Spunk"
+            ]
+        },
+        "expiration_date": 1623297540,
+        "title": "Spunk",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 683.33,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "10",
+        "original_air_date": 1443413700,
+        "clip_order": null,
+        "modified": 1619922477,
+        "airing_id": "RADS1004302100093398",
+        "media_id": "0cee79380dfa526c766402d99281937d93970686",
+        "id": "Ikrgw040RvOJIh_xaTKAtA",
+        "slug": "spunk",
+        "views": 1,
+        "created": 1436294518,
+        "season_number": "2",
+        "title_id": "2062772",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1619922477,
+        "first_published": 1443259220,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1620273600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/spunk/ypf_ep210_001_ljha65798380babi87g0as.jpg",
+        "cma_id": "1371751"
     },
     {
         "auth": true,
@@ -891,7 +887,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787160,
         "auth_expiration_date": 1623297540,
         "tms_id": "EP013726210013",
