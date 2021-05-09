@@ -789,6 +789,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447787220,
+        "auth_expiration_date": 1623902340,
         "tms_id": "EP013726210016",
         "description": "The annual Wiccan devil orgy has returned.",
         "title_suggest": {
@@ -809,8 +810,9 @@
         "episode_number": "6",
         "original_air_date": 1439784900,
         "clip_order": null,
-        "modified": 1617427227,
-        "airing_id": "RADS1004012100086757",
+        "auth_launch_date": 1620878400,
+        "modified": 1620562659,
+        "airing_id": "RADS1005092100096338",
         "media_id": "3a6888f80da05e85189dfdd1a522932a8350ac74",
         "id": "mVeqSwo2T9y7XPGSx1ldQA",
         "slug": "witches",
@@ -821,7 +823,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1617427227,
+        "published": 1620562659,
         "first_published": 1441730641,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
