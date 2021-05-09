@@ -1,1 +1,51 @@
-[]
+[
+    {
+        "auth_expiration_date": 1622361540,
+        "tms_id": "EP031990730096",
+        "description": "There's an emergency drill at U.A. High School, and Class 1-A is requested to report for duty!",
+        "title_suggest": {
+            "input": [
+                "All Hands on Deck! Class 1-A",
+                "Hands on Deck! Class 1-A",
+                "on Deck! Class 1-A",
+                "Deck! Class 1-A",
+                "Class 1-A",
+                "1-A"
+            ]
+        },
+        "title": "All Hands on Deck! Class 1-A",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1371.2699,
+        "episode_number": "1",
+        "original_air_date": 1620534600,
+        "auth_launch_date": 1620547200,
+        "clip_order": null,
+        "airing_id": "RADS1005042100094737",
+        "media_id": "3de8af5da15e6d65b1740f06cb9b0f301668b845",
+        "modified": 1620422468,
+        "slug": "all-hands-on-deck-class-1-a",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/1_21571217437-MyHeroAcademia_089_AllHandsOnDeckClass1A.png",
+        "created": 1620140221,
+        "title_id": "2267454",
+        "season_number": "5",
+        "tv_rating": "tv-14-v",
+        "published": 1620422468,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_21571217437-MyHeroAcademia_089_AllHandsOnDeckClass1A.png",
+        "id": "AXk34eLZBH5Z6gH5aWO4",
+        "auth": true
+    }
+]
