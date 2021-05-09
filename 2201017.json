@@ -324,7 +324,7 @@
         "launch_date": 1619944200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101328521-FoodWars_044_AcademyFalls.jpg",
         "id": "AXgdZh7xQJ_4Uej5kTxy",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1620548940,
@@ -462,6 +462,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311129457-FoodWars_047_DanceOfTheSalmon.jpg",
         "id": "AXiI563NBH5Z6gH5aWHc",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1622363340,
+        "tms_id": "EP034485810011",
+        "description": "Unable to forgive her uncle, Alice confronts Aizen and challenges Erina to do the same. During their next class, Soma and Momo discover they have a new instructor.",
+        "title_suggest": {
+            "input": [
+                "Der Weiise Ritter der Tafel",
+                "Weiise Ritter der Tafel",
+                "Ritter der Tafel",
+                "der Tafel",
+                "Tafel"
+            ]
+        },
+        "title": "Der Weiise Ritter der Tafel",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 1389.8551,
+        "episode_number": "11",
+        "original_air_date": 1620536400,
+        "auth_launch_date": 1620549000,
+        "clip_order": null,
+        "airing_id": "RADS1005042100094736",
+        "media_id": "25a4579fa2df78f97206dfb4c69c16d1244e6716",
+        "modified": 1620404576,
+        "slug": "der-weiise-ritter-der-tafel",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/1_21571222313-FoodWars_048_DerWeiiseRitterDerTafel.png",
+        "created": 1620140218,
+        "title_id": "2258234",
+        "season_number": "3",
+        "tv_rating": "tv-ma-s",
+        "published": 1620404576,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_21571222313-FoodWars_048_DerWeiiseRitterDerTafel.png",
+        "id": "AXk34dkpDmGy9WFjRq_S",
         "auth": true
     }
 ]
