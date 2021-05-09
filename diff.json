@@ -1,18 +1,18 @@
 {
-    "updated": 1620556339,
+    "updated": 1620559883,
     "added": [
         {
-            "auth_expiration_date": 1629628140,
-            "tms_id": "EP034917240109",
-            "description": "Thanks to Itachi, the Reanimation Jutsu is released, and all the Reanimated Shinobi are returned to their resting places. But to everyone's surprise, the real Madara still remains!",
+            "auth_expiration_date": 1629631740,
+            "tms_id": "EP034917240094",
+            "description": "Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan.",
             "title_suggest": {
                 "input": [
-                    "Reanimation Jutsu, Release!",
-                    "Jutsu, Release!",
-                    "Release!"
+                    "Jinchuriki vs. Jinchuriki!!",
+                    "vs. Jinchuriki!!",
+                    "Jinchuriki!!"
                 ]
             },
-            "title": "Reanimation Jutsu, Release!",
+            "title": "Jinchuriki vs. Jinchuriki!!",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -22,71 +22,34 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.9439,
-            "episode_number": "57",
-            "original_air_date": 1620543600,
-            "auth_launch_date": 1620556200,
+            "duration": 1311.3768,
+            "episode_number": "42",
+            "original_air_date": 1611475200,
+            "auth_launch_date": 1620559800,
             "clip_order": null,
-            "airing_id": "RADS1005042100094738",
-            "media_id": "d3d6e7d0529c58ad0ef323ad576456bd295000cb",
-            "modified": 1620404663,
-            "slug": "reanimation-jutsu-release",
+            "airing_id": "RADS1005042100094992",
+            "media_id": "29bf5708c9c39986b93b4e3216dc45e468ec45c9",
+            "modified": 1620153808,
+            "slug": "jinchuriki-vs-jinchuriki",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/1_2157122465-NarutoShippuden_340_ReanimationJutsuRelease.png",
-            "created": 1620140220,
-            "title_id": "2177769",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/1_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg",
+            "created": 1610915206,
+            "title_id": "2177754",
             "season_number": "6",
-            "tv_rating": "tv-pg",
-            "published": 1620404663,
+            "tv_rating": "tv-pg-lv",
+            "published": 1620153808,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
-            "modified_by": "Sara Griggs",
+            "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_2157122465-NarutoShippuden_340_ReanimationJutsuRelease.png",
-            "id": "AXk34eEBDmGy9WFjRq_T",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg",
+            "id": "AXcSB1PbQJ_4Uej5kTmg",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "auth_expiration_date": 1620556140,
-            "created": 1610915206,
-            "tms_id": "EP034917240094",
-            "title_id": "2177754",
-            "season_number": "6",
-            "tv_rating": "tv-pg-lv",
-            "description": "Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan.",
-            "title_suggest": {
-                "input": [
-                    "Jinchuriki vs. Jinchuriki!!",
-                    "vs. Jinchuriki!!",
-                    "Jinchuriki!!"
-                ]
-            },
-            "published": 1620156221,
-            "title": "Jinchuriki vs. Jinchuriki!!",
-            "type": "episode",
-            "tags": [],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.3768,
-            "episode_number": "42",
-            "collection_title": "Naruto: Shippuden",
-            "original_air_date": 1611475200,
-            "auth_launch_date": 1611487800,
-            "modified_by": "ODT Listener",
-            "airing_id": "RADS1001172100064558",
-            "media_id": "29bf5708c9c39986b93b4e3216dc45e468ec45c9",
-            "modified": 1620156221,
-            "slug": "jinchuriki-vs-jinchuriki",
-            "id": "AXcSB1PabxpjZvbXYmDA",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
