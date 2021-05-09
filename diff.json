@@ -1,21 +1,18 @@
 {
-    "updated": 1620556229,
+    "updated": 1620558029,
     "added": [
         {
-            "auth_expiration_date": 1622368740,
-            "tms_id": "EP032284200152",
-            "description": "Secre recalls Prince Lumiere's plans for Clover Kingdom equality. Asta and friends check in with Lolopechka as they prepare to train with her mages.",
+            "auth_expiration_date": 1629628140,
+            "tms_id": "EP034917240109",
+            "description": "Thanks to Itachi, the Reanimation Jutsu is released, and all the Reanimated Shinobi are returned to their resting places. But to everyone's surprise, the real Madara still remains!",
             "title_suggest": {
                 "input": [
-                    "Two Things We Need to Find",
-                    "Things We Need to Find",
-                    "We Need to Find",
-                    "Need to Find",
-                    "to Find",
-                    "Find"
+                    "Reanimation Jutsu, Release!",
+                    "Jutsu, Release!",
+                    "Release!"
                 ]
             },
-            "title": "Two Things We Need to Find",
+            "title": "Reanimation Jutsu, Release!",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -24,35 +21,72 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1324.0227,
-            "episode_number": "47",
-            "original_air_date": 1620541800,
-            "auth_launch_date": 1620554400,
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.9439,
+            "episode_number": "57",
+            "original_air_date": 1620543600,
+            "auth_launch_date": 1620556200,
             "clip_order": null,
-            "airing_id": "RADS1005042100094739",
-            "media_id": "2e112ffd99a087a37ac6587f9d0eb72072e0b5a3",
-            "modified": 1620422526,
-            "slug": "two-things-we-need-to-find",
+            "airing_id": "RADS1005042100094738",
+            "media_id": "d3d6e7d0529c58ad0ef323ad576456bd295000cb",
+            "modified": 1620404663,
+            "slug": "reanimation-jutsu-release",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/1_21571218548-BlackClover_149_TwoThingsWeNeedToFind.png",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/1_2157122465-NarutoShippuden_340_ReanimationJutsuRelease.png",
             "created": 1620140220,
-            "title_id": "2238517",
-            "season_number": "3",
+            "title_id": "2177769",
+            "season_number": "6",
             "tv_rating": "tv-pg",
-            "published": 1620422526,
+            "published": 1620404663,
             "tags": [],
-            "collection_title": "Black Clover",
+            "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
+            "modified_by": "Sara Griggs",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_21571218548-BlackClover_149_TwoThingsWeNeedToFind.png",
-            "id": "AXk34eHjBH5Z6gH5aWO3",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_2157122465-NarutoShippuden_340_ReanimationJutsuRelease.png",
+            "id": "AXk34eEBDmGy9WFjRq_T",
             "auth": true,
-            "collection_slug": "black-clover",
-            "collection_title_id": "2143080",
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": 1620556140,
+            "created": 1610915206,
+            "tms_id": "EP034917240094",
+            "title_id": "2177754",
+            "season_number": "6",
+            "tv_rating": "tv-pg-lv",
+            "description": "Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan.",
+            "title_suggest": {
+                "input": [
+                    "Jinchuriki vs. Jinchuriki!!",
+                    "vs. Jinchuriki!!",
+                    "Jinchuriki!!"
+                ]
+            },
+            "published": 1620156221,
+            "title": "Jinchuriki vs. Jinchuriki!!",
+            "type": "episode",
+            "tags": [],
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.3768,
+            "episode_number": "42",
+            "collection_title": "Naruto: Shippuden",
+            "original_air_date": 1611475200,
+            "auth_launch_date": 1611487800,
+            "modified_by": "ODT Listener",
+            "airing_id": "RADS1001172100064558",
+            "media_id": "29bf5708c9c39986b93b4e3216dc45e468ec45c9",
+            "modified": 1620156221,
+            "slug": "jinchuriki-vs-jinchuriki",
+            "id": "AXcSB1PabxpjZvbXYmDA",
+            "auth": true,
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
+            "online_exclusives": false
+        }
+    ]
 }
