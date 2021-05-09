@@ -973,7 +973,7 @@
         "launch_date": 1620552600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210416/thumbnails/2_21416115412-FireForce2_045_EnemyContact_.jpg",
         "id": "AXjGY410DmGy9WFjRqvX",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1621157340,
@@ -1019,6 +1019,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210416/thumbnails/2_21416116104-FireForce2_046_PlotForExtinction_.jpg",
         "id": "AXjbN926DmGy9WFjRqy6",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1622366940,
+        "tms_id": "EP032684490049",
+        "description": "Benimaru continues to push Shinra and Arthur to their limits in order to unlock their Hysterical Strength. Captain Huang examines Konro at Hibana's request, as she tries to uncover the mysteries of those who have been touched by Adolla.",
+        "title_suggest": {
+            "input": [
+                "Signs of Upheaval",
+                "of Upheaval",
+                "Upheaval"
+            ]
+        },
+        "title": "Signs of Upheaval",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWwbkOBM4aLemgzOLF3t",
+        "duration": 1415.6475,
+        "episode_number": "24",
+        "original_air_date": 1620540000,
+        "auth_launch_date": 1620552600,
+        "clip_order": null,
+        "airing_id": "RADS1005042100094740",
+        "media_id": "aa209eeede5b9ece7bf27251fb9203ff16e285ef",
+        "modified": 1620404512,
+        "slug": "signs-of-upheaval",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/1_21571221308-FireForce_048_SignsOfUpheaval.png",
+        "created": 1620140223,
+        "title_id": "2233691",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "published": 1620404512,
+        "tags": [],
+        "collection_title": "Fire Force",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_21571221308-FireForce_048_SignsOfUpheaval.png",
+        "id": "AXk34erdBH5Z6gH5aWO5",
         "auth": true
     },
     {
