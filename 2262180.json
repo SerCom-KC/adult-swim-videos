@@ -174,7 +174,7 @@
         "launch_date": 1620619200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210416/thumbnails/2_21416119574-Birdgirl_103_Thirdgirl.jpg",
         "id": "AXjSyzzeDmGy9WFjRqwU",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1621223940,
@@ -267,6 +267,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/2_214301450549-BirdGirl_105_ToppleThePopple.png",
         "id": "AXkeotrFBH5Z6gH5aWO1",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1622433540,
+        "tms_id": "EP038016760006",
+        "description": "Judy discovers a product her father invented is leaving holes in her. And not the metaphorical kind.",
+        "title_suggest": {
+            "input": [
+                "Baltimo"
+            ]
+        },
+        "title": "Baltimo",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXhbHjJvDmGy9WFjRqo0",
+        "duration": 1352.5845,
+        "episode_number": "6",
+        "original_air_date": 1620619200,
+        "auth_launch_date": 1620619200,
+        "clip_order": null,
+        "airing_id": "RADS1005062100095748",
+        "media_id": "9d53a0b7f51bc40fcc38968c175ef9c8f55f3bdf",
+        "modified": 1620404723,
+        "slug": "baltimo",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/1_21571224512-Birdgirl_106_Baltimo.png",
+        "created": 1620311209,
+        "title_id": "2262186",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "published": 1620404723,
+        "tags": [],
+        "collection_title": "Birdgirl",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_21571224512-Birdgirl_106_Baltimo.png",
+        "id": "AXlCEvcXBH5Z6gH5aWO6",
         "auth": true
     }
 ]
