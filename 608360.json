@@ -866,7 +866,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1528122600,
         "auth_expiration_date": 1620619140,
         "tms_id": "EP007259620187",
@@ -1309,7 +1309,7 @@
         "launch_date": 1604898000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg",
         "id": "AXMQJj1aC8QgH-t19J1X",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1621223940,
@@ -1362,7 +1362,7 @@
         "auth": true
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361580,
         "auth_expiration_date": 1620619140,
         "tms_id": "EP007259620121",
@@ -1520,7 +1520,7 @@
         "cma_id": "1186083"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1459778400,
         "auth_expiration_date": 1620619140,
         "tms_id": "EP007259620166",
