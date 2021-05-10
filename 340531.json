@@ -58,6 +58,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451683320,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625740008",
+        "rating": 7.9032245,
+        "description": "Zorak introduces his new friend Mobab, who immediately starts hitting on Mom, offering to take her on a trip. Because Mom wants to make Dad jealous, she agrees. Instead, Mobab kidnaps her and traps her in a cocoon. Dad and Brak must come up with a plan to free her.",
+        "title_suggest": {
+            "input": [
+                "Mobab"
+            ]
+        },
+        "type": "episode",
+        "title": "Mobab",
+        "expiration_date": 2085368400,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
+        "duration": 681.4337671,
+        "episode_number": "6",
+        "original_air_date": 1003719600,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1620657637,
+        "airing_id": "RADS1006071900097656",
+        "media_id": "2538bf039bc1e09b76bad54a7afda8fa378eb103",
+        "id": "8LCtE-rFRpiHB20HYp5jYA",
+        "slug": "mobab",
+        "views": 109635,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_2032142518-brak_2106.jpg",
+        "created": 1402945478,
+        "title_id": "345422",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1620657637,
+        "tags": [
+            "brak show episode 6 mobab friend mom kidnap"
+        ],
+        "rating_count": 310,
+        "collection_title": "The Brak Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1560052800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142518-brak_2106.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451659020,
         "auth_expiration_date": null,
         "tms_id": "EP004625740009",
@@ -248,7 +301,7 @@
         "original_air_date": 1000089000,
         "clip_order": null,
         "auth_launch_date": null,
-        "modified": 1614033666,
+        "modified": 1620657644,
         "media_id": "abcb786cf2b6eaf90f85b4050ce7c95435740e89",
         "airing_id": "RADS1006071900097653",
         "id": "OaH4d_c8QXCUPGUol6Tjgw",
@@ -263,7 +316,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1614033666,
+        "published": 1620657644,
         "tags": [
             "brak show episode 2 war next door robot throat voice music carmine"
         ],
@@ -463,7 +516,7 @@
         "original_air_date": 999484200,
         "clip_order": null,
         "auth_launch_date": null,
-        "modified": 1614033661,
+        "modified": 1620657642,
         "media_id": "55842c06853fb7ca52c1924d294fe4984be6a1b2",
         "airing_id": "RADS1006071900097651",
         "id": "VDWhpXruRNmGw5r1vUq6Pg",
@@ -478,7 +531,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1614033661,
+        "published": 1620657642,
         "tags": [
             "brak show episode 1 goldfish premiere babysit thundercleese lake toilet death tickles"
         ],
@@ -788,7 +841,7 @@
         "original_air_date": 1000089900,
         "clip_order": null,
         "auth_launch_date": null,
-        "modified": 1614033649,
+        "modified": 1620657635,
         "airing_id": "RADS1006071900097655",
         "media_id": "1d4d7246048204519b253b4a20f0dbe65ec1656c",
         "id": "bahqm2mSReq8LAFXUmO_IQ",
@@ -803,7 +856,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1614033649,
+        "published": 1620657635,
         "tags": [
             "brak show episode 4 hipps toy doll"
         ],
@@ -842,7 +895,7 @@
         "original_air_date": 1004932800,
         "clip_order": null,
         "auth_launch_date": null,
-        "modified": 1619160616,
+        "modified": 1620657643,
         "airing_id": "RADS1004222100091394",
         "media_id": "019c04878056bf589cd328aa21c6806cd12f5710",
         "id": "bf6ZSp8cT6-qJ_1bC9p9kA",
@@ -857,7 +910,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1619160616,
+        "published": 1620657643,
         "tags": [
             "brak show episode 7 expiration day thundercleese deactivated birthday meteor"
         ],
@@ -896,7 +949,7 @@
         "original_air_date": 977389200,
         "clip_order": null,
         "auth_launch_date": null,
-        "modified": 1619138432,
+        "modified": 1620657638,
         "media_id": "b9b83c6518ce6bab2490b2aaac6ef1c380fc22a2",
         "airing_id": "RADS1004012100086738",
         "id": "g6ETTWagTuSqGpOnN-WRLA",
@@ -910,7 +963,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1619138432,
+        "published": 1620657638,
         "first_published": 1413400256,
         "tags": [],
         "collection_title": "The Brak Show",
@@ -1058,7 +1111,7 @@
         "original_air_date": 999485100,
         "clip_order": null,
         "auth_launch_date": null,
-        "modified": 1614033663,
+        "modified": 1620657623,
         "airing_id": "RADS1006071900097652",
         "media_id": "94c154316a7573b4def8112d47737eb4a2b4a8fa",
         "id": "j8-EuTPFRLiARLU3dvrJ_w",
@@ -1073,7 +1126,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1614033663,
+        "published": 1620657623,
         "tags": [
             "brak show episode 3 time machine fish pockets video games shed homework"
         ],
@@ -1490,7 +1543,7 @@
         "original_air_date": 1002510000,
         "clip_order": null,
         "auth_launch_date": null,
-        "modified": 1618862722,
+        "modified": 1620657641,
         "airing_id": "RADS1004092100088224",
         "media_id": "535558d9e787cff01e18f0643c9cfd9951af224c",
         "id": "xCfP56aJQ0Gn_QT2kqI7wA",
@@ -1505,7 +1558,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1618862722,
+        "published": 1620657641,
         "tags": [
             "brak show episode 5 bawk ba gawk bird chicken mascot steal school"
         ],
