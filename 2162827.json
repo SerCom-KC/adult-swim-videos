@@ -150,7 +150,7 @@
         "launch_date": 1617595200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117941352-tigtone_101_dup-20181102.jpg",
         "id": "AWgQYEklAScUIg8XxbiD",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1547479800,
@@ -303,6 +303,58 @@
         "launch_date": 1620014400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843439050312.jpg",
         "id": "AWgQZAcWzQU7gEG1jvbI",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1548689340,
+        "auth_expiration_date": 1613969940,
+        "tms_id": "",
+        "description": "Tigtone suffers through the worst kind of quest: an escort quest.",
+        "title_suggest": {
+            "input": [
+                "Tigtone and the Freaks of Love",
+                "and the Freaks of Love",
+                "the Freaks of Love",
+                "Freaks of Love",
+                "of Love",
+                "Love"
+            ]
+        },
+        "title": "Tigtone and the Freaks of Love",
+        "expiration_date": 1623643140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 677.46,
+        "episode_number": "6",
+        "original_air_date": 1548652500,
+        "auth_launch_date": 1610946000,
+        "clip_order": null,
+        "media_id": "de97c4e0c6531b0ce8d50c97e545ff5db289d416",
+        "modified": 1620324273,
+        "airing_id": "RADS1005062100095735",
+        "slug": "tigtone-and-the-freaks-of-love",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154843445502714.jpg",
+        "created": 1546463262,
+        "season_number": "1",
+        "title_id": "2171690",
+        "tv_rating": "tv-14-dsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1620324273,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "modified_by": "ODT Listener",
+        "launch_date": 1620619200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843445502714.jpg",
+        "id": "AWgQZLd4zQU7gEG1jvbJ",
         "auth": false
     },
     {
@@ -632,54 +684,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117949131-Tigtone_tabletalk.png",
         "id": "AXR0iVraSeFB2d0c381v",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1620619140,
-        "tms_id": "",
-        "description": "A haunted castle forces Tigtone and Helpy to be trapped in it and beautiful.",
-        "title_suggest": {
-            "input": [
-                "Tigtone and the Princess Castle",
-                "and the Princess Castle",
-                "the Princess Castle",
-                "Princess Castle",
-                "Castle"
-            ]
-        },
-        "title": "Tigtone and the Princess Castle",
-        "expiration_date": 1617595140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 656.6894,
-        "episode_number": "7",
-        "original_air_date": "1601870400",
-        "auth_launch_date": 1617595200,
-        "clip_order": null,
-        "airing_id": "RADS1003312100086332",
-        "media_id": "9eeb8615dc302552c318de1953a0deab7f5d1c5a",
-        "modified": 1619149831,
-        "slug": "tigtone-and-the-princess-castle",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211794735-Tigtone_204_dup-20200717.jpg",
-        "created": 1598964877,
-        "season_number": "2",
-        "title_id": "2222957",
-        "tv_rating": "tv-14-lv",
-        "published": 1619149831,
-        "tags": [],
-        "collection_title": "Tigtone",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1614574800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211794735-Tigtone_204_dup-20200717.jpg",
-        "id": "AXRJu8nuSeFB2d0c38ty",
-        "auth": true
     },
     {
         "auth_expiration_date": 1621223940,
