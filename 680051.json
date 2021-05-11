@@ -59,7 +59,7 @@
         "cma_id": "1381560"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1444573980,
         "auth_expiration_date": 1623729540,
         "tms_id": "EP011016070011",
@@ -359,6 +359,63 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1444574340,
+        "auth_expiration_date": 1519804799,
+        "tms_id": "EP011016070016",
+        "rating": 7.872147,
+        "description": "\"Jon\" gets some shocking news that changes his life.",
+        "title_suggest": {
+            "input": [
+                "Tap"
+            ]
+        },
+        "type": "episode",
+        "title": "Tap",
+        "expiration_date": 1623729540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
+        "duration": 1320.1001001,
+        "episode_number": "9",
+        "original_air_date": 1287115200,
+        "clip_order": null,
+        "auth_launch_date": 1516780800,
+        "modified": 1620663661,
+        "media_id": "024650cb9d7fb7e480b2e017a9becac2cf5ca297",
+        "airing_id": "RADS1005062100095731",
+        "id": "fypx8iLsSe6YesDOzRwr7Q",
+        "slug": "tap",
+        "views": 209812,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331443215-delocated_209.jpg",
+        "created": 1402945463,
+        "title_id": "811367",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1620663661,
+        "tags": [
+            "Delocated",
+            "Jon Glaser",
+            "Ski Mask",
+            "Witness Protection Program",
+            "Tap"
+        ],
+        "rating_count": 438,
+        "collection_title": "Delocated",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620705600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331443215-delocated_209.jpg",
+        "cma_id": "1414985"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1444573980,
         "auth_expiration_date": 1519199999,
         "tms_id": "EP011016070015",
@@ -417,60 +474,6 @@
         "launch_date": 1620100800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331442316-delocated_208.jpg",
         "cma_id": "1411098"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446581160,
-        "auth_expiration_date": 1620705540,
-        "tms_id": "EP011016070006",
-        "rating": 7.32047,
-        "description": "\"Jon\" joins a country club. A TV movie is made about \"Susan's\" life.",
-        "title_suggest": {
-            "input": [
-                "Members Only",
-                "Only"
-            ]
-        },
-        "type": "episode",
-        "title": "Members Only",
-        "expiration_date": 1617681540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
-        "duration": 683.5005005,
-        "episode_number": "5",
-        "original_air_date": 1237781700,
-        "clip_order": null,
-        "auth_launch_date": 1617681600,
-        "modified": 1620663045,
-        "media_id": "c69e4e8535c34035a934526839e6f2fa0a2a894b",
-        "airing_id": "RADS1003312100086353",
-        "id": "k_psr-U2Q8-683v0C0QiHw",
-        "slug": "members-only",
-        "views": 120068,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331434194-delocated_105.jpg",
-        "created": 1402945463,
-        "title_id": "751596",
-        "tv_rating": "tv-14-l",
-        "season_number": "1",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1620663045,
-        "tags": [
-            "delocated episode 5 members only susan movie golf tournament racism black caddy"
-        ],
-        "rating_count": 596,
-        "collection_title": "Delocated",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1614661200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331434194-delocated_105.jpg",
-        "cma_id": "751596"
     },
     {
         "auth": true,
