@@ -1310,6 +1310,55 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "It's the combo you didn't know you wanted. The Bleepin' Robot Chicken Archie Comics Special premieres May 23 at midnight on Adult Swim.",
+        "title_suggest": {
+            "input": [
+                "The Robot Chicken Archie Special Trailer",
+                "Robot Chicken Archie Special Trailer",
+                "Chicken Archie Special Trailer",
+                "Archie Special Trailer",
+                "Special Trailer",
+                "Trailer"
+            ]
+        },
+        "title": "The Robot Chicken Archie Special Trailer",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 30.03,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me0914183b0b4438ba58b25206e98ca4bb31738fc4",
+        "modified": 1620679936,
+        "slug": "the-robot-chicken-archie-special-trailer",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210510/thumbnails/1_215101419199-AS_PROMO_RC_ARCHIE_DATED_forWB.png",
+        "created": 1620670812,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1620679936,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1620698447,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210510/thumbnails/2_215101419199-AS_PROMO_RC_ARCHIE_DATED_forWB.png",
+        "id": "AXlXghKgDmGy9WFjRrFE",
+        "auth": false
+    },
+    {
         "auth": true,
         "ott_launch_date": 1460988000,
         "auth_expiration_date": 1621828740,
