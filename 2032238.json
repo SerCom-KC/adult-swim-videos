@@ -54,6 +54,54 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1581915540,
+        "tms_id": "EP020020000041",
+        "description": "Yung goes on Spring Break and the team sort of tags along.",
+        "title_suggest": {
+            "input": [
+                "Spring Break",
+                "Break"
+            ]
+        },
+        "title": "Spring Break",
+        "type": "episode",
+        "expiration_date": 1623815940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 676,
+        "episode_number": "11",
+        "original_air_date": 1520224200,
+        "clip_order": null,
+        "auth_launch_date": 1578891600,
+        "modified": 1620384366,
+        "media_id": "53493393654b9eec56a93c187642941c4771e66d",
+        "airing_id": "RADS1005062100095786",
+        "id": "-BEvnF5hTPWcL-Le8_o9rg",
+        "slug": "spring-break",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111534390-miketysonmysteries_317_dup-20170811.jpg",
+        "created": 1501791330,
+        "season_number": "3",
+        "title_id": "2117700",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1620384366,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620792000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111534390-miketysonmysteries_317_dup-20170811.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
         "auth_expiration_date": 1563335940,
         "tms_id": "EP020020000040",
         "description": "Has a woman's late husband been reincarnated as her sweet little dog?",
@@ -154,56 +202,6 @@
         "cma_id": "1477183"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1620791940,
-        "tms_id": "EP020020000025",
-        "description": "A wealthy family is unsure about the man their youngest daughter is set to marry.",
-        "title_suggest": {
-            "input": [
-                "Unholy Matrimony",
-                "Matrimony"
-            ]
-        },
-        "expiration_date": 1614747540,
-        "title": "Unholy Matrimony",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 679.2919099,
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "episode_number": "15",
-        "original_air_date": 1463370300,
-        "clip_order": null,
-        "auth_launch_date": 1614747600,
-        "modified": 1614400936,
-        "media_id": "c5df2cbc0e3f959973473bf88bef9bf93e193b90",
-        "airing_id": "RADS1001222100065619",
-        "id": "9022SeNUQJ6rRpGnUGlDbw",
-        "slug": "unholy-matrimony",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111528349-miketysonmysteries_021.jpg",
-        "created": 1445444057,
-        "season_number": "2",
-        "title_id": "2069745",
-        "tv_rating": "tv-14-dls",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1614400936,
-        "first_published": 1463080219,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1611723600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111528349-miketysonmysteries_021.jpg",
-        "cma_id": "1472691"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -301,7 +299,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1626839940,
         "tms_id": "EP020020000035",

@@ -554,6 +554,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1621396740,
+        "tms_id": "EP012792980077",
+        "description": "When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the job so she enlists the help of Gene and Louise. Back at the restaurant, Linda begins to decorate the walls with customer artwork on napkins.",
+        "title_suggest": {
+            "input": [
+                "Midday Run",
+                "Run"
+            ]
+        },
+        "title": "Midday Run",
+        "type": "episode",
+        "expiration_date": 1612155540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1288.3670337,
+        "episode_number": "8",
+        "original_air_date": 1444698000,
+        "clip_order": null,
+        "auth_launch_date": 1620792000,
+        "modified": 1620689519,
+        "media_id": "0a052de313d208d17b6bb470df4195c3df4cd3a8",
+        "airing_id": "RADS1005062100095774",
+        "id": "cciQCvIBR2eWcB2fCfDcOA",
+        "slug": "midday-run",
+        "views": 2,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1444710020,
+        "title_id": "2065456",
+        "tv_rating": "tv-pg",
+        "season_number": "5",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1620689519,
+        "first_published": 1444710020,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1611550800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg",
+        "cma_id": "1480197"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1621310340,
         "tms_id": "EP012792980076",
         "description": "Tina goes undercover to find the mole who is giving away their cookie secrets. Tired of the kids counting her gray hairs, Linda goes blonde. When she starts making dumb mistakes at work, Bob worries being blonde has gone to her head!",
@@ -601,55 +650,5 @@
         "launch_date": 1611550800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg",
         "cma_id": "1471316"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1620791940,
-        "tms_id": "EP012792980069",
-        "description": "Tina decides to try out for the cheerleading squad, but it's actually Gene who gets noticed in the crowd for his spirit and cheering ability. Meanwhile, during her cheer audition, Tina falls and bites her tongue, leaving her unable to speak - and a mischievous Louise steps up to be her translator.",
-        "title_suggest": {
-            "input": [
-                "Gene It On",
-                "It On",
-                "On"
-            ]
-        },
-        "title": "Gene It On",
-        "type": "episode",
-        "expiration_date": 1610341140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.0898,
-        "episode_number": "20",
-        "original_air_date": 1421636400,
-        "clip_order": null,
-        "auth_launch_date": 1620187200,
-        "modified": 1620682889,
-        "media_id": "934a5df202b2d9c777f98a3dd91cf0f6256a9c28",
-        "airing_id": "RADS1004292100093146",
-        "id": "wWlw54Z8TwmdAibq5WkgmQ",
-        "slug": "gene-it-on",
-        "views": 10477,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803250778217.jpg",
-        "created": 1411571447,
-        "season_number": "4",
-        "title_id": "2030321",
-        "tv_rating": "",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1620682889,
-        "first_published": 1411571447,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1609736400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg",
-        "cma_id": "1468048"
     }
 ]

@@ -53,6 +53,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447439340,
+        "auth_expiration_date": null,
+        "tms_id": "EP004625760036",
+        "rating": 9.487115,
+        "description": "The long-awaited writing debut of mcheshpants420 hits the screen in this madcap, bawdy, fun-filled, poignant, hilarious, campy, educational and sexy romp through the bowels of Sealab.",
+        "title_suggest": {
+            "input": [
+                "Dearly Beloved Seed",
+                "Beloved Seed",
+                "Seed"
+            ]
+        },
+        "type": "episode",
+        "title": "Dearly Beloved Seed",
+        "expiration_date": 1623815940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 645.3670337,
+        "episode_number": "10",
+        "original_air_date": 1088999100,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1620659435,
+        "airing_id": "RADS1005062100095792",
+        "media_id": "c8cdac59311d540736d3aba8ba0b7e324f164400",
+        "id": "7EwAvVqoRqm6jP7sm2uHsQ",
+        "slug": "dearly-beloved-seed",
+        "views": 198050,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_2041698561-sealab_036.jpg",
+        "created": 1402945476,
+        "title_id": "544397",
+        "season_number": "3",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1620659435,
+        "tags": [],
+        "rating_count": 1979,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620792000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041698561-sealab_036.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447439280,
         "auth_expiration_date": null,
         "tms_id": "EP004625760033",
@@ -153,7 +205,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447439220,
         "auth_expiration_date": 1623815940,
         "tms_id": "EP004625760056",
@@ -355,63 +407,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1616558400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151531316-sealab_028.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447438980,
-        "auth_expiration_date": 1620791940,
-        "tms_id": "EP004625760029",
-        "rating": 8.2048,
-        "description": "Join Prescott, the many-tentacled network executive, as he goes behind-the-scenes of Sealab. Will the show be canceled? Burned to the ground? Will there be a spin-off? And hey: what's up with that weird smell coming from Estrada's trailer?",
-        "title_suggest": {
-            "input": [
-                "Return to Oblivion",
-                "to Oblivion",
-                "Oblivion"
-            ]
-        },
-        "type": "episode",
-        "title": "Return to Oblivion",
-        "expiration_date": 1617767940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 689.8675342,
-        "episode_number": "13",
-        "original_air_date": 1069042500,
-        "clip_order": null,
-        "auth_launch_date": 1617768000,
-        "modified": 1620688247,
-        "media_id": "15782fe5ec5f6dbbb277885bd339cda975841aed",
-        "airing_id": "RADS1004012100086714",
-        "id": "cY0Qb6vrT66CUeLnOumLPQ",
-        "slug": "return-to-oblivion",
-        "views": 212886,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151530355-sealab_026.jpg",
-        "created": 1402945476,
-        "title_id": "448026",
-        "season_number": "2",
-        "tv_rating": "tv-14-dls",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1620688247,
-        "tags": [
-            "Sealab 2021",
-            "Episode 26",
-            "Return to Oblivion"
-        ],
-        "rating_count": 625,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1614747600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151530355-sealab_026.jpg",
         "cma_id": ""
     },
     {
