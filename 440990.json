@@ -98,55 +98,6 @@
         "cma_id": "1412094"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1620791940,
-        "tms_id": "EP002960010238",
-        "description": "Fed up with Peter's old, tattered, shirt, Lois takes him to the mall to buy a new outfit for church. When Peter struggles with the top button, they notice a large lump on his neck. Alarmed, they rush to the hospital where Dr. Hartman guesses that it's an incomplete vestigial twin.",
-        "title_suggest": {
-            "input": [
-                "Vestigial Peter",
-                "Peter"
-            ]
-        },
-        "title": "Vestigial Peter",
-        "type": "episode",
-        "expiration_date": 1597636740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1289.7885,
-        "episode_number": "2",
-        "original_air_date": 1381806000,
-        "clip_order": null,
-        "auth_launch_date": 1620187200,
-        "modified": 1620719453,
-        "media_id": "fff0987f26f6d708d46b31df9226b22a29f17190",
-        "airing_id": "RADS1004292100093149",
-        "id": "CeGPItv2RF-u35Doc_gG9Q",
-        "slug": "vestigial-peter",
-        "views": 3073,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277525143211.jpg",
-        "created": 1411574880,
-        "season_number": "12",
-        "title_id": "809266",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1620719453,
-        "first_published": 1411574880,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1597032000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277525143211.jpg",
-        "cma_id": "1409880"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1619409540,
@@ -587,6 +538,55 @@
         "launch_date": 1597032000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227752778257.jpg",
         "cma_id": "809267"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1621396740,
+        "tms_id": "EP002960010249",
+        "description": "After some questionable food choices, Peter accidentally soils himself at work. Ashamed, he heads home and finds all of his family and friends have gathered there. He thinks they're going to make fun of him, but they're actually there to deliver some sad news-his mother, Thelma, has passed away.",
+        "title_suggest": {
+            "input": [
+                "Mom's the Word",
+                "the Word",
+                "Word"
+            ]
+        },
+        "title": "Mom's the Word",
+        "type": "episode",
+        "expiration_date": 1599451140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1287.5863,
+        "episode_number": "12",
+        "original_air_date": 1395108000,
+        "clip_order": null,
+        "auth_launch_date": 1620792000,
+        "modified": 1620663671,
+        "media_id": "37cdc35ce75c36c04bfbcfc2b1b60f4c3bbee55b",
+        "airing_id": "RADS1005062100095782",
+        "id": "sp9J90j1Rg260ERrJySVLQ",
+        "slug": "moms-the-word",
+        "views": 1369,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15238980514943.jpg",
+        "created": 1411575191,
+        "season_number": "12",
+        "title_id": "809276",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1620663671,
+        "first_published": 1411575191,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1598846400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238980514943.jpg",
+        "cma_id": "1266363"
     },
     {
         "auth": false,
