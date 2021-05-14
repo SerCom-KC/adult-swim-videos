@@ -710,7 +710,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1620964740,
         "tms_id": "EP019059960072",
         "description": "When everything falls apart, Eren must believe in himself to save his friends. But, Eren alone may not be enough to stop the impending doom.",
@@ -3316,7 +3316,7 @@
         "cma_id": "1414817"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1620964740,
         "tms_id": "EP019059960038",
