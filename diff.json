@@ -1,7 +1,6 @@
 {
-    "updated": 1620950543,
-    "added": [],
-    "removed": [
+    "updated": 1620960021,
+    "added": [
         {
             "auth_expiration_date": 1621223940,
             "tms_id": "EP032284200130",
@@ -31,7 +30,7 @@
             "clip_order": null,
             "airing_id": "RADS1003032100078705",
             "media_id": "538eebc92c58a077c0592e4ebb879da62024e452",
-            "modified": 1614816521,
+            "modified": 1620959941,
             "slug": "to-the-heart-kingdom",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200806/thumbnails/1_20861626259-BlackClover_128.jpg",
@@ -39,7 +38,7 @@
             "title_id": "2230142",
             "season_number": "3",
             "tv_rating": "tv-pg",
-            "published": 1614816521,
+            "published": 1620959941,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -52,5 +51,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
