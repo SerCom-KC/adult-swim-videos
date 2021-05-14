@@ -1,6 +1,54 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1511796660,
+        "auth_expiration_date": 1615525140,
+        "tms_id": "EP027912080006",
+        "description": "Barry reluctantly attends his high school reunion.",
+        "title_suggest": {
+            "input": [
+                "Barry's School Reunion",
+                "School Reunion",
+                "Reunion"
+            ]
+        },
+        "title": "Barry's School Reunion",
+        "type": "episode",
+        "expiration_date": 1623988740,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 676,
+        "episode_number": "6",
+        "original_air_date": 1511759700,
+        "clip_order": null,
+        "auth_launch_date": 1612501200,
+        "modified": 1620598939,
+        "media_id": "ff77c07f975a79b08e438fa298d7122a99156126",
+        "airing_id": "RADS1005092100096372",
+        "id": "19hJoKx2RkaPrA0O1rxDug",
+        "slug": "barrys-school-reunion",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151180498988714.jpg",
+        "created": 1508442470,
+        "season_number": "1",
+        "title_id": "2132031",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1620598939,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620964800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151180498988714.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1509373914,
         "auth_expiration_date": 1613105940,
         "tms_id": "EP027912080003",
@@ -854,7 +902,7 @@
         "cma_id": "2132026"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1508769060,
         "auth_expiration_date": 1623988740,
         "tms_id": "EP027912080002",
