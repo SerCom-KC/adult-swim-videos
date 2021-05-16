@@ -4070,7 +4070,7 @@
         "launch_date": 1619949600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210226/thumbnails/2_21226954596-BlackClover_145_Rescue.jpg",
         "id": "AXfe1fxubxpjZvbXYmYd",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1637989140,
@@ -4260,7 +4260,7 @@
         "launch_date": 1621159200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_21331112262-BlackClover_147_PreparedToDie.jpg",
         "id": "AXiI4K5yDmGy9WFjRqqJ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1622368740,
@@ -4360,6 +4360,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/2_214301447462-BlackClover_148_BecomingTheLightThatShinesThroughTheDarkness.png",
         "id": "AXkOgTmCDmGy9WFjRq6H",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1622973540,
+        "tms_id": "EP032284200153",
+        "description": "Grey asks her Black Bull squadmates for help overcoming her shyness. The Blue Rose Knights train for the Spade Kingdom fight. Julius gets an idea.",
+        "title_suggest": {
+            "input": [
+                "The Maidens' Challenge",
+                "Maidens' Challenge",
+                "Challenge"
+            ]
+        },
+        "title": "The Maidens' Challenge",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1324.1895,
+        "episode_number": "48",
+        "original_air_date": 1621146600,
+        "auth_launch_date": 1621159200,
+        "clip_order": null,
+        "airing_id": "RADS1005132100097768",
+        "media_id": "e92a88080187b9ab67e1fce57e9ac8b9839c052e",
+        "modified": 1621021614,
+        "slug": "the-maidens-challenge",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210513/thumbnails/1_21513161864-BlackClover_150_TheMaidensChallenge.png",
+        "created": 1620935244,
+        "title_id": "2238518",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "published": 1621021614,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210513/thumbnails/2_21513161864-BlackClover_150_TheMaidensChallenge.png",
+        "id": "AXlnRPunBH5Z6gH5aWPB",
         "auth": true
     }
 ]
