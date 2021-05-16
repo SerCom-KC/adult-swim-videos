@@ -690,6 +690,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447787280,
+        "auth_expiration_date": 1624507140,
         "tms_id": "EP013726210015",
         "description": "Cerberus is tired of guarding the gate to Hell, so he drags Gary out to Earth.",
         "title_suggest": {
@@ -710,8 +711,9 @@
         "episode_number": "7",
         "original_air_date": 1440994500,
         "clip_order": null,
-        "modified": 1620683499,
-        "airing_id": "RADS1004092100088238",
+        "auth_launch_date": 1621483200,
+        "modified": 1621129816,
+        "airing_id": "RADS1005162100099143",
         "media_id": "5e7a036daed5f77747f46aa3ae8d6f2ac28bae09",
         "id": "YT_QV3-7QJyrNOyH6Ys5qA",
         "slug": "cerberus",
@@ -722,7 +724,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1620683499,
+        "published": 1621129816,
         "first_published": 1440858021,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
