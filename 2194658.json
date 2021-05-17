@@ -228,7 +228,7 @@
         "launch_date": 1620014400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15569042771246.jpg",
         "id": "AWpv2sypHl5gR6828zXv",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -279,6 +279,53 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1618804740,
+        "tms_id": "EP031416130006",
+        "description": "Discussions for the escape plan continue, and Emma introduces Ray and Norman to someone. Meanwhile, Don and Gilda take a dangerous risk.",
+        "title_suggest": {
+            "input": [
+                "311045"
+            ]
+        },
+        "title": "311045",
+        "type": "episode",
+        "expiration_date": 1622433540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1292.4,
+        "episode_number": "6",
+        "original_air_date": 1558238400,
+        "auth_launch_date": 1617595200,
+        "clip_order": null,
+        "airing_id": "RADS1005132100097897",
+        "media_id": "99eb72f0c69cd0323c7b567177591dc1f273bb27",
+        "modified": 1620962367,
+        "slug": "311045",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15581125011405.jpg",
+        "created": 1557749885,
+        "title_id": "2194664",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1620962367,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1621224000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15581125011405.jpg",
+        "id": "AWqxIOnv4aLemgzOLEfE",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1621828740,
         "tms_id": "EP031416130011",
         "description": "Ray and Emma haven't spoken to each other for nearly two months. With Ray's shipment approaching, have they really given up? In the midst of despair, Emma finds Ray in the library.",
@@ -322,53 +369,6 @@
         "launch_date": 1617595200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156112696416613.jpg",
         "id": "AWt6a1ItCorLtcgflrW8",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1621223940,
-        "tms_id": "EP031416130010",
-        "description": "Emma loses yet another ally and friend, and in the brink of despair, Mom pays her a visit in the infirmary.",
-        "title_suggest": {
-            "input": [
-                "130146"
-            ]
-        },
-        "title": "130146",
-        "type": "episode",
-        "expiration_date": 1563694140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1286,
-        "episode_number": "10",
-        "original_air_date": 1560657600,
-        "auth_launch_date": 1617595200,
-        "clip_order": null,
-        "airing_id": "RADS1003312100086329",
-        "media_id": "f88ed178a1f1951b91b3db5bc9983013a2c791f9",
-        "modified": 1617246554,
-        "slug": "130146",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156054129964217.jpg",
-        "created": 1560173166,
-        "title_id": "2194668",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1617246554,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1562484600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156054129964217.jpg",
-        "id": "AWtBkUEACorLtcgflrGW",
         "auth": true
     },
     {

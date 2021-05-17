@@ -702,6 +702,56 @@
     {
         "ott_launch_date": 1555943400,
         "auth_expiration_date": 1617249540,
+        "tms_id": "EP031867090006",
+        "description": "Where you from?",
+        "title_suggest": {
+            "input": [
+                "Where You From?",
+                "You From?",
+                "From?"
+            ]
+        },
+        "title": "Where You From?",
+        "type": "episode",
+        "expiration_date": 1624247940,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 681.17,
+        "episode_number": "6",
+        "original_air_date": 1555906500,
+        "auth_launch_date": 1614661200,
+        "clip_order": null,
+        "airing_id": "RADS1005132100097919",
+        "media_id": "a67c38a351bf49021f8b64e4e5118a247a1f3a4f",
+        "modified": 1620962965,
+        "slug": "where-you-from",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155561093584715.jpg",
+        "created": 1555598644,
+        "title_id": "2178194",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1620962965,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1621224000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155561093584715.jpg",
+        "id": "AWow55ZdAScUIg8Xxe9I",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1555943400,
+        "auth_expiration_date": 1617249540,
         "tms_id": "EP031867090005",
         "description": "We good!",
         "title_suggest": {
@@ -886,51 +936,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1621223940,
-        "tms_id": "",
-        "description": "We Good?",
-        "title_suggest": {
-            "input": [
-                "We Good?",
-                "Good?"
-            ]
-        },
-        "title": "We Good?",
-        "expiration_date": 1618199940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 674.2402,
-        "episode_number": "5",
-        "original_air_date": "1608526800",
-        "auth_launch_date": 1618200000,
-        "clip_order": null,
-        "airing_id": "RADS1004072100087882",
-        "media_id": "e13d911d014f84eb5dd801beec31b1a91c442c11",
-        "modified": 1620654037,
-        "slug": "we-good",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241040363-LazorWulf_205_dup-20201001_WeGood.jpg",
-        "created": 1606232454,
-        "season_number": "2",
-        "title_id": "2224736",
-        "tv_rating": "tv-14-dl",
-        "published": 1620654037,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1615179600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241040363-LazorWulf_205_dup-20201001_WeGood.jpg",
-        "id": "AXX66jaWbxpjZvbXYlcy",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1621828740,
         "tms_id": "",
         "description": "Where You Stay?",
@@ -1020,6 +1025,6 @@
         "launch_date": 1618200000,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_201124104303-LazorWulf_210_dup-20201021_IsItTho.jpg",
         "id": "AXX67Ci9LyLQBOXK_Prl",
-        "auth": false
+        "auth": true
     }
 ]
