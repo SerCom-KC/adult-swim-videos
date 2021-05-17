@@ -101,7 +101,7 @@
     },
     {
         "ott_launch_date": 1540218540,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1624247940,
         "tms_id": "",
         "description": "Patient 21 is afraid to fall asleep. After a parasomnia episode injures the new intern Bea, Dr Roberts drops in to the patient's dream to guide him through the wake of his fears.",
@@ -342,6 +342,55 @@
         "modified_by": "ODT Listener",
         "launch_date": 1620619200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037190-dreamcorpllc_205_air_cid-3NJC8.jpg"
+    },
+    {
+        "ott_launch_date": 1541431740,
+        "auth": false,
+        "auth_expiration_date": 1608785999,
+        "tms_id": "",
+        "description": "Roberts' old roommate, Bill Ruff, pays a visit to Dream Corp LLC under the guise of selling bad office artwork. Everyone in the staff is charmed except for 88 who makes it his mission to expose Bill's real intentions.",
+        "title_suggest": {
+            "input": [
+                "Wild Bill",
+                "Bill"
+            ]
+        },
+        "expiration_date": 1624247940,
+        "type": "episode",
+        "title": "Wild Bill",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 722.8,
+        "episode_number": "6",
+        "original_air_date": 1541394900,
+        "auth_launch_date": 1606366800,
+        "clip_order": null,
+        "media_id": "fce5d29975e084228ae88991d9e54a831495035e",
+        "modified": 1620963898,
+        "airing_id": "RADS1005132100097918",
+        "id": "AWLVTk9gTdxzjxdCldXh",
+        "slug": "wild-bill",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg",
+        "created": 1523997101,
+        "season_number": "2",
+        "title_id": "2133690",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1620963898,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1621224000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg"
     },
     {
         "ott_launch_date": null,
@@ -1032,52 +1081,6 @@
         "launch_date": 1617595200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171521298-DreamCorpLLC_308.jpg",
         "id": "AXSdg9cCSeFB2d0c388U",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1621223940,
-        "tms_id": "",
-        "description": "Patient 27 is treated for his crippling fear of heights. T.E.R.R.Y. becomes enlightened.",
-        "title_suggest": {
-            "input": [
-                "Fear of Heights",
-                "of Heights",
-                "Heights"
-            ]
-        },
-        "title": "Fear of Heights",
-        "expiration_date": 1618199940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 1067.8001,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1618200000,
-        "clip_order": null,
-        "airing_id": "RADS1004072100087856",
-        "media_id": "cdae8877c0c4b8f6ed08979a1b7b92d39ea04008",
-        "modified": 1617835557,
-        "slug": "fear-of-heights",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/1_20917152073-DreamCorpLLC_304.jpg",
-        "created": 1600370413,
-        "season_number": "3",
-        "title_id": "2215442",
-        "tv_rating": "tv-14-dlv",
-        "published": 1617835557,
-        "tags": [],
-        "collection_title": "DREAM CORP LLC",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1615179600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_20917152073-DreamCorpLLC_304.jpg",
-        "id": "AXSdgpCGSeFB2d0c388R",
         "auth": true
     },
     {
