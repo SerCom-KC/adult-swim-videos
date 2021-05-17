@@ -450,7 +450,7 @@
         "launch_date": 1619409600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191022/thumbnails/2_1910221518258-lupinthe3rdpt5_023.jpg",
         "id": "AW306AQk1YiBSfg0KX7k",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -647,6 +647,58 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156112706009617.jpg",
         "id": "AWt6bPiO4aLemgzOLEzb",
         "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1620619140,
+        "tms_id": "EP029407010001",
+        "description": "\"Marco Polo\", an online shop in the deep web where illegal goods such as drugs and weapons are sold. Lupin's new target is the digital currency gained from the transactions made on this site.",
+        "title_suggest": {
+            "input": [
+                "The Girl in the Twin Towers",
+                "Girl in the Twin Towers",
+                "in the Twin Towers",
+                "the Twin Towers",
+                "Twin Towers",
+                "Towers"
+            ]
+        },
+        "title": "The Girl in the Twin Towers",
+        "type": "episode",
+        "expiration_date": 1623038340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWsjveiCCorLtcgflq7h",
+        "duration": 1336.93,
+        "episode_number": "1",
+        "original_air_date": 1560661200,
+        "auth_launch_date": 1607317200,
+        "clip_order": null,
+        "airing_id": "RADS1005132100097892",
+        "media_id": "0823cf4d41cd808ecdfb17da2924ac68941dc6aa",
+        "modified": 1620962365,
+        "slug": "the-girl-in-the-twin-towers",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156054170417718.jpg",
+        "created": 1560173287,
+        "title_id": "2193928",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1620962365,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 5",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1621224000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156054170417718.jpg",
+        "id": "AWtBkxgaCorLtcgflrGZ",
+        "auth": false
     },
     {
         "ott_launch_date": null,
