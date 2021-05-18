@@ -195,6 +195,53 @@
         "cma_id": "1417302"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1621915140,
+        "tms_id": "EP002960010259",
+        "description": "The Griffin's are forced to flee their hometown of Quahog after Peter's offensive newspaper comics spark uproar amongst the local townspeople. Driving through the night, the Griffin's arrive in a small suburban town called \"Springfield\".",
+        "title_suggest": {
+            "input": [
+                "Simpsons Guy",
+                "Guy"
+            ]
+        },
+        "title": "Simpsons Guy",
+        "type": "episode",
+        "expiration_date": 1601265540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 2613.8779,
+        "episode_number": "1",
+        "original_air_date": 1412650800,
+        "auth_launch_date": 1621310400,
+        "clip_order": null,
+        "modified": 1620966559,
+        "media_id": "0b19650546eb7fa1af8e10b9ff1c76236ccbb434",
+        "airing_id": "RADS1005132100097928",
+        "id": "PIpynSoaQZe4QWW2nmZ2ig",
+        "slug": "simpsons-guy",
+        "views": 4124,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15126758834069.jpg",
+        "created": 1412662825,
+        "title_id": "809286",
+        "tv_rating": "tv-14",
+        "season_number": "13",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1620966559,
+        "first_published": 1412662825,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1600660800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126758834069.jpg",
+        "cma_id": "1418352"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1619755140,
@@ -294,57 +341,6 @@
         "launch_date": 1621224000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216390703819.jpg",
         "cma_id": "809247"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1621310340,
-        "tms_id": "EP002960010248",
-        "description": "Brian receives a call from his son, Dylan Flannigan, who wants to reconnect with him. At first, Brian is hesitant to meet up, but changes his tune when he discovers Dylan is the star of a new television show.",
-        "title_suggest": {
-            "input": [
-                "Brian's a Bad Father",
-                "a Bad Father",
-                "Bad Father",
-                "Father"
-            ]
-        },
-        "title": "Brian's a Bad Father",
-        "type": "episode",
-        "expiration_date": 1599451140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1288.6874,
-        "episode_number": "11",
-        "original_air_date": 1391482800,
-        "clip_order": null,
-        "auth_launch_date": 1620705600,
-        "modified": 1620663676,
-        "media_id": "7b7d14d9a4725d71792094d943b9c32004835840",
-        "airing_id": "RADS1005062100095716",
-        "id": "eSc6Ep1-T8Sj_aa5Lnz_kw",
-        "slug": "brians-a-bad-father",
-        "views": 2642,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153660431665610.jpg",
-        "created": 1411575139,
-        "season_number": "12",
-        "title_id": "809275",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1620663676,
-        "first_published": 1411575139,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1598846400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153660431665610.jpg",
-        "cma_id": "1266321"
     },
     {
         "auth": true,
