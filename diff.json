@@ -1,6 +1,62 @@
 {
-    "updated": 1621345220,
+    "updated": 1621345277,
     "added": [
+        {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1621310340,
+            "tms_id": "EP012792980076",
+            "description": "Tina goes undercover to find the mole who is giving away their cookie secrets. Tired of the kids counting her gray hairs, Linda goes blonde. When she starts making dumb mistakes at work, Bob worries being blonde has gone to her head!",
+            "title_suggest": {
+                "input": [
+                    "Tina Tailor Soldier Spy",
+                    "Tailor Soldier Spy",
+                    "Soldier Spy",
+                    "Spy"
+                ]
+            },
+            "expiration_date": 1612155540,
+            "title": "Tina Tailor Soldier Spy",
+            "type": "episode",
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "duration": 1303.1334668,
+            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+            "episode_number": "7",
+            "original_air_date": 1444093200,
+            "clip_order": null,
+            "auth_launch_date": 1620705600,
+            "modified": 1620650538,
+            "media_id": "65908625d24382510d50ce1b9f85f1b24162b774",
+            "airing_id": "RADS1005062100095723",
+            "id": "nmcdZVZUR8iGAUPGiABYIQ",
+            "slug": "tina-tailor-soldier-spy",
+            "views": 10,
+            "exclude_from_search": false,
+            "thumbnail": "",
+            "created": 1442332615,
+            "season_number": "5",
+            "title_id": "2065454",
+            "tv_rating": "tv-pg-dl",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1620650538,
+            "first_published": 1444101631,
+            "tags": [],
+            "collection_title": "Bob's Burgers",
+            "modified_by": "ODT Listener",
+            "launch_date": 1611550800,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg",
+            "cma_id": "1471316",
+            "collection_slug": "bobs-burgers",
+            "collection_title_id": "2003422",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -52,62 +108,6 @@
             "launch_date": 1613365200,
             "poster": "https://i.cdn.turner.com/adultswim/big/video/the-itty-bitty-ditty-committee/bobsburgers_505_air_cid-2N879.jpg",
             "cma_id": "1476217",
-            "collection_slug": "bobs-burgers",
-            "collection_title_id": "2003422",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1621310340,
-            "tms_id": "EP012792980076",
-            "description": "Tina goes undercover to find the mole who is giving away their cookie secrets. Tired of the kids counting her gray hairs, Linda goes blonde. When she starts making dumb mistakes at work, Bob worries being blonde has gone to her head!",
-            "title_suggest": {
-                "input": [
-                    "Tina Tailor Soldier Spy",
-                    "Tailor Soldier Spy",
-                    "Soldier Spy",
-                    "Spy"
-                ]
-            },
-            "expiration_date": 1612155540,
-            "title": "Tina Tailor Soldier Spy",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "duration": 1303.1334668,
-            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "episode_number": "7",
-            "original_air_date": 1444093200,
-            "clip_order": null,
-            "auth_launch_date": 1620705600,
-            "modified": 1620650538,
-            "media_id": "65908625d24382510d50ce1b9f85f1b24162b774",
-            "airing_id": "RADS1005062100095723",
-            "id": "nmcdZVZUR8iGAUPGiABYIQ",
-            "slug": "tina-tailor-soldier-spy",
-            "views": 10,
-            "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1442332615,
-            "season_number": "5",
-            "title_id": "2065454",
-            "tv_rating": "tv-pg-dl",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1620650538,
-            "first_published": 1444101631,
-            "tags": [],
-            "collection_title": "Bob's Burgers",
-            "modified_by": "ODT Listener",
-            "launch_date": 1611550800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg",
-            "cma_id": "1471316",
             "collection_slug": "bobs-burgers",
             "collection_title_id": "2003422",
             "online_exclusives": false
