@@ -1,22 +1,20 @@
 {
-    "updated": 1621462280,
-    "added": [],
-    "removed": [
+    "updated": 1621465235,
+    "added": [
         {
-            "auth_expiration_date": 1621828740,
-            "tms_id": "EP030726850046",
-            "description": "With Abbacchio's replaying ability interminably stamped in stone, Bruno and team analyze the cryptic face and fingerprints left behind when a mysterious call arrives. They must race to the Colosseum if they hope to ever defeat the Boss.",
+            "auth_expiration_date": 1599451140,
+            "tms_id": "",
+            "description": "Red Riding Hood must transport illegal drugs over the border to save her boyfriend's life.",
             "title_suggest": {
                 "input": [
-                    "Verso il Colosseo di Roma",
-                    "il Colosseo di Roma",
-                    "Colosseo di Roma",
-                    "di Roma",
-                    "Roma"
+                    "Little Red Riding Hood",
+                    "Red Riding Hood",
+                    "Riding Hood",
+                    "Hood"
                 ]
             },
-            "title": "Verso il Colosseo di Roma",
-            "expiration_date": 1602403140,
+            "title": "Little Red Riding Hood",
+            "expiration_date": 1621828740,
             "type": "episode",
             "platforms": [
                 "android",
@@ -24,34 +22,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
-            "duration": 1359.0911,
-            "episode_number": "29",
-            "original_air_date": "1591509600",
-            "auth_launch_date": 1602403200,
+            "collection_id": "AXD5sp41Rs3h4hI_X2eX",
+            "duration": 672.9389,
+            "episode_number": "3",
+            "original_air_date": "1590380100",
+            "auth_launch_date": 1598846400,
             "clip_order": null,
-            "airing_id": "RADS1010062000033128",
-            "media_id": "2ea63811d2f2be75bccca41b9b3683bd30d4f185",
-            "modified": 1610386213,
-            "slug": "verso-il-colosseo-di-roma",
+            "airing_id": "RADS1004072100087864",
+            "media_id": "f4fea61d15c551909d2c12c39784bb51197fde19",
+            "modified": 1621464919,
+            "slug": "little-red-riding-hood",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200730/thumbnails/1_20730123167-jojo_goldenwind_029.jpg",
-            "created": 1591208200,
-            "season_number": "4",
-            "title_id": "2193985",
-            "tv_rating": "",
-            "published": 1610386213,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_20561055391-JJVFT_004.jpg",
+            "created": 1588776948,
+            "season_number": "1",
+            "title_id": "2213498",
+            "tv_rating": "tv-ma-lv",
+            "published": 1621464919,
             "tags": [],
-            "collection_title": "JoJo's Bizarre Adventure",
+            "collection_title": "JJ Villard's Fairy Tales",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1598169600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200730/thumbnails/2_20730123167-jojo_goldenwind_029.jpg",
-            "id": "AXJ7ZkpiRs3h4hI_X390",
-            "auth": true,
-            "collection_slug": "jo-jos-bizarre-adventure",
-            "collection_title_id": "2193955",
+            "launch_date": 1618200000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561055391-JJVFT_004.jpg",
+            "id": "AXHqfFLNC8QgH-t19Iua",
+            "auth": false,
+            "collection_slug": "jj-villards-fairy-tales",
+            "collection_title_id": "2213494",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
