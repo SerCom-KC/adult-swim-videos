@@ -164,59 +164,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447169280,
-        "auth_expiration_date": 1621396740,
-        "tms_id": "EP008519090034",
-        "rating": 9.360751,
-        "description": "The band is fed up with Offdenson knowing more than they do.  They want their fifth of everything and decide to hire an efficiency expert to tighten up matters at Mordhaus and maximize their weekly allowance.",
-        "title_suggest": {
-            "input": [
-                "Dethsources"
-            ]
-        },
-        "type": "episode",
-        "title": "Dethsources",
-        "expiration_date": 1618372740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 691.4337671,
-        "episode_number": "14",
-        "original_air_date": 1215403200,
-        "clip_order": null,
-        "auth_launch_date": 1618372800,
-        "modified": 1620884442,
-        "media_id": "b40ecbb2466568e69bfd0a2a59c549dff2a22c3c",
-        "airing_id": "RADS1004092100088191",
-        "id": "8v6mb17QSLu7e6_8bB-h8Q",
-        "slug": "dethsources",
-        "views": 734530,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311113493-metalocalypse_214_bim.jpg",
-        "created": 1402945469,
-        "title_id": "693504",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1620884442,
-        "tags": [
-            "metalocalypse dethsources episode 34"
-        ],
-        "rating_count": 3781,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1615352400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113493-metalocalypse_214_bim.jpg",
-        "cma_id": "1252313"
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1447169700,
         "auth_expiration_date": 1624420740,
         "tms_id": "EP008519090042",
@@ -280,6 +227,53 @@
         "launch_date": 1618372800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311115469-metalocalypse_301_air.jpg",
         "cma_id": "1271551"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1522220399,
+        "tms_id": "EP008519090048",
+        "description": "Murderface wants the easy life but still wants all the rewards. After the band decides to kick him out for making their jobs more difficult, Murderface realizes the EASIEST way to make BIG money is to start his own label.",
+        "title_suggest": {
+            "input": [
+                "Dethsiduals"
+            ]
+        },
+        "title": "Dethsiduals",
+        "type": "episode",
+        "expiration_date": 1624420740,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 1353.5005005,
+        "episode_number": "7",
+        "original_air_date": 1286166600,
+        "auth_launch_date": 1519200000,
+        "clip_order": null,
+        "media_id": "741470f4aca2b596d1967971d20502b38551be7c",
+        "modified": 1620975562,
+        "airing_id": "RADS1005132100097984",
+        "id": "AWJFY8fbHAeP4-pUPd4S",
+        "slug": "dethsiduals",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111130491-metalocalypse_306_dst_cid-VPWU.jpg",
+        "created": 1521582589,
+        "title_id": "773412",
+        "tv_rating": "tv-ma",
+        "season_number": "3",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1620975562,
+        "tags": [],
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1621396800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111130491-metalocalypse_306_dst_cid-VPWU.jpg"
     },
     {
         "ott_launch_date": null,
