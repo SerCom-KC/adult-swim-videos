@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 20, 2021 at 11:00:35 EDT_
+_Last Update: May 20, 2021 at 11:30:30 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-830073 Off The Air: 1  
-### 2087832
-**Off The Air S06E02 - Clowns**  
-TV-14 🔓 11:24  
+340531 The Brak Show: 1  
+### 345421
+**The Brak Show S01E05 - Bawk Ba Gawk**  
+TV-PG 🔓 11:38  
 ⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/off-the-air/clowns  
-seriesid=`830073` titleid=`2087832` id=`tMBXNyA6Qr2Emrk9hb7FxQ` mediaid=`463390717ce33cb3cc80787e8d09ea2527616eb9`  
-_No Clowns were harmed in the making of this video._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341352-offtheair_602_dup-20160915.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341352-offtheair_602_dup-20160915.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
+seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
+_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
