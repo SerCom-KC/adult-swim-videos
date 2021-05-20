@@ -1,6 +1,55 @@
 {
-    "updated": 1621489703,
+    "updated": 1621490099,
     "added": [
+        {
+            "auth": false,
+            "ott_launch_date": 1452139200,
+            "tms_id": "EP013726210021",
+            "description": "A correction of a typo means Gary gets to go to Heaven.",
+            "title_suggest": {
+                "input": [
+                    "Heaven"
+                ]
+            },
+            "expiration_date": 1624507140,
+            "title": "Heaven",
+            "type": "episode",
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "duration": 684,
+            "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+            "episode_number": "12",
+            "original_air_date": 1444623300,
+            "clip_order": null,
+            "modified": 1621480365,
+            "airing_id": "RADS1005162100099169",
+            "media_id": "0e8872f24a53ff429a9527ae86d91f170ff228cb",
+            "id": "AdGQrLrQRlyPV5_F4O2e9g",
+            "slug": "heaven",
+            "views": 24989,
+            "created": 1436294577,
+            "season_number": "2",
+            "title_id": "2062771",
+            "tv_rating": "tv-ma",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1621480365,
+            "first_published": 1444530020,
+            "tags": [],
+            "collection_title": "Your Pretty Face is Going to Hell",
+            "modified_by": "ODT Listener",
+            "launch_date": 1621483200,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/heaven/ypf_ep209_002_abtr4589aga9w9730akpp.jpg",
+            "cma_id": "1380131",
+            "collection_slug": "your-pretty-face-is-going-to-hell",
+            "collection_title_id": "828177",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447787040,
@@ -47,55 +96,6 @@
             "launch_date": 1615438800,
             "poster": "https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg",
             "cma_id": "1389350",
-            "collection_slug": "your-pretty-face-is-going-to-hell",
-            "collection_title_id": "828177",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": 1452139200,
-            "tms_id": "EP013726210021",
-            "description": "A correction of a typo means Gary gets to go to Heaven.",
-            "title_suggest": {
-                "input": [
-                    "Heaven"
-                ]
-            },
-            "expiration_date": 1624507140,
-            "title": "Heaven",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "duration": 684,
-            "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-            "episode_number": "12",
-            "original_air_date": 1444623300,
-            "clip_order": null,
-            "modified": 1621480365,
-            "airing_id": "RADS1005162100099169",
-            "media_id": "0e8872f24a53ff429a9527ae86d91f170ff228cb",
-            "id": "AdGQrLrQRlyPV5_F4O2e9g",
-            "slug": "heaven",
-            "views": 24989,
-            "created": 1436294577,
-            "season_number": "2",
-            "title_id": "2062771",
-            "tv_rating": "tv-ma",
-            "active": false,
-            "ott_expiration_date": null,
-            "published": 1621480365,
-            "first_published": 1444530020,
-            "tags": [],
-            "collection_title": "Your Pretty Face is Going to Hell",
-            "modified_by": "ODT Listener",
-            "launch_date": 1621483200,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/heaven/ypf_ep209_002_abtr4589aga9w9730akpp.jpg",
-            "cma_id": "1380131",
             "collection_slug": "your-pretty-face-is-going-to-hell",
             "collection_title_id": "828177",
             "online_exclusives": false
