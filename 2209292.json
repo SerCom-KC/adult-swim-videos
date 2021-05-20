@@ -1,55 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1620273540,
-        "tms_id": "",
-        "description": "Tanjiro is blown away by the Father Spider Demon's overwhelming power and meets a dysfunctional familial dilemma that launches him in a battle against the sadistic demon Rui.",
-        "title_suggest": {
-            "input": [
-                "A Forged Bond",
-                "Forged Bond",
-                "Bond"
-            ]
-        },
-        "title": "A Forged Bond",
-        "expiration_date": 1621483140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
-        "duration": 1255.988,
-        "episode_number": "18",
-        "original_air_date": 1583040600,
-        "auth_launch_date": 1616644800,
-        "clip_order": null,
-        "media_id": "315fa66bdba9d04a2bb094b0084d236adfc93a7d",
-        "modified": 1619927546,
-        "airing_id": "RADS1004302100093368",
-        "slug": "a-forged-bond",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200211/thumbnails/1_20211105477-DemonSlayer_018.jpg",
-        "created": 1581433551,
-        "season_number": "1",
-        "title_id": "2209310",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1619927546,
-        "tags": [],
-        "collection_title": "Demon Slayer",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1620273600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200211/thumbnails/2_20211105477-DemonSlayer_018.jpg",
-        "id": "AXA0yPthGRcVO2K2pm19",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1620878340,
         "tms_id": "EP033351550019",
         "description": "The Demon Slayer Hashira storms Mt. Natagumo, rescuing the trio and inspiring Inosuke to challenge the superior swordsman before him in a boar-headed test of strength.",
@@ -141,7 +92,7 @@
         "launch_date": 1621483200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200309/thumbnails/2_20391051598-DemonSlayer_020.jpg",
         "id": "AXC_yA8HGRcVO2K2pm_Y",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -379,6 +330,51 @@
         "launch_date": 1605157200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231035435-DemonSlayer_025.jpg",
         "id": "AXGnd4wiC8QgH-t19IVu",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1625111940,
+        "tms_id": "EP033351550026",
+        "description": "New threats begin to make their move as Tanjiro matches his training opponent in strength at long last and soon receives his first assignment in months.",
+        "title_suggest": {
+            "input": [
+                "New Mission",
+                "Mission"
+            ]
+        },
+        "title": "New Mission",
+        "expiration_date": 1606971540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
+        "duration": 1419.8518,
+        "episode_number": "26",
+        "original_air_date": "1588480200",
+        "auth_launch_date": 1621483200,
+        "clip_order": null,
+        "airing_id": "RADS1005162100099137",
+        "media_id": "718dac75e90517f706109ca529f4a99e57e1b7f0",
+        "modified": 1621139139,
+        "slug": "new-mission",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/1_204231036153-DemonSlayer_026.jpg",
+        "created": 1587652579,
+        "season_number": "1",
+        "title_id": "2209318",
+        "tv_rating": "tv-ma-v",
+        "published": 1621139139,
+        "tags": [],
+        "collection_title": "Demon Slayer",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1605762000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231036153-DemonSlayer_026.jpg",
+        "id": "AXGnd9G7C8QgH-t19IVv",
         "auth": true
     }
 ]
