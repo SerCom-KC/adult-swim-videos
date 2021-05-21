@@ -1,64 +1,54 @@
 {
-    "updated": 1621574068,
-    "added": [
+    "updated": 1621584080,
+    "added": [],
+    "removed": [
         {
-            "auth": false,
-            "ott_launch_date": 1451658960,
             "auth_expiration_date": null,
-            "tms_id": "EP004625740006",
-            "rating": 8.627117,
-            "description": "Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman.",
+            "tms_id": "SH036941010000",
+            "description": "Action. In this latest installment of the blockbuster movie franchise, super agent Danny Ketchup must save the world from terrorists who have developed a Supergun with bullets the size of Washington, D.C.",
             "title_suggest": {
                 "input": [
-                    "Bawk Ba Gawk",
-                    "Ba Gawk",
-                    "Gawk"
+                    "Danny Ketchup",
+                    "Ketchup"
                 ]
             },
+            "title": "Danny Ketchup",
+            "expiration_date": 1621583940,
             "type": "episode",
-            "title": "Bawk Ba Gawk",
-            "expiration_date": 2085368400,
             "platforms": [
-                "web",
-                "mobile",
-                "ott"
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
-            "duration": 698.6006006,
-            "episode_number": "5",
-            "original_air_date": 1002510000,
-            "clip_order": null,
+            "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+            "duration": 780.6465,
+            "episode_number": "7",
+            "original_air_date": "1608627600",
             "auth_launch_date": null,
-            "modified": 1621573849,
-            "airing_id": "RADS1006071900097654",
-            "media_id": "535558d9e787cff01e18f0643c9cfd9951af224c",
-            "id": "xCfP56aJQ0Gn_QT2kqI7wA",
-            "slug": "bawk-ba-gawk",
-            "views": 143841,
+            "clip_order": null,
+            "airing_id": "RADS1012182000056435",
+            "media_id": "0835d116a119d8c62fe1a5b863c1567f80da881c",
+            "modified": 1619150465,
+            "slug": "danny-ketchup",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321424356-brak_2105.jpg",
-            "created": 1402945478,
-            "title_id": "345421",
-            "season_number": "1",
-            "tv_rating": "tv-pg",
-            "active": true,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1621573849,
-            "tags": [
-                "brak show episode 5 bawk ba gawk bird chicken mascot steal school"
-            ],
-            "rating_count": 590,
-            "collection_title": "The Brak Show",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/1_2012171756181-infomercials_DannyKetchup_dup-20201217.jpg",
+            "created": 1608245780,
+            "season_number": "10",
+            "title_id": "2236212",
+            "tv_rating": "tv-ma-l",
+            "published": 1619150465,
+            "tags": [],
+            "collection_title": "Infomercials",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1560052800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg",
-            "cma_id": "",
-            "collection_slug": "the-brak-show",
-            "collection_title_id": "340531",
+            "launch_date": 1608627600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171756181-infomercials_DannyKetchup_dup-20201217.jpg",
+            "id": "AXZy6yFzbxpjZvbXYlqP",
+            "auth": false,
+            "collection_slug": "infomercials",
+            "collection_title_id": "2007823",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
