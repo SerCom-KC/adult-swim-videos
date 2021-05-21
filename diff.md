@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 20, 2021 at 11:30:30 EDT_
+_Last Update: May 21, 2021 at 00:00:33 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2165429 The Shivering Truth: 1  
+### 2172251
+**The Shivering Truth S01E05 - Tow and Shell**  
+TV-MA 🔓 11:16  
+⌛ June 24, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-shivering-truth/tow-and-shell  
+seriesid=`2165429` titleid=`2172251` id=`AWeE-UjTqD68dq0Op5wD` mediaid=`c90e090fe747cdfb1b0177794e22bc65f225a87b`  
+_Did you know that if you hold your mother against your ear and listen closely, you can hear your dead father softly crying "my child has gone banana"?_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15452410357433.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15452410357433.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-340531 The Brak Show: 1  
-### 345421
-**The Brak Show S01E05 - Bawk Ba Gawk**  
-TV-PG 🔓 11:38  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
-seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
-_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
+2165429 The Shivering Truth: 1  
+### 2222976
+**The Shivering Truth S02E02 - Carrion My Son**  
+TV-MA-SV 🔒 11:15  
+⌛ May 20, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-shivering-truth/carrion-my-son  
+seriesid=`2165429` titleid=`2222976` id=`AXHqdkC8C8QgH-t19IuW` mediaid=`15cbef7741d8e4b7aafaeea38c0b89a49c123a7a`  
+_Birth is mommy's most romantic meat cute and mankind's hottest selfie._  
+<a href="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056104967-TheShiveringTruth_202_dup-20200214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056104967-TheShiveringTruth_202_dup-20200214.jpg" height="144px" /></a>
