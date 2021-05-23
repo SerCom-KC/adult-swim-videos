@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 23, 2021 at 07:00:29 EDT_
+_Last Update: May 23, 2021 at 07:30:29 EDT_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177771
-**Naruto: Shippuden S06E59 - Secret of the Transportation Technique**  
-TV-PG-L 🔒 21:51  
-⌛ September 5, 2021 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/secret-of-the-transportation-technique  
-seriesid=`812206` titleid=`2177771` id=`AXl77-02BH5Z6gH5aWPs` mediaid=`dde99d778a6d9a5f1d0d41b99ba26bc20ad63924`  
-_Having absorbed the chakras of all nine Tailed Beasts, the Gedo Statue begins its transformation into Ten Tails._  
-<a href="https://media.cdn.adultswim.com/uploads/20210520/thumbnails/2_215201245400-NarutoShippuden_342_SecretOfTheTransportationTechnique.png"><img src="https://media.cdn.adultswim.com/uploads/20210520/thumbnails/2_215201245400-NarutoShippuden_342_SecretOfTheTransportationTechnique.png" height="144px" /></a>
+2165429 The Shivering Truth: 1  
+### 2172252
+**The Shivering Truth S01E06 - Fowl Flow**  
+TV-MA-SV 🔓 11:17  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-shivering-truth/fowl-flow  
+seriesid=`2165429` titleid=`2172252` id=`AWdcesecqD68dq0Op5mi` mediaid=`ee1d1457a5e0788e336d53395889dd6b58d80719`  
+_This week Violet discovers that that scalding throb that rips thru your body every few seconds has a name:  The Rest Of The World._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177756
-**Naruto: Shippuden S06E44 - Nine Tails**  
-TV-PG-L 🔒 21:51  
-⌛ May 23, 2021 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/nine-tails  
-seriesid=`812206` titleid=`2177756` id=`AXcluBsmbxpjZvbXYmEI` mediaid=`920c8c2df3bb493ebd2c891960fbb336978eebb9`  
-_Naruto finds himself inside Four Tails' inner world, where he promises to free him from Madara's control._  
-<a href="https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211112362-NarutoShippuden_327_NineTails.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211112362-NarutoShippuden_327_NineTails.jpg" height="144px" /></a>
+No videos were removed.  
