@@ -2631,7 +2631,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15372077230946.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330081",
@@ -2961,7 +2961,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1649217599,
         "tms_id": "EP025761330086",
         "description": "Android 17 has been busy. Not only has he started a family, but he's been training as well. Will Goku see him as a worthwhile member of the team? And is he even interested in joining?",
