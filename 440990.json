@@ -439,53 +439,6 @@
         "cma_id": "809290"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1621915140,
-        "tms_id": "EP002960010259",
-        "description": "The Griffin's are forced to flee their hometown of Quahog after Peter's offensive newspaper comics spark uproar amongst the local townspeople. Driving through the night, the Griffin's arrive in a small suburban town called \"Springfield\".",
-        "title_suggest": {
-            "input": [
-                "Simpsons Guy",
-                "Guy"
-            ]
-        },
-        "title": "Simpsons Guy",
-        "type": "episode",
-        "expiration_date": 1601265540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 2613.8779,
-        "episode_number": "1",
-        "original_air_date": 1412650800,
-        "auth_launch_date": 1621310400,
-        "clip_order": null,
-        "modified": 1621475479,
-        "media_id": "0b19650546eb7fa1af8e10b9ff1c76236ccbb434",
-        "airing_id": "RADS1005132100097928",
-        "id": "PIpynSoaQZe4QWW2nmZ2ig",
-        "slug": "simpsons-guy",
-        "views": 4124,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15126758834069.jpg",
-        "created": 1412662825,
-        "title_id": "809286",
-        "tv_rating": "tv-14",
-        "season_number": "13",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1621475479,
-        "first_published": 1412662825,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1600660800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126758834069.jpg",
-        "cma_id": "1418352"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1619755140,
@@ -630,5 +583,52 @@
         "launch_date": 1621828800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771222164-familyguy_1007_JesusMaryJoseph.jpg",
         "cma_id": "1403145"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1622519940,
+        "tms_id": "EP002960010273",
+        "description": "When Stewie complains that his tricycle has been stolen, Peter and his friends are spurred into action. Peter finds the kid responsible, and the success leads the group to start a detective agency for kids.",
+        "title_suggest": {
+            "input": [
+                "Encyclopedia Griffin",
+                "Griffin"
+            ]
+        },
+        "title": "Encyclopedia Griffin",
+        "type": "episode",
+        "expiration_date": 1603684740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1291.5235,
+        "episode_number": "11",
+        "original_air_date": 1424750400,
+        "auth_launch_date": 1621915200,
+        "clip_order": null,
+        "modified": 1621523503,
+        "media_id": "e33b93a9a44a4cf8958804bd71d954fa66a5aa6a",
+        "airing_id": "RADS1005202100099456",
+        "id": "sI4vFD1oSWqoRIeQhFMZew",
+        "slug": "encyclopedia-griffin",
+        "views": 1300,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15126761636641.jpg",
+        "created": 1472793041,
+        "title_id": "809293",
+        "tv_rating": "tv-14",
+        "season_number": "13",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1621523503,
+        "first_published": 1472793041,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1603080000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761636641.jpg",
+        "cma_id": "1420648"
     }
 ]
