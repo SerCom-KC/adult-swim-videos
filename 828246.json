@@ -147,6 +147,57 @@
         "cma_id": "1389768"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1446738840,
+        "auth_expiration_date": 1583899140,
+        "tms_id": "EP013120360025",
+        "rating": 5.3373494,
+        "description": "Events are set in motion.",
+        "title_suggest": {
+            "input": [
+                "Moss"
+            ]
+        },
+        "type": "episode",
+        "title": "Moss",
+        "expiration_date": 1625025540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 1236,
+        "episode_number": "1",
+        "original_air_date": 1384491600,
+        "clip_order": null,
+        "auth_launch_date": 1580878800,
+        "modified": 1621576861,
+        "media_id": "66b57796001b7b207fdd2e2f45b879ebf60339af",
+        "airing_id": "RADS1005202100099485",
+        "id": "I4153dsdT6CVsoJWU_m6ww",
+        "slug": "moss",
+        "views": 174667,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/1_2115121593-eagleheart_025_dup-20140110.jpg",
+        "created": 1402945464,
+        "title_id": "2012945",
+        "season_number": "3",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1621576861,
+        "tags": [],
+        "rating_count": 249,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1622001600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_2115121593-eagleheart_025_dup-20140110.jpg",
+        "cma_id": "1419108"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446738540,
         "auth_expiration_date": 1624420740,
@@ -357,58 +408,6 @@
         "cma_id": "1403649"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1446738360,
-        "auth_expiration_date": 1622001540,
-        "tms_id": "EP013120360015",
-        "rating": 7.019231,
-        "description": "An organ thief is on the prowl in Elmwood Park and the marshals must go undercover to catch him. His identity will shock you.",
-        "title_suggest": {
-            "input": [
-                "Silly Sammy",
-                "Sammy"
-            ]
-        },
-        "type": "episode",
-        "title": "Silly Sammy",
-        "expiration_date": 1618977540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 675.7674341,
-        "episode_number": "3",
-        "original_air_date": 1335499200,
-        "clip_order": null,
-        "auth_launch_date": 1618977600,
-        "modified": 1618553184,
-        "media_id": "0f559870eb9052eef1b776c5c95534a7fae86591",
-        "airing_id": "RADS1003112100081858",
-        "id": "eKLDfH03T3uqcC1fDHjF1w",
-        "slug": "silly-sammy",
-        "views": 20109,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341549386-eagleheart_202_bim.jpg",
-        "created": 1402945464,
-        "title_id": "892251",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1618553184,
-        "tags": [],
-        "rating_count": 104,
-        "collection_title": "Eagleheart",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1615953600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341549386-eagleheart_202_bim.jpg",
-        "cma_id": "1378541"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1446738720,
         "auth_expiration_date": 1582693140,
@@ -462,7 +461,7 @@
         "cma_id": "1411140"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446738540,
         "auth_expiration_date": 1625025540,
         "tms_id": "EP013120360020",
