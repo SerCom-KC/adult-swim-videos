@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 29, 2021 at 17:30:28 EDT_
+_Last Update: May 29, 2021 at 19:00:28 EDT_
 ## Video added
 ### Summary
-340531 The Brak Show: 1  
-### 438041
-**The Brak Show S02E11 - We Ski In Peace**  
-TV-PG 🔓 11:18  
+2104364 Hot Streets: 1  
+### 2184498
+**Hot Streets S02E02 - The Moon Masters**  
+TV-14-DLSV 🔓 11:15  
 ⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-brak-show/we-ski-in-peace  
-seriesid=`340531` titleid=`438041` id=`txlx10CfRjSGghpXrlZz-g` mediaid=`62096cd9e247e6f8df5863725f3fd32fcc6afb13`  
-_It's "Take Your Son to Work Day" and Brak is bumming because his dad doesn't have a job. Also, giant ants._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321430550-brak_2211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321430550-brak_2211.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/hot-streets/the-moon-masters  
+seriesid=`2104364` titleid=`2184498` id=`AWd2LdHcqD68dq0Op5sd` mediaid=`08b1229b342afaf329d376d0e20482f9ca3a25c8`  
+_Branski enters a space race to win back the Earth's Moon._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351528513-hotstreets_203_dup-20181214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351528513-hotstreets_203_dup-20181214.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
