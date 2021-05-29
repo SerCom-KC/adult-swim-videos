@@ -504,6 +504,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447787340,
+        "auth_expiration_date": 1625716740,
         "tms_id": "EP013726210018",
         "description": "The demons find a hole to the female side of Hell.",
         "title_suggest": {
@@ -526,8 +527,9 @@
         "episode_number": "9",
         "original_air_date": 1442808900,
         "clip_order": null,
-        "modified": 1621527646,
-        "airing_id": "RADS1004232100091657",
+        "auth_launch_date": 1622692800,
+        "modified": 1622311832,
+        "airing_id": "RADS1005292100001731",
         "media_id": "6a877322e565663d65c5fff01acde2ddea655b7e",
         "id": "GhJYTWjKTuCHKwM1603C6Q",
         "slug": "national-buffoons-fireballz",
@@ -538,7 +540,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1621527646,
+        "published": 1622311832,
         "first_published": 1442233932,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
