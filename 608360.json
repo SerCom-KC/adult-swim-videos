@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447347660,
         "auth_expiration_date": 1622433540,
         "tms_id": "EP007259620025",
@@ -600,7 +600,7 @@
     },
     {
         "ott_launch_date": 1529937000,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1622433540,
         "tms_id": "EP007259620190",
         "description": "Robot Chicken is there when one of Scooby Doo's villains realizes the silliness of his plan. Super Grover's secret identity is revealed! Calvin grows up but Hobbes wants no part of it.",
@@ -1420,7 +1420,7 @@
         "auth": true
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362060,
         "auth_expiration_date": 1622433540,
         "tms_id": "EP007259620124",
@@ -1495,7 +1495,7 @@
         "cma_id": "1458566"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1461592860,
         "auth_expiration_date": 1622433540,
         "tms_id": "EP007259620169",
