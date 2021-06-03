@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 3, 2021 at 16:30:29 EDT_
+_Last Update: June 3, 2021 at 17:30:29 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 812206 Naruto: Shippuden: 1  
-### 2177758
-**Naruto: Shippuden S06E46 - Two-Man Team**  
-TV-PG 🔒 21:52  
-⌛ June 6, 2021 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/two-man-team  
-seriesid=`812206` titleid=`2177758` id=`AXett57KQJ_4Uej5kTrq` mediaid=`476e9ea67169506963b6a2135439c744e9411d7a`  
-_Naruto uses up the last of his chakra trying to free the Tailed Beasts from Madara's control._  
-<a href="https://media.cdn.adultswim.com/uploads/20210219/thumbnails/2_21219947416-NarutoShippuden_329.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210219/thumbnails/2_21219947416-NarutoShippuden_329.jpg" height="144px" /></a>
+### 2177746
+**Naruto: Shippuden S06E34 - Shino vs. Torune**  
+TV-PG 🔒 21:51  
+⌛ June 6, 2021 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/shino-vs-torune  
+seriesid=`812206` titleid=`2177746` id=`AXSM5GrRLyLQBOXK_PNp` mediaid=`18de9e36d9a3093967eb91c0bfa17649971ad717`  
+_Reunited with his old friend and fellow Aburame Clan member, Shino is forced to take on Torune's Venomous Beetles alone._  
+<a href="https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914953315-narutoshippuden_317_ShinovsTorune.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914953315-narutoshippuden_317_ShinovsTorune.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
