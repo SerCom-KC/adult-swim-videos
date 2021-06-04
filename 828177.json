@@ -597,6 +597,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447787400,
+        "auth_expiration_date": 1626321540,
         "tms_id": "EP013726210019",
         "description": "A drug epidemic in Hell creates an opportunity.",
         "title_suggest": {
@@ -617,8 +618,9 @@
         "episode_number": "10",
         "original_air_date": 1443413700,
         "clip_order": null,
-        "modified": 1621527626,
-        "airing_id": "RADS1004302100093398",
+        "auth_launch_date": 1623297600,
+        "modified": 1622767087,
+        "airing_id": "RADS1006042100002360",
         "media_id": "0cee79380dfa526c766402d99281937d93970686",
         "id": "Ikrgw040RvOJIh_xaTKAtA",
         "slug": "spunk",
@@ -629,7 +631,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1621527626,
+        "published": 1622767087,
         "first_published": 1443259220,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
