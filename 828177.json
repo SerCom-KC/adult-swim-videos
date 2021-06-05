@@ -552,6 +552,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447787400,
+        "auth_expiration_date": 1626926340,
         "tms_id": "EP013726210020",
         "description": "Gary and Claude bring Krampus out of retirement to help ruin Christmas.",
         "title_suggest": {
@@ -573,8 +574,9 @@
         "episode_number": "11",
         "original_air_date": 1444018500,
         "clip_order": null,
-        "modified": 1621527631,
-        "airing_id": "RADS1005092100096361",
+        "auth_launch_date": 1623902400,
+        "modified": 1622931392,
+        "airing_id": "RADS1006052100002780",
         "media_id": "7aebba52a279bd77b8f628775fa37b7f9b154e22",
         "id": "IHq3-0q1QOObvZdNmZpxPQ",
         "slug": "krampus-nacht",
@@ -585,7 +587,7 @@
         "tv_rating": "tv-14-v",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1621527631,
+        "published": 1622931392,
         "first_published": 1443860419,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
