@@ -1,18 +1,17 @@
 {
-    "updated": 1622975430,
+    "updated": 1622979030,
     "added": [
         {
-            "auth_expiration_date": 1632045540,
-            "tms_id": "EP034917240113",
-            "description": "Naruto and the others are further shocked when they learn that Obito has been working with Madara Uchiha for years to orchestrate Project Tsuki no Me.",
+            "auth_expiration_date": 1632050940,
+            "tms_id": "EP034917240098",
+            "description": "Naruto uses up the last of his chakra trying to free the Tailed Beasts from Madara's control.",
             "title_suggest": {
                 "input": [
-                    "Obito and Madara",
-                    "and Madara",
-                    "Madara"
+                    "Two-Man Team",
+                    "Team"
                 ]
             },
-            "title": "Obito and Madara",
+            "title": "Two-Man Team",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -22,84 +21,34 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1313.3454,
-            "episode_number": "61",
-            "original_air_date": 1622961000,
-            "auth_launch_date": 1622973600,
+            "duration": 1312.7114,
+            "episode_number": "46",
+            "original_air_date": 1613894400,
+            "auth_launch_date": 1622979000,
             "clip_order": null,
-            "airing_id": "RADS1006032100002173",
-            "media_id": "0620b5c5d1e133c3feae2cabe7a0cc947a929aa7",
-            "modified": 1622822160,
-            "slug": "obito-and-madara",
+            "airing_id": "RADS1006032100002167",
+            "media_id": "476e9ea67169506963b6a2135439c744e9411d7a",
+            "modified": 1622756663,
+            "slug": "two-man-team",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/1_21641155399-NarutoShippuden_344_ObitoAndMadara.png",
-            "created": 1622751522,
-            "title_id": "2177773",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210219/thumbnails/1_21219947416-NarutoShippuden_329.jpg",
+            "created": 1613527228,
+            "title_id": "2177758",
             "season_number": "6",
-            "tv_rating": "tv-pg-v",
-            "published": 1622822160,
+            "tv_rating": "tv-pg",
+            "published": 1622756663,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
-            "modified_by": "Sara Griggs",
+            "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_21641155399-NarutoShippuden_344_ObitoAndMadara.png",
-            "id": "AXnThy7-BH5Z6gH5aWS1",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210219/thumbnails/2_21219947416-NarutoShippuden_329.jpg",
+            "id": "AXett57KQJ_4Uej5kTrq",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "auth_expiration_date": 1622973540,
-            "tms_id": "",
-            "description": "Reunited with his old friend and fellow Aburame Clan member, Shino is forced to take on Torune's Venomous Beetles alone.",
-            "title_suggest": {
-                "input": [
-                    "Shino vs. Torune",
-                    "vs. Torune",
-                    "Torune"
-                ]
-            },
-            "title": "Shino vs. Torune",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.3768,
-            "episode_number": "34",
-            "original_air_date": null,
-            "auth_launch_date": 1613905200,
-            "clip_order": null,
-            "airing_id": "RADS1002172100074339",
-            "media_id": "18de9e36d9a3093967eb91c0bfa17649971ad717",
-            "modified": 1622756662,
-            "slug": "shino-vs-torune",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/1_20914953315-narutoshippuden_317_ShinovsTorune.jpg",
-            "created": 1600091613,
-            "season_number": "6",
-            "title_id": "2177746",
-            "tv_rating": "tv-pg",
-            "published": 1622756662,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914953315-narutoshippuden_317_ShinovsTorune.jpg",
-            "id": "AXSM5GrRLyLQBOXK_PNp",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
