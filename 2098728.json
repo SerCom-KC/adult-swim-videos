@@ -2796,7 +2796,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP025761330083",
         "description": "Time to choose a roster for the Tournament of Power, but finding ten of the strongest fighters in the universe is no easy task! Meanwhile, Vegeta and Bulma's child is close to being born.",
@@ -3121,7 +3121,7 @@
         "launch_date": 1623038400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325626353718.jpg",
         "id": "AWc3Dn02AsbXwNj3wAJy",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
