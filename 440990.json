@@ -249,55 +249,6 @@
         "cma_id": "1456194"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1623124740,
-        "tms_id": "EP002960010285",
-        "description": "Brian decides to do stand up comedy, but when his set begins to tank, he starts stealing Stewie's Twitter material.",
-        "title_suggest": {
-            "input": [
-                "Guy, Robot",
-                "Robot"
-            ]
-        },
-        "expiration_date": 1605502740,
-        "title": "Guy, Robot",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1300.1334668,
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "episode_number": "2",
-        "original_air_date": 1445310000,
-        "clip_order": null,
-        "auth_launch_date": 1622520000,
-        "modified": 1622254194,
-        "media_id": "328552a36ca60f04a6b85d39645f504a594f1b37",
-        "airing_id": "RADS1005272100000370",
-        "id": "RAsk22suQ9yV8VE-zt_oVQ",
-        "slug": "guy-robot",
-        "views": 3,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1445456150,
-        "season_number": "14",
-        "title_id": "2064577",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1622254194,
-        "first_published": 1476335443,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1604898000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/guy-robot/familyguy_1302_air_cid-2M6R4.jpg",
-        "cma_id": "1438005"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1620100740,
@@ -444,6 +395,55 @@
         "launch_date": 1623038400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15366039830015.jpg",
         "cma_id": "1405578"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1623729540,
+        "tms_id": "EP002960010296",
+        "description": "A drunk Peter drinks water from a fire hydrant; but when the water overflows, Peter ends up destroying the public library.  As a result of Peter's drunken hijinks, Major Adam West raises the legal drinking age to fifty.",
+        "title_suggest": {
+            "input": [
+                "Underage Peter",
+                "Peter"
+            ]
+        },
+        "title": "Underage Peter",
+        "type": "episode",
+        "expiration_date": 1607317140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1301.9676343,
+        "episode_number": "15",
+        "original_air_date": 1456804800,
+        "clip_order": null,
+        "auth_launch_date": 1623124800,
+        "modified": 1622783075,
+        "media_id": "a2c2630e91d827e68c6d6f5a868ebc765077df35",
+        "airing_id": "RADS1006042100002272",
+        "id": "pkYPWvxZRWKJqb_9FFeBxQ",
+        "slug": "underage-peter",
+        "views": 7,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1456812619,
+        "title_id": "2064588",
+        "tv_rating": "tv-14",
+        "season_number": "14",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1622783075,
+        "first_published": 1456812619,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1606712400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg",
+        "cma_id": "1465189"
     },
     {
         "auth": false,
