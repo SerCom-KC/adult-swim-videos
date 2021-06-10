@@ -1,6 +1,7 @@
 {
-    "updated": 1623302056,
-    "added": [
+    "updated": 1623303630,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
             "auth": true,
@@ -52,62 +53,6 @@
             "collection_slug": "black-clover",
             "collection_title_id": "2143080",
             "online_exclusives": false
-        },
-        {
-            "ott_launch_date": null,
-            "auth": true,
-            "auth_expiration_date": 1623729599,
-            "tms_id": "EP027937620011",
-            "description": "Receiving a gold star puts Asta in good spirits\u2014even though he'll need a hundred more to catch up with Yuno. And what's better\u2014it's payday! With money and a day off, the Black Bulls hit the castle town for some fun\u2026and a little chaos.",
-            "title_suggest": {
-                "input": [
-                    "What Happened One Day in the Castle Town",
-                    "Happened One Day in the Castle Town",
-                    "One Day in the Castle Town",
-                    "Day in the Castle Town",
-                    "in the Castle Town",
-                    "the Castle Town",
-                    "Castle Town",
-                    "Town"
-                ]
-            },
-            "title": "What Happened One Day in the Castle Town",
-            "type": "episode",
-            "expiration_date": 1522674000,
-            "platforms": [
-                "web",
-                "mobile",
-                "fire-tv",
-                "roku"
-            ],
-            "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1327.83,
-            "episode_number": "11",
-            "original_air_date": 1519533000,
-            "auth_launch_date": 1616472000,
-            "clip_order": null,
-            "media_id": "9ed3ac42ec19c51a42d180170bf6a872a41bade9",
-            "modified": 1623301736,
-            "airing_id": "RADS1003222100083644",
-            "id": "AWGWNnFrZ-onAnjDMGE1",
-            "slug": "what-happened-one-day-in-the-castle-town",
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15191661142939.jpg",
-            "created": 1518643605,
-            "title_id": "2143091",
-            "tv_rating": "tv-pg-l",
-            "season_number": "1",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1623301736,
-            "tags": [],
-            "collection_title": "Black Clover",
-            "modified_by": "ODT Listener",
-            "launch_date": 1521464400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15191661142939.jpg",
-            "collection_slug": "black-clover",
-            "collection_title_id": "2143080",
-            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
