@@ -159,6 +159,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451681760,
+        "auth_expiration_date": 1613105940,
+        "tms_id": "EP007008200003",
+        "rating": 7.7826085,
+        "description": "Tom proposes a World War II-themed restaurant, but the Mayor's nephew turns it into an arcade/pizza parlor that veers far from his original vision.",
+        "title_suggest": {
+            "input": [
+                "WW Laserz",
+                "Laserz"
+            ]
+        },
+        "type": "episode",
+        "title": "WW Laserz",
+        "expiration_date": 1626407940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 695.03,
+        "episode_number": "3",
+        "original_air_date": 1101097800,
+        "clip_order": null,
+        "auth_launch_date": 1610082000,
+        "modified": 1622962994,
+        "airing_id": "RADS1006052100002584",
+        "media_id": "47092b374778aab28d4e26e9a39515a5fb93dc16",
+        "id": "LIeGI_YTT3KeyCqV508ZsA",
+        "slug": "ww-laserz",
+        "views": 102304,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211783543-tgttm_003.jpg",
+        "created": 1402945482,
+        "title_id": "607108",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1622962994,
+        "tags": [
+            "tom goes to the mayor tgttm episode 3 ww laserz pizza restaurant nephew"
+        ],
+        "rating_count": 322,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1623384000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211783543-tgttm_003.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451681700,
         "auth_expiration_date": 1612501140,
         "tms_id": "EP007008200001",
@@ -262,58 +315,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1619150400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117955444-tgttm_020.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451682420,
-        "auth_expiration_date": 1623383940,
-        "tms_id": "EP007008200020",
-        "rating": 8.647798,
-        "description": "The Mayor hires a smooth jazz saxman, managed by Tom, to perform at the Grand Opening of a Waterbed Galleria.",
-        "title_suggest": {
-            "input": [
-                "Saxman"
-            ]
-        },
-        "type": "episode",
-        "title": "Saxman",
-        "expiration_date": 1620359940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 674.81,
-        "episode_number": "9",
-        "original_air_date": 1152505800,
-        "clip_order": null,
-        "auth_launch_date": 1620360000,
-        "modified": 1621497034,
-        "airing_id": "RADS1004302100093415",
-        "media_id": "f2c691e024c5817ed6dd036bd60da82315859433",
-        "id": "ZiwyDpkpTeKv8OPjhbc-GQ",
-        "slug": "saxman",
-        "views": 114944,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117956236-tgttm_022.jpg",
-        "created": 1402945482,
-        "title_id": "635907",
-        "season_number": "2",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1621497034,
-        "tags": [
-            "tom goes to the mayor episode 22 saxman saxophone jazz waterbed galleria manager"
-        ],
-        "rating_count": 318,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1617336000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg",
         "cma_id": ""
     },
     {
