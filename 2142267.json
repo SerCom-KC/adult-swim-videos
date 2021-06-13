@@ -139,7 +139,7 @@
         "launch_date": 1623571200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210520/thumbnails/2_215201235440-MyHeroAcademia_091_ClashClassAvsClassB.png",
         "id": "AXmBLLMxBH5Z6gH5aWP9",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1624174140,
@@ -233,6 +233,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_21641156378-MyHeroAcademia_93_OperationNewImprovMoves.png",
         "id": "AXnXvdpXBH5Z6gH5aWTW",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1625383740,
+        "tms_id": "EP034435300095",
+        "description": "Separated from her team, Yaoyorozu's leadership skills are put to the test in the second match of the class battles.",
+        "title_suggest": {
+            "input": [
+                "Foresight"
+            ]
+        },
+        "title": "Foresight",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1371.4034,
+        "episode_number": "5",
+        "original_air_date": 1623556800,
+        "auth_launch_date": 1623569400,
+        "clip_order": null,
+        "airing_id": "RADS1006052100002607",
+        "media_id": "327d4d85e92c3c92507318b510c739c66c776dca",
+        "modified": 1623440124,
+        "slug": "foresight",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/1_21610106356-MyHeroAcademia_094_Foresight.png",
+        "created": 1622930223,
+        "title_id": "2267459",
+        "season_number": "5",
+        "tv_rating": "tv-14",
+        "published": 1623440124,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610106356-MyHeroAcademia_094_Foresight.png",
+        "id": "AXneLe-jBH5Z6gH5aWTl",
         "auth": true
     }
 ]
