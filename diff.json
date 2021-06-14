@@ -1,54 +1,58 @@
 {
-    "updated": 1623682833,
-    "added": [
+    "updated": 1623684632,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": null,
-            "tms_id": "EP031843450011",
-            "description": "Tuca and Bertie are both looking for their perfect match. Bertie needs to see the best therapist as quickly as possible, and Tuca finds a clever way to jump-start her dating life.",
+            "tms_id": "",
+            "description": "Tuca & Bertie have a new home and we couldn't be happier. New episodes premiere June 13th only on Adult Swim.",
             "title_suggest": {
                 "input": [
-                    "Bird Mechanics",
-                    "Mechanics"
+                    "Tuca & Bertie Season 2 Trailer",
+                    "& Bertie Season 2 Trailer",
+                    "Bertie Season 2 Trailer",
+                    "Season 2 Trailer",
+                    "2 Trailer",
+                    "Trailer"
                 ]
             },
-            "title": "Bird Mechanics",
-            "expiration_date": 1632110340,
-            "type": "episode",
+            "title": "Tuca & Bertie Season 2 Trailer",
+            "expiration_date": null,
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
             "collection_id": "AXI5AAWnRs3h4hI_X3zz",
-            "duration": 0,
-            "episode_number": "1",
-            "original_air_date": "1623641400",
+            "duration": 60.075,
+            "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "",
-            "media_id": "43609621efcf2a4c0601ba792eca5525750e9ef9",
-            "modified": 1623681392,
-            "slug": "bird-mechanics",
+            "media_id": "medcd90fdc79b77a4597605297fc2d8c2e3bf6dcf9",
+            "modified": 1622127235,
+            "slug": "tuca-bertie-season-2-trailer",
             "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1623681385,
-            "season_number": "2",
-            "title_id": "2266165",
-            "tv_rating": "tv-14-dlsv",
-            "published": 1623681392,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210519/thumbnails/1_215191557284-promo_TucaBertie_BDG_60_Dated.png",
+            "created": 1621454274,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
+            "published": 1622127235,
             "tags": [],
             "collection_title": "Tuca & Bertie",
             "disable_ads": false,
-            "modified_by": "Jonathan Jackson",
-            "launch_date": 1623681359,
-            "poster": "",
-            "id": "AXoK88XRDmGy9WFjRrd5",
+            "modified_by": "Jonas Eason",
+            "launch_date": 1621455000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210519/thumbnails/2_215191557284-promo_TucaBertie_BDG_60_Dated.png",
+            "id": "AXmGNL_YDmGy9WFjRrL-",
             "auth": false,
             "collection_slug": "tuca-bertie",
             "collection_title_id": "2266164",
-            "online_exclusives": false
+            "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
