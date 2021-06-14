@@ -2850,7 +2850,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1649217599,
         "tms_id": "",
         "description": "Krillin must prove himself to both Gohan and Goku if he wants to enter the Tournament of Power. With martial arts tournament rules in play, Krillin's strength isn't solely based on his power level!",
@@ -3232,7 +3232,7 @@
         "launch_date": 1623643200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154360136579410.jpg",
         "id": "AWdlk62oAsbXwNj3wATx",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
