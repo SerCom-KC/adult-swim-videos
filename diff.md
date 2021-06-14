@@ -2,11 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 14, 2021 at 10:00:32 EDT_
+_Last Update: June 14, 2021 at 11:00:33 EDT_
 ## Video added
 ### Summary
 2266164 Tuca & Bertie: 1  
-### Online Exclusives
-`AXmGNL_YDmGy9WFjRrL-` [Tuca & Bertie - Tuca & Bertie Season 2 Trailer](https://www.adultswim.com/videos/tuca-bertie/tuca-bertie-season-2-trailer)  
+### 2266165
+**Tuca & Bertie S02E01 - Bird Mechanics**  
+TV-14-DLSV 🔓 00:00  
+⌛ September 19, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tuca-bertie/bird-mechanics  
+seriesid=`2266164` titleid=`2266165` id=`AXoK88XRDmGy9WFjRrd5` mediaid=`43609621efcf2a4c0601ba792eca5525750e9ef9`  
+_Tuca and Bertie are both looking for their perfect match. Bertie needs to see the best therapist as quickly as possible, and Tuca finds a clever way to jump-start her dating life._  
+<a href=""><img src="" height="144px" /></a>
 ## Video removed
 No videos were removed.  
