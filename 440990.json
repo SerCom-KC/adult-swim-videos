@@ -557,6 +557,56 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1624334340,
+        "tms_id": "EP002960010307",
+        "description": "James Woods hosts a \"behind the scenes\" episode of Family Guy, where we observe one production week in the life of the show (if the Griffins were a real family playing themselves and shooting on a soundstage).",
+        "title_suggest": {
+            "input": [
+                "Inside Family Guy",
+                "Family Guy",
+                "Guy"
+            ]
+        },
+        "title": "Inside Family Guy",
+        "type": "episode",
+        "expiration_date": 1609736340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 1304.1668335,
+        "episode_number": "3",
+        "original_air_date": 1484193600,
+        "clip_order": null,
+        "auth_launch_date": 1623729600,
+        "modified": 1623304735,
+        "media_id": "6563cf6403fdedc766d2250cc0fb934a9e2f206e",
+        "airing_id": "RADS1006052100002696",
+        "id": "gIKRwyLRSGWVVPuboBB54Q",
+        "slug": "inside-family-guy",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1483859425,
+        "title_id": "2064593",
+        "tv_rating": "tv-14",
+        "season_number": "15",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1623304735,
+        "first_published": 1483859425,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1609131600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/inside-family-guy/familyguy_1320_air_cid-304HP.jpg",
+        "cma_id": "1327114"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1624161540,
         "tms_id": "EP002960010303",
         "description": "While throwing rotten apples into oncoming traffic with Peter, Chris hits the car of the coach of the James Woods High School baseball team.  Impressed with his arm, Coach Doyle asks Chris to join the team.",
@@ -604,54 +654,5 @@
         "launch_date": 1608526800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/bookie-of-the-year/familyguy_1310_air_cid-304HK.jpg",
         "cma_id": "1485399"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1623729540,
-        "tms_id": "EP002960010296",
-        "description": "A drunk Peter drinks water from a fire hydrant; but when the water overflows, Peter ends up destroying the public library.  As a result of Peter's drunken hijinks, Major Adam West raises the legal drinking age to fifty.",
-        "title_suggest": {
-            "input": [
-                "Underage Peter",
-                "Peter"
-            ]
-        },
-        "title": "Underage Peter",
-        "type": "episode",
-        "expiration_date": 1607317140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1301.9676343,
-        "episode_number": "15",
-        "original_air_date": 1456804800,
-        "clip_order": null,
-        "auth_launch_date": 1623124800,
-        "modified": 1622783075,
-        "media_id": "a2c2630e91d827e68c6d6f5a868ebc765077df35",
-        "airing_id": "RADS1006042100002272",
-        "id": "pkYPWvxZRWKJqb_9FFeBxQ",
-        "slug": "underage-peter",
-        "views": 7,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1456812619,
-        "title_id": "2064588",
-        "tv_rating": "tv-14",
-        "season_number": "14",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1622783075,
-        "first_published": 1456812619,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1606712400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/underage-peter/familyguy_1313_air_cid-2YN9K.jpg",
-        "cma_id": "1465189"
     }
 ]
