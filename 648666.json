@@ -1,62 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": 1447169520,
-        "auth_expiration_date": 1623815940,
-        "tms_id": "EP008519090038",
-        "rating": 9.660598,
-        "description": "Dethklok's new album is released to the world. The Revengencers make their next move.",
-        "title_suggest": {
-            "input": [
-                "Black Fire Upon Us",
-                "Fire Upon Us",
-                "Upon Us",
-                "Us"
-            ]
-        },
-        "type": "episode",
-        "title": "Black Fire Upon Us",
-        "expiration_date": 1620791940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 1368.7340674,
-        "episode_number": "18",
-        "original_air_date": 1226037600,
-        "clip_order": null,
-        "auth_launch_date": 1620792000,
-        "modified": 1621476707,
-        "media_id": "7d473c5168cb578672857d0bae05f74ff8a95659",
-        "airing_id": "RADS1005062100095763",
-        "id": "8aiCaDjOQNePyHi62aRuDA",
-        "slug": "black-fire-upon-us",
-        "views": 1412885,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311115257-metalocalypse_219-220_dst-cid-MWUV.jpg",
-        "created": 1402945469,
-        "title_id": "733403",
-        "season_number": "2",
-        "tv_rating": "tv-ma-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1621476707,
-        "tags": [
-            "Metalocalypse Black Fire Upon Us episode 39 40"
-        ],
-        "rating_count": 4888,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1617768000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311115257-metalocalypse_219-220_dst-cid-MWUV.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447169700,
         "auth_expiration_date": 1624420740,
         "tms_id": "EP008519090042",
@@ -356,7 +300,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169760,
         "auth_expiration_date": 1626839940,
         "tms_id": "EP008519090047",
@@ -617,5 +561,81 @@
         "launch_date": 1618977600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311112823-metalocalypse_302_dst_cid-N5E2.jpg",
         "cma_id": "1275698"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447169940,
+        "auth_expiration_date": 1592366340,
+        "tms_id": "EP008519090054",
+        "rating": 6.8373785,
+        "description": "Despite his bandmates' warnings, Nathan begins seriously dating one of his fans. But as the evidence of her past piles up, to prove her innocence, he follows her to the most brutal place on earth: Klokikon - the annual Dethklok fan convention filled with cosplay geeks and homosexual fan art. Meanwhile, the rest of the band starts smoking after Murderface lands the cover of Smokaroonie Aficionado.",
+        "title_suggest": {
+            "input": [
+                "Fanklok"
+            ]
+        },
+        "type": "episode",
+        "title": "Fanklok",
+        "expiration_date": 1626839940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 676.8341675,
+        "episode_number": "1",
+        "original_air_date": 1335759300,
+        "clip_order": null,
+        "auth_launch_date": 1588305600,
+        "modified": 1623392296,
+        "media_id": "c0b0e85b75c1a820d3d2984c98d97ba6acabb251",
+        "airing_id": "RADS1006052100002754",
+        "id": "tDjqEXi_TF-BM8tJAMwGsw",
+        "slug": "fanklok",
+        "views": 94879,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311113255-metalocalypse_401_dup-20120423.jpg",
+        "created": 1402945469,
+        "title_id": "892261",
+        "season_number": "4",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1623392296,
+        "tags": [
+            "brendon small",
+            "skwisgaar skwigelf",
+            "nathan explosion",
+            "william murderface",
+            "pickles",
+            "toki wartooth",
+            "fanklok",
+            "dethklok",
+            "metal",
+            "rock",
+            "band",
+            "music",
+            "Charles Offdensen",
+            "girlfriend",
+            "girls",
+            "sex",
+            "fan",
+            "groupies",
+            "convention",
+            "dating",
+            "klokikon",
+            "cosplay",
+            "art",
+            "roman"
+        ],
+        "rating_count": 412,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1623816000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113255-metalocalypse_401_dup-20120423.jpg",
+        "cma_id": "1315101"
     }
 ]
