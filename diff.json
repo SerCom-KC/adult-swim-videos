@@ -1,21 +1,24 @@
 {
-    "updated": 1624006640,
-    "added": [],
-    "removed": [
+    "updated": 1624008380,
+    "added": [
         {
             "ott_launch_date": null,
             "auth": true,
             "auth_expiration_date": 1624334399,
-            "tms_id": "EP027937620017",
-            "description": "It's Clover Kingdom vs Diamond Kingdom as Yuno and Asta's group face powerful mages within the magical dungeon. What kind of deadly power does the Diamond Kingdom hold, and can the Clover knights hold their own?",
+            "tms_id": "EP027937620022",
+            "description": "For their work in the dungeon, Asta and Noelle go to the royal capital to give their report and wind up meeting the Wizard King! But when they're invited to the decoration ceremony, they suffer cruel comments from their senior knights.",
             "title_suggest": {
                 "input": [
-                    "Friends"
+                    "Assembly at the Royal Capital",
+                    "at the Royal Capital",
+                    "the Royal Capital",
+                    "Royal Capital",
+                    "Capital"
                 ]
             },
-            "expiration_date": 1525705200,
+            "expiration_date": 1528117200,
             "type": "episode",
-            "title": "Friends",
+            "title": "Assembly at the Royal Capital",
             "platforms": [
                 "android",
                 "ios",
@@ -23,33 +26,34 @@
                 "fire-tv"
             ],
             "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1316.63,
-            "episode_number": "16",
-            "original_air_date": 1522553400,
+            "duration": 1336.33,
+            "episode_number": "20",
+            "original_air_date": 1524978000,
             "auth_launch_date": 1616472000,
             "clip_order": null,
-            "media_id": "f6d6155cba1b53ef3c0d7c24eaf8ee1403aeb593",
-            "modified": 1624004459,
-            "airing_id": "RADS1003222100083657",
-            "id": "AWH9ZBAnNWyh42wYnlNe",
-            "slug": "friends",
+            "media_id": "4bd3b55419394f5db57193502464896f793949ef",
+            "modified": 1624008334,
+            "airing_id": "RADS1003222100083652",
+            "id": "AWLUM-wDTdxzjxdCldHu",
+            "slug": "assembly-at-the-royal-capital",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203746546062.jpg",
-            "created": 1520374648,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152484064945216.jpg",
+            "created": 1523978595,
             "season_number": "1",
-            "title_id": "2159449",
-            "tv_rating": "tv-pg-v",
+            "title_id": "2159453",
+            "tv_rating": "tv-pg",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1624004459,
+            "published": 1624008334,
             "tags": [],
             "collection_title": "Black Clover",
             "modified_by": "ODT Listener",
-            "launch_date": 1524715200,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203746546062.jpg",
+            "launch_date": 1526907600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484064945216.jpg",
             "collection_slug": "black-clover",
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
