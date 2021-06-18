@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 18, 2021 at 05:00:33 EDT_
+_Last Update: June 18, 2021 at 05:30:31 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2143080 Black Clover: 1  
-### 2159449
-**Black Clover S01E16 - Friends**  
-TV-PG-V 🔒 21:56  
+### 2159453
+**Black Clover S01E20 - Assembly at the Royal Capital**  
+TV-PG 🔒 22:16  
 ⌛ June 21, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/friends  
-seriesid=`2143080` titleid=`2159449` id=`AWH9ZBAnNWyh42wYnlNe` mediaid=`f6d6155cba1b53ef3c0d7c24eaf8ee1403aeb593`  
-_It's Clover Kingdom vs Diamond Kingdom as Yuno and Asta's group face powerful mages within the magical dungeon. What kind of deadly power does the Diamond Kingdom hold, and can the Clover knights hold their own?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203746546062.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203746546062.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/black-clover/assembly-at-the-royal-capital  
+seriesid=`2143080` titleid=`2159453` id=`AWLUM-wDTdxzjxdCldHu` mediaid=`4bd3b55419394f5db57193502464896f793949ef`  
+_For their work in the dungeon, Asta and Noelle go to the royal capital to give their report and wind up meeting the Wizard King! But when they're invited to the decoration ceremony, they suffer cruel comments from their senior knights._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484064945216.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484064945216.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
