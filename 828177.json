@@ -410,6 +410,7 @@
     {
         "auth": false,
         "ott_launch_date": 1452139200,
+        "auth_expiration_date": 1627531140,
         "tms_id": "EP013726210021",
         "description": "A correction of a typo means Gary gets to go to Heaven.",
         "title_suggest": {
@@ -430,8 +431,9 @@
         "episode_number": "12",
         "original_air_date": 1444623300,
         "clip_order": null,
-        "modified": 1621527626,
-        "airing_id": "RADS1005162100099169",
+        "auth_launch_date": 1624507200,
+        "modified": 1623989694,
+        "airing_id": "RADS1006182100007020",
         "media_id": "0e8872f24a53ff429a9527ae86d91f170ff228cb",
         "id": "AdGQrLrQRlyPV5_F4O2e9g",
         "slug": "heaven",
@@ -442,7 +444,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1621527626,
+        "published": 1623989694,
         "first_published": 1444530020,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
