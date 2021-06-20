@@ -4540,7 +4540,7 @@
         "launch_date": 1624181400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271147344-BlackClover_152_ToTomorrow.png",
         "id": "AXmlCJBqDmGy9WFjRrSi",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1624786140,
@@ -4632,6 +4632,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_216101010174-BlackClover_154_ViceCaptainLangrisVaude.png",
         "id": "AXnrf1EQBH5Z6gH5aWT-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1625995740,
+        "tms_id": "EP032284200130",
+        "description": "The contingent of Magic Knights from the Clover Kingdom arrives in the Heart Kingdom, where they're paired up with ace Spirit Guardians for training.",
+        "title_suggest": {
+            "input": [
+                "The 5 Spirit Guardians",
+                "5 Spirit Guardians",
+                "Spirit Guardians",
+                "Guardians"
+            ]
+        },
+        "title": "The 5 Spirit Guardians",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1324.1561,
+        "episode_number": "1",
+        "original_air_date": 1624168800,
+        "auth_launch_date": 1624181400,
+        "clip_order": null,
+        "airing_id": "RADS1006172100006825",
+        "media_id": "041875f86dfc47164571e74409b904792b4aced0",
+        "modified": 1624038850,
+        "slug": "the-5-spirit-guardians",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/1_216181252166-BlackClover_155_The5SpiritGuardians.png",
+        "created": 1623952762,
+        "title_id": "2277530",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "published": 1624038850,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181252166-BlackClover_155_The5SpiritGuardians.png",
+        "id": "AXobIKT6DmGy9WFjRrfH",
         "auth": true
     }
 ]
