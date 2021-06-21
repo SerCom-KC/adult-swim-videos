@@ -1,16 +1,16 @@
 [
     {
-        "auth_expiration_date": 1624247940,
-        "tms_id": "",
-        "description": "Somebody or something is kidnapping Good Guys all around town. But when Sheriff discovers that he's not good enough to be kidnapped, he sets out to prove that he's the goodest guy in town.",
+        "ott_launch_date": null,
+        "auth_expiration_date": 1618372799,
+        "tms_id": "EP033701060001",
+        "description": "When Floyd eats Sheriff's hat, Sheriff becomes convinced that nobody will respect his authority without it.",
         "title_suggest": {
             "input": [
-                "Good Guys",
-                "Guys"
+                "Hats"
             ]
         },
-        "title": "Good Guys",
-        "expiration_date": 1621828740,
+        "title": "Hats",
+        "expiration_date": 1627271940,
         "type": "episode",
         "platforms": [
             "android",
@@ -19,30 +19,32 @@
             "fire-tv"
         ],
         "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 675.9086,
-        "episode_number": "2",
-        "original_air_date": "1613366100",
-        "auth_launch_date": 1621828800,
+        "duration": 678.08,
+        "episode_number": "1",
+        "original_air_date": 1574054100,
+        "auth_launch_date": 1617595200,
         "clip_order": null,
-        "airing_id": "RADS1005192100099396",
-        "media_id": "de63e68583ce036213c4b61bb5aa885483839746",
-        "modified": 1621488042,
-        "slug": "good-guys",
+        "media_id": "97608903daeb5857377c0615421d1d0f96296fee",
+        "modified": 1624002620,
+        "airing_id": "RADS1006182100006924",
+        "slug": "hats",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/1_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
-        "created": 1611861981,
-        "season_number": "2",
-        "title_id": "2247952",
-        "tv_rating": "tv-ma-v",
-        "published": 1621488042,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg",
+        "created": 1573745583,
+        "season_number": "1",
+        "title_id": "2196567",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1624002620,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1618804800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
-        "id": "AXdKdfpDQJ_4Uej5kTon",
-        "auth": true
+        "launch_date": 1624248000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg",
+        "id": "AW5qi-Vv1YiBSfg0KYe1",
+        "auth": false
     },
     {
         "auth_expiration_date": 1626062340,
@@ -221,7 +223,7 @@
         "launch_date": 1621224000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210208/thumbnails/2_2128143306-MommaNamedMeSheriff_206_Membership.jpg",
         "id": "AXeDIibJbxpjZvbXYmOi",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1621828740,
