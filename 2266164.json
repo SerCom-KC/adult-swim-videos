@@ -43,5 +43,49 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210614/thumbnails/2_216141114100-TucaAndBertie201BirdMechanics.png",
         "id": "AXoK88XRDmGy9WFjRrd5",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1632715140,
+        "tms_id": "EP031843450014",
+        "description": "Everybody's going to Planteau for some bachelor/bachelorette weekend fun! Hopefully Tuca's sobriety and Bertie's social anxiety won't get in the way of a good time.",
+        "title_suggest": {
+            "input": [
+                "Planteau"
+            ]
+        },
+        "title": "Planteau",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXI5AAWnRs3h4hI_X3zz",
+        "duration": 1349.8819,
+        "episode_number": "2",
+        "original_air_date": 1624246200,
+        "auth_launch_date": 1624246200,
+        "clip_order": null,
+        "airing_id": "RADS1006172100006826",
+        "media_id": "ad8a8072e52df9acd1acbab561b8f3e2f1d6cb56",
+        "modified": 1624035594,
+        "slug": "planteau",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/1_216181259321-TucaAndBertie_202_Planteau.png",
+        "created": 1623952781,
+        "title_id": "2266166",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1624035594,
+        "tags": [],
+        "collection_title": "Tuca & Bertie",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181259321-TucaAndBertie_202_Planteau.png",
+        "id": "AXobIPBJDmGy9WFjRrfI",
+        "auth": true
     }
 ]
