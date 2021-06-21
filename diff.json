@@ -1,24 +1,23 @@
 {
-    "updated": 1624248501,
-    "added": [],
-    "removed": [
+    "updated": 1624285945,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Now you can start asking us about season 6. Rick and Morty returns for season 5 on Sunday, June 20 at 11pm ET/PT on Adult Swim.",
+            "description": "Is there a giant time bird at the end of existence? Writer Jeff Loveness, co-creator Dan Harmon, showrunner Scott Marder and director Jacob Hair dive into the season 5 premiere to discuss this and many more of life's big questions.",
             "title_suggest": {
                 "input": [
-                    "Rick and Morty Season 5 Uncensored Trailer!",
-                    "and Morty Season 5 Uncensored Trailer!",
-                    "Morty Season 5 Uncensored Trailer!",
-                    "Season 5 Uncensored Trailer!",
-                    "5 Uncensored Trailer!",
-                    "Uncensored Trailer!",
-                    "Trailer!"
+                    "Inside the Episode \"Mort Dinner Rick Andre\"",
+                    "the Episode \"Mort Dinner Rick Andre\"",
+                    "Episode \"Mort Dinner Rick Andre\"",
+                    "\"Mort Dinner Rick Andre\"",
+                    "Dinner Rick Andre\"",
+                    "Rick Andre\"",
+                    "Andre\""
                 ]
             },
-            "title": "Rick and Morty Season 5 Uncensored Trailer!",
-            "expiration_date": 1624248000,
+            "title": "Inside the Episode \"Mort Dinner Rick Andre\"",
+            "expiration_date": null,
             "type": "clip",
             "platforms": [
                 "android",
@@ -33,27 +32,28 @@
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "",
-            "media_id": "mecb54eafe66b36b7fa60699d72698d4bcca90a5fd",
-            "modified": 1617109666,
-            "slug": "rick-and-morty-season-5-uncensored-trailer",
+            "media_id": "me11e4cee4c65b85dfad5103a694efcf2f1486dbc3",
+            "modified": 1624285801,
+            "slug": "inside-the-episode-mort-dinner-rick-andre",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210326/thumbnails/1_21326754328-promo_RAM_Sheeple_Phase1_Trailer_Dated.jpg",
-            "created": 1616759711,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210621/thumbnails/1_21621711535-RickMorty_Inside501.png",
+            "created": 1624273979,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
-            "published": 1617109666,
+            "published": 1624285801,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
             "modified_by": "Jonas Eason",
-            "launch_date": 1617112800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210326/thumbnails/2_21326754328-promo_RAM_Sheeple_Phase1_Trailer_Dated.jpg",
-            "id": "AXhuY2hgBH5Z6gH5aWFi",
+            "launch_date": 1624284000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210621/thumbnails/2_21621711535-RickMorty_Inside501.png",
+            "id": "AXouRgknBH5Z6gH5aWVk",
             "auth": false,
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
