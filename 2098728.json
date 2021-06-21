@@ -2905,7 +2905,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1649217599,
         "tms_id": "EP025761330085",
         "description": "Goku tries to find Android 17. In the meantime, the tournament stress is affecting the gods of each universe, causing them to bicker among themselves.",
@@ -3176,7 +3176,7 @@
         "launch_date": 1624248000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154413639500411.jpg",
         "id": "AWd2KjA7qD68dq0Op5sO",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,

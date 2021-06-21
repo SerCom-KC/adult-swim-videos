@@ -1082,7 +1082,7 @@
         "launch_date": 1621224000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200505/thumbnails/2_20551155581-jojo_goldenwind_026.jpg",
         "id": "AXHljSe3Rs3h4hI_X3Yr",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1623038340,
@@ -1326,7 +1326,7 @@
         "launch_date": 1624248000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200811/thumbnails/2_208111313385-jojo_goldenwind_031.jpg",
         "id": "AXPeg2pbLyLQBOXK_PLG",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1624852740,
@@ -1375,6 +1375,55 @@
         "launch_date": 1601193600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200811/thumbnails/2_208111313568-jojo_goldenwind_032.jpg",
         "id": "AXPeg8jlLyLQBOXK_PLH",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1626062340,
+        "tms_id": "",
+        "description": "Key to defeating the Boss in hand, Polnareff waits for Bucciarati and crew. But the one who appears before him first is none other than the Boss of the Passione himself, Diavolo.",
+        "title_suggest": {
+            "input": [
+                "The Requiem Quietly Plays, Part 1",
+                "Requiem Quietly Plays, Part 1",
+                "Quietly Plays, Part 1",
+                "Plays, Part 1",
+                "Part 1",
+                "1"
+            ]
+        },
+        "title": "The Requiem Quietly Plays, Part 1",
+        "expiration_date": 1605430740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
+        "duration": 1414.9135,
+        "episode_number": "34",
+        "original_air_date": "1600576200",
+        "auth_launch_date": 1624248000,
+        "clip_order": null,
+        "airing_id": "RADS1006182100006856",
+        "media_id": "5005a1317dfedf6231803bfb7afafb3d976b0b30",
+        "modified": 1623995928,
+        "slug": "the-requiem-quietly-plays-part-1",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_20921213574-jojo_goldenwind_034.jpg",
+        "created": 1599063240,
+        "season_number": "4",
+        "title_id": "2193990",
+        "tv_rating": "tv-ma-v",
+        "published": 1623995928,
+        "tags": [],
+        "collection_title": "JoJo's Bizarre Adventure",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1602403200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921213574-jojo_goldenwind_034.jpg",
+        "id": "AXRPmK7dSeFB2d0c38u4",
         "auth": true
     },
     {
