@@ -48,54 +48,6 @@
         "cma_id": "1489605"
     },
     {
-        "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1624334340,
-        "tms_id": "EP012792980131",
-        "description": "When Linda wins a contest to spend a dream weekend at the home where her favorite television show is filmed, things don't go quite as planned. Also, Teddy's back problems leave him stuck on the floor, while he babysits the kids.",
-        "title_suggest": {
-            "input": [
-                "Zero Larp Thirty",
-                "Larp Thirty",
-                "Thirty"
-            ]
-        },
-        "expiration_date": 1621828740,
-        "type": "episode",
-        "title": "Zero Larp Thirty",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1308.1,
-        "episode_number": "13",
-        "original_air_date": 1514772000,
-        "auth_launch_date": 1623729600,
-        "clip_order": null,
-        "media_id": "8d55fe253c59d19038310c031b49e3bdcf6ce0ed",
-        "modified": 1623302907,
-        "airing_id": "RADS1006052100002716",
-        "id": "AWCZsR8XwdpKFAKScFZA",
-        "slug": "zero-larp-thirty",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151440700694020.jpg",
-        "created": 1514407010,
-        "season_number": "7",
-        "title_id": "2132984",
-        "tv_rating": "tv-pg-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1623302907,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1621224000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151440700694020.jpg"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1624420740,
@@ -488,6 +440,55 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154990210608314.jpg",
         "id": "AWjJqvOWAScUIg8Xxc65",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1624939140,
+        "tms_id": "EP012792980005",
+        "description": "Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction.",
+        "title_suggest": {
+            "input": [
+                "Hamburger Dinner Theater",
+                "Dinner Theater",
+                "Theater"
+            ]
+        },
+        "expiration_date": 1598241540,
+        "title": "Hamburger Dinner Theater",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1276.6754,
+        "episode_number": "5",
+        "original_air_date": 1373252400,
+        "clip_order": null,
+        "auth_launch_date": 1624334400,
+        "modified": 1624007142,
+        "media_id": "e16606aaa61acf8500480a4b7bf17289cd886f57",
+        "airing_id": "RADS1006182100006950",
+        "id": "fiET6YUKQF66U8IFgneXWQ",
+        "slug": "hamburger-dinner-theater",
+        "views": 7396,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151491857883213.jpg",
+        "created": 1403209866,
+        "season_number": "1",
+        "title_id": "2003427",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1624007142,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1597636800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg",
+        "cma_id": "1491586"
     },
     {
         "auth": true,
