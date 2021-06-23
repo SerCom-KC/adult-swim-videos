@@ -48,53 +48,6 @@
         "cma_id": "1489605"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1624420740,
-        "tms_id": "EP012792980132",
-        "description": "Gene accompanies Bob on the last-ever rock and roll laser show at the planetarium, while Linda and the girls go out for dinner at a wacky restaurant.",
-        "title_suggest": {
-            "input": [
-                "The Laser-Inth",
-                "Laser-Inth"
-            ]
-        },
-        "title": "The Laser-Inth",
-        "type": "episode",
-        "expiration_date": 1622433540,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1302.83,
-        "episode_number": "14",
-        "original_air_date": 1515376800,
-        "auth_launch_date": 1623816000,
-        "clip_order": null,
-        "media_id": "3d2c0cb05daddbc68467f3a429540082afca43fd",
-        "modified": 1623388943,
-        "airing_id": "RADS1006052100002751",
-        "id": "AWCqZpWiZ-onAnjDLtw7",
-        "slug": "the-laser-inth",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15163779340694.jpg",
-        "created": 1514687337,
-        "title_id": "2132985",
-        "tv_rating": "tv-pg-l",
-        "season_number": "7",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1623388943,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1621828800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779340694.jpg"
-    },
-    {
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1624507140,
@@ -440,6 +393,55 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154990210608314.jpg",
         "id": "AWjJqvOWAScUIg8Xxc65",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1625025540,
+        "tms_id": "EP012792980006",
+        "description": "Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day.",
+        "title_suggest": {
+            "input": [
+                "Sheesh! Cab, Bob?",
+                "Cab, Bob?",
+                "Bob?"
+            ]
+        },
+        "expiration_date": 1598846340,
+        "title": "Sheesh! Cab, Bob?",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1294.5599,
+        "episode_number": "6",
+        "original_air_date": 1373335200,
+        "clip_order": null,
+        "auth_launch_date": 1624420800,
+        "modified": 1624006243,
+        "media_id": "d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95",
+        "airing_id": "RADS1006182100006944",
+        "id": "Z-2JQXrqSduNuyz2syFZpQ",
+        "slug": "sheesh-cab-bob",
+        "views": 4589,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088799923017.jpg",
+        "created": 1403209880,
+        "season_number": "1",
+        "title_id": "2003428",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1624006243,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1598241600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg",
+        "cma_id": "1491680"
     },
     {
         "auth": true,
