@@ -967,6 +967,54 @@
     {
         "ott_launch_date": null,
         "auth": true,
+        "auth_expiration_date": 1624939199,
+        "tms_id": "EP027937620024",
+        "description": "Asta and the rest of the Magic Knights move in to protect the capital. But when Asta is ready to go face to face with the madman behind the chaos, he winds up fighting a horrifying creature known as Jimmy!",
+        "title_suggest": {
+            "input": [
+                "Wild Magic Dance",
+                "Magic Dance",
+                "Dance"
+            ]
+        },
+        "expiration_date": 1529326800,
+        "type": "episode",
+        "title": "Wild Magic Dance",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1304.5,
+        "episode_number": "22",
+        "original_air_date": 1526189400,
+        "auth_launch_date": 1616472000,
+        "clip_order": null,
+        "media_id": "ee929acc433192f5c20ebe099da042a39bbb24dd",
+        "modified": 1624638197,
+        "airing_id": "RADS1003222100083643",
+        "id": "AWLU-r5_HAeP4-pUPed6",
+        "slug": "wild-magic-dance",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152597370364120.jpg",
+        "created": 1523991625,
+        "season_number": "1",
+        "title_id": "2159455",
+        "tv_rating": "tv-pg-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1624638197,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "modified_by": "ODT Listener",
+        "launch_date": 1528117200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152597370364120.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth": true,
         "auth_expiration_date": 1625543999,
         "tms_id": "EP027937620028",
         "description": "Surrounded by mysterious hooded figures, Asta and Leopold attempt to keep them at bay\u2014but their numbers are too high. Even when the Magic Knights reappear, it's not enough to keep them from capturing Asta and getting away!",
@@ -1010,6 +1058,52 @@
         "modified_by": "ODT Listener",
         "launch_date": 1531141200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295051883812.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1624939199,
+        "tms_id": "EP027937620026",
+        "description": "Rades isn't the only one threatening the capital as a mysterious Spatial Magic user transports half of the Magic Knights away. When trying to get an answer from Rades, Fuegoleon learns who the true target is!",
+        "title_suggest": {
+            "input": [
+                "Blackout"
+            ]
+        },
+        "expiration_date": 1531141200,
+        "type": "episode",
+        "title": "Blackout",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1313.27,
+        "episode_number": "24",
+        "original_air_date": 1528003800,
+        "auth_launch_date": 1616472000,
+        "clip_order": null,
+        "media_id": "234356a7427c6a9394cd96819a242b78b553307f",
+        "modified": 1624637634,
+        "airing_id": "RADS1003222100083650",
+        "id": "AWOJfLKxHAeP4-pUPfZh",
+        "slug": "blackout",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15277873088776.jpg",
+        "created": 1527020040,
+        "season_number": "1",
+        "title_id": "2159457",
+        "tv_rating": "tv-pg",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1624637634,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "modified_by": "ODT Listener",
+        "launch_date": 1529931600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277873088776.jpg"
     },
     {
         "ott_launch_date": null,
