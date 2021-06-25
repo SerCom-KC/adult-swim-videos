@@ -1,7 +1,6 @@
 {
-    "updated": 1624627585,
-    "added": [],
-    "removed": [
+    "updated": 1624629769,
+    "added": [
         {
             "auth_expiration_date": 1624852740,
             "tms_id": "",
@@ -31,9 +30,9 @@
             "original_air_date": "1601181000",
             "auth_launch_date": 1606032000,
             "clip_order": null,
-            "airing_id": "RADS1010112000035083",
+            "airing_id": "RADS1011112000044217",
             "media_id": "98eefc6aee1ebfee39c5d97edf9a22b4389a6376",
-            "modified": 1605640318,
+            "modified": 1624629469,
             "slug": "the-requiem-quietly-plays-part-2",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_20921214192-jojo_goldenwind_035.jpg",
@@ -41,7 +40,7 @@
             "season_number": "4",
             "title_id": "2193991",
             "tv_rating": "tv-ma-lv",
-            "published": 1605640318,
+            "published": 1624629469,
             "tags": [],
             "collection_title": "JoJo's Bizarre Adventure",
             "disable_ads": false,
@@ -53,56 +52,7 @@
             "collection_slug": "jo-jos-bizarre-adventure",
             "collection_title_id": "2193955",
             "online_exclusives": false
-        },
-        {
-            "auth": false,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1609909140,
-            "tms_id": "EP014135410031",
-            "description": "Lost and Found",
-            "title_suggest": {
-                "input": [
-                    "Paradise"
-                ]
-            },
-            "title": "Paradise",
-            "type": "episode",
-            "expiration_date": 2085368400,
-            "platforms": [
-                "web",
-                "mobile",
-                "fire-tv",
-                "roku"
-            ],
-            "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-            "duration": 674.5,
-            "episode_number": "3",
-            "original_air_date": 1512464400,
-            "auth_launch_date": 1606885200,
-            "clip_order": null,
-            "media_id": "a180b91a6e8d8d7dcfb80043cd463b29c1bb273c",
-            "modified": 1606470622,
-            "airing_id": "RADS1011161800045619",
-            "id": "AWAV00GfZ-onAnjDLtVg",
-            "slug": "paradise",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121343249-offtheair_702_dup-20171129.jpg",
-            "created": 1512194654,
-            "title_id": "2141742",
-            "tv_rating": "tv-pg-s",
-            "season_number": "7",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1606470622,
-            "tags": [],
-            "collection_title": "Off The Air",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1542949200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121343249-offtheair_702_dup-20171129.jpg",
-            "collection_slug": "off-the-air",
-            "collection_title_id": "830073",
-            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
