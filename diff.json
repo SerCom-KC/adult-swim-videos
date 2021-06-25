@@ -1,76 +1,21 @@
 {
-    "updated": 1624640065,
+    "updated": 1624640433,
     "added": [
         {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1624939199,
-            "tms_id": "EP027937620025",
-            "description": "Facing another of Rades' creations takes its toll on Asta, but he refuses to give up! Right when things look dire, the leader of the Crimson Lion Kings appears at his side, and the truth behind Rades' motive comes to light!",
-            "title_suggest": {
-                "input": [
-                    "The King of the Crimson Lions",
-                    "King of the Crimson Lions",
-                    "of the Crimson Lions",
-                    "the Crimson Lions",
-                    "Crimson Lions",
-                    "Lions"
-                ]
-            },
-            "title": "The King of the Crimson Lions",
-            "type": "episode",
-            "expiration_date": 1529931600,
-            "platforms": [
-                "web",
-                "mobile",
-                "fire-tv",
-                "roku"
-            ],
-            "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1306.53,
-            "episode_number": "23",
-            "original_air_date": 1526795100,
-            "auth_launch_date": 1616472000,
-            "clip_order": null,
-            "media_id": "9e7a8bbaefd565b62198a035b2e66286db82a6d6",
-            "modified": 1624640042,
-            "airing_id": "RADS1003222100083656",
-            "id": "AWNQNYBzTdxzjxdCl3Q-",
-            "slug": "the-king-of-the-crimson-lions",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15269129959002.jpg",
-            "created": 1526059073,
-            "title_id": "2159456",
-            "tv_rating": "tv-pg",
-            "season_number": "1",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1624640042,
-            "tags": [],
-            "collection_title": "Black Clover",
-            "modified_by": "ODT Listener",
-            "launch_date": 1528722000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15269129959002.jpg",
-            "collection_slug": "black-clover",
-            "collection_title_id": "2143080",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
             "ott_launch_date": null,
             "auth": true,
             "auth_expiration_date": 1624939199,
-            "tms_id": "EP027937620026",
-            "description": "Rades isn't the only one threatening the capital as a mysterious Spatial Magic user transports half of the Magic Knights away. When trying to get an answer from Rades, Fuegoleon learns who the true target is!",
+            "tms_id": "EP027937620023",
+            "description": "While everyone is clashing at the decoration ceremony\u2014the capital is under attack! Hordes of undead fill the streets, and it's up to the Magic Knights to defend the kingdom. Will they have the power to stop the wrath of a madman?",
             "title_suggest": {
                 "input": [
-                    "Blackout"
+                    "Capital Riot",
+                    "Riot"
                 ]
             },
-            "expiration_date": 1531141200,
+            "expiration_date": 1528722000,
             "type": "episode",
-            "title": "Blackout",
+            "title": "Capital Riot",
             "platforms": [
                 "android",
                 "ios",
@@ -78,33 +23,34 @@
                 "fire-tv"
             ],
             "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1313.27,
-            "episode_number": "24",
-            "original_air_date": 1528003800,
+            "duration": 1315.2,
+            "episode_number": "21",
+            "original_air_date": 1525584600,
             "auth_launch_date": 1616472000,
             "clip_order": null,
-            "media_id": "234356a7427c6a9394cd96819a242b78b553307f",
-            "modified": 1624637634,
-            "airing_id": "RADS1003222100083650",
-            "id": "AWOJfLKxHAeP4-pUPfZh",
-            "slug": "blackout",
+            "media_id": "665f4d6efcea95fceab5758ecd1b5e232f4070f9",
+            "modified": 1624640323,
+            "airing_id": "RADS1003222100083658",
+            "id": "AWLUNJ9zHAeP4-pUPedT",
+            "slug": "capital-riot",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15277873088776.jpg",
-            "created": 1527020040,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152528599702811.jpg",
+            "created": 1523978641,
             "season_number": "1",
-            "title_id": "2159457",
+            "title_id": "2159454",
             "tv_rating": "tv-pg",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1624637634,
+            "published": 1624640323,
             "tags": [],
             "collection_title": "Black Clover",
             "modified_by": "ODT Listener",
-            "launch_date": 1529931600,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15277873088776.jpg",
+            "launch_date": 1527598800,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152528599702811.jpg",
             "collection_slug": "black-clover",
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
