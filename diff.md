@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 25, 2021 at 14:00:31 EDT_
+_Last Update: June 25, 2021 at 15:00:36 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2143080 Black Clover: 1  
-### 2159458
-**Black Clover S01E25 - Adversity**  
-TV-PG-V 🔒 21:40  
-⌛ June 28, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/adversity  
-seriesid=`2143080` titleid=`2159458` id=`AWOJfECHHAeP4-pUPfZg` mediaid=`d06e1683c14197241ca6a1b0cc85b5a704d7eec9`  
-_Yuno's new power wears him out, but luckily, Charmy is there to cushion his fall. Meanwhile, Asta and the others try to find who the mysterious Spatial Magic user is, only to be surprised by the return of a badly beaten Fuegoleon!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152847415610519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152847415610519.jpg" height="144px" /></a>
+830073 Off The Air: 1  
+### 2141742
+**Off The Air S07E03 - Paradise**  
+TV-PG-S 🔓 11:14  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/off-the-air/paradise  
+seriesid=`830073` titleid=`2141742` id=`AWAV00GfZ-onAnjDLtVg` mediaid=`a180b91a6e8d8d7dcfb80043cd463b29c1bb273c`  
+_Lost and Found_  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121343249-offtheair_702_dup-20171129.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121343249-offtheair_702_dup-20171129.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
