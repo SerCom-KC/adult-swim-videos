@@ -91,7 +91,7 @@
         "launch_date": 1624779000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_21641156378-MyHeroAcademia_93_OperationNewImprovMoves.png",
         "id": "AXnXvdpXBH5Z6gH5aWTW",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1625383740,
@@ -180,6 +180,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181248283-MyHeroAcademia_095_Match3.png",
         "id": "AXoMLNIiBH5Z6gH5aWUr",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1626593340,
+        "tms_id": "EP034435300097",
+        "description": "It's still anybody's game as the the third match continues with an endurance battle between Todoroki and Tetsutetsu.",
+        "title_suggest": {
+            "input": [
+                "Match 3 Conclusion",
+                "3 Conclusion",
+                "Conclusion"
+            ]
+        },
+        "title": "Match 3 Conclusion",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1371.1364,
+        "episode_number": "8",
+        "original_air_date": 1624766400,
+        "auth_launch_date": 1624779000,
+        "clip_order": null,
+        "airing_id": "RADS1006252100008135",
+        "media_id": "d1578631f57d1306982e36067a40de8b5abfe1c0",
+        "modified": 1624647538,
+        "slug": "match-3-conclusion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/1_216251357252-MyHeroAcademia_096_Match3Conclusion.png",
+        "created": 1624587446,
+        "title_id": "2267461",
+        "season_number": "5",
+        "tv_rating": "tv-14-v",
+        "published": 1624647538,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251357252-MyHeroAcademia_096_Match3Conclusion.png",
+        "id": "AXpA9SkJDmGy9WFjRrko",
         "auth": true
     }
 ]
