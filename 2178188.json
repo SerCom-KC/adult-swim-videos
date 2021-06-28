@@ -378,56 +378,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1554733800,
-        "auth_expiration_date": 1624852740,
-        "tms_id": "EP031867090001",
-        "description": "Dying to eat.",
-        "title_suggest": {
-            "input": [
-                "Dying to Eat",
-                "to Eat",
-                "Eat"
-            ]
-        },
-        "title": "Dying to Eat",
-        "type": "episode",
-        "expiration_date": 1621828740,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 688.79,
-        "episode_number": "1",
-        "original_air_date": 1554696000,
-        "auth_launch_date": 1621828800,
-        "clip_order": null,
-        "airing_id": "RADS1004142100089862",
-        "media_id": "2ec99faa7ab522b19a7be93d7b1423afcc72c362",
-        "modified": 1621483248,
-        "slug": "dying-to-eat",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15543096441134.jpg",
-        "created": 1553916364,
-        "title_id": "2178189",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1621483248,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1618804800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15543096441134.jpg",
-        "id": "AWnMogXzHl5gR6828zAo",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1555338600,
         "auth_expiration_date": 1626062340,
         "tms_id": "EP031867090004",
@@ -897,7 +847,7 @@
         "launch_date": 1621828800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15562178183946.jpg",
         "id": "AWpQdjyMHl5gR6828zVH",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1557153000,
@@ -1046,6 +996,56 @@
         "launch_date": 1624248000,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241038493-LazorWulf_201_dup-20200930_DyingToEat.jpg",
         "id": "AXX66HRKbxpjZvbXYlcx",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1619409540,
+        "tms_id": "EP031867090012",
+        "description": "If That Was Tomorrow. This Is Today.",
+        "title_suggest": {
+            "input": [
+                "If That Was Tomorrow. This Is Today.",
+                "That Was Tomorrow. This Is Today.",
+                "Was Tomorrow. This Is Today.",
+                "Tomorrow. This Is Today.",
+                "This Is Today.",
+                "Is Today.",
+                "Today."
+            ]
+        },
+        "title": "If That Was Tomorrow. This Is Today.",
+        "expiration_date": 1627876740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 669.9359,
+        "episode_number": "2",
+        "original_air_date": "1607318100",
+        "auth_launch_date": 1616385600,
+        "clip_order": null,
+        "airing_id": "RADS1006252100008207",
+        "media_id": "cc2a2a92db92b3badb479bed5fc33aa76ef48ab9",
+        "modified": 1624634038,
+        "slug": "if-that-was-tomorrow-this-is-today",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg",
+        "created": 1606232361,
+        "season_number": "2",
+        "title_id": "2224733",
+        "tv_rating": "tv-14-l",
+        "published": 1624634038,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1624852800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg",
+        "id": "AXX66MmlLyLQBOXK_Prg",
         "auth": false
     }
 ]
