@@ -6249,6 +6249,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Learn how this head-spinning, decoy-filled episode was conceived with co-creator Dan Harmon and writer Albro Lundy.",
+        "title_suggest": {
+            "input": [
+                "Inside The Episode \"Mortyplicity\"",
+                "The Episode \"Mortyplicity\"",
+                "Episode \"Mortyplicity\"",
+                "\"Mortyplicity\""
+            ]
+        },
+        "title": "Inside The Episode \"Mortyplicity\"",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 0,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me1538f5f2cce452ea73adb11c32fcbfd3cef5a9c8",
+        "modified": 1624888316,
+        "slug": "inside-the-episode-mortyplicity",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210628/thumbnails/1_21628714375-RickMorty_Inside502.png",
+        "created": 1624878893,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1624888316,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1624888800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210628/thumbnails/2_21628714375-RickMorty_Inside502.png",
+        "id": "AXpSVEjfDmGy9WFjRrob",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
