@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 28, 2021 at 01:30:27 EDT_
+_Last Update: June 28, 2021 at 04:00:31 EDT_
 ## Video added
 ### Summary
-2132025 The Jellies: 1  
-### 2191419
-**The Jellies S02E04 - Crash for Cash**  
-TV-14-DLSV 🔓 11:16  
+2144136 Tender Touches: 1  
+### 2222965
+**Tender Touches S03E02 - Foods of the World**  
+TV-14-DLV 🔓 11:14  
 ⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-jellies/crash-for-cash  
-seriesid=`2132025` titleid=`2191419` id=`AWmWYAl_AScUIg8XxeHK` mediaid=`ee5422a59e5377fb9df94b43d8015e212bf0e8ff`  
-_Debbie meets a sleazy TV lawyer and gets swept up in the world of sleazy TV law._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862422482119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862422482119.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/tender-touches/foods-of-the-world  
+seriesid=`2144136` titleid=`2222965` id=`AXKjYfcBC8QgH-t19JnC` mediaid=`188a9d10d725add27205e6dc31ec67ee25045916`  
+_Curtis and Steve protect their condo from a pair of inept burglars, while Charlene starts a new life and opens a bakery._  
+<a href="https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_20611836401-TenderTouches_302_dup-20200604.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_20611836401-TenderTouches_302_dup-20200604.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
