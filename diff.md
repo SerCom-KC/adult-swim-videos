@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 1, 2021 at 12:30:29 EDT_
+_Last Update: July 1, 2021 at 13:00:30 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 812206 Naruto: Shippuden: 1  
 ### 2177762
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/naruto-shippuden/the-risks-of-the-reanimation-j
 seriesid=`812206` titleid=`2177762` id=`AXfQnPD1QJ_4Uej5kTtB` mediaid=`26c9dafac96f23212f2848eb126673ec8db60ca2`  
 _Sasuke goes after Itachi and learns that his brother intends on stopping Kabuto's Reanimation Jutsu alone._  
 <a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231537571-NarutoShippuden_333_RisksOfReanimation.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231537571-NarutoShippuden_333_RisksOfReanimation.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
