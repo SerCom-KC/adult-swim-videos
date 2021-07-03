@@ -2,50 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 2, 2021 at 21:30:31 EDT_
+_Last Update: July 2, 2021 at 22:30:27 EDT_
 ## Video added
 ### Summary
-2020945 Attack on Titan: 1  
-2143080 Black Clover: 4  
-### 2244428
-**Attack on Titan S04E06 - The War Hammer Titan**  
-TV-14-LV 🔒 22:42  
-⌛ July 19, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/the-war-hammer-titan  
-seriesid=`2020945` titleid=`2244428` id=`AXeXrBebQJ_4Uej5kTrD` mediaid=`69275c5706f4aabb2fcca1eda97c22ab2d46de95`  
-_Eren's rampage is thwarted by the War Hammer Titan whose tenacity leaves him stumped. With Marley's military joining the fight, he'll be hard-pressed to survive on his own._  
-<a href="https://media.cdn.adultswim.com/uploads/20210212/thumbnails/2_21212173542-attackontitan_065.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210212/thumbnails/2_21212173542-attackontitan_065.jpg" height="144px" /></a>
-### 2159460
-**Black Clover S01E27 - Light**  
-TV-PG-L 🔒 22:12  
-⌛ July 5, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/light  
-seriesid=`2143080` titleid=`2159460` id=`AWOJezSDTdxzjxdCmC3z` mediaid=`87176f00a59fefba95bf91bb52f562e841a31b08`  
-_After an encounter with the Eye of the Midnight Sun, Asta returns to the kingdom with the Wizard King to heal himself up. Fuegoleon is still alive but unconscious, and everyone works to secure the kingdom and return things to normal._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968183618617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968183618617.jpg" height="144px" /></a>
-### 2159462
-**Black Clover S01E29 - Path**  
-TV-14-V 🔒 22:12  
-⌛ July 5, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/path  
-seriesid=`2143080` titleid=`2159462` id=`AWP1eZGQTdxzjxdCmZKU` mediaid=`9bf69e9b827e61b0497349ddb1c4c8ed2116614f`  
-_Asta and Yuno are working hard to make their dreams of becoming the Wizard King a reality. Though their journey hasn't been easy, they've certainly learned a lot! As they follow their path onward—what other tests await them?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153089999825318.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153089999825318.jpg" height="144px" /></a>
-### 2159463
-**Black Clover S01E30 - The Mirror Mage**  
-TV-14-D 🔒 20:48  
-⌛ July 5, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/the-mirror-mage  
-seriesid=`2143080` titleid=`2159463` id=`AWRhbwq2TdxzjxdCmvP1` mediaid=`cef8cddab69826ecc4468c11c1700d091dab0102`  
-_On their day off, Asta and Gauche wind up in the same village. After threatening Asta for winning his beloved sister's adoration, Gauche seeks to destroy him. But their tiff is interrupted when the children of the village go missing!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15318536163786.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15318536163786.jpg" height="144px" /></a>
-### 2159459
-**Black Clover S01E26 - Wounded Beasts**  
-TV-PG-V 🔒 22:10  
-⌛ July 5, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/wounded-beasts  
-seriesid=`2143080` titleid=`2159459` id=`AWOJe8TpHAeP4-pUPfZf` mediaid=`92b07f3c53da12737bf125e12af0ddda222179cb`  
-_Surrounded by mysterious hooded figures, Asta and Leopold attempt to keep them at bay—but their numbers are too high. Even when the Magic Knights reappear, it's not enough to keep them from capturing Asta and getting away!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295051883812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295051883812.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+340531 The Brak Show: 1  
+### 2177749
+**Naruto: Shippuden S06E37 - Run, Omoi!**  
+TV-PG-L 🔒 21:50  
+⌛ July 5, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/run-omoi  
+seriesid=`812206` titleid=`2177749` id=`AXYZnLgsQJ_4Uej5kTc1` mediaid=`804c395f32893b6c00f75f77a1650bcbcf0d0383`  
+_The Allied Forces receive a report that Omoi has deserted his post, much to the Raikage's shock._  
+<a href="https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_20124197143-NarutoShippuden_320_RunOmoi.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_20124197143-NarutoShippuden_320_RunOmoi.jpg" height="144px" /></a>
+### 345421
+**The Brak Show S01E05 - Bawk Ba Gawk**  
+TV-PG 🔓 11:38  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
+seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
+_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
