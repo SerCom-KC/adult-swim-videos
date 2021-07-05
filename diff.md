@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 4, 2021 at 07:00:28 EDT_
+_Last Update: July 4, 2021 at 23:30:29 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177762
-**Naruto: Shippuden S06E50 - The Risks of the Reanimation Jutsu**  
-TV-14-V 🔒 21:50  
-⌛ July 4, 2021 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/the-risks-of-the-reanimation-jutsu  
-seriesid=`812206` titleid=`2177762` id=`AXfQnPD1QJ_4Uej5kTtB` mediaid=`26c9dafac96f23212f2848eb126673ec8db60ca2`  
-_Sasuke goes after Itachi and learns that his brother intends on stopping Kabuto's Reanimation Jutsu alone._  
-<a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231537571-NarutoShippuden_333_RisksOfReanimation.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231537571-NarutoShippuden_333_RisksOfReanimation.jpg" height="144px" /></a>
+2013506 Rick and Morty: 1  
+### 2270460
+**Rick and Morty S05E03 - A Rickconvenient Mort**  
+TV-14-DLSV 🔒 24:19  
+⌛ July 25, 2021 at 22:59:00 EDT  
+https://www.adultswim.com/videos/rick-and-morty/a-rickconvenient-mort  
+seriesid=`2013506` titleid=`2270460` id=`AXpjsuNcDmGy9WFjRrqJ` mediaid=`7bb47205e643a3a1a939f8e4a06d6ba90b02b0bb`  
+_Reduce Reuse, broh. Might be too late._  
+<a href="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711611335-RickAndMorty_503_ARickconvenientMort.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711611335-RickAndMorty_503_ARickconvenientMort.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
