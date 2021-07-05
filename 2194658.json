@@ -48,17 +48,17 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1625457540,
-        "tms_id": "EP031416130005",
-        "description": "As Norman confronts the traitor, Emma and Gilda are keeping a watchful eye on Mom, and discover that she disappears somewhere, every night at eight o'clock.",
+        "auth_expiration_date": 1623038340,
+        "tms_id": "EP031416130001",
+        "description": "Grace Field House is where children without parents are taken in. An irreplaceable home for the 38 children who live happily every day. Until suddenly, their lives are completely changed forever.",
         "title_suggest": {
             "input": [
-                "301045"
+                "121045"
             ]
         },
-        "title": "301045",
+        "title": "121045",
+        "expiration_date": 1626667140,
         "type": "episode",
-        "expiration_date": 1621828740,
         "platforms": [
             "android",
             "ios",
@@ -66,31 +66,30 @@
             "fire-tv"
         ],
         "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1292.8,
-        "episode_number": "5",
-        "original_air_date": 1557633600,
-        "auth_launch_date": 1621828800,
+        "duration": 1292.33,
+        "episode_number": "1",
+        "original_air_date": 1555214400,
+        "auth_launch_date": 1619409600,
         "clip_order": null,
-        "airing_id": "RADS1005062100095708",
-        "media_id": "46af5ace416a595ee13aeb10a4864df7fd488d53",
-        "modified": 1621467325,
-        "slug": "301045",
+        "media_id": "14d288e2be3892fd94d7043cdbb532cf2d30c238",
+        "modified": 1625250749,
+        "airing_id": "RADS1007022100010556",
+        "slug": "121045",
         "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15575085409103.jpg",
-        "created": 1557245406,
-        "title_id": "2194663",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155500147480318.jpg",
+        "created": 1555001509,
         "season_number": "1",
+        "title_id": "2194659",
         "tv_rating": "tv-14-v",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1621467325,
+        "published": 1625250749,
         "tags": [],
         "collection_title": "The Promised Neverland",
-        "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1620619200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15575085409103.jpg",
-        "id": "AWqTDy32Hl5gR6828zbV",
+        "launch_date": 1625457600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155500147480318.jpg",
+        "id": "AWoNUAd-Hl5gR6828zPC",
         "auth": false
     },
     {
@@ -326,7 +325,7 @@
         "launch_date": 1624248000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156112696416613.jpg",
         "id": "AWt6a1ItCorLtcgflrW8",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
