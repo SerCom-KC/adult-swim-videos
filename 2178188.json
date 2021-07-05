@@ -325,59 +325,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1554129000,
-        "auth_expiration_date": 1625457540,
-        "tms_id": "EP031867090002",
-        "description": "That was today. This is tomorrow.",
-        "title_suggest": {
-            "input": [
-                "That Was Today. This Is Tomorrow.",
-                "Was Today. This Is Tomorrow.",
-                "Today. This Is Tomorrow.",
-                "This Is Tomorrow.",
-                "Is Tomorrow.",
-                "Tomorrow."
-            ]
-        },
-        "title": "That Was Today. This Is Tomorrow.",
-        "type": "episode",
-        "expiration_date": 1622433540,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 681.17,
-        "episode_number": "2",
-        "original_air_date": 1554696900,
-        "auth_launch_date": 1622433600,
-        "clip_order": null,
-        "airing_id": "RADS1004212100091313",
-        "media_id": "ef9074ee57cc14920f69e43dbfeca558a35dbf18",
-        "modified": 1622247572,
-        "slug": "that-was-today-this-is-tomorrow",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155430974878612.jpg",
-        "created": 1553916364,
-        "title_id": "2178190",
-        "season_number": "1",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1622247572,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1619409600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430974878612.jpg",
-        "id": "AWnMogXrHl5gR6828zAn",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1555338600,
         "auth_expiration_date": 1626062340,
         "tms_id": "EP031867090004",
@@ -796,7 +743,7 @@
         "launch_date": 1622433600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15562178560269.jpg",
         "id": "AWpKrOe9AScUIg8XxfFe",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1556548200,
@@ -1046,6 +993,51 @@
         "launch_date": 1624852800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg",
         "id": "AXX66MmlLyLQBOXK_Prg",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1620014340,
+        "tms_id": "EP031867090011",
+        "description": "Unoccupied Lane.",
+        "title_suggest": {
+            "input": [
+                "Unoccupied Lane",
+                "Lane"
+            ]
+        },
+        "title": "Unoccupied Lane",
+        "expiration_date": 1628481540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 666.299,
+        "episode_number": "3",
+        "original_air_date": "1585721700",
+        "auth_launch_date": 1616990400,
+        "clip_order": null,
+        "airing_id": "RADS1007022100010577",
+        "media_id": "938ea4661874978330ffb86220ff2057ec797d21",
+        "modified": 1625253873,
+        "slug": "unoccupied-lane",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241039447-LazorWulf_203_dup-20200930_UnoccupiedLane.jpg",
+        "created": 1606232387,
+        "season_number": "2",
+        "title_id": "2224734",
+        "tv_rating": "tv-14-dlv",
+        "published": 1625253873,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1625457600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039447-LazorWulf_203_dup-20200930_UnoccupiedLane.jpg",
+        "id": "AXX66TF6LyLQBOXK_Prh",
         "auth": false
     }
 ]
