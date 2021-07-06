@@ -1,20 +1,20 @@
 {
-    "updated": 1625580037,
-    "added": [
+    "updated": 1625593408,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1624939140,
-            "tms_id": "EP007542790045",
-            "description": "As the Castellica saves Mouse and team, Rooster escapes the clutches of Industry Man.",
+            "auth_expiration_date": 1621569540,
+            "tms_id": "EP036530620011",
+            "description": "Back in the material world of Earth, the Chilean man who hunted Makasu for most of his career can't seem to move on. Can retirement really help you let go of your obsessions?",
             "title_suggest": {
                 "input": [
-                    "Portal to the Doorway",
-                    "to the Doorway",
-                    "the Doorway",
-                    "Doorway"
+                    "Episode Eleven: G13",
+                    "Eleven: G13",
+                    "G13"
                 ]
             },
-            "title": "Portal to the Doorway",
-            "expiration_date": 1628654340,
+            "title": "Episode Eleven: G13",
+            "expiration_date": 2082690000,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,35 +22,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "4187UTxoQACKlt3B24ioQA",
-            "duration": 675.1745,
-            "episode_number": "9",
-            "original_air_date": "1596168000",
-            "auth_launch_date": 1621915200,
+            "collection_id": "AWnYBNDcHl5gR6828zAp",
+            "duration": 675.5082,
+            "episode_number": "11",
+            "original_air_date": "1608530400",
+            "auth_launch_date": 1620532800,
             "clip_order": null,
-            "airing_id": "RADS1007022100010630",
-            "media_id": "6bbef743f0e5212e04cc4c492d99028def8947b3",
-            "modified": 1625275302,
-            "slug": "portal-to-the-doorway",
+            "airing_id": "RADS1005162100099171",
+            "media_id": "945db87ef40ac275bbfeddae8bfb2a40f85faca3",
+            "modified": 1624547431,
+            "slug": "episode-eleven-g-13",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_207171733580-12oz_309_dup-20200703.jpg",
-            "created": 1595021641,
-            "season_number": "3",
-            "title_id": "2224145",
-            "tv_rating": "tv-14-lv",
-            "published": 1625275302,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/1_201215836316-GSMP_211_dup-20201209.jpg",
+            "created": 1608039395,
+            "season_number": "2",
+            "title_id": "2241836",
+            "tv_rating": "tv-ma-lv",
+            "published": 1624547431,
             "tags": [],
-            "collection_title": "12 oz Mouse",
+            "collection_title": "Gemusetto",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1625580000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171733580-12oz_309_dup-20200703.jpg",
-            "id": "AXNessexC8QgH-t19KAz",
+            "launch_date": 1621569600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg",
+            "id": "AXZmne7CQJ_4Uej5kTe8",
             "auth": false,
-            "collection_slug": "12-oz-mouse",
-            "collection_title_id": "618253",
+            "collection_slug": "gemusetto",
+            "collection_title_id": "2194549",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
