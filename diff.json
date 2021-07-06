@@ -1,6 +1,7 @@
 {
-    "updated": 1625598035,
-    "added": [
+    "updated": 1625599829,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": 1626143340,
             "tms_id": "",
@@ -100,104 +101,6 @@
             "collection_slug": "final-space",
             "collection_title_id": "2133085",
             "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1626148740,
-            "tms_id": "EP028522710038",
-            "description": "A shattered Team Squad is left reeling as Gary and Avocato travel into Invictus' inner sanctum for the final showdown.",
-            "title_suggest": {
-                "input": [
-                    "The Devil's Den",
-                    "Devil's Den",
-                    "Den"
-                ]
-            },
-            "title": "The Devil's Den",
-            "type": "episode",
-            "expiration_date": null,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWoJjOfPHl5gR6828zOv",
-            "duration": 1261.9941,
-            "episode_number": "13",
-            "original_air_date": 1623645000,
-            "auth_launch_date": 1623645000,
-            "clip_order": null,
-            "airing_id": "RADS1006052100002718",
-            "media_id": "f051918130a41e9609e6ef939ce801f02f39b8d1",
-            "modified": 1625597304,
-            "slug": "the-devils-den",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/1_216101012423-FinalSpace_313_DevilsDen.png",
-            "created": 1622930463,
-            "title_id": "2241637",
-            "season_number": "3",
-            "tv_rating": "tv-14-dlv",
-            "published": 1625597304,
-            "tags": [],
-            "collection_title": "Final Space",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_216101012423-FinalSpace_313_DevilsDen.png",
-            "id": "AXneMZpvBH5Z6gH5aWTo",
-            "auth": true,
-            "collection_slug": "final-space",
-            "collection_title_id": "2133085",
-            "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1626148740,
-            "tms_id": "EP028522710037",
-            "description": "Long held secrets are revealed that will change the Team Squad forever.",
-            "title_suggest": {
-                "input": [
-                    "The Leaving",
-                    "Leaving"
-                ]
-            },
-            "title": "The Leaving",
-            "type": "episode",
-            "expiration_date": null,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWoJjOfPHl5gR6828zOv",
-            "duration": 1261.9607,
-            "episode_number": "12",
-            "original_air_date": 1623040200,
-            "auth_launch_date": 1623040200,
-            "clip_order": null,
-            "airing_id": "RADS1006062100002843",
-            "media_id": "2a4b393f27ace58a9d5e731ab2f96fc5d8e8c627",
-            "modified": 1625597303,
-            "slug": "the-leaving",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/1_2164120489-FinalSpace_312_TheLeaving.png",
-            "created": 1622311868,
-            "title_id": "2241636",
-            "season_number": "3",
-            "tv_rating": "tv-14-dlsv",
-            "published": 1625597303,
-            "tags": [],
-            "collection_title": "Final Space",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_2164120489-FinalSpace_312_TheLeaving.png",
-            "id": "AXm5Upk_BH5Z6gH5aWSS",
-            "auth": true,
-            "collection_slug": "final-space",
-            "collection_title_id": "2133085",
-            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
