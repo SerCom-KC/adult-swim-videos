@@ -2,219 +2,90 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 6, 2021 at 00:30:30 EDT_
+_Last Update: July 6, 2021 at 01:00:31 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-2137894 Ballmastrz: 9009: 1  
-2143080 Black Clover: 1  
-2022095 Black Jesus: 1  
-2003422 Bob's Burgers: 1  
-680051 Delocated: 1  
-440990 Family Guy: 1  
-2007823 Infomercials: 1  
-2161118 Joe Pera Talks With You: 1  
-### 748147
-**American Dad S07E07 - Season's Beatings**  
-TV-14 🔒 21:49  
-⌛ July 12, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/seasons-beatings  
-seriesid=`581006` titleid=`748147` id=`AjSA6QCBTaestbT3jfTvEw` mediaid=`7ce8c751a1d19a487a08d15f9a114266c52377db`  
-_When a play about the life of Jesus Christ turns into a brutal battle between Stan and Roger, Stan is excommunicated from the Christian church; Hayley and Jeff adopt an infant son whom Stan believes is the Antichrist._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450618798892.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450618798892.jpg" height="144px" /></a>
-### 748162
-**American Dad S07E06 - The Scarlett Getter**  
-TV-14-DLSV 🔒 21:49  
-⌛ July 12, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-scarlett-getter  
-seriesid=`581006` titleid=`748162` id=`Q4ofrtK9S8KnMsk2dPK5PA` mediaid=`224e43932c8ac344c3836d77c11f24ce1bd2d857`  
-_Francine is disgusted when Stan reestablishes contact with a crush from CIA boot camp; Bullock hires a bounty hunter to capture Roger; Steve wears Hayley's panties after concluding they bring him luck._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464893328814.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464893328814.jpg" height="144px" /></a>
-### 2199781
-**Ballmastrz: 9009 S02E08 - Dance Dance Convolution?! Egos Warped by the Hair Gel of Hubris! Atonement, NOW!**  
-TV-14-DLV 🔓 11:13  
+581268 Squidbillies: 5  
+### 2108975
+**Squidbillies S12E01 - Forever Autumn**  
+TV-14-DLV 🔒 11:10  
+⌛ July 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/forever-autumn  
+seriesid=`581268` titleid=`2108975` id=`AWxx0Cuq4aLemgzOLGIh` mediaid=`f407fd33252996fc291bc389fab5823298b237b6`  
+_Dan Halen's foolish new plan prompts Early to open a foolish new business._  
+<a href="https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119139-squidbillies_1001_dup-20190807.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119139-squidbillies_1001_dup-20190807.jpg" height="144px" /></a>
+### 2092363
+**Squidbillies S10E07 - Greener Pastor**  
+TV-14-DLV 🔒 11:08  
+⌛ July 19, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/greener-pastor  
+seriesid=`581268` titleid=`2092363` id=`l82-E1BDSnqnnrdlvOV61Q` mediaid=`fb413ba6455eca7814626d78e04b2c1de91fa396`  
+_Rest in Peace, Scott Hilley._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149527-squidbillies_907_dup-20160819.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149527-squidbillies_907_dup-20160819.jpg" height="144px" /></a>
+### 798533
+**Squidbillies S05E01 - The Need For Weed**  
+TV-MA 🔒 11:48  
+⌛ July 26, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/the-need-for-weed  
+seriesid=`581268` titleid=`798533` id=`kARCeUnjS76Vr0Dq-eBReA` mediaid=`438482f7e06a96a694bbab1622bccc0d42a50f17`  
+_The discovery of Lil's secret drug operation brings widespread panic to Dougal County._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131315185-squidbillies_055_dst_cid-RTMR.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131315185-squidbillies_055_dst_cid-RTMR.jpg" height="144px" /></a>
+### 859429
+**Squidbillies S06E10 - Trucked Up!**  
+TV-14-LV 🔒 11:29  
+⌛ July 19, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/trucked-up  
+seriesid=`581268` titleid=`859429` id=`TcVCxW7tR1-y0foBaHZbwA` mediaid=`82a370412e12c56b6d6f8a68160b1d840f7bb04e`  
+_On a transatlantic trucker challenge, The Scrambler and The Mummy get in high gear and hot water!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131325196-squidbillies_510_dup-20111111.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131325196-squidbillies_510_dup-20111111.jpg" height="144px" /></a>
+### 705872
+**Squidbillies S03E04 - Wing Nut**  
+TV-MA 🔓 11:15  
 ⌛ August 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ballmastrz-9009/dance-dance-convolution-egos-warped-by-the-hair-gel-of-hubris-atonement-now  
-seriesid=`2137894` titleid=`2199781` id=`AW8U066k3HMJfT8do6gB` mediaid=`0f52a2462580bd489c58b450b7fb235f3a30cb8e`  
-_A smooth-talking manager molds Ace into a popstar and Ace-mania takes the consortium by storm._  
-<a href="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217126508-ballmastrz9009_208_dup-20191105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217126508-ballmastrz9009_208_dup-20191105.jpg" height="144px" /></a>
-### 2159461
-**Black Clover S01E28 - The One I've Set My Heart On**  
-TV-PG 🔒 22:42  
-⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-one-ive-set-my-heart-on  
-seriesid=`2143080` titleid=`2159461` id=`AWP1elWTqBveI_0AhKmD` mediaid=`ca54329529a76b733869a4648de76312f9a8f1b8`  
-_To celebrate a well-deserved break, Finral puts together a mixer for a select few of the Black Bulls. But he has trouble deciding whom to invite! Is anyone in the worst Magic Knight squad normal enough to go??_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308239710016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308239710016.jpg" height="144px" /></a>
-### 2160587
-**Black Jesus S03E06 - The Compton Crusader**  
-TV-MA-L 🔓 19:48  
-⌛ August 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-jesus/the-compton-crusader  
-seriesid=`2022095` titleid=`2160587` id=`AW2EUzNiadNs2hMNfuIq` mediaid=`03c8b8f4184c96503e65330a77e532ceaaceae46`  
-_There's a vigilante in Southwest Compton, and he's taken matters into his own hands.  Jesus has to stop him before he goes too far._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171871-blackjesus_306_air_cid-3HCRK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171871-blackjesus_306_air_cid-3HCRK.jpg" height="144px" /></a>
-### 2003516
-**Bob's Burgers S03E05 - An Indecent Thanksgiving Proposal**  
-TV-14 🔒 21:34  
-⌛ July 12, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/an-indecent-thanksgiving-proposal  
-seriesid=`2003422` titleid=`2003516` id=`sldYo92OShixZ1NZiHNN_g` mediaid=`3287169512e681455e84ed24a9a08fe6f57ff57a`  
-_Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg" height="144px" /></a>
-### 878912
-**Delocated S03E05 - Warm-Up**  
-TV-14-DL 🔓 21:37  
-⌛ August 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/delocated/warm-up  
-seriesid=`680051` titleid=`878912` id=`0mDL-ogPTCS9azRCMJiS9w` mediaid=`d3b35484e19bf925deb008aa81663b8f7d9bafad`  
-_"Jon" hires a warm-up comic for his life. Yvgeny prepares to start his vodka business._  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331447399-delocated_305.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331447399-delocated_305.jpg" height="144px" /></a>
-### 2064592
-**Family Guy S14E19 - Run, Chris, Run**  
-TV-14-DLSV 🔒 21:39  
-⌛ July 12, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/run-chris-run  
-seriesid=`440990` titleid=`2064592` id=`9JNZS0FERVyZN0IhbBTxog` mediaid=`b5fd89267b8d68cd1c056433dea3db4e421e9bc3`  
-_Chris decides to run for homecoming king and, to the surprise of everyone, wins! Lois, Brian, and Stewie fear that Chris's classmates only voted for him in order to pull a prank on him at the dance._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/run-chris-run/familyguy_1317_air_cid-2YN67.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/run-chris-run/familyguy_1317_air_cid-2YN67.jpg" height="144px" /></a>
-### 2134721
-**Infomercials S07E04 - Cool Dad - Official Trailer**  
-TV-14 🔓 11:17  
-⌛ August 2, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/cool-dad-official-trailer  
-seriesid=`2007823` titleid=`2134721` id=`AWPMWkOrTdxzjxdCmQjn` mediaid=`200082e3383f4d65ba0e80e5559f73c64a59ef1d`  
-_Dreambow Entertainment Home Video presents "Cool Dad" and other fun fantasy-comedies for the whole family coming soon to videocassette!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152840392707715.png"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152840392707715.png" height="144px" /></a>
-### 2214311
-**Joe Pera Talks With You S02E06 - Joe Pera Goes to Dave Wojcek's Bachelor Party with You**  
-TV-14-DL 🔓 11:14  
-⌛ August 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-goes-to-dave-wojceks-bachelor-party-with-you  
-seriesid=`2161118` titleid=`2214311` id=`AW8QZBYtGRcVO2K2pl8p` mediaid=`ba5d014505640eff3a9f34081af3ea01fb60f007`  
-_Joe Pera and you bring a big cooler to a bachelor party in the woods._  
-<a href="https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_1912161526112-joeperatalks_206_dup-20191114.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_1912161526112-joeperatalks_206_dup-20191114.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/squidbillies/wing-nut  
+seriesid=`581268` titleid=`705872` id=`j2Fp7s_ES0Wdgcokaca-jA` mediaid=`7311035ae86dd630707fcebb0f6e0b9b17e7803e`  
+_Early's DNA is finally put to good use._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413112115-squidbillies_024_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413112115-squidbillies_024_bim.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-2022095 Black Jesus: 1  
-2137894 Ballmastrz: 9009: 1  
-2143080 Black Clover: 4  
-2161118 Joe Pera Talks With You: 1  
-440990 Family Guy: 1  
-581006 American Dad: 2  
-618253 12 oz Mouse: 1  
-680051 Delocated: 1  
-### 2003438
-**Bob's Burgers S02E03 - Synchronized Swimming**  
-TV-PG 🔒 21:11  
+581268 Squidbillies: 5  
+### 2108972
+**Squidbillies S11E08 - Duel of the Dimwits**  
+TV-MA 🔒 11:16  
 ⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/synchronized-swimming  
-seriesid=`2003422` titleid=`2003438` id=`xE1hMOE6RlmxEfBUPcg2Uw` mediaid=`5edd083a7651f8439bee704d19cd702f4269fd3f`  
-_The kids con their way out of gym class with a bogus synchronized swimming independent study. Meanwhile, Bob welcomes a new soft serve ice cream machine to the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148415474414.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148415474414.jpg" height="144px" /></a>
-### 2086423
-**Infomercials S06E02 - M.O.P.Z.**  
-TV-14-LSV 🔒 11:14  
+https://www.adultswim.com/videos/squidbillies/duel-of-the-dimwits  
+seriesid=`581268` titleid=`2108972` id=`AWAVsnhlZ-onAnjDLtVd` mediaid=`23f9e55fd98bc98bfc87e8906e66d2b4ad40f8cf`  
+_Two idiots argue about stuff nobody cares about._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg" height="144px" /></a>
+### 2092361
+**Squidbillies S10E05 - Vicki**  
+TV-14-DLSV 🔒 11:12  
 ⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/m-o-p-z  
-seriesid=`2007823` titleid=`2086423` id=`AXRKKGXYSeFB2d0c38uE` mediaid=`4efbd1397adb7db6e0ae5e60c008b3131d98f133`  
-_A lazy janitor builds a robot to do his dirty work._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921511189-infomercials_mopz_1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921511189-infomercials_mopz_1.jpg" height="144px" /></a>
-### 2065415
-**Black Jesus S02E07 - Thy Neighbor's Strife**  
-TV-MA-L 🔒 21:06  
+https://www.adultswim.com/videos/squidbillies/vicki  
+seriesid=`581268` titleid=`2092361` id=`G5O8qLMrRROS5UgDBuZqrg` mediaid=`17f21249e8d4c8ec65e56f22b8a8e24ba01b67cb`  
+_Sheriff's old classmate makes the mistake of returning to town._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141140443-squidbillies_904_dup-20160726.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141140443-squidbillies_904_dup-20160726.jpg" height="144px" /></a>
+### 758318
+**Squidbillies S04E08 - God's Bro**  
+TV-MA 🔒 11:14  
 ⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-jesus/thy-neighbors-strife  
-seriesid=`2022095` titleid=`2065415` id=`eBJ_D4zyS12ylAvRjqZjtA` mediaid=`5a8c8c0123642a781167fcf18e02d00b77544498`  
-_Vic plunges into sin courtesy of Lloyd's estranged wife. Meanwhile, the gang shoots a music video for Boonie's latest track, "Side Bitches"._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261713189-blackjesus_206_dup-20151013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261713189-blackjesus_206_dup-20151013.jpg" height="144px" /></a>
-### 2137900
-**Ballmastrz: 9009 S01E04 - To Catch a Princess**  
-TV-14-D 🔒 10:54  
+https://www.adultswim.com/videos/squidbillies/gods-bro  
+seriesid=`581268` titleid=`758318` id=`IPyoBm48Q16H5MTGMlCjmQ` mediaid=`17ff5579f899cdc830ff27e1c50b53024db65ee8`  
+_The Cuylers slip the surly bonds of earth and touch the face of God's Bro._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413122188-squidbillies_048_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413122188-squidbillies_048_bim.jpg" height="144px" /></a>
+### 859427
+**Squidbillies S06E08 - The Pharaoh's Wad**  
+TV-14-LV 🔒 10:59  
 ⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ballmastrz-9009/to-catch-a-princess  
-seriesid=`2137894` titleid=`2137900` id=`AWKxDqD4TdxzjxdClVoT` mediaid=`fc5c4c0499c3d33f0e19bb296959bb4f40503a00`  
-_Ace's online obsession arouses the interest of a mysterious video game vixen._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15236469714832.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15236469714832.jpg" height="144px" /></a>
-### 2159459
-**Black Clover S01E26 - Wounded Beasts**  
-TV-PG-V 🔒 22:10  
-⌛ July 5, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/wounded-beasts  
-seriesid=`2143080` titleid=`2159459` id=`AWOJe8TpHAeP4-pUPfZf` mediaid=`92b07f3c53da12737bf125e12af0ddda222179cb`  
-_Surrounded by mysterious hooded figures, Asta and Leopold attempt to keep them at bay—but their numbers are too high. Even when the Magic Knights reappear, it's not enough to keep them from capturing Asta and getting away!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295051883812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295051883812.jpg" height="144px" /></a>
-### 2159460
-**Black Clover S01E27 - Light**  
-TV-PG-L 🔒 22:12  
-⌛ July 5, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/light  
-seriesid=`2143080` titleid=`2159460` id=`AWOJezSDTdxzjxdCmC3z` mediaid=`87176f00a59fefba95bf91bb52f562e841a31b08`  
-_After an encounter with the Eye of the Midnight Sun, Asta returns to the kingdom with the Wizard King to heal himself up. Fuegoleon is still alive but unconscious, and everyone works to secure the kingdom and return things to normal._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968183618617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968183618617.jpg" height="144px" /></a>
-### 2159462
-**Black Clover S01E29 - Path**  
-TV-14-V 🔒 22:12  
-⌛ July 5, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/path  
-seriesid=`2143080` titleid=`2159462` id=`AWP1eZGQTdxzjxdCmZKU` mediaid=`9bf69e9b827e61b0497349ddb1c4c8ed2116614f`  
-_Asta and Yuno are working hard to make their dreams of becoming the Wizard King a reality. Though their journey hasn't been easy, they've certainly learned a lot! As they follow their path onward—what other tests await them?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153089999825318.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153089999825318.jpg" height="144px" /></a>
-### 2159463
-**Black Clover S01E30 - The Mirror Mage**  
-TV-14-D 🔒 20:48  
-⌛ July 5, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/the-mirror-mage  
-seriesid=`2143080` titleid=`2159463` id=`AWRhbwq2TdxzjxdCmvP1` mediaid=`cef8cddab69826ecc4468c11c1700d091dab0102`  
-_On their day off, Asta and Gauche wind up in the same village. After threatening Asta for winning his beloved sister's adoration, Gauche seeks to destroy him. But their tiff is interrupted when the children of the village go missing!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15318536163786.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15318536163786.jpg" height="144px" /></a>
-### 2161122
-**Joe Pera Talks With You S01E04 - Joe Pera Shows You How to Dance**  
-TV-PG-D 🔒 11:17  
+https://www.adultswim.com/videos/squidbillies/the-pharaohs-wad  
+seriesid=`581268` titleid=`859427` id=`K2dDfpWVTN2UI4K8A215ow` mediaid=`2947b72ddf13ed9f6fb3a483feac6fe25a642bb1`  
+_Scoot over, alcohol and inhalants, Early has a new addiction._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131324352-squidbillies_508_dup-20111025.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131324352-squidbillies_508_dup-20111025.jpg" height="144px" /></a>
+### 659967
+**Squidbillies S02E13 - A Sober Sunday**  
+TV-14-LV 🔓 11:20  
 ⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-shows-you-how-to-dance  
-seriesid=`2161118` titleid=`2161122` id=`AWN0zsOrTdxzjxdCl-u5` mediaid=`72f17e661ce44521fa26bcc84b94eda53488ec26`  
-_In which Joe Pera attempts to show viewers how to properly dance by yourself at a co-worker's wedding._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351635462-joeperatalks_104_air_cid-3FX93.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351635462-joeperatalks_104_air_cid-3FX93.jpg" height="144px" /></a>
-### 809141
-**Family Guy S09E04 - Halloween on Spooner Street**  
-TV-14-DLSV 🔓 21:46  
-⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/halloween-on-spooner-street  
-seriesid=`440990` titleid=`809141` id=`DOUu7FVuTXWkMchtoOND1A` mediaid=`97a543ab8d85512b90633ed9b856bbf5c3072944`  
-_On Halloween, Stewie plots revenge after his candy is taken away by bullies; Meg determines to use a Halloween disguise as a means of hooking up with a boy; Peter and Joe target Quagmire for Halloween pranks._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154082796141412.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154082796141412.jpg" height="144px" /></a>
-### 822210
-**American Dad S06E08 - For Whom The Sleigh Bell Tolls**  
-TV-14-DLSV 🔒 21:47  
-⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/for-whom-the-sleigh-bell-tolls  
-seriesid=`581006` titleid=`822210` id=`LOh0dl-4Qr-3BCv_yUA-dQ` mediaid=`b3275b1ecf2000f2ba2f648be1e46bff9a2d512a`  
-_Stan decides to finally give Steve a gun for Christmas and is horrified when Steve accidentally shoots a Mall Santa._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg" height="144px" /></a>
-### 822211
-**American Dad S06E09 - Fartbreak Hotel**  
-TV-14 🔒 21:47  
-⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fartbreak-hotel  
-seriesid=`581006` titleid=`822211` id=`LeYJBjZiTAG-DniHWsx1TA` mediaid=`5655178c8ae88f45cf628c343d530e3a58cdfc14`  
-_When Roger releases lethal gas into the Smith residence, the family moves into a hotel while the fumes clear._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg" height="144px" /></a>
-### 2224146
-**12 oz Mouse S03E10 - Final Beginning**  
-TV-14-LV 🔒 11:14  
-⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/12-oz-mouse/final-beginning  
-seriesid=`618253` titleid=`2224146` id=`AXNeswbcC8QgH-t19KA0` mediaid=`cc4f742fe274766e9ed3f8de18c405dff22656b7`  
-_In this season finale, Industry Man and his Clock persona are destroyed but who really holds the key to the powerful Box of Worlds?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171734139-12oz_310_dup-20200708.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171734139-12oz_310_dup-20200708.jpg" height="144px" /></a>
-### 811365
-**Delocated S02E07 - Kim's Krafts**  
-TV-14 🔓 22:25  
-⌛ July 5, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/delocated/kims-krafts  
-seriesid=`680051` titleid=`811365` id=`UlkjroH9SG6r9bhFIcatDg` mediaid=`17e89e856d0a81e6cc62694056cb9e5b749970b5`  
-_Kim opens her own crafts store._  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033144249-delocated_207.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033144249-delocated_207.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/squidbillies/a-sober-sunday  
+seriesid=`581268` titleid=`659967` id=`Z0RnxhSXS6K5rOt0W8eCpA` mediaid=`f40679c28bdd20a0c0dd91f255d72ecd6d5a39ce`  
+_Early circumvents state law._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131117249-squidbillies_019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131117249-squidbillies_019.jpg" height="144px" /></a>
