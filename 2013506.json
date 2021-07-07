@@ -6167,6 +6167,57 @@
     {
         "auth_expiration_date": null,
         "tms_id": "",
+        "description": "This is no mirage. 10 new episodes of Rick and Morty begin June 20.",
+        "title_suggest": {
+            "input": [
+                "Official Trailer #3: Rick and Morty Season 5",
+                "Trailer #3: Rick and Morty Season 5",
+                "#3: Rick and Morty Season 5",
+                "Rick and Morty Season 5",
+                "and Morty Season 5",
+                "Morty Season 5",
+                "Season 5",
+                "5"
+            ]
+        },
+        "title": "Official Trailer #3: Rick and Morty Season 5",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 96.107,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "medb4665c7def597c38b56c8bc93b0de5cc19e5f36",
+        "modified": 1625673020,
+        "slug": "official-trailer-3-rick-and-morty-season-5",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210521/thumbnails/1_215211921488-RAM_S5_Phase3_Dated_96sec_16x9.png",
+        "created": 1621639323,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1625673020,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1621747200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210521/thumbnails/2_215211921488-RAM_S5_Phase3_Dated_96sec_16x9.png",
+        "id": "AXmRPF2gBH5Z6gH5aWRA",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
         "description": "The new season of Rick and Morty will launch from a truly extraordinary altitude. For a visual experience like no other, tune in for the season 5 premiere only on Adult Swim.",
         "title_suggest": {
             "input": [
