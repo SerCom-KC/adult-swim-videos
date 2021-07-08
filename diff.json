@@ -1,59 +1,7 @@
 {
-    "updated": 1625725521,
-    "added": [
-        {
-            "ott_launch_date": null,
-            "auth": true,
-            "auth_expiration_date": 1626148799,
-            "tms_id": "EP027937620037",
-            "description": "Licht, leader of the Eye of the Midnight Sun appears, and right as it seems all hope is lost\u2014Yami arrives! Sword in hand, he stands against Licht. Finally, the captain of the Black Bulls shows off his immense powers!",
-            "title_suggest": {
-                "input": [
-                    "Light Magic vs. Dark Magic",
-                    "Magic vs. Dark Magic",
-                    "vs. Dark Magic",
-                    "Dark Magic",
-                    "Magic"
-                ]
-            },
-            "expiration_date": 1537192800,
-            "type": "episode",
-            "title": "Light Magic vs. Dark Magic",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1353.63,
-            "episode_number": "34",
-            "original_air_date": 1534051800,
-            "auth_launch_date": 1616472000,
-            "clip_order": null,
-            "media_id": "9efeb69382ff749ccf7f2022bdf8397e19ab227c",
-            "modified": 1625725304,
-            "airing_id": "RADS1003222100083615",
-            "id": "AWTstA7gTdxzjxdCnMU3",
-            "slug": "light-magic-vs-dark-magic",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153417065538615.jpg",
-            "created": 1532979580,
-            "season_number": "1",
-            "title_id": "2159467",
-            "tv_rating": "tv-14-v",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1625725304,
-            "tags": [],
-            "collection_title": "Black Clover",
-            "modified_by": "ODT Listener",
-            "launch_date": 1536069600,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417065538615.jpg",
-            "collection_slug": "black-clover",
-            "collection_title_id": "2143080",
-            "online_exclusives": false
-        },
+    "updated": 1625728159,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
             "auth": true,
@@ -106,6 +54,5 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
