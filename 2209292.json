@@ -44,7 +44,7 @@
         "launch_date": 1625716800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191012/thumbnails/2_1910121129314-DemonSlayer_001.jpg",
         "id": "AW28AefxadNs2hMNfuSd",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -292,18 +292,18 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1624507140,
-        "tms_id": "EP033351550025",
-        "description": "Tanjiro endures rigorous training and struggles to reclaim control of his Total Concentration Breathing. Wax on, wax off.",
+        "ott_launch_date": null,
+        "auth_expiration_date": 1629345540,
+        "tms_id": "",
+        "description": "And then there were three. Tanjiro, backed into a corner, is saved by Nezuko and follows the demons to their swamp.",
         "title_suggest": {
             "input": [
-                "Tsuguko, Kanao Tsuyuri",
-                "Kanao Tsuyuri",
-                "Tsuyuri"
+                "Muzan Kibutsuji",
+                "Kibutsuji"
             ]
         },
-        "title": "Tsuguko, Kanao Tsuyuri",
-        "expiration_date": 1625716740,
+        "title": "Muzan Kibutsuji",
+        "expiration_date": 1614833940,
         "type": "episode",
         "platforms": [
             "android",
@@ -312,30 +312,32 @@
             "fire-tv"
         ],
         "collection_id": "AW2OS1BT1YiBSfg0KXc4",
-        "duration": 1255.3541,
-        "episode_number": "25",
-        "original_air_date": "1587875400",
-        "auth_launch_date": 1620878400,
+        "duration": 1256.0881,
+        "episode_number": "7",
+        "original_air_date": 1574577000,
+        "auth_launch_date": 1625716800,
         "clip_order": null,
-        "airing_id": "RADS1006182100006988",
-        "media_id": "1dbc5f58f9d196809b73769fcfa635c53f269970",
-        "modified": 1624085843,
-        "slug": "tsuguko-kanao-tsuyuri",
+        "media_id": "db1bf71c08856d2266bf3016dd86cc99f3e322c3",
+        "modified": 1625295810,
+        "airing_id": "RADS1007022100010699",
+        "slug": "muzan-kibutsuji",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/1_204231035435-DemonSlayer_025.jpg",
-        "created": 1587652561,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191111/thumbnails/1_1911111540513-DemonSlayer_007.jpg",
+        "created": 1573504859,
         "season_number": "1",
-        "title_id": "2209317",
-        "tv_rating": "tv-14-lv",
-        "published": 1624085843,
+        "title_id": "2209299",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1625295810,
         "tags": [],
         "collection_title": "Demon Slayer",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1624507200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231035435-DemonSlayer_025.jpg",
-        "id": "AXGnd4wiC8QgH-t19IVu",
-        "auth": false
+        "launch_date": 1613624400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191111/thumbnails/2_1911111540513-DemonSlayer_007.jpg",
+        "id": "AW5cMr7BadNs2hMNfudw",
+        "auth": true
     },
     {
         "auth_expiration_date": 1625111940,
