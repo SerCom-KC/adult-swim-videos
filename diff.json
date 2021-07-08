@@ -1,6 +1,112 @@
 {
-    "updated": 1625725831,
+    "updated": 1625729428,
     "added": [
+        {
+            "ott_launch_date": null,
+            "auth": true,
+            "auth_expiration_date": 1626148799,
+            "tms_id": "EP027937620038",
+            "description": "Yami and Licht face off in a fierce battle of Dark and Light Magic! Meanwhile, Asta tests his new ability to sense qi to face Valtos. But is the power of two Black Bulls enough to take these powerful foes down?",
+            "title_suggest": {
+                "input": [
+                    "The Light of Judgment",
+                    "Light of Judgment",
+                    "of Judgment",
+                    "Judgment"
+                ]
+            },
+            "expiration_date": 1537797600,
+            "type": "episode",
+            "title": "The Light of Judgment",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AV-7K77EZ-onAnjDLtBM",
+            "duration": 1303.1,
+            "episode_number": "35",
+            "original_air_date": 1534656600,
+            "auth_launch_date": 1616472000,
+            "clip_order": null,
+            "media_id": "574858d164107726fae57f5f0477f62db099bf34",
+            "modified": 1625728308,
+            "airing_id": "RADS1003222100083618",
+            "id": "AWTstG9JTdxzjxdCnMU6",
+            "slug": "the-light-of-judgment",
+            "exclude_from_search": false,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153452555042311.jpg",
+            "created": 1532979605,
+            "season_number": "1",
+            "title_id": "2159468",
+            "tv_rating": "tv-pg-v",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1625728308,
+            "tags": [],
+            "collection_title": "Black Clover",
+            "modified_by": "ODT Listener",
+            "launch_date": 1536588000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153452555042311.jpg",
+            "collection_slug": "black-clover",
+            "collection_title_id": "2143080",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "ott_launch_date": null,
+            "auth": true,
+            "auth_expiration_date": 1626148799,
+            "tms_id": "EP027937620036",
+            "description": "Gauche rushes off with Marie, leaving Asta and Sister Theresa to fight Sally and her Earth monster. But, after an encouraging peptalk, Gauche reconsiders his methods and teams up with Asta for a powerful new spell!",
+            "title_suggest": {
+                "input": [
+                    "To Help Somebody Someday",
+                    "Help Somebody Someday",
+                    "Somebody Someday",
+                    "Someday"
+                ]
+            },
+            "expiration_date": 1536588000,
+            "type": "episode",
+            "title": "To Help Somebody Someday",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AV-7K77EZ-onAnjDLtBM",
+            "duration": 1277.63,
+            "episode_number": "33",
+            "original_air_date": 1533447000,
+            "auth_launch_date": 1616472000,
+            "clip_order": null,
+            "media_id": "a5e4e65067ef1950ab139d7df187b39d408627a4",
+            "modified": 1625725303,
+            "airing_id": "RADS1003222100083635",
+            "id": "AWSkVVOrqBveI_0AhK4_",
+            "slug": "to-help-somebody-someday",
+            "exclude_from_search": false,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153332103898919.jpg",
+            "created": 1531765412,
+            "season_number": "1",
+            "title_id": "2159466",
+            "tv_rating": "tv-14-dlv",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1625725303,
+            "tags": [],
+            "collection_title": "Black Clover",
+            "modified_by": "ODT Listener",
+            "launch_date": 1535378400,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153332103898919.jpg",
+            "collection_slug": "black-clover",
+            "collection_title_id": "2143080",
+            "online_exclusives": false
+        },
         {
             "ott_launch_date": null,
             "auth": true,
@@ -53,59 +159,6 @@
             "collection_slug": "black-clover",
             "collection_title_id": "2143080",
             "online_exclusives": false
-        },
-        {
-            "ott_launch_date": null,
-            "auth": true,
-            "auth_expiration_date": 1626148799,
-            "tms_id": "EP027937620036",
-            "description": "Gauche rushes off with Marie, leaving Asta and Sister Theresa to fight Sally and her Earth monster. But, after an encouraging peptalk, Gauche reconsiders his methods and teams up with Asta for a powerful new spell!",
-            "title_suggest": {
-                "input": [
-                    "To Help Somebody Someday",
-                    "Help Somebody Someday",
-                    "Somebody Someday",
-                    "Someday"
-                ]
-            },
-            "expiration_date": 1536588000,
-            "type": "episode",
-            "title": "To Help Somebody Someday",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1277.63,
-            "episode_number": "33",
-            "original_air_date": 1533447000,
-            "auth_launch_date": 1616472000,
-            "clip_order": null,
-            "media_id": "a5e4e65067ef1950ab139d7df187b39d408627a4",
-            "modified": 1625725303,
-            "airing_id": "RADS1003222100083635",
-            "id": "AWSkVVOrqBveI_0AhK4_",
-            "slug": "to-help-somebody-someday",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153332103898919.jpg",
-            "created": 1531765412,
-            "season_number": "1",
-            "title_id": "2159466",
-            "tv_rating": "tv-14-dlv",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1625725303,
-            "tags": [],
-            "collection_title": "Black Clover",
-            "modified_by": "ODT Listener",
-            "launch_date": 1535378400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153332103898919.jpg",
-            "collection_slug": "black-clover",
-            "collection_title_id": "2143080",
-            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
