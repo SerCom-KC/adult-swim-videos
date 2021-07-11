@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 11, 2021 at 06:00:30 EDT_
+_Last Update: July 11, 2021 at 06:30:29 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-### 2277533
-**Black Clover S04E04 - The Beginning of Hope and Despair**  
-TV-PG 🔒 22:21  
-⌛ August 1, 2021 at 05:29:00 EDT  
-https://www.adultswim.com/videos/black-clover/the-beginning-of-hope-and-despair  
-seriesid=`2143080` titleid=`2277533` id=`AXqG_sAEBH5Z6gH5aWXy` mediaid=`e7eb8168894825ed41a55293f6884b2c98365713`  
-_The newly trained Magic Knights spring into action to save exploited villagers in a Spade Kingdom fortress as it approaches the Heart Kingdom border._  
-<a href="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791112483-BlackClover_158_TheBeginningOfHopeAndDespair.png"><img src="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791112483-BlackClover_158_TheBeginningOfHopeAndDespair.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177778
+**Naruto: Shippuden S07E01 - Kakashi: Shadow of the ANBU Black Ops - A Mask That Hides the Heart**  
+TV-PG 🔒 21:53  
+⌛ October 24, 2021 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-a-mask-that-hides-the-heart  
+seriesid=`812206` titleid=`2177778` id=`AXp868JuBH5Z6gH5aWXs` mediaid=`d8cba5052c4fc02d49a3e33a6aeda9ce468dde31`  
+_After the end of the Third Great Ninja War, the Leaf Village is divided over who should become the next Hokage._  
+<a href="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_2179111493-NarutoShippuden_349_KakashiShadowOfTheANBUBlackOpsAMaskThatHidesTheHeart.png"><img src="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_2179111493-NarutoShippuden_349_KakashiShadowOfTheANBUBlackOpsAMaskThatHidesTheHeart.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
