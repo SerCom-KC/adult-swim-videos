@@ -2,126 +2,126 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 10, 2021 at 00:30:31 EDT_
+_Last Update: July 11, 2021 at 00:30:30 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 3  
 2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
-### 748155
-**American Dad S07E15 - Less Money, Mo' Problems**  
-TV-14 🔒 21:47  
-⌛ July 16, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/less-money-mo-problems  
-seriesid=`581006` titleid=`748155` id=`VJ3Hn0o-TJGGdvSs9gjJSQ` mediaid=`72d9141ef39d2454e02846452ec757824bdbd37f`  
-_Stan bets Jeff and Hayley that he and Fran can live on minimum wage for one month; Roger and Steve test-drive a Ferrari after Klaus brags about having driven one._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312555106302.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312555106302.jpg" height="144px" /></a>
-### 748178
-**American Dad S07E17 - Ricky Spanish**  
+### 748205
+**American Dad S08E02 - Killer Vacation**  
+TV-14 🔒 21:31  
+⌛ July 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/killer-vacation  
+seriesid=`581006` titleid=`748205` id=`juVILvcHT26X_LnoZDUPng` mediaid=`4f5e13fac3001a1b41d62ea34f91ae07af584972`  
+_The Smith family's tropical vacation turns out to be anything but relaxing when Stan is assigned a mission to kill the activities director at their resort, whom his boss at the CIA insists is an ex-war criminal.  Meanwhile, Hayley (Rachael MacFarlane) and Jeff (Jeff Fischer) try to rekindle their fading romance, while Roger, as his latest persona, Abigail Lemonparty, falls for an older gentleman._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15313269196097.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15313269196097.jpg" height="144px" /></a>
+### 748203
+**American Dad S08E01 - Love American Dad Style**  
+TV-14 🔒 21:31  
+⌛ July 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/love-american-dad-style  
+seriesid=`581006` titleid=`748203` id=`JSI3gl09T1uuWRctY7mIcQ` mediaid=`4495a5a8d965decee3a99f3eeda187ce76229713`  
+_Roger (Seth MacFarlane) opens a crooner's bar in the Smith family's attic and recruits Hayley (Rachael MacFarlane) as his main entertainer. Soon, all of Langley Falls becomes enthralled by her singing voice - including Roger, who takes his crush on Hayley a bit too far. Meanwhile, Stan tries to prove his manhood by negotiating a good deal on a new car._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180320126392.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180320126392.jpg" height="144px" /></a>
+### 748177
+**American Dad S07E18 - Toy Whorey**  
 TV-14 🔒 21:32  
-⌛ July 16, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ricky-spanish  
-seriesid=`581006` titleid=`748178` id=`kr-W66nzTjGoQeoeLzG0GQ` mediaid=`37c21def8464ff30b255352e31b6f2ef6d1df1bf`  
-_Steve convinces Roger to redeem his most hated and disgusting persona, Ricky Spanish, while Stan and Francine get a visit from the Nigerian boy they once sponsored._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999410931.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999410931.jpg" height="144px" /></a>
-### 748148
-**American Dad S07E16 - The Kidney Stays in the Picture**  
-TV-14 🔒 21:32  
-⌛ July 16, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-kidney-stays-in-the-picture  
-seriesid=`581006` titleid=`748148` id=`sTSE8UtsR-2jevsQN9g64Q` mediaid=`878f6a870982c662faaa2c8bbf8765fe847a071c`  
-_When Hayley experiences kidney failure, Stan and Fran travel into the past to find the man who may be Hayley's real father._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999137965.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15308999137965.jpg" height="144px" /></a>
-### 2003521
-**Bob's Burgers S03E10 - Mother Daughter Laser Razor**  
-TV-PG 🔒 21:30  
-⌛ July 16, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/mother-daughter-laser-razor  
-seriesid=`2003422` titleid=`2003521` id=`RNMHcG_NQnaimkMIInNOHA` mediaid=`ec0c202d5a8f2ae074e11c7fb693c3ecec6e033a`  
-_Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg" height="144px" /></a>
-### 2003522
-**Bob's Burgers S03E11 - Nude Beach**  
-TV-14 🔒 21:33  
-⌛ July 16, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/nude-beach  
-seriesid=`2003422` titleid=`2003522` id=`-iEHRbHnQaKmCbMl2ZZQeQ` mediaid=`4d479a4000b4c5f006811ad5bb56110aedb5ec29`  
-_Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg" height="144px" /></a>
-### 846686
-**Family Guy S09E17 - Foreign Affairs**  
-TV-14-DLSV 🔒 21:37  
-⌛ July 16, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/foreign-affairs  
-seriesid=`440990` titleid=`846686` id=`GGjPthZ5T82uDo5Jbe3j5Q` mediaid=`f1f797e169e4146a401349fd027ca60a3c270b9d`  
-_Lois and Bonnie travel to Paris, where Bonnie has an affair with a Frenchman in a wheelchair; Peter decides to home school Meg and Chris._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152053923346114.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152053923346114.jpg" height="144px" /></a>
-### 849586
-**Family Guy S09E18 - It's a Trap Part 1 & 2**  
-TV-14 🔒 43:35  
-⌛ July 16, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/its-a-trap-part-1-2  
-seriesid=`440990` titleid=`849586` id=`j6cQXeQtS8SsO8f_PfstXQ` mediaid=`ee0a8589f85607508cc6ad0a689f7b60d5b8b17b`  
-_The Trilogy comes full circle in this parody of Star Wars Episode VI: The Return of the Jedi._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214848807806.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214848807806.jpg" height="144px" /></a>
+⌛ July 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/toy-whorey  
+seriesid=`581006` titleid=`748177` id=`ZNMqjxtWQuyD18K1WVC6cA` mediaid=`0568a7b4fcbb7fff1ac95d4f6dcb5a513d5a4c34`  
+_Stan wants Steve to stop playing with toys and be a man, so he brings Steve to Mexico to make love to a prostitute; Roger attempts to retrieve a bottle of wine from Terry and Greg._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312479901537.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312479901537.jpg" height="144px" /></a>
+### 2003523
+**Bob's Burgers S03E12 - Broadcast Wagstaff School News**  
+TV-PG 🔒 21:21  
+⌛ July 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/broadcast-wagstaff-school-news  
+seriesid=`2003422` titleid=`2003523` id=`3adw46_sRxC-g9TyOb1S4g` mediaid=`be966cc7c474aa02e26265d58d7bfe21786f3bdc`  
+_There is a "Mad Pooper" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the "bottom" of the situation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg" height="144px" /></a>
+### 2003524
+**Bob's Burgers S03E13 - My Fuzzy Valentine**  
+TV-14 🔒 21:29  
+⌛ July 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/my-fuzzy-valentine  
+seriesid=`2003422` titleid=`2003524` id=`sydZJtJDRU-O5iH5LCk0GQ` mediaid=`bee43522f30b692925ca69c90a5d97356d243415`  
+_When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will "wow" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870804604312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870804604312.jpg" height="144px" /></a>
+### 865323
+**Family Guy S10E01 - Lottery Fever**  
+TV-14 🔒 21:30  
+⌛ July 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/lottery-fever  
+seriesid=`440990` titleid=`865323` id=`v3W92sbUTOu3KQJ_dfkQUw` mediaid=`977ad893aafca90044138d7f487479c7d06590cb`  
+_Peter blows his savings on lottery tickets and the family writes it off as one of his usual shenanigans until they end up millionaires._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088954924312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088954924312.jpg" height="144px" /></a>
+### 809154
+**Family Guy S10E02 - Seahorse Sea Shell Party**  
+TV-14 🔒 21:44  
+⌛ July 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/seahorse-sea-shell-party  
+seriesid=`440990` titleid=`809154` id=`-N3PEqeOTqGphpC4VBu_ew` mediaid=`f790ac3073c5e1e12351ec4b0eb0f7e11645f4a0`  
+_A storm hits the towns of Stoolbend, Quahog and Langley Falls. To help pass the time and calm his nerves, Brian consumes some questionable substances and has trouble sobering up. Meanwhile, Meg goes off the deep end after the family takes one too many jabs at her._  
+<a href=""><img src="" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
 440990 Family Guy: 2  
 581006 American Dad: 3  
-### 2003512
-**Bob's Burgers S03E01 - Ear-sy Rider**  
-TV-14 🔓 21:30  
-⌛ July 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/ear-sy-rider  
-seriesid=`2003422` titleid=`2003512` id=`WQLkpD32SgOYEJ164dTdtQ` mediaid=`d9e7f05f7437f4a44494080bb3fd91b2633c9909`  
-_A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader "Horny Dave." Meanwhile, Louise has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg" height="144px" /></a>
-### 2003444
-**Bob's Burgers S02E09 - Beefsquatch**  
-TV-14 🔓 21:32  
-⌛ July 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/beefsquatch  
-seriesid=`2003422` titleid=`2003444` id=`lnvX70L6QRqXFM7gA-gnyg` mediaid=`d834c8e03f201daba9dac1c65ec593aa2ba1baac`  
-_Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg" height="144px" /></a>
-### 809149
-**Family Guy S09E10 - Friends of Peter G**  
-TV-14-DLSV 🔓 21:47  
-⌛ July 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/friends-of-peter-g  
-seriesid=`440990` titleid=`809149` id=`QnxxUd45RJeAL64s-xwt0A` mediaid=`870e64a2288211ef251e3d4e8efcc9877bfe6ee6`  
-_After Peter is arrested for a public intoxication, a judge sentences him to attend AA meetings - where Peter and Brian convince their AA brethren that the best place to get drunk is at the meeting._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036561172914.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036561172914.jpg" height="144px" /></a>
-### 809131
-**Family Guy S09E11 - German Guy**  
-TV-14-DLSV 🔓 21:47  
-⌛ July 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/family-guy/german-guy  
-seriesid=`440990` titleid=`809131` id=`wwa0T8eORh2SZF8oZXx6Uw` mediaid=`79b2d5de9bbf664cd012c69e66595305236ad227`  
-_Herbert warns Chris that the kind old German puppeteer Chris has befriended is a Nazi war criminal._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417482442810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417482442810.jpg" height="144px" /></a>
-### 748158
-**American Dad S06E17 - Home Wrecker**  
-TV-14 🔓 21:47  
-⌛ July 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/home-wrecker  
-seriesid=`581006` titleid=`748158` id=`DCrfx3pmSmOmMr4jCMrF4g` mediaid=`b3b35fb96d66840fff4b41632307b212ae7d19eb`  
-_Stan and Francine fight over how to redecorate the house. It goes so far that they split the house down the middle and try to live without each other._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002614929913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002614929913.jpg" height="144px" /></a>
-### 748163
-**American Dad S06E19 - Gorillas in the Mist**  
-TV-14 🔓 21:47  
-⌛ July 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/gorillas-in-the-mist  
-seriesid=`581006` titleid=`748163` id=`SpKY05_QS_a8wZkZQtAl9A` mediaid=`01f8999b06c60cc3e23ff941ccf811541fe78f5f`  
-_Stan spends some quality father-son time with Steve at the local zoo, but things go wrong when Steve slips into a gorilla exhibit._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg" height="144px" /></a>
-### 748159
-**American Dad S06E18 - Flirting With Disaster**  
-TV-14 🔓 21:47  
-⌛ July 9, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/flirting-with-disaster  
-seriesid=`581006` titleid=`748159` id=`fefThwQBQgii_EzbWwUeKQ` mediaid=`94117714540ec06bc58baad4557de083d13383c1`  
-_Francine gets a job at Stan's office, which cramps Stan's style and his ability to flirt with co-workers. When Francine retaliates with a little flirting of her own, war breaks out at work._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg" height="144px" /></a>
+### 2003513
+**Bob's Burgers S03E02 - Full Bars**  
+TV-PG 🔒 21:15  
+⌛ July 10, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/full-bars  
+seriesid=`2003422` titleid=`2003513` id=`ClXtTaMsTqeJ9gW6Fx286w` mediaid=`1721ac667fd17a767f9bf556b07ec3cee6429731`  
+_The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual "Black and Orange" party._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg" height="144px" /></a>
+### 2003514
+**Bob's Burgers S03E03 - Bob Fires the Kids**  
+TV-14 🔒 21:30  
+⌛ July 10, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/bob-fires-the-kids  
+seriesid=`2003422` titleid=`2003514` id=`m6oToyJWT4iP8igvJtBeOA` mediaid=`362e1875ab9ec1ea7102197574f0e6578c7977fc`  
+_Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers, who hire the Belcher kids as "weed pickers." Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg" height="144px" /></a>
+### 809147
+**Family Guy S09E12 - The Hand That Rocks the Wheelchair**  
+TV-14-DLSV 🔓 21:46  
+⌛ July 10, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/the-hand-that-rocks-the-wheelchair  
+seriesid=`440990` titleid=`809147` id=`SSiEsCMYTxWzR8IlR_SuEQ` mediaid=`2def57cf9d9f28b9d71638934c63266b7538f1bb`  
+_When Bonnie leaves town, Meg cares for Joe - and ends up with a crush on him; Stewie accidentally creates an identical twin who is pure evil._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203656369105.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203656369105.jpg" height="144px" /></a>
+### 809151
+**Family Guy S09E13 - Trading Places**  
+TV-14 🔓 22:34  
+⌛ July 10, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/family-guy/trading-places  
+seriesid=`440990` titleid=`809151` id=`lebko980RDOoXF2KKywQMA` mediaid=`6e3557e94f0039ed5abac4a5231bd1b2a2fee375`  
+_When Peter and Lois switch places with Chris and Brian, Angela fires Peter and replaces him with the more productive Brian._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15341750480274.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15341750480274.jpg" height="144px" /></a>
+### 748160
+**American Dad S07E02 - Hurricane**  
+TV-14 🔒 21:47  
+⌛ July 10, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/hurricane  
+seriesid=`581006` titleid=`748160` id=`2gmRoTtyRGCQHA7zZCE0BQ` mediaid=`f52323839790401eae9989ddc5e47635b32dea7d`  
+_Stan attempts to save his family after a hurricane floods Lower Langley--despite Fran's warnings that Stan is a bad decision-maker during a crisis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg" height="144px" /></a>
+### 748171
+**American Dad S07E01 - Hot Water**  
+TV-14-DLSV 🔒 21:47  
+⌛ July 10, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/hot-water  
+seriesid=`581006` titleid=`748171` id=`A1V1PZvHS4OXqQOQznUoZw` mediaid=`3a9c1f53b5c37b42e208111387291329be33ddaa`  
+_Stan battles an evil hot tub bent on killing his family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg" height="144px" /></a>
+### 748154
+**American Dad S07E03 - A Ward Show**  
+TV-14-DLSV 🔒 21:46  
+⌛ July 10, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/a-ward-show  
+seriesid=`581006` titleid=`748154` id=`aajGKfacRUOpnrGFoACTfg` mediaid=`4e29d2fdc17e3f6bff35545973536027b8ec1973`  
+_After he's appointed Steve's legal guardian, Roger has Principal Lewis fired for letting Steve break the school's rules; Stan and Fran vacation at a waterpark._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg" height="144px" /></a>
