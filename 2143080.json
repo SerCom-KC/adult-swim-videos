@@ -4722,7 +4722,7 @@
         "launch_date": 1624786200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_21641154356-BlackClover_153_TheChosenOnes.png",
         "id": "AXnThypHDmGy9WFjRrWF",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1625390940,
@@ -4905,6 +4905,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711452121-BlackClover_157_FiveLeafClover.png",
         "id": "AXpjaiowBH5Z6gH5aWXq",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1627810140,
+        "tms_id": "EP027937620162",
+        "description": "The newly trained Magic Knights spring into action to save exploited villagers in a Spade Kingdom fortress as it approaches the Heart Kingdom border.",
+        "title_suggest": {
+            "input": [
+                "The Beginning of Hope and Despair",
+                "Beginning of Hope and Despair",
+                "of Hope and Despair",
+                "Hope and Despair",
+                "and Despair",
+                "Despair"
+            ]
+        },
+        "title": "The Beginning of Hope and Despair",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1341.3734,
+        "episode_number": "4",
+        "original_air_date": 1625983200,
+        "auth_launch_date": 1625995800,
+        "clip_order": null,
+        "airing_id": "RADS1007082100011851",
+        "media_id": "e7eb8168894825ed41a55293f6884b2c98365713",
+        "modified": 1625967160,
+        "slug": "the-beginning-of-hope-and-despair",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/1_21791112483-BlackClover_158_TheBeginningOfHopeAndDespair.png",
+        "created": 1625762480,
+        "title_id": "2277533",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "published": 1625967160,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791112483-BlackClover_158_TheBeginningOfHopeAndDespair.png",
+        "id": "AXqG_sAEBH5Z6gH5aWXy",
         "auth": true
     }
 ]
