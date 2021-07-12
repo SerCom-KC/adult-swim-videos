@@ -1,19 +1,17 @@
 {
-    "updated": 1625999660,
-    "added": [],
-    "removed": [
+    "updated": 1626058942,
+    "added": [
         {
-            "auth_expiration_date": 1625999340,
-            "tms_id": "",
-            "description": "Sasuke and Itachi team up to stop Kabuto's Reanimation Jutsu.",
+            "auth_expiration_date": 1627873140,
+            "tms_id": "EP018336730053",
+            "description": "No shame broh. We all do it broh.",
             "title_suggest": {
                 "input": [
-                    "Sibling Tag Team",
-                    "Tag Team",
-                    "Team"
+                    "Rickdependence Spray",
+                    "Spray"
                 ]
             },
-            "title": "Sibling Tag Team",
+            "title": "Rickdependence Spray",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -22,34 +20,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.4435,
-            "episode_number": "51",
-            "original_air_date": null,
-            "auth_launch_date": 1616927400,
+            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+            "duration": 1436.3683,
+            "episode_number": "4",
+            "original_air_date": "1626058800",
+            "auth_launch_date": 1626058800,
             "clip_order": null,
-            "airing_id": "RADS1003232100083811",
-            "media_id": "594a0ab73279c0dad58f676791b305cd5bdac9a0",
-            "modified": 1625602715,
-            "slug": "sibling-tag-team",
+            "airing_id": "RADS1007092100012299",
+            "media_id": "32b859ecb827f21d5bdac194e11054c106cad326",
+            "modified": 1625975146,
+            "slug": "rickdependence-spray",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/1_212231539266-NarutoShippuden_334_SiblingTagTeam.jpg",
-            "created": 1614112781,
-            "season_number": "6",
-            "title_id": "2177763",
-            "tv_rating": "tv-pg",
-            "published": 1625602715,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/1_21791115213-RickAndMorty_505_RickdependenceSpray.png",
+            "created": 1625843738,
+            "season_number": "5",
+            "title_id": "2270462",
+            "tv_rating": "tv-14-dlsv",
+            "published": 1625975146,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Rick and Morty",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231539266-NarutoShippuden_334_SiblingTagTeam.jpg",
-            "id": "AXfQnnMXQJ_4Uej5kTtC",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791115213-RickAndMorty_505_RickdependenceSpray.png",
+            "id": "AXqL1qduDmGy9WFjRryX",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "rick-and-morty",
+            "collection_title_id": "2013506",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
