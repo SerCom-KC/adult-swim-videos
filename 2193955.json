@@ -1130,7 +1130,7 @@
         "launch_date": 1623038400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200730/thumbnails/2_20730123167-jojo_goldenwind_029.jpg",
         "id": "AXJ7ZkpiRs3h4hI_X390",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1635220740,
@@ -1471,7 +1471,7 @@
         "launch_date": 1626062400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921213574-jojo_goldenwind_034.jpg",
         "id": "AXRPmK7dSeFB2d0c38u4",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1626667140,
@@ -1520,6 +1520,52 @@
         "launch_date": 1603008000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921214192-jojo_goldenwind_035.jpg",
         "id": "AXRPmQNYLyLQBOXK_PMz",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1627876740,
+        "tms_id": "",
+        "description": "Solving the mystery of Requiem, Diavolo takes control of Trish's soul and steals the arrow. Attacks do nothing against Emperor Crimson's time leaps and Eulogy's predictions. Just as Diavolo is about to pierce his own Stand with the arrow.",
+        "title_suggest": {
+            "input": [
+                "King of Kings",
+                "of Kings",
+                "Kings"
+            ]
+        },
+        "title": "King of Kings",
+        "expiration_date": 1607241540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
+        "duration": 1335.334,
+        "episode_number": "37",
+        "original_air_date": null,
+        "auth_launch_date": 1626062400,
+        "clip_order": null,
+        "airing_id": "RADS1007062100011150",
+        "media_id": "8d4defe547f1e00214868d34911f054305297366",
+        "modified": 1625647682,
+        "slug": "king-of-kings",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/1_2091410153-jojo_goldenwind_037.jpg",
+        "created": 1600092068,
+        "season_number": "4",
+        "title_id": "2193993",
+        "tv_rating": "tv-ma-v",
+        "published": 1625647682,
+        "tags": [],
+        "collection_title": "JoJo's Bizarre Adventure",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1604217600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_2091410153-jojo_goldenwind_037.jpg",
+        "id": "AXSM61rwLyLQBOXK_PNq",
         "auth": true
     },
     {
