@@ -6688,6 +6688,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "The Rick and Morty crew takes you behind the scenes of what may be the show's raunchiest episode yet.",
+        "title_suggest": {
+            "input": [
+                "Inside the Episode \"Rickdependence Spray\"",
+                "the Episode \"Rickdependence Spray\"",
+                "Episode \"Rickdependence Spray\"",
+                "\"Rickdependence Spray\"",
+                "Spray\""
+            ]
+        },
+        "title": "Inside the Episode \"Rickdependence Spray\"",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 0,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "mebfbde51caa482645260fce5cd0df128209342db9",
+        "modified": 1625966968,
+        "slug": "inside-the-episode-rickdependence-spray",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/1_21791121193-RickMorty_Inside505_V4465.png",
+        "created": 1625844094,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1625966968,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1626098400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791121193-RickMorty_Inside505_V4465.png",
+        "id": "AXqL3BY9BH5Z6gH5aWXz",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
