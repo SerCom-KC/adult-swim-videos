@@ -557,52 +557,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447787400,
-        "auth_expiration_date": 1626321540,
-        "tms_id": "EP013726210019",
-        "description": "A drug epidemic in Hell creates an opportunity.",
-        "title_suggest": {
-            "input": [
-                "Spunk"
-            ]
-        },
-        "expiration_date": 1623297540,
-        "title": "Spunk",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 683.33,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "10",
-        "original_air_date": 1443413700,
-        "clip_order": null,
-        "auth_launch_date": 1623297600,
-        "modified": 1622871884,
-        "airing_id": "RADS1006042100002360",
-        "media_id": "0cee79380dfa526c766402d99281937d93970686",
-        "id": "Ikrgw040RvOJIh_xaTKAtA",
-        "slug": "spunk",
-        "views": 1,
-        "created": 1436294518,
-        "season_number": "2",
-        "title_id": "2062772",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1622871884,
-        "first_published": 1443259220,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1620273600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/spunk/ypf_ep210_001_ljha65798380babi87g0as.jpg",
-        "cma_id": "1371751"
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1479137400,
         "auth_expiration_date": 1561042740,
         "tms_id": "EP013726210025",
@@ -651,7 +605,7 @@
         "cma_id": "2100304"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1478532600,
         "auth_expiration_date": 1629345540,
         "tms_id": "EP013726210024",
@@ -964,5 +918,55 @@
         "launch_date": 1625112000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/torture/yourprettyface_306_NoAdsCue_dup-20161122.jpg",
         "cma_id": "2100307"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1491834540,
+        "auth_expiration_date": 1563422340,
+        "tms_id": "EP013726210029",
+        "description": "It's Golden Fiddle Week and the demons are in a bind, they're way behind, and they're willing to make a deal.",
+        "title_suggest": {
+            "input": [
+                "Golden Fiddle Week",
+                "Fiddle Week",
+                "Week"
+            ]
+        },
+        "title": "Golden Fiddle Week",
+        "type": "episode",
+        "expiration_date": 1629345540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 675.6672227,
+        "episode_number": "8",
+        "original_air_date": 1491795000,
+        "clip_order": null,
+        "auth_launch_date": 1560398400,
+        "modified": 1625898163,
+        "media_id": "5e4e404a7ca3b45a4328a4e7f5cbb4f36463d62d",
+        "airing_id": "RADS1007082100011974",
+        "id": "yDKUgVusQQSdMMDbkNS-6Q",
+        "slug": "golden-fiddle-week",
+        "views": 10192,
+        "thumbnail": "",
+        "created": 1491552622,
+        "title_id": "2108955",
+        "tv_rating": "tv-ma",
+        "season_number": "3",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1625898163,
+        "first_published": 1491552622,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1626321600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/golden-fiddle-week/yourprettyface_ep310_001_Golden_Fiddle_Week_Begins0.jpg",
+        "cma_id": "2108955"
     }
 ]
