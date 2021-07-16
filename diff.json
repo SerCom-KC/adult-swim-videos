@@ -1,57 +1,55 @@
 {
-    "updated": 1626437605,
-    "added": [],
-    "removed": [
+    "updated": 1626440363,
+    "added": [
         {
-            "auth": false,
-            "ott_launch_date": 1540909740,
-            "auth_expiration_date": 1542716040,
-            "tms_id": "EP014135410034",
-            "description": "Listen with your eyes.",
+            "auth_expiration_date": 1626667140,
+            "tms_id": "",
+            "description": "Righteous actions born of truth shall never be destroyed. Piercing Golden Wind with the arrow, Giorno draws the final battle against Diavolo to a close. Diavolo, robbed of the mercy of death, spirals violently into an end that never ends.",
             "title_suggest": {
                 "input": [
-                    "Sound"
+                    "Golden Wind Requiem",
+                    "Wind Requiem",
+                    "Requiem"
                 ]
             },
-            "title": "Sound",
+            "title": "Golden Wind Requiem",
+            "expiration_date": 1607849940,
             "type": "episode",
-            "expiration_date": 2085368400,
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "ott",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-            "duration": 680.07,
-            "episode_number": "3",
-            "original_air_date": 1540886400,
-            "auth_launch_date": 1540898100,
+            "collection_id": "8dJCVgD8TzWFXRoiL8ZPeg",
+            "duration": 1334.4664,
+            "episode_number": "38",
+            "original_air_date": null,
+            "auth_launch_date": 1607850000,
             "clip_order": null,
-            "media_id": "ac22ed3194ad09f93fc93d6b828efc0c146e2da8",
-            "modified": 1614046846,
-            "airing_id": "RADS1011161800045623",
-            "id": "AWa0pRrr3OEkyfT4p8ZW",
-            "slug": "sound",
+            "airing_id": "RADS1012092000051590",
+            "media_id": "d4e6ff26d4c268c8ad23e63f4b99095d06f3b288",
+            "modified": 1626440118,
+            "slug": "golden-wind-requiem",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121346318-offtheair_803_dup-20181025.jpg",
-            "created": 1540629011,
-            "title_id": "2165431",
-            "tv_rating": "tv-14",
-            "season_number": "8",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1614046846,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/1_20914101313-jojo_goldenwind_038.jpg",
+            "created": 1600092094,
+            "season_number": "4",
+            "title_id": "2193994",
+            "tv_rating": "tv-ma-lv",
+            "published": 1626440118,
             "tags": [],
-            "collection_title": "Off The Air",
+            "collection_title": "JoJo's Bizarre Adventure",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1542949200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121346318-offtheair_803_dup-20181025.jpg",
-            "collection_slug": "off-the-air",
-            "collection_title_id": "830073",
+            "launch_date": 1604826000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200914/thumbnails/2_20914101313-jojo_goldenwind_038.jpg",
+            "id": "AXSM679BLyLQBOXK_PNr",
+            "auth": true,
+            "collection_slug": "jo-jos-bizarre-adventure",
+            "collection_title_id": "2193955",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
