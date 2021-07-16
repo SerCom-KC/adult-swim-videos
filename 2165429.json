@@ -1,54 +1,5 @@
 [
     {
-        "ott_launch_date": 1544455800,
-        "auth_expiration_date": 1625198340,
-        "tms_id": "EP029602990002",
-        "description": "Unfortunately everything in the whole universe just oozed out from Doug Dwyer's head.  But luckily, all that stuff is now coming over here to get you and also bite you.",
-        "title_suggest": {
-            "input": [
-                "The Nurple Rainbow",
-                "Nurple Rainbow",
-                "Rainbow"
-            ]
-        },
-        "title": "The Nurple Rainbow",
-        "type": "episode",
-        "expiration_date": 2085368400,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-        "duration": 677.21,
-        "episode_number": "1",
-        "original_air_date": 1544418000,
-        "auth_launch_date": 1622174400,
-        "clip_order": null,
-        "airing_id": "RADS1012241800055970",
-        "media_id": "046eec3ea2da2d48e4721c90b684470190682d86",
-        "modified": 1621768759,
-        "slug": "the-nurple-rainbow",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15441359233745.jpg",
-        "created": 1543859363,
-        "title_id": "2172247",
-        "season_number": "1",
-        "tv_rating": "tv-ma-sv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1621768759,
-        "tags": [],
-        "collection_title": "The Shivering Truth",
-        "modified_by": "ODT Listener",
-        "launch_date": 1546244100,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441359233745.jpg",
-        "id": "AWd1MF5kqD68dq0Op5rd",
-        "auth": false
-    },
-    {
         "ott_launch_date": 1543208400,
         "auth_expiration_date": 1624593540,
         "tms_id": "EP029602990001",
@@ -951,7 +902,7 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1622174340,
+        "auth_expiration_date": 1630036740,
         "tms_id": "",
         "description": "Time flies when you're demoralizing your children.",
         "title_suggest": {
@@ -972,11 +923,11 @@
         "duration": 674.6406,
         "episode_number": "3",
         "original_air_date": "1590379200",
-        "auth_launch_date": 1619150400,
+        "auth_launch_date": 1627012800,
         "clip_order": null,
-        "airing_id": "RADS1006052100002807",
+        "airing_id": "RADS1007162100014625",
         "media_id": "5e0bee245bc674cf14e4e9ea0cb011aaae9b9e35",
-        "modified": 1624080633,
+        "modified": 1626450875,
         "slug": "nesslessness",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_20561049200-TheShiveringTruth_203_dup-20200214.jpg",
@@ -984,7 +935,7 @@
         "season_number": "2",
         "title_id": "2222977",
         "tv_rating": "tv-ma-v",
-        "published": 1624080633,
+        "published": 1626450875,
         "tags": [],
         "collection_title": "The Shivering Truth",
         "disable_ads": false,
