@@ -46,7 +46,7 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1626596940,
+        "auth_expiration_date": 1641704340,
         "tms_id": "EP036780850001",
         "description": "Towa Higurashi learns about an incident that took place decades ago involving a half demon named Inuyasha and a priestess named Kagome.",
         "title_suggest": {
@@ -69,11 +69,11 @@
         "duration": 1405.9378,
         "episode_number": "1",
         "original_air_date": "1624770000",
-        "auth_launch_date": 1624782600,
+        "auth_launch_date": 1627806600,
         "clip_order": null,
-        "airing_id": "RADS1006252100008139",
+        "airing_id": "RADS1007132100013171",
         "media_id": "a30490b8173b77363c979fb010c1edd1ed1517b4",
-        "modified": 1626273881,
+        "modified": 1626597469,
         "slug": "inuyasha-since-then",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/1_2162514185-YashahimePrincessHalfDemon_101_InuyashaSinceThen.png",
@@ -81,7 +81,7 @@
         "season_number": "1",
         "title_id": "2268281",
         "tv_rating": "tv-14-lv",
-        "published": 1626273881,
+        "published": 1626597469,
         "tags": [],
         "collection_title": "Yashahime: Princess Half-Demon",
         "disable_ads": false,
@@ -135,6 +135,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711450353-YashahimePrincessHalfDemon_102_TheThreePrincesses.png",
         "id": "AXpihRVwDmGy9WFjRrpj",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1628411340,
+        "tms_id": "EP036780850004",
+        "description": "Towa decides to return to the feudal era to help Setsuna regain her memories. The trio enter the corridor leading to the feudal era, but within it awaits the spirit of a certain priestess.",
+        "title_suggest": {
+            "input": [
+                "The Gateway to the Past",
+                "Gateway to the Past",
+                "to the Past",
+                "the Past",
+                "Past"
+            ]
+        },
+        "title": "The Gateway to the Past",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXpED60VBH5Z6gH5aWXi",
+        "duration": 1345.8445,
+        "episode_number": "4",
+        "original_air_date": 1626584400,
+        "auth_launch_date": 1626597000,
+        "clip_order": null,
+        "airing_id": "RADS1007122100012634",
+        "media_id": "f31376818d6049e59f01ae2dfe8354406200c93f",
+        "modified": 1626460593,
+        "slug": "the-gateway-to-the-past",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/1_217161023368-YashahimePrincessHalfDemon_104_TheGatewayToThePast.png",
+        "created": 1626114252,
+        "title_id": "2268284",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "published": 1626460593,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161023368-YashahimePrincessHalfDemon_104_TheGatewayToThePast.png",
+        "id": "AXqb9l9fBH5Z6gH5aWX3",
         "auth": true
     }
 ]
