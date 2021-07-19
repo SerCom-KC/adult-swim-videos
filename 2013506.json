@@ -6781,6 +6781,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Co-Creator Dan Harmon and writer Anne Lane break down the confusing psychology of underworld dwellers.",
+        "title_suggest": {
+            "input": [
+                "Inside the Episode \"Amortycan Grickfitti\"",
+                "the Episode \"Amortycan Grickfitti\"",
+                "Episode \"Amortycan Grickfitti\"",
+                "\"Amortycan Grickfitti\"",
+                "Grickfitti\""
+            ]
+        },
+        "title": "Inside the Episode \"Amortycan Grickfitti\"",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 0,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "mee855f644ff6fba85e49f8d832198d9d070dc4cbc",
+        "modified": 1626458577,
+        "slug": "inside-the-episode-amortycan-grickfitti",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/1_217161042572-RickMorty_Inside506_V43V6.png",
+        "created": 1626446599,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1626458577,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1626703200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161042572-RickMorty_Inside506_V43V6.png",
+        "id": "AXqvxZSjDmGy9WFjRr2R",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
