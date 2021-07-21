@@ -51,6 +51,58 @@
         "cma_id": "1432177"
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Chrimbus is the holiday of receiving, and the Tim and Eric Chrimbus Special is a for retailers only live performance aimed at convincing retailers to buy the DVD of the special.",
+        "title_suggest": {
+            "input": [
+                "Tim and Eric, Awesome Show, Great Job! Chrimbus Special",
+                "and Eric, Awesome Show, Great Job! Chrimbus Special",
+                "Eric, Awesome Show, Great Job! Chrimbus Special",
+                "Awesome Show, Great Job! Chrimbus Special",
+                "Show, Great Job! Chrimbus Special",
+                "Great Job! Chrimbus Special",
+                "Job! Chrimbus Special",
+                "Chrimbus Special",
+                "Special"
+            ]
+        },
+        "title": "Tim and Eric, Awesome Show, Great Job! Chrimbus Special",
+        "expiration_date": 1629863940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 0,
+        "episode_number": "11",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "90e66dfba960270c09c8c5374e3458c51c535e62",
+        "modified": 1626900382,
+        "slug": "tim-and-eric-awesome-show-great-job-chrimbus-special",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210721/thumbnails/1_21721164696-2_2116164669-timanderic_chrimbus2010.jpeg",
+        "created": 1626877731,
+        "season_number": "5",
+        "title_id": "2227423",
+        "tv_rating": "tv-ma",
+        "published": 1626900382,
+        "tags": [],
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "Dene Shepherd",
+        "launch_date": 1626877715,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210721/thumbnails/2_21721164696-2_2116164669-timanderic_chrimbus2010.jpeg",
+        "id": "AXrJeCNeeTntnGIjub0m",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
