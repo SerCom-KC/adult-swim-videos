@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 24, 2021 at 02:00:33 EDT_
+_Last Update: July 24, 2021 at 03:00:32 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-### 2159477
-**Black Clover S01E44 - The Pointlessly Direct Fireball and the Wild Lightning**  
-TV-PG-LV 🔒 21:50  
-⌛ July 26, 2021 at 23:59:59 EDT  
-https://www.adultswim.com/videos/black-clover/the-pointlessly-direct-fireball-and-the-wild-lightning  
-seriesid=`2143080` titleid=`2159477` id=`AWZZow4zh5enQuYyJJyA` mediaid=`daadabb901609321dea5f1d797af9f963fe37a9b`  
-_Vetto makes his appearance with a plan to wipe out the Black Bulls and the temple mages. With Yami unable to jump in, he gives his knights one order: surpass their limits and beat Vetto the beast! And the first to face him? Magna and Luck!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15408295730133.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15408295730133.jpg" height="144px" /></a>
+830073 Off The Air: 1  
+### 2165432
+**Off The Air S08E04 - Winter**  
+TV-14 🔓 11:21  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/off-the-air/winter  
+seriesid=`830073` titleid=`2165432` id=`AWeuVH0PAScUIg8XxbWj` mediaid=`8c89e028bf06f22c3d7d9fe56e7a108a056cc314`  
+_The ultimate bookend to humanity._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121346480-offtheair_804_dup-120181220.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121346480-offtheair_804_dup-120181220.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
