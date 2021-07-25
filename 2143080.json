@@ -4918,7 +4918,7 @@
         "launch_date": 1625995800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181252166-BlackClover_155_The5SpiritGuardians.png",
         "id": "AXobIKT6DmGy9WFjRrfH",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1626600540,
@@ -5105,6 +5105,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161025388-BlackClover_159_QuietLakesAndForestShadows.png",
         "id": "AXqvtZKsBH5Z6gH5aWYB",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1629019740,
+        "tms_id": "EP032284200163",
+        "description": "Ralph shares the circumstances of Yuno's birth - and how he wound up at the church in Hage. Tragedy strikes the Golden Dawn HQ while Yuno is away.",
+        "title_suggest": {
+            "input": [
+                "The Messenger from the Spade Kingdom",
+                "Messenger from the Spade Kingdom",
+                "from the Spade Kingdom",
+                "the Spade Kingdom",
+                "Spade Kingdom",
+                "Kingdom"
+            ]
+        },
+        "title": "The Messenger from the Spade Kingdom",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1298.3971,
+        "episode_number": "6",
+        "original_air_date": 1627192800,
+        "auth_launch_date": 1627205400,
+        "clip_order": null,
+        "airing_id": "RADS1007222100014790",
+        "media_id": "0df45c0d3a011bb795862a9e8d3f131c396068e1",
+        "modified": 1627070528,
+        "slug": "the-messenger-from-the-spade-kingdom",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/1_2172311056-BlackClover_160_MessengerFromTheSpadeKingdom.png",
+        "created": 1626987867,
+        "title_id": "2277535",
+        "season_number": "4",
+        "tv_rating": "tv-pg-v",
+        "published": 1627070528,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_2172311056-BlackClover_160_MessengerFromTheSpadeKingdom.png",
+        "id": "AXrQCK9ieTntnGIjub0o",
         "auth": true
     }
 ]
