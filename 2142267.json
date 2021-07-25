@@ -180,7 +180,7 @@
         "launch_date": 1625988600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181248283-MyHeroAcademia_095_Match3.png",
         "id": "AXoMLNIiBH5Z6gH5aWUr",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1626573310,
@@ -271,7 +271,7 @@
         "launch_date": 1627198200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711447306-MyHeroAcademia_097_EarlyBird.png",
         "id": "AXpihRtEBH5Z6gH5aWXo",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1627802940,
@@ -363,6 +363,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161021585-MyHeroAcademia_099_OurBrawl.png",
         "id": "AXqh15NqBH5Z6gH5aWX9",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1629012540,
+        "tms_id": "EP034435300101",
+        "description": "As the class battles conclude, Midoriya works with All Might and Bakugo on learning more about his new power.",
+        "title_suggest": {
+            "input": [
+                "The New Power and All for One",
+                "New Power and All for One",
+                "Power and All for One",
+                "and All for One",
+                "All for One",
+                "for One",
+                "One"
+            ]
+        },
+        "title": "The New Power and All for One",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1328.1268,
+        "episode_number": "12",
+        "original_air_date": 1627185600,
+        "auth_launch_date": 1627198200,
+        "clip_order": null,
+        "airing_id": "RADS1007222100014791",
+        "media_id": "189d2f81f639e3aa79406cf7df19d0566da1bea0",
+        "modified": 1627070445,
+        "slug": "the-new-power-and-all-for-one",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/1_217231052573-MyHeroAcademia_100_TheNewPowerAndAllForOne.png",
+        "created": 1626987869,
+        "title_id": "2267465",
+        "season_number": "5",
+        "tv_rating": "tv-14",
+        "published": 1627070445,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_217231052573-MyHeroAcademia_100_TheNewPowerAndAllForOne.png",
+        "id": "AXrQCLOGeTntnGIjub0p",
         "auth": true
     }
 ]
