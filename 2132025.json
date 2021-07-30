@@ -147,6 +147,56 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1622174340,
+        "tms_id": "",
+        "description": "A small dispute leads to a big-ass Civil war in Walla Walla.",
+        "title_suggest": {
+            "input": [
+                "Walla Walla Civil War",
+                "Walla Civil War",
+                "Civil War",
+                "War"
+            ]
+        },
+        "title": "Walla Walla Civil War",
+        "expiration_date": 1630641540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 668.5,
+        "episode_number": "8",
+        "original_air_date": 1560744000,
+        "auth_launch_date": 1619150400,
+        "clip_order": null,
+        "media_id": "cda4275e99f9e609cf3ee0e596e6dcf4846209ee",
+        "modified": 1627278985,
+        "airing_id": "RADS1007262100015456",
+        "slug": "walla-walla-civil-war",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036488035418.jpg",
+        "created": 1553004946,
+        "season_number": "2",
+        "title_id": "2191422",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1627278985,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1627617600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036488035418.jpg",
+        "id": "AWmWTuMLAScUIg8XxeHG",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1623383940,
         "tms_id": "",
         "description": "There's something strange about Cornell's friend.",
@@ -752,55 +802,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1622174400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130122078113.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1512401460,
-        "auth_expiration_date": 1627617540,
-        "tms_id": "EP027912080007",
-        "description": "A mysterious dog with secret motives captures the of heart of Cornell.",
-        "title_suggest": {
-            "input": [
-                "Cornell Gets a Dog",
-                "Gets a Dog",
-                "a Dog",
-                "Dog"
-            ]
-        },
-        "title": "Cornell Gets a Dog",
-        "type": "episode",
-        "expiration_date": 1624593540,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-        "duration": 648.87,
-        "episode_number": "7",
-        "original_air_date": 1512364500,
-        "clip_order": null,
-        "auth_launch_date": 1624593600,
-        "modified": 1625241989,
-        "media_id": "bf05efd37b4cad68a8ea3fae0a8a57c76acabad3",
-        "airing_id": "RADS1006202100007226",
-        "id": "fmtIuGWkRPaAkceqxUz1MA",
-        "slug": "cornell-gets-a-dog",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15124927403673.jpg",
-        "created": 1504882768,
-        "season_number": "1",
-        "title_id": "2132032",
-        "tv_rating": "tv-14-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1625241989,
-        "tags": [],
-        "collection_title": "The Jellies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1621569600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124927403673.jpg",
         "cma_id": ""
     }
 ]
