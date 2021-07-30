@@ -1,19 +1,19 @@
 {
-    "updated": 1627632629,
-    "added": [],
-    "removed": [
+    "updated": 1627634734,
+    "added": [
         {
-            "auth_expiration_date": 1604897940,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1627963199,
             "tms_id": "",
-            "description": "Jealous queen tries to assassinate her stepdaughter because the stepdaughter makes better congo bars than her.",
+            "description": "Not even the sickening crack of his own bones will cause Asta to fall into despair! Right when things seem the most hopeless, he pushes past his limit to keep fighting on. But is the battle finally won?",
             "title_suggest": {
                 "input": [
-                    "Snow White",
-                    "White"
+                    "Beyond Limits",
+                    "Limits"
                 ]
             },
-            "title": "Snow White",
-            "expiration_date": 1627876740,
+            "title": "Beyond Limits",
+            "expiration_date": 1548667740,
             "type": "episode",
             "platforms": [
                 "android",
@@ -21,34 +21,36 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXD5sp41Rs3h4hI_X2eX",
-            "duration": 667.9339,
-            "episode_number": "6",
-            "original_air_date": null,
-            "auth_launch_date": 1604293200,
+            "collection_id": "AV-7K77EZ-onAnjDLtBM",
+            "duration": 1269.63,
+            "episode_number": "49",
+            "original_air_date": 1544335200,
+            "auth_launch_date": 1616472000,
             "clip_order": null,
-            "airing_id": "RADS1004292100093090",
-            "media_id": "1658af2e1ab58419958e126c33b1d017aab2b65b",
-            "modified": 1627631261,
-            "slug": "snow-white",
+            "media_id": "375281abea4c767ace63db8e39c5e81f6b3e9b53",
+            "modified": 1627634563,
+            "airing_id": "RADS1003222100083628",
+            "slug": "beyond-limits",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/1_20520101801-JJVFT_006.jpg",
-            "created": 1589983794,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15441367197956.jpg",
+            "created": 1542208987,
             "season_number": "1",
-            "title_id": "2213500",
-            "tv_rating": "tv-ma-lv",
-            "published": 1627631261,
+            "title_id": "2159482",
+            "tv_rating": "tv-14-v",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1627634563,
             "tags": [],
-            "collection_title": "JJ Villard's Fairy Tales",
-            "disable_ads": false,
+            "collection_title": "Black Clover",
             "modified_by": "ODT Listener",
-            "launch_date": 1620014400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_20520101801-JJVFT_006.jpg",
-            "id": "AXIya1SnC8QgH-t19JOh",
-            "auth": false,
-            "collection_slug": "jj-villards-fairy-tales",
-            "collection_title_id": "2213494",
+            "launch_date": 1546162200,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441367197956.jpg",
+            "id": "AWcS0Z-a3OEkyfT4qQ1C",
+            "auth": true,
+            "collection_slug": "black-clover",
+            "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
