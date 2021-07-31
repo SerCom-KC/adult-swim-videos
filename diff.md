@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 31, 2021 at 02:00:28 EDT_
+_Last Update: July 31, 2021 at 03:30:28 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2104364 Hot Streets: 1  
-### 2131833
-**Hot Streets S01E01 - Got a Minute for Love?**  
-TV-14-DLSV 🔓 11:15  
+862772 China, IL: 1  
+### 2053740
+**China, IL S03E04 - Crow College**  
+TV-14-DLV 🔓 22:36  
 ⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/hot-streets/got-a-minute-for-love  
-seriesid=`2104364` titleid=`2131833` id=`7MdHf78MQeKH6TKZR2P7PQ` mediaid=`990d59b4d3936ad8367cb9a327c20496ebfc3c27`  
-_Jen grows an umbilical cord. Branski talks about apples. Also, there's mummies._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351444154-hotstreets_102_dup-20180105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351444154-hotstreets_102_dup-20180105.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/china-il/crow-college  
+seriesid=`862772` titleid=`2053740` id=`ZMciHw56RO-Nq9EIGPN02Q` mediaid=`628162d3b2a0425d3b230b1661c9a0963ba26f99`  
+_Crows have the intelligence of 4-year old humans, so The Dean enrolls a murder of them at UCI as new students._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032170146-chinail_309_dup-20150330.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032170146-chinail_309_dup-20150330.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
