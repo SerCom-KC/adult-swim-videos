@@ -226,7 +226,7 @@
         "launch_date": 1626593400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251357252-MyHeroAcademia_096_Match3Conclusion.png",
         "id": "AXpA9SkJDmGy9WFjRrko",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1627198140,
@@ -318,7 +318,7 @@
         "launch_date": 1627803000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_2179118459-MyHeroAcademia_098_ThatWhichIsInherited.png",
         "id": "AXqG_iZGDmGy9WFjRrxF",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1628407740,
@@ -363,6 +363,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161021585-MyHeroAcademia_099_OurBrawl.png",
         "id": "AXqh15NqBH5Z6gH5aWX9",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1629617340,
+        "tms_id": "EP034435300102",
+        "description": "It's Christmas at U.A. and the Class 1-A students celebrate with a Christmas party.",
+        "title_suggest": {
+            "input": [
+                "Have a Merry Christmas!",
+                "a Merry Christmas!",
+                "Merry Christmas!",
+                "Christmas!"
+            ]
+        },
+        "title": "Have a Merry Christmas!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1371.37,
+        "episode_number": "13",
+        "original_air_date": 1627790400,
+        "auth_launch_date": 1627803000,
+        "clip_order": null,
+        "airing_id": "RADS1007302100017683",
+        "media_id": "019c0a6d52f42203f326b24ac4aa7e6b69d38a89",
+        "modified": 1627735363,
+        "slug": "have-a-merry-christmas",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/1_21730110219-MyHeroAcademia_101_HaveAMerryChristmas.png",
+        "created": 1627615842,
+        "title_id": "2267466",
+        "season_number": "5",
+        "tv_rating": "tv-14-ls",
+        "published": 1627735363,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730110219-MyHeroAcademia_101_HaveAMerryChristmas.png",
+        "id": "AXr1dtFA0_E45RWzeAmX",
         "auth": true
     },
     {
