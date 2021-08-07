@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 7, 2021 at 03:30:28 EDT_
+_Last Update: August 7, 2021 at 04:00:31 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 862772 China, IL: 1  
 ### 2053734
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/china-il/bi-topping-ality
 seriesid=`862772` titleid=`2053734` id=`o8SDE7FoTRO5yP2qrxpDcg` mediaid=`8ee80201b9949bc46cb6436c60d294d21aefdad0`  
 _The Mayor bans eating anchovies in China, IL, while Trump’s Kid joins UCI as its newest student._  
 <a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032170410-chinail_303_dup-20150424.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032170410-chinail_303_dup-20150424.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
