@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 8, 2021 at 04:30:25 EDT_
+_Last Update: August 8, 2021 at 07:00:26 EDT_
 ## Video added
-### Summary
-2132025 The Jellies: 1  
-### 2191423
-**The Jellies S02E10 - My Friend Sheldon Jr.**  
-TV-14-DLSV 🔓 11:16  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-jellies/my-friend-sheldon-jr  
-seriesid=`2132025` titleid=`2191423` id=`AWmWV8RDHl5gR6828y3X` mediaid=`da9c812a7089dfd2a087151bd3fe49eaaa576285`  
-_There's something strange about Cornell's friend._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156043847819613.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156043847819613.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+812206 Naruto: Shippuden: 1  
+### 2177767
+**Naruto: Shippuden S06E55 - Izanagi and Izanami**  
+TV-PG-V 🔓 21:52  
+⌛ August 8, 2021 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/izanagi-and-izanami  
+seriesid=`812206` titleid=`2177767` id=`AXiI5cWxBH5Z6gH5aWHb` mediaid=`a4eefd7c24586be2a96eeb607da3506fb33c06b7`  
+_Itachi activates the Visual Jutsu Izanami to trap Kabuto's mind._  
+<a href="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311127397-NarutoShippuden_338_IzanagiAndIzanami.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311127397-NarutoShippuden_338_IzanagiAndIzanami.jpg" height="144px" /></a>
