@@ -471,51 +471,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1628481540,
-        "tms_id": "",
-        "description": "After only one and a half episodes, Hannibal quits the show and is poorly cloned into a giant mutant version of himself named Blannibal.",
-        "title_suggest": {
-            "input": [
-                "Hannibal Quits",
-                "Quits"
-            ]
-        },
-        "title": "Hannibal Quits",
-        "expiration_date": 1625457540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 674.1068,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1625457600,
-        "clip_order": null,
-        "airing_id": "RADS1007022100010559",
-        "media_id": "738990f5b3458234de1f741e63a193407bdbea32",
-        "modified": 1626981019,
-        "slug": "hannibal-quits",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161712495-ericandre_502_dup-20200812.jpg",
-        "created": 1600290772,
-        "season_number": "5",
-        "title_id": "2230781",
-        "tv_rating": "tv-ma-l",
-        "published": 1626981019,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1622433600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161712495-ericandre_502_dup-20200812.jpg",
-        "id": "AXSYw1UXSeFB2d0c3877",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1629086340,
         "tms_id": "",
         "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
@@ -744,7 +699,7 @@
         "launch_date": 1625457600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
         "id": "AXSYyk1WSeFB2d0c387_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1625457540,
@@ -936,6 +891,58 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131210506-ericandre_509_dup-20200914.jpg",
         "id": "AXWPFwsXLyLQBOXK_PY8",
         "auth": false
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1608785940,
+        "tms_id": "EP015632430022",
+        "description": "Interviews with Seth Rogen and Asa Akira; Musical guest Exhumed and The Supremes.",
+        "title_suggest": {
+            "input": [
+                "Seth Rogen; Asa Akira",
+                "Rogen; Asa Akira",
+                "Asa Akira",
+                "Akira"
+            ]
+        },
+        "title": "Seth Rogen; Asa Akira",
+        "type": "episode",
+        "expiration_date": 1631505540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 676.0667334,
+        "episode_number": "1",
+        "original_air_date": 1415337300,
+        "clip_order": null,
+        "auth_launch_date": 1607576400,
+        "modified": 1628273429,
+        "media_id": "8aa5d058687a0de93dcfc2247886c81195fa1ba2",
+        "airing_id": "RADS1008062100019519",
+        "id": "BHK7jhhHQby3_ZfgbBQYDA",
+        "slug": "seth-rogen-asa-akira",
+        "views": 11,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161584-ericandre_021_dup-20141023.jpg",
+        "created": 1415208027,
+        "title_id": "2032596",
+        "tv_rating": "tv-ma-l",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1628273429,
+        "first_published": 1415208027,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1628481600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161584-ericandre_021_dup-20141023.jpg",
+        "cma_id": "2032596"
     },
     {
         "auth": false,
