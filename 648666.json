@@ -1,53 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1628654340,
-        "tms_id": "EP008519090051",
-        "description": "Toki tries to turn the life of his rock-and-roll clown friend, Dr. Rockzo, around by investing Dethklok's vacation fund. Everything goes smoothly until the media peers into Rockzo's past and discovers the clown's darkest secret.",
-        "title_suggest": {
-            "input": [
-                "Dethzazz"
-            ]
-        },
-        "title": "Dethzazz",
-        "type": "episode",
-        "expiration_date": 1625630340,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 1202.9676343,
-        "episode_number": "9",
-        "original_air_date": 1287376200,
-        "auth_launch_date": 1625630400,
-        "clip_order": null,
-        "media_id": "dc106ba9a23a355cc39aa32d28f77a5481fb187e",
-        "modified": 1625276575,
-        "airing_id": "RADS1005272100000413",
-        "slug": "dethzazz",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111131305-metalocalypse_309_dst_cid-W57K.jpg",
-        "created": 1521582599,
-        "title_id": "811442",
-        "tv_rating": "tv-ma",
-        "season_number": "3",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1625276575,
-        "tags": [],
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1622606400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111131305-metalocalypse_309_dst_cid-W57K.jpg",
-        "id": "AWJFY-6WHAeP4-pUPd4T",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1629259140,
         "tms_id": "EP008519090052",
         "description": "While Dethklok's manager, Charles Offdensen, is absent cleaning up hundreds of problems caused by the band, Dethklok double books a gig--between Syria and Israel on the same day.",
@@ -242,7 +195,7 @@
         "cma_id": "1344349"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447170000,
         "auth_expiration_date": 1631678340,
         "tms_id": "EP008519090056",
@@ -388,6 +341,58 @@
         "launch_date": 1624420800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111132264-metalocalypse_402_bim.jpg",
         "cma_id": "1320168"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447170120,
+        "auth_expiration_date": 1529477999,
+        "tms_id": "EP008519090061",
+        "rating": 6.7980614,
+        "description": "Dethklok returns to the water to record in their new Dethsub but, plagued with the lack of women, carpel tunnel sets in from excessive masturbation. The band regresses to an animal mindset. Pickles and Nathan spend their energy crossing the workplace relationship line and competing for the only woman on the sub: their producer.",
+        "title_suggest": {
+            "input": [
+                "Going DownKlok",
+                "DownKlok"
+            ]
+        },
+        "type": "episode",
+        "title": "Going DownKlok",
+        "expiration_date": 1631678340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 672.8757298,
+        "episode_number": "9",
+        "original_air_date": 1340597700,
+        "clip_order": null,
+        "auth_launch_date": 1529477880,
+        "modified": 1628281203,
+        "media_id": "2fd908869c37064781f58843e1df4e9583b6ebb5",
+        "airing_id": "RADS1008062100019598",
+        "id": "eKeYDgmqTM2neDWFg01-aQ",
+        "slug": "going-down-klok",
+        "views": 148876,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311113554-metalocalypse_409_dup-20120615.jpg",
+        "created": 1402945469,
+        "title_id": "892269",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1628281203,
+        "tags": [],
+        "rating_count": 619,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1628654400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113554-metalocalypse_409_dup-20120615.jpg",
+        "cma_id": "1348354"
     },
     {
         "auth": false,
