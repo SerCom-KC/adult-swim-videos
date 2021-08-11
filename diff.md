@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 11, 2021 at 12:00:29 EDT_
+_Last Update: August 11, 2021 at 12:30:28 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 2194549 Gemusetto: 1  
 ### 2241827
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/gemusetto/episode-two-a-minor
 seriesid=`2194549` titleid=`2241827` id=`AXWVgV50LyLQBOXK_PZu` mediaid=`5e63a2388210d98ee3d18523decb1a77f692a8d6`  
 _The jazz battle between Makasu and the Egyptian goddess Maat is deadlocked until the River Styx shoves Charon down her throat. Will the afterlife convergence cause two different religions to merge their Musical Battle Robots?_  
 <a href="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
