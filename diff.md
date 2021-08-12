@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 11, 2021 at 12:30:28 EDT_
+_Last Update: August 12, 2021 at 00:00:27 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2013221 Tim & Eric's Bedtime Stories: 1  
+### 2133104
+**Tim & Eric's Bedtime Stories S02E01 - Baklava**  
+TV-14-LV 🔓 11:16  
+⌛ September 15, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tim-erics-bedtime-stories/baklava  
+seriesid=`2013221` titleid=`2133104` id=`OwqPnwL1TNesifUBI-XkYQ` mediaid=`f334dbd2ef86849eaaed32260c94f2b0cbad0b9e`  
+_In pursuit of a badly needed bonus, Barry struggles to make piano sales and Mr. Crown becomes fixated on a new dessert._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117845574-tebs_301_dup-20170825.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117845574-tebs_301_dup-20170825.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2194549 Gemusetto: 1  
-### 2241827
-**Gemusetto S02E02 - Episode Two: A# Minor**  
-TV-14-DLSV 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-two-a-minor  
-seriesid=`2194549` titleid=`2241827` id=`AXWVgV50LyLQBOXK_PZu` mediaid=`5e63a2388210d98ee3d18523decb1a77f692a8d6`  
-_The jazz battle between Makasu and the Egyptian goddess Maat is deadlocked until the River Styx shoves Charon down her throat. Will the afterlife convergence cause two different religions to merge their Musical Battle Robots?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg" height="144px" /></a>
+2013221 Tim & Eric's Bedtime Stories: 1  
+### 2013222
+**Tim & Eric's Bedtime Stories S??E?? - Tim & Eric's Bedtime Stories: Haunted House**  
+TV-14-L 🔒 22:23  
+⌛ August 11, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tim-erics-bedtime-stories/tim-erics-bedtime-stories-haunted-house  
+seriesid=`2013221` titleid=`2013222` id=`qhedLUghQo2cWoKz09ZfGg` mediaid=`a23013d9cd258b814d0c7ec12fea745067088045`  
+_Tim, Eric and Zach are elated to learn their grandfather has left them each $1,000 in his will. However, there's a catch. In order to collect their money, they must live in his haunted mansion for the rest of their lives._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117838267-tebs_100_dup-20140908.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117838267-tebs_100_dup-20140908.jpg" height="144px" /></a>
