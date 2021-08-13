@@ -1,6 +1,7 @@
 {
-    "updated": 1628883023,
-    "added": [
+    "updated": 1628884826,
+    "added": [],
+    "removed": [
         {
             "auth": false,
             "ott_launch_date": 1451658960,
@@ -57,112 +58,6 @@
             "cma_id": "",
             "collection_slug": "the-brak-show",
             "collection_title_id": "340531",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": null,
-            "auth_expiration_date": null,
-            "tms_id": "EP028359580004",
-            "description": "We flash back to the turbulent times of \"The Early 2000's\" where a college aged Steve and Curtis meet their new roommate.",
-            "title_suggest": {
-                "input": [
-                    "Dormitory Floors",
-                    "Floors"
-                ]
-            },
-            "title": "Dormitory Floors",
-            "type": "episode",
-            "expiration_date": 2085368400,
-            "platforms": [
-                "web",
-                "mobile",
-                "fire-tv",
-                "roku"
-            ],
-            "collection_id": "AWBMMba1Z-onAnjDLthP",
-            "duration": 660.17,
-            "episode_number": "4",
-            "original_air_date": 1513920600,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "media_id": "46ecdd398b656df834f2b3eb247ba09749f3039a",
-            "modified": 1627104025,
-            "airing_id": "RADS1011131800044914",
-            "id": "AWBla6xHZ-onAnjDLtn1",
-            "slug": "dormitory-floors",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151363610721718.jpg",
-            "created": 1513530043,
-            "title_id": "2144140",
-            "tv_rating": "tv-14-ls",
-            "season_number": "1",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1627104025,
-            "tags": [],
-            "collection_title": "Tender Touches",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1542690000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151363610721718.jpg",
-            "collection_slug": "tender-touches",
-            "collection_title_id": "2144136",
-            "online_exclusives": false
-        },
-        {
-            "ott_launch_date": 1545838200,
-            "auth_expiration_date": 1627617540,
-            "tms_id": "",
-            "description": "Did you know that if you hold your mother against your ear and listen closely, you can hear your dead father softly crying \"my child has gone banana\"?",
-            "title_suggest": {
-                "input": [
-                    "Tow and Shell",
-                    "and Shell",
-                    "Shell"
-                ]
-            },
-            "title": "Tow and Shell",
-            "expiration_date": 2085368400,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "ott",
-                "roku"
-            ],
-            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-            "duration": 676.46,
-            "episode_number": "5",
-            "original_air_date": 1545627600,
-            "auth_launch_date": 1624593600,
-            "clip_order": null,
-            "media_id": "c90e090fe747cdfb1b0177794e22bc65f225a87b",
-            "modified": 1625241989,
-            "airing_id": "RADS1001111900059411",
-            "slug": "tow-and-shell",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15452410357433.jpg",
-            "created": 1544124188,
-            "season_number": "1",
-            "title_id": "2172251",
-            "tv_rating": "tv-ma",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1625241989,
-            "tags": [],
-            "collection_title": "The Shivering Truth",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1547453700,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15452410357433.jpg",
-            "id": "AWeE-UjTqD68dq0Op5wD",
-            "auth": false,
-            "collection_slug": "the-shivering-truth",
-            "collection_title_id": "2165429",
             "online_exclusives": false
         }
     ]
