@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 14, 2021 at 03:00:25 EDT_
+_Last Update: August 15, 2021 at 00:00:25 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2073005 Neon Joe: 1  
-### 2118595
-**Neon Joe S02E02 - Parenthetical Head Nod**  
-TV-14-DSV 🔓 22:19  
-⌛ August 18, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/neon-joe/parenthetical-head-nod  
-seriesid=`2073005` titleid=`2118595` id=`-o3osKg2T_mjc5HBSpGTeg` mediaid=`66fa72f7a50d3a259766b7f93fad64a459745c27`  
-_Jailed for the murder of his rival Plaid Jeff, Neon Joe has to fight off a violent skinhead gang while trying to escape and prove his innocence. Will he succeed??_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146486-neonjoe_202_dup-20170425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146486-neonjoe_202_dup-20170425.jpg" height="144px" /></a>
+2194658 The Promised Neverland: 1  
+### 2264539
+**The Promised Neverland S02E08 - Episode 8**  
+TV-14-LV 🔒 21:12  
+⌛ August 14, 2021 at 23:29:00 EDT  
+https://www.adultswim.com/videos/the-promised-neverland/episode-8  
+seriesid=`2194658` titleid=`2264539` id=`AXmee3JaBH5Z6gH5aWRc` mediaid=`f9ff40347ee0684392937ed91c7fb3f25af309cb`  
+_Norman, seized by coughing, spits up blood. He lied about not being experimented on when he was at Lambda. With the time he has left, Norman reunites with Emma in order to create a world where she and the children can live in peace._  
+<a href="https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271145148-TPN2_020_Episode8.png"><img src="https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271145148-TPN2_020_Episode8.png" height="144px" /></a>
