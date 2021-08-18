@@ -294,6 +294,53 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1613537940,
+        "tms_id": "EP014135410038",
+        "description": "It's all around you.",
+        "title_suggest": {
+            "input": [
+                "Fire"
+            ]
+        },
+        "title": "Fire",
+        "expiration_date": 1632283140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 681.47,
+        "episode_number": "3",
+        "original_air_date": 1574758800,
+        "auth_launch_date": 1610514000,
+        "clip_order": null,
+        "media_id": "a28dd0dfaa7a97951d58b3a51983c1577b049fc9",
+        "modified": 1628881693,
+        "airing_id": "RADS1008132100021929",
+        "slug": "fire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/1_19112117860-offtheair_903_dup-20191121.jpg",
+        "created": 1574374080,
+        "season_number": "9",
+        "title_id": "2199313",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1628881693,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1629259200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg",
+        "id": "AW6QAf5z1YiBSfg0KYx3",
+        "auth": false
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1631073540,
@@ -1089,56 +1136,6 @@
         "launch_date": 1542949200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121326246-offtheair_203A_dup-20141029.jpg",
         "cma_id": "1028960"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1485876600,
-        "auth_expiration_date": 1629259140,
-        "tms_id": "EP014135410028",
-        "description": "Now with 50 percent less meaning!",
-        "title_suggest": {
-            "input": [
-                "Words"
-            ]
-        },
-        "title": "Words",
-        "type": "episode",
-        "expiration_date": 1626235140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-        "duration": 668.7674341,
-        "episode_number": "4",
-        "original_air_date": 1485853200,
-        "clip_order": null,
-        "auth_launch_date": 1626235200,
-        "modified": 1625813484,
-        "airing_id": "RADS1006042100002323",
-        "media_id": "33483019ea53739ccc3290310551bfe1f5cd48ca",
-        "id": "pg1pY249QLKbPTmZ4T9bhg",
-        "slug": "words",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121342218-offtheair_604_dup-20170127.jpg",
-        "created": 1485788475,
-        "season_number": "6",
-        "title_id": "2087834",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1625813484,
-        "first_published": 1485788475,
-        "tags": [],
-        "collection_title": "Off The Air",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1623211200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121342218-offtheair_604_dup-20170127.jpg",
-        "cma_id": ""
     },
     {
         "auth": false,
