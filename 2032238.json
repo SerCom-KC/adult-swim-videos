@@ -50,57 +50,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1629259140,
-        "tms_id": "EP020020000040",
-        "description": "Has a woman's late husband been reincarnated as her sweet little dog?",
-        "title_suggest": {
-            "input": [
-                "A Dog's Life",
-                "Dog's Life",
-                "Life"
-            ]
-        },
-        "expiration_date": 1623211140,
-        "title": "A Dog's Life",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 672.7506255,
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "episode_number": "10",
-        "original_air_date": 1500262200,
-        "clip_order": null,
-        "auth_launch_date": 1623211200,
-        "modified": 1622784587,
-        "media_id": "6b14a58de8088262c70f87970b98b8aa5170c3a6",
-        "airing_id": "RADS1006042100002320",
-        "id": "35Z25k6WQQe8a8rZ5i2y7A",
-        "slug": "a-dogs-life",
-        "views": 5312,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111534204-miketysonmysteries_310.jpg",
-        "created": 1499372690,
-        "season_number": "3",
-        "title_id": "2117693",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1622784587,
-        "first_published": 1499929820,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1620187200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111534204-miketysonmysteries_310.jpg",
-        "cma_id": "1465241"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1631678340,
         "tms_id": "EP020020000044",
         "description": "The team reminisces about their favorite mysteries.",
@@ -491,6 +440,55 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1602647940,
+        "tms_id": "EP020020000056",
+        "description": "The team shares their highs and lows of the day around the dinner table but also they go to Scotland.",
+        "title_suggest": {
+            "input": [
+                "Pits and Peaks",
+                "and Peaks",
+                "Peaks"
+            ]
+        },
+        "title": "Pits and Peaks",
+        "type": "episode",
+        "expiration_date": 1632283140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 708.5412,
+        "episode_number": "5",
+        "original_air_date": 1563163200,
+        "auth_launch_date": 1596600000,
+        "clip_order": null,
+        "airing_id": "RADS1008132100021916",
+        "media_id": "3d9ccb2a479823d0140a44485f19a51d7fc57cce",
+        "modified": 1628880190,
+        "slug": "pits-and-peaks",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15629588846408.jpg",
+        "created": 1562894286,
+        "title_id": "2172002",
+        "season_number": "4",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1628880190,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1629259200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15629588846408.jpg",
+        "id": "AWvjwjzV4aLemgzOLFId",
+        "auth": false
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1632887940,
@@ -736,7 +734,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1635307140,
         "tms_id": "EP020020000051",
