@@ -1,53 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1629259140,
-        "tms_id": "EP008519090052",
-        "description": "While Dethklok's manager, Charles Offdensen, is absent cleaning up hundreds of problems caused by the band, Dethklok double books a gig--between Syria and Israel on the same day.",
-        "title_suggest": {
-            "input": [
-                "Doublebookedklok"
-            ]
-        },
-        "title": "Doublebookedklok",
-        "type": "episode",
-        "expiration_date": 1626235140,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 1278.8675342,
-        "episode_number": "10",
-        "original_air_date": 1287981000,
-        "auth_launch_date": 1626235200,
-        "clip_order": null,
-        "media_id": "997a1ce140c361cafd71e35ab18460a691bf7f18",
-        "modified": 1625814372,
-        "airing_id": "RADS1006042100002313",
-        "slug": "doublebookedklok",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111131474-metalocalypse_310_dst_cid-WAM8.jpg",
-        "created": 1521582786,
-        "title_id": "811456",
-        "tv_rating": "tv-ma",
-        "season_number": "3",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1625814372,
-        "tags": [],
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1623211200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111131474-metalocalypse_310_dst_cid-WAM8.jpg",
-        "id": "AWJFZsdqTdxzjxdCk-vU",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "All-Day Brutality That Will Leave You Begging For More",
@@ -267,6 +220,57 @@
         "launch_date": 1625630400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111133163-metalocalypse_404_bim.jpg",
         "cma_id": "1328290"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447170120,
+        "auth_expiration_date": 1530082799,
+        "tms_id": "EP008519090062",
+        "rating": 7.1843576,
+        "description": "As Dethklok hosts the most important dinner of their career, the divvying of album credits, over tagging on social networking sites, and fights over a girl come to head. Can CFO keep their issues in check? Will the record executives forgive them for the past year of mistakes? Or will it be a total, brutal disaster?",
+        "title_suggest": {
+            "input": [
+                "DethDinner"
+            ]
+        },
+        "type": "episode",
+        "title": "DethDinner",
+        "expiration_date": 1632283140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 675.2502085,
+        "episode_number": "10",
+        "original_air_date": 1341202500,
+        "clip_order": null,
+        "auth_launch_date": 1527058800,
+        "modified": 1628879903,
+        "media_id": "888cc46010e2484698a13be9c5e8aa8829061abd",
+        "airing_id": "RADS1008132100021918",
+        "id": "XqVWQ89MSQ26IUDdMBYRRw",
+        "slug": "deth-dinner",
+        "views": 82542,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111135259-metalocalypse_410_dup-20120627.jpg",
+        "created": 1402945469,
+        "title_id": "892270",
+        "season_number": "4",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1628879903,
+        "tags": [],
+        "rating_count": 358,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1629259200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111135259-metalocalypse_410_dup-20120627.jpg",
+        "cma_id": "1352836"
     },
     {
         "auth": true,
@@ -519,7 +523,7 @@
         "cma_id": "1324725"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447170000,
         "auth_expiration_date": 1632283140,
         "tms_id": "EP008519090057",
