@@ -1,7 +1,7 @@
 [
     {
         "ott_launch_date": 1544455800,
-        "auth_expiration_date": 1625198340,
+        "auth_expiration_date": 1633060740,
         "tms_id": "EP029602990002",
         "description": "Unfortunately everything in the whole universe just oozed out from Doug Dwyer's head.  But luckily, all that stuff is now coming over here to get you and also bite you.",
         "title_suggest": {
@@ -25,11 +25,11 @@
         "duration": 677.21,
         "episode_number": "1",
         "original_air_date": 1544418000,
-        "auth_launch_date": 1622174400,
+        "auth_launch_date": 1630036800,
         "clip_order": null,
-        "airing_id": "RADS1007162100014634",
+        "airing_id": "RADS1008202100022937",
         "media_id": "046eec3ea2da2d48e4721c90b684470190682d86",
-        "modified": 1626587468,
+        "modified": 1629483326,
         "slug": "the-nurple-rainbow",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15441359233745.jpg",
@@ -39,7 +39,7 @@
         "tv_rating": "tv-ma-sv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1626587468,
+        "published": 1629483326,
         "tags": [],
         "collection_title": "The Shivering Truth",
         "modified_by": "ODT Listener",
@@ -523,55 +523,6 @@
         "launch_date": 1545022800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352520128411.jpg",
         "id": "AWdc8mW0AsbXwNj3wAS8",
-        "auth": false
-    },
-    {
-        "ott_launch_date": 1545838200,
-        "auth_expiration_date": 1628222340,
-        "tms_id": "",
-        "description": "This week Violet discovers that that scalding throb that rips thru your body every few seconds has a name:  The Rest Of The World.",
-        "title_suggest": {
-            "input": [
-                "Fowl Flow",
-                "Flow"
-            ]
-        },
-        "title": "Fowl Flow",
-        "expiration_date": 2085368400,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-        "duration": 677.13,
-        "episode_number": "6",
-        "original_air_date": 1545628500,
-        "auth_launch_date": 1625198400,
-        "clip_order": null,
-        "media_id": "ee1d1457a5e0788e336d53395889dd6b58d80719",
-        "modified": 1625241989,
-        "airing_id": "RADS1006252100008620",
-        "slug": "fowl-flow",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154352543980519.jpg",
-        "created": 1543444809,
-        "season_number": "1",
-        "title_id": "2172252",
-        "tv_rating": "tv-ma-sv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1625241989,
-        "tags": [],
-        "collection_title": "The Shivering Truth",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1547454600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg",
-        "id": "AWdcesecqD68dq0Op5mi",
         "auth": false
     },
     {
