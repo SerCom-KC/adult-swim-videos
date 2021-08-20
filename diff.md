@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 20, 2021 at 10:30:23 EDT_
+_Last Update: August 20, 2021 at 11:30:25 EDT_
 ## Video added
 ### Summary
-2020945 Attack on Titan: 1  
-### 2020946
-**Attack on Titan S01E01 - To You, in 2000 Years: The Fall of Shiganshina, Part 1**  
-TV-14-LV 🔓 24:50  
-⌛ September 24, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/to-you-in-2000-years-the-fall-of-shiganshina-part-1  
-seriesid=`2020945` titleid=`2020946` id=`pUkvwMWMSoKE_ezLU9vURg` mediaid=`89a01c2841c3b53259e00a8af11253f442ea62d7`  
-_After 100 years of peace, humanity is suddenly reminded of the terror of being at the Titans' mercy._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251157219-attackontitan_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251157219-attackontitan_001.jpg" height="144px" /></a>
+2143080 Black Clover: 1  
+### 2189539
+**Black Clover S02E10 - The Promised World**  
+TV-PG-V 🔒 21:21  
+⌛ August 23, 2021 at 23:59:59 EDT  
+https://www.adultswim.com/videos/black-clover/the-promised-world  
+seriesid=`2143080` titleid=`2189539` id=`AWlKjubFAScUIg8Xxdnw` mediaid=`f2395bfa128d21b063b5cc52321c35d024a11f78`  
+_An unexpected reunion could lead to turnaround in this heated battle! Asta and Mars fight side-by-side to go up against Fana and the powerful Salamander._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155258475721317.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155258475721317.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
