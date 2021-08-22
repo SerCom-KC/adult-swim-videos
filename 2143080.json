@@ -5152,7 +5152,7 @@
         "launch_date": 1628415000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161025388-BlackClover_159_QuietLakesAndForestShadows.png",
         "id": "AXqvtZKsBH5Z6gH5aWYB",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1645352940,
@@ -5246,6 +5246,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210813/thumbnails/2_21813114662-BlackClover_161_ZenonsPower.png",
         "id": "AXs1i9creTntnGIjub1A",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1631438940,
+        "tms_id": "EP032284200165",
+        "description": "As the Dark Triad's Vanica enters the Heart Kingdom, brother Dante visits the Black Bulls' hideout to meet Yami - but finds Asta and friends instead.",
+        "title_suggest": {
+            "input": [
+                "The Great War Breaks Out",
+                "Great War Breaks Out",
+                "War Breaks Out",
+                "Breaks Out",
+                "Out"
+            ]
+        },
+        "title": "The Great War Breaks Out",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1353.3187,
+        "episode_number": "8",
+        "original_air_date": 1629612000,
+        "auth_launch_date": 1629624600,
+        "clip_order": null,
+        "airing_id": "RADS1008162100022381",
+        "media_id": "62a1a9d90ed85957b41a4375839ce7f3caa3a1ec",
+        "modified": 1629483037,
+        "slug": "the-great-war-breaks-out",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/1_218201113460-BlackClover_162_TheGreatWarBreaksOut.png",
+        "created": 1629128452,
+        "title_id": "2277537",
+        "season_number": "4",
+        "tv_rating": "tv-14-v",
+        "published": 1629483037,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201113460-BlackClover_162_TheGreatWarBreaksOut.png",
+        "id": "AXtPn2tJ0_E45RWzeAzf",
         "auth": true
     }
 ]
