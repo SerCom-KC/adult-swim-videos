@@ -980,7 +980,7 @@
         "launch_date": 1629018000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_217231058472-FoodWars_59_ToTheSiteOfTheFinalBattle.png",
         "id": "AXq_zOVtBH5Z6gH5aWYF",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1630382399,
@@ -1080,7 +1080,7 @@
         "launch_date": 1629622800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730113262-FoodWars_060_ForTheSakeOfKyokuseiDorm.png",
         "id": "AXr38UuheTntnGIjub0z",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1630229340,
@@ -1128,6 +1128,55 @@
         "launch_date": 1630229400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730114151-FoodWars_061_ThatWhichMakesOneStrong.png",
         "id": "AXr38fBTeTntnGIjub00",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1631437140,
+        "tms_id": "EP037424930001",
+        "description": "The second round in the fight against Central has begun! It's Kuga, Megishima, and Mimasaka cooking against Tsukasa, Rindou, and Saitou in a battle of specialty ingredients.",
+        "title_suggest": {
+            "input": [
+                "That Which I Want to Protect",
+                "Which I Want to Protect",
+                "I Want to Protect",
+                "Want to Protect",
+                "to Protect",
+                "Protect"
+            ]
+        },
+        "title": "That Which I Want to Protect",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 1391.1898,
+        "episode_number": "1",
+        "original_air_date": 1629610200,
+        "auth_launch_date": 1629622800,
+        "clip_order": null,
+        "airing_id": "RADS1008162100022380",
+        "media_id": "e5ec6681acd74339def473e94c555420fa8cb5b6",
+        "modified": 1629472372,
+        "slug": "that-which-i-want-to-protect",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/1_218201112358-FoodWars_62_ThatWhichIWantToProtect.png",
+        "created": 1629128452,
+        "title_id": "2298586",
+        "season_number": "4",
+        "tv_rating": "tv-ma-s",
+        "published": 1629472372,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201112358-FoodWars_62_ThatWhichIWantToProtect.png",
+        "id": "AXtPn2lQeTntnGIjub1H",
         "auth": true
     }
 ]
