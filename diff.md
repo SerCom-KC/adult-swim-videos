@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 22, 2021 at 08:00:25 EDT_
+_Last Update: August 22, 2021 at 18:00:25 EDT_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177754
-**Naruto: Shippuden S06E42 - Jinchuriki vs. Jinchuriki!!**  
-TV-PG-LV 🔒 21:51  
-⌛ December 21, 2021 at 07:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/jinchuriki-vs-jinchuriki  
-seriesid=`812206` titleid=`2177754` id=`AXcSB1PbQJ_4Uej5kTmg` mediaid=`29bf5708c9c39986b93b4e3216dc45e468ec45c9`  
-_Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan._  
-<a href="https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg" height="144px" /></a>
+2073005 Neon Joe: 1  
+### 2118596
+**Neon Joe S02E03 - Rules of the Road**  
+TV-14-DLV 🔓 21:55  
+⌛ August 25, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/neon-joe/rules-of-the-road  
+seriesid=`2073005` titleid=`2118596` id=`pFI4H7GGSOqx35I3-Tib2g` mediaid=`4f100a9f6f2e7627b3393e6b1c0d03270ad0e391`  
+_Having escaped prison, Neon Joe confronts billionaire Elon Musk-type inventor Vance Dontay, and gets the shocking surprise of his life, forcing him to confront his demons. Will he succeed???_  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114774-neonjoe_203_dup-20170508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114774-neonjoe_203_dup-20170508.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177754
-**Naruto: Shippuden S06E42 - Jinchuriki vs. Jinchuriki!!**  
-TV-PG-LV 🔒 21:51  
-⌛ August 22, 2021 at 07:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/jinchuriki-vs-jinchuriki  
-seriesid=`812206` titleid=`2177754` id=`AXcSB1PabxpjZvbXYmDA` mediaid=`29bf5708c9c39986b93b4e3216dc45e468ec45c9`  
-_Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan._  
+No videos were removed.  
