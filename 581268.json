@@ -55,7 +55,7 @@
         "cma_id": "1422943"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447446180,
         "auth_expiration_date": 1629777540,
         "tms_id": "EP007008180076",
@@ -455,7 +455,7 @@
     },
     {
         "ott_launch_date": 1509373740,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1629777540,
         "tms_id": "EP007008180108",
         "description": "Sheriff discovers alcohol at the world's largest outdoor cocktail party.",
@@ -1479,7 +1479,7 @@
         "launch_date": 1609218000,
         "poster": "https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg",
         "id": "AWy6cI7hCorLtcgflt2f",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -2491,7 +2491,7 @@
         "cma_id": "1313348"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447444560,
         "auth_expiration_date": 1629777540,
         "tms_id": "EP007008180056",
