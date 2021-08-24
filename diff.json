@@ -1,68 +1,22 @@
 {
-    "updated": 1629815424,
+    "updated": 1629829825,
     "added": [
         {
-            "auth_expiration_date": 1629172740,
-            "tms_id": "EP007542790041",
-            "description": "Rooster escapes Spider from the World of Muck and finds himself in a desert with a well-armed Kid camping out. Peanut Cop and Golden Joe break out of prison on jet skis; Aria realizes that Professor Wilx is working for Shyd Industries.",
+            "auth_expiration_date": 1630236540,
+            "tms_id": "",
+            "description": "Kakashi and Guy arrive in the nick of time to back up Naruto and Killer Bee. The fight intensifies even further when three out of the six Reanimated Jinchuriki enter Tailed Beast State.",
             "title_suggest": {
                 "input": [
-                    "Because They Could",
-                    "They Could",
-                    "Could"
+                    "Four Tails, the King of Sage Monkeys",
+                    "Tails, the King of Sage Monkeys",
+                    "the King of Sage Monkeys",
+                    "King of Sage Monkeys",
+                    "of Sage Monkeys",
+                    "Sage Monkeys",
+                    "Monkeys"
                 ]
             },
-            "title": "Because They Could",
-            "expiration_date": 1632887940,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "4187UTxoQACKlt3B24ioQA",
-            "duration": 675.5749,
-            "episode_number": "5",
-            "original_air_date": "1595649600",
-            "auth_launch_date": 1626148800,
-            "clip_order": null,
-            "airing_id": "RADS1008192100022686",
-            "media_id": "2e28469552fe89d78f023f7fb0199f36067138aa",
-            "modified": 1629477045,
-            "slug": "because-they-could",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_2071713376-12oz_305_dup-20200713.jpg",
-            "created": 1595005393,
-            "season_number": "3",
-            "title_id": "2224141",
-            "tv_rating": "tv-14-lv",
-            "published": 1629477045,
-            "tags": [],
-            "collection_title": "12 oz Mouse",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1629813600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_2071713376-12oz_305_dup-20200713.jpg",
-            "id": "AXNduttzRs3h4hI_X4VX",
-            "auth": false,
-            "collection_slug": "12-oz-mouse",
-            "collection_title_id": "618253",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth_expiration_date": 1630232940,
-            "tms_id": "EP034917240110",
-            "description": "In order to learn the truth behind the Leaf's actions, Sasuke decides to resurrect the one man who can help him find the answer\u2014Orochimaru.",
-            "title_suggest": {
-                "input": [
-                    "Orochimaru's Return",
-                    "Return"
-                ]
-            },
-            "title": "Orochimaru's Return",
+            "title": "Four Tails, the King of Sage Monkeys",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -72,33 +26,34 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1310.8762,
-            "episode_number": "58",
-            "original_air_date": "1621148400",
-            "auth_launch_date": 1621161000,
+            "duration": 1311.3434,
+            "episode_number": "43",
+            "original_air_date": "1612080000",
+            "auth_launch_date": 1621164600,
             "clip_order": null,
-            "airing_id": "RADS1005122100097531",
-            "media_id": "06a7e214a85edc50aa2a89a2b3bce1d4a4a29618",
-            "modified": 1629811285,
-            "slug": "orochimarus-return",
+            "airing_id": "RADS1005122100097515",
+            "media_id": "e377a62313a8a1f707054baf0485a3c8dbbdbdeb",
+            "modified": 1629828272,
+            "slug": "four-tails-the-king-of-sage-monkeys",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210512/thumbnails/1_215121116504-NarutoShippuden_341_OrochimarusReturn.png",
-            "created": 1620832629,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/1_211211112587-NarutoShippuden_326_FourTails.jpg",
+            "created": 1611245580,
             "season_number": "6",
-            "title_id": "2177770",
+            "title_id": "2177755",
             "tv_rating": "tv-pg",
-            "published": 1629811285,
+            "published": 1629828272,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210512/thumbnails/2_215121116504-NarutoShippuden_341_OrochimarusReturn.png",
-            "id": "AXlhJzL6BH5Z6gH5aWO-",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211112587-NarutoShippuden_326_FourTails.jpg",
+            "id": "AXcluHKYQJ_4Uej5kTnD",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
