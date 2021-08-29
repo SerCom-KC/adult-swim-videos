@@ -457,7 +457,7 @@
         "launch_date": 1630224000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730111331-MyHeroAcademia_102_OffToEndeavorsAgency.png",
         "id": "AXr1e0Ti0_E45RWzeAmZ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1638680340,
@@ -603,6 +603,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201110480-MyHeroAcademia_104_LongTimeNoSeeSelkie.png",
         "id": "AXtayM9R0_E45RWzeA0i",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1632038340,
+        "tms_id": "EP034435300106",
+        "description": "Endeavor brings his work study students over for dinner at Fuyumi's request but faces awkward conversations at home.",
+        "title_suggest": {
+            "input": [
+                "The Hellish Todoroki Family",
+                "Hellish Todoroki Family",
+                "Todoroki Family",
+                "Family"
+            ]
+        },
+        "title": "The Hellish Todoroki Family",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1327.326,
+        "episode_number": "17",
+        "original_air_date": 1630211400,
+        "auth_launch_date": 1630224000,
+        "clip_order": null,
+        "airing_id": "RADS1008202100023056",
+        "media_id": "fcfb86277d879a3b3f2026b294b87248250ac757",
+        "modified": 1630088225,
+        "slug": "the-hellish-todoroki-family",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/1_218271053180-MyHeroAcademia_105_TheHellishTodorokiFamily.png",
+        "created": 1629493683,
+        "title_id": "2267470",
+        "season_number": "5",
+        "tv_rating": "tv-14",
+        "published": 1630088225,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271053180-MyHeroAcademia_105_TheHellishTodorokiFamily.png",
+        "id": "AXtlZGRReTntnGIjub1N",
         "auth": true
     }
 ]
