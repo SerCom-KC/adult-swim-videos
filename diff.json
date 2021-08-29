@@ -1,18 +1,18 @@
 {
-    "updated": 1630226058,
+    "updated": 1630227751,
     "added": [
         {
-            "auth_expiration_date": 1632040140,
-            "tms_id": "EP036780850008",
-            "description": "Moroha accepts a job to slay Konton, a member of the Four Perils said to have defeated Meioju, a demon beast with the ultimate armored shell.",
+            "auth_expiration_date": 1632041940,
+            "tms_id": "EP037424930002",
+            "description": "Mimikasa unveils a cunning technique during his culinary contest against Saitou, but will this new skill be enough to claim a win?",
             "title_suggest": {
                 "input": [
-                    "Meifuku, the Meioju",
-                    "the Meioju",
-                    "Meioju"
+                    "The Strobe Flashes",
+                    "Strobe Flashes",
+                    "Flashes"
                 ]
             },
-            "title": "Meifuku, the Meioju",
+            "title": "The Strobe Flashes",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -21,35 +21,88 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXpED60VBH5Z6gH5aWXi",
-            "duration": 1314.0794,
-            "episode_number": "9",
-            "original_air_date": 1630213200,
-            "auth_launch_date": 1630225800,
+            "collection_id": "AWuvYf7tCorLtcgflrvU",
+            "duration": 1348.3804,
+            "episode_number": "2",
+            "original_air_date": 1630215000,
+            "auth_launch_date": 1630227600,
             "clip_order": null,
-            "airing_id": "RADS1008202100022984",
-            "media_id": "2030ff21f59f64146f36b9ba9c2292ba0eff143b",
-            "modified": 1630088269,
-            "slug": "meifuku-the-meioju",
+            "airing_id": "RADS1008202100022986",
+            "media_id": "28ef61a99569deffd0839e5c05b1f06d05c1e19e",
+            "modified": 1630076149,
+            "slug": "the-strobe-flashes",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/1_218271054386-YashahimePrincessHalfDemon_109_MeifukuTheMeioju.png",
-            "created": 1629484017,
-            "title_id": "2268289",
-            "season_number": "1",
-            "tv_rating": "tv-14",
-            "published": 1630088269,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/1_218271055299-FoodWars_63_TheStrobeFlashes.png",
+            "created": 1629484019,
+            "title_id": "2298587",
+            "season_number": "4",
+            "tv_rating": "tv-ma-s",
+            "published": 1630076149,
             "tags": [],
-            "collection_title": "Yashahime: Princess Half-Demon",
+            "collection_title": "Food Wars!",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
+            "modified_by": "Sara Griggs",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271054386-YashahimePrincessHalfDemon_109_MeifukuTheMeioju.png",
-            "id": "AXtk0OX-0_E45RWzeA2S",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271055299-FoodWars_63_TheStrobeFlashes.png",
+            "id": "AXtk0O2u0_E45RWzeA2T",
             "auth": true,
-            "collection_slug": "yashahime-princess-half-demon",
-            "collection_title_id": "2268280",
+            "collection_slug": "food-wars",
+            "collection_title_id": "2201017",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": 1629622740,
+            "tms_id": "EP034485810001",
+            "description": "The first bout is in full swing. Satoshi's loyalties are called into question and the judges reveal themselves: They are representatives\u00a0from the World Gourmet Organization!",
+            "title_suggest": {
+                "input": [
+                    "For the Sake of Kyokusei Dorm",
+                    "the Sake of Kyokusei Dorm",
+                    "Sake of Kyokusei Dorm",
+                    "of Kyokusei Dorm",
+                    "Kyokusei Dorm",
+                    "Dorm"
+                ]
+            },
+            "title": "For the Sake of Kyokusei Dorm",
+            "expiration_date": 1630227540,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AWuvYf7tCorLtcgflrvU",
+            "duration": 1387.4861,
+            "episode_number": "23",
+            "original_air_date": "1627795800",
+            "auth_launch_date": 1627808400,
+            "clip_order": null,
+            "airing_id": "RADS1008162100022377",
+            "media_id": "1daf12bf5a1823efb7afde0b6e90a84ee23bc776",
+            "modified": 1629196718,
+            "slug": "for-the-sake-of-kyokusei-dorm",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/1_21730113262-FoodWars_060_ForTheSakeOfKyokuseiDorm.png",
+            "created": 1627657423,
+            "season_number": "3",
+            "title_id": "2258246",
+            "tv_rating": "tv-ma-s",
+            "published": 1629196718,
+            "tags": [],
+            "collection_title": "Food Wars!",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1629622800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730113262-FoodWars_060_ForTheSakeOfKyokuseiDorm.png",
+            "id": "AXr38UuheTntnGIjub0z",
+            "auth": false,
+            "collection_slug": "food-wars",
+            "collection_title_id": "2201017",
+            "online_exclusives": false
+        }
+    ]
 }
