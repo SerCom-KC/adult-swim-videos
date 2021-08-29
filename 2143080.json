@@ -4951,7 +4951,7 @@
         "launch_date": 1629019800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_2172311056-BlackClover_160_MessengerFromTheSpadeKingdom.png",
         "id": "AXrQCK9ieTntnGIjub0o",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1630834140,
@@ -5044,6 +5044,57 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201113460-BlackClover_162_TheGreatWarBreaksOut.png",
         "id": "AXtPn2tJ0_E45RWzeAzf",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1632043740,
+        "tms_id": "EP032284200166",
+        "description": "Grey recalls her unhappy childhood and a fateful encounter. Yami takes on the ruthless Dante, while Luck faces off against a marauding Dark Disciple.",
+        "title_suggest": {
+            "input": [
+                "Dante vs. the Captain of the Black Bulls",
+                "vs. the Captain of the Black Bulls",
+                "the Captain of the Black Bulls",
+                "Captain of the Black Bulls",
+                "of the Black Bulls",
+                "the Black Bulls",
+                "Black Bulls",
+                "Bulls"
+            ]
+        },
+        "title": "Dante vs. the Captain of the Black Bulls",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1303.1685,
+        "episode_number": "9",
+        "original_air_date": 1630216800,
+        "auth_launch_date": 1630229400,
+        "clip_order": null,
+        "airing_id": "RADS1008202100022989",
+        "media_id": "9368889018a15dd97c162bc768c5e14d1c73f776",
+        "modified": 1630088374,
+        "slug": "dante-vs-the-captain-of-the-black-bulls",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/1_218271056262-BlackClover_163_DanteVSTheCaptainOfTheBlackBulls.png",
+        "created": 1629484019,
+        "title_id": "2277538",
+        "season_number": "4",
+        "tv_rating": "tv-14-v",
+        "published": 1630088374,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271056262-BlackClover_163_DanteVSTheCaptainOfTheBlackBulls.png",
+        "id": "AXtk0PCu0_E45RWzeA2U",
         "auth": true
     }
 ]
