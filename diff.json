@@ -1,17 +1,23 @@
 {
-    "updated": 1630234823,
-    "added": [
+    "updated": 1630238424,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1639308540,
-            "tms_id": "EP034917240110",
-            "description": "In order to learn the truth behind the Leaf's actions, Sasuke decides to resurrect the one man who can help him find the answer\u2014Orochimaru.",
+            "auth_expiration_date": 1630236540,
+            "tms_id": "",
+            "description": "Kakashi and Guy arrive in the nick of time to back up Naruto and Killer Bee. The fight intensifies even further when three out of the six Reanimated Jinchuriki enter Tailed Beast State.",
             "title_suggest": {
                 "input": [
-                    "Orochimaru's Return",
-                    "Return"
+                    "Four Tails, the King of Sage Monkeys",
+                    "Tails, the King of Sage Monkeys",
+                    "the King of Sage Monkeys",
+                    "King of Sage Monkeys",
+                    "of Sage Monkeys",
+                    "Sage Monkeys",
+                    "Monkeys"
                 ]
             },
-            "title": "Orochimaru's Return",
+            "title": "Four Tails, the King of Sage Monkeys",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -21,34 +27,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1310.8762,
-            "episode_number": "58",
-            "original_air_date": "1621148400",
-            "auth_launch_date": 1630233000,
+            "duration": 1311.3434,
+            "episode_number": "43",
+            "original_air_date": "1612080000",
+            "auth_launch_date": 1621164600,
             "clip_order": null,
-            "airing_id": "RADS1008202100022981",
-            "media_id": "06a7e214a85edc50aa2a89a2b3bce1d4a4a29618",
-            "modified": 1629814361,
-            "slug": "orochimarus-return",
+            "airing_id": "RADS1005122100097515",
+            "media_id": "e377a62313a8a1f707054baf0485a3c8dbbdbdeb",
+            "modified": 1629828272,
+            "slug": "four-tails-the-king-of-sage-monkeys",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210512/thumbnails/1_215121116504-NarutoShippuden_341_OrochimarusReturn.png",
-            "created": 1620832629,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/1_211211112587-NarutoShippuden_326_FourTails.jpg",
+            "created": 1611245580,
             "season_number": "6",
-            "title_id": "2177770",
+            "title_id": "2177755",
             "tv_rating": "tv-pg",
-            "published": 1629814361,
+            "published": 1629828272,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210512/thumbnails/2_215121116504-NarutoShippuden_341_OrochimarusReturn.png",
-            "id": "AXlhJzL6BH5Z6gH5aWO-",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211112587-NarutoShippuden_326_FourTails.jpg",
+            "id": "AXcluHKYQJ_4Uej5kTnD",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
