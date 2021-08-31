@@ -1,5 +1,56 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1630987140,
+        "tms_id": "EP007164450105",
+        "description": "The Smiths prepare for the arrival of Stan's half-brother's family for Thanksgiving.",
+        "title_suggest": {
+            "input": [
+                "There Will Be Bad Blood",
+                "Will Be Bad Blood",
+                "Be Bad Blood",
+                "Bad Blood",
+                "Blood"
+            ]
+        },
+        "title": "There Will Be Bad Blood",
+        "type": "episode",
+        "expiration_date": 1480660199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1300.0654,
+        "episode_number": "18",
+        "original_air_date": 1292043600,
+        "auth_launch_date": 1630382400,
+        "clip_order": null,
+        "modified": 1630208041,
+        "media_id": "1901effee4b06f454a712c0f86a9fd188da9a7e2",
+        "airing_id": "RADS1008272100023822",
+        "id": "-n7pptEaSK-nCb751T7B4w",
+        "slug": "there-will-be-bad-blood",
+        "views": 385,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154335655553018.jpg",
+        "created": 1479708627,
+        "title_id": "822208",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1630208041,
+        "first_published": 1479708627,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1480055400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg",
+        "cma_id": "1298322"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1623470340,
         "tms_id": "",
@@ -240,97 +291,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141459105-americandad_1218_air_cid-3TRJY.jpg",
         "id": "AWWGtzvUh5enQuYyHyPD",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1630382340,
-        "tms_id": "EP007164450369",
-        "description": "Steve's efforts to befriend a Swedish exchange student backfire in a big way; The family calls in an animal behaviorist to deal with Klaus.",
-        "title_suggest": {
-            "input": [
-                "Salute Your Sllort",
-                "Your Sllort",
-                "Sllort"
-            ]
-        },
-        "title": "Salute Your Sllort",
-        "expiration_date": 1620619140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1258.9577,
-        "episode_number": "11",
-        "original_air_date": "1594603800",
-        "auth_launch_date": 1629777600,
-        "clip_order": null,
-        "airing_id": "RADS1008192100022697",
-        "media_id": "e6ba7910fc1be590d90acf6242f372f5748e6f47",
-        "modified": 1629478514,
-        "slug": "salute-your-sllort",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg",
-        "created": 1610480569,
-        "season_number": "15",
-        "title_id": "2197416",
-        "tv_rating": "",
-        "published": 1629478514,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1620014400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg",
-        "id": "AXb4H0xWbxpjZvbXYl-A",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1630382340,
-        "tms_id": "EP007164450373",
-        "description": "Steve and the boys take part in a prison experiment to earn some cash. Meanwhile, Stan deals with the death of his CIA groundskeeper friend.",
-        "title_suggest": {
-            "input": [
-                "American Data?",
-                "Data?"
-            ]
-        },
-        "title": "American Data?",
-        "expiration_date": 1620619140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1261.994,
-        "episode_number": "10",
-        "original_air_date": "1593999000",
-        "auth_launch_date": 1629777600,
-        "clip_order": null,
-        "airing_id": "RADS1008192100022693",
-        "media_id": "564d3eb0bee2f5a1e6038ddd8d154bfecc324668",
-        "modified": 1629477654,
-        "slug": "american-data",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
-        "created": 1610480418,
-        "season_number": "15",
-        "title_id": "2197415",
-        "tv_rating": "",
-        "published": 1629477654,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1620014400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
-        "id": "AXb4HP38bxpjZvbXYl9_",
-        "auth": true
     },
     {
         "auth_expiration_date": 1630641540,
@@ -987,6 +947,50 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002043995718.jpg",
         "cma_id": "822206"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1630987140,
+        "tms_id": "EP007164450104",
+        "rating": 7.7128396,
+        "description": "Every year on Francine's father's birthday, Francine and Stan have an argument about moving Francine's parents to town.",
+        "title_suggest": {
+            "input": [
+                "White Rice ",
+                "Rice"
+            ]
+        },
+        "type": "episode",
+        "title": "White Rice ",
+        "expiration_date": 1504673999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.9066,
+        "episode_number": "5",
+        "original_air_date": 1291438800,
+        "auth_launch_date": 1630382400,
+        "modified": 1630211324,
+        "media_id": "bb15e669655dcb7211132f1fbcc737412272512f",
+        "airing_id": "RADS1008272100023851",
+        "id": "psIzQSnCQrG2F0J92A5A7w",
+        "slug": "white-rice",
+        "views": 218300,
+        "created": 1402945460,
+        "title_id": "748128",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "published": 1630211324,
+        "tags": [],
+        "rating_count": 296,
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1504069200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_6936894913331064753.jpg",
+        "cma_id": "1461362"
     },
     {
         "auth": true,
