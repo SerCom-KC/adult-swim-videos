@@ -1,59 +1,62 @@
 {
-    "updated": 1630737026,
+    "updated": 1630740624,
     "added": [
         {
             "auth": false,
-            "ott_launch_date": 1517239860,
-            "auth_expiration_date": 1625111940,
-            "tms_id": "EP025439100007",
-            "description": "French must grow 300 feet tall to fight a monster.",
+            "ott_launch_date": 1444591980,
+            "auth_expiration_date": 1619063940,
+            "tms_id": "EP014698040031",
+            "description": "Steve and Baby Cakes strike it rich, while Frank falls in love with a piece of a movie star.",
             "title_suggest": {
                 "input": [
-                    "Operation: Large and in Charge",
-                    "Large and in Charge",
-                    "and in Charge",
-                    "in Charge",
-                    "Charge"
+                    "Gummie World",
+                    "World"
                 ]
             },
-            "title": "Operation: Large and in Charge",
-            "type": "episode",
             "expiration_date": 2085368400,
+            "title": "Gummie World",
+            "type": "episode",
             "platforms": [
+                "web",
+                "mobile",
                 "ott"
             ],
-            "collection_id": "fXqvCbmfQGK3pmdTs7JWaw",
-            "duration": 666.42,
-            "episode_number": "6",
-            "original_air_date": 1517202900,
+            "duration": 1354.0834028,
+            "collection_id": "bTSxZ6hTRWW5zzUGCOXm8w",
+            "episode_number": "9",
+            "original_air_date": 1433734200,
             "clip_order": null,
-            "auth_launch_date": 1622088000,
-            "modified": 1630736000,
-            "media_id": "352c85ba6857ea3c36a4fedb9489a0e80fdf55ff",
-            "airing_id": "RADS1003081900072752",
-            "id": "pX9b8Ar7TjaSrU6oJM7REQ",
-            "slug": "operation-large-and-in-charge",
+            "auth_launch_date": 1616040000,
+            "modified": 1630739186,
+            "media_id": "1bb6168f43220cda6becb0ed6d3950f4505a1d1e",
+            "airing_id": "RADS1002011900064708",
+            "id": "mvsFtqXHTQKr4Mm5thBULg",
+            "slug": "gummie-world",
+            "views": 32108,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351526502-HotStreets_106_dup-20170908.jpg",
-            "created": 1505250345,
-            "season_number": "1",
-            "title_id": "2131837",
-            "tv_rating": "tv-14-v",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_2032172236-chinail_310_dup-20150603.jpg",
+            "created": 1429023755,
+            "season_number": "3",
+            "title_id": "2053741",
+            "tv_rating": "tv-14-dls",
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1630736000,
+            "published": 1630739186,
+            "first_published": 1433694019,
             "tags": [],
-            "collection_title": "Hot Streets",
+            "collection_title": "China, IL",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1552575600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351526502-HotStreets_106_dup-20170908.jpg",
-            "cma_id": "",
-            "collection_slug": "hot-streets",
-            "collection_title_id": "2104364",
+            "launch_date": 1549256400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032172236-chinail_310_dup-20150603.jpg",
+            "cma_id": "1406670",
+            "collection_slug": "china-il",
+            "collection_title_id": "862772",
             "online_exclusives": false
-        },
+        }
+    ],
+    "removed": [
         {
             "auth": false,
             "ott_launch_date": 1496154600,
@@ -109,6 +112,5 @@
             "collection_title_id": "2073005",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
