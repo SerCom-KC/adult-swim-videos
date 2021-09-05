@@ -1,22 +1,20 @@
 {
-    "updated": 1630839626,
-    "added": [
+    "updated": 1630841434,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1639913340,
-            "tms_id": "EP034917240111",
-            "description": "Having absorbed the chakras of all nine Tailed Beasts, the Gedo Statue begins its transformation into Ten Tails.",
+            "auth_expiration_date": 1630841340,
+            "tms_id": "",
+            "description": "Naruto finds himself inside Four Tails' inner world, where he promises to free him from Madara's control.",
             "title_suggest": {
                 "input": [
-                    "Secret of the Transportation Technique",
-                    "of the Transportation Technique",
-                    "the Transportation Technique",
-                    "Transportation Technique",
-                    "Technique"
+                    "Nine Tails",
+                    "Tails"
                 ]
             },
-            "title": "Secret of the Transportation Technique",
-            "type": "episode",
+            "title": "Nine Tails",
             "expiration_date": null,
+            "type": "episode",
             "platforms": [
                 "android",
                 "ios",
@@ -24,20 +22,20 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.7437,
-            "episode_number": "59",
-            "original_air_date": 1621753200,
-            "auth_launch_date": 1630837800,
+            "duration": 1311.5102,
+            "episode_number": "44",
+            "original_air_date": "1612684800",
+            "auth_launch_date": 1621769400,
             "clip_order": null,
-            "airing_id": "RADS1009022100026010",
-            "media_id": "dde99d778a6d9a5f1d0d41b99ba26bc20ad63924",
+            "airing_id": "RADS1005172100099224",
+            "media_id": "920c8c2df3bb493ebd2c891960fbb336978eebb9",
             "modified": 1630604608,
-            "slug": "secret-of-the-transportation-technique",
+            "slug": "nine-tails",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210520/thumbnails/1_215201245400-NarutoShippuden_342_SecretOfTheTransportationTechnique.png",
-            "created": 1621281991,
-            "title_id": "2177771",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/1_211211112362-NarutoShippuden_327_NineTails.jpg",
+            "created": 1611245558,
             "season_number": "6",
+            "title_id": "2177756",
             "tv_rating": "tv-pg-l",
             "published": 1630604608,
             "tags": [],
@@ -45,13 +43,12 @@
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210520/thumbnails/2_215201245400-NarutoShippuden_342_SecretOfTheTransportationTechnique.png",
-            "id": "AXl77-02BH5Z6gH5aWPs",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211112362-NarutoShippuden_327_NineTails.jpg",
+            "id": "AXcluBsmbxpjZvbXYmEI",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
