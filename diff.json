@@ -1,59 +1,6 @@
 {
-    "updated": 1630962026,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Summer\u2019s new boyfriend isn\u2019t human, Jerry\u2019s in big trouble as usual, and Rick is well\u2026 just being Rick. Don\u2019t miss the new Rick and Morty short, Summer meets God from Takashi Sano, acclaimed director of the Tower of God series. \nDirector: Takashi Sano, \nProduced by: Sola Entertainment, \nAnimation Studio: Telecom Animation Film",
-            "title_suggest": {
-                "input": [
-                    "Summer Meets God (Rick Meets Evil)",
-                    "Meets God (Rick Meets Evil)",
-                    "God (Rick Meets Evil)",
-                    "(Rick Meets Evil)",
-                    "Meets Evil)",
-                    "Evil)"
-                ]
-            },
-            "title": "Summer Meets God (Rick Meets Evil)",
-            "expiration_date": null,
-            "type": "clip",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "online-exclusive",
-                "roku"
-            ],
-            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 881.899,
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "airing_id": "",
-            "media_id": "me8888e8d665c1e92af37b0cd7aede08596942b6af",
-            "modified": 1630961379,
-            "slug": "summer-meets-god-rick-meets-evil",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210803/thumbnails/1_2183174417-SummerMeetsGod.png",
-            "created": 1628031801,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1630961379,
-            "tags": [],
-            "collection_title": "Rick and Morty",
-            "disable_ads": false,
-            "modified_by": "Jonas Eason",
-            "launch_date": 1628082000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210803/thumbnails/2_2183174417-SummerMeetsGod.png",
-            "id": "AXsOQdeMeTntnGIjub06",
-            "auth": false,
-            "collection_slug": "rick-and-morty",
-            "collection_title_id": "2013506",
-            "online_exclusives": true
-        },
+    "updated": 1630962082,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
@@ -156,6 +103,59 @@
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
             "online_exclusives": true
+        },
+        {
+            "auth_expiration_date": null,
+            "tms_id": "",
+            "description": "Summer\u2019s new boyfriend isn\u2019t human, Jerry\u2019s in big trouble as usual, and Rick is well\u2026 just being Rick. Don\u2019t miss the new Rick and Morty short, Summer meets God from Takashi Sano, acclaimed director of the Tower of God series. \nDirector: Takashi Sano, \nProduced by: Sola Entertainment, \nAnimation Studio: Telecom Animation Film",
+            "title_suggest": {
+                "input": [
+                    "Summer Meets God (Rick Meets Evil)",
+                    "Meets God (Rick Meets Evil)",
+                    "God (Rick Meets Evil)",
+                    "(Rick Meets Evil)",
+                    "Meets Evil)",
+                    "Evil)"
+                ]
+            },
+            "title": "Summer Meets God (Rick Meets Evil)",
+            "expiration_date": null,
+            "type": "clip",
+            "platforms": [
+                "android",
+                "fire-tv",
+                "ios",
+                "online-exclusive",
+                "roku"
+            ],
+            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+            "duration": 881.899,
+            "original_air_date": null,
+            "auth_launch_date": null,
+            "clip_order": null,
+            "airing_id": "",
+            "media_id": "me8888e8d665c1e92af37b0cd7aede08596942b6af",
+            "modified": 1630961379,
+            "slug": "summer-meets-god-rick-meets-evil",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210803/thumbnails/1_2183174417-SummerMeetsGod.png",
+            "created": 1628031801,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
+            "published": 1630961379,
+            "tags": [],
+            "collection_title": "Rick and Morty",
+            "disable_ads": false,
+            "modified_by": "Jonas Eason",
+            "launch_date": 1628082000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210803/thumbnails/2_2183174417-SummerMeetsGod.png",
+            "id": "AXsOQdeMeTntnGIjub06",
+            "auth": false,
+            "collection_slug": "rick-and-morty",
+            "collection_title_id": "2013506",
+            "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
