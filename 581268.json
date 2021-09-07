@@ -286,56 +286,6 @@
         "auth": false
     },
     {
-        "auth": true,
-        "ott_launch_date": 1510586940,
-        "auth_expiration_date": 1630987140,
-        "tms_id": "EP007008180111",
-        "description": "It takes a man to make the women's room safe from men who think they're women.",
-        "title_suggest": {
-            "input": [
-                "The Ballad of the Latrine Marine",
-                "Ballad of the Latrine Marine",
-                "of the Latrine Marine",
-                "the Latrine Marine",
-                "Latrine Marine",
-                "Marine"
-            ]
-        },
-        "title": "The Ballad of the Latrine Marine",
-        "type": "episode",
-        "expiration_date": 1600747199,
-        "platforms": [
-            "fire-tv",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 677.08,
-        "episode_number": "5",
-        "original_air_date": 1510549200,
-        "auth_launch_date": 1629777600,
-        "clip_order": null,
-        "media_id": "54c9c90fbf1aa2f2904e6caad7de635e7fa0d2a0",
-        "modified": 1629477043,
-        "airing_id": "RADS1008192100022691",
-        "id": "AV-mQXGAwdpKFAKSbS73",
-        "slug": "the-ballad-of-the-latrine-marine",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151058978554711.jpg",
-        "created": 1510322827,
-        "title_id": "2108968",
-        "tv_rating": "tv-14-dlsv",
-        "season_number": "11",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1629477043,
-        "tags": [],
-        "collection_title": "Squidbillies",
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151058978554711.jpg"
-    },
-    {
         "ott_launch_date": 1511191740,
         "auth": true,
         "auth_expiration_date": 1631591940,
@@ -438,6 +388,53 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151094272857212.jpg",
         "id": "AV_LNMUUwdpKFAKSbaqn",
         "auth": false
+    },
+    {
+        "ott_launch_date": 1511796540,
+        "auth": true,
+        "auth_expiration_date": 1632196740,
+        "tms_id": "EP007008180113",
+        "description": "Everyone lies and all the houses burn.",
+        "title_suggest": {
+            "input": [
+                "Tortuga de Mentiras",
+                "de Mentiras",
+                "Mentiras"
+            ]
+        },
+        "title": "Tortuga de Mentiras",
+        "type": "episode",
+        "expiration_date": 1602561540,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 677.17,
+        "episode_number": "7",
+        "original_air_date": 1511758800,
+        "auth_launch_date": 1630987200,
+        "clip_order": null,
+        "media_id": "9128debc734b5f6b717c7c9af0cc04c0aa3c7e43",
+        "modified": 1630701980,
+        "airing_id": "RADS1009032100026660",
+        "id": "AV_uQ6mowdpKFAKSbh1U",
+        "slug": "tortuga-de-mentiras",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15118054331064.jpg",
+        "created": 1511530932,
+        "title_id": "2108971",
+        "tv_rating": "tv-14-dlv",
+        "season_number": "11",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1630701980,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1599537600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg"
     },
     {
         "ott_launch_date": null,
@@ -606,57 +603,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20190911/thumbnails/2_19911105463-squidbillies_BTS_ShooterJennings.jpg",
         "id": "AW0g0emvCorLtcgfluS7",
         "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1630987140,
-        "tms_id": "EP007008180124",
-        "description": "Early lets his beak flag fly.",
-        "title_suggest": {
-            "input": [
-                "There's Sucker Porn Every Minute",
-                "Sucker Porn Every Minute",
-                "Porn Every Minute",
-                "Every Minute",
-                "Minute"
-            ]
-        },
-        "title": "There's Sucker Porn Every Minute",
-        "expiration_date": 1613451540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 677.79,
-        "episode_number": "8",
-        "original_air_date": 1568606400,
-        "auth_launch_date": 1629172800,
-        "clip_order": null,
-        "media_id": "8edc70d6b4c5caa818e7098afb936eb7b59423a8",
-        "modified": 1628882006,
-        "airing_id": "RADS1008132100021939",
-        "slug": "theres-sucker-porn-every-minute",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/1_19913132161-squidbillies_1009_dup-20190912.jpg",
-        "created": 1568319008,
-        "season_number": "12",
-        "title_id": "2199310",
-        "tv_rating": "tv-ma-s",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1628882006,
-        "tags": [],
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1610427600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg",
-        "id": "AW0nGO_iCorLtcgfluVv",
-        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -1543,6 +1489,59 @@
         "auth": false
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447446060,
+        "auth_expiration_date": 1632196740,
+        "tms_id": "EP007008180080",
+        "rating": 7.4765625,
+        "description": "Rusty ducks his responsibilities as a deadbeat dad to become an amateur crime-fighter.",
+        "title_suggest": {
+            "input": [
+                "The Inkubator Lives!",
+                "Inkubator Lives!",
+                "Lives!"
+            ]
+        },
+        "type": "episode",
+        "title": "The Inkubator Lives!",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 692.8757298,
+        "episode_number": "3",
+        "original_air_date": 1377490500,
+        "clip_order": null,
+        "auth_launch_date": 1630987200,
+        "modified": 1630701979,
+        "media_id": "68f55fc0c90caa9043cef39ed2b1f3867bdfc4fe",
+        "airing_id": "RADS1009032100026667",
+        "id": "FSJJDU6dSs-a7xKtQWpDCA",
+        "slug": "the-inkubator-lives",
+        "views": 43472,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141058382-squidbillies_704_dup-20130821.jpg",
+        "created": 1402945477,
+        "title_id": "2006884",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1630701979,
+        "tags": [],
+        "rating_count": 128,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141058382-squidbillies_704_dup-20130821.jpg",
+        "cma_id": "1443726"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -1711,6 +1710,64 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447442460,
+        "auth_expiration_date": 1632801540,
+        "tms_id": "EP007008180002",
+        "rating": 8.8180275,
+        "description": "Early seeks employment in a difficult job market.",
+        "title_suggest": {
+            "input": [
+                "Take This Job And Love It",
+                "This Job And Love It",
+                "Job And Love It",
+                "And Love It",
+                "Love It",
+                "It"
+            ]
+        },
+        "type": "episode",
+        "title": "Take This Job And Love It",
+        "expiration_date": 1615265940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 677.667334,
+        "episode_number": "2",
+        "original_air_date": 1130126400,
+        "clip_order": null,
+        "auth_launch_date": 1630987200,
+        "modified": 1630702893,
+        "media_id": "f080105d89bf682d8b3bfdc30fd7195dea32553d",
+        "airing_id": "RADS1009032100026674",
+        "id": "JDZOvlIjSVe_hrWtQSm4Xg",
+        "slug": "take-this-job-and-love-it",
+        "views": 459962,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_20481611427-squidbillies_002.jpg",
+        "created": 1402945477,
+        "title_id": "626849",
+        "season_number": "1",
+        "tv_rating": "tv-14-lsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1630702893,
+        "tags": [
+            "squidbillies episode 2 take this job and love it early job employment mattress dan halen"
+        ],
+        "rating_count": 4226,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1612242000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611427-squidbillies_002.jpg",
+        "cma_id": "1153641"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -1873,59 +1930,6 @@
         "launch_date": 1508261100,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151794971982617.png",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447443540,
-        "auth_expiration_date": 1613451540,
-        "tms_id": "EP007008180028",
-        "rating": 8.159652,
-        "description": "Smelling youthful and sexy comes at a heavy price.",
-        "title_suggest": {
-            "input": [
-                "Sharif"
-            ]
-        },
-        "type": "episode",
-        "title": "Sharif",
-        "expiration_date": 1630987140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 675.5672339,
-        "episode_number": "8",
-        "original_air_date": 1205121600,
-        "clip_order": null,
-        "auth_launch_date": 1611637200,
-        "modified": 1627648411,
-        "media_id": "3a7e083cd1e9dc98225a47a36c37dc16fd3a6ce5",
-        "airing_id": "RADS1007302100017787",
-        "id": "TtIXmsBbTJ26gX-uo3fDXQ",
-        "slug": "sharif",
-        "views": 528653,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131133162-squidbillies_028_bim_X4FW.jpg",
-        "created": 1402945477,
-        "title_id": "706643",
-        "season_number": "3",
-        "tv_rating": "tv-14-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1627648411,
-        "tags": [
-            "squidbillies episode 28 sharif clone fired job"
-        ],
-        "rating_count": 2092,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1627963200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131133162-squidbillies_028_bim_X4FW.jpg",
-        "cma_id": "1429348"
     },
     {
         "auth": false,
@@ -2119,64 +2123,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447445820,
-        "auth_expiration_date": 1630987140,
-        "tms_id": "EP007008180078",
-        "rating": 5.8111405,
-        "description": "Early becomes king of a local cave.",
-        "title_suggest": {
-            "input": [
-                "Granite Caverns",
-                "Caverns"
-            ]
-        },
-        "type": "episode",
-        "title": "Granite Caverns",
-        "expiration_date": 1598932799,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 667.7506255,
-        "episode_number": "1",
-        "original_air_date": 1376280900,
-        "clip_order": null,
-        "auth_launch_date": 1629777600,
-        "modified": 1629477325,
-        "media_id": "498f04fe066d2f30662e389266bdf714cbf5c985",
-        "airing_id": "RADS1008192100022695",
-        "id": "bg7xJat4SbWJbYuO2oDVfw",
-        "slug": "granite-caverns",
-        "views": 61588,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141057287-squidbillies_701_dup-20130808.jpg",
-        "created": 1402945477,
-        "title_id": "2006881",
-        "season_number": "8",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1629477325,
-        "tags": [
-            "Squidbillies",
-            "Granite Caverns",
-            "Early",
-            "King",
-            "Adult Swim"
-        ],
-        "rating_count": 1885,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141057287-squidbillies_701_dup-20130808.jpg",
-        "cma_id": "1435513"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -2285,6 +2231,61 @@
         "launch_date": 1542690000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414105852-squidbillies_703_dup-20130813.jpg",
         "cma_id": "1439424"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447443660,
+        "auth_expiration_date": 1616471940,
+        "tms_id": "EP007008180033",
+        "rating": 9.016287,
+        "description": "The greatest story ever told. About cartoon squids.",
+        "title_suggest": {
+            "input": [
+                "Armageddon It On!",
+                "It On!",
+                "On!"
+            ]
+        },
+        "type": "episode",
+        "title": "Armageddon It On!",
+        "expiration_date": 1634011140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 677.1001001,
+        "episode_number": "13",
+        "original_air_date": 1208751300,
+        "clip_order": null,
+        "auth_launch_date": 1614661200,
+        "modified": 1630700814,
+        "media_id": "fa99075538dce4fe3dd1927b7f5daa53c8c058af",
+        "airing_id": "RADS1009032100026652",
+        "id": "cmnxjk8jTlCKp3eYWrzHOQ",
+        "slug": "armageddon-it-on",
+        "views": 564238,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131135230-squidbillies_033_bim.jpg",
+        "created": 1402945477,
+        "title_id": "714674",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1630700814,
+        "tags": [
+            "squidbillies episode 33 armageddon it on rapture heaven jesus god satan"
+        ],
+        "rating_count": 2026,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1630987200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131135230-squidbillies_033_bim.jpg",
+        "cma_id": "1448135"
     },
     {
         "auth": false,
@@ -2552,6 +2553,68 @@
         "cma_id": "1360146"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447715220,
+        "auth_expiration_date": 1632801540,
+        "tms_id": "EP007008180061",
+        "rating": 6.4950666,
+        "description": "Terror ensues after Early shoots a cow belonging to Al-Qaeda.",
+        "title_suggest": {
+            "input": [
+                "America: Why I Love Her",
+                "Why I Love Her",
+                "I Love Her",
+                "Love Her",
+                "Her"
+            ]
+        },
+        "type": "episode",
+        "title": "America: Why I Love Her",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 1334.6006006,
+        "episode_number": "10",
+        "original_air_date": 1279512000,
+        "clip_order": null,
+        "auth_launch_date": 1630987200,
+        "modified": 1630701978,
+        "media_id": "99cb9751f58cad4cb02b737732a2a62a4f490266",
+        "airing_id": "RADS1009032100026647",
+        "id": "n3STUqgfRN2KZIGCEHZoWw",
+        "slug": "america-why-i-love-her",
+        "views": 377690,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131320582-squidbillies_052_dst_cid-U8D5.jpg",
+        "created": 1402945476,
+        "title_id": "798532",
+        "season_number": "5",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1630701978,
+        "tags": [
+            "Squidbillies",
+            "Squid Billies",
+            "Billy",
+            "America",
+            "Musical",
+            "finale"
+        ],
+        "rating_count": 4256,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131320582-squidbillies_052_dst_cid-U8D5.jpg",
+        "cma_id": "1365183"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Enter Sharon Van Etten's home studio for this lovely rendition.",
@@ -2598,63 +2661,6 @@
         "launch_date": 1470320640,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/squids-theme-behind-the-scenes-sharon-van-etten/squidbillies_BTS_904_SharonVanEtten.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447444620,
-        "auth_expiration_date": 1630987140,
-        "tms_id": "EP007008180058",
-        "rating": 6.140005,
-        "description": "Early's GPS shows him the fastest route from friendship to obsession, avoiding all toll roads.",
-        "title_suggest": {
-            "input": [
-                "Fatal Distraction",
-                "Distraction"
-            ]
-        },
-        "type": "episode",
-        "title": "Fatal Distraction",
-        "expiration_date": 1598932799,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 673.8341675,
-        "episode_number": "7",
-        "original_air_date": 1277697600,
-        "clip_order": null,
-        "auth_launch_date": 1629172800,
-        "modified": 1628881408,
-        "media_id": "4d2fbbcd350d86990cdbb85c225aca15b6bafc56",
-        "airing_id": "RADS1008132100021928",
-        "id": "s7KPxIqHQmiVbuEA2oJNVg",
-        "slug": "fatal-distraction",
-        "views": 455060,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131319476-squidbillies_058_dst_cid-WJU3.jpg",
-        "created": 1402945476,
-        "title_id": "798536",
-        "season_number": "5",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1628881408,
-        "tags": [
-            "Squidbillies",
-            "Squid Billies",
-            "Billy",
-            "Fatal Distraction"
-        ],
-        "rating_count": 3807,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131319476-squidbillies_058_dst_cid-WJU3.jpg",
-        "cma_id": "1352167"
     },
     {
         "auth": false,
