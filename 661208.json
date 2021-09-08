@@ -259,7 +259,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783740,
         "auth_expiration_date": 1634097540,
         "tms_id": "EP008994530002",
@@ -425,6 +425,59 @@
         "cma_id": "1457834"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447783860,
+        "auth_expiration_date": 1606280340,
+        "tms_id": "EP008994530007",
+        "rating": 6.338924,
+        "description": "An old man takes a picture of himself by mistake.\r\n(David Cross, Will Forte, Maria Bamford guest star)",
+        "title_suggest": {
+            "input": [
+                "Abstinence"
+            ]
+        },
+        "type": "episode",
+        "title": "Abstinence",
+        "expiration_date": 1634097540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 694.53,
+        "episode_number": "7",
+        "original_air_date": 1174880700,
+        "clip_order": null,
+        "auth_launch_date": 1603252800,
+        "modified": 1630703519,
+        "media_id": "e0397357f462798ec0ffd1ee2be7be7b9dcb86f1",
+        "airing_id": "RADS1009032100026690",
+        "id": "bjdWkeP8SAOU-cRSMTZEdA",
+        "slug": "abstinence",
+        "views": 529418,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620486-timanderic_107.jpg",
+        "created": 1402945481,
+        "title_id": "661594",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1630703519,
+        "tags": [
+            "tim eric awesome show great job episode 7 abstinence picture jan wayne skylar david cross will forte maria bamford"
+        ],
+        "rating_count": 6078,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1631073600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620486-timanderic_107.jpg",
+        "cma_id": "661594"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447785060,
         "auth_expiration_date": 1632283140,
@@ -542,56 +595,6 @@
         "launch_date": 1629864000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620131-timanderic_105.jpg",
         "cma_id": "1477435"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447785000,
-        "auth_expiration_date": 1631073540,
-        "tms_id": "EP008994530049",
-        "rating": 8.451506,
-        "description": "Tim and Eric square off to settle who is the more handsome, fancy man. Hang around for a sneak peak at what's inside Richard Dunn's mouth. (Guest starring: Bob Odenkirk)",
-        "title_suggest": {
-            "input": [
-                "Handsome"
-            ]
-        },
-        "type": "episode",
-        "title": "Handsome",
-        "expiration_date": 1628049540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 669.44,
-        "episode_number": "7",
-        "original_air_date": 1271651400,
-        "clip_order": null,
-        "auth_launch_date": 1628049600,
-        "modified": 1627654997,
-        "media_id": "dcc213cbef80d2226d8a333f45683f6f6d2ebd12",
-        "airing_id": "RADS1006252100008313",
-        "id": "jthYQUfvRkeLzOPk14gaBg",
-        "slug": "handsome",
-        "views": 326532,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116164857-timanderic_507.jpg",
-        "created": 1402945481,
-        "title_id": "787511",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1627654997,
-        "tags": [],
-        "rating_count": 1619,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1625025600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116164857-timanderic_507.jpg",
-        "cma_id": "1435054"
     },
     {
         "auth": false,
