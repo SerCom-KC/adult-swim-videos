@@ -150,54 +150,6 @@
         "cma_id": "2105394"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1631073540,
-        "tms_id": "EP002960010272",
-        "description": "When Meg asks Peter for a check for her upcoming field trip, he finally notices that his \"checkbook\" is just a blank pad of paper. Lois agrees to take Peter to the bank where they discover that Peter's first name is really \"Justin\".",
-        "title_suggest": {
-            "input": [
-                "Quagmire's Mom",
-                "Mom"
-            ]
-        },
-        "title": "Quagmire's Mom",
-        "type": "episode",
-        "expiration_date": 1603079940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1290.289,
-        "episode_number": "10",
-        "original_air_date": 1424145600,
-        "auth_launch_date": 1630468800,
-        "clip_order": null,
-        "modified": 1630215516,
-        "media_id": "bec6478d7cc8c1752947356ff8ba51cd142238b4",
-        "airing_id": "RADS1008272100023888",
-        "id": "I0X6z9adREedJ4ZTmJfFJg",
-        "slug": "quagmires-mom",
-        "views": 1608,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15247535892981.jpg",
-        "created": 1441930861,
-        "title_id": "809292",
-        "tv_rating": "tv-14",
-        "season_number": "13",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1630215516,
-        "first_published": 1441930861,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1602475200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247535892981.jpg",
-        "cma_id": "1420479"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1632023999,
@@ -590,6 +542,58 @@
         "launch_date": 1603080000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126761636641.jpg",
         "cma_id": "1420648"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1632023999,
+        "tms_id": "EP002960010284",
+        "description": "It's nearly Fathers' Day, and when Peter learns about Joe's distant relationship with his father Bud, he invites Bud to town.",
+        "title_suggest": {
+            "input": [
+                "Papa Has a Rollin' Son",
+                "Has a Rollin' Son",
+                "a Rollin' Son",
+                "Rollin' Son",
+                "Son"
+            ]
+        },
+        "expiration_date": 1605502740,
+        "title": "Papa Has a Rollin' Son",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1299.1001001,
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "episode_number": "22",
+        "original_air_date": 1444705200,
+        "clip_order": null,
+        "auth_launch_date": 1631073600,
+        "modified": 1630704410,
+        "media_id": "c7672afaaf8df3a657d3ad3b10f6fcc8a0a7d903",
+        "airing_id": "RADS1009032100026704",
+        "id": "t27qtYTfTBiQ41uuL_AXpw",
+        "slug": "papa-has-a-rollin-son",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1444659523,
+        "season_number": "13",
+        "title_id": "809302",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1630704410,
+        "first_published": 1476335424,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "modified_by": "ODT Listener",
+        "launch_date": 1604898000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/papa-has-a-rollin-son/familyguy_1218_air_cid-2M5RR.jpg",
+        "cma_id": "1437963"
     },
     {
         "auth": true,
