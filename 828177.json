@@ -306,6 +306,56 @@
     },
     {
         "ott_launch_date": 1557757800,
+        "auth_expiration_date": 1615438740,
+        "tms_id": "EP013726210036",
+        "description": "A charismatic, new leader comes to Hell, and Gary gets shoehorned into an ancient prophecy.",
+        "title_suggest": {
+            "input": [
+                "The High Heel",
+                "High Heel",
+                "Heel"
+            ]
+        },
+        "title": "The High Heel",
+        "expiration_date": 1634183940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 673.42,
+        "episode_number": "4",
+        "original_air_date": 1557548100,
+        "auth_launch_date": 1612414800,
+        "clip_order": null,
+        "media_id": "12a8686dec0cfbdc93fc74a80a2189d569de3c70",
+        "modified": 1630736000,
+        "airing_id": "RADS1009032100026731",
+        "slug": "the-high-heel",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15574290498536.jpg",
+        "created": 1556816323,
+        "season_number": "4",
+        "title_id": "2191444",
+        "tv_rating": "tv-ma-ls",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1630736000,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1631160000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15574290498536.jpg",
+        "id": "AWp5e-VZAScUIg8XxfZ-",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1557757800,
         "auth_expiration_date": 1614833940,
         "tms_id": "EP013726210037",
         "description": "Satan taps into the youth market with a hot, new board game.",
@@ -610,7 +660,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1493648940,
         "auth_expiration_date": 1634183940,
         "tms_id": "EP013726210032",
@@ -865,56 +915,6 @@
         "launch_date": 1481577852,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-marathon/marathonStream_ypf6.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1480347000,
-        "auth_expiration_date": 1631159940,
-        "tms_id": "EP013726210027",
-        "description": "Satan isn't pleased with the current tortures, so he brings in an outside consultant.",
-        "title_suggest": {
-            "input": [
-                "Torture"
-            ]
-        },
-        "create_in_collection": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "expiration_date": 1628135940,
-        "title": "Torture",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 686.05,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "6",
-        "original_air_date": 1480307400,
-        "clip_order": null,
-        "auth_launch_date": 1628136000,
-        "modified": 1627711236,
-        "media_id": "d61aa266bd745ad4e684b69597ab69ef5e2e1a5e",
-        "airing_id": "RADS1006252100008612",
-        "id": "xqvtv_MeSBGknp8vIflqpQ",
-        "slug": "torture",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1477316853,
-        "season_number": "3",
-        "title_id": "2100307",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1627711236,
-        "first_published": 1480281037,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1625112000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/torture/yourprettyface_306_NoAdsCue_dup-20161122.jpg",
-        "cma_id": "2100307"
     },
     {
         "auth": true,
