@@ -275,7 +275,7 @@
         "cma_id": "2117211"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1631246340,
         "tms_id": "EP019059960057",
@@ -429,7 +429,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1631246340,
         "tms_id": "EP019059960065",
         "description": "After barely surviving Eren's recovery a rising threat from the shadows puts everyone's lives in danger again.",
@@ -908,7 +908,7 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251636508-attackontitan_047_air_cid-3NH50.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1637297940,
         "tms_id": "EP019059960075",
@@ -3155,7 +3155,7 @@
         "cma_id": "1440189"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1637297940,
         "tms_id": "EP019059960055",
@@ -3592,65 +3592,6 @@
         "launch_date": 1629468000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251157219-attackontitan_001.jpg",
         "cma_id": "1431273"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1631246340,
-        "tms_id": "EP019059960011",
-        "rating": 7.382979,
-        "description": "Annie proves her skill in a sparring session, Jean dreams of serving alongside the King, and graduation day brings shocking revelations - along with a sudden outbreak of violence!",
-        "title_suggest": {
-            "input": [
-                "The Night of the Closing Ceremony: Humanity's Comeback, Part 2",
-                "Night of the Closing Ceremony: Humanity's Comeback, Part 2",
-                "of the Closing Ceremony: Humanity's Comeback, Part 2",
-                "the Closing Ceremony: Humanity's Comeback, Part 2",
-                "Closing Ceremony: Humanity's Comeback, Part 2",
-                "Ceremony: Humanity's Comeback, Part 2",
-                "Humanity's Comeback, Part 2",
-                "Comeback, Part 2",
-                "Part 2",
-                "2"
-            ]
-        },
-        "type": "episode",
-        "title": "The Night of the Closing Ceremony: Humanity's Comeback, Part 2",
-        "expiration_date": 1634356740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
-        "duration": 1342.333667,
-        "episode_number": "4",
-        "original_air_date": 1400988600,
-        "clip_order": null,
-        "auth_launch_date": 1619150400,
-        "modified": 1630869579,
-        "media_id": "2eb141c156be20601cf7656c397d6d20e75c4398",
-        "airing_id": "RADS1004182100091163",
-        "id": "r0hEodA0RsOHYvSbvv4ioA",
-        "slug": "the-night-of-the-closing-ceremony-humanitys-comeback-part-2",
-        "views": 27290,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251158134-attackontitan_004.jpg",
-        "created": 1405435505,
-        "title_id": "2020949",
-        "tv_rating": "tv-14-lv",
-        "season_number": "1",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1630869579,
-        "tags": [],
-        "rating_count": 47,
-        "collection_title": "Attack on Titan",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1631282400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251158134-attackontitan_004.jpg",
-        "cma_id": "1444062"
     },
     {
         "auth": true,
