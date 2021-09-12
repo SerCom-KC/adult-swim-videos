@@ -5143,7 +5143,7 @@
         "launch_date": 1631439000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201113460-BlackClover_162_TheGreatWarBreaksOut.png",
         "id": "AXtPn2tJ0_E45RWzeAzf",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1632043740,
@@ -5240,6 +5240,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192157565-BlackClover_164_BattlefieldHeartKingdom.png",
         "id": "AXunA-O34Xbjep71f6Gs",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1633253340,
+        "tms_id": "EP032284200168",
+        "description": "Once Lolopechka realizes what will happen if the Dark Triad are triumphant, she and the women in her palace go all-out against Vanica - and Megicula.",
+        "title_suggest": {
+            "input": [
+                "Water Crusade",
+                "Crusade"
+            ]
+        },
+        "title": "Water Crusade",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1305.2706,
+        "episode_number": "",
+        "original_air_date": 1631426400,
+        "auth_launch_date": 1631439000,
+        "clip_order": null,
+        "airing_id": "RADS1009092100027583",
+        "media_id": "e5570b78abd295d4941e63afb79a0772e39c3a4c",
+        "modified": 1631295980,
+        "slug": "water-crusade",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/1_21910134647-BlackClover_165_WaterCrusade.png",
+        "created": 1631196944,
+        "title_id": "2277540",
+        "season_number": "4",
+        "tv_rating": "tv-pg-v",
+        "published": 1631295980,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_21910134647-BlackClover_165_WaterCrusade.png",
+        "id": "AXvK6hnwUQa40cfnRR8p",
         "auth": true
     }
 ]

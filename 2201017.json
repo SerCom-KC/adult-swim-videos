@@ -185,7 +185,7 @@
         "launch_date": 1631437200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201112358-FoodWars_62_ThatWhichIWantToProtect.png",
         "id": "AXtPn2lQeTntnGIjub1H",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1632041940,
@@ -276,6 +276,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192156567-FoodWars_64_HopefulSolidarity.png",
         "id": "AXunA5JN4Xbjep71f6Gr",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1633251540,
+        "tms_id": "EP037424930004",
+        "description": "The apple clash continues, and Megumi has a few tricks up her sleeve that she hopes will snatch a victory from the jaws of defeat.",
+        "title_suggest": {
+            "input": [
+                "Aim for Victory!",
+                "for Victory!",
+                "Victory!"
+            ]
+        },
+        "title": "Aim for Victory!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 1348.5138,
+        "episode_number": "4",
+        "original_air_date": 1631424600,
+        "auth_launch_date": 1631437200,
+        "clip_order": null,
+        "airing_id": "RADS1009092100027590",
+        "media_id": "499b25f43477e0af2cc2938a22077c427cba2571",
+        "modified": 1631295937,
+        "slug": "aim-for-victory",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/1_219101345119-FoodWars_65_AimForVictory.png",
+        "created": 1631196950,
+        "title_id": "2298589",
+        "season_number": "4",
+        "tv_rating": "tv-ma-s",
+        "published": 1631295937,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101345119-FoodWars_65_AimForVictory.png",
+        "id": "AXvK6i4dUQa40cfnRR8s",
         "auth": true
     }
 ]
