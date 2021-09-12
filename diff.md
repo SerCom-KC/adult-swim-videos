@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 12, 2021 at 03:30:26 EDT_
+_Last Update: September 12, 2021 at 04:00:29 EDT_
 ## Video added
 ### Summary
-2207385 Dr. Stone: 1  
-### 2264991
-**Dr. Stone S02E02 - Hot Line**  
-TV-PG-LV 🔓 22:34  
-⌛ September 26, 2021 at 02:59:00 EDT  
-https://www.adultswim.com/videos/dr-stone/hot-line  
-seriesid=`2207385` titleid=`2264991` id=`AXmGO0_VDmGy9WFjRrL_` mediaid=`395c3b12d9e9103c1f34fe0bde5f2465dba70c74`  
-_Senku's plan to flush out and trick Homura is mostly a success, but further complications arise when Kohaku tries to interfere._  
-<a href="https://media.cdn.adultswim.com/uploads/20210520/thumbnails/2_215201239243-DrStone_26_HotLine.png"><img src="https://media.cdn.adultswim.com/uploads/20210520/thumbnails/2_215201239243-DrStone_26_HotLine.png" height="144px" /></a>
+2218281 Fena: Pirate Princess: 1  
+### 2218287
+**Fena: Pirate Princess S01E?? - Mutiny on the Blue Giant**  
+TV-PG-DLV 🔒 23:39  
+⌛ October 3, 2021 at 03:29:00 EDT  
+https://www.adultswim.com/videos/fena-pirate-princess/mutiny-on-the-blue-giant  
+seriesid=`2218281` titleid=`2218287` id=`AXvK6h-QUQa40cfnRR8q` mediaid=`6aa0e50b52b12464348e97e0fa4f81fa2be5b434`  
+_Trapped in the mine, Yukimaru and the samurai plan their escape in order to go after Fena. Meanwhile, the kidnapped Fena is taken to a Royal Navy ship where Abel awaits._  
+<a href="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101341530-FenaPiratePrincess_106_MutinyOnTheBlueGiant.png"><img src="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101341530-FenaPiratePrincess_106_MutinyOnTheBlueGiant.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
