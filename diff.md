@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 12, 2021 at 05:30:24 EDT_
+_Last Update: September 12, 2021 at 06:30:26 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-2201017 Food Wars!: 1  
-### 2277540
-**Black Clover S04E?? - Water Crusade**  
-TV-PG-V 🔒 21:45  
-⌛ October 3, 2021 at 05:29:00 EDT  
-https://www.adultswim.com/videos/black-clover/water-crusade  
-seriesid=`2143080` titleid=`2277540` id=`AXvK6hnwUQa40cfnRR8p` mediaid=`e5570b78abd295d4941e63afb79a0772e39c3a4c`  
-_Once Lolopechka realizes what will happen if the Dark Triad are triumphant, she and the women in her palace go all-out against Vanica - and Megicula._  
-<a href="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_21910134647-BlackClover_165_WaterCrusade.png"><img src="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_21910134647-BlackClover_165_WaterCrusade.png" height="144px" /></a>
-### 2298589
-**Food Wars! S04E04 - Aim for Victory!**  
-TV-MA-S 🔒 22:28  
-⌛ October 3, 2021 at 04:59:00 EDT  
-https://www.adultswim.com/videos/food-wars/aim-for-victory  
-seriesid=`2201017` titleid=`2298589` id=`AXvK6i4dUQa40cfnRR8s` mediaid=`499b25f43477e0af2cc2938a22077c427cba2571`  
-_The apple clash continues, and Megumi has a few tricks up her sleeve that she hopes will snatch a victory from the jaws of defeat._  
-<a href="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101345119-FoodWars_65_AimForVictory.png"><img src="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101345119-FoodWars_65_AimForVictory.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177786
+**Naruto: Shippuden S07E09 - Kakashi: Shadow of the ANBU Black Ops - An Uchiha ANBU**  
+TV-PG-V 🔒 21:50  
+⌛ December 26, 2021 at 05:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-an-uchiha-anbu  
+seriesid=`812206` titleid=`2177786` id=`AXvK6iVrUQa40cfnRR8r` mediaid=`142d39806cd75302aa9db212d29f21891ff95871`  
+_Itachi Uchiha is inducted into Kakashi's unit as the youngest member of the ANBU Black Ops._  
+<a href="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101347154-NarutoShippuden_357_KakashiShadowOfTheANBUBlackOpsAnUchihaANBU.png"><img src="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101347154-NarutoShippuden_357_KakashiShadowOfTheANBUBlackOpsAnUchihaANBU.png" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+812206 Naruto: Shippuden: 1  
+### 2177772
+**Naruto: Shippuden S06E60 - Who Are You?**  
+TV-PG-V 🔒 21:51  
+⌛ September 12, 2021 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/who-are-you  
+seriesid=`812206` titleid=`2177772` id=`AXmefAcZBH5Z6gH5aWRd` mediaid=`f48370a0e7aa12d4a93b4b691724b79f84ef319e`  
+_Kakashi is disturbed to discover a strange connection between the masked man's Transportation Technique and his own Kamui Jutsu._  
+<a href="https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271151336-NarutoShippuden_343_WhoAreYou.png"><img src="https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271151336-NarutoShippuden_343_WhoAreYou.png" height="144px" /></a>
