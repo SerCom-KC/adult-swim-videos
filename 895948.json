@@ -471,54 +471,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1631505540,
-        "tms_id": "",
-        "description": "Eric welcomes Luis Guzm\u00e1n and Tia Carrere. Felipe Esparza hangs out. Mike Penis returns with a guest list of his own! JPEGMAFIA, Lil Yachty, MURS, Trippie Redd and Zack Fox on a new Rapper Warrior Ninja.",
-        "title_suggest": {
-            "input": [
-                "Named After My Dad's Penis",
-                "After My Dad's Penis",
-                "My Dad's Penis",
-                "Dad's Penis",
-                "Penis"
-            ]
-        },
-        "title": "Named After My Dad's Penis",
-        "expiration_date": 1628481540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1628481600,
-        "clip_order": null,
-        "airing_id": "RADS1008062100019526",
-        "media_id": "dac345dc57549a17c2d38edad9eef09c3e88bba0",
-        "modified": 1628276180,
-        "slug": "named-after-my-dads-penis",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161720229-ericandre_506_dup-20200910.jpg",
-        "created": 1600291229,
-        "season_number": "5",
-        "title_id": "2230786",
-        "tv_rating": "tv-ma-l",
-        "published": 1628276180,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1625457600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
-        "id": "AXSYyk1WSeFB2d0c387_",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1632110340,
         "tms_id": "",
         "description": "Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty.",
@@ -710,7 +662,7 @@
         "auth": true
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1634529540,
         "tms_id": "EP015632430022",
@@ -1043,6 +995,58 @@
         "launch_date": 1629086400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341615265-ericandre_022_dup-20141105.jpg",
         "cma_id": "1328830"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1589342340,
+        "tms_id": "EP015632430027",
+        "description": "Interviews with Wiz Khalifa and Aubrey Peeples.",
+        "title_suggest": {
+            "input": [
+                "Wiz Khalifa; Aubrey Peeples",
+                "Khalifa; Aubrey Peeples",
+                "Aubrey Peeples",
+                "Peeples"
+            ]
+        },
+        "title": "Wiz Khalifa; Aubrey Peeples",
+        "type": "episode",
+        "expiration_date": 1634529540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 634.9009009,
+        "episode_number": "6",
+        "original_air_date": 1418361300,
+        "clip_order": null,
+        "auth_launch_date": 1586318400,
+        "modified": 1631335981,
+        "media_id": "c8a3a816016c3725a5884263fdd7002124bfdcf9",
+        "airing_id": "RADS1009102100028737",
+        "id": "dsCoPMKdTGiPpfuQT3_brA",
+        "slug": "wiz-khalifa-aubrey-peeples",
+        "views": 154660,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341616490-ericandre_026_dup-20141203.jpg",
+        "created": 1418206827,
+        "title_id": "2032601",
+        "tv_rating": "tv-ma",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1631335981,
+        "first_published": 1418206827,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1631505600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341616490-ericandre_026_dup-20141203.jpg",
+        "cma_id": "1344979"
     },
     {
         "auth": false,
