@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 14, 2021 at 02:00:26 EDT_
+_Last Update: September 14, 2021 at 07:00:28 EDT_
 ## Video added
 ### Summary
-2194549 Gemusetto: 1  
-### 2241832
-**Gemusetto S02E07 - Episode Seven: EbMaj7**  
-TV-MA-L 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-seven-eb-maj-7  
-seriesid=`2194549` titleid=`2241832` id=`AXXc8DvGbxpjZvbXYlcf` mediaid=`4a349c888b9d5e556a95faa1a1a6d972ae0a100f`  
-_Tytti's boat docks in Diyu, the Chinese Mythological Hell. It appears abandoned and ​godless, populated only by roaming bicycle riding spirits who committed suicide. How dangerous is a hell with no management?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201118/thumbnails/2_2011181458402-GSMP_207_dup-20201116.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201118/thumbnails/2_2011181458402-GSMP_207_dup-20201116.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177773
+**Naruto: Shippuden S06E61 - Obito and Madara**  
+TV-PG-V 🔒 21:53  
+⌛ September 19, 2021 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/obito-and-madara  
+seriesid=`812206` titleid=`2177773` id=`AXnThy7-BH5Z6gH5aWS1` mediaid=`0620b5c5d1e133c3feae2cabe7a0cc947a929aa7`  
+_Naruto and the others are further shocked when they learn that Obito has been working with Madara Uchiha for years to orchestrate Project Tsuki no Me._  
+<a href="https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_21641155399-NarutoShippuden_344_ObitoAndMadara.png"><img src="https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_21641155399-NarutoShippuden_344_ObitoAndMadara.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
