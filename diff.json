@@ -1,7 +1,6 @@
 {
-    "updated": 1631810719,
-    "added": [],
-    "removed": [
+    "updated": 1631818708,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": null,
@@ -16,7 +15,7 @@
             },
             "title": "Train Floors",
             "type": "episode",
-            "expiration_date": 1631851140,
+            "expiration_date": 1634875140,
             "platforms": [
                 "web",
                 "mobile",
@@ -30,8 +29,8 @@
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "5bef553b3400adf12753b9fd4a68ec8d56f9726a",
-            "modified": 1628399419,
-            "airing_id": "RADS1008062100019690",
+            "modified": 1631818261,
+            "airing_id": "RADS1009162100029756",
             "id": "AWBjR9eFwdpKFAKSb6Ag",
             "slug": "train-floors",
             "exclude_from_search": false,
@@ -42,15 +41,17 @@
             "season_number": "1",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1628399419,
+            "published": 1631818261,
             "tags": [],
             "collection_title": "Tender Touches",
-            "modified_by": "ODT Listener",
-            "launch_date": 1628827200,
+            "disable_ads": false,
+            "modified_by": "Jonathan Jackson",
+            "launch_date": 1631818255,
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15136360894582.jpg",
             "collection_slug": "tender-touches",
             "collection_title_id": "2144136",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
