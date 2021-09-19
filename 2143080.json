@@ -5004,7 +5004,7 @@
         "launch_date": 1630834200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210813/thumbnails/2_21813114662-BlackClover_161_ZenonsPower.png",
         "id": "AXs1i9creTntnGIjub1A",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1631438940,
@@ -5103,7 +5103,7 @@
         "launch_date": 1632043800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271056262-BlackClover_163_DanteVSTheCaptainOfTheBlackBulls.png",
         "id": "AXtk0PCu0_E45RWzeA2U",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1632648540,
@@ -5194,6 +5194,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_21910134647-BlackClover_165_WaterCrusade.png",
         "id": "AXvK6hnwUQa40cfnRR8p",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1633858140,
+        "tms_id": "",
+        "description": "Noelle finally comes face to face with the devil who killed her mother. Yami battles a seemingly invincible Dante as Asta and friends can only watch.",
+        "title_suggest": {
+            "input": [
+                "Captain: Yami Sukehiro",
+                "Yami Sukehiro",
+                "Sukehiro"
+            ]
+        },
+        "title": "Captain: Yami Sukehiro",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1286.3851,
+        "episode_number": "12",
+        "original_air_date": 1632031200,
+        "auth_launch_date": 1632043800,
+        "clip_order": null,
+        "airing_id": "RADS1009152100029748",
+        "media_id": "ae1e4ff42bc64483799ca4595a6165a913ffa7d6",
+        "modified": 1631903075,
+        "slug": "captain-yami-sukehiro",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/1_219161254211-BlackClover_166_CaptainYamiSukehiro.png",
+        "created": 1631742680,
+        "title_id": "2277541",
+        "season_number": "4",
+        "tv_rating": "tv-pg-v",
+        "published": 1631903075,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161254211-BlackClover_166_CaptainYamiSukehiro.png",
+        "id": "AXvrcVv54Xbjep71f6G6",
         "auth": true
     }
 ]
