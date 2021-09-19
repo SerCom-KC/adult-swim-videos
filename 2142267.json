@@ -650,7 +650,7 @@
         "launch_date": 1632038400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271053180-MyHeroAcademia_105_TheHellishTodorokiFamily.png",
         "id": "AXtlZGRReTntnGIjub1N",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1632643140,
@@ -744,6 +744,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101342593-MyHeroAcademia_107_MoreOfAHeroThanAnyone.png",
         "id": "AXvK6hOw4Xbjep71f6G1",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1633852740,
+        "tms_id": "EP034435300097",
+        "description": "A series of surprise encounters helps give Shigaraki a new sense of direction for the League of Villains.",
+        "title_suggest": {
+            "input": [
+                "My Villain Academia",
+                "Villain Academia",
+                "Academia"
+            ]
+        },
+        "title": "My Villain Academia",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1331.1631,
+        "episode_number": "20",
+        "original_air_date": "1632025800",
+        "auth_launch_date": 1632038400,
+        "clip_order": null,
+        "airing_id": "RADS1009162100029844",
+        "media_id": "9340f526254e0f8cf9d21856248b1c24a7c7143f",
+        "modified": 1631902529,
+        "slug": "my-villain-academia",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/1_219161251268-MyHeroAcademia_108_MyVillainAcademia.png",
+        "created": 1631811098,
+        "season_number": "5",
+        "title_id": "2267473",
+        "tv_rating": "tv-14-v",
+        "published": 1631902529,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161251268-MyHeroAcademia_108_MyVillainAcademia.png",
+        "id": "AXvvhVcI4Xbjep71f6G8",
         "auth": true
     }
 ]
