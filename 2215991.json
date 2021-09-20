@@ -101,6 +101,56 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1623038340,
+        "tms_id": "",
+        "description": "The Final Load Test has begun, and the Eastern Gate has collapsed. Incited by Gabriel, now Emperor Vecta, the massive army of the Land of Darkness pushes on towards the Human Empire.",
+        "title_suggest": {
+            "input": [
+                "Battle of the Knights",
+                "of the Knights",
+                "the Knights",
+                "Knights"
+            ]
+        },
+        "title": "Battle of the Knights",
+        "expiration_date": 1633319940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
+        "duration": 1321.3534,
+        "episode_number": "6",
+        "original_air_date": 1582434000,
+        "auth_launch_date": 1619409600,
+        "clip_order": null,
+        "media_id": "103769a2dc0a633c8e69db0f78a003685c32b5dd",
+        "modified": 1632096313,
+        "airing_id": "RADS1009172100029977",
+        "slug": "battle-of-the-knights",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/1_201231457562-SAO_WoU_006.jpg",
+        "created": 1579809482,
+        "season_number": "1",
+        "title_id": "2215997",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1632096313,
+        "tags": [],
+        "collection_title": "Sword Art Online: Alicization - War of Underworld",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1632110400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231457562-SAO_WoU_006.jpg",
+        "id": "AW_T-6j8GRcVO2K2pmX4",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1634529540,
         "tms_id": "EP033346400003",
         "description": "A force from the Dark Territory launches an attack on Rulid Village. Alice rushes over on her dragon, Amayori. There she finds the villagers unable to flee because the Taboo Index prevents them from defying the Chief Man-at-Arms' orders.",
@@ -242,51 +292,6 @@
         "launch_date": 1630900800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200123/thumbnails/2_201231457226-SAO_WoU_004.jpg",
         "id": "AW_T-x97GRcVO2K2pmX2",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1632110340,
-        "tms_id": "EP034356920023",
-        "description": "The maximum-acceleration phase has begun. Alice successfully logs out of the Underworld, but Kirito doesn't make it in time. In the real world, Higa and Kikuoka rush to shut down the STL, in order to disable the maximum-acceleration phase.",
-        "title_suggest": {
-            "input": [
-                "Beyond Time",
-                "Time"
-            ]
-        },
-        "title": "Beyond Time",
-        "type": "episode",
-        "expiration_date": 1628481540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
-        "duration": 1318.0501,
-        "episode_number": "21",
-        "original_air_date": 1611468000,
-        "auth_launch_date": 1628481600,
-        "clip_order": null,
-        "airing_id": "RADS1008062100019509",
-        "media_id": "c5e3449eb7250925b353864aa2bb24a0ce02ef3c",
-        "modified": 1628271033,
-        "slug": "beyond-time",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/1_211221245583-SAO_WoU_021_BeyondTime.jpg",
-        "created": 1611333560,
-        "title_id": "2216012",
-        "season_number": "1",
-        "tv_rating": "tv-14-lv",
-        "published": 1628271033,
-        "tags": [],
-        "collection_title": "Sword Art Online: Alicization - War of Underworld",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1627272000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_211221245583-SAO_WoU_021_BeyondTime.jpg",
-        "id": "AXcq9ubgQJ_4Uej5kTnJ",
         "auth": true
     },
     {
