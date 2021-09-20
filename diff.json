@@ -1,7 +1,6 @@
 {
-    "updated": 1632091952,
-    "added": [],
-    "removed": [
+    "updated": 1632096258,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "EP031843450011",
@@ -29,7 +28,7 @@
             "clip_order": null,
             "airing_id": "RADS1006052100002822",
             "media_id": "43609621efcf2a4c0601ba792eca5525750e9ef9",
-            "modified": 1631898332,
+            "modified": 1632096014,
             "slug": "bird-mechanics",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20210614/thumbnails/1_216141114100-TucaAndBertie201BirdMechanics.png",
@@ -37,7 +36,7 @@
             "season_number": "2",
             "title_id": "2266165",
             "tv_rating": "tv-14-dlsv",
-            "published": 1631898332,
+            "published": 1632096014,
             "tags": [],
             "collection_title": "Tuca & Bertie",
             "disable_ads": false,
@@ -50,5 +49,6 @@
             "collection_title_id": "2266164",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
