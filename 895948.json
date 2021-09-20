@@ -471,51 +471,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1632110340,
-        "tms_id": "",
-        "description": "Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty.",
-        "title_suggest": {
-            "input": [
-                "Bone TV",
-                "TV"
-            ]
-        },
-        "title": "Bone TV",
-        "expiration_date": 1629086340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 667.5002,
-        "episode_number": "8",
-        "original_air_date": null,
-        "auth_launch_date": 1629086400,
-        "clip_order": null,
-        "airing_id": "RADS1007062100011196",
-        "media_id": "aacf6a70f967c518dfcfb33d9f805734dacc2fcd",
-        "modified": 1628873628,
-        "slug": "bone-tv",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161721227-ericandre_508_dup-20200914.jpg",
-        "created": 1600291286,
-        "season_number": "5",
-        "title_id": "2230787",
-        "tv_rating": "tv-ma-ls",
-        "published": 1628873628,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1626062400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg",
-        "id": "AXSYyy1XLyLQBOXK_POB",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1633319940,
         "tms_id": "",
         "description": "Eric welcomes Blake Griffin and Stormy Daniels in the season finale. His crossing guard skills stink and Miss Eric Andre will be finally crowned.",
@@ -945,7 +900,7 @@
         "cma_id": "1336501"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1635134340,
         "tms_id": "EP015632430023",
@@ -1244,6 +1199,58 @@
         "launch_date": 1598414400,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-ana-montana/ericandre_HGOI_102_AnaMontana.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1589947140,
+        "tms_id": "EP015632430028",
+        "description": "Interviews with Naturi Naughton and Ryan Phillippe; Musical guest Trash Talk.",
+        "title_suggest": {
+            "input": [
+                "Naturi Naughton; Ryan Phillippe",
+                "Naughton; Ryan Phillippe",
+                "Ryan Phillippe",
+                "Phillippe"
+            ]
+        },
+        "expiration_date": 1635134340,
+        "title": "Naturi Naughton; Ryan Phillippe",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 662.7674341,
+        "episode_number": "7",
+        "original_air_date": 1418966100,
+        "clip_order": null,
+        "auth_launch_date": 1586923200,
+        "modified": 1632095735,
+        "media_id": "233d29f02119f01236a41146383c608cf280d991",
+        "airing_id": "RADS1009172100029975",
+        "id": "u8UTHGNETfaPYUdeOsZ9sg",
+        "slug": "naturi-naughton-ryan-phillippe",
+        "views": 134406,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341617101-ericandre_027_dup-20141204.jpg",
+        "created": 1418931067,
+        "season_number": "3",
+        "title_id": "2032603",
+        "tv_rating": "tv-ma-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1632095735,
+        "first_published": 1418934023,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1632110400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617101-ericandre_027_dup-20141204.jpg",
+        "cma_id": "1348939"
     },
     {
         "auth": false,
