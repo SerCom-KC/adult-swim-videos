@@ -1,56 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1632283140,
-        "tms_id": "EP012792980129",
-        "description": "When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment.",
-        "title_suggest": {
-            "input": [
-                "Paraders of the Lost Float",
-                "of the Lost Float",
-                "the Lost Float",
-                "Lost Float",
-                "Float"
-            ]
-        },
-        "expiration_date": 1623038340,
-        "type": "episode",
-        "title": "Paraders of the Lost Float",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1287.77,
-        "episode_number": "17",
-        "original_air_date": 1517191200,
-        "auth_launch_date": 1631678400,
-        "clip_order": null,
-        "media_id": "45cfc2526dd3d321da486c669ef6e6aecbf844e2",
-        "modified": 1631345086,
-        "airing_id": "RADS1009102100028807",
-        "slug": "paraders-of-the-lost-float",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15172478074623.jpg",
-        "created": 1515534175,
-        "season_number": "7",
-        "title_id": "2132988",
-        "tv_rating": "tv-pg-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1631345086,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1622433600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg",
-        "id": "AWDc4Ex_Z-onAnjDLt6_",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1632369540,
         "tms_id": "EP012792980134",
@@ -288,6 +238,55 @@
         "launch_date": 1623038400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432560858977.jpg",
         "id": "AWc2wpztAsbXwNj3wAJf",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1632887940,
+        "tms_id": "EP012792980144",
+        "description": "When a new playground game is introduced, the school's social hierarchy is turned upside-down and Gene disapproves. Meanwhile, Linda fills in for the local library storyteller and pulls out all the stops to perfect her storyteller persona.",
+        "title_suggest": {
+            "input": [
+                "Y Tu Ga-Ga Tambien",
+                "Tu Ga-Ga Tambien",
+                "Ga-Ga Tambien",
+                "Tambien"
+            ]
+        },
+        "title": "Y Tu Ga-Ga Tambien",
+        "type": "episode",
+        "expiration_date": 1624852740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "duration": 1298.87,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "9",
+        "original_air_date": 1543804200,
+        "auth_launch_date": 1632283200,
+        "clip_order": null,
+        "airing_id": "RADS1009172100030077",
+        "media_id": "9534be79fec5a18dbdff964da212c2a11acea3e9",
+        "modified": 1631905885,
+        "slug": "y-tu-ga-ga-tambien",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15459428604178.jpg",
+        "created": 1542851661,
+        "title_id": "2171449",
+        "season_number": "8",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1631905885,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1624248000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15459428604178.jpg",
+        "id": "AWc5IA6oAsbXwNj3wAKn",
         "auth": true
     },
     {

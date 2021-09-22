@@ -291,7 +291,7 @@
         "launch_date": 1629259200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg",
         "id": "AW6QAf5z1YiBSfg0KYx3",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -1015,6 +1015,57 @@
         "launch_date": 1542949200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121340505-offtheair_504_dup-20151217.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1449258960,
+        "auth_expiration_date": 1615352340,
+        "tms_id": "EP014135410002",
+        "rating": 8.431818,
+        "description": "Too moist to burn.",
+        "title_suggest": {
+            "input": [
+                "Animals"
+            ]
+        },
+        "type": "episode",
+        "title": "Animals",
+        "expiration_date": 1635307140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 659.8675342,
+        "episode_number": "1",
+        "original_air_date": 1293872400,
+        "clip_order": null,
+        "auth_launch_date": 1612328400,
+        "modified": 1631903814,
+        "airing_id": "RADS1009172100030047",
+        "media_id": "e31542ef62fb3e921946f231fa6f5df899218fd6",
+        "id": "hxsoZnjMTbiWV7N3ci7GEQ",
+        "slug": "animals",
+        "views": 328610,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121322403-offtheair_101_orig-20110518.jpg",
+        "created": 1402945470,
+        "title_id": "830074",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1631903814,
+        "tags": [],
+        "rating_count": 2295,
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1632283200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121322403-offtheair_101_orig-20110518.jpg",
+        "cma_id": "1038811"
     },
     {
         "auth": false,
