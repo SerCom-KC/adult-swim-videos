@@ -2,49 +2,62 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 22, 2021 at 10:30:28 EDT_
+_Last Update: September 23, 2021 at 00:00:30 EDT_
 ## Video added
-No videos were added.  
+### Summary
+638050 Frisky Dingo: 1  
+439722 The Venture Bros.: 1  
+828177 Your Pretty Face is Going to Hell: 1  
+### 707263
+**Frisky Dingo S02E11 - Cody Gains a Namesake**  
+TV-MA-V 🔓 11:29  
+⌛ October 27, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/frisky-dingo/cody-gains-a-namesake  
+seriesid=`638050` titleid=`707263` id=`1xYI9nS-RwqYyUBnBtF04w` mediaid=`a56566dfc5a1285e42f22b60fd8186c6c5428f30`  
+_Cody is remembered with a namesake._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034170589-fd_024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034170589-fd_024.jpg" height="144px" /></a>
+### 2024900
+**The Venture Bros. S06E01 - All This and Gargantua-2**  
+TV-14-DLSV 🔓 47:06  
+⌛ October 27, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/all-this-and-gargantua-2  
+seriesid=`439722` titleid=`2024900` id=`xVXDCQf_QyaSYnWy9Kc0Wg` mediaid=`b5cccbe9b7107fc3e47ff92a278755a19318fe2f`  
+_Join the Ventures--and pretty much everyone they've ever crossed paths with--as they rocket to the Gargantua-2 space station for an epic, hour-long adventure that will change the Ventureverse as we know it forever._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414120-venture_601_602_dup_20150108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414120-venture_601_602_dup_20150108.jpg" height="144px" /></a>
+### 2191440
+**Your Pretty Face is Going to Hell S04E06 - Trial by Gary**  
+ 🔓 11:15  
+⌛ October 27, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/trial-by-gary  
+seriesid=`828177` titleid=`2191440` id=`AWp5gEnSHl5gR6828zZS` mediaid=`20d0f885c6b189cba280b9336d70c59c6e15e1d0`  
+_An outdated rule, a basket of law rocks, and Gary stand between a devout barbecue purveyor and eternal damnation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-340537 Aqua Teen Hunger Force: 5  
-### 659970
-**Aqua Teen Hunger Force S04E11 - Ezekial**  
-TV-14-DLV 🔒 11:28  
-⌛ September 22, 2021 at 09:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/ezekial  
-seriesid=`340537` titleid=`659970` id=`-2j5iJ4zSym-f0dH8sEemQ` mediaid=`00972edbd214401a7cc6e013bcc633ecd039d723`  
-_Shake takes on the greatest role of his life: that of a father._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241713167-athf_066_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241713167-athf_066_BIM.jpg" height="144px" /></a>
-### 786555
-**Aqua Teen Hunger Force S07E11 - Kangarilla and the Magic Tarantula**  
-TV-MA 🔒 11:13  
-⌛ September 22, 2021 at 09:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/kangarilla-and-the-magic-tarantula  
-seriesid=`340537` titleid=`786555` id=`0vTbQbXFR5Ov6EwFzggayQ` mediaid=`205b78e19b31e72143d2f08c6ffe72e69c2fc346`  
-_Frylock is mesmerized by a game on his smartphone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225959331-athf_099_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225959331-athf_099_BIM.jpg" height="144px" /></a>
-### 444401
-**Aqua Teen Hunger Force S02E02 - Super Birthday Snake**  
-TV-14 🔒 11:08  
-⌛ September 22, 2021 at 09:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/super-birthday-snake  
-seriesid=`340537` titleid=`444401` id=`eS-DcQ1CTzCSyCbwsBBDiQ` mediaid=`3cabd14018f50dada6679afc6120d0e6f7596418`  
-_Meatwad gets a pet that seems to have an insatiable appetite for Aqua Teens._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241526136-athf_020_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241526136-athf_020_BIM.jpg" height="144px" /></a>
-### 449392
-**Aqua Teen Hunger Force S02E20 - The Clowning**  
-TV-14-DL 🔒 10:59  
-⌛ September 22, 2021 at 09:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/the-clowning  
-seriesid=`340537` titleid=`449392` id=`kEmiko34R4qSkabGYXEqzA` mediaid=`c77aac4fe3ac1a6b45a1afab0fecaaca98a980b1`  
-_Carl gets a wig that begins to affect him strangely._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241548478-athf_038_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241548478-athf_038_BIM.jpg" height="144px" /></a>
-### 2005993
-**Aqua Teen Hunger Force S10E06 - Skins**  
-TV-14-DLSV 🔓 11:16  
-⌛ September 22, 2021 at 09:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/skins  
-seriesid=`340537` titleid=`2005993` id=`yC3sTbHbSNKefQIYs4eRBA` mediaid=`b94ae7adb001a62ee3727edd59bbb96135a0665e`  
-_Master Shake joins a hippie drum circle, and his new bongos harbor a dark secret._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251054467-atvss_1207_dup-20130918.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251054467-atvss_1207_dup-20130918.jpg" height="144px" /></a>
+439722 The Venture Bros.: 1  
+638050 Frisky Dingo: 1  
+828177 Your Pretty Face is Going to Hell: 1  
+### 2165017
+**The Venture Bros. S07E01 - The Venture Bros. & The Curse of the Haunted Problem**  
+TV-14-DLS 🔒 22:35  
+⌛ September 22, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-venture-bros-the-curse-of-the-haunted-problem  
+seriesid=`439722` titleid=`2165017` id=`AWPLRncSTdxzjxdCmQUu` mediaid=`b084a933c2969567d133c49877a7b5d438d001d5`  
+_The Venture headquarters is possessed! Or maybe it's just regular haunted. Or it could just be a computer glitch. Whatever it is, only Orpheus and his Order of the Triad can unlock the mystery._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153323590772516.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153323590772516.jpg" height="144px" /></a>
+### 677648
+**Frisky Dingo S02E01 - Behold a Dark Horse**  
+TV-MA 🔒 10:54  
+⌛ September 22, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/frisky-dingo/behold-a-dark-horse  
+seriesid=`638050` titleid=`677648` id=`rqF5mgwaSvqGueuxzbridQ` mediaid=`99257cbd5e84b4882dab0bf567d54b293bc2f197`  
+_Killface makes an important career decision._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165722-fd_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165722-fd_014.jpg" height="144px" /></a>
+### 2108955
+**Your Pretty Face is Going to Hell S03E08 - Golden Fiddle Week**  
+TV-MA 🔒 11:15  
+⌛ September 22, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/golden-fiddle-week  
+seriesid=`828177` titleid=`2108955` id=`yDKUgVusQQSdMMDbkNS-6Q` mediaid=`5e4e404a7ca3b45a4328a4e7f5cbb4f36463d62d`  
+_It's Golden Fiddle Week and the demons are in a bind, they're way behind, and they're willing to make a deal._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/golden-fiddle-week/yourprettyface_ep310_001_Golden_Fiddle_Week_Begins0.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/golden-fiddle-week/yourprettyface_ep310_001_Golden_Fiddle_Week_Begins0.jpg" height="144px" /></a>
