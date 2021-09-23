@@ -302,7 +302,7 @@
         "launch_date": 1629345600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568180531328.jpg",
         "id": "AWp1AvclHl5gR6828zYR",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1557757800,
@@ -449,6 +449,55 @@
         "launch_date": 1631764800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
         "id": "AWp5faU7AScUIg8XxfZ_",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1616644740,
+        "tms_id": "",
+        "description": "An outdated rule, a basket of law rocks, and Gary stand between a devout barbecue purveyor and eternal damnation.",
+        "title_suggest": {
+            "input": [
+                "Trial by Gary",
+                "by Gary",
+                "Gary"
+            ]
+        },
+        "title": "Trial by Gary",
+        "expiration_date": 1635393540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 675.88,
+        "episode_number": "6",
+        "original_air_date": 1558152900,
+        "auth_launch_date": 1613624400,
+        "clip_order": null,
+        "media_id": "20d0f885c6b189cba280b9336d70c59c6e15e1d0",
+        "modified": 1631945160,
+        "airing_id": "RADS1009172100030607",
+        "slug": "trial-by-gary",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155802479320520.jpg",
+        "created": 1556816611,
+        "season_number": "4",
+        "title_id": "2191440",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1631945160,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1632369600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg",
+        "id": "AWp5gEnSHl5gR6828zZS",
         "auth": false
     },
     {
@@ -912,55 +961,5 @@
         "launch_date": 1481577852,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-marathon/marathonStream_ypf6.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1491834540,
-        "auth_expiration_date": 1632369540,
-        "tms_id": "EP013726210029",
-        "description": "It's Golden Fiddle Week and the demons are in a bind, they're way behind, and they're willing to make a deal.",
-        "title_suggest": {
-            "input": [
-                "Golden Fiddle Week",
-                "Fiddle Week",
-                "Week"
-            ]
-        },
-        "title": "Golden Fiddle Week",
-        "type": "episode",
-        "expiration_date": 1629345540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 675.6672227,
-        "episode_number": "8",
-        "original_air_date": 1491795000,
-        "clip_order": null,
-        "auth_launch_date": 1629345600,
-        "modified": 1628921074,
-        "media_id": "5e4e404a7ca3b45a4328a4e7f5cbb4f36463d62d",
-        "airing_id": "RADS1008132100021995",
-        "id": "yDKUgVusQQSdMMDbkNS-6Q",
-        "slug": "golden-fiddle-week",
-        "views": 10192,
-        "thumbnail": "",
-        "created": 1491552622,
-        "title_id": "2108955",
-        "tv_rating": "tv-ma",
-        "season_number": "3",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1628921074,
-        "first_published": 1491552622,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1626321600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/golden-fiddle-week/yourprettyface_ep310_001_Golden_Fiddle_Week_Begins0.jpg",
-        "cma_id": "2108955"
     }
 ]
