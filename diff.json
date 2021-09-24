@@ -1,9 +1,8 @@
 {
-    "updated": 1632514819,
-    "added": [],
-    "removed": [
+    "updated": 1632519628,
+    "added": [
         {
-            "auth_expiration_date": 1632514409,
+            "auth_expiration_date": 1632713340,
             "tms_id": "EP018336730061",
             "description": "Tryin something new broh. Doin it big.",
             "title_suggest": {
@@ -22,14 +21,14 @@
                 "fire-tv"
             ],
             "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 1433.9325,
+            "duration": 1433.5988,
             "episode_number": "10",
             "original_air_date": "1630899000",
             "auth_launch_date": 1630899000,
             "clip_order": null,
             "airing_id": "RADS1009242100031798",
-            "media_id": "47e38bd6cfd4fed35f3ec228ca5109ec49584135",
-            "modified": 1632514418,
+            "media_id": "9b568f958bb4e2482d54d093ce6b3bfd8750ed80",
+            "modified": 1632519609,
             "slug": "rickmurai-jack",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_2192151296-RickAndMorty_510_RickmuraiJack.png",
@@ -37,7 +36,7 @@
             "season_number": "5",
             "title_id": "2270467",
             "tv_rating": "tv-14-dlv",
-            "published": 1632514418,
+            "published": 1632519609,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
@@ -45,10 +44,11 @@
             "launch_date": 1632713400,
             "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png",
             "id": "AXun7SS-4Xbjep71f6Gu",
-            "auth": false,
+            "auth": true,
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
