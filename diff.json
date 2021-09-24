@@ -1,18 +1,19 @@
 {
-    "updated": 1632509539,
-    "added": [
+    "updated": 1632512001,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": 1632887999,
             "tms_id": "",
-            "description": "Gary and Quinn encounter Earth\u2019s last survivor and search for a ship so that they can save the others lost in Final Space.",
+            "description": "Gary and Quinn plan a dangerous rescue mission to save Avocato and the others.",
             "title_suggest": {
                 "input": [
-                    "The Hidden Light",
-                    "Hidden Light",
-                    "Light"
+                    "One of Us",
+                    "of Us",
+                    "Us"
                 ]
             },
-            "title": "The Hidden Light",
+            "title": "One of Us",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -22,34 +23,33 @@
                 "fire-tv"
             ],
             "collection_id": "AWoJjOfPHl5gR6828zOv",
-            "duration": 1261.4268,
-            "episode_number": "2",
+            "duration": 1262.0275,
+            "episode_number": "4",
             "original_air_date": null,
             "auth_launch_date": 1628740800,
             "clip_order": null,
-            "airing_id": "RADS1008062100019676",
-            "media_id": "b25739fdca86fc9330d07a6552b8f3746ae72fda",
-            "modified": 1632509515,
-            "slug": "the-hidden-light",
+            "airing_id": "RADS1008062100019667",
+            "media_id": "3e1493d5420937c3399c518c8a153a6da2502617",
+            "modified": 1632508920,
+            "slug": "one-of-us",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/1_212231052336-finalspace_302_air_cid-NT54K.jpg",
-            "created": 1614095564,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/1_213101326330-FinalSpace_304_OneOfUs.jpg",
+            "created": 1615400796,
             "season_number": "3",
-            "title_id": "2241626",
-            "tv_rating": "tv-14-dlsv",
-            "published": 1632509515,
+            "title_id": "2241628",
+            "tv_rating": "tv-14-lv",
+            "published": 1632508920,
             "tags": [],
             "collection_title": "Final Space",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231052336-finalspace_302_air_cid-NT54K.jpg",
-            "id": "AXfPl744bxpjZvbXYmYG",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101326330-FinalSpace_304_OneOfUs.jpg",
+            "id": "AXgdZAMSQJ_4Uej5kTxv",
             "auth": true,
             "collection_slug": "final-space",
             "collection_title_id": "2133085",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
