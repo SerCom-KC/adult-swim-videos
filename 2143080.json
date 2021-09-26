@@ -5309,7 +5309,7 @@
         "launch_date": 1631439000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201113460-BlackClover_162_TheGreatWarBreaksOut.png",
         "id": "AXtPn2tJ0_E45RWzeAzf",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1648373340,
@@ -5406,7 +5406,7 @@
         "launch_date": 1632648600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192157565-BlackClover_164_BattlefieldHeartKingdom.png",
         "id": "AXunA-O34Xbjep71f6Gs",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1633253340,
@@ -5497,6 +5497,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161254211-BlackClover_166_CaptainYamiSukehiro.png",
         "id": "AXvrcVv54Xbjep71f6G6",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1634462940,
+        "tms_id": "EP032284200169",
+        "description": "Vanica departs for the Spade Kingdom, hostage in tow. Asta communes with his inner devil for a diabolical boost in the fight with Yami against Dante.",
+        "title_suggest": {
+            "input": [
+                "Black Oath",
+                "Oath"
+            ]
+        },
+        "title": "Black Oath",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1354.3196,
+        "episode_number": "13",
+        "original_air_date": 1632636000,
+        "auth_launch_date": 1632648600,
+        "clip_order": null,
+        "airing_id": "RADS1009212100031026",
+        "media_id": "c52c956debc598816ba688d2685e20746ca315f9",
+        "modified": 1632512784,
+        "slug": "black-oath",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210924/thumbnails/1_21924104263-BlackClover_167_BlackOath.png",
+        "created": 1632259237,
+        "title_id": "2277542",
+        "season_number": "4",
+        "tv_rating": "tv-pg-lv",
+        "published": 1632512784,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210924/thumbnails/2_21924104263-BlackClover_167_BlackOath.png",
+        "id": "AXwKO2XPUQa40cfnRSG7",
         "auth": true
     }
 ]
