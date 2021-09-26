@@ -603,7 +603,7 @@
         "launch_date": 1631433600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201110480-MyHeroAcademia_104_LongTimeNoSeeSelkie.png",
         "id": "AXtayM9R0_E45RWzeA0i",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1638680340,
@@ -695,7 +695,7 @@
         "launch_date": 1632643200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192155190-MyHeroAcademia_106_TheUnforgiven.png",
         "id": "AXunAovdUQa40cfnRR4D",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1633247940,
@@ -790,6 +790,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161251268-MyHeroAcademia_108_MyVillainAcademia.png",
         "id": "AXvvhVcI4Xbjep71f6G8",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1634457540,
+        "tms_id": "EP034435300109",
+        "description": "The League of Villains waits for Gigantomachia to wake up as they clash with the Meta Liberation Army.",
+        "title_suggest": {
+            "input": [
+                "Revival Party",
+                "Party"
+            ]
+        },
+        "title": "Revival Party",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1331.33,
+        "episode_number": "21",
+        "original_air_date": 1632630600,
+        "auth_launch_date": 1632643200,
+        "clip_order": null,
+        "airing_id": "RADS1009232100031172",
+        "media_id": "bb32c6198101fafe97ae0d5dce8353d21f187f36",
+        "modified": 1632512590,
+        "slug": "revival-party",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210924/thumbnails/1_21924101343-MyHeroAcademia_109_RevivalParty.png",
+        "created": 1632407930,
+        "title_id": "2267474",
+        "season_number": "5",
+        "tv_rating": "tv-14-v",
+        "published": 1632512590,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210924/thumbnails/2_21924101343-MyHeroAcademia_109_RevivalParty.png",
+        "id": "AXwTGEhe4Xbjep71f6HF",
         "auth": true
     }
 ]
