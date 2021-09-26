@@ -223,7 +223,7 @@
         "launch_date": 1632641400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192154337-FenaPiratePrincess_105_Coordinates.png",
         "id": "AXunAmHNUQa40cfnRR4C",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1633246140,
@@ -317,6 +317,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161250224-FenaPiratePrincess_107_TheBurningSea.png",
         "id": "AXvrcG7M4Xbjep71f6G4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1634455740,
+        "tms_id": "EP039545550008",
+        "description": "The samurai have managed to recover Fena from the Blue Giant, but at the the cost of Yukimaru being badly wounded. In order to treat him, they set course for Chaouen.",
+        "title_suggest": {
+            "input": [
+                "A Knight's Vow",
+                "Knight's Vow",
+                "Vow"
+            ]
+        },
+        "title": "A Knight's Vow",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXsNFqJDeTntnGIjub05",
+        "duration": 1419.8518,
+        "episode_number": "8",
+        "original_air_date": 1632628800,
+        "auth_launch_date": 1632641400,
+        "clip_order": null,
+        "airing_id": "RADS1009222100031168",
+        "media_id": "29c72306725fa3883622ec4da64d3baf4bda4201",
+        "modified": 1632512378,
+        "slug": "a-knights-vow",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210924/thumbnails/1_21924100275-FenaPiratePrincess_108_AKnightsVow.png",
+        "created": 1632339256,
+        "title_id": "2218289",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "published": 1632512378,
+        "tags": [],
+        "collection_title": "Fena: Pirate Princess",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210924/thumbnails/2_21924100275-FenaPiratePrincess_108_AKnightsVow.png",
+        "id": "AXwPAGMaUQa40cfnRSHD",
         "auth": true
     }
 ]
