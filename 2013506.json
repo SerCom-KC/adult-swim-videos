@@ -6447,7 +6447,7 @@
         "launch_date": 1630897200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png",
         "id": "AXpEYyttDmGy9WFjRrmZ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6873,6 +6873,54 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1633492740,
+        "tms_id": "EP018336730055",
+        "description": "Gobble gobble broh. Rick and Morty givin thanks in this one.",
+        "title_suggest": {
+            "input": [
+                "Rick & Morty's Thanksploitation Spectacular",
+                "& Morty's Thanksploitation Spectacular",
+                "Morty's Thanksploitation Spectacular",
+                "Thanksploitation Spectacular",
+                "Spectacular"
+            ]
+        },
+        "title": "Rick & Morty's Thanksploitation Spectacular",
+        "expiration_date": 1632707041,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1488.5537,
+        "episode_number": "6",
+        "original_air_date": "1627268400",
+        "auth_launch_date": 1632711600,
+        "clip_order": null,
+        "airing_id": "RADS1009172100030641",
+        "media_id": "f5740598cff3f4f50be327635fca96fb27e2de9d",
+        "modified": 1632707087,
+        "slug": "rick-mortys-thanksploitation-spectacular",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/1_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
+        "created": 1627052729,
+        "season_number": "5",
+        "title_id": "2270464",
+        "tv_rating": "tv-14-dlv",
+        "published": 1632707087,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1629082800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
+        "id": "AXrT5mYgeTntnGIjub0s",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Turkeys abound in this behind the scenes look at what may be the most absurd premise in Rick and Morty history.",
@@ -7117,7 +7165,7 @@
         "launch_date": 1632711600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png",
         "id": "AXun7GUP4Xbjep71f6Gt",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
