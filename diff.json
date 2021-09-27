@@ -1,7 +1,6 @@
 {
-    "updated": 1632708033,
-    "added": [],
-    "removed": [
+    "updated": 1632713425,
+    "added": [
         {
             "auth_expiration_date": 1633492740,
             "tms_id": "EP018336730055",
@@ -16,7 +15,7 @@
                 ]
             },
             "title": "Rick & Morty's Thanksploitation Spectacular",
-            "expiration_date": 1632711540,
+            "expiration_date": 1632707041,
             "type": "episode",
             "platforms": [
                 "android",
@@ -31,8 +30,8 @@
             "auth_launch_date": 1632711600,
             "clip_order": null,
             "airing_id": "RADS1009172100030641",
-            "media_id": "a58695f9e0777329cf5088899e1ac9e7f64ceeea",
-            "modified": 1631973093,
+            "media_id": "f5740598cff3f4f50be327635fca96fb27e2de9d",
+            "modified": 1632707087,
             "slug": "rick-mortys-thanksploitation-spectacular",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/1_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
@@ -40,7 +39,7 @@
             "season_number": "5",
             "title_id": "2270464",
             "tv_rating": "tv-14-dlv",
-            "published": 1631973093,
+            "published": 1632707087,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
@@ -48,58 +47,11 @@
             "launch_date": 1629082800,
             "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
             "id": "AXrT5mYgeTntnGIjub0s",
-            "auth": false,
-            "collection_slug": "rick-and-morty",
-            "collection_title_id": "2013506",
-            "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1632713340,
-            "tms_id": "EP018336730061",
-            "description": "Tryin something new broh. Doin it big.",
-            "title_suggest": {
-                "input": [
-                    "Rickmurai Jack",
-                    "Jack"
-                ]
-            },
-            "title": "Rickmurai Jack",
-            "expiration_date": 1634183940,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 1433.5988,
-            "episode_number": "10",
-            "original_air_date": "1630899000",
-            "auth_launch_date": 1630899000,
-            "clip_order": null,
-            "airing_id": "RADS1009242100031798",
-            "media_id": "9b568f958bb4e2482d54d093ce6b3bfd8750ed80",
-            "modified": 1632519609,
-            "slug": "rickmurai-jack",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_2192151296-RickAndMorty_510_RickmuraiJack.png",
-            "created": 1630609941,
-            "season_number": "5",
-            "title_id": "2270467",
-            "tv_rating": "tv-14-dlv",
-            "published": 1632519609,
-            "tags": [],
-            "collection_title": "Rick and Morty",
-            "disable_ads": false,
-            "modified_by": "Jonathan Jackson",
-            "launch_date": 1632713400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png",
-            "id": "AXun7SS-4Xbjep71f6Gu",
             "auth": true,
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
