@@ -7168,6 +7168,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1632706764,
+        "tms_id": "EP018336730061",
+        "description": "Tryin something new broh. Doin it big.",
+        "title_suggest": {
+            "input": [
+                "Rickmurai Jack",
+                "Jack"
+            ]
+        },
+        "title": "Rickmurai Jack",
+        "expiration_date": 1634183940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1433.5988,
+        "episode_number": "10",
+        "original_air_date": "1630899000",
+        "auth_launch_date": 1630899000,
+        "clip_order": null,
+        "airing_id": "RADS1009242100031798",
+        "media_id": "47e38bd6cfd4fed35f3ec228ca5109ec49584135",
+        "modified": 1632706837,
+        "slug": "rickmurai-jack",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_2192151296-RickAndMorty_510_RickmuraiJack.png",
+        "created": 1630609941,
+        "season_number": "5",
+        "title_id": "2270467",
+        "tv_rating": "tv-14-dlv",
+        "published": 1632706837,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1632713400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png",
+        "id": "AXun7SS-4Xbjep71f6Gu",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Rick and Morty decide to end their partnership, but is the split permanent? Find out in this behind the scenes discussion with the crew.",
