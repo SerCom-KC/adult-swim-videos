@@ -363,7 +363,7 @@
         "cma_id": "1352836"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447170120,
         "auth_expiration_date": 1635911940,
         "tms_id": "EP008519090063",
@@ -413,6 +413,59 @@
         "launch_date": 1629864000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111135468-metalocalypse_411_bim.jpg",
         "cma_id": "1356502"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447168560,
+        "auth_expiration_date": 1603857540,
+        "tms_id": "EP008519090004",
+        "rating": 9.111673,
+        "description": "The band plays a song that unintentionally wakes a deadly Nordic Forest Troll.  Dethklok doesn't care until they learn that the Troll is knocking out all DSL lines, making their Internet really slow.  Dethklok must write the world's first Death Metal Lullaby to put the demonic beast back to sleep.",
+        "title_suggest": {
+            "input": [
+                "Dethtroll"
+            ]
+        },
+        "type": "episode",
+        "title": "Dethtroll",
+        "expiration_date": 1635911940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 691.7674341,
+        "episode_number": "4",
+        "original_air_date": 1156736700,
+        "clip_order": null,
+        "auth_launch_date": 1600833600,
+        "modified": 1632525352,
+        "media_id": "0e98d41d22483ba76d950d4bde213f54f23d9cf2",
+        "airing_id": "RADS1009242100031635",
+        "id": "csAYdydkTB2VUR8JQiqbfA",
+        "slug": "dethtroll",
+        "views": 597601,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111122488-metalocalypse_104.jpg",
+        "created": 1402945469,
+        "title_id": "648670",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1632525352,
+        "tags": [
+            "dethklok metalocalypse episode 4 dethtroll nordic forest troll lullaby"
+        ],
+        "rating_count": 2552,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1632888000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111122488-metalocalypse_104.jpg",
+        "cma_id": "1380719"
     },
     {
         "auth": true,
@@ -465,57 +518,6 @@
         "launch_date": 1628654400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113554-metalocalypse_409_dup-20120615.jpg",
         "cma_id": "1348354"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447170060,
-        "auth_expiration_date": 1632887940,
-        "tms_id": "EP008519090058",
-        "rating": 6.6808496,
-        "description": "After spending all their time with sluts and squandering the budget on their new record, Dethklok is shocked to find they've been assigned a new producer: A WOMAN.  She sends them on a pre-writing vacation that turns out to be a brutal trip to a third world country where they're mistaken as women and captured as sex slaves.",
-        "title_suggest": {
-            "input": [
-                "Writersklok"
-            ]
-        },
-        "type": "episode",
-        "title": "Writersklok",
-        "expiration_date": 1629863940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 675.2085071,
-        "episode_number": "6",
-        "original_air_date": 1338783300,
-        "clip_order": null,
-        "auth_launch_date": 1629864000,
-        "modified": 1629502945,
-        "media_id": "fedaa6ed27480d4597de56990e357b5f9096a7c5",
-        "airing_id": "RADS1008192100022854",
-        "id": "g5VuXLhIRqy9iOfcn7ANjA",
-        "slug": "writersklok",
-        "views": 204493,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111133591-metalocalypse_406_dup-20120613.jpg",
-        "created": 1402945469,
-        "title_id": "892266",
-        "season_number": "4",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1629502945,
-        "tags": [],
-        "rating_count": 752,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1626840000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111133591-metalocalypse_406_dup-20120613.jpg",
-        "cma_id": "1336003"
     },
     {
         "auth": false,
