@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446846720,
         "auth_expiration_date": 1635911940,
         "tms_id": "EP015399680008",
@@ -68,6 +68,58 @@
         "launch_date": 1629864000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036101994-loitersquad_108_dup-20120504.jpg",
         "cma_id": "887696"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446846900,
+        "auth_expiration_date": 1515571199,
+        "tms_id": "EP015399680014",
+        "rating": 7.0077252,
+        "description": "The Po-Po need help solving a big case, Blake Andersen is back, and a new music video debuts.",
+        "title_suggest": {
+            "input": [
+                "Jason's Lyric",
+                "Lyric"
+            ]
+        },
+        "type": "episode",
+        "title": "Jason's Lyric",
+        "expiration_date": 1635911940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
+        "duration": 672.4587156,
+        "episode_number": "3",
+        "original_air_date": 1364184000,
+        "clip_order": null,
+        "auth_launch_date": 1512547200,
+        "modified": 1632514690,
+        "media_id": "491bc0632e1a59e1cd056a110ed4f3684e60d9e0",
+        "airing_id": "RADS1009242100031610",
+        "id": "PbMGhnMmTH-agOBEKYeksw",
+        "slug": "jasons-lyric",
+        "views": 156615,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361020592-loitersquad_203_dup-20130305.jpg",
+        "created": 1402945468,
+        "title_id": "2000761",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1632514690,
+        "tags": [],
+        "rating_count": 1165,
+        "collection_title": "Loiter Squad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1632888000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361020592-loitersquad_203_dup-20130305.jpg",
+        "cma_id": "1385534"
     },
     {
         "auth": true,
@@ -246,58 +298,6 @@
         "launch_date": 1627444800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361017254-loitersquad_104_dup-20120416.jpg",
         "cma_id": "887692"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446846660,
-        "auth_expiration_date": 1632887940,
-        "tms_id": "EP015399680003",
-        "rating": 7.6407337,
-        "description": "Lionel the Booty Hunter; the Channel 5 News presents puppies and catamarans; new D'Angelo video drops",
-        "title_suggest": {
-            "input": [
-                "Episode 3",
-                "3"
-            ]
-        },
-        "type": "episode",
-        "title": "Episode 3",
-        "expiration_date": 1629863940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
-        "duration": 666,
-        "episode_number": "3",
-        "original_air_date": 1333942200,
-        "clip_order": null,
-        "auth_launch_date": 1629864000,
-        "modified": 1631146831,
-        "media_id": "10f85e92d25bcdcfe6ace07a1269519ff6a3e30e",
-        "airing_id": "RADS1008192100022860",
-        "id": "ef2t12cuTzyocW0r4cm-vw",
-        "slug": "episode-3",
-        "views": 306814,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361016593-loitersquad_103_dup-20120516.jpg",
-        "created": 1402945468,
-        "title_id": "887691",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1631146831,
-        "tags": [],
-        "rating_count": 2725,
-        "collection_title": "Loiter Squad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1626840000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361016593-loitersquad_103_dup-20120516.jpg",
-        "cma_id": "1476385"
     },
     {
         "auth": true,
