@@ -254,7 +254,7 @@
         "launch_date": 1629950400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568185198013.jpg",
         "id": "AWp1AvckHl5gR6828zYQ",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1557153000,
@@ -498,6 +498,55 @@
         "launch_date": 1632369600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg",
         "id": "AWp5gEnSHl5gR6828zZS",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1617249540,
+        "tms_id": "",
+        "description": "Satan finds his new calling, dropping truth bombs on real Americans.",
+        "title_suggest": {
+            "input": [
+                "Stan the Man",
+                "the Man",
+                "Man"
+            ]
+        },
+        "title": "Stan the Man",
+        "expiration_date": 1635998340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 674.88,
+        "episode_number": "7",
+        "original_air_date": 1559361600,
+        "auth_launch_date": 1614229200,
+        "clip_order": null,
+        "media_id": "8307f480bae4c380982bd40f44dfd21e25c1f5c8",
+        "modified": 1632548451,
+        "airing_id": "RADS1009242100031689",
+        "slug": "stan-the-man",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15591483969052.jpg",
+        "created": 1556816665,
+        "season_number": "4",
+        "title_id": "2191446",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1632548451,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1632974400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15591483969052.jpg",
+        "id": "AWp5gRnyHl5gR6828zZT",
         "auth": false
     },
     {
@@ -856,55 +905,6 @@
         "launch_date": 1628740800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-dammed/yourprettyface_311_dup-20170504.jpg",
         "cma_id": "1462958"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1492439340,
-        "auth_expiration_date": 1632974340,
-        "tms_id": "EP013726210030",
-        "description": "When Satan introduces women to the workplace, things start to get a little steamy and a little acidic and a little swollen.",
-        "title_suggest": {
-            "input": [
-                "Lee"
-            ]
-        },
-        "create_in_collection": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "expiration_date": 1629950340,
-        "title": "Lee",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 675.6672227,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "9",
-        "original_air_date": 1492399800,
-        "clip_order": null,
-        "auth_launch_date": 1629950400,
-        "modified": 1629683205,
-        "media_id": "f8f37921c223efd52c3584cd9923d106c106bfde",
-        "airing_id": "RADS1007162100014466",
-        "id": "kEZPDPe9RcCE8X9t4AQVAA",
-        "slug": "lee",
-        "views": 10963,
-        "thumbnail": "",
-        "created": 1492183618,
-        "season_number": "3",
-        "title_id": "2108957",
-        "tv_rating": "tv-ma-s",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1629683205,
-        "first_published": 1492251134,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1626926400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/lee/yourprettyface_312_dup-20170413.jpg",
-        "cma_id": "2108957"
     },
     {
         "auth": false,
