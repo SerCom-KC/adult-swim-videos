@@ -48,7 +48,7 @@
         "launch_date": 1632974400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200114/thumbnails/2_20114119564-demonslayer_013.jpg",
         "id": "AW-kuee6GRcVO2K2pmCx",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -101,54 +101,6 @@
         "launch_date": 1632369600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200106/thumbnails/2_20161610514-DemonSlayer_012.jpg",
         "id": "AW98sk2i3HMJfT8do6zb",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1631764740,
-        "tms_id": "EP033351550011",
-        "description": "Tanjiro meets a fellow Final Selection survivor, Zenitsu Agatsuma, on his way to his next assignment. Tanjiro hears the mysterious sound of a tsuzumi.",
-        "title_suggest": {
-            "input": [
-                "Tsuzumi Mansion",
-                "Mansion"
-            ]
-        },
-        "title": "Tsuzumi Mansion",
-        "expiration_date": 1632974340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
-        "duration": 1236.0015,
-        "episode_number": "11",
-        "original_air_date": 1578810600,
-        "auth_launch_date": 1628136000,
-        "clip_order": null,
-        "media_id": "adbd12e9e16f5f9799437a6c7a968685c374ee86",
-        "modified": 1631368502,
-        "airing_id": "RADS1009112100028934",
-        "slug": "tsuzumi-mansion",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/1_2013935400-DemonSlayer_011.jpg",
-        "created": 1578062153,
-        "season_number": "1",
-        "title_id": "2209303",
-        "tv_rating": "tv-14-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1631368502,
-        "tags": [],
-        "collection_title": "Demon Slayer",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1631764800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_2013935400-DemonSlayer_011.jpg",
-        "id": "AW9r1YcWGRcVO2K2pl_N",
         "auth": false
     },
     {
@@ -402,6 +354,53 @@
         "launch_date": 1619064000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241448107-DemonSlayer_016.jpg",
         "id": "AXARvw683HMJfT8do8I7",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1634011140,
+        "tms_id": "EP033351550019",
+        "description": "The Demon Slayer Hashira storms Mt. Natagumo, rescuing the trio and inspiring Inosuke to challenge the superior swordsman before him in a boar-headed test of strength.",
+        "title_suggest": {
+            "input": [
+                "Hinokami"
+            ]
+        },
+        "title": "Hinokami",
+        "expiration_date": 1622087940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
+        "duration": 1317.316,
+        "episode_number": "19",
+        "original_air_date": 1583645400,
+        "auth_launch_date": 1632974400,
+        "clip_order": null,
+        "media_id": "0e9df8198260e34ddfb0a78530e02b8c5732123a",
+        "modified": 1632551454,
+        "airing_id": "RADS1009242100031639",
+        "slug": "hinokami",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200227/thumbnails/1_20227153260-DemonSlayer_019.jpg",
+        "created": 1582835546,
+        "season_number": "1",
+        "title_id": "2209311",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1632551454,
+        "tags": [],
+        "collection_title": "Demon Slayer",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1620878400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200227/thumbnails/2_20227153260-DemonSlayer_019.jpg",
+        "id": "AXCIWbf23HMJfT8do80j",
         "auth": true
     }
 ]
