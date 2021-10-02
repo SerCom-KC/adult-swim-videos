@@ -60,7 +60,7 @@
         "cma_id": "1381139"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1645160340,
         "tms_id": "EP019059960017",
@@ -2282,6 +2282,63 @@
         "launch_date": 1631851200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251158305-attackontitan_005.jpg",
         "cma_id": "1448651"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1633060740,
+        "tms_id": "EP019059960027",
+        "rating": 7.0289855,
+        "description": "After the retreat bell sounds, many cadets find themselves without enough fuel to scale the wall back to safety. Mikasa begins to lose hope once she hears of the deaths in Armin's squad, but the appearance of a new type of Titan stokes her will to fight.",
+        "title_suggest": {
+            "input": [
+                "Small Blade: The Struggle for Trost, Part 3",
+                "Blade: The Struggle for Trost, Part 3",
+                "The Struggle for Trost, Part 3",
+                "Struggle for Trost, Part 3",
+                "for Trost, Part 3",
+                "Trost, Part 3",
+                "Part 3",
+                "3"
+            ]
+        },
+        "type": "episode",
+        "title": "Small Blade: The Struggle for Trost, Part 3",
+        "expiration_date": 1636084740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+        "duration": 1340.8008008,
+        "episode_number": "7",
+        "original_air_date": 1402803000,
+        "clip_order": null,
+        "auth_launch_date": 1620964800,
+        "modified": 1633124625,
+        "media_id": "a9a36c0971bdb560f191fd6931a7b167ba237658",
+        "airing_id": "RADS1010012100033780",
+        "id": "GcaT2HdzTW2s4aIAjyaGdA",
+        "slug": "small-blade-the-struggle-for-trost-part-3",
+        "views": 19237,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251159166-attackontitan_007.jpg",
+        "created": 1406649586,
+        "title_id": "2020952",
+        "tv_rating": "tv-14-v",
+        "season_number": "1",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1633124625,
+        "tags": [],
+        "rating_count": 69,
+        "collection_title": "Attack on Titan",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1633147200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251159166-attackontitan_007.jpg",
+        "cma_id": "1348519"
     },
     {
         "auth": true,
