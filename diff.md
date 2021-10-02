@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 2, 2021 at 01:30:25 EDT_
+_Last Update: October 2, 2021 at 02:30:26 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2266164 Tuca & Bertie: 1  
-### 2266167
-**Tuca & Bertie S02E03 - Kyle**  
-TV-14-DLSV 🔒 22:29  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tuca-bertie/kyle  
-seriesid=`2266164` titleid=`2266167` id=`AXpA9XsADmGy9WFjRrkp` mediaid=`eb591b929e43cb6dfb37a6677b1966460d0a7b82`  
-_Bertie hits a wall at work and decides to channel her inner bird/bro, while Tuca's passions steer her into a high-octane new job. Will our gals wield their new powers responsibly? No._  
-<a href="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_2162514458-TucaAndBertie_203_Kyle.png"><img src="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_2162514458-TucaAndBertie_203_Kyle.png" height="144px" /></a>
+830073 Off The Air: 1  
+### 861946
+**Off The Air S01E03 - Dance**  
+TV-PG-D 🔓 11:11  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/off-the-air/dance  
+seriesid=`830073` titleid=`861946` id=`1YIsMmNWStyD-Pmtli85qA` mediaid=`fdfc247be9ff807fb2412ec431ca4e6410626bdc`  
+_The language of the body in motion speaks all languages._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121323216-offtheair_103_dup-20110901.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121323216-offtheair_103_dup-20110901.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
