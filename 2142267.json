@@ -650,7 +650,7 @@
         "launch_date": 1632038400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271053180-MyHeroAcademia_105_TheHellishTodorokiFamily.png",
         "id": "AXtlZGRReTntnGIjub1N",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1638680340,
@@ -744,7 +744,7 @@
         "launch_date": 1633248000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101342593-MyHeroAcademia_107_MoreOfAHeroThanAnyone.png",
         "id": "AXvK6hOw4Xbjep71f6G1",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1633852740,
@@ -790,6 +790,52 @@
         "launch_date": 1633852800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161251268-MyHeroAcademia_108_MyVillainAcademia.png",
         "id": "AXvvhVcI4Xbjep71f6G8",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1635062340,
+        "tms_id": "EP034435300111",
+        "description": "As Twice tries to save Toga, he thinks back on his past and makes a realization that helps him overcome it.",
+        "title_suggest": {
+            "input": [
+                "Sad Man's Parade",
+                "Man's Parade",
+                "Parade"
+            ]
+        },
+        "title": "Sad Man's Parade",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1330.7294,
+        "episode_number": "22",
+        "original_air_date": "1633235400",
+        "auth_launch_date": 1633248000,
+        "clip_order": null,
+        "airing_id": "RADS1010012100033784",
+        "media_id": "987384ceea2c2dddb67e5c2365d4ba6c2822f18b",
+        "modified": 1633125599,
+        "slug": "sad-mans-parade",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211001/thumbnails/1_211011022545-MyHeroAcademia_110_SadMansParade.png",
+        "created": 1633098186,
+        "season_number": "5",
+        "title_id": "2267475",
+        "tv_rating": "tv-14-v",
+        "published": 1633125599,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_211011022545-MyHeroAcademia_110_SadMansParade.png",
+        "id": "AXw8PL_PUQa40cfnRSMW",
         "auth": true
     },
     {
