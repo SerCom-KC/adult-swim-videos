@@ -271,7 +271,7 @@
         "launch_date": 1633246200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101341530-FenaPiratePrincess_106_MutinyOnTheBlueGiant.png",
         "id": "AXvK6h-QUQa40cfnRR8q",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1633850940,
@@ -317,6 +317,51 @@
         "launch_date": 1633851000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161250224-FenaPiratePrincess_107_TheBurningSea.png",
         "id": "AXvrcG7M4Xbjep71f6G4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1635060540,
+        "tms_id": "EP039545550009",
+        "description": "Being the youngest in the royal family, Abel had grown up in silence from being treated coldly by everyone. One day, he meets a mysterious girl, Helena, in the garden. As they spend more time together, a deep love blossoms between them.",
+        "title_suggest": {
+            "input": [
+                "Vice Versa",
+                "Versa"
+            ]
+        },
+        "title": "Vice Versa",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXsNFqJDeTntnGIjub05",
+        "duration": 1420.0853,
+        "episode_number": "9",
+        "original_air_date": "1633233600",
+        "auth_launch_date": 1633246200,
+        "clip_order": null,
+        "airing_id": "RADS1010012100033783",
+        "media_id": "5bf7063c5950463873ccaeecf55533b23fe7e0aa",
+        "modified": 1633124988,
+        "slug": "vice-versa",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211001/thumbnails/1_211011021568-FenaPiratePrincess_109_ViceVersa.png",
+        "created": 1633098135,
+        "season_number": "1",
+        "title_id": "2218290",
+        "tv_rating": "tv-14-dv",
+        "published": 1633124988,
+        "tags": [],
+        "collection_title": "Fena: Pirate Princess",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_211011021568-FenaPiratePrincess_109_ViceVersa.png",
+        "id": "AXw8O_ZHUQa40cfnRSMV",
         "auth": true
     },
     {
