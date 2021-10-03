@@ -135,7 +135,7 @@
         "launch_date": 1632034800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271149161-DrStone2_27_CallFromTheDead.png",
         "id": "AXmlCE8BDmGy9WFjRrSh",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1635231540,
@@ -180,6 +180,51 @@
         "launch_date": 1632639600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_21641157535-DrStone2_28_FullAssault.png",
         "id": "AXnThzGqDmGy9WFjRrWH",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1629777599,
+        "tms_id": "EP032785490031",
+        "description": "Senku's new invention, the Steam Gorilla is almost ready to roll and assist in his mission to rescue Chrome but needs some improvements. Regardless, time is running out.",
+        "title_suggest": {
+            "input": [
+                "Steam Gorilla",
+                "Gorilla"
+            ]
+        },
+        "title": "Steam Gorilla",
+        "type": "episode",
+        "expiration_date": 1634453940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1354.1194,
+        "episode_number": "5",
+        "original_air_date": 1623558600,
+        "auth_launch_date": 1626595200,
+        "clip_order": null,
+        "airing_id": "RADS1009242100031706",
+        "media_id": "15754b5670d589fa14687a95d3233b7e641d5ad8",
+        "modified": 1632816945,
+        "slug": "steam-gorilla",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/1_21610107295-DrStone_29_SteamGorilla.png",
+        "created": 1622930219,
+        "title_id": "2264994",
+        "season_number": "2",
+        "tv_rating": "tv-pg-lv",
+        "published": 1632816945,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1633244400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610107295-DrStone_29_SteamGorilla.png",
+        "id": "AXneLeL-BH5Z6gH5aWTk",
         "auth": false
     }
 ]

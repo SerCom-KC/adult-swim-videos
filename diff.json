@@ -1,60 +1,54 @@
 {
-    "updated": 1633242862,
-    "added": [],
-    "removed": [
+    "updated": 1633244425,
+    "added": [
         {
-            "ott_launch_date": 1543332540,
-            "auth_expiration_date": null,
-            "tms_id": "EP028359580011",
-            "description": "Mother dies and Steve inherits the family's colonial villa.",
+            "auth_expiration_date": 1629777599,
+            "tms_id": "EP032785490031",
+            "description": "Senku's new invention, the Steam Gorilla is almost ready to roll and assist in his mission to rescue Chrome but needs some improvements. Regardless, time is running out.",
             "title_suggest": {
                 "input": [
-                    "She's All We Had",
-                    "All We Had",
-                    "We Had",
-                    "Had"
+                    "Steam Gorilla",
+                    "Gorilla"
                 ]
             },
-            "title": "She's All We Had",
-            "expiration_date": 1633665540,
+            "title": "Steam Gorilla",
             "type": "episode",
+            "expiration_date": 1634453940,
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "ott",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "AWBMMba1Z-onAnjDLthP",
-            "duration": 662.7955,
-            "episode_number": "1",
-            "original_air_date": 1543296600,
-            "auth_launch_date": null,
+            "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+            "duration": 1354.1194,
+            "episode_number": "5",
+            "original_air_date": 1623558600,
+            "auth_launch_date": 1626595200,
             "clip_order": null,
-            "media_id": "8dd6ebdb9c8f9e5a3ff39cf1227c7a626764fd30",
-            "modified": 1633241135,
-            "airing_id": "RADS1008272100023930",
-            "slug": "shes-all-we-had",
+            "airing_id": "RADS1009242100031706",
+            "media_id": "15754b5670d589fa14687a95d3233b7e641d5ad8",
+            "modified": 1632816945,
+            "slug": "steam-gorilla",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15432532249946.jpg",
-            "created": 1543252632,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/1_21610107295-DrStone_29_SteamGorilla.png",
+            "created": 1622930219,
+            "title_id": "2264994",
             "season_number": "2",
-            "title_id": "2181098",
-            "tv_rating": "tv-14-dl",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1633241135,
+            "tv_rating": "tv-pg-lv",
+            "published": 1632816945,
             "tags": [],
-            "collection_title": "Tender Touches",
+            "collection_title": "Dr. Stone",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1630641600,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432532249946.jpg",
-            "id": "AWdRBmJ4qD68dq0Op5gv",
+            "launch_date": 1633244400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610107295-DrStone_29_SteamGorilla.png",
+            "id": "AXneLeL-BH5Z6gH5aWTk",
             "auth": false,
-            "collection_slug": "tender-touches",
-            "collection_title_id": "2144136",
+            "collection_slug": "dr-stone",
+            "collection_title_id": "2207385",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
