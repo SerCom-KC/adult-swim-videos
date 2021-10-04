@@ -425,7 +425,7 @@
         "launch_date": 1630296000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15543096441134.jpg",
         "id": "AWnMogXzHl5gR6828zAo",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1555338600,
@@ -750,6 +750,56 @@
     },
     {
         "ott_launch_date": 1555943400,
+        "auth_expiration_date": 1627271940,
+        "tms_id": "EP031867090006",
+        "description": "Where you from?",
+        "title_suggest": {
+            "input": [
+                "Where You From?",
+                "You From?",
+                "From?"
+            ]
+        },
+        "title": "Where You From?",
+        "type": "episode",
+        "expiration_date": 1636347540,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 681.17,
+        "episode_number": "6",
+        "original_air_date": 1555906500,
+        "auth_launch_date": 1624248000,
+        "clip_order": null,
+        "airing_id": "RADS1010012100033979",
+        "media_id": "a67c38a351bf49021f8b64e4e5118a247a1f3a4f",
+        "modified": 1633146881,
+        "slug": "where-you-from",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155561093584715.jpg",
+        "created": 1555598644,
+        "title_id": "2178194",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1633146881,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1633320000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155561093584715.jpg",
+        "id": "AWow55ZdAScUIg8Xxe9I",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1555943400,
         "auth_expiration_date": 1626667140,
         "tms_id": "EP031867090005",
         "description": "We good!",
@@ -932,52 +982,6 @@
         "launch_date": 1629086400,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241042464-LazorWulf_209_dup-20201013_TheyKnew.jpg",
         "id": "AXX66_gibxpjZvbXYlc0",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1633319940,
-        "tms_id": "",
-        "description": "Where You Stay?",
-        "title_suggest": {
-            "input": [
-                "Where You Stay?",
-                "You Stay?",
-                "Stay?"
-            ]
-        },
-        "title": "Where You Stay?",
-        "expiration_date": 1630295940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 672.305,
-        "episode_number": "6",
-        "original_air_date": "1608527700",
-        "auth_launch_date": 1630296000,
-        "clip_order": null,
-        "airing_id": "RADS1008272100023742",
-        "media_id": "88a7157aad46a36272bb65f34d544a6bd0799ae8",
-        "modified": 1631147450,
-        "slug": "where-you-stay",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241041241-LazorWulf_206_dup-20201005_WhereYouStay.jpg",
-        "created": 1606232506,
-        "season_number": "2",
-        "title_id": "2224737",
-        "tv_rating": "tv-14-l",
-        "published": 1631147450,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1627272000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241041241-LazorWulf_206_dup-20201005_WhereYouStay.jpg",
-        "id": "AXX66wHGLyLQBOXK_Prj",
         "auth": true
     },
     {
