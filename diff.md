@@ -2,335 +2,201 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 4, 2021 at 00:00:35 EDT_
+_Last Update: October 4, 2021 at 00:30:25 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 7  
-2094567 Dream Corp LLC: 1  
-2178188 Lazor Wulf: 1  
-2196566 Momma Named Me Sheriff: 1  
-2292228 Teenage Euthanasia: 1  
-610028 The Boondocks: 7  
-2194658 The Promised Neverland: 1  
-2162827 Tigtone: 1  
-### 2186671
-**American Dad S14E22 - Cheek to Cheek: A Stripper's Story**  
-TV-14-DLSV 🔓 21:02  
+2003422 Bob's Burgers: 4  
+608360 Robot Chicken: 5  
+2215991 Sword Art Online: Alicization - War of Underworld: 1  
+895948 The Eric Andre Show: 1  
+2266164 Tuca & Bertie: 1  
+### 2003523
+**Bob's Burgers S03E12 - Broadcast Wagstaff School News**  
+TV-PG 🔓 21:21  
 ⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/cheek-to-cheek-a-strippers-story  
-seriesid=`581006` titleid=`2186671` id=`AXKUOra-C8QgH-t19Jj8` mediaid=`a8730522bf32d8baa5b99e4c6d385e3952b8dee6`  
-_Roger enlists Jeff as his protégé in order to open his dream chivalric strip club. Klaus moves into Steve's room._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg" height="144px" /></a>
-### 2186670
-**American Dad S14E21 - Downtown**  
-TV-14-DLV 🔓 21:02  
+https://www.adultswim.com/videos/bobs-burgers/broadcast-wagstaff-school-news  
+seriesid=`2003422` titleid=`2003523` id=`3adw46_sRxC-g9TyOb1S4g` mediaid=`be966cc7c474aa02e26265d58d7bfe21786f3bdc`  
+_There is a "Mad Pooper" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the "bottom" of the situation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg" height="144px" /></a>
+### 2003525
+**Bob's Burgers S03E14 - Lindapendent Woman**  
+TV-14 🔓 21:14  
 ⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/downtown  
-seriesid=`581006` titleid=`2186670` id=`AXKUOl5bC8QgH-t19Jj7` mediaid=`55e549081cab0688a8ae30a45b1563e0944d8b76`  
-_Hayley drives Steve to a testing center in "no good" downtown but they end up stranded in a worse suburban neighborhood. Stan, Francine, and Roger mistakenly go downtown to rescue them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg" height="144px" /></a>
-### 2186668
-**American Dad S14E19 - Eight Fires**  
-TV-14-DLV 🔓 21:02  
+https://www.adultswim.com/videos/bobs-burgers/lindapendent-woman  
+seriesid=`2003422` titleid=`2003525` id=`kvkEWCJ7Qz2vYco5MnETFg` mediaid=`6f9ce5e989b949993cda0bd62eaec7a34d40d6c5`  
+_Linda thinks Bob doesn't appreciate her and quits the restaurant to work at a grocery store. In her absence, Bob tries - and fails - to run the place on his own and the kids are stuck in the middle of the marital mayhem. Meanwhile, things get romantic for Tina when she meets her potential soul mate while restocking the milk fridge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277452448210.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277452448210.jpg" height="144px" /></a>
+### 2003524
+**Bob's Burgers S03E13 - My Fuzzy Valentine**  
+TV-14 🔓 21:29  
 ⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/eight-fires  
-seriesid=`581006` titleid=`2186668` id=`AXKUOWJFRs3h4hI_X4BV` mediaid=`ac405ed06c89cbdd8ea382dc0ca6cfe54dd03e43`  
-_Roger helps Francine with her terrible cooking by bringing her to a remote Patagonian island. Stan gets a nail in his head and can't speak._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895827-americandad_1319_air_cid-40TM5.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895827-americandad_1319_air_cid-40TM5.jpg" height="144px" /></a>
-### 2019425
-**American Dad S10E10 - Manhattan Magical Murder Mystery Tour**  
-TV-14 🔒 21:01  
+https://www.adultswim.com/videos/bobs-burgers/my-fuzzy-valentine  
+seriesid=`2003422` titleid=`2003524` id=`sydZJtJDRU-O5iH5LCk0GQ` mediaid=`bee43522f30b692925ca69c90a5d97356d243415`  
+_When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will "wow" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870804604312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870804604312.jpg" height="144px" /></a>
+### 2003428
+**Bob's Burgers S01E06 - Sheesh! Cab, Bob?**  
+TV-PG 🔒 21:34  
 ⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/manhattan-magical-murder-mystery-tour  
-seriesid=`581006` titleid=`2019425` id=`3w97uOnnSfyITr-a1fdbGA` mediaid=`3d31ab57065e7105c29cd02c0ee80906ac62f624`  
-_Francine is up for an award for her lonely housewife novel, so the family heads to New York for the ceremony. Meanwhile, Stan and Hayley hang out with actor Robert Wuhl, and Steve and Roger recreate their Wheels and the Legman personas._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001899518215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001899518215.jpg" height="144px" /></a>
-### 2186667
-**American Dad S14E18 - No Weddings and a Funeral**  
-TV-14-DLSV 🔓 21:02  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/no-weddings-and-a-funeral  
-seriesid=`581006` titleid=`2186667` id=`AXKUOOtwC8QgH-t19Jj5` mediaid=`21e7cd2925a81536814cab11674ab11ce6980a33`  
-_Klaus leaves the family after one too many harassments. 15 years later, they reconnect for his funeral._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068957301-americandad_1318_air_cid-3YD31.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068957301-americandad_1318_air_cid-3YD31.jpg" height="144px" /></a>
-### 2186669
-**American Dad S14E20 - The Hand that Rocks the Rogu**  
-TV-14-DLSV 🔓 21:02  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-hand-that-rocks-the-rogu  
-seriesid=`581006` titleid=`2186669` id=`AXKUOb9LC8QgH-t19Jj6` mediaid=`6f9213e9da0a054f1d0a7ee61cb53c0751921fb4`  
-_Steve babysits Roger's ex-tumor, Rogu, to prove to Francine that he's ready for the responsibility. Stan and Francine get into trouble in their respective clubs._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068958281-americandad_1320_air_cid-4101Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068958281-americandad_1320_air_cid-4101Y.jpg" height="144px" /></a>
-### 2019427
-**American Dad S10E12 - The Shrink**  
-TV-14-DLV 🔒 21:02  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-shrink  
-seriesid=`581006` titleid=`2019427` id=`5Lhs6bejROaowLi1mVZwDg` mediaid=`f9f825ff0b7e4be1ea8dc94ac936548713342d3b`  
-_Stan is horrified when he sees a couple die in a car crash, and he goes to see a shrink. Meanwhile, Roger and Klaus study for a wine tasting._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036534750013.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036534750013.jpg" height="144px" /></a>
-### 2094572
-**Dream Corp LLC S01E05 - You Down with OCD?**  
-TV-14-DL 🔓 11:16  
-⌛ November 7, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/dream-corp-llc/you-down-with-ocd  
-seriesid=`2094567` titleid=`2094572` id=`QZved_uqRtyOblYFf-eA3A` mediaid=`73a19aff7b35551fcb1cf19a21ccfc65332544d4`  
-_Patient 46 suffers from severe OCD and is a rare case even for Dr. Roberts. The staff gears up to find her when she suddenly goes missing. T.E.R.R.Y. and 88 compete for her affection._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341028229-dreamcorpllc_105_dup-20160809.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341028229-dreamcorpllc_105_dup-20160809.jpg" height="144px" /></a>
-### 2178194
-**Lazor Wulf S01E06 - Where You From?**  
-TV-14-L 🔓 11:21  
-⌛ November 7, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/lazor-wulf/where-you-from  
-seriesid=`2178188` titleid=`2178194` id=`AWow55ZdAScUIg8Xxe9I` mediaid=`a67c38a351bf49021f8b64e4e5118a247a1f3a4f`  
-_Where you from?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155561093584715.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155561093584715.jpg" height="144px" /></a>
-### 2247957
-**Momma Named Me Sheriff S02E07 - Election**  
-TV-MA-S 🔓 11:16  
-⌛ November 7, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/momma-named-me-sheriff/election  
-seriesid=`2196566` titleid=`2247957` id=`AXewRoxkbxpjZvbXYmTh` mediaid=`d9babfd82dc625cc1d9dc113ff11df091ad4914b`  
-_Goodman must leave the country and jump through a series of ridiculous hoops in order to cancel a simple membership subscription._  
-<a href="https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg" height="144px" /></a>
-### 2292232
-**Teenage Euthanasia S01E05 - Suddenly Susan**  
-TV-14-DLS 🔒 22:16  
-⌛ October 24, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/teenage-euthanasia/suddenly-susan  
-seriesid=`2292228` titleid=`2292232` id=`AXw8Qm-l4Xbjep71f6HJ` mediaid=`e555dc3d3a1d9251bebac17d95176ede409bf193`  
-_To avoid Annie's birdwatching field trip, Trophy swaps souls with a corpse._  
-<a href="https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_21101102975-TeenageEuthanasia_104_SuddenlySusan.png"><img src="https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_21101102975-TeenageEuthanasia_104_SuddenlySusan.png" height="144px" /></a>
-### 798559
-**The Boondocks S03E07 - A Date with the Booty Warrior**  
-TV-MA 🔓 22:40  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/a-date-with-the-booty-warrior  
-seriesid=`610028` titleid=`798559` id=`e7ZBS3i4R_qGXPnIWtUrdQ` mediaid=`4d8dd47bc4b5d8dcfbeea6f1c751a475c7edd29f`  
-_Having conquered his fear of prison rape, Tom volunteers to lead Huey, Riley, and some classmates on a trip to jail as part of a "Scared Stiff" program. But when a riot breaks out, Tom has to get the kids, and his delicate backside, out of jail in one piece._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136342-boondocks_308.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136342-boondocks_308.jpg" height="144px" /></a>
-### 627765
-**The Boondocks S01E05 - A Date with the Health Inspector**  
-TV-MA 🔒 20:52  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/a-date-with-the-health-inspector  
-seriesid=`610028` titleid=`627765` id=`zTGhsXtATXyiOnnrgZwt0w` mediaid=`140fe7c629a76e477d406c69e573903f0cc98d32`  
-_District Attorney and law abiding citizen Tom Dubois fits the description of the elusive "X-Box Killer" and is arrested. Huey has to find the real killer, before Tom is shipped off to "real" prison where he will most assuredly be made very, very uncomfortable._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116120-boondocks_106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116120-boondocks_106.jpg" height="144px" /></a>
-### 623581
-**The Boondocks S01E04 - Granddad's Fight**  
-TV-MA 🔒 21:51  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/granddads-fight  
-seriesid=`610028` titleid=`623581` id=`GC_Q8yDjTlCIIjKWhpz54A` mediaid=`db0fd7d1fcbbefd4e7371d0819af8025b10e9de1`  
-_Granddad and Colonel Stinkmeaner have a beef. One man's blind. One man's feeble. Both are really, really old.  Let "The Slugfest in Woodcrest" commence!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115532-boondocks_104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115532-boondocks_104.jpg" height="144px" /></a>
-### 623579
-**The Boondocks S01E03 - Guess Hoe's Coming to Dinner**  
-TV-MA 🔒 21:42  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/guess-hoes-coming-to-dinner  
-seriesid=`610028` titleid=`623579` id=`xvcajX5DRvCk5e_OEfHlVA` mediaid=`54438afa1c60b1d299631cb81af49f7c9a0cc751`  
-_Granddad's bad luck with the ladies is about to change when he meets a very beautiful young woman. The boys disapprove when they discover that something is just "different" about her. Like the fact that she's a prostitute._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115338-boondocks_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115338-boondocks_102.jpg" height="144px" /></a>
-### 623582
-**The Boondocks S01E06 - The Real**  
-TV-MA 🔒 21:31  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-real  
-seriesid=`610028` titleid=`623582` id=`9de12MjMSpunoy9oSLrzRw` mediaid=`d5cab8432741d609b4904e811fd4012807f27c32`  
-_While Riley's convincing two reality shows that Granddad's blind and running a homeless shelter, Huey is being shadowed by a secret government agent. But is he real?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116383-boondocks_105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116383-boondocks_105.jpg" height="144px" /></a>
-### 798560
-**The Boondocks S03E08 - The Story of Lando Freeman**  
-TV-MA 🔓 22:38  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-story-of-lando-freeman  
-seriesid=`610028` titleid=`798560` id=`Ak6cdNvWSx2EBxm6H7m1hQ` mediaid=`f3abd5cafe00106c106d305279fcb40ccab59d7c`  
-_There's a new handyman in the neighborhood undercutting Uncle Ruckus... which is all good for Granddad and his garden until the man claims to be his long lost son, Lando. Will Granddad take responsibility and be a father to his child? Not without a talk show paternity test..._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136502-boondocks_312.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136502-boondocks_312.jpg" height="144px" /></a>
-### 623578
-**The Boondocks S01E02 - The Trial of Robert Kelly**  
-TV-MA 🔒 21:19  
-⌛ October 10, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-trial-of-robert-kelly  
-seriesid=`610028` titleid=`623578` id=`3mT1tpgjTc-J5J7BpDS2pQ` mediaid=`044408f3a392a2c5318d44d362243c849299b3f1`  
-_When the trial of R&B star R. Kelly comes to town, Huey and Riley are on opposing sides of the hot-button "underage peeing" issue._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115150-boondocks_101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115150-boondocks_101.jpg" height="144px" /></a>
-### 2264533
-**The Promised Neverland S02E02 - Episode 2**  
-TV-14-DLV 🔓 21:14  
+https://www.adultswim.com/videos/bobs-burgers/sheesh-cab-bob  
+seriesid=`2003422` titleid=`2003428` id=`Z-2JQXrqSduNuyz2syFZpQ` mediaid=`d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95`  
+_Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg" height="144px" /></a>
+### 714336
+**Robot Chicken S01E18 - Adultizzle Swizzle**  
+TV-14-DV 🔒 11:00  
 ⌛ October 17, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-promised-neverland/episode-2  
-seriesid=`2194658` titleid=`2264533` id=`AXiI43q4BH5Z6gH5aWHX` mediaid=`78100bab549e2e652a5d378f9bf5a6e44b6c2ae3`  
-_The children's saviors turn out to be demons named Mujika and Sonju. The pair claims that their religion forbids them from eating humans. Emma and Ray visit Sonju, intending to ask about what happened to humans thirty years ago._  
-<a href="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_21331112567-PromisedNeverland2_002_Episode2.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_21331112567-PromisedNeverland2_002_Episode2.jpg" height="144px" /></a>
-### 2171690
-**Tigtone S01E06 - Tigtone and the Freaks of Love**  
-TV-14-DSV 🔓 11:17  
+https://www.adultswim.com/videos/robot-chicken/adultizzle-swizzle  
+seriesid=`608360` titleid=`714336` id=`qgGTMTnJTDKDNdcLj06V8g` mediaid=`fed022bc85f6ead65db12c57ea9740b61ce9da84`  
+_"It's Alien vs. Predator on the battleground of love in a special episode of "First Date." See what the future holds in "Carousel of Tomorrow." Popeye experiences a world without his hamburger-leeching friend in "It's a Wimpy-Filled Life."  The modern video game Halo invades the old-school classic Donkey Kong. Mrs. McNally's third-graders present: Tim Burton's The Corpse Bride.   The truth about Ponda Baba's bad day."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_203302012345-robotchicken_004a.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_203302012345-robotchicken_004a.jpg" height="144px" /></a>
+### 2139711
+**Robot Chicken S09E17 - He's Not Even Aiming at the Toilet**  
+TV-14-DLSV 🔒 11:11  
+⌛ October 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/hes-not-even-aiming-at-the-toilet  
+seriesid=`608360` titleid=`2139711` id=`AWG_GDkN0KIGIdXCKrgS` mediaid=`5640653701e45345b306334201585a04ce7a7b40`  
+_Robot Chicken reviews all the Star Wars plot holes that Galen Erso helped close in Rogue One. Peppa Pig's family deal with Brexit fallout. Some swine dare to make a knock-off of the Broadway mega-hit Hamilton._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046132124-robotchicken_917_dup-20180228.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046132124-robotchicken_917_dup-20180228.jpg" height="144px" /></a>
+### 2213491
+**Robot Chicken S10E18 - Sundancer Craig in: 30% of the Way to Crying**  
+TV-MA 🔒 11:14  
+⌛ October 24, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/sundancer-craig-in-30-of-the-way-to-crying  
+seriesid=`608360` titleid=`2213491` id=`AXNYfYPxRs3h4hI_X4UI` mediaid=`464a343ddc46ac71eaed3dec6e38f2befb075822`  
+_Rita Repulsa finally figures out a way to take down The Power Rangers. We get to see Freddy Krueger's worst nightmare. The Robot Chicken crew reveals the monster from Bird Box. We get to see a different viewpoint from the movie Predator._  
+<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171710112-robotchicken_1018_dup-20190919.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171710112-robotchicken_1018_dup-20190919.jpg" height="144px" /></a>
+### 677658
+**Robot Chicken S03E05 - Tapping A Hero**  
+TV-MA 🔓 11:34  
+⌛ October 23, 2021 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/tapping-a-hero  
+seriesid=`608360` titleid=`677658` id=`WpYJTnjCQlmJizLpBsxF0g` mediaid=`793896e4b0c23aa2ee998328aeb3fe9e3227f32f`  
+_Law & Order has never been chicken... until now. President Bush gets a Gremlin, and the world suffers. Don't miss The 33-Year-Old Virgin, starring Jesus. Smokey the Bear remembers where he got his name. Stan Lee and Pamela Anderson reveal super-powered gossip on Superheroes Tonight._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411228316-robotchicken_045.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411228316-robotchicken_045.jpg" height="144px" /></a>
+### 2020472
+**Robot Chicken S07E15 - Victoria's Secret of NIMH**  
+TV-MA 🔒 11:16  
+⌛ October 24, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/victorias-secret-of-nimh  
+seriesid=`608360` titleid=`2020472` id=`LySatV4NS1u-f3K6HvfrpQ` mediaid=`78164f5ce5b3de7841819bc1748d45af79c488ee`  
+_From the minds of the writers, we watch as The Count from Sesame Street has a run-in with Blade, we see that McDonald's isn't just a place for eating, Jor-El has some very helpful advice for Superman, and a new nemesis comes to Gotham City._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612988-robotchicken_137_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612988-robotchicken_137_dup.jpg" height="144px" /></a>
+### 2215999
+**Sword Art Online: Alicization - War of Underworld S01E08 - Blood and Life**  
+TV-14-LV 🔓 22:01  
+⌛ October 17, 2021 at 23:59:00 EDT  
+https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/blood-and-life  
+seriesid=`2215991` titleid=`2215999` id=`AXARyRtA3HMJfT8do8JE` mediaid=`58449e063ff4c1387e642880df31778c3834ce75`  
+_The powerful spell unleashed by Alice, the Integrity Knight, inflicts severe casualties on the Dark Forces, pulling them back from the brink of disaster._  
+<a href="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241459101-SAO_WoU_008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241459101-SAO_WoU_008.jpg" height="144px" /></a>
+### 2032604
+**The Eric Andre Show S03E09 - Pauly D; Rick Springfield**  
+TV-MA-L 🔓 10:47  
 ⌛ November 7, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/tigtone/tigtone-and-the-freaks-of-love  
-seriesid=`2162827` titleid=`2171690` id=`AWgQZLd4zQU7gEG1jvbJ` mediaid=`de97c4e0c6531b0ce8d50c97e545ff5db289d416`  
-_Tigtone suffers through the worst kind of quest: an escort quest._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843445502714.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843445502714.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-eric-andre-show/pauly-d-rick-springfield  
+seriesid=`895948` titleid=`2032604` id=`Vsafy6LESTSmH7k0aE7y8w` mediaid=`c4102ce651e5182cb48859f60b4fc2fa7335a372`  
+_Interview with Pauly D; Special appearance by Rick Springfield; Musical guest Paul Wall._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617572-ericandre_029_dup-20141211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617572-ericandre_029_dup-20141211.jpg" height="144px" /></a>
+### 2266167
+**Tuca & Bertie S02E03 - Kyle**  
+TV-14-DLSV 🔒 22:29  
+⌛ December 12, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/tuca-bertie/kyle  
+seriesid=`2266164` titleid=`2266167` id=`AXpA9XsADmGy9WFjRrkp` mediaid=`eb591b929e43cb6dfb37a6677b1966460d0a7b82`  
+_Bertie hits a wall at work and decides to channel her inner bird/bro, while Tuca's passions steer her into a high-octane new job. Will our gals wield their new powers responsibly? No._  
+<a href="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_2162514458-TucaAndBertie_203_Kyle.png"><img src="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_2162514458-TucaAndBertie_203_Kyle.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2094567 DREAM CORP LLC: 1  
-2162827 Tigtone: 1  
-2178188 Lazor Wulf: 1  
-2194658 The Promised Neverland: 1  
-2196566 Momma Named Me Sheriff: 1  
-581006 American Dad: 7  
-610028 The Boondocks: 7  
-### 2215440
-**DREAM CORP LLC S03E02 - Monkey Man**  
-TV-14-LSV 🔒 14:00  
+2003422 Bob's Burgers: 4  
+2215991 Sword Art Online: Alicization - War of Underworld: 1  
+608360 Robot Chicken: 5  
+895948 The Eric Andre Show: 1  
+### 2003522
+**Bob's Burgers S03E11 - Nude Beach**  
+TV-14 🔓 21:33  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dream-corp-llc/monkey-man  
-seriesid=`2094567` titleid=`2215440` id=`AXSdgRioLyLQBOXK_POD` mediaid=`d64e02cf2569a1264511c33c13001663ca44ad19`  
-_Patient 84 visits Dream Corp LLC for hiccups and will never be the same again._  
-<a href="https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171518328-DreamCorpLLC_302.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171518328-DreamCorpLLC_302.jpg" height="144px" /></a>
-### 2222957
-**Tigtone S02E07 - Tigtone and the Princess Castle**  
-TV-14-LV 🔒 10:56  
+https://www.adultswim.com/videos/bobs-burgers/nude-beach  
+seriesid=`2003422` titleid=`2003522` id=`-iEHRbHnQaKmCbMl2ZZQeQ` mediaid=`4d479a4000b4c5f006811ad5bb56110aedb5ec29`  
+_Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg" height="144px" /></a>
+### 2171457
+**Bob's Burgers S08E17 - Boywatch**  
+TV-PG-L 🔒 21:41  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tigtone/tigtone-and-the-princess-castle  
-seriesid=`2162827` titleid=`2222957` id=`AXRJu8nuSeFB2d0c38ty` mediaid=`9eeb8615dc302552c318de1953a0deab7f5d1c5a`  
-_A haunted castle forces Tigtone and Helpy to be trapped in it and beautiful._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211794735-Tigtone_204_dup-20200717.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211794735-Tigtone_204_dup-20200717.jpg" height="144px" /></a>
-### 2224737
-**Lazor Wulf S02E06 - Where You Stay?**  
-TV-14-L 🔒 11:12  
+https://www.adultswim.com/videos/bobs-burgers/boywatch  
+seriesid=`2003422` titleid=`2171457` id=`AWlyRK-eAScUIg8Xxd78` mediaid=`dc02c49b35f4dcc44deed10266f3a480daca6fb1`  
+_Tina decides to join the Junior Lifeguards, but one of her fellow junior guards tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg" height="144px" /></a>
+### 2003521
+**Bob's Burgers S03E10 - Mother Daughter Laser Razor**  
+TV-PG 🔓 21:30  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/lazor-wulf/where-you-stay  
-seriesid=`2178188` titleid=`2224737` id=`AXX66wHGLyLQBOXK_Prj` mediaid=`88a7157aad46a36272bb65f34d544a6bd0799ae8`  
-_Where You Stay?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241041241-LazorWulf_206_dup-20201005_WhereYouStay.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241041241-LazorWulf_206_dup-20201005_WhereYouStay.jpg" height="144px" /></a>
-### 2194664
-**The Promised Neverland S01E06 - 311045**  
-TV-14-V 🔒 21:32  
+https://www.adultswim.com/videos/bobs-burgers/mother-daughter-laser-razor  
+seriesid=`2003422` titleid=`2003521` id=`RNMHcG_NQnaimkMIInNOHA` mediaid=`ec0c202d5a8f2ae074e11c7fb693c3ecec6e033a`  
+_Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg" height="144px" /></a>
+### 2003520
+**Bob's Burgers S03E09 - Bob Rest Ye Merry Gentle-Mannequins**  
+TV-14 🔓 21:34  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-promised-neverland/311045  
-seriesid=`2194658` titleid=`2194664` id=`AWqxIOnv4aLemgzOLEfE` mediaid=`99eb72f0c69cd0323c7b567177591dc1f273bb27`  
-_Discussions for the escape plan continue, and Emma introduces Ray and Norman to someone. Meanwhile, Don and Gilda take a dangerous risk._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15581125011405.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15581125011405.jpg" height="144px" /></a>
-### 2196572
-**Momma Named Me Sheriff S01E06 - TV**  
-TV-MA 🔒 11:18  
+https://www.adultswim.com/videos/bobs-burgers/bob-rest-ye-merry-gentle-mannequins  
+seriesid=`2003422` titleid=`2003520` id=`rb0V_DCfQ56EGAfl6B9Fkg` mediaid=`dff26d7752896c519bd34b3435d7c2deb8fdd4b9`  
+_Bob inherits a storage unit, and the whole family imagines it's filled with treasures. Instead, they find a man named Chet living inside. Linda, feeling the holiday spirit, persuades Bob to invite Chet to stay at the restaurant. It's discovered that this stranger, who claims he was once a mannequin, has a gift for intricate and living window displays. With the restaurant decked out in holiday cheer, the Christmas spirit is in the air._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg" height="144px" /></a>
+### 2216014
+**Sword Art Online: Alicization - War of Underworld S01E23 - New World**  
+TV-14-LV 🔒 23:46  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/momma-named-me-sheriff/tv  
-seriesid=`2196566` titleid=`2196572` id=`AW5qjgBaadNs2hMNfugG` mediaid=`04e533a0e1a0d8e9ff45a3c821af486e7f597683`  
-_When Goodman buries his family TV, it rises from the grave, demanding to be entertained._  
-<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg" height="144px" /></a>
-### 2186662
-**American Dad S14E13 - Mom Sauce**  
-TV-14-DLSV 🔓 21:02  
+https://www.adultswim.com/videos/sword-art-online-alicization-war-of-underworld/new-world  
+seriesid=`2215991` titleid=`2216014` id=`AXdp_DfBQJ_4Uej5kTpr` mediaid=`c3173462bf9ec955b21b2e106142c13c80d354a1`  
+_Rinko informs Kazuto that Alice is missing. He's about to rush to the Rath Roppongi branch when the doorbell rings. In a panic, Kazuto throws open the door, only to find a deliveryman there with a huge cardboard box._  
+<a href="https://media.cdn.adultswim.com/uploads/20210205/thumbnails/2_2125188584-SAO_WoU_023_Underworld.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210205/thumbnails/2_2125188584-SAO_WoU_023_Underworld.jpg" height="144px" /></a>
+### 618426
+**Robot Chicken S01E16 - Nightmare Generator**  
+TV-14-LV 🔒 11:15  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/mom-sauce  
-seriesid=`581006` titleid=`2186662` id=`AXKPZbx3Rs3h4hI_X4A9` mediaid=`f3dd1b5274b1ef18b8356349c4f391ec08ff415a`  
-_Steve's life is turned upside down when Snot gets rich after his mom starts selling a new dipping sauce. Klaus, Stan, Roger and Jeff become mall fashion show models._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg" height="144px" /></a>
-### 2186663
-**American Dad S14E14 - Hamerican Dad!**  
-TV-14-DLSV 🔓 21:02  
+https://www.adultswim.com/videos/robot-chicken/nightmare-generator  
+seriesid=`608360` titleid=`618426` id=`1p4z156UTiasVjeCyziY7g` mediaid=`6fdb2da587838382a40ab457c892b5f4097e72ba`  
+_The classic film Jaws gets a special edition DVD.  Scandal at the North Pole is revealed in "Unsolved Case Files: Claus & Effect." The A-Team solves its problems with maximum firepower and minimal intelligence._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_2032621377-robotchicken_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_2032621377-robotchicken_003.jpg" height="144px" /></a>
+### 2139709
+**Robot Chicken S09E15 - Why Is It Wet?**  
+TV-14-DLSV 🔒 11:08  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/hamerican-dad  
-seriesid=`581006` titleid=`2186663` id=`AXKPZmnhC8QgH-t19JjV` mediaid=`22719bca3d20ee8dd73a3cd906c93d85ff103cf9`  
-_Stan, reluctantly invites Roger into his ham club. Francine decides to scare Greg._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg" height="144px" /></a>
-### 2186664
-**American Dad S14E15 - Demolition Daddy**  
-TV-14-DLSV 🔓 21:02  
+https://www.adultswim.com/videos/robot-chicken/why-is-it-wet  
+seriesid=`608360` titleid=`2139709` id=`AWFn7tgVZ-onAnjDL8ij` mediaid=`91ec4b61a26d6cbf0a728c10bc3c0ee56a83329c`  
+_The creators of Robot Chicken revisit the POG craze for some reason. Mulan's disguise has worked too well. Rita Repulsa advertises a new use for her wand, and the Power Rangers refuse to pay the price!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461319335-robotchicken_915_dup-20180227.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461319335-robotchicken_915_dup-20180227.jpg" height="144px" /></a>
+### 2213487
+**Robot Chicken S10E15 - Buster Olive in: The Monkey Got Closer Overnight**  
+TV-14-DLSV 🔒 11:13  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/demolition-daddy  
-seriesid=`581006` titleid=`2186664` id=`AXKPZuazRs3h4hI_X4A-` mediaid=`0b3c532a6a9e87d2d2f693d47cf51ad6e074f7a2`  
-_Thanks to Roger, Snot discovers his dead father was a demolition derby driver. Hayley takes Steve on a road trip, so he can learn to drive._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg" height="144px" /></a>
-### 2186665
-**American Dad S14E16 - Pride Before the Fail**  
-TV-14-DLSV 🔓 21:02  
+https://www.adultswim.com/videos/robot-chicken/buster-olive-in-the-monkey-got-closer-overnight  
+seriesid=`608360` titleid=`2213487` id=`AXMQJj1aC8QgH-t19J1X` mediaid=`f1800521e94af222bc111868fef05d997fa441e0`  
+_Tyrion Lannister learns the true meaning of "winter is coming." Blade tries to slice his way into infomercials. Inside Out Boy goes to college. The Robot Chicken writers show what happens when Halloween meets Home Alone._  
+<a href="https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg" height="144px" /></a>
+### 640878
+**Robot Chicken S02E17 - A Day at the Circus**  
+TV-MA 🔓 11:27  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/pride-before-the-fail  
-seriesid=`581006` titleid=`2186665` id=`AXKUOAGSRs3h4hI_X4BT` mediaid=`c9c61867f1ca82d3738108bd043f804f5c8bc157`  
-_Roger tries to force Hayley into graduating from community college so he can move into her room. Klaus repairs Francine's car._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg" height="144px" /></a>
-### 2186666
-**American Dad S14E17 - Enter Stanman**  
-TV-14-DLSV 🔓 21:03  
+https://www.adultswim.com/videos/robot-chicken/a-day-at-the-circus  
+seriesid=`608360` titleid=`640878` id=`HMXMj4xuR0-qih8EBw_pRw` mediaid=`33a5979acd7346450c5c1f6c308c8be2e714333b`  
+_Robot Chicken whores itself out to corporate America.  Snow Job finds his specialized skills aren't in high demand with G.I. Joe.  Thing grows up and leaves the Adams Family nest.  The Memory Game challenges the brainpower of contestants, and the penalty for failure is death!  The Black Stallion teaches us about race relations.  Oprah and Dr. Phil team up in the greatest buddy cop movie ever!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411138285-robotchicken_037.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411138285-robotchicken_037.jpg" height="144px" /></a>
+### 2020467
+**Robot Chicken S07E12 - Noidstrom Rack**  
+TV-MA 🔒 11:16  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/enter-stanman  
-seriesid=`581006` titleid=`2186666` id=`AXKUOGgeRs3h4hI_X4BU` mediaid=`3ad0a60c7bcb55e7429f8cabb9eac16eb0bf8230`  
-_Roger helps Stan enter Francine's dreams after he becomes insecure about their contents._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg" height="144px" /></a>
-### 2007877
-**American Dad S09E16 - She Swill Survive**  
-TV-14 🔒 21:30  
+https://www.adultswim.com/videos/robot-chicken/noidstrom-rack  
+seriesid=`608360` titleid=`2020467` id=`O8edldILRwuJxYY4gNHoGg` mediaid=`f23bd25a2c7f0767e55bd695eb342e7580f86c0b`  
+_Man-E-Faces gets a shot at stardom from the minds behind Robot Chicken, the Starcom boys show NASA how it's done, we get a look at what goes on behind the scenes of Medieval Times when the costumes come off, and the consequences of wishing on a Zoltar machine._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046126407-robotchicken_132_dup-20140617.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046126407-robotchicken_132_dup-20140617.jpg" height="144px" /></a>
+### 2230789
+**The Eric Andre Show S05E10 - The 50th Episode!**  
+TV-MA-LSV 🔒 14:28  
 ⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/she-swill-survive  
-seriesid=`581006` titleid=`2007877` id=`UlB2vXL0QLyg3zz190qkzw` mediaid=`6e607391f85b88ba0ad7860548420dab64b9fbde`  
-_Stan is tired of Hayley being lazy and unemployed so he forces her to take a job in Roger's Bar.  Deputy Director Bullock is a regular at the bar and confesses to Hayley his secrets.  Stan takes advantage of Bullock's_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192397882788.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192397882788.jpg" height="144px" /></a>
-### 2007886
-**American Dad S09E17 - Rubberneckers**  
-TV-14 🔒 21:30  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/rubberneckers  
-seriesid=`581006` titleid=`2007886` id=`nw6w-MZ5TBiSaM-TX8OXrQ` mediaid=`e4764ee08185598feac0722e556508c0bac175d7`  
-_Stan and Francine go out to dinner and Francine catches Stan looking at another woman.  Stan tells his co-workers that he got caught and the co-workers teach Stan about Rubbernecking, the art of checking out other woman on the sly._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923980951911.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923980951911.jpg" height="144px" /></a>
-### 798554
-**The Boondocks S03E03 - The Red Ball**  
-TV-MA 🔓 22:39  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-red-ball  
-seriesid=`610028` titleid=`798554` id=`-6LBXwNLS2-gfU5L_r4LmQ` mediaid=`0fe65144d007a2ae880586b1ff0cae018835420d`  
-_When the Chinese call in some old debts, Ed Wuncler is forced to gamble all of Woodcrest's economic fortunes on a kickball game with its sister city, Wushung, China. Kickball legend Huey Freeman is to come out of self-imposed exile from the game to do battle with the red ball one last time. It's a kickball game to end all kickball games._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321134570-boondocks_306.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321134570-boondocks_306.jpg" height="144px" /></a>
-### 798558
-**The Boondocks S03E06 - The Fund-Raiser**  
-TV-MA 🔓 22:39  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-fund-raiser  
-seriesid=`610028` titleid=`798558` id=`7da7T-0ETq2nxh2B7blNfw` mediaid=`6d74e35998c788705398d94f7043978c2a87cae6`  
-_Riley takes over the school candy bar hustle and floods the block with sugar. But when the competition comes looking for payback, it's all out war for control of the chocolate covered streets. Will the sweet life take Riley under?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113669-boondocks_310.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113669-boondocks_310.jpg" height="144px" /></a>
-### 798567
-**The Boondocks S03E13 - It's Goin' Down**  
-TV-MA-V 🔒 22:42  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/its-goin-down  
-seriesid=`610028` titleid=`798567` id=`E7jWMF2qTbebM5hBgbqfuA` mediaid=`b5bb4c0ee78621be7e5ae5b3a55879301286bd6c`  
-_A terror attack near Woodcrest is imminent, and domestic terrorist Huey Freeman is the main suspect. With super-agent Jack Flowers on his tail and Ed and Rummy on the loose, can anyone save the day?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321138317-boondocks_305.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321138317-boondocks_305.jpg" height="144px" /></a>
-### 798557
-**The Boondocks S03E05 - Smokin' with Cigarettes**  
-TV-MA 🔓 21:51  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/smokin-with-cigarettes  
-seriesid=`610028` titleid=`798557` id=`EXNa5YjQR7GpSv5jb1hXXA` mediaid=`31b6a78aeb702b20b51a4f32c73d8a29b4e5ac52`  
-_If it's fun to do bad things, then Riley is having the best time ever with juvenile felon Lamilton Taeshawn. But when Lamilton wants to prove he has the "juice", the good times come to a shocking end. Will Riley "know the ledge"? Well anyone get these movie references?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135483-boondocks_309.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135483-boondocks_309.jpg" height="144px" /></a>
-### 798556
-**The Boondocks S03E04 - Stinkmeaner 3: The Hateocracy**  
-TV-MA-V 🔓 21:15  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/stinkmeaner-3-the-hateocracy  
-seriesid=`610028` titleid=`798556` id=`JdmLFiJ9RziR3ynIw_JWbw` mediaid=`03898c609f3bd4607553a7b0135fc2fe5b5ecefa`  
-_Colonel H. Stinkmeaner had no family and no friends... but he did have a mean crew. Three of Stinkmeaner's old crew arrive in town to exact payback on the Freeman family. Is revenge a dish best served old?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135168-boondocks_307.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135168-boondocks_307.jpg" height="144px" /></a>
-### 790590
-**The Boondocks S03E?? - Pause**  
-TV-MA-L 🔓 22:24  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/pause  
-seriesid=`610028` titleid=`790590` id=`ZGoaZ0VKR8qRLJP3dr9aTA` mediaid=`f407629fa51675c026d3734137e473fef2ead5ea`  
-_Granddad is cast as the leading man by mega-superstar of stage and screen, Winston Jerome. But when the theater group turns out to be a homoerotic evangelical cult, it's up to Huey and Riley to put a pause to it._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eafc3fecd017e/thumbnail_30078.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eafc3fecd017e/thumbnail_30078.jpg" height="144px" /></a>
-### 623580
-**The Boondocks S01E01 - The Garden Party**  
-TV-MA 🔒 19:56  
-⌛ October 3, 2021 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-garden-party  
-seriesid=`610028` titleid=`623580` id=`o67pvs6mTvawvuC49FfYYQ` mediaid=`d3300281b4fc7be9cc620520c586e9e4e9a90151`  
-_Granddad's perpetual fear that Huey and Riley will embarrass him in front of their new neighbors reaches paranoid heights when the family attends a stuffy, high-class garden party. The good news is: only one person gets shot._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321114545-boondocks_103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321114545-boondocks_103.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-eric-andre-show/the-50th-episode  
+seriesid=`895948` titleid=`2230789` id=`AXWPF0lwLyLQBOXK_PY9` mediaid=`86a625fb079a365a9e392b0e91cf37066ccb92e8`  
+_Eric welcomes Blake Griffin and Stormy Daniels in the season finale. His crossing guard skills stink and Miss Eric Andre will be finally crowned._  
+<a href="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113121161-ericandre_510_dup-20200915.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113121161-ericandre_510_dup-20200915.jpg" height="144px" /></a>
