@@ -49,53 +49,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1633406340,
-        "tms_id": "EP027786570034",
-        "description": "Want to become hotter? Sarah Squirm presents a revolutionary new cosmetic procedure that will leave you breathless, and ga-ga-ga-gorgeous!",
-        "title_suggest": {
-            "input": [
-                "Flayaway"
-            ]
-        },
-        "title": "Flayaway",
-        "expiration_date": 1630382340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 666.54,
-        "episode_number": "4",
-        "original_air_date": 1545123600,
-        "auth_launch_date": 1630382400,
-        "clip_order": null,
-        "media_id": "c2232994d8e771ce0fcbdd4af18f3d6cd042930a",
-        "modified": 1630209241,
-        "airing_id": "RADS1007302100017782",
-        "slug": "flayaway",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15447314743491.jpg",
-        "created": 1544124764,
-        "season_number": "8",
-        "title_id": "2187508",
-        "tv_rating": "tv-ma-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1630209241,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1627963200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg",
-        "id": "AWeFAhMFAsbXwNj3wAaC",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1634615940,
         "tms_id": "EP027786570036",
         "description": "A Silicon Valley mega-corporation beta tests its first genetically engineered employee.",
@@ -320,7 +273,7 @@
         "launch_date": 1630987200,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241047577-infomercials_11MWB_dup-20201123.jpg",
         "id": "AXX68La1bxpjZvbXYlc1",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -418,6 +371,51 @@
         "launch_date": 1632801600,
         "poster": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_201249963-infomercials_RateTheCookie_dup-20201201.jpg",
         "id": "AXYuFdlLQJ_4Uej5kTc7",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "SH036941010000",
+        "description": "Action. In this latest installment of the blockbuster movie franchise, super agent Danny Ketchup must save the world from terrorists who have developed a Supergun with bullets the size of Washington, D.C.",
+        "title_suggest": {
+            "input": [
+                "Danny Ketchup",
+                "Ketchup"
+            ]
+        },
+        "title": "Danny Ketchup",
+        "expiration_date": 1635825540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 780.6465,
+        "episode_number": "7",
+        "original_air_date": "1608627600",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1010012100034027",
+        "media_id": "0835d116a119d8c62fe1a5b863c1567f80da881c",
+        "modified": 1633152635,
+        "slug": "danny-ketchup",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/1_2012171756181-infomercials_DannyKetchup_dup-20201217.jpg",
+        "created": 1608245780,
+        "season_number": "10",
+        "title_id": "2236212",
+        "tv_rating": "tv-ma-l",
+        "published": 1633152635,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1633406400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171756181-infomercials_DannyKetchup_dup-20201217.jpg",
+        "id": "AXZy6yFzbxpjZvbXYlqP",
         "auth": false
     }
 ]
