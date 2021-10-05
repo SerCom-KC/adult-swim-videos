@@ -270,6 +270,55 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1632887940,
+        "tms_id": "EP007542790036",
+        "description": "In this juicy, explosive episode, the cast of 12 oz. Mouse answers all the questions you've been dying to ask!",
+        "title_suggest": {
+            "input": [
+                "Francis, Cheap & Out of Control",
+                "Cheap & Out of Control",
+                "& Out of Control",
+                "Out of Control",
+                "of Control",
+                "Control"
+            ]
+        },
+        "title": "Francis, Cheap & Out of Control",
+        "type": "episode",
+        "expiration_date": 1636433940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 694.0267,
+        "episode_number": "11",
+        "original_air_date": 1585723500,
+        "auth_launch_date": 1629813600,
+        "clip_order": null,
+        "airing_id": "RADS1010012100034038",
+        "media_id": "e1cf31172497cd4d50513fad654b690c11924011",
+        "modified": 1633153522,
+        "slug": "francis-cheap-out-of-control",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_207171724462-12ozMouse_311.jpg",
+        "created": 1595019850,
+        "title_id": "2224147",
+        "season_number": "3",
+        "tv_rating": "tv-14-lv",
+        "published": 1633153522,
+        "tags": [],
+        "collection_title": "12 oz Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1633406400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171724462-12ozMouse_311.jpg",
+        "id": "AXNel3L-C8QgH-t19KAt",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1635220740,
         "tms_id": "EP007542790040",
         "description": "Eyeball reunites with Mouse on Lotharganin. Manwoman, in the Outer Earth, is interrogated by Peanut Cop because she has the Box of Worlds in her possession created by Shyd Industries.",
