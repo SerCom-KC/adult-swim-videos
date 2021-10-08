@@ -669,7 +669,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": null,
+        "auth_expiration_date": 1637125140,
         "tms_id": "EP014135410041",
         "description": "Trying to keep up with reality.",
         "title_suggest": {
@@ -690,11 +690,11 @@
         "duration": 684.9176,
         "episode_number": "2",
         "original_air_date": "1609232400",
-        "auth_launch_date": null,
+        "auth_launch_date": 1634097600,
         "clip_order": null,
-        "airing_id": "RADS1009032100026665",
+        "airing_id": "RADS1010082100037099",
         "media_id": "9290951799ea22d5518a04dd3cd9a1ffa696d4b2",
-        "modified": 1630701978,
+        "modified": 1633728474,
         "slug": "dreams",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20201222/thumbnails/1_201222943216-OTA_1002_Dreams_dup-20201221.jpg",
@@ -702,7 +702,7 @@
         "season_number": "10",
         "title_id": "2228723",
         "tv_rating": "tv-ma",
-        "published": 1630701978,
+        "published": 1633728474,
         "tags": [],
         "collection_title": "Off The Air",
         "disable_ads": false,
