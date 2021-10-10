@@ -5691,5 +5691,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_211081110421-BlackClover_169_TheDevilBindingRitual.png",
         "id": "AXxduV4sUQa40cfnRSQp",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1635674340,
+        "tms_id": "EP032284200173",
+        "description": "The odds are stacked high against Asta, who must conquer his devil if he hopes to retain his power: the fight of a lifetime is just around the corner.",
+        "title_suggest": {
+            "input": [
+                "The Faraway Future",
+                "Faraway Future",
+                "Future"
+            ]
+        },
+        "title": "The Faraway Future",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1381.4133,
+        "episode_number": "16",
+        "original_air_date": 1633847400,
+        "auth_launch_date": 1633860000,
+        "clip_order": null,
+        "airing_id": "RADS1010082100036721",
+        "media_id": "56fd0900ed23225c47beac2e24c1575ad5140758",
+        "modified": 1633781445,
+        "slug": "the-faraway-future",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211008/thumbnails/1_211081111512-BlackClover_170_TheFarawayFuture.png",
+        "created": 1633660001,
+        "title_id": "2277545",
+        "season_number": "4",
+        "tv_rating": "tv-14-lv",
+        "published": 1633781445,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_211081111512-BlackClover_170_TheFarawayFuture.png",
+        "id": "AXxduVs14Xbjep71f6HK",
+        "auth": true
     }
 ]
