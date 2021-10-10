@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 10, 2021 at 03:30:28 EDT_
+_Last Update: October 10, 2021 at 04:00:29 EDT_
 ## Video added
 ### Summary
-2207385 Dr. Stone: 1  
-### 2264995
-**Dr. Stone S02E06 - Prison Break**  
-TV-14-LV 🔓 22:34  
-⌛ November 9, 2021 at 02:59:00 EST  
-https://www.adultswim.com/videos/dr-stone/prison-break  
-seriesid=`2207385` titleid=`2264995` id=`AXoMLNjqDmGy9WFjRreL` mediaid=`d41d52a5ab51d2e0ec0e62cd341a357c03c5df9e`  
-_Tsukasa enlists the help of Yo, a highly skilled martial artist, to intercept Senku if he tries to help break Chrome out of prison. Meanwhile, Chrome plans his own escape._  
-<a href="https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181249186-DrStone_030_PrisonBreak.png"><img src="https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181249186-DrStone_030_PrisonBreak.png" height="144px" /></a>
+2218281 Fena: Pirate Princess: 1  
+### 2218291
+**Fena: Pirate Princess S01E10 - The Curtain Rises on the Climax**  
+TV-PG-LV 🔒 23:39  
+⌛ October 31, 2021 at 03:29:00 EDT  
+https://www.adultswim.com/videos/fena-pirate-princess/the-curtain-rises-on-the-climax  
+seriesid=`2218281` titleid=`2218291` id=`AXxduWP04Xbjep71f6HL` mediaid=`c5b4948fcdd51c29e271c1b70e3482691d2d6a16`  
+_Now that they have unraveled the mystery of the coordinates, Fena and Yukimaru have managed to locate the location of Eden. In order to face the mystery her father left behind and the mystery of herself, Fena reaches Eden._  
+<a href="https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_21108115293-FenaPiratePrincess_110_TheCurtainRisesOnTheClimax.png"><img src="https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_21108115293-FenaPiratePrincess_110_TheCurtainRisesOnTheClimax.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
