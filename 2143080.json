@@ -5461,7 +5461,7 @@
         "launch_date": 1632648600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192157565-BlackClover_164_BattlefieldHeartKingdom.png",
         "id": "AXunA-O34Xbjep71f6Gs",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1633253340,
@@ -5552,7 +5552,7 @@
         "launch_date": 1633858200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161254211-BlackClover_166_CaptainYamiSukehiro.png",
         "id": "AXvrcVv54Xbjep71f6G6",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1634462940,
@@ -5644,6 +5644,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_211011026234-BlackClover_168_StirringOfTheStrongest.png",
         "id": "AXwYz7ihUQa40cfnRSI3",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1635672540,
+        "tms_id": "EP032284200172",
+        "description": "Time's running out: our heroes must find new might in just two days. Nacht subjects Asta to an esoteric rite that pits him against his very own devil.",
+        "title_suggest": {
+            "input": [
+                "The Devil-Binding Ritual",
+                "Devil-Binding Ritual",
+                "Ritual"
+            ]
+        },
+        "title": "The Devil-Binding Ritual",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1300.1321,
+        "episode_number": "15",
+        "original_air_date": 1633845600,
+        "auth_launch_date": 1633858200,
+        "clip_order": null,
+        "airing_id": "RADS1010082100036722",
+        "media_id": "82f551d09c868f983c681d5e8a1ed104d4e34e5d",
+        "modified": 1633781418,
+        "slug": "the-devil-binding-ritual",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211008/thumbnails/1_211081110421-BlackClover_169_TheDevilBindingRitual.png",
+        "created": 1633660001,
+        "title_id": "2277544",
+        "season_number": "4",
+        "tv_rating": "tv-14-lv",
+        "published": 1633781418,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_211081110421-BlackClover_169_TheDevilBindingRitual.png",
+        "id": "AXxduV4sUQa40cfnRSQp",
         "auth": true
     }
 ]
