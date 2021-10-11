@@ -6821,6 +6821,55 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Rick\u2019s plans to build the ultimate AI toaster take a strange turn when he and Morty are forced to travel to Akihabara for spare parts. A Halloween inspired masterpiece from our friends at Sola Digital, directed by Masaru Matsumoto.",
+        "title_suggest": {
+            "input": [
+                "The Great Yokai Battle of Akihabara",
+                "Great Yokai Battle of Akihabara",
+                "Yokai Battle of Akihabara",
+                "Battle of Akihabara",
+                "of Akihabara",
+                "Akihabara"
+            ]
+        },
+        "title": "The Great Yokai Battle of Akihabara",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 0,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "mec81c3450ec5c55455919a9b13d1cae9ab8d1a346",
+        "modified": 1633876173,
+        "slug": "the-great-yokai-battle-of-akihabara",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211009/thumbnails/1_211091014567-RAM_Extra_GreatYokaiBattle_10N7R5.png",
+        "created": 1633788915,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1633876173,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1633924800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211009/thumbnails/2_211091014567-RAM_Extra_GreatYokaiBattle_10N7R5.png",
+        "id": "AXxlaG2vUQa40cfnRSUT",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
