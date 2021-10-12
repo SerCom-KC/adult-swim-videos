@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 12, 2021 at 05:00:29 EDT_
+_Last Update: October 12, 2021 at 08:30:27 EDT_
 ## Video added
 ### Summary
-2194549 Gemusetto: 1  
-### 2241836
-**Gemusetto S02E11 - Episode Eleven: G13**  
-TV-MA-LV 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-eleven-g-13  
-seriesid=`2194549` titleid=`2241836` id=`AXZmne7CQJ_4Uej5kTe8` mediaid=`945db87ef40ac275bbfeddae8bfb2a40f85faca3`  
-_Back in the material world of Earth, the Chilean man who hunted Makasu for most of his career can't seem to move on. Can retirement really help you let go of your obsessions?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177762
+**Naruto: Shippuden S06E50 - The Risks of the Reanimation Jutsu**  
+TV-14-V 🔒 21:50  
+⌛ October 17, 2021 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-risks-of-the-reanimation-jutsu  
+seriesid=`812206` titleid=`2177762` id=`AXfQnPD1QJ_4Uej5kTtB` mediaid=`26c9dafac96f23212f2848eb126673ec8db60ca2`  
+_Sasuke goes after Itachi and learns that his brother intends on stopping Kabuto's Reanimation Jutsu alone._  
+<a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231537571-NarutoShippuden_333_RisksOfReanimation.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231537571-NarutoShippuden_333_RisksOfReanimation.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
