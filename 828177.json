@@ -352,7 +352,7 @@
         "launch_date": 1631160000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15574290498536.jpg",
         "id": "AWp5e-VZAScUIg8XxfZ-",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1557757800,
@@ -449,6 +449,55 @@
         "launch_date": 1631764800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
         "id": "AWp5faU7AScUIg8XxfZ_",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1618459140,
+        "tms_id": "",
+        "description": "When Hell runs out of ball clamps, Satan sends his best men to get more. Unfortunately, Gary is one of his best men.",
+        "title_suggest": {
+            "input": [
+                "Milk and Honey",
+                "and Honey",
+                "Honey"
+            ]
+        },
+        "title": "Milk and Honey",
+        "expiration_date": 1637211540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 677.58,
+        "episode_number": "9",
+        "original_air_date": 1559966400,
+        "auth_launch_date": 1615438800,
+        "clip_order": null,
+        "media_id": "806982bb251273e19cd4130f8adb2611eae109e0",
+        "modified": 1633758207,
+        "airing_id": "RADS1010082100037172",
+        "slug": "milk-and-honey",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15598401267412.jpg",
+        "created": 1556816844,
+        "season_number": "4",
+        "title_id": "2191450",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1633758207,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1634184000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15598401267412.jpg",
+        "id": "AWp5g9Z2AScUIg8XxfaD",
         "auth": false
     },
     {
@@ -806,56 +855,6 @@
         "launch_date": 1484167290,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-satans-teeth/ASID_30FMF_SatansTeeth_15.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1493648940,
-        "auth_expiration_date": 1634183940,
-        "tms_id": "EP013726210032",
-        "description": "Dustin Diamond is dead, and Satan decides that his torture will be starring in a cheesy sitcom for all eternity.",
-        "title_suggest": {
-            "input": [
-                "Snow Job",
-                "Job"
-            ]
-        },
-        "expiration_date": 1631159940,
-        "title": "Snow Job",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 675.9174312,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "11",
-        "original_air_date": 1493609400,
-        "clip_order": null,
-        "auth_launch_date": 1631160000,
-        "modified": 1630742222,
-        "media_id": "9ea7eabf4b08a57b6c944d8d6378c6125e2f6361",
-        "airing_id": "RADS1007302100018307",
-        "id": "bPuEZBkpQZKw10v1ADZtcw",
-        "slug": "snow-job",
-        "views": 8502,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1493219179,
-        "season_number": "3",
-        "title_id": "2108953",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1630742222,
-        "first_published": 1493453441,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1628136000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/snow-job/yourprettyface_308_dup-20170427.jpg",
-        "cma_id": "1458430"
     },
     {
         "auth": true,
