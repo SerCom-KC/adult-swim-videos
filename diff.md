@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 17, 2021 at 06:30:26 EDT_
+_Last Update: October 17, 2021 at 07:00:28 EDT_
 ## Video added
 ### Summary
 812206 Naruto: Shippuden: 1  
-### 2177777
-**Naruto: Shippuden S06E65 - The New Akatsuki**  
-TV-PG 🔒 21:52  
-⌛ January 30, 2022 at 05:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/the-new-akatsuki  
-seriesid=`812206` titleid=`2177777` id=`AXpihRtUDmGy9WFjRrpk` mediaid=`d3a72e6c28a998051f4e4736c912b52b2751e664`  
-_Danzo deliberately misleads Hanzo, telling him that the Akatsuki are attempting to sabotage the peace talks between the Hidden Rain and Stone._  
-<a href="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_2171145388-NarutoShippuden_348_ANewAkatsuki.png"><img src="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_2171145388-NarutoShippuden_348_ANewAkatsuki.png" height="144px" /></a>
+### 2177762
+**Naruto: Shippuden S06E50 - The Risks of the Reanimation Jutsu**  
+TV-14-V 🔒 21:50  
+⌛ February 15, 2022 at 06:29:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-risks-of-the-reanimation-jutsu  
+seriesid=`812206` titleid=`2177762` id=`AXfQnPD1QJ_4Uej5kTtB` mediaid=`26c9dafac96f23212f2848eb126673ec8db60ca2`  
+_Sasuke goes after Itachi and learns that his brother intends on stopping Kabuto's Reanimation Jutsu alone._  
+<a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231537571-NarutoShippuden_333_RisksOfReanimation.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231537571-NarutoShippuden_333_RisksOfReanimation.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
