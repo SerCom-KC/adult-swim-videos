@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 17, 2021 at 03:30:31 EDT_
+_Last Update: October 17, 2021 at 06:30:26 EDT_
 ## Video added
 ### Summary
-2218281 Fena: Pirate Princess: 1  
-### 2218292
-**Fena: Pirate Princess S01E11 - At Mission's End**  
-TV-14-LV 🔒 23:39  
-⌛ November 7, 2021 at 03:29:00 EST  
-https://www.adultswim.com/videos/fena-pirate-princess/at-missions-end  
-seriesid=`2218281` titleid=`2218292` id=`AXx7oVoOUQa40cfnRSWA` mediaid=`0a8f0c5ff2ea6267e7a7c0123afbcd658fa3cf7b`  
-_The crew reach the place filled with hidden treasure, but the British Navy appears and attacks the samurai. Yukimaru and Fena, who had ventured into the far depths, come face to face with Abel who had chased them down._  
-<a href="https://media.cdn.adultswim.com/uploads/20211015/thumbnails/2_2110151042196-FenaPiratePrincess_111_AtMissionsEnd.png"><img src="https://media.cdn.adultswim.com/uploads/20211015/thumbnails/2_2110151042196-FenaPiratePrincess_111_AtMissionsEnd.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177777
+**Naruto: Shippuden S06E65 - The New Akatsuki**  
+TV-PG 🔒 21:52  
+⌛ January 30, 2022 at 05:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-new-akatsuki  
+seriesid=`812206` titleid=`2177777` id=`AXpihRtUDmGy9WFjRrpk` mediaid=`d3a72e6c28a998051f4e4736c912b52b2751e664`  
+_Danzo deliberately misleads Hanzo, telling him that the Akatsuki are attempting to sabotage the peace talks between the Hidden Rain and Stone._  
+<a href="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_2171145388-NarutoShippuden_348_ANewAkatsuki.png"><img src="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_2171145388-NarutoShippuden_348_ANewAkatsuki.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
