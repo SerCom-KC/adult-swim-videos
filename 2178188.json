@@ -527,7 +527,7 @@
         "launch_date": 1631505600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155499246258618.jpg",
         "id": "AWnz31nLAScUIg8Xxeni",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -849,6 +849,56 @@
     },
     {
         "ott_launch_date": 1556548200,
+        "auth_expiration_date": 1628481540,
+        "tms_id": "EP031867090008",
+        "description": "Keep it moving.",
+        "title_suggest": {
+            "input": [
+                "Keep It Moving",
+                "It Moving",
+                "Moving"
+            ]
+        },
+        "title": "Keep It Moving",
+        "type": "episode",
+        "expiration_date": 1637557140,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 669.46,
+        "episode_number": "8",
+        "original_air_date": 1556511300,
+        "auth_launch_date": 1625457600,
+        "clip_order": null,
+        "airing_id": "RADS1010142100037986",
+        "media_id": "7ec841eb060e7e55f016638d018776928522cdea",
+        "modified": 1634253637,
+        "slug": "keep-it-moving",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15562178560269.jpg",
+        "created": 1556031006,
+        "title_id": "2178196",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1634253637,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1634529600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15562178560269.jpg",
+        "id": "AWpKrOe9AScUIg8XxfFe",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1556548200,
         "auth_expiration_date": 1627876740,
         "tms_id": "EP031867090007",
         "description": "Prolly for the best.",
@@ -897,51 +947,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15562178183946.jpg",
         "id": "AWpQdjyMHl5gR6828zVH",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1634529540,
-        "tms_id": "",
-        "description": "Keep Going.",
-        "title_suggest": {
-            "input": [
-                "Keep Going",
-                "Going"
-            ]
-        },
-        "title": "Keep Going",
-        "expiration_date": 1631505540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 675.6083,
-        "episode_number": "8",
-        "original_air_date": "1609737300",
-        "auth_launch_date": 1631505600,
-        "clip_order": null,
-        "airing_id": "RADS1008062100019505",
-        "media_id": "ed2ec2bc50a44c670755e8259103c389c7a923de",
-        "modified": 1631314359,
-        "slug": "keep-going",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241042289-LazorWulf_208_dup-20201013_KeepGoing.jpg",
-        "created": 1606232552,
-        "season_number": "2",
-        "title_id": "2224739",
-        "tv_rating": "tv-14-l",
-        "published": 1631314359,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1628481600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241042289-LazorWulf_208_dup-20201013_KeepGoing.jpg",
-        "id": "AXX667M6LyLQBOXK_Prk",
-        "auth": true
     },
     {
         "auth_expiration_date": 1635134340,
