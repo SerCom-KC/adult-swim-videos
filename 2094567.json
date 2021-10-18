@@ -102,6 +102,56 @@
         "cma_id": "1300375"
     },
     {
+        "ott_launch_date": 1540218540,
+        "auth": false,
+        "auth_expiration_date": 1624247940,
+        "tms_id": "",
+        "description": "Patient 21 is afraid to fall asleep. After a parasomnia episode injures the new intern Bea, Dr Roberts drops in to the patient's dream to guide him through the wake of his fears.",
+        "title_suggest": {
+            "input": [
+                "Deep Impact",
+                "Impact"
+            ]
+        },
+        "expiration_date": 1637557140,
+        "type": "episode",
+        "title": "Deep Impact",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 677.17,
+        "episode_number": "1",
+        "original_air_date": 1540180800,
+        "auth_launch_date": 1621224000,
+        "clip_order": null,
+        "modified": 1634253638,
+        "media_id": "4dbc0b1b1041bd42ba45c6f2feb4e5c76db7bcae",
+        "airing_id": "RADS1010142100037979",
+        "id": "AV9fX_EUZ-onAnjDLsyi",
+        "slug": "deep-impact",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341029113-dreamcorpllc_201_air_cid-3MRXM.jpg",
+        "created": 1509133644,
+        "season_number": "2",
+        "title_id": "2133685",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1634253638,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1634529600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341029113-dreamcorpllc_201_air_cid-3MRXM.jpg",
+        "cma_id": ""
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -842,52 +892,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1634529540,
-        "tms_id": "",
-        "description": "Patient 27 is treated for his crippling fear of heights. T.E.R.R.Y. becomes enlightened.",
-        "title_suggest": {
-            "input": [
-                "Fear of Heights",
-                "of Heights",
-                "Heights"
-            ]
-        },
-        "title": "Fear of Heights",
-        "expiration_date": 1631505540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 1067.8001,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1631505600,
-        "clip_order": null,
-        "airing_id": "RADS1008062100019527",
-        "media_id": "cdae8877c0c4b8f6ed08979a1b7b92d39ea04008",
-        "modified": 1631314361,
-        "slug": "fear-of-heights",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/1_20917152073-DreamCorpLLC_304.jpg",
-        "created": 1600370413,
-        "season_number": "3",
-        "title_id": "2215442",
-        "tv_rating": "tv-14-dlv",
-        "published": 1631314361,
-        "tags": [],
-        "collection_title": "DREAM CORP LLC",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1628481600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_20917152073-DreamCorpLLC_304.jpg",
-        "id": "AXSdgpCGSeFB2d0c388R",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1635134340,
         "tms_id": "",
         "description": "Medical phenomenon, Virgil Bottoms, bullies his way into an appointment at Dream Corp LLC.",
@@ -980,7 +984,7 @@
         "auth": true
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1477924320,
         "auth_expiration_date": 1637557140,
         "tms_id": "EP025239370002",
