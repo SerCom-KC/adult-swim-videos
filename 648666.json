@@ -150,7 +150,7 @@
         "cma_id": "1372588"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168440,
         "auth_expiration_date": 1637729940,
         "tms_id": "EP008519090001",
@@ -259,6 +259,58 @@
         "launch_date": 1630468800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113658-metalocalypse_412_bim.jpg",
         "cma_id": "1360773"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447168620,
+        "auth_expiration_date": 1605675540,
+        "tms_id": "EP008519090007",
+        "rating": 8.62924,
+        "description": "Pickles reunites with his old hair band, \"Snakes 'N' Barrels\", which has the rest of Dethklok worried that their drummer may leave them.  When the ten-years-sober \"Snakes 'N' Barrels\" are given experimental psychotropic drugs before their performance, the result is something beyond brutal.",
+        "title_suggest": {
+            "input": [
+                "Snakes 'n' Barrels",
+                "'n' Barrels",
+                "Barrels"
+            ]
+        },
+        "type": "episode",
+        "title": "Snakes 'n' Barrels",
+        "expiration_date": 1637729940,
+        "platforms": [
+            "web",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 675.667334,
+        "episode_number": "9",
+        "original_air_date": 1159155900,
+        "clip_order": null,
+        "auth_launch_date": 1602648000,
+        "modified": 1634276163,
+        "media_id": "788bdefb3dd8c86537d5a47c3312f0f97a139f25",
+        "airing_id": "RADS1010142100038103",
+        "id": "Wr8n62p0SmeAvvBeaVum9g",
+        "slug": "snakes-n-barrels",
+        "views": 553472,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111124194-metalocalypse_109.jpg",
+        "created": 1402945469,
+        "title_id": "651230",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1634276163,
+        "tags": [],
+        "rating_count": 2182,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1634702400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111124194-metalocalypse_109.jpg",
+        "cma_id": "1401865"
     },
     {
         "auth": true,
@@ -466,58 +518,6 @@
         "launch_date": 1632888000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111122488-metalocalypse_104.jpg",
         "cma_id": "1380719"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447170120,
-        "auth_expiration_date": 1634702340,
-        "tms_id": "EP008519090061",
-        "rating": 6.7980614,
-        "description": "Dethklok returns to the water to record in their new Dethsub but, plagued with the lack of women, carpel tunnel sets in from excessive masturbation. The band regresses to an animal mindset. Pickles and Nathan spend their energy crossing the workplace relationship line and competing for the only woman on the sub: their producer.",
-        "title_suggest": {
-            "input": [
-                "Going DownKlok",
-                "DownKlok"
-            ]
-        },
-        "type": "episode",
-        "title": "Going DownKlok",
-        "expiration_date": 1631678340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 672.8757298,
-        "episode_number": "9",
-        "original_air_date": 1340597700,
-        "clip_order": null,
-        "auth_launch_date": 1631678400,
-        "modified": 1631341966,
-        "media_id": "2fd908869c37064781f58843e1df4e9583b6ebb5",
-        "airing_id": "RADS1008062100019598",
-        "id": "eKeYDgmqTM2neDWFg01-aQ",
-        "slug": "going-down-klok",
-        "views": 148876,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311113554-metalocalypse_409_dup-20120615.jpg",
-        "created": 1402945469,
-        "title_id": "892269",
-        "season_number": "4",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1631341966,
-        "tags": [],
-        "rating_count": 619,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1628654400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113554-metalocalypse_409_dup-20120615.jpg",
-        "cma_id": "1348354"
     },
     {
         "auth": true,
