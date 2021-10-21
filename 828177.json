@@ -449,7 +449,7 @@
         "launch_date": 1631764800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
         "id": "AWp5faU7AScUIg8XxfZ_",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -646,6 +646,54 @@
         "launch_date": 1633579200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg",
         "id": "AWp5gcZBAScUIg8XxfaB",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1619063940,
+        "tms_id": "",
+        "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
+        "title_suggest": {
+            "input": [
+                "Five-Card Duds",
+                "Duds"
+            ]
+        },
+        "title": "Five-Card Duds",
+        "expiration_date": 1637816340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 674.58,
+        "episode_number": "10",
+        "original_air_date": 1559967300,
+        "auth_launch_date": 1616040000,
+        "clip_order": null,
+        "media_id": "45520e2ee6fbffd2d3daf420ebc7421a6b25f3f4",
+        "modified": 1634361316,
+        "airing_id": "RADS1010152100038162",
+        "slug": "five-card-duds",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155984019589717.jpg",
+        "created": 1556816877,
+        "season_number": "4",
+        "title_id": "2191445",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1634361316,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1634788800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
+        "id": "AWp5hFfgHl5gR6828zZU",
         "auth": false
     },
     {
@@ -855,56 +903,6 @@
         "launch_date": 1484167290,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-satans-teeth/ASID_30FMF_SatansTeeth_15.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1494268140,
-        "auth_expiration_date": 1634788740,
-        "tms_id": "EP013726210033",
-        "description": "A clog in the soul intake line sends Gary and Claude out to discover what's keeping new souls from entering Hell.",
-        "title_suggest": {
-            "input": [
-                "The Dammed",
-                "Dammed"
-            ]
-        },
-        "expiration_date": 1631764740,
-        "title": "The Dammed",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 675.6672227,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "12",
-        "original_air_date": 1494214200,
-        "clip_order": null,
-        "auth_launch_date": 1631764800,
-        "modified": 1631366056,
-        "media_id": "9f0572caa9b2217a4f1d798e36278aafbd22a27b",
-        "airing_id": "RADS1009112100028931",
-        "id": "j-1VFUfIQReWoI1DTRFL4A",
-        "slug": "the-dammed",
-        "views": 9562,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1493998626,
-        "season_number": "3",
-        "title_id": "2108956",
-        "tv_rating": "tv-ma-lsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1631366056,
-        "first_published": 1494058295,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1628740800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-dammed/yourprettyface_311_dup-20170504.jpg",
-        "cma_id": "1462958"
     },
     {
         "auth": false,
