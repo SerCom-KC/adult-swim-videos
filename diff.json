@@ -1,21 +1,18 @@
 {
-    "updated": 1634924671,
-    "added": [],
-    "removed": [
+    "updated": 1634927429,
+    "added": [
         {
             "auth_expiration_date": null,
-            "tms_id": "EP039730910001",
-            "description": "Baba's determined to win an embalming fluid competition. That means beating Trophy's former BFF turned nemesis: Sophie Turner.",
+            "tms_id": "EP034814950001",
+            "description": "Desmond\u2019s Big Day Out: A small company dedicated to bringing happiness to the world receives a simple request to help a woman\u2019s unhappy son smile again, but the job turns out to be more complicated than it seems.",
             "title_suggest": {
                 "input": [
-                    "Nobody Beats the Baba",
-                    "Beats the Baba",
-                    "the Baba",
-                    "Baba"
+                    "Smiling Friends",
+                    "Friends"
                 ]
             },
-            "title": "Nobody Beats the Baba",
-            "expiration_date": 1635134340,
+            "title": "Smiling Friends",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -23,34 +20,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXun3WDrUQa40cfnRR4k",
-            "duration": 1346.0114,
-            "episode_number": "4",
-            "original_air_date": "1630900800",
+            "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+            "duration": 841.87,
+            "episode_number": "",
+            "original_air_date": "1585725300",
             "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "RADS1009132100029248",
-            "media_id": "45aeb0f8d419dea8c3574cb504b1cc3b81d8c1f7",
-            "modified": 1634922030,
-            "slug": "nobody-beats-the-baba",
+            "airing_id": "RADS1010152100038197",
+            "media_id": "",
+            "modified": 1634927177,
+            "slug": "smiling-friends",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210903/thumbnails/1_21931344444-TeenageEuthanasia_103_NobodyBeatsTheBaba.png",
-            "created": 1630691106,
-            "season_number": "1",
-            "title_id": "2292231",
-            "tv_rating": "tv-14-dlsv",
-            "published": 1634922030,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200403/thumbnails/1_2043148580-SMILINGFRIENDS_online_thumb.jpg",
+            "created": 1585933870,
+            "season_number": "99",
+            "title_id": "2224722",
+            "tv_rating": "tv-ma",
+            "published": 1634927177,
             "tags": [],
-            "collection_title": "Teenage Euthanasia",
+            "collection_title": "Smiling Friends",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1631592000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210903/thumbnails/2_21931344444-TeenageEuthanasia_103_NobodyBeatsTheBaba.png",
-            "id": "AXusw6B54Xbjep71f6Gy",
+            "modified_by": "Jonathan Jackson",
+            "launch_date": 1634926976,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_2043148580-SMILINGFRIENDS_online_thumb.jpg",
+            "id": "AXFBBmXBRs3h4hI_X2zb",
             "auth": false,
-            "collection_slug": "teenage-euthanasia",
-            "collection_title_id": "2292228",
+            "collection_slug": "smiling-friends",
+            "collection_title_id": "2224721",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
