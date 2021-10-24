@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 24, 2021 at 06:00:31 EDT_
+_Last Update: October 24, 2021 at 06:30:30 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
 812206 Naruto: Shippuden: 1  
-### 2177778
-**Naruto: Shippuden S07E01 - Kakashi: Shadow of the ANBU Black Ops - A Mask That Hides the Heart**  
-TV-PG 🔒 21:53  
-⌛ October 24, 2021 at 05:59:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-a-mask-that-hides-the-heart  
-seriesid=`812206` titleid=`2177778` id=`AXp868JuBH5Z6gH5aWXs` mediaid=`d8cba5052c4fc02d49a3e33a6aeda9ce468dde31`  
-_After the end of the Third Great Ninja War, the Leaf Village is divided over who should become the next Hokage._  
-<a href="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_2179111493-NarutoShippuden_349_KakashiShadowOfTheANBUBlackOpsAMaskThatHidesTheHeart.png"><img src="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_2179111493-NarutoShippuden_349_KakashiShadowOfTheANBUBlackOpsAMaskThatHidesTheHeart.png" height="144px" /></a>
+### 2177763
+**Naruto: Shippuden S06E51 - Sibling Tag Team**  
+TV-PG 🔒 21:51  
+⌛ October 24, 2021 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/sibling-tag-team  
+seriesid=`812206` titleid=`2177763` id=`AXfQnnMXQJ_4Uej5kTtC` mediaid=`594a0ab73279c0dad58f676791b305cd5bdac9a0`  
+_Sasuke and Itachi team up to stop Kabuto's Reanimation Jutsu._  
+<a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231539266-NarutoShippuden_334_SiblingTagTeam.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231539266-NarutoShippuden_334_SiblingTagTeam.jpg" height="144px" /></a>
