@@ -1,56 +1,59 @@
 {
-    "updated": 1635191899,
-    "added": [
+    "updated": 1635192035,
+    "added": [],
+    "removed": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1630036740,
-            "tms_id": "",
-            "description": "KY finds her true calling as a stripper.",
+            "ott_launch_date": 1544455800,
+            "auth_expiration_date": 1633665540,
+            "tms_id": "EP029602990003",
+            "description": "The only thing hotter than the future is the present, and the only thing wetter than a present is the itchy glass of molten absolution that just quenched the thrust of Tessa's face.",
             "title_suggest": {
                 "input": [
-                    "Jellystripper"
+                    "The Magmafying Past",
+                    "Magmafying Past",
+                    "Past"
                 ]
             },
-            "title": "Jellystripper",
-            "expiration_date": 2085368400,
+            "title": "The Magmafying Past",
             "type": "episode",
+            "expiration_date": 2085368400,
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "ott",
+                "roku"
             ],
-            "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-            "duration": 676.67,
+            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
+            "duration": 677.29,
             "episode_number": "2",
-            "original_air_date": 1558325700,
-            "auth_launch_date": 1627012800,
+            "original_air_date": 1544418900,
+            "auth_launch_date": 1630641600,
             "clip_order": null,
-            "media_id": "790f00521aa8bdebef490afff97489997c457f32",
-            "modified": 1635191566,
-            "airing_id": "RADS1006071900097719",
-            "slug": "jellystripper",
+            "airing_id": "RADS1012241800055972",
+            "media_id": "eb252a0370efcdef9106a5c017c9d60c2148146d",
+            "modified": 1635191567,
+            "slug": "the-magmafying-past",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15580246369072.jpg",
-            "created": 1553006100,
-            "season_number": "2",
-            "title_id": "2191417",
-            "tv_rating": "tv-14-dls",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15441360054166.jpg",
+            "created": 1543859362,
+            "title_id": "2172248",
+            "season_number": "1",
+            "tv_rating": "tv-ma-v",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1635191566,
+            "published": 1635191567,
             "tags": [],
-            "collection_title": "The Jellies",
+            "collection_title": "The Shivering Truth",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1560151800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580246369072.jpg",
-            "id": "AWmWYH87Hl5gR6828y3a",
+            "launch_date": 1546245000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441360054166.jpg",
+            "id": "AWd1MFj9qD68dq0Op5rb",
             "auth": false,
-            "collection_slug": "the-jellies",
-            "collection_title_id": "2132025",
+            "collection_slug": "the-shivering-truth",
+            "collection_title_id": "2165429",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
