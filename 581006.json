@@ -49,6 +49,52 @@
     },
     {
         "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1635911940,
+        "tms_id": "EP007164450249",
+        "description": "Roger turns his attention to Steve's friend Snot who teaches him about Hanukkah, prompting him to convert to Judaism. Roger then decides to make Hanukkah more popular than Christmas by stealing Santa's powers, and becoming Schmanta Claus.",
+        "title_suggest": {
+            "input": [
+                "Santa, Schmanta",
+                "Schmanta"
+            ]
+        },
+        "expiration_date": 1629691140,
+        "type": "episode",
+        "title": "Santa, Schmanta",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.8616,
+        "episode_number": "8",
+        "original_air_date": 1515378600,
+        "auth_launch_date": 1635307200,
+        "clip_order": null,
+        "media_id": "6aa8247b1afbf690eeefce7bc6e77a755e93cd3a",
+        "modified": 1634943029,
+        "airing_id": "RADS1010222100038658",
+        "id": "AWBGBvYswdpKFAKSb0FM",
+        "slug": "santa-schmanta",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200072089515.jpg",
+        "created": 1513003349,
+        "season_number": "13",
+        "title_id": "2069561",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1634943029,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1629086400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg"
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1635739140,
         "tms_id": "EP007164450254",
         "description": "Hayley witnesses harsh working conditions at the CIA and encourages action.",
@@ -190,6 +236,53 @@
         "launch_date": 1629086400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg",
         "id": "AWHnfmza0KIGIdXCKzuM",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1635911940,
+        "tms_id": "EP007164450257",
+        "description": "Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper.",
+        "title_suggest": {
+            "input": [
+                "The Never-Ending Stories",
+                "Never-Ending Stories",
+                "Stories"
+            ]
+        },
+        "expiration_date": 1629691140,
+        "type": "episode",
+        "title": "The Never-Ending Stories",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.8282,
+        "episode_number": "9",
+        "original_air_date": 1524447000,
+        "auth_launch_date": 1635307200,
+        "clip_order": null,
+        "media_id": "e7a90a2d58f0f04b42035d0b38f5b415183e1d5a",
+        "modified": 1634943029,
+        "airing_id": "RADS1010222100038662",
+        "slug": "the-never-ending-stories",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200100941721.jpg",
+        "created": 1520010097,
+        "season_number": "13",
+        "title_id": "2069562",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1634943029,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1629086400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200100941721.jpg",
+        "id": "AWHnqXR3NWyh42wYnlIV",
         "auth": true
     },
     {
@@ -423,54 +516,6 @@
         "auth": false
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1635307140,
-        "tms_id": "EP007164450238",
-        "description": "Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts.",
-        "title_suggest": {
-            "input": [
-                "Bazooka Steve",
-                "Steve"
-            ]
-        },
-        "title": "Bazooka Steve",
-        "type": "episode",
-        "expiration_date": 1627876740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.1,
-        "episode_number": "12",
-        "original_air_date": 1496885400,
-        "auth_launch_date": 1634702400,
-        "clip_order": null,
-        "modified": 1634328331,
-        "media_id": "123955f7177e4d93e49b5e6257cfca8bbd43958e",
-        "airing_id": "RADS1010152100038133",
-        "id": "AitmXh48RkeeOF5Mpxu47w",
-        "slug": "bazooka-steve",
-        "views": 1397,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870777267015.jpg",
-        "created": 1496549449,
-        "title_id": "2069543",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1634328331,
-        "first_published": 1496549449,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1627272000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg",
-        "cma_id": "1411253"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1635566340,
@@ -569,55 +614,6 @@
         "launch_date": 1628481600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1635307140,
-        "tms_id": "EP007164450240",
-        "description": "Roger runs off in disguise as a Julia Roberts character to a small town after Stan hurts his feelings. Steve plans a meeting when he finds out that Jeff and Barry have never met.",
-        "title_suggest": {
-            "input": [
-                "Julia Rogerts",
-                "Rogerts"
-            ]
-        },
-        "title": "Julia Rogerts",
-        "type": "episode",
-        "expiration_date": 1627876740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.97,
-        "episode_number": "14",
-        "original_air_date": 1498095000,
-        "clip_order": null,
-        "auth_launch_date": 1634702400,
-        "modified": 1634327313,
-        "media_id": "dc755a68ae1822c19929072d1d89cbd4a0b4fda1",
-        "airing_id": "RADS1010152100038118",
-        "id": "Mtpd7rRDTN2tl4NtdbAaSw",
-        "slug": "julia-rogerts",
-        "views": 1533,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175188327576.jpg",
-        "created": 1497759043,
-        "title_id": "2069545",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1634327313,
-        "first_published": 1497759043,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1627272000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg",
-        "cma_id": "1419613"
     },
     {
         "auth": true,
