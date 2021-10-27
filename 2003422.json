@@ -255,6 +255,56 @@
         "cma_id": "1474320"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1635911940,
+        "tms_id": "EP012792980087",
+        "description": "It's Linda's birthday and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing! Mayhem ensues as the Belchers must work together to find Linda.",
+        "title_suggest": {
+            "input": [
+                "Eat, Spray, Linda",
+                "Spray, Linda",
+                "Linda"
+            ]
+        },
+        "title": "Eat, Spray, Linda",
+        "type": "episode",
+        "expiration_date": 1613969940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.9342676,
+        "episode_number": "18",
+        "original_air_date": 1450749600,
+        "clip_order": null,
+        "auth_launch_date": 1635307200,
+        "modified": 1634943029,
+        "media_id": "b446e1fe4fc713e01f05bb97126319c66fa25484",
+        "airing_id": "RADS1010222100038661",
+        "id": "GF4w8jfUQySKUKlq1fD8TQ",
+        "slug": "eat-spray-linda",
+        "views": 11,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1450761622,
+        "title_id": "2065467",
+        "tv_rating": "tv-pg-dl",
+        "season_number": "5",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1634943029,
+        "first_published": 1450761622,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1613365200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg",
+        "cma_id": "1478060"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1627185540,
@@ -300,55 +350,6 @@
         "launch_date": 1635134400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg",
         "cma_id": "2003534"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1635307140,
-        "tms_id": "EP012792980077",
-        "description": "When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the job so she enlists the help of Gene and Louise. Back at the restaurant, Linda begins to decorate the walls with customer artwork on napkins.",
-        "title_suggest": {
-            "input": [
-                "Midday Run",
-                "Run"
-            ]
-        },
-        "title": "Midday Run",
-        "type": "episode",
-        "expiration_date": 1612155540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1288.3670337,
-        "episode_number": "8",
-        "original_air_date": 1444698000,
-        "clip_order": null,
-        "auth_launch_date": 1634702400,
-        "modified": 1634327003,
-        "media_id": "0a052de313d208d17b6bb470df4195c3df4cd3a8",
-        "airing_id": "RADS1010152100038130",
-        "id": "cciQCvIBR2eWcB2fCfDcOA",
-        "slug": "midday-run",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1444710020,
-        "title_id": "2065456",
-        "tv_rating": "tv-pg",
-        "season_number": "5",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1634327003,
-        "first_published": 1444710020,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1611550800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg",
-        "cma_id": "1480197"
     },
     {
         "auth": true,
