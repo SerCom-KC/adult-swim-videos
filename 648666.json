@@ -97,7 +97,7 @@
         "cma_id": "1389852"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168500,
         "auth_expiration_date": 1638334740,
         "tms_id": "EP008519090002",
@@ -206,6 +206,57 @@
         "cma_id": "1369711"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447168680,
+        "auth_expiration_date": 1606280340,
+        "tms_id": "EP008519090008",
+        "rating": 8.91401,
+        "description": "Dethklok has opened up their home for their annual Dethfan Day.  Dethklok continues with their \"normal\" everyday activities (like liver transplant surgery and scrubbing toilets) while fans are ushered around the house, guided by an animated skull and a maze of velvet rope.  Dethklok finds themselves in a sticky situation when two Internet geeks threaten to bring down Dethklok with their advanced Photoshopping skills.",
+        "title_suggest": {
+            "input": [
+                "Mordland"
+            ]
+        },
+        "type": "episode",
+        "title": "Mordland",
+        "expiration_date": 1638334740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 692.2002002,
+        "episode_number": "10",
+        "original_air_date": 1159760700,
+        "clip_order": null,
+        "auth_launch_date": 1603252800,
+        "modified": 1634916804,
+        "media_id": "210643b43add810530f3642b97087dc8dcecab7b",
+        "airing_id": "RADS1010222100038452",
+        "id": "RNIThBJWTEiTddHTwpFKfw",
+        "slug": "mordland",
+        "views": 544408,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111124380-metalocalypse_110.jpg",
+        "created": 1402945469,
+        "title_id": "651231",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1634916804,
+        "tags": [],
+        "rating_count": 2070,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1635307200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111124380-metalocalypse_110.jpg",
+        "cma_id": "1405914"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1452106800,
         "auth_expiration_date": 1636520340,
@@ -311,57 +362,6 @@
         "launch_date": 1634702400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111124194-metalocalypse_109.jpg",
         "cma_id": "1401865"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447170120,
-        "auth_expiration_date": 1635307140,
-        "tms_id": "EP008519090062",
-        "rating": 7.1843576,
-        "description": "As Dethklok hosts the most important dinner of their career, the divvying of album credits, over tagging on social networking sites, and fights over a girl come to head. Can CFO keep their issues in check? Will the record executives forgive them for the past year of mistakes? Or will it be a total, brutal disaster?",
-        "title_suggest": {
-            "input": [
-                "DethDinner"
-            ]
-        },
-        "type": "episode",
-        "title": "DethDinner",
-        "expiration_date": 1632283140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 675.2502085,
-        "episode_number": "10",
-        "original_air_date": 1341202500,
-        "clip_order": null,
-        "auth_launch_date": 1632283200,
-        "modified": 1631898952,
-        "media_id": "888cc46010e2484698a13be9c5e8aa8829061abd",
-        "airing_id": "RADS1009172100030015",
-        "id": "XqVWQ89MSQ26IUDdMBYRRw",
-        "slug": "deth-dinner",
-        "views": 82542,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111135259-metalocalypse_410_dup-20120627.jpg",
-        "created": 1402945469,
-        "title_id": "892270",
-        "season_number": "4",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1631898952,
-        "tags": [],
-        "rating_count": 358,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1629259200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111135259-metalocalypse_410_dup-20120627.jpg",
-        "cma_id": "1352836"
     },
     {
         "auth": false,
