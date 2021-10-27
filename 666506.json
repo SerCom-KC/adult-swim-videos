@@ -161,7 +161,7 @@
         "cma_id": "1477477"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447450440,
         "auth_expiration_date": 1638334740,
         "tms_id": "EP009235020013",
@@ -388,57 +388,55 @@
         "cma_id": "1462874"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447448520,
-        "auth_expiration_date": 1635307140,
-        "tms_id": "EP009235020006",
-        "rating": 8.492181,
-        "description": "The Warden holds a science fair.",
+        "auth": false,
+        "ott_launch_date": 1447450500,
+        "auth_expiration_date": 1618977540,
+        "tms_id": "EP009235020017",
+        "rating": 7.413386,
+        "description": "The Warden is haunted by the ghosts of his past. Literally. As the body count in SuperJail rises, so do the ghosts' tempers. The afterlife is filling up fast-but there's always room for one more.",
         "title_suggest": {
             "input": [
-                "Terrorarium"
+                "Ghosts"
             ]
         },
         "type": "episode",
-        "title": "Terrorarium",
-        "expiration_date": 1632283140,
+        "title": "Ghosts",
+        "expiration_date": 1638334740,
         "platforms": [
             "web",
             "mobile",
             "ott"
         ],
         "collection_id": "yQHd58HtSH6k0SPEn_e_Gg",
-        "duration": 671.1001001,
+        "duration": 660,
         "episode_number": "6",
-        "original_air_date": 1225687500,
+        "original_air_date": 1304913600,
         "clip_order": null,
-        "auth_launch_date": 1632283200,
-        "modified": 1631903812,
-        "media_id": "455dbb35ddb23e244b11899a0b3c02d21cd60153",
-        "airing_id": "RADS1009172100030052",
-        "id": "aN0BxGd5QuGfCcYZlLzGyg",
-        "slug": "terrorarium",
-        "views": 882657,
+        "auth_launch_date": 1615953600,
+        "modified": 1634942186,
+        "media_id": "7fb3f962f65a5ecb14ef47fbc3ecf303e62ee572",
+        "airing_id": "RADS1010222100038656",
+        "id": "hAQH_QOaRV2fzLUM4bjJPQ",
+        "slug": "ghosts",
+        "views": 424376,
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/1_204211051301-superjail_106_bim.jpg",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/1_204211056492-superjail_206_bim.jpg",
         "created": 1402945477,
-        "title_id": "730972",
-        "season_number": "1",
+        "title_id": "840321",
+        "season_number": "2",
         "tv_rating": "tv-ma-v",
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1631903812,
-        "tags": [
-            "superjail episode 6 terrorarium science fair shrink bugs formula contest jared hulk"
-        ],
-        "rating_count": 2686,
+        "published": 1634942186,
+        "tags": [],
+        "rating_count": 1449,
         "collection_title": "Superjail!",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1629259200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_204211051301-superjail_106_bim.jpg",
-        "cma_id": "1436059"
+        "launch_date": 1635307200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_204211056492-superjail_206_bim.jpg",
+        "cma_id": "840321"
     },
     {
         "auth": false,

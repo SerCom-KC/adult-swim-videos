@@ -1,58 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1447783740,
-        "auth_expiration_date": 1635307140,
-        "tms_id": "EP008994530004",
-        "rating": 6.266001,
-        "description": "Tim and Eric give a seminar in how to build a successful sitcom writing career. Tim meets his wife. \r\n(Al Yankovic, Bob Odenkirk guest star)",
-        "title_suggest": {
-            "input": [
-                "Salame"
-            ]
-        },
-        "type": "episode",
-        "title": "Salame",
-        "expiration_date": 1632283140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 686.011,
-        "episode_number": "4",
-        "original_air_date": 1173069900,
-        "clip_order": null,
-        "auth_launch_date": 1632283200,
-        "modified": 1631902225,
-        "media_id": "0bcc7ad08f844ac2584aab88e046b2243a59c8cc",
-        "airing_id": "RADS1009172100030031",
-        "id": "7slCiE23QlWVDyiABDZQAQ",
-        "slug": "salame",
-        "views": 437534,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161619554-timanderic_104.jpg",
-        "created": 1402945481,
-        "title_id": "661591",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1631902225,
-        "tags": [
-            "tim eric awesome show great job episode 4 salame song david liebe hart sitcom writing writers career wife seminar"
-        ],
-        "rating_count": 6218,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1629259200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161619554-timanderic_104.jpg",
-        "cma_id": "1472117"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
@@ -325,6 +272,59 @@
         "cma_id": "1287183"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447784100,
+        "auth_expiration_date": 1610513940,
+        "tms_id": "EP008994530015",
+        "rating": 7.4088645,
+        "description": "Eric's attendence at Tim's birthday party rests in the hands of Zan. When Ruth finally has the house to herself, she beckons her neighbor for a visit. (Jeff Goldblum)",
+        "title_suggest": {
+            "input": [
+                "Coma"
+            ]
+        },
+        "type": "episode",
+        "title": "Coma",
+        "expiration_date": 1638334740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 691.36,
+        "episode_number": "5",
+        "original_air_date": 1197263700,
+        "clip_order": null,
+        "auth_launch_date": 1607490000,
+        "modified": 1634917748,
+        "media_id": "4752eca8eefbee567db1d8a41cd479737e2c4d60",
+        "airing_id": "RADS1010222100038459",
+        "id": "XsPRSNLMRBmrv0vVuZvhwA",
+        "slug": "coma",
+        "views": 478013,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161517553-timanderic_205.jpg",
+        "created": 1402945481,
+        "title_id": "691941",
+        "tv_rating": "tv-ma",
+        "season_number": "2",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1634917748,
+        "tags": [
+            "time and eric awesome show great job episode 15 coma birthday party zan ruth jeff goldblum"
+        ],
+        "rating_count": 4016,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1635307200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161517553-timanderic_205.jpg",
+        "cma_id": "1303437"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447783860,
         "auth_expiration_date": 1637125140,
@@ -590,7 +590,7 @@
         "cma_id": "663090"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783860,
         "auth_expiration_date": 1638334740,
         "tms_id": "EP008994530008",
