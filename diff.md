@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 31, 2021 at 07:30:31 EDT_
+_Last Update: October 31, 2021 at 12:30:34 EDT_
 ## Video added
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177764
-**Naruto: Shippuden S06E52 - To Each Their Own Leaf**  
-TV-PG-L 🔒 21:53  
-⌛ March 1, 2022 at 06:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/to-each-their-own-leaf  
-seriesid=`812206` titleid=`2177764` id=`AXfQn29DbxpjZvbXYmYP` mediaid=`33a704e9303640bca2e7ce772554a7e7a9999d0d`  
-_Kabuto attempts to bring Sasuke over to his side by pointing out that they both are fighting for the same goal: to bring down the Leaf Village._  
-<a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231540403-NarutoShippuden_335_ToEachTheirOwn.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231540403-NarutoShippuden_335_ToEachTheirOwn.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+830073 Off The Air: 1  
+### 961932
+**Off The Air S02E02 - Color**  
+TV-PG-LV 🔓 11:01  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/off-the-air/color  
+seriesid=`830073` titleid=`961932` id=`G2qP_WVRRcSd2RmwTAaH1A` mediaid=`60792a92ccf03b29c4c6c9d9a7901c84d8b2fb6f`  
+_Collect them all. Like smells for your eyeballs._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312132594-offtheair_202_dup-20121029.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312132594-offtheair_202_dup-20121029.jpg" height="144px" /></a>
