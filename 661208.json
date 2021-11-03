@@ -106,6 +106,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447783980,
+        "auth_expiration_date": 1611118740,
+        "tms_id": "EP008994530013",
+        "rating": 7.681861,
+        "description": "A very special wooded episode of Tim and Eric Awesome Show, Great Job! (Zach Galifianakis, John C. Reilly, Al Yankovic)",
+        "title_suggest": {
+            "input": [
+                "Forest"
+            ]
+        },
+        "type": "episode",
+        "title": "Forest",
+        "expiration_date": 1638939540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 695.014,
+        "episode_number": "3",
+        "original_air_date": 1197868500,
+        "clip_order": null,
+        "auth_launch_date": 1608094800,
+        "modified": 1635716737,
+        "media_id": "f224751828a39972dc643abae8ef929e5675a98a",
+        "airing_id": "RADS1010312100041135",
+        "id": "Mz4nMiECRoeXeKSZvWFhJQ",
+        "slug": "forest",
+        "views": 535123,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116169229-timanderic_203.jpg",
+        "created": 1402945481,
+        "title_id": "691939",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1635716737,
+        "tags": [
+            "time and eric awesome show great job episode 13 forest zach galifianakis john c reilly steve brule al yankovic wood"
+        ],
+        "rating_count": 4256,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1635912000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116169229-timanderic_203.jpg",
+        "cma_id": "1291207"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447783920,
         "auth_expiration_date": 1608699540,
         "tms_id": "EP008994530011",
@@ -378,59 +431,6 @@
         "cma_id": "661594"
     },
     {
-        "auth": false,
-        "ott_launch_date": 1447783800,
-        "auth_expiration_date": 1635911940,
-        "tms_id": "EP008994530005",
-        "rating": 6.1495094,
-        "description": "A chunky lady's secret love for her mean boss finally reaches a boiling point.",
-        "title_suggest": {
-            "input": [
-                "Chunky"
-            ]
-        },
-        "type": "episode",
-        "title": "Chunky",
-        "expiration_date": 1632887940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 691.012,
-        "episode_number": "5",
-        "original_air_date": 1173671100,
-        "clip_order": null,
-        "auth_launch_date": 1632888000,
-        "modified": 1632526087,
-        "media_id": "27bc4065d2e5cd8a066ba499040c7c991ed5e645",
-        "airing_id": "RADS1008192100022875",
-        "id": "j4jstoCCQ8SO6e2k4Rme6Q",
-        "slug": "chunky",
-        "views": 351292,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620131-timanderic_105.jpg",
-        "created": 1402945481,
-        "title_id": "661592",
-        "season_number": "1",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1632526087,
-        "tags": [
-            "tim eric awesome show great job episode 5 carol mr mister henderson boss fat chunky love"
-        ],
-        "rating_count": 4983,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1629864000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620131-timanderic_105.jpg",
-        "cma_id": "1477435"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1447783860,
         "auth_expiration_date": 1637729940,
@@ -537,7 +537,7 @@
         "cma_id": "661593"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783920,
         "auth_expiration_date": 1638939540,
         "tms_id": "EP008994530009",
