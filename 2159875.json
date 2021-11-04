@@ -212,7 +212,7 @@
     },
     {
         "ott_launch_date": 1530541740,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1637816340,
         "tms_id": "EP029829490001",
         "description": "Millennial hero Derrick Beckles interviews Millennial celebrity Maggie Lindemann, grants an ill wish, does an undercover millennial report, and takes on the mannequin challenge.",
@@ -351,54 +351,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153080495367117.jpg",
         "id": "AWRc13fHTdxzjxdCmuVQ",
         "auth": false
-    },
-    {
-        "ott_launch_date": 1531751340,
-        "auth": true,
-        "auth_expiration_date": 1635998340,
-        "tms_id": "EP029829490006",
-        "description": "Millennial hero Derrick Beckles interviews millennial pundit Anne Coulter, unveils a new Kardashian.",
-        "title_suggest": {
-            "input": [
-                "Entitlement"
-            ]
-        },
-        "expiration_date": 1634183940,
-        "type": "episode",
-        "title": "Entitlement",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWPW8JhjqBveI_0AhKbg",
-        "duration": 677.27,
-        "episode_number": "6",
-        "original_air_date": 1531714500,
-        "auth_launch_date": 1634184000,
-        "clip_order": null,
-        "media_id": "6e8ebdd260a98ab5a95291416fdfe660387b8fef",
-        "modified": 1633761863,
-        "airing_id": "RADS1009032100026715",
-        "id": "AWRhpcOsTdxzjxdCmvTE",
-        "slug": "entitlement",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153124138766915.jpg",
-        "created": 1530646610,
-        "season_number": "1",
-        "title_id": "2160049",
-        "tv_rating": "tv-ma-ls",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1633761863,
-        "tags": [],
-        "collection_title": "Mostly 4 Millennials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1631160000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153124138766915.jpg"
     },
     {
         "ott_launch_date": 1532356140,
