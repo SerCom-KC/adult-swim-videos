@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 5, 2021 at 15:30:26 EDT_
+_Last Update: November 5, 2021 at 19:00:32 EDT_
 ## Video added
 ### Summary
-340531 The Brak Show: 1  
-### 345421
-**The Brak Show S01E05 - Bawk Ba Gawk**  
-TV-PG 🔓 11:38  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
-seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
-_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
+2266164 Tuca & Bertie: 1  
+### 2266172
+**Tuca & Bertie S02E08 - Corpse Week**  
+TV-14-L 🔒 21:42  
+⌛ November 7, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/tuca-bertie/corpse-week  
+seriesid=`2266164` titleid=`2266172` id=`AXr1d9JReTntnGIjub0y` mediaid=`47d8854147b80d1b0e7e4365cf82f31356938644`  
+_Happy Cadaveri! It's Corpse Week and the gang are visiting Tuca and Bertie's families for the holidays. What's spookier, all the morbid imagery or the complicated family dynamics?_  
+<a href="https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730118185-TucaAndBertie_208_CorpseWeek.png"><img src="https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730118185-TucaAndBertie_208_CorpseWeek.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
