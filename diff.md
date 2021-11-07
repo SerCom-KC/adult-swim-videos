@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 7, 2021 at 01:30:25 EST_
+_Last Update: November 7, 2021 at 03:00:25 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2144136 Tender Touches: 1  
-### 2181098
-**Tender Touches S02E01 - She's All We Had**  
-TV-14-DL 🔓 11:02  
-⌛ November 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/tender-touches/shes-all-we-had  
-seriesid=`2144136` titleid=`2181098` id=`AWdRBmJ4qD68dq0Op5gv` mediaid=`8dd6ebdb9c8f9e5a3ff39cf1227c7a626764fd30`  
-_Mother dies and Steve inherits the family's colonial villa._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432532249946.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15432532249946.jpg" height="144px" /></a>
+2207385 Dr. Stone: 1  
+2142267 My Hero Academia: 1  
+### 2264996
+**Dr. Stone S02E07 - Secret Mission**  
+TV-14-LV 🔓 22:34  
+⌛ November 21, 2021 at 02:29:00 EST  
+https://www.adultswim.com/videos/dr-stone/secret-mission  
+seriesid=`2207385` titleid=`2264996` id=`AXpA9SgZDmGy9WFjRrkn` mediaid=`90807c04b0fd3e4641be2928ca0e20052c4be84f`  
+_Ukyo discovers how the Kingdom of Science has been operating, and has a one-on-one conversation over the phone with Senku._  
+<a href="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251358246-DrStone_031_SecretMission.png"><img src="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251358246-DrStone_031_SecretMission.png" height="144px" /></a>
+### 2267477
+**My Hero Academia S05E?? - Tomura Shigaraki: Origin**  
+TV-14-V 🔒 22:53  
+⌛ November 28, 2021 at 02:29:00 EST  
+https://www.adultswim.com/videos/my-hero-academia/tomura-shigaraki-origin  
+seriesid=`2142267` titleid=`2267477` id=`AXzxPoXA4Xbjep71f6HY` mediaid=`c9e3e5e51e126a2723106159cb7a796db4770939`  
+_Shigaraki remembers his first encounter with All For One during the climax of his battle with Re-Destro._  
+## Video removed
+No videos were removed.  
