@@ -104,55 +104,6 @@
         "cma_id": "2030303"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1636257540,
-        "tms_id": "EP012792980093",
-        "description": "The Belchers are ready for an amazing Halloween! After Louise insists that she's never been scared before, Bob and Linda reveal their plans to visit a special haunted house that just might rectify the situation. But when trouble ensues following their visit, the Belchers find themselves in a zany situation more frightening than they bargained for!",
-        "title_suggest": {
-            "input": [
-                "The Hauntening",
-                "Hauntening"
-            ]
-        },
-        "title": "The Hauntening",
-        "type": "episode",
-        "expiration_date": 1615179540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1282.0667334,
-        "episode_number": "3",
-        "original_air_date": 1484190000,
-        "clip_order": null,
-        "auth_launch_date": 1635652800,
-        "modified": 1635226067,
-        "media_id": "548b1783b9bee6d20df357ed7277bd0504c00e2a",
-        "airing_id": "RADS1010252100039189",
-        "id": "NQ0Kl-53QhejqVZOuB4CUg",
-        "slug": "the-hauntening",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1483852222,
-        "title_id": "2097191",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1635226067,
-        "first_published": 1483852222,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1614574800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hauntening/bobsburgers_513_air_cid-2WYDK.jpg",
-        "cma_id": "2097191"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1636779540,
@@ -202,6 +153,56 @@
         "launch_date": 1616385600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/house-of-1000-bounces/bobsburgers_520_air_cid-2X464.jpg",
         "cma_id": "1434637"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1636865940,
+        "tms_id": "EP012792980106",
+        "description": "When Bob's longtime friend, Critter, finds himself in jail for unpaid parking tickets, the Belchers decide to do what they can to help him out. Meanwhile, Linda takes on a babysitting job that becomes more work than she signed up for.",
+        "title_suggest": {
+            "input": [
+                "Wag the Hog",
+                "the Hog",
+                "Hog"
+            ]
+        },
+        "title": "Wag the Hog",
+        "type": "episode",
+        "expiration_date": 1617595140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1276.333667,
+        "episode_number": "13",
+        "original_air_date": 1480563000,
+        "clip_order": null,
+        "auth_launch_date": 1636257600,
+        "modified": 1635831325,
+        "media_id": "b0ee1d469ca6c3a3ecb8f65a4ae11e243a90a64a",
+        "airing_id": "RADS1010312100041347",
+        "id": "b5vx0ZI7QXKQurddVmWXcw",
+        "slug": "wag-the-hog",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1480515064,
+        "title_id": "2097201",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1635831325,
+        "first_published": 1480515064,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1616990400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/wag-the-hog/bobsburgers_522_air_cid-2X478.jpg",
+        "cma_id": "1485939"
     },
     {
         "auth": true,
@@ -258,6 +259,55 @@
         "launch_date": 1615179600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-cook-the-steve-the-gayle-her-lover/bobsburgers_512_air_cid-2WX47.jpg",
         "cma_id": "1432531"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1636865940,
+        "tms_id": "EP012792980107",
+        "description": "When Dottie Minerva comes down with a bad case of mono, Tina gets her shot as soloist of the Hormone-iums. But as she rehearses for the big assembly, Tina realizes that her role in the play could ruin her social status. Meanwhile, Linda strikes gold with a business plan that she thinks could make the Belchers rich.",
+        "title_suggest": {
+            "input": [
+                "The Hormone-Iums",
+                "Hormone-Iums"
+            ]
+        },
+        "title": "The Hormone-Iums",
+        "type": "episode",
+        "expiration_date": 1617595140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.4004004,
+        "episode_number": "14",
+        "original_air_date": 1481164200,
+        "clip_order": null,
+        "auth_launch_date": 1636257600,
+        "modified": 1635829818,
+        "media_id": "525bf3b62874b79784500af9a87e7e2d622eca18",
+        "airing_id": "RADS1010312100041355",
+        "id": "euSDjeK-Qb2-zdr4qGcPog",
+        "slug": "the-hormone-iums",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1481152220,
+        "title_id": "2097202",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1635829818,
+        "first_published": 1481152220,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1616990400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg",
+        "cma_id": "1485981"
     },
     {
         "auth": true,
@@ -601,56 +651,5 @@
         "launch_date": 1635739200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187081051505.jpg",
         "cma_id": "2030305"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1636257540,
-        "tms_id": "EP012792980094",
-        "description": "When Gayle is injured, Linda sends Bob off to pick her up so she doesn't miss out on the Thanksgiving festivities. But a snowstorm derails his trip home and his epic plan to prepare the turkey is foiled.",
-        "title_suggest": {
-            "input": [
-                "Gayle Makin' Bob Sled",
-                "Makin' Bob Sled",
-                "Bob Sled",
-                "Sled"
-            ]
-        },
-        "title": "Gayle Makin' Bob Sled",
-        "type": "episode",
-        "expiration_date": 1615780740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1298.5338672,
-        "episode_number": "4",
-        "original_air_date": 1484794800,
-        "clip_order": null,
-        "auth_launch_date": 1635652800,
-        "modified": 1635225475,
-        "media_id": "129e1c8d99bfd9ce3d6b214e4de5021aead414eb",
-        "airing_id": "RADS1010252100039196",
-        "id": "v6nNJ5WAThuzJULB1NDY5w",
-        "slug": "gayle-makin-bob-sled",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1484460645,
-        "title_id": "2097192",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1635225475,
-        "first_published": 1484460645,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1615179600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg",
-        "cma_id": "1432023"
     }
 ]
