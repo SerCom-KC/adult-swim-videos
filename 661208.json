@@ -158,7 +158,7 @@
         "cma_id": "1291207"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783920,
         "auth_expiration_date": 1639544340,
         "tms_id": "EP008994530011",
@@ -484,57 +484,57 @@
         "cma_id": "663089"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447783800,
-        "auth_expiration_date": 1636520340,
-        "tms_id": "EP008994530006",
-        "rating": 6.3764706,
-        "description": "Dilly is surprised when he finds a batch of cooked shrimp washed ashore. Krunk trips on his way to investigate.\r\n(Fred Willard guest stars)",
+        "auth": false,
+        "ott_launch_date": 1447784100,
+        "auth_expiration_date": 1611723540,
+        "tms_id": "EP008994530020",
+        "rating": 7.635538,
+        "description": "Carol's worst fear is realized after revealing a secret tape she made for Mr. Henderson. (AD Miles)",
         "title_suggest": {
             "input": [
-                "Slop"
+                "Carol"
             ]
         },
         "type": "episode",
-        "title": "Slop",
-        "expiration_date": 1633492740,
+        "title": "Carol",
+        "expiration_date": 1639544340,
         "platforms": [
             "web",
             "mobile",
             "ott"
         ],
         "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 665.009,
-        "episode_number": "6",
-        "original_air_date": 1174275900,
+        "duration": 670.003,
+        "episode_number": "7",
+        "original_air_date": 1198473300,
         "clip_order": null,
-        "auth_launch_date": 1633492800,
-        "modified": 1633155747,
-        "media_id": "92e1b968c1bd85d035b5a3b06f875a051c06f196",
-        "airing_id": "RADS1010012100034054",
-        "id": "pd4Zl-RJTGqY0TuspvzYBQ",
-        "slug": "slop",
-        "views": 667075,
+        "auth_launch_date": 1608699600,
+        "modified": 1636142192,
+        "media_id": "07f567a0a3b65006540a69118b6d818c9f9ac31c",
+        "airing_id": "RADS1011052100042475",
+        "id": "ny9vR2SHSCK0xVTS3n6KqQ",
+        "slug": "carol",
+        "views": 680409,
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620330-timanderic_106.jpg",
-        "created": 1402945481,
-        "title_id": "661593",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161518118-timanderic_207.jpg",
+        "created": 1402945482,
+        "title_id": "691943",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1633155747,
+        "published": 1636142192,
         "tags": [
-            "tim eric awesome show great job episode 6 slop dilly shrimp beaver boys krunk dilly fred willard david liebe hart"
+            "time and eric awesome show great job episode 17 carol mr mister henderson secret tape love fantasy"
         ],
-        "rating_count": 5626,
+        "rating_count": 4626,
         "collection_title": "Tim and Eric Awesome Show Great Job!",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1630468800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620330-timanderic_106.jpg",
-        "cma_id": "661593"
+        "launch_date": 1636520400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161518118-timanderic_207.jpg",
+        "cma_id": "1309446"
     },
     {
         "auth": true,

@@ -46,7 +46,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168560,
         "auth_expiration_date": 1639544340,
         "tms_id": "EP008519090005",
@@ -257,61 +257,6 @@
         "cma_id": "1405914"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1452106800,
-        "auth_expiration_date": 1636520340,
-        "tms_id": "EP008519090064",
-        "rating": 7.7698746,
-        "description": "Dethklok is notified of a looming secret that's been around for hundreds of years: the secret of the Metalocalypse. Before they can contemplate what this means, however, Nathan must give a eulogy and do the most brutal thing he has ever done: get in touch with his emotions.",
-        "title_suggest": {
-            "input": [
-                "Church of the Black Klok",
-                "of the Black Klok",
-                "the Black Klok",
-                "Black Klok",
-                "Klok"
-            ]
-        },
-        "type": "episode",
-        "title": "Church of the Black Klok",
-        "expiration_date": 1633492740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 677.1334668,
-        "episode_number": "12",
-        "original_air_date": 1342412100,
-        "clip_order": null,
-        "auth_launch_date": 1633492800,
-        "modified": 1633150882,
-        "media_id": "69e66e63684373f81e8e948bf74baedc3056296f",
-        "airing_id": "RADS1008272100023818",
-        "id": "SrkZkOPJTJS_s2OYUxFu_g",
-        "slug": "church-of-the-black-klok",
-        "views": 50121,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311113658-metalocalypse_412_bim.jpg",
-        "created": 1402945469,
-        "title_id": "892272",
-        "season_number": "4",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1633150882,
-        "tags": [],
-        "rating_count": 239,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1630468800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113658-metalocalypse_412_bim.jpg",
-        "cma_id": "1360773"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447168620,
         "auth_expiration_date": 1605675540,
@@ -519,6 +464,59 @@
         "launch_date": 1632888000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111122488-metalocalypse_104.jpg",
         "cma_id": "1380719"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447168680,
+        "auth_expiration_date": 1607489940,
+        "tms_id": "EP008519090010",
+        "rating": 8.773905,
+        "description": "Skwisgaar is to host the Skwisgaar Skwigelf Advanced Hand Finger Wizard Master Class Pay Per View Event, to promote the sales of a new guitar line, which includes the Skwisarmyatar, and the Antfarmatar.",
+        "title_suggest": {
+            "input": [
+                "Skwisklok"
+            ]
+        },
+        "type": "episode",
+        "title": "Skwisklok",
+        "expiration_date": 1639544340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 688.6006006,
+        "episode_number": "12",
+        "original_air_date": 1160970300,
+        "clip_order": null,
+        "auth_launch_date": 1604466000,
+        "modified": 1636172453,
+        "media_id": "11885366aa7f981fe0a6c211cdc06609d3332cb5",
+        "airing_id": "RADS1011052100042465",
+        "id": "kSgH4UIZRbK2FmsdNBWNhA",
+        "slug": "skwisklok",
+        "views": 638422,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111125123-metalocalypse_112.jpg",
+        "created": 1402945469,
+        "title_id": "651233",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1636172453,
+        "tags": [
+            "metalocalypse dethklok episode 12 skwisklok hand finger wizard master class cilantro allergy hands"
+        ],
+        "rating_count": 2406,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1636520400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111125123-metalocalypse_112.jpg",
+        "cma_id": "1414280"
     },
     {
         "auth": true,
