@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 11, 2021 at 18:30:27 EST_
+_Last Update: November 12, 2021 at 00:00:30 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2073005 Neon Joe: 1  
-### 2118595
-**Neon Joe S02E02 - Parenthetical Head Nod**  
-TV-14-DSV 🔓 22:19  
-⌛ November 17, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/parenthetical-head-nod  
-seriesid=`2073005` titleid=`2118595` id=`-o3osKg2T_mjc5HBSpGTeg` mediaid=`66fa72f7a50d3a259766b7f93fad64a459745c27`  
-_Jailed for the murder of his rival Plaid Jeff, Neon Joe has to fight off a violent skinhead gang while trying to escape and prove his innocence. Will he succeed??_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146486-neonjoe_202_dup-20170425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146486-neonjoe_202_dup-20170425.jpg" height="144px" /></a>
+2140484 Tropical Cop Tales: 1  
+### 2184452
+**Tropical Cop Tales S01E03 - The Shrimp Gang are Back**  
+TV-MA-LV 🔓 11:14  
+⌛ December 16, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/tropical-cop-tales/the-shrimp-gang-are-back  
+seriesid=`2140484` titleid=`2184452` id=`AWhOLtBJHl5gR6828x0A` mediaid=`177236cdf432f8919f7c1584a6c6cac19f020575`  
+_The Shrimp Gang are back on the island. Will they give birth and shoot back guns that fire bullets the wrong way round? What do you think?_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154946625711415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154946625711415.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
