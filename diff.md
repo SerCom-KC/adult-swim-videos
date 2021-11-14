@@ -2,92 +2,110 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 13, 2021 at 00:30:27 EST_
+_Last Update: November 14, 2021 at 00:30:28 EST_
 ## Video added
 ### Summary
 581006 American Dad: 3  
+2191456 Blade Runner: Black Lotus: 1  
 2003422 Bob's Burgers: 2  
-### 2197411
-**American Dad S15E07 - Exquisite Corpses**  
- 🔒 21:02  
-⌛ November 19, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/exquisite-corpses  
-seriesid=`581006` titleid=`2197411` id=`AXb4G8ksQJ_4Uej5kTlK` mediaid=`83c801007ef3898ce418504c1898599f811c5d21`  
-_Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results!_  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg" height="144px" /></a>
-### 2197410
-**American Dad S15E06 - One Fish, Two Fish**  
- 🔒 21:02  
-⌛ November 19, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/one-fish-two-fish  
-seriesid=`581006` titleid=`2197410` id=`AXb4G3loQJ_4Uej5kTlJ` mediaid=`3d08de232ec5a432d8c89d92de91132c52d0b4da`  
-_Hayley takes extreme measures to help Klaus from being deported while the rest of the family tries to open a coconut._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438357-americandad_1406_air_cid-C5RMX-OneFishTwoFish.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438357-americandad_1406_air_cid-C5RMX-OneFishTwoFish.jpg" height="144px" /></a>
-### 2197414
-**American Dad S15E08 - Trophy Wife, Trophy Life**  
- 🔒 21:02  
-⌛ November 19, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/trophy-wife-trophy-life  
-seriesid=`581006` titleid=`2197414` id=`AXb4HCXgQJ_4Uej5kTlL` mediaid=`f4444aa8c9bfb8a8d5128dda59f68160e7bb47c6`  
-_After Stan is injured, Francine nurses him back to health and he becomes dependent to her. The family discovers Tuttle is a Korean reality show star._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg" height="144px" /></a>
-### 2132972
-**Bob's Burgers S07E01 - Sea Me Now**  
+### 2197415
+**American Dad S15E10 - American Data?**  
+ 🔒 21:01  
+⌛ November 20, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/american-data  
+seriesid=`581006` titleid=`2197415` id=`AXb4HP38bxpjZvbXYl9_` mediaid=`564d3eb0bee2f5a1e6038ddd8d154bfecc324668`  
+_Steve and the boys take part in a prison experiment to earn some cash. Meanwhile, Stan deals with the death of his CIA groundskeeper friend._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg" height="144px" /></a>
+### 2197413
+**American Dad S15E09 - Game Night**  
+ 🔒 21:01  
+⌛ November 20, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/game-night  
+seriesid=`581006` titleid=`2197413` id=`AXb4HKiRbxpjZvbXYl9-` mediaid=`1b7c685342d9e3f697f60371d3cb5dbd52ef13c8`  
+_Stan drags the family to a labyrinth for family game night; Roger gets some geese._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439524-americandad_1409_air_cid-C5RRH-GameNight.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439524-americandad_1409_air_cid-C5RRH-GameNight.jpg" height="144px" /></a>
+### 2197416
+**American Dad S15E11 - Salute Your Sllort**  
+ 🔒 20:58  
+⌛ November 20, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/salute-your-sllort  
+seriesid=`581006` titleid=`2197416` id=`AXb4H0xWbxpjZvbXYl-A` mediaid=`e6ba7910fc1be590d90acf6242f372f5748e6f47`  
+_Steve's efforts to befriend a Swedish exchange student backfire in a big way; The family calls in an animal behaviorist to deal with Klaus._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg" height="144px" /></a>
+### 2191458
+**Blade Runner: Black Lotus S01E01 - City of Angels**  
+TV-14-LV 🔓 22:13  
+⌛ January 1, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/blade-runner-black-lotus/city-of-angels  
+seriesid=`2191456` titleid=`2191458` id=`AX0MCGKqUQa40cfnRSnr` mediaid=`1a79e80b9a09b4b70db912a4a3444b3b45b6dac2`  
+_An amnesiac named Elle enters Los Angeles, carrying only a locked data device that may hold the secrets of her past._  
+<a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_211112108172-BladeRunnerBlackLotus_102_CityOfAngels.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_211112108172-BladeRunnerBlackLotus_102_CityOfAngels.png" height="144px" /></a>
+### 2132975
+**Bob's Burgers S07E03 - Large Brother, Where Fart Thou?**  
+TV-14-L 🔒 21:45  
+⌛ November 20, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/large-brother-where-fart-thou  
+seriesid=`2003422` titleid=`2132975` id=`JN51ikJcSbymg0xNrYEi_A` mediaid=`c681a0b1721d5a8e765e5d0e42975f1ebc88a61d`  
+_When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg" height="144px" /></a>
+### 2132973
+**Bob's Burgers S07E02 - They Serve Horses, Don't They?**  
 TV-PG-L 🔒 21:44  
-⌛ November 19, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/sea-me-now  
-seriesid=`2003422` titleid=`2132972` id=`uigHTPzpQmefLwG4q27qRw` mediaid=`36a0ccc64d9f8f32a8f88e60d768f34b10eb5b9b`  
-_Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's chalkboard eraser from the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg" height="144px" /></a>
-### 2132991
-**Bob's Burgers S07E03 - Teen-a Witch**  
-TV-PG-L 🔒 21:47  
-⌛ November 19, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/teen-a-witch  
-seriesid=`2003422` titleid=`2132991` id=`AWGLqx6ENWyh42wYnkw9` mediaid=`5b0d6ca24561e9c052c6c76c933c3b89d6532205`  
-_With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. But when Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg" height="144px" /></a>
+⌛ November 20, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/they-serve-horses-dont-they  
+seriesid=`2003422` titleid=`2132973` id=`6wGwgTMGQG6e5VJ1b-eQdQ` mediaid=`191f7d899837e9f0fb9312a7125bd937c43e5c18`  
+_After a tip from Jimmy Pesto, Bob secures a new meat provider who claims to save clients money on every order. The Belchers quickly realize that the situation is too good to be true, as they find themselves involved in an investigation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
+2143080 Black Clover: 1  
 581006 American Dad: 3  
-### 2097199
-**Bob's Burgers S06E11 - House of 1000 Bounces**  
-TV-PG 🔒 21:26  
-⌛ November 12, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/house-of-1000-bounces  
-seriesid=`2003422` titleid=`2097199` id=`aTRwApkFTRWzcxJY67mdng` mediaid=`fd8e041c6c52fc89b7f6e46d354e9a320bae9b41`  
-_When there is a bounce house crisis at Regular Sized Rudy's birthday party, the Belcher kids devise a scheme to save the day. Meanwhile, Bob deals with an unexpected guest at the restaurant and is forced to come to terms with a longstanding fear._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/house-of-1000-bounces/bobsburgers_520_air_cid-2X464.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/house-of-1000-bounces/bobsburgers_520_air_cid-2X464.jpg" height="144px" /></a>
-### 2097200
-**Bob's Burgers S06E12 - Stand by Gene**  
-TV-PG 🔒 21:41  
-⌛ November 12, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/stand-by-gene  
-seriesid=`2003422` titleid=`2097200` id=`m5N_4JZOS_ulq3qtLDOwoA` mediaid=`d59cc0f48fca963b77685f6a1157497bc801e69d`  
-_When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg" height="144px" /></a>
-### 2186659
-**American Dad S14E10 - Wild Women Do**  
+### 2097201
+**Bob's Burgers S06E13 - Wag the Hog**  
+TV-PG 🔓 21:16  
+⌛ November 13, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/wag-the-hog  
+seriesid=`2003422` titleid=`2097201` id=`b5vx0ZI7QXKQurddVmWXcw` mediaid=`b0ee1d469ca6c3a3ecb8f65a4ae11e243a90a64a`  
+_When Bob's longtime friend, Critter, finds himself in jail for unpaid parking tickets, the Belchers decide to do what they can to help him out. Meanwhile, Linda takes on a babysitting job that becomes more work than she signed up for._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/wag-the-hog/bobsburgers_522_air_cid-2X478.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/wag-the-hog/bobsburgers_522_air_cid-2X478.jpg" height="144px" /></a>
+### 2097202
+**Bob's Burgers S06E14 - The Hormone-Iums**  
+TV-PG 🔓 21:41  
+⌛ November 13, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-hormone-iums  
+seriesid=`2003422` titleid=`2097202` id=`euSDjeK-Qb2-zdr4qGcPog` mediaid=`525bf3b62874b79784500af9a87e7e2d622eca18`  
+_When Dottie Minerva comes down with a bad case of mono, Tina gets her shot as soloist of the Hormone-iums. But as she rehearses for the big assembly, Tina realizes that her role in the play could ruin her social status. Meanwhile, Linda strikes gold with a business plan that she thinks could make the Belchers rich._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg" height="144px" /></a>
+### 2238510
+**Black Clover S03E40 - Those Remaining**  
+TV-PG 🔓 21:52  
+⌛ November 13, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/those-remaining  
+seriesid=`2143080` titleid=`2238510` id=`AXdjlOgHQJ_4Uej5kTpk` mediaid=`c8e467f782f4a45ffbc96c2d0b7e2121ea21e9a8`  
+_A group of masked vigilantes calling themselves the Devil Vanishers is ambushing and abducting those they believe to be in service to the devil._  
+<a href="https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130349-BlackClover_142_dup-20210122_ThoseRemaining.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130349-BlackClover_142_dup-20210122_ThoseRemaining.jpg" height="144px" /></a>
+### 2186662
+**American Dad S14E13 - Mom Sauce**  
 TV-14-DLSV 🔒 21:02  
-⌛ November 12, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/wild-women-do  
-seriesid=`581006` titleid=`2186659` id=`AXJvzPVbC8QgH-t19Jco` mediaid=`9bd44007fedd64bfba40122c4eda20a7a3b1b02c`  
-_Jeff is forced to take Francine out for a not-so-wild night on the town. Klaus forces Steve to watch his celebrity impressions._  
-<a href="https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771217161-americandad_1310_air_cid-3X51F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771217161-americandad_1310_air_cid-3X51F.jpg" height="144px" /></a>
-### 2186660
-**American Dad S14E11 - An Irish Goodbye**  
-TV-14-DLV 🔒 20:32  
-⌛ November 12, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/an-irish-goodbye  
-seriesid=`581006` titleid=`2186660` id=`AXKPZLaWRs3h4hI_X4A7` mediaid=`2e88cfa84147f056b7af6c05467fddd5d1c885a6`  
-_Francine helps Hayley take a break from their marriages. Stan and Jeff pretend to be frontiersmen._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068917528-americandad_1311_air_cid-3X8PX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068917528-americandad_1311_air_cid-3X8PX.jpg" height="144px" /></a>
-### 2186661
-**American Dad S14E12 - Stompe Le Monde**  
+⌛ November 13, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/mom-sauce  
+seriesid=`581006` titleid=`2186662` id=`AXKPZbx3Rs3h4hI_X4A9` mediaid=`f3dd1b5274b1ef18b8356349c4f391ec08ff415a`  
+_Steve's life is turned upside down when Snot gets rich after his mom starts selling a new dipping sauce. Klaus, Stan, Roger and Jeff become mall fashion show models._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg" height="144px" /></a>
+### 2186663
+**American Dad S14E14 - Hamerican Dad!**  
 TV-14-DLSV 🔒 21:02  
-⌛ November 12, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/stompe-le-monde  
-seriesid=`581006` titleid=`2186661` id=`AXKPZS24Rs3h4hI_X4A8` mediaid=`be01d8906171ec2f04df6aeb39e1738a94e5fd5f`  
-_Stan buys the rights a Broadway show after inheriting money from a dead uncle._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068920402-americandad_1312_air_cid-3XGKX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068920402-americandad_1312_air_cid-3XGKX.jpg" height="144px" /></a>
+⌛ November 13, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/hamerican-dad  
+seriesid=`581006` titleid=`2186663` id=`AXKPZmnhC8QgH-t19JjV` mediaid=`22719bca3d20ee8dd73a3cd906c93d85ff103cf9`  
+_Stan, reluctantly invites Roger into his ham club. Francine decides to scare Greg._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg" height="144px" /></a>
+### 2186664
+**American Dad S14E15 - Demolition Daddy**  
+TV-14-DLSV 🔒 21:02  
+⌛ November 13, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/demolition-daddy  
+seriesid=`581006` titleid=`2186664` id=`AXKPZuazRs3h4hI_X4A-` mediaid=`0b3c532a6a9e87d2d2f693d47cf51ad6e074f7a2`  
+_Thanks to Roger, Snot discovers his dead father was a demolition derby driver. Hayley takes Steve on a road trip, so he can learn to drive._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg" height="144px" /></a>
