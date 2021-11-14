@@ -1,6 +1,7 @@
 {
-    "updated": 1636869976,
-    "added": [
+    "updated": 1636871778,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": 1545838200,
             "auth_expiration_date": 1635479940,
@@ -30,7 +31,7 @@
             "auth_launch_date": 1632456000,
             "clip_order": null,
             "media_id": "c90e090fe747cdfb1b0177794e22bc65f225a87b",
-            "modified": 1636869909,
+            "modified": 1636869920,
             "airing_id": "RADS1001111900059411",
             "slug": "tow-and-shell",
             "exclude_from_search": false,
@@ -41,7 +42,7 @@
             "tv_rating": "tv-ma",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1636869909,
+            "published": 1636869920,
             "tags": [],
             "collection_title": "The Shivering Truth",
             "disable_ads": false,
@@ -54,6 +55,5 @@
             "collection_title_id": "2165429",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
