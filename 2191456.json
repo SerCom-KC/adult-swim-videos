@@ -1,5 +1,52 @@
 [
     {
+        "auth_expiration_date": 1638682140,
+        "tms_id": "EP040618320001",
+        "description": "Haunted by traumatic memories, Elle recognizes a familiar face. Upon tracking him down she uncovers a shocking truth about herself and her memories.",
+        "title_suggest": {
+            "input": [
+                "All We Are Not",
+                "We Are Not",
+                "Are Not",
+                "Not"
+            ]
+        },
+        "title": "All We Are Not",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXru8vbSeTntnGIjub0w",
+        "duration": 1347.1458,
+        "episode_number": "2",
+        "original_air_date": 1636867800,
+        "auth_launch_date": 1636867800,
+        "clip_order": null,
+        "airing_id": "RADS1011102100044438",
+        "media_id": "a0c2ba53d5d3e53314c6519359fdf7ae2e51dbc3",
+        "modified": 1636729798,
+        "slug": "all-we-are-not",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_211112109192-BladeRunnerBlackLotus_103_AllWeAreNot.png",
+        "created": 1636584304,
+        "title_id": "2191459",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "published": 1636729798,
+        "tags": [],
+        "collection_title": "Blade Runner: Black Lotus",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_211112109192-BladeRunnerBlackLotus_103_AllWeAreNot.png",
+        "id": "AX0MBq7eUQa40cfnRSnq",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "EP040618320002",
         "description": "An amnesiac named Elle enters Los Angeles, carrying only a locked data device that may hold the secrets of her past.",
