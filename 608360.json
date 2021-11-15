@@ -60,7 +60,7 @@
         "cma_id": "1137030"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447347660,
         "auth_expiration_date": 1636952340,
         "tms_id": "EP007259620025",
@@ -114,7 +114,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1459778400,
         "auth_expiration_date": 1636952340,
         "tms_id": "EP007259620146",
@@ -216,7 +216,7 @@
         "launch_date": 1623643200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190925/thumbnails/2_199251358512-robotchicken_1001_dup-20190626.jpg",
         "id": "AW1pk3rAadNs2hMNfuHG",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1516,7 +1516,7 @@
         "launch_date": 1636952400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101348463-RobotChicken_1105_MayCauseOneYearOfOrangePoop.png",
         "id": "AXvQ07NvUQa40cfnRR9j",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1634183940,
@@ -1675,7 +1675,7 @@
         "cma_id": "1388807"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447346460,
         "auth_expiration_date": 1636952340,
         "tms_id": "EP007259620002",
