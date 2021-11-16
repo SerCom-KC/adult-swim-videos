@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 16, 2021 at 13:00:34 EST_
+_Last Update: November 16, 2021 at 17:00:34 EST_
 ## Video added
 ### Summary
-680051 Delocated: 1  
-### 811362
-**Delocated S02E04 - Mixer**  
-TV-14-L 🔓 21:33  
-⌛ December 20, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/delocated/mixer  
-seriesid=`680051` titleid=`811362` id=`IltLSB7mRK2j8GgYTWKTiw` mediaid=`67189a19060d9025b8846c51bcd272bc40f2a2de`  
-_"Jon" enjoys a weekend convention for members of the witness protection program. Sergei and Yvgeny bond._  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033143663-delocated_204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033143663-delocated_204.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177767
+**Naruto: Shippuden S06E55 - Izanagi and Izanami**  
+TV-PG-V 🔒 21:52  
+⌛ November 21, 2021 at 06:29:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/izanagi-and-izanami  
+seriesid=`812206` titleid=`2177767` id=`AXiI5cWxBH5Z6gH5aWHb` mediaid=`a4eefd7c24586be2a96eeb607da3506fb33c06b7`  
+_Itachi activates the Visual Jutsu Izanami to trap Kabuto's mind._  
+<a href="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311127397-NarutoShippuden_338_IzanagiAndIzanami.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311127397-NarutoShippuden_338_IzanagiAndIzanami.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
