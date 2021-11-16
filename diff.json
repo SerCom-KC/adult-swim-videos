@@ -1,7 +1,6 @@
 {
-    "updated": 1637086039,
-    "added": [],
-    "removed": [
+    "updated": 1637086946,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1444573980,
@@ -28,7 +27,7 @@
             "original_air_date": 1284091200,
             "clip_order": null,
             "auth_launch_date": 1620705600,
-            "modified": 1637085340,
+            "modified": 1637086697,
             "media_id": "67189a19060d9025b8846c51bcd272bc40f2a2de",
             "airing_id": "RADS1011112100045037",
             "id": "IltLSB7mRK2j8GgYTWKTiw",
@@ -43,7 +42,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1637085340,
+            "published": 1637086697,
             "tags": [
                 "Delocated",
                 "Jon Glaser",
@@ -62,5 +61,6 @@
             "collection_title_id": "680051",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
