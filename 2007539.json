@@ -148,7 +148,7 @@
     },
     {
         "ott_launch_date": 1520865060,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1640149140,
         "tms_id": "EP018514630028",
         "description": "When Linda goes on a shopping spree, she winds up on the run from a zombie-like mob of homeless people that want her money.",
@@ -291,6 +291,54 @@
         "modified_by": "ODT Listener",
         "launch_date": 1636520400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15218288818828.jpg"
+    },
+    {
+        "ott_launch_date": 1522074660,
+        "auth": false,
+        "auth_expiration_date": 1624420740,
+        "tms_id": "EP018514630033",
+        "description": "Grandpa's path to moving out and starting a new life away from Mr. Pickles leads him down dangerous roads.",
+        "title_suggest": {
+            "input": [
+                "Season 3 Finale",
+                "3 Finale",
+                "Finale"
+            ]
+        },
+        "title": "Season 3 Finale",
+        "type": "episode",
+        "expiration_date": 1640149140,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 676.13,
+        "episode_number": "10",
+        "original_air_date": 1522037700,
+        "auth_launch_date": 1621396800,
+        "clip_order": null,
+        "media_id": "d376c95c41a9965e2a94454327ae5391ac0f08a3",
+        "modified": 1636757607,
+        "airing_id": "RADS1011112100045054",
+        "id": "AWJJbRujHAeP4-pUPd45",
+        "slug": "season-3-finale",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152182878693420.jpg",
+        "created": 1521650310,
+        "title_id": "2120617",
+        "tv_rating": "tv-ma-sv",
+        "season_number": "3",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1636757607,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1637125200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152182878693420.jpg"
     },
     {
         "ott_launch_date": null,
@@ -480,58 +528,6 @@
         "launch_date": 1632888000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151967391467517.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1467037800,
-        "auth_expiration_date": 1637125140,
-        "tms_id": "EP018514630021",
-        "description": "In the season two finale, Grandpa finds an ancient and mysterious coin that he thinks has something to do with Mr. Pickles.",
-        "title_suggest": {
-            "input": [
-                "Season 2 Finale",
-                "2 Finale",
-                "Finale"
-            ]
-        },
-        "expiration_date": 1634097540,
-        "title": "Season 2 Finale",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 678,
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "episode_number": "10",
-        "original_air_date": 1467000000,
-        "clip_order": null,
-        "auth_launch_date": 1634097600,
-        "modified": 1633743686,
-        "media_id": "b45a39015d084096ae22732c3a5f3ca062e90e30",
-        "airing_id": "RADS1010082100037122",
-        "id": "PwqM-Yg1Rhu1DpV9UudRjw",
-        "slug": "season-2-finale",
-        "views": 52687,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121123493-mrpickles_210_dup-20160523.jpg",
-        "created": 1466614334,
-        "season_number": "2",
-        "title_id": "2085312",
-        "tv_rating": "tv-ma-sv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1633743686,
-        "first_published": 1466673022,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1631073600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121123493-mrpickles_210_dup-20160523.jpg",
-        "cma_id": "1423665"
     },
     {
         "auth": true,
