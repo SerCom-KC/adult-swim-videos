@@ -1,60 +1,6 @@
 [
     {
         "auth": true,
-        "ott_launch_date": 1451682480,
-        "auth_expiration_date": 1637297940,
-        "tms_id": "EP007008200031",
-        "rating": 8.376269,
-        "description": "Tom tries to sell novelty beverage cups at the Mall while the Mayor celebrates Jefferton's 30th anniversary by looking for the perfect painting.",
-        "title_suggest": {
-            "input": [
-                "My Big Cups",
-                "Big Cups",
-                "Cups"
-            ]
-        },
-        "type": "episode",
-        "title": "My Big Cups",
-        "expiration_date": 1634270340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 672.31,
-        "episode_number": "10",
-        "original_air_date": 1149481800,
-        "clip_order": null,
-        "auth_launch_date": 1634270400,
-        "modified": 1633851042,
-        "airing_id": "RADS1009032100026763",
-        "media_id": "6d21b0c541fb5121847f4c96db1dcc3605008a16",
-        "id": "59TV43eaTUqnZu-N1sHVGg",
-        "slug": "my-big-cups",
-        "views": 146045,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117956400-tgttm_023.jpg",
-        "created": 1402945482,
-        "title_id": "639406",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1633851042,
-        "tags": [
-            "tom goes to the mayor episode 23 my big cups beverage 30th anniversary mall painting"
-        ],
-        "rating_count": 396,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1631246400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956400-tgttm_023.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1451682240,
         "auth_expiration_date": 1639717140,
         "tms_id": "EP007008200018",
@@ -159,7 +105,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451682420,
         "auth_expiration_date": 1640321940,
         "tms_id": "EP007008200020",
