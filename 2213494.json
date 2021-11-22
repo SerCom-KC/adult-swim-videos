@@ -135,53 +135,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1599451140,
-        "tms_id": "",
-        "description": "Red Riding Hood must transport illegal drugs over the border to save her boyfriend's life.",
-        "title_suggest": {
-            "input": [
-                "Little Red Riding Hood",
-                "Red Riding Hood",
-                "Riding Hood",
-                "Hood"
-            ]
-        },
-        "title": "Little Red Riding Hood",
-        "expiration_date": 1637557140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AXD5sp41Rs3h4hI_X2eX",
-        "duration": 672.9389,
-        "episode_number": "3",
-        "original_air_date": "1590380100",
-        "auth_launch_date": 1598846400,
-        "clip_order": null,
-        "airing_id": "RADS1008192100022621",
-        "media_id": "f4fea61d15c551909d2c12c39784bb51197fde19",
-        "modified": 1637276134,
-        "slug": "little-red-riding-hood",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_20561055391-JJVFT_004.jpg",
-        "created": 1588776948,
-        "season_number": "1",
-        "title_id": "2213498",
-        "tv_rating": "tv-ma-lv",
-        "published": 1637276134,
-        "tags": [],
-        "collection_title": "JJ Villard's Fairy Tales",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1629691200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561055391-JJVFT_004.jpg",
-        "id": "AXHqfFLNC8QgH-t19Iua",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1603684740,
         "tms_id": "",
         "description": "Lonely old man wishes he had a son. His wish comes true... unfortunately.",
@@ -223,6 +176,50 @@
         "launch_date": 1636952400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056105678-JJVFT_005.jpg",
         "id": "AXHqfLGLC8QgH-t19Iub",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1604293140,
+        "tms_id": "",
+        "description": "Woman uses a magic dwarf to help improve her love life.",
+        "title_suggest": {
+            "input": [
+                "Rumpelstiltskin"
+            ]
+        },
+        "title": "Rumpelstiltskin",
+        "expiration_date": 1646629140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXD5sp41Rs3h4hI_X2eX",
+        "duration": 675.8418,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1603684800,
+        "clip_order": null,
+        "airing_id": "RADS1011182100045802",
+        "media_id": "3f038b186f959fe07a957e8108fc02de630e690f",
+        "modified": 1637276135,
+        "slug": "rumpelstiltskin",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/1_205201017372-JJVFT_003.jpg",
+        "created": 1589983811,
+        "season_number": "1",
+        "title_id": "2213497",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1637276135,
+        "tags": [],
+        "collection_title": "JJ Villard's Fairy Tales",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1637557200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_205201017372-JJVFT_003.jpg",
+        "id": "AXIya5meRs3h4hI_X3xh",
         "auth": false
     }
 ]
