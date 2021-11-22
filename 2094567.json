@@ -152,7 +152,7 @@
     },
     {
         "ott_launch_date": 1540218540,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1640581140,
         "tms_id": "",
         "description": "Patient 21 is afraid to fall asleep. After a parasomnia episode injures the new intern Bea, Dr Roberts drops in to the patient's dream to guide him through the wake of his fears.",
@@ -393,6 +393,55 @@
         "modified_by": "ODT Listener",
         "launch_date": 1636952400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037190-dreamcorpllc_205_air_cid-3NJC8.jpg"
+    },
+    {
+        "ott_launch_date": 1541431740,
+        "auth": false,
+        "auth_expiration_date": 1627271940,
+        "tms_id": "",
+        "description": "Roberts' old roommate, Bill Ruff, pays a visit to Dream Corp LLC under the guise of selling bad office artwork. Everyone in the staff is charmed except for 88 who makes it his mission to expose Bill's real intentions.",
+        "title_suggest": {
+            "input": [
+                "Wild Bill",
+                "Bill"
+            ]
+        },
+        "expiration_date": 1640581140,
+        "type": "episode",
+        "title": "Wild Bill",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 722.8,
+        "episode_number": "6",
+        "original_air_date": 1541394900,
+        "auth_launch_date": 1624248000,
+        "clip_order": null,
+        "media_id": "fce5d29975e084228ae88991d9e54a831495035e",
+        "modified": 1637323962,
+        "airing_id": "RADS1011182100045751",
+        "id": "AWLVTk9gTdxzjxdCldXh",
+        "slug": "wild-bill",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg",
+        "created": 1523997101,
+        "season_number": "2",
+        "title_id": "2133690",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1637323962,
+        "tags": [],
+        "collection_title": "Dream Corp LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1637557200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg"
     },
     {
         "ott_launch_date": null,
@@ -995,58 +1044,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15435281874946.jpg",
         "id": "AWdhcx17qD68dq0Op5na",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1477924320,
-        "auth_expiration_date": 1637557140,
-        "tms_id": "EP025239370002",
-        "description": "Patient 54 is an elderly client who is trying to quit smoking. She leaves DREAM CORP a new woman. 88 gets stabbed in the neck.",
-        "title_suggest": {
-            "input": [
-                "The Smoking Nun",
-                "Smoking Nun",
-                "Nun"
-            ]
-        },
-        "expiration_date": 1634529540,
-        "title": "The Smoking Nun",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 677.8757298,
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "episode_number": "2",
-        "original_air_date": 1477885500,
-        "clip_order": null,
-        "auth_launch_date": 1634529600,
-        "modified": 1634252437,
-        "media_id": "0ccd0776d6c0eca87ee412bc7caade055e7e4226",
-        "airing_id": "RADS1010142100037963",
-        "id": "B7QwlqCfS_qaSVxthP7Q7w",
-        "slug": "the-smoking-nun",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341027293-dreamcorpllc_102_dup-20160804.jpg",
-        "created": 1476725327,
-        "season_number": "1",
-        "title_id": "2094569",
-        "tv_rating": "tv-14-dsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1634252437,
-        "first_published": 1477552223,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1631505600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341027293-dreamcorpllc_102_dup-20160804.jpg",
-        "cma_id": "1285052"
     },
     {
         "auth": true,
