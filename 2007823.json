@@ -157,7 +157,7 @@
         "launch_date": 1635480000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509854039616.jpg",
         "id": "AV-3DeJywdpKFAKSbWZV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789500,
@@ -313,6 +313,58 @@
         "launch_date": 1637038800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509835916018.jpg",
         "id": "AV-3HWt2Z-onAnjDLtAg",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1447789620,
+        "auth_expiration_date": 1619495940,
+        "tms_id": "SH020420000000",
+        "description": "In Search of Miracle Man asks viewers to join their cult's quest to find a mystical being roaming the world performing really cool miracles.",
+        "title_suggest": {
+            "input": [
+                "In Search of Miracle Man",
+                "Search of Miracle Man",
+                "of Miracle Man",
+                "Miracle Man",
+                "Man"
+            ]
+        },
+        "expiration_date": 1640062740,
+        "type": "episode",
+        "title": "In Search of Miracle Man",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 676.7923269,
+        "episode_number": "7",
+        "original_air_date": 1415696400,
+        "auth_launch_date": 1616472000,
+        "clip_order": null,
+        "media_id": "84572beccda8e5c073d4b0450b660ba2ba2c75d8",
+        "modified": 1637348237,
+        "airing_id": "RADS1011192100045875",
+        "slug": "in-search-of-miracle-man",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150983047962.jpg",
+        "created": 1510605886,
+        "season_number": "4",
+        "title_id": "2007845",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1637348237,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1637643600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150983047962.jpg",
+        "id": "AV-3IJOpwdpKFAKSbWaa",
         "auth": false
     },
     {
