@@ -1,111 +1,6 @@
 [
     {
         "auth": false,
-        "ott_launch_date": 1449258480,
-        "auth_expiration_date": 1633492740,
-        "tms_id": "EP001022180080",
-        "rating": 7.4570136,
-        "description": "Performance artist Laurie Anderson riles Space Ghost by revealing that she never watches television, then waxes conspiratorial about cyberspace. A disengaged Space Ghost invisos out, missing much of their remaining conversation. Next, Space Ghost endeavors to understand members of the performance troupe Stomp.",
-        "title_suggest": {
-            "input": [
-                "Art Show",
-                "Show"
-            ]
-        },
-        "type": "episode",
-        "title": "Art Show",
-        "expiration_date": 1637729940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 726.8341675,
-        "episode_number": "14",
-        "original_air_date": 908595000,
-        "clip_order": null,
-        "auth_launch_date": 1631678400,
-        "modified": 1635293420,
-        "airing_id": "RADS1010262100039910",
-        "media_id": "0101f6d01038f397cb4b165a08e8f20f2c7df88f",
-        "id": "2rRTwZdqRre3KR65buuoew",
-        "slug": "art-show",
-        "views": 39534,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417101335-sgc2c_9614_dst_cid-9137639.jpg",
-        "created": 1402945476,
-        "title_id": "322772",
-        "season_number": "3",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1635293420,
-        "tags": [
-            "space ghost coast to coast episode 32 art show laurie anderson stomp"
-        ],
-        "rating_count": 221,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1635480000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417101335-sgc2c_9614_dst_cid-9137639.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1449532200,
-        "auth_expiration_date": 1637729940,
-        "tms_id": "EP001022180109",
-        "rating": 8.80734,
-        "description": "After revealing that contractual squabbles before the premiere of \"Space Ghost Coast to Coast\" resulted in an aborted test shoot starring rival superhero Birdman, host Lokar presents exclusive glimpses of this \"lost\" pilot.",
-        "title_suggest": {
-            "input": [
-                "Pilot"
-            ]
-        },
-        "type": "episode",
-        "title": "Pilot",
-        "expiration_date": 1609304340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 643.8675342,
-        "episode_number": "6",
-        "original_air_date": 923713200,
-        "clip_order": null,
-        "auth_launch_date": 1635912000,
-        "modified": 1635719139,
-        "airing_id": "RADS1010312100041150",
-        "media_id": "3acb33e58a50920d5472e4195358a5f27016a7d1",
-        "id": "6lPxT9CaSNWu00olRAiaBQ",
-        "slug": "pilot",
-        "views": 33841,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_204171016152-sgc2c_9706_air_cid-9127473.jpg",
-        "created": 1402945476,
-        "title_id": "322341",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1635719139,
-        "tags": [
-            "sgc2c space ghost coast to coast episode 39 pilot lokar birdman american gladiators"
-        ],
-        "rating_count": 109,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1606280400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171016152-sgc2c_9706_air_cid-9127473.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1449532140,
         "auth_expiration_date": 1635911940,
         "tms_id": "EP001022180044",
@@ -154,6 +49,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1637125200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417104289-sgc2c_9703_dst_cid-9128089.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1448046900,
+        "auth_expiration_date": 1638939540,
+        "tms_id": "EP001022180030",
+        "rating": 8.589406,
+        "description": "Space Ghost welcomes two talk-show experts, Bill Carter and Joe Franklin. Carter, author of \"The Late Shift,\"explains why Space Ghost was excluded from his book. Franklin, the world's first TV talk show host, gives him a few pointers. Moltar introduces his fascination with the television series \"CHiPs,\"a theme that will resurface again and again.",
+        "title_suggest": {
+            "input": [
+                "CHiPs"
+            ]
+        },
+        "type": "episode",
+        "title": "CHiPs",
+        "expiration_date": 1625630340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 635.0667334,
+        "episode_number": "4",
+        "original_air_date": 895894200,
+        "clip_order": null,
+        "auth_launch_date": 1637730000,
+        "modified": 1637371622,
+        "airing_id": "RADS1011192100045956",
+        "media_id": "6aa85edc65bcd91f400f6e2a568b63bf53fa3696",
+        "id": "9WZFQoNXT3Sba6St7XLX1w",
+        "slug": "c-hi-ps",
+        "views": 44944,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_2041794630-sgc2c_9404_dst_cid-9122680.jpg",
+        "created": 1402945476,
+        "title_id": "322736",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1637371622,
+        "tags": [
+            "space ghost c2c sg episode 4 chips bill carter joe franklin"
+        ],
+        "rating_count": 151,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1622606400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041794630-sgc2c_9404_dst_cid-9122680.jpg",
         "cma_id": ""
     },
     {
@@ -252,58 +199,6 @@
         "modified_by": "Zeus Listener",
         "launch_date": 1598468404,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/zorak-diamond-dallas-page-evil-is-only-skin-deep/homepage_brakspecial_002_DDP.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1448046780,
-        "auth_expiration_date": 1637729940,
-        "tms_id": "EP001022180003",
-        "rating": 8.29384,
-        "description": "Three stranded castaways, Bob Denver (Gilligan), Dawn Wells (Mary Ann) and Russell Johnson (the Professor), take their turns in the video monitor. Zorak declares, \"I am the lone locust of the apocalypse. Think of me when you look to the night sky.\"",
-        "title_suggest": {
-            "input": [
-                "Gilligan"
-            ]
-        },
-        "type": "episode",
-        "title": "Gilligan",
-        "expiration_date": 1624420740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 698.9342676,
-        "episode_number": "2",
-        "original_air_date": 894684600,
-        "clip_order": null,
-        "auth_launch_date": 1636520400,
-        "modified": 1636160991,
-        "airing_id": "RADS1011052100042641",
-        "media_id": "a1bf94f19b07592ea4a325afc663ee578ea1b3fc",
-        "id": "H9ek3x38TAGoOwrrXoHi_A",
-        "slug": "gilligan",
-        "views": 53219,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417945117-sgc2c_9402_dst_cid-9108288.jpg",
-        "created": 1402945476,
-        "title_id": "322726",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1636160991,
-        "tags": [
-            "space ghost coast to coast gilligan gilligian gilligen"
-        ],
-        "rating_count": 211,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1621396800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417945117-sgc2c_9402_dst_cid-9108288.jpg",
         "cma_id": ""
     },
     {
@@ -410,6 +305,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1607490000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201131579-sgc2c_9712_air_cid-9266088.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1448983920,
+        "auth_expiration_date": 1638939540,
+        "tms_id": "EP001022180054",
+        "rating": 8.018808,
+        "description": "Space Ghost welcomes shiny happy Michael Stipe from R.E.M. (Space Ghost: \"Is that you in the corner?\"Stipe: \"Yes, it is.\") Later, he shares time-honored difficult-places-to-reach-while-scratching-stories with Lassie. Mujibur and Sirajul, frequent guest stars on \"The Late Show with David Letterman,\"mysteriously appear with Space Ghost's pizza.",
+        "title_suggest": {
+            "input": [
+                "Hungry"
+            ]
+        },
+        "type": "episode",
+        "title": "Hungry",
+        "expiration_date": 1629863940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 755.0333667,
+        "episode_number": "4",
+        "original_air_date": 940647600,
+        "clip_order": null,
+        "auth_launch_date": 1637730000,
+        "modified": 1637371306,
+        "airing_id": "RADS1011192100045944",
+        "media_id": "a6e9c27efe6cf61e889c7b89df561c8ff6d41895",
+        "id": "U_7PSt_pSz-jX_Bs4swieQ",
+        "slug": "hungry",
+        "views": 79744,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417951225-sgc2c_9504_bim.jpg",
+        "created": 1402945476,
+        "title_id": "322747",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1637371306,
+        "tags": [
+            "space ghost coast to coast c2c hungry episode 14"
+        ],
+        "rating_count": 319,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1626840000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417951225-sgc2c_9504_bim.jpg",
         "cma_id": ""
     },
     {
@@ -571,59 +518,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1448047020,
-        "auth_expiration_date": 1637729940,
-        "tms_id": "EP001022180032",
-        "rating": 7.3043475,
-        "description": "The rapport between Branford Marsalis and Space Ghost makes it look as though the then-band leader of \"The Tonight Show\"might be switching talk shows. Next, a child star from the same television era as Space Ghost, Danny Bonaduce, talks about his days with the Partridge family and his deep-seated hatred for Osmonds.",
-        "title_suggest": {
-            "input": [
-                "Gum, Disease",
-                "Disease"
-            ]
-        },
-        "type": "episode",
-        "title": "Gum, Disease",
-        "expiration_date": 1628654340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 734.9676343,
-        "episode_number": "10",
-        "original_air_date": 903151800,
-        "clip_order": null,
-        "auth_launch_date": 1636520400,
-        "modified": 1636161278,
-        "airing_id": "RADS1011052100042652",
-        "media_id": "8695509a18e8760496676df43551d1150a6e8fac",
-        "id": "_E1IiElhT3yTkFA5M5_Osw",
-        "slug": "gum-disease",
-        "views": 38527,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_2041794964-sgc2c_9410_dst_cid-9105445.jpg",
-        "created": 1402945476,
-        "title_id": "322742",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1636161278,
-        "tags": [
-            "space ghost coast to coast c2c gum disease episode 10"
-        ],
-        "rating_count": 276,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1625630400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041794964-sgc2c_9410_dst_cid-9105445.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1449532140,
         "auth_expiration_date": 1634702340,
@@ -731,6 +625,110 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1449532680,
+        "auth_expiration_date": 1636520340,
+        "tms_id": "EP001022180082",
+        "rating": 7.6986303,
+        "description": "Space Ghost marks a \"special notch in the belt that is the Space Ghost saga\" with returning guests Bobcat Goldthwait and Judy Tenuda. The show also includes special appearances by villian-turned-announcer Tansut and the evil Chad Ghostal, as well as a spectacular career retrospective montage compiled by Moltar.",
+        "title_suggest": {
+            "input": [
+                "Anniversary"
+            ]
+        },
+        "type": "episode",
+        "title": "Anniversary",
+        "expiration_date": 1640753940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 646.6339673,
+        "episode_number": "4",
+        "original_air_date": 907990200,
+        "clip_order": null,
+        "auth_launch_date": 1635480000,
+        "modified": 1637371013,
+        "airing_id": "RADS1011192100045930",
+        "media_id": "22e16543fbb5dca5ccdf9cf6862981ab443ad23a",
+        "id": "oFUdDn-rRqq3wjM-TmHlKw",
+        "slug": "anniversary",
+        "views": 39149,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417105349-sgc2c_9704_air_cid-9118535.jpg",
+        "created": 1402945476,
+        "title_id": "322330",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1637371013,
+        "tags": [
+            "sgc2c space ghost coast to coast episode 37 anniversary bobcat goldthwait just tenuda tansut chad ghostal"
+        ],
+        "rating_count": 146,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1637730000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417105349-sgc2c_9704_air_cid-9118535.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1449870660,
+        "auth_expiration_date": 1639544340,
+        "tms_id": "EP001022180064",
+        "rating": 9.38843,
+        "description": "\"Beavis and Butthead\" and \"King of the Hill\" creator Mike Judge kindly asks Space Ghost to \"whack the Rugrats.\" Space Ghost agrees to the job, as long as he can get onto one of Judge's shows. Harland Williams doesn't last long after calling Space Ghost \"Billy\" and \"Naughty Space Ghost.\"",
+        "title_suggest": {
+            "input": [
+                "Sphinx"
+            ]
+        },
+        "type": "episode",
+        "title": "Sphinx",
+        "expiration_date": 1611118740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 675.98,
+        "episode_number": "14",
+        "original_air_date": 896499000,
+        "clip_order": null,
+        "auth_launch_date": 1637730000,
+        "modified": 1637371622,
+        "airing_id": "RADS1011192100045948",
+        "media_id": "44175c79d87b23e2b1142a95d35703a97b04a8aa",
+        "id": "qI9WrMu-SmOL7_usY2P_7w",
+        "slug": "sphinx",
+        "views": 36493,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201132443-sgc2c_9714_air_cid-9268247.jpg",
+        "created": 1402945476,
+        "title_id": "322338",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1637371622,
+        "tags": [
+            "space ghost coast to coast sgc2c episode 47 sphinx beavis butthead mike judge harland williams"
+        ],
+        "rating_count": 121,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1608094800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201132443-sgc2c_9714_air_cid-9268247.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "Learn how to win any argument.",
         "title_suggest": {
@@ -769,6 +767,59 @@
         "modified_by": "Dominique Barfield",
         "launch_date": 1474391840,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/shut-up/homepage_cnplanet_Shutup.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1450890060,
+        "auth_expiration_date": 1639544340,
+        "tms_id": "EP001022180026",
+        "rating": 7.805869,
+        "description": "Space Ghost loses the show to the owner of a liquor store, and he is forced to use a shark as the show's new mascot.  A bear wanders onto the set, upsetting the normal routine by repeatedly attacking Space Ghost.  Later, the shark explodes, attracting giant Space Bees.",
+        "title_suggest": {
+            "input": [
+                "Kentucky Nightmare",
+                "Nightmare"
+            ]
+        },
+        "type": "episode",
+        "title": "Kentucky Nightmare",
+        "expiration_date": 1618372740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 581,
+        "episode_number": "1",
+        "original_air_date": 989208000,
+        "clip_order": null,
+        "auth_launch_date": 1637730000,
+        "modified": 1637371013,
+        "airing_id": "RADS1011192100045938",
+        "media_id": "ba562640364cfbc000719815284cb700afb0b8f9",
+        "id": "ujWtjlVeQ5upFlzwetRnug",
+        "slug": "kentucky-nightmare",
+        "views": 50066,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201153361-sgc2c_2101.jpg",
+        "created": 1402945476,
+        "title_id": "343274",
+        "season_number": "7",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1637371013,
+        "tags": [
+            "space ghost c2c episode 77 kentucky nightmare"
+        ],
+        "rating_count": 443,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1615352400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201153361-sgc2c_2101.jpg",
         "cma_id": ""
     },
     {
@@ -874,59 +925,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1614142800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201129249-sgc2c_9907_air.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1450888860,
-        "auth_expiration_date": 1637729940,
-        "tms_id": "EP001022180024",
-        "rating": 8.302325,
-        "description": "The writing and production staff of \"Space Ghost Coast to Coast\" join voice talents C. Martin Croker (Zorak and Moltar) and George Lowe (Space Ghost) to read through a script of an episode entitled \"Fire Ant.\"",
-        "title_suggest": {
-            "input": [
-                "Table Read",
-                "Read"
-            ]
-        },
-        "type": "episode",
-        "title": "Table Read",
-        "expiration_date": 1616558340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 742.0667334,
-        "episode_number": "6",
-        "original_air_date": 943853400,
-        "clip_order": null,
-        "auth_launch_date": 1635912000,
-        "modified": 1635716737,
-        "airing_id": "RADS1010312100041132",
-        "media_id": "e5284107c27d4fad68696c45d4a44f282f35c941",
-        "id": "xBHq5dNHRhSWjRLxgRMYXg",
-        "slug": "table-read",
-        "views": 32793,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201155507-sgc2c_9906_dst_cid-9156025.jpg",
-        "created": 1402945476,
-        "title_id": "332689",
-        "season_number": "6",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1635716737,
-        "tags": [
-            "Space Ghost Episode 74 Table Read"
-        ],
-        "rating_count": 86,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613538000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201155507-sgc2c_9906_dst_cid-9156025.jpg",
         "cma_id": ""
     }
 ]
