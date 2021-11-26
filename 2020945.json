@@ -324,7 +324,7 @@
         "cma_id": "2117210"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1649995140,
         "tms_id": "EP019059960036",
@@ -379,7 +379,7 @@
         "cma_id": "1364845"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1643950740,
         "tms_id": "EP019059960054",
@@ -861,7 +861,7 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251636283-attackontitan_046_dup-20181017.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1643950740,
         "tms_id": "EP019059960074",
@@ -1006,7 +1006,7 @@
         "launch_date": 1637902800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg",
         "id": "AWbu1YiT3OEkyfT4qJSV",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -2390,7 +2390,7 @@
         "cma_id": "1445703"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1637902740,
         "tms_id": "EP019059960056",
@@ -2821,7 +2821,7 @@
         "cma_id": "1423875"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1637902740,
         "tms_id": "EP019059960042",
