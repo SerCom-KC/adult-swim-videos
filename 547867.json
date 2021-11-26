@@ -1,5 +1,58 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1451682780,
+        "auth_expiration_date": 1624593540,
+        "tms_id": "EP007008200015",
+        "rating": 8.715221,
+        "description": "Tom makes a new friend on the Internet.",
+        "title_suggest": {
+            "input": [
+                "Friendship Alliance",
+                "Alliance"
+            ]
+        },
+        "type": "episode",
+        "title": "Friendship Alliance",
+        "expiration_date": 1640926740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 673.64,
+        "episode_number": "17",
+        "original_air_date": 1154925000,
+        "clip_order": null,
+        "auth_launch_date": 1621569600,
+        "modified": 1637476862,
+        "airing_id": "RADS1011192100046065",
+        "media_id": "ba01040b9b123ffe262a4b0c6fa4877247fe3e31",
+        "id": "AiL8W6G6TD2UJ4S3Tm38pQ",
+        "slug": "friendship-alliance",
+        "views": 118222,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117958366-tgttm_030.jpg",
+        "created": 1402945482,
+        "title_id": "639413",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1637476862,
+        "tags": [
+            "tom goes to the mayor episode 30 friendship alliance internet chat"
+        ],
+        "rating_count": 611,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1637902800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958366-tgttm_030.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1451682240,
         "auth_expiration_date": 1639717140,
@@ -49,59 +102,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1633665600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953454-tgttm_016.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451682900,
-        "auth_expiration_date": 1637902740,
-        "tms_id": "EP007008200016",
-        "rating": 8.80096,
-        "description": "Tom tries to stop the Mayor from holding a Bass Fest, which threatens the town dam.",
-        "title_suggest": {
-            "input": [
-                "Bass Fest",
-                "Fest"
-            ]
-        },
-        "type": "episode",
-        "title": "Bass Fest",
-        "expiration_date": 1634875140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 696.73,
-        "episode_number": "4",
-        "original_air_date": 1150086600,
-        "clip_order": null,
-        "auth_launch_date": 1635480000,
-        "modified": 1635287393,
-        "airing_id": "RADS1010262100039853",
-        "media_id": "5680a904abe1d98e353d92e48d6990681cd02da7",
-        "id": "UXKkuujNS0mNdr6UI8QrWA",
-        "slug": "bass-fest",
-        "views": 118011,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117953598-tgttm_017.jpg",
-        "created": 1402945482,
-        "title_id": "633326",
-        "season_number": "2",
-        "tv_rating": "tv-14-dl",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1635287393,
-        "tags": [
-            "tom goes to the mayor episode 17 bass fest dam"
-        ],
-        "rating_count": 417,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1631851200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953598-tgttm_017.jpg",
         "cma_id": ""
     },
     {
