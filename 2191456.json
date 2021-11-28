@@ -93,6 +93,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1639889940,
+        "tms_id": "",
+        "description": "Elle's memories come flooding back, revealing the truth of what happened to her in the desert. Meanwhile, LAPD Officer Davis puts together the clues that will lead her to Black Lotus.",
+        "title_suggest": {
+            "input": [
+                "The Doll Hunt",
+                "Doll Hunt",
+                "Hunt"
+            ]
+        },
+        "title": "The Doll Hunt",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXru8vbSeTntnGIjub0w",
+        "duration": 1351.0163,
+        "episode_number": "4",
+        "original_air_date": "1638075600",
+        "auth_launch_date": 1638075600,
+        "clip_order": null,
+        "airing_id": "RADS1011252100046863",
+        "media_id": "c2bce8f86481b9055b610c172d99fc088dd7d9f1",
+        "modified": 1637853940,
+        "slug": "the-doll-hunt",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191144267-BladeRunnerBlackLotus_101_TheDollHunt.png",
+        "created": 1637010534,
+        "season_number": "1",
+        "title_id": "2191457",
+        "tv_rating": "tv-14-lv",
+        "published": 1637853940,
+        "tags": [],
+        "collection_title": "Blade Runner: Black Lotus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191144267-BladeRunnerBlackLotus_101_TheDollHunt.png",
+        "id": "AX0lbnDiUQa40cfnRSro",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1639285140,
         "tms_id": "EP040618320003",
         "description": "With help from the mysterious J, Elle learns more startling truths about nature of her identity\u2026",
