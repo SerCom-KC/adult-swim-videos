@@ -1,21 +1,23 @@
 {
-    "updated": 1638095601,
-    "added": [
+    "updated": 1638099203,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1647163740,
-            "tms_id": "EP034917240196",
-            "description": "The Allied Shinobi Forces begin their onslaught against Obito and Madara. But Ten Tails suddenly transforms and hurls powerful Tailed Beast Bombs toward distant towns.",
+            "auth_expiration_date": 1638098940,
+            "tms_id": "EP034917240108",
+            "description": "The Five Kage watch helplessly as Madara activates his Perfect Susano'o to destroy them.",
             "title_suggest": {
                 "input": [
-                    "The Ties That Bind",
-                    "Ties That Bind",
-                    "That Bind",
-                    "Bind"
+                    "I Will Love You Always",
+                    "Will Love You Always",
+                    "Love You Always",
+                    "You Always",
+                    "Always"
                 ]
             },
-            "title": "The Ties That Bind",
-            "expiration_date": null,
+            "title": "I Will Love You Always",
             "type": "episode",
+            "expiration_date": null,
             "platforms": [
                 "android",
                 "ios",
@@ -23,34 +25,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1313.4121,
-            "episode_number": "16",
-            "original_air_date": "1638082800",
-            "auth_launch_date": 1638095400,
+            "duration": 1312.3777,
+            "episode_number": "56",
+            "original_air_date": 1619938800,
+            "auth_launch_date": 1629023400,
             "clip_order": null,
-            "airing_id": "RADS1011252100046866",
-            "media_id": "4a456c1fc6d3237ad99bf07faace425ec156cc76",
-            "modified": 1637855746,
-            "slug": "the-ties-that-bind",
+            "airing_id": "RADS1008112100020334",
+            "media_id": "f3fce4f4a3fa838668eed45b42f1af40a04304bd",
+            "modified": 1637668619,
+            "slug": "i-will-love-you-always",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191149295-NarutoShippuden_364_TheTiesThatBind.png",
-            "created": 1637340584,
-            "season_number": "7",
-            "title_id": "2177793",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/1_214301449417-NarutoShippuden_339_IWillLoveYouAlways.png",
+            "created": 1619446017,
+            "title_id": "2177768",
+            "season_number": "6",
             "tv_rating": "tv-pg-v",
-            "published": 1637855746,
+            "published": 1637668619,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191149295-NarutoShippuden_364_TheTiesThatBind.png",
-            "id": "AX05GpjeUQa40cfnRSuC",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/2_214301449417-NarutoShippuden_339_IWillLoveYouAlways.png",
+            "id": "AXkOgS9-BH5Z6gH5aWOy",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
