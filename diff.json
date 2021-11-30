@@ -1,58 +1,6 @@
 {
-    "updated": 1638294924,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": 1638093540,
-            "tms_id": "EP037424930009",
-            "description": "In the two-on-two finale match of this culinary skirmish, Erina and Soma square off against Rindo and Tsukasa to make the best appetizer and main course combo!",
-            "title_suggest": {
-                "input": [
-                    "The First & Second Seats",
-                    "First & Second Seats",
-                    "& Second Seats",
-                    "Second Seats",
-                    "Seats"
-                ]
-            },
-            "title": "The First & Second Seats",
-            "type": "episode",
-            "expiration_date": 1638698340,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWuvYf7tCorLtcgflrvU",
-            "duration": 1349.1812,
-            "episode_number": "9",
-            "original_air_date": 1636266600,
-            "auth_launch_date": 1636279200,
-            "clip_order": null,
-            "airing_id": "RADS1011252100046868",
-            "media_id": "785e9f71706f18f11c36305b7d704575283e040b",
-            "modified": 1637853937,
-            "slug": "the-first-second-seats",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181524191-FoodWars_70_TheFirstAndSecondSeats.png",
-            "created": 1636134978,
-            "title_id": "2298594",
-            "season_number": "4",
-            "tv_rating": "tv-ma-s",
-            "published": 1637853937,
-            "tags": [],
-            "collection_title": "Food Wars!",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1638093600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181524191-FoodWars_70_TheFirstAndSecondSeats.png",
-            "id": "AXzxPoSwUQa40cfnRSj5",
-            "auth": false,
-            "collection_slug": "food-wars",
-            "collection_title_id": "2201017",
-            "online_exclusives": false
-        },
+    "updated": 1638295227,
+    "added": [
         {
             "auth_expiration_date": 1635668940,
             "tms_id": "EP036780850015",
@@ -104,5 +52,6 @@
             "collection_title_id": "2268280",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
