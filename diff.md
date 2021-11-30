@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 30, 2021 at 01:30:30 EST_
+_Last Update: November 30, 2021 at 06:30:28 EST_
 ## Video added
 ### Summary
-2194549 Gemusetto: 1  
-### 2241827
-**Gemusetto S02E02 - Episode Two: A# Minor**  
-TV-14-DLSV 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-two-a-minor  
-seriesid=`2194549` titleid=`2241827` id=`AXWVgV50LyLQBOXK_PZu` mediaid=`5e63a2388210d98ee3d18523decb1a77f692a8d6`  
-_The jazz battle between Makasu and the Egyptian goddess Maat is deadlocked until the River Styx shoves Charon down her throat. Will the afterlife convergence cause two different religions to merge their Musical Battle Robots?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177751
+**Naruto: Shippuden S06E39 - Madara Uchiha**  
+TV-PG 🔒 21:50  
+⌛ March 30, 2022 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/madara-uchiha  
+seriesid=`812206` titleid=`2177751` id=`AXaq-qSubxpjZvbXYluh` mediaid=`f5e0d7bbd093157e5214dd0da94ba682bb2227da`  
+_The reanimated shinobi appearing before Gaara and Ohnoki is revealed to be none other than Madara Uchiha himself._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171333513-NarutoShippuden_322_MadaraUchina.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_21171333513-NarutoShippuden_322_MadaraUchina.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
