@@ -62,7 +62,7 @@
         },
         "title": "How to Cook a Killer Dish",
         "type": "episode",
-        "expiration_date": 1639303140,
+        "expiration_date": 1638698340,
         "platforms": [
             "android",
             "ios",
@@ -75,9 +75,9 @@
         "original_air_date": 1636871400,
         "auth_launch_date": 1636884000,
         "clip_order": null,
-        "airing_id": "RADS1011302100048933",
+        "airing_id": "RADS1011102100044436",
         "media_id": "c81dbc64b9bf99b155e86d28d95292f1bfa2f744",
-        "modified": 1638294632,
+        "modified": 1638315624,
         "slug": "how-to-cook-a-killer-dish",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121012278-FoodWars_71_HowToCookAKillerDish.png",
@@ -85,15 +85,15 @@
         "title_id": "2298595",
         "season_number": "4",
         "tv_rating": "tv-ma-s",
-        "published": 1638294632,
+        "published": 1638315624,
         "tags": [],
         "collection_title": "Food Wars!",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1638698400,
+        "launch_date": 1636884000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121012278-FoodWars_71_HowToCookAKillerDish.png",
         "id": "AX0MAKOBUQa40cfnRSnn",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1639303140,
@@ -510,5 +510,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_21108119233-FoodWars_69_YourBestSide.png",
         "id": "AXxduWhBUQa40cfnRSQs",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1638093540,
+        "tms_id": "EP037424930009",
+        "description": "In the two-on-two finale match of this culinary skirmish, Erina and Soma square off against Rindo and Tsukasa to make the best appetizer and main course combo!",
+        "title_suggest": {
+            "input": [
+                "The First & Second Seats",
+                "First & Second Seats",
+                "& Second Seats",
+                "Second Seats",
+                "Seats"
+            ]
+        },
+        "title": "The First & Second Seats",
+        "type": "episode",
+        "expiration_date": 1638698340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 1349.1812,
+        "episode_number": "9",
+        "original_air_date": 1636266600,
+        "auth_launch_date": 1636279200,
+        "clip_order": null,
+        "airing_id": "RADS1011252100046868",
+        "media_id": "785e9f71706f18f11c36305b7d704575283e040b",
+        "modified": 1638315963,
+        "slug": "the-first-second-seats",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181524191-FoodWars_70_TheFirstAndSecondSeats.png",
+        "created": 1636134978,
+        "title_id": "2298594",
+        "season_number": "4",
+        "tv_rating": "tv-ma-s",
+        "published": 1638315963,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1638093600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181524191-FoodWars_70_TheFirstAndSecondSeats.png",
+        "id": "AXzxPoSwUQa40cfnRSj5",
+        "auth": false
     }
 ]
