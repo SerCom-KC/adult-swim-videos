@@ -149,6 +149,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465106555.jpg"
     },
     {
+        "ott_launch_date": 1521469860,
+        "auth": false,
+        "auth_expiration_date": 1623211140,
+        "tms_id": "EP018514630031",
+        "description": "When Mrs. Goodman confronts the parents of Tommy's bullies, they dump their out-of-control kids with her for the day.",
+        "title_suggest": {
+            "input": [
+                "Bullies"
+            ]
+        },
+        "expiration_date": 1638939540,
+        "type": "episode",
+        "title": "Bullies",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.75,
+        "episode_number": "8",
+        "original_air_date": 1521432900,
+        "auth_launch_date": 1620187200,
+        "clip_order": null,
+        "media_id": "248842cb0b264dae86250bf3f8e3a737e1e1df68",
+        "modified": 1638570716,
+        "airing_id": "RADS1010312100041120",
+        "id": "AWHX879KNWyh42wYnlDD",
+        "slug": "bullies",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15197465410168.jpg",
+        "created": 1519746531,
+        "season_number": "3",
+        "title_id": "2120613",
+        "tv_rating": "tv-ma-lsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1638570716,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1635912000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465410168.jpg"
+    },
+    {
         "ott_launch_date": 1520865060,
         "auth": true,
         "auth_expiration_date": 1640149140,
