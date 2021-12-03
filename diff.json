@@ -1,57 +1,57 @@
 {
-    "updated": 1638555442,
-    "added": [
+    "updated": 1638560422,
+    "added": [],
+    "removed": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1630900740,
-            "tms_id": "EP033701060002",
-            "description": "When Sheriff learns that he was once a bully to a long lost schoolmate, he sets out to right his wrong.",
+            "ott_launch_date": 1521469860,
+            "auth": false,
+            "auth_expiration_date": 1623211140,
+            "tms_id": "EP018514630031",
+            "description": "When Mrs. Goodman confronts the parents of Tommy's bullies, they dump their out-of-control kids with her for the day.",
             "title_suggest": {
                 "input": [
-                    "Smelly Glenn",
-                    "Glenn"
+                    "Bullies"
                 ]
             },
-            "title": "Smelly Glenn",
-            "expiration_date": 1638766740,
+            "expiration_date": 1638939540,
             "type": "episode",
+            "title": "Bullies",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "ott",
+                "roku"
             ],
-            "collection_id": "AW5moY7HadNs2hMNfuf_",
-            "duration": 673.21,
-            "episode_number": "2",
-            "original_air_date": 1574658000,
-            "auth_launch_date": 1627876800,
+            "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+            "duration": 677.75,
+            "episode_number": "8",
+            "original_air_date": 1521432900,
+            "auth_launch_date": 1620187200,
             "clip_order": null,
-            "media_id": "f5982effad1dfbbbef2d09371b873e08165905f6",
-            "modified": 1638555122,
-            "airing_id": "RADS1010272100040530",
-            "slug": "smelly-glenn",
+            "media_id": "248842cb0b264dae86250bf3f8e3a737e1e1df68",
+            "modified": 1635714923,
+            "airing_id": "RADS1010312100041120",
+            "id": "AWHX879KNWyh42wYnlDD",
+            "slug": "bullies",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
-            "created": 1573745609,
-            "season_number": "1",
-            "title_id": "2196568",
-            "tv_rating": "tv-ma-v",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15197465410168.jpg",
+            "created": 1519746531,
+            "season_number": "3",
+            "title_id": "2120613",
+            "tv_rating": "tv-ma-lsv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1638555122,
+            "published": 1635714923,
             "tags": [],
-            "collection_title": "Momma Named Me Sheriff",
+            "collection_title": "Mr. Pickles",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1635739200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
-            "id": "AW5qjExh1YiBSfg0KYe2",
-            "auth": false,
-            "collection_slug": "momma-named-me-sheriff",
-            "collection_title_id": "2196566",
+            "launch_date": 1635912000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465410168.jpg",
+            "collection_slug": "mr-pickles",
+            "collection_title_id": "2007539",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
