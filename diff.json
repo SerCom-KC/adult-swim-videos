@@ -1,18 +1,20 @@
 {
-    "updated": 1638421458,
+    "updated": 1638507685,
     "added": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1600315140,
+            "auth_expiration_date": 1636693140,
             "tms_id": "",
-            "description": "Eric takes in his troubled nephew Boro only to discover he's more than the Beef House could ever have expected.",
+            "description": "Using an emotiomoral X-ray device we provide a detailed history of these United States, starting from May of 1951 all the way up until tomorrow at 3:30.",
             "title_suggest": {
                 "input": [
-                    "Boro"
+                    "The Burn Earner Spits",
+                    "Burn Earner Spits",
+                    "Earner Spits",
+                    "Spits"
                 ]
             },
-            "title": "Boro",
-            "expiration_date": 1646283540,
+            "title": "The Burn Earner Spits",
+            "expiration_date": 1641531540,
             "type": "episode",
             "platforms": [
                 "android",
@@ -20,37 +22,86 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXA_fsNN3HMJfT8do8kA",
-            "duration": 675.5082,
-            "episode_number": "3",
-            "original_air_date": 1586751300,
-            "auth_launch_date": 1599710400,
+            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
+            "duration": 675.4081,
+            "episode_number": "1",
+            "original_air_date": "1589169600",
+            "auth_launch_date": 1633665600,
             "clip_order": null,
-            "media_id": "96daabbb4604112305b580ec915f0c56ea1e8be3",
-            "modified": 1638022890,
-            "airing_id": "RADS1011272100047075",
-            "slug": "boro",
+            "airing_id": "RADS1011282100047723",
+            "media_id": "9027ef60915070ddaf91651b3ecb146d2098ad02",
+            "modified": 1638199872,
+            "slug": "the-burn-earner-spits",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261638488-BeefHouse_101_dup-20200106.jpg",
-            "created": 1582753131,
-            "season_number": "1",
-            "title_id": "2215448",
-            "tv_rating": "tv-ma-l",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1638022890,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_20561048511-TheShiveringTruth_201_dup-20200207.jpg",
+            "created": 1588105551,
+            "season_number": "2",
+            "title_id": "2222975",
+            "tv_rating": "tv-ma-sv",
+            "published": 1638199872,
             "tags": [],
-            "collection_title": "Beef House",
+            "collection_title": "The Shivering Truth",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1638421200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261638488-BeefHouse_101_dup-20200106.jpg",
-            "id": "AXCDcC1z3HMJfT8do8yU",
+            "launch_date": 1638507600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561048511-TheShiveringTruth_201_dup-20200207.jpg",
+            "id": "AXHCd56rC8QgH-t19Ig-",
             "auth": false,
-            "collection_slug": "beef-house",
-            "collection_title_id": "2215447",
+            "collection_slug": "the-shivering-truth",
+            "collection_title_id": "2165429",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": 1638507540,
+            "tms_id": "EP029602990010",
+            "description": "Is man punishing herself for some perceived guilt?",
+            "title_suggest": {
+                "input": [
+                    "Beast of Both Worlds",
+                    "of Both Worlds",
+                    "Both Worlds",
+                    "Worlds"
+                ]
+            },
+            "title": "Beast of Both Worlds",
+            "expiration_date": 1635479940,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
+            "duration": 675.5082,
+            "episode_number": "4",
+            "original_air_date": "1585719900",
+            "auth_launch_date": 1635480000,
+            "clip_order": null,
+            "airing_id": "RADS1010252100039171",
+            "media_id": "ca654e61fffa16d196f2cbacf719599571dd7c7f",
+            "modified": 1635192492,
+            "slug": "beast-of-both-worlds",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_20561049366-TheShiveringTruth_204_dup-20200220.jpg",
+            "created": 1588776579,
+            "season_number": "2",
+            "title_id": "2222978",
+            "tv_rating": "tv-ma-sv",
+            "published": 1635192492,
+            "tags": [],
+            "collection_title": "The Shivering Truth",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1632456000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049366-TheShiveringTruth_204_dup-20200220.jpg",
+            "id": "AXHqdrM5Rs3h4hI_X3ZV",
+            "auth": true,
+            "collection_slug": "the-shivering-truth",
+            "collection_title_id": "2165429",
+            "online_exclusives": false
+        }
+    ]
 }
