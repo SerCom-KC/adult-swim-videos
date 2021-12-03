@@ -1,6 +1,120 @@
 {
-    "updated": 1638573261,
+    "updated": 1638575199,
     "added": [
+        {
+            "auth": false,
+            "ott_launch_date": 1447783980,
+            "auth_expiration_date": 1611118740,
+            "tms_id": "EP008994530013",
+            "rating": 7.681861,
+            "description": "A very special wooded episode of Tim and Eric Awesome Show, Great Job! (Zach Galifianakis, John C. Reilly, Al Yankovic)",
+            "title_suggest": {
+                "input": [
+                    "Forest"
+                ]
+            },
+            "type": "episode",
+            "title": "Forest",
+            "expiration_date": 1638939540,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+            "duration": 695.014,
+            "episode_number": "3",
+            "original_air_date": 1197868500,
+            "clip_order": null,
+            "auth_launch_date": 1608094800,
+            "modified": 1638574896,
+            "media_id": "f224751828a39972dc643abae8ef929e5675a98a",
+            "airing_id": "RADS1010312100041135",
+            "id": "Mz4nMiECRoeXeKSZvWFhJQ",
+            "slug": "forest",
+            "views": 535123,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116169229-timanderic_203.jpg",
+            "created": 1402945481,
+            "title_id": "691939",
+            "season_number": "2",
+            "tv_rating": "tv-ma",
+            "active": true,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1638574896,
+            "tags": [
+                "time and eric awesome show great job episode 13 forest zach galifianakis john c reilly steve brule al yankovic wood"
+            ],
+            "rating_count": 4256,
+            "collection_title": "Tim and Eric Awesome Show Great Job!",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1635912000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116169229-timanderic_203.jpg",
+            "cma_id": "1291207",
+            "collection_slug": "tim-and-eric-awesome-show-great-job",
+            "collection_title_id": "661208",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": false,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1610513940,
+            "tms_id": "EP002989350010",
+            "rating": 8.05091,
+            "description": "The new school nurse has everyone's attention. Coach McGuirk and Jason eye her as a love interest; Brendon sees her as his ticket to getting out of class.",
+            "title_suggest": {
+                "input": [
+                    "School Nurse",
+                    "Nurse"
+                ]
+            },
+            "type": "episode",
+            "title": "School Nurse",
+            "expiration_date": 1638939540,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+            "duration": 1359.7007007,
+            "episode_number": "10",
+            "original_air_date": 1001901600,
+            "clip_order": null,
+            "auth_launch_date": 1607490000,
+            "modified": 1638571297,
+            "media_id": "c31b943c1bfeaa905140bbbe4eec5e36dac32479",
+            "airing_id": "RADS1010312100041101",
+            "id": "gG60M_rTSLio-Eo3unyvxQ",
+            "slug": "school-nurse",
+            "views": 328762,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035164358-hmovies_010.jpg",
+            "created": 1402945467,
+            "title_id": "344126",
+            "season_number": "1",
+            "tv_rating": "tv-pg",
+            "active": true,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1638571297,
+            "tags": [
+                "home movies school nurse episode 10"
+            ],
+            "rating_count": 707,
+            "collection_title": "Home Movies",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1635912000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035164358-hmovies_010.jpg",
+            "cma_id": "",
+            "collection_slug": "home-movies",
+            "collection_title_id": "344089",
+            "online_exclusives": false
+        },
         {
             "auth": false,
             "ott_launch_date": 1447450560,
@@ -28,7 +142,7 @@
             "original_air_date": 1305518400,
             "clip_order": null,
             "auth_launch_date": 1616558400,
-            "modified": 1638573089,
+            "modified": 1638574876,
             "media_id": "b581ec00431f5499de54473925c062ab15cb54f0",
             "airing_id": "RADS1010312100041140",
             "id": "9Sh7KDFiQvS0V2h8EyNNYg",
@@ -43,7 +157,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1638573089,
+            "published": 1638574876,
             "tags": [],
             "rating_count": 991,
             "collection_title": "Superjail!",
@@ -54,64 +168,6 @@
             "cma_id": "840322",
             "collection_slug": "superjail",
             "collection_title_id": "666506",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": 1446738360,
-            "auth_expiration_date": 1621396740,
-            "tms_id": "EP013120360014",
-            "rating": 7.604651,
-            "description": "Brett's cherished bezoar turns out to be more than he bargained for.",
-            "title_suggest": {
-                "input": [
-                    "Bringing Up Beezor",
-                    "Up Beezor",
-                    "Beezor"
-                ]
-            },
-            "type": "episode",
-            "title": "Bringing Up Beezor",
-            "expiration_date": 1638939540,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-            "duration": 676.2669336,
-            "episode_number": "2",
-            "original_air_date": 1334894400,
-            "clip_order": null,
-            "auth_launch_date": 1618372800,
-            "modified": 1638571897,
-            "media_id": "55465e2ac41f4fb15b41b1fba377aa86ec4b471a",
-            "airing_id": "RADS1010312100041107",
-            "id": "fJDgR6kcR72usddjQRtZLw",
-            "slug": "bringing-up-beezor",
-            "views": 13565,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341549180-eagleheart_205_bim.jpg",
-            "created": 1402945464,
-            "title_id": "892250",
-            "season_number": "2",
-            "tv_rating": "tv-14-dlv",
-            "active": true,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1638571897,
-            "tags": [],
-            "rating_count": 43,
-            "collection_title": "Eagleheart",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1635912000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341549180-eagleheart_205_bim.jpg",
-            "cma_id": "1373616",
-            "collection_slug": "eagleheart",
-            "collection_title_id": "828246",
             "online_exclusives": false
         }
     ]
