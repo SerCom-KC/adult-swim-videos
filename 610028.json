@@ -390,7 +390,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1638766740,
         "tms_id": "EP007753880010",
@@ -404,7 +404,7 @@
         },
         "type": "episode",
         "title": "Granddad's Fight",
-        "expiration_date": 1638766740,
+        "expiration_date": 1639371540,
         "platforms": [
             "web",
             "mobile"
@@ -415,9 +415,9 @@
         "original_air_date": 1133150400,
         "clip_order": null,
         "auth_launch_date": 1638162000,
-        "modified": 1638557501,
+        "modified": 1638558398,
         "media_id": "db0fd7d1fcbbefd4e7371d0819af8025b10e9de1",
-        "airing_id": "RADS1011262100046952",
+        "airing_id": "RADS1012032100051088",
         "id": "GC_Q8yDjTlCIIjKWhpz54A",
         "slug": "granddads-fight",
         "views": 709150,
@@ -430,7 +430,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1638557501,
+        "published": 1638558398,
         "tags": [
             "boondocks episode 4 granddad's fight colonel stinkmeaner blind chair beef nigga moment"
         ],
@@ -438,7 +438,7 @@
         "collection_title": "The Boondocks",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1638162000,
+        "launch_date": 1638766800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321115532-boondocks_104.jpg",
         "cma_id": "1008232"
     },
