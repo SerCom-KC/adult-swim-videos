@@ -310,7 +310,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1492439400,
         "auth_expiration_date": 1639112340,
         "tms_id": "EP004517020107",
@@ -320,7 +320,7 @@
                 "XCVI"
             ]
         },
-        "expiration_date": 1642136340,
+        "expiration_date": 1639112340,
         "title": "XCVI",
         "type": "episode",
         "platforms": [
@@ -335,9 +335,9 @@
         "original_air_date": 1492311600,
         "clip_order": null,
         "auth_launch_date": 1636084800,
-        "modified": 1638771730,
+        "modified": 1638780800,
         "media_id": "06a33b0ccc490a6004bcd9c597e0b912b672e60d",
-        "airing_id": "RADS1012032100051353",
+        "airing_id": "RADS1010312100041323",
         "id": "Vw2oPFVGSK2wTxwGIen0Cg",
         "slug": "xcvi",
         "views": 40412,
@@ -350,13 +350,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1638771730,
+        "published": 1638780800,
         "first_published": 1492002622,
         "tags": [],
         "collection_title": "Samurai Jack",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1639112400,
+        "launch_date": 1636084800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471430196-samjack_096_dup-20170411.jpg",
         "cma_id": "2115096"
     },
