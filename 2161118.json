@@ -1492,7 +1492,7 @@
         "launch_date": 1638768600,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121020101-JoePeraTalksWithYou_303_JoePeraShowsYouHisSecondFridge.png",
         "id": "AX0RMdUY4Xbjep71f6Hd",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1638769440,
@@ -1542,6 +1542,60 @@
         "launch_date": 1636955100,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png",
         "id": "AX0RMeXeUQa40cfnRSoN",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "EP029506900033",
+        "description": "Joe Pera shows you how to stay busy enough on a winter weekend that the winter won't settle inside.",
+        "title_suggest": {
+            "input": [
+                "Joe Pera Shows You How to Keep Functioning in Mid-Late Winter",
+                "Pera Shows You How to Keep Functioning in Mid-Late Winter",
+                "Shows You How to Keep Functioning in Mid-Late Winter",
+                "You How to Keep Functioning in Mid-Late Winter",
+                "How to Keep Functioning in Mid-Late Winter",
+                "to Keep Functioning in Mid-Late Winter",
+                "Keep Functioning in Mid-Late Winter",
+                "Functioning in Mid-Late Winter",
+                "in Mid-Late Winter",
+                "Mid-Late Winter",
+                "Winter"
+            ]
+        },
+        "title": "Joe Pera Shows You How to Keep Functioning in Mid-Late Winter",
+        "expiration_date": 1640582940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWK7V5RwTdxzjxdClXz8",
+        "duration": 675.3747,
+        "episode_number": "7",
+        "original_air_date": "1638768600",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1012032100051156",
+        "media_id": "24006dce8672fecfef960d863bb7b1c2a4421885",
+        "modified": 1638569524,
+        "slug": "joe-pera-shows-you-how-to-keep-functioning-in-mid-late-winter",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/1_21123956124-JoePeraTalksWithYou_307_JoePeraShowsYouHowToKeepFunctioningInMidLateWinter.png",
+        "created": 1638543389,
+        "season_number": "3",
+        "title_id": "2298523",
+        "tv_rating": "tv-14-l",
+        "published": 1638569524,
+        "tags": [],
+        "collection_title": "Joe Pera Talks With You",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1638768600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123956124-JoePeraTalksWithYou_307_JoePeraShowsYouHowToKeepFunctioningInMidLateWinter.png",
+        "id": "AX2Ay_IbUQa40cfnRS17",
         "auth": false
     },
     {
