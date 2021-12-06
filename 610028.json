@@ -737,9 +737,9 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1634529540,
+        "auth_expiration_date": 1639371540,
         "tms_id": "EP007753880006",
         "rating": 6.89894,
         "description": "Riley's favorite rapper Gangstalicious is shot and hospitalized in Woodcrest. When he goes to visit the rapper he finds more than he anticipated... like maybe rappers that make songs like \"Thugin' Luv\" aren't necessarily as tough as they seem. Go figure.",
@@ -753,7 +753,7 @@
         },
         "type": "episode",
         "title": "The Story of Gangstalicious",
-        "expiration_date": 1639371540,
+        "expiration_date": null,
         "platforms": [
             "web",
             "mobile"
@@ -763,8 +763,8 @@
         "episode_number": "7",
         "original_air_date": 1134360000,
         "clip_order": null,
-        "auth_launch_date": 1633924800,
-        "modified": 1638558696,
+        "auth_launch_date": 1638766800,
+        "modified": 1638830373,
         "media_id": "18780f6d90cb593c768bb9cb92ad6e750417f95f",
         "airing_id": "RADS1012032100051104",
         "id": "ZZnkZl_tROe7h3ONeGJgOg",
@@ -779,15 +779,15 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1638558696,
+        "published": 1638830373,
         "tags": [
             "boondocks episode 7 story of gangstalicious riley rapper hospital gay thugin luv"
         ],
         "rating_count": 5650,
         "collection_title": "The Boondocks",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638766800,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032111704-boondocks_107.jpg",
         "cma_id": ""
     },
