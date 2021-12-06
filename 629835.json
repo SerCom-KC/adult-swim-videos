@@ -1,8 +1,8 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1520658000,
+        "auth_expiration_date": 1639025940,
         "tms_id": "EP002070020114",
         "description": "When Dale is ridiculed by the Arlen Gun Club for accidentally misfiring a weapon, his friends must come up with a plan to help restore Dale's self-esteem.",
         "title_suggest": {
@@ -12,7 +12,7 @@
                 "Misfortune"
             ]
         },
-        "expiration_date": 1639025940,
+        "expiration_date": null,
         "title": "Soldier of Misfortune",
         "type": "episode",
         "platforms": [
@@ -24,13 +24,14 @@
         "episode_number": "2",
         "original_air_date": 1233286200,
         "clip_order": null,
-        "auth_launch_date": 1520139600,
-        "modified": 1638382546,
+        "auth_launch_date": 1638421200,
+        "modified": 1638812831,
         "media_id": "10eb77cf0de2acf00418ae3d28dfccca01c238b6",
         "airing_id": "RADS1012012100050071",
         "id": "x9U1HR6STrCrukIN4AW9NQ",
         "slug": "soldier-of-misfortune",
         "views": 5655,
+        "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151984617449614.jpg",
         "created": 1403630622,
         "season_number": "6",
@@ -39,12 +40,13 @@
         "active": false,
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1638382546,
+        "published": 1638812831,
         "first_published": 1418872827,
         "tags": [],
         "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1638421200,
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984617449614.jpg",
         "cma_id": "1469907"
     }
