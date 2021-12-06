@@ -2746,7 +2746,7 @@
             ]
         },
         "title": "Zen and the Art of Truck-Boat-Truck Maintenance",
-        "expiration_date": 1639371540,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -2762,7 +2762,7 @@
         "clip_order": null,
         "airing_id": "RADS1011192100045860",
         "media_id": "d1be415ea39d65352bbe627fbf1cc10f00021699",
-        "modified": 1638567327,
+        "modified": 1638801391,
         "slug": "zen-and-the-art-of-truck-boat-truck-maintenance",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png",
@@ -2770,15 +2770,15 @@
         "season_number": "13",
         "title_id": "2323126",
         "tv_rating": "tv-14-dlsv",
-        "published": 1638567327,
+        "published": 1638801391,
         "tags": [],
         "collection_title": "Squidbillies",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1637557200,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png",
         "id": "AX05EfIH4Xbjep71f6Hg",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1639372440,
@@ -2790,7 +2790,7 @@
             ]
         },
         "title": "Who-Gives-A-Flip?",
-        "expiration_date": 1639372440,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -2806,7 +2806,7 @@
         "clip_order": null,
         "airing_id": "RADS1011192100045861",
         "media_id": "50db4d9c0ba7141556364b11e13a7462ec0c832b",
-        "modified": 1638567327,
+        "modified": 1638801375,
         "slug": "who-gives-a-flip",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_211119114173-Squidbillies_1104_WhoGivesAFlip.png",
@@ -2814,14 +2814,63 @@
         "season_number": "13",
         "title_id": "2323128",
         "tv_rating": "tv-14-dlsv",
-        "published": 1638567327,
+        "published": 1638801375,
         "tags": [],
         "collection_title": "Squidbillies",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1637558100,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114173-Squidbillies_1104_WhoGivesAFlip.png",
         "id": "AX05Eu-d4Xbjep71f6Hh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1638767640,
+        "tms_id": "EP007008180132",
+        "description": "Early LARPs as a military veteran to save 10% on an omelet.",
+        "title_suggest": {
+            "input": [
+                "Scorn on the 4th of July",
+                "on the 4th of July",
+                "the 4th of July",
+                "4th of July",
+                "of July",
+                "July"
+            ]
+        },
+        "title": "Scorn on the 4th of July",
+        "type": "episode",
+        "expiration_date": 1641186840,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 676.676,
+        "episode_number": "4",
+        "original_air_date": 1636953300,
+        "auth_launch_date": 1636953300,
+        "clip_order": null,
+        "airing_id": "RADS1011112100045023",
+        "media_id": "21f8d165e9b642b316b3e046fe5b2b30ff4d16a5",
+        "modified": 1638801449,
+        "slug": "scorn-on-the-4th-of-july",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png",
+        "created": 1636671011,
+        "title_id": "2323130",
+        "season_number": "13",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1638801449,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1638767700,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png",
+        "id": "AX0RMbj4UQa40cfnRSoM",
         "auth": false
     },
     {
@@ -2872,7 +2921,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": null,
+        "auth_expiration_date": 1640581200,
         "tms_id": "EP007008180133",
         "description": "Terror strikes from the skies! Who's next? Hoo!",
         "title_suggest": {
@@ -2882,7 +2931,7 @@
             ]
         },
         "title": "Ol' Hootie",
-        "expiration_date": 1640581140,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -2894,11 +2943,11 @@
         "duration": 1343.342,
         "episode_number": "7",
         "original_air_date": "1638766800",
-        "auth_launch_date": null,
+        "auth_launch_date": 1638766800,
         "clip_order": null,
         "airing_id": "RADS1012032100051159",
         "media_id": "1a2ac7b8547e428e61d0c423ba4c68e49ffcce4f",
-        "modified": 1638651256,
+        "modified": 1638801237,
         "slug": "ol-hootie",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/1_21123954526-Squidbillies_11071108_OlHootie.png",
@@ -2906,15 +2955,15 @@
         "season_number": "13",
         "title_id": "2323131",
         "tv_rating": "tv-14-dlv",
-        "published": 1638651256,
+        "published": 1638801237,
         "tags": [],
         "collection_title": "Squidbillies",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638766800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123954526-Squidbillies_11071108_OlHootie.png",
         "id": "AX2AytJjUQa40cfnRS16",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,

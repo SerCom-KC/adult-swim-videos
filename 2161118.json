@@ -1360,7 +1360,7 @@
             ]
         },
         "title": "Joe Pera Discusses School-Appropriate Entertainment With You",
-        "expiration_date": 1639373340,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -1376,7 +1376,7 @@
         "clip_order": null,
         "airing_id": "RADS1011192100045862",
         "media_id": "2dcadf8635c0979ed2f677df5e6bed3f87ae8a73",
-        "modified": 1638567373,
+        "modified": 1638801976,
         "slug": "joe-pera-discusses-school-appropriate-entertainment-with-you",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191142159-JoePeraTalksWithYou_305_JoePeraDiscussesSchoolAppropriateEntertainment.png",
@@ -1384,15 +1384,15 @@
         "season_number": "3",
         "title_id": "2298521",
         "tv_rating": "tv-14-l",
-        "published": 1638567373,
+        "published": 1638801976,
         "tags": [],
         "collection_title": "Joe Pera Talks With You",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1637559000,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191142159-JoePeraTalksWithYou_305_JoePeraDiscussesSchoolAppropriateEntertainment.png",
         "id": "AX05E-yE4Xbjep71f6Hi",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1639374240,
@@ -1410,7 +1410,7 @@
             ]
         },
         "title": "Joe Pera Takes You for a Flight",
-        "expiration_date": 1639374240,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -1426,7 +1426,7 @@
         "clip_order": null,
         "airing_id": "RADS1011192100045863",
         "media_id": "a4e795cb6673452635adef6ee8d8fdfb3cb47f41",
-        "modified": 1638567374,
+        "modified": 1638801963,
         "slug": "joe-pera-takes-you-for-a-flight",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_211119114330-JoePeraTalksWithYou_306_JoePeraTakesYouForAFlight.png",
@@ -1434,15 +1434,15 @@
         "season_number": "3",
         "title_id": "2298522",
         "tv_rating": "tv-14-l",
-        "published": 1638567374,
+        "published": 1638801963,
         "tags": [],
         "collection_title": "Joe Pera Talks With You",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1637559900,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114330-JoePeraTalksWithYou_306_JoePeraTakesYouForAFlight.png",
         "id": "AX05FLdv4Xbjep71f6Hj",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1638768540,
@@ -1495,7 +1495,57 @@
         "auth": false
     },
     {
-        "auth_expiration_date": null,
+        "auth_expiration_date": 1638769440,
+        "tms_id": "EP029506900030",
+        "description": "Joe Pera and you stay up late on a weeknight, listening to his girlfriend Sarah share details from Wine Night.",
+        "title_suggest": {
+            "input": [
+                "Joe Pera Listens to Your Drunk Story",
+                "Pera Listens to Your Drunk Story",
+                "Listens to Your Drunk Story",
+                "to Your Drunk Story",
+                "Your Drunk Story",
+                "Drunk Story",
+                "Story"
+            ]
+        },
+        "title": "Joe Pera Listens to Your Drunk Story",
+        "type": "episode",
+        "expiration_date": 1641187740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWK7V5RwTdxzjxdClXz8",
+        "duration": 668.668,
+        "episode_number": "4",
+        "original_air_date": 1636955100,
+        "auth_launch_date": 1636955100,
+        "clip_order": null,
+        "airing_id": "RADS1011112100045035",
+        "media_id": "655cd2064e43c67e137abfff7bd16d88d9dff2a5",
+        "modified": 1638802039,
+        "slug": "joe-pera-listens-to-your-drunk-story",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png",
+        "created": 1636671022,
+        "title_id": "2298520",
+        "season_number": "3",
+        "tv_rating": "tv-14-dl",
+        "published": 1638802039,
+        "tags": [],
+        "collection_title": "Joe Pera Talks With You",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1638769500,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png",
+        "id": "AX0RMeXeUQa40cfnRSoN",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1640582940,
         "tms_id": "EP029506900033",
         "description": "Joe Pera shows you how to stay busy enough on a winter weekend that the winter won't settle inside.",
         "title_suggest": {
@@ -1514,7 +1564,7 @@
             ]
         },
         "title": "Joe Pera Shows You How to Keep Functioning in Mid-Late Winter",
-        "expiration_date": 1640582940,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -1526,11 +1576,11 @@
         "duration": 675.3747,
         "episode_number": "7",
         "original_air_date": "1638768600",
-        "auth_launch_date": null,
+        "auth_launch_date": 1638768600,
         "clip_order": null,
         "airing_id": "RADS1012032100051156",
         "media_id": "24006dce8672fecfef960d863bb7b1c2a4421885",
-        "modified": 1638569524,
+        "modified": 1638801925,
         "slug": "joe-pera-shows-you-how-to-keep-functioning-in-mid-late-winter",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/1_21123956124-JoePeraTalksWithYou_307_JoePeraShowsYouHowToKeepFunctioningInMidLateWinter.png",
@@ -1538,18 +1588,18 @@
         "season_number": "3",
         "title_id": "2298523",
         "tv_rating": "tv-14-l",
-        "published": 1638569524,
+        "published": 1638801925,
         "tags": [],
         "collection_title": "Joe Pera Talks With You",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638768600,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123956124-JoePeraTalksWithYou_307_JoePeraShowsYouHowToKeepFunctioningInMidLateWinter.png",
         "id": "AX2Ay_IbUQa40cfnRS17",
-        "auth": false
+        "auth": true
     },
     {
-        "auth_expiration_date": null,
+        "auth_expiration_date": 1640583840,
         "tms_id": "EP029506900034",
         "description": "You and Joe Pera consider legacy and loss while watching playoff football with the extended Melsky family.",
         "title_suggest": {
@@ -1564,7 +1614,7 @@
             ]
         },
         "title": "Joe Pera Talks With You About Legacy",
-        "expiration_date": 1640583840,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -1576,11 +1626,11 @@
         "duration": 647.7137,
         "episode_number": "8",
         "original_air_date": "1638769500",
-        "auth_launch_date": null,
+        "auth_launch_date": 1638769500,
         "clip_order": null,
         "airing_id": "RADS1012032100051160",
         "media_id": "b5a6b450585322d19c54df4f31cfcbeac4958339",
-        "modified": 1638569523,
+        "modified": 1638801906,
         "slug": "joe-pera-talks-with-you-about-legacy",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/1_2112395721-JoePeraTalksWIthYou_308_JoePeraTalksWithYouAboutLegacy.png",
@@ -1588,15 +1638,15 @@
         "season_number": "3",
         "title_id": "2298524",
         "tv_rating": "tv-14",
-        "published": 1638569523,
+        "published": 1638801906,
         "tags": [],
         "collection_title": "Joe Pera Talks With You",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638769500,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_2112395721-JoePeraTalksWIthYou_308_JoePeraTalksWithYouAboutLegacy.png",
         "id": "AX2AzKOMUQa40cfnRS18",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,

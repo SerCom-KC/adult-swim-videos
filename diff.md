@@ -2,33 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 6, 2021 at 09:30:27 EST_
+_Last Update: December 6, 2021 at 10:00:29 EST_
 ## Video added
 ### Summary
-2013506 Rick and Morty: 3  
-### 2270466
-**Rick and Morty S05E09 - Forgetting Sarick Mortshall**  
-TV-14-LV 🔓 23:06  
-⌛ December 15, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/forgetting-sarick-mortshall  
-seriesid=`2013506` titleid=`2270466` id=`AXun7GUP4Xbjep71f6Gt` mediaid=`e808ed5f19d6895f5d32e9e22126e6b515a8e9a7`  
-_Two Crows, broh. These guys are mad smart._  
-<a href="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png"><img src="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png" height="144px" /></a>
-### 2270467
-**Rick and Morty S05E10 - Rickmurai Jack**  
-TV-14-DLV 🔓 23:53  
-⌛ December 15, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/rickmurai-jack  
-seriesid=`2013506` titleid=`2270467` id=`AXun7SS-4Xbjep71f6Gu` mediaid=`47e38bd6cfd4fed35f3ec228ca5109ec49584135`  
-_Tryin something new broh. Doin it big._  
-<a href="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png"><img src="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png" height="144px" /></a>
-### 2270465
-**Rick and Morty S05E08 - Rickternal Friendshine of the Spotless Mort**  
-TV-14-DLV 🔓 23:38  
-⌛ December 15, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/rickternal-friendshine-of-the-spotless-mort  
-seriesid=`2013506` titleid=`2270465` id=`AXsbnTrbeTntnGIjub07` mediaid=`8d01191a5cacfe28ac0e163c5355807f6f8bba0d`  
-_Friendship is hard. It's like a journey of the mind, broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20210806/thumbnails/2_2186105552-RickAndMorty_508_RickternalFriendshineOfTheSpotlessMort.png"><img src="https://media.cdn.adultswim.com/uploads/20210806/thumbnails/2_2186105552-RickAndMorty_508_RickternalFriendshineOfTheSpotlessMort.png" height="144px" /></a>
+2161118 Joe Pera Talks With You: 1  
+581268 Squidbillies: 1  
+### 2298520
+**Joe Pera Talks With You S03E04 - Joe Pera Listens to Your Drunk Story**  
+TV-14-DL 🔓 11:08  
+⌛ January 3, 2022 at 00:29:00 EST  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-listens-to-your-drunk-story  
+seriesid=`2161118` titleid=`2298520` id=`AX0RMeXeUQa40cfnRSoN` mediaid=`655cd2064e43c67e137abfff7bd16d88d9dff2a5`  
+_Joe Pera and you stay up late on a weeknight, listening to his girlfriend Sarah share details from Wine Night._  
+<a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png" height="144px" /></a>
+### 2323130
+**Squidbillies S13E04 - Scorn on the 4th of July**  
+TV-14-DLSV 🔓 11:16  
+⌛ January 3, 2022 at 00:14:00 EST  
+https://www.adultswim.com/videos/squidbillies/scorn-on-the-4th-of-july  
+seriesid=`581268` titleid=`2323130` id=`AX0RMbj4UQa40cfnRSoM` mediaid=`21f8d165e9b642b316b3e046fe5b2b30ff4d16a5`  
+_Early LARPs as a military veteran to save 10% on an omelet._  
+<a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
