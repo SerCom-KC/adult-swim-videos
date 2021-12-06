@@ -2,43 +2,35 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 6, 2021 at 01:00:26 EST_
+_Last Update: December 6, 2021 at 01:30:26 EST_
 ## Video added
 ### Summary
 2020945 Attack on Titan: 1  
-2161118 Joe Pera Talks With You: 2  
-### 2020957
-**Attack on Titan S01E12 - Wound: The Struggle for Trost, Part 8**  
-TV-14-LV 🔓 22:21  
+2140484 Tropical Cop Tales: 1  
+691917 Xavier: Renegade Angel: 1  
+### 2170506
+**Attack on Titan S03E12 - Night of the Battle to Retake the Wall**  
+ 🔓 23:06  
 ⌛ December 9, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/attack-on-titan/wound-the-struggle-for-trost-part-8  
-seriesid=`2020945` titleid=`2020957` id=`iun2_XAXSG-bTakzQsLPqg` mediaid=`787799ce48f1f6980f5463c625d3a32436f197ed`  
-_The plan to reclaim Trost falls apart when Eren's newfound powers turn him into a mindless giant. As Titans continue to swarm the city, it's up to Armin and Mikasa to make sure the cadets massacred during the mission haven't died in vain._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225123135-attackontitan_012.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225123135-attackontitan_012.jpg" height="144px" /></a>
-### 2298523
-**Joe Pera Talks With You S03E07 - Joe Pera Shows You How to Keep Functioning in Mid-Late Winter**  
-TV-14-L 🔓 11:15  
-⌛ December 27, 2021 at 00:29:00 EST  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-shows-you-how-to-keep-functioning-in-mid-late-winter  
-seriesid=`2161118` titleid=`2298523` id=`AX2Ay_IbUQa40cfnRS17` mediaid=`24006dce8672fecfef960d863bb7b1c2a4421885`  
-_Joe Pera shows you how to stay busy enough on a winter weekend that the winter won't settle inside._  
-<a href="https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123956124-JoePeraTalksWithYou_307_JoePeraShowsYouHowToKeepFunctioningInMidLateWinter.png"><img src="https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123956124-JoePeraTalksWithYou_307_JoePeraShowsYouHowToKeepFunctioningInMidLateWinter.png" height="144px" /></a>
-### 2298524
-**Joe Pera Talks With You S03E08 - Joe Pera Talks With You About Legacy**  
-TV-14 🔓 10:47  
-⌛ December 27, 2021 at 00:44:00 EST  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-talks-with-you-about-legacy  
-seriesid=`2161118` titleid=`2298524` id=`AX2AzKOMUQa40cfnRS18` mediaid=`b5a6b450585322d19c54df4f31cfcbeac4958339`  
-_You and Joe Pera consider legacy and loss while watching playoff football with the extended Melsky family._  
-<a href="https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_2112395721-JoePeraTalksWIthYou_308_JoePeraTalksWithYouAboutLegacy.png"><img src="https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_2112395721-JoePeraTalksWIthYou_308_JoePeraTalksWithYouAboutLegacy.png" height="144px" /></a>
+https://www.adultswim.com/videos/attack-on-titan/night-of-the-battle-to-retake-the-wall  
+seriesid=`2020945` titleid=`2170506` id=`AWbu1YiT3OEkyfT4qJSV` mediaid=`608be5ae267d143817f24cbc76d313f6cca566e8`  
+_The Scouts enjoy a feast before retaking Wall Maria. They'll soon uncover what's hidden within the basement, once and for all._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg" height="144px" /></a>
+### 2184451
+**Tropical Cop Tales S01E02 - The Scalp Collector**  
+TV-MA-L 🔓 11:17  
+⌛ December 9, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/tropical-cop-tales/the-scalp-collector  
+seriesid=`2140484` titleid=`2184451` id=`AWihxVDRHl5gR6828yMB` mediaid=`841b11733a0ae7cc2665ed45b609215164d2fc8f`  
+_A mad cannibal is tearing scalps from the island's skulls. And deep-frying them. And serving them as delicious crudités. He. Must. Be. Stopped._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895679255920.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895679255920.jpg" height="144px" /></a>
+### 693205
+**Xavier: Renegade Angel S01E10 - Shakashuri Blowdown**  
+TV-MA-V 🔓 11:31  
+⌛ December 9, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/xavier-renegade-angel/shakashuri-blowdown  
+seriesid=`691917` titleid=`693205` id=`xcvEocTsRN-0cFVFMBEHWg` mediaid=`f3decd5299cbb4b96d187a66853fd83d5a052e9c`  
+_And so the final chapter begends when Xavier meets his match._  
+<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114173039-xavier_110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114173039-xavier_110.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-2161118 Joe Pera Talks With You: 1  
-### 2298520
-**Joe Pera Talks With You S03E04 - Joe Pera Listens to Your Drunk Story**  
-TV-14-DL 🔓 11:08  
-⌛ December 6, 2021 at 00:44:00 EST  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-listens-to-your-drunk-story  
-seriesid=`2161118` titleid=`2298520` id=`AX0RMeXeUQa40cfnRSoN` mediaid=`655cd2064e43c67e137abfff7bd16d88d9dff2a5`  
-_Joe Pera and you stay up late on a weeknight, listening to his girlfriend Sarah share details from Wine Night._  
-<a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png" height="144px" /></a>
+No videos were removed.  
