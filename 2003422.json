@@ -343,7 +343,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1633233540,
+        "auth_expiration_date": 1639457940,
         "tms_id": "EP012792980152",
         "description": "The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods.",
         "title_suggest": {
@@ -356,7 +356,7 @@
             ]
         },
         "title": "Go Tina on the Mountain",
-        "expiration_date": 1639457940,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -368,10 +368,10 @@
         "duration": 1301.87,
         "episode_number": "15",
         "original_air_date": 1548642600,
-        "auth_launch_date": 1632628800,
+        "auth_launch_date": 1638853200,
         "clip_order": null,
         "media_id": "8a20666d1f8598cd129fa16e06bfb0f56b6d4342",
-        "modified": 1638571297,
+        "modified": 1638900729,
         "airing_id": "RADS1012032100051189",
         "slug": "go-tina-on-the-mountain",
         "exclude_from_search": false,
@@ -382,14 +382,15 @@
         "tv_rating": "tv-pg-l",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1638571297,
+        "published": 1638900729,
         "tags": [],
         "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1638853200,
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg",
         "id": "AWgad-OgzQU7gEG1jvbP",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
