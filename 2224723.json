@@ -326,7 +326,7 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1635739140,
+        "auth_expiration_date": 1640581140,
         "tms_id": "EP034814970002",
         "description": "Rachel and Sarah head to the outback town of Goondawindi for the annual Dusty Truck 'n' Donut Muster, lured by the chance to win a meat tray and a glimpse of Trent, the star of TV's 'Outback Trent'.",
         "title_suggest": {
@@ -341,7 +341,7 @@
         },
         "title": "The Dusty Truck 'n' Donut Muster",
         "type": "episode",
-        "expiration_date": 1640581140,
+        "expiration_date": null,
         "platforms": [
             "android",
             "ios",
@@ -352,11 +352,11 @@
         "duration": 669.3353,
         "episode_number": "2",
         "original_air_date": 1597032900,
-        "auth_launch_date": 1633924800,
+        "auth_launch_date": 1638766800,
         "clip_order": null,
         "airing_id": "RADS1012032100051133",
         "media_id": "1e9fd0f84cd52731a7dea8f2c70bb4c390e89284",
-        "modified": 1638565023,
+        "modified": 1638893868,
         "slug": "the-dusty-truck-n-donut-muster",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20210119/thumbnails/1_21119154475-YOLO_102_dup-20200722.jpg",
@@ -364,14 +364,14 @@
         "title_id": "2224725",
         "season_number": "1",
         "tv_rating": "tv-14-dlsv",
-        "published": 1638565023,
+        "published": 1638893868,
         "tags": [],
         "collection_title": "YOLO Crystal Fantasy",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638766800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210119/thumbnails/2_21119154475-YOLO_102_dup-20200722.jpg",
         "id": "AXSiWtBmLyLQBOXK_POP",
-        "auth": false
+        "auth": true
     }
 ]
