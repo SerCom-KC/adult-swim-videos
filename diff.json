@@ -1,55 +1,53 @@
 {
-    "updated": 1638986795,
-    "added": [
+    "updated": 1638987141,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1642309140,
-            "tms_id": "EP036530620012",
-            "description": "Bendy Rivers becomes cosmically self-destructive as he hurdles through hells and his family mourns their loss. But how will he cope with realizing his enemy is actually trying to save the universe?",
+            "auth_expiration_date": null,
+            "tms_id": "SH014135410000",
+            "description": "The Moon is an egg.",
             "title_suggest": {
                 "input": [
-                    "Episode Twelve: Ab7#11",
-                    "Twelve: Ab7#11",
-                    "Ab7#11"
+                    "Moon"
                 ]
             },
-            "title": "Episode Twelve: Ab7#11",
-            "expiration_date": 1639285140,
+            "title": "Moon",
             "type": "episode",
+            "expiration_date": 1642136340,
             "platforms": [
                 "android",
                 "ios",
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWnYBNDcHl5gR6828zAp",
-            "duration": 667.9006,
-            "episode_number": "12",
-            "original_air_date": "1608531300",
-            "auth_launch_date": 1639285200,
+            "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+            "duration": 690.4564,
+            "episode_number": "2",
+            "original_air_date": 1636448400,
+            "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "RADS1012082100051693",
-            "media_id": "c4297aae8ae725d78e4e6011766926846c6ebea6",
-            "modified": 1638986742,
-            "slug": "episode-twelve-ab-7-11",
+            "airing_id": "RADS1012082100051685",
+            "media_id": "27424009be7cd24da83690637406b3733698d77b",
+            "modified": 1638985899,
+            "slug": "moon",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/1_201215836487-GSMP_212_dup-20201209.jpg",
-            "created": 1608039411,
-            "season_number": "2",
-            "title_id": "2241837",
-            "tv_rating": "tv-ma-ls",
-            "published": 1638986742,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181426283-OffTheAir_1102_Moon.png",
+            "created": 1636135686,
+            "title_id": "2321722",
+            "season_number": "11",
+            "tv_rating": "tv-14-l",
+            "published": 1638985899,
             "tags": [],
-            "collection_title": "Gemusetto",
+            "collection_title": "Off The Air",
             "disable_ads": false,
             "modified_by": "Jonathan Jackson",
-            "launch_date": 1636257600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836487-GSMP_212_dup-20201209.jpg",
-            "id": "AXZmni7MbxpjZvbXYloc",
+            "launch_date": 1638985895,
+            "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181426283-OffTheAir_1102_Moon.png",
+            "id": "AXzxSVHv4Xbjep71f6HZ",
             "auth": false,
-            "collection_slug": "gemusetto",
-            "collection_title_id": "2194549",
+            "collection_slug": "off-the-air",
+            "collection_title_id": "830073",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
