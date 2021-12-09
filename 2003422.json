@@ -345,7 +345,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1633233540,
+        "auth_expiration_date": 1639544340,
         "tms_id": "",
         "description": "After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections.",
         "title_suggest": {
@@ -360,7 +360,7 @@
             ]
         },
         "title": "Are You There Bob? It's Me Birthday",
-        "expiration_date": 1639544340,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -372,10 +372,10 @@
         "duration": 1299.23,
         "episode_number": "16",
         "original_air_date": 1549247400,
-        "auth_launch_date": 1632628800,
+        "auth_launch_date": 1638939600,
         "clip_order": null,
         "media_id": "4e4692394c78f2d813c1bfa01a2eb77ea9af5270",
-        "modified": 1638574896,
+        "modified": 1639062059,
         "airing_id": "RADS1012032100051265",
         "slug": "are-you-there-bob-its-me-birthday",
         "exclude_from_search": false,
@@ -386,14 +386,15 @@
         "tv_rating": "tv-pg-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1638574896,
+        "published": 1639062059,
         "tags": [],
         "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1638939600,
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15489649010681.jpg",
         "id": "AWgaeE-hAScUIg8Xxbmv",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -495,7 +496,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1633319940,
+        "auth_expiration_date": 1639630740,
         "tms_id": "EP012792980153",
         "description": "Tina decides to join the Junior Lifeguards, but one of her fellow junior guards tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack.",
         "title_suggest": {
@@ -504,7 +505,7 @@
             ]
         },
         "title": "Boywatch",
-        "expiration_date": 1639630740,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -516,10 +517,10 @@
         "duration": 1301.3,
         "episode_number": "17",
         "original_air_date": 1553477400,
-        "auth_launch_date": 1632715200,
+        "auth_launch_date": 1639026000,
         "clip_order": null,
         "media_id": "dc02c49b35f4dcc44deed10266f3a480daca6fb1",
-        "modified": 1638600687,
+        "modified": 1639062082,
         "airing_id": "RADS1012032100051332",
         "slug": "boywatch",
         "exclude_from_search": false,
@@ -530,14 +531,15 @@
         "tv_rating": "tv-pg-l",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1638600687,
+        "published": 1639062082,
         "tags": [],
         "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1639026000,
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg",
         "id": "AWlyRK-eAScUIg8Xxd78",
-        "auth": false
+        "auth": true
     },
     {
         "auth": false,
