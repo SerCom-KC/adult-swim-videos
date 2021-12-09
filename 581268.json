@@ -1452,6 +1452,55 @@
         "auth": true
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1640667540,
+        "tms_id": "EP007008180125",
+        "description": "Early interferes with Rusty's new party business and it's last call\u2026for action!",
+        "title_suggest": {
+            "input": [
+                "Events By Russell",
+                "By Russell",
+                "Russell"
+            ]
+        },
+        "title": "Events By Russell",
+        "expiration_date": 1638853140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 677.5,
+        "episode_number": "9",
+        "original_air_date": 1568607300,
+        "auth_launch_date": 1638853200,
+        "clip_order": null,
+        "media_id": "d38cfb672fc4eda20264552574cdb1d439708d3b",
+        "modified": 1639079682,
+        "airing_id": "RADS1010282100040937",
+        "slug": "events-by-russell",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/1_19913133124-squidbillies_1008_dup-20190912.jpg",
+        "created": 1568319084,
+        "season_number": "12",
+        "title_id": "2199309",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1639079682,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1635825600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg",
+        "id": "AW0nGhd4CorLtcgfluVw",
+        "auth": true
+    },
+    {
         "ott_launch_date": 1513006140,
         "auth_expiration_date": 1641445140,
         "tms_id": "EP007008180115",
