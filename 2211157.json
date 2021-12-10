@@ -1,6 +1,55 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1642049940,
+        "tms_id": "",
+        "description": "Man and beast are challenged to find a way to exist together.",
+        "title_suggest": {
+            "input": [
+                "River of Snakes",
+                "of Snakes",
+                "Snakes"
+            ]
+        },
+        "title": "River of Snakes",
+        "expiration_date": 1639025940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1239.96,
+        "episode_number": "2",
+        "original_air_date": 1570593600,
+        "auth_launch_date": 1639026000,
+        "clip_order": null,
+        "media_id": "5c71b35a5ab29551053cea87cfa93d6481bced7f",
+        "modified": 1639116281,
+        "airing_id": "RADS1010312100041279",
+        "slug": "river-of-snakes",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/1_19103139229-Primal_002_dup-20190815.jpg",
+        "created": 1569872119,
+        "season_number": "1",
+        "title_id": "2211159",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1639116281,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1635998400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_19103139229-Primal_002_dup-20190815.jpg",
+        "id": "AW2Dq4bHadNs2hMNfuIf",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1641445140,
         "tms_id": "",
         "description": "Tragedy forces a caveman and a dinosaur to rely upon each other for their survival.",
