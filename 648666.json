@@ -367,9 +367,9 @@
         "cma_id": "1393756"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168680,
-        "auth_expiration_date": 1606885140,
+        "auth_expiration_date": 1641963540,
         "tms_id": "EP008519090009",
         "rating": 8.841861,
         "description": "In a last-ditch scramble for tax breaks, Dethklok agrees to host an event with the London Philharmonic, but only under one condition: Dethklok gets to produce their own kind of laser light show. They've also taken in a distempered fat kid they found, and must juggle the responsibilities of parenting while upholding their charitable agreement.",
@@ -380,7 +380,7 @@
         },
         "type": "episode",
         "title": "FatKlok",
-        "expiration_date": 1641963540,
+        "expiration_date": null,
         "platforms": [
             "web",
             "mobile",
@@ -391,8 +391,8 @@
         "episode_number": "11",
         "original_air_date": 1160365500,
         "clip_order": null,
-        "auth_launch_date": 1603857600,
-        "modified": 1638572219,
+        "auth_launch_date": 1638939600,
+        "modified": 1639146474,
         "media_id": "3d1ef6898aa068854b8af1f7daf06b39cf513589",
         "airing_id": "RADS1012032100051235",
         "id": "a29qs2CNTw-nXKcEjm38Ng",
@@ -407,15 +407,15 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1638572219,
+        "published": 1639146474,
         "tags": [
             "metalocalypse dethklok episode 11 fat kid at the detharmonic london adopt child tax charity"
         ],
         "rating_count": 3067,
         "collection_title": "Metalocalypse",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638939600,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111124556-metalocalypse_111.jpg",
         "cma_id": "1410636"
     },

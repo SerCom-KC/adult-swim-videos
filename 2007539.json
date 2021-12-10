@@ -150,8 +150,8 @@
     },
     {
         "ott_launch_date": 1521469860,
-        "auth": false,
-        "auth_expiration_date": 1623211140,
+        "auth": true,
+        "auth_expiration_date": 1641963540,
         "tms_id": "EP018514630031",
         "description": "When Mrs. Goodman confronts the parents of Tommy's bullies, they dump their out-of-control kids with her for the day.",
         "title_suggest": {
@@ -159,7 +159,7 @@
                 "Bullies"
             ]
         },
-        "expiration_date": 1641963540,
+        "expiration_date": null,
         "type": "episode",
         "title": "Bullies",
         "platforms": [
@@ -173,10 +173,10 @@
         "duration": 677.75,
         "episode_number": "8",
         "original_air_date": 1521432900,
-        "auth_launch_date": 1620187200,
+        "auth_launch_date": 1638939600,
         "clip_order": null,
         "media_id": "248842cb0b264dae86250bf3f8e3a737e1e1df68",
-        "modified": 1638571895,
+        "modified": 1639147655,
         "airing_id": "RADS1012032100051231",
         "id": "AWHX879KNWyh42wYnlDD",
         "slug": "bullies",
@@ -188,12 +188,12 @@
         "tv_rating": "tv-ma-lsv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1638571895,
+        "published": 1639147655,
         "tags": [],
         "collection_title": "Mr. Pickles",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638939600,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465410168.jpg"
     },
     {
