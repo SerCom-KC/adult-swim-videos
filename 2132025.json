@@ -442,7 +442,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1630641540,
+        "auth_expiration_date": 1642136340,
         "tms_id": "",
         "description": "Trouble looms as the city of Walla Walla is gentrified by peanuts.",
         "title_suggest": {
@@ -452,7 +452,7 @@
             ]
         },
         "title": "These Nuts",
-        "expiration_date": 1642136340,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -464,10 +464,10 @@
         "duration": 678.83,
         "episode_number": "3",
         "original_air_date": 1558929600,
-        "auth_launch_date": 1627617600,
+        "auth_launch_date": 1639112400,
         "clip_order": null,
         "media_id": "2de0c2d0d89791394553c12fb6c03816da5466a4",
-        "modified": 1638779042,
+        "modified": 1639163801,
         "airing_id": "RADS1012032100051367",
         "slug": "these-nuts",
         "exclude_from_search": false,
@@ -478,15 +478,15 @@
         "tv_rating": "tv-14-dlv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1638779042,
+        "published": 1639163801,
         "tags": [],
         "collection_title": "The Jellies",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1639112400,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862418160317.jpg",
         "id": "AWmWYXMCHl5gR6828y3c",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
