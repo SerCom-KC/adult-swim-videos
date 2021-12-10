@@ -221,9 +221,9 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1610513940,
+        "auth_expiration_date": 1641963540,
         "tms_id": "EP002989350010",
         "rating": 8.05091,
         "description": "The new school nurse has everyone's attention. Coach McGuirk and Jason eye her as a love interest; Brendon sees her as his ticket to getting out of class.",
@@ -235,7 +235,7 @@
         },
         "type": "episode",
         "title": "School Nurse",
-        "expiration_date": 1641963540,
+        "expiration_date": null,
         "platforms": [
             "web",
             "mobile"
@@ -245,8 +245,8 @@
         "episode_number": "10",
         "original_air_date": 1001901600,
         "clip_order": null,
-        "auth_launch_date": 1607490000,
-        "modified": 1638574899,
+        "auth_launch_date": 1638939600,
+        "modified": 1639143948,
         "media_id": "c31b943c1bfeaa905140bbbe4eec5e36dac32479",
         "airing_id": "RADS1012032100051233",
         "id": "gG60M_rTSLio-Eo3unyvxQ",
@@ -261,15 +261,15 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1638574899,
+        "published": 1639143948,
         "tags": [
             "home movies school nurse episode 10"
         ],
         "rating_count": 707,
         "collection_title": "Home Movies",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638939600,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035164358-hmovies_010.jpg",
         "cma_id": ""
     },
