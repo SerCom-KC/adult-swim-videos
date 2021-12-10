@@ -159,9 +159,9 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438260,
-        "auth_expiration_date": 1610513940,
+        "auth_expiration_date": 1641963540,
         "tms_id": "EP004625760009",
         "rating": 9.098611,
         "description": "Captain Murphy finds himself trapped under the monolithic \"Bebop Cola\" machine--for a year. During that time, he loses all of his teeth, battles an evil robot and has poignant flashbacks to his childhood as the son of a hard-drinking carny. He also becomes addicted to scorpion venom.",
@@ -174,7 +174,7 @@
         },
         "type": "episode",
         "title": "All That Jazz",
-        "expiration_date": 1641963540,
+        "expiration_date": null,
         "platforms": [
             "web",
             "mobile",
@@ -185,8 +185,8 @@
         "episode_number": "9",
         "original_air_date": 1004328900,
         "clip_order": null,
-        "auth_launch_date": 1607490000,
-        "modified": 1638571895,
+        "auth_launch_date": 1638939600,
+        "modified": 1639153004,
         "airing_id": "RADS1012032100051227",
         "media_id": "be6f0275e20d390f16a23c40e6ff432b53d0e043",
         "id": "SE3eHoH8TAaW2uye_hRp9Q",
@@ -200,15 +200,15 @@
         "tv_rating": "tv-14",
         "active": true,
         "ott_expiration_date": null,
-        "published": 1638571895,
+        "published": 1639153004,
         "tags": [
             "sealab 2021 all that jazz episode 9"
         ],
         "rating_count": 933,
         "collection_title": "Sealab 2021",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638939600,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151030482-sealab_009.jpg",
         "cma_id": "1468184"
     },
