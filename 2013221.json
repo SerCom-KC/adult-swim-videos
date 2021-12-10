@@ -608,9 +608,9 @@
         "cma_id": "1150927"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1632369540,
+        "auth_expiration_date": 1642049940,
         "tms_id": "EP019881990006",
         "description": "Jason begrudgingly agrees to endorse the latest Strussel watch, only after his agent guarantees that he will neither be conscious for nor remember the product photo shoot.",
         "title_suggest": {
@@ -619,7 +619,7 @@
                 "Endorsement"
             ]
         },
-        "expiration_date": 1642049940,
+        "expiration_date": null,
         "title": "The Endorsement",
         "type": "episode",
         "platforms": [
@@ -631,8 +631,8 @@
         "episode_number": "6",
         "original_air_date": 1414124100,
         "clip_order": null,
-        "auth_launch_date": 1629345600,
-        "modified": 1638605954,
+        "auth_launch_date": 1639026000,
+        "modified": 1639165132,
         "media_id": "efb73fa3d2687d884fc3ee01f7e41bed0c712fe7",
         "airing_id": "RADS1012032100051290",
         "id": "t5DLWfNmTqaZ3uqtV3BvcQ",
@@ -647,13 +647,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1638605954,
+        "published": 1639165132,
         "first_published": 1413786045,
         "tags": [],
         "collection_title": "Tim & Eric's Bedtime Stories",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1639026000,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117844495-tebs_106_dup-20140910.jpg",
         "cma_id": "1039683"
     },
