@@ -746,7 +746,7 @@
     },
     {
         "ott_launch_date": 1557153000,
-        "auth_expiration_date": 1629691140,
+        "auth_expiration_date": 1641790740,
         "tms_id": "EP031867090010",
         "description": "It is what it is.",
         "title_suggest": {
@@ -760,7 +760,7 @@
         },
         "title": "It Is What It Is",
         "type": "episode",
-        "expiration_date": 1641790740,
+        "expiration_date": null,
         "platforms": [
             "android",
             "fire-tv",
@@ -772,11 +772,11 @@
         "duration": 659.63,
         "episode_number": "10",
         "original_air_date": 1557116100,
-        "auth_launch_date": 1626667200,
+        "auth_launch_date": 1638766800,
         "clip_order": null,
         "airing_id": "RADS1012032100051087",
         "media_id": "e16eb859c0d1ef2ad8bee9749605b309636252fe",
-        "modified": 1638557502,
+        "modified": 1639145871,
         "slug": "it-is-what-it-is",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155681985223916.jpg",
@@ -786,15 +786,15 @@
         "tv_rating": "tv-14-dl",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1638557502,
+        "published": 1639145871,
         "tags": [],
         "collection_title": "Lazor Wulf",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638766800,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155681985223916.jpg",
         "id": "AWpvp3VKAScUIg8XxfVq",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1630295940,

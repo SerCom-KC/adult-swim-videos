@@ -161,7 +161,7 @@
     },
     {
         "ott_launch_date": 1447789500,
-        "auth_expiration_date": 1617681540,
+        "auth_expiration_date": 1641877140,
         "tms_id": "SH020223070000",
         "description": "In a 1960s-era informercial for an electric vibrating salad tossing device that, unbeknownst to the host, might have a dual purpose.",
         "title_suggest": {
@@ -171,7 +171,7 @@
                 "Mixxxer"
             ]
         },
-        "expiration_date": 1641877140,
+        "expiration_date": null,
         "type": "episode",
         "title": "The Salad Mixxxer",
         "platforms": [
@@ -184,10 +184,10 @@
         "duration": 677.0333667,
         "episode_number": "2",
         "original_air_date": 1413273600,
-        "auth_launch_date": 1614661200,
+        "auth_launch_date": 1638853200,
         "clip_order": null,
         "media_id": "d87a882e506fe86786c6e9382e5d2bc3e1424c72",
-        "modified": 1638570715,
+        "modified": 1639145159,
         "airing_id": "RADS1012032100051180",
         "slug": "the-salad-mixxxer",
         "exclude_from_search": false,
@@ -198,15 +198,15 @@
         "tv_rating": "tv-ma",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1638570715,
+        "published": 1639145159,
         "tags": [],
         "collection_title": "Infomercials",
         "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638853200,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509845082819.jpg",
         "id": "AV-3E6AFwdpKFAKSbWZs",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1452085200,
