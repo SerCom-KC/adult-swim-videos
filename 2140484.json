@@ -153,6 +153,56 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1551108600,
+        "auth_expiration_date": 1637902740,
+        "tms_id": "",
+        "description": "The Hand Gobbler is on the loose and is gobbling hands left and right and sometimes even center. But who is the Hand Gobbler? And why is he also dubbed Gecko?",
+        "title_suggest": {
+            "input": [
+                "The Hand Gobbler",
+                "Hand Gobbler",
+                "Gobbler"
+            ]
+        },
+        "title": "The Hand Gobbler",
+        "expiration_date": 1642050000,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWg5dZFTHl5gR6828xwU",
+        "duration": 678,
+        "episode_number": "7",
+        "original_air_date": 1550898000,
+        "auth_launch_date": 1635480000,
+        "clip_order": null,
+        "media_id": "161ef199775564ec62de5ee3e4303165fdf6a24d",
+        "modified": 1639165826,
+        "airing_id": "RADS1003081900072873",
+        "slug": "the-hand-gobbler",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155077097078518.jpg",
+        "created": 1547500048,
+        "season_number": "1",
+        "title_id": "2184457",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1639165826,
+        "tags": [],
+        "collection_title": "Tropical Cop Tales",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1639165806,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155077097078518.jpg",
+        "id": "AWhOMM_-AScUIg8Xxb_Q",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1550503800,
         "auth_expiration_date": 1636693140,
         "tms_id": "",
@@ -462,60 +512,6 @@
         "launch_date": 1552725000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15507710090198.jpg",
         "id": "AWjtObPKAScUIg8XxdJu",
-        "auth": false
-    },
-    {
-        "ott_launch_date": 1551713400,
-        "auth_expiration_date": 1639112340,
-        "tms_id": "",
-        "description": "Donut baron Ronald the Ringman's patience is tested by a psychedelically annoying and indecisive tourist dubbed Nattanyell.",
-        "title_suggest": {
-            "input": [
-                "The Many Frostings of Ronald the Ringman",
-                "Many Frostings of Ronald the Ringman",
-                "Frostings of Ronald the Ringman",
-                "of Ronald the Ringman",
-                "Ronald the Ringman",
-                "the Ringman",
-                "Ringman"
-            ]
-        },
-        "title": "The Many Frostings of Ronald the Ringman",
-        "expiration_date": 2085368400,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWg5dZFTHl5gR6828xwU",
-        "duration": 702.54,
-        "episode_number": "9",
-        "original_air_date": 1551502800,
-        "auth_launch_date": 1636084800,
-        "clip_order": null,
-        "media_id": "63b3f0c3434c777145f18dae3837f610b120e639",
-        "modified": 1635729342,
-        "airing_id": "RADS1003151900074331",
-        "slug": "the-many-frostings-of-ronald-the-ringman",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155130121528116.jpg",
-        "created": 1550168240,
-        "season_number": "1",
-        "title_id": "2184459",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1635729342,
-        "tags": [],
-        "collection_title": "Tropical Cop Tales",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1553328900,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155130121528116.jpg",
-        "id": "AWjtOi_aAScUIg8XxdJv",
         "auth": false
     }
 ]
