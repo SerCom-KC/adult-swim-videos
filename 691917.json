@@ -488,5 +488,61 @@
         "launch_date": 1637902800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141731354-xavier_204.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447786380,
+        "auth_expiration_date": 1642136340,
+        "tms_id": "EP000337110010",
+        "rating": 7.8037896,
+        "description": "And so the final chapter begends when Xavier meets his match.",
+        "title_suggest": {
+            "input": [
+                "Shakashuri Blowdown",
+                "Blowdown"
+            ]
+        },
+        "type": "episode",
+        "title": "Shakashuri Blowdown",
+        "expiration_date": 1639112340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+        "duration": 691.36,
+        "episode_number": "10",
+        "original_air_date": 1200286800,
+        "clip_order": null,
+        "auth_launch_date": 1639112400,
+        "modified": 1639166802,
+        "airing_id": "RADS1010312100041342",
+        "media_id": "f3decd5299cbb4b96d187a66853fd83d5a052e9c",
+        "id": "xcvEocTsRN-0cFVFMBEHWg",
+        "slug": "shakashuri-blowdown",
+        "views": 287779,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_2114173039-xavier_110.jpg",
+        "created": 1402945482,
+        "title_id": "693205",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1639166802,
+        "tags": [
+            "Xavier Renegade Angel",
+            "Adult Swim",
+            "Shakashuri Blowdown"
+        ],
+        "rating_count": 2375,
+        "collection_title": "Xavier: Renegade Angel",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1636084800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114173039-xavier_110.jpg",
+        "cma_id": ""
     }
 ]
