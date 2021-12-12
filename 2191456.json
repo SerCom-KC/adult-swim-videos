@@ -182,7 +182,7 @@
         "launch_date": 1639285200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191131534-BladeRunnerBlackLotus_104_TheHumanCondition.png",
         "id": "AX0qjBLeUQa40cfnRSsN",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1640494740,
@@ -226,6 +226,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123953232-BladRunnerBlackLotus_105_Pressure.png",
         "id": "AX1yDvRp4Xbjep71f6Hm",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1641099540,
+        "tms_id": "EP040618320007",
+        "description": "In her quest for revenge, Elle breaks into the home of her next target and is forced to take a hostage. Chief Grant calls in reinforcements.",
+        "title_suggest": {
+            "input": [
+                "Persistence of Memory",
+                "of Memory",
+                "Memory"
+            ]
+        },
+        "title": "Persistence of Memory",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXru8vbSeTntnGIjub0w",
+        "duration": 0,
+        "episode_number": "6",
+        "original_air_date": "1639285200",
+        "auth_launch_date": 1639285200,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "0a74e300dbff2ac90c895bfbbd39e97164618d49",
+        "modified": 1639171782,
+        "slug": "persistence-of-memory",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101033526-BladeRunnerBlackLotus_106_PersistenceOfMemory.png",
+        "created": 1639150447,
+        "season_number": "1",
+        "title_id": "2191462",
+        "tv_rating": "tv-14-lv",
+        "published": 1639171782,
+        "tags": [],
+        "collection_title": "Blade Runner: Black Lotus",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101033526-BladeRunnerBlackLotus_106_PersistenceOfMemory.png",
+        "id": "AX2k-urD4Xbjep71f6Hn",
         "auth": true
     },
     {

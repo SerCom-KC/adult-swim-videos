@@ -2,121 +2,110 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 12, 2021 at 00:00:32 EST_
+_Last Update: December 12, 2021 at 00:30:33 EST_
 ## Video added
-No videos were added.  
+### Summary
+581006 American Dad: 3  
+2191456 Blade Runner: Black Lotus: 1  
+2003422 Bob's Burgers: 2  
+2194549 Gemusetto: 1  
+### 2041474
+**American Dad S11E01 - Roots**  
+TV-14-DLV 🔒 21:13  
+⌛ December 18, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/roots  
+seriesid=`581006` titleid=`2041474` id=`TYWscrkVRdCNVviIdM1W0Q` mediaid=`566083395eaa38012ee31da187d895b1f2fcd330`  
+_Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg" height="144px" /></a>
+### 2019430
+**American Dad S10E15 - Seizures Suit Stanny**  
+TV-14 🔒 20:57  
+⌛ December 18, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/seizures-suit-stanny  
+seriesid=`581006` titleid=`2019430` id=`JG2h5XE-Sc-97MLP6lOnuQ` mediaid=`7e2d7f72cd808f507a148c6925d03b66d4f476ad`  
+_When Stan lies about his texting and driving accident, he takes a seizure medication and suffers from the side effects. Meanwhile, Roger helps Steve with his performance anxiety._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg" height="144px" /></a>
+### 2041475
+**American Dad S11E02 - The Life Aquatic with Steve Smith**  
+TV-14-DLS 🔒 21:13  
+⌛ December 18, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-life-aquatic-with-steve-smith  
+seriesid=`581006` titleid=`2041475` id=`6m-aKqOzTuiKpe2ndROi_A` mediaid=`fa3d734eb2c5fa3d94b53c53e75274c723ac5905`  
+_Steve joins the high school water polo team in order to get girls. Meanwhile, Roger and Stan get a boat._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg" height="144px" /></a>
+### 2191462
+**Blade Runner: Black Lotus S01E06 - Persistence of Memory**  
+TV-14-LV 🔒 00:00  
+⌛ January 1, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/blade-runner-black-lotus/persistence-of-memory  
+seriesid=`2191456` titleid=`2191462` id=`AX2k-urD4Xbjep71f6Hn` mediaid=`0a74e300dbff2ac90c895bfbbd39e97164618d49`  
+_In her quest for revenge, Elle breaks into the home of her next target and is forced to take a hostage. Chief Grant calls in reinforcements._  
+<a href="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101033526-BladeRunnerBlackLotus_106_PersistenceOfMemory.png"><img src="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101033526-BladeRunnerBlackLotus_106_PersistenceOfMemory.png" height="144px" /></a>
+### 2003424
+**Bob's Burgers S01E02 - Crawl Space**  
+TV-PG 🔒 21:30  
+⌛ December 18, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/crawl-space  
+seriesid=`2003422` titleid=`2003424` id=`7CPkiayCT7q_siDtFOqY8Q` mediaid=`3cb82ec5aa600492a3760a3298972f1c815f6e0c`  
+_When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg" height="144px" /></a>
+### 2003423
+**Bob's Burgers S01E01 - Human Flesh**  
+TV-14 🔒 21:30  
+⌛ December 18, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/human-flesh  
+seriesid=`2003422` titleid=`2003423` id=`g14uqnD3RnOF-R_kqpxrtA` mediaid=`0921a95256111066eaef455e1148a955ae22f682`  
+_Bob rallies the team to cook up some business for Grand Re-Re-Re-Opening of Bob's Burgers, sending middle child Gene to push samples in the streets, eldest daughter Tina to work the grill and youngest daughter Louise to staff the counter. The day takes an unexpected turn when the health inspector pays a visit because of a little rumor Louise started during "show and tell" at school._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg" height="144px" /></a>
+### 2241828
+**Gemusetto S02E03 - Episode Three: B7+5**  
+TV-14-DLV 🔓 11:15  
+⌛ January 15, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/gemusetto/episode-three-b-7-5  
+seriesid=`2194549` titleid=`2241828` id=`AXW5Hl8_LyLQBOXK_Pgw` mediaid=`28694d472de76d270bef1186571c1ff3878f5330`  
+_Making their way through the Mesopotamian underworld of Kur, Dr. Legs and Makasu run into a formidable foe. Can a vengeful spirit who has a bone to pick with Makasu be more dangerous than a god?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2142267 My Hero Academia: 14  
-### 2267457
-**My Hero Academia S05E04 - Make It Happen, Shinso!**  
-TV-14 🔒 22:51  
+2003422 Bob's Burgers: 2  
+581006 American Dad: 3  
+### 2171452
+**Bob's Burgers S08E12 - The Hurt Soccer**  
+TV-PG 🔓 21:37  
 ⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/make-it-happen-shinso  
-seriesid=`2142267` titleid=`2267457` id=`AXmee3PiDmGy9WFjRrRc` mediaid=`ce51ccd789e633188a8b9d7319138d181414813a`  
-_The Class A team tries to put Shinso and his new equipment to good use in the first match against Class B._  
-<a href="https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271146223-MyHeroAcademia_092_MakeItHappenShinso.png"><img src="https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271146223-MyHeroAcademia_092_MakeItHappenShinso.png" height="144px" /></a>
-### 2267459
-**My Hero Academia S05E06 - Foresight**  
-TV-14 🔒 22:14  
+https://www.adultswim.com/videos/bobs-burgers/the-hurt-soccer  
+seriesid=`2003422` titleid=`2171452` id=`AWeKZ_BMqD68dq0Op5x5` mediaid=`34b4c11d7e396d93de7cb86eaf7159ad41d7e738`  
+_After forgetting that they signed up Louise for a soccer league, the Belchers must help her prepare to play in the season's last game. Linda and Gene seize the opportunity to turn the restaurant into a piano bar._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15472246473535.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15472246473535.jpg" height="144px" /></a>
+### 2171453
+**Bob's Burgers S08E13 - Cheer Up Sleepy Gene**  
+TV-PG-LS 🔓 21:32  
 ⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/foresight  
-seriesid=`2142267` titleid=`2267459` id=`AXneLe-jBH5Z6gH5aWTl` mediaid=`60dbdeb588c6e8d088c0e9ce5ebf75697088bff7`  
-_Separated from her team, Yaoyorozu's leadership skills are put to the test in the second match of the class battles._  
-<a href="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610106356-MyHeroAcademia_094_Foresight.png"><img src="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610106356-MyHeroAcademia_094_Foresight.png" height="144px" /></a>
-### 2267461
-**My Hero Academia S05E08 - Match 3 Conclusion**  
-TV-14-V 🔒 22:14  
+https://www.adultswim.com/videos/bobs-burgers/cheer-up-sleepy-gene  
+seriesid=`2003422` titleid=`2171453` id=`AWgadw-5zQU7gEG1jvbO` mediaid=`7bffedf6688752ff36c70895ca2b2c1a3d068118`  
+_Gene gets invited to his first sleepover and is nervous about it, and when things don't go as planned, he realizes he had a right to be. Meanwhile, Bob and Linda record themselves while sleeping to prove which of them snores more._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg" height="144px" /></a>
+### 2012718
+**American Dad S09E20 - The Longest Distance Relationship**  
+TV-14 🔒 21:29  
 ⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/match-3-conclusion  
-seriesid=`2142267` titleid=`2267461` id=`AXpA9SkJDmGy9WFjRrko` mediaid=`fe720858a5ec35a8aa2854911c295571c8754463`  
-_It's still anybody's game as the the third match continues with an endurance battle between Todoroki and Tetsutetsu._  
-<a href="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251357252-MyHeroAcademia_096_Match3Conclusion.png"><img src="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251357252-MyHeroAcademia_096_Match3Conclusion.png" height="144px" /></a>
-### 2267463
-**My Hero Academia S05E10 - That Which Is Inherited**  
-TV-14 🔒 22:16  
+https://www.adultswim.com/videos/american-dad/the-longest-distance-relationship  
+seriesid=`581006` titleid=`2012718` id=`-_KxrHo3QzavOte0INnaOA` mediaid=`e143715f446287316857fb4ad3495be8d050972c`  
+_Hayley is injured in a fire and while she is in the hospital she meets Millionaire Matt Davis.  As Hayley and Matt fall in love, Steve discovers Jeff Fischer is still alive in outer space.  Jeff and Hayley communicate via an old CB radio and Jeff asks Hayley to stay true to him while he finds a way back to Earth._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg" height="144px" /></a>
+### 2012721
+**American Dad S09E22 - Roger Passes the Bar**  
+TV-14 🔒 21:20  
 ⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/that-which-is-inherited  
-seriesid=`2142267` titleid=`2267463` id=`AXqG_iZGDmGy9WFjRrxF` mediaid=`0afe4bd7eb5137ea967df93b1af9a610e8bc438a`  
-_Midoriya and Shinso face off for the first time since the sports festival in the last fight of the class battles._  
-<a href="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_2179118459-MyHeroAcademia_098_ThatWhichIsInherited.png"><img src="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_2179118459-MyHeroAcademia_098_ThatWhichIsInherited.png" height="144px" /></a>
-### 2267465
-**My Hero Academia S05E12 - The New Power and All for One**  
-TV-14 🔒 22:14  
+https://www.adultswim.com/videos/american-dad/roger-passes-the-bar  
+seriesid=`581006` titleid=`2012721` id=`AUUluKMZS6OJ2XYUmGbT3Q` mediaid=`b0bab8b5f91c35797409c652e52141d7e5da204d`  
+_Roger pushes himself to the breaking point by working non-stop at his dive bar.  When he suffers a heart attack, Roger decides to sell the bar to a company that promises to continue his vision.  Upon returning to visit, Roger sees that the dive bar has been completely remade as a family friendly restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452312449.jpg" height="144px" /></a>
+### 2012717
+**American Dad S09E21 - A Boy Named Michael**  
+TV-14 🔒 21:32  
 ⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/the-new-power-and-all-for-one  
-seriesid=`2142267` titleid=`2267465` id=`AXrQCLOGeTntnGIjub0p` mediaid=`6b97e223c25feeea9bef9b395bde198694090e73`  
-_As the class battles conclude, Midoriya works with All Might and Bakugo on learning more about his new power._  
-<a href="https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_217231052573-MyHeroAcademia_100_TheNewPowerAndAllForOne.png"><img src="https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_217231052573-MyHeroAcademia_100_TheNewPowerAndAllForOne.png" height="144px" /></a>
-### 2267469
-**My Hero Academia S05E16 - Long Time No See, Selkie**  
-TV-14 🔒 22:07  
-⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/long-time-no-see-selkie  
-seriesid=`2142267` titleid=`2267469` id=`AXtayM9R0_E45RWzeA0i` mediaid=`70adef87e07f69690ef0135a9035229455ba1eb8`  
-_Ryukyu brings her work study students with her when Selkie asks her to team up with him._  
-<a href="https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201110480-MyHeroAcademia_104_LongTimeNoSeeSelkie.png"><img src="https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_218201110480-MyHeroAcademia_104_LongTimeNoSeeSelkie.png" height="144px" /></a>
-### 2267470
-**My Hero Academia S05E17 - The Hellish Todoroki Family**  
-TV-14 🔒 22:07  
-⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/the-hellish-todoroki-family  
-seriesid=`2142267` titleid=`2267470` id=`AXtlZGRReTntnGIjub1N` mediaid=`fcfb86277d879a3b3f2026b294b87248250ac757`  
-_Endeavor brings his work study students over for dinner at Fuyumi's request but faces awkward conversations at home._  
-<a href="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271053180-MyHeroAcademia_105_TheHellishTodorokiFamily.png"><img src="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271053180-MyHeroAcademia_105_TheHellishTodorokiFamily.png" height="144px" /></a>
-### 2267471
-**My Hero Academia S05E18 - The Unforgiven**  
-TV-14 🔒 22:07  
-⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/the-unforgiven  
-seriesid=`2142267` titleid=`2267471` id=`AXunAovdUQa40cfnRR4D` mediaid=`0b1ab0e82ae0e495dbac5a05744e6be4723f1ca4`  
-_One of Endeavor's biggest fans shows up to settle some unfinished business, and he expects far more than an autograph._  
-<a href="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192155190-MyHeroAcademia_106_TheUnforgiven.png"><img src="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192155190-MyHeroAcademia_106_TheUnforgiven.png" height="144px" /></a>
-### 2267473
-**My Hero Academia S05E20 - My Villain Academia**  
-TV-14-V 🔒 22:11  
-⌛ December 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/my-hero-academia/my-villain-academia  
-seriesid=`2142267` titleid=`2267473` id=`AXvvhVcI4Xbjep71f6G8` mediaid=`9340f526254e0f8cf9d21856248b1c24a7c7143f`  
-_A series of surprise encounters helps give Shigaraki a new sense of direction for the League of Villains._  
-<a href="https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161251268-MyHeroAcademia_108_MyVillainAcademia.png"><img src="https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161251268-MyHeroAcademia_108_MyVillainAcademia.png" height="144px" /></a>
-### 2267475
-**My Hero Academia S05E22 - Sad Man's Parade**  
-TV-14-V 🔒 22:10  
-⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/sad-mans-parade  
-seriesid=`2142267` titleid=`2267475` id=`AXw8PL_PUQa40cfnRSMW` mediaid=`987384ceea2c2dddb67e5c2365d4ba6c2822f18b`  
-_As Twice tries to save Toga, he thinks back on his past and makes a realization that helps him overcome it._  
-<a href="https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_211011022545-MyHeroAcademia_110_SadMansParade.png"><img src="https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_211011022545-MyHeroAcademia_110_SadMansParade.png" height="144px" /></a>
-### 2267474
-**My Hero Academia S05E21 - Revival Party**  
-TV-14-V 🔒 22:11  
-⌛ December 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/my-hero-academia/revival-party  
-seriesid=`2142267` titleid=`2267474` id=`AXwTGEhe4Xbjep71f6HF` mediaid=`bb32c6198101fafe97ae0d5dce8353d21f187f36`  
-_The League of Villains waits for Gigantomachia to wake up as they clash with the Meta Liberation Army._  
-<a href="https://media.cdn.adultswim.com/uploads/20210924/thumbnails/2_21924101343-MyHeroAcademia_109_RevivalParty.png"><img src="https://media.cdn.adultswim.com/uploads/20210924/thumbnails/2_21924101343-MyHeroAcademia_109_RevivalParty.png" height="144px" /></a>
-### 2267476
-**My Hero Academia S05E23 - Tenko Shimura: Origin**  
-TV-14-V 🔒 22:07  
-⌛ December 11, 2021 at 23:59:59 EST  
-https://www.adultswim.com/videos/my-hero-academia/tenko-shimura-origin  
-seriesid=`2142267` titleid=`2267476` id=`AXxduWavUQa40cfnRSQr` mediaid=`71fb8c884169ef1fad10663bd3c3447f0bf634e4`  
-_Memories from Shigaraki's past as Tenko Shimura resurface as he confronts Re-Destro._  
-<a href="https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_2110811742-MyHeroAcademia_111_TenkoShimuraOrigin.png"><img src="https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_2110811742-MyHeroAcademia_111_TenkoShimuraOrigin.png" height="144px" /></a>
-### 2267478
-**My Hero Academia S05E25 - The High, Deep Blue Sky**  
-TV-14-LV 🔓 22:07  
-⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/the-high-deep-blue-sky  
-seriesid=`2142267` titleid=`2267478` id=`AXzxPoJuUQa40cfnRSj4` mediaid=`73352b92b624d18a63689d7c19685ca239174b73`  
-_Both sides prepare for the confrontation between the heroes and the Paranormal Liberation Front as Class 1-A finishes their first year of high school._  
-<a href="https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181521193-MyHeroAcademia_113_TheHighDeepBlueSky.png"><img src="https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181521193-MyHeroAcademia_113_TheHighDeepBlueSky.png" height="144px" /></a>
-### 2267477
-**My Hero Academia S05E24 - Tomura Shigaraki: Origin**  
-TV-14-V 🔓 22:07  
-⌛ December 11, 2021 at 23:59:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/tomura-shigaraki-origin  
-seriesid=`2142267` titleid=`2267477` id=`AXzxPoXA4Xbjep71f6HY` mediaid=`d8aa0fd84e3da8c74a00b2b6bcb1ea935aa9da61`  
-_Shigaraki remembers his first encounter with All For One during the climax of his battle with Re-Destro._  
-<a href="https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181512496-MyHeroAcademia_112_TomuraShigarakiOrigin.png"><img src="https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181512496-MyHeroAcademia_112_TomuraShigarakiOrigin.png" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/a-boy-named-michael  
+seriesid=`581006` titleid=`2012717` id=`nD8GXuxMS1i_2tY3lsuaeQ` mediaid=`cb882ae5aba602a125fc7436becfb91a1c858ced`  
+_Greg and Terry decide to adopt a ten-year-old Russian boy named Michael.  At a party celebrating the decision, Roger is jealous of Greg and Terry's fabulous lifestyle of culture and sophistication.  Roger rejects the Smith family as trashy and impersonates Michael, successfully integrating into his new home._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg" height="144px" /></a>
