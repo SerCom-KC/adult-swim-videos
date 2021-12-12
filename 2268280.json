@@ -142,7 +142,7 @@
         "launch_date": 1638696600,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121010473-YashahimePrincessHalfDemon_117_TrapOfTheTwoPerils.png",
         "id": "AX0MAIefUQa40cfnRSnm",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1639299540,
@@ -235,7 +235,7 @@
         "launch_date": 1639301400,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191135230-YashahimePrincessHalfDemon_119_PrincessAlyasBeniyashaHunting.png",
         "id": "AX0qjcpZUQa40cfnRSsQ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1641113940,
@@ -281,6 +281,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101034589-YashahimePrincessHalfDemon_122_TheStolenSeal.png",
         "id": "AX2k-9njUQa40cfnRS7S",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1641115740,
+        "tms_id": "EP036780850022",
+        "description": "Setsuna and Towa hire Moroha to help slay Zero. The trio successfully track Zero down, but Riku stands in their way.",
+        "title_suggest": {
+            "input": [
+                "The Three Princesses Strike Back",
+                "Three Princesses Strike Back",
+                "Princesses Strike Back",
+                "Strike Back",
+                "Back"
+            ]
+        },
+        "title": "The Three Princesses Strike Back",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXpED60VBH5Z6gH5aWXi",
+        "duration": 0,
+        "episode_number": "23",
+        "original_air_date": "1639288800",
+        "auth_launch_date": 1639301400,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "05232c7ac2678703f2192a621c50f5ccd7ee0f04",
+        "modified": 1639172543,
+        "slug": "the-three-princesses-strike-back",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101035451-YashahimePrincessHalfDemon_123_TheThreePrincessesStrikeBack.png",
+        "created": 1639150555,
+        "season_number": "1",
+        "title_id": "2268303",
+        "tv_rating": "tv-14-lv",
+        "published": 1639172543,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101035451-YashahimePrincessHalfDemon_123_TheThreePrincessesStrikeBack.png",
+        "id": "AX2k_I-XUQa40cfnRS7T",
         "auth": true
     },
     {
@@ -1044,6 +1092,6 @@
         "launch_date": 1638091800,
         "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181523219-YashahimePrincessHalfDemon_116_DoubleEdgedMoroha.png",
         "id": "AXzxPog1UQa40cfnRSj6",
-        "auth": false
+        "auth": true
     }
 ]
