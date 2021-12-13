@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 12, 2021 at 06:00:27 EST_
+_Last Update: December 12, 2021 at 22:00:35 EST_
 ## Video added
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177794
-**Naruto: Shippuden S07E17 - Those Who Dance in the Shadows**  
-TV-PG-LV 🔒 00:00  
-⌛ March 27, 2022 at 05:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/those-who-dance-in-the-shadows  
-seriesid=`812206` titleid=`2177794` id=`AX2k_k1UUQa40cfnRS7U` mediaid=`ba9cf317247873809137a8d241d2ee568f143b78`  
-_Shikaku outlines his final strategy, in which Nine Tails will send its chakra to increase everyone's strength. United in their cause, Naruto and the Allied Shinobi set out to take on Ten Tails._  
-<a href="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png"><img src="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+581268 Squidbillies: 1  
+### 2323132
+**Squidbillies S13E01 - One Man Banned**  
+TV-MA-LSV 🔓 11:16  
+⌛ December 12, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/one-man-banned  
+seriesid=`581268` titleid=`2323132` id=`AXzIE4_-4Xbjep71f6HV` mediaid=`49586754e10a67c9696d94131abc5b69c21f3cd0`  
+_Early exercises his freedom of speech by speeching differently from now on._  
+<a href="https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181526461-Squidbillies_1109_OneManBanned.png"><img src="https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181526461-Squidbillies_1109_OneManBanned.png" height="144px" /></a>
