@@ -1,22 +1,20 @@
 {
-    "updated": 1639305196,
-    "added": [
+    "updated": 1639364240,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1648373340,
-            "tms_id": "EP034917240197",
-            "description": "Shikaku outlines his final strategy, in which Nine Tails will send its chakra to increase everyone's strength. United in their cause, Naruto and the Allied Shinobi set out to take on Ten Tails.",
+            "auth_expiration_date": null,
+            "tms_id": "",
+            "description": "Early exercises his freedom of speech by speeching differently from now on.",
             "title_suggest": {
                 "input": [
-                    "Those Who Dance in the Shadows",
-                    "Who Dance in the Shadows",
-                    "Dance in the Shadows",
-                    "in the Shadows",
-                    "the Shadows",
-                    "Shadows"
+                    "One Man Banned",
+                    "Man Banned",
+                    "Banned"
                 ]
             },
-            "title": "Those Who Dance in the Shadows",
-            "expiration_date": null,
+            "title": "One Man Banned",
+            "expiration_date": 1639371540,
             "type": "episode",
             "platforms": [
                 "android",
@@ -24,35 +22,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 0,
-            "episode_number": "17",
-            "original_air_date": "1639292400",
-            "auth_launch_date": 1639305000,
+            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+            "duration": 676.7094,
+            "episode_number": "1",
+            "original_air_date": "1636347600",
+            "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "",
-            "media_id": "ba9cf317247873809137a8d241d2ee568f143b78",
-            "modified": 1639173145,
-            "slug": "those-who-dance-in-the-shadows",
+            "airing_id": "RADS1011052100042575",
+            "media_id": "49586754e10a67c9696d94131abc5b69c21f3cd0",
+            "modified": 1636403227,
+            "slug": "one-man-banned",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png",
-            "created": 1639150669,
-            "season_number": "7",
-            "title_id": "2177794",
-            "tv_rating": "tv-pg-lv",
-            "published": 1639173145,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181526461-Squidbillies_1109_OneManBanned.png",
+            "created": 1635444297,
+            "season_number": "13",
+            "title_id": "2323132",
+            "tv_rating": "tv-ma-lsv",
+            "published": 1636403227,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Squidbillies",
             "disable_ads": false,
-            "modified_by": "Jonathan Jackson",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png",
-            "id": "AX2k_k1UUQa40cfnRS7U",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "modified_by": "Sara Griggs",
+            "launch_date": 1636347600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181526461-Squidbillies_1109_OneManBanned.png",
+            "id": "AXzIE4_-4Xbjep71f6HV",
+            "auth": false,
+            "collection_slug": "squidbillies",
+            "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
