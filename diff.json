@@ -1,20 +1,19 @@
 {
-    "updated": 1639384226,
-    "added": [
+    "updated": 1639407629,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1631246340,
-            "tms_id": "EP028359580023",
-            "description": "Curtis and Steve protect their condo from a pair of inept burglars, while Charlene starts a new life and opens a bakery.",
+            "auth_expiration_date": 1639405597,
+            "tms_id": "EP036780850024",
+            "description": "Towa, Setsuna, and Moroha are left to confront Kirinmaru, but in the face of overwhelming power, they must pay a great price.",
             "title_suggest": {
                 "input": [
-                    "Foods of the World",
-                    "of the World",
-                    "the World",
-                    "World"
+                    "Sesshomaru's Daughter",
+                    "Daughter"
                 ]
             },
-            "title": "Foods of the World",
-            "expiration_date": 2084418000,
+            "title": "Sesshomaru's Daughter",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,35 +21,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWBMMba1Z-onAnjDLthP",
-            "duration": 674.4071,
-            "episode_number": "2",
-            "original_air_date": "1592366400",
-            "auth_launch_date": 1628222400,
+            "collection_id": "AXpED60VBH5Z6gH5aWXi",
+            "duration": 0,
+            "episode_number": "24",
+            "original_air_date": "1639290600",
+            "auth_launch_date": 1639303200,
             "clip_order": null,
-            "airing_id": "RADS1007022000007858",
-            "media_id": "188a9d10d725add27205e6dc31ec67ee25045916",
-            "modified": 1639367782,
-            "slug": "foods-of-the-world",
+            "airing_id": "",
+            "media_id": "fcddca83c206c86b21921a33d933ca426b5148f2",
+            "modified": 1639405604,
+            "slug": "sesshomarus-daughter",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200611/thumbnails/1_20611836401-TenderTouches_302_dup-20200604.jpg",
-            "created": 1591879005,
-            "season_number": "3",
-            "title_id": "2222965",
-            "tv_rating": "tv-14-dlv",
-            "published": 1639367782,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101036316-YashahimePrincessHalfDemon_124_SesshomarusDaughter.png",
+            "created": 1639150601,
+            "season_number": "1",
+            "title_id": "2268304",
+            "tv_rating": "tv-14-lv",
+            "published": 1639405604,
             "tags": [],
-            "collection_title": "Tender Touches",
+            "collection_title": "Yashahime: Princess Half-Demon",
             "disable_ads": false,
             "modified_by": "Jonathan Jackson",
-            "launch_date": 1639383300,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200611/thumbnails/2_20611836401-TenderTouches_302_dup-20200604.jpg",
-            "id": "AXKjYfcBC8QgH-t19JnC",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101036316-YashahimePrincessHalfDemon_124_SesshomarusDaughter.png",
+            "id": "AX2k_Ua44Xbjep71f6Ho",
             "auth": false,
-            "collection_slug": "tender-touches",
-            "collection_title_id": "2144136",
+            "collection_slug": "yashahime-princess-half-demon",
+            "collection_title_id": "2268280",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
