@@ -1,53 +1,5 @@
 [
     {
-        "ott_launch_date": 1447789740,
-        "auth_expiration_date": 1639457940,
-        "tms_id": "SH018336770000",
-        "description": "Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time.",
-        "title_suggest": {
-            "input": [
-                "Broomshakalaka"
-            ]
-        },
-        "expiration_date": 1636433940,
-        "type": "episode",
-        "title": "Broomshakalaka",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 635.4170142,
-        "episode_number": "1",
-        "original_air_date": 1386666000,
-        "auth_launch_date": 1636434000,
-        "clip_order": null,
-        "media_id": "20cd6e2709abbcf7ecd5d3d9a2119f3e03801712",
-        "modified": 1636159184,
-        "airing_id": "RADS1010082100036815",
-        "slug": "broomshakalaka",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150986087747.jpg",
-        "created": 1510603670,
-        "season_number": "3",
-        "title_id": "2007826",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1636159184,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1634011200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg",
-        "id": "AV-2_sJ8wdpKFAKSbWYY",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1447789260,
         "auth_expiration_date": 1640062740,
         "tms_id": "SH018336790000",
@@ -313,7 +265,7 @@
         "launch_date": 1637038800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509835916018.jpg",
         "id": "AV-3HWt2Z-onAnjDLtAg",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789140,
@@ -464,6 +416,60 @@
         "launch_date": 1638853200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150981959475.jpg",
         "id": "AV-3J1rFwdpKFAKSbWaw",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1447789140,
+        "auth_expiration_date": 1621310340,
+        "tms_id": "SH020665860000",
+        "description": "Renowned billionaire Frank Pierre invites you to tour his brand new Hotel and Casino.",
+        "title_suggest": {
+            "input": [
+                "Frank Pierre Presents: Pierre Resort & Casino",
+                "Pierre Presents: Pierre Resort & Casino",
+                "Presents: Pierre Resort & Casino",
+                "Pierre Resort & Casino",
+                "Resort & Casino",
+                "& Casino",
+                "Casino"
+            ]
+        },
+        "expiration_date": 1641877200,
+        "type": "episode",
+        "title": "Frank Pierre Presents: Pierre Resort & Casino",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 643.500417,
+        "episode_number": "10",
+        "original_air_date": 1417510800,
+        "auth_launch_date": 1618286400,
+        "clip_order": null,
+        "media_id": "9fac39eb7b82a83079e71a42ada5d8dd4f86b032",
+        "modified": 1639433497,
+        "airing_id": "RADS1004072100087938",
+        "slug": "frank-pierre-presents-pierre-resort-casino",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509813513710.jpg",
+        "created": 1510606492,
+        "season_number": "4",
+        "title_id": "2043272",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1639433497,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1639458000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509813513710.jpg",
+        "id": "AV-3KdR1wdpKFAKSbWa5",
         "auth": false
     }
 ]
