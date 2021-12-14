@@ -1,57 +1,62 @@
 {
-    "updated": 1639470738,
-    "added": [
+    "updated": 1639525524,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1639457940,
-            "tms_id": "EP039545550004",
-            "description": "After escaping their pursuers, Fena and the crew head towards Libar-Oberstein where the stone was manufactured. Fena, who had been frustrated from causing Yukimaru to be injured, pleads for her friends to teach her how to fight.",
+            "auth": false,
+            "ott_launch_date": 1451671140,
+            "auth_expiration_date": null,
+            "tms_id": "EP004625740049",
+            "rating": 8.768096,
+            "description": "Before going on vacation, Thundercleese asks Brak to take care of his beloved goldfish, Mr. Tickles. After Brak accidentally kills the goldfish, it appears in one of his dreams.",
             "title_suggest": {
                 "input": [
-                    "The Mystery of the Stone",
-                    "Mystery of the Stone",
-                    "of the Stone",
-                    "the Stone",
-                    "Stone"
+                    "Goldfish"
                 ]
             },
-            "title": "The Mystery of the Stone",
             "type": "episode",
-            "expiration_date": 1642404540,
+            "title": "Goldfish",
+            "expiration_date": 2085368400,
             "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
+                "web",
+                "mobile",
+                "ott"
             ],
-            "collection_id": "AXsNFqJDeTntnGIjub05",
-            "duration": 1419.8851,
-            "episode_number": "4",
-            "original_air_date": 1630209600,
-            "auth_launch_date": 1638693000,
+            "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
+            "duration": 676.5,
+            "episode_number": "1",
+            "original_air_date": 999484200,
             "clip_order": null,
-            "airing_id": "RADS1010212100038414",
-            "media_id": "fa2ac54dceb5432236406a7f91c8a84a31a57e64",
-            "modified": 1639432774,
-            "slug": "the-mystery-of-the-stone",
+            "auth_launch_date": null,
+            "modified": 1621492833,
+            "media_id": "55842c06853fb7ca52c1924d294fe4984be6a1b2",
+            "airing_id": "RADS1006071900097651",
+            "id": "VDWhpXruRNmGw5r1vUq6Pg",
+            "slug": "goldfish",
+            "views": 229175,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/1_218271051467-FenaPiratePrincess_104_TheMysteryOfTheStone.png",
-            "created": 1629995275,
-            "title_id": "2218285",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_2032142793-brak_2101.jpg",
+            "created": 1402945478,
+            "title_id": "344203",
             "season_number": "1",
-            "tv_rating": "tv-pg-dlv",
-            "published": 1639432774,
-            "tags": [],
-            "collection_title": "Fena: Pirate Princess",
+            "tv_rating": "tv-pg-l",
+            "active": true,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1621492833,
+            "tags": [
+                "brak show episode 1 goldfish premiere babysit thundercleese lake toilet death tickles"
+            ],
+            "rating_count": 677,
+            "collection_title": "The Brak Show",
             "disable_ads": false,
-            "modified_by": "Jonathan Jackson",
-            "launch_date": 1639470600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271051467-FenaPiratePrincess_104_TheMysteryOfTheStone.png",
-            "id": "AXuDShMZeTntnGIjub1O",
-            "auth": false,
-            "collection_slug": "fena-pirate-princess",
-            "collection_title_id": "2218281",
+            "modified_by": "ODT Listener",
+            "launch_date": 1560052800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg",
+            "cma_id": "1469990",
+            "collection_slug": "the-brak-show",
+            "collection_title_id": "340531",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
