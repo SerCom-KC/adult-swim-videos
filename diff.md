@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 14, 2021 at 04:00:30 EST_
+_Last Update: December 14, 2021 at 19:00:33 EST_
 ## Video added
-### Summary
-2218281 Fena: Pirate Princess: 1  
-### 2218285
-**Fena: Pirate Princess S01E04 - The Mystery of the Stone**  
-TV-PG-DLV 🔓 23:39  
-⌛ January 17, 2022 at 02:29:00 EST  
-https://www.adultswim.com/videos/fena-pirate-princess/the-mystery-of-the-stone  
-seriesid=`2218281` titleid=`2218285` id=`AXuDShMZeTntnGIjub1O` mediaid=`fa2ac54dceb5432236406a7f91c8a84a31a57e64`  
-_After escaping their pursuers, Fena and the crew head towards Libar-Oberstein where the stone was manufactured. Fena, who had been frustrated from causing Yukimaru to be injured, pleads for her friends to teach her how to fight._  
-<a href="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271051467-FenaPiratePrincess_104_TheMysteryOfTheStone.png"><img src="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271051467-FenaPiratePrincess_104_TheMysteryOfTheStone.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+340531 The Brak Show: 1  
+### 344203
+**The Brak Show S01E01 - Goldfish**  
+TV-PG-L 🔓 11:16  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/goldfish  
+seriesid=`340531` titleid=`344203` id=`VDWhpXruRNmGw5r1vUq6Pg` mediaid=`55842c06853fb7ca52c1924d294fe4984be6a1b2`  
+_Before going on vacation, Thundercleese asks Brak to take care of his beloved goldfish, Mr. Tickles. After Brak accidentally kills the goldfish, it appears in one of his dreams._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg" height="144px" /></a>
