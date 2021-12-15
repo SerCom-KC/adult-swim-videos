@@ -1,6 +1,59 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1447784280,
+        "auth_expiration_date": 1614747540,
+        "tms_id": "EP008994530021",
+        "rating": 7.6751175,
+        "description": "Tim returns from the grave with a special gift. Paninis smell like horse.\r\n(John C. Reilly)",
+        "title_suggest": {
+            "input": [
+                "Resurrection"
+            ]
+        },
+        "type": "episode",
+        "title": "Resurrection",
+        "expiration_date": 1642568340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 694.006,
+        "episode_number": "1",
+        "original_air_date": 1217219400,
+        "clip_order": null,
+        "auth_launch_date": 1611723600,
+        "modified": 1639524170,
+        "media_id": "d7f6324b06a1c99b3310316e533aa5847fa57822",
+        "airing_id": "RADS1001222100065584",
+        "id": "0kLXvBSvSG-9hWX6RBbP3w",
+        "slug": "resurrection",
+        "views": 345526,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116168187-timanderic_301.jpg",
+        "created": 1402945482,
+        "title_id": "723265",
+        "season_number": "3",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1639524170,
+        "tags": [
+            "tim eric awesome show great job episode 21 resurrection season premiere return steve brule paninis griddleman"
+        ],
+        "rating_count": 3195,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1639544400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116168187-timanderic_301.jpg",
+        "cma_id": "1328371"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447784160,
         "auth_expiration_date": 1613537940,
         "tms_id": "EP008994530019",
@@ -207,59 +260,6 @@
         "launch_date": 1635912000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116169229-timanderic_203.jpg",
         "cma_id": "1291207"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783920,
-        "auth_expiration_date": 1639544340,
-        "tms_id": "EP008994530011",
-        "rating": 7.7815695,
-        "description": "The existence of someone as cool as Raz threatens to drive a wedge through the Tim and Eric partnership. (Bob Odenkirk, Al Yankovic)",
-        "title_suggest": {
-            "input": [
-                "Vacation"
-            ]
-        },
-        "type": "episode",
-        "title": "Vacation",
-        "expiration_date": 1636520340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 697.026,
-        "episode_number": "1",
-        "original_air_date": 1195449300,
-        "clip_order": null,
-        "auth_launch_date": 1636520400,
-        "modified": 1636139615,
-        "media_id": "c6090cbf859ca0604b58f928711bdbc3e5ac46c7",
-        "airing_id": "RADS1011052100042462",
-        "id": "NrQiFf6wSq6uQF7rQolNkQ",
-        "slug": "vacation",
-        "views": 1238004,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161622179-timanderic_201.jpg",
-        "created": 1402945481,
-        "title_id": "691937",
-        "tv_rating": "tv-14",
-        "season_number": "2",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1636139615,
-        "tags": [
-            "time and eric awesome show great job episode 11 vacation raz bob odenkirk al yankovic"
-        ],
-        "rating_count": 7824,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1633492800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161622179-timanderic_201.jpg",
-        "cma_id": "691937"
     },
     {
         "auth": false,
@@ -480,7 +480,7 @@
         "cma_id": "1303437"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784100,
         "auth_expiration_date": 1642568340,
         "tms_id": "EP008994530020",
