@@ -51,56 +51,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1551713400,
-        "auth_expiration_date": 1639717140,
-        "tms_id": "",
-        "description": "It's Sports Day on the island so it's time to watch everyone having fun competing in sports events before they then go to Nightballers to celebrate with a bottle of deelushus Scrumpy Cider.",
-        "title_suggest": {
-            "input": [
-                "The Sports Day",
-                "Sports Day",
-                "Day"
-            ]
-        },
-        "title": "The Sports Day",
-        "expiration_date": 1639165957,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWg5dZFTHl5gR6828xwU",
-        "duration": 673.5,
-        "episode_number": "10",
-        "original_air_date": 1551503700,
-        "auth_launch_date": 1636693200,
-        "clip_order": null,
-        "media_id": "04748bf597268f1a1453e361f416a19b26beb0e3",
-        "modified": 1639165960,
-        "airing_id": "RADS1011082100042766",
-        "slug": "the-sports-day",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155130163810512.jpg",
-        "created": 1547499772,
-        "season_number": "1",
-        "title_id": "2184460",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1639165960,
-        "tags": [],
-        "collection_title": "Tropical Cop Tales",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": 1553329800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155130163810512.jpg",
-        "id": "AWhOLJuhHl5gR6828xz_",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1549899000,
         "auth_expiration_date": 1642741140,
         "tms_id": "",
@@ -150,7 +100,7 @@
         "launch_date": 1636693200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154946625711415.jpg",
         "id": "AWhOLtBJHl5gR6828x0A",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1551108600,
@@ -461,6 +411,58 @@
         "launch_date": 1552120200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501557320323.jpg",
         "id": "AWjO_Tz0AScUIg8Xxc9u",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1551108600,
+        "auth_expiration_date": 1638507540,
+        "tms_id": "EP031428790008",
+        "description": "It has officially become The Night of the Fang at Big Danny's Pet Store where a very hairy individual is imprisoned in the pet shop behind the pet shop behind the pet shop. S**t yeah!",
+        "title_suggest": {
+            "input": [
+                "The Night of the Fang",
+                "Night of the Fang",
+                "of the Fang",
+                "the Fang",
+                "Fang"
+            ]
+        },
+        "title": "The Night of the Fang",
+        "expiration_date": 1642741200,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWg5dZFTHl5gR6828xwU",
+        "duration": 676.83,
+        "episode_number": "8",
+        "original_air_date": 1550898900,
+        "auth_launch_date": 1635480000,
+        "clip_order": null,
+        "media_id": "05a20cbe34a718066c19c7b890579d7ece24505a",
+        "modified": 1639691828,
+        "airing_id": "RADS1003081900072874",
+        "slug": "the-night-of-the-fang",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15507710090198.jpg",
+        "created": 1550168208,
+        "season_number": "1",
+        "title_id": "2184458",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1639691828,
+        "tags": [],
+        "collection_title": "Tropical Cop Tales",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1639717200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15507710090198.jpg",
+        "id": "AWjtObPKAScUIg8XxdJu",
         "auth": false
     },
     {
