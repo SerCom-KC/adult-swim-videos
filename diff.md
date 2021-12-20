@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 19, 2021 at 12:30:27 EST_
+_Last Update: December 20, 2021 at 00:00:29 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-581006 American Dad: 1  
-### 748162
-**American Dad S07E06 - The Scarlett Getter**  
-TV-14-DLSV 🔓 21:49  
-⌛ December 19, 2021 at 11:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-scarlett-getter  
-seriesid=`581006` titleid=`748162` id=`Q4ofrtK9S8KnMsk2dPK5PA` mediaid=`224e43932c8ac344c3836d77c11f24ce1bd2d857`  
-_Francine is disgusted when Stan reestablishes contact with a crush from CIA boot camp; Bullock hires a bounty hunter to capture Roger; Steve wears Hayley's panties after concluding they bring him luck._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464893328814.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464893328814.jpg" height="144px" /></a>
+2224723 YOLO Crystal Fantasy: 1  
+### 2224724
+**YOLO Crystal Fantasy S01E01 - Maddison's Birthday Party**  
+TV-14-LSV 🔒 11:22  
+⌛ January 23, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/yolo-crystal-fantasy/maddisons-birthday-party  
+seriesid=`2224723` titleid=`2224724` id=`AXR-UL0sLyLQBOXK_PNo` mediaid=`126c6c8fe03e94330179deb06aab55bdc2de497e`  
+_Rachel is invited to the party of her former school mate, Maddison, and takes BFF Sarah as her plus one. Can Rachel scale the tower to get a selfie with Maddison, and can Sarah escape the 'plus one' hell to which she has been relegated?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_209111619464-2_207211030518-YOLO_001_dup-20200326.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_209111619464-2_207211030518-YOLO_001_dup-20200326.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
