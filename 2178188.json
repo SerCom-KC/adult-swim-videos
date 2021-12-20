@@ -594,57 +594,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1556548200,
-        "auth_expiration_date": 1639976340,
-        "tms_id": "EP031867090007",
-        "description": "Prolly for the best.",
-        "title_suggest": {
-            "input": [
-                "Prolly for the Best",
-                "for the Best",
-                "the Best",
-                "Best"
-            ]
-        },
-        "title": "Prolly for the Best",
-        "type": "episode",
-        "expiration_date": 1636952340,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 683.04,
-        "episode_number": "7",
-        "original_air_date": 1556510400,
-        "auth_launch_date": 1636952400,
-        "clip_order": null,
-        "airing_id": "RADS1010082100036765",
-        "media_id": "37d3fcdeae1684756cc885694a2e84397b37e28d",
-        "modified": 1636740314,
-        "slug": "prolly-for-the-best",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15562178183946.jpg",
-        "created": 1556128087,
-        "title_id": "2178195",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1636740314,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1633924800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15562178183946.jpg",
-        "id": "AWpQdjyMHl5gR6828zVH",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1557153000,
         "auth_expiration_date": 1641185940,
         "tms_id": "EP031867090009",
@@ -747,6 +696,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1633924740,
+        "tms_id": "",
+        "description": "Prolly for the Better?",
+        "title_suggest": {
+            "input": [
+                "Prolly for the Better?",
+                "for the Better?",
+                "the Better?",
+                "Better?"
+            ]
+        },
+        "title": "Prolly for the Better?",
+        "expiration_date": 1643000340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 663.3961,
+        "episode_number": "7",
+        "original_air_date": "1609736400",
+        "auth_launch_date": 1630900800,
+        "clip_order": null,
+        "airing_id": "RADS1012172100053475",
+        "media_id": "1cfcc49ce8f934ac57201ff9a4db295da510b25b",
+        "modified": 1639784302,
+        "slug": "prolly-for-the-better",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241042103-LazorWulf_207_dup-20201006_ProllyForBetter.jpg",
+        "created": 1606232532,
+        "season_number": "2",
+        "title_id": "2224738",
+        "tv_rating": "tv-14-l",
+        "published": 1639784302,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1639976400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241042103-LazorWulf_207_dup-20201006_ProllyForBetter.jpg",
+        "id": "AXX662fabxpjZvbXYlcz",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1642395540,
         "tms_id": "EP031867090013",
         "description": "Still Dying to Eat.",
@@ -841,7 +837,7 @@
         "launch_date": 1636952400,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg",
         "id": "AXX66MmlLyLQBOXK_Prg",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1631505540,
