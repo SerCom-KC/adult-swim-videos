@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 21, 2021 at 06:30:27 EST_
+_Last Update: December 21, 2021 at 07:00:27 EST_
 ## Video added
 ### Summary
 812206 Naruto: Shippuden: 1  
-### 2177772
-**Naruto: Shippuden S06E60 - Who Are You?**  
-TV-PG-V 🔒 21:51  
-⌛ December 26, 2021 at 05:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/who-are-you  
-seriesid=`812206` titleid=`2177772` id=`AXmefAcZBH5Z6gH5aWRd` mediaid=`f48370a0e7aa12d4a93b4b691724b79f84ef319e`  
-_Kakashi is disturbed to discover a strange connection between the masked man's Transportation Technique and his own Kamui Jutsu._  
-<a href="https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271151336-NarutoShippuden_343_WhoAreYou.png"><img src="https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271151336-NarutoShippuden_343_WhoAreYou.png" height="144px" /></a>
+### 2177754
+**Naruto: Shippuden S06E42 - Jinchuriki vs. Jinchuriki!!**  
+TV-PG-LV 🔒 21:51  
+⌛ April 20, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/jinchuriki-vs-jinchuriki  
+seriesid=`812206` titleid=`2177754` id=`AXcSB1PbQJ_4Uej5kTmg` mediaid=`29bf5708c9c39986b93b4e3216dc45e468ec45c9`  
+_Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan._  
+<a href="https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
