@@ -50,6 +50,56 @@
         "cma_id": "1463114"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1619582340,
+        "tms_id": "EP020020000023",
+        "description": "A severely overweight young man asks Mike Tyson to help him get in shape.",
+        "title_suggest": {
+            "input": [
+                "Losin' it",
+                "it"
+            ]
+        },
+        "expiration_date": 1643173140,
+        "title": "Losin' it",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 682.2085071,
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "episode_number": "13",
+        "original_air_date": 1462160700,
+        "clip_order": null,
+        "auth_launch_date": 1613538000,
+        "modified": 1639797422,
+        "media_id": "767848976e4f90a7295edcb5cf900b1d175782e4",
+        "airing_id": "RADS1012172100053655",
+        "id": "6NIBPeQvQMWIo1xKfFMmtw",
+        "slug": "losin-it",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111527570-miketysonmysteries_022.jpg",
+        "created": 1445444038,
+        "season_number": "2",
+        "title_id": "2069746",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1639797422,
+        "first_published": 1461823925,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1640149200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111527570-miketysonmysteries_022.jpg",
+        "cma_id": "1463062"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1642568340,
         "tms_id": "",
@@ -341,7 +391,7 @@
         "launch_date": 1637125200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171326367-miketysonmysteries_418.jpg",
         "id": "AW-BQkL-GRcVO2K2pl_v",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -593,61 +643,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152529333504413.jpg",
         "id": "AWMikhyrTdxzjxdCltvE",
         "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1640149140,
-        "tms_id": "EP020020000059",
-        "description": "Why haven't the swallows returned to San Juan Capistrano?",
-        "title_suggest": {
-            "input": [
-                "San Juan Puerto Rico Blows but San Juan Capistrano\u2026",
-                "Juan Puerto Rico Blows but San Juan Capistrano\u2026",
-                "Puerto Rico Blows but San Juan Capistrano\u2026",
-                "Rico Blows but San Juan Capistrano\u2026",
-                "Blows but San Juan Capistrano\u2026",
-                "but San Juan Capistrano\u2026",
-                "San Juan Capistrano\u2026",
-                "Juan Capistrano\u2026",
-                "Capistrano\u2026"
-            ]
-        },
-        "title": "San Juan Puerto Rico Blows but San Juan Capistrano\u2026",
-        "type": "episode",
-        "expiration_date": 1634097540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 667.3667,
-        "episode_number": "8",
-        "original_air_date": 1563768900,
-        "auth_launch_date": 1634097600,
-        "clip_order": null,
-        "airing_id": "RADS1009032100026666",
-        "media_id": "a8756cadae6d31c465610218f42f393e2c6d3c62",
-        "modified": 1633742775,
-        "slug": "san-juan-puerto-rico-blows-but-san-juan-capistrano",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190719/thumbnails/1_19719125373-miketysonmysteries_408_dup-20190605.jpg",
-        "created": 1563547807,
-        "title_id": "2172005",
-        "season_number": "4",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1633742775,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1631073600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20190719/thumbnails/2_19719125373-miketysonmysteries_408_dup-20190605.jpg",
-        "id": "AWwKti3r4aLemgzOLF2b",
-        "auth": true
     },
     {
         "ott_launch_date": null,
