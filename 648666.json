@@ -319,57 +319,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447168620,
-        "auth_expiration_date": 1640149140,
-        "tms_id": "EP008519090011",
-        "rating": 8.881458,
-        "description": "Uncomfortable and embarrassed, Dethklok painfully endures while their parents are in town for a visit.  The guys are at first pissed and doubtful when their parents announce the release of their \"Parents of Dethklok\" album, but are then impressed by the depth of their parents' anger.",
-        "title_suggest": {
-            "input": [
-                "Dethfam"
-            ]
-        },
-        "type": "episode",
-        "title": "Dethfam",
-        "expiration_date": 1637125140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 690.9009009,
-        "episode_number": "7",
-        "original_air_date": 1157946300,
-        "clip_order": null,
-        "auth_launch_date": 1637125200,
-        "modified": 1636758544,
-        "media_id": "9344b70f84bc3b527355be7f35b4856446fa58f8",
-        "airing_id": "RADS1010082100037106",
-        "id": "YX7fnGsqS2CyVHoRjYlQLw",
-        "slug": "dethfam",
-        "views": 481321,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111123419-metalocalypse_107.jpg",
-        "created": 1402945469,
-        "title_id": "651228",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1636758544,
-        "tags": [],
-        "rating_count": 1915,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1634097600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111123419-metalocalypse_107.jpg",
-        "cma_id": "1393756"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447168680,
         "auth_expiration_date": 1641963540,
         "tms_id": "EP008519090009",
@@ -422,7 +371,7 @@
         "cma_id": "1410636"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168560,
         "auth_expiration_date": 1643173140,
         "tms_id": "EP008519090012",
@@ -529,6 +478,66 @@
         "launch_date": 1636520400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111125123-metalocalypse_112.jpg",
         "cma_id": "1414280"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447168800,
+        "auth_expiration_date": 1611118740,
+        "tms_id": "EP008519090017",
+        "rating": 8.787536,
+        "description": "The Tribunal commissions Dr. Rockzo, The Rock N Roll Clown, to gather information on Dethklok. Dr. Rockzo and Toki's sudden friendship has the rest of Dethklok uneasy.",
+        "title_suggest": {
+            "input": [
+                "Dethclown"
+            ]
+        },
+        "type": "episode",
+        "title": "Dethclown",
+        "expiration_date": 1643173140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 692.5338672,
+        "episode_number": "17",
+        "original_air_date": 1164602700,
+        "clip_order": null,
+        "auth_launch_date": 1608094800,
+        "modified": 1639797424,
+        "media_id": "5475a377d6f36ef34ad3dca407f8d03b02970982",
+        "airing_id": "RADS1012172100053648",
+        "id": "nVfCahPQSvW8PzDuAr1YhQ",
+        "slug": "dethclown",
+        "views": 572552,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111126564-metalocalypse_117.jpg",
+        "created": 1402945469,
+        "title_id": "655951",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1639797424,
+        "tags": [
+            "metalocalypse",
+            "dethklok",
+            "episode 17",
+            "dethclown",
+            "doctor",
+            "dr",
+            "rockzo",
+            "spy"
+        ],
+        "rating_count": 2085,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1640149200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111126564-metalocalypse_117.jpg",
+        "cma_id": "1435303"
     },
     {
         "auth": false,
