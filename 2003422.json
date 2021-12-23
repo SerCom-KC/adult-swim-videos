@@ -155,6 +155,52 @@
         "cma_id": "1493996"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1640840340,
+        "tms_id": "EP012792980017",
+        "description": "Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes \"BOB SUX\" on the leader board.",
+        "title_suggest": {
+            "input": [
+                "Burgerboss"
+            ]
+        },
+        "title": "Burgerboss",
+        "type": "episode",
+        "expiration_date": 1630295940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.6551,
+        "episode_number": "4",
+        "original_air_date": 1376881200,
+        "auth_launch_date": 1640235600,
+        "clip_order": null,
+        "modified": 1639808498,
+        "media_id": "4cdd76bc8d9151f4f3355fc945013de870cca96f",
+        "airing_id": "RADS1012172100053743",
+        "id": "4d4V76qWQ1SI9IOvsnT-hA",
+        "slug": "burgerboss",
+        "views": 1,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15214844247735.jpg",
+        "created": 1407126037,
+        "title_id": "2003439",
+        "tv_rating": "tv-14",
+        "season_number": "2",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1639808498,
+        "first_published": 1407126037,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1629691200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214844247735.jpg",
+        "cma_id": "2003439"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1634875140,
@@ -505,56 +551,6 @@
         "launch_date": 1639976400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079760401.jpg",
         "cma_id": "1484710"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1640235540,
-        "tms_id": "EP012792980006",
-        "description": "Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day.",
-        "title_suggest": {
-            "input": [
-                "Sheesh! Cab, Bob?",
-                "Cab, Bob?",
-                "Bob?"
-            ]
-        },
-        "expiration_date": 1628481540,
-        "title": "Sheesh! Cab, Bob?",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1294.5599,
-        "episode_number": "6",
-        "original_air_date": 1373335200,
-        "clip_order": null,
-        "auth_launch_date": 1639630800,
-        "modified": 1639624189,
-        "media_id": "d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95",
-        "airing_id": "RADS1010012100033948",
-        "id": "Z-2JQXrqSduNuyz2syFZpQ",
-        "slug": "sheesh-cab-bob",
-        "views": 4589,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088799923017.jpg",
-        "created": 1403209880,
-        "season_number": "1",
-        "title_id": "2003428",
-        "tv_rating": "tv-pg-dls",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1639624189,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": 1627876800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg",
-        "cma_id": "1491680"
     },
     {
         "auth": true,

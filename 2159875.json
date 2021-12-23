@@ -259,6 +259,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15302901493284.jpg"
     },
     {
+        "ott_launch_date": 1530541740,
+        "auth": false,
+        "auth_expiration_date": 1638421140,
+        "tms_id": "EP029829490002",
+        "description": "Millennial hero Derrick Beckles interviews millennial superstar Madison Beer.",
+        "title_suggest": {
+            "input": [
+                "Feelings & Emotions",
+                "& Emotions",
+                "Emotions"
+            ]
+        },
+        "title": "Feelings & Emotions",
+        "type": "episode",
+        "expiration_date": 1643259540,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWPW8JhjqBveI_0AhKbg",
+        "duration": 677.2,
+        "episode_number": "2",
+        "original_air_date": 1530504900,
+        "auth_launch_date": 1636606800,
+        "clip_order": null,
+        "media_id": "d94bdd0bcf67527bc08347783025d2d5d95daa07",
+        "modified": 1639814593,
+        "airing_id": "RADS1012172100053685",
+        "id": "AWRDFVNFTdxzjxdCmpC2",
+        "slug": "feelings-emotions",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15302900974953.jpg",
+        "created": 1530133828,
+        "title_id": "2160051",
+        "tv_rating": "tv-ma-lsv",
+        "season_number": "1",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1639814593,
+        "tags": [],
+        "collection_title": "Mostly 4 Millennials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1640235600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15302900974953.jpg"
+    },
+    {
         "ott_launch_date": 1531146540,
         "auth": true,
         "auth_expiration_date": 1641445140,
@@ -306,7 +354,7 @@
     },
     {
         "ott_launch_date": 1531751340,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1642049940,
         "tms_id": "EP029829490005",
         "description": "Millennial hero Derrick Beckles interviews millennial rapper Joey Bada$$, does an unboxing video, and catches a pervert.",

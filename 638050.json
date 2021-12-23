@@ -213,7 +213,7 @@
         "cma_id": "926338"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446762840,
         "auth_expiration_date": 1643259540,
         "tms_id": "EP008626240007",
@@ -320,61 +320,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1446762720,
-        "auth_expiration_date": 1640235540,
-        "tms_id": "EP008626240002",
-        "rating": 7.6881824,
-        "description": "Billionaire tycoon Xander Crews (and his alter-ego, superhero Awesome-X)have a problem: billionaire tycoon Xander Crews has frittered away the (literally) billions of dollars amassed  by his murdered parents.  So he mortgages the company to produce a line of Awesome-X action figures.  The only catch is, he needs a supervillain doll...",
-        "title_suggest": {
-            "input": [
-                "Meet Awesome X",
-                "Awesome X",
-                "X"
-            ]
-        },
-        "type": "episode",
-        "title": "Meet Awesome X",
-        "expiration_date": 1637211540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 689.1668335,
-        "episode_number": "2",
-        "original_air_date": 1161577800,
-        "clip_order": null,
-        "auth_launch_date": 1637211600,
-        "modified": 1636790409,
-        "media_id": "11e495a8f3031caade1559ffd2a202d48000e2d2",
-        "airing_id": "RADS1011112100045097",
-        "id": "AtuynknuRCqWtYzMak78Pw",
-        "slug": "meet-awesome-x",
-        "views": 614048,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341651473-fd_002.jpg",
-        "created": 1402945466,
-        "title_id": "640586",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1636790409,
-        "tags": [
-            "frisky dingo episode 2 meet awesome x xander crews billionaire postcard"
-        ],
-        "rating_count": 2107,
-        "collection_title": "Frisky Dingo",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1634184000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341651473-fd_002.jpg",
-        "cma_id": "926760"
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1446763020,
         "auth_expiration_date": 1630555140,
         "tms_id": "EP008626240011",
@@ -424,6 +369,58 @@
         "modified_by": "Jonathan Jackson",
         "launch_date": 1639630800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341655247-fd_011.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446763020,
+        "auth_expiration_date": 1631159940,
+        "tms_id": "EP008626240012",
+        "rating": 6.7616234,
+        "description": "Equipped only with a map, a bag of radishes, and brand new eyes goggling about in their heads, Killface and billionaire tycoon Xander Crews (aka Barnaby Jones) attempt to rescue Simon from the evil clutches of master criminal Torpedo Vegas. Who instantly captures them. And then forces them to fight... to the death! Could this be the end?!",
+        "title_suggest": {
+            "input": [
+                "Penultimate Fighting",
+                "Fighting"
+            ]
+        },
+        "type": "episode",
+        "title": "Penultimate Fighting",
+        "expiration_date": 1643259540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 664.7007007,
+        "episode_number": "12",
+        "original_air_date": 1168839000,
+        "clip_order": null,
+        "auth_launch_date": 1628136000,
+        "modified": 1639814589,
+        "media_id": "3a51178c55cb3eb2c39f49e4b6d4ab1b9071dd85",
+        "airing_id": "RADS1012172100053673",
+        "id": "pHy4jz-nTRqLFK4YM2yEcw",
+        "slug": "penultimate-fighting",
+        "views": 371184,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341656416-fd_012.jpg",
+        "created": 1402945466,
+        "title_id": "661209",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1639814589,
+        "tags": [],
+        "rating_count": 2710,
+        "collection_title": "Frisky Dingo",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1640235600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341656416-fd_012.jpg",
         "cma_id": ""
     },
     {
