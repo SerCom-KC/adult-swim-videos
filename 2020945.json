@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1652414340,
         "tms_id": "EP019059960007",
@@ -226,7 +226,7 @@
         "cma_id": "1361025"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1646369940,
         "tms_id": "EP019059960058",
@@ -477,7 +477,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1646369940,
         "tms_id": "EP019059960066",
         "description": "The Scouts take a stand against a new enemy, but it's not just Titans they'll be fighting anymore.",
@@ -3204,7 +3204,7 @@
         "cma_id": "2117208"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1640408340,
         "tms_id": "EP019059960022",
