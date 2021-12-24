@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 24, 2021 at 12:00:33 EST_
+_Last Update: December 24, 2021 at 14:00:30 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-340531 The Brak Show: 1  
-### 417618
-**The Brak Show S02E04 - President Dad**  
-TV-PG 🔓 11:27  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-brak-show/president-dad  
-seriesid=`340531` titleid=`417618` id=`mccXjb2PR8mGvHrJRsWTHg` mediaid=`99dbc28a829b7e3601bb6d4b7177e574e5b6ea71`  
-_Dad gets upset with the neighborhood association and decides to run for its presidency. With the help of Brak and Zorak, he puts an ad in the newspaper filled with lies about the current president, Galrog. In retaliation, Galrog challenges Dad to a public debate._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg" height="144px" /></a>
+2266164 Tuca & Bertie: 1  
+### 2266169
+**Tuca & Bertie S02E05 - Vibe Check**  
+TV-14-DLSV 🔒 22:10  
+⌛ December 26, 2021 at 23:59:00 EST  
+https://www.adultswim.com/videos/tuca-bertie/vibe-check  
+seriesid=`2266164` titleid=`2266169` id=`AXp868R-DmGy9WFjRruX` mediaid=`0fd3916057079b0bca9aa4d1584937c215e30d35`  
+_Bertie's vibrator is giving her intrusive-yet-titillating thoughts, it must be broken... or maybe it's her bed... or her brain? Tuca wonders if her new friendship could be something more. Speckle's reeeally into his new video game._  
+<a href="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791116217-TucaAndBertie_205_VibeCheck.png"><img src="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791116217-TucaAndBertie_205_VibeCheck.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
