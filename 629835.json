@@ -53,6 +53,63 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1640926740,
+        "tms_id": "EP002070020130",
+        "rating": 8.662036,
+        "description": "Boomhauer slides into depression when he's dumped by the woman he loves.",
+        "title_suggest": {
+            "input": [
+                "Dang Ol' Love",
+                "Ol' Love",
+                "Love"
+            ]
+        },
+        "type": "episode",
+        "title": "Dang Ol' Love",
+        "expiration_date": 1506862799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1468.9675,
+        "episode_number": "20",
+        "original_air_date": 1233975600,
+        "clip_order": null,
+        "auth_launch_date": 1640322000,
+        "modified": 1639896798,
+        "media_id": "7ac651901e9c73b6d162570c82520474a8f6c4be",
+        "airing_id": "RADS1012172100053787",
+        "id": "0W-JeNqvRC-Bcmv2ZZwvAg",
+        "slug": "dang-ol-love",
+        "views": 387709,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15208903718195.jpg",
+        "created": 1402945468,
+        "title_id": "731390",
+        "season_number": "6",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1639896798,
+        "tags": [
+            "dang ol' love",
+            "boomhauer",
+            "depression",
+            "dumped",
+            "woman",
+            "love"
+        ],
+        "rating_count": 432,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506258000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208903718195.jpg",
+        "cma_id": "1479938"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1640408340,
         "tms_id": "EP002070020127",
         "rating": 8.860793,
@@ -233,62 +290,5 @@
         "launch_date": 1506137400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152089023988917.jpg",
         "cma_id": "1479224"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1640321940,
-        "tms_id": "EP002070020123",
-        "rating": 8.011694,
-        "description": "Hank is invited to join an exclusive all-Asian country club, but discovers he's only being courted because he's white.",
-        "title_suggest": {
-            "input": [
-                "A Man Without a Country Club",
-                "Man Without a Country Club",
-                "Without a Country Club",
-                "a Country Club",
-                "Country Club",
-                "Club"
-            ]
-        },
-        "type": "episode",
-        "title": "A Man Without a Country Club",
-        "expiration_date": 1506482999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": "1347",
-        "episode_number": "15",
-        "original_air_date": 1233716400,
-        "clip_order": null,
-        "auth_launch_date": 1639717200,
-        "modified": 1639435249,
-        "media_id": "20af3f716a443466b36f1ae5fa2ed4f5f196921e",
-        "airing_id": "",
-        "id": "zrKWhQjpQz2UzTmYPGG5bA",
-        "slug": "a-man-without-a-country-club",
-        "views": 114832,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152089010949813.jpg",
-        "created": 1402945468,
-        "title_id": "731376",
-        "season_number": "6",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1639435249,
-        "tags": [
-            "king of the hill koth episode 11 season 6 man without a country club"
-        ],
-        "rating_count": 171,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": 1505878200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152089010949813.jpg",
-        "cma_id": "1476049"
     }
 ]
