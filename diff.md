@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 27, 2021 at 01:00:29 EST_
+_Last Update: December 27, 2021 at 13:00:32 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-608360 Robot Chicken: 1  
-### 2270593
-**Robot Chicken S11E07 - May Cause Random Wolf Attacks**  
-TV-MA-V 🔓 11:11  
-⌛ December 27, 2021 at 00:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/may-cause-random-wolf-attacks  
-seriesid=`608360` titleid=`2270593` id=`AXvQ1Hl04Xbjep71f6G3` mediaid=`4771fbdbb54d6cc8c5bfe0111062561a4a5a8022`  
-_Robot Chicken locks and loads for a Darkwing Duck hunt; The show's greatest warriors assemble for a battle beyond the stars; Even Cobra Commander can't resist the Tiger King!_  
-<a href="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101349425-RobotChicken_1106_MayCauseRandomWolfAttacks.png"><img src="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101349425-RobotChicken_1106_MayCauseRandomWolfAttacks.png" height="144px" /></a>
+2194549 Gemusetto: 1  
+### 2241831
+**Gemusetto S02E06 - Episode Six: D7#9**  
+TV-MA-L 🔓 11:15  
+⌛ December 31, 2035 at 00:00:00 EST  
+https://www.adultswim.com/videos/gemusetto/episode-six-d-7-9  
+seriesid=`2194549` titleid=`2241831` id=`AXW5UJxxLyLQBOXK_Pg3` mediaid=`3899d10596255070113c51fc69b69f33afb10c8d`  
+_The ferry has crashed into the Inuit frozen underworld of Adlivun- but the Hindu death god Yama is waiting for them! Can Makasu escape the religious entities trying to judge his soul?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111735131-GSMP_206_dup-20201104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111735131-GSMP_206_dup-20201104.jpg" height="144px" /></a>
