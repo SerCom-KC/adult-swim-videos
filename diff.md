@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 28, 2021 at 08:00:26 EST_
+_Last Update: December 28, 2021 at 10:30:32 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177755
-**Naruto: Shippuden S06E43 - Four Tails, the King of Sage Monkeys**  
-TV-PG 🔒 21:51  
-⌛ December 28, 2021 at 07:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/four-tails-the-king-of-sage-monkeys  
-seriesid=`812206` titleid=`2177755` id=`AXcluHKYQJ_4Uej5kTnD` mediaid=`e377a62313a8a1f707054baf0485a3c8dbbdbdeb`  
-_Kakashi and Guy arrive in the nick of time to back up Naruto and Killer Bee. The fight intensifies even further when three out of the six Reanimated Jinchuriki enter Tailed Beast State._  
-<a href="https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211112587-NarutoShippuden_326_FourTails.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_211211112587-NarutoShippuden_326_FourTails.jpg" height="144px" /></a>
+340537 Aqua Teen Hunger Force: 1  
+### 448352
+**Aqua Teen Hunger Force S02E19 - The Shaving**  
+TV-14-LV 🔒 11:31  
+⌛ December 28, 2021 at 09:59:00 EST  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/the-shaving  
+seriesid=`340537` titleid=`448352` id=`LqlHkPm0Q0K_1KEl7H2V4w` mediaid=`04e52e43f9a316fe81155de527d85f47bdfff61a`  
+_It's Halloween at the Aqua Teen headquarters, and a monster comes down from the attic... to get his mail.   Much to his chagrin, the monster is unable to scare anyone - until he reveals a gruesome secret!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241547421-athf_037_dup-20170112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241547421-athf_037_dup-20170112.jpg" height="144px" /></a>
