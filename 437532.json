@@ -1,5 +1,98 @@
 [
     {
+        "auth_expiration_date": 1641445199,
+        "tms_id": "EP003034830003",
+        "description": "Evicted from the Planet Express offices, slob Fry moves in with robot Bender.",
+        "title_suggest": {
+            "input": [
+                "I, Roommate",
+                "Roommate"
+            ]
+        },
+        "title": "I, Roommate",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.4,
+        "episode_number": "3",
+        "original_air_date": "1042603200",
+        "auth_launch_date": 1640754000,
+        "clip_order": null,
+        "airing_id": "RADS1012242100056280",
+        "media_id": "06fa9e1fa2df77340000f959c6aa40e850bd7f6c",
+        "modified": 1640382574,
+        "slug": "i-roommate",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/1_2112171456590-Futurama_003_IRoomate.png",
+        "created": 1639771031,
+        "season_number": "1",
+        "title_id": "437535",
+        "tv_rating": "tv-pg",
+        "published": 1640382574,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171456590-Futurama_003_IRoomate.png",
+        "id": "AX3J-Ejr4Xbjep71f6Hw",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1641531599,
+        "tms_id": "EP003034830004",
+        "description": "Leela meets a self-proclaimed ladies' man who wants to make her his new conquest.",
+        "title_suggest": {
+            "input": [
+                "Love's Labour's Lost in Space",
+                "Labour's Lost in Space",
+                "Lost in Space",
+                "in Space",
+                "Space"
+            ]
+        },
+        "title": "Love's Labour's Lost in Space",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.0673,
+        "episode_number": "4",
+        "original_air_date": "1042689600",
+        "auth_launch_date": 1640754000,
+        "clip_order": null,
+        "airing_id": "RADS1012242100056269",
+        "media_id": "7367dfbb9740af5bce133e073412640d29b53ada",
+        "modified": 1640382574,
+        "slug": "loves-labours-lost-in-space",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/1_2112171457505-Futurama_004_LovesLaboursLostInSpace.png",
+        "created": 1639771085,
+        "season_number": "1",
+        "title_id": "437536",
+        "tv_rating": "tv-pg",
+        "published": 1640382574,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171457505-Futurama_004_LovesLaboursLostInSpace.png",
+        "id": "AX3J-Ron4Xbjep71f6Hx",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1641358799,
         "tms_id": "EP003034830001",
         "description": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
