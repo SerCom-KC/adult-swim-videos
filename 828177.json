@@ -285,54 +285,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1640840340,
-        "tms_id": "",
-        "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
-        "title_suggest": {
-            "input": [
-                "Five-Card Duds",
-                "Duds"
-            ]
-        },
-        "title": "Five-Card Duds",
-        "expiration_date": 1637816340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 674.58,
-        "episode_number": "10",
-        "original_air_date": 1559967300,
-        "auth_launch_date": 1637816400,
-        "clip_order": null,
-        "media_id": "45520e2ee6fbffd2d3daf420ebc7421a6b25f3f4",
-        "modified": 1637426074,
-        "airing_id": "RADS1010152100038162",
-        "slug": "five-card-duds",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155984019589717.jpg",
-        "created": 1556816877,
-        "season_number": "4",
-        "title_id": "2191445",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1637426074,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1634788800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
-        "id": "AWp5hFfgHl5gR6828zZU",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1641445140,
         "tms_id": "",
         "description": "After Gary gets shot by one of the unborn, Satan institutes an unsensible gun policy to ensure something like that will happen again.",
@@ -636,6 +588,53 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447787040,
+        "auth_expiration_date": 1621483140,
+        "tms_id": "EP013726210010",
+        "description": "Gary learns the subtleties of working someone's conscience with help from an unexpected friend.",
+        "title_suggest": {
+            "input": [
+                "Shoulder Work",
+                "Work"
+            ]
+        },
+        "expiration_date": 1643864340,
+        "title": "Shoulder Work",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 674.74,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "2",
+        "original_air_date": 1437365700,
+        "clip_order": null,
+        "auth_launch_date": 1618459200,
+        "modified": 1640412987,
+        "airing_id": "RADS1012242100056336",
+        "media_id": "1547573698efc9392048e495e90684a61cf331eb",
+        "id": "MGjJ04MnR5erwEzXgE9ahw",
+        "slug": "shoulder-work",
+        "views": 43748,
+        "created": 1436294121,
+        "season_number": "2",
+        "title_id": "2062764",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1640412987,
+        "first_published": 1437189641,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1640840400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg",
+        "cma_id": "1389350"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "That stain is never gonna come out.",
         "title_suggest": {
@@ -883,7 +882,7 @@
         "cma_id": "1279310"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447786800,
         "auth_expiration_date": 1643864340,
         "tms_id": "EP013726210004",
