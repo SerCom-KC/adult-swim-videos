@@ -141,6 +141,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1641704399,
+        "tms_id": "EP003034830007",
+        "description": "A 21st-century garbage ball threatens to fall back to Earth.",
+        "title_suggest": {
+            "input": [
+                "A Big Piece of Garbage",
+                "Big Piece of Garbage",
+                "Piece of Garbage",
+                "of Garbage",
+                "Garbage"
+            ]
+        },
+        "title": "A Big Piece of Garbage",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1400.4657,
+        "episode_number": "8",
+        "original_air_date": "1043208000",
+        "auth_launch_date": 1640926800,
+        "clip_order": null,
+        "airing_id": "RADS1012272100057097",
+        "media_id": "b5f2cac21deb8d8ebdf1a9e107118a86d878e41d",
+        "modified": 1640905649,
+        "slug": "a-big-piece-of-garbage",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/1_2112171459535-Futurama_008_BigPieceOfGarbage.png",
+        "created": 1639771202,
+        "season_number": "1",
+        "title_id": "437540",
+        "tv_rating": "tv-pg",
+        "published": 1640905649,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171459535-Futurama_008_BigPieceOfGarbage.png",
+        "id": "AX3J-uQ5UQa40cfnRS-l",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1641358799,
         "tms_id": "EP003034830001",
         "description": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
