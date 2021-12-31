@@ -51,6 +51,56 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1551713400,
+        "auth_expiration_date": 1639717140,
+        "tms_id": "",
+        "description": "It's Sports Day on the island so it's time to watch everyone having fun competing in sports events before they then go to Nightballers to celebrate with a bottle of deelushus Scrumpy Cider.",
+        "title_suggest": {
+            "input": [
+                "The Sports Day",
+                "Sports Day",
+                "Day"
+            ]
+        },
+        "title": "The Sports Day",
+        "expiration_date": 1643950740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWg5dZFTHl5gR6828xwU",
+        "duration": 673.5,
+        "episode_number": "10",
+        "original_air_date": 1551503700,
+        "auth_launch_date": 1636693200,
+        "clip_order": null,
+        "media_id": "04748bf597268f1a1453e361f416a19b26beb0e3",
+        "modified": 1640899989,
+        "airing_id": "RADS1012272100057032",
+        "slug": "the-sports-day",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155130163810512.jpg",
+        "created": 1547499772,
+        "season_number": "1",
+        "title_id": "2184460",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1640899989,
+        "tags": [],
+        "collection_title": "Tropical Cop Tales",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1640926800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155130163810512.jpg",
+        "id": "AWhOLJuhHl5gR6828xz_",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1549899000,
         "auth_expiration_date": 1642741140,
         "tms_id": "",
