@@ -4873,6 +4873,64 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447445820,
+        "auth_expiration_date": 1641445140,
+        "tms_id": "EP007008180078",
+        "rating": 5.8111405,
+        "description": "Early becomes king of a local cave.",
+        "title_suggest": {
+            "input": [
+                "Granite Caverns",
+                "Caverns"
+            ]
+        },
+        "type": "episode",
+        "title": "Granite Caverns",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 667.7506255,
+        "episode_number": "1",
+        "original_air_date": 1376280900,
+        "clip_order": null,
+        "auth_launch_date": 1635393600,
+        "modified": 1641048462,
+        "media_id": "498f04fe066d2f30662e389266bdf714cbf5c985",
+        "airing_id": "RADS1010252100039014",
+        "id": "bg7xJat4SbWJbYuO2oDVfw",
+        "slug": "granite-caverns",
+        "views": 61588,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141057287-squidbillies_701_dup-20130808.jpg",
+        "created": 1402945477,
+        "title_id": "2006881",
+        "season_number": "8",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1641048462,
+        "tags": [
+            "Squidbillies",
+            "Granite Caverns",
+            "Early",
+            "King",
+            "Adult Swim"
+        ],
+        "rating_count": 1885,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141057287-squidbillies_701_dup-20130808.jpg",
+        "cma_id": "1435513"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447442820,
         "auth_expiration_date": 1642481940,
         "tms_id": "EP007008180008",
@@ -6513,58 +6571,5 @@
         "launch_date": 1470169312,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/squidbillies-bts-b52s/squidbillies_BTS_903_B52s.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447445520,
-        "auth_expiration_date": 1641445140,
-        "tms_id": "EP007008180063",
-        "rating": 7.998606,
-        "description": "At his high school reunion, the Sheriff settles an old score.",
-        "title_suggest": {
-            "input": [
-                "Class of '86",
-                "of '86",
-                "'86"
-            ]
-        },
-        "type": "episode",
-        "title": "Class of '86",
-        "expiration_date": 1598932799,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 661.2085071,
-        "episode_number": "2",
-        "original_air_date": 1316403900,
-        "clip_order": null,
-        "auth_launch_date": 1635393600,
-        "modified": 1641048433,
-        "media_id": "156304fac509c8293d493d74bcbcc5e41b80ea86",
-        "airing_id": "RADS1010252100039115",
-        "id": "yER7qQefRTKcRvquLkPDZw",
-        "slug": "class-of-86",
-        "views": 203876,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131321483-squidbillies_504_dup-20110912.jpg",
-        "created": 1402945476,
-        "title_id": "859423",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1641048433,
-        "tags": [],
-        "rating_count": 723,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg",
-        "cma_id": "1373644"
     }
 ]
