@@ -767,6 +767,54 @@
         "cma_id": "2108969"
     },
     {
+        "ott_launch_date": 1511191740,
+        "auth": true,
+        "auth_expiration_date": 1641445140,
+        "tms_id": "EP007008180112",
+        "description": "Early exploits himself for attention.",
+        "title_suggest": {
+            "input": [
+                "Debased Ball",
+                "Ball"
+            ]
+        },
+        "expiration_date": 1601351999,
+        "type": "episode",
+        "title": "Debased Ball",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 672.08,
+        "episode_number": "6",
+        "original_air_date": 1511154000,
+        "auth_launch_date": 1635393600,
+        "clip_order": null,
+        "media_id": "789c4194ff73b15c00e007875919d527ee2c1a90",
+        "modified": 1641041550,
+        "airing_id": "RADS1010252100039144",
+        "id": "AV_Kk5-NZ-onAnjDLtHk",
+        "slug": "debased-ball",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151094958540114.jpg",
+        "created": 1510932193,
+        "season_number": "11",
+        "title_id": "2108970",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1641041550,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151094958540114.jpg"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "It's about damn time.",
