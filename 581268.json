@@ -1,6 +1,60 @@
 [
     {
         "auth": true,
+        "ott_launch_date": 1447446000,
+        "auth_expiration_date": 1641445140,
+        "tms_id": "EP007008180081",
+        "rating": 7.5389237,
+        "description": "America declares war on Early's new neighborhood.",
+        "title_suggest": {
+            "input": [
+                "Drone to the Bone",
+                "to the Bone",
+                "the Bone",
+                "Bone"
+            ]
+        },
+        "type": "episode",
+        "title": "Drone to the Bone",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 667.4587156,
+        "episode_number": "4",
+        "original_air_date": 1378700100,
+        "clip_order": null,
+        "auth_launch_date": 1635393600,
+        "modified": 1641051752,
+        "media_id": "38153570b40ac15b8f0795ce66b4e8d2ded673e6",
+        "airing_id": "RADS1010252100039010",
+        "id": "0Cak4joRQH61Tsq0qPqn-A",
+        "slug": "drone-to-the-bone",
+        "views": 60828,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141059379-squidbillies_702_dup-20130905.jpg",
+        "created": 1402945477,
+        "title_id": "2006882",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1641051752,
+        "tags": [],
+        "rating_count": 167,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141059379-squidbillies_702_dup-20130905.jpg",
+        "cma_id": "1448187"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447443540,
         "auth_expiration_date": 1641963540,
         "tms_id": "EP007008180027",
@@ -3454,6 +3508,60 @@
         "launch_date": 1542690000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413122188-squidbillies_048_bim.jpg",
         "cma_id": "1301048"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447442580,
+        "auth_expiration_date": 1641445140,
+        "tms_id": "EP007008180005",
+        "rating": 7.9667654,
+        "description": "Revelations regarding Rusty's maternity lead to questions regarding Rusty's paternity.",
+        "title_suggest": {
+            "input": [
+                "Family Trouble",
+                "Trouble"
+            ]
+        },
+        "type": "episode",
+        "title": "Family Trouble",
+        "expiration_date": 1617076740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 687.1334668,
+        "episode_number": "5",
+        "original_air_date": 1131944400,
+        "clip_order": null,
+        "auth_launch_date": 1635393600,
+        "modified": 1641052048,
+        "media_id": "538f432a5b8d7a5e5d7b264b738cb2faaf211701",
+        "airing_id": "RADS1010252100039082",
+        "id": "IURw_-bmQKW5S4xpSeRHMg",
+        "slug": "family-trouble",
+        "views": 571036,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_20481612367-squidbillies_005.jpg",
+        "created": 1402945477,
+        "title_id": "626852",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1641052048,
+        "tags": [
+            "squidbillies episode 5 family trouble mommy krystal paternity"
+        ],
+        "rating_count": 2046,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614056400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612367-squidbillies_005.jpg",
+        "cma_id": "1331972"
     },
     {
         "auth": false,
