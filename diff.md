@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 1, 2022 at 01:00:32 EST_
+_Last Update: January 1, 2022 at 02:00:24 EST_
 ## Video added
 ### Summary
-853486 NTSF:SD:SUV::: 2  
-### 963243
-**NTSF:SD:SUV:: S02E14 - Christmas Activity**  
-TV-14-DLV 🔓 11:07  
-⌛ January 3, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/ntsf-sd-suv/christmas-activity  
-seriesid=`853486` titleid=`963243` id=`PToxX61SQQGUDDbIHTVpqA` mediaid=`e7b05abd5800095f68ade483a9cbd359e2028365`  
-_While celebrating Christmas together at Kove's house, the team is attacked by the evil Alaskan Santa Claus._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121317191-ntsf_213_dup-20160412.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121317191-ntsf_213_dup-20160412.jpg" height="144px" /></a>
-### 963241
-**NTSF:SD:SUV:: S02E12 - Wasilla Hills Cop**  
-TV-14-V 🔓 11:12  
-⌛ January 3, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/ntsf-sd-suv/wasilla-hills-cop  
-seriesid=`853486` titleid=`963241` id=`xXpvZXuGRQqBq8oCkO2Nww` mediaid=`9c0029ce145e317a913db901dd015f757df2082e`  
-_Alphonse travels home to Alaska to find out who murdered his former partner and to make amends with his father, who disowned him for using a cell phone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121316224-ntsf_210_dup-20160412.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121316224-ntsf_210_dup-20160412.jpg" height="144px" /></a>
+2161118 Joe Pera Talks With You: 1  
+### 2161126
+**Joe Pera Talks With You S01E08 - Joe Pera Talks To You About The Rat Wars of Alberta, Canada, 1950 - Present Day**  
+TV-14-L 🔒 11:17  
+⌛ January 4, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-talks-to-you-about-the-rat-wars-of-alberta-canada-1950-present-day  
+seriesid=`2161118` titleid=`2161126` id=`AWLfcXl_HAeP4-pUPegI` mediaid=`af76b081a5c232b4f863b83260682cf9db1eb81a`  
+_In which Joe Pera and the school's band teacher, Sarah Conner, put together a musical based on the Alberta Rat Control Program that has kept the Canadian province rat-free since 1950._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351637207-joeperatalks_108_air_cid-3GVT9.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351637207-joeperatalks_108_air_cid-3GVT9.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
