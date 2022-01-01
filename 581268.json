@@ -6513,5 +6513,58 @@
         "launch_date": 1470169312,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/squidbillies-bts-b52s/squidbillies_BTS_903_B52s.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447445520,
+        "auth_expiration_date": 1641445140,
+        "tms_id": "EP007008180063",
+        "rating": 7.998606,
+        "description": "At his high school reunion, the Sheriff settles an old score.",
+        "title_suggest": {
+            "input": [
+                "Class of '86",
+                "of '86",
+                "'86"
+            ]
+        },
+        "type": "episode",
+        "title": "Class of '86",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 661.2085071,
+        "episode_number": "2",
+        "original_air_date": 1316403900,
+        "clip_order": null,
+        "auth_launch_date": 1635393600,
+        "modified": 1641048433,
+        "media_id": "156304fac509c8293d493d74bcbcc5e41b80ea86",
+        "airing_id": "RADS1010252100039115",
+        "id": "yER7qQefRTKcRvquLkPDZw",
+        "slug": "class-of-86",
+        "views": 203876,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131321483-squidbillies_504_dup-20110912.jpg",
+        "created": 1402945476,
+        "title_id": "859423",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1641048433,
+        "tags": [],
+        "rating_count": 723,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg",
+        "cma_id": "1373644"
     }
 ]
