@@ -2,49 +2,33 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 1, 2022 at 09:00:25 EST_
+_Last Update: January 1, 2022 at 09:30:27 EST_
 ## Video added
 ### Summary
-581268 Squidbillies: 5  
-### 2006885
-**Squidbillies S08E05 - A Jailhouse Divided**  
-TV-14-DLSV 🔒 11:32  
+581268 Squidbillies: 3  
+### 2032578
+**Squidbillies S09E02 - Limbitless**  
+TV-14-LV 🔒 11:46  
 ⌛ January 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/a-jailhouse-divided  
-seriesid=`581268` titleid=`2006885` id=`YSfcIL5JTnihvZUmokm1wQ` mediaid=`c670afffca70e47003940450a7253008b422de23`  
-_Deputy Sheriff Denny runs for Sheriff against Sheriff Sheriff._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_2041411101-squidbillies_705_dup-20130912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_2041411101-squidbillies_705_dup-20130912.jpg" height="144px" /></a>
-### 2032582
-**Squidbillies S09E06 - A Walk to Dignity**  
-TV-14-LV 🔒 11:19  
+https://www.adultswim.com/videos/squidbillies/limbitless  
+seriesid=`581268` titleid=`2032578` id=`_tz4f6DiSRSW79uZ4e0cLw` mediaid=`d1397e662f81b4b9f8d03ed6bd572e66c7adbb0a`  
+_Early trades his legs for walking around money._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115474-squidbillies_088_dup-20140923.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115474-squidbillies_088_dup-20140923.jpg" height="144px" /></a>
+### 2006886
+**Squidbillies S08E06 - Stop. Jammertime!**  
+TV-MA 🔒 10:59  
 ⌛ January 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/a-walk-to-dignity  
-seriesid=`581268` titleid=`2032582` id=`PQ8s0JYnRrShnRqfQ7w85Q` mediaid=`acfe00cba3cb9d4281fe0d2a570115d188ebad80`  
-_Sheriff's dad, the Sheriff, breaks the law to break down social barriers._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141126100-squidbillies_092_dup-20141030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141126100-squidbillies_092_dup-20141030.jpg" height="144px" /></a>
-### 2032581
-**Squidbillies S09E05 - Bunker Down, You Hairy Dawg!**  
-TV-14-DLSV 🔒 11:28  
+https://www.adultswim.com/videos/squidbillies/stop-jammertime  
+seriesid=`581268` titleid=`2006886` id=`iEOTBCv5SxCE3rU720sj2g` mediaid=`c13d471ddb41621f2d36620af924405c3af2226f`  
+_A new judge takes the controversial stance of punishing criminals._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414112118-squidbillies_706_dup-20130917.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414112118-squidbillies_706_dup-20130917.jpg" height="144px" /></a>
+### 2006887
+**Squidbillies S08E07 - Thou Shale Not Drill**  
+TV-14-DLV 🔒 22:32  
 ⌛ January 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/bunker-down-you-hairy-dawg  
-seriesid=`581268` titleid=`2032581` id=`vfffN8ZfSG-ngPeZP-eZZA` mediaid=`235855cd99f9970673d0633ae794396805fbb212`  
-_Early triggers the collapse of society so he can enjoy his expensive new doomsday bunker._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414117326-squidbillies_091_dup-20141014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414117326-squidbillies_091_dup-20141014.jpg" height="144px" /></a>
-### 2092364
-**Squidbillies S10E06 - Cephalo-ectomy**  
-TV-14-DLV 🔒 11:14  
-⌛ January 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/cephalo-ectomy  
-seriesid=`581268` titleid=`2092364` id=`BCx4BtabTm6H8bNpwVNl2g` mediaid=`50fbc14e15c885f955c28a5bbef62757c2007e1b`  
-_You can take the squid out of the boy, but it's not covered by insurance._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141141252-squidbillies_909_dup-20160812.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141141252-squidbillies_909_dup-20160812.jpg" height="144px" /></a>
-### 2006884
-**Squidbillies S08E03 - The Inkubator Lives!**  
-TV-14-DLSV 🔒 11:32  
-⌛ January 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-inkubator-lives  
-seriesid=`581268` titleid=`2006884` id=`FSJJDU6dSs-a7xKtQWpDCA` mediaid=`68f55fc0c90caa9043cef39ed2b1f3867bdfc4fe`  
-_Rusty ducks his responsibilities as a deadbeat dad to become an amateur crime-fighter._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141058382-squidbillies_704_dup-20130821.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141058382-squidbillies_704_dup-20130821.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/squidbillies/thou-shale-not-drill  
+seriesid=`581268` titleid=`2006887` id=`97LbRCxcSjinP9OmRI6h8g` mediaid=`b77e5201829fe1b6f47d0415e25b0dcb0dd9eabf`  
+_The squids have a nuanced and well thought out debate on the controversial practice of fracture mining._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414113462-squidbillies_707_dup-20131024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414113462-squidbillies_707_dup-20131024.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
