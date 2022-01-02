@@ -90,7 +90,7 @@
         "launch_date": 1636866000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_211112108172-BladeRunnerBlackLotus_102_CityOfAngels.png",
         "id": "AX0MCGKqUQa40cfnRSnr",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1639889940,
@@ -272,6 +272,52 @@
         "launch_date": 1641099600,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101033526-BladeRunnerBlackLotus_106_PersistenceOfMemory.png",
         "id": "AX2k-urD4Xbjep71f6Hn",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1642913940,
+        "tms_id": "",
+        "description": "Frustrated that no one believes her theory about Black Lotus, Officer Davis lands in hot water while presenting her findings to the department.",
+        "title_suggest": {
+            "input": [
+                "The Davis Report",
+                "Davis Report",
+                "Report"
+            ]
+        },
+        "title": "The Davis Report",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXru8vbSeTntnGIjub0w",
+        "duration": 1353.6857,
+        "episode_number": "8",
+        "original_air_date": "1641099600",
+        "auth_launch_date": 1641099600,
+        "clip_order": null,
+        "airing_id": "RADS1012302100057477",
+        "media_id": "d01c8f5d969c765cf374d521f09b048bce7d3b3f",
+        "modified": 1641000495,
+        "slug": "the-davis-report",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/1_211217145216-BladeRunnerBlackLotus_108_TheDavisReport.png",
+        "created": 1639770739,
+        "season_number": "1",
+        "title_id": "2191464",
+        "tv_rating": "tv-14-lv",
+        "published": 1641000495,
+        "tags": [],
+        "collection_title": "Blade Runner: Black Lotus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_211217145216-BladeRunnerBlackLotus_108_TheDavisReport.png",
+        "id": "AX3J89LX4Xbjep71f6Ht",
         "auth": true
     },
     {
