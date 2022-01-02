@@ -107,59 +107,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1641099540,
-        "tms_id": "EP002070020132",
-        "rating": 8.268592,
-        "description": "Cotton runs amuck in Tokyo when rejected by his newly found Japanese son.",
-        "title_suggest": {
-            "input": [
-                "Returning Japanese, Pt. 2",
-                "Japanese, Pt. 2",
-                "Pt. 2",
-                "2"
-            ]
-        },
-        "type": "episode",
-        "title": "Returning Japanese, Pt. 2",
-        "expiration_date": 1506916799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1463.2952,
-        "episode_number": "22",
-        "original_air_date": 1234148400,
-        "clip_order": null,
-        "auth_launch_date": 1640494800,
-        "modified": 1640068739,
-        "media_id": "e0f3afbce9ba7f132083ea91475db4a5412167c7",
-        "airing_id": "RADS1012202100054180",
-        "id": "Mm1iTxntQRe2Dk5jvvPPlw",
-        "slug": "returning-japanese-pt-2",
-        "views": 116521,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15208903510746.jpg",
-        "created": 1402945468,
-        "title_id": "731395",
-        "season_number": "6",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1640068739,
-        "tags": [
-            "king of the hill koth episode returning japanese son illegitimate brother"
-        ],
-        "rating_count": 242,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506312000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208903510746.jpg",
-        "cma_id": "1480548"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1641531540,
         "tms_id": "EP002070020135",
         "rating": 8.10204,
@@ -223,6 +170,56 @@
         "launch_date": 1506569400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148519116619.jpg",
         "cma_id": "1482383"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1641704340,
+        "tms_id": "EP002070020136",
+        "rating": 8.006993006993,
+        "description": "Bobby and Hank become rivals in competitive dog dancing; Bill mistakenly thinks a Rottweiler would be a good dog dance partner.",
+        "title_suggest": {
+            "input": [
+                "Dances with Dogs",
+                "with Dogs",
+                "Dogs"
+            ]
+        },
+        "type": "episode",
+        "title": "Dances with Dogs",
+        "expiration_date": 1507346999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1447.3459,
+        "episode_number": "5",
+        "original_air_date": 1234234800,
+        "clip_order": null,
+        "auth_launch_date": 1641099600,
+        "modified": 1640999708,
+        "media_id": "3c5acfd6bae3c98ada3cb01dadbae8361cde715a",
+        "airing_id": "RADS1012302100057465",
+        "id": "WEC4OVOjShOSIYn3xZcRFg",
+        "slug": "dances-with-dogs",
+        "views": 91925,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15214852182318.jpg",
+        "created": 1402945468,
+        "title_id": "731419",
+        "season_number": "7",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1640999708,
+        "tags": [],
+        "rating_count": 143,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506742200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214852182318.jpg",
+        "cma_id": "1483558"
     },
     {
         "auth": true,
