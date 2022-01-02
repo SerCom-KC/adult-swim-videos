@@ -46,7 +46,7 @@
         "launch_date": 1639904400,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191145544-YashahimePrincessHalfDemon_120_TheHiddenVillageForHalfDemons.png",
         "id": "AX05F15TUQa40cfnRSt_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1655697540,
@@ -94,7 +94,7 @@
         "launch_date": 1639906200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191146389-YashahimePrincessHalfDemon_121_SecretOfTheRainbowPearls.png",
         "id": "AX05GBGpUQa40cfnRSuA",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1653796740,
@@ -281,7 +281,7 @@
         "launch_date": 1641114000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101034589-YashahimePrincessHalfDemon_122_TheStolenSeal.png",
         "id": "AX2k-9njUQa40cfnRS7S",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1641115740,
@@ -329,6 +329,51 @@
         "launch_date": 1641115800,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101035451-YashahimePrincessHalfDemon_123_TheThreePrincessesStrikeBack.png",
         "id": "AX2k_I-XUQa40cfnRS7T",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1642928340,
+        "tms_id": "EP036780850024",
+        "description": "Towa, Setsuna, and Moroha are left to confront Kirinmaru, but in the face of overwhelming power, they must pay a great price.",
+        "title_suggest": {
+            "input": [
+                "Sesshomaru's Daughter",
+                "Daughter"
+            ]
+        },
+        "title": "Sesshomaru's Daughter",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXpED60VBH5Z6gH5aWXi",
+        "duration": 1372.9382,
+        "episode_number": "24",
+        "original_air_date": "1639290600",
+        "auth_launch_date": 1641114000,
+        "clip_order": null,
+        "airing_id": "RADS1012302100057482",
+        "media_id": "e3bdf162470e4741c4c9f6f8c1d0b1cd9456df24",
+        "modified": 1641001678,
+        "slug": "sesshomarus-daughter",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101036316-YashahimePrincessHalfDemon_124_SesshomarusDaughter.png",
+        "created": 1639150601,
+        "season_number": "1",
+        "title_id": "2268304",
+        "tv_rating": "tv-14-lv",
+        "published": 1641001678,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101036316-YashahimePrincessHalfDemon_124_SesshomarusDaughter.png",
+        "id": "AX2k_Ua44Xbjep71f6Ho",
         "auth": true
     },
     {
