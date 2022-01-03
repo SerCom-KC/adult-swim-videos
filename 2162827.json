@@ -324,57 +324,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1549899000,
-        "auth_expiration_date": 1641185940,
-        "tms_id": "EP029602940010",
-        "description": "The ballad of Tigtone and the homicidal sword, sung by the homicidal sword.",
-        "title_suggest": {
-            "input": [
-                "Tigtone and the Singing Blade",
-                "and the Singing Blade",
-                "the Singing Blade",
-                "Singing Blade",
-                "Blade"
-            ]
-        },
-        "title": "Tigtone and the Singing Blade",
-        "type": "episode",
-        "expiration_date": 1638161940,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 669.54,
-        "episode_number": "9",
-        "original_air_date": 1549861200,
-        "auth_launch_date": 1638162000,
-        "clip_order": null,
-        "airing_id": "RADS1010222100038565",
-        "media_id": "22fe0dbb8a6bc82cf7dfed34739a013a2434f187",
-        "modified": 1638007404,
-        "slug": "tigtone-and-the-singing-blade",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154946588079415.jpg",
-        "created": 1549387564,
-        "title_id": "2171691",
-        "season_number": "1",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1638007404,
-        "tags": [],
-        "collection_title": "Tigtone",
-        "modified_by": "ODT Listener",
-        "launch_date": 1635134400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154946588079415.jpg",
-        "id": "AWi-sgeEAScUIg8Xxcy7",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1642395540,
         "tms_id": "",
         "description": "Tigtone and Helpy face a seven-headed beast, as the title implies--which is true!",
@@ -771,6 +720,55 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1634529540,
+        "tms_id": "",
+        "description": "To defeat an evil book, Tigtone must teach history a lesson and Helpy.",
+        "title_suggest": {
+            "input": [
+                "Tigtone and the Prison of Knowledge",
+                "and the Prison of Knowledge",
+                "the Prison of Knowledge",
+                "Prison of Knowledge",
+                "of Knowledge",
+                "Knowledge"
+            ]
+        },
+        "title": "Tigtone and the Prison of Knowledge",
+        "expiration_date": 1644209940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 675.5082,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1631505600,
+        "clip_order": null,
+        "airing_id": "RADS1012302100057552",
+        "media_id": "b985cfd00424c8092832de1de2f5833da2910676",
+        "modified": 1641006521,
+        "slug": "tigtone-and-the-prison-of-knowledge",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117947395-Tigtone_209_dup-20200717.jpg",
+        "created": 1598964948,
+        "season_number": "2",
+        "title_id": "2222962",
+        "tv_rating": "tv-14-v",
+        "published": 1641006521,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641186000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117947395-Tigtone_209_dup-20200717.jpg",
+        "id": "AXRJvN7zSeFB2d0c38t1",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1644209940,
         "tms_id": "",
         "description": "In order to escape an endless maze, Tigtone must find the way out!",
@@ -816,6 +814,6 @@
         "launch_date": 1638162000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117945478-Tigtone_207_dup-20200424.jpg",
         "id": "AXRLs1kFSeFB2d0c38ue",
-        "auth": false
+        "auth": true
     }
 ]
