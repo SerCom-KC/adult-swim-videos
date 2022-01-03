@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1641185940,
-        "tms_id": "",
-        "description": "Sinon has logged in with the super-account of Solus, the Sun Goddess and rescues Asuna and the others at the last minute. Meanwhile, Leafa logs in with the super-account of Terraria, the Earth Goddess, and descends to the Underworld.",
-        "title_suggest": {
-            "input": [
-                "The War of Underworld",
-                "War of Underworld",
-                "of Underworld",
-                "Underworld"
-            ]
-        },
-        "title": "The War of Underworld",
-        "type": "episode",
-        "expiration_date": 1637557140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
-        "duration": 1318.0167,
-        "episode_number": "13",
-        "original_air_date": 1604813400,
-        "auth_launch_date": 1637557200,
-        "clip_order": null,
-        "airing_id": "RADS1011052100042562",
-        "media_id": "c484827cec6c97043eb1e4586f78b2ea7f3f5770",
-        "modified": 1637264579,
-        "slug": "the-war-of-underworld",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/1_201131732303-SAO_WoU_013.jpg",
-        "created": 1604330311,
-        "title_id": "2216004",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "published": 1637264579,
-        "tags": [],
-        "collection_title": "Sword Art Online: Alicization - War of Underworld",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1636347600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131732303-SAO_WoU_013.jpg",
-        "id": "AXWJic6lLyLQBOXK_PYS",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1641790740,
         "tms_id": "",
         "description": "Despite its modest size, the Human Empire Army and Asuna valiantly battle the wave of American players surging towards them. But they're hopelessly outnumbered, and the Human Empire soldiers start to fall one after another.",
@@ -313,7 +266,7 @@
         "launch_date": 1639976400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211710137-SAO_WoU_019.jpg",
         "id": "AXbaE23cQJ_4Uej5kTjL",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1631505540,
@@ -359,6 +312,51 @@
         "launch_date": 1640581200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117101236-SAO_WoU_020.jpg",
         "id": "AXbdXeMMbxpjZvbXYl6g",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1632110340,
+        "tms_id": "EP034356920023",
+        "description": "The maximum-acceleration phase has begun. Alice successfully logs out of the Underworld, but Kirito doesn't make it in time. In the real world, Higa and Kikuoka rush to shut down the STL, in order to disable the maximum-acceleration phase.",
+        "title_suggest": {
+            "input": [
+                "Beyond Time",
+                "Time"
+            ]
+        },
+        "title": "Beyond Time",
+        "type": "episode",
+        "expiration_date": 1641790740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW-k_nP1GRcVO2K2pmDS",
+        "duration": 1318.0501,
+        "episode_number": "21",
+        "original_air_date": 1611468000,
+        "auth_launch_date": 1628481600,
+        "clip_order": null,
+        "airing_id": "RADS1012302100057504",
+        "media_id": "c5e3449eb7250925b353864aa2bb24a0ce02ef3c",
+        "modified": 1641006523,
+        "slug": "beyond-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/1_211221245583-SAO_WoU_021_BeyondTime.jpg",
+        "created": 1611333560,
+        "title_id": "2216012",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "published": 1641006523,
+        "tags": [],
+        "collection_title": "Sword Art Online: Alicization - War of Underworld",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641186000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_211221245583-SAO_WoU_021_BeyondTime.jpg",
+        "id": "AXcq9ubgQJ_4Uej5kTnJ",
         "auth": false
     }
 ]
