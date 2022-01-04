@@ -395,6 +395,54 @@
         "cma_id": "2003518"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1641877140,
+        "tms_id": "EP012792980039",
+        "description": "Linda thinks Bob doesn't appreciate her and quits the restaurant to work at a grocery store. In her absence, Bob tries - and fails - to run the place on his own and the kids are stuck in the middle of the marital mayhem. Meanwhile, things get romantic for Tina when she meets her potential soul mate while restocking the milk fridge.",
+        "title_suggest": {
+            "input": [
+                "Lindapendent Woman",
+                "Woman"
+            ]
+        },
+        "expiration_date": 1633924740,
+        "title": "Lindapendent Woman",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1274.3731,
+        "episode_number": "14",
+        "original_air_date": 1384227000,
+        "clip_order": null,
+        "auth_launch_date": 1641272400,
+        "modified": 1641014879,
+        "media_id": "6f9ce5e989b949993cda0bd62eaec7a34d40d6c5",
+        "airing_id": "RADS1012302100057678",
+        "id": "kvkEWCJ7Qz2vYco5MnETFg",
+        "slug": "lindapendent-woman",
+        "views": 6416,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277452448210.jpg",
+        "created": 1403210903,
+        "season_number": "3",
+        "title_id": "2003525",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1641014879,
+        "first_published": 1417407626,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1633320000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277452448210.jpg",
+        "cma_id": "2003525"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1635220740,
@@ -595,55 +643,5 @@
         "launch_date": 1633320000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870804604312.jpg",
         "cma_id": "1454008"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1641272340,
-        "tms_id": "EP012792980029",
-        "description": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant.",
-        "title_suggest": {
-            "input": [
-                "Mutiny on the Windbreaker",
-                "on the Windbreaker",
-                "the Windbreaker",
-                "Windbreaker"
-            ]
-        },
-        "expiration_date": 1632110340,
-        "title": "Mutiny on the Windbreaker",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.8896,
-        "episode_number": "4",
-        "original_air_date": 1381717800,
-        "clip_order": null,
-        "auth_launch_date": 1640667600,
-        "modified": 1640376948,
-        "media_id": "fefdb409b44127d638c4a036074b87355d9e2de4",
-        "airing_id": "RADS1012242100056193",
-        "id": "xtqPT4FZRSurHPCTuRq7sg",
-        "slug": "mutiny-on-the-windbreaker",
-        "views": 6936,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216336132120.jpg",
-        "created": 1403210367,
-        "season_number": "3",
-        "title_id": "2003515",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1640376948,
-        "first_published": 1410146426,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1631505600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg",
-        "cma_id": "2003515"
     }
 ]
