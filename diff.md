@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 4, 2022 at 03:00:26 EST_
+_Last Update: January 4, 2022 at 06:00:25 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2207385 Dr. Stone: 1  
-### 2265000
-**Dr. Stone S02E11 - Prologue of Dr. Stone**  
-TV-14-V 🔒 23:23  
-⌛ January 4, 2022 at 02:59:00 EST  
-https://www.adultswim.com/videos/dr-stone/prologue-of-dr-stone  
-seriesid=`2207385` titleid=`2265000` id=`AXq_zOqiDmGy9WFjRr5m` mediaid=`77ac76facdeac4320ce1f71527dd006ea944d763`  
-_The conflict seems to be at an end while Senku looks to the future and the work it will take to achieve his ideal vision of the future for the new Kingdom of Science._  
-<a href="https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_217231054459-DrStone_35_PrologueOfDrStone.png"><img src="https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_217231054459-DrStone_35_PrologueOfDrStone.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177774
+**Naruto: Shippuden S06E62 - I'm in Hell**  
+TV-PG-V 🔒 21:50  
+⌛ January 9, 2022 at 05:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/im-in-hell  
+seriesid=`812206` titleid=`2177774` id=`AXneLfKmDmGy9WFjRrYz` mediaid=`b99e6c162ea3bf5f38cc3716600468f59e049297`  
+_Obito works to rehabilitate his injured body in the hopes of being reunited with Kakashi and Rin._  
+<a href="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_216101011216-NarutoShippuden_345_ImInHell.png"><img src="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_216101011216-NarutoShippuden_345_ImInHell.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
