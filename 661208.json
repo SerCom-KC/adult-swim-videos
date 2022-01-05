@@ -104,7 +104,7 @@
         "cma_id": "1336045"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784160,
         "auth_expiration_date": 1644382740,
         "tms_id": "EP008994530019",
@@ -371,59 +371,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447784100,
-        "auth_expiration_date": 1641358740,
-        "tms_id": "EP008994530015",
-        "rating": 7.4088645,
-        "description": "Eric's attendence at Tim's birthday party rests in the hands of Zan. When Ruth finally has the house to herself, she beckons her neighbor for a visit. (Jeff Goldblum)",
-        "title_suggest": {
-            "input": [
-                "Coma"
-            ]
-        },
-        "type": "episode",
-        "title": "Coma",
-        "expiration_date": 1638334740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 691.36,
-        "episode_number": "5",
-        "original_air_date": 1197263700,
-        "clip_order": null,
-        "auth_launch_date": 1638334800,
-        "modified": 1638018311,
-        "media_id": "4752eca8eefbee567db1d8a41cd479737e2c4d60",
-        "airing_id": "RADS1010222100038459",
-        "id": "XsPRSNLMRBmrv0vVuZvhwA",
-        "slug": "coma",
-        "views": 478013,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161517553-timanderic_205.jpg",
-        "created": 1402945481,
-        "title_id": "691941",
-        "tv_rating": "tv-ma",
-        "season_number": "2",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1638018311,
-        "tags": [
-            "time and eric awesome show great job episode 15 coma birthday party zan ruth jeff goldblum"
-        ],
-        "rating_count": 4016,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1635307200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161517553-timanderic_205.jpg",
-        "cma_id": "1303437"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447784340,
         "auth_expiration_date": 1615352340,
@@ -634,5 +581,56 @@
         "launch_date": 1637730000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161551163-timanderic_208.jpg",
         "cma_id": "1313933"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447784400,
+        "auth_expiration_date": 1616558340,
+        "tms_id": "EP008994530024",
+        "rating": 8.114317,
+        "description": "Spagett goes Hollywood, and a friendship is threatened. Love is not always hard.\r\n(John C. Reilly, Brian Posehn, Steve Schirripa)",
+        "title_suggest": {
+            "input": [
+                "Spagett"
+            ]
+        },
+        "type": "episode",
+        "title": "Spagett",
+        "expiration_date": 1644382740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 688.001,
+        "episode_number": "4",
+        "original_air_date": 1219033800,
+        "clip_order": null,
+        "auth_launch_date": 1613538000,
+        "modified": 1641163101,
+        "media_id": "b6283bb20ead3053fc973b96167796c113b7c225",
+        "airing_id": "RADS1012302100057726",
+        "id": "xNgoyUsGQoCiw3cQIB9QfQ",
+        "slug": "spagett",
+        "views": 440147,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161623387-timanderic_304.jpg",
+        "created": 1402945481,
+        "title_id": "723437",
+        "season_number": "3",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1641163101,
+        "tags": [],
+        "rating_count": 2624,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641358800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161623387-timanderic_304.jpg",
+        "cma_id": "1340231"
     }
 ]
