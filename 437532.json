@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1641445199,
-        "tms_id": "EP003034830003",
-        "description": "Evicted from the Planet Express offices, slob Fry moves in with robot Bender.",
-        "title_suggest": {
-            "input": [
-                "I, Roommate",
-                "Roommate"
-            ]
-        },
-        "title": "I, Roommate",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.4,
-        "episode_number": "3",
-        "original_air_date": "1042603200",
-        "auth_launch_date": 1640754000,
-        "clip_order": null,
-        "airing_id": "RADS1012242100056280",
-        "media_id": "06fa9e1fa2df77340000f959c6aa40e850bd7f6c",
-        "modified": 1640382574,
-        "slug": "i-roommate",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/1_2112171456590-Futurama_003_IRoomate.png",
-        "created": 1639771031,
-        "season_number": "1",
-        "title_id": "437535",
-        "tv_rating": "tv-pg",
-        "published": 1640382574,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171456590-Futurama_003_IRoomate.png",
-        "id": "AX3J-Ejr4Xbjep71f6Hw",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1641531599,
         "tms_id": "EP003034830004",
         "description": "Leela meets a self-proclaimed ladies' man who wants to make her his new conquest.",
@@ -186,6 +141,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171459535-Futurama_008_BigPieceOfGarbage.png",
         "id": "AX3J-uQ5UQa40cfnRS-l",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1642049940,
+        "tms_id": "EP003034830076",
+        "description": "Bender and the new owners of Planet Express hatch a plan to steal ancient riches. Lars and Leela's romance takes off.",
+        "title_suggest": {
+            "input": [
+                "Bender's Big Score Part 2",
+                "Big Score Part 2",
+                "Score Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "title": "Bender's Big Score Part 2",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.0006,
+        "episode_number": "2",
+        "original_air_date": 1641177000,
+        "auth_launch_date": 1641445200,
+        "clip_order": null,
+        "airing_id": "RADS1001022200057965",
+        "media_id": "14062519a2402bb8ae69b2361c1ac852fa2b176d",
+        "modified": 1641247743,
+        "slug": "benders-big-score-part-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/1_2213178271-Futurama_602_BendersBigScore_Part2.png",
+        "created": 1641157192,
+        "title_id": "2161605",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1641247743,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/2_2213178271-Futurama_602_BendersBigScore_Part2.png",
+        "id": "AX4cl2xvdpBG7hfWGhgT",
         "auth": true
     },
     {
