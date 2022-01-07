@@ -1,54 +1,55 @@
 {
-    "updated": 1641577104,
-    "added": [],
-    "removed": [
+    "updated": 1641581599,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Desmond\u2019s Big Day Out: A small company dedicated to bringing happiness to the world receives a simple request to help a woman\u2019s unhappy son smile again, but the job turns out to be more complicated than it seems.",
+            "description": "Grab your backpacks-- we're heading back to class! Get ready for Season 2 of Assassination Classroom, premiering Saturday at 12:30a! Only on Toonami.",
             "title_suggest": {
                 "input": [
-                    "Smiling Friends",
-                    "Friends"
+                    "Season Two Trailer",
+                    "Two Trailer",
+                    "Trailer"
                 ]
             },
-            "title": "Smiling Friends",
+            "title": "Season Two Trailer",
             "expiration_date": null,
-            "type": "episode",
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
-            "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-            "duration": 841.87,
-            "episode_number": "",
-            "original_air_date": "1585725300",
+            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+            "duration": 30.016,
+            "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "RADS1010152100038197",
-            "media_id": "",
-            "modified": 1634927502,
-            "slug": "smiling-friends",
+            "airing_id": "",
+            "media_id": "mee21e54ecfa7ca9991569efba376fa615c50f328f",
+            "modified": 1641581283,
+            "slug": "season-two-trailer",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200403/thumbnails/1_2043148580-SMILINGFRIENDS_online_thumb.jpg",
-            "created": 1585933870,
-            "season_number": "99",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171326226-AssnClassPromothumb.jpg",
+            "created": 1641580004,
+            "season_number": "",
             "title_id": "",
-            "tv_rating": "tv-ma",
-            "published": 1634927502,
+            "tv_rating": "",
+            "published": 1641581283,
             "tags": [],
-            "collection_title": "Smiling Friends",
+            "collection_title": "Assassination Classroom",
             "disable_ads": false,
-            "modified_by": "Jonathan Jackson",
-            "launch_date": 1634926976,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_2043148580-SMILINGFRIENDS_online_thumb.jpg",
-            "id": "AXFBBmXBRs3h4hI_X2zb",
+            "modified_by": "Jonas Eason",
+            "launch_date": 1641574800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171326226-AssnClassPromothumb.jpg",
+            "id": "AX41ywNY208s7zyYUL9b",
             "auth": false,
-            "collection_slug": "smiling-friends",
-            "collection_title_id": "2224721",
-            "online_exclusives": false
+            "collection_slug": "assassination-classroom",
+            "collection_title_id": "2238413",
+            "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
