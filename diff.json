@@ -1,55 +1,55 @@
 {
-    "updated": 1641581599,
-    "added": [
+    "updated": 1641586526,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Grab your backpacks-- we're heading back to class! Get ready for Season 2 of Assassination Classroom, premiering Saturday at 12:30a! Only on Toonami.",
+            "auth_expiration_date": 1641704340,
+            "tms_id": "EP036780850001",
+            "description": "Towa Higurashi learns about an incident that took place decades ago involving a half demon named Inuyasha and a priestess named Kagome.",
             "title_suggest": {
                 "input": [
-                    "Season Two Trailer",
-                    "Two Trailer",
-                    "Trailer"
+                    "Inuyasha: Since Then",
+                    "Since Then",
+                    "Then"
                 ]
             },
-            "title": "Season Two Trailer",
-            "expiration_date": null,
-            "type": "clip",
+            "title": "Inuyasha: Since Then",
+            "expiration_date": 1627806540,
+            "type": "episode",
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "online-exclusive",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
-            "duration": 30.016,
-            "original_air_date": null,
-            "auth_launch_date": null,
+            "collection_id": "AXpED60VBH5Z6gH5aWXi",
+            "duration": 1405.9378,
+            "episode_number": "1",
+            "original_air_date": "1624770000",
+            "auth_launch_date": 1627806600,
             "clip_order": null,
-            "airing_id": "",
-            "media_id": "mee21e54ecfa7ca9991569efba376fa615c50f328f",
-            "modified": 1641581283,
-            "slug": "season-two-trailer",
+            "airing_id": "RADS1007132100013171",
+            "media_id": "a30490b8173b77363c979fb010c1edd1ed1517b4",
+            "modified": 1627447755,
+            "slug": "inuyasha-since-then",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171326226-AssnClassPromothumb.jpg",
-            "created": 1641580004,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1641581283,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/1_2162514185-YashahimePrincessHalfDemon_101_InuyashaSinceThen.png",
+            "created": 1624644097,
+            "season_number": "1",
+            "title_id": "2268281",
+            "tv_rating": "tv-14-lv",
+            "published": 1627447755,
             "tags": [],
-            "collection_title": "Assassination Classroom",
+            "collection_title": "Yashahime: Princess Half-Demon",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
-            "launch_date": 1641574800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171326226-AssnClassPromothumb.jpg",
-            "id": "AX41ywNY208s7zyYUL9b",
-            "auth": false,
-            "collection_slug": "assassination-classroom",
-            "collection_title_id": "2238413",
-            "online_exclusives": true
+            "modified_by": "ODT Listener",
+            "launch_date": 1626597000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_2162514185-YashahimePrincessHalfDemon_101_InuyashaSinceThen.png",
+            "id": "AXpEVZZIDmGy9WFjRrmR",
+            "auth": true,
+            "collection_slug": "yashahime-princess-half-demon",
+            "collection_title_id": "2268280",
+            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
