@@ -308,6 +308,61 @@
     },
     {
         "ott_launch_date": 1549294200,
+        "auth_expiration_date": 1640321940,
+        "tms_id": "EP031428790001",
+        "description": "In this episode we flash back to see sandpaper-voiced Captain Solomon showing the Tropical Cops how to become Tropical Cops. Bring your earplugs.",
+        "title_suggest": {
+            "input": [
+                "The How to Be a Tropical Cop Episode",
+                "How to Be a Tropical Cop Episode",
+                "to Be a Tropical Cop Episode",
+                "Be a Tropical Cop Episode",
+                "a Tropical Cop Episode",
+                "Tropical Cop Episode",
+                "Cop Episode",
+                "Episode"
+            ]
+        },
+        "title": "The How to Be a Tropical Cop Episode",
+        "type": "episode",
+        "expiration_date": 1644555540,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWg5dZFTHl5gR6828xwU",
+        "duration": 676.67,
+        "episode_number": "1",
+        "original_air_date": 1549083600,
+        "auth_launch_date": 1637298000,
+        "clip_order": null,
+        "airing_id": "RADS1001022200057982",
+        "media_id": "2d220d03476e71481fba27a7c551ee1a321a3b65",
+        "modified": 1641238135,
+        "slug": "the-how-to-be-a-tropical-cop-episode",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154895653116412.jpg",
+        "created": 1548902289,
+        "title_id": "2184456",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1641238135,
+        "tags": [],
+        "collection_title": "Tropical Cop Tales",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641531600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895653116412.jpg",
+        "id": "AWihxVDQAScUIg8XxcpQ",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1549294200,
         "auth_expiration_date": 1642136340,
         "tms_id": "EP031428790002",
         "description": "A mad cannibal is tearing scalps from the island's skulls. And deep-frying them. And serving them as delicious crudit\u00e9s. He. Must. Be. Stopped.",
@@ -406,7 +461,7 @@
         "launch_date": 1638507600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501557320323.jpg",
         "id": "AWjO_Tz0AScUIg8Xxc9u",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1551108600,
