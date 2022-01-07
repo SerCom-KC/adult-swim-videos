@@ -193,11 +193,7 @@
     },
     {
         "auth_expiration_date": 1642136340,
-        "created": 1641157796,
         "tms_id": "EP003034830008",
-        "title_id": "437541",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
         "description": "Bender is condemned to robot hell.",
         "title_suggest": {
             "input": [
@@ -207,21 +203,38 @@
                 "Robots"
             ]
         },
-        "published": 1641240223,
         "title": "Hell Is Other Robots",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
         "duration": 1400.9996,
         "episode_number": "9",
-        "collection_title": "Futurama",
         "original_air_date": 1043294400,
         "auth_launch_date": 1641531600,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1001022200058025",
         "media_id": "340bf6d1f1e2ef78c9d13780ad1fbaf599e0a07d",
-        "modified": 1641240223,
+        "modified": 1641583487,
         "slug": "hell-is-other-robots",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171424404-aslogothumbnail.png",
+        "created": 1641157796,
+        "title_id": "437541",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "published": 1641583487,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171424404-aslogothumbnail.png",
         "id": "AX4coKHyK_pfPABJsbxh",
         "auth": true
     }
