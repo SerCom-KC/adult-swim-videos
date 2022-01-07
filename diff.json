@@ -1,13 +1,9 @@
 {
-    "updated": 1641594201,
-    "added": [],
-    "removed": [
+    "updated": 1641594505,
+    "added": [
         {
-            "created": 1641593425,
+            "auth_expiration_date": null,
             "tms_id": "EP034814950001",
-            "title_id": "2224722",
-            "season_number": "1",
-            "tv_rating": "tv-ma",
             "description": "A small company dedicated to bringing happiness to the world receives a simple request to help a woman's unhappy son smile again, but the job turns out to be more complicated than it seems.",
             "title_suggest": {
                 "input": [
@@ -17,27 +13,44 @@
                     "Out"
                 ]
             },
-            "published": 1641593425,
             "title": "Desmond's Big Day Out",
             "type": "episode",
-            "expiration_date": 1641790740,
-            "tags": [],
+            "expiration_date": 1643605140,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
             "duration": 720.5532,
             "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
             "episode_number": "1",
-            "collection_title": "Smiling Friends",
             "original_air_date": 1585725300,
-            "modified_by": "ODT Listener",
-            "airing_id": "RADS1010152100038197",
+            "auth_launch_date": null,
+            "clip_order": null,
+            "airing_id": "RADS1001072200060169",
             "media_id": "020010a88fab99bfe182319423394ab19fb5ada3",
-            "modified": 1641593425,
-            "launch_date": 1635048000,
+            "modified": 1641594330,
             "slug": "desmonds-big-day-out",
+            "exclude_from_search": false,
+            "thumbnail": "",
+            "created": 1641593425,
+            "title_id": "2224722",
+            "season_number": "1",
+            "tv_rating": "tv-ma",
+            "published": 1641594330,
+            "tags": [],
+            "collection_title": "Smiling Friends",
+            "disable_ads": false,
+            "modified_by": "Jonathan Jackson",
+            "launch_date": 1641594280,
+            "poster": "",
             "id": "AX42l8zl_0O4w1rD3RRZ",
             "auth": false,
             "collection_slug": "smiling-friends",
             "collection_title_id": "2224721",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
