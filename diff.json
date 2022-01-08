@@ -1,60 +1,61 @@
 {
-    "updated": 1641609026,
-    "added": [],
-    "removed": [
+    "updated": 1641610825,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": null,
             "auth_expiration_date": null,
-            "tms_id": "EP004625790001",
-            "rating": 8.784506,
-            "description": "Jet and Spike must track down a dealer of \"Red Eyes,\" a dangerous, addictive drug that induces berserker rages in its users. Can even Jet's strength stand up to the power of the drug?  And has Spike been swayed by the charms of a mother-to-be?",
+            "tms_id": "EP004625790005",
+            "rating": 8.16346,
+            "description": "Spike and Jet stumble across Faye Valentine, a wanted criminal, in a casino on Mars. Faye is more than a handful, holding her own against them and the others who are after her as well.  Faye is involved in a shady deal involving a secret microchip. Whose side is she really on?",
             "title_suggest": {
                 "input": [
-                    "Asteroid Blues",
-                    "Blues"
+                    "Honkey Tonk Women",
+                    "Tonk Women",
+                    "Women"
                 ]
             },
             "type": "episode",
-            "title": "Asteroid Blues",
+            "title": "Honkey Tonk Women",
             "expiration_date": 1641790740,
             "platforms": [
                 "web",
                 "mobile"
             ],
             "collection_id": "UXZ_vOajSbeWDPWBB_huVQ",
-            "duration": 1372.2669336,
-            "episode_number": "1",
-            "original_air_date": 999489600,
+            "duration": 1370.8675342,
+            "episode_number": "3",
+            "original_air_date": 1000094400,
             "clip_order": null,
             "auth_launch_date": null,
-            "modified": 1641605589,
-            "airing_id": "RADS1010082100037075",
-            "media_id": "09b354fe6dd6f89f883558c3e87a7170ba857811",
-            "id": "XagHOmK_TJiJf1451-sCLA",
-            "slug": "asteroid-blues",
-            "views": 262840,
+            "modified": 1641610162,
+            "airing_id": "RADS1010082100037092",
+            "media_id": "dc88434d42c8d86b1884699650ad3b52987d0b69",
+            "id": "INCCXfaCQZy8i_HYGbSTtg",
+            "slug": "honkey-tonk-women",
+            "views": 170279,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331023142-cowboybebop_101.jpg",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331024393-cowboybebop_103.jpg",
             "created": 1402945463,
-            "title_id": "344091",
+            "title_id": "344093",
             "season_number": "1",
             "tv_rating": "tv-14-lv",
-            "active": true,
+            "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1641605589,
+            "published": 1641610162,
             "tags": [],
-            "rating_count": 826,
+            "rating_count": 520,
             "collection_title": "Cowboy Bebop",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": 1633924800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331023142-cowboybebop_101.jpg",
-            "cma_id": "1044944",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331024393-cowboybebop_103.jpg",
+            "cma_id": "1048416",
             "collection_slug": "cowboy-bebop",
             "collection_title_id": "344090",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
