@@ -2,17 +2,33 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 9, 2022 at 05:00:26 EST_
+_Last Update: January 9, 2022 at 05:30:26 EST_
 ## Video added
 ### Summary
-2238413 Assassination Classroom: 1  
-### 2333968
-**Assassination Classroom S02E02 - Kaede Time**  
-TV-14-DS 🔒 21:47  
-⌛ January 30, 2022 at 04:29:00 EST  
-https://www.adultswim.com/videos/assassination-classroom/kaede-time  
-seriesid=`2238413` titleid=`2333968` id=`AX4xRwwj_0O4w1rD3RQf` mediaid=`6d9e3a4cbc1d2e9b41933a181d631cffbb0c6824`  
-_Kaede comes up with a delicious plan of attack, Class 3-E plays an intense game of Cops and Robbers, and Koro Sensei is accused of a serious crime._  
-<a href="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161623531-AssassinationClassroom_024_202_KaedeTime.png"><img src="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161623531-AssassinationClassroom_024_202_KaedeTime.png" height="144px" /></a>
+812206 Naruto: Shippuden: 3  
+### 2177774
+**Naruto: Shippuden S06E62 - I'm in Hell**  
+TV-PG-V 🔒 21:50  
+⌛ May 10, 2022 at 04:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/im-in-hell  
+seriesid=`812206` titleid=`2177774` id=`AXneLfKmDmGy9WFjRrYz` mediaid=`b99e6c162ea3bf5f38cc3716600468f59e049297`  
+_Obito works to rehabilitate his injured body in the hopes of being reunited with Kakashi and Rin._  
+<a href="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_216101011216-NarutoShippuden_345_ImInHell.png"><img src="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_216101011216-NarutoShippuden_345_ImInHell.png" height="144px" /></a>
+### 2177788
+**Naruto: Shippuden S07E11 - Kakashi: Shadow of the ANBU Black Ops - The Night of the Tragedy**  
+TV-PG 🔒 21:51  
+⌛ April 24, 2022 at 04:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-the-night-of-the-tragedy  
+seriesid=`812206` titleid=`2177788` id=`AXwOtCpP4Xbjep71f6HE` mediaid=`a37e9b5841167cb37629ccb5c97d0c34b3077eed`  
+_Itachi finds concrete evidence regarding the Uchiha Clan's coup against the Leaf._  
+<a href="https://media.cdn.adultswim.com/uploads/20210924/thumbnails/2_21924105347-NarutoShippuden_359_KakashiShadowOfTheANBUBlackOpsTheNightOfTheTragedy.png"><img src="https://media.cdn.adultswim.com/uploads/20210924/thumbnails/2_21924105347-NarutoShippuden_359_KakashiShadowOfTheANBUBlackOpsTheNightOfTheTragedy.png" height="144px" /></a>
+### 2177795
+**Naruto: Shippuden S07E18 - The All-Knowing**  
+TV-PG 🔒 21:52  
+⌛ April 24, 2022 at 04:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-all-knowing  
+seriesid=`812206` titleid=`2177795` id=`AX42KgsQ_0O4w1rD3RQ2` mediaid=`7a76ef2ae45e26ef7db175106d40120a87c596d5`  
+_Sasuke returns to the Hidden Leaf Village seeking answers. Standing before him are the reanimated First Hokage Hashirama, Second Hokage Tobirama, Third Hokage Hiruzen, and Fourth Hokage Minato._  
+<a href="https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171655110-NarutoShippuden_366_TheAllKnowing.png"><img src="https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171655110-NarutoShippuden_366_TheAllKnowing.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
