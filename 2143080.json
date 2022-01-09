@@ -373,7 +373,7 @@
             ]
         },
         "title": "New Future",
-        "expiration_date": 1644296340,
+        "expiration_date": null,
         "type": "episode",
         "platforms": [
             "android",
@@ -388,7 +388,7 @@
         "auth_launch_date": 1639890000,
         "clip_order": null,
         "media_id": "1cd4ac470bbb1e4b4203abfa2d4f567abb5f3c26",
-        "modified": 1639762283,
+        "modified": 1641765070,
         "airing_id": "RADS1012162100052986",
         "slug": "new-future",
         "exclude_from_search": false,
@@ -399,15 +399,15 @@
         "tv_rating": "tv-14-v",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1639762283,
+        "published": 1641765070,
         "tags": [],
         "collection_title": "Black Clover",
         "disable_ads": false,
         "modified_by": "Jonathan Jackson",
-        "launch_date": 1633406400,
+        "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117213-BlackClover_094.jpg",
         "id": "AW4S8Xa1adNs2hMNfuXp",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
