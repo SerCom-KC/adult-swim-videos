@@ -478,50 +478,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": null,
-        "tms_id": "SH014135410000",
-        "description": "The Moon is an egg.",
-        "title_suggest": {
-            "input": [
-                "Moon"
-            ]
-        },
-        "title": "Moon",
-        "type": "episode",
-        "expiration_date": 1642136340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-        "duration": 690.4564,
-        "episode_number": "2",
-        "original_air_date": 1636448400,
-        "auth_launch_date": null,
-        "clip_order": null,
-        "airing_id": "RADS1011052100042613",
-        "media_id": "27424009be7cd24da83690637406b3733698d77b",
-        "modified": 1641608446,
-        "slug": "moon",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181426283-OffTheAir_1102_Moon.png",
-        "created": 1636135686,
-        "title_id": "2321722",
-        "season_number": "11",
-        "tv_rating": "tv-14-l",
-        "published": 1641608446,
-        "tags": [],
-        "collection_title": "Off The Air",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1636448400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181426283-OffTheAir_1102_Moon.png",
-        "id": "AXzxSVHv4Xbjep71f6HZ",
-        "auth": false
-    },
-    {
         "auth": true,
         "ott_launch_date": 1449259440,
         "auth_expiration_date": 1641963540,
