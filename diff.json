@@ -1,20 +1,19 @@
 {
-    "updated": 1641715338,
-    "added": [],
-    "removed": [
+    "updated": 1641718878,
+    "added": [
         {
-            "auth_expiration_date": 1633417140,
-            "tms_id": "EP032785490027",
-            "description": "Senku, Gen and Chrome hatch a plan to fool the Tsukasa soldiers.",
+            "auth_expiration_date": 1643533140,
+            "tms_id": "",
+            "description": "Koro Sensei and his students try some matchmaking at the end of their island trip. Class 3-E's eventful summer ends with a taste of pure festival fun.",
             "title_suggest": {
                 "input": [
-                    "Stone Wars Beginning",
-                    "Wars Beginning",
-                    "Beginning"
+                    "Summer Festival Time",
+                    "Festival Time",
+                    "Time"
                 ]
             },
-            "title": "Stone Wars Beginning",
-            "expiration_date": 1641715140,
+            "title": "Summer Festival Time",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,34 +21,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWyrt2Uc4aLemgzOLGQm",
-            "duration": 1441.2398,
+            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+            "duration": 1354.2863,
             "episode_number": "1",
-            "original_air_date": "1621141200",
-            "auth_launch_date": 1632034800,
+            "original_air_date": null,
+            "auth_launch_date": 1641718800,
             "clip_order": null,
-            "airing_id": "RADS1009132100029267",
-            "media_id": "dfc44e1fb544a075ce6cd2815196157853edb51a",
-            "modified": 1639171937,
-            "slug": "stone-wars-beginning",
+            "airing_id": "RADS1001072200059796",
+            "media_id": "d85dcdda13d0f0c06951de2b86848c782ea48a59",
+            "modified": 1641616829,
+            "slug": "summer-festival-time",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210513/thumbnails/1_215131619266-DrStone2_025_StoneWarsBeginning.png",
-            "created": 1620937175,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161622573-AssassinationClassroom_023_201_SummerFestivalTime.png",
+            "created": 1641504192,
             "season_number": "2",
-            "title_id": "2264990",
-            "tv_rating": "tv-14-lv",
-            "published": 1639171937,
+            "title_id": "2333967",
+            "tv_rating": "tv-14-l",
+            "published": 1641616829,
             "tags": [],
-            "collection_title": "Dr. Stone",
+            "collection_title": "Assassination Classroom",
             "disable_ads": false,
-            "modified_by": "Jonathan Jackson",
-            "launch_date": 1639296000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210513/thumbnails/2_215131619266-DrStone2_025_StoneWarsBeginning.png",
-            "id": "AXlnYnG-BH5Z6gH5aWPC",
-            "auth": false,
-            "collection_slug": "dr-stone",
-            "collection_title_id": "2207385",
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161622573-AssassinationClassroom_023_201_SummerFestivalTime.png",
+            "id": "AX4xRjfv_0O4w1rD3RQe",
+            "auth": true,
+            "collection_slug": "assassination-classroom",
+            "collection_title_id": "2238413",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
