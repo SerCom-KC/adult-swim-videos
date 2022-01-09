@@ -44,7 +44,7 @@
         "launch_date": 1638682200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_211112109192-BladeRunnerBlackLotus_103_AllWeAreNot.png",
         "id": "AX0MBq7eUQa40cfnRSnq",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1646542740,
@@ -362,6 +362,51 @@
         "launch_date": 1641704400,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171449316-BladeRunnerBlackLotus_107_Reality.png",
         "id": "AX3JZ182UQa40cfnRS-G",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1643518740,
+        "tms_id": "",
+        "description": "Elle goes after the final target to complete her mission of revenge, the man responsible for the Doll Hunt.",
+        "title_suggest": {
+            "input": [
+                "Free Will",
+                "Will"
+            ]
+        },
+        "title": "Free Will",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXru8vbSeTntnGIjub0w",
+        "duration": 1351.0497,
+        "episode_number": "9",
+        "original_air_date": 1641704400,
+        "auth_launch_date": 1641704400,
+        "clip_order": null,
+        "airing_id": "RADS1001072200059781",
+        "media_id": "67264913a91009c80405b338f3aed8195d6c2613",
+        "modified": 1641608330,
+        "slug": "free-will",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171653263-BladeRunnerBlackLotus_109_FreeWill.png",
+        "created": 1641586227,
+        "title_id": "2191465",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "published": 1641608330,
+        "tags": [],
+        "collection_title": "Blade Runner: Black Lotus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171653263-BladeRunnerBlackLotus_109_FreeWill.png",
+        "id": "AX42KfoB208s7zyYUL9d",
         "auth": true
     },
     {
