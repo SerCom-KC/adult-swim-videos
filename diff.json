@@ -1,19 +1,20 @@
 {
-    "updated": 1641704658,
-    "added": [
+    "updated": 1641715338,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1643605140,
-            "tms_id": "EP036780850001",
-            "description": "Towa Higurashi learns about an incident that took place decades ago involving a half demon named Inuyasha and a priestess named Kagome.",
+            "auth_expiration_date": 1633417140,
+            "tms_id": "EP032785490027",
+            "description": "Senku, Gen and Chrome hatch a plan to fool the Tsukasa soldiers.",
             "title_suggest": {
                 "input": [
-                    "Inuyasha: Since Then",
-                    "Since Then",
-                    "Then"
+                    "Stone Wars Beginning",
+                    "Wars Beginning",
+                    "Beginning"
                 ]
             },
-            "title": "Inuyasha: Since Then",
-            "expiration_date": 1627806540,
+            "title": "Stone Wars Beginning",
+            "expiration_date": 1641715140,
             "type": "episode",
             "platforms": [
                 "android",
@@ -21,35 +22,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXpED60VBH5Z6gH5aWXi",
-            "duration": 1405.9378,
+            "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+            "duration": 1441.2398,
             "episode_number": "1",
-            "original_air_date": "1624770000",
-            "auth_launch_date": 1641704400,
+            "original_air_date": "1621141200",
+            "auth_launch_date": 1632034800,
             "clip_order": null,
-            "airing_id": "RADS1001072200059777",
-            "media_id": "a30490b8173b77363c979fb010c1edd1ed1517b4",
-            "modified": 1641598304,
-            "slug": "inuyasha-since-then",
+            "airing_id": "RADS1009132100029267",
+            "media_id": "dfc44e1fb544a075ce6cd2815196157853edb51a",
+            "modified": 1639171937,
+            "slug": "stone-wars-beginning",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/1_2162514185-YashahimePrincessHalfDemon_101_InuyashaSinceThen.png",
-            "created": 1624644097,
-            "season_number": "1",
-            "title_id": "2268281",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210513/thumbnails/1_215131619266-DrStone2_025_StoneWarsBeginning.png",
+            "created": 1620937175,
+            "season_number": "2",
+            "title_id": "2264990",
             "tv_rating": "tv-14-lv",
-            "published": 1641598304,
+            "published": 1639171937,
             "tags": [],
-            "collection_title": "Yashahime: Princess Half-Demon",
+            "collection_title": "Dr. Stone",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1626597000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_2162514185-YashahimePrincessHalfDemon_101_InuyashaSinceThen.png",
-            "id": "AXpEVZZIDmGy9WFjRrmR",
-            "auth": true,
-            "collection_slug": "yashahime-princess-half-demon",
-            "collection_title_id": "2268280",
+            "modified_by": "Jonathan Jackson",
+            "launch_date": 1639296000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210513/thumbnails/2_215131619266-DrStone2_025_StoneWarsBeginning.png",
+            "id": "AXlnYnG-BH5Z6gH5aWPC",
+            "auth": false,
+            "collection_slug": "dr-stone",
+            "collection_title_id": "2207385",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
