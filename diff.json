@@ -1,64 +1,122 @@
 {
-    "updated": 1641823233,
-    "added": [],
-    "removed": [
+    "updated": 1641823279,
+    "added": [
         {
             "auth": true,
-            "ott_launch_date": 1447443540,
+            "ott_launch_date": 1447443600,
             "auth_expiration_date": 1641963540,
-            "tms_id": "EP007008180027",
-            "rating": 8.147999,
-            "description": "Lil's disregard for birth control provides a lifelong friend for Early.",
+            "tms_id": "EP007008180029",
+            "rating": 7.5769386,
+            "description": "Pedal meets metal and windshield meets Rusty.",
             "title_suggest": {
                 "input": [
-                    "The Good One",
-                    "Good One",
-                    "One"
+                    "Condition: Demolition!",
+                    "Demolition!"
                 ]
             },
             "type": "episode",
-            "title": "The Good One",
-            "expiration_date": 1630382340,
+            "title": "Condition: Demolition!",
+            "expiration_date": 1631591940,
             "platforms": [
                 "web",
                 "mobile",
                 "ott"
             ],
             "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 669.8341675,
-            "episode_number": "7",
-            "original_air_date": 1204520400,
+            "duration": 674.9342676,
+            "episode_number": "9",
+            "original_air_date": 1205726400,
             "clip_order": null,
             "auth_launch_date": 1635912000,
-            "modified": 1641822189,
-            "media_id": "b54650312001046610b914f68ccc05268504c903",
-            "airing_id": "RADS1010312100041229",
-            "id": "3EuToyv0SeGT45t_OYzJnQ",
-            "slug": "the-good-one",
-            "views": 821785,
+            "modified": 1641823107,
+            "media_id": "052b017bf53d3d9e3a3eb9ce15207dbfa34def7d",
+            "airing_id": "RADS1010312100041234",
+            "id": "fDIgS4DJTMmGrYL6DjC1og",
+            "slug": "condition-demolition",
+            "views": 552171,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131132495-squidbillies_027_bim.jpg",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131133467-squidbillies_029_bim.jpg",
             "created": 1402945477,
-            "title_id": "706642",
+            "title_id": "711801",
             "season_number": "3",
-            "tv_rating": "tv-ma",
+            "tv_rating": "tv-14-lv",
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1641822189,
+            "published": 1641823107,
             "tags": [
-                "squidbillies episode 27 the good one rusty brother early child son lil"
+                "squidbillies episode 29 condition demolition derby windshield"
             ],
-            "rating_count": 2973,
+            "rating_count": 2437,
             "collection_title": "Squidbillies",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1627358400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg",
-            "cma_id": "1422943",
+            "launch_date": 1628568000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131133467-squidbillies_029_bim.jpg",
+            "cma_id": "1430649",
+            "collection_slug": "squidbillies",
+            "collection_title_id": "581268",
+            "online_exclusives": false
+        },
+        {
+            "auth": true,
+            "ott_launch_date": 1447443840,
+            "auth_expiration_date": 1641963540,
+            "tms_id": "EP007008180038",
+            "rating": 7.6516733,
+            "description": "Dan Halen tries his hand at human sacrifice.",
+            "title_suggest": {
+                "input": [
+                    "Pile M For Murder",
+                    "M For Murder",
+                    "For Murder",
+                    "Murder"
+                ]
+            },
+            "type": "episode",
+            "title": "Pile M For Murder",
+            "expiration_date": 1598932799,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+            "duration": 675.4004004,
+            "episode_number": "18",
+            "original_air_date": 1211775300,
+            "clip_order": null,
+            "auth_launch_date": 1635912000,
+            "modified": 1641823104,
+            "media_id": "56cb2fabbd08f97f03da7b048467f3a004e8c264",
+            "airing_id": "RADS1010312100041166",
+            "id": "JoZiugONR-67XsOHVd2tsQ",
+            "slug": "pile-m-for-murder",
+            "views": 527496,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131214345-squidbillies_039_bim.jpg",
+            "created": 1402945477,
+            "title_id": "719990",
+            "season_number": "3",
+            "tv_rating": "tv-14-lv",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1641823104,
+            "tags": [
+                "squidbillies episode 39 pile m for murder dan halen human sacrifice mountain"
+            ],
+            "rating_count": 2403,
+            "collection_title": "Squidbillies",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1542690000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131214345-squidbillies_039_bim.jpg",
+            "cma_id": "1472263",
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
