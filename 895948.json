@@ -53,7 +53,7 @@
         "cma_id": "1381434"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1475503800,
         "auth_expiration_date": 1644814740,
         "tms_id": "EP015632430039",
@@ -674,6 +674,52 @@
         "launch_date": 1641186000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161712495-ericandre_502_dup-20200812.jpg",
         "id": "AXSYw1UXSeFB2d0c3877",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1629086340,
+        "tms_id": "",
+        "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
+        "title_suggest": {
+            "input": [
+                "You Got Served",
+                "Got Served",
+                "Served"
+            ]
+        },
+        "title": "You Got Served",
+        "expiration_date": 1644814740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 675.5082,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1626062400,
+        "clip_order": null,
+        "airing_id": "RADS1001072200059874",
+        "media_id": "e492a99d0935386e7b8aa303d3728fd008c8411d",
+        "modified": 1641613789,
+        "slug": "you-got-served",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161714163-ericandre_503_dup-20200813.jpg",
+        "created": 1600290812,
+        "season_number": "5",
+        "title_id": "2230782",
+        "tv_rating": "tv-ma-l",
+        "published": 1641613789,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641790800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161714163-ericandre_503_dup-20200813.jpg",
+        "id": "AXSYw_QbLyLQBOXK_PN9",
         "auth": false
     },
     {
