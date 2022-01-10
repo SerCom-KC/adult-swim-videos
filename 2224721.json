@@ -1,5 +1,52 @@
 [
     {
+        "auth_expiration_date": null,
+        "tms_id": "EP034814950001",
+        "description": "A small company dedicated to bringing happiness to the world receives a simple request to help a woman's unhappy son smile again, but the job turns out to be more complicated than it seems.",
+        "title_suggest": {
+            "input": [
+                "Desmond's Big Day Out",
+                "Big Day Out",
+                "Day Out",
+                "Out"
+            ]
+        },
+        "title": "Desmond's Big Day Out",
+        "type": "episode",
+        "expiration_date": 1643605140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "duration": 720.5532,
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "episode_number": "1",
+        "original_air_date": 1585725300,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1010152100038197",
+        "media_id": "020010a88fab99bfe182319423394ab19fb5ada3",
+        "modified": 1641823174,
+        "slug": "desmonds-big-day-out",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171728396-SMILINGFRIENDS.png",
+        "created": 1641593425,
+        "title_id": "2224722",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "published": 1641823174,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1635048000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171728396-SMILINGFRIENDS.png",
+        "id": "AX42l8zl_0O4w1rD3RRZ",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1643606940,
         "tms_id": "EP034814950004",
         "description": "Pim ventures into the forest across the road to fetch firewood for the office Halloween party.",
