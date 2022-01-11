@@ -1,55 +1,6 @@
 [
     {
         "ott_launch_date": 1447789500,
-        "auth_expiration_date": 1641877140,
-        "tms_id": "SH020223070000",
-        "description": "In a 1960s-era informercial for an electric vibrating salad tossing device that, unbeknownst to the host, might have a dual purpose.",
-        "title_suggest": {
-            "input": [
-                "The Salad Mixxxer",
-                "Salad Mixxxer",
-                "Mixxxer"
-            ]
-        },
-        "expiration_date": null,
-        "type": "episode",
-        "title": "The Salad Mixxxer",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 677.0333667,
-        "episode_number": "2",
-        "original_air_date": 1413273600,
-        "auth_launch_date": 1638853200,
-        "clip_order": null,
-        "media_id": "d87a882e506fe86786c6e9382e5d2bc3e1424c72",
-        "modified": 1639145159,
-        "airing_id": "RADS1012032100051180",
-        "slug": "the-salad-mixxxer",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509845082819.jpg",
-        "created": 1510605037,
-        "season_number": "4",
-        "title_id": "2007843",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1639145159,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509845082819.jpg",
-        "id": "AV-3E6AFwdpKFAKSbWZs",
-        "auth": true
-    },
-    {
-        "ott_launch_date": 1447789500,
         "auth_expiration_date": 1642481940,
         "tms_id": "SH020417690000",
         "description": "Sure, Newbridge, NJ is known as the muffler capital of the world but it's so much more than that. Learn about the fascinating often insane past and present of the town George Washington quickly decided against making the capital of the US.",
@@ -259,6 +210,55 @@
         "auth": true
     },
     {
+        "ott_launch_date": 1461592740,
+        "auth_expiration_date": 1626148740,
+        "tms_id": "SH024039740000",
+        "description": "No one is better at portraying rehabilitationamalist Giles Vanderhoot than Vanderhoot himself.",
+        "title_suggest": {
+            "input": [
+                "Giles Vanderhoot",
+                "Vanderhoot"
+            ]
+        },
+        "expiration_date": 1644296340,
+        "type": "episode",
+        "title": "Giles Vanderhoot",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 651.2085071,
+        "episode_number": "3",
+        "original_air_date": 1461657600,
+        "auth_launch_date": 1623124800,
+        "clip_order": null,
+        "media_id": "df4c146fbbefd9fd346bb414506997591efef05b",
+        "modified": 1641619342,
+        "airing_id": "RADS1001072200059927",
+        "slug": "giles-vanderhoot",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150980632941.jpg",
+        "created": 1510606611,
+        "season_number": "6",
+        "title_id": "2086419",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1641619342,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641877200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150980632941.jpg",
+        "id": "AV-3K6YjwdpKFAKSbWbA",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1447789140,
         "auth_expiration_date": 1644901140,
         "tms_id": "SH020665860000",
@@ -310,7 +310,7 @@
         "launch_date": 1639458000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509813513710.jpg",
         "id": "AV-3KdR1wdpKFAKSbWa5",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1621915140,
