@@ -207,60 +207,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1447783980,
-        "auth_expiration_date": 1641963540,
-        "tms_id": "EP008994530013",
-        "rating": 7.681861,
-        "description": "A very special wooded episode of Tim and Eric Awesome Show, Great Job! (Zach Galifianakis, John C. Reilly, Al Yankovic)",
-        "title_suggest": {
-            "input": [
-                "Forest"
-            ]
-        },
-        "type": "episode",
-        "title": "Forest",
-        "expiration_date": 1638939540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 695.014,
-        "episode_number": "3",
-        "original_air_date": 1197868500,
-        "clip_order": null,
-        "auth_launch_date": 1638939600,
-        "modified": 1639165323,
-        "media_id": "f224751828a39972dc643abae8ef929e5675a98a",
-        "airing_id": "RADS1010312100041135",
-        "id": "Mz4nMiECRoeXeKSZvWFhJQ",
-        "slug": "forest",
-        "views": 535123,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116169229-timanderic_203.jpg",
-        "created": 1402945481,
-        "title_id": "691939",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1639165323,
-        "tags": [
-            "time and eric awesome show great job episode 13 forest zach galifianakis john c reilly steve brule al yankovic wood"
-        ],
-        "rating_count": 4256,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": 1635912000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116169229-timanderic_203.jpg",
-        "cma_id": "1291207"
-    },
-    {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784220,
         "auth_expiration_date": 1644987540,
         "tms_id": "EP008994530018",
@@ -528,6 +475,57 @@
         "launch_date": 1637125200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211616823-timanderic_206.jpg",
         "cma_id": "1305145"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447784400,
+        "auth_expiration_date": 1617163140,
+        "tms_id": "EP008994530072",
+        "rating": 8.386338,
+        "description": "When Tim and Eric run out of show ideas, Aboxa Ballons drops by. Also, Brule goes viral, CORBS go coastal and Grill Vogel teaches you how to hug in the workplace.\r\n(John C Reilly, Ray Wise)",
+        "title_suggest": {
+            "input": [
+                "C.O.R.B.S."
+            ]
+        },
+        "type": "episode",
+        "title": "C.O.R.B.S.",
+        "expiration_date": 1644987540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 680.017,
+        "episode_number": "5",
+        "original_air_date": 1219638600,
+        "clip_order": null,
+        "auth_launch_date": 1614142800,
+        "modified": 1641813083,
+        "media_id": "724141f3ab810c6400a6702f9b7ba32bae4dd6e8",
+        "airing_id": "RADS1001092200060227",
+        "id": "q12RsJJuR4u2iDZEKahS2w",
+        "slug": "c-o-r-b-s",
+        "views": 386503,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161624108-timanderic_305.jpg",
+        "created": 1402945481,
+        "title_id": "723438",
+        "season_number": "3",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1641813083,
+        "tags": [],
+        "rating_count": 1654,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641963600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161624108-timanderic_305.jpg",
+        "cma_id": "1344769"
     },
     {
         "auth": true,
