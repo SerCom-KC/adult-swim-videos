@@ -272,7 +272,7 @@
         "cma_id": "1443558"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168800,
         "auth_expiration_date": 1644987540,
         "tms_id": "EP008519090016",
@@ -333,59 +333,6 @@
         "launch_date": 1638939600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111126275-metalocalypse_116.jpg",
         "cma_id": "1431399"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447168680,
-        "auth_expiration_date": 1641963540,
-        "tms_id": "EP008519090009",
-        "rating": 8.841861,
-        "description": "In a last-ditch scramble for tax breaks, Dethklok agrees to host an event with the London Philharmonic, but only under one condition: Dethklok gets to produce their own kind of laser light show. They've also taken in a distempered fat kid they found, and must juggle the responsibilities of parenting while upholding their charitable agreement.",
-        "title_suggest": {
-            "input": [
-                "FatKlok"
-            ]
-        },
-        "type": "episode",
-        "title": "FatKlok",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 686.4671338,
-        "episode_number": "11",
-        "original_air_date": 1160365500,
-        "clip_order": null,
-        "auth_launch_date": 1638939600,
-        "modified": 1639146474,
-        "media_id": "3d1ef6898aa068854b8af1f7daf06b39cf513589",
-        "airing_id": "RADS1012032100051235",
-        "id": "a29qs2CNTw-nXKcEjm38Ng",
-        "slug": "fat-klok",
-        "views": 818990,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111124556-metalocalypse_111.jpg",
-        "created": 1402945469,
-        "title_id": "651232",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1639146474,
-        "tags": [
-            "metalocalypse dethklok episode 11 fat kid at the detharmonic london adopt child tax charity"
-        ],
-        "rating_count": 3067,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111124556-metalocalypse_111.jpg",
-        "cma_id": "1410636"
     },
     {
         "auth": true,
@@ -611,5 +558,70 @@
         "launch_date": 1637730000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111125290-metalocalypse_113.jpg",
         "cma_id": "1418814"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447168860,
+        "auth_expiration_date": 1612933140,
+        "tms_id": "EP008519090020",
+        "rating": 9.169083,
+        "description": "In this first season finale, the Metalocalypse creeps closer to fulfillment when Dethklok executes their most brutal performance to date, and the Tribunal finally makes their move.",
+        "title_suggest": {
+            "input": [
+                "The Metalocalypse Has Begun",
+                "Metalocalypse Has Begun",
+                "Has Begun",
+                "Begun"
+            ]
+        },
+        "type": "episode",
+        "title": "The Metalocalypse Has Begun",
+        "expiration_date": 1644987540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 691.8341675,
+        "episode_number": "20",
+        "original_air_date": 1166417100,
+        "clip_order": null,
+        "auth_launch_date": 1609909200,
+        "modified": 1641621977,
+        "media_id": "9e2a9e859019701e5ad16accf4814f8707c0de59",
+        "airing_id": "RADS1001072200059982",
+        "id": "yifEfjaMRgGY4xtI3UZ-Lg",
+        "slug": "the-metalocalypse-has-begun",
+        "views": 703398,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111140415-metalocalypse_120.jpg",
+        "created": 1402945469,
+        "title_id": "655954",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1641621977,
+        "tags": [
+            "metalocalypse",
+            "dethklok",
+            "episode 20",
+            "has",
+            "begun",
+            "season",
+            "finale",
+            "concert",
+            "tribunal",
+            "assassin"
+        ],
+        "rating_count": 3732,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641963600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111140415-metalocalypse_120.jpg",
+        "cma_id": "1447979"
     }
 ]
