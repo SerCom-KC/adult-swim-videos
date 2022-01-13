@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1642049940,
-        "tms_id": "EP003034830076",
-        "description": "Bender and the new owners of Planet Express hatch a plan to steal ancient riches. Lars and Leela's romance takes off.",
-        "title_suggest": {
-            "input": [
-                "Bender's Big Score Part 2",
-                "Big Score Part 2",
-                "Score Part 2",
-                "Part 2",
-                "2"
-            ]
-        },
-        "title": "Bender's Big Score Part 2",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.0006,
-        "episode_number": "2",
-        "original_air_date": 1641177000,
-        "auth_launch_date": 1641445200,
-        "clip_order": null,
-        "airing_id": "RADS1001022200057965",
-        "media_id": "14062519a2402bb8ae69b2361c1ac852fa2b176d",
-        "modified": 1641247743,
-        "slug": "benders-big-score-part-2",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/1_2213178271-Futurama_602_BendersBigScore_Part2.png",
-        "created": 1641157192,
-        "title_id": "2161605",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1641247743,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/2_2213178271-Futurama_602_BendersBigScore_Part2.png",
-        "id": "AX4cl2xvdpBG7hfWGhgT",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1642222740,
         "tms_id": "EP003034830010",
         "description": "Romance and danger follow Bender and Fry on the space cruise ship, Titanic.",
@@ -232,6 +184,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png",
         "id": "AX4xSLf_208s7zyYUL9W",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1643000399,
+        "tms_id": "EP003034830078",
+        "description": "Alien scammers buy the planet and banish its inhabitants to Neptune, leading to an intergalactic battle for Earth.",
+        "title_suggest": {
+            "input": [
+                "Bender's Big Score Part 4",
+                "Big Score Part 4",
+                "Score Part 4",
+                "Part 4",
+                "4"
+            ]
+        },
+        "title": "Bender's Big Score Part 4",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1346.0113,
+        "episode_number": "4",
+        "original_air_date": "1641781800",
+        "auth_launch_date": 1642050000,
+        "clip_order": null,
+        "airing_id": "RADS1001092200060383",
+        "media_id": "10f38ebcbcd3d2a00c9740ed8c5e1a2a2c4f4da2",
+        "modified": 1641830828,
+        "slug": "benders-big-score-part-4",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161626567-Futurama_604_BendersBigScore_Part4.png",
+        "created": 1641504430,
+        "season_number": "6",
+        "title_id": "2161607",
+        "tv_rating": "tv-14-dlv",
+        "published": 1641830828,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161626567-Futurama_604_BendersBigScore_Part4.png",
+        "id": "AX4xSdr0208s7zyYUL9X",
         "auth": true
     }
 ]
