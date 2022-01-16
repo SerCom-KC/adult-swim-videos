@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 16, 2022 at 05:30:24 EST_
+_Last Update: January 16, 2022 at 06:00:24 EST_
 ## Video added
 ### Summary
-2356951 Made In Abyss: 1  
-### 2356954
-**Made In Abyss S01E01 - The City of the Great Pit**  
-TV-MA 🔒 23:31  
-⌛ February 6, 2022 at 04:59:00 EST  
-https://www.adultswim.com/videos/made-in-abyss/the-city-of-the-great-pit  
-seriesid=`2356951` titleid=`2356954` id=`AX5VcBic208s7zyYUL9n` mediaid=`e82d23e71a7a91dc4deb0eea3f023333335c7ba0`  
-_While exploring the Abyss, Riko comes across something she has never seen before. How does this new discovery impact her?_  
-<a href="https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131654445-MadeInAbyss_001_101_TheCityOfTheGreatPit.png"><img src="https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131654445-MadeInAbyss_001_101_TheCityOfTheGreatPit.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177798
+**Naruto: Shippuden S07E21 - My True Dream**  
+TV-PG 🔒 21:51  
+⌛ May 1, 2022 at 05:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/my-true-dream  
+seriesid=`812206` titleid=`2177798` id=`AX5UFvYF_0O4w1rD3RW0` mediaid=`78a96bd64779b4b9155b70c8b7fa33c31eba51b8`  
+_Standing on the cliff where they first confided their hopes to each other, Hashirama and Madara gaze at their burgeoning village._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171118-NarutoShippuden_369_MyTrueDream.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171118-NarutoShippuden_369_MyTrueDream.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
