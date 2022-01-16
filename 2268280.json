@@ -469,6 +469,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1644209940,
+        "tms_id": "EP036780850002",
+        "description": "Half-demon twins Towa and Setsuna are separated from each other when a mysterious tunnel sends Towa into the future, where she is found and raised by Kagome Higurashi's brother Sota.",
+        "title_suggest": {
+            "input": [
+                "The Three Princesses",
+                "Three Princesses",
+                "Princesses"
+            ]
+        },
+        "title": "The Three Princesses",
+        "type": "episode",
+        "expiration_date": 1628411340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXpED60VBH5Z6gH5aWXi",
+        "duration": 1345.978,
+        "episode_number": "2",
+        "original_air_date": 1625374800,
+        "auth_launch_date": 1642309200,
+        "clip_order": null,
+        "airing_id": "RADS1001102200060625",
+        "media_id": "bddf77503caf42043ebd26b921c2228f1d387d43",
+        "modified": 1641883268,
+        "slug": "the-three-princesses",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/1_21711450353-YashahimePrincessHalfDemon_102_TheThreePrincesses.png",
+        "created": 1625150526,
+        "title_id": "2268282",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "published": 1641883268,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1627201800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711450353-YashahimePrincessHalfDemon_102_TheThreePrincesses.png",
+        "id": "AXpihRVwDmGy9WFjRrpj",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1644123540,
         "tms_id": "EP036780850005",
         "description": "Towa and Setsuna take on a request to slay Jakotsumaru, a boy who has been extracting bones from humans and beasts in order to revive his father, the demon beast Tokotsu.",
