@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1642309140,
-        "tms_id": "EP003034830011",
-        "description": "Fry goes to college to prove the adage: Once a dropout; always a dropout.",
-        "title_suggest": {
-            "input": [
-                "Mars University",
-                "University"
-            ]
-        },
-        "title": "Mars University",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.2342,
-        "episode_number": "2",
-        "original_air_date": 1043640000,
-        "auth_launch_date": 1641704400,
-        "clip_order": null,
-        "airing_id": "RADS1001022200058045",
-        "media_id": "f199547e59bf24d0e5f11f4eb05562835b0f521f",
-        "modified": 1641592415,
-        "slug": "mars-university",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171651521-Futurama_011_MarsUniversity.png",
-        "created": 1641157940,
-        "title_id": "437543",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "published": 1641592415,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171651521-Futurama_011_MarsUniversity.png",
-        "id": "AX4cotUOdpBG7hfWGhgV",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1643000399,
         "tms_id": "EP003034830077",
         "description": "As Leela and Lars prepare to get married, we learn what happened to Fry when he returned to the 21st century.",
@@ -219,6 +174,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131648518-Futurama_012_WhenAliensAttack.png",
         "id": "AX5A9nBN208s7zyYUL9i",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1643000399,
+        "tms_id": "EP003034830014",
+        "description": "Professor Farnsworth installs an empathy chip in Bender.",
+        "title_suggest": {
+            "input": [
+                "I Second That Emotion",
+                "Second That Emotion",
+                "That Emotion",
+                "Emotion"
+            ]
+        },
+        "title": "I Second That Emotion",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.7003,
+        "episode_number": "5",
+        "original_air_date": 1043899200,
+        "auth_launch_date": 1642309200,
+        "clip_order": null,
+        "airing_id": "RADS1001102200060616",
+        "media_id": "30cc16361baddf7126fc83b821e8bda174da21ce",
+        "modified": 1642198466,
+        "slug": "i-second-that-emotion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/1_22114171486-Futurama_014_ISecondThatEmotion.png",
+        "created": 1641851609,
+        "title_id": "437546",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "published": 1642198466,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png",
+        "id": "AX5F-2CI208s7zyYUL9k",
         "auth": true
     }
 ]
