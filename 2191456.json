@@ -410,6 +410,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1644123540,
+        "tms_id": "EP040618320011",
+        "description": "As Elle struggles with not knowing which of her memories are real and which are artificial, J opens up about his own past.",
+        "title_suggest": {
+            "input": [
+                "Clair De Lune",
+                "De Lune",
+                "Lune"
+            ]
+        },
+        "title": "Clair De Lune",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXru8vbSeTntnGIjub0w",
+        "duration": 1350.9162,
+        "episode_number": "10",
+        "original_air_date": 1642309200,
+        "auth_launch_date": 1642309200,
+        "clip_order": null,
+        "airing_id": "RADS1001132200063450",
+        "media_id": "e6407f5f166c271e45bf0971fe815bc6412a55d8",
+        "modified": 1642198162,
+        "slug": "clair-de-lune",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/1_2211417927-BladeRunnerBlackLotus_110_ClairDeLune.png",
+        "created": 1642087679,
+        "title_id": "2191466",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "published": 1642198162,
+        "tags": [],
+        "collection_title": "Blade Runner: Black Lotus",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_2211417927-BladeRunnerBlackLotus_110_ClairDeLune.png",
+        "id": "AX5UDYel208s7zyYUL9l",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "EP040838170001",
         "description": "Replicants are like any other machine, they\u2019re either a benefit or a hazard. Find out what went into making the world of Blade Runner: Black Lotus from the creators of the new anime series.",
