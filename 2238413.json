@@ -89,5 +89,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161623531-AssassinationClassroom_024_202_KaedeTime.png",
         "id": "AX4xRwwj_0O4w1rD3RQf",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1644137940,
+        "tms_id": "EP021060050025",
+        "description": "Koro Sensei faces off against the powerful, tentacled Itona and his handler Shiro yet again, revealing more of his teaching philosophy along the way.",
+        "title_suggest": {
+            "input": [
+                "Itona Horibe Time",
+                "Horibe Time",
+                "Time"
+            ]
+        },
+        "title": "Itona Horibe Time",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1307.8732,
+        "episode_number": "",
+        "original_air_date": 1642311000,
+        "auth_launch_date": 1642323600,
+        "clip_order": null,
+        "airing_id": "RADS1001132200063452",
+        "media_id": "d4e526fd45f305a810d8c6d6daacf41769da4b98",
+        "modified": 1642110795,
+        "slug": "itona-horibe-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/1_221131652520-AssassinationClassroom_025_202_ItonaHoribeTime.png",
+        "created": 1642088296,
+        "title_id": "2333969",
+        "season_number": "2",
+        "tv_rating": "tv-14-l",
+        "published": 1642110795,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131652520-AssassinationClassroom_025_202_ItonaHoribeTime.png",
+        "id": "AX5UFu9m208s7zyYUL9m",
+        "auth": true
     }
 ]
