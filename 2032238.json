@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1648612740,
         "tms_id": "EP020020000022",
@@ -199,55 +199,6 @@
         "launch_date": 1641358800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111528349-miketysonmysteries_021.jpg",
         "cma_id": "1472691"
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1642568340,
-        "tms_id": "",
-        "description": "As Robert Frost says, nothing gold can stay.",
-        "title_suggest": {
-            "input": [
-                "Your Old Man",
-                "Old Man",
-                "Man"
-            ]
-        },
-        "title": "Your Old Man",
-        "expiration_date": 1636520340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 671.9713,
-        "episode_number": "12",
-        "original_air_date": 1578892500,
-        "auth_launch_date": 1636520400,
-        "clip_order": null,
-        "media_id": "c2ba66ace5e2bddac45a3ad2ed6949a5648cde4e",
-        "modified": 1636159178,
-        "airing_id": "RADS1011052100042629",
-        "slug": "your-old-man",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/1_20171323591-miketysonmysteries_411.jpg",
-        "created": 1578421448,
-        "season_number": "4",
-        "title_id": "2172008",
-        "tv_rating": "tv-14-dls",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1636159178,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1633492800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171323591-miketysonmysteries_411.jpg",
-        "id": "AW-BP-4O3HMJfT8do607",
-        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -692,6 +643,57 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152529333504413.jpg",
         "id": "AWMikhyrTdxzjxdCltvE",
         "auth": false
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1622001540,
+        "tms_id": "EP020020000027",
+        "description": "A theater director fears his production of Macbeth is cursed!",
+        "title_suggest": {
+            "input": [
+                "The Bard's Curse",
+                "Bard's Curse",
+                "Curse"
+            ]
+        },
+        "expiration_date": 1645592340,
+        "title": "The Bard's Curse",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 690.2085071,
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "episode_number": "17",
+        "original_air_date": 1464579900,
+        "clip_order": null,
+        "auth_launch_date": 1615953600,
+        "modified": 1642190061,
+        "media_id": "67b30b9e98a75caffea0bb300b172d56d01c62d8",
+        "airing_id": "RADS1001142200063943",
+        "id": "ddPKl2HmTIeYnWVAGx7Xog",
+        "slug": "the-bards-curse",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111529199-miketysonmysteries_029.jpg",
+        "created": 1445444196,
+        "season_number": "2",
+        "title_id": "2069752",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1642190061,
+        "first_published": 1464243048,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1642568400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111529199-miketysonmysteries_029.jpg",
+        "cma_id": "2069752"
     },
     {
         "auth": true,
