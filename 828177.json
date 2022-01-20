@@ -50,7 +50,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447786560,
         "auth_expiration_date": 1642654800,
         "tms_id": "EP013726210002",
@@ -783,7 +783,7 @@
         "cma_id": "1275530"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447786860,
         "auth_expiration_date": 1645678740,
         "tms_id": "EP013726210007",
@@ -993,5 +993,51 @@
         "launch_date": 1481577852,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-marathon/marathonStream_ypf6.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447787160,
+        "auth_expiration_date": 1623297540,
+        "tms_id": "EP013726210013",
+        "description": "The Demons go to Earth to spread the new devil book, which has been rewritten as a teen romance.",
+        "title_suggest": {
+            "input": [
+                "New-Cronomicon"
+            ]
+        },
+        "expiration_date": 1645678740,
+        "title": "New-Cronomicon",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 685.12,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "5",
+        "original_air_date": 1439180100,
+        "clip_order": null,
+        "auth_launch_date": 1620273600,
+        "modified": 1642237239,
+        "airing_id": "RADS1001142200064122",
+        "media_id": "b3abf70645626550580666f407e97f0b24253152",
+        "id": "zI3vELSzR2u7G4Naw36Dyw",
+        "slug": "new-cronomicon",
+        "views": 1,
+        "created": 1436294218,
+        "season_number": "2",
+        "title_id": "2062773",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1642237239,
+        "first_published": 1439018420,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1642654800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/new-cronomicon/ypf_ep211_002_bvykzj67ieasdf0x_2.jpg",
+        "cma_id": "1352461"
     }
 ]
