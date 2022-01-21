@@ -144,52 +144,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1642741140,
-        "tms_id": "EP003034830012",
-        "description": "Aliens will destroy Earth if they can't see the last episode of an old TV series.",
-        "title_suggest": {
-            "input": [
-                "When Aliens Attack",
-                "Aliens Attack",
-                "Attack"
-            ]
-        },
-        "title": "When Aliens Attack",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.8338,
-        "episode_number": "3",
-        "original_air_date": 1043726400,
-        "auth_launch_date": 1642136400,
-        "clip_order": null,
-        "airing_id": "RADS1001092200060439",
-        "media_id": "70476a048397ca6d6b7c9fd17ed889a0875fb1ca",
-        "modified": 1642110558,
-        "slug": "when-aliens-attack",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/1_221131648518-Futurama_012_WhenAliensAttack.png",
-        "created": 1641767399,
-        "title_id": "437544",
-        "season_number": "2",
-        "tv_rating": "tv-14-d",
-        "published": 1642110558,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131648518-Futurama_012_WhenAliensAttack.png",
-        "id": "AX5A9nBN208s7zyYUL9i",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1643000399,
         "tms_id": "EP003034830014",
         "description": "Professor Farnsworth installs an empathy chip in Bender.",
@@ -234,6 +188,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png",
         "id": "AX5F-2CI208s7zyYUL9k",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1643345940,
+        "tms_id": "EP003034830015",
+        "description": "Court-martialed Zap Brannigan gets a job at Planet Express.",
+        "title_suggest": {
+            "input": [
+                "Brannigan, Begin Again",
+                "Begin Again",
+                "Again"
+            ]
+        },
+        "title": "Brannigan, Begin Again",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.4,
+        "episode_number": "6",
+        "original_air_date": 1043985600,
+        "auth_launch_date": 1642741200,
+        "clip_order": null,
+        "airing_id": "RADS1001142200064190",
+        "media_id": "b0c8d6b2b174d5e49e638ca9529c93a72e3c9dfa",
+        "modified": 1642716409,
+        "slug": "brannigan-begin-again",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_22120176291-Futurama_015_BranniganBeginAgain.png",
+        "created": 1642191166,
+        "title_id": "437547",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "published": 1642716409,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120176291-Futurama_015_BranniganBeginAgain.png",
+        "id": "AX5aOJsU208s7zyYUL9q",
         "auth": true
     }
 ]
