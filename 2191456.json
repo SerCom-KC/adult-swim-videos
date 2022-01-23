@@ -182,7 +182,7 @@
         "launch_date": 1639285200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191131534-BladeRunnerBlackLotus_104_TheHumanCondition.png",
         "id": "AX0qjBLeUQa40cfnRSsN",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1640494740,
@@ -318,7 +318,7 @@
         "launch_date": 1642914000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_211217145216-BladeRunnerBlackLotus_108_TheDavisReport.png",
         "id": "AX3J89LX4Xbjep71f6Ht",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1641704340,
@@ -407,6 +407,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171653263-BladeRunnerBlackLotus_109_FreeWill.png",
         "id": "AX42KfoB208s7zyYUL9d",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1644728340,
+        "tms_id": "EP040618320013",
+        "description": "Desperately lost and searching for peace, Elle hatches a radical plan to put her haunted memories to rest.",
+        "title_suggest": {
+            "input": [
+                "All the Best Memories",
+                "the Best Memories",
+                "Best Memories",
+                "Memories"
+            ]
+        },
+        "title": "All the Best Memories",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXru8vbSeTntnGIjub0w",
+        "duration": 1351.2499,
+        "episode_number": "11",
+        "original_air_date": "1642914000",
+        "auth_launch_date": 1642914000,
+        "clip_order": null,
+        "airing_id": "RADS1001202200064439",
+        "media_id": "17a6e1e15e82c04b4e580658535990981e7bc059",
+        "modified": 1642723644,
+        "slug": "all-the-best-memories",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_22120177282-BladeRunnerBlackLotus_111_AllTheBestMemories.png",
+        "created": 1642716461,
+        "season_number": "1",
+        "title_id": "2191467",
+        "tv_rating": "tv-14-v",
+        "published": 1642723644,
+        "tags": [],
+        "collection_title": "Blade Runner: Black Lotus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120177282-BladeRunnerBlackLotus_111_AllTheBestMemories.png",
+        "id": "AX55h_iA_0O4w1rD3Rbv",
         "auth": true
     },
     {
