@@ -2513,53 +2513,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1643173140,
-        "tms_id": "EP007008180131",
-        "description": "Early revisits the storage unit where he spent his childhood.",
-        "title_suggest": {
-            "input": [
-                "No Space Like Home",
-                "Space Like Home",
-                "Like Home",
-                "Home"
-            ]
-        },
-        "title": "No Space Like Home",
-        "type": "episode",
-        "expiration_date": 1641185940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 668.8015,
-        "episode_number": "3",
-        "original_air_date": 1636952400,
-        "auth_launch_date": 1641186000,
-        "clip_order": null,
-        "airing_id": "RADS1012302100057493",
-        "media_id": "84a915dd629c9b01d3435206c81e44aa89eb5bcf",
-        "modified": 1641001677,
-        "slug": "no-space-like-home",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121017137-Squidbillies_1101_NoSpaceLikeHome.png",
-        "created": 1636671024,
-        "title_id": "2323125",
-        "season_number": "13",
-        "tv_rating": "tv-14-dlv",
-        "published": 1641001677,
-        "tags": [],
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1638766800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121017137-Squidbillies_1101_NoSpaceLikeHome.png",
-        "id": "AX0RMe4EUQa40cfnRSoO",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1645592340,
         "tms_id": "EP007008180133",
         "description": "Terror strikes from the skies! Who's next? Hoo!",
@@ -2602,7 +2555,7 @@
         "launch_date": 1640581200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123954526-Squidbillies_11071108_OlHootie.png",
         "id": "AX2AytJjUQa40cfnRS16",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1641185940,
@@ -2697,6 +2650,57 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101039330-Squidbillies_1110_ThisShowWasCalledSquidbillies.png",
         "id": "AX2lABR54Xbjep71f6Hq",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447445580,
+        "auth_expiration_date": 1649217540,
+        "tms_id": "EP007008180068",
+        "rating": 7.623441,
+        "description": "Early protests the arrival of a big box store by working there.",
+        "title_suggest": {
+            "input": [
+                "Ballmart"
+            ]
+        },
+        "type": "episode",
+        "title": "Ballmart",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 667.7089241,
+        "episode_number": "7",
+        "original_air_date": 1319427900,
+        "clip_order": null,
+        "auth_launch_date": 1643173200,
+        "modified": 1642811799,
+        "media_id": "527c4f8f73a3d076e925ff8d424416be57ed5521",
+        "airing_id": "RADS1001212200064712",
+        "id": "Ca9IOiV6Q7uVi256uQKcXg",
+        "slug": "ballmart",
+        "views": 149591,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131324101-squidbillies_507_dup-20111018.jpg",
+        "created": 1402945477,
+        "title_id": "859426",
+        "season_number": "6",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1642811799,
+        "tags": [],
+        "rating_count": 401,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131324101-squidbillies_507_dup-20111018.jpg",
+        "cma_id": "1394522"
     },
     {
         "auth": true,
