@@ -2,78 +2,121 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 28, 2022 at 00:00:30 EST_
+_Last Update: January 28, 2022 at 00:30:26 EST_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 2  
-2165429 The Shivering Truth: 1  
-547867 Tom Goes To The Mayor: 1  
-691917 Xavier: Renegade Angel: 1  
-### 2132972
-**Bob's Burgers S07E01 - Sea Me Now**  
-TV-PG-L 🔒 21:44  
+581006 American Dad: 3  
+798427 Check It Out! with Dr. Steve Brule: 1  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+2132025 The Jellies: 1  
+### 822206
+**American Dad S06E03 - Best Little Horror House in Langley Falls**  
+TV-14 🔒 21:47  
 ⌛ February 3, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/sea-me-now  
-seriesid=`2003422` titleid=`2132972` id=`uigHTPzpQmefLwG4q27qRw` mediaid=`36a0ccc64d9f8f32a8f88e60d768f34b10eb5b9b`  
-_Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's chalkboard eraser from the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg" height="144px" /></a>
-### 2132991
-**Bob's Burgers S07E03 - Teen-a Witch**  
-TV-PG-L 🔒 21:47  
+https://www.adultswim.com/videos/american-dad/best-little-horror-house-in-langley-falls  
+seriesid=`581006` titleid=`822206` id=`h9iwNwUDRQ6Sa7MwiFV0eg` mediaid=`547e2e764ee5331028cbc20ff23c8d964cbf82be`  
+_After hosting the scariest haunted house in the neighborhood for years, Stan is threatened by a competitive neighbor._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002043995718.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002043995718.jpg" height="144px" /></a>
+### 748143
+**American Dad S06E02 - Son of Stan**  
+TV-14 🔒 21:47  
 ⌛ February 3, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/teen-a-witch  
-seriesid=`2003422` titleid=`2132991` id=`AWGLqx6ENWyh42wYnkw9` mediaid=`5b0d6ca24561e9c052c6c76c933c3b89d6532205`  
-_With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. But when Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg" height="144px" /></a>
-### 2172248
-**The Shivering Truth S01E02 - The Magmafying Past**  
-TV-MA-V 🔓 11:17  
+https://www.adultswim.com/videos/american-dad/son-of-stan  
+seriesid=`581006` titleid=`748143` id=`vMuDr63sSa2FG3wyg6TMJg` mediaid=`f2056eb2ad57ca7adad9be52f812a029a11a454e`  
+_After Stan creates a clone of Steve, Francine and Stan compete with each other to determine who has better parenting skills. Meanwhile, Roger tracks down the AWOL bride and groom in Thailand._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15289902715049.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15289902715049.jpg" height="144px" /></a>
+### 822207
+**American Dad S06E04 - Stan's Food Restaurant**  
+TV-14 🔒 21:48  
+⌛ February 3, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/stans-food-restaurant  
+seriesid=`581006` titleid=`822207` id=`T2nEdzPeTh-5COE75E0diw` mediaid=`6fcc0633eabcccd1b48b7d3a9f2090aac3495a22`  
+_Roger offers to help Stan live out his dream of opening a restaurant until their different visions for what the eatery should be causes havoc._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433561333518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433561333518.jpg" height="144px" /></a>
+### 798428
+**Check It Out! with Dr. Steve Brule S01E04 - Health**  
+TV-14 🔓 11:08  
 ⌛ March 3, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-shivering-truth/the-magmafying-past  
-seriesid=`2165429` titleid=`2172248` id=`AWd1MFj9qD68dq0Op5rb` mediaid=`eb252a0370efcdef9106a5c017c9d60c2148146d`  
-_The only thing hotter than the future is the present, and the only thing wetter than a present is the itchy glass of molten absolution that just quenched the thrust of Tessa's face._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441360054166.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15441360054166.jpg" height="144px" /></a>
-### 607107
-**Tom Goes To The Mayor S01E02 - Pioneer Island**  
-TV-PG 🔓 11:33  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/health  
+seriesid=`798427` titleid=`798428` id=`Xe4z3nMfRkeqYan6Ea7fvg` mediaid=`cbc423c8a5fee1af3640315940e37baf5e7d73a3`  
+_Dr. Steve learns a few beauty tips, and finds a path to inner peace._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032152090-checkitout_104_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032152090-checkitout_104_bim.jpg" height="144px" /></a>
+### 437548
+**Futurama S02E07 - A Head in the Polls**  
+TV-PG 🔒 23:21  
+⌛ February 3, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/a-head-in-the-polls  
+seriesid=`437532` titleid=`437548` id=`AX5-CoET_0O4w1rD3RdO` mediaid=`ce992f602bade56f5ea6db22c3ec7160ca77995c`  
+_Bender gets involved in a presidential election during a titanium shortage._  
+<a href="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211620284-Futurama_016_AHeadInThePolls.png"><img src="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211620284-Futurama_016_AHeadInThePolls.png" height="144px" /></a>
+### 731490
+**King of the Hill S07E23 - The Witches of East Arlen**  
+TV-PG-DL 🔒 24:08  
+⌛ February 3, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/the-witches-of-east-arlen  
+seriesid=`629835` titleid=`731490` id=`hGMlclo0SEGnTWC3QQjneQ` mediaid=`8230922e6acd662c71b26d794d74ac7baadf8748`  
+_Hank is horrified when Bobby joins a group of "witches" who want the boy to drink dog's blood during one of their ceremonies._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227749408912.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227749408912.jpg" height="144px" /></a>
+### 2132030
+**The Jellies S01E05 - The Gameshow**  
+TV-MA 🔓 10:48  
 ⌛ March 3, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/pioneer-island  
-seriesid=`547867` titleid=`607107` id=`4Y8oUeIOSya7ux4a42RlvQ` mediaid=`750238ec74b8f7f87bb8fddafe2039b7cc1e6c35`  
-_Tom and the Mayor try to celebrate a relic of Jefferton's past by rebuilding a Western-themed amusement park called Pioneer Island. Patton Oswalt guest stars as Zynx, a new threat to the Mayor's power._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834500-tgttm_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834500-tgttm_002.jpg" height="144px" /></a>
-### 693278
-**Xavier: Renegade Angel S01E02 - Chief Beef Loco**  
-TV-MA 🔓 11:32  
-⌛ March 3, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/xavier-renegade-angel/chief-beef-loco  
-seriesid=`691917` titleid=`693278` id=`sOEAUQNFS9ebxHH_EKImBg` mediaid=`a0758cd3a62cc3f689c17bf3a2b08bcf6374f91f`  
-_When a young boy's dreams of mascoting gets crushed by a local gang of gang members, Xavier takes the toughs under his wing. His good deedery results in a drug Lord's death-and per chance a lover for Xavier_  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141727525-xavier_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141727525-xavier_102.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-jellies/the-gameshow  
+seriesid=`2132025` titleid=`2132030` id=`Kzii8SYGRsW9wVvpAO2euw` mediaid=`ce452e5109ffd3c738ad59cb83d1d439b6c9f8a7`  
+_KY's body seems to be going through some womanly changes, so she goes on a dating show to deal with it._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15109495078072.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15109495078072.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-691917 Xavier: Renegade Angel: 1  
-### 2030316
-**Bob's Burgers S04E14 - Uncle Teddy**  
- 🔒 21:34  
+437532 Futurama: 1  
+581006 American Dad: 3  
+629835 King of the Hill: 1  
+798427 Check It Out! with Dr. Steve Brule: 1  
+### 437547
+**Futurama S02E06 - Brannigan, Begin Again**  
+TV-PG 🔒 23:21  
 ⌛ January 27, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/uncle-teddy  
-seriesid=`2003422` titleid=`2030316` id=`6ZcfIvgnRS62_HwcBG6rmw` mediaid=`de97cd35eb93adb8713128a87cd4b280a8668594`  
-_When Bob and Linda leave town for a romantic getaway (at a Burger Convention), they ask Teddy to babysit Tina, Gene and Louise. While the parents are away, Teddy is eager to earn the coveted title of "Uncle Teddy" and does so by putting Tina's crush in his rightful place after discovering that he was just using her for - gasp - free burgers! Hijinks ensue._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg" height="144px" /></a>
-### 2030317
-**Bob's Burgers S04E15 - The Kids Rob a Train**  
-TV-PG-DL 🔒 21:29  
+https://www.adultswim.com/videos/futurama/brannigan-begin-again  
+seriesid=`437532` titleid=`437547` id=`AX5aOJsU208s7zyYUL9q` mediaid=`b0c8d6b2b174d5e49e638ca9529c93a72e3c9dfa`  
+_Court-martialed Zap Brannigan gets a job at Planet Express._  
+<a href="https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120176291-Futurama_015_BranniganBeginAgain.png"><img src="https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120176291-Futurama_015_BranniganBeginAgain.png" height="144px" /></a>
+### 2197411
+**American Dad S15E07 - Exquisite Corpses**  
+ 🔒 21:02  
 ⌛ January 27, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-rob-a-train  
-seriesid=`2003422` titleid=`2030317` id=`xx3aqtTlTuuRU3V__UcHJA` mediaid=`ac5753e20556bd176c26fd56dad1f85d5cb194f6`  
-_The Belchers take a trip on a train, and to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a "taste-off" with a snobby couple._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg" height="144px" /></a>
-### 747212
-**Xavier: Renegade Angel S02E02 - Xavier's Maneuver**  
-TV-MA 🔒 11:26  
+https://www.adultswim.com/videos/american-dad/exquisite-corpses  
+seriesid=`581006` titleid=`2197411` id=`AXb4G8ksQJ_4Uej5kTlK` mediaid=`83c801007ef3898ce418504c1898599f811c5d21`  
+_Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results!_  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg" height="144px" /></a>
+### 2197414
+**American Dad S15E08 - Trophy Wife, Trophy Life**  
+ 🔒 21:02  
 ⌛ January 27, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/xavier-renegade-angel/xaviers-maneuver  
-seriesid=`691917` titleid=`747212` id=`Bxz_WXplRY6N1bXToRDR3A` mediaid=`80c6abae6aaa2d294ae85492a293d265322d41a3`  
-_Xavier unleashes his revolutionary lifesaving maneuver all up on those who find theyselfs in need of his protection._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730588-xavier_202.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730588-xavier_202.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/trophy-wife-trophy-life  
+seriesid=`581006` titleid=`2197414` id=`AXb4HCXgQJ_4Uej5kTlL` mediaid=`f4444aa8c9bfb8a8d5128dda59f68160e7bb47c6`  
+_After Stan is injured, Francine nurses him back to health and he becomes dependent to her. The family discovers Tuttle is a Korean reality show star._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg" height="144px" /></a>
+### 2197413
+**American Dad S15E09 - Game Night**  
+ 🔒 21:01  
+⌛ January 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/game-night  
+seriesid=`581006` titleid=`2197413` id=`AXb4HKiRbxpjZvbXYl9-` mediaid=`1b7c685342d9e3f697f60371d3cb5dbd52ef13c8`  
+_Stan drags the family to a labyrinth for family game night; Roger gets some geese._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439524-americandad_1409_air_cid-C5RRH-GameNight.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439524-americandad_1409_air_cid-C5RRH-GameNight.jpg" height="144px" /></a>
+### 731485
+**King of the Hill S07E18 - I Never Promised You An Organic Garden**  
+TV-PG-DL 🔒 24:09  
+⌛ January 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/i-never-promised-you-an-organic-garden  
+seriesid=`629835` titleid=`731485` id=`fytSw-Y0RzK0bQ_6wm6Hjg` mediaid=`0efdb4b72276ea963924bac3d520a686810c599e`  
+_Peggy resurrects the high school's organic garden, but when it is overrun with bugs, she turns to pesticides; Dale and his friends collect bat guano to use as fertilizer._  
+<a href="https://media.cdn.adultswim.com/uploads/20220118/thumbnails/2_22118135405-KingOfTheHill_718_INeverPromisedYouAnOrganicGarden_714.png"><img src="https://media.cdn.adultswim.com/uploads/20220118/thumbnails/2_22118135405-KingOfTheHill_718_INeverPromisedYouAnOrganicGarden_714.png" height="144px" /></a>
+### 2087963
+**Check It Out! with Dr. Steve Brule S04E01 - Cars**  
+TV-14-L 🔒 11:17  
+⌛ January 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/cars  
+seriesid=`798427` titleid=`2087963` id=`gcQOB5MQRGiqzITn17pFTA` mediaid=`e0af8e1f0770b2f785dec9a5a12041cf0fcb20b8`  
+_Dr. Steven Brule checks out topics about cars._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321613346-checkitout_401_dup-20160315.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321613346-checkitout_401_dup-20160315.jpg" height="144px" /></a>

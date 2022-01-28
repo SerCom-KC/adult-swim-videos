@@ -1,5 +1,53 @@
 [
     {
+        "auth_expiration_date": 1643950740,
+        "tms_id": "EP003034830017",
+        "description": "Bender gets involved in a presidential election during a titanium shortage.",
+        "title_suggest": {
+            "input": [
+                "A Head in the Polls",
+                "Head in the Polls",
+                "in the Polls",
+                "the Polls",
+                "Polls"
+            ]
+        },
+        "title": "A Head in the Polls",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.4,
+        "episode_number": "7",
+        "original_air_date": 1044244800,
+        "auth_launch_date": 1643346000,
+        "clip_order": null,
+        "airing_id": "RADS1001212200064808",
+        "media_id": "ce992f602bade56f5ea6db22c3ec7160ca77995c",
+        "modified": 1642922811,
+        "slug": "a-head-in-the-polls",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/1_221211620284-Futurama_016_AHeadInThePolls.png",
+        "created": 1642792124,
+        "title_id": "437548",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "published": 1642922811,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211620284-Futurama_016_AHeadInThePolls.png",
+        "id": "AX5-CoET_0O4w1rD3RdO",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1644123540,
         "tms_id": "EP003034830082",
         "description": "Everybody in the Universe and Yivo live together happily, except for a skeptical Leela. Bender misses the humans.",
@@ -201,52 +249,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_22113165212-Futurama_606_TheBeastWithABillionBacks_Part2.png",
         "id": "AX5VbT7F_0O4w1rD3RXN",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1643345940,
-        "tms_id": "EP003034830015",
-        "description": "Court-martialed Zap Brannigan gets a job at Planet Express.",
-        "title_suggest": {
-            "input": [
-                "Brannigan, Begin Again",
-                "Begin Again",
-                "Again"
-            ]
-        },
-        "title": "Brannigan, Begin Again",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.4,
-        "episode_number": "6",
-        "original_air_date": 1043985600,
-        "auth_launch_date": 1642741200,
-        "clip_order": null,
-        "airing_id": "RADS1001142200064190",
-        "media_id": "b0c8d6b2b174d5e49e638ca9529c93a72e3c9dfa",
-        "modified": 1642716409,
-        "slug": "brannigan-begin-again",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_22120176291-Futurama_015_BranniganBeginAgain.png",
-        "created": 1642191166,
-        "title_id": "437547",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "published": 1642716409,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120176291-Futurama_015_BranniganBeginAgain.png",
-        "id": "AX5aOJsU208s7zyYUL9q",
         "auth": true
     }
 ]
