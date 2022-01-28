@@ -1,6 +1,65 @@
 {
-    "updated": 1643410827,
+    "updated": 1643412629,
     "added": [
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1643691540,
+            "tms_id": "SH025633980000",
+            "description": "Joe Pera provides the information necessary to choose the perfect Christmas Tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine, and the Concolor Fir.",
+            "title_suggest": {
+                "input": [
+                    "Joe Pera Helps You Find The Perfect Christmas Tree",
+                    "Pera Helps You Find The Perfect Christmas Tree",
+                    "Helps You Find The Perfect Christmas Tree",
+                    "You Find The Perfect Christmas Tree",
+                    "Find The Perfect Christmas Tree",
+                    "The Perfect Christmas Tree",
+                    "Perfect Christmas Tree",
+                    "Christmas Tree",
+                    "Tree"
+                ]
+            },
+            "expiration_date": 1640667540,
+            "type": "episode",
+            "title": "Joe Pera Helps You Find The Perfect Christmas Tree",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AWK7V5RwTdxzjxdClXz8",
+            "duration": 1354.6255213,
+            "original_air_date": 1481346000,
+            "auth_launch_date": 1640667600,
+            "clip_order": null,
+            "media_id": "399d20bb261c5ee2140ba89679e89fe1589a0a8e",
+            "modified": 1643410841,
+            "airing_id": "RADS1012242100056151",
+            "slug": "joe-pera-helps-you-find-the-perfect-christmas-tree",
+            "exclude_from_search": false,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15258176632836.jpg",
+            "created": 1525817693,
+            "season_number": "99",
+            "title_id": "2106836",
+            "tv_rating": "tv-pg-d",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1643410841,
+            "tags": [],
+            "collection_title": "Joe Pera Talks With You",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1637643600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg",
+            "id": "AWNB0laKHAeP4-pUPfHY",
+            "auth": true,
+            "collection_slug": "joe-pera-talks-with-you",
+            "collection_title_id": "2161118",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth_expiration_date": 1643691540,
             "tms_id": "EP034917240089",
@@ -48,55 +107,6 @@
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1643605140,
-            "tms_id": "EP031843450020",
-            "description": "Once upon a time, Bird Town was overwhelmed by a natural disaster. While the city is under siege, Bertie helps Tuca deal with some personal ghosts and unpack a big issue in their friendship.",
-            "title_suggest": {
-                "input": [
-                    "The Flood",
-                    "Flood"
-                ]
-            },
-            "title": "The Flood",
-            "type": "episode",
-            "expiration_date": null,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AXI5AAWnRs3h4hI_X3zz",
-            "duration": 1354.8869,
-            "episode_number": "10",
-            "original_air_date": 1629084600,
-            "auth_launch_date": 1637557200,
-            "clip_order": null,
-            "airing_id": "RADS1011182100045796",
-            "media_id": "e1ae093f2afc60c89ec1855940f039e88da55ef5",
-            "modified": 1643409098,
-            "slug": "the-flood",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210813/thumbnails/1_218131148338-TucaAndBertie_210_TheFlood.png",
-            "created": 1628691796,
-            "title_id": "2266174",
-            "season_number": "2",
-            "tv_rating": "tv-14-dls",
-            "published": 1643409098,
-            "tags": [],
-            "collection_title": "Tuca & Bertie",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210813/thumbnails/2_218131148338-TucaAndBertie_210_TheFlood.png",
-            "id": "AXs1mJNBeTntnGIjub1C",
-            "auth": true,
-            "collection_slug": "tuca-bertie",
-            "collection_title_id": "2266164",
-            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
