@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 28, 2022 at 19:00:28 EST_
+_Last Update: January 29, 2022 at 00:00:31 EST_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 1  
-581268 Squidbillies: 1  
-### 2177760
-**Naruto: Shippuden S06E48 - Eyes That See in the Dark**  
-TV-PG-L 🔒 21:57  
-⌛ February 1, 2022 at 07:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/eyes-that-see-in-the-dark  
-seriesid=`812206` titleid=`2177760` id=`AXfQlno2bxpjZvbXYmYM` mediaid=`891bc900b170ad9e21e9a03bd1266fe262091c4c`  
-_Suigetsu and Jugo's search for Sasuke leads them to one of Orochimaru's old hideouts where they come across his research data, which could tip the outcome of the Fourth Great War._  
-<a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231530459-NarutoShippuden_331_EyesThatSeeInTheDark.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231530459-NarutoShippuden_331_EyesThatSeeInTheDark.jpg" height="144px" /></a>
-### 2199303
-**Squidbillies S12E03 - Muscadine Wine**  
-TV-14-DLV 🔒 22:29  
-⌛ January 31, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/muscadine-wine  
-seriesid=`581268` titleid=`2199303` id=`AWyVpoYhCorLtcgfltq_` mediaid=`3d3a95635008c960268f0a1c8a6a422fb3e3ef36`  
-_Early and Tammi start a band in a star-studded episode that got us a free cruise._  
-<a href="https://media.cdn.adultswim.com/uploads/20190815/thumbnails/2_198151032483-squidbillies_1002_dup-20190809.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190815/thumbnails/2_198151032483-squidbillies_1002_dup-20190809.jpg" height="144px" /></a>
+629835 King of the Hill: 1  
+### 731491
+**King of the Hill S08E01 - Patch Boomhauer**  
+TV-PG-D 🔒 23:53  
+⌛ February 4, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/patch-boomhauer  
+seriesid=`629835` titleid=`731491` id=`cf5pMUfgQkW8VJQWzs-u1w` mediaid=`d8ec9503c134b6300cecf17046dab975457c9db9`  
+_When Boomhauer's brother, Patch, announces he's getting married to Boomhauer's old girlfriend, Hank mistakenly comes to believe that Boomhauer is out to sabotage the wedding._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277499916620.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277499916620.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+629835 King of the Hill: 1  
+### 731486
+**King of the Hill S07E19 - Be True To Your Fool**  
+TV-PG-DL 🔒 24:09  
+⌛ January 28, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/be-true-to-your-fool  
+seriesid=`629835` titleid=`731486` id=`nDo8zFvoQVqUe7vv3oC4wQ` mediaid=`3099adf8cd809db3fbde127bb817265ad2ff9a8c`  
+_When Bill infects Hank with head lice, he's forced to shave off his hair... only to discover the name "Bill" tattooed on his scalp._  
+<a href="https://media.cdn.adultswim.com/uploads/20220118/thumbnails/2_22118134515-KingOfTheHill_719_BeTrueToYourFool_712.png"><img src="https://media.cdn.adultswim.com/uploads/20220118/thumbnails/2_22118134515-KingOfTheHill_719_BeTrueToYourFool_712.png" height="144px" /></a>
