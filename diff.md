@@ -2,92 +2,60 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 29, 2022 at 00:30:32 EST_
+_Last Update: January 30, 2022 at 00:00:27 EST_
 ## Video added
 ### Summary
-581006 American Dad: 3  
 2003422 Bob's Burgers: 2  
-### 822209
-**American Dad S06E06 - The People Vs. Martin Sugar**  
-TV-14 🔒 21:47  
-⌛ February 4, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-people-vs-martin-sugar  
-seriesid=`581006` titleid=`822209` id=`Ug7GhGosSgi2s18Wa63WwQ` mediaid=`138d29d5aa19afacba6c24428488bfc70c1da6f8`  
-_Stan serves as jury foreman for the trial of one of Roger's personae, and he is hell-bent on making sure the jury finds him guilty._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg" height="144px" /></a>
-### 822208
-**American Dad S06E18 - There Will Be Bad Blood**  
-TV-14 🔒 21:40  
-⌛ February 4, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/there-will-be-bad-blood  
-seriesid=`581006` titleid=`822208` id=`-n7pptEaSK-nCb751T7B4w` mediaid=`1901effee4b06f454a712c0f86a9fd188da9a7e2`  
-_The Smiths prepare for the arrival of Stan's half-brother's family for Thanksgiving._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg" height="144px" /></a>
-### 748128
-**American Dad S06E05 - White Rice**  
-TV-14-DLSV 🔒 21:47  
-⌛ February 4, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/white-rice  
-seriesid=`581006` titleid=`748128` id=`psIzQSnCQrG2F0J92A5A7w` mediaid=`bb15e669655dcb7211132f1fbcc737412272512f`  
-_Every year on Francine's father's birthday, Francine and Stan have an argument about moving Francine's parents to town._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_6936894913331064753.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_6936894913331064753.jpg" height="144px" /></a>
-### 2132975
-**Bob's Burgers S07E03 - Large Brother, Where Fart Thou?**  
-TV-14-L 🔒 21:45  
-⌛ February 4, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/large-brother-where-fart-thou  
-seriesid=`2003422` titleid=`2132975` id=`JN51ikJcSbymg0xNrYEi_A` mediaid=`c681a0b1721d5a8e765e5d0e42975f1ebc88a61d`  
-_When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg" height="144px" /></a>
-### 2132973
-**Bob's Burgers S07E02 - They Serve Horses, Don't They?**  
-TV-PG-L 🔒 21:44  
-⌛ February 4, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/they-serve-horses-dont-they  
-seriesid=`2003422` titleid=`2132973` id=`6wGwgTMGQG6e5VJ1b-eQdQ` mediaid=`191f7d899837e9f0fb9312a7125bd937c43e5c18`  
-_After a tip from Jimmy Pesto, Bob secures a new meat provider who claims to save clients money on every order. The Belchers quickly realize that the situation is too good to be true, as they find themselves involved in an investigation._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg" height="144px" /></a>
+629835 King of the Hill: 1  
+### 2132993
+**Bob's Burgers S07E07 - The Last Gingerbread House on the Left**  
+TV-PG-DLV 🔒 21:45  
+⌛ February 5, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-last-gingerbread-house-on-the-left  
+seriesid=`2003422` titleid=`2132993` id=`AWHTb10JNWyh42wYnlB8` mediaid=`380f7d44e405963ff275c219d717e932c0e188b3`  
+_As the Belchers prepare for Christmas, Bob gets an unexpected call from Mr. Fischoeder asking him to bring food to a party at his home. Bob delivers the food and soon becomes embroiled in an intense gingerbread house building competition._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984550603814.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984550603814.jpg" height="144px" /></a>
+### 2132992
+**Bob's Burgers S07E06 - The Quirk-Ducers**  
+TV-PG-DLV 🔒 21:40  
+⌛ February 5, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-quirk-ducers  
+seriesid=`2003422` titleid=`2132992` id=`AWG1Yym-NWyh42wYnk6f` mediaid=`c9c34718faeb1e812d3b7827ba7a72332c152649`  
+_When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg" height="144px" /></a>
+### 731492
+**King of the Hill S08E02 - Reborn to be Wild**  
+TV-PG-L 🔒 23:53  
+⌛ February 5, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/reborn-to-be-wild  
+seriesid=`629835` titleid=`731492` id=`-7idIlFHQDyPOOQ44Ib-EA` mediaid=`09251f5eae742108f9474ba43fb2085251dc03bc`  
+_Hank reacts with horror when Bobby's bible study group turns out to be populated with Christian skate punks who wear tattoos and dress like rockers; Dale and his friends form a Last Supper club._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035414465718.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035414465718.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
-581006 American Dad: 3  
-### 2030313
-**Bob's Burgers S04E16 - I Get Psy-Chic Out of You**  
- 🔓 21:31  
-⌛ January 28, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/i-get-psy-chic-out-of-you  
-seriesid=`2003422` titleid=`2030313` id=`PATNtAZjTY2f8wWbi5TMAQ` mediaid=`a8d3479b3a2e847c16a158f165eced4c49bbb0e4`  
-_After predicting that a telemarketer is calling the restaurant when the phone rings, Linda and the kids believe that she is a psychic. Needless to say, her "predictions" irk Bob and spell out hilarious happenings._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803240519211.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803240519211.jpg" height="144px" /></a>
-### 2030318
-**Bob's Burgers S04E17 - Equestranauts**  
- 🔓 21:31  
-⌛ January 28, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/equestranauts  
-seriesid=`2003422` titleid=`2030318` id=`hPy1osc9S_W4WkpbPKsFNg` mediaid=`8ed6ad78cda195fae6b0cd973c5b071f421a4815`  
-_In homage to the “Bronies” subculture, Tina attends her first Equestra-Con, a convention based on her favorite animated pony show, “The Equestranauts.” To her surprise, she finds that the show’s fans are middle-aged men (called “Equesticles”). When a powerful super-fan tricks Tina out of her rare toy pony, it’s up to Bob to go undercover to get it back._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg" height="144px" /></a>
-### 2197416
-**American Dad S15E11 - Salute Your Sllort**  
- 🔓 20:58  
-⌛ January 28, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/salute-your-sllort  
-seriesid=`581006` titleid=`2197416` id=`AXb4H0xWbxpjZvbXYl-A` mediaid=`e6ba7910fc1be590d90acf6242f372f5748e6f47`  
-_Steve's efforts to befriend a Swedish exchange student backfire in a big way; The family calls in an animal behaviorist to deal with Klaus._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg" height="144px" /></a>
-### 2197415
-**American Dad S15E10 - American Data?**  
- 🔓 21:01  
-⌛ January 28, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/american-data  
-seriesid=`581006` titleid=`2197415` id=`AXb4HP38bxpjZvbXYl9_` mediaid=`564d3eb0bee2f5a1e6038ddd8d154bfecc324668`  
-_Steve and the boys take part in a prison experiment to earn some cash. Meanwhile, Stan deals with the death of his CIA groundskeeper friend._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg" height="144px" /></a>
-### 2197417
-**American Dad S15E12 - Ghost Dad**  
- 🔓 21:02  
-⌛ January 28, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/ghost-dad  
-seriesid=`581006` titleid=`2197417` id=`AXb8Nb3EQJ_4Uej5kTlN` mediaid=`55b2fe39f886c37d340bf475dc6ec2f62c850c6a`  
-_Stan struggles to cope with the untimely death of his father. Meanwhile, a simple canoeing trip does catastrophic damage to Hayley and Jeff's relationship._  
-<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg" height="144px" /></a>
+629835 King of the Hill: 1  
+### 2030319
+**Bob's Burgers S04E18 - Ambergris**  
+ 🔒 21:09  
+⌛ January 29, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/ambergris  
+seriesid=`2003422` titleid=`2030319` id=`2_qqPjdXTcSqml5VwTJidA` mediaid=`e2184ec831627b5d12dd23768803fa7a85ca109b`  
+_Gene, Louise, and Tina discover a seaweed-covered object at the beach that turns out to be a large hunk of Ambergris - an extremely valuable, but illegal, byproduct of whale poop that is used in high-end perfumes - and Louise tries to cheat Gene and Tina out of the profit she hopes to make by selling the treasure on the black market. Meanwhile, Bob and Linda deal with their psychologically unstable landlord who is building them a new bathroom._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180324497628.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180324497628.jpg" height="144px" /></a>
+### 2030320
+**Bob's Burgers S04E19 - The Kids Run Away**  
+TV-PG-DLV 🔒 21:29  
+⌛ January 29, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-kids-run-away  
+seriesid=`2003422` titleid=`2030320` id=`HitQgvSzThuAVR_UfR4vrg` mediaid=`1e654ff19406e44ebbb2203b6987b21a2c10ae58`  
+_Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg" height="144px" /></a>
+### 731487
+**King of the Hill S07E20 - Racist Dawg**  
+TV-PG-L 🔒 24:09  
+⌛ January 29, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/racist-dawg  
+seriesid=`629835` titleid=`731487` id=`MYZ7f4dhSPiStWMyTErbaw` mediaid=`dc09b9f09342100a40a136c261818f73ef59849d`  
+_When Ladybird attacks an African-American repairman, Hank comes to believe that he is a racist._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216432331214.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216432331214.jpg" height="144px" /></a>
