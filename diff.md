@@ -2,17 +2,34 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 30, 2022 at 06:00:28 EST_
+_Last Update: January 30, 2022 at 06:30:27 EST_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2363788
-**One Piece S15E04 - Big Guns Assembled! The Danger of the Fake Straw Hats!**  
-TV-PG 🔒 22:12  
-⌛ February 20, 2022 at 05:29:00 EST  
-https://www.adultswim.com/videos/one-piece/big-guns-assembled-the-danger-of-the-fake-straw-hats  
-seriesid=`608007` titleid=`2363788` id=`AX6dRFx-208s7zyYUL9y` mediaid=`67736cc98abb2e733a5e2f7f1c618ea95e5941ae`  
-_Chopper and Usopp flip over Franky's new body, Brook must choose between rock-n-roll stardom and the life of a pirate, and Luffy wanders into a very dangerous crowd!_  
-<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271551226-OnePiece_520_BigGunsAssembledTheDangerOfTheFakeStrawHats.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271551226-OnePiece_520_BigGunsAssembledTheDangerOfTheFakeStrawHats.png" height="144px" /></a>
+812206 Naruto: Shippuden: 2  
+### 2177803
+**Naruto: Shippuden S07E25 - Team 7, Assemble!**  
+TV-PG 🔒 21:49  
+⌛ May 15, 2022 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/team-7-assemble  
+seriesid=`812206` titleid=`2177803` id=`AX6dRs1I_0O4w1rD3Rg0` mediaid=`b0119500e159c8de6a6e391dd3b762691a8d6d12`  
+_Team 7 is finally reunited when Naruto, Sakura and Sasuke join forces. Then the reanimated former Hokage arrive to add their strength to the counteroffensive._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271552397-NarutoShippuden_373_Team7Assemble.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271552397-NarutoShippuden_373_Team7Assemble.png" height="144px" /></a>
+### 2177804
+**Naruto: Shippuden S07E26 - The New Three-Way Deadlock**  
+TV-PG 🔒 21:52  
+⌛ May 15, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-new-three-way-deadlock  
+seriesid=`812206` titleid=`2177804` id=`AX6dRsP7_0O4w1rD3Rgz` mediaid=`b6275b63a68d3a90540059ec4f4dfb031da3a4ce`  
+_Sakura focuses on her healing skills while Naruto and Sasuke aim for Ten Tails. Meanwhile, the five Kage battling Madara have sustained critical injuries._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271553532-NarutoShippuden_374_TheNewThreeWayDeadlock.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271553532-NarutoShippuden_374_TheNewThreeWayDeadlock.png" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+812206 Naruto: Shippuden: 1  
+### 2177777
+**Naruto: Shippuden S06E65 - The New Akatsuki**  
+TV-PG 🔒 21:52  
+⌛ January 30, 2022 at 05:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-new-akatsuki  
+seriesid=`812206` titleid=`2177777` id=`AXpihRtUDmGy9WFjRrpk` mediaid=`d3a72e6c28a998051f4e4736c912b52b2751e664`  
+_Danzo deliberately misleads Hanzo, telling him that the Akatsuki are attempting to sabotage the peace talks between the Hidden Rain and Stone._  
+<a href="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_2171145388-NarutoShippuden_348_ANewAkatsuki.png"><img src="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_2171145388-NarutoShippuden_348_ANewAkatsuki.png" height="144px" /></a>
