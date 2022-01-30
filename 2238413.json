@@ -43,7 +43,7 @@
         "launch_date": 1643533200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161622573-AssassinationClassroom_023_201_SummerFestivalTime.png",
         "id": "AX4xRjfv_0O4w1rD3RQe",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1643534940,
@@ -224,6 +224,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131653400-AssassinationClassroom_026_204_SpinningTime.png",
         "id": "AX5UFvFN_0O4w1rD3RWz",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1645347540,
+        "tms_id": "EP021060050028",
+        "description": "After an accident, the E Class winds up doing a whole different kind of studying off campus. But will they have a chance to bone up for the midterms?",
+        "title_suggest": {
+            "input": [
+                "Before & After Time",
+                "& After Time",
+                "After Time",
+                "Time"
+            ]
+        },
+        "title": "Before & After Time",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1308.1735,
+        "episode_number": "6",
+        "original_air_date": 1643520600,
+        "auth_launch_date": 1643533200,
+        "clip_order": null,
+        "airing_id": "RADS1001272200067137",
+        "media_id": "d487cb2feabe39a9d08a50ca5c80ed19647e1239",
+        "modified": 1643497381,
+        "slug": "before-after-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_221271547473-AssassinationClassroom_028_BeforeAndAfterTime.png",
+        "created": 1643315577,
+        "title_id": "2333972",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "published": 1643497381,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271547473-AssassinationClassroom_028_BeforeAndAfterTime.png",
+        "id": "AX6dPcO6_0O4w1rD3Rgv",
         "auth": true
     }
 ]
