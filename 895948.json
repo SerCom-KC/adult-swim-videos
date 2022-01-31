@@ -55,59 +55,6 @@
         "cma_id": "1394051"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1474293600,
-        "auth_expiration_date": 1643605140,
-        "tms_id": "EP015632430037",
-        "description": "Interviews with Warren G and Kelly Osbourne; Special finale guest Jim Norton. Special appearance by Tony Hawk.",
-        "title_suggest": {
-            "input": [
-                "Warren G; Kelly Osbourne",
-                "G; Kelly Osbourne",
-                "Kelly Osbourne",
-                "Osbourne"
-            ]
-        },
-        "title": "Warren G; Kelly Osbourne",
-        "type": "episode",
-        "expiration_date": 1640581140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 648.9009009,
-        "episode_number": "6",
-        "original_air_date": 1474084800,
-        "clip_order": null,
-        "auth_launch_date": 1640581200,
-        "modified": 1640159496,
-        "media_id": "d1a94b146c70aeb26e1076e2912d098c8fc35ab1",
-        "airing_id": "RADS1012212100055696",
-        "id": "9o9ivuSSSEilvQX2-ptu0Q",
-        "slug": "warren-g-kelly-osbourne",
-        "views": 80974,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341620296-ericandre_406_dup-20160801.jpg",
-        "created": 1473750617,
-        "title_id": "2088422",
-        "tv_rating": "tv-ma-lsv",
-        "season_number": "4",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1640159496,
-        "first_published": 1473750618,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1637557200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341620296-ericandre_406_dup-20160801.jpg",
-        "cma_id": "1385495"
-    },
-    {
         "ott_launch_date": 1519140660,
         "auth": false,
         "auth_expiration_date": 1573621140,
@@ -714,7 +661,7 @@
         "launch_date": 1640581200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg",
         "id": "AXSYwnpvLyLQBOXK_PN8",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1629691140,
@@ -806,6 +753,51 @@
         "launch_date": 1643000400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719538-ericandre_507_dup-20200911.jpg",
         "id": "AXSYxcBTLyLQBOXK_PN_",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1630900740,
+        "tms_id": "",
+        "description": "Blannibal has had enough of the show and quits, too. Eric gets into a dangerous situation with an organized crime associate. Eric and co-host Lakeith Stanfield welcome Tiffany Pollard and Naya Rivera with musical guest Big Freedia.",
+        "title_suggest": {
+            "input": [
+                "Blannibal Quits",
+                "Quits"
+            ]
+        },
+        "title": "Blannibal Quits",
+        "expiration_date": 1646629140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 684.9176,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1627876800,
+        "clip_order": null,
+        "airing_id": "RADS1001272200067502",
+        "media_id": "00bbbafd3e8d7f44bde4314b6fa823c99773a16b",
+        "modified": 1643405399,
+        "slug": "blannibal-quits",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161719212-ericandre_505_dup-20200824.jpg",
+        "created": 1600290968,
+        "season_number": "5",
+        "title_id": "2230785",
+        "tv_rating": "tv-ma-ls",
+        "published": 1643405399,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1643605200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719212-ericandre_505_dup-20200824.jpg",
+        "id": "AXSYxlIJLyLQBOXK_POA",
         "auth": false
     },
     {
