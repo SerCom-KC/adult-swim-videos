@@ -149,55 +149,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1541431740,
-        "auth": true,
-        "auth_expiration_date": 1643605140,
-        "tms_id": "",
-        "description": "Roberts' old roommate, Bill Ruff, pays a visit to Dream Corp LLC under the guise of selling bad office artwork. Everyone in the staff is charmed except for 88 who makes it his mission to expose Bill's real intentions.",
-        "title_suggest": {
-            "input": [
-                "Wild Bill",
-                "Bill"
-            ]
-        },
-        "expiration_date": 1640581140,
-        "type": "episode",
-        "title": "Wild Bill",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 722.8,
-        "episode_number": "6",
-        "original_air_date": 1541394900,
-        "auth_launch_date": 1640581200,
-        "clip_order": null,
-        "media_id": "fce5d29975e084228ae88991d9e54a831495035e",
-        "modified": 1640159491,
-        "airing_id": "RADS1012212100055690",
-        "id": "AWLVTk9gTdxzjxdCldXh",
-        "slug": "wild-bill",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg",
-        "created": 1523997101,
-        "season_number": "2",
-        "title_id": "2133690",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1640159491,
-        "tags": [],
-        "collection_title": "Dream Corp LLC",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1637557200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341037439-dreamcorpllc_206_air_cid-3MRXT.jpg"
-    },
-    {
         "ott_launch_date": 1542036540,
         "auth_expiration_date": 1644209940,
         "tms_id": "",
@@ -343,7 +294,7 @@
         "launch_date": 1640581200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341420127-dreamcorpllc_211_air_cid-3P4V7.jpg",
         "id": "AWWG0Q2Oh5enQuYyHyR0",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1543246140,
@@ -1193,6 +1144,51 @@
         "launch_date": 1643000400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_20917151874-DreamCorpLLC_301.jpg",
         "id": "AXSdgLQgSeFB2d0c388P",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1633319940,
+        "tms_id": "",
+        "description": "Patient 84 visits Dream Corp LLC for hiccups and will never be the same again.",
+        "title_suggest": {
+            "input": [
+                "Monkey Man",
+                "Man"
+            ]
+        },
+        "title": "Monkey Man",
+        "expiration_date": 1646629140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 840.7733,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1630296000,
+        "clip_order": null,
+        "airing_id": "RADS1001272200067223",
+        "media_id": "d64e02cf2569a1264511c33c13001663ca44ad19",
+        "modified": 1643399063,
+        "slug": "monkey-man",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/1_209171518328-DreamCorpLLC_302.jpg",
+        "created": 1600370317,
+        "season_number": "3",
+        "title_id": "2215440",
+        "tv_rating": "tv-14-lsv",
+        "published": 1643399063,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1643605200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171518328-DreamCorpLLC_302.jpg",
+        "id": "AXSdgRioLyLQBOXK_POD",
         "auth": false
     }
 ]
