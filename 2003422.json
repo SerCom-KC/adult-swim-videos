@@ -150,56 +150,6 @@
         "cma_id": "1495809"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1643691540,
-        "tms_id": "EP012792980028",
-        "description": "Motivated by the promise of a new beachside burger joint, Bob conspires with Felix to convince Mr. Fischoeder to sell Wonder Wharf. Meanwhile, Tina protests the destruction of the wharf's carousel by chaining herself to it.",
-        "title_suggest": {
-            "input": [
-                "Wharf Horse",
-                "Horse"
-            ]
-        },
-        "title": "Wharf Horse",
-        "type": "episode",
-        "expiration_date": 1639976340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1287.0858,
-        "episode_number": "21",
-        "original_air_date": 1422241200,
-        "clip_order": null,
-        "auth_launch_date": 1643086800,
-        "modified": 1642807213,
-        "media_id": "faf0940a5beb8ed8cd9d36a37b722c552d8671a4",
-        "airing_id": "RADS1001212200064622",
-        "id": "88Z8t86DQx2V4A-u_ykrRA",
-        "slug": "wharf-horse",
-        "views": 6783,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870795147218.jpg",
-        "created": 1411571458,
-        "season_number": "4",
-        "title_id": "2030322",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1642807213,
-        "first_published": 1411571458,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1639371600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870795147218.jpg",
-        "cma_id": "1483351"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1643864340,
@@ -538,6 +488,53 @@
         "launch_date": 1618804800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg",
         "cma_id": "2132975"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1644296340,
+        "tms_id": "EP012792980119",
+        "description": "With Valentine's Day approaching, Tina, Gene and Louise each find themselves wrapped up in love-caused chaos. Meanwhile, Bob decides on a romantic gesture in order to impress Linda.",
+        "title_suggest": {
+            "input": [
+                "Bob Actually",
+                "Actually"
+            ]
+        },
+        "title": "Bob Actually",
+        "type": "episode",
+        "expiration_date": 1620619140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1302.17,
+        "episode_number": "5",
+        "original_air_date": 1509933600,
+        "clip_order": null,
+        "auth_launch_date": 1643691600,
+        "modified": 1643410839,
+        "media_id": "02f2bc7d7a7775a9d9c127202186f14a3faa9e6e",
+        "airing_id": "RADS1001282200067567",
+        "id": "VmnWvv2pTD2WBaYwR3ARdA",
+        "slug": "bob-actually",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108568328929.jpg",
+        "created": 1505843758,
+        "season_number": "7",
+        "title_id": "2132983",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1643410839,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1620014400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg",
+        "cma_id": "2132983"
     },
     {
         "auth": true,
