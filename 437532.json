@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1643950740,
-        "tms_id": "EP003034830017",
-        "description": "Bender gets involved in a presidential election during a titanium shortage.",
-        "title_suggest": {
-            "input": [
-                "A Head in the Polls",
-                "Head in the Polls",
-                "in the Polls",
-                "the Polls",
-                "Polls"
-            ]
-        },
-        "title": "A Head in the Polls",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.4,
-        "episode_number": "7",
-        "original_air_date": 1044244800,
-        "auth_launch_date": 1643346000,
-        "clip_order": null,
-        "airing_id": "RADS1001212200064808",
-        "media_id": "ce992f602bade56f5ea6db22c3ec7160ca77995c",
-        "modified": 1642922811,
-        "slug": "a-head-in-the-polls",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/1_221211620284-Futurama_016_AHeadInThePolls.png",
-        "created": 1642792124,
-        "title_id": "437548",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "published": 1642922811,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211620284-Futurama_016_AHeadInThePolls.png",
-        "id": "AX5-CoET_0O4w1rD3RdO",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1644123540,
         "tms_id": "EP003034830082",
         "description": "Everybody in the Universe and Yivo live together happily, except for a skeptical Leela. Bender misses the humans.",
@@ -147,6 +99,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211618157-Futurama_607_TheBeastWithABillionBacks_Part3.png",
         "id": "AX59ZhRp_0O4w1rD3RcO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1644555540,
+        "tms_id": "EP003034830016",
+        "description": "Santa in 3000 is a giant robot which spreads terror on Christmas Eve.",
+        "title_suggest": {
+            "input": [
+                "Xmas Story",
+                "Story"
+            ]
+        },
+        "title": "Xmas Story",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.0673,
+        "episode_number": "8",
+        "original_air_date": 1044331200,
+        "auth_launch_date": 1643950800,
+        "clip_order": null,
+        "airing_id": "RADS1002012200068688",
+        "media_id": "0d99218aaee531788d5115807572f61466114cc5",
+        "modified": 1643926767,
+        "slug": "xmas-story",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/1_2223171991-Futurama_017_XmasStory.png",
+        "created": 1643729663,
+        "title_id": "437549",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "published": 1643926767,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223171991-Futurama_017_XmasStory.png",
+        "id": "AX617DZ7_0O4w1rD3Rk_",
         "auth": true
     },
     {
