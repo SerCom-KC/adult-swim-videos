@@ -2,114 +2,93 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 5, 2022 at 03:30:28 EST_
+_Last Update: February 5, 2022 at 04:00:26 EST_
 ## Video added
 ### Summary
-2143080 Black Clover: 18  
-### 2238508
-**Black Clover S03E37 - A Favor for Julius**  
-TV-PG 🔒 22:19  
+2143080 Black Clover: 9  
+### 2192591
+**Black Clover S02E16 - A Fun Festival Double Date**  
+TV-PG-V 🔒 21:32  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/a-favor-for-julius  
-seriesid=`2143080` titleid=`2238508` id=`AXc_VV0JQJ_4Uej5kToT` mediaid=`9ec96e7d8d76e1ccec6c0e186ae79cc57335007e`  
-_Julius enlists the aid of an expert in dark magic items and sends two Magic Knight captains to investigate reports of bandits near a distant village._  
-<a href="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261034478-BlackClover_140_FavorForJulius.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261034478-BlackClover_140_FavorForJulius.jpg" height="144px" /></a>
-### 2230145
-**Black Clover S03E29 - A New Resolve**  
-TV-PG 🔒 22:19  
+https://www.adultswim.com/videos/black-clover/a-fun-festival-double-date  
+seriesid=`2143080` titleid=`2192591` id=`AWpWX8EgHl5gR6828zVp` mediaid=`c6636f67eb2e59a9dc886e5ede3c6dd62656d4b0`  
+_Time for a festival—the Star Festival that is! The Magic Knights all gather to celebrate the stars each squad has earned. But when Asta invites Kahono and Kiato, he and Noelle end up on a double date with them!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622724962711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622724962711.jpg" height="144px" /></a>
+### 2196274
+**Black Clover S02E26 - Bad Blood**  
+TV-PG-L 🔒 22:10  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/a-new-resolve  
-seriesid=`2143080` titleid=`2230145` id=`AXR0s9bgSeFB2d0c3810` mediaid=`85d4e5c8a5a88b4736cb2908513a04f52f4249bc`  
-_Asta, Yuno, Noelle, and Secre are dispatched to Hage Village, where Sister Lily presses the quartet into service at the village's newest institution._  
-<a href="https://media.cdn.adultswim.com/uploads/20200910/thumbnails/2_209101035400-BlackClover_131.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200910/thumbnails/2_209101035400-BlackClover_131.jpg" height="144px" /></a>
-### 2238505
-**Black Clover S03E35 - Charmy's Century of Hunger, Gordon's Millennium of Loneliness**  
-TV-PG 🔒 22:18  
+https://www.adultswim.com/videos/black-clover/bad-blood  
+seriesid=`2143080` titleid=`2196274` id=`AWu0Kmfm4aLemgzOLFAN` mediaid=`59acd8dfe70b2de018fe50599c4461a24d376e74`  
+_The battles continue to heat up as Luck and Klaus prove that hard work pays off!  But in the final round of the first half, Yuno and Noelle will face Solid Silva—Noelle's brother!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15628605198976.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15628605198976.jpg" height="144px" /></a>
+### 2189780
+**Black Clover S02E11 - Bettering One Another**  
+TV-PG-LV 🔒 21:41  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/charmys-century-of-hunger-gordons-millennium-of-loneliness  
-seriesid=`2143080` titleid=`2238505` id=`AXc_UzTnQJ_4Uej5kToQ` mediaid=`c975e93165ff21972f3c1dfb511ce51355098840`  
-_Charmy apprentices with the royal chef in the hopes of upping her food game, while Gordon goes out in search of regained strength through solitude._  
-<a href="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261032210-BlackClover_137_ChammyCenturyOfHunger.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261032210-BlackClover_137_ChammyCenturyOfHunger.jpg" height="144px" /></a>
-### 2200935
-**Black Clover S02E31 - Clover Clips: The Nightmarish Charmy Special!**  
-TV-14 🔒 22:16  
+https://www.adultswim.com/videos/black-clover/bettering-one-another  
+seriesid=`2143080` titleid=`2189780` id=`AWl4s1sRAScUIg8Xxd_w` mediaid=`fbbd677be07af127b7d8e84ac041f94c1406f36e`  
+_Fana reveals that there's a magic stone in the Witches' Forest but before Asta and his friends find it, Ladros reappears! When the Diamond Mage consumes Salamander's power, Asta may not stand a chance._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155317942658517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155317942658517.jpg" height="144px" /></a>
+### 2188255
+**Black Clover S02E06 - Infiltration**  
+TV-PG 🔒 21:30  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/clover-clips-the-nightmarish-charmy-special  
-seriesid=`2143080` titleid=`2200935` id=`AWxtZlNm4aLemgzOLGIc` mediaid=`961a94982a2886f1ecf75fe44166f20663ffcd27`  
-_While things are heating up in the tournament, Charmy is having her own dangerous encounter! Well, in her dreams at least. Get ready for an episode filled with charm…y, la!_  
-<a href="https://media.cdn.adultswim.com/uploads/20190809/thumbnails/2_1989119358-blackclover_082_dup-20190802.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190809/thumbnails/2_1989119358-blackclover_082_dup-20190802.jpg" height="144px" /></a>
-### 2230141
-**Black Clover S03E25 - Clues**  
-TV-PG 🔒 22:29  
+https://www.adultswim.com/videos/black-clover/infiltration  
+seriesid=`2143080` titleid=`2188255` id=`AWib2L9KHl5gR6828yLR` mediaid=`6e0d98f71b1ccd9acfd6ad92ac3dd78732a54adc`  
+_Asta is swept up by Noelle, Finral, Zell, and Domina and suddenly taken to the Witches' Forest! When they manage to sneak in, they discover Vanessa at the feet of the Queen who claims they will all fall._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501611973433.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501611973433.jpg" height="144px" /></a>
+### 2196257
+**Black Clover S02E25 - Mage X**  
+TV-PG 🔒 21:26  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/clues  
-seriesid=`2143080` titleid=`2230141` id=`AXOhiEE7SeFB2d0c38R9` mediaid=`65624647d796b2a586d2869ea9af21a1ad3159db`  
-_A contingent of Black Bulls seeks info from Gordon's family of Curse Magic experts, while Noelle digs deeper into what really killed her mother Acier._  
-<a href="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg" height="144px" /></a>
-### 2205116
-**Black Clover S02E39 - Crazy Magic Battle**  
-TV-14 🔒 21:33  
+https://www.adultswim.com/videos/black-clover/mage-x  
+seriesid=`2143080` titleid=`2196257` id=`AWufnOyNCorLtcgflrkr` mediaid=`a71f0b396f2898a876630542bc2dfeb761906ab5`  
+_Rill surprises everyone by entering the competition! Are the knights ready to face a Magic Knight captain? Or will Rill make everyone question a captain's capabilities? Meanwhile, Luck and Klaus get ready to start their first match._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15617509791383.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15617509791383.jpg" height="144px" /></a>
+### 2183376
+**Black Clover S02E03 - Never Again**  
+TV-PG 🔒 21:13  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/crazy-magic-battle  
-seriesid=`2143080` titleid=`2205116` id=`AW28AeydadNs2hMNfuSe` mediaid=`a8775f59383257ff6b8ff61da4144f4be985da99`  
-_The Black Bulls learn why their home base keeps changing shape; that same power is put to the test against members of the Eye of the Midnight Sun._  
-<a href="https://media.cdn.adultswim.com/uploads/20191012/thumbnails/2_1910121130330-blackclover_090.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191012/thumbnails/2_1910121130330-blackclover_090.jpg" height="144px" /></a>
-### 2222863
-**Black Clover S03E18 - Dawn**  
-TV-PG-V 🔒 22:51  
+https://www.adultswim.com/videos/black-clover/never-again  
+seriesid=`2143080` titleid=`2183376` id=`AWe-IPX9AScUIg8XxbYG` mediaid=`7c32d97f03932595a9529507e71daaaa6648c61b`  
+_Asta meets Owen, a recovery mage, and is ready to finally heal his arms. But he learns something that could change his life forever! Unwilling to accept this fate, the Black Bulls decide to work together to help their friend._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843568288310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843568288310.jpg" height="144px" /></a>
+### 2193627
+**Black Clover S02E18 - The Briar Maiden's Melancholy**  
+TV-14-DLSV 🔒 21:37  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/dawn  
-seriesid=`2143080` titleid=`2222863` id=`AXJ7ZCj_C8QgH-t19Jdx` mediaid=`0f8ed4332eb97c7bda095e00abe22c9f14cc49c9`  
-_The fight is not yet over: the kingdom is still rife with elves bent on revenge. Patry looks within for a solution--then it's time to bid farewell._  
-<a href="https://media.cdn.adultswim.com/uploads/20200603/thumbnails/2_20631414169-BlackClover_120.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200603/thumbnails/2_20631414169-BlackClover_120.jpg" height="144px" /></a>
-### 2188295
-**Black Clover S02E08 - Flames of Hatred**  
-TV-PG-V 🔒 21:37  
+https://www.adultswim.com/videos/black-clover/the-briar-maidens-melancholy  
+seriesid=`2143080` titleid=`2193627` id=`AWqX3a2_4aLemgzOLEdv` mediaid=`6f4bf3c44c28989a57ad68e1e5184cf62c78950e`  
+_The Captain of the Blue Rose Knights is ready to show her thorns when she starts attracting the wrong kind of attention at the festival._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155751085789516.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155751085789516.jpg" height="144px" /></a>
+### 2159485
+**Black Clover S02E01 - Whoever's Strongest Wins**  
+TV-PG-V 🔒 21:36  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/flames-of-hatred  
-seriesid=`2143080` titleid=`2188295` id=`AWkmK34-Hl5gR6828yix` mediaid=`00d67e2e2f337431946215aa48902aa3b1b127d1`  
-_The battle heats up as Asta and the Black Bulls face the furious flamed-up Fana! But when her fire gets too hot and starts affecting Vanessa and Finral's magic, it's up to Noelle to use her water magic to cool things off!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15514648249541.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15514648249541.jpg" height="144px" /></a>
-### 2227110
-**Black Clover S03E21 - Nero Reminisces... Part One**  
-TV-PG 🔒 22:18  
+https://www.adultswim.com/videos/black-clover/whoevers-strongest-wins  
+seriesid=`2143080` titleid=`2159485` id=`AWe-IeUszQU7gEG1jvWJ` mediaid=`052c9936679951de6db7ce194d8309035ea8dad0`  
+_Up against three of the Eight Shining Generals, Yuno and the Golden Dawn prove the Clover Kingdom will not go down easily! But nothing compares to the magic used by the captain of the Golden Dawn, William Vangeance!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154722433742815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154722433742815.jpg" height="144px" /></a>
+### 2200939
+**Black Clover S02E35 - Yami and Vangeance**  
+TV-14 🔒 21:35  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/nero-reminisces-part-one  
-seriesid=`2143080` titleid=`2227110` id=`AXLDhqKCC8QgH-t19Jr6` mediaid=`8434d7301b7dfec9aef8482974b51887e0ebc5c6`  
-_Secre reminisces about the first Wizard King, his friendship with the elf Licht, the devil's machinations, and how it all came to a heartbreaking end._  
-<a href="https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_206171424355-BlackClover_123.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_206171424355-BlackClover_123.jpg" height="144px" /></a>
-### 2238513
-**Black Clover S03E43 - Rescue**  
-TV-PG 🔒 22:04  
+https://www.adultswim.com/videos/black-clover/yami-and-vangeance  
+seriesid=`2143080` titleid=`2200939` id=`AW0DL3nm4aLemgzOLGXx` mediaid=`d9ebe16dc57a039d72b57fd0fc78346fdb1a41a3`  
+_Yami reflects on the time he spent working alongside William Vangeance, captain of the Golden Dawn, and the secret mission they were given. Can the two strong-willed mages work together to make the Wizard King proud?_  
+<a href="https://media.cdn.adultswim.com/uploads/20190906/thumbnails/2_19961046285-blackclover_086.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190906/thumbnails/2_19961046285-blackclover_086.jpg" height="144px" /></a>
+## Video removed
+### Summary
+2143080 Black Clover: 7  
+### 2196275
+**Black Clover S02E27 - Peasant Trap**  
+TV-PG-L 🔒 21:23  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/rescue  
-seriesid=`2143080` titleid=`2238513` id=`AXfe1fxubxpjZvbXYmYd` mediaid=`f3286172b22d894026426831085c9aeaa5aca916`  
-_Marie and Secre face execution in the public square for their purported dealings with the devil. The Magic Knights spring into action to rescue them._  
-<a href="https://media.cdn.adultswim.com/uploads/20210226/thumbnails/2_21226954596-BlackClover_145_Rescue.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210226/thumbnails/2_21226954596-BlackClover_145_Rescue.jpg" height="144px" /></a>
-### 2230143
-**Black Clover S03E27 - The Devil Megicula**  
-TV-PG 🔒 22:19  
-⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-devil-megicula  
-seriesid=`2143080` titleid=`2230143` id=`AXQrylExLyLQBOXK_PMO` mediaid=`1510ce2849a194fafe988829be300facd308b506`  
-_The devil Megicula is in the Spade Kingdom! Princess Lolopechka of the Heart Kingdom reveals what it will take to defeat him and lays out a deadline._  
-<a href="https://media.cdn.adultswim.com/uploads/20200827/thumbnails/2_208271229528-BlackClover_129.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200827/thumbnails/2_208271229528-BlackClover_129.jpg" height="144px" /></a>
-### 2222862
-**Black Clover S03E17 - The Final Attack**  
-TV-PG-V 🔒 22:18  
-⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-final-attack  
-seriesid=`2143080` titleid=`2222862` id=`AXJcJqNcC8QgH-t19JZh` mediaid=`3c5b33debaefea3b0a331d5ab5c1fa865ee689c6`  
-_Foes turned allies, knights, captains, and rivals alike push past their limits, finding new abilities as the epic devil battle reaches a fever pitch._  
-<a href="https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281236172-BlackClover_119.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200528/thumbnails/2_205281236172-BlackClover_119.jpg" height="144px" /></a>
-### 2238509
-**Black Clover S03E39 - The Golden Family**  
-TV-PG 🔒 22:58  
-⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-golden-family  
-seriesid=`2143080` titleid=`2238509` id=`AXgdZtVRBH5Z6gH5aV7H` mediaid=`dfc2ea3de8e8ce3e42dfc47dffe0c6d2ce0c5e42`  
-_The Golden Dawn is dispatched to Saussy to defeat a bevy of beastly boars, then it's off to the Kiten region to defend a dungeon beset by bandits._  
-<a href="https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101329386-BlackClover_141_GoldenFamily.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210310/thumbnails/2_213101329386-BlackClover_141_GoldenFamily.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/black-clover/peasant-trap  
+seriesid=`2143080` titleid=`2196275` id=`AWvjuRHxCorLtcgflsBg` mediaid=`f2ba59dcf17ec0eade80e9459fd8907aa978dccc`  
+_It's time for round two—Asta's team versus Magna, Sol, and Kirsch! When Kirsch goes big right off the bat, it's time for Asta to show how hard he's been working to master his own abilities. But can he get Xerx to finally work with the team?_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15629586862521.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15629586862521.jpg" height="144px" /></a>
 ### 2200934
 **Black Clover S02E30 - The Life of a Certain Man**  
 TV-14 🔒 21:39  
@@ -118,6 +97,14 @@ https://www.adultswim.com/videos/black-clover/the-life-of-a-certain-man
 seriesid=`2143080` titleid=`2200934` id=`AWxOW-pk4aLemgzOLGHS` mediaid=`8865d1cfc0ef4d422c636ee8ef974a05f28881b8`  
 _When the Black Bulls step in to stop Langris from dealing a final blow to Finral, the Wizard King demands the fight between Asta and Langris happen in the semi-finals! It's Team B versus Team G to see who is superior, and who will survive!_  
 <a href="https://media.cdn.adultswim.com/uploads/20190802/thumbnails/2_1982114685-blackclover_081_dup-20190723.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190802/thumbnails/2_1982114685-blackclover_081_dup-20190723.jpg" height="144px" /></a>
+### 2230144
+**Black Clover S03E28 - The New Magic Knight Squad Captains' Meeting**  
+TV-PG-L 🔒 22:19  
+⌛ February 7, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/the-new-magic-knight-squad-captains-meeting  
+seriesid=`2143080` titleid=`2230144` id=`AXRZcJJESeFB2d0c38wn` mediaid=`3fba5f1bc4a3524ea29dafb825aaf48bdbf6ff06`  
+_The Wizard King summons the Magic Knight captains to brief them on the alliance with the Heart Kingdom against Megicula and to plan their next steps._  
+<a href="https://media.cdn.adultswim.com/uploads/20200904/thumbnails/2_2094106212-BlackClover_130.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200904/thumbnails/2_2094106212-BlackClover_130.jpg" height="144px" /></a>
 ### 2238503
 **Black Clover S03E33 - The One Who Has My Heart, My Mind, and Soul**  
 TV-PG 🔒 22:18  
@@ -126,14 +113,22 @@ https://www.adultswim.com/videos/black-clover/the-one-who-has-my-heart-my-mind-a
 seriesid=`2143080` titleid=`2238503` id=`AXUPVM7kLyLQBOXK_PPc` mediaid=`ffc65164ec22e8da96903ec92bc67619811d5772`  
 _Finral asks Asta to help him break his own curse: his flirty nature. Blue Rose Knights and Black Bulls come together for a meeting--or is it a mixer?_  
 <a href="https://media.cdn.adultswim.com/uploads/20201009/thumbnails/2_201091746546-BlackClover_135.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201009/thumbnails/2_201091746546-BlackClover_135.jpg" height="144px" /></a>
-### 2238511
-**Black Clover S03E41 - The Tilted Scale**  
-TV-PG-L 🔒 21:20  
+### 2238505
+**Black Clover S03E35 - Charmy's Century of Hunger, Gordon's Millennium of Loneliness**  
+TV-PG 🔒 22:18  
 ⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-tilted-scale  
-seriesid=`2143080` titleid=`2238511` id=`AXdjlXTqQJ_4Uej5kTpl` mediaid=`2ff2ce87f4a1a8ca0a41b4a5222d6f93c4602a47`  
-_Asta is in a deep sleep as a contingent of Black Bulls searches for the kidnapped Marie and Secre. Julius offers both a promising lead and a warning._  
-<a href="https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130556-BlackClover_143_dup-20210122_TiltedScale.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130556-BlackClover_143_dup-20210122_TiltedScale.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/black-clover/charmys-century-of-hunger-gordons-millennium-of-loneliness  
+seriesid=`2143080` titleid=`2238505` id=`AXc_UzTnQJ_4Uej5kToQ` mediaid=`c975e93165ff21972f3c1dfb511ce51355098840`  
+_Charmy apprentices with the royal chef in the hopes of upping her food game, while Gordon goes out in search of regained strength through solitude._  
+<a href="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261032210-BlackClover_137_ChammyCenturyOfHunger.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261032210-BlackClover_137_ChammyCenturyOfHunger.jpg" height="144px" /></a>
+### 2238508
+**Black Clover S03E37 - A Favor for Julius**  
+TV-PG 🔒 22:19  
+⌛ February 7, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/a-favor-for-julius  
+seriesid=`2143080` titleid=`2238508` id=`AXc_VV0JQJ_4Uej5kToT` mediaid=`9ec96e7d8d76e1ccec6c0e186ae79cc57335007e`  
+_Julius enlists the aid of an expert in dark magic items and sends two Magic Knight captains to investigate reports of bandits near a distant village._  
+<a href="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261034478-BlackClover_140_FavorForJulius.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210126/thumbnails/2_211261034478-BlackClover_140_FavorForJulius.jpg" height="144px" /></a>
 ### 2238510
 **Black Clover S03E40 - Those Remaining**  
 TV-PG 🔒 21:52  
@@ -142,30 +137,3 @@ https://www.adultswim.com/videos/black-clover/those-remaining
 seriesid=`2143080` titleid=`2238510` id=`AXdjlOgHQJ_4Uej5kTpk` mediaid=`c8e467f782f4a45ffbc96c2d0b7e2121ea21e9a8`  
 _A group of masked vigilantes calling themselves the Devil Vanishers is ambushing and abducting those they believe to be in service to the devil._  
 <a href="https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130349-BlackClover_142_dup-20210122_ThoseRemaining.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130349-BlackClover_142_dup-20210122_ThoseRemaining.jpg" height="144px" /></a>
-### 2238514
-**Black Clover S03E44 - Those Who Worship the Devil**  
-TV-PG 🔒 22:04  
-⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/those-who-worship-the-devil  
-seriesid=`2143080` titleid=`2238514` id=`AXiI4Fk1BH5Z6gH5aWHV` mediaid=`e398774dced9c7b3a9fafb818448a3c7d457c989`  
-_Asta and friends search for Secre, abducted by a group of magic-poor people who believe the power of the devil can change their lives for the better._  
-<a href="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311121444-BlackClover_146_ThoseWhoWorshipTheDevil.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311121444-BlackClover_146_ThoseWhoWorshipTheDevil.jpg" height="144px" /></a>
-## Video removed
-### Summary
-2143080 Black Clover: 2  
-### 2196968
-**Black Clover S02E28 - Mister Delinquent vs. Muscle Brains**  
-TV-14-D 🔒 21:17  
-⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/mister-delinquent-vs-muscle-brains  
-seriesid=`2143080` titleid=`2196968` id=`AWwF7GMACorLtcgflsZS` mediaid=`68309cb3ac3fd5618c05ad3da3572ea7d742e041`  
-_After taking care of Kirsch, it's time for Asta and Magna to face off! Magna is ready to show he's been getting stronger and surprises Asta with a brand-new technique. Can Team B protect the crystal or is this their final match?_  
-<a href="https://media.cdn.adultswim.com/uploads/20190719/thumbnails/2_197191142583-blackclover_079_air_cid-3XV8R.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190719/thumbnails/2_197191142583-blackclover_079_air_cid-3XV8R.jpg" height="144px" /></a>
-### 2230147
-**Black Clover S03E31 - The Lion Awakens, Continued**  
- 🔒 21:33  
-⌛ February 7, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-lion-awakens-continued  
-seriesid=`2143080` titleid=`2230147` id=`AXR0s0VlSeFB2d0c381y` mediaid=`674055e299b040aa98c298aa5fd1687957aa815e`  
-_The trainees split into teams hoping to find a certain magic item in the Yultim dungeon--if the gigantic spider lurking there doesn’t find them first._  
-<a href="https://media.cdn.adultswim.com/uploads/20200924/thumbnails/2_20924121820-BlackClover_133.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200924/thumbnails/2_20924121820-BlackClover_133.jpg" height="144px" /></a>
