@@ -1,56 +1,5 @@
 [
     {
-        "auth_expiration_date": 1644123540,
-        "tms_id": "EP003034830082",
-        "description": "Everybody in the Universe and Yivo live together happily, except for a skeptical Leela. Bender misses the humans.",
-        "title_suggest": {
-            "input": [
-                "The Beast with a Billion Backs Part 4",
-                "Beast with a Billion Backs Part 4",
-                "with a Billion Backs Part 4",
-                "a Billion Backs Part 4",
-                "Billion Backs Part 4",
-                "Backs Part 4",
-                "Part 4",
-                "4"
-            ]
-        },
-        "title": "The Beast with a Billion Backs Part 4",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1508,
-        "episode_number": "8",
-        "original_air_date": 1642991400,
-        "auth_launch_date": 1643000400,
-        "clip_order": null,
-        "airing_id": "RADS1001212200064539",
-        "media_id": "c472387fab23dc170abca24ce3abfc0e4032c396",
-        "modified": 1643899564,
-        "slug": "the-beast-with-a-billion-backs-part-4",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/1_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png",
-        "created": 1642781336,
-        "title_id": "2161611",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1643899564,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png",
-        "id": "AX59ZeM3_0O4w1rD3RcL",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1644641940,
         "tms_id": "EP003034830018",
         "description": "Zoidberg returns to his home planet for mating season.",
@@ -144,6 +93,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223171991-Futurama_017_XmasStory.png",
         "id": "AX617DZ7_0O4w1rD3Rk_",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1644728340,
+        "tms_id": "EP003034830019",
+        "description": "Fry gets the unexpected when he and Amy spend St. Valentine's Day together.",
+        "title_suggest": {
+            "input": [
+                "Put Your Head on My Shoulder",
+                "Your Head on My Shoulder",
+                "Head on My Shoulder",
+                "on My Shoulder",
+                "My Shoulder",
+                "Shoulder"
+            ]
+        },
+        "title": "Put Your Head on My Shoulder",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1400.8995,
+        "episode_number": "10",
+        "original_air_date": 1044590400,
+        "auth_launch_date": 1644123600,
+        "clip_order": null,
+        "airing_id": "RADS1002012200068716",
+        "media_id": "dbc8ba63b36341a86c814c7a60afec5c810b73c9",
+        "modified": 1644004583,
+        "slug": "put-your-head-on-my-shoulder",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/1_2224145640-Futurama_019_PutYourHeadOnMyShoulder.png",
+        "created": 1643730795,
+        "title_id": "437551",
+        "season_number": "2",
+        "tv_rating": "tv-pg-dl",
+        "published": 1644004583,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_2224145640-Futurama_019_PutYourHeadOnMyShoulder.png",
+        "id": "AX61_XzD208s7zyYUL95",
         "auth": true
     },
     {
