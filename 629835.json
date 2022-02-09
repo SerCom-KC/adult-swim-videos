@@ -124,64 +124,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1644382740,
-        "tms_id": "EP002070020158",
-        "rating": 8.902176,
-        "description": "When a faded Dallas Cowboys' football player moves into the neighborhood, Hank and his friends are elated-until he begins acting like a bully.",
-        "title_suggest": {
-            "input": [
-                "New Cowboy on the Block",
-                "Cowboy on the Block",
-                "on the Block",
-                "the Block",
-                "Block"
-            ]
-        },
-        "type": "episode",
-        "title": "New Cowboy on the Block",
-        "expiration_date": 1508470199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1449.5481,
-        "episode_number": "3",
-        "original_air_date": 1234841400,
-        "clip_order": null,
-        "auth_launch_date": 1643778000,
-        "modified": 1643418198,
-        "media_id": "3ad073c42b4c65faeae2ee0f484c7a713849c966",
-        "airing_id": "RADS1001282200067686",
-        "id": "UjL4K5GXTi-FQDxyH1EWKA",
-        "slug": "new-cowboy-on-the-block",
-        "views": 325742,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152035412130413.jpg",
-        "created": 1402945468,
-        "title_id": "731493",
-        "season_number": "8",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1643418198,
-        "tags": [
-            "new cowboy on the block",
-            "dallas cowboys",
-            "football player",
-            "hank",
-            "bully"
-        ],
-        "rating_count": 368,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1507865400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035412130413.jpg",
-        "cma_id": "1493850"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1644641940,
         "tms_id": "EP002070020162",
         "rating": 7.737777,
@@ -231,6 +173,59 @@
         "launch_date": 1508072400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203540065139.jpg",
         "cma_id": "1495437"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1644987540,
+        "tms_id": "EP002070020163",
+        "rating": 8.410359,
+        "description": "When Bobby mistakenly believes that his parents are rich, he steals Hank's credit card and goes on a shopping spree.",
+        "title_suggest": {
+            "input": [
+                "Rich Hank, Poor Hank",
+                "Hank, Poor Hank",
+                "Poor Hank",
+                "Hank"
+            ]
+        },
+        "type": "episode",
+        "title": "Rich Hank, Poor Hank",
+        "expiration_date": 1508729399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1448.4803,
+        "episode_number": "8",
+        "original_air_date": 1235107800,
+        "clip_order": null,
+        "auth_launch_date": 1644382800,
+        "modified": 1644109348,
+        "media_id": "9b83f483facf2418a8ef56c5ef381a51d3b0e8bb",
+        "airing_id": "RADS1002052200069868",
+        "id": "kmiC44lgQH2og9XHoIDWiw",
+        "slug": "rich-hank-poor-hank",
+        "views": 331228,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203539686515.jpg",
+        "created": 1402945468,
+        "title_id": "731498",
+        "season_number": "8",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1644109348,
+        "tags": [
+            "king of the hill koth episode 721 rich hank poor hank bobby steal credit card money"
+        ],
+        "rating_count": 502,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1508124600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203539686515.jpg",
+        "cma_id": "1495724"
     },
     {
         "auth": true,
