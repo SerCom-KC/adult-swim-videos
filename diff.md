@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 11, 2022 at 20:00:24 EST_
+_Last Update: February 11, 2022 at 22:30:27 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2213494 JJ Villard's Fairy Tales: 1  
-### 2213495
-**JJ Villard's Fairy Tales S01E02 - The Goldilox Massacre**  
-TV-MA-LV 🔓 11:14  
+608360 Robot Chicken: 1  
+### 2213487
+**Robot Chicken S10E15 - Buster Olive in: The Monkey Got Closer Overnight**  
+TV-14-DLSV 🔒 11:13  
 ⌛ February 13, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/jj-villards-fairy-tales/the-goldilox-massacre  
-seriesid=`2213494` titleid=`2213495` id=`AXHqe7_cRs3h4hI_X3ZY` mediaid=`c066df6b548bf49bef5411b86cd53fa465b7fe83`  
-_Little girl breaks into a house illegally so the owners of the house try to kill her._  
-<a href="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056105564-JJVFT_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056105564-JJVFT_001.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/robot-chicken/buster-olive-in-the-monkey-got-closer-overnight  
+seriesid=`608360` titleid=`2213487` id=`AXMQJj1aC8QgH-t19J1X` mediaid=`f1800521e94af222bc111868fef05d997fa441e0`  
+_Tyrion Lannister learns the true meaning of "winter is coming." Blade tries to slice his way into infomercials. Inside Out Boy goes to college. The Robot Chicken writers show what happens when Halloween meets Home Alone._  
+<a href="https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
