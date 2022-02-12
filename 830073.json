@@ -1938,7 +1938,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1474291740,
         "auth_expiration_date": 1644987540,
         "tms_id": "EP014135410025",
@@ -1950,7 +1950,7 @@
         },
         "title": "Clowns",
         "type": "episode",
-        "expiration_date": 2085368400,
+        "expiration_date": 1646197140,
         "platforms": [
             "web",
             "mobile",
@@ -1962,7 +1962,7 @@
         "original_air_date": 1474358400,
         "clip_order": null,
         "auth_launch_date": 1644382800,
-        "modified": 1644653183,
+        "modified": 1644654495,
         "airing_id": "RADS1002052200069862",
         "media_id": "463390717ce33cb3cc80787e8d09ea2527616eb9",
         "id": "tMBXNyA6Qr2Emrk9hb7FxQ",
@@ -1977,13 +1977,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1644653183,
+        "published": 1644654495,
         "first_published": 1474292285,
         "tags": [],
         "collection_title": "Off The Air",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1542949200,
+        "launch_date": 1644987600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341352-offtheair_602_dup-20160915.jpg",
         "cma_id": ""
     },
