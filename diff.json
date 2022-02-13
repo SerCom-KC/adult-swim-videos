@@ -1,17 +1,22 @@
 {
-    "updated": 1644746599,
-    "added": [
+    "updated": 1644748400,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1646560740,
-            "tms_id": "EP035786410006",
-            "description": "Riko and Reg descend into the Forest of Temptation. What new dangers will they find lying in wait for them there?",
+            "auth_expiration_date": 1644748140,
+            "tms_id": "EP032284200162",
+            "description": "Asta and friends must stop one of their own who's running amok in the Heart Kingdom. A man from the Spade Kingdom arrives in Hage looking for Yuno.",
             "title_suggest": {
                 "input": [
-                    "Incinerator"
+                    "Quiet Lakes and Forest Shadows",
+                    "Lakes and Forest Shadows",
+                    "and Forest Shadows",
+                    "Forest Shadows",
+                    "Shadows"
                 ]
             },
-            "title": "Incinerator",
-            "expiration_date": null,
+            "title": "Quiet Lakes and Forest Shadows",
+            "expiration_date": 1629624540,
             "type": "episode",
             "platforms": [
                 "android",
@@ -19,35 +24,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AX3EZ9dFUQa40cfnRS9e",
-            "duration": 1336.5018,
+            "collection_id": "AV-7K77EZ-onAnjDLtBM",
+            "duration": 1298.4638,
             "episode_number": "5",
-            "original_air_date": "1644733800",
-            "auth_launch_date": 1644746400,
+            "original_air_date": "1626588000",
+            "auth_launch_date": 1629624600,
             "clip_order": null,
-            "airing_id": "RADS1002112200071056",
-            "media_id": "331a09996da4b721ed144249d58ac28c07941ef3",
-            "modified": 1644607201,
-            "slug": "incinerator",
+            "airing_id": "RADS1008162100022370",
+            "media_id": "968d105205cd857140f7d2bc2368327a7baa7102",
+            "modified": 1644603642,
+            "slug": "quiet-lakes-and-forest-shadows",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/1_22281331211-MadeInAbyss_005_Incinerator.png",
-            "created": 1644345090,
-            "season_number": "1",
-            "title_id": "2356958",
-            "tv_rating": "tv-ma",
-            "published": 1644607201,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/1_217161025388-BlackClover_159_QuietLakesAndForestShadows.png",
+            "created": 1626445550,
+            "season_number": "4",
+            "title_id": "2277534",
+            "tv_rating": "tv-pg",
+            "published": 1644603642,
             "tags": [],
-            "collection_title": "Made In Abyss",
+            "collection_title": "Black Clover",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281331211-MadeInAbyss_005_Incinerator.png",
-            "id": "AX7amuD__0O4w1rD3Ro3",
+            "launch_date": 1628415000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161025388-BlackClover_159_QuietLakesAndForestShadows.png",
+            "id": "AXqvtZKsBH5Z6gH5aWYB",
             "auth": true,
-            "collection_slug": "made-in-abyss",
-            "collection_title_id": "2356951",
+            "collection_slug": "black-clover",
+            "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
