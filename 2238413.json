@@ -224,7 +224,7 @@
         "launch_date": 1644139800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131653400-AssassinationClassroom_026_204_SpinningTime.png",
         "id": "AX5UFvFN_0O4w1rD3RWz",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1645347540,
@@ -318,6 +318,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_222315294-AssassinationClassroom_29_ReaperTime_Part1.png",
         "id": "AX7BLlgX_0O4w1rD3RmC",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1646558940,
+        "tms_id": "EP035989030030",
+        "description": "When Koro Sensei and Mr. Karasuma reach the Reaper's hideout, it's anyone's guess who'll come out on top--especially with wild-card Irina in the mix.",
+        "title_suggest": {
+            "input": [
+                "Reaper Time, Part 2",
+                "Time, Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "title": "Reaper Time, Part 2",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1313.3454,
+        "episode_number": "8",
+        "original_air_date": "1644732000",
+        "auth_launch_date": 1644744600,
+        "clip_order": null,
+        "airing_id": "RADS1002112200071052",
+        "media_id": "98bcb9a5a3e97205be678751fc148f27ca2e82d0",
+        "modified": 1644616434,
+        "slug": "reaper-time-part-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/1_22281330410-AssassinationClassroom_030_ReaperTime_Part2.png",
+        "created": 1644345052,
+        "season_number": "2",
+        "title_id": "2333974",
+        "tv_rating": "tv-14-lv",
+        "published": 1644616434,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281330410-AssassinationClassroom_030_ReaperTime_Part2.png",
+        "id": "AX7amk56_0O4w1rD3Ro2",
         "auth": true
     }
 ]
