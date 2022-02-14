@@ -1,14 +1,9 @@
 {
-    "updated": 1644854248,
-    "added": [],
-    "removed": [
+    "updated": 1644855199,
+    "added": [
         {
             "auth_expiration_date": 1645419540,
-            "created": 1644619000,
             "tms_id": "EP003034830084",
-            "title_id": "2161617",
-            "season_number": "6",
-            "tv_rating": "tv-14-v",
             "description": "Leela joins the eco-feminists to stop Leo Wong from building a galactic mini-golf course and Fry learns more about his newfound ability.",
             "title_suggest": {
                 "input": [
@@ -21,26 +16,44 @@
                     "2"
                 ]
             },
-            "published": 1644852340,
             "title": "Into the Wild Green Yonder Part 2",
             "type": "episode",
-            "tags": [],
+            "expiration_date": null,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
             "collection_id": "AX3EZD2dUQa40cfnRS9d",
             "duration": 1352.084,
             "episode_number": "14",
-            "collection_title": "Futurama",
             "original_air_date": 1644805800,
             "auth_launch_date": 1644814800,
-            "modified_by": "ODT Listener",
+            "clip_order": null,
             "airing_id": "RADS1002142200071506",
             "media_id": "e8bf69e69011e57c20be15108b3afc811e2b0ea3",
-            "modified": 1644852340,
+            "modified": 1644855057,
             "slug": "into-the-wild-green-yonder-part-2",
+            "exclude_from_search": false,
+            "thumbnail": "",
+            "created": 1644619000,
+            "title_id": "2161617",
+            "season_number": "6",
+            "tv_rating": "tv-14-v",
+            "published": 1644855057,
+            "tags": [],
+            "collection_title": "Futurama",
+            "disable_ads": false,
+            "modified_by": "Jonathan Jackson",
+            "launch_date": null,
+            "poster": "",
             "id": "AX7q7mwc_0O4w1rD3RpY",
             "auth": true,
             "collection_slug": "futurama",
             "collection_title_id": "437532",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
