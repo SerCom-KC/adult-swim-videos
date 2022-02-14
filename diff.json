@@ -1,7 +1,6 @@
 {
-    "updated": 1644849501,
-    "added": [],
-    "removed": [
+    "updated": 1644850999,
+    "added": [
         {
             "auth_expiration_date": 1645419540,
             "created": 1644619000,
@@ -21,7 +20,7 @@
                     "2"
                 ]
             },
-            "published": 1644848944,
+            "published": 1644850776,
             "title": "Into the Wild Green Yonder Part 2",
             "type": "episode",
             "tags": [],
@@ -34,7 +33,7 @@
             "modified_by": "ODT Listener",
             "airing_id": "RADS1002142200071506",
             "media_id": "e8bf69e69011e57c20be15108b3afc811e2b0ea3",
-            "modified": 1644848944,
+            "modified": 1644850776,
             "slug": "into-the-wild-green-yonder-part-2",
             "id": "AX7q7mwc_0O4w1rD3RpY",
             "auth": true,
@@ -42,5 +41,6 @@
             "collection_title_id": "437532",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
