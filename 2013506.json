@@ -6429,7 +6429,7 @@
         "launch_date": 1644469200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730119216-RickAndMorty_504_GotronJerrysisRickvangelion.png",
         "id": "AXr39rJfeTntnGIjub01",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6526,7 +6526,7 @@
         "launch_date": 1644469200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
         "id": "AXrT5mYgeTntnGIjub0s",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6675,7 +6675,7 @@
         "launch_date": 1644469200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210806/thumbnails/2_2186105552-RickAndMorty_508_RickternalFriendshineOfTheSpotlessMort.png",
         "id": "AXsbnTrbeTntnGIjub07",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6731,6 +6731,52 @@
     },
     {
         "auth_expiration_date": 1645678740,
+        "tms_id": "EP018336730060",
+        "description": "Two Crows, broh. These guys are mad smart.",
+        "title_suggest": {
+            "input": [
+                "Forgetting Sarick Mortshall",
+                "Sarick Mortshall",
+                "Mortshall"
+            ]
+        },
+        "title": "Forgetting Sarick Mortshall",
+        "expiration_date": 1645072468,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1386.5185,
+        "episode_number": "9",
+        "original_air_date": "1630897200",
+        "auth_launch_date": 1645074000,
+        "clip_order": null,
+        "airing_id": "RADS1002172200072016",
+        "media_id": "680b40ba0c9c3542abf5e0dd60cf70e007cefd0f",
+        "modified": 1645072480,
+        "slug": "forgetting-sarick-mortshall",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png",
+        "created": 1630609892,
+        "season_number": "5",
+        "title_id": "2270466",
+        "tv_rating": "tv-14-dlv",
+        "published": 1645072480,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1644469200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png",
+        "id": "AXun7GUP4Xbjep71f6Gt",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1645678740,
         "tms_id": "EP018336730061",
         "description": "Tryin something new broh. Doin it big.",
         "title_suggest": {
@@ -6772,7 +6818,7 @@
         "launch_date": 1644469200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png",
         "id": "AXun7SS-4Xbjep71f6Gu",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
