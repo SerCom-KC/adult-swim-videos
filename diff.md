@@ -2,16 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 19, 2022 at 12:30:29 EST_
+_Last Update: February 19, 2022 at 18:30:25 EST_
 ## Video added
-### Summary
-608360 Robot Chicken: 1  
-### 
-**Robot Chicken S12E05 - Alabama Jackson Crashes The Salem Witch Trials**  
-TV-MA-L 🔓 00:00  
-https://www.adultswim.com/videos/robot-chicken/alabama-jackson-crashes-the-salem-witch-trials  
-seriesid=`608360` titleid=`` id=`AX75q0fj208s7zyYUMFM` mediaid=`me0820fd9eb66a699c076617044f4919a1892c0ae5`  
-_Alabama tries to heroically save historic Black witch, Tituba, from burning at the stake, but Alabama ends up being the one who needs saving._  
-<a href="https://media.cdn.adultswim.com/uploads/20220215/thumbnails/2_222151441313-AlabamaJackson_AJ006.png"><img src="https://media.cdn.adultswim.com/uploads/20220215/thumbnails/2_222151441313-AlabamaJackson_AJ006.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2224721 Smiling Friends: 1  
+### 2322677
+**Smiling Friends S01E02 - Mr. Frog**  
+TV-14-LSV 🔒 11:06  
+⌛ February 20, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/smiling-friends/mr-frog  
+seriesid=`2224721` titleid=`2322677` id=`AX4xSwxM_0O4w1rD3RQh` mediaid=`b50161af369d7cf2810188249a3fbe0e4103f59a`  
+_After beloved frog celebrity Mr. Frog gets into hot frog water, Pim and Charlie are tasked with helping the frog get things back on frog track. Meanwhile, Glep has a crazy side adventure that has the critics going wild._  
+<a href="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161628168-SmilingFriends_102_MrFrog.png"><img src="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161628168-SmilingFriends_102_MrFrog.png" height="144px" /></a>
