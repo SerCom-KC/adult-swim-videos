@@ -1,7 +1,6 @@
 {
-    "updated": 1645312159,
-    "added": [],
-    "removed": [
+    "updated": 1645313562,
+    "added": [
         {
             "auth_expiration_date": 1645419540,
             "tms_id": "EP034814950002",
@@ -29,7 +28,7 @@
             "clip_order": null,
             "airing_id": "RADS1001302200068117",
             "media_id": "b50161af369d7cf2810188249a3fbe0e4103f59a",
-            "modified": 1643971862,
+            "modified": 1645313409,
             "slug": "mr-frog",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161628168-SmilingFriends_102_MrFrog.png",
@@ -37,7 +36,7 @@
             "season_number": "1",
             "title_id": "2322677",
             "tv_rating": "tv-14-lsv",
-            "published": 1643971862,
+            "published": 1645313409,
             "tags": [],
             "collection_title": "Smiling Friends",
             "disable_ads": false,
@@ -49,6 +48,58 @@
             "collection_slug": "smiling-friends",
             "collection_title_id": "2224721",
             "online_exclusives": false
+        },
+        {
+            "auth_expiration_date": 1645419540,
+            "tms_id": "EP036780850004",
+            "description": "Towa decides to return to the feudal era to help Setsuna regain her memories. The trio enter the corridor leading to the feudal era, but within it awaits the spirit of a certain priestess.",
+            "title_suggest": {
+                "input": [
+                    "The Gateway to the Past",
+                    "Gateway to the Past",
+                    "to the Past",
+                    "the Past",
+                    "Past"
+                ]
+            },
+            "title": "The Gateway to the Past",
+            "type": "episode",
+            "expiration_date": 1646629140,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AXpED60VBH5Z6gH5aWXi",
+            "duration": 1345.8445,
+            "episode_number": "4",
+            "original_air_date": 1626584400,
+            "auth_launch_date": 1643518800,
+            "clip_order": null,
+            "airing_id": "RADS1002182200072130",
+            "media_id": "f31376818d6049e59f01ae2dfe8354406200c93f",
+            "modified": 1645313414,
+            "slug": "the-gateway-to-the-past",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/1_217161023368-YashahimePrincessHalfDemon_104_TheGatewayToThePast.png",
+            "created": 1626114252,
+            "title_id": "2268284",
+            "season_number": "1",
+            "tv_rating": "tv-14",
+            "published": 1645313414,
+            "tags": [],
+            "collection_title": "Yashahime: Princess Half-Demon",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1645419600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161023368-YashahimePrincessHalfDemon_104_TheGatewayToThePast.png",
+            "id": "AXqb9l9fBH5Z6gH5aWX3",
+            "auth": true,
+            "collection_slug": "yashahime-princess-half-demon",
+            "collection_title_id": "2268280",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
