@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 22, 2022 at 06:30:29 EST_
+_Last Update: February 22, 2022 at 10:00:27 EST_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177791
-**Naruto: Shippuden S07E14 - Kakashi's Resolve**  
-TV-PG-V 🔒 21:47  
-⌛ February 27, 2022 at 05:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/kakashis-resolve  
-seriesid=`812206` titleid=`2177791` id=`AX0MAMMt4Xbjep71f6Hc` mediaid=`92960dba19a69e30c802253d3a34120eadc9d375`  
-_Kakashi desperately tries to reach out to Obito, but his words fall on deaf ears._  
-<a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121014598-NarutoShippuden_362_KakashisResolve.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121014598-NarutoShippuden_362_KakashisResolve.png" height="144px" /></a>
+608360 Robot Chicken: 1  
+### 2017362
+**Robot Chicken S05E21 - Robot Chicken: DC Comics Special**  
+TV-14-DLSV 🔒 22:55  
+⌛ June 4, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/robot-chicken-dc-comics-special  
+seriesid=`608360` titleid=`2017362` id=`-m2_pqxgRmeANHu37hFOKw` mediaid=`72330d5bc4bd6a598a7f0373771f37c6600120f9`  
+_The Robot Chicken Nerd, the Humping Robot, Composite Santa, and the Mad Scientist join characters of the DC Comics universe to poke fun at those with the most impressive powers and the lesser ones who can't really be called superheroes._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461137100-robotchicken_dcspecial_dup-20120907.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461137100-robotchicken_dcspecial_dup-20120907.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
