@@ -507,6 +507,52 @@
         "cma_id": "1384952"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447787400,
+        "auth_expiration_date": 1626321540,
+        "tms_id": "EP013726210019",
+        "description": "A drug epidemic in Hell creates an opportunity.",
+        "title_suggest": {
+            "input": [
+                "Spunk"
+            ]
+        },
+        "expiration_date": 1648699140,
+        "title": "Spunk",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 683.33,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "10",
+        "original_air_date": 1443413700,
+        "clip_order": null,
+        "auth_launch_date": 1623297600,
+        "modified": 1645451668,
+        "airing_id": "RADS1002182200072295",
+        "media_id": "0cee79380dfa526c766402d99281937d93970686",
+        "id": "Ikrgw040RvOJIh_xaTKAtA",
+        "slug": "spunk",
+        "views": 1,
+        "created": 1436294518,
+        "season_number": "2",
+        "title_id": "2062772",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1645451668,
+        "first_published": 1443259220,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1645678800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/spunk/ypf_ep210_001_ljha65798380babi87g0as.jpg",
+        "cma_id": "1371751"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447787040,
         "auth_expiration_date": 1646888340,
@@ -703,61 +749,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447786860,
-        "auth_expiration_date": 1645678740,
-        "tms_id": "EP013726210007",
-        "rating": 6.0833335,
-        "description": "The Devil has his demons compete for a drink of ice water. Cold, refreshing, hilarity ensues.",
-        "title_suggest": {
-            "input": [
-                "People in Hell Want Ice Water",
-                "in Hell Want Ice Water",
-                "Hell Want Ice Water",
-                "Want Ice Water",
-                "Ice Water",
-                "Water"
-            ]
-        },
-        "type": "episode",
-        "title": "People in Hell Want Ice Water",
-        "expiration_date": 1642654740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 699.81,
-        "episode_number": "6",
-        "original_air_date": 1369368000,
-        "clip_order": null,
-        "auth_launch_date": 1642654800,
-        "modified": 1642235436,
-        "airing_id": "RADS1012132100052829",
-        "media_id": " me832e2db1e950daa2ebdb97be8eb4960a6e51436e",
-        "id": "ZkpAcrrbRniAqbhXm_nVuA",
-        "slug": "people-in-hell-want-ice-water",
-        "views": 31272,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1402945482,
-        "title_id": "2001911",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1642235436,
-        "tags": [],
-        "rating_count": 156,
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1639630800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ypf_cc_106_pt1_CC_4nRxM-09.jpg",
-        "cma_id": "1279310"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447787100,
         "auth_expiration_date": 1648094340,
         "tms_id": "EP013726210012",
@@ -909,7 +900,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787160,
         "auth_expiration_date": 1648699140,
         "tms_id": "EP013726210013",
