@@ -312,7 +312,7 @@
         "launch_date": 1645959600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223155263-OnePiece_522_EveryoneTogetherLuffySettingOutForTheNewWorld.png",
         "id": "AX7BMUil_0O4w1rD3RmE",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1646562540,
@@ -572,6 +572,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231429396-OnePiece_527_LandingAtTheFishManIslandBeautifulMermaids.png",
         "id": "AX8jXeJv_0O4w1rD3Ruf",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1647770340,
+        "tms_id": "EP035179090012",
+        "description": "When Sanji gets up close and personal with a mesmerizing mermaid, his extreme fondness for the female form lands him in a life and death situation. Could the Straw Hat chef die from a nosebleed?!",
+        "title_suggest": {
+            "input": [
+                "Excitement Blow-out! Sanji's Life Under Threat!",
+                "Blow-out! Sanji's Life Under Threat!",
+                "Sanji's Life Under Threat!",
+                "Life Under Threat!",
+                "Under Threat!",
+                "Threat!"
+            ]
+        },
+        "title": "Excitement Blow-out! Sanji's Life Under Threat!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.331,
+        "episode_number": "12",
+        "original_air_date": 1645947000,
+        "auth_launch_date": 1645959600,
+        "clip_order": null,
+        "airing_id": "RADS1002222200073474",
+        "media_id": "738272f5686a983e051c98d4816233be1a7b1404",
+        "modified": 1645647017,
+        "slug": "excitement-blow-out-sanjis-life-under-threat",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_222231430284-OnePiece_528_ExcitementBlowOutSanjisLifeUnderThreat.png",
+        "created": 1645565838,
+        "title_id": "2363796",
+        "season_number": "15",
+        "tv_rating": "tv-pg-d",
+        "published": 1645647017,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231430284-OnePiece_528_ExcitementBlowOutSanjisLifeUnderThreat.png",
+        "id": "AX8jXgPE208s7zyYUMK4",
         "auth": true
     }
 ]
