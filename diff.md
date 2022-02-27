@@ -2,76 +2,96 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 27, 2022 at 00:00:31 EST_
+_Last Update: February 27, 2022 at 00:30:30 EST_
 ## Video added
 ### Summary
-581006 American Dad: 3  
-629835 King of the Hill: 1  
-### 2046304
-**American Dad S11E20 - Gift Me Liberty**  
-TV-14-DL 🔒 21:13  
+2143080 Black Clover: 1  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+2194549 Gemusetto: 1  
+2357025 Shenmue: the Animation: 1  
+2268280 Yashahime: Princess Half-Demon: 1  
+### 2277534
+**Black Clover S04E05 - Quiet Lakes and Forest Shadows**  
+TV-PG 🔓 21:38  
+⌛ March 12, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/quiet-lakes-and-forest-shadows  
+seriesid=`2143080` titleid=`2277534` id=`AXqvtZKsBH5Z6gH5aWYB` mediaid=`968d105205cd857140f7d2bc2368327a7baa7102`  
+_Asta and friends must stop one of their own who's running amok in the Heart Kingdom. A man from the Spade Kingdom arrives in Hage looking for Yuno._  
+<a href="https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161025388-BlackClover_159_QuietLakesAndForestShadows.png"><img src="https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161025388-BlackClover_159_QuietLakesAndForestShadows.png" height="144px" /></a>
+### 2003425
+**Bob's Burgers S01E03 - Sacred Cow**  
+TV-14 🔒 21:36  
 ⌛ March 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/gift-me-liberty  
-seriesid=`581006` titleid=`2046304` id=`Kdd_ZRQXR3WvddNQ21__zw` mediaid=`5b4404e86eee6ae2c1852778d57e6621b396cca8`  
-_When Bullock is upset that somebody did not bring a gift to the CIA Secret Santa party, Stan goes on a mission to find out who it was. Meanwhile, Steve poses as the good guy boyfriend of several female classmates._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg" height="144px" /></a>
-### 2046305
-**American Dad S11E21 - Next of Pin**  
-TV-14-DLV 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/sacred-cow  
+seriesid=`2003422` titleid=`2003425` id=`xJmLhV5aQoOv_wp8zd_p-g` mediaid=`f89db78e609e6ac2b3578dcc90af991e20df44a1`  
+_When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob ends up treating the cow like a member of the family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg" height="144px" /></a>
+### 2003426
+**Bob's Burgers S01E04 - Sexy Dance Fighting**  
+TV-PG-L 🔒 21:35  
 ⌛ March 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/next-of-pin  
-seriesid=`581006` titleid=`2046305` id=`I9VQ9k0USiyIjfD7utk1nQ` mediaid=`314ad468345f50edf2576ff1df0b39e680ed373f`  
-_Stan and Steve start bowling together to have more quality time and Steve gets discovered for his bowling talent. Klaus holds a contest to test whether Roger or Hayley have the worse attention span._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002062164210.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002062164210.jpg" height="144px" /></a>
-### 2046306
-**American Dad S11E22 - Standard Deviation**  
-TV-14-DLV 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/sexy-dance-fighting  
+seriesid=`2003422` titleid=`2003426` id=`wN7dmv1cQrqDFRE4XCHxhw` mediaid=`b8c95a111d57ed23f37a5f9fecab0a27d5398d18`  
+_When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg" height="144px" /></a>
+### 437690
+**Futurama S02E19 - Mother's Day**  
+TV-14-DLS 🔒 23:32  
 ⌛ March 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/standard-deviation  
-seriesid=`581006` titleid=`2046306` id=`auZtRXZYRliIhZg-c2XmGA` mediaid=`dddb15543c01e998371fafc7adbbd456f3ae4c4a`  
-_In order to avoid being sent on a suicide mission, Stan learns how to become a DJ to beat Bullock in a DJ Battle. Jeff takes up drinking psychedelic teas and Roger helps him build an imaginary musical instrument._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg" height="144px" /></a>
-### 731512
-**King of the Hill S08E22 - Talking Shop**  
-TV-PG-DL 🔒 23:53  
-⌛ March 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/talking-shop  
-seriesid=`629835` titleid=`731512` id=`p-OmSz1OQWyr4qz9J1lCfQ` mediaid=`bfaf85eae3bbaaca33bbfd3fd96d7fddfd8a8685`  
-_When Bobby ignores Hank's advice and signs up for peer counseling instead of shop class, he ends up dating one of his clients... while another client starts stalking him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400130751220.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400130751220.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/futurama/mothers-day  
+seriesid=`437532` titleid=`437690` id=`AX8IgkOQ_0O4w1rD3RsV` mediaid=`f694627f2b7eb09176cebb6ad00f19877b55ee65`  
+_Mom wants world domination for a Mother's Day gift._  
+<a href="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223942230-Futurama_028_MothersDay.png"><img src="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223942230-Futurama_028_MothersDay.png" height="144px" /></a>
+### 2241826
+**Gemusetto S02E01 - Episode One: Asus4**  
+TV-MA-L 🔓 11:16  
+⌛ April 2, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-one-asus-4  
+seriesid=`2194549` titleid=`2241826` id=`AXWVgWJXLyLQBOXK_PZv` mediaid=`21579c77412528bbcd6809817e674b5ecef85563`  
+_All-sinner and sportsman Makasu has recently died, but his death is causing the afterlives to converge and the universe is collapsing! Can the finger being Dr. Legs convince Makasu to be friend his Piano Frog and save existence?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_20116222172-GSMP_201_102120-20201023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_20116222172-GSMP_201_102120-20201023.jpg" height="144px" /></a>
+### 2357029
+**Shenmue: the Animation S01E04 - Shackles**  
+TV-14-LV 🔒 23:44  
+⌛ March 19, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/shenmue-the-animation/shackles  
+seriesid=`2357025` titleid=`2357029` id=`AX8oDHWm_0O4w1rD3Ruy` mediaid=`507341c5683d5c532dd9603d3a7e9881fa18452c`  
+_To chase Lan Di, Ryo decides to go to Hong Kong, but realizes he does not have enough money to go. With Goro's assistance Ryo gets a part-time job, which he soon learns is in Mad Angel's territory._  
+<a href="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223142693-ShenmueTheAnimation_004_Shackles.png"><img src="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223142693-ShenmueTheAnimation_004_Shackles.png" height="144px" /></a>
+### 2268287
+**Yashahime: Princess Half-Demon S01E07 - Meeting through an Apple**  
+TV-14-L 🔒 21:55  
+⌛ March 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/yashahime-princess-half-demon/meeting-through-an-apple  
+seriesid=`2268280` titleid=`2268287` id=`AXs1i9JY0_E45RWzeAvv` mediaid=`ead4cdf6c7c38002cad9773f3064d16c537785bf`  
+_On her way to search for the Dream Butterfly, Towa meets a strange young man named Riku. Towa offers him an apple, and in thanks, Riku presents her with the genuine Kikujumonji sword._  
+<a href="https://media.cdn.adultswim.com/uploads/20210813/thumbnails/2_21813114560-YashahimePrincessHalfDemon_107_MeetingThroughAnApple.png"><img src="https://media.cdn.adultswim.com/uploads/20210813/thumbnails/2_21813114560-YashahimePrincessHalfDemon_107_MeetingThroughAnApple.png" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 3  
-629835 King of the Hill: 1  
-### 2041477
-**American Dad S11E04 - N.S.A. (No Snoops Allowed)**  
-TV-14-DLSV 🔒 21:13  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+### 2171455
+**Bob's Burgers S08E15 - Go Tina on the Mountain**  
+TV-PG-L 🔒 21:41  
 ⌛ February 26, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/n-s-a-no-snoops-allowed  
-seriesid=`581006` titleid=`2041477` id=`R1Isc4OiQ5OqNqz5mq_ZJg` mediaid=`d873da559ba4646a889015fd6aeb309d464a2b90`  
-_Steve goes to work with Stan and discovers the N.S.A. Hayley decides to let go of being a vegetarian and eat meat for one day._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg" height="144px" /></a>
-### 2041478
-**American Dad S11E05 - Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers**  
-TV-14-DL 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/go-tina-on-the-mountain  
+seriesid=`2003422` titleid=`2171455` id=`AWgad-OgzQU7gEG1jvbP` mediaid=`8a20666d1f8598cd129fa16e06bfb0f56b6d4342`  
+_The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843606055812.jpg" height="144px" /></a>
+### 2171454
+**Bob's Burgers S08E14 - The Trouble with Doubles**  
+TV-14-LV 🔒 21:32  
 ⌛ February 26, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/stan-smith-as-keanu-reeves-as-stanny-utah-in-point-breakers  
-seriesid=`581006` titleid=`2041478` id=`lhPueYEFSTGBnbn2xsc9Mg` mediaid=`19c05ab4df7f77e4458a0e6b54e8907c05994974`  
-_Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg" height="144px" /></a>
-### 2041476
-**American Dad S11E03 - Hayley Smith, Seal Team Six**  
-TV-14-DLV 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/the-trouble-with-doubles  
+seriesid=`2003422` titleid=`2171454` id=`AWlyQ4jeHl5gR6828yz8` mediaid=`20482d36e5c5a76dd4b07eff922456c22b1d7d53`  
+_Bob and Linda's double date plans take a disastrous turn when the couples find themselves trapped inside an Escape Room. Meanwhile, Louise hosts a zombie-movie night, but when the zombies turn out to be too scary, Tina must take charge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg" height="144px" /></a>
+### 437557
+**Futurama S02E16 - The Deep South**  
+TV-PG-DL 🔓 23:21  
 ⌛ February 26, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/hayley-smith-seal-team-six  
-seriesid=`581006` titleid=`2041476` id=`uo1Kf91lTPCZCjE4bnKkCQ` mediaid=`c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c`  
-_Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg" height="144px" /></a>
-### 731507
-**King of the Hill S08E17 - How I Learned to Stop Worrying and Love the Alamo**  
-TV-PG-DL 🔒 23:54  
-⌛ February 26, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/how-i-learned-to-stop-worrying-and-love-the-alamo  
-seriesid=`629835` titleid=`731507` id=`anVBr9szR8CjNo-piQ0G1Q` mediaid=`dbbbec0ff47d67bcb289967481d3fcde133466f7`  
-_...and Love the Alamo: Hank reacts with disbelief when he realizes Bobby's history textbook contains almost nothing on the Alamo; Peggy photographs a Flat Stanley doll to help teach kids about geography-and safety issues._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238986993067.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238986993067.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/futurama/the-deep-south  
+seriesid=`437532` titleid=`437557` id=`AX7_3tRp208s7zyYUMGP` mediaid=`10128dc4ed65b2cd1432ea0803afa8668cec8b01`  
+_Bender's giant hook causes the Planet Express to sink._  
+<a href="https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171659506-Futurama_025_TheDeepSouth.png"><img src="https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171659506-Futurama_025_TheDeepSouth.png" height="144px" /></a>
