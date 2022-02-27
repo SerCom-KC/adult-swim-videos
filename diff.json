@@ -1,22 +1,21 @@
 {
-    "updated": 1645958000,
+    "updated": 1645959858,
     "added": [
         {
-            "auth_expiration_date": 1647768540,
-            "tms_id": "EP035179090011",
-            "description": "The Straw Hats finally make it to Fish-Man Island, but their reputation precedes them, leading to trouble with the New Fish-Man Pirates! Only a daring maneuver can get them out of hot water, but there's no guarantee they'll survive!",
+            "auth_expiration_date": 1647770340,
+            "tms_id": "EP035179090012",
+            "description": "When Sanji gets up close and personal with a mesmerizing mermaid, his extreme fondness for the female form lands him in a life and death situation. Could the Straw Hat chef die from a nosebleed?!",
             "title_suggest": {
                 "input": [
-                    "Landing at the Fish-Man Island! Beautiful Mermaids!",
-                    "at the Fish-Man Island! Beautiful Mermaids!",
-                    "the Fish-Man Island! Beautiful Mermaids!",
-                    "Fish-Man Island! Beautiful Mermaids!",
-                    "Island! Beautiful Mermaids!",
-                    "Beautiful Mermaids!",
-                    "Mermaids!"
+                    "Excitement Blow-out! Sanji's Life Under Threat!",
+                    "Blow-out! Sanji's Life Under Threat!",
+                    "Sanji's Life Under Threat!",
+                    "Life Under Threat!",
+                    "Under Threat!",
+                    "Threat!"
                 ]
             },
-            "title": "Landing at the Fish-Man Island! Beautiful Mermaids!",
+            "title": "Excitement Blow-out! Sanji's Life Under Threat!",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -26,83 +25,34 @@
                 "fire-tv"
             ],
             "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-            "duration": 1332.4311,
-            "episode_number": "11",
-            "original_air_date": 1645945200,
-            "auth_launch_date": 1645957800,
+            "duration": 1332.331,
+            "episode_number": "12",
+            "original_air_date": 1645947000,
+            "auth_launch_date": 1645959600,
             "clip_order": null,
-            "airing_id": "RADS1002222200073466",
-            "media_id": "4cc060d34440dd6c28f9bb86d246b6cb9a719258",
-            "modified": 1645646989,
-            "slug": "landing-at-the-fish-man-island-beautiful-mermaids",
+            "airing_id": "RADS1002222200073474",
+            "media_id": "738272f5686a983e051c98d4816233be1a7b1404",
+            "modified": 1645647017,
+            "slug": "excitement-blow-out-sanjis-life-under-threat",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_222231429396-OnePiece_527_LandingAtTheFishManIslandBeautifulMermaids.png",
-            "created": 1645565829,
-            "title_id": "2363795",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_222231430284-OnePiece_528_ExcitementBlowOutSanjisLifeUnderThreat.png",
+            "created": 1645565838,
+            "title_id": "2363796",
             "season_number": "15",
-            "tv_rating": "tv-pg",
-            "published": 1645646989,
+            "tv_rating": "tv-pg-d",
+            "published": 1645647017,
             "tags": [],
             "collection_title": "One Piece",
             "disable_ads": false,
             "modified_by": "Jonas Eason",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231429396-OnePiece_527_LandingAtTheFishManIslandBeautifulMermaids.png",
-            "id": "AX8jXeJv_0O4w1rD3Ruf",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231430284-OnePiece_528_ExcitementBlowOutSanjisLifeUnderThreat.png",
+            "id": "AX8jXgPE208s7zyYUMK4",
             "auth": true,
             "collection_slug": "one-piece",
             "collection_title_id": "608007",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "auth_expiration_date": 1645957740,
-            "tms_id": "EP034917240194",
-            "description": "Kakashi desperately tries to reach out to Obito, but his words fall on deaf ears.",
-            "title_suggest": {
-                "input": [
-                    "Kakashi's Resolve",
-                    "Resolve"
-                ]
-            },
-            "title": "Kakashi's Resolve",
-            "type": "episode",
-            "expiration_date": null,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1307.2393,
-            "episode_number": "14",
-            "original_air_date": 1636873200,
-            "auth_launch_date": 1636885800,
-            "clip_order": null,
-            "airing_id": "RADS1011102100044437",
-            "media_id": "92960dba19a69e30c802253d3a34120eadc9d375",
-            "modified": 1645529710,
-            "slug": "kakashis-resolve",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121014598-NarutoShippuden_362_KakashisResolve.png",
-            "created": 1636583916,
-            "title_id": "2177791",
-            "season_number": "7",
-            "tv_rating": "tv-pg-v",
-            "published": 1645529710,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121014598-NarutoShippuden_362_KakashisResolve.png",
-            "id": "AX0MAMMt4Xbjep71f6Hc",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
