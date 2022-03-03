@@ -115,67 +115,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1646283540,
-        "tms_id": "EP002070020174",
-        "rating": 8.927932,
-        "description": "Bobby joins the school's academic team, where he specializes in pop culture, but the stress proves too much for him to handle.",
-        "title_suggest": {
-            "input": [
-                "Stressed for Success",
-                "for Success",
-                "Success"
-            ]
-        },
-        "type": "episode",
-        "title": "Stressed for Success",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1432.1307,
-        "episode_number": "19",
-        "original_air_date": 1235712600,
-        "clip_order": null,
-        "auth_launch_date": 1645678800,
-        "modified": 1645644343,
-        "media_id": "a4b4c005a3e95474f2e1b2eb77b861a6879e7d6a",
-        "airing_id": "RADS1002192200072393",
-        "id": "gTEzZ5TxTPC46OT4eVN_oA",
-        "slug": "stressed-for-success",
-        "views": 239587,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_222231424480-KingOfTheHill_813_StressedForSuccess.png",
-        "created": 1402945468,
-        "title_id": "731509",
-        "season_number": "8",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1645644343,
-        "tags": [
-            "Episode 813",
-            "KOTH",
-            "academic",
-            "pop culture",
-            "stress",
-            "Bobby",
-            "Hank",
-            "Peggy"
-        ],
-        "rating_count": 222,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231424480-KingOfTheHill_813_StressedForSuccess.png",
-        "cma_id": "731509"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1646801940,
         "tms_id": "EP002070020178",
         "description": "Rover Runs Through It, A: Peggy tries to save her family's Montana ranch after actor Henry Winkler refuses to allow cattle on a trail that runs through his property.",
@@ -273,5 +212,53 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400130751220.jpg",
         "cma_id": "731512"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1646888340,
+        "tms_id": "EP002070020179",
+        "rating": 8.8595495,
+        "description": "As Christmas approaches, an old woman tries to tries to spend her last days inside the Hill home... as Hank and Peggy try to figure out a way to get rid of her.",
+        "title_suggest": {
+            "input": [
+                "Ms. Wakefield",
+                "Wakefield"
+            ]
+        },
+        "type": "episode",
+        "title": "Ms. Wakefield",
+        "expiration_date": 1482123599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1436.1013,
+        "episode_number": "2",
+        "original_air_date": 1236564000,
+        "auth_launch_date": 1646283600,
+        "clip_order": null,
+        "modified": 1646152776,
+        "media_id": "51082307817c7d16bb09aa3153d5dcb72bfb96dc",
+        "airing_id": "RADS1002262200074182",
+        "id": "sinpEOEQRU-5NpngodhjLQ",
+        "slug": "ms-wakefield",
+        "views": 90882,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311139188-KingOfTheHill_905_MsWakefield.png",
+        "created": 1402945468,
+        "title_id": "731514",
+        "season_number": "9",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "published": 1646152776,
+        "tags": [],
+        "rating_count": 178,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1481518800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311139188-KingOfTheHill_905_MsWakefield.png",
+        "cma_id": "1307939"
     }
 ]
