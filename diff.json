@@ -1,21 +1,17 @@
 {
-    "updated": 1646350236,
-    "added": [],
-    "removed": [
+    "updated": 1646352032,
+    "added": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1646715540,
-            "tms_id": "EP007008180125",
-            "description": "Early interferes with Rusty's new party business and it's last call\u2026for action!",
+            "auth_expiration_date": 1604293140,
+            "tms_id": "",
+            "description": "Woman uses a magic dwarf to help improve her love life.",
             "title_suggest": {
                 "input": [
-                    "Events By Russell",
-                    "By Russell",
-                    "Russell"
+                    "Rumpelstiltskin"
                 ]
             },
-            "title": "Events By Russell",
-            "expiration_date": 1641963540,
+            "title": "Rumpelstiltskin",
+            "expiration_date": 1646629140,
             "type": "episode",
             "platforms": [
                 "android",
@@ -23,36 +19,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 677.5,
-            "episode_number": "9",
-            "original_air_date": 1568607300,
-            "auth_launch_date": 1641963600,
+            "collection_id": "AXD5sp41Rs3h4hI_X2eX",
+            "duration": 675.8418,
+            "episode_number": "5",
+            "original_air_date": null,
+            "auth_launch_date": 1603684800,
             "clip_order": null,
-            "media_id": "d38cfb672fc4eda20264552574cdb1d439708d3b",
-            "modified": 1641620144,
-            "airing_id": "RADS1012242100056164",
-            "slug": "events-by-russell",
+            "airing_id": "RADS1011182100045802",
+            "media_id": "3f038b186f959fe07a957e8108fc02de630e690f",
+            "modified": 1646351664,
+            "slug": "rumpelstiltskin",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/1_19913133124-squidbillies_1008_dup-20190912.jpg",
-            "created": 1568319084,
-            "season_number": "12",
-            "title_id": "2199309",
-            "tv_rating": "tv-14-dlsv",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1641620144,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/1_205201017372-JJVFT_003.jpg",
+            "created": 1589983811,
+            "season_number": "1",
+            "title_id": "2213497",
+            "tv_rating": "tv-ma-lsv",
+            "published": 1646351664,
             "tags": [],
-            "collection_title": "Squidbillies",
+            "collection_title": "JJ Villard's Fairy Tales",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1640667600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg",
-            "id": "AW0nGhd4CorLtcgfluVw",
-            "auth": true,
-            "collection_slug": "squidbillies",
-            "collection_title_id": "581268",
+            "launch_date": 1637557200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_205201017372-JJVFT_003.jpg",
+            "id": "AXIya5meRs3h4hI_X3xh",
+            "auth": false,
+            "collection_slug": "jj-villards-fairy-tales",
+            "collection_title_id": "2213494",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
