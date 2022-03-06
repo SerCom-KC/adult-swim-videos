@@ -312,7 +312,7 @@
         "launch_date": 1645959600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223155263-OnePiece_522_EveryoneTogetherLuffySettingOutForTheNewWorld.png",
         "id": "AX7BMUil_0O4w1rD3RmE",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1646564340,
@@ -366,7 +366,7 @@
         "launch_date": 1646564400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281333331-OnePiece_524_DeadlyCombatUnderTheSeaTheDemonTheOceanStrikes.png",
         "id": "AX7anOkn_0O4w1rD3Ro5",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1647163740,
@@ -620,6 +620,61 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311351567-OnePiece_529_TheFishManIslandWillBeSharleysProphecy.png",
         "id": "AX9G014-208s7zyYUMOj",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1648375140,
+        "tms_id": "EP035179100014",
+        "description": "After reuniting with Nami, Luffy and the gang are invited to the royal palace of Neptune, god of the sea! Meanwhile, the New Fish-Man Pirates exploit the power of a designer steroid in order to terrorize humans!",
+        "title_suggest": {
+            "input": [
+                "The King of the Fish-Man Island! Neptune, the God of the Sea!",
+                "King of the Fish-Man Island! Neptune, the God of the Sea!",
+                "of the Fish-Man Island! Neptune, the God of the Sea!",
+                "the Fish-Man Island! Neptune, the God of the Sea!",
+                "Fish-Man Island! Neptune, the God of the Sea!",
+                "Island! Neptune, the God of the Sea!",
+                "Neptune, the God of the Sea!",
+                "the God of the Sea!",
+                "God of the Sea!",
+                "of the Sea!",
+                "the Sea!",
+                "Sea!"
+            ]
+        },
+        "title": "The King of the Fish-Man Island! Neptune, the God of the Sea!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.5312,
+        "episode_number": "14",
+        "original_air_date": "1646551800",
+        "auth_launch_date": 1646564400,
+        "clip_order": null,
+        "airing_id": "RADS1003022200076176",
+        "media_id": "8dc2397f534bd16dc80ea3f62382477fad220521",
+        "modified": 1646419192,
+        "slug": "the-king-of-the-fish-man-island-neptune-the-god-of-the-sea",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311352596-OnePiece_530_TheKingOfTheFishManIslandNeptuneTheGodOfTheSea.png",
+        "created": 1646160794,
+        "season_number": "15",
+        "title_id": "2363798",
+        "tv_rating": "tv-pg",
+        "published": 1646419192,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311352596-OnePiece_530_TheKingOfTheFishManIslandNeptuneTheGodOfTheSea.png",
+        "id": "AX9G1FQ9208s7zyYUMOl",
         "auth": true
     }
 ]
