@@ -260,7 +260,7 @@
         "launch_date": 1645957800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223154307-OnePiece_521_TheBattleIsOnShowThemWhatYouGotFromTraining.png",
         "id": "AX7BMGUL_0O4w1rD3RmD",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1650189540,
@@ -313,58 +313,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223155263-OnePiece_522_EveryoneTogetherLuffySettingOutForTheNewWorld.png",
         "id": "AX7BMUil_0O4w1rD3RmE",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1646562540,
-        "tms_id": "EP035179090007",
-        "description": "As word of the Straw Hat resurrection spreads through the Navy, Luffy and his crew get acclimated to their underwater environment, and Franky reveals the startling identity of the man who protected their ship!",
-        "title_suggest": {
-            "input": [
-                "A Surprising Fact! The Man Who Guarded the Sunny!",
-                "Surprising Fact! The Man Who Guarded the Sunny!",
-                "Fact! The Man Who Guarded the Sunny!",
-                "The Man Who Guarded the Sunny!",
-                "Man Who Guarded the Sunny!",
-                "Who Guarded the Sunny!",
-                "Guarded the Sunny!",
-                "the Sunny!",
-                "Sunny!"
-            ]
-        },
-        "title": "A Surprising Fact! The Man Who Guarded the Sunny!",
-        "expiration_date": 1647167340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-        "duration": 1332.3644,
-        "episode_number": "7",
-        "original_air_date": "1644735600",
-        "auth_launch_date": 1644748200,
-        "clip_order": null,
-        "airing_id": "RADS1002282200075072",
-        "media_id": "837f687c4514643865d10ff16fd8d9d18cf2286d",
-        "modified": 1646138664,
-        "slug": "a-surprising-fact-the-man-who-guarded-the-sunny",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/1_22281332330-OnePiece_523_ASurprisingFactTheManWhoGuardedTheSunny.png",
-        "created": 1644345172,
-        "season_number": "15",
-        "title_id": "2363791",
-        "tv_rating": "tv-pg-l",
-        "published": 1646138664,
-        "tags": [],
-        "collection_title": "One Piece",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1646566200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281332330-OnePiece_523_ASurprisingFactTheManWhoGuardedTheSunny.png",
-        "id": "AX7anCBn_0O4w1rD3Ro4",
-        "auth": true
     },
     {
         "auth_expiration_date": 1646564340,
@@ -621,6 +569,57 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231430284-OnePiece_528_ExcitementBlowOutSanjisLifeUnderThreat.png",
         "id": "AX8jXgPE208s7zyYUMK4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1648373340,
+        "tms_id": "EP035179100013",
+        "description": "After two generous donors save Sanji from death by nosebleed, Luffy and Usopp tour the island. But their welcome is worn out when a mystic mermaid has a terrifying vision - that Fish-Man Island will be destroyed at the hands of a Straw Hat!",
+        "title_suggest": {
+            "input": [
+                "The Fish-Man Island Will Be Annihilated?! Sharley's Prophecy!",
+                "Fish-Man Island Will Be Annihilated?! Sharley's Prophecy!",
+                "Island Will Be Annihilated?! Sharley's Prophecy!",
+                "Will Be Annihilated?! Sharley's Prophecy!",
+                "Be Annihilated?! Sharley's Prophecy!",
+                "Annihilated?! Sharley's Prophecy!",
+                "Sharley's Prophecy!",
+                "Prophecy!"
+            ]
+        },
+        "title": "The Fish-Man Island Will Be Annihilated?! Sharley's Prophecy!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.1641,
+        "episode_number": "13",
+        "original_air_date": "1646550000",
+        "auth_launch_date": 1646562600,
+        "clip_order": null,
+        "airing_id": "RADS1003022200076188",
+        "media_id": "fd73cd87b8e6294dd6a18c968e23beb98a95d468",
+        "modified": 1646419227,
+        "slug": "the-fish-man-island-will-be-annihilated-sharleys-prophecy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311351567-OnePiece_529_TheFishManIslandWillBeSharleysProphecy.png",
+        "created": 1646160731,
+        "season_number": "15",
+        "title_id": "2363797",
+        "tv_rating": "tv-pg",
+        "published": 1646419227,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311351567-OnePiece_529_TheFishManIslandWillBeSharleysProphecy.png",
+        "id": "AX9G014-208s7zyYUMOj",
         "auth": true
     }
 ]
