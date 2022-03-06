@@ -365,7 +365,7 @@
         "launch_date": 1646559000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281330410-AssassinationClassroom_030_ReaperTime_Part2.png",
         "id": "AX7amk56_0O4w1rD3Ro2",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1647160140,
@@ -457,6 +457,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231427374-AssassinationClassroom_32_SchoolFestivalTime.png",
         "id": "AX8jXe8l_0O4w1rD3Ruh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1648369740,
+        "tms_id": "EP035989030033",
+        "description": "It's exam time again, and the cream-of-the-crop A Class is a bigger threat than ever before. Top-ranking Asano, however, has something up his sleeve.",
+        "title_suggest": {
+            "input": [
+                "End-of-Term Time/2nd Period",
+                "Time/2nd Period",
+                "Period"
+            ]
+        },
+        "title": "End-of-Term Time/2nd Period",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1308.4405,
+        "episode_number": "11",
+        "original_air_date": "1646546400",
+        "auth_launch_date": 1646559000,
+        "clip_order": null,
+        "airing_id": "RADS1003022200076184",
+        "media_id": "b6688f7f4367f3cb64d2f714e8ec180a78ac6728",
+        "modified": 1646419406,
+        "slug": "end-of-term-time-2nd-period",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311349411-AssassinationClassroom_033_EndOfTermTime2ndPeriod.png",
+        "created": 1646160594,
+        "season_number": "2",
+        "title_id": "2333977",
+        "tv_rating": "tv-14-l",
+        "published": 1646419406,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311349411-AssassinationClassroom_033_EndOfTermTime2ndPeriod.png",
+        "id": "AX9G0Ugy_0O4w1rD3Rw7",
         "auth": true
     }
 ]
