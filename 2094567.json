@@ -101,55 +101,6 @@
     },
     {
         "ott_launch_date": 1543246140,
-        "auth_expiration_date": 1646629140,
-        "tms_id": "",
-        "description": "Patient 75 comes to Dream Corp LLC to help clean up his life and regain the respect of his children. T.E.R.R.Y. introduces the staff to his new friend Leonard.",
-        "title_suggest": {
-            "input": [
-                "Dust Bunnies",
-                "Bunnies"
-            ]
-        },
-        "expiration_date": 1643605140,
-        "type": "episode",
-        "title": "Dust Bunnies",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
-        "duration": 677.87,
-        "episode_number": "11",
-        "original_air_date": 1543208400,
-        "auth_launch_date": 1643605200,
-        "clip_order": null,
-        "media_id": "640cebe885ee4bc3e66afc2ec2d7c8dbac3ed105",
-        "modified": 1644442827,
-        "airing_id": "RADS1001272200067234",
-        "slug": "dust-bunnies",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341420127-dreamcorpllc_211_air_cid-3P4V7.jpg",
-        "created": 1535565172,
-        "season_number": "2",
-        "title_id": "2133695",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1644442827,
-        "tags": [],
-        "collection_title": "DREAM CORP LLC",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1640581200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341420127-dreamcorpllc_211_air_cid-3P4V7.jpg",
-        "id": "AWWG0Q2Oh5enQuYyHyR0",
-        "auth": true
-    },
-    {
-        "ott_launch_date": 1543246140,
         "auth_expiration_date": 1647230340,
         "tms_id": "",
         "description": "Skin to skin contact feels like fire to Patient 66. With a history of minimal human touch or relationships, Dr Roberts prescribes her a Dream Date.",
@@ -904,6 +855,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1636347540,
+        "tms_id": "",
+        "description": "88 dies, briefly.",
+        "title_suggest": {
+            "input": [
+                "Clone Disposal",
+                "Disposal"
+            ]
+        },
+        "title": "Clone Disposal",
+        "expiration_date": 1649649540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "HWCTNeQkQhKFQLqa8f0F8g",
+        "duration": 805.8717,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1633320000,
+        "clip_order": null,
+        "airing_id": "RADS1003032200077354",
+        "media_id": "5275539e717d9a69ff176db8d39f06bf7049fe81",
+        "modified": 1646353501,
+        "slug": "clone-disposal",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/1_20917152173-DreamCorpLLC_307.jpg",
+        "created": 1600370470,
+        "season_number": "3",
+        "title_id": "2215445",
+        "tv_rating": "tv-14-dlv",
+        "published": 1646353501,
+        "tags": [],
+        "collection_title": "DREAM CORP LLC",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1646629200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_20917152173-DreamCorpLLC_307.jpg",
+        "id": "AXSdg25XSeFB2d0c388T",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1649044740,
         "tms_id": "",
         "description": "Dr. Roberts celebrates his new found wealth too soon. The staff neglects a pyromaniac patient.",
@@ -992,7 +988,7 @@
         "launch_date": 1643605200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200917/thumbnails/2_209171518328-DreamCorpLLC_302.jpg",
         "id": "AXSdgRioLyLQBOXK_POD",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1633924740,
