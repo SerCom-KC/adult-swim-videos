@@ -4733,6 +4733,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1648439940,
+        "tms_id": "EP007259620236",
+        "description": "Robot Chicken takes Mojo Jojo's side against the Powerpuff Girls; Nightwing demands criminals butt out; Dilbert dies hard with a vengeance of laughter!",
+        "title_suggest": {
+            "input": [
+                "May Cause a Squeakquel",
+                "Cause a Squeakquel",
+                "a Squeakquel",
+                "Squeakquel"
+            ]
+        },
+        "title": "May Cause a Squeakquel",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 657.023,
+        "episode_number": "16",
+        "original_air_date": "1646629200",
+        "auth_launch_date": 1646629200,
+        "clip_order": null,
+        "airing_id": "RADS1003032200077459",
+        "media_id": "ac2e386337dd2e68477da4f3331966aaeacfc5a0",
+        "modified": 1646361004,
+        "slug": "may-cause-a-squeakquel",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311355387-RobotChicken_1115_MayCauseASqueakquel.png",
+        "created": 1646160949,
+        "season_number": "11",
+        "title_id": "2270602",
+        "tv_rating": "tv-ma-v",
+        "published": 1646361004,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311355387-RobotChicken_1115_MayCauseASqueakquel.png",
+        "id": "AX9G1rEo208s7zyYUMOm",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1650599940,
         "tms_id": "EP007259620212",
         "description": "Batman makes an addition to his costume. Ride along with the Westeros, P.D. and see how they solve crimes. And the RC crew puts Bitch Pudding on Love Island to see what kind of match she will find.",
@@ -5381,7 +5428,7 @@
         "launch_date": 1644210000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921515581-RobotChicken_1103_MayCauseImmaculateConception.png",
         "id": "AXun8J9T4Xbjep71f6Gw",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1636347540,
@@ -5676,7 +5723,7 @@
         "launch_date": 1646629200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101351309-RobotChicken_1108_MayCauseNumbButthole.png",
         "id": "AXvQ1jN6UQa40cfnRR9n",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1647230340,
