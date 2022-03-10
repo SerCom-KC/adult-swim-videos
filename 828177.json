@@ -359,6 +359,52 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1452139200,
+        "auth_expiration_date": 1627531140,
+        "tms_id": "EP013726210021",
+        "description": "A correction of a typo means Gary gets to go to Heaven.",
+        "title_suggest": {
+            "input": [
+                "Heaven"
+            ]
+        },
+        "expiration_date": 1649908740,
+        "title": "Heaven",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 684,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "12",
+        "original_air_date": 1444623300,
+        "clip_order": null,
+        "auth_launch_date": 1624507200,
+        "modified": 1646461355,
+        "airing_id": "RADS1003042200077881",
+        "media_id": "0e8872f24a53ff429a9527ae86d91f170ff228cb",
+        "id": "AdGQrLrQRlyPV5_F4O2e9g",
+        "slug": "heaven",
+        "views": 24989,
+        "created": 1436294577,
+        "season_number": "2",
+        "title_id": "2062771",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1646461355,
+        "first_published": 1444530020,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1646888400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/heaven/ypf_ep209_002_abtr4589aga9w9730akpp.jpg",
+        "cma_id": "1380131"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "There is no escape.",
         "title_suggest": {
@@ -551,53 +597,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447787040,
-        "auth_expiration_date": 1646888340,
-        "tms_id": "EP013726210010",
-        "description": "Gary learns the subtleties of working someone's conscience with help from an unexpected friend.",
-        "title_suggest": {
-            "input": [
-                "Shoulder Work",
-                "Work"
-            ]
-        },
-        "expiration_date": 1643864340,
-        "title": "Shoulder Work",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 674.74,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "2",
-        "original_air_date": 1437365700,
-        "clip_order": null,
-        "auth_launch_date": 1643864400,
-        "modified": 1645842034,
-        "airing_id": "RADS1001282200067779",
-        "media_id": "1547573698efc9392048e495e90684a61cf331eb",
-        "id": "MGjJ04MnR5erwEzXgE9ahw",
-        "slug": "shoulder-work",
-        "views": 43748,
-        "created": 1436294121,
-        "season_number": "2",
-        "title_id": "2062764",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1645842034,
-        "first_published": 1437189641,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1640840400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg",
-        "cma_id": "1389350"
-    },
-    {
-        "auth": false,
         "ott_launch_date": null,
         "description": "That stain is never gonna come out.",
         "title_suggest": {
@@ -699,7 +698,7 @@
         "cma_id": "1393798"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787280,
         "auth_expiration_date": 1649908740,
         "tms_id": "EP013726210015",
