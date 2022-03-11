@@ -1,54 +1,54 @@
 {
-    "updated": 1646996430,
-    "added": [
+    "updated": 1647014430,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1604897940,
-            "tms_id": "",
-            "description": "Jealous queen tries to assassinate her stepdaughter because the stepdaughter makes better congo bars than her.",
+            "auth_expiration_date": 1647230340,
+            "tms_id": "EP031843450016",
+            "description": "A new landlord? A rent increase? Not today, Gentrifier. Tuca & Bertie battle a mysterious new apartment manager while Speckle races to finish building his dream house.",
             "title_suggest": {
                 "input": [
-                    "Snow White",
-                    "White"
+                    "The Moss",
+                    "Moss"
                 ]
             },
-            "title": "Snow White",
-            "expiration_date": 1647230340,
+            "title": "The Moss",
             "type": "episode",
+            "expiration_date": null,
             "platforms": [
                 "android",
                 "ios",
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXD5sp41Rs3h4hI_X2eX",
-            "duration": 667.9339,
+            "collection_id": "AXI5AAWnRs3h4hI_X3zz",
+            "duration": 1352.084,
             "episode_number": "6",
-            "original_air_date": null,
-            "auth_launch_date": 1604293200,
+            "original_air_date": 1626665400,
+            "auth_launch_date": 1641186000,
             "clip_order": null,
-            "airing_id": "RADS1011262100046973",
-            "media_id": "1658af2e1ab58419958e126c33b1d017aab2b65b",
-            "modified": 1646995014,
-            "slug": "snow-white",
+            "airing_id": "RADS1012302100057576",
+            "media_id": "0ad4a8b78ae518ca5650072d16ac6160e659d433",
+            "modified": 1643142636,
+            "slug": "the-moss",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/1_20520101801-JJVFT_006.jpg",
-            "created": 1589983794,
-            "season_number": "1",
-            "title_id": "2213500",
-            "tv_rating": "tv-ma-lv",
-            "published": 1646995014,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/1_217161028338-TucaAndBertie_206_TheMoss.png",
+            "created": 1626381122,
+            "title_id": "2266170",
+            "season_number": "2",
+            "tv_rating": "tv-14-dls",
+            "published": 1643142636,
             "tags": [],
-            "collection_title": "JJ Villard's Fairy Tales",
+            "collection_title": "Tuca & Bertie",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1638162000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_20520101801-JJVFT_006.jpg",
-            "id": "AXIya1SnC8QgH-t19JOh",
-            "auth": false,
-            "collection_slug": "jj-villards-fairy-tales",
-            "collection_title_id": "2213494",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161028338-TucaAndBertie_206_TheMoss.png",
+            "id": "AXqr3n0aBH5Z6gH5aWX-",
+            "auth": true,
+            "collection_slug": "tuca-bertie",
+            "collection_title_id": "2266164",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
