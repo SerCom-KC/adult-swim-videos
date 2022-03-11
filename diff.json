@@ -1,7 +1,6 @@
 {
-    "updated": 1647014430,
-    "added": [],
-    "removed": [
+    "updated": 1647019831,
+    "added": [
         {
             "auth_expiration_date": 1647230340,
             "tms_id": "EP031843450016",
@@ -29,7 +28,7 @@
             "clip_order": null,
             "airing_id": "RADS1012302100057576",
             "media_id": "0ad4a8b78ae518ca5650072d16ac6160e659d433",
-            "modified": 1643142636,
+            "modified": 1647018591,
             "slug": "the-moss",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/1_217161028338-TucaAndBertie_206_TheMoss.png",
@@ -37,7 +36,7 @@
             "title_id": "2266170",
             "season_number": "2",
             "tv_rating": "tv-14-dls",
-            "published": 1643142636,
+            "published": 1647018591,
             "tags": [],
             "collection_title": "Tuca & Bertie",
             "disable_ads": false,
@@ -50,5 +49,6 @@
             "collection_title_id": "2266164",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
