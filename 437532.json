@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1646974740,
-        "tms_id": "EP003034830029",
-        "description": "The professor invents a what if machine.",
-        "title_suggest": {
-            "input": [
-                "Anthology of Interest I",
-                "of Interest I",
-                "Interest I",
-                "I"
-            ]
-        },
-        "title": "Anthology of Interest I",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.4678,
-        "episode_number": "20",
-        "original_air_date": 1045713600,
-        "auth_launch_date": 1646370000,
-        "clip_order": null,
-        "airing_id": "RADS1002262200074228",
-        "media_id": "990f70609d572e362035cf8f98021d0204f2b831",
-        "modified": 1646152921,
-        "slug": "anthology-of-interest-i",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311141413-Futurama_29_AnthologyOfInterest1.png",
-        "created": 1645835125,
-        "title_id": "437692",
-        "season_number": "2",
-        "tv_rating": "tv-pg-lv",
-        "published": 1646152921,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311141413-Futurama_29_AnthologyOfInterest1.png",
-        "id": "AX8zawNn_0O4w1rD3Rv2",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1647061140,
         "tms_id": "EP003034830030",
         "description": "Bender must spend a full night in a gothic castle in order to collect an inheritance.",
@@ -229,6 +182,39 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311146361-Futurama_704_PropositionInfinity.png",
         "id": "AX9GYIQj208s7zyYUMOe",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1647575940,
+        "created": 1646438107,
+        "tms_id": "EP003034830032",
+        "title_id": "437695",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dv",
+        "description": "Fry and Bender's behavior causes all the Planet Express crewmen to lose their jobs.",
+        "title_suggest": {
+            "input": [
+                "The Cryonic Woman",
+                "Cryonic Woman",
+                "Woman"
+            ]
+        },
+        "published": 1646547269,
+        "title": "The Cryonic Woman",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.2636,
+        "episode_number": "3",
+        "collection_title": "Futurama",
+        "original_air_date": 1046145600,
+        "auth_launch_date": 1646974800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1003042200077931",
+        "media_id": "cb659447664c41f340bc669e3ffbc80e8b315f7e",
+        "modified": 1646547269,
+        "slug": "the-cryonic-woman",
+        "id": "AX9XW8sQ_0O4w1rD3RyJ",
         "auth": true
     }
 ]
