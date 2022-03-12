@@ -2,8 +2,19 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 11, 2022 at 19:30:28 EST_
+_Last Update: March 11, 2022 at 20:00:28 EST_
 ## Video added
+### Summary
+812206 Naruto: Shippuden: 1  
+### 2177766
+**Naruto: Shippuden S06E54 - The Izanami Activated**  
+TV-PG 🔒 21:51  
+⌛ March 15, 2022 at 05:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-izanami-activated  
+seriesid=`812206` titleid=`2177766` id=`AXiI5PZrDmGy9WFjRqqM` mediaid=`048b9bb16cc3c0a16fc29915a9881dc6f20e7bf9`  
+_Itachi declares that Kabuto's actions will not lead to what he truly desires and prepares the Uchiha's Ultimate Visual Jutsu that determines an adversary's fate!_  
+<a href="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311126471-narutoshippuden_337_IzanamiActivated.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311126471-narutoshippuden_337_IzanamiActivated.jpg" height="144px" /></a>
+## Video removed
 ### Summary
 853486 NTSF:SD:SUV::: 2  
 ### 963231
@@ -22,14 +33,3 @@ https://www.adultswim.com/videos/ntsf-sd-suv/the-real-bicycle-thief
 seriesid=`853486` titleid=`963232` id=`gZhMoCC4SmygLrcTwREEIA` mediaid=`d76234fc295af0efd982411d94a5be1598629022`  
 _Trent infiltrates the Swedish virtual pedicab bike racing scene to take down a crew of restaurant terrorists._  
 <a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121312366-ntsf_201_dup-20151020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121312366-ntsf_201_dup-20151020.jpg" height="144px" /></a>
-## Video removed
-### Summary
-853486 NTSF:SD:SUV::: 1  
-### 853496
-**NTSF:SD:SUV:: S01E12 - I Left My Heart in Someone's Cooler**  
-TV-14 🔓 11:14  
-⌛ March 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/i-left-my-heart-in-someones-cooler  
-seriesid=`853486` titleid=`853496` id=`wZcSUlu5TkyvcZS5Aw4-tA` mediaid=`4b02ccbfde8f272e7709a7a59bfa91ad2388cd50`  
-_It's San Diego Day, a Christmas-like holiday, in San Diego  but Terrorists plan to sabotage the SD parade by planting a bomb in the heart of the   Grand Marshal of the parade, who happens to be the President of the Navy.  Now NTSF must stop the bomb and, adding to stress of the day, Trent sends Alphonse out to find his kids the perfect gift._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312121373-ntsf_112_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312121373-ntsf_112_bim.jpg" height="144px" /></a>
