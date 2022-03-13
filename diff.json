@@ -1,21 +1,21 @@
 {
-    "updated": 1647160459,
-    "added": [],
-    "removed": [
+    "updated": 1647162026,
+    "added": [
         {
-            "auth_expiration_date": 1657598399,
-            "tms_id": "EP035989030029",
-            "description": "A well-intentioned act leads to a falling-out with Professor Bitch. Soon the E Class finds itself facing off alone against a formidable assassin foe.",
+            "auth_expiration_date": 1648976340,
+            "tms_id": "EP034992000080",
+            "description": "For 2,000 years, the Founder Ymir has been waiting--a slave to those with royal blood. However, Eren's yearning for freedom gives her a choice that could shake things up.",
             "title_suggest": {
                 "input": [
-                    "Reaper Time, Part 1",
-                    "Time, Part 1",
-                    "Part 1",
-                    "1"
+                    "From You, 2,000 Years Ago",
+                    "You, 2,000 Years Ago",
+                    "2,000 Years Ago",
+                    "Years Ago",
+                    "Ago"
                 ]
             },
-            "title": "Reaper Time, Part 1",
-            "expiration_date": 1647160140,
+            "title": "From You, 2,000 Years Ago",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -23,34 +23,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXQS2HnhLyLQBOXK_PL8",
-            "duration": 1308.1068,
-            "episode_number": "7",
-            "original_air_date": "1644127200",
-            "auth_launch_date": 1647163800,
+            "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+            "duration": 1359.3246,
+            "episode_number": "21",
+            "original_air_date": "1647149400",
+            "auth_launch_date": 1647162000,
             "clip_order": null,
-            "airing_id": "RADS1003102200078320",
-            "media_id": "5b448e65bda0a9c1df39382f703684e958b6050f",
-            "modified": 1646931362,
-            "slug": "reaper-time-part-1",
+            "airing_id": "RADS1003112200078369",
+            "media_id": "49dd346edab96b05a7fccdfe5f1a9293521a2803",
+            "modified": 1646994391,
+            "slug": "from-you-2-000-years-ago",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/1_222315294-AssassinationClassroom_29_ReaperTime_Part1.png",
-            "created": 1643918546,
-            "season_number": "2",
-            "title_id": "2333973",
-            "tv_rating": "tv-14-l",
-            "published": 1646931362,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_22391226273-AttackOnTitan_080_FromYou2000YearsAgo.png",
+            "created": 1646846798,
+            "season_number": "4",
+            "title_id": "2363779",
+            "tv_rating": "tv-ma-v",
+            "published": 1646994391,
             "tags": [],
-            "collection_title": "Assassination Classroom",
+            "collection_title": "Attack on Titan",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1645954200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_222315294-AssassinationClassroom_29_ReaperTime_Part1.png",
-            "id": "AX7BLlgX_0O4w1rD3RmC",
-            "auth": false,
-            "collection_slug": "assassination-classroom",
-            "collection_title_id": "2238413",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_22391226273-AttackOnTitan_080_FromYou2000YearsAgo.png",
+            "id": "AX9vt-tu_0O4w1rD3RzD",
+            "auth": true,
+            "collection_slug": "attack-on-titan",
+            "collection_title_id": "2020945",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
