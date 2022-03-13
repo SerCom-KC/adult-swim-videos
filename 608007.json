@@ -418,7 +418,7 @@
         "launch_date": 1646564400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281333331-OnePiece_524_DeadlyCombatUnderTheSeaTheDemonTheOceanStrikes.png",
         "id": "AX7anOkn_0O4w1rD3Ro5",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1647163740,
@@ -780,6 +780,61 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239117143-OnePiece_531_TheRyuguPalaceTakenByTheSharkThatSaved.png",
         "id": "AX9vb22Z_0O4w1rD3Ry9",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1648983540,
+        "tms_id": "EP035179090016",
+        "description": "Luffy's lightning reflexes spare the Mermaid Princess from a grisly death, Neptune's army attempts to apprehend the Straw Hats, and Captain Vander Decken forges a sinister undersea alliance!",
+        "title_suggest": {
+            "input": [
+                "A Coward and a Crybaby! The Princess in the Hard Shell Tower!",
+                "Coward and a Crybaby! The Princess in the Hard Shell Tower!",
+                "and a Crybaby! The Princess in the Hard Shell Tower!",
+                "a Crybaby! The Princess in the Hard Shell Tower!",
+                "Crybaby! The Princess in the Hard Shell Tower!",
+                "The Princess in the Hard Shell Tower!",
+                "Princess in the Hard Shell Tower!",
+                "in the Hard Shell Tower!",
+                "the Hard Shell Tower!",
+                "Hard Shell Tower!",
+                "Shell Tower!",
+                "Tower!"
+            ]
+        },
+        "title": "A Coward and a Crybaby! The Princess in the Hard Shell Tower!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.4311,
+        "episode_number": "16",
+        "original_air_date": "1647156600",
+        "auth_launch_date": 1647169200,
+        "clip_order": null,
+        "airing_id": "RADS1003112200078377",
+        "media_id": "571d920f4ca21d07464e7be0e7c98a81f5ccdc08",
+        "modified": 1647025360,
+        "slug": "a-coward-and-a-crybaby-the-princess-in-the-hard-shell-tower",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_2239118121-OnePiece_532_ACowardAndACrybabyThePrincessInTheHardShellTower.png",
+        "created": 1646842102,
+        "season_number": "15",
+        "title_id": "2363800",
+        "tv_rating": "tv-pg",
+        "published": 1647025360,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239118121-OnePiece_532_ACowardAndACrybabyThePrincessInTheHardShellTower.png",
+        "id": "AX9vcESw_0O4w1rD3Ry-",
         "auth": true
     }
 ]
