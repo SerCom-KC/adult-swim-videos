@@ -274,6 +274,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1657598399,
+        "tms_id": "EP035989030029",
+        "description": "A well-intentioned act leads to a falling-out with Professor Bitch. Soon the E Class finds itself facing off alone against a formidable assassin foe.",
+        "title_suggest": {
+            "input": [
+                "Reaper Time, Part 1",
+                "Time, Part 1",
+                "Part 1",
+                "1"
+            ]
+        },
+        "title": "Reaper Time, Part 1",
+        "expiration_date": 1647160140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1308.1068,
+        "episode_number": "7",
+        "original_air_date": "1644127200",
+        "auth_launch_date": 1647163800,
+        "clip_order": null,
+        "airing_id": "RADS1003102200078320",
+        "media_id": "5b448e65bda0a9c1df39382f703684e958b6050f",
+        "modified": 1646931362,
+        "slug": "reaper-time-part-1",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/1_222315294-AssassinationClassroom_29_ReaperTime_Part1.png",
+        "created": 1643918546,
+        "season_number": "2",
+        "title_id": "2333973",
+        "tv_rating": "tv-14-l",
+        "published": 1646931362,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1645954200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_222315294-AssassinationClassroom_29_ReaperTime_Part1.png",
+        "id": "AX7BLlgX_0O4w1rD3RmC",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1646558940,
         "tms_id": "EP035989030030",
         "description": "When Koro Sensei and Mr. Karasuma reach the Reaper's hideout, it's anyone's guess who'll come out on top--especially with wild-card Irina in the mix.",
@@ -456,6 +503,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311349411-AssassinationClassroom_033_EndOfTermTime2ndPeriod.png",
         "id": "AX9G0Ugy_0O4w1rD3Rw7",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1648978140,
+        "tms_id": "EP035989030034",
+        "description": "The end-of-term exams come down to one doozy of a final problem. Principal Asano comes to Koro Sensei with a little wager that has a lot riding on it.",
+        "title_suggest": {
+            "input": [
+                "Think Outside the Box Time",
+                "Outside the Box Time",
+                "the Box Time",
+                "Box Time",
+                "Time"
+            ]
+        },
+        "title": "Think Outside the Box Time",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1307.94,
+        "episode_number": "12",
+        "original_air_date": "1647151200",
+        "auth_launch_date": 1647163800,
+        "clip_order": null,
+        "airing_id": "RADS1003112200078365",
+        "media_id": "ca3c89b123ccfb11c042d0de4a9f9bc2ee8ab191",
+        "modified": 1647025121,
+        "slug": "think-outside-the-box-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_223911508-AssassinationClassroom_34_ThinkOutsideTheBoxTime.png",
+        "created": 1646841912,
+        "season_number": "2",
+        "title_id": "2333978",
+        "tv_rating": "tv-14",
+        "published": 1647025121,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_223911508-AssassinationClassroom_34_ThinkOutsideTheBoxTime.png",
+        "id": "AX9vbVuu_0O4w1rD3Ry7",
         "auth": true
     }
 ]
