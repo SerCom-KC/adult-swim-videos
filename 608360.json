@@ -1713,6 +1713,60 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447348560,
+        "auth_expiration_date": 1653191999,
+        "tms_id": "EP007259620043",
+        "rating": 7.1479583,
+        "description": "The zombie Robot Chicken staff gets back to work!  The Defenders of the Earth accept their limitations. The Decepticon Soundwave discovers he's a little dated. Shout On and Shout Off with The Shouter!  You can be a loser at The Game of Life. Governor Schwarzenegger investigates the illegal immigration issue with Speedy Gonzales and Dora the Explorer.",
+        "title_suggest": {
+            "input": [
+                "Werewolf vs. Unicorn",
+                "vs. Unicorn",
+                "Unicorn"
+            ]
+        },
+        "type": "episode",
+        "title": "Werewolf vs. Unicorn",
+        "expiration_date": 1635047999,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 682.021,
+        "episode_number": "1",
+        "original_air_date": 1186975800,
+        "clip_order": null,
+        "auth_launch_date": 1647230400,
+        "modified": 1646996205,
+        "airing_id": "RADS1003112200078403",
+        "media_id": "b41d54f07d37632a13f88cc7636a8206fd412213",
+        "id": "9yTG-xKqS9mThQlBJD4ZPg",
+        "slug": "werewolf-vs-unicorn",
+        "views": 789269,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411142469-robotchicken_041.jpg",
+        "created": 1402945475,
+        "title_id": "677654",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1646996205,
+        "tags": [
+            "robot chicken episode 41 werewolf vs. unicorn zombies defenders of the earth transformers soundwave shouter"
+        ],
+        "rating_count": 7617,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1632110400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411142469-robotchicken_041.jpg",
+        "cma_id": ""
+    },
+    {
         "ott_launch_date": 1513006242,
         "auth_expiration_date": 1650599940,
         "tms_id": "SH028336110000",
@@ -4780,6 +4834,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1649044740,
+        "tms_id": "EP007259620237",
+        "description": "Robot Chicken lets Yoshi get his revenge on Mario once and for all; A period so bad it requires a famous exorcist to fix; Snoopy trains a new crew of WWI flying aces.",
+        "title_suggest": {
+            "input": [
+                "May Cause Involuntary Political Discharge",
+                "Cause Involuntary Political Discharge",
+                "Involuntary Political Discharge",
+                "Political Discharge",
+                "Discharge"
+            ]
+        },
+        "title": "May Cause Involuntary Political Discharge",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 667.4334,
+        "episode_number": "17",
+        "original_air_date": "1647230400",
+        "auth_launch_date": 1647230400,
+        "clip_order": null,
+        "airing_id": "RADS1003112200078600",
+        "media_id": "79289c60a45451fea71776149ba08d64d9ad4fee",
+        "modified": 1647045828,
+        "slug": "may-cause-involuntary-political-discharge",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
+        "created": 1646842239,
+        "season_number": "11",
+        "title_id": "2270603",
+        "tv_rating": "tv-ma-v",
+        "published": 1647045828,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
+        "id": "AX9vcljj_0O4w1rD3RzB",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1650599940,
         "tms_id": "EP007259620212",
         "description": "Batman makes an addition to his costume. Ride along with the Westeros, P.D. and see how they solve crimes. And the RC crew puts Bitch Pudding on Love Island to see what kind of match she will find.",
@@ -5481,7 +5583,7 @@
         "launch_date": 1644210000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921516552-RobotChicken_1104_MayCauseTheExactThingYoureTakingThisToAvoid.png",
         "id": "AXun8YqSUQa40cfnRR4p",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1650599940,
@@ -5772,7 +5874,7 @@
         "launch_date": 1647230400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_21921145201-RobotChicken_1109_MayCauseTheNeedForSpeed.png",
         "id": "AXvz4CV74Xbjep71f6G_",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1650599940,
