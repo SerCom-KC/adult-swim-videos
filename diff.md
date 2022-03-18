@@ -2,251 +2,200 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 18, 2022 at 00:00:29 EDT_
+_Last Update: March 18, 2022 at 00:30:26 EDT_
 ## Video added
 ### Summary
-2165429 The Shivering Truth: 1  
-### 2222977
-**The Shivering Truth S02E03 - Nesslessness**  
-TV-MA-V 🔓 11:14  
+581006 American Dad: 3  
+2003422 Bob's Burgers: 2  
+798427 Check It Out! with Dr. Steve Brule: 1  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+2132025 The Jellies: 1  
+547867 Tom Goes To The Mayor: 1  
+691917 Xavier: Renegade Angel: 1  
+### 2186650
+**American Dad S14E01 - Fantasy Baseball**  
+TV-14-DLSV 🔒 21:02  
+⌛ March 24, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/fantasy-baseball  
+seriesid=`581006` titleid=`2186650` id=`AWjyVXZRAScUIg8XxdOH` mediaid=`596ffacb60795401af5fffdf6d1a3213ee6bb519`  
+_A CIA agent will do anything to protect his homeland and family._  
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg" height="144px" /></a>
+### 2186651
+**American Dad S14E02 - I Am The Jeans: The Gina Lavetti Story**  
+TV-14-DLV 🔒 21:02  
+⌛ March 24, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/i-am-the-jeans-the-gina-lavetti-story  
+seriesid=`581006` titleid=`2186651` id=`AWjyUKXnHl5gR6828yeL` mediaid=`a295465726db5a96b4c3e6f3ce151fbf0a9539b1`  
+_A CIA agent will do anything to protect his homeland and family._  
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg" height="144px" /></a>
+### 2069575
+**American Dad S13E22 - The Future Is Borax**  
+TV-14-DLSV 🔒 21:03  
+⌛ March 24, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-future-is-borax  
+seriesid=`581006` titleid=`2069575` id=`AWqX3a3lCorLtcgflqRB` mediaid=`d200111469c32e4a3aaca740b27819c842baadbf`  
+_While trying to rekindle their marriage, Stan and Francine get trapped on a hot air balloon. The rest of the family wins a jingle writing contest._  
+<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg" height="144px" /></a>
+### 2003520
+**Bob's Burgers S03E09 - Bob Rest Ye Merry Gentle-Mannequins**  
+TV-14 🔒 21:34  
+⌛ March 24, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/bob-rest-ye-merry-gentle-mannequins  
+seriesid=`2003422` titleid=`2003520` id=`rb0V_DCfQ56EGAfl6B9Fkg` mediaid=`dff26d7752896c519bd34b3435d7c2deb8fdd4b9`  
+_Bob inherits a storage unit, and the whole family imagines it's filled with treasures. Instead, they find a man named Chet living inside. Linda, feeling the holiday spirit, persuades Bob to invite Chet to stay at the restaurant. It's discovered that this stranger, who claims he was once a mannequin, has a gift for intricate and living window displays. With the restaurant decked out in holiday cheer, the Christmas spirit is in the air._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg" height="144px" /></a>
+### 2003521
+**Bob's Burgers S03E10 - Mother Daughter Laser Razor**  
+TV-PG 🔒 21:30  
+⌛ March 24, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/mother-daughter-laser-razor  
+seriesid=`2003422` titleid=`2003521` id=`RNMHcG_NQnaimkMIInNOHA` mediaid=`ec0c202d5a8f2ae074e11c7fb693c3ecec6e033a`  
+_Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg" height="144px" /></a>
+### 887732
+**Check It Out! with Dr. Steve Brule S02E05 - Animals**  
+TV-14-DLS 🔓 10:45  
 ⌛ April 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-shivering-truth/nesslessness  
-seriesid=`2165429` titleid=`2222977` id=`AXHqdnRIRs3h4hI_X3ZU` mediaid=`5e0bee245bc674cf14e4e9ea0cb011aaae9b9e35`  
-_Time flies when you're demoralizing your children._  
-<a href="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049200-TheShiveringTruth_203_dup-20200214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049200-TheShiveringTruth_203_dup-20200214.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/animals  
+seriesid=`798427` titleid=`887732` id=`qV1cFS1TSq259fUviJPYiA` mediaid=`3c77a6f93c3954ced7b758dd89567bde600197fb`  
+_Dr. Steve teaches us about animals. Big announcement from Toad's and Meyer's Super Foods._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032166135-checkitout_205_air.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032166135-checkitout_205_air.jpg" height="144px" /></a>
+### 437699
+**Futurama S03E06 - Bendless Love**  
+TV-PG-L 🔒 23:21  
+⌛ March 24, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/bendless-love  
+seriesid=`437532` titleid=`437699` id=`AX98C5ic208s7zyYUMTv` mediaid=`9788d074eba7ca596f6c42322af9e3d033e13c65`  
+_Bender meets a charming fembot in the Bending Factory when Farnsworth sends him there for rehabilitation._  
+<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171417144-Futurama_035_BendlessLove.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171417144-Futurama_035_BendlessLove.png" height="144px" /></a>
+### 731525
+**King of the Hill S09E13 - Gone with the Windstorm**  
+TV-PG-DL 🔒 23:51  
+⌛ March 24, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/gone-with-the-windstorm  
+seriesid=`629835` titleid=`731525` id=`BNlQW7S3Q5Gwr7lta8kK1Q` mediaid=`111bfbe41b85db6ca14398d2b5105b05354051c9`  
+_When the station manager hires a new weatherman to replace Nancy after she blows an important forecast, Peggy convinces Nancy that covering a dangerous wildfire is the only way to win back her job; Hank helps Bobby deter a bully who's obsessed with scaring people._  
+<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171413311-KingOfTheHill_908_GoneWithTheWindstorm.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171413311-KingOfTheHill_908_GoneWithTheWindstorm.png" height="144px" /></a>
+### 2191414
+**The Jellies S02E03 - These Nuts**  
+TV-14-DLV 🔓 11:18  
+⌛ April 21, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-jellies/these-nuts  
+seriesid=`2132025` titleid=`2191414` id=`AWmWYXMCHl5gR6828y3c` mediaid=`2de0c2d0d89791394553c12fb6c03816da5466a4`  
+_Trouble looms as the city of Walla Walla is gentrified by peanuts._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862418160317.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155862418160317.jpg" height="144px" /></a>
+### 615367
+**Tom Goes To The Mayor S01E12 - Gibbons**  
+TV-14 🔓 11:14  
+⌛ April 21, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/gibbons  
+seriesid=`547867` titleid=`615367` id=`EgFmxf6bTm-iibNe7SRD_A` mediaid=`92a954de95fa2c766e2a53dd469be4ebe320f954`  
+_Tom's annoying old friend Gibbons stops into Jefferton to help Tom at the Friendship Expo.  Special Guest: Brian Posehn._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952352-tgttm_012.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952352-tgttm_012.jpg" height="144px" /></a>
+### 693204
+**Xavier: Renegade Angel S01E09 - Signs From Godrilla**  
+TV-MA-V 🔓 11:30  
+⌛ April 21, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/xavier-renegade-angel/signs-from-godrilla  
+seriesid=`691917` titleid=`693204` id=`9ZXoLJHuSfKCMsLpvzj3Mw` mediaid=`829d912e5a3b1b8cdc219bfa659978ba468d39f4`  
+_Xavier must choose betwixt thy heart and thine mind._  
+<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141729456-xavier_109.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141729456-xavier_109.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2165429 The Shivering Truth: 1  
-581268 Squidbillies: 28  
-### 2222980
-**The Shivering Truth S02E06 - Holeways**  
-TV-MA-SV 🔒 11:15  
+2003422 Bob's Burgers: 2  
+2132025 The Jellies: 1  
+437532 Futurama: 1  
+547867 Tom Goes To The Mayor: 1  
+581006 American Dad: 3  
+629835 King of the Hill: 1  
+691917 Xavier: Renegade Angel: 1  
+798427 Check It Out! with Dr. Steve Brule: 1  
+### 2003443
+**Bob's Burgers S02E08 - Bad Tina**  
+TV-14 🔒 21:29  
 ⌛ March 17, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-shivering-truth/holeways  
-seriesid=`2165429` titleid=`2222980` id=`AXKkTkr3C8QgH-t19Jns` mediaid=`6776d1d0039272d5d9df9a3548c691fc47d43527`  
-_Every father is mother to a tunnel inside us, leading them away. [Note: Prior to viewing this, you will want to install a restroom in your pants. Because what you see might make you need to use the restroom right into a toilet.]_  
-<a href="https://media.cdn.adultswim.com/uploads/20200615/thumbnails/2_20615112592-TheShiveringTruth_206_dup-20200303.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200615/thumbnails/2_20615112592-TheShiveringTruth_206_dup-20200303.jpg" height="144px" /></a>
-### 706642
-**Squidbillies S03E07 - The Good One**  
-TV-MA 🔒 11:09  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-good-one  
-seriesid=`581268` titleid=`706642` id=`3EuToyv0SeGT45t_OYzJnQ` mediaid=`b54650312001046610b914f68ccc05268504c903`  
-_Lil's disregard for birth control provides a lifelong friend for Early._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg" height="144px" /></a>
-### 659966
-**Squidbillies S02E12 - Survival Of The Dumbest**  
-TV-14-LV 🔒 10:56  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/survival-of-the-dumbest  
-seriesid=`581268` titleid=`659966` id=`7km6NbkbTN2ekdbGRbfzEw` mediaid=`13b45342a07c382e839bea2227635614d92011ec`  
-_Early is indifferent to Rusty's search for truth._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111753-squidbillies_018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111753-squidbillies_018.jpg" height="144px" /></a>
-### 758311
-**Squidbillies S04E04 - Anabolic-holic**  
-TV-MA 🔒 11:34  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/anabolic-holic  
-seriesid=`581268` titleid=`758311` id=`8qXyBYM5SNaECIJazg8uAA` mediaid=`b5b7c47a75b4840c5ec241d124896234f1dc031f`  
-_Rusty discovers that steroids have no negative repercussions._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131219165-squidbillies_041_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131219165-squidbillies_041_bim.jpg" height="144px" /></a>
-### 702539
-**Squidbillies S03E01 - Webnecks**  
-TV-14-LV 🔒 11:47  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/webnecks  
-seriesid=`581268` titleid=`702539` id=`DazsHjdvSA-UmPDKt4nsyQ` mediaid=`da8f7a629a3f8a4b5b8d8db067780fa15af954a6`  
-_Rusty opens up a world of digital wonder when he mashes buttons._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131118138-squidbillies_021_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131118138-squidbillies_021_bim.jpg" height="144px" /></a>
-### 659968
-**Squidbillies S02E14 - Rebel Without A Claus**  
-TV-MA 🔒 11:18  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/rebel-without-a-claus  
-seriesid=`581268` titleid=`659968` id=`E4tFDomwRLmLWwgp-1KQbg` mediaid=`eaef2d4fe413bf599c98ceb4f1bcb0c20455cd42`  
-_Early ruins Christmas._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131117471-squidbillies_020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131117471-squidbillies_020.jpg" height="144px" /></a>
-### 654430
-**Squidbillies S02E09 - Bubba Trubba**  
-TV-14-LV 🔒 11:29  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/bubba-trubba  
-seriesid=`581268` titleid=`654430` id=`H1jZSvlvQc26Eis3_qFJZg` mediaid=`aa8887ffe16275ba19c66805bc3f257d088946b8`  
-_Early learns a valuable lesson about the downside of mind control._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111626-squidbillies_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111626-squidbillies_014.jpg" height="144px" /></a>
-### 712670
-**Squidbillies S03E10 - The Appalachian Mud Squid: Darwin's Dilemma**  
-TV-MA 🔒 11:23  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-appalachian-mud-squid-darwins-dilemma  
-seriesid=`581268` titleid=`712670` id=`I3QX3bNVS-6PDSFyMM1X3w` mediaid=`614a422967f597aa736449b2535a5c7b294da9ce`  
-_A study of the migrations and libations of the ignorant redneck land squid._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131134124-squidbillies_030_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131134124-squidbillies_030_bim.jpg" height="144px" /></a>
-### 758318
-**Squidbillies S04E08 - God's Bro**  
-TV-MA 🔒 11:14  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/gods-bro  
-seriesid=`581268` titleid=`758318` id=`IPyoBm48Q16H5MTGMlCjmQ` mediaid=`17ff5579f899cdc830ff27e1c50b53024db65ee8`  
-_The Cuylers slip the surly bonds of earth and touch the face of God's Bro._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413122188-squidbillies_048_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413122188-squidbillies_048_bim.jpg" height="144px" /></a>
-### 655943
-**Squidbillies S02E11 - Terminus Trouble**  
-TV-14-DLV 🔒 11:07  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/terminus-trouble  
-seriesid=`581268` titleid=`655943` id=`O77O19BmTImD3Y_32OVrow` mediaid=`954739fe88f0e1d84a16f4686cb4b927d6a1eccd`  
-_Atlanta, home of several location shots used in Six Pack, starring Kenny Rogers._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131116446-squidbillies_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131116446-squidbillies_017.jpg" height="144px" /></a>
-### 718762
-**Squidbillies S03E17 - The Okaleechee Dam Jam**  
-TV-MA 🔒 11:45  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-okaleechee-dam-jam  
-seriesid=`581268` titleid=`718762` id=`PPYlQVWgThyqBgzUCLrD3w` mediaid=`1b54421cd2b1b65d9ce2fc8974a2371367ab08a6`  
-_Drought is a disease. David Allan Coe is the cure._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131156462-squidbillies_037_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131156462-squidbillies_037_bim.jpg" height="144px" /></a>
-### 758320
-**Squidbillies S04E10 - Not Without My Cash Cow!**  
-TV-MA 🔒 11:26  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/not-without-my-cash-cow  
-seriesid=`581268` titleid=`758320` id=`QW3ug_u6Q3eMk61EKNNKOQ` mediaid=`a3257b248b8201184d175dac7df40100a2b38539`  
-_When the media sensationalizes his son's disappearance, Early finds the coverage to be sensational._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221598-squidbillies_050_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221598-squidbillies_050_bim.jpg" height="144px" /></a>
-### 654429
-**Squidbillies S02E06 - Meth O.D. to My Madness**  
-TV-14-DLV 🔒 11:31  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/meth-o-d-to-my-madness  
-seriesid=`581268` titleid=`654429` id=`QrxUtwB2SuySaNtTVOKvGw` mediaid=`e863115ef596f5d348d6c4afc9c38e9be7ab883f`  
-_Early discovers that his magic beans are far from magic._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111562-squidbillies_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111562-squidbillies_013.jpg" height="144px" /></a>
-### 706643
-**Squidbillies S03E08 - Sharif**  
-TV-14-LV 🔒 11:15  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/sharif  
-seriesid=`581268` titleid=`706643` id=`TtIXmsBbTJ26gX-uo3fDXQ` mediaid=`3a7e083cd1e9dc98225a47a36c37dc16fd3a6ce5`  
-_Smelling youthful and sexy comes at a heavy price._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131133162-squidbillies_028_bim_X4FW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131133162-squidbillies_028_bim_X4FW.jpg" height="144px" /></a>
-### 758312
-**Squidbillies S04E02 - The Liar, the Bitch and the BoredRube**  
+https://www.adultswim.com/videos/bobs-burgers/bad-tina  
+seriesid=`2003422` titleid=`2003443` id=`-c404yM4SMCfjTvgiE3KHw` mediaid=`99e3c5b27a452c81dfa68c7eb7df9f26e6e535ad`  
+_Tina starts hanging out with bad girl Tammy in an effort to get closer to Jimmy Junior._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216329440819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216329440819.jpg" height="144px" /></a>
+### 2003444
+**Bob's Burgers S02E09 - Beefsquatch**  
+TV-14 🔒 21:32  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/beefsquatch  
+seriesid=`2003422` titleid=`2003444` id=`lnvX70L6QRqXFM7gA-gnyg` mediaid=`d834c8e03f201daba9dac1c65ec593aa2ba1baac`  
+_Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg" height="144px" /></a>
+### 2132028
+**The Jellies S01E02 - Ray's Perfect Date**  
+TV-14-DLSV 🔒 10:48  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-jellies/rays-perfect-date  
+seriesid=`2132025` titleid=`2132028` id=`1_un4iM2RiqM5exbg9OjQQ` mediaid=`f78154b03797fb79ffaa618b2b34d27714fceb33`  
+_Ray can't seem to get a date for the prom so Cornell goes to enormous lengths to help a friend out._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351631420-jellies_103_air_cid-390PP.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351631420-jellies_103_air_cid-390PP.jpg" height="144px" /></a>
+### 437695
+**Futurama S03E03 - The Cryonic Woman**  
+TV-PG-DV 🔒 23:18  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/the-cryonic-woman  
+seriesid=`437532` titleid=`437695` id=`AX9XW8sQ_0O4w1rD3RyJ` mediaid=`cb659447664c41f340bc669e3ffbc80e8b315f7e`  
+_Fry and Bender's behavior causes all the Planet Express crewmen to lose their jobs._  
+<a href="https://media.cdn.adultswim.com/uploads/20220311/thumbnails/2_22311135329-Cryonic.png"><img src="https://media.cdn.adultswim.com/uploads/20220311/thumbnails/2_22311135329-Cryonic.png" height="144px" /></a>
+### 639408
+**Tom Goes To The Mayor S02E12 - Joy's Ex**  
+TV-14 🔒 11:38  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/joys-ex  
+seriesid=`547867` titleid=`639408` id=`Kh0vlkjmSwibNL674hrPCA` mediaid=`c4ea1184e042d25786f2b30e9ff0f6bc9b18bfe9`  
+_The Mayor and Tom spend a weekend at the Jefferton Castle while another one of Joy's ex-husbands interferes with Tom's life._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117957169-tgttm_025.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117957169-tgttm_025.jpg" height="144px" /></a>
+### 2069558
+**American Dad S13E05 - (You Gotta) Strike for Your Right**  
+TV-14-DLSV 🔒 21:02  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/you-gotta-strike-for-your-right  
+seriesid=`581006` titleid=`2069558` id=`AWBGCJbQwdpKFAKSb0FQ` mediaid=`1de57ad7b65fa747c811f1d1bfc0ae638219da07`  
+_Hayley witnesses harsh working conditions at the CIA and encourages action._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg" height="144px" /></a>
+### 2069560
+**American Dad S13E07 - Death by Dinner Party**  
+TV-14-DLV 🔒 21:03  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/death-by-dinner-party  
+seriesid=`581006` titleid=`2069560` id=`AWHnfcH0NWyh42wYnlIQ` mediaid=`3b8b5bcf8d34b1784b9bb91cce36aa62ccd880e9`  
+_Francine's dinner party goes awry when the mysterious Dinner Party Killer threatens it and the family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg" height="144px" /></a>
+### 2069559
+**American Dad S13E06 - Klaustastrophe.tv**  
+TV-14-DLSV 🔒 21:02  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/klaustastrophe-tv  
+seriesid=`581006` titleid=`2069559` id=`AWHnfmza0KIGIdXCKzuM` mediaid=`b097c66fe3a817effdd244ffc3182fb7cbeb1ccf`  
+_Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg" height="144px" /></a>
+### 731520
+**King of the Hill S09E08 - Mutual of Omabwah**  
+TV-PG-L 🔓 23:55  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/mutual-of-omabwah  
+seriesid=`629835` titleid=`731520` id=`hhuxXUeSSDKGeBYxUOoY1A` mediaid=`edb4c4b24f4729a93a7494cd5059ac6a687bd863`  
+_Hank realizes he doesn't have any home owner's insurance; Dale realizes people are willing to pay money to be stung by bees; Bill and Boomhauer discover the pleasures of a deep fryer; Peggy and Luanne get stuck at a highway rest stop with nothing to eat._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247536312519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247536312519.jpg" height="144px" /></a>
+### 747219
+**Xavier: Renegade Angel S02E09 - Damnesia You**  
 TV-MA 🔒 11:19  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-liar-the-bitch-and-the-bored-rube  
-seriesid=`581268` titleid=`758312` id=`W6SP34NKRmmPkRy6X9v5nQ` mediaid=`2e0e78f941aee9ed450a03a457bcf63927109d43`  
-_Books are a window to an amazing new world, and that's why they're wrong._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131218349-squidbillies_042_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131218349-squidbillies_042_bim.jpg" height="144px" /></a>
-### 758316
-**Squidbillies S04E07 - Atone Deaf**  
-TV-14-SV 🔒 11:14  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/atone-deaf  
-seriesid=`581268` titleid=`758316` id=`WkSdupxCRh28JLhNG9Lppg` mediaid=`918bc240fade59c03885f9e0448a8d3a0ae5f622`  
-_Early learns to deal with rage by punching it in the face._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131220271-squidbillies_046_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131220271-squidbillies_046_bim.jpg" height="144px" /></a>
-### 659967
-**Squidbillies S02E13 - A Sober Sunday**  
-TV-14-LV 🔒 11:20  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/a-sober-sunday  
-seriesid=`581268` titleid=`659967` id=`Z0RnxhSXS6K5rOt0W8eCpA` mediaid=`f40679c28bdd20a0c0dd91f255d72ecd6d5a39ce`  
-_Early circumvents state law._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131117249-squidbillies_019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131117249-squidbillies_019.jpg" height="144px" /></a>
-### 702540
-**Squidbillies S03E02 - Beast Implants**  
-TV-14-DLV 🔒 11:35  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/beast-implants  
-seriesid=`581268` titleid=`702540` id=`ZQqbghgCT4uPgG24MjjtRA` mediaid=`93fdcc8e75ee600eadaf85a9c185370f7684a251`  
-_Granny indulges in the ultimate spa experience._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131118410-squidbillies_022_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131118410-squidbillies_022_bim.jpg" height="144px" /></a>
-### 714674
-**Squidbillies S03E13 - Armageddon It On!**  
-TV-14-DLV 🔒 11:17  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/armageddon-it-on  
-seriesid=`581268` titleid=`714674` id=`cmnxjk8jTlCKp3eYWrzHOQ` mediaid=`fa99075538dce4fe3dd1927b7f5daa53c8c058af`  
-_The greatest story ever told. About cartoon squids._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131135230-squidbillies_033_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131135230-squidbillies_033_bim.jpg" height="144px" /></a>
-### 706483
-**Squidbillies S03E06 - Earth Worst**  
-TV-14-DLSV 🔒 10:56  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/earth-worst  
-seriesid=`581268` titleid=`706483` id=`fl6qfje7TSmMzQjx2TdvCw` mediaid=`70c47df58e5186a0492ab5d0499723ac13c04e5c`  
-_The squids fail to learn a valuable lesson about conservation._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113264-squidbillies_026_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113264-squidbillies_026_bim.jpg" height="144px" /></a>
-### 718761
-**Squidbillies S03E16 - An Officer and a Dental Dam**  
-TV-14-DLSV 🔒 11:21  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/an-officer-and-a-dental-dam  
-seriesid=`581268` titleid=`718761` id=`fm1dTZTaQceP8J7z7_jC6w` mediaid=`7d64649a80da1193af6fcab4d561c2cf6452075c`  
-_Granny's on the prowl for love, Confederate style._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413115651-squidbillies_036_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413115651-squidbillies_036_bim.jpg" height="144px" /></a>
-### 714676
-**Squidbillies S03E15 - Flight of the Deep Fried Pine Booby**  
-TV-14-DLV 🔒 11:39  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/flight-of-the-deep-fried-pine-booby  
-seriesid=`581268` titleid=`714676` id=`gEatqjKlT8mpiI4bAOVSoQ` mediaid=`73f8eef4ba290177091c1fd85f1b9566e8617d56`  
-_The Squids stalk Georgia's rarest bird because the TV box told them to._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131136129-squidbillies_035_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131136129-squidbillies_035_bim.jpg" height="144px" /></a>
-### 651237
-**Squidbillies S02E04 - Swayze Crazy**  
-TV-14-DLV 🔒 11:24  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/swayze-crazy  
-seriesid=`581268` titleid=`651237` id=`i2vONMkHRPS5TJ4agN3xGQ` mediaid=`d496f54c4cee60d9465814deb5592081b0117e89`  
-_The squids meet a legless drifter. Not featuring Patrick Swayze._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg" height="144px" /></a>
-### 714221
-**Squidbillies S03E11 - The Unbearable Heatness of Fire**  
-TV-14-LV 🔒 11:40  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-unbearable-heatness-of-fire  
-seriesid=`581268` titleid=`714221` id=`iLz9lc4fQNSAeHmiQ1--Ng` mediaid=`a57564f5d9f253cc9594581c55791dd037b7f434`  
-_Sheriff investigates the origins of fire, and its role in the burning of the squids' house._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131134396-squidbillies_031_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131134396-squidbillies_031_bim.jpg" height="144px" /></a>
-### 705872
-**Squidbillies S03E04 - Wing Nut**  
-TV-MA 🔒 11:15  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/wing-nut  
-seriesid=`581268` titleid=`705872` id=`j2Fp7s_ES0Wdgcokaca-jA` mediaid=`7311035ae86dd630707fcebb0f6e0b9b17e7803e`  
-_Early's DNA is finally put to good use._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413112115-squidbillies_024_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413112115-squidbillies_024_bim.jpg" height="144px" /></a>
-### 653889
-**Squidbillies S02E07 - The Tiniest Princess**  
-TV-MA 🔒 11:14  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-tiniest-princess  
-seriesid=`581268` titleid=`653889` id=`l3B5NoudQH2F-N11OhI6rA` mediaid=`90788f40bdc06ab0340c6ea9bb8305f89dc65145`  
-_A giant ant-man ruins Halloween._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131115240-squidbillies_012.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131115240-squidbillies_012.jpg" height="144px" /></a>
-### 704390
-**Squidbillies S03E03 - Tween Steam**  
-TV-14-DL 🔒 11:14  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/tween-steam  
-seriesid=`581268` titleid=`704390` id=`tCANd52hRouoczYo0UcVug` mediaid=`8741a3215bafd28e002babb8b60d4d54481768a8`  
-_Perverts need love. Rusty delivers._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/tween-steam/squids_ep023_004.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tween-steam/squids_ep023_004.jpg" height="144px" /></a>
-### 758314
-**Squidbillies S04E01 - Lerm**  
-TV-14-V 🔒 11:09  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/lerm  
-seriesid=`581268` titleid=`758314` id=`txTQsGAWQreprM6BRaXiqA` mediaid=`a8f0bc30131a83c598b7f2029ddd7b2e6285fc95`  
-_An accident leads to rage leads to friendship leads to love leads to murder leads to political success._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413121865-squidbillies_044_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413121865-squidbillies_044_bim.jpg" height="144px" /></a>
-### 654431
-**Squidbillies S02E08 - Asses to Ashes, Sluts to Dust**  
-TV-MA 🔒 11:14  
-⌛ March 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/asses-to-ashes-sluts-to-dust  
-seriesid=`581268` titleid=`654431` id=`xE3wDGOHS4OFhYN8gTKJCw` mediaid=`2d68f47cefa5cb0fe1ce2788ba7c12a80ab5d92c`  
-_Granny cheats death for another week._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131115419-squidbillies_015.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131115419-squidbillies_015.jpg" height="144px" /></a>
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/xavier-renegade-angel/damnesia-you  
+seriesid=`691917` titleid=`747219` id=`CmUiKiZ0Rr2zD5z64Cx5NQ` mediaid=`3552cb8e04f3d57dd206ce8e92a962a562273cc2`  
+_Poor, poor Xavier awakes with his fate in the goo drenched hands of the grandest menace of all time: You._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/xavier_cc_209_pt2-04.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/xavier_cc_209_pt2-04.jpg" height="144px" /></a>
+### 798432
+**Check It Out! with Dr. Steve Brule S01E01 - Food**  
+TV-14 🔓 11:03  
+⌛ March 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/food  
+seriesid=`798427` titleid=`798432` id=`zRin3rGKSVKk_7sTrQR9tg` mediaid=`d234c8e2c3cad66d8d24f4a1bab66bf9aff1e903`  
+_Dr. Steve learns about different kinds of food, and makes a special friend._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032144917-checkitout_105_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032144917-checkitout_105_bim.jpg" height="144px" /></a>
