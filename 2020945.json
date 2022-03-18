@@ -524,7 +524,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1647575940,
         "tms_id": "EP019059960068",
         "description": "On the run and running out of time, the Scouts must entrust their lives to others if they plan on surviving.",
@@ -2668,7 +2668,7 @@
         "cma_id": "2117209"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1647575940,
         "tms_id": "EP019059960060",
@@ -3265,7 +3265,7 @@
         "cma_id": "2117215"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1647575940,
         "tms_id": "EP019059960013",
