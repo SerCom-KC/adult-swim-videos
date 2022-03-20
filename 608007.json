@@ -1,5 +1,56 @@
 [
     {
+        "auth_expiration_date": 1649582940,
+        "tms_id": "EP035179100017",
+        "description": "With their backs against the wall, the Straw Hats are forced to take King Neptune and his men hostage. On the other side of the palace, Luffy and the Mermaid Princess make plans to visit the Sea Forest!",
+        "title_suggest": {
+            "input": [
+                "It's an Emergency! The Ryugu Palace Is Occupied!",
+                "an Emergency! The Ryugu Palace Is Occupied!",
+                "Emergency! The Ryugu Palace Is Occupied!",
+                "The Ryugu Palace Is Occupied!",
+                "Ryugu Palace Is Occupied!",
+                "Palace Is Occupied!",
+                "Is Occupied!",
+                "Occupied!"
+            ]
+        },
+        "title": "It's an Emergency! The Ryugu Palace Is Occupied!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.4311,
+        "episode_number": "17",
+        "original_air_date": 1647756000,
+        "auth_launch_date": 1647768600,
+        "clip_order": null,
+        "airing_id": "RADS1003162200079833",
+        "media_id": "68c09f1c8aa812386df397c35508aeca4a897ca3",
+        "modified": 1647636835,
+        "slug": "its-an-emergency-the-ryugu-palace-is-occupied",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171428174-OnePiece_533_ItsAnEmergencyTheRyuguPalaceIsOccupied.png",
+        "created": 1647452315,
+        "title_id": "2363801",
+        "season_number": "15",
+        "tv_rating": "tv-pg",
+        "published": 1647636835,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171428174-OnePiece_533_ItsAnEmergencyTheRyuguPalaceIsOccupied.png",
+        "id": "AX-Tz17C208s7zyYUMVf",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1648978140,
         "tms_id": "EP035179100002",
         "description": "Luffy picks a fight with himself, Chopper falls in with a dubious crowd of imitation pirates, and Zorro causes a commotion when he falls asleep on the wrong ship!",
@@ -572,7 +623,7 @@
         "launch_date": 1647768600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231429396-OnePiece_527_LandingAtTheFishManIslandBeautifulMermaids.png",
         "id": "AX8jXeJv_0O4w1rD3Ruf",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1647770340,
