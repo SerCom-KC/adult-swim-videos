@@ -2,26 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 21, 2022 at 14:00:28 EDT_
+_Last Update: March 21, 2022 at 16:00:29 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2194549 Gemusetto: 1  
-2268280 Yashahime: Princess Half-Demon: 1  
-### 2241830
-**Gemusetto S02E05 - Episode Five: Db6**  
-TV-MA 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-five-db-6  
-seriesid=`2194549` titleid=`2241830` id=`AXW5UK4TLyLQBOXK_Pg4` mediaid=`aa736f072afa3c48423ec8ddda54b5dc28af319b`  
-_To reach the Center Of All Death, our heroes board a ferry that's attempting to navigate multiple mythological rivers. Who is more dangerous- some of the dead passengers, or the enigmatic Finnish psychopomp boat captain, Tytti?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111734488-GSMP_205_dup-20201103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111734488-GSMP_205_dup-20201103.jpg" height="144px" /></a>
-### 2268291
-**Yashahime: Princess Half-Demon S01E11 - Curse of the Man-Eating Pond**  
-TV-14-L 🔒 21:54  
-⌛ March 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/yashahime-princess-half-demon/curse-of-the-man-eating-pond  
-seriesid=`2268280` titleid=`2268291` id=`AXvK6i1b4Xbjep71f6G2` mediaid=`14d699f24c53da7e46cb2721421024cef680875a`  
-_Something wicked lurks in the Man-Eating Pond, devouring any human, beast or bird that comes near. Towa and Setsuna meet Hikomaru and Chiyo, siblings who lost their parents to the pond._  
-<a href="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101344184-YashahimePrincessHalfDemon_111_CurseOfTheManEatingPond.png"><img src="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101344184-YashahimePrincessHalfDemon_111_CurseOfTheManEatingPond.png" height="144px" /></a>
+812206 Naruto: Shippuden: 2  
+### 2177794
+**Naruto: Shippuden S07E17 - Those Who Dance in the Shadows**  
+TV-PG-LV 🔒 00:00  
+⌛ March 27, 2022 at 05:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/those-who-dance-in-the-shadows  
+seriesid=`812206` titleid=`2177794` id=`AX2k_k1UUQa40cfnRS7U` mediaid=`ba9cf317247873809137a8d241d2ee568f143b78`  
+_Shikaku outlines his final strategy, in which Nine Tails will send its chakra to increase everyone's strength. United in their cause, Naruto and the Allied Shinobi set out to take on Ten Tails._  
+<a href="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png"><img src="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png" height="144px" /></a>
+### 2177784
+**Naruto: Shippuden S07E07 - Kakashi: Shadow of the ANBU Black Ops - The Targeted Sharingan**  
+TV-PG-V 🔒 21:52  
+⌛ March 27, 2022 at 04:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-the-targeted-sharingan  
+seriesid=`812206` titleid=`2177784` id=`AXtk0PFmeTntnGIjub1M` mediaid=`19e82562a1693b9621c0512acf258751829f18e0`  
+_Danzo orders Tenzo to kill Kakashi and take his Sharingan. Reluctant at first, Tenzo decides to carry out his orders._  
+<a href="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271057537-NarutoShippuden_355_KakashiShadowOfTheANBUBlackOpsTheTargetedSharingan.png"><img src="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271057537-NarutoShippuden_355_KakashiShadowOfTheANBUBlackOpsTheTargetedSharingan.png" height="144px" /></a>
