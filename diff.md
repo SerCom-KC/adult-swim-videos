@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 21, 2022 at 16:00:29 EDT_
+_Last Update: March 21, 2022 at 23:00:32 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-812206 Naruto: Shippuden: 2  
-### 2177794
-**Naruto: Shippuden S07E17 - Those Who Dance in the Shadows**  
-TV-PG-LV 🔒 00:00  
-⌛ March 27, 2022 at 05:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/those-who-dance-in-the-shadows  
-seriesid=`812206` titleid=`2177794` id=`AX2k_k1UUQa40cfnRS7U` mediaid=`ba9cf317247873809137a8d241d2ee568f143b78`  
-_Shikaku outlines his final strategy, in which Nine Tails will send its chakra to increase everyone's strength. United in their cause, Naruto and the Allied Shinobi set out to take on Ten Tails._  
-<a href="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png"><img src="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png" height="144px" /></a>
-### 2177784
-**Naruto: Shippuden S07E07 - Kakashi: Shadow of the ANBU Black Ops - The Targeted Sharingan**  
-TV-PG-V 🔒 21:52  
-⌛ March 27, 2022 at 04:59:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-the-targeted-sharingan  
-seriesid=`812206` titleid=`2177784` id=`AXtk0PFmeTntnGIjub1M` mediaid=`19e82562a1693b9621c0512acf258751829f18e0`  
-_Danzo orders Tenzo to kill Kakashi and take his Sharingan. Reluctant at first, Tenzo decides to carry out his orders._  
-<a href="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271057537-NarutoShippuden_355_KakashiShadowOfTheANBUBlackOpsTheTargetedSharingan.png"><img src="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271057537-NarutoShippuden_355_KakashiShadowOfTheANBUBlackOpsTheTargetedSharingan.png" height="144px" /></a>
+2161118 Joe Pera Talks With You: 1  
+### 2214309
+**Joe Pera Talks With You S02E04 - Joe Pera Guides You Through the Dark**  
+TV-14-L 🔒 11:01  
+⌛ March 21, 2022 at 22:59:00 EDT  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-guides-you-through-the-dark  
+seriesid=`2161118` titleid=`2214309` id=`AW5GpT0_1YiBSfg0KYRx` mediaid=`b9611afe2dd1358363d7f425810a81178dfaab85`  
+_A teacher in Michigan's Upper Peninsula explores subject matters such as pancakes, blueberries, eggs, toast, sausage, bacon, English muffins, coffee, orange juice, maple syrup, waffles, cornbread, and strawberries._  
+<a href="https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171114207-joeperatalks_204_dup-20191021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171114207-joeperatalks_204_dup-20191021.jpg" height="144px" /></a>
