@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 22, 2022 at 06:00:29 EDT_
+_Last Update: March 22, 2022 at 07:00:28 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 812206 Naruto: Shippuden: 1  
-### 2177767
-**Naruto: Shippuden S06E55 - Izanagi and Izanami**  
+### 2177784
+**Naruto: Shippuden S07E07 - Kakashi: Shadow of the ANBU Black Ops - The Targeted Sharingan**  
 TV-PG-V 🔒 21:52  
-⌛ March 22, 2022 at 05:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/izanagi-and-izanami  
-seriesid=`812206` titleid=`2177767` id=`AXiI5cWxBH5Z6gH5aWHb` mediaid=`a4eefd7c24586be2a96eeb607da3506fb33c06b7`  
-_Itachi activates the Visual Jutsu Izanami to trap Kabuto's mind._  
-<a href="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311127397-NarutoShippuden_338_IzanagiAndIzanami.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311127397-NarutoShippuden_338_IzanagiAndIzanami.jpg" height="144px" /></a>
+⌛ March 27, 2022 at 04:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-the-targeted-sharingan  
+seriesid=`812206` titleid=`2177784` id=`AXtk0PFmeTntnGIjub1M` mediaid=`19e82562a1693b9621c0512acf258751829f18e0`  
+_Danzo orders Tenzo to kill Kakashi and take his Sharingan. Reluctant at first, Tenzo decides to carry out his orders._  
+<a href="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271057537-NarutoShippuden_355_KakashiShadowOfTheANBUBlackOpsTheTargetedSharingan.png"><img src="https://media.cdn.adultswim.com/uploads/20210827/thumbnails/2_218271057537-NarutoShippuden_355_KakashiShadowOfTheANBUBlackOpsTheTargetedSharingan.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
