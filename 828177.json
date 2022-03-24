@@ -506,7 +506,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787340,
         "auth_expiration_date": 1651118340,
         "tms_id": "EP013726210018",
@@ -700,6 +700,57 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1477924200,
+        "auth_expiration_date": 1628740740,
+        "tms_id": "EP013726210023",
+        "description": "Satan travels to the fringes of Hell to meet with some mysterious co-workers.",
+        "title_suggest": {
+            "input": [
+                "Circle Jerk MCMXCVIII",
+                "Jerk MCMXCVIII",
+                "MCMXCVIII"
+            ]
+        },
+        "expiration_date": 1651118340,
+        "title": "Circle Jerk MCMXCVIII",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 687.021,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "2",
+        "original_air_date": 1477884600,
+        "clip_order": null,
+        "auth_launch_date": 1625716800,
+        "modified": 1647670414,
+        "media_id": "eed354f0f0f3c92782d0f21421f05d2a6ba4d15e",
+        "airing_id": "RADS1003182200081007",
+        "id": "WY7jbl-wRxKqNTrxoUzaow",
+        "slug": "circle-jerk-mcmxcviii",
+        "views": 27242,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1477665771,
+        "season_number": "3",
+        "title_id": "2100302",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1647670414,
+        "first_published": 1477746620,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1648094400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/circle-jerk-mcmxcviii/yourprettyface_301_NoAdsCue_dup-20161025.jpg",
+        "cma_id": "1472367"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447787280,
         "auth_expiration_date": 1649908740,
@@ -744,56 +795,6 @@
         "launch_date": 1643864400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/cerberus/ypf_ep207_001_ahuo5230ah78skx.jpg",
         "cma_id": "1360899"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447787100,
-        "auth_expiration_date": 1648094340,
-        "tms_id": "EP013726210012",
-        "description": "The demons scramble to find true love and bust themselves outta Hell.",
-        "title_suggest": {
-            "input": [
-                "True Love Will Find You",
-                "Love Will Find You",
-                "Will Find You",
-                "Find You",
-                "You"
-            ]
-        },
-        "expiration_date": 1645073940,
-        "title": "True Love Will Find You",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 680.42,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "4",
-        "original_air_date": 1438575300,
-        "clip_order": null,
-        "auth_launch_date": 1645074000,
-        "modified": 1645842040,
-        "airing_id": "RADS1002142200071575",
-        "media_id": "0250cf49f4efd4688fe2ce7c5f64a85aa8c1b7b3",
-        "id": "_RydenH-RICZySA1lNkRwQ",
-        "slug": "true-love-will-find-you",
-        "views": 33952,
-        "created": 1436294193,
-        "season_number": "2",
-        "title_id": "2062768",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1645842040,
-        "first_published": 1438420910,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1642050000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/true-love-will-find-you/ypf_cc_206_pt1_tia78wdyis0zvq1g_1.jpg",
-        "cma_id": "1397780"
     },
     {
         "auth": true,
