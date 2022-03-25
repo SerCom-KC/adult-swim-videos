@@ -544,7 +544,7 @@
                 "Health"
             ]
         },
-        "expiration_date": 1649822340,
+        "expiration_date": 2085368400,
         "type": "episode",
         "title": "Health",
         "platforms": [
@@ -560,8 +560,8 @@
         "auth_launch_date": 1644642000,
         "clip_order": null,
         "media_id": "6b4b88b2b9ee344c9205422d8ddb6efc5f257c6b",
-        "modified": 1648161725,
-        "airing_id": "RADS1003242200081520",
+        "modified": 1648187015,
+        "airing_id": "RADS1011161800045621",
         "slug": "health",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121345532-offtheair_801_dup-20180524.jpg",
@@ -571,15 +571,15 @@
         "tv_rating": "tv-14",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1648161725,
+        "published": 1648187015,
         "tags": [],
         "collection_title": "Off The Air",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1648612800,
+        "launch_date": 1542949200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121345532-offtheair_801_dup-20180524.jpg",
         "id": "AWOsTXDmTdxzjxdCmJ6m",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": 1535466540,
@@ -2012,7 +2012,7 @@
         "original_air_date": 1474358400,
         "clip_order": null,
         "auth_launch_date": 1648612800,
-        "modified": 1648161739,
+        "modified": 1648187021,
         "airing_id": "RADS1003242200081540",
         "media_id": "463390717ce33cb3cc80787e8d09ea2527616eb9",
         "id": "tMBXNyA6Qr2Emrk9hb7FxQ",
@@ -2027,7 +2027,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1648161739,
+        "published": 1648187021,
         "first_published": 1474292285,
         "tags": [],
         "collection_title": "Off The Air",

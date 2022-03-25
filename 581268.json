@@ -4008,6 +4008,58 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447445460,
+        "auth_expiration_date": 1648612740,
+        "tms_id": "EP007008180067",
+        "rating": 5.8725553,
+        "description": "Early's parenting skills are called into question by a magical snowman.",
+        "title_suggest": {
+            "input": [
+                "Snow Daddy",
+                "Daddy"
+            ]
+        },
+        "type": "episode",
+        "title": "Snow Daddy",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 664.9591326,
+        "episode_number": "6",
+        "original_air_date": 1318823100,
+        "clip_order": null,
+        "auth_launch_date": 1642568400,
+        "modified": 1648187008,
+        "media_id": "85a09dd92d0a6d1ba96e74fe2c7e32f21c446f5b",
+        "airing_id": "RADS1001142200064090",
+        "id": "VG75RWhuSm-p4S7BiiIDZg",
+        "slug": "snow-daddy",
+        "views": 352205,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131323464-squidbillies_501_dup-20111014.jpg",
+        "created": 1402945477,
+        "title_id": "859420",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1648187008,
+        "tags": [],
+        "rating_count": 3068,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131323464-squidbillies_501_dup-20111014.jpg",
+        "cma_id": "1390115"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Jimmy Cliff covers the Squidbillies theme song. ",
