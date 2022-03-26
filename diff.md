@@ -2,26 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 26, 2022 at 00:30:30 EDT_
+_Last Update: March 26, 2022 at 04:00:28 EDT_
 ## Video added
 ### Summary
-629835 King of the Hill: 1  
-### 731531
-**King of the Hill S10E04 - Harlottown**  
-TV-PG-D 🔒 23:53  
-⌛ April 1, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/harlottown  
-seriesid=`629835` titleid=`731531` id=`1WHRPFaNTpq7aWJ9aAdufA` mediaid=`d7baea236325e8e866dadffd0952c9fc193149d5`  
-_Peggy discovers that Arlen was founded by prostitutes-causing Hank no end of embarrassment._  
-<a href="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221436133-KingOfTheHill_904_Harlottown.png"><img src="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221436133-KingOfTheHill_904_Harlottown.png" height="144px" /></a>
+2215447 Beef House: 1  
+862772 China, IL: 1  
+### 2215452
+**Beef House S01E01 - Army Buddy Brad**  
+TV-MA-LS 🔓 11:59  
+⌛ March 30, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/beef-house/army-buddy-brad  
+seriesid=`2215447` titleid=`2215452` id=`AXCDbmLEGRcVO2K2pm9X` mediaid=`6da3ff5c46cd2d65b974b6a7d389460b6be35152`  
+_As Eric prepares his greatest Easter ever, Tim's army buddy Brad visits the Beef House, causing mayhem as he sets up camp and takes control._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226163947-BeefHouse_105_dup-20200106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226163947-BeefHouse_105_dup-20200106.jpg" height="144px" /></a>
+### 2053739
+**China, IL S03E10 - Magical Pet**  
+TV-14-DLSV 🔓 45:13  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/china-il/magical-pet  
+seriesid=`862772` titleid=`2053739` id=`EOFr0c1eR-2AEy-PF1yKYQ` mediaid=`e5ac3fc17003666f9fd9dd2525916b064ee31b2f`  
+_In this one-hour musical episode, Baby Cakes wants a magical pet; Frank discovers why women find him unattractive; and Pony & Steve do horrifying things to prove to each other that they are good people._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032173146-chinail_308_dup-20150612_cut.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032173146-chinail_308_dup-20150612_cut.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-629835 King of the Hill: 1  
-### 731526
-**King of the Hill S09E14 - Bobby on Track**  
-TV-PG-L 🔒 23:54  
-⌛ March 25, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/bobby-on-track  
-seriesid=`629835` titleid=`731526` id=`8xqCw6fwRRCugbSOgDjSMw` mediaid=`a99272e8b054a791e0c7e6bb4700366a3cb28413`  
-_A track coach uses Bobby to shame good athletes when they get out of line._  
-<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171414357-KingOfTheHill_913_BobbyOnTrack.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171414357-KingOfTheHill_913_BobbyOnTrack.png" height="144px" /></a>
+No videos were removed.  
