@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 31, 2022 at 07:00:28 EDT_
+_Last Update: March 31, 2022 at 07:30:32 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 2161118 Joe Pera Talks With You: 1  
 ### 2161120
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-takes-you-to-b
 seriesid=`2161118` titleid=`2161120` id=`AWNfUZJxHAeP4-pUPfOb` mediaid=`aecc92b28c95f7c47085877cfbfd264e227b99fb`  
 _In which Joe Pera takes viewers for Saturday morning breakfast at his favorite family restaurant._  
 <a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351634588-joeperatalks_102_air_cid-3FKWK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351634588-joeperatalks_102_air_cid-3FKWK.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
