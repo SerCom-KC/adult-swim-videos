@@ -206,56 +206,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1648978140,
-        "tms_id": "EP035179100002",
-        "description": "Luffy picks a fight with himself, Chopper falls in with a dubious crowd of imitation pirates, and Zorro causes a commotion when he falls asleep on the wrong ship!",
-        "title_suggest": {
-            "input": [
-                "An Explosive Situation! Luffy vs. Fake Luffy!",
-                "Explosive Situation! Luffy vs. Fake Luffy!",
-                "Situation! Luffy vs. Fake Luffy!",
-                "Luffy vs. Fake Luffy!",
-                "vs. Fake Luffy!",
-                "Fake Luffy!",
-                "Luffy!"
-            ]
-        },
-        "title": "An Explosive Situation! Luffy vs. Fake Luffy!",
-        "expiration_date": 1645352940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-        "duration": 1332.7314,
-        "episode_number": "2",
-        "original_air_date": "1642921200",
-        "auth_launch_date": 1645353000,
-        "clip_order": null,
-        "airing_id": "RADS1002112200071060",
-        "media_id": "a1ef09bf0496d402a745026511a7f3d0f7defb79",
-        "modified": 1644994192,
-        "slug": "an-explosive-situation-luffy-vs-fake-luffy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_221201711482-OnePiece_518_AnExplosiveSituationLuffyVSFakeLuffy.png",
-        "created": 1642716721,
-        "season_number": "15",
-        "title_id": "2363786",
-        "tv_rating": "tv-pg",
-        "published": 1644994192,
-        "tags": [],
-        "collection_title": "One Piece",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1644748200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_221201711482-OnePiece_518_AnExplosiveSituationLuffyVSFakeLuffy.png",
-        "id": "AX55i_ET208s7zyYUL9t",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1649581140,
         "tms_id": "EP035179100003",
         "description": "Chopper struggles to make sense of the changes his \"friends\" have undergone in the last two years, and the Navy mobilizes in an attempt to stop the pirate posers. Will the real Straw Hats please stand up?",
@@ -988,6 +938,55 @@
         "launch_date": 1648983600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239118121-OnePiece_532_ACowardAndACrybabyThePrincessInTheHardShellTower.png",
         "id": "AX9vcESw_0O4w1rD3Ry-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1650792540,
+        "tms_id": "EP035179090021",
+        "description": "Luffy, Chopper, and Sanji are taken prisoner by a fish mob just as Vander Decken launches an attack the princess! Elsewhere, Zoro continues his battle with Hordy, and Nami hitches a ride on a mermaid to escape the crumbling palace!",
+        "title_suggest": {
+            "input": [
+                "Keep Shirahoshi Safe! Decken Close Behind!",
+                "Shirahoshi Safe! Decken Close Behind!",
+                "Safe! Decken Close Behind!",
+                "Decken Close Behind!",
+                "Close Behind!",
+                "Behind!"
+            ]
+        },
+        "title": "Keep Shirahoshi Safe! Decken Close Behind!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1346.979,
+        "episode_number": "21",
+        "original_air_date": 1648965600,
+        "auth_launch_date": 1648978200,
+        "clip_order": null,
+        "airing_id": "RADS1003282200082238",
+        "media_id": "c88b3a3668b3c645e8c120d75027a6b7306c24ea",
+        "modified": 1648916894,
+        "slug": "keep-shirahoshi-safe-decken-close-behind",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/1_22330137180-OnePiece_537_KeepShirahoshiSafeDeckenCloseBehind.png",
+        "created": 1648483843,
+        "title_id": "2363805",
+        "season_number": "15",
+        "tv_rating": "tv-pg",
+        "published": 1648916894,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330137180-OnePiece_537_KeepShirahoshiSafeDeckenCloseBehind.png",
+        "id": "AX_RSz1h_0O4w1rD3R6G",
         "auth": true
     }
 ]
