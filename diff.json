@@ -1,57 +1,63 @@
 {
-    "updated": 1648985426,
-    "added": [],
-    "removed": [
+    "updated": 1648987577,
+    "added": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1643950740,
-            "tms_id": "",
-            "description": "You know, every show has an episode like this.",
+            "auth": true,
+            "ott_launch_date": 1447443300,
+            "auth_expiration_date": 1652414399,
+            "tms_id": "EP007008180022",
+            "rating": 7.593801,
+            "description": "Granny indulges in the ultimate spa experience.",
             "title_suggest": {
                 "input": [
-                    "The Storm",
-                    "Storm"
+                    "Beast Implants",
+                    "Implants"
                 ]
             },
-            "title": "The Storm",
-            "expiration_date": 2085368400,
             "type": "episode",
+            "title": "Beast Implants",
+            "expiration_date": 1627358340,
             "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
+                "web",
+                "mobile",
+                "ott"
             ],
-            "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-            "duration": 647.08,
-            "episode_number": "6",
-            "original_air_date": 1560139200,
-            "auth_launch_date": 1640926800,
+            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+            "duration": 695.3003003,
+            "episode_number": "2",
+            "original_air_date": 1201496400,
             "clip_order": null,
-            "media_id": "a70d0c4119878d55d2bf14ed4cd4ac7abdf92788",
-            "modified": 1644537649,
-            "airing_id": "RADS1006261900003193",
-            "slug": "the-storm",
+            "auth_launch_date": 1648008000,
+            "modified": 1648987524,
+            "media_id": "93fdcc8e75ee600eadaf85a9c185370f7684a251",
+            "airing_id": "RADS1003182200080951",
+            "id": "ZQqbghgCT4uPgG24MjjtRA",
+            "slug": "beast-implants",
+            "views": 560048,
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155983921420515.jpg",
-            "created": 1553004918,
-            "season_number": "2",
-            "title_id": "2191420",
-            "tv_rating": "tv-ma-l",
-            "blacklist": [],
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131118410-squidbillies_022_bim.jpg",
+            "created": 1402945477,
+            "title_id": "702540",
+            "season_number": "3",
+            "tv_rating": "tv-14-dlv",
+            "active": true,
             "ott_expiration_date": null,
-            "published": 1644537649,
-            "tags": [],
-            "collection_title": "The Jellies",
+            "blacklist": [],
+            "published": 1648987524,
+            "tags": [
+                "squidbillies episode 22 beast implants granny animal horny"
+            ],
+            "rating_count": 2452,
+            "collection_title": "Squidbillies",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1561965300,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983921420515.jpg",
-            "id": "AWmWTncEAScUIg8XxeHF",
-            "auth": false,
-            "collection_slug": "the-jellies",
-            "collection_title_id": "2132025",
+            "launch_date": 1624334400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131118410-squidbillies_022_bim.jpg",
+            "cma_id": "1401492",
+            "collection_slug": "squidbillies",
+            "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
