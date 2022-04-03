@@ -1,6 +1,64 @@
 {
-    "updated": 1648991056,
+    "updated": 1648994537,
     "added": [
+        {
+            "auth": true,
+            "ott_launch_date": 1447445520,
+            "auth_expiration_date": 1654401599,
+            "tms_id": "EP007008180063",
+            "rating": 7.998606,
+            "description": "At his high school reunion, the Sheriff settles an old score.",
+            "title_suggest": {
+                "input": [
+                    "Class of '86",
+                    "of '86",
+                    "'86"
+                ]
+            },
+            "type": "episode",
+            "title": "Class of '86",
+            "expiration_date": 1598932799,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+            "duration": 661.2085071,
+            "episode_number": "2",
+            "original_air_date": 1316403900,
+            "clip_order": null,
+            "auth_launch_date": 1647489600,
+            "modified": 1648994470,
+            "media_id": "156304fac509c8293d493d74bcbcc5e41b80ea86",
+            "airing_id": "RADS1003122200078785",
+            "id": "yER7qQefRTKcRvquLkPDZw",
+            "slug": "class-of-86",
+            "views": 203876,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131321483-squidbillies_504_dup-20110912.jpg",
+            "created": 1402945476,
+            "title_id": "859423",
+            "season_number": "6",
+            "tv_rating": "tv-14-dlsv",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1648994470,
+            "tags": [],
+            "rating_count": 723,
+            "collection_title": "Squidbillies",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1542690000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg",
+            "cma_id": "1373644",
+            "collection_slug": "squidbillies",
+            "collection_title_id": "581268",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth_expiration_date": 1649044740,
             "tms_id": "EP031843450019",
@@ -49,6 +107,5 @@
             "collection_title_id": "2266164",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
