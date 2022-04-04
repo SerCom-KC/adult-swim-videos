@@ -516,6 +516,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1647835140,
+        "tms_id": "",
+        "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
+        "title_suggest": {
+            "input": [
+                "You Got Served",
+                "Got Served",
+                "Served"
+            ]
+        },
+        "title": "You Got Served",
+        "expiration_date": 1652068740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 675.5082,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1644814800,
+        "clip_order": null,
+        "airing_id": "RADS1003302200083654",
+        "media_id": "e492a99d0935386e7b8aa303d3728fd008c8411d",
+        "modified": 1648693666,
+        "slug": "you-got-served",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161714163-ericandre_503_dup-20200813.jpg",
+        "created": 1600290812,
+        "season_number": "5",
+        "title_id": "2230782",
+        "tv_rating": "tv-ma-l",
+        "published": 1648693666,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1649044800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161714163-ericandre_503_dup-20200813.jpg",
+        "id": "AXSYw_QbLyLQBOXK_PN9",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1646629140,
         "tms_id": "",
         "description": "Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six .Paak!",
@@ -561,53 +607,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg",
         "id": "AXSYwnpvLyLQBOXK_PN8",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1649044740,
-        "tms_id": "",
-        "description": "Eric welcomes Mercedes Javid and Brenda Song and punishes Grimes. He also gives his dead boss some ranch!",
-        "title_suggest": {
-            "input": [
-                "The A$AP Ferg Show",
-                "A$AP Ferg Show",
-                "Ferg Show",
-                "Show"
-            ]
-        },
-        "title": "The A$AP Ferg Show",
-        "expiration_date": 1646024340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.4748,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1646024400,
-        "clip_order": null,
-        "airing_id": "RADS1001212200064506",
-        "media_id": "1157ed35bd1c2f80123f87c8c3243d7a2a056430",
-        "modified": 1645802907,
-        "slug": "the-a-ap-ferg-show",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161719538-ericandre_507_dup-20200911.jpg",
-        "created": 1600290930,
-        "season_number": "5",
-        "title_id": "2230784",
-        "tv_rating": "tv-ma-lv",
-        "published": 1645802907,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1643000400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719538-ericandre_507_dup-20200911.jpg",
-        "id": "AXSYxcBTLyLQBOXK_PN_",
-        "auth": true
     },
     {
         "auth_expiration_date": 1649649540,
@@ -791,7 +790,7 @@
         "launch_date": 1646024400,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113121161-ericandre_510_dup-20200915.jpg",
         "id": "AXWPF0lwLyLQBOXK_PY9",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1633924740,
