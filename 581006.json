@@ -2,6 +2,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1649735940,
+        "tms_id": "EP007164450116",
+        "description": "Stan attempts to save his family after a hurricane floods Lower Langley--despite Fran's warnings that Stan is a bad decision-maker during a crisis.",
+        "title_suggest": {
+            "input": [
+                "Hurricane"
+            ]
+        },
+        "expiration_date": 1639371540,
+        "title": "Hurricane",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1307.7731,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "2",
+        "original_air_date": 1318644000,
+        "clip_order": null,
+        "auth_launch_date": 1649131200,
+        "modified": 1648726142,
+        "media_id": "f52323839790401eae9989ddc5e47635b32dea7d",
+        "airing_id": "RADS1003302200083653",
+        "id": "2gmRoTtyRGCQHA7zZCE0BQ",
+        "slug": "hurricane",
+        "views": 405,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15301994091132.jpg",
+        "created": 1403113915,
+        "season_number": "7",
+        "title_id": "748160",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1648726142,
+        "first_published": 1492834249,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1638766800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg",
+        "cma_id": "1385853"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1649649540,
         "tms_id": "EP007164450120",
         "description": "Stan battles an evil hot tub bent on killing his family.",
@@ -274,51 +322,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1649131140,
-        "tms_id": "EP007164450366",
-        "description": "Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results!",
-        "title_suggest": {
-            "input": [
-                "Exquisite Corpses",
-                "Corpses"
-            ]
-        },
-        "title": "Exquisite Corpses",
-        "expiration_date": 1635134340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.3611,
-        "episode_number": "7",
-        "original_air_date": "1592184600",
-        "auth_launch_date": 1648526400,
-        "clip_order": null,
-        "airing_id": "RADS1003242200081466",
-        "media_id": "83c801007ef3898ce418504c1898599f811c5d21",
-        "modified": 1648174185,
-        "slug": "exquisite-corpses",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg",
-        "created": 1610480339,
-        "season_number": "15",
-        "title_id": "2197411",
-        "tv_rating": "",
-        "published": 1648174185,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1634529600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg",
-        "id": "AXb4G8ksQJ_4Uej5kTlK",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1649303940,
         "tms_id": "EP007164450369",
         "description": "Steve's efforts to befriend a Swedish exchange student backfire in a big way; The family calls in an animal behaviorist to deal with Klaus.",
@@ -362,53 +365,6 @@
         "launch_date": 1634529600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg",
         "id": "AXb4H0xWbxpjZvbXYl-A",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1649131140,
-        "tms_id": "EP007164450368",
-        "description": "After Stan is injured, Francine nurses him back to health and he becomes dependent to her. The family discovers Tuttle is a Korean reality show star.",
-        "title_suggest": {
-            "input": [
-                "Trophy Wife, Trophy Life",
-                "Wife, Trophy Life",
-                "Trophy Life",
-                "Life"
-            ]
-        },
-        "title": "Trophy Wife, Trophy Life",
-        "expiration_date": 1635134340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.0608,
-        "episode_number": "8",
-        "original_air_date": "1592789400",
-        "auth_launch_date": 1648526400,
-        "clip_order": null,
-        "airing_id": "RADS1003242200081452",
-        "media_id": "f4444aa8c9bfb8a8d5128dda59f68160e7bb47c6",
-        "modified": 1648174188,
-        "slug": "trophy-wife-trophy-life",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg",
-        "created": 1610480362,
-        "season_number": "15",
-        "title_id": "2197414",
-        "tv_rating": "",
-        "published": 1648174188,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1634529600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg",
-        "id": "AXb4HCXgQJ_4Uej5kTlL",
         "auth": true
     },
     {
@@ -1007,5 +963,55 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113949297-americandad_1408_air_cid-C5RRG-YuleTideRepeat.jpg",
         "id": "AXb8OSllbxpjZvbXYl-H",
         "auth": true
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1649735940,
+        "tms_id": "EP007164450121",
+        "description": "After he's appointed Steve's legal guardian, Roger has Principal Lewis fired for letting Steve break the school's rules; Stan and Fran vacation at a waterpark.",
+        "title_suggest": {
+            "input": [
+                "A Ward Show",
+                "Ward Show",
+                "Show"
+            ]
+        },
+        "expiration_date": 1639371540,
+        "title": "A Ward Show",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1306.9724,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "3",
+        "original_air_date": 1321671600,
+        "clip_order": null,
+        "auth_launch_date": 1649131200,
+        "modified": 1648726143,
+        "media_id": "4e29d2fdc17e3f6bff35545973536027b8ec1973",
+        "airing_id": "RADS1003302200083660",
+        "id": "aajGKfacRUOpnrGFoACTfg",
+        "slug": "a-ward-show",
+        "views": 2792,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153019937465319.jpg",
+        "created": 1403113984,
+        "season_number": "7",
+        "title_id": "748154",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1648726143,
+        "first_published": 1480781420,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1638766800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg",
+        "cma_id": "1473173"
     }
 ]
