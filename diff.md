@@ -2,57 +2,44 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 4, 2022 at 03:00:27 EDT_
+_Last Update: April 5, 2022 at 00:00:29 EDT_
 ## Video added
 ### Summary
-581268 Squidbillies: 6  
-### 2092364
-**Squidbillies S10E06 - Cephalo-ectomy**  
-TV-14-DLV 🔒 11:14  
-⌛ May 7, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/cephalo-ectomy  
-seriesid=`581268` titleid=`2092364` id=`BCx4BtabTm6H8bNpwVNl2g` mediaid=`50fbc14e15c885f955c28a5bbef62757c2007e1b`  
-_You can take the squid out of the boy, but it's not covered by insurance._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141141252-squidbillies_909_dup-20160812.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141141252-squidbillies_909_dup-20160812.jpg" height="144px" /></a>
-### 2108970
-**Squidbillies S11E06 - Debased Ball**  
-TV-14-DLSV 🔒 11:12  
-⌛ April 30, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/debased-ball  
-seriesid=`581268` titleid=`2108970` id=`AV_Kk5-NZ-onAnjDLtHk` mediaid=`789c4194ff73b15c00e007875919d527ee2c1a90`  
-_Early exploits himself for attention._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151094958540114.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151094958540114.jpg" height="144px" /></a>
-### 2108972
-**Squidbillies S11E08 - Duel of the Dimwits**  
-TV-MA 🔒 11:16  
-⌛ April 30, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/duel-of-the-dimwits  
-seriesid=`581268` titleid=`2108972` id=`AWAVsnhlZ-onAnjDLtVd` mediaid=`23f9e55fd98bc98bfc87e8906e66d2b4ad40f8cf`  
-_Two idiots argue about stuff nobody cares about._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg" height="144px" /></a>
-### 2092363
-**Squidbillies S10E07 - Greener Pastor**  
-TV-14-DLV 🔒 11:08  
-⌛ May 7, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/greener-pastor  
-seriesid=`581268` titleid=`2092363` id=`l82-E1BDSnqnnrdlvOV61Q` mediaid=`fb413ba6455eca7814626d78e04b2c1de91fa396`  
-_Rest in Peace, Scott Hilley._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149527-squidbillies_907_dup-20160819.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149527-squidbillies_907_dup-20160819.jpg" height="144px" /></a>
-### 2092359
-**Squidbillies S10E01 - Lipstick on a Squid**  
-TV-MA 🔒 11:27  
-⌛ May 7, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/lipstick-on-a-squid  
-seriesid=`581268` titleid=`2092359` id=`S1p3arLfQhyW-9SRM7VEUw` mediaid=`32525093dedd9f62b858b26de51eb07ef3bfb258`  
-_The Cuylers donate their bodies to science while they can still make money from them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141128282-squidbillies_902_dup-20160706.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141128282-squidbillies_902_dup-20160706.jpg" height="144px" /></a>
-### 2108971
-**Squidbillies S11E07 - Tortuga de Mentiras**  
-TV-14-DLV 🔒 11:17  
-⌛ April 30, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/tortuga-de-mentiras  
-seriesid=`581268` titleid=`2108971` id=`AV_uQ6mowdpKFAKSbh1U` mediaid=`9128debc734b5f6b717c7c9af0cc04c0aa3c7e43`  
-_Everyone lies and all the houses burn._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg" height="144px" /></a>
+2137894 Ballmastrz: 9009: 1  
+2003422 Bob's Burgers: 1  
+### 2199780
+**Ballmastrz: 9009 S02E07 - Defective Affection?! Dodge the Wayward Strikes of Cupid's Calamitous Quiver!**  
+ 🔓 11:04  
+⌛ May 9, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/ballmastrz-9009/defective-affection-dodge-the-wayward-strikes-of-cupids-calamitous-quiver  
+seriesid=`2137894` titleid=`2199780` id=`AW3u_iFq1YiBSfg0KX6Q` mediaid=`0b7913cb46fcd23c47131e7bd4f7a5ce03a85b0f`  
+_Thousands of years in the future, teams of Ballmastrz face off against each other using their own hyper-creative and artificially intelligent combat weapons to attack, defend and score._  
+<a href="https://media.cdn.adultswim.com/uploads/20191021/thumbnails/2_1910211144511-ballmastrz9009_207_dup-20190826.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191021/thumbnails/2_1910211144511-ballmastrz9009_207_dup-20190826.jpg" height="144px" /></a>
+### 2030314
+**Bob's Burgers S04E13 - Mazel Tina**  
+TV-14-DLSV 🔒 21:34  
+⌛ April 11, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/mazel-tina  
+seriesid=`2003422` titleid=`2030314` id=`kDyq7D52Td-yWvGflYNsKA` mediaid=`34f5e5ab484ac95ddc1dbc79cef599815cb4ca10`  
+_Tina isn't invited to her classmate Tammy's Bat Mitzvah, but ends up at the party anyway, because Bob and the family were hired to cater. Despite the invite snub, Tina is excited to scope out the BFOS (boys from other schools). Things go awry and Louise and Tammy end up missing, so, to her total delight, Tina is left center stage._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2003422 Bob's Burgers: 1  
+2137894 Ballmastrz: 9009: 1  
+### 2030306
+**Bob's Burgers S04E03 - Seaplane!**  
+TV-14 🔒 21:34  
+⌛ April 4, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/seaplane  
+seriesid=`2003422` titleid=`2030306` id=`ifvc24W8Q-qBRnvUpRjLcw` mediaid=`04718512dcc45036018c4e92099724090fd93b84`  
+_Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of "Upskirt Kurt," the most charming pilot in the air._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg" height="144px" /></a>
+### 2137897
+**Ballmastrz: 9009 S01E07 - Leather Passions! 2 Hearts, 2 Wheelz, Infinite Roadz. RIDE NOW!**  
+TV-14-DLV 🔒 11:16  
+⌛ April 4, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/ballmastrz-9009/leather-passions-2-hearts-2-wheelz-infinite-roadz-ride-now  
+seriesid=`2137894` titleid=`2137897` id=`AWLeZsgoHAeP4-pUPee4` mediaid=`2086a66b96d6251359771006dcc70401df410208`  
+_Dee Dee ditches the team for the hunky leader of a menacing biker gang. Is Leto man enough to win her back?_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152414868765314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152414868765314.jpg" height="144px" /></a>
