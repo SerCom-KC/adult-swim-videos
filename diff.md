@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 5, 2022 at 07:00:27 EDT_
+_Last Update: April 5, 2022 at 12:30:29 EDT_
 ## Video added
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177769
-**Naruto: Shippuden S06E57 - Reanimation Jutsu, Release!**  
-TV-PG 🔒 21:51  
-⌛ August 3, 2022 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/reanimation-jutsu-release  
-seriesid=`812206` titleid=`2177769` id=`AXk34eEBDmGy9WFjRq_T` mediaid=`d3d6e7d0529c58ad0ef323ad576456bd295000cb`  
-_Thanks to Itachi, the Reanimation Jutsu is released, and all the Reanimated Shinobi are returned to their resting places. But to everyone's surprise, the real Madara still remains!_  
-<a href="https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_2157122465-NarutoShippuden_340_ReanimationJutsuRelease.png"><img src="https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_2157122465-NarutoShippuden_340_ReanimationJutsuRelease.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2098728 Dragon Ball Super: 1  
+### 2164816
+**Dragon Ball Super S01E93 - You're Our Tenth Warrior! Goku Approaches Frieza!!**  
+TV-14-L 🔒 21:30  
+⌛ April 5, 2022 at 11:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-super/youre-our-tenth-warrior-goku-approaches-frieza  
+seriesid=`2098728` titleid=`2164816` id=`AWgzYpcYAScUIg8Xxb0T` mediaid=`7dc58357c4c5674053e201a4971b81a6ba11bd79`  
+_The 7th Universe is desperate for a tenth member, so Goku seeks out Frieza as a potential candidate. In the 6th Universe, Cabba and Caulifla try to goad Kale into training with them._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154722405048117.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154722405048117.jpg" height="144px" /></a>
