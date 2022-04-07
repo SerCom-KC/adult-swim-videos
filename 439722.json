@@ -161,55 +161,6 @@
         "cma_id": "980735"
     },
     {
-        "ott_launch_date": 1539008940,
-        "auth": true,
-        "auth_expiration_date": 1649303940,
-        "tms_id": "",
-        "description": "Deep inside Guild Headquarters, The Monarch and 21 face their ultimate ordeal. Meanwhile, the Venture Brothers face one of their own.",
-        "title_suggest": {
-            "input": [
-                "The Saphrax Protocol",
-                "Saphrax Protocol",
-                "Protocol"
-            ]
-        },
-        "expiration_date": 1646283540,
-        "type": "episode",
-        "title": "The Saphrax Protocol",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
-        "duration": 1355,
-        "episode_number": "10",
-        "original_air_date": 1538971200,
-        "auth_launch_date": 1646283600,
-        "clip_order": null,
-        "media_id": "80e1416e2c505b0a6b5bb8778e279a16865af66a",
-        "modified": 1645856180,
-        "airing_id": "RADS1002262200074196",
-        "id": "AWRsVD1sqBveI_0AhKz5",
-        "slug": "the-saphrax-protocol",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15385949318523.jpg",
-        "created": 1530825817,
-        "season_number": "7",
-        "title_id": "2165026",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1645856180,
-        "tags": [],
-        "collection_title": "The Venture Bros.",
-        "modified_by": "ODT Listener",
-        "launch_date": 1643259600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -462,7 +413,7 @@
         "cma_id": "2002555"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449842400,
         "auth_expiration_date": 1652327940,
         "tms_id": "EP005604540063",
@@ -811,6 +762,59 @@
         "launch_date": 1644469200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161413254-venture_509-510_dup-20130508.jpg",
         "cma_id": "1477771"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783320,
+        "auth_expiration_date": 1638421140,
+        "tms_id": "EP005604540068",
+        "description": "Join the Ventures--and pretty much everyone they've ever crossed paths with--as they rocket to the Gargantua-2 space station for an epic, hour-long adventure that will change the Ventureverse as we know it forever.",
+        "title_suggest": {
+            "input": [
+                "All This and Gargantua-2",
+                "This and Gargantua-2",
+                "and Gargantua-2",
+                "Gargantua-2"
+            ]
+        },
+        "title": "All This and Gargantua-2",
+        "type": "episode",
+        "expiration_date": 1652327940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 2826.69,
+        "episode_number": "1",
+        "original_air_date": 1421730000,
+        "clip_order": null,
+        "auth_launch_date": 1635393600,
+        "modified": 1648881114,
+        "media_id": "b5cccbe9b7107fc3e47ff92a278755a19318fe2f",
+        "airing_id": "RADS1003312200084313",
+        "id": "xVXDCQf_QyaSYnWy9Kc0Wg",
+        "slug": "all-this-and-gargantua-2",
+        "views": 5,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161414120-venture_601_602_dup_20150108.jpg",
+        "created": 1421437196,
+        "season_number": "6",
+        "title_id": "2024900",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1648881114,
+        "first_published": 1421437196,
+        "tags": [],
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1649304000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414120-venture_601_602_dup_20150108.jpg",
+        "cma_id": "1128283"
     },
     {
         "auth": true,
