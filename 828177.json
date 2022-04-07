@@ -554,7 +554,7 @@
         "cma_id": "1368387"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787400,
         "auth_expiration_date": 1652327940,
         "tms_id": "EP013726210020",
@@ -645,6 +645,55 @@
         "launch_date": 1645678800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/spunk/ypf_ep210_001_ljha65798380babi87g0as.jpg",
         "cma_id": "1371751"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1479137400,
+        "auth_expiration_date": 1629950340,
+        "tms_id": "EP013726210025",
+        "description": "Gary meets a magical visitor from another planet and is told to cut him into pieces.",
+        "title_suggest": {
+            "input": [
+                "Healy"
+            ]
+        },
+        "title": "Healy",
+        "type": "episode",
+        "expiration_date": 1652327940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 671.005,
+        "episode_number": "4",
+        "original_air_date": 1479097800,
+        "clip_order": null,
+        "auth_launch_date": 1626926400,
+        "modified": 1648878686,
+        "media_id": "78a60ea96ee338ac3342f778770f4d39514c4d45",
+        "airing_id": "RADS1003312200084298",
+        "id": "MjS6ZtnKQtexhh96ZTnxkw",
+        "slug": "healy",
+        "views": 22787,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1478899309,
+        "season_number": "3",
+        "title_id": "2100304",
+        "tv_rating": "tv-ma-ls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1648878686,
+        "first_published": 1478899309,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1649304000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/healy/yourprettyface_303_NoAdsCue_dup_20161108.jpg",
+        "cma_id": "2100304"
     },
     {
         "auth": false,
@@ -849,52 +898,6 @@
         "launch_date": 1643864400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/cerberus/ypf_ep207_001_ahuo5230ah78skx.jpg",
         "cma_id": "1360899"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447787220,
-        "auth_expiration_date": 1649303940,
-        "tms_id": "EP013726210016",
-        "description": "The annual Wiccan devil orgy has returned.",
-        "title_suggest": {
-            "input": [
-                "Witches"
-            ]
-        },
-        "title": "Witches",
-        "type": "episode",
-        "expiration_date": 1646283540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 698.97,
-        "episode_number": "6",
-        "original_air_date": 1439784900,
-        "clip_order": null,
-        "auth_launch_date": 1646283600,
-        "modified": 1648229447,
-        "airing_id": "RADS1002262200074181",
-        "media_id": "3a6888f80da05e85189dfdd1a522932a8350ac74",
-        "id": "mVeqSwo2T9y7XPGSx1ldQA",
-        "slug": "witches",
-        "views": 26757,
-        "created": 1441730641,
-        "season_number": "2",
-        "title_id": "2062770",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1648229447,
-        "first_published": 1441730641,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1643259600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/witches/ypf_cc_208_pt1_bhat870a0ab6ssts_1.jpg",
-        "cma_id": "1356628"
     },
     {
         "auth": false,
