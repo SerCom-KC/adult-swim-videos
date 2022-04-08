@@ -1,63 +1,58 @@
 {
-    "updated": 1649439749,
-    "added": [
+    "updated": 1649440106,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
-            "auth_expiration_date": 1649735940,
-            "tms_id": "SH025633980000",
-            "description": "Joe Pera provides the information necessary to choose the perfect Christmas Tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine, and the Concolor Fir.",
+            "auth_expiration_date": null,
+            "tms_id": "",
+            "description": "Accordion",
             "title_suggest": {
                 "input": [
-                    "Joe Pera Helps You Find The Perfect Christmas Tree",
-                    "Pera Helps You Find The Perfect Christmas Tree",
-                    "Helps You Find The Perfect Christmas Tree",
-                    "You Find The Perfect Christmas Tree",
-                    "Find The Perfect Christmas Tree",
-                    "The Perfect Christmas Tree",
-                    "Perfect Christmas Tree",
-                    "Christmas Tree",
-                    "Tree"
+                    "Accordion"
                 ]
             },
-            "expiration_date": 1657598340,
-            "type": "episode",
-            "title": "Joe Pera Helps You Find The Perfect Christmas Tree",
+            "expiration_date": null,
+            "type": "clip",
+            "title": "Accordion",
             "platforms": [
                 "android",
                 "ios",
                 "roku",
-                "fire-tv"
+                "fire-tv",
+                "online-exclusive"
             ],
-            "collection_id": "AWK7V5RwTdxzjxdClXz8",
-            "duration": 1354.6255213,
-            "original_air_date": 1481346000,
-            "auth_launch_date": 1643691600,
+            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+            "duration": 14.97,
+            "original_air_date": null,
+            "auth_launch_date": null,
             "clip_order": null,
-            "media_id": "399d20bb261c5ee2140ba89679e89fe1589a0a8e",
-            "modified": 1649439446,
-            "airing_id": "RADS1004082200087782",
-            "slug": "joe-pera-helps-you-find-the-perfect-christmas-tree",
+            "media_id": "meee5c1965062be23d60537849aa6e9a8df1e68122",
+            "modified": 1647615682,
+            "airing_id": "",
+            "slug": "accordion",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15258176632836.jpg",
-            "created": 1525817693,
-            "season_number": "99",
-            "title_id": "2106836",
-            "tv_rating": "tv-pg-d",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15296896557248.jpg",
+            "created": 1529689639,
+            "season_number": "",
+            "title_id": "",
+            "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1649439446,
-            "tags": [],
-            "collection_title": "Joe Pera Talks With You",
+            "published": 1647615682,
+            "tags": [
+                "bumper"
+            ],
+            "collection_title": "Rick and Morty",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1649736000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg",
-            "id": "AWNB0laKHAeP4-pUPfHY",
-            "auth": true,
-            "collection_slug": "joe-pera-talks-with-you",
-            "collection_title_id": "2161118",
-            "online_exclusives": false
+            "modified_by": "Jonathan Jackson",
+            "launch_date": 1529640000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296896557248.jpg",
+            "id": "AWQom4wiqBveI_0AhKqB",
+            "auth": false,
+            "collection_slug": "rick-and-morty",
+            "collection_title_id": "2013506",
+            "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
