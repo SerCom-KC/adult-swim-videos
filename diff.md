@@ -2,20 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 8, 2022 at 14:00:26 EDT_
+_Last Update: April 9, 2022 at 00:00:29 EDT_
 ## Video added
 ### Summary
-2161118 Joe Pera Talks With You: 1  
-### 2106836
-**Joe Pera Talks With You S99E?? - Joe Pera Helps You Find The Perfect Christmas Tree**  
-TV-PG-D 🔒 22:34  
-⌛ July 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-helps-you-find-the-perfect-christmas-tree  
-seriesid=`2161118` titleid=`2106836` id=`AWNB0laKHAeP4-pUPfHY` mediaid=`399d20bb261c5ee2140ba89679e89fe1589a0a8e`  
-_Joe Pera provides the information necessary to choose the perfect Christmas Tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine, and the Concolor Fir._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg" height="144px" /></a>
+629835 King of the Hill: 1  
+### 731541
+**King of the Hill S10E14 - Hank's Bully**  
+TV-PG-L 🔒 23:53  
+⌛ April 15, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/hanks-bully  
+seriesid=`629835` titleid=`731541` id=`Y_k0P4RXTjSAtRnJkvqujQ` mediaid=`5f74856f1b62789850a72ced13abc71a2abf96a5`  
+_When new neighbors move in, their young son starts bullying Hank, making his life miserable; Dale talks Peggy into trying her hand at decorative taxidermy._  
+<a href="https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246145856-KingOfTheHill_1003_HanksBully.png"><img src="https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246145856-KingOfTheHill_1003_HanksBully.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2013506 Rick and Morty: 1  
-### Online Exclusives
-`AWQom4wiqBveI_0AhKqB` [Rick and Morty - Accordion](https://www.adultswim.com/videos/rick-and-morty/accordion)  
+629835 King of the Hill: 1  
+### 731536
+**King of the Hill S10E09 - The Year of Washing Dangerously**  
+TV-PG-DL 🔒 23:54  
+⌛ April 8, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/the-year-of-washing-dangerously  
+seriesid=`629835` titleid=`731536` id=`_Q9lmYEjTX2CCV1BLnBF2A` mediaid=`0e661700f3ec72c3de2d31c839731c6595174895`  
+_Strickland partners with Kahn in a car wash business, forcing Hank to become Kahn's "work monkey."_  
+<a href="https://media.cdn.adultswim.com/uploads/20220402/thumbnails/2_22421243453-WashingDangerously.png"><img src="https://media.cdn.adultswim.com/uploads/20220402/thumbnails/2_22421243453-WashingDangerously.png" height="144px" /></a>
