@@ -100,7 +100,7 @@
         "launch_date": 1649584800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171429133-OnePiece_534_TheRyuguPalaceInShockTheKidnappingOfShirahoshi.png",
         "id": "AX-Tz265208s7zyYUMVg",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1650187740,
@@ -935,6 +935,57 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330137180-OnePiece_537_KeepShirahoshiSafeDeckenCloseBehind.png",
         "id": "AX_RSz1h_0O4w1rD3R6G",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1651399140,
+        "tms_id": "",
+        "description": "The New Fish-Man Pirates continue their bloody and violent uprising, and Jimbei begins the story of how he unleashed the monster known as Arlong on the unsuspecting citizens of the East Blue.",
+        "title_suggest": {
+            "input": [
+                "The Haunting Ties! Nami and the Fish-Man Pirates!",
+                "Haunting Ties! Nami and the Fish-Man Pirates!",
+                "Ties! Nami and the Fish-Man Pirates!",
+                "Nami and the Fish-Man Pirates!",
+                "and the Fish-Man Pirates!",
+                "the Fish-Man Pirates!",
+                "Fish-Man Pirates!",
+                "Pirates!"
+            ]
+        },
+        "title": "The Haunting Ties! Nami and the Fish-Man Pirates!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.4978,
+        "episode_number": "23",
+        "original_air_date": "1649572200",
+        "auth_launch_date": 1649584800,
+        "clip_order": null,
+        "airing_id": "RADS1004082200087564",
+        "media_id": "f882de1737aabdb590b06b889a0cf724b25ba3be",
+        "modified": 1649390910,
+        "slug": "the-haunting-ties-nami-and-the-fish-man-pirates",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/1_22461450270-OnePiece_539_TheHauntingTiesNameAndTheFishPirates.png",
+        "created": 1649271041,
+        "season_number": "15",
+        "title_id": "2363807",
+        "tv_rating": "tv-pg",
+        "published": 1649390910,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_22461450270-OnePiece_539_TheHauntingTiesNameAndTheFishPirates.png",
+        "id": "AYAANu1-208s7zyYUMha",
         "auth": true
     }
 ]
