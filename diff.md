@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 10, 2022 at 01:30:25 EDT_
+_Last Update: April 10, 2022 at 02:30:25 EDT_
 ## Video added
 ### Summary
-2357025 Shenmue: the Animation: 1  
-### 2357027
-**Shenmue: the Animation S01E02 - Daybreak**  
-TV-14-LV 🔒 23:44  
-⌛ June 7, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/shenmue-the-animation/daybreak  
-seriesid=`2357025` titleid=`2357027` id=`AX7amPAL208s7zyYUMCF` mediaid=`b44e0f34b90d9607cb11a5439ec0ce197a866e91`  
-_Hazuki Family's maid Ine hands a letter to Ryo, who is restless from his Father's death. The letter was sent from a person named "Yuanda Zhu" to his father which contained characters he cannot read._  
-<a href="https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281329100-ShenmueTheAnimation_002_Daybreak.png"><img src="https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281329100-ShenmueTheAnimation_002_Daybreak.png" height="144px" /></a>
+2132025 The Jellies: 1  
+### 2191415
+**The Jellies S02E07 - Doctor Pirates**  
+TV-14-DLV 🔓 10:46  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-jellies/doctor-pirates  
+seriesid=`2132025` titleid=`2191415` id=`AWmWYceSAScUIg8XxeHL` mediaid=`dd16c8f65dd804965448d26c5bd33c24e778cfbc`  
+_Debbie's family reunion is crashed by unsuspecting guests._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983917361215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983917361215.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
