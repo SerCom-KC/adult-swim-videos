@@ -43,7 +43,7 @@
         "launch_date": 1649579400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171425415-AssassinationClassroom_035_LetLiveTime.png",
         "id": "AX-TyU3k208s7zyYUMVb",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1650184140,
@@ -688,6 +688,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330135269-AssassinationClassroom_037_ConfessionTime.png",
         "id": "AX_RS30J208s7zyYUMcT",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1651393740,
+        "tms_id": "",
+        "description": "The E Class is left reeling after Koro Sensei's revelations about his past deeds and identity--information that may affect their assassination plans.",
+        "title_suggest": {
+            "input": [
+                "Past Time",
+                "Time"
+            ]
+        },
+        "title": "Past Time",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1355.5542,
+        "episode_number": "16",
+        "original_air_date": "1649566800",
+        "auth_launch_date": 1649579400,
+        "clip_order": null,
+        "airing_id": "RADS1004082200087560",
+        "media_id": "fdb2c2a92772dffcba4d1db229f0187c5d763050",
+        "modified": 1649390908,
+        "slug": "past-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/1_2246144891-AssassinationClassroom_038_PastTime.png",
+        "created": 1649270902,
+        "season_number": "2",
+        "title_id": "2333982",
+        "tv_rating": "tv-14-lv",
+        "published": 1649390908,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246144891-AssassinationClassroom_038_PastTime.png",
+        "id": "AYAANM0V_0O4w1rD3R9W",
         "auth": true
     }
 ]
