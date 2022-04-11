@@ -101,57 +101,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1547479800,
-        "auth_expiration_date": 1649649540,
-        "tms_id": "EP029602940003",
-        "description": "Lord Festus tasks Tigtone with saving his ugly kingdom from ravaging beauty.",
-        "title_suggest": {
-            "input": [
-                "Tigtone and the Beautiful War",
-                "and the Beautiful War",
-                "the Beautiful War",
-                "Beautiful War",
-                "War"
-            ]
-        },
-        "title": "Tigtone and the Beautiful War",
-        "expiration_date": 1646629140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 676.75,
-        "episode_number": "2",
-        "original_air_date": 1547442900,
-        "auth_launch_date": 1646629200,
-        "clip_order": null,
-        "media_id": "b540c7b279a08c43573c84f74ecbde47fe40330c",
-        "modified": 1646359202,
-        "airing_id": "RADS1003032200077409",
-        "slug": "tigtone-and-the-beautiful-war",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15472229580923.jpg",
-        "created": 1546463049,
-        "season_number": "1",
-        "title_id": "2171684",
-        "tv_rating": "tv-14-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1646359202,
-        "tags": [],
-        "collection_title": "Tigtone",
-        "modified_by": "ODT Listener",
-        "launch_date": 1643605200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15472229580923.jpg",
-        "id": "AWgQYXYNzQU7gEG1jvbH",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1548171000,
         "auth_expiration_date": 1650254340,
         "tms_id": "",
@@ -354,7 +303,7 @@
         "launch_date": 1646629200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895724671420.jpg",
         "id": "AWgQZUzbAScUIg8XxbiH",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1549294200,
@@ -836,6 +785,54 @@
         "launch_date": 1599876000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117949131-Tigtone_tabletalk.png",
         "id": "AXR0iVraSeFB2d0c381v",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1643000340,
+        "tms_id": "EP029602940014",
+        "description": "A deadly plague is not what it sounds like, and Tigtone is the only chosen one who can silence it.",
+        "title_suggest": {
+            "input": [
+                "Tigtone and the Screaming City",
+                "and the Screaming City",
+                "the Screaming City",
+                "Screaming City",
+                "City"
+            ]
+        },
+        "title": "Tigtone and the Screaming City",
+        "expiration_date": 1652673540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 660.5265,
+        "episode_number": "2",
+        "original_air_date": "1600056900",
+        "auth_launch_date": 1639976400,
+        "clip_order": null,
+        "airing_id": "RADS1004082200087616",
+        "media_id": "a5c905ff2830bcd456577b7638264eaff97e6779",
+        "modified": 1649397335,
+        "slug": "tigtone-and-the-screaming-city",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211794526-Tigtone_202_dup-20200630.jpg",
+        "created": 1598964551,
+        "season_number": "2",
+        "title_id": "2222955",
+        "tv_rating": "tv-14-v",
+        "published": 1649397335,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1649649600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211794526-Tigtone_202_dup-20200630.jpg",
+        "id": "AXRJttADLyLQBOXK_PMo",
         "auth": false
     }
 ]

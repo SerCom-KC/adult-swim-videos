@@ -4445,7 +4445,7 @@
         "launch_date": 1649649600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_22317143260-RobotChicken_1117_MayCauseAnExcessOfHam.png",
         "id": "AX-ZJuup_0O4w1rD3R2H",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -5532,7 +5532,7 @@
         "launch_date": 1649649600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210316/thumbnails/2_21316130427-RobotChicken_1023_dup-20210310.jpg",
         "id": "AXg7-6bVDmGy9WFjRqoJ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1652068740,
@@ -5970,7 +5970,7 @@
         "launch_date": 1646629200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101351309-RobotChicken_1108_MayCauseNumbButthole.png",
         "id": "AXvQ1jN6UQa40cfnRR9n",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1647230340,
@@ -6136,6 +6136,55 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211454393-RobotChicken_1111_MayCauseEpisodeTitleToCutOffDueToWordLim.png",
         "id": "AXvz5OApUQa40cfnRSCg",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1651463940,
+        "tms_id": "EP007259620242",
+        "description": "The Robot Chicken gang thinks Barbie George Washington would've made a fine Floundering Father; The Nerd fixes the Mandela Effect with disastrous results; Robot Chicken says farewell, but is it good bye?",
+        "title_suggest": {
+            "input": [
+                "May Cause Season 11 to End",
+                "Cause Season 11 to End",
+                "Season 11 to End",
+                "11 to End",
+                "to End",
+                "End"
+            ]
+        },
+        "title": "May Cause Season 11 to End",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 657.5903,
+        "episode_number": "21",
+        "original_air_date": 1649649600,
+        "auth_launch_date": 1649649600,
+        "clip_order": null,
+        "airing_id": "RADS1004082200087635",
+        "media_id": "02449f6d3a4fc4ee4237f8e56364b2463f14c9d1",
+        "modified": 1649453114,
+        "slug": "may-cause-season-11-to-end",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_2248172503-aslogothumbnail.png",
+        "created": 1649386413,
+        "title_id": "2270607",
+        "season_number": "11",
+        "tv_rating": "tv-ma-l",
+        "published": 1649453114,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248172503-aslogothumbnail.png",
+        "id": "AYAHF19h208s7zyYUMhm",
+        "auth": true
     },
     {
         "auth": true,
