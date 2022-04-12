@@ -2,35 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 12, 2022 at 01:30:27 EDT_
+_Last Update: April 12, 2022 at 07:00:27 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-2194549 Gemusetto: 1  
-2268280 Yashahime: Princess Half-Demon: 1  
-### 2219230
-**Black Clover S03E11 - Storming the Shadow Palace**  
-TV-PG 🔒 22:14  
-⌛ April 30, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/storming-the-shadow-palace  
-seriesid=`2143080` titleid=`2219230` id=`AXF-HlH_C8QgH-t19IJy` mediaid=`3adf562e6cf0e5aa2733882778a06c6a4a428f14`  
-_A team of squad captains and talented Magic Knights invade the Shadow Palace, where a few formidable elves await the arrival of the final magic stone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_2041595432-BlackClover_113.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_2041595432-BlackClover_113.jpg" height="144px" /></a>
-### 2241833
-**Gemusetto S02E08 - Episode Eight: E9**  
-TV-MA-LS 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-eight-e-9  
-seriesid=`2194549` titleid=`2241833` id=`AXYfUGqdbxpjZvbXYlg3` mediaid=`e7a7b5183285c3b883590845d639f0638744349b`  
-_Makasu totally misconstrues all the friendship advice Dr. Legs has been giving him during his redemption arc. With our hero out of commission, do drastic measures have to be taken to save the universe?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_201211218485-GSMP_208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_201211218485-GSMP_208.jpg" height="144px" /></a>
-### 2268294
-**Yashahime: Princess Half-Demon S01E14 - The One Behind the Forest Fire**  
-TV-14-V 🔒 22:54  
-⌛ April 16, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/yashahime-princess-half-demon/the-one-behind-the-forest-fire  
-seriesid=`2268280` titleid=`2268294` id=`AXwYz8mV4Xbjep71f6HH` mediaid=`ca66ab4d084021245f5f385303d9110e2e4653e9`  
-_Towa and Setsuna set off to slay Homura, an evil mountain god who has abducted a beautiful maiden. The twins learn that Homura was involved in the forest fire that separated them._  
-<a href="https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_211011023484-YashahimePrincessHalfDemon_114_TheOneBehindTheForestFire.png"><img src="https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_211011023484-YashahimePrincessHalfDemon_114_TheOneBehindTheForestFire.png" height="144px" /></a>
+812206 Naruto: Shippuden: 2  
+### 2177787
+**Naruto: Shippuden S07E10 - Kakashi: Shadow of the ANBU Black Ops - Coup d'État**  
+TV-14-V 🔒 21:51  
+⌛ April 17, 2022 at 04:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-coup-d-etat  
+seriesid=`812206` titleid=`2177787` id=`AXvrcbsB4Xbjep71f6G7` mediaid=`182177ebf26f06a7cd4974bcbb027be3cd9b84ef`  
+_Following the aftermath of the Nine-Tails incident, many on the Leaf Council voice suspicions that the Uchiha Clan were behind this tragedy._  
+<a href="https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161255403-NarutoShippuden_358_KakashiShadowOfTheANBUBlackOpsCoupdEtat.png"><img src="https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161255403-NarutoShippuden_358_KakashiShadowOfTheANBUBlackOpsCoupdEtat.png" height="144px" /></a>
+### 2177770
+**Naruto: Shippuden S06E58 - Orochimaru's Return**  
+TV-PG 🔒 21:50  
+⌛ August 10, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/orochimarus-return  
+seriesid=`812206` titleid=`2177770` id=`AXlhJzL6BH5Z6gH5aWO-` mediaid=`06a7e214a85edc50aa2a89a2b3bce1d4a4a29618`  
+_In order to learn the truth behind the Leaf's actions, Sasuke decides to resurrect the one man who can help him find the answer—Orochimaru._  
+<a href="https://media.cdn.adultswim.com/uploads/20210512/thumbnails/2_215121116504-NarutoShippuden_341_OrochimarusReturn.png"><img src="https://media.cdn.adultswim.com/uploads/20210512/thumbnails/2_215121116504-NarutoShippuden_341_OrochimarusReturn.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
