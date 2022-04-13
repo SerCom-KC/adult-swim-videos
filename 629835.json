@@ -1,69 +1,6 @@
 [
     {
         "auth": true,
-        "auth_expiration_date": 1649822340,
-        "tms_id": "EP002070020204",
-        "rating": 8.65352,
-        "description": "After having a falling out with Reverend Stroup, Hank leaves Arlen First Methodist and joins a mega-church... only to be overwhelmed by its nonstop demands on his free time.",
-        "title_suggest": {
-            "input": [
-                "Church Hopping",
-                "Hopping"
-            ]
-        },
-        "type": "episode",
-        "title": "Church Hopping",
-        "expiration_date": 1496719799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1433.8658,
-        "episode_number": "11",
-        "original_air_date": 1237341600,
-        "auth_launch_date": 1649217600,
-        "clip_order": null,
-        "modified": 1649260797,
-        "media_id": "8dc36903f78273681ea6ec8133572f4fba76afca",
-        "airing_id": "RADS1003302200083709",
-        "id": "5R-A-SJUQLqxuFpxSoYzqQ",
-        "slug": "church-hopping",
-        "views": 228142,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/1_22461159425-churchhoppingmin.png",
-        "created": 1402945468,
-        "title_id": "731538",
-        "season_number": "10",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1649260797,
-        "tags": [
-            "king of the hill",
-            " season 9",
-            " episode 22",
-            " church hopping",
-            " reverend",
-            " stroup",
-            " hank",
-            " arlen",
-            " first",
-            " methodist",
-            " mega-church",
-            " demand",
-            " free",
-            " time"
-        ],
-        "rating_count": 355,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": 1496115000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_22461159425-churchhoppingmin.png",
-        "cma_id": "1404948"
-    },
-    {
-        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1649908740,
         "tms_id": "EP002070020205",
@@ -274,5 +211,68 @@
         "launch_date": 1496374200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246145856-KingOfTheHill_1003_HanksBully.png",
         "cma_id": "1407350"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1650427140,
+        "tms_id": "EP002070020209",
+        "rating": 8.833657,
+        "description": "When Peggy looks for a new pair of shoes, she meets Carolyn and they strike up a friendship based on mistaken identity.",
+        "title_suggest": {
+            "input": [
+                "The Peggy Horror Picture Show",
+                "Peggy Horror Picture Show",
+                "Horror Picture Show",
+                "Picture Show",
+                "Show"
+            ]
+        },
+        "type": "episode",
+        "title": "The Peggy Horror Picture Show",
+        "expiration_date": 1497184199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1367.2659,
+        "episode_number": "1",
+        "original_air_date": 1239069600,
+        "auth_launch_date": 1649822400,
+        "clip_order": null,
+        "modified": 1649790750,
+        "media_id": "09beea9102bbbfe293d01bd670470864cc29fa7c",
+        "airing_id": "RADS1004082200087791",
+        "id": "_-p326kKQg6Hy3RGmPW-EQ",
+        "slug": "the-peggy-horror-picture-show",
+        "views": 388783,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121512121-KingOfTheHill_1102_ThePeggyHorrorPictureShow.png",
+        "created": 1402945468,
+        "title_id": "731543",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1649790750,
+        "tags": [
+            "king of the hill",
+            " season 11",
+            " the peggy horror picture show",
+            " peggy",
+            " shoes",
+            " carolyn",
+            " friendship",
+            " mistaken identity"
+        ],
+        "rating_count": 505,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1496579400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121512121-KingOfTheHill_1102_ThePeggyHorrorPictureShow.png",
+        "cma_id": "1408786"
     }
 ]
