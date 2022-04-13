@@ -907,7 +907,7 @@
         "launch_date": 1649822400,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171454154-OffTheAir_1104_Liminal.png",
         "id": "AX3J9ctQ4Xbjep71f6Hu",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1650686340,
@@ -1083,7 +1083,7 @@
         "launch_date": 1648008000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211020/thumbnails/2_2110201135538-FamilyThumb.png",
         "id": "AXxhmdL24Xbjep71f6HN",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1648612740,
@@ -1836,56 +1836,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1640754000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121337264-offtheair_402_dup.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1485876600,
-        "auth_expiration_date": 1649822340,
-        "tms_id": "EP014135410028",
-        "description": "Now with 50 percent less meaning!",
-        "title_suggest": {
-            "input": [
-                "Words"
-            ]
-        },
-        "title": "Words",
-        "type": "episode",
-        "expiration_date": 1647403140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-        "duration": 668.7674341,
-        "episode_number": "4",
-        "original_air_date": 1485853200,
-        "clip_order": null,
-        "auth_launch_date": 1647403200,
-        "modified": 1647049440,
-        "airing_id": "RADS1002252200073837",
-        "media_id": "33483019ea53739ccc3290310551bfe1f5cd48ca",
-        "id": "pg1pY249QLKbPTmZ4T9bhg",
-        "slug": "words",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121342218-offtheair_604_dup-20170127.jpg",
-        "created": 1485788475,
-        "season_number": "6",
-        "title_id": "2087834",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1647049440,
-        "first_published": 1485788475,
-        "tags": [],
-        "collection_title": "Off The Air",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1646197200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121342218-offtheair_604_dup-20170127.jpg",
         "cma_id": ""
     },
     {
