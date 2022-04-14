@@ -52,6 +52,57 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1479742200,
+        "auth_expiration_date": 1630555140,
+        "tms_id": "EP013726210026",
+        "description": "A roast in Ted's honor fills him with a new purpose.",
+        "title_suggest": {
+            "input": [
+                "The Tree-Huger Bomber",
+                "Tree-Huger Bomber",
+                "Bomber"
+            ]
+        },
+        "expiration_date": 1652932740,
+        "title": "The Tree-Huger Bomber",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 680.008,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "5",
+        "original_air_date": 1479702600,
+        "clip_order": null,
+        "auth_launch_date": 1627531200,
+        "modified": 1649890623,
+        "media_id": "2d4d6f67adc5409f90dce87750cb2dfbe96176b6",
+        "airing_id": "RADS1004092200088057",
+        "id": "097dGrb-SracA-gHhZi2GA",
+        "slug": "the-tree-huger-bomber",
+        "views": 20921,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1479492515,
+        "season_number": "3",
+        "title_id": "2100306",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1649890623,
+        "first_published": 1479568212,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1649908800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-tree-hugger-bomber/yourprettyface_305_NoAdCues_dup-20161117.jpg",
+        "cma_id": "2100306"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1477319400,
         "auth_expiration_date": 1628135940,
         "tms_id": "EP013726210022",
@@ -409,7 +460,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1452139200,
         "auth_expiration_date": 1652932740,
         "tms_id": "EP013726210021",
@@ -852,52 +903,6 @@
         "launch_date": 1648094400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/circle-jerk-mcmxcviii/yourprettyface_301_NoAdsCue_dup-20161025.jpg",
         "cma_id": "1472367"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447787280,
-        "auth_expiration_date": 1649908740,
-        "tms_id": "EP013726210015",
-        "description": "Cerberus is tired of guarding the gate to Hell, so he drags Gary out to Earth.",
-        "title_suggest": {
-            "input": [
-                "Cerberus"
-            ]
-        },
-        "expiration_date": 1646888340,
-        "title": "Cerberus",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 662.06,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "7",
-        "original_air_date": 1440994500,
-        "clip_order": null,
-        "auth_launch_date": 1646888400,
-        "modified": 1649889985,
-        "airing_id": "RADS1003042200077872",
-        "media_id": "5e7a036daed5f77747f46aa3ae8d6f2ac28bae09",
-        "id": "YT_QV3-7QJyrNOyH6Ys5qA",
-        "slug": "cerberus",
-        "views": 27619,
-        "created": 1436294406,
-        "season_number": "2",
-        "title_id": "2062769",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1649889985,
-        "first_published": 1440858021,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1643864400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/cerberus/ypf_ep207_001_ahuo5230ah78skx.jpg",
-        "cma_id": "1360899"
     },
     {
         "auth": false,
