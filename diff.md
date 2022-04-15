@@ -2,35 +2,58 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 14, 2022 at 22:00:25 EDT_
+_Last Update: April 15, 2022 at 00:00:26 EDT_
 ## Video added
 ### Summary
-2268280 Yashahime: Princess Half-Demon: 1  
-### 2268292
-**Yashahime: Princess Half-Demon S01E12 - Night of the New Moon and the Black-haired Towa**  
-TV-14-LV 🔒 21:54  
-⌛ May 1, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/yashahime-princess-half-demon/night-of-the-new-moon-and-the-black-haired-towa  
-seriesid=`2268280` titleid=`2268292` id=`AXvrcKvR4Xbjep71f6G5` mediaid=`33fc69237fde6d6683755c556fe4d7d699c96731`  
-_The demon Nikosen was a sage before evil consumed his soul. Konton orders him to kill the Half-Demon Princesses. Towa struggles as her demon powers fade and she turns into a human._  
-<a href="https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161252304-YashahimePrincessHalfDemon_112_NightOfTheNewMoonAndTheBlackHairedTowa.png"><img src="https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161252304-YashahimePrincessHalfDemon_112_NightOfTheNewMoonAndTheBlackHairedTowa.png" height="144px" /></a>
+581006 American Dad: 3  
+### 748207
+**American Dad S08E08 - Finger Lenting Good**  
+TV-14 🔒 21:32  
+⌛ April 21, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/finger-lenting-good  
+seriesid=`581006` titleid=`748207` id=`MBFuX78QSVSEx6wbdJ4KyQ` mediaid=`37b1b7d94d1c8cbd0073f25c7f5733a8f1af3d20`  
+_Francine asks her family to give up their vices for Lent or risk losing a finger._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793511794115.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793511794115.jpg" height="144px" /></a>
+### 748204
+**American Dad S08E07 - National Treasure 4: Baby Franny: She's Doing Well: The Hole Story**  
+TV-14 🔒 21:31  
+⌛ April 21, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/national-treasure-4-baby-franny-shes-doing-well-the-hole-story  
+seriesid=`581006` titleid=`748204` id=`nK8wFIK4SCCrjtR-AcEnMA` mediaid=`1d9b6fa9c498932144916f1dd79638e23a4bbcd2`  
+_A Langley Falls talk show outs Francine as "Baby Franny," the toddler who was once rescued from a well by a heroic fireman (guest voice Will Forte). Then, on the anniversary of her rescue, she falls down the well again and makes a shocking discovery. Meanwhile, Stan and Roger have an entrepreneurial "eureka!" moment when they think of the world's next game-changing business opportunity - male stripper shoes._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803229882712.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803229882712.jpg" height="144px" /></a>
+### 748211
+**American Dad S08E09 - The Adventures of Twill Ongenbone and His Boy Jabari**  
+TV-14 🔒 21:31  
+⌛ April 21, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-adventures-of-twill-ongenbone-and-his-boy-jabari  
+seriesid=`581006` titleid=`748211` id=`Yc4EXICUQfa6LdB5kJb1lg` mediaid=`b4c7e3ef1421ef621bc5617e1e5bcd9e771c2328`  
+_Francine tries to teach Roger the value of hard work after he fakes a masters degree and buys an Oscar. Steve interviews Stan for a personal history assignment at school._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153185354185812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153185354185812.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-862772 China, IL: 1  
-### 2177754
-**Naruto: Shippuden S06E42 - Jinchuriki vs. Jinchuriki!!**  
-TV-PG-LV 🔒 21:51  
-⌛ April 20, 2022 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/jinchuriki-vs-jinchuriki  
-seriesid=`812206` titleid=`2177754` id=`AXcSB1PbQJ_4Uej5kTmg` mediaid=`29bf5708c9c39986b93b4e3216dc45e468ec45c9`  
-_Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan._  
-<a href="https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg" height="144px" /></a>
-### 862776
-**China, IL S01E03 - Baby Boom**  
-TV-14 🔓 11:15  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/china-il/baby-boom  
-seriesid=`862772` titleid=`862776` id=`t4u1yYuQSp6Rm7OcQir7qA` mediaid=`c9ff6a81fe9bd1d249cd99c486bc3c6642463a13`  
-_After a giant baby is born in the Super Science lab, obliterating the campus, the faculty is split between whether they should raise the monstrous infant or destroy it._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321638377-chinail_103_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321638377-chinail_103_bim.jpg" height="144px" /></a>
+581006 American Dad: 3  
+### 748170
+**American Dad S07E10 - Wheels & the Legman and the Case of Grandpa's Key**  
+TV-14 🔒 21:17  
+⌛ April 14, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/wheels-the-legman-and-the-case-of-grandpas-key  
+seriesid=`581006` titleid=`748170` id=`3C6dEzh6Sre3UNL6TerUqg` mediaid=`fc94151d92fb4c135ac99f4728e909ffe360833e`  
+_Stan joins Wheels and the Legman as they attempt to solve a mystery involving a key; Klaus has his photo taken for a pet website._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312545635391.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312545635391.jpg" height="144px" /></a>
+### 748166
+**American Dad S07E08 - The Unbrave One**  
+TV-14 🔒 21:42  
+⌛ April 14, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-unbrave-one  
+seriesid=`581006` titleid=`748166` id=`9npDpDdJTICPqNIRbel_yQ` mediaid=`b88d55393175796fa7677d7bda48a079486f598c`  
+_With Roger's help, Steve dresses up as a superhero to prove his bravery to his father; when Stan discovers that Fran may be pregnant, he hopes the infant will turn out to be the brave child he never had._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154454654206518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154454654206518.jpg" height="144px" /></a>
+### 748141
+**American Dad S07E09 - Stanny Tendergrass**  
+TV-14 🔒 21:47  
+⌛ April 14, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stanny-tendergrass  
+seriesid=`581006` titleid=`748141` id=`c2iIJotJQ36zc4Ppw3LxpQ` mediaid=`af22f0f9cf79d859db2f555210b4fe8e571f0973`  
+_Hoping to show Steve the value of hard work, Stan gets Steve a job at a country club; Francine struggles to come up with her own catchphrase._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464896793819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464896793819.jpg" height="144px" /></a>
