@@ -89,7 +89,7 @@
         "launch_date": 1650184200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221445385-AssassinationClassroom_036_SecretIdentityTime.png",
         "id": "AX-y8xOk_0O4w1rD3R4C",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1656302340,
@@ -733,6 +733,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246144891-AssassinationClassroom_038_PastTime.png",
         "id": "AYAANM0V_0O4w1rD3R9W",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1651998540,
+        "tms_id": "EP035989030039",
+        "description": "With the class split into two factions over whether to kill Koro Sensei or try to save him, Koro Sensei himself suggests a way of settling the issue.",
+        "title_suggest": {
+            "input": [
+                "Discord Time",
+                "Time"
+            ]
+        },
+        "title": "Discord Time",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1298.1969,
+        "episode_number": "",
+        "original_air_date": "1650171600",
+        "auth_launch_date": 1650184200,
+        "clip_order": null,
+        "airing_id": "RADS1004142200088907",
+        "media_id": "20d50b078db7017277ba91f7372564dff3bfebf1",
+        "modified": 1649956670,
+        "slug": "discord-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121520383-AssassinationClassroom_039_DiscordTime.png",
+        "created": 1649791248,
+        "season_number": "2",
+        "title_id": "2333983",
+        "tv_rating": "tv-14-l",
+        "published": 1649956670,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121520383-AssassinationClassroom_039_DiscordTime.png",
+        "id": "AYAfOKd7208s7zyYUMkp",
         "auth": true
     }
 ]

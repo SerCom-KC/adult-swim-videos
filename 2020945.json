@@ -840,7 +840,7 @@
         "auth_launch_date": 1644555600,
         "clip_order": null,
         "media_id": "993ac12e70a07495ac243c25fb79c51b7b102130",
-        "modified": 1650179821,
+        "modified": 1650182479,
         "airing_id": "RADS1004152200089269",
         "id": "AWaDiLObh5enQuYyJbcE",
         "slug": "ruler-of-the-walls",
@@ -852,7 +852,7 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1650179821,
+        "published": 1650182479,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
@@ -1579,7 +1579,7 @@
         "launch_date": 1650182400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221444573-AttackOnTitan_082_Sunset.png",
         "id": "AX-y8nP2208s7zyYUMZi",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1652846340,
@@ -2634,6 +2634,50 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1651996740,
+        "tms_id": "EP034992000085",
+        "description": "The Azumabito's flying boat is guarded by a port full of Jaegerists, but the Scouts are reluctant to kill their former friends. If they wish to avoid bloodshed, they can't afford their plan to go wrong.",
+        "title_suggest": {
+            "input": [
+                "Traitor"
+            ]
+        },
+        "title": "Traitor",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+        "duration": 1341.34,
+        "episode_number": "26",
+        "original_air_date": "1650169800",
+        "auth_launch_date": 1650182400,
+        "clip_order": null,
+        "airing_id": "RADS1004142200088906",
+        "media_id": "729ed852072940c2a7f8a2ffb43ba72c56edd097",
+        "modified": 1649955473,
+        "slug": "traitor",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121519487-AttackOnTitan_085_Traitor.png",
+        "created": 1649791200,
+        "season_number": "4",
+        "title_id": "2363784",
+        "tv_rating": "tv-14-v",
+        "published": 1649955473,
+        "tags": [],
+        "collection_title": "Attack on Titan",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121519487-AttackOnTitan_085_Traitor.png",
+        "id": "AYAfN-4y208s7zyYUMko",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1662091140,
@@ -3478,9 +3522,9 @@
         "original_air_date": 1402198200,
         "clip_order": null,
         "auth_launch_date": 1650600000,
-        "modified": 1650179816,
+        "modified": 1650182482,
         "media_id": "8b7d69de81899efcda2b9cef4618332fb93b121d",
-        "airing_id": "RADS1003122200078911",
+        "airing_id": "RADS1004152200089280",
         "id": "XDa3-yO8SFWhVz07B1fSKQ",
         "slug": "the-world-the-girl-saw-the-struggle-for-trost-part-2",
         "views": 10329,
@@ -3493,7 +3537,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1650179816,
+        "published": 1650182482,
         "first_published": 1405318858,
         "tags": [],
         "rating_count": 37,
