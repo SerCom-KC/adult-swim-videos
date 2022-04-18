@@ -1,94 +1,5 @@
 [
     {
-        "auth_expiration_date": 1650254340,
-        "tms_id": "EP003034830106",
-        "description": "In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa.",
-        "title_suggest": {
-            "input": [
-                "Holiday Spectacular",
-                "Spectacular"
-            ]
-        },
-        "title": "Holiday Spectacular",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1358.6239,
-        "episode_number": "13",
-        "original_air_date": 1649638800,
-        "auth_launch_date": 1649649600,
-        "clip_order": null,
-        "airing_id": "RADS1004082200087694",
-        "media_id": "bd268c6b26ef79f20d234d426f2aa6214467f5fc",
-        "modified": 1649444738,
-        "slug": "holiday-spectacular",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
-        "created": 1649426535,
-        "title_id": "2161632",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlv",
-        "published": 1649444738,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
-        "id": "AYAJe5Lg208s7zyYUMiQ",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1650254340,
-        "tms_id": "EP003034830107",
-        "description": "The crew members encounter a bizarre alien with the power to change their sexual characteristics.",
-        "title_suggest": {
-            "input": [
-                "Neutopia"
-            ]
-        },
-        "title": "Neutopia",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "1",
-        "original_air_date": 1649640600,
-        "auth_launch_date": 1649649600,
-        "clip_order": null,
-        "airing_id": "RADS1004082200087704",
-        "media_id": "d653fa94fab1948d51eb1670effdc0c9a0e5fa80",
-        "modified": 1649444782,
-        "slug": "neutopia",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_224815693-Futurama_807_Neutopia.png",
-        "created": 1649426691,
-        "title_id": "2161639",
-        "season_number": "8",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1649444782,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_224815693-Futurama_807_Neutopia.png",
-        "id": "AYAJffX2_0O4w1rD3R95",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1650599940,
         "tms_id": "EP003034830046",
         "description": "In several what if scenarios, Bender learns how life would be if he were human, Fry experiences life as if it were a video game and Leela wonders about her true home.",
@@ -224,6 +135,71 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121517385-Futurama_049_LeelasHomeworld.png",
         "id": "AYAZFmxB208s7zyYUMkG",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1650859140,
+        "created": 1649984539,
+        "tms_id": "EP003034830108",
+        "title_id": "2161636",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "description": "Bender gains the ability to self-replicate, threatening to overrun Earth with vast swarms of copies of himself.",
+        "title_suggest": {
+            "input": [
+                "Benderama"
+            ]
+        },
+        "published": 1650014035,
+        "title": "Benderama",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1361.9606,
+        "episode_number": "2",
+        "collection_title": "Futurama",
+        "original_air_date": 1650243600,
+        "auth_launch_date": 1650254400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004152200089064",
+        "media_id": "94246f609aca6644e0bd1c43b8ca184eddef84f8",
+        "modified": 1650014035,
+        "slug": "benderama",
+        "id": "AYAqvgpD208s7zyYUMli",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1650859140,
+        "created": 1649984539,
+        "tms_id": "EP003034830109",
+        "title_id": "2161638",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "description": "When Bender dies, his disembodied software begins haunting the Planet Express building.",
+        "title_suggest": {
+            "input": [
+                "Ghost in the Machines",
+                "in the Machines",
+                "the Machines",
+                "Machines"
+            ]
+        },
+        "published": 1650014036,
+        "title": "Ghost in the Machines",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1360.359,
+        "episode_number": "3",
+        "collection_title": "Futurama",
+        "original_air_date": 1650245400,
+        "auth_launch_date": 1650254400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004152200089063",
+        "media_id": "e2017d9a253b56c8ed3ce51688ef2dc171fdeedf",
+        "modified": 1650014036,
+        "slug": "ghost-in-the-machines",
+        "id": "AYAqvgvA208s7zyYUMlj",
         "auth": true
     }
 ]
