@@ -2,17 +2,44 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 17, 2022 at 10:00:28 EDT_
+_Last Update: April 18, 2022 at 00:00:26 EDT_
 ## Video added
 ### Summary
-2387380 Lupin the 3rd Part 6: 1  
-### 2387381
-**Lupin the 3rd Part 6 S01E01 - Episode 0 - The Times -**  
-TV-14 🔒 22:38  
-⌛ May 8, 2022 at 04:59:00 EDT  
-https://www.adultswim.com/videos/lupin-the-3rd-part-6/episode-0-the-times  
-seriesid=`2387380` titleid=`2387381` id=`AYAuT1zA_0O4w1rD3SA6` mediaid=`f4feaf7b3abde63a3dca391b7e72f83c2f87e1df`  
-_AI drones, plastic pistols, new gadgets…times have changed, but Jigen isn't sure he can change with them. Is it finally time to call it quits on his life of crime?_  
-<a href="https://media.cdn.adultswim.com/uploads/20220415/thumbnails/2_22415152425-LupinThe3rd_Part6_00_TheTimes.png"><img src="https://media.cdn.adultswim.com/uploads/20220415/thumbnails/2_22415152425-LupinThe3rd_Part6_00_TheTimes.png" height="144px" /></a>
+2178188 Lazor Wulf: 1  
+2196566 Momma Named Me Sheriff: 1  
+### 2224735
+**Lazor Wulf S02E04 - The End Is High**  
+TV-14-L 🔓 10:52  
+⌛ May 22, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/lazor-wulf/the-end-is-high  
+seriesid=`2178188` titleid=`2224735` id=`AXX66ZR8LyLQBOXK_Pri` mediaid=`fdf38943fdbd4cfe8f6a02699c30d1f15b9e1c29`  
+_The End Is High._  
+<a href="https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241040101-LazorWulf_204_dup-20201001_EndIsHigh.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241040101-LazorWulf_204_dup-20201001_EndIsHigh.jpg" height="144px" /></a>
+### 2196574
+**Momma Named Me Sheriff S01E08 - Chili Snakes**  
+TV-MA 🔓 10:56  
+⌛ May 22, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/momma-named-me-sheriff/chili-snakes  
+seriesid=`2196566` titleid=`2196574` id=`AW5qsjBR1YiBSfg0KYfN` mediaid=`e5d405a0f967c69d4940ca10d9ee1245cc53037d`  
+_Previously, on Momma Named Me Sheriff..._  
+<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2178188 Lazor Wulf: 1  
+2196566 Momma Named Me Sheriff: 1  
+### 2178192
+**Lazor Wulf S01E04 - At the End of the Day**  
+TV-14-DL 🔒 11:18  
+⌛ April 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/lazor-wulf/at-the-end-of-the-day  
+seriesid=`2178188` titleid=`2178192` id=`AWnz31nIHl5gR6828zHM` mediaid=`80e34b029910a869e3faaf1eb4278db0bad75f2e`  
+_At the end of the day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15549925220073.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15549925220073.jpg" height="144px" /></a>
+### 2247957
+**Momma Named Me Sheriff S02E07 - Election**  
+TV-MA-S 🔒 11:16  
+⌛ April 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/momma-named-me-sheriff/election  
+seriesid=`2196566` titleid=`2247957` id=`AXewRoxkbxpjZvbXYmTh` mediaid=`d9babfd82dc625cc1d9dc113ff11df091ad4914b`  
+_Goodman must leave the country and jump through a series of ridiculous hoops in order to cancel a simple membership subscription._  
+<a href="https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg" height="144px" /></a>
