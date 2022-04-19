@@ -2,16 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 19, 2022 at 13:00:27 EDT_
+_Last Update: April 19, 2022 at 16:30:28 EDT_
 ## Video added
-### Summary
-340537 Aqua Teen Hunger Force: 1  
-### 
-**Aqua Teen Hunger Force S12E02 - The Broodwrap**  
- 🔓 00:00  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/the-broodwrap  
-seriesid=`340537` titleid=`` id=`AYA90fD-208s7zyYUMol` mediaid=`meff8883abf013d615fa95e496f4c0ac3cd0fa5fc0`  
-_The devilish deli meat demon returns, wrapped in a new cloak of roasted tomato darkness._  
-<a href="https://media.cdn.adultswim.com/uploads/20220419/thumbnails/2_224191236440-AquaDonk_102_Uncensored.png"><img src="https://media.cdn.adultswim.com/uploads/20220419/thumbnails/2_224191236440-AquaDonk_102_Uncensored.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2268280 Yashahime: Princess Half-Demon: 1  
+### 2268295
+**Yashahime: Princess Half-Demon S01E15 - Farewell Under the Lunar Eclipse**  
+TV-14-V 🔒 22:26  
+⌛ April 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/yashahime-princess-half-demon/farewell-under-the-lunar-eclipse  
+seriesid=`2268280` titleid=`2268295` id=`AXxduV_jUQa40cfnRSQq` mediaid=`454a98cdebebfa7d07b3b5a1eaad64ffc0f95bba`  
+_The truth behind the night that sealed the fate of Towa, Setsuna, and Moroha's parents is finally revealed._  
+<a href="https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_2110811896-YashahimePrincessHalfDemon_115_FarewellTheLunarEclipse.png"><img src="https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_2110811896-YashahimePrincessHalfDemon_115_FarewellTheLunarEclipse.png" height="144px" /></a>
