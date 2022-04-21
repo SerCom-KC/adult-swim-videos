@@ -102,7 +102,7 @@
         "cma_id": "2100306"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1477319400,
         "auth_expiration_date": 1653537540,
         "tms_id": "EP013726210022",
@@ -151,52 +151,6 @@
         "launch_date": 1647489600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/straight-outta-hades/yourprettyface_302_NoAdsCue_dup-20161018.jpg",
         "cma_id": "1467144"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447787280,
-        "auth_expiration_date": 1650513540,
-        "tms_id": "EP013726210017",
-        "description": "Satan reunites with a beloved 80's hair band to give Millennials a swift kick in their hairless crotches.",
-        "title_suggest": {
-            "input": [
-                "N\u00fc-Byle"
-            ]
-        },
-        "expiration_date": 1647489540,
-        "title": "N\u00fc-Byle",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 699.52,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "8",
-        "original_air_date": 1442204100,
-        "clip_order": null,
-        "auth_launch_date": 1647489600,
-        "modified": 1649888798,
-        "airing_id": "RADS1003122200078721",
-        "media_id": "4ae2577554bf04062be9ca5790cc4c1fe237099a",
-        "id": "6Mue1m99QASv81po9csWzA",
-        "slug": "nu-byle",
-        "views": 25018,
-        "created": 1436294485,
-        "season_number": "2",
-        "title_id": "2062766",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1649888798,
-        "first_published": 1442071220,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1644469200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/nu-byle/ypf_ep204_003_nyawpjsugey8a7dg6sfe_2.jpg",
-        "cma_id": "1365263"
     },
     {
         "ott_launch_date": null,
@@ -959,5 +913,55 @@
         "launch_date": 1481577852,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-marathon/marathonStream_ypf6.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1480347000,
+        "auth_expiration_date": 1631159940,
+        "tms_id": "EP013726210027",
+        "description": "Satan isn't pleased with the current tortures, so he brings in an outside consultant.",
+        "title_suggest": {
+            "input": [
+                "Torture"
+            ]
+        },
+        "create_in_collection": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "expiration_date": 1653537540,
+        "title": "Torture",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 686.05,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "6",
+        "original_air_date": 1480307400,
+        "clip_order": null,
+        "auth_launch_date": 1628136000,
+        "modified": 1650086673,
+        "media_id": "d61aa266bd745ad4e684b69597ab69ef5e2e1a5e",
+        "airing_id": "RADS1004152200089285",
+        "id": "xqvtv_MeSBGknp8vIflqpQ",
+        "slug": "torture",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1477316853,
+        "season_number": "3",
+        "title_id": "2100307",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1650086673,
+        "first_published": 1480281037,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1650513600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/torture/yourprettyface_306_NoAdsCue_dup-20161122.jpg",
+        "cma_id": "2100307"
     }
 ]
