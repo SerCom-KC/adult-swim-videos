@@ -1,56 +1,42 @@
 {
-    "updated": 1650646829,
-    "added": [
+    "updated": 1650655827,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "It\u2019s \u2018Hell Week\u2019 with your favorite Frat Aliens, and they\u2019ve got some new pledges under their fins.",
+            "auth_expiration_date": 1660822140,
+            "created": 1610915206,
+            "tms_id": "EP034917240094",
+            "title_id": "2177754",
+            "season_number": "6",
+            "tv_rating": "tv-pg-lv",
+            "description": "Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan.",
             "title_suggest": {
                 "input": [
-                    "Frat Aliens Hell Week",
-                    "Aliens Hell Week",
-                    "Hell Week",
-                    "Week"
+                    "Jinchuriki vs. Jinchuriki!!",
+                    "vs. Jinchuriki!!",
+                    "Jinchuriki!!"
                 ]
             },
-            "title": "Frat Aliens Hell Week",
-            "expiration_date": null,
+            "published": 1650025100,
+            "title": "Jinchuriki vs. Jinchuriki!!",
             "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-            "duration": 0,
-            "episode_number": "5",
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "airing_id": "",
-            "media_id": "me96f416bc09223d4c8cc9aef8d725d7cc4d936b90",
-            "modified": 1650645112,
-            "slug": "frat-aliens-hell-week",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220422/thumbnails/1_224221224480-AquaDonk_105_Uncensored.png",
-            "created": 1650316707,
-            "season_number": "12",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1650645112,
             "tags": [],
-            "collection_title": "Aqua Teen Hunger Force",
-            "disable_ads": false,
-            "modified_by": "Zeus Listener",
-            "launch_date": 1650645900,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220422/thumbnails/2_224221224480-AquaDonk_105_Uncensored.png",
-            "id": "AYA-ioab_0O4w1rD3SB-",
-            "auth": false,
-            "collection_slug": "aqua-teen-hunger-force",
-            "collection_title_id": "340537",
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.3768,
+            "episode_number": "42",
+            "collection_title": "Naruto: Shippuden",
+            "original_air_date": 1611475200,
+            "auth_launch_date": 1650454200,
+            "modified_by": "ODT Listener",
+            "airing_id": "RADS1004152200089208",
+            "media_id": "29bf5708c9c39986b93b4e3216dc45e468ec45c9",
+            "modified": 1650025100,
+            "slug": "jinchuriki-vs-jinchuriki",
+            "id": "AXcSB1PabxpjZvbXYmDA",
+            "auth": true,
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
