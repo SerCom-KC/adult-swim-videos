@@ -2,33 +2,33 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 22, 2022 at 21:00:27 EDT_
+_Last Update: April 22, 2022 at 21:30:31 EDT_
 ## Video added
 ### Summary
 830073 Off The Air: 3  
-### 2199313
-**Off The Air S09E03 - Fire**  
- 🔒 11:21  
+### 2228722
+**Off The Air S10E01 - Coping**  
+ 🔒 11:24  
 ⌛ April 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/off-the-air/fire  
-seriesid=`830073` titleid=`2199313` id=`AW6QAf5z1YiBSfg0KYx3` mediaid=`a28dd0dfaa7a97951d58b3a51983c1577b049fc9`  
-_It's all around you._  
-<a href="https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg" height="144px" /></a>
-### 2228724
-**Off The Air S10E03 - Progress**  
-TV-MA-S 🔒 10:53  
+https://www.adultswim.com/videos/off-the-air/coping  
+seriesid=`830073` titleid=`2228722` id=`AXJbk7t7Rs3h4hI_X35-` mediaid=`2a7850c985dd8ffdc2dc2e94c90dfc8107a97db0`  
+_You are not alone. Well, maybe a little bit. Yeah, definitely pretty much alone._  
+<a href="https://media.cdn.adultswim.com/uploads/20200604/thumbnails/2_2064102031-offtheair_1001_Coping.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200604/thumbnails/2_2064102031-offtheair_1001_Coping.jpg" height="144px" /></a>
+### 2228723
+**Off The Air S10E02 - Dreams**  
+TV-MA 🔒 11:24  
 ⌛ April 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/off-the-air/progress  
-seriesid=`830073` titleid=`2228724` id=`AXaK5-cSQJ_4Uej5kTgG` mediaid=`f2b284b748c0998964e8cd02c7b2e432be26086d`  
-_Comfort is the enemy._  
-<a href="https://media.cdn.adultswim.com/uploads/20201222/thumbnails/2_201222943400-OTA_1003_Progress_dup-20201217.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201222/thumbnails/2_201222943400-OTA_1003_Progress_dup-20201217.jpg" height="144px" /></a>
-### 2141741
-**Off The Air S07E02 - Technology**  
-TV-PG 🔓 11:11  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/off-the-air/technology  
-seriesid=`830073` titleid=`2141741` id=`AV_uU6zoZ-onAnjDLtKk` mediaid=`6ab103506bb9db9cafc32637ad4d3af882a96801`  
-_404 Not Found_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312134362-offtheair_701_dup-20171121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312134362-offtheair_701_dup-20171121.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/off-the-air/dreams  
+seriesid=`830073` titleid=`2228723` id=`AXaK56DvQJ_4Uej5kTgF` mediaid=`9290951799ea22d5518a04dd3cd9a1ffa696d4b2`  
+_Trying to keep up with reality._  
+<a href="https://media.cdn.adultswim.com/uploads/20201222/thumbnails/2_201222943216-OTA_1002_Dreams_dup-20201221.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201222/thumbnails/2_201222943216-OTA_1002_Dreams_dup-20201221.jpg" height="144px" /></a>
+### 2199314
+**Off The Air S09E04 - Patterns**  
+TV-PG 🔒 11:21  
+⌛ April 22, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/off-the-air/patterns  
+seriesid=`830073` titleid=`2199314` id=`AW8kLZlAGRcVO2K2pl_H` mediaid=`405969393beaeacf6a315ea92aeaa9bb135115fd`  
+_Watch, rinse, repeat._  
+<a href="https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
