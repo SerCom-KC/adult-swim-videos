@@ -1,53 +1,89 @@
 {
-    "updated": 1650772934,
+    "updated": 1650772998,
     "added": [
         {
-            "auth_expiration_date": 1654055940,
-            "tms_id": "EP014135410041",
-            "description": "Trying to keep up with reality.",
+            "auth_expiration_date": 1651377540,
+            "created": 1650319301,
+            "tms_id": "EP003034830049",
+            "title_id": "438052",
+            "season_number": "4",
+            "tv_rating": "tv-pg",
+            "description": "A space vacuum sucks Bender into a celestial realm where he makes devastating decisions.",
             "title_suggest": {
                 "input": [
-                    "Dreams"
+                    "Godfellas"
                 ]
             },
-            "title": "Dreams",
-            "expiration_date": 1634097540,
+            "published": 1650392631,
+            "title": "Godfellas",
             "type": "episode",
+            "tags": [],
+            "collection_id": "AX3EZD2dUQa40cfnRS9d",
+            "duration": 1401.7337,
+            "episode_number": "8",
+            "collection_title": "Futurama",
+            "original_air_date": 1048478400,
+            "auth_launch_date": 1650772800,
+            "modified_by": "ODT Listener",
+            "airing_id": "RADS1004182200089766",
+            "media_id": "154461d47cfe31ff5a309876b17c795cc19bcbee",
+            "modified": 1650392631,
+            "slug": "godfellas",
+            "id": "AYA-shns208s7zyYUMo2",
+            "auth": true,
+            "collection_slug": "futurama",
+            "collection_title_id": "437532",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth_expiration_date": 1650772740,
+            "tms_id": "EP003034830051",
+            "description": "The orphanarium where Leela grew up honors her for her success as a starship captain.",
+            "title_suggest": {
+                "input": [
+                    "Leela's Homeworld",
+                    "Homeworld"
+                ]
+            },
+            "title": "Leela's Homeworld",
+            "type": "episode",
+            "expiration_date": null,
             "platforms": [
                 "android",
                 "ios",
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-            "duration": 684.9176,
-            "episode_number": "2",
-            "original_air_date": "1609232400",
-            "auth_launch_date": 1650772800,
+            "collection_id": "AX3EZD2dUQa40cfnRS9d",
+            "duration": 1401.6669,
+            "episode_number": "5",
+            "original_air_date": 1048737600,
+            "auth_launch_date": 1650168000,
             "clip_order": null,
-            "airing_id": "RADS1004222200091770",
-            "media_id": "9290951799ea22d5518a04dd3cd9a1ffa696d4b2",
-            "modified": 1650677445,
-            "slug": "dreams",
+            "airing_id": "RADS1004112200088134",
+            "media_id": "1ebef2da85fc28bd2b3ba5d810432389c8f00555",
+            "modified": 1649791071,
+            "slug": "leelas-homeworld",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201222/thumbnails/1_201222943216-OTA_1002_Dreams_dup-20201221.jpg",
-            "created": 1608648204,
-            "season_number": "10",
-            "title_id": "2228723",
-            "tv_rating": "tv-ma",
-            "published": 1650677445,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121517385-Futurama_049_LeelasHomeworld.png",
+            "created": 1649688341,
+            "title_id": "438510",
+            "season_number": "4",
+            "tv_rating": "tv-pg",
+            "published": 1649791071,
             "tags": [],
-            "collection_title": "Off The Air",
+            "collection_title": "Futurama",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1631073600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201222/thumbnails/2_201222943216-OTA_1002_Dreams_dup-20201221.jpg",
-            "id": "AXaK56DvQJ_4Uej5kTgF",
+            "modified_by": "Sara Griggs",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121517385-Futurama_049_LeelasHomeworld.png",
+            "id": "AYAZFmxB208s7zyYUMkG",
             "auth": true,
-            "collection_slug": "off-the-air",
-            "collection_title_id": "830073",
+            "collection_slug": "futurama",
+            "collection_title_id": "437532",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
