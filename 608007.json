@@ -151,7 +151,7 @@
         "launch_date": 1650187800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221447239-OnePiece_535_HordysOnslaughtTheRetalitoryPlanSetIntoMotion.png",
         "id": "AX-y9K7K208s7zyYUMZk",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1654487940,
@@ -829,7 +829,7 @@
         "launch_date": 1650792600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330137180-OnePiece_537_KeepShirahoshiSafeDeckenCloseBehind.png",
         "id": "AX_RSz1h_0O4w1rD3R6G",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1651399140,
@@ -982,6 +982,59 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121522508-OnePiece_541_KizaruAppearsATrapToCatchTiger.png",
         "id": "AYAfOro4208s7zyYUMks",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1652606940,
+        "tms_id": "EP035179090027",
+        "description": "The great pirate Fisher Tiger keeps his promise to a young slave girl, but the adults in her village are determined to make him pay for his act of honor.",
+        "title_suggest": {
+            "input": [
+                "The Death of the Hero! A Shocking Truth of Tiger!",
+                "Death of the Hero! A Shocking Truth of Tiger!",
+                "of the Hero! A Shocking Truth of Tiger!",
+                "the Hero! A Shocking Truth of Tiger!",
+                "Hero! A Shocking Truth of Tiger!",
+                "A Shocking Truth of Tiger!",
+                "Shocking Truth of Tiger!",
+                "Truth of Tiger!",
+                "of Tiger!",
+                "Tiger!"
+            ]
+        },
+        "title": "The Death of the Hero! A Shocking Truth of Tiger!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.2643,
+        "episode_number": "26",
+        "original_air_date": "1650780000",
+        "auth_launch_date": 1650792600,
+        "clip_order": null,
+        "airing_id": "RADS1004202200090214",
+        "media_id": "eaf595b42ed5ccfddcb9d2e7fb52529e9039cbc6",
+        "modified": 1650655396,
+        "slug": "the-death-of-the-hero-a-shocking-truth-of-tiger",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_22420143862-OnePiece_543_TheDeathOfTheHeroAShockingTruthOfTiger.png",
+        "created": 1650479896,
+        "season_number": "15",
+        "title_id": "2363811",
+        "tv_rating": "tv-pg-l",
+        "published": 1650655396,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_22420143862-OnePiece_543_TheDeathOfTheHeroAShockingTruthOfTiger.png",
+        "id": "AYBIRJly_0O4w1rD3SCg",
         "auth": true
     }
 ]
