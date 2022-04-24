@@ -1535,7 +1535,7 @@
         "launch_date": 1649577600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171424566-AttackOnTitan_081_Thaw.png",
         "id": "AX-TyT9z208s7zyYUMVa",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1650182340,
@@ -1852,7 +1852,7 @@
         "launch_date": 1650787200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330134467-AttackOnTitan_083_Pride.png",
         "id": "AX_bya__208s7zyYUMdM",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1651550340,
@@ -2675,6 +2675,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121519487-AttackOnTitan_085_Traitor.png",
         "id": "AYAfN-4y208s7zyYUMko",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1652601540,
+        "tms_id": "EP034992000086",
+        "description": "For the flying boat to take off, the mechanics need half a day to service it. Knowing they'll never last that long with Jaegerist reinforcements on the way, the crew is forced to change their plans.",
+        "title_suggest": {
+            "input": [
+                "Retrospective"
+            ]
+        },
+        "title": "Retrospective",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+        "duration": 1359.2912,
+        "episode_number": "27",
+        "original_air_date": "1650774600",
+        "auth_launch_date": 1650787200,
+        "clip_order": null,
+        "airing_id": "RADS1004202200090207",
+        "media_id": "84e0db370d9ce8d1ca7a3899427b1b9af7826f91",
+        "modified": 1650502157,
+        "slug": "retrospective",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201435206-AttackOnTitan_086_Retrospective.png",
+        "created": 1650479731,
+        "season_number": "4",
+        "title_id": "2378385",
+        "tv_rating": "tv-ma",
+        "published": 1650502157,
+        "tags": [],
+        "collection_title": "Attack on Titan",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201435206-AttackOnTitan_086_Retrospective.png",
+        "id": "AYBIQhMF_0O4w1rD3SCf",
         "auth": true
     },
     {
