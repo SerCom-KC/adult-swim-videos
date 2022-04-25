@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 25, 2022 at 13:00:28 EDT_
+_Last Update: April 25, 2022 at 14:30:28 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-830073 Off The Air: 1  
-### 2032789
-**Off The Air S04E02 - Sports**  
-TV-PG 🔒 11:02  
-⌛ April 25, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/off-the-air/sports  
-seriesid=`830073` titleid=`2032789` id=`73WE3JsXSTC4uQacg2U9EQ` mediaid=`1091fe2d3d8a54a8caea6c4a2b31792d0fda8d2b`  
-_Arbitrary goals, invented glory, permanent brain damage._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312133764-offtheair_403_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312133764-offtheair_403_dup.jpg" height="144px" /></a>
+340537 Aqua Teen Hunger Force: 1  
+### 
+**Aqua Teen Hunger Force S12E08 - Merlo’s Revenge Upon Unbelievable Ron**  
+ 🔓 00:00  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/merlos-revenge-upon-unbelievable-ron  
+seriesid=`340537` titleid=`` id=`AYA-jKXc208s7zyYUMov` mediaid=`me63423c10047c8b707de5204a86e9c4a388db3013`  
+_Merlo, and a hypnotized Carl, return to Unbelievable Ron’s act with a plan for revenge._  
+<a href="https://media.cdn.adultswim.com/uploads/20220425/thumbnails/2_22425149356-AquaDonk_108_Uncensored.png"><img src="https://media.cdn.adultswim.com/uploads/20220425/thumbnails/2_22425149356-AquaDonk_108_Uncensored.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
