@@ -1,114 +1,57 @@
 {
-    "updated": 1650990626,
+    "updated": 1650994236,
     "added": [
         {
-            "ott_launch_date": null,
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Accordion",
+            "description": "Meatwad\u2019s search for the perfect doll is interrupted by an old friend.",
             "title_suggest": {
                 "input": [
-                    "Accordion"
+                    "The Dumbest Doll of All",
+                    "Dumbest Doll of All",
+                    "Doll of All",
+                    "of All",
+                    "All"
                 ]
             },
+            "title": "The Dumbest Doll of All",
             "expiration_date": null,
-            "type": "clip",
-            "title": "Accordion",
+            "type": "episode",
             "platforms": [
                 "android",
                 "ios",
                 "roku",
-                "fire-tv",
-                "online-exclusive"
+                "fire-tv"
             ],
-            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 14.97,
+            "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+            "duration": 0,
+            "episode_number": "9",
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
-            "media_id": "meee5c1965062be23d60537849aa6e9a8df1e68122",
-            "modified": 1650641810,
             "airing_id": "",
-            "slug": "accordion",
+            "media_id": "med957bd01f0fbc9028b6235f0b129032fd0d44a4b",
+            "modified": 1650911718,
+            "slug": "the-dumbest-doll-of-all",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15296896557248.jpg",
-            "created": 1529689639,
-            "season_number": "",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220425/thumbnails/1_22425142868-AquaDonk_109_Uncensored.png",
+            "created": 1650316878,
+            "season_number": "12",
             "title_id": "",
             "tv_rating": "",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1650641810,
-            "tags": [
-                "bumper"
-            ],
-            "collection_title": "Rick and Morty",
-            "disable_ads": false,
-            "modified_by": "Sara Griggs",
-            "launch_date": 1650988800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296896557248.jpg",
-            "id": "AWQom4wiqBveI_0AhKqB",
-            "auth": false,
-            "collection_slug": "rick-and-morty",
-            "collection_title_id": "2013506",
-            "online_exclusives": true
-        }
-    ],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": 1508768940,
-            "auth_expiration_date": 1651377599,
-            "tms_id": "EP007008180109",
-            "description": "Grab deez nutz and Guzzle up!",
-            "title_suggest": {
-                "input": [
-                    "The Guzzle Bumpkin",
-                    "Guzzle Bumpkin",
-                    "Bumpkin"
-                ]
-            },
-            "expiration_date": 1598932799,
-            "title": "The Guzzle Bumpkin",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "duration": 674.500417,
-            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "episode_number": "2",
-            "original_air_date": 1508731200,
-            "clip_order": null,
-            "auth_launch_date": 1647489600,
-            "modified": 1650968716,
-            "media_id": "6ea7a7a8d6f2b63810c8b999fe5c800d997392ae",
-            "airing_id": "RADS1003122200078875",
-            "id": "uDDNlaxhRV2c-zu7uIlBJQ",
-            "slug": "the-guzzle-bumpkin",
-            "views": 914,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141150475-squidbillies_913_dup-20171019.jpg",
-            "created": 1508443167,
-            "season_number": "11",
-            "title_id": "2108967",
-            "tv_rating": "tv-ma-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1650968716,
-            "first_published": 1508677827,
+            "published": 1650911718,
             "tags": [],
-            "collection_title": "Squidbillies",
+            "collection_title": "Aqua Teen Hunger Force",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1542690000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141150475-squidbillies_913_dup-20171019.jpg",
-            "cma_id": "2108967",
-            "collection_slug": "squidbillies",
-            "collection_title_id": "581268",
+            "modified_by": "Zeus Listener",
+            "launch_date": 1650990600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220425/thumbnails/2_22425142868-AquaDonk_109_Uncensored.png",
+            "id": "AYA-jSO3_0O4w1rD3SCB",
+            "auth": false,
+            "collection_slug": "aqua-teen-hunger-force",
+            "collection_title_id": "340537",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }

@@ -2,20 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 26, 2022 at 12:30:26 EDT_
+_Last Update: April 26, 2022 at 13:30:36 EDT_
 ## Video added
 ### Summary
-2013506 Rick and Morty: 1  
-### Online Exclusives
-`AWQom4wiqBveI_0AhKqB` [Rick and Morty - Accordion](https://www.adultswim.com/videos/rick-and-morty/accordion)  
+340537 Aqua Teen Hunger Force: 1  
+### 
+**Aqua Teen Hunger Force S12E09 - The Dumbest Doll of All**  
+ 🔓 00:00  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/the-dumbest-doll-of-all  
+seriesid=`340537` titleid=`` id=`AYA-jSO3_0O4w1rD3SCB` mediaid=`med957bd01f0fbc9028b6235f0b129032fd0d44a4b`  
+_Meatwad’s search for the perfect doll is interrupted by an old friend._  
+<a href="https://media.cdn.adultswim.com/uploads/20220425/thumbnails/2_22425142868-AquaDonk_109_Uncensored.png"><img src="https://media.cdn.adultswim.com/uploads/20220425/thumbnails/2_22425142868-AquaDonk_109_Uncensored.png" height="144px" /></a>
 ## Video removed
-### Summary
-581268 Squidbillies: 1  
-### 2108967
-**Squidbillies S11E02 - The Guzzle Bumpkin**  
-TV-MA-LV 🔒 11:14  
-⌛ April 30, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/the-guzzle-bumpkin  
-seriesid=`581268` titleid=`2108967` id=`uDDNlaxhRV2c-zu7uIlBJQ` mediaid=`6ea7a7a8d6f2b63810c8b999fe5c800d997392ae`  
-_Grab deez nutz and Guzzle up!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141150475-squidbillies_913_dup-20171019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141150475-squidbillies_913_dup-20171019.jpg" height="144px" /></a>
+No videos were removed.  
