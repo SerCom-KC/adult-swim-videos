@@ -1,56 +1,59 @@
 {
-    "updated": 1650963625,
-    "added": [],
-    "removed": [
+    "updated": 1650967225,
+    "added": [
         {
-            "ott_launch_date": 1511796540,
             "auth": true,
+            "ott_launch_date": 1510586940,
             "auth_expiration_date": 1651377599,
-            "tms_id": "EP007008180113",
-            "description": "Everyone lies and all the houses burn.",
+            "tms_id": "EP007008180111",
+            "description": "It takes a man to make the women's room safe from men who think they're women.",
             "title_suggest": {
                 "input": [
-                    "Tortuga de Mentiras",
-                    "de Mentiras",
-                    "Mentiras"
+                    "The Ballad of the Latrine Marine",
+                    "Ballad of the Latrine Marine",
+                    "of the Latrine Marine",
+                    "the Latrine Marine",
+                    "Latrine Marine",
+                    "Marine"
                 ]
             },
-            "title": "Tortuga de Mentiras",
+            "title": "The Ballad of the Latrine Marine",
             "type": "episode",
-            "expiration_date": 1602561540,
+            "expiration_date": 1600747199,
             "platforms": [
                 "fire-tv",
                 "ott",
                 "roku"
             ],
             "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 677.17,
-            "episode_number": "7",
-            "original_air_date": 1511758800,
+            "duration": 677.08,
+            "episode_number": "5",
+            "original_air_date": 1510549200,
             "auth_launch_date": 1647489600,
             "clip_order": null,
-            "media_id": "9128debc734b5f6b717c7c9af0cc04c0aa3c7e43",
-            "modified": 1650958852,
-            "airing_id": "RADS1003122200078902",
-            "id": "AV_uQ6mowdpKFAKSbh1U",
-            "slug": "tortuga-de-mentiras",
+            "media_id": "54c9c90fbf1aa2f2904e6caad7de635e7fa0d2a0",
+            "modified": 1650966024,
+            "airing_id": "RADS1003122200078897",
+            "id": "AV-mQXGAwdpKFAKSbS73",
+            "slug": "the-ballad-of-the-latrine-marine",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15118054331064.jpg",
-            "created": 1511530932,
-            "title_id": "2108971",
-            "tv_rating": "tv-14-dlv",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151058978554711.jpg",
+            "created": 1510322827,
+            "title_id": "2108968",
+            "tv_rating": "tv-14-dlsv",
             "season_number": "11",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1650958852,
+            "published": 1650966024,
             "tags": [],
             "collection_title": "Squidbillies",
             "modified_by": "ODT Listener",
-            "launch_date": 1599537600,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg",
+            "launch_date": 1542690000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151058978554711.jpg",
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }

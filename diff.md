@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 26, 2022 at 05:00:25 EDT_
+_Last Update: April 26, 2022 at 06:00:25 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 581268 Squidbillies: 1  
-### 2108971
-**Squidbillies S11E07 - Tortuga de Mentiras**  
-TV-14-DLV 🔒 11:17  
+### 2108968
+**Squidbillies S11E05 - The Ballad of the Latrine Marine**  
+TV-14-DLSV 🔒 11:17  
 ⌛ April 30, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/tortuga-de-mentiras  
-seriesid=`581268` titleid=`2108971` id=`AV_uQ6mowdpKFAKSbh1U` mediaid=`9128debc734b5f6b717c7c9af0cc04c0aa3c7e43`  
-_Everyone lies and all the houses burn._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/squidbillies/the-ballad-of-the-latrine-marine  
+seriesid=`581268` titleid=`2108968` id=`AV-mQXGAwdpKFAKSbS73` mediaid=`54c9c90fbf1aa2f2904e6caad7de635e7fa0d2a0`  
+_It takes a man to make the women's room safe from men who think they're women._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151058978554711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151058978554711.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
