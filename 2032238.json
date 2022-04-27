@@ -151,57 +151,6 @@
         "cma_id": "1465241"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1651031940,
-        "tms_id": "EP020020000026",
-        "description": "A Savings & Loan Company engages the Mike Tyson Mystery Team.",
-        "title_suggest": {
-            "input": [
-                "Mystery for Hire",
-                "for Hire",
-                "Hire"
-            ]
-        },
-        "expiration_date": 1644987540,
-        "title": "Mystery for Hire",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 676.9174312,
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "episode_number": "16",
-        "original_air_date": 1463975100,
-        "clip_order": null,
-        "auth_launch_date": 1644987600,
-        "modified": 1644654490,
-        "media_id": "ce1a3f2fa745da6da398994c89992bc7c5765404",
-        "airing_id": "RADS1001092200060205",
-        "id": "4QpNoASGTJCTw8jby-tpTA",
-        "slug": "mystery-for-hire",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111528530-miketysonmysteries_028.jpg",
-        "created": 1445444187,
-        "season_number": "2",
-        "title_id": "2069751",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1644654490,
-        "first_published": 1463645419,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1641963600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111528530-miketysonmysteries_028.jpg",
-        "cma_id": "1477183"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -559,7 +508,7 @@
         "cma_id": "1442312"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1657079940,
         "tms_id": "EP020020000036",
@@ -864,5 +813,55 @@
         "launch_date": 1643778000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111530401-miketysonmysteries_026-027.jpg",
         "cma_id": "2069750"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1630468740,
+        "tms_id": "EP020020000042",
+        "description": "The team gets the Mystery Mobile a regular car wash for $9.99.",
+        "title_suggest": {
+            "input": [
+                "At the Car Wash",
+                "the Car Wash",
+                "Car Wash",
+                "Wash"
+            ]
+        },
+        "title": "At the Car Wash",
+        "type": "episode",
+        "expiration_date": 1654055940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 676.71,
+        "episode_number": "12",
+        "original_air_date": 1520825400,
+        "clip_order": null,
+        "auth_launch_date": 1624420800,
+        "modified": 1650705326,
+        "media_id": "891a1f07cc954eebccaee5c4120ab3ec52cfac19",
+        "airing_id": "RADS1004232200091952",
+        "id": "wAOB1zO6RuOajrRkRNs1hw",
+        "slug": "at-the-car-wash",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311153529-miketysonmysteries_316_dup-20170731.jpg",
+        "created": 1500644669,
+        "season_number": "3",
+        "title_id": "2117699",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1650705326,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1651032000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311153529-miketysonmysteries_316_dup-20170731.jpg",
+        "cma_id": ""
     }
 ]
