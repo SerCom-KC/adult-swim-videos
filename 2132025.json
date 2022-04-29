@@ -805,53 +805,5 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836517171912.jpg",
         "id": "AWrVzbPCCorLtcgflqhb",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1513006260,
-        "auth_expiration_date": 1651204740,
-        "tms_id": "EP027912080008",
-        "description": "Two hip hop artists face off in a historic court case in civil court.",
-        "title_suggest": {
-            "input": [
-                "Trial of the Century",
-                "of the Century",
-                "the Century",
-                "Century"
-            ]
-        },
-        "title": "Trial of the Century",
-        "type": "episode",
-        "expiration_date": 1648180740,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-        "duration": 676,
-        "episode_number": "8",
-        "original_air_date": 1512969300,
-        "clip_order": null,
-        "auth_launch_date": 1648180800,
-        "modified": 1647833567,
-        "media_id": "59eb9385752a0ec33987e4933cd837984cdfd7e0",
-        "airing_id": "RADS1003212200081070",
-        "id": "JiRXBcJ-Sqq0QC6OZr2bsA",
-        "slug": "trial-of-the-century",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15130122078113.jpg",
-        "created": 1506002581,
-        "season_number": "1",
-        "title_id": "2132033",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1647833567,
-        "tags": [],
-        "collection_title": "The Jellies",
-        "modified_by": "ODT Listener",
-        "launch_date": 1645160400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130122078113.jpg",
-        "cma_id": ""
     }
 ]

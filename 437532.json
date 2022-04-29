@@ -91,53 +91,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1651204740,
-        "tms_id": "EP003034830052",
-        "description": "Amy's disapproving family tries to break up her relationship with Kif.",
-        "title_suggest": {
-            "input": [
-                "Where the Buggalo Roam",
-                "the Buggalo Roam",
-                "Buggalo Roam",
-                "Roam"
-            ]
-        },
-        "title": "Where the Buggalo Roam",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.5011,
-        "episode_number": "6",
-        "original_air_date": 1047355200,
-        "auth_launch_date": 1650600000,
-        "clip_order": null,
-        "airing_id": "RADS1004152200089312",
-        "media_id": "cac234eaf32bc446b42dad2527c95d20a2246bed",
-        "modified": 1650479393,
-        "slug": "where-the-buggalo-roam",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
-        "created": 1650048005,
-        "title_id": "438045",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
-        "published": 1650479393,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
-        "id": "AYAuhnYE208s7zyYUMnX",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1651463940,
         "tms_id": "EP003034830110",
         "description": "Fry quits his job, and becomes a police officer assigned to the Future Crimes Division.",
@@ -229,6 +182,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
         "id": "AYBIQClS_0O4w1rD3SCd",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1651809540,
+        "tms_id": "EP003034830054",
+        "description": "A power shift at Planet Express has Fry hatching a plan to restore the original regime.",
+        "title_suggest": {
+            "input": [
+                "Future Stock",
+                "Stock"
+            ]
+        },
+        "title": "Future Stock",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.3343,
+        "episode_number": "9",
+        "original_air_date": 1048564800,
+        "auth_launch_date": 1651204800,
+        "clip_order": null,
+        "airing_id": "RADS1004232200092080",
+        "media_id": "1d0ca98291fa6423046fe8250adadd2dc699a52d",
+        "modified": 1651077855,
+        "slug": "future-stock",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271243577-Futurama_053_FutureStock.png",
+        "created": 1650683876,
+        "title_id": "438053",
+        "season_number": "4",
+        "tv_rating": "tv-pg-dl",
+        "published": 1651077855,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271243577-Futurama_053_FutureStock.png",
+        "id": "AYBUbRRI208s7zyYUMsJ",
         "auth": true
     }
 ]
