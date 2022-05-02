@@ -206,110 +206,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1651463940,
-        "tms_id": "EP035179090009",
-        "description": "After their quarrel with the Kraken, the Straw Hats find themselves in hot water as Luffy, Zoro, and Sanji turn up missing, and the rest of the crew runs short on air!",
-        "title_suggest": {
-            "input": [
-                "Lost in the Deep Sea! The Straw Hats Get Separated!",
-                "in the Deep Sea! The Straw Hats Get Separated!",
-                "the Deep Sea! The Straw Hats Get Separated!",
-                "Deep Sea! The Straw Hats Get Separated!",
-                "Sea! The Straw Hats Get Separated!",
-                "The Straw Hats Get Separated!",
-                "Straw Hats Get Separated!",
-                "Hats Get Separated!",
-                "Get Separated!",
-                "Separated!"
-            ]
-        },
-        "title": "Lost in the Deep Sea! The Straw Hats Get Separated!",
-        "type": "episode",
-        "expiration_date": 1647772140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-        "duration": 1332.3977,
-        "episode_number": "9",
-        "original_air_date": 1645340400,
-        "auth_launch_date": 1647772200,
-        "clip_order": null,
-        "airing_id": "RADS1003162200079832",
-        "media_id": "c59ef44396cccad901be16606210caada74c92ff",
-        "modified": 1647464361,
-        "slug": "lost-in-the-deep-sea-the-straw-hats-get-separated",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171623528-OnePiece_525_LostInTheDeepSeaTheStrawHatsGetSeparated.png",
-        "created": 1645128330,
-        "title_id": "2363793",
-        "season_number": "15",
-        "tv_rating": "tv-pg",
-        "published": 1647464361,
-        "tags": [],
-        "collection_title": "One Piece",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1647163800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171623528-OnePiece_525_LostInTheDeepSeaTheStrawHatsGetSeparated.png",
-        "id": "AX8JSi7k208s7zyYUMHp",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1651463940,
-        "tms_id": "EP035179090010",
-        "description": "Thanks to a little help from a friend, Luffy saves his mates from a ghost ship captained by a deranged Dutchman! Unfortunately, their happy reunion is cut short by a volcanic eruption! Can the Hats take the heat?",
-        "title_suggest": {
-            "input": [
-                "Undersea Volcanic Eruption! Drifting to the Fish-Man Island!",
-                "Volcanic Eruption! Drifting to the Fish-Man Island!",
-                "Eruption! Drifting to the Fish-Man Island!",
-                "Drifting to the Fish-Man Island!",
-                "to the Fish-Man Island!",
-                "the Fish-Man Island!",
-                "Fish-Man Island!",
-                "Island!"
-            ]
-        },
-        "title": "Undersea Volcanic Eruption! Drifting to the Fish-Man Island!",
-        "type": "episode",
-        "expiration_date": 1647773940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-        "duration": 1332.4979,
-        "episode_number": "10",
-        "original_air_date": 1645342200,
-        "auth_launch_date": 1647774000,
-        "clip_order": null,
-        "airing_id": "RADS1003102200078321",
-        "media_id": "3688eacd06d447cfeb30f72cd1c092142ba32f7f",
-        "modified": 1647464361,
-        "slug": "undersea-volcanic-eruption-drifting-to-the-fish-man-island",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171624410-OnePiece_526_UnderseaVolcanicEruptionDriftingToTheFishManIsland.png",
-        "created": 1645128334,
-        "title_id": "2363794",
-        "season_number": "15",
-        "tv_rating": "tv-14-ds",
-        "published": 1647464361,
-        "tags": [],
-        "collection_title": "One Piece",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1647165600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171624410-OnePiece_526_UnderseaVolcanicEruptionDriftingToTheFishManIsland.png",
-        "id": "AX8JSj1h208s7zyYUMHr",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1652068740,
         "tms_id": "EP035179090011",
         "description": "The Straw Hats finally make it to Fish-Man Island, but their reputation precedes them, leading to trouble with the New Fish-Man Pirates! Only a daring maneuver can get them out of hot water, but there's no guarantee they'll survive!",
@@ -674,7 +570,7 @@
         "launch_date": 1650794400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330138160-OnePiece_538_TheStrawHatsDefeatedHordyGainsControlOfTheRyuguPalace.png",
         "id": "AX_RS38T208s7zyYUMcU",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1655092740,
@@ -723,7 +619,7 @@
         "launch_date": 1650792600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330137180-OnePiece_537_KeepShirahoshiSafeDeckenCloseBehind.png",
         "id": "AX_RSz1h_0O4w1rD3R6G",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1651399140,
@@ -774,7 +670,7 @@
         "launch_date": 1651399200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_22461450270-OnePiece_539_TheHauntingTiesNameAndTheFishPirates.png",
         "id": "AYAANu1-208s7zyYUMha",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1652002140,
@@ -979,6 +875,109 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201439194-OnePiece_544_TheSunPiratesSplitJumbelVsArlong.png",
         "id": "AYBIRba5_0O4w1rD3SCh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1653211740,
+        "tms_id": "EP035179090029",
+        "description": "Tensions run high when a slave-owning Celestial Dragon washes up on Fish-Man Island. His former captives cry for out for blood, but Queen Otohime sees it as a chance to mend fences between the gilled and non-gilled!",
+        "title_suggest": {
+            "input": [
+                "Shaking Fish-Man Island! A Celestial Dragon Drifts In!",
+                "Fish-Man Island! A Celestial Dragon Drifts In!",
+                "Island! A Celestial Dragon Drifts In!",
+                "A Celestial Dragon Drifts In!",
+                "Celestial Dragon Drifts In!",
+                "Dragon Drifts In!",
+                "Drifts In!",
+                "In!"
+            ]
+        },
+        "title": "Shaking Fish-Man Island! A Celestial Dragon Drifts In!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.2977,
+        "episode_number": "28",
+        "original_air_date": 1651384800,
+        "auth_launch_date": 1651397400,
+        "clip_order": null,
+        "airing_id": "RADS1004262200093140",
+        "media_id": "41f48695b2d44d28c364e2ece935ec8c25a66868",
+        "modified": 1651253608,
+        "slug": "shaking-fish-man-island-a-celestial-dragon-drifts-in",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271254448-OnePiece_545_ShakingFishManIslandACelestialDragonDriftsIn.png",
+        "created": 1651004080,
+        "title_id": "2363813",
+        "season_number": "15",
+        "tv_rating": "tv-pg",
+        "published": 1651253608,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271254448-OnePiece_545_ShakingFishManIslandACelestialDragonDriftsIn.png",
+        "id": "AYBngwJu208s7zyYUMvo",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1653213540,
+        "tms_id": "EP035179090030",
+        "description": "After an agonizing absence, Queen Otohime returns to her people with exciting news. Unfortunately, a horrific act of violence derails the queen's mission and changes life on Fish-Man Island forever.",
+        "title_suggest": {
+            "input": [
+                "A Sudden Tragedy! A Gunshot Shuts Down the Future!",
+                "Sudden Tragedy! A Gunshot Shuts Down the Future!",
+                "Tragedy! A Gunshot Shuts Down the Future!",
+                "A Gunshot Shuts Down the Future!",
+                "Gunshot Shuts Down the Future!",
+                "Shuts Down the Future!",
+                "Down the Future!",
+                "the Future!",
+                "Future!"
+            ]
+        },
+        "title": "A Sudden Tragedy! A Gunshot Shuts Down the Future!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.4311,
+        "episode_number": "29",
+        "original_air_date": 1651386600,
+        "auth_launch_date": 1651399200,
+        "clip_order": null,
+        "airing_id": "RADS1004262200093157",
+        "media_id": "e3db84bb22c614d521637b5a6fa53399d3fcc0d9",
+        "modified": 1651253626,
+        "slug": "a-sudden-tragedy-a-gunshot-shuts-down-the-future",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271255287-OnePiece_546_ASuddenTragedyAGunshotShutsDownTheFuture.png",
+        "created": 1651004093,
+        "title_id": "2363814",
+        "season_number": "15",
+        "tv_rating": "tv-pg",
+        "published": 1651253626,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271255287-OnePiece_546_ASuddenTragedyAGunshotShutsDownTheFuture.png",
+        "id": "AYBngzO7_0O4w1rD3SGs",
         "auth": true
     }
 ]

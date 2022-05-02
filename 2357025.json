@@ -305,7 +305,7 @@
         "launch_date": 1648353600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311347194-ShenmueTheAnimation_005_Equal.png",
         "id": "AX9Gzy7w208s7zyYUMOh",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1648958340,
@@ -437,7 +437,7 @@
         "launch_date": 1651377600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_22461446272-ShenmueTheAnimation_010_Comeback.png",
         "id": "AYAAMyyL208s7zyYUMhX",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1651982340,
@@ -525,6 +525,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201434194-ShenmueTheAnimation_012_Guidepost.png",
         "id": "AYBIQS0j_0O4w1rD3SCe",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1653191940,
+        "tms_id": "EP041785310013",
+        "description": "Ryo finally reaches Lan Di, the man who murdered his Father. Blinded by revenge Ryo viciously attacks Lan Di. Lan Di easily dodges Ryo's attacks and leaves. Yellow Heads' Dou Niu realizes his plan has failed and attacks Ryo.",
+        "title_suggest": {
+            "input": [
+                "Shenmue"
+            ]
+        },
+        "title": "Shenmue",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX7A4z3x_0O4w1rD3Rl_",
+        "duration": 1409.2411,
+        "episode_number": "13",
+        "original_air_date": 1651377600,
+        "auth_launch_date": 1651377600,
+        "clip_order": null,
+        "airing_id": "RADS1004262200093135",
+        "media_id": "c83fdfc42419cd6e265828bcd36e55ee6f791125",
+        "modified": 1651171876,
+        "slug": "shenmue",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_22427125192-ShenmueTheAnimation_013_Shenmue.png",
+        "created": 1651004075,
+        "title_id": "2357038",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "published": 1651171876,
+        "tags": [],
+        "collection_title": "Shenmue: the Animation",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_22427125192-ShenmueTheAnimation_013_Shenmue.png",
+        "id": "AYBngu-5208s7zyYUMvn",
         "auth": true
     }
 ]
