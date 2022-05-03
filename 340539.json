@@ -301,7 +301,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446844860,
         "auth_expiration_date": 1654574340,
         "tms_id": "EP004625750037",
@@ -349,6 +349,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1648526400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351426426-harvey_037.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446843840,
+        "auth_expiration_date": 1633406340,
+        "tms_id": "EP004625750002",
+        "rating": 8.167447,
+        "description": "Ex-Superfriend Apache Chief accidentally spills a latte on his lap and loses his super-ability to \"grow large at will.\"  With Harvey as his attorney, he sues Javalux. A scheming Reducto calls the beautiful coffee shop manager to the stand, who proves that Apache Chief is not injured and does, in fact, still have his teepee.",
+        "title_suggest": {
+            "input": [
+                "Very Personal Injury",
+                "Personal Injury",
+                "Injury"
+            ]
+        },
+        "type": "episode",
+        "title": "Very Personal Injury",
+        "expiration_date": 1654574340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "E6RZbJoRQliL44vITSybtA",
+        "duration": 727.67,
+        "episode_number": "2",
+        "original_air_date": 1001300400,
+        "clip_order": null,
+        "auth_launch_date": 1630382400,
+        "modified": 1651240110,
+        "media_id": "98dcdb32ba16e88922f95d6a92263a0db8854d67",
+        "airing_id": "RADS1004282200093474",
+        "id": "D9PupisSTCyyDIfEcfo6kw",
+        "slug": "very-personal-injury",
+        "views": 296772,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351221161-harvey_002.jpg",
+        "created": 1402945467,
+        "title_id": "344143",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1651240110,
+        "tags": [],
+        "rating_count": 854,
+        "collection_title": "Harvey Birdman, Attorney at Law",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1651550400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351221161-harvey_002.jpg",
         "cma_id": ""
     },
     {
@@ -404,58 +457,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1649131200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035142727-harvey_038.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446844620,
-        "auth_expiration_date": 1651550340,
-        "tms_id": "EP004625750031",
-        "rating": 8.530864,
-        "description": "While engaging in one of the more dangerous aspects of lawyering, photocopying, Harvey has a run in with an old nemesis, The Deadly Duplicator.  An unintentional slight sets the Duplicator off... to duplicate. And duplicate and duplicate.",
-        "title_suggest": {
-            "input": [
-                "Identity Theft",
-                "Theft"
-            ]
-        },
-        "type": "episode",
-        "title": "Identity Theft",
-        "expiration_date": 1648526340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 697.33,
-        "episode_number": "12",
-        "original_air_date": 1130125500,
-        "clip_order": null,
-        "auth_launch_date": 1648526400,
-        "modified": 1648172691,
-        "media_id": "5eeeb00e1620c8c412e635eaa43d726879cf3c8b",
-        "airing_id": "RADS1002182200072162",
-        "id": "o1o6qBZKRiyI7XFmC9wtpg",
-        "slug": "identity-theft",
-        "views": 451510,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351424582-harvey_031.jpg",
-        "created": 1402945467,
-        "title_id": "623569",
-        "season_number": "3",
-        "tv_rating": "tv-pg-dv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1648172691,
-        "tags": [],
-        "rating_count": 1183,
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1645506000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351424582-harvey_031.jpg",
         "cma_id": ""
     },
     {
