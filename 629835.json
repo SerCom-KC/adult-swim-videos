@@ -1,6 +1,56 @@
 [
     {
         "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1652241540,
+        "tms_id": "EP002070020226",
+        "description": "When Arlen is struck by a sweltering heat wave, Hank gets the gang to go to a water park where everybody experiences \"the coolest wave in Texas.\"",
+        "title_suggest": {
+            "input": [
+                "Four Wave Intersection",
+                "Wave Intersection",
+                "Intersection"
+            ]
+        },
+        "title": "Four Wave Intersection",
+        "type": "episode",
+        "expiration_date": 1498102199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1369.6683,
+        "episode_number": "16",
+        "original_air_date": 1238119200,
+        "clip_order": null,
+        "auth_launch_date": 1651636800,
+        "modified": 1651520070,
+        "media_id": "fb696c6f134c36d0b91b44bed26f8202c3f86ac3",
+        "airing_id": "RADS1004282200093507",
+        "id": "B0tyuuhZRkSFXSDPcQCKCg",
+        "slug": "four-wave-intersection",
+        "views": 1958,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521534185-KingOfTheHill_1115_FourWaveIntersection.png",
+        "created": 1402539629,
+        "title_id": "731558",
+        "tv_rating": "tv-pg",
+        "season_number": "11",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1651520070,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1497497400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521534185-KingOfTheHill_1115_FourWaveIntersection.png",
+        "cma_id": "1415122"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1651895940,
         "tms_id": "EP002070020224",
         "rating": 8.143363,
@@ -218,59 +268,5 @@
         "launch_date": 1497411000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271249361-KingOfTheHill_1116_ThePowderPuffBoys.png",
         "cma_id": "1413446"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1651636740,
-        "tms_id": "EP002070020219",
-        "rating": 8.345046,
-        "description": "When Bill decides to get in shape he gets a trainer and a bad attitude, forcing Hank and the guys to come to the rescue, saving Bill from his trainer.",
-        "title_suggest": {
-            "input": [
-                "Bill, Bulk and the Body Buddies",
-                "Bulk and the Body Buddies",
-                "and the Body Buddies",
-                "the Body Buddies",
-                "Body Buddies",
-                "Buddies"
-            ]
-        },
-        "type": "episode",
-        "title": "Bill, Bulk and the Body Buddies",
-        "expiration_date": 1497790799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1367.3326,
-        "episode_number": "11",
-        "original_air_date": 1237946400,
-        "auth_launch_date": 1651032000,
-        "clip_order": null,
-        "modified": 1651077973,
-        "media_id": "30b8e743fce186d6098196a82821cb67f97f43e2",
-        "airing_id": "RADS1004232200092015",
-        "id": "zLIZvhaLRj-2vXU47_17qA",
-        "slug": "bill-bulk-and-the-body-buddies",
-        "views": 209063,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271245543-KingOfTheHill_1111_BillBulkAndTheBodyBuddies.png",
-        "created": 1402945468,
-        "title_id": "731553",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1651077973,
-        "tags": [
-            "king of the hill episode bill bulk and the body buddies trainer "
-        ],
-        "rating_count": 313,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": 1497186000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271245543-KingOfTheHill_1111_BillBulkAndTheBodyBuddies.png",
-        "cma_id": "1412814"
     }
 ]
