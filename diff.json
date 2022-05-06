@@ -1,54 +1,64 @@
 {
-    "updated": 1651875976,
-    "added": [],
-    "removed": [
+    "updated": 1651876162,
+    "added": [
         {
-            "auth_expiration_date": 1652068740,
-            "tms_id": "EP031843450013",
-            "description": "Tuca deals with her nightly insomnia and loneliness by exploring Bird Town after hours. Bertie handles an IBS attack and Speckle has a new pedometer watch!",
+            "auth": true,
+            "ott_launch_date": 1447347480,
+            "auth_expiration_date": 1651982399,
+            "tms_id": "EP007259620018",
+            "rating": 6.113586,
+            "description": "Napoleon Dynamite pops up as a famous figure from history. Fizzing candy has terrible repercussions for young Mikey. A weakling turns into the \"King of the Beach\" with some illegal help.",
             "title_suggest": {
                 "input": [
-                    "Nighttime Friend",
-                    "Friend"
+                    "The Black Cherry",
+                    "Black Cherry",
+                    "Cherry"
                 ]
             },
-            "title": "Nighttime Friend",
             "type": "episode",
-            "expiration_date": null,
+            "title": "The Black Cherry",
+            "expiration_date": 1623038340,
             "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
+                "web",
+                "mobile",
+                "ott"
             ],
-            "collection_id": "AXI5AAWnRs3h4hI_X3zz",
-            "duration": 1351.6169,
-            "episode_number": "4",
-            "original_air_date": 1625455800,
-            "auth_launch_date": 1646024400,
+            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+            "duration": 662.8341675,
+            "episode_number": "20",
+            "original_air_date": 1121659200,
             "clip_order": null,
-            "airing_id": "RADS1002252200073704",
-            "media_id": "2796fac0f41990ff8099c3473934428d8b4b9d2b",
-            "modified": 1650570029,
-            "slug": "nighttime-friend",
+            "auth_launch_date": 1645333200,
+            "modified": 1651875877,
+            "airing_id": "RADS1002162200071909",
+            "media_id": "1dbaff04c6a168f117d8cdb3d5c9ee5a0dd655da",
+            "id": "t9uwK1RGQaiWNAy4U_w2wg",
+            "slug": "the-black-cherry",
+            "views": 871094,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/1_2171145450-TucaAndBertie_204_NighttimeFriend.png",
-            "created": 1625150526,
-            "title_id": "2266168",
-            "season_number": "2",
-            "tv_rating": "tv-14-dls",
-            "published": 1650570029,
-            "tags": [],
-            "collection_title": "Tuca & Bertie",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/1_20327842545-robotchicken_020.jpg",
+            "created": 1402945474,
+            "title_id": "612682",
+            "season_number": "1",
+            "tv_rating": "tv-ma",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1651875877,
+            "tags": [
+                "robot chicken rc black cherry episode 20"
+            ],
+            "rating_count": 9693,
+            "collection_title": "Robot Chicken",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_2171145450-TucaAndBertie_204_NighttimeFriend.png",
-            "id": "AXpihRNRDmGy9WFjRrpi",
-            "auth": true,
-            "collection_slug": "tuca-bertie",
-            "collection_title_id": "2266164",
+            "launch_date": 1620014400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327842545-robotchicken_020.jpg",
+            "cma_id": "",
+            "collection_slug": "robot-chicken",
+            "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
