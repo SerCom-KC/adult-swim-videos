@@ -2,191 +2,177 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 6, 2022 at 00:30:27 EDT_
+_Last Update: May 6, 2022 at 17:30:23 EDT_
 ## Video added
-### Summary
-581006 American Dad: 3  
-2003422 Bob's Burgers: 2  
-798427 Check It Out! with Dr. Steve Brule: 1  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-2165429 The Shivering Truth: 1  
-547867 Tom Goes To The Mayor: 1  
-691917 Xavier: Renegade Angel: 1  
-### 2041476
-**American Dad S11E03 - Hayley Smith, Seal Team Six**  
-TV-14-DLV 🔒 21:13  
-⌛ May 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/hayley-smith-seal-team-six  
-seriesid=`581006` titleid=`2041476` id=`uo1Kf91lTPCZCjE4bnKkCQ` mediaid=`c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c`  
-_Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg" height="144px" /></a>
-### 2041477
-**American Dad S11E04 - N.S.A. (No Snoops Allowed)**  
-TV-14-DLSV 🔒 21:13  
-⌛ May 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/n-s-a-no-snoops-allowed  
-seriesid=`581006` titleid=`2041477` id=`R1Isc4OiQ5OqNqz5mq_ZJg` mediaid=`d873da559ba4646a889015fd6aeb309d464a2b90`  
-_Steve goes to work with Stan and discovers the N.S.A. Hayley decides to let go of being a vegetarian and eat meat for one day._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg" height="144px" /></a>
-### 2041478
-**American Dad S11E05 - Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers**  
-TV-14-DL 🔒 21:13  
-⌛ May 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/stan-smith-as-keanu-reeves-as-stanny-utah-in-point-breakers  
-seriesid=`581006` titleid=`2041478` id=`lhPueYEFSTGBnbn2xsc9Mg` mediaid=`19c05ab4df7f77e4458a0e6b54e8907c05994974`  
-_Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg" height="144px" /></a>
-### 2097202
-**Bob's Burgers S06E14 - The Hormone-Iums**  
-TV-PG 🔒 21:41  
-⌛ May 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-hormone-iums  
-seriesid=`2003422` titleid=`2097202` id=`euSDjeK-Qb2-zdr4qGcPog` mediaid=`525bf3b62874b79784500af9a87e7e2d622eca18`  
-_When Dottie Minerva comes down with a bad case of mono, Tina gets her shot as soloist of the Hormone-iums. But as she rehearses for the big assembly, Tina realizes that her role in the play could ruin her social status. Meanwhile, Linda strikes gold with a business plan that she thinks could make the Belchers rich._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg" height="144px" /></a>
-### 2097201
-**Bob's Burgers S06E13 - Wag the Hog**  
-TV-PG 🔒 21:16  
-⌛ May 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/wag-the-hog  
-seriesid=`2003422` titleid=`2097201` id=`b5vx0ZI7QXKQurddVmWXcw` mediaid=`b0ee1d469ca6c3a3ecb8f65a4ae11e243a90a64a`  
-_When Bob's longtime friend, Critter, finds himself in jail for unpaid parking tickets, the Belchers decide to do what they can to help him out. Meanwhile, Linda takes on a babysitting job that becomes more work than she signed up for._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/wag-the-hog/bobsburgers_522_air_cid-2X478.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/wag-the-hog/bobsburgers_522_air_cid-2X478.jpg" height="144px" /></a>
-### 2016881
-**Check It Out! with Dr. Steve Brule S03E06 - Skateboards**  
-TV-14-LV 🔓 11:14  
-⌛ June 9, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/skateboards  
-seriesid=`798427` titleid=`2016881` id=`fp4mYhYhSdGzAIzlmU3MMw` mediaid=`a7262bf0f2ca94c8d7cacb795de2545488bc1cbe`  
-_Dr. Steven Brule teaches YOU how to ride around on a skateboard also with cool tricks._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321613152-checkitout_018_dup-20140314.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321613152-checkitout_018_dup-20140314.jpg" height="144px" /></a>
-### 438512
-**Futurama S04E12 - Where No Fan Has Gone Before**  
-TV-PG-LV 🔒 23:17  
-⌛ May 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/where-no-fan-has-gone-before  
-seriesid=`437532` titleid=`438512` id=`AYB4UjIg208s7zyYUMx_` mediaid=`8e6aab9caba4df9121a7dcc55afe1165c5bd2d11`  
-_Fry travels to forbidden planet Omega 3 to retrieve all 79 episodes of Star Trek._  
-<a href="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521531118-Futurama_056_WhereNoFanHasGoneBefore.png"><img src="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521531118-Futurama_056_WhereNoFanHasGoneBefore.png" height="144px" /></a>
-### 731560
-**King of the Hill S11E18 - Raise the Steaks**  
-TV-PG-DL 🔒 22:47  
-⌛ May 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/raise-the-steaks  
-seriesid=`629835` titleid=`731560` id=`ecd7A8e3RCePXnZtloe1jQ` mediaid=`081d2bcaa31991cc258f88c7a4b133a665382e5d`  
-_When Hank becomes disgusted by the poor quality of the steaks he's getting at the supermarket, he joins a hippie co-op to get quality organic meats._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035200949713.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035200949713.jpg" height="144px" /></a>
-### 2172249
-**The Shivering Truth S01E03 - Ogled Inklings**  
-TV-MA-V 🔓 11:16  
-⌛ June 9, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-shivering-truth/ogled-inklings  
-seriesid=`2165429` titleid=`2172249` id=`AWeE99MOqD68dq0Op5wC` mediaid=`db148d025d10c0f6a84b9fef909fea0e39397364`  
-_By the time you are done reading this sentence your right eye will have secretly murdered your left eye, right under your nose._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473082180816.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473082180816.jpg" height="144px" /></a>
-### 639410
-**Tom Goes To The Mayor S02E14 - Jeffy the Sea Serpent**  
-TV-14-V 🔓 11:38  
-⌛ June 9, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/jeffy-the-sea-serpent  
-seriesid=`547867` titleid=`639410` id=`jI8rt9fjSa-cRwOvi5wAMw` mediaid=`d001cdcea3ff5a0ce59a6d29d9870d7ed8a0a7b4`  
-_Tom and The Mayor invent a sea serpent to attract tourism._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117957474-tgttm_027.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117957474-tgttm_027.jpg" height="144px" /></a>
-### 747216
-**Xavier: Renegade Angel S02E06 - Damnesia Vu**  
-TV-MA 🔓 11:29  
-⌛ June 9, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/xavier-renegade-angel/damnesia-vu  
-seriesid=`691917` titleid=`747216` id=`TcIbu3oSTtqZyfjShvH1kQ` mediaid=`1a1d928540ef5ed7326c6b05b46b066650a71f6d`  
-_When Xavier wakes up with no memories, the power of deja vu reigns supreme. When Xavier wakes up with no memories, the power of deja vu reigns supreme._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114173269-xavier_206.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114173269-xavier_206.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-547867 Tom Goes To The Mayor: 1  
-581006 American Dad: 3  
-629835 King of the Hill: 1  
-691917 Xavier: Renegade Angel: 1  
-798427 Check It Out! with Dr. Steve Brule: 1  
-### 2097191
-**Bob's Burgers S06E03 - The Hauntening**  
-TV-PG 🔓 21:22  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-hauntening  
-seriesid=`2003422` titleid=`2097191` id=`NQ0Kl-53QhejqVZOuB4CUg` mediaid=`548b1783b9bee6d20df357ed7277bd0504c00e2a`  
-_The Belchers are ready for an amazing Halloween! After Louise insists that she's never been scared before, Bob and Linda reveal their plans to visit a special haunted house that just might rectify the situation. But when trouble ensues following their visit, the Belchers find themselves in a zany situation more frightening than they bargained for!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-hauntening/bobsburgers_513_air_cid-2WYDK.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-hauntening/bobsburgers_513_air_cid-2WYDK.jpg" height="144px" /></a>
-### 2097192
-**Bob's Burgers S06E04 - Gayle Makin' Bob Sled**  
-TV-PG 🔓 21:38  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/gayle-makin-bob-sled  
-seriesid=`2003422` titleid=`2097192` id=`v6nNJ5WAThuzJULB1NDY5w` mediaid=`129e1c8d99bfd9ce3d6b214e4de5021aead414eb`  
-_When Gayle is injured, Linda sends Bob off to pick her up so she doesn't miss out on the Thanksgiving festivities. But a snowstorm derails his trip home and his epic plan to prepare the turkey is foiled._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg" height="144px" /></a>
-### 438053
-**Futurama S04E09 - Future Stock**  
-TV-PG-DL 🔒 23:22  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/future-stock  
-seriesid=`437532` titleid=`438053` id=`AYBUbRRI208s7zyYUMsJ` mediaid=`1d0ca98291fa6423046fe8250adadd2dc699a52d`  
-_A power shift at Planet Express has Fry hatching a plan to restore the original regime._  
-<a href="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271243577-Futurama_053_FutureStock.png"><img src="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271243577-Futurama_053_FutureStock.png" height="144px" /></a>
-### 612756
-**Tom Goes To The Mayor S01E07 - Vehicular Manslaughter**  
-TV-14-DL 🔒 11:45  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/vehicular-manslaughter  
-seriesid=`547867` titleid=`612756` id=`99O9jSxQRRenSFRqlhd2HA` mediaid=`a698e5860f4cfbe4f687039eaee9ea36461ce9d1`  
-_One of the Mayor's old college buddies stops by unexpectedly. Special guest: Michael Ian Black._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836230-tgttm_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836230-tgttm_007.jpg" height="144px" /></a>
-### 2019417
-**American Dad S10E02 - CIAPOW**  
-TV-14 🔓 21:02  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ciapow  
-seriesid=`581006` titleid=`2019417` id=`J2yASXnmQXC3fGXJHQOU7g` mediaid=`6ecfc892cd6e3da64fdba07d16892dbf3d156ae0`  
-_When Bullock sends a drone to do the job Stan and his colleagues are supposed to do, Stan is determined to prove that humans are better than robots. Meanwhile, Francine and the rest of the family participate in a slow motion race in the living room._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg" height="144px" /></a>
-### 2019416
-**American Dad S10E01 - Blonde Ambition**  
-TV-14 🔓 21:01  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/blonde-ambition  
-seriesid=`581006` titleid=`2019416` id=`bCTt_9u2RIqanyRvylNJqw` mediaid=`ae7c4429f9a90926ee5da04b81765976f6d55a16`  
-_When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg" height="144px" /></a>
-### 2012722
-**American Dad S09E23 - Blagsnarst: A Love Story**  
-TV-14 🔓 21:30  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/blagsnarst-a-love-story  
-seriesid=`581006` titleid=`2012722` id=`pU_oLaCpQXme76yA_IlY_g` mediaid=`f5559d28732382f7fff03098fb9688e459b2e801`  
-_Roger has been acting incredibly needy and clingy with the family.  He senses something in the air that is affecting his behavior but he can't tell where its coming from.  Roger leads Francine to a forest where they find a crashed alien ship, with the alien still alive._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452564517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198452564517.jpg" height="144px" /></a>
-### 731555
-**King of the Hill S11E13 - Suite Smells of Excess**  
-TV-PG-LV 🔒 22:46  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/suite-smells-of-excess  
-seriesid=`629835` titleid=`731555` id=`Qyc-hnJ-TqGC60d7AQ-H_Q` mediaid=`2291f83175aedf0c38e4ca48d69dc28fd88b3096`  
-_When Hank realizes Bobby's interested in football, he wrangles up the gang to take Bobby to his first game and sneak into someone else's skybox._  
-<a href="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271247537-KingOfTheHill_1113_SuiteSmellOfExcess.png"><img src="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271247537-KingOfTheHill_1113_SuiteSmellOfExcess.png" height="144px" /></a>
-### 693201
-**Xavier: Renegade Angel S01E06 - World of Hurt, BC**  
-TV-MA 🔓 11:30  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/xavier-renegade-angel/world-of-hurt-bc  
-seriesid=`691917` titleid=`693201` id=`1bRyRdQUQuu1R4nP7YF6PA` mediaid=`de22f5c5c077c96c0b8ee9cd48e316c7b23ef940`  
-_When a battered woman reaches out to Xavier for help, Xavier reaches inside her-- to find that the truth hurts. Pain, madness, and fries collide in this intergalactic time bending mission to find out; why??_  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141728567-xavier_106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141728567-xavier_106.jpg" height="144px" /></a>
-### 887730
-**Check It Out! with Dr. Steve Brule S02E02 - Pleasure**  
-TV-14-DL 🔒 11:15  
-⌛ May 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/pleasure  
-seriesid=`798427` titleid=`887730` id=`B8vKIZCnSo2bYeTzGYpYBA` mediaid=`a0cd436f5ddeb7cca10e2807b39adcb693b3f3be`  
-_Dr. Steve seeks pleasure in all its forms. Brown watches him. Manager of Bottoms Up promotes Bottoms Up._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321555495-checkitout_203_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321555495-checkitout_203_bim.jpg" height="144px" /></a>
+608360 Robot Chicken: 21  
+### 609700
+**Robot Chicken S01E09 - S&M Present**  
+TV-14-DS 🔒 11:38  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/s-m-present  
+seriesid=`608360` titleid=`609700` id=`0gzhvJ6iTzWaeMJs6DeyGw` mediaid=`8bc56e8cb97df8ad57ee9b3440e8781d6f7e1ef3`  
+_The last surviving member of N*Sync, Joey Fatone, must avenge his murdered bandmates in a deadly martial arts tournament._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203964-robotchicken_012.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203964-robotchicken_012.jpg" height="144px" /></a>
+### 618426
+**Robot Chicken S01E16 - Nightmare Generator**  
+TV-14-LV 🔒 11:15  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/nightmare-generator  
+seriesid=`608360` titleid=`618426` id=`1p4z156UTiasVjeCyziY7g` mediaid=`6fdb2da587838382a40ab457c892b5f4097e72ba`  
+_The classic film Jaws gets a special edition DVD.  Scandal at the North Pole is revealed in "Unsolved Case Files: Claus & Effect." The A-Team solves its problems with maximum firepower and minimal intelligence._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_2032621377-robotchicken_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_2032621377-robotchicken_003.jpg" height="144px" /></a>
+### 609693
+**Robot Chicken S01E02 - Nutcracker Sweet**  
+TV-MA 🔒 11:35  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/nutcracker-sweet  
+seriesid=`608360` titleid=`609693` id=`1zXFlqpaQFWCvSbjuGb2bA` mediaid=`39ff6c66f91ef38cdc74f3e0509f8f469de4109b`  
+_Voltron engages in an old-school dance-off in "You Got Robo-Served." The secret lives of nature's most fascinating beasts are exposed in "Secrets of the Animal Kingdom." Testicles are terrorized in "Ode to the Nut Shot."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203358-robotchicken_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203358-robotchicken_005.jpg" height="144px" /></a>
+### 609695
+**Robot Chicken S01E15 - Kiddie Pool**  
+TV-14-LSV 🔒 11:01  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/kiddie-pool  
+seriesid=`608360` titleid=`609695` id=`3fXQcm2CREer_E3EWRysgw` mediaid=`3c18c2ad0174809dfb75c6010503fa45b3b27f03`  
+_Michael Knight's talking car parties hard in "KITT's Day Out." A brawl rocks the nursing home in "Grandma Fu." Mary-Kate and Ashley Olsen unite to fight a rampaging dragon. George Jetson's murder takes center stage in "Unsolved Case Files: I, Rosie."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216574-robotchicken_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216574-robotchicken_007.jpg" height="144px" /></a>
+### 612674
+**Robot Chicken S01E12 - Midnight Snack**  
+TV-14-DLV 🔒 10:27  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/midnight-snack  
+seriesid=`608360` titleid=`612674` id=`BRMy8_noTTe_uFzrY__ZoA` mediaid=`1d2d26914dbdbf1de9091d59f8eac5a01c74109e`  
+_"The World's Most One-Sided Fistfights" get wild at Mardi Gras. Benjamin Franklin grapples with historical figures like the Wright Brothers and Mahatma Gandhi in "Educational Wrestling Federation."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262042266-robotchicken_015.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262042266-robotchicken_015.jpg" height="144px" /></a>
+### 609690
+**Robot Chicken S01E08 - The Deep End**  
+TV-14-DLV 🔒 11:35  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/the-deep-end  
+seriesid=`608360` titleid=`609690` id=`E5cIyNwpQjyxayW4LypKAQ` mediaid=`1a7eff835d8fb53ac5bf885dff4fb4b9a60859b6`  
+_Seven of the world's greatest heroes stop being polite--and start getting real--in "The Real World: Metropolis." Icons from Star Trek and Tiger Beat alike unite for canned sitcom laughs in "Two Kirks, a Khan and a Pizza Place." Jesus Christ hunts down his greatest nemesis, Tarantino-style, in "Kill Bunny." The hottest game show from Japan is here: "Who Poop Last?" The legends of rock 'n' roll return from beyond the grave to haunt the "Zombie Idol" reality show._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262037331-robotchicken_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262037331-robotchicken_001.jpg" height="144px" /></a>
+### 612675
+**Robot Chicken S01E13 - Atta Toy**  
+TV-MA 🔒 11:34  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/atta-toy  
+seriesid=`608360` titleid=`612675` id=`NW5819tbTfKTXwK4zoS7Dw` mediaid=`258ccfe6557c2f97dfb601f67414979241e7d30d`  
+_The world's most famous monkey busts loose on Skull Island in "Ding Dong, King Kong." Scandalous Hollywood news and gossip get the Pat O'Brien treatment. The Smurfs are terrorized by a serial killer in "Murder in Smurf Town X."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326215328-robotchicken_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326215328-robotchicken_016.jpg" height="144px" /></a>
+### 612678
+**Robot Chicken S01E17 - Operation Rich in Spirit**  
+TV-MA 🔒 11:17  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/operation-rich-in-spirit  
+seriesid=`608360` titleid=`612678` id=`O9B6JQ5dTBmsuWOIR-WTBw` mediaid=`dc1c17d964ac07515b31ffa4d73453c72c54b47d`  
+_A video dating experience takes a turn for the worse. An Oriental massage also takes a turn for the worse._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262111104-robotchicken_018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262111104-robotchicken_018.jpg" height="144px" /></a>
+### 609698
+**Robot Chicken S01E05 - Toyz in the Hood**  
+TV-14-LV 🔒 11:07  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/toyz-in-the-hood  
+seriesid=`608360` titleid=`609698` id=`Py5lTrMxRw-xpDHDZwEC9Q` mediaid=`0697fd20f267ed7acbb0427500a50ef9b4c39c62`  
+_The tooth fairy stumbles into murder in "Tooth and Consequences." The world's most terrifying supervillains get stuck in traffic. More of television's greatest screw-ups, from Friends to Mr. Rogers' Neighborhood to Saved by the Bell, are highlighted in "Bloopers Two."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262036112-robotchicken_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262036112-robotchicken_010.jpg" height="144px" /></a>
+### 609691
+**Robot Chicken S01E01 - Junk in the Trunk**  
+TV-14-D 🔒 11:37  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/junk-in-the-trunk  
+seriesid=`608360` titleid=`609691` id=`Qd8SOn8pSzOokRX6emcnoQ` mediaid=`751022f8fec8264f39d50e59abbb269d31c2d877`  
+_Rachael Leigh Cook smashes more than eggs in her latest anti-heroin public service announcement. Optimus Prime, leader of the Transformers, falls prey to prostate cancer. The outcome is never in doubt during "World's Most One-Sided Fistfights Caught on Film." Outtakes from Dukes of Hazzard, The X-Files, Battlestar Galactica and more come to light in "Bloopers."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262038188-robotchicken_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262038188-robotchicken_002.jpg" height="144px" /></a>
+### 609701
+**Robot Chicken S01E10 - Badunkadunk**  
+TV-14-DSV 🔒 10:43  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/badunkadunk  
+seriesid=`608360` titleid=`609701` id=`RtaQ-rbtS-aBmkdhzf-JYg` mediaid=`703fb710a677d7daba4fafbd01cbab61a00ea941`  
+_The roller-coaster celebrity life of the Incredible Hulk is profiled in "Hollywood Spotlight." The Masters of the Universe are rocked by a Paris Hilton-style sex tape._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262039422-robotchicken_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262039422-robotchicken_013.jpg" height="144px" /></a>
+### 609694
+**Robot Chicken S01E03 - Gold Dust Gasoline**  
+TV-14-DLV 🔒 11:34  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/gold-dust-gasoline  
+seriesid=`608360` titleid=`609694` id=`SpjSDpOERyOce7wg40Kjtw` mediaid=`420cb67970df09df9d41ea7277b286a60d07e28d`  
+_The animals Noah left behind try to survive the flood in their very own ark. Enjoy instant nostalgia with "That '00s Show." Mrs. McNally's third-graders produce an animated abomination in "The Best Cowboy." The world's most famous cars--from KITT to the Batmobile to the General Lee--race against each other in "3 Fast 3 Furious."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203579-robotchicken_006.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203579-robotchicken_006.jpg" height="144px" /></a>
+### 609696
+**Robot Chicken S01E04 - The Plastic Buffet**  
+TV-14-DLV 🔒 10:51  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/the-plastic-buffet  
+seriesid=`608360` titleid=`609696` id=`XhjWDVnpR6uadwMxCDf7XQ` mediaid=`7f398a85b0c728f66739487e53e6cbaf9f885684`  
+_America sends Harrison Ford into space to take out a killer asteroid in "Meteorgeddon." Household animals take to the slopes for "Winter Pet Games." Chucky from Child's Play takes on the cutesy Lettuce Head Kids. The Muppet Show's band is spotlighted in "Behind the Music: Electric Mayhem."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262035456-robotchicken_008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262035456-robotchicken_008.jpg" height="144px" /></a>
+### 612676
+**Robot Chicken S01E14 - Joint Point**  
+TV-MA 🔒 11:53  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/joint-point  
+seriesid=`608360` titleid=`612676` id=`kGnQdXlaSKeln9GfpOaSzA` mediaid=`6fd035902a5e951a0ccd7d4252c3db4a764fc3d3`  
+_Sailor Moon encounters a bone-chilling villain. A nerd wins a date with famous actress Scarlett Johansson._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216172-robotchicken_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216172-robotchicken_017.jpg" height="144px" /></a>
+### 609702
+**Robot Chicken S01E11 - Toy Meets Girl**  
+TV-14-DSV 🔒 11:14  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/toy-meets-girl  
+seriesid=`608360` titleid=`609702` id=`kfH_rT6RQHS6Rk0c8Exbtg` mediaid=`9fb1941f266da0edd26b8ec65d4f809725485fad`  
+_William Shatner's toupee has adventures the action star can only dream of. Heaven's not all it's cracked up to be in "Can We Handle the Truth?" Hilary Duff's new film combines history and teen drama in an updated The Diary of Anne Frank. The fates of the greatest action figure toy lines from decades past are exposed in "Where Are They Now?"_  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262041380-robotchicken_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262041380-robotchicken_014.jpg" height="144px" /></a>
+### 631470
+**Robot Chicken S01E?? - Robot Chicken Christmas**  
+TV-MA 🔒 11:02  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/robot-chicken-christmas  
+seriesid=`608360` titleid=`631470` id=`llEiMb8oSIKuiyRukQcn8g` mediaid=`e27abdc6b719cf181684ba5c9abc6f2fde59491a`  
+_This logline, much like us, is on vacation.  Have a happy holiday!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_203241013368-robotchicken_xmas2005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_203241013368-robotchicken_xmas2005.jpg" height="144px" /></a>
+### 609699
+**Robot Chicken S01E06 - Vegetable Fun Fest**  
+TV-14-DL 🔒 10:42  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/vegetable-fun-fest  
+seriesid=`608360` titleid=`609699` id=`mj159RhiQlmvVxTTDL2J2g` mediaid=`ab7cc1675087e5f3c8f6817e8b152b89f5e9eb6e`  
+_The secrets of The Crying Game, Star Wars and The Village are exposed in "Welcome to the Spoilers." The Teen Titans strengthen their roster by adding Beavis and Butt-head. Travel back in time to witness Benny Hill's funeral. The Great Pumpkin of Peanuts fame finally shows itself--and starts killing everyone in sight._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262036357-robotchicken_011.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262036357-robotchicken_011.jpg" height="144px" /></a>
+### 612679
+**Robot Chicken S01E19 - That Hurts Me**  
+TV-MA 🔒 10:32  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/that-hurts-me  
+seriesid=`608360` titleid=`612679` id=`nIGXVFEhRHOCARlpXEHM_A` mediaid=`1fd05bf871ddca7f260906050e33664c124cd01f`  
+_Dean Devlin and Roland Emmerich re-make Godzilla... again. A crime-fighting monkey saves monkeys from a monkey supervillain. An average fellow named Doug wakes up in the world of the Huggytime Bears._  
+<a href="https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327842137-robotchicken_019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327842137-robotchicken_019.jpg" height="144px" /></a>
+### 714336
+**Robot Chicken S01E18 - Adultizzle Swizzle**  
+TV-14-DV 🔒 11:00  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/adultizzle-swizzle  
+seriesid=`608360` titleid=`714336` id=`qgGTMTnJTDKDNdcLj06V8g` mediaid=`fed022bc85f6ead65db12c57ea9740b61ce9da84`  
+_"It's Alien vs. Predator on the battleground of love in a special episode of "First Date." See what the future holds in "Carousel of Tomorrow." Popeye experiences a world without his hamburger-leeching friend in "It's a Wimpy-Filled Life."  The modern video game Halo invades the old-school classic Donkey Kong. Mrs. McNally's third-graders present: Tim Burton's The Corpse Bride.   The truth about Ponda Baba's bad day."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_203302012345-robotchicken_004a.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_203302012345-robotchicken_004a.jpg" height="144px" /></a>
+### 612682
+**Robot Chicken S01E20 - The Black Cherry**  
+TV-MA 🔒 11:02  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/the-black-cherry  
+seriesid=`608360` titleid=`612682` id=`t9uwK1RGQaiWNAy4U_w2wg` mediaid=`1dbaff04c6a168f117d8cdb3d5c9ee5a0dd655da`  
+_Napoleon Dynamite pops up as a famous figure from history. Fizzing candy has terrible repercussions for young Mikey. A weakling turns into the "King of the Beach" with some illegal help._  
+<a href="https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327842545-robotchicken_020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327842545-robotchicken_020.jpg" height="144px" /></a>
+### 609697
+**Robot Chicken S01E07 - A Piece of the Action**  
+TV-MA 🔒 10:36  
+⌛ May 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/a-piece-of-the-action  
+seriesid=`608360` titleid=`609697` id=`x_3eT4zGR66ptVL4zGLbvA` mediaid=`87f38c61525320a1c1dd3476f0e860fc48f17def`  
+_A teenage girl gets a fashion makeover in "Pimp My Sister." The Surreal Life gang gets sent on mission to destroy an enchanted ring. Debbie Does Dallas gets re-told with the world's cheapest puppets in "Exhausted Budget Theater." Geeks and nerds collide when a sci-fi convention erupts into war._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262036585-robotchicken_009.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262036585-robotchicken_009.jpg" height="144px" /></a>
