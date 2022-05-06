@@ -1,58 +1,55 @@
 {
-    "updated": 1651766535,
-    "added": [
+    "updated": 1651809631,
+    "added": [],
+    "removed": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "Accordion",
+            "auth": true,
+            "ott_launch_date": 1513611060,
+            "auth_expiration_date": 1651809540,
+            "tms_id": "EP027912080009",
+            "description": "Just watch this episode, trust me.",
             "title_suggest": {
                 "input": [
-                    "Accordion"
+                    "The Invasion",
+                    "Invasion"
                 ]
             },
-            "expiration_date": null,
-            "type": "clip",
-            "title": "Accordion",
+            "title": "The Invasion",
+            "type": "episode",
+            "expiration_date": 1648785540,
             "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv",
-                "online-exclusive"
+                "ott"
             ],
-            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 14.97,
-            "original_air_date": null,
-            "auth_launch_date": null,
+            "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+            "duration": 1363.23,
+            "episode_number": "9",
+            "original_air_date": 1513574100,
             "clip_order": null,
-            "media_id": "meee5c1965062be23d60537849aa6e9a8df1e68122",
-            "modified": 1651586955,
-            "airing_id": "",
-            "slug": "accordion",
+            "auth_launch_date": 1648785600,
+            "modified": 1648442430,
+            "media_id": "e997bd097af8819be5282265d7f15fecaf5f0b15",
+            "airing_id": "RADS1003252200081709",
+            "id": "4X4xmJc8Sn-6DNQc4CxcEA",
+            "slug": "the-invasion",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15296896557248.jpg",
-            "created": 1529689639,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "blacklist": [],
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15136128385054.jpg",
+            "created": 1508442224,
+            "season_number": "1",
+            "title_id": "2132034",
+            "tv_rating": "tv-14-dlsv",
+            "active": false,
             "ott_expiration_date": null,
-            "published": 1651586955,
-            "tags": [
-                "bumper"
-            ],
-            "collection_title": "Rick and Morty",
-            "disable_ads": false,
-            "modified_by": "Zeus Listener",
-            "launch_date": 1651766400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296896557248.jpg",
-            "id": "AWQom4wiqBveI_0AhKqB",
-            "auth": false,
-            "collection_slug": "rick-and-morty",
-            "collection_title_id": "2013506",
-            "online_exclusives": true
+            "blacklist": [],
+            "published": 1648442430,
+            "tags": [],
+            "collection_title": "The Jellies",
+            "modified_by": "ODT Listener",
+            "launch_date": 1645765200,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15136128385054.jpg",
+            "cma_id": "",
+            "collection_slug": "the-jellies",
+            "collection_title_id": "2132025",
+            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
