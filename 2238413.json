@@ -870,5 +870,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271252593-AssassinationClassroom_41_OuterSpaceTime.png",
         "id": "AYBngxRI_0O4w1rD3SGq",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1653809340,
+        "tms_id": "EP035989030042",
+        "description": "With high-school entrance exams looming, Nagisa is unsure which path his future should take. Class 3-E greets Valentine's Day with chocolates aplenty.",
+        "title_suggest": {
+            "input": [
+                "Valentine's Day Time",
+                "Day Time",
+                "Time"
+            ]
+        },
+        "title": "Valentine's Day Time",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1285.7845,
+        "episode_number": "20",
+        "original_air_date": "1651982400",
+        "auth_launch_date": 1651995000,
+        "clip_order": null,
+        "airing_id": "RADS1005042200095684",
+        "media_id": "5f0dddc132b701f1692ffe05404dd1971a4906aa",
+        "modified": 1651863343,
+        "slug": "valentines-day-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521535567-AssassinationClassroom_42_ValentinesDayTime.png",
+        "created": 1651520166,
+        "season_number": "2",
+        "title_id": "2333986",
+        "tv_rating": "tv-14",
+        "published": 1651863343,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521535567-AssassinationClassroom_42_ValentinesDayTime.png",
+        "id": "AYCGRdw7_0O4w1rD3SJl",
+        "auth": true
     }
 ]
