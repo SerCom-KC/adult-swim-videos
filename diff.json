@@ -1,7 +1,6 @@
 {
-    "updated": 1652023826,
-    "added": [],
-    "removed": [
+    "updated": 1652025638,
+    "added": [
         {
             "auth_expiration_date": 1652068799,
             "tms_id": "EP007259620219",
@@ -36,7 +35,7 @@
             "clip_order": null,
             "airing_id": "RADS1002112200071130",
             "media_id": "2c8a6085f02f804774074b4357ffa49146f1fffc",
-            "modified": 1650616837,
+            "modified": 1652024985,
             "slug": "babe-hollytree-in-i-wish-one-person-had-died",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200722/thumbnails/1_20722950450-robotchicken_1019_dup-20200121.jpg",
@@ -44,7 +43,7 @@
             "season_number": "10",
             "title_id": "2213492",
             "tv_rating": "tv-ma",
-            "published": 1650616837,
+            "published": 1652024985,
             "tags": [],
             "collection_title": "Robot Chicken",
             "disable_ads": false,
@@ -87,7 +86,7 @@
             "original_air_date": 1459135800,
             "clip_order": null,
             "auth_launch_date": 1644210000,
-            "modified": 1650616833,
+            "modified": 1652025268,
             "media_id": "e996a221b8bedd5d0f7c43874ec761e970b3d8fe",
             "airing_id": "RADS1002052200069591",
             "id": "hXPh4oemRMqezowuXDmM2w",
@@ -102,7 +101,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1650616833,
+            "published": 1652025268,
             "first_published": 1458918658,
             "tags": [],
             "collection_title": "Robot Chicken",
@@ -115,5 +114,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }

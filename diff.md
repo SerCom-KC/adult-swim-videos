@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 8, 2022 at 11:30:26 EDT_
+_Last Update: May 8, 2022 at 12:00:38 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 608360 Robot Chicken: 2  
 ### 2213492
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/robot-chicken/triple-hot-dog-sandwich-on-wheat
 seriesid=`608360` titleid=`2072680` id=`hXPh4oemRMqezowuXDmM2w` mediaid=`e996a221b8bedd5d0f7c43874ec761e970b3d8fe`  
 _The Property Brothers try to satisfy Lex Luthor's need for real estate. Is being a My Little Pony just a phase? The US Army finds a use for Inspector Gadget. Robot Chicken re-tells the story of Goldilocks and the Three Bears._  
 <a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461253478-robotchicken_813_dup-20160229.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461253478-robotchicken_813_dup-20160229.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
