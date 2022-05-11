@@ -56,7 +56,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169280,
         "auth_expiration_date": 1655265540,
         "tms_id": "EP008519090032",
@@ -467,57 +467,57 @@
         "cma_id": "693498"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447169160,
-        "auth_expiration_date": 1652241540,
-        "tms_id": "EP008519090027",
-        "rating": 8.800914,
-        "description": "Metal meets mid-west etiquette when Pickles' brother, Seth, invites Dethklok to his Wisconsin wedding.",
+        "auth": false,
+        "ott_launch_date": 1447169400,
+        "auth_expiration_date": 1622606340,
+        "tms_id": "EP008519090037",
+        "rating": 9.121982,
+        "description": "The world economy is crumbling and waiting for the next Dethklok album to stimulate it back into order. It's up to Dethklok to get the album just right and finished on time.",
         "title_suggest": {
             "input": [
-                "Dethwedding"
+                "Dethrecord"
             ]
         },
         "type": "episode",
-        "title": "Dethwedding",
-        "expiration_date": 1649217540,
+        "title": "Dethrecord",
+        "expiration_date": 1655265540,
         "platforms": [
             "web",
             "mobile",
             "ott"
         ],
         "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 691.5005005,
-        "episode_number": "7",
-        "original_air_date": 1207026900,
+        "duration": 706.1001001,
+        "episode_number": "17",
+        "original_air_date": 1220241600,
         "clip_order": null,
-        "auth_launch_date": 1649217600,
-        "modified": 1651042218,
-        "media_id": "b5ccb67c312c865e7ccdc89a4cfc34be8edbf713",
-        "airing_id": "RADS1003302200083684",
-        "id": "j_4cHAWORIiok37CqDwK9A",
-        "slug": "dethwedding",
-        "views": 1060850,
+        "auth_launch_date": 1619582400,
+        "modified": 1651898975,
+        "media_id": "32fca82c9fe14b118f866c5c12d2d34ecae6d6e0",
+        "airing_id": "RADS1005072200096694",
+        "id": "kuYi_lBuS7a2NSNGhZY9sg",
+        "slug": "dethrecord",
+        "views": 700543,
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111051493-metalocalypse_207_bim.jpg",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_2031111540-metalocalypse_218_bim.jpg",
         "created": 1402945469,
-        "title_id": "693497",
+        "title_id": "719683",
         "season_number": "2",
         "tv_rating": "tv-ma",
-        "active": false,
+        "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1651042218,
+        "published": 1651898975,
         "tags": [
-            "Metalocalypse Dethwedding episode 27"
+            "Metalocalypse Dethrecord episode 37"
         ],
-        "rating_count": 3275,
+        "rating_count": 2484,
         "collection_title": "Metalocalypse",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1646197200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111051493-metalocalypse_207_bim.jpg",
-        "cma_id": "693497"
+        "launch_date": 1652241600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_2031111540-metalocalypse_218_bim.jpg",
+        "cma_id": "1263874"
     },
     {
         "auth": true,
