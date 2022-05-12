@@ -2,141 +2,89 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 12, 2022 at 00:00:30 EDT_
+_Last Update: May 12, 2022 at 00:30:26 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-859366 Black Dynamite: 1  
-2003422 Bob's Burgers: 1  
-2104364 Hot Streets: 1  
-609707 Lucy, The Daughter of the Devil: 1  
-867968 The Heart, She Holler: 1  
-439722 The Venture Bros.: 1  
-### 2046303
-**American Dad S11E19 - Garfield and Friends**  
-TV-14-DS 🔒 21:13  
+638050 Frisky Dingo: 1  
+629835 King of the Hill: 1  
+2013221 Tim & Eric's Bedtime Stories: 1  
+828177 Your Pretty Face is Going to Hell: 1  
+### 654433
+**Frisky Dingo S01E07 - Meet Antagone**  
+TV-MA 🔓 11:00  
+⌛ June 15, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/frisky-dingo/meet-antagone  
+seriesid=`638050` titleid=`654433` id=`9EIhXixsTSGqrrKYYtzlRg` mediaid=`6c9ecb7450c7d9e69b8c573c0de0f3d262b3074a`  
+_So, come to find out, plucky reporter Grace Ryan is experiencing some pretty unpleasant side effects from falling into those drums full of super-intelligent, radioactive waste covered ants: she sometimes turns into the ultra-wicked-bad supervillainess Antagone!  And yeah, it's not the cleverest name in the world. But man, get a load of that rack..._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165433-fd_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165433-fd_007.jpg" height="144px" /></a>
+### 731564
+**King of the Hill S12E01 - Doggone Crazy**  
+TV-PG 🔒 22:48  
 ⌛ May 18, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/garfield-and-friends  
-seriesid=`581006` titleid=`2046303` id=`zZQ5HOGITi-MZLcWyokOvw` mediaid=`f3dda050cea8bc61dfc36aebfd79bad7c77853da`  
-_Stan brings President Garfield back to life in order to teach Hayley about history. Steve writes for the school newspaper._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg" height="144px" /></a>
-### 2046302
-**American Dad S11E18 - Mine Struggle**  
-TV-14-DL 🔒 21:13  
-⌛ May 18, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/mine-struggle  
-seriesid=`581006` titleid=`2046302` id=`rgVIN2_yS7KtzI9iO0-BHQ` mediaid=`405e54b821301a3461a2f7d6b155141fcb7adeaa`  
-_When Stan discovers a salt mine in the backyard, the Morton Salt Company wants to buy it. It turns out Steve is the rightful owner of the land and he faces pressure from the family to sell._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002060033816.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002060033816.jpg" height="144px" /></a>
-### 961495
-**Black Dynamite S01E10 - 'Seed of Kurtis' AKA 'Father Is Just Another Word For Motherf***er'**  
-TV-MA 🔓 22:35  
+https://www.adultswim.com/videos/king-of-the-hill/doggone-crazy  
+seriesid=`629835` titleid=`731564` id=`iTi0CsBTQc-3Nb-Ng89g3g` mediaid=`5d4919bca8120592b7e6029c54f2aded97827442`  
+_When Ladybird bites Hank he brings in a "dog spiritualist," what Hank finds out is that he needs to become more of a leader around the house._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035101276319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035101276319.jpg" height="144px" /></a>
+### 2024897
+**Tim & Eric's Bedtime Stories S01E01 - Hole**  
+TV-14-V 🔓 11:20  
 ⌛ June 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-dynamite/seed-of-kurtis-aka-father-is-just-another-word-for-motherf-er  
-seriesid=`859366` titleid=`961495` id=`j7bgxVwJRr26kz1vijzlsA` mediaid=`e78e083c76e3a8670af70967cb5b524411a40afd`  
-_The Reverend DADDY DYNAMITE (Clifton Powell) left Black Dynamite when he was just a little 8-year old boy. But now he's back in the Community preaching a new kind of revivalism, and BD... couldn't be happier? Despite protests from the Crew, BD opens up the doors of the Whorephanage to his father and the two enjoy catching up until Daddy D convinces his flock to donate all of their material possessions - to him! "Exploiting the Community's sins is just not Black Dynamite's style."_  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226165816-blackdynamite_110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226165816-blackdynamite_110.jpg" height="144px" /></a>
-### 2132991
-**Bob's Burgers S07E03 - Teen-a Witch**  
-TV-PG-L 🔒 21:47  
-⌛ May 18, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/teen-a-witch  
-seriesid=`2003422` titleid=`2132991` id=`AWGLqx6ENWyh42wYnkw9` mediaid=`5b0d6ca24561e9c052c6c76c933c3b89d6532205`  
-_With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. But when Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg" height="144px" /></a>
-### 2131834
-**Hot Streets S01E03 - Super Agent**  
-TV-14-DLV 🔓 11:20  
+https://www.adultswim.com/videos/tim-erics-bedtime-stories/hole  
+seriesid=`2013221` titleid=`2024897` id=`zJU2JtkJQayronucs_v65w` mediaid=`d141c45d318651b7ae0d13c57daa7ac1c8ccc647`  
+_New to the neighborhood, IT guy Dennis Murphy and family clash with next door's Fish-obsessed, bully Brenner._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117847515-tebs_101_dup-20140909.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117847515-tebs_101_dup-20140909.jpg" height="144px" /></a>
+### 2108957
+**Your Pretty Face is Going to Hell S03E09 - Lee**  
+TV-MA-S 🔓 11:15  
 ⌛ June 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/hot-streets/super-agent  
-seriesid=`2104364` titleid=`2131834` id=`QYDHciiwQmSH8NBmKKlsuA` mediaid=`b7d5485a095fd34ecf7628cb0955c441bcc6215a`  
-_Chubbie Webbers, posing as a Hot Streets agent, must save the universe._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351445213-HotStreets_103_dup-20170908.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351445213-HotStreets_103_dup-20170908.jpg" height="144px" /></a>
-### 678355
-**Lucy, The Daughter of the Devil S01E09 - Dreamster**  
-TV-MA 🔓 11:48  
-⌛ June 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/lucy-the-daughter-of-the-devil/dreamster  
-seriesid=`609707` titleid=`678355` id=`3dFQgWnvTdqRD0XoOTa9PQ` mediaid=`8a56eb253b87b29ac41a5771c732b8d9b77900b6`  
-_The Dreamster Sound Effects Machine was designed to help you fall asleep naturally and deeply. Warning: side effects may include drowsiness, nightmares, and psychotic episodes. If you die in your dreams you die in real life._  
-<a href="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361034268-lucy_109_air.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361034268-lucy_109_air.jpg" height="144px" /></a>
-### 2041655
-**The Heart, She Holler S03E03 - Klansgender Rights**  
-TV-MA 🔓 11:16  
-⌛ June 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-heart-she-holler/klansgender-rights  
-seriesid=`867968` titleid=`2041655` id=`KjMIyGGOTR2l0lv0Qya0Lg` mediaid=`249532017dcf07811127d8016aac6d12b2f9f852`  
-_Children are born corrupt, but gradually over time they begin to pass away and then rot._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351126477-heartsheholler_303_023_dup-20141023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351126477-heartsheholler_303_023_dup-20141023.jpg" height="144px" /></a>
-### 2024907
-**The Venture Bros. S06E06 - Tanks for Nuthin’**  
-TV-MA 🔓 22:34  
-⌛ June 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/tanks-for-nuthin  
-seriesid=`439722` titleid=`2024907` id=`vjZCWxc6Saewgzm31CK-Ig` mediaid=`50a1721bf10b2c82d58794de2b52f2f6e65e6bb1`  
-_A revenge-seeking super-widow makes Dr. Mrs. The Monarch’s job miserable, while a criminal genius has his mastermind set on arching Dr. Venture._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161415287-venture_609_dup_20160127.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161415287-venture_609_dup_20160127.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/lee  
+seriesid=`828177` titleid=`2108957` id=`kEZPDPe9RcCE8X9t4AQVAA` mediaid=`f8f37921c223efd52c3584cd9923d106c106bfde`  
+_When Satan introduces women to the workplace, things start to get a little steamy and a little acidic and a little swollen._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/lee/yourprettyface_312_dup-20170413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/lee/yourprettyface_312_dup-20170413.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-439722 The Venture Bros.: 1  
-581006 American Dad: 2  
-609707 Lucy, The Daughter of the Devil: 1  
-859366 Black Dynamite: 1  
-867968 The Heart, She Holler: 1  
-### 2097200
-**Bob's Burgers S06E12 - Stand by Gene**  
-TV-PG 🔒 21:41  
+2013221 Tim & Eric's Bedtime Stories: 1  
+2073005 Neon Joe: 1  
+629835 King of the Hill: 1  
+638050 Frisky Dingo: 1  
+828177 Your Pretty Face is Going to Hell: 1  
+### 2024899
+**Tim & Eric's Bedtime Stories S01E07 - Baby**  
+TV-14-L 🔓 11:15  
 ⌛ May 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/stand-by-gene  
-seriesid=`2003422` titleid=`2097200` id=`m5N_4JZOS_ulq3qtLDOwoA` mediaid=`d59cc0f48fca963b77685f6a1157497bc801e69d`  
-_When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg" height="144px" /></a>
-### 2002552
-**The Venture Bros. S05E05 - Spanakopita!**  
-TV-14-DLV 🔒 22:33  
+https://www.adultswim.com/videos/tim-erics-bedtime-stories/baby  
+seriesid=`2013221` titleid=`2024899` id=`A02MMjcAR1uhCXzQxHGvoQ` mediaid=`daedc114605f7a7fa590053858ff00f34ccfca69`  
+_Drawn in by the comic stylings of Jonathan Terp, Jordan enrolls in the Be a Baby program only to find out that babies don't use DVDs._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211784577-tebs_107_dup-20140910.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211784577-tebs_107_dup-20140910.jpg" height="144px" /></a>
+### 2118594
+**Neon Joe S02E01 - Loose Lips Drink Sips**  
+TV-14-DLSV 🔓 21:37  
 ⌛ May 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/spanakopita  
-seriesid=`439722` titleid=`2002552` id=`P-z9OONhSgqPXlW5VpfCqQ` mediaid=`c665568421952c0ae4d5d0e484bf0d5e3601d6b6`  
-_Every year, since he was a little boy, Dr. Venture flies to the tiny island of Spanikos for a week of fun in the Grecian sun. But this year a dangerous new enemy and a dark secret from Doc's past threaten to turn his vacation into a slay-cation._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411477-venture_503_dup_20130521.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411477-venture_503_dup_20130521.jpg" height="144px" /></a>
-### 2041475
-**American Dad S11E02 - The Life Aquatic with Steve Smith**  
-TV-14-DLS 🔒 21:13  
+https://www.adultswim.com/videos/neon-joe/loose-lips-drink-sips  
+seriesid=`2073005` titleid=`2118594` id=`e6sw9L63Ty2DlwQpxUaj-g` mediaid=`c36bf9493ad939f83efc8da52034448c19e9fa7c`  
+_Retired from werewolf hunting and running his tropical themed dream bar, Neon Joe gets an ominous visit from his past, and must resist the temptation to give in to his anger. Will he succeed?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146250-neonjoe_201_dup-20170425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146250-neonjoe_201_dup-20170425.jpg" height="144px" /></a>
+### 731559
+**King of the Hill S11E17 - Death Picks Cotton**  
+TV-PG-DL 🔒 22:47  
 ⌛ May 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-life-aquatic-with-steve-smith  
-seriesid=`581006` titleid=`2041475` id=`6m-aKqOzTuiKpe2ndROi_A` mediaid=`fa3d734eb2c5fa3d94b53c53e75274c723ac5905`  
-_Steve joins the high school water polo team in order to get girls. Meanwhile, Roger and Stan get a boat._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg" height="144px" /></a>
-### 2041474
-**American Dad S11E01 - Roots**  
-TV-14-DLV 🔒 21:13  
+https://www.adultswim.com/videos/king-of-the-hill/death-picks-cotton  
+seriesid=`629835` titleid=`731559` id=`8jzi_aPhS1uvJJcEocsz1A` mediaid=`90245751c624186346ec1220c7857250fac55495`  
+_When Bobby's baby-sitter cancels at the last minute, Hank and Peggy have no choice but to allow Cotton to sit for Bobby so they can go on a date._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203520592319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203520592319.jpg" height="144px" /></a>
+### 707261
+**Frisky Dingo S02E09 - A Take on 'Hooper'**  
+TV-MA 🔒 10:29  
 ⌛ May 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/roots  
-seriesid=`581006` titleid=`2041474` id=`TYWscrkVRdCNVviIdM1W0Q` mediaid=`566083395eaa38012ee31da187d895b1f2fcd330`  
-_Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg" height="144px" /></a>
-### 678356
-**Lucy, The Daughter of the Devil S01E10 - Satan's School for Girls**  
-TV-MA 🔒 11:42  
+https://www.adultswim.com/videos/frisky-dingo/a-take-on-hooper  
+seriesid=`638050` titleid=`707261` id=`nW3vrutEQXiwa2XCh0hUwQ` mediaid=`26b0c7ee5515ee6ba8d93824ef86d8ad30b9a0f6`  
+_The film Hooper is heavily borrowed from._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034170178-fd_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034170178-fd_022.jpg" height="144px" /></a>
+### 2062774
+**Your Pretty Face is Going to Hell S02E11 - Krampus Nacht**  
+TV-14-V 🔒 11:22  
 ⌛ May 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/lucy-the-daughter-of-the-devil/satans-school-for-girls  
-seriesid=`609707` titleid=`678356` id=`RlkirPulSFqMNsJIzGYtZw` mediaid=`45311d525ebda1024090e293838afd3499699a2f`  
-_DJ Jesus and his entourage rent out an old Catholic girl's boarding school so he can work on his re-remix in quiet isolation. But thirty years ago this place was the scene of a grisly crime - and soon the past invades the present in the form of Catholic school girl ghosts and an irritating disco song._  
-<a href="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036110288-lucy_110_air.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_2036110288-lucy_110_air.jpg" height="144px" /></a>
-### 859367
-**Black Dynamite S01E?? - 'Pilot' or 'Trouble on Puppet Street'**  
-TV-MA-S 🔒 11:20  
-⌛ May 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-dynamite/pilot-or-trouble-on-puppet-street  
-seriesid=`859366` titleid=`859367` id=`Sqv5uBUSSvyd7daJVSQOsA` mediaid=`a7278ae23bfd54ee294113acfc54f98ec3ae842d`  
-_Our ass-kickin-friend-of-the-community Black Dynamite takes on his childhood mentor and surrogate father: That Frog Kurtis, a Puppet TV educator turned super villain!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261651146-blackdynamite_000.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261651146-blackdynamite_000.jpg" height="144px" /></a>
-### 2007204
-**The Heart, She Holler S02E07 - An Emotional Can of Mommyworms**  
-TV-MA 🔒 11:16  
-⌛ May 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-heart-she-holler/an-emotional-can-of-mommyworms  
-seriesid=`867968` titleid=`2007204` id=`me9GFwZOQemRxE0TZ0AFNg` mediaid=`19a106145e8a8e256eda55d3d47492db8715dd09`  
-_After many lonely years, Hurlan finally gets to feel the cold touch of a mommy._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351122505-heartsheholler_206_013_dup-20130906.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351122505-heartsheholler_206_013_dup-20130906.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/krampus-nacht  
+seriesid=`828177` titleid=`2062774` id=`IHq3-0q1QOObvZdNmZpxPQ` mediaid=`7aebba52a279bd77b8f628775fa37b7f9b154e22`  
+_Gary and Claude bring Krampus out of retirement to help ruin Christmas._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/krampus-nacht/ypf_ep212_003_ba865801g56qf6qw8s_2.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/krampus-nacht/ypf_ep212_003_ba865801g56qf6qw8s_2.jpg" height="144px" /></a>
