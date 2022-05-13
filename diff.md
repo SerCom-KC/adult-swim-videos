@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 13, 2022 at 11:00:25 EDT_
+_Last Update: May 13, 2022 at 13:00:25 EDT_
 ## Video added
 ### Summary
-2140484 Tropical Cop Tales: 1  
-### 2184459
-**Tropical Cop Tales S01E09 - The Many Frostings of Ronald the Ringman**  
-TV-14-DLSV 🔓 11:42  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/tropical-cop-tales/the-many-frostings-of-ronald-the-ringman  
-seriesid=`2140484` titleid=`2184459` id=`AWjtOi_aAScUIg8XxdJv` mediaid=`63b3f0c3434c777145f18dae3837f610b120e639`  
-_Donut baron Ronald the Ringman's patience is tested by a psychedelically annoying and indecisive tourist dubbed Nattanyell._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155130121528116.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155130121528116.jpg" height="144px" /></a>
+608360 Robot Chicken: 1  
+### 638373
+**Robot Chicken S02E06 - 1987**  
+TV-MA 🔒 11:35  
+⌛ May 14, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/1987  
+seriesid=`608360` titleid=`638373` id=`9v1InzlVRgmzAi1uRHK0gg` mediaid=`9b99359f3ca652d827cf398d280bd87ac01415f8`  
+_Twinkie the Kid dispenses justice-and lead!  Popular board games from Chutes and Ladders to Hungry Hungry Hippos get turned into action-packed feature films.  Meet Skeletor's dentist, Mo-Larr!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411130286-robotchicken_023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411130286-robotchicken_023.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
