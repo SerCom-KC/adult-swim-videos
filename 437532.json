@@ -1,54 +1,5 @@
 [
     {
-        "auth_expiration_date": 1652414340,
-        "tms_id": "EP003034830057",
-        "description": "Fry travels to forbidden planet Omega 3 to retrieve all 79 episodes of Star Trek.",
-        "title_suggest": {
-            "input": [
-                "Where No Fan Has Gone Before",
-                "No Fan Has Gone Before",
-                "Fan Has Gone Before",
-                "Has Gone Before",
-                "Gone Before",
-                "Before"
-            ]
-        },
-        "title": "Where No Fan Has Gone Before",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1397.5628,
-        "episode_number": "12",
-        "original_air_date": 1049083200,
-        "auth_launch_date": 1651809600,
-        "clip_order": null,
-        "airing_id": "RADS1004302200093779",
-        "media_id": "8e6aab9caba4df9121a7dcc55afe1165c5bd2d11",
-        "modified": 1651519884,
-        "slug": "where-no-fan-has-gone-before",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521531118-Futurama_056_WhereNoFanHasGoneBefore.png",
-        "created": 1651286094,
-        "title_id": "438512",
-        "season_number": "4",
-        "tv_rating": "tv-pg-lv",
-        "published": 1651519884,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521531118-Futurama_056_WhereNoFanHasGoneBefore.png",
-        "id": "AYB4UjIg208s7zyYUMx_",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1652500740,
         "tms_id": "EP003034830058",
         "description": "Al Gore's head holds an emergency summit in Kyoto, Japan, to deal with global warming caused by robot emissions.",
