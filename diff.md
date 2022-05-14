@@ -2,157 +2,179 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 14, 2022 at 00:00:27 EDT_
+_Last Update: May 14, 2022 at 00:30:27 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 6  
-2020945 Attack on Titan: 6  
-629835 King of the Hill: 2  
-### 2069532
-**American Dad S12E01 - Father's Daze**  
-TV-14 🔒 21:13  
-⌛ May 20, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fathers-daze  
-seriesid=`581006` titleid=`2069532` id=`1tfpfZcEQEulM8Gwxer2rg` mediaid=`0d1b8527d9a327620560c807c976b68ecc297936`  
-_The Smith family forgets to celebrate Father's Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg" height="144px" /></a>
-### 2069533
-**American Dad S12E02 - Fight and Flight**  
-TV-14 🔒 21:13  
-⌛ May 20, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fight-and-flight  
-seriesid=`581006` titleid=`2069533` id=`2lgl7za3TEGrHYL2SIWJeQ` mediaid=`204b5cf0c24fb0a7ef617b2d33f4d1bd82480c6c`  
-_Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg" height="144px" /></a>
-### 2046304
-**American Dad S11E20 - Gift Me Liberty**  
-TV-14-DL 🔒 21:13  
+2003422 Bob's Burgers: 4  
+798427 Check It Out! with Dr. Steve Brule: 2  
+437532 Futurama: 2  
+343621 Samurai Jack: 2  
+2132025 The Jellies: 1  
+2165429 The Shivering Truth: 2  
+547867 Tom Goes To The Mayor: 1  
+691917 Xavier: Renegade Angel: 2  
+### 2132975
+**Bob's Burgers S07E03 - Large Brother, Where Fart Thou?**  
+TV-14-L 🔒 21:45  
 ⌛ May 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/gift-me-liberty  
-seriesid=`581006` titleid=`2046304` id=`Kdd_ZRQXR3WvddNQ21__zw` mediaid=`5b4404e86eee6ae2c1852778d57e6621b396cca8`  
-_When Bullock is upset that somebody did not bring a gift to the CIA Secret Santa party, Stan goes on a mission to find out who it was. Meanwhile, Steve poses as the good guy boyfriend of several female classmates._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg" height="144px" /></a>
-### 2046305
-**American Dad S11E21 - Next of Pin**  
-TV-14-DLV 🔒 21:13  
-⌛ May 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/next-of-pin  
-seriesid=`581006` titleid=`2046305` id=`I9VQ9k0USiyIjfD7utk1nQ` mediaid=`314ad468345f50edf2576ff1df0b39e680ed373f`  
-_Stan and Steve start bowling together to have more quality time and Steve gets discovered for his bowling talent. Klaus holds a contest to test whether Roger or Hayley have the worse attention span._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002062164210.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002062164210.jpg" height="144px" /></a>
-### 2046306
-**American Dad S11E22 - Standard Deviation**  
-TV-14-DLV 🔒 21:13  
-⌛ May 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/standard-deviation  
-seriesid=`581006` titleid=`2046306` id=`auZtRXZYRliIhZg-c2XmGA` mediaid=`dddb15543c01e998371fafc7adbbd456f3ae4c4a`  
-_In order to avoid being sent on a suicide mission, Stan learns how to become a DJ to beat Bullock in a DJ Battle. Jeff takes up drinking psychedelic teas and Roger helps him build an imaginary musical instrument._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg" height="144px" /></a>
-### 2069534
-**American Dad S12E03 - The Enlightenment of Ragi-Baba**  
-TV-14 🔒 21:15  
+https://www.adultswim.com/videos/bobs-burgers/large-brother-where-fart-thou  
+seriesid=`2003422` titleid=`2132975` id=`JN51ikJcSbymg0xNrYEi_A` mediaid=`c681a0b1721d5a8e765e5d0e42975f1ebc88a61d`  
+_When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg" height="144px" /></a>
+### 2132993
+**Bob's Burgers S07E07 - The Last Gingerbread House on the Left**  
+TV-PG-DLV 🔒 21:45  
 ⌛ May 20, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-enlightenment-of-ragi-baba  
-seriesid=`581006` titleid=`2069534` id=`Pio80KFJQd6SVdNWrk5VgA` mediaid=`8f30856332334da136247b93b0b70d05b6cd7cfc`  
-_Hayley takes Roger with her to a meditation center and he quickly takes over, becoming one of the world's leading authorities on meditation. Stan and Steve become apprentices as they are taught the art of making sushi._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg" height="144px" /></a>
-### 2020959
-**Attack on Titan S01E14 - Can't Look Into His Eyes Yet: Eve of the Counterattack, Part 1**  
-TV-14-V 🔓 22:36  
+https://www.adultswim.com/videos/bobs-burgers/the-last-gingerbread-house-on-the-left  
+seriesid=`2003422` titleid=`2132993` id=`AWHTb10JNWyh42wYnlB8` mediaid=`380f7d44e405963ff275c219d717e932c0e188b3`  
+_As the Belchers prepare for Christmas, Bob gets an unexpected call from Mr. Fischoeder asking him to bring food to a party at his home. Bob delivers the food and soon becomes embroiled in an intense gingerbread house building competition._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984550603814.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984550603814.jpg" height="144px" /></a>
+### 2132992
+**Bob's Burgers S07E06 - The Quirk-Ducers**  
+TV-PG-DLV 🔒 21:40  
+⌛ May 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-quirk-ducers  
+seriesid=`2003422` titleid=`2132992` id=`AWG1Yym-NWyh42wYnk6f` mediaid=`c9c34718faeb1e812d3b7827ba7a72332c152649`  
+_When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg" height="144px" /></a>
+### 2132973
+**Bob's Burgers S07E02 - They Serve Horses, Don't They?**  
+TV-PG-L 🔒 21:44  
+⌛ May 19, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/they-serve-horses-dont-they  
+seriesid=`2003422` titleid=`2132973` id=`6wGwgTMGQG6e5VJ1b-eQdQ` mediaid=`191f7d899837e9f0fb9312a7125bd937c43e5c18`  
+_After a tip from Jimmy Pesto, Bob secures a new meat provider who claims to save clients money on every order. The Belchers quickly realize that the situation is too good to be true, as they find themselves involved in an investigation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg" height="144px" /></a>
+### 2087963
+**Check It Out! with Dr. Steve Brule S04E01 - Cars**  
+TV-14-L 🔓 11:17  
 ⌛ June 16, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/cant-look-into-his-eyes-yet-eve-of-the-counterattack-part-1  
-seriesid=`2020945` titleid=`2020959` id=`0ObpUCCUTlmudUEj8-TvsA` mediaid=`c85e515c81dc802a562405305b3ca6cc577562c0`  
-_A special military tribunal will decide Eren's fate. The Military Police calls for his execution while the Scout Regiment argues that he is a powerful resource for humankind, and Mikasa is put on the spot when asked about the events of the Trost mission._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225123585-attackontitan_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225123585-attackontitan_014.jpg" height="144px" /></a>
-### 2170504
-**Attack on Titan S03E10 - Friends**  
-TV-MA 🔒 22:37  
-⌛ July 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/friends  
-seriesid=`2020945` titleid=`2170504` id=`AWayQ5SseP_aldpBVxF7` mediaid=`178c616adfac7bb44c6f0acd37d0594f6d9daf92`  
-_Kenny recalls the life which has brought him to death's door, but he gets to decide whether to live on or not._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251636508-attackontitan_047_air_cid-3NH50.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251636508-attackontitan_047_air_cid-3NH50.jpg" height="144px" /></a>
-### 2117209
-**Attack on Titan S02E05 - Historia**  
-TV-14-LV 🔓 23:03  
-⌛ May 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/historia  
-seriesid=`2020945` titleid=`2117209` id=`HcWnKjjaTai9QTyhQRBKLg` mediaid=`2ac4d34e23b82c75d7647a3cf9caf084694cb6ea`  
-_Utgard Castle comes crumbling down as Ymir desperately battles the Titans. Now, Christa must fulfill the promise they made long ago during winter training._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251612353-attackontitan_030_dup-05172017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251612353-attackontitan_030_dup-05172017.jpg" height="144px" /></a>
-### 2170506
-**Attack on Titan S03E12 - Night of the Battle to Retake the Wall**  
- 🔓 23:06  
-⌛ May 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/night-of-the-battle-to-retake-the-wall  
-seriesid=`2020945` titleid=`2170506` id=`AWbu1YiT3OEkyfT4qJSV` mediaid=`608be5ae267d143817f24cbc76d313f6cca566e8`  
-_The Scouts enjoy a feast before retaking Wall Maria. They'll soon uncover what's hidden within the basement, once and for all._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg" height="144px" /></a>
-### 2117207
-**Attack on Titan S02E03 - Southwestward**  
-TV-14-V 🔒 23:02  
-⌛ July 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/southwestward  
-seriesid=`2020945` titleid=`2117207` id=`7WRkqi88QfKI1p7z1NZUvA` mediaid=`ffdc811cd0d8fa72509834df6b0d994630659b58`  
-_The Scouts search for a hole in the wall while Eren and the others learn that someone close may be hiding all the answers._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225141112-attackontitan_028_dup-20170504.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225141112-attackontitan_028_dup-20170504.jpg" height="144px" /></a>
-### 2020954
-**Attack on Titan S01E09 - Whereabouts of His Left Arm: The Struggle for Trost, Part 5**  
-TV-14-LV 🔒 22:21  
-⌛ September 29, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/whereabouts-of-his-left-arm-the-struggle-for-trost-part-5  
-seriesid=`2020945` titleid=`2020954` id=`2kznJJ9sQ06MOK_gF2iiWw` mediaid=`f8d6738172762e21776a9cfd9be55c0c26065b10`  
-_A miraculous return is met with anger and fear. Cannons are fixed on Eren as he struggles to remember what happened to him inside the belly of a monster and how he ended up humankind's enemy. One question is all that matters: is Eren human or Titan?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251159512-attackontitan_009.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251159512-attackontitan_009.jpg" height="144px" /></a>
-### 731566
-**King of the Hill S12E03 - Three Men And A Bastard**  
-TV-PG-DL 🔒 22:44  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/cars  
+seriesid=`798427` titleid=`2087963` id=`gcQOB5MQRGiqzITn17pFTA` mediaid=`e0af8e1f0770b2f785dec9a5a12041cf0fcb20b8`  
+_Dr. Steven Brule checks out topics about cars._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321613346-checkitout_401_dup-20160315.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321613346-checkitout_401_dup-20160315.jpg" height="144px" /></a>
+### 2016877
+**Check It Out! with Dr. Steve Brule S03E02 - Church**  
+TV-14-DLS 🔒 11:12  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/church  
+seriesid=`798427` titleid=`2016877` id=`O5-h6QOwSyKlXKf_uL0bzw` mediaid=`170f24e547d1f95bcd2bf5da6618e6a0a6bfd1c1`  
+_Dr. Steven Brule checks out what it means to go to Church and what god is?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032168427-checkitout_014_dup-20140224.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032168427-checkitout_014_dup-20140224.jpg" height="144px" /></a>
+### 442426
+**Futurama S05E04 - A Taste of Freedom**  
+TV-14 🔒 23:19  
 ⌛ May 20, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/three-men-and-a-bastard  
-seriesid=`629835` titleid=`731566` id=`nVPIaiXxQC6-uCKGpzqbkQ` mediaid=`1ab64556b19f6ad14f0524c9854756514c33b152`  
-_When Bill falls in love with his blind date Charlene, a hot single mother, Dale's intuition tells him something's wrong; and he meddles in their relationship._  
-<a href="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151875-KingOfTheHill_1203_ThreeMenAndABastard.png"><img src="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151875-KingOfTheHill_1203_ThreeMenAndABastard.png" height="144px" /></a>
-### 731565
-**King of the Hill S12E02 - Trans-fascism**  
-TV-PG-L 🔒 22:47  
+https://www.adultswim.com/videos/futurama/a-taste-of-freedom  
+seriesid=`437532` titleid=`442426` id=`AYC9rCu8208s7zyYUM2a` mediaid=`e9226d4dd67ce27825e9c1ca4c97ca1dd66abc4e`  
+_Zoidberg is sentenced to death for eating a flag at a celebration in Washington, D.C._  
+<a href="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131515181-Futurama_060_ATasteOfFreedom.png"><img src="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131515181-Futurama_060_ATasteOfFreedom.png" height="144px" /></a>
+### 442424
+**Futurama S05E03 - The Route of All Evil**  
+TV-PG-LV 🔒 23:19  
 ⌛ May 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/trans-fascism  
-seriesid=`629835` titleid=`731565` id=`sphDCASbQX2h3ZPEQDGG3w` mediaid=`3751df83fc19d745deb08e1ab00c169ea0e3e58b`  
-_When the City Council bans the sale of foods containing trans fats, Hank's favorite restaurant goes out of business; and he's forced to step up._  
-<a href="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131517169-KingOfTheHill_1202_Transfascism.png"><img src="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131517169-KingOfTheHill_1202_Transfascism.png" height="144px" /></a>
+https://www.adultswim.com/videos/futurama/the-route-of-all-evil  
+seriesid=`437532` titleid=`442424` id=`AYC9q7Nk_0O4w1rD3SL5` mediaid=`da79e569cd75428874a9bcc9f64d9fa07aa0767d`  
+_Prodigal sons return to start a competing delivery service that threatens the existence of Planet Express._  
+<a href="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131514179-Futurama_059_TheRouteOfAllEvil.png"><img src="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131514179-Futurama_059_TheRouteOfAllEvil.png" height="144px" /></a>
+### 2115093
+**Samurai Jack S05E02 - XCIII**  
+TV-14-V 🔒 22:31  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xciii  
+seriesid=`343621` titleid=`2115093` id=`zYGkjwh1TqKsfGGMfBMOUA` mediaid=`059504dc90e4b082cf4d820eb168a95ffa2a192b`  
+_Jack's will to survive is pushed to its absolute limits after a deadly, unseen foe launches a relentless surprise attack._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471429140-samjack_093_dup-20170125.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471429140-samjack_093_dup-20170125.jpg" height="144px" /></a>
+### 2115098
+**Samurai Jack S05E07 - XCVIII**  
+TV-14-V 🔓 22:33  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xcviii  
+seriesid=`343621` titleid=`2115098` id=`hZTx3YtGSnmGAlFl0wqOgA` mediaid=`24c366adff3a3c95240adef4cde94709e77b9603`  
+_Jack and Ashi must overcome a series of dangerous physical and spiritual tests in order to recover Jack's long lost sword._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471430572-samjack_098_dup-20170425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471430572-samjack_098_dup-20170425.jpg" height="144px" /></a>
+### 2132027
+**The Jellies S01E01 - Gangsta's Paradise**  
+TV-14-DLV 🔓 11:16  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-jellies/gangstas-paradise  
+seriesid=`2132025` titleid=`2132027` id=`cyYs5G8GTTKqySDKxNZ6RA` mediaid=`14c29d5ef927ed5ccfb46e50b148e6fd1e19686b`  
+_When Debbie and Barry's marriage hits a rough patch, Cornell decides to take matters into his own hands to save it._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351630416-jellies_102_air_cid-37GT5.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351630416-jellies_102_air_cid-37GT5.jpg" height="144px" /></a>
+### 2172250
+**The Shivering Truth S01E04 - ConstaDeath**  
+TV-MA-V 🔓 11:16  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-shivering-truth/consta-death  
+seriesid=`2165429` titleid=`2172250` id=`AWeE-I91AsbXwNj3wAaA` mediaid=`df27ea0f422a6f3f599dd79252ee22378dc2d337`  
+_Die once, shame on you.  Die once every three seconds, shame on us all._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg" height="144px" /></a>
+### 2222980
+**The Shivering Truth S02E06 - Holeways**  
+TV-MA-SV 🔒 11:15  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-shivering-truth/holeways  
+seriesid=`2165429` titleid=`2222980` id=`AXKkTkr3C8QgH-t19Jns` mediaid=`6776d1d0039272d5d9df9a3548c691fc47d43527`  
+_Every father is mother to a tunnel inside us, leading them away. [Note: Prior to viewing this, you will want to install a restroom in your pants. Because what you see might make you need to use the restroom right into a toilet.]_  
+<a href="https://media.cdn.adultswim.com/uploads/20200615/thumbnails/2_20615112592-TheShiveringTruth_206_dup-20200303.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200615/thumbnails/2_20615112592-TheShiveringTruth_206_dup-20200303.jpg" height="144px" /></a>
+### 615366
+**Tom Goes To The Mayor S01E11 - Vice Mayor**  
+TV-PG-L 🔒 11:46  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/vice-mayor  
+seriesid=`547867` titleid=`615366` id=`rceja6K0R_2chJoTpLTg9w` mediaid=`024c5c8bdc590025d09887294a4ec07057d6dda0`  
+_The Mayor offers Tom a position as Vice Mayor of Hobo Town.  Special Guest: Fred Willard._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952155-tgttm_011.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952155-tgttm_011.jpg" height="144px" /></a>
+### 747217
+**Xavier: Renegade Angel S02E07 - Going Normal**  
+TV-MA 🔓 11:37  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/xavier-renegade-angel/going-normal  
+seriesid=`691917` titleid=`747217` id=`ZM7gI0hJQ-iDa7JwggdZyA` mediaid=`ff847a39e5b4e749c1ed5c0bba32ec56cdfa2e71`  
+_Just whenst you most expect it, Xavier's gratitude starved heart shrieks out "Abandon ye lifequest!" and then wolfs down a steam-filled puddin' pie of limits._  
+<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141732217-xavier_207.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141732217-xavier_207.jpg" height="144px" /></a>
+### 747212
+**Xavier: Renegade Angel S02E02 - Xavier's Maneuver**  
+TV-MA 🔒 11:26  
+⌛ June 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/xavier-renegade-angel/xaviers-maneuver  
+seriesid=`691917` titleid=`747212` id=`Bxz_WXplRY6N1bXToRDR3A` mediaid=`80c6abae6aaa2d294ae85492a293d265322d41a3`  
+_Xavier unleashes his revolutionary lifesaving maneuver all up on those who find theyselfs in need of his protection._  
+<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730588-xavier_202.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730588-xavier_202.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 3  
-629835 King of the Hill: 1  
-### 2041482
-**American Dad S11E08 - Stan-Dan Deliver**  
-TV-14-DL 🔒 21:13  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+812206 Naruto: Shippuden: 1  
+### 2097204
+**Bob's Burgers S06E16 - Bye Bye Boo Boo**  
+TV-PG 🔒 21:40  
 ⌛ May 13, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/stan-dan-deliver  
-seriesid=`581006` titleid=`2041482` id=`IYkYK4IVTA21Vz0sQ_JUlg` mediaid=`8be0dff7343085f0046a2496452ed5fb7124101f`  
-_Roger becomes a teacher at Steve's school and gets involved with a class of underprivileged kids. Meanwhile, Stan and Francine visit a retirement home and Stan decides to stay._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg" height="144px" /></a>
-### 2041481
-**American Dad S11E07 - The Devil Wears a Lapel Pin**  
-TV-14-DLSV 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/bye-bye-boo-boo  
+seriesid=`2003422` titleid=`2097204` id=`Vu4iC1McRVG1appphTnL2w` mediaid=`d585b126a7913bd60f72f0bca2e3e41929eb1cb7`  
+_When Louise hears that Boo Boo is leaving Boyz 4 Now, she enters a contest that could give Tina the chance to meet him. Meanwhile, Bob and Linda learn an interesting piece of history regarding the restaurant, which leads to tension between Bob and Jimmy Pesto._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg" height="144px" /></a>
+### 2097203
+**Bob's Burgers S06E15 - Pro Tiki/Con Tiki**  
+TV-PG 🔒 21:41  
 ⌛ May 13, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-devil-wears-a-lapel-pin  
-seriesid=`581006` titleid=`2041481` id=`rR4-zIOsQj-NMJYR98be7Q` mediaid=`78c7ca28da36ab4bf33664b2de431b174238ab8e`  
-_When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg" height="144px" /></a>
-### 2041480
-**American Dad S11E06 - Kiss Kiss, Cam Cam**  
-TV-14-DLSV 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/pro-tiki-con-tiki  
+seriesid=`2003422` titleid=`2097203` id=`vHn_yL2YSJaGa4pHqijGZg` mediaid=`85023daed95dfa1e0fa1f0a4a36b43b3f6bbbb4e`  
+_When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg" height="144px" /></a>
+### 442428
+**Futurama S05E01 - Crimes of the Hot**  
+TV-PG-D 🔒 23:17  
 ⌛ May 13, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/kiss-kiss-cam-cam  
-seriesid=`581006` titleid=`2041480` id=`un5GKAHcTHu0l8SJPfqaCQ` mediaid=`2d71a4b54268c799ed40ce185259be6c257b4b30`  
-_Stan gets Francine baseball tickets for her birthday but is upset when they have a horrible kiss on the kiss cam. Steve and Roger head to Nevada to help clean polluted water._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg" height="144px" /></a>
-### 731561
-**King of the Hill S11E19 - Tears of an Inflatable Clown**  
-TV-PG 🔒 22:47  
-⌛ May 13, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/tears-of-an-inflatable-clown  
-seriesid=`629835` titleid=`731561` id=`7hiZyX1nQia43AM-8Rs9Jg` mediaid=`30c20da2f434cea0777ac78e58df810045d948a5`  
-_The Superintendent's office visits Bobby's school; disapproving of the students' conduct, the annual carnival is canceled, causing Hank to step up._  
-<a href="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521535121-KingOfTheHill_1119_TearsOfAnInflatableClown.png"><img src="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521535121-KingOfTheHill_1119_TearsOfAnInflatableClown.png" height="144px" /></a>
+https://www.adultswim.com/videos/futurama/crimes-of-the-hot  
+seriesid=`437532` titleid=`442428` id=`AYB7aJQg208s7zyYUMyn` mediaid=`f3d915402e6077d3ad17ea5aaf4a593e64a242bd`  
+_Al Gore's head holds an emergency summit in Kyoto, Japan, to deal with global warming caused by robot emissions._  
+<a href="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521531550-Futurama_057_CrimesOfTheHot.png"><img src="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521531550-Futurama_057_CrimesOfTheHot.png" height="144px" /></a>
+### 2177758
+**Naruto: Shippuden S06E46 - Two-Man Team**  
+TV-PG 🔒 21:52  
+⌛ May 18, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/two-man-team  
+seriesid=`812206` titleid=`2177758` id=`AXett57KQJ_4Uej5kTrq` mediaid=`476e9ea67169506963b6a2135439c744e9411d7a`  
+_Naruto uses up the last of his chakra trying to free the Tailed Beasts from Madara's control._  
+<a href="https://media.cdn.adultswim.com/uploads/20210219/thumbnails/2_21219947416-NarutoShippuden_329.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210219/thumbnails/2_21219947416-NarutoShippuden_329.jpg" height="144px" /></a>
