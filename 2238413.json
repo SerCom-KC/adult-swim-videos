@@ -916,5 +916,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521535567-AssassinationClassroom_42_ValentinesDayTime.png",
         "id": "AYCGRdw7_0O4w1rD3SJl",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1654415940,
+        "tms_id": "EP035989030043",
+        "description": "Koro Sensei has one more project planned to close out the year with his beloved E Class, but the government's own plans threaten to get in the way.",
+        "title_suggest": {
+            "input": [
+                "Trust Time",
+                "Time"
+            ]
+        },
+        "title": "Trust Time",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1341.2066,
+        "episode_number": "21",
+        "original_air_date": "1652589000",
+        "auth_launch_date": 1652601600,
+        "clip_order": null,
+        "airing_id": "RADS1005132200099308",
+        "media_id": "89da07406fd2f063fafa8316af503626c45b74ba",
+        "modified": 1652472896,
+        "slug": "trust-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/1_225111234420-AssassinationClassroom_43_TrustTime.png",
+        "created": 1652286892,
+        "season_number": "2",
+        "title_id": "2333987",
+        "tv_rating": "tv-14-l",
+        "published": 1652472896,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111234420-AssassinationClassroom_43_TrustTime.png",
+        "id": "AYCz-Ssu_0O4w1rD3SLz",
+        "auth": true
     }
 ]
