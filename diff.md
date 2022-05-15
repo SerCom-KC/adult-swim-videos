@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 15, 2022 at 04:30:27 EDT_
+_Last Update: May 15, 2022 at 05:00:24 EDT_
 ## Video added
 ### Summary
-2238413 Assassination Classroom: 1  
-### 2333987
-**Assassination Classroom S02E21 - Trust Time**  
-TV-14-L 🔒 22:21  
-⌛ June 5, 2022 at 03:59:00 EDT  
-https://www.adultswim.com/videos/assassination-classroom/trust-time  
-seriesid=`2238413` titleid=`2333987` id=`AYCz-Ssu_0O4w1rD3SLz` mediaid=`89da07406fd2f063fafa8316af503626c45b74ba`  
-_Koro Sensei has one more project planned to close out the year with his beloved E Class, but the government's own plans threaten to get in the way._  
-<a href="https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111234420-AssassinationClassroom_43_TrustTime.png"><img src="https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111234420-AssassinationClassroom_43_TrustTime.png" height="144px" /></a>
+2387380 Lupin the 3rd Part 6: 1  
+### 2387385
+**Lupin the 3rd Part 6 S01E05 - The Killers in the Diner**  
+TV-14-LV 🔒 21:28  
+⌛ June 5, 2022 at 04:29:00 EDT  
+https://www.adultswim.com/videos/lupin-the-3rd-part-6/the-killers-in-the-diner  
+seriesid=`2387380` titleid=`2387385` id=`AYCz-m9g_0O4w1rD3SL0` mediaid=`eade833b85b93f66e850509affbf1b4572c0efca`  
+_A pair of twins walk into a restaurant. This isn't the start of a joke, or even a story by Ernest Hemingway - it's the start of the next episode of Lupin the 3rd Part 6!_  
+<a href="https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_22511123676-LupinThe3rd_Part6_TheKillersInTheDiner.png"><img src="https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_22511123676-LupinThe3rd_Part6_TheKillersInTheDiner.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
