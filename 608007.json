@@ -623,7 +623,7 @@
         "launch_date": 1652002200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121521529-OnePiece_540_AHeroWhoFreedTheSlavesAnAdventurerTiger.png",
         "id": "AYAfOdXM208s7zyYUMkq",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1656302340,
@@ -1033,6 +1033,61 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111237566-OnePiece_549_ARiftOpensUpLuffyVsJimbei.png",
         "id": "AYCz_CFH208s7zyYUM2N",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1654421340,
+        "tms_id": "EP035179090034",
+        "description": "Jimbei and Luffy continue their standoff, the New Fish-Man pirates go on a rampage, and Hordy begins to experience startling side effects from his pill-popping habit!",
+        "title_suggest": {
+            "input": [
+                "Something Has Happened to Hordy! The True Power of the Evil Drug!",
+                "Has Happened to Hordy! The True Power of the Evil Drug!",
+                "Happened to Hordy! The True Power of the Evil Drug!",
+                "to Hordy! The True Power of the Evil Drug!",
+                "Hordy! The True Power of the Evil Drug!",
+                "The True Power of the Evil Drug!",
+                "True Power of the Evil Drug!",
+                "Power of the Evil Drug!",
+                "of the Evil Drug!",
+                "the Evil Drug!",
+                "Evil Drug!",
+                "Drug!"
+            ]
+        },
+        "title": "Something Has Happened to Hordy! The True Power of the Evil Drug!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1328.2603,
+        "episode_number": "33",
+        "original_air_date": "1652594400",
+        "auth_launch_date": 1652607000,
+        "clip_order": null,
+        "airing_id": "RADS1005132200099312",
+        "media_id": "77cfe436e435693101b6e3ff3fb85f6015410349",
+        "modified": 1652472786,
+        "slug": "something-has-happened-to-hordy-the-true-power-of-the-evil-drug",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/1_225111238394-OnePiece_550_SomethingHasHappenedToHordyTheTruePowerOfTheEvilDrug.png",
+        "created": 1652287129,
+        "season_number": "15",
+        "title_id": "2363818",
+        "tv_rating": "tv-pg-l",
+        "published": 1652472786,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111238394-OnePiece_550_SomethingHasHappenedToHordyTheTruePowerOfTheEvilDrug.png",
+        "id": "AYCz_MhY208s7zyYUM2O",
         "auth": true
     }
 ]
