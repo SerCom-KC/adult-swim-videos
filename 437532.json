@@ -193,11 +193,7 @@
     },
     {
         "auth_expiration_date": 1653278340,
-        "created": 1652478312,
         "tms_id": "EP003034830120",
-        "title_id": "2161643",
-        "season_number": "8",
-        "tv_rating": "tv-14-lv",
         "description": "Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences.",
         "title_suggest": {
             "input": [
@@ -205,21 +201,38 @@
                 "Warriors"
             ]
         },
-        "published": 1652493174,
         "title": "Cold Warriors",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
         "duration": 1367.0657,
         "episode_number": "11",
-        "collection_title": "Futurama",
         "original_air_date": 1652664600,
         "auth_launch_date": 1652673600,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1005132200099508",
         "media_id": "d4fa18a64dcdb390c498ea070d8893874a774c34",
-        "modified": 1652493174,
+        "modified": 1652710903,
         "slug": "cold-warriors",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/1_225161021194-FryCold.png",
+        "created": 1652478312,
+        "title_id": "2161643",
+        "season_number": "8",
+        "tv_rating": "tv-14-lv",
+        "published": 1652710903,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png",
         "id": "AYC_Yf9T_0O4w1rD3SMf",
         "auth": true
     }
