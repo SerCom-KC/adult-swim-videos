@@ -52,7 +52,7 @@
         "cma_id": "1389434"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784700,
         "auth_expiration_date": 1655870340,
         "tms_id": "EP008994530038",
@@ -491,59 +491,6 @@
         "cma_id": "1369067"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447784580,
-        "auth_expiration_date": 1652846340,
-        "tms_id": "EP008994530033",
-        "rating": 8.862944,
-        "description": "Tim and Eric examine the discuss the mysteries of the universe. Pierre launches a PSA about food poisoning. The Zillions crew is back with a very special episode of Celebrity Zillions. \r\n(John C Reilly)",
-        "title_suggest": {
-            "input": [
-                "Universe"
-            ]
-        },
-        "type": "episode",
-        "title": "Universe",
-        "expiration_date": 1649822340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 680.028,
-        "episode_number": "4",
-        "original_air_date": 1235367000,
-        "clip_order": null,
-        "auth_launch_date": 1649822400,
-        "modified": 1649439444,
-        "media_id": "9d0fed9333c06d94cd20a1935db1d1299499b552",
-        "airing_id": "RADS1003032200077531",
-        "id": "YQXPxActSD-iqVYF9K04qA",
-        "slug": "universe",
-        "views": 481064,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161652413-timanderic_404.jpg",
-        "created": 1402945481,
-        "title_id": "751393",
-        "season_number": "4",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1649439444,
-        "tags": [
-            "tim and eric awesome show universe episode 34"
-        ],
-        "rating_count": 2386,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1646802000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652413-timanderic_404.jpg",
-        "cma_id": "1380845"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447785060,
         "auth_expiration_date": 1627444740,
@@ -657,5 +604,55 @@
         "launch_date": 1649217600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161650357-timanderic_410.jpg",
         "cma_id": "1406586"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447784940,
+        "auth_expiration_date": 1628049540,
+        "tms_id": "EP008994530044",
+        "rating": 7.89054,
+        "description": "When a young actress stumbles upon Casey's remains in the woods, she unknowingly sets his reanimation in motion. (Guest starring: Patrick Duffy, Maynard Keenan, Wendell Pierce, John C Reilly, Al Yankovic)",
+        "title_suggest": {
+            "input": [
+                "Reanimated"
+            ]
+        },
+        "type": "episode",
+        "title": "Reanimated",
+        "expiration_date": 1655870340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 693.73,
+        "episode_number": "3",
+        "original_air_date": 1268627400,
+        "clip_order": null,
+        "auth_launch_date": 1625025600,
+        "modified": 1652546293,
+        "airing_id": "RADS1005142200099634",
+        "media_id": "1f5f001030de87938db960e2c01f627fed1c6166",
+        "id": "shtN5SkXSzuXjkauatL9jA",
+        "slug": "reanimated",
+        "views": 308618,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161649336-timanderic_503.jpg",
+        "created": 1402945481,
+        "title_id": "787516",
+        "season_number": "5",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1652546293,
+        "tags": [],
+        "rating_count": 1955,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1652846400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161649336-timanderic_503.jpg",
+        "cma_id": "1418604"
     }
 ]
