@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 18, 2022 at 14:00:27 EDT_
+_Last Update: May 18, 2022 at 14:30:25 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177805
-**Naruto: Shippuden S07E27 - Kakashi vs. Obito**  
-TV-14-V 🔒 21:52  
-⌛ May 22, 2022 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/kakashi-vs-obito  
-seriesid=`812206` titleid=`2177805` id=`AX7BNDzT_0O4w1rD3RmF` mediaid=`0e2aa534f0f2e9a29ffd5122022a7e9ee59ae362`  
-_Kakashi holds on to the hope that Obito can return to being the young man that he remembers. But Obito has abandoned the present as well as the memories of his friends and will not try to stop the Infinite Tsukuyomi._  
-<a href="https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223158395-NarutoShippuden_375_KakashiVsObito.png"><img src="https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223158395-NarutoShippuden_375_KakashiVsObito.png" height="144px" /></a>
+830073 Off The Air: 1  
+### 2199312
+**Off The Air S09E02 - Trash**  
+ 🔓 10:53  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/off-the-air/trash  
+seriesid=`830073` titleid=`2199312` id=`AW306X2g1YiBSfg0KX7n` mediaid=`83ede7f1d81634dfec7345cacaacb8e67af2077f`  
+_Everybody's doing it._  
+<a href="https://media.cdn.adultswim.com/uploads/20191025/thumbnails/2_1910251214530-offtheair_902_dup-20191024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191025/thumbnails/2_1910251214530-offtheair_902_dup-20191024.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
