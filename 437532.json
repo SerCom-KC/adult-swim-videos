@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1653105540,
-        "tms_id": "EP003034830062",
-        "description": "Zoidberg is sentenced to death for eating a flag at a celebration in Washington, D.C.",
-        "title_suggest": {
-            "input": [
-                "A Taste of Freedom",
-                "Taste of Freedom",
-                "of Freedom",
-                "Freedom"
-            ]
-        },
-        "title": "A Taste of Freedom",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1399.398,
-        "episode_number": "4",
-        "original_air_date": 1068177600,
-        "auth_launch_date": 1652500800,
-        "clip_order": null,
-        "airing_id": "RADS1005132200099257",
-        "media_id": "e9226d4dd67ce27825e9c1ca4c97ca1dd66abc4e",
-        "modified": 1652469332,
-        "slug": "a-taste-of-freedom",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/1_225131515181-Futurama_060_ATasteOfFreedom.png",
-        "created": 1652449618,
-        "title_id": "442426",
-        "season_number": "5",
-        "tv_rating": "tv-14",
-        "published": 1652469332,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131515181-Futurama_060_ATasteOfFreedom.png",
-        "id": "AYC9rCu8208s7zyYUM2a",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1653191940,
         "tms_id": "EP003034830063",
         "description": "Amy's romance with Kif Kroker leads to pregnancy.",
@@ -232,6 +185,40 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png",
         "id": "AYDCwy8f_0O4w1rD3SNK",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1653710340,
+        "created": 1652535105,
+        "tms_id": "EP003034830065",
+        "title_id": "444752",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "description": "Hot tar turns the crotchety old professor into a middle-aged man, while the others are transformed into rambunctious children.",
+        "title_suggest": {
+            "input": [
+                "Teenage Mutant Leela's Hurdles",
+                "Mutant Leela's Hurdles",
+                "Leela's Hurdles",
+                "Hurdles"
+            ]
+        },
+        "published": 1652678871,
+        "title": "Teenage Mutant Leela's Hurdles",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1399.4313,
+        "episode_number": "7",
+        "collection_title": "Futurama",
+        "original_air_date": 1068782400,
+        "auth_launch_date": 1653105600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005142200099748",
+        "media_id": "3effb5202898a7f569d89102c17007e87b080177",
+        "modified": 1652678871,
+        "slug": "teenage-mutant-leelas-hurdles",
+        "id": "AYDCxJhO_0O4w1rD3SNL",
         "auth": true
     }
 ]
