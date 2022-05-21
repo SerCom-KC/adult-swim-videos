@@ -189,11 +189,7 @@
     },
     {
         "auth_expiration_date": 1653710340,
-        "created": 1652535105,
         "tms_id": "EP003034830065",
-        "title_id": "444752",
-        "season_number": "5",
-        "tv_rating": "tv-pg",
         "description": "Hot tar turns the crotchety old professor into a middle-aged man, while the others are transformed into rambunctious children.",
         "title_suggest": {
             "input": [
@@ -203,21 +199,38 @@
                 "Hurdles"
             ]
         },
-        "published": 1652678871,
         "title": "Teenage Mutant Leela's Hurdles",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
         "duration": 1399.4313,
         "episode_number": "7",
-        "collection_title": "Futurama",
         "original_air_date": 1068782400,
         "auth_launch_date": 1653105600,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1005142200099748",
         "media_id": "3effb5202898a7f569d89102c17007e87b080177",
-        "modified": 1652678871,
+        "modified": 1653166226,
         "slug": "teenage-mutant-leelas-hurdles",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/1_225211650145-LeelasHurdles.png",
+        "created": 1652535105,
+        "title_id": "444752",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "published": 1653166226,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/2_225211650145-LeelasHurdles.png",
         "id": "AYDCxJhO_0O4w1rD3SNL",
         "auth": true
     }
