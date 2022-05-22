@@ -1,54 +1,5 @@
 [
     {
-        "auth_expiration_date": 1653191940,
-        "tms_id": "EP003034830063",
-        "description": "Amy's romance with Kif Kroker leads to pregnancy.",
-        "title_suggest": {
-            "input": [
-                "Kif Gets Knocked Up a Notch",
-                "Gets Knocked Up a Notch",
-                "Knocked Up a Notch",
-                "Up a Notch",
-                "a Notch",
-                "Notch"
-            ]
-        },
-        "title": "Kif Gets Knocked Up a Notch",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1397.763,
-        "episode_number": "5",
-        "original_air_date": 1068004800,
-        "auth_launch_date": 1652587200,
-        "clip_order": null,
-        "airing_id": "RADS1005132200099319",
-        "media_id": "42b85931a400bbb44771fc720793a9d6d059884e",
-        "modified": 1652469381,
-        "slug": "kif-gets-knocked-up-a-notch",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/1_22513151615-Futurama_061_KifGetsKnockedUpANotch.png",
-        "created": 1652451324,
-        "title_id": "442425",
-        "season_number": "5",
-        "tv_rating": "tv-14",
-        "published": 1652469381,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151615-Futurama_061_KifGetsKnockedUpANotch.png",
-        "id": "AYC9xjJd_0O4w1rD3SL-",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1653278340,
         "tms_id": "EP003034830119",
         "description": "The crew uncovers a dark secret concerning a covert mission undertaken by the Professor and Dr. Zoidberg many years earlier.",
@@ -232,6 +183,40 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/2_225211650145-LeelasHurdles.png",
         "id": "AYDCxJhO_0O4w1rD3SNL",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1653796740,
+        "created": 1652894823,
+        "tms_id": "EP003034830066",
+        "title_id": "444753",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "description": "Fry becomes disheartened when Leela gets involved with the mayor's aide.",
+        "title_suggest": {
+            "input": [
+                "The Why of Fry",
+                "Why of Fry",
+                "of Fry",
+                "Fry"
+            ]
+        },
+        "published": 1652972056,
+        "title": "The Why of Fry",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.8975,
+        "episode_number": "8",
+        "collection_title": "Futurama",
+        "original_air_date": 1069128000,
+        "auth_launch_date": 1653192000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005182200099937",
+        "media_id": "8ea1652d88913f0867a9f30532f2193dd0a58aa9",
+        "modified": 1652972056,
+        "slug": "the-why-of-fry",
+        "id": "AYDYNXKz_0O4w1rD3SOO",
         "auth": true
     }
 ]
