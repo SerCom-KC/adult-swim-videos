@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 22, 2022 at 06:00:26 EDT_
+_Last Update: May 22, 2022 at 06:30:26 EDT_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2363820
-**One Piece S15E35 - A Surprising Confession! The Truth Behind the Assassination of Otohime!**  
-TV-PG 🔒 22:12  
-⌛ June 12, 2022 at 05:29:00 EDT  
-https://www.adultswim.com/videos/one-piece/a-surprising-confession-the-truth-behind-the-assassination-of-otohime  
-seriesid=`608007` titleid=`2363820` id=`AYCz_jp3_0O4w1rD3SL1` mediaid=`433e3e3a948545a5e3783145cd08bab90b0311db`  
-_Jimbei and Shirahoshi are captured by the enemy, and Hordy makes a shocking revelation to the population of Fish-Man Island!_  
-<a href="https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111240143-OnePiece_552_ASurprisingConfessionTheTruthBehindTheAssassinationOfOtohime.png"><img src="https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111240143-OnePiece_552_ASurprisingConfessionTheTruthBehindTheAssassinationOfOtohime.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177821
+**Naruto: Shippuden S07E43 - Madara Uchiha Rises**  
+TV-PG 🔒 21:51  
+⌛ September 4, 2022 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/madara-uchiha-rises  
+seriesid=`812206` titleid=`2177821` id=`AYC0ABBe208s7zyYUM2R` mediaid=`9d752597950c0232eb342dae4c22a97e45ff43f0`  
+_Naruto and the Allied Shinobi Forces successfully extract the Tailed Beasts from Obito. Only Madara remains, and Naruto heads out to tackle this foe._  
+<a href="https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111242103-NarutoShippuden_391_MadaraUchihaRises.png"><img src="https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111242103-NarutoShippuden_391_MadaraUchihaRises.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
