@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 22, 2022 at 08:00:27 EDT_
+_Last Update: May 22, 2022 at 14:30:28 EDT_
 ## Video added
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177805
-**Naruto: Shippuden S07E27 - Kakashi vs. Obito**  
-TV-14-V 🔒 21:52  
-⌛ September 4, 2022 at 07:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/kakashi-vs-obito  
-seriesid=`812206` titleid=`2177805` id=`AX7BNDzT_0O4w1rD3RmF` mediaid=`0e2aa534f0f2e9a29ffd5122022a7e9ee59ae362`  
-_Kakashi holds on to the hope that Obito can return to being the young man that he remembers. But Obito has abandoned the present as well as the memories of his friends and will not try to stop the Infinite Tsukuyomi._  
-<a href="https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223158395-NarutoShippuden_375_KakashiVsObito.png"><img src="https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223158395-NarutoShippuden_375_KakashiVsObito.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+608360 Robot Chicken: 2  
+### 2270591
+**Robot Chicken S11E05 - May Cause The Exact Thing You're Taking This To Avoid**  
+TV-MA-V 🔒 10:54  
+⌛ May 22, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/may-cause-the-exact-thing-youre-taking-this-to-avoid  
+seriesid=`608360` titleid=`2270591` id=`AXun8YqSUQa40cfnRR4p` mediaid=`f1820a0268491e4553d6eba734ebc5e4a3d62e0c`  
+_The Robot Chicken writers think Disney is running out of classics to remake; Luke Skywalker is a little too comfy inside that Tauntaun; Midsommars' big problem was it wasn't cute enough._  
+<a href="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921516552-RobotChicken_1104_MayCauseTheExactThingYoureTakingThisToAvoid.png"><img src="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921516552-RobotChicken_1104_MayCauseTheExactThingYoureTakingThisToAvoid.png" height="144px" /></a>
+### 2072682
+**Robot Chicken S08E15 - Hopefully Salt**  
+TV-14-DLSV 🔒 11:21  
+⌛ May 22, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/hopefully-salt  
+seriesid=`608360` titleid=`2072682` id=`S4XVwYVnRjuUUI9FFtDNbg` mediaid=`d972bf463faff2151f615550e175a0eb98f8cabc`  
+_RC explains why Superman wishes he'd locked the door of the Fortress of Solitude. The Robot Chicken Nerd dies or has sex or neither? You are probably smarter than a fifth grader. The Teenage Mutant Ninja Turtles get surplus military hardware._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461254451-robotchicken_815_dup-20160304.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461254451-robotchicken_815_dup-20160304.jpg" height="144px" /></a>
