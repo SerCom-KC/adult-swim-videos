@@ -1,98 +1,5 @@
 [
     {
-        "auth_expiration_date": 1653278340,
-        "tms_id": "EP003034830119",
-        "description": "The crew uncovers a dark secret concerning a covert mission undertaken by the Professor and Dr. Zoidberg many years earlier.",
-        "title_suggest": {
-            "input": [
-                "The Tip of the Zoidberg",
-                "Tip of the Zoidberg",
-                "of the Zoidberg",
-                "the Zoidberg",
-                "Zoidberg"
-            ]
-        },
-        "title": "The Tip of the Zoidberg",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1361.8605,
-        "episode_number": "10",
-        "original_air_date": 1652662800,
-        "auth_launch_date": 1652673600,
-        "clip_order": null,
-        "airing_id": "RADS1005132200099498",
-        "media_id": "662fcb631c950e418e5e03c78080f8aa2955a01a",
-        "modified": 1652710667,
-        "slug": "the-tip-of-the-zoidberg",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/1_225161017225-Zoidberg.png",
-        "created": 1652478306,
-        "title_id": "2161637",
-        "season_number": "8",
-        "tv_rating": "tv-14-dlv",
-        "published": 1652710667,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161017225-Zoidberg.png",
-        "id": "AYC_YeoQ_0O4w1rD3SMe",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1653278340,
-        "tms_id": "EP003034830120",
-        "description": "Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences.",
-        "title_suggest": {
-            "input": [
-                "Cold Warriors",
-                "Warriors"
-            ]
-        },
-        "title": "Cold Warriors",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1367.0657,
-        "episode_number": "11",
-        "original_air_date": 1652664600,
-        "auth_launch_date": 1652673600,
-        "clip_order": null,
-        "airing_id": "RADS1005132200099508",
-        "media_id": "d4fa18a64dcdb390c498ea070d8893874a774c34",
-        "modified": 1652710903,
-        "slug": "cold-warriors",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/1_225161021194-FryCold.png",
-        "created": 1652478312,
-        "title_id": "2161643",
-        "season_number": "8",
-        "tv_rating": "tv-14-lv",
-        "published": 1652710903,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png",
-        "id": "AYC_Yf9T_0O4w1rD3SMf",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1653623940,
         "tms_id": "EP003034830064",
         "description": "Fry, Leela and Bender develop superhuman powers and fight crime in the Big Apple.",
@@ -217,6 +124,70 @@
         "modified": 1652972056,
         "slug": "the-why-of-fry",
         "id": "AYDYNXKz_0O4w1rD3SOO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1653883140,
+        "created": 1653012793,
+        "tms_id": "EP003034830121",
+        "title_id": "2161644",
+        "season_number": "8",
+        "tv_rating": "tv-14-lv",
+        "description": "Bender evolves into a godlike being after vastly increasing his processing power.",
+        "title_suggest": {
+            "input": [
+                "Over Clock Wise",
+                "Clock Wise",
+                "Wise"
+            ]
+        },
+        "published": 1653025493,
+        "title": "Over Clock Wise",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.2509,
+        "episode_number": "12",
+        "collection_title": "Futurama",
+        "original_air_date": 1653267600,
+        "auth_launch_date": 1653278400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005202200000142",
+        "media_id": "d5a62e9d0ecf63ec6df2bbb8832485dc84c3b86e",
+        "modified": 1653025493,
+        "slug": "over-clock-wise",
+        "id": "AYDfPYfb208s7zyYUM6q",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1653883140,
+        "created": 1653012793,
+        "tms_id": "EP003034830122",
+        "title_id": "2161645",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "description": "Futurama is reconceived in three alternate animation styles: classic black-and-white, old-school videogame, and Japanese anime.",
+        "title_suggest": {
+            "input": [
+                "Reincarnation"
+            ]
+        },
+        "published": 1653025156,
+        "title": "Reincarnation",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1841,
+        "episode_number": "13",
+        "collection_title": "Futurama",
+        "original_air_date": 1653269400,
+        "auth_launch_date": 1653278400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005202200000143",
+        "media_id": "012ad692c78ee5de0340c01c9ef58897cc8fa3ea",
+        "modified": 1653025156,
+        "slug": "reincarnation",
+        "id": "AYDfPYlg208s7zyYUM6r",
         "auth": true
     }
 ]
