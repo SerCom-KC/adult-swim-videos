@@ -1,58 +1,68 @@
 {
-    "updated": 1653420626,
-    "added": [
+    "updated": 1653424821,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "RAM: Neon Rave",
+            "description": "Wave two, FIGHT!",
             "title_suggest": {
                 "input": [
-                    "RAM: Neon Rave",
-                    "Neon Rave",
-                    "Rave"
+                    "Blood Dome - Wave 2",
+                    "Dome - Wave 2",
+                    "- Wave 2",
+                    "Wave 2",
+                    "2"
                 ]
             },
+            "title": "Blood Dome - Wave 2",
             "expiration_date": null,
             "type": "clip",
-            "title": "RAM: Neon Rave",
             "platforms": [
                 "android",
-                "ios",
-                "roku",
                 "fire-tv",
-                "online-exclusive"
+                "ios",
+                "online-exclusive",
+                "roku"
             ],
             "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 20.77,
+            "duration": 19.97,
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
-            "media_id": "me7873fa49ff0558f1fc895776f9321fbfc3ee026c",
-            "modified": 1653420321,
-            "airing_id": "",
-            "slug": "ram-neon-rave",
+            "media_id": "me21b75d9a9e2a7895e3544b3aadeb7349c83f499d",
+            "modified": 1563555802,
+            "slug": "blood-dome-wave-2",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15350488661847.jpg",
-            "created": 1535048870,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154647161748411.jpg",
+            "created": 1546013357,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1653420321,
-            "tags": [],
+            "published": 1563555802,
+            "tags": [
+                "rick and morty",
+                "adult swim",
+                "ID",
+                "promo",
+                "fighting",
+                "game",
+                "blood",
+                "dome"
+            ],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
-            "modified_by": "Sara Griggs",
-            "launch_date": 1534996800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15350488661847.jpg",
-            "id": "AWVoCusCh5enQuYyHlRZ",
+            "modified_by": "Jared Marquez",
+            "launch_date": 1546059600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154647161748411.jpg",
+            "id": "AWf1k7QpAScUIg8Xxbf0",
             "auth": false,
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
             "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
