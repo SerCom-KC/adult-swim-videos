@@ -2,104 +2,150 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 24, 2022 at 00:00:31 EDT_
+_Last Update: May 24, 2022 at 00:30:33 EDT_
 ## Video added
 ### Summary
-2022095 Black Jesus: 1  
-2003422 Bob's Burgers: 1  
-340539 Harvey Birdman, Attorney at Law: 1  
-853486 NTSF:SD:SUV::: 2  
-### 2065410
-**Black Jesus S02E01 - No Room for Jesus**  
-TV-MA-L 🔓 21:39  
+618253 12 oz. Mouse: 1  
+581006 American Dad: 2  
+2137894 Ballmastrz: 9009: 1  
+680051 Delocated: 1  
+2007823 Infomercials: 1  
+2161118 Joe Pera Talks With You: 1  
+2356951 Made In Abyss: 1  
+### 2171343
+**12 oz. Mouse S02E?? - INVICTUS**  
+TV-14-LV 🔓 23:21  
 ⌛ June 27, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-jesus/no-room-for-jesus  
-seriesid=`2022095` titleid=`2065410` id=`j9xhxfZZRfSDKFLF___yXw` mediaid=`cbc34b0edee0f110cf94448af434fcf05c6bb795`  
-_Fresh from the mental hospital, Jesus is back in Compton looking for a place to stay. He grows concerned when it appears Fish has returned to a life of crime._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261710186-blackjesus_201_dup-20150911.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261710186-blackjesus_201_dup-20150911.jpg" height="144px" /></a>
-### 2132988
-**Bob's Burgers S07E17 - Paraders of the Lost Float**  
-TV-PG-L 🔒 21:27  
+https://www.adultswim.com/videos/12-oz-mouse/invictus  
+seriesid=`618253` titleid=`2171343` id=`AWZVGgQxh5enQuYyJH37` mediaid=`69e4df3046dd3e21f5afd56a29e109b50dfcdcef`  
+_After a space-farmer discovers his parent's demise, he comes upon a fictional and robed warrior that helps him discover his inner strength in order to defeat a man in black._  
+<a href="https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220123474-12oz_Invictus_Special_dup-20181004.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220123474-12oz_Invictus_Special_dup-20181004.jpg" height="144px" /></a>
+### 2069558
+**American Dad S13E05 - (You Gotta) Strike for Your Right**  
+TV-14-DLSV 🔒 21:02  
 ⌛ May 30, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/paraders-of-the-lost-float  
-seriesid=`2003422` titleid=`2132988` id=`AWDc4Ex_Z-onAnjDLt6_` mediaid=`45cfc2526dd3d321da486c669ef6e6aecbf844e2`  
-_When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg" height="144px" /></a>
-### 344146
-**Harvey Birdman, Attorney at Law S01E05 - Shoyu Weenie**  
-TV-14 🔓 12:01  
+https://www.adultswim.com/videos/american-dad/you-gotta-strike-for-your-right  
+seriesid=`581006` titleid=`2069558` id=`AWBGCJbQwdpKFAKSb0FQ` mediaid=`1de57ad7b65fa747c811f1d1bfc0ae638219da07`  
+_Hayley witnesses harsh working conditions at the CIA and encourages action._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg" height="144px" /></a>
+### 2069559
+**American Dad S13E06 - Klaustastrophe.tv**  
+TV-14-DLSV 🔒 21:02  
+⌛ May 30, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/klaustastrophe-tv  
+seriesid=`581006` titleid=`2069559` id=`AWHnfmza0KIGIdXCKzuM` mediaid=`b097c66fe3a817effdd244ffc3182fb7cbeb1ccf`  
+_Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg" height="144px" /></a>
+### 2137900
+**Ballmastrz: 9009 S01E04 - To Catch a Princess**  
+TV-14-D 🔓 10:54  
 ⌛ June 27, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/shoyu-weenie  
-seriesid=`340539` titleid=`344146` id=`7Oy-RnxpRluG4Lil9vLLFg` mediaid=`ed141c3ab37aa0129bf1791f9b164f7b5c6f3c0f`  
-_When Shoyu Weenie, a Japanese pop band, discovers that Jabberjaw and the Neptunes have stolen their hit single "Mochi Mochi" and made it their own, they decide to take their case to a higher power. When he's not available, they settle on Harvey._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351222137-harvey_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351222137-harvey_005.jpg" height="144px" /></a>
-### 963233
-**NTSF:SD:SUV:: S02E03 - Sabbath-tage**  
-TV-14-DLSV 🔓 11:12  
+https://www.adultswim.com/videos/ballmastrz-9009/to-catch-a-princess  
+seriesid=`2137894` titleid=`2137900` id=`AWKxDqD4TdxzjxdClVoT` mediaid=`fc5c4c0499c3d33f0e19bb296959bb4f40503a00`  
+_Ace's online obsession arouses the interest of a mysterious video game vixen._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15236469714832.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15236469714832.jpg" height="144px" /></a>
+### 811359
+**Delocated S02E01 - Decoys**  
+TV-14-DLV 🔓 22:04  
+⌛ June 27, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/delocated/decoys  
+seriesid=`680051` titleid=`811359` id=`FAUp5C7CTiqPl3XVoQm9eQ` mediaid=`09cde87b1244416d6bf671f6d0f078bcfb0f8df6`  
+_A new government program is instituted to help protect "Jon"._  
+<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033143501-delocated_201.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033143501-delocated_201.jpg" height="144px" /></a>
+### 2236211
+**Infomercials S10E06 - Rate the Cookie**  
+TV-PG-L 🔓 12:13  
+⌛ June 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/infomercials/rate-the-cookie  
+seriesid=`2007823` titleid=`2236211` id=`AXYuFdlLQJ_4Uej5kTc7` mediaid=`e0763ed1f90ba671063db9ebcb004357d88c51ed`  
+_A game show where Jo Firestone sets up a cookie tasting in a parking lot to try to make friends. Contestants must ultimately decide between a friendship and $50 cash._  
+<a href="https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_201249963-infomercials_RateTheCookie_dup-20201201.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_201249963-infomercials_RateTheCookie_dup-20201201.jpg" height="144px" /></a>
+### 2161127
+**Joe Pera Talks With You S01E09 - Joe Pera Answers Your Questions About Cold Weather Sports**  
+TV-14-L 🔒 23:30  
 ⌛ August 1, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/sabbath-tage  
-seriesid=`853486` titleid=`963233` id=`2eQdRyMJRGeRqv9fajdxZg` mediaid=`3614b69a5f2a14e3a8798dcacc0bef02c0fff765`  
-_A Riddle Terrorist attacks San Diego on a Saturday, and it's up to Sam to stop him before he destroys the city._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131323-ntsf_208_dup-20160412.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131323-ntsf_208_dup-20160412.jpg" height="144px" /></a>
-### 853493
-**NTSF:SD:SUV:: S01E11 - Twistin' the Night Away**  
-TV-14 🔓 11:05  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-answers-your-questions-about-cold-weather-sports  
+seriesid=`2161118` titleid=`2161127` id=`AWLfc3nZTdxzjxdClfgN` mediaid=`a5bb7c3838b38a697a6bbce756672363730bd17a`  
+_In which Joe Pera answers viewers' questions about cold weather sports such as ice hockey, downhill skiing, snowmobiling, and luge._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351637390-joeperatalks_109_air_cid-3H4W6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351637390-joeperatalks_109_air_cid-3H4W6.jpg" height="144px" /></a>
+### 2356963
+**Made In Abyss S01E10 - Poison and the Curse**  
+TV-MA 🔒 22:16  
 ⌛ August 1, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/twistin-the-night-away  
-seriesid=`853486` titleid=`853493` id=`tf2wPeoQTtCoACcIQ2rGcw` mediaid=`9e985fa0951e4f526253309354a7abc1018a59d5`  
-_It's the Season Finale and there are so many twists and turns your head will explode.  Sentient SUVs take NTSF hostage, Sam is forced to work with a creepy new member of the team, and Trent must track down who's behind it all.  But there isn't just one culprit.   Everyone has something to hide... or do they?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312121190-ntsf_111_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312121190-ntsf_111_bim.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/made-in-abyss/poison-and-the-curse  
+seriesid=`2356951` titleid=`2356963` id=`AX-Tz3MI208s7zyYUMVh` mediaid=`208bd8d3e78a02d479613c7a6314c6d7a22eb1f0`  
+_Reg and Riko run into trouble deep in the fourth layer where they meet an interesting creature, but are they friend or foe?_  
+<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171426588-MadeInAbyss_010_PoisonAndTheCurse.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171426588-MadeInAbyss_010_PoisonAndTheCurse.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2022095 Black Jesus: 1  
-340539 Harvey Birdman, Attorney at Law: 1  
-853486 NTSF:SD:SUV::: 3  
-### 2132980
-**Bob's Burgers S07E07 - A Few 'gurt Men**  
-TV-PG-L 🔒 21:46  
+2007823 Infomercials: 1  
+2137894 Ballmastrz: 9009: 1  
+2161118 Joe Pera Talks With You: 1  
+2356951 Made In Abyss: 1  
+581006 American Dad: 2  
+618253 12 oz. Mouse: 1  
+680051 Delocated: 1  
+### 2159567
+**Infomercials S08E02 - Food: The Source of Life**  
+TV-MA-S 🔒 10:46  
 ⌛ May 23, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/a-few-gurt-men  
-seriesid=`2003422` titleid=`2132980` id=`AV-SbT3jwdpKFAKSbO13` mediaid=`b2dfa4421e179af0084b877402f89f97c9006b0d`  
-_Louise is put in a sticky situation when she must defend one of her biggest foes at Wagstaff during a mock trial. Meanwhile, after they're both taken in by a food scammer, Bob teams up with Jimmy Pesto to exact their revenge._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg" height="144px" /></a>
-### 2031265
-**Black Jesus S01E01 - Smokin', Drinkin', and Chillin'**  
-TV-MA-L 🔒 19:20  
+https://www.adultswim.com/videos/infomercials/food-the-source-of-life  
+seriesid=`2007823` titleid=`2159567` id=`AWRIJxFnqBveI_0AhKvT` mediaid=`ca719ee2d2762c19096a83880adac09b16709834`  
+_A carrot takes a dark and surprising journey as it makes its way from a country farm to an upscale restaurant. Food this fresh comes at a cost._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153022109555218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153022109555218.jpg" height="144px" /></a>
+### 2199779
+**Ballmastrz: 9009 S02E04 - Children of the Night Serenade Wet Nurse of Reprisal; Scream, Bloodsucker, Scream!**  
+ 🔒 10:51  
 ⌛ May 23, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-jesus/smokin-drinkin-and-chillin  
-seriesid=`2022095` titleid=`2031265` id=`uyF7pviJSx-h54eNGOg3Fg` mediaid=`9cfefd8a8c8b0f586b2adbb9c99593effa6ef99c`  
-_The gang talks Jesus into coming along on a drug buy financed by Boonie's mom._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_2022617586-blackjesus_001_dup-20140716.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_2022617586-blackjesus_001_dup-20140716.jpg" height="144px" /></a>
-### 644092
-**Harvey Birdman, Attorney at Law S04E03 - Babysitter**  
-TV-14-D 🔒 11:35  
+https://www.adultswim.com/videos/ballmastrz-9009/children-of-the-night-serenade-wet-nurse-of-reprisal-scream-bloodsucker-scream  
+seriesid=`2137894` titleid=`2199779` id=`AW3u_YDX1YiBSfg0KX6P` mediaid=`3c5773464745732f48d3f4422cab0738ada76a3f`  
+_When Gaz falls under the spell of a mysterious pickup artist, one of her teammates must resurrect a heroic alter ego to save the day._  
+<a href="https://media.cdn.adultswim.com/uploads/20191021/thumbnails/2_191021114497-ballmastrz9009_206_dup-20190607.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191021/thumbnails/2_191021114497-ballmastrz9009_206_dup-20190607.jpg" height="144px" /></a>
+### 2214308
+**Joe Pera Talks With You S02E03 - Joe Pera Waits With You**  
+TV-14 🔒 10:53  
 ⌛ May 23, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/babysitter  
-seriesid=`340539` titleid=`644092` id=`3NedtshmTiC6QudW4L1ljg` mediaid=`2e8fc6815ec4b7aec4c3f7db08294e68f1a9cdbb`  
-_Two heroes will fall and one, in Speedos, will rise out of a hot tub filled with cash.  Actually, another hero will rise too, in a Baby Bjorn, deftly worn by Reducto.  And then fall. Too many falls and rises to keep track of?  Welcome to our dramatic episode! Will we reveal these spectacular mysteries in this logline? Sure!  Oh, and two main characters will die._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351425592-harvey_035.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351425592-harvey_035.jpg" height="144px" /></a>
-### 963231
-**NTSF:SD:SUV:: S02E01 - 16 Hop Street**  
-TV-14-DLV 🔓 11:14  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-waits-with-you  
+seriesid=`2161118` titleid=`2214308` id=`AW5GpPgZadNs2hMNfub7` mediaid=`baaefbfb899c525a49161e03589d25d8e9b9258b`  
+_A teacher in Michigan's Upper Peninsula explores subject matters such as pancakes, blueberries, eggs, toast, sausage, bacon, English muffins, coffee, orange juice, maple syrup, waffles, cornbread, and strawberries._  
+<a href="https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_19117111407-joeperatalks_203_dup-20191021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_19117111407-joeperatalks_203_dup-20191021.jpg" height="144px" /></a>
+### 2356966
+**Made In Abyss S01E13 - The Challengers**  
+TV-MA 🔒 46:53  
 ⌛ May 23, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/16-hop-street  
-seriesid=`853486` titleid=`963231` id=`2hjKyhkwRTGc-RdGegPHBQ` mediaid=`7bb0180a9205326325bd30a7c45eb0814bb1e40f`  
-_Trent and Piper go undercover and back to school to figure out who's kidnapping the children of San Diego's elite._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_2031212267-ntsf_205_dup-20160331.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_2031212267-ntsf_205_dup-20160331.jpg" height="144px" /></a>
-### 963232
-**NTSF:SD:SUV:: S02E02 - The Real Bicycle Thief**  
-TV-14-DLV 🔓 11:14  
-⌛ May 23, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/the-real-bicycle-thief  
-seriesid=`853486` titleid=`963232` id=`gZhMoCC4SmygLrcTwREEIA` mediaid=`d76234fc295af0efd982411d94a5be1598629022`  
-_Trent infiltrates the Swedish virtual pedicab bike racing scene to take down a crew of restaurant terrorists._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121312366-ntsf_201_dup-20151020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121312366-ntsf_201_dup-20151020.jpg" height="144px" /></a>
-### 853496
-**NTSF:SD:SUV:: S01E12 - I Left My Heart in Someone's Cooler**  
-TV-14 🔓 11:14  
-⌛ May 23, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/i-left-my-heart-in-someones-cooler  
-seriesid=`853486` titleid=`853496` id=`wZcSUlu5TkyvcZS5Aw4-tA` mediaid=`4b02ccbfde8f272e7709a7a59bfa91ad2388cd50`  
-_It's San Diego Day, a Christmas-like holiday, in San Diego  but Terrorists plan to sabotage the SD parade by planting a bomb in the heart of the   Grand Marshal of the parade, who happens to be the President of the Navy.  Now NTSF must stop the bomb and, adding to stress of the day, Trent sends Alphonse out to find his kids the perfect gift._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312121373-ntsf_112_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312121373-ntsf_112_bim.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/made-in-abyss/the-challengers  
+seriesid=`2356951` titleid=`2356966` id=`AYAANYy6208s7zyYUMhZ` mediaid=`59efe2993c3dbdaeea5474ce0b31251d80a20f2c`  
+_Nanachi and Mitty's past is revealed. How did they become what they are and who is responsible for it? Meanwhile, Riko is on the mend after her injuries._  
+<a href="https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246144923-MadeInAbyss_013_TheChallengers.png"><img src="https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246144923-MadeInAbyss_013_TheChallengers.png" height="144px" /></a>
+### 2069541
+**American Dad S12E10 - A Nice Night for a Drive**  
+TV-14 🔒 21:14  
+⌛ May 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/a-nice-night-for-a-drive  
+seriesid=`581006` titleid=`2069541` id=`Jv3Vtv7GTM2hwe473Cu2Vg` mediaid=`446e15882ee54ba47ea9eae12a96f6c03d736848`  
+_Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg" height="144px" /></a>
+### 2069544
+**American Dad S12E09 - The Witches of Langley**  
+TV-14 🔒 21:14  
+⌛ May 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-witches-of-langley  
+seriesid=`581006` titleid=`2069544` id=`Y5ttR_r4RD--F5vHW1jb0Q` mediaid=`82d4c38087e623a89a32d2e71d1179ab0d8066d5`  
+_Steve and his friends take up witchcraft to gain power and popularity at school. Stan and Klaus become obsessed with remembering 90s bands._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg" height="144px" /></a>
+### 651322
+**12 oz. Mouse S02E05 - Enjoy the Arm**  
+TV-14-DLV 🔒 11:29  
+⌛ May 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/12-oz-mouse/enjoy-the-arm  
+seriesid=`618253` titleid=`651322` id=`bj5C2toJRf2UwkPsW2-4og` mediaid=`ae66b9756533e6b74a3fab9209aae556549f8f0f`  
+_Shark is angry, smashing furniture and yelling. Rooster and Liquor think he is suffering from hypertension and talk him into taking a physical exam. The Doctor tells Shark he has a high cholesterol level, and instructs him to cut back on salt and fat._  
+<a href="https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220121180-12oz_012_BIM_9381888.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220121180-12oz_012_BIM_9381888.jpg" height="144px" /></a>
+### 878916
+**Delocated S03E09 - Jon Done Gone Nuts**  
+TV-14-DLSV 🔒 21:40  
+⌛ May 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/delocated/jon-done-gone-nuts  
+seriesid=`680051` titleid=`878916` id=`bOOAxtpLRNWeaB0Elsk5-w` mediaid=`feee90054f38317c6e1039612a888f800c0e3bd1`  
+_"Jon" tries to take more control of his life. War seems imminent between the Mirminsky's and the Wang Cho's._  
+<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331457493-delocated_309.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331457493-delocated_309.jpg" height="144px" /></a>
