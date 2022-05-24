@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 24, 2022 at 05:00:30 EDT_
+_Last Update: May 24, 2022 at 09:00:26 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 812206 Naruto: Shippuden: 1  
-### 2177776
-**Naruto: Shippuden S06E64 - Creeping Shadow**  
-TV-PG 🔒 21:54  
-⌛ May 24, 2022 at 04:59:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/creeping-shadow  
-seriesid=`812206` titleid=`2177776` id=`AXpA9S8wBH5Z6gH5aWXg` mediaid=`9e2b3daad6c80752371e17a233407361c4aea173`  
-_Yahiko, Nagato, and Konan form the Akatsuki to realize their dream of bringing peace to the Hidden Rain._  
-<a href="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_21625143113-NarutoShippuden_347_CreepingShadow.png"><img src="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_21625143113-NarutoShippuden_347_CreepingShadow.png" height="144px" /></a>
+### 2177806
+**Naruto: Shippuden S07E28 - The Directive to Take the Nine-Tails!**  
+TV-PG 🔒 21:50  
+⌛ May 29, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-directive-to-take-the-nine-tails  
+seriesid=`812206` titleid=`2177806` id=`AX7ani6S208s7zyYUMCH` mediaid=`ee50b89d98ffcd86c59acb4d2e071e78d204c973`  
+_Part 1 of a special two-part extra edition! The townspeople are going about their daily business on the streets of the Leaf Village when someone suddenly appears and starts sending them flying!_  
+<a href="https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281334567-NarutoShippuden_376_TheDirectiveToTakeTheNineTails.png"><img src="https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281334567-NarutoShippuden_376_TheDirectiveToTakeTheNineTails.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
