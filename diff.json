@@ -1,65 +1,6 @@
 {
-    "updated": 1653496398,
+    "updated": 1653496707,
     "added": [
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "This has no secret message.",
-            "title_suggest": {
-                "input": [
-                    "RAM Disguise",
-                    "Disguise"
-                ]
-            },
-            "expiration_date": null,
-            "type": "clip",
-            "title": "RAM Disguise",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv",
-                "online-exclusive"
-            ],
-            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 16.23,
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "media_id": "meb37a67672d57e5a5d813d7a19b517f90d789975e",
-            "modified": 1653496071,
-            "airing_id": "",
-            "slug": "ram-disguise",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152907928913020.jpg",
-            "created": 1529077324,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1653496071,
-            "tags": [
-                "rick and morty",
-                "id",
-                "secret message",
-                "adult swim",
-                "promo"
-            ],
-            "collection_title": "Rick and Morty",
-            "disable_ads": false,
-            "modified_by": "Sara Griggs",
-            "launch_date": 1529035238,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152907928913020.jpg",
-            "id": "AWQEHFvlTdxzjxdCmcLr",
-            "auth": false,
-            "collection_slug": "rick-and-morty",
-            "collection_title_id": "2013506",
-            "online_exclusives": true
-        }
-    ],
-    "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
@@ -86,7 +27,8 @@
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "me1a7125eccf9b9c7f6e0a399b9207643b1ab7c296",
-            "modified": 1563815757,
+            "modified": 1653496376,
+            "airing_id": "",
             "slug": "doll",
             "exclude_from_search": false,
             "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152968959321520.jpg",
@@ -96,12 +38,12 @@
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1563815757,
+            "published": 1653496376,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
-            "modified_by": "Jared Marquez",
-            "launch_date": 1529640000,
+            "modified_by": "Sara Griggs",
+            "launch_date": 1529640059,
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968959321520.jpg",
             "id": "AWQomn4xqBveI_0AhKqA",
             "auth": false,
@@ -109,5 +51,6 @@
             "collection_title_id": "2013506",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
