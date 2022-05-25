@@ -1,19 +1,21 @@
 {
-    "updated": 1653495139,
-    "added": [
+    "updated": 1653495797,
+    "added": [],
+    "removed": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "Brow",
+            "description": "Pet Mortys",
             "title_suggest": {
                 "input": [
-                    "Brow"
+                    "Pet Mortys",
+                    "Mortys"
                 ]
             },
             "expiration_date": null,
             "type": "clip",
-            "title": "Brow",
+            "title": "Pet Mortys",
             "platforms": [
                 "android",
                 "ios",
@@ -26,31 +28,29 @@
             "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
-            "media_id": "me99f26c7a12c13366b9b1e186e20ce32c9b730540",
-            "modified": 1653494879,
-            "airing_id": "",
-            "slug": "brow",
+            "media_id": "mee0b36906a4db83b3f09857fc9ad292383634611d",
+            "modified": 1563556356,
+            "slug": "pet-mortys",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15296892456142.jpg",
-            "created": 1529689155,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152968940918716.jpg",
+            "created": 1529689377,
             "season_number": "",
             "title_id": "",
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1653494879,
+            "published": 1563556356,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
-            "modified_by": "Sara Griggs",
-            "launch_date": 1529640012,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296892456142.jpg",
-            "id": "AWQolCaqqBveI_0AhKp9",
+            "modified_by": "Jared Marquez",
+            "launch_date": 1529640000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968940918716.jpg",
+            "id": "AWQol4qHqBveI_0AhKp_",
             "auth": false,
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
             "online_exclusives": true
         }
-    ],
-    "removed": []
+    ]
 }
