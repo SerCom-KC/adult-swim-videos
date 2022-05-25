@@ -1069,6 +1069,8 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
         "description": "Eat your heart out, David Blaine.",
         "title_suggest": {
             "input": [
@@ -1097,18 +1099,22 @@
         "episode_number": "4",
         "original_air_date": null,
         "clip_order": null,
-        "modified": 1598472437,
+        "auth_launch_date": null,
+        "modified": 1653499588,
         "media_id": "me6eb8d515f1bd4fa7834697e0a2d74a33d7fe0d26",
+        "airing_id": "",
         "id": "gLf9zTMQT8Ws2LgfULh_vA",
         "slug": "eric-andre-interviews-the-hot-babes-of-instagram-jennifer-lee",
         "views": 4251,
+        "exclude_from_search": false,
+        "thumbnail": "",
         "created": 1487198446,
         "season_number": "0",
         "title_id": "",
         "tv_rating": "",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1598472437,
+        "published": 1653499588,
         "first_published": 1487198446,
         "tags": [
             "eric andre show",
@@ -1124,8 +1130,9 @@
             "video"
         ],
         "collection_title": "The Eric Andre Show",
-        "modified_by": "Zeus Listener",
-        "launch_date": 1598472002,
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1598472034,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-jennifer-lee/ericandre_HGOI_104_JenniferLee.jpg",
         "cma_id": ""
     },
