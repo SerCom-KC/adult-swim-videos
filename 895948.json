@@ -1139,6 +1139,8 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": null,
+        "tms_id": "",
         "description": "Things gets sassy quick.",
         "title_suggest": {
             "input": [
@@ -1167,18 +1169,22 @@
         "episode_number": "5",
         "original_air_date": null,
         "clip_order": null,
-        "modified": 1598472410,
+        "auth_launch_date": null,
+        "modified": 1653500875,
         "media_id": "mea735b97e37e7bdfbc52e69655cfa9b7ec6b922f8",
+        "airing_id": "",
         "id": "iofP-thXTOKYF_XPHOGAZA",
         "slug": "eric-andre-interviews-the-hot-babes-of-instagram-deborah-lee",
         "views": 5435,
+        "exclude_from_search": false,
+        "thumbnail": "",
         "created": 1487343784,
         "season_number": "0",
         "title_id": "",
         "tv_rating": "",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1598472410,
+        "published": 1653500875,
         "first_published": 1487343784,
         "tags": [
             "eric andre show",
@@ -1195,8 +1201,9 @@
             "video"
         ],
         "collection_title": "The Eric Andre Show",
-        "modified_by": "Zeus Listener",
-        "launch_date": 1598472000,
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1598472008,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-deborah-lee/ericandre_HGOI_105_DeborahLee.jpg",
         "cma_id": ""
     },
