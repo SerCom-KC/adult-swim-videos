@@ -102,57 +102,6 @@
         "cma_id": "2100306"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1477319400,
-        "auth_expiration_date": 1653537540,
-        "tms_id": "EP013726210022",
-        "description": "Gary produces a hip, new orientation video to prepare new arrivals for Hell.",
-        "title_suggest": {
-            "input": [
-                "Straight Outta Hades",
-                "Outta Hades",
-                "Hades"
-            ]
-        },
-        "expiration_date": 1650513540,
-        "title": "Straight Outta Hades",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 686.008,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "1",
-        "original_air_date": 1477279800,
-        "clip_order": null,
-        "auth_launch_date": 1650513600,
-        "modified": 1651049159,
-        "media_id": "7994c833f4e0a1ee4ef80910e5d9cecd2bbcff22",
-        "airing_id": "RADS1004152200089193",
-        "id": "3r-DcU_LQUC6YkPCTW2C8A",
-        "slug": "straight-outta-hades",
-        "views": 35019,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1476725467,
-        "season_number": "3",
-        "title_id": "2100303",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1651049159,
-        "first_published": 1477037421,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1647489600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/straight-outta-hades/yourprettyface_302_NoAdsCue_dup-20161018.jpg",
-        "cma_id": "1467144"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "Created by Lee Hardcastle",
@@ -722,6 +671,56 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1493648940,
+        "auth_expiration_date": 1634183940,
+        "tms_id": "EP013726210032",
+        "description": "Dustin Diamond is dead, and Satan decides that his torture will be starring in a cheesy sitcom for all eternity.",
+        "title_suggest": {
+            "input": [
+                "Snow Job",
+                "Job"
+            ]
+        },
+        "expiration_date": 1656561540,
+        "title": "Snow Job",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 675.9174312,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "11",
+        "original_air_date": 1493609400,
+        "clip_order": null,
+        "auth_launch_date": 1631160000,
+        "modified": 1653112533,
+        "media_id": "9ea7eabf4b08a57b6c944d8d6378c6125e2f6361",
+        "airing_id": "RADS1005202200000355",
+        "id": "bPuEZBkpQZKw10v1ADZtcw",
+        "slug": "snow-job",
+        "views": 8502,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1493219179,
+        "season_number": "3",
+        "title_id": "2108953",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1653112533,
+        "first_published": 1493453441,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1653537600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/snow-job/yourprettyface_308_dup-20170427.jpg",
+        "cma_id": "1458430"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1492439340,
         "auth_expiration_date": 1632974340,
         "tms_id": "EP013726210030",
@@ -878,7 +877,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1480347000,
         "auth_expiration_date": 1656561540,
         "tms_id": "EP013726210027",
