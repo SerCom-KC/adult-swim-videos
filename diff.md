@@ -2,119 +2,88 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 27, 2022 at 00:00:27 EDT_
+_Last Update: May 27, 2022 at 00:30:27 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 3  
-2003422 Bob's Burgers: 2  
-2132025 The Jellies: 1  
-547867 Tom Goes To The Mayor: 1  
-### 2069566
-**American Dad S13E13 - Mean Francine**  
-TV-14-DLV 🔒 21:03  
-⌛ June 2, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/mean-francine  
-seriesid=`581006` titleid=`2069566` id=`AWrGc2RCCorLtcgflqgM` mediaid=`8965a176e09a79fd6c253187717958cb8fb2bd11`  
-_Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat._  
-<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg" height="144px" /></a>
-### 2069564
-**American Dad S13E11 - My Purity Ball and Chain**  
-TV-14-DLSV 🔒 21:02  
-⌛ June 2, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/my-purity-ball-and-chain  
-seriesid=`581006` titleid=`2069564` id=`AWHnqhey0KIGIdXCKzwy` mediaid=`40521d4cb0383da4e4ca2865d2c48703cb13dd51`  
-_Stan avoids giving Steve "the talk" by joining a chastity group. The Smiths build a waterslide in the backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001014945514.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001014945514.jpg" height="144px" /></a>
-### 2069565
-**American Dad S13E12 - OreTron Trail**  
-TV-14-DLV 🔒 21:02  
-⌛ June 2, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ore-tron-trail  
-seriesid=`581006` titleid=`2069565` id=`AWqxHynKCorLtcgflqW9` mediaid=`ba53e3d565c6882675dfcfb2ff3c38708688df18`  
-_Roger becomes worried about outliving the family. Klaus opens a convenience store in the attic._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg" height="144px" /></a>
-### 2003424
-**Bob's Burgers S01E02 - Crawl Space**  
-TV-PG 🔒 21:30  
-⌛ June 2, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/crawl-space  
-seriesid=`2003422` titleid=`2003424` id=`7CPkiayCT7q_siDtFOqY8Q` mediaid=`3cb82ec5aa600492a3760a3298972f1c815f6e0c`  
-_When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg" height="144px" /></a>
-### 2003425
-**Bob's Burgers S01E03 - Sacred Cow**  
-TV-14 🔒 21:36  
-⌛ June 2, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/sacred-cow  
-seriesid=`2003422` titleid=`2003425` id=`xJmLhV5aQoOv_wp8zd_p-g` mediaid=`f89db78e609e6ac2b3578dcc90af991e20df44a1`  
-_When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob ends up treating the cow like a member of the family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg" height="144px" /></a>
-### 2132026
-**The Jellies S01E03 - Pilot**  
-TV-14-DLS 🔓 11:07  
+798427 Check It Out! with Dr. Steve Brule: 1  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+691917 Xavier: Renegade Angel: 1  
+### 2087965
+**Check It Out! with Dr. Steve Brule S04E03 - Words**  
+TV-14-L 🔓 11:17  
 ⌛ June 30, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-jellies/pilot  
-seriesid=`2132025` titleid=`2132026` id=`SvQXGgR1TaSnFl9TDVO4yg` mediaid=`35130dbb1176ac127758cd1136813b3773fd39e3`  
-_Cornell receives some shocking news that sends him on a wild chase._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351632133-jellies_101_air_cid-36H40.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351632133-jellies_101_air_cid-36H40.jpg" height="144px" /></a>
-### 635907
-**Tom Goes To The Mayor S02E09 - Saxman**  
-TV-14 🔓 11:14  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/words  
+seriesid=`798427` titleid=`2087965` id=`0tzMb1owQlmGxw9kFhvHrw` mediaid=`2fc2589820efd915e00543bd7fa37decb6259028`  
+_Dr. Steven Brule learns what words are and learns his favorite words._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321620480-checkitout_403_dup-20160315.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321620480-checkitout_403_dup-20160315.jpg" height="144px" /></a>
+### 444754
+**Futurama S05E09 - The Sting**  
+TV-PG 🔒 23:19  
+⌛ June 2, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/the-sting  
+seriesid=`437532` titleid=`444754` id=`AYDixxaL_0O4w1rD3SPW` mediaid=`454efdc936b4ede1bd5df5ef9bb4c69df8ca6d1c`  
+_Fry, Leela and Bender attempt to collect honey from space bees._  
+### 731576
+**King of the Hill S12E12 - It Came from the Garage**  
+TV-PG-DL 🔒 22:48  
+⌛ June 2, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/it-came-from-the-garage  
+seriesid=`629835` titleid=`731576` id=`uJqS_lB4TJ6K7V6Cp-VQiw` mediaid=`72009cf0efc36eb721815d4e71359bb9f86e0d8a`  
+_When Hank and Bobby build a boat for Arlen's annual regatta, Hank must overcome his phobia of bats in order to get the job done._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203507428914.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203507428914.jpg" height="144px" /></a>
+### 747219
+**Xavier: Renegade Angel S02E09 - Damnesia You**  
+TV-MA 🔓 11:19  
 ⌛ June 30, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/saxman  
-seriesid=`547867` titleid=`635907` id=`ZiwyDpkpTeKv8OPjhbc-GQ` mediaid=`f2c691e024c5817ed6dd036bd60da82315859433`  
-_The Mayor hires a smooth jazz saxman, managed by Tom, to perform at the Grand Opening of a Waterbed Galleria._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/xavier-renegade-angel/damnesia-you  
+seriesid=`691917` titleid=`747219` id=`CmUiKiZ0Rr2zD5z64Cx5NQ` mediaid=`3552cb8e04f3d57dd206ce8e92a962a562273cc2`  
+_Poor, poor Xavier awakes with his fate in the goo drenched hands of the grandest menace of all time: You._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/xavier_cc_209_pt2-04.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/xavier_cc_209_pt2-04.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-547867 Tom Goes To The Mayor: 1  
-581006 American Dad: 3  
-### 2132979
-**Bob's Burgers S07E10 - Aquaticism**  
-TV-PG-L 🔒 21:43  
+2165429 The Shivering Truth: 1  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+691917 Xavier: Renegade Angel: 1  
+798427 Check It Out! with Dr. Steve Brule: 1  
+### 2222977
+**The Shivering Truth S02E03 - Nesslessness**  
+TV-MA-V 🔒 11:14  
 ⌛ May 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/aquaticism  
-seriesid=`2003422` titleid=`2132979` id=`AWATwpnwZ-onAnjDLtUU` mediaid=`33623b218d1d94f92c3923ba791e665628d3526b`  
-_When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg" height="144px" /></a>
-### 2132981
-**Bob's Burgers S07E11 - Ain't Miss Debatin'**  
-TV-PG-L 🔒 21:48  
+https://www.adultswim.com/videos/the-shivering-truth/nesslessness  
+seriesid=`2165429` titleid=`2222977` id=`AXHqdnRIRs3h4hI_X3ZU` mediaid=`5e0bee245bc674cf14e4e9ea0cb011aaae9b9e35`  
+_Time flies when you're demoralizing your children._  
+<a href="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049200-TheShiveringTruth_203_dup-20200214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049200-TheShiveringTruth_203_dup-20200214.jpg" height="144px" /></a>
+### 444750
+**Futurama S05E06 - Less Than Hero**  
+TV-PG-L 🔒 23:21  
 ⌛ May 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/aint-miss-debatin  
-seriesid=`2003422` titleid=`2132981` id=`AWBH4xX5wdpKFAKSb0gB` mediaid=`addc7a3f7ecb55fbd678f59b6ecc026e948e608a`  
-_When Tina is recruited by the debate team, she finds unexpected success and an even more unexpected relationship. Meanwhile, Louise and Gene convince their parents to help fund a stop-motion movie focusing on a surprising subject matter._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579446187113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579446187113.jpg" height="144px" /></a>
-### 615367
-**Tom Goes To The Mayor S01E12 - Gibbons**  
-TV-14 🔒 11:14  
+https://www.adultswim.com/videos/futurama/less-than-hero  
+seriesid=`437532` titleid=`444750` id=`AYDCwy8f_0O4w1rD3SNK` mediaid=`d2ca7ace7c5e5ccf1efc8a18038d6fe8ab54b0b7`  
+_Fry, Leela and Bender develop superhuman powers and fight crime in the Big Apple._  
+<a href="https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png"><img src="https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png" height="144px" /></a>
+### 731571
+**King of the Hill S12E07 - Pour Some Sugar on Kahn**  
+TV-PG-DL 🔒 22:46  
 ⌛ May 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/gibbons  
-seriesid=`547867` titleid=`615367` id=`EgFmxf6bTm-iibNe7SRD_A` mediaid=`92a954de95fa2c766e2a53dd469be4ebe320f954`  
-_Tom's annoying old friend Gibbons stops into Jefferton to help Tom at the Friendship Expo.  Special Guest: Brian Posehn._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952352-tgttm_012.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952352-tgttm_012.jpg" height="144px" /></a>
-### 2069552
-**American Dad S12E16 - The Bitchin' Race**  
-TV-14-DLV 🔒 21:14  
+https://www.adultswim.com/videos/king-of-the-hill/pour-some-sugar-on-kahn  
+seriesid=`629835` titleid=`731571` id=`rz4gJnzGTVCmQFpIdDwQSA` mediaid=`7dafc8f6a1798efa8f7ea930adc4ed244c259ddb`  
+_When Minh's father, General Gum, comes to visit, he gives Kahn an incredibly hard time; and Kahn goes to a karaoke bar to sing his stress away._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035085072117.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035085072117.jpg" height="144px" /></a>
+### 693204
+**Xavier: Renegade Angel S01E09 - Signs From Godrilla**  
+TV-MA-V 🔒 11:30  
 ⌛ May 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-bitchin-race  
-seriesid=`581006` titleid=`2069552` id=`05iJVgiuR_SKZhxuOw-INQ` mediaid=`7f8f09f5135027e7060c634e823a41cf7399c501`  
-_The family competes on the reality show The Bitchin' Race. After Stan and Hayley ditch the less-motivated Steve and Francine and team up, they end up in a Tunisian labor prison._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg" height="144px" /></a>
-### 2069548
-**American Dad S12E17 - Family Plan**  
-TV-14-DLSV 🔒 21:14  
+https://www.adultswim.com/videos/xavier-renegade-angel/signs-from-godrilla  
+seriesid=`691917` titleid=`693204` id=`9ZXoLJHuSfKCMsLpvzj3Mw` mediaid=`829d912e5a3b1b8cdc219bfa659978ba468d39f4`  
+_Xavier must choose betwixt thy heart and thine mind._  
+<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141729456-xavier_109.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141729456-xavier_109.jpg" height="144px" /></a>
+### 887732
+**Check It Out! with Dr. Steve Brule S02E05 - Animals**  
+TV-14-DLS 🔓 10:45  
 ⌛ May 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/family-plan  
-seriesid=`581006` titleid=`2069548` id=`pGjzE7geRJu1VCwFhvFK4Q` mediaid=`f7e8cff7c8c5db9d2aee6b540c50f902e89b330d`  
-_Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes a Picker based on his obsession with American Pickers._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg" height="144px" /></a>
-### 2069549
-**American Dad S12E18 - The Long Bomb**  
-TV-14-DLSV 🔒 21:13  
-⌛ May 26, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-long-bomb  
-seriesid=`581006` titleid=`2069549` id=`vChQxBcdSiCMUBywWd3bJA` mediaid=`12e569fcc167d47273c8b99276cc8fa2d1a0a970`  
-_While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/animals  
+seriesid=`798427` titleid=`887732` id=`qV1cFS1TSq259fUviJPYiA` mediaid=`3c77a6f93c3954ced7b758dd89567bde600197fb`  
+_Dr. Steve teaches us about animals. Big announcement from Toad's and Meyer's Super Foods._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032166135-checkitout_205_air.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032166135-checkitout_205_air.jpg" height="144px" /></a>
