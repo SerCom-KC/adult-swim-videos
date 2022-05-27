@@ -1006,7 +1006,7 @@
         "launch_date": 1652500800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg",
         "id": "AWbu1YiT3OEkyfT4qJSV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -2888,7 +2888,7 @@
         "cma_id": "1445703"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1659671940,
         "tms_id": "EP019059960056",
@@ -4151,7 +4151,7 @@
         "cma_id": "1444062"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1665719940,
         "tms_id": "EP019059960037",
