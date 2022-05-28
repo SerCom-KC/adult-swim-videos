@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1653710340,
-        "tms_id": "EP003034830065",
-        "description": "Hot tar turns the crotchety old professor into a middle-aged man, while the others are transformed into rambunctious children.",
-        "title_suggest": {
-            "input": [
-                "Teenage Mutant Leela's Hurdles",
-                "Mutant Leela's Hurdles",
-                "Leela's Hurdles",
-                "Hurdles"
-            ]
-        },
-        "title": "Teenage Mutant Leela's Hurdles",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1399.4313,
-        "episode_number": "7",
-        "original_air_date": 1068782400,
-        "auth_launch_date": 1653105600,
-        "clip_order": null,
-        "airing_id": "RADS1005142200099748",
-        "media_id": "3effb5202898a7f569d89102c17007e87b080177",
-        "modified": 1653166226,
-        "slug": "teenage-mutant-leelas-hurdles",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/1_225211650145-LeelasHurdles.png",
-        "created": 1652535105,
-        "title_id": "444752",
-        "season_number": "5",
-        "tv_rating": "tv-pg",
-        "published": 1653166226,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/2_225211650145-LeelasHurdles.png",
-        "id": "AYDCxJhO_0O4w1rD3SNL",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1653796740,
         "tms_id": "EP003034830066",
         "description": "Fry becomes disheartened when Leela gets involved with the mayor's aide.",
@@ -226,6 +179,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271019415-Sting.png",
         "id": "AYDixxaL_0O4w1rD3SPW",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1654315140,
+        "tms_id": "EP003034830068",
+        "description": "The professor conducts an experiment which hurls Leela into a parallel universe.",
+        "title_suggest": {
+            "input": [
+                "The Farnsworth Parabox",
+                "Farnsworth Parabox",
+                "Parabox"
+            ]
+        },
+        "title": "The Farnsworth Parabox",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1396.0947,
+        "episode_number": "10",
+        "original_air_date": 1069732800,
+        "auth_launch_date": 1653710400,
+        "clip_order": null,
+        "airing_id": "RADS1005232200000535",
+        "media_id": "eb56007d74a1057ffa725887c097032df5532e91",
+        "modified": 1653668332,
+        "slug": "the-farnsworth-parabox",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271218371-Futurama_066_TheFarnsworthParabox.png",
+        "created": 1653317256,
+        "title_id": "444757",
+        "season_number": "5",
+        "tv_rating": "tv-pg-l",
+        "published": 1653668332,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271218371-Futurama_066_TheFarnsworthParabox.png",
+        "id": "AYDxY0Yq_0O4w1rD3SQu",
         "auth": true
     }
 ]
