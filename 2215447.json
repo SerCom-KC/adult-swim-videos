@@ -1,6 +1,53 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1600315140,
+        "tms_id": "",
+        "description": "Eric takes in his troubled nephew Boro only to discover he's more than the Beef House could ever have expected.",
+        "title_suggest": {
+            "input": [
+                "Boro"
+            ]
+        },
+        "title": "Boro",
+        "expiration_date": 1654142340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXA_fsNN3HMJfT8do8kA",
+        "duration": 675.5082,
+        "episode_number": "3",
+        "original_air_date": 1586751300,
+        "auth_launch_date": 1599710400,
+        "clip_order": null,
+        "media_id": "96daabbb4604112305b580ec915f0c56ea1e8be3",
+        "modified": 1653863932,
+        "airing_id": "RADS1002252200073854",
+        "slug": "boro",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261638488-BeefHouse_101_dup-20200106.jpg",
+        "created": 1582753131,
+        "season_number": "1",
+        "title_id": "2215448",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1653863932,
+        "tags": [],
+        "collection_title": "Beef House",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1646283600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261638488-BeefHouse_101_dup-20200106.jpg",
+        "id": "AXCDcC1z3HMJfT8do8yU",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1599710340,
         "tms_id": "",
         "description": "Neighbor Lana invites Tim over for some special hot tub alone time. Fearing the hot water may explode his bowels, it's up to the Beef Boys to find a solution.",
@@ -143,6 +190,54 @@
         "launch_date": 1653537600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261639502-BeefHouse_102_dup-20200106.jpg",
         "id": "AXCDcR-N3HMJfT8do8yW",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1598500740,
+        "tms_id": "",
+        "description": "As Tim and the gang create a spooky haunted house, Eric comes face-to-face with his terrifying past.",
+        "title_suggest": {
+            "input": [
+                "Crab Dip",
+                "Dip"
+            ]
+        },
+        "title": "Crab Dip",
+        "expiration_date": 2082690000,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXA_fsNN3HMJfT8do8kA",
+        "duration": 675.5082,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1597896000,
+        "clip_order": null,
+        "media_id": "763b4ad755a621dad13709611d0b1fda2a7047d2",
+        "modified": 1653863921,
+        "airing_id": "RADS1008212000020794",
+        "slug": "crab-dip",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/1_202261640145-BeefHouse_104_dup-20200106.jpg",
+        "created": 1582753218,
+        "season_number": "1",
+        "title_id": "2215451",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1653863921,
+        "tags": [],
+        "collection_title": "Beef House",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1598500800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261640145-BeefHouse_104_dup-20200106.jpg",
+        "id": "AXCDcYG83HMJfT8do8yX",
         "auth": false
     }
 ]
