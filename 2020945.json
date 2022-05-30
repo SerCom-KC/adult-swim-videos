@@ -455,7 +455,7 @@
         "auth_launch_date": 1654228800,
         "clip_order": null,
         "media_id": "c6146c67d8e11711b154ff65c5e324648f5982f2",
-        "modified": 1653679485,
+        "modified": 1653883187,
         "airing_id": "RADS1005272200001495",
         "id": "AWU_GGE7h5enQuYyHUIw",
         "slug": "smoke-signal",
@@ -467,7 +467,7 @@
         "tv_rating": "tv-14-dlsv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1653679485,
+        "published": 1653883187,
         "tags": [],
         "collection_title": "Attack on Titan",
         "disable_ads": false,
@@ -1152,7 +1152,7 @@
         "launch_date": 1652673600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251643585-attackontitan_052_air_cid-3X33V.jpg",
         "id": "AWsy5cZl4aLemgzOLEta",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -1199,7 +1199,7 @@
         "launch_date": 1653883200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225164517-attackontitan_054_air_cid-3XC6V.jpg",
         "id": "AWt6aPjqCorLtcgflrW7",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -3400,9 +3400,9 @@
         "original_air_date": 1497760200,
         "clip_order": null,
         "auth_launch_date": 1648180800,
-        "modified": 1653679493,
+        "modified": 1653883185,
         "media_id": "92ae5a7ac55af2c5007c86e93b7f1975e3e1e51c",
-        "airing_id": "RADS1005272200001504",
+        "airing_id": "RADS1003212200081084",
         "id": "V0jkUUAdRM2BdCF_JlsW9w",
         "slug": "the-hunters",
         "views": 11029,
@@ -3415,7 +3415,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1653679493,
+        "published": 1653883185,
         "first_published": 1497882997,
         "tags": [],
         "collection_title": "Attack on Titan",
