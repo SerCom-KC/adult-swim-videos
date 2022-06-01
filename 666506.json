@@ -109,7 +109,7 @@
         "cma_id": "1443768"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447448520,
         "auth_expiration_date": 1657079940,
         "tms_id": "EP009235020005",
@@ -485,58 +485,58 @@
         "cma_id": "1426466"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447447980,
-        "auth_expiration_date": 1654055940,
-        "tms_id": "EP009235020007",
-        "rating": 8.1239395,
-        "description": "Welcome to the most insane jail on the planet and home of Earth's worst criminals.",
+        "auth": false,
+        "ott_launch_date": 1447448580,
+        "auth_expiration_date": 1637729940,
+        "tms_id": "EP009235020011",
+        "rating": 8.855772,
+        "description": "With the Warden missing, the Superjail staff tries to make it in the real world.",
         "title_suggest": {
             "input": [
-                "Bunny Love Pilot",
-                "Love Pilot",
-                "Pilot"
+                "Time-Police, Pt. 2",
+                "Pt. 2",
+                "2"
             ]
         },
         "type": "episode",
-        "title": "Bunny Love Pilot",
-        "expiration_date": 1651031940,
+        "title": "Time-Police, Pt. 2",
+        "expiration_date": 1657079940,
         "platforms": [
             "web",
             "mobile",
             "ott"
         ],
         "collection_id": "yQHd58HtSH6k0SPEn_e_Gg",
-        "duration": 700.1334668,
-        "episode_number": "0",
-        "original_air_date": 1179113400,
+        "duration": 704.0333667,
+        "episode_number": "9",
+        "original_air_date": 1228711500,
         "clip_order": null,
-        "auth_launch_date": 1651032000,
-        "modified": 1650715844,
-        "media_id": "e571cae93977aa2316a9d470bf97a8828993a431",
-        "airing_id": "RADS1003182200080917",
-        "id": "zwG3b852TcmsbSEI_qHNZA",
-        "slug": "bunny-love-pilot",
-        "views": 787903,
+        "auth_launch_date": 1634702400,
+        "modified": 1653855805,
+        "media_id": "991434f168b88e4ff429f3491065c37d7356ff81",
+        "airing_id": "RADS1005272200001421",
+        "id": "y0sRukSsSoWuadDMs6b9Mg",
+        "slug": "time-police-pt-2",
+        "views": 824221,
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420137251-superjail_000_dst_cid-9408296.jpg",
-        "created": 1402945478,
-        "title_id": "666507",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/1_204211054330-superjail_109_bim.jpg",
+        "created": 1402945477,
+        "title_id": "730975",
         "season_number": "1",
         "tv_rating": "tv-ma-v",
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1650715844,
+        "published": 1653855805,
         "tags": [
-            "superjail bunny love pilot warden first premiere episode origin"
+            "superjail episode 9 time police part 2 real world staff jailbot jared alice bird children breed trial"
         ],
-        "rating_count": 18153,
+        "rating_count": 2482,
         "collection_title": "Superjail!",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1648008000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420137251-superjail_000_dst_cid-9408296.jpg",
-        "cma_id": "1410510"
+        "launch_date": 1654056000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_204211054330-superjail_109_bim.jpg",
+        "cma_id": "1448083"
     }
 ]
