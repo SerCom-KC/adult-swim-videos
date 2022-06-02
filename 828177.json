@@ -619,57 +619,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1477924200,
-        "auth_expiration_date": 1654142340,
-        "tms_id": "EP013726210023",
-        "description": "Satan travels to the fringes of Hell to meet with some mysterious co-workers.",
-        "title_suggest": {
-            "input": [
-                "Circle Jerk MCMXCVIII",
-                "Jerk MCMXCVIII",
-                "MCMXCVIII"
-            ]
-        },
-        "expiration_date": 1651118340,
-        "title": "Circle Jerk MCMXCVIII",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 687.021,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "2",
-        "original_air_date": 1477884600,
-        "clip_order": null,
-        "auth_launch_date": 1651118400,
-        "modified": 1650979838,
-        "media_id": "eed354f0f0f3c92782d0f21421f05d2a6ba4d15e",
-        "airing_id": "RADS1004232200091999",
-        "id": "WY7jbl-wRxKqNTrxoUzaow",
-        "slug": "circle-jerk-mcmxcviii",
-        "views": 27242,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1477665771,
-        "season_number": "3",
-        "title_id": "2100302",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1650979838,
-        "first_published": 1477746620,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1648094400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/circle-jerk-mcmxcviii/yourprettyface_301_NoAdsCue_dup-20161025.jpg",
-        "cma_id": "1472367"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1493648940,
         "auth_expiration_date": 1634183940,
@@ -721,6 +670,56 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1494268140,
+        "auth_expiration_date": 1634788740,
+        "tms_id": "EP013726210033",
+        "description": "A clog in the soul intake line sends Gary and Claude out to discover what's keeping new souls from entering Hell.",
+        "title_suggest": {
+            "input": [
+                "The Dammed",
+                "Dammed"
+            ]
+        },
+        "expiration_date": 1657166340,
+        "title": "The Dammed",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 675.6672227,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "12",
+        "original_air_date": 1494214200,
+        "clip_order": null,
+        "auth_launch_date": 1631764800,
+        "modified": 1653859138,
+        "media_id": "9f0572caa9b2217a4f1d798e36278aafbd22a27b",
+        "airing_id": "RADS1005272200001500",
+        "id": "j-1VFUfIQReWoI1DTRFL4A",
+        "slug": "the-dammed",
+        "views": 9562,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1493998626,
+        "season_number": "3",
+        "title_id": "2108956",
+        "tv_rating": "tv-ma-lsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1653859138,
+        "first_published": 1494058295,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1654142400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-dammed/yourprettyface_311_dup-20170504.jpg",
+        "cma_id": "1462958"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1492439340,
         "auth_expiration_date": 1632974340,
         "tms_id": "EP013726210030",
@@ -769,7 +768,7 @@
         "cma_id": "2108957"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1491321300,
         "auth_expiration_date": 1657166340,
         "tms_id": "EP013726210028",
