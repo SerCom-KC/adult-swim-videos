@@ -67,6 +67,59 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1654833540,
+        "tms_id": "EP002070020248",
+        "rating": 8.05945,
+        "description": "Hank is flabbergasted when Strickland Propane uses MySpace to attract customers; Dale hunts for truffles with some help from a pig and Ladybird.",
+        "title_suggest": {
+            "input": [
+                "Lost in MySpace",
+                "in MySpace",
+                "MySpace"
+            ]
+        },
+        "type": "episode",
+        "title": "Lost in MySpace",
+        "expiration_date": 1499605199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1366.6653,
+        "episode_number": "4",
+        "original_air_date": 1244426400,
+        "clip_order": null,
+        "auth_launch_date": 1654228800,
+        "modified": 1653886475,
+        "media_id": "98ea621e8e6504b20933c2847170bb50f665cae9",
+        "airing_id": "RADS1005272200001489",
+        "id": "DpRa0sJjRae9R10k6N3UaA",
+        "slug": "lost-in-my-space",
+        "views": 306384,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15287368121383.jpg",
+        "created": 1402945468,
+        "title_id": "757037",
+        "season_number": "13",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1653886475,
+        "tags": [
+            "koth king of the hill episode 1214 lost in myspace pig truffles"
+        ],
+        "rating_count": 471,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1499000400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15287368121383.jpg",
+        "cma_id": "1424955"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1654660740,
         "tms_id": "EP002070020246",
         "rating": 8.337471,
@@ -223,60 +276,5 @@
         "launch_date": 1498793400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284814517225.jpg",
         "cma_id": "1424002"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1654228740,
-        "tms_id": "EP002070020243",
-        "rating": 8.262797,
-        "description": "When Hank and Bobby build a boat for Arlen's annual regatta, Hank must overcome his phobia of bats in order to get the job done.",
-        "title_suggest": {
-            "input": [
-                "It Came from the Garage",
-                "Came from the Garage",
-                "from the Garage",
-                "the Garage",
-                "Garage"
-            ]
-        },
-        "type": "episode",
-        "title": "It Came from the Garage",
-        "expiration_date": 1499225399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1368.0667,
-        "episode_number": "12",
-        "original_air_date": 1238812200,
-        "auth_launch_date": 1653624000,
-        "clip_order": null,
-        "modified": 1653206746,
-        "media_id": "72009cf0efc36eb721815d4e71359bb9f86e0d8a",
-        "airing_id": "RADS1005202200000342",
-        "id": "uJqS_lB4TJ6K7V6Cp-VQiw",
-        "slug": "it-came-from-the-garage",
-        "views": 226540,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203507428914.jpg",
-        "created": 1402945468,
-        "title_id": "731576",
-        "season_number": "12",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1653206746,
-        "tags": [
-            "king of the hill koth episode 1212 it came from the garage hank bobby boat regatta fear phobia bats"
-        ],
-        "rating_count": 293,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1498620600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203507428914.jpg",
-        "cma_id": "1421871"
     }
 ]
