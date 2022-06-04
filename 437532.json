@@ -95,52 +95,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1654315140,
-        "tms_id": "EP003034830068",
-        "description": "The professor conducts an experiment which hurls Leela into a parallel universe.",
-        "title_suggest": {
-            "input": [
-                "The Farnsworth Parabox",
-                "Farnsworth Parabox",
-                "Parabox"
-            ]
-        },
-        "title": "The Farnsworth Parabox",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1396.0947,
-        "episode_number": "10",
-        "original_air_date": 1069732800,
-        "auth_launch_date": 1653710400,
-        "clip_order": null,
-        "airing_id": "RADS1005232200000535",
-        "media_id": "eb56007d74a1057ffa725887c097032df5532e91",
-        "modified": 1653668332,
-        "slug": "the-farnsworth-parabox",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271218371-Futurama_066_TheFarnsworthParabox.png",
-        "created": 1653317256,
-        "title_id": "444757",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1653668332,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271218371-Futurama_066_TheFarnsworthParabox.png",
-        "id": "AYDxY0Yq_0O4w1rD3SQu",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1654401540,
         "tms_id": "EP003034830069",
         "description": "The gang finds wacky ways to spend extra money from a refund.",
@@ -230,6 +184,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220603/thumbnails/2_2263125027-SpanishFry.png",
         "id": "AYEG_P_i208s7zyYUM_U",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1654919940,
+        "tms_id": "EP003034830071",
+        "description": "Bender competes in the 3004 Earth Olympian as a fembot.",
+        "title_suggest": {
+            "input": [
+                "Bend Her",
+                "Her"
+            ]
+        },
+        "title": "Bend Her",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1397.0957,
+        "episode_number": "13",
+        "original_air_date": 1069300800,
+        "auth_launch_date": 1654315200,
+        "clip_order": null,
+        "airing_id": "RADS1005292200001565",
+        "media_id": "f7b7685860c975eb99b650c459a7a628be8e07ed",
+        "modified": 1654204371,
+        "slug": "bend-her",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220602/thumbnails/1_22621712388-aslogothumbnail.png",
+        "created": 1653836830,
+        "title_id": "444755",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "published": 1654204371,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220602/thumbnails/2_22621712388-aslogothumbnail.png",
+        "id": "AYEQW1ZL_0O4w1rD3SSb",
         "auth": true
     }
 ]
