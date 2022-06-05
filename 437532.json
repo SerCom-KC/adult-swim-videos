@@ -95,53 +95,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1654401540,
-        "tms_id": "EP003034830069",
-        "description": "The gang finds wacky ways to spend extra money from a refund.",
-        "title_suggest": {
-            "input": [
-                "Three Hundred Big Boys",
-                "Hundred Big Boys",
-                "Big Boys",
-                "Boys"
-            ]
-        },
-        "title": "Three Hundred Big Boys",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.5011,
-        "episode_number": "11",
-        "original_air_date": 1069819200,
-        "auth_launch_date": 1653796800,
-        "clip_order": null,
-        "airing_id": "RADS1005232200000588",
-        "media_id": "8e002ec0649c47c1e6d526b5c5a800e411ad40e5",
-        "modified": 1653668384,
-        "slug": "three-hundred-big-boys",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271219341-Futurama_067_ThreeHundredBigBoys.png",
-        "created": 1653319781,
-        "title_id": "444758",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1653668384,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271219341-Futurama_067_ThreeHundredBigBoys.png",
-        "id": "AYDxic3Q208s7zyYUM9j",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1654833540,
         "tms_id": "EP003034830070",
         "description": "A spaceship beams Fry aboard, then returns him the next day without a nose.",
@@ -229,6 +182,38 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220602/thumbnails/2_22621712388-aslogothumbnail.png",
         "id": "AYEQW1ZL_0O4w1rD3SSb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1655006340,
+        "created": 1654117897,
+        "tms_id": "EP003034830072",
+        "title_id": "444756",
+        "season_number": "5",
+        "tv_rating": "tv-pg-l",
+        "description": "When the professor orders a late-model robot at a trade show, Bender seeks an upgrade.",
+        "title_suggest": {
+            "input": [
+                "Obsoletely Fabulous",
+                "Fabulous"
+            ]
+        },
+        "published": 1654139897,
+        "title": "Obsoletely Fabulous",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1396.9623,
+        "episode_number": "14",
+        "collection_title": "Futurama",
+        "original_air_date": 1069387200,
+        "auth_launch_date": 1654401600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006012200002806",
+        "media_id": "a08029c8ff9794b116964ead08a7ae703bff4d82",
+        "modified": 1654139897,
+        "slug": "obsoletely-fabulous",
+        "id": "AYEhHBM1_0O4w1rD3ST0",
         "auth": true
     }
 ]
