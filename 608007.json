@@ -666,7 +666,7 @@
         "launch_date": 1653814800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521538353-OnePiece_548_TheKingdomInShockAnOrderToExecuteNeptuneIssued.png",
         "id": "AYCGSM6m_0O4w1rD3SJm",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1654419540,
@@ -716,7 +716,7 @@
         "launch_date": 1654419600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111237566-OnePiece_549_ARiftOpensUpLuffyVsJimbei.png",
         "id": "AYCz_CFH208s7zyYUM2N",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1654421340,
@@ -977,6 +977,60 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251148597-OnePiece_553_ShirahoshisTearsLuffyFinallyShowsUp.png",
         "id": "AYDxpjz2208s7zyYUM9s",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1656233940,
+        "tms_id": "EP035179090039",
+        "description": "Luffy and the gang show off how much stronger they've become by issuing a brutal beat down to Hordy and his ferocious Fish-Man pirates! Can anything stop the Hats?",
+        "title_suggest": {
+            "input": [
+                "Deadly Attacks One After Another! Zoro and Sanji Join the Battle!",
+                "Attacks One After Another! Zoro and Sanji Join the Battle!",
+                "One After Another! Zoro and Sanji Join the Battle!",
+                "After Another! Zoro and Sanji Join the Battle!",
+                "Another! Zoro and Sanji Join the Battle!",
+                "Zoro and Sanji Join the Battle!",
+                "and Sanji Join the Battle!",
+                "Sanji Join the Battle!",
+                "Join the Battle!",
+                "the Battle!",
+                "Battle!"
+            ]
+        },
+        "title": "Deadly Attacks One After Another! Zoro and Sanji Join the Battle!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.4311,
+        "episode_number": "38",
+        "original_air_date": "1654407000",
+        "auth_launch_date": 1654419600,
+        "clip_order": null,
+        "airing_id": "RADS1006022200002829",
+        "media_id": "e29d34251ab16b1874b85f237405ba3d2d98e560",
+        "modified": 1654184846,
+        "slug": "deadly-attacks-one-after-another-zoro-and-sanji-join-the-battle",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/1_225311244157-OnePiece_555_DeadlyAttacksOneAfterAnotherZoroAndSanjiJoinTheBattle.png",
+        "created": 1654015469,
+        "season_number": "15",
+        "title_id": "2363823",
+        "tv_rating": "tv-pg-l",
+        "published": 1654184846,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311244157-OnePiece_555_DeadlyAttacksOneAfterAnotherZoroAndSanjiJoinTheBattle.png",
+        "id": "AYEbASbE208s7zyYUNBh",
         "auth": true
     }
 ]

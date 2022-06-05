@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 5, 2022 at 05:00:27 EDT_
+_Last Update: June 5, 2022 at 05:30:27 EDT_
 ## Video added
 ### Summary
-2387380 Lupin the 3rd Part 6: 1  
-### 2387388
-**Lupin the 3rd Part 6 S01E07 - An Untold Tale**  
-TV-14-V 🔒 21:28  
-⌛ June 26, 2022 at 04:29:00 EDT  
-https://www.adultswim.com/videos/lupin-the-3rd-part-6/an-untold-tale  
-seriesid=`2387380` titleid=`2387388` id=`AYEbAC6D208s7zyYUNBg` mediaid=`efde878cf44507adf784a3a3e62c6201b69fb8b2`  
-_When Sherlock and Lilly are menaced by an air-rifle toting assassin, Lupin teams up with an unlikely ally to keep them safe._  
-<a href="https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311243164-LupinThe3rd_Part6_607_AnUntoldTale.png"><img src="https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311243164-LupinThe3rd_Part6_607_AnUntoldTale.png" height="144px" /></a>
+608007 One Piece: 1  
+### 2363823
+**One Piece S15E38 - Deadly Attacks One After Another! Zoro and Sanji Join the Battle!**  
+TV-PG-L 🔒 22:12  
+⌛ June 26, 2022 at 04:59:00 EDT  
+https://www.adultswim.com/videos/one-piece/deadly-attacks-one-after-another-zoro-and-sanji-join-the-battle  
+seriesid=`608007` titleid=`2363823` id=`AYEbASbE208s7zyYUNBh` mediaid=`e29d34251ab16b1874b85f237405ba3d2d98e560`  
+_Luffy and the gang show off how much stronger they've become by issuing a brutal beat down to Hordy and his ferocious Fish-Man pirates! Can anything stop the Hats?_  
+<a href="https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311244157-OnePiece_555_DeadlyAttacksOneAfterAnotherZoroAndSanjiJoinTheBattle.png"><img src="https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311244157-OnePiece_555_DeadlyAttacksOneAfterAnotherZoroAndSanjiJoinTheBattle.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
