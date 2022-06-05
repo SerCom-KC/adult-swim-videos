@@ -960,7 +960,7 @@
         "launch_date": 1654416000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111234420-AssassinationClassroom_43_TrustTime.png",
         "id": "AYCz-Ssu_0O4w1rD3SLz",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1655020740,
@@ -1052,6 +1052,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251146177-AssassinationClassroom_45_FinalBossTime.png",
         "id": "AYDxiYzm208s7zyYUM9i",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1656230340,
+        "tms_id": "EP035989030046",
+        "description": "Time is running out, and the E Class students must decide once and for all whether to kill the teacher who so changed their lives over the past year.",
+        "title_suggest": {
+            "input": [
+                "Graduation Time",
+                "Time"
+            ]
+        },
+        "title": "Graduation Time",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1377.2759,
+        "episode_number": "24",
+        "original_air_date": "1654403400",
+        "auth_launch_date": 1654416000,
+        "clip_order": null,
+        "airing_id": "RADS1006022200002830",
+        "media_id": "b40d365b25badedfd08b892386321a75b40acf67",
+        "modified": 1654184258,
+        "slug": "graduation-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/1_225311242381-AssassinationClassroom_46_GraduationTime.png",
+        "created": 1654015369,
+        "season_number": "2",
+        "title_id": "2333990",
+        "tv_rating": "tv-14-sv",
+        "published": 1654184258,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311242381-AssassinationClassroom_46_GraduationTime.png",
+        "id": "AYEa_6K-208s7zyYUNBf",
         "auth": true
     }
 ]
