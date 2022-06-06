@@ -1,7 +1,6 @@
 {
-    "updated": 1654548982,
-    "added": [],
-    "removed": [
+    "updated": 1654550743,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1600919940,
@@ -32,7 +31,7 @@
             "auth_launch_date": 1600315200,
             "clip_order": null,
             "media_id": "a24c4b30d36915a0478a8d7ec681703b6e97ace3",
-            "modified": 1646466750,
+            "modified": 1654550503,
             "airing_id": "RADS1003042200077761",
             "slug": "beaver-in-the-beef-house",
             "exclude_from_search": false,
@@ -43,7 +42,7 @@
             "tv_rating": "tv-ma-ls",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1646466750,
+            "published": 1654550503,
             "tags": [],
             "collection_title": "Beef House",
             "disable_ads": false,
@@ -56,5 +55,6 @@
             "collection_title_id": "2215447",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
