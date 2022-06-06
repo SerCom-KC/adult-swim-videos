@@ -471,51 +471,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1654487940,
-        "tms_id": "",
-        "description": "After only one and a half episodes, Hannibal quits the show and is poorly cloned into a giant mutant version of himself named Blannibal.",
-        "title_suggest": {
-            "input": [
-                "Hannibal Quits",
-                "Quits"
-            ]
-        },
-        "title": "Hannibal Quits",
-        "expiration_date": 1651463940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 674.1068,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1651464000,
-        "clip_order": null,
-        "airing_id": "RADS1004282200093381",
-        "media_id": "738990f5b3458234de1f741e63a193407bdbea32",
-        "modified": 1651235329,
-        "slug": "hannibal-quits",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161712495-ericandre_502_dup-20200812.jpg",
-        "created": 1600290772,
-        "season_number": "5",
-        "title_id": "2230781",
-        "tv_rating": "tv-ma-l",
-        "published": 1651235329,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1648440000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161712495-ericandre_502_dup-20200812.jpg",
-        "id": "AXSYw1UXSeFB2d0c3877",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1655092740,
         "tms_id": "",
         "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
@@ -744,7 +699,7 @@
         "launch_date": 1651464000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
         "id": "AXSYyk1WSeFB2d0c387_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1650859140,
@@ -1077,6 +1032,62 @@
         "launch_date": 1598472033,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-lindsey-pelas/ericandre_HGOI_101_LindseyPelas.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446739620,
+        "auth_expiration_date": 1599105540,
+        "tms_id": "EP015632430002",
+        "rating": 7.4415135,
+        "description": "Eric interviews Russel Brand, Rick Fox and Kristanna Loken.",
+        "title_suggest": {
+            "input": [
+                "Rick Fox, Russell Brand, Kristanna Loken",
+                "Fox, Russell Brand, Kristanna Loken",
+                "Russell Brand, Kristanna Loken",
+                "Brand, Kristanna Loken",
+                "Kristanna Loken",
+                "Loken"
+            ]
+        },
+        "type": "episode",
+        "title": "Rick Fox, Russell Brand, Kristanna Loken",
+        "expiration_date": 1657511940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 668.6006006,
+        "episode_number": "2",
+        "original_air_date": 1338179400,
+        "clip_order": null,
+        "auth_launch_date": 1596081600,
+        "modified": 1654278115,
+        "media_id": "57767a850451587fe0d7083d05b5cc0fcdd15dd1",
+        "airing_id": "RADS1006032200003023",
+        "id": "YmdaV6FvRPS7Xep_ipcZXw",
+        "slug": "rick-fox-russell-brand-kristanna-loken",
+        "views": 157140,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034167567-ericandre_102_dup-20120910.jpg",
+        "created": 1402945479,
+        "title_id": "895950",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1654278115,
+        "tags": [],
+        "rating_count": 1137,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1654488000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034167567-ericandre_102_dup-20120910.jpg",
+        "cma_id": "1410888"
     },
     {
         "auth": false,
