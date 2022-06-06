@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 6, 2022 at 17:30:19 EDT_
+_Last Update: June 6, 2022 at 18:00:29 EDT_
 ## Video added
 ### Summary
 2215447 Beef House: 1  
-### 2215453
-**Beef House S01E04 - Beaver in the Beef House**  
-TV-MA-LS 🔓 11:15  
+### 2215452
+**Beef House S01E01 - Army Buddy Brad**  
+TV-MA-LS 🔓 11:59  
 ⌛ June 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/beef-house/beaver-in-the-beef-house  
-seriesid=`2215447` titleid=`2215453` id=`AXCDcOGs3HMJfT8do8yV` mediaid=`a24c4b30d36915a0478a8d7ec681703b6e97ace3`  
-_While Tim practices for his upcoming darts championship, a beaver plagues the Beef House and only one item will lure it out._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261639344-BeefHouse_106_dup-20200106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261639344-BeefHouse_106_dup-20200106.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/beef-house/army-buddy-brad  
+seriesid=`2215447` titleid=`2215452` id=`AXCDbmLEGRcVO2K2pm9X` mediaid=`6da3ff5c46cd2d65b974b6a7d389460b6be35152`  
+_As Eric prepares his greatest Easter ever, Tim's army buddy Brad visits the Beef House, causing mayhem as he sets up camp and takes control._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226163947-BeefHouse_105_dup-20200106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226163947-BeefHouse_105_dup-20200106.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
