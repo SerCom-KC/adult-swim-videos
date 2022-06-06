@@ -329,6 +329,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1656388740,
+        "tms_id": "EP034548420008",
+        "description": "Debra wakes up Debpressed, which doesn't work for Debra and Debra.",
+        "title_suggest": {
+            "input": [
+                "The Great Debpression",
+                "Great Debpression",
+                "Debpression"
+            ]
+        },
+        "title": "The Great Debpression",
+        "expiration_date": 1654487940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXA_dLX33HMJfT8do8j9",
+        "duration": 664.03,
+        "episode_number": "2",
+        "original_air_date": "1650860100",
+        "auth_launch_date": 1654488900,
+        "clip_order": null,
+        "airing_id": "RADS1006032200003031",
+        "media_id": "5771579330ea77f0eba37c41718424af0a00bc9c",
+        "modified": 1654279901,
+        "slug": "the-great-debpression",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_22420144203-ThreeBusyDebras_204_TheGreatDebpression.png",
+        "created": 1650480129,
+        "season_number": "2",
+        "title_id": "2323067",
+        "tv_rating": "tv-14-v",
+        "published": 1654279901,
+        "tags": [],
+        "collection_title": "Three Busy Debras",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1652674500,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_22420144203-ThreeBusyDebras_204_TheGreatDebpression.png",
+        "id": "AYBISCXd_0O4w1rD3SCk",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1653279240,
         "tms_id": "EP034548420009",
         "description": "A story in three brunches.",
@@ -424,7 +470,7 @@
         "launch_date": 1653278400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271259155-ThreeBusyDebras_205_TheHonorableOrderOfTheDebras.png",
         "id": "AYBr9qvn_0O4w1rD3SG_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1654487940,
@@ -517,7 +563,7 @@
         "launch_date": 1654488900,
         "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111243462-ThreeBusyDebras_208_WomensHistoryHour.png",
         "id": "AYC0AXIu208s7zyYUM2V",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1655092740,
