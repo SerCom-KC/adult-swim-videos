@@ -159,7 +159,7 @@
         "cma_id": "1403271"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784880,
         "auth_expiration_date": 1657684740,
         "tms_id": "EP008994530052",
@@ -389,56 +389,6 @@
         "cma_id": "1394303"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447784520,
-        "auth_expiration_date": 1654660740,
-        "tms_id": "EP008994530035",
-        "rating": 8.633786,
-        "description": "Eric's chance encounter with Q gives birth to timanderic.com. Dr. Steve Brule reads Jan's emotions. A Job interview without a beard? Think again, pal.\r\n(John C Reilly, Bob Odenkirk)",
-        "title_suggest": {
-            "input": [
-                "Origins"
-            ]
-        },
-        "type": "episode",
-        "title": "Origins",
-        "expiration_date": 1651636740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 681.027,
-        "episode_number": "1",
-        "original_air_date": 1237177800,
-        "clip_order": null,
-        "auth_launch_date": 1651636800,
-        "modified": 1651242809,
-        "media_id": "115b4e5365104afebc8f7bff2cee48a5bfc18f86",
-        "airing_id": "RADS1004282200093573",
-        "id": "YPOzTYGeRDaX7xAn9o59Iw",
-        "slug": "origins",
-        "views": 245064,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161645143-timanderic_401.jpg",
-        "created": 1402945481,
-        "title_id": "751390",
-        "season_number": "4",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1651242809,
-        "tags": [],
-        "rating_count": 882,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1648612800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161645143-timanderic_401.jpg",
-        "cma_id": "1369067"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447785060,
         "auth_expiration_date": 1627444740,
@@ -502,6 +452,68 @@
         "launch_date": 1652241600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161647109-timanderic_508.jpg",
         "cma_id": "1438926"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447785060,
+        "auth_expiration_date": 1629863940,
+        "tms_id": "EP008994530047",
+        "rating": 8.331287,
+        "description": "Kent is surprised to find his friend's reflection in the hand mirror while preparing to head out on a double date. He's even more surprised to see him standing Broach-less.",
+        "title_suggest": {
+            "input": [
+                "Lucky"
+            ]
+        },
+        "type": "episode",
+        "title": "Lucky",
+        "expiration_date": 1657684740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 684,
+        "episode_number": "9",
+        "original_air_date": 1270441800,
+        "clip_order": null,
+        "auth_launch_date": 1626840000,
+        "modified": 1654296979,
+        "media_id": "c54b0fe3c4e7c5d8e765760a5753656a1c136a38",
+        "airing_id": "RADS1006032200003202",
+        "id": "e6aD1UhVS0G6VGswUSxgnA",
+        "slug": "lucky",
+        "views": 111708,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161646494-timanderic_509_air_cid-3R3V6.jpg",
+        "created": 1402945481,
+        "title_id": "787509",
+        "season_number": "5",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1654296979,
+        "tags": [
+            "tim and eric",
+            "awesome show",
+            "great job",
+            "lucky",
+            "kent",
+            "surprise",
+            "reflection",
+            "mirror",
+            "double date",
+            "broach"
+        ],
+        "rating_count": 975,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1654660800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161646494-timanderic_509_air_cid-3R3V6.jpg",
+        "cma_id": "1233905"
     },
     {
         "auth": true,
