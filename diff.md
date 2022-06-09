@@ -2,8 +2,27 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 9, 2022 at 06:00:27 EDT_
+_Last Update: June 9, 2022 at 06:30:28 EDT_
 ## Video added
+### Summary
+853486 NTSF:SD:SUV::: 2  
+### 2005265
+**NTSF:SD:SUV:: S03E01 - Comic Con-Air**  
+TV-14-LV 🔓 11:16  
+⌛ June 13, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/ntsf-sd-suv/comic-con-air  
+seriesid=`853486` titleid=`2005265` id=`XWHf3BXqSGKUgMMx1aPl7A` mediaid=`807a90463f2f8422436963ec9b927451756c4d71`  
+_Trent struggles to regain control of a hijacked plane filled with Comic Con convicts, while Kove and Alphonse debate whether or not to remotely blow it up._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131842-ntsf_310_dup-20160627.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131842-ntsf_310_dup-20160627.jpg" height="144px" /></a>
+### 2004776
+**NTSF:SD:SUV:: S02E15 - Inertia**  
+TV-14 🔓 10:35  
+⌛ June 13, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/ntsf-sd-suv/inertia  
+seriesid=`853486` titleid=`2004776` id=`flMoP1uiQi-6TX6N8pO3uA` mediaid=`5fcf927784bceb1fc31f9b2efc3c4a4646a49e3e`  
+_A terrorist has rigged a San Diego bus to explode if it goes over 0mph. It's up to NTSF to keep the bus from moving and figure out who's behind it!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121317420-ntsf_215_dup-20130607.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121317420-ntsf_215_dup-20130607.jpg" height="144px" /></a>
+## Video removed
 ### Summary
 853486 NTSF:SD:SUV::: 1  
 ### 963243
@@ -14,5 +33,3 @@ https://www.adultswim.com/videos/ntsf-sd-suv/christmas-activity
 seriesid=`853486` titleid=`963243` id=`PToxX61SQQGUDDbIHTVpqA` mediaid=`e7b05abd5800095f68ade483a9cbd359e2028365`  
 _While celebrating Christmas together at Kove's house, the team is attacked by the evil Alaskan Santa Claus._  
 <a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121317191-ntsf_213_dup-20160412.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121317191-ntsf_213_dup-20160412.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
