@@ -668,7 +668,7 @@
         "launch_date": 1654421400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111238394-OnePiece_550_SomethingHasHappenedToHordyTheTruePowerOfTheEvilDrug.png",
         "id": "AYCz_MhY208s7zyYUM2O",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1655024340,
@@ -771,7 +771,7 @@
         "launch_date": 1655026200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111240143-OnePiece_552_ASurprisingConfessionTheTruthBehindTheAssassinationOfOtohime.png",
         "id": "AYCz_jp3_0O4w1rD3SL1",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1655630940,
@@ -874,6 +874,58 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251148597-OnePiece_553_ShirahoshisTearsLuffyFinallyShowsUp.png",
         "id": "AYDxpjz2208s7zyYUM9s",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1656840540,
+        "tms_id": "EP035179100042",
+        "description": "Luffy shows off even more new powers as he brutally pummels Hordy, but the main attraction proves to be an ancient and immense pirate ship that's heading straight for Fish-Man Island!",
+        "title_suggest": {
+            "input": [
+                "The Noah Closing in! The Fish-Man Island Facing Destruction!",
+                "Noah Closing in! The Fish-Man Island Facing Destruction!",
+                "Closing in! The Fish-Man Island Facing Destruction!",
+                "in! The Fish-Man Island Facing Destruction!",
+                "The Fish-Man Island Facing Destruction!",
+                "Fish-Man Island Facing Destruction!",
+                "Island Facing Destruction!",
+                "Facing Destruction!",
+                "Destruction!"
+            ]
+        },
+        "title": "The Noah Closing in! The Fish-Man Island Facing Destruction!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.1642,
+        "episode_number": "41",
+        "original_air_date": 1655013600,
+        "auth_launch_date": 1655026200,
+        "clip_order": null,
+        "airing_id": "RADS1006062200003745",
+        "media_id": "3e50cf5739ba48df8e1bb379cd1406973db01ff1",
+        "modified": 1654872051,
+        "slug": "the-noah-closing-in-the-fish-man-island-facing-destruction",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691643110-OnePiece_558_TheNoahClosingInTheFishManIslandDestruction.jpg",
+        "created": 1654544563,
+        "title_id": "2363826",
+        "season_number": "15",
+        "tv_rating": "tv-pg-l",
+        "published": 1654872051,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691643110-OnePiece_558_TheNoahClosingInTheFishManIslandDestruction.jpg",
+        "id": "AYE6inw0_0O4w1rD3SWJ",
         "auth": true
     },
     {
