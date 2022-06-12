@@ -1006,7 +1006,7 @@
         "launch_date": 1655020800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111235212-AssassinationClassroom_44_HappyBirthdayTime.png",
         "id": "AYCz-c-G208s7zyYUM2M",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1655625540,
@@ -1052,6 +1052,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251146177-AssassinationClassroom_45_FinalBossTime.png",
         "id": "AYDxiYzm208s7zyYUM9i",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1656835140,
+        "tms_id": "EP035989030047",
+        "description": "Graduation day: one of life's chapters ends and another begins as the students and teachers of Class 3-E go on to forge their own paths in the world.",
+        "title_suggest": {
+            "input": [
+                "Future Time",
+                "Time"
+            ]
+        },
+        "title": "Future Time",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXQS2HnhLyLQBOXK_PL8",
+        "duration": 1341.0731,
+        "episode_number": "25",
+        "original_air_date": 1655008200,
+        "auth_launch_date": 1655020800,
+        "clip_order": null,
+        "airing_id": "RADS1006062200003748",
+        "media_id": "f94b98ed02e51c11e0ddd008792e2e5c72d6d741",
+        "modified": 1654871808,
+        "slug": "future-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_2269164060-AssassinationClassroom_47_FutureTime.jpg",
+        "created": 1654544565,
+        "title_id": "2333991",
+        "season_number": "2",
+        "tv_rating": "tv-14-l",
+        "published": 1654871808,
+        "tags": [],
+        "collection_title": "Assassination Classroom",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_2269164060-AssassinationClassroom_47_FutureTime.jpg",
+        "id": "AYE6ioRw_0O4w1rD3SWL",
         "auth": true
     },
     {
