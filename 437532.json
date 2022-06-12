@@ -1,5 +1,53 @@
 [
     {
+        "auth_expiration_date": 1655611140,
+        "tms_id": "EP003034830075",
+        "description": "Fry learns he has a tattoo of Bender that is made of microscopic zeros and ones and when read out loud, reveals the code to create a Time Sphere.",
+        "title_suggest": {
+            "input": [
+                "Bender's Big Score Part 1",
+                "Big Score Part 1",
+                "Score Part 1",
+                "Part 1",
+                "1"
+            ]
+        },
+        "title": "Bender's Big Score Part 1",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1349.2479,
+        "episode_number": "1",
+        "original_air_date": 1641175200,
+        "auth_launch_date": 1655006400,
+        "clip_order": null,
+        "airing_id": "RADS1006062200003726",
+        "media_id": "939d1200faf3363d5497f31007f7756070cce822",
+        "modified": 1654604674,
+        "slug": "benders-big-score-part-1",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/1_2213176513-Futurama_601_BendersBigScore_Part1.png",
+        "created": 1641157160,
+        "title_id": "2161604",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlv",
+        "published": 1654604674,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/2_2213176513-Futurama_601_BendersBigScore_Part1.png",
+        "id": "AX4clu0UdpBG7hfWGhgS",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1655438340,
         "tms_id": "EP003034830073",
         "description": "Bender stars on the soap opera All My Circuits.",
@@ -188,51 +236,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311247524-Futurama_904_ThiefOfBaghead.png",
         "id": "AYEbBFqv_0O4w1rD3STn",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1655006340,
-        "tms_id": "EP003034830072",
-        "description": "When the professor orders a late-model robot at a trade show, Bender seeks an upgrade.",
-        "title_suggest": {
-            "input": [
-                "Obsoletely Fabulous",
-                "Fabulous"
-            ]
-        },
-        "title": "Obsoletely Fabulous",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1396.9623,
-        "episode_number": "14",
-        "original_air_date": 1069387200,
-        "auth_launch_date": 1654401600,
-        "clip_order": null,
-        "airing_id": "RADS1006012200002806",
-        "media_id": "a08029c8ff9794b116964ead08a7ae703bff4d82",
-        "modified": 1654524221,
-        "slug": "obsoletely-fabulous",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/1_2266103233-Obsoletely.png",
-        "created": 1654117897,
-        "title_id": "444756",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1654524221,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/2_2266103233-Obsoletely.png",
-        "id": "AYEhHBM1_0O4w1rD3ST0",
         "auth": true
     }
 ]
