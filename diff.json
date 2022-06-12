@@ -1,21 +1,18 @@
 {
-    "updated": 1655024595,
-    "added": [
+    "updated": 1655026334,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1656838740,
-            "tms_id": "EP035179100041",
-            "description": "Franky dazzles Usopp and Chopper by transforming into a gigantic fighting robot, Hordy tries to blackmail the Kraken, and Luffy introduces his fist to the Fish-man's face!",
+            "auth_expiration_date": 1655026140,
+            "tms_id": "EP034917240194",
+            "description": "Kakashi desperately tries to reach out to Obito, but his words fall on deaf ears.",
             "title_suggest": {
                 "input": [
-                    "Iron Pirate! Here Comes General Franky!",
-                    "Pirate! Here Comes General Franky!",
-                    "Here Comes General Franky!",
-                    "Comes General Franky!",
-                    "General Franky!",
-                    "Franky!"
+                    "Kakashi's Resolve",
+                    "Resolve"
                 ]
             },
-            "title": "Iron Pirate! Here Comes General Franky!",
+            "title": "Kakashi's Resolve",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -24,35 +21,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-            "duration": 1332.4311,
-            "episode_number": "40",
-            "original_air_date": 1655011800,
-            "auth_launch_date": 1655024400,
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1307.2393,
+            "episode_number": "14",
+            "original_air_date": 1636873200,
+            "auth_launch_date": 1645957800,
             "clip_order": null,
-            "airing_id": "RADS1006062200003747",
-            "media_id": "8eb79b2fa6d0bb6e7b51215a3545aabe56024d6d",
-            "modified": 1654872038,
-            "slug": "iron-pirate-here-comes-general-franky",
+            "airing_id": "RADS1002212200072461",
+            "media_id": "92960dba19a69e30c802253d3a34120eadc9d375",
+            "modified": 1654619084,
+            "slug": "kakashis-resolve",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691642282-OnePiece_557_IronPirateHereComesGeneralFranky.jpg",
-            "created": 1654544564,
-            "title_id": "2363825",
-            "season_number": "15",
-            "tv_rating": "tv-pg",
-            "published": 1654872038,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121014598-NarutoShippuden_362_KakashisResolve.png",
+            "created": 1636583916,
+            "title_id": "2177791",
+            "season_number": "7",
+            "tv_rating": "tv-pg-v",
+            "published": 1654619084,
             "tags": [],
-            "collection_title": "One Piece",
+            "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
+            "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691642282-OnePiece_557_IronPirateHereComesGeneralFranky.jpg",
-            "id": "AYE6ioFS_0O4w1rD3SWK",
+            "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121014598-NarutoShippuden_362_KakashisResolve.png",
+            "id": "AX0MAMMt4Xbjep71f6Hc",
             "auth": true,
-            "collection_slug": "one-piece",
-            "collection_title_id": "608007",
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
