@@ -1,18 +1,24 @@
 {
-    "updated": 1655026334,
-    "added": [],
-    "removed": [
+    "updated": 1655026397,
+    "added": [
         {
-            "auth_expiration_date": 1655026140,
-            "tms_id": "EP034917240194",
-            "description": "Kakashi desperately tries to reach out to Obito, but his words fall on deaf ears.",
+            "auth_expiration_date": 1656840540,
+            "tms_id": "EP035179100042",
+            "description": "Luffy shows off even more new powers as he brutally pummels Hordy, but the main attraction proves to be an ancient and immense pirate ship that's heading straight for Fish-Man Island!",
             "title_suggest": {
                 "input": [
-                    "Kakashi's Resolve",
-                    "Resolve"
+                    "The Noah Closing in! The Fish-Man Island Facing Destruction!",
+                    "Noah Closing in! The Fish-Man Island Facing Destruction!",
+                    "Closing in! The Fish-Man Island Facing Destruction!",
+                    "in! The Fish-Man Island Facing Destruction!",
+                    "The Fish-Man Island Facing Destruction!",
+                    "Fish-Man Island Facing Destruction!",
+                    "Island Facing Destruction!",
+                    "Facing Destruction!",
+                    "Destruction!"
                 ]
             },
-            "title": "Kakashi's Resolve",
+            "title": "The Noah Closing in! The Fish-Man Island Facing Destruction!",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -21,34 +27,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1307.2393,
-            "episode_number": "14",
-            "original_air_date": 1636873200,
-            "auth_launch_date": 1645957800,
+            "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+            "duration": 1332.1642,
+            "episode_number": "41",
+            "original_air_date": 1655013600,
+            "auth_launch_date": 1655026200,
             "clip_order": null,
-            "airing_id": "RADS1002212200072461",
-            "media_id": "92960dba19a69e30c802253d3a34120eadc9d375",
-            "modified": 1654619084,
-            "slug": "kakashis-resolve",
+            "airing_id": "RADS1006062200003745",
+            "media_id": "3e50cf5739ba48df8e1bb379cd1406973db01ff1",
+            "modified": 1654872051,
+            "slug": "the-noah-closing-in-the-fish-man-island-facing-destruction",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121014598-NarutoShippuden_362_KakashisResolve.png",
-            "created": 1636583916,
-            "title_id": "2177791",
-            "season_number": "7",
-            "tv_rating": "tv-pg-v",
-            "published": 1654619084,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691643110-OnePiece_558_TheNoahClosingInTheFishManIslandDestruction.jpg",
+            "created": 1654544563,
+            "title_id": "2363826",
+            "season_number": "15",
+            "tv_rating": "tv-pg-l",
+            "published": 1654872051,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "One Piece",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
+            "modified_by": "Jonas Eason",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121014598-NarutoShippuden_362_KakashisResolve.png",
-            "id": "AX0MAMMt4Xbjep71f6Hc",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691643110-OnePiece_558_TheNoahClosingInTheFishManIslandDestruction.jpg",
+            "id": "AYE6inw0_0O4w1rD3SWJ",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "one-piece",
+            "collection_title_id": "608007",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
