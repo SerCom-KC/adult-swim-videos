@@ -1,5 +1,57 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1446739980,
+        "auth_expiration_date": 1599710340,
+        "tms_id": "EP015632430007",
+        "rating": 7.7519183,
+        "description": "Eric interviews Tatyana Ali and Arnold Schwarzenegger.",
+        "title_suggest": {
+            "input": [
+                "Tatyana Ali",
+                "Ali"
+            ]
+        },
+        "type": "episode",
+        "title": "Tatyana Ali",
+        "expiration_date": 1658116740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 662.7340674,
+        "episode_number": "3",
+        "original_air_date": 1338784200,
+        "clip_order": null,
+        "auth_launch_date": 1596686400,
+        "modified": 1654754266,
+        "media_id": "a45428eede40c85f2b5825296103e9204cb89797",
+        "airing_id": "RADS1006092200005265",
+        "id": "6wiJ5yM4SxyvOYAonm7uWg",
+        "slug": "tatyana-ali",
+        "views": 104416,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034168168-ericandre_103_dup-20120601.jpg",
+        "created": 1402945479,
+        "title_id": "895951",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1654754266,
+        "tags": [],
+        "rating_count": 782,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1655092800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034168168-ericandre_103_dup-20120601.jpg",
+        "cma_id": "1414901"
+    },
+    {
         "ott_launch_date": 1519140660,
         "auth": false,
         "auth_expiration_date": 1573621140,
@@ -471,52 +523,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1655092740,
-        "tms_id": "",
-        "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
-        "title_suggest": {
-            "input": [
-                "You Got Served",
-                "Got Served",
-                "Served"
-            ]
-        },
-        "title": "You Got Served",
-        "expiration_date": 1652068740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "3",
-        "original_air_date": null,
-        "auth_launch_date": 1652068800,
-        "clip_order": null,
-        "airing_id": "RADS1005062200096566",
-        "media_id": "e492a99d0935386e7b8aa303d3728fd008c8411d",
-        "modified": 1651891775,
-        "slug": "you-got-served",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161714163-ericandre_503_dup-20200813.jpg",
-        "created": 1600290812,
-        "season_number": "5",
-        "title_id": "2230782",
-        "tv_rating": "tv-ma-l",
-        "published": 1651891775,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1649044800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161714163-ericandre_503_dup-20200813.jpg",
-        "id": "AXSYw_QbLyLQBOXK_PN9",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1655697540,
         "tms_id": "",
         "description": "Eric welcomes Dermot Mulroney and Diane Guerrero with overweight musical guest Joey Bada$$. Lizzo debuts a surprise spinoff show.",
@@ -744,7 +750,7 @@
         "launch_date": 1652068800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg",
         "id": "AXSYyy1XLyLQBOXK_POB",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1652068740,
