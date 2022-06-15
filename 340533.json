@@ -52,7 +52,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447439340,
         "auth_expiration_date": 1658289540,
         "tms_id": "EP004625760036",
@@ -101,6 +101,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1652241600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041698561-sealab_036.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447439700,
+        "auth_expiration_date": 1629863940,
+        "tms_id": "EP004625760043",
+        "rating": 8.379461,
+        "description": "A grief counselor (named Joy, of course) comes to Sealab to counsel the grieving, grief-stricken crew after the grievous death of a crew member.  Lots of group hugs ensue, as well as a Grief Dance that's not as fun as people were hoping it would be.  And also a bunch of murders.",
+        "title_suggest": {
+            "input": [
+                "Joy of Grief",
+                "of Grief",
+                "Grief"
+            ]
+        },
+        "type": "episode",
+        "title": "Joy of Grief",
+        "expiration_date": 1658289540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 659.6339673,
+        "episode_number": "2",
+        "original_air_date": 1101098700,
+        "clip_order": null,
+        "auth_launch_date": 1626840000,
+        "modified": 1654845684,
+        "airing_id": "RADS1006092200005410",
+        "media_id": "036ac71e25a78fbc8a05fcdfba24c996feb7038c",
+        "id": "9v3_KnDdRn6nUJF76zlobg",
+        "slug": "joy-of-grief",
+        "views": 213423,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_20416911337-sealab_041.jpg",
+        "created": 1402945476,
+        "title_id": "607148",
+        "season_number": "4",
+        "tv_rating": "tv-14-dv",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1654845684,
+        "tags": [],
+        "rating_count": 672,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1655265600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416911337-sealab_041.jpg",
         "cma_id": ""
     },
     {
@@ -205,58 +257,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1653451200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041699443-sealab_038.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447439220,
-        "auth_expiration_date": 1655265540,
-        "tms_id": "EP004625760056",
-        "rating": 8.917356,
-        "description": "Well, Quinn's really done it this time. And by \"it\" we mean: gotten drunk and messed around with Chubby Carol the Intern and then been blackmailed and then started slapping people's brain's into robot bodies like there's no tomorrow. Which, actually, there may not be.",
-        "title_suggest": {
-            "input": [
-                "I Robot, Really",
-                "Robot, Really",
-                "Really"
-            ]
-        },
-        "type": "episode",
-        "title": "I Robot, Really",
-        "expiration_date": 1652241540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 691.6006006,
-        "episode_number": "4",
-        "original_air_date": 1072066500,
-        "clip_order": null,
-        "auth_launch_date": 1652241600,
-        "modified": 1651900756,
-        "airing_id": "RADS1003302200083764",
-        "media_id": "d03a71c74317d796fe85db3d3a0945df51f8b9dd",
-        "id": "O3yluNFWSHOcAwVjPBE-pw",
-        "slug": "i-robot-really",
-        "views": 184532,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151550198-sealab_030.jpg",
-        "created": 1402945476,
-        "title_id": "449629",
-        "season_number": "3",
-        "tv_rating": "tv-14-dv",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1651900756,
-        "tags": [],
-        "rating_count": 726,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1649217600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151550198-sealab_030.jpg",
         "cma_id": ""
     },
     {
