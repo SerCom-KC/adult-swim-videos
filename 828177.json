@@ -258,6 +258,58 @@
     },
     {
         "ott_launch_date": 1557153000,
+        "auth_expiration_date": 1635998340,
+        "tms_id": "EP013726210035",
+        "description": "When re-negotiations with the union stall, Satan makes some new additions to the Horsemen of the Apocalypse.",
+        "title_suggest": {
+            "input": [
+                "The Poor Horsemen of the Apocalypse",
+                "Poor Horsemen of the Apocalypse",
+                "Horsemen of the Apocalypse",
+                "of the Apocalypse",
+                "the Apocalypse",
+                "Apocalypse"
+            ]
+        },
+        "title": "The Poor Horsemen of the Apocalypse",
+        "type": "episode",
+        "expiration_date": 1658375940,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 678.5,
+        "episode_number": "2",
+        "original_air_date": 1556943300,
+        "auth_launch_date": 1632974400,
+        "clip_order": null,
+        "airing_id": "RADS1006092200005476",
+        "media_id": "de89e28a9b21786221139589a8fcca6e8f1b7e1b",
+        "modified": 1654923704,
+        "slug": "the-poor-horsemen-of-the-apocalypse",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568185198013.jpg",
+        "created": 1556741289,
+        "title_id": "2191442",
+        "season_number": "4",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1654923704,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1655352000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568185198013.jpg",
+        "id": "AWp1AvckHl5gR6828zYQ",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1557153000,
         "auth_expiration_date": 1635393540,
         "tms_id": "EP013726210034",
         "description": "Gary learns how to flip his twists to screw turkeys.",
@@ -511,55 +563,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1479137400,
-        "auth_expiration_date": 1655351940,
-        "tms_id": "EP013726210025",
-        "description": "Gary meets a magical visitor from another planet and is told to cut him into pieces.",
-        "title_suggest": {
-            "input": [
-                "Healy"
-            ]
-        },
-        "title": "Healy",
-        "type": "episode",
-        "expiration_date": 1652327940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 671.005,
-        "episode_number": "4",
-        "original_air_date": 1479097800,
-        "clip_order": null,
-        "auth_launch_date": 1652328000,
-        "modified": 1651903779,
-        "media_id": "78a60ea96ee338ac3342f778770f4d39514c4d45",
-        "airing_id": "RADS1005072200096782",
-        "id": "MjS6ZtnKQtexhh96ZTnxkw",
-        "slug": "healy",
-        "views": 22787,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1478899309,
-        "season_number": "3",
-        "title_id": "2100304",
-        "tv_rating": "tv-ma-ls",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1651903779,
-        "first_published": 1478899309,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1649304000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/healy/yourprettyface_303_NoAdsCue_dup_20161108.jpg",
-        "cma_id": "2100304"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "description": "That stain is never gonna come out.",
@@ -713,7 +716,7 @@
         "cma_id": "1462958"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1492439340,
         "auth_expiration_date": 1658375940,
         "tms_id": "EP013726210030",
