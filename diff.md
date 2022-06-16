@@ -2,25 +2,33 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 15, 2022 at 20:00:25 EDT_
+_Last Update: June 15, 2022 at 20:30:24 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-812206 Naruto: Shippuden: 2  
-### 2177792
-**Naruto: Shippuden S07E15 - The Allied Shinobi Forces Jutsu**  
-TV-PG 🔒 21:51  
-⌛ June 19, 2022 at 05:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/the-allied-shinobi-forces-jutsu  
-seriesid=`812206` titleid=`2177792` id=`AX0qjc3AUQa40cfnRSsR` mediaid=`6c690a2c8e532a5164a9d99f6add70cf2f50648c`  
-_The barrier is shattered, and Ten Tails appears! With unfathomable power in its attack, it sends shock waves through the air._  
-<a href="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191138155-NarutoShippuden_363_TheAlliedShinobiForcesJutsu.png"><img src="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191138155-NarutoShippuden_363_TheAlliedShinobiForcesJutsu.png" height="144px" /></a>
-### 2177809
-**Naruto: Shippuden S07E31 - An Opening**  
-TV-PG 🔒 21:50  
-⌛ June 19, 2022 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/an-opening  
-seriesid=`812206` titleid=`2177809` id=`AX9G1X03_0O4w1rD3Rw8` mediaid=`5410be160845581e0d0d2cef4ba3c73f86b9721a`  
-_Hashirama and Madara continue their old grudge match and fiercely battle while the other shinobi are unable to do anything but watch helplessly from the sidelines._  
-<a href="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311354178-NarutoShippuden_379_AnOpening.png"><img src="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311354178-NarutoShippuden_379_AnOpening.png" height="144px" /></a>
+853486 NTSF:SD:SUV::: 3  
+### 2005260
+**NTSF:SD:SUV:: S03E08 - Unfrozen Agent Man**  
+TV-14-LV 🔓 11:14  
+⌛ June 20, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/ntsf-sd-suv/unfrozen-agent-man  
+seriesid=`853486` titleid=`2005260` id=`5eM9gyqsQnWLXKUNv4P-lw` mediaid=`20005cf730f642f037d0be3b754982ead8eb0f45`  
+_An early, sexist-ier NTSF agent from 1963 is called in to fight his old hippie nemesis, recently thawed out and escaped from cryo-jail._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121320282-ntsf_305_dup-20160627.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121320282-ntsf_305_dup-20160627.jpg" height="144px" /></a>
+### 2005263
+**NTSF:SD:SUV:: S03E07 - A Hard Drive to Swallow**  
+TV-14 🔓 10:52  
+⌛ June 20, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/ntsf-sd-suv/a-hard-drive-to-swallow  
+seriesid=`853486` titleid=`2005263` id=`RqLHeiKVQ-mqAc_LPSbFvg` mediaid=`ca6917d85c6b492e572f2efffcb97cadad110adf`  
+_When Robot S.A.M. is taken prisoner outside of NTSF:SD:SUV:: jurisdiction, the team becomes a viral video film crew in hopes it will help disguise their rescue mission._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312132069-ntsf_308_dup-20160627.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312132069-ntsf_308_dup-20160627.jpg" height="144px" /></a>
+### 2005256
+**NTSF:SD:SUV:: S03E04 - Burn After Killing**  
+TV-14-LV 🔓 11:03  
+⌛ June 20, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/ntsf-sd-suv/burn-after-killing  
+seriesid=`853486` titleid=`2005256` id=`_igS5-RfTF6FUnJPpkqmDA` mediaid=`f61aaed8d9aa69635344d18fa766396ae3555b29`  
+_Kove's little black book is stolen by someone from her past and the only NTSF agent talented enough to help her is dead. Or is he?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131970-ntsf_301_dup-20160624.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131970-ntsf_301_dup-20160624.jpg" height="144px" /></a>
