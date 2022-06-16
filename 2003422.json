@@ -1,53 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1655351940,
-        "tms_id": "EP012792980022",
-        "description": "Tina starts hanging out with bad girl Tammy in an effort to get closer to Jimmy Junior.",
-        "title_suggest": {
-            "input": [
-                "Bad Tina",
-                "Tina"
-            ]
-        },
-        "expiration_date": 1630900740,
-        "title": "Bad Tina",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.9553,
-        "episode_number": "8",
-        "original_air_date": 1378087200,
-        "clip_order": null,
-        "auth_launch_date": 1654747200,
-        "modified": 1654325445,
-        "media_id": "99e3c5b27a452c81dfa68c7eb7df9f26e6e535ad",
-        "airing_id": "RADS1006032200003206",
-        "id": "-c404yM4SMCfjTvgiE3KHw",
-        "slug": "bad-tina",
-        "views": 2,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216329440819.jpg",
-        "created": 1403210133,
-        "season_number": "2",
-        "title_id": "2003443",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1654325445,
-        "first_published": 1408332052,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1630296000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216329440819.jpg",
-        "cma_id": "2003443"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": 1645937940,
         "tms_id": "EP012792980152",
@@ -535,6 +487,57 @@
         "launch_date": 1631505600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg",
         "cma_id": "2003514"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1655956740,
+        "tms_id": "EP012792980032",
+        "description": "Bob inherits a storage unit, and the whole family imagines it's filled with treasures. Instead, they find a man named Chet living inside. Linda, feeling the holiday spirit, persuades Bob to invite Chet to stay at the restaurant. It's discovered that this stranger, who claims he was once a mannequin, has a gift for intricate and living window displays. With the restaurant decked out in holiday cheer, the Christmas spirit is in the air.",
+        "title_suggest": {
+            "input": [
+                "Bob Rest Ye Merry Gentle-Mannequins",
+                "Rest Ye Merry Gentle-Mannequins",
+                "Ye Merry Gentle-Mannequins",
+                "Merry Gentle-Mannequins",
+                "Gentle-Mannequins"
+            ]
+        },
+        "expiration_date": 1633319940,
+        "title": "Bob Rest Ye Merry Gentle-Mannequins",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1294.1929,
+        "episode_number": "9",
+        "original_air_date": 1387769400,
+        "clip_order": null,
+        "auth_launch_date": 1655352000,
+        "modified": 1654942384,
+        "media_id": "dff26d7752896c519bd34b3435d7c2deb8fdd4b9",
+        "airing_id": "RADS1006092200005439",
+        "id": "rb0V_DCfQ56EGAfl6B9Fkg",
+        "slug": "bob-rest-ye-merry-gentle-mannequins",
+        "views": 2,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277436340319.jpg",
+        "created": 1403210511,
+        "season_number": "3",
+        "title_id": "2003520",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1654942384,
+        "first_published": 1413170426,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1632715200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg",
+        "cma_id": "1451853"
     },
     {
         "auth": true,
