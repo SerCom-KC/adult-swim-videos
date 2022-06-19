@@ -429,5 +429,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311243164-LupinThe3rd_Part6_607_AnUntoldTale.png",
         "id": "AYEbAC6D208s7zyYUNBg",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1657439940,
+        "tms_id": "EP040430990010",
+        "description": "At an auction selling a pirate king's legendary treasure, Lupin's target isn't the entire trove of gems up for grabs. No, Lupin is after just one piece of the hoard.",
+        "title_suggest": {
+            "input": [
+                "The Jet-Black Diamond",
+                "Jet-Black Diamond",
+                "Diamond"
+            ]
+        },
+        "title": "The Jet-Black Diamond",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1288.5539,
+        "episode_number": "9",
+        "original_air_date": "1655613000",
+        "auth_launch_date": 1655625600,
+        "clip_order": null,
+        "airing_id": "RADS1006152200007026",
+        "media_id": "cd9e117fa4f6f1194a4c8543999a30ce7a915a8d",
+        "modified": 1655484271,
+        "slug": "the-jet-black-diamond",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/1_226151053406-LupinThe3rd_Part6_009_TheJetBlackDiamond.png",
+        "created": 1655304830,
+        "season_number": "1",
+        "title_id": "2387390",
+        "tv_rating": "tv-14",
+        "published": 1655484271,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151053406-LupinThe3rd_Part6_009_TheJetBlackDiamond.png",
+        "id": "AYFn2z0O208s7zyYUNIg",
+        "auth": true
     }
 ]
