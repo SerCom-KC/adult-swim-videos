@@ -48,54 +48,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1655611140,
-        "tms_id": "EP003034830075",
-        "description": "Fry learns he has a tattoo of Bender that is made of microscopic zeros and ones and when read out loud, reveals the code to create a Time Sphere.",
-        "title_suggest": {
-            "input": [
-                "Bender's Big Score Part 1",
-                "Big Score Part 1",
-                "Score Part 1",
-                "Part 1",
-                "1"
-            ]
-        },
-        "title": "Bender's Big Score Part 1",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.2479,
-        "episode_number": "1",
-        "original_air_date": 1641175200,
-        "auth_launch_date": 1655006400,
-        "clip_order": null,
-        "airing_id": "RADS1006062200003726",
-        "media_id": "939d1200faf3363d5497f31007f7756070cce822",
-        "modified": 1654604674,
-        "slug": "benders-big-score-part-1",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/1_2213176513-Futurama_601_BendersBigScore_Part1.png",
-        "created": 1641157160,
-        "title_id": "2161604",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlv",
-        "published": 1654604674,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/2_2213176513-Futurama_601_BendersBigScore_Part1.png",
-        "id": "AX4clu0UdpBG7hfWGhgS",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1656129540,
         "tms_id": "EP003034830077",
         "description": "As Leela and Lars prepare to get married, we learn what happened to Fry when he returned to the 21st century.",
@@ -141,6 +93,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png",
         "id": "AX4xSLf_208s7zyYUL9W",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1656215940,
+        "tms_id": "EP003034830078",
+        "description": "Alien scammers buy the planet and banish its inhabitants to Neptune, leading to an intergalactic battle for Earth.",
+        "title_suggest": {
+            "input": [
+                "Bender's Big Score Part 4",
+                "Big Score Part 4",
+                "Score Part 4",
+                "Part 4",
+                "4"
+            ]
+        },
+        "title": "Bender's Big Score Part 4",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1346.0113,
+        "episode_number": "4",
+        "original_air_date": "1641781800",
+        "auth_launch_date": 1655611200,
+        "clip_order": null,
+        "airing_id": "RADS1006152200007014",
+        "media_id": "673cecdf54ba9e2fa267bba213ede6c06a9ceabf",
+        "modified": 1655351188,
+        "slug": "benders-big-score-part-4",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161626567-Futurama_604_BendersBigScore_Part4.png",
+        "created": 1641504430,
+        "season_number": "6",
+        "title_id": "2161607",
+        "tv_rating": "tv-14-dlv",
+        "published": 1655351188,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161626567-Futurama_604_BendersBigScore_Part4.png",
+        "id": "AX4xSdr0208s7zyYUL9X",
         "auth": true
     },
     {
