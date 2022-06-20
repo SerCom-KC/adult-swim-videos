@@ -41,7 +41,7 @@
         "launch_date": 1655697600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311122424-birdgirl_101_dup-20210326.jpg",
         "id": "AXiI4TwoDmGy9WFjRqqK",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1656302340,
@@ -85,7 +85,7 @@
         "launch_date": 1652673600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210409/thumbnails/2_2149174497-birdgirl_102_ShareBear.jpg",
         "id": "AXiuUgd0DmGy9WFjRqsA",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1653278340,
@@ -312,5 +312,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151058534-Birdgirl_202_TheWanky.png",
         "id": "AYFn4Av0208s7zyYUNIl",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1657511940,
+        "tms_id": "EP038016760008",
+        "description": "Gillian guides Charley through a difficult\u00a0rebirthing.",
+        "title_suggest": {
+            "input": [
+                "The Rejuvication",
+                "Rejuvication"
+            ]
+        },
+        "title": "The Rejuvication",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXhbHjJvDmGy9WFjRqo0",
+        "duration": 1349.9486,
+        "episode_number": "2",
+        "original_air_date": "1655697600",
+        "auth_launch_date": 1655697600,
+        "clip_order": null,
+        "airing_id": "RADS1006162200007134",
+        "media_id": "20af8fc6f83850d3ce034234d94eb29b1ed9c13d",
+        "modified": 1655359602,
+        "slug": "the-rejuvication",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/1_226151059283-Birdgirl_203_TheRejuvication.png",
+        "created": 1655305177,
+        "season_number": "2",
+        "title_id": "2387776",
+        "tv_rating": "tv-ma-ls",
+        "published": 1655359602,
+        "tags": [],
+        "collection_title": "Birdgirl",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151059283-Birdgirl_203_TheRejuvication.png",
+        "id": "AYFn4IjR_0O4w1rD3SYo",
+        "auth": true
     }
 ]
