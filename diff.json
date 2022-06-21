@@ -1,57 +1,6 @@
 {
-    "updated": 1655835020,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": 1656239340,
-            "tms_id": "EP034917240196",
-            "description": "The Allied Shinobi Forces begin their onslaught against Obito and Madara. But Ten Tails suddenly transforms and hurls powerful Tailed Beast Bombs toward distant towns.",
-            "title_suggest": {
-                "input": [
-                    "The Ties That Bind",
-                    "Ties That Bind",
-                    "That Bind",
-                    "Bind"
-                ]
-            },
-            "title": "The Ties That Bind",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1313.4121,
-            "episode_number": "16",
-            "original_air_date": "1638082800",
-            "auth_launch_date": 1647167400,
-            "clip_order": null,
-            "airing_id": "RADS1003102200078313",
-            "media_id": "4a456c1fc6d3237ad99bf07faace425ec156cc76",
-            "modified": 1646930752,
-            "slug": "the-ties-that-bind",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191149295-NarutoShippuden_364_TheTiesThatBind.png",
-            "created": 1637340584,
-            "season_number": "7",
-            "title_id": "2177793",
-            "tv_rating": "tv-pg-v",
-            "published": 1646930752,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191149295-NarutoShippuden_364_TheTiesThatBind.png",
-            "id": "AX05GpjeUQa40cfnRSuC",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
-        },
+    "updated": 1655838620,
+    "added": [
         {
             "auth_expiration_date": 1656242940,
             "tms_id": "EP034917240271",
@@ -82,7 +31,7 @@
             "clip_order": null,
             "airing_id": "RADS1003112200078376",
             "media_id": "dd1937496d1f72bde59a2636f8ff5b4033911ba8",
-            "modified": 1646993485,
+            "modified": 1655838397,
             "slug": "the-day-naruto-was-born",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_2239119119-NarutoShippuden_380_TheDayNarutoWasBorn.png",
@@ -90,7 +39,7 @@
             "season_number": "7",
             "title_id": "2177810",
             "tv_rating": "tv-pg",
-            "published": 1646993485,
+            "published": 1655838397,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
@@ -103,5 +52,6 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
