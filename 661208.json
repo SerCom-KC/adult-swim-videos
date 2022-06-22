@@ -1,59 +1,6 @@
 [
     {
         "auth": false,
-        "ott_launch_date": 1447784700,
-        "auth_expiration_date": 1655870340,
-        "tms_id": "EP008994530038",
-        "rating": 8.525801,
-        "description": "Tim finally graduates from barber school and celebrates over an Italian supper with friends. J.J. Pepper releases his latest music video. \r\n(Will Forte, Josh Groban, Larry Miller, Bob Odenkirk, Scott Thompson, David Wain)",
-        "title_suggest": {
-            "input": [
-                "Hair"
-            ]
-        },
-        "type": "episode",
-        "title": "Hair",
-        "expiration_date": 1652846340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 698.63,
-        "episode_number": "8",
-        "original_air_date": 1238387400,
-        "clip_order": null,
-        "auth_launch_date": 1652846400,
-        "modified": 1652545721,
-        "media_id": "2920bfe452bcbb1f079a6e4832e9a25c2fbc284c",
-        "airing_id": "RADS1005142200099626",
-        "id": "8xxGPaR5ToiqW3Ac5qvYeA",
-        "slug": "hair",
-        "views": 309439,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161651177-timanderic_408.jpg",
-        "created": 1402945481,
-        "title_id": "751410",
-        "season_number": "4",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1652545721,
-        "tags": [
-            "tim eric awesome show great job episode 38 hair italian restaurant cinco c-bund barber school dinner"
-        ],
-        "rating_count": 1337,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1649822400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651177-timanderic_408.jpg",
-        "cma_id": "1398495"
-    },
-    {
-        "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
         "title_suggest": {
@@ -649,6 +596,56 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447785000,
+        "auth_expiration_date": 1631073540,
+        "tms_id": "EP008994530049",
+        "rating": 8.451506,
+        "description": "Tim and Eric square off to settle who is the more handsome, fancy man. Hang around for a sneak peak at what's inside Richard Dunn's mouth. (Guest starring: Bob Odenkirk)",
+        "title_suggest": {
+            "input": [
+                "Handsome"
+            ]
+        },
+        "type": "episode",
+        "title": "Handsome",
+        "expiration_date": 1658894340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 669.44,
+        "episode_number": "7",
+        "original_air_date": 1271651400,
+        "clip_order": null,
+        "auth_launch_date": 1628049600,
+        "modified": 1655447709,
+        "media_id": "dcc213cbef80d2226d8a333f45683f6f6d2ebd12",
+        "airing_id": "RADS1006162200007224",
+        "id": "jthYQUfvRkeLzOPk14gaBg",
+        "slug": "handsome",
+        "views": 326532,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116164857-timanderic_507.jpg",
+        "created": 1402945481,
+        "title_id": "787511",
+        "season_number": "5",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1655447709,
+        "tags": [],
+        "rating_count": 1619,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1655870400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116164857-timanderic_507.jpg",
+        "cma_id": "1435054"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447784940,
         "auth_expiration_date": 1658894340,
         "tms_id": "EP008994530044",
