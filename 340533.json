@@ -156,57 +156,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447439280,
-        "auth_expiration_date": 1655870340,
-        "tms_id": "EP004625760033",
-        "rating": 8.433233,
-        "description": "A distress signal from Ice Station Zebra sends the Sealab crew on a daring rescue mission in their new submarine.  Note: this episode will not make any sense unless you have seen the Director's Cut of Wolfgang Petersen's \"Das Boot\"starring Jurgen Prochnow.  Enjoy!",
-        "title_suggest": {
-            "input": [
-                "Frozen Dinner",
-                "Dinner"
-            ]
-        },
-        "type": "episode",
-        "title": "Frozen Dinner",
-        "expiration_date": 1652846340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 660.5005005,
-        "episode_number": "5",
-        "original_air_date": 1072931400,
-        "clip_order": null,
-        "auth_launch_date": 1652846400,
-        "modified": 1652545721,
-        "airing_id": "RADS1004092200087986",
-        "media_id": "ebf36dacc75ad780e7d8af2ca2504874211dad9d",
-        "id": "HuAjAn31TIqrv4YbAoUicg",
-        "slug": "frozen-dinner",
-        "views": 250272,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_2041696305-sealab_031.jpg",
-        "created": 1402945476,
-        "title_id": "449633",
-        "season_number": "3",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1652545721,
-        "tags": [],
-        "rating_count": 674,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1649822400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041696305-sealab_031.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447439400,
         "auth_expiration_date": 1628049540,
@@ -257,6 +206,60 @@
         "modified_by": "ODT Listener",
         "launch_date": 1653451200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041699443-sealab_038.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447439700,
+        "auth_expiration_date": 1630468740,
+        "tms_id": "EP004625760044",
+        "rating": 8.729112,
+        "description": "A mysterious illness sweeps through the corridors of Sealab like a wildfire.  A germy, icky, nosebleedy wildfire.  As Sparks and his gang search for Feverheads to bash and Quinn searches desperately for a cure, Debbie makes preparations for her best 30th birthday ever.",
+        "title_suggest": {
+            "input": [
+                "Green Fever",
+                "Fever"
+            ]
+        },
+        "type": "episode",
+        "title": "Green Fever",
+        "expiration_date": 1658894340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 659.6006006,
+        "episode_number": "3",
+        "original_air_date": 1101703500,
+        "clip_order": null,
+        "auth_launch_date": 1627444800,
+        "modified": 1655447714,
+        "media_id": "1a8bdf2b36734185e00f0658cfe1a6a7984857dc",
+        "airing_id": "RADS1006162200007214",
+        "id": "P3mSxnN1T_Sf--qFKvqLMQ",
+        "slug": "green-fever",
+        "views": 206618,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_2041691212-sealab_042.jpg",
+        "created": 1402945476,
+        "title_id": "607149",
+        "season_number": "4",
+        "tv_rating": "tv-14-ds",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1655447714,
+        "tags": [
+            "sealab 2021 green fever episode 42"
+        ],
+        "rating_count": 694,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1655870400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041691212-sealab_042.jpg",
         "cma_id": ""
     },
     {
@@ -412,7 +415,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447439400,
         "auth_expiration_date": 1658894340,
         "tms_id": "EP004625760039",
