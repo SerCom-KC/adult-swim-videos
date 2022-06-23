@@ -238,6 +238,58 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1656561540,
+        "tms_id": "EP007164450403",
+        "description": "Stan and Francine go back in time to settle an argument.",
+        "title_suggest": {
+            "input": [
+                "Stan & Francine & Stan & Francine & Radika",
+                "& Francine & Stan & Francine & Radika",
+                "Francine & Stan & Francine & Radika",
+                "& Stan & Francine & Radika",
+                "Stan & Francine & Radika",
+                "& Francine & Radika",
+                "Francine & Radika",
+                "& Radika",
+                "Radika"
+            ]
+        },
+        "title": "Stan & Francine & Stan & Francine & Radika",
+        "type": "episode",
+        "expiration_date": 1649044740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1261.9607,
+        "episode_number": "13",
+        "original_air_date": 1626658200,
+        "auth_launch_date": 1655956800,
+        "clip_order": null,
+        "airing_id": "RADS1006202200007441",
+        "media_id": "48070ebd8210c6b6bb176b9c4a27cb4cc01fc7c5",
+        "modified": 1655709756,
+        "slug": "stan-francine-stan-francine-radika",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241341303-AmericanDad_1515_StanAndFrancineAndStanAndFrancineAndRadika.png",
+        "created": 1642781343,
+        "title_id": "2238762",
+        "season_number": "16",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1655709756,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1648440000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241341303-AmericanDad_1515_StanAndFrancineAndStanAndFrancineAndRadika.png",
+        "id": "AX59Zf4w_0O4w1rD3RcM",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1656475140,
         "tms_id": "EP007164450398",
         "description": "Hayley searches for guidance and instead finds a community of 'cool butts.'",
@@ -280,6 +332,50 @@
         "launch_date": 1647835200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340120-AmericanDad_1512_HotScoomp.png",
         "id": "AX59Zgif_0O4w1rD3RcN",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1656561540,
+        "tms_id": "EP007164450400",
+        "description": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
+        "title_suggest": {
+            "input": [
+                "Lumberjerk"
+            ]
+        },
+        "title": "Lumberjerk",
+        "type": "episode",
+        "expiration_date": 1649044740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.0941,
+        "episode_number": "12",
+        "original_air_date": 1626053400,
+        "auth_launch_date": 1655956800,
+        "clip_order": null,
+        "airing_id": "RADS1006202200007433",
+        "media_id": "11018cfacd61e2bb8703877903746e1bb8e12b21",
+        "modified": 1655708239,
+        "slug": "lumberjerk",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340534-AmericanDad_1514_Lumberjerk.png",
+        "created": 1642781391,
+        "title_id": "2238761",
+        "season_number": "16",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1655708239,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1648440000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340534-AmericanDad_1514_Lumberjerk.png",
+        "id": "AX59Zrim208s7zyYUL9w",
         "auth": true
     },
     {
@@ -508,97 +604,6 @@
         "launch_date": 1647230400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141715144-AmericanDad_1506_TheWondercabinet.png",
         "id": "AX5VssDL_0O4w1rD3RXh",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1655956740,
-        "tms_id": "EP007164450374",
-        "description": "Hayley takes off her headband and becomes a businesswoman; Stan plans a party.",
-        "title_suggest": {
-            "input": [
-                "Businessly Brunette",
-                "Brunette"
-            ]
-        },
-        "title": "Businessly Brunette",
-        "expiration_date": 1636347540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.0952,
-        "episode_number": "17",
-        "original_air_date": "1598234400",
-        "auth_launch_date": 1655352000,
-        "clip_order": null,
-        "airing_id": "RADS1006092200005430",
-        "media_id": "db716a593a8b45623933903b9f46c669b6fdf501",
-        "modified": 1654944465,
-        "slug": "businessly-brunette",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/1_21113947435-americandad_1418_air_cid-C5T15-BusinesslyBrunette.jpg",
-        "created": 1610549294,
-        "season_number": "15",
-        "title_id": "2197422",
-        "tv_rating": "",
-        "published": 1654944465,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1635739200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113947435-americandad_1418_air_cid-C5T15-BusinesslyBrunette.jpg",
-        "id": "AXb8N_TEQJ_4Uej5kTlQ",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1655956740,
-        "tms_id": "EP007164450375",
-        "description": "Francine explores ASMR with Roger. Steve gets a a pole in his head and a secret admirer.",
-        "title_suggest": {
-            "input": [
-                "The Chilly Thrillies",
-                "Chilly Thrillies",
-                "Thrillies"
-            ]
-        },
-        "title": "The Chilly Thrillies",
-        "expiration_date": 1636347540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.1953,
-        "episode_number": "18",
-        "original_air_date": "1598839200",
-        "auth_launch_date": 1655352000,
-        "clip_order": null,
-        "airing_id": "RADS1006092200005423",
-        "media_id": "536a9651200d2491dcb214071b1d8f31f8a8d75d",
-        "modified": 1654942383,
-        "slug": "the-chilly-thrillies",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/1_21113948261-americandad_1419_air_cid-C5T45-ChillyThrillies.jpg",
-        "created": 1610549308,
-        "season_number": "15",
-        "title_id": "2197423",
-        "tv_rating": "",
-        "published": 1654942383,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1635739200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113948261-americandad_1419_air_cid-C5T45-ChillyThrillies.jpg",
-        "id": "AXb8OCxabxpjZvbXYl-G",
         "auth": true
     },
     {

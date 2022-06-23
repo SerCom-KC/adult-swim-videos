@@ -51,57 +51,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1479742200,
-        "auth_expiration_date": 1655956740,
-        "tms_id": "EP013726210026",
-        "description": "A roast in Ted's honor fills him with a new purpose.",
-        "title_suggest": {
-            "input": [
-                "The Tree-Huger Bomber",
-                "Tree-Huger Bomber",
-                "Bomber"
-            ]
-        },
-        "expiration_date": 1652932740,
-        "title": "The Tree-Huger Bomber",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 680.008,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "5",
-        "original_air_date": 1479702600,
-        "clip_order": null,
-        "auth_launch_date": 1652932800,
-        "modified": 1652786057,
-        "media_id": "2d4d6f67adc5409f90dce87750cb2dfbe96176b6",
-        "airing_id": "RADS1004092200088057",
-        "id": "097dGrb-SracA-gHhZi2GA",
-        "slug": "the-tree-huger-bomber",
-        "views": 20921,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1479492515,
-        "season_number": "3",
-        "title_id": "2100306",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1652786057,
-        "first_published": 1479568212,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1649908800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-tree-hugger-bomber/yourprettyface_305_NoAdCues_dup-20161117.jpg",
-        "cma_id": "2100306"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "Created by Lee Hardcastle",
@@ -357,6 +306,54 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1557757800,
+        "auth_expiration_date": 1636606740,
+        "tms_id": "EP013726210037",
+        "description": "Satan taps into the youth market with a hot, new board game.",
+        "title_suggest": {
+            "input": [
+                "OMGouija"
+            ]
+        },
+        "title": "OMGouija",
+        "expiration_date": 1658980740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 680.17,
+        "episode_number": "3",
+        "original_air_date": 1557547200,
+        "auth_launch_date": 1633579200,
+        "clip_order": null,
+        "media_id": "e0470686fe4a35309e963c3ef68731bb2b0c0c3e",
+        "modified": 1655715150,
+        "airing_id": "RADS1006202200007497",
+        "slug": "om-gouija",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155742900812814.jpg",
+        "created": 1556816305,
+        "season_number": "4",
+        "title_id": "2191441",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1655715150,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1655956800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155742900812814.jpg",
+        "id": "AWp5e54gAScUIg8XxfZ9",
+        "auth": false
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -463,7 +460,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1493044140,
         "auth_expiration_date": 1658980740,
         "tms_id": "EP013726210031",
