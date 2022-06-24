@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 24, 2022 at 01:30:27 EDT_
+_Last Update: June 24, 2022 at 08:00:26 EDT_
 ## Video added
 ### Summary
-2020945 Attack on Titan: 1  
-### 2363781
-**Attack on Titan S04E23 - Sunset**  
-TV-MA 🔒 23:15  
-⌛ June 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/sunset  
-seriesid=`2020945` titleid=`2363781` id=`AX-y8nP2208s7zyYUMZi` mediaid=`60b3341f94d6c108f1e3c599a10512ad956932a3`  
-_The rumbling is set in motion once all hardening is undone, but this also sets Annie free. As the Jaegerists take control of the island, Conny races towards Ragako to feed Falco to his Titan mother._  
-<a href="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221444573-AttackOnTitan_082_Sunset.png"><img src="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221444573-AttackOnTitan_082_Sunset.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177764
+**Naruto: Shippuden S06E52 - To Each Their Own Leaf**  
+TV-PG-L 🔒 21:53  
+⌛ June 29, 2022 at 05:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/to-each-their-own-leaf  
+seriesid=`812206` titleid=`2177764` id=`AXfQn29DbxpjZvbXYmYP` mediaid=`33a704e9303640bca2e7ce772554a7e7a9999d0d`  
+_Kabuto attempts to bring Sasuke over to his side by pointing out that they both are fighting for the same goal: to bring down the Leaf Village._  
+<a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231540403-NarutoShippuden_335_ToEachTheirOwn.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231540403-NarutoShippuden_335_ToEachTheirOwn.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
