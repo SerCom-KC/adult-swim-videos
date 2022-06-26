@@ -475,5 +475,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151053406-LupinThe3rd_Part6_009_TheJetBlackDiamond.png",
         "id": "AYFn2z0O208s7zyYUNIg",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1658044740,
+        "tms_id": "EP040430990011",
+        "description": "Lupin and Fujiko need to dig up a certain, infamous fossil, but the truth they uncover is even more ancient than the fossilized bird they've been tasked with obtaining.",
+        "title_suggest": {
+            "input": [
+                "Darwin's Bird",
+                "Bird"
+            ]
+        },
+        "title": "Darwin's Bird",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1288.3203,
+        "episode_number": "10",
+        "original_air_date": "1656217800",
+        "auth_launch_date": 1656230400,
+        "clip_order": null,
+        "airing_id": "RADS1006212200007612",
+        "media_id": "86db6c09ed4004369907b58dfc555e95bcb83a62",
+        "modified": 1655913020,
+        "slug": "darwins-bird",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211411343-LupinThe3rd_Part6_DarwinsBird.png",
+        "created": 1655835102,
+        "season_number": "1",
+        "title_id": "2387391",
+        "tv_rating": "tv-14",
+        "published": 1655913020,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211411343-LupinThe3rd_Part6_DarwinsBird.png",
+        "id": "AYGHdoyI208s7zyYUNMt",
+        "auth": true
     }
 ]
