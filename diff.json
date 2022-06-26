@@ -1,21 +1,20 @@
 {
-    "updated": 1656237734,
-    "added": [
+    "updated": 1656239476,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1665309540,
-            "tms_id": "EP034917240387",
-            "description": "Kankuro tries in vain to stop Gaara from supervising the exams due to the lack of security and the threats against his life.",
+            "auth_expiration_date": 1656239340,
+            "tms_id": "EP034917240196",
+            "description": "The Allied Shinobi Forces begin their onslaught against Obito and Madara. But Ten Tails suddenly transforms and hurls powerful Tailed Beast Bombs toward distant towns.",
             "title_suggest": {
                 "input": [
-                    "The Night Before the Second Exam",
-                    "Night Before the Second Exam",
-                    "Before the Second Exam",
-                    "the Second Exam",
-                    "Second Exam",
-                    "Exam"
+                    "The Ties That Bind",
+                    "Ties That Bind",
+                    "That Bind",
+                    "Bind"
                 ]
             },
-            "title": "The Night Before the Second Exam",
+            "title": "The Ties That Bind",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -25,34 +24,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.4445,
-            "episode_number": "50",
-            "original_air_date": "1656225000",
-            "auth_launch_date": 1656237600,
+            "duration": 1313.4121,
+            "episode_number": "16",
+            "original_air_date": "1638082800",
+            "auth_launch_date": 1647167400,
             "clip_order": null,
-            "airing_id": "RADS1006212200007606",
-            "media_id": "5ed30073033d67012f4aa18bf411f4f213583096",
-            "modified": 1655841418,
-            "slug": "the-night-before-the-second-exam",
+            "airing_id": "RADS1003102200078313",
+            "media_id": "4a456c1fc6d3237ad99bf07faace425ec156cc76",
+            "modified": 1655839593,
+            "slug": "the-ties-that-bind",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211415159-NarutoShippuden_398_TheNightBeforeTheSecondExam.png",
-            "created": 1655835328,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191149295-NarutoShippuden_364_TheTiesThatBind.png",
+            "created": 1637340584,
             "season_number": "7",
-            "title_id": "2177828",
-            "tv_rating": "tv-pg",
-            "published": 1655841418,
+            "title_id": "2177793",
+            "tv_rating": "tv-pg-v",
+            "published": 1655839593,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211415159-NarutoShippuden_398_TheNightBeforeTheSecondExam.png",
-            "id": "AYGHef9K208s7zyYUNMx",
+            "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191149295-NarutoShippuden_364_TheTiesThatBind.png",
+            "id": "AX05GpjeUQa40cfnRSuC",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
