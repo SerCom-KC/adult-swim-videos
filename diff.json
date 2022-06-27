@@ -1,21 +1,20 @@
 {
-    "updated": 1656243137,
-    "added": [],
-    "removed": [
+    "updated": 1656300735,
+    "added": [
         {
-            "auth_expiration_date": 1656242940,
-            "tms_id": "EP034917240271",
-            "description": "Minato is filled with regret during his confrontation with Obito.",
+            "auth_expiration_date": 1658114940,
+            "tms_id": "EP038016760009",
+            "description": "Meredith invents a device which forces people to think positive.",
             "title_suggest": {
                 "input": [
-                    "The Day Naruto Was Born",
-                    "Day Naruto Was Born",
-                    "Naruto Was Born",
-                    "Was Born",
-                    "Born"
+                    "Fli On Your Own Supply",
+                    "On Your Own Supply",
+                    "Your Own Supply",
+                    "Own Supply",
+                    "Supply"
                 ]
             },
-            "title": "The Day Naruto Was Born",
+            "title": "Fli On Your Own Supply",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -24,34 +23,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1310.576,
-            "episode_number": "32",
-            "original_air_date": "1647158400",
-            "auth_launch_date": 1647171000,
+            "collection_id": "AXhbHjJvDmGy9WFjRqo0",
+            "duration": 1350.1154,
+            "episode_number": "3",
+            "original_air_date": "1656300600",
+            "auth_launch_date": 1656300600,
             "clip_order": null,
-            "airing_id": "RADS1003112200078376",
-            "media_id": "dd1937496d1f72bde59a2636f8ff5b4033911ba8",
-            "modified": 1655838397,
-            "slug": "the-day-naruto-was-born",
+            "airing_id": "RADS1006222200008908",
+            "media_id": "0f807942d9a7510ccba8e695ec5b04570c66fed2",
+            "modified": 1656003042,
+            "slug": "fli-on-your-own-supply",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_2239119119-NarutoShippuden_380_TheDayNarutoWasBorn.png",
-            "created": 1646842162,
-            "season_number": "7",
-            "title_id": "2177810",
-            "tv_rating": "tv-pg",
-            "published": 1655838397,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211417152-Birdgirl_201_FliOnYourOwnSupply.png",
+            "created": 1655835443,
+            "season_number": "2",
+            "title_id": "2387774",
+            "tv_rating": "tv-ma-lsv",
+            "published": 1656003042,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Birdgirl",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239119119-NarutoShippuden_380_TheDayNarutoWasBorn.png",
-            "id": "AX9vcSwr_0O4w1rD3Ry_",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211417152-Birdgirl_201_FliOnYourOwnSupply.png",
+            "id": "AYGHe8Du208s7zyYUNM0",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "birdgirl",
+            "collection_title_id": "2262180",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
