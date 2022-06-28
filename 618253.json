@@ -1,7 +1,7 @@
 [
     {
         "ott_launch_date": 1539613740,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1659412740,
         "tms_id": "EP007542790022",
         "description": "After a space-farmer discovers his parent's demise, he comes upon a fictional and robed warrior that helps him discover his inner strength in order to defeat a man in black.",
@@ -230,6 +230,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1642481940,
+        "tms_id": "EP007542790041",
+        "description": "Rooster escapes Spider from the World of Muck and finds himself in a desert with a well-armed Kid camping out. Peanut Cop and Golden Joe break out of prison on jet skis; Aria realizes that Professor Wilx is working for Shyd Industries.",
+        "title_suggest": {
+            "input": [
+                "Because They Could",
+                "They Could",
+                "Could"
+            ]
+        },
+        "title": "Because They Could",
+        "expiration_date": 1659412740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 675.5749,
+        "episode_number": "5",
+        "original_air_date": "1595649600",
+        "auth_launch_date": 1639458000,
+        "clip_order": null,
+        "airing_id": "RADS1006232200009064",
+        "media_id": "2e28469552fe89d78f023f7fb0199f36067138aa",
+        "modified": 1656027819,
+        "slug": "because-they-could",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_2071713376-12oz_305_dup-20200713.jpg",
+        "created": 1595005393,
+        "season_number": "3",
+        "title_id": "2224141",
+        "tv_rating": "tv-14-lv",
+        "published": 1656027819,
+        "tags": [],
+        "collection_title": "12 oz Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1656388800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_2071713376-12oz_305_dup-20200713.jpg",
+        "id": "AXNduttzRs3h4hI_X4VX",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1641877140,
         "tms_id": "EP007542790040",
         "description": "Eyeball reunites with Mouse on Lotharganin. Manwoman, in the Outer Earth, is interrogated by Peanut Cop because she has the Box of Worlds in her possession created by Shyd Industries.",
@@ -438,61 +484,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1650945600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_2022012364-12oz_018_BIM_9391029.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451669940,
-        "auth_expiration_date": 1656388740,
-        "tms_id": "EP007542790016",
-        "rating": 6.0184426,
-        "description": "Skillet is selected to participate in forced busing in an attempt to achieve integration in the city's public schools. He doesn't want to go, but Mouse Fitzgerald talks him into it.",
-        "title_suggest": {
-            "input": [
-                "Eighteen"
-            ]
-        },
-        "type": "episode",
-        "title": "Eighteen",
-        "expiration_date": 1653364740,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 689.36,
-        "episode_number": "10",
-        "original_air_date": 1164606300,
-        "clip_order": null,
-        "auth_launch_date": 1653364800,
-        "modified": 1653021899,
-        "media_id": "7b794fe7d8ec9f5f77828a221d7aee762256c056",
-        "airing_id": "RADS1004152200089031",
-        "id": "xDjJRT4cQbqzMir_u1Up9g",
-        "slug": "eighteen",
-        "views": 134829,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_20220122418-12oz_017_BIM_9391028.jpg",
-        "created": 1402945460,
-        "title_id": "657706",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1653021899,
-        "tags": [
-            "12 oz mouse eighteen episode 17"
-        ],
-        "rating_count": 976,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1650340800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220122418-12oz_017_BIM_9391028.jpg",
         "cma_id": ""
     }
 ]
