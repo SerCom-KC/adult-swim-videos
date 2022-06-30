@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 30, 2022 at 14:00:31 EDT_
+_Last Update: June 30, 2022 at 16:30:27 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2020945 Attack on Titan: 1  
-### 2363782
-**Attack on Titan S04E24 - Pride**  
-TV-14-DLV 🔒 22:39  
-⌛ July 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/attack-on-titan/pride  
-seriesid=`2020945` titleid=`2363782` id=`AX_bya__208s7zyYUMdM` mediaid=`96845322ee4946351ce6ebc76cda70c86fd79371`  
-_Three friends join the Survey Corps to try to take their world back from the Titans._  
-<a href="https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330134467-AttackOnTitan_083_Pride.png"><img src="https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_22330134467-AttackOnTitan_083_Pride.png" height="144px" /></a>
+581268 Squidbillies: 1  
+### 2199306
+**Squidbillies S12E05 - Rich Dan, Poor Dan**  
+TV-14-DLSV 🔒 11:26  
+⌛ July 4, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/rich-dan-poor-dan  
+seriesid=`581268` titleid=`2199306` id=`AWy6cI7hCorLtcgflt2f` mediaid=`6c4c5eb6f581f418429f38d5ca9d1d92989f736b`  
+_Dan Halen finds financial bankruptcy less enjoyable than moral bankruptcy._  
+<a href="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
