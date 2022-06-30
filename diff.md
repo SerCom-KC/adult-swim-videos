@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 30, 2022 at 16:30:27 EDT_
+_Last Update: June 30, 2022 at 17:00:26 EDT_
 ## Video added
-### Summary
-581268 Squidbillies: 1  
-### 2199306
-**Squidbillies S12E05 - Rich Dan, Poor Dan**  
-TV-14-DLSV 🔒 11:26  
-⌛ July 4, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/rich-dan-poor-dan  
-seriesid=`581268` titleid=`2199306` id=`AWy6cI7hCorLtcgflt2f` mediaid=`6c4c5eb6f581f418429f38d5ca9d1d92989f736b`  
-_Dan Halen finds financial bankruptcy less enjoyable than moral bankruptcy._  
-<a href="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+862772 China, IL: 1  
+### 2008009
+**China, IL S02E04 - The Diamond Castle**  
+TV-14-DLSV 🔓 22:34  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/china-il/the-diamond-castle  
+seriesid=`862772` titleid=`2008009` id=`BZpXu6noRJi0AHBhw7GQOQ` mediaid=`4e778cbf76cb10b14a70600a2b3adeff2f274d15`  
+_Frank discovers that Thomas Jefferson's mythical Diamond Castle is real._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321643225-chinail_014_dup-20131016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321643225-chinail_014_dup-20131016.jpg" height="144px" /></a>
