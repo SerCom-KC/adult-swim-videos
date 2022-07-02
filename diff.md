@@ -2,78 +2,58 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 2, 2022 at 00:00:35 EDT_
+_Last Update: July 2, 2022 at 00:30:45 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-### 2030312
-**Bob's Burgers S04E10 - Presto Tina-O**  
-TV-PG 🔒 21:19  
+581006 American Dad: 3  
+### 822212
+**American Dad S06E13 - I Am the Walrus**  
+TV-14 🔒 21:47  
 ⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/presto-tina-o  
-seriesid=`2003422` titleid=`2030312` id=`a3omBXSlQo6tXn-uAY3Qbw` mediaid=`705586d67a09cc1167d7c48e17ac064c32631814`  
-_Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's "curse."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg" height="144px" /></a>
-### 2030649
-**Bob's Burgers S04E09 - Slumber Party**  
- 🔒 21:33  
+https://www.adultswim.com/videos/american-dad/i-am-the-walrus  
+seriesid=`581006` titleid=`822212` id=`Du6G4iljT02OZdbvI5Dn0g` mediaid=`2be39a0d40bdb59fac2f3bf0830062cd3636eede`  
+_Stan resorts to extreme and cruel measures to humiliate Steve and maintain his alpha-male status in the house, and Hayley and Jeff turn to Principal Lewis for marriage counseling._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296797543646.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296797543646.jpg" height="144px" /></a>
+### 748156
+**American Dad S06E14 - School Lies**  
+TV-14 🔒 21:46  
 ⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/slumber-party  
-seriesid=`2003422` titleid=`2030649` id=`x-ralBNsSuSW3Y2LnDqIkA` mediaid=`6975057a09e0d3e1aea551ba2e90afde1c64d6c3`  
-_When Linda realizes that Louise has never had a sleepover, she throws her a surprise slumber party, much to Louise's chagrin. After Louise's repeated attempts to escape are thwarted, she decides to sabotage the party by eliminating the girls one by one. But she may have met her match in Jessica._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg" height="144px" /></a>
-### 2161612
-**Futurama S06E09 - Bender's Game Part 1**  
-TV-14-DLV 🔒 22:32  
+https://www.adultswim.com/videos/american-dad/school-lies  
+seriesid=`581006` titleid=`748156` id=`ubhWuJrdT-OoIvmlMZ-2MA` mediaid=`efefc0c63e605c512e03a10932659554800f8f8c`  
+_Overlooked for promotion for twenty years, Stan decides to woo the Senator who supervises the CIA task force. Stan makes Steve go to the same private academy as the Senator’s daughter, but Steve ditches school and Roger takes his place._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967984842812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967984842812.jpg" height="144px" /></a>
+### 822214
+**American Dad S06E12 - You Debt Your Life**  
+TV-14 🔒 21:47  
 ⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/benders-game-part-1  
-seriesid=`437532` titleid=`2161612` id=`AX6dVsFb_0O4w1rD3Rg9` mediaid=`c19a3e2d3516f1ec91f73d8acafe6eaadcd47bab`  
-_When Leela loses her cool over some redneck bullies, Farnsworth orders her to wear an electrical collar to help control her temper; and Bender loses his mind over Dungeons and Dragons._  
-<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png" height="144px" /></a>
-### 728861
-**King of the Hill S03E02 - And They Call it Bobby Love**  
-TV-PG 🔒 23:23  
-⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/and-they-call-it-bobby-love  
-seriesid=`629835` titleid=`728861` id=`T4fZhtkcSxqERx4AhDHHbw` mediaid=`a030643f7a1ed33b61543ea5356870a12f1f69a1`  
-_Bobby falls head-over-heels for a classmate.  Hank and his friends discover an abandoned couch in the alleyway where they normally stand and drink beer._  
-<a href="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png"><img src="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/you-debt-your-life  
+seriesid=`581006` titleid=`822214` id=`oOrIilB-Q2iiP_K7Td5iOg` mediaid=`ad84de6337ae3e7697a8b9129d5c46bafc104719`  
+_Roger moves out of the house when he finds out that Stan only let him live there because Roger had saved his life years ago at Area 51.  Francine gets Roger to come back home, only to find that Stan has rented out Roger's attic to a new tenant - Andy Dick.  Now Roger must find a way to convince Stan to take him back and get rid of Andy Dick.  Meanwhile, Steve gets asked to read the daily announcements at school._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152959222918615.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152959222918615.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-### 2003534
-**Bob's Burgers S03E23 - The Unnatural**  
-TV-14 🔒 21:33  
+581006 American Dad: 3  
+### 2238765
+**American Dad S16E17 - The Sinister Fate!!**  
+TV-14-DLS 🔒 21:01  
 ⌛ July 1, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-unnatural  
-seriesid=`2003422` titleid=`2003534` id=`bXAUZgtGRcKF7uHdKbibOQ` mediaid=`e0781e49fc2060a9942522ea34837c387cb03545`  
-_After Gene loses his confidence at his baseball game, Linda decides to sign him up for baseball camp. The only problem is, she needs money to pay for it! Meanwhile, Tina discovers her love for espresso and becomes a caffeine addict._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg" height="144px" /></a>
-### 2003533
-**Bob's Burgers S03E22 - Carpe Museum**  
-TV-14 🔒 21:15  
+https://www.adultswim.com/videos/american-dad/the-sinister-fate  
+seriesid=`581006` titleid=`2238765` id=`AX6dU54y_0O4w1rD3Rg7` mediaid=`35625dd8e484df9e0ac34b34c0c653413af2293e`  
+_A new friendship causes Hayley to start worrying she might be slowly turning into Francine. Steve and his friends try out for Roger's improv troupe._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271556409-AmericanDad_1518_TheSinisterFate.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271556409-AmericanDad_1518_TheSinisterFate.png" height="144px" /></a>
+### 2238766
+**American Dad S16E18 - Dr. Sunderson's SunSuckers**  
+TV-14-DL 🔒 21:01  
 ⌛ July 1, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/carpe-museum  
-seriesid=`2003422` titleid=`2003533` id=`h-8I3clIQR2tn_K2jbkuMg` mediaid=`8e674d0188137794e2f77427f47ae40e6816f65b`  
-_While acting as a parent chaperone on the school's trip to the museum, Bob has a father- daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy. Also, Tina questions her dorkiness; and on the steps of the museum, Linda lends her unique chanting abilities to striking museum workers._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg" height="144px" /></a>
-### 2161609
-**Futurama S06E06 - The Beast with a Billion Backs Part 2**  
-TV-14-DLSV 🔒 22:32  
+https://www.adultswim.com/videos/american-dad/dr-sundersons-sun-suckers  
+seriesid=`581006` titleid=`2238766` id=`AX6dVDgp208s7zyYUL91` mediaid=`39f887971f1559a823670faf96f9cf621e849820`  
+_Hayley and Jeff help one of Roger's personas run a solar company._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271557210-AmericanDad_1519_DrSundersonSunSuckers.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271557210-AmericanDad_1519_DrSundersonSunSuckers.png" height="144px" /></a>
+### 2238767
+**American Dad S16E19 - Family Time**  
+TV-14-DLV 🔒 21:01  
 ⌛ July 1, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-beast-with-a-billion-backs-part-2  
-seriesid=`437532` titleid=`2161609` id=`AX5VbT7F_0O4w1rD3RXN` mediaid=`de7a9ddfac8aca73b663b757e63f722aa82c618b`  
-_Zap leads a military strike on the anomaly; a heartbroken Fry decides to leave the Universe._  
-<a href="https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_22113165212-Futurama_606_TheBeastWithABillionBacks_Part2.png"><img src="https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_22113165212-Futurama_606_TheBeastWithABillionBacks_Part2.png" height="144px" /></a>
-### 785983
-**King of the Hill S13E20 - To Sirloin With Love**  
-TV-PG 🔒 22:47  
-⌛ July 1, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/to-sirloin-with-love  
-seriesid=`629835` titleid=`785983` id=`phUI2jr1RoacJ-g2mYj_OQ` mediaid=`988ba038bf9b7dd55712b9be5c61e6ecee441911`  
-_Thankful to finally have something in common with his son, Hank is proud when Bobby's knowledge of beef earns him a spot on a college team bound for the State Championships._  
-<a href="https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211410419-KingOfTheHill_1317_ToSirloinWithLove.png"><img src="https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211410419-KingOfTheHill_1317_ToSirloinWithLove.png" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/family-time  
+seriesid=`581006` titleid=`2238767` id=`AX6dVNy_208s7zyYUL92` mediaid=`21cdae50f2c1b28b5f233f00569375df4a005fa6`  
+_Stan and the family go out to dinner at a buffet restaurant! Meanwhile, Roger becomes a flower._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127155807-AmericanDad_1520_FamilyTime.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127155807-AmericanDad_1520_FamilyTime.png" height="144px" /></a>
