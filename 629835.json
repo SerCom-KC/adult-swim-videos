@@ -67,6 +67,60 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1657339140,
+        "tms_id": "EP002070020039",
+        "rating": 7.058011,
+        "description": "Bobby falls head-over-heels for a classmate.  Hank and his friends discover an abandoned couch in the alleyway where they normally stand and drink beer.",
+        "title_suggest": {
+            "input": [
+                "And They Call it Bobby Love",
+                "They Call it Bobby Love",
+                "Call it Bobby Love",
+                "it Bobby Love",
+                "Bobby Love",
+                "Love"
+            ]
+        },
+        "type": "episode",
+        "title": "And They Call it Bobby Love",
+        "expiration_date": 1500953399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1403.1684,
+        "episode_number": "2",
+        "original_air_date": 1239244200,
+        "clip_order": null,
+        "auth_launch_date": 1656734400,
+        "modified": 1656441010,
+        "media_id": "a030643f7a1ed33b61543ea5356870a12f1f69a1",
+        "airing_id": "RADS1006282200009931",
+        "id": "T4fZhtkcSxqERx4AhDHHbw",
+        "slug": "and-they-call-it-bobby-love",
+        "views": 316408,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/1_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png",
+        "created": 1402945468,
+        "title_id": "728861",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "published": 1656441010,
+        "tags": [
+            "king of the hill episode 301 bobby in love couch"
+        ],
+        "rating_count": 362,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1500348600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png",
+        "cma_id": "1434090"
+    },
+    {
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1657252740,
         "tms_id": "EP002070020269",
@@ -186,66 +240,6 @@
         "launch_date": 1500208200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15245189649781.jpg",
         "cma_id": "1433713"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1656734340,
-        "tms_id": "EP002070020265",
-        "rating": 8.741034,
-        "description": "Thankful to finally have something in common with his son, Hank is proud when Bobby's knowledge of beef earns him a spot on a college team bound for the State Championships.",
-        "title_suggest": {
-            "input": [
-                "To Sirloin With Love",
-                "Sirloin With Love",
-                "With Love",
-                "Love"
-            ]
-        },
-        "type": "episode",
-        "title": "To Sirloin With Love",
-        "expiration_date": 1500694199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1367.1991,
-        "episode_number": "20",
-        "original_air_date": 1274495400,
-        "clip_order": null,
-        "auth_launch_date": 1656129600,
-        "modified": 1655835060,
-        "media_id": "988ba038bf9b7dd55712b9be5c61e6ecee441911",
-        "airing_id": "RADS1006202200007532",
-        "id": "phUI2jr1RoacJ-g2mYj_OQ",
-        "slug": "to-sirloin-with-love",
-        "views": 199466,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211410419-KingOfTheHill_1317_ToSirloinWithLove.png",
-        "created": 1402945468,
-        "title_id": "785983",
-        "season_number": "13",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "published": 1655835060,
-        "tags": [
-            "To Sirloin With Love",
-            "King of the Hill",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Mike Judge",
-            "Hank",
-            "Peggy",
-            "Bobby"
-        ],
-        "rating_count": 390,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": 1500089400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211410419-KingOfTheHill_1317_ToSirloinWithLove.png",
-        "cma_id": "1433755"
     },
     {
         "auth": true,
