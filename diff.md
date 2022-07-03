@@ -2,60 +2,85 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 3, 2022 at 00:00:25 EDT_
+_Last Update: July 3, 2022 at 00:30:26 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 2  
-629835 King of the Hill: 1  
-### 2030650
-**Bob's Burgers S04E11 - Easy Com-Mercial, Easy Go-Mercial**  
- 🔒 21:31  
+581006 American Dad: 3  
+437532 Futurama: 1  
+### 748158
+**American Dad S06E17 - Home Wrecker**  
+TV-14 🔒 21:47  
 ⌛ July 9, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/easy-com-mercial-easy-go-mercial  
-seriesid=`2003422` titleid=`2030650` id=`0piNZQkURO2_ioAArzVaDQ` mediaid=`32a217133a8ac5c350ce74d883d03128bc11a763`  
-_To compete with fellow "restaurateur" Jimmy Pesto, and his blowout Super Bowl event, Bob is determined to create a Bob's Burgers commercial to air during the big game. In an effort to outshine Pesto, the Belchers recruit Randy, a documentarian, to assist with the filmmaking, and hire on former pro football star Connie Frye to be the celebrity endorser._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267557634713.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267557634713.jpg" height="144px" /></a>
-### 2030315
-**Bob's Burgers S04E12 - The Frond Files**  
-TV-14-DLSV 🔒 21:39  
+https://www.adultswim.com/videos/american-dad/home-wrecker  
+seriesid=`581006` titleid=`748158` id=`DCrfx3pmSmOmMr4jCMrF4g` mediaid=`b3b35fb96d66840fff4b41632307b212ae7d19eb`  
+_Stan and Francine fight over how to redecorate the house. It goes so far that they split the house down the middle and try to live without each other._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002614929913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002614929913.jpg" height="144px" /></a>
+### 748161
+**American Dad S06E16 - Jenny Fromdabloc**  
+TV-14 🔒 21:41  
 ⌛ July 9, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-frond-files  
-seriesid=`2003422` titleid=`2030315` id=`MygFPLHKSNOeHoZjHF2PiQ` mediaid=`32be91dd74c61d2a2e6aa9b2b2012b41d0ed6e02`  
-_Bob and Linda visit the school and learn that their kids' essays about their fantasy version of Wagstaff are "too creative" and "offensive." Eugene transforms the school into a "Fart School for the Gifted"; Tina, to her delight, depicts a world where she is romanced by countless zombie teenage boys; and Louise creates a school where she takes down a robotic Mr. Frond from the future._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267561861218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267561861218.jpg" height="144px" /></a>
-### 728862
-**King of the Hill S03E03 - Peggy's Headache**  
-TV-PG-DL 🔒 23:17  
+https://www.adultswim.com/videos/american-dad/jenny-fromdabloc  
+seriesid=`581006` titleid=`748161` id=`NZO346jOQv2UKObAIyt4vQ` mediaid=`0cd0eac044c68897359754d5f8ecfc8bb227e426`  
+_After Snot professes his love for Hayley and gets shot down, Steve and Roger devise a plan to cheer him up. Roger dresses up as Steve's cousin from New Jersey, Jenny Fromdabloc, and Snot falls hard for her._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994764310111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994764310111.jpg" height="144px" /></a>
+### 748157
+**American Dad S06E15 - License to Till**  
+TV-14 🔒 21:46  
 ⌛ July 9, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/peggys-headache  
-seriesid=`629835` titleid=`728862` id=`kTqlThxCQ8qug9BVKESKKw` mediaid=`00919c047d5638c30435c2efa58d5745037d12b2`  
-_Peggy is shocked when she learns of the affair between Nancy and John Redcorn._  
-<a href="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281431254-KingOfTheHill_220_PeggysHeadache.png"><img src="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281431254-KingOfTheHill_220_PeggysHeadache.png" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/license-to-till  
+seriesid=`581006` titleid=`748157` id=`dz3vS03bSnmzfl1QM1kY7g` mediaid=`c5a113a156594c9dbd8d3a692c36e5e3906b5e41`  
+_When Steve has trouble crossing over into the "cool kids" social circle, Klaus and Roger place their bets to see how quickly Roger can make him cool._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299475608909.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299475608909.jpg" height="144px" /></a>
+### 2161613
+**Futurama S06E10 - Bender's Game Part 2**  
+TV-14-DL 🔒 22:32  
+⌛ July 9, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/benders-game-part-2  
+seriesid=`437532` titleid=`2161613` id=`AX6dV4ZB_0O4w1rD3Rg-` mediaid=`1590c436ea0430c5ace59c1f060349f80f946bb5`  
+_When doctors can't get through to Bender, they order a robotomy._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127160562-Futurama_610_BendersGame_Part2.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127160562-Futurama_610_BendersGame_Part2.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-629835 King of the Hill: 1  
-### 2030303
-**Bob's Burgers S04E01 - A River Runs Through Bob**  
-TV-14 🔒 21:32  
+2194549 Gemusetto: 1  
+437532 Futurama: 1  
+581006 American Dad: 3  
+### 2241834
+**Gemusetto S02E09 - Episode Nine: Fdim**  
+TV-MA-L 🔒 11:15  
 ⌛ July 2, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/a-river-runs-through-bob  
-seriesid=`2003422` titleid=`2030303` id=`JGl4XFy3Q46tpfBLJMtGyA` mediaid=`984168ba56d63c4de375e06c7de3e20f17304fcd`  
-_Bob, Linda and the kids go on a camping adventure and face the perils of nature... and Bob's intestines. Braving wild river rapids, eager squirrels and parent/child separation, the Belchers prove they are worth their mettle._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085675243019.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085675243019.jpg" height="144px" /></a>
-### 2030305
-**Bob's Burgers S04E02 - Fort Night**  
-TV-14 🔒 21:33  
+https://www.adultswim.com/videos/gemusetto/episode-nine-fdim  
+seriesid=`2194549` titleid=`2241834` id=`AXZIl086QJ_4Uej5kTd3` mediaid=`a49204d567ca6d05907afdf06258e00f4f6fffee`  
+_Religions begin colliding and merging in the ground zero that is the ruins of Suicide Town. How does Makasu deal with jealousy when someone Perfect comes to save them?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201210/thumbnails/2_2012101122172-GSMP_209_dup-20201202.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201210/thumbnails/2_2012101122172-GSMP_209_dup-20201202.jpg" height="144px" /></a>
+### 2161610
+**Futurama S06E07 - The Beast with a Billion Backs Part 3**  
+TV-14-DSV 🔓 22:32  
 ⌛ July 2, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/fort-night  
-seriesid=`2003422` titleid=`2030305` id=`pgZGJHhBSiiiY1E3pl_GCw` mediaid=`dbcf8d8506e797ca8b6c07e9952277eb13915020`  
-_Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187081051505.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187081051505.jpg" height="144px" /></a>
-### 785979
-**King of the Hill S13E21 - The Honeymooners**  
-TV-PG-D 🔒 22:36  
+https://www.adultswim.com/videos/futurama/the-beast-with-a-billion-backs-part-3  
+seriesid=`437532` titleid=`2161610` id=`AX59ZhRp_0O4w1rD3RcO` mediaid=`f0fdb9002917484b410c568b55ceafedef49a705`  
+_The world watches in terror as billions of tentacles emerge from the anomaly. Leela, Amy, and Zap become the only resistance._  
+<a href="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211618157-Futurama_607_TheBeastWithABillionBacks_Part3.png"><img src="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211618157-Futurama_607_TheBeastWithABillionBacks_Part3.png" height="144px" /></a>
+### 2238768
+**American Dad S16E20 - Cry Baby**  
+TV-14-DLV 🔓 21:02  
 ⌛ July 2, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/the-honeymooners  
-seriesid=`629835` titleid=`785979` id=`a3rS78AYTXC3K2t3gW7EJg` mediaid=`fd178575949f2a8c548c17b0d2240d4c14d93f4c`  
-_Hank is horrified when his mother announces her decision to marry a man he's never met.  Things go from bad to worse when his mother decides to move into a recreational vehicle._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15245189649781.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15245189649781.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/cry-baby  
+seriesid=`581006` titleid=`2238768` id=`AX6dVZU2_0O4w1rD3Rg8` mediaid=`c452429e15cce56e2beeb91518bee709eaa9bab0`  
+_When Stan realizes he can't cry, he asks Steve to teach him empathy._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271558492-AmericanDad_1521_CryBaby.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271558492-AmericanDad_1521_CryBaby.png" height="144px" /></a>
+### 2238757
+**American Dad S16E22 - Steve's Franken Out**  
+TV-14-DLV 🔓 21:02  
+⌛ July 2, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/steves-franken-out  
+seriesid=`581006` titleid=`2238757` id=`AX7Hf40X_0O4w1rD3Rmk` mediaid=`ceb97b6dd3b92adfea98929dc14abdfcc68a58e6`  
+_When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way._  
+<a href="https://media.cdn.adultswim.com/uploads/20220207/thumbnails/2_22271518123-AmericanDad_1510_StevesFrankenOut.png"><img src="https://media.cdn.adultswim.com/uploads/20220207/thumbnails/2_22271518123-AmericanDad_1510_StevesFrankenOut.png" height="144px" /></a>
+### 2238769
+**American Dad S16E21 - Crystal Clear**  
+TV-14-DLV 🔓 21:02  
+⌛ July 2, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/crystal-clear  
+seriesid=`581006` titleid=`2238769` id=`AX7Hf5E__0O4w1rD3Rml` mediaid=`c547f7fb6bdc4444defe1df89b3e2bc8bdfe9b38`  
+_Stan gets in over his head trying to impress Toshi's dad; Klaus and Jeff head to the country for a weekend getaway._  
+<a href="https://media.cdn.adultswim.com/uploads/20220207/thumbnails/2_22271517344-AmericanDad_1522_CrystalClear.png"><img src="https://media.cdn.adultswim.com/uploads/20220207/thumbnails/2_22271517344-AmericanDad_1522_CrystalClear.png" height="144px" /></a>
