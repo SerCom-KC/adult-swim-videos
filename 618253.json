@@ -139,7 +139,7 @@
         "launch_date": 1653969600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200716/thumbnails/2_20716106317-12oz_301_dup-20200625.jpg",
         "id": "AXNX8soURs3h4hI_X4Tx",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1640667540,
@@ -273,6 +273,50 @@
         "launch_date": 1656388800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_2071713376-12oz_305_dup-20200713.jpg",
         "id": "AXNduttzRs3h4hI_X4VX",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1643086740,
+        "tms_id": "EP007542790042",
+        "description": "Sirus, the Architect for the Box of Worlds, breaks ranks with Clock. Aria and Eyeball use a serum to kickstart Mouse's memory and he remembers working with them and helping to create the Box of Worlds.",
+        "title_suggest": {
+            "input": [
+                "Reveal"
+            ]
+        },
+        "title": "Reveal",
+        "expiration_date": 1660017540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 646.7461,
+        "episode_number": "6",
+        "original_air_date": "1595908800",
+        "auth_launch_date": 1640062800,
+        "clip_order": null,
+        "airing_id": "RADS1006302200011456",
+        "media_id": "a610c738ff7ca7f92226bfb843184fc2dd542808",
+        "modified": 1656619700,
+        "slug": "reveal",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_20717136410-12oz_306_dup-20200715.jpg",
+        "created": 1595005604,
+        "season_number": "3",
+        "title_id": "2224142",
+        "tv_rating": "tv-14-l",
+        "published": 1656619700,
+        "tags": [],
+        "collection_title": "12 oz Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1656993600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_20717136410-12oz_306_dup-20200715.jpg",
+        "id": "AXNdvhRbC8QgH-t19KAI",
         "auth": false
     },
     {
@@ -429,61 +473,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1652155200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_020_pt2-02.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1451670060,
-        "auth_expiration_date": 1656993540,
-        "tms_id": "EP007542790017",
-        "rating": 5.894451,
-        "description": "Rooster finds $65,000 in a brown paper sack in an alley from a botched robbery at Rhoda's. He wants to keep the money, but Liquor talks him into returning it.",
-        "title_suggest": {
-            "input": [
-                "Pre-reckoning"
-            ]
-        },
-        "type": "episode",
-        "title": "Pre-reckoning",
-        "expiration_date": 1653969540,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 719.55,
-        "episode_number": "11",
-        "original_air_date": 1165211100,
-        "clip_order": null,
-        "auth_launch_date": 1653969600,
-        "modified": 1653846521,
-        "media_id": "42f1fa0481abe73622ac99b2c5f101524d2178b5",
-        "airing_id": "RADS1005272200001236",
-        "id": "gwSrG4H2Q8-bQOqNYia65w",
-        "slug": "pre-reckoning",
-        "views": 133785,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_2022012364-12oz_018_BIM_9391029.jpg",
-        "created": 1402945460,
-        "title_id": "657708",
-        "season_number": "2",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1653846521,
-        "tags": [
-            "12 oz mouse episode 18 pre reckoning"
-        ],
-        "rating_count": 1298,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1650945600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_2022012364-12oz_018_BIM_9391029.jpg",
         "cma_id": ""
     }
 ]
