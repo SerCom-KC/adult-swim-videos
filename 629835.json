@@ -67,6 +67,53 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1657684740,
+        "tms_id": "EP002070020041",
+        "rating": 7.3137255,
+        "description": "Hank decides to breed Lady Bird.  Dale applies for a bounty hunter's license.   \r\n",
+        "title_suggest": {
+            "input": [
+                "Pregnant Paws",
+                "Paws"
+            ]
+        },
+        "type": "episode",
+        "title": "Pregnant Paws",
+        "expiration_date": 1501126199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1402.2342,
+        "episode_number": "4",
+        "original_air_date": 1239328800,
+        "clip_order": null,
+        "auth_launch_date": 1657080000,
+        "modified": 1656657985,
+        "media_id": "ca0ff7ae8cba42dee4a462061bdba7431aaae3c1",
+        "airing_id": "RADS1006302200011495",
+        "id": "SKm5988iQk6w4YUMmnPMCg",
+        "slug": "pregnant-paws",
+        "views": 100137,
+        "created": 1402945468,
+        "title_id": "728863",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "published": 1656657985,
+        "tags": [
+            "king of the hill koth episode 302 pregnant paws lady bird breed dale bounty hunter"
+        ],
+        "rating_count": 153,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1500521400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_58329.jpg",
+        "cma_id": "1436614"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1657339140,
         "tms_id": "EP002070020039",
         "rating": 7.058011,
@@ -244,64 +291,5 @@
         "launch_date": 1500435000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281431254-KingOfTheHill_220_PeggysHeadache.png",
         "cma_id": "1434385"
-    },
-    {
-        "auth": false,
-        "auth_expiration_date": 1657079940,
-        "tms_id": "EP002070020267",
-        "rating": 8.522434,
-        "description": "Believing he'll eliminate his loneliness, Bill takes in several roommates, including Principal Moss, a former pin-up girl and a Russian who deals in high-end fashion knock-offs.",
-        "title_suggest": {
-            "input": [
-                "Bill Gathers Moss",
-                "Gathers Moss",
-                "Moss"
-            ]
-        },
-        "type": "episode",
-        "title": "Bill Gathers Moss",
-        "expiration_date": 1500814799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1366.732,
-        "episode_number": "22",
-        "original_air_date": 1274236200,
-        "clip_order": null,
-        "auth_launch_date": 1656475200,
-        "modified": 1656440842,
-        "media_id": "00b9a0e375e327dc1587796db81ebb19914b4547",
-        "airing_id": "RADS1006242200009188",
-        "id": "tIyulPy2SQeBwumoLZFTKw",
-        "slug": "bill-gathers-moss",
-        "views": 474964,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/1_22628142710-KingOfTheHill_1314_BillGathersMoss.png",
-        "created": 1402945468,
-        "title_id": "785980",
-        "season_number": "13",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1656440842,
-        "tags": [
-            "King of the Hill",
-            "Bill Father Moss",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Mike Judge",
-            "Hank",
-            "Peggy",
-            "Bobby"
-        ],
-        "rating_count": 624,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": 1500210000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_22628142710-KingOfTheHill_1314_BillGathersMoss.png",
-        "cma_id": "1433671"
     }
 ]
