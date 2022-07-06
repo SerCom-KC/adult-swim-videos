@@ -1,5 +1,110 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": 1449258480,
+        "auth_expiration_date": 1658894340,
+        "tms_id": "EP001022180080",
+        "rating": 7.4570136,
+        "description": "Performance artist Laurie Anderson riles Space Ghost by revealing that she never watches television, then waxes conspiratorial about cyberspace. A disengaged Space Ghost invisos out, missing much of their remaining conversation. Next, Space Ghost endeavors to understand members of the performance troupe Stomp.",
+        "title_suggest": {
+            "input": [
+                "Art Show",
+                "Show"
+            ]
+        },
+        "type": "episode",
+        "title": "Art Show",
+        "expiration_date": 1637729940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 726.8341675,
+        "episode_number": "14",
+        "original_air_date": 908595000,
+        "clip_order": null,
+        "auth_launch_date": 1657080000,
+        "modified": 1656950577,
+        "airing_id": "RADS1006302200011549",
+        "media_id": "0101f6d01038f397cb4b165a08e8f20f2c7df88f",
+        "id": "2rRTwZdqRre3KR65buuoew",
+        "slug": "art-show",
+        "views": 39534,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417101335-sgc2c_9614_dst_cid-9137639.jpg",
+        "created": 1402945476,
+        "title_id": "322772",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1656950577,
+        "tags": [
+            "space ghost coast to coast episode 32 art show laurie anderson stomp"
+        ],
+        "rating_count": 221,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1635480000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417101335-sgc2c_9614_dst_cid-9137639.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1449870960,
+        "auth_expiration_date": 1658289540,
+        "tms_id": "EP001022180095",
+        "rating": 9.060607,
+        "description": "Desperate for a new gig, Space Ghost kisses up to \"Talk Soup\" host John Henson and \"Entertainment Tonight\" host Bob Goen by telling each that they are \"pretty men.\" Space Ghost even offers to set Henson up with his \"sister\" Judy. Brak spoils the affair by spilling gravy all over the set.",
+        "title_suggest": {
+            "input": [
+                "Suckup"
+            ]
+        },
+        "type": "episode",
+        "title": "Suckup",
+        "expiration_date": 1644987540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 712.4337671,
+        "episode_number": "19",
+        "original_air_date": 975301200,
+        "clip_order": null,
+        "auth_launch_date": 1657080000,
+        "modified": 1656654982,
+        "airing_id": "RADS1006302200011565",
+        "media_id": "a452865d62ea61ad07b7b718b518975b90b1d932",
+        "id": "6Q4q9jrQTdqM-8UXLBAJmQ",
+        "slug": "suckup",
+        "views": 52189,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201138375-sgc2c_9719_dst_cid-9131518.jpg",
+        "created": 1402945476,
+        "title_id": "322329",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1656654982,
+        "tags": [
+            "space ghost coast to coast sgc2c episode 52 suckup talk soup john henson bob goen"
+        ],
+        "rating_count": 132,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1641963600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": false,
         "ott_launch_date": 1448046900,
         "auth_expiration_date": 1654055940,
@@ -202,58 +307,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1448046780,
-        "auth_expiration_date": 1652846340,
-        "tms_id": "EP001022180003",
-        "rating": 8.29384,
-        "description": "Three stranded castaways, Bob Denver (Gilligan), Dawn Wells (Mary Ann) and Russell Johnson (the Professor), take their turns in the video monitor. Zorak declares, \"I am the lone locust of the apocalypse. Think of me when you look to the night sky.\"",
-        "title_suggest": {
-            "input": [
-                "Gilligan"
-            ]
-        },
-        "type": "episode",
-        "title": "Gilligan",
-        "expiration_date": 1657079940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 698.9342676,
-        "episode_number": "2",
-        "original_air_date": 894684600,
-        "clip_order": null,
-        "auth_launch_date": 1651032000,
-        "modified": 1653855809,
-        "airing_id": "RADS1005272200001412",
-        "media_id": "a1bf94f19b07592ea4a325afc663ee578ea1b3fc",
-        "id": "H9ek3x38TAGoOwrrXoHi_A",
-        "slug": "gilligan",
-        "views": 53219,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417945117-sgc2c_9402_dst_cid-9108288.jpg",
-        "created": 1402945476,
-        "title_id": "322726",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1653855809,
-        "tags": [
-            "space ghost coast to coast gilligan gilligian gilligen"
-        ],
-        "rating_count": 211,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654056000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417945117-sgc2c_9402_dst_cid-9108288.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1450888800,
         "auth_expiration_date": 1657684740,
@@ -356,58 +409,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1626840000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417951225-sgc2c_9504_bim.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1450888740,
-        "auth_expiration_date": 1657079940,
-        "tms_id": "EP001022180089",
-        "rating": 6.9174314,
-        "description": "The comedy stakes are high when Space Ghost, Moltar, Zorak and guest Steven Wright are stalked by body-snatching pods. Show producers auctioned off the ending of this episode on eBay.",
-        "title_suggest": {
-            "input": [
-                "Snatch"
-            ]
-        },
-        "type": "episode",
-        "title": "Snatch",
-        "expiration_date": 1648007940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 672.333667,
-        "episode_number": "2",
-        "original_air_date": 940042800,
-        "clip_order": null,
-        "auth_launch_date": 1655870400,
-        "modified": 1655447707,
-        "airing_id": "RADS1006162200007213",
-        "media_id": "0aad3f89eea134bc783c67e09d91e831c9fb4347",
-        "id": "Wps45WdlRR2JSgi-NCspcg",
-        "slug": "snatch",
-        "views": 26435,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201151201-sgc2c_9902_air.jpg",
-        "created": 1402945476,
-        "title_id": "332368",
-        "season_number": "6",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1655447707,
-        "tags": [
-            "Space Ghost Episode 70 Snatch"
-        ],
-        "rating_count": 218,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1644987600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151201-sgc2c_9902_air.jpg",
         "cma_id": ""
     },
     {
@@ -518,120 +519,56 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1449258300,
-        "auth_expiration_date": 1657079940,
-        "tms_id": "EP001022180016",
-        "rating": 7.5,
-        "description": "After Moltar sends Space Ghost away to \"pick up an important package in the mailroom,\" Zorak takes a seat behind the desk. What happens next is television history as Zorak cackles through a rapid-fire series of \"interviews\" with everyone from actress Cameron Diaz to TV's Jimmie \"Good Times\" Walker.",
+        "ott_launch_date": 1448983920,
+        "auth_expiration_date": 1658894340,
+        "tms_id": "EP001022180022",
+        "rating": 7.159851,
+        "description": "David Byrne of the Talking Heads makes a striking revelation to Space Ghost: \"I would like to be cute and blonde. \"Later, Space Ghost attempts to get to the root of the feud between former teen idols Donny Osmond and earlier guest Danny Bonaduce.",
         "title_suggest": {
             "input": [
-                "Surprise"
+                "Fire Drill",
+                "Drill"
             ]
         },
         "type": "episode",
-        "title": "Surprise",
-        "expiration_date": 1635911940,
+        "title": "Fire Drill",
+        "expiration_date": 1630468740,
         "platforms": [
             "web",
             "mobile",
             "ott"
         ],
         "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 870.3670337,
-        "episode_number": "9",
-        "original_air_date": 965016000,
+        "duration": 774.9676343,
+        "episode_number": "5",
+        "original_air_date": 898488000,
         "clip_order": null,
-        "auth_launch_date": 1655265600,
-        "modified": 1654850256,
-        "airing_id": "RADS1006092200005401",
-        "media_id": "c9ef8dd12c8ec84fe6f011e535ff395f4e28073f",
-        "id": "Zlq_nCM9QKOcT4qszG0C8w",
-        "slug": "surprise",
-        "views": 49382,
+        "auth_launch_date": 1657080000,
+        "modified": 1656655621,
+        "media_id": "80357a277647806935cf5c6c4089b43a9a5cf18d",
+        "airing_id": "RADS1006302200011560",
+        "id": "i9jeg8GcTeq4KD3CZyXHoQ",
+        "slug": "fire-drill",
+        "views": 45170,
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417958557-sgc2c_9609_dst_cid-9122060.jpg",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417951499-sgc2c_9505_dst_cid-9105374.jpg",
         "created": 1402945476,
-        "title_id": "322776",
-        "season_number": "3",
+        "title_id": "322748",
+        "season_number": "2",
         "tv_rating": "tv-pg",
-        "active": false,
+        "active": true,
         "ott_expiration_date": null,
-        "published": 1654850256,
+        "blacklist": [],
+        "published": 1656655621,
         "tags": [
-            "space ghost coast to coast episode 27 surprise Vinnie Dombroski",
-            "Jimmie Walker",
-            "Mike Watt",
-            "Dennis Diken",
-            "Pat DiNizio",
-            "Juliana Hatfield",
-            "Ben Folds",
-            "Cameron Diaz",
-            "Mark McEwen",
-            "Wes Johnson",
-            "Dr. Robert Bakker",
-            "Matt Talbott",
-            "Judy Tenuta",
-            "Lori Fetrick"
+            "space ghost coast to coast c2c fire drill episode 15"
         ],
-        "rating_count": 176,
+        "rating_count": 269,
         "collection_title": "Space Ghost Coast to Coast",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1632888000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417958557-sgc2c_9609_dst_cid-9122060.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1448047020,
-        "auth_expiration_date": 1657079940,
-        "tms_id": "EP001022180032",
-        "rating": 7.3043475,
-        "description": "The rapport between Branford Marsalis and Space Ghost makes it look as though the then-band leader of \"The Tonight Show\"might be switching talk shows. Next, a child star from the same television era as Space Ghost, Danny Bonaduce, talks about his days with the Partridge family and his deep-seated hatred for Osmonds.",
-        "title_suggest": {
-            "input": [
-                "Gum, Disease",
-                "Disease"
-            ]
-        },
-        "type": "episode",
-        "title": "Gum, Disease",
-        "expiration_date": 1628654340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 734.9676343,
-        "episode_number": "10",
-        "original_air_date": 903151800,
-        "clip_order": null,
-        "auth_launch_date": 1655265600,
-        "modified": 1654848377,
-        "airing_id": "RADS1006092200005406",
-        "media_id": "8695509a18e8760496676df43551d1150a6e8fac",
-        "id": "_E1IiElhT3yTkFA5M5_Osw",
-        "slug": "gum-disease",
-        "views": 38527,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_2041794964-sgc2c_9410_dst_cid-9105445.jpg",
-        "created": 1402945476,
-        "title_id": "322742",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1654848377,
-        "tags": [
-            "space ghost coast to coast c2c gum disease episode 10"
-        ],
-        "rating_count": 276,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1625630400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041794964-sgc2c_9410_dst_cid-9105445.jpg",
+        "launch_date": 1627444800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417951499-sgc2c_9505_dst_cid-9105374.jpg",
         "cma_id": ""
     },
     {
@@ -792,58 +729,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1449870660,
-        "auth_expiration_date": 1657079940,
-        "tms_id": "EP001022180064",
-        "rating": 9.38843,
-        "description": "\"Beavis and Butthead\" and \"King of the Hill\" creator Mike Judge kindly asks Space Ghost to \"whack the Rugrats.\" Space Ghost agrees to the job, as long as he can get onto one of Judge's shows. Harland Williams doesn't last long after calling Space Ghost \"Billy\" and \"Naughty Space Ghost.\"",
-        "title_suggest": {
-            "input": [
-                "Sphinx"
-            ]
-        },
-        "type": "episode",
-        "title": "Sphinx",
-        "expiration_date": 1643777940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 675.98,
-        "episode_number": "14",
-        "original_air_date": 896499000,
-        "clip_order": null,
-        "auth_launch_date": 1655870400,
-        "modified": 1655446514,
-        "airing_id": "RADS1006162200007222",
-        "media_id": "44175c79d87b23e2b1142a95d35703a97b04a8aa",
-        "id": "qI9WrMu-SmOL7_usY2P_7w",
-        "slug": "sphinx",
-        "views": 36493,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201132443-sgc2c_9714_air_cid-9268247.jpg",
-        "created": 1402945476,
-        "title_id": "322338",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1655446514,
-        "tags": [
-            "space ghost coast to coast sgc2c episode 47 sphinx beavis butthead mike judge harland williams"
-        ],
-        "rating_count": 121,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1640754000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201132443-sgc2c_9714_air_cid-9268247.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1449258420,
         "auth_expiration_date": 1657684740,
         "tms_id": "EP001022180105",
@@ -897,6 +782,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1448047020,
+        "auth_expiration_date": 1655870340,
+        "tms_id": "EP001022180002",
+        "rating": 7.7670684,
+        "description": "A mysterious villain kidnaps Moltar and Space Ghost must solicit the help of Adam West, Lee Meriweather and Eartha Kitt, all from the \"Batman\"television series, in an effort to save him. And...holy exoskeleton, Space Ghost, it's Zorak as Batmantis!",
+        "title_suggest": {
+            "input": [
+                "Batmantis"
+            ]
+        },
+        "type": "episode",
+        "title": "Batmantis",
+        "expiration_date": 1660103940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 655.3003003,
+        "episode_number": "8",
+        "original_air_date": 926132400,
+        "clip_order": null,
+        "auth_launch_date": 1654056000,
+        "modified": 1656655605,
+        "airing_id": "RADS1006302200011548",
+        "media_id": "5e5084b9cdd63a041cf52ea274b09887b6352665",
+        "id": "rLMuUOGATju6Q5oQuigI7g",
+        "slug": "batmantis",
+        "views": 46529,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417948127-sgc2c_9408_dst_cid-9129902.jpg",
+        "created": 1402945476,
+        "title_id": "322740",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1656655605,
+        "tags": [
+            "space ghost coast to coast c2c batmantis episode 8"
+        ],
+        "rating_count": 249,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1657080000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948127-sgc2c_9408_dst_cid-9129902.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "Learn how to win any argument.",
         "title_suggest": {
@@ -936,6 +873,59 @@
         "modified_by": "Dominique Barfield",
         "launch_date": 1474391840,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/shut-up/homepage_cnplanet_Shutup.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1450888860,
+        "auth_expiration_date": 1658289540,
+        "tms_id": "EP001022180024",
+        "rating": 8.302325,
+        "description": "The writing and production staff of \"Space Ghost Coast to Coast\" join voice talents C. Martin Croker (Zorak and Moltar) and George Lowe (Space Ghost) to read through a script of an episode entitled \"Fire Ant.\"",
+        "title_suggest": {
+            "input": [
+                "Table Read",
+                "Read"
+            ]
+        },
+        "type": "episode",
+        "title": "Table Read",
+        "expiration_date": 1649217540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 742.0667334,
+        "episode_number": "6",
+        "original_air_date": 943853400,
+        "clip_order": null,
+        "auth_launch_date": 1657080000,
+        "modified": 1656653499,
+        "airing_id": "RADS1006302200011573",
+        "media_id": "e5284107c27d4fad68696c45d4a44f282f35c941",
+        "id": "xBHq5dNHRhSWjRLxgRMYXg",
+        "slug": "table-read",
+        "views": 32793,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201155507-sgc2c_9906_dst_cid-9156025.jpg",
+        "created": 1402945476,
+        "title_id": "332689",
+        "season_number": "6",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1656653499,
+        "tags": [
+            "Space Ghost Episode 74 Table Read"
+        ],
+        "rating_count": 86,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1646197200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201155507-sgc2c_9906_dst_cid-9156025.jpg",
         "cma_id": ""
     }
 ]
