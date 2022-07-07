@@ -405,6 +405,55 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1637816340,
+        "tms_id": "",
+        "description": "Gary and his brain trust bring radical changes to old-fashioned soul collecting.",
+        "title_suggest": {
+            "input": [
+                "The Party Hole",
+                "Party Hole",
+                "Hole"
+            ]
+        },
+        "title": "The Party Hole",
+        "expiration_date": 1660190340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 655,
+        "episode_number": "5",
+        "original_air_date": 1558152000,
+        "auth_launch_date": 1634788800,
+        "clip_order": null,
+        "media_id": "a9ba3c53fd1288034711663f8469ca3a40bc0323",
+        "modified": 1656739708,
+        "airing_id": "RADS1006302200011724",
+        "slug": "the-party-hole",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15580247557034.jpg",
+        "created": 1556816438,
+        "season_number": "4",
+        "title_id": "2191443",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1656739708,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1657166400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
+        "id": "AWp5faU7AScUIg8XxfZ_",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Gary tracks down a delicious surprise.",
@@ -713,7 +762,7 @@
         "cma_id": "1458430"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1494268140,
         "auth_expiration_date": 1660190340,
         "tms_id": "EP013726210033",
@@ -810,58 +859,6 @@
         "launch_date": 1652328000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/lee/yourprettyface_312_dup-20170413.jpg",
         "cma_id": "2108957"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1491321300,
-        "auth_expiration_date": 1657166340,
-        "tms_id": "EP013726210028",
-        "description": "After Troy loses Satan's trust, Eddie gets his shot at proving he has what it takes to become a demon.",
-        "title_suggest": {
-            "input": [
-                "Eddie the Demon",
-                "the Demon",
-                "Demon"
-            ]
-        },
-        "create_in_collection": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "title": "Eddie the Demon",
-        "type": "episode",
-        "expiration_date": 1654142340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 676.4587156,
-        "episode_number": "7",
-        "original_air_date": 1491190200,
-        "clip_order": null,
-        "auth_launch_date": 1654142400,
-        "modified": 1653858539,
-        "media_id": "c40f8b30096b74ac95a10be451c50825cfc2939b",
-        "airing_id": "RADS1004232200092039",
-        "id": "ndk8ICzxTeSxtkFa3p4KOA",
-        "slug": "eddie-the-demon",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1491232429,
-        "season_number": "3",
-        "title_id": "2108952",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1653858539,
-        "first_published": 1491232429,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1651118400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/eddie-the-demon/yourprettyface_ep307_001_Eddie_Gets_A_Promotion0.jpg",
-        "cma_id": "2108952"
     },
     {
         "auth": false,
