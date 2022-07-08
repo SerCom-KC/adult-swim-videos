@@ -2,41 +2,53 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 8, 2022 at 16:00:27 EDT_
+_Last Update: July 8, 2022 at 16:30:25 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-344090 Cowboy Bebop: 4  
-### 344092
-**Cowboy Bebop S01E02 - Stray Dog Strut**  
-TV-14-LV 🔓 21:06  
-⌛ July 10, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/cowboy-bebop/stray-dog-strut  
-seriesid=`344090` titleid=`344092` id=`6I2xCMiTSfyVS-VNJHGFKw` mediaid=`a1a068b5fc6a0b88b6c9d23780c5d72d65a973cc`  
-_Spike and Jet are hired to recover an unusual item that has been stolen from a research laboratory. Spike is led on a wild chase, first by the thief...and then by the item itself!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331024248-cowboybebop_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331024248-cowboybebop_102.jpg" height="144px" /></a>
-### 344091
-**Cowboy Bebop S01E01 - Asteroid Blues**  
-TV-14-LV 🔓 22:52  
-⌛ July 10, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/cowboy-bebop/asteroid-blues  
-seriesid=`344090` titleid=`344091` id=`XagHOmK_TJiJf1451-sCLA` mediaid=`09b354fe6dd6f89f883558c3e87a7170ba857811`  
-_Jet and Spike must track down a dealer of "Red Eyes," a dangerous, addictive drug that induces berserker rages in its users. Can even Jet's strength stand up to the power of the drug?  And has Spike been swayed by the charms of a mother-to-be?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331023142-cowboybebop_101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331023142-cowboybebop_101.jpg" height="144px" /></a>
-### 344095
-**Cowboy Bebop S01E05 - Ballad of Fallen Angels**  
-TV-MA-LSV 🔓 22:08  
-⌛ July 10, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/cowboy-bebop/ballad-of-fallen-angels  
-seriesid=`344090` titleid=`344095` id=`m-nlnBq3TdCcPBJ7mFtIpw` mediaid=`2b75068647dc6315ebf997357824e692f7f9f124`  
-_Spike's past comes back to haunt him as he goes after a member of the Red Dragon Syndicate. But, as Jet soon learns, it's a setup. And in order for Spike to survive - and rescue the impetuous Faye as well - he will have to face his old friend and comrade, Vicious, alone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331025285-cowboybebop_105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331025285-cowboybebop_105.jpg" height="144px" /></a>
-### 344094
-**Cowboy Bebop S01E04 - Gateway Shuffle**  
-TV-MA-LS 🔓 22:47  
-⌛ July 10, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/cowboy-bebop/gateway-shuffle  
-seriesid=`344090` titleid=`344094` id=`ou-vV0VrQZ-mlHfzYBF0TA` mediaid=`81346f1fb7a02b2d6f3c72b1c2162bc64a77bbfa`  
-_Spike and Jet come up against an eco-terrorist group known as the "Space Warriors." Their leader is worth a cool 25 million, something Spike and Jet can't resist. But the group's leader has plans of her own, and if the government of Ganymede doesn't agree to her demands, she'll use an experimental virus on them all!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033102504-cowboybebop_104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033102504-cowboybebop_104.jpg" height="144px" /></a>
+2007823 Infomercials: 1  
+2161118 Joe Pera Talks With You: 1  
+340531 The Brak Show: 1  
+812206 Naruto: Shippuden: 1  
+862772 China, IL: 1  
+### 2007828
+**Infomercials S04E05 - Too Many Cooks**  
+TV-MA-V 🔓 11:09  
+⌛ July 12, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/infomercials/too-many-cooks  
+seriesid=`2007823` titleid=`2007828` id=`AXRP_SlULyLQBOXK_PM3` mediaid=`9ee755a88ccc7045ffa0ce17f670b77958cb3e3b`  
+_In this pilot episode we are introduced to the fun-loving Cook family. Starring Ken Delozier, Tara Ochs, and others. Created by Drew and Yvonne Asparagus and written and directed by Casper Kelly. "Too many cooks may spoil the broth, but they fill our hearts with love." Go to Hell._  
+<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg" height="144px" /></a>
+### 2106836
+**Joe Pera Talks With You S99E?? - Joe Pera Helps You Find The Perfect Christmas Tree**  
+TV-PG-D 🔓 22:34  
+⌛ July 11, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-helps-you-find-the-perfect-christmas-tree  
+seriesid=`2161118` titleid=`2106836` id=`AWNB0laKHAeP4-pUPfHY` mediaid=`399d20bb261c5ee2140ba89679e89fe1589a0a8e`  
+_Joe Pera provides the information necessary to choose the perfect Christmas Tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine, and the Concolor Fir._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg" height="144px" /></a>
+### 345421
+**The Brak Show S01E05 - Bawk Ba Gawk**  
+TV-PG 🔓 11:38  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
+seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
+_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
+### 2177766
+**Naruto: Shippuden S06E54 - The Izanami Activated**  
+TV-PG 🔒 21:51  
+⌛ July 13, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-izanami-activated  
+seriesid=`812206` titleid=`2177766` id=`AXiI5PZrDmGy9WFjRqqM` mediaid=`048b9bb16cc3c0a16fc29915a9881dc6f20e7bf9`  
+_Itachi declares that Kabuto's actions will not lead to what he truly desires and prepares the Uchiha's Ultimate Visual Jutsu that determines an adversary's fate!_  
+<a href="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311126471-narutoshippuden_337_IzanamiActivated.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311126471-narutoshippuden_337_IzanamiActivated.jpg" height="144px" /></a>
+### 2008007
+**China, IL S02E05 - Kenny Winker Rules**  
+TV-14-DLSV 🔓 22:33  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/china-il/kenny-winker-rules  
+seriesid=`862772` titleid=`2008007` id=`0w3vjB9YQsKyLd-y_N8Xnw` mediaid=`914dbf1f49211f1ab660cce4a0b2daaec775dd78`  
+_Rock & roll superstar Kenny Winker is coming to China, IL and giving away one ticket to hang out with him on his tour bus, The Garden of Hedon._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321646269-chinail_015_dup-20130909.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321646269-chinail_015_dup-20130909.jpg" height="144px" /></a>
