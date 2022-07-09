@@ -2,42 +2,94 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 9, 2022 at 00:00:26 EDT_
+_Last Update: July 9, 2022 at 00:30:26 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 2  
-### 2030321
-**Bob's Burgers S04E20 - Gene It On**  
-TV-14-DLV 🔒 21:31  
+581006 American Dad: 3  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+### 748167
+**American Dad S07E11 - Old Stan in the Mountain**  
+TV-14-DLSV 🔒 21:46  
 ⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/gene-it-on  
-seriesid=`2003422` titleid=`2030321` id=`wWlw54Z8TwmdAibq5WkgmQ` mediaid=`934a5df202b2d9c777f98a3dd91cf0f6256a9c28`  
-_Tina decides to try out for the cheerleading squad, but it's actually Gene who gets noticed in the crowd for his spirit and cheering ability. Meanwhile, during her cheer audition, Tina falls and bites her tongue, leaving her unable to speak - and a mischievous Louise steps up to be her translator._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg" height="144px" /></a>
-### 2030320
-**Bob's Burgers S04E19 - The Kids Run Away**  
-TV-PG-DLV 🔒 21:29  
+https://www.adultswim.com/videos/american-dad/old-stan-in-the-mountain  
+seriesid=`581006` titleid=`748167` id=`6neuw03KTQOvEUKRY1jKmw` mediaid=`d34a47f5acd96be4a50ce8d7cfb8b8e2ce0a8699`  
+_An old man places a hex on Stan, making him age at an alarming rate; Roger and Francine rehearse for a dance competition...but Roger has something up his sleeve._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312546044986.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312546044986.jpg" height="144px" /></a>
+### 748144
+**American Dad S07E12 - The Wrestler**  
+TV-14-DLSV 🔒 21:47  
 ⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-run-away  
-seriesid=`2003422` titleid=`2030320` id=`HitQgvSzThuAVR_UfR4vrg` mediaid=`1e654ff19406e44ebbb2203b6987b21a2c10ae58`  
-_Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/the-wrestler  
+seriesid=`581006` titleid=`748144` id=`nF04euNRRwCEaj8Ywu4Bzw` mediaid=`020a6c137f00aee0ed76b53ccde5e5af07e8cd7c`  
+_Stan panics when Barry comes close to toppling his longstanding wrestling record at Steve's school - and ends up teaching Roger how to wrestle so he can defeat Barry._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg" height="144px" /></a>
+### 748170
+**American Dad S07E10 - Wheels & the Legman and the Case of Grandpa's Key**  
+TV-14 🔒 21:17  
+⌛ July 15, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/wheels-the-legman-and-the-case-of-grandpas-key  
+seriesid=`581006` titleid=`748170` id=`3C6dEzh6Sre3UNL6TerUqg` mediaid=`fc94151d92fb4c135ac99f4728e909ffe360833e`  
+_Stan joins Wheels and the Legman as they attempt to solve a mystery involving a key; Klaus has his photo taken for a pet website._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312545635391.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312545635391.jpg" height="144px" /></a>
+### 2161615
+**Futurama S06E12 - Bender's Game Part 4**  
+TV-14-DV 🔒 22:31  
+⌛ July 15, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/benders-game-part-4  
+seriesid=`437532` titleid=`2161615` id=`AX7GUTT3208s7zyYUL-p` mediaid=`57130eed8a06a277edec63656b4e5b6d197af3be`  
+_When Farnsworth and the gang reach Momon's Lair, an all-out battle ensues over the anti-crystal._  
+<a href="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241458287-Futurama_612_BendersGame_Part4.png"><img src="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241458287-Futurama_612_BendersGame_Part4.png" height="144px" /></a>
+### 731249
+**King of the Hill S03E07 - Nine Pretty Darn Angry Men**  
+TV-PG-DL 🔒 23:23  
+⌛ July 15, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/nine-pretty-darn-angry-men  
+seriesid=`629835` titleid=`731249` id=`TtBc8uU9RDaVsEdn4YAoqg` mediaid=`26731042a8c151df85fea5a1ec3c2a759d528798`  
+_On the day after Thanksgiving... Hank attends a lawn mower focus group._  
+<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761719258-KingOfTheHill_308_NinePrettyDarnAngryMen.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761719258-KingOfTheHill_308_NinePrettyDarnAngryMen.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-### 2030312
-**Bob's Burgers S04E10 - Presto Tina-O**  
-TV-PG 🔒 21:19  
+437532 Futurama: 1  
+581006 American Dad: 3  
+629835 King of the Hill: 1  
+### 2161612
+**Futurama S06E09 - Bender's Game Part 1**  
+TV-14-DLV 🔒 22:32  
 ⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/presto-tina-o  
-seriesid=`2003422` titleid=`2030312` id=`a3omBXSlQo6tXn-uAY3Qbw` mediaid=`705586d67a09cc1167d7c48e17ac064c32631814`  
-_Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's "curse."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg" height="144px" /></a>
-### 2030649
-**Bob's Burgers S04E09 - Slumber Party**  
- 🔒 21:33  
+https://www.adultswim.com/videos/futurama/benders-game-part-1  
+seriesid=`437532` titleid=`2161612` id=`AX6dVsFb_0O4w1rD3Rg9` mediaid=`c19a3e2d3516f1ec91f73d8acafe6eaadcd47bab`  
+_When Leela loses her cool over some redneck bullies, Farnsworth orders her to wear an electrical collar to help control her temper; and Bender loses his mind over Dungeons and Dragons._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png" height="144px" /></a>
+### 822212
+**American Dad S06E13 - I Am the Walrus**  
+TV-14 🔒 21:47  
 ⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/slumber-party  
-seriesid=`2003422` titleid=`2030649` id=`x-ralBNsSuSW3Y2LnDqIkA` mediaid=`6975057a09e0d3e1aea551ba2e90afde1c64d6c3`  
-_When Linda realizes that Louise has never had a sleepover, she throws her a surprise slumber party, much to Louise's chagrin. After Louise's repeated attempts to escape are thwarted, she decides to sabotage the party by eliminating the girls one by one. But she may have met her match in Jessica._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/i-am-the-walrus  
+seriesid=`581006` titleid=`822212` id=`Du6G4iljT02OZdbvI5Dn0g` mediaid=`2be39a0d40bdb59fac2f3bf0830062cd3636eede`  
+_Stan resorts to extreme and cruel measures to humiliate Steve and maintain his alpha-male status in the house, and Hayley and Jeff turn to Principal Lewis for marriage counseling._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296797543646.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296797543646.jpg" height="144px" /></a>
+### 822214
+**American Dad S06E12 - You Debt Your Life**  
+TV-14 🔒 21:47  
+⌛ July 8, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/you-debt-your-life  
+seriesid=`581006` titleid=`822214` id=`oOrIilB-Q2iiP_K7Td5iOg` mediaid=`ad84de6337ae3e7697a8b9129d5c46bafc104719`  
+_Roger moves out of the house when he finds out that Stan only let him live there because Roger had saved his life years ago at Area 51.  Francine gets Roger to come back home, only to find that Stan has rented out Roger's attic to a new tenant - Andy Dick.  Now Roger must find a way to convince Stan to take him back and get rid of Andy Dick.  Meanwhile, Steve gets asked to read the daily announcements at school._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152959222918615.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152959222918615.jpg" height="144px" /></a>
+### 748156
+**American Dad S06E14 - School Lies**  
+TV-14 🔒 21:46  
+⌛ July 8, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/school-lies  
+seriesid=`581006` titleid=`748156` id=`ubhWuJrdT-OoIvmlMZ-2MA` mediaid=`efefc0c63e605c512e03a10932659554800f8f8c`  
+_Overlooked for promotion for twenty years, Stan decides to woo the Senator who supervises the CIA task force. Stan makes Steve go to the same private academy as the Senator’s daughter, but Steve ditches school and Roger takes his place._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967984842812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967984842812.jpg" height="144px" /></a>
+### 728861
+**King of the Hill S03E02 - And They Call it Bobby Love**  
+TV-PG 🔒 23:23  
+⌛ July 8, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/and-they-call-it-bobby-love  
+seriesid=`629835` titleid=`728861` id=`T4fZhtkcSxqERx4AhDHHbw` mediaid=`a030643f7a1ed33b61543ea5356870a12f1f69a1`  
+_Bobby falls head-over-heels for a classmate.  Hank and his friends discover an abandoned couch in the alleyway where they normally stand and drink beer._  
+<a href="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png"><img src="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png" height="144px" /></a>
