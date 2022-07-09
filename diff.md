@@ -2,35 +2,42 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 8, 2022 at 21:00:26 EDT_
+_Last Update: July 9, 2022 at 00:00:26 EDT_
 ## Video added
 ### Summary
-2007823 Infomercials: 1  
-340531 The Brak Show: 1  
-### 2007828
-**Infomercials S04E05 - Too Many Cooks**  
-TV-MA-V 🔓 11:09  
-⌛ July 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/too-many-cooks  
-seriesid=`2007823` titleid=`2007828` id=`AXRP_SlULyLQBOXK_PM3` mediaid=`9ee755a88ccc7045ffa0ce17f670b77958cb3e3b`  
-_In this pilot episode we are introduced to the fun-loving Cook family. Starring Ken Delozier, Tara Ochs, and others. Created by Drew and Yvonne Asparagus and written and directed by Casper Kelly. "Too many cooks may spoil the broth, but they fill our hearts with love." Go to Hell._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg" height="144px" /></a>
-### 345421
-**The Brak Show S01E05 - Bawk Ba Gawk**  
-TV-PG 🔓 11:38  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
-seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
-_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 2  
+### 2030321
+**Bob's Burgers S04E20 - Gene It On**  
+TV-14-DLV 🔒 21:31  
+⌛ July 15, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/gene-it-on  
+seriesid=`2003422` titleid=`2030321` id=`wWlw54Z8TwmdAibq5WkgmQ` mediaid=`934a5df202b2d9c777f98a3dd91cf0f6256a9c28`  
+_Tina decides to try out for the cheerleading squad, but it's actually Gene who gets noticed in the crowd for his spirit and cheering ability. Meanwhile, during her cheer audition, Tina falls and bites her tongue, leaving her unable to speak - and a mischievous Louise steps up to be her translator._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg" height="144px" /></a>
+### 2030320
+**Bob's Burgers S04E19 - The Kids Run Away**  
+TV-PG-DLV 🔒 21:29  
+⌛ July 15, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-kids-run-away  
+seriesid=`2003422` titleid=`2030320` id=`HitQgvSzThuAVR_UfR4vrg` mediaid=`1e654ff19406e44ebbb2203b6987b21a2c10ae58`  
+_Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2161118 Joe Pera Talks With You: 1  
-### 2106836
-**Joe Pera Talks With You S99E?? - Joe Pera Helps You Find The Perfect Christmas Tree**  
-TV-PG-D 🔓 22:34  
-⌛ July 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-helps-you-find-the-perfect-christmas-tree  
-seriesid=`2161118` titleid=`2106836` id=`AWNB0laKHAeP4-pUPfHY` mediaid=`399d20bb261c5ee2140ba89679e89fe1589a0a8e`  
-_Joe Pera provides the information necessary to choose the perfect Christmas Tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine, and the Concolor Fir._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 2  
+### 2030312
+**Bob's Burgers S04E10 - Presto Tina-O**  
+TV-PG 🔒 21:19  
+⌛ July 8, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/presto-tina-o  
+seriesid=`2003422` titleid=`2030312` id=`a3omBXSlQo6tXn-uAY3Qbw` mediaid=`705586d67a09cc1167d7c48e17ac064c32631814`  
+_Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's "curse."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg" height="144px" /></a>
+### 2030649
+**Bob's Burgers S04E09 - Slumber Party**  
+ 🔒 21:33  
+⌛ July 8, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/slumber-party  
+seriesid=`2003422` titleid=`2030649` id=`x-ralBNsSuSW3Y2LnDqIkA` mediaid=`6975057a09e0d3e1aea551ba2e90afde1c64d6c3`  
+_When Linda realizes that Louise has never had a sleepover, she throws her a surprise slumber party, much to Louise's chagrin. After Louise's repeated attempts to escape are thwarted, she decides to sabotage the party by eliminating the girls one by one. But she may have met her match in Jessica._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg" height="144px" /></a>
