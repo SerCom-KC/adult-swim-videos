@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 10, 2022 at 18:30:27 EDT_
+_Last Update: July 10, 2022 at 19:00:26 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-### 2205121
-**Black Clover S02E44 - Reincarnation**  
- 🔒 21:10  
-⌛ July 14, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/reincarnation  
-seriesid=`2143080` titleid=`2205121` id=`AW4S8cOhadNs2hMNfuXq` mediaid=`f5087c43d38164bf5182f21d285fd10d91a98226`  
-_A look into the origins of Licht's hatred of humans and the complicated ways by which the Third Eye, and Licht as he is today, came to be._  
-<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117381-BlackClover_095.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117381-BlackClover_095.jpg" height="144px" /></a>
+2073005 Neon Joe: 1  
+### 2073007
+**Neon Joe S01E02 - Neon Nights**  
+TV-14-DLV 🔓 22:34  
+⌛ July 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/neon-joe/neon-nights  
+seriesid=`2073005` titleid=`2073007` id=`6OepLmU4RdqwzCnrR1NFmA` mediaid=`fec5236d39d41bf4a55bca50ac7986f96f718ca2`  
+_It is revealed that Neon Joe authored a series of erotica novels many years ago._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144261-neonjoe_102_dup-20150929.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121144261-neonjoe_102_dup-20150929.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-581268 Squidbillies: 1  
-### 2108972
-**Squidbillies S11E08 - Duel of the Dimwits**  
-TV-MA 🔒 11:16  
-⌛ July 10, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/duel-of-the-dimwits  
-seriesid=`581268` titleid=`2108972` id=`AWAVsnhlZ-onAnjDLtVd` mediaid=`23f9e55fd98bc98bfc87e8906e66d2b4ad40f8cf`  
-_Two idiots argue about stuff nobody cares about._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg" height="144px" /></a>
+No videos were removed.  
