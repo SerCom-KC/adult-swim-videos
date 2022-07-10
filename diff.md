@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 10, 2022 at 05:30:24 EDT_
+_Last Update: July 10, 2022 at 06:00:25 EDT_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2363832
-**One Piece S15E47 - Back to Zero! Earnest Wishes for Luffy!**  
-TV-PG 🔒 22:12  
-⌛ July 31, 2022 at 04:59:00 EDT  
-https://www.adultswim.com/videos/one-piece/back-to-zero-earnest-wishes-for-luffy  
-seriesid=`608007` titleid=`2363832` id=`AYHT3N5n3sQvipyea9Vh` mediaid=`89fc15b4de4f30516190b76d611e484fcaa2af14`  
-_Hordy's twisted past takes center stage in a Fish-Man flashback. Meanwhile, Shirahoshi's brother begs Luffy to save his believed homeland and wipe out the anti-human element!_  
-<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761722427-OnePiece_564_BackToZeroEarnestWishesForLuffy.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761722427-OnePiece_564_BackToZeroEarnestWishesForLuffy.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177829
+**Naruto: Shippuden S07E51 - Demon Desert Survival**  
+TV-PG 🔒 21:51  
+⌛ October 23, 2022 at 05:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/demon-desert-survival  
+seriesid=`812206` titleid=`2177829` id=`AYHT3QhI3sQvipyea9Vi` mediaid=`16ea69486f4d6da0278db9f6d3995ed6059c94c9`  
+_The Second Exam finally begins! To pass this stage, each team must take possession of both the Heaven and Earth scrolls and make it to the designated site in the center of the Demon Desert within 72 hours._  
+<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_2276172419-NarutoShippuden_399_DemonDesertSurvival.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_2276172419-NarutoShippuden_399_DemonDesertSurvival.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
