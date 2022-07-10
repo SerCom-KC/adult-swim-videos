@@ -2,94 +2,58 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 9, 2022 at 00:30:26 EDT_
+_Last Update: July 10, 2022 at 00:00:28 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 3  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-### 748167
-**American Dad S07E11 - Old Stan in the Mountain**  
-TV-14-DLSV 🔒 21:46  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/old-stan-in-the-mountain  
-seriesid=`581006` titleid=`748167` id=`6neuw03KTQOvEUKRY1jKmw` mediaid=`d34a47f5acd96be4a50ce8d7cfb8b8e2ce0a8699`  
-_An old man places a hex on Stan, making him age at an alarming rate; Roger and Francine rehearse for a dance competition...but Roger has something up his sleeve._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312546044986.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312546044986.jpg" height="144px" /></a>
-### 748144
-**American Dad S07E12 - The Wrestler**  
+### 748165
+**American Dad S07E13 - Dr. Klaustus**  
 TV-14-DLSV 🔒 21:47  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-wrestler  
-seriesid=`581006` titleid=`748144` id=`nF04euNRRwCEaj8Ywu4Bzw` mediaid=`020a6c137f00aee0ed76b53ccde5e5af07e8cd7c`  
-_Stan panics when Barry comes close to toppling his longstanding wrestling record at Steve's school - and ends up teaching Roger how to wrestle so he can defeat Barry._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg" height="144px" /></a>
-### 748170
-**American Dad S07E10 - Wheels & the Legman and the Case of Grandpa's Key**  
-TV-14 🔒 21:17  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/wheels-the-legman-and-the-case-of-grandpas-key  
-seriesid=`581006` titleid=`748170` id=`3C6dEzh6Sre3UNL6TerUqg` mediaid=`fc94151d92fb4c135ac99f4728e909ffe360833e`  
-_Stan joins Wheels and the Legman as they attempt to solve a mystery involving a key; Klaus has his photo taken for a pet website._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312545635391.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312545635391.jpg" height="144px" /></a>
-### 2161615
-**Futurama S06E12 - Bender's Game Part 4**  
-TV-14-DV 🔒 22:31  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/benders-game-part-4  
-seriesid=`437532` titleid=`2161615` id=`AX7GUTT3208s7zyYUL-p` mediaid=`57130eed8a06a277edec63656b4e5b6d197af3be`  
-_When Farnsworth and the gang reach Momon's Lair, an all-out battle ensues over the anti-crystal._  
-<a href="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241458287-Futurama_612_BendersGame_Part4.png"><img src="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241458287-Futurama_612_BendersGame_Part4.png" height="144px" /></a>
-### 731249
-**King of the Hill S03E07 - Nine Pretty Darn Angry Men**  
-TV-PG-DL 🔒 23:23  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/nine-pretty-darn-angry-men  
-seriesid=`629835` titleid=`731249` id=`TtBc8uU9RDaVsEdn4YAoqg` mediaid=`26731042a8c151df85fea5a1ec3c2a759d528798`  
-_On the day after Thanksgiving... Hank attends a lawn mower focus group._  
-<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761719258-KingOfTheHill_308_NinePrettyDarnAngryMen.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761719258-KingOfTheHill_308_NinePrettyDarnAngryMen.png" height="144px" /></a>
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/dr-klaustus  
+seriesid=`581006` titleid=`748165` id=`ojhZKE61QxmNVM244Vfh9g` mediaid=`78264e6442dd4f8a27f735273f857642745906db`  
+_After tricking Roger into going to Iraq, Klaus assumes the role of the Smiths' psychologist, but his emphasis on emotional honesty backfires._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193228141.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193228141.jpg" height="144px" /></a>
+### 748155
+**American Dad S07E15 - Less Money, Mo' Problems**  
+TV-14-DLSV 🔒 21:47  
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/less-money-mo-problems  
+seriesid=`581006` titleid=`748155` id=`VJ3Hn0o-TJGGdvSs9gjJSQ` mediaid=`72d9141ef39d2454e02846452ec757824bdbd37f`  
+_Stan bets Jeff and Hayley that he and Fran can live on minimum wage for one month; Roger and Steve test-drive a Ferrari after Klaus brags about having driven one._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312555106302.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312555106302.jpg" height="144px" /></a>
+### 748173
+**American Dad S07E14 - Stan's Best Friend**  
+TV-14-DLSV 🔒 21:47  
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stans-best-friend  
+seriesid=`581006` titleid=`748173` id=`b-WsPbuLQXWACdZr89HWww` mediaid=`48b84501f04de04164de330d6041424cf9b67b94`  
+_When Steve's new puppy is gravely injured, Stan attempts to save the dog using a doctor who specializes in alternative medicine._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125521336317.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125521336317.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-437532 Futurama: 1  
 581006 American Dad: 3  
-629835 King of the Hill: 1  
-### 2161612
-**Futurama S06E09 - Bender's Game Part 1**  
-TV-14-DLV 🔒 22:32  
-⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/benders-game-part-1  
-seriesid=`437532` titleid=`2161612` id=`AX6dVsFb_0O4w1rD3Rg9` mediaid=`c19a3e2d3516f1ec91f73d8acafe6eaadcd47bab`  
-_When Leela loses her cool over some redneck bullies, Farnsworth orders her to wear an electrical collar to help control her temper; and Bender loses his mind over Dungeons and Dragons._  
-<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png" height="144px" /></a>
-### 822212
-**American Dad S06E13 - I Am the Walrus**  
+### 748158
+**American Dad S06E17 - Home Wrecker**  
 TV-14 🔒 21:47  
-⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/i-am-the-walrus  
-seriesid=`581006` titleid=`822212` id=`Du6G4iljT02OZdbvI5Dn0g` mediaid=`2be39a0d40bdb59fac2f3bf0830062cd3636eede`  
-_Stan resorts to extreme and cruel measures to humiliate Steve and maintain his alpha-male status in the house, and Hayley and Jeff turn to Principal Lewis for marriage counseling._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296797543646.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296797543646.jpg" height="144px" /></a>
-### 822214
-**American Dad S06E12 - You Debt Your Life**  
-TV-14 🔒 21:47  
-⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/you-debt-your-life  
-seriesid=`581006` titleid=`822214` id=`oOrIilB-Q2iiP_K7Td5iOg` mediaid=`ad84de6337ae3e7697a8b9129d5c46bafc104719`  
-_Roger moves out of the house when he finds out that Stan only let him live there because Roger had saved his life years ago at Area 51.  Francine gets Roger to come back home, only to find that Stan has rented out Roger's attic to a new tenant - Andy Dick.  Now Roger must find a way to convince Stan to take him back and get rid of Andy Dick.  Meanwhile, Steve gets asked to read the daily announcements at school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152959222918615.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152959222918615.jpg" height="144px" /></a>
-### 748156
-**American Dad S06E14 - School Lies**  
+⌛ July 9, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/home-wrecker  
+seriesid=`581006` titleid=`748158` id=`DCrfx3pmSmOmMr4jCMrF4g` mediaid=`b3b35fb96d66840fff4b41632307b212ae7d19eb`  
+_Stan and Francine fight over how to redecorate the house. It goes so far that they split the house down the middle and try to live without each other._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002614929913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002614929913.jpg" height="144px" /></a>
+### 748161
+**American Dad S06E16 - Jenny Fromdabloc**  
+TV-14 🔒 21:41  
+⌛ July 9, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/jenny-fromdabloc  
+seriesid=`581006` titleid=`748161` id=`NZO346jOQv2UKObAIyt4vQ` mediaid=`0cd0eac044c68897359754d5f8ecfc8bb227e426`  
+_After Snot professes his love for Hayley and gets shot down, Steve and Roger devise a plan to cheer him up. Roger dresses up as Steve's cousin from New Jersey, Jenny Fromdabloc, and Snot falls hard for her._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994764310111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994764310111.jpg" height="144px" /></a>
+### 748157
+**American Dad S06E15 - License to Till**  
 TV-14 🔒 21:46  
-⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/school-lies  
-seriesid=`581006` titleid=`748156` id=`ubhWuJrdT-OoIvmlMZ-2MA` mediaid=`efefc0c63e605c512e03a10932659554800f8f8c`  
-_Overlooked for promotion for twenty years, Stan decides to woo the Senator who supervises the CIA task force. Stan makes Steve go to the same private academy as the Senator’s daughter, but Steve ditches school and Roger takes his place._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967984842812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967984842812.jpg" height="144px" /></a>
-### 728861
-**King of the Hill S03E02 - And They Call it Bobby Love**  
-TV-PG 🔒 23:23  
-⌛ July 8, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/and-they-call-it-bobby-love  
-seriesid=`629835` titleid=`728861` id=`T4fZhtkcSxqERx4AhDHHbw` mediaid=`a030643f7a1ed33b61543ea5356870a12f1f69a1`  
-_Bobby falls head-over-heels for a classmate.  Hank and his friends discover an abandoned couch in the alleyway where they normally stand and drink beer._  
-<a href="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png"><img src="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png" height="144px" /></a>
+⌛ July 9, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/license-to-till  
+seriesid=`581006` titleid=`748157` id=`dz3vS03bSnmzfl1QM1kY7g` mediaid=`c5a113a156594c9dbd8d3a692c36e5e3906b5e41`  
+_When Steve has trouble crossing over into the "cool kids" social circle, Klaus and Roger place their bets to see how quickly Roger can make him cool._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299475608909.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299475608909.jpg" height="144px" /></a>
