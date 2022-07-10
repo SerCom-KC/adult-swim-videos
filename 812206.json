@@ -46,52 +46,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1657448940,
-        "tms_id": "EP034917240273",
-        "description": "The Divine Tree is close to blossoming, and Madara declares that there is only 15 minutes left before everything comes to an end.",
-        "title_suggest": {
-            "input": [
-                "A Shinobi's Dream",
-                "Shinobi's Dream",
-                "Dream"
-            ]
-        },
-        "title": "A Shinobi's Dream",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-        "duration": 1310.9763,
-        "episode_number": "34",
-        "original_air_date": "1648364400",
-        "auth_launch_date": 1648377000,
-        "clip_order": null,
-        "airing_id": "RADS1003242200081287",
-        "media_id": "0fa40f99a5e191f47f497202b741e56825a0cca7",
-        "modified": 1657021316,
-        "slug": "a-shinobis-dream",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221449269-NarutoShippuden_382_AShinobisDream.png",
-        "created": 1647974975,
-        "season_number": "7",
-        "title_id": "2177812",
-        "tv_rating": "tv-pg",
-        "published": 1657021316,
-        "tags": [],
-        "collection_title": "Naruto: Shippuden",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221449269-NarutoShippuden_382_AShinobisDream.png",
-        "id": "AX-y9ohg208s7zyYUMZl",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1666088940,
         "tms_id": "EP034917240195",
         "description": "The barrier is shattered, and Ten Tails appears! With unfathomable power in its attack, it sends shock waves through the air.",
@@ -137,6 +91,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191138155-NarutoShippuden_363_TheAlliedShinobiForcesJutsu.png",
         "id": "AX0qjc3AUQa40cfnRSsR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1667188799,
+        "tms_id": "EP034917240197",
+        "description": "Shikaku outlines his final strategy, in which Nine Tails will send its chakra to increase everyone's strength. United in their cause, Naruto and the Allied Shinobi set out to take on Ten Tails.",
+        "title_suggest": {
+            "input": [
+                "Those Who Dance in the Shadows",
+                "Who Dance in the Shadows",
+                "Dance in the Shadows",
+                "in the Shadows",
+                "the Shadows",
+                "Shadows"
+            ]
+        },
+        "title": "Those Who Dance in the Shadows",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1312.8782,
+        "episode_number": "17",
+        "original_air_date": "1639292400",
+        "auth_launch_date": 1657449000,
+        "clip_order": null,
+        "airing_id": "RADS1007042200011824",
+        "media_id": "ba9cf317247873809137a8d241d2ee568f143b78",
+        "modified": 1657021314,
+        "slug": "those-who-dance-in-the-shadows",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png",
+        "created": 1639150669,
+        "season_number": "7",
+        "title_id": "2177794",
+        "tv_rating": "tv-pg-lv",
+        "published": 1657021314,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101037371-NarutoShippuden_365_ThoseWhoDanceInTheShadows.png",
+        "id": "AX2k_k1UUQa40cfnRS7U",
         "auth": true
     },
     {
