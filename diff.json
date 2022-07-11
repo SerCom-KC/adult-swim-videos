@@ -1,7 +1,6 @@
 {
-    "updated": 1657567825,
-    "added": [],
-    "removed": [
+    "updated": 1657575026,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1657598399,
@@ -32,7 +31,7 @@
             "auth_launch_date": 1649131200,
             "clip_order": null,
             "media_id": "6d770d2501f17778440043d4dcae44b27da9f260",
-            "modified": 1654618473,
+            "modified": 1657573597,
             "airing_id": "RADS1003302200083687",
             "slug": "joe-pera-helps-you-write",
             "exclude_from_search": false,
@@ -43,7 +42,7 @@
             "tv_rating": "tv-pg",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1654618473,
+            "published": 1657573597,
             "tags": [],
             "collection_title": "Joe Pera Talks With You",
             "disable_ads": false,
@@ -90,7 +89,7 @@
             "auth_launch_date": 1647403200,
             "clip_order": null,
             "media_id": "5619e28e43ec57b5806a5626571d72499f8ab65a",
-            "modified": 1654621182,
+            "modified": 1657573596,
             "airing_id": "RADS1003122200078699",
             "id": "AWLfco7THAeP4-pUPegJ",
             "slug": "joe-pera-reads-you-the-church-announcements",
@@ -102,7 +101,7 @@
             "tv_rating": "tv-pg-l",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1654621182,
+            "published": 1657573596,
             "tags": [],
             "collection_title": "Joe Pera Talks With You",
             "disable_ads": false,
@@ -113,5 +112,6 @@
             "collection_title_id": "2161118",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
