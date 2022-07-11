@@ -1,6 +1,57 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1446739860,
+        "auth_expiration_date": 1602129540,
+        "tms_id": "EP015632430008",
+        "rating": 8.368841,
+        "description": "Eric interviews Beyonce, JayZ and Robert Forster.",
+        "title_suggest": {
+            "input": [
+                "J-Mo"
+            ]
+        },
+        "type": "episode",
+        "title": "J-Mo",
+        "expiration_date": 1660535940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 676.9009009,
+        "episode_number": "7",
+        "original_air_date": 1341808200,
+        "clip_order": null,
+        "auth_launch_date": 1599105600,
+        "modified": 1657318348,
+        "media_id": "6b8842de9e77333d6a5eb93965e9ae11b41cd9d0",
+        "airing_id": "RADS1007082200012559",
+        "id": "0H1wpZnqTt6kICr-pzVFHw",
+        "slug": "j-mo",
+        "views": 146851,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034169464-ericandre_108_dup-20120706.jpg",
+        "created": 1402945479,
+        "title_id": "895956",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1657318348,
+        "tags": [],
+        "rating_count": 1643,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1657512000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034169464-ericandre_108_dup-20120706.jpg",
+        "cma_id": "1435345"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1446739980,
         "auth_expiration_date": 1599710340,
         "tms_id": "EP015632430007",
@@ -574,54 +625,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1657511940,
-        "tms_id": "",
-        "description": "Eric welcomes Luis Guzm\u00e1n and Tia Carrere. Felipe Esparza hangs out. Mike Penis returns with a guest list of his own! JPEGMAFIA, Lil Yachty, MURS, Trippie Redd and Zack Fox on a new Rapper Warrior Ninja.",
-        "title_suggest": {
-            "input": [
-                "Named After My Dad's Penis",
-                "After My Dad's Penis",
-                "My Dad's Penis",
-                "Dad's Penis",
-                "Penis"
-            ]
-        },
-        "title": "Named After My Dad's Penis",
-        "expiration_date": 1654487940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1654488000,
-        "clip_order": null,
-        "airing_id": "RADS1004282200093402",
-        "media_id": "dac345dc57549a17c2d38edad9eef09c3e88bba0",
-        "modified": 1654280779,
-        "slug": "named-after-my-dads-penis",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161720229-ericandre_506_dup-20200910.jpg",
-        "created": 1600291229,
-        "season_number": "5",
-        "title_id": "2230786",
-        "tv_rating": "tv-ma-l",
-        "published": 1654280779,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1651464000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
-        "id": "AXSYyk1WSeFB2d0c387_",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1658116740,
         "tms_id": "",
         "description": "Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty.",
@@ -1057,7 +1060,7 @@
         "cma_id": "1423374"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446739620,
         "auth_expiration_date": 1660535940,
         "tms_id": "EP015632430002",
