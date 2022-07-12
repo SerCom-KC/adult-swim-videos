@@ -1,7 +1,6 @@
 {
-    "updated": 1657588934,
-    "added": [],
-    "removed": [
+    "updated": 1657593979,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1657598399,
@@ -29,7 +28,7 @@
             "auth_launch_date": 1651636800,
             "clip_order": null,
             "media_id": "c2759f98f2ab94d8f8e68404893ad48c13f2ef79",
-            "modified": 1651632348,
+            "modified": 1657593848,
             "airing_id": "RADS1005032200094697",
             "slug": "cooler-heads-prevail",
             "exclude_from_search": false,
@@ -40,7 +39,7 @@
             "tv_rating": "tv-14-dlv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1651632348,
+            "published": 1657593848,
             "tags": [],
             "collection_title": "Squidbillies",
             "disable_ads": false,
@@ -53,5 +52,6 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
