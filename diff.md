@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 15, 2022 at 19:00:25 EDT_
+_Last Update: July 15, 2022 at 19:30:25 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 344090 Cowboy Bebop: 1  
 ### 344100
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/cowboy-bebop/ganymede-elegy
 seriesid=`344090` titleid=`344100` id=`wK170Np5Q4mofm0BG5JZ8Q` mediaid=`983115a08f34d03b722274f90660c080611422bb`  
 _The Bebop returns to Ganymede, Jet's home, to drop off a criminal that they've captured. But this trip home for Jet only brings back painful memories.  As he tries to answer questions from his past, Spike gets a lead on a new bounty from the local cops._  
 <a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033102764-cowboybebop_110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033102764-cowboybebop_110.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
