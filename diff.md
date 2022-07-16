@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 15, 2022 at 20:00:25 EDT_
+_Last Update: July 15, 2022 at 21:00:25 EDT_
 ## Video added
 ### Summary
-344090 Cowboy Bebop: 1  
-### 344098
-**Cowboy Bebop S01E08 - Waltz for Venus**  
-TV-14-LSV 🔓 22:45  
-⌛ July 17, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/cowboy-bebop/waltz-for-venus  
-seriesid=`344090` titleid=`344098` id=`iIjEnT_TQ5ua1sgMW7Mm4w` mediaid=`998170ba57dcaa0dc97069fc8cfe222b54c1ce65`  
-_Now that it's been terraformed, Venus is a beautiful planet. Unfortunately, the floating plants used to maintain the environment make some people sick. The Bebop's crew is pursuing another bounty here, and Spike has reluctantly accepted a young man named Roco as a pupil._  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331026245-cowboybebop_108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331026245-cowboybebop_108.jpg" height="144px" /></a>
+853486 NTSF:SD:SUV::: 1  
+### 853494
+**NTSF:SD:SUV:: S01E05 - Dolphinnegan's Wake**  
+TV-14-V 🔓 10:50  
+⌛ July 18, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/ntsf-sd-suv/dolphinnegans-wake  
+seriesid=`853486` titleid=`853494` id=`47OGEGWiQ_KaBc6ZtzoUTQ` mediaid=`cf51e8cc4a5cdcc637d9a83700423bcee751e60f`  
+_A dolphin serial killer is on the loose and the NTSF don't have any leads until Trent visits the deadliest dolphin serial killer in captivity to get a lead  on this new killer... before Sam and Jessie are it's next victims._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121158193-ntsf_105_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121158193-ntsf_105_bim.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
