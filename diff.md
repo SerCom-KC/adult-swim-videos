@@ -2,110 +2,101 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 16, 2022 at 00:30:24 EDT_
+_Last Update: July 17, 2022 at 00:00:25 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 3  
 2003422 Bob's Burgers: 2  
-629835 King of the Hill: 1  
-### 748215
-**American Dad S08E10 - Blood Crieth Unto Heaven**  
+### 748222
+**American Dad S08E13 - For Black Eyes Only**  
 TV-14 🔒 21:31  
-⌛ July 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/blood-crieth-unto-heaven  
-seriesid=`581006` titleid=`748215` id=`85bl-0YZSYy8rtZayilY8g` mediaid=`67ed3a254a6fe5c729d1e620e238b5f9d85af4cc`  
-_In a tribute to and send-up of the Pulitzer Prize-winning play, "August: Osage County," a dark secret is revealed about the Smith family's past when Francine invites Stan's incarcerated dad, Jack, to Stan's birthday party. Also in this spoof, Roger plays Edna, a maid who nurses Bullock and Hayley's love child. But when Edna falls in love with Bullock, it could mean dire consequences for the kid._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803203894916.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803203894916.jpg" height="144px" /></a>
-### 748217
-**American Dad S08E11 - Max Jets**  
-TV-14 🔒 21:26  
-⌛ July 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/max-jets  
-seriesid=`581006` titleid=`748217` id=`Q7kMtUrSSoiGgIGq95p5Cg` mediaid=`b5359df2f50b84c09c41d8252185933aa15a9f17`  
-_Roger (Seth MacFarlane) announces that "Max Jets," a character of Roger's who enjoys showering the Smith family with money, is soon getting out of prison. But a wrench is thrown in the system when Max falls in love with Gina (Michelle Monaghan), a gold-digging waitress who threatens the family's inheritance._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180319338171.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180319338171.jpg" height="144px" /></a>
-### 748211
-**American Dad S08E09 - The Adventures of Twill Ongenbone and His Boy Jabari**  
+⌛ July 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/for-black-eyes-only  
+seriesid=`581006` titleid=`748222` id=`qNjpZB07RI6E5S-kHSsyEw` mediaid=`38f426195ad66ed539278b23a9a944e8e371e9be`  
+_In Part 2 of "The Tearjerker Saga," a "James Bond" parody, Stan and his wife, Sexpun Tocome's honeymoon is brutally interrupted when Black Villain (guest voice Kevin Michael Richardson) fatally shoots Sexpun. Determined to get his revenge, Stan teams up with former nemesis The Tearjerker to track down Black Villain and put a stop to his evil plan to melt the arctic glaciers._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803206290212.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803206290212.jpg" height="144px" /></a>
+### 748212
+**American Dad S08E12 - Naked to the Limit, One More Time**  
+TV-14 🔒 21:30  
+⌛ July 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/naked-to-the-limit-one-more-time  
+seriesid=`581006` titleid=`748212` id=`aNwts3hcT8-8s2ou5a15CA` mediaid=`d3ae434ea9361f927160e7e02a0a44028a06505e`  
+_Roger pretends to be Jeff's imaginary friend, so he can freely roam naked around the house with no disguise. But when big-mouth Jeff figures out that Roger is an alien, Stan issues an ultimatum: either Roger or Jeff must be killed immediately. Meanwhile, Steve becomes insecure about the shape of his rear end._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803189191213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803189191213.jpg" height="144px" /></a>
+### 748213
+**American Dad S08E14 - Spelling Bee My Baby**  
 TV-14 🔒 21:31  
-⌛ July 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-adventures-of-twill-ongenbone-and-his-boy-jabari  
-seriesid=`581006` titleid=`748211` id=`Yc4EXICUQfa6LdB5kJb1lg` mediaid=`b4c7e3ef1421ef621bc5617e1e5bcd9e771c2328`  
-_Francine tries to teach Roger the value of hard work after he fakes a masters degree and buys an Oscar. Steve interviews Stan for a personal history assignment at school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153185354185812.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153185354185812.jpg" height="144px" /></a>
-### 2065456
-**Bob's Burgers S05E08 - Midday Run**  
-TV-PG 🔒 21:28  
-⌛ July 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/midday-run  
-seriesid=`2003422` titleid=`2065456` id=`cciQCvIBR2eWcB2fCfDcOA` mediaid=`0a052de313d208d17b6bb470df4195c3df4cd3a8`  
-_When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the job so she enlists the help of Gene and Louise. Back at the restaurant, Linda begins to decorate the walls with customer artwork on napkins._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg" height="144px" /></a>
-### 2065454
-**Bob's Burgers S05E07 - Tina Tailor Soldier Spy**  
+⌛ July 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/spelling-bee-my-baby  
+seriesid=`581006` titleid=`748213` id=`oIH1jwTVQ1uROdy8f6mnRg` mediaid=`6505049c1f488ff251b1f66987b88e0888516331`  
+_Francine pressures Steve to win the National Spelling Bee so he can get into a top college.  Stan and Roger try to slam Hayley through the five stages of grief so she will get over Jeff faster._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803196941912.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803196941912.jpg" height="144px" /></a>
+### 2065458
+**Bob's Burgers S05E10 - Late Afternoon in the Garden of Bob and Louise**  
+TV-PG-DL 🔒 21:40  
+⌛ July 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/late-afternoon-in-the-garden-of-bob-and-louise  
+seriesid=`2003422` titleid=`2065458` id=`88F1cF6qS9ign15_Yoy6vw` mediaid=`7f20c57b8dfc33297e4f5dda44e427fd8498d1c8`  
+_In order to become an accepted member of the Community Garden, Bob must make a deal that results in giving Louise's arch enemy a job at the restaurant. Father and daughter are at odds and a choice must be made._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/late-afternoon-in-the-garden-of-bob-and-louise/bobsburgers_419_air_cid-2MRD1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/late-afternoon-in-the-garden-of-bob-and-louise/bobsburgers_419_air_cid-2MRD1.jpg" height="144px" /></a>
+### 2065459
+**Bob's Burgers S05E09 - Speakeasy Rider**  
 TV-PG-DL 🔒 21:43  
-⌛ July 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/tina-tailor-soldier-spy  
-seriesid=`2003422` titleid=`2065454` id=`nmcdZVZUR8iGAUPGiABYIQ` mediaid=`65908625d24382510d50ce1b9f85f1b24162b774`  
-_Tina goes undercover to find the mole who is giving away their cookie secrets. Tired of the kids counting her gray hairs, Linda goes blonde. When she starts making dumb mistakes at work, Bob worries being blonde has gone to her head!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg" height="144px" /></a>
-### 731254
-**King of the Hill S03E12 - Three Coaches and a Bobby**  
-TV-PG-L 🔒 23:21  
-⌛ July 22, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/three-coaches-and-a-bobby  
-seriesid=`629835` titleid=`731254` id=`PKyE61lHRZ6adFcXSomCXQ` mediaid=`ef10b7aa29cfd1c732dffd7fbe15e105e08c8883`  
-_Hank's old tough-as-nails football coach takes command of Arlen high school's team... prompting Bobby and his classmates to sign up for soccer._  
-<a href=""><img src="" height="144px" /></a>
+⌛ July 23, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/speakeasy-rider  
+seriesid=`2003422` titleid=`2065459` id=`2ELQFzQvTKi81yGcQi3Y2Q` mediaid=`423be7451bb1a0465322abfb840143ca6a6b1172`  
+_Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, back at the restaurant, Bob and Teddy partner up to serve Teddy's home-brewed beer._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
+2194549 Gemusetto: 1  
 581006 American Dad: 3  
-629835 King of the Hill: 1  
-### 2030320
-**Bob's Burgers S04E19 - The Kids Run Away**  
-TV-PG-DLV 🔒 21:29  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-run-away  
-seriesid=`2003422` titleid=`2030320` id=`HitQgvSzThuAVR_UfR4vrg` mediaid=`1e654ff19406e44ebbb2203b6987b21a2c10ae58`  
-_Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg" height="144px" /></a>
-### 2030321
-**Bob's Burgers S04E20 - Gene It On**  
-TV-14-DLV 🔒 21:31  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/gene-it-on  
-seriesid=`2003422` titleid=`2030321` id=`wWlw54Z8TwmdAibq5WkgmQ` mediaid=`934a5df202b2d9c777f98a3dd91cf0f6256a9c28`  
-_Tina decides to try out for the cheerleading squad, but it's actually Gene who gets noticed in the crowd for his spirit and cheering ability. Meanwhile, during her cheer audition, Tina falls and bites her tongue, leaving her unable to speak - and a mischievous Louise steps up to be her translator._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg" height="144px" /></a>
-### 748170
-**American Dad S07E10 - Wheels & the Legman and the Case of Grandpa's Key**  
-TV-14 🔒 21:17  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/wheels-the-legman-and-the-case-of-grandpas-key  
-seriesid=`581006` titleid=`748170` id=`3C6dEzh6Sre3UNL6TerUqg` mediaid=`fc94151d92fb4c135ac99f4728e909ffe360833e`  
-_Stan joins Wheels and the Legman as they attempt to solve a mystery involving a key; Klaus has his photo taken for a pet website._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312545635391.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312545635391.jpg" height="144px" /></a>
-### 748167
-**American Dad S07E11 - Old Stan in the Mountain**  
-TV-14-DLSV 🔒 21:46  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/old-stan-in-the-mountain  
-seriesid=`581006` titleid=`748167` id=`6neuw03KTQOvEUKRY1jKmw` mediaid=`d34a47f5acd96be4a50ce8d7cfb8b8e2ce0a8699`  
-_An old man places a hex on Stan, making him age at an alarming rate; Roger and Francine rehearse for a dance competition...but Roger has something up his sleeve._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312546044986.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312546044986.jpg" height="144px" /></a>
-### 748144
-**American Dad S07E12 - The Wrestler**  
+### 2030322
+**Bob's Burgers S04E21 - Wharf Horse**  
+TV-14-DLV 🔒 21:27  
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/wharf-horse  
+seriesid=`2003422` titleid=`2030322` id=`88Z8t86DQx2V4A-u_ykrRA` mediaid=`faf0940a5beb8ed8cd9d36a37b722c552d8671a4`  
+_Motivated by the promise of a new beachside burger joint, Bob conspires with Felix to convince Mr. Fischoeder to sell Wonder Wharf. Meanwhile, Tina protests the destruction of the wharf's carousel by chaining herself to it._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870795147218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870795147218.jpg" height="144px" /></a>
+### 2030323
+**Bob's Burgers S04E22 - World Wharf II: The Wharfening**  
+ 🔒 21:27  
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/world-wharf-ii-the-wharfening  
+seriesid=`2003422` titleid=`2030323` id=`YBPqZIbqSzSImhQb9EkpCg` mediaid=`45bc926d5c137606e9bd2cc847a7537efb943f94`  
+_It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079760401.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079760401.jpg" height="144px" /></a>
+### 2241836
+**Gemusetto S02E11 - Episode Eleven: G13**  
+TV-MA-LV 🔒 11:15  
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-eleven-g-13  
+seriesid=`2194549` titleid=`2241836` id=`AXZmne7CQJ_4Uej5kTe8` mediaid=`945db87ef40ac275bbfeddae8bfb2a40f85faca3`  
+_Back in the material world of Earth, the Chilean man who hunted Makasu for most of his career can't seem to move on. Can retirement really help you let go of your obsessions?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg" height="144px" /></a>
+### 748155
+**American Dad S07E15 - Less Money, Mo' Problems**  
 TV-14-DLSV 🔒 21:47  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-wrestler  
-seriesid=`581006` titleid=`748144` id=`nF04euNRRwCEaj8Ywu4Bzw` mediaid=`020a6c137f00aee0ed76b53ccde5e5af07e8cd7c`  
-_Stan panics when Barry comes close to toppling his longstanding wrestling record at Steve's school - and ends up teaching Roger how to wrestle so he can defeat Barry._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg" height="144px" /></a>
-### 731249
-**King of the Hill S03E07 - Nine Pretty Darn Angry Men**  
-TV-PG-DL 🔒 23:23  
-⌛ July 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/nine-pretty-darn-angry-men  
-seriesid=`629835` titleid=`731249` id=`TtBc8uU9RDaVsEdn4YAoqg` mediaid=`26731042a8c151df85fea5a1ec3c2a759d528798`  
-_On the day after Thanksgiving... Hank attends a lawn mower focus group._  
-<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761719258-KingOfTheHill_308_NinePrettyDarnAngryMen.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761719258-KingOfTheHill_308_NinePrettyDarnAngryMen.png" height="144px" /></a>
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/less-money-mo-problems  
+seriesid=`581006` titleid=`748155` id=`VJ3Hn0o-TJGGdvSs9gjJSQ` mediaid=`72d9141ef39d2454e02846452ec757824bdbd37f`  
+_Stan bets Jeff and Hayley that he and Fran can live on minimum wage for one month; Roger and Steve test-drive a Ferrari after Klaus brags about having driven one._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312555106302.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312555106302.jpg" height="144px" /></a>
+### 748173
+**American Dad S07E14 - Stan's Best Friend**  
+TV-14-DLSV 🔒 21:47  
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stans-best-friend  
+seriesid=`581006` titleid=`748173` id=`b-WsPbuLQXWACdZr89HWww` mediaid=`48b84501f04de04164de330d6041424cf9b67b94`  
+_When Steve's new puppy is gravely injured, Stan attempts to save the dog using a doctor who specializes in alternative medicine._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125521336317.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125521336317.jpg" height="144px" /></a>
+### 748165
+**American Dad S07E13 - Dr. Klaustus**  
+TV-14-DLSV 🔒 21:47  
+⌛ July 16, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/dr-klaustus  
+seriesid=`581006` titleid=`748165` id=`ojhZKE61QxmNVM244Vfh9g` mediaid=`78264e6442dd4f8a27f735273f857642745906db`  
+_After tricking Roger into going to Iraq, Klaus assumes the role of the Smiths' psychologist, but his emphasis on emotional honesty backfires._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193228141.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193228141.jpg" height="144px" /></a>
