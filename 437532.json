@@ -1,55 +1,5 @@
 [
     {
-        "auth_expiration_date": 1658030340,
-        "tms_id": "EP003034830083",
-        "description": "In New Mars Vegas, Fry gains the power to read minds and competes in a poker tournament.",
-        "title_suggest": {
-            "input": [
-                "Into the Wild Green Yonder Part 1",
-                "the Wild Green Yonder Part 1",
-                "Wild Green Yonder Part 1",
-                "Green Yonder Part 1",
-                "Yonder Part 1",
-                "Part 1",
-                "1"
-            ]
-        },
-        "title": "Into the Wild Green Yonder Part 1",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.0174,
-        "episode_number": "13",
-        "original_air_date": 1644804000,
-        "auth_launch_date": 1657425600,
-        "clip_order": null,
-        "airing_id": "RADS1007042200011807",
-        "media_id": "d483c56f73063a4bcca8946968b9cf39062bda75",
-        "modified": 1656998520,
-        "slug": "into-the-wild-green-yonder-part-1",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220216/thumbnails/1_222161352378-Futurama_613_IntoTheWildGreenYonderPart1.png",
-        "created": 1644619000,
-        "title_id": "2161616",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlv",
-        "published": 1656998520,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_222161352378-Futurama_613_IntoTheWildGreenYonderPart1.png",
-        "id": "AX7q7msV_0O4w1rD3RpX",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1658462340,
         "tms_id": "EP003034830084",
         "description": "Leela joins the eco-feminists to stop Leo Wong from building a galactic mini-golf course and Fry learns more about his newfound ability.",
@@ -147,6 +97,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_22217170438-Futurama_615_IntoTheWildGreenYonderPart3.png",
         "id": "AX8IgoJT208s7zyYUMHi",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1658635140,
+        "tms_id": "EP003034830086",
+        "description": "Leela, Amy, and the rest of the Feministas stand trial for attempting to save the rare Violet Star and its precious ecosystem.",
+        "title_suggest": {
+            "input": [
+                "Into the Wild Green Yonder Part 4",
+                "the Wild Green Yonder Part 4",
+                "Wild Green Yonder Part 4",
+                "Green Yonder Part 4",
+                "Yonder Part 4",
+                "Part 4",
+                "4"
+            ]
+        },
+        "title": "Into the Wild Green Yonder Part 4",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1351.8838,
+        "episode_number": "16",
+        "original_air_date": "1645410600",
+        "auth_launch_date": 1658030400,
+        "clip_order": null,
+        "airing_id": "RADS1007122200013319",
+        "media_id": "d8dae3e0e96e92ee50efbecb9dde59a3c7f83563",
+        "modified": 1657658844,
+        "slug": "into-the-wild-green-yonder-part-4",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_22217171177-Futurama_616_IntoTheWildGreenYonderPart4.png",
+        "created": 1645115252,
+        "season_number": "6",
+        "title_id": "2161619",
+        "tv_rating": "tv-14-dlv",
+        "published": 1657658844,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_22217171177-Futurama_616_IntoTheWildGreenYonderPart4.png",
+        "id": "AX8Igp4h_0O4w1rD3RsW",
         "auth": true
     },
     {
