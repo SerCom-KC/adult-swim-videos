@@ -1,18 +1,19 @@
 {
-    "updated": 1658115025,
-    "added": [
+    "updated": 1658115436,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1659929340,
-            "tms_id": "EP038016760012",
-            "description": "The Birdteam discovers a politically-incorrect alternate universe.",
+            "ott_launch_date": null,
+            "auth_expiration_date": 1653019140,
+            "tms_id": "",
+            "description": "KY finds her true calling as a stripper.",
             "title_suggest": {
                 "input": [
-                    "The S.I.M.M.",
-                    "S.I.M.M."
+                    "Jellystripper"
                 ]
             },
-            "title": "The S.I.M.M.",
-            "expiration_date": null,
+            "title": "Jellystripper",
+            "expiration_date": 2085368400,
             "type": "episode",
             "platforms": [
                 "android",
@@ -20,35 +21,36 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXhbHjJvDmGy9WFjRqo0",
-            "duration": 1349.6817,
-            "episode_number": "6",
-            "original_air_date": "1658115000",
-            "auth_launch_date": 1658115000,
+            "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+            "duration": 676.67,
+            "episode_number": "2",
+            "original_air_date": 1558325700,
+            "auth_launch_date": 1649995200,
             "clip_order": null,
-            "airing_id": "RADS1007142200014287",
-            "media_id": "4e376d5fc483a711fb4780f146d971760a6e2dbd",
-            "modified": 1658078098,
-            "slug": "the-s-i-m-m",
+            "media_id": "790f00521aa8bdebef490afff97489997c457f32",
+            "modified": 1656349228,
+            "airing_id": "RADS1006071900097719",
+            "slug": "jellystripper",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/1_227121046500-Birdgirl_206_TheSIM.png",
-            "created": 1657637220,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15580246369072.jpg",
+            "created": 1553006100,
             "season_number": "2",
-            "title_id": "2387779",
-            "tv_rating": "tv-14-dlsv",
-            "published": 1658078098,
+            "title_id": "2191417",
+            "tv_rating": "tv-14-dls",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1656349228,
             "tags": [],
-            "collection_title": "Birdgirl",
+            "collection_title": "The Jellies",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121046500-Birdgirl_206_TheSIM.png",
-            "id": "AYHy4LH1IAxeiVkFtLQU",
-            "auth": true,
-            "collection_slug": "birdgirl",
-            "collection_title_id": "2262180",
+            "modified_by": "ODT Listener",
+            "launch_date": 1560151800,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580246369072.jpg",
+            "id": "AWmWYH87Hl5gR6828y3a",
+            "auth": false,
+            "collection_slug": "the-jellies",
+            "collection_title_id": "2132025",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
