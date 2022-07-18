@@ -536,5 +536,57 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761729177-TucaAndBertie_302_ThePainGarden.png",
         "id": "AYHVavbC3sQvipyea9V9",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1659931140,
+        "tms_id": "EP031843450023",
+        "description": "Bertie gets eaten by a snake!!!",
+        "title_suggest": {
+            "input": [
+                "The One Where Bertie Gets Eaten by a Snake",
+                "One Where Bertie Gets Eaten by a Snake",
+                "Where Bertie Gets Eaten by a Snake",
+                "Bertie Gets Eaten by a Snake",
+                "Gets Eaten by a Snake",
+                "Eaten by a Snake",
+                "by a Snake",
+                "a Snake",
+                "Snake"
+            ]
+        },
+        "title": "The One Where Bertie Gets Eaten by a Snake",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXI5AAWnRs3h4hI_X3zz",
+        "duration": 1381.4801,
+        "episode_number": "3",
+        "original_air_date": "1658116800",
+        "auth_launch_date": 1658116800,
+        "clip_order": null,
+        "airing_id": "RADS1007152200014344",
+        "media_id": "9c0dce648efdb3bf4256b7f02467df5a018e7987",
+        "modified": 1657923586,
+        "slug": "the-one-where-bertie-gets-eaten-by-a-snake",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/1_227121047399-TucaAndBertie_TheOneWhereBertieGetsEatenByASnake.png",
+        "created": 1657637269,
+        "season_number": "3",
+        "title_id": "2388613",
+        "tv_rating": "tv-ma-ls",
+        "published": 1657923586,
+        "tags": [],
+        "collection_title": "Tuca & Bertie",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121047399-TucaAndBertie_TheOneWhereBertieGetsEatenByASnake.png",
+        "id": "AYHy4W-cIAxeiVkFtLQV",
+        "auth": true
     }
 ]
