@@ -4232,7 +4232,7 @@
         "launch_date": 1655179200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220325/thumbnails/2_223251715238-RobotChickenInternalDiarrhea.png",
         "id": "AX-8UkhO208s7zyYUMaA",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1660622340,
@@ -4619,53 +4619,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_22216147322-AlabamaJackson_AJ008.png",
         "id": "AX75rRQT208s7zyYUMFO",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1658203140,
-        "tms_id": "EP007259620234",
-        "description": "According to Robot Chicken, Fred Flintstone's meaning of Christmas is madness; Freddy Krueger's nightmare is a weirdo's wet dream; We interview a toilet.",
-        "title_suggest": {
-            "input": [
-                "May Cause Indecision...Or Not",
-                "Cause Indecision...Or Not",
-                "Indecision...Or Not",
-                "Not"
-            ]
-        },
-        "title": "May Cause Indecision...Or Not",
-        "expiration_date": 1655179140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 665.5983,
-        "episode_number": "14",
-        "original_air_date": "1645419600",
-        "auth_launch_date": 1655179200,
-        "clip_order": null,
-        "airing_id": "RADS1006092200005338",
-        "media_id": "647340c51f0e05eafb22b374ebc2b094a93cbe5f",
-        "modified": 1658180079,
-        "slug": "may-cause-indecision-or-not",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171632118-RobotChicken_1112_MayCauseIndecisionOrNot.png",
-        "created": 1645133547,
-        "season_number": "11",
-        "title_id": "2270599",
-        "tv_rating": "tv-ma",
-        "published": 1658180079,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1652155200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171632118-RobotChicken_1112_MayCauseIndecisionOrNot.png",
-        "id": "AX8Jmcl7208s7zyYUMH3",
-        "auth": true
     },
     {
         "auth_expiration_date": 1658807940,
@@ -5415,7 +5368,7 @@
         "launch_date": 1658203200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921514583-RobotChicken_1102_MayCauseLightCannabalism.png",
         "id": "AXun77T84Xbjep71f6Gv",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1657598340,
