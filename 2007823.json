@@ -157,7 +157,7 @@
         "launch_date": 1655784000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509854039616.jpg",
         "id": "AV-3DeJywdpKFAKSbWZV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789500,
@@ -257,6 +257,65 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1447789500,
+        "auth_expiration_date": 1642481940,
+        "tms_id": "SH020417690000",
+        "description": "Sure, Newbridge, NJ is known as the muffler capital of the world but it's so much more than that. Learn about the fascinating often insane past and present of the town George Washington quickly decided against making the capital of the US.",
+        "title_suggest": {
+            "input": [
+                "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "\"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Newbridge, We're Comin' To Get Ya!\"",
+                "We're Comin' To Get Ya!\"",
+                "Comin' To Get Ya!\"",
+                "To Get Ya!\"",
+                "Get Ya!\"",
+                "Ya!\""
+            ]
+        },
+        "expiration_date": 1660622340,
+        "type": "episode",
+        "title": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 690.2085071,
+        "episode_number": "6",
+        "original_air_date": 1415091600,
+        "auth_launch_date": 1639458000,
+        "clip_order": null,
+        "media_id": "9fdd28daad74426e29ff0feb51c142cc40522313",
+        "modified": 1657933164,
+        "airing_id": "RADS1007152200014444",
+        "slug": "the-newbridge-tourism-board-presents-were-newbridge-were-comin-to-get-ya",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509835916018.jpg",
+        "created": 1510605679,
+        "season_number": "4",
+        "title_id": "2007844",
+        "tv_rating": "tv-14-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1657933164,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1658203200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509835916018.jpg",
+        "id": "AV-3HWt2Z-onAnjDLtAg",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1447789560,
         "auth_expiration_date": 1618286340,
         "tms_id": "SH020222930000",
@@ -305,58 +364,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509761924415.jpg",
         "id": "AV-3RUyRZ-onAnjDLtAm",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1658203140,
-        "tms_id": "",
-        "description": "When the legendary interviewer Aaron Chen was 9, he stole a microphone and conducted his first on the street vox-pop. 2000 chinwags and 3000 chats later, the Wisdom School adult learning platform.",
-        "title_suggest": {
-            "input": [
-                "A Life In Questions: Wisdom School with Aaron Chen",
-                "Life In Questions: Wisdom School with Aaron Chen",
-                "In Questions: Wisdom School with Aaron Chen",
-                "Questions: Wisdom School with Aaron Chen",
-                "Wisdom School with Aaron Chen",
-                "School with Aaron Chen",
-                "with Aaron Chen",
-                "Aaron Chen",
-                "Chen"
-            ]
-        },
-        "title": "A Life In Questions: Wisdom School with Aaron Chen",
-        "expiration_date": 1655179140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 675.4748,
-        "episode_number": "5",
-        "original_air_date": "1607418000",
-        "auth_launch_date": 1655179200,
-        "clip_order": null,
-        "airing_id": "RADS1006092200005339",
-        "media_id": "912e88e2ca044da73f241181f711f6af5cdc4736",
-        "modified": 1654760883,
-        "slug": "a-life-in-questions-wisdom-school-with-aaron-chen",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241048238-infomercials_ALIQ_dup-20201123.jpg",
-        "created": 1606232907,
-        "season_number": "10",
-        "title_id": "2236210",
-        "tv_rating": "tv-14-dl",
-        "published": 1654760883,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1652760000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241048238-infomercials_ALIQ_dup-20201123.jpg",
-        "id": "AXX68R0yLyLQBOXK_Prr",
-        "auth": true
     },
     {
         "auth_expiration_date": 1658807940,
