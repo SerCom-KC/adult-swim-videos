@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 19, 2022 at 01:00:26 EDT_
+_Last Update: July 19, 2022 at 06:00:28 EDT_
 ## Video added
-### Summary
-2143080 Black Clover: 1  
-### 2230141
-**Black Clover S03E25 - Clues**  
-TV-PG 🔒 22:29  
-⌛ August 6, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/clues  
-seriesid=`2143080` titleid=`2230141` id=`AXOhiEE7SeFB2d0c38R9` mediaid=`65624647d796b2a586d2869ea9af21a1ad3159db`  
-_A contingent of Black Bulls seeks info from Gordon's family of Curse Magic experts, while Noelle digs deeper into what really killed her mother Acier._  
-<a href="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+812206 Naruto: Shippuden: 1  
+### 2177783
+**Naruto: Shippuden S07E06 - Kakashi: Shadow of the ANBU Black Ops - Their Own Paths**  
+TV-PG 🔒 21:50  
+⌛ July 19, 2022 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-their-own-paths  
+seriesid=`812206` titleid=`2177783` id=`AXtPn16NeTntnGIjub1G` mediaid=`1c0f1773b1ce2dffe055b6a798e4c93d29354de7`  
+_Yukimi leaves the village to see the outside world, taking "Tenzo" with her._  
+<a href="https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_21820111581-NarutoShippuden_344_KakashiShadowOfTheANBUBlackOpsTheirOwnPaths.png"><img src="https://media.cdn.adultswim.com/uploads/20210820/thumbnails/2_21820111581-NarutoShippuden_344_KakashiShadowOfTheANBUBlackOpsTheirOwnPaths.png" height="144px" /></a>
