@@ -913,7 +913,7 @@
         "launch_date": 1656475200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171453105-OffTheAir_1103_Touch.png",
         "id": "AX3J9Qp4UQa40cfnRS-g",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1657079940,
@@ -1177,7 +1177,7 @@
         "launch_date": 1658289600,
         "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181426283-OffTheAir_1102_Moon.png",
         "id": "AXzxSVHv4Xbjep71f6HZ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -1401,8 +1401,8 @@
         "original_air_date": 1320480000,
         "clip_order": null,
         "auth_launch_date": 1658289600,
-        "modified": 1658288066,
-        "airing_id": "RADS1007202200014717",
+        "modified": 1658289587,
+        "airing_id": "RADS1011161800045656",
         "media_id": "4212436f31e1c02a8607037a32b96ebbb257c5c5",
         "id": "_9Skb0DkTUOqgwuxWK9fTQ",
         "slug": "space",
@@ -1416,7 +1416,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1658288066,
+        "published": 1658289587,
         "tags": [],
         "rating_count": 475,
         "collection_title": "Off The Air",
