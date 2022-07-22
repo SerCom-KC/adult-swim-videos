@@ -1,7 +1,6 @@
 {
-    "updated": 1658503827,
-    "added": [],
-    "removed": [
+    "updated": 1658505626,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447442520,
@@ -29,7 +28,7 @@
             "original_air_date": 1131339600,
             "clip_order": null,
             "auth_launch_date": 1653105600,
-            "modified": 1653083392,
+            "modified": 1658503859,
             "media_id": "0b724c6ac2acfe07153bbf2e67cf70cd6194f9db",
             "airing_id": "RADS1005202200000408",
             "id": "gsMm7GUTSry5_84-5iqfNQ",
@@ -44,7 +43,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1653083392,
+            "published": 1658503859,
             "tags": [
                 "squidbillies episode chalky trouble ceremony whites rusty sheriff racism bonfire mommy"
             ],
@@ -59,5 +58,6 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
