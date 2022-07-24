@@ -1,17 +1,21 @@
 {
-    "updated": 1658656936,
-    "added": [
+    "updated": 1658658736,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1667732340,
-            "tms_id": "EP034917240392",
-            "description": "Kiba and his team are in pursuit of Hidden Grass Ninja who have stolen their scroll.",
+            "auth_expiration_date": 1658658540,
+            "tms_id": "",
+            "description": "Working in sync, Naruto and Sasuke prepare to attack in the same way Madara once did, cloaking Kurama in Susano'o's robes.",
             "title_suggest": {
                 "input": [
-                    "Unwavering Gutsiness",
-                    "Gutsiness"
+                    "A Heart Filled With Comrades",
+                    "Heart Filled With Comrades",
+                    "Filled With Comrades",
+                    "With Comrades",
+                    "Comrades"
                 ]
             },
-            "title": "Unwavering Gutsiness",
+            "title": "A Heart Filled With Comrades",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -21,34 +25,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.1765,
-            "episode_number": "55",
-            "original_air_date": "1658644200",
-            "auth_launch_date": 1658656800,
+            "duration": 1312.4779,
+            "episode_number": "36",
+            "original_air_date": "1649574000",
+            "auth_launch_date": 1649586600,
             "clip_order": null,
-            "airing_id": "RADS1007202200014736",
-            "media_id": "2f4712b8eeb2c32c84bdfac2ed7b556d3c64d7f4",
-            "modified": 1658354030,
-            "slug": "unwavering-gutsiness",
+            "airing_id": "RADS1004082200087559",
+            "media_id": "3aa3f38bfb69309e13dddd9782bf17bd5c4cdd90",
+            "modified": 1658230976,
+            "slug": "a-heart-filled-with-comrades",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/1_2272083516-NarutoShippuden_403_UnwavringGutsiness.png",
-            "created": 1658320520,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/1_22461452382-NarutoShippuden_384_AHeartFilledWithComrades.png",
+            "created": 1649271169,
             "season_number": "7",
-            "title_id": "2177833",
-            "tv_rating": "tv-pg-l",
-            "published": 1658354030,
+            "title_id": "2177814",
+            "tv_rating": "tv-pg",
+            "published": 1658230976,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_2272083516-NarutoShippuden_403_UnwavringGutsiness.png",
-            "id": "AYIbmwZ5IAxeiVkFtLQg",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_22461452382-NarutoShippuden_384_AHeartFilledWithComrades.png",
+            "id": "AYAAOOL0208s7zyYUMhc",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
