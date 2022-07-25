@@ -1,7 +1,6 @@
 {
-    "updated": 1658786425,
-    "added": [],
-    "removed": [
+    "updated": 1658788574,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1449258960,
@@ -28,7 +27,7 @@
             "original_air_date": 1293872400,
             "clip_order": null,
             "auth_launch_date": 1656475200,
-            "modified": 1656421277,
+            "modified": 1658788253,
             "airing_id": "RADS1006282200009918",
             "media_id": "e31542ef62fb3e921946f231fa6f5df899218fd6",
             "id": "hxsoZnjMTbiWV7N3ci7GEQ",
@@ -43,7 +42,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1656421277,
+            "published": 1658788253,
             "tags": [],
             "rating_count": 2295,
             "collection_title": "Off The Air",
@@ -56,5 +55,6 @@
             "collection_title_id": "830073",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
