@@ -1,5 +1,57 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1447440000,
+        "auth_expiration_date": 1633492740,
+        "tms_id": "EP004625760049",
+        "rating": 8.706179,
+        "description": "How much would you pay for Sealab?  Well, if you were the eccentric trillionaire Max Stone, it wouldn't matter: you could afford to pay full sticker price.  And you could also afford a jetpack, a standing table at that posh little cafe on the moon that you like so much, and an army of troglodytes at the center of the Earth.",
+        "title_suggest": {
+            "input": [
+                "Monkey Banana Raffle",
+                "Banana Raffle",
+                "Raffle"
+            ]
+        },
+        "type": "episode",
+        "title": "Monkey Banana Raffle",
+        "expiration_date": 1661918340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 639.6339673,
+        "episode_number": "8",
+        "original_air_date": 1111382100,
+        "clip_order": null,
+        "auth_launch_date": 1630468800,
+        "modified": 1658715217,
+        "airing_id": "RADS1007252200015063",
+        "media_id": "aa38cb4ee45ccb16c787f64116a34a95c3f42aa7",
+        "id": "-ZMuqYcyT4mPezh_DD4cCg",
+        "slug": "monkey-banana-raffle",
+        "views": 188344,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_20416914226-sealab_047.jpg",
+        "created": 1402945476,
+        "title_id": "611926",
+        "season_number": "4",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1658715217,
+        "tags": [],
+        "rating_count": 599,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1658894400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416914226-sealab_047.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447439700,
         "auth_expiration_date": 1660708740,
@@ -157,7 +209,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447439700,
         "auth_expiration_date": 1661918340,
         "tms_id": "EP004625760044",
@@ -418,62 +470,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1657080000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416913112-sealab_044.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447439400,
-        "auth_expiration_date": 1658894340,
-        "tms_id": "EP004625760039",
-        "rating": 8.890613,
-        "description": "When Shanks refuses treatment for a festering, pulsing head-tumor, the crew decides to dust off the old shrink ray and then basically reenact the plot of a 1960's sci-fi movie starring that actress.",
-        "title_suggest": {
-            "input": [
-                "Craptastic Voyage",
-                "Voyage"
-            ]
-        },
-        "type": "episode",
-        "title": "Craptastic Voyage",
-        "expiration_date": 1655870340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 675.4004004,
-        "episode_number": "11",
-        "original_air_date": 1089603900,
-        "clip_order": null,
-        "auth_launch_date": 1655870400,
-        "modified": 1655447713,
-        "media_id": "081093770697cb1d87e7395b91f547f0c937093f",
-        "airing_id": "RADS1006162200007210",
-        "id": "l6ucIQ-eQuaSX01-HIMrqg",
-        "slug": "craptastic-voyage",
-        "views": 168847,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_2041699198-sealab_037.jpg",
-        "created": 1402945476,
-        "title_id": "544398",
-        "season_number": "3",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1655447713,
-        "tags": [
-            "sealab 2021",
-            "craptastic voyage",
-            "episode 37"
-        ],
-        "rating_count": 969,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1652846400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041699198-sealab_037.jpg",
         "cma_id": ""
     },
     {
