@@ -5981,7 +5981,7 @@
         "launch_date": 1658376000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181257488-RickAndMorty_501_MortDinnerRickAndre.png",
         "id": "AXogD4uwDmGy9WFjRrgk",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6075,7 +6075,7 @@
         "launch_date": 1658376000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png",
         "id": "AXpEYyttDmGy9WFjRrmZ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6217,7 +6217,52 @@
         "launch_date": 1658376000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711611335-RickAndMorty_503_ARickconvenientMort.jpg",
         "id": "AXpjsuNcDmGy9WFjRrqJ",
-        "auth": false
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1659585540,
+        "tms_id": "EP018336730053",
+        "description": "No shame broh. We all do it broh.",
+        "title_suggest": {
+            "input": [
+                "Rickdependence Spray",
+                "Spray"
+            ]
+        },
+        "title": "Rickdependence Spray",
+        "expiration_date": 1657771140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1436.435,
+        "episode_number": "4",
+        "original_air_date": "1626058800",
+        "auth_launch_date": 1658980800,
+        "clip_order": null,
+        "airing_id": "RADS1007252200015116",
+        "media_id": "718c2fd53073134e4d087858afadfcfafe13b7f7",
+        "modified": 1658719711,
+        "slug": "rickdependence-spray",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/1_21791115213-RickAndMorty_505_RickdependenceSpray.png",
+        "created": 1625843738,
+        "season_number": "5",
+        "title_id": "2270462",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1658719711,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1657166400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791115213-RickAndMorty_505_RickdependenceSpray.png",
+        "id": "AXqL1qduDmGy9WFjRryX",
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6310,7 +6355,7 @@
         "launch_date": 1658376000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161027450-RickAndMorty_506_AmortycanGrickfitti.png",
         "id": "AXqvJggIBH5Z6gH5aWX_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6453,54 +6498,6 @@
         "launch_date": 1627912800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730123298-RickMorty_Inside504_VYX5J.png",
         "id": "AXr4QxgUeTntnGIjub02",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1658980740,
-        "tms_id": "EP018336730055",
-        "description": "Gobble gobble broh. Rick and Morty givin thanks in this one.",
-        "title_suggest": {
-            "input": [
-                "Rick & Morty's Thanksploitation Spectacular",
-                "& Morty's Thanksploitation Spectacular",
-                "Morty's Thanksploitation Spectacular",
-                "Thanksploitation Spectacular",
-                "Spectacular"
-            ]
-        },
-        "title": "Rick & Morty's Thanksploitation Spectacular",
-        "expiration_date": 1658375940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1488.5537,
-        "episode_number": "6",
-        "original_air_date": "1627268400",
-        "auth_launch_date": 1658376000,
-        "clip_order": null,
-        "airing_id": "RADS1007102200012762",
-        "media_id": "f5740598cff3f4f50be327635fca96fb27e2de9d",
-        "modified": 1658118501,
-        "slug": "rick-mortys-thanksploitation-spectacular",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/1_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
-        "created": 1627052729,
-        "season_number": "5",
-        "title_id": "2270464",
-        "tv_rating": "tv-14-dlv",
-        "published": 1658118501,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1657771200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
-        "id": "AXrT5mYgeTntnGIjub0s",
         "auth": false
     },
     {
