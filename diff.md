@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 28, 2022 at 18:30:26 EDT_
+_Last Update: July 28, 2022 at 21:30:25 EDT_
 ## Video added
 ### Summary
-859366 Black Dynamite: 1  
-### 2034532
-**Black Dynamite S02E06 - 'Mister Rogers' Revenge' or 'Please Don't You Be His Neighbor'**  
-TV-14-DLSV 🔒 22:23  
-⌛ August 31, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-dynamite/mister-rogers-revenge-or-please-dont-you-be-his-neighbor  
-seriesid=`859366` titleid=`2034532` id=`8neX7spxSd-eGSbbvmuY5Q` mediaid=`15d12a6efac0095c518c7f19495de04a601a55f8`  
-_On the Orphans' collective birthday, Black Dynamite brings them all to a show taping with their favorite TV white man, Mister Rogers. Now, you'd think that Fred Rogers was never a trained Special Forces killer and that he would definitely not kidnap all the Orphans in a deranged attempt to protect them from evil TV executives and that's exactly what doesn't not happen! With the cops outgunned and the Orphans behind guerrilla defenses, it's up to Black Dynamite to invade that neighborhood and face off with Mister Rogers himself._  
-<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171229-blackdynamite_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171229-blackdynamite_016.jpg" height="144px" /></a>
+2161118 Joe Pera Talks With You: 2  
+### 2298518
+**Joe Pera Talks With You S03E02 - Joe Pera Shows You How to Build a Fire**  
+TV-14 🔒 11:15  
+⌛ October 5, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-shows-you-how-to-build-a-fire  
+seriesid=`2161118` titleid=`2298518` id=`AXzIEW2j4Xbjep71f6HU` mediaid=`17dd0a754c35910e36a8c97885ff3556dde6bb74`  
+_You and Joe ponder fire, creator and destroyer of civilization._  
+<a href="https://media.cdn.adultswim.com/uploads/20211028/thumbnails/2_211028142157-JoePeraTalksWithYou_302_JoePeraShowsYouHowToBuildAFire.png"><img src="https://media.cdn.adultswim.com/uploads/20211028/thumbnails/2_211028142157-JoePeraTalksWithYou_302_JoePeraShowsYouHowToBuildAFire.png" height="144px" /></a>
+### 2298522
+**Joe Pera Talks With You S03E06 - Joe Pera Takes You for a Flight**  
+TV-14-L 🔒 11:15  
+⌛ August 24, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-takes-you-for-a-flight  
+seriesid=`2161118` titleid=`2298522` id=`AX05FLdv4Xbjep71f6Hj` mediaid=`a4e795cb6673452635adef6ee8d8fdfb3cb47f41`  
+_If you have ever wondered what Marquette, Michigan looks like from above, strap in because Joe Pera is taking you up in the sky._  
+<a href="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114330-JoePeraTalksWithYou_306_JoePeraTakesYouForAFlight.png"><img src="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114330-JoePeraTalksWithYou_306_JoePeraTakesYouForAFlight.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
