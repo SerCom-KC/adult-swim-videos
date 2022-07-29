@@ -1,7 +1,6 @@
 {
-    "updated": 1659137662,
-    "added": [],
-    "removed": [
+    "updated": 1659137957,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": null,
@@ -28,7 +27,7 @@
             "original_air_date": 1004936400,
             "clip_order": null,
             "auth_launch_date": null,
-            "modified": 1659134615,
+            "modified": 1659137650,
             "media_id": "a86d7012eba20753f9822d057dc9f7ec8dec0143",
             "airing_id": "RADS1004282200093406",
             "id": "ryxwl80MQf60pvK3cYka0w",
@@ -43,7 +42,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1659134615,
+            "published": 1659137650,
             "tags": [],
             "rating_count": 284,
             "collection_title": "Cowboy Bebop",
@@ -56,5 +55,6 @@
             "collection_title_id": "344090",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
