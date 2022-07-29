@@ -2,42 +2,34 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 29, 2022 at 17:30:26 EDT_
+_Last Update: July 29, 2022 at 18:00:24 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2194658 The Promised Neverland: 1  
-344090 Cowboy Bebop: 3  
-### 2194667
-**The Promised Neverland S01E09 - 031145**  
-TV-14-V 🔓 21:26  
-⌛ July 31, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-promised-neverland/031145  
-seriesid=`2194658` titleid=`2194667` id=`AWskXt9wCorLtcgflq8y` mediaid=`6df7835e93495246866deb4fa970499ced6c8cdb`  
-_As Emma steps down from moving the escape plan forward, a new shipment date is announced earlier than expected, and someone will get shipped before Ray._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155994749827615.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155994749827615.jpg" height="144px" /></a>
-### 344108
-**Cowboy Bebop S01E18 - Speak Like a Child**  
-TV-PG-V 🔓 22:45  
-⌛ July 31, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/cowboy-bebop/speak-like-a-child  
-seriesid=`344090` titleid=`344108` id=`SaPjWDiOQFWKHKSCWU8XOA` mediaid=`df9f6a23bbb49592cbfa4801d589000fdc51865d`  
-_A package comes for Faye - C.O.D., of course.  Since she's not around to open it, Spike and Jet take the liberty of seeing what's inside. The contents of the package lead them to the ruins of the Earth... and back into Faye's past._  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331039464-cowboybebop_118.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331039464-cowboybebop_118.jpg" height="144px" /></a>
-### 344110
-**Cowboy Bebop S01E20 - Pierrot Le Fou**  
-TV-MA-V 🔓 22:43  
-⌛ July 31, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/cowboy-bebop/pierrot-le-fou  
-seriesid=`344090` titleid=`344110` id=`hIV0WRIaSvS_ssHjkBIevA` mediaid=`6c65e50edb9f1b09d6b32474e11a4b8a6601a4a8`  
-_The gang is on the trail of a killer named Mad Pierrot.  But things aren't going their way, and Spike is injured in the initial confrontation. Things get more and more bizarre, and soon the Bebop's crewmates find themselves making a stand in a futuristic amusement park._  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331040237-cowboybebop_120.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331040237-cowboybebop_120.jpg" height="144px" /></a>
-### 344109
-**Cowboy Bebop S01E19 - Wild Horses**  
-TV-14-L 🔓 22:35  
-⌛ July 31, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/cowboy-bebop/wild-horses  
-seriesid=`344090` titleid=`344109` id=`ryxwl80MQf60pvK3cYka0w` mediaid=`a86d7012eba20753f9822d057dc9f7ec8dec0143`  
-_While Spike's away getting his ship overhauled, Jet and the others go after a group of criminals called the "Starship Pirates," known for stealing anything and everything. It should be an easy job, but it turns out that they're a group of hackers. Will Spike arrive in time to lend a hand?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033104014-cowboybebop_119.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033104014-cowboybebop_119.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+853486 NTSF:SD:SUV::: 2  
+### 2177785
+**Naruto: Shippuden S07E08 - Kakashi: Shadow of the ANBU Black Ops - A Shinobi of the Leaf**  
+TV-PG 🔒 21:51  
+⌛ August 2, 2022 at 05:54:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-a-shinobi-of-the-leaf  
+seriesid=`812206` titleid=`2177785` id=`AXunA_rfUQa40cfnRR4F` mediaid=`134c73e328414052f28cd3b6e378f6171ae086f6`  
+_No longer wishing to kill Kakashi, Tenzo abandons the mission and returns to the Leaf Village, fully aware that his actions will stir up Danzo's anger._  
+<a href="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_219215996-NarutoShippuden_356_KakashiShadowOfTheANBUBlackOpsAShinobiOfTheLeaf.png"><img src="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_219215996-NarutoShippuden_356_KakashiShadowOfTheANBUBlackOpsAShinobiOfTheLeaf.png" height="144px" /></a>
+### 963233
+**NTSF:SD:SUV:: S02E03 - Sabbath-tage**  
+TV-14-DLSV 🔓 11:12  
+⌛ August 1, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/ntsf-sd-suv/sabbath-tage  
+seriesid=`853486` titleid=`963233` id=`2eQdRyMJRGeRqv9fajdxZg` mediaid=`3614b69a5f2a14e3a8798dcacc0bef02c0fff765`  
+_A Riddle Terrorist attacks San Diego on a Saturday, and it's up to Sam to stop him before he destroys the city._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131323-ntsf_208_dup-20160412.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131323-ntsf_208_dup-20160412.jpg" height="144px" /></a>
+### 853493
+**NTSF:SD:SUV:: S01E11 - Twistin' the Night Away**  
+TV-14 🔓 11:05  
+⌛ August 1, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/ntsf-sd-suv/twistin-the-night-away  
+seriesid=`853486` titleid=`853493` id=`tf2wPeoQTtCoACcIQ2rGcw` mediaid=`9e985fa0951e4f526253309354a7abc1018a59d5`  
+_It's the Season Finale and there are so many twists and turns your head will explode.  Sentient SUVs take NTSF hostage, Sam is forced to work with a creepy new member of the team, and Trent must track down who's behind it all.  But there isn't just one culprit.   Everyone has something to hide... or do they?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312121190-ntsf_111_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312121190-ntsf_111_bim.jpg" height="144px" /></a>
