@@ -1,14 +1,16 @@
 [
     {
-        "auth_expiration_date": 1659153540,
-        "tms_id": "EP003034830087",
-        "description": "Leela and Zapp Brannigan find themselves stranded on an Eden-like planet.",
+        "auth_expiration_date": 1659758340,
+        "tms_id": "EP003034830091",
+        "description": "The crew races to future-Rome to unearth the shocking secret of Leonardo da Vinci.",
         "title_suggest": {
             "input": [
-                "In-A-Gadda-Da-Leela"
+                "The Duh-Vinci Code",
+                "Duh-Vinci Code",
+                "Code"
             ]
         },
-        "title": "In-A-Gadda-Da-Leela",
+        "title": "The Duh-Vinci Code",
         "expiration_date": null,
         "type": "episode",
         "platforms": [
@@ -18,29 +20,29 @@
             "fire-tv"
         ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.5816,
-        "episode_number": "2",
-        "original_air_date": "1646015400",
-        "auth_launch_date": 1658548800,
+        "duration": 1352.3843,
+        "episode_number": "5",
+        "original_air_date": "1647219600",
+        "auth_launch_date": 1659153600,
         "clip_order": null,
-        "airing_id": "RADS1007182200014663",
-        "media_id": "634d1b896913095b6e5dbe6257bff34b45cf9317",
-        "modified": 1658135320,
-        "slug": "in-a-gadda-da-leela",
+        "airing_id": "RADS1007252200015201",
+        "media_id": "134eb24357d44378f2df43c8b3be90805f6fed02",
+        "modified": 1658732595,
+        "slug": "the-duh-vinci-code",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223943455-Futurama_702_InAGaddaDaLeela.png",
-        "created": 1645115266,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/1_223101326290-Futurama_705_TheDuhVinciCode.png",
+        "created": 1646936796,
         "season_number": "7",
-        "title_id": "2161621",
-        "tv_rating": "",
-        "published": 1658135320,
+        "title_id": "2161624",
+        "tv_rating": "tv-14-lv",
+        "published": 1658732595,
         "tags": [],
         "collection_title": "Futurama",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943455-Futurama_702_InAGaddaDaLeela.png",
-        "id": "AX8IgtUf208s7zyYUMHk",
+        "poster": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/2_223101326290-Futurama_705_TheDuhVinciCode.png",
+        "id": "AX91FS2x208s7zyYUMR0",
         "auth": true
     },
     {
