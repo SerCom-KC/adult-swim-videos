@@ -1,7 +1,6 @@
 {
-    "updated": 1659361400,
-    "added": [],
-    "removed": [
+    "updated": 1659362955,
+    "added": [
         {
             "auth_expiration_date": 1659412740,
             "tms_id": "EP007259620236",
@@ -29,9 +28,9 @@
             "original_air_date": "1646629200",
             "auth_launch_date": 1656388800,
             "clip_order": null,
-            "airing_id": "RADS1005202200000151",
+            "airing_id": "RADS1006232200009100",
             "media_id": "ac2e386337dd2e68477da4f3331966aaeacfc5a0",
-            "modified": 1656029334,
+            "modified": 1659362649,
             "slug": "may-cause-a-squeakquel",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311355387-RobotChicken_1115_MayCauseASqueakquel.png",
@@ -39,7 +38,7 @@
             "season_number": "11",
             "title_id": "2270602",
             "tv_rating": "tv-ma-v",
-            "published": 1656029334,
+            "published": 1659362649,
             "tags": [],
             "collection_title": "Robot Chicken",
             "disable_ads": false,
@@ -52,5 +51,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
