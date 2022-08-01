@@ -1,52 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1659326340,
-        "tms_id": "EP031416130003",
-        "description": "While preparations are underway, Emma, Norman, and Ray are now \"training\" the other kids so they can get stronger and be ready when the time comes. But despite Mom's orders, the new Sister Krone has her own plan.",
-        "title_suggest": {
-            "input": [
-                "181045"
-            ]
-        },
-        "title": "181045",
-        "expiration_date": 1655697540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1293.17,
-        "episode_number": "3",
-        "original_air_date": 1556424000,
-        "auth_launch_date": 1655697600,
-        "clip_order": null,
-        "media_id": "a70fe32ae2d9c95e30190ad457a75e07a880df1f",
-        "modified": 1655355719,
-        "airing_id": "RADS1006162200007091",
-        "slug": "181045",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155622705878514.jpg",
-        "created": 1556227067,
-        "season_number": "1",
-        "title_id": "2194661",
-        "tv_rating": "tv-14",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1655355719,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "modified_by": "ODT Listener",
-        "launch_date": 1654488000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622705878514.jpg",
-        "id": "AWpWXI6IAScUIg8XxfLy",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1659931140,
         "tms_id": "EP031416130004",
         "description": "Emma, Norman, and Ray figure out that there may be a traitor among the children, an informant for Mom. As Norman attempts to solve this mystery, Emma notices something strange about Gilda.",
@@ -277,6 +231,100 @@
         "launch_date": 1658721600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15592507484158.jpg",
         "id": "AWsFCQrdCorLtcgflqy3",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1649044740,
+        "tms_id": "EP031416130009",
+        "description": "As Emma steps down from moving the escape plan forward, a new shipment date is announced earlier than expected, and someone will get shipped before Ray.",
+        "title_suggest": {
+            "input": [
+                "031145"
+            ]
+        },
+        "title": "031145",
+        "type": "episode",
+        "expiration_date": 1662955140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1286.1,
+        "episode_number": "9",
+        "original_air_date": 1560052800,
+        "auth_launch_date": 1645419600,
+        "clip_order": null,
+        "airing_id": "RADS1007292200016823",
+        "media_id": "6df7835e93495246866deb4fa970499ced6c8cdb",
+        "modified": 1659146299,
+        "slug": "031145",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155994749827615.jpg",
+        "created": 1559683325,
+        "title_id": "2194667",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1659146299,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1659326400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155994749827615.jpg",
+        "id": "AWskXt9wCorLtcgflq8y",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1650254340,
+        "tms_id": "EP031416130011",
+        "description": "Ray and Emma haven't spoken to each other for nearly two months. With Ray's shipment approaching, have they really given up? In the midst of despair, Emma finds Ray in the library.",
+        "title_suggest": {
+            "input": [
+                "140146"
+            ]
+        },
+        "title": "140146",
+        "expiration_date": 1660535940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1286.77,
+        "episode_number": "11",
+        "original_air_date": 1561262400,
+        "auth_launch_date": 1646629200,
+        "clip_order": null,
+        "media_id": "b669700e33081158a3a87cd7e82e7b1ba78180d3",
+        "modified": 1659145739,
+        "airing_id": "RADS1007292200016809",
+        "slug": "140146",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156112696416613.jpg",
+        "created": 1561126982,
+        "season_number": "1",
+        "title_id": "2194669",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1659145739,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1659326400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156112696416613.jpg",
+        "id": "AWt6a1ItCorLtcgflrW8",
         "auth": false
     },
     {
