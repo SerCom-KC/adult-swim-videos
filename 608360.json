@@ -4621,6 +4621,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1665460740,
+        "tms_id": "EP007259620236",
+        "description": "Robot Chicken takes Mojo Jojo's side against the Powerpuff Girls; Nightwing demands criminals butt out; Dilbert dies hard with a vengeance of laughter!",
+        "title_suggest": {
+            "input": [
+                "May Cause a Squeakquel",
+                "Cause a Squeakquel",
+                "a Squeakquel",
+                "Squeakquel"
+            ]
+        },
+        "title": "May Cause a Squeakquel",
+        "expiration_date": 1656388740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 657.023,
+        "episode_number": "16",
+        "original_air_date": "1646629200",
+        "auth_launch_date": 1659412800,
+        "clip_order": null,
+        "airing_id": "RADS1008012200017437",
+        "media_id": "ac2e386337dd2e68477da4f3331966aaeacfc5a0",
+        "modified": 1659363795,
+        "slug": "may-cause-a-squeakquel",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311355387-RobotChicken_1115_MayCauseASqueakquel.png",
+        "created": 1646160949,
+        "season_number": "11",
+        "title_id": "2270602",
+        "tv_rating": "tv-ma-v",
+        "published": 1659363795,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1653364800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311355387-RobotChicken_1115_MayCauseASqueakquel.png",
+        "id": "AX9G1rEo208s7zyYUMOm",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1660017540,
         "tms_id": "EP007259620237",
         "description": "Robot Chicken lets Yoshi get his revenge on Mario once and for all; A period so bad it requires a famous exorcist to fix; Snoopy trains a new crew of WWI flying aces.",
@@ -5419,7 +5466,7 @@
         "launch_date": 1659412800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921516552-RobotChicken_1104_MayCauseTheExactThingYoureTakingThisToAvoid.png",
         "id": "AXun8YqSUQa40cfnRR4p",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1664251140,
@@ -5777,7 +5824,7 @@
         "launch_date": 1656388800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220411/thumbnails/2_22411125737-Season11Endmin.png",
         "id": "AYAHF19h208s7zyYUMhm",
-        "auth": false
+        "auth": true
     },
     {
         "auth": true,
