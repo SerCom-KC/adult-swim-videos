@@ -104,6 +104,59 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447440060,
+        "auth_expiration_date": 1634097540,
+        "tms_id": "EP004625760050",
+        "rating": 8.517799,
+        "description": "Doctor Quinn has invented a genetic-hybrid crustacean which wields, in its powerful claws, the power to eradicate world hunger.  But only if he can keep those evil Grizzlebee's purchasing agents from getting their greasy manhooks on it.  Although to be fair, they're really not all that evil.  They're just kinda jerks.",
+        "title_suggest": {
+            "input": [
+                "Shrabster"
+            ]
+        },
+        "type": "episode",
+        "title": "Shrabster",
+        "expiration_date": 1662523140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 689.4337671,
+        "episode_number": "9",
+        "original_air_date": 1111986900,
+        "clip_order": null,
+        "auth_launch_date": 1631073600,
+        "modified": 1659279485,
+        "media_id": "5ba543b2ab9d76fcf00224c950ff30c4e3c9ad64",
+        "airing_id": "RADS1007312200016922",
+        "id": "7xlqx8YYTm-fWUi6ZPYbkw",
+        "slug": "shrabster",
+        "views": 233755,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_20416914505-sealab_048.jpg",
+        "created": 1402945476,
+        "title_id": "611927",
+        "season_number": "4",
+        "tv_rating": "tv-14-dls",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1659279485,
+        "tags": [
+            "sealab 2021 episode 48 shrabster"
+        ],
+        "rating_count": 871,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1659499200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416914505-sealab_048.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447439700,
         "auth_expiration_date": 1661313540,
@@ -153,59 +206,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1655265600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416911337-sealab_041.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447439400,
-        "auth_expiration_date": 1659499140,
-        "tms_id": "EP004625760040",
-        "rating": 9.515387,
-        "description": "Sealab secedes!  (From whom, and lots of other pertinent issues, to be discussed more fully during the actual episode.)",
-        "title_suggest": {
-            "input": [
-                "Let Em Eat Corn",
-                "Em Eat Corn",
-                "Eat Corn",
-                "Corn"
-            ]
-        },
-        "type": "episode",
-        "title": "Let Em Eat Corn",
-        "expiration_date": 1656475140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 660.0667334,
-        "episode_number": "12",
-        "original_air_date": 1090208700,
-        "clip_order": null,
-        "auth_launch_date": 1656475200,
-        "modified": 1656053385,
-        "airing_id": "RADS1006232200009166",
-        "media_id": "b74cf76a634f85afb0105ae3f6c5008862746163",
-        "id": "NcoWUOdwQaq61ai77gav8A",
-        "slug": "let-em-eat-corn",
-        "views": 216560,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_2041699443-sealab_038.jpg",
-        "created": 1402945476,
-        "title_id": "544399",
-        "season_number": "3",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1656053385,
-        "tags": [],
-        "rating_count": 1754,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1653451200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041699443-sealab_038.jpg",
         "cma_id": ""
     },
     {
@@ -473,7 +473,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447439760,
         "auth_expiration_date": 1662523140,
         "tms_id": "EP004625760045",
