@@ -709,5 +709,56 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220721/thumbnails/2_22721959541-LupinThe3rd_Part6_613_AnInvitationFromThePast.png",
         "id": "AYIdWoHS3sQvipyea9gH",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1661675340,
+        "tms_id": "EP040430990017",
+        "description": "Sometimes the ghosts from our pasts just can't stay dead. Jigen learns this all too well when Lupin's latest scheme targets a bride with a familiar face.",
+        "title_suggest": {
+            "input": [
+                "Wedding Bells Ring with the Sound of Gunfire",
+                "Bells Ring with the Sound of Gunfire",
+                "Ring with the Sound of Gunfire",
+                "with the Sound of Gunfire",
+                "the Sound of Gunfire",
+                "Sound of Gunfire",
+                "of Gunfire",
+                "Gunfire"
+            ]
+        },
+        "title": "Wedding Bells Ring with the Sound of Gunfire",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1293.5255,
+        "episode_number": "15",
+        "original_air_date": "1659848400",
+        "auth_launch_date": 1659861000,
+        "clip_order": null,
+        "airing_id": "RADS1008052200019907",
+        "media_id": "4b9ad5e2ee179d36d54de76b3beb85c302d7f61c",
+        "modified": 1659726450,
+        "slug": "wedding-bells-ring-with-the-sound-of-gunfire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_2282124304-LupinThe3rd_Part6_015_WeddingBellsRingWithTheSoundOfGunfire.png",
+        "created": 1659458590,
+        "season_number": "1",
+        "title_id": "2387396",
+        "tv_rating": "tv-14-lv",
+        "published": 1659726450,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124304-LupinThe3rd_Part6_015_WeddingBellsRingWithTheSoundOfGunfire.png",
+        "id": "AYJfcJfb3sQvipyea9rv",
+        "auth": true
     }
 ]
