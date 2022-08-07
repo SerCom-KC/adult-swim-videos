@@ -8533,6 +8533,61 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447347060,
+        "auth_expiration_date": 1659844740,
+        "tms_id": "EP007259620005",
+        "rating": 6.6287427,
+        "description": "America sends Harrison Ford into space to take out a killer asteroid in \"Meteorgeddon.\" Household animals take to the slopes for \"Winter Pet Games.\" Chucky from Child's Play takes on the cutesy Lettuce Head Kids. The Muppet Show's band is spotlighted in \"Behind the Music: Electric Mayhem.\"",
+        "title_suggest": {
+            "input": [
+                "The Plastic Buffet",
+                "Plastic Buffet",
+                "Buffet"
+            ]
+        },
+        "type": "episode",
+        "title": "The Plastic Buffet",
+        "expiration_date": 1613365140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 651.7340674,
+        "episode_number": "4",
+        "original_air_date": 1110774600,
+        "clip_order": null,
+        "auth_launch_date": 1651896000,
+        "modified": 1659837599,
+        "airing_id": "RADS1005062200096408",
+        "media_id": "7f398a85b0c728f66739487e53e6cbaf9f885684",
+        "id": "XhjWDVnpR6uadwMxCDf7XQ",
+        "slug": "the-plastic-buffet",
+        "views": 46044,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_203262035456-robotchicken_008.jpg",
+        "created": 1402945475,
+        "title_id": "609696",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1659837599,
+        "tags": [
+            "robot chicken plastic buffet episode 4"
+        ],
+        "rating_count": 668,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1610341200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262035456-robotchicken_008.jpg",
+        "cma_id": "1156048"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447360500,
         "auth_expiration_date": 1662868799,
         "tms_id": "EP007259620103",
