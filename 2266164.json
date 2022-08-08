@@ -678,5 +678,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220803/thumbnails/2_22831725200-TucaAndBertie_305_SaladDays.png",
         "id": "AYJLzKoxIAxeiVkFtLQp",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1661745540,
+        "tms_id": "EP031843450026",
+        "description": "Ahhh! The girls revisit Bertie's spookiest memory: a high school friendship that got hella intense!",
+        "title_suggest": {
+            "input": [
+                "Screech Leeches",
+                "Leeches"
+            ]
+        },
+        "title": "Screech Leeches",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXI5AAWnRs3h4hI_X3zz",
+        "duration": 1380.4791,
+        "episode_number": "6",
+        "original_air_date": "1659931200",
+        "auth_launch_date": 1659931200,
+        "clip_order": null,
+        "airing_id": "RADS1008052200019961",
+        "media_id": "6a48e6fbe7a5eabed497ffda0ef673ade2b7e8f8",
+        "modified": 1659728415,
+        "slug": "screech-leeches",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_22821248554-TucaAndBertie_306_ScreechLeeches.png",
+        "created": 1659458946,
+        "season_number": "3",
+        "title_id": "2388616",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1659728415,
+        "tags": [],
+        "collection_title": "Tuca & Bertie",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821248554-TucaAndBertie_306_ScreechLeeches.png",
+        "id": "AYJfdgY23sQvipyea9rz",
+        "auth": true
     }
 ]
