@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 9, 2022 at 04:00:27 EDT_
+_Last Update: August 9, 2022 at 06:00:26 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-830073 Off The Air: 1  
-### 2396314
-**Off The Air S12E01 - Nonsense**  
-TV-MA 🔓 10:49  
-⌛ August 9, 2022 at 03:29:00 EDT  
-https://www.adultswim.com/videos/off-the-air/nonsense  
-seriesid=`830073` titleid=`2396314` id=`AYG7waAL208s7zyYUNUV` mediaid=`e0beece15ce884780984171af157b9034fc01797`  
-_To be eaten with a runcible spoon._  
-<a href="https://media.cdn.adultswim.com/uploads/20220707/thumbnails/2_227793267-OffTheAir_1201_Nonsense.png"><img src="https://media.cdn.adultswim.com/uploads/20220707/thumbnails/2_227793267-OffTheAir_1201_Nonsense.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177786
+**Naruto: Shippuden S07E09 - Kakashi: Shadow of the ANBU Black Ops - An Uchiha ANBU**  
+TV-PG-V 🔒 21:50  
+⌛ October 30, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-an-uchiha-anbu  
+seriesid=`812206` titleid=`2177786` id=`AXvK6iVrUQa40cfnRR8r` mediaid=`142d39806cd75302aa9db212d29f21891ff95871`  
+_Itachi Uchiha is inducted into Kakashi's unit as the youngest member of the ANBU Black Ops._  
+<a href="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101347154-NarutoShippuden_357_KakashiShadowOfTheANBUBlackOpsAnUchihaANBU.png"><img src="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101347154-NarutoShippuden_357_KakashiShadowOfTheANBUBlackOpsAnUchihaANBU.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
