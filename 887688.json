@@ -53,59 +53,6 @@
         "cma_id": "1418184"
     },
     {
-        "auth": false,
-        "ott_launch_date": 1446847020,
-        "auth_expiration_date": 1660103940,
-        "tms_id": "EP015399680018",
-        "rating": 6.504633,
-        "description": "The guys search for treasure, Jasper attempts a bike jump with the help of Andy Bell, and Earl complains about his roommate.",
-        "title_suggest": {
-            "input": [
-                "Menace 2 Society",
-                "2 Society",
-                "Society"
-            ]
-        },
-        "type": "episode",
-        "title": "Menace 2 Society",
-        "expiration_date": 1657079940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
-        "duration": 674.4170142,
-        "episode_number": "7",
-        "original_air_date": 1366603200,
-        "clip_order": null,
-        "auth_launch_date": 1657080000,
-        "modified": 1656657397,
-        "media_id": "28df214426b0b2ec75f9891eb738d17a31a16380",
-        "airing_id": "RADS1005272200001410",
-        "id": "1J68ovoPSQCtZmcZ2w7tDQ",
-        "slug": "menace-2-society",
-        "views": 143600,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361022400-loitersquad_207_dup-20130327.jpg",
-        "created": 1402945468,
-        "title_id": "2000765",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1656657397,
-        "tags": [],
-        "rating_count": 1619,
-        "collection_title": "Loiter Squad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654056000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361022400-loitersquad_207_dup-20130327.jpg",
-        "cma_id": "1404041"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1446847080,
         "auth_expiration_date": 1661918340,
@@ -337,7 +284,7 @@
         "cma_id": "1426049"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446847140,
         "auth_expiration_date": 1663127940,
         "tms_id": "EP015399680023",
@@ -389,6 +336,58 @@
         "launch_date": 1657080000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361024402-loitersquad_022_dup-20140429.jpg",
         "cma_id": "1423458"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446846660,
+        "auth_expiration_date": 1651636740,
+        "tms_id": "EP015399680003",
+        "rating": 7.6407337,
+        "description": "Lionel the Booty Hunter; the Channel 5 News presents puppies and catamarans; new D'Angelo video drops",
+        "title_suggest": {
+            "input": [
+                "Episode 3",
+                "3"
+            ]
+        },
+        "type": "episode",
+        "title": "Episode 3",
+        "expiration_date": 1663127940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
+        "duration": 666,
+        "episode_number": "3",
+        "original_air_date": 1333942200,
+        "clip_order": null,
+        "auth_launch_date": 1648612800,
+        "modified": 1659739517,
+        "media_id": "10f85e92d25bcdcfe6ace07a1269519ff6a3e30e",
+        "airing_id": "RADS1008052200020101",
+        "id": "ef2t12cuTzyocW0r4cm-vw",
+        "slug": "episode-3",
+        "views": 306814,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361016593-loitersquad_103_dup-20120516.jpg",
+        "created": 1402945468,
+        "title_id": "887691",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1659739517,
+        "tags": [],
+        "rating_count": 2725,
+        "collection_title": "Loiter Squad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660104000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361016593-loitersquad_103_dup-20120516.jpg",
+        "cma_id": "1476385"
     },
     {
         "auth": false,

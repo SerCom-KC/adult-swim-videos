@@ -317,56 +317,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1447439460,
-        "auth_expiration_date": 1660103940,
-        "tms_id": "EP004625760041",
-        "rating": 8.8745775,
-        "description": "Enter the sinister and mysterious world of the Neptunati, a secret organization that holds the fate of the world in its clutches.  And which also, for some reason, has Shanks as a member.  Drink deeply of the real human blood from that real human skull, Neophyte!  Yeah, wolf it!  Wait, you got some on your chin, dummy.",
-        "title_suggest": {
-            "input": [
-                "Neptunati"
-            ]
-        },
-        "type": "episode",
-        "title": "Neptunati",
-        "expiration_date": 1657079940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 655.0667334,
-        "episode_number": "13",
-        "original_air_date": 1090813500,
-        "clip_order": null,
-        "auth_launch_date": 1657080000,
-        "modified": 1656654682,
-        "airing_id": "RADS1006302200011552",
-        "media_id": "fdc34c0cb382f3933d93f868f0818654efb6b9d7",
-        "id": "W5vvoGpjRCuRfnjLmvOQdQ",
-        "slug": "neptunati",
-        "views": 178141,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_20416910118-sealab_039.jpg",
-        "created": 1402945476,
-        "title_id": "544400",
-        "season_number": "3",
-        "tv_rating": "tv-14-dls",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1656654682,
-        "tags": [],
-        "rating_count": 598,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654056000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416910118-sealab_039.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1447440000,
         "auth_expiration_date": 1632887940,
         "tms_id": "EP004625760048",
@@ -419,7 +369,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1663127940,
         "tms_id": "EP004625760046",
@@ -525,5 +475,55 @@
         "launch_date": 1656475200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416912410-sealab_043.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447440060,
+        "auth_expiration_date": 1634702340,
+        "tms_id": "EP004625760051",
+        "rating": 8.864707,
+        "description": "Stormy and Quinn narrowly escape a nuclear catastrophe, only to be trapped in an underwater cave by a thirty-foot, ravenous Great White!  And they've only got 10 minutes of oxygen remaining!  Actually, in the time it took you to read that, they're probably down to about 9:45... and now it's 9:40... and... you get the ideer.",
+        "title_suggest": {
+            "input": [
+                "Cavemen"
+            ]
+        },
+        "type": "episode",
+        "title": "Cavemen",
+        "expiration_date": 1663127940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 669.6339673,
+        "episode_number": "10",
+        "original_air_date": 1112588100,
+        "clip_order": null,
+        "auth_launch_date": 1631678400,
+        "modified": 1659738650,
+        "airing_id": "RADS1008052200020096",
+        "media_id": "7192e45f5bacc596bede0e84448bd389e612ca87",
+        "id": "s21VEnPcSseOFb8wXyGZfg",
+        "slug": "cavemen",
+        "views": 164975,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_20416915136-sealab_049.jpg",
+        "created": 1402945476,
+        "title_id": "611928",
+        "season_number": "4",
+        "tv_rating": "tv-14-dls",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1659738650,
+        "tags": [],
+        "rating_count": 510,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660104000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416915136-sealab_049.jpg",
+        "cma_id": "926842"
     }
 ]
