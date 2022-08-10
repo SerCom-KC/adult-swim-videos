@@ -102,6 +102,59 @@
         "cma_id": "1432177"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447783740,
+        "auth_expiration_date": 1635307140,
+        "tms_id": "EP008994530004",
+        "rating": 6.266001,
+        "description": "Tim and Eric give a seminar in how to build a successful sitcom writing career. Tim meets his wife. \r\n(Al Yankovic, Bob Odenkirk guest star)",
+        "title_suggest": {
+            "input": [
+                "Salame"
+            ]
+        },
+        "type": "episode",
+        "title": "Salame",
+        "expiration_date": 1663127940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 686.011,
+        "episode_number": "4",
+        "original_air_date": 1173069900,
+        "clip_order": null,
+        "auth_launch_date": 1632283200,
+        "modified": 1659982074,
+        "media_id": "0bcc7ad08f844ac2584aab88e046b2243a59c8cc",
+        "airing_id": "RADS1008052200020107",
+        "id": "7slCiE23QlWVDyiABDZQAQ",
+        "slug": "salame",
+        "views": 437534,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161619554-timanderic_104.jpg",
+        "created": 1402945481,
+        "title_id": "661591",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1659982074,
+        "tags": [
+            "tim eric awesome show great job episode 4 salame song david liebe hart sitcom writing writers career wife seminar"
+        ],
+        "rating_count": 6218,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660104000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161619554-timanderic_104.jpg",
+        "cma_id": "1472117"
+    },
+    {
         "auth_expiration_date": 1632887940,
         "tms_id": "",
         "description": "Chrimbus is the holiday of receiving, and the Tim and Eric Chrimbus Special is a for retailers only live performance aimed at convincing retailers to buy the DVD of the special.",
@@ -389,56 +442,6 @@
         "cma_id": "1414070"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447785000,
-        "auth_expiration_date": 1660103940,
-        "tms_id": "EP008994530046",
-        "rating": 8.654383,
-        "description": "Cinco finally develops a product that helps male friends watch each other sleep. The Paynus Brothers release a new single. (Guest starring: John Ennis, Michael Gross, Marilyn Manson, Jerry Penacoli, Bob Odenkirk, Rainn Wilson)",
-        "title_suggest": {
-            "input": [
-                "Crows"
-            ]
-        },
-        "type": "episode",
-        "title": "Crows",
-        "expiration_date": 1657079940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 674.14,
-        "episode_number": "5",
-        "original_air_date": 1269837000,
-        "clip_order": null,
-        "auth_launch_date": 1657080000,
-        "modified": 1656654684,
-        "media_id": "cdc7fc2a2066469e34747bc0577a072036b14731",
-        "airing_id": "RADS1006302200011551",
-        "id": "VRAbX2WVS_aXiAU9VsGh8A",
-        "slug": "crows",
-        "views": 350043,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161648509-timanderic_505.jpg",
-        "created": 1402945481,
-        "title_id": "787508",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1656654684,
-        "tags": [],
-        "rating_count": 1846,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654056000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161648509-timanderic_505.jpg",
-        "cma_id": "1426340"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447783560,
         "auth_expiration_date": 1633492740,
@@ -554,7 +557,7 @@
         "cma_id": "1233905"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447785060,
         "auth_expiration_date": 1663127940,
         "tms_id": "EP008994530051",
