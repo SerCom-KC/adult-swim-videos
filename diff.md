@@ -2,10 +2,46 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 11, 2022 at 16:30:24 EDT_
+_Last Update: August 11, 2022 at 17:00:25 EDT_
 ## Video added
 ### Summary
-608360 Robot Chicken: 7  
+608360 Robot Chicken: 4  
+### 2213492
+**Robot Chicken S10E19 - Babe Hollytree in: I Wish One Person Had Died**  
+TV-MA 🔒 10:56  
+⌛ August 11, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/babe-hollytree-in-i-wish-one-person-had-died  
+seriesid=`608360` titleid=`2213492` id=`AXN2yoH5C8QgH-t19KEA` mediaid=`2c8a6085f02f804774074b4357ffa49146f1fffc`  
+_The Pomsie's have come to take over our world! The kids at Hogwarts get to see each others' true fears. The RC gang puts a new twist on Old Yeller. We learn that Alexa never stops listening and that can only lead to one thing..._  
+<a href="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg" height="144px" /></a>
+### 2213484
+**Robot Chicken S10E12 - Callie Greenhouse in: Fun. Sad. Epic. Tragic.**  
+TV-MA 🔒 11:14  
+⌛ August 11, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/callie-greenhouse-in-fun-sad-epic-tragic  
+seriesid=`608360` titleid=`2213484` id=`AXLmxP2lC8QgH-t19Jw3` mediaid=`f8e039e390a87589a48f52b1cb52e99f38625acd`  
+_Batman makes an addition to his costume. Ride along with the Westeros, P.D. and see how they solve crimes. And the RC crew puts Bitch Pudding on Love Island to see what kind of match she will find._  
+<a href="https://media.cdn.adultswim.com/uploads/20200624/thumbnails/2_206241041227-robotchicken_1011_dup-20190812.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200624/thumbnails/2_206241041227-robotchicken_1011_dup-20190812.jpg" height="144px" /></a>
+### 2200999
+**Robot Chicken S10E03 - Fila Ogden in: Maggie's Got a Full Load**  
+TV-MA 🔒 11:18  
+⌛ August 11, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/fila-ogden-in-maggies-got-a-full-load  
+seriesid=`608360` titleid=`2200999` id=`AW2ETZjbadNs2hMNfuIm` mediaid=`b4c735f5d67efacf3398225a42da6f11836cd1ad`  
+_April O'Neil and Donald Trump sit down and get to the truth about Shredder. We get a first glimpse at the The Fast and The Furious movies. The RC Writers show us what happened to Pee Wee's Playhouse while for his stolen bicycle._  
+<a href="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031314467-robotchicken_1003_dup-20190607.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031314467-robotchicken_1003_dup-20190607.jpg" height="144px" /></a>
+### 2213489
+**Robot Chicken S10E16 - Ghandi Mulholland in: Plastic Doesn't Get Cancer**  
+TV-14-DLSV 🔒 11:09  
+⌛ August 11, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/robot-chicken/ghandi-mulholland-in-plastic-doesnt-get-cancer  
+seriesid=`608360` titleid=`2213489` id=`AXMvswMwC8QgH-t19J5b` mediaid=`7b2d6e7d76ff9043db3835093c0e6f3eccd592d2`  
+_Good Will Hunting goes Goodwill Hunting. Pennywise the clown shows off some new moves. A Fortnite contractor is hired to build a house. And the RC crew reimagines the show Pete & Pete._  
+<a href="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791033258-robotchicken_1016_dup-20190906.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791033258-robotchicken_1016_dup-20190906.jpg" height="144px" /></a>
+## Video removed
+### Summary
+608360 Robot Chicken: 3  
+812206 Naruto: Shippuden: 3  
 ### 2201008
 **Robot Chicken S10E02 - Bugs Keith in: I Can't Call Heaven, Doug**  
 TV-MA 🔒 10:49  
@@ -14,38 +50,6 @@ https://www.adultswim.com/videos/robot-chicken/bugs-keith-in-i-cant-call-heaven-
 seriesid=`608360` titleid=`2201008` id=`AW1uzwmVadNs2hMNfuHt` mediaid=`db7a2eb1f5326944fd04164023ca2c3715544b0d`  
 _The Robot Chicken crew shows us what events made Harold start drawing with his purple crayon. Jerry Seinfeld and The Joker have a very explosive chat in Jerry's car. Miss Frizzle jumps on board the Fortnite Battle Bus and rides into battle._  
 <a href="https://media.cdn.adultswim.com/uploads/20190926/thumbnails/2_19926167478-robotchicken_1002_dup-20190725.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190926/thumbnails/2_19926167478-robotchicken_1002_dup-20190725.jpg" height="144px" /></a>
-### 2213493
-**Robot Chicken S10E20 - Endgame**  
-TV-14-DLSV 🔒 11:12  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/endgame  
-seriesid=`608360` titleid=`2213493` id=`AXN2yutrRs3h4hI_X4YY` mediaid=`f2ed65ac0137141fe1ae57026919ddac120d2e9b`  
-_The Super, Extra-Special, One of a Kind, 200th episode spectacular! The Robot Chicken crew finally reveals everything you wanted to know about his experiment with the chicken, the chair, and the televisions._  
-<a href="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722951131-robotchicken_1020_dup-20200121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722951131-robotchicken_1020_dup-20200121.jpg" height="144px" /></a>
-### 2201007
-**Robot Chicken S10E01 - Ginger Hill in: Bursting Pipes**  
-TV-MA-L 🔒 11:23  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/ginger-hill-in-bursting-pipes  
-seriesid=`608360` titleid=`2201007` id=`AW1pk3rAadNs2hMNfuHG` mediaid=`34337490bef59203926b769fa8d237dda531cf64`  
-_Robot Chicken Writers tell us  what can take down the Teenage Mutant Ninja Turtles. Popeye and crew get rebooted to fit in with today's audience. And Bitch Pudding takes on the role of a Handmaid._  
-<a href="https://media.cdn.adultswim.com/uploads/20190925/thumbnails/2_199251358512-robotchicken_1001_dup-20190626.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190925/thumbnails/2_199251358512-robotchicken_1001_dup-20190626.jpg" height="144px" /></a>
-### 2213488
-**Robot Chicken S10E14 - Petless M in: Cars are Couches of the Road**  
-TV-14-DLSV 🔒 11:00  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/petless-m-in-cars-are-couches-of-the-road  
-seriesid=`608360` titleid=`2213488` id=`AXLxNROaRs3h4hI_X4MJ` mediaid=`96f4646cbe006ed443bc49713a3fa923d2548df4`  
-_The RC writers imagine Harry Potter as a 70's sitcom. The future looks bleak for Nostradamus's assistant. We answer the question of what's underneath Abe Lincoln's hat. And the Jonas Brothers learn they are more than just brothers._  
-<a href="https://media.cdn.adultswim.com/uploads/20200626/thumbnails/2_206261254274-robotchicken_1015_dup-20190823.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200626/thumbnails/2_206261254274-robotchicken_1015_dup-20190823.jpg" height="144px" /></a>
-### 2213486
-**Robot Chicken S10E11 - Robot Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special**  
-TV-MA 🔒 11:14  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/robot-chickens-santas-dead-spoiler-alert-holiday-murder-thing-special  
-seriesid=`608360` titleid=`2213486` id=`AW7HdKmX1YiBSfg0KZAG` mediaid=`c5b426e30d30926ba6d070e8bb075c6278446099`  
-_The Robot Chicken Christmas Murder Mystery Special!_  
-<a href="https://media.cdn.adultswim.com/uploads/20191202/thumbnails/2_191221132100-robotchicken_1013_dup-20191025.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191202/thumbnails/2_191221132100-robotchicken_1013_dup-20191025.jpg" height="144px" /></a>
 ### 2201003
 **Robot Chicken S10E07 - Snoopy Camino Lindo in: Quick and Dirty Squirrel Shot**  
 TV-14-DLSV 🔒 11:13  
@@ -62,22 +66,27 @@ https://www.adultswim.com/videos/robot-chicken/spike-fraser-in-should-i-happen-t
 seriesid=`608360` titleid=`2201005` id=`AW2EUFg81YiBSfg0KXXB` mediaid=`6ace415efda1faba6f7398bd4cc02c9debe0dd6b`  
 _The Robot Chicken crew reveals what really happened to Bambi's mother. An Animorph revives the Red Panda population. See what happens after Brainy Smurf gets diagnosed with CTE. And Bitch Pudding goes up against Norman Bates._  
 <a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124430-robotchicken_1009_dup-20190801.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124430-robotchicken_1009_dup-20190801.jpg" height="144px" /></a>
-## Video removed
-### Summary
-608360 Robot Chicken: 2  
-### 2201006
-**Robot Chicken S10E10 - Musya Shakhtyorov in: Honeyboogers**  
-TV-14-DLV 🔒 11:15  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/musya-shakhtyorov-in-honeyboogers  
-seriesid=`608360` titleid=`2201006` id=`AW2EUJ2badNs2hMNfuIo` mediaid=`440b0fa4310be0704221911c68d1fb2fe4bc86cf`  
-_The Squatch Squad emerges from hiding to protect their forest home. The Wuzzles meet The Fly and things get a little bit crazy. The RC writers show us Bill & Ted's last and greatest adventure._  
-<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124592-robotchicken_1010_dup-20190717.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124592-robotchicken_1010_dup-20190717.jpg" height="144px" /></a>
-### 2213490
-**Robot Chicken S10E17 - Gracie Purgatory in: That's How You Get Hemorrhoids**  
-TV-MA-L 🔒 11:14  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/gracie-purgatory-in-thats-how-you-get-hemorrhoids  
-seriesid=`608360` titleid=`2213490` id=`AXMvswKDC8QgH-t19J5a` mediaid=`3d8dd90f608d6f9fe03cb78e152ecde5f7e85237`  
-_We learn what Squidward is up to after his role on Spongebob ends. Uber has a new ride share system. Broadway will never be the same after Venom joins the cast of Hamilton. Pink Panther challenges The Black Panther for the throne._  
-<a href="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791032589-robotchicken_1017_dup-20190903.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791032589-robotchicken_1017_dup-20190903.jpg" height="144px" /></a>
+### 2177798
+**Naruto: Shippuden S07E21 - My True Dream**  
+TV-PG 🔒 21:51  
+⌛ August 14, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/my-true-dream  
+seriesid=`812206` titleid=`2177798` id=`AX5UFvYF_0O4w1rD3RW0` mediaid=`78a96bd64779b4b9155b70c8b7fa33c31eba51b8`  
+_Standing on the cliff where they first confided their hopes to each other, Hashirama and Madara gaze at their burgeoning village._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171118-NarutoShippuden_369_MyTrueDream.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171118-NarutoShippuden_369_MyTrueDream.png" height="144px" /></a>
+### 2177799
+**Naruto: Shippuden S07E22 - Sasuke's Answer**  
+TV-PG 🔒 21:53  
+⌛ August 14, 2022 at 06:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/sasukes-answer  
+seriesid=`812206` titleid=`2177799` id=`AX5UFvg-_0O4w1rD3RW1` mediaid=`aaefef1194317c7c471505c4d127d273d3d9530c`  
+_After listening to what Hashirama and the rest of the former Hokage have to say, Sasuke decides on the path he will ultimately take._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141712538-NarutoShippuden_370_SasukesAnswer.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141712538-NarutoShippuden_370_SasukesAnswer.png" height="144px" /></a>
+### 2177817
+**Naruto: Shippuden S07E39 - The Promise That Was Kept**  
+TV-PG 🔒 21:50  
+⌛ August 14, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-promise-that-was-kept  
+seriesid=`812206` titleid=`2177817` id=`AYBr9C0P_0O4w1rD3SG9` mediaid=`369915fe3b4554c368abda37fd32755ea00a6226`  
+_Naruto's power of persuasion moves Obito's heart. Due to the influence of the Ten Tails, visions of himself and Rin from the past appear in the inner realm and play havoc with Obito's emotions._  
+<a href="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271256369-NarutoShippuden_387_ThePromiseThatWasKept.png"><img src="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271256369-NarutoShippuden_387_ThePromiseThatWasKept.png" height="144px" /></a>
