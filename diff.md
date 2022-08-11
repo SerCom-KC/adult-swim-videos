@@ -2,34 +2,29 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 11, 2022 at 17:30:28 EDT_
+_Last Update: August 11, 2022 at 18:00:29 EDT_
 ## Video added
 ### Summary
-608360 Robot Chicken: 1  
-### 2213487
-**Robot Chicken S10E15 - Buster Olive in: The Monkey Got Closer Overnight**  
-TV-14-DLSV 🔒 11:13  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/buster-olive-in-the-monkey-got-closer-overnight  
-seriesid=`608360` titleid=`2213487` id=`AXMQJj1aC8QgH-t19J1X` mediaid=`f1800521e94af222bc111868fef05d997fa441e0`  
-_Tyrion Lannister learns the true meaning of "winter is coming." Blade tries to slice his way into infomercials. Inside Out Boy goes to college. The Robot Chicken writers show what happens when Halloween meets Home Alone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 2  
+2013506 Rick and Morty: 2  
+### Online Exclusives
+`AYKOyQfu3sQvipyea9xn` [Rick and Morty - Season 6 Official Trailer](https://www.adultswim.com/videos/rick-and-morty/season-6-official-trailer)  
+`AYKOxSvD3sQvipyea9xk` [Rick and Morty - Wormageddon: A Citadel Secret](https://www.adultswim.com/videos/rick-and-morty/wormageddon-a-citadel-secret)  
+### 2177798
+**Naruto: Shippuden S07E21 - My True Dream**  
+TV-PG 🔒 21:51  
+⌛ August 14, 2022 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/my-true-dream  
+seriesid=`812206` titleid=`2177798` id=`AX5UFvYF_0O4w1rD3RW0` mediaid=`78a96bd64779b4b9155b70c8b7fa33c31eba51b8`  
+_Standing on the cliff where they first confided their hopes to each other, Hashirama and Madara gaze at their burgeoning village._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171118-NarutoShippuden_369_MyTrueDream.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171118-NarutoShippuden_369_MyTrueDream.png" height="144px" /></a>
+### 2177799
+**Naruto: Shippuden S07E22 - Sasuke's Answer**  
+TV-PG 🔒 21:53  
+⌛ August 14, 2022 at 06:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/sasukes-answer  
+seriesid=`812206` titleid=`2177799` id=`AX5UFvg-_0O4w1rD3RW1` mediaid=`aaefef1194317c7c471505c4d127d273d3d9530c`  
+_After listening to what Hashirama and the rest of the former Hokage have to say, Sasuke decides on the path he will ultimately take._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141712538-NarutoShippuden_370_SasukesAnswer.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141712538-NarutoShippuden_370_SasukesAnswer.png" height="144px" /></a>
 ## Video removed
-### Summary
-608360 Robot Chicken: 2  
-### 2201007
-**Robot Chicken S10E01 - Ginger Hill in: Bursting Pipes**  
-TV-MA-L 🔒 11:23  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/ginger-hill-in-bursting-pipes  
-seriesid=`608360` titleid=`2201007` id=`AW1pk3rAadNs2hMNfuHG` mediaid=`34337490bef59203926b769fa8d237dda531cf64`  
-_Robot Chicken Writers tell us  what can take down the Teenage Mutant Ninja Turtles. Popeye and crew get rebooted to fit in with today's audience. And Bitch Pudding takes on the role of a Handmaid._  
-<a href="https://media.cdn.adultswim.com/uploads/20190925/thumbnails/2_199251358512-robotchicken_1001_dup-20190626.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190925/thumbnails/2_199251358512-robotchicken_1001_dup-20190626.jpg" height="144px" /></a>
-### 2213492
-**Robot Chicken S10E19 - Babe Hollytree in: I Wish One Person Had Died**  
-TV-MA 🔒 10:56  
-⌛ August 11, 2022 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/babe-hollytree-in-i-wish-one-person-had-died  
-seriesid=`608360` titleid=`2213492` id=`AXN2yoH5C8QgH-t19KEA` mediaid=`2c8a6085f02f804774074b4357ffa49146f1fffc`  
-_The Pomsie's have come to take over our world! The kids at Hogwarts get to see each others' true fears. The RC gang puts a new twist on Old Yeller. We learn that Alexa never stops listening and that can only lead to one thing..._  
-<a href="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg" height="144px" /></a>
+No videos were removed.  
