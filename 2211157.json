@@ -1262,5 +1262,49 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124058-Primal_014_TheRedMist.png",
         "id": "AYJfbkyf3sQvipyea9rt",
         "auth": true
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Straight up savage action all day long.",
+        "title_suggest": {
+            "input": [
+                "Primal Test",
+                "Test"
+            ]
+        },
+        "title": "Primal Test",
+        "expiration_date": null,
+        "type": "stream",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": "0",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1660228617,
+        "slug": "primal-test",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220811/thumbnails/1_228111033553-PrimalMarathonImage.png",
+        "created": 1660228574,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "tv-14",
+        "published": 1660228617,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1660190400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220811/thumbnails/2_228111033553-PrimalMarathonImage.png",
+        "id": "AYKNVZ8X3sQvipyea9xI",
+        "auth": false
     }
 ]
