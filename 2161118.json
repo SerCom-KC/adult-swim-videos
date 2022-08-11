@@ -376,6 +376,57 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1660017540,
+        "tms_id": "SH023842960000",
+        "description": "Joe Pera makes an honest attempt to talk you to sleep using mild jokes and low-key stories.",
+        "title_suggest": {
+            "input": [
+                "Joe Pera Talks You to Sleep",
+                "Pera Talks You to Sleep",
+                "Talks You to Sleep",
+                "You to Sleep",
+                "to Sleep",
+                "Sleep"
+            ]
+        },
+        "expiration_date": 1663214340,
+        "type": "episode",
+        "title": "Joe Pera Talks You to Sleep",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "roku"
+        ],
+        "collection_id": "AWK7V5RwTdxzjxdClXz8",
+        "duration": 695.0667334,
+        "original_air_date": 1458633600,
+        "auth_launch_date": 1653969600,
+        "clip_order": null,
+        "media_id": "4f2e5fc41c6235f40f659c33a49ae50cfc7f8114",
+        "modified": 1659764682,
+        "airing_id": "RADS1008052200020166",
+        "slug": "joe-pera-talks-you-to-sleep",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15240845875209.jpg",
+        "created": 1524085025,
+        "season_number": "99",
+        "title_id": "2086418",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1659764682,
+        "tags": [],
+        "collection_title": "Joe Pera Talks With You",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660190400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240845875209.jpg",
+        "id": "AWLai-mJHAeP4-pUPees",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1529418660,
         "auth": false,
         "auth_expiration_date": 1659412740,
@@ -959,6 +1010,56 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1666238340,
+        "tms_id": "EP029506900030",
+        "description": "Joe Pera and you stay up late on a weeknight, listening to his girlfriend Sarah share details from Wine Night.",
+        "title_suggest": {
+            "input": [
+                "Joe Pera Listens to Your Drunk Story",
+                "Pera Listens to Your Drunk Story",
+                "Listens to Your Drunk Story",
+                "to Your Drunk Story",
+                "Your Drunk Story",
+                "Drunk Story",
+                "Story"
+            ]
+        },
+        "title": "Joe Pera Listens to Your Drunk Story",
+        "type": "episode",
+        "expiration_date": 1657771140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWK7V5RwTdxzjxdClXz8",
+        "duration": 668.668,
+        "episode_number": "4",
+        "original_air_date": 1636955100,
+        "auth_launch_date": 1660190400,
+        "clip_order": null,
+        "airing_id": "RADS1008102200020589",
+        "media_id": "655cd2064e43c67e137abfff7bd16d88d9dff2a5",
+        "modified": 1660161465,
+        "slug": "joe-pera-listens-to-your-drunk-story",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png",
+        "created": 1636671022,
+        "title_id": "2298520",
+        "season_number": "3",
+        "tv_rating": "tv-14-dl",
+        "published": 1660161465,
+        "tags": [],
+        "collection_title": "Joe Pera Talks With You",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1654747200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png",
+        "id": "AX0RMeXeUQa40cfnRSoN",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1674104340,
         "tms_id": "EP029506900033",
         "description": "Joe Pera shows you how to stay busy enough on a winter weekend that the winter won't settle inside.",
@@ -1060,7 +1161,7 @@
         "launch_date": 1657166400,
         "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_2112395721-JoePeraTalksWIthYou_308_JoePeraTalksWithYouAboutLegacy.png",
         "id": "AX2AzKOMUQa40cfnRS18",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1657771140,
