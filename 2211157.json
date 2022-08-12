@@ -1169,7 +1169,7 @@
         "launch_date": 1660278600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720832274-Primal_012_ShadowOfFate.png",
         "id": "AYIbmH873sQvipyea9ft",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1660881540,
@@ -1261,6 +1261,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124058-Primal_014_TheRedMist.png",
         "id": "AYJfbkyf3sQvipyea9rt",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662091140,
+        "tms_id": "EP033124370016",
+        "description": "A night of horrors reveals the true nature of man's origin.",
+        "title_suggest": {
+            "input": [
+                "The Primal Theory",
+                "Primal Theory",
+                "Theory"
+            ]
+        },
+        "title": "The Primal Theory",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1246.4786,
+        "episode_number": "5",
+        "original_air_date": 1660276800,
+        "auth_launch_date": 1660276800,
+        "clip_order": null,
+        "airing_id": "RADS1008052200020229",
+        "media_id": "523520936a7aa87d13880c1a325e361eedf5890b",
+        "modified": 1660067103,
+        "slug": "the-primal-theory",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_22891344488-Primal_015_ThePrimalTheory.png",
+        "created": 1659730419,
+        "title_id": "2276161",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "published": 1660067103,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891344488-Primal_015_ThePrimalTheory.png",
+        "id": "AYJvpF1l3sQvipyea9tl",
         "auth": true
     },
     {
