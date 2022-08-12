@@ -2,41 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 12, 2022 at 14:00:26 EDT_
+_Last Update: August 12, 2022 at 16:00:30 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-853486 NTSF:SD:SUV::: 4  
-### 963242
-**NTSF:SD:SUV:: S02E11 - Prairie Dog Companion**  
-TV-14-DL 🔓 11:16  
-⌛ August 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/prairie-dog-companion  
-seriesid=`853486` titleid=`963242` id=`2Wgar9eNTNKfTZ2Yk51mhg` mediaid=`089939bdad9f5c21b28c98e79b713caf3236e28c`  
-_Jessie and Alphonse head underground to infiltrate a group of crazed book sellers who are intent on destroying the internet._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121315573-ntsf_212_dup-20160412.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121315573-ntsf_212_dup-20160412.jpg" height="144px" /></a>
-### 964623
-**NTSF:SD:SUV:: S02E13 - The NTSF:SD:SUV::HISS Infomercial**  
-TV-14 🔓 10:16  
-⌛ August 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/the-ntsf-sd-suv-hiss-infomercial  
-seriesid=`853486` titleid=`964623` id=`althaEToRNG3rcTUHEICLA` mediaid=`0c1620f2dd26615ee17a1ded5866cf22d57c3e03`  
-_The NTSF team shows off their new home security system and free iPhone app._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121316546-ntsf_214_dup-20121107.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121316546-ntsf_214_dup-20121107.jpg" height="144px" /></a>
-### 963239
-**NTSF:SD:SUV:: S02E09 - The Return of Dragon Shumway**  
-TV-14-LSV 🔓 11:02  
-⌛ August 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/the-return-of-dragon-shumway  
-seriesid=`853486` titleid=`963239` id=`n1DJ528WQZiTiEY6hJUYjw` mediaid=`9d6f7f8c57e0f5863828261e922378e2c41fb5e1`  
-_When Piper decides to get married, she finds out the hard way that when your ex-fiance is a ninja, he has a hard time letting go._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121315121-ntsf_203_dup-20160330.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121315121-ntsf_203_dup-20160330.jpg" height="144px" /></a>
-### 963241
-**NTSF:SD:SUV:: S02E12 - Wasilla Hills Cop**  
-TV-14-V 🔓 11:12  
-⌛ August 15, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ntsf-sd-suv/wasilla-hills-cop  
-seriesid=`853486` titleid=`963241` id=`xXpvZXuGRQqBq8oCkO2Nww` mediaid=`9c0029ce145e317a913db901dd015f757df2082e`  
-_Alphonse travels home to Alaska to find out who murdered his former partner and to make amends with his father, who disowned him for using a cell phone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121316224-ntsf_210_dup-20160412.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121316224-ntsf_210_dup-20160412.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177787
+**Naruto: Shippuden S07E10 - Kakashi: Shadow of the ANBU Black Ops - Coup d'État**  
+TV-14-V 🔒 21:51  
+⌛ August 16, 2022 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-coup-d-etat  
+seriesid=`812206` titleid=`2177787` id=`AXvrcbsB4Xbjep71f6G7` mediaid=`182177ebf26f06a7cd4974bcbb027be3cd9b84ef`  
+_Following the aftermath of the Nine-Tails incident, many on the Leaf Council voice suspicions that the Uchiha Clan were behind this tragedy._  
+<a href="https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161255403-NarutoShippuden_358_KakashiShadowOfTheANBUBlackOpsCoupdEtat.png"><img src="https://media.cdn.adultswim.com/uploads/20210916/thumbnails/2_219161255403-NarutoShippuden_358_KakashiShadowOfTheANBUBlackOpsCoupdEtat.png" height="144px" /></a>
