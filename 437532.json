@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1660276740,
-        "tms_id": "EP003034830093",
-        "description": "The Professor invents a one-way time machine that takes the crew ever further into the future with no hope of returning.",
-        "title_suggest": {
-            "input": [
-                "The Late Philip J. Fry",
-                "Late Philip J. Fry",
-                "Philip J. Fry",
-                "J. Fry",
-                "Fry"
-            ]
-        },
-        "title": "The Late Philip J. Fry",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1367.2993,
-        "episode_number": "7",
-        "original_air_date": "1647824400",
-        "auth_launch_date": 1659672000,
-        "clip_order": null,
-        "airing_id": "RADS1007312200017026",
-        "media_id": "ae4a3b9cc2f8091ad25f1a3dcfd654485656a979",
-        "modified": 1659312301,
-        "slug": "the-late-philip-j-fry",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171421184-Futurama_707_TheLatePhillipJFry.png",
-        "created": 1647541286,
-        "season_number": "7",
-        "title_id": "2161626",
-        "tv_rating": "tv-14-dlv",
-        "published": 1659312301,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421184-Futurama_707_TheLatePhillipJFry.png",
-        "id": "AX-ZHPge_0O4w1rD3R2F",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1660363140,
         "tms_id": "EP003034830095",
         "description": "Earth is overrun by a race of intelligent felines.",
@@ -137,6 +89,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221442419-Futurama_709_AClockworkOrigin.png",
         "id": "AX-y8FjQ_0O4w1rD3R4A",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1660881540,
+        "tms_id": "EP003034830097",
+        "description": "Crew members are able to swap minds thanks to a state-of-the-art gadget.",
+        "title_suggest": {
+            "input": [
+                "The Prisoner of Benda",
+                "Prisoner of Benda",
+                "of Benda",
+                "Benda"
+            ]
+        },
+        "title": "The Prisoner of Benda",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1349.6817,
+        "episode_number": "10",
+        "original_air_date": "1648431000",
+        "auth_launch_date": 1660276800,
+        "clip_order": null,
+        "airing_id": "RADS1008052200020223",
+        "media_id": "c0394b50ae4d4143982d4a168a91550e89775954",
+        "modified": 1659849563,
+        "slug": "the-prisoner-of-benda",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221443183-Futurama_710_ThePrisonerOfBenda.png",
+        "created": 1647974609,
+        "season_number": "7",
+        "title_id": "2161629",
+        "tv_rating": "tv-14-dlv",
+        "published": 1659849563,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221443183-Futurama_710_ThePrisonerOfBenda.png",
+        "id": "AX-y8PC9208s7zyYUMZf",
         "auth": true
     },
     {
