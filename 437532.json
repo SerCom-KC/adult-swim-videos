@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1660363140,
-        "tms_id": "EP003034830095",
-        "description": "Earth is overrun by a race of intelligent felines.",
-        "title_suggest": {
-            "input": [
-                "That Darn Katz!",
-                "Darn Katz!",
-                "Katz!"
-            ]
-        },
-        "title": "That Darn Katz!",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.6817,
-        "episode_number": "8",
-        "original_air_date": "1647826200",
-        "auth_launch_date": 1659758400,
-        "clip_order": null,
-        "airing_id": "RADS1007312200017084",
-        "media_id": "910dc4a78dd3fa6b313c326a98490efe9d6ebbd7",
-        "modified": 1659376256,
-        "slug": "that-darn-katz",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171421537-Futurama_708_ThatDarnKatz.png",
-        "created": 1647541321,
-        "season_number": "7",
-        "title_id": "2161627",
-        "tv_rating": "tv-14-dlv",
-        "published": 1659376256,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421537-Futurama_708_ThatDarnKatz.png",
-        "id": "AX-ZHX6j208s7zyYUMWE",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1660449540,
         "tms_id": "EP003034830096",
         "description": "The theory of evolution is put to the test on a planet inhabited by robots.",
@@ -136,6 +90,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221443183-Futurama_710_ThePrisonerOfBenda.png",
         "id": "AX-y8PC9208s7zyYUMZf",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1660967940,
+        "tms_id": "EP003034830098",
+        "description": "After a bungled Earth invasion, alien leader Lrrr faces a midlife crisis.",
+        "title_suggest": {
+            "input": [
+                "Lrrreconcilable Ndndifferences",
+                "Ndndifferences"
+            ]
+        },
+        "title": "Lrrreconcilable Ndndifferences",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1362.0607,
+        "episode_number": "11",
+        "original_air_date": 1649034000,
+        "auth_launch_date": 1660363200,
+        "clip_order": null,
+        "airing_id": "RADS1008112200020686",
+        "media_id": "c4df49e0849f63b2a028aca96f9fb0af32002c94",
+        "modified": 1660253135,
+        "slug": "lrrreconcilable-ndndifferences",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311317260-Futurama_711_LrrreconsilableNdndifferences.png",
+        "created": 1648670588,
+        "title_id": "2161630",
+        "season_number": "7",
+        "tv_rating": "tv-14-dlv",
+        "published": 1660253135,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311317260-Futurama_711_LrrreconsilableNdndifferences.png",
+        "id": "AX_cbL0n_0O4w1rD3R6j",
         "auth": true
     },
     {
