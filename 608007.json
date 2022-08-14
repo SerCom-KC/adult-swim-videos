@@ -611,7 +611,7 @@
         "launch_date": 1659862800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121044323-OnePiece_566_ComingToAnEndTheFinalDecisiveBattleAgainstHordy.png",
         "id": "AYHy3qRKIAxeiVkFtLQS",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1661072340,
@@ -765,7 +765,7 @@
         "launch_date": 1660467600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720833163-OnePiece_567_StopNoahDesperateElephantGatling.png",
         "id": "AYIbmVCAIAxeiVkFtLQf",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1660469340,
@@ -922,6 +922,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124569-OnePiece_572_ManyProblemsLieAheadATrapAwaitingIntheNewWorld.png",
         "id": "AYJfcoF4IAxeiVkFtLQy",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662281940,
+        "tms_id": "EP035179100057",
+        "description": "Luffy and his crew bid farewell to their new friends before setting off in search of the greatest adventures the New World has to offer!",
+        "title_suggest": {
+            "input": [
+                "Finally Time to Go! Goodbye, Fish-Man Island!",
+                "Time to Go! Goodbye, Fish-Man Island!",
+                "to Go! Goodbye, Fish-Man Island!",
+                "Go! Goodbye, Fish-Man Island!",
+                "Goodbye, Fish-Man Island!",
+                "Fish-Man Island!",
+                "Island!"
+            ]
+        },
+        "title": "Finally Time to Go! Goodbye, Fish-Man Island!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.331,
+        "episode_number": "56",
+        "original_air_date": "1660455000",
+        "auth_launch_date": 1660467600,
+        "clip_order": null,
+        "airing_id": "RADS1008122200020857",
+        "media_id": "d142f3c81162e29e4fc9a7bd7f576bb6349bb4ed",
+        "modified": 1660428005,
+        "slug": "finally-time-to-go-goodbye-fish-man-island",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_22891347164-OnePiece_573_FinallyTimeToGoGoodbyeFishManIsland.png",
+        "created": 1660067247,
+        "season_number": "15",
+        "title_id": "2363841",
+        "tv_rating": "tv-pg",
+        "published": 1660428005,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891347164-OnePiece_573_FinallyTimeToGoGoodbyeFishManIsland.png",
+        "id": "AYKDt_UJ3sQvipyea9wf",
         "auth": true
     }
 ]
