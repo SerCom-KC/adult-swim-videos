@@ -816,7 +816,7 @@
         "launch_date": 1660469400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720833590-OnePiece_568_ToTheFutureThePathToTheSun.png",
         "id": "AYIbmfWp3sQvipyea9fu",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1661677140,
@@ -972,6 +972,58 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891347164-OnePiece_573_FinallyTimeToGoGoodbyeFishManIsland.png",
         "id": "AYKDt_UJ3sQvipyea9wf",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662283740,
+        "tms_id": "EP035179100058",
+        "description": "Luffy and Usopp's extreme deep sea fishing adventure lands the crew in the middle of a deadly whirlpool, but an unexpected encounter with a pod of giant whales may bail the Straw Hats out of hot water!",
+        "title_suggest": {
+            "input": [
+                "To the New World! Heading for the Ultimate Sea!",
+                "the New World! Heading for the Ultimate Sea!",
+                "New World! Heading for the Ultimate Sea!",
+                "World! Heading for the Ultimate Sea!",
+                "Heading for the Ultimate Sea!",
+                "for the Ultimate Sea!",
+                "the Ultimate Sea!",
+                "Ultimate Sea!",
+                "Sea!"
+            ]
+        },
+        "title": "To the New World! Heading for the Ultimate Sea!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1328.0601,
+        "episode_number": "57",
+        "original_air_date": "1660456800",
+        "auth_launch_date": 1660469400,
+        "clip_order": null,
+        "airing_id": "RADS1008122200020853",
+        "media_id": "c489f80e0fbb59535b776b2737414a32f8e76c0e",
+        "modified": 1660428023,
+        "slug": "to-the-new-world-heading-for-the-ultimate-sea",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_2289134871-OnePiece_574_ToTheNewWorldHeadingForTheUltimateSea.png",
+        "created": 1660067298,
+        "season_number": "15",
+        "title_id": "2363842",
+        "tv_rating": "tv-pg",
+        "published": 1660428023,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_2289134871-OnePiece_574_ToTheNewWorldHeadingForTheUltimateSea.png",
+        "id": "AYKDuLxZ3sQvipyea9wg",
         "auth": true
     }
 ]
