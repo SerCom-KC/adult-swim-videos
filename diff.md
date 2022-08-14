@@ -2,128 +2,146 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 13, 2022 at 00:30:23 EDT_
+_Last Update: August 14, 2022 at 00:30:23 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 3  
 2003422 Bob's Burgers: 2  
 437532 Futurama: 1  
+2194549 Gemusetto: 1  
 629835 King of the Hill: 1  
-### 2069568
-**American Dad S13E15 - Flavortown**  
-TV-14-DLS 🔒 21:14  
-⌛ August 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/flavortown  
-seriesid=`581006` titleid=`2069568` id=`AWVZA_KPh5enQuYyHe9I` mediaid=`ceb984b8952cb51ed21899f512ff35923dcb7790`  
-_While in search of an identity, Jeff starts hanging out with Stan's favorite celebrity chef. Klaus gets an exciting new outfit._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg" height="144px" /></a>
-### 2069569
-**American Dad S13E16 - Persona Assistant**  
-TV-14-DLSV 🔒 21:02  
-⌛ August 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/persona-assistant  
-seriesid=`581006` titleid=`2069569` id=`AWUlXVF1h5enQuYyHJfG` mediaid=`4cef04fe5be193d3d9142aa77acc8e97381757a6`  
-_In American Dad's 250th episode, Roger has a medical emergency and Stan has to take over his personas._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714151340-americandad_1216_air_cid-3TFTJ.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714151340-americandad_1216_air_cid-3TFTJ.jpg" height="144px" /></a>
-### 2069570
-**American Dad S13E17 - The Legend of Old Ulysses**  
+### 2069573
+**American Dad S13E20 - Funnyish Games**  
 TV-14-DLV 🔒 21:03  
-⌛ August 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-legend-of-old-ulysses  
-seriesid=`581006` titleid=`2069570` id=`AWVZA5A9h5enQuYyHe9E` mediaid=`6a83f15d19deef060f7d4298c5a238e284a5b2cd`  
-_The family visits Possum Lake. Roger learns to ride a bike._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714150345-americandad_1217_air_cid-3TPTW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714150345-americandad_1217_air_cid-3TPTW.jpg" height="144px" /></a>
-### 2132974
-**Bob's Burgers S07E04 - Ex Machtina**  
-TV-PG-L 🔒 21:48  
-⌛ August 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/ex-machtina  
-seriesid=`2003422` titleid=`2132974` id=`BG0pb6rnSyu09zSBqyL_MA` mediaid=`dbac9700328ed65b8ecd83c34930cd1abc609247`  
-_When Tina hurts her ankle, she is left with no choice but to telecommute to school. After enrolling in a program that allows her to send a robot version of herself to class, Tina finds herself having an unexpected breakthrough with Jimmy Jr._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15103318419278.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15103318419278.jpg" height="144px" /></a>
-### 2132993
-**Bob's Burgers S07E07 - The Last Gingerbread House on the Left**  
-TV-PG-DLV 🔒 21:45  
-⌛ August 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-last-gingerbread-house-on-the-left  
-seriesid=`2003422` titleid=`2132993` id=`AWHTb10JNWyh42wYnlB8` mediaid=`380f7d44e405963ff275c219d717e932c0e188b3`  
-_As the Belchers prepare for Christmas, Bob gets an unexpected call from Mr. Fischoeder asking him to bring food to a party at his home. Bob delivers the food and soon becomes embroiled in an intense gingerbread house building competition._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984550603814.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984550603814.jpg" height="144px" /></a>
-### 2161630
-**Futurama S07E11 - Lrrreconcilable Ndndifferences**  
-TV-14-DLV 🔒 22:42  
-⌛ August 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/lrrreconcilable-ndndifferences  
-seriesid=`437532` titleid=`2161630` id=`AX_cbL0n_0O4w1rD3R6j` mediaid=`c4df49e0849f63b2a028aca96f9fb0af32002c94`  
-_After a bungled Earth invasion, alien leader Lrrr faces a midlife crisis._  
-<a href="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311317260-Futurama_711_LrrreconsilableNdndifferences.png"><img src="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311317260-Futurama_711_LrrreconsilableNdndifferences.png" height="144px" /></a>
-### 731287
-**King of the Hill S04E07 - The Hank's Giving Episode**  
-TV-PG 🔒 23:22  
-⌛ August 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/the-hanks-giving-episode  
-seriesid=`629835` titleid=`731287` id=`6Cx3t4JwRqmuflEcPgseRQ` mediaid=`8139818a24b790e8886c8a1c0a19d69d9186c938`  
-_The Hills find themselves stranded for Thanksgiving when bad weather shuts down the airport._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_50903.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_50903.jpg" height="144px" /></a>
+⌛ August 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/funnyish-games  
+seriesid=`581006` titleid=`2069573` id=`AWW0uqDNh5enQuYyIFVG` mediaid=`c81520ce79be1171f04e86b25d87dc708fe1e67c`  
+_Francine becomes obsessed with home security after a break in. Steve tries Hayley's laidback approach to school work._  
+<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg" height="144px" /></a>
+### 2069572
+**American Dad S13E19 - Top of the Steve**  
+TV-14-DL 🔒 21:03  
+⌛ August 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/top-of-the-steve  
+seriesid=`581006` titleid=`2069572` id=`AWW0uwTNh5enQuYyIFVK` mediaid=`72bb839a13d0c538536e42e36ccfe702e89a0d80`  
+_Steve goes to boarding school not realizing it's an all-girls school and a parade of sitcom characters arrive to take his place at home._  
+<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141457360-americandad_1219_air_cid-3TVTG.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141457360-americandad_1219_air_cid-3TVTG.jpg" height="144px" /></a>
+### 2069571
+**American Dad S13E18 - Twinanigans**  
+TV-14-DLSV 🔒 21:03  
+⌛ August 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/twinanigans  
+seriesid=`581006` titleid=`2069571` id=`AWWGtzvUh5enQuYyHyPD` mediaid=`95f3c4b162e5cd6fa3793703efa13d12459a30fa`  
+_Steve and Roger restart their career as a twin brother acting duo. The family becomes addicted to a novelty gift shop._  
+<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141459105-americandad_1218_air_cid-3TRJY.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141459105-americandad_1218_air_cid-3TRJY.jpg" height="144px" /></a>
+### 2132983
+**Bob's Burgers S07E05 - Bob Actually**  
+TV-PG-DL 🔒 21:42  
+⌛ August 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/bob-actually  
+seriesid=`2003422` titleid=`2132983` id=`VmnWvv2pTD2WBaYwR3ARdA` mediaid=`02f2bc7d7a7775a9d9c127202186f14a3faa9e6e`  
+_With Valentine's Day approaching, Tina, Gene and Louise each find themselves wrapped up in love-caused chaos. Meanwhile, Bob decides on a romantic gesture in order to impress Linda._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg" height="144px" /></a>
+### 2132978
+**Bob's Burgers S07E06 - There's No Business Like Mr. Business Business**  
+TV-PG-L 🔒 21:25  
+⌛ August 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/theres-no-business-like-mr-business-business  
+seriesid=`2003422` titleid=`2132978` id=`T2-Fm5wyRsK7J8IPcGCpxA` mediaid=`1e720e1a89f8a01a816898b0daa84e6402d9acb3`  
+_When Gayle's cat, Mr. Business, lands himself a pet agent, Ian Amberson, Bob finds out that Linda may have been helping to fund the cat's career._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151068053993417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151068053993417.jpg" height="144px" /></a>
+### 2161631
+**Futurama S07E12 - The Mutants Are Revolting**  
+TV-14-D 🔒 22:45  
+⌛ August 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/the-mutants-are-revolting  
+seriesid=`437532` titleid=`2161631` id=`AX_cbPGw_0O4w1rD3R6k` mediaid=`ffb186c8f883fbff751f3c4e6feb9bc1083b0e67`  
+_Leela leads an army of underground mutants in a rebellion against the surface people._  
+<a href="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311318278-Futurama_712_TheMutantsAreRevolting.png"><img src="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311318278-Futurama_712_TheMutantsAreRevolting.png" height="144px" /></a>
+### 2241836
+**Gemusetto S02E11 - Episode Eleven: G13**  
+TV-MA-LV 🔓 11:15  
+⌛ September 17, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-eleven-g-13  
+seriesid=`2194549` titleid=`2241836` id=`AXZmne7CQJ_4Uej5kTe8` mediaid=`945db87ef40ac275bbfeddae8bfb2a40f85faca3`  
+_Back in the material world of Earth, the Chilean man who hunted Makasu for most of his career can't seem to move on. Can retirement really help you let go of your obsessions?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg" height="144px" /></a>
+### 731288
+**King of the Hill S04E08 - Not in My Back Hoe**  
+TV-PG 🔒 23:17  
+⌛ August 20, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/not-in-my-back-hoe  
+seriesid=`629835` titleid=`731288` id=`IbmwcBPoRhSFDj5gQ47Z9A` mediaid=`e0b084ac5ac9af1875669b5831e35df416031dad`  
+_Hank strikes up a friendship with a man just like himself, straining his relationship with Dale, Bill and Boomhauer; Cotton puts up his own child as collateral so he can test drive a new car._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793541530214.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793541530214.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
 437532 Futurama: 1  
 581006 American Dad: 3  
+608360 Robot Chicken: 1  
 629835 King of the Hill: 1  
-### 2097205
-**Bob's Burgers S06E17 - The Horse Rider-Er**  
-TV-PG 🔒 21:42  
-⌛ August 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-horse-rider-er  
-seriesid=`2003422` titleid=`2097205` id=`7hdKuh3uTCC3nZ9h4OLraw` mediaid=`051f1a9935273d6cf13eb16db2884e7b3021a427`  
-_After finally convincing Bob and Linda to send her to horse camp, Tina realizes she has to part ways with Jericho, her imaginary horse. Meanwhile, Linda decides to create a restaurant camp in an attempt to make things fair for Gene and Louise._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-horse-rider-er/bobsburgers_602_air_cid-2X85C.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-horse-rider-er/bobsburgers_602_air_cid-2X85C.jpg" height="144px" /></a>
-### 2097204
-**Bob's Burgers S06E16 - Bye Bye Boo Boo**  
+### 2097207
+**Bob's Burgers S06E19 - Glued, Where's My Bob?**  
 TV-PG 🔒 21:40  
-⌛ August 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/bye-bye-boo-boo  
-seriesid=`2003422` titleid=`2097204` id=`Vu4iC1McRVG1appphTnL2w` mediaid=`d585b126a7913bd60f72f0bca2e3e41929eb1cb7`  
-_When Louise hears that Boo Boo is leaving Boyz 4 Now, she enters a contest that could give Tina the chance to meet him. Meanwhile, Bob and Linda learn an interesting piece of history regarding the restaurant, which leads to tension between Bob and Jimmy Pesto._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/bye-bye-boo-boo/bobsburgers_605_air_cid-2X7PG.jpg" height="144px" /></a>
-### 2161627
-**Futurama S07E08 - That Darn Katz!**  
-TV-14-DLV 🔒 22:29  
-⌛ August 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/that-darn-katz  
-seriesid=`437532` titleid=`2161627` id=`AX-ZHX6j208s7zyYUMWE` mediaid=`910dc4a78dd3fa6b313c326a98490efe9d6ebbd7`  
-_Earth is overrun by a race of intelligent felines._  
-<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421537-Futurama_708_ThatDarnKatz.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421537-Futurama_708_ThatDarnKatz.png" height="144px" /></a>
-### 2069547
-**American Dad S12E21 - The Talented Mr. Dingleberry**  
-TV-14-DLSV 🔒 21:14  
-⌛ August 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-talented-mr-dingleberry  
-seriesid=`581006` titleid=`2069547` id=`DHxenpZFQmqu9ENjBxxVnQ` mediaid=`366101442a6bb7b18612b41dc9f46f31fad4248e`  
-_Roger becomes a marionette and injures other students to help Steve win the school talent show. Stan, Hayley and Klaus start their own local honey business._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg" height="144px" /></a>
-### 2069551
-**American Dad S12E20 - Garbage Stan**  
-TV-14-DLV 🔒 21:14  
-⌛ August 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/garbage-stan  
-seriesid=`581006` titleid=`2069551` id=`Psk8BZBXTS6y3k5Dt77-qw` mediaid=`e0fefa9d69b802fa0dead91eee5b31d07509e1ca`  
-_Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck. Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg" height="144px" /></a>
-### 2069553
-**American Dad S12E22 - West to Mexico**  
-TV-14-DLV 🔒 21:14  
-⌛ August 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/west-to-mexico  
-seriesid=`581006` titleid=`2069553` id=`vz3Y_dibRLuu8ZDlkfKtbQ` mediaid=`26317c90dca92ff6ac96b0624ea53f4a60d9b9a6`  
-_In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg" height="144px" /></a>
-### 731282
-**King of the Hill S04E02 - Cotton's Plot**  
-TV-PG-L 🔒 23:17  
-⌛ August 12, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/cottons-plot  
-seriesid=`629835` titleid=`731282` id=`gUhDQdS2TmKaUxVPckWuzg` mediaid=`0bf359201cd8dd77c22babd7d9f890fcfc502a45`  
-_Cotton assists with Peggy's rehabilitation as he seeks a war hero's grave._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803312714312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803312714312.jpg" height="144px" /></a>
+⌛ August 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/glued-wheres-my-bob  
+seriesid=`2003422` titleid=`2097207` id=`KZHzK9CvTwCRExJXY6SSUw` mediaid=`6b5661bddd9aa0e25e1da7b017424420f36d36bf`  
+_The kids' goop war lands Bob in a sticky situation. The prank occurs on the same day Skip Marooch calls to tell Bob that a journalist is going to interview him for a piece on unknown restaurants._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg" height="144px" /></a>
+### 2097206
+**Bob's Burgers S06E18 - Secret Admiral-Irer**  
+TV-PG 🔒 21:42  
+⌛ August 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/secret-admiral-irer  
+seriesid=`2003422` titleid=`2097206` id=`pbADrCdVRay2C8NqO-O1YQ` mediaid=`62c36db15f8a42a3cd82dbc1cd103a44536d8b5c`  
+_Tina's ideas of love and romance are tested when she volunteers at a nursing home to earn her next Thunder Girls badge. Meanwhile, Bob makes new friends who cause him to make some questionable choices._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg" height="144px" /></a>
+### 2161628
+**Futurama S07E09 - A Clockwork Origin**  
+TV-14-DLV 🔒 22:47  
+⌛ August 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/a-clockwork-origin  
+seriesid=`437532` titleid=`2161628` id=`AX-y8FjQ_0O4w1rD3R4A` mediaid=`6ff3ac7fe9ed6592b59662edeafb0301b3bc92b8`  
+_The theory of evolution is put to the test on a planet inhabited by robots._  
+<a href="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221442419-Futurama_709_AClockworkOrigin.png"><img src="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221442419-Futurama_709_AClockworkOrigin.png" height="144px" /></a>
+### 2069555
+**American Dad S13E02 - The Census of the Lambs**  
+TV-14-DLV 🔒 21:03  
+⌛ August 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-census-of-the-lambs  
+seriesid=`581006` titleid=`2069555` id=`RktRj9lgSdelLLgUqsKLbA` mediaid=`d34fb1ee35d829e85c542947bf3cf83f82bd9e07`  
+_Hayley and Stan compete while collecting data for the US Census. Klaus inherits a camera and has Steve and his friends model for him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg" height="144px" /></a>
+### 2069556
+**American Dad S13E03 - Shell Game**  
+TV-14-DL 🔒 21:02  
+⌛ August 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/shell-game  
+seriesid=`581006` titleid=`2069556` id=`b6xubpzsSNO_D8tVF4hB2A` mediaid=`1a31d701708436ebec1205201d34233c142d476f`  
+_Steve sets out to stop Roger after he joins a mysterious order. Francine buys a new pasta sauce and the family starts changing._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg" height="144px" /></a>
+### 2069554
+**American Dad S13E01 - Paranoid_Frandroid**  
+TV-14-DLSV 🔒 21:02  
+⌛ August 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/paranoid-frandroid  
+seriesid=`581006` titleid=`2069554` id=`kuyoMQr6Ta62NeNv3TRsgw` mediaid=`1542c80a5d351f5e2ea05236e9ef305674b96eaf`  
+_Francine becomes a conspiracy theorist. Klaus & Steve help Snot pimp out his new room._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg" height="144px" /></a>
+### 661267
+**Robot Chicken S03E?? - Robot Chicken: Star Wars Special**  
+TV-MA 🔒 22:50  
+⌛ August 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/robot-chicken-star-wars-special  
+seriesid=`608360` titleid=`661267` id=`iZMrgeObQfO00magvXjExg` mediaid=`f9554b3e8b41363e8e89a35aea097ee7f43b7dbe`  
+_The Emperor gets an upsetting phone call.  George Lucas is saved from a mob of nerds by one helpful fan. Imperial officers learn how to survive Darth Vader in Orientation. A commercial for Admiral Ackbar Cereal. Boba Fett has a little fun with Han in Carbonite. The truth about Ponda Baba's bad day. President Bush is strong with the force in George of the Jedi. Luke and the Emperor settle things with a "yo mama" fight. Max Rebo's Greatest Hits goes on sale. Jar Jar and Anakin are together again_  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_2041114266-robotchicken_RCSW1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_2041114266-robotchicken_RCSW1.jpg" height="144px" /></a>
+### 731283
+**King of the Hill S04E03 - Bills are Made to be Broken**  
+TV-PG 🔒 23:23  
+⌛ August 13, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/bills-are-made-to-be-broken  
+seriesid=`629835` titleid=`731283` id=`ZsVq2eE_Q5KsS71VWKn-jg` mediaid=`fdcb2af7f1d9af4fb4ca14421c73a38f787110d6`  
+_Bill is granted the opportunity of a lifetime after his old high school football touchdown record is shattered._  
+<a href="https://media.cdn.adultswim.com/uploads/20220807/thumbnails/2_22871127519-BillsBrokenmin.png"><img src="https://media.cdn.adultswim.com/uploads/20220807/thumbnails/2_22871127519-BillsBrokenmin.png" height="144px" /></a>

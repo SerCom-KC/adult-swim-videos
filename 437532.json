@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1660449540,
-        "tms_id": "EP003034830096",
-        "description": "The theory of evolution is put to the test on a planet inhabited by robots.",
-        "title_suggest": {
-            "input": [
-                "A Clockwork Origin",
-                "Clockwork Origin",
-                "Origin"
-            ]
-        },
-        "title": "A Clockwork Origin",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1367.2325,
-        "episode_number": "9",
-        "original_air_date": "1648429200",
-        "auth_launch_date": 1659844800,
-        "clip_order": null,
-        "airing_id": "RADS1007312200017120",
-        "media_id": "6ff3ac7fe9ed6592b59662edeafb0301b3bc92b8",
-        "modified": 1659418439,
-        "slug": "a-clockwork-origin",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221442419-Futurama_709_AClockworkOrigin.png",
-        "created": 1647974570,
-        "season_number": "7",
-        "title_id": "2161628",
-        "tv_rating": "tv-14-dlv",
-        "published": 1659418439,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221442419-Futurama_709_AClockworkOrigin.png",
-        "id": "AX-y8FjQ_0O4w1rD3R4A",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1660881540,
         "tms_id": "EP003034830097",
         "description": "Crew members are able to swap minds thanks to a state-of-the-art gadget.",
@@ -135,6 +89,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311317260-Futurama_711_LrrreconsilableNdndifferences.png",
         "id": "AX_cbL0n_0O4w1rD3R6j",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1661054340,
+        "tms_id": "EP003034830099",
+        "description": "Leela leads an army of underground mutants in a rebellion against the surface people.",
+        "title_suggest": {
+            "input": [
+                "The Mutants Are Revolting",
+                "Mutants Are Revolting",
+                "Are Revolting",
+                "Revolting"
+            ]
+        },
+        "title": "The Mutants Are Revolting",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1365.1304,
+        "episode_number": "12",
+        "original_air_date": 1649035800,
+        "auth_launch_date": 1660449600,
+        "clip_order": null,
+        "airing_id": "RADS1008112200020827",
+        "media_id": "ffb186c8f883fbff751f3c4e6feb9bc1083b0e67",
+        "modified": 1660255848,
+        "slug": "the-mutants-are-revolting",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311318278-Futurama_712_TheMutantsAreRevolting.png",
+        "created": 1648670601,
+        "title_id": "2161631",
+        "season_number": "7",
+        "tv_rating": "tv-14-d",
+        "published": 1660255848,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311318278-Futurama_712_TheMutantsAreRevolting.png",
+        "id": "AX_cbPGw_0O4w1rD3R6k",
         "auth": true
     },
     {
