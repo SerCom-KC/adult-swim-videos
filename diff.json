@@ -1,59 +1,57 @@
 {
-    "updated": 1660522697,
-    "added": [
+    "updated": 1660523654,
+    "added": [],
+    "removed": [
         {
-            "ott_launch_date": 1545838200,
-            "auth_expiration_date": 1659067140,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1655438340,
             "tms_id": "",
-            "description": "Did you know that if you hold your mother against your ear and listen closely, you can hear your dead father softly crying \"my child has gone banana\"?",
+            "description": "You know, every show has an episode like this.",
             "title_suggest": {
                 "input": [
-                    "Tow and Shell",
-                    "and Shell",
-                    "Shell"
+                    "The Storm",
+                    "Storm"
                 ]
             },
-            "title": "Tow and Shell",
+            "title": "The Storm",
             "expiration_date": 2085368400,
             "type": "episode",
             "platforms": [
                 "android",
-                "fire-tv",
                 "ios",
-                "ott",
-                "roku"
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-            "duration": 676.46,
-            "episode_number": "5",
-            "original_air_date": 1545627600,
-            "auth_launch_date": 1656043200,
+            "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+            "duration": 647.08,
+            "episode_number": "6",
+            "original_air_date": 1560139200,
+            "auth_launch_date": 1652500800,
             "clip_order": null,
-            "media_id": "c90e090fe747cdfb1b0177794e22bc65f225a87b",
-            "modified": 1660522349,
-            "airing_id": "RADS1001111900059411",
-            "slug": "tow-and-shell",
+            "media_id": "a70d0c4119878d55d2bf14ed4cd4ac7abdf92788",
+            "modified": 1660521789,
+            "airing_id": "RADS1006261900003193",
+            "slug": "the-storm",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15452410357433.jpg",
-            "created": 1544124188,
-            "season_number": "1",
-            "title_id": "2172251",
-            "tv_rating": "tv-ma",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155983921420515.jpg",
+            "created": 1553004918,
+            "season_number": "2",
+            "title_id": "2191420",
+            "tv_rating": "tv-ma-l",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1660522349,
+            "published": 1660521789,
             "tags": [],
-            "collection_title": "The Shivering Truth",
+            "collection_title": "The Jellies",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1547453700,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15452410357433.jpg",
-            "id": "AWeE-UjTqD68dq0Op5wD",
+            "launch_date": 1561965300,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983921420515.jpg",
+            "id": "AWmWTncEAScUIg8XxeHF",
             "auth": false,
-            "collection_slug": "the-shivering-truth",
-            "collection_title_id": "2165429",
+            "collection_slug": "the-jellies",
+            "collection_title_id": "2132025",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
