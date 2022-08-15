@@ -98,7 +98,7 @@
         "launch_date": 1657512000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15475768347268.jpg",
         "id": "AWgQY0k7AScUIg8XxbiG",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1547479800,
@@ -736,6 +736,57 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1549899000,
+        "auth_expiration_date": 1653883140,
+        "tms_id": "EP029602940010",
+        "description": "The ballad of Tigtone and the homicidal sword, sung by the homicidal sword.",
+        "title_suggest": {
+            "input": [
+                "Tigtone and the Singing Blade",
+                "and the Singing Blade",
+                "the Singing Blade",
+                "Singing Blade",
+                "Blade"
+            ]
+        },
+        "title": "Tigtone and the Singing Blade",
+        "type": "episode",
+        "expiration_date": 1663559940,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 669.54,
+        "episode_number": "9",
+        "original_air_date": 1549861200,
+        "auth_launch_date": 1650859200,
+        "clip_order": null,
+        "airing_id": "RADS1008122200020946",
+        "media_id": "22fe0dbb8a6bc82cf7dfed34739a013a2434f187",
+        "modified": 1660334419,
+        "slug": "tigtone-and-the-singing-blade",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154946588079415.jpg",
+        "created": 1549387564,
+        "title_id": "2171691",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1660334419,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "modified_by": "ODT Listener",
+        "launch_date": 1660536000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154946588079415.jpg",
+        "id": "AWi-sgeEAScUIg8Xxcy7",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Get amped for season 2 with Andrew Koehler and Benjamin Martian (show creators), Blake Anderson (actor/writer) and special guests. Hosted by Chris Prynoski",
@@ -788,52 +839,5 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117949131-Tigtone_tabletalk.png",
         "id": "AXR0iVraSeFB2d0c381v",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1660535940,
-        "tms_id": "",
-        "description": "Everything is at or on a stake, and this time we mean it!",
-        "title_suggest": {
-            "input": [
-                "Tigtone and the Stakes",
-                "and the Stakes",
-                "the Stakes",
-                "Stakes"
-            ]
-        },
-        "title": "Tigtone and the Stakes",
-        "expiration_date": 1657511940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 672.5385,
-        "episode_number": "10",
-        "original_air_date": null,
-        "auth_launch_date": 1657512000,
-        "clip_order": null,
-        "airing_id": "RADS1007082200012586",
-        "media_id": "1fea813f9a06e3dc36b72dd10efa67a657b5998f",
-        "modified": 1657322275,
-        "slug": "tigtone-and-the-stakes",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117951210-Tigtone_210.jpg",
-        "created": 1598964968,
-        "season_number": "2",
-        "title_id": "2222963",
-        "tv_rating": "tv-14-v",
-        "published": 1657322275,
-        "tags": [],
-        "collection_title": "Tigtone",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654488000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117951210-Tigtone_210.jpg",
-        "id": "AXRJvStHLyLQBOXK_PMq",
-        "auth": true
     }
 ]
