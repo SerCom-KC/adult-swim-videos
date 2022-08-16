@@ -3745,6 +3745,55 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1666670340,
+        "tms_id": "EP007259620238",
+        "description": "Robot Chicken tells the Lion King tale from the POV of the wildebeests; What happens when a mouse accepts a browser cookie; The Golden Girls discover the otherworldly and deadly secret behind St. Olaf!",
+        "title_suggest": {
+            "input": [
+                "May Cause an Excess of Ham",
+                "Cause an Excess of Ham",
+                "an Excess of Ham",
+                "Excess of Ham",
+                "of Ham",
+                "Ham"
+            ]
+        },
+        "title": "May Cause an Excess of Ham",
+        "expiration_date": 1657598340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 657.6236,
+        "episode_number": "18",
+        "original_air_date": "1647835200",
+        "auth_launch_date": 1660622400,
+        "clip_order": null,
+        "airing_id": "RADS1008152200021432",
+        "media_id": "3a774fb76d6ee0793077926f79019f56b9512e3c",
+        "modified": 1660588944,
+        "slug": "may-cause-an-excess-of-ham",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_22317143260-RobotChicken_1117_MayCauseAnExcessOfHam.png",
+        "created": 1647541939,
+        "season_number": "11",
+        "title_id": "2270604",
+        "tv_rating": "tv-ma-v",
+        "published": 1660588944,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1654574400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_22317143260-RobotChicken_1117_MayCauseAnExcessOfHam.png",
+        "id": "AX-ZJuup_0O4w1rD3R2H",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Harriet accidentally eats a laced brownie, so Alabama travels to 1960 North Carolina to get her some delicious pancakes, inspiring the Greensboro sit-ins.",
@@ -4575,7 +4624,7 @@
         "launch_date": 1657598400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921513482-RobotChicken_1101_MayCauseAWholeLottaScabs.png",
         "id": "AXun7qH9UQa40cfnRR4o",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1659326340,
@@ -4822,7 +4871,7 @@
         "launch_date": 1660622400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101349425-RobotChicken_1106_MayCauseRandomWolfAttacks.png",
         "id": "AXvQ1Hl04Xbjep71f6G3",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1661227140,
