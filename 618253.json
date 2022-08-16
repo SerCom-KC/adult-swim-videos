@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1660622340,
-        "tms_id": "EP007542790038",
-        "description": "While Shark is being reconstructed into an abomination of Square and himself, Golden Joe and Peanut try to figure a way out of their jail cell.",
-        "title_suggest": {
-            "input": [
-                "Awaken"
-            ]
-        },
-        "title": "Awaken",
-        "expiration_date": 1657598340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 700.7334,
-        "episode_number": "2",
-        "original_air_date": "1595390400",
-        "auth_launch_date": 1657598400,
-        "clip_order": null,
-        "airing_id": "RADS1006032200003067",
-        "media_id": "86fde30c8eea1e377e20241cec549fbc25eac4cd",
-        "modified": 1657322878,
-        "slug": "awaken",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_20717132343-12oz_302_dup-20200709.jpg",
-        "created": 1595005358,
-        "season_number": "3",
-        "title_id": "2224138",
-        "tv_rating": "tv-14-lv",
-        "published": 1657322878,
-        "tags": [],
-        "collection_title": "12 oz Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654574400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_20717132343-12oz_302_dup-20200709.jpg",
-        "id": "AXNdulI0Rs3h4hI_X4VW",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1661227140,
         "tms_id": "EP007542790039",
         "description": "A Schooner breaks through the defenses of Lotharganin and all clues point to Professor Wilx and his underlying connection to Shyd Industries.",
@@ -222,7 +178,7 @@
         "launch_date": 1657598400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_2071713704-12oz_307_dup-20200715.jpg",
         "id": "AXNdvpyFC8QgH-t19KAJ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1646110740,
@@ -456,5 +412,61 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171734139-12oz_310_dup-20200708.jpg",
         "id": "AXNeswbcC8QgH-t19KA0",
         "auth": false
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451669100,
+        "auth_expiration_date": 1646715540,
+        "tms_id": "EP007542790001",
+        "rating": 7.494763,
+        "description": "Mouse Fitzgerald has been out of work most of the month. He's late on his rent payment, and the landlord is ready to forcibly evict him. Mouse Fitzgerald takes his pool stick down to the billiards hall and stakes his last bit of money. He wins and returns just in time to pay up. Skillet remains unaware of Fitzgerald's gambling stunt, and thanks the Lord Jesus.",
+        "title_suggest": {
+            "input": [
+                "Hired"
+            ]
+        },
+        "type": "episode",
+        "title": "Hired",
+        "expiration_date": 1663646340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 689.69,
+        "episode_number": "1",
+        "original_air_date": 1119241800,
+        "clip_order": null,
+        "auth_launch_date": 1643691600,
+        "modified": 1660335357,
+        "media_id": "901bd0dbc058f43de3e2e72e92c1a9ebfac0709a",
+        "airing_id": "RADS1008122200020963",
+        "id": "qgOWAF2iTT2r1ed58w3BvA",
+        "slug": "hired",
+        "views": 453773,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201158157-12oz_001_BIM_9338491.jpg",
+        "created": 1402945460,
+        "title_id": "618427",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1660335357,
+        "tags": [
+            "12 oz",
+            "mouse",
+            "episode 1",
+            "hired"
+        ],
+        "rating_count": 2674,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660622400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201158157-12oz_001_BIM_9338491.jpg",
+        "cma_id": ""
     }
 ]
