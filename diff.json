@@ -1,58 +1,6 @@
 {
-    "updated": 1660660580,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": 1661081340,
-            "tms_id": "",
-            "description": "Ten Tails is on the brink of its final transformation and begins to form a massive Tailed Beast Bomb.",
-            "title_suggest": {
-                "input": [
-                    "Something to Fill the Hole",
-                    "to Fill the Hole",
-                    "Fill the Hole",
-                    "the Hole",
-                    "Hole"
-                ]
-            },
-            "title": "Something to Fill the Hole",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.311,
-            "episode_number": "24",
-            "original_air_date": "1642924800",
-            "auth_launch_date": 1652009400,
-            "clip_order": null,
-            "airing_id": "RADS1005042200095679",
-            "media_id": "ac47ad80ad3955bb78aad89b0814a95faad81e54",
-            "modified": 1651712302,
-            "slug": "something-to-fill-the-hole",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_221201714197-NarutoShippuden_372_SomethingToFillTheHole.png",
-            "created": 1642716872,
-            "season_number": "7",
-            "title_id": "2177801",
-            "tv_rating": "tv-pg",
-            "published": 1651712302,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_221201714197-NarutoShippuden_372_SomethingToFillTheHole.png",
-            "id": "AX55jj4Q_0O4w1rD3Rb0",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
-        },
+    "updated": 1660663036,
+    "added": [
         {
             "auth_expiration_date": 1661074140,
             "tms_id": "EP034917240279",
@@ -81,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1005042200095705",
             "media_id": "71ca65e5b693c19761d85d64ce8d7f5a8f81a5d7",
-            "modified": 1651714113,
+            "modified": 1660662806,
             "slug": "my-first-friend",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521540202-NarutoShippuden_388_MyFirstFriend.png",
@@ -89,7 +37,7 @@
             "season_number": "7",
             "title_id": "2177818",
             "tv_rating": "tv-pg",
-            "published": 1651714113,
+            "published": 1660662806,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
@@ -101,56 +49,7 @@
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1661075940,
-            "tms_id": "EP034917240280",
-            "description": "Hanabi adores her sister Hinata, who struggles to become a worthy successor to the Hyuga Clan.",
-            "title_suggest": {
-                "input": [
-                    "The Adored Elder Sister",
-                    "Adored Elder Sister",
-                    "Elder Sister",
-                    "Sister"
-                ]
-            },
-            "title": "The Adored Elder Sister",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.7771,
-            "episode_number": "41",
-            "original_air_date": "1651991400",
-            "auth_launch_date": 1652004000,
-            "clip_order": null,
-            "airing_id": "RADS1005042200095693",
-            "media_id": "a4b0c5a5b7fbf766e64ab0078fbfacc240aee345",
-            "modified": 1651713531,
-            "slug": "the-adored-elder-sister",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521540554-NarutoShippuden_389_TheAdoredElderSister.png",
-            "created": 1651520465,
-            "season_number": "7",
-            "title_id": "2177819",
-            "tv_rating": "tv-pg",
-            "published": 1651713531,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521540554-NarutoShippuden_389_TheAdoredElderSister.png",
-            "id": "AYCGSmsh208s7zyYUMzW",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
