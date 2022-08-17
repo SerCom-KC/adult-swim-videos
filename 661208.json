@@ -204,7 +204,7 @@
         "launch_date": 1657684800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210721/thumbnails/2_21721164696-2_2116164669-timanderic_chrimbus2010.jpeg",
         "id": "AXrJeCNeeTntnGIjub0m",
-        "auth": false
+        "auth": true
     },
     {
         "auth": false,
@@ -495,68 +495,6 @@
         "cma_id": "1457834"
     },
     {
-        "auth": false,
-        "ott_launch_date": 1447785060,
-        "auth_expiration_date": 1660708740,
-        "tms_id": "EP008994530047",
-        "rating": 8.331287,
-        "description": "Kent is surprised to find his friend's reflection in the hand mirror while preparing to head out on a double date. He's even more surprised to see him standing Broach-less.",
-        "title_suggest": {
-            "input": [
-                "Lucky"
-            ]
-        },
-        "type": "episode",
-        "title": "Lucky",
-        "expiration_date": 1657684740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 684,
-        "episode_number": "9",
-        "original_air_date": 1270441800,
-        "clip_order": null,
-        "auth_launch_date": 1657684800,
-        "modified": 1657329775,
-        "media_id": "c54b0fe3c4e7c5d8e765760a5753656a1c136a38",
-        "airing_id": "RADS1007082200012713",
-        "id": "e6aD1UhVS0G6VGswUSxgnA",
-        "slug": "lucky",
-        "views": 111708,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161646494-timanderic_509_air_cid-3R3V6.jpg",
-        "created": 1402945481,
-        "title_id": "787509",
-        "season_number": "5",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1657329775,
-        "tags": [
-            "tim and eric",
-            "awesome show",
-            "great job",
-            "lucky",
-            "kent",
-            "surprise",
-            "reflection",
-            "mirror",
-            "double date",
-            "broach"
-        ],
-        "rating_count": 975,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654660800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161646494-timanderic_509_air_cid-3R3V6.jpg",
-        "cma_id": "1233905"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1447785060,
         "auth_expiration_date": 1663127940,
@@ -621,6 +559,59 @@
         "launch_date": 1657080000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161646304-timanderic_510_air_cid-3R3RH.jpg",
         "cma_id": "1449275"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783800,
+        "auth_expiration_date": 1635911940,
+        "tms_id": "EP008994530005",
+        "rating": 6.1495094,
+        "description": "A chunky lady's secret love for her mean boss finally reaches a boiling point.",
+        "title_suggest": {
+            "input": [
+                "Chunky"
+            ]
+        },
+        "type": "episode",
+        "title": "Chunky",
+        "expiration_date": 1663732740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 691.012,
+        "episode_number": "5",
+        "original_air_date": 1173671100,
+        "clip_order": null,
+        "auth_launch_date": 1632888000,
+        "modified": 1660515153,
+        "media_id": "27bc4065d2e5cd8a066ba499040c7c991ed5e645",
+        "airing_id": "RADS1008142200021124",
+        "id": "j4jstoCCQ8SO6e2k4Rme6Q",
+        "slug": "chunky",
+        "views": 351292,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620131-timanderic_105.jpg",
+        "created": 1402945481,
+        "title_id": "661592",
+        "season_number": "1",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1660515153,
+        "tags": [
+            "tim eric awesome show great job episode 5 carol mr mister henderson boss fat chunky love"
+        ],
+        "rating_count": 4983,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660708800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620131-timanderic_105.jpg",
+        "cma_id": "1477435"
     },
     {
         "auth": true,
