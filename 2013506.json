@@ -1554,6 +1554,58 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1633492799,
+        "tms_id": "EP018336730036",
+        "description": "Morty gets a dragon in this one broh. It's a wild ride broh.",
+        "title_suggest": {
+            "input": [
+                "Claw and Hoarder: Special Ricktim's Morty",
+                "and Hoarder: Special Ricktim's Morty",
+                "Hoarder: Special Ricktim's Morty",
+                "Special Ricktim's Morty",
+                "Ricktim's Morty",
+                "Morty"
+            ]
+        },
+        "title": "Claw and Hoarder: Special Ricktim's Morty",
+        "expiration_date": 1661399940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1347.17,
+        "episode_number": "4",
+        "original_air_date": 1575865800,
+        "auth_launch_date": 1632974400,
+        "clip_order": null,
+        "media_id": "355871cb90684fddbc741d9f4c50bafc80ccfafc",
+        "modified": 1660513673,
+        "airing_id": "RADS1008142200021219",
+        "slug": "claw-and-hoarder-special-ricktims-morty",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/1_19123138256-rickandmorty_401_dup-20191125.jpg",
+        "created": 1574779127,
+        "season_number": "4",
+        "title_id": "2206486",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1660513673,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660795200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_19123138256-rickandmorty_401_dup-20191125.jpg",
+        "id": "AW6oJoYfadNs2hMNfupg",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "EP033976470005",
         "description": "The crew share the long road toward creating their most snake-centric adventure.",
@@ -5938,53 +5990,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1660795140,
-        "tms_id": "EP018336730049",
-        "description": "Big man comin for dinner, broh. Better check the booze.",
-        "title_suggest": {
-            "input": [
-                "Mort Dinner Rick Andre",
-                "Dinner Rick Andre",
-                "Rick Andre",
-                "Andre"
-            ]
-        },
-        "title": "Mort Dinner Rick Andre",
-        "expiration_date": 1660190340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1434.5998,
-        "episode_number": "1",
-        "original_air_date": "1624244400",
-        "auth_launch_date": 1660190400,
-        "clip_order": null,
-        "airing_id": "RADS1008102200020546",
-        "media_id": "8927f080e956326fa00f39cebd31cb7f5b0da92b",
-        "modified": 1660583549,
-        "slug": "mort-dinner-rick-andre",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/1_216181257488-RickAndMorty_501_MortDinnerRickAndre.png",
-        "created": 1624035527,
-        "season_number": "5",
-        "title_id": "2270458",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1660583549,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1659585600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181257488-RickAndMorty_501_MortDinnerRickAndre.png",
-        "id": "AXogD4uwDmGy9WFjRrgk",
-        "auth": true
-    },
-    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Is there a giant time bird at the end of existence? Writer Jeff Loveness, co-creator Dan Harmon, showrunner Scott Marder and director Jacob Hair dive into the season 5 premiere to discuss this and many more of life's big questions.",
@@ -6076,7 +6081,7 @@
         "launch_date": 1660795200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png",
         "id": "AXpEYyttDmGy9WFjRrmZ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -6218,7 +6223,7 @@
         "launch_date": 1660795200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711611335-RickAndMorty_503_ARickconvenientMort.jpg",
         "id": "AXpjsuNcDmGy9WFjRrqJ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1660795140,
@@ -6263,7 +6268,7 @@
         "launch_date": 1660795200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791115213-RickAndMorty_505_RickdependenceSpray.png",
         "id": "AXqL1qduDmGy9WFjRryX",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -6356,7 +6361,7 @@
         "launch_date": 1660795200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161027450-RickAndMorty_506_AmortycanGrickfitti.png",
         "id": "AXqvJggIBH5Z6gH5aWX_",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -6450,7 +6455,7 @@
         "launch_date": 1660190400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730119216-RickAndMorty_504_GotronJerrysisRickvangelion.png",
         "id": "AXr39rJfeTntnGIjub01",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6547,7 +6552,7 @@
         "launch_date": 1660190400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
         "id": "AXrT5mYgeTntnGIjub0s",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6696,7 +6701,7 @@
         "launch_date": 1660190400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210806/thumbnails/2_2186105552-RickAndMorty_508_RickternalFriendshineOfTheSpotlessMort.png",
         "id": "AXsbnTrbeTntnGIjub07",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6794,7 +6799,7 @@
         "launch_date": 1660190400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png",
         "id": "AXun7GUP4Xbjep71f6Gt",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1661399940,
@@ -6839,7 +6844,7 @@
         "launch_date": 1660190400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png",
         "id": "AXun7SS-4Xbjep71f6Gu",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
