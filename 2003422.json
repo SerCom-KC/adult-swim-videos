@@ -48,58 +48,6 @@
         "cma_id": "2003443"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1660795140,
-        "tms_id": "EP012792980114",
-        "description": "After a tip from Jimmy Pesto, Bob secures a new meat provider who claims to save clients money on every order. The Belchers quickly realize that the situation is too good to be true, as they find themselves involved in an investigation.",
-        "title_suggest": {
-            "input": [
-                "They Serve Horses, Don't They?",
-                "Serve Horses, Don't They?",
-                "Horses, Don't They?",
-                "Don't They?",
-                "They?"
-            ]
-        },
-        "expiration_date": 1649044740,
-        "title": "They Serve Horses, Don't They?",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1304.3003003,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "2",
-        "original_air_date": 1508115600,
-        "clip_order": null,
-        "auth_launch_date": 1660190400,
-        "modified": 1659765885,
-        "media_id": "191f7d899837e9f0fb9312a7125bd937c43e5c18",
-        "airing_id": "RADS1008052200020147",
-        "id": "6wGwgTMGQG6e5VJ1b-eQdQ",
-        "slug": "they-serve-horses-dont-they",
-        "views": 2188,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-150911810288819.jpg",
-        "created": 1504123402,
-        "season_number": "7",
-        "title_id": "2132973",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1659765885,
-        "first_published": 1507781445,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1648440000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg",
-        "cma_id": "1495809"
-    },
-    {
         "ott_launch_date": null,
         "auth": true,
         "auth_expiration_date": 1661140740,
@@ -246,6 +194,52 @@
         "modified_by": "ODT Listener",
         "launch_date": 1650254400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1661399940,
+        "tms_id": "EP012792980125",
+        "description": "When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills.",
+        "title_suggest": {
+            "input": [
+                "Aquaticism"
+            ]
+        },
+        "title": "Aquaticism",
+        "type": "episode",
+        "expiration_date": 1651463940,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1303.33,
+        "episode_number": "10",
+        "original_air_date": 1512957600,
+        "auth_launch_date": 1660795200,
+        "clip_order": null,
+        "media_id": "33623b218d1d94f92c3923ba791e665628d3526b",
+        "modified": 1660520860,
+        "airing_id": "RADS1008142200021160",
+        "id": "AWATwpnwZ-onAnjDLtUU",
+        "slug": "aquaticism",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151579440273610.jpg",
+        "created": 1512160008,
+        "title_id": "2132979",
+        "tv_rating": "tv-pg-l",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1660520860,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1650859200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg"
     },
     {
         "ott_launch_date": null,
