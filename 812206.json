@@ -746,8 +746,12 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1660822140,
+        "auth_expiration_date": 1667188799,
+        "created": 1610915206,
         "tms_id": "EP034917240094",
+        "title_id": "2177754",
+        "season_number": "6",
+        "tv_rating": "tv-pg-lv",
         "description": "Naruto and Killer Bee take on the six Reanimated Jinchuriki, who've been equipped with the Rinnegan.",
         "title_suggest": {
             "input": [
@@ -756,39 +760,22 @@
                 "Jinchuriki!!"
             ]
         },
+        "published": 1660521478,
         "title": "Jinchuriki vs. Jinchuriki!!",
         "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
+        "tags": [],
         "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
         "duration": 1311.3768,
         "episode_number": "42",
-        "original_air_date": 1611475200,
-        "auth_launch_date": 1650454200,
-        "clip_order": null,
-        "airing_id": "RADS1004152200089208",
-        "media_id": "29bf5708c9c39986b93b4e3216dc45e468ec45c9",
-        "modified": 1660523563,
-        "slug": "jinchuriki-vs-jinchuriki",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/1_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg",
-        "created": 1610915206,
-        "title_id": "2177754",
-        "season_number": "6",
-        "tv_rating": "tv-pg-lv",
-        "published": 1660523563,
-        "tags": [],
         "collection_title": "Naruto: Shippuden",
-        "disable_ads": false,
+        "original_air_date": 1611475200,
+        "auth_launch_date": 1660822200,
         "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210122/thumbnails/2_21122131307-NarutoShippuden_325_JinchurikiVsJinchuriki.jpg",
-        "id": "AXcSB1PbQJ_4Uej5kTmg",
+        "airing_id": "RADS1008142200021233",
+        "media_id": "29bf5708c9c39986b93b4e3216dc45e468ec45c9",
+        "modified": 1660521478,
+        "slug": "jinchuriki-vs-jinchuriki",
+        "id": "AXcSB1PabxpjZvbXYmDA",
         "auth": true
     },
     {
