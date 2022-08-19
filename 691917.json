@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447786320,
         "auth_expiration_date": 1663905540,
         "tms_id": "EP000337110006",
@@ -281,6 +281,57 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1451682720,
+        "auth_expiration_date": 1654833540,
+        "tms_id": "EP000337110011",
+        "rating": 6.9869914,
+        "description": "Xavier's sacred mantra brings solace to a sad, pathetic pill popping soul-- his own.",
+        "title_suggest": {
+            "input": [
+                "Vibracaust"
+            ]
+        },
+        "type": "episode",
+        "title": "Vibracaust",
+        "expiration_date": 1663905540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+        "duration": 689.62,
+        "episode_number": "1",
+        "original_air_date": 1234502100,
+        "clip_order": null,
+        "auth_launch_date": 1651809600,
+        "modified": 1660523838,
+        "airing_id": "RADS1008142200021263",
+        "media_id": "382b31ec9cd207f4270bb0edb4c3636765f567a3",
+        "id": "cAwcz4LAQ5qIWFX0C_y8Ig",
+        "slug": "vibracaust",
+        "views": 211558,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_21141730217-xavier_201.jpg",
+        "created": 1402945482,
+        "title_id": "747211",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1660523838,
+        "tags": [],
+        "rating_count": 1307,
+        "collection_title": "Xavier: Renegade Angel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660881600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730217-xavier_201.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447786260,
         "auth_expiration_date": 1662695940,
@@ -334,59 +385,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1656648000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141728260-xavier_104.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446309120,
-        "auth_expiration_date": 1660881540,
-        "tms_id": "EP000337110001",
-        "rating": 5.9202967,
-        "description": "Meet Xavier, a seeker/searcher man/beast who takes his spirit quest thru Connecticut. When a town is infected with a mystery virus, Xavier must use his healing abilities to save and his brainbilities to stump a evil computer. What doth Xavier?",
-        "title_suggest": {
-            "input": [
-                "What Life D-D-Doth",
-                "Life D-D-Doth",
-                "D-D-Doth"
-            ]
-        },
-        "type": "episode",
-        "title": "What Life D-D-Doth",
-        "expiration_date": 1657857540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
-        "duration": 692.43,
-        "episode_number": "1",
-        "original_air_date": 1194238800,
-        "clip_order": null,
-        "auth_launch_date": 1657857600,
-        "modified": 1657496281,
-        "media_id": "54c9e9b3db27825ca54c81baff568958c7b6ac44",
-        "airing_id": "RADS1006062200003358",
-        "id": "nuRSpq8JSJOpuBqr5qUmFA",
-        "slug": "what-life-d-d-doth",
-        "views": 501253,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_21141727311-xavier_101.jpg",
-        "created": 1402945482,
-        "title_id": "693277",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1657496281,
-        "tags": [],
-        "rating_count": 5081,
-        "collection_title": "Xavier: Renegade Angel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654833600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141727311-xavier_101.jpg",
         "cma_id": ""
     },
     {
