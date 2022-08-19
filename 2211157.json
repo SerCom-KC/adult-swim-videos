@@ -1215,7 +1215,7 @@
         "launch_date": 1660881600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261359208-Primal_013_DawnOfMan.png",
         "id": "AYIzNObFIAxeiVkFtLQj",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1661486340,
@@ -1352,5 +1352,49 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220811/thumbnails/2_228111033553-PrimalMarathonImage.png",
         "id": "AYKNVZ8X3sQvipyea9xI",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1662695940,
+        "tms_id": "",
+        "description": "Spear, Fang, and Mira are hunted by the last survivors of a village decimated by their carnage.",
+        "title_suggest": {
+            "input": [
+                "Vidarr"
+            ]
+        },
+        "title": "Vidarr",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1361.1598,
+        "episode_number": "6",
+        "original_air_date": 1660881600,
+        "auth_launch_date": 1660881600,
+        "clip_order": null,
+        "airing_id": "RADS1008142200021276",
+        "media_id": "344ad186ab1a6c2d38a3fb49d9318302ae9af2ad",
+        "modified": 1660766000,
+        "slug": "vidarr",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220817/thumbnails/1_228171552568-Primal_016_Vidar.png",
+        "created": 1660505319,
+        "title_id": "2276162",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "published": 1660766000,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220817/thumbnails/2_228171552568-Primal_016_Vidar.png",
+        "id": "AYKd1GmBIAxeiVkFtLRY",
+        "auth": true
     }
 ]
