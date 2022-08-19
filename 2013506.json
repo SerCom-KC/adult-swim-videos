@@ -7537,6 +7537,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Something wicked this way comes. Rick and Morty season 6 returns starting September 4 on [adult swim]. Visit RickandMorty.com now.",
+        "title_suggest": {
+            "input": [
+                "Wormageddon: Journey To Earth",
+                "Journey To Earth",
+                "To Earth",
+                "Earth"
+            ]
+        },
+        "title": "Wormageddon: Journey To Earth",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 34.219,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me148102293e0510fa21e874ed7e911912ea3f6399",
+        "modified": 1660922035,
+        "slug": "wormageddon-journey-to-earth",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/1_22818165041-AS_RAM_Wormageddon_Journey_To_Earth_SOCIAL_Library_Music_16x9_URL_REFERENCE.png",
+        "created": 1660855819,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "",
+        "published": 1660922035,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1660858246,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_22818165041-AS_RAM_Wormageddon_Journey_To_Earth_SOCIAL_Library_Music_16x9_URL_REFERENCE.png",
+        "id": "AYKyuJx93sQvipyea94N",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
