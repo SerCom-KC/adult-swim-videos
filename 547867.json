@@ -106,6 +106,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451681760,
+        "auth_expiration_date": 1648785540,
+        "tms_id": "EP007008200003",
+        "rating": 7.7826085,
+        "description": "Tom proposes a World War II-themed restaurant, but the Mayor's nephew turns it into an arcade/pizza parlor that veers far from his original vision.",
+        "title_suggest": {
+            "input": [
+                "WW Laserz",
+                "Laserz"
+            ]
+        },
+        "type": "episode",
+        "title": "WW Laserz",
+        "expiration_date": 1663905540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 695.03,
+        "episode_number": "3",
+        "original_air_date": 1101097800,
+        "clip_order": null,
+        "auth_launch_date": 1645765200,
+        "modified": 1660523839,
+        "airing_id": "RADS1008142200021268",
+        "media_id": "47092b374778aab28d4e26e9a39515a5fb93dc16",
+        "id": "LIeGI_YTT3KeyCqV508ZsA",
+        "slug": "ww-laserz",
+        "views": 102304,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211783543-tgttm_003.jpg",
+        "created": 1402945482,
+        "title_id": "607108",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1660523839,
+        "tags": [
+            "tom goes to the mayor tgttm episode 3 ww laserz pizza restaurant nephew"
+        ],
+        "rating_count": 322,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660881600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211783543-tgttm_003.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451681700,
         "auth_expiration_date": 1648180740,
         "tms_id": "EP007008200001",
@@ -261,59 +314,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1657252800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795648-tgttm_021.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451682180,
-        "auth_expiration_date": 1660881540,
-        "tms_id": "EP007008200022",
-        "rating": 7.919643,
-        "description": "Tom stoops to new lows to get invited to Gibbons' Surprise Party.",
-        "title_suggest": {
-            "input": [
-                "Surprise Party",
-                "Party"
-            ]
-        },
-        "type": "episode",
-        "title": "Surprise Party",
-        "expiration_date": 1657857540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 694.19,
-        "episode_number": "2",
-        "original_air_date": 1153715400,
-        "clip_order": null,
-        "auth_launch_date": 1657857600,
-        "modified": 1657496285,
-        "airing_id": "RADS1007102200012810",
-        "media_id": "3587d774d47c229d6133fe27d5f961a9b54f3dbe",
-        "id": "oeEdHdVuQAaxcG9ISlyeTg",
-        "slug": "surprise-party",
-        "views": 108567,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117953264-tgttm_015.jpg",
-        "created": 1402945482,
-        "title_id": "629806",
-        "season_number": "2",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1657496285,
-        "tags": [
-            "tom goes to the mayor episode 15 surprise party gibbons"
-        ],
-        "rating_count": 336,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654833600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953264-tgttm_015.jpg",
         "cma_id": ""
     },
     {

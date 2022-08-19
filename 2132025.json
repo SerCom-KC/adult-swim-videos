@@ -147,6 +147,54 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1655438340,
+        "tms_id": "",
+        "description": "You know, every show has an episode like this.",
+        "title_suggest": {
+            "input": [
+                "The Storm",
+                "Storm"
+            ]
+        },
+        "title": "The Storm",
+        "expiration_date": 1663905540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
+        "duration": 647.08,
+        "episode_number": "6",
+        "original_air_date": 1560139200,
+        "auth_launch_date": 1652500800,
+        "clip_order": null,
+        "media_id": "a70d0c4119878d55d2bf14ed4cd4ac7abdf92788",
+        "modified": 1660523570,
+        "airing_id": "RADS1008142200021246",
+        "slug": "the-storm",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155983921420515.jpg",
+        "created": 1553004918,
+        "season_number": "2",
+        "title_id": "2191420",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1660523570,
+        "tags": [],
+        "collection_title": "The Jellies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660881600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983921420515.jpg",
+        "id": "AWmWTncEAScUIg8XxeHF",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1663905540,
         "tms_id": "",
         "description": "Barry's brother comes to town and has a negative influence on Cornell.",
@@ -752,53 +800,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1656648000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130122078113.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1511191860,
-        "auth_expiration_date": 1660881540,
-        "tms_id": "EP027912080005",
-        "description": "KY's body seems to be going through some womanly changes, so she goes on a dating show to deal with it.",
-        "title_suggest": {
-            "input": [
-                "The Gameshow",
-                "Gameshow"
-            ]
-        },
-        "title": "The Gameshow",
-        "type": "episode",
-        "expiration_date": 1657857540,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-        "duration": 648.9,
-        "episode_number": "5",
-        "original_air_date": 1511154900,
-        "clip_order": null,
-        "auth_launch_date": 1657857600,
-        "modified": 1657496282,
-        "media_id": "ce452e5109ffd3c738ad59cb83d1d439b6c9f8a7",
-        "airing_id": "RADS1007102200012826",
-        "id": "Kzii8SYGRsW9wVvpAO2euw",
-        "slug": "the-gameshow",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15109495078072.jpg",
-        "created": 1508442433,
-        "season_number": "1",
-        "title_id": "2132030",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1657496282,
-        "tags": [],
-        "collection_title": "The Jellies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654833600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15109495078072.jpg",
         "cma_id": ""
     },
     {

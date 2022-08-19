@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1660881540,
-        "tms_id": "EP003034830097",
-        "description": "Crew members are able to swap minds thanks to a state-of-the-art gadget.",
-        "title_suggest": {
-            "input": [
-                "The Prisoner of Benda",
-                "Prisoner of Benda",
-                "of Benda",
-                "Benda"
-            ]
-        },
-        "title": "The Prisoner of Benda",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.6817,
-        "episode_number": "10",
-        "original_air_date": "1648431000",
-        "auth_launch_date": 1660276800,
-        "clip_order": null,
-        "airing_id": "RADS1008052200020223",
-        "media_id": "c0394b50ae4d4143982d4a168a91550e89775954",
-        "modified": 1659849563,
-        "slug": "the-prisoner-of-benda",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221443183-Futurama_710_ThePrisonerOfBenda.png",
-        "created": 1647974609,
-        "season_number": "7",
-        "title_id": "2161629",
-        "tv_rating": "tv-14-dlv",
-        "published": 1659849563,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221443183-Futurama_710_ThePrisonerOfBenda.png",
-        "id": "AX-y8PC9208s7zyYUMZf",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1660967940,
         "tms_id": "EP003034830098",
         "description": "After a bungled Earth invasion, alien leader Lrrr faces a midlife crisis.",
@@ -136,6 +89,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311318278-Futurama_712_TheMutantsAreRevolting.png",
         "id": "AX_cbPGw_0O4w1rD3R6k",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1661486340,
+        "tms_id": "EP003034830106",
+        "description": "In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa.",
+        "title_suggest": {
+            "input": [
+                "Holiday Spectacular",
+                "Spectacular"
+            ]
+        },
+        "title": "Holiday Spectacular",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1358.6239,
+        "episode_number": "13",
+        "original_air_date": 1649638800,
+        "auth_launch_date": 1660881600,
+        "clip_order": null,
+        "airing_id": "RADS1008142200021271",
+        "media_id": "dbd0e275cadbd0e5d92475f38b7f475137b46359",
+        "modified": 1660525049,
+        "slug": "holiday-spectacular",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
+        "created": 1649426535,
+        "title_id": "2161632",
+        "season_number": "7",
+        "tv_rating": "tv-14-dlv",
+        "published": 1660525049,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
+        "id": "AYAJe5Lg208s7zyYUMiQ",
         "auth": true
     },
     {
