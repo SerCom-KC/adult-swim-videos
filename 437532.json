@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1660967940,
-        "tms_id": "EP003034830098",
-        "description": "After a bungled Earth invasion, alien leader Lrrr faces a midlife crisis.",
-        "title_suggest": {
-            "input": [
-                "Lrrreconcilable Ndndifferences",
-                "Ndndifferences"
-            ]
-        },
-        "title": "Lrrreconcilable Ndndifferences",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1362.0607,
-        "episode_number": "11",
-        "original_air_date": 1649034000,
-        "auth_launch_date": 1660363200,
-        "clip_order": null,
-        "airing_id": "RADS1008112200020686",
-        "media_id": "c4df49e0849f63b2a028aca96f9fb0af32002c94",
-        "modified": 1660253135,
-        "slug": "lrrreconcilable-ndndifferences",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311317260-Futurama_711_LrrreconsilableNdndifferences.png",
-        "created": 1648670588,
-        "title_id": "2161630",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlv",
-        "published": 1660253135,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311317260-Futurama_711_LrrreconsilableNdndifferences.png",
-        "id": "AX_cbL0n_0O4w1rD3R6j",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1661054340,
         "tms_id": "EP003034830099",
         "description": "Leela leads an army of underground mutants in a rebellion against the surface people.",
@@ -134,6 +89,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
         "id": "AYAJe5Lg208s7zyYUMiQ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1661572740,
+        "tms_id": "EP003034830107",
+        "description": "The crew members encounter a bizarre alien with the power to change their sexual characteristics.",
+        "title_suggest": {
+            "input": [
+                "Neutopia"
+            ]
+        },
+        "title": "Neutopia",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "1",
+        "original_air_date": 1649640600,
+        "auth_launch_date": 1660968000,
+        "clip_order": null,
+        "airing_id": "RADS1008142200021294",
+        "media_id": "c6c7b3402f46fbe799eba0ef403a79804935fc5f",
+        "modified": 1660542154,
+        "slug": "neutopia",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_224815693-Futurama_807_Neutopia.png",
+        "created": 1649426691,
+        "title_id": "2161639",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1660542154,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_224815693-Futurama_807_Neutopia.png",
+        "id": "AYAJffX2_0O4w1rD3R95",
         "auth": true
     },
     {
