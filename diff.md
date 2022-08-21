@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 21, 2022 at 01:00:25 EDT_
+_Last Update: August 21, 2022 at 01:30:25 EDT_
 ## Video added
 ### Summary
-2165429 The Shivering Truth: 1  
-### 2172252
-**The Shivering Truth S01E06 - Fowl Flow**  
-TV-MA-SV 🔓 11:17  
+2132025 The Jellies: 1  
+### 2191415
+**The Jellies S02E07 - Doctor Pirates**  
+TV-14-DLV 🔓 10:46  
 ⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-shivering-truth/fowl-flow  
-seriesid=`2165429` titleid=`2172252` id=`AWdcesecqD68dq0Op5mi` mediaid=`ee1d1457a5e0788e336d53395889dd6b58d80719`  
-_This week Violet discovers that that scalding throb that rips thru your body every few seconds has a name:  The Rest Of The World._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-jellies/doctor-pirates  
+seriesid=`2132025` titleid=`2191415` id=`AWmWYceSAScUIg8XxeHL` mediaid=`dd16c8f65dd804965448d26c5bd33c24e778cfbc`  
+_Debbie's family reunion is crashed by unsuspecting guests._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983917361215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155983917361215.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
