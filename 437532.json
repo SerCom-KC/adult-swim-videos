@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1661054340,
-        "tms_id": "EP003034830099",
-        "description": "Leela leads an army of underground mutants in a rebellion against the surface people.",
-        "title_suggest": {
-            "input": [
-                "The Mutants Are Revolting",
-                "Mutants Are Revolting",
-                "Are Revolting",
-                "Revolting"
-            ]
-        },
-        "title": "The Mutants Are Revolting",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1365.1304,
-        "episode_number": "12",
-        "original_air_date": 1649035800,
-        "auth_launch_date": 1660449600,
-        "clip_order": null,
-        "airing_id": "RADS1008112200020827",
-        "media_id": "ffb186c8f883fbff751f3c4e6feb9bc1083b0e67",
-        "modified": 1660255848,
-        "slug": "the-mutants-are-revolting",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311318278-Futurama_712_TheMutantsAreRevolting.png",
-        "created": 1648670601,
-        "title_id": "2161631",
-        "season_number": "7",
-        "tv_rating": "tv-14-d",
-        "published": 1660255848,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311318278-Futurama_712_TheMutantsAreRevolting.png",
-        "id": "AX_cbPGw_0O4w1rD3R6k",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1661486340,
         "tms_id": "EP003034830106",
         "description": "In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa.",
@@ -133,6 +86,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_224815693-Futurama_807_Neutopia.png",
         "id": "AYAJffX2_0O4w1rD3R95",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1661659140,
+        "tms_id": "EP003034830108",
+        "description": "Bender gains the ability to self-replicate, threatening to overrun Earth with vast swarms of copies of himself.",
+        "title_suggest": {
+            "input": [
+                "Benderama"
+            ]
+        },
+        "title": "Benderama",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1361.9606,
+        "episode_number": "2",
+        "original_air_date": 1650243600,
+        "auth_launch_date": 1661054400,
+        "clip_order": null,
+        "airing_id": "RADS1008142200021324",
+        "media_id": "9baf4057701da4e3e1061f8718f66e5bd2200b6a",
+        "modified": 1660626804,
+        "slug": "benderama",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/1_22418106491-Benderama.png",
+        "created": 1649984539,
+        "title_id": "2161636",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "published": 1660626804,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/2_22418106491-Benderama.png",
+        "id": "AYAqvgpD208s7zyYUMli",
         "auth": true
     },
     {
