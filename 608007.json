@@ -712,7 +712,7 @@
         "launch_date": 1660469400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720833590-OnePiece_568_ToTheFutureThePathToTheSun.png",
         "id": "AYIbmfWp3sQvipyea9fu",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1661677140,
@@ -969,6 +969,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_228181515103-OnePiece_575_ZsAmbitionLilyTheLittleGiant.png",
         "id": "AYKnJ4oh3sQvipyea93I",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662888540,
+        "tms_id": "EP035179090061",
+        "description": "Nami hatches a plan to save Lily's father, but the arrival of an ex-marine madman throws a monkey wrench into the rescue mission.",
+        "title_suggest": {
+            "input": [
+                "Z's Ambition! A Dark and Powerful Army!",
+                "Ambition! A Dark and Powerful Army!",
+                "A Dark and Powerful Army!",
+                "Dark and Powerful Army!",
+                "and Powerful Army!",
+                "Powerful Army!",
+                "Army!"
+            ]
+        },
+        "title": "Z's Ambition! A Dark and Powerful Army!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.4644,
+        "episode_number": "59",
+        "original_air_date": 1661061600,
+        "auth_launch_date": 1661074200,
+        "clip_order": null,
+        "airing_id": "RADS1008162200021662",
+        "media_id": "f58ede106cb63cb72dd2788537c2a34fd2d585ca",
+        "modified": 1661008636,
+        "slug": "zs-ambition-a-dark-and-powerful-army",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/1_22818151602-OnePiece_576_ZsAmbitionADarkAndPowerfulArmy.png",
+        "created": 1660661763,
+        "title_id": "2402468",
+        "season_number": "15",
+        "tv_rating": "tv-pg-lv",
+        "published": 1661008636,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_22818151602-OnePiece_576_ZsAmbitionADarkAndPowerfulArmy.png",
+        "id": "AYKnJ4vI3sQvipyea93J",
         "auth": true
     }
 ]
