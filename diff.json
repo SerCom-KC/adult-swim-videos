@@ -1,16 +1,21 @@
 {
-    "updated": 1661081426,
-    "added": [
+    "updated": 1661083230,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1667127540,
+            "auth_expiration_date": 1661081340,
             "tms_id": "",
-            "description": "Ten Tails' relentless attack is wearing down Naruto, and his chakra begins to dissipate. Meanwhile, Kakashi and Obito face each other in a different Kamui dimension.",
+            "description": "Ten Tails is on the brink of its final transformation and begins to form a massive Tailed Beast Bomb.",
             "title_suggest": {
                 "input": [
+                    "Something to Fill the Hole",
+                    "to Fill the Hole",
+                    "Fill the Hole",
+                    "the Hole",
                     "Hole"
                 ]
             },
-            "title": "Hole",
+            "title": "Something to Fill the Hole",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -20,34 +25,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.4768,
-            "episode_number": "23",
-            "original_air_date": "1642923000",
-            "auth_launch_date": 1661079600,
+            "duration": 1312.311,
+            "episode_number": "24",
+            "original_air_date": "1642924800",
+            "auth_launch_date": 1652009400,
             "clip_order": null,
-            "airing_id": "RADS1008162200021646",
-            "media_id": "d96a6fdbb9d7e7b0c7f91882392a10ebd8cee040",
-            "modified": 1660664966,
-            "slug": "hole",
+            "airing_id": "RADS1005042200095679",
+            "media_id": "ac47ad80ad3955bb78aad89b0814a95faad81e54",
+            "modified": 1660664668,
+            "slug": "something-to-fill-the-hole",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_221201713117-NarutoShippuden_371_Hole.png",
-            "created": 1642716810,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_221201714197-NarutoShippuden_372_SomethingToFillTheHole.png",
+            "created": 1642716872,
             "season_number": "7",
-            "title_id": "2177800",
+            "title_id": "2177801",
             "tv_rating": "tv-pg",
-            "published": 1660664966,
+            "published": 1660664668,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_221201713117-NarutoShippuden_371_Hole.png",
-            "id": "AX55jU5s208s7zyYUL9u",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_221201714197-NarutoShippuden_372_SomethingToFillTheHole.png",
+            "id": "AX55jj4Q_0O4w1rD3Rb0",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
