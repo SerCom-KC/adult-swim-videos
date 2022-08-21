@@ -1183,7 +1183,7 @@
         "launch_date": 1661068800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726140330-YashahimePrincessHalfDemon_201_WieldingTheTenseiga.png",
         "id": "AYI7qxHPIAxeiVkFtLQk",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1661673540,
@@ -1277,6 +1277,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891345354-YashahimePrincessHalfDemon_203_TheSilverScaleCurse.png",
         "id": "AYKDtmNK3sQvipyea9we",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662883140,
+        "tms_id": "EP036780850052",
+        "description": "The three girls arrive at Mount Musubi but are trapped by a powerful barrier. Moroha manages to escape and runs into something unexpected.",
+        "title_suggest": {
+            "input": [
+                "The Barrier at Mount Musubi",
+                "Barrier at Mount Musubi",
+                "at Mount Musubi",
+                "Mount Musubi",
+                "Musubi"
+            ]
+        },
+        "title": "The Barrier at Mount Musubi",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXpED60VBH5Z6gH5aWXi",
+        "duration": 1334.8669,
+        "episode_number": "4",
+        "original_air_date": 1661056200,
+        "auth_launch_date": 1661068800,
+        "clip_order": null,
+        "airing_id": "RADS1008162200021641",
+        "media_id": "eb698bf86ce6f0ec71b9944d4a3dafd626cd27d4",
+        "modified": 1660849248,
+        "slug": "the-barrier-at-mount-musubi",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/1_22818150376-YashahimePrincessHalfDemon_204_TheBarrierAtMountMusubi.png",
+        "created": 1660659970,
+        "title_id": "2394823",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "published": 1660849248,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_22818150376-YashahimePrincessHalfDemon_204_TheBarrierAtMountMusubi.png",
+        "id": "AYKnDDHzIAxeiVkFtLRZ",
         "auth": true
     }
 ]
