@@ -660,7 +660,7 @@
         "launch_date": 1661070600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726141134-LupinThe3rd_Part6_614_TheMirageWomen.png",
         "id": "AYI7q6mo3sQvipyea9lE",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1660465740,
@@ -804,6 +804,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891346182-LupinThe3rd_Part6_616_SamuraiCollection.png",
         "id": "AYKDtxGrIAxeiVkFtLRS",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662884940,
+        "tms_id": "EP042756160017",
+        "description": "Timing matters when the CEO of Wangtic Securities challenges Lupin to test the L System, her purportedly Lupin-proof security system\u2026but what does the 'L' REALLY stand for?",
+        "title_suggest": {
+            "input": [
+                "Win or Lose in 0.1 Seconds",
+                "or Lose in 0.1 Seconds",
+                "Lose in 0.1 Seconds",
+                "in 0.1 Seconds",
+                "0.1 Seconds",
+                "Seconds"
+            ]
+        },
+        "title": "Win or Lose in 0.1 Seconds",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1293.2586,
+        "episode_number": "17",
+        "original_air_date": 1661058000,
+        "auth_launch_date": 1661070600,
+        "clip_order": null,
+        "airing_id": "RADS1008162200021643",
+        "media_id": "468127323b0a3ac6b131b20ba758645501068c1d",
+        "modified": 1661008390,
+        "slug": "win-or-lose-in-0-1-seconds",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/1_22818151432-Lupinthe3rd_Part6_617_WinOrLoseIn01Seconds.jpg",
+        "created": 1660660125,
+        "title_id": "2387398",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "published": 1661008390,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_22818151432-Lupinthe3rd_Part6_617_WinOrLoseIn01Seconds.jpg",
+        "id": "AYKnDpDCIAxeiVkFtLRa",
         "auth": true
     }
 ]
