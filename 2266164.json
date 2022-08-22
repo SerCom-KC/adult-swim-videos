@@ -677,7 +677,7 @@
         "launch_date": 1661140800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220803/thumbnails/2_22831725200-TucaAndBertie_305_SaladDays.png",
         "id": "AYJLzKoxIAxeiVkFtLQp",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1661745540,
@@ -769,6 +769,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_2289135105-TucaAndBertie_307_AVerySpeckleEpisode.png",
         "id": "AYKDu2Ic3sQvipyea9wi",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662955140,
+        "tms_id": "EP031843450028",
+        "description": "Bertie might have some mommy issues! Tuca coaches Speckle through a tough transitional life stage.",
+        "title_suggest": {
+            "input": [
+                "Fledging Day",
+                "Day"
+            ]
+        },
+        "title": "Fledging Day",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXI5AAWnRs3h4hI_X3zz",
+        "duration": 1381.8805,
+        "episode_number": "8",
+        "original_air_date": 1661140800,
+        "auth_launch_date": 1661140800,
+        "clip_order": null,
+        "airing_id": "RADS1008182200022112",
+        "media_id": "990ce85d0141430a261f85b24d4845778c96bc9a",
+        "modified": 1661009167,
+        "slug": "fledging-day",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220820/thumbnails/1_228201125324-aslogothumbnail.png",
+        "created": 1660850618,
+        "title_id": "2388618",
+        "season_number": "3",
+        "tv_rating": "tv-ma-l",
+        "published": 1661009167,
+        "tags": [],
+        "collection_title": "Tuca & Bertie",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220820/thumbnails/2_228201125324-aslogothumbnail.png",
+        "id": "AYKyaUABIAxeiVkFtLRb",
         "auth": true
     }
 ]
