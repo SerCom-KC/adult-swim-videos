@@ -2,254 +2,206 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 22, 2022 at 00:00:26 EDT_
+_Last Update: August 22, 2022 at 00:30:25 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 7  
-610028 The Boondocks: 7  
-2162827 Tigtone: 1  
-### 2186666
-**American Dad S14E17 - Enter Stanman**  
-TV-14-DLSV 🔒 21:03  
+2003422 Bob's Burgers: 4  
+437532 Futurama: 2  
+2178188 Lazor Wulf: 1  
+2196566 Momma Named Me Sheriff: 1  
+895948 The Eric Andre Show: 1  
+2194658 The Promised Neverland: 1  
+2266164 Tuca & Bertie: 1  
+### 2003514
+**Bob's Burgers S03E03 - Bob Fires the Kids**  
+TV-14 🔓 21:30  
 ⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/enter-stanman  
-seriesid=`581006` titleid=`2186666` id=`AXKUOGgeRs3h4hI_X4BU` mediaid=`3ad0a60c7bcb55e7429f8cabb9eac16eb0bf8230`  
-_Roger helps Stan enter Francine's dreams after he becomes insecure about their contents._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg" height="144px" /></a>
-### 2041476
-**American Dad S11E03 - Hayley Smith, Seal Team Six**  
-TV-14-DLV 🔓 21:13  
+https://www.adultswim.com/videos/bobs-burgers/bob-fires-the-kids  
+seriesid=`2003422` titleid=`2003514` id=`m6oToyJWT4iP8igvJtBeOA` mediaid=`362e1875ab9ec1ea7102197574f0e6578c7977fc`  
+_Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers, who hire the Belcher kids as "weed pickers." Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg" height="144px" /></a>
+### 2003513
+**Bob's Burgers S03E02 - Full Bars**  
+TV-PG 🔓 21:15  
 ⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/hayley-smith-seal-team-six  
-seriesid=`581006` titleid=`2041476` id=`uo1Kf91lTPCZCjE4bnKkCQ` mediaid=`c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c`  
-_Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg" height="144px" /></a>
-### 2041480
-**American Dad S11E06 - Kiss Kiss, Cam Cam**  
-TV-14-DLSV 🔓 21:13  
+https://www.adultswim.com/videos/bobs-burgers/full-bars  
+seriesid=`2003422` titleid=`2003513` id=`ClXtTaMsTqeJ9gW6Fx286w` mediaid=`1721ac667fd17a767f9bf556b07ec3cee6429731`  
+_The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual "Black and Orange" party._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg" height="144px" /></a>
+### 2003515
+**Bob's Burgers S03E04 - Mutiny on the Windbreaker**  
+TV-PG 🔓 21:30  
 ⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/kiss-kiss-cam-cam  
-seriesid=`581006` titleid=`2041480` id=`un5GKAHcTHu0l8SJPfqaCQ` mediaid=`2d71a4b54268c799ed40ce185259be6c257b4b30`  
-_Stan gets Francine baseball tickets for her birthday but is upset when they have a horrible kiss on the kiss cam. Steve and Roger head to Nevada to help clean polluted water._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg" height="144px" /></a>
-### 2041477
-**American Dad S11E04 - N.S.A. (No Snoops Allowed)**  
-TV-14-DLSV 🔓 21:13  
+https://www.adultswim.com/videos/bobs-burgers/mutiny-on-the-windbreaker  
+seriesid=`2003422` titleid=`2003515` id=`xtqPT4FZRSurHPCTuRq7sg` mediaid=`fefdb409b44127d638c4a036074b87355d9e2de4`  
+_When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg" height="144px" /></a>
+### 2132988
+**Bob's Burgers S07E17 - Paraders of the Lost Float**  
+TV-PG-L 🔒 21:27  
 ⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/n-s-a-no-snoops-allowed  
-seriesid=`581006` titleid=`2041477` id=`R1Isc4OiQ5OqNqz5mq_ZJg` mediaid=`d873da559ba4646a889015fd6aeb309d464a2b90`  
-_Steve goes to work with Stan and discovers the N.S.A. Hayley decides to let go of being a vegetarian and eat meat for one day._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg" height="144px" /></a>
-### 2186665
-**American Dad S14E16 - Pride Before the Fail**  
-TV-14-DLSV 🔒 21:02  
+https://www.adultswim.com/videos/bobs-burgers/paraders-of-the-lost-float  
+seriesid=`2003422` titleid=`2132988` id=`AWDc4Ex_Z-onAnjDLt6_` mediaid=`45cfc2526dd3d321da486c669ef6e6aecbf844e2`  
+_When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg" height="144px" /></a>
+### 2161671
+**Futurama S10E13 - Meanwhile**  
+TV-14-DLV 🔒 22:41  
 ⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/pride-before-the-fail  
-seriesid=`581006` titleid=`2186665` id=`AXKUOAGSRs3h4hI_X4BT` mediaid=`c9c61867f1ca82d3738108bd043f804f5c8bc157`  
-_Roger tries to force Hayley into graduating from community college so he can move into her room. Klaus repairs Francine's car._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg" height="144px" /></a>
-### 2041478
-**American Dad S11E05 - Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers**  
-TV-14-DL 🔓 21:13  
+https://www.adultswim.com/videos/futurama/meanwhile  
+seriesid=`437532` titleid=`2161671` id=`AYK3U7E03sQvipyea95S` mediaid=`dfc6b74cc6a1b408cb3d18abce0ed9002f741386`  
+_Fry asks Leela to marry him, and they face their destiny together as the Professor's latest invention alters the fabric of time._  
+<a href="https://media.cdn.adultswim.com/uploads/20220820/thumbnails/2_228201159470-aslogothumbnail.png"><img src="https://media.cdn.adultswim.com/uploads/20220820/thumbnails/2_228201159470-aslogothumbnail.png" height="144px" /></a>
+### 2161670
+**Futurama S10E12 - Stench and Stenchibility**  
+TV-14-DLV 🔒 22:40  
 ⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/stan-smith-as-keanu-reeves-as-stanny-utah-in-point-breakers  
-seriesid=`581006` titleid=`2041478` id=`lhPueYEFSTGBnbn2xsc9Mg` mediaid=`19c05ab4df7f77e4458a0e6b54e8907c05994974`  
-_Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg" height="144px" /></a>
-### 2041481
-**American Dad S11E07 - The Devil Wears a Lapel Pin**  
-TV-14-DLSV 🔓 21:13  
-⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-devil-wears-a-lapel-pin  
-seriesid=`581006` titleid=`2041481` id=`rR4-zIOsQj-NMJYR98be7Q` mediaid=`78c7ca28da36ab4bf33664b2de431b174238ab8e`  
-_When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg" height="144px" /></a>
-### 798559
-**The Boondocks S03E07 - A Date with the Booty Warrior**  
-TV-MA 🔒 22:40  
-⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/a-date-with-the-booty-warrior  
-seriesid=`610028` titleid=`798559` id=`e7ZBS3i4R_qGXPnIWtUrdQ` mediaid=`4d8dd47bc4b5d8dcfbeea6f1c751a475c7edd29f`  
-_Having conquered his fear of prison rape, Tom volunteers to lead Huey, Riley, and some classmates on a trip to jail as part of a "Scared Stiff" program. But when a riot breaks out, Tom has to get the kids, and his delicate backside, out of jail in one piece._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136342-boondocks_308.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136342-boondocks_308.jpg" height="144px" /></a>
-### 790590
-**The Boondocks S03E?? - Pause**  
-TV-MA-L 🔒 22:24  
-⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/pause  
-seriesid=`610028` titleid=`790590` id=`ZGoaZ0VKR8qRLJP3dr9aTA` mediaid=`f407629fa51675c026d3734137e473fef2ead5ea`  
-_Granddad is cast as the leading man by mega-superstar of stage and screen, Winston Jerome. But when the theater group turns out to be a homoerotic evangelical cult, it's up to Huey and Riley to put a pause to it._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eafc3fecd017e/thumbnail_30078.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eafc3fecd017e/thumbnail_30078.jpg" height="144px" /></a>
-### 798557
-**The Boondocks S03E05 - Smokin' with Cigarettes**  
-TV-MA 🔒 21:51  
-⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/smokin-with-cigarettes  
-seriesid=`610028` titleid=`798557` id=`EXNa5YjQR7GpSv5jb1hXXA` mediaid=`31b6a78aeb702b20b51a4f32c73d8a29b4e5ac52`  
-_If it's fun to do bad things, then Riley is having the best time ever with juvenile felon Lamilton Taeshawn. But when Lamilton wants to prove he has the "juice", the good times come to a shocking end. Will Riley "know the ledge"? Well anyone get these movie references?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135483-boondocks_309.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135483-boondocks_309.jpg" height="144px" /></a>
-### 798558
-**The Boondocks S03E06 - The Fund-Raiser**  
-TV-MA 🔒 22:39  
-⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-fund-raiser  
-seriesid=`610028` titleid=`798558` id=`7da7T-0ETq2nxh2B7blNfw` mediaid=`6d74e35998c788705398d94f7043978c2a87cae6`  
-_Riley takes over the school candy bar hustle and floods the block with sugar. But when the competition comes looking for payback, it's all out war for control of the chocolate covered streets. Will the sweet life take Riley under?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113669-boondocks_310.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113669-boondocks_310.jpg" height="144px" /></a>
-### 683089
-**The Boondocks S02E12 - The Story of Catcher Freeman**  
-TV-MA 🔓 21:14  
-⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-story-of-catcher-freeman  
-seriesid=`610028` titleid=`683089` id=`mhnO2eHRQgW_kIiiosDhwg` mediaid=`52222c08eace9cfa0abd4a952f7b778f3207a67a`  
-_Three very different versions of a slave revolt led by Huey and Riley's great great great great great great grandparents. Who says the 1860's couldn't be fun?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321132307-boondocks_211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321132307-boondocks_211.jpg" height="144px" /></a>
-### 683096
-**The Boondocks S02E13 - The Story of Gangstalicious, Part 2**  
-TV-MA 🔓 21:45  
-⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-story-of-gangstalicious-part-2  
-seriesid=`610028` titleid=`683096` id=`zE2cixcvQdycaQrG6S3lfg` mediaid=`a7898683a640550a1841e3e4d3b5524a387012d4`  
-_Gangstalicious is back with a new hit song, a new clothing line, but the same old secret. Gayness ensues._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321133301-boondocks_215.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321133301-boondocks_215.jpg" height="144px" /></a>
-### 798560
-**The Boondocks S03E08 - The Story of Lando Freeman**  
-TV-MA 🔒 22:38  
-⌛ August 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-story-of-lando-freeman  
-seriesid=`610028` titleid=`798560` id=`Ak6cdNvWSx2EBxm6H7m1hQ` mediaid=`f3abd5cafe00106c106d305279fcb40ccab59d7c`  
-_There's a new handyman in the neighborhood undercutting Uncle Ruckus... which is all good for Granddad and his garden until the man claims to be his long lost son, Lando. Will Granddad take responsibility and be a father to his child? Not without a talk show paternity test..._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136502-boondocks_312.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136502-boondocks_312.jpg" height="144px" /></a>
-### 2171692
-**Tigtone S01E10 - Tigtone vs. Nothing**  
-TV-14-V 🔓 11:17  
+https://www.adultswim.com/videos/futurama/stench-and-stenchibility  
+seriesid=`437532` titleid=`2161670` id=`AYK3U7LgIAxeiVkFtLRc` mediaid=`8f4a898c635850c839ffa2c2ee19ce68a3e0c338`  
+_Dr. Zoidberg meets the love of his life while Bender squares off in a deadly tap dancing competition._  
+<a href="https://media.cdn.adultswim.com/uploads/20220820/thumbnails/2_22820120131-aslogothumbnail.png"><img src="https://media.cdn.adultswim.com/uploads/20220820/thumbnails/2_22820120131-aslogothumbnail.png" height="144px" /></a>
+### 2224733
+**Lazor Wulf S02E02 - If That Was Tomorrow. This Is Today.**  
+TV-14-L 🔓 11:09  
 ⌛ September 25, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tigtone/tigtone-vs-nothing  
-seriesid=`2162827` titleid=`2171692` id=`AWfNQFL4zQU7gEG1jvYx` mediaid=`d8e958fadc07c00a6a6dde5b41e56174c4b6e296`  
-_All the quests in the realm suddenly vanish so Tigtone must fight nothing, itself._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15494661879979.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15494661879979.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/lazor-wulf/if-that-was-tomorrow-this-is-today  
+seriesid=`2178188` titleid=`2224733` id=`AXX66MmlLyLQBOXK_Prg` mediaid=`cc2a2a92db92b3badb479bed5fc33aa76ef48ab9`  
+_If That Was Tomorrow. This Is Today._  
+<a href="https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg" height="144px" /></a>
+### 2196574
+**Momma Named Me Sheriff S01E08 - Chili Snakes**  
+TV-MA 🔓 10:56  
+⌛ September 25, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/momma-named-me-sheriff/chili-snakes  
+seriesid=`2196566` titleid=`2196574` id=`AW5qsjBR1YiBSfg0KYfN` mediaid=`e5d405a0f967c69d4940ca10d9ee1245cc53037d`  
+_Previously, on Momma Named Me Sheriff..._  
+<a href="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg" height="144px" /></a>
+### 2012281
+**The Eric Andre Show S02E03 - Lou Ferrigno / Downtown Julie Brown**  
+TV-14-DLV 🔓 11:00  
+⌛ September 25, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/lou-ferrigno-downtown-julie-brown  
+seriesid=`895948` titleid=`2012281` id=`qdA25vDeSo2-fMorkuKzlg` mediaid=`b8a7d1ea3dea532557f1fc67b43c1ccfa3ecf4f4`  
+_Interviews with Lou Ferrigno and Downtown Julie Brown._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161238-ericandre_013_dup_20131010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161238-ericandre_013_dup_20131010.jpg" height="144px" /></a>
+### 2264533
+**The Promised Neverland S02E02 - Episode 2**  
+TV-14-DLV 🔓 21:14  
+⌛ September 4, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-promised-neverland/episode-2  
+seriesid=`2194658` titleid=`2264533` id=`AXiI43q4BH5Z6gH5aWHX` mediaid=`78100bab549e2e652a5d378f9bf5a6e44b6c2ae3`  
+_The children's saviors turn out to be demons named Mujika and Sonju. The pair claims that their religion forbids them from eating humans. Emma and Ray visit Sonju, intending to ask about what happened to humans thirty years ago._  
+<a href="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_21331112567-PromisedNeverland2_002_Episode2.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_21331112567-PromisedNeverland2_002_Episode2.jpg" height="144px" /></a>
+### 2388618
+**Tuca & Bertie S03E08 - Fledging Day**  
+TV-MA-L 🔒 23:01  
+⌛ September 11, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tuca-bertie/fledging-day  
+seriesid=`2266164` titleid=`2388618` id=`AYKyaUABIAxeiVkFtLRb` mediaid=`990ce85d0141430a261f85b24d4845778c96bc9a`  
+_Bertie might have some mommy issues! Tuca coaches Speckle through a tough transitional life stage._  
+<a href="https://media.cdn.adultswim.com/uploads/20220820/thumbnails/2_228201125324-aslogothumbnail.png"><img src="https://media.cdn.adultswim.com/uploads/20220820/thumbnails/2_228201125324-aslogothumbnail.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2162827 Tigtone: 1  
-581006 American Dad: 7  
-610028 The Boondocks: 7  
-### 2162828
-**Tigtone S01E?? - Tigtone and the Pilot**  
-TV-14-LV 🔒 11:28  
+2003422 Bob's Burgers: 4  
+2178188 Lazor Wulf: 1  
+2194658 The Promised Neverland: 1  
+2196566 Momma Named Me Sheriff: 1  
+437532 Futurama: 2  
+608007 One Piece: 2  
+895948 The Eric Andre Show: 1  
+### 2003443
+**Bob's Burgers S02E08 - Bad Tina**  
+TV-14 🔓 21:29  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tigtone/tigtone-and-the-pilot  
-seriesid=`2162827` titleid=`2162828` id=`AWeomUxNAsbXwNj3wAga` mediaid=`c7e96ac5a250eef467f2b1d50faa1920beb3f060`  
-_Tigtone is the saga of a quest-addicted hero who slashes his way across a satirical fantasy universe with melodramatic ferocity, always obeying the letter of the law but never its spirit._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211794326-specials_tigtone_100_dup-20180423.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211794326-specials_tigtone_100_dup-20180423.jpg" height="144px" /></a>
-### 2041475
-**American Dad S11E02 - The Life Aquatic with Steve Smith**  
-TV-14-DLS 🔓 21:13  
+https://www.adultswim.com/videos/bobs-burgers/bad-tina  
+seriesid=`2003422` titleid=`2003443` id=`-c404yM4SMCfjTvgiE3KHw` mediaid=`99e3c5b27a452c81dfa68c7eb7df9f26e6e535ad`  
+_Tina starts hanging out with bad girl Tammy in an effort to get closer to Jimmy Junior._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216329440819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216329440819.jpg" height="144px" /></a>
+### 2132980
+**Bob's Burgers S07E07 - A Few 'gurt Men**  
+TV-PG-L 🔒 21:46  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-life-aquatic-with-steve-smith  
-seriesid=`581006` titleid=`2041475` id=`6m-aKqOzTuiKpe2ndROi_A` mediaid=`fa3d734eb2c5fa3d94b53c53e75274c723ac5905`  
-_Steve joins the high school water polo team in order to get girls. Meanwhile, Roger and Stan get a boat._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg" height="144px" /></a>
-### 2069574
-**American Dad S13E21 - Fleabiscuit**  
-TV-14-DLSV 🔒 21:02  
+https://www.adultswim.com/videos/bobs-burgers/a-few-gurt-men  
+seriesid=`2003422` titleid=`2132980` id=`AV-SbT3jwdpKFAKSbO13` mediaid=`b2dfa4421e179af0084b877402f89f97c9006b0d`  
+_Louise is put in a sticky situation when she must defend one of her biggest foes at Wagstaff during a mock trial. Meanwhile, after they're both taken in by a food scammer, Bob teams up with Jimmy Pesto to exact their revenge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg" height="144px" /></a>
+### 2003512
+**Bob's Burgers S03E01 - Ear-sy Rider**  
+TV-14 🔓 21:30  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fleabiscuit  
-seriesid=`581006` titleid=`2069574` id=`AWW1ThNNh5enQuYyIFlW` mediaid=`da0debc4296f7b27876622978a9fa80b395c0283`  
-_Hayley feels left behind after Jeff becomes a star dog racing coach. Steve takes advantage of an empty house._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg" height="144px" /></a>
-### 2069575
-**American Dad S13E22 - The Future Is Borax**  
-TV-14-DLSV 🔒 21:03  
+https://www.adultswim.com/videos/bobs-burgers/ear-sy-rider  
+seriesid=`2003422` titleid=`2003512` id=`WQLkpD32SgOYEJ164dTdtQ` mediaid=`d9e7f05f7437f4a44494080bb3fd91b2633c9909`  
+_A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader "Horny Dave." Meanwhile, Louise has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg" height="144px" /></a>
+### 2003444
+**Bob's Burgers S02E09 - Beefsquatch**  
+TV-14 🔓 21:32  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-future-is-borax  
-seriesid=`581006` titleid=`2069575` id=`AWqX3a3lCorLtcgflqRB` mediaid=`d200111469c32e4a3aaca740b27819c842baadbf`  
-_While trying to rekindle their marriage, Stan and Francine get trapped on a hot air balloon. The rest of the family wins a jingle writing contest._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg" height="144px" /></a>
-### 2019430
-**American Dad S10E15 - Seizures Suit Stanny**  
-TV-14 🔓 20:57  
+https://www.adultswim.com/videos/bobs-burgers/beefsquatch  
+seriesid=`2003422` titleid=`2003444` id=`lnvX70L6QRqXFM7gA-gnyg` mediaid=`d834c8e03f201daba9dac1c65ec593aa2ba1baac`  
+_Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg" height="144px" /></a>
+### 2178190
+**Lazor Wulf S01E02 - That Was Today. This Is Tomorrow.**  
+TV-14-LV 🔒 11:21  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/seizures-suit-stanny  
-seriesid=`581006` titleid=`2019430` id=`JG2h5XE-Sc-97MLP6lOnuQ` mediaid=`7e2d7f72cd808f507a148c6925d03b66d4f476ad`  
-_When Stan lies about his texting and driving accident, he takes a seizure medication and suffers from the side effects. Meanwhile, Roger helps Steve with his performance anxiety._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg" height="144px" /></a>
-### 2019428
-**American Dad S10E13 - Holy S***, Jeff's Back!**  
-TV-14 🔓 21:01  
+https://www.adultswim.com/videos/lazor-wulf/that-was-today-this-is-tomorrow  
+seriesid=`2178188` titleid=`2178190` id=`AWnMogXrHl5gR6828zAn` mediaid=`ef9074ee57cc14920f69e43dbfeca558a35dbf18`  
+_That was today. This is tomorrow._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430974878612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155430974878612.jpg" height="144px" /></a>
+### 2194664
+**The Promised Neverland S01E06 - 311045**  
+TV-14-V 🔒 21:32  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/holy-s-jeffs-back  
-seriesid=`581006` titleid=`2019428` id=`Nwyom9wYR4Cz61ncf5Pzzg` mediaid=`26bc0fdcbd897019abb19c71894cd85eedc5eacc`  
-_Jeff returns from space...Or does he? Meanwhile, Steve watches after Snot's hamster._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036536643517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036536643517.jpg" height="144px" /></a>
-### 2041474
-**American Dad S11E01 - Roots**  
-TV-14-DLV 🔓 21:13  
+https://www.adultswim.com/videos/the-promised-neverland/311045  
+seriesid=`2194658` titleid=`2194664` id=`AWqxIOnv4aLemgzOLEfE` mediaid=`99eb72f0c69cd0323c7b567177591dc1f273bb27`  
+_Discussions for the escape plan continue, and Emma introduces Ray and Norman to someone. Meanwhile, Don and Gilda take a dangerous risk._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15581125011405.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15581125011405.jpg" height="144px" /></a>
+### 2247957
+**Momma Named Me Sheriff S02E07 - Election**  
+TV-MA-S 🔒 11:16  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/roots  
-seriesid=`581006` titleid=`2041474` id=`TYWscrkVRdCNVviIdM1W0Q` mediaid=`566083395eaa38012ee31da187d895b1f2fcd330`  
-_Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg" height="144px" /></a>
-### 2019429
-**American Dad S10E14 - American Fung**  
-TV-14 🔓 21:02  
+https://www.adultswim.com/videos/momma-named-me-sheriff/election  
+seriesid=`2196566` titleid=`2247957` id=`AXewRoxkbxpjZvbXYmTh` mediaid=`d9babfd82dc625cc1d9dc113ff11df091ad4914b`  
+_Goodman must leave the country and jump through a series of ridiculous hoops in order to cancel a simple membership subscription._  
+<a href="https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg" height="144px" /></a>
+### 2161668
+**Futurama S10E10 - Game of Tones**  
+TV-14-DL 🔒 22:32  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/american-fung  
-seriesid=`581006` titleid=`2019429` id=`YQYQ_TX8SQ-kR46SyT5g7g` mediaid=`6bea1f6d7715e808a5ac9a3f15153237a16dd912`  
-_American Dad is sold to a Chinese businessman. Meanwhile, Stan has Francine committed to an insane asylum when he forgets their anniversary._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654389833.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654389833.jpg" height="144px" /></a>
-### 798554
-**The Boondocks S03E03 - The Red Ball**  
-TV-MA 🔒 22:39  
+https://www.adultswim.com/videos/futurama/game-of-tones  
+seriesid=`437532` titleid=`2161668` id=`AYKDvCruIAxeiVkFtLRU` mediaid=`71c744ca62019ecfcbfbeabc63ac42385a7ccf21`  
+_The crew journeys into Fry's dreams to seek the meaning of a mysterious alien melody._  
+<a href="https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891351538-Futurama_1010_GameOfTomes.png"><img src="https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891351538-Futurama_1010_GameOfTomes.png" height="144px" /></a>
+### 2161669
+**Futurama S10E11 - Murder on the Planet Express**  
+TV-14-DLV 🔒 22:38  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-red-ball  
-seriesid=`610028` titleid=`798554` id=`-6LBXwNLS2-gfU5L_r4LmQ` mediaid=`0fe65144d007a2ae880586b1ff0cae018835420d`  
-_When the Chinese call in some old debts, Ed Wuncler is forced to gamble all of Woodcrest's economic fortunes on a kickball game with its sister city, Wushung, China. Kickball legend Huey Freeman is to come out of self-imposed exile from the game to do battle with the red ball one last time. It's a kickball game to end all kickball games._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321134570-boondocks_306.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321134570-boondocks_306.jpg" height="144px" /></a>
-### 683091
-**The Boondocks S02E09 - The Invasion of the Katrinas**  
-TV-MA 🔓 21:28  
+https://www.adultswim.com/videos/futurama/murder-on-the-planet-express  
+seriesid=`437532` titleid=`2161669` id=`AYKDvV7YIAxeiVkFtLRV` mediaid=`d603d185ef46dc938a16d669ee49fd9342efd3af`  
+_The crew becomes trapped aboard ship with a horrific alien creature._  
+<a href="https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891353139-Futurama_1011_MurderOnThePlanetExpress.png"><img src="https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891353139-Futurama_1011_MurderOnThePlanetExpress.png" height="144px" /></a>
+### 2363826
+**One Piece S15E41 - The Noah Closing in! The Fish-Man Island Facing Destruction!**  
+TV-PG-L 🔒 22:12  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-invasion-of-the-katrinas  
-seriesid=`610028` titleid=`683091` id=`36vwFiAgRZC1DYfBeCTw2A` mediaid=`54625c3934219866f68b5d3f8242d4ce1e294bb2`  
-_When family displaced by hurricane Katrina show up looking for a place to stay, Granddad does what anyone would do - try to find a way to get rid of them as quickly as possible._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321131243-boondocks_212.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321131243-boondocks_212.jpg" height="144px" /></a>
-### 682884
-**The Boondocks S02E08 - Ballin'**  
-TV-MA 🔓 20:28  
+https://www.adultswim.com/videos/one-piece/the-noah-closing-in-the-fish-man-island-facing-destruction  
+seriesid=`608007` titleid=`2363826` id=`AYE6inw0_0O4w1rD3SWJ` mediaid=`3e50cf5739ba48df8e1bb379cd1406973db01ff1`  
+_Luffy shows off even more new powers as he brutally pummels Hordy, but the main attraction proves to be an ancient and immense pirate ship that's heading straight for Fish-Man Island!_  
+<a href="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691643110-OnePiece_558_TheNoahClosingInTheFishManIslandDestruction.jpg"><img src="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691643110-OnePiece_558_TheNoahClosingInTheFishManIslandDestruction.jpg" height="144px" /></a>
+### 2363825
+**One Piece S15E40 - Iron Pirate! Here Comes General Franky!**  
+TV-PG 🔒 22:12  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/ballin  
-seriesid=`610028` titleid=`682884` id=`Ckgo4etQTqeRYBUhPu0iaA` mediaid=`924baec944b0ef8f22bdcbb26d597594e9093a6e`  
-_Riley joins Tom's little league basketball team and learns there's more to the game than flashy moves... there's crushing, humiliating defeat._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113141-boondocks_209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113141-boondocks_209.jpg" height="144px" /></a>
-### 683094
-**The Boondocks S02E10 - Home Alone**  
-TV-MA 🔓 20:26  
+https://www.adultswim.com/videos/one-piece/iron-pirate-here-comes-general-franky  
+seriesid=`608007` titleid=`2363825` id=`AYE6ioFS_0O4w1rD3SWK` mediaid=`8eb79b2fa6d0bb6e7b51215a3545aabe56024d6d`  
+_Franky dazzles Usopp and Chopper by transforming into a gigantic fighting robot, Hordy tries to blackmail the Kraken, and Luffy introduces his fist to the Fish-man's face!_  
+<a href="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691642282-OnePiece_557_IronPirateHereComesGeneralFranky.jpg"><img src="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691642282-OnePiece_557_IronPirateHereComesGeneralFranky.jpg" height="144px" /></a>
+### 895951
+**The Eric Andre Show S01E03 - Tatyana Ali**  
+TV-14-DLSV 🔒 11:02  
 ⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/home-alone  
-seriesid=`610028` titleid=`683094` id=`D76q1kxySgGCKvAfZg2j1A` mediaid=`4e9bbd32f2f90a335d13414af421a665844f1406`  
-_When Granddad takes a much needed vacation from the boys, Huey takes control of the house but has to contend with a vicious insurgency from Riley._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321131469-boondocks_214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321131469-boondocks_214.jpg" height="144px" /></a>
-### 798556
-**The Boondocks S03E04 - Stinkmeaner 3: The Hateocracy**  
-TV-MA-V 🔒 21:15  
-⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/stinkmeaner-3-the-hateocracy  
-seriesid=`610028` titleid=`798556` id=`JdmLFiJ9RziR3ynIw_JWbw` mediaid=`03898c609f3bd4607553a7b0135fc2fe5b5ecefa`  
-_Colonel H. Stinkmeaner had no family and no friends... but he did have a mean crew. Three of Stinkmeaner's old crew arrive in town to exact payback on the Freeman family. Is revenge a dish best served old?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135168-boondocks_307.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135168-boondocks_307.jpg" height="144px" /></a>
-### 682883
-**The Boondocks S02E07 - Shinin'**  
-TV-MA 🔓 21:14  
-⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/shinin  
-seriesid=`610028` titleid=`682883` id=`L0ruWjkoQte_jpeN1v3sSw` mediaid=`bbfc74f90af8e55195fa97876dc1bf6ea79a83d6`  
-_Riley finally gets what he's always wanted - a platinum and diamond chain - only to have it snatched by the local bully. Afraid of disappointing his new crew, Riley will stop a nothing to recover his chain and rep._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321130467-boondocks_208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321130467-boondocks_208.jpg" height="144px" /></a>
-### 683093
-**The Boondocks S02E11 - The S-Word**  
-TV-MA 🔓 22:14  
-⌛ August 21, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-s-word  
-seriesid=`610028` titleid=`683093` id=`if9tjmHETlmkYPFb-X1Jmg` mediaid=`a0faa0f97e0bca2cb772a594855c863d7a6bf519`  
-_Granddad and the good Rev. Rolo Goodlove try to cash in big after a teacher calls Riley 'the n-word' in school._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113299-boondocks_213.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113299-boondocks_213.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-eric-andre-show/tatyana-ali  
+seriesid=`895948` titleid=`895951` id=`6wiJ5yM4SxyvOYAonm7uWg` mediaid=`a45428eede40c85f2b5825296103e9204cb89797`  
+_Eric interviews Tatyana Ali and Arnold Schwarzenegger._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034168168-ericandre_103_dup-20120601.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034168168-ericandre_103_dup-20120601.jpg" height="144px" /></a>
