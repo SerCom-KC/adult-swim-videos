@@ -1,7 +1,6 @@
 {
-    "updated": 1661356584,
-    "added": [],
-    "removed": [
+    "updated": 1661364379,
+    "added": [
         {
             "auth_expiration_date": 1661399940,
             "tms_id": "EP029506900032",
@@ -34,7 +33,7 @@
             "clip_order": null,
             "airing_id": "RADS1007282200016701",
             "media_id": "a4e795cb6673452635adef6ee8d8fdfb3cb47f41",
-            "modified": 1659053936,
+            "modified": 1661364030,
             "slug": "joe-pera-takes-you-for-a-flight",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_211119114330-JoePeraTalksWithYou_306_JoePeraTakesYouForAFlight.png",
@@ -42,7 +41,7 @@
             "season_number": "3",
             "title_id": "2298522",
             "tv_rating": "tv-14-l",
-            "published": 1659053936,
+            "published": 1661364030,
             "tags": [],
             "collection_title": "Joe Pera Talks With You",
             "disable_ads": false,
@@ -55,5 +54,6 @@
             "collection_title_id": "2161118",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
