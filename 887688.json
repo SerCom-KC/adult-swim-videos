@@ -421,6 +421,61 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1446846720,
+        "auth_expiration_date": 1652846340,
+        "tms_id": "EP015399680005",
+        "rating": 7.52243,
+        "description": "It's not easy for Sagan being 16 & Pregnant; Tyler learns an important lesson about sexual harassment; 80s video dating makes a comeback.",
+        "title_suggest": {
+            "input": [
+                "Episode 5",
+                "5"
+            ]
+        },
+        "type": "episode",
+        "title": "Episode 5",
+        "expiration_date": 1664337540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
+        "duration": 671.6255213,
+        "episode_number": "5",
+        "original_air_date": 1335756600,
+        "clip_order": null,
+        "auth_launch_date": 1649822400,
+        "modified": 1660942724,
+        "media_id": "15bfbd1933776a08a4eb9761e52f1eb079625452",
+        "airing_id": "RADS1008192200022254",
+        "id": "qORayjWkSOOT6Nnw1r-cHQ",
+        "slug": "episode-5",
+        "views": 516847,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361017590-loitersquad_105_dup-20120423.jpg",
+        "created": 1402945468,
+        "title_id": "887693",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1660942724,
+        "tags": [
+            "Loiter Squad",
+            "Adult Swim"
+        ],
+        "rating_count": 4659,
+        "collection_title": "Loiter Squad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661313600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361017590-loitersquad_105_dup-20120423.jpg",
+        "cma_id": "887693"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1446847200,
         "auth_expiration_date": 1663214340,
         "tms_id": "EP015399680025",
@@ -471,57 +526,5 @@
         "launch_date": 1658289600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361025346-loitersquad_024_dup-20140605.jpg",
         "cma_id": "1431606"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446847020,
-        "auth_expiration_date": 1661313540,
-        "tms_id": "EP015399680020",
-        "rating": 8.025652,
-        "description": "The cast attempts an intervention; Jasper and Tyler face moral dilemmas. Taco changes the game.",
-        "title_suggest": {
-            "input": [
-                "Jungle Fever",
-                "Fever"
-            ]
-        },
-        "type": "episode",
-        "title": "Jungle Fever",
-        "expiration_date": 1658289540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
-        "duration": 661.5421184,
-        "episode_number": "9",
-        "original_air_date": 1367812800,
-        "clip_order": null,
-        "auth_launch_date": 1658289600,
-        "modified": 1657934106,
-        "media_id": "a4ee2ee79f6f7423ef550328d27220b0736b6396",
-        "airing_id": "RADS1006092200005396",
-        "id": "xvO2Xnj_TLGCUlov5WP4iw",
-        "slug": "jungle-fever",
-        "views": 119168,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361023275-loitersquad_209_dup-20130329.jpg",
-        "created": 1402945468,
-        "title_id": "2000767",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1657934106,
-        "tags": [],
-        "rating_count": 741,
-        "collection_title": "Loiter Squad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655265600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361023275-loitersquad_209_dup-20130329.jpg",
-        "cma_id": "1410594"
     }
 ]
