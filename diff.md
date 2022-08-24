@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 24, 2022 at 12:00:27 EDT_
+_Last Update: August 24, 2022 at 14:30:26 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2161118 Joe Pera Talks With You: 1  
 ### 2298522
@@ -16,3 +14,5 @@ https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-takes-you-for-
 seriesid=`2161118` titleid=`2298522` id=`AX05FLdv4Xbjep71f6Hj` mediaid=`a4e795cb6673452635adef6ee8d8fdfb3cb47f41`  
 _If you have ever wondered what Marquette, Michigan looks like from above, strap in because Joe Pera is taking you up in the sky._  
 <a href="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114330-JoePeraTalksWithYou_306_JoePeraTakesYouForAFlight.png"><img src="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114330-JoePeraTalksWithYou_306_JoePeraTakesYouForAFlight.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
