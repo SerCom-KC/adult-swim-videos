@@ -1,51 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1661399940,
-        "tms_id": "EP012792980125",
-        "description": "When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills.",
-        "title_suggest": {
-            "input": [
-                "Aquaticism"
-            ]
-        },
-        "title": "Aquaticism",
-        "type": "episode",
-        "expiration_date": 1651463940,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1303.33,
-        "episode_number": "10",
-        "original_air_date": 1512957600,
-        "auth_launch_date": 1660795200,
-        "clip_order": null,
-        "media_id": "33623b218d1d94f92c3923ba791e665628d3526b",
-        "modified": 1660520860,
-        "airing_id": "RADS1008142200021160",
-        "id": "AWATwpnwZ-onAnjDLtUU",
-        "slug": "aquaticism",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151579440273610.jpg",
-        "created": 1512160008,
-        "title_id": "2132979",
-        "tv_rating": "tv-pg-l",
-        "season_number": "7",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1660520860,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1650859200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1661486340,
@@ -480,6 +434,56 @@
         "modified_by": "ODT Listener",
         "launch_date": 1652673600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325465279617.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1662004740,
+        "tms_id": "",
+        "description": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "title_suggest": {
+            "input": [
+                "The Silence Of The Louise",
+                "Silence Of The Louise",
+                "Of The Louise",
+                "The Louise",
+                "Louise"
+            ]
+        },
+        "title": "The Silence Of The Louise",
+        "expiration_date": 1653278340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1302.17,
+        "episode_number": "2",
+        "original_air_date": 1541989800,
+        "auth_launch_date": 1661400000,
+        "clip_order": null,
+        "media_id": "3f2f2886019b28d32f19c7966c08e1da5b55f8c6",
+        "modified": 1660979812,
+        "airing_id": "RADS1008192200022296",
+        "slug": "the-silence-of-the-louise",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154204254483011.jpg",
+        "created": 1538764622,
+        "season_number": "8",
+        "title_id": "2171433",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1660979812,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1652673600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154204254483011.jpg",
+        "id": "AWZFhMyKh5enQuYyJBbs",
+        "auth": true
     },
     {
         "auth": false,
