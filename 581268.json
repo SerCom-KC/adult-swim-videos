@@ -4310,6 +4310,60 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447444020,
+        "auth_expiration_date": 1661572799,
+        "tms_id": "EP007008180046",
+        "rating": 8.4660225,
+        "description": "Early learns to deal with rage by punching it in the face.",
+        "title_suggest": {
+            "input": [
+                "Atone Deaf",
+                "Deaf"
+            ]
+        },
+        "type": "episode",
+        "title": "Atone Deaf",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 674.4004004,
+        "episode_number": "7",
+        "original_air_date": 1246248000,
+        "clip_order": null,
+        "auth_launch_date": 1653192000,
+        "modified": 1661534092,
+        "media_id": "918bc240fade59c03885f9e0448a8d3a0ae5f622",
+        "airing_id": "RADS1005202200000436",
+        "id": "WkSdupxCRh28JLhNG9Lppg",
+        "slug": "atone-deaf",
+        "views": 404272,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131220271-squidbillies_046_bim.jpg",
+        "created": 1402945476,
+        "title_id": "758316",
+        "season_number": "4",
+        "tv_rating": "tv-14-sv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1661534092,
+        "tags": [
+            "squidbillies squids atone deaf episode 46"
+        ],
+        "rating_count": 1251,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131220271-squidbillies_046_bim.jpg",
+        "cma_id": "1294181"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447445520,
         "auth_expiration_date": 1662177599,
         "tms_id": "EP007008180066",
