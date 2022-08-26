@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1661486340,
-        "tms_id": "EP003034830106",
-        "description": "In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa.",
-        "title_suggest": {
-            "input": [
-                "Holiday Spectacular",
-                "Spectacular"
-            ]
-        },
-        "title": "Holiday Spectacular",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1358.6239,
-        "episode_number": "13",
-        "original_air_date": 1649638800,
-        "auth_launch_date": 1660881600,
-        "clip_order": null,
-        "airing_id": "RADS1008142200021271",
-        "media_id": "dbd0e275cadbd0e5d92475f38b7f475137b46359",
-        "modified": 1660525049,
-        "slug": "holiday-spectacular",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
-        "created": 1649426535,
-        "title_id": "2161632",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlv",
-        "published": 1660525049,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
-        "id": "AYAJe5Lg208s7zyYUMiQ",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1661572740,
         "tms_id": "EP003034830107",
         "description": "The crew members encounter a bizarre alien with the power to change their sexual characteristics.",
@@ -130,6 +85,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/2_22418106491-Benderama.png",
         "id": "AYAqvgpD208s7zyYUMli",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662091140,
+        "tms_id": "EP003034830109",
+        "description": "When Bender dies, his disembodied software begins haunting the Planet Express building.",
+        "title_suggest": {
+            "input": [
+                "Ghost in the Machines",
+                "in the Machines",
+                "the Machines",
+                "Machines"
+            ]
+        },
+        "title": "Ghost in the Machines",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1360.359,
+        "episode_number": "3",
+        "original_air_date": 1650245400,
+        "auth_launch_date": 1661486400,
+        "clip_order": null,
+        "airing_id": "RADS1008222200022392",
+        "media_id": "3d9f95f5f5d998b387c5615dba6a72d525819523",
+        "modified": 1661191257,
+        "slug": "ghost-in-the-machines",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/1_22418101258-GitM.png",
+        "created": 1649984539,
+        "title_id": "2161638",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "published": 1661191257,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/2_22418101258-GitM.png",
+        "id": "AYAqvgvA208s7zyYUMlj",
         "auth": true
     },
     {

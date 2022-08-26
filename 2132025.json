@@ -1,53 +1,5 @@
 [
     {
-        "auth": false,
-        "ott_launch_date": 1511796660,
-        "auth_expiration_date": 1661486340,
-        "tms_id": "EP027912080006",
-        "description": "Barry reluctantly attends his high school reunion.",
-        "title_suggest": {
-            "input": [
-                "Barry's School Reunion",
-                "School Reunion",
-                "Reunion"
-            ]
-        },
-        "title": "Barry's School Reunion",
-        "type": "episode",
-        "expiration_date": 1658462340,
-        "platforms": [
-            "ott"
-        ],
-        "collection_id": "tUqBgb3CTl-TIEf_JrXyeQ",
-        "duration": 676,
-        "episode_number": "6",
-        "original_air_date": 1511759700,
-        "clip_order": null,
-        "auth_launch_date": 1658462400,
-        "modified": 1658132607,
-        "media_id": "ff77c07f975a79b08e438fa298d7122a99156126",
-        "airing_id": "RADS1007182200014602",
-        "id": "19hJoKx2RkaPrA0O1rxDug",
-        "slug": "barrys-school-reunion",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151180498988714.jpg",
-        "created": 1508442470,
-        "season_number": "1",
-        "title_id": "2132031",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1658132607,
-        "tags": [],
-        "collection_title": "The Jellies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655438400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151180498988714.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1513611060,
         "auth_expiration_date": 1663300740,
@@ -386,7 +338,7 @@
         "launch_date": 1658462400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580246369072.jpg",
         "id": "AWmWYH87Hl5gR6828y3a",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
