@@ -1261,7 +1261,7 @@
         "launch_date": 1661486400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124058-Primal_014_TheRedMist.png",
         "id": "AYJfbkyf3sQvipyea9rt",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1662091140,
@@ -1395,6 +1395,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220817/thumbnails/2_228171552568-Primal_016_Vidar.png",
         "id": "AYKd1GmBIAxeiVkFtLRY",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1663300740,
+        "tms_id": "EP033124370018",
+        "description": "Spear, Fang, and Mira's journey home is threatened after encountering a mysterious threat at sea.",
+        "title_suggest": {
+            "input": [
+                "The Colossaeus",
+                "Colossaeus"
+            ]
+        },
+        "title": "The Colossaeus",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1343.9426,
+        "episode_number": "7",
+        "original_air_date": 1661486400,
+        "auth_launch_date": 1661486400,
+        "clip_order": null,
+        "airing_id": "RADS1008222200022428",
+        "media_id": "5eddf6ab7bfcf2b3873cce8f5501bb721913b74f",
+        "modified": 1661197711,
+        "slug": "the-colossaeus",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/1_22822154850-Primal_017_Colossaeus.png",
+        "created": 1661133312,
+        "title_id": "2276163",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "published": 1661197711,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_22822154850-Primal_017_Colossaeus.png",
+        "id": "AYLDQtPGIAxeiVkFtLRd",
         "auth": true
     }
 ]
