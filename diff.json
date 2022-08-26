@@ -1,45 +1,47 @@
 {
-    "updated": 1661526030,
-    "added": [],
-    "removed": [
+    "updated": 1661527827,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
-            "description": "The Vindicators are back. Except it\u2019s the past and they\u2019re all still alive. Prequel, baby!",
+            "description": "Episode 1. The Vindicators are back. Except it\u2019s the past and they\u2019re all still alive. Prequel, baby!",
             "title_suggest": {
                 "input": [
+                    "Vindcators 2: Rick Can Handle It",
+                    "2: Rick Can Handle It",
                     "Rick Can Handle It",
                     "Can Handle It",
                     "Handle It",
                     "It"
                 ]
             },
-            "title": "Rick Can Handle It",
+            "title": "Vindcators 2: Rick Can Handle It",
             "expiration_date": null,
-            "type": "episode",
+            "type": "clip",
             "platforms": [
                 "android",
+                "fire-tv",
                 "ios",
-                "roku",
-                "fire-tv"
+                "online-exclusive",
+                "roku"
             ],
             "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
             "duration": 0,
-            "episode_number": "1",
+            "episode_number": "",
             "original_air_date": 1658595600,
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "",
             "media_id": "me0fd723f6f82d58bf5f7b092d38c05082cbf72d0c",
-            "modified": 1660156041,
-            "slug": "rick-can-handle-it",
+            "modified": 1661525971,
+            "slug": "vindcators-2-rick-can-handle-it",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220721/thumbnails/1_227211031395-RAM_The_Vindicators2_101.png",
             "created": 1658080319,
-            "season_number": "98",
-            "title_id": "",
+            "season_number": "",
+            "title_id": "2399280",
             "tv_rating": "",
-            "published": 1660156041,
+            "published": 1661525971,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
@@ -50,7 +52,8 @@
             "auth": false,
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
-            "online_exclusives": false
+            "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
