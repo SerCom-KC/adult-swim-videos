@@ -3654,6 +3654,63 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447444080,
+        "auth_expiration_date": 1661572799,
+        "tms_id": "EP007008180051",
+        "rating": 8.03934,
+        "description": "When the media sensationalizes his son's disappearance, Early finds the coverage to be sensational.",
+        "title_suggest": {
+            "input": [
+                "Not Without My Cash Cow!",
+                "Without My Cash Cow!",
+                "My Cash Cow!",
+                "Cash Cow!",
+                "Cow!"
+            ]
+        },
+        "type": "episode",
+        "title": "Not Without My Cash Cow!",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 686.5005005,
+        "episode_number": "10",
+        "original_air_date": 1248063300,
+        "clip_order": null,
+        "auth_launch_date": 1653192000,
+        "modified": 1661533774,
+        "media_id": "a3257b248b8201184d175dac7df40100a2b38539",
+        "airing_id": "RADS1005202200000433",
+        "id": "QW3ug_u6Q3eMk61EKNNKOQ",
+        "slug": "not-without-my-cash-cow",
+        "views": 377012,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131221598-squidbillies_050_bim.jpg",
+        "created": 1402945476,
+        "title_id": "758320",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1661533774,
+        "tags": [
+            "squidbillies not without my cash cow episode 50"
+        ],
+        "rating_count": 1271,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221598-squidbillies_050_bim.jpg",
+        "cma_id": "1309154"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447442880,
         "auth_expiration_date": 1662782399,
         "tms_id": "EP007008180014",
@@ -6536,6 +6593,59 @@
         "launch_date": 1624939200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/tween-steam/squids_ep023_004.jpg",
         "cma_id": "1405830"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447443960,
+        "auth_expiration_date": 1661572799,
+        "tms_id": "EP007008180042",
+        "rating": 7.1314383,
+        "description": "An accident leads to rage leads to friendship leads to love leads to murder leads to political success.",
+        "title_suggest": {
+            "input": [
+                "Lerm"
+            ]
+        },
+        "type": "episode",
+        "title": "Lerm",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 669.5672339,
+        "episode_number": "1",
+        "original_air_date": 1242619200,
+        "clip_order": null,
+        "auth_launch_date": 1653192000,
+        "modified": 1661533775,
+        "media_id": "a8f0bc30131a83c598b7f2029ddd7b2e6285fc95",
+        "airing_id": "RADS1005202200000420",
+        "id": "txTQsGAWQreprM6BRaXiqA",
+        "slug": "lerm",
+        "views": 834519,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_20413121865-squidbillies_044_bim.jpg",
+        "created": 1402945476,
+        "title_id": "758314",
+        "season_number": "4",
+        "tv_rating": "tv-14-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1661533775,
+        "tags": [
+            "squidbillies episode 44 lerm season premiere alien early friends"
+        ],
+        "rating_count": 3340,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413121865-squidbillies_044_bim.jpg",
+        "cma_id": "758314"
     },
     {
         "auth": true,
