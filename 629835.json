@@ -212,50 +212,54 @@
         "cma_id": "1451895"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1661486340,
-        "tms_id": "EP002070020074",
-        "description": "Peggy authors one of Bobby's English papers, only to have a rival substitute teacher uncover the deception; Bill displays an enormous American flag on his property.",
+        "auth_expiration_date": 1662091140,
+        "tms_id": "EP002070020079",
+        "rating": 8.109127,
+        "description": "Fed up with Hank's rules, Luanne moves out of the Hill house and takes up residence with three roommates... only to find herself sounding more and more like Hank.",
         "title_suggest": {
             "input": [
-                "Old Glory",
-                "Glory"
+                "Movin' On Up",
+                "On Up",
+                "Up"
             ]
         },
-        "title": "Old Glory",
         "type": "episode",
-        "expiration_date": 1503286199,
+        "title": "Movin' On Up",
+        "expiration_date": 1503631799,
         "platforms": [
-            "web",
-            "mobile"
+            "web"
         ],
         "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1398.03,
-        "episode_number": "11",
-        "original_air_date": 1240626600,
-        "auth_launch_date": 1660881600,
+        "duration": 1402.3343,
+        "episode_number": "16",
+        "original_air_date": 1240970400,
+        "auth_launch_date": 1661486400,
         "clip_order": null,
-        "modified": 1660525634,
-        "media_id": "87d82fb5b4d58e972c799876d000c540c7f5f547",
-        "airing_id": "RADS1008142200021278",
-        "id": "vEmIdASASeeGQEjwIZOK7A",
-        "slug": "old-glory",
-        "views": 4347,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803317455013.jpg",
-        "created": 1407381629,
-        "title_id": "731291",
-        "tv_rating": "tv-pg",
+        "modified": 1661191260,
+        "media_id": "3a5bc86e3d7699892e189e9defeed7306d1be823",
+        "airing_id": "RADS1008222200022429",
+        "id": "oc7KIm1VTjK5nhoJfMriBQ",
+        "slug": "movin-on-up",
+        "views": 428414,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15180332647189.jpg",
+        "created": 1402945468,
+        "title_id": "731316",
         "season_number": "4",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1660525634,
-        "first_published": 1407381629,
-        "tags": [],
+        "published": 1661191260,
+        "tags": [
+            "king of the hill koth episode 416 movin on up luanne roomates moving out "
+        ],
+        "rating_count": 504,
         "collection_title": "King of the Hill",
         "modified_by": "ODT Listener",
-        "launch_date": 1502681400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803317455013.jpg",
-        "cma_id": "1451210"
+        "launch_date": 1503027000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180332647189.jpg",
+        "cma_id": "1454666"
     }
 ]
