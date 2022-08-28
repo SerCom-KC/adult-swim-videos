@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1661659140,
-        "tms_id": "EP003034830108",
-        "description": "Bender gains the ability to self-replicate, threatening to overrun Earth with vast swarms of copies of himself.",
-        "title_suggest": {
-            "input": [
-                "Benderama"
-            ]
-        },
-        "title": "Benderama",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1361.9606,
-        "episode_number": "2",
-        "original_air_date": 1650243600,
-        "auth_launch_date": 1661054400,
-        "clip_order": null,
-        "airing_id": "RADS1008142200021324",
-        "media_id": "9baf4057701da4e3e1061f8718f66e5bd2200b6a",
-        "modified": 1660626804,
-        "slug": "benderama",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/1_22418106491-Benderama.png",
-        "created": 1649984539,
-        "title_id": "2161636",
-        "season_number": "8",
-        "tv_rating": "tv-14-dlv",
-        "published": 1660626804,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/2_22418106491-Benderama.png",
-        "id": "AYAqvgpD208s7zyYUMli",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1662091140,
         "tms_id": "EP003034830109",
         "description": "When Bender dies, his disembodied software begins haunting the Planet Express building.",
@@ -134,6 +90,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_22420143104-Futurama_803_LawAndOracle.png",
         "id": "AYBIPk8H208s7zyYUMpP",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662263940,
+        "tms_id": "EP003034830111",
+        "description": "After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.",
+        "title_suggest": {
+            "input": [
+                "The Silence of the Clamps",
+                "Silence of the Clamps",
+                "of the Clamps",
+                "the Clamps",
+                "Clamps"
+            ]
+        },
+        "title": "The Silence of the Clamps",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1360.359,
+        "episode_number": "5",
+        "original_air_date": "1650850200",
+        "auth_launch_date": 1661659200,
+        "clip_order": null,
+        "airing_id": "RADS1008252200022884",
+        "media_id": "c69275c9521045e8eaf619f6c5ced4e5b18e10ab",
+        "modified": 1661463597,
+        "slug": "the-silence-of-the-clamps",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
+        "created": 1650479606,
+        "season_number": "8",
+        "title_id": "2161633",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1661463597,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
+        "id": "AYBIQClS_0O4w1rD3SCd",
         "auth": true
     },
     {
