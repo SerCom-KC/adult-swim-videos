@@ -1,57 +1,6 @@
 [
     {
         "auth": true,
-        "auth_expiration_date": 1661659140,
-        "tms_id": "EP002070020076",
-        "rating": 8.125002,
-        "description": "A marital spat between Mr. Strickland and his wife makes Hank the unlikely target of amorous advances; Peggy takes over a barbecue restaurant.",
-        "title_suggest": {
-            "input": [
-                "Hanky Panky (1)",
-                "Panky (1)",
-                "(1)"
-            ]
-        },
-        "type": "episode",
-        "title": "Hanky Panky (1)",
-        "expiration_date": 1503372599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1398.0299,
-        "episode_number": "13",
-        "original_air_date": 1240810200,
-        "clip_order": null,
-        "auth_launch_date": 1661054400,
-        "modified": 1660849205,
-        "media_id": "cbe17a7c196fdf2cb4adee2f0be7eef264225a14",
-        "airing_id": "RADS1008152200021446",
-        "id": "-Tpck4RbQU-SGqE-bWPITw",
-        "slug": "hanky-panky-1",
-        "views": 300309,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/1_228181459452-KingOfTheHill_413_HankyPanky.png",
-        "created": 1402945468,
-        "title_id": "731306",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1660849205,
-        "tags": [
-            "king of the hill hanky panky season four episode bbq restaurant"
-        ],
-        "rating_count": 496,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": 1502767800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_228181459452-KingOfTheHill_413_HankyPanky.png",
-        "cma_id": "1451685"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1662177540,
         "tms_id": "EP002070020080",
         "rating": 7.1858554,
@@ -100,6 +49,59 @@
         "launch_date": 1503113400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_22822155507-KingOfTheHill_415_BillOfSales.png",
         "cma_id": "1454968"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1662263940,
+        "tms_id": "EP002070020081",
+        "rating": 7.2884617,
+        "description": "Buddhist monks believe Bobby is a lama.",
+        "title_suggest": {
+            "input": [
+                "Won't You Pimai Neighbor?",
+                "You Pimai Neighbor?",
+                "Pimai Neighbor?",
+                "Neighbor?"
+            ]
+        },
+        "type": "episode",
+        "title": "Won't You Pimai Neighbor?",
+        "expiration_date": 1503836999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1396.7954,
+        "episode_number": "18",
+        "original_air_date": 1241056800,
+        "auth_launch_date": 1661659200,
+        "clip_order": null,
+        "modified": 1661466654,
+        "media_id": "84c0df06fd00b2cdac40c46cf2f347d2f06a74ce",
+        "airing_id": "RADS1008252200022907",
+        "id": "930lmK0NQKeza2nGJgPPew",
+        "slug": "wont-you-pimai-neighbor",
+        "views": 34088,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870846002212.jpg",
+        "created": 1402945468,
+        "title_id": "731319",
+        "season_number": "4",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1661466654,
+        "tags": [
+            "king of the hill koth episode 418 won't you pimai neighbor buddhist monks lama bobby"
+        ],
+        "rating_count": 52,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503232200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870846002212.jpg",
+        "cma_id": "1456016"
     },
     {
         "auth": true,
