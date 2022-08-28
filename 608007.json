@@ -512,7 +512,7 @@
         "launch_date": 1661074200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_2272614353-OnePiece_570_TheStrawHatsStunnedTheNewFleetOfTheNavy.png",
         "id": "AYI7rW1ZIAxeiVkFtLQm",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1664769540,
@@ -969,6 +969,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221551399-OnePiece_577_ZsAmbitionAGreatAndDesperateEscapePlan.png",
         "id": "AYKyWL883sQvipyea93v",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1663493340,
+        "tms_id": "EP035179090062",
+        "description": "Shuzo's squad of manned torpedoes targets the Straw Hats and the giants! The crazed captain tests Luffy's mettle in a showdown on land, but the wily pirate pulls off a supersized surprise in hopes to stomp out the madman for good",
+        "title_suggest": {
+            "input": [
+                "Z's Ambition! Luffy vs. Shuzo!",
+                "Ambition! Luffy vs. Shuzo!",
+                "Luffy vs. Shuzo!",
+                "vs. Shuzo!",
+                "Shuzo!"
+            ]
+        },
+        "title": "Z's Ambition! Luffy vs. Shuzo!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.3644,
+        "episode_number": "61",
+        "original_air_date": "1661666400",
+        "auth_launch_date": 1661679000,
+        "clip_order": null,
+        "airing_id": "RADS1008252200022901",
+        "media_id": "d8613fae5088095de3adf91dba457dd1415c7270",
+        "modified": 1661537734,
+        "slug": "zs-ambition-luffy-vs-shuzo",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/1_228221552462-OnePiece_578_ZsAmbitionLuffyVsShuzo.png",
+        "created": 1661197979,
+        "season_number": "15",
+        "title_id": "2402470",
+        "tv_rating": "tv-pg-l",
+        "published": 1661537734,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221552462-OnePiece_578_ZsAmbitionLuffyVsShuzo.png",
+        "id": "AYLHHY7gIAxeiVkFtLRf",
         "auth": true
     }
 ]
