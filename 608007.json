@@ -458,7 +458,7 @@
         "launch_date": 1661072400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726142191-OnePiece_569_TheSecretRevealedTheTruthAboutTheWeapon.png",
         "id": "AYI7rKoqIAxeiVkFtLQl",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1665374340,
@@ -717,7 +717,7 @@
         "launch_date": 1661679000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124569-OnePiece_572_ManyProblemsLieAheadATrapAwaitingIntheNewWorld.png",
         "id": "AYJfcoF4IAxeiVkFtLQy",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1662281940,
@@ -918,6 +918,57 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_22818151602-OnePiece_576_ZsAmbitionADarkAndPowerfulArmy.png",
         "id": "AYKnJ4vI3sQvipyea93J",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1663491540,
+        "tms_id": "EP035179090061",
+        "description": "Luffy and Zoro find themselves locked in battle with their latest foes, but Nami's knowledge of the sea may be the key to escaping this scrum alive!",
+        "title_suggest": {
+            "input": [
+                "Z's Ambition! A Great and Desperate Escape Plan!",
+                "Ambition! A Great and Desperate Escape Plan!",
+                "A Great and Desperate Escape Plan!",
+                "Great and Desperate Escape Plan!",
+                "and Desperate Escape Plan!",
+                "Desperate Escape Plan!",
+                "Escape Plan!",
+                "Plan!"
+            ]
+        },
+        "title": "Z's Ambition! A Great and Desperate Escape Plan!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.2643,
+        "episode_number": "60",
+        "original_air_date": "1661664600",
+        "auth_launch_date": 1661677200,
+        "clip_order": null,
+        "airing_id": "RADS1008252200022905",
+        "media_id": "97664f3088753e317caeed69af56010008c78c2c",
+        "modified": 1661537721,
+        "slug": "zs-ambition-a-great-and-desperate-escape-plan",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/1_228221551399-OnePiece_577_ZsAmbitionAGreatAndDesperateEscapePlan.png",
+        "created": 1660849536,
+        "season_number": "15",
+        "title_id": "2402469",
+        "tv_rating": "tv-pg",
+        "published": 1661537721,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221551399-OnePiece_577_ZsAmbitionAGreatAndDesperateEscapePlan.png",
+        "id": "AYKyWL883sQvipyea93v",
         "auth": true
     }
 ]
