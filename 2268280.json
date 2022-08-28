@@ -1231,7 +1231,7 @@
         "launch_date": 1661673600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821242120-YashahimePrincessHalfDemon_202_DemonSpiritOfTheSea.png",
         "id": "AYJfb9jlIAxeiVkFtLQx",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1662278340,
@@ -1325,6 +1325,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_22818150376-YashahimePrincessHalfDemon_204_TheBarrierAtMountMusubi.png",
         "id": "AYKnDDHzIAxeiVkFtLRZ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1663487940,
+        "tms_id": "EP036780850053",
+        "description": "Trapped within Mount Musubi, Rion's soul longs for peace. Rion asks Setsuna to sever the thread of fate connects her to her father, Kirinmaru.",
+        "title_suggest": {
+            "input": [
+                "The Girl Named Rion",
+                "Girl Named Rion",
+                "Named Rion",
+                "Rion"
+            ]
+        },
+        "title": "The Girl Named Rion",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXpED60VBH5Z6gH5aWXi",
+        "duration": 1335.0004,
+        "episode_number": "5",
+        "original_air_date": "1661661000",
+        "auth_launch_date": 1661673600,
+        "clip_order": null,
+        "airing_id": "RADS1008252200022895",
+        "media_id": "6771e6f41ae7f8852936e2693c06d6cda0811dc2",
+        "modified": 1661465409,
+        "slug": "the-girl-named-rion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/1_228221549374-YashahimePrincessHalfDemon_205_TheGirlNamedRion.png",
+        "created": 1661197786,
+        "season_number": "2",
+        "title_id": "2394824",
+        "tv_rating": "tv-14-v",
+        "published": 1661465409,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221549374-YashahimePrincessHalfDemon_205_TheGirlNamedRion.png",
+        "id": "AYLHGp3lIAxeiVkFtLRe",
         "auth": true
     }
 ]
