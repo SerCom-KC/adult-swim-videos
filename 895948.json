@@ -573,7 +573,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446739920,
         "auth_expiration_date": 1664769540,
         "tms_id": "EP015632430006",
@@ -647,58 +647,6 @@
         "launch_date": 1658721600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341610288-ericandre_107_dup-20120718.jpg",
         "cma_id": "1430817"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1446739980,
-        "auth_expiration_date": 1661745540,
-        "tms_id": "EP015632430003",
-        "rating": 7.6801624,
-        "description": "Eric interviews Real Housewife Brandi Glanville and Vice President Joe Biden.",
-        "title_suggest": {
-            "input": [
-                "Brandi Glanville",
-                "Glanville"
-            ]
-        },
-        "type": "episode",
-        "title": "Brandi Glanville",
-        "expiration_date": 1658721540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 672.4004004,
-        "episode_number": "4",
-        "original_air_date": 1339389000,
-        "clip_order": null,
-        "auth_launch_date": 1658721600,
-        "modified": 1658527324,
-        "media_id": "9e00c59244988286d9e5ef603cd7ec9bd8c56c55",
-        "airing_id": "RADS1006162200007086",
-        "id": "Jfc4P-0nQRCFAvBO5jKGQg",
-        "slug": "brandi-glanville",
-        "views": 157834,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034168373-ericandre_104_dup-20120607.jpg",
-        "created": 1402945479,
-        "title_id": "895952",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1658527324,
-        "tags": [],
-        "rating_count": 988,
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655697600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034168373-ericandre_104_dup-20120607.jpg",
-        "cma_id": "1419234"
     },
     {
         "auth": false,
@@ -1424,5 +1372,61 @@
         "launch_date": 1481577852,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-eric-andre-show-marathon/marathonStream_ericandre.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446740220,
+        "auth_expiration_date": 1606366740,
+        "tms_id": "EP015632430014",
+        "rating": 7.2465754,
+        "description": "Interviews with \"George Clooney,\" Jodie Sweetin and Vivica A. Fox.",
+        "title_suggest": {
+            "input": [
+                "Jodie Sweetin / Vivica A. Fox",
+                "Sweetin / Vivica A. Fox",
+                "/ Vivica A. Fox",
+                "Vivica A. Fox",
+                "A. Fox",
+                "Fox"
+            ]
+        },
+        "type": "episode",
+        "title": "Jodie Sweetin / Vivica A. Fox",
+        "expiration_date": 1664769540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 675.9342676,
+        "episode_number": "4",
+        "original_air_date": 1382675400,
+        "clip_order": null,
+        "auth_launch_date": 1603339200,
+        "modified": 1661557524,
+        "media_id": "97dcd6ccf44763b337947a38f9a4a7a31a29246a",
+        "airing_id": "RADS1008262200023055",
+        "id": "y5wGwnRXS4uSFL0pcBOoQA",
+        "slug": "jodie-sweetin-vivica-a-fox",
+        "views": 73713,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341612237-ericandre_014_dup_20131023.jpg",
+        "created": 1402945479,
+        "title_id": "2012282",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1661557524,
+        "tags": [],
+        "rating_count": 730,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661745600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341612237-ericandre_014_dup_20131023.jpg",
+        "cma_id": "1463166"
     }
 ]
