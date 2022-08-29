@@ -378,55 +378,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1555338600,
-        "auth_expiration_date": 1661745540,
-        "tms_id": "EP031867090003",
-        "description": "Lane occupied.",
-        "title_suggest": {
-            "input": [
-                "Lane Occupied",
-                "Occupied"
-            ]
-        },
-        "title": "Lane Occupied",
-        "type": "episode",
-        "expiration_date": 1658721540,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 674.71,
-        "episode_number": "3",
-        "original_air_date": 1555300800,
-        "auth_launch_date": 1658721600,
-        "clip_order": null,
-        "airing_id": "RADS1006152200007074",
-        "media_id": "b7865c1cdcc3be10dae332732f041835e9621025",
-        "modified": 1658524016,
-        "slug": "lane-occupied",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155499246258618.jpg",
-        "created": 1554574694,
-        "title_id": "2178191",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1658524016,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655697600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155499246258618.jpg",
-        "id": "AWnz31nLAScUIg8Xxeni",
-        "auth": false
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -792,7 +743,7 @@
         "launch_date": 1658721600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15562178560269.jpg",
         "id": "AWpKrOe9AScUIg8XxfFe",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1556548200,
@@ -1042,6 +993,51 @@
         "launch_date": 1661140800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039145-LazorWulf_202_dup-20200930_IfThatWasTomorrow.jpg",
         "id": "AXX66MmlLyLQBOXK_Prg",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1655697540,
+        "tms_id": "EP031867090011",
+        "description": "Unoccupied Lane.",
+        "title_suggest": {
+            "input": [
+                "Unoccupied Lane",
+                "Lane"
+            ]
+        },
+        "title": "Unoccupied Lane",
+        "expiration_date": 1664769540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 666.299,
+        "episode_number": "3",
+        "original_air_date": "1585721700",
+        "auth_launch_date": 1652673600,
+        "clip_order": null,
+        "airing_id": "RADS1008262200023025",
+        "media_id": "938ea4661874978330ffb86220ff2057ec797d21",
+        "modified": 1661624845,
+        "slug": "unoccupied-lane",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241039447-LazorWulf_203_dup-20200930_UnoccupiedLane.jpg",
+        "created": 1606232387,
+        "season_number": "2",
+        "title_id": "2224734",
+        "tv_rating": "tv-14-dlv",
+        "published": 1661624845,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661745600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039447-LazorWulf_203_dup-20200930_UnoccupiedLane.jpg",
+        "id": "AXX66TF6LyLQBOXK_Prh",
         "auth": false
     }
 ]
