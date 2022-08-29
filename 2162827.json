@@ -102,58 +102,6 @@
     },
     {
         "ott_launch_date": 1547479800,
-        "auth_expiration_date": 1661745540,
-        "tms_id": "EP029602940002",
-        "description": "Tigtone quests alone, just the way he likes it--until a fellowship is forced upon him.",
-        "title_suggest": {
-            "input": [
-                "Tigtone and His Fellowship Of",
-                "and His Fellowship Of",
-                "His Fellowship Of",
-                "Fellowship Of",
-                "Of"
-            ]
-        },
-        "title": "Tigtone and His Fellowship Of",
-        "expiration_date": 1658721540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWeojjpvqD68dq0Op539",
-        "duration": 677,
-        "episode_number": "1",
-        "original_air_date": 1547442000,
-        "auth_launch_date": 1658721600,
-        "clip_order": null,
-        "media_id": "a54e64d9a60e5215ac253cd66d0d7ae45fb9083c",
-        "modified": 1661286032,
-        "airing_id": "RADS1007222200014883",
-        "slug": "tigtone-and-his-fellowship-of",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117941352-tigtone_101_dup-20181102.jpg",
-        "created": 1546462972,
-        "season_number": "1",
-        "title_id": "2171683",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1661286032,
-        "tags": [],
-        "collection_title": "Tigtone",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655697600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117941352-tigtone_101_dup-20181102.jpg",
-        "id": "AWgQYEklAScUIg8XxbiD",
-        "auth": true
-    },
-    {
-        "ott_launch_date": 1547479800,
         "auth_expiration_date": 1662350340,
         "tms_id": "EP029602940003",
         "description": "Lord Festus tasks Tigtone with saving his ugly kingdom from ravaging beauty.",
@@ -355,7 +303,7 @@
         "launch_date": 1658721600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843445502714.jpg",
         "id": "AWgQZLd4zQU7gEG1jvbJ",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1549294200,
@@ -784,6 +732,56 @@
         "launch_date": 1660536000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154946588079415.jpg",
         "id": "AWi-sgeEAScUIg8Xxcy7",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1655092740,
+        "tms_id": "",
+        "description": "Tigtone and Helpy face a seven-headed beast, as the title implies--which is true!",
+        "title_suggest": {
+            "input": [
+                "Tigtone and the Seven-Headed Serpent of Kloom",
+                "and the Seven-Headed Serpent of Kloom",
+                "the Seven-Headed Serpent of Kloom",
+                "Seven-Headed Serpent of Kloom",
+                "Serpent of Kloom",
+                "of Kloom",
+                "Kloom"
+            ]
+        },
+        "title": "Tigtone and the Seven-Headed Serpent of Kloom",
+        "expiration_date": 1664769540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWeojjpvqD68dq0Op539",
+        "duration": 675.6083,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1652068800,
+        "clip_order": null,
+        "airing_id": "RADS1008262200023035",
+        "media_id": "96efc2c04e9b1b6188bff5a8849fc02c43da0ff9",
+        "modified": 1661554557,
+        "slug": "tigtone-and-the-seven-headed-serpent-of-kloom",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117944398-Tigtone_201_dup-20200630.jpg",
+        "created": 1598569460,
+        "season_number": "2",
+        "title_id": "2222954",
+        "tv_rating": "tv-14-v",
+        "published": 1661554557,
+        "tags": [],
+        "collection_title": "Tigtone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661745600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117944398-Tigtone_201_dup-20200630.jpg",
+        "id": "AXQyKjH6LyLQBOXK_PMZ",
         "auth": false
     },
     {
