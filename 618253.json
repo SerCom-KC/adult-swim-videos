@@ -53,6 +53,59 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1451669400,
+        "auth_expiration_date": 1647921540,
+        "tms_id": "EP007542790003",
+        "rating": 7.220516,
+        "description": "Mouse Fitzgerald plans to celebrate Rooster's new job. But then they find out he didn't get it because he is a couple years too old to meet Shark's requirements.",
+        "title_suggest": {
+            "input": [
+                "Rooster"
+            ]
+        },
+        "type": "episode",
+        "title": "Rooster",
+        "expiration_date": 1664855940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 689.26,
+        "episode_number": "3",
+        "original_air_date": 1130736600,
+        "clip_order": null,
+        "auth_launch_date": 1644901200,
+        "modified": 1661559379,
+        "media_id": "c09351fd6adb044a158678fc167bfc112d89fda4",
+        "airing_id": "RADS1008262200023078",
+        "id": "ATiS3emiQEKDv_0S2I0Uvg",
+        "slug": "rooster",
+        "views": 174315,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201158487-12oz_003_BIM_9318303.jpg",
+        "created": 1402945460,
+        "title_id": "618746",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1661559379,
+        "tags": [
+            "12 oz mouse episode 3 rooster"
+        ],
+        "rating_count": 1433,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661832000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201158487-12oz_003_BIM_9318303.jpg",
+        "cma_id": ""
+    },
+    {
         "auth_expiration_date": 1662436740,
         "tms_id": "EP007542790041",
         "description": "Rooster escapes Spider from the World of Muck and finds himself in a desert with a well-armed Kid camping out. Peanut Cop and Golden Joe break out of prison on jet skis; Aria realizes that Professor Wilx is working for Shyd Industries.",
@@ -239,52 +292,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1661831940,
-        "tms_id": "EP007542790040",
-        "description": "Eyeball reunites with Mouse on Lotharganin. Manwoman, in the Outer Earth, is interrogated by Peanut Cop because she has the Box of Worlds in her possession created by Shyd Industries.",
-        "title_suggest": {
-            "input": [
-                "You Made This",
-                "Made This",
-                "This"
-            ]
-        },
-        "title": "You Made This",
-        "type": "episode",
-        "expiration_date": 1658807940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 675.5082,
-        "episode_number": "4",
-        "original_air_date": 1595563200,
-        "auth_launch_date": 1658808000,
-        "clip_order": null,
-        "airing_id": "RADS1006162200007117",
-        "media_id": "0ebab12d56915ab067f2ea6537bac325ecdb1779",
-        "modified": 1658532683,
-        "slug": "you-made-this",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200723/thumbnails/1_207231328247-12oz_304_dup-20200626.jpg",
-        "created": 1595020208,
-        "title_id": "2224140",
-        "season_number": "3",
-        "tv_rating": "tv-14-lv",
-        "published": 1658532683,
-        "tags": [],
-        "collection_title": "12 oz Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655784000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200723/thumbnails/2_207231328247-12oz_304_dup-20200626.jpg",
-        "id": "AXNenOrARs3h4hI_X4Vw",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1664251140,
         "tms_id": "EP007542790044",
         "description": "Industry Man interrogates Rooster on the location of the missing Box of Worlds. Peanut Cop dies while freeing Mouse, Aria and Eyeball from the laser cage. Meanwhile, the Castellica gets its orders from Melissa to save Mouse.",
@@ -375,7 +382,7 @@
         "launch_date": 1658808000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171733580-12oz_309_dup-20200703.jpg",
         "id": "AXNessexC8QgH-t19KAz",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1645505940,
