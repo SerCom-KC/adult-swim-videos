@@ -311,7 +311,7 @@
         "cma_id": "1287561"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168440,
         "auth_expiration_date": 1664942340,
         "tms_id": "EP008519090001",
@@ -365,69 +365,6 @@
         "launch_date": 1658894400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111121533-metalocalypse_101.jpg",
         "cma_id": "1369711"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447169820,
-        "auth_expiration_date": 1661918340,
-        "tms_id": "EP008519090046",
-        "rating": 8.776221,
-        "description": "After an onslaught of paternity suits, Skwisgaar realizes he will never change until he quits the band to find his father who abandoned him before birth.Meanwhile, Dethklok realizes they all have father abandonment issues and Murderface decides to repair the damages by appointing himself \"Band Father.\"",
-        "title_suggest": {
-            "input": [
-                "Fatherklok"
-            ]
-        },
-        "type": "episode",
-        "title": "Fatherklok",
-        "expiration_date": 1658894340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 1354.3003003,
-        "episode_number": "5",
-        "original_air_date": 1260768600,
-        "clip_order": null,
-        "auth_launch_date": 1658894400,
-        "modified": 1658881544,
-        "media_id": "e3ad008fc070fca3b351f0311ca392b3ee37ddf6",
-        "airing_id": "RADS1006162200007231",
-        "id": "Y2kmllKcRNup5EwcUkprzg",
-        "slug": "fatherklok",
-        "views": 1277486,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311112966-metalocalypse_307_dst-cid-NVN6.jpg",
-        "created": 1402945469,
-        "title_id": "773413",
-        "season_number": "3",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1658881544,
-        "tags": [
-            "metalocalypse",
-            "season 3",
-            "episode 47",
-            "dethklok",
-            "fatherklok",
-            "father",
-            "abandonment",
-            "issues",
-            "murderface",
-            "damage",
-            "band father"
-        ],
-        "rating_count": 3736,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655870400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311112966-metalocalypse_307_dst-cid-NVN6.jpg",
-        "cma_id": "1295191"
     },
     {
         "auth": false,
@@ -532,6 +469,66 @@
         "launch_date": 1659499200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111122488-metalocalypse_104.jpg",
         "cma_id": "1380719"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447168800,
+        "auth_expiration_date": 1646197140,
+        "tms_id": "EP008519090017",
+        "rating": 8.787536,
+        "description": "The Tribunal commissions Dr. Rockzo, The Rock N Roll Clown, to gather information on Dethklok. Dr. Rockzo and Toki's sudden friendship has the rest of Dethklok uneasy.",
+        "title_suggest": {
+            "input": [
+                "Dethclown"
+            ]
+        },
+        "type": "episode",
+        "title": "Dethclown",
+        "expiration_date": 1664942340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 692.5338672,
+        "episode_number": "17",
+        "original_air_date": 1164602700,
+        "clip_order": null,
+        "auth_launch_date": 1643173200,
+        "modified": 1661563274,
+        "media_id": "5475a377d6f36ef34ad3dca407f8d03b02970982",
+        "airing_id": "RADS1008262200023155",
+        "id": "nVfCahPQSvW8PzDuAr1YhQ",
+        "slug": "dethclown",
+        "views": 572552,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111126564-metalocalypse_117.jpg",
+        "created": 1402945469,
+        "title_id": "655951",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1661563274,
+        "tags": [
+            "metalocalypse",
+            "dethklok",
+            "episode 17",
+            "dethclown",
+            "doctor",
+            "dr",
+            "rockzo",
+            "spy"
+        ],
+        "rating_count": 2085,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661918400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111126564-metalocalypse_117.jpg",
+        "cma_id": "1435303"
     },
     {
         "auth": false,
