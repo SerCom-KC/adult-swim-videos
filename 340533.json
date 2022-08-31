@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447440000,
         "auth_expiration_date": 1664942340,
         "tms_id": "EP004625760049",
@@ -156,60 +156,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1659499200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416914505-sealab_048.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447439700,
-        "auth_expiration_date": 1661918340,
-        "tms_id": "EP004625760044",
-        "rating": 8.729112,
-        "description": "A mysterious illness sweeps through the corridors of Sealab like a wildfire.  A germy, icky, nosebleedy wildfire.  As Sparks and his gang search for Feverheads to bash and Quinn searches desperately for a cure, Debbie makes preparations for her best 30th birthday ever.",
-        "title_suggest": {
-            "input": [
-                "Green Fever",
-                "Fever"
-            ]
-        },
-        "type": "episode",
-        "title": "Green Fever",
-        "expiration_date": 1658894340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 659.6006006,
-        "episode_number": "3",
-        "original_air_date": 1101703500,
-        "clip_order": null,
-        "auth_launch_date": 1658894400,
-        "modified": 1658536894,
-        "media_id": "1a8bdf2b36734185e00f0658cfe1a6a7984857dc",
-        "airing_id": "RADS1006162200007214",
-        "id": "P3mSxnN1T_Sf--qFKvqLMQ",
-        "slug": "green-fever",
-        "views": 206618,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_2041691212-sealab_042.jpg",
-        "created": 1402945476,
-        "title_id": "607149",
-        "season_number": "4",
-        "tv_rating": "tv-14-ds",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1658536894,
-        "tags": [
-            "sealab 2021 green fever episode 42"
-        ],
-        "rating_count": 694,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655870400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041691212-sealab_042.jpg",
         "cma_id": ""
     },
     {
@@ -375,6 +321,59 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447440120,
+        "auth_expiration_date": 1636520340,
+        "tms_id": "EP004625760054",
+        "rating": 8.335581,
+        "description": "We love you Sealab 2021.",
+        "title_suggest": {
+            "input": [
+                "A Legacy of Laughter",
+                "Legacy of Laughter",
+                "of Laughter",
+                "Laughter"
+            ]
+        },
+        "type": "episode",
+        "title": "A Legacy of Laughter",
+        "expiration_date": 1664942340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 679.7340674,
+        "episode_number": "13",
+        "original_air_date": 1114402500,
+        "clip_order": null,
+        "auth_launch_date": 1633492800,
+        "modified": 1661562030,
+        "airing_id": "RADS1008262200023127",
+        "media_id": "3d0df83f7e17bdf9496cbab7ec53d6cea1f7b6bc",
+        "id": "hY9L7qYWR3uDQc8I1ouUsQ",
+        "slug": "a-legacy-of-laughter",
+        "views": 149530,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_20416916279-sealab_052.jpg",
+        "created": 1402945476,
+        "title_id": "613481",
+        "season_number": "4",
+        "tv_rating": "tv-14-ds",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1661562030,
+        "tags": [],
+        "rating_count": 444,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661918400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416916279-sealab_052.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1663127940,
@@ -426,6 +425,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1657080000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416913112-sealab_044.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447438140,
+        "auth_expiration_date": 1637125140,
+        "tms_id": "EP004625760003",
+        "rating": 9.710794,
+        "description": "No one will play with Captain Murphy. Bored and dejected, he starts a pirate radio station using Sealab's emergency radio beacon. As \"Howling Mad\" Murphy, his obnoxious humor (and soundtrack by The Knaves) catapults him to stardom. But the FCC is closing in on his signal--and this time, it's personal.",
+        "title_suggest": {
+            "input": [
+                "Radio Free Sealab",
+                "Free Sealab",
+                "Sealab"
+            ]
+        },
+        "type": "episode",
+        "title": "Radio Free Sealab",
+        "expiration_date": 1664942340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 689.333667,
+        "episode_number": "3",
+        "original_air_date": 977389200,
+        "clip_order": null,
+        "auth_launch_date": 1634097600,
+        "modified": 1661562642,
+        "media_id": "f621878c19f38cc6d76b77d047b6131b0ddf79d6",
+        "airing_id": "RADS1008262200023139",
+        "id": "lw9lSmwZQRe4MBAXwyHXCQ",
+        "slug": "radio-free-sealab",
+        "views": 180564,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141155245-sealab_003.jpg",
+        "created": 1402945476,
+        "title_id": "340536",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1661562642,
+        "tags": [],
+        "rating_count": 1352,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661918400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141155245-sealab_003.jpg",
         "cma_id": ""
     },
     {
