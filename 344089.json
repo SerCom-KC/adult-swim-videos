@@ -104,57 +104,60 @@
         "cma_id": "992285"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1661918340,
-        "tms_id": "EP002989350046",
-        "rating": 8.317381,
-        "description": "Brendon is trying to finish his undersea epic about the Mighty Septopus, but Fenton Mewly's prima donna fits keep getting in the way.  Meanwhile, Paula is trying desperately to break up with her new boyfriend.  Also, Coach McGuirk joins a gym and works only on one machine: the Pec Flexor.",
+        "auth_expiration_date": 1636520340,
+        "tms_id": "EP002989350001",
+        "rating": 8.525824,
+        "description": "It's hard enough for Brendon to accept that his mother is going on a date, but couldn't she have picked a guy other than Coach McGuirk?",
         "title_suggest": {
             "input": [
-                "Heart Smashers",
-                "Smashers"
+                "Get Away From My Mom",
+                "Away From My Mom",
+                "From My Mom",
+                "My Mom",
+                "Mom"
             ]
         },
         "type": "episode",
-        "title": "Heart Smashers",
-        "expiration_date": 1658894340,
+        "title": "Get Away From My Mom",
+        "expiration_date": 1664942340,
         "platforms": [
             "web",
             "mobile"
         ],
         "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1371.6006006,
-        "episode_number": "2",
-        "original_air_date": 1075089600,
+        "duration": 1341.2669336,
+        "episode_number": "1",
+        "original_air_date": 1003111200,
         "clip_order": null,
-        "auth_launch_date": 1658894400,
-        "modified": 1658537491,
-        "media_id": "4f104bafcff2974fd8802f1e9e826a14c28e0761",
-        "airing_id": "RADS1007222200015037",
-        "id": "OiP45kZKTQuuBkYXvdIS4w",
-        "slug": "heart-smashers",
-        "views": 398146,
+        "auth_launch_date": 1633492800,
+        "modified": 1661562035,
+        "media_id": "cc09e90e018e48bcea97be35dfd5a620e1b2fba3",
+        "airing_id": "RADS1008262200023126",
+        "id": "QHIks2mlSiiCApHIrlZ7ng",
+        "slug": "get-away-from-my-mom",
+        "views": 337878,
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351624599-hmovies_041.jpg",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035161444-hmovies_001.jpg",
         "created": 1402945467,
-        "title_id": "448017",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
+        "title_id": "344117",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1658537491,
+        "published": 1661562035,
         "tags": [
-            "home movies episode 41 heart smashers pec flexor mcguirk gym boyfriend fenton"
+            "home movies episode 1 get away from my mom series premiere first date mom"
         ],
-        "rating_count": 794,
+        "rating_count": 639,
         "collection_title": "Home Movies",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1655870400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624599-hmovies_041.jpg",
-        "cma_id": "992121"
+        "launch_date": 1661918400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161444-hmovies_001.jpg",
+        "cma_id": "991549"
     },
     {
         "auth": true,
@@ -383,7 +386,7 @@
         "cma_id": "992367"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1664942340,
         "tms_id": "EP002989350051",
