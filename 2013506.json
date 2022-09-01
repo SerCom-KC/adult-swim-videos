@@ -7621,6 +7621,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "TEST Every adventure back-to-back. You're welcome. (Marathon available in select regions)",
+        "title_suggest": {
+            "input": [
+                "Rick and Morty Test",
+                "and Morty Test",
+                "Morty Test",
+                "Test"
+            ]
+        },
+        "title": "Rick and Morty Test",
+        "expiration_date": null,
+        "type": "stream",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": "0",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "",
+        "modified": 1662058558,
+        "slug": "rick-and-morty-test",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220901/thumbnails/1_22911453498-rickandmorty_310_dup.png",
+        "created": 1662058460,
+        "season_number": "",
+        "title_id": "",
+        "tv_rating": "tv-14",
+        "published": 1662058558,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1662004800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220901/thumbnails/2_22911453498-rickandmorty_310_dup.png",
+        "id": "AYL6Z3N6IAxeiVkFtLRk",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
