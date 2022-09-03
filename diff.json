@@ -1,7 +1,6 @@
 {
-    "updated": 1662225861,
-    "added": [],
-    "removed": [
+    "updated": 1662226098,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1496154600,
@@ -29,7 +28,7 @@
             "original_air_date": 1495857600,
             "clip_order": null,
             "auth_launch_date": 1547654400,
-            "modified": 1662223380,
+            "modified": 1662225787,
             "media_id": "254ab4d98c9925d7f8225164bc9220e70103c9ee",
             "airing_id": "RADS1006032200003213",
             "id": "R7FkS6W3TJa0xiYNSabPCw",
@@ -44,7 +43,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1662223380,
+            "published": 1662225787,
             "first_published": 1495556306,
             "tags": [],
             "collection_title": "Neon Joe",
@@ -57,5 +56,6 @@
             "collection_title_id": "2073005",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
