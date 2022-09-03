@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1662177540,
-        "tms_id": "EP003034830110",
-        "description": "Fry quits his job, and becomes a police officer assigned to the Future Crimes Division.",
-        "title_suggest": {
-            "input": [
-                "Law & Oracle",
-                "& Oracle",
-                "Oracle"
-            ]
-        },
-        "title": "Law & Oracle",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1360.1922,
-        "episode_number": "4",
-        "original_air_date": "1650848400",
-        "auth_launch_date": 1661572800,
-        "clip_order": null,
-        "airing_id": "RADS1008222200022408",
-        "media_id": "7d04da123462dd4985d3229766d3606434cc5245",
-        "modified": 1661150534,
-        "slug": "law-oracle",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_22420143104-Futurama_803_LawAndOracle.png",
-        "created": 1650479484,
-        "season_number": "8",
-        "title_id": "2161635",
-        "tv_rating": "tv-14-dlv",
-        "published": 1661150534,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_22420143104-Futurama_803_LawAndOracle.png",
-        "id": "AYBIPk8H208s7zyYUMpP",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1662263940,
         "tms_id": "EP003034830111",
         "description": "After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.",
@@ -229,6 +183,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521532321-Futurama_802_MobiusDick.png",
         "id": "AYCGQrCM208s7zyYUMzR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1662782340,
+        "tms_id": "EP003034830118",
+        "description": "Fry nurtures an alien egg that hatches into a horrific monster.",
+        "title_suggest": {
+            "input": [
+                "Fry Am the Egg Man",
+                "Am the Egg Man",
+                "the Egg Man",
+                "Egg Man",
+                "Man"
+            ]
+        },
+        "title": "Fry Am the Egg Man",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1362.1608,
+        "episode_number": "9",
+        "original_air_date": "1652059800",
+        "auth_launch_date": 1662177600,
+        "clip_order": null,
+        "airing_id": "RADS1008292200023893",
+        "media_id": "281908c2b76353c5ec08d76c549ee599af9428c4",
+        "modified": 1661855035,
+        "slug": "fry-am-the-egg-man",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_2252153309-Futurama_809_FryAmTheEggMan.png",
+        "created": 1651519987,
+        "season_number": "8",
+        "title_id": "2161641",
+        "tv_rating": "tv-14-dlv",
+        "published": 1661855035,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_2252153309-Futurama_809_FryAmTheEggMan.png",
+        "id": "AYCGQx-I208s7zyYUMzS",
         "auth": true
     }
 ]
