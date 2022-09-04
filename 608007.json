@@ -617,7 +617,7 @@
         "launch_date": 1661679000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124569-OnePiece_572_ManyProblemsLieAheadATrapAwaitingIntheNewWorld.png",
         "id": "AYJfcoF4IAxeiVkFtLQy",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1662281940,
@@ -719,7 +719,7 @@
         "launch_date": 1662283800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_2289134871-OnePiece_574_ToTheNewWorldHeadingForTheUltimateSea.png",
         "id": "AYKDuLxZ3sQvipyea9wg",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1662886740,
@@ -917,6 +917,59 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221552462-OnePiece_578_ZsAmbitionLuffyVsShuzo.png",
         "id": "AYLHHY7gIAxeiVkFtLRf",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1664098140,
+        "tms_id": "EP022794030002",
+        "description": "Luffy and Zoro put their strength to the ultimate test in a battle with a dragon. Meanwhile, a band of mysterious intruders make their gassy presence felt aboard the Sunny!",
+        "title_suggest": {
+            "input": [
+                "A Battle in the Heat! Luffy vs. the Giant Dragon!",
+                "Battle in the Heat! Luffy vs. the Giant Dragon!",
+                "in the Heat! Luffy vs. the Giant Dragon!",
+                "the Heat! Luffy vs. the Giant Dragon!",
+                "Heat! Luffy vs. the Giant Dragon!",
+                "Luffy vs. the Giant Dragon!",
+                "vs. the Giant Dragon!",
+                "the Giant Dragon!",
+                "Giant Dragon!",
+                "Dragon!"
+            ]
+        },
+        "title": "A Battle in the Heat! Luffy vs. the Giant Dragon!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.2976,
+        "episode_number": "2",
+        "original_air_date": 1662271200,
+        "auth_launch_date": 1662283800,
+        "clip_order": null,
+        "airing_id": "RADS1008292200023942",
+        "media_id": "1a342f5846b1339e117e2c0f49bacd9480015aca",
+        "modified": 1662045673,
+        "slug": "a-battle-in-the-heat-luffy-vs-the-giant-dragon",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/1_228291551162-OnePiece_580_ABattleInTheHeatLuffyVsTheGiantDragon.png",
+        "created": 1661793224,
+        "title_id": "2402472",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "published": 1662045673,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_228291551162-OnePiece_580_ABattleInTheHeatLuffyVsTheGiantDragon.png",
+        "id": "AYLqmEi03sQvipyea-By",
         "auth": true
     },
     {
