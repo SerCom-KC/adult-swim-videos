@@ -563,7 +563,7 @@
         "launch_date": 1661677200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124475-OnePiece_571_SheLovesSweetsBigMamOfTheFourEmperors.png",
         "id": "AYJfcbjR3sQvipyea9rw",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1665979140,
@@ -667,7 +667,7 @@
         "launch_date": 1662282000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891347164-OnePiece_573_FinallyTimeToGoGoodbyeFishManIsland.png",
         "id": "AYKDt_UJ3sQvipyea9wf",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1662283740,
@@ -917,6 +917,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221552462-OnePiece_578_ZsAmbitionLuffyVsShuzo.png",
         "id": "AYLHHY7gIAxeiVkFtLRf",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1664096340,
+        "tms_id": "EP022794030001",
+        "description": "A desperate cry for help leads the Straw Hats to Punk Hazard, an island engulfed in flames and inhabited by a mythic beast that could make short work of Luffy and the gang!",
+        "title_suggest": {
+            "input": [
+                "Arriving! A Burning Island - Punk Hazard!",
+                "A Burning Island - Punk Hazard!",
+                "Burning Island - Punk Hazard!",
+                "Island - Punk Hazard!",
+                "- Punk Hazard!",
+                "Punk Hazard!",
+                "Hazard!"
+            ]
+        },
+        "title": "Arriving! A Burning Island - Punk Hazard!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.5646,
+        "episode_number": "1",
+        "original_air_date": 1662269400,
+        "auth_launch_date": 1662282000,
+        "clip_order": null,
+        "airing_id": "RADS1008292200023948",
+        "media_id": "890a264ae8107335edb2bc1367b7e631c5429ef3",
+        "modified": 1662045687,
+        "slug": "arriving-a-burning-island-punk-hazard",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/1_228291550260-OnePiece_579_ArrivingABurningIslandPunkHazard.png",
+        "created": 1661793228,
+        "title_id": "2402471",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "published": 1662045687,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_228291550260-OnePiece_579_ArrivingABurningIslandPunkHazard.png",
+        "id": "AYLqmFfB3sQvipyea-B0",
         "auth": true
     }
 ]
