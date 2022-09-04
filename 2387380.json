@@ -660,7 +660,7 @@
         "launch_date": 1661070600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726141134-LupinThe3rd_Part6_614_TheMirageWomen.png",
         "id": "AYI7q6mo3sQvipyea9lE",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1667883540,
@@ -804,7 +804,7 @@
         "launch_date": 1662280200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891346182-LupinThe3rd_Part6_616_SamuraiCollection.png",
         "id": "AYKDtxGrIAxeiVkFtLRS",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1662884940,
@@ -901,6 +901,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221550279-LupinThe3rd_Part6_618_FakesAttractLiesPart1.png",
         "id": "AYLHG2C73sQvipyea98x",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1664094540,
+        "tms_id": "EP040430990022",
+        "description": "Zenigata is behind bars for a crime he didn't commit! His juniors are on the case, but interference in their pursuit of the truth will come from a most unlikely source.",
+        "title_suggest": {
+            "input": [
+                "Fakes Attract Lies Part 2",
+                "Attract Lies Part 2",
+                "Lies Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "title": "Fakes Attract Lies Part 2",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1293.1919,
+        "episode_number": "19",
+        "original_air_date": 1662267600,
+        "auth_launch_date": 1662280200,
+        "clip_order": null,
+        "airing_id": "RADS1008292200023949",
+        "media_id": "0cca608da9100448a6a544390c6be47f14d45f09",
+        "modified": 1662045711,
+        "slug": "fakes-attract-lies-part-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/1_22829154942-Lupinthe3rd_Part6_619_FakesAttractLiesPart2.png",
+        "created": 1661793228,
+        "title_id": "2387400",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "published": 1662045711,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_22829154942-Lupinthe3rd_Part6_619_FakesAttractLiesPart2.png",
+        "id": "AYLqmFWQ3sQvipyea-Bz",
         "auth": true
     }
 ]
