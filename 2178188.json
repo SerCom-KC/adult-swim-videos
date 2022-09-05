@@ -325,59 +325,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1555338600,
-        "auth_expiration_date": 1662350340,
-        "tms_id": "EP031867090004",
-        "description": "At the end of the day.",
-        "title_suggest": {
-            "input": [
-                "At the End of the Day",
-                "the End of the Day",
-                "End of the Day",
-                "of the Day",
-                "the Day",
-                "Day"
-            ]
-        },
-        "title": "At the End of the Day",
-        "type": "episode",
-        "expiration_date": 1659326340,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 678.63,
-        "episode_number": "4",
-        "original_air_date": 1555301700,
-        "auth_launch_date": 1659326400,
-        "clip_order": null,
-        "airing_id": "RADS1007292200016744",
-        "media_id": "80e34b029910a869e3faaf1eb4278db0bad75f2e",
-        "modified": 1659135242,
-        "slug": "at-the-end-of-the-day",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15549925220073.jpg",
-        "created": 1554574694,
-        "title_id": "2178192",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1659135242,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656302400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15549925220073.jpg",
-        "id": "AWnz31nIHl5gR6828zHM",
-        "auth": true
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -844,7 +791,7 @@
         "launch_date": 1659326400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155681975288417.jpg",
         "id": "AWphHO5SAScUIg8XxfQS",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1557153000,
@@ -1038,6 +985,53 @@
         "launch_date": 1661745600,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241039447-LazorWulf_203_dup-20200930_UnoccupiedLane.jpg",
         "id": "AXX66TF6LyLQBOXK_Prh",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1656302340,
+        "tms_id": "",
+        "description": "The End Is High.",
+        "title_suggest": {
+            "input": [
+                "The End Is High",
+                "End Is High",
+                "Is High",
+                "High"
+            ]
+        },
+        "title": "The End Is High",
+        "expiration_date": 1665374340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 652.9857,
+        "episode_number": "4",
+        "original_air_date": "1607922900",
+        "auth_launch_date": 1653278400,
+        "clip_order": null,
+        "airing_id": "RADS1009022200025690",
+        "media_id": "fdf38943fdbd4cfe8f6a02699c30d1f15b9e1c29",
+        "modified": 1662148303,
+        "slug": "the-end-is-high",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241040101-LazorWulf_204_dup-20201001_EndIsHigh.jpg",
+        "created": 1606232413,
+        "season_number": "2",
+        "title_id": "2224735",
+        "tv_rating": "tv-14-l",
+        "published": 1662148303,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662350400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241040101-LazorWulf_204_dup-20201001_EndIsHigh.jpg",
+        "id": "AXX66ZR8LyLQBOXK_Pri",
         "auth": false
     }
 ]
