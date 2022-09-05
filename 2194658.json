@@ -48,53 +48,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1648439940,
-        "tms_id": "EP031416130008",
-        "description": "Ray will attempt to distract Mom while Emma and Norman go to inspect the wall. Gilda and Don are keeping a watchful eye on Ray, but will everything go smoothly?",
-        "title_suggest": {
-            "input": [
-                "021145"
-            ]
-        },
-        "title": "021145",
-        "type": "episode",
-        "expiration_date": 1662350340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1292.73,
-        "episode_number": "8",
-        "original_air_date": 1559448000,
-        "auth_launch_date": 1644814800,
-        "clip_order": null,
-        "airing_id": "RADS1007222200014983",
-        "media_id": "84b9a8098925321581a0bab2765bfd7bfaf5e14f",
-        "modified": 1658535109,
-        "slug": "021145",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15592507484158.jpg",
-        "created": 1559157607,
-        "title_id": "2194666",
-        "season_number": "1",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1658535109,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658721600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15592507484158.jpg",
-        "id": "AWsFCQrdCorLtcgflqy3",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1649044740,
         "tms_id": "EP031416130009",
         "description": "As Emma steps down from moving the escape plan forward, a new shipment date is announced earlier than expected, and someone will get shipped before Ray.",
@@ -322,7 +275,7 @@
         "launch_date": 1661140800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_21331112567-PromisedNeverland2_002_Episode2.jpg",
         "id": "AXiI43q4BH5Z6gH5aWHX",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1652673540,
@@ -367,6 +320,51 @@
         "launch_date": 1661745600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311125235-PromisedNeverland2_003_Episode3.jpg",
         "id": "AXiI47qhBH5Z6gH5aWHY",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1653278340,
+        "tms_id": "",
+        "description": "Without warning, the shelter's phone begins to ring, echoing through the halls. Emma hesitantly answers and finds that it is William Minerva. Meanwhile, in an underground room at the farm headquarters, a deal is made\u2026",
+        "title_suggest": {
+            "input": [
+                "Episode 4",
+                "4"
+            ]
+        },
+        "title": "Episode 4",
+        "expiration_date": 1663559940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1273.6724,
+        "episode_number": "4",
+        "original_air_date": "1619933400",
+        "auth_launch_date": 1649649600,
+        "clip_order": null,
+        "airing_id": "RADS1009022200025683",
+        "media_id": "7860c32f00fd071960585b24666ed95c95caee42",
+        "modified": 1662148915,
+        "slug": "episode-4",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/1_213311125381-PromisedNeverland2_004_Episode4.jpg",
+        "created": 1617204344,
+        "season_number": "2",
+        "title_id": "2264535",
+        "tv_rating": "tv-14-v",
+        "published": 1662148915,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662350400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311125381-PromisedNeverland2_004_Episode4.jpg",
+        "id": "AXiI4_bxBH5Z6gH5aWHZ",
         "auth": false
     },
     {
