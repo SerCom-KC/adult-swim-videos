@@ -719,7 +719,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1452269460,
         "auth_expiration_date": 1665374340,
         "tms_id": "EP015632430010",
@@ -840,57 +840,6 @@
         "launch_date": 1598472033,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-lindsey-pelas/ericandre_HGOI_101_LindseyPelas.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446739980,
-        "auth_expiration_date": 1662350340,
-        "tms_id": "EP015632430004",
-        "rating": 7.450425,
-        "description": "Eric interviews Reese Witherspoon and Dr. Ordin.",
-        "title_suggest": {
-            "input": [
-                "Maxi"
-            ]
-        },
-        "type": "episode",
-        "title": "Maxi",
-        "expiration_date": 1659326340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 669.9676343,
-        "episode_number": "5",
-        "original_air_date": 1339993800,
-        "clip_order": null,
-        "auth_launch_date": 1659326400,
-        "modified": 1659140327,
-        "media_id": "06d2ec57cf77898627b3c5329576c82a0909312e",
-        "airing_id": "RADS1006232200009057",
-        "id": "Rtf_nqs_R3ucjjZsuwDV3g",
-        "slug": "maxi",
-        "views": 106480,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_203416915-ericandre_105_dup-20120910.jpg",
-        "created": 1402945479,
-        "title_id": "895953",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1659140327,
-        "tags": [],
-        "rating_count": 706,
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656302400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_203416915-ericandre_105_dup-20120910.jpg",
-        "cma_id": "1423374"
     },
     {
         "auth": false,
@@ -1428,5 +1377,61 @@
         "launch_date": 1661745600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341612237-ericandre_014_dup_20131023.jpg",
         "cma_id": "1463166"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446740220,
+        "auth_expiration_date": 1606971540,
+        "tms_id": "EP015632430015",
+        "rating": 7.719426,
+        "description": "Interviews with James Van Der Beek and Steve-O; Chef Rory Scovel; Special guest T-Pain.",
+        "title_suggest": {
+            "input": [
+                "James Van Der Beek / Steve-O",
+                "Van Der Beek / Steve-O",
+                "Der Beek / Steve-O",
+                "Beek / Steve-O",
+                "/ Steve-O",
+                "Steve-O"
+            ]
+        },
+        "type": "episode",
+        "title": "James Van Der Beek / Steve-O",
+        "expiration_date": 1665374340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 678.3003003,
+        "episode_number": "5",
+        "original_air_date": 1383280200,
+        "clip_order": null,
+        "auth_launch_date": 1603944000,
+        "modified": 1662146521,
+        "media_id": "2c0b1e210c969ac56647b8197d6c70ec76ca784b",
+        "airing_id": "RADS1009022200025664",
+        "id": "zrbmU4ZiQk6TbiXPn4Y9aA",
+        "slug": "james-van-der-beek-steve-o",
+        "views": 50272,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341612499-ericandre_015_dup_20131028.jpg",
+        "created": 1402945479,
+        "title_id": "2012283",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1662146521,
+        "tags": [],
+        "rating_count": 417,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662350400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341612499-ericandre_015_dup_20131028.jpg",
+        "cma_id": "1467498"
     }
 ]
