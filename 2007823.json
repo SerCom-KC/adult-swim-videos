@@ -1,55 +1,6 @@
 [
     {
         "ott_launch_date": 1447789500,
-        "auth_expiration_date": 1662436740,
-        "tms_id": "SH020223070000",
-        "description": "In a 1960s-era informercial for an electric vibrating salad tossing device that, unbeknownst to the host, might have a dual purpose.",
-        "title_suggest": {
-            "input": [
-                "The Salad Mixxxer",
-                "Salad Mixxxer",
-                "Mixxxer"
-            ]
-        },
-        "expiration_date": 1659412740,
-        "type": "episode",
-        "title": "The Salad Mixxxer",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 677.0333667,
-        "episode_number": "2",
-        "original_air_date": 1413273600,
-        "auth_launch_date": 1659412800,
-        "clip_order": null,
-        "media_id": "d87a882e506fe86786c6e9382e5d2bc3e1424c72",
-        "modified": 1661459463,
-        "airing_id": "RADS1007292200016865",
-        "slug": "the-salad-mixxxer",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509845082819.jpg",
-        "created": 1510605037,
-        "season_number": "4",
-        "title_id": "2007843",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1661459463,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656993600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509845082819.jpg",
-        "id": "AV-3E6AFwdpKFAKSbWZs",
-        "auth": true
-    },
-    {
-        "ott_launch_date": 1447789500,
         "auth_expiration_date": 1663646340,
         "tms_id": "SH020417690000",
         "description": "Sure, Newbridge, NJ is known as the muffler capital of the world but it's so much more than that. Learn about the fascinating often insane past and present of the town George Washington quickly decided against making the capital of the US.",
@@ -256,7 +207,7 @@
         "launch_date": 1660017600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150981959475.jpg",
         "id": "AV-3J1rFwdpKFAKSbWaw",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789140,
@@ -408,6 +359,50 @@
         "launch_date": 1661227200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092150501-infomercials_cc_UneditedFootageOfABear_pt1_1.jpg",
         "id": "AXRK4jtYSeFB2d0c38uP",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1646715540,
+        "tms_id": "EP027786570020",
+        "description": "A lazy janitor builds a robot to do his dirty work.",
+        "title_suggest": {
+            "input": [
+                "M.O.P.Z."
+            ]
+        },
+        "title": "M.O.P.Z.",
+        "expiration_date": 1664855940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 674.674,
+        "episode_number": "2",
+        "original_air_date": "1459843200",
+        "auth_launch_date": 1643691600,
+        "clip_order": null,
+        "airing_id": "RADS1009022200025737",
+        "media_id": "4efbd1397adb7db6e0ae5e60c008b3131d98f133",
+        "modified": 1662154321,
+        "slug": "m-o-p-z",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_20921511189-infomercials_mopz_1.jpg",
+        "created": 1598971995,
+        "season_number": "6",
+        "title_id": "2086423",
+        "tv_rating": "tv-14-lsv",
+        "published": 1662154321,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662436800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921511189-infomercials_mopz_1.jpg",
+        "id": "AXRKKGXYSeFB2d0c38uE",
         "auth": false
     },
     {

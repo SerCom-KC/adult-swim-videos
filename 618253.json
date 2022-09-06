@@ -106,52 +106,6 @@
         "cma_id": ""
     },
     {
-        "auth_expiration_date": 1662436740,
-        "tms_id": "EP007542790041",
-        "description": "Rooster escapes Spider from the World of Muck and finds himself in a desert with a well-armed Kid camping out. Peanut Cop and Golden Joe break out of prison on jet skis; Aria realizes that Professor Wilx is working for Shyd Industries.",
-        "title_suggest": {
-            "input": [
-                "Because They Could",
-                "They Could",
-                "Could"
-            ]
-        },
-        "title": "Because They Could",
-        "expiration_date": 1659412740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 675.5749,
-        "episode_number": "5",
-        "original_air_date": "1595649600",
-        "auth_launch_date": 1659412800,
-        "clip_order": null,
-        "airing_id": "RADS1007292200016852",
-        "media_id": "2e28469552fe89d78f023f7fb0199f36067138aa",
-        "modified": 1659147200,
-        "slug": "because-they-could",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_2071713376-12oz_305_dup-20200713.jpg",
-        "created": 1595005393,
-        "season_number": "3",
-        "title_id": "2224141",
-        "tv_rating": "tv-14-lv",
-        "published": 1659147200,
-        "tags": [],
-        "collection_title": "12 oz Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656388800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_2071713376-12oz_305_dup-20200713.jpg",
-        "id": "AXNduttzRs3h4hI_X4VX",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1663041540,
         "tms_id": "EP007542790042",
         "description": "Sirus, the Architect for the Box of Worlds, breaks ranks with Clock. Aria and Eyeball use a serum to kickstart Mouse's memory and he remembers working with them and helping to create the Box of Worlds.",
@@ -427,7 +381,60 @@
         "launch_date": 1659412800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171734139-12oz_310_dup-20200708.jpg",
         "id": "AXNeswbcC8QgH-t19KA0",
-        "auth": false
+        "auth": true
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451669460,
+        "auth_expiration_date": 1648526340,
+        "tms_id": "EP007542790004",
+        "rating": 7.66879,
+        "description": "Mouse Fitzgerald's old army buddy visits. He is now a wealthy TV minister, and offers Fitzgerald a job. The 12oz. Mouse turns it down after dishonest tactics are revealed.",
+        "title_suggest": {
+            "input": [
+                "Spider"
+            ]
+        },
+        "type": "episode",
+        "title": "Spider",
+        "expiration_date": 1665460740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 689.19,
+        "episode_number": "4",
+        "original_air_date": 1131341400,
+        "clip_order": null,
+        "auth_launch_date": 1645506000,
+        "modified": 1662151295,
+        "media_id": "759742a0056810533d355a3e7514e517f5ea2ce1",
+        "airing_id": "RADS1009022200025708",
+        "id": "Ibr0KinKTRyzD093JyjZBA",
+        "slug": "spider",
+        "views": 142702,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_20220115960-12oz_004_BIM_9318304.jpg",
+        "created": 1402945460,
+        "title_id": "618748",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1662151295,
+        "tags": [
+            "12 oz mouse episode 4 spider"
+        ],
+        "rating_count": 628,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662436800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220115960-12oz_004_BIM_9318304.jpg",
+        "cma_id": ""
     },
     {
         "auth": false,
