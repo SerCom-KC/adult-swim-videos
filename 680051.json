@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1444574340,
         "auth_expiration_date": 1665460740,
         "tms_id": "EP011016070018",
@@ -56,6 +56,57 @@
         "launch_date": 1659412800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331444189-delocated_211.jpg",
         "cma_id": "1423749"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1444574700,
+        "auth_expiration_date": 1650340740,
+        "tms_id": "EP011016070023",
+        "rating": 6.402174,
+        "description": "\"Jon\" takes David for a weekend in the country. Todd Barry gets engaged.",
+        "title_suggest": {
+            "input": [
+                "Camping"
+            ]
+        },
+        "type": "episode",
+        "title": "Camping",
+        "expiration_date": 1665460740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
+        "duration": 1304.0417014,
+        "episode_number": "4",
+        "original_air_date": 1330059600,
+        "clip_order": null,
+        "auth_launch_date": 1647316800,
+        "modified": 1662153387,
+        "media_id": "e3eb06b3eb071883aeffa7d8404e5087af174027",
+        "airing_id": "RADS1009022200025720",
+        "id": "9j8-EGp7QaSwSLbe4e5f5Q",
+        "slug": "camping",
+        "views": 70887,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331447209-delocated_304.jpg",
+        "created": 1402945463,
+        "title_id": "878911",
+        "season_number": "3",
+        "tv_rating": "tv-14-lv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1662153387,
+        "tags": [],
+        "rating_count": 92,
+        "collection_title": "Delocated",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662436800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331447209-delocated_304.jpg",
+        "cma_id": "1444482"
     },
     {
         "auth": true,
@@ -280,67 +331,6 @@
         "launch_date": 1661227200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331446349-delocated_302.jpg",
         "cma_id": "1436101"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1444574220,
-        "auth_expiration_date": 1662436740,
-        "tms_id": "EP011016070013",
-        "rating": 8.657346,
-        "description": "A mole is discovered in the witness protection decoy program.",
-        "title_suggest": {
-            "input": [
-                "Mole"
-            ]
-        },
-        "type": "episode",
-        "title": "Mole",
-        "expiration_date": 1659412740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
-        "duration": 1352.6339673,
-        "episode_number": "6",
-        "original_air_date": 1285300800,
-        "clip_order": null,
-        "auth_launch_date": 1659412800,
-        "modified": 1659147201,
-        "media_id": "08b73736da346244d31262ce04bb1d24d752fb14",
-        "airing_id": "RADS1007292200016842",
-        "id": "biPiaNiaQPq_CaPQNbQSsQ",
-        "slug": "mole",
-        "views": 228715,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331436536-delocated_206.jpg",
-        "created": 1402945463,
-        "title_id": "811364",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1659147201,
-        "tags": [
-            "Delocated",
-            "Jon Glaser",
-            "Ski Mask",
-            "Witness Protection Program",
-            "Mole",
-            "Jon",
-            "Rob",
-            "FBI",
-            "Susan"
-        ],
-        "rating_count": 429,
-        "collection_title": "Delocated",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656388800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331436536-delocated_206.jpg",
-        "cma_id": "1403859"
     },
     {
         "auth": true,
