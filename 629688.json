@@ -360,57 +360,6 @@
         "cma_id": "972791"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447173120,
-        "auth_expiration_date": 1662523140,
-        "tms_id": "EP007959510037",
-        "rating": 8.044871,
-        "description": "Bloberta ponders Orel's question: \"Why did you marry Dad?\"",
-        "title_suggest": {
-            "input": [
-                "Help"
-            ]
-        },
-        "type": "episode",
-        "title": "Help",
-        "expiration_date": 1659499140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 704.4337671,
-        "episode_number": "7",
-        "original_air_date": 1225862100,
-        "clip_order": null,
-        "auth_launch_date": 1659499200,
-        "modified": 1659277038,
-        "media_id": "4ebd4207ba98dccf159b01eb5d68e9379f7ca5af",
-        "airing_id": "RADS1006232200009171",
-        "id": "DJWekYSPQSWR-P4PHUMc9A",
-        "slug": "help",
-        "views": 224253,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311167346-moralorel_039.jpg",
-        "created": 1402945470,
-        "title_id": "723834",
-        "season_number": "3",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1659277038,
-        "tags": [],
-        "rating_count": 624,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656475200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311167346-moralorel_039.jpg",
-        "cma_id": "1461975"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447171260,
         "auth_expiration_date": 1641358740,
@@ -687,7 +636,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447173240,
         "auth_expiration_date": 1665547140,
         "tms_id": "EP007959510042",
@@ -738,6 +687,59 @@
         "launch_date": 1659499200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311169140-moralorel_046.jpg",
         "cma_id": "723839"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447171380,
+        "auth_expiration_date": 1642568340,
+        "tms_id": "EP007959510002",
+        "rating": 8.125999,
+        "description": "When Reverend Putty preaches the righteousness of helping the poor, Orel befriends a down-and-out crack dealer.",
+        "title_suggest": {
+            "input": [
+                "Charity"
+            ]
+        },
+        "type": "episode",
+        "title": "Charity",
+        "expiration_date": 1665547140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 693.5005005,
+        "episode_number": "3",
+        "original_air_date": 1139202000,
+        "clip_order": null,
+        "auth_launch_date": 1639544400,
+        "modified": 1662155516,
+        "media_id": "130509322d35826b736f861be90dc07102e19721",
+        "airing_id": "RADS1009022200025757",
+        "id": "Y-wDkaWFT1upgydtGlE_tQ",
+        "slug": "charity",
+        "views": 241128,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111551249-moralorel_003.jpg",
+        "created": 1402945470,
+        "title_id": "630820",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1662155516,
+        "tags": [
+            "moral orel episode 3 charity drugs crack dealer"
+        ],
+        "rating_count": 865,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662523200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551249-moralorel_003.jpg",
+        "cma_id": "1319108"
     },
     {
         "auth": true,

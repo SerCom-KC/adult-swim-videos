@@ -147,7 +147,7 @@
         "cma_id": "1389768"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446738540,
         "auth_expiration_date": 1665547140,
         "tms_id": "EP013120360019",
@@ -248,6 +248,58 @@
         "launch_date": 1661313600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341552322-eagleheart_207_bim.jpg",
         "cma_id": "1406460"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446738720,
+        "auth_expiration_date": 1648007940,
+        "tms_id": "EP013120360024",
+        "rating": 8.323077,
+        "description": "The Marshals are called to the woods to quell tensions between loggers and some local activists. They uncover a lot more than you were expecting.",
+        "title_suggest": {
+            "input": [
+                "Old Gary",
+                "Gary"
+            ]
+        },
+        "type": "episode",
+        "title": "Old Gary",
+        "expiration_date": 1665547140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 682.7007007,
+        "episode_number": "12",
+        "original_air_date": 1340942400,
+        "clip_order": null,
+        "auth_launch_date": 1644987600,
+        "modified": 1662156697,
+        "media_id": "aeb2e9bf9e5db0ae4208e739da36e8e910d85771",
+        "airing_id": "RADS1009022200025763",
+        "id": "WPjwdo6BR7Se3B6_AYqFWw",
+        "slug": "old-gary",
+        "views": 19229,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341553176-eagleheart_204_bim.jpg",
+        "created": 1402945464,
+        "title_id": "892260",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1662156697,
+        "tags": [],
+        "rating_count": 65,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662523200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341553176-eagleheart_204_bim.jpg",
+        "cma_id": "1414775"
     },
     {
         "auth": false,
@@ -355,59 +407,6 @@
         "launch_date": 1657080000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341549386-eagleheart_202_bim.jpg",
         "cma_id": "1378541"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446738360,
-        "auth_expiration_date": 1662523140,
-        "tms_id": "EP013120360014",
-        "rating": 7.604651,
-        "description": "Brett's cherished bezoar turns out to be more than he bargained for.",
-        "title_suggest": {
-            "input": [
-                "Bringing Up Beezor",
-                "Up Beezor",
-                "Beezor"
-            ]
-        },
-        "type": "episode",
-        "title": "Bringing Up Beezor",
-        "expiration_date": 1659499140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 676.2669336,
-        "episode_number": "2",
-        "original_air_date": 1334894400,
-        "clip_order": null,
-        "auth_launch_date": 1659499200,
-        "modified": 1662218048,
-        "media_id": "55465e2ac41f4fb15b41b1fba377aa86ec4b471a",
-        "airing_id": "RADS1007292200016883",
-        "id": "fJDgR6kcR72usddjQRtZLw",
-        "slug": "bringing-up-beezor",
-        "views": 13565,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341549180-eagleheart_205_bim.jpg",
-        "created": 1402945464,
-        "title_id": "892250",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1662218048,
-        "tags": [],
-        "rating_count": 43,
-        "collection_title": "Eagleheart",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656475200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341549180-eagleheart_205_bim.jpg",
-        "cma_id": "1373616"
     },
     {
         "auth": false,
