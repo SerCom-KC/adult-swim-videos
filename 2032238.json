@@ -49,6 +49,58 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1641963540,
+        "tms_id": "EP020020000067",
+        "description": "White Privilege turns on itself.",
+        "title_suggest": {
+            "input": [
+                "The Gift That Keeps on Giving",
+                "Gift That Keeps on Giving",
+                "That Keeps on Giving",
+                "Keeps on Giving",
+                "on Giving",
+                "Giving"
+            ]
+        },
+        "title": "The Gift That Keeps on Giving",
+        "expiration_date": 1665547140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 654.3871,
+        "episode_number": "11",
+        "original_air_date": 1578891600,
+        "auth_launch_date": 1635912000,
+        "clip_order": null,
+        "media_id": "50ac448b71a5f12fd1634469fa819a0678cbd4a5",
+        "modified": 1662156685,
+        "airing_id": "RADS1009022200025780",
+        "slug": "the-gift-that-keeps-on-giving",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200102/thumbnails/1_2012920437-miketysonmysteries_412.jpg",
+        "created": 1577974860,
+        "season_number": "4",
+        "title_id": "2172009",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1662156685,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662523200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200102/thumbnails/2_2012920437-miketysonmysteries_412.jpg",
+        "id": "AW9moYkTGRcVO2K2pl_I",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "",
@@ -390,7 +442,7 @@
         "launch_date": 1659499200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15629589008057.jpg",
         "id": "AWvjwjydCorLtcgflsBq",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -649,53 +701,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654555-miketysonmysteries_410_dup-20190710.jpg",
         "id": "AWwq6mDd4aLemgzOLGDM",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1662523140,
-        "tms_id": "EP020020000046",
-        "description": "A woman, Carol, receives gifts from a secret admirer at her work.",
-        "title_suggest": {
-            "input": [
-                "Carol"
-            ]
-        },
-        "title": "Carol",
-        "type": "episode",
-        "expiration_date": 1656475140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 676.46,
-        "episode_number": "16",
-        "original_air_date": 1523849400,
-        "clip_order": null,
-        "auth_launch_date": 1656475200,
-        "modified": 1656055466,
-        "media_id": "fbd960f5f02e9152158e7c19f478e41639f1f0ce",
-        "airing_id": "RADS1006232200009137",
-        "id": "EgZIR4gdQCCaBRodavWPKw",
-        "slug": "carol",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111536220-miketysonmysteries_314.jpg",
-        "created": 1494260029,
-        "season_number": "3",
-        "title_id": "2117697",
-        "tv_rating": "tv-14-dls",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1656055466,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1653451200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111536220-miketysonmysteries_314.jpg",
-        "cma_id": ""
     },
     {
         "auth": true,
