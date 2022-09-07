@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783740,
         "auth_expiration_date": 1665547140,
         "tms_id": "EP008994530003",
@@ -49,57 +49,6 @@
         "launch_date": 1659499200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161619394-timanderic_103.jpg",
         "cma_id": "1466579"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447785000,
-        "auth_expiration_date": 1662523140,
-        "tms_id": "EP008994530050",
-        "rating": 8.877703,
-        "description": "Tairy Greene stars in Little Dancin' Man, not to be confused with Little Danson Man. (Guest starring: LeVar Burton, Peter Cetera, David Cross, Ted Danson, Zach Galifianakis, Richard Marx)",
-        "title_suggest": {
-            "input": [
-                "Greene Machine",
-                "Machine"
-            ]
-        },
-        "type": "episode",
-        "title": "Greene Machine",
-        "expiration_date": 1659499140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 680.51,
-        "episode_number": "6",
-        "original_air_date": 1272256200,
-        "clip_order": null,
-        "auth_launch_date": 1659499200,
-        "modified": 1659277952,
-        "media_id": "da118c4e386ccae6c17ff53f316ee553d40e22ae",
-        "airing_id": "RADS1006232200009156",
-        "id": "5vHhJDltSeyiEV10n9UDjw",
-        "slug": "greene-machine",
-        "views": 381717,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161648290-timanderic_506.jpg",
-        "created": 1402945481,
-        "title_id": "787512",
-        "season_number": "5",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1659277952,
-        "tags": [],
-        "rating_count": 1987,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656475200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161648290-timanderic_506.jpg",
-        "cma_id": "1432177"
     },
     {
         "auth": false,
@@ -596,6 +545,59 @@
         "launch_date": 1660708800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620131-timanderic_105.jpg",
         "cma_id": "1477435"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783860,
+        "auth_expiration_date": 1637729940,
+        "tms_id": "EP008994530010",
+        "rating": 5.9164257,
+        "description": "SPECIAL: It's the celebratory 50th Anniversary Show of Tim and Eric's Awesome Show Great Job.\r\n(Bob Odenkirk, Tom Kenny guest star)",
+        "title_suggest": {
+            "input": [
+                "Anniversary"
+            ]
+        },
+        "type": "episode",
+        "title": "Anniversary",
+        "expiration_date": 1665547140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 705.001,
+        "episode_number": "9",
+        "original_air_date": 1175485500,
+        "clip_order": null,
+        "auth_launch_date": 1634702400,
+        "modified": 1662156687,
+        "media_id": "80041c60e56c1e48b97e781943a4f01f3a50fc1e",
+        "airing_id": "RADS1009022200025767",
+        "id": "kjdm7l1yTdSv3_bkpVN3tw",
+        "slug": "anniversary",
+        "views": 348550,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161621200-timanderic_109.jpg",
+        "created": 1402945481,
+        "title_id": "663089",
+        "tv_rating": "tv-14-l",
+        "season_number": "1",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1662156687,
+        "tags": [
+            "tim eric awesome show great job episode 9 anniversary 50th celebration special"
+        ],
+        "rating_count": 4164,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662523200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161621200-timanderic_109.jpg",
+        "cma_id": "663089"
     },
     {
         "auth": false,
