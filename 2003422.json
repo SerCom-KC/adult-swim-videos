@@ -1,54 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1662609540,
-        "tms_id": "EP012792980148",
-        "description": "After forgetting that they signed up Louise for a soccer league, the Belchers must help her prepare to play in the season's last game. Linda and Gene seize the opportunity to turn the restaurant into a piano bar.",
-        "title_suggest": {
-            "input": [
-                "The Hurt Soccer",
-                "Hurt Soccer",
-                "Soccer"
-            ]
-        },
-        "title": "The Hurt Soccer",
-        "expiration_date": 1655092740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1297.4,
-        "episode_number": "12",
-        "original_air_date": 1547433000,
-        "auth_launch_date": 1662004800,
-        "clip_order": null,
-        "media_id": "34b4c11d7e396d93de7cb86eaf7159ad41d7e738",
-        "modified": 1661794513,
-        "airing_id": "RADS1008292200023186",
-        "slug": "the-hurt-soccer",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15472246473535.jpg",
-        "created": 1544215326,
-        "season_number": "8",
-        "title_id": "2171452",
-        "tv_rating": "tv-pg",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1661794513,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1654488000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15472246473535.jpg",
-        "id": "AWeKZ_BMqD68dq0Op5x5",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1662782340,
         "tms_id": "EP012792980152",
         "description": "The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods.",
@@ -607,6 +559,55 @@
         "launch_date": 1662350400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276715684815.jpg",
         "cma_id": "2003519"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1663214340,
+        "tms_id": "EP012792980001",
+        "description": "Bob rallies the team to cook up some business for Grand Re-Re-Re-Opening of Bob's Burgers, sending middle child Gene to push samples in the streets, eldest daughter Tina to work the grill and youngest daughter Louise to staff the counter. The day takes an unexpected turn when the health inspector pays a visit because of a little rumor Louise started during \"show and tell\" at school.",
+        "title_suggest": {
+            "input": [
+                "Human Flesh",
+                "Flesh"
+            ]
+        },
+        "title": "Human Flesh",
+        "type": "episode",
+        "expiration_date": 1657511940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.9563,
+        "episode_number": "1",
+        "original_air_date": 1372042800,
+        "clip_order": null,
+        "auth_launch_date": 1662609600,
+        "modified": 1662225780,
+        "media_id": "0921a95256111066eaef455e1148a955ae22f682",
+        "airing_id": "RADS1009022200025794",
+        "id": "g14uqnD3RnOF-R_kqpxrtA",
+        "slug": "human-flesh",
+        "views": 8319,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15208876447797.jpg",
+        "created": 1402287629,
+        "title_id": "2003423",
+        "tv_rating": "tv-14",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1662225780,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1656907200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg",
+        "cma_id": "1488905"
     },
     {
         "auth": false,
