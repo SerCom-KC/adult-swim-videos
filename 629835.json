@@ -59,6 +59,67 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1663214340,
+        "tms_id": "EP002070020088",
+        "rating": 8.080646,
+        "description": "As election day approaches...Hank has second thoughts about voting for George W. Bush; Luanne supports a Communist.",
+        "title_suggest": {
+            "input": [
+                "The Perils of Polling",
+                "Perils of Polling",
+                "of Polling",
+                "Polling"
+            ]
+        },
+        "type": "episode",
+        "title": "The Perils of Polling",
+        "expiration_date": 1504236599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1399.765,
+        "episode_number": "1",
+        "original_air_date": 1232249400,
+        "auth_launch_date": 1662609600,
+        "clip_order": null,
+        "modified": 1662558387,
+        "media_id": "979fe3253b655d8e187c3d973bf6c0fee71b57b2",
+        "airing_id": "RADS1009022200025979",
+        "id": "ImZdlO9DTBagX5EjRavXvQ",
+        "slug": "the-perils-of-polling",
+        "views": 274428,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/1_22961355440-KingOfTheHill_502_ThePerilsOfPolling.png",
+        "created": 1402945468,
+        "title_id": "731328",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1662558387,
+        "tags": [
+            "the perils of polling",
+            " election day",
+            " hank",
+            " george w bush",
+            " luanne",
+            " vote",
+            " communist"
+        ],
+        "rating_count": 310,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1503631800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961355440-KingOfTheHill_502_ThePerilsOfPolling.png",
+        "cma_id": "1459326"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1662868740,
         "tms_id": "EP002070020086",
         "rating": 6.647059,
@@ -214,59 +275,5 @@
         "launch_date": 1503372600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028750075011.jpg",
         "cma_id": "1456393"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1662609540,
-        "tms_id": "EP002070020083",
-        "rating": 7.4237285,
-        "description": "Bobby tours with a comedy troupe specializing in jokes about all things propane.",
-        "title_suggest": {
-            "input": [
-                "Meet the Propaniacs",
-                "the Propaniacs",
-                "Propaniacs"
-            ]
-        },
-        "type": "episode",
-        "title": "Meet the Propaniacs",
-        "expiration_date": 1503890999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1397.8298,
-        "episode_number": "20",
-        "original_air_date": 1240972200,
-        "auth_launch_date": 1662004800,
-        "clip_order": null,
-        "modified": 1661802358,
-        "media_id": "00843f6886821cc87f615872d324fadf6db19d4f",
-        "airing_id": "RADS1008292200023222",
-        "id": "hPxUQA9XRy6n7xbYayQ5nQ",
-        "slug": "meet-the-propaniacs",
-        "views": 33792,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/1_228291545355-KingOfTheHill_417_MeetThePropaniacs.png",
-        "created": 1402945468,
-        "title_id": "731323",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1661802358,
-        "tags": [
-            "king of the hill koth episode 417 meet the propaniacs propane jokes comedy stand up bobby tour"
-        ],
-        "rating_count": 59,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": 1503286200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_228291545355-KingOfTheHill_417_MeetThePropaniacs.png",
-        "cma_id": "1456655"
     }
 ]
