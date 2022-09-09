@@ -2,63 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1662695940,
-        "tms_id": "EP002070020084",
-        "rating": 8.142126,
-        "description": "John Redcorn becomes the odd man out when Dale and Nancy begin \"dating.\"",
-        "title_suggest": {
-            "input": [
-                "Nancy Boys",
-                "Boys"
-            ]
-        },
-        "type": "episode",
-        "title": "Nancy Boys",
-        "expiration_date": 1503892799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1406.1381,
-        "episode_number": "21",
-        "original_air_date": 1241143200,
-        "auth_launch_date": 1662091200,
-        "clip_order": null,
-        "modified": 1661854120,
-        "media_id": "13d54cc6710f35334b7664c9d9464c55169517a3",
-        "airing_id": "RADS1008292200023867",
-        "id": "HPEl-t6RQnWKkDYuGvTApw",
-        "slug": "nancy-boys",
-        "views": 146653,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187087432789.jpg",
-        "created": 1402945468,
-        "title_id": "731324",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1661854120,
-        "tags": [
-            "king of the hill",
-            " nancy boys",
-            " john redcorn",
-            " dale",
-            " nancy",
-            " date",
-            " dating"
-        ],
-        "rating_count": 394,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503288000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187087432789.jpg",
-        "cma_id": "1456100"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1663214340,
         "tms_id": "EP002070020088",
         "rating": 8.080646,
@@ -275,5 +218,64 @@
         "launch_date": 1503372600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028750075011.jpg",
         "cma_id": "1456393"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1663300740,
+        "tms_id": "EP002070020089",
+        "rating": 8.146106,
+        "description": "When Bobby begins caddying for Buck Strickland, some of Buck's bad habits rub off on the boy...much to Hank's dismay.",
+        "title_suggest": {
+            "input": [
+                "The Buck Stops Here",
+                "Buck Stops Here",
+                "Stops Here",
+                "Here"
+            ]
+        },
+        "type": "episode",
+        "title": "The Buck Stops Here",
+        "expiration_date": 1504322999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.1958,
+        "episode_number": "2",
+        "original_air_date": 1232247600,
+        "auth_launch_date": 1662696000,
+        "clip_order": null,
+        "modified": 1662487039,
+        "media_id": "4a1297517fa184ca789bb8cdf582f9e4d1174de7",
+        "airing_id": "RADS1009022200025891",
+        "id": "mwZsU2_oShCXRPmFupVQOg",
+        "slug": "the-buck-stops-here",
+        "views": 292467,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/1_22961356557-KingOfTheHill_501_TheBuckStopsHere.png",
+        "created": 1402945468,
+        "title_id": "731329",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1662487039,
+        "tags": [
+            "the buck stops here",
+            " bobby",
+            " caddy",
+            " buck strickland",
+            " bad habits",
+            " boy",
+            " hank",
+            " dismay"
+        ],
+        "rating_count": 308,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1503718200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961356557-KingOfTheHill_501_TheBuckStopsHere.png",
+        "cma_id": "1459650"
     }
 ]
