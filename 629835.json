@@ -63,6 +63,69 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1663387140,
+        "tms_id": "EP002070020090",
+        "rating": 8.959594,
+        "description": "\"...for Our Lives To Be Over, I Want To Know...\" A rift develops between Bobby and Joseph when Joseph returns from summer camp very much a man; Hank builds coffins for his family.",
+        "title_suggest": {
+            "input": [
+                "I Don't Want to Wait...",
+                "Don't Want to Wait...",
+                "Want to Wait...",
+                "to Wait...",
+                "Wait..."
+            ]
+        },
+        "type": "episode",
+        "title": "I Don't Want to Wait...",
+        "expiration_date": 1504441799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.1958,
+        "episode_number": "3",
+        "original_air_date": 1241316000,
+        "auth_launch_date": 1662782400,
+        "clip_order": null,
+        "modified": 1662613853,
+        "media_id": "3050b138315ded66dc78da3bb76a01327b148172",
+        "airing_id": "RADS1009082200026124",
+        "id": "VVeBjxGgSp6b4ciWJLleIQ",
+        "slug": "i-dont-want-to-wait",
+        "views": 105892,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151931835778212.jpg",
+        "created": 1402945468,
+        "title_id": "731330",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1662613853,
+        "tags": [
+            "I Don't Want to Wait for Our Lives To Be Over",
+            " I Want To Know",
+            " King of the Hill",
+            " Adult Swim",
+            " video",
+            " funny",
+            " Mike Judge",
+            " Hank",
+            " Peggy",
+            " Bobby"
+        ],
+        "rating_count": 99,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503837000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151931835778212.jpg",
+        "cma_id": "1460512"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1662868740,
         "tms_id": "EP002070020086",
         "rating": 6.647059,
@@ -166,58 +229,6 @@
         "launch_date": 1503545400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961354345-KingOfTheHill_423_PeggysFanFair.png",
         "cma_id": "1458825"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1662782340,
-        "tms_id": "EP002070020085",
-        "rating": 8.664184,
-        "description": "Hank becomes a zoning board member in his bid to strike down a local ordinance prohibiting the use of \"high-flo\" toilets during a drought.",
-        "title_suggest": {
-            "input": [
-                "Flush with Power",
-                "with Power",
-                "Power"
-            ]
-        },
-        "type": "episode",
-        "title": "Flush with Power",
-        "expiration_date": 1503977399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1397.1958,
-        "episode_number": "22",
-        "original_air_date": 1241229600,
-        "clip_order": null,
-        "auth_launch_date": 1662177600,
-        "modified": 1661855320,
-        "media_id": "38d3fab239d01e76f8382fcf963c072dead9c2e4",
-        "airing_id": "RADS1008292200023903",
-        "id": "f_OHjr29QUWkhduluSYouQ",
-        "slug": "flush-with-power",
-        "views": 416178,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152028750075011.jpg",
-        "created": 1402945468,
-        "title_id": "731325",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1661855320,
-        "tags": [
-            "King of the Hill Episode 422 Flush with power"
-        ],
-        "rating_count": 536,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503372600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028750075011.jpg",
-        "cma_id": "1456393"
     },
     {
         "auth": true,
