@@ -1,6 +1,48 @@
 [
     {
         "auth": true,
+        "auth_expiration_date": 1663473540,
+        "tms_id": "EP002070020091",
+        "description": "As Thanksgiving approaches, Redcorn attempts to reestablish his relationship with Joseph; Bobby rejects the holiday; Peggy invents her own game.",
+        "title_suggest": {
+            "input": [
+                "Spin the Choice",
+                "the Choice",
+                "Choice"
+            ]
+        },
+        "title": "Spin the Choice",
+        "type": "episode",
+        "expiration_date": 1504443599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1400.5325,
+        "episode_number": "4",
+        "original_air_date": 1232420400,
+        "auth_launch_date": 1662868800,
+        "modified": 1662617514,
+        "media_id": "3176ccdf0d074809c3b2fad89e151e92242e6baa",
+        "airing_id": "RADS1009082200026163",
+        "id": "4Yzvo_whTrC18scwPz5LtA",
+        "slug": "spin-the-choice",
+        "views": 4619,
+        "created": 1417144828,
+        "title_id": "731331",
+        "tv_rating": "tv-pg",
+        "season_number": "5",
+        "published": 1662617514,
+        "first_published": 1417144828,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1503838800,
+        "cma_id": "1460470"
+    },
+    {
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1663214340,
         "tms_id": "EP002070020088",
@@ -122,62 +164,6 @@
         "launch_date": 1503837000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151931835778212.jpg",
         "cma_id": "1460512"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1662868740,
-        "tms_id": "EP002070020086",
-        "rating": 6.647059,
-        "description": "A fetishist videotapes Peggy's abnormally large feet and distributes the footage on the Internet.",
-        "title_suggest": {
-            "input": [
-                "Transnational Amusements Presents: Peggy's Magic Sex Feet",
-                "Amusements Presents: Peggy's Magic Sex Feet",
-                "Presents: Peggy's Magic Sex Feet",
-                "Peggy's Magic Sex Feet",
-                "Magic Sex Feet",
-                "Sex Feet",
-                "Feet"
-            ]
-        },
-        "type": "episode",
-        "title": "Transnational Amusements Presents: Peggy's Magic Sex Feet",
-        "expiration_date": 1504063799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1397.2292,
-        "episode_number": "23",
-        "original_air_date": 1241145000,
-        "clip_order": null,
-        "auth_launch_date": 1662264000,
-        "modified": 1661856202,
-        "media_id": "a2b1ca29712a37c5d4fa577f31f961ebc9e70566",
-        "airing_id": "RADS1008292200023908",
-        "id": "X41j_fKESZqjjEsdpL2Qeg",
-        "slug": "transnational-amusements-presents-peggys-magic-sex-feet",
-        "views": 101751,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187085445332.jpg",
-        "created": 1402945468,
-        "title_id": "731326",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1661856202,
-        "tags": [
-            "King of the Hill Episode 421 Transnational Amusements Presents Peggy's Magic Sex Feet"
-        ],
-        "rating_count": 221,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503459000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187085445332.jpg",
-        "cma_id": "1456833"
     },
     {
         "auth": true,
