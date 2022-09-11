@@ -561,7 +561,7 @@
         "launch_date": 1662282000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891347164-OnePiece_573_FinallyTimeToGoGoodbyeFishManIsland.png",
         "id": "AYKDt_UJ3sQvipyea9wf",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1666583940,
@@ -914,6 +914,59 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_228291550260-OnePiece_579_ArrivingABurningIslandPunkHazard.png",
         "id": "AYLqmFfB3sQvipyea-B0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1664701140,
+        "tms_id": "EP022794030003",
+        "description": "Luffy gets up close and personal with a torso-less Samurai! Elsewhere, Nami, Sanji, Chopper, and Franky find themselves imprisoned with the pieces of a human face!",
+        "title_suggest": {
+            "input": [
+                "The Straw Hats Stunned! Enter: A Samurai's Horrifying Severed Head!",
+                "Straw Hats Stunned! Enter: A Samurai's Horrifying Severed Head!",
+                "Hats Stunned! Enter: A Samurai's Horrifying Severed Head!",
+                "Stunned! Enter: A Samurai's Horrifying Severed Head!",
+                "Enter: A Samurai's Horrifying Severed Head!",
+                "A Samurai's Horrifying Severed Head!",
+                "Samurai's Horrifying Severed Head!",
+                "Horrifying Severed Head!",
+                "Severed Head!",
+                "Head!"
+            ]
+        },
+        "title": "The Straw Hats Stunned! Enter: A Samurai's Horrifying Severed Head!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.2643,
+        "episode_number": "3",
+        "original_air_date": "1662874200",
+        "auth_launch_date": 1662886800,
+        "clip_order": null,
+        "airing_id": "RADS1009082200026194",
+        "media_id": "8e51922192b1628aaab4c4c10f287438f066797f",
+        "modified": 1662732073,
+        "slug": "the-straw-hats-stunned-enter-a-samurais-horrifying-severed-head",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/1_22961536108-OnePiece_581_TheStrawHatsStunnedEnterASamuraisHorrifyingSeveredHead.png",
+        "created": 1662492982,
+        "season_number": "16",
+        "title_id": "2402473",
+        "tv_rating": "tv-pg",
+        "published": 1662732073,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961536108-OnePiece_581_TheStrawHatsStunnedEnterASamuraisHorrifyingSeveredHead.png",
+        "id": "AYMUTb3Q3sQvipyea-H7",
         "auth": true
     }
 ]
