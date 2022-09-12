@@ -223,5 +223,56 @@
         "launch_date": 1598302804,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153246526573711.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1499707800,
+        "auth_expiration_date": null,
+        "tms_id": "EP025439190006",
+        "description": "Apollo finally has the opportunity to return to Earth. But before leaving, he risks everything by visiting Daphne to convince her to follow her true destiny.",
+        "title_suggest": {
+            "input": [
+                "Bellenus Blade",
+                "Blade"
+            ]
+        },
+        "title": "Bellenus Blade",
+        "type": "episode",
+        "expiration_date": 2085368400,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "nk_Tiu7KS7GklR1-htTKsw",
+        "duration": 674.83,
+        "episode_number": "6",
+        "original_air_date": 1502684100,
+        "clip_order": null,
+        "auth_launch_date": null,
+        "modified": 1662946292,
+        "media_id": "8622563b873b315f1f8a80d546df22b070765f24",
+        "airing_id": "RADS1004241900085348",
+        "id": "yZb9ars1QQyvOXTURAx5UA",
+        "slug": "bellenus-blade",
+        "views": 4680,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_2022415577-apollogauntlet_106_air_cid-35NXM.jpg",
+        "created": 1499367927,
+        "season_number": "1",
+        "title_id": "2120624",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1662946292,
+        "first_published": 1499367927,
+        "tags": [],
+        "collection_title": "Apollo Gauntlet",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1556510400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_2022415577-apollogauntlet_106_air_cid-35NXM.jpg",
+        "cma_id": ""
     }
 ]
