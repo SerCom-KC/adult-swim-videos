@@ -1,1 +1,115 @@
-[]
+[
+    {
+        "ott_launch_date": 1529937060,
+        "auth_expiration_date": null,
+        "tms_id": "SH025438800000",
+        "description": "Come to Mr. Neighbor\u2019s 31st Annual 5th birthday Party! There are puppets, songs, hallucinations, dark personal demons! But what if his birthday wish doesn\u2019t come true?",
+        "title_suggest": {
+            "input": [
+                "Mr. Neighbor's House",
+                "Neighbor's House",
+                "House"
+            ]
+        },
+        "expiration_date": 2082690000,
+        "type": "episode",
+        "title": "Mr. Neighbor's House",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWPf95M4qBveI_0AhKcA",
+        "duration": 1260.33,
+        "episode_number": "1",
+        "original_air_date": 1480741200,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "6652948515c211748273e8350785e80ac41730f4",
+        "modified": 1662947289,
+        "airing_id": "RADS1009122200026785",
+        "slug": "mr-neighbors-house",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15284712486098.jpg",
+        "created": 1528471255,
+        "season_number": "1",
+        "title_id": "2099509",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1662947289,
+        "tags": [
+            "Mr. Neighbor",
+            "Mr. Neighbor's",
+            "Birthday",
+            "Neighborton",
+            "Mr. Rogers"
+        ],
+        "collection_title": "Mr. Neighbor's House",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662955200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284712486098.jpg",
+        "id": "AWPf_HreqBveI_0AhKcB",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1529937060,
+        "auth_expiration_date": null,
+        "tms_id": "SH029827960000",
+        "description": "Mr. Neighbor learns the importance of telling the truth. But only when he tells the whole truth can he open the Secret Door and save Neighborton! Join him in this surreal David Lynch meets Mr. Rogers parody of children's television.",
+        "title_suggest": {
+            "input": [
+                "Mr. Neighbor's House 2",
+                "Neighbor's House 2",
+                "House 2",
+                "2"
+            ]
+        },
+        "expiration_date": 2082690000,
+        "type": "episode",
+        "title": "Mr. Neighbor's House 2",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWPf95M4qBveI_0AhKcA",
+        "duration": 1346,
+        "episode_number": "2",
+        "original_air_date": 1529899200,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "media_id": "81e5f0dc6b2b259d0add16d4ebc7761032040a2c",
+        "modified": 1662947288,
+        "airing_id": "RADS1009122200026786",
+        "slug": "mr-neighbors-house-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15296823300191.jpg",
+        "created": 1529682282,
+        "season_number": "1",
+        "title_id": "2161881",
+        "tv_rating": "tv-14-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1662947288,
+        "tags": [
+            "Mr. Neighbor",
+            "Mr. Neighbor's",
+            "Secret Door",
+            "Neighborton",
+            "Mr. Rogers"
+        ],
+        "collection_title": "Mr. Neighbor's House",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662955200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15296823300191.jpg",
+        "id": "AWQoK0ktqBveI_0AhKp6",
+        "auth": false
+    }
+]
