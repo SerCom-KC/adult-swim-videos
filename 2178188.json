@@ -594,55 +594,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1555943400,
-        "auth_expiration_date": 1662955140,
-        "tms_id": "EP031867090005",
-        "description": "We good!",
-        "title_suggest": {
-            "input": [
-                "We GO0D!",
-                "GO0D!"
-            ]
-        },
-        "title": "We GO0D!",
-        "expiration_date": 1659931140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWl9msNHAScUIg8XxeCA",
-        "duration": 685.88,
-        "episode_number": "5",
-        "original_air_date": 1555905600,
-        "auth_launch_date": 1659931200,
-        "clip_order": null,
-        "media_id": "6e772801c20b73455428100ba2173f847cdf5587",
-        "modified": 1659723634,
-        "airing_id": "RADS1008052200019929",
-        "slug": "we-go-0-d",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15556108755692.jpg",
-        "created": 1555610901,
-        "season_number": "1",
-        "title_id": "2178193",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1659723634,
-        "tags": [],
-        "collection_title": "Lazor Wulf",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656907200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15556108755692.jpg",
-        "id": "AWoxopyyHl5gR6828zRk",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1556548200,
         "auth_expiration_date": 1664769540,
         "tms_id": "EP031867090008",
@@ -843,7 +794,7 @@
         "launch_date": 1659931200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155681985223916.jpg",
         "id": "AWpvp3VKAScUIg8XxfVq",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1654487940,
@@ -1032,6 +983,51 @@
         "launch_date": 1662350400,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241040101-LazorWulf_204_dup-20201001_EndIsHigh.jpg",
         "id": "AXX66ZR8LyLQBOXK_Pri",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1656907140,
+        "tms_id": "",
+        "description": "We Good?",
+        "title_suggest": {
+            "input": [
+                "We Good?",
+                "Good?"
+            ]
+        },
+        "title": "We Good?",
+        "expiration_date": 1665892740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWl9msNHAScUIg8XxeCA",
+        "duration": 674.2402,
+        "episode_number": "5",
+        "original_air_date": "1608526800",
+        "auth_launch_date": 1653883200,
+        "clip_order": null,
+        "airing_id": "RADS1009082200026356",
+        "media_id": "e13d911d014f84eb5dd801beec31b1a91c442c11",
+        "modified": 1662685482,
+        "slug": "we-good",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241040363-LazorWulf_205_dup-20201001_WeGood.jpg",
+        "created": 1606232454,
+        "season_number": "2",
+        "title_id": "2224736",
+        "tv_rating": "tv-14-dl",
+        "published": 1662685482,
+        "tags": [],
+        "collection_title": "Lazor Wulf",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1662955200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241040363-LazorWulf_205_dup-20201001_WeGood.jpg",
+        "id": "AXX66jaWbxpjZvbXYlcy",
         "auth": false
     }
 ]
