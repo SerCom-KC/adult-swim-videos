@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1662955140,
-        "tms_id": "EP003034830120",
-        "description": "Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences.",
-        "title_suggest": {
-            "input": [
-                "Cold Warriors",
-                "Warriors"
-            ]
-        },
-        "title": "Cold Warriors",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1367.0323,
-        "episode_number": "11",
-        "original_air_date": 1652664600,
-        "auth_launch_date": 1662350400,
-        "clip_order": null,
-        "airing_id": "RADS1009022200025725",
-        "media_id": "13818586c19d73e4e2c994e76e302ae23714665f",
-        "modified": 1662153395,
-        "slug": "cold-warriors",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/1_225161021194-FryCold.png",
-        "created": 1652478312,
-        "title_id": "2161643",
-        "season_number": "8",
-        "tv_rating": "tv-14-lv",
-        "published": 1662153395,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png",
-        "id": "AYC_Yf9T_0O4w1rD3SMf",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1663473540,
         "tms_id": "EP003034830124",
         "description": "An ancient prophecy predicts the world will end in the year 3012.",
@@ -140,52 +95,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1662955140,
-        "tms_id": "EP003034830121",
-        "description": "Bender evolves into a godlike being after vastly increasing his processing power.",
-        "title_suggest": {
-            "input": [
-                "Over Clock Wise",
-                "Clock Wise",
-                "Wise"
-            ]
-        },
-        "title": "Over Clock Wise",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.2509,
-        "episode_number": "12",
-        "original_air_date": 1653267600,
-        "auth_launch_date": 1662350400,
-        "clip_order": null,
-        "airing_id": "RADS1009022200025728",
-        "media_id": "a13113c0c2a069c62eeb688841df71695f24916f",
-        "modified": 1662154326,
-        "slug": "over-clock-wise",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/1_22523153549-Overclockmin.png",
-        "created": 1653012793,
-        "title_id": "2161644",
-        "season_number": "8",
-        "tv_rating": "tv-14-lv",
-        "published": 1662154326,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523153549-Overclockmin.png",
-        "id": "AYDfPYfb208s7zyYUM6q",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1663300740,
         "tms_id": "EP003034830122",
         "description": "Futurama is reconceived in three alternate animation styles: classic black-and-white, old-school videogame, and Japanese anime.",
@@ -227,6 +136,98 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523132665-Reanimation.png",
         "id": "AYDfPYlg208s7zyYUM6r",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1663559940,
+        "tms_id": "EP003034830125",
+        "description": "Leela becomes campaign manager for a presidential candidate whose birth certificate is mysteriously missing.",
+        "title_suggest": {
+            "input": [
+                "Decision 3012",
+                "3012"
+            ]
+        },
+        "title": "Decision 3012",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1357.1891,
+        "episode_number": "3",
+        "original_air_date": "1654477200",
+        "auth_launch_date": 1662955200,
+        "clip_order": null,
+        "airing_id": "RADS1009082200026406",
+        "media_id": "4daea8791b05701f5ba504c77861886fad889df1",
+        "modified": 1662688170,
+        "slug": "decision-3012",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/1_225311247238-Futurama_903_Decision3012.png",
+        "created": 1654015651,
+        "season_number": "9",
+        "title_id": "2161648",
+        "tv_rating": "tv-14-dl",
+        "published": 1662688170,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311247238-Futurama_903_Decision3012.png",
+        "id": "AYEbA-6H208s7zyYUNBi",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1663559940,
+        "tms_id": "EP003034830126",
+        "description": "Bender joins the paparazzi and attempts to photograph a famous actor whose face has never been seen.",
+        "title_suggest": {
+            "input": [
+                "The Thief of Baghead",
+                "Thief of Baghead",
+                "of Baghead",
+                "Baghead"
+            ]
+        },
+        "title": "The Thief of Baghead",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1357.9233,
+        "episode_number": "4",
+        "original_air_date": "1654479000",
+        "auth_launch_date": 1662955200,
+        "clip_order": null,
+        "airing_id": "RADS1009082200026421",
+        "media_id": "b0cccd5c1be7156fbcd8a0afb31d2f2773f31189",
+        "modified": 1662689073,
+        "slug": "the-thief-of-baghead",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/1_225311247524-Futurama_904_ThiefOfBaghead.png",
+        "created": 1654015679,
+        "season_number": "9",
+        "title_id": "2161649",
+        "tv_rating": "tv-14-dl",
+        "published": 1662689073,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311247524-Futurama_904_ThiefOfBaghead.png",
+        "id": "AYEbBFqv_0O4w1rD3STn",
         "auth": true
     }
 ]
