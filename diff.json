@@ -1,7 +1,6 @@
 {
-    "updated": 1663185196,
-    "added": [],
-    "removed": [
+    "updated": 1663185496,
+    "added": [
         {
             "auth_expiration_date": 1663214340,
             "tms_id": "EP029506900035",
@@ -32,9 +31,9 @@
             "original_air_date": "1639373400",
             "auth_launch_date": 1660795200,
             "clip_order": null,
-            "airing_id": "RADS1008142200021273",
+            "airing_id": "RADS1007102200012748",
             "media_id": "2b0d79163278fb3975d4fea74e27da18f710165e",
-            "modified": 1663182817,
+            "modified": 1660525382,
             "slug": "joe-pera-builds-a-chair-with-you",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101040370-JoePeraTalksWithYou_309_JoePeraBuildsAChairWithYou.png",
@@ -42,7 +41,7 @@
             "season_number": "3",
             "title_id": "2298525",
             "tv_rating": "tv-14",
-            "published": 1663182817,
+            "published": 1660525382,
             "tags": [],
             "collection_title": "Joe Pera Talks With You",
             "disable_ads": false,
@@ -55,5 +54,6 @@
             "collection_title_id": "2161118",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
