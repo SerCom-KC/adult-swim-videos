@@ -1,5 +1,56 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1663732740,
+        "tms_id": "EP007164450105",
+        "description": "The Smiths prepare for the arrival of Stan's half-brother's family for Thanksgiving.",
+        "title_suggest": {
+            "input": [
+                "There Will Be Bad Blood",
+                "Will Be Bad Blood",
+                "Be Bad Blood",
+                "Bad Blood",
+                "Blood"
+            ]
+        },
+        "title": "There Will Be Bad Blood",
+        "type": "episode",
+        "expiration_date": 1650859140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1300.0654,
+        "episode_number": "18",
+        "original_air_date": 1292043600,
+        "auth_launch_date": 1663128000,
+        "clip_order": null,
+        "modified": 1663080837,
+        "media_id": "1901effee4b06f454a712c0f86a9fd188da9a7e2",
+        "airing_id": "RADS1009122200027714",
+        "id": "-n7pptEaSK-nCb751T7B4w",
+        "slug": "there-will-be-bad-blood",
+        "views": 385,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154335655553018.jpg",
+        "created": 1479708627,
+        "title_id": "822208",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1663080837,
+        "first_published": 1479708627,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1650254400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg",
+        "cma_id": "1298322"
+    },
+    {
         "auth_expiration_date": 1663214340,
         "tms_id": "EP007164450401",
         "description": "Francine and Roger get lost in a good book (or five) after Francine escapes an embarrassing situation. Stan reluctantly hangs out at the library.",
@@ -98,51 +149,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1663127940,
-        "tms_id": "EP007164450398",
-        "description": "Hayley searches for guidance and instead finds a community of 'cool butts.'",
-        "title_suggest": {
-            "input": [
-                "Hot Scoomp",
-                "Scoomp"
-            ]
-        },
-        "title": "Hot Scoomp",
-        "type": "episode",
-        "expiration_date": 1648439940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.0942,
-        "episode_number": "11",
-        "original_air_date": 1625448600,
-        "auth_launch_date": 1662523200,
-        "clip_order": null,
-        "airing_id": "RADS1009022200025804",
-        "media_id": "2f2f7fb709b0cd1188b9560e2e044e0a7e1303e0",
-        "modified": 1662157293,
-        "slug": "hot-scoomp",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340120-AmericanDad_1512_HotScoomp.png",
-        "created": 1642781345,
-        "title_id": "2238759",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlv",
-        "published": 1662157293,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1647835200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340120-AmericanDad_1512_HotScoomp.png",
-        "id": "AX59Zgif_0O4w1rD3RcN",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1663300740,
         "tms_id": "EP007164450405",
         "description": "Stan finally decides to do something about his secret baldness and enlists the help of Josay Bosay, Roger's famed hair-stylist-to-the-stars persona.",
@@ -189,50 +195,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241342308-AmericanDad_1517_CombOverAHairPiece.png",
         "id": "AX59Zr9y_0O4w1rD3RcP",
         "auth": true
-    },
-    {
-        "auth_expiration_date": 1663127940,
-        "tms_id": "EP007164450400",
-        "description": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
-        "title_suggest": {
-            "input": [
-                "Lumberjerk"
-            ]
-        },
-        "title": "Lumberjerk",
-        "type": "episode",
-        "expiration_date": 1649044740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.0941,
-        "episode_number": "12",
-        "original_air_date": 1626053400,
-        "auth_launch_date": 1662523200,
-        "clip_order": null,
-        "airing_id": "RADS1009022200025801",
-        "media_id": "11018cfacd61e2bb8703877903746e1bb8e12b21",
-        "modified": 1662157923,
-        "slug": "lumberjerk",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340534-AmericanDad_1514_Lumberjerk.png",
-        "created": 1642781391,
-        "title_id": "2238761",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1662157923,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1648440000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340534-AmericanDad_1514_Lumberjerk.png",
-        "id": "AX59Zrim208s7zyYUL9w",
-        "auth": false
     },
     {
         "auth_expiration_date": 1663300740,
@@ -748,6 +710,57 @@
         "launch_date": 1649649600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433561333518.jpg",
         "cma_id": "1461278"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1663732740,
+        "tms_id": "EP007164450106",
+        "description": "Stan serves as jury foreman for the trial of one of Roger's personae, and he is hell-bent on making sure the jury finds him guilty.",
+        "title_suggest": {
+            "input": [
+                "The People Vs. Martin Sugar",
+                "People Vs. Martin Sugar",
+                "Vs. Martin Sugar",
+                "Martin Sugar",
+                "Sugar"
+            ]
+        },
+        "title": "The People Vs. Martin Sugar",
+        "type": "episode",
+        "expiration_date": 1650859140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.306,
+        "episode_number": "6",
+        "original_air_date": 1292648400,
+        "auth_launch_date": 1663128000,
+        "clip_order": null,
+        "modified": 1663029452,
+        "media_id": "138d29d5aa19afacba6c24428488bfc70c1da6f8",
+        "airing_id": "RADS1009122200027719",
+        "id": "Ug7GhGosSgi2s18Wa63WwQ",
+        "slug": "the-people-vs-martin-sugar",
+        "views": 3555,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15299517583488.jpg",
+        "created": 1446006021,
+        "title_id": "822209",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1663029452,
+        "first_published": 1446006021,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1650254400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg",
+        "cma_id": "1465845"
     },
     {
         "auth": false,

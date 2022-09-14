@@ -51,7 +51,7 @@
         "cma_id": "1466579"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783740,
         "auth_expiration_date": 1666151940,
         "tms_id": "EP008994530004",
@@ -428,72 +428,6 @@
         "cma_id": "661594"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447785060,
-        "auth_expiration_date": 1663127940,
-        "tms_id": "EP008994530051",
-        "rating": 8.817373,
-        "description": "Gather the family! Make some pop pop! Koi is back in town. A very special 22-minute Christmas episode! (Guest starring: Fred Armisen, John C Reilly, Paul Rudd, Ben Stiller)",
-        "title_suggest": {
-            "input": [
-                "Man Milk",
-                "Milk"
-            ]
-        },
-        "type": "episode",
-        "title": "Man Milk",
-        "expiration_date": 1660103940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 1311.14,
-        "episode_number": "10",
-        "original_air_date": 1272861000,
-        "clip_order": null,
-        "auth_launch_date": 1660104000,
-        "modified": 1659739825,
-        "media_id": "5dc296fd3c9d0a4affcf6f049fd90a3a830c478e",
-        "airing_id": "RADS1008052200020102",
-        "id": "fl8E-TVsQLKatm7Y1Y4gCA",
-        "slug": "man-milk",
-        "views": 833096,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161646304-timanderic_510_air_cid-3R3RH.jpg",
-        "created": 1402945481,
-        "title_id": "787513",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1659739825,
-        "tags": [
-            "tim and eric",
-            "awesome show",
-            "great job",
-            "man milk",
-            "pop pop",
-            "koi",
-            "22-minute",
-            "christmas",
-            "episode",
-            "fred armisen",
-            "john c reilly",
-            "paul rudd",
-            "ben stiller"
-        ],
-        "rating_count": 2694,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1657080000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161646304-timanderic_510_air_cid-3R3RH.jpg",
-        "cma_id": "1449275"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447783800,
         "auth_expiration_date": 1635911940,
@@ -651,5 +585,58 @@
         "launch_date": 1661313600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620330-timanderic_106.jpg",
         "cma_id": "661593"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783860,
+        "auth_expiration_date": 1638334740,
+        "tms_id": "EP008994530008",
+        "rating": 6.720391,
+        "description": "Tim and Eric are late in delivering the episode to the Network and must rely on Hamburger Taxi to get the tape there on time. \r\n(John C. Reilly, Neil Hamburger, Al Yankovic guest star)",
+        "title_suggest": {
+            "input": [
+                "Hamburger"
+            ]
+        },
+        "type": "episode",
+        "title": "Hamburger",
+        "expiration_date": 1666151940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 683.006,
+        "episode_number": "8",
+        "original_air_date": 1176090300,
+        "clip_order": null,
+        "auth_launch_date": 1635307200,
+        "modified": 1663076002,
+        "media_id": "0dad6dd0fe7e0d1c675b384a269f2eb0d92a2a35",
+        "airing_id": "RADS1009122200027666",
+        "id": "wdXtFjTgQF6RoWyWD980lQ",
+        "slug": "hamburger",
+        "views": 387206,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116162152-timanderic_108.jpg",
+        "created": 1402945481,
+        "title_id": "661595",
+        "season_number": "1",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663076002,
+        "tags": [
+            "tim eric awesome show great job episode 8 hamburger late delivery network taxi john c reilly neil weird al yankovic"
+        ],
+        "rating_count": 3276,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663128000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116162152-timanderic_108.jpg",
+        "cma_id": "661595"
     }
 ]
