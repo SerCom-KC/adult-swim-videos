@@ -122,58 +122,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1500906660,
-        "auth_expiration_date": 1663214340,
-        "tms_id": "EP018336730022",
-        "description": "The family deals with stuff in this one broh. What's Rick gonna do? This is a real episode right here broh.",
-        "title_suggest": {
-            "input": [
-                "The Rickshank Rickdemption",
-                "Rickshank Rickdemption",
-                "Rickdemption"
-            ]
-        },
-        "expiration_date": 1662609540,
-        "title": "The Rickshank Rickdemption",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1371.92,
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "episode_number": "1",
-        "original_air_date": 1491091200,
-        "clip_order": null,
-        "auth_launch_date": 1662609600,
-        "modified": 1663197506,
-        "media_id": "54d52374765c915b74439200af5b47addfc1779d",
-        "airing_id": "RADS1009022200025881",
-        "id": "20Lrd8P6SFCTzSU73lLViQ",
-        "slug": "the-rickshank-rickdemption",
-        "views": 223385,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_20324944389-rickandmorty_301_Long_dup-20170515.jpg",
-        "created": 1494259555,
-        "season_number": "3",
-        "title_id": "2116830",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663197506,
-        "first_published": 1500664220,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1662004800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324944389-rickandmorty_301_Long_dup-20170515.jpg",
-        "cma_id": "1438509"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -5323,55 +5271,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1663214340,
-        "tms_id": "EP018336730042",
-        "description": "Parenting is crazy broh. Stuff straight disappearin in this one.",
-        "title_suggest": {
-            "input": [
-                "Star Mort Rickturn of the Jerri",
-                "Mort Rickturn of the Jerri",
-                "Rickturn of the Jerri",
-                "of the Jerri",
-                "the Jerri",
-                "Jerri"
-            ]
-        },
-        "title": "Star Mort Rickturn of the Jerri",
-        "expiration_date": 1662609540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1368.9676,
-        "episode_number": "10",
-        "original_air_date": "1590982200",
-        "auth_launch_date": 1662609600,
-        "clip_order": null,
-        "airing_id": "RADS1009022200025861",
-        "media_id": "8cfab18b454f3a1ba298e25bb66c02b65373b841",
-        "modified": 1663199315,
-        "slug": "star-mort-rickturn-of-the-jerri",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200521/thumbnails/1_20521174102-rickandmorty_410.jpg",
-        "created": 1590095055,
-        "season_number": "4",
-        "title_id": "2206495",
-        "tv_rating": "tv-14-dlv",
-        "published": 1663199315,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1662004800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200521/thumbnails/2_20521174102-rickandmorty_410.jpg",
-        "id": "AXI5DQjqRs3h4hI_X3z0",
-        "auth": true
-    },
-    {
         "auth_expiration_date": null,
         "tms_id": "EP033976470015",
         "description": "The writers and directors of Rick and Morty up their production value by introducing a new means of destruction.",
@@ -6083,7 +5982,7 @@
         "launch_date": 1663214400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181257488-RickAndMorty_501_MortDinnerRickAndre.png",
         "id": "AXogD4uwDmGy9WFjRrgk",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -6133,6 +6032,50 @@
         "launch_date": 1624284000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210621/thumbnails/2_21621711535-RickMorty_Inside501.png",
         "id": "AXouRgknBH5Z6gH5aWVk",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1662004740,
+        "tms_id": "EP018336730050",
+        "description": "Who's even real, broh? Are you real? Broh?",
+        "title_suggest": {
+            "input": [
+                "Mortyplicity"
+            ]
+        },
+        "title": "Mortyplicity",
+        "expiration_date": 1663819140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1434.4664,
+        "episode_number": "2",
+        "original_air_date": "1624849200",
+        "auth_launch_date": 1661400000,
+        "clip_order": null,
+        "airing_id": "RADS1009122200027772",
+        "media_id": "24fdd83c3e52ba2cda4a551e1fb016cb325c2d66",
+        "modified": 1663005745,
+        "slug": "mortyplicity",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/1_216251416154-RickAndMorty_502_Mortyplicity.png",
+        "created": 1624644987,
+        "season_number": "5",
+        "title_id": "2270459",
+        "tv_rating": "tv-14-dlv",
+        "published": 1663005745,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663214400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png",
+        "id": "AXpEYyttDmGy9WFjRrmZ",
         "auth": false
     },
     {
@@ -6232,6 +6175,97 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1662004740,
+        "tms_id": "EP018336730051",
+        "description": "Reduce Reuse, broh. Might be too late.",
+        "title_suggest": {
+            "input": [
+                "A Rickconvenient Mort",
+                "Rickconvenient Mort",
+                "Mort"
+            ]
+        },
+        "title": "A Rickconvenient Mort",
+        "expiration_date": 1663819140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1459.2245,
+        "episode_number": "3",
+        "original_air_date": "1625454000",
+        "auth_launch_date": 1661400000,
+        "clip_order": null,
+        "airing_id": "RADS1009122200027781",
+        "media_id": "18617eada1d0134f874e2596cc9ac4afb001fba6",
+        "modified": 1663005747,
+        "slug": "a-rickconvenient-mort",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/1_21711611335-RickAndMorty_503_ARickconvenientMort.jpg",
+        "created": 1625170305,
+        "season_number": "5",
+        "title_id": "2270460",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1663005747,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663214400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711611335-RickAndMorty_503_ARickconvenientMort.jpg",
+        "id": "AXpjsuNcDmGy9WFjRrqJ",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1662004740,
+        "tms_id": "EP018336730053",
+        "description": "No shame broh. We all do it broh.",
+        "title_suggest": {
+            "input": [
+                "Rickdependence Spray",
+                "Spray"
+            ]
+        },
+        "title": "Rickdependence Spray",
+        "expiration_date": 1663819140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1436.435,
+        "episode_number": "4",
+        "original_air_date": "1626058800",
+        "auth_launch_date": 1661400000,
+        "clip_order": null,
+        "airing_id": "RADS1009122200027760",
+        "media_id": "718c2fd53073134e4d087858afadfcfafe13b7f7",
+        "modified": 1663005755,
+        "slug": "rickdependence-spray",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/1_21791115213-RickAndMorty_505_RickdependenceSpray.png",
+        "created": 1625843738,
+        "season_number": "5",
+        "title_id": "2270462",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1663005755,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663214400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791115213-RickAndMorty_505_RickdependenceSpray.png",
+        "id": "AXqL1qduDmGy9WFjRryX",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "The Rick and Morty crew takes you behind the scenes of what may be the show's raunchiest episode yet.",
@@ -6322,7 +6356,7 @@
         "launch_date": 1663214400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161027450-RickAndMorty_506_AmortycanGrickfitti.png",
         "id": "AXqvJggIBH5Z6gH5aWX_",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -6416,7 +6450,7 @@
         "launch_date": 1662609600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730119216-RickAndMorty_504_GotronJerrysisRickvangelion.png",
         "id": "AXr39rJfeTntnGIjub01",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6513,7 +6547,7 @@
         "launch_date": 1662609600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
         "id": "AXrT5mYgeTntnGIjub0s",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6662,7 +6696,7 @@
         "launch_date": 1662609600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210806/thumbnails/2_2186105552-RickAndMorty_508_RickternalFriendshineOfTheSpotlessMort.png",
         "id": "AXsbnTrbeTntnGIjub07",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6760,7 +6794,7 @@
         "launch_date": 1662609600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png",
         "id": "AXun7GUP4Xbjep71f6Gt",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1663819140,
@@ -6805,7 +6839,7 @@
         "launch_date": 1662609600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png",
         "id": "AXun7SS-4Xbjep71f6Gu",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -10930,59 +10964,6 @@
         "launch_date": 1493153869,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/riggity-wrecked/ASID_RAM_Saiman_TheEnd_20_33JMD.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1506349860,
-        "auth_expiration_date": 1663214340,
-        "tms_id": "EP018336730031",
-        "description": "Jerry pulls in some lady in this one broh. Beth revisits her childhood.",
-        "title_suggest": {
-            "input": [
-                "The ABC's of Beth",
-                "ABC's of Beth",
-                "of Beth",
-                "Beth"
-            ]
-        },
-        "expiration_date": 1662609540,
-        "title": "The ABC's of Beth",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 1341.08,
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "episode_number": "9",
-        "original_air_date": 1506310200,
-        "clip_order": null,
-        "auth_launch_date": 1662609600,
-        "modified": 1663198721,
-        "media_id": "bcafa5cf59ce943967ad5d2cbcc7247f29f17192",
-        "airing_id": "RADS1009022200025882",
-        "id": "zNy3b46_RBiptb1bQUAJUQ",
-        "slug": "the-ab-cs-of-beth",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_2032494953-rickandmorty_308_dup-20170929.jpg",
-        "created": 1506110341,
-        "season_number": "3",
-        "title_id": "2116837",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663198721,
-        "first_published": 1506327021,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1662004800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494953-rickandmorty_308_dup-20170929.jpg",
-        "cma_id": "1483488"
     },
     {
         "auth": false,
