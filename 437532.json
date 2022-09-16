@@ -95,50 +95,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1663300740,
-        "tms_id": "EP003034830122",
-        "description": "Futurama is reconceived in three alternate animation styles: classic black-and-white, old-school videogame, and Japanese anime.",
-        "title_suggest": {
-            "input": [
-                "Reincarnation"
-            ]
-        },
-        "title": "Reincarnation",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1841,
-        "episode_number": "13",
-        "original_air_date": 1653269400,
-        "auth_launch_date": 1662696000,
-        "clip_order": null,
-        "airing_id": "RADS1009022200025899",
-        "media_id": "1c51252f2120172cdd302a427fb15aeba70889f0",
-        "modified": 1662271549,
-        "slug": "reincarnation",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/1_22523132665-Reanimation.png",
-        "created": 1653012793,
-        "title_id": "2161645",
-        "season_number": "8",
-        "tv_rating": "tv-14-dlv",
-        "published": 1662271549,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523132665-Reanimation.png",
-        "id": "AYDfPYlg208s7zyYUM6r",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1663559940,
         "tms_id": "EP003034830125",
         "description": "Leela becomes campaign manager for a presidential candidate whose birth certificate is mysteriously missing.",
@@ -228,6 +184,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311247524-Futurama_904_ThiefOfBaghead.png",
         "id": "AYEbBFqv_0O4w1rD3STn",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1663905540,
+        "tms_id": "EP003034830127",
+        "description": "Leela is horrified when her mother begins dating Zapp Brannigan.",
+        "title_suggest": {
+            "input": [
+                "Zapp Dingbat",
+                "Dingbat"
+            ]
+        },
+        "title": "Zapp Dingbat",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1355.2205,
+        "episode_number": "5",
+        "original_air_date": 1655082000,
+        "auth_launch_date": 1663300800,
+        "clip_order": null,
+        "airing_id": "RADS1009122200027829",
+        "media_id": "7ed1f877b7c4172ad293dd5080cad236ef569052",
+        "modified": 1663091907,
+        "slug": "zapp-dingbat",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691645323-Futurama_905_ZappDingbat.png",
+        "created": 1654739459,
+        "title_id": "2161650",
+        "season_number": "9",
+        "tv_rating": "tv-14-d",
+        "published": 1663091907,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691645323-Futurama_905_ZappDingbat.png",
+        "id": "AYFGKF0d208s7zyYUNFt",
         "auth": true
     }
 ]
