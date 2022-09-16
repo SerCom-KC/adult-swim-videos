@@ -1169,7 +1169,7 @@
         "launch_date": 1660278600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720832274-Primal_012_ShadowOfFate.png",
         "id": "AYIbmH873sQvipyea9ft",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1660881540,
@@ -1440,7 +1440,7 @@
         "launch_date": 1663300800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_22822154850-Primal_017_Colossaeus.png",
         "id": "AYLDQtPGIAxeiVkFtLRd",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1663905540,
@@ -1534,6 +1534,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_2296135895-Primal_019_ColossaeusPart3.png",
         "id": "AYMT8_-w3sQvipyea-H2",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1665115140,
+        "tms_id": "EP033124370023",
+        "description": "An old vengeance returns to wreak havoc.",
+        "title_suggest": {
+            "input": [
+                "Echoes of Eternity",
+                "of Eternity",
+                "Eternity"
+            ]
+        },
+        "title": "Echoes of Eternity",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1424.4898,
+        "episode_number": "10",
+        "original_air_date": 1663300800,
+        "auth_launch_date": 1663300800,
+        "clip_order": null,
+        "airing_id": "RADS1009122200027618",
+        "media_id": "cc8a191542c5819240a5ca6664054799cbd106ec",
+        "modified": 1663094178,
+        "slug": "echoes-of-eternity",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220913/thumbnails/1_229131435535-Primal_020_EchoesOfEternity.png",
+        "created": 1662997624,
+        "title_id": "2276166",
+        "season_number": "2",
+        "tv_rating": "tv-ma-sv",
+        "published": 1663094178,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_229131435535-Primal_020_EchoesOfEternity.png",
+        "id": "AYMyYfcy3sQvipyea-OE",
         "auth": true
     }
 ]
