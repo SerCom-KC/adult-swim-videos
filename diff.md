@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 17, 2022 at 04:00:25 EDT_
+_Last Update: September 17, 2022 at 05:00:23 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2104364 Hot Streets: 1  
-### 2131832
-**Hot Streets S01E02 - Snake Island**  
-TV-MA-LSV 🔓 10:25  
+862772 China, IL: 1  
+### 2053734
+**China, IL S03E05 - Bi-Topping-Ality**  
+TV-14-DL 🔓 22:33  
 ⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/hot-streets/snake-island  
-seriesid=`2104364` titleid=`2131832` id=`PyRQtZ1tRuGciMwKZs5icA` mediaid=`7b8d896d3ac4270c8ce76784ee18df07dbef9bec`  
-_The Hot Streets gang heads to Snake Island to investigate a rift in space. French gains the ability to control snakes._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351445449-HotStreets_101_dup-20170908.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351445449-HotStreets_101_dup-20170908.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/china-il/bi-topping-ality  
+seriesid=`862772` titleid=`2053734` id=`o8SDE7FoTRO5yP2qrxpDcg` mediaid=`8ee80201b9949bc46cb6436c60d294d21aefdad0`  
+_The Mayor bans eating anchovies in China, IL, while Trump’s Kid joins UCI as its newest student._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032170410-chinail_303_dup-20150424.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032170410-chinail_303_dup-20150424.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
