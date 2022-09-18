@@ -1,53 +1,6 @@
 [
     {
         "auth": true,
-        "auth_expiration_date": 1663473540,
-        "tms_id": "EP002070020091",
-        "description": "As Thanksgiving approaches, Redcorn attempts to reestablish his relationship with Joseph; Bobby rejects the holiday; Peggy invents her own game.",
-        "title_suggest": {
-            "input": [
-                "Spin the Choice",
-                "the Choice",
-                "Choice"
-            ]
-        },
-        "title": "Spin the Choice",
-        "type": "episode",
-        "expiration_date": 1504443599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1400.5325,
-        "episode_number": "4",
-        "original_air_date": 1232420400,
-        "auth_launch_date": 1662868800,
-        "clip_order": null,
-        "modified": 1663093864,
-        "media_id": "3176ccdf0d074809c3b2fad89e151e92242e6baa",
-        "airing_id": "RADS1009082200026163",
-        "id": "4Yzvo_whTrC18scwPz5LtA",
-        "slug": "spin-the-choice",
-        "views": 4619,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220913/thumbnails/1_229131430486-KingOfTheHill_505_SpinTheChoice.png",
-        "created": 1417144828,
-        "title_id": "731331",
-        "tv_rating": "tv-pg",
-        "season_number": "5",
-        "published": 1663093864,
-        "first_published": 1417144828,
-        "tags": [],
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": 1503838800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_229131430486-KingOfTheHill_505_SpinTheChoice.png",
-        "cma_id": "1460470"
-    },
-    {
-        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1663991940,
         "tms_id": "EP002070020094",
@@ -292,5 +245,56 @@
         "launch_date": 1503892800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_22913143381-KingOfTheHill_503_WhenCottonComesMarchingHome.png",
         "cma_id": "1460596"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1664078340,
+        "tms_id": "EP002070020097",
+        "rating": 8.633698,
+        "description": "Hank is devastated when he realizes his cherished flatbed truck is on its last legs.",
+        "title_suggest": {
+            "input": [
+                "Chasing Bobby",
+                "Bobby"
+            ]
+        },
+        "type": "episode",
+        "title": "Chasing Bobby",
+        "expiration_date": 1504754999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1394.3596,
+        "episode_number": "9",
+        "original_air_date": 1232595000,
+        "auth_launch_date": 1663473600,
+        "clip_order": null,
+        "modified": 1663097103,
+        "media_id": "4c68082ee0588a7ff3bba6bec9402f41d32848fb",
+        "airing_id": "RADS1009122200027892",
+        "id": "zA4fGjRsT0iPeKnK0MsOfw",
+        "slug": "chasing-bobby",
+        "views": 221724,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15193183904116.jpg",
+        "created": 1402945468,
+        "title_id": "731336",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1663097103,
+        "tags": [
+            "king of the hill episode chasing bobby hank flatbed truck"
+        ],
+        "rating_count": 273,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1504150200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15193183904116.jpg",
+        "cma_id": "1463430"
     }
 ]
