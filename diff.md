@@ -2,25 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 19, 2022 at 11:00:29 EDT_
+_Last Update: September 19, 2022 at 12:00:27 EDT_
 ## Video added
-### Summary
-830073 Off The Air: 2  
-### 2199313
-**Off The Air S09E03 - Fire**  
- 🔒 11:21  
-⌛ September 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/off-the-air/fire  
-seriesid=`830073` titleid=`2199313` id=`AW6QAf5z1YiBSfg0KYx3` mediaid=`a28dd0dfaa7a97951d58b3a51983c1577b049fc9`  
-_It's all around you._  
-<a href="https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg" height="144px" /></a>
-### 2199314
-**Off The Air S09E04 - Patterns**  
-TV-PG 🔒 11:21  
-⌛ September 19, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/off-the-air/patterns  
-seriesid=`830073` titleid=`2199314` id=`AW8kLZlAGRcVO2K2pl_H` mediaid=`405969393beaeacf6a315ea92aeaa9bb135115fd`  
-_Watch, rinse, repeat._  
-<a href="https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+812206 Naruto: Shippuden: 2  
+### 2177808
+**Naruto: Shippuden S07E30 - The Ten Tails' Jinchuriki**  
+TV-PG-L 🔒 21:50  
+⌛ September 25, 2022 at 07:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-ten-tails-jinchuriki  
+seriesid=`812206` titleid=`2177808` id=`AX8jXe6B208s7zyYUMK3` mediaid=`783a02746fa0046d3c165a42282d2ace14e08021`  
+_Obito completely absorbs the giant Ten Tails, undergoes a transformation and becomes the Ten Tails' Jinchuriki._  
+<a href="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231431536-NarutoShippuden_378_TheTenTailsJinchuriki.png"><img src="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231431536-NarutoShippuden_378_TheTenTailsJinchuriki.png" height="144px" /></a>
+### 2177824
+**Naruto: Shippuden S07E46 - The New Chunin Exams**  
+TV-PG 🔒 21:49  
+⌛ September 25, 2022 at 05:59:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-new-chunin-exams  
+seriesid=`812206` titleid=`2177824` id=`AYE6iorm_0O4w1rD3SWM` mediaid=`c8c10038ed87d4a03f9c368f1ecdc97fe3c7720b`  
+_Naruto loses Kurama during his battle against Madara and is near death. As Tsunade and the other Leaf Village shinobi watch in fear, they are reminded that Naruto has always been their symbol of hope, even when he was not with them…_  
+<a href="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691644189-NarutoShippuden_394_TheNewChuninExams.jpg"><img src="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691644189-NarutoShippuden_394_TheNewChuninExams.jpg" height="144px" /></a>
