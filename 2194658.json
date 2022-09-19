@@ -94,53 +94,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1663559940,
-        "tms_id": "EP031416130010",
-        "description": "Emma loses yet another ally and friend, and in the brink of despair, Mom pays her a visit in the infirmary.",
-        "title_suggest": {
-            "input": [
-                "130146"
-            ]
-        },
-        "title": "130146",
-        "type": "episode",
-        "expiration_date": 1659931140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1286,
-        "episode_number": "10",
-        "original_air_date": 1560657600,
-        "auth_launch_date": 1659931200,
-        "clip_order": null,
-        "airing_id": "RADS1008052200019994",
-        "media_id": "f88ed178a1f1951b91b3db5bc9983013a2c791f9",
-        "modified": 1659733538,
-        "slug": "130146",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156054129964217.jpg",
-        "created": 1560173166,
-        "title_id": "2194668",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1659733538,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658721600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156054129964217.jpg",
-        "id": "AWtBkUEACorLtcgflrGW",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1665374340,
         "tms_id": "EP034485630013",
         "description": "Emma and the children have finally escaped the House and now head to the place indicated on the pen Norman gave them. But on their way, a large, wild demon attacks the group\u2026",
@@ -318,7 +271,7 @@
         "launch_date": 1662350400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311125381-PromisedNeverland2_004_Episode4.jpg",
         "id": "AXiI4_bxBH5Z6gH5aWHZ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -412,6 +365,51 @@
         "launch_date": 1662955200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210507/thumbnails/2_21571216285-TPN2__017_episode5.png",
         "id": "AXk34djhDmGy9WFjRq_R",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1654487940,
+        "tms_id": "EP034485630018",
+        "description": "Norman, thought to have been shipped, stands before Emma and Ray. It is a reunion they never dreamed of, and they embrace tearfully. Norman reveals his plan to create the future Emma wants, where the children can live happily.",
+        "title_suggest": {
+            "input": [
+                "Episode 6",
+                "6"
+            ]
+        },
+        "title": "Episode 6",
+        "expiration_date": 1664769540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1275.2407,
+        "episode_number": "6",
+        "original_air_date": "1621144800",
+        "auth_launch_date": 1650859200,
+        "clip_order": null,
+        "airing_id": "RADS1009152200028812",
+        "media_id": "76ad1f62be59e00a2a5be01a15f7661a92d026e2",
+        "modified": 1663285369,
+        "slug": "episode-6",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210512/thumbnails/1_21512111877-TPN2_018_Episode6.png",
+        "created": 1620832711,
+        "season_number": "2",
+        "title_id": "2264537",
+        "tv_rating": "tv-14-l",
+        "published": 1663285369,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663560000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210512/thumbnails/2_21512111877-TPN2_018_Episode6.png",
+        "id": "AXlhKHMpBH5Z6gH5aWO_",
         "auth": false
     }
 ]
