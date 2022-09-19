@@ -1,56 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1446739860,
-        "auth_expiration_date": 1663559940,
-        "tms_id": "EP015632430008",
-        "rating": 8.368841,
-        "description": "Eric interviews Beyonce, JayZ and Robert Forster.",
-        "title_suggest": {
-            "input": [
-                "J-Mo"
-            ]
-        },
-        "type": "episode",
-        "title": "J-Mo",
-        "expiration_date": 1660535940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 676.9009009,
-        "episode_number": "7",
-        "original_air_date": 1341808200,
-        "clip_order": null,
-        "auth_launch_date": 1660536000,
-        "modified": 1660330844,
-        "media_id": "6b8842de9e77333d6a5eb93965e9ae11b41cd9d0",
-        "airing_id": "RADS1008122200020900",
-        "id": "0H1wpZnqTt6kICr-pzVFHw",
-        "slug": "j-mo",
-        "views": 146851,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034169464-ericandre_108_dup-20120706.jpg",
-        "created": 1402945479,
-        "title_id": "895956",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1660330844,
-        "tags": [],
-        "rating_count": 1643,
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1657512000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034169464-ericandre_108_dup-20120706.jpg",
-        "cma_id": "1435345"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -902,7 +851,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1666583940,
         "tms_id": "EP015632430012",
@@ -1005,6 +954,61 @@
         "launch_date": 1658116800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161076-ericandre_109_dup-20120718.jpg",
         "cma_id": "1439385"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1608181140,
+        "tms_id": "EP015632430017",
+        "rating": 9.6362095,
+        "description": "Interviews with Lance Reddick and Harry Shum Jr.; Musical guest Jonwayne.",
+        "title_suggest": {
+            "input": [
+                "Lance Reddick / Harry Shum Jr.",
+                "Reddick / Harry Shum Jr.",
+                "/ Harry Shum Jr.",
+                "Harry Shum Jr.",
+                "Shum Jr.",
+                "Jr."
+            ]
+        },
+        "type": "episode",
+        "title": "Lance Reddick / Harry Shum Jr.",
+        "expiration_date": 1666583940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 667.0333667,
+        "episode_number": "7",
+        "original_air_date": 1384493400,
+        "clip_order": null,
+        "auth_launch_date": 1605157200,
+        "modified": 1663283235,
+        "media_id": "524b000d24b98ec7d6b89c5a8062801445434673",
+        "airing_id": "RADS1009152200028796",
+        "id": "X7ZykMiSQI22m2kMVchrYw",
+        "slug": "lance-reddick-harry-shum-jr",
+        "views": 48976,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341613465-ericandre_017_dup_20131112.jpg",
+        "created": 1402945479,
+        "title_id": "2012285",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663283235,
+        "tags": [],
+        "rating_count": 2922,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663560000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341613465-ericandre_017_dup_20131112.jpg",
+        "cma_id": "1477393"
     },
     {
         "auth": true,
