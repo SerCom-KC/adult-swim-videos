@@ -219,7 +219,7 @@
         "cma_id": "1419486"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1444574700,
         "auth_expiration_date": 1666670340,
         "tms_id": "EP011016070020",
@@ -321,6 +321,57 @@
         "cma_id": "1436101"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1444574760,
+        "auth_expiration_date": 1651550340,
+        "tms_id": "EP011016070025",
+        "rating": 7.7540984,
+        "description": "\"Jon\" goes on a silent strike. Yvgeny's girlfriend Trish has an affair.",
+        "title_suggest": {
+            "input": [
+                "Sample"
+            ]
+        },
+        "type": "episode",
+        "title": "Sample",
+        "expiration_date": 1666670340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
+        "duration": 1303.5421184,
+        "episode_number": "6",
+        "original_air_date": 1331269200,
+        "clip_order": null,
+        "auth_launch_date": 1648526400,
+        "modified": 1663287760,
+        "media_id": "8f99f200e1f34a84389c8d2dafc696c077391545",
+        "airing_id": "RADS1009152200028846",
+        "id": "_yjVbrpbS5m_tzSKuEy1Sg",
+        "slug": "sample",
+        "views": 17932,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331455306-delocated_306.jpg",
+        "created": 1402945463,
+        "title_id": "878913",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663287760,
+        "tags": [],
+        "rating_count": 61,
+        "collection_title": "Delocated",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663646400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331455306-delocated_306.jpg",
+        "cma_id": "1471028"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1444574340,
         "auth_expiration_date": 1664251140,
@@ -376,67 +427,6 @@
         "launch_date": 1658203200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331443215-delocated_209.jpg",
         "cma_id": "1414985"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1444573980,
-        "auth_expiration_date": 1663646340,
-        "tms_id": "EP011016070015",
-        "rating": 8.855644,
-        "description": "\"Jon\" helps Jay the doorman learn some valuable life lessons.",
-        "title_suggest": {
-            "input": [
-                "'Fidence"
-            ]
-        },
-        "type": "episode",
-        "title": "'Fidence",
-        "expiration_date": 1660622340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
-        "duration": 1297.1668335,
-        "episode_number": "8",
-        "original_air_date": 1286510400,
-        "clip_order": null,
-        "auth_launch_date": 1660622400,
-        "modified": 1662218050,
-        "media_id": "4be0a8c4aa2e6066e1aaec9a41744f9b927f9330",
-        "airing_id": "RADS1008122200020956",
-        "id": "kIlyIe_qSRmW-YkokPaeFQ",
-        "slug": "fidence",
-        "views": 221273,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331442316-delocated_208.jpg",
-        "created": 1402945463,
-        "title_id": "811366",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1662218050,
-        "tags": [
-            "Delocated",
-            "Jon Glaser",
-            "Ski Mask",
-            "Witness Protection Program",
-            "'Fidence",
-            "Sergei",
-            "Russian Mob",
-            "Todd Barry",
-            "Yvgeny"
-        ],
-        "rating_count": 381,
-        "collection_title": "Delocated",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1657598400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331442316-delocated_208.jpg",
-        "cma_id": "1411098"
     },
     {
         "auth": true,
