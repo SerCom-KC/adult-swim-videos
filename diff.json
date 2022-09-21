@@ -1,64 +1,13 @@
 {
-    "updated": 1663788637,
+    "updated": 1663792230,
     "added": [
-        {
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "The final battle begins.",
-            "title_suggest": {
-                "input": [
-                    "Wormageddon: Final Showdown",
-                    "Final Showdown",
-                    "Showdown"
-                ]
-            },
-            "title": "Wormageddon: Final Showdown",
-            "expiration_date": null,
-            "type": "clip",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "online-exclusive",
-                "roku"
-            ],
-            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 66.005,
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "airing_id": "",
-            "media_id": "meb148385bdcf8c843d4060524820a282b4d800d4b",
-            "modified": 1663788415,
-            "slug": "wormageddon-final-showdown",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220920/thumbnails/1_229201526109-AS_RAM_Wormageddon_Final_Showdown_SOCIAL_66_Library_Music_Dated_US_16x9_L3RD_REFERENCE.png",
-            "created": 1663701978,
-            "season_number": "",
-            "title_id": "",
-            "tv_rating": "",
-            "published": 1663788415,
-            "tags": [],
-            "collection_title": "Rick and Morty",
-            "disable_ads": false,
-            "modified_by": "Jonas Eason",
-            "launch_date": 1663704000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220920/thumbnails/2_229201526109-AS_RAM_Wormageddon_Final_Showdown_SOCIAL_66_Library_Music_Dated_US_16x9_L3RD_REFERENCE.png",
-            "id": "AYNcXY6DIAxeiVkFtLRw",
-            "auth": false,
-            "collection_slug": "rick-and-morty",
-            "collection_title_id": "2013506",
-            "online_exclusives": true
-        }
-    ],
-    "removed": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
             "description": "Episode 1. The Vindicators are back. Except it\u2019s the past and they\u2019re all still alive. Prequel, baby!",
             "title_suggest": {
                 "input": [
-                    "Vindcators 2: Rick Can Handle It",
+                    "Vindicators 2: Rick Can Handle It",
                     "2: Rick Can Handle It",
                     "Rick Can Handle It",
                     "Can Handle It",
@@ -66,7 +15,7 @@
                     "It"
                 ]
             },
-            "title": "Vindcators 2: Rick Can Handle It",
+            "title": "Vindicators 2: Rick Can Handle It",
             "expiration_date": null,
             "type": "clip",
             "platforms": [
@@ -77,33 +26,33 @@
                 "roku"
             ],
             "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 0,
-            "episode_number": "",
-            "original_air_date": 1658595600,
+            "duration": 163.669,
+            "original_air_date": null,
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "",
-            "media_id": "me0fd723f6f82d58bf5f7b092d38c05082cbf72d0c",
-            "modified": 1661525971,
-            "slug": "vindcators-2-rick-can-handle-it",
+            "media_id": "me3513521fbe77a2ab54bb81f52836d60967974760",
+            "modified": 1663790653,
+            "slug": "vindicators-2-rick-can-handle-it",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220721/thumbnails/1_227211031395-RAM_The_Vindicators2_101.png",
-            "created": 1658080319,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220921/thumbnails/1_229211551302-RAM_The_Vindicators2_101.png",
+            "created": 1663789913,
             "season_number": "",
             "title_id": "2399280",
             "tv_rating": "",
-            "published": 1661525971,
+            "published": 1663790653,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
-            "launch_date": 1658595600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220721/thumbnails/2_227211031395-RAM_The_Vindicators2_101.png",
-            "id": "AYINSdh2IAxeiVkFtLQb",
+            "modified_by": "Sara Griggs",
+            "launch_date": 1658595622,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220921/thumbnails/2_229211551302-RAM_The_Vindicators2_101.png",
+            "id": "AYNhm1WV3sQvipyea-XI",
             "auth": false,
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
