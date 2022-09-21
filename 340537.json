@@ -687,6 +687,62 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1445971860,
+        "auth_expiration_date": 1664942340,
+        "tms_id": "EP004662930077",
+        "rating": 8.031686,
+        "description": "Master Shake's megalomania soars to new heights once he steals Frylock's laser-shooting contact lenses.",
+        "title_suggest": {
+            "input": [
+                "Laser Lenses",
+                "Lenses"
+            ]
+        },
+        "type": "episode",
+        "title": "Laser Lenses",
+        "expiration_date": 1590551999,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 667.8341675,
+        "episode_number": "6",
+        "original_air_date": 1204519500,
+        "clip_order": null,
+        "auth_launch_date": 1663732800,
+        "modified": 1663308470,
+        "media_id": "74bff183a210134077e0cce655f852053ed807bb",
+        "airing_id": "RADS1009152200028879",
+        "id": "FkNXjtYjRf-y4Vfyr0zNSQ",
+        "slug": "laser-lenses",
+        "views": 1052664,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241716403-athf_074_bim.jpg",
+        "created": 1402945461,
+        "title_id": "702582",
+        "season_number": "5",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663308470,
+        "tags": [
+            "ATHF",
+            "Episode 74",
+            "lasers"
+        ],
+        "rating_count": 5176,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1543208400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241716403-athf_074_bim.jpg",
+        "cma_id": "1380467"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1445971800,
         "auth_expiration_date": 1664337540,
         "tms_id": "EP004662930076",
@@ -961,7 +1017,7 @@
         "cma_id": "1158850"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445970000,
         "auth_expiration_date": 1666756740,
         "tms_id": "EP004662930042",
@@ -1035,58 +1091,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1446135180,
-        "auth_expiration_date": 1663732740,
-        "tms_id": "EP017757420002",
-        "rating": 7.544304,
-        "description": "Shake enlists Carl's help in training for the title of 'Coolest Dude Ever.'",
-        "title_suggest": {
-            "input": [
-                "The Dudies",
-                "Dudies"
-            ]
-        },
-        "type": "episode",
-        "title": "The Dudies",
-        "expiration_date": 1629899940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 679,
-        "episode_number": "2",
-        "original_air_date": 1376884800,
-        "clip_order": null,
-        "auth_launch_date": 1661918400,
-        "modified": 1661560562,
-        "media_id": "1c1d602f5d2a8dab7f975385144a196f9c13ffcc",
-        "airing_id": "RADS1008262200023117",
-        "id": "_UBiTdIzT1eMr9jE1nvGqg",
-        "slug": "the-dudies",
-        "views": 121562,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251043209-atvss_1202_dup-20130816.jpg",
-        "created": 1402945460,
-        "title_id": "2005988",
-        "season_number": "10",
-        "tv_rating": "tv-14-dls",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1661560562,
-        "tags": [],
-        "rating_count": 237,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1626876000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251043209-atvss_1202_dup-20130816.jpg",
-        "cma_id": "1457377"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1444942980,
         "auth_expiration_date": 1666151940,
         "tms_id": "EP004662930018",
@@ -1139,6 +1143,58 @@
         "launch_date": 1660104000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241525162-athf_018_BIM.jpg",
         "cma_id": "1181798"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1446135240,
+        "auth_expiration_date": 1665547140,
+        "tms_id": "EP017757420005",
+        "rating": 7.125001,
+        "description": "After their cable TV is cut off, Meatwad and Master Shake hope to score some easy money by doing the unthinkable.",
+        "title_suggest": {
+            "input": [
+                "Working Stiffs",
+                "Stiffs"
+            ]
+        },
+        "type": "episode",
+        "title": "Working Stiffs",
+        "expiration_date": 1631714340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 673.9591326,
+        "episode_number": "5",
+        "original_air_date": 1379304000,
+        "clip_order": null,
+        "auth_launch_date": 1663732800,
+        "modified": 1663308169,
+        "media_id": "207ec1b888babcd806120eb1e6d80d098c45c981",
+        "airing_id": "RADS1009152200028870",
+        "id": "fmXjreQHT8e5ixbh0VTmvw",
+        "slug": "working-stiffs",
+        "views": 177376,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251046435-atvss_1203_dup-20130913.jpg",
+        "created": 1402945460,
+        "title_id": "2005989",
+        "season_number": "10",
+        "tv_rating": "tv-14-dls",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663308169,
+        "tags": [],
+        "rating_count": 296,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1628654400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251046435-atvss_1203_dup-20130913.jpg",
+        "cma_id": "1480478"
     },
     {
         "auth": false,
@@ -1305,7 +1361,7 @@
         "cma_id": "1466181"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971920,
         "auth_expiration_date": 1663732740,
         "tms_id": "EP004662930078",
@@ -1355,56 +1411,5 @@
         "launch_date": 1663732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241718137-athf_076_air_PRORES.jpg",
         "cma_id": "1388891"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1445971800,
-        "auth_expiration_date": 1663732740,
-        "tms_id": "EP004662930075",
-        "rating": 7.7390227,
-        "description": "Carl's new male enhancement device produces some unsavory side effects.",
-        "title_suggest": {
-            "input": [
-                "Reedickyoulus"
-            ]
-        },
-        "type": "episode",
-        "title": "Reedickyoulus",
-        "expiration_date": 1590551999,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 684.3003003,
-        "episode_number": "4",
-        "original_air_date": 1202705100,
-        "clip_order": null,
-        "auth_launch_date": 1662523200,
-        "modified": 1662155514,
-        "media_id": "82dce7ff4e71be9046aba2ee95e6d96bfb0a1c2a",
-        "airing_id": "RADS1009022200025747",
-        "id": "w0azUTooQ7GbvPyEdntmrA",
-        "slug": "reedickyoulus",
-        "views": 1233182,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241715488-athf_072_bim.jpg",
-        "created": 1402945461,
-        "title_id": "702580",
-        "season_number": "5",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1662155514,
-        "tags": [],
-        "rating_count": 6445,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1543208400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241715488-athf_072_bim.jpg",
-        "cma_id": "1372129"
     }
 ]
