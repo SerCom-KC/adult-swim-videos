@@ -104,58 +104,6 @@
         "cma_id": "1472117"
     },
     {
-        "auth_expiration_date": 1663732740,
-        "tms_id": "",
-        "description": "Chrimbus is the holiday of receiving, and the Tim and Eric Chrimbus Special is a for retailers only live performance aimed at convincing retailers to buy the DVD of the special.",
-        "title_suggest": {
-            "input": [
-                "Tim and Eric, Awesome Show, Great Job! Chrimbus Special",
-                "and Eric, Awesome Show, Great Job! Chrimbus Special",
-                "Eric, Awesome Show, Great Job! Chrimbus Special",
-                "Awesome Show, Great Job! Chrimbus Special",
-                "Show, Great Job! Chrimbus Special",
-                "Great Job! Chrimbus Special",
-                "Job! Chrimbus Special",
-                "Chrimbus Special",
-                "Special"
-            ]
-        },
-        "title": "Tim and Eric, Awesome Show, Great Job! Chrimbus Special",
-        "expiration_date": 1660708740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 2683.2806,
-        "episode_number": "11",
-        "original_air_date": null,
-        "auth_launch_date": 1660708800,
-        "clip_order": null,
-        "airing_id": "RADS1007082200012727",
-        "media_id": "90e66dfba960270c09c8c5374e3458c51c535e62",
-        "modified": 1660344653,
-        "slug": "tim-and-eric-awesome-show-great-job-chrimbus-special",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210721/thumbnails/1_21721164696-2_2116164669-timanderic_chrimbus2010.jpeg",
-        "created": 1626877731,
-        "season_number": "5",
-        "title_id": "2227423",
-        "tv_rating": "tv-ma",
-        "published": 1660344653,
-        "tags": [],
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1657684800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210721/thumbnails/2_21721164696-2_2116164669-timanderic_chrimbus2010.jpeg",
-        "id": "AXrJeCNeeTntnGIjub0m",
-        "auth": true
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Learn the Keys of Success!",
@@ -428,7 +376,7 @@
         "cma_id": "661594"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783800,
         "auth_expiration_date": 1666756740,
         "tms_id": "EP008994530005",
@@ -585,6 +533,59 @@
         "launch_date": 1661313600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620330-timanderic_106.jpg",
         "cma_id": "661593"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783920,
+        "auth_expiration_date": 1638939540,
+        "tms_id": "EP008994530009",
+        "rating": 6.2205877,
+        "description": "The Uncle Muscles Hour is turned upside down when Casey turns up missing. Casey's brother struggles to adapt to life without him. \r\n(John C. Reilly guest stars)",
+        "title_suggest": {
+            "input": [
+                "Missing"
+            ]
+        },
+        "type": "episode",
+        "title": "Missing",
+        "expiration_date": 1666756740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 675,
+        "episode_number": "10",
+        "original_air_date": 1176695100,
+        "clip_order": null,
+        "auth_launch_date": 1635912000,
+        "modified": 1663306363,
+        "media_id": "00509e66dc3c42db03c0a3125ab965e7222f155f",
+        "airing_id": "RADS1009152200028901",
+        "id": "t-mhh402RbmtoPUXMx8Pmg",
+        "slug": "missing",
+        "views": 588052,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161621542-timanderic_110.jpg",
+        "created": 1402945481,
+        "title_id": "663090",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663306363,
+        "tags": [
+            "tim eric awesome show great job episode 10 missing casey tatum brother uncle muscles  john c reilly steve brule"
+        ],
+        "rating_count": 4352,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663732800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161621542-timanderic_110.jpg",
+        "cma_id": "663090"
     },
     {
         "auth": false,
