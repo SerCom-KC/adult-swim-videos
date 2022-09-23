@@ -46,51 +46,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1663905540,
-        "tms_id": "EP003034830127",
-        "description": "Leela is horrified when her mother begins dating Zapp Brannigan.",
-        "title_suggest": {
-            "input": [
-                "Zapp Dingbat",
-                "Dingbat"
-            ]
-        },
-        "title": "Zapp Dingbat",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1355.2205,
-        "episode_number": "5",
-        "original_air_date": 1655082000,
-        "auth_launch_date": 1663300800,
-        "clip_order": null,
-        "airing_id": "RADS1009122200027829",
-        "media_id": "7ed1f877b7c4172ad293dd5080cad236ef569052",
-        "modified": 1663091907,
-        "slug": "zapp-dingbat",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691645323-Futurama_905_ZappDingbat.png",
-        "created": 1654739459,
-        "title_id": "2161650",
-        "season_number": "9",
-        "tv_rating": "tv-14-d",
-        "published": 1663091907,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691645323-Futurama_905_ZappDingbat.png",
-        "id": "AYFGKF0d208s7zyYUNFt",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1664164740,
         "tms_id": "EP003034830130",
         "description": "Fry is the victim of a horrific sausage-making accident.",
@@ -229,6 +184,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_22621141610-Futurama_909_FreeWillHunting.png",
         "id": "AYGHepgm208s7zyYUNMz",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1664510340,
+        "tms_id": "EP003034830132",
+        "description": "The Professor is deeply disturbed when his parents return from virtual retirement aboard the Near-Death Star.",
+        "title_suggest": {
+            "input": [
+                "Near-Death Wish",
+                "Wish"
+            ]
+        },
+        "title": "Near-Death Wish",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1360.0253,
+        "episode_number": "10",
+        "original_air_date": "1656293400",
+        "auth_launch_date": 1663905600,
+        "clip_order": null,
+        "airing_id": "RADS1009192200029305",
+        "media_id": "d002fa04ecb3a1f037d6c364c54dcfe2424f5bd8",
+        "modified": 1663557755,
+        "slug": "near-death-wish",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211416352-Futurama_910_NearDeathWish.png",
+        "created": 1655835402,
+        "season_number": "9",
+        "title_id": "2161655",
+        "tv_rating": "tv-14-dl",
+        "published": 1663557755,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211416352-Futurama_910_NearDeathWish.png",
+        "id": "AYGHex9h3sQvipyea9U5",
         "auth": true
     }
 ]
