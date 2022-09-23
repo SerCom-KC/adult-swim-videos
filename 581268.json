@@ -3920,6 +3920,58 @@
         "cma_id": "1452875"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447446120,
+        "auth_expiration_date": 1663991999,
+        "tms_id": "EP007008180074",
+        "rating": 6.092209,
+        "description": "Sheriff and Rusty go on a manhunt for Early at Lake Okaleechee.",
+        "title_suggest": {
+            "input": [
+                "Squidbilly Manfishing",
+                "Manfishing"
+            ]
+        },
+        "type": "episode",
+        "title": "Squidbilly Manfishing",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 680.1668057,
+        "episode_number": "3",
+        "original_air_date": 1344226500,
+        "clip_order": null,
+        "auth_launch_date": 1653883200,
+        "modified": 1663972537,
+        "media_id": "eda1bd1d286af5a1731844a733650efb3f187f71",
+        "airing_id": "RADS1005292200001552",
+        "id": "UGShq0UuT4-Gw2zmx8BgAg",
+        "slug": "squidbilly-manfishing",
+        "views": 79138,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131326305-squidbillies_604_dup-20120731.jpg",
+        "created": 1402945477,
+        "title_id": "961483",
+        "season_number": "7",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663972537,
+        "tags": [],
+        "rating_count": 629,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131326305-squidbillies_604_dup-20120731.jpg",
+        "cma_id": "1418520"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Amazing how seamlessly this works.",
