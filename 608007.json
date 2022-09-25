@@ -662,7 +662,7 @@
         "launch_date": 1663491600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221551399-OnePiece_577_ZsAmbitionAGreatAndDesperateEscapePlan.png",
         "id": "AYKyWL883sQvipyea93v",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1667797140,
@@ -813,7 +813,7 @@
         "launch_date": 1664096400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_228291550260-OnePiece_579_ArrivingABurningIslandPunkHazard.png",
         "id": "AYLqmFfB3sQvipyea-B0",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1664701140,
@@ -918,6 +918,58 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_2296153739-OnePiece_582_StartlingTheSecretOfTheIslandIsFinallyRevealed.png",
         "id": "AYMUTvr3IAxeiVkFtLRo",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1665910740,
+        "tms_id": "EP022794030005",
+        "description": "Nami's soft spot for children prompts her to call off the escape and declare war on anyone who makes a kid cry. Meanwhile, Luffy and the gang take a banana boat to the icy side of the island!",
+        "title_suggest": {
+            "input": [
+                "Save the Children! The Straw Hats Start to Fight!",
+                "the Children! The Straw Hats Start to Fight!",
+                "Children! The Straw Hats Start to Fight!",
+                "The Straw Hats Start to Fight!",
+                "Straw Hats Start to Fight!",
+                "Hats Start to Fight!",
+                "Start to Fight!",
+                "to Fight!",
+                "Fight!"
+            ]
+        },
+        "title": "Save the Children! The Straw Hats Start to Fight!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.4978,
+        "episode_number": "5",
+        "original_air_date": "1664083800",
+        "auth_launch_date": 1664096400,
+        "clip_order": null,
+        "airing_id": "RADS1009222200029719",
+        "media_id": "aa0c1ff2e16839c96af2eddb81a873d00a8f8bfb",
+        "modified": 1663965844,
+        "slug": "save-the-children-the-straw-hats-start-to-fight",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/1_229221026134-OnePiece_583_SaveTheChildrenTheStrawHatsStartToFight.png",
+        "created": 1663856785,
+        "season_number": "16",
+        "title_id": "2402475",
+        "tv_rating": "tv-pg-l",
+        "published": 1663965844,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221026134-OnePiece_583_SaveTheChildrenTheStrawHatsStartToFight.png",
+        "id": "AYNll7lpIAxeiVkFtLR0",
         "auth": true
     }
 ]
