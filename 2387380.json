@@ -853,7 +853,7 @@
         "launch_date": 1662885000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_22818151432-Lupinthe3rd_Part6_617_WinOrLoseIn01Seconds.jpg",
         "id": "AYKnDpDCIAxeiVkFtLRa",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1663489740,
@@ -949,7 +949,7 @@
         "launch_date": 1664094600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_22829154942-Lupinthe3rd_Part6_619_FakesAttractLiesPart2.png",
         "id": "AYLqmFWQ3sQvipyea-Bz",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1664699340,
@@ -995,6 +995,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961534325-LupinThe3rd_Part6_620_TwoTerribleLadies.png",
         "id": "AYMUTDJ_3sQvipyea-H6",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1665908940,
+        "tms_id": "EP040430990024",
+        "description": "During an escapade in a seaside town, an imaginative local takes a vested interest in Lupin and company. If only she could be a part of their world.",
+        "title_suggest": {
+            "input": [
+                "Welcome to the Island of Bubbles",
+                "to the Island of Bubbles",
+                "the Island of Bubbles",
+                "Island of Bubbles",
+                "of Bubbles",
+                "Bubbles"
+            ]
+        },
+        "title": "Welcome to the Island of Bubbles",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1293.1252,
+        "episode_number": "21",
+        "original_air_date": "1664082000",
+        "auth_launch_date": 1664094600,
+        "clip_order": null,
+        "airing_id": "RADS1009222200029714",
+        "media_id": "5604dd2cd68f87ef34d639c623e5cd4965503d53",
+        "modified": 1663965797,
+        "slug": "welcome-to-the-island-of-bubbles",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/1_229221024333-LupinThe3rd_Part6_621_WelcomeToTheIslandOfBubbles.png",
+        "created": 1663856684,
+        "season_number": "1",
+        "title_id": "2387402",
+        "tv_rating": "tv-14",
+        "published": 1663965797,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221024333-LupinThe3rd_Part6_621_WelcomeToTheIslandOfBubbles.png",
+        "id": "AYNlli0SIAxeiVkFtLRz",
         "auth": true
     }
 ]
