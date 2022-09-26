@@ -1,98 +1,5 @@
 [
     {
-        "auth_expiration_date": 1664164740,
-        "tms_id": "EP003034830130",
-        "description": "Fry is the victim of a horrific sausage-making accident.",
-        "title_suggest": {
-            "input": [
-                "Fun on a Bun",
-                "on a Bun",
-                "a Bun",
-                "Bun"
-            ]
-        },
-        "title": "Fun on a Bun",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.3814,
-        "episode_number": "8",
-        "original_air_date": "1655688600",
-        "auth_launch_date": 1663560000,
-        "clip_order": null,
-        "airing_id": "RADS1009152200028854",
-        "media_id": "916fcc2b346213b63e69a8b917580c910b029e79",
-        "modified": 1663288341,
-        "slug": "fun-on-a-bun",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/1_226151058181-Futurama_908_FunOnABun.png",
-        "created": 1655305105,
-        "season_number": "9",
-        "title_id": "2161653",
-        "tv_rating": "tv-14-dlv",
-        "published": 1663288341,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151058181-Futurama_908_FunOnABun.png",
-        "id": "AYFn32_V208s7zyYUNIk",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1664164740,
-        "tms_id": "EP003034830131",
-        "description": "Bender embarks on a quest for the meaning of life after discovering that as a robot he lacks free will.",
-        "title_suggest": {
-            "input": [
-                "Free Will Hunting",
-                "Will Hunting",
-                "Hunting"
-            ]
-        },
-        "title": "Free Will Hunting",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1175,
-        "episode_number": "9",
-        "original_air_date": "1656291600",
-        "auth_launch_date": 1663560000,
-        "clip_order": null,
-        "airing_id": "RADS1009152200028862",
-        "media_id": "d9b12673183bcf1b2db8d1f09a056e49411495f2",
-        "modified": 1663287753,
-        "slug": "free-will-hunting",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_22621141610-Futurama_909_FreeWillHunting.png",
-        "created": 1655835367,
-        "season_number": "9",
-        "title_id": "2161654",
-        "tv_rating": "tv-14-dlv",
-        "published": 1663287753,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_22621141610-Futurama_909_FreeWillHunting.png",
-        "id": "AYGHepgm208s7zyYUNMz",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1664510340,
         "tms_id": "EP003034830132",
         "description": "The Professor is deeply disturbed when his parents return from virtual retirement aboard the Near-Death Star.",
@@ -227,6 +134,95 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281433292-Futurama_911_31stCenturyFox.png",
         "id": "AYGrlx83208s7zyYUNR7",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1664769540,
+        "tms_id": "EP003034830139",
+        "description": "Bender and the crew are reimagined as wild animals in a nature documentary.",
+        "title_suggest": {
+            "input": [
+                "Naturama"
+            ]
+        },
+        "title": "Naturama",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1360.1588,
+        "episode_number": "13",
+        "original_air_date": "1657501200",
+        "auth_launch_date": 1664164800,
+        "clip_order": null,
+        "airing_id": "RADS1009232200030574",
+        "media_id": "a18d969e94abc3ea6b09854759a4069001190a4d",
+        "modified": 1663989054,
+        "slug": "naturama",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761726147-Futurama_913_Naturama.png",
+        "created": 1657142785,
+        "season_number": "9",
+        "title_id": "2161658",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1663989054,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726147-Futurama_913_Naturama.png",
+        "id": "AYHVaDU2IAxeiVkFtLQO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1664769540,
+        "tms_id": "EP003034830141",
+        "description": "Professor Farnsworth joins a gang of street-racing punks.",
+        "title_suggest": {
+            "input": [
+                "2-D Blacktop",
+                "Blacktop"
+            ]
+        },
+        "title": "2-D Blacktop",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1349.4147,
+        "episode_number": "1",
+        "original_air_date": "1657503000",
+        "auth_launch_date": 1664164800,
+        "clip_order": null,
+        "airing_id": "RADS1009232200030575",
+        "media_id": "211ac3fa0a9491949033f965116c12cc790486d2",
+        "modified": 1663989051,
+        "slug": "2-d-blacktop",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761726519-Futurama_1001_2DBlacktop.png",
+        "created": 1657142821,
+        "season_number": "10",
+        "title_id": "2161659",
+        "tv_rating": "tv-14-dlv",
+        "published": 1663989051,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726519-Futurama_1001_2DBlacktop.png",
+        "id": "AYHVaMNa3sQvipyea9V5",
         "auth": true
     }
 ]
