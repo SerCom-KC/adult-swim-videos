@@ -905,57 +905,6 @@
         "cma_id": "1453261"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1446739860,
-        "auth_expiration_date": 1664164740,
-        "tms_id": "EP015632430009",
-        "rating": 7.4882107,
-        "description": "Eric interviews Jay-Z, Beyonce and Evangelos. Musical guest Eden Wood.",
-        "title_suggest": {
-            "input": [
-                "Evangelos"
-            ]
-        },
-        "type": "episode",
-        "title": "Evangelos",
-        "expiration_date": 1661140740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 648.7007007,
-        "episode_number": "8",
-        "original_air_date": 1342413000,
-        "clip_order": null,
-        "auth_launch_date": 1661140800,
-        "modified": 1660855416,
-        "media_id": "79f1ecfab6454d4f3ba598c1f56a25a425fd7135",
-        "airing_id": "RADS1007152200014338",
-        "id": "WIfWvjy7RaGOzoAK3zpHEQ",
-        "slug": "evangelos",
-        "views": 98692,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161076-ericandre_109_dup-20120718.jpg",
-        "created": 1402945479,
-        "title_id": "895957",
-        "season_number": "1",
-        "tv_rating": "tv-14-dls",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1660855416,
-        "tags": [],
-        "rating_count": 721,
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658116800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161076-ericandre_109_dup-20120718.jpg",
-        "cma_id": "1439385"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1608181140,
@@ -1277,7 +1226,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446740160,
         "auth_expiration_date": 1667188740,
         "tms_id": "EP015632430013",
@@ -1331,6 +1280,60 @@
         "launch_date": 1661140800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161238-ericandre_013_dup_20131010.jpg",
         "cma_id": "1458388"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1608785940,
+        "tms_id": "EP015632430018",
+        "rating": 7.921348,
+        "description": "Interviews with Joey Fatone and Richard Hatch; Special guest Eric Kelly.",
+        "title_suggest": {
+            "input": [
+                "Joey Fatone / Richard Hatch",
+                "Fatone / Richard Hatch",
+                "/ Richard Hatch",
+                "Richard Hatch",
+                "Hatch"
+            ]
+        },
+        "type": "episode",
+        "title": "Joey Fatone / Richard Hatch",
+        "expiration_date": 1667188740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 676.4004004,
+        "episode_number": "8",
+        "original_air_date": 1385098200,
+        "clip_order": null,
+        "auth_launch_date": 1605762000,
+        "modified": 1663986623,
+        "media_id": "173abf2eb7a90e0d93cf72dbd231fb6a27ecda67",
+        "airing_id": "RADS1009232200030539",
+        "id": "v7zHsYMXQOCRlgYSRNqGYQ",
+        "slug": "joey-fatone-richard-hatch",
+        "views": 46837,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161462-ericandre_018_dup_20131120.jpg",
+        "created": 1402945479,
+        "title_id": "2012286",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663986623,
+        "tags": [],
+        "rating_count": 356,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664164800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161462-ericandre_018_dup_20131120.jpg",
+        "cma_id": "2012286"
     },
     {
         "auth": false,
