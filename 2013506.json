@@ -7498,6 +7498,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Episode 2. Dating profiles are hard.",
+        "title_suggest": {
+            "input": [
+                "Vindicators 2: Pro-Nouns",
+                "2: Pro-Nouns",
+                "Pro-Nouns"
+            ]
+        },
+        "title": "Vindicators 2: Pro-Nouns",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 122.795,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me2bff2127962f6278e2ed8155e2dc55f764fb1401",
+        "modified": 1664390882,
+        "slug": "vindicators-2-pro-nouns",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/1_229281442471-RAM_The_Vindicators2_102_Uncensored.png",
+        "created": 1664390588,
+        "season_number": "",
+        "title_id": "2399282",
+        "tv_rating": "",
+        "published": 1664390882,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1658595637,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/2_229281442471-RAM_The_Vindicators2_102_Uncensored.png",
+        "id": "AYOFaOgXIAxeiVkFtLR5",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
