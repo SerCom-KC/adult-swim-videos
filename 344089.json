@@ -171,6 +171,58 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1638939540,
+        "tms_id": "EP002989350005",
+        "rating": 9.019515,
+        "description": "The soccer team goes on a camping trip that ends in disaster for the coach--and in love for Brendon and Loni.",
+        "title_suggest": {
+            "input": [
+                "Yoko"
+            ]
+        },
+        "type": "episode",
+        "title": "Yoko",
+        "expiration_date": 1667361540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1303.1668335,
+        "episode_number": "5",
+        "original_air_date": 1004324400,
+        "clip_order": null,
+        "auth_launch_date": 1635912000,
+        "modified": 1663989920,
+        "media_id": "05fe8eca82d264a7d952c8200fbe9203cfb633cf",
+        "airing_id": "RADS1009232200030600",
+        "id": "NjoT7r5OSISnYsoqoHydmQ",
+        "slug": "yoko",
+        "views": 391386,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035163109-hmovies_005.jpg",
+        "created": 1402945467,
+        "title_id": "344121",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663989920,
+        "tags": [
+            "home movies episode 5 yoko soccer team camping pee love"
+        ],
+        "rating_count": 615,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664337600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035163109-hmovies_005.jpg",
+        "cma_id": "991754"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
         "auth_expiration_date": 1636520340,
         "tms_id": "EP002989350001",
         "rating": 8.525824,
@@ -223,59 +275,6 @@
         "launch_date": 1661918400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161444-hmovies_001.jpg",
         "cma_id": "991549"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1664337540,
-        "tms_id": "EP002989350059",
-        "rating": 8.869649,
-        "description": "Life turns upside-down for Brendon, Jason and Melissa when they find a lost puppy, which Brendon names Honkey Magoo. The hyper puppy quickly runs out of friends after wrecking Paula's house, ruining the kids' movie, chasing off Mr. Lynch's cats and turning Jason's new parakeet against him.",
-        "title_suggest": {
-            "input": [
-                "Honkey Magoo",
-                "Magoo"
-            ]
-        },
-        "type": "episode",
-        "title": "Honkey Magoo",
-        "expiration_date": 1661313540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1368.3003003,
-        "episode_number": "6",
-        "original_air_date": 1078113600,
-        "clip_order": null,
-        "auth_launch_date": 1661313600,
-        "modified": 1662218049,
-        "media_id": "c1964e711c743e37df585edef8fbc4cd09ff509a",
-        "airing_id": "RADS1008192200022231",
-        "id": "QMPSyRLQSd-KSv1JoJAW1g",
-        "slug": "honkey-magoo",
-        "views": 299971,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035162778-hmovies_045.jpg",
-        "created": 1402945467,
-        "title_id": "449543",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1662218049,
-        "tags": [
-            "home movies episode 45 honkey magoo lost puppy parakeet"
-        ],
-        "rating_count": 537,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658289600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162778-hmovies_045.jpg",
-        "cma_id": "991957"
     },
     {
         "auth": true,
@@ -337,7 +336,7 @@
         "cma_id": "992326"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1667361540,
         "tms_id": "EP002989350060",
