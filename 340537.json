@@ -53,7 +53,7 @@
         "cma_id": "1369860"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1446126420,
         "auth_expiration_date": 1664337540,
         "tms_id": "EP004662930099",
@@ -634,59 +634,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1446135240,
-        "auth_expiration_date": 1664337540,
-        "tms_id": "EP017757420003",
-        "rating": 7.54185,
-        "description": "Master Shake's crippling addiction to shellfish leads to a long-overdue intervention.",
-        "title_suggest": {
-            "input": [
-                "Merlo Sauvignon Blanco",
-                "Sauvignon Blanco",
-                "Blanco"
-            ]
-        },
-        "type": "episode",
-        "title": "Merlo Sauvignon Blanco",
-        "expiration_date": 1630504740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 664.1668057,
-        "episode_number": "3",
-        "original_air_date": 1377489600,
-        "clip_order": null,
-        "auth_launch_date": 1662523200,
-        "modified": 1662154327,
-        "media_id": "a546d0e46989259064619cf6391aefbc5d23ed50",
-        "airing_id": "RADS1009022200025731",
-        "id": "F5aD-5YsSEGvBnOYIke4nw",
-        "slug": "merlo-sauvignon-blanco",
-        "views": 134171,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251044299-atvss_1204_dup-20130822.jpg",
-        "created": 1402945460,
-        "title_id": "2005990",
-        "season_number": "10",
-        "tv_rating": "tv-14-lv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1662154327,
-        "tags": [],
-        "rating_count": 227,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1627480800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251044299-atvss_1204_dup-20130822.jpg",
-        "cma_id": "1461881"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1445971860,
         "auth_expiration_date": 1664942340,
         "tms_id": "EP004662930077",
@@ -740,58 +687,6 @@
         "launch_date": 1543208400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241716403-athf_074_bim.jpg",
         "cma_id": "1380467"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1445971800,
-        "auth_expiration_date": 1664337540,
-        "tms_id": "EP004662930076",
-        "rating": 7.8078985,
-        "description": "Carl's home becomes a haven for furries.",
-        "title_suggest": {
-            "input": [
-                "Hoppy Bunny",
-                "Bunny"
-            ]
-        },
-        "type": "episode",
-        "title": "Hoppy Bunny",
-        "expiration_date": 1590551999,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 669.4004004,
-        "episode_number": "5",
-        "original_air_date": 1203309900,
-        "clip_order": null,
-        "auth_launch_date": 1663128000,
-        "modified": 1663080837,
-        "media_id": "a72b36cb32abbe7868b6abe992faff20dd928b2e",
-        "airing_id": "RADS1009122200027723",
-        "id": "GcvxAhvZQ4GlftahiBRYrg",
-        "slug": "hoppy-bunny",
-        "views": 1076022,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241716146-athf_073_BIM.jpg",
-        "created": 1402945461,
-        "title_id": "702581",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663080837,
-        "tags": [],
-        "rating_count": 5039,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1543208400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241716146-athf_073_BIM.jpg",
-        "cma_id": "1376306"
     },
     {
         "auth": true,
@@ -856,7 +751,7 @@
         "cma_id": "786554"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445970600,
         "auth_expiration_date": 1667361540,
         "tms_id": "EP004662930047",
@@ -1197,6 +1092,60 @@
         "cma_id": "1480478"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1445971920,
+        "auth_expiration_date": 1665547140,
+        "tms_id": "EP004662930079",
+        "rating": 7.758192,
+        "description": "When Meatwad unwittingly enlists the Aqua Teens into the Marine Corps, Frylock flees the country.",
+        "title_suggest": {
+            "input": [
+                "The Marines",
+                "Marines"
+            ]
+        },
+        "type": "episode",
+        "title": "The Marines",
+        "expiration_date": 1590551999,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 676.3670337,
+        "episode_number": "9",
+        "original_air_date": 1205725500,
+        "clip_order": null,
+        "auth_launch_date": 1664337600,
+        "modified": 1663989059,
+        "media_id": "366e1e6acd0942525c41d55e212b79f319e4dfc0",
+        "airing_id": "RADS1009232200030605",
+        "id": "i90Aj1vQSXO843dmzxn5qg",
+        "slug": "the-marines",
+        "views": 1181131,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241718449-athf_077_BIM.jpg",
+        "created": 1402945461,
+        "title_id": "702584",
+        "season_number": "5",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663989059,
+        "tags": [
+            "aqua teen hunger force episode athf 77 the marines saw canada army"
+        ],
+        "rating_count": 5951,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1543208400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241718449-athf_077_BIM.jpg",
+        "cma_id": "1393378"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1445971260,
         "auth_expiration_date": 1657079940,
@@ -1411,5 +1360,56 @@
         "launch_date": 1663732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241718137-athf_076_air_PRORES.jpg",
         "cma_id": "1388891"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1446135420,
+        "auth_expiration_date": 1666151940,
+        "tms_id": "EP017757420006",
+        "rating": 6.857143,
+        "description": "Master Shake joins a hippie drum circle, and his new bongos harbor a dark secret.",
+        "title_suggest": {
+            "input": [
+                "Skins"
+            ]
+        },
+        "type": "episode",
+        "title": "Skins",
+        "expiration_date": 1632319140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 676.5838198,
+        "episode_number": "6",
+        "original_air_date": 1379908800,
+        "clip_order": null,
+        "auth_launch_date": 1664337600,
+        "modified": 1663989629,
+        "media_id": "4ec7b5077aad42e658cf259d197a68397d62ac0e",
+        "airing_id": "RADS1009232200030612",
+        "id": "yC3sTbHbSNKefQIYs4eRBA",
+        "slug": "skins",
+        "views": 267607,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251054467-atvss_1207_dup-20130918.jpg",
+        "created": 1402945460,
+        "title_id": "2005993",
+        "season_number": "10",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663989629,
+        "tags": [],
+        "rating_count": 308,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1629295200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251054467-atvss_1207_dup-20130918.jpg",
+        "cma_id": "1476511"
     }
 ]

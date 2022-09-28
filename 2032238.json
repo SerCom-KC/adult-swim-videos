@@ -100,6 +100,54 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1643777940,
+        "tms_id": "EP020020000065",
+        "description": "The thrills and chills of sexting.",
+        "title_suggest": {
+            "input": [
+                "Pilot Error",
+                "Error"
+            ]
+        },
+        "title": "Pilot Error",
+        "expiration_date": 1667361540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 673.3727,
+        "episode_number": "14",
+        "original_air_date": 1579497300,
+        "auth_launch_date": 1637730000,
+        "clip_order": null,
+        "media_id": "e9a3fbbf3b78b6a4903948524e29854720a6422f",
+        "modified": 1663991140,
+        "airing_id": "RADS1009232200030644",
+        "slug": "pilot-error",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/1_20171325454-miketysonmysteries_414.jpg",
+        "created": 1578421549,
+        "season_number": "4",
+        "title_id": "2172011",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1663991140,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664337600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171325454-miketysonmysteries_414.jpg",
+        "id": "AW-BQXsE3HMJfT8do608",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1641963540,
         "tms_id": "EP020020000067",
         "description": "White Privilege turns on itself.",
@@ -700,7 +748,7 @@
         "launch_date": 1661313600,
         "poster": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654447-miketysonmysteries_409_dup-20190605.jpg",
         "id": "AWwq6jnV4aLemgzOLGDL",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -752,57 +800,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654555-miketysonmysteries_410_dup-20190710.jpg",
         "id": "AWwq6mDd4aLemgzOLGDM",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1664337540,
-        "tms_id": "EP020020000049",
-        "description": "A show about authentic wives who live in a wealthy community.",
-        "title_suggest": {
-            "input": [
-                "Real Bitches of Newport Beach",
-                "Bitches of Newport Beach",
-                "of Newport Beach",
-                "Newport Beach",
-                "Beach"
-            ]
-        },
-        "title": "Real Bitches of Newport Beach",
-        "type": "episode",
-        "expiration_date": 1658289540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 652.38,
-        "episode_number": "19",
-        "original_air_date": 1525663800,
-        "clip_order": null,
-        "auth_launch_date": 1658289600,
-        "modified": 1657935554,
-        "media_id": "2cb5a0f5df12f29196e8cf47245bed1e682a5f1e",
-        "airing_id": "RADS1007152200014491",
-        "id": "KYwb9l5mQc2FnQWWcm9uzQ",
-        "slug": "real-bitches-of-newport-beach",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111537419-miketysonmysteries_319_dup-20170821.jpg",
-        "created": 1502135438,
-        "season_number": "3",
-        "title_id": "2117702",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1657935554,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655265600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111537419-miketysonmysteries_319_dup-20170821.jpg",
-        "cma_id": ""
     },
     {
         "auth": true,
