@@ -7686,6 +7686,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Episode 6. Supernova and Vance Maximus clean up after some Vindicating.",
+        "title_suggest": {
+            "input": [
+                "Vindicators 2: Mercy Kill",
+                "2: Mercy Kill",
+                "Mercy Kill",
+                "Kill"
+            ]
+        },
+        "title": "Vindicators 2: Mercy Kill",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 161.728,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "mec5fae932db484c1c335d8ff51b336a2bee6c4b94",
+        "modified": 1664392575,
+        "slug": "vindicators-2-mercy-kill",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/1_229281510238-RAM_The_Vindicators2_106_Uncensored.png",
+        "created": 1664392244,
+        "season_number": "",
+        "title_id": "2399290",
+        "tv_rating": "",
+        "published": 1664392575,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1658595616,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/2_229281510238-RAM_The_Vindicators2_106_Uncensored.png",
+        "id": "AYOFgis-IAxeiVkFtLR9",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
