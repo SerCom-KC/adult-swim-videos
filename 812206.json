@@ -1432,6 +1432,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1667188799,
+        "tms_id": "EP034917240117",
+        "description": "Danzo deliberately misleads Hanzo, telling him that the Akatsuki are attempting to sabotage the peace talks between the Hidden Rain and Stone.",
+        "title_suggest": {
+            "input": [
+                "The New Akatsuki",
+                "New Akatsuki",
+                "Akatsuki"
+            ]
+        },
+        "title": "The New Akatsuki",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1312.311,
+        "episode_number": "65",
+        "original_air_date": 1625380200,
+        "auth_launch_date": 1664359200,
+        "clip_order": null,
+        "airing_id": "RADS1009232200030632",
+        "media_id": "d3a72e6c28a998051f4e4736c912b52b2751e664",
+        "modified": 1663992958,
+        "slug": "the-new-akatsuki",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/1_2171145388-NarutoShippuden_348_ANewAkatsuki.png",
+        "created": 1625150528,
+        "title_id": "2177777",
+        "season_number": "6",
+        "tv_rating": "tv-pg",
+        "published": 1663992958,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_2171145388-NarutoShippuden_348_ANewAkatsuki.png",
+        "id": "AXpihRtUDmGy9WFjRrpk",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1665568740,
         "tms_id": "EP034917240163",
         "description": "Kakashi becomes part of the ANBU Black Ops, an elite team of shinobi who are under the direct command of the Fourth Hokage, Minato Namikaze.",
