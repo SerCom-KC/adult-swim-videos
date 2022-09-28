@@ -7591,6 +7591,54 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Episode 4. What would Alan Rails Do?",
+        "title_suggest": {
+            "input": [
+                "Vindicators 2: Out of Gas",
+                "2: Out of Gas",
+                "Out of Gas",
+                "of Gas",
+                "Gas"
+            ]
+        },
+        "title": "Vindicators 2: Out of Gas",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 133.653,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "med3eca719a7f02446678f4ede1fbd91194cc53a6b",
+        "modified": 1664391744,
+        "slug": "vindicators-2-out-of-gas",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/1_229281456464-RAM_The_Vindicators2_104_Uncensored.png",
+        "created": 1664391428,
+        "season_number": "",
+        "title_id": "2399286",
+        "tv_rating": "",
+        "published": 1664391744,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1658595643,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/2_229281456464-RAM_The_Vindicators2_104_Uncensored.png",
+        "id": "AYOFdbslIAxeiVkFtLR7",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
