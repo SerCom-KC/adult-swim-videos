@@ -7639,6 +7639,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Episode 5. Noob Noob finds love in a hopeless place.",
+        "title_suggest": {
+            "input": [
+                "Vindicators 2: First Love",
+                "2: First Love",
+                "First Love",
+                "Love"
+            ]
+        },
+        "title": "Vindicators 2: First Love",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 144.149,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me6c01e0d33d2b44ed9260cc5b5852a56452bb4b27",
+        "modified": 1664392180,
+        "slug": "vindicators-2-first-love",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/1_22928153251-RAM_The_Vindicators2_105_Uncensored.png",
+        "created": 1664391824,
+        "season_number": "",
+        "title_id": "2399288",
+        "tv_rating": "",
+        "published": 1664392180,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1658595607,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/2_22928153251-RAM_The_Vindicators2_105_Uncensored.png",
+        "id": "AYOFe8MiIAxeiVkFtLR8",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
