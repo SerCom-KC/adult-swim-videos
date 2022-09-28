@@ -211,6 +211,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447783920,
+        "auth_expiration_date": 1639544340,
+        "tms_id": "EP008994530011",
+        "rating": 7.7815695,
+        "description": "The existence of someone as cool as Raz threatens to drive a wedge through the Tim and Eric partnership. (Bob Odenkirk, Al Yankovic)",
+        "title_suggest": {
+            "input": [
+                "Vacation"
+            ]
+        },
+        "type": "episode",
+        "title": "Vacation",
+        "expiration_date": 1667361540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 697.026,
+        "episode_number": "1",
+        "original_air_date": 1195449300,
+        "clip_order": null,
+        "auth_launch_date": 1636520400,
+        "modified": 1663989623,
+        "media_id": "c6090cbf859ca0604b58f928711bdbc3e5ac46c7",
+        "airing_id": "RADS1009232200030616",
+        "id": "NrQiFf6wSq6uQF7rQolNkQ",
+        "slug": "vacation",
+        "views": 1238004,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161622179-timanderic_201.jpg",
+        "created": 1402945481,
+        "title_id": "691937",
+        "tv_rating": "tv-14",
+        "season_number": "2",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1663989623,
+        "tags": [
+            "time and eric awesome show great job episode 11 vacation raz bob odenkirk al yankovic"
+        ],
+        "rating_count": 7824,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664337600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161622179-timanderic_201.jpg",
+        "cma_id": "691937"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1503930600,
         "auth_expiration_date": null,
         "tms_id": "SH027314480000",
@@ -268,59 +321,6 @@
         "launch_date": 1503603292,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116157434-timanderic_10thAnniversary_dup-20170919.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783560,
-        "auth_expiration_date": 1664337540,
-        "tms_id": "EP008994530001",
-        "rating": 6.4569983,
-        "description": "Tim's dad sends him a gift basket wishing him luck on the new show. Leif and C Boy square off in hackey sack.\r\n(John C. Reilly, Bob Odenkirk guest star)",
-        "title_suggest": {
-            "input": [
-                "Dads"
-            ]
-        },
-        "type": "episode",
-        "title": "Dads",
-        "expiration_date": 1661313540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 683.022,
-        "episode_number": "1",
-        "original_air_date": 1171255500,
-        "clip_order": null,
-        "auth_launch_date": 1661313600,
-        "modified": 1660943633,
-        "media_id": "89bead6fb7f3c74c4ea8da13e308f13796748a91",
-        "airing_id": "RADS1008192200022265",
-        "id": "ZjGbRvTGQcmk3LwnGXZGfw",
-        "slug": "dads",
-        "views": 807749,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161610137-timanderic_101.jpg",
-        "created": 1402945481,
-        "title_id": "661588",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1660943633,
-        "tags": [
-            "tim eric awesome show great job episode 1 series premiere first dads leif c boy hackey sack john c reilly bob odenkirk"
-        ],
-        "rating_count": 8429,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658289600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161610137-timanderic_101.jpg",
-        "cma_id": "1457834"
     },
     {
         "auth": false,
@@ -482,7 +482,7 @@
         "cma_id": "663089"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783800,
         "auth_expiration_date": 1667361540,
         "tms_id": "EP008994530006",
