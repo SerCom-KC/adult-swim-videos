@@ -7873,6 +7873,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Episode 10. The Vindicators are rewarded for their service.",
+        "title_suggest": {
+            "input": [
+                "Vindicators 2: Heroes",
+                "2: Heroes",
+                "Heroes"
+            ]
+        },
+        "title": "Vindicators 2: Heroes",
+        "expiration_date": null,
+        "type": "clip",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "online-exclusive",
+            "roku"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 165.845,
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "me9b37651a0e1dfd1c88dadd90c8c190f87c439f54",
+        "modified": 1664394376,
+        "slug": "vindicators-2-heroes",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/1_229281539466-RAM_The_Vindicators2_109.png",
+        "created": 1664394011,
+        "season_number": "",
+        "title_id": "2399294",
+        "tv_rating": "",
+        "published": 1664394376,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1658595635,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220928/thumbnails/2_229281539466-RAM_The_Vindicators2_109.png",
+        "id": "AYOFnSVC3sQvipyea-cf",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
