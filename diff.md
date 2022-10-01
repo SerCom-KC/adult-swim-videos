@@ -2,33 +2,41 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 1, 2022 at 02:00:24 EDT_
+_Last Update: October 1, 2022 at 02:30:23 EDT_
 ## Video added
 ### Summary
-2143080 Black Clover: 3  
-### 2192591
-**Black Clover S02E16 - A Fun Festival Double Date**  
-TV-PG-V 🔒 21:32  
+2143080 Black Clover: 4  
+### 2188295
+**Black Clover S02E08 - Flames of Hatred**  
+TV-PG-V 🔒 21:37  
 ⌛ October 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/a-fun-festival-double-date  
-seriesid=`2143080` titleid=`2192591` id=`AWpWX8EgHl5gR6828zVp` mediaid=`c6636f67eb2e59a9dc886e5ede3c6dd62656d4b0`  
-_Time for a festival—the Star Festival that is! The Magic Knights all gather to celebrate the stars each squad has earned. But when Asta invites Kahono and Kiato, he and Noelle end up on a double date with them!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622724962711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622724962711.jpg" height="144px" /></a>
-### 2192590
-**Black Clover S02E15 - The Secret of the Eye of the Midnight Sun**  
-TV-14-V 🔒 21:34  
+https://www.adultswim.com/videos/black-clover/flames-of-hatred  
+seriesid=`2143080` titleid=`2188295` id=`AWkmK34-Hl5gR6828yix` mediaid=`00d67e2e2f337431946215aa48902aa3b1b127d1`  
+_The battle heats up as Asta and the Black Bulls face the furious flamed-up Fana! But when her fire gets too hot and starts affecting Vanessa and Finral's magic, it's up to Noelle to use her water magic to cool things off!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15514648249541.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15514648249541.jpg" height="144px" /></a>
+### 2193627
+**Black Clover S02E18 - The Briar Maiden's Melancholy**  
+TV-14-DLSV 🔒 21:37  
 ⌛ October 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/the-secret-of-the-eye-of-the-midnight-sun  
-seriesid=`2143080` titleid=`2192590` id=`AWoiyzhiHl5gR6828zQM` mediaid=`2ba13924f39e597dba7c38107582814e5a55da19`  
-_It's study session time! Klaus wants his team ready to face the Eye of the Midnight Sun at any given moment. So what better way to prep than studying everything their enemy has done?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15556870833737.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15556870833737.jpg" height="144px" /></a>
-### 2196252
-**Black Clover S02E20 - The Uncrowned, Undefeated Lioness**  
-TV-14 🔒 21:30  
+https://www.adultswim.com/videos/black-clover/the-briar-maidens-melancholy  
+seriesid=`2143080` titleid=`2193627` id=`AWqX3a2_4aLemgzOLEdv` mediaid=`6f4bf3c44c28989a57ad68e1e5184cf62c78950e`  
+_The Captain of the Blue Rose Knights is ready to show her thorns when she starts attracting the wrong kind of attention at the festival._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155751085789516.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155751085789516.jpg" height="144px" /></a>
+### 2200934
+**Black Clover S02E30 - The Life of a Certain Man**  
+TV-14 🔒 21:39  
 ⌛ October 5, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/the-uncrowned-undefeated-lioness  
-seriesid=`2143080` titleid=`2196252` id=`AWrqYpWU4aLemgzOLEml` mediaid=`91661731ed7f71b03323b5009425d809cdba4eb4`  
-_Asta, Yuno, and Noelle get dragged to the Crimson Lion Kings' training camp when Mereoleona gets her paws on them. This is no trip to the hot springs, it's a fiery death trap in a volcanic belt! And only those with mana can survive._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15590553278469.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15590553278469.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/black-clover/the-life-of-a-certain-man  
+seriesid=`2143080` titleid=`2200934` id=`AWxOW-pk4aLemgzOLGHS` mediaid=`8865d1cfc0ef4d422c636ee8ef974a05f28881b8`  
+_When the Black Bulls step in to stop Langris from dealing a final blow to Finral, the Wizard King demands the fight between Asta and Langris happen in the semi-finals! It's Team B versus Team G to see who is superior, and who will survive!_  
+<a href="https://media.cdn.adultswim.com/uploads/20190802/thumbnails/2_1982114685-blackclover_081_dup-20190723.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190802/thumbnails/2_1982114685-blackclover_081_dup-20190723.jpg" height="144px" /></a>
+### 2191413
+**Black Clover S02E13 - The Red Thread of Fate**  
+TV-14-V 🔒 21:41  
+⌛ October 5, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-clover/the-red-thread-of-fate  
+seriesid=`2143080` titleid=`2191413` id=`AWnqKRHIAScUIg8XxejT` mediaid=`6726a63a0fb2a9e6be32f3490a467aa86cca9df8`  
+_The power to control fate is within everyone. Vanessa discovers a new power that will save her friends and stop the wicked Queen of Witches._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155473094820715.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155473094820715.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
