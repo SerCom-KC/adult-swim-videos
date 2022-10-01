@@ -687,6 +687,53 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447787040,
+        "auth_expiration_date": 1646888340,
+        "tms_id": "EP013726210010",
+        "description": "Gary learns the subtleties of working someone's conscience with help from an unexpected friend.",
+        "title_suggest": {
+            "input": [
+                "Shoulder Work",
+                "Work"
+            ]
+        },
+        "expiration_date": 1667447940,
+        "title": "Shoulder Work",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 674.74,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "2",
+        "original_air_date": 1437365700,
+        "clip_order": null,
+        "auth_launch_date": 1643864400,
+        "modified": 1664600574,
+        "airing_id": "RADS1010012200033384",
+        "media_id": "1547573698efc9392048e495e90684a61cf331eb",
+        "id": "MGjJ04MnR5erwEzXgE9ahw",
+        "slug": "shoulder-work",
+        "views": 43748,
+        "created": 1436294121,
+        "season_number": "2",
+        "title_id": "2062764",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1664600574,
+        "first_published": 1437189641,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1664640000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg",
+        "cma_id": "1389350"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "That stain is never gonna come out.",
         "title_suggest": {
