@@ -711,7 +711,7 @@
         "launch_date": 1664096400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_228291550260-OnePiece_579_ArrivingABurningIslandPunkHazard.png",
         "id": "AYLqmFfB3sQvipyea-B0",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1664701140,
@@ -764,7 +764,7 @@
         "launch_date": 1664701200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961536108-OnePiece_581_TheStrawHatsStunnedEnterASamuraisHorrifyingSeveredHead.png",
         "id": "AYMUTb3Q3sQvipyea-H7",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1664702940,
@@ -816,6 +816,53 @@
         "launch_date": 1664703000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_2296153739-OnePiece_582_StartlingTheSecretOfTheIslandIsFinallyRevealed.png",
         "id": "AYMUTvr3IAxeiVkFtLRo",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1666515540,
+        "tms_id": "EP044419410007",
+        "description": "Nami and Chopper seek a safe exit for the children, Luffy's group hopes to avoid a perilous plunge into icy waters, and Captain Smoker faces off against Trafalgar Law!",
+        "title_suggest": {
+            "input": [
+                "The Warlord! Trafalgar Law!",
+                "Warlord! Trafalgar Law!",
+                "Trafalgar Law!",
+                "Law!"
+            ]
+        },
+        "title": "The Warlord! Trafalgar Law!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1331.9306,
+        "episode_number": "7",
+        "original_air_date": 1664688600,
+        "auth_launch_date": 1664701200,
+        "clip_order": null,
+        "airing_id": "RADS1009262200030814",
+        "media_id": "416d23f695f672413e1c92ff9bb74a680ee463c0",
+        "modified": 1664568463,
+        "slug": "the-warlord-trafalgar-law",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220927/thumbnails/1_229271555137-OnePiece_585_TheWarlordTrafalgarLaw.png",
+        "created": 1664150452,
+        "title_id": "2402477",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "published": 1664568463,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271555137-OnePiece_585_TheWarlordTrafalgarLaw.png",
+        "id": "AYN3GLoJ3sQvipyea-ao",
         "auth": true
     },
     {
