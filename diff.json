@@ -1,19 +1,18 @@
 {
-    "updated": 1664712022,
-    "added": [],
-    "removed": [
+    "updated": 1664735425,
+    "added": [
         {
-            "auth_expiration_date": 1664710140,
-            "tms_id": "EP034917240270",
-            "description": "Hashirama and Madara continue their old grudge match and fiercely battle while the other shinobi are unable to do anything but watch helplessly from the sidelines.",
+            "auth_expiration_date": null,
+            "tms_id": "EP044512610001",
+            "description": "Everything in Housing Complex C has always seemed fine. Until a new batch residents move in, and some strange incidents occur. Is their arrival just a coincidence? One of the established residents, Kimi, joins one of the new girls, Yuri, and together they make an odd discovery.",
             "title_suggest": {
                 "input": [
-                    "An Opening",
-                    "Opening"
+                    "Optical Illusion",
+                    "Illusion"
                 ]
             },
-            "title": "An Opening",
-            "expiration_date": null,
+            "title": "Optical Illusion",
+            "expiration_date": 1668315540,
             "type": "episode",
             "platforms": [
                 "android",
@@ -21,34 +20,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1310.5092,
-            "episode_number": "31",
-            "original_air_date": "1646553600",
-            "auth_launch_date": 1655638200,
+            "collection_id": "AYOPu9eNIAxeiVkFtLR_",
+            "duration": 0,
+            "episode_number": "1",
+            "original_air_date": 1664683200,
+            "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "RADS1006152200007008",
-            "media_id": "5410be160845581e0d0d2cef4ba3c73f86b9721a",
-            "modified": 1664289168,
-            "slug": "an-opening",
+            "airing_id": "",
+            "media_id": "d8ed118d7011a5c8b409a58d7ab59eb97d6cfd5c",
+            "modified": 1664732050,
+            "slug": "optical-illusion",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311354178-NarutoShippuden_379_AnOpening.png",
-            "created": 1646160870,
-            "season_number": "7",
-            "title_id": "2177809",
-            "tv_rating": "tv-pg",
-            "published": 1664289168,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220930/thumbnails/1_229301456195-HousingComplexC101OpticalIllusion-min.png",
+            "created": 1664564206,
+            "season_number": "1",
+            "title_id": "2398941",
+            "tv_rating": "tv-ma-v",
+            "published": 1664732050,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Housing Complex C",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311354178-NarutoShippuden_379_AnOpening.png",
-            "id": "AX9G1X03_0O4w1rD3Rw8",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "modified_by": "Jonathan Jackson",
+            "launch_date": 1664730969,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220930/thumbnails/2_229301456195-HousingComplexC101OpticalIllusion-min.png",
+            "id": "AYOPwhqbIAxeiVkFtLSA",
+            "auth": false,
+            "collection_slug": "housing-complex-c",
+            "collection_title_id": "2398940",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
