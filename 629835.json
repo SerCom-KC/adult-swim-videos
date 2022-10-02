@@ -171,65 +171,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1664683140,
-        "tms_id": "EP002070020096",
-        "rating": 8.200821,
-        "description": "When Dale is forced to give up his extermination job, he discovers a talent for firing employees at his new place of work.",
-        "title_suggest": {
-            "input": [
-                "The Exterminator",
-                "Exterminator"
-            ]
-        },
-        "type": "episode",
-        "title": "The Exterminator",
-        "expiration_date": 1505100599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1398.03,
-        "episode_number": "14",
-        "original_air_date": 1232593200,
-        "auth_launch_date": 1664078400,
-        "clip_order": null,
-        "modified": 1663857095,
-        "media_id": "964f94b2d29b586dd2976c693e089a8dc6956145",
-        "airing_id": "RADS1009192200029402",
-        "id": "Lr9BD3s6R9uWMkRmCOY39g",
-        "slug": "the-exterminator",
-        "views": 470781,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/1_229221031159-KingOfTheHill_509_TheExterminator.png",
-        "created": 1402945468,
-        "title_id": "731341",
-        "season_number": "5",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1663857095,
-        "tags": [
-            "king of the hill",
-            " the exterminator",
-            " dale",
-            " extermination",
-            " job",
-            " talent",
-            " fire",
-            " firing",
-            " employee",
-            " work"
-        ],
-        "rating_count": 732,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": 1504495800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221031159-KingOfTheHill_509_TheExterminator.png",
-        "cma_id": "1464949"
-    },
-    {
-        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1665115140,
         "tms_id": "EP002070020104",
@@ -283,5 +224,59 @@
         "launch_date": 1504668600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271550356-KingOfTheHill_518_ItsNotEasyBeingGreen.png",
         "cma_id": "1465751"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1665287940,
+        "tms_id": "EP002070020106",
+        "rating": 7.49074,
+        "description": "Hank, Dale, Bill and Boomhauer enter the Durndle County Lawn Mower Races, but Hank is almost sidelined by debilitating back pain that is diagnosed as the result of the genetic condition of not having a rear end.",
+        "title_suggest": {
+            "input": [
+                "Hank's Back Story",
+                "Back Story",
+                "Story"
+            ]
+        },
+        "type": "episode",
+        "title": "Hank's Back Story",
+        "expiration_date": 1505446199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.1958,
+        "episode_number": "19",
+        "original_air_date": 1232938800,
+        "clip_order": null,
+        "auth_launch_date": 1664683200,
+        "modified": 1664308299,
+        "media_id": "a60ee70cf895a7b3627e577558e01cef9a1250c2",
+        "airing_id": "RADS1009252200030786",
+        "id": "pemmvphuRJ-mVUBxMrjhQA",
+        "slug": "hanks-back-story",
+        "views": 203243,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220927/thumbnails/1_229271551228-KingOfTheHill_517_HanksBackStory.png",
+        "created": 1402945468,
+        "title_id": "731347",
+        "season_number": "5",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1664308299,
+        "tags": [
+            "king of the hill koth episode 517 hank's back story butt diminished glutes lawnmower race"
+        ],
+        "rating_count": 540,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": 1504841400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271551228-KingOfTheHill_517_HanksBackStory.png",
+        "cma_id": "1468362"
     }
 ]
