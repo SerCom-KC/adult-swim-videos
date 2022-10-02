@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1664683140,
-        "tms_id": "EP003034830133",
-        "description": "After saving a robotic fox from hunters, Bender becomes the hunted.",
-        "title_suggest": {
-            "input": [
-                "31st Century Fox",
-                "Century Fox",
-                "Fox"
-            ]
-        },
-        "title": "31st Century Fox",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "12",
-        "original_air_date": "1656898200",
-        "auth_launch_date": 1664078400,
-        "clip_order": null,
-        "airing_id": "RADS1009192200029397",
-        "media_id": "47c45aff9a35d03675760fe75f0c9edcc420a783",
-        "modified": 1663650748,
-        "slug": "31st-century-fox",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/1_226281433292-Futurama_911_31stCenturyFox.png",
-        "created": 1656441216,
-        "season_number": "9",
-        "title_id": "2161656",
-        "tv_rating": "tv-14-d",
-        "published": 1663650748,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281433292-Futurama_911_31stCenturyFox.png",
-        "id": "AYGrlx83208s7zyYUNR7",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1664769540,
         "tms_id": "EP003034830139",
         "description": "Bender and the crew are reimagined as wild animals in a nature documentary.",
@@ -226,6 +180,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_22712104959-Futurama_1003_TTheTerrestrial.png",
         "id": "AYHy4ru-IAxeiVkFtLQX",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1665287940,
+        "tms_id": "EP003034830145",
+        "description": "At a maximum security prison, Bender meets a famous folk singer and attempts to make a copy of his precious guitar.",
+        "title_suggest": {
+            "input": [
+                "Forty Percent Leadbelly",
+                "Percent Leadbelly",
+                "Leadbelly"
+            ]
+        },
+        "title": "Forty Percent Leadbelly",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1364.363,
+        "episode_number": "4",
+        "original_air_date": "1658710800",
+        "auth_launch_date": 1664683200,
+        "clip_order": null,
+        "airing_id": "RADS1009252200030787",
+        "media_id": "9b3c8394a3e47053c627e6adbb01e7080dfc4759",
+        "modified": 1664279851,
+        "slug": "forty-percent-leadbelly",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/1_2272083625-Futurama_1004_FortyPercentLeadbelly.png",
+        "created": 1658320571,
+        "season_number": "10",
+        "title_id": "2161662",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1664279851,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_2272083625-Futurama_1004_FortyPercentLeadbelly.png",
+        "id": "AYIbm8ye3sQvipyea9fv",
         "auth": true
     }
 ]
