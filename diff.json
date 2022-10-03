@@ -1,21 +1,20 @@
 {
-    "updated": 1664801359,
-    "added": [],
-    "removed": [
+    "updated": 1664803514,
+    "added": [
         {
-            "auth_expiration_date": 1664855940,
-            "tms_id": "EP007259620224",
-            "description": "Robot Chicken asks if Totoro is overweight and doesn't like the answer; Jigsaw outgrows his tricycle; The Washington Generals destroy the entire world of basketball!",
+            "auth_expiration_date": 1664855999,
+            "tms_id": "EP007259620234",
+            "description": "According to Robot Chicken, Fred Flintstone's meaning of Christmas is madness; Freddy Krueger's nightmare is a weirdo's wet dream; We interview a toilet.",
             "title_suggest": {
                 "input": [
-                    "May Cause Immaculate Conception",
-                    "Cause Immaculate Conception",
-                    "Immaculate Conception",
-                    "Conception"
+                    "May Cause Indecision...Or Not",
+                    "Cause Indecision...Or Not",
+                    "Indecision...Or Not",
+                    "Not"
                 ]
             },
-            "title": "May Cause Immaculate Conception",
-            "expiration_date": 1661831940,
+            "title": "May Cause Indecision...Or Not",
+            "expiration_date": 1655179140,
             "type": "episode",
             "platforms": [
                 "android",
@@ -24,33 +23,34 @@
                 "fire-tv"
             ],
             "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 646.5793,
-            "episode_number": "4",
-            "original_air_date": "1631160000",
-            "auth_launch_date": 1661832000,
+            "duration": 665.5983,
+            "episode_number": "14",
+            "original_air_date": "1645419600",
+            "auth_launch_date": 1658203200,
             "clip_order": null,
-            "airing_id": "RADS1007222200014988",
-            "media_id": "cb738473ca7aa31ae6b84e1f4ff1f6767aa52542",
-            "modified": 1661557259,
-            "slug": "may-cause-immaculate-conception",
+            "airing_id": "RADS1007182200014704",
+            "media_id": "647340c51f0e05eafb22b374ebc2b094a93cbe5f",
+            "modified": 1664803258,
+            "slug": "may-cause-indecision-or-not",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_21921515581-RobotChicken_1103_MayCauseImmaculateConception.png",
-            "created": 1630610169,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171632118-RobotChicken_1112_MayCauseIndecisionOrNot.png",
+            "created": 1645133547,
             "season_number": "11",
-            "title_id": "2270590",
-            "tv_rating": "tv-14-dlsv",
-            "published": 1661557259,
+            "title_id": "2270599",
+            "tv_rating": "tv-ma",
+            "published": 1664803258,
             "tags": [],
             "collection_title": "Robot Chicken",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1658808000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921515581-RobotChicken_1103_MayCauseImmaculateConception.png",
-            "id": "AXun8J9T4Xbjep71f6Gw",
+            "launch_date": 1652155200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171632118-RobotChicken_1112_MayCauseIndecisionOrNot.png",
+            "id": "AX8Jmcl7208s7zyYUMH3",
             "auth": true,
             "collection_slug": "robot-chicken",
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
