@@ -53,7 +53,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451669400,
         "auth_expiration_date": 1667883540,
         "tms_id": "EP007542790003",
@@ -152,53 +152,6 @@
         "launch_date": 1660017600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171724462-12ozMouse_311.jpg",
         "id": "AXNel3L-C8QgH-t19KAt",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1664855940,
-        "tms_id": "EP007542790045",
-        "description": "As the Castellica saves Mouse and team, Rooster escapes the clutches of Industry Man.",
-        "title_suggest": {
-            "input": [
-                "Portal to the Doorway",
-                "to the Doorway",
-                "the Doorway",
-                "Doorway"
-            ]
-        },
-        "title": "Portal to the Doorway",
-        "expiration_date": 1661831940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 675.1745,
-        "episode_number": "9",
-        "original_air_date": "1596168000",
-        "auth_launch_date": 1661832000,
-        "clip_order": null,
-        "airing_id": "RADS1008262200023071",
-        "media_id": "6bbef743f0e5212e04cc4c492d99028def8947b3",
-        "modified": 1661559379,
-        "slug": "portal-to-the-doorway",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_207171733580-12oz_309_dup-20200703.jpg",
-        "created": 1595021641,
-        "season_number": "3",
-        "title_id": "2224145",
-        "tv_rating": "tv-14-lv",
-        "published": 1661559379,
-        "tags": [],
-        "collection_title": "12 oz Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658808000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171733580-12oz_309_dup-20200703.jpg",
-        "id": "AXNessexC8QgH-t19KAz",
         "auth": true
     },
     {
@@ -459,6 +412,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1663041600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201159222-12oz_005_dst_cid-9343148.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451669580,
+        "auth_expiration_date": 1650945540,
+        "tms_id": "EP007542790008",
+        "rating": 8.830126,
+        "description": "Fitzgerald and Skillet are upset when Poncho gets Senior status, even though he failed all his classes Junior year. They meet with Shark.",
+        "title_suggest": {
+            "input": [
+                "Bowtime"
+            ]
+        },
+        "type": "episode",
+        "title": "Bowtime",
+        "expiration_date": 1667883540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 689.26,
+        "episode_number": "1",
+        "original_air_date": 1159159500,
+        "clip_order": null,
+        "auth_launch_date": 1647921600,
+        "modified": 1664589486,
+        "media_id": "b1ae64ec634470037082e548aed3350a3c82b61e",
+        "airing_id": "RADS1009302200033118",
+        "id": "jv-6AQa8SxSk7sFq4gJurg",
+        "slug": "bowtime",
+        "views": 93513,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_2022012080-12oz_008_BIM_9381884.jpg",
+        "created": 1402945460,
+        "title_id": "651318",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1664589486,
+        "tags": [
+            "12 oz mouse episode 8 bowtime"
+        ],
+        "rating_count": 312,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664856000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_2022012080-12oz_008_BIM_9381884.jpg",
         "cma_id": ""
     },
     {
