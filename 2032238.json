@@ -148,6 +148,56 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1644382740,
+        "tms_id": "",
+        "description": "The team goes to the grocery store.",
+        "title_suggest": {
+            "input": [
+                "Shop 'Til You Drop",
+                "'Til You Drop",
+                "You Drop",
+                "Drop"
+            ]
+        },
+        "title": "Shop 'Til You Drop",
+        "expiration_date": 1667969940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 675.8085,
+        "episode_number": "15",
+        "original_air_date": 1580101200,
+        "auth_launch_date": 1638334800,
+        "clip_order": null,
+        "media_id": "dac3c62675c2b09a8a59ba323b253a3704012663",
+        "modified": 1664598463,
+        "airing_id": "RADS1009302200033224",
+        "slug": "shop-til-you-drop",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/1_2017132621-miketysonmysteries_415.jpg",
+        "created": 1578421565,
+        "season_number": "4",
+        "title_id": "2172012",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1664598463,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664942400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_2017132621-miketysonmysteries_415.jpg",
+        "id": "AW-BQbnfGRcVO2K2pl_t",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1641963540,
         "tms_id": "EP020020000067",
         "description": "White Privilege turns on itself.",
@@ -799,59 +849,6 @@
         "launch_date": 1661918400,
         "poster": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654555-miketysonmysteries_410_dup-20190710.jpg",
         "id": "AWwq6mDd4aLemgzOLGDM",
-        "auth": false
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1664942340,
-        "tms_id": "EP020020000051",
-        "description": "Pigeon's past finally catches up with him.",
-        "title_suggest": {
-            "input": [
-                "The Pigeon Has Come Home to Roost",
-                "Pigeon Has Come Home to Roost",
-                "Has Come Home to Roost",
-                "Come Home to Roost",
-                "Home to Roost",
-                "to Roost",
-                "Roost"
-            ]
-        },
-        "title": "The Pigeon Has Come Home to Roost",
-        "type": "episode",
-        "expiration_date": 1658894340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 705.08,
-        "episode_number": "20",
-        "original_air_date": 1526268600,
-        "clip_order": null,
-        "auth_launch_date": 1658894400,
-        "modified": 1658536900,
-        "media_id": "d372cb85ba77b2b37f487240bde9b30795eda74a",
-        "airing_id": "RADS1006162200007185",
-        "id": "xH4a4A77SIehkLexmFgWBQ",
-        "slug": "the-pigeon-has-come-home-to-roost",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311153863-miketysonmysteries_320_dup-20170821.jpg",
-        "created": 1508445126,
-        "season_number": "3",
-        "title_id": "2117703",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1658536900,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655870400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311153863-miketysonmysteries_320_dup-20170821.jpg",
-        "cma_id": ""
+        "auth": true
     }
 ]

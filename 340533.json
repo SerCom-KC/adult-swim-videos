@@ -1,57 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1447440000,
-        "auth_expiration_date": 1664942340,
-        "tms_id": "EP004625760049",
-        "rating": 8.706179,
-        "description": "How much would you pay for Sealab?  Well, if you were the eccentric trillionaire Max Stone, it wouldn't matter: you could afford to pay full sticker price.  And you could also afford a jetpack, a standing table at that posh little cafe on the moon that you like so much, and an army of troglodytes at the center of the Earth.",
-        "title_suggest": {
-            "input": [
-                "Monkey Banana Raffle",
-                "Banana Raffle",
-                "Raffle"
-            ]
-        },
-        "type": "episode",
-        "title": "Monkey Banana Raffle",
-        "expiration_date": 1661918340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 639.6339673,
-        "episode_number": "8",
-        "original_air_date": 1111382100,
-        "clip_order": null,
-        "auth_launch_date": 1661918400,
-        "modified": 1661562025,
-        "airing_id": "RADS1008262200023145",
-        "media_id": "aa38cb4ee45ccb16c787f64116a34a95c3f42aa7",
-        "id": "-ZMuqYcyT4mPezh_DD4cCg",
-        "slug": "monkey-banana-raffle",
-        "views": 188344,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_20416914226-sealab_047.jpg",
-        "created": 1402945476,
-        "title_id": "611926",
-        "season_number": "4",
-        "tv_rating": "tv-14-dl",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1661562025,
-        "tags": [],
-        "rating_count": 599,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658894400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416914226-sealab_047.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447438080,
         "auth_expiration_date": 1638334740,
@@ -323,6 +271,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447438200,
+        "auth_expiration_date": 1640149140,
+        "tms_id": "EP004625760005",
+        "rating": 8.957913,
+        "description": "After a huge explosion destroys Sealab, Stormy and Dr. Quinn are mysteriously transported 15 minutes into the past, which puts them in a position to save Sealab from being destroyed in the first place. But Captain Murphy imprisons them. And so Sealab is destroyed by another huge explosion and the vicious cycle continues.",
+        "title_suggest": {
+            "input": [
+                "Lost in Time",
+                "in Time",
+                "Time"
+            ]
+        },
+        "type": "episode",
+        "title": "Lost in Time",
+        "expiration_date": 1667969940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 664.8675342,
+        "episode_number": "5",
+        "original_air_date": 1001906100,
+        "clip_order": null,
+        "auth_launch_date": 1637125200,
+        "modified": 1664598471,
+        "media_id": "fffd5239229fc98b1ebd189f76d3974328c47c6a",
+        "airing_id": "RADS1009302200033201",
+        "id": "ZqmfScj_QbmBMGkIav2omQ",
+        "slug": "lost-in-time",
+        "views": 215066,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151029148-sealab_005.jpg",
+        "created": 1402945476,
+        "title_id": "344207",
+        "season_number": "1",
+        "tv_rating": "tv-14-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1664598471,
+        "tags": [],
+        "rating_count": 808,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664942400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151029148-sealab_005.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447438080,
         "auth_expiration_date": 1637729940,
         "tms_id": "EP004625760002",
@@ -376,7 +377,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447440120,
         "auth_expiration_date": 1667969940,
         "tms_id": "EP004625760054",
@@ -429,7 +430,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438140,
         "auth_expiration_date": 1667969940,
         "tms_id": "EP004625760003",
