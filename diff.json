@@ -1,7 +1,6 @@
 {
-    "updated": 1665005905,
-    "added": [],
-    "removed": [
+    "updated": 1665006501,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": null,
@@ -28,7 +27,8 @@
             "auth_launch_date": null,
             "clip_order": null,
             "media_id": "me8bd16160948ffd2cd1824d189e925558a7aeb5d2",
-            "modified": 1598473499,
+            "modified": 1665006468,
+            "airing_id": "",
             "slug": "shinto",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20190903/thumbnails/1_19931351154-Uzumaki_BTS_Shinto.jpg",
@@ -38,7 +38,7 @@
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1598473499,
+            "published": 1665006468,
             "tags": [
                 "shinto",
                 "behind the scenes",
@@ -47,7 +47,7 @@
             ],
             "collection_title": "Uzumaki",
             "disable_ads": false,
-            "modified_by": "Zeus Listener",
+            "modified_by": "Jonas Eason",
             "launch_date": 1598472036,
             "poster": "https://media.cdn.adultswim.com/uploads/20190903/thumbnails/2_19931351154-Uzumaki_BTS_Shinto.jpg",
             "id": "AWz4QWktCorLtcgfluHG",
@@ -56,5 +56,6 @@
             "collection_title_id": "2193532",
             "online_exclusives": true
         }
-    ]
+    ],
+    "removed": []
 }
