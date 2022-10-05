@@ -223,6 +223,59 @@
     {
         "auth": false,
         "ott_launch_date": null,
+        "auth_expiration_date": 1639544340,
+        "tms_id": "EP002989350009",
+        "rating": 8.644522,
+        "description": "Duane has written a rock opera based on Franz Kafka's \"Metamorphosis,\" and he wants Brendon to direct. But the collaboration has a few bugs.",
+        "title_suggest": {
+            "input": [
+                "Director's Cut",
+                "Cut"
+            ]
+        },
+        "type": "episode",
+        "title": "Director's Cut",
+        "expiration_date": 1667969940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1341.9009009,
+        "episode_number": "6",
+        "original_air_date": 999482400,
+        "clip_order": null,
+        "auth_launch_date": 1636520400,
+        "modified": 1664598757,
+        "media_id": "c54e2550f9e8b0f309382a3f7b6099db3cd914c1",
+        "airing_id": "RADS1009302200033210",
+        "id": "OfK-VB9CTq2RIfFA8ruA7w",
+        "slug": "directors-cut",
+        "views": 414751,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035163267-hmovies_006.jpg",
+        "created": 1402945467,
+        "title_id": "344122",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1664598757,
+        "tags": [
+            "home movies episode 6 director's cut louie franz kafka duane"
+        ],
+        "rating_count": 602,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664942400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035163267-hmovies_006.jpg",
+        "cma_id": "991672"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1667969940,
         "tms_id": "EP002989350001",
         "rating": 8.525824,
@@ -394,63 +447,6 @@
         "launch_date": 1661313600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351629299-hmovies_052.jpg",
         "cma_id": "992367"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1664942340,
-        "tms_id": "EP002989350051",
-        "rating": 8.93034,
-        "description": "Jason falls for a fifth grader, but he can't get beyond that awkward, initial \"stalking\" phase.  He asks Brendon for help, but Brendon has bigger problems: after cheating on a test, he's being blackmailed by Jr. Adelberg, Walter and Perry.  Melissa, feeling left out, helps Coach McGuirk cheat in traffic school.",
-        "title_suggest": {
-            "input": [
-                "Those Bitches Tried to Cheat Me",
-                "Bitches Tried to Cheat Me",
-                "Tried to Cheat Me",
-                "to Cheat Me",
-                "Cheat Me",
-                "Me"
-            ]
-        },
-        "type": "episode",
-        "title": "Those Bitches Tried to Cheat Me",
-        "expiration_date": 1661918340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1355.5672339,
-        "episode_number": "7",
-        "original_air_date": 1078718400,
-        "clip_order": null,
-        "auth_launch_date": 1661918400,
-        "modified": 1661563264,
-        "media_id": "08dc6c63e1258571737fef2476b4ff90b7c89e1c",
-        "airing_id": "RADS1008262200023144",
-        "id": "wipg2C4mRzCgZ-6K-wfgWw",
-        "slug": "those-bitches-tried-to-cheat-me",
-        "views": 539966,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351627265-hmovies_046.jpg",
-        "created": 1402945467,
-        "title_id": "449706",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1661563264,
-        "tags": [
-            "home movies episode 46 those bitches tried to cheat me fifth grader stalking jason blackmail traffic school"
-        ],
-        "rating_count": 890,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658894400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351627265-hmovies_046.jpg",
-        "cma_id": "991916"
     },
     {
         "auth": true,
