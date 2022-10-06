@@ -51,7 +51,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447786560,
         "auth_expiration_date": 1668056340,
         "tms_id": "EP013726210002",
@@ -335,56 +335,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1665028740,
-        "tms_id": "",
-        "description": "When Gary gets kidnapped by a ghost-hunting show, he must choose between fame and friendship. (He chooses fame.)",
-        "title_suggest": {
-            "input": [
-                "Gary Bunda: Demon Killer",
-                "Bunda: Demon Killer",
-                "Demon Killer",
-                "Killer"
-            ]
-        },
-        "title": "Gary Bunda: Demon Killer",
-        "expiration_date": 1662004740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 674.25,
-        "episode_number": "8",
-        "original_air_date": 1559362500,
-        "auth_launch_date": 1662004800,
-        "clip_order": null,
-        "media_id": "6b5be2c353badeb6cdafb8e7aca4abf3d4f353b6",
-        "modified": 1661788711,
-        "airing_id": "RADS1007252200015103",
-        "slug": "gary-bunda-demon-killer",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155914843405217.jpg",
-        "created": 1556816709,
-        "season_number": "4",
-        "title_id": "2191448",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1661788711,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658980800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg",
-        "id": "AWp5gcZBAScUIg8XxfaB",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1666238340,
         "tms_id": "",
         "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
@@ -526,7 +476,7 @@
         "launch_date": 1665028800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
         "id": "AWp5hohlHl5gR6828zZV",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,

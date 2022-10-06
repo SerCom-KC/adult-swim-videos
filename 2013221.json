@@ -460,57 +460,6 @@
         "cma_id": "1480947"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1505744940,
-        "auth_expiration_date": 1665028740,
-        "tms_id": "EP019881990013",
-        "description": "Mr. Dimler escapes the institution for one last encounter with Scotty and is disappointed with the results.",
-        "title_suggest": {
-            "input": [
-                "Angel Man",
-                "Man"
-            ]
-        },
-        "title": "Angel Man",
-        "type": "episode",
-        "expiration_date": 1662004740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
-        "duration": 707.9591326,
-        "episode_number": "3",
-        "original_air_date": 1505708100,
-        "clip_order": null,
-        "auth_launch_date": 1662004800,
-        "modified": 1661796000,
-        "media_id": "d715695bf4659bf8e2a03f485257a696f1dffa2f",
-        "airing_id": "RADS1007252200015121",
-        "id": "k824J4jDRtWE5WaVewjiLg",
-        "slug": "angel-man",
-        "views": 3612,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117846274-tebs_305_11mins_dup-20170913.jpg",
-        "created": 1505499023,
-        "title_id": "2133108",
-        "tv_rating": "tv-ma-l",
-        "season_number": "2",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1661796000,
-        "first_published": 1505499023,
-        "tags": [],
-        "collection_title": "Tim & Eric's Bedtime Stories",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658980800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117846274-tebs_305_11mins_dup-20170913.jpg",
-        "cma_id": "1478810"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447785600,
         "auth_expiration_date": 1660190340,
@@ -669,6 +618,56 @@
     },
     {
         "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1661399940,
+        "tms_id": "EP019881990006",
+        "description": "Jason begrudgingly agrees to endorse the latest Strussel watch, only after his agent guarantees that he will neither be conscious for nor remember the product photo shoot.",
+        "title_suggest": {
+            "input": [
+                "The Endorsement",
+                "Endorsement"
+            ]
+        },
+        "expiration_date": 1668056340,
+        "title": "The Endorsement",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "niKVk47EQ3-pHuoxOIYMsQ",
+        "duration": 651.8675342,
+        "episode_number": "6",
+        "original_air_date": 1414124100,
+        "clip_order": null,
+        "auth_launch_date": 1658376000,
+        "modified": 1664614400,
+        "media_id": "efb73fa3d2687d884fc3ee01f7e41bed0c712fe7",
+        "airing_id": "RADS1009302200033268",
+        "id": "t5DLWfNmTqaZ3uqtV3BvcQ",
+        "slug": "the-endorsement",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117844495-tebs_106_dup-20140910.jpg",
+        "created": 1410544918,
+        "season_number": "1",
+        "title_id": "2024898",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1664614400,
+        "first_published": 1413786045,
+        "tags": [],
+        "collection_title": "Tim & Eric's Bedtime Stories",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1665028800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117844495-tebs_106_dup-20140910.jpg",
+        "cma_id": "1039683"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447785600,
         "auth_expiration_date": 1660795140,
         "tms_id": "EP019881990005",
@@ -718,7 +717,7 @@
         "cma_id": "1154562"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447785480,
         "auth_expiration_date": 1668056340,
         "tms_id": "EP019881990001",
