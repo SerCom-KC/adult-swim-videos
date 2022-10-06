@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 6, 2022 at 17:00:24 EDT_
+_Last Update: October 6, 2022 at 18:00:22 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 812206 Naruto: Shippuden: 2  
 ### 2177827
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/naruto-shippuden/the-night-before-the-second-ex
 seriesid=`812206` titleid=`2177828` id=`AYGHef9K208s7zyYUNMx` mediaid=`5ed30073033d67012f4aa18bf411f4f213583096`  
 _Kankuro tries in vain to stop Gaara from supervising the exams due to the lack of security and the threats against his life._  
 <a href="https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211415159-NarutoShippuden_398_TheNightBeforeTheSecondExam.png"><img src="https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211415159-NarutoShippuden_398_TheNightBeforeTheSecondExam.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
