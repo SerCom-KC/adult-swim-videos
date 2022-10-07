@@ -2,26 +2,33 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 7, 2022 at 11:30:24 EDT_
+_Last Update: October 7, 2022 at 13:30:24 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2007823 Infomercials: 1  
-812206 Naruto: Shippuden: 1  
-### 2007828
-**Infomercials S04E05 - Too Many Cooks**  
-TV-MA-V 🔓 11:09  
-⌛ October 11, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/too-many-cooks  
-seriesid=`2007823` titleid=`2007828` id=`AXRP_SlULyLQBOXK_PM3` mediaid=`9ee755a88ccc7045ffa0ce17f670b77958cb3e3b`  
-_In this pilot episode we are introduced to the fun-loving Cook family. Starring Ken Delozier, Tara Ochs, and others. Created by Drew and Yvonne Asparagus and written and directed by Casper Kelly. "Too many cooks may spoil the broth, but they fill our hearts with love." Go to Hell._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg" height="144px" /></a>
-### 2177779
-**Naruto: Shippuden S07E02 - Kakashi: Shadow of the ANBU Black Ops - Minato's Death**  
-TV-PG 🔒 21:51  
-⌛ October 12, 2022 at 05:59:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-minatos-death  
-seriesid=`812206` titleid=`2177779` id=`AXqb-O_kBH5Z6gH5aWX5` mediaid=`7e2bd0ef06c39b380dc171f348caa9f98116a198`  
-_Kakashi becomes part of the ANBU Black Ops, an elite team of shinobi who are under the direct command of the Fourth Hokage, Minato Namikaze._  
-<a href="https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161026540-NarutoShippuden_350_KakashiShadowOfTheANBUBlackOpsMinatosDeath.png"><img src="https://media.cdn.adultswim.com/uploads/20210716/thumbnails/2_217161026540-NarutoShippuden_350_KakashiShadowOfTheANBUBlackOpsMinatosDeath.png" height="144px" /></a>
+581268 Squidbillies: 3  
+### 798535
+**Squidbillies S05E06 - Frivolacious Squidigation?**  
+TV-MA 🔒 11:16  
+⌛ October 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/squidbillies/frivolacious-squidigation  
+seriesid=`581268` titleid=`798535` id=`pZMIlaOYSyeQHhodzhOxBw` mediaid=`2c1868af95e8b4cb3f9417e6d6ce17113347fe7b`  
+_Early's twisted dreams come true when Granny suffers a life-mangling injury._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131319196-squidbillies_057_dst_cid-TPHH.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131319196-squidbillies_057_dst_cid-TPHH.jpg" height="144px" /></a>
+### 798534
+**Squidbillies S05E05 - Holodeck Redneck**  
+TV-MA 🔒 11:32  
+⌛ October 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/squidbillies/holodeck-redneck  
+seriesid=`581268` titleid=`798534` id=`nexRRtWvQOG5QFWpy6ujOg` mediaid=`73a1be6fe06bf55bb542c885b4a564fb95e395e0`  
+_Advances in modern technology allow Early to visit Florida._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131318524-squidbillies_056_dst_cid-TFWW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131318524-squidbillies_056_dst_cid-TFWW.jpg" height="144px" /></a>
+### 798537
+**Squidbillies S05E09 - Lean Green Touchdown Makifying Machine**  
+TV-MA 🔒 11:07  
+⌛ October 7, 2022 at 23:59:59 EDT  
+https://www.adultswim.com/videos/squidbillies/lean-green-touchdown-makifying-machine  
+seriesid=`581268` titleid=`798537` id=`l7mL2CM7RXenHRGlzlYwBg` mediaid=`c77e525410c7cdb5e4a697761f674607d9db2feb`  
+_Rusty's special talent is playing football. Early's special talent is exploiting Rusty._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131320361-squidbillies_059_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131320361-squidbillies_059_bim.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
