@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 9, 2022 at 07:30:25 EDT_
+_Last Update: October 9, 2022 at 23:30:28 EDT_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177810
-**Naruto: Shippuden S07E32 - The Day Naruto Was Born**  
-TV-PG 🔒 21:50  
-⌛ February 6, 2023 at 07:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/the-day-naruto-was-born  
-seriesid=`812206` titleid=`2177810` id=`AX9vcSwr_0O4w1rD3Ry_` mediaid=`dd1937496d1f72bde59a2636f8ff5b4033911ba8`  
-_Minato is filled with regret during his confrontation with Obito._  
-<a href="https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239119119-NarutoShippuden_380_TheDayNarutoWasBorn.png"><img src="https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239119119-NarutoShippuden_380_TheDayNarutoWasBorn.png" height="144px" /></a>
+2013506 Rick and Morty: 1  
+### 2397939
+**Rick and Morty S06E06 - JuRicksic Mort**  
+TV-14-DL 🔒 24:00  
+⌛ October 30, 2022 at 22:59:00 EDT  
+https://www.adultswim.com/videos/rick-and-morty/ju-ricksic-mort  
+seriesid=`2013506` titleid=`2397939` id=`AYOjX5sKIAxeiVkFtLSE` mediaid=`9b7c14b0f3f087ddb20ad91104fbbd00ff243146`  
+_They're back, broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_221041021238-RickAndMorty_606_JuRicksicMort.png"><img src="https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_221041021238-RickAndMorty_606_JuRicksicMort.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
