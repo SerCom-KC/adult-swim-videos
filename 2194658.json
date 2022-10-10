@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1665374340,
-        "tms_id": "EP034485630013",
-        "description": "Emma and the children have finally escaped the House and now head to the place indicated on the pen Norman gave them. But on their way, a large, wild demon attacks the group\u2026",
-        "title_suggest": {
-            "input": [
-                "Episode 1",
-                "1"
-            ]
-        },
-        "title": "Episode 1",
-        "expiration_date": 1661745540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1329.9286,
-        "episode_number": "1",
-        "original_air_date": "1618119000",
-        "auth_launch_date": 1661745600,
-        "clip_order": null,
-        "airing_id": "RADS1008262200023061",
-        "media_id": "b1ba539cfe26441544039a694b22912d3315ba42",
-        "modified": 1661559376,
-        "slug": "episode-1",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/1_213311124542-PromisedNeverland2_001_Episode1.jpg",
-        "created": 1617204297,
-        "season_number": "2",
-        "title_id": "2264532",
-        "tv_rating": "tv-14-lv",
-        "published": 1661559376,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1660536000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311124542-PromisedNeverland2_001_Episode1.jpg",
-        "id": "AXiI40ByDmGy9WFjRqqL",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1665979140,
         "tms_id": "",
         "description": "The children's saviors turn out to be demons named Mujika and Sonju. The pair claims that their religion forbids them from eating humans. Emma and Ray visit Sonju, intending to ask about what happened to humans thirty years ago.",
@@ -361,7 +316,7 @@
         "launch_date": 1664164800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210520/thumbnails/2_215201233570-TPN2_019_Episode7.png",
         "id": "AXmGO2PmBH5Z6gH5aWP-",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1655697540,
@@ -406,6 +361,51 @@
         "launch_date": 1664769600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210527/thumbnails/2_215271145148-TPN2_020_Episode8.png",
         "id": "AXmee3JaBH5Z6gH5aWRc",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1656302340,
+        "tms_id": "EP034485630021",
+        "description": "Norman has begun executing his plan without waiting for Emma. When Emma, Ray, and Sonju appear, Norman is hesitating to kill Vylk and his grandchild, but he tells them that they are too late and that the plan is already in motion.",
+        "title_suggest": {
+            "input": [
+                "Episode 9",
+                "9"
+            ]
+        },
+        "title": "Episode 9",
+        "type": "episode",
+        "expiration_date": 1666583940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1272.8382,
+        "episode_number": "9",
+        "original_air_date": 1622957400,
+        "auth_launch_date": 1652673600,
+        "clip_order": null,
+        "airing_id": "RADS1010072200035441",
+        "media_id": "d295dc57a453eda3113959ab9cfebb9927a2c86f",
+        "modified": 1665167751,
+        "slug": "episode-9",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/1_21641159571-TPN2_021_Episode9.png",
+        "created": 1622751522,
+        "title_id": "2264540",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "published": 1665167751,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1665374400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210604/thumbnails/2_21641159571-TPN2_021_Episode9.png",
+        "id": "AXnThy21DmGy9WFjRrWG",
         "auth": false
     }
 ]
