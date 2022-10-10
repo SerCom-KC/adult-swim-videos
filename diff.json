@@ -1,7 +1,6 @@
 {
-    "updated": 1665403321,
-    "added": [],
-    "removed": [
+    "updated": 1665414561,
+    "added": [
         {
             "ott_launch_date": 1538404140,
             "auth": true,
@@ -32,8 +31,8 @@
             "auth_launch_date": 1662609600,
             "clip_order": null,
             "media_id": "c1de70c130b903e819bff075913b91c0052155c4",
-            "modified": 1662226340,
-            "airing_id": "RADS1007312200016992",
+            "modified": 1665414381,
+            "airing_id": "RADS1009022200025827",
             "id": "AWPahfntTdxzjxdCmTf5",
             "slug": "the-forecast-manufacturer",
             "exclude_from_search": false,
@@ -44,7 +43,7 @@
             "tv_rating": "tv-14-dlsv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1662226340,
+            "published": 1665414381,
             "tags": [],
             "collection_title": "The Venture Bros.",
             "modified_by": "ODT Listener",
@@ -54,5 +53,6 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
