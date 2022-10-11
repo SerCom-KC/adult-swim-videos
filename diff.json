@@ -1,7 +1,6 @@
 {
-    "updated": 1665503550,
-    "added": [],
-    "removed": [
+    "updated": 1665508644,
+    "added": [
         {
             "auth_expiration_date": 1665916140,
             "tms_id": "EP034917240272",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1006282200010924",
             "media_id": "033ec59741b1e61c4457be085be59aa1e4eda191",
-            "modified": 1656493985,
+            "modified": 1665508430,
             "slug": "the-divine-tree",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171430297-NarutoShippuden_381_TheDivineTree.png",
@@ -38,7 +37,7 @@
             "title_id": "2177811",
             "season_number": "7",
             "tv_rating": "tv-pg",
-            "published": 1656493985,
+            "published": 1665508430,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
