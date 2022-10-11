@@ -1,55 +1,5 @@
 [
     {
-        "ott_launch_date": 1447789200,
-        "auth_expiration_date": 1665460740,
-        "tms_id": "SH020456150000",
-        "description": "Three experts explore the newly-discovered Book of Christ, the first and only book of the Bible written by Jesus himself.",
-        "title_suggest": {
-            "input": [
-                "Book of Christ",
-                "of Christ",
-                "Christ"
-            ]
-        },
-        "expiration_date": 1662436740,
-        "type": "episode",
-        "title": "Book of Christ",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 649.6672227,
-        "episode_number": "9",
-        "original_air_date": 1416906000,
-        "auth_launch_date": 1662436800,
-        "clip_order": null,
-        "media_id": "93e35cec7ac83e07fd76e89a21306306d5541b98",
-        "modified": 1662218048,
-        "airing_id": "RADS1009022200025741",
-        "slug": "book-of-christ",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150981959475.jpg",
-        "created": 1510606330,
-        "season_number": "4",
-        "title_id": "2041862",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1662218048,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1660017600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150981959475.jpg",
-        "id": "AV-3J1rFwdpKFAKSbWaw",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1461592740,
         "auth_expiration_date": 1668488340,
         "tms_id": "SH024039740000",
@@ -96,7 +46,7 @@
         "launch_date": 1663041600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150980632941.jpg",
         "id": "AV-3K6YjwdpKFAKSbWbA",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789140,
@@ -151,6 +101,57 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509813513710.jpg",
         "id": "AV-3KdR1wdpKFAKSbWa5",
         "auth": true
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1649735940,
+        "tms_id": "SH027937280000",
+        "description": "A neighboring pair of wrestling tag teams learn the downsides of life without a landlord.",
+        "title_suggest": {
+            "input": [
+                "The Suplex Duplex Complex",
+                "Suplex Duplex Complex",
+                "Duplex Complex",
+                "Complex"
+            ]
+        },
+        "title": "The Suplex Duplex Complex",
+        "type": "episode",
+        "expiration_date": 1667883540,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 677.21,
+        "episode_number": "1",
+        "original_air_date": 1509436800,
+        "auth_launch_date": 1646715600,
+        "clip_order": null,
+        "modified": 1665169820,
+        "media_id": "bc1074812303ed6dc38ece9108c67bd6f11d003a",
+        "airing_id": "RADS1010072200035540",
+        "id": "AV9ZLuOfSPzxOkLuqbaH",
+        "slug": "the-suplex-duplex-complex",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108720778805.jpg",
+        "created": 1509029766,
+        "title_id": "2134722",
+        "tv_rating": "tv-pg-v",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1665169820,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1665460800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108720778805.jpg",
+        "cma_id": "2134722"
     },
     {
         "auth_expiration_date": 1666670340,
