@@ -152,54 +152,6 @@
         "cma_id": "1478480"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1665547140,
-        "tms_id": "EP012792980088",
-        "description": "In true Belcher fashion, the family gets stuck in a terrible storm while taking care of a beach house in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of the home.",
-        "title_suggest": {
-            "input": [
-                "Housetrap"
-            ]
-        },
-        "expiration_date": 1644209940,
-        "title": "Housetrap",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1304.9009009,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "19",
-        "original_air_date": 1451354400,
-        "clip_order": null,
-        "auth_launch_date": 1664942400,
-        "modified": 1664596338,
-        "media_id": "4ee829b9a07504a4eaa97f8c1a46239e7280700a",
-        "airing_id": "RADS1009302200033192",
-        "id": "6Tm4GhhHRDy_HSL-uw8zQQ",
-        "slug": "housetrap",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1450299183,
-        "season_number": "5",
-        "title_id": "2065468",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1664596338,
-        "first_published": 1451362819,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1643605200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg",
-        "cma_id": "1478102"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1656820740,
@@ -501,6 +453,58 @@
         "launch_date": 1644210000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-oeder-games/bobsburgers_508_air_cid-33DRJ.jpg",
         "cma_id": "1478688"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1666151940,
+        "tms_id": "EP012792980099",
+        "description": "After Bob slips on the sidewalk, he is forced to take legal action in order to pay for surgery. In a turn of events, Bob finds himself under the care of Jairo, who promises to help him heal without a doctor. Meanwhile, the kids create a fake law firm to settle their personal disputes.",
+        "title_suggest": {
+            "input": [
+                "Sexy Dance Healing",
+                "Dance Healing",
+                "Healing"
+            ]
+        },
+        "title": "Sexy Dance Healing",
+        "type": "episode",
+        "expiration_date": 1646024340,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8008008,
+        "episode_number": "8",
+        "original_air_date": 1477535400,
+        "clip_order": null,
+        "auth_launch_date": 1665547200,
+        "modified": 1665171644,
+        "media_id": "f5141d7395baf55493b7990990f30bb67027c3ae",
+        "airing_id": "RADS1010072200035570",
+        "id": "irXYfNkpR0qqagndMoqUgw",
+        "slug": "sexy-dance-healing",
+        "views": 8,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1477433421,
+        "title_id": "2097196",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1665171644,
+        "first_published": 1477433421,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1645419600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/sexy-dance-healing/bobsburgers_515_air_cid-2WYDJ_1.jpg",
+        "cma_id": "1433795"
     },
     {
         "auth": true,
