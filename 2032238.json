@@ -198,6 +198,55 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1613451540,
+        "tms_id": "EP020020000062",
+        "description": "Can the team bring holiday cheer to someone who's given up on life?",
+        "title_suggest": {
+            "input": [
+                "The Christmas Episode",
+                "Christmas Episode",
+                "Episode"
+            ]
+        },
+        "title": "The Christmas Episode",
+        "expiration_date": 1668574740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 680.4131,
+        "episode_number": "16",
+        "original_air_date": 1575957600,
+        "auth_launch_date": 1607403600,
+        "clip_order": null,
+        "media_id": "546d3e27c1aad78304160dbcf1344cbdd0426baa",
+        "modified": 1665173170,
+        "airing_id": "RADS1010072200035588",
+        "slug": "the-christmas-episode",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/1_191231030206-miketysonmysteries_416_dup-20191205.jpg",
+        "created": 1575387028,
+        "season_number": "4",
+        "title_id": "2172013",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1665173170,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1665547200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191203/thumbnails/2_191231030206-miketysonmysteries_416_dup-20191205.jpg",
+        "id": "AW7MYlwy1YiBSfg0KZCK",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1671598740,
         "tms_id": "EP020020000067",
         "description": "White Privilege turns on itself.",
@@ -246,7 +295,7 @@
         "launch_date": 1662523200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200102/thumbnails/2_2012920437-miketysonmysteries_412.jpg",
         "id": "AW9moYkTGRcVO2K2pl_I",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -441,55 +490,6 @@
         "launch_date": 1657684800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15628609033427.jpg",
         "id": "AWu0NWiKCorLtcgflrw-",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1665547140,
-        "tms_id": "EP020020000052",
-        "description": "A very rich, very old man has vanished and everyone suspects his very hot, very young wife.",
-        "title_suggest": {
-            "input": [
-                "Time to Fly",
-                "to Fly",
-                "Fly"
-            ]
-        },
-        "title": "Time to Fly",
-        "expiration_date": 1659499140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 677.677,
-        "episode_number": "1",
-        "original_air_date": 1561953600,
-        "auth_launch_date": 1659499200,
-        "clip_order": null,
-        "media_id": "4f121b9fc8ce15b655da5af876e3e0f399c665ee",
-        "modified": 1659148717,
-        "airing_id": "RADS1007292200016872",
-        "slug": "time-to-fly",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15617511403472.jpg",
-        "created": 1561751144,
-        "season_number": "4",
-        "title_id": "2171998",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1659148717,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656475200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15617511403472.jpg",
-        "id": "AWufn0iLCorLtcgflrku",
         "auth": true
     },
     {

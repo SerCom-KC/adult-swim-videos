@@ -2,57 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": 1447783740,
-        "auth_expiration_date": 1665547140,
-        "tms_id": "EP008994530003",
-        "rating": 6.7006974,
-        "description": "When Eric knocks on a hallway door, an older woman answers. (Zach Galifianakis, Michael Cera, Paul Reubens guest star)",
-        "title_suggest": {
-            "input": [
-                "Cats"
-            ]
-        },
-        "type": "episode",
-        "title": "Cats",
-        "expiration_date": 1662523140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 665.018,
-        "episode_number": "3",
-        "original_air_date": 1172465100,
-        "clip_order": null,
-        "auth_launch_date": 1662523200,
-        "modified": 1662218046,
-        "media_id": "6a3d12f6af6e376190d9854112572d284b6fa2da",
-        "airing_id": "RADS1009022200025760",
-        "id": "05OdjZgjR-OQ8P3apErGFA",
-        "slug": "cats",
-        "views": 482549,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161619394-timanderic_103.jpg",
-        "created": 1402945481,
-        "title_id": "661590",
-        "season_number": "1",
-        "tv_rating": "tv-14-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1662218046,
-        "tags": [],
-        "rating_count": 6044,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1659499200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161619394-timanderic_103.jpg",
-        "cma_id": "1466579"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783740,
         "auth_expiration_date": 1666151940,
         "tms_id": "EP008994530004",
         "rating": 6.266001,
@@ -155,6 +104,59 @@
         "launch_date": 1504203280,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/motivational-juggling/timanderic_bonus_motivationaljuggling.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783980,
+        "auth_expiration_date": 1640753940,
+        "tms_id": "EP008994530014",
+        "rating": 7.7762036,
+        "description": "Baseball Man is forced to take action after noticing odd behavior from one of Chip's dolls during his date with Cindy.  (John C Reilly, Patton Oswalt)",
+        "title_suggest": {
+            "input": [
+                "Dolls"
+            ]
+        },
+        "type": "episode",
+        "title": "Dolls",
+        "expiration_date": 1668574740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 656.32,
+        "episode_number": "4",
+        "original_air_date": 1196658900,
+        "clip_order": null,
+        "auth_launch_date": 1637730000,
+        "modified": 1665173166,
+        "media_id": "72eb949d259bc08645f120695779003ef88d7a02",
+        "airing_id": "RADS1010072200035586",
+        "id": "GTvnoqU1QXCC6oGj0Q6dQg",
+        "slug": "dolls",
+        "views": 614765,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161622598-timanderic_204.jpg",
+        "created": 1402945481,
+        "title_id": "691940",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1665173166,
+        "tags": [
+            "time and eric awesome show great job episode 14 dolls baseball man chip john c reilly steve brule john c reilly patton oswalt beaver boys shrimp white wine"
+        ],
+        "rating_count": 5219,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1665547200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161622598-timanderic_204.jpg",
+        "cma_id": "1294433"
     },
     {
         "auth": false,
@@ -430,7 +432,7 @@
         "cma_id": "1477435"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783860,
         "auth_expiration_date": 1668574740,
         "tms_id": "EP008994530010",
