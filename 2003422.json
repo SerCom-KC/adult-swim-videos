@@ -102,56 +102,6 @@
         "cma_id": "1430229"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1665633540,
-        "tms_id": "EP012792980089",
-        "description": "Bob and Louise are thrilled when they meet Hawk, star of their favorite 70's samurai vs. monster movies. When they find out Hawk is estranged from his daughter, who starred as Chick in his movies, they engineer a Hawk and Chick reunion.",
-        "title_suggest": {
-            "input": [
-                "Hawk & Chick",
-                "& Chick",
-                "Chick"
-            ]
-        },
-        "expiration_date": 1644209940,
-        "title": "Hawk & Chick",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1294.9676343,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "20",
-        "original_air_date": 1451959200,
-        "clip_order": null,
-        "auth_launch_date": 1665028800,
-        "modified": 1664615599,
-        "media_id": "3ccc059736bc6029a3d3ade949dcda1870c57ff0",
-        "airing_id": "RADS1009302200033232",
-        "id": "55iAetYBQgCeRfAfM456HQ",
-        "slug": "hawk-chick",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1450467071,
-        "season_number": "5",
-        "title_id": "2065470",
-        "tv_rating": "tv-pg-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1664615599,
-        "first_published": 1451967621,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1643605200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/hawk-chick/bobsburgers_509_air_cid-2NN3G.jpg",
-        "cma_id": "1478480"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1656820740,
@@ -453,6 +403,55 @@
         "launch_date": 1644210000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-oeder-games/bobsburgers_508_air_cid-33DRJ.jpg",
         "cma_id": "1478688"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1666238340,
+        "tms_id": "EP012792980100",
+        "description": "During family TV night an ad for the Sofa Queen comes on and Louise takes the opportunity to lobby for a new couch. The Belchers take sides with Linda, gathering support for keeping their lumpy, smelly, moist couch, because off all the memories it holds. When a family vote goes against her, Louise takes matters into her own hands.",
+        "title_suggest": {
+            "input": [
+                "Sacred Couch",
+                "Couch"
+            ]
+        },
+        "title": "Sacred Couch",
+        "type": "episode",
+        "expiration_date": 1646629140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.5338672,
+        "episode_number": "9",
+        "original_air_date": 1478140200,
+        "clip_order": null,
+        "auth_launch_date": 1665633600,
+        "modified": 1665435517,
+        "media_id": "4a8191c6a88be8aa109f177b952cdef4b09fb5ef",
+        "airing_id": "RADS1010102200036206",
+        "id": "hwBESIpuTuWJp_-Rf_N-Qg",
+        "slug": "sacred-couch",
+        "views": 8,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1477898011,
+        "title_id": "2097197",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1665435517,
+        "first_published": 1477898011,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1646024400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/sacred-couch/bobsburgers_516_air_cid-2X581.jpg",
+        "cma_id": "1434216"
     },
     {
         "auth": true,
