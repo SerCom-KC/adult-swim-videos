@@ -273,7 +273,7 @@
         "cma_id": "1427888"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1508164140,
         "auth_expiration_date": 1667620799,
         "tms_id": "EP007008180107",
@@ -2470,6 +2470,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1673672340,
+        "tms_id": "EP007008180128",
+        "description": "Early is forced to choose between his community and his hats.",
+        "title_suggest": {
+            "input": [
+                "The Liceman Cometh",
+                "Liceman Cometh",
+                "Cometh"
+            ]
+        },
+        "title": "The Liceman Cometh",
+        "expiration_date": 1662782340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 673.3727,
+        "episode_number": "8",
+        "original_air_date": "1639371600",
+        "auth_launch_date": 1665806400,
+        "clip_order": null,
+        "airing_id": "RADS1010142200036600",
+        "media_id": "4a846b362f20394c813d006fc2924797d7d2fa5a",
+        "modified": 1665754412,
+        "slug": "the-liceman-cometh",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101038426-Squidbillies_1103_TheLicemanCometh.png",
+        "created": 1639150735,
+        "season_number": "13",
+        "title_id": "2323127",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1665754412,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1659758400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101038426-Squidbillies_1103_TheLicemanCometh.png",
+        "id": "AX2k_07U4Xbjep71f6Hp",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1669438740,
         "tms_id": "",
         "description": "The Roadkill Rembrandt rides again.",
@@ -3770,7 +3816,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447445640,
         "auth_expiration_date": 1668833940,
         "tms_id": "EP007008180071",
