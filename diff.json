@@ -1,21 +1,22 @@
 {
-    "updated": 1665855022,
+    "updated": 1665856823,
     "added": [
         {
             "auth": false,
-            "ott_launch_date": 1447174500,
-            "auth_expiration_date": 1539144000,
-            "tms_id": "EP014348550019",
-            "rating": 6.7747254,
-            "description": "Robot S.A.M. is accused of murder and Trent has to go where no human has gone before: Robot Town, San Diego.",
+            "ott_launch_date": 1447174560,
+            "auth_expiration_date": 1537340399,
+            "tms_id": "EP014348550016",
+            "rating": 5.869436,
+            "description": "A teen heartthrob rides along with Trent and Alphonse on the case of a brutal killer who likes killing Hollywood directors. Kove starts a podcast.",
             "title_suggest": {
                 "input": [
-                    "Robot Town",
-                    "Town"
+                    "Lights, Camera, Assassination",
+                    "Camera, Assassination",
+                    "Assassination"
                 ]
             },
             "type": "episode",
-            "title": "Robot Town",
+            "title": "Lights, Camera, Assassination",
             "expiration_date": 1666065540,
             "platforms": [
                 "web",
@@ -23,39 +24,41 @@
                 "ott"
             ],
             "collection_id": "j-BhBPqwQCqEFZoouu4T5Q",
-            "duration": 649.7506255,
-            "episode_number": "7",
-            "original_air_date": 1348200900,
+            "duration": 662.7506255,
+            "episode_number": "4",
+            "original_air_date": 1346386500,
             "clip_order": null,
-            "auth_launch_date": 1536120000,
-            "modified": 1665853256,
-            "media_id": "49a23511a3d72f612903bd506734af37fc42be4e",
-            "airing_id": "RADS1008052200020052",
-            "id": "HPCdvlsESRy3lVheil3dZw",
-            "slug": "robot-town",
-            "views": 37705,
+            "auth_launch_date": 1534316400,
+            "modified": 1665855025,
+            "media_id": "5555bed7b8b37e0cb6d4cee6d9e0beb4b29eb1a5",
+            "airing_id": "RADS1008052200020033",
+            "id": "BgnDR1n4Rs-2utV3QsWw0g",
+            "slug": "lights-camera-assassination",
+            "views": 41437,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121314286-ntsf_202_dup-20160330.jpg",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121313270-ntsf_204_dup-20160330.jpg",
             "created": 1402945470,
-            "title_id": "963237",
+            "title_id": "963234",
             "season_number": "2",
-            "tv_rating": "tv-14-dlv",
+            "tv_rating": "tv-14-dv",
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1665853256,
+            "published": 1665855025,
             "tags": [],
-            "rating_count": 182,
+            "rating_count": 337,
             "collection_title": "NTSF:SD:SUV::",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": 1660017600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121314286-ntsf_202_dup-20160330.jpg",
-            "cma_id": "1343977",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121313270-ntsf_204_dup-20160330.jpg",
+            "cma_id": "963234",
             "collection_slug": "ntsf-sd-suv",
             "collection_title_id": "853486",
             "online_exclusives": false
-        },
+        }
+    ],
+    "removed": [
         {
             "auth": false,
             "ott_launch_date": 1447174560,
@@ -111,6 +114,5 @@
             "collection_title_id": "853486",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
