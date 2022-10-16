@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 16, 2022 at 04:30:25 EDT_
+_Last Update: October 16, 2022 at 05:30:25 EDT_
 ## Video added
 ### Summary
-2387380 Lupin the 3rd Part 6: 1  
-2268280 Yashahime: Princess Half-Demon: 1  
-### 2387405
-**Lupin the 3rd Part 6 S01E24 - What Crooks Love**  
-TV-14-V 🔒 22:14  
-⌛ November 6, 2022 at 04:29:00 EST  
-https://www.adultswim.com/videos/lupin-the-3rd-part-6/what-crooks-love  
-seriesid=`2387380` titleid=`2387405` id=`AYPHvtuRIAxeiVkFtLSI` mediaid=`6ea970bcbcfcb9c112ffeed1e888d8e04b43c53b`  
-_Blood may be thicker than water, but is it as thick as thieves? Find out as Fujiko, Goemon and Jigen race to bring Lupin back to himself in the finale of Lupin the 3rd Part 6!_  
-<a href="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121050570-LupinThe3rd_Part6_624_WhatCrooksLove.png"><img src="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121050570-LupinThe3rd_Part6_624_WhatCrooksLove.png" height="144px" /></a>
-### 2394830
-**Yashahime: Princess Half-Demon S02E11 - Battle on the New Moon, Part 2**  
-TV-14-L 🔒 22:14  
-⌛ November 6, 2022 at 03:59:00 EST  
-https://www.adultswim.com/videos/yashahime-princess-half-demon/battle-on-the-new-moon-part-2  
-seriesid=`2268280` titleid=`2394830` id=`AYPHvqe9IAxeiVkFtLSH` mediaid=`259f7d42295c89d543c65830028cba438d9f4f8a`  
-_Moroha and Takechiyo strike back against Shogen Mamiana. Setsuna experiences her first New Moon. Towa is trapped by Nanahoshi's eternity bugs._  
-<a href="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121050110-YashahimePrincessHalfDemon_211_BattleOnTheNewMoonPart2.png"><img src="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121050110-YashahimePrincessHalfDemon_211_BattleOnTheNewMoonPart2.png" height="144px" /></a>
+608007 One Piece: 1  
+### 2402481
+**One Piece S16E11 - The Worst in the World! A Scientist of Terror - Caesar!**  
+TV-PG 🔒 22:12  
+⌛ November 6, 2022 at 04:59:00 EST  
+https://www.adultswim.com/videos/one-piece/the-worst-in-the-world-a-scientist-of-terror-caesar  
+seriesid=`608007` titleid=`2402481` id=`AYPIjGqNIAxeiVkFtLSK` mediaid=`b4159c7e5744f1e46fb80951e974bea9d2bebd3c`  
+_While Captain Smoker determines his next move, a very large pirate with alligator legs tells Luffy and the Straw Hats the true story of Punk Hazard's mysterious transformation!_  
+<a href="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121051526-OnePiece_589_TheWorstInTheWorldAScientistOfTerrorCeasar.png"><img src="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121051526-OnePiece_589_TheWorstInTheWorldAScientistOfTerrorCeasar.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  

@@ -559,7 +559,7 @@
         "launch_date": 1664701200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961536108-OnePiece_581_TheStrawHatsStunnedEnterASamuraisHorrifyingSeveredHead.png",
         "id": "AYMUTb3Q3sQvipyea-H7",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1669006740,
@@ -815,7 +815,7 @@
         "launch_date": 1665912600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_22922102791-OnePiece_584_ASwordplayShowdownBrookVsTheMysteriousTorsoSamurai.png",
         "id": "AYNlmKBQ3sQvipyea-XL",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1667120040,
@@ -916,6 +916,60 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_221041019378-OnePiece_588_MeetingAgainAfterTwoYearsLuffyAndLaw.png",
         "id": "AYOjXfgFIAxeiVkFtLSD",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1667728740,
+        "tms_id": "EP044419410012",
+        "description": "While Captain Smoker determines his next move, a very large pirate with alligator legs tells Luffy and the Straw Hats the true story of Punk Hazard's mysterious transformation!",
+        "title_suggest": {
+            "input": [
+                "The Worst in the World! A Scientist of Terror - Caesar!",
+                "Worst in the World! A Scientist of Terror - Caesar!",
+                "in the World! A Scientist of Terror - Caesar!",
+                "the World! A Scientist of Terror - Caesar!",
+                "World! A Scientist of Terror - Caesar!",
+                "A Scientist of Terror - Caesar!",
+                "Scientist of Terror - Caesar!",
+                "of Terror - Caesar!",
+                "Terror - Caesar!",
+                "- Caesar!",
+                "Caesar!"
+            ]
+        },
+        "title": "The Worst in the World! A Scientist of Terror - Caesar!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1332.3644,
+        "episode_number": "11",
+        "original_air_date": 1665898200,
+        "auth_launch_date": 1665910800,
+        "clip_order": null,
+        "airing_id": "RADS1010112200036454",
+        "media_id": "b4159c7e5744f1e46fb80951e974bea9d2bebd3c",
+        "modified": 1665877914,
+        "slug": "the-worst-in-the-world-a-scientist-of-terror-caesar",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221012/thumbnails/1_2210121051526-OnePiece_589_TheWorstInTheWorldAScientistOfTerrorCeasar.png",
+        "created": 1665516989,
+        "title_id": "2402481",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "published": 1665877914,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121051526-OnePiece_589_TheWorstInTheWorldAScientistOfTerrorCeasar.png",
+        "id": "AYPIjGqNIAxeiVkFtLSK",
         "auth": true
     }
 ]
