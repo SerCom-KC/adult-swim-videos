@@ -611,7 +611,7 @@
         "launch_date": 1664703000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_2296153739-OnePiece_582_StartlingTheSecretOfTheIslandIsFinallyRevealed.png",
         "id": "AYMUTvr3IAxeiVkFtLRo",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1666515540,
@@ -970,6 +970,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121051526-OnePiece_589_TheWorstInTheWorldAScientistOfTerrorCeasar.png",
         "id": "AYPIjGqNIAxeiVkFtLSK",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1667730540,
+        "tms_id": "EP044419410009",
+        "description": "The giant children fly into a mysterious rage, and Chopper discovers the true reason for their unusual condition! Meanwhile, Zoro, Brook, and Sanji cross paths with a dangerous duo!",
+        "title_suggest": {
+            "input": [
+                "Chopper's Fury! The Master's Inhumane Experiment!",
+                "Fury! The Master's Inhumane Experiment!",
+                "The Master's Inhumane Experiment!",
+                "Master's Inhumane Experiment!",
+                "Inhumane Experiment!",
+                "Experiment!"
+            ]
+        },
+        "title": "Chopper's Fury! The Master's Inhumane Experiment!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1317.6831,
+        "episode_number": "12",
+        "original_air_date": 1665900000,
+        "auth_launch_date": 1665912600,
+        "clip_order": null,
+        "airing_id": "RADS1010112200036457",
+        "media_id": "04c9ad2d1a36779c81333700472eb97653dd414f",
+        "modified": 1665877941,
+        "slug": "choppers-fury-the-masters-inhumane-experiment",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221012/thumbnails/1_2210121052467-OnePiece_591_ChoppersFuryTheMastersInhumaneExperiment.png",
+        "created": 1665517000,
+        "title_id": "2402483",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "published": 1665877941,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121052467-OnePiece_591_ChoppersFuryTheMastersInhumaneExperiment.png",
+        "id": "AYPIjJYiIAxeiVkFtLSL",
         "auth": true
     }
 ]
