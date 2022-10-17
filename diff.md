@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 17, 2022 at 13:30:24 EDT_
+_Last Update: October 17, 2022 at 14:00:27 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177763
-**Naruto: Shippuden S06E51 - Sibling Tag Team**  
-TV-PG 🔒 21:51  
-⌛ October 20, 2022 at 06:29:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/sibling-tag-team  
-seriesid=`812206` titleid=`2177763` id=`AXfQnnMXQJ_4Uej5kTtC` mediaid=`594a0ab73279c0dad58f676791b305cd5bdac9a0`  
-_Sasuke and Itachi team up to stop Kabuto's Reanimation Jutsu._  
-<a href="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231539266-NarutoShippuden_334_SiblingTagTeam.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210223/thumbnails/2_212231539266-NarutoShippuden_334_SiblingTagTeam.jpg" height="144px" /></a>
+340537 Aqua Teen Hunger Force: 1  
+### 702585
+**Aqua Teen Hunger Force S05E10 - Bible Fruit**  
+TV-MA 🔒 11:32  
+⌛ October 18, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/bible-fruit  
+seriesid=`340537` titleid=`702585` id=`My3w4Nb4SPi72XdoPFtx2g` mediaid=`fdff959c1c9f394197176b80782733c5b0eeba4c`  
+_Frylock decides to party with some friends he met through a social networking website._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224171981-athf_078_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224171981-athf_078_BIM.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
