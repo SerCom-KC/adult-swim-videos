@@ -4716,6 +4716,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1672117140,
+        "tms_id": "EP007259620237",
+        "description": "Robot Chicken lets Yoshi get his revenge on Mario once and for all; A period so bad it requires a famous exorcist to fix; Snoopy trains a new crew of WWI flying aces.",
+        "title_suggest": {
+            "input": [
+                "May Cause Involuntary Political Discharge",
+                "Cause Involuntary Political Discharge",
+                "Involuntary Political Discharge",
+                "Political Discharge",
+                "Discharge"
+            ]
+        },
+        "title": "May Cause Involuntary Political Discharge",
+        "expiration_date": 1656993540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 667.4334,
+        "episode_number": "17",
+        "original_air_date": "1647230400",
+        "auth_launch_date": 1666065600,
+        "clip_order": null,
+        "airing_id": "RADS1010172200037004",
+        "media_id": "68c4ccca60315948c5d821506ba03fb4abe663d6",
+        "modified": 1666012939,
+        "slug": "may-cause-involuntary-political-discharge",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
+        "created": 1646842239,
+        "season_number": "11",
+        "title_id": "2270603",
+        "tv_rating": "tv-ma-v",
+        "published": 1666012939,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1653969600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
+        "id": "AX9vcljj_0O4w1rD3RzB",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1668142740,
         "tms_id": "EP007259620212",
         "description": "Batman makes an addition to his costume. Ride along with the Westeros, P.D. and see how they solve crimes. And the RC crew puts Bitch Pudding on Love Island to see what kind of match she will find.",
@@ -5067,7 +5115,7 @@
         "launch_date": 1663041600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210316/thumbnails/2_21316130427-RobotChicken_1023_dup-20210310.jpg",
         "id": "AXg7-6bVDmGy9WFjRqoJ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1670302740,
