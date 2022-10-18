@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1444574760,
         "auth_expiration_date": 1669093140,
         "tms_id": "EP011016070024",
@@ -100,6 +100,58 @@
         "launch_date": 1662436800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331447209-delocated_304.jpg",
         "cma_id": "1444482"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1444575060,
+        "auth_expiration_date": 1653969540,
+        "tms_id": "EP011016070029",
+        "rating": 8.402438,
+        "description": "Things go wrong at Delocated's first ever Reunion Special.",
+        "title_suggest": {
+            "input": [
+                "Reunion Show",
+                "Show"
+            ]
+        },
+        "type": "episode",
+        "title": "Reunion Show",
+        "expiration_date": 1669093140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
+        "duration": 1295.6672227,
+        "episode_number": "10",
+        "original_air_date": 1333684800,
+        "clip_order": null,
+        "auth_launch_date": 1650945600,
+        "modified": 1665855338,
+        "media_id": "e6d7f5edf610634b9a576dfa1d1ed954b6b4f0d0",
+        "airing_id": "RADS1010152200036764",
+        "id": "Jgi_NDIUQsaDQLeyWEftcw",
+        "slug": "reunion-show",
+        "views": 25299,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_2033145870-delocated_310.jpg",
+        "created": 1402945463,
+        "title_id": "878917",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1665855338,
+        "tags": [],
+        "rating_count": 82,
+        "collection_title": "Delocated",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1666065600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033145870-delocated_310.jpg",
+        "cma_id": "1472995"
     },
     {
         "auth": false,
@@ -410,69 +462,6 @@
         "launch_date": 1665460800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331457493-delocated_309.jpg",
         "cma_id": "1468784"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1444574400,
-        "auth_expiration_date": 1666065540,
-        "tms_id": "EP011016070019",
-        "rating": 8.352352,
-        "description": "\"Jon\" is pushed to the brink in a shocking season finale.",
-        "title_suggest": {
-            "input": [
-                "Coma"
-            ]
-        },
-        "type": "episode",
-        "title": "Coma",
-        "expiration_date": 1663041540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
-        "duration": 1329.4337671,
-        "episode_number": "12",
-        "original_air_date": 1288929600,
-        "clip_order": null,
-        "auth_launch_date": 1663041600,
-        "modified": 1662689400,
-        "media_id": "3111d9aeb9607c91512e22909013dc17f9559ebf",
-        "airing_id": "RADS1008052200020051",
-        "id": "mooL7LrLRvujmGbi8cKeHw",
-        "slug": "coma",
-        "views": 183839,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_2033144510-delocated_212.jpg",
-        "created": 1402945463,
-        "title_id": "811370",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1662689400,
-        "tags": [
-            "Delocated",
-            "Jon Glaser",
-            "Ski Mask",
-            "Witness Protection Program",
-            "Coma",
-            "Rob",
-            "Kim",
-            "Seltzer",
-            "Neil",
-            "Mighty Joe Jon",
-            "Finale"
-        ],
-        "rating_count": 403,
-        "collection_title": "Delocated",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1660017600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033144510-delocated_212.jpg",
-        "cma_id": "1427552"
     },
     {
         "auth": true,
