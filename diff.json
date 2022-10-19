@@ -1,56 +1,6 @@
 {
-    "updated": 1666211236,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": 1666517340,
-            "tms_id": "EP034917240388",
-            "description": "The Second Exam finally begins! To pass this stage, each team must take possession of both the Heaven and Earth scrolls and make it to the designated site in the center of the Demon Desert within 72 hours.",
-            "title_suggest": {
-                "input": [
-                    "Demon Desert Survival",
-                    "Desert Survival",
-                    "Survival"
-                ]
-            },
-            "title": "Demon Desert Survival",
-            "type": "episode",
-            "expiration_date": null,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.9773,
-            "episode_number": "51",
-            "original_air_date": 1657432800,
-            "auth_launch_date": 1657445400,
-            "clip_order": null,
-            "airing_id": "RADS1007062200012105",
-            "media_id": "16ea69486f4d6da0278db9f6d3995ed6059c94c9",
-            "modified": 1657142659,
-            "slug": "demon-desert-survival",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_2276172419-NarutoShippuden_399_DemonDesertSurvival.png",
-            "created": 1657116887,
-            "title_id": "2177829",
-            "season_number": "7",
-            "tv_rating": "tv-pg",
-            "published": 1657142659,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "Sara Griggs",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_2276172419-NarutoShippuden_399_DemonDesertSurvival.png",
-            "id": "AYHT3QhI3sQvipyea9Vi",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
-        },
+    "updated": 1666216156,
+    "added": [
         {
             "auth_expiration_date": 1666519140,
             "tms_id": "EP034917240389",
@@ -80,7 +30,7 @@
             "clip_order": null,
             "airing_id": "RADS1007062200012107",
             "media_id": "a540df6198e6c8c4217718e17f814985223e972e",
-            "modified": 1657142739,
+            "modified": 1666215942,
             "slug": "as-a-taijutsu-user",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761725230-NarutoShippuden_400_AsATaijutsuUser.png",
@@ -88,11 +38,11 @@
             "title_id": "2177830",
             "season_number": "7",
             "tv_rating": "tv-pg",
-            "published": 1657142739,
+            "published": 1666215942,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
-            "modified_by": "Sara Griggs",
+            "modified_by": "ODT Listener",
             "launch_date": null,
             "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761725230-NarutoShippuden_400_AsATaijutsuUser.png",
             "id": "AYHT3Rg93sQvipyea9Vj",
@@ -101,5 +51,6 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
