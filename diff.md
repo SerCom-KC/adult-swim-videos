@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 19, 2022 at 06:30:23 EDT_
+_Last Update: October 19, 2022 at 15:00:25 EDT_
 ## Video added
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177780
-**Naruto: Shippuden S07E03 - Kakashi: Shadow of the ANBU Black Ops - Hashirama's Cells**  
-TV-PG-V 🔒 21:51  
-⌛ October 30, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/kakashi-shadow-of-the-anbu-black-ops-hashiramas-cells  
-seriesid=`812206` titleid=`2177780` id=`AXrQCLb1eTntnGIjub0q` mediaid=`428aa3d3679f9658226a8dcf19644fb39c36a56b`  
-_At the Foundation, Kakashi meets a boy who uses Wood Style, a jutsu that only the First Hokage Hashirama was capable of using._  
-<a href="https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723111338-NarutoShippuden_351_KakashiShadowOfTheANBUBlackOpsHashiramasCells.png"><img src="https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723111338-NarutoShippuden_351_KakashiShadowOfTheANBUBlackOpsHashiramasCells.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2161118 Joe Pera Talks With You: 1  
+### 2298520
+**Joe Pera Talks With You S03E04 - Joe Pera Listens to Your Drunk Story**  
+TV-14-DL 🔒 11:08  
+⌛ October 19, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-listens-to-your-drunk-story  
+seriesid=`2161118` titleid=`2298520` id=`AX0RMeXeUQa40cfnRSoN` mediaid=`655cd2064e43c67e137abfff7bd16d88d9dff2a5`  
+_Joe Pera and you stay up late on a weeknight, listening to his girlfriend Sarah share details from Wine Night._  
+<a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png" height="144px" /></a>
