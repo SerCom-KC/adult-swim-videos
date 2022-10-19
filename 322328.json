@@ -1,58 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1450887120,
-        "auth_expiration_date": 1666151940,
-        "tms_id": "",
-        "rating": 4.8239985,
-        "description": "Special edition of \"Kentucky Nightmare\"--with commentary provided by the show producers' mothers.",
-        "title_suggest": {
-            "input": [
-                "Momentary"
-            ]
-        },
-        "type": "episode",
-        "title": "Momentary",
-        "expiration_date": 1652846340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 600.3670337,
-        "episode_number": "6",
-        "original_air_date": 1009773000,
-        "clip_order": null,
-        "auth_launch_date": 1664942400,
-        "modified": 1664596340,
-        "media_id": "60f88b422a5643f0c475b7d6c912a60799a4125c",
-        "airing_id": "RADS1009302200033202",
-        "id": "-w5jAZ4iQwmXjYolSVezHQ",
-        "slug": "momentary",
-        "views": 21023,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201157389-sgc2c_2106.jpg",
-        "created": 1402945476,
-        "title_id": "411004",
-        "season_number": "7",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1664596340,
-        "tags": [
-            "space ghost c2c episode 82 mommentary part 1"
-        ],
-        "rating_count": 125,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1649822400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201157389-sgc2c_2106.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1449258300,
         "auth_expiration_date": 1663732740,
@@ -105,111 +52,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1449258480,
-        "auth_expiration_date": 1666151940,
-        "tms_id": "EP001022180080",
-        "rating": 7.4570136,
-        "description": "Performance artist Laurie Anderson riles Space Ghost by revealing that she never watches television, then waxes conspiratorial about cyberspace. A disengaged Space Ghost invisos out, missing much of their remaining conversation. Next, Space Ghost endeavors to understand members of the performance troupe Stomp.",
-        "title_suggest": {
-            "input": [
-                "Art Show",
-                "Show"
-            ]
-        },
-        "type": "episode",
-        "title": "Art Show",
-        "expiration_date": 1637729940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 726.8341675,
-        "episode_number": "14",
-        "original_air_date": 908595000,
-        "clip_order": null,
-        "auth_launch_date": 1664337600,
-        "modified": 1663989917,
-        "airing_id": "RADS1009232200030623",
-        "media_id": "0101f6d01038f397cb4b165a08e8f20f2c7df88f",
-        "id": "2rRTwZdqRre3KR65buuoew",
-        "slug": "art-show",
-        "views": 39534,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417101335-sgc2c_9614_dst_cid-9137639.jpg",
-        "created": 1402945476,
-        "title_id": "322772",
-        "season_number": "3",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1663989917,
-        "tags": [
-            "space ghost coast to coast episode 32 art show laurie anderson stomp"
-        ],
-        "rating_count": 221,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1635480000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417101335-sgc2c_9614_dst_cid-9137639.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1449870960,
-        "auth_expiration_date": 1666151940,
-        "tms_id": "EP001022180095",
-        "rating": 9.060607,
-        "description": "Desperate for a new gig, Space Ghost kisses up to \"Talk Soup\" host John Henson and \"Entertainment Tonight\" host Bob Goen by telling each that they are \"pretty men.\" Space Ghost even offers to set Henson up with his \"sister\" Judy. Brak spoils the affair by spilling gravy all over the set.",
-        "title_suggest": {
-            "input": [
-                "Suckup"
-            ]
-        },
-        "type": "episode",
-        "title": "Suckup",
-        "expiration_date": 1644987540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 712.4337671,
-        "episode_number": "19",
-        "original_air_date": 975301200,
-        "clip_order": null,
-        "auth_launch_date": 1664337600,
-        "modified": 1663989917,
-        "airing_id": "RADS1009232200030619",
-        "media_id": "a452865d62ea61ad07b7b718b518975b90b1d932",
-        "id": "6Q4q9jrQTdqM-8UXLBAJmQ",
-        "slug": "suckup",
-        "views": 52189,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201138375-sgc2c_9719_dst_cid-9131518.jpg",
-        "created": 1402945476,
-        "title_id": "322329",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1663989917,
-        "tags": [
-            "space ghost coast to coast sgc2c episode 52 suckup talk soup john henson bob goen"
-        ],
-        "rating_count": 132,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1641963600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1449257820,
         "auth_expiration_date": 1662523140,
@@ -257,6 +99,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1663732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417956280-sgc2c_9605_dst_cid-9105378.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1448046900,
+        "auth_expiration_date": 1667361540,
+        "tms_id": "EP001022180030",
+        "rating": 8.589406,
+        "description": "Space Ghost welcomes two talk-show experts, Bill Carter and Joe Franklin. Carter, author of \"The Late Shift,\"explains why Space Ghost was excluded from his book. Franklin, the world's first TV talk show host, gives him a few pointers. Moltar introduces his fascination with the television series \"CHiPs,\"a theme that will resurface again and again.",
+        "title_suggest": {
+            "input": [
+                "CHiPs"
+            ]
+        },
+        "type": "episode",
+        "title": "CHiPs",
+        "expiration_date": 1658289540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 635.0667334,
+        "episode_number": "4",
+        "original_air_date": 895894200,
+        "clip_order": null,
+        "auth_launch_date": 1666152000,
+        "modified": 1665994064,
+        "airing_id": "RADS1010172200036903",
+        "media_id": "6aa85edc65bcd91f400f6e2a568b63bf53fa3696",
+        "id": "9WZFQoNXT3Sba6St7XLX1w",
+        "slug": "c-hi-ps",
+        "views": 44944,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_2041794630-sgc2c_9404_dst_cid-9122680.jpg",
+        "created": 1402945476,
+        "title_id": "322736",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1665994064,
+        "tags": [
+            "space ghost c2c sg episode 4 chips bill carter joe franklin"
+        ],
+        "rating_count": 151,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1655265600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041794630-sgc2c_9404_dst_cid-9122680.jpg",
         "cma_id": ""
     },
     {
@@ -358,56 +252,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1449257700,
-        "auth_expiration_date": 1661918340,
-        "tms_id": "EP001022180011",
-        "rating": 7.485477,
-        "description": "Musician Jonathan Richman, who first climbed to fame fronting The Modern Lovers, favors Space Ghost with a couple of charming songs during a meandering conversation.",
-        "title_suggest": {
-            "input": [
-                "Transcript"
-            ]
-        },
-        "type": "episode",
-        "title": "Transcript",
-        "expiration_date": 1666151940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 746.9342676,
-        "episode_number": "4",
-        "original_air_date": 944280000,
-        "clip_order": null,
-        "auth_launch_date": 1660104000,
-        "modified": 1663075131,
-        "airing_id": "RADS1009122200027667",
-        "media_id": "c6bbc69ef9dbf4f9881ec1629ec2da6e158e469c",
-        "id": "ETDNFLr_ShSwzsoddr50bA",
-        "slug": "transcript",
-        "views": 63124,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417955498-sgc2c_9604_dst_cid-9105590.jpg",
-        "created": 1402945476,
-        "title_id": "322638",
-        "season_number": "3",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1663075131,
-        "tags": [],
-        "rating_count": 241,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663128000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417955498-sgc2c_9604_dst_cid-9105590.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1450889640,
         "auth_expiration_date": 1666756740,
@@ -459,58 +303,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1650427200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201159578-sgc2c_2303.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1448046780,
-        "auth_expiration_date": 1666151940,
-        "tms_id": "EP001022180003",
-        "rating": 8.29384,
-        "description": "Three stranded castaways, Bob Denver (Gilligan), Dawn Wells (Mary Ann) and Russell Johnson (the Professor), take their turns in the video monitor. Zorak declares, \"I am the lone locust of the apocalypse. Think of me when you look to the night sky.\"",
-        "title_suggest": {
-            "input": [
-                "Gilligan"
-            ]
-        },
-        "type": "episode",
-        "title": "Gilligan",
-        "expiration_date": 1657079940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 698.9342676,
-        "episode_number": "2",
-        "original_air_date": 894684600,
-        "clip_order": null,
-        "auth_launch_date": 1664942400,
-        "modified": 1664598754,
-        "airing_id": "RADS1009302200033217",
-        "media_id": "a1bf94f19b07592ea4a325afc663ee578ea1b3fc",
-        "id": "H9ek3x38TAGoOwrrXoHi_A",
-        "slug": "gilligan",
-        "views": 53219,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417945117-sgc2c_9402_dst_cid-9108288.jpg",
-        "created": 1402945476,
-        "title_id": "322726",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1664598754,
-        "tags": [
-            "space ghost coast to coast gilligan gilligian gilligen"
-        ],
-        "rating_count": 211,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654056000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417945117-sgc2c_9402_dst_cid-9108288.jpg",
         "cma_id": ""
     },
     {
@@ -613,6 +405,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1643173200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201148231-sgc2c_9810_136297.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1449532140,
+        "auth_expiration_date": 1667969940,
+        "tms_id": "EP001022180081",
+        "rating": 9.027523,
+        "description": "Space Ghost introduces \"Space Time Quiz Fun 9000\" and his \"contestants,\" comedians David Cross and Bob Odenkirk of HBO's \"Mr. Show.\" What follows is a rapid-fire conversation in more ways than one, as Odenkirk's growing addiction to power-band blasts results in a steady volley from Space Ghost.",
+        "title_suggest": {
+            "input": [
+                "Gallagher"
+            ]
+        },
+        "type": "episode",
+        "title": "Gallagher",
+        "expiration_date": 1639544340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 670.7,
+        "episode_number": "2",
+        "original_air_date": 911620800,
+        "clip_order": null,
+        "auth_launch_date": 1666152000,
+        "modified": 1665993187,
+        "airing_id": "RADS1010172200036890",
+        "media_id": "c94aa8c8a9d45efaab75f39a4482d94e4e3d078e",
+        "id": "Ur4HJYeFQiKNXPDuS1FIoA",
+        "slug": "gallagher",
+        "views": 51402,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417103344-sgc2c_9702.jpg",
+        "created": 1402945476,
+        "title_id": "322354",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1665993187,
+        "tags": [
+            "space ghost coast to coast episode 35 gallagher bob odenkirk david cross mr show"
+        ],
+        "rating_count": 218,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1636520400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417103344-sgc2c_9702.jpg",
         "cma_id": ""
     },
     {
@@ -786,6 +630,62 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1450889700,
+        "auth_expiration_date": 1667361540,
+        "tms_id": "EP001022180070",
+        "rating": 6.8427672,
+        "description": "Space Ghost welcomes fellow intergalactic entertainer William Shatner, but their interview is cut short when Space Ghost is called into action to take part in an epic space battle.",
+        "title_suggest": {
+            "input": [
+                "In Memory of Elizabeth Reed",
+                "Memory of Elizabeth Reed",
+                "of Elizabeth Reed",
+                "Elizabeth Reed",
+                "Reed"
+            ]
+        },
+        "type": "episode",
+        "title": "In Memory of Elizabeth Reed",
+        "expiration_date": 1654055940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 713.2002002,
+        "episode_number": "4",
+        "original_air_date": 1070857800,
+        "clip_order": null,
+        "auth_launch_date": 1666152000,
+        "modified": 1665993455,
+        "airing_id": "RADS1010172200036895",
+        "media_id": "3ed6e0365ebd7069ca0bcd4e26dd8c0b62380086",
+        "id": "bk2udfR6RgO6cY_nbVmpNw",
+        "slug": "in-memory-of-elizabeth-reed",
+        "views": 24646,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420120222-sgc2c_2304.jpg",
+        "created": 1402945476,
+        "title_id": "449388",
+        "season_number": "8",
+        "tv_rating": "tv-14-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1665993455,
+        "tags": [
+            "space ghost c2c sg episode 86 in memory of elizabeth reed william shatner"
+        ],
+        "rating_count": 159,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1651032000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420120222-sgc2c_2304.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1450802100,
         "auth_expiration_date": 1666756740,
         "tms_id": "EP001022180063",
@@ -834,6 +734,112 @@
         "modified_by": "ODT Listener",
         "launch_date": 1642568400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201143523-sgc2c_9803_air_cid-9129062.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1450803060,
+        "auth_expiration_date": 1667969940,
+        "tms_id": "",
+        "rating": 7.5422544,
+        "description": "Space Ghost interviews Denis Leary with questions like, \"Are you a leprechaun?\" Moltar destroys Ghost Planet and Space Ghost subsequently appears at a day camp, explaining how he saved Christmas.",
+        "title_suggest": {
+            "input": [
+                "Waiting for Edward",
+                "for Edward",
+                "Edward"
+            ]
+        },
+        "type": "episode",
+        "title": "Waiting for Edward",
+        "expiration_date": 1646801940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 530.2,
+        "episode_number": "12",
+        "original_air_date": 920088000,
+        "clip_order": null,
+        "auth_launch_date": 1666152000,
+        "modified": 1665994066,
+        "media_id": "e32ec061a5368ba30ad348f01842361c2e70c8ec",
+        "airing_id": "RADS1010172200036899",
+        "id": "orRMH-BVQR6-jIXtaYGwcQ",
+        "slug": "waiting-for-edward",
+        "views": 50430,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201149396-sgc2c_9812.jpg",
+        "created": 1402945476,
+        "title_id": "328699",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1665994066,
+        "tags": [],
+        "rating_count": 284,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1643778000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201149396-sgc2c_9812.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1449258420,
+        "auth_expiration_date": 1664942340,
+        "tms_id": "EP001022180105",
+        "rating": 8.624999,
+        "description": "Former \"Late Show With David Letterman\" writers scripted this unabashed spoof of late-night talk show convention. Janeane Garofalo reveals her secret power, then hypnotist Flip Orley joins Space Ghost until Zorak, using an incantation, turns him into David Grohl of the Foo Fighters. Sitting in with the band is John Popper of Blues Traveler.",
+        "title_suggest": {
+            "input": [
+                "Late Show",
+                "Show"
+            ]
+        },
+        "type": "episode",
+        "title": "Late Show",
+        "expiration_date": 1669179540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 1196.63,
+        "episode_number": "12",
+        "original_air_date": 897103800,
+        "clip_order": null,
+        "auth_launch_date": 1663128000,
+        "modified": 1665995294,
+        "airing_id": "RADS1010172200036894",
+        "media_id": "1f48f9c4fb79d9cf8733769395bbfec7835b6bce",
+        "id": "qTHfxyfxQs2HaaGe1rU0WQ",
+        "slug": "late-show",
+        "views": 57780,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417100106-sgc2c_9612_dst_cid-9105584.jpg",
+        "created": 1402945476,
+        "title_id": "322770",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1665995294,
+        "tags": [
+            "space ghost coast to coast episode 30 late show david letterman janeane garofalo flip orley dave grohl john popper foo fighters blues traveler"
+        ],
+        "rating_count": 104,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1666152000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417100106-sgc2c_9612_dst_cid-9105584.jpg",
         "cma_id": ""
     },
     {

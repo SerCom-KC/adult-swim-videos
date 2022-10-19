@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447450740,
         "auth_expiration_date": 1669179540,
         "tms_id": "EP009235020026",
@@ -318,6 +318,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447450740,
+        "auth_expiration_date": 1649822340,
+        "tms_id": "EP009235020032",
+        "rating": 7.226537,
+        "description": "An inmate teaches the Warden about friendship and fire.",
+        "title_suggest": {
+            "input": [
+                "Burnstoolie Burn",
+                "Burn"
+            ]
+        },
+        "type": "episode",
+        "title": "Burnstoolie Burn",
+        "expiration_date": 1669179540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "yQHd58HtSH6k0SPEn_e_Gg",
+        "duration": 660.0834028,
+        "episode_number": "3",
+        "original_air_date": 1355116500,
+        "clip_order": null,
+        "auth_launch_date": 1646802000,
+        "modified": 1665993186,
+        "media_id": "d1997f68dd1d430c5895b1b7f96eae75b8c234b3",
+        "airing_id": "RADS1010172200036891",
+        "id": "iaESy8LTRiSMGimO21bLlA",
+        "slug": "burnstoolie-burn",
+        "views": 47980,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/1_20421110597-superjail_303_dup-20121207.jpg",
+        "created": 1402945478,
+        "title_id": "966791",
+        "season_number": "3",
+        "tv_rating": "tv-ma-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1665993186,
+        "tags": [],
+        "rating_count": 309,
+        "collection_title": "Superjail!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1666152000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_20421110597-superjail_303_dup-20121207.jpg",
+        "cma_id": "1352209"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447450860,
         "auth_expiration_date": 1649217540,
         "tms_id": "EP009235020031",
@@ -499,56 +551,5 @@
         "launch_date": 1664942400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_20421114452-superjail_309_dup-20121109.jpg",
         "cma_id": "1376894"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447450560,
-        "auth_expiration_date": 1666151940,
-        "tms_id": "EP009235020021",
-        "rating": 7.3131313,
-        "description": "The Warden takes the staff and inmates on a fantastical pleasure cruise aboard his flying ship.",
-        "title_suggest": {
-            "input": [
-                "Vacation"
-            ]
-        },
-        "type": "episode",
-        "title": "Vacation",
-        "expiration_date": 1663127940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "yQHd58HtSH6k0SPEn_e_Gg",
-        "duration": 660.1334668,
-        "episode_number": "9",
-        "original_air_date": 1307937600,
-        "clip_order": null,
-        "auth_launch_date": 1663128000,
-        "modified": 1663076612,
-        "media_id": "5436b80b84b60a71e0a5376558cc9ceea99e6f83",
-        "airing_id": "RADS1008052200020097",
-        "id": "wZei93tJQQiqvbBfVRy_fg",
-        "slug": "vacation",
-        "views": 264882,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/1_204211057581-superjail_209_bim.jpg",
-        "created": 1402945477,
-        "title_id": "840324",
-        "season_number": "2",
-        "tv_rating": "tv-ma-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663076612,
-        "tags": [],
-        "rating_count": 891,
-        "collection_title": "Superjail!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1660104000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_204211057581-superjail_209_bim.jpg",
-        "cma_id": "840324"
     }
 ]
