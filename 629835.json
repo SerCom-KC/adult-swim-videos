@@ -167,6 +167,61 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1666756740,
+        "tms_id": "EP002070020120",
+        "rating": 8.761194,
+        "description": "Hank discovers that Connie has a talent for bluegrass music, and arranges a trip to Branson to enter her in a fiddle contest.",
+        "title_suggest": {
+            "input": [
+                "Bluegrass is Always Greener",
+                "is Always Greener",
+                "Always Greener",
+                "Greener"
+            ]
+        },
+        "type": "episode",
+        "title": "Bluegrass is Always Greener",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1469.835,
+        "episode_number": "9",
+        "original_air_date": 1233804600,
+        "clip_order": null,
+        "auth_launch_date": 1666152000,
+        "modified": 1666029372,
+        "media_id": "2ebfc224e852397c326e600ceb856ee193b706ad",
+        "airing_id": "RADS1010172200036916",
+        "id": "gjcFt7S7SjCj53zFpGbqYg",
+        "slug": "bluegrass-is-always-greener",
+        "views": 96816,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221017/thumbnails/1_221017135667-aslogothumbnail.png",
+        "created": 1402945468,
+        "title_id": "731370",
+        "season_number": "6",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1666029372,
+        "tags": [
+            "king of the hill koth episode 614 Bluegrass is Always Greener"
+        ],
+        "rating_count": 134,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221017/thumbnails/2_221017135667-aslogothumbnail.png",
+        "cma_id": "1474070"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1666497540,
         "tms_id": "EP002070020117",
         "rating": 8.369368,
@@ -226,56 +281,5 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203656609561.jpg",
         "cma_id": "1473733"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1666151940,
-        "tms_id": "EP002070020113",
-        "description": "Hank and Cotton have a falling out that might only be resolved through the negotiating skills of Jimmy Carter.",
-        "title_suggest": {
-            "input": [
-                "The Father, the Son and J.C.",
-                "Father, the Son and J.C.",
-                "the Son and J.C.",
-                "Son and J.C.",
-                "and J.C.",
-                "J.C."
-            ]
-        },
-        "expiration_date": 1505707199,
-        "title": "The Father, the Son and J.C.",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1470.3022,
-        "episode_number": "4",
-        "original_air_date": 1233372600,
-        "clip_order": null,
-        "auth_launch_date": 1665547200,
-        "modified": 1665586009,
-        "airing_id": "RADS1010072200035613",
-        "media_id": "1bb7aa28658bbab390ca22dbab7c83d517047682",
-        "id": "niFrFH6vT1Cf04aOUVL6Hg",
-        "slug": "the-father-the-son-and-j-c",
-        "views": 4168,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221012/thumbnails/1_2210121046360-KingOfTheHill_604_TheFatherTheSonAndJC.png",
-        "created": 1403630580,
-        "season_number": "6",
-        "title_id": "731352",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "published": 1665586009,
-        "first_published": 1418959227,
-        "tags": [],
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Sara Griggs",
-        "launch_date": 1505102400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121046360-KingOfTheHill_604_TheFatherTheSonAndJC.png",
-        "cma_id": "1470168"
     }
 ]
