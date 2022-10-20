@@ -1065,6 +1065,55 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433569776002.jpg"
     },
     {
+        "ott_launch_date": 1539008940,
+        "auth": true,
+        "auth_expiration_date": 1677128340,
+        "tms_id": "",
+        "description": "Deep inside Guild Headquarters, The Monarch and 21 face their ultimate ordeal. Meanwhile, the Venture Brothers face one of their own.",
+        "title_suggest": {
+            "input": [
+                "The Saphrax Protocol",
+                "Saphrax Protocol",
+                "Protocol"
+            ]
+        },
+        "expiration_date": 1663214340,
+        "type": "episode",
+        "title": "The Saphrax Protocol",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1355,
+        "episode_number": "10",
+        "original_air_date": 1538971200,
+        "auth_launch_date": 1666238400,
+        "clip_order": null,
+        "media_id": "80e1416e2c505b0a6b5bb8778e279a16865af66a",
+        "modified": 1666023779,
+        "airing_id": "RADS1010172200037073",
+        "id": "AWRsVD1sqBveI_0AhKz5",
+        "slug": "the-saphrax-protocol",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15385949318523.jpg",
+        "created": 1530825817,
+        "season_number": "7",
+        "title_id": "2165026",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1666023779,
+        "tags": [],
+        "collection_title": "The Venture Bros.",
+        "modified_by": "ODT Listener",
+        "launch_date": 1660190400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg"
+    },
+    {
         "ott_launch_date": 1535380140,
         "auth": true,
         "auth_expiration_date": 1673499599,
@@ -2411,7 +2460,7 @@
         "cma_id": "981013"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449842400,
         "auth_expiration_date": 1669265940,
         "tms_id": "EP005604540063",
@@ -4854,7 +4903,7 @@
         "cma_id": "990755"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447783320,
         "auth_expiration_date": 1666238399,
         "tms_id": "EP005604540068",
