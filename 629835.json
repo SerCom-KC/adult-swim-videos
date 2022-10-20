@@ -58,64 +58,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1666238340,
-        "tms_id": "EP002070020116",
-        "rating": 7.537975,
-        "description": "Bobby and Connie pretend to break up to throw off her parents so the two can spend more time together.",
-        "title_suggest": {
-            "input": [
-                "Father of the Bribe",
-                "of the Bribe",
-                "the Bribe",
-                "Bribe"
-            ]
-        },
-        "type": "episode",
-        "title": "Father of the Bribe",
-        "expiration_date": 1505791799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1470.2354,
-        "episode_number": "5",
-        "original_air_date": 1233459000,
-        "clip_order": null,
-        "auth_launch_date": 1665633600,
-        "modified": 1665440913,
-        "media_id": "b2bfe7ea04c91792f1bb5beeb0a8d8b33a7d2243",
-        "airing_id": "RADS1010102200036277",
-        "id": "QB6rkJxzTk-MonGe-aIPJQ",
-        "slug": "father-of-the-bribe",
-        "views": 110387,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151984619576312.jpg",
-        "created": 1402945468,
-        "title_id": "731353",
-        "tv_rating": "tv-pg-dl",
-        "season_number": "6",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1665440913,
-        "tags": [
-            "father of the bribe",
-            "bobby",
-            "connie",
-            "pretend",
-            "break up",
-            "parents"
-        ],
-        "rating_count": 158,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1505187000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984619576312.jpg",
-        "cma_id": "1470503"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1666411140,
         "tms_id": "EP002070020119",
         "description": "Peggy loses her job as a substitute teacher after she spanks an unruly student.",
@@ -281,5 +223,57 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203656609561.jpg",
         "cma_id": "1473733"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1666843140,
+        "tms_id": "EP002070020115",
+        "description": "When Cotton's WWII veteran's group, the VFW, is threatened with bankruptcy, Hank suggests the group invite Vietnam vets to become members.",
+        "title_suggest": {
+            "input": [
+                "Unfortunate Son",
+                "Son"
+            ]
+        },
+        "expiration_date": null,
+        "title": "Unfortunate Son",
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "roku"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1469.0343,
+        "episode_number": "11",
+        "original_air_date": 1233027000,
+        "clip_order": null,
+        "auth_launch_date": 1666238400,
+        "modified": 1666023779,
+        "media_id": "1597ef99e9ba817efbbf5a7dabb1d682cb58fea5",
+        "airing_id": "RADS1010172200037065",
+        "id": "vvY5GPmaSm6O_24rtIIvsA",
+        "slug": "unfortunate-son",
+        "views": 5355,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152053937375314.jpg",
+        "created": 1403635588,
+        "season_number": "6",
+        "title_id": "731372",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1666023779,
+        "first_published": 1409278828,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152053937375314.jpg",
+        "cma_id": "1475214"
     }
 ]
