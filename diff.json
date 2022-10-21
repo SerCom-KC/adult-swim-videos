@@ -1,6 +1,75 @@
 {
-    "updated": 1666372582,
-    "added": [
+    "updated": 1666374980,
+    "added": [],
+    "removed": [
+        {
+            "auth": false,
+            "ott_launch_date": null,
+            "auth_expiration_date": null,
+            "tms_id": "EP004625790013",
+            "rating": 7.719994,
+            "description": "All roads lead to Vicious as Spike searches for Julia, Jet tracks down Faye and Faye confronts Gren. But as Spike looks desperately for clues, Julia is nowhere to be found. Gren may have some answers, but Spike will have to get to him before it is too late.",
+            "title_suggest": {
+                "input": [
+                    "Jupiter Jazz pt.2",
+                    "Jazz pt.2",
+                    "pt.2"
+                ]
+            },
+            "type": "episode",
+            "title": "Jupiter Jazz pt.2",
+            "expiration_date": 1666583940,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "UXZ_vOajSbeWDPWBB_huVQ",
+            "duration": 1367.7340674,
+            "episode_number": "13",
+            "original_air_date": 1003118400,
+            "clip_order": null,
+            "auth_launch_date": null,
+            "modified": 1666371583,
+            "media_id": "6095f9749b03eca36408163405e178bf16645998",
+            "airing_id": "RADS1007222200014902",
+            "id": "xiA9gQCYQRG8C43AKscV_Q",
+            "slug": "jupiter-jazz-pt-2",
+            "views": 188232,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_20331038149-cowboybebop_113.jpg",
+            "created": 1402945463,
+            "title_id": "344103",
+            "season_number": "1",
+            "tv_rating": "tv-14",
+            "active": true,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1666371583,
+            "tags": [
+                "cowboy bebop",
+                "season 1",
+                "episode 13",
+                "jupiter jazz pt. 2",
+                "julia",
+                "gren",
+                "spike",
+                "answers",
+                "adult swim",
+                "video",
+                "cartoon",
+                "action"
+            ],
+            "rating_count": 500,
+            "collection_title": "Cowboy Bebop",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1658721600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331038149-cowboybebop_113.jpg",
+            "cma_id": "1028196",
+            "collection_slug": "cowboy-bebop",
+            "collection_title_id": "344090",
+            "online_exclusives": false
+        },
         {
             "auth": false,
             "ott_launch_date": null,
@@ -55,6 +124,5 @@
             "collection_title_id": "344090",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
