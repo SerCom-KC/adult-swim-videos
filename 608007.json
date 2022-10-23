@@ -552,7 +552,7 @@
         "launch_date": 1666515600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271555137-OnePiece_585_TheWarlordTrafalgarLaw.png",
         "id": "AYN3GLoJ3sQvipyea-ao",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1666517340,
@@ -657,7 +657,7 @@
         "launch_date": 1665910800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221026134-OnePiece_583_SaveTheChildrenTheStrawHatsStartToFight.png",
         "id": "AYNll7lpIAxeiVkFtLR0",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1670216340,
@@ -810,6 +810,57 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_221041019378-OnePiece_588_MeetingAgainAfterTwoYearsLuffyAndLaw.png",
         "id": "AYOjXfgFIAxeiVkFtLSD",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1668333540,
+        "tms_id": "EP022794030016",
+        "description": "Luffy tries to chase down the Yetti Cool Brothers, but Franky - still trapped in Chopper's Body - makes his mission extremely difficult. Just when all appears lost, an unexpected ally lends a hand!",
+        "title_suggest": {
+            "input": [
+                "Save Nami! Luffy's Fight on the Snow-Capped Mountains!",
+                "Nami! Luffy's Fight on the Snow-Capped Mountains!",
+                "Luffy's Fight on the Snow-Capped Mountains!",
+                "Fight on the Snow-Capped Mountains!",
+                "on the Snow-Capped Mountains!",
+                "the Snow-Capped Mountains!",
+                "Snow-Capped Mountains!",
+                "Mountains!"
+            ]
+        },
+        "title": "Save Nami! Luffy's Fight on the Snow-Capped Mountains!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1317.7164,
+        "episode_number": "14",
+        "original_air_date": 1666503000,
+        "auth_launch_date": 1666515600,
+        "clip_order": null,
+        "airing_id": "RADS1010202200037548",
+        "media_id": "f349d5e7f49c73a4e26660d7ea80ca01dfd9653f",
+        "modified": 1666484199,
+        "slug": "save-nami-luffys-fight-on-the-snow-capped-mountains",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221022/thumbnails/1_2210222016361-aslogothumbnail.png",
+        "created": 1666285744,
+        "title_id": "2402485",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "published": 1666484199,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221022/thumbnails/2_2210222016361-aslogothumbnail.png",
+        "id": "AYP2XrDkIAxeiVkFtLSV",
         "auth": true
     },
     {
