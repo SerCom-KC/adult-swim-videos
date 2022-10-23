@@ -326,221 +326,9 @@
         "cma_id": "1303437"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447783860,
-        "auth_expiration_date": 1667969940,
-        "tms_id": "EP008994530007",
-        "rating": 6.338924,
-        "description": "An old man takes a picture of himself by mistake.\r\n(David Cross, Will Forte, Maria Bamford guest star)",
-        "title_suggest": {
-            "input": [
-                "Abstinence"
-            ]
-        },
-        "type": "episode",
-        "title": "Abstinence",
-        "expiration_date": 1664942340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 694.53,
-        "episode_number": "7",
-        "original_air_date": 1174880700,
-        "clip_order": null,
-        "auth_launch_date": 1664942400,
-        "modified": 1664598469,
-        "media_id": "e0397357f462798ec0ffd1ee2be7be7b9dcb86f1",
-        "airing_id": "RADS1008262200023147",
-        "id": "bjdWkeP8SAOU-cRSMTZEdA",
-        "slug": "abstinence",
-        "views": 529418,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620486-timanderic_107.jpg",
-        "created": 1402945481,
-        "title_id": "661594",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1664598469,
-        "tags": [
-            "tim eric awesome show great job episode 7 abstinence picture jan wayne skylar david cross will forte maria bamford"
-        ],
-        "rating_count": 6078,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1661918400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620486-timanderic_107.jpg",
-        "cma_id": "661594"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783800,
-        "auth_expiration_date": 1666756740,
-        "tms_id": "EP008994530005",
-        "rating": 6.1495094,
-        "description": "A chunky lady's secret love for her mean boss finally reaches a boiling point.",
-        "title_suggest": {
-            "input": [
-                "Chunky"
-            ]
-        },
-        "type": "episode",
-        "title": "Chunky",
-        "expiration_date": 1663732740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 691.012,
-        "episode_number": "5",
-        "original_air_date": 1173671100,
-        "clip_order": null,
-        "auth_launch_date": 1663732800,
-        "modified": 1663305761,
-        "media_id": "27bc4065d2e5cd8a066ba499040c7c991ed5e645",
-        "airing_id": "RADS1009152200028909",
-        "id": "j4jstoCCQ8SO6e2k4Rme6Q",
-        "slug": "chunky",
-        "views": 351292,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620131-timanderic_105.jpg",
-        "created": 1402945481,
-        "title_id": "661592",
-        "season_number": "1",
-        "tv_rating": "tv-14-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663305761,
-        "tags": [
-            "tim eric awesome show great job episode 5 carol mr mister henderson boss fat chunky love"
-        ],
-        "rating_count": 4983,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1660708800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620131-timanderic_105.jpg",
-        "cma_id": "1477435"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783860,
-        "auth_expiration_date": 1668574740,
-        "tms_id": "EP008994530010",
-        "rating": 5.9164257,
-        "description": "SPECIAL: It's the celebratory 50th Anniversary Show of Tim and Eric's Awesome Show Great Job.\r\n(Bob Odenkirk, Tom Kenny guest star)",
-        "title_suggest": {
-            "input": [
-                "Anniversary"
-            ]
-        },
-        "type": "episode",
-        "title": "Anniversary",
-        "expiration_date": 1665547140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 705.001,
-        "episode_number": "9",
-        "original_air_date": 1175485500,
-        "clip_order": null,
-        "auth_launch_date": 1665547200,
-        "modified": 1665171647,
-        "media_id": "80041c60e56c1e48b97e781943a4f01f3a50fc1e",
-        "airing_id": "RADS1010072200035568",
-        "id": "kjdm7l1yTdSv3_bkpVN3tw",
-        "slug": "anniversary",
-        "views": 348550,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161621200-timanderic_109.jpg",
-        "created": 1402945481,
-        "title_id": "663089",
-        "tv_rating": "tv-14-l",
-        "season_number": "1",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1665171647,
-        "tags": [
-            "tim eric awesome show great job episode 9 anniversary 50th celebration special"
-        ],
-        "rating_count": 4164,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1662523200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161621200-timanderic_109.jpg",
-        "cma_id": "663089"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783800,
-        "auth_expiration_date": 1667361540,
-        "tms_id": "EP008994530006",
-        "rating": 6.3764706,
-        "description": "Dilly is surprised when he finds a batch of cooked shrimp washed ashore. Krunk trips on his way to investigate.\r\n(Fred Willard guest stars)",
-        "title_suggest": {
-            "input": [
-                "Slop"
-            ]
-        },
-        "type": "episode",
-        "title": "Slop",
-        "expiration_date": 1664337540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 665.009,
-        "episode_number": "6",
-        "original_air_date": 1174275900,
-        "clip_order": null,
-        "auth_launch_date": 1664337600,
-        "modified": 1663990573,
-        "media_id": "92e1b968c1bd85d035b5a3b06f875a051c06f196",
-        "airing_id": "RADS1009232200030621",
-        "id": "pd4Zl-RJTGqY0TuspvzYBQ",
-        "slug": "slop",
-        "views": 667075,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620330-timanderic_106.jpg",
-        "created": 1402945481,
-        "title_id": "661593",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663990573,
-        "tags": [
-            "tim eric awesome show great job episode 6 slop dilly shrimp beaver boys krunk dilly fred willard david liebe hart"
-        ],
-        "rating_count": 5626,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1661313600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620330-timanderic_106.jpg",
-        "cma_id": "661593"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447783920,
-        "auth_expiration_date": 1638939540,
+        "auth_expiration_date": 1669784340,
         "tms_id": "EP008994530009",
         "rating": 6.2205877,
         "description": "The Uncle Muscles Hour is turned upside down when Casey turns up missing. Casey's brother struggles to adapt to life without him. \r\n(John C. Reilly guest stars)",
@@ -562,10 +350,10 @@
         "episode_number": "10",
         "original_air_date": 1176695100,
         "clip_order": null,
-        "auth_launch_date": 1635912000,
-        "modified": 1663306363,
+        "auth_launch_date": 1666756800,
+        "modified": 1666534118,
         "media_id": "00509e66dc3c42db03c0a3125ab965e7222f155f",
-        "airing_id": "RADS1009152200028901",
+        "airing_id": "RADS1010232200037931",
         "id": "t-mhh402RbmtoPUXMx8Pmg",
         "slug": "missing",
         "views": 588052,
@@ -578,7 +366,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1663306363,
+        "published": 1666534118,
         "tags": [
             "tim eric awesome show great job episode 10 missing casey tatum brother uncle muscles  john c reilly steve brule"
         ],
@@ -589,58 +377,5 @@
         "launch_date": 1663732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161621542-timanderic_110.jpg",
         "cma_id": "663090"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783860,
-        "auth_expiration_date": 1669179540,
-        "tms_id": "EP008994530008",
-        "rating": 6.720391,
-        "description": "Tim and Eric are late in delivering the episode to the Network and must rely on Hamburger Taxi to get the tape there on time. \r\n(John C. Reilly, Neil Hamburger, Al Yankovic guest star)",
-        "title_suggest": {
-            "input": [
-                "Hamburger"
-            ]
-        },
-        "type": "episode",
-        "title": "Hamburger",
-        "expiration_date": 1666151940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 683.006,
-        "episode_number": "8",
-        "original_air_date": 1176090300,
-        "clip_order": null,
-        "auth_launch_date": 1666152000,
-        "modified": 1665994066,
-        "media_id": "0dad6dd0fe7e0d1c675b384a269f2eb0d92a2a35",
-        "airing_id": "RADS1010172200036900",
-        "id": "wdXtFjTgQF6RoWyWD980lQ",
-        "slug": "hamburger",
-        "views": 387206,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116162152-timanderic_108.jpg",
-        "created": 1402945481,
-        "title_id": "661595",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1665994066,
-        "tags": [
-            "tim eric awesome show great job episode 8 hamburger late delivery network taxi john c reilly neil weird al yankovic"
-        ],
-        "rating_count": 3276,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663128000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116162152-timanderic_108.jpg",
-        "cma_id": "661595"
     }
 ]
