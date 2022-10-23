@@ -90,6 +90,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1668315540,
+        "tms_id": "EP044512610004",
+        "description": "There's definitely something wrong, but the old residents didn't seem to notice. The new arrivals will help unveil the horror that's been lurking all along.",
+        "title_suggest": {
+            "input": [
+                "The End of the Line",
+                "End of the Line",
+                "of the Line",
+                "the Line",
+                "Line"
+            ]
+        },
+        "title": "The End of the Line",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYOPu9eNIAxeiVkFtLR_",
+        "duration": 1504.3695,
+        "episode_number": "4",
+        "original_air_date": 1666497600,
+        "auth_launch_date": 1666497600,
+        "clip_order": null,
+        "airing_id": "RADS1010202200037524",
+        "media_id": "d962b56b0e7ee2f5fdd9fa49e009a3099dfee3e3",
+        "modified": 1666484108,
+        "slug": "the-end-of-the-line",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221022/thumbnails/1_221022201548-aslogothumbnail.png",
+        "created": 1666276667,
+        "title_id": "2398944",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1666484108,
+        "tags": [],
+        "collection_title": "Housing Complex C",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221022/thumbnails/2_221022201548-aslogothumbnail.png",
+        "id": "AYP11DE0IAxeiVkFtLSU",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1667707140,
         "tms_id": "EP044512610003",
         "description": "As more and more bizarre events occur, everyone is becoming concerned. Kimi and some of the older residents explore the ruins under the complex in search of what might be causing all of these incidents.",
