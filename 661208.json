@@ -351,7 +351,7 @@
         "original_air_date": 1174880700,
         "clip_order": null,
         "auth_launch_date": 1664942400,
-        "modified": 1666545386,
+        "modified": 1666546291,
         "media_id": "e0397357f462798ec0ffd1ee2be7be7b9dcb86f1",
         "airing_id": "RADS1009302200033208",
         "id": "bjdWkeP8SAOU-cRSMTZEdA",
@@ -366,7 +366,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1666545386,
+        "published": 1666546291,
         "tags": [
             "tim eric awesome show great job episode 7 abstinence picture jan wayne skylar david cross will forte maria bamford"
         ],
@@ -377,6 +377,59 @@
         "launch_date": 1661918400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620486-timanderic_107.jpg",
         "cma_id": "661594"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447783800,
+        "auth_expiration_date": 1666756740,
+        "tms_id": "EP008994530005",
+        "rating": 6.1495094,
+        "description": "A chunky lady's secret love for her mean boss finally reaches a boiling point.",
+        "title_suggest": {
+            "input": [
+                "Chunky"
+            ]
+        },
+        "type": "episode",
+        "title": "Chunky",
+        "expiration_date": 1663732740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 691.012,
+        "episode_number": "5",
+        "original_air_date": 1173671100,
+        "clip_order": null,
+        "auth_launch_date": 1663732800,
+        "modified": 1666546298,
+        "media_id": "27bc4065d2e5cd8a066ba499040c7c991ed5e645",
+        "airing_id": "RADS1009152200028909",
+        "id": "j4jstoCCQ8SO6e2k4Rme6Q",
+        "slug": "chunky",
+        "views": 351292,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620131-timanderic_105.jpg",
+        "created": 1402945481,
+        "title_id": "661592",
+        "season_number": "1",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1666546298,
+        "tags": [
+            "tim eric awesome show great job episode 5 carol mr mister henderson boss fat chunky love"
+        ],
+        "rating_count": 4983,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660708800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620131-timanderic_105.jpg",
+        "cma_id": "1477435"
     },
     {
         "auth": false,
@@ -430,58 +483,5 @@
         "launch_date": 1663732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161621542-timanderic_110.jpg",
         "cma_id": "663090"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783860,
-        "auth_expiration_date": 1669179540,
-        "tms_id": "EP008994530008",
-        "rating": 6.720391,
-        "description": "Tim and Eric are late in delivering the episode to the Network and must rely on Hamburger Taxi to get the tape there on time. \r\n(John C. Reilly, Neil Hamburger, Al Yankovic guest star)",
-        "title_suggest": {
-            "input": [
-                "Hamburger"
-            ]
-        },
-        "type": "episode",
-        "title": "Hamburger",
-        "expiration_date": 1666151940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 683.006,
-        "episode_number": "8",
-        "original_air_date": 1176090300,
-        "clip_order": null,
-        "auth_launch_date": 1666152000,
-        "modified": 1666545387,
-        "media_id": "0dad6dd0fe7e0d1c675b384a269f2eb0d92a2a35",
-        "airing_id": "RADS1010172200036900",
-        "id": "wdXtFjTgQF6RoWyWD980lQ",
-        "slug": "hamburger",
-        "views": 387206,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116162152-timanderic_108.jpg",
-        "created": 1402945481,
-        "title_id": "661595",
-        "season_number": "1",
-        "tv_rating": "tv-14-dl",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1666545387,
-        "tags": [
-            "tim eric awesome show great job episode 8 hamburger late delivery network taxi john c reilly neil weird al yankovic"
-        ],
-        "rating_count": 3276,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663128000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116162152-timanderic_108.jpg",
-        "cma_id": "661595"
     }
 ]
