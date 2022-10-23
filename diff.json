@@ -1,62 +1,64 @@
 {
-    "updated": 1666545557,
+    "updated": 1666546459,
     "added": [
         {
             "auth": true,
-            "ott_launch_date": 1447783860,
-            "auth_expiration_date": 1667969940,
-            "tms_id": "EP008994530007",
-            "rating": 6.338924,
-            "description": "An old man takes a picture of himself by mistake.\r\n(David Cross, Will Forte, Maria Bamford guest star)",
+            "ott_launch_date": 1447783800,
+            "auth_expiration_date": 1666756740,
+            "tms_id": "EP008994530005",
+            "rating": 6.1495094,
+            "description": "A chunky lady's secret love for her mean boss finally reaches a boiling point.",
             "title_suggest": {
                 "input": [
-                    "Abstinence"
+                    "Chunky"
                 ]
             },
             "type": "episode",
-            "title": "Abstinence",
-            "expiration_date": 1664942340,
+            "title": "Chunky",
+            "expiration_date": 1663732740,
             "platforms": [
                 "web",
                 "mobile",
                 "ott"
             ],
             "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-            "duration": 694.53,
-            "episode_number": "7",
-            "original_air_date": 1174880700,
+            "duration": 691.012,
+            "episode_number": "5",
+            "original_air_date": 1173671100,
             "clip_order": null,
-            "auth_launch_date": 1664942400,
-            "modified": 1666545386,
-            "media_id": "e0397357f462798ec0ffd1ee2be7be7b9dcb86f1",
-            "airing_id": "RADS1009302200033208",
-            "id": "bjdWkeP8SAOU-cRSMTZEdA",
-            "slug": "abstinence",
-            "views": 529418,
+            "auth_launch_date": 1663732800,
+            "modified": 1666546298,
+            "media_id": "27bc4065d2e5cd8a066ba499040c7c991ed5e645",
+            "airing_id": "RADS1009152200028909",
+            "id": "j4jstoCCQ8SO6e2k4Rme6Q",
+            "slug": "chunky",
+            "views": 351292,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620486-timanderic_107.jpg",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161620131-timanderic_105.jpg",
             "created": 1402945481,
-            "title_id": "661594",
+            "title_id": "661592",
             "season_number": "1",
-            "tv_rating": "tv-ma",
+            "tv_rating": "tv-14-d",
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1666545386,
+            "published": 1666546298,
             "tags": [
-                "tim eric awesome show great job episode 7 abstinence picture jan wayne skylar david cross will forte maria bamford"
+                "tim eric awesome show great job episode 5 carol mr mister henderson boss fat chunky love"
             ],
-            "rating_count": 6078,
+            "rating_count": 4983,
             "collection_title": "Tim and Eric Awesome Show Great Job!",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1661918400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620486-timanderic_107.jpg",
-            "cma_id": "661594",
+            "launch_date": 1660708800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161620131-timanderic_105.jpg",
+            "cma_id": "1477435",
             "collection_slug": "tim-and-eric-awesome-show-great-job",
             "collection_title_id": "661208",
             "online_exclusives": false
-        },
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447783860,
@@ -113,6 +115,5 @@
             "collection_title_id": "661208",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
