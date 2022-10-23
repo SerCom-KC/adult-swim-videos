@@ -1,18 +1,20 @@
 {
-    "updated": 1666519225,
+    "updated": 1666521024,
     "added": [
         {
-            "auth_expiration_date": 1675592940,
-            "tms_id": "EP034917240388",
-            "description": "The Second Exam finally begins! To pass this stage, each team must take possession of both the Heaven and Earth scrolls and make it to the designated site in the center of the Demon Desert within 72 hours.",
+            "auth_expiration_date": 1675594740,
+            "tms_id": "EP034917240419",
+            "description": "Kakashi has changed for the worse, and Obito doesn't know why. He runs into Kakashi and tries to talk to him, but Kakashi gives him the cold shoulder.",
             "title_suggest": {
                 "input": [
-                    "Demon Desert Survival",
-                    "Desert Survival",
-                    "Survival"
+                    "The Formation of Team Minato",
+                    "Formation of Team Minato",
+                    "of Team Minato",
+                    "Team Minato",
+                    "Minato"
                 ]
             },
-            "title": "Demon Desert Survival",
+            "title": "The Formation of Team Minato",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -22,83 +24,85 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.9773,
-            "episode_number": "51",
-            "original_air_date": 1657432800,
-            "auth_launch_date": 1666517400,
+            "duration": 1312.7447,
+            "episode_number": "68",
+            "original_air_date": 1666506600,
+            "auth_launch_date": 1666519200,
             "clip_order": null,
-            "airing_id": "RADS1010192200037514",
-            "media_id": "16ea69486f4d6da0278db9f6d3995ed6059c94c9",
-            "modified": 1666219224,
-            "slug": "demon-desert-survival",
+            "airing_id": "RADS1010202200037551",
+            "media_id": "aa8f7166503e996271c9c2911ded42983f80c45c",
+            "modified": 1666484249,
+            "slug": "the-formation-of-team-minato",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_2276172419-NarutoShippuden_399_DemonDesertSurvival.png",
-            "created": 1657116887,
-            "title_id": "2177829",
-            "season_number": "7",
-            "tv_rating": "tv-pg",
-            "published": 1666219224,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_2276172419-NarutoShippuden_399_DemonDesertSurvival.png",
-            "id": "AYHT3QhI3sQvipyea9Vi",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1675592940,
-            "tms_id": "EP034917240418",
-            "description": "Madara has transformed into the Jinchuriki of the Ten Tails and appears before Kakashi.",
-            "title_suggest": {
-                "input": [
-                    "The Two Mangekyo",
-                    "Two Mangekyo",
-                    "Mangekyo"
-                ]
-            },
-            "title": "The Two Mangekyo",
-            "type": "episode",
-            "expiration_date": null,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.4778,
-            "episode_number": "67",
-            "original_air_date": 1666504800,
-            "auth_launch_date": 1666517400,
-            "clip_order": null,
-            "airing_id": "RADS1010202200037549",
-            "media_id": "4ba484eb801ffbd49833697f4ec25de8f7a901c4",
-            "modified": 1666484230,
-            "slug": "the-two-mangekyo",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20221022/thumbnails/1_221022201771-aslogothumbnail.png",
-            "created": 1666285745,
-            "title_id": "2177845",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20221022/thumbnails/1_2210222017261-aslogothumbnail.png",
+            "created": 1666285747,
+            "title_id": "2177846",
             "season_number": "7",
             "tv_rating": "tv-pg-v",
-            "published": 1666484230,
+            "published": 1666484249,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "Jonas Eason",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20221022/thumbnails/2_221022201771-aslogothumbnail.png",
-            "id": "AYP2XrWkIAxeiVkFtLSW",
+            "poster": "https://media.cdn.adultswim.com/uploads/20221022/thumbnails/2_2210222017261-aslogothumbnail.png",
+            "id": "AYP2Xr163sQvipyea-we",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": 1666519140,
+            "tms_id": "EP034917240389",
+            "description": "Like Lee, Shira can only use taijutsu. Gaara recognizes Shira's taijutsu abilities and appoints him as personal taijutsu coach.",
+            "title_suggest": {
+                "input": [
+                    "As a Taijutsu User",
+                    "a Taijutsu User",
+                    "Taijutsu User",
+                    "User"
+                ]
+            },
+            "title": "As a Taijutsu User",
+            "type": "episode",
+            "expiration_date": null,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.31,
+            "episode_number": "52",
+            "original_air_date": 1657434600,
+            "auth_launch_date": 1657447200,
+            "clip_order": null,
+            "airing_id": "RADS1007062200012107",
+            "media_id": "a540df6198e6c8c4217718e17f814985223e972e",
+            "modified": 1666218932,
+            "slug": "as-a-taijutsu-user",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761725230-NarutoShippuden_400_AsATaijutsuUser.png",
+            "created": 1657116891,
+            "title_id": "2177830",
+            "season_number": "7",
+            "tv_rating": "tv-pg",
+            "published": 1666218932,
+            "tags": [],
+            "collection_title": "Naruto: Shippuden",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761725230-NarutoShippuden_400_AsATaijutsuUser.png",
+            "id": "AYHT3Rg93sQvipyea9Vj",
+            "auth": true,
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
+            "online_exclusives": false
+        }
+    ]
 }
