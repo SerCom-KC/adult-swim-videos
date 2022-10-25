@@ -149,21 +149,22 @@
         "cma_id": "2134722"
     },
     {
-        "auth_expiration_date": 1666670340,
-        "tms_id": "SH020780020000",
-        "description": "This is unedited raw footage of a bear I filmed with my cell phone.  I'm not sure what kind of bear this is.",
+        "ott_launch_date": null,
+        "auth_expiration_date": 1650945540,
+        "tms_id": "EP027786570027",
+        "description": "Docu-series profiling American ingenuity.",
         "title_suggest": {
             "input": [
-                "Unedited Footage of a Bear",
-                "Footage of a Bear",
-                "of a Bear",
-                "a Bear",
-                "Bear"
+                "Innovation Makers: The Coyote Suit",
+                "Makers: The Coyote Suit",
+                "The Coyote Suit",
+                "Coyote Suit",
+                "Suit"
             ]
         },
-        "title": "Unedited Footage of a Bear",
-        "expiration_date": 1663646340,
+        "expiration_date": 1669093140,
         "type": "episode",
+        "title": "Innovation Makers: The Coyote Suit",
         "platforms": [
             "android",
             "ios",
@@ -171,30 +172,32 @@
             "fire-tv"
         ],
         "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 628.2276,
-        "episode_number": "11",
-        "original_air_date": "1418720400",
-        "auth_launch_date": 1663646400,
+        "duration": 702.5,
+        "episode_number": "3",
+        "original_air_date": 1513069200,
+        "auth_launch_date": 1647921600,
         "clip_order": null,
-        "airing_id": "RADS1009152200028855",
-        "media_id": "9b166e79fb2a8acdd63c835ed3fed589d2201555",
-        "modified": 1663286858,
-        "slug": "unedited-footage-of-a-bear",
+        "media_id": "5b353baa4104b2f1bb3472287e4114a7ab8b721e",
+        "modified": 1666539690,
+        "airing_id": "RADS1010232200037898",
+        "slug": "innovation-makers-the-coyote-suit",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_2092150501-infomercials_cc_UneditedFootageOfABear_pt1_1.jpg",
-        "created": 1598984174,
-        "season_number": "4",
-        "title_id": "2043270",
-        "tv_rating": "tv-14-v",
-        "published": 1663286858,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15143258616671.png",
+        "created": 1513362575,
+        "season_number": "7",
+        "title_id": "2134723",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1666539690,
         "tags": [],
         "collection_title": "Infomercials",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1661227200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092150501-infomercials_cc_UneditedFootageOfABear_pt1_1.jpg",
-        "id": "AXRK4jtYSeFB2d0c38uP",
-        "auth": true
+        "launch_date": 1666670400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15143258616671.png",
+        "id": "AWBbcE9HwdpKFAKSb4fy",
+        "auth": false
     },
     {
         "auth_expiration_date": 1669093140,
@@ -332,7 +335,7 @@
         "launch_date": 1664251200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092158142-infomercials_newshits_dup-20160505.jpg",
         "id": "AXRKLVCvSeFB2d0c38uG",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1649131140,
