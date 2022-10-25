@@ -1,5 +1,60 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1451669760,
+        "auth_expiration_date": 1652759940,
+        "tms_id": "EP007542790011",
+        "rating": 6.4746284,
+        "description": "Someone has chosen Mouse to appear in a TV commercial for an all natural health tonic.  Mouse turns down the role when he learns it contains a mere 35 percent alcohol.",
+        "title_suggest": {
+            "input": [
+                "Star Wars VII",
+                "Wars VII",
+                "VII"
+            ]
+        },
+        "type": "episode",
+        "title": "Star Wars VII",
+        "expiration_date": 1669697940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 689.29,
+        "episode_number": "4",
+        "original_air_date": 1160973900,
+        "clip_order": null,
+        "auth_launch_date": 1649736000,
+        "modified": 1666379378,
+        "media_id": "39ee0755e37a00cd028be2bd49ef04315fba5fe2",
+        "airing_id": "RADS1010212200037857",
+        "id": "6qApvi4WTR-Shr69AHaUrA",
+        "slug": "star-wars-vii",
+        "views": 261090,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_2022012114-12oz_011_BIM_9381887.jpg",
+        "created": 1402945460,
+        "title_id": "651321",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1666379378,
+        "tags": [
+            "12 oz mouse episode 11 star wars vii"
+        ],
+        "rating_count": 1281,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1666670400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_2022012114-12oz_011_BIM_9381887.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1451669400,
         "auth_expiration_date": 1667275140,
@@ -271,7 +326,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451669520,
         "auth_expiration_date": 1669697940,
         "tms_id": "EP007542790006",
@@ -427,62 +482,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1664856000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_2022012080-12oz_008_BIM_9381884.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451669100,
-        "auth_expiration_date": 1666670340,
-        "tms_id": "EP007542790001",
-        "rating": 7.494763,
-        "description": "Mouse Fitzgerald has been out of work most of the month. He's late on his rent payment, and the landlord is ready to forcibly evict him. Mouse Fitzgerald takes his pool stick down to the billiards hall and stakes his last bit of money. He wins and returns just in time to pay up. Skillet remains unaware of Fitzgerald's gambling stunt, and thanks the Lord Jesus.",
-        "title_suggest": {
-            "input": [
-                "Hired"
-            ]
-        },
-        "type": "episode",
-        "title": "Hired",
-        "expiration_date": 1663646340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 689.69,
-        "episode_number": "1",
-        "original_air_date": 1119241800,
-        "clip_order": null,
-        "auth_launch_date": 1663646400,
-        "modified": 1663286852,
-        "media_id": "901bd0dbc058f43de3e2e72e92c1a9ebfac0709a",
-        "airing_id": "RADS1009152200028857",
-        "id": "qgOWAF2iTT2r1ed58w3BvA",
-        "slug": "hired",
-        "views": 453773,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201158157-12oz_001_BIM_9338491.jpg",
-        "created": 1402945460,
-        "title_id": "618427",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663286852,
-        "tags": [
-            "12 oz",
-            "mouse",
-            "episode 1",
-            "hired"
-        ],
-        "rating_count": 2674,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1660622400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201158157-12oz_001_BIM_9338491.jpg",
         "cma_id": ""
     },
     {
