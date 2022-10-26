@@ -71,61 +71,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1666756740,
-        "tms_id": "EP002070020120",
-        "rating": 8.761194,
-        "description": "Hank discovers that Connie has a talent for bluegrass music, and arranges a trip to Branson to enter her in a fiddle contest.",
-        "title_suggest": {
-            "input": [
-                "Bluegrass is Always Greener",
-                "is Always Greener",
-                "Always Greener",
-                "Greener"
-            ]
-        },
-        "type": "episode",
-        "title": "Bluegrass is Always Greener",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1469.835,
-        "episode_number": "9",
-        "original_air_date": 1233804600,
-        "clip_order": null,
-        "auth_launch_date": 1666152000,
-        "modified": 1666029372,
-        "media_id": "2ebfc224e852397c326e600ceb856ee193b706ad",
-        "airing_id": "RADS1010172200036916",
-        "id": "gjcFt7S7SjCj53zFpGbqYg",
-        "slug": "bluegrass-is-always-greener",
-        "views": 96816,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221017/thumbnails/1_221017135667-aslogothumbnail.png",
-        "created": 1402945468,
-        "title_id": "731370",
-        "season_number": "6",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1666029372,
-        "tags": [
-            "king of the hill koth episode 614 Bluegrass is Always Greener"
-        ],
-        "rating_count": 134,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "Jonas Eason",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20221017/thumbnails/2_221017135667-aslogothumbnail.png",
-        "cma_id": "1474070"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1666929540,
         "tms_id": "EP002070020121",
         "rating": 8.696246,
@@ -231,6 +176,63 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152053937375314.jpg",
         "cma_id": "1475214"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1667361540,
+        "tms_id": "EP002070020123",
+        "rating": 8.011694,
+        "description": "Hank is invited to join an exclusive all-Asian country club, but discovers he's only being courted because he's white.",
+        "title_suggest": {
+            "input": [
+                "A Man Without a Country Club",
+                "Man Without a Country Club",
+                "Without a Country Club",
+                "a Country Club",
+                "Country Club",
+                "Club"
+            ]
+        },
+        "type": "episode",
+        "title": "A Man Without a Country Club",
+        "expiration_date": 1506482999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1347.8799,
+        "episode_number": "15",
+        "original_air_date": 1233716400,
+        "clip_order": null,
+        "auth_launch_date": 1666756800,
+        "modified": 1666623721,
+        "media_id": "441ed5e3bd54350f0c00afccfc85d58a539a5b2c",
+        "airing_id": "RADS1010232200037954",
+        "id": "zrKWhQjpQz2UzTmYPGG5bA",
+        "slug": "a-man-without-a-country-club",
+        "views": 114832,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152089010949813.jpg",
+        "created": 1402945468,
+        "title_id": "731376",
+        "season_number": "6",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1666623721,
+        "tags": [
+            "king of the hill koth episode 11 season 6 man without a country club"
+        ],
+        "rating_count": 171,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1505878200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152089010949813.jpg",
+        "cma_id": "1476049"
     },
     {
         "auth": true,
