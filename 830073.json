@@ -1039,7 +1039,7 @@
         "launch_date": 1666756800,
         "poster": "https://media.cdn.adultswim.com/uploads/20211020/thumbnails/2_2110201135538-FamilyThumb.png",
         "id": "AXxhmdL24Xbjep71f6HN",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1667361540,
@@ -1083,7 +1083,7 @@
         "launch_date": 1664337600,
         "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181426283-OffTheAir_1102_Moon.png",
         "id": "AXzxSVHv4Xbjep71f6HZ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1666151940,
@@ -1174,7 +1174,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449259800,
         "auth_expiration_date": 1689130740,
         "tms_id": "EP014135410021",
@@ -1933,7 +1933,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449835200,
         "auth_expiration_date": 1666756740,
         "tms_id": "EP014135410022",
