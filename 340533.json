@@ -54,60 +54,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1447440060,
-        "auth_expiration_date": 1666756740,
-        "tms_id": "EP004625760052",
-        "rating": 8.624289,
-        "description": "Sealab is visited by a cherished old friend: Abelard the Talking Whale.  Although he can't really talk; it's more like Quinn just makes him talk with a machine.  And he's not so much an old friend; he's just some whale that happens to be dying of whale cancer.  And a quick word about whale cancer: you don't want to catch it.",
-        "title_suggest": {
-            "input": [
-                "Moby Sick",
-                "Sick"
-            ]
-        },
-        "type": "episode",
-        "title": "Moby Sick",
-        "expiration_date": 1663732740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 629.667334,
-        "episode_number": "11",
-        "original_air_date": 1113192900,
-        "clip_order": null,
-        "auth_launch_date": 1663732800,
-        "modified": 1663308169,
-        "media_id": "3756f18df5d4e457c9defd042895663447a5c1be",
-        "airing_id": "RADS1008142200021122",
-        "id": "6rF9b6MPQvqLcoGGqBZ8lQ",
-        "slug": "moby-sick",
-        "views": 188599,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/1_20416915388-sealab_050.jpg",
-        "created": 1402945476,
-        "title_id": "613478",
-        "season_number": "4",
-        "tv_rating": "tv-14-lv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663308169,
-        "tags": [
-            "sealab 2021 episode 50 moby sick"
-        ],
-        "rating_count": 527,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1660708800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_20416915388-sealab_050.jpg",
-        "cma_id": "926634"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1447440120,
         "auth_expiration_date": 1667361540,
@@ -165,6 +111,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447438260,
+        "auth_expiration_date": 1641963540,
+        "tms_id": "EP004625760009",
+        "rating": 9.098611,
+        "description": "Captain Murphy finds himself trapped under the monolithic \"Bebop Cola\" machine--for a year. During that time, he loses all of his teeth, battles an evil robot and has poignant flashbacks to his childhood as the son of a hard-drinking carny. He also becomes addicted to scorpion venom.",
+        "title_suggest": {
+            "input": [
+                "All That Jazz",
+                "That Jazz",
+                "Jazz"
+            ]
+        },
+        "type": "episode",
+        "title": "All That Jazz",
+        "expiration_date": 1669784340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
+        "duration": 660.0667334,
+        "episode_number": "9",
+        "original_air_date": 1004328900,
+        "clip_order": null,
+        "auth_launch_date": 1638939600,
+        "modified": 1666543589,
+        "airing_id": "RADS1010232200037922",
+        "media_id": "be6f0275e20d390f16a23c40e6ff432b53d0e043",
+        "id": "SE3eHoH8TAaW2uye_hRp9Q",
+        "slug": "all-that-jazz",
+        "views": 159607,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151030482-sealab_009.jpg",
+        "created": 1402945476,
+        "title_id": "345419",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1666543589,
+        "tags": [
+            "sealab 2021 all that jazz episode 9"
+        ],
+        "rating_count": 933,
+        "collection_title": "Sealab 2021",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1666756800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151030482-sealab_009.jpg",
+        "cma_id": "1468184"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447438140,
         "auth_expiration_date": 1669784340,
         "tms_id": "EP004625760001",
