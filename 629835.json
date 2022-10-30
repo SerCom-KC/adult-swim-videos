@@ -2,6 +2,57 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1667707140,
+        "tms_id": "EP002070020129",
+        "rating": 7.73284,
+        "description": "When Hank has a dream about he and Nancy grilling hamburgers in the nude, Peggy tries to figure out a way to win her husband back.",
+        "title_suggest": {
+            "input": [
+                "Sug Night",
+                "Night"
+            ]
+        },
+        "type": "episode",
+        "title": "Sug Night",
+        "expiration_date": 1506860999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1469.2344,
+        "episode_number": "19",
+        "original_air_date": 1233457200,
+        "clip_order": null,
+        "auth_launch_date": 1667102400,
+        "modified": 1666819326,
+        "media_id": "1ce87b92577965c801ad7c6d400f5d114e56e847",
+        "airing_id": "RADS1010262200039679",
+        "id": "-qyQxPanTACm92UL1K2tHw",
+        "slug": "sug-night",
+        "views": 521273,
+        "thumbnail": "",
+        "created": 1402945468,
+        "title_id": "731388",
+        "season_number": "6",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1666819326,
+        "tags": [
+            "king of the hill koth episode 605 sug night"
+        ],
+        "rating_count": 1486,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506256200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2588940631721235432.jpg",
+        "cma_id": "1479980"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1667447940,
         "tms_id": "EP002070020127",
         "rating": 8.860793,
@@ -239,60 +290,5 @@
         "launch_date": 1505878200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152089010949813.jpg",
         "cma_id": "1476049"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1667102340,
-        "tms_id": "EP002070020124",
-        "rating": 8.3613445378151,
-        "description": "Bobby and Joseph are hurt when their dads show more interest in one another's son than in their own. Dale is convinced that Joseph's real father is an alien.",
-        "title_suggest": {
-            "input": [
-                "Of Mice and Little Green Men",
-                "Mice and Little Green Men",
-                "and Little Green Men",
-                "Little Green Men",
-                "Green Men",
-                "Men"
-            ]
-        },
-        "type": "episode",
-        "title": "Of Mice and Little Green Men",
-        "expiration_date": 1506396599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1469.2344,
-        "episode_number": "14",
-        "original_air_date": 1233630000,
-        "clip_order": null,
-        "auth_launch_date": 1666497600,
-        "modified": 1666216540,
-        "media_id": "7be242ff5e123d1144f84cb8df41e11250b32a6e",
-        "airing_id": "RADS1010192200037482",
-        "id": "zspZohFYR_S_3mylncYujg",
-        "slug": "of-mice-and-little-green-men",
-        "views": 89582,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15205394245998.jpg",
-        "created": 1402945468,
-        "title_id": "731375",
-        "season_number": "6",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1666216540,
-        "tags": [],
-        "rating_count": 119,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1505791800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394245998.jpg",
-        "cma_id": "1475612"
     }
 ]
