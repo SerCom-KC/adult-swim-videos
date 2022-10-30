@@ -2,393 +2,330 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 29, 2022 at 00:30:29 EDT_
+_Last Update: October 30, 2022 at 00:30:23 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2143080 Black Clover: 1  
+859366 Black Dynamite: 10  
 2003422 Bob's Burgers: 2  
+798427 Check It Out! with Dr. Steve Brule: 6  
 437532 Futurama: 1  
 629835 King of the Hill: 1  
-608360 Robot Chicken: 1  
-343621 Samurai Jack: 13  
-581268 Squidbillies: 3  
-661208 Tim and Eric Awesome Show Great Job!: 10  
-### 2041488
-**American Dad S11E15 - Daesong Heavy Industries**  
-TV-14-DLV 🔒 21:14  
-⌛ November 4, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/daesong-heavy-industries  
-seriesid=`581006` titleid=`2041488` id=`8D7FQHc-RLisjOMQHSpvSQ` mediaid=`92e9c92d996568cee9b7056a3008dd9d08051794`  
-_Stan loses his faith in religion after Steve questions everything in the Bible. He takes the family to Korea to investigate the rumors of a reinvented "Noah's Ark."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200190482404.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200190482404.jpg" height="144px" /></a>
-### 2046300
-**American Dad S11E16 - Daesong Heavy Industries II: Return to Innocence**  
-TV-14-DLSV 🔒 21:14  
-⌛ November 4, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/daesong-heavy-industries-ii-return-to-innocence  
-seriesid=`581006` titleid=`2046300` id=`IsWR_wnmSM-E7KEkZ7ggWw` mediaid=`19a48d743812fd75ac575ae53eba3200ea224ab7`  
-_Stan and Francine lose their memories and resort to primitive living on an island, Hayley and Jeff are rescued by the Navy and Jeff decides to enlist, and Roger and Steve try to survive on a lifeboat in the middle of the ocean._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001910118711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001910118711.jpg" height="144px" /></a>
-### 2205119
-**Black Clover S02E42 - Julius Novachrono**  
-TV-14 🔒 21:08  
-⌛ February 25, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/julius-novachrono  
-seriesid=`2143080` titleid=`2205119` id=`AW4S8D081YiBSfg0KYDu` mediaid=`ea5cae7f99e0cde417f52ec88216d4721cda6e31`  
-_The battle rages on between the Wizard King and Licht, who holds a kingdom's worth of innocent people hostage. Julius recalls his greatest motivation._  
-<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281115557-BlackClover_093.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281115557-BlackClover_093.jpg" height="144px" /></a>
-### 2132979
-**Bob's Burgers S07E10 - Aquaticism**  
-TV-PG-L 🔒 21:43  
-⌛ November 4, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/aquaticism  
-seriesid=`2003422` titleid=`2132979` id=`AWATwpnwZ-onAnjDLtUU` mediaid=`33623b218d1d94f92c3923ba791e665628d3526b`  
-_When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg" height="144px" /></a>
-### 2132977
-**Bob's Burgers S07E09 - The Grand Mama-Pest Hotel**  
-TV-PG-L 🔒 21:46  
-⌛ November 4, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-grand-mama-pest-hotel  
-seriesid=`2003422` titleid=`2132977` id=`AWAJmC0kwdpKFAKSbnfG` mediaid=`ead9e6aa8afe4c1b9b2fbfdfb8ef6547b3f0be53`  
-_Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg" height="144px" /></a>
-### 437542
-**Futurama S02E01 - A Flight to Remember**  
-TV-PG 🔒 23:21  
-⌛ November 4, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/a-flight-to-remember  
-seriesid=`437532` titleid=`437542` id=`AX4coIfJdpBG7hfWGhgU` mediaid=`61cd4757c75b21474f3e83f39547e80c5c0b4565`  
-_Romance and danger follow Bender and Fry on the space cruise ship, Titanic._  
-<a href="https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171650450-Futurama_010_AFlightToRemember.png"><img src="https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171650450-Futurama_010_AFlightToRemember.png" height="144px" /></a>
-### 731385
-**King of the Hill S06E18 - My Own Private Rodeo**  
+661208 Tim and Eric Awesome Show Great Job!: 11  
+### 2046301
+**American Dad S11E17 - Criss-Cross Applesauce: The Ballad of Billy Jesusworth**  
+TV-14-DLV 🔒 21:13  
+⌛ November 5, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/criss-cross-applesauce-the-ballad-of-billy-jesusworth  
+seriesid=`581006` titleid=`2046301` id=`W3K_g_63TnWUsXFUZ6YMbA` mediaid=`7ca3f7b503b9411dfa2ef8f13687dfba332ec197`  
+_When Roger breaks his ankle, Francine convinces Stan to let him play in his basketball league. Meanwhile, Steve sings a song that parodies R. Kelley's "Trapped in the Closet."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001919490614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001919490614.jpg" height="144px" /></a>
+### 2046302
+**American Dad S11E18 - Mine Struggle**  
+TV-14-DL 🔒 21:13  
+⌛ November 5, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/mine-struggle  
+seriesid=`581006` titleid=`2046302` id=`rgVIN2_yS7KtzI9iO0-BHQ` mediaid=`405e54b821301a3461a2f7d6b155141fcb7adeaa`  
+_When Stan discovers a salt mine in the backyard, the Morton Salt Company wants to buy it. It turns out Steve is the rightful owner of the land and he faces pressure from the family to sell._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002060033816.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002060033816.jpg" height="144px" /></a>
+### 2034533
+**Black Dynamite S02E07 - 'American Band Standoff' or 'The Godfather of Soooul Train' or 'Get On Your Goodfellas'**  
+TV-MA 🔒 22:28  
+⌛ April 5, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-dynamite/american-band-standoff-or-the-godfather-of-soooul-train-or-get-on-your-goodfellas  
+seriesid=`859366` titleid=`2034533` id=`7h6lj-LXRV65mXpk-0u7zg` mediaid=`253cdeb1227dd520a0afbddca6ebacc90c4e6536`  
+_Cream Corn is excited as hell at getting a chance to dance on Soooooooul Train, the hippest trip in America, but BD knows the truth the music game is a vicious, to-the-death battle between the Godfather Don Cornelius and murderous Dick Clark of American Bandstand. Cream Corn becomes a Soul Train dancer, and Don's old muscle Black Dynamite sees that just when he thought he was out… they pull him back in._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171582-blackdynamite_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171582-blackdynamite_017.jpg" height="144px" /></a>
+### 2034528
+**Black Dynamite S02E02 - 'Black Jaws!' or 'Finger Lickin' Chicken of the Sea'**  
+TV-MA-L 🔒 22:33  
+⌛ March 1, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-dynamite/black-jaws-or-finger-lickin-chicken-of-the-sea  
+seriesid=`859366` titleid=`2034528` id=`0VHom70OR4eqF-Qv2SvtRw` mediaid=`cbc5870af0432405c656553505e5c9c16a091111`  
+_A soul-food-eating contest gets everyone in the Black Community down to the summer's biggest beach party. But the party's already jumped the shark when a giant shark jumps out and starts eating people! Captain Quinton, the local old, eyepatched, shark-hunting mysterious mother#*?@#$% tells Black Dynamite this isn't just Jaws, it's Black Jaws. All BD has to do is swim out there and kill that shark, but wait, what? Black Dynamite can't swim? Oh, crap, this might be a real problem!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261659135-blackdynamite_012_202.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261659135-blackdynamite_012_202.jpg" height="144px" /></a>
+### 2034534
+**Black Dynamite S02E08 - 'Diff'rent Folks, Same Strokes' or 'The Hunger Pain Games'**  
+TV-MA 🔒 22:16  
+⌛ April 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-dynamite/diffrent-folks-same-strokes-or-the-hunger-pain-games  
+seriesid=`859366` titleid=`2034534` id=`SzoxXJc5SkSbPAnQwduOsg` mediaid=`2b0a8f9e8709066c4a3bca7fae48769e1d972ab7`  
+_Child Services is finally on to the Whorephanage and slaps them with a shutdown notice! But it's okay, because rich white Mr. Phil Drummond and his rich white friends adopt all the orphans at once and whisk them off to a luxury high-rise in the sky. Just as BD comes to terms with no longer having the Orphans around, he learns that luxury skyscraper is actually a deathmatch arena where the Orphans fight each other to the death for food! He's got to put an end to these Hunger Pang Games, no matter how popular they are!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226172329-blackdynamite_018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226172329-blackdynamite_018.jpg" height="144px" /></a>
+### 2034531
+**Black Dynamite S02E04 - 'How Honeybee Got Her Groove Back' or 'Sexodus' or 'Night of the Living Dickheads'**  
+TV-MA 🔒 22:25  
+⌛ March 15, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-dynamite/how-honeybee-got-her-groove-back-or-sexodus-or-night-of-the-living-dickheads  
+seriesid=`859366` titleid=`2034531` id=`V6k0oj5USnOjjicGf0HvOw` mediaid=`7dd7643fa236a6049c4cbb4a9f2d8ad05425c7ef`  
+_A busted-up Whorephanage needs repairs and busted-up whores need a vacation, so Honey Bee takes the harem to Jamaica for R&R. The hoes party to their heart's content, and a disinterested Honey Bee gets her groove back when she meets the one and only Bob Marley! Back at the Whorephanage, all the sex-starved johns turn into horny zombies trying to hump their way into the building, but Honey Bee couldn't care less, she's not coming home! Bob Marley could be her happily ever after if not for all these assassins with machine guns constantly trying to kill them!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226170178-blackdynamite_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226170178-blackdynamite_014.jpg" height="144px" /></a>
+### 2034532
+**Black Dynamite S02E06 - 'Mister Rogers' Revenge' or 'Please Don't You Be His Neighbor'**  
+TV-14-DLSV 🔒 22:23  
+⌛ March 29, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-dynamite/mister-rogers-revenge-or-please-dont-you-be-his-neighbor  
+seriesid=`859366` titleid=`2034532` id=`8neX7spxSd-eGSbbvmuY5Q` mediaid=`15d12a6efac0095c518c7f19495de04a601a55f8`  
+_On the Orphans' collective birthday, Black Dynamite brings them all to a show taping with their favorite TV white man, Mister Rogers. Now, you'd think that Fred Rogers was never a trained Special Forces killer and that he would definitely not kidnap all the Orphans in a deranged attempt to protect them from evil TV executives and that's exactly what doesn't not happen! With the cops outgunned and the Orphans behind guerrilla defenses, it's up to Black Dynamite to invade that neighborhood and face off with Mister Rogers himself._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171229-blackdynamite_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226171229-blackdynamite_016.jpg" height="144px" /></a>
+### 859367
+**Black Dynamite S01E?? - 'Pilot' or 'Trouble on Puppet Street'**  
+TV-MA-S 🔒 11:20  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-dynamite/pilot-or-trouble-on-puppet-street  
+seriesid=`859366` titleid=`859367` id=`Sqv5uBUSSvyd7daJVSQOsA` mediaid=`a7278ae23bfd54ee294113acfc54f98ec3ae842d`  
+_Our ass-kickin-friend-of-the-community Black Dynamite takes on his childhood mentor and surrogate father: That Frog Kurtis, a Puppet TV educator turned super villain!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261651146-blackdynamite_000.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261651146-blackdynamite_000.jpg" height="144px" /></a>
+### 2034527
+**Black Dynamite S02E01 - 'Roots: The White Album' or 'The Blacker the Community the Deeper the Roots!'**  
+TV-14-DLSV 🔒 22:25  
+⌛ February 22, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-dynamite/roots-the-white-album-or-the-blacker-the-community-the-deeper-the-roots  
+seriesid=`859366` titleid=`2034527` id=`41NgvTtcScC0USe0JbkuPQ` mediaid=`caf5399d29e80de38c281e062011ea8691bb4982`  
+_When ROOTS hits the air and the Community finally sees just how bad slavery was, Al Sharpton whips everyone into a reparation frenzy and they storm Beverly Hills, enslaving every white honky cracker they can find! But BD sees that since you can't even keep white slaves alive without caviar and arugula, being slave masters is actually bringing the Community down. Is Black Dynamite actually going to fight for the White Man's freedom?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261658336-blackdynamite_011_201.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261658336-blackdynamite_011_201.jpg" height="144px" /></a>
+### 2034530
+**Black Dynamite S02E05 - 'Sweet Bill's Badass Singalong Song' or 'Bill Cosby Ain't Himself'**  
+TV-MA 🔒 22:25  
+⌛ March 22, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-dynamite/sweet-bills-badass-singalong-song-or-bill-cosby-aint-himself  
+seriesid=`859366` titleid=`2034530` id=`AdX3R7G7QjacHtCrIZv7Lg` mediaid=`ced6286332038fd2dd7d4a92089796c86a714500`  
+_When BD's old buddy, maverick "Sweet Sweetback" filmmaker Melvin Van Peebles, gears up to shoot his next blaxploitation movie in the Community, everyone's excited to help out except Bill Cosby! Desperate for positive black images, Cos kidnaps the entire all-star cast and tries to brainwash them into besweatered, upstanding representatives of the black race! While Bullhorn, Cream Corn and Honey Bee fill-in for the talent and try to keep the film afloat, BD must track down the pudding-pop-pusher himself and save all of black film history!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226170495-blackdynamite_015.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226170495-blackdynamite_015.jpg" height="144px" /></a>
+### 2034535
+**Black Dynamite S02E09 - 'The Wizard of Watts' or 'Oz Ain't Got S&@# On The Wiz'**  
+TV-MA 🔒 44:10  
+⌛ April 19, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-dynamite/the-wizard-of-watts-or-oz-aint-got-s-on-the-wiz  
+seriesid=`859366` titleid=`2034535` id=`ucTMXF8_S1eLR_iEiflvqQ` mediaid=`95a646206e3fbe47e39e7cf26ffbf0b212d01ce4`  
+_Black Dynamite's one day off couldn't be more work: everyone needs his help AND a riot blows up. A brick to the head sends BD hallucinating into the Magical Land of Oz-Watts, a trippy technicolor world where… everyone needs his help! Between getting Scarecorn some game, Lionhorn a muzzle and the Tin Bee a set of balls, BD has to fight off the Wicked Bitch of the West Side and reach the Great and Powerful Mother#*?@#$%'s palace, or he'll never get home._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226172544-blackdynamite_019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226172544-blackdynamite_019.jpg" height="144px" /></a>
+### 2034529
+**Black Dynamite S02E03 - 'Warriors Come Out' or 'Mean Queens of Halloween'**  
+TV-MA-L 🔒 22:22  
+⌛ March 8, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-dynamite/warriors-come-out-or-mean-queens-of-halloween  
+seriesid=`859366` titleid=`2034529` id=`ipFhoLLTQmGWwW4tUOV5gg` mediaid=`b1b231f0058386f951911672265b0486c0d3436c`  
+_It's Halloween in LA and Cream Corn convinces BD and the Crew to go to a street party where, let's just say, ain't nobody in the closet. Everything's gay (as in happy) and gay (as in gay) until the Emcee is assassinated in front of everyone! The unseen shooter frames BD and the Crew, and now they're on a run for their lives, trying to clear their name, pursued by every gay gang south of West Hollywood!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261659543-blackdynamite_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261659543-blackdynamite_013.jpg" height="144px" /></a>
+### 2132981
+**Bob's Burgers S07E11 - Ain't Miss Debatin'**  
+TV-PG-L 🔒 21:48  
+⌛ November 5, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/aint-miss-debatin  
+seriesid=`2003422` titleid=`2132981` id=`AWBH4xX5wdpKFAKSb0gB` mediaid=`addc7a3f7ecb55fbd678f59b6ecc026e948e608a`  
+_When Tina is recruited by the debate team, she finds unexpected success and an even more unexpected relationship. Meanwhile, Louise and Gene convince their parents to help fund a stop-motion movie focusing on a surprising subject matter._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579446187113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579446187113.jpg" height="144px" /></a>
+### 2132982
+**Bob's Burgers S07E12 - Eggs for Days**  
+TV-PG-L 🔒 21:44  
+⌛ November 5, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/eggs-for-days  
+seriesid=`2003422` titleid=`2132982` id=`AWBqq2EcZ-onAnjDLtoe` mediaid=`5a6a1a7e00cee7c224f8db6ae81c81e81a068ebc`  
+_The annual Easter egg hunt always brings out the competitive sides of Bob and Linda, but this time, the game goes awry._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15157946136365.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15157946136365.jpg" height="144px" /></a>
+### 2116733
+**Check It Out! with Dr. Steve Brule S05E01 - Check It Out! with Scott Clam**  
+TV-G 🔒 11:26  
+⌛ December 15, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/check-it-out-with-scott-clam  
+seriesid=`798427` titleid=`2116733` id=`AXR5STu7LyLQBOXK_PNg` mediaid=`7f08e09ac40a1b08c97d4652eacf337d7e6e359a`  
+_Scott and David discuss trains._  
+<a href="https://media.cdn.adultswim.com/uploads/20200910/thumbnails/2_209101430318-thumb-2_image-151268077677916.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200910/thumbnails/2_209101430318-thumb-2_image-151268077677916.jpg" height="144px" /></a>
+### 2087968
+**Check It Out! with Dr. Steve Brule S04E06 - Crime**  
+TV-14-L 🔒 11:17  
+⌛ December 8, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/crime  
+seriesid=`798427` titleid=`2087968` id=`kipGdHuuSA6BqSBtCY08Ng` mediaid=`3284c0cb8b4e2a3b5f2f67d47faabe88d82f6402`  
+_Dr. Steven Brule investigates what crime is also if crime pays?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321621344-checkitout_406_dup-20160321.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321621344-checkitout_406_dup-20160321.jpg" height="144px" /></a>
+### 2087964
+**Check It Out! with Dr. Steve Brule S04E02 - Eggs**  
+TV-14-DL 🔒 11:18  
+⌛ November 10, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/eggs  
+seriesid=`798427` titleid=`2087964` id=`7y-uUD7nTmqj9qQdRElk8A` mediaid=`847f80ae7f8078a1bca954f28dbaa78e2c499e90`  
+_Dr. Steven Brule teaches you everything about eggs._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321614110-checkitout_402_dup-20160323.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321614110-checkitout_402_dup-20160323.jpg" height="144px" /></a>
+### 2087966
+**Check It Out! with Dr. Steve Brule S04E04 - Music**  
+TV-MA-L 🔒 11:17  
+⌛ November 24, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/music  
+seriesid=`798427` titleid=`2087966` id=`U8d7qegFRNCSeECG1F6hEA` mediaid=`83728b36bd0ae3e0ebff1dfe6b8114fa915962c1`  
+_Dr. Steven Brule explores the world of music and world of songs._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321620213-checkitout_404_dup-20160316.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321620213-checkitout_404_dup-20160316.jpg" height="144px" /></a>
+### 2087967
+**Check It Out! with Dr. Steve Brule S04E05 - Stevie!**  
+TV-MA-L 🔒 11:18  
+⌛ December 1, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/stevie  
+seriesid=`798427` titleid=`2087967` id=`tUEQmakmShuoe5bTmzwBMQ` mediaid=`281baed477ca7d7c4b9100c91977531004062cfd`  
+_A new live morning talk show from Dr. Steven Brule and Carol Krabit._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032162143-checkitout_405_dup-20160322.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032162143-checkitout_405_dup-20160322.jpg" height="144px" /></a>
+### 2087965
+**Check It Out! with Dr. Steve Brule S04E03 - Words**  
+TV-14-L 🔒 11:17  
+⌛ November 17, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/words  
+seriesid=`798427` titleid=`2087965` id=`0tzMb1owQlmGxw9kFhvHrw` mediaid=`2fc2589820efd915e00543bd7fa37decb6259028`  
+_Dr. Steven Brule learns what words are and learns his favorite words._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321620480-checkitout_403_dup-20160315.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321620480-checkitout_403_dup-20160315.jpg" height="144px" /></a>
+### 437543
+**Futurama S02E02 - Mars University**  
+TV-PG 🔒 23:22  
+⌛ November 5, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/mars-university  
+seriesid=`437532` titleid=`437543` id=`AX4cotUOdpBG7hfWGhgV` mediaid=`2c1be0428d8023ced6653d8c98e4bc9f44be6a43`  
+_Fry goes to college to prove the adage: Once a dropout; always a dropout._  
+<a href="https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171651521-Futurama_011_MarsUniversity.png"><img src="https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171651521-Futurama_011_MarsUniversity.png" height="144px" /></a>
+### 731388
+**King of the Hill S06E19 - Sug Night**  
 TV-PG-DL 🔒 24:29  
-⌛ November 4, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/my-own-private-rodeo  
-seriesid=`629835` titleid=`731385` id=`ck0hYvvaRpa08B0uOtPuYg` mediaid=`c01839ff44f3e161498528f8cb8015e6832b6f54`  
-_When Nancy asks Hank to invite Dale's estranged father, Bug, to their second wedding, Hank discovers that, unbeknownst to his family, Bug is gay._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152089023988917.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152089023988917.jpg" height="144px" /></a>
-### 826694
-**Robot Chicken S05E?? - Robot Chicken: Star Wars Episode III**  
-TV-14-DLSV 🔒 45:03  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/robot-chicken-star-wars-episode-iii  
-seriesid=`608360` titleid=`826694` id=`X60fi-2UTSqGDwiHxMK4Bw` mediaid=`61a62b38e87d00d6eabe16af43d9de8326f391ff`  
-_The Emmy Award-winning Robot Chicken returns with its third send-up of the Star Wars universe!  In this all-new hour-long special, four very different characters -- Emperor Palpatine, Darth Vader, Boba Fett and Gary the Stormtrooper -- reveal untold stories that weave and interconnect throughout all six Star Wars films!  Set phasers to "fun"!  Oh wait, that's the wrong franchise._  
-<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421737553-robotchicken_RCSW3_dst_cid-XMTQ.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421737553-robotchicken_RCSW3_dst_cid-XMTQ.jpg" height="144px" /></a>
-### 444724
-**Samurai Jack S04E10 - L**  
-TV-Y7-FV 🔒 21:36  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/l  
-seriesid=`343621` titleid=`444724` id=`e-pP4qdATra5OAX1aIFlpA` mediaid=`c4fb502c14acb5ef05e026c8c7a56c8f9932b22b`  
-_Aku forces an old, ace robot assassin out of retirement to eliminate the ultimate mark - Jack._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471427215-samjack_050.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471427215-samjack_050.jpg" height="144px" /></a>
-### 444725
-**Samurai Jack S04E11 - LI**  
-TV-Y7-FV 🔒 22:37  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/li  
-seriesid=`343621` titleid=`444725` id=`FhS1Dt9RQi2NC48lNxkGvg` mediaid=`3e17815607149e0e310833ecb391df14328678a1`  
-_Young Jack is brought to Africa for part of his training, but when his tribe is abducted, he must learn how to use their unique sword-like weapon – and fast!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471427464-samjack_051.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471427464-samjack_051.jpg" height="144px" /></a>
-### 444726
-**Samurai Jack S04E12 - LII**  
-TV-Y7-FV 🔒 22:38  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/lii  
-seriesid=`343621` titleid=`444726` id=`GdXwayXmRgmOhcX9nmtrSQ` mediaid=`23ab453c402171d5d7fbcad1df9791fb6d2ea097`  
-_Jack finds a baby and the two travel together as Jack tries to return the boy to his mother._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471428152-samjack_052.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471428152-samjack_052.jpg" height="144px" /></a>
-### 444530
-**Samurai Jack S03E14 - XL**  
-TV-Y7-FV 🔒 22:27  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xl  
-seriesid=`343621` titleid=`444530` id=`QfG0Oum9SUuSDWGDsCCw4g` mediaid=`c23119fc67acae74a4f07761a83b2c43fb3fee56`  
-_Aku sends a Ninja to destroy Jack who is busily helping a port town in distress._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471419123-samjack_040.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471419123-samjack_040.jpg" height="144px" /></a>
-### 444715
-**Samurai Jack S04E01 - XLI**  
-TV-Y7-FV 🔒 22:37  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xli  
-seriesid=`343621` titleid=`444715` id=`Sq-5gD7YSXKy6vqhgz1RHQ` mediaid=`7de5b6a3211a9bf9d147908a5307e54b105c38b1`  
-_Jack enters a village to discover that he is their Chosen One meant to embody the Robo-Samurai and destroy the Mondo-bot that has come to destroy them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471419425-samjack_041.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471419425-samjack_041.jpg" height="144px" /></a>
-### 444716
-**Samurai Jack S04E02 - XLII**  
-TV-Y7-FV 🔒 22:09  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xlii  
-seriesid=`343621` titleid=`444716` id=`kxurPX-kQnKz4v_4Tijj7w` mediaid=`45aac9db143f155a61deaee0137bbfdafff0d40e`  
-_Jack is approached by a cool Samurai-punk who wants to battle with Jack in order to prove that he is the best._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_2047142061-samjack_042.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_2047142061-samjack_042.jpg" height="144px" /></a>
-### 444717
-**Samurai Jack S04E03 - XLIII**  
-TV-Y7-FV 🔒 22:34  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xliii  
-seriesid=`343621` titleid=`444717` id=`GHUvZqMST66dwRtS11Gm6A` mediaid=`795da5b1291bc3cb400dff238474be295d4a3427`  
-_When Aku catches a cold and sneezes on Jack, Jack becomes infected with Aku’s badness which begins to take over his entire body._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471420288-samjack_043.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471420288-samjack_043.jpg" height="144px" /></a>
-### 444718
-**Samurai Jack S04E04 - XLIV**  
-TV-Y7-FV 🔒 22:24  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xliv  
-seriesid=`343621` titleid=`444718` id=`AOIOwlvySca-HK0tP5EQOQ` mediaid=`07de311598ed444e2340b081932a77d581e4a83d`  
-_When Aku raises the bounty on Jack, the best bounty hunters in the world gather to capture him._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_2047142127-samjack_044.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_2047142127-samjack_044.jpg" height="144px" /></a>
-### 444723
-**Samurai Jack S04E09 - XLIX**  
-TV-Y7-FV 🔒 22:47  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xlix  
-seriesid=`343621` titleid=`444723` id=`WrNsxK4-RnSVMBFfChZ5Jw` mediaid=`3b5c65ecabd053c41d4d21e2d40baaaafc1d811c`  
-_As Jack goes through fall, winter, spring and summer, he must battle the perils that each season brings._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471426591-samjack_049.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471426591-samjack_049.jpg" height="144px" /></a>
-### 444719
-**Samurai Jack S04E05 - XLV**  
-TV-Y7-FV 🔒 22:31  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xlv  
-seriesid=`343621` titleid=`444719` id=`H1R4mTd2TYOOVwE60o14QA` mediaid=`b480fdea521510f23e83973854fa110cd4446b8b`  
-_Jack has lost all memory of who he is and it's up to the Scotsman to put the pieces of the puzzle together to save the samurai._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471421333-samjack_045.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471421333-samjack_045.jpg" height="144px" /></a>
-### 444720
-**Samurai Jack S04E06 - XLVI**  
-TV-Y7-FV 🔒 21:46  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xlvi  
-seriesid=`343621` titleid=`444720` id=`c2IBeAusTEGM4ozLyCU76g` mediaid=`8b2234732af9c4d254813a778d2a6b91be25d954`  
-_Jack has lost all memory of who he is and it's up to the Scotsman to put the pieces of the puzzle together to save the samurai._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471425355-samjack_046.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471425355-samjack_046.jpg" height="144px" /></a>
-### 444721
-**Samurai Jack S04E07 - XLVII**  
-TV-Y7-FV 🔒 22:34  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xlvii  
-seriesid=`343621` titleid=`444721` id=`wlkKPTK_TQyj9GXDk1ZblA` mediaid=`39b5ad0b76453693cb53a724623955aca26dfa91`  
-_Jack helps save a Prince and Princess whose ship has been shot down to Earth by Aku._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152891714126213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152891714126213.jpg" height="144px" /></a>
-### 444722
-**Samurai Jack S04E08 - XLVIII**  
-TV-Y7-FV 🔒 22:42  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xlviii  
-seriesid=`343621` titleid=`444722` id=`tvtpEIOBRLyFWC8V4esrSA` mediaid=`e441c283f319e523479a3f8074e34075aa550ac4`  
-_Tired of all the bounty hunters and robots failing, Aku fights Jack, mano y mano._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471426309-samjack_048.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471426309-samjack_048.jpg" height="144px" /></a>
-### 2199303
-**Squidbillies S12E03 - Muscadine Wine**  
-TV-14-DLV 🔒 22:29  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/muscadine-wine  
-seriesid=`581268` titleid=`2199303` id=`AWyVpoYhCorLtcgfltq_` mediaid=`3d3a95635008c960268f0a1c8a6a422fb3e3ef36`  
-_Early and Tammi start a band in a star-studded episode that got us a free cruise._  
-<a href="https://media.cdn.adultswim.com/uploads/20190815/thumbnails/2_198151032483-squidbillies_1002_dup-20190809.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190815/thumbnails/2_198151032483-squidbillies_1002_dup-20190809.jpg" height="144px" /></a>
-### 2199305
-**Squidbillies S12E04 - The Reenactment of the Repulsion of the Siege of Cuyler Mountain**  
-TV-14-DLSV 🔒 11:19  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-reenactment-of-the-repulsion-of-the-siege-of-cuyler-mountain  
-seriesid=`581268` titleid=`2199305` id=`AWy6cAeUCorLtcgflt2e` mediaid=`a4f39fcd0f87f7b94b875f8093c6a2fe547ebfcc`  
-_Early finds a priceless civil war relic and sells it for the right price._  
-<a href="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_198221346131-squidbillies_1004_dup-20190819.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_198221346131-squidbillies_1004_dup-20190819.jpg" height="144px" /></a>
-### 2199310
-**Squidbillies S12E08 - There's Sucker Porn Every Minute**  
-TV-MA-S 🔒 11:17  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/theres-sucker-porn-every-minute  
-seriesid=`581268` titleid=`2199310` id=`AW0nGO_iCorLtcgfluVv` mediaid=`8edc70d6b4c5caa818e7098afb936eb7b59423a8`  
-_Early lets his beak flag fly._  
-<a href="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg" height="144px" /></a>
-### 751392
-**Tim and Eric Awesome Show Great Job! S04E03 - Balls**  
-TV-MA 🔒 11:34  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/balls  
-seriesid=`661208` titleid=`751392` id=`3sQtpcTmTaSR9lQR5JU0IQ` mediaid=`80aaf39e3e0a7522e25deb0aa6cc38eca37fa95a`  
-_When Eric's 3-T Scroat starts acting up, Tim is forced to investigate. Whoopsie Daisy!
-(Frank Stallone)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652590-timanderic_403.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652590-timanderic_403.jpg" height="144px" /></a>
-### 751409
-**Tim and Eric Awesome Show Great Job! S04E07 - Brothers Cinco**  
-TV-MA 🔒 11:37  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/brothers-cinco  
-seriesid=`661208` titleid=`751409` id=`WU0X7E8BQKK3065K0kIwAA` mediaid=`851c33a8e6a21559990dc62801471715fea8d0a2`  
-_Mark and Terry Cinco unveil their latest product at Cinco-con, while rumors swirl surrounding the suspicious death of Terry's Wife. 
-(Tom Leykis, Bob Odenkirk)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651369-timanderic_407.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651369-timanderic_407.jpg" height="144px" /></a>
-### 751410
-**Tim and Eric Awesome Show Great Job! S04E08 - Hair**  
-TV-14 🔒 11:38  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/hair  
-seriesid=`661208` titleid=`751410` id=`8xxGPaR5ToiqW3Ac5qvYeA` mediaid=`2920bfe452bcbb1f079a6e4832e9a25c2fbc284c`  
-_Tim finally graduates from barber school and celebrates over an Italian supper with friends. J.J. Pepper releases his latest music video. 
-(Will Forte, Josh Groban, Larry Miller, Bob Odenkirk, Scott Thompson, David Wain)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651177-timanderic_408.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651177-timanderic_408.jpg" height="144px" /></a>
-### 751390
-**Tim and Eric Awesome Show Great Job! S04E01 - Origins**  
-TV-14 🔒 11:21  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/origins  
-seriesid=`661208` titleid=`751390` id=`YPOzTYGeRDaX7xAn9o59Iw` mediaid=`115b4e5365104afebc8f7bff2cee48a5bfc18f86`  
-_Eric's chance encounter with Q gives birth to timanderic.com. Dr. Steve Brule reads Jan's emotions. A Job interview without a beard? Think again, pal.
-(John C Reilly, Bob Odenkirk)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161645143-timanderic_401.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161645143-timanderic_401.jpg" height="144px" /></a>
-### 751412
-**Tim and Eric Awesome Show Great Job! S04E10 - Presidents**  
-TV-14-L 🔒 11:37  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/presidents  
-seriesid=`661208` titleid=`751412` id=`f62AloY2T5G4XKKqIDi_LQ` mediaid=`945e0a0d21b2bf7134f1d2d3f23de2e298bea420`  
-_Michael Ian Black hosts another crazy edition of Focus on Comedy. Dr. Steve Brule teaches children the anatomy of the human body.
-(Michael Ian Black, John C Reilly)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161650357-timanderic_410.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161650357-timanderic_410.jpg" height="144px" /></a>
-### 751408
-**Tim and Eric Awesome Show Great Job! S04E06 - Road Trip**  
-TV-14-DS 🔒 11:23  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/road-trip  
-seriesid=`661208` titleid=`751408` id=`5Tqkjy2-T9KeBLmYVf9brw` mediaid=`242b96814b65868b07ec14c6563c83a4754dd23a`  
-_Tim and Eric embark on a road trip. James Quall goes Back to Squall. 
-(Jonah Hill, John C Reilly, Peter Stormare)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651581-timanderic_406.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161651581-timanderic_406.jpg" height="144px" /></a>
-### 751391
-**Tim and Eric Awesome Show Great Job! S04E02 - Snow**  
-TV-MA 🔒 11:31  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/snow  
-seriesid=`661208` titleid=`751391` id=`PrKwyBPWR128n0MWXlp8JA` mediaid=`1c063cbc224571e2694e24916da1d58ba9b28839`  
-_When a blizzard snows in Tim and Eric, they reminisce over hot chocolate and urine with David Liebe Hart and Richard Dunn. They quickly realize the only way to cure the blues is a man party. Brought to you by Napples and D-Pants. 
-(Zach Galifianakis, Alan Thicke)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161653176-timanderic_402.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161653176-timanderic_402.jpg" height="144px" /></a>
-### 751411
-**Tim and Eric Awesome Show Great Job! S04E09 - Tennis**  
-TV-14-D 🔒 11:14  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/tennis  
-seriesid=`661208` titleid=`751411` id=`Pc1be-aJQX2WqoM4jCBykQ` mediaid=`94eec97a03decc95f8cbcab5996ca9f6520669f4`  
-_Tim and Eric engage in a high stakes game of tennis, while Richard Dunn presides. Meanwhile, Glen Tennis sits down with Grum to discuss the release of their latest film. 
-(Fred Armisen, AD Miles, Bob Odenkirk)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161650582-timanderic_409.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161650582-timanderic_409.jpg" height="144px" /></a>
-### 751394
-**Tim and Eric Awesome Show Great Job! S04E05 - Tommy**  
-TV-MA 🔒 11:16  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/tommy  
-seriesid=`661208` titleid=`751394` id=`Gy8rFCuKRtiHRESEz7Sw9w` mediaid=`52e9515e5babd11e1ebbb506c89d37d38c9a025f`  
-_The network forces Tim and Eric to hire The Room director Tommy Wiseau to direct a sketch. Coincidentally, two businessmen/friends look for a bite to eat in Denver.
-(Tommy Wiseau, Fred Willard)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652217-timanderic_405.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652217-timanderic_405.jpg" height="144px" /></a>
-### 751393
-**Tim and Eric Awesome Show Great Job! S04E04 - Universe**  
+⌛ November 5, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/sug-night  
+seriesid=`629835` titleid=`731388` id=`-qyQxPanTACm92UL1K2tHw` mediaid=`1ce87b92577965c801ad7c6d400f5d114e56e847`  
+_When Hank has a dream about he and Nancy grilling hamburgers in the nude, Peggy tries to figure out a way to win her husband back._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2588940631721235432.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2588940631721235432.jpg" height="144px" /></a>
+### 787517
+**Tim and Eric Awesome Show Great Job! S05E04 - Choices**  
+TV-MA 🔒 11:21  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/choices  
+seriesid=`661208` titleid=`787517` id=`iJlA25VnQx-cXPs4e5wFMQ` mediaid=`10fe10ec22dad54a480ee8dcf1f6337b5c5d0c1e`  
+_Tim writes a tell-all expose about his comedy partner Eric. H'AMB saves a life. A couple Hollywood vets get All Dolled Up. (Guest starring: Karen Black, John C Reilly, William Sanderson)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161649122-timanderic_504.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161649122-timanderic_504.jpg" height="144px" /></a>
+### 787514
+**Tim and Eric Awesome Show Great Job! S05E01 - Comedy**  
+TV-MA 🔒 11:19  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/comedy  
+seriesid=`661208` titleid=`787514` id=`QalwZKZXTQGPLarg2-MZ_Q` mediaid=`5b0de4eca8935888bc886ce15c15e8fde1365302`  
+_Tim and Eric develop a comedic platform for their bits, while runny doo threatens Baseball Man's wedding. (Guest starring Corbin Bernsen, Jack McBrayer, John C Reilly, Danny Trejo)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161650137-timanderic_501.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161650137-timanderic_501.jpg" height="144px" /></a>
+### 787508
+**Tim and Eric Awesome Show Great Job! S05E05 - Crows**  
+TV-MA 🔒 11:14  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/crows  
+seriesid=`661208` titleid=`787508` id=`VRAbX2WVS_aXiAU9VsGh8A` mediaid=`cdc7fc2a2066469e34747bc0577a072036b14731`  
+_Cinco finally develops a product that helps male friends watch each other sleep. The Paynus Brothers release a new single. (Guest starring: John Ennis, Michael Gross, Marilyn Manson, Jerry Penacoli, Bob Odenkirk, Rainn Wilson)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161648509-timanderic_505.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161648509-timanderic_505.jpg" height="144px" /></a>
+### 787512
+**Tim and Eric Awesome Show Great Job! S05E06 - Greene Machine**  
+TV-14 🔒 11:20  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/greene-machine  
+seriesid=`661208` titleid=`787512` id=`5vHhJDltSeyiEV10n9UDjw` mediaid=`da118c4e386ccae6c17ff53f316ee553d40e22ae`  
+_Tairy Greene stars in Little Dancin' Man, not to be confused with Little Danson Man. (Guest starring: LeVar Burton, Peter Cetera, David Cross, Ted Danson, Zach Galifianakis, Richard Marx)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161648290-timanderic_506.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161648290-timanderic_506.jpg" height="144px" /></a>
+### 787511
+**Tim and Eric Awesome Show Great Job! S05E07 - Handsome**  
+TV-MA 🔒 11:09  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/handsome  
+seriesid=`661208` titleid=`787511` id=`jthYQUfvRkeLzOPk14gaBg` mediaid=`dcc213cbef80d2226d8a333f45683f6f6d2ebd12`  
+_Tim and Eric square off to settle who is the more handsome, fancy man. Hang around for a sneak peak at what's inside Richard Dunn's mouth. (Guest starring: Bob Odenkirk)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116164857-timanderic_507.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116164857-timanderic_507.jpg" height="144px" /></a>
+### 787509
+**Tim and Eric Awesome Show Great Job! S05E09 - Lucky**  
+TV-14-L 🔒 11:24  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/lucky  
+seriesid=`661208` titleid=`787509` id=`e6aD1UhVS0G6VGswUSxgnA` mediaid=`c54b0fe3c4e7c5d8e765760a5753656a1c136a38`  
+_Kent is surprised to find his friend's reflection in the hand mirror while preparing to head out on a double date. He's even more surprised to see him standing Broach-less._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161646494-timanderic_509_air_cid-3R3V6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161646494-timanderic_509_air_cid-3R3V6.jpg" height="144px" /></a>
+### 787513
+**Tim and Eric Awesome Show Great Job! S05E10 - Man Milk**  
+TV-MA 🔒 21:51  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/man-milk  
+seriesid=`661208` titleid=`787513` id=`fl8E-TVsQLKatm7Y1Y4gCA` mediaid=`5dc296fd3c9d0a4affcf6f049fd90a3a830c478e`  
+_Gather the family! Make some pop pop! Koi is back in town. A very special 22-minute Christmas episode! (Guest starring: Fred Armisen, John C Reilly, Paul Rudd, Ben Stiller)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161646304-timanderic_510_air_cid-3R3RH.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161646304-timanderic_510_air_cid-3R3RH.jpg" height="144px" /></a>
+### 787515
+**Tim and Eric Awesome Show Great Job! S05E08 - Puberty**  
 TV-MA 🔒 11:20  
-⌛ January 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/universe  
-seriesid=`661208` titleid=`751393` id=`YQXPxActSD-iqVYF9K04qA` mediaid=`9d0fed9333c06d94cd20a1935db1d1299499b552`  
-_Tim and Eric examine the discuss the mysteries of the universe. Pierre launches a PSA about food poisoning. The Zillions crew is back with a very special episode of Celebrity Zillions. 
-(John C Reilly)_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652413-timanderic_404.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652413-timanderic_404.jpg" height="144px" /></a>
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/puberty  
+seriesid=`661208` titleid=`787515` id=`bsiyptMkQ2CjoM07XeQu1Q` mediaid=`41c7b83c15a3fc19c1188d2ba635e7369e402f25`  
+_Eric hits pubbs naturally before Tim, causing Tim to seek out synthetic ways to activate pubbs to catch up with Eric. Fortin' with Will. (Guest starring: Will Forte)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161647109-timanderic_508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161647109-timanderic_508.jpg" height="144px" /></a>
+### 787516
+**Tim and Eric Awesome Show Great Job! S05E03 - Reanimated**  
+TV-MA 🔒 11:33  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/reanimated  
+seriesid=`661208` titleid=`787516` id=`shtN5SkXSzuXjkauatL9jA` mediaid=`1f5f001030de87938db960e2c01f627fed1c6166`  
+_When a young actress stumbles upon Casey's remains in the woods, she unknowingly sets his reanimation in motion. (Guest starring: Patrick Duffy, Maynard Keenan, Wendell Pierce, John C Reilly, Al Yankovic)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161649336-timanderic_503.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161649336-timanderic_503.jpg" height="144px" /></a>
+### 787510
+**Tim and Eric Awesome Show Great Job! S05E02 - Stuntmen**  
+TV-MA 🔒 10:54  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/stuntmen  
+seriesid=`661208` titleid=`787510` id=`S7X_2nA3SIqQf1MXU5It9g` mediaid=`584505bf96d55c8be7fcd1deebe77f34a5dce487`  
+_Frank Slaten was expecting pizza, but is pleasantly surprised by the Tiramisu. Maybe he'll get pizza later? Something goes terribly wrong when the Stontmehn Brothers demonstrate the Exploding Pumpkin. (Guest starring: Will Ferrell, John C Reilly, Steve Mahanahan)_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161649556-timanderic_502.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161649556-timanderic_502.jpg" height="144px" /></a>
+### 2227423
+**Tim and Eric Awesome Show Great Job! S05E11 - Tim and Eric, Awesome Show, Great Job! Chrimbus Special**  
+TV-MA 🔒 44:43  
+⌛ January 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tim-and-eric-awesome-show-great-job/tim-and-eric-awesome-show-great-job-chrimbus-special  
+seriesid=`661208` titleid=`2227423` id=`AXrJeCNeeTntnGIjub0m` mediaid=`90e66dfba960270c09c8c5374e3458c51c535e62`  
+_Chrimbus is the holiday of receiving, and the Tim and Eric Chrimbus Special is a for retailers only live performance aimed at convincing retailers to buy the DVD of the special._  
+<a href="https://media.cdn.adultswim.com/uploads/20210721/thumbnails/2_21721164696-2_2116164669-timanderic_chrimbus2010.jpeg"><img src="https://media.cdn.adultswim.com/uploads/20210721/thumbnails/2_21721164696-2_2116164669-timanderic_chrimbus2010.jpeg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
 437532 Futurama: 1  
 581006 American Dad: 2  
-581268 Squidbillies: 4  
-608360 Robot Chicken: 1  
 629835 King of the Hill: 1  
-### 2132973
-**Bob's Burgers S07E02 - They Serve Horses, Don't They?**  
-TV-PG-L 🔒 21:44  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/they-serve-horses-dont-they  
-seriesid=`2003422` titleid=`2132973` id=`6wGwgTMGQG6e5VJ1b-eQdQ` mediaid=`191f7d899837e9f0fb9312a7125bd937c43e5c18`  
-_After a tip from Jimmy Pesto, Bob secures a new meat provider who claims to save clients money on every order. The Belchers quickly realize that the situation is too good to be true, as they find themselves involved in an investigation._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150911810288819.jpg" height="144px" /></a>
-### 2132991
-**Bob's Burgers S07E03 - Teen-a Witch**  
-TV-PG-L 🔒 21:47  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/teen-a-witch  
-seriesid=`2003422` titleid=`2132991` id=`AWGLqx6ENWyh42wYnkw9` mediaid=`5b0d6ca24561e9c052c6c76c933c3b89d6532205`  
-_With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. But when Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg" height="144px" /></a>
-### 437537
-**Futurama S01E05 - Fear of a Bot Planet**  
-TV-PG 🔒 23:22  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/fear-of-a-bot-planet  
-seriesid=`437532` titleid=`437537` id=`AX3J-gTfUQa40cfnRS-j` mediaid=`fe20d6922beaacd9a96b130dd06ca1d8016fa5fb`  
-_Bender delivers a package to a planet inhabited solely by robots._  
-<a href="https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171458474-Futurama_005_FearOfABotPlanet.png"><img src="https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171458474-Futurama_005_FearOfABotPlanet.png" height="144px" /></a>
-### 2041477
-**American Dad S11E04 - N.S.A. (No Snoops Allowed)**  
+### 2132992
+**Bob's Burgers S07E06 - The Quirk-Ducers**  
+TV-PG-DLV 🔒 21:40  
+⌛ October 29, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-quirk-ducers  
+seriesid=`2003422` titleid=`2132992` id=`AWG1Yym-NWyh42wYnk6f` mediaid=`c9c34718faeb1e812d3b7827ba7a72332c152649`  
+_When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg" height="144px" /></a>
+### 2132975
+**Bob's Burgers S07E03 - Large Brother, Where Fart Thou?**  
+TV-14-L 🔒 21:45  
+⌛ October 29, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/large-brother-where-fart-thou  
+seriesid=`2003422` titleid=`2132975` id=`JN51ikJcSbymg0xNrYEi_A` mediaid=`c681a0b1721d5a8e765e5d0e42975f1ebc88a61d`  
+_When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150965565175913.jpg" height="144px" /></a>
+### 437538
+**Futurama S01E06 - A Fishful of Dollars**  
+TV-PG-DL 🔓 23:22  
+⌛ October 29, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/a-fishful-of-dollars  
+seriesid=`437532` titleid=`437538` id=`AYPxsMge3sQvipyea-vQ` mediaid=`0bf8b5e1f3297d355d6872a33feece8c4484c605`  
+_Fry's savings have accrued for 1000 years, and he buys ancient anchovies with his sudden riches._  
+### 2041478
+**American Dad S11E05 - Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers**  
+TV-14-DL 🔒 21:13  
+⌛ October 29, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stan-smith-as-keanu-reeves-as-stanny-utah-in-point-breakers  
+seriesid=`581006` titleid=`2041478` id=`lhPueYEFSTGBnbn2xsc9Mg` mediaid=`19c05ab4df7f77e4458a0e6b54e8907c05994974`  
+_Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg" height="144px" /></a>
+### 2041480
+**American Dad S11E06 - Kiss Kiss, Cam Cam**  
 TV-14-DLSV 🔒 21:13  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/n-s-a-no-snoops-allowed  
-seriesid=`581006` titleid=`2041477` id=`R1Isc4OiQ5OqNqz5mq_ZJg` mediaid=`d873da559ba4646a889015fd6aeb309d464a2b90`  
-_Steve goes to work with Stan and discovers the N.S.A. Hayley decides to let go of being a vegetarian and eat meat for one day._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg" height="144px" /></a>
-### 2041476
-**American Dad S11E03 - Hayley Smith, Seal Team Six**  
-TV-14-DLV 🔒 21:13  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/hayley-smith-seal-team-six  
-seriesid=`581006` titleid=`2041476` id=`uo1Kf91lTPCZCjE4bnKkCQ` mediaid=`c0b67def7f4d67d8776b26dbfe7c4753c3b4e02c`  
-_Hayley mentally regresses to a six-year-old. Steve and his pals get a slow cooker._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200191612226.jpg" height="144px" /></a>
-### 2199309
-**Squidbillies S12E09 - Events By Russell**  
-TV-14-DLSV 🔒 11:17  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/events-by-russell  
-seriesid=`581268` titleid=`2199309` id=`AW0nGhd4CorLtcgfluVw` mediaid=`d38cfb672fc4eda20264552574cdb1d439708d3b`  
-_Early interferes with Rusty's new party business and it's last call…for action!_  
-<a href="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg" height="144px" /></a>
-### 2108975
-**Squidbillies S12E01 - Forever Autumn**  
-TV-14-DLV 🔒 11:10  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/forever-autumn  
-seriesid=`581268` titleid=`2108975` id=`AWxx0Cuq4aLemgzOLGIh` mediaid=`f407fd33252996fc291bc389fab5823298b237b6`  
-_Dan Halen's foolish new plan prompts Early to open a foolish new business._  
-<a href="https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119139-squidbillies_1001_dup-20190807.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119139-squidbillies_1001_dup-20190807.jpg" height="144px" /></a>
-### 2199304
-**Squidbillies S12E02 - Galvin**  
-TV-14-DLV 🔒 11:19  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/galvin  
-seriesid=`581268` titleid=`2199304` id=`AWxx0HdoCorLtcgfltfk` mediaid=`4bfb6a6e495ff32942111bec629dcfbf0c202de2`  
-_Granny finds love and Early loses his mind._  
-<a href="https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119372-squidbillies_1003_dup-20190807.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119372-squidbillies_1003_dup-20190807.jpg" height="144px" /></a>
-### 2199306
-**Squidbillies S12E05 - Rich Dan, Poor Dan**  
-TV-14-DLSV 🔒 11:26  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/rich-dan-poor-dan  
-seriesid=`581268` titleid=`2199306` id=`AWy6cI7hCorLtcgflt2f` mediaid=`6c4c5eb6f581f418429f38d5ca9d1d92989f736b`  
-_Dan Halen finds financial bankruptcy less enjoyable than moral bankruptcy._  
-<a href="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg" height="144px" /></a>
-### 744127
-**Robot Chicken S04E?? - Robot Chicken: Star Wars Episode II**  
-TV-14-LV 🔒 22:48  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/robot-chicken-star-wars-episode-ii  
-seriesid=`608360` titleid=`744127` id=`AeTGR4VtTzelNGGj9LBHeQ` mediaid=`03721872b359043aa8fbd9622c2e78d85b24ca13`  
-_Robot Chicken: Star Wars Episode II parodies many of the beloved Star Wars characters from the first special, while adding additional fan favorites: Bossk, IG-88, Zuckus, 4-LOM, Dengar and others as they set off on their quest to capture Han Solo. We reunite with Emperor Palpatine as he gets the idea to place an ad for Bounty Hunters from his hairdresser and spend a day with Gary, the Stormtrooper, who has to suffer through Bring Your Daughter to Work Day._  
-<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042142547-robotchicken_RCSW2.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042142547-robotchicken_RCSW2.jpg" height="144px" /></a>
-### 731374
-**King of the Hill S06E13 - Tankin' It To the Streets**  
-TV-PG-DL 🔒 24:31  
-⌛ October 28, 2022 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/tankin-it-to-the-streets  
-seriesid=`629835` titleid=`731374` id=`aSlaTnOQSvq1yyBekp7OTA` mediaid=`b7cd1b4473ee9a339c0fcc491f736161ae309a71`  
-_Bill gets drunk and steals a military tank after learning he was used as a guinea pig in a secret Army experiment._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394547751.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394547751.jpg" height="144px" /></a>
+⌛ October 29, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/kiss-kiss-cam-cam  
+seriesid=`581006` titleid=`2041480` id=`un5GKAHcTHu0l8SJPfqaCQ` mediaid=`2d71a4b54268c799ed40ce185259be6c257b4b30`  
+_Stan gets Francine baseball tickets for her birthday but is upset when they have a horrible kiss on the kiss cam. Steve and Roger head to Nevada to help clean polluted water._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg" height="144px" /></a>
+### 731375
+**King of the Hill S06E14 - Of Mice and Little Green Men**  
+TV-PG-DL 🔒 24:29  
+⌛ October 29, 2022 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/of-mice-and-little-green-men  
+seriesid=`629835` titleid=`731375` id=`zspZohFYR_S_3mylncYujg` mediaid=`7be242ff5e123d1144f84cb8df41e11250b32a6e`  
+_Bobby and Joseph are hurt when their dads show more interest in one another's son than in their own. Dale is convinced that Joseph's real father is an alien._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394245998.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394245998.jpg" height="144px" /></a>
