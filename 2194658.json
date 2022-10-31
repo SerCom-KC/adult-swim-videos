@@ -1,16 +1,16 @@
 [
     {
-        "auth_expiration_date": 1667188740,
-        "tms_id": "",
-        "description": "Without warning, the shelter's phone begins to ring, echoing through the halls. Emma hesitantly answers and finds that it is William Minerva. Meanwhile, in an underground room at the farm headquarters, a deal is made\u2026",
+        "ott_launch_date": null,
+        "auth_expiration_date": 1658116740,
+        "tms_id": "EP031416130001",
+        "description": "Grace Field House is where children without parents are taken in. An irreplaceable home for the 38 children who live happily every day. Until suddenly, their lives are completely changed forever.",
         "title_suggest": {
             "input": [
-                "Episode 4",
-                "4"
+                "121045"
             ]
         },
-        "title": "Episode 4",
-        "expiration_date": 1663559940,
+        "title": "121045",
+        "expiration_date": 1668401940,
         "type": "episode",
         "platforms": [
             "android",
@@ -19,30 +19,32 @@
             "fire-tv"
         ],
         "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1273.6724,
-        "episode_number": "4",
-        "original_air_date": "1619933400",
-        "auth_launch_date": 1663560000,
+        "duration": 1292.33,
+        "episode_number": "1",
+        "original_air_date": 1555214400,
+        "auth_launch_date": 1654488000,
         "clip_order": null,
-        "airing_id": "RADS1009152200028821",
-        "media_id": "7860c32f00fd071960585b24666ed95c95caee42",
-        "modified": 1663285654,
-        "slug": "episode-4",
+        "media_id": "14d288e2be3892fd94d7043cdbb532cf2d30c238",
+        "modified": 1666993690,
+        "airing_id": "RADS1010282200040133",
+        "slug": "121045",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/1_213311125381-PromisedNeverland2_004_Episode4.jpg",
-        "created": 1617204344,
-        "season_number": "2",
-        "title_id": "2264535",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155500147480318.jpg",
+        "created": 1555001509,
+        "season_number": "1",
+        "title_id": "2194659",
         "tv_rating": "tv-14-v",
-        "published": 1663285654,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1666993690,
         "tags": [],
         "collection_title": "The Promised Neverland",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1662350400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210331/thumbnails/2_213311125381-PromisedNeverland2_004_Episode4.jpg",
-        "id": "AXiI4_bxBH5Z6gH5aWHZ",
-        "auth": true
+        "launch_date": 1667188800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155500147480318.jpg",
+        "id": "AWoNUAd-Hl5gR6828zPC",
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -361,7 +363,7 @@
         "launch_date": 1665979200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610109149-TPN2_022_Episode10.png",
         "id": "AXneLfYZBH5Z6gH5aWTm",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1657511940,
