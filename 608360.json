@@ -3313,7 +3313,7 @@
     },
     {
         "ott_launch_date": 1531146600,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1670302740,
         "tms_id": "EP007259620192",
         "description": "Are the Robot Chicken writers the only ones to notice that King Kong fell from the Empire State Building butt-first? The Teenage Mutant Ninja Turtles don't have money to pay for that pizza. The Smurfs try to Smurf themselves some Sudafed.",
@@ -4024,53 +4024,6 @@
         "launch_date": 1564156800,
         "poster": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251646292-Sdcc2019_Panel_RC_Clueless.jpg",
         "id": "AWwq4z7I4aLemgzOLGDJ",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1667275140,
-        "tms_id": "EP007259620240",
-        "description": "Robot Chicken helps Dexter bring his robot mother to market but buyers go off-label; The Itsy Bitsy Spider doesn't know what the hell he's doing; Visit the land of Disney's dead parents.",
-        "title_suggest": {
-            "input": [
-                "May Cause Internal Diarrhea",
-                "Cause Internal Diarrhea",
-                "Internal Diarrhea",
-                "Diarrhea"
-            ]
-        },
-        "title": "May Cause Internal Diarrhea",
-        "type": "episode",
-        "expiration_date": 1658203140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 662.8956,
-        "episode_number": "19",
-        "original_air_date": 1648440000,
-        "auth_launch_date": 1661227200,
-        "clip_order": null,
-        "airing_id": "RADS1008222200022451",
-        "media_id": "2293a15ece051ccfbc143f68e6f2db2cf9d59271",
-        "modified": 1667265375,
-        "slug": "may-cause-internal-diarrhea",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220325/thumbnails/1_223251715238-RobotChickenInternalDiarrhea.png",
-        "created": 1648131983,
-        "title_id": "2270605",
-        "season_number": "11",
-        "tv_rating": "tv-ma-l",
-        "published": 1667265375,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655179200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220325/thumbnails/2_223251715238-RobotChickenInternalDiarrhea.png",
-        "id": "AX-8UkhO208s7zyYUMaA",
         "auth": false
     },
     {
@@ -5251,6 +5204,54 @@
         "launch_date": 1660622400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101349425-RobotChicken_1106_MayCauseRandomWolfAttacks.png",
         "id": "AXvQ1Hl04Xbjep71f6G3",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673326740,
+        "tms_id": "EP007259620228",
+        "description": "Naruto has trained for the Robot Chicken writers think he's ready for the test or not; The Force evolves into something new and deadly; Robot Chicken teaches Martin Scorcese a few things about filmmaking.",
+        "title_suggest": {
+            "input": [
+                "May Cause Lucid Murder Dreams",
+                "Cause Lucid Murder Dreams",
+                "Lucid Murder Dreams",
+                "Murder Dreams",
+                "Dreams"
+            ]
+        },
+        "title": "May Cause Lucid Murder Dreams",
+        "expiration_date": 1663041540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 670.303,
+        "episode_number": "8",
+        "original_air_date": "1631764800",
+        "auth_launch_date": 1667275200,
+        "clip_order": null,
+        "airing_id": "RADS1010312200040922",
+        "media_id": "9eb76fb8ab207c14f4aa23c6952f3e75d4d9b993",
+        "modified": 1667265370,
+        "slug": "may-cause-lucid-murder-dreams",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/1_219101350344-RobotChicken_1107_MayCauseLucidMurderDreams.png",
+        "created": 1631296246,
+        "season_number": "11",
+        "title_id": "2270594",
+        "tv_rating": "tv-ma-sv",
+        "published": 1667265370,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1660017600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101350344-RobotChicken_1107_MayCauseLucidMurderDreams.png",
+        "id": "AXvQ1VHFUQa40cfnRR9l",
         "auth": true
     },
     {
