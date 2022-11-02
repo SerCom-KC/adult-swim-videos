@@ -1,64 +1,6 @@
 {
-    "updated": 1667395822,
-    "added": [],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": 1446844320,
-            "auth_expiration_date": 1668488340,
-            "tms_id": "EP004625750020",
-            "rating": 8.675017,
-            "description": "When Quick Draw McGraw pulls out his trusty six-string in an attempt to put the El Kabong kibosh on the Dalton Gang, he gets hauled off to the hoosegow.",
-            "title_suggest": {
-                "input": [
-                    "Guitar Control",
-                    "Control"
-                ]
-            },
-            "type": "episode",
-            "title": "Guitar Control",
-            "expiration_date": 1665460740,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "E6RZbJoRQliL44vITSybtA",
-            "duration": 697.63,
-            "episode_number": "11",
-            "original_air_date": 1099454400,
-            "clip_order": null,
-            "auth_launch_date": 1665460800,
-            "modified": 1665168339,
-            "media_id": "96e054090ee35ecec84cf5c8f417beee6ab97f48",
-            "airing_id": "RADS1010072200035517",
-            "id": "Is1KrFH1R_Stop1kEZztQA",
-            "slug": "guitar-control",
-            "views": 312830,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035149467-harvey_020.jpg",
-            "created": 1402945467,
-            "title_id": "607106",
-            "season_number": "2",
-            "tv_rating": "tv-14-dl",
-            "active": true,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1665168339,
-            "tags": [
-                "harvey birdman episode attorney at law 20 guitar control quick draw mcgraw charlton heston guns el kabong"
-            ],
-            "rating_count": 997,
-            "collection_title": "Harvey Birdman, Attorney at Law",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1662436800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035149467-harvey_020.jpg",
-            "cma_id": "",
-            "collection_slug": "harvey-birdman-attorney-at-law",
-            "collection_title_id": "340539",
-            "online_exclusives": false
-        },
+    "updated": 1667397624,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1446844320,
@@ -86,9 +28,9 @@
             "original_air_date": 1090207800,
             "clip_order": null,
             "auth_launch_date": 1664856000,
-            "modified": 1664592450,
+            "modified": 1667396519,
             "media_id": "d20dfe4d4de8337353ae15ec31222255dd281e27",
-            "airing_id": "RADS1008262200023099",
+            "airing_id": "RADS1009302200033151",
             "id": "rVW1FR94Q1uCnRxISdlTrQ",
             "slug": "droopy-botox",
             "views": 306721,
@@ -101,7 +43,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1664592450,
+            "published": 1667396519,
             "tags": [
                 "harvey birdman episode attorney at law 19 droopy botox plastic surgery coupons"
             ],
@@ -116,5 +58,6 @@
             "collection_title_id": "340539",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
