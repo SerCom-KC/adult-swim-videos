@@ -147,7 +147,7 @@
         "cma_id": "1419108"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446738900,
         "auth_expiration_date": 1670389140,
         "tms_id": "EP013120360027",
@@ -196,57 +196,6 @@
         "launch_date": 1664337600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151215477-eagleheart_027_dup-20140110.jpg",
         "cma_id": "1426796"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446738660,
-        "auth_expiration_date": 1667361540,
-        "tms_id": "EP013120360022",
-        "rating": 8.188678,
-        "description": "The king of the tramps goes missing and the marshals realize that something stinks - and it isn't just the tramps themselves.",
-        "title_suggest": {
-            "input": [
-                "Tramps"
-            ]
-        },
-        "type": "episode",
-        "title": "Tramps",
-        "expiration_date": 1664337540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 676.4671338,
-        "episode_number": "10",
-        "original_air_date": 1339732800,
-        "clip_order": null,
-        "auth_launch_date": 1664337600,
-        "modified": 1663989050,
-        "media_id": "eb6b9d9f01740d861edf3d3c49ba6ea9fa50747c",
-        "airing_id": "RADS1008192200022224",
-        "id": "Viyi0OO4TqyqgfQjUBw0Qw",
-        "slug": "tramps",
-        "views": 26880,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341552322-eagleheart_207_bim.jpg",
-        "created": 1402945464,
-        "title_id": "892258",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1663989050,
-        "tags": [],
-        "rating_count": 53,
-        "collection_title": "Eagleheart",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1661313600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341552322-eagleheart_207_bim.jpg",
-        "cma_id": "1406460"
     },
     {
         "auth": true,
@@ -299,6 +248,57 @@
         "launch_date": 1662523200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341553176-eagleheart_204_bim.jpg",
         "cma_id": "1414775"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446739080,
+        "auth_expiration_date": 1652846340,
+        "tms_id": "EP013120360032",
+        "rating": 7.7027025,
+        "description": "An unexpected encounter.",
+        "title_suggest": {
+            "input": [
+                "Spats"
+            ]
+        },
+        "type": "episode",
+        "title": "Spats",
+        "expiration_date": 1670389140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 677.8757298,
+        "episode_number": "8",
+        "original_air_date": 1388725200,
+        "clip_order": null,
+        "auth_launch_date": 1649822400,
+        "modified": 1667184579,
+        "media_id": "0871ac6d16b2c0e81ed4a383c345d1ee0c79497a",
+        "airing_id": "RADS1010312200040418",
+        "id": "_9tnECkZSwONWquur9epjw",
+        "slug": "spats",
+        "views": 5775,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/1_21151213421-eagleheart_032_dup-20131230.jpg",
+        "created": 1402945464,
+        "title_id": "2012952",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1667184579,
+        "tags": [],
+        "rating_count": 37,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1667361600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151213421-eagleheart_032_dup-20131230.jpg",
+        "cma_id": "1448547"
     },
     {
         "auth": true,
