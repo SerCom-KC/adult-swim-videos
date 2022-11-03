@@ -1,7 +1,6 @@
 {
-    "updated": 1667491227,
-    "added": [],
-    "removed": [
+    "updated": 1667494829,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447440120,
@@ -31,8 +30,8 @@
             "original_air_date": 1114402500,
             "clip_order": null,
             "auth_launch_date": 1664942400,
-            "modified": 1664598471,
-            "airing_id": "RADS1008262200023127",
+            "modified": 1667493876,
+            "airing_id": "RADS1009302200033206",
             "media_id": "3d0df83f7e17bdf9496cbab7ec53d6cea1f7b6bc",
             "id": "hY9L7qYWR3uDQc8I1ouUsQ",
             "slug": "a-legacy-of-laughter",
@@ -45,7 +44,7 @@
             "tv_rating": "tv-14-ds",
             "active": true,
             "ott_expiration_date": null,
-            "published": 1664598471,
+            "published": 1667493876,
             "tags": [],
             "rating_count": 444,
             "collection_title": "Sealab 2021",
@@ -58,5 +57,6 @@
             "collection_title_id": "340533",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
