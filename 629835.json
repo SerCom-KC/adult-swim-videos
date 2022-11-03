@@ -110,68 +110,6 @@
         "cma_id": "1479938"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1667447940,
-        "tms_id": "EP002070020127",
-        "rating": 8.860793,
-        "description": "Peggy gets a job with Alamo Beer, and learns the company is knowingly selling tainted beer.",
-        "title_suggest": {
-            "input": [
-                "Beer and Loathing",
-                "and Loathing",
-                "Loathing"
-            ]
-        },
-        "type": "episode",
-        "title": "Beer and Loathing",
-        "expiration_date": 1506569399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1468.3002,
-        "episode_number": "16",
-        "original_air_date": 1233802800,
-        "clip_order": null,
-        "auth_launch_date": 1666843200,
-        "modified": 1666651138,
-        "media_id": "1593a104af6ed66b5546471ac11198805aa1db57",
-        "airing_id": "RADS1010242200038322",
-        "id": "RgBCY8FYTc6RMOlEF8oR7Q",
-        "slug": "beer-and-loathing",
-        "views": 207362,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152089017078711.jpg",
-        "created": 1402945468,
-        "title_id": "731381",
-        "season_number": "6",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1666651138,
-        "tags": [
-            "Beer and Loathing",
-            "King of the Hill",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Mike Judge",
-            "Hank",
-            "Peggy",
-            "Bobby"
-        ],
-        "rating_count": 352,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1505964600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152089017078711.jpg",
-        "cma_id": "1477934"
-    },
-    {
         "auth": true,
         "auth_expiration_date": 1667534340,
         "tms_id": "EP002070020126",
@@ -292,5 +230,58 @@
         "launch_date": 1506137400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152089023988917.jpg",
         "cma_id": "1479224"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1668056340,
+        "tms_id": "EP002070020133",
+        "rating": 7.781251,
+        "description": "The Hills take Cotton to Japan so he can apologize to the widow of a soldier he killed during WWII.",
+        "title_suggest": {
+            "input": [
+                "Returning Japanese, Pt. 1",
+                "Japanese, Pt. 1",
+                "Pt. 1",
+                "1"
+            ]
+        },
+        "type": "episode",
+        "title": "Returning Japanese, Pt. 1",
+        "expiration_date": 1506914999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1466.2315,
+        "episode_number": "21",
+        "original_air_date": 1234161000,
+        "clip_order": null,
+        "auth_launch_date": 1667448000,
+        "modified": 1667278227,
+        "media_id": "5c89fcda9d9aee3344e8c347c01eaac5b57a5567",
+        "airing_id": "RADS1010312200040982",
+        "id": "nt5FGyEKQhuPmMcFyKlmig",
+        "slug": "returning-japanese-pt-1",
+        "views": 129139,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15208903108684.jpg",
+        "created": 1402945468,
+        "title_id": "731392",
+        "season_number": "6",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1667278227,
+        "tags": [
+            "king of the hill koth episode 620 returning japanese cotton wwii apologize apology"
+        ],
+        "rating_count": 288,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506310200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208903108684.jpg",
+        "cma_id": "1480506"
     }
 ]
