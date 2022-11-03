@@ -853,6 +853,55 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1493044140,
+        "auth_expiration_date": 1658980740,
+        "tms_id": "EP013726210031",
+        "description": "Satan sends Gary and Claude out to confront Dr. Paul Nickgibbion about the drop in incoming souls from his assisted suicide program.",
+        "title_suggest": {
+            "input": [
+                "Hammerman"
+            ]
+        },
+        "expiration_date": 1670475540,
+        "title": "Hammerman",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 676.5421184,
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "episode_number": "10",
+        "original_air_date": 1493004600,
+        "clip_order": null,
+        "auth_launch_date": 1655956800,
+        "modified": 1667318163,
+        "media_id": "07fe59ba0ce4653cf2476a0532717c4c49d30957",
+        "airing_id": "RADS1010312200041428",
+        "id": "BSKwrLBLTES8aPWdUbsCxg",
+        "slug": "hammerman",
+        "views": 9356,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1492610774,
+        "season_number": "3",
+        "title_id": "2108954",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1667318163,
+        "first_published": 1492780221,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "modified_by": "ODT Listener",
+        "launch_date": 1667448000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/hammerman/yourprettyface_309_dup-20170420.jpg",
+        "cma_id": "2108954"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "There is no escape.",
         "title_suggest": {
@@ -1000,7 +1049,7 @@
         "cma_id": "1384952"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787040,
         "auth_expiration_date": 1670475540,
         "tms_id": "EP013726210010",
