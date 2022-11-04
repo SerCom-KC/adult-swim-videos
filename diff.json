@@ -1,59 +1,56 @@
 {
-    "updated": 1667586081,
-    "added": [
+    "updated": 1667586736,
+    "added": [],
+    "removed": [
         {
+            "ott_launch_date": 1511796540,
             "auth": true,
-            "ott_launch_date": 1471271460,
-            "auth_expiration_date": 1667620740,
-            "tms_id": "EP007008180103",
-            "description": "You can take the squid out of the boy, but it's not covered by insurance.",
+            "auth_expiration_date": 1667620799,
+            "tms_id": "EP007008180113",
+            "description": "Everyone lies and all the houses burn.",
             "title_suggest": {
                 "input": [
-                    "Cephalo-ectomy"
+                    "Tortuga de Mentiras",
+                    "de Mentiras",
+                    "Mentiras"
                 ]
             },
-            "expiration_date": 1598932799,
-            "title": "Cephalo-ectomy",
+            "title": "Tortuga de Mentiras",
             "type": "episode",
+            "expiration_date": 1602561540,
             "platforms": [
-                "web",
-                "mobile",
-                "ott"
+                "fire-tv",
+                "ott",
+                "roku"
             ],
-            "duration": 674.1668057,
             "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "episode_number": "6",
-            "original_air_date": 1471231800,
+            "duration": 677.17,
+            "episode_number": "7",
+            "original_air_date": 1511758800,
+            "auth_launch_date": 1657512000,
             "clip_order": null,
-            "auth_launch_date": 1659758400,
-            "modified": 1667585907,
-            "media_id": "50fbc14e15c885f955c28a5bbef62757c2007e1b",
-            "airing_id": "RADS1008052200019921",
-            "id": "BCx4BtabTm6H8bNpwVNl2g",
-            "slug": "cephalo-ectomy",
-            "views": 27886,
+            "media_id": "9128debc734b5f6b717c7c9af0cc04c0aa3c7e43",
+            "modified": 1667585032,
+            "airing_id": "RADS1007102200012733",
+            "id": "AV_uQ6mowdpKFAKSbh1U",
+            "slug": "tortuga-de-mentiras",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141141252-squidbillies_909_dup-20160812.jpg",
-            "created": 1470752671,
-            "season_number": "10",
-            "title_id": "2092364",
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15118054331064.jpg",
+            "created": 1511530932,
+            "title_id": "2108971",
             "tv_rating": "tv-14-dlv",
-            "active": false,
-            "ott_expiration_date": null,
+            "season_number": "11",
             "blacklist": [],
-            "published": 1667585907,
-            "first_published": 1471180219,
+            "ott_expiration_date": null,
+            "published": 1667585032,
             "tags": [],
             "collection_title": "Squidbillies",
-            "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1542690000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141141252-squidbillies_909_dup-20160812.jpg",
-            "cma_id": "1243155",
+            "launch_date": 1599537600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg",
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
