@@ -1149,6 +1149,57 @@
         "auth": true
     },
     {
+        "ott_launch_date": 1513006140,
+        "auth_expiration_date": 1667620799,
+        "tms_id": "EP007008180115",
+        "description": "Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas!",
+        "title_suggest": {
+            "input": [
+                "The War on the War on Christmas",
+                "War on the War on Christmas",
+                "on the War on Christmas",
+                "the War on Christmas",
+                "War on Christmas",
+                "on Christmas",
+                "Christmas"
+            ]
+        },
+        "title": "The War on the War on Christmas",
+        "type": "episode",
+        "expiration_date": 1618372740,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 686.13,
+        "episode_number": "9",
+        "original_air_date": 1512968400,
+        "auth_launch_date": 1657512000,
+        "clip_order": null,
+        "media_id": "6ea0d31d516bd80fa67cbb8475e9fcdca8f2e56a",
+        "modified": 1667588047,
+        "airing_id": "RADS1007102200012741",
+        "slug": "the-war-on-the-war-on-christmas",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15130121655473.jpg",
+        "created": 1512782295,
+        "title_id": "2108974",
+        "tv_rating": "tv-14-dlsv",
+        "season_number": "11",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1667588047,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130121655473.jpg",
+        "id": "AWA42fCwZ-onAnjDLtdq",
+        "auth": true
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "The songwriting legend ably covers the theme song.",
@@ -1421,52 +1472,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151242211835916.jpg",
         "id": "AWAjYjXHZ-onAnjDLtX2",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1513610940,
-        "auth_expiration_date": 1667620799,
-        "tms_id": "EP007008180116",
-        "description": "Two idiots open competing taquerias mere feet from one another.",
-        "title_suggest": {
-            "input": [
-                "Dewey Two-ey",
-                "Two-ey"
-            ]
-        },
-        "title": "Dewey Two-ey",
-        "type": "episode",
-        "expiration_date": 1604379540,
-        "platforms": [
-            "fire-tv",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 656,
-        "episode_number": "10",
-        "original_air_date": 1513573200,
-        "auth_launch_date": 1657512000,
-        "clip_order": null,
-        "media_id": "abff57ea27f88bba593397f84f00506d990155d9",
-        "modified": 1667585609,
-        "airing_id": "RADS1007102200012738",
-        "id": "AWBeBf2PwdpKFAKSb4_8",
-        "slug": "dewey-two-ey",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15136117968134.jpg",
-        "created": 1513405939,
-        "title_id": "2108973",
-        "tv_rating": "tv-14-dlv",
-        "season_number": "11",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1667585609,
-        "tags": [],
-        "collection_title": "Squidbillies",
-        "modified_by": "ODT Listener",
-        "launch_date": 1601352000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15136117968134.jpg"
     },
     {
         "ott_launch_date": null,
