@@ -890,6 +890,53 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1511796540,
+        "auth": true,
+        "auth_expiration_date": 1667620799,
+        "tms_id": "EP007008180113",
+        "description": "Everyone lies and all the houses burn.",
+        "title_suggest": {
+            "input": [
+                "Tortuga de Mentiras",
+                "de Mentiras",
+                "Mentiras"
+            ]
+        },
+        "title": "Tortuga de Mentiras",
+        "type": "episode",
+        "expiration_date": 1602561540,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 677.17,
+        "episode_number": "7",
+        "original_air_date": 1511758800,
+        "auth_launch_date": 1657512000,
+        "clip_order": null,
+        "media_id": "9128debc734b5f6b717c7c9af0cc04c0aa3c7e43",
+        "modified": 1667585032,
+        "airing_id": "RADS1007102200012733",
+        "id": "AV_uQ6mowdpKFAKSbh1U",
+        "slug": "tortuga-de-mentiras",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15118054331064.jpg",
+        "created": 1511530932,
+        "title_id": "2108971",
+        "tv_rating": "tv-14-dlv",
+        "season_number": "11",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1667585032,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1599537600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
