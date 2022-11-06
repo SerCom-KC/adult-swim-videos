@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 6, 2022 at 03:30:25 EST_
+_Last Update: November 6, 2022 at 05:00:26 EST_
 ## Video added
 ### Summary
-2356951 Made In Abyss: 1  
-### 2413203
-**Made In Abyss S02E01 - The Compass Pointed to the Darkness**  
- 🔒 22:33  
-⌛ November 27, 2022 at 02:59:00 EST  
-https://www.adultswim.com/videos/made-in-abyss/the-compass-pointed-to-the-darkness  
-seriesid=`2356951` titleid=`2413203` id=`AYQvJwRrIAxeiVkFtLSe` mediaid=`ab0ebca6d980b5244a1d17d14221da072eb51665`  
-_An old man speaks of a golden city that lies within a devouring abyss somewhere in uncharted waters. One explorer may be the key to finding both._  
-<a href="https://media.cdn.adultswim.com/uploads/20221031/thumbnails/2_2210311346272-MadeInAbyss_14_201_TheCompassPointedToTheDarkness.png"><img src="https://media.cdn.adultswim.com/uploads/20221031/thumbnails/2_2210311346272-MadeInAbyss_14_201_TheCompassPointedToTheDarkness.png" height="144px" /></a>
+2268280 Yashahime: Princess Half-Demon: 1  
+### 2394832
+**Yashahime: Princess Half-Demon S02E13 - Zero's Wish**  
+TV-14-V 🔒 22:44  
+⌛ November 27, 2022 at 04:29:00 EST  
+https://www.adultswim.com/videos/yashahime-princess-half-demon/zeros-wish  
+seriesid=`2268280` titleid=`2394832` id=`AYQvJ7CVIAxeiVkFtLSf` mediaid=`c1e1ad26bf4268009dfdf8dcc56162d81640502a`  
+_Setsuna stops Towa from killing Zero. Rin's curse cannot be lifted unless Zero lets go of her regrets. Sesshomaru gives Moroha the Black Pearl._  
+<a href="https://media.cdn.adultswim.com/uploads/20221031/thumbnails/2_2210311347115-YashahimePrincessHalfDemon_213_ZerosWish.png"><img src="https://media.cdn.adultswim.com/uploads/20221031/thumbnails/2_2210311347115-YashahimePrincessHalfDemon_213_ZerosWish.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
