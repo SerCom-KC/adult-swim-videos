@@ -1,7 +1,6 @@
 {
-    "updated": 1667787618,
-    "added": [],
-    "removed": [
+    "updated": 1667789959,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -32,7 +31,7 @@
             "original_air_date": 1133755200,
             "clip_order": null,
             "auth_launch_date": 1667188800,
-            "modified": 1666973479,
+            "modified": 1667789809,
             "media_id": "140fe7c629a76e477d406c69e573903f0cc98d32",
             "airing_id": "RADS1010282200039877",
             "id": "zTGhsXtATXyiOnnrgZwt0w",
@@ -47,7 +46,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1666973479,
+            "published": 1667789809,
             "tags": [],
             "rating_count": 4377,
             "collection_title": "The Boondocks",
@@ -60,5 +59,6 @@
             "collection_title_id": "610028",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
