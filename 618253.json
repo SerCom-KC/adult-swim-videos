@@ -55,59 +55,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1451669400,
-        "auth_expiration_date": 1667883540,
-        "tms_id": "EP007542790003",
-        "rating": 7.220516,
-        "description": "Mouse Fitzgerald plans to celebrate Rooster's new job. But then they find out he didn't get it because he is a couple years too old to meet Shark's requirements.",
-        "title_suggest": {
-            "input": [
-                "Rooster"
-            ]
-        },
-        "type": "episode",
-        "title": "Rooster",
-        "expiration_date": 1664855940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 689.26,
-        "episode_number": "3",
-        "original_air_date": 1130736600,
-        "clip_order": null,
-        "auth_launch_date": 1664856000,
-        "modified": 1664590063,
-        "media_id": "c09351fd6adb044a158678fc167bfc112d89fda4",
-        "airing_id": "RADS1008262200023078",
-        "id": "ATiS3emiQEKDv_0S2I0Uvg",
-        "slug": "rooster",
-        "views": 174315,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201158487-12oz_003_BIM_9318303.jpg",
-        "created": 1402945460,
-        "title_id": "618746",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1664590063,
-        "tags": [
-            "12 oz mouse episode 3 rooster"
-        ],
-        "rating_count": 1433,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1661832000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201158487-12oz_003_BIM_9318303.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1451669460,
         "auth_expiration_date": 1668488340,
@@ -437,7 +384,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451669580,
         "auth_expiration_date": 1670907540,
         "tms_id": "EP007542790008",
@@ -487,6 +434,62 @@
         "modified_by": "ODT Listener",
         "launch_date": 1664856000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_2022012080-12oz_008_BIM_9381884.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451669820,
+        "auth_expiration_date": 1653969540,
+        "tms_id": "EP007542790013",
+        "rating": 6.5448027,
+        "description": "Mouse Fitzgerald starts dating a wonderful new girl, and paints her portrait for free.  Fitz gets his heart broken when the girl dumps him as soon as the painting is done.",
+        "title_suggest": {
+            "input": [
+                "Auraphull"
+            ]
+        },
+        "type": "episode",
+        "title": "Auraphull",
+        "expiration_date": 1670907540,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 689.32,
+        "episode_number": "6",
+        "original_air_date": 1162187100,
+        "clip_order": null,
+        "auth_launch_date": 1650945600,
+        "modified": 1667700261,
+        "media_id": "4e417105f2f80ae35cd3de108f4aa71c11699d80",
+        "airing_id": "RADS1011062200043250",
+        "id": "lfsEdPYHQqqpfo7xW9M9QQ",
+        "slug": "auraphull",
+        "views": 118194,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_20220121341-12oz_013_BIM_9381889.jpg",
+        "created": 1402945460,
+        "title_id": "651323",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1667700261,
+        "tags": [
+            "season 2",
+            "episode 13"
+        ],
+        "rating_count": 558,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1667883600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220121341-12oz_013_BIM_9381889.jpg",
         "cma_id": ""
     },
     {
