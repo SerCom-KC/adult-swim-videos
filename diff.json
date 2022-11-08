@@ -1,7 +1,6 @@
 {
-    "updated": 1667933242,
-    "added": [],
-    "removed": [
+    "updated": 1667936617,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447785480,
@@ -27,9 +26,9 @@
             "original_air_date": 1411100100,
             "clip_order": null,
             "auth_launch_date": 1665028800,
-            "modified": 1664614399,
+            "modified": 1667936499,
             "media_id": "d141c45d318651b7ae0d13c57daa7ac1c8ccc647",
-            "airing_id": "RADS1008292200023207",
+            "airing_id": "RADS1009302200033275",
             "id": "zJU2JtkJQayronucs_v65w",
             "slug": "hole",
             "views": 2,
@@ -42,7 +41,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1664614399,
+            "published": 1667936499,
             "first_published": 1410978047,
             "tags": [],
             "collection_title": "Tim & Eric's Bedtime Stories",
@@ -55,5 +54,6 @@
             "collection_title_id": "2013221",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
