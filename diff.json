@@ -1,7 +1,6 @@
 {
-    "updated": 1667925260,
-    "added": [],
-    "removed": [
+    "updated": 1667927425,
+    "added": [
         {
             "ott_launch_date": 1518449460,
             "auth": false,
@@ -31,7 +30,7 @@
             "auth_launch_date": 1658980800,
             "clip_order": null,
             "media_id": "edf6b4325475dd68d8ba27f4c01ffbb3723ff2c2",
-            "modified": 1661449237,
+            "modified": 1667927207,
             "airing_id": "RADS1003081900072756",
             "id": "AWFYLD7yZ-onAnjDL5Nn",
             "slug": "squid-of-the-dead",
@@ -43,7 +42,7 @@
             "season_number": "1",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1661449237,
+            "published": 1667927207,
             "tags": [],
             "collection_title": "Hot Streets",
             "disable_ads": false,
@@ -54,5 +53,6 @@
             "collection_title_id": "2104364",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
