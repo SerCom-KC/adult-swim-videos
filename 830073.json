@@ -819,7 +819,7 @@
         "launch_date": 1667970000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171453105-OffTheAir_1103_Touch.png",
         "id": "AX3J9Qp4UQa40cfnRS-g",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1668574740,
@@ -863,7 +863,7 @@
         "launch_date": 1665547200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171454154-OffTheAir_1104_Liminal.png",
         "id": "AX3J9ctQ4Xbjep71f6Hu",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1677041940,
@@ -1631,7 +1631,7 @@
         "cma_id": "1059656"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1452078000,
         "auth_expiration_date": 1690343940,
         "tms_id": "EP014135410023",

@@ -332,7 +332,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1670993940,
         "tms_id": "EP002989350009",
@@ -442,62 +442,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1667969940,
-        "tms_id": "EP002989350001",
-        "rating": 8.525824,
-        "description": "It's hard enough for Brendon to accept that his mother is going on a date, but couldn't she have picked a guy other than Coach McGuirk?",
-        "title_suggest": {
-            "input": [
-                "Get Away From My Mom",
-                "Away From My Mom",
-                "From My Mom",
-                "My Mom",
-                "Mom"
-            ]
-        },
-        "type": "episode",
-        "title": "Get Away From My Mom",
-        "expiration_date": 1664942340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1341.2669336,
-        "episode_number": "1",
-        "original_air_date": 1003111200,
-        "clip_order": null,
-        "auth_launch_date": 1664942400,
-        "modified": 1664598471,
-        "media_id": "cc09e90e018e48bcea97be35dfd5a620e1b2fba3",
-        "airing_id": "RADS1008262200023126",
-        "id": "QHIks2mlSiiCApHIrlZ7ng",
-        "slug": "get-away-from-my-mom",
-        "views": 337878,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035161444-hmovies_001.jpg",
-        "created": 1402945467,
-        "title_id": "344117",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1664598471,
-        "tags": [
-            "home movies episode 1 get away from my mom series premiere first date mom"
-        ],
-        "rating_count": 639,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1661918400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161444-hmovies_001.jpg",
-        "cma_id": "991549"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1641963540,
@@ -548,6 +492,60 @@
         "modified_by": "ODT Listener",
         "launch_date": 1667361600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035164358-hmovies_010.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1642568340,
+        "tms_id": "EP002989350011",
+        "rating": 8.66727,
+        "description": "Coach McGuirk decides to buy a condo, but getting approved for a mortgage proves to be difficult. He probably shouldn't have moved out of his old place until he found a new one. Meanwhile, Brendon decides to make an educational film for kids.",
+        "title_suggest": {
+            "input": [
+                "Mortgages and Marbles",
+                "and Marbles",
+                "Marbles"
+            ]
+        },
+        "type": "episode",
+        "title": "Mortgages and Marbles",
+        "expiration_date": 1670993940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1332.5338672,
+        "episode_number": "11",
+        "original_air_date": 1001903400,
+        "clip_order": null,
+        "auth_launch_date": 1639544400,
+        "modified": 1667793115,
+        "media_id": "051d514d36effe116cd21d7708dd63681f88c6ed",
+        "airing_id": "RADS1011072200043354",
+        "id": "za1Xcrw_TZWtA0dwWHGxew",
+        "slug": "mortgages-and-marbles",
+        "views": 391791,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035164529-hmovies_011.jpg",
+        "created": 1402945467,
+        "title_id": "344127",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1667793115,
+        "tags": [
+            "home movies mortgages and marbles episode 11"
+        ],
+        "rating_count": 553,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1667970000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035164529-hmovies_011.jpg",
         "cma_id": ""
     }
 ]
