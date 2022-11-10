@@ -1,6 +1,56 @@
 [
     {
         "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1668661140,
+        "tms_id": "EP002070020111",
+        "rating": 8.180553,
+        "description": "Bobby's success in Home Economics wreaks havoc on the Hill household.\r\n",
+        "title_suggest": {
+            "input": [
+                "Goodbye Normal Jeans",
+                "Normal Jeans",
+                "Jeans"
+            ]
+        },
+        "type": "episode",
+        "title": "Goodbye Normal Jeans",
+        "expiration_date": 1507260599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1468.9675,
+        "episode_number": "4",
+        "original_air_date": 1233284400,
+        "clip_order": null,
+        "auth_launch_date": 1668056400,
+        "modified": 1667938575,
+        "airing_id": "RADS1011082200043796",
+        "media_id": "67c0ccd9f25a04c1ca64669c21f686b8c56e9a14",
+        "id": "AnhfzhyKTbq4c69HdOtdNw",
+        "slug": "goodbye-normal-jeans",
+        "views": 110920,
+        "created": 1402945468,
+        "title_id": "731407",
+        "season_number": "7",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1667938575,
+        "tags": [
+            "king of the hill koth episode 601 goodbye normal jeans peggy bobby home economics"
+        ],
+        "rating_count": 144,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506655800,
+        "poster": "",
+        "cma_id": "1483205"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1668315540,
         "tms_id": "EP002070020134",
         "rating": 8.594916,
@@ -221,58 +271,5 @@
         "launch_date": 1506396600,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1627335888776307326.jpg",
         "cma_id": "1481031"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1668056340,
-        "tms_id": "EP002070020133",
-        "rating": 7.781251,
-        "description": "The Hills take Cotton to Japan so he can apologize to the widow of a soldier he killed during WWII.",
-        "title_suggest": {
-            "input": [
-                "Returning Japanese, Pt. 1",
-                "Japanese, Pt. 1",
-                "Pt. 1",
-                "1"
-            ]
-        },
-        "type": "episode",
-        "title": "Returning Japanese, Pt. 1",
-        "expiration_date": 1506914999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1466.2315,
-        "episode_number": "21",
-        "original_air_date": 1234161000,
-        "clip_order": null,
-        "auth_launch_date": 1667448000,
-        "modified": 1667278227,
-        "media_id": "5c89fcda9d9aee3344e8c347c01eaac5b57a5567",
-        "airing_id": "RADS1010312200040982",
-        "id": "nt5FGyEKQhuPmMcFyKlmig",
-        "slug": "returning-japanese-pt-1",
-        "views": 129139,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15208903108684.jpg",
-        "created": 1402945468,
-        "title_id": "731392",
-        "season_number": "6",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1667278227,
-        "tags": [
-            "king of the hill koth episode 620 returning japanese cotton wwii apologize apology"
-        ],
-        "rating_count": 288,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506310200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208903108684.jpg",
-        "cma_id": "1480506"
     }
 ]
