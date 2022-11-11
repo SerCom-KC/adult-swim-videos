@@ -2,343 +2,230 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 11, 2022 at 00:00:40 EST_
+_Last Update: November 11, 2022 at 00:30:34 EST_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-2003422 Bob's Burgers: 2  
-629835 King of the Hill: 1  
-608360 Robot Chicken: 11  
-2165429 The Shivering Truth: 1  
-439722 The Venture Bros.: 3  
-691917 Xavier: Renegade Angel: 4  
-### 2069548
-**American Dad S12E17 - Family Plan**  
-TV-14-DLSV 🔒 21:14  
+437532 Futurama: 1  
+322328 Space Ghost Coast to Coast: 9  
+610028 The Boondocks: 14  
+2132025 The Jellies: 1  
+### 437551
+**Futurama S02E10 - Put Your Head on My Shoulder**  
+TV-PG-DL 🔒 23:20  
 ⌛ November 17, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/family-plan  
-seriesid=`581006` titleid=`2069548` id=`pGjzE7geRJu1VCwFhvFK4Q` mediaid=`f7e8cff7c8c5db9d2aee6b540c50f902e89b330d`  
-_Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes a Picker based on his obsession with American Pickers._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg" height="144px" /></a>
-### 2069552
-**American Dad S12E16 - The Bitchin' Race**  
-TV-14-DLV 🔒 21:14  
-⌛ November 17, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-bitchin-race  
-seriesid=`581006` titleid=`2069552` id=`05iJVgiuR_SKZhxuOw-INQ` mediaid=`7f8f09f5135027e7060c634e823a41cf7399c501`  
-_The family competes on the reality show The Bitchin' Race. After Stan and Hayley ditch the less-motivated Steve and Francine and team up, they end up in a Tunisian labor prison._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg" height="144px" /></a>
-### 2171450
-**Bob's Burgers S08E10 - The Secret Ceramics Room of Secrets**  
-TV-PG-L 🔒 21:36  
-⌛ November 17, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-secret-ceramics-room-of-secrets  
-seriesid=`2003422` titleid=`2171450` id=`AWd63IpKqD68dq0Op5t2` mediaid=`a8471742d545b46862416990ae4b04b7d18b95f4`  
-_When the kids are tasked with making gifts for their grandma, they search for a secret room filled with homemade ceramics. Meanwhile, Teddy starts a phone repair service and the adults become determined to improve his online rating._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154817279565119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154817279565119.jpg" height="144px" /></a>
-### 2171449
-**Bob's Burgers S08E09 - Y Tu Ga-Ga Tambien**  
-TV-PG-L 🔒 21:38  
-⌛ November 17, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/y-tu-ga-ga-tambien  
-seriesid=`2003422` titleid=`2171449` id=`AWc5IA6oAsbXwNj3wAKn` mediaid=`9534be79fec5a18dbdff964da212c2a11acea3e9`  
-_When a new playground game is introduced, the school's social hierarchy is turned upside-down and Gene disapproves. Meanwhile, Linda fills in for the local library storyteller and pulls out all the stops to perfect her storyteller persona._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15459428604178.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15459428604178.jpg" height="144px" /></a>
-### 731419
-**King of the Hill S07E05 - Dances with Dogs**  
-TV-PG-L 🔒 24:07  
-⌛ November 17, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/dances-with-dogs  
-seriesid=`629835` titleid=`731419` id=`WEC4OVOjShOSIYn3xZcRFg` mediaid=`b7db02dee6108ca8fdea2e645d703ac87d4c2bd2`  
-_Bobby and Hank become rivals in competitive dog dancing; Bill mistakenly thinks a Rottweiler would be a good dog dance partner._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214852182318.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214852182318.jpg" height="144px" /></a>
-### 2201002
-**Robot Chicken S10E06 - Boogie Bardstown in: No Need, I have Coupons**  
-TV-MA 🔒 11:18  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/boogie-bardstown-in-no-need-i-have-coupons  
-seriesid=`608360` titleid=`2201002` id=`AW2ETxC31YiBSfg0KXW_` mediaid=`df0b38e963d5a7238f153b0918226bb68725984f`  
-_The RC creators imagine what would have happened if Stretch Armstrong had lived during Medieval times. The G.I. Joe team realizes that solving real world problems aren't so easy. Gordon Ramsey gets some pretty impressive celebrity chef's._  
-<a href="https://media.cdn.adultswim.com/uploads/20191010/thumbnails/2_1910101513532-robotchicken_1006_dup-20190628.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191010/thumbnails/2_1910101513532-robotchicken_1006_dup-20190628.jpg" height="144px" /></a>
-### 2213487
-**Robot Chicken S10E15 - Buster Olive in: The Monkey Got Closer Overnight**  
-TV-14-DLSV 🔒 11:13  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/buster-olive-in-the-monkey-got-closer-overnight  
-seriesid=`608360` titleid=`2213487` id=`AXMQJj1aC8QgH-t19J1X` mediaid=`f1800521e94af222bc111868fef05d997fa441e0`  
-_Tyrion Lannister learns the true meaning of "winter is coming." Blade tries to slice his way into infomercials. Inside Out Boy goes to college. The Robot Chicken writers show what happens when Halloween meets Home Alone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200702/thumbnails/2_2072129240-robotchicken_1014_dup-20190821.jpg" height="144px" /></a>
-### 2213493
-**Robot Chicken S10E20 - Endgame**  
-TV-14-DLSV 🔒 11:12  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/endgame  
-seriesid=`608360` titleid=`2213493` id=`AXN2yutrRs3h4hI_X4YY` mediaid=`f2ed65ac0137141fe1ae57026919ddac120d2e9b`  
-_The Super, Extra-Special, One of a Kind, 200th episode spectacular! The Robot Chicken crew finally reveals everything you wanted to know about his experiment with the chicken, the chair, and the televisions._  
-<a href="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722951131-robotchicken_1020_dup-20200121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722951131-robotchicken_1020_dup-20200121.jpg" height="144px" /></a>
-### 2200999
-**Robot Chicken S10E03 - Fila Ogden in: Maggie's Got a Full Load**  
-TV-MA 🔒 11:18  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/fila-ogden-in-maggies-got-a-full-load  
-seriesid=`608360` titleid=`2200999` id=`AW2ETZjbadNs2hMNfuIm` mediaid=`b4c735f5d67efacf3398225a42da6f11836cd1ad`  
-_April O'Neil and Donald Trump sit down and get to the truth about Shredder. We get a first glimpse at the The Fast and The Furious movies. The RC Writers show us what happened to Pee Wee's Playhouse while for his stolen bicycle._  
-<a href="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031314467-robotchicken_1003_dup-20190607.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031314467-robotchicken_1003_dup-20190607.jpg" height="144px" /></a>
-### 2213489
-**Robot Chicken S10E16 - Ghandi Mulholland in: Plastic Doesn't Get Cancer**  
-TV-14-DLSV 🔒 11:09  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/ghandi-mulholland-in-plastic-doesnt-get-cancer  
-seriesid=`608360` titleid=`2213489` id=`AXMvswMwC8QgH-t19J5b` mediaid=`7b2d6e7d76ff9043db3835093c0e6f3eccd592d2`  
-_Good Will Hunting goes Goodwill Hunting. Pennywise the clown shows off some new moves. A Fortnite contractor is hired to build a house. And the RC crew reimagines the show Pete & Pete._  
-<a href="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791033258-robotchicken_1016_dup-20190906.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791033258-robotchicken_1016_dup-20190906.jpg" height="144px" /></a>
-### 2201007
-**Robot Chicken S10E01 - Ginger Hill in: Bursting Pipes**  
-TV-MA-L 🔒 11:23  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/ginger-hill-in-bursting-pipes  
-seriesid=`608360` titleid=`2201007` id=`AW1pk3rAadNs2hMNfuHG` mediaid=`34337490bef59203926b769fa8d237dda531cf64`  
-_Robot Chicken Writers tell us  what can take down the Teenage Mutant Ninja Turtles. Popeye and crew get rebooted to fit in with today's audience. And Bitch Pudding takes on the role of a Handmaid._  
-<a href="https://media.cdn.adultswim.com/uploads/20190925/thumbnails/2_199251358512-robotchicken_1001_dup-20190626.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190925/thumbnails/2_199251358512-robotchicken_1001_dup-20190626.jpg" height="144px" /></a>
-### 2213485
-**Robot Chicken S10E13 - Max Caenen in: Why Would He Know If His Mother's A Size Queen**  
-TV-MA-L 🔒 11:01  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/max-caenen-in-why-would-he-know-if-his-mothers-a-size-queen  
-seriesid=`608360` titleid=`2213485` id=`AXLruou5Rs3h4hI_X4LF` mediaid=`1df4e5293ebfe469d10c76ef31fe0064d223dd55`  
-_The Lady of the Lake gives Percival some trouble. The Robot Chicken crew shows what Dumbledore sees in the Mirror of Desire. Professor X reveals how the X-Men first discovered their powers. And Garfield gets buried in the pet cemetery._  
-<a href="https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200625/thumbnails/2_206251027103-robotchicken_1012_dup-20190805.jpg" height="144px" /></a>
-### 2201006
-**Robot Chicken S10E10 - Musya Shakhtyorov in: Honeyboogers**  
-TV-14-DLV 🔒 11:15  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/musya-shakhtyorov-in-honeyboogers  
-seriesid=`608360` titleid=`2201006` id=`AW2EUJ2badNs2hMNfuIo` mediaid=`440b0fa4310be0704221911c68d1fb2fe4bc86cf`  
-_The Squatch Squad emerges from hiding to protect their forest home. The Wuzzles meet The Fly and things get a little bit crazy. The RC writers show us Bill & Ted's last and greatest adventure._  
-<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124592-robotchicken_1010_dup-20190717.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124592-robotchicken_1010_dup-20190717.jpg" height="144px" /></a>
-### 2213488
-**Robot Chicken S10E14 - Petless M in: Cars are Couches of the Road**  
-TV-14-DLSV 🔒 11:00  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/petless-m-in-cars-are-couches-of-the-road  
-seriesid=`608360` titleid=`2213488` id=`AXLxNROaRs3h4hI_X4MJ` mediaid=`96f4646cbe006ed443bc49713a3fa923d2548df4`  
-_The RC writers imagine Harry Potter as a 70's sitcom. The future looks bleak for Nostradamus's assistant. We answer the question of what's underneath Abe Lincoln's hat. And the Jonas Brothers learn they are more than just brothers._  
-<a href="https://media.cdn.adultswim.com/uploads/20200626/thumbnails/2_206261254274-robotchicken_1015_dup-20190823.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200626/thumbnails/2_206261254274-robotchicken_1015_dup-20190823.jpg" height="144px" /></a>
-### 2213486
-**Robot Chicken S10E11 - Robot Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special**  
-TV-MA 🔒 11:14  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/robot-chickens-santas-dead-spoiler-alert-holiday-murder-thing-special  
-seriesid=`608360` titleid=`2213486` id=`AW7HdKmX1YiBSfg0KZAG` mediaid=`c5b426e30d30926ba6d070e8bb075c6278446099`  
-_The Robot Chicken Christmas Murder Mystery Special!_  
-<a href="https://media.cdn.adultswim.com/uploads/20191202/thumbnails/2_191221132100-robotchicken_1013_dup-20191025.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191202/thumbnails/2_191221132100-robotchicken_1013_dup-20191025.jpg" height="144px" /></a>
-### 2201003
-**Robot Chicken S10E07 - Snoopy Camino Lindo in: Quick and Dirty Squirrel Shot**  
-TV-14-DLSV 🔒 11:13  
-⌛ February 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/snoopy-camino-lindo-in-quick-and-dirty-squirrel-shot  
-seriesid=`608360` titleid=`2201003` id=`AW2ET5J_adNs2hMNfuIn` mediaid=`d72bd6558f89f1baf641facb818cd6d065b28d3b`  
-_The Scooby Gang saves Velma's from getting cancer. We see what really happened on board Noah's ark. The Robot Chicken Writers wonder what happens to all the toys that have ever been recalled._  
-<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_191015112466-robotchicken_1007_dup-20190712.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_191015112466-robotchicken_1007_dup-20190712.jpg" height="144px" /></a>
-### 2172250
-**The Shivering Truth S01E04 - ConstaDeath**  
-TV-MA-V 🔓 11:16  
+https://www.adultswim.com/videos/futurama/put-your-head-on-my-shoulder  
+seriesid=`437532` titleid=`437551` id=`AX61_XzD208s7zyYUL95` mediaid=`ccaafe0a4cff728e0c7a50ed436a5d90c23a9a56`  
+_Fry gets the unexpected when he and Amy spend St. Valentine's Day together._  
+<a href="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_2224145640-Futurama_019_PutYourHeadOnMyShoulder.png"><img src="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_2224145640-Futurama_019_PutYourHeadOnMyShoulder.png" height="144px" /></a>
+### 322330
+**Space Ghost Coast to Coast S04E04 - Anniversary**  
+TV-PG 🔒 10:46  
+⌛ December 6, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/anniversary  
+seriesid=`322328` titleid=`322330` id=`oFUdDn-rRqq3wjM-TmHlKw` mediaid=`22e16543fbb5dca5ccdf9cf6862981ab443ad23a`  
+_Space Ghost marks a "special notch in the belt that is the Space Ghost saga" with returning guests Bobcat Goldthwait and Judy Tenuda. The show also includes special appearances by villian-turned-announcer Tansut and the evil Chad Ghostal, as well as a spectacular career retrospective montage compiled by Moltar._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417105349-sgc2c_9704_air_cid-9118535.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417105349-sgc2c_9704_air_cid-9118535.jpg" height="144px" /></a>
+### 322349
+**Space Ghost Coast to Coast S04E12 - Boo Boo Kitty**  
+TV-PG 🔒 10:41  
+⌛ January 3, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/boo-boo-kitty  
+seriesid=`322328` titleid=`322349` id=`UPTYIR11Q6WoyCRU8amDOw` mediaid=`c6be66c5ba8f016190c62e0d4ef84f937acd60c3`  
+_Self-heralded "comedy ghetto" resident Michael McKean barely gets a word in with Space Ghost, and David Lander suffers a similar fate. The reason? Zorak and Space Ghost's roommate tiff spilling over into the show. In addition, a menacing "kitty" blimp hovers around Ghost Planet._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201131579-sgc2c_9712_air_cid-9266088.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201131579-sgc2c_9712_air_cid-9266088.jpg" height="144px" /></a>
+### 322354
+**Space Ghost Coast to Coast S04E02 - Gallagher**  
+TV-PG 🔒 11:10  
+⌛ December 5, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/gallagher  
+seriesid=`322328` titleid=`322354` id=`Ur4HJYeFQiKNXPDuS1FIoA` mediaid=`c94aa8c8a9d45efaab75f39a4482d94e4e3d078e`  
+_Space Ghost introduces "Space Time Quiz Fun 9000" and his "contestants," comedians David Cross and Bob Odenkirk of HBO's "Mr. Show." What follows is a rapid-fire conversation in more ways than one, as Odenkirk's growing addiction to power-band blasts results in a steady volley from Space Ghost._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417103344-sgc2c_9702.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417103344-sgc2c_9702.jpg" height="144px" /></a>
+### 322344
+**Space Ghost Coast to Coast S04E18 - Piledriver**  
+TV-PG 🔒 10:32  
+⌛ January 17, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/piledriver  
+seriesid=`322328` titleid=`322344` id=`AHVmtcYwRxeQQXC0SQndIQ` mediaid=`3a79d317719736a471c0368e39c19aeb94ea0241`  
+_Grandpa Space Ghost, whose physique is identical to his grandson's and whose voice is identical to WCW wrestler "Macho Man" Randy Savage, gives an "OOOO-YEEAAAHHH!" performance despite being clubbed with a chair by Zorak. Grandpa Ghostal interviews kid actress Raven Symone._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420113803-sgc2c_9718.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420113803-sgc2c_9718.jpg" height="144px" /></a>
+### 322341
+**Space Ghost Coast to Coast S04E06 - Pilot**  
+TV-PG 🔒 10:43  
+⌛ December 20, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/pilot  
+seriesid=`322328` titleid=`322341` id=`6lPxT9CaSNWu00olRAiaBQ` mediaid=`3acb33e58a50920d5472e4195358a5f27016a7d1`  
+_After revealing that contractual squabbles before the premiere of "Space Ghost Coast to Coast" resulted in an aborted test shoot starring rival superhero Birdman, host Lokar presents exclusive glimpses of this "lost" pilot._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171016152-sgc2c_9706_air_cid-9127473.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171016152-sgc2c_9706_air_cid-9127473.jpg" height="144px" /></a>
+### 322343
+**Space Ghost Coast to Coast S04E01 - Rehearsal**  
+TV-PG 🔒 11:30  
+⌛ November 28, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/rehearsal  
+seriesid=`322328` titleid=`322343` id=`_uYBlpLdTBC7tPFqNQPvlw` mediaid=`3e357754471f0872fb85fe845eaf1f2fb0d05ea5`  
+_This flashback episode transports viewers to a dress rehearsal two days before the premiere of "Space Ghost Coast to Coast" in April 1994. Offering a rare glimpse behind the scenes, "Rehearsal" features Space Ghost, Moltar and Zorak flubbing familiar gags, missing cues and mistiming special effects._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041710308-sgc2c_9701_air_cid-9268241.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041710308-sgc2c_9701_air_cid-9268241.jpg" height="144px" /></a>
+### 322338
+**Space Ghost Coast to Coast S04E14 - Sphinx**  
+TV-PG 🔒 11:15  
+⌛ January 10, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/sphinx  
+seriesid=`322328` titleid=`322338` id=`qI9WrMu-SmOL7_usY2P_7w` mediaid=`44175c79d87b23e2b1142a95d35703a97b04a8aa`  
+_"Beavis and Butthead" and "King of the Hill" creator Mike Judge kindly asks Space Ghost to "whack the Rugrats." Space Ghost agrees to the job, as long as he can get onto one of Judge's shows. Harland Williams doesn't last long after calling Space Ghost "Billy" and "Naughty Space Ghost."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201132443-sgc2c_9714_air_cid-9268247.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201132443-sgc2c_9714_air_cid-9268247.jpg" height="144px" /></a>
+### 322329
+**Space Ghost Coast to Coast S04E19 - Suckup**  
+TV-PG 🔒 11:52  
+⌛ January 24, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/suckup  
+seriesid=`322328` titleid=`322329` id=`6Q4q9jrQTdqM-8UXLBAJmQ` mediaid=`a452865d62ea61ad07b7b718b518975b90b1d932`  
+_Desperate for a new gig, Space Ghost kisses up to "Talk Soup" host John Henson and "Entertainment Tonight" host Bob Goen by telling each that they are "pretty men." Space Ghost even offers to set Henson up with his "sister" Judy. Brak spoils the affair by spilling gravy all over the set._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg" height="144px" /></a>
+### 322352
+**Space Ghost Coast to Coast S04E08 - Zorak**  
+TV-PG 🔒 16:06  
+⌛ December 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/zorak  
+seriesid=`322328` titleid=`322352` id=`NXSAyB_6QtWs73iO0ovS0A` mediaid=`8cc95884b68c5558afe5713b5da90d4f3f328fb1`  
+_Space Ghost presents a special tribute to Zorak. Dr. Maxcy Nolan, professor of entomology at the University of Georgia, speculates that the bandleader may be hiding an extra set of legs under his vest. Exterminator Steve Arnold, meanwhile, reveals that he says "Take this!" before going after insects._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417101797-sgc2c_9708_air_cid-9127469.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417101797-sgc2c_9708_air_cid-9127469.jpg" height="144px" /></a>
+### 682880
+**The Boondocks S02E01 - ...Or Die Trying**  
+TV-MA 🔒 20:40  
+⌛ November 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/or-die-trying  
+seriesid=`610028` titleid=`682880` id=`EVdZs9TKRpOywQhXheVftQ` mediaid=`8f31d8d05395eb5362a85ddcf9683514f6a43778`  
+_Granddad forces the kids to sneak into the long awaited sequel for Soul Plane 2. What follows is bootlegging, nunchucks, and twenty dollar popcorn - everything a day at the movies should be._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032112637-boondocks_205.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032112637-boondocks_205.jpg" height="144px" /></a>
+### 682882
+**The Boondocks S02E06 - Attack of the Killer Kung Fu Wolf Bitch**  
+TV-MA 🔒 21:28  
+⌛ December 4, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/attack-of-the-killer-kung-fu-wolf-bitch  
+seriesid=`610028` titleid=`682882` id=`z61jRSe_SEikIsxjZGzxpA` mediaid=`824352ca383fdba3e4e736fc7212b80938d4aa80`  
+_Granddad invites a total stranger to the house for the weekend and has the nerve to act surprised when she turns out to be completely insane._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321127426-boondocks_207.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321127426-boondocks_207.jpg" height="144px" /></a>
+### 682884
+**The Boondocks S02E08 - Ballin'**  
+TV-MA 🔒 20:28  
+⌛ December 4, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/ballin  
+seriesid=`610028` titleid=`682884` id=`Ckgo4etQTqeRYBUhPu0iaA` mediaid=`924baec944b0ef8f22bdcbb26d597594e9093a6e`  
+_Riley joins Tom's little league basketball team and learns there's more to the game than flashy moves... there's crushing, humiliating defeat._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113141-boondocks_209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113141-boondocks_209.jpg" height="144px" /></a>
+### 683094
+**The Boondocks S02E10 - Home Alone**  
+TV-MA 🔒 20:26  
+⌛ December 4, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/home-alone  
+seriesid=`610028` titleid=`683094` id=`D76q1kxySgGCKvAfZg2j1A` mediaid=`4e9bbd32f2f90a335d13414af421a665844f1406`  
+_When Granddad takes a much needed vacation from the boys, Huey takes control of the house but has to contend with a vicious insurgency from Riley._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321131469-boondocks_214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321131469-boondocks_214.jpg" height="144px" /></a>
+### 682883
+**The Boondocks S02E07 - Shinin'**  
+TV-MA 🔒 21:14  
+⌛ December 4, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/shinin  
+seriesid=`610028` titleid=`682883` id=`L0ruWjkoQte_jpeN1v3sSw` mediaid=`bbfc74f90af8e55195fa97876dc1bf6ea79a83d6`  
+_Riley finally gets what he's always wanted - a platinum and diamond chain - only to have it snatched by the local bully. Afraid of disappointing his new crew, Riley will stop a nothing to recover his chain and rep._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321130467-boondocks_208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321130467-boondocks_208.jpg" height="144px" /></a>
+### 682876
+**The Boondocks S02E04 - Stinkmeaner Strikes Back**  
+TV-MA 🔒 20:59  
+⌛ November 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/stinkmeaner-strikes-back  
+seriesid=`610028` titleid=`682876` id=`UTQ062nxRmCm9sYNMhb0Tg` mediaid=`bdf2bbf9993e8d3d2d874af75f3d5e334f3eac72`  
+_Granddad's nemesis, Colonel H. Stinkmeaner, returns from hell to seek vengence on the Freemans and picks an unlikely vessel in poor Tom._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321126597-boondocks_201.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321126597-boondocks_201.jpg" height="144px" /></a>
+### 682878
+**The Boondocks S02E03 - Thank You For Not Snitching**  
+TV-MA 🔒 19:08  
+⌛ November 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/thank-you-for-not-snitching  
+seriesid=`610028` titleid=`682878` id=`rw5cPS_-QjSYu_lmBsUwMw` mediaid=`c36ffb0e75844cb22db1371383a33b4f0f4e863e`  
+_A rash of home invasions has Woodcrest in a panic and the neighborhood watch on high alert. The Freemans are all too eager to mind their own business. But when Riley witnesses the theft of Granddad's precious car Dorothy, will he crack under questioning?  We're not telling._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321126403-boondocks_203.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321126403-boondocks_203.jpg" height="144px" /></a>
+### 683091
+**The Boondocks S02E09 - The Invasion of the Katrinas**  
+TV-MA 🔒 21:28  
+⌛ December 4, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/the-invasion-of-the-katrinas  
+seriesid=`610028` titleid=`683091` id=`36vwFiAgRZC1DYfBeCTw2A` mediaid=`54625c3934219866f68b5d3f8242d4ce1e294bb2`  
+_When family displaced by hurricane Katrina show up looking for a place to stay, Granddad does what anyone would do - try to find a way to get rid of them as quickly as possible._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321131243-boondocks_212.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321131243-boondocks_212.jpg" height="144px" /></a>
+### 683093
+**The Boondocks S02E11 - The S-Word**  
+TV-MA 🔒 22:14  
+⌛ December 11, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/the-s-word  
+seriesid=`610028` titleid=`683093` id=`if9tjmHETlmkYPFb-X1Jmg` mediaid=`a0faa0f97e0bca2cb772a594855c863d7a6bf519`  
+_Granddad and the good Rev. Rolo Goodlove try to cash in big after a teacher calls Riley 'the n-word' in school._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113299-boondocks_213.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113299-boondocks_213.jpg" height="144px" /></a>
+### 683089
+**The Boondocks S02E12 - The Story of Catcher Freeman**  
+TV-MA 🔒 21:14  
+⌛ December 11, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/the-story-of-catcher-freeman  
+seriesid=`610028` titleid=`683089` id=`mhnO2eHRQgW_kIiiosDhwg` mediaid=`52222c08eace9cfa0abd4a952f7b778f3207a67a`  
+_Three very different versions of a slave revolt led by Huey and Riley's great great great great great great grandparents. Who says the 1860's couldn't be fun?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321132307-boondocks_211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321132307-boondocks_211.jpg" height="144px" /></a>
+### 683096
+**The Boondocks S02E13 - The Story of Gangstalicious, Part 2**  
+TV-MA 🔒 21:45  
+⌛ December 11, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/the-story-of-gangstalicious-part-2  
+seriesid=`610028` titleid=`683096` id=`zE2cixcvQdycaQrG6S3lfg` mediaid=`a7898683a640550a1841e3e4d3b5524a387012d4`  
+_Gangstalicious is back with a new hit song, a new clothing line, but the same old secret. Gayness ensues._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321133301-boondocks_215.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321133301-boondocks_215.jpg" height="144px" /></a>
+### 682879
+**The Boondocks S02E05 - The Story of Thugnificent**  
+TV-MA 🔒 21:47  
+⌛ November 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/the-story-of-thugnificent  
+seriesid=`610028` titleid=`682879` id=`xd__dK-cSwGeT68oLcmB0A` mediaid=`f0fb222153b08fff6b54d1f8b0c06e5fb7546f91`  
+_A superstar rap group moves in across the street and records a diss record about Granddad after a neighborly disagreement escalates into full blown rap beef._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321127198-boondocks_204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321127198-boondocks_204.jpg" height="144px" /></a>
+### 682885
+**The Boondocks S02E15 - The Uncle Ruckus Reality Show**  
+TV-MA-L 🔒 21:30  
+⌛ December 11, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/the-uncle-ruckus-reality-show  
+seriesid=`610028` titleid=`682885` id=`AW-vm3LBGRcVO2K2pmHN` mediaid=`c42ef7bef0e54984a58d9c125fc03ff560e482a6`  
+_A BET reality show forces racist handyman Uncle Ruckus to accept the truth about his own blackness. The show and man begin to quickly fall apart._  
+<a href="https://media.cdn.adultswim.com/uploads/20200729/thumbnails/2_207291422532-boondocks_210.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200729/thumbnails/2_207291422532-boondocks_210.jpg" height="144px" /></a>
+### 682877
+**The Boondocks S02E02 - Tom, Sarah and Usher**  
+TV-MA 🔒 21:02  
+⌛ November 27, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-boondocks/tom-sarah-and-usher  
+seriesid=`610028` titleid=`682877` id=`zuHUznwGSEaDjXrxiGWA9A` mediaid=`e2bbd74ca0ecb9ba1659598c6ac3732a58156ea4`  
+_After a chance meeting with Usher at a restaurant puts a strain on Tom and Sarah's marriage, Tom turns to A Pimp Named Slickback to help rescue his relationship._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321126211-boondocks_202.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321126211-boondocks_202.jpg" height="144px" /></a>
+### 2132033
+**The Jellies S01E08 - Trial of the Century**  
+TV-14-L 🔓 11:16  
 ⌛ December 15, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-shivering-truth/consta-death  
-seriesid=`2165429` titleid=`2172250` id=`AWeE-I91AsbXwNj3wAaA` mediaid=`df27ea0f422a6f3f599dd79252ee22378dc2d337`  
-_Die once, shame on you.  Die once every three seconds, shame on us all._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg" height="144px" /></a>
-### 2002555
-**The Venture Bros. S05E08 - Bot Seeks Bot**  
-TV-14-DLV 🔒 22:35  
-⌛ December 14, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/bot-seeks-bot  
-seriesid=`439722` titleid=`2002555` id=`GaywoS0hQJK6OSJ4B3R46A` mediaid=`237b8620587aa55c9b40d8330b358e665817f481`  
-_Brock and the O.S.I. launch a bold and bizarre surveillance mission against one of the Council of 13's top members. But the mission takes a turn for the worse when Doc and Billy get caught up in the super-villain crossfire._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161412349-venture_505_dup_20130709.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161412349-venture_505_dup_20130709.jpg" height="144px" /></a>
-### 2024903
-**The Venture Bros. S06E04 - Faking Miracles**  
-TV-14-DLSV 🔓 22:33  
-⌛ December 14, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/faking-miracles  
-seriesid=`439722` titleid=`2024903` id=`-0iiQ9T1R-CScjGTBZuUIA` mediaid=`297bf02b5de9bb660f11b0474d55f9ef50df1494`  
-_Doc discovers a mysterious invention that could make or break Dean’s chances of getting into college, while The Monarch makes a bad first impression on Dr. Mrs. The Monarch’s co-workers._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414595-venture_605_dup_20151124.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414595-venture_605_dup_20151124.jpg" height="144px" /></a>
-### 2002550
-**The Venture Bros. S05E03 - Venture Libre**  
-TV-14-LV 🔒 22:34  
-⌛ February 8, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/venture-libre  
-seriesid=`439722` titleid=`2002550` id=`jqPmorOGRqGtdZsDQ9XbXw` mediaid=`6456bccaeabb4bd08fe74795d6bd472ed6de8fb1`  
-_One of Dr. Venture's old inventions seems to have gotten a mind of its own, so General Manhowers sends him to Central America to fix it. The Ventures must all confront their own hearts of darkness if they're to survive what's waiting for them in the jungle._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411127-venture_501_dup_20130508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411127-venture_501_dup_20130508.jpg" height="144px" /></a>
-### 747215
-**Xavier: Renegade Angel S02E05 - Haunted Tonk**  
-TV-MA 🔒 11:29  
-⌛ January 26, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/xavier-renegade-angel/haunted-tonk  
-seriesid=`691917` titleid=`747215` id=`WAXjkUdlSQ-tkYCHuhWaxA` mediaid=`7b24c878c452f9670d484a44469bb5cf0e2522b3`  
-_Xavier returns to the scene of the crime, his childhood._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141731502-xavier_205.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141731502-xavier_205.jpg" height="144px" /></a>
-### 747211
-**Xavier: Renegade Angel S02E01 - Vibracaust**  
-TV-MA 🔒 11:29  
-⌛ January 5, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/xavier-renegade-angel/vibracaust  
-seriesid=`691917` titleid=`747211` id=`cAwcz4LAQ5qIWFX0C_y8Ig` mediaid=`382b31ec9cd207f4270bb0edb4c3636765f567a3`  
-_Xavier's sacred mantra brings solace to a sad, pathetic pill popping soul-- his own._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730217-xavier_201.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730217-xavier_201.jpg" height="144px" /></a>
-### 693198
-**Xavier: Renegade Angel S01E03 - Weapons Grade Life**  
-TV-MA 🔓 11:33  
-⌛ December 15, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/xavier-renegade-angel/weapons-grade-life  
-seriesid=`691917` titleid=`693198` id=`NjEAL7whSdGWegQ38g46yQ` mediaid=`4d095a44cdf4b307e9355a4d7bb84c57aca77872`  
-_Xavier comes to the rescue of a curious youngster who gets in over his heart trying to impress his father. Things nearly blowup in their faces, but Xavier employs some quick think and tasty treats to avert catastrophe._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114172893-xavier_103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114172893-xavier_103.jpg" height="144px" /></a>
-### 747212
-**Xavier: Renegade Angel S02E02 - Xavier's Maneuver**  
-TV-MA 🔒 11:26  
-⌛ January 12, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/xavier-renegade-angel/xaviers-maneuver  
-seriesid=`691917` titleid=`747212` id=`Bxz_WXplRY6N1bXToRDR3A` mediaid=`80c6abae6aaa2d294ae85492a293d265322d41a3`  
-_Xavier unleashes his revolutionary lifesaving maneuver all up on those who find theyselfs in need of his protection._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730588-xavier_202.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730588-xavier_202.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-jellies/trial-of-the-century  
+seriesid=`2132025` titleid=`2132033` id=`JiRXBcJ-Sqq0QC6OZr2bsA` mediaid=`59eb9385752a0ec33987e4933cd837984cdfd7e0`  
+_Two hip hop artists face off in a historic court case in civil court._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130122078113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130122078113.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-2143080 Black Clover: 1  
-2165429 The Shivering Truth: 1  
-547867 Tom Goes To The Mayor: 1  
-581006 American Dad: 2  
-608360 Robot Chicken: 7  
-629835 King of the Hill: 1  
-691917 Xavier: Renegade Angel: 1  
-### 2132988
-**Bob's Burgers S07E17 - Paraders of the Lost Float**  
-TV-PG-L 🔒 21:27  
+437532 Futurama: 1  
+798427 Check It Out! with Dr. Steve Brule: 1  
+### 437546
+**Futurama S02E05 - I Second That Emotion**  
+TV-PG-L 🔒 23:21  
 ⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/paraders-of-the-lost-float  
-seriesid=`2003422` titleid=`2132988` id=`AWDc4Ex_Z-onAnjDLt6_` mediaid=`45cfc2526dd3d321da486c669ef6e6aecbf844e2`  
-_When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg" height="144px" /></a>
-### 2132989
-**Bob's Burgers S07E18 - Into the Mild**  
-TV-PG-L 🔒 21:45  
+https://www.adultswim.com/videos/futurama/i-second-that-emotion  
+seriesid=`437532` titleid=`437546` id=`AX5F-2CI208s7zyYUL9k` mediaid=`e59baa1000d8d29c3bde69a671cc45ceed8247e4`  
+_Professor Farnsworth installs an empathy chip in Bender._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png" height="144px" /></a>
+### 887731
+**Check It Out! with Dr. Steve Brule S02E04 - Space**  
+TV-14-DS 🔒 11:16  
 ⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/into-the-mild  
-seriesid=`2003422` titleid=`2132989` id=`AWDc4J6jZ-onAnjDLt7A` mediaid=`a6fa6d914eab78ab23f8009606f9880ec252ba8e`  
-_When Bob finds out that the local outdoor adventure store is having a going out of business sale, he decides to finally realize his dream of becoming an outdoorsman._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151784511773910.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151784511773910.jpg" height="144px" /></a>
-### 2219229
-**Black Clover S03E10 - Humans Who Can Be Trusted**  
-TV-PG-L 🔒 21:22  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/humans-who-can-be-trusted  
-seriesid=`2143080` titleid=`2219229` id=`AXFAjI36Rs3h4hI_X2x1` mediaid=`18dccb6d51411e6e325aec3f2d741a2ede84be5a`  
-_Luck and friends enlist an unusual ally in their fight against the elvish Dorothy Unsworth. Droit recalls the humans' atrocities against his people._  
-<a href="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg" height="144px" /></a>
-### 2222975
-**The Shivering Truth S02E01 - The Burn Earner Spits**  
-TV-MA-SV 🔒 11:15  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-shivering-truth/the-burn-earner-spits  
-seriesid=`2165429` titleid=`2222975` id=`AXHCd56rC8QgH-t19Ig-` mediaid=`9027ef60915070ddaf91651b3ecb146d2098ad02`  
-_Using an emotiomoral X-ray device we provide a detailed history of these United States, starting from May of 1951 all the way up until tomorrow at 3:30._  
-<a href="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561048511-TheShiveringTruth_201_dup-20200207.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561048511-TheShiveringTruth_201_dup-20200207.jpg" height="144px" /></a>
-### 607110
-**Tom Goes To The Mayor S01E05 - Toodle Day**  
-TV-PG-S 🔒 11:37  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/toodle-day  
-seriesid=`547867` titleid=`607110` id=`CcgkwbHOTTmWaIb3Pjdj7A` mediaid=`36151c8460cbcfdc7da7d9b7e0aee503a3f5183b`  
-_At the request of the Mayor, Tom marries all the dogs in Jefferton. Jeff Goldblum guest stars as a pet store owner._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835486-tgttm_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835486-tgttm_005.jpg" height="144px" /></a>
-### 2069534
-**American Dad S12E03 - The Enlightenment of Ragi-Baba**  
-TV-14 🔒 21:15  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-enlightenment-of-ragi-baba  
-seriesid=`581006` titleid=`2069534` id=`Pio80KFJQd6SVdNWrk5VgA` mediaid=`8f30856332334da136247b93b0b70d05b6cd7cfc`  
-_Hayley takes Roger with her to a meditation center and he quickly takes over, becoming one of the world's leading authorities on meditation. Stan and Steve become apprentices as they are taught the art of making sushi._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg" height="144px" /></a>
-### 2069535
-**American Dad S12E04 - Portrait of Francine's Genitals**  
-TV-14 🔒 21:13  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/portrait-of-francines-genitals  
-seriesid=`581006` titleid=`2069535` id=`hdcVKrFvQty4nyJhGa7MxQ` mediaid=`11ace947a1678de01b3f446f06c28a4e33a58a9a`  
-_Stan is embarrassed when a painting of Francine's genitals, done by a famous artist, is unveiled at the museum. Steve turns to helping people after masturbation is ruined by his mom's portrait._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752459586316.jpg" height="144px" /></a>
-### 2201008
-**Robot Chicken S10E02 - Bugs Keith in: I Can't Call Heaven, Doug**  
-TV-MA 🔒 10:49  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/bugs-keith-in-i-cant-call-heaven-doug  
-seriesid=`608360` titleid=`2201008` id=`AW1uzwmVadNs2hMNfuHt` mediaid=`db7a2eb1f5326944fd04164023ca2c3715544b0d`  
-_The Robot Chicken crew shows us what events made Harold start drawing with his purple crayon. Jerry Seinfeld and The Joker have a very explosive chat in Jerry's car. Miss Frizzle jumps on board the Fortnite Battle Bus and rides into battle._  
-<a href="https://media.cdn.adultswim.com/uploads/20190926/thumbnails/2_19926167478-robotchicken_1002_dup-20190725.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190926/thumbnails/2_19926167478-robotchicken_1002_dup-20190725.jpg" height="144px" /></a>
-### 2201004
-**Robot Chicken S10E08 - Molly Lucero in: Your Friend's Boob**  
-TV-14-DLSV 🔒 11:15  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/molly-lucero-in-your-friends-boob  
-seriesid=`608360` titleid=`2201004` id=`AW2EUAs81YiBSfg0KXXA` mediaid=`257563cb226ddc224e97327f4d4cb231a9310f2d`  
-_Betty Spaghetty tries her best to save an elevator full of people. RC finds out what goes on behind Bert and Ernie's closed bedroom doors. Godzilla: The Musical comes to a Broadway theatre and brings the house down._  
-<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg" height="144px" /></a>
-### 2201005
-**Robot Chicken S10E09 - Spike Fraser in: Should I Happen to Back into a Horse**  
-TV-MA 🔒 11:01  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/spike-fraser-in-should-i-happen-to-back-into-a-horse  
-seriesid=`608360` titleid=`2201005` id=`AW2EUFg81YiBSfg0KXXB` mediaid=`6ace415efda1faba6f7398bd4cc02c9debe0dd6b`  
-_The Robot Chicken crew reveals what really happened to Bambi's mother. An Animorph revives the Red Panda population. See what happens after Brainy Smurf gets diagnosed with CTE. And Bitch Pudding goes up against Norman Bates._  
-<a href="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124430-robotchicken_1009_dup-20190801.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124430-robotchicken_1009_dup-20190801.jpg" height="144px" /></a>
-### 2213484
-**Robot Chicken S10E12 - Callie Greenhouse in: Fun. Sad. Epic. Tragic.**  
-TV-MA 🔒 11:14  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/callie-greenhouse-in-fun-sad-epic-tragic  
-seriesid=`608360` titleid=`2213484` id=`AXLmxP2lC8QgH-t19Jw3` mediaid=`f8e039e390a87589a48f52b1cb52e99f38625acd`  
-_Batman makes an addition to his costume. Ride along with the Westeros, P.D. and see how they solve crimes. And the RC crew puts Bitch Pudding on Love Island to see what kind of match she will find._  
-<a href="https://media.cdn.adultswim.com/uploads/20200624/thumbnails/2_206241041227-robotchicken_1011_dup-20190812.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200624/thumbnails/2_206241041227-robotchicken_1011_dup-20190812.jpg" height="144px" /></a>
-### 2213490
-**Robot Chicken S10E17 - Gracie Purgatory in: That's How You Get Hemorrhoids**  
-TV-MA-L 🔒 11:14  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/gracie-purgatory-in-thats-how-you-get-hemorrhoids  
-seriesid=`608360` titleid=`2213490` id=`AXMvswKDC8QgH-t19J5a` mediaid=`3d8dd90f608d6f9fe03cb78e152ecde5f7e85237`  
-_We learn what Squidward is up to after his role on Spongebob ends. Uber has a new ride share system. Broadway will never be the same after Venom joins the cast of Hamilton. Pink Panther challenges The Black Panther for the throne._  
-<a href="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791032589-robotchicken_1017_dup-20190903.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200709/thumbnails/2_20791032589-robotchicken_1017_dup-20190903.jpg" height="144px" /></a>
-### 2213492
-**Robot Chicken S10E19 - Babe Hollytree in: I Wish One Person Had Died**  
-TV-MA 🔒 10:56  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/babe-hollytree-in-i-wish-one-person-had-died  
-seriesid=`608360` titleid=`2213492` id=`AXN2yoH5C8QgH-t19KEA` mediaid=`2c8a6085f02f804774074b4357ffa49146f1fffc`  
-_The Pomsie's have come to take over our world! The kids at Hogwarts get to see each others' true fears. The RC gang puts a new twist on Old Yeller. We learn that Alexa never stops listening and that can only lead to one thing..._  
-<a href="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg" height="144px" /></a>
-### 2213491
-**Robot Chicken S10E18 - Sundancer Craig in: 30% of the Way to Crying**  
-TV-MA 🔒 11:14  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/sundancer-craig-in-30-of-the-way-to-crying  
-seriesid=`608360` titleid=`2213491` id=`AXNYfYPxRs3h4hI_X4UI` mediaid=`464a343ddc46ac71eaed3dec6e38f2befb075822`  
-_Rita Repulsa finally figures out a way to take down The Power Rangers. We get to see Freddy Krueger's worst nightmare. The Robot Chicken crew reveals the monster from Bird Box. We get to see a different viewpoint from the movie Predator._  
-<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171710112-robotchicken_1018_dup-20190919.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171710112-robotchicken_1018_dup-20190919.jpg" height="144px" /></a>
-### 731395
-**King of the Hill S06E22 - Returning Japanese, Pt. 2**  
-TV-PG-DL 🔒 24:22  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/returning-japanese-pt-2  
-seriesid=`629835` titleid=`731395` id=`Mm1iTxntQRe2Dk5jvvPPlw` mediaid=`f88d534ca0f8d9dc44b532617a235cbc4859073d`  
-_Cotton runs amuck in Tokyo when rejected by his newly found Japanese son._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208903510746.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208903510746.jpg" height="144px" /></a>
-### 747214
-**Xavier: Renegade Angel S02E04 - El Tornadador**  
-TV-MA-V 🔒 11:29  
-⌛ November 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/xavier-renegade-angel/el-tornadador  
-seriesid=`691917` titleid=`747214` id=`iRLIvVmAReG-e75jujyrbA` mediaid=`e80d63c741de8df510c52faef1c1d2b8b31d9121`  
-_When Xavier sets him sights on friendship, the Energy Crisis won't know what hit it in the face._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141731354-xavier_204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141731354-xavier_204.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/space  
+seriesid=`798427` titleid=`887731` id=`vt2TyC8QQZyfvMUA98CR0A` mediaid=`db4dc1a3efeaea697646e2023586accb3bf2c7ba`  
+_Dr. Steve learns about the universe. Movie Reviews with Terry Bruge-Hiplo. Guest Starring Tim Heidecker and Eric Wareheim._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_203216155-checkitout_204_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_203216155-checkitout_204_bim.jpg" height="144px" /></a>
