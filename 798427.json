@@ -101,7 +101,7 @@
         "cma_id": "1410930"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1466857800,
         "auth_expiration_date": 1668142740,
         "tms_id": "EP012636510020",
@@ -685,7 +685,7 @@
         "cma_id": "1476931"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445373480,
         "auth_expiration_date": 1680235140,
         "tms_id": "EP012636510015",
@@ -1088,57 +1088,6 @@
         "launch_date": 1654833600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032162143-checkitout_405_dup-20160322.jpg",
         "cma_id": "2087967"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1445372520,
-        "auth_expiration_date": 1668142740,
-        "tms_id": "EP012636510010",
-        "rating": 7.8685164,
-        "description": "Dr. Steve learns about the universe. Movie Reviews with Terry Bruge-Hiplo. Guest Starring Tim Heidecker and Eric Wareheim.",
-        "title_suggest": {
-            "input": [
-                "Space"
-            ]
-        },
-        "type": "episode",
-        "title": "Space",
-        "expiration_date": 1665115140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "qRGWFcDjQv2t5Pb9x17sKA",
-        "duration": 676.4671338,
-        "episode_number": "4",
-        "original_air_date": 1333945800,
-        "clip_order": null,
-        "auth_launch_date": 1665115200,
-        "modified": 1664696492,
-        "media_id": "db4dc1a3efeaea697646e2023586accb3bf2c7ba",
-        "airing_id": "RADS1008292200023839",
-        "id": "vt2TyC8QQZyfvMUA98CR0A",
-        "slug": "space",
-        "views": 169186,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_203216155-checkitout_204_bim.jpg",
-        "created": 1402945462,
-        "title_id": "887731",
-        "season_number": "2",
-        "tv_rating": "tv-14-ds",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1664696492,
-        "tags": [],
-        "rating_count": 829,
-        "collection_title": "Check It Out! with Dr. Steve Brule",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1662091200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_203216155-checkitout_204_bim.jpg",
-        "cma_id": "1444146"
     },
     {
         "auth": true,
