@@ -2889,6 +2889,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1668315540,
+        "tms_id": "",
+        "description": "Asta is in a deep sleep as a contingent of Black Bulls searches for the kidnapped Marie and Secre. Julius offers both a promising lead and a warning.",
+        "title_suggest": {
+            "input": [
+                "The Tilted Scale",
+                "Tilted Scale",
+                "Scale"
+            ]
+        },
+        "title": "The Tilted Scale",
+        "expiration_date": 1669525140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AV-7K77EZ-onAnjDLtBM",
+        "duration": 1280.2456,
+        "episode_number": "41",
+        "original_air_date": null,
+        "auth_launch_date": 1644296400,
+        "clip_order": null,
+        "airing_id": "RADS1011112200044195",
+        "media_id": "2ff2ce87f4a1a8ca0a41b4a5222d6f93c4602a47",
+        "modified": 1668149714,
+        "slug": "the-tilted-scale",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210202/thumbnails/1_21221130556-BlackClover_143_dup-20210122_TiltedScale.jpg",
+        "created": 1612283475,
+        "season_number": "3",
+        "title_id": "2238511",
+        "tv_rating": "tv-pg-l",
+        "published": 1668149714,
+        "tags": [],
+        "collection_title": "Black Clover",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1668315600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210202/thumbnails/2_21221130556-BlackClover_143_dup-20210122_TiltedScale.jpg",
+        "id": "AXdjlXTqQJ_4Uej5kTpl",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1669525140,
         "tms_id": "",
         "description": "Marie and Secre face execution in the public square for their purported dealings with the devil. The Magic Knights spring into action to rescue them.",
