@@ -50,61 +50,6 @@
         "cma_id": "1483205"
     },
     {
-        "auth": false,
-        "auth_expiration_date": 1668315540,
-        "tms_id": "EP002070020134",
-        "rating": 8.594916,
-        "description": "A cute groupie convinces Bill to enter a hot dog eating contest that pits him against a Laotian champion.",
-        "title_suggest": {
-            "input": [
-                "The Fat and the Furious",
-                "Fat and the Furious",
-                "and the Furious",
-                "the Furious",
-                "Furious"
-            ]
-        },
-        "type": "episode",
-        "title": "The Fat and the Furious",
-        "expiration_date": 1507087799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1450.1487,
-        "episode_number": "2",
-        "original_air_date": 1234236600,
-        "auth_launch_date": 1667707200,
-        "modified": 1667489660,
-        "media_id": "0724c00f37ae1c448cbd0a687072579dbac27c18",
-        "airing_id": "RADS1011032200042480",
-        "id": "I3VxRkYZS8mVMKwC8SCPZg",
-        "slug": "the-fat-and-the-furious",
-        "views": 354085,
-        "created": 1402945468,
-        "title_id": "731401",
-        "season_number": "7",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1667489660,
-        "tags": [
-            "the fat and the furious",
-            " groupie",
-            " bill",
-            " hot dog",
-            " contest",
-            " laotian",
-            " champion"
-        ],
-        "rating_count": 590,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506483000,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_5194115732514835363.jpg",
-        "cma_id": "1481228"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1668574740,
@@ -220,6 +165,66 @@
         "launch_date": 1506742200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214852182318.jpg",
         "cma_id": "1483558"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1668920340,
+        "tms_id": "EP002070020138",
+        "rating": 8.507773,
+        "description": "When Hank accidentally cuts off Dale's finger with a circular saw, he's ordered by the court to attend an anger management class.",
+        "title_suggest": {
+            "input": [
+                "The Texas Skillsaw Massacre",
+                "Texas Skillsaw Massacre",
+                "Skillsaw Massacre",
+                "Massacre"
+            ]
+        },
+        "type": "episode",
+        "title": "The Texas Skillsaw Massacre",
+        "expiration_date": 1507467599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1450.816,
+        "episode_number": "7",
+        "original_air_date": 1233977400,
+        "clip_order": null,
+        "auth_launch_date": 1668315600,
+        "modified": 1668144646,
+        "media_id": "58ae987639f5236dea1d687a9471c2e5c31ef7e4",
+        "airing_id": "RADS1011112200044180",
+        "id": "_P6QeHfORqO73edS3ESX2g",
+        "slug": "the-texas-skillsaw-massacre",
+        "views": 142793,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148527278411.jpg",
+        "created": 1402945468,
+        "title_id": "731425",
+        "season_number": "7",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1668144646,
+        "tags": [
+            "the texas skillsaw massacre",
+            "hank",
+            "accident",
+            "dale",
+            "finger",
+            "circular saw",
+            "anger management",
+            "class"
+        ],
+        "rating_count": 193,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506862800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148527278411.jpg",
+        "cma_id": "1484510"
     },
     {
         "auth": true,
