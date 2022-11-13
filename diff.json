@@ -1,22 +1,18 @@
 {
-    "updated": 1668335586,
-    "added": [
+    "updated": 1668337235,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1677407340,
-            "tms_id": "EP034917240421",
-            "description": "Guy releases his Eight Inner Gates against Madara, but the Seventh Gate of Shock does not work against him!",
+            "auth_expiration_date": 1668337140,
+            "tms_id": "EP034917240393",
+            "description": "As fighting breaks out for the scrolls, Tenten feels an intense rivalry with Ajisai, who also specializes in Transportation Ninjutsu.",
             "title_suggest": {
                 "input": [
-                    "The Blue Beast vs. Six Paths Madara",
-                    "Blue Beast vs. Six Paths Madara",
-                    "Beast vs. Six Paths Madara",
-                    "vs. Six Paths Madara",
-                    "Six Paths Madara",
-                    "Paths Madara",
-                    "Madara"
+                    "Tenten's Troubles",
+                    "Troubles"
                 ]
             },
-            "title": "The Blue Beast vs. Six Paths Madara",
+            "title": "Tenten's Troubles",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -26,34 +22,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.6771,
-            "episode_number": "2",
-            "original_air_date": "1668322800",
-            "auth_launch_date": 1668335400,
+            "duration": 1312.5112,
+            "episode_number": "56",
+            "original_air_date": "1659249000",
+            "auth_launch_date": 1659261600,
             "clip_order": null,
-            "airing_id": "RADS1011112200044206",
-            "media_id": "2137f358217746429c697e6e862a608f25d37cca",
-            "modified": 1668151909,
-            "slug": "the-blue-beast-vs-six-paths-madara",
+            "airing_id": "RADS1007282200016580",
+            "media_id": "58d858162b09ccfed90c5f37210bc31f3685367d",
+            "modified": 1659076700,
+            "slug": "tentens-troubles",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20221109/thumbnails/1_22119121322-NarutoShippuden_418_TheBlueBeastVsSixPathsMadara.png",
-            "created": 1668014004,
-            "season_number": "8",
-            "title_id": "2177848",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/1_22726144159-NarutoShippuden_404_TentensTroubles.png",
+            "created": 1658858666,
+            "season_number": "7",
+            "title_id": "2177834",
             "tv_rating": "tv-pg",
-            "published": 1668151909,
+            "published": 1659076700,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20221109/thumbnails/2_22119121322-NarutoShippuden_418_TheBlueBeastVsSixPathsMadara.png",
-            "id": "AYRdYdgGIAxeiVkFtLSo",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726144159-NarutoShippuden_404_TentensTroubles.png",
+            "id": "AYI7rnpvIAxeiVkFtLQn",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
