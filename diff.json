@@ -1,63 +1,6 @@
 {
-    "updated": 1668435897,
-    "added": [],
-    "removed": [
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1668488340,
-            "tms_id": "",
-            "description": "A teacher in Michigan's Upper Peninsula explores subject matters such as pancakes, blueberries, eggs, toast, sausage, bacon, English muffins, coffee, orange juice, maple syrup, waffles, cornbread, and strawberries.",
-            "title_suggest": {
-                "input": [
-                    "Joe Pera Takes You on a Hike",
-                    "Pera Takes You on a Hike",
-                    "Takes You on a Hike",
-                    "You on a Hike",
-                    "on a Hike",
-                    "a Hike",
-                    "Hike"
-                ]
-            },
-            "title": "Joe Pera Takes You on a Hike",
-            "expiration_date": 1641963540,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWK7V5RwTdxzjxdClXz8",
-            "duration": 676.83,
-            "episode_number": "2",
-            "original_air_date": 1575695700,
-            "auth_launch_date": 1660622400,
-            "clip_order": null,
-            "media_id": "c3e9f70e9a8304bf0ccce4f3cc0feea74979f5a5",
-            "modified": 1660588941,
-            "airing_id": "RADS1008152200021433",
-            "slug": "joe-pera-takes-you-on-a-hike",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191107/thumbnails/1_191171113412-joeperatalks_202_dup-20191021.jpg",
-            "created": 1573143227,
-            "season_number": "2",
-            "title_id": "2214307",
-            "tv_rating": "tv-14-dl",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1660588941,
-            "tags": [],
-            "collection_title": "Joe Pera Talks With You",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1640667600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171113412-joeperatalks_202_dup-20191021.jpg",
-            "id": "AW5GpK3QadNs2hMNfub6",
-            "auth": true,
-            "collection_slug": "joe-pera-talks-with-you",
-            "collection_title_id": "2161118",
-            "online_exclusives": false
-        },
+    "updated": 1668436404,
+    "added": [
         {
             "auth_expiration_date": 1668488340,
             "tms_id": "EP007259620230",
@@ -110,5 +53,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
