@@ -47,16 +47,18 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1668401940,
-        "tms_id": "",
-        "description": "Goodman claims that the Old Town charter allows a Deputy to give a Sheriff a ticket.",
+        "ott_launch_date": null,
+        "auth_expiration_date": 1663559940,
+        "tms_id": "EP033701060002",
+        "description": "When Sheriff learns that he was once a bully to a long lost schoolmate, he sets out to right his wrong.",
         "title_suggest": {
             "input": [
-                "Charter"
+                "Smelly Glenn",
+                "Glenn"
             ]
         },
-        "title": "Charter",
-        "expiration_date": 1665374340,
+        "title": "Smelly Glenn",
+        "expiration_date": 1671425940,
         "type": "episode",
         "platforms": [
             "android",
@@ -65,30 +67,32 @@
             "fire-tv"
         ],
         "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 676.4424,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1665374400,
+        "duration": 673.21,
+        "episode_number": "2",
+        "original_air_date": 1574658000,
+        "auth_launch_date": 1660536000,
         "clip_order": null,
-        "airing_id": "RADS1009022200025692",
-        "media_id": "df1e42099a77b5132884d1296913aef603af1389",
-        "modified": 1665165043,
-        "slug": "charter",
+        "media_id": "f5982effad1dfbbbef2d09371b873e08165905f6",
+        "modified": 1668193071,
+        "airing_id": "RADS1011112200044291",
+        "slug": "smelly-glenn",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/1_21121119314-MommaNamedMeSheriff_204_Charter.jpg",
-        "created": 1611245374,
-        "season_number": "2",
-        "title_id": "2247951",
-        "tv_rating": "",
-        "published": 1665165043,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
+        "created": 1573745609,
+        "season_number": "1",
+        "title_id": "2196568",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1668193071,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1662350400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_21121119314-MommaNamedMeSheriff_204_Charter.jpg",
-        "id": "AXcltU4IQJ_4Uej5kTm_",
-        "auth": true
+        "launch_date": 1668402000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
+        "id": "AW5qjExh1YiBSfg0KYe2",
+        "auth": false
     },
     {
         "auth_expiration_date": 1669006740,
@@ -312,7 +316,7 @@
         "launch_date": 1665374400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210208/thumbnails/2_2128143306-MommaNamedMeSheriff_206_Membership.jpg",
         "id": "AXeDIibJbxpjZvbXYmOi",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1661140740,

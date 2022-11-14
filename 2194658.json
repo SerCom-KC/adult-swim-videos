@@ -90,6 +90,52 @@
         "launch_date": 1667188800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155500147480318.jpg",
         "id": "AWoNUAd-Hl5gR6828zPC",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1659326340,
+        "tms_id": "EP031416130003",
+        "description": "While preparations are underway, Emma, Norman, and Ray are now \"training\" the other kids so they can get stronger and be ready when the time comes. But despite Mom's orders, the new Sister Krone has her own plan.",
+        "title_suggest": {
+            "input": [
+                "181045"
+            ]
+        },
+        "title": "181045",
+        "expiration_date": 1669611540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1293.17,
+        "episode_number": "3",
+        "original_air_date": 1556424000,
+        "auth_launch_date": 1655697600,
+        "clip_order": null,
+        "media_id": "a70fe32ae2d9c95e30190ad457a75e07a880df1f",
+        "modified": 1668195750,
+        "airing_id": "RADS1011112200044300",
+        "slug": "181045",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155622705878514.jpg",
+        "created": 1556227067,
+        "season_number": "1",
+        "title_id": "2194661",
+        "tv_rating": "tv-14",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1668195750,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "modified_by": "ODT Listener",
+        "launch_date": 1668402000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155622705878514.jpg",
+        "id": "AWpWXI6IAScUIg8XxfLy",
         "auth": false
     },
     {
@@ -140,51 +186,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210405/thumbnails/2_21451456505-promo_PromisedNeverland_S2_SAT.jpg",
         "id": "AXijZW_2DmGy9WFjRqrY",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1668401940,
-        "tms_id": "EP034485630018",
-        "description": "Norman, thought to have been shipped, stands before Emma and Ray. It is a reunion they never dreamed of, and they embrace tearfully. Norman reveals his plan to create the future Emma wants, where the children can live happily.",
-        "title_suggest": {
-            "input": [
-                "Episode 6",
-                "6"
-            ]
-        },
-        "title": "Episode 6",
-        "expiration_date": 1664769540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1275.2407,
-        "episode_number": "6",
-        "original_air_date": "1621144800",
-        "auth_launch_date": 1664769600,
-        "clip_order": null,
-        "airing_id": "RADS1009302200033121",
-        "media_id": "76ad1f62be59e00a2a5be01a15f7661a92d026e2",
-        "modified": 1664592455,
-        "slug": "episode-6",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210512/thumbnails/1_21512111877-TPN2_018_Episode6.png",
-        "created": 1620832711,
-        "season_number": "2",
-        "title_id": "2264537",
-        "tv_rating": "tv-14-l",
-        "published": 1664592455,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663560000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210512/thumbnails/2_21512111877-TPN2_018_Episode6.png",
-        "id": "AXlhKHMpBH5Z6gH5aWO_",
-        "auth": true
     },
     {
         "auth_expiration_date": 1669006740,
