@@ -55,59 +55,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1451669460,
-        "auth_expiration_date": 1668488340,
-        "tms_id": "EP007542790004",
-        "rating": 7.66879,
-        "description": "Mouse Fitzgerald's old army buddy visits. He is now a wealthy TV minister, and offers Fitzgerald a job. The 12oz. Mouse turns it down after dishonest tactics are revealed.",
-        "title_suggest": {
-            "input": [
-                "Spider"
-            ]
-        },
-        "type": "episode",
-        "title": "Spider",
-        "expiration_date": 1665460740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 689.19,
-        "episode_number": "4",
-        "original_air_date": 1131341400,
-        "clip_order": null,
-        "auth_launch_date": 1665460800,
-        "modified": 1665167750,
-        "media_id": "759742a0056810533d355a3e7514e517f5ea2ce1",
-        "airing_id": "RADS1009022200025708",
-        "id": "Ibr0KinKTRyzD093JyjZBA",
-        "slug": "spider",
-        "views": 142702,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_20220115960-12oz_004_BIM_9318304.jpg",
-        "created": 1402945460,
-        "title_id": "618748",
-        "season_number": "1",
-        "tv_rating": "tv-14-lv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1665167750,
-        "tags": [
-            "12 oz mouse episode 4 spider"
-        ],
-        "rating_count": 628,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1662436800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220115960-12oz_004_BIM_9318304.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1451669640,
         "auth_expiration_date": 1652155140,
@@ -384,6 +331,68 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1451669880,
+        "auth_expiration_date": 1654574340,
+        "tms_id": "EP007542790014",
+        "rating": 7.132255,
+        "description": "The Eye appears to be having a nervous breakdown, and slaps the Cop.  Liquor takes him to a Women's Awareness meeting, but the Eye refuses to participate, and calls the women \"cackling hens.\"  When he returns home, Shark demands to know where he's been.  The Eye tells him, and a vicious argument ensues.  The Eye rethinks his opinion on the meeting.",
+        "title_suggest": {
+            "input": [
+                "Meat Warrior",
+                "Warrior"
+            ]
+        },
+        "type": "episode",
+        "title": "Meat Warrior",
+        "expiration_date": 1671512340,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 689.36,
+        "episode_number": "7",
+        "original_air_date": 1162791900,
+        "clip_order": null,
+        "auth_launch_date": 1651550400,
+        "modified": 1668196649,
+        "media_id": "155891ab7ad5f94d1526291f7a9c93fb9fda8f2f",
+        "airing_id": "RADS1011112200044355",
+        "id": "jDpIzAtwTwmz6dS3fHQMeA",
+        "slug": "meat-warrior",
+        "views": 186177,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_20220121512-12oz_014_BIM_9385130.jpg",
+        "created": 1402945460,
+        "title_id": "653311",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1668196649,
+        "tags": [
+            "12 oz mouse episode 14 meat warrior",
+            "ounce",
+            "eye",
+            "cop",
+            "liquor",
+            "shark",
+            "mystery"
+        ],
+        "rating_count": 1051,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1668488400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220121512-12oz_014_BIM_9385130.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1451669580,
         "auth_expiration_date": 1670907540,
@@ -493,7 +502,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451669580,
         "auth_expiration_date": 1671512340,
         "tms_id": "EP007542790009",
