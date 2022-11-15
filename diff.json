@@ -1,7 +1,6 @@
 {
-    "updated": 1668519022,
-    "added": [],
-    "removed": [
+    "updated": 1668522693,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447450680,
@@ -28,7 +27,7 @@
             "original_air_date": 1350879300,
             "clip_order": null,
             "auth_launch_date": 1665547200,
-            "modified": 1665170461,
+            "modified": 1668520606,
             "media_id": "e67d975180197c282d41f00813f905c38a77aa06",
             "airing_id": "RADS1010072200035564",
             "id": "WJ6F3KcyRhWwy2MX2t0nyQ",
@@ -43,7 +42,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1665170461,
+            "published": 1668520606,
             "tags": [],
             "rating_count": 334,
             "collection_title": "Superjail!",
@@ -56,5 +55,6 @@
             "collection_title_id": "666506",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
