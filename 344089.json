@@ -167,64 +167,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1668574740,
-        "tms_id": "EP002989350002",
-        "rating": 9.128455,
-        "description": "Brendon is in danger of being held back when he won't complete the research for his presentation, and Paula isn't helping his cause.",
-        "title_suggest": {
-            "input": [
-                "I Don't Do Well In Parent-Teacher Conferences",
-                "Don't Do Well In Parent-Teacher Conferences",
-                "Do Well In Parent-Teacher Conferences",
-                "Well In Parent-Teacher Conferences",
-                "In Parent-Teacher Conferences",
-                "Parent-Teacher Conferences",
-                "Conferences"
-            ]
-        },
-        "type": "episode",
-        "title": "I Don't Do Well In Parent-Teacher Conferences",
-        "expiration_date": 1665547140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1343,
-        "episode_number": "2",
-        "original_air_date": 1003113000,
-        "clip_order": null,
-        "auth_launch_date": 1665547200,
-        "modified": 1665172837,
-        "media_id": "f84fb8f3c849d064a0b744a9ca77ab1b32f0a22a",
-        "airing_id": "RADS1010072200035572",
-        "id": "N8dRFNxTSWujsrHKYue8FA",
-        "slug": "i-dont-do-well-in-parent-teacher-conferences",
-        "views": 309625,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035161598-hmovies_002.jpg",
-        "created": 1402945467,
-        "title_id": "344118",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1665172837,
-        "tags": [
-            "home movies episode 2 i don't do well in parent teacher conferences paula held back homework presentation"
-        ],
-        "rating_count": 506,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1662523200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161598-hmovies_002.jpg",
-        "cma_id": "991713"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1670389140,
         "tms_id": "EP002989350005",
         "rating": 9.019515,
@@ -275,7 +217,7 @@
         "cma_id": "991754"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1671598740,
         "tms_id": "EP002989350008",
@@ -492,6 +434,60 @@
         "modified_by": "ODT Listener",
         "launch_date": 1667361600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035164358-hmovies_010.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1643173140,
+        "tms_id": "EP002989350012",
+        "rating": 9.144348,
+        "description": "Brendon gets hit by a car while riding down the wrong side of the road on his bicycle and ends up with Coach McGuirk representing him in court. Meanwhile, an old \"friend\" of Paula's from college pays an unexpected visit.",
+        "title_suggest": {
+            "input": [
+                "Law and Boarders",
+                "and Boarders",
+                "Boarders"
+            ]
+        },
+        "type": "episode",
+        "title": "Law and Boarders",
+        "expiration_date": 1671598740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1359.3003003,
+        "episode_number": "12",
+        "original_air_date": 1002506400,
+        "clip_order": null,
+        "auth_launch_date": 1640149200,
+        "modified": 1668293536,
+        "media_id": "f6088917d4fc8a76c62398602f55b04ea71e1984",
+        "airing_id": "RADS1011122200044433",
+        "id": "h3HPaRMQQqemVVasBpRx0Q",
+        "slug": "law-and-boarders",
+        "views": 366693,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035165282-hmovies_012.jpg",
+        "created": 1402945467,
+        "title_id": "344128",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1668293536,
+        "tags": [
+            "home movies law and boarders episode 12"
+        ],
+        "rating_count": 672,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1668574800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035165282-hmovies_012.jpg",
         "cma_id": ""
     },
     {

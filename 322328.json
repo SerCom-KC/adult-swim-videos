@@ -160,58 +160,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1450888140,
-        "auth_expiration_date": 1668574740,
-        "tms_id": "EP001022180021",
-        "rating": 8.152814,
-        "description": "Space Ghost's obsession with hair care products finally gets him into trouble when he lathers up with Chambraigne, the shampoo for your brain. Despite limb loss, Space Ghost tries to convince Bob Costas and the world that Chambraigne truly is an intelli-hancer. Then Carl explodes.",
-        "title_suggest": {
-            "input": [
-                "Chambraigne"
-            ]
-        },
-        "type": "episode",
-        "title": "Chambraigne",
-        "expiration_date": 1647403140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 700.6339673,
-        "episode_number": "1",
-        "original_air_date": 939438000,
-        "clip_order": null,
-        "auth_launch_date": 1666756800,
-        "modified": 1668120166,
-        "airing_id": "RADS1010232200037930",
-        "media_id": "e87e4a58a573a77efd45756ecf951e1693f69a64",
-        "id": "2P-Gsxz5RDCOmGiWNAGTXg",
-        "slug": "chambraigne",
-        "views": 36813,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201150503-sgc2c_9901_air.jpg",
-        "created": 1402945476,
-        "title_id": "332367",
-        "season_number": "6",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1668120166,
-        "tags": [
-            "Space Ghost episode 69 Chambraigne"
-        ],
-        "rating_count": 373,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1644382800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201150503-sgc2c_9901_air.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1449258480,
         "auth_expiration_date": 1666151940,
@@ -470,58 +418,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1663732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417956280-sgc2c_9605_dst_cid-9105378.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1449532140,
-        "auth_expiration_date": 1668574740,
-        "tms_id": "EP001022180044",
-        "rating": 8.833333,
-        "description": "Zorak is zapped until he can apparently no longer regenerate, leaving Space Ghost without a bandleader. Moltar is instructed to fill in for his dearly departed friend by singing renditions of German folk songs, which puts Beck, the show's lone guest, to sleep.",
-        "title_suggest": {
-            "input": [
-                "Edelweiss"
-            ]
-        },
-        "type": "episode",
-        "title": "Edelweiss",
-        "expiration_date": 1640149140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 723.7674341,
-        "episode_number": "3",
-        "original_air_date": 889849800,
-        "clip_order": null,
-        "auth_launch_date": 1666756800,
-        "modified": 1668054238,
-        "airing_id": "RADS1010232200037932",
-        "media_id": "b5deff72e12a7ba7bd8485cd4b32a57037c13194",
-        "id": "9R-50kToSPK0QDH5dhjymw",
-        "slug": "edelweiss",
-        "views": 43203,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417104289-sgc2c_9703_dst_cid-9128089.jpg",
-        "created": 1402945476,
-        "title_id": "322355",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1668054238,
-        "tags": [
-            "sgc2c space ghost coast to coast episode 36 edelweiss zorak bandleader beck"
-        ],
-        "rating_count": 132,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1637125200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417104289-sgc2c_9703_dst_cid-9128089.jpg",
         "cma_id": ""
     },
     {
@@ -1617,7 +1513,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449258300,
         "auth_expiration_date": 1698206340,
         "tms_id": "EP001022180016",
