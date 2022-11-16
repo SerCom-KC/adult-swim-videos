@@ -1,20 +1,19 @@
 {
-    "updated": 1668637646,
-    "added": [],
-    "removed": [
+    "updated": 1668639444,
+    "added": [
         {
-            "auth_expiration_date": 1666497540,
-            "tms_id": "EP036530620011",
-            "description": "Back in the material world of Earth, the Chilean man who hunted Makasu for most of his career can't seem to move on. Can retirement really help you let go of your obsessions?",
+            "auth_expiration_date": 1668941940,
+            "tms_id": "EP034917240394",
+            "description": "Witnessing Ajisai's proficiency with the Summoning Jutsu, Tenten recalls her training with Guy.",
             "title_suggest": {
                 "input": [
-                    "Episode Eleven: G13",
-                    "Eleven: G13",
-                    "G13"
+                    "The Imprisoned Pair",
+                    "Imprisoned Pair",
+                    "Pair"
                 ]
             },
-            "title": "Episode Eleven: G13",
-            "expiration_date": 2082690000,
+            "title": "The Imprisoned Pair",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,34 +21,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWnYBNDcHl5gR6828zAp",
-            "duration": 675.5082,
-            "episode_number": "11",
-            "original_air_date": "1608530400",
-            "auth_launch_date": 1663473600,
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.4768,
+            "episode_number": "57",
+            "original_air_date": "1659853800",
+            "auth_launch_date": 1659866400,
             "clip_order": null,
-            "airing_id": "RADS1009122200027875",
-            "media_id": "945db87ef40ac275bbfeddae8bfb2a40f85faca3",
-            "modified": 1663095855,
-            "slug": "episode-eleven-g-13",
+            "airing_id": "RADS1008052200019913",
+            "media_id": "c3198f3224a3b1e7ed30db460ec1623bfd534bf3",
+            "modified": 1668639407,
+            "slug": "the-imprisoned-pair",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/1_201215836316-GSMP_211_dup-20201209.jpg",
-            "created": 1608039395,
-            "season_number": "2",
-            "title_id": "2241836",
-            "tv_rating": "tv-ma-lv",
-            "published": 1663095855,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_22821246227-NarutoShippuden_405_TheImprisonedPair.png",
+            "created": 1659458796,
+            "season_number": "7",
+            "title_id": "2177835",
+            "tv_rating": "tv-pg",
+            "published": 1668639407,
             "tags": [],
-            "collection_title": "Gemusetto",
+            "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1621569600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg",
-            "id": "AXZmne7CQJ_4Uej5kTe8",
-            "auth": false,
-            "collection_slug": "gemusetto",
-            "collection_title_id": "2194549",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821246227-NarutoShippuden_405_TheImprisonedPair.png",
+            "id": "AYJfc7w93sQvipyea9rx",
+            "auth": true,
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
