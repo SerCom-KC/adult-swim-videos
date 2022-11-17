@@ -133,7 +133,7 @@
         "original_air_date": 900732600,
         "clip_order": null,
         "auth_launch_date": 1668056400,
-        "modified": 1667947302,
+        "modified": 1668641736,
         "airing_id": "RADS1011082200043832",
         "media_id": "8ce2817a06fec618cf2271904d6b0cd288111f14",
         "id": "0UXyxQVgQJyYpaPjBL6nhg",
@@ -147,7 +147,7 @@
         "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1667947302,
+        "published": 1668641736,
         "tags": [
             "space ghost coast to coast episode 26 switcheroo evil twin susan olsen elvira"
         ],
@@ -157,6 +157,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1664942400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/switcheroo/sgc2c_9608_dst_cid-9112594-201104191445049145.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1450888140,
+        "auth_expiration_date": 1677041940,
+        "tms_id": "EP001022180021",
+        "rating": 8.152814,
+        "description": "Space Ghost's obsession with hair care products finally gets him into trouble when he lathers up with Chambraigne, the shampoo for your brain. Despite limb loss, Space Ghost tries to convince Bob Costas and the world that Chambraigne truly is an intelli-hancer. Then Carl explodes.",
+        "title_suggest": {
+            "input": [
+                "Chambraigne"
+            ]
+        },
+        "type": "episode",
+        "title": "Chambraigne",
+        "expiration_date": 1647403140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 700.6339673,
+        "episode_number": "1",
+        "original_air_date": 939438000,
+        "clip_order": null,
+        "auth_launch_date": 1668229200,
+        "modified": 1668641732,
+        "airing_id": "RADS1011102200044104",
+        "media_id": "e87e4a58a573a77efd45756ecf951e1693f69a64",
+        "id": "2P-Gsxz5RDCOmGiWNAGTXg",
+        "slug": "chambraigne",
+        "views": 36813,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201150503-sgc2c_9901_air.jpg",
+        "created": 1402945476,
+        "title_id": "332367",
+        "season_number": "6",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1668641732,
+        "tags": [
+            "Space Ghost episode 69 Chambraigne"
+        ],
+        "rating_count": 373,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1644382800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201150503-sgc2c_9901_air.jpg",
         "cma_id": ""
     },
     {
@@ -2156,8 +2208,60 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1448046900,
+        "auth_expiration_date": 1688529540,
+        "tms_id": "EP001022180040",
+        "rating": 6.9418607,
+        "description": "During an otherwise friendly interview with comedian Bobcat Goldthwait, Zorak reveals Space Ghost's secret identity: Tad Ghostal. Goldthwait agrees to party with Space Ghost after the show. The festivities are spoiled, however, by Zorak and his punk friends, The Ramones.",
+        "title_suggest": {
+            "input": [
+                "Bobcat"
+            ]
+        },
+        "type": "episode",
+        "title": "Bobcat",
+        "expiration_date": 1658894340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 677.3003003,
+        "episode_number": "5",
+        "original_air_date": 945489600,
+        "clip_order": null,
+        "auth_launch_date": 1667970000,
+        "modified": 1668641727,
+        "airing_id": "RADS1011072200043580",
+        "media_id": "bb7027f15c8815172fe43b0c87baf89edd7c37f3",
+        "id": "n53ziL4DRo6pFGTtPEF6Qw",
+        "slug": "bobcat",
+        "views": 51342,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417946286-sgc2c_9405_dst_cid-9129902.jpg",
+        "created": 1402945476,
+        "title_id": "322737",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1668641727,
+        "tags": [
+            "space ghost coast to coast c2c bobcat episode 5"
+        ],
+        "rating_count": 258,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1655870400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417946286-sgc2c_9405_dst_cid-9129902.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1449532680,
-        "auth_expiration_date": 1670389140,
+        "auth_expiration_date": 1669179540,
         "tms_id": "EP001022180082",
         "rating": 7.6986303,
         "description": "Space Ghost marks a \"special notch in the belt that is the Space Ghost saga\" with returning guests Bobcat Goldthwait and Judy Tenuda. The show also includes special appearances by villian-turned-announcer Tansut and the evil Chad Ghostal, as well as a spectacular career retrospective montage compiled by Moltar.",
@@ -2179,9 +2283,9 @@
         "episode_number": "4",
         "original_air_date": 907990200,
         "clip_order": null,
-        "auth_launch_date": 1668142800,
-        "modified": 1668054811,
-        "airing_id": "RADS1011102200043966",
+        "auth_launch_date": 1667361600,
+        "modified": 1668641732,
+        "airing_id": "RADS1010312200040428",
         "media_id": "22e16543fbb5dca5ccdf9cf6862981ab443ad23a",
         "id": "oFUdDn-rRqq3wjM-TmHlKw",
         "slug": "anniversary",
@@ -2194,7 +2298,7 @@
         "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1668054811,
+        "published": 1668641732,
         "tags": [
             "sgc2c space ghost coast to coast episode 37 anniversary bobcat goldthwait just tenuda tansut chad ghostal"
         ],
@@ -2695,7 +2799,7 @@
         "original_air_date": 1073881800,
         "clip_order": null,
         "auth_launch_date": 1668315600,
-        "modified": 1668188551,
+        "modified": 1668641731,
         "airing_id": "RADS1011112200044253",
         "media_id": "7bad879b2915d6da2572006e1d70eeabbd9737ad",
         "id": "w1gHXTPETSOf0qDNNJUegA",
@@ -2709,7 +2813,7 @@
         "tv_rating": "tv-14-l",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1668188551,
+        "published": 1668641731,
         "tags": [
             "space ghost c2c sg episode 88 dreams triumph the insult comic dog"
         ],
