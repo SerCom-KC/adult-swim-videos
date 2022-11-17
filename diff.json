@@ -1,7 +1,6 @@
 {
-    "updated": 1668702626,
-    "added": [],
-    "removed": [
+    "updated": 1668706224,
+    "added": [
         {
             "auth_expiration_date": 1668747540,
             "tms_id": "EP032284200113",
@@ -31,7 +30,7 @@
             "clip_order": null,
             "airing_id": "RADS1004252200092140",
             "media_id": "3adf562e6cf0e5aa2733882778a06c6a4a428f14",
-            "modified": 1650998306,
+            "modified": 1668704266,
             "slug": "storming-the-shadow-palace",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_2041595432-BlackClover_113.jpg",
@@ -39,7 +38,7 @@
             "season_number": "3",
             "title_id": "2219230",
             "tv_rating": "tv-pg",
-            "published": 1650998306,
+            "published": 1668704266,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -52,5 +51,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
