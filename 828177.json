@@ -308,6 +308,55 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1663214340,
+        "tms_id": "",
+        "description": "Gary and his brain trust bring radical changes to old-fashioned soul collecting.",
+        "title_suggest": {
+            "input": [
+                "The Party Hole",
+                "Party Hole",
+                "Hole"
+            ]
+        },
+        "title": "The Party Hole",
+        "expiration_date": 1671685140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 655,
+        "episode_number": "5",
+        "original_air_date": 1558152000,
+        "auth_launch_date": 1660190400,
+        "clip_order": null,
+        "media_id": "a9ba3c53fd1288034711663f8469ca3a40bc0323",
+        "modified": 1668400047,
+        "airing_id": "RADS1011142200044536",
+        "slug": "the-party-hole",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15580247557034.jpg",
+        "created": 1556816438,
+        "season_number": "4",
+        "title_id": "2191443",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1668400047,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1668661200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
+        "id": "AWp5faU7AScUIg8XxfZ_",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1671080340,
         "tms_id": "",
         "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
@@ -970,7 +1019,7 @@
         "cma_id": "1377020"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447786920,
         "auth_expiration_date": 1671685140,
         "tms_id": "EP013726210009",
@@ -1165,54 +1214,6 @@
         "launch_date": 1663819200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ypf_cc_104_pt1_cc_ydhud-06.jpg",
         "cma_id": "1272006"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447786740,
-        "auth_expiration_date": 1668661140,
-        "tms_id": "EP013726210003",
-        "rating": 5.8812504,
-        "description": "Gary has to protect the Devil's sex condo from being sold. Also, the Devil's mistress is Gary's first love. ",
-        "title_suggest": {
-            "input": [
-                "Bone Garden",
-                "Garden"
-            ]
-        },
-        "type": "episode",
-        "title": "Bone Garden",
-        "expiration_date": 1665633540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 676.08,
-        "episode_number": "2",
-        "original_air_date": 1366948800,
-        "clip_order": null,
-        "auth_launch_date": 1665633600,
-        "modified": 1665435514,
-        "airing_id": "RADS1010102200036212",
-        "media_id": "d51065f94f782ce3cade00e41a75f03a81eb989b",
-        "id": "Qnfy3tWMQIaHMjsPv73Bow",
-        "slug": "bone-garden",
-        "views": 30660,
-        "created": 1402945482,
-        "title_id": "2001907",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1665435514,
-        "tags": [],
-        "rating_count": 160,
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1662609600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ypf_cc_102_pt1_384hX-11.jpg",
-        "cma_id": "1264557"
     },
     {
         "auth": true,
