@@ -1,20 +1,21 @@
 {
-    "updated": 1668780028,
+    "updated": 1668781825,
     "added": [
         {
             "auth": true,
-            "ott_launch_date": 1447447080,
+            "ott_launch_date": 1449838800,
             "auth_expiration_date": 1668833940,
-            "tms_id": "EP007008180093",
-            "description": "Early discovers there's more than one way to beat a feeble old woman.",
+            "tms_id": "EP007008180095",
+            "description": "Early loses the love of his life.",
             "title_suggest": {
                 "input": [
-                    "Granny Hotfoot",
-                    "Hotfoot"
+                    "Hybrid To Hell",
+                    "To Hell",
+                    "Hell"
                 ]
             },
             "expiration_date": 1598932799,
-            "title": "Granny Hotfoot",
+            "title": "Hybrid To Hell",
             "type": "episode",
             "platforms": [
                 "web",
@@ -22,39 +23,41 @@
                 "ott"
             ],
             "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 646.9174312,
-            "episode_number": "7",
-            "original_air_date": 1415594700,
+            "duration": 669.8757298,
+            "episode_number": "9",
+            "original_air_date": 1416804300,
             "clip_order": null,
             "auth_launch_date": 1660968000,
-            "modified": 1668779682,
-            "media_id": "30884d01de96a0f26b0136607703ed76253b64c5",
-            "airing_id": "RADS1008192200022210",
-            "id": "pAnCcwOaS8uWiuOTY1Mn8w",
-            "slug": "granny-hotfoot",
-            "views": 7,
+            "modified": 1668780888,
+            "media_id": "9ca5aacf637d833f729540c3918c8596bffacbd0",
+            "airing_id": "RADS1008192200022215",
+            "id": "24PEJYJ9RKa99zaRH1mZHA",
+            "slug": "hybrid-to-hell",
+            "views": 25066,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141126389-squidbillies_093_dup-20141107.jpg",
-            "created": 1410582580,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141127341-squidbillies_095_dup-20141121.jpg",
+            "created": 1410582600,
             "season_number": "9",
-            "title_id": "2032583",
+            "title_id": "2032585",
             "tv_rating": "tv-14-dlv",
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1668779682,
-            "first_published": 1415564422,
+            "published": 1668780888,
+            "first_published": 1416669623,
             "tags": [],
             "collection_title": "Squidbillies",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": 1542690000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141126389-squidbillies_093_dup-20141107.jpg",
-            "cma_id": "2032583",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141127341-squidbillies_095_dup-20141121.jpg",
+            "cma_id": "1060307",
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
-        },
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1452110400,
@@ -165,6 +168,5 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
