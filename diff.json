@@ -1,19 +1,18 @@
 {
-    "updated": 1668942095,
-    "added": [],
-    "removed": [
+    "updated": 1668943833,
+    "added": [
         {
-            "auth_expiration_date": 1668941940,
-            "tms_id": "EP034917240394",
-            "description": "Witnessing Ajisai's proficiency with the Summoning Jutsu, Tenten recalls her training with Guy.",
+            "auth_expiration_date": 1679308140,
+            "tms_id": "EP034917240277",
+            "description": "Pressed by Naruto, Obito remembers the time he, Kakashi, and Rin teamed up for the Chunin Exam and when he promised Rin that he would become Hokage.",
             "title_suggest": {
                 "input": [
-                    "The Imprisoned Pair",
-                    "Imprisoned Pair",
-                    "Pair"
+                    "I'm Always Watching",
+                    "Always Watching",
+                    "Watching"
                 ]
             },
-            "title": "The Imprisoned Pair",
+            "title": "I'm Always Watching",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -23,33 +22,34 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.4768,
-            "episode_number": "57",
-            "original_air_date": "1659853800",
-            "auth_launch_date": 1659866400,
+            "duration": 1311.9105,
+            "episode_number": "38",
+            "original_air_date": "1650783600",
+            "auth_launch_date": 1668943800,
             "clip_order": null,
-            "airing_id": "RADS1008052200019913",
-            "media_id": "c3198f3224a3b1e7ed30db460ec1623bfd534bf3",
-            "modified": 1668641266,
-            "slug": "the-imprisoned-pair",
+            "airing_id": "RADS1011202200045039",
+            "media_id": "6821de7bb64497c865855bef4d5d8b4bba1d5ce2",
+            "modified": 1668922445,
+            "slug": "im-always-watching",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_22821246227-NarutoShippuden_405_TheImprisonedPair.png",
-            "created": 1659458796,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201440232-NarutoShippuden_386_ImAlwaysWatching.png",
+            "created": 1650480036,
             "season_number": "7",
-            "title_id": "2177835",
+            "title_id": "2177816",
             "tv_rating": "tv-pg",
-            "published": 1668641266,
+            "published": 1668922445,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821246227-NarutoShippuden_405_TheImprisonedPair.png",
-            "id": "AYJfc7w93sQvipyea9rx",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201440232-NarutoShippuden_386_ImAlwaysWatching.png",
+            "id": "AYBIRriz_0O4w1rD3SCi",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
