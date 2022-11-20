@@ -1447,6 +1447,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1678012140,
+        "tms_id": "EP034917240422",
+        "description": "With his father's teachings spurring him on, Guy sets out on his final battle.",
+        "title_suggest": {
+            "input": [
+                "Papa's Youth",
+                "Youth"
+            ]
+        },
+        "title": "Papa's Youth",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1312.1442,
+        "episode_number": "3",
+        "original_air_date": "1668927600",
+        "auth_launch_date": 1668940200,
+        "clip_order": null,
+        "airing_id": "RADS1011162200044955",
+        "media_id": "a07d9a78ffc3e1d9798a3f5190b12bfaea49c45c",
+        "modified": 1668641268,
+        "slug": "papas-youth",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221115/thumbnails/1_2211151248513-NarutoShippuden_419_PapasYouth.png",
+        "created": 1668534542,
+        "season_number": "8",
+        "title_id": "2177849",
+        "tv_rating": "tv-pg",
+        "published": 1668641268,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221115/thumbnails/2_2211151248513-NarutoShippuden_419_PapasYouth.png",
+        "id": "AYR8aKACuLQD-MTtYfAU",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1677407340,
         "tms_id": "EP034917240421",
         "description": "Guy releases his Eight Inner Gates against Madara, but the Seventh Gate of Shock does not work against him!",
