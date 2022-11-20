@@ -61,6 +61,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1669525140,
+        "tms_id": "EP002070020144",
+        "description": "When Bill falls in love with his blind date Charlene, a hot single mother, Dale's intuition tells him something's wrong; and he meddles in their relationship.",
+        "title_suggest": {
+            "input": [
+                "Vision Quest",
+                "Quest"
+            ]
+        },
+        "expiration_date": 1482640199,
+        "title": "Vision Quest",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1451.0496,
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "episode_number": "12",
+        "original_air_date": 1234503000,
+        "clip_order": null,
+        "auth_launch_date": 1668920400,
+        "modified": 1668538052,
+        "media_id": "a9bc64ef27a90bdd3da616bf767192da1168f636",
+        "airing_id": "RADS1011152200044892",
+        "id": "EQyrjE7HTuy_aWozAyMFQw",
+        "slug": "vision-quest",
+        "views": 2388,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148536509210.jpg",
+        "created": 1403636547,
+        "season_number": "7",
+        "title_id": "731473",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1668538052,
+        "first_published": 1439518825,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1482035400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148536509210.jpg",
+        "cma_id": "1312001"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1669438740,
         "tms_id": "EP002070020143",
         "rating": 8.435189,
@@ -232,65 +280,5 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141014341-Pigmalion.png",
         "cma_id": "731428"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1668920340,
-        "tms_id": "EP002070020138",
-        "rating": 8.507773,
-        "description": "When Hank accidentally cuts off Dale's finger with a circular saw, he's ordered by the court to attend an anger management class.",
-        "title_suggest": {
-            "input": [
-                "The Texas Skillsaw Massacre",
-                "Texas Skillsaw Massacre",
-                "Skillsaw Massacre",
-                "Massacre"
-            ]
-        },
-        "type": "episode",
-        "title": "The Texas Skillsaw Massacre",
-        "expiration_date": 1507467599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1450.816,
-        "episode_number": "7",
-        "original_air_date": 1233977400,
-        "clip_order": null,
-        "auth_launch_date": 1668315600,
-        "modified": 1668144646,
-        "media_id": "58ae987639f5236dea1d687a9471c2e5c31ef7e4",
-        "airing_id": "RADS1011112200044180",
-        "id": "_P6QeHfORqO73edS3ESX2g",
-        "slug": "the-texas-skillsaw-massacre",
-        "views": 142793,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148527278411.jpg",
-        "created": 1402945468,
-        "title_id": "731425",
-        "season_number": "7",
-        "tv_rating": "tv-pg-lv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1668144646,
-        "tags": [
-            "the texas skillsaw massacre",
-            "hank",
-            "accident",
-            "dale",
-            "finger",
-            "circular saw",
-            "anger management",
-            "class"
-        ],
-        "rating_count": 193,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506862800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148527278411.jpg",
-        "cma_id": "1484510"
     }
 ]
