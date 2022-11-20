@@ -1,17 +1,19 @@
 {
-    "updated": 1668940281,
-    "added": [
+    "updated": 1668942095,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1678012140,
-            "tms_id": "EP034917240422",
-            "description": "With his father's teachings spurring him on, Guy sets out on his final battle.",
+            "auth_expiration_date": 1668941940,
+            "tms_id": "EP034917240394",
+            "description": "Witnessing Ajisai's proficiency with the Summoning Jutsu, Tenten recalls her training with Guy.",
             "title_suggest": {
                 "input": [
-                    "Papa's Youth",
-                    "Youth"
+                    "The Imprisoned Pair",
+                    "Imprisoned Pair",
+                    "Pair"
                 ]
             },
-            "title": "Papa's Youth",
+            "title": "The Imprisoned Pair",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -21,34 +23,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.1442,
-            "episode_number": "3",
-            "original_air_date": "1668927600",
-            "auth_launch_date": 1668940200,
+            "duration": 1311.4768,
+            "episode_number": "57",
+            "original_air_date": "1659853800",
+            "auth_launch_date": 1659866400,
             "clip_order": null,
-            "airing_id": "RADS1011162200044955",
-            "media_id": "a07d9a78ffc3e1d9798a3f5190b12bfaea49c45c",
-            "modified": 1668641268,
-            "slug": "papas-youth",
+            "airing_id": "RADS1008052200019913",
+            "media_id": "c3198f3224a3b1e7ed30db460ec1623bfd534bf3",
+            "modified": 1668641266,
+            "slug": "the-imprisoned-pair",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20221115/thumbnails/1_2211151248513-NarutoShippuden_419_PapasYouth.png",
-            "created": 1668534542,
-            "season_number": "8",
-            "title_id": "2177849",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_22821246227-NarutoShippuden_405_TheImprisonedPair.png",
+            "created": 1659458796,
+            "season_number": "7",
+            "title_id": "2177835",
             "tv_rating": "tv-pg",
-            "published": 1668641268,
+            "published": 1668641266,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20221115/thumbnails/2_2211151248513-NarutoShippuden_419_PapasYouth.png",
-            "id": "AYR8aKACuLQD-MTtYfAU",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821246227-NarutoShippuden_405_TheImprisonedPair.png",
+            "id": "AYJfc7w93sQvipyea9rx",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
