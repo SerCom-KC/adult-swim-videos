@@ -1,7 +1,59 @@
 {
-    "updated": 1669007115,
-    "added": [],
-    "removed": [
+    "updated": 1669007176,
+    "added": [
+        {
+            "auth": true,
+            "ott_launch_date": 1478532540,
+            "auth_expiration_date": 1669179540,
+            "tms_id": "EP014135410026",
+            "description": "A Q4 analysis.",
+            "title_suggest": {
+                "input": [
+                    "Work"
+                ]
+            },
+            "title": "Work",
+            "type": "episode",
+            "expiration_date": 1669784340,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+            "duration": 668.0667334,
+            "episode_number": "3",
+            "original_air_date": 1478595600,
+            "clip_order": null,
+            "auth_launch_date": 1661832000,
+            "modified": 1669006838,
+            "airing_id": "RADS1011212200045236",
+            "media_id": "88a43588a2ece09fe7c5357e3969c1bceeb0ad91",
+            "id": "5dSygUxvRravogCwSabK4g",
+            "slug": "work",
+            "views": 6713,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121341567-offtheair_603_dup-20161103.jpg",
+            "created": 1478534276,
+            "season_number": "6",
+            "title_id": "2087833",
+            "tv_rating": "tv-14-l",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1669006838,
+            "first_published": 1478534276,
+            "tags": [],
+            "collection_title": "Off The Air",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1669179600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121341567-offtheair_603_dup-20161103.jpg",
+            "cma_id": "",
+            "collection_slug": "off-the-air",
+            "collection_title_id": "830073",
+            "online_exclusives": false
+        },
         {
             "auth": false,
             "ott_launch_date": null,
@@ -62,5 +114,6 @@
             "collection_title_id": "610028",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
