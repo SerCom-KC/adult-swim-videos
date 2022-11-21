@@ -8007,6 +8007,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1670817540,
+        "tms_id": "",
+        "description": "This one wrinkled my brain, broh.",
+        "title_suggest": {
+            "input": [
+                "Full Meta Jackrick",
+                "Meta Jackrick",
+                "Jackrick"
+            ]
+        },
+        "title": "Full Meta Jackrick",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1374.5398,
+        "episode_number": "7",
+        "original_air_date": "1669003200",
+        "auth_launch_date": 1669003200,
+        "clip_order": null,
+        "airing_id": "RADS1011202200045118",
+        "media_id": "a4953b3af66a8d52939c87efdd3d0f16044c392c",
+        "modified": 1668987294,
+        "slug": "full-meta-jackrick",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221115/thumbnails/1_2211151249465-RickandMorty_608_FullMetaJackrick.png",
+        "created": 1668534597,
+        "season_number": "6",
+        "title_id": "2397940",
+        "tv_rating": "tv-14-lv",
+        "published": 1668987294,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221115/thumbnails/2_2211151249465-RickandMorty_608_FullMetaJackrick.png",
+        "id": "AYR8aXXgIAxeiVkFtLTW",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
