@@ -1,6 +1,63 @@
 {
-    "updated": 1669023043,
+    "updated": 1669024826,
     "added": [
+        {
+            "auth": true,
+            "ott_launch_date": 1450888740,
+            "auth_expiration_date": 1669179540,
+            "tms_id": "EP001022180089",
+            "rating": 6.9174314,
+            "description": "The comedy stakes are high when Space Ghost, Moltar, Zorak and guest Steven Wright are stalked by body-snatching pods. Show producers auctioned off the ending of this episode on eBay.",
+            "title_suggest": {
+                "input": [
+                    "Snatch"
+                ]
+            },
+            "type": "episode",
+            "title": "Snatch",
+            "expiration_date": 1648007940,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+            "duration": 672.333667,
+            "episode_number": "2",
+            "original_air_date": 940042800,
+            "clip_order": null,
+            "auth_launch_date": 1667361600,
+            "modified": 1669024648,
+            "airing_id": "RADS1010312200040433",
+            "media_id": "0aad3f89eea134bc783c67e09d91e831c9fb4347",
+            "id": "Wps45WdlRR2JSgi-NCspcg",
+            "slug": "snatch",
+            "views": 26435,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201151201-sgc2c_9902_air.jpg",
+            "created": 1402945476,
+            "title_id": "332368",
+            "season_number": "6",
+            "tv_rating": "tv-pg",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1669024648,
+            "tags": [
+                "Space Ghost Episode 70 Snatch"
+            ],
+            "rating_count": 218,
+            "collection_title": "Space Ghost Coast to Coast",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1644987600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151201-sgc2c_9902_air.jpg",
+            "cma_id": "",
+            "collection_slug": "space-ghost-coast-to-coast",
+            "collection_title_id": "322328",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447450740,
@@ -55,6 +112,5 @@
             "collection_title_id": "666506",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
