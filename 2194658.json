@@ -43,7 +43,7 @@
         "launch_date": 1667797200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155568672812612.jpg",
         "id": "AWo2J_T1Hl5gR6828zSd",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -139,6 +139,52 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1659931140,
+        "tms_id": "EP031416130004",
+        "description": "Emma, Norman, and Ray figure out that there may be a traitor among the children, an informant for Mom. As Norman attempts to solve this mystery, Emma notices something strange about Gilda.",
+        "title_suggest": {
+            "input": [
+                "291045"
+            ]
+        },
+        "title": "291045",
+        "type": "episode",
+        "expiration_date": 1670216340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1279.5115,
+        "episode_number": "4",
+        "original_air_date": 1557028800,
+        "auth_launch_date": 1656302400,
+        "clip_order": null,
+        "airing_id": "RADS1011182200045033",
+        "media_id": "99e7be6d6f2c420843e1609e0d8ebb95a768272e",
+        "modified": 1668813643,
+        "slug": "291045",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15569042771246.jpg",
+        "created": 1556654771,
+        "title_id": "2194662",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1668813643,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "modified_by": "ODT Listener",
+        "launch_date": 1669006800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15569042771246.jpg",
+        "id": "AWpv2sypHl5gR6828zXv",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "What lives inside these woods? Find out during the return of The Promised Neverland. Season 2 premieres this Saturday night at 1:30a!",
@@ -186,51 +232,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210405/thumbnails/2_21451456505-promo_PromisedNeverland_S2_SAT.jpg",
         "id": "AXijZW_2DmGy9WFjRqrY",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1669006740,
-        "tms_id": "EP034485630019",
-        "description": "Though Emma pleads with him, explaining she has no wish to eradicate the demons, Norman is set in his decision and deaf to her arguments. To resolve their dispute, Emma proposes a deal.",
-        "title_suggest": {
-            "input": [
-                "Episode 7",
-                "7"
-            ]
-        },
-        "title": "Episode 7",
-        "type": "episode",
-        "expiration_date": 1665374340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1274.1061,
-        "episode_number": "7",
-        "original_air_date": 1621749600,
-        "auth_launch_date": 1665374400,
-        "clip_order": null,
-        "airing_id": "RADS1010072200035448",
-        "media_id": "a179490ff9d59eac770bcffc3b0b3402479ad8da",
-        "modified": 1665167747,
-        "slug": "episode-7",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210520/thumbnails/1_215201233570-TPN2_019_Episode7.png",
-        "created": 1621454709,
-        "title_id": "2264538",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
-        "published": 1665167747,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1664164800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210520/thumbnails/2_215201233570-TPN2_019_Episode7.png",
-        "id": "AXmGO2PmBH5Z6gH5aWP-",
-        "auth": true
     },
     {
         "auth_expiration_date": 1669611540,
