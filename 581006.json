@@ -380,6 +380,54 @@
         "auth": true
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1669697940,
+        "tms_id": "EP007164450261",
+        "description": "Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat.",
+        "title_suggest": {
+            "input": [
+                "Mean Francine",
+                "Francine"
+            ]
+        },
+        "title": "Mean Francine",
+        "type": "episode",
+        "expiration_date": 1667188740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1953,
+        "episode_number": "13",
+        "original_air_date": 1526866200,
+        "auth_launch_date": 1669093200,
+        "clip_order": null,
+        "airing_id": "RADS1011202200045115",
+        "media_id": "8965a176e09a79fd6c253187717958cb8fb2bd11",
+        "modified": 1668973683,
+        "slug": "mean-francine",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_207171727483-americandad_1213_air_cid-3G163.jpg",
+        "created": 1558107612,
+        "title_id": "2069566",
+        "season_number": "13",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1668973683,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1666584000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg",
+        "id": "AWrGc2RCCorLtcgflqgM",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1662177540,
         "tms_id": "EP007164450366",
         "description": "Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results!",
@@ -983,52 +1031,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1665979200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1669093140,
-        "tms_id": "EP007164450250",
-        "description": "Francine becomes a conspiracy theorist. Klaus & Steve help Snot pimp out his new room.",
-        "title_suggest": {
-            "input": [
-                "Paranoid_Frandroid"
-            ]
-        },
-        "title": "Paranoid_Frandroid",
-        "type": "episode",
-        "expiration_date": 1666583940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.9617,
-        "episode_number": "1",
-        "original_air_date": 1519612200,
-        "clip_order": null,
-        "auth_launch_date": 1668488400,
-        "modified": 1668201167,
-        "media_id": "1542c80a5d351f5e2ea05236e9ef305674b96eaf",
-        "airing_id": "RADS1011112200044401",
-        "id": "kuyoMQr6Ta62NeNv3TRsgw",
-        "slug": "paranoid-frandroid",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199407975132.jpg",
-        "created": 1507751154,
-        "season_number": "13",
-        "title_id": "2069554",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1668201167,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1665979200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg",
         "cma_id": ""
     }
 ]
