@@ -55,7 +55,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451669640,
         "auth_expiration_date": 1672117140,
         "tms_id": "EP007542790010",
@@ -108,6 +108,62 @@
         "modified_by": "ODT Listener",
         "launch_date": 1666065600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220120450-12oz_010_BIM_9381886.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451669880,
+        "auth_expiration_date": 1655179140,
+        "tms_id": "EP007542790015",
+        "rating": 6.018957,
+        "description": "Mouse Fitzgerald has a birthday party, but Producer Man can't get him the art supplies because his credit is turned down by the new computer system at the department store. Mouse is disappointed at first, but seems to get over it. He leaves for the evening to go see Skillet. Mouse is arrested on his 18th birthday - for holding up a liquor store.",
+        "title_suggest": {
+            "input": [
+                "Meaty Dreamy",
+                "Dreamy"
+            ]
+        },
+        "type": "episode",
+        "title": "Meaty Dreamy",
+        "expiration_date": 1672117140,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 685.75,
+        "episode_number": "8",
+        "original_air_date": 1163396700,
+        "clip_order": null,
+        "auth_launch_date": 1652155200,
+        "modified": 1668993891,
+        "media_id": "f198bcd35f57786a9ec733748fb89cf24fb36b70",
+        "airing_id": "RADS1011212200045124",
+        "id": "R_61mg_oRk6mMf6a6UZ_0w",
+        "slug": "meaty-dreamy",
+        "views": 163529,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_2022012260-12oz_015_BIM_9389773.jpg",
+        "created": 1402945460,
+        "title_id": "654437",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1668993891,
+        "tags": [
+            "12 oz mouse episode 15 meaty dreamy"
+        ],
+        "rating_count": 1055,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669093200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_2022012260-12oz_015_BIM_9389773.jpg",
         "cma_id": ""
     },
     {
@@ -217,59 +273,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1663646400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201159372-12oz_006_BIM_9318307.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451669520,
-        "auth_expiration_date": 1669093140,
-        "tms_id": "EP007542790005",
-        "rating": 6.798024,
-        "description": "During a schoolroom history class, the Eye calls George Washington a racist because he was a slave owner. The Eye gets suspended from school and sent home. Rhoda and Liquor try to persuade the Eye to apologize for his statement.",
-        "title_suggest": {
-            "input": [
-                "Rememorized"
-            ]
-        },
-        "type": "episode",
-        "title": "Rememorized",
-        "expiration_date": 1666065540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 689.39,
-        "episode_number": "5",
-        "original_air_date": 1131946200,
-        "clip_order": null,
-        "auth_launch_date": 1666065600,
-        "modified": 1665853553,
-        "media_id": "ace879e352e8385cf1f75ba847b3332911f8731c",
-        "airing_id": "RADS1010152200036759",
-        "id": "YtD8liBlRy6x5kS9f8LcUw",
-        "slug": "rememorized",
-        "views": 160960,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201159222-12oz_005_dst_cid-9343148.jpg",
-        "created": 1402945460,
-        "title_id": "618749",
-        "season_number": "1",
-        "tv_rating": "tv-14-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1665853553,
-        "tags": [
-            "12 oz mouse episode rememorized"
-        ],
-        "rating_count": 911,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663041600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201159222-12oz_005_dst_cid-9343148.jpg",
         "cma_id": ""
     },
     {
