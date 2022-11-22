@@ -1,7 +1,6 @@
 {
-    "updated": 1669143985,
-    "added": [],
-    "removed": [
+    "updated": 1669152080,
+    "added": [
         {
             "auth_expiration_date": 1669352340,
             "tms_id": "EP032284200114",
@@ -28,9 +27,9 @@
             "original_air_date": "1587879000",
             "auth_launch_date": 1651982400,
             "clip_order": null,
-            "airing_id": "RADS1004182200089744",
+            "airing_id": "RADS1005042200095674",
             "media_id": "1824c6be8271bf2b1e9feac84956f49f171fc283",
-            "modified": 1651712306,
+            "modified": 1669151967,
             "slug": "the-final-invaders",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/1_204231034181-BlackClover_114.jpg",
@@ -38,7 +37,7 @@
             "season_number": "3",
             "title_id": "2219231",
             "tv_rating": "tv-pg",
-            "published": 1651712306,
+            "published": 1669151967,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
