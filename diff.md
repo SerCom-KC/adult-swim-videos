@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 23, 2022 at 17:30:31 EST_
+_Last Update: November 23, 2022 at 18:00:39 EST_
 ## Video added
 ### Summary
-2194549 Gemusetto: 1  
-### 2241837
-**Gemusetto S02E12 - Episode Twelve: Ab7#11**  
-TV-MA-LS 🔓 11:07  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-twelve-ab-7-11  
-seriesid=`2194549` titleid=`2241837` id=`AXZmni7MbxpjZvbXYloc` mediaid=`c4297aae8ae725d78e4e6011766926846c6ebea6`  
-_Bendy Rivers becomes cosmically self-destructive as he hurdles through hells and his family mourns their loss. But how will he cope with realizing his enemy is actually trying to save the universe?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836487-GSMP_212_dup-20201209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836487-GSMP_212_dup-20201209.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177817
+**Naruto: Shippuden S07E39 - The Promise That Was Kept**  
+TV-PG 🔒 21:51  
+⌛ November 27, 2022 at 06:29:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-promise-that-was-kept  
+seriesid=`812206` titleid=`2177817` id=`AYBr9C0P_0O4w1rD3SG9` mediaid=`369915fe3b4554c368abda37fd32755ea00a6226`  
+_Naruto's power of persuasion moves Obito's heart. Due to the influence of the Ten Tails, visions of himself and Rin from the past appear in the inner realm and play havoc with Obito's emotions._  
+<a href="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271256369-NarutoShippuden_387_ThePromiseThatWasKept.png"><img src="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271256369-NarutoShippuden_387_ThePromiseThatWasKept.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
