@@ -62,59 +62,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447171440,
-        "auth_expiration_date": 1669179540,
-        "tms_id": "EP007959510003",
-        "rating": 7.747634,
-        "description": "When Orel learns that God hates waste he decides to recycle his own urine.",
-        "title_suggest": {
-            "input": [
-                "Waste"
-            ]
-        },
-        "type": "episode",
-        "title": "Waste",
-        "expiration_date": 1666151940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 694.3670337,
-        "episode_number": "4",
-        "original_air_date": 1138597200,
-        "clip_order": null,
-        "auth_launch_date": 1666152000,
-        "modified": 1665993185,
-        "media_id": "8c6284a781035928667f1c88e9c9d93d2e2f9cf5",
-        "airing_id": "RADS1009122200027662",
-        "id": "3ENSjrGrRg6nCQ0rI2f4cg",
-        "slug": "waste",
-        "views": 225047,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111551456-moralorel_004.jpg",
-        "created": 1402945470,
-        "title_id": "633146",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1665993185,
-        "tags": [
-            "moral orel episode 4 waste urine drink pee sports coach race"
-        ],
-        "rating_count": 634,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663128000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551456-moralorel_004.jpg",
-        "cma_id": "1323456"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -291,6 +238,59 @@
         "launch_date": 1667970000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111555370-moralorel_014.jpg",
         "cma_id": "1361193"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447172160,
+        "auth_expiration_date": 1649217540,
+        "tms_id": "EP007959510015",
+        "rating": 7.8256173,
+        "description": "Miss Censordoll, Moralton's intolerant librarian, takes Orel under her wing as her apprentice and teaches him how to be offended.",
+        "title_suggest": {
+            "input": [
+                "Offensiveness"
+            ]
+        },
+        "type": "episode",
+        "title": "Offensiveness",
+        "expiration_date": 1672203540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 702.4671338,
+        "episode_number": "5",
+        "original_air_date": 1165814100,
+        "clip_order": null,
+        "auth_launch_date": 1646197200,
+        "modified": 1669024043,
+        "media_id": "5b468139ce1e082c7a1eb7890039cfaddc84014f",
+        "airing_id": "RADS1011212200045266",
+        "id": "9psh7ZYQQ6Om5WDEMjChyQ",
+        "slug": "offensiveness",
+        "views": 213020,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311155801-moralorel_020.jpg",
+        "created": 1402945470,
+        "title_id": "653300",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1669024043,
+        "tags": [
+            "moral orel episode 20 offensiveness censorsoll banning offended eggs"
+        ],
+        "rating_count": 648,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669179600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155801-moralorel_020.jpg",
+        "cma_id": "1369683"
     },
     {
         "auth": false,
@@ -741,7 +741,7 @@
         "cma_id": "1328413"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171500,
         "auth_expiration_date": 1672203540,
         "tms_id": "EP007959510008",
