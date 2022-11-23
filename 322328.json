@@ -1249,58 +1249,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1450888740,
-        "auth_expiration_date": 1669179540,
-        "tms_id": "EP001022180089",
-        "rating": 6.9174314,
-        "description": "The comedy stakes are high when Space Ghost, Moltar, Zorak and guest Steven Wright are stalked by body-snatching pods. Show producers auctioned off the ending of this episode on eBay.",
-        "title_suggest": {
-            "input": [
-                "Snatch"
-            ]
-        },
-        "type": "episode",
-        "title": "Snatch",
-        "expiration_date": 1648007940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 672.333667,
-        "episode_number": "2",
-        "original_air_date": 940042800,
-        "clip_order": null,
-        "auth_launch_date": 1667361600,
-        "modified": 1669024648,
-        "airing_id": "RADS1010312200040433",
-        "media_id": "0aad3f89eea134bc783c67e09d91e831c9fb4347",
-        "id": "Wps45WdlRR2JSgi-NCspcg",
-        "slug": "snatch",
-        "views": 26435,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201151201-sgc2c_9902_air.jpg",
-        "created": 1402945476,
-        "title_id": "332368",
-        "season_number": "6",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1669024648,
-        "tags": [
-            "Space Ghost Episode 70 Snatch"
-        ],
-        "rating_count": 218,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1644987600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151201-sgc2c_9902_air.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1448046300,
         "auth_expiration_date": 1686110340,
@@ -2259,58 +2207,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1449532680,
-        "auth_expiration_date": 1669179540,
-        "tms_id": "EP001022180082",
-        "rating": 7.6986303,
-        "description": "Space Ghost marks a \"special notch in the belt that is the Space Ghost saga\" with returning guests Bobcat Goldthwait and Judy Tenuda. The show also includes special appearances by villian-turned-announcer Tansut and the evil Chad Ghostal, as well as a spectacular career retrospective montage compiled by Moltar.",
-        "title_suggest": {
-            "input": [
-                "Anniversary"
-            ]
-        },
-        "type": "episode",
-        "title": "Anniversary",
-        "expiration_date": 1640753940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 646.6339673,
-        "episode_number": "4",
-        "original_air_date": 907990200,
-        "clip_order": null,
-        "auth_launch_date": 1667361600,
-        "modified": 1668641732,
-        "airing_id": "RADS1010312200040428",
-        "media_id": "22e16543fbb5dca5ccdf9cf6862981ab443ad23a",
-        "id": "oFUdDn-rRqq3wjM-TmHlKw",
-        "slug": "anniversary",
-        "views": 39149,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417105349-sgc2c_9704_air_cid-9118535.jpg",
-        "created": 1402945476,
-        "title_id": "322330",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1668641732,
-        "tags": [
-            "sgc2c space ghost coast to coast episode 37 anniversary bobcat goldthwait just tenuda tansut chad ghostal"
-        ],
-        "rating_count": 146,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1637730000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417105349-sgc2c_9704_air_cid-9118535.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1450803060,
         "auth_expiration_date": 1676437140,
@@ -2468,7 +2364,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449258420,
         "auth_expiration_date": 1698811140,
         "tms_id": "EP001022180105",

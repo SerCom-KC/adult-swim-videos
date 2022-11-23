@@ -306,53 +306,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1669179540,
-        "tms_id": "EP012792980153",
-        "description": "Tina decides to join the Junior Lifeguards, but one of her fellow junior guards tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack.",
-        "title_suggest": {
-            "input": [
-                "Boywatch"
-            ]
-        },
-        "title": "Boywatch",
-        "expiration_date": 1656302340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1301.3,
-        "episode_number": "17",
-        "original_air_date": 1553477400,
-        "auth_launch_date": 1668574800,
-        "clip_order": null,
-        "media_id": "dc02c49b35f4dcc44deed10266f3a480daca6fb1",
-        "modified": 1668292365,
-        "airing_id": "RADS1011122200044426",
-        "slug": "boywatch",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15531195803037.jpg",
-        "created": 1552400297,
-        "season_number": "8",
-        "title_id": "2171457",
-        "tv_rating": "tv-pg-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1668292365,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655697600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15531195803037.jpg",
-        "id": "AWlyRK-eAScUIg8Xxd78",
-        "auth": false
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1657943940,
@@ -403,6 +356,56 @@
         "launch_date": 1669006800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg",
         "cma_id": "1468006"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1669784340,
+        "tms_id": "EP012792980006",
+        "description": "Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day.",
+        "title_suggest": {
+            "input": [
+                "Sheesh! Cab, Bob?",
+                "Cab, Bob?",
+                "Bob?"
+            ]
+        },
+        "expiration_date": 1658116740,
+        "title": "Sheesh! Cab, Bob?",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1294.5599,
+        "episode_number": "6",
+        "original_air_date": 1373335200,
+        "clip_order": null,
+        "auth_launch_date": 1669179600,
+        "modified": 1668973683,
+        "media_id": "d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95",
+        "airing_id": "RADS1011202200045117",
+        "id": "Z-2JQXrqSduNuyz2syFZpQ",
+        "slug": "sheesh-cab-bob",
+        "views": 4589,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088799923017.jpg",
+        "created": 1403209880,
+        "season_number": "1",
+        "title_id": "2003428",
+        "tv_rating": "tv-pg-dls",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1668973683,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1657512000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg",
+        "cma_id": "1491680"
     },
     {
         "auth": true,

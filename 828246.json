@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446739020,
         "auth_expiration_date": 1672203540,
         "tms_id": "EP013120360030",
@@ -94,57 +94,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191106/thumbnails/2_191161623148-eagle2.jpg",
         "id": "AW5CmdRY1YiBSfg0KYRY",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446738840,
-        "auth_expiration_date": 1669179540,
-        "tms_id": "EP013120360025",
-        "rating": 5.3373494,
-        "description": "Events are set in motion.",
-        "title_suggest": {
-            "input": [
-                "Moss"
-            ]
-        },
-        "type": "episode",
-        "title": "Moss",
-        "expiration_date": 1666151940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 1236,
-        "episode_number": "1",
-        "original_air_date": 1384491600,
-        "clip_order": null,
-        "auth_launch_date": 1666152000,
-        "modified": 1665995298,
-        "media_id": "66b57796001b7b207fdd2e2f45b879ebf60339af",
-        "airing_id": "RADS1010172200036897",
-        "id": "I4153dsdT6CVsoJWU_m6ww",
-        "slug": "moss",
-        "views": 174667,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/1_2115121593-eagleheart_025_dup-20140110.jpg",
-        "created": 1402945464,
-        "title_id": "2012945",
-        "season_number": "3",
-        "tv_rating": "tv-14",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1665995298,
-        "tags": [],
-        "rating_count": 249,
-        "collection_title": "Eagleheart",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663128000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_2115121593-eagleheart_025_dup-20140110.jpg",
-        "cma_id": "1419108"
     },
     {
         "auth": true,
@@ -473,6 +422,59 @@
         "launch_date": 1667970000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151213182-eagleheart_033_dup-20140108.jpg",
         "cma_id": "1453497"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446676200,
+        "auth_expiration_date": 1654660740,
+        "tms_id": "EP013120360001",
+        "rating": 8.630633,
+        "description": "In the series premiere, Marshal Chris Monsanto must avenge his fallen partners while upholding the marshal code. The results will shock you.",
+        "title_suggest": {
+            "input": [
+                "Get Worse Soon",
+                "Worse Soon",
+                "Soon"
+            ]
+        },
+        "type": "episode",
+        "title": "Get Worse Soon",
+        "expiration_date": 1672203540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 676.3670337,
+        "episode_number": "1",
+        "original_air_date": 1296795600,
+        "clip_order": null,
+        "auth_launch_date": 1651636800,
+        "modified": 1669012253,
+        "media_id": "71d379617143767bdbbd19c966b21a42291b90d0",
+        "airing_id": "RADS1011212200045255",
+        "id": "sEMVkw39RSyFLjl1krdczg",
+        "slug": "get-worse-soon",
+        "views": 217411,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341543532-eagleheart_107_bim.jpg",
+        "created": 1402945464,
+        "title_id": "828253",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1669012253,
+        "tags": [],
+        "rating_count": 1397,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669179600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341543532-eagleheart_107_bim.jpg",
+        "cma_id": "1462916"
     },
     {
         "auth": true,
