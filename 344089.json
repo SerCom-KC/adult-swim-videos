@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1672203540,
         "tms_id": "EP002989350006",
@@ -106,63 +106,6 @@
         "launch_date": 1663732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162506-hmovies_004.jpg",
         "cma_id": "991631"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1669179540,
-        "tms_id": "EP002989350003",
-        "rating": 9.0482855,
-        "description": "Brendon documents his first fight on video.",
-        "title_suggest": {
-            "input": [
-                "The Art of the Sucker Punch",
-                "Art of the Sucker Punch",
-                "of the Sucker Punch",
-                "the Sucker Punch",
-                "Sucker Punch",
-                "Punch"
-            ]
-        },
-        "type": "episode",
-        "title": "The Art of the Sucker Punch",
-        "expiration_date": 1666151940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1344.005,
-        "episode_number": "3",
-        "original_air_date": 1003716000,
-        "clip_order": null,
-        "auth_launch_date": 1666152000,
-        "modified": 1665993190,
-        "media_id": "b5d13a43bdd7dec3a19a104822c7d44035bd8ecf",
-        "airing_id": "RADS1010172200036882",
-        "id": "M2u8s_ADTveee87HT10aqg",
-        "slug": "the-art-of-the-sucker-punch",
-        "views": 397487,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035162164-hmovies_003.jpg",
-        "created": 1402945467,
-        "title_id": "344119",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1665993190,
-        "tags": [
-            "home movies episode 3 art of the sucker punch shannon bully video fight school"
-        ],
-        "rating_count": 642,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663128000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162164-hmovies_003.jpg",
-        "cma_id": "991590"
     },
     {
         "auth": true,
@@ -488,6 +431,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1668574800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035165282-hmovies_012.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1643777940,
+        "tms_id": "EP002989350013",
+        "rating": 8.626713,
+        "description": "Brendon, Melissa and Jason win local filmmaker awards. In an interview for the local news, the anchor asks Brendon about his family, which triggers a sudden curiosity about his dad.",
+        "title_suggest": {
+            "input": [
+                "Brendon's Choice",
+                "Choice"
+            ]
+        },
+        "type": "episode",
+        "title": "Brendon's Choice",
+        "expiration_date": 1672203540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1322.4671338,
+        "episode_number": "13",
+        "original_air_date": 1002508200,
+        "clip_order": null,
+        "auth_launch_date": 1640754000,
+        "modified": 1669013732,
+        "media_id": "389bfde4dcfd8618588aa0b0079fdf20dee5f89f",
+        "airing_id": "RADS1011212200045262",
+        "id": "kh0l1Hm0SDqMD2hnFyOS0w",
+        "slug": "brendons-choice",
+        "views": 352893,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035165447-hmovies_013.jpg",
+        "created": 1402945467,
+        "title_id": "344129",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1669013732,
+        "tags": [
+            "home movies brendon's choice episode 13"
+        ],
+        "rating_count": 584,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669179600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035165447-hmovies_013.jpg",
         "cma_id": ""
     },
     {
