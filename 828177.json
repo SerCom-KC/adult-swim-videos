@@ -357,6 +357,55 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1663819140,
+        "tms_id": "",
+        "description": "An outdated rule, a basket of law rocks, and Gary stand between a devout barbecue purveyor and eternal damnation.",
+        "title_suggest": {
+            "input": [
+                "Trial by Gary",
+                "by Gary",
+                "Gary"
+            ]
+        },
+        "title": "Trial by Gary",
+        "expiration_date": 1672289940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 675.88,
+        "episode_number": "6",
+        "original_air_date": 1558152900,
+        "auth_launch_date": 1660795200,
+        "clip_order": null,
+        "media_id": "20d0f885c6b189cba280b9336d70c59c6e15e1d0",
+        "modified": 1669054420,
+        "airing_id": "RADS1011212200045410",
+        "slug": "trial-by-gary",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155802479320520.jpg",
+        "created": 1556816611,
+        "season_number": "4",
+        "title_id": "2191440",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1669054420,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669266000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg",
+        "id": "AWp5gEnSHl5gR6828zZS",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1671080340,
         "tms_id": "",
         "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
@@ -972,7 +1021,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447787400,
         "auth_expiration_date": 1672289940,
         "tms_id": "EP013726210020",
@@ -1214,57 +1263,6 @@
         "launch_date": 1663819200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ypf_cc_104_pt1_cc_ydhud-06.jpg",
         "cma_id": "1272006"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447786800,
-        "auth_expiration_date": 1669265940,
-        "tms_id": "EP013726210004",
-        "rating": 7.2985077,
-        "description": "A plan to put Satan's face on the nickel leaves Gary stranded in the Appalachian mountains. Outdoorsy hilarity ensues.",
-        "title_suggest": {
-            "input": [
-                "Take Life by the Horns",
-                "Life by the Horns",
-                "by the Horns",
-                "the Horns",
-                "Horns"
-            ]
-        },
-        "type": "episode",
-        "title": "Take Life by the Horns",
-        "expiration_date": 1666238340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 673.95,
-        "episode_number": "3",
-        "original_air_date": 1367553600,
-        "clip_order": null,
-        "auth_launch_date": 1666238400,
-        "modified": 1666017163,
-        "airing_id": "RADS1009122200027750",
-        "media_id": "e898badc0e94619a0874b25a44b11eba415d7017",
-        "id": "pX2R9RuqRyqn0KSltqzcOA",
-        "slug": "take-life-by-the-horns",
-        "views": 27943,
-        "created": 1402945482,
-        "title_id": "2001908",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1666017163,
-        "tags": [],
-        "rating_count": 67,
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1663214400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ypf_cc_103_pt2-01.jpg",
-        "cma_id": "1267941"
     },
     {
         "auth": false,
