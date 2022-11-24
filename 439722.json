@@ -2408,6 +2408,57 @@
         "cma_id": "981013"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1449842400,
+        "auth_expiration_date": 1692244740,
+        "tms_id": "EP005604540063",
+        "rating": 7.1132073,
+        "description": "Every year, since he was a little boy, Dr. Venture flies to the tiny island of Spanikos for a week of fun in the Grecian sun. But this year a dangerous new enemy and a dark secret from Doc's past threaten to turn his vacation into a slay-cation.",
+        "title_suggest": {
+            "input": [
+                "Spanakopita!"
+            ]
+        },
+        "type": "episode",
+        "title": "Spanakopita!",
+        "expiration_date": 1666238340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1353.023,
+        "episode_number": "5",
+        "original_air_date": 1372046400,
+        "clip_order": null,
+        "auth_launch_date": 1669266000,
+        "modified": 1669240744,
+        "media_id": "c665568421952c0ae4d5d0e484bf0d5e3601d6b6",
+        "airing_id": "RADS1011232200046390",
+        "id": "P-z9OONhSgqPXlW5VpfCqQ",
+        "slug": "spanakopita",
+        "views": 98732,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161411477-venture_503_dup_20130521.jpg",
+        "created": 1402945480,
+        "title_id": "2002552",
+        "season_number": "5",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1669240744,
+        "tags": [],
+        "rating_count": 371,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663214400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411477-venture_503_dup_20130521.jpg",
+        "cma_id": "2002552"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1451679720,
         "auth_expiration_date": 1667447999,
@@ -4626,7 +4677,7 @@
         "cma_id": "988772"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1456761720,
         "auth_expiration_date": 1669265999,
         "tms_id": "EP005604540073",
@@ -4800,7 +4851,7 @@
         "cma_id": "990755"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783320,
         "auth_expiration_date": 1695268740,
         "tms_id": "EP005604540068",

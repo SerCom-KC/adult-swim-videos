@@ -2,105 +2,80 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 24, 2022 at 00:00:33 EST_
+_Last Update: November 24, 2022 at 00:30:29 EST_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
-2161118 Joe Pera Talks With You: 1  
-867968 The Heart, She Holler: 1  
-### 2069569
-**American Dad S13E16 - Persona Assistant**  
-TV-14-DLSV 🔒 21:02  
-⌛ November 30, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/persona-assistant  
-seriesid=`581006` titleid=`2069569` id=`AWUlXVF1h5enQuYyHJfG` mediaid=`4cef04fe5be193d3d9142aa77acc8e97381757a6`  
-_In American Dad's 250th episode, Roger has a medical emergency and Stan has to take over his personas._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714151340-americandad_1216_air_cid-3TFTJ.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714151340-americandad_1216_air_cid-3TFTJ.jpg" height="144px" /></a>
-### 2069570
-**American Dad S13E17 - The Legend of Old Ulysses**  
-TV-14-DLV 🔒 21:03  
-⌛ November 30, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-legend-of-old-ulysses  
-seriesid=`581006` titleid=`2069570` id=`AWVZA5A9h5enQuYyHe9E` mediaid=`6a83f15d19deef060f7d4298c5a238e284a5b2cd`  
-_The family visits Possum Lake. Roger learns to ride a bike._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714150345-americandad_1217_air_cid-3TPTW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714150345-americandad_1217_air_cid-3TPTW.jpg" height="144px" /></a>
-### 2003429
-**Bob's Burgers S01E07 - Bed & Breakfast**  
-TV-14-DLSV 🔒 21:35  
-⌛ November 30, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/bed-breakfast  
-seriesid=`2003422` titleid=`2003429` id=`3IyKle5KTkmV2gK-NLiAhQ` mediaid=`331d877c5b9ce878fabf44979699c674714437f4`  
-_With a long weekend approaching, Linda sees an opportunity to capitalize on the tourist traffic by turning their home into a bed and breakfast. As usual, she goes overboard and gets a little crazy when her efforts aren't appreciated._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088796942016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088796942016.jpg" height="144px" /></a>
-### 2298525
-**Joe Pera Talks With You S03E09 - Joe Pera Builds a Chair With You**  
-TV-14 🔒 22:32  
-⌛ February 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-builds-a-chair-with-you  
-seriesid=`2161118` titleid=`2298525` id=`AX2lAQ9DUQa40cfnRS7X` mediaid=`2b0d79163278fb3975d4fea74e27da18f710165e`  
-_Joe Pera tries his hand at woodworking._  
-<a href="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101040370-JoePeraTalksWithYou_309_JoePeraBuildsAChairWithYou.png"><img src="https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101040370-JoePeraTalksWithYou_309_JoePeraBuildsAChairWithYou.png" height="144px" /></a>
-### 2041655
-**The Heart, She Holler S03E03 - Klansgender Rights**  
-TV-MA 🔓 11:16  
+638050 Frisky Dingo: 1  
+2104364 Hot Streets: 1  
+629835 King of the Hill: 1  
+439722 The Venture Bros.: 1  
+828177 Your Pretty Face is Going to Hell: 1  
+### 654436
+**Frisky Dingo S01E10 - Flowers For Nearl**  
+TV-MA 🔓 10:39  
 ⌛ December 28, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-heart-she-holler/klansgender-rights  
-seriesid=`867968` titleid=`2041655` id=`KjMIyGGOTR2l0lv0Qya0Lg` mediaid=`249532017dcf07811127d8016aac6d12b2f9f852`  
-_Children are born corrupt, but gradually over time they begin to pass away and then rot._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351126477-heartsheholler_303_023_dup-20141023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351126477-heartsheholler_303_023_dup-20141023.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/frisky-dingo/flowers-for-nearl  
+seriesid=`638050` titleid=`654436` id=`xXqEdCcwTbilebceSuRUng` mediaid=`6ed14fc13f5e82f9e59dd76abebbfce601775371`  
+_The Xtacles, under threat of death at the hands of Stan (who, although we haven't mentioned him yet, is in just about every episode, and who is also impersonating superhero Awesome-X) have to find a replacement hostage for billionaire tycoon Xander Crews.  Their search-somewhat predictably-leads them to Nearl, the local retarded wino guy._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165560-fd_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165560-fd_010.jpg" height="144px" /></a>
+### 2184496
+**Hot Streets S02E01 - Creamy Zeus**  
+TV-14-DLV 🔓 11:10  
+⌛ December 28, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/hot-streets/creamy-zeus  
+seriesid=`2104364` titleid=`2184496` id=`AWd2LMnXAsbXwNj3wAW7` mediaid=`b0669d2c8f384eea93f1439c403d0c3818800009`  
+_Hot Streets gets a new boss. French finds himself stranded on an island full of Hot Streets clones._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351528325-hotstreets_201_dup-20181211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351528325-hotstreets_201_dup-20181211.jpg" height="144px" /></a>
+### 731476
+**King of the Hill S07E14 - Board Games**  
+TV-PG-DV 🔒 24:10  
+⌛ November 30, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/board-games  
+seriesid=`629835` titleid=`731476` id=`Lf-_vYu0TSCCH6N50LtJkw` mediaid=`b205075f9df529c0990e001e439fcb852de39f7f`  
+_Tension erupts between Peggy, Minh and Nancy when a seat opens on the school board and each of the women announces their intention to run._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221641903638.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221641903638.jpg" height="144px" /></a>
+### 2002552
+**The Venture Bros. S05E05 - Spanakopita!**  
+TV-14-DLV 🔒 22:33  
+⌛ August 16, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/spanakopita  
+seriesid=`439722` titleid=`2002552` id=`P-z9OONhSgqPXlW5VpfCqQ` mediaid=`c665568421952c0ae4d5d0e484bf0d5e3601d6b6`  
+_Every year, since he was a little boy, Dr. Venture flies to the tiny island of Spanikos for a week of fun in the Grecian sun. But this year a dangerous new enemy and a dark secret from Doc's past threaten to turn his vacation into a slay-cation._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411477-venture_503_dup_20130521.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411477-venture_503_dup_20130521.jpg" height="144px" /></a>
+### 2191440
+**Your Pretty Face is Going to Hell S04E06 - Trial by Gary**  
+ 🔓 11:15  
+⌛ December 28, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/trial-by-gary  
+seriesid=`828177` titleid=`2191440` id=`AWp5gEnSHl5gR6828zZS` mediaid=`20d0f885c6b189cba280b9336d70c59c6e15e1d0`  
+_An outdated rule, a basket of law rocks, and Gary stand between a devout barbecue purveyor and eternal damnation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2073005 Neon Joe: 1  
-581006 American Dad: 2  
-609707 Lucy, The Daughter of the Devil: 1  
-867968 The Heart, She Holler: 1  
-### 2171458
-**Bob's Burgers S08E18 - As I Walk Through the Alley of the Shadow of Ramps**  
-TV-PG-L 🔒 21:36  
+629835 King of the Hill: 1  
+638050 Frisky Dingo: 1  
+828177 Your Pretty Face is Going to Hell: 1  
+### 731428
+**King of the Hill S07E09 - Pigmalion**  
+TV-PG-DLV 🔒 24:29  
 ⌛ November 23, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/as-i-walk-through-the-alley-of-the-shadow-of-ramps  
-seriesid=`2003422` titleid=`2171458` id=`AWhYh5S3Hl5gR6828x2Q` mediaid=`a924b62b2974763a32b68f1a60caef5524dbbdea`  
-_When a malicious juice truck owner tries to set up shop in the Belcher's alley, Louise devises a plan to win back their turf. Meanwhile, Linda learns that she can't always run to her sister's defense._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg" height="144px" /></a>
-### 2118596
-**Neon Joe S02E03 - Rules of the Road**  
-TV-14-DLV 🔓 21:55  
+https://www.adultswim.com/videos/king-of-the-hill/pigmalion  
+seriesid=`629835` titleid=`731428` id=`QSeaB5kISmKIfWxoZkZguw` mediaid=`0748e114260a96393cc2fe6005d54a701ce9bfda`  
+_Luanne is wooed by millionaire Trip Larsen... who has bizarre plans for her._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141014341-Pigmalion.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141014341-Pigmalion.png" height="144px" /></a>
+### 707264
+**Frisky Dingo S02E12 - Differences Are Put Slightly Aside**  
+TV-MA 🔒 11:23  
 ⌛ November 23, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/rules-of-the-road  
-seriesid=`2073005` titleid=`2118596` id=`pFI4H7GGSOqx35I3-Tib2g` mediaid=`4f100a9f6f2e7627b3393e6b1c0d03270ad0e391`  
-_Having escaped prison, Neon Joe confronts billionaire Elon Musk-type inventor Vance Dontay, and gets the shocking surprise of his life, forcing him to confront his demons. Will he succeed???_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114774-neonjoe_203_dup-20170508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312114774-neonjoe_203_dup-20170508.jpg" height="144px" /></a>
-### 2069558
-**American Dad S13E05 - (You Gotta) Strike for Your Right**  
-TV-14-DLSV 🔒 21:02  
+https://www.adultswim.com/videos/frisky-dingo/differences-are-put-slightly-aside  
+seriesid=`638050` titleid=`707264` id=`BKGrcKizT8qkDwDR59o2eA` mediaid=`a38a1454f443d9323aa378974a018cc89b5152e7`  
+_Differences are put slightly aside._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034171169-fd_026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034171169-fd_026.jpg" height="144px" /></a>
+### 2001908
+**Your Pretty Face is Going to Hell S01E03 - Take Life by the Horns**  
+TV-14-DLSV 🔒 11:13  
 ⌛ November 23, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/you-gotta-strike-for-your-right  
-seriesid=`581006` titleid=`2069558` id=`AWBGCJbQwdpKFAKSb0FQ` mediaid=`1de57ad7b65fa747c811f1d1bfc0ae638219da07`  
-_Hayley witnesses harsh working conditions at the CIA and encourages action._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg" height="144px" /></a>
-### 2069557
-**American Dad S13E04 - The Mural of the Story**  
-TV-14-DLSV 🔒 21:02  
-⌛ November 23, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-mural-of-the-story  
-seriesid=`581006` titleid=`2069557` id=`HaM_sE0HSDqPRAv4ZnXN5g` mediaid=`5a836cfd83e71e2a3d6a031f1f85d373681dd25c`  
-_Hayley becomes a town outcast after Stan ruins a town mural. Steve attends clown school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg" height="144px" /></a>
-### 609716
-**Lucy, The Daughter of the Devil S01E05 - Terry The Teratoma**  
-TV-MA 🔒 11:38  
-⌛ November 23, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/lucy-the-daughter-of-the-devil/terry-the-teratoma  
-seriesid=`609707` titleid=`609716` id=`lY14VswLRd2G6It2O8GNiw` mediaid=`10cc15240ef7e056efe16af3dab190968870101b`  
-_A teratoma is tumor that grows teeth and hair. Satan has one removed from his armpit and brings it home to be his friend. Terry the Teratoma immediately falls for Becky the Devil's advocate. Together they plot to kill DJ Jesus who has just published a novel - a thinly disguised roman clef called Lacy._  
-<a href="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361032289-lucy_105_air.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361032289-lucy_105_air.jpg" height="144px" /></a>
-### 2007204
-**The Heart, She Holler S02E07 - An Emotional Can of Mommyworms**  
-TV-MA 🔒 11:16  
-⌛ November 23, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-heart-she-holler/an-emotional-can-of-mommyworms  
-seriesid=`867968` titleid=`2007204` id=`me9GFwZOQemRxE0TZ0AFNg` mediaid=`19a106145e8a8e256eda55d3d47492db8715dd09`  
-_After many lonely years, Hurlan finally gets to feel the cold touch of a mommy._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351122505-heartsheholler_206_013_dup-20130906.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351122505-heartsheholler_206_013_dup-20130906.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/take-life-by-the-horns  
+seriesid=`828177` titleid=`2001908` id=`pX2R9RuqRyqn0KSltqzcOA` mediaid=`e898badc0e94619a0874b25a44b11eba415d7017`  
+_A plan to put Satan's face on the nickel leaves Gary stranded in the Appalachian mountains. Outdoorsy hilarity ensues._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ypf_cc_103_pt2-01.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/ypf_cc_103_pt2-01.jpg" height="144px" /></a>
