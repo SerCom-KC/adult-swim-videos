@@ -255,6 +255,57 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1445372580,
+        "auth_expiration_date": 1678424340,
+        "tms_id": "EP012636510012",
+        "rating": 7.387458,
+        "description": "Dr. Steve learns of a man named Mobin. Sports with Prishpreed and Fortunes with Krabit.",
+        "title_suggest": {
+            "input": [
+                "Life"
+            ]
+        },
+        "type": "episode",
+        "title": "Life",
+        "expiration_date": 1666324740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "qRGWFcDjQv2t5Pb9x17sKA",
+        "duration": 674.4671338,
+        "episode_number": "6",
+        "original_air_date": 1335155400,
+        "clip_order": null,
+        "auth_launch_date": 1669352400,
+        "modified": 1669161562,
+        "media_id": "e112d509da94b66e2970db075efba3462efc0692",
+        "airing_id": "RADS1011222200046334",
+        "id": "GMpZqVm5QwKvia0PxQkjiw",
+        "slug": "life",
+        "views": 144804,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_2032166376-checkitout_206_bim.jpg",
+        "created": 1402945462,
+        "title_id": "887733",
+        "season_number": "2",
+        "tv_rating": "tv-14-ds",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1669161562,
+        "tags": [],
+        "rating_count": 893,
+        "collection_title": "Check It Out! with Dr. Steve Brule",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1663300800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032166376-checkitout_206_bim.jpg",
+        "cma_id": "1454183"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1445373420,
         "auth_expiration_date": 1679630340,
         "tms_id": "EP012636510014",
@@ -583,7 +634,7 @@
         "cma_id": "1414322"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445373540,
         "auth_expiration_date": 1681444740,
         "tms_id": "EP012636510017",
