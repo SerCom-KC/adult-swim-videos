@@ -2262,6 +2262,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1669438740,
+        "tms_id": "",
+        "description": "The Roadkill Rembrandt rides again.",
+        "title_suggest": {
+            "input": [
+                "Let 'er R.I.P.",
+                "'er R.I.P.",
+                "R.I.P."
+            ]
+        },
+        "title": "Let 'er R.I.P.",
+        "expiration_date": 1659153540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 663.4628,
+        "episode_number": "2",
+        "original_air_date": "1636348500",
+        "auth_launch_date": 1661572800,
+        "clip_order": null,
+        "airing_id": "RADS1008262200022969",
+        "media_id": "663cd8f97091bfaa081b713cab3014afdd36f54e",
+        "modified": 1669436061,
+        "slug": "let-er-r-i-p",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181527431-Squidbillies_1105_LetErRIP.png",
+        "created": 1635444359,
+        "season_number": "13",
+        "title_id": "2323129",
+        "tv_rating": "tv-14-dlv",
+        "published": 1669436061,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1656129600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181527431-Squidbillies_1105_LetErRIP.png",
+        "id": "AXzIFIC0UQa40cfnRSgA",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": 1477924260,
         "auth_expiration_date": 1675486740,
@@ -4962,7 +5008,7 @@
         "original_air_date": 1245038400,
         "clip_order": null,
         "auth_launch_date": 1661572800,
-        "modified": 1669434862,
+        "modified": 1669436059,
         "media_id": "09c47ffe4c022b86f7e8bc1e9dd5acbf7237d6e8",
         "airing_id": "RADS1008262200022963",
         "id": "joDCDqTqRJa56ZkvtHrUfw",
@@ -4977,7 +5023,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1669434862,
+        "published": 1669436059,
         "tags": [
             "Squidbillies Episode 45 Confessions of a Gangrenous Mind confederate"
         ],
