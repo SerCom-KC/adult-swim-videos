@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1669525140,
-        "tms_id": "EP003034830026",
-        "description": "While working as a busboy, Bender gets the opportunity to join the Robot Mafia.",
-        "title_suggest": {
-            "input": [
-                "Bender Gets Made",
-                "Gets Made",
-                "Made"
-            ]
-        },
-        "title": "Bender Gets Made",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.033,
-        "episode_number": "17",
-        "original_air_date": "1045454400",
-        "auth_launch_date": 1668920400,
-        "clip_order": null,
-        "airing_id": "RADS1011152200044900",
-        "media_id": "fdc41ddce2b2826a51c50ddacbad5ec91850d1f7",
-        "modified": 1668542274,
-        "slug": "bender-gets-made",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_2222394009-Futurama_026_BenderGetsMade.png",
-        "created": 1645115221,
-        "season_number": "2",
-        "title_id": "437558",
-        "tv_rating": "tv-pg-lv",
-        "published": 1668542274,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_2222394009-Futurama_026_BenderGetsMade.png",
-        "id": "AX8IgiWW_0O4w1rD3RsU",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1669611540,
         "tms_id": "EP003034830028",
         "description": "Mom wants world domination for a Mother's Day gift.",
@@ -227,6 +181,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311142409-Futurama_030_TheHonking.png",
         "id": "AX9A2uHb208s7zyYUMN4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1670129940,
+        "tms_id": "EP003034830031",
+        "description": "Fry and Bender join the military for soldiers' discounts.",
+        "title_suggest": {
+            "input": [
+                "War Is the H-Word",
+                "Is the H-Word",
+                "the H-Word",
+                "H-Word"
+            ]
+        },
+        "title": "War Is the H-Word",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.2331,
+        "episode_number": "2",
+        "original_air_date": 1045800000,
+        "auth_launch_date": 1669525200,
+        "clip_order": null,
+        "airing_id": "RADS1011232200046395",
+        "media_id": "561eb86c466df5e6c496d6e6544461efaae87ead",
+        "modified": 1669243546,
+        "slug": "war-is-the-h-word",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311143582-Futurama_031_WarIsTheHWord.png",
+        "created": 1646070768,
+        "title_id": "437693",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dl",
+        "published": 1669243546,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311143582-Futurama_031_WarIsTheHWord.png",
+        "id": "AX9BdqNO208s7zyYUMOC",
         "auth": true
     }
 ]
