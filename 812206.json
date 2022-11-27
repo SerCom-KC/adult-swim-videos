@@ -834,6 +834,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1678615140,
+        "tms_id": "EP034917240395",
+        "description": "Ino, Sakura and Choji trudge across the desert without any provisions. Ino and Sakura start arguing when a giant scorpion attacks.",
+        "title_suggest": {
+            "input": [
+                "The Place Where I Belong",
+                "Place Where I Belong",
+                "Where I Belong",
+                "I Belong",
+                "Belong"
+            ]
+        },
+        "title": "The Place Where I Belong",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1312.1442,
+        "episode_number": "58",
+        "original_air_date": "1660458600",
+        "auth_launch_date": 1669590000,
+        "clip_order": null,
+        "airing_id": "RADS1011272200046443",
+        "media_id": "663b94b84e967ada9bd32f8e566dee5d75520873",
+        "modified": 1669583114,
+        "slug": "the-place-where-i-belong",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_2289134981-NarutoShippuden_406_ThePlaceWhereIBelong.png",
+        "created": 1660067358,
+        "season_number": "7",
+        "title_id": "2177836",
+        "tv_rating": "tv-pg",
+        "published": 1669583114,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_2289134981-NarutoShippuden_406_ThePlaceWhereIBelong.png",
+        "id": "AYKDuaiBIAxeiVkFtLRT",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1670151540,
         "tms_id": "EP034917240397",
         "description": "As Ino and her team head toward an oasis, they are attacked by a team of Sand Shinobi comprised of Ameno, Shishio, and Kouji.",
