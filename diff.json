@@ -1,7 +1,6 @@
 {
-    "updated": 1669643303,
-    "added": [],
-    "removed": [
+    "updated": 1669644801,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1446844380,
@@ -29,7 +28,7 @@
             "original_air_date": 1122867900,
             "clip_order": null,
             "auth_launch_date": 1666670400,
-            "modified": 1666538821,
+            "modified": 1669644725,
             "media_id": "8e2cb9989758726bb882a4b12a086ace9f90c081",
             "airing_id": "RADS1010232200037892",
             "id": "ksIe2P-IQ4SQrgo6Y-6DNA",
@@ -44,7 +43,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1666538821,
+            "published": 1669644725,
             "tags": [
                 "harvey birdman attorney at law episode 22 civvy shado brain thief murro marauder class action lawsuit"
             ],
@@ -59,5 +58,6 @@
             "collection_title_id": "340539",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
