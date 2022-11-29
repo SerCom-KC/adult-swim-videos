@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451669760,
         "auth_expiration_date": 1672721940,
         "tms_id": "EP007542790011",
@@ -220,59 +220,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1664251200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201159525-12oz_007_BIM_9360231.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451669520,
-        "auth_expiration_date": 1669697940,
-        "tms_id": "EP007542790006",
-        "rating": 9.4816,
-        "description": "Skillet finds a sexually explicit book in the house. He is surprised when it turns out to belong to Spider Boy.  However, Spider Boy's college boyfriend is only using it for a school paper.",
-        "title_suggest": {
-            "input": [
-                "Spharktasm"
-            ]
-        },
-        "type": "episode",
-        "title": "Spharktasm",
-        "expiration_date": 1666670340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 689.32,
-        "episode_number": "6",
-        "original_air_date": 1132551000,
-        "clip_order": null,
-        "auth_launch_date": 1666670400,
-        "modified": 1666378788,
-        "media_id": "01cf985d6c81258ae9eb3283710a8b49755e7414",
-        "airing_id": "RADS1009152200028843",
-        "id": "SxtOPhKtQB2sB58Z3056ww",
-        "slug": "spharktasm",
-        "views": 125680,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201159372-12oz_006_BIM_9318307.jpg",
-        "created": 1402945460,
-        "title_id": "618750",
-        "season_number": "1",
-        "tv_rating": "tv-14-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1666378788,
-        "tags": [
-            "12 oz mouse episode 6 sharktasm"
-        ],
-        "rating_count": 5461,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663646400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201159372-12oz_006_BIM_9318307.jpg",
         "cma_id": ""
     },
     {
@@ -556,6 +503,62 @@
         "modified_by": "ODT Listener",
         "launch_date": 1665460800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220120252-12oz_009_BIM_9381885.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451669940,
+        "auth_expiration_date": 1655783940,
+        "tms_id": "EP007542790019",
+        "rating": 6.4002967,
+        "description": "Skillet, Rooster, and the Eye hold a vigil at the police station while trying to get up the bail money for Mouse. Golden Joe is on the verge of an emotional breakdown.  Rooster is desperate. They almost turn to Shark for the money, but then the real robber is caught and Mouse Fitzgerald is released. But he has lost his job because they found out about his arrest.",
+        "title_suggest": {
+            "input": [
+                "Corndog Chronicles",
+                "Chronicles"
+            ]
+        },
+        "type": "episode",
+        "title": "Corndog Chronicles",
+        "expiration_date": 1672721940,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 690.86,
+        "episode_number": "9",
+        "original_air_date": 1164001500,
+        "clip_order": null,
+        "auth_launch_date": 1652760000,
+        "modified": 1669603563,
+        "media_id": "e074e9fc20d291e07efbb18f2b234c993afce818",
+        "airing_id": "RADS1011272200046567",
+        "id": "zE7fnM4PRBmaUr-9f-VBHQ",
+        "slug": "corndog-chronicles",
+        "views": 172365,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_20220122221-12oz_016_BIM_9390338.jpg",
+        "created": 1402945460,
+        "title_id": "657566",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1669603563,
+        "tags": [
+            "12 oz mouse episode 16 corndog chronicles"
+        ],
+        "rating_count": 1329,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669698000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220122221-12oz_016_BIM_9390338.jpg",
         "cma_id": ""
     }
 ]

@@ -151,7 +151,7 @@
         "auth": true
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1672721940,
         "tms_id": "",
@@ -356,16 +356,18 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153022109555218.jpg"
     },
     {
-        "auth_expiration_date": 1669697940,
-        "tms_id": "SH024223010000",
-        "description": "Horrible news bloopers from Your 7 News that should not be aired - Adults Only.",
+        "ott_launch_date": null,
+        "auth_expiration_date": 1653969540,
+        "tms_id": "EP027786570033",
+        "description": "When you thought nothing could get worse now Lorelei Ramirez makes everything perverted.",
         "title_suggest": {
             "input": [
-                "NewsHits"
+                "Pervert Everything",
+                "Everything"
             ]
         },
-        "title": "NewsHits",
-        "expiration_date": 1666670340,
+        "title": "Pervert Everything",
+        "expiration_date": 1672117140,
         "type": "episode",
         "platforms": [
             "android",
@@ -374,29 +376,31 @@
             "fire-tv"
         ],
         "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 647.9473,
-        "episode_number": "5",
-        "original_air_date": "1464681600",
-        "auth_launch_date": 1666670400,
+        "duration": 674.33,
+        "episode_number": "3",
+        "original_air_date": 1544518800,
+        "auth_launch_date": 1650945600,
         "clip_order": null,
-        "airing_id": "RADS1010232200037895",
-        "media_id": "c83090938d6ce084b2a70050690ef7ce71ec85ce",
-        "modified": 1666539712,
-        "slug": "news-hits",
+        "media_id": "cd8ba9dca2952e388437726cf4905de83e233621",
+        "modified": 1669605038,
+        "airing_id": "RADS1011272200046585",
+        "slug": "pervert-everything",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_2092158142-infomercials_newshits_dup-20160505.jpg",
-        "created": 1598972317,
-        "season_number": "6",
-        "title_id": "2086422",
-        "tv_rating": "tv-14-dls",
-        "published": 1666539712,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15444645561822.jpg",
+        "created": 1544116763,
+        "season_number": "8",
+        "title_id": "2187507",
+        "tv_rating": "tv-ma-ls",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1669605038,
         "tags": [],
         "collection_title": "Infomercials",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1664251200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092158142-infomercials_newshits_dup-20160505.jpg",
-        "id": "AXRKLVCvSeFB2d0c38uG",
+        "launch_date": 1669698000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444645561822.jpg",
+        "id": "AWeEh_u_qD68dq0Op5wA",
         "auth": false
     },
     {
