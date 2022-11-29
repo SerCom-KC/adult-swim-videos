@@ -1872,7 +1872,7 @@
         "launch_date": 1669698000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191010/thumbnails/2_191010155579-robotchicken_1005_dup-20190815.jpg",
         "id": "AW2EToEl1YiBSfg0KXW-",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -4854,55 +4854,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1669697940,
-        "tms_id": "EP007259620222",
-        "description": "Robot Chicken takes Inside Out's Riley further insde and even more out; The Red Skull battles his ultimate nemesis loneliness; Rey gets more than she bargained for at the Skywalker homestead.",
-        "title_suggest": {
-            "input": [
-                "May Cause a Whole Lotta Scabs",
-                "Cause a Whole Lotta Scabs",
-                "a Whole Lotta Scabs",
-                "Whole Lotta Scabs",
-                "Lotta Scabs",
-                "Scabs"
-            ]
-        },
-        "title": "May Cause a Whole Lotta Scabs",
-        "expiration_date": 1660622340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 673.8398,
-        "episode_number": "2",
-        "original_air_date": "1630987200",
-        "auth_launch_date": 1663646400,
-        "clip_order": null,
-        "airing_id": "RADS1009192200029347",
-        "media_id": "5c6a09467d4bb58d700195bc24442478ec66df2a",
-        "modified": 1663598129,
-        "slug": "may-cause-a-whole-lotta-scabs",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_21921513482-RobotChicken_1101_MayCauseAWholeLottaScabs.png",
-        "created": 1630610039,
-        "season_number": "11",
-        "title_id": "2270588",
-        "tv_rating": "tv-ma-l",
-        "published": 1663598129,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1657598400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921513482-RobotChicken_1101_MayCauseAWholeLottaScabs.png",
-        "id": "AXun7qH9UQa40cfnRR4o",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1670907540,
         "tms_id": "EP007259620224",
         "description": "Robot Chicken asks if Totoro is overweight and doesn't like the answer; Jigsaw outgrows his tricycle; The Washington Generals destroy the entire world of basketball!",
@@ -6936,7 +6887,7 @@
         "cma_id": "1471877"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1458568800,
         "auth_expiration_date": 1672721940,
         "tms_id": "EP007259620149",
