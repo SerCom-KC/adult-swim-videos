@@ -56,60 +56,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1669784340,
-        "tms_id": "EP002989350004",
-        "rating": 9.092137,
-        "description": "Taking care of the neighbor's cat isn't as easy as the Smalls thought it would be.",
-        "title_suggest": {
-            "input": [
-                "Brendon Gets Rabies",
-                "Gets Rabies",
-                "Rabies"
-            ]
-        },
-        "type": "episode",
-        "title": "Brendon Gets Rabies",
-        "expiration_date": 1666756740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1331.7674341,
-        "episode_number": "4",
-        "original_air_date": 1003717800,
-        "clip_order": null,
-        "auth_launch_date": 1666756800,
-        "modified": 1666545389,
-        "media_id": "ebad6a1f8bb2b4e2e7e5ba21576e8984a524d89c",
-        "airing_id": "RADS1009152200028903",
-        "id": "LdU165OcT_CgluoKZKnxmQ",
-        "slug": "brendon-gets-rabies",
-        "views": 441278,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035162506-hmovies_004.jpg",
-        "created": 1402945467,
-        "title_id": "344120",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1666545389,
-        "tags": [
-            "home movies episode 4 brendon gets rabies lost cat"
-        ],
-        "rating_count": 738,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663732800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162506-hmovies_004.jpg",
-        "cma_id": "991631"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1670389140,
         "tms_id": "EP002989350005",
         "rating": 9.019515,
@@ -270,7 +216,7 @@
         "cma_id": "991672"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1672808340,
         "tms_id": "EP002989350007",
@@ -431,6 +377,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1668574800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035165282-hmovies_012.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1644382740,
+        "tms_id": "EP002989350014",
+        "rating": 8.634452,
+        "description": "Melissa and Jason help Brendon run for office against the previously undefeated Thurman Thackery. Unsolicited help from the school bully, Shannon, raises questions about the fairness of the campaign. Also: Coach McGuirk gives stand-up comedy a try.",
+        "title_suggest": {
+            "input": [
+                "Politics"
+            ]
+        },
+        "type": "episode",
+        "title": "Politics",
+        "expiration_date": 1672808340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1345.9676343,
+        "episode_number": "1",
+        "original_air_date": 1010372400,
+        "clip_order": null,
+        "auth_launch_date": 1641358800,
+        "modified": 1669704958,
+        "media_id": "78ca9b9187da6df48c668569fcf7a4c44b41234c",
+        "airing_id": "RADS1011282200046951",
+        "id": "iSgoJXKTQAOachOgQ8DLuw",
+        "slug": "politics",
+        "views": 308755,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_203516632-hmovies_014.jpg",
+        "created": 1402945467,
+        "title_id": "344130",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1669704958,
+        "tags": [
+            "home movies episode 14 politics school election class president"
+        ],
+        "rating_count": 476,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669784400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_203516632-hmovies_014.jpg",
         "cma_id": ""
     },
     {

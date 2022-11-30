@@ -998,50 +998,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1669784340,
-        "tms_id": "EP014135410044",
-        "description": "The deepest connection.",
-        "title_suggest": {
-            "input": [
-                "Family"
-            ]
-        },
-        "title": "Family",
-        "type": "episode",
-        "expiration_date": 1669179540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-        "duration": 673.4394,
-        "episode_number": "1",
-        "original_air_date": 1634025600,
-        "auth_launch_date": 1669179600,
-        "clip_order": null,
-        "airing_id": "RADS1011212200045240",
-        "media_id": "585456622cce72e95aaa87b0c00cb1167e28705f",
-        "modified": 1669008917,
-        "slug": "family",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211020/thumbnails/1_2110201135538-FamilyThumb.png",
-        "created": 1633725043,
-        "title_id": "2321721",
-        "season_number": "11",
-        "tv_rating": "tv-14-l",
-        "published": 1669008917,
-        "tags": [],
-        "collection_title": "Off The Air",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1666756800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211020/thumbnails/2_2110201135538-FamilyThumb.png",
-        "id": "AXxhmdL24Xbjep71f6HN",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1670389140,
         "tms_id": "SH014135410000",
         "description": "The Moon is an egg.",
@@ -1083,7 +1039,7 @@
         "launch_date": 1667361600,
         "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181426283-OffTheAir_1102_Moon.png",
         "id": "AXzxSVHv4Xbjep71f6HZ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1669179540,

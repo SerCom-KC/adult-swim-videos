@@ -1,5 +1,56 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1446676260,
+        "auth_expiration_date": 1655265540,
+        "tms_id": "EP013120360002",
+        "rating": 8.639086,
+        "description": "The shocking murder of a local creep leads to an even more shocking discovery.",
+        "title_suggest": {
+            "input": [
+                "Creeps"
+            ]
+        },
+        "type": "episode",
+        "title": "Creeps",
+        "expiration_date": 1672808340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 675.9009009,
+        "episode_number": "2",
+        "original_air_date": 1297400400,
+        "clip_order": null,
+        "auth_launch_date": 1652241600,
+        "modified": 1669652652,
+        "media_id": "a1082105b74ed40523bf570fba4a5e2d13c80627",
+        "airing_id": "RADS1011282200046644",
+        "id": "7l8Nk0SLQJi0UERjFs6RdQ",
+        "slug": "creeps",
+        "views": 243793,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341544167-eagleheart_110_bim.jpg",
+        "created": 1402945464,
+        "title_id": "828256",
+        "season_number": "1",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1669652652,
+        "tags": [],
+        "rating_count": 568,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669784400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341544167-eagleheart_110_bim.jpg",
+        "cma_id": "1468728"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446739020,
         "auth_expiration_date": 1672203540,
@@ -260,57 +311,6 @@
         "cma_id": "1448547"
     },
     {
-        "auth": false,
-        "ott_launch_date": 1446738840,
-        "auth_expiration_date": 1669784340,
-        "tms_id": "EP013120360026",
-        "rating": 6.2682934,
-        "description": "New developments pose a threat.",
-        "title_suggest": {
-            "input": [
-                "Whitley"
-            ]
-        },
-        "type": "episode",
-        "title": "Whitley",
-        "expiration_date": 1666756740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 676.2502085,
-        "episode_number": "2",
-        "original_air_date": 1385096400,
-        "clip_order": null,
-        "auth_launch_date": 1666756800,
-        "modified": 1666544514,
-        "media_id": "ca0e347261dd9f044e405389b7117039e2026f2a",
-        "airing_id": "RADS1009152200028876",
-        "id": "mggJ1C0JS6mndKSZIF-RtA",
-        "slug": "whitley",
-        "views": 22767,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/1_21151215312-eagleheart_026_dup-20140110.jpg",
-        "created": 1402945464,
-        "title_id": "2012946",
-        "season_number": "3",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1666544514,
-        "tags": [],
-        "rating_count": 82,
-        "collection_title": "Eagleheart",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1663732800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151215312-eagleheart_026_dup-20140110.jpg",
-        "cma_id": "1423539"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1446738960,
         "auth_expiration_date": 1671598740,
@@ -539,7 +539,7 @@
         "cma_id": "1431231"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446739020,
         "auth_expiration_date": 1672808340,
         "tms_id": "EP013120360031",
