@@ -1,7 +1,6 @@
 {
-    "updated": 1669820430,
-    "added": [],
-    "removed": [
+    "updated": 1669822227,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1449842400,
@@ -30,9 +29,9 @@
             "original_air_date": 1372651200,
             "clip_order": null,
             "auth_launch_date": 1666843200,
-            "modified": 1666645751,
+            "modified": 1669821541,
             "media_id": "0710c2fdfb9c4be87e17984c075c243f3bd78608",
-            "airing_id": "RADS1009162200029214",
+            "airing_id": "RADS1010242200038302",
             "id": "k87ZqmDHSPOwQxQ-yGVW1A",
             "slug": "o-s-i-love-you",
             "views": 105862,
@@ -45,7 +44,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1666645751,
+            "published": 1669821541,
             "tags": [],
             "rating_count": 304,
             "collection_title": "The Venture Bros.",
@@ -58,5 +57,6 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
