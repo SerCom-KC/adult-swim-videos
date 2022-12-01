@@ -663,7 +663,7 @@
     },
     {
         "ott_launch_date": 1528122660,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1669870740,
         "tms_id": "EP029506900006",
         "description": "In which Joe Pera reads the announcements at church (second Sunday of Advent).",
@@ -819,7 +819,7 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351634588-joeperatalks_102_air_cid-3FKWK.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1526913060,
         "auth_expiration_date": 1686196740,
         "tms_id": "EP029506900001",
@@ -1232,6 +1232,54 @@
         "launch_date": 1657771200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101040370-JoePeraTalksWithYou_309_JoePeraBuildsAChairWithYou.png",
         "id": "AX2lAQ9DUQa40cfnRS7X",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1680753540,
+        "tms_id": "",
+        "description": "Joe Pera takes you to the furniture store to help his friend Gene pick out a retirement chair.",
+        "title_suggest": {
+            "input": [
+                "Joe Pera Sits With You",
+                "Pera Sits With You",
+                "Sits With You",
+                "With You",
+                "You"
+            ]
+        },
+        "title": "Joe Pera Sits With You",
+        "expiration_date": 1661399940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWK7V5RwTdxzjxdClXz8",
+        "duration": 675.5082,
+        "episode_number": "1",
+        "original_air_date": "1636349400",
+        "auth_launch_date": 1669870800,
+        "clip_order": null,
+        "airing_id": "RADS1011282200047243",
+        "media_id": "4e4a60c3c5143fb88b0bda7c72b85e66deb78d17",
+        "modified": 1669713355,
+        "slug": "joe-pera-sits-with-you",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211028/thumbnails/1_21102814016-JoePeraTalksWithYou_301_JoePeraSitsWithYou.png",
+        "created": 1635444016,
+        "season_number": "3",
+        "title_id": "2298517",
+        "tv_rating": "tv-pg",
+        "published": 1669713355,
+        "tags": [],
+        "collection_title": "Joe Pera Talks With You",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1658376000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211028/thumbnails/2_21102814016-JoePeraTalksWithYou_301_JoePeraSitsWithYou.png",
+        "id": "AXzID0QB4Xbjep71f6HT",
         "auth": true
     },
     {
