@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1511796660,
         "auth_expiration_date": 1679025540,
         "tms_id": "EP027912080006",
@@ -343,7 +343,7 @@
         "launch_date": 1669957200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580246898559.jpg",
         "id": "AWmWX7f_Hl5gR6828y3Z",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
