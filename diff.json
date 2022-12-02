@@ -1,7 +1,6 @@
 {
-    "updated": 1669903397,
-    "added": [],
-    "removed": [
+    "updated": 1669950574,
+    "added": [
         {
             "auth_expiration_date": 1669957140,
             "tms_id": "EP032284200115",
@@ -28,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1005132200099284",
             "media_id": "19cc530c947ffddf7bcddd877acd90f6c2169490",
-            "modified": 1662218045,
+            "modified": 1669950208,
             "slug": "mastermind",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200423/thumbnails/1_204231034420-BlackClover_115.jpg",
@@ -36,7 +35,7 @@
             "season_number": "3",
             "title_id": "2219232",
             "tv_rating": "tv-14-v",
-            "published": 1662218045,
+            "published": 1669950208,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -49,5 +48,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
