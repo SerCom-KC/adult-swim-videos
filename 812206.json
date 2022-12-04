@@ -468,52 +468,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1670149740,
-        "tms_id": "EP034917240279",
-        "description": "The Tailed Beasts and the Allied Shinobi Forces shift their focus onto their greatest foe, Madara Uchiha.",
-        "title_suggest": {
-            "input": [
-                "My First Friend",
-                "First Friend",
-                "Friend"
-            ]
-        },
-        "title": "My First Friend",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-        "duration": 1312.4778,
-        "episode_number": "40",
-        "original_air_date": "1651989600",
-        "auth_launch_date": 1661074200,
-        "clip_order": null,
-        "airing_id": "RADS1008162200021649",
-        "media_id": "71ca65e5b693c19761d85d64ce8d7f5a8f81a5d7",
-        "modified": 1669790841,
-        "slug": "my-first-friend",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521540202-NarutoShippuden_388_MyFirstFriend.png",
-        "created": 1651520428,
-        "season_number": "7",
-        "title_id": "2177818",
-        "tv_rating": "tv-pg",
-        "published": 1669790841,
-        "tags": [],
-        "collection_title": "Naruto: Shippuden",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521540202-NarutoShippuden_388_MyFirstFriend.png",
-        "id": "AYCGSdn3_0O4w1rD3SJn",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1670151540,
         "tms_id": "EP034917240280",
         "description": "Hanabi adores her sister Hinata, who struggles to become a worthy successor to the Hyuga Clan.",
@@ -1491,6 +1445,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20221109/thumbnails/2_22119121322-NarutoShippuden_418_TheBlueBeastVsSixPathsMadara.png",
         "id": "AYRdYdgGIAxeiVkFtLSo",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1679221740,
+        "tms_id": "EP034917240423",
+        "description": "Guy activates the Eight Inner Gates Formation and relentlessly attacks Six Paths Madara.",
+        "title_suggest": {
+            "input": [
+                "The Eight Inner Gates Formation",
+                "Eight Inner Gates Formation",
+                "Inner Gates Formation",
+                "Gates Formation",
+                "Formation"
+            ]
+        },
+        "title": "The Eight Inner Gates Formation",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1310.2089,
+        "episode_number": "4",
+        "original_air_date": 1670137200,
+        "auth_launch_date": 1670149800,
+        "clip_order": null,
+        "airing_id": "RADS1011302200047889",
+        "media_id": "fb75fd99aeabb429e40deeaa7dd9dc12c2bcf147",
+        "modified": 1669930021,
+        "slug": "the-eight-inner-gates-formation",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/1_221211626461-NarutoShippuden_420_TheEightInnerGatesFormation.png",
+        "created": 1669785518,
+        "title_id": "2177850",
+        "season_number": "8",
+        "tv_rating": "tv-pg",
+        "published": 1669930021,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211626461-NarutoShippuden_420_TheEightInnerGatesFormation.png",
+        "id": "AYTG-QENIAxeiVkFtLge",
         "auth": true
     }
 ]
