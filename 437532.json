@@ -1,5 +1,54 @@
 [
     {
+        "auth_expiration_date": 1670734740,
+        "tms_id": "EP003034830037",
+        "description": "Flying brains with the power to reduce human intelligence conquer Earth.",
+        "title_suggest": {
+            "input": [
+                "The Day the Earth Stood Stupid",
+                "Day the Earth Stood Stupid",
+                "the Earth Stood Stupid",
+                "Earth Stood Stupid",
+                "Stood Stupid",
+                "Stupid"
+            ]
+        },
+        "title": "The Day the Earth Stood Stupid",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1405.1037,
+        "episode_number": "7",
+        "original_air_date": 1046923200,
+        "auth_launch_date": 1670130000,
+        "clip_order": null,
+        "airing_id": "RADS1011302200047854",
+        "media_id": "bd8542466a7b2589d77cda821f1614b1d084835d",
+        "modified": 1669786080,
+        "slug": "the-day-the-earth-stood-stupid",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171419196-Futurama_036_TheDayTheEarthStoodStupid.png",
+        "created": 1647268212,
+        "title_id": "437700",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "published": 1669786080,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171419196-Futurama_036_TheDayTheEarthStoodStupid.png",
+        "id": "AX-I1i-k_0O4w1rD3R1f",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1670648340,
         "tms_id": "EP003034830036",
         "description": "Bender meets a charming fembot in the Bending Factory when Farnsworth sends him there for rehabilitation.",
@@ -42,53 +91,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171417144-Futurama_035_BendlessLove.png",
         "id": "AX98C5ic208s7zyYUMTv",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1670129940,
-        "tms_id": "EP003034830031",
-        "description": "Fry and Bender join the military for soldiers' discounts.",
-        "title_suggest": {
-            "input": [
-                "War Is the H-Word",
-                "Is the H-Word",
-                "the H-Word",
-                "H-Word"
-            ]
-        },
-        "title": "War Is the H-Word",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.2331,
-        "episode_number": "2",
-        "original_air_date": 1045800000,
-        "auth_launch_date": 1669525200,
-        "clip_order": null,
-        "airing_id": "RADS1011232200046395",
-        "media_id": "561eb86c466df5e6c496d6e6544461efaae87ead",
-        "modified": 1669243546,
-        "slug": "war-is-the-h-word",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311143582-Futurama_031_WarIsTheHWord.png",
-        "created": 1646070768,
-        "title_id": "437693",
-        "season_number": "3",
-        "tv_rating": "tv-pg-dl",
-        "published": 1669243546,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311143582-Futurama_031_WarIsTheHWord.png",
-        "id": "AX9BdqNO208s7zyYUMOC",
         "auth": true
     },
     {
