@@ -353,7 +353,7 @@
         "launch_date": 1668333600,
         "poster": "https://media.cdn.adultswim.com/uploads/20221026/thumbnails/2_2210261154111-OnePiece_593_SaveNamiLuffysFightOnTheSnowCappedMountains.png",
         "id": "AYP2XrDkIAxeiVkFtLSV",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1672635540,
@@ -660,6 +660,57 @@
         "launch_date": 1670148000,
         "poster": "https://media.cdn.adultswim.com/uploads/20221109/thumbnails/2_22119121259-OnePiece_595_CaptureMThePirateAlliancesOperationLaunches.png",
         "id": "AYRdYNGL3sQvipyea_IO",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1671962340,
+        "tms_id": "EP044419410018",
+        "description": "The Straw Hats make a valiant push to capture Caesar Clown - Luffy matches his Armament Haki with Clown's powerful Gas-Gas Fruit powers!",
+        "title_suggest": {
+            "input": [
+                "An Intense Battle! Caesar Exercises His True Power!",
+                "Intense Battle! Caesar Exercises His True Power!",
+                "Battle! Caesar Exercises His True Power!",
+                "Caesar Exercises His True Power!",
+                "Exercises His True Power!",
+                "His True Power!",
+                "True Power!",
+                "Power!"
+            ]
+        },
+        "title": "An Intense Battle! Caesar Exercises His True Power!",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1317.6163,
+        "episode_number": "",
+        "original_air_date": 1670135400,
+        "auth_launch_date": 1670148000,
+        "clip_order": null,
+        "airing_id": "RADS1011302200047895",
+        "media_id": "35ef1ec35b0ca489cea2e24ef542ef4d2a87616f",
+        "modified": 1669929948,
+        "slug": "an-intense-battle-caesar-exercises-his-true-power",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/1_221211625318-OnePiece_597_AnIntenseBattleCaesarExercisesHisTruePower.png",
+        "created": 1669785784,
+        "title_id": "2402489",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "published": 1669929948,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "Sara Griggs",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211625318-OnePiece_597_AnIntenseBattleCaesarExercisesHisTruePower.png",
+        "id": "AYTG_RHAIAxeiVkFtLgf",
         "auth": true
     }
 ]
