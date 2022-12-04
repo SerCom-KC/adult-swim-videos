@@ -2,17 +2,35 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 4, 2022 at 08:00:26 EST_
+_Last Update: December 4, 2022 at 08:30:26 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2161118 Joe Pera Talks With You: 1  
-### 2214310
-**Joe Pera Talks With You S02E05 - Joe Pera Takes You to the Grocery Store**  
-TV-PG-L 🔒 11:17  
-⌛ December 5, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-takes-you-to-the-grocery-store  
-seriesid=`2161118` titleid=`2214310` id=`AW8QY3oqGRcVO2K2pl8o` mediaid=`267cff36585f518533b4cc695bf05485ee128dbf`  
-_Featuring a number of fruits and vegetables, Joe Pera takes you on his weekly trip to the grocery store._  
-<a href="https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_191216152549-joeperatalks_205_dup-20191105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191216/thumbnails/2_191216152549-joeperatalks_205_dup-20191105.jpg" height="144px" /></a>
+340533 Sealab 2021: 1  
+322328 Space Ghost Coast to Coast: 1  
+666506 Superjail!: 1  
+### 344208
+**Sealab 2021 S01E06 - Predator**  
+TV-14 🔒 11:29  
+⌛ December 6, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/sealab-2021/predator  
+seriesid=`340533` titleid=`344208` id=`p9wKQ0oqR9K_Ujeg9f87JA` mediaid=`f29d75344749a465215619dbc8bf6857b867686b`  
+_A bloodthirsty, killer alien has boarded Sealab and trapped the entire crew. His shimmering form is seemingly everywhere, rending flesh from human bones, as the remaining survivors cower on the bridge. Once again, it's up to the brave Dr. Quinn (with a little help from Old Gus and Dolphin Boy) to save the day._  
+<a href="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151029338-sealab_006.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151029338-sealab_006.jpg" height="144px" /></a>
+### 322330
+**Space Ghost Coast to Coast S04E04 - Anniversary**  
+TV-PG 🔒 10:46  
+⌛ January 10, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/anniversary  
+seriesid=`322328` titleid=`322330` id=`oFUdDn-rRqq3wjM-TmHlKw` mediaid=`22e16543fbb5dca5ccdf9cf6862981ab443ad23a`  
+_Space Ghost marks a "special notch in the belt that is the Space Ghost saga" with returning guests Bobcat Goldthwait and Judy Tenuda. The show also includes special appearances by villian-turned-announcer Tansut and the evil Chad Ghostal, as well as a spectacular career retrospective montage compiled by Moltar._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417105349-sgc2c_9704_air_cid-9118535.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417105349-sgc2c_9704_air_cid-9118535.jpg" height="144px" /></a>
+### 966789
+**Superjail! S03E08 - Nightshift**  
+TV-MA-V 🔒 11:00  
+⌛ December 6, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/superjail/nightshift  
+seriesid=`666506` titleid=`966789` id=`TOAqpPXZSXGq2LQc6I7pow` mediaid=`54b8d3eea6c777be5626744918df83381a5fe241`  
+_When an inmate becomes a daddy, Superjail's population explodes._  
+<a href="https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_20421114147-superjail_308_dup-20121026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_20421114147-superjail_308_dup-20121026.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
