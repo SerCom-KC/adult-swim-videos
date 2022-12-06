@@ -168,62 +168,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1451669520,
-        "auth_expiration_date": 1670302740,
-        "tms_id": "EP007542790007",
-        "rating": 9.4478855,
-        "description": "Mouse Fitzgerald has sold a painting, but the art customer turns out to be one of Skillet's old enemies. Skillet throws the man out and refuses to let Mouse Fitzgerald do the work.  The 12 Oz. Mouse runs away from home to live and work at the art patron's house, but is unable to paint in the new, peaceful environment.",
-        "title_suggest": {
-            "input": [
-                "Adventure Mouse",
-                "Mouse"
-            ]
-        },
-        "type": "episode",
-        "title": "Adventure Mouse",
-        "expiration_date": 1667275140,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 689.22,
-        "episode_number": "7",
-        "original_air_date": 1136097000,
-        "clip_order": null,
-        "auth_launch_date": 1667275200,
-        "modified": 1667152341,
-        "media_id": "bb63ec1fe9631ddb3a5076a265dd60f836d243ab",
-        "airing_id": "RADS1009232200030560",
-        "id": "SUiOgBqeT7iMTgcxmzb6Qg",
-        "slug": "adventure-mouse",
-        "views": 127217,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_202201159525-12oz_007_BIM_9360231.jpg",
-        "created": 1402945460,
-        "title_id": "630150",
-        "season_number": "1",
-        "tv_rating": "tv-14-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1667152341,
-        "tags": [
-            "12 oz mouse episode 7 adventure"
-        ],
-        "rating_count": 2869,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1664251200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_202201159525-12oz_007_BIM_9360231.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1451669820,
         "auth_expiration_date": 1673326740,
         "tms_id": "EP007542790012",
@@ -503,6 +447,61 @@
         "modified_by": "ODT Listener",
         "launch_date": 1665460800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220120252-12oz_009_BIM_9381885.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451669940,
+        "auth_expiration_date": 1656388740,
+        "tms_id": "EP007542790016",
+        "rating": 6.0184426,
+        "description": "Skillet is selected to participate in forced busing in an attempt to achieve integration in the city's public schools. He doesn't want to go, but Mouse Fitzgerald talks him into it.",
+        "title_suggest": {
+            "input": [
+                "Eighteen"
+            ]
+        },
+        "type": "episode",
+        "title": "Eighteen",
+        "expiration_date": 1673326740,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 689.36,
+        "episode_number": "10",
+        "original_air_date": 1164606300,
+        "clip_order": null,
+        "auth_launch_date": 1653364800,
+        "modified": 1670028806,
+        "media_id": "7b794fe7d8ec9f5f77828a221d7aee762256c056",
+        "airing_id": "RADS1012022200049405",
+        "id": "xDjJRT4cQbqzMir_u1Up9g",
+        "slug": "eighteen",
+        "views": 134829,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_20220122418-12oz_017_BIM_9391028.jpg",
+        "created": 1402945460,
+        "title_id": "657706",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1670028806,
+        "tags": [
+            "12 oz mouse eighteen episode 17"
+        ],
+        "rating_count": 976,
+        "collection_title": "12 oz. Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670302800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220122418-12oz_017_BIM_9391028.jpg",
         "cma_id": ""
     },
     {
