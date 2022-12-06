@@ -257,7 +257,7 @@
     },
     {
         "ott_launch_date": 1549899000,
-        "auth_expiration_date": 1667534340,
+        "auth_expiration_date": 1673585940,
         "tms_id": "EP031428790004",
         "description": "Dame Edith Ezold hosts the Big Night In, the one night off of the year for the Tropical Cops. But is Dame Edith Ezold really the real Dame Edith Ezold? And what makes her Hibiscus Chicken Kebabs so deelushus?",
         "title_suggest": {
@@ -282,11 +282,11 @@
         "duration": 678,
         "episode_number": "4",
         "original_air_date": 1549689300,
-        "auth_launch_date": 1664510400,
+        "auth_launch_date": 1670562000,
         "clip_order": null,
-        "airing_id": "RADS1011012200041796",
+        "airing_id": "RADS1012062200049921",
         "media_id": "ed4c64be929a46d0756aadd10d5f6fc4bdd02ba2",
-        "modified": 1667332645,
+        "modified": 1670337770,
         "slug": "the-big-night-in",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154946630578313.jpg",
@@ -296,7 +296,7 @@
         "tv_rating": "tv-ma-l",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1667332645,
+        "published": 1670337770,
         "tags": [],
         "collection_title": "Tropical Cop Tales",
         "disable_ads": false,
@@ -532,7 +532,7 @@
             ]
         },
         "title": "The Many Frostings of Ronald the Ringman",
-        "expiration_date": 2085368400,
+        "expiration_date": 1673585940,
         "type": "episode",
         "platforms": [
             "android",
@@ -548,8 +548,8 @@
         "auth_launch_date": 1667534400,
         "clip_order": null,
         "media_id": "63b3f0c3434c777145f18dae3837f610b120e639",
-        "modified": 1667332647,
-        "airing_id": "RADS1011012200041797",
+        "modified": 1670337802,
+        "airing_id": "RADS1012062200049923",
         "slug": "the-many-frostings-of-ronald-the-ringman",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155130121528116.jpg",
@@ -559,14 +559,14 @@
         "tv_rating": "tv-14-dlsv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1667332647,
+        "published": 1670337802,
         "tags": [],
         "collection_title": "Tropical Cop Tales",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1553328900,
+        "launch_date": 1670562000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155130121528116.jpg",
         "id": "AWjtOi_aAScUIg8XxdJv",
-        "auth": false
+        "auth": true
     }
 ]
