@@ -3208,7 +3208,7 @@
     },
     {
         "ott_launch_date": 1531146600,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1670302740,
         "tms_id": "EP007259620192",
         "description": "Are the Robot Chicken writers the only ones to notice that King Kong fell from the Empire State Building butt-first? The Teenage Mutant Ninja Turtles don't have money to pay for that pizza. The Smurfs try to Smurf themselves some Sudafed.",
@@ -4807,53 +4807,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1670302740,
-        "tms_id": "EP007259620223",
-        "description": "The Gargoyles get as hard as stone, if you know what Robot Chicken means; Solid Snake must master the walk of shame; The Avengers learn to curb their enthusiasm.",
-        "title_suggest": {
-            "input": [
-                "May Cause Light Cannibalism",
-                "Cause Light Cannibalism",
-                "Light Cannibalism",
-                "Cannibalism"
-            ]
-        },
-        "title": "May Cause Light Cannibalism",
-        "expiration_date": 1661227140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 678.0107,
-        "episode_number": "3",
-        "original_air_date": "1631073600",
-        "auth_launch_date": 1664330400,
-        "clip_order": null,
-        "airing_id": "RADS1009272200031986",
-        "media_id": "7f6ddddf1b48c1ce1962a5f69b23a0265916096e",
-        "modified": 1664304771,
-        "slug": "may-cause-light-cannibalism",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_21921514583-RobotChicken_1102_MayCauseLightCannabalism.png",
-        "created": 1630610109,
-        "season_number": "11",
-        "title_id": "2270589",
-        "tv_rating": "tv-ma-sv",
-        "published": 1664304771,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658203200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921514583-RobotChicken_1102_MayCauseLightCannabalism.png",
-        "id": "AXun77T84Xbjep71f6Gv",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1670907540,
         "tms_id": "EP007259620224",
         "description": "Robot Chicken asks if Totoro is overweight and doesn't like the answer; Jigsaw outgrows his tricycle; The Washington Generals destroy the entire world of basketball!",
@@ -4951,55 +4904,6 @@
         "launch_date": 1659412800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921516552-RobotChicken_1104_MayCauseTheExactThingYoureTakingThisToAvoid.png",
         "id": "AXun8YqSUQa40cfnRR4p",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1670302740,
-        "tms_id": "EP007259620233",
-        "description": "In this terribly terrific Robot Chicken tale, treasure the trials and tribulations of a time-twisted teenager's toxic tussle with tons of terror on, uh, Halloween!",
-        "title_suggest": {
-            "input": [
-                "Happy Russian Deathdog Dolloween 2 U",
-                "Russian Deathdog Dolloween 2 U",
-                "Deathdog Dolloween 2 U",
-                "Dolloween 2 U",
-                "2 U",
-                "U"
-            ]
-        },
-        "title": "Happy Russian Deathdog Dolloween 2 U",
-        "type": "episode",
-        "expiration_date": 1652241540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 677.6103,
-        "episode_number": "13",
-        "original_air_date": 1632456000,
-        "auth_launch_date": 1664251200,
-        "clip_order": null,
-        "airing_id": "RADS1009232200030566",
-        "media_id": "2797b57358605d3ddf5047c6ca630dea9297d726",
-        "modified": 1663987830,
-        "slug": "happy-russian-deathdog-dolloween-2-u",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/1_219211456138-RobotChicken_1113_HappyRussianDeathdogDolloween2U.png",
-        "created": 1631912257,
-        "title_id": "2270600",
-        "season_number": "11",
-        "tv_rating": "tv-14-dlv",
-        "published": 1663987830,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1649044800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211456138-RobotChicken_1113_HappyRussianDeathdogDolloween2U.png",
-        "id": "AXv1jOnF4Xbjep71f6HC",
         "auth": true
     },
     {
@@ -7653,7 +7557,7 @@
         "cma_id": "1187174"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1458568800,
         "auth_expiration_date": 1673326740,
         "tms_id": "EP007259620156",
