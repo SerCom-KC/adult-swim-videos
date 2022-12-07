@@ -56,58 +56,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1670389140,
-        "tms_id": "EP002989350005",
-        "rating": 9.019515,
-        "description": "The soccer team goes on a camping trip that ends in disaster for the coach--and in love for Brendon and Loni.",
-        "title_suggest": {
-            "input": [
-                "Yoko"
-            ]
-        },
-        "type": "episode",
-        "title": "Yoko",
-        "expiration_date": 1667361540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1303.1668335,
-        "episode_number": "5",
-        "original_air_date": 1004324400,
-        "clip_order": null,
-        "auth_launch_date": 1667361600,
-        "modified": 1667186068,
-        "media_id": "05fe8eca82d264a7d952c8200fbe9203cfb633cf",
-        "airing_id": "RADS1009232200030600",
-        "id": "NjoT7r5OSISnYsoqoHydmQ",
-        "slug": "yoko",
-        "views": 391386,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035163109-hmovies_005.jpg",
-        "created": 1402945467,
-        "title_id": "344121",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1667186068,
-        "tags": [
-            "home movies episode 5 yoko soccer team camping pee love"
-        ],
-        "rating_count": 615,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1664337600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035163109-hmovies_005.jpg",
-        "cma_id": "991754"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1671598740,
         "tms_id": "EP002989350008",
         "rating": 8.224601,
@@ -273,7 +221,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1673413140,
         "tms_id": "EP002989350010",
@@ -482,6 +430,60 @@
         "modified_by": "ODT Listener",
         "launch_date": 1669179600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035165447-hmovies_013.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1644987540,
+        "tms_id": "EP002989350015",
+        "rating": 8.408332,
+        "description": "Brendon is doing a good job trying to raise money for the school walk-a-thon, but Coach McGuirk is doing a better job spending it. No worries! Coach's long-lost Uncle Pedro has died and left something for him in his will.",
+        "title_suggest": {
+            "input": [
+                "Identifying A Body",
+                "A Body",
+                "Body"
+            ]
+        },
+        "type": "episode",
+        "title": "Identifying A Body",
+        "expiration_date": 1673413140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1331.8008008,
+        "episode_number": "2",
+        "original_air_date": 1010977200,
+        "clip_order": null,
+        "auth_launch_date": 1641963600,
+        "modified": 1670159398,
+        "media_id": "5c1f6648b7c6cc4dffd3006f0c8f44f3f372f1cc",
+        "airing_id": "RADS1012042200049475",
+        "id": "mVei5dIbQmyEoVLfi7iNCg",
+        "slug": "identifying-a-body",
+        "views": 333613,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035166247-hmovies_015.jpg",
+        "created": 1402945467,
+        "title_id": "344131",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1670159398,
+        "tags": [
+            "home movies episode 15 identifying a body walk a thon"
+        ],
+        "rating_count": 720,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670389200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035166247-hmovies_015.jpg",
         "cma_id": ""
     },
     {
