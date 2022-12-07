@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1463407200,
         "auth_expiration_date": 1673413140,
         "tms_id": "EP018514630016",
@@ -149,53 +149,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191024/thumbnails/2_1910241144587-mrpickles_401_dup-20190507.jpg",
         "id": "AW3-cW8x1YiBSfg0KX-J",
         "auth": true
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1522074660,
-        "auth_expiration_date": 1670389140,
-        "tms_id": "EP018514630032",
-        "description": "Tommy sets out to make his own cartoon show but finds it harder than he thought.",
-        "title_suggest": {
-            "input": [
-                "Tommy's Cartoon",
-                "Cartoon"
-            ]
-        },
-        "title": "Tommy's Cartoon",
-        "type": "episode",
-        "expiration_date": 1667361540,
-        "platforms": [
-            "fire-tv",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 677.58,
-        "episode_number": "9",
-        "original_air_date": 1522036800,
-        "auth_launch_date": 1667361600,
-        "clip_order": null,
-        "media_id": "a901639d297165117dcfea02646e78987ffc7c97",
-        "modified": 1667190004,
-        "airing_id": "RADS1010312200040464",
-        "id": "AWI_5NmbHAeP4-pUPdqx",
-        "slug": "tommys-cartoon",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15218288818828.jpg",
-        "created": 1521490385,
-        "title_id": "2120615",
-        "tv_rating": "tv-ma-v",
-        "season_number": "3",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1667190004,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1664337600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15218288818828.jpg"
     },
     {
         "ott_launch_date": 1522074660,
@@ -488,6 +441,58 @@
         "launch_date": 1669784400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121123280-mrpickles_209_dup-20160525.jpg",
         "cma_id": "1419066"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1467037800,
+        "auth_expiration_date": 1655870340,
+        "tms_id": "EP018514630021",
+        "description": "In the season two finale, Grandpa finds an ancient and mysterious coin that he thinks has something to do with Mr. Pickles.",
+        "title_suggest": {
+            "input": [
+                "Season 2 Finale",
+                "2 Finale",
+                "Finale"
+            ]
+        },
+        "expiration_date": 1673413140,
+        "title": "Season 2 Finale",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 678,
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "episode_number": "10",
+        "original_air_date": 1467000000,
+        "clip_order": null,
+        "auth_launch_date": 1652846400,
+        "modified": 1670161509,
+        "media_id": "b45a39015d084096ae22732c3a5f3ca062e90e30",
+        "airing_id": "RADS1012042200049513",
+        "id": "PwqM-Yg1Rhu1DpV9UudRjw",
+        "slug": "season-2-finale",
+        "views": 52687,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121123493-mrpickles_210_dup-20160523.jpg",
+        "created": 1466614334,
+        "season_number": "2",
+        "title_id": "2085312",
+        "tv_rating": "tv-ma-sv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1670161509,
+        "first_published": 1466673022,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670389200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121123493-mrpickles_210_dup-20160523.jpg",
+        "cma_id": "1423665"
     },
     {
         "auth": false,
