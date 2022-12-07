@@ -1468,7 +1468,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447438320,
         "auth_expiration_date": 1698811140,
         "tms_id": "EP004625760011",
@@ -2164,59 +2164,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1641963600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151525453-sealab_020.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447438200,
-        "auth_expiration_date": 1670389140,
-        "tms_id": "EP004625760006",
-        "rating": 8.56338,
-        "description": "A bloodthirsty, killer alien has boarded Sealab and trapped the entire crew. His shimmering form is seemingly everywhere, rending flesh from human bones, as the remaining survivors cower on the bridge. Once again, it's up to the brave Dr. Quinn (with a little help from Old Gus and Dolphin Boy) to save the day.",
-        "title_suggest": {
-            "input": [
-                "Predator"
-            ]
-        },
-        "type": "episode",
-        "title": "Predator",
-        "expiration_date": 1667361540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "ZdNj0DwWQM-J6-tcSs_Arw",
-        "duration": 689.9009009,
-        "episode_number": "6",
-        "original_air_date": 1000696500,
-        "clip_order": null,
-        "auth_launch_date": 1667361600,
-        "modified": 1670159395,
-        "media_id": "f29d75344749a465215619dbc8bf6857b867686b",
-        "airing_id": "RADS1010312200040423",
-        "id": "p9wKQ0oqR9K_Ujeg9f87JA",
-        "slug": "predator",
-        "views": 249640,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/1_204151029338-sealab_006.jpg",
-        "created": 1402945476,
-        "title_id": "344208",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1670159395,
-        "tags": [
-            "sealab 2021 predator episode 6"
-        ],
-        "rating_count": 923,
-        "collection_title": "Sealab 2021",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1664337600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200415/thumbnails/2_204151029338-sealab_006.jpg",
         "cma_id": ""
     },
     {

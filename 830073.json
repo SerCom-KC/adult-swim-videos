@@ -303,7 +303,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1670389140,
         "tms_id": "EP014135410029",
@@ -819,7 +819,7 @@
         "launch_date": 1667970000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171453105-OffTheAir_1103_Touch.png",
         "id": "AX3J9Qp4UQa40cfnRS-g",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1668574740,
@@ -995,50 +995,6 @@
         "launch_date": 1654056000,
         "poster": "https://media.cdn.adultswim.com/uploads/20201222/thumbnails/2_201222943216-OTA_1002_Dreams_dup-20201221.jpg",
         "id": "AXaK56DvQJ_4Uej5kTgF",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1670389140,
-        "tms_id": "SH014135410000",
-        "description": "The Moon is an egg.",
-        "title_suggest": {
-            "input": [
-                "Moon"
-            ]
-        },
-        "title": "Moon",
-        "type": "episode",
-        "expiration_date": 1669784340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
-        "duration": 690.4898,
-        "episode_number": "2",
-        "original_air_date": 1636448400,
-        "auth_launch_date": 1669784400,
-        "clip_order": null,
-        "airing_id": "RADS1010312200040451",
-        "media_id": "ee1f8872b9c6474b4d523107396fcd0d9e9eb090",
-        "modified": 1669651448,
-        "slug": "moon",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181426283-OffTheAir_1102_Moon.png",
-        "created": 1636135686,
-        "title_id": "2321722",
-        "season_number": "11",
-        "tv_rating": "tv-14-l",
-        "published": 1669651448,
-        "tags": [],
-        "collection_title": "Off The Air",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1667361600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181426283-OffTheAir_1102_Moon.png",
-        "id": "AXzxSVHv4Xbjep71f6HZ",
         "auth": true
     },
     {
@@ -1883,7 +1839,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1485876600,
         "auth_expiration_date": 1692763140,
         "tms_id": "EP014135410028",
