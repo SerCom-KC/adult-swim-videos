@@ -51,7 +51,7 @@
         "cma_id": "1466579"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447784280,
         "auth_expiration_date": 1674795540,
         "tms_id": "EP008994530021",
@@ -882,59 +882,6 @@
         "launch_date": 1643778000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116162587-timanderic_308.jpg",
         "cma_id": "1356418"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447783920,
-        "auth_expiration_date": 1670389140,
-        "tms_id": "EP008994530011",
-        "rating": 7.7815695,
-        "description": "The existence of someone as cool as Raz threatens to drive a wedge through the Tim and Eric partnership. (Bob Odenkirk, Al Yankovic)",
-        "title_suggest": {
-            "input": [
-                "Vacation"
-            ]
-        },
-        "type": "episode",
-        "title": "Vacation",
-        "expiration_date": 1667361540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 697.026,
-        "episode_number": "1",
-        "original_air_date": 1195449300,
-        "clip_order": null,
-        "auth_launch_date": 1667361600,
-        "modified": 1667188175,
-        "media_id": "c6090cbf859ca0604b58f928711bdbc3e5ac46c7",
-        "airing_id": "RADS1009232200030616",
-        "id": "NrQiFf6wSq6uQF7rQolNkQ",
-        "slug": "vacation",
-        "views": 1238004,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161622179-timanderic_201.jpg",
-        "created": 1402945481,
-        "title_id": "691937",
-        "tv_rating": "tv-14",
-        "season_number": "2",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1667188175,
-        "tags": [
-            "time and eric awesome show great job episode 11 vacation raz bob odenkirk al yankovic"
-        ],
-        "rating_count": 7824,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1664337600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161622179-timanderic_201.jpg",
-        "cma_id": "691937"
     },
     {
         "auth": true,
@@ -2217,7 +2164,7 @@
         "cma_id": "663089"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784100,
         "auth_expiration_date": 1698206340,
         "tms_id": "EP008994530020",
