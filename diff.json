@@ -1,7 +1,6 @@
 {
-    "updated": 1670535500,
-    "added": [],
-    "removed": [
+    "updated": 1670538806,
+    "added": [
         {
             "auth_expiration_date": 1668315540,
             "tms_id": "EP036530620014",
@@ -31,7 +30,7 @@
             "clip_order": null,
             "airing_id": "RADS1004192100091200",
             "media_id": "63ac7d365ef27cae25c0dd5cb465649245571d2a",
-            "modified": 1664861782,
+            "modified": 1670538665,
             "slug": "episode-fourteen-al-fine",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/1_2012171757506-GSMP_214_dup-20201214.jpg",
@@ -39,7 +38,7 @@
             "season_number": "2",
             "title_id": "2241839",
             "tv_rating": "tv-ma-l",
-            "published": 1664861782,
+            "published": 1670538665,
             "tags": [],
             "collection_title": "Gemusetto",
             "disable_ads": false,
@@ -52,5 +51,6 @@
             "collection_title_id": "2194549",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
