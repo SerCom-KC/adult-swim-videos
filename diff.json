@@ -1,6 +1,7 @@
 {
-    "updated": 1670428826,
-    "added": [
+    "updated": 1670475629,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447783260,
@@ -28,7 +29,7 @@
             "original_air_date": 1373256000,
             "clip_order": null,
             "auth_launch_date": 1667448000,
-            "modified": 1670427779,
+            "modified": 1670443144,
             "media_id": "68719ffb5e0d897b0e2a72d99561f2094884070d",
             "airing_id": "RADS1010312200040946",
             "id": "45YKYCRzTN-V6U3h_HCmeg",
@@ -43,7 +44,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1670427779,
+            "published": 1670443144,
             "tags": [],
             "rating_count": 262,
             "collection_title": "The Venture Bros.",
@@ -56,6 +57,5 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
