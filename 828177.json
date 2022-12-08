@@ -455,6 +455,56 @@
     },
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1665028740,
+        "tms_id": "",
+        "description": "When Gary gets kidnapped by a ghost-hunting show, he must choose between fame and friendship. (He chooses fame.)",
+        "title_suggest": {
+            "input": [
+                "Gary Bunda: Demon Killer",
+                "Bunda: Demon Killer",
+                "Demon Killer",
+                "Killer"
+            ]
+        },
+        "title": "Gary Bunda: Demon Killer",
+        "expiration_date": 1673499540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 674.25,
+        "episode_number": "8",
+        "original_air_date": 1559362500,
+        "auth_launch_date": 1662004800,
+        "clip_order": null,
+        "media_id": "6b5be2c353badeb6cdafb8e7aca4abf3d4f353b6",
+        "modified": 1670276034,
+        "airing_id": "RADS1012052200049685",
+        "slug": "gary-bunda-demon-killer",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155914843405217.jpg",
+        "created": 1556816709,
+        "season_number": "4",
+        "title_id": "2191448",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1670276034,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670475600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg",
+        "id": "AWp5gcZBAScUIg8XxfaB",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1671080340,
         "tms_id": "",
         "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
@@ -970,7 +1020,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1493044140,
         "auth_expiration_date": 1673499540,
         "tms_id": "EP013726210031",
@@ -1165,53 +1215,6 @@
         "launch_date": 1665633600,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/psyklone-and-the-thin-twins/ypf_ep201_003.jpg",
         "cma_id": "1384952"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447787040,
-        "auth_expiration_date": 1670475540,
-        "tms_id": "EP013726210010",
-        "description": "Gary learns the subtleties of working someone's conscience with help from an unexpected friend.",
-        "title_suggest": {
-            "input": [
-                "Shoulder Work",
-                "Work"
-            ]
-        },
-        "expiration_date": 1667447940,
-        "title": "Shoulder Work",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 674.74,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "2",
-        "original_air_date": 1437365700,
-        "clip_order": null,
-        "auth_launch_date": 1667448000,
-        "modified": 1667275245,
-        "airing_id": "RADS1010312200040984",
-        "media_id": "1547573698efc9392048e495e90684a61cf331eb",
-        "id": "MGjJ04MnR5erwEzXgE9ahw",
-        "slug": "shoulder-work",
-        "views": 43748,
-        "created": 1436294121,
-        "season_number": "2",
-        "title_id": "2062764",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1667275245,
-        "first_published": 1437189641,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1664640000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg",
-        "cma_id": "1389350"
     },
     {
         "auth": false,
