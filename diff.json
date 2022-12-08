@@ -1,7 +1,6 @@
 {
-    "updated": 1670511382,
-    "added": [],
-    "removed": [
+    "updated": 1670513543,
+    "added": [
         {
             "auth_expiration_date": 1670561940,
             "tms_id": "EP032284200116",
@@ -29,9 +28,9 @@
             "original_air_date": "1589088600",
             "auth_launch_date": 1653192000,
             "clip_order": null,
-            "airing_id": "RADS1005042200095656",
+            "airing_id": "RADS1005182200099903",
             "media_id": "591f9d05b3a3f44c55d56c229e57794f22cfa2dd",
-            "modified": 1652966896,
+            "modified": 1670513400,
             "slug": "the-ultimate-natural-enemy",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200505/thumbnails/1_20551158364-BlackClover_116.jpg",
@@ -39,7 +38,7 @@
             "season_number": "3",
             "title_id": "2219233",
             "tv_rating": "tv-14-v",
-            "published": 1652966896,
+            "published": 1670513400,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -52,5 +51,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
