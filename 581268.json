@@ -2130,6 +2130,55 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1670648340,
+        "tms_id": "EP007008180132",
+        "description": "Early LARPs as a military veteran to save 10% on an omelet.",
+        "title_suggest": {
+            "input": [
+                "Scorn on the 4th of July",
+                "on the 4th of July",
+                "the 4th of July",
+                "4th of July",
+                "of July",
+                "July"
+            ]
+        },
+        "title": "Scorn on the 4th of July",
+        "type": "episode",
+        "expiration_date": 1660363140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 676.676,
+        "episode_number": "4",
+        "original_air_date": 1636953300,
+        "auth_launch_date": 1662782400,
+        "clip_order": null,
+        "airing_id": "RADS1009092200026549",
+        "media_id": "21f8d165e9b642b316b3e046fe5b2b30ff4d16a5",
+        "modified": 1670607095,
+        "slug": "scorn-on-the-4th-of-july",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png",
+        "created": 1636671011,
+        "title_id": "2323130",
+        "season_number": "13",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1670607095,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1657339200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png",
+        "id": "AX0RMbj4UQa40cfnRSoM",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1673672340,
         "tms_id": "EP007008180128",
         "description": "Early is forced to choose between his community and his hats.",
