@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 8, 2022 at 17:00:26 EST_
+_Last Update: December 8, 2022 at 19:00:27 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2194549 Gemusetto: 1  
-### 2241839
-**Gemusetto S02E14 - Episode Fourteen: al Fine**  
-TV-MA-L 🔓 11:44  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-fourteen-al-fine  
-seriesid=`2194549` titleid=`2241839` id=`AXZy7ItdbxpjZvbXYlqR` mediaid=`63ac7d365ef27cae25c0dd5cb465649245571d2a`  
-_His goal is almost at his fingertips- can Makasu team up with his friends and Battle Amphibian Piano Frog in order to save everyone and redeem himself?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757506-GSMP_214_dup-20201214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757506-GSMP_214_dup-20201214.jpg" height="144px" /></a>
+581268 Squidbillies: 2  
+### 654429
+**Squidbillies S02E06 - Meth O.D. to My Madness**  
+TV-14-DLV 🔒 11:31  
+⌛ December 9, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/meth-o-d-to-my-madness  
+seriesid=`581268` titleid=`654429` id=`QrxUtwB2SuySaNtTVOKvGw` mediaid=`e863115ef596f5d348d6c4afc9c38e9be7ab883f`  
+_Early discovers that his magic beans are far from magic._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111562-squidbillies_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111562-squidbillies_013.jpg" height="144px" /></a>
+### 651237
+**Squidbillies S02E04 - Swayze Crazy**  
+TV-14-DLV 🔒 11:24  
+⌛ December 9, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/swayze-crazy  
+seriesid=`581268` titleid=`651237` id=`i2vONMkHRPS5TJ4agN3xGQ` mediaid=`d496f54c4cee60d9465814deb5592081b0117e89`  
+_The squids meet a legless drifter. Not featuring Patrick Swayze._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
