@@ -1,6 +1,56 @@
 {
-    "updated": 1670756659,
+    "updated": 1670758515,
     "added": [
+        {
+            "auth_expiration_date": 1670756340,
+            "tms_id": "EP034917240281",
+            "description": "When Hinata is labeled unfit as a successor, Hanabi's heart becomes bound to her destiny.",
+            "title_suggest": {
+                "input": [
+                    "Hanabi's Decision",
+                    "Decision"
+                ]
+            },
+            "title": "Hanabi's Decision",
+            "expiration_date": null,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1310.5092,
+            "episode_number": "42",
+            "original_air_date": "1652596200",
+            "auth_launch_date": 1661680800,
+            "clip_order": null,
+            "airing_id": "RADS1008252200022892",
+            "media_id": "1c85245b7235bab443f6042d6ce37821e373ffac",
+            "modified": 1670608648,
+            "slug": "hanabis-decision",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/1_225111241206-NarutoShippuden_390_HanabisDecision.png",
+            "created": 1652287289,
+            "season_number": "7",
+            "title_id": "2177820",
+            "tv_rating": "tv-pg",
+            "published": 1670608648,
+            "tags": [],
+            "collection_title": "Naruto: Shippuden",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111241206-NarutoShippuden_390_HanabisDecision.png",
+            "id": "AYCz_zd9208s7zyYUM2Q",
+            "auth": false,
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth_expiration_date": 1679824740,
             "tms_id": "EP034917240399",
@@ -46,56 +96,6 @@
             "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221553528-NarutoShippuden_408_TheCursedPuppet.png",
             "id": "AYLHHp6uIAxeiVkFtLRg",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth_expiration_date": 1670756340,
-            "tms_id": "EP034917240281",
-            "description": "When Hinata is labeled unfit as a successor, Hanabi's heart becomes bound to her destiny.",
-            "title_suggest": {
-                "input": [
-                    "Hanabi's Decision",
-                    "Decision"
-                ]
-            },
-            "title": "Hanabi's Decision",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1310.5092,
-            "episode_number": "42",
-            "original_air_date": "1652596200",
-            "auth_launch_date": 1661680800,
-            "clip_order": null,
-            "airing_id": "RADS1008252200022892",
-            "media_id": "1c85245b7235bab443f6042d6ce37821e373ffac",
-            "modified": 1670608648,
-            "slug": "hanabis-decision",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/1_225111241206-NarutoShippuden_390_HanabisDecision.png",
-            "created": 1652287289,
-            "season_number": "7",
-            "title_id": "2177820",
-            "tv_rating": "tv-pg",
-            "published": 1670608648,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111241206-NarutoShippuden_390_HanabisDecision.png",
-            "id": "AYCz_zd9208s7zyYUM2Q",
-            "auth": false,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
