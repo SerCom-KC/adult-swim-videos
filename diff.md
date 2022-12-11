@@ -2,60 +2,87 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 11, 2022 at 00:00:25 EST_
+_Last Update: December 11, 2022 at 00:30:25 EST_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-437532 Futurama: 1  
-### 2197419
-**American Dad S15E02 - A Starboy is Born**  
- 🔒 21:01  
+2003422 Bob's Burgers: 2  
+2194549 Gemusetto: 1  
+629835 King of the Hill: 1  
+### 2003523
+**Bob's Burgers S03E12 - Broadcast Wagstaff School News**  
+TV-PG 🔒 21:21  
 ⌛ December 17, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/a-starboy-is-born  
-seriesid=`581006` titleid=`2197419` id=`AXb4GLzfQJ_4Uej5kTlF` mediaid=`d9098de55cc2dac4f939118acfeb8143fe90f895`  
-_Stan abducts The Weeknd to teach Roger a valuable lesson. Meanwhile, Hayley attempts to sleep with the celebrity singer._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121435364-americandad_1415_air_cid-C5P79-AStarboyIsborn.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121435364-americandad_1415_air_cid-C5P79-AStarboyIsborn.jpg" height="144px" /></a>
-### 2197406
-**American Dad S15E03 - Tapped Out**  
- 🔒 21:03  
+https://www.adultswim.com/videos/bobs-burgers/broadcast-wagstaff-school-news  
+seriesid=`2003422` titleid=`2003523` id=`3adw46_sRxC-g9TyOb1S4g` mediaid=`be966cc7c474aa02e26265d58d7bfe21786f3bdc`  
+_There is a "Mad Pooper" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the "bottom" of the situation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg" height="144px" /></a>
+### 2003524
+**Bob's Burgers S03E13 - My Fuzzy Valentine**  
+TV-14 🔒 21:29  
 ⌛ December 17, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/tapped-out  
-seriesid=`581006` titleid=`2197406` id=`AXb4GTN3QJ_4Uej5kTlG` mediaid=`68a53bd4c60cc06aad69c3c1fe6710a10226b33d`  
-_Steve discovers his mom has never stopped giving him her breastmilk._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_21112143673-americandad_1402_air_cid-C5R10-TappedOut.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_21112143673-americandad_1402_air_cid-C5R10-TappedOut.jpg" height="144px" /></a>
-### 437705
-**Futurama S03E12 - Insane in the Mainframe**  
-TV-PG-L 🔒 23:24  
+https://www.adultswim.com/videos/bobs-burgers/my-fuzzy-valentine  
+seriesid=`2003422` titleid=`2003524` id=`sydZJtJDRU-O5iH5LCk0GQ` mediaid=`bee43522f30b692925ca69c90a5d97356d243415`  
+_When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will "wow" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870804604312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870804604312.jpg" height="144px" /></a>
+### 2241839
+**Gemusetto S02E14 - Episode Fourteen: al Fine**  
+TV-MA-L 🔓 11:44  
+⌛ January 14, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/gemusetto/episode-fourteen-al-fine  
+seriesid=`2194549` titleid=`2241839` id=`AXZy7ItdbxpjZvbXYlqR` mediaid=`63ac7d365ef27cae25c0dd5cb465649245571d2a`  
+_His goal is almost at his fingertips- can Makasu team up with his friends and Battle Amphibian Piano Frog in order to save everyone and redeem himself?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757506-GSMP_214_dup-20201214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757506-GSMP_214_dup-20201214.jpg" height="144px" /></a>
+### 731494
+**King of the Hill S08E04 - The Incredible Hank**  
+TV-PG-DL 🔒 24:00  
 ⌛ December 17, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/insane-in-the-mainframe  
-seriesid=`437532` titleid=`437705` id=`AX_CLtJ5208s7zyYUMbb` mediaid=`58dd6c7857576f1d16b899a4ebcbc29d905f59d8`  
-_Fry and Bender are sent to an asylum for robots after they are mistaken for bank robbers._  
-<a href="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311314523-Futurama_041_InsaneInTheMainframe.png"><img src="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311314523-Futurama_041_InsaneInTheMainframe.png" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/the-incredible-hank  
+seriesid=`629835` titleid=`731494` id=`wZtl7LQYQzKp5hdq4zx0hg` mediaid=`963f988a2cc32a5532fd1779c3d55893e8c008f6`  
+_Peggy suspects that Hank suffers from Irritable Male Syndrome and begins spiking his coffee with testosterone, turning Hank from low-energy everyman to muscled go-getter._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035408625817.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035408625817.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-437532 Futurama: 1  
-581006 American Dad: 2  
-### 437700
-**Futurama S03E07 - The Day the Earth Stood Stupid**  
-TV-PG 🔒 23:25  
+2003422 Bob's Burgers: 2  
+2194549 Gemusetto: 1  
+608360 Robot Chicken: 1  
+629835 King of the Hill: 1  
+### 2003513
+**Bob's Burgers S03E02 - Full Bars**  
+TV-PG 🔒 21:15  
 ⌛ December 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/the-day-the-earth-stood-stupid  
-seriesid=`437532` titleid=`437700` id=`AX-I1i-k_0O4w1rD3R1f` mediaid=`bd8542466a7b2589d77cda821f1614b1d084835d`  
-_Flying brains with the power to reduce human intelligence conquer Earth._  
-<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171419196-Futurama_036_TheDayTheEarthStoodStupid.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171419196-Futurama_036_TheDayTheEarthStoodStupid.png" height="144px" /></a>
-### 2186661
-**American Dad S14E12 - Stompe Le Monde**  
-TV-14-DLSV 🔒 21:02  
+https://www.adultswim.com/videos/bobs-burgers/full-bars  
+seriesid=`2003422` titleid=`2003513` id=`ClXtTaMsTqeJ9gW6Fx286w` mediaid=`1721ac667fd17a767f9bf556b07ec3cee6429731`  
+_The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual "Black and Orange" party._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg" height="144px" /></a>
+### 2003514
+**Bob's Burgers S03E03 - Bob Fires the Kids**  
+TV-14 🔒 21:30  
 ⌛ December 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/stompe-le-monde  
-seriesid=`581006` titleid=`2186661` id=`AXKPZS24Rs3h4hI_X4A8` mediaid=`be01d8906171ec2f04df6aeb39e1738a94e5fd5f`  
-_Stan buys the rights a Broadway show after inheriting money from a dead uncle._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068920402-americandad_1312_air_cid-3XGKX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068920402-americandad_1312_air_cid-3XGKX.jpg" height="144px" /></a>
-### 2186662
-**American Dad S14E13 - Mom Sauce**  
-TV-14-DLSV 🔒 21:02  
+https://www.adultswim.com/videos/bobs-burgers/bob-fires-the-kids  
+seriesid=`2003422` titleid=`2003514` id=`m6oToyJWT4iP8igvJtBeOA` mediaid=`362e1875ab9ec1ea7102197574f0e6578c7977fc`  
+_Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers, who hire the Belcher kids as "weed pickers." Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg" height="144px" /></a>
+### 2241829
+**Gemusetto S02E04 - Episode Four: C MAJOR**  
+TV-14-DLV 🔒 11:15  
 ⌛ December 10, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/mom-sauce  
-seriesid=`581006` titleid=`2186662` id=`AXKPZbx3Rs3h4hI_X4A9` mediaid=`f3dd1b5274b1ef18b8356349c4f391ec08ff415a`  
-_Steve's life is turned upside down when Snot gets rich after his mom starts selling a new dipping sauce. Klaus, Stan, Roger and Jeff become mall fashion show models._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/gemusetto/episode-four-c-major  
+seriesid=`2194549` titleid=`2241829` id=`AXW5HlihLyLQBOXK_Pgv` mediaid=`7218145f06c73c32b058d39ea398c2d310bcae0b`  
+_Josie has been seething with rage towards Makasu ever since his own death- but is holding on to anger just a waste of time? Will their musical battle rip the afterlife of Kur apart?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg" height="144px" /></a>
+### 661267
+**Robot Chicken S03E?? - Robot Chicken: Star Wars Special**  
+TV-MA 🔒 22:50  
+⌛ December 10, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/robot-chicken-star-wars-special  
+seriesid=`608360` titleid=`661267` id=`iZMrgeObQfO00magvXjExg` mediaid=`f9554b3e8b41363e8e89a35aea097ee7f43b7dbe`  
+_The Emperor gets an upsetting phone call.  George Lucas is saved from a mob of nerds by one helpful fan. Imperial officers learn how to survive Darth Vader in Orientation. A commercial for Admiral Ackbar Cereal. Boba Fett has a little fun with Han in Carbonite. The truth about Ponda Baba's bad day. President Bush is strong with the force in George of the Jedi. Luke and the Emperor settle things with a "yo mama" fight. Max Rebo's Greatest Hits goes on sale. Jar Jar and Anakin are together again_  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_2041114266-robotchicken_RCSW1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_2041114266-robotchicken_RCSW1.jpg" height="144px" /></a>
+### 731489
+**King of the Hill S07E22 - Maid in Arlen**  
+TV-PG-DL 🔒 24:15  
+⌛ December 10, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/maid-in-arlen  
+seriesid=`629835` titleid=`731489` id=`y7pxAD5nQmSC3lGrAu0K0A` mediaid=`051a807a792cee21eca1fbac74737e6ff609133d`  
+_Kahn reacts with horror when his mother becomes the Hills' maid... and Bill's lover._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276690885320.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276690885320.jpg" height="144px" /></a>
