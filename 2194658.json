@@ -229,7 +229,7 @@
         "launch_date": 1669611600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15575085409103.jpg",
         "id": "AWqTDy32Hl5gR6828zbV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -279,6 +279,53 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1661745540,
+        "tms_id": "EP031416130007",
+        "description": "The children gain a powerful ally, but they need to be careful with this person. Who knows what this person could be plotting behind the children's backs?",
+        "title_suggest": {
+            "input": [
+                "011145"
+            ]
+        },
+        "title": "011145",
+        "type": "episode",
+        "expiration_date": 1672030740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1292.57,
+        "episode_number": "7",
+        "original_air_date": 1558843200,
+        "auth_launch_date": 1658116800,
+        "clip_order": null,
+        "airing_id": "RADS1012112200050832",
+        "media_id": "ebf4b9f1ca0a368a01dad31fb3c651d64255ffb2",
+        "modified": 1670730564,
+        "slug": "011145",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155905516715616.jpg",
+        "created": 1558710364,
+        "title_id": "2194665",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1670730564,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670821200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155905516715616.jpg",
+        "id": "AWrqYKjSCorLtcgflqrC",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "What lives inside these woods? Find out during the return of The Promised Neverland. Season 2 premieres this Saturday night at 1:30a!",
@@ -325,51 +372,6 @@
         "launch_date": 1617649031,
         "poster": "https://media.cdn.adultswim.com/uploads/20210405/thumbnails/2_21451456505-promo_PromisedNeverland_S2_SAT.jpg",
         "id": "AXijZW_2DmGy9WFjRqrY",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1670821140,
-        "tms_id": "EP034485630022",
-        "description": "Vincent reveals his plan to enter the farm. After hearing this plan, Peter reconfigures the security to prepare for the intruders. Meanwhile, the shipment of children from the house has been set in motion, and Phil has already arrived.",
-        "title_suggest": {
-            "input": [
-                "Episode 10",
-                "10"
-            ]
-        },
-        "title": "Episode 10",
-        "type": "episode",
-        "expiration_date": 1667188740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1273.4055,
-        "episode_number": "10",
-        "original_air_date": 1623562200,
-        "auth_launch_date": 1667188800,
-        "clip_order": null,
-        "airing_id": "RADS1010142200036690",
-        "media_id": "14c2c5cc6eecbe40302bfc0718edd7ef28ed4597",
-        "modified": 1666993048,
-        "slug": "episode-10",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/1_21610109149-TPN2_022_Episode10.png",
-        "created": 1622930224,
-        "title_id": "2264541",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
-        "published": 1666993048,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1665979200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610109149-TPN2_022_Episode10.png",
-        "id": "AXneLfYZBH5Z6gH5aWTm",
         "auth": false
     },
     {
