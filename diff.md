@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 12, 2022 at 15:30:26 EST_
+_Last Update: December 12, 2022 at 16:00:30 EST_
 ## Video added
-### Summary
-340531 The Brak Show: 1  
-### 345421
-**The Brak Show S01E05 - Bawk Ba Gawk**  
-TV-PG 🔓 11:38  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
-seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
-_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-2104364 Hot Streets: 1  
-### 2184497
-**Hot Streets S02E04 - Bad Boy Bugs**  
-TV-14-DLV 🔓 11:17  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/hot-streets/bad-boy-bugs  
-seriesid=`2104364` titleid=`2184497` id=`AWd2LUmoqD68dq0Op5sc` mediaid=`4d504e4b2bd6bbe995b868ea0db70e4c98443cd4`  
-_Jen teams up with a former nemesis to save a benevolent Bug Queen._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351529351-hotstreets_202_dup-20181214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351529351-hotstreets_202_dup-20181214.jpg" height="144px" /></a>
+439722 The Venture Bros.: 1  
+### 2002555
+**The Venture Bros. S05E08 - Bot Seeks Bot**  
+TV-14-DLV 🔒 22:35  
+⌛ December 14, 2022 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-venture-bros/bot-seeks-bot  
+seriesid=`439722` titleid=`2002555` id=`GaywoS0hQJK6OSJ4B3R46A` mediaid=`237b8620587aa55c9b40d8330b358e665817f481`  
+_Brock and the O.S.I. launch a bold and bizarre surveillance mission against one of the Council of 13's top members. But the mission takes a turn for the worse when Doc and Billy get caught up in the super-villain crossfire._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161412349-venture_505_dup_20130709.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161412349-venture_505_dup_20130709.jpg" height="144px" /></a>
