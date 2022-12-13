@@ -91,50 +91,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1670907540,
-        "tms_id": "EP035786410004",
-        "description": "Reg goes on his first cave raid! Meanwhile, Riko makes preparations to go into the Abyss to find her mother.",
-        "title_suggest": {
-            "input": [
-                "Departure"
-            ]
-        },
-        "title": "Departure",
-        "expiration_date": 1646558940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZ9dFUQa40cfnRS9e",
-        "duration": 1415.047,
-        "episode_number": "3",
-        "original_air_date": "1643522400",
-        "auth_launch_date": 1664856000,
-        "clip_order": null,
-        "airing_id": "RADS1009302200033177",
-        "media_id": "af588aa11fecc4f28980ee2e9ff999b404893d2a",
-        "modified": 1664596346,
-        "slug": "departure",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_22127154981-MadeInAbyss_003_Departure.png",
-        "created": 1643316558,
-        "season_number": "1",
-        "title_id": "2356956",
-        "tv_rating": "tv-ma",
-        "published": 1664596346,
-        "tags": [],
-        "collection_title": "Made In Abyss",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1645349400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127154981-MadeInAbyss_003_Departure.png",
-        "id": "AX6dTLs5208s7zyYUL9z",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1671512340,
         "tms_id": "EP035786410005",
         "description": "Riko and Reg start their adventure into the Abyss. While there, they run into an unexpected familiar face.",
@@ -455,6 +411,51 @@
         "launch_date": 1650790800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_2233013699-MadeInAbyss_012_TheTrueNatureOfTheCurse.png",
         "id": "AX_byt2G_0O4w1rD3R6g",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1676955540,
+        "tms_id": "EP035786410012",
+        "description": "Nanachi and Mitty's past is revealed. How did they become what they are and who is responsible for it? Meanwhile, Riko is on the mend after her injuries.",
+        "title_suggest": {
+            "input": [
+                "The Challengers",
+                "Challengers"
+            ]
+        },
+        "title": "The Challengers",
+        "expiration_date": 1652155140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZ9dFUQa40cfnRS9e",
+        "duration": 2813.3105,
+        "episode_number": "13",
+        "original_air_date": "1649568600",
+        "auth_launch_date": 1670907600,
+        "clip_order": null,
+        "airing_id": "RADS1012112200050883",
+        "media_id": "59efe2993c3dbdaeea5474ce0b31251d80a20f2c",
+        "modified": 1670850202,
+        "slug": "the-challengers",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/1_2246144923-MadeInAbyss_013_TheChallengers.png",
+        "created": 1649270951,
+        "season_number": "1",
+        "title_id": "2356966",
+        "tv_rating": "tv-ma",
+        "published": 1670850202,
+        "tags": [],
+        "collection_title": "Made In Abyss",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1651397400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246144923-MadeInAbyss_013_TheChallengers.png",
+        "id": "AYAANYy6208s7zyYUMhZ",
         "auth": true
     },
     {

@@ -4542,53 +4542,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1670907540,
-        "tms_id": "EP007259620224",
-        "description": "Robot Chicken asks if Totoro is overweight and doesn't like the answer; Jigsaw outgrows his tricycle; The Washington Generals destroy the entire world of basketball!",
-        "title_suggest": {
-            "input": [
-                "May Cause Immaculate Conception",
-                "Cause Immaculate Conception",
-                "Immaculate Conception",
-                "Conception"
-            ]
-        },
-        "title": "May Cause Immaculate Conception",
-        "expiration_date": 1661831940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 646.5793,
-        "episode_number": "4",
-        "original_air_date": "1631160000",
-        "auth_launch_date": 1664856000,
-        "clip_order": null,
-        "airing_id": "RADS1010032200033400",
-        "media_id": "cb738473ca7aa31ae6b84e1f4ff1f6767aa52542",
-        "modified": 1664805319,
-        "slug": "may-cause-immaculate-conception",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_21921515581-RobotChicken_1103_MayCauseImmaculateConception.png",
-        "created": 1630610169,
-        "season_number": "11",
-        "title_id": "2270590",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1664805319,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1658808000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921515581-RobotChicken_1103_MayCauseImmaculateConception.png",
-        "id": "AXun8J9T4Xbjep71f6Gw",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1671512340,
         "tms_id": "EP007259620225",
         "description": "The Robot Chicken writers think Disney is running out of classics to remake; Luke Skywalker is a little too comfy inside that Tauntaun; Midsommars' big problem was it wasn't cute enough.",
@@ -4689,7 +4642,7 @@
         "launch_date": 1667883600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101348463-RobotChicken_1105_MayCauseOneYearOfOrangePoop.png",
         "id": "AXvQ07NvUQa40cfnRR9j",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1672721940,
