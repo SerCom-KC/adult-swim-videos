@@ -263,6 +263,59 @@
         "cma_id": "1458346"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1446676500,
+        "auth_expiration_date": 1656475140,
+        "tms_id": "EP013120360004",
+        "rating": 9.25933,
+        "description": "Chris goes south of the border on a quest for justice. Muy chocante!",
+        "title_suggest": {
+            "input": [
+                "Me Llamo Justice",
+                "Llamo Justice",
+                "Justice"
+            ]
+        },
+        "type": "episode",
+        "title": "Me Llamo Justice",
+        "expiration_date": 1674017940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 675.8675342,
+        "episode_number": "4",
+        "original_air_date": 1298610000,
+        "clip_order": null,
+        "auth_launch_date": 1653451200,
+        "modified": 1670863038,
+        "media_id": "01fc81e9f984cd17cee4056f1a12f83faa4d0ddd",
+        "airing_id": "RADS1012122200050907",
+        "id": "YiooV20BS2qXFFA6btvSTQ",
+        "slug": "me-llamo-justice",
+        "views": 175307,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034154502-eagleheart_108_bim.jpg",
+        "created": 1402945464,
+        "title_id": "828254",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1670863038,
+        "tags": [],
+        "rating_count": 563,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670994000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034154502-eagleheart_108_bim.jpg",
+        "cma_id": "1477225"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446739080,
         "auth_expiration_date": 1673413140,
@@ -365,7 +418,7 @@
         "cma_id": "1435807"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446739080,
         "auth_expiration_date": 1674017940,
         "tms_id": "EP013120360033",
@@ -478,68 +531,6 @@
         "launch_date": 1669179600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341543532-eagleheart_107_bim.jpg",
         "cma_id": "1462916"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446738900,
-        "auth_expiration_date": 1670993940,
-        "tms_id": "EP013120360028",
-        "rating": 8.71875,
-        "description": "Chris faces consequences.",
-        "title_suggest": {
-            "input": [
-                "Grandy"
-            ]
-        },
-        "type": "episode",
-        "title": "Grandy",
-        "expiration_date": 1667969940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
-        "duration": 1298.1251043,
-        "episode_number": "4",
-        "original_air_date": 1386306000,
-        "clip_order": null,
-        "auth_launch_date": 1667970000,
-        "modified": 1668641730,
-        "media_id": "78c49d2fc53e809413e62226d77b9c9e09e85559",
-        "airing_id": "RADS1011072200043351",
-        "id": "x9_LhiS5Sm6OlvLoVz3xfQ",
-        "slug": "grandy",
-        "views": 13575,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/1_2115121663-eagleheart_028_dup-20140110.jpg",
-        "created": 1402945464,
-        "title_id": "2012948",
-        "season_number": "3",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1668641730,
-        "tags": [
-            "Eagleheart",
-            "Paradise Rising",
-            "US Marshals",
-            "Chris Elliot",
-            "Monsanto",
-            "Marshal",
-            "Conan O'Brien",
-            "Brett Mobley",
-            "Maria Thayer",
-            "Brett Gelman"
-        ],
-        "rating_count": 32,
-        "collection_title": "Eagleheart",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1664942400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_2115121663-eagleheart_028_dup-20140110.jpg",
-        "cma_id": "1431231"
     },
     {
         "auth": true,
