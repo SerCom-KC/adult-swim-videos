@@ -468,99 +468,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1671080340,
-        "tms_id": "EP007164450291",
-        "description": "Klaus leaves the family after one too many harassments. 15 years later, they reconnect for his funeral.",
-        "title_suggest": {
-            "input": [
-                "No Weddings and a Funeral",
-                "Weddings and a Funeral",
-                "and a Funeral",
-                "a Funeral",
-                "Funeral"
-            ]
-        },
-        "title": "No Weddings and a Funeral",
-        "expiration_date": 1669006740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.8282,
-        "episode_number": "18",
-        "original_air_date": "1566180000",
-        "auth_launch_date": 1670475600,
-        "clip_order": null,
-        "airing_id": "RADS1012052200049549",
-        "media_id": "21e7cd2925a81536814cab11674ab11ce6980a33",
-        "modified": 1670216527,
-        "slug": "no-weddings-and-a-funeral",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/1_2068957301-americandad_1318_air_cid-3YD31.jpg",
-        "created": 1591624657,
-        "season_number": "14",
-        "title_id": "2186667",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1670216527,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1668402000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068957301-americandad_1318_air_cid-3YD31.jpg",
-        "id": "AXKUOOtwC8QgH-t19Jj5",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1671080340,
-        "tms_id": "EP007164450292",
-        "description": "Roger helps Francine with her terrible cooking by bringing her to a remote Patagonian island. Stan gets a nail in his head and can't speak.",
-        "title_suggest": {
-            "input": [
-                "Eight Fires",
-                "Fires"
-            ]
-        },
-        "title": "Eight Fires",
-        "expiration_date": 1669006740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.0274,
-        "episode_number": "19",
-        "original_air_date": "1566784800",
-        "auth_launch_date": 1670475600,
-        "clip_order": null,
-        "airing_id": "RADS1012052200049551",
-        "media_id": "ac405ed06c89cbdd8ea382dc0ca6cfe54dd03e43",
-        "modified": 1670216503,
-        "slug": "eight-fires",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/1_206895827-americandad_1319_air_cid-40TM5.jpg",
-        "created": 1591624688,
-        "season_number": "14",
-        "title_id": "2186668",
-        "tv_rating": "tv-14-dlv",
-        "published": 1670216503,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1668402000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895827-americandad_1319_air_cid-40TM5.jpg",
-        "id": "AXKUOWJFRs3h4hI_X4BV",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1671166740,
         "tms_id": "EP007164450293",
         "description": "Steve babysits Roger's ex-tumor, Rogu, to prove to Francine that he's ready for the responsibility. Stan and Francine get into trouble in their respective clubs.",
@@ -1025,6 +932,96 @@
         "launch_date": 1669006800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg",
         "id": "AXb4HCXgQJ_4Uej5kTlL",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1671685140,
+        "tms_id": "EP007164450367",
+        "description": "Stan drags the family to a labyrinth for family game night; Roger gets some geese.",
+        "title_suggest": {
+            "input": [
+                "Game Night",
+                "Night"
+            ]
+        },
+        "title": "Game Night",
+        "expiration_date": 1669611540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1261.994,
+        "episode_number": "9",
+        "original_air_date": "1593394200",
+        "auth_launch_date": 1671080400,
+        "clip_order": null,
+        "airing_id": "RADS1012122200050988",
+        "media_id": "1b7c685342d9e3f697f60371d3cb5dbd52ef13c8",
+        "modified": 1670880515,
+        "slug": "game-night",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121439524-americandad_1409_air_cid-C5RRH-GameNight.jpg",
+        "created": 1610480396,
+        "season_number": "15",
+        "title_id": "2197413",
+        "tv_rating": "",
+        "published": 1670880515,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669006800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439524-americandad_1409_air_cid-C5RRH-GameNight.jpg",
+        "id": "AXb4HKiRbxpjZvbXYl9-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1671685140,
+        "tms_id": "EP007164450373",
+        "description": "Steve and the boys take part in a prison experiment to earn some cash. Meanwhile, Stan deals with the death of his CIA groundskeeper friend.",
+        "title_suggest": {
+            "input": [
+                "American Data?",
+                "Data?"
+            ]
+        },
+        "title": "American Data?",
+        "expiration_date": 1669611540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1261.994,
+        "episode_number": "10",
+        "original_air_date": "1593999000",
+        "auth_launch_date": 1671080400,
+        "clip_order": null,
+        "airing_id": "RADS1012122200050986",
+        "media_id": "564d3eb0bee2f5a1e6038ddd8d154bfecc324668",
+        "modified": 1670892281,
+        "slug": "american-data",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
+        "created": 1610480418,
+        "season_number": "15",
+        "title_id": "2197415",
+        "tv_rating": "",
+        "published": 1670892281,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669006800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
+        "id": "AXb4HP38bxpjZvbXYl9_",
         "auth": true
     }
 ]
