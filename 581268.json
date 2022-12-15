@@ -3139,6 +3139,62 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447443780,
+        "auth_expiration_date": 1671253140,
+        "tms_id": "EP007008180037",
+        "rating": 7.6095357,
+        "description": "Drought is a disease. David Allan Coe is the cure.",
+        "title_suggest": {
+            "input": [
+                "The Okaleechee Dam Jam",
+                "Okaleechee Dam Jam",
+                "Dam Jam",
+                "Jam"
+            ]
+        },
+        "type": "episode",
+        "title": "The Okaleechee Dam Jam",
+        "expiration_date": 1598932799,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 705.1001001,
+        "episode_number": "17",
+        "original_air_date": 1211170500,
+        "clip_order": null,
+        "auth_launch_date": 1663387200,
+        "modified": 1671124179,
+        "media_id": "1b54421cd2b1b65d9ce2fc8974a2371367ab08a6",
+        "airing_id": "RADS1009162200028975",
+        "id": "PPYlQVWgThyqBgzUCLrD3w",
+        "slug": "the-okaleechee-dam-jam",
+        "views": 633789,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131156462-squidbillies_037_bim.jpg",
+        "created": 1402945477,
+        "title_id": "718762",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1671124179,
+        "tags": [
+            "squidbillies episode 37 okaleechee dam jam drought david allen coe water"
+        ],
+        "rating_count": 2602,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1542690000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131156462-squidbillies_037_bim.jpg",
+        "cma_id": "1466767"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447447020,
         "auth_expiration_date": 1676696340,
         "tms_id": "EP007008180092",
@@ -4997,63 +5053,6 @@
         "launch_date": 1617076800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg",
         "cma_id": "1352016"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447443660,
-        "auth_expiration_date": 1671253140,
-        "tms_id": "EP007008180031",
-        "rating": 8.183756,
-        "description": "Sheriff investigates the origins of fire, and its role in the burning of the squids' house.",
-        "title_suggest": {
-            "input": [
-                "The Unbearable Heatness of Fire",
-                "Unbearable Heatness of Fire",
-                "Heatness of Fire",
-                "of Fire",
-                "Fire"
-            ]
-        },
-        "type": "episode",
-        "title": "The Unbearable Heatness of Fire",
-        "expiration_date": 1632801540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 700.2002002,
-        "episode_number": "11",
-        "original_air_date": 1207541700,
-        "clip_order": null,
-        "auth_launch_date": 1663387200,
-        "modified": 1671123620,
-        "media_id": "a57564f5d9f253cc9594581c55791dd037b7f434",
-        "airing_id": "RADS1009162200028978",
-        "id": "iLz9lc4fQNSAeHmiQ1--Ng",
-        "slug": "the-unbearable-heatness-of-fire",
-        "views": 735385,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131134396-squidbillies_031_bim.jpg",
-        "created": 1402945477,
-        "title_id": "714221",
-        "season_number": "3",
-        "tv_rating": "tv-14-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1671123620,
-        "tags": [
-            "squidbillies episode 31 unbearable heatness of fire aliens house burn down"
-        ],
-        "rating_count": 2993,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1629777600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131134396-squidbillies_031_bim.jpg",
-        "cma_id": "1439550"
     },
     {
         "auth": false,
