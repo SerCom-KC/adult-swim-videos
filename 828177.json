@@ -304,7 +304,7 @@
         "launch_date": 1668056400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15574290498536.jpg",
         "id": "AWp5e-VZAScUIg8XxfZ-",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -353,6 +353,55 @@
         "launch_date": 1668661200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
         "id": "AWp5faU7AScUIg8XxfZ_",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1665633540,
+        "tms_id": "",
+        "description": "When Hell runs out of ball clamps, Satan sends his best men to get more. Unfortunately, Gary is one of his best men.",
+        "title_suggest": {
+            "input": [
+                "Milk and Honey",
+                "and Honey",
+                "Honey"
+            ]
+        },
+        "title": "Milk and Honey",
+        "expiration_date": 1674104340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 677.58,
+        "episode_number": "9",
+        "original_air_date": 1559966400,
+        "auth_launch_date": 1662609600,
+        "clip_order": null,
+        "media_id": "806982bb251273e19cd4130f8adb2611eae109e0",
+        "modified": 1670900678,
+        "airing_id": "RADS1012122200051291",
+        "slug": "milk-and-honey",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15598401267412.jpg",
+        "created": 1556816844,
+        "season_number": "4",
+        "title_id": "2191450",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1670900678,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1671080400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15598401267412.jpg",
+        "id": "AWp5g9Z2AScUIg8XxfaD",
         "auth": false
     },
     {
@@ -502,54 +551,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg",
         "id": "AWp5gcZBAScUIg8XxfaB",
         "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1671080340,
-        "tms_id": "",
-        "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
-        "title_suggest": {
-            "input": [
-                "Fried Alive",
-                "Alive"
-            ]
-        },
-        "title": "Fried Alive",
-        "expiration_date": 1668056340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "duration": 677.58,
-        "episode_number": "12",
-        "original_air_date": 1560572100,
-        "auth_launch_date": 1668056400,
-        "clip_order": null,
-        "media_id": "9c14aa29afbf5968ef2ed18c82e5db81e288550b",
-        "modified": 1667937417,
-        "airing_id": "RADS1010052200035001",
-        "slug": "fried-alive",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036482881015.jpg",
-        "created": 1556817021,
-        "season_number": "4",
-        "title_id": "2191449",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1667937417,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1665028800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
-        "id": "AWp5hohlHl5gR6828zZV",
-        "auth": true
     },
     {
         "ott_launch_date": null,
