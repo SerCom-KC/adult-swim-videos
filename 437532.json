@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1671166740,
-        "tms_id": "EP003034830040",
-        "description": "Fry quests to recover a seven-leaf clover he possessed as a child.",
-        "title_suggest": {
-            "input": [
-                "Luck of the Fryrish",
-                "of the Fryrish",
-                "the Fryrish",
-                "Fryrish"
-            ]
-        },
-        "title": "Luck of the Fryrish",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1404.2361,
-        "episode_number": "10",
-        "original_air_date": 1046664000,
-        "auth_launch_date": 1670562000,
-        "clip_order": null,
-        "airing_id": "RADS1012062200049888",
-        "media_id": "138696e4634fda5fdd9e24260da161b4fb896911",
-        "modified": 1670351498,
-        "slug": "luck-of-the-fryrish",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221439161-Futurama_039_LuckOfTheFryrish.png",
-        "created": 1647870820,
-        "title_id": "437703",
-        "season_number": "3",
-        "tv_rating": "tv-pg",
-        "published": 1670351498,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221439161-Futurama_039_LuckOfTheFryrish.png",
-        "id": "AX-swUGi_0O4w1rD3R3n",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1671253140,
         "tms_id": "EP003034830041",
         "description": "Leela decides to have plastic surgery so that she will appear to have two eyes.",
@@ -91,6 +44,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_22322144180-Futurama_040_TheCyberHouseRules.png",
         "id": "AX-tkHer208s7zyYUMY8",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1671771540,
+        "tms_id": "EP003034830045",
+        "description": "Fry falls in love with a virtual humanoid downloaded from a computer.",
+        "title_suggest": {
+            "input": [
+                "I Dated a Robot",
+                "Dated a Robot",
+                "a Robot",
+                "Robot"
+            ]
+        },
+        "title": "I Dated a Robot",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1404.7032,
+        "episode_number": "15",
+        "original_air_date": 1047873600,
+        "auth_launch_date": 1671166800,
+        "clip_order": null,
+        "airing_id": "RADS1012122200051297",
+        "media_id": "bd18923d9da3f0ede87eec441a6e3b4dbea49722",
+        "modified": 1670902170,
+        "slug": "i-dated-a-robot",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/1_22471558533-Futurama_044_IDatedARobot.png",
+        "created": 1649217257,
+        "title_id": "438047",
+        "season_number": "3",
+        "tv_rating": "tv-pg-d",
+        "published": 1670902170,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_22471558533-Futurama_044_IDatedARobot.png",
+        "id": "AX_9Aj6L_0O4w1rD3R9A",
         "auth": true
     },
     {
