@@ -1,7 +1,6 @@
 {
-    "updated": 1671201031,
-    "added": [],
-    "removed": [
+    "updated": 1671204632,
+    "added": [
         {
             "auth_expiration_date": 1671253140,
             "tms_id": "EP007008180129",
@@ -34,7 +33,7 @@
             "clip_order": null,
             "airing_id": "RADS1009152200028751",
             "media_id": "d1be415ea39d65352bbe627fbf1cc10f00021699",
-            "modified": 1671119077,
+            "modified": 1671203030,
             "slug": "zen-and-the-art-of-truck-boat-truck-maintenance",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png",
@@ -42,7 +41,7 @@
             "season_number": "13",
             "title_id": "2323126",
             "tv_rating": "tv-14-dlsv",
-            "published": 1671119077,
+            "published": 1671203030,
             "tags": [],
             "collection_title": "Squidbillies",
             "disable_ads": false,
@@ -55,5 +54,6 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
