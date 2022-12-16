@@ -618,7 +618,7 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251634135-attackontitan_040_air_cid-3M5W3.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1677214740,
         "tms_id": "EP019059960069",
@@ -666,7 +666,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1671166740,
         "tms_id": "EP019059960071",
         "description": "As battle breaks out to prevent the ritual, Historia makes a shocking decision which leads to catastrophe.",
@@ -2884,7 +2884,7 @@
         "cma_id": "1348519"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1671166740,
         "tms_id": "EP019059960063",
@@ -3252,7 +3252,7 @@
         "cma_id": "2117206"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1671166740,
         "tms_id": "EP019059960023",
@@ -3364,7 +3364,7 @@
         "cma_id": "1423875"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1683259140,
         "tms_id": "EP019059960042",
@@ -3803,7 +3803,7 @@
         "cma_id": "1403523"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1677214740,
         "tms_id": "EP019059960061",
