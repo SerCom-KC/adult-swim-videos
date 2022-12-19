@@ -92,7 +92,7 @@
         "launch_date": 1668402000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
         "id": "AW5qjExh1YiBSfg0KYe2",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -285,16 +285,18 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1671425940,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1666583940,
         "tms_id": "",
-        "description": "Goodman must leave the country and jump through a series of ridiculous hoops in order to cancel a simple membership subscription.",
+        "description": "When Sheriff confesses to his secret encounters with \"Sunday Man\", a man made of ice-cream, Sheriff finds that the truth is hard to swallow.",
         "title_suggest": {
             "input": [
-                "Membership"
+                "Sunday Man",
+                "Man"
             ]
         },
-        "title": "Membership",
-        "expiration_date": 1668401940,
+        "title": "Sunday Man",
+        "expiration_date": 1674449940,
         "type": "episode",
         "platforms": [
             "android",
@@ -303,30 +305,32 @@
             "fire-tv"
         ],
         "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 676.4758,
-        "episode_number": "6",
-        "original_air_date": "1614575700",
-        "auth_launch_date": 1668402000,
+        "duration": 678.58,
+        "episode_number": "7",
+        "original_air_date": 1575868500,
+        "auth_launch_date": 1663560000,
         "clip_order": null,
-        "airing_id": "RADS1011112200044293",
-        "media_id": "035f04dda5cae5557eab3b2dd821be78f6f4419c",
-        "modified": 1668193337,
-        "slug": "membership",
+        "media_id": "efe4861a444d8865c3443d7ed38b03794277cc73",
+        "modified": 1671213537,
+        "airing_id": "RADS1012162200051694",
+        "slug": "sunday-man",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210208/thumbnails/1_2128143306-MommaNamedMeSheriff_206_Membership.jpg",
-        "created": 1612812789,
-        "season_number": "2",
-        "title_id": "2247956",
-        "tv_rating": "tv-ma",
-        "published": 1668193337,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191119/thumbnails/1_1911191641325-MommaNamedMeSheriff_107_dup-20190507.jpg",
+        "created": 1573748066,
+        "season_number": "1",
+        "title_id": "2196573",
+        "tv_rating": "tv-ma-sv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1671213537,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1665374400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210208/thumbnails/2_2128143306-MommaNamedMeSheriff_206_Membership.jpg",
-        "id": "AXeDIibJbxpjZvbXYmOi",
-        "auth": true
+        "launch_date": 1671426000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191119/thumbnails/2_1911191641325-MommaNamedMeSheriff_107_dup-20190507.jpg",
+        "id": "AW5qscol1YiBSfg0KYfM",
+        "auth": false
     },
     {
         "auth_expiration_date": 1672030740,

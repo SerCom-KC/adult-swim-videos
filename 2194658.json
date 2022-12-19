@@ -276,7 +276,7 @@
         "launch_date": 1670216400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15581125011405.jpg",
         "id": "AWqxIOnv4aLemgzOLEfE",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -323,6 +323,53 @@
         "launch_date": 1670821200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155905516715616.jpg",
         "id": "AWrqYKjSCorLtcgflqrC",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1648439940,
+        "tms_id": "EP031416130008",
+        "description": "Ray will attempt to distract Mom while Emma and Norman go to inspect the wall. Gilda and Don are keeping a watchful eye on Ray, but will everything go smoothly?",
+        "title_suggest": {
+            "input": [
+                "021145"
+            ]
+        },
+        "title": "021145",
+        "type": "episode",
+        "expiration_date": 1672635540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1292.73,
+        "episode_number": "8",
+        "original_air_date": 1559448000,
+        "auth_launch_date": 1644814800,
+        "clip_order": null,
+        "airing_id": "RADS1012162200051690",
+        "media_id": "84b9a8098925321581a0bab2765bfd7bfaf5e14f",
+        "modified": 1671213526,
+        "slug": "021145",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15592507484158.jpg",
+        "created": 1559157607,
+        "title_id": "2194666",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1671213526,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1671426000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15592507484158.jpg",
+        "id": "AWsFCQrdCorLtcgflqy3",
         "auth": false
     },
     {
@@ -373,50 +420,5 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210405/thumbnails/2_21451456505-promo_PromisedNeverland_S2_SAT.jpg",
         "id": "AXijZW_2DmGy9WFjRqrY",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1671425940,
-        "tms_id": "EP034485630023",
-        "description": "As Emma extends her hand to Peter and says, \"Let's be free,\" he shows a calm expression, but realizes his true fate. The children finally arrive at the gate leading to the human world, where they hope to pass through.",
-        "title_suggest": {
-            "input": [
-                "Episode 11",
-                "11"
-            ]
-        },
-        "title": "Episode 11",
-        "type": "episode",
-        "expiration_date": 1667797140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1274.0061,
-        "episode_number": "11",
-        "original_air_date": 1624167000,
-        "auth_launch_date": 1667797200,
-        "clip_order": null,
-        "airing_id": "RADS1010212200037641",
-        "media_id": "aca9d99706e1a9b419d03c5fd8edb4937c2fb0f0",
-        "modified": 1667581418,
-        "slug": "episode-11",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/1_216181251113-TPN2_023_Episode11.png",
-        "created": 1623701958,
-        "title_id": "2264542",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
-        "published": 1667581418,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1666584000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181251113-TPN2_023_Episode11.png",
-        "id": "AXoMLbC2BH5Z6gH5aWUs",
-        "auth": true
     }
 ]
