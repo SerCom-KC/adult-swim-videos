@@ -1,11 +1,10 @@
 {
-    "updated": 1671409038,
-    "added": [],
-    "removed": [
+    "updated": 1671412096,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": null,
-            "auth_expiration_date": 1662436740,
+            "auth_expiration_date": 1671598740,
             "tms_id": "EP014135410031",
             "description": "Lost and Found",
             "title_suggest": {
@@ -26,11 +25,11 @@
             "duration": 674.5,
             "episode_number": "3",
             "original_air_date": 1512464400,
-            "auth_launch_date": 1650772800,
+            "auth_launch_date": 1662436800,
             "clip_order": null,
             "media_id": "a180b91a6e8d8d7dcfb80043cd463b29c1bb273c",
-            "modified": 1662390597,
-            "airing_id": "RADS1004222200091762",
+            "modified": 1671411803,
+            "airing_id": "RADS1009052200025983",
             "id": "AWAV00GfZ-onAnjDLtVg",
             "slug": "paradise",
             "exclude_from_search": false,
@@ -41,7 +40,7 @@
             "season_number": "7",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1662390597,
+            "published": 1671411803,
             "tags": [],
             "collection_title": "Off The Air",
             "disable_ads": false,
@@ -52,5 +51,6 @@
             "collection_title_id": "830073",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
