@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 19, 2022 at 19:00:26 EST_
+_Last Update: December 19, 2022 at 21:00:27 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2161118 Joe Pera Talks With You: 1  
 ### 2298519
@@ -16,3 +14,5 @@ https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-shows-you-his-
 seriesid=`2161118` titleid=`2298519` id=`AX0RMdUY4Xbjep71f6Hd` mediaid=`b642d08deee1fdd5123666c3141a4cbe776438de`  
 _Joe Pera shows you the past, present, and future of second fridges in the Midwest._  
 <a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121020101-JoePeraTalksWithYou_303_JoePeraShowsYouHisSecondFridge.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121020101-JoePeraTalksWithYou_303_JoePeraShowsYouHisSecondFridge.png" height="144px" /></a>
+## Video removed
+No videos were removed.  

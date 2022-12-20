@@ -1,7 +1,6 @@
 {
-    "updated": 1671494426,
-    "added": [],
-    "removed": [
+    "updated": 1671501627,
+    "added": [
         {
             "auth_expiration_date": 1671685140,
             "tms_id": "EP029506900029",
@@ -34,7 +33,7 @@
             "clip_order": null,
             "airing_id": "RADS1010132200036598",
             "media_id": "b642d08deee1fdd5123666c3141a4cbe776438de",
-            "modified": 1665696980,
+            "modified": 1671500355,
             "slug": "joe-pera-shows-you-his-second-fridge",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121020101-JoePeraTalksWithYou_303_JoePeraShowsYouHisSecondFridge.png",
@@ -42,7 +41,7 @@
             "title_id": "2298519",
             "season_number": "3",
             "tv_rating": "tv-14-dl",
-            "published": 1665696980,
+            "published": 1671500355,
             "tags": [],
             "collection_title": "Joe Pera Talks With You",
             "disable_ads": false,
@@ -55,5 +54,6 @@
             "collection_title_id": "2161118",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
