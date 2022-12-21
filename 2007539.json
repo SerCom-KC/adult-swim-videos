@@ -102,56 +102,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1671598740,
-        "tms_id": "",
-        "description": "After Mr. Pickles framed Grandpa for murder in the Season 3 finale, Sheriff learns of Grandpa's whereabouts, and heads out of the country to track him down. Meanwhile Grandpa has a new determination to finally end things with Mr. Pickles.",
-        "title_suggest": {
-            "input": [
-                "The Tree of Flesh",
-                "Tree of Flesh",
-                "of Flesh",
-                "Flesh"
-            ]
-        },
-        "title": "The Tree of Flesh",
-        "expiration_date": 1668574740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 678.75,
-        "episode_number": "1",
-        "original_air_date": 1574053200,
-        "auth_launch_date": 1668574800,
-        "clip_order": null,
-        "media_id": "7ddcdd470d461c7a3bfc0ca92916ff14aaf2ab5b",
-        "modified": 1668370894,
-        "airing_id": "RADS1010072200035603",
-        "slug": "the-tree-of-flesh",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191024/thumbnails/1_1910241144587-mrpickles_401_dup-20190507.jpg",
-        "created": 1571931909,
-        "season_number": "4",
-        "title_id": "2196564",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1668370894,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1665547200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191024/thumbnails/2_1910241144587-mrpickles_401_dup-20190507.jpg",
-        "id": "AW3-cW8x1YiBSfg0KX-J",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "",
         "title_suggest": {
@@ -448,6 +398,53 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1519659060,
+        "auth_expiration_date": 1657079940,
+        "tms_id": "EP018514630025",
+        "description": "When Mr. Bojenkins finds that Sheriff is a momma\u2019s boy, he decides to teach Sheriff how to be a man.",
+        "title_suggest": {
+            "input": [
+                "Momma's Boy",
+                "Boy"
+            ]
+        },
+        "title": "Momma's Boy",
+        "type": "episode",
+        "expiration_date": 1674622740,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.5,
+        "episode_number": "2",
+        "original_air_date": 1519622100,
+        "clip_order": null,
+        "auth_launch_date": 1654056000,
+        "modified": 1671414516,
+        "media_id": "066ab9ecf382e701732906d6fa6cd0c54192f32d",
+        "airing_id": "RADS1012192200051834",
+        "id": "T5IqiofhT0-ZEduE4NlTeg",
+        "slug": "mommas-boy",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151940609014319.jpg",
+        "created": 1502136764,
+        "season_number": "3",
+        "title_id": "2120610",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1671414516,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1671598800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151940609014319.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1465221600,
         "auth_expiration_date": 1654660740,
         "tms_id": "EP018514630019",
@@ -594,7 +591,7 @@
         "cma_id": "2085305"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1464616800,
         "auth_expiration_date": 1674622740,
         "tms_id": "EP018514630018",
