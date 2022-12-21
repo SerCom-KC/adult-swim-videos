@@ -404,7 +404,7 @@
         "original_air_date": 1091934000,
         "clip_order": null,
         "auth_launch_date": 1671771600,
-        "modified": 1671582865,
+        "modified": 1671585448,
         "media_id": "85244e35982770c0e7f2dd6a58b71691de74ae34",
         "airing_id": "RADS1012212200053632",
         "id": "7Eigg9gPRWWkjpqiPsegUg",
@@ -419,7 +419,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1671582865,
+        "published": 1671585448,
         "tags": [
             "venture bros brothers episode 1 dia de los dangerous first series premiere mexico tijuana kidnapped kidney"
         ],
@@ -2607,6 +2607,59 @@
         "launch_date": 1426086000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116140421-venture_131_dst_cid-UPMQ.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447779000,
+        "auth_expiration_date": 1671771599,
+        "tms_id": "EP005604540006",
+        "rating": 8.415971,
+        "description": "To protect the Venture compound while Brock is on his yearly mountain survival sabbatical, Dr. Venture builds a panic room and a robotic bodyguard--which are soon put to the test when both the Monarch's and Baron Underbheit's henchmen choose the same night to launch attacks.",
+        "title_suggest": {
+            "input": [
+                "Home Insecurity",
+                "Insecurity"
+            ]
+        },
+        "type": "episode",
+        "title": "Home Insecurity",
+        "expiration_date": 1423670400,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1340.14,
+        "episode_number": "3",
+        "original_air_date": 1093143600,
+        "clip_order": null,
+        "auth_launch_date": 1665374400,
+        "modified": 1671585447,
+        "airing_id": "RADS1010072200035680",
+        "media_id": "4a05bf412ed98d2172c37bb896b242061a4c5b38",
+        "id": "grU0kecFR5uzRm9lzpEfmQ",
+        "slug": "home-insecurity",
+        "views": 1099576,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161322456-venture_103.jpg",
+        "created": 1402945481,
+        "title_id": "543792",
+        "season_number": "1",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1671585447,
+        "tags": [
+            "venture brothers bros episode 7 home insecurity brock camping bigfoot sasquatch six million dollars man"
+        ],
+        "rating_count": 2041,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1423065600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161322456-venture_103.jpg",
+        "cma_id": "980931"
     },
     {
         "auth": false,
