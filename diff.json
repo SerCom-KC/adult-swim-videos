@@ -1,63 +1,6 @@
 {
-    "updated": 1671600624,
+    "updated": 1671600680,
     "added": [
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1671598740,
-            "tms_id": "EP020020000067",
-            "description": "White Privilege turns on itself.",
-            "title_suggest": {
-                "input": [
-                    "The Gift That Keeps on Giving",
-                    "Gift That Keeps on Giving",
-                    "That Keeps on Giving",
-                    "Keeps on Giving",
-                    "on Giving",
-                    "Giving"
-                ]
-            },
-            "title": "The Gift That Keeps on Giving",
-            "expiration_date": 1665547140,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-            "duration": 654.3871,
-            "episode_number": "11",
-            "original_air_date": 1578891600,
-            "auth_launch_date": 1665547200,
-            "clip_order": null,
-            "media_id": "50ac448b71a5f12fd1634469fa819a0678cbd4a5",
-            "modified": 1665172829,
-            "airing_id": "RADS1009022200025780",
-            "slug": "the-gift-that-keeps-on-giving",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200102/thumbnails/1_2012920437-miketysonmysteries_412.jpg",
-            "created": 1577974860,
-            "season_number": "4",
-            "title_id": "2172009",
-            "tv_rating": "tv-14-lv",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1665172829,
-            "tags": [],
-            "collection_title": "Mike Tyson Mysteries",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1662523200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200102/thumbnails/2_2012920437-miketysonmysteries_412.jpg",
-            "id": "AW9moYkTGRcVO2K2pl_I",
-            "auth": true,
-            "collection_slug": "mike-tyson-mysteries",
-            "collection_title_id": "2032238",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "auth": false,
             "ott_launch_date": null,
@@ -113,6 +56,63 @@
             "launch_date": 1671598800,
             "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111532312-miketysonmysteries_306.jpg",
             "cma_id": "1446417",
+            "collection_slug": "mike-tyson-mysteries",
+            "collection_title_id": "2032238",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1671598740,
+            "tms_id": "EP020020000067",
+            "description": "White Privilege turns on itself.",
+            "title_suggest": {
+                "input": [
+                    "The Gift That Keeps on Giving",
+                    "Gift That Keeps on Giving",
+                    "That Keeps on Giving",
+                    "Keeps on Giving",
+                    "on Giving",
+                    "Giving"
+                ]
+            },
+            "title": "The Gift That Keeps on Giving",
+            "expiration_date": 1665547140,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+            "duration": 654.3871,
+            "episode_number": "11",
+            "original_air_date": 1578891600,
+            "auth_launch_date": 1665547200,
+            "clip_order": null,
+            "media_id": "50ac448b71a5f12fd1634469fa819a0678cbd4a5",
+            "modified": 1665172829,
+            "airing_id": "RADS1009022200025780",
+            "slug": "the-gift-that-keeps-on-giving",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200102/thumbnails/1_2012920437-miketysonmysteries_412.jpg",
+            "created": 1577974860,
+            "season_number": "4",
+            "title_id": "2172009",
+            "tv_rating": "tv-14-lv",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1665172829,
+            "tags": [],
+            "collection_title": "Mike Tyson Mysteries",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1662523200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200102/thumbnails/2_2012920437-miketysonmysteries_412.jpg",
+            "id": "AW9moYkTGRcVO2K2pl_I",
+            "auth": true,
             "collection_slug": "mike-tyson-mysteries",
             "collection_title_id": "2032238",
             "online_exclusives": false
