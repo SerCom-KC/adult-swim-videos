@@ -1,23 +1,23 @@
 {
-    "updated": 1671588497,
+    "updated": 1671589040,
     "added": [
         {
             "auth": true,
             "ott_launch_date": 1447779120,
             "auth_expiration_date": 1671771599,
-            "tms_id": "EP005604540004",
-            "rating": 8.61641,
-            "description": "Dr. Venture is offered a job by theme park owner and cartoon magnate Roy Brisby, who won't take no for an answer in his quest for worldwide entertainment dominance.  Meanwhile, the boys are given the Patty Hearst treatment by the Orange County Liberation Front, a group of militant suburbanites who want to take down Brisby's empire  Brock enlists the aid of former lover and fellow superspy Molotov Cocktease to \"mount\"a rescue, but she may have her own agenda.",
+            "tms_id": "EP005604540003",
+            "rating": 8.678917,
+            "description": "Dr. Venture's new experiment has the entire family interested--not to mention trapped inside!  The Ventures' strange new neighbor, master of mysticism Dr. Orpheus, may be the only one who can help them escape.  Meanwhile Dean falls for Dr. Orpheus's teenaged daughter and Brock falls for his old flame: Molotov Cocktease.",
             "title_suggest": {
                 "input": [
-                    "The Incredible Mr. Brisby",
-                    "Incredible Mr. Brisby",
-                    "Mr. Brisby",
-                    "Brisby"
+                    "Eeney Meeney Miney Magic!",
+                    "Meeney Miney Magic!",
+                    "Miney Magic!",
+                    "Magic!"
                 ]
             },
             "type": "episode",
-            "title": "The Incredible Mr. Brisby",
+            "title": "Eeney Meeney Miney Magic!",
             "expiration_date": 1423670400,
             "platforms": [
                 "web",
@@ -25,40 +25,154 @@
                 "ott"
             ],
             "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
-            "duration": 1345.24,
-            "episode_number": "4",
-            "original_air_date": 1093748400,
+            "duration": 1351.85,
+            "episode_number": "5",
+            "original_air_date": 1094353200,
             "clip_order": null,
             "auth_launch_date": 1665374400,
-            "modified": 1671588171,
-            "airing_id": "RADS1010072200035692",
-            "media_id": "b06e36e689cd9e149de0c0f7f036502850da5afd",
-            "id": "ktj9bStwTIaag-ziu3E9wg",
-            "slug": "the-incredible-mr-brisby",
-            "views": 940318,
+            "modified": 1671588787,
+            "airing_id": "RADS1010072200035687",
+            "media_id": "8f95cc0f92d5c8546986839a755aba60494e1230",
+            "id": "OoC5JhwbQcGnkb542TuVDQ",
+            "slug": "eeney-meeney-miney-magic",
+            "views": 1001328,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161323466-venture_105.jpg",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161323319-venture_104.jpg",
             "created": 1402945481,
-            "title_id": "543790",
+            "title_id": "543789",
             "season_number": "1",
-            "tv_rating": "tv-ma",
+            "tv_rating": "tv-14-d",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1671588171,
+            "published": 1671588787,
             "tags": [
-                "venture brothers bros episode 5 incredible mr brisby theme park clone"
+                "venture brothers bros episode eeney meemey miney magic orpheus joycan fantasy"
             ],
-            "rating_count": 1671,
+            "rating_count": 1741,
             "collection_title": "The Venture Bros.",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": 1423065600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323466-venture_105.jpg",
-            "cma_id": "980972",
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323319-venture_104.jpg",
+            "cma_id": "981013",
             "collection_slug": "the-venture-bros",
             "collection_title_id": "439722",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth": true,
+            "ott_launch_date": 1447779240,
+            "auth_expiration_date": 1671771599,
+            "tms_id": "EP005604540008",
+            "rating": 6.352656,
+            "description": "Dr. Venture, Pete White and Master Billy Quizboy are invited to take part in a top secret government think tank.",
+            "title_suggest": {
+                "input": [
+                    "Ice Station Impossible!",
+                    "Station Impossible!",
+                    "Impossible!"
+                ]
+            },
+            "type": "episode",
+            "title": "Ice Station Impossible!",
+            "expiration_date": 1423670400,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+            "duration": 1352.48,
+            "episode_number": "7",
+            "original_air_date": 1095562800,
+            "clip_order": null,
+            "auth_launch_date": 1665374400,
+            "modified": 1671586957,
+            "airing_id": "RADS1010072200035689",
+            "media_id": "ee6199973d96112079490dc757a40625a6953cb2",
+            "id": "4vrumG3RTr2Bb0LFeEB1og",
+            "slug": "ice-station-impossible",
+            "views": 1191018,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161324392-venture_109.jpg",
+            "created": 1402945481,
+            "title_id": "543794",
+            "season_number": "1",
+            "tv_rating": "",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1671586957,
+            "tags": [
+                "venture bros brothers episode 9 ice station impossible fantastic four explosive dean"
+            ],
+            "rating_count": 3675,
+            "collection_title": "The Venture Bros.",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1423065600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324392-venture_109.jpg",
+            "cma_id": "983687",
+            "collection_slug": "the-venture-bros",
+            "collection_title_id": "439722",
+            "online_exclusives": false
+        },
+        {
+            "auth": true,
+            "ott_launch_date": 1447780440,
+            "auth_expiration_date": 1671771599,
+            "tms_id": "EP005604540011",
+            "rating": 8.732215,
+            "description": "When Brock and Dr. Venture are kidnapped from the funeral of a college friend, the boys enlist the aid of the original Team Venture: a group of superscience adventurers who worked for their grandfather in the sixties.",
+            "title_suggest": {
+                "input": [
+                    "Past Tense",
+                    "Tense"
+                ]
+            },
+            "type": "episode",
+            "title": "Past Tense",
+            "expiration_date": 1424275200,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+            "duration": 1355.32,
+            "episode_number": "11",
+            "original_air_date": 1097983800,
+            "clip_order": null,
+            "auth_launch_date": 1665374400,
+            "modified": 1671586956,
+            "airing_id": "RADS1010072200035705",
+            "media_id": "be48ab90be72e2841f23e782966529e4b9898eec",
+            "id": "qgKt6ZBxRu-h2cGSsWHRFw",
+            "slug": "past-tense",
+            "views": 1064956,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161326270-venture_112.jpg",
+            "created": 1402945481,
+            "title_id": "543797",
+            "season_number": "1",
+            "tv_rating": "tv-14-dls",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1671586956,
+            "tags": [
+                "venture bros brothers episode 12 past tense funeral college flashback robots kidnapped team venture"
+            ],
+            "rating_count": 2573,
+            "collection_title": "The Venture Bros.",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1423670400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326270-venture_112.jpg",
+            "cma_id": "986103",
+            "collection_slug": "the-venture-bros",
+            "collection_title_id": "439722",
+            "online_exclusives": false
+        }
+    ]
 }
