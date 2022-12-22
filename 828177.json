@@ -353,7 +353,7 @@
         "launch_date": 1668661200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15580247557034.jpg",
         "id": "AWp5faU7AScUIg8XxfZ_",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -550,6 +550,54 @@
         "launch_date": 1670475600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155914843405217.jpg",
         "id": "AWp5gcZBAScUIg8XxfaB",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1666238340,
+        "tms_id": "",
+        "description": "When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.",
+        "title_suggest": {
+            "input": [
+                "Five-Card Duds",
+                "Duds"
+            ]
+        },
+        "title": "Five-Card Duds",
+        "expiration_date": 1674709140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 674.58,
+        "episode_number": "10",
+        "original_air_date": 1559967300,
+        "auth_launch_date": 1663214400,
+        "clip_order": null,
+        "media_id": "45520e2ee6fbffd2d3daf420ebc7421a6b25f3f4",
+        "modified": 1671502797,
+        "airing_id": "RADS1012192200051966",
+        "slug": "five-card-duds",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155984019589717.jpg",
+        "created": 1556816877,
+        "season_number": "4",
+        "title_id": "2191445",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1671502797,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1671685200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
+        "id": "AWp5hFfgHl5gR6828zZU",
         "auth": false
     },
     {
@@ -1166,56 +1214,6 @@
         "launch_date": 1666238400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/krampus-nacht/ypf_ep212_003_ba865801g56qf6qw8s_2.jpg",
         "cma_id": "1377020"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447786920,
-        "auth_expiration_date": 1671685140,
-        "tms_id": "EP013726210009",
-        "description": "When Gary goes AWOL, Satan sends for his top bounty hunters.",
-        "title_suggest": {
-            "input": [
-                "Psyklone and the Thin Twins",
-                "and the Thin Twins",
-                "the Thin Twins",
-                "Thin Twins",
-                "Twins"
-            ]
-        },
-        "expiration_date": 1668661140,
-        "title": "Psyklone and the Thin Twins",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 685.13,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "1",
-        "original_air_date": 1436760900,
-        "clip_order": null,
-        "auth_launch_date": 1668661200,
-        "modified": 1668396764,
-        "airing_id": "RADS1010102200036215",
-        "media_id": "4e4bcc2ef1a8b7103a7fb5ad4584a3399b1ddbd7",
-        "id": "IiJRi9bUQnm2rDTCMzCUVw",
-        "slug": "psyklone-and-the-thin-twins",
-        "views": 3,
-        "created": 1436294062,
-        "season_number": "2",
-        "title_id": "2062763",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1668396764,
-        "first_published": 1436534422,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1665633600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/psyklone-and-the-thin-twins/ypf_ep201_003.jpg",
-        "cma_id": "1384952"
     },
     {
         "auth": false,
