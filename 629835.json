@@ -61,6 +61,62 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1672289940,
+        "tms_id": "EP002070020166",
+        "rating": 9.17544,
+        "description": "Luanne and Bill get a chair at a local hair salon, and in order to compete with the other trendy hairdressers, Bill tells everyone he's gay.",
+        "title_suggest": {
+            "input": [
+                "My Hair Lady",
+                "Hair Lady",
+                "Lady"
+            ]
+        },
+        "type": "episode",
+        "title": "My Hair Lady",
+        "expiration_date": 1508902199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1436.9021,
+        "episode_number": "11",
+        "original_air_date": 1235532600,
+        "clip_order": null,
+        "auth_launch_date": 1671685200,
+        "modified": 1671422604,
+        "media_id": "364211e4412fc46e20a5f50450741bc4a5cc21d4",
+        "airing_id": "RADS1012192200051878",
+        "id": "CqcKssdiQKWVRwEh2FhFAg",
+        "slug": "my-hair-lady",
+        "views": 91992,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203538807781.jpg",
+        "created": 1402945468,
+        "title_id": "731501",
+        "season_number": "8",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1671422604,
+        "tags": [
+            "Episode 809",
+            "hair salon",
+            "Bill",
+            "Luanne",
+            "gay"
+        ],
+        "rating_count": 114,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1508297400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203538807781.jpg",
+        "cma_id": "1496556"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1672203540,
         "tms_id": "EP002070020165",
         "description": "A new Strickland Propane employee revels in making off-color jokes, driving Hank crazy.",
@@ -107,59 +163,6 @@
         "launch_date": 1508211000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203539039075.jpg",
         "cma_id": "1496061"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1671685140,
-        "tms_id": "EP002070020162",
-        "rating": 7.737777,
-        "description": "Hank enters his house in Arlen's Parade of Homes showcase.  But when the Hill house tests positive for mold, Hank and his family must relocate to a seedy hotel.",
-        "title_suggest": {
-            "input": [
-                "After the Mold Rush",
-                "the Mold Rush",
-                "Mold Rush",
-                "Rush"
-            ]
-        },
-        "type": "episode",
-        "title": "After the Mold Rush",
-        "expiration_date": 1508677199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1452.5177,
-        "episode_number": "6",
-        "original_air_date": 1235014200,
-        "clip_order": null,
-        "auth_launch_date": 1671080400,
-        "modified": 1670892277,
-        "media_id": "8d4473b5da538b8fbee02ab2aaf0688ef348313a",
-        "airing_id": "RADS1012122200050971",
-        "id": "bSYQEQv3T-6ZJSGwXfvDpg",
-        "slug": "after-the-mold-rush",
-        "views": 127088,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203540065139.jpg",
-        "created": 1402945468,
-        "title_id": "731496",
-        "season_number": "8",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1670892277,
-        "tags": [
-            "koth king of the hill episode 719 after the mold rush parade of homes motel hotel"
-        ],
-        "rating_count": 225,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1508072400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203540065139.jpg",
-        "cma_id": "1495437"
     },
     {
         "auth": true,
