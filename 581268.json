@@ -1917,6 +1917,50 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1671857940,
+        "tms_id": "EP007008180130",
+        "description": "Sheriff does.",
+        "title_suggest": {
+            "input": [
+                "Who-Gives-A-Flip?"
+            ]
+        },
+        "title": "Who-Gives-A-Flip?",
+        "expiration_date": 1661572740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 670.7034,
+        "episode_number": "6",
+        "original_air_date": "1637558100",
+        "auth_launch_date": 1663992000,
+        "clip_order": null,
+        "airing_id": "RADS1009232200030467",
+        "media_id": "50db4d9c0ba7141556364b11e13a7462ec0c832b",
+        "modified": 1671721476,
+        "slug": "who-gives-a-flip",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_211119114173-Squidbillies_1104_WhoGivesAFlip.png",
+        "created": 1637340082,
+        "season_number": "13",
+        "title_id": "2323128",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1671721476,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1658548800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114173-Squidbillies_1104_WhoGivesAFlip.png",
+        "id": "AX05Eu-d4Xbjep71f6Hh",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1673672340,
         "tms_id": "EP007008180128",
         "description": "Early is forced to choose between his community and his hats.",
