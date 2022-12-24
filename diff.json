@@ -1,64 +1,58 @@
 {
-    "updated": 1671865225,
+    "updated": 1671867024,
     "added": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1672030740,
-            "tms_id": "",
-            "description": "It's Yami versus the elves: first Marx and Owen, then an elf-possessed Charlotte who seems bent on destroying the royal capital and everyone in it.",
+            "auth_expiration_date": 1672057740,
+            "tms_id": "EP034917240265",
+            "description": "Sakura focuses on her healing skills while Naruto and Sasuke aim for Ten Tails. Meanwhile, the five Kage battling Madara have sustained critical injuries.",
             "title_suggest": {
                 "input": [
-                    "The Black Bulls Captain vs. the Crimson Wild Rose",
-                    "Black Bulls Captain vs. the Crimson Wild Rose",
-                    "Bulls Captain vs. the Crimson Wild Rose",
-                    "Captain vs. the Crimson Wild Rose",
-                    "vs. the Crimson Wild Rose",
-                    "the Crimson Wild Rose",
-                    "Crimson Wild Rose",
-                    "Wild Rose",
-                    "Rose"
+                    "The New Three-Way Deadlock",
+                    "New Three-Way Deadlock",
+                    "Three-Way Deadlock",
+                    "Deadlock"
                 ]
             },
-            "title": "The Black Bulls Captain vs. the Crimson Wild Rose",
-            "expiration_date": 1641099540,
+            "title": "The New Three-Way Deadlock",
             "type": "episode",
+            "expiration_date": null,
             "platforms": [
                 "android",
                 "ios",
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1286.9524,
-            "episode_number": "45",
-            "original_air_date": 1574578800,
-            "auth_launch_date": 1661659200,
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1311.6437,
+            "episode_number": "26",
+            "original_air_date": 1643529600,
+            "auth_launch_date": 1661686200,
             "clip_order": null,
-            "media_id": "6b85ad980225b0e3642eee7e59003b96e671322d",
-            "modified": 1671863635,
-            "airing_id": "RADS1008262200022955",
-            "slug": "the-black-bulls-captain-vs-the-crimson-wild-rose",
+            "airing_id": "RADS1008252200022891",
+            "media_id": "b6275b63a68d3a90540059ec4f4dfb031da3a4ce",
+            "modified": 1671866362,
+            "slug": "the-new-three-way-deadlock",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/1_1910281117576-BlackClover_096.jpg",
-            "created": 1572275883,
-            "season_number": "2",
-            "title_id": "2205122",
-            "tv_rating": "tv-14",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1671863635,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_221271553532-NarutoShippuden_374_TheNewThreeWayDeadlock.png",
+            "created": 1643316167,
+            "title_id": "2177804",
+            "season_number": "7",
+            "tv_rating": "tv-pg",
+            "published": 1671866362,
             "tags": [],
-            "collection_title": "Black Clover",
+            "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1639890000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117576-BlackClover_096.jpg",
-            "id": "AW4S8g2e1YiBSfg0KYDv",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271553532-NarutoShippuden_374_TheNewThreeWayDeadlock.png",
+            "id": "AX6dRsP7_0O4w1rD3Rgz",
             "auth": true,
-            "collection_slug": "black-clover",
-            "collection_title_id": "2143080",
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
             "online_exclusives": false
-        },
+        }
+    ],
+    "removed": [
         {
             "auth_expiration_date": 1672055940,
             "tms_id": "EP034917240264",
@@ -108,6 +102,5 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
