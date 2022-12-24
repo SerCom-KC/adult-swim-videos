@@ -1,26 +1,24 @@
 {
-    "updated": 1671878598,
-    "added": [],
-    "removed": [
+    "updated": 1671878898,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447359600,
             "auth_expiration_date": 1672030799,
-            "tms_id": "EP007259620083",
-            "rating": 6.916044,
-            "description": "Jason Bourne gets a new identity, the new Bachelor's a beast, the creators take a skewed look at the Holy Grail and meet a character who knows how to speed things along",
+            "tms_id": "EP007259620084",
+            "rating": 7.4934435,
+            "description": "The creators imagine the origin of the Wuzzles, what Cloverfield's real intention was, a new spin on Hitchcock's Rear Window, plus a super sappy season ender.",
             "title_suggest": {
                 "input": [
-                    "Please Do Not Notify Our Contractors",
-                    "Do Not Notify Our Contractors",
-                    "Not Notify Our Contractors",
-                    "Notify Our Contractors",
-                    "Our Contractors",
-                    "Contractors"
+                    "Especially the Animal Keith Crofford",
+                    "the Animal Keith Crofford",
+                    "Animal Keith Crofford",
+                    "Keith Crofford",
+                    "Crofford"
                 ]
             },
             "type": "episode",
-            "title": "Please Do Not Notify Our Contractors",
+            "title": "Especially the Animal Keith Crofford",
             "expiration_date": 1590551999,
             "platforms": [
                 "web",
@@ -28,42 +26,45 @@
                 "ott"
             ],
             "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 671.5338672,
-            "episode_number": "19",
-            "original_air_date": 1252899000,
+            "duration": 677.9009009,
+            "episode_number": "20",
+            "original_air_date": 1253503800,
             "clip_order": null,
             "auth_launch_date": 1662868800,
-            "modified": 1671876726,
-            "airing_id": "RADS1009112200026629",
-            "media_id": "493500e8be4a7dab1133dbe7ab0bef501e668848",
-            "id": "7-U5ffcVSTy33z31tH9MLQ",
-            "slug": "please-do-not-notify-our-contractors",
-            "views": 489798,
+            "modified": 1671878816,
+            "airing_id": "RADS1009112200026608",
+            "media_id": "0ca8632cca50743da602150c3f3f56205b3836fa",
+            "id": "884EdoJ_S6qatIxikBrDMQ",
+            "slug": "especially-the-animal-keith-crofford",
+            "views": 569016,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/1_2042173693-robotchicken_079.jpg",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/1_2042173733-robotchicken_080.jpg",
             "created": 1402945473,
-            "title_id": "747258",
+            "title_id": "747259",
             "season_number": "4",
             "tv_rating": "tv-ma",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1671876726,
+            "published": 1671878816,
             "tags": [
-                "please do not notify our contractors",
-                "jason bourne",
-                "bachelor",
-                "holy grail"
+                "especially the animal keither crofford",
+                "wuzzles",
+                "cloverfield",
+                "hitchcock",
+                "rear window",
+                "season ender"
             ],
-            "rating_count": 2275,
+            "rating_count": 2440,
             "collection_title": "Robot Chicken",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": 1569384000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042173693-robotchicken_079.jpg",
-            "cma_id": "1368429",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042173733-robotchicken_080.jpg",
+            "cma_id": "1371919",
             "collection_slug": "robot-chicken",
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
