@@ -2,19 +2,31 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 24, 2022 at 03:00:24 EST_
+_Last Update: December 24, 2022 at 03:30:24 EST_
 ## Video added
 ### Summary
-2143080 Black Clover: 2  
-608360 Robot Chicken: 2  
-### 2205125
-**Black Clover S02E48 - The Desperate Path Toward Survival**  
-TV-14 🔒 21:15  
+2143080 Black Clover: 1  
+608360 Robot Chicken: 1  
+### 2205126
+**Black Clover S02E49 - We Won't Lose to You**  
+TV-14 🔒 22:00  
 ⌛ December 25, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-desperate-path-toward-survival  
-seriesid=`2143080` titleid=`2205125` id=`AW7X0c9A1YiBSfg0KZHT` mediaid=`d5e086ceb04c8f4adf9a23699ce9968d0230b517`  
-_Mereoleona is left to face five powerful elf enemies alone, putting her "undefeated" title to the test. Mimosa's Royal Knight teammates turn on her._  
-<a href="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271210286-BlackClover_099.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271210286-BlackClover_099.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/black-clover/we-wont-lose-to-you  
+seriesid=`2143080` titleid=`2205126` id=`AW9r2JZ2GRcVO2K2pl_O` mediaid=`83948c62b95d4e1a3011a3bd36db78ef2b18093a`  
+_Asta confronts his rival Yuno, one of many Golden Dawn members to have been taken over by elves. Licht is spurred to action, as are Yami and Finral._  
+<a href="https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_201393988-BlackClover_100.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200103/thumbnails/2_201393988-BlackClover_100.jpg" height="144px" /></a>
+### 747249
+**Robot Chicken S04E10 - P.S. Yes, In That Way**  
+TV-MA 🔒 11:34  
+⌛ December 25, 2022 at 23:59:59 EST  
+https://www.adultswim.com/videos/robot-chicken/p-s-yes-in-that-way  
+seriesid=`608360` titleid=`747249` id=`KcT1SYLRR-iC_DDyijI3pw` mediaid=`d26c84e5802ef3f24f1221907dcd27f69efa80d1`  
+_Strawberry Shortcake solves a robbery, Billy Dee Williams goes shopping, and the creators imagine what happens when Harry introduces his cousin to the Hendersons. Plus G.I. Joe welcomes a new member._  
+<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421653373-robotchicken_070.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421653373-robotchicken_070.jpg" height="144px" /></a>
+## Video removed
+### Summary
+2143080 Black Clover: 1  
+608360 Robot Chicken: 1  
 ### 2205127
 **Black Clover S02E50 - The Lives of the Village in the Sticks**  
 TV-14 🔒 21:24  
@@ -31,13 +43,3 @@ https://www.adultswim.com/videos/robot-chicken/help-me
 seriesid=`608360` titleid=`747221` id=`htdVKfdrQGGDdPiHxvd2kA` mediaid=`dbee6665160c43868c7780101df6d315bebe7916`  
 _Robot Chicken returns for its fourth season, with the help of guest stars Joss Whedon, Ron Moore and Seth MacFarlane! Tila Tequila's "A Shot at Love" reveals a deadly secret. The creators imagine: what if Parappa the Rapper had to rap for his life? Movie and TV favorites are trimmed down to "Just the Good Parts."_  
 <a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042144285-robotchicken_061.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042144285-robotchicken_061.jpg" height="144px" /></a>
-### 747222
-**Robot Chicken S04E02 - I'm Trapped**  
-TV-MA 🔒 11:34  
-⌛ December 25, 2022 at 23:59:59 EST  
-https://www.adultswim.com/videos/robot-chicken/im-trapped  
-seriesid=`608360` titleid=`747222` id=`kB3Jwf1vQYG5EU-XJCymeQ` mediaid=`e0d135b2d00a296cce7b7e6bd8829b43705a80c9`  
-_Witness the aftermath of Pluto Nash box office. The creators imagine the truth behind James Bond's sex life, Iron Man's unexpected ally and a Skeletor plot involving a less-than-perfect clone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042147255-robotchicken_062.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042147255-robotchicken_062.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
