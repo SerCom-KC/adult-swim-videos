@@ -108,6 +108,57 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1672462740,
+        "tms_id": "EP002070020168",
+        "rating": 6.4216523,
+        "description": "Peggy takes over as coach of the cheerleading squad and switches the girls from elaborate dance routines to violent spectacle.",
+        "title_suggest": {
+            "input": [
+                "Cheer Factor",
+                "Factor"
+            ]
+        },
+        "type": "episode",
+        "title": "Cheer Factor",
+        "expiration_date": null,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1440.1053,
+        "episode_number": "13",
+        "original_air_date": 1235446200,
+        "clip_order": null,
+        "auth_launch_date": 1671858000,
+        "modified": 1671622485,
+        "media_id": "efcb9ad7b9c4d3f17456ad890ad2a273c346ae8d",
+        "airing_id": "RADS1012212200053745",
+        "id": "jU33TT-oR7isyyGaSKyH7w",
+        "slug": "cheer-factor",
+        "views": 208189,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15238985745388.jpg",
+        "created": 1402945468,
+        "title_id": "731503",
+        "season_number": "8",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1671622485,
+        "tags": [
+            "King of the Hill Cheer Factor 807 8ABE07 cheerleading squad cheerleaders dance"
+        ],
+        "rating_count": 351,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238985745388.jpg",
+        "cma_id": "731503"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1671944340,
         "tms_id": "EP002070020164",
         "rating": 8.723973,
@@ -172,59 +223,6 @@
         "launch_date": 1508126400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203539370363.jpg",
         "cma_id": "1496436"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1671857940,
-        "tms_id": "EP002070020163",
-        "rating": 8.410359,
-        "description": "When Bobby mistakenly believes that his parents are rich, he steals Hank's credit card and goes on a shopping spree.",
-        "title_suggest": {
-            "input": [
-                "Rich Hank, Poor Hank",
-                "Hank, Poor Hank",
-                "Poor Hank",
-                "Hank"
-            ]
-        },
-        "type": "episode",
-        "title": "Rich Hank, Poor Hank",
-        "expiration_date": 1508729399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1453.4854,
-        "episode_number": "8",
-        "original_air_date": 1235107800,
-        "clip_order": null,
-        "auth_launch_date": 1671253200,
-        "modified": 1670906098,
-        "media_id": "e00a04d5dcc74e0e031262cf330e9fd4ba2350ab",
-        "airing_id": "RADS1012122200051358",
-        "id": "kmiC44lgQH2og9XHoIDWiw",
-        "slug": "rich-hank-poor-hank",
-        "views": 331228,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203539686515.jpg",
-        "created": 1402945468,
-        "title_id": "731498",
-        "season_number": "8",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1670906098,
-        "tags": [
-            "king of the hill koth episode 721 rich hank poor hank bobby steal credit card money"
-        ],
-        "rating_count": 502,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1508124600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203539686515.jpg",
-        "cma_id": "1495724"
     },
     {
         "auth": true,
