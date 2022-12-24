@@ -1,7 +1,6 @@
 {
-    "updated": 1671836778,
-    "added": [],
-    "removed": [
+    "updated": 1671841943,
+    "added": [
         {
             "auth_expiration_date": 1671965940,
             "tms_id": "EP034917240403",
@@ -26,14 +25,14 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1310.7428,
+            "duration": 1309.7084,
             "episode_number": "62",
             "original_air_date": "1662877800",
             "auth_launch_date": 1662890400,
             "clip_order": null,
             "airing_id": "RADS1009082200026198",
             "media_id": "8efc329325eaf78d55a950e173ad49d7dd00f5ac",
-            "modified": 1662648547,
+            "modified": 1671841775,
             "slug": "the-hidden-plot-set-into-motion",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/1_22961538474-NarutoShippuden_410_TheHiddenPlotSetIntoMotion.png",
@@ -41,7 +40,7 @@
             "season_number": "7",
             "title_id": "2177840",
             "tv_rating": "tv-pg",
-            "published": 1662648547,
+            "published": 1671841775,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
@@ -54,5 +53,6 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
