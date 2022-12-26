@@ -1,9 +1,8 @@
 {
-    "updated": 1672025426,
-    "added": [],
-    "removed": [
+    "updated": 1672027230,
+    "added": [
         {
-            "auth_expiration_date": 1665975540,
+            "auth_expiration_date": 1673499540,
             "tms_id": "",
             "description": "Broh I'm scared.",
             "title_suggest": {
@@ -13,7 +12,7 @@
                 ]
             },
             "title": "Night Family",
-            "expiration_date": 1672027140,
+            "expiration_date": 1672023540,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,14 +21,14 @@
                 "fire-tv"
             ],
             "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 1240.5393,
+            "duration": 1330.7628,
             "episode_number": "4",
             "original_air_date": "1664161200",
-            "auth_launch_date": 1664161200,
+            "auth_launch_date": 1672027200,
             "clip_order": null,
-            "airing_id": "RADS1010112200036449",
-            "media_id": "42c597f2c6c251aad5c8e63ba41e73fb3bfeb5e5",
-            "modified": 1665506914,
+            "airing_id": "RADS1012262200056341",
+            "media_id": "4e31c4b8eaf7d1a1f7db7dfd514c6832cba82e5f",
+            "modified": 1672026417,
             "slug": "night-family",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/1_229221029449-RickAndMorty_605_NightFamily.png",
@@ -37,7 +36,7 @@
             "season_number": "6",
             "title_id": "2397937",
             "tv_rating": "tv-14-dlsv",
-            "published": 1665506914,
+            "published": 1672026417,
             "tags": [],
             "collection_title": "Rick and Morty",
             "disable_ads": false,
@@ -45,10 +44,11 @@
             "launch_date": 1665975600,
             "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221029449-RickAndMorty_605_NightFamily.png",
             "id": "AYNlmuks3sQvipyea-XN",
-            "auth": false,
+            "auth": true,
             "collection_slug": "rick-and-morty",
             "collection_title_id": "2013506",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
