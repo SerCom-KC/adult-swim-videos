@@ -1,18 +1,20 @@
 {
-    "updated": 1672056077,
-    "added": [
+    "updated": 1672057831,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1681099140,
-            "tms_id": "EP034917240264",
-            "description": "Team 7 is finally reunited when Naruto, Sakura and Sasuke join forces. Then the reanimated former Hokage arrive to add their strength to the counteroffensive.",
+            "auth_expiration_date": 1672057740,
+            "tms_id": "EP034917240265",
+            "description": "Sakura focuses on her healing skills while Naruto and Sasuke aim for Ten Tails. Meanwhile, the five Kage battling Madara have sustained critical injuries.",
             "title_suggest": {
                 "input": [
-                    "Team 7, Assemble!",
-                    "7, Assemble!",
-                    "Assemble!"
+                    "The New Three-Way Deadlock",
+                    "New Three-Way Deadlock",
+                    "Three-Way Deadlock",
+                    "Deadlock"
                 ]
             },
-            "title": "Team 7, Assemble!",
+            "title": "The New Three-Way Deadlock",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -22,34 +24,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1309.7751,
-            "episode_number": "25",
-            "original_air_date": 1643527800,
-            "auth_launch_date": 1672056000,
+            "duration": 1311.6437,
+            "episode_number": "26",
+            "original_air_date": 1643529600,
+            "auth_launch_date": 1661686200,
             "clip_order": null,
-            "airing_id": "RADS1012242200056153",
-            "media_id": "b0119500e159c8de6a6e391dd3b762691a8d6d12",
-            "modified": 1671866360,
-            "slug": "team-7-assemble",
+            "airing_id": "RADS1008252200022891",
+            "media_id": "b6275b63a68d3a90540059ec4f4dfb031da3a4ce",
+            "modified": 1671866362,
+            "slug": "the-new-three-way-deadlock",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_221271552397-NarutoShippuden_373_Team7Assemble.png",
-            "created": 1643316170,
-            "title_id": "2177803",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_221271553532-NarutoShippuden_374_TheNewThreeWayDeadlock.png",
+            "created": 1643316167,
+            "title_id": "2177804",
             "season_number": "7",
             "tv_rating": "tv-pg",
-            "published": 1671866360,
+            "published": 1671866362,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271552397-NarutoShippuden_373_Team7Assemble.png",
-            "id": "AX6dRs1I_0O4w1rD3Rg0",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271553532-NarutoShippuden_374_TheNewThreeWayDeadlock.png",
+            "id": "AX6dRsP7_0O4w1rD3Rgz",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
