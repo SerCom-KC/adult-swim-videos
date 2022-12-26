@@ -7406,6 +7406,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1673499540,
+        "tms_id": "",
+        "description": "Broh I'm scared.",
+        "title_suggest": {
+            "input": [
+                "Night Family",
+                "Family"
+            ]
+        },
+        "title": "Night Family",
+        "expiration_date": 1672023540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1330.7628,
+        "episode_number": "4",
+        "original_air_date": "1664161200",
+        "auth_launch_date": 1672027200,
+        "clip_order": null,
+        "airing_id": "RADS1012262200056341",
+        "media_id": "4e31c4b8eaf7d1a1f7db7dfd514c6832cba82e5f",
+        "modified": 1672026417,
+        "slug": "night-family",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/1_229221029449-RickAndMorty_605_NightFamily.png",
+        "created": 1663856994,
+        "season_number": "6",
+        "title_id": "2397937",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1672026417,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1665975600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221029449-RickAndMorty_605_NightFamily.png",
+        "id": "AYNlmuks3sQvipyea-XN",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1666580340,
         "tms_id": "",
         "description": "Fortune cookies, broh.",
@@ -8099,7 +8144,7 @@
         "launch_date": 1672027200,
         "poster": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211627330-RickAndMorty_609_ARickInKingMortursMort.png",
         "id": "AYTPlpsauLQD-MTtYfAa",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1672631940,
