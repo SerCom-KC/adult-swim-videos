@@ -47,53 +47,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1672030740,
-        "tms_id": "EP031416130001",
-        "description": "Grace Field House is where children without parents are taken in. An irreplaceable home for the 38 children who live happily every day. Until suddenly, their lives are completely changed forever.",
-        "title_suggest": {
-            "input": [
-                "121045"
-            ]
-        },
-        "title": "121045",
-        "expiration_date": 1668401940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1292.33,
-        "episode_number": "1",
-        "original_air_date": 1555214400,
-        "auth_launch_date": 1668402000,
-        "clip_order": null,
-        "media_id": "14d288e2be3892fd94d7043cdbb532cf2d30c238",
-        "modified": 1668195749,
-        "airing_id": "RADS1011112200044297",
-        "slug": "121045",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155500147480318.jpg",
-        "created": 1555001509,
-        "season_number": "1",
-        "title_id": "2194659",
-        "tv_rating": "tv-14-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1668195749,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1667188800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155500147480318.jpg",
-        "id": "AWoNUAd-Hl5gR6828zPC",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1673240340,
         "tms_id": "EP031416130003",
         "description": "While preparations are underway, Emma, Norman, and Ray are now \"training\" the other kids so they can get stronger and be ready when the time comes. But despite Mom's orders, the new Sister Krone has her own plan.",
@@ -323,7 +276,7 @@
         "launch_date": 1670821200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155905516715616.jpg",
         "id": "AWrqYKjSCorLtcgflqrC",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -370,6 +323,53 @@
         "launch_date": 1671426000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15592507484158.jpg",
         "id": "AWsFCQrdCorLtcgflqy3",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1649044740,
+        "tms_id": "EP031416130009",
+        "description": "As Emma steps down from moving the escape plan forward, a new shipment date is announced earlier than expected, and someone will get shipped before Ray.",
+        "title_suggest": {
+            "input": [
+                "031145"
+            ]
+        },
+        "title": "031145",
+        "type": "episode",
+        "expiration_date": 1673240340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1286.1,
+        "episode_number": "9",
+        "original_air_date": 1560052800,
+        "auth_launch_date": 1645419600,
+        "clip_order": null,
+        "airing_id": "RADS1012242200056132",
+        "media_id": "6df7835e93495246866deb4fa970499ced6c8cdb",
+        "modified": 1671861473,
+        "slug": "031145",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155994749827615.jpg",
+        "created": 1559683325,
+        "title_id": "2194667",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1671861473,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1672030800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155994749827615.jpg",
+        "id": "AWskXt9wCorLtcgflq8y",
         "auth": false
     },
     {
