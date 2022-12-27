@@ -4160,6 +4160,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1679975940,
+        "tms_id": "EP007259620237",
+        "description": "Robot Chicken lets Yoshi get his revenge on Mario once and for all; A period so bad it requires a famous exorcist to fix; Snoopy trains a new crew of WWI flying aces.",
+        "title_suggest": {
+            "input": [
+                "May Cause Involuntary Political Discharge",
+                "Cause Involuntary Political Discharge",
+                "Involuntary Political Discharge",
+                "Political Discharge",
+                "Discharge"
+            ]
+        },
+        "title": "May Cause Involuntary Political Discharge",
+        "expiration_date": 1656993540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 667.4334,
+        "episode_number": "17",
+        "original_air_date": "1647230400",
+        "auth_launch_date": 1672117200,
+        "clip_order": null,
+        "airing_id": "RADS1012242200056240",
+        "media_id": "68c4ccca60315948c5d821506ba03fb4abe663d6",
+        "modified": 1671905551,
+        "slug": "may-cause-involuntary-political-discharge",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
+        "created": 1646842239,
+        "season_number": "11",
+        "title_id": "2270603",
+        "tv_rating": "tv-ma-v",
+        "published": 1671905551,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1653969600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
+        "id": "AX9vcljj_0O4w1rD3RzB",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1676005140,
         "tms_id": "EP007259620213",
         "description": "The Lady of the Lake gives Percival some trouble. The Robot Chicken crew shows what Dumbledore sees in the Mirror of Desire. Professor X reveals how the X-Men first discovered their powers. And Garfield gets buried in the pet cemetery.",
@@ -4612,7 +4660,7 @@
         "launch_date": 1669093200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210316/thumbnails/2_21316130427-RobotChicken_1023_dup-20210310.jpg",
         "id": "AXg7-6bVDmGy9WFjRqoJ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1679543940,
@@ -5209,61 +5257,6 @@
         "launch_date": 1569384000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042135830-robotchicken_058.jpg",
         "cma_id": "1253220"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1672117140,
-        "tms_id": "EP007259620131",
-        "rating": 6.330827,
-        "description": "The Robot Chicken crew takes a peek at what it's like working in the Hall of Doom, the grief Batman goes through whenever he has to ride in one of Green Lantern's power ring bubbles, the origin of Starro, and what happens when the DC villains end up on the same beach as the DC heroes at spring break!",
-        "title_suggest": {
-            "input": [
-                "DC Comics Special II: Villains in Paradise",
-                "Comics Special II: Villains in Paradise",
-                "Special II: Villains in Paradise",
-                "II: Villains in Paradise",
-                "Villains in Paradise",
-                "in Paradise",
-                "Paradise"
-            ]
-        },
-        "type": "episode",
-        "title": "DC Comics Special II: Villains in Paradise",
-        "expiration_date": 1669093140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 1339.5672339,
-        "episode_number": "0",
-        "original_air_date": 1396841400,
-        "clip_order": null,
-        "auth_launch_date": 1669093200,
-        "modified": 1668997194,
-        "media_id": "b5b330197acae8fe377b2227f78c11a992c8c870",
-        "airing_id": "RADS1010172200036829",
-        "id": "AvjWZkFBQ26_xZAbguISNw",
-        "slug": "dc-comics-special-ii-villains-in-paradise",
-        "views": 36085,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461159332-robotchicken_rcdcII_dup-20140320.jpg",
-        "created": 1402945474,
-        "title_id": "2018890",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1668997194,
-        "tags": [],
-        "rating_count": 266,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1666065600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461159332-robotchicken_rcdcII_dup-20140320.jpg",
-        "cma_id": "1309572"
     },
     {
         "auth": true,
