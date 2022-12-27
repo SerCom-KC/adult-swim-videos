@@ -1,6 +1,165 @@
 {
-    "updated": 1672113627,
+    "updated": 1672117226,
     "added": [
+        {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1672721940,
+            "tms_id": "EP012792980060",
+            "description": "Bob and Linda visit the school and learn that their kids' essays about their fantasy version of Wagstaff are \"too creative\" and \"offensive.\" Eugene transforms the school into a \"Fart School for the Gifted\"; Tina, to her delight, depicts a world where she is romanced by countless zombie teenage boys; and Louise creates a school where she takes down a robotic Mr. Frond from the future.",
+            "title_suggest": {
+                "input": [
+                    "The Frond Files",
+                    "Frond Files",
+                    "Files"
+                ]
+            },
+            "title": "The Frond Files",
+            "type": "episode",
+            "expiration_date": 1668401940,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+            "duration": 1299.7651,
+            "episode_number": "12",
+            "original_air_date": 1415586600,
+            "clip_order": null,
+            "auth_launch_date": 1672117200,
+            "modified": 1671901356,
+            "media_id": "32be91dd74c61d2a2e6aa9b2b2012b41d0ed6e02",
+            "airing_id": "RADS1012242200056213",
+            "id": "MygFPLHKSNOeHoZjHF2PiQ",
+            "slug": "the-frond-files",
+            "views": 9820,
+            "exclude_from_search": false,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267561861218.jpg",
+            "created": 1411571192,
+            "season_number": "4",
+            "title_id": "2030315",
+            "tv_rating": "tv-14-dlsv",
+            "active": false,
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1671901356,
+            "first_published": 1411571192,
+            "tags": [],
+            "collection_title": "Bob's Burgers",
+            "modified_by": "ODT Listener",
+            "launch_date": 1667797200,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267561861218.jpg",
+            "cma_id": "1463997",
+            "collection_slug": "bobs-burgers",
+            "collection_title_id": "2003422",
+            "online_exclusives": false
+        },
+        {
+            "auth_expiration_date": 1678165140,
+            "tms_id": "EP042756160007",
+            "description": "More familiar faces appear as Lupin pursues the automaton clock, and soon his quest to go home turns into a far more complicated conspiracy.",
+            "title_suggest": {
+                "input": [
+                    "The Imperial City Dreams of Thieves, Part 2",
+                    "Imperial City Dreams of Thieves, Part 2",
+                    "City Dreams of Thieves, Part 2",
+                    "Dreams of Thieves, Part 2",
+                    "of Thieves, Part 2",
+                    "Thieves, Part 2",
+                    "Part 2",
+                    "2"
+                ]
+            },
+            "title": "The Imperial City Dreams of Thieves, Part 2",
+            "type": "episode",
+            "expiration_date": 1656836940,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+            "duration": 1288.3204,
+            "episode_number": "6",
+            "original_air_date": 1653800400,
+            "auth_launch_date": 1672117200,
+            "clip_order": null,
+            "airing_id": "RADS1012242200056246",
+            "media_id": "99c523d9b289c44dcb8c0c3699089b480bcac127",
+            "modified": 1671905860,
+            "slug": "the-imperial-city-dreams-of-thieves-part-2",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/1_225251147450-LupinThe3rd_Part6_006_TheImperialCityOfThieves.png",
+            "created": 1653321643,
+            "title_id": "2387387",
+            "season_number": "1",
+            "tv_rating": "tv-14-v",
+            "published": 1671905860,
+            "tags": [],
+            "collection_title": "Lupin the 3rd Part 6",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1655627400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251147450-LupinThe3rd_Part6_006_TheImperialCityOfThieves.png",
+            "id": "AYDxpjfA_0O4w1rD3SQ4",
+            "auth": true,
+            "collection_slug": "lupin-the-3rd-part-6",
+            "collection_title_id": "2387380",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1672117140,
+            "tms_id": "EP012792980050",
+            "description": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie.",
+            "title_suggest": {
+                "input": [
+                    "Fort Night",
+                    "Night"
+                ]
+            },
+            "title": "Fort Night",
+            "type": "episode",
+            "expiration_date": 1665979140,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+            "duration": 1293.2253,
+            "episode_number": "2",
+            "original_air_date": 1414373400,
+            "auth_launch_date": 1671512400,
+            "clip_order": null,
+            "modified": 1671250803,
+            "media_id": "dbcf8d8506e797ca8b6c07e9952277eb13915020",
+            "airing_id": "RADS1012172200051747",
+            "id": "pgZGJHhBSiiiY1E3pl_GCw",
+            "slug": "fort-night",
+            "views": 8256,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187081051505.jpg",
+            "created": 1414380043,
+            "title_id": "2030305",
+            "tv_rating": "tv-14",
+            "season_number": "4",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1671250803,
+            "first_published": 1414380043,
+            "tags": [],
+            "collection_title": "Bob's Burgers",
+            "modified_by": "ODT Listener",
+            "launch_date": 1665374400,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187081051505.jpg",
+            "cma_id": "2030305",
+            "collection_slug": "bobs-burgers",
+            "collection_title_id": "2003422",
+            "online_exclusives": false
+        },
         {
             "auth": true,
             "ott_launch_date": 1443127080,
@@ -57,6 +216,5 @@
             "collection_title_id": "2022095",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
