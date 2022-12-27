@@ -238,6 +238,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1672721940,
+        "tms_id": "EP007164450394",
+        "description": "Stan tries a new, cutting edge parenting approach DNA splicing.",
+        "title_suggest": {
+            "input": [
+                "Dancin' A-with My Cells",
+                "A-with My Cells",
+                "My Cells",
+                "Cells"
+            ]
+        },
+        "title": "Dancin' A-with My Cells",
+        "type": "episode",
+        "expiration_date": 1670821140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1261.9941,
+        "episode_number": "8",
+        "original_air_date": 1623634200,
+        "auth_launch_date": 1672117200,
+        "clip_order": null,
+        "airing_id": "RADS1012242200056215",
+        "media_id": "aec3f059e16408e305507b5eea5251fbe891655a",
+        "modified": 1671901646,
+        "slug": "dancin-a-with-my-cells",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/1_22114171780-AmericanDad_1508_DancinAWithMyCells.png",
+        "created": 1642115270,
+        "title_id": "2238755",
+        "season_number": "16",
+        "tv_rating": "tv-14-dls",
+        "published": 1671901646,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670216400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171780-AmericanDad_1508_DancinAWithMyCells.png",
+        "id": "AX5VsoYc_0O4w1rD3RXf",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1672635540,
         "tms_id": "EP007164450387",
         "description": "After a series of boring personas, Roger goes to great lengths to prove to Francine he still has \"his edge\".",
@@ -792,52 +839,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121431217-americandad_1401_air_cid-8X9NH-TenYearsASolidFool.jpg",
         "id": "AXb4FOmcbxpjZvbXYl98",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1672117140,
-        "tms_id": "EP007164450375",
-        "description": "Francine explores ASMR with Roger. Steve gets a a pole in his head and a secret admirer.",
-        "title_suggest": {
-            "input": [
-                "The Chilly Thrillies",
-                "Chilly Thrillies",
-                "Thrillies"
-            ]
-        },
-        "title": "The Chilly Thrillies",
-        "expiration_date": 1670216340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.1953,
-        "episode_number": "18",
-        "original_air_date": "1598839200",
-        "auth_launch_date": 1671512400,
-        "clip_order": null,
-        "airing_id": "RADS1012172200051749",
-        "media_id": "536a9651200d2491dcb214071b1d8f31f8a8d75d",
-        "modified": 1671250800,
-        "slug": "the-chilly-thrillies",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/1_21113948261-americandad_1419_air_cid-C5T45-ChillyThrillies.jpg",
-        "created": 1610549308,
-        "season_number": "15",
-        "title_id": "2197423",
-        "tv_rating": "",
-        "published": 1671250800,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1669611600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113948261-americandad_1419_air_cid-C5T45-ChillyThrillies.jpg",
-        "id": "AXb8OCxabxpjZvbXYl-G",
-        "auth": true
     },
     {
         "auth_expiration_date": 1672203540,
