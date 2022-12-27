@@ -1218,6 +1218,50 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1673944140,
+        "tms_id": "EP014135410051",
+        "description": "Bring snacks.",
+        "title_suggest": {
+            "input": [
+                "Journeys"
+            ]
+        },
+        "title": "Journeys",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 674.4071,
+        "episode_number": "4",
+        "original_air_date": 1672129800,
+        "auth_launch_date": 1672129800,
+        "clip_order": null,
+        "airing_id": "RADS1012242200056267",
+        "media_id": "abb3d204636f1a4941c0e7f0cc531a7bb64feeb2",
+        "modified": 1672079090,
+        "slug": "journeys",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221226/thumbnails/1_2212261324146-offtheair1204Still001tiny.png",
+        "created": 1671900453,
+        "title_id": "2396317",
+        "season_number": "12",
+        "tv_rating": "tv-14-dlv",
+        "published": 1672079090,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221226/thumbnails/2_2212261324146-offtheair1204Still001tiny.png",
+        "id": "AYVFCFlluLQD-MTtYfRc",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": 1449259800,
         "auth_expiration_date": 1689130740,
