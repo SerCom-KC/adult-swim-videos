@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 28, 2022 at 03:00:28 EST_
+_Last Update: December 28, 2022 at 03:30:25 EST_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 2161118 Joe Pera Talks With You: 1  
 439722 The Venture Bros.: 1  
@@ -23,5 +25,3 @@ https://www.adultswim.com/videos/the-venture-bros/the-rorqual-affair
 seriesid=`439722` titleid=`2165018` id=`AWPLRTGOTdxzjxdCmQUn` mediaid=`ee155ef087686a0cf6191e295744fc4ee04bcf8a`  
 _Deadly waters surround the Monarch when he becomes Wide Wale's prisoner in Part 2 of the Morphic Trilogy._  
 <a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153393141455314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153393141455314.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
