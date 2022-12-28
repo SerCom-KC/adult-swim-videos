@@ -1,59 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1672203540,
-        "tms_id": "EP002989350006",
-        "rating": 8.458657,
-        "description": "Brendon signs up for an acting class, and Paula teaches at an adult education center. Brendon tries to take control of his class while Paula almost loses control of hers.",
-        "title_suggest": {
-            "input": [
-                "Method of Acting",
-                "of Acting",
-                "Acting"
-            ]
-        },
-        "type": "episode",
-        "title": "Method of Acting",
-        "expiration_date": 1669179540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1264.333667,
-        "episode_number": "8",
-        "original_air_date": 1000692000,
-        "clip_order": null,
-        "auth_launch_date": 1669179600,
-        "modified": 1669013730,
-        "media_id": "10f9757698a2c2c473f587c3cf7a6a85d722a0ac",
-        "airing_id": "RADS1011212200045259",
-        "id": "6fTFMiuKSjOdfC41eZLH5Q",
-        "slug": "method-of-acting",
-        "views": 338800,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_203516427-hmovies_008.jpg",
-        "created": 1402945467,
-        "title_id": "344124",
-        "season_number": "1",
-        "tv_rating": "tv-pg-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1669013730,
-        "tags": [
-            "home movies episode 8 method of acting class"
-        ],
-        "rating_count": 508,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1666152000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_203516427-hmovies_008.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1646197140,
@@ -376,7 +322,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1675227540,
         "tms_id": "EP002989350013",
@@ -480,6 +426,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1670389200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035166247-hmovies_015.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1646801940,
+        "tms_id": "EP002989350018",
+        "rating": 8.492425,
+        "description": "The kids are invited to Fenton Mewly's birthday party. Brendon has been asked to make a special film for the occasion, but has a hard time praising Fenton since he can't stand him.",
+        "title_suggest": {
+            "input": [
+                "The Party",
+                "Party"
+            ]
+        },
+        "type": "episode",
+        "title": "The Party",
+        "expiration_date": 1675227540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1342.3670337,
+        "episode_number": "5",
+        "original_air_date": 1012791600,
+        "clip_order": null,
+        "auth_launch_date": 1643778000,
+        "modified": 1671923865,
+        "media_id": "53c03eca5a3aba2276d8f145610a247b052333fa",
+        "airing_id": "RADS1012242200056318",
+        "id": "yzv1b--4QSedjSRJteoCfQ",
+        "slug": "the-party",
+        "views": 345336,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351616269-hmovies_018.jpg",
+        "created": 1402945467,
+        "title_id": "344134",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1671923865,
+        "tags": [
+            "home movies episode 18 the party fenton mewley video film jolly jeepers"
+        ],
+        "rating_count": 660,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1672203600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351616269-hmovies_018.jpg",
         "cma_id": ""
     },
     {
