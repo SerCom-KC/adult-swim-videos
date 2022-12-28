@@ -1,6 +1,60 @@
 {
-    "updated": 1672214063,
-    "added": [
+    "updated": 1672215863,
+    "added": [],
+    "removed": [
+        {
+            "auth_expiration_date": 1672289940,
+            "tms_id": "EP029506900030",
+            "description": "Joe Pera and you stay up late on a weeknight, listening to his girlfriend Sarah share details from Wine Night.",
+            "title_suggest": {
+                "input": [
+                    "Joe Pera Listens to Your Drunk Story",
+                    "Pera Listens to Your Drunk Story",
+                    "Listens to Your Drunk Story",
+                    "to Your Drunk Story",
+                    "Your Drunk Story",
+                    "Drunk Story",
+                    "Story"
+                ]
+            },
+            "title": "Joe Pera Listens to Your Drunk Story",
+            "type": "episode",
+            "expiration_date": 1657771140,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AWK7V5RwTdxzjxdClXz8",
+            "duration": 668.668,
+            "episode_number": "4",
+            "original_air_date": 1636955100,
+            "auth_launch_date": 1666238400,
+            "clip_order": null,
+            "airing_id": "RADS1010192200037436",
+            "media_id": "655cd2064e43c67e137abfff7bd16d88d9dff2a5",
+            "modified": 1672212799,
+            "slug": "joe-pera-listens-to-your-drunk-story",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png",
+            "created": 1636671022,
+            "title_id": "2298520",
+            "season_number": "3",
+            "tv_rating": "tv-14-dl",
+            "published": 1672212799,
+            "tags": [],
+            "collection_title": "Joe Pera Talks With You",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1654747200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121021245-JoePeraTalksWithYou_304_JoePeraListensToYourDrunkStory.png",
+            "id": "AX0RMeXeUQa40cfnRSoN",
+            "auth": true,
+            "collection_slug": "joe-pera-talks-with-you",
+            "collection_title_id": "2161118",
+            "online_exclusives": false
+        },
         {
             "ott_launch_date": 1534170540,
             "auth": true,
@@ -53,6 +107,5 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
