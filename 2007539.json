@@ -50,57 +50,6 @@
         "cma_id": "2085309"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1462197600,
-        "auth_expiration_date": 1672203540,
-        "tms_id": "EP018514630014",
-        "description": "When a prison bus of serial killers breaks loose in Old Town, Sheriff recruits Mr. Pickles as a K-9 cop-dog to help track them down.",
-        "title_suggest": {
-            "input": [
-                "Serial Killers",
-                "Killers"
-            ]
-        },
-        "expiration_date": 1669179540,
-        "title": "Serial Killers",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 677.021,
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "episode_number": "3",
-        "original_air_date": 1462161600,
-        "clip_order": null,
-        "auth_launch_date": 1669179600,
-        "modified": 1669024941,
-        "media_id": "28fda05edcd3173a92b4884a0e22e5f3fd21e53f",
-        "airing_id": "RADS1011212200045295",
-        "id": "9t4grPnxSmar5AHlTcRLoA",
-        "slug": "serial-killers",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121121131-mrpickles_206_dup-20160311.jpg",
-        "created": 1454968971,
-        "season_number": "2",
-        "title_id": "2085308",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1669024941,
-        "first_published": 1461852620,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1666152000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121121131-mrpickles_206_dup-20160311.jpg",
-        "cma_id": "2085308"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "",
@@ -346,6 +295,52 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1520263860,
+        "auth_expiration_date": 1657684740,
+        "tms_id": "EP018514630026",
+        "description": "Tommy tries to protect a strange new friend from a military group that is out to capture him.",
+        "title_suggest": {
+            "input": [
+                "S.H.O.E.S"
+            ]
+        },
+        "title": "S.H.O.E.S",
+        "type": "episode",
+        "expiration_date": 1675227540,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.42,
+        "episode_number": "3",
+        "original_air_date": 1520226000,
+        "clip_order": null,
+        "auth_launch_date": 1654660800,
+        "modified": 1671920546,
+        "media_id": "1ebd3d2ed17ce08a992eec6e2db6255f4543e931",
+        "airing_id": "RADS1012242200056296",
+        "id": "PgIM7J04SwmGLH09e7hjUQ",
+        "slug": "s-h-o-e-s",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151967391467517.jpg",
+        "created": 1500665697,
+        "season_number": "3",
+        "title_id": "2120611",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1671920546,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1672203600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151967391467517.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1467037800,
         "auth_expiration_date": 1655870340,
         "tms_id": "EP018514630021",
@@ -444,7 +439,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1465221600,
         "auth_expiration_date": 1675227540,
         "tms_id": "EP018514630019",
