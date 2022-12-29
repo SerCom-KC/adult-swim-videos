@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 29, 2022 at 11:00:32 EST_
+_Last Update: December 29, 2022 at 11:30:31 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2143080 Black Clover: 1  
-581268 Squidbillies: 1  
-### 2205128
-**Black Clover S02E51 - Two Miracles**  
-TV-14-V 🔒 21:59  
-⌛ December 30, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/two-miracles  
-seriesid=`2143080` titleid=`2205128` id=`AW_nvEhU3HMJfT8do7qS` mediaid=`d273ef9a39947b412096a673175f5d4fe66587d3`  
-_As Asta and Yuno battle a Poison Plant mage, Sister Lily recalls the letters they would send home. The priest is in a bad way; can Asta's sword help?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271543540-BlackClover_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200127/thumbnails/2_201271543540-BlackClover_102.jpg" height="144px" /></a>
-### 2006881
-**Squidbillies S08E01 - Granite Caverns**  
-TV-MA 🔒 11:07  
-⌛ December 30, 2022 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/granite-caverns  
-seriesid=`581268` titleid=`2006881` id=`bg7xJat4SbWJbYuO2oDVfw` mediaid=`498f04fe066d2f30662e389266bdf714cbf5c985`  
-_Early becomes king of a local cave._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141057287-squidbillies_701_dup-20130808.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141057287-squidbillies_701_dup-20130808.jpg" height="144px" /></a>
+439722 The Venture Bros.: 1  
+### 639415
+**The Venture Bros. S02E06 - Victor Echo November**  
+TV-MA 🔒 22:28  
+⌛ December 29, 2022 at 23:59:59 EST  
+https://www.adultswim.com/videos/the-venture-bros/victor-echo-november  
+seriesid=`439722` titleid=`639415` id=`usZivM_0QqO15d-ZBQeF1A` mediaid=`962def441e7ea525a6d071eed91123e6c4d14d80`  
+_The Phantom Limb and Dr. Girlfriend agree to a civil double date with The Monarch and some girl he met on the internet in order to discuss The Monarch's official re-entry into the Guild of Calamitous Intent. Doc and Brock become the unwitting pawns in a low-grade pissing contest when Phantom Limb's sics the Guild's commandos on the Venture compound to prove his dominance.  Can Brock hold off an army? Can Doc escape death and finish watching the worst porno ever?_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161331233-venture_115.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161331233-venture_115.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
