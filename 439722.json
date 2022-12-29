@@ -1272,7 +1272,7 @@
         "original_air_date": 1156127400,
         "clip_order": null,
         "auth_launch_date": 1665460800,
-        "modified": 1672343803,
+        "modified": 1672346202,
         "media_id": "14918bcdf11911cb50780f0b0cc9696aadfef33c",
         "airing_id": "RADS1010072200035708",
         "id": "Bt9tNlK1T_KYJVEhjJjm5A",
@@ -1286,7 +1286,7 @@
         "tv_rating": "tv-ma",
         "active": true,
         "ott_expiration_date": null,
-        "published": 1672343803,
+        "published": 1672346202,
         "tags": [
             "venture bros episode 14 love bites bheits underbheit underland star wars"
         ],
@@ -1840,7 +1840,7 @@
         "original_air_date": 1159756200,
         "clip_order": null,
         "auth_launch_date": 1665460800,
-        "modified": 1672343810,
+        "modified": 1672346206,
         "media_id": "669d5b2e2107451f7ed8e477b2ab314c84ffdfcd",
         "airing_id": "RADS1010072200035709",
         "id": "MGVU5hLqTfCHEBr8V2hjRg",
@@ -1854,7 +1854,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1672343810,
+        "published": 1672346206,
         "tags": [
             "venture bros venture brothers episode  24 viva los muertos scooby doo clones"
         ],
@@ -1865,6 +1865,62 @@
         "launch_date": 1425484800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333443-venture_124.jpg",
         "cma_id": "990837"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447781160,
+        "auth_expiration_date": 1672376399,
+        "tms_id": "EP005604540024",
+        "rating": 9.334251,
+        "description": "The Monarch continues to rebuild his villainous empire with the aid of his shadowy new Number 2, Dr. Henry Killinger, but Henchman 21 is suspicious of the deadly foreigner's unctuous charms.",
+        "title_suggest": {
+            "input": [
+                "I Know Why the Caged Bird Kills",
+                "Know Why the Caged Bird Kills",
+                "Why the Caged Bird Kills",
+                "the Caged Bird Kills",
+                "Caged Bird Kills",
+                "Bird Kills",
+                "Kills"
+            ]
+        },
+        "type": "episode",
+        "title": "I Know Why the Caged Bird Kills",
+        "expiration_date": 1426086000,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1353.15,
+        "episode_number": "10",
+        "original_air_date": 1159151400,
+        "clip_order": null,
+        "auth_launch_date": 1665460800,
+        "modified": 1672346206,
+        "media_id": "773c4c6a70b52b307937fb5e2d5b260b46058bf4",
+        "airing_id": "RADS1010072200035721",
+        "id": "NMY9b6DKRdqgZwadEhhShw",
+        "slug": "i-know-why-the-caged-bird-kills",
+        "views": 1419234,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161333256-venture_123.jpg",
+        "created": 1402945481,
+        "title_id": "639423",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1672346206,
+        "tags": [],
+        "rating_count": 4353,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1425484800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333256-venture_123.jpg",
+        "cma_id": "990878"
     },
     {
         "auth": true,
