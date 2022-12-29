@@ -1325,7 +1325,7 @@
         "original_air_date": 1152498600,
         "clip_order": null,
         "auth_launch_date": 1665460800,
-        "modified": 1672343797,
+        "modified": 1672350429,
         "media_id": "19544d490dc3d2b60108980f6a64951f8725f347",
         "airing_id": "RADS1010072200035719",
         "id": "CYetduKkQ96dkZBXh_1XdA",
@@ -1339,7 +1339,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1672343797,
+        "published": 1672350429,
         "tags": [
             "venture bros episode 16 assassinanny 911 molotov cocktease brock"
         ],
@@ -2261,6 +2261,57 @@
         "launch_date": 1665633600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161412476-venture_506_dup_20130710.jpg",
         "cma_id": "2002556"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447781100,
+        "auth_expiration_date": 1672376399,
+        "tms_id": "EP005604540022",
+        "rating": 9.055458,
+        "description": "When the Guild of Calamitous Intent finally approves Dr. Orpheus for his very own arch nemesis he calls upon old friends The Alchemist and Jefferson Twilight to resurrect their former super-team, The Order of the Triad.  While they  audition supervillain candidates at the Venture Compound, a jealous Doc isn't about to let Orpheus steal the show. Let loose the Walking Eye!",
+        "title_suggest": {
+            "input": [
+                "Fallen Arches",
+                "Arches"
+            ]
+        },
+        "type": "episode",
+        "title": "Fallen Arches",
+        "expiration_date": 1425484800,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1356.02,
+        "episode_number": "8",
+        "original_air_date": 1157337000,
+        "clip_order": null,
+        "auth_launch_date": 1665460800,
+        "modified": 1672350431,
+        "media_id": "40a58962ea8d7c59a178aedc85e22fd2365d9edd",
+        "airing_id": "RADS1010072200035725",
+        "id": "aSeQ20xiRROg42sKF7MsqA",
+        "slug": "fallen-arches",
+        "views": 1532757,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161332116-venture_122.jpg",
+        "created": 1402945481,
+        "title_id": "639422",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1672350431,
+        "tags": [],
+        "rating_count": 3084,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1424880000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161332116-venture_122.jpg",
+        "cma_id": "990919"
     },
     {
         "auth": false,
