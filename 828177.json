@@ -451,7 +451,7 @@
         "launch_date": 1669266000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155802479320520.jpg",
         "id": "AWp5gEnSHl5gR6828zZS",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -598,6 +598,55 @@
         "launch_date": 1671685200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg",
         "id": "AWp5hFfgHl5gR6828zZU",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1666843140,
+        "tms_id": "",
+        "description": "After Gary gets shot by one of the unborn, Satan institutes an unsensible gun policy to ensure something like that will happen again.",
+        "title_suggest": {
+            "input": [
+                "Conceal and Gary",
+                "and Gary",
+                "Gary"
+            ]
+        },
+        "title": "Conceal and Gary",
+        "expiration_date": 1675313940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 667.46,
+        "episode_number": "11",
+        "original_air_date": 1560571200,
+        "auth_launch_date": 1663819200,
+        "clip_order": null,
+        "media_id": "d8806c857a4ef8d8ee746aff3502c32001b2d17b",
+        "modified": 1672212808,
+        "airing_id": "RADS1012262200056408",
+        "slug": "conceal-and-gary",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036474992413.jpg",
+        "created": 1556816967,
+        "season_number": "4",
+        "title_id": "2191447",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672212808,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1672290000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg",
+        "id": "AWp5hbdAAScUIg8XxfaF",
         "auth": false
     },
     {
@@ -1167,53 +1216,6 @@
         "launch_date": 1484167383,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/fence/ASID_2YXCH_YPF_Fence_15.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447787400,
-        "auth_expiration_date": 1672289940,
-        "tms_id": "EP013726210020",
-        "description": "Gary and Claude bring Krampus out of retirement to help ruin Christmas.",
-        "title_suggest": {
-            "input": [
-                "Krampus Nacht",
-                "Nacht"
-            ]
-        },
-        "expiration_date": 1669265940,
-        "title": "Krampus Nacht",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 682.13,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "11",
-        "original_air_date": 1444018500,
-        "clip_order": null,
-        "auth_launch_date": 1669266000,
-        "modified": 1669054099,
-        "airing_id": "RADS1011212200045407",
-        "media_id": "7aebba52a279bd77b8f628775fa37b7f9b154e22",
-        "id": "IHq3-0q1QOObvZdNmZpxPQ",
-        "slug": "krampus-nacht",
-        "views": 33310,
-        "created": 1436294550,
-        "season_number": "2",
-        "title_id": "2062774",
-        "tv_rating": "tv-14-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1669054099,
-        "first_published": 1443860419,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1666238400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/krampus-nacht/ypf_ep212_003_ba865801g56qf6qw8s_2.jpg",
-        "cma_id": "1377020"
     },
     {
         "auth": false,
