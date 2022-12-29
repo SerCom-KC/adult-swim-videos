@@ -1,7 +1,124 @@
 {
-    "updated": 1672335037,
-    "added": [],
-    "removed": [
+    "updated": 1672340432,
+    "added": [
+        {
+            "auth": true,
+            "ott_launch_date": 1447780980,
+            "auth_expiration_date": 1672376399,
+            "tms_id": "EP005604540019",
+            "rating": 9.055311,
+            "description": "Team Venture find themselves trapped in the clutches of a bloodthirsty Egyptian cult.",
+            "title_suggest": {
+                "input": [
+                    "Escape to the House of Mummies Part 2",
+                    "to the House of Mummies Part 2",
+                    "the House of Mummies Part 2",
+                    "House of Mummies Part 2",
+                    "of Mummies Part 2",
+                    "Mummies Part 2",
+                    "Part 2",
+                    "2"
+                ]
+            },
+            "type": "episode",
+            "title": "Escape to the House of Mummies Part 2",
+            "expiration_date": 1424880000,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+            "duration": 1353.02,
+            "episode_number": "4",
+            "original_air_date": 1153103400,
+            "clip_order": null,
+            "auth_launch_date": 1665460800,
+            "modified": 1672338721,
+            "media_id": "e3b9816ff9291125100e49b9ba3a8147cd195d6b",
+            "airing_id": "RADS1010072200035724",
+            "id": "WPmRk0lkS1OntDUDxlRlJw",
+            "slug": "escape-to-the-house-of-mummies-part-2",
+            "views": 1242816,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161329578-venture_118.jpg",
+            "created": 1402945481,
+            "title_id": "639418",
+            "season_number": "2",
+            "tv_rating": "tv-ma",
+            "active": true,
+            "ott_expiration_date": null,
+            "published": 1672338721,
+            "tags": [
+                "venture bros episode 18 escape to the house of mummies part 2 egyptian cult death"
+            ],
+            "rating_count": 2441,
+            "collection_title": "The Venture Bros.",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1424275200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161329578-venture_118.jpg",
+            "cma_id": "988444",
+            "collection_slug": "the-venture-bros",
+            "collection_title_id": "439722",
+            "online_exclusives": false
+        },
+        {
+            "auth": true,
+            "ott_launch_date": 1447780920,
+            "auth_expiration_date": 1672376399,
+            "tms_id": "EP005604540017",
+            "rating": 8.407961,
+            "description": "Aided by Henchmen 21, 24 and a ragtag band of roughneck new recruits, The Monarch attempts to rebuild his villainous empire and rekindle his relationship with Dr. Girlfriend. A showdown at the local shopping mall forces his hand, and as he struggles to choose between revenge and reconciliation amidst a sea of violence, a wounded Brock falls into the clutches of The Phantom Limb.",
+            "title_suggest": {
+                "input": [
+                    "Hate Floats",
+                    "Floats"
+                ]
+            },
+            "type": "episode",
+            "title": "Hate Floats",
+            "expiration_date": 1424880000,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+            "duration": 1358.72,
+            "episode_number": "2",
+            "original_air_date": 1151893800,
+            "clip_order": null,
+            "auth_launch_date": 1665460800,
+            "modified": 1672338710,
+            "media_id": "39d43c385fa2f84866d8048bcbf946ad708821f5",
+            "airing_id": "RADS1010072200035712",
+            "id": "ui79d5wYSVKE6--dlZRw2g",
+            "slug": "hate-floats",
+            "views": 1380359,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161329169-venture_119.jpg",
+            "created": 1402945481,
+            "title_id": "639419",
+            "season_number": "2",
+            "tv_rating": "tv-ma",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1672338710,
+            "tags": [
+                "venture brothers vb hate floats episode 19"
+            ],
+            "rating_count": 4096,
+            "collection_title": "The Venture Bros.",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1424275200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161329169-venture_119.jpg",
+            "cma_id": "986066",
+            "collection_slug": "the-venture-bros",
+            "collection_title_id": "439722",
+            "online_exclusives": false
+        },
         {
             "auth": true,
             "ott_launch_date": 1447781040,
@@ -30,7 +147,7 @@
             "original_air_date": 1155522600,
             "clip_order": null,
             "auth_launch_date": 1665460800,
-            "modified": 1672331089,
+            "modified": 1672338723,
             "media_id": "962def441e7ea525a6d071eed91123e6c4d14d80",
             "airing_id": "RADS1010072200035710",
             "id": "usZivM_0QqO15d-ZBQeF1A",
@@ -44,7 +161,7 @@
             "tv_rating": "tv-ma",
             "active": true,
             "ott_expiration_date": null,
-            "published": 1672331089,
+            "published": 1672338723,
             "tags": [
                 "venture bros episode 15 victor echo november phantom limb restaurant monarch"
             ],
@@ -59,5 +176,6 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
