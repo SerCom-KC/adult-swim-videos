@@ -91,51 +91,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1672376340,
-        "tms_id": "EP003034830051",
-        "description": "The orphanarium where Leela grew up honors her for her success as a starship captain.",
-        "title_suggest": {
-            "input": [
-                "Leela's Homeworld",
-                "Homeworld"
-            ]
-        },
-        "title": "Leela's Homeworld",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1406.6719,
-        "episode_number": "5",
-        "original_air_date": 1048737600,
-        "auth_launch_date": 1671771600,
-        "clip_order": null,
-        "airing_id": "RADS1012202200053610",
-        "media_id": "d49e0a0b2365e6d9807a85e1a201bb0d29be3a2b",
-        "modified": 1671569677,
-        "slug": "leelas-homeworld",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121517385-Futurama_049_LeelasHomeworld.png",
-        "created": 1649688341,
-        "title_id": "438510",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "published": 1671569677,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121517385-Futurama_049_LeelasHomeworld.png",
-        "id": "AYAZFmxB208s7zyYUMkG",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1672462740,
         "tms_id": "EP003034830052",
         "description": "Amy's disapproving family tries to break up her relationship with Kif.",
@@ -225,6 +180,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271243577-Futurama_053_FutureStock.png",
         "id": "AYBUbRRI208s7zyYUMsJ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1672981140,
+        "tms_id": "EP003034830055",
+        "description": "Leela becomes the first female to play major-league blernsball.",
+        "title_suggest": {
+            "input": [
+                "A Leela of Her Own",
+                "Leela of Her Own",
+                "of Her Own",
+                "Her Own",
+                "Own"
+            ]
+        },
+        "title": "A Leela of Her Own",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1392.1575,
+        "episode_number": "10",
+        "original_air_date": 1047960000,
+        "auth_launch_date": 1672376400,
+        "clip_order": null,
+        "airing_id": "RADS1012262200056427",
+        "media_id": "626bc80799574c903642abd5365969c9412aa8ec",
+        "modified": 1672224530,
+        "slug": "a-leela-of-her-own",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271244591-Futurama_054_ALeelaOfHerOwn.png",
+        "created": 1650924147,
+        "title_id": "438048",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "published": 1672224530,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271244591-Futurama_054_ALeelaOfHerOwn.png",
+        "id": "AYBiv1Lj_0O4w1rD3SGF",
         "auth": true
     }
 ]
