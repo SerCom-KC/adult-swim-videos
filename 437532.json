@@ -91,53 +91,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1672462740,
-        "tms_id": "EP003034830052",
-        "description": "Amy's disapproving family tries to break up her relationship with Kif.",
-        "title_suggest": {
-            "input": [
-                "Where the Buggalo Roam",
-                "the Buggalo Roam",
-                "Buggalo Roam",
-                "Roam"
-            ]
-        },
-        "title": "Where the Buggalo Roam",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1407.4728,
-        "episode_number": "6",
-        "original_air_date": 1047355200,
-        "auth_launch_date": 1671858000,
-        "clip_order": null,
-        "airing_id": "RADS1012212200053747",
-        "media_id": "9abebfbf2691e96a5e216b39047c41225a2468c9",
-        "modified": 1671623974,
-        "slug": "where-the-buggalo-roam",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
-        "created": 1650048005,
-        "title_id": "438045",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
-        "published": 1671623974,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
-        "id": "AYAuhnYE208s7zyYUMnX",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1672635540,
         "tms_id": "EP003034830054",
         "description": "A power shift at Planet Express has Fry hatching a plan to restore the original regime.",
@@ -228,6 +181,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271244591-Futurama_054_ALeelaOfHerOwn.png",
         "id": "AYBiv1Lj_0O4w1rD3SGF",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673067540,
+        "tms_id": "EP003034830056",
+        "description": "Wanting to become a chef, Bender seeks mentoring from Helmut Spragel, formerly the world's greatest culinary artist.",
+        "title_suggest": {
+            "input": [
+                "30% Iron Chef",
+                "Iron Chef",
+                "Chef"
+            ]
+        },
+        "title": "30% Iron Chef",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.3009,
+        "episode_number": "11",
+        "original_air_date": 1048651200,
+        "auth_launch_date": 1672462800,
+        "clip_order": null,
+        "airing_id": "RADS1012282200056506",
+        "media_id": "2d6ded19c95cac82cfc4e27f9bd3775be050f5d4",
+        "modified": 1672414175,
+        "slug": "30-iron-chef",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_2252152955-Futurama_055_30PercentIronChef.png",
+        "created": 1651004081,
+        "title_id": "438054",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "published": 1672414175,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_2252152955-Futurama_055_30PercentIronChef.png",
+        "id": "AYBngwa1208s7zyYUMvp",
         "auth": true
     }
 ]
