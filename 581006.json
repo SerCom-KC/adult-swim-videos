@@ -1,97 +1,5 @@
 [
     {
-        "auth_expiration_date": 1672462740,
-        "tms_id": "EP007164450383",
-        "description": "Stan moves to Chicago to become a comic while Steve and Hayley host Roger for a nice night in.",
-        "title_suggest": {
-            "input": [
-                "Stan Moves to Chicago",
-                "Moves to Chicago",
-                "to Chicago",
-                "Chicago"
-            ]
-        },
-        "title": "Stan Moves to Chicago",
-        "expiration_date": 1670216340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1261.9607,
-        "episode_number": "3",
-        "original_air_date": "1620610200",
-        "auth_launch_date": 1671858000,
-        "clip_order": null,
-        "airing_id": "RADS1012212200053756",
-        "media_id": "d86c7e385fd9c0954904ce760a4c1dfd1ba1050e",
-        "modified": 1671638754,
-        "slug": "stan-moves-to-chicago",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161631554-AmericanDad_1503_StanMovesToChicago.png",
-        "created": 1641504728,
-        "season_number": "16",
-        "title_id": "2238750",
-        "tv_rating": "tv-14-dlv",
-        "published": 1671638754,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1669611600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161631554-AmericanDad_1503_StanMovesToChicago.png",
-        "id": "AX4xTmV0208s7zyYUL9Z",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1672462740,
-        "tms_id": "EP007164450385",
-        "description": "Steve and Jeff try to bond as brothers while the rest of the family visits an escape room.",
-        "title_suggest": {
-            "input": [
-                "Shakedown Steve",
-                "Steve"
-            ]
-        },
-        "title": "Shakedown Steve",
-        "expiration_date": 1670216340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1261.9607,
-        "episode_number": "4",
-        "original_air_date": "1621215000",
-        "auth_launch_date": 1671858000,
-        "clip_order": null,
-        "airing_id": "RADS1012212200053754",
-        "media_id": "31cf2a72fbfc99eceb4ed78edbbc16cf915e26c4",
-        "modified": 1671638757,
-        "slug": "shakedown-steve",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161632446-AmericanDad_1504_ShakedownSteve.png",
-        "created": 1641504775,
-        "season_number": "16",
-        "title_id": "2238751",
-        "tv_rating": "tv-14-dls",
-        "published": 1671638757,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1669611600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161632446-AmericanDad_1504_ShakedownSteve.png",
-        "id": "AX4xTxwZ_0O4w1rD3RQl",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1672549140,
         "tms_id": "EP007164450384",
         "description": "When the family goes to a dude ranch, Klaus and Rogu have to work together to survive in the wilderness.",
@@ -288,6 +196,54 @@
         "launch_date": 1670216400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340120-AmericanDad_1512_HotScoomp.png",
         "id": "AX59Zgif_0O4w1rD3RcN",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673067540,
+        "tms_id": "EP007164450405",
+        "description": "Stan finally decides to do something about his secret baldness and enlists the help of Josay Bosay, Roger's famed hair-stylist-to-the-stars persona.",
+        "title_suggest": {
+            "input": [
+                "Comb Over: A Hair Piece",
+                "Over: A Hair Piece",
+                "A Hair Piece",
+                "Hair Piece",
+                "Piece"
+            ]
+        },
+        "title": "Comb Over: A Hair Piece",
+        "type": "episode",
+        "expiration_date": 1671425940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1261.9941,
+        "episode_number": "15",
+        "original_air_date": 1627867800,
+        "auth_launch_date": 1672462800,
+        "clip_order": null,
+        "airing_id": "RADS1012282200056515",
+        "media_id": "b6e47350ab40f53bbefa6dd7fb7954520dad0c2b",
+        "modified": 1672336232,
+        "slug": "comb-over-a-hair-piece",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241342308-AmericanDad_1517_CombOverAHairPiece.png",
+        "created": 1642781392,
+        "title_id": "2238764",
+        "season_number": "16",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1672336232,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670821200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241342308-AmericanDad_1517_CombOverAHairPiece.png",
+        "id": "AX59Zr9y_0O4w1rD3RcP",
         "auth": true
     },
     {
@@ -560,6 +516,51 @@
         "launch_date": 1670216400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141715144-AmericanDad_1506_TheWondercabinet.png",
         "id": "AX5VssDL_0O4w1rD3RXh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673067540,
+        "tms_id": "EP007164450402",
+        "description": "After Stan sells off the coveted family plot, the family opens their own cemetery in the backyard with the help of basketball Hall-of-Famer Scottie Pippen.",
+        "title_suggest": {
+            "input": [
+                "Plot Heavy",
+                "Heavy"
+            ]
+        },
+        "title": "Plot Heavy",
+        "expiration_date": 1671425940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.0608,
+        "episode_number": "16",
+        "original_air_date": "1628472600",
+        "auth_launch_date": 1672462800,
+        "clip_order": null,
+        "airing_id": "RADS1012282200056517",
+        "media_id": "b76163a3fcdfc1c7598fd56fcb25a35a1582ebee",
+        "modified": 1672338728,
+        "slug": "plot-heavy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_221271555431-AmericanDad_1513_PlotHeavy.png",
+        "created": 1643316953,
+        "season_number": "16",
+        "title_id": "2238760",
+        "tv_rating": "tv-14-dlv",
+        "published": 1672338728,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670821200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271555431-AmericanDad_1513_PlotHeavy.png",
+        "id": "AX6dUsD-208s7zyYUL90",
         "auth": true
     },
     {
