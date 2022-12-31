@@ -1,62 +1,6 @@
 {
-    "updated": 1672463117,
+    "updated": 1672463177,
     "added": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1672462740,
-            "tms_id": "EP002070020168",
-            "rating": 6.4216523,
-            "description": "Peggy takes over as coach of the cheerleading squad and switches the girls from elaborate dance routines to violent spectacle.",
-            "title_suggest": {
-                "input": [
-                    "Cheer Factor",
-                    "Factor"
-                ]
-            },
-            "type": "episode",
-            "title": "Cheer Factor",
-            "expiration_date": null,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-            "duration": 1440.1053,
-            "episode_number": "13",
-            "original_air_date": 1235446200,
-            "clip_order": null,
-            "auth_launch_date": 1671858000,
-            "modified": 1671622485,
-            "media_id": "efcb9ad7b9c4d3f17456ad890ad2a273c346ae8d",
-            "airing_id": "RADS1012212200053745",
-            "id": "jU33TT-oR7isyyGaSKyH7w",
-            "slug": "cheer-factor",
-            "views": 208189,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15238985745388.jpg",
-            "created": 1402945468,
-            "title_id": "731503",
-            "season_number": "8",
-            "tv_rating": "tv-pg-l",
-            "active": false,
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1671622485,
-            "tags": [
-                "King of the Hill Cheer Factor 807 8ABE07 cheerleading squad cheerleaders dance"
-            ],
-            "rating_count": 351,
-            "collection_title": "King of the Hill",
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238985745388.jpg",
-            "cma_id": "731503",
-            "collection_slug": "king-of-the-hill",
-            "collection_title_id": "629835",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -121,6 +65,62 @@
             "launch_date": null,
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152397873912115.jpg",
             "cma_id": "731508",
+            "collection_slug": "king-of-the-hill",
+            "collection_title_id": "629835",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1672462740,
+            "tms_id": "EP002070020168",
+            "rating": 6.4216523,
+            "description": "Peggy takes over as coach of the cheerleading squad and switches the girls from elaborate dance routines to violent spectacle.",
+            "title_suggest": {
+                "input": [
+                    "Cheer Factor",
+                    "Factor"
+                ]
+            },
+            "type": "episode",
+            "title": "Cheer Factor",
+            "expiration_date": null,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+            "duration": 1440.1053,
+            "episode_number": "13",
+            "original_air_date": 1235446200,
+            "clip_order": null,
+            "auth_launch_date": 1671858000,
+            "modified": 1671622485,
+            "media_id": "efcb9ad7b9c4d3f17456ad890ad2a273c346ae8d",
+            "airing_id": "RADS1012212200053745",
+            "id": "jU33TT-oR7isyyGaSKyH7w",
+            "slug": "cheer-factor",
+            "views": 208189,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15238985745388.jpg",
+            "created": 1402945468,
+            "title_id": "731503",
+            "season_number": "8",
+            "tv_rating": "tv-pg-l",
+            "active": false,
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1671622485,
+            "tags": [
+                "King of the Hill Cheer Factor 807 8ABE07 cheerleading squad cheerleaders dance"
+            ],
+            "rating_count": 351,
+            "collection_title": "King of the Hill",
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15238985745388.jpg",
+            "cma_id": "731503",
             "collection_slug": "king-of-the-hill",
             "collection_title_id": "629835",
             "online_exclusives": false
