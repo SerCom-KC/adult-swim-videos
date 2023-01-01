@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1672549140,
-        "tms_id": "EP003034830053",
-        "description": "Pharaoh Hamenthotep enslaves the crew and forces everybody to assist in constructing a pyramid.",
-        "title_suggest": {
-            "input": [
-                "A Pharaoh to Remember",
-                "Pharaoh to Remember",
-                "to Remember",
-                "Remember"
-            ]
-        },
-        "title": "A Pharaoh to Remember",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.1674,
-        "episode_number": "7",
-        "original_air_date": 1048046400,
-        "auth_launch_date": 1671944400,
-        "clip_order": null,
-        "airing_id": "RADS1012212200054804",
-        "media_id": "1e5a9a848ea62136dfc2528e7f8396b8d2c1340d",
-        "modified": 1671683822,
-        "slug": "a-pharaoh-to-remember",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_22427124111-Futurama_051_APharoahToRemember.png",
-        "created": 1650317318,
-        "title_id": "438049",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "published": 1671683822,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_22427124111-Futurama_051_APharoahToRemember.png",
-        "id": "AYA-k9pm_0O4w1rD3SCE",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1672635540,
         "tms_id": "EP003034830049",
         "description": "A space vacuum sucks Bender into a celestial realm where he makes devastating decisions.",
@@ -88,6 +41,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_22427124337-Futurama_052_Godfellas.png",
         "id": "AYA-shns208s7zyYUMo2",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673153940,
+        "tms_id": "EP003034830057",
+        "description": "Fry travels to forbidden planet Omega 3 to retrieve all 79 episodes of Star Trek.",
+        "title_suggest": {
+            "input": [
+                "Where No Fan Has Gone Before",
+                "No Fan Has Gone Before",
+                "Fan Has Gone Before",
+                "Has Gone Before",
+                "Gone Before",
+                "Before"
+            ]
+        },
+        "title": "Where No Fan Has Gone Before",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.5677,
+        "episode_number": "12",
+        "original_air_date": 1049083200,
+        "auth_launch_date": 1672549200,
+        "clip_order": null,
+        "airing_id": "RADS1012292200056555",
+        "media_id": "fab09ffd681156ce9613703c3bccefe89ae8583f",
+        "modified": 1672445847,
+        "slug": "where-no-fan-has-gone-before",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521531118-Futurama_056_WhereNoFanHasGoneBefore.png",
+        "created": 1651286094,
+        "title_id": "438512",
+        "season_number": "4",
+        "tv_rating": "tv-pg-lv",
+        "published": 1672445847,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521531118-Futurama_056_WhereNoFanHasGoneBefore.png",
+        "id": "AYB4UjIg208s7zyYUMx_",
         "auth": true
     },
     {
