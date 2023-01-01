@@ -1,6 +1,62 @@
 {
-    "updated": 1672531697,
+    "updated": 1672533214,
     "added": [
+        {
+            "auth_expiration_date": 1672721999,
+            "tms_id": "EP007259620235",
+            "description": "From the minds of the writers at Robot Chicken, it's time for Medusa to get her freak on; The Pirates of Dark Water visit Flint, Michigan; Yarel Poof returns to see how the Star Wars Saga ends.",
+            "title_suggest": {
+                "input": [
+                    "May Cause Bubbles Where You Don't Want 'Em",
+                    "Cause Bubbles Where You Don't Want 'Em",
+                    "Bubbles Where You Don't Want 'Em",
+                    "Where You Don't Want 'Em",
+                    "You Don't Want 'Em",
+                    "Don't Want 'Em",
+                    "Want 'Em",
+                    "'Em"
+                ]
+            },
+            "title": "May Cause Bubbles Where You Don't Want 'Em",
+            "expiration_date": 1655783940,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+            "duration": 669.4021,
+            "episode_number": "15",
+            "original_air_date": "1646024400",
+            "auth_launch_date": 1666670400,
+            "clip_order": null,
+            "airing_id": "RADS1010242200038282",
+            "media_id": "a63f07ab5f0afefb0c5a395427f3a60c1f30fe6a",
+            "modified": 1672532945,
+            "slug": "may-cause-bubbles-where-you-dont-want-em",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_222231433133-RobotChicken_1114_MayCauseBubblesWhereYouWantEm.png",
+            "created": 1645644804,
+            "season_number": "11",
+            "title_id": "2270601",
+            "tv_rating": "tv-14-dlv",
+            "published": 1672532945,
+            "tags": [],
+            "collection_title": "Robot Chicken",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1652760000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231433133-RobotChicken_1114_MayCauseBubblesWhereYouWantEm.png",
+            "id": "AX8oEvHe_0O4w1rD3Ru0",
+            "auth": true,
+            "collection_slug": "robot-chicken",
+            "collection_title_id": "608360",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1458568800,
@@ -56,6 +112,5 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
