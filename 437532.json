@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1672635540,
-        "tms_id": "EP003034830049",
-        "description": "A space vacuum sucks Bender into a celestial realm where he makes devastating decisions.",
-        "title_suggest": {
-            "input": [
-                "Godfellas"
-            ]
-        },
-        "title": "Godfellas",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1406.7386,
-        "episode_number": "8",
-        "original_air_date": 1048478400,
-        "auth_launch_date": 1672030800,
-        "clip_order": null,
-        "airing_id": "RADS1012232200056108",
-        "media_id": "dbdc01f440f2f2e6de7d201c3fc8bf1c5fb9f216",
-        "modified": 1671846267,
-        "slug": "godfellas",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_22427124337-Futurama_052_Godfellas.png",
-        "created": 1650319301,
-        "title_id": "438052",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "published": 1671846267,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_22427124337-Futurama_052_Godfellas.png",
-        "id": "AYA-shns208s7zyYUMo2",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1673153940,
         "tms_id": "EP003034830057",
         "description": "Fry travels to forbidden planet Omega 3 to retrieve all 79 episodes of Star Trek.",
@@ -93,16 +49,18 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1672635540,
-        "tms_id": "EP003034830054",
-        "description": "A power shift at Planet Express has Fry hatching a plan to restore the original regime.",
+        "auth_expiration_date": 1673240340,
+        "tms_id": "EP003034830058",
+        "description": "Al Gore's head holds an emergency summit in Kyoto, Japan, to deal with global warming caused by robot emissions.",
         "title_suggest": {
             "input": [
-                "Future Stock",
-                "Stock"
+                "Crimes of the Hot",
+                "of the Hot",
+                "the Hot",
+                "Hot"
             ]
         },
-        "title": "Future Stock",
+        "title": "Crimes of the Hot",
         "type": "episode",
         "expiration_date": null,
         "platforms": [
@@ -112,29 +70,29 @@
             "fire-tv"
         ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1407.3394,
-        "episode_number": "9",
-        "original_air_date": 1048564800,
-        "auth_launch_date": 1672030800,
+        "duration": 1402.4343,
+        "episode_number": "1",
+        "original_air_date": 1068696000,
+        "auth_launch_date": 1672635600,
         "clip_order": null,
-        "airing_id": "RADS1012232200056110",
-        "media_id": "97039d49819be5214b8f23f32148e461869b783f",
-        "modified": 1671846881,
-        "slug": "future-stock",
+        "airing_id": "RADS1012302200056649",
+        "media_id": "31fad40d504072af186b30b34113385483798429",
+        "modified": 1672496712,
+        "slug": "crimes-of-the-hot",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271243577-Futurama_053_FutureStock.png",
-        "created": 1650683876,
-        "title_id": "438053",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "published": 1671846881,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521531550-Futurama_057_CrimesOfTheHot.png",
+        "created": 1651337892,
+        "title_id": "442428",
+        "season_number": "5",
+        "tv_rating": "tv-pg-d",
+        "published": 1672496712,
         "tags": [],
         "collection_title": "Futurama",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271243577-Futurama_053_FutureStock.png",
-        "id": "AYBUbRRI208s7zyYUMsJ",
+        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521531550-Futurama_057_CrimesOfTheHot.png",
+        "id": "AYB7aJQg208s7zyYUMyn",
         "auth": true
     },
     {
@@ -229,6 +187,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_2252152955-Futurama_055_30PercentIronChef.png",
         "id": "AYBngwa1208s7zyYUMvp",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673240340,
+        "tms_id": "EP003034830060",
+        "description": "Fry spots his petrified dog in an exhibit at the Museum of Natural History.",
+        "title_suggest": {
+            "input": [
+                "Jurassic Bark",
+                "Bark"
+            ]
+        },
+        "title": "Jurassic Bark",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1405.5042,
+        "episode_number": "2",
+        "original_air_date": 1068609600,
+        "auth_launch_date": 1672635600,
+        "clip_order": null,
+        "airing_id": "RADS1012302200056647",
+        "media_id": "b4fe3c3cd025c5a2a5643c5c5c02ea2a5c0bc54d",
+        "modified": 1672496707,
+        "slug": "jurassic-bark",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220506/thumbnails/1_22561551309-Futurama_058_JurassicBark.png",
+        "created": 1651704402,
+        "title_id": "442427",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "published": 1672496707,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220506/thumbnails/2_22561551309-Futurama_058_JurassicBark.png",
+        "id": "AYCRQRHO208s7zyYUMzw",
         "auth": true
     }
 ]
