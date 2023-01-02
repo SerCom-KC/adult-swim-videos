@@ -1,52 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1672635540,
-        "tms_id": "EP031416130002",
-        "description": "Emma and Norman spend their day preparing for their escape, but they also find some eerie things about Mom.",
-        "title_suggest": {
-            "input": [
-                "131045"
-            ]
-        },
-        "title": "131045",
-        "expiration_date": 1669006740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWmWt_pSHl5gR6828y3g",
-        "duration": 1292.07,
-        "episode_number": "2",
-        "original_air_date": 1555819200,
-        "auth_launch_date": 1669006800,
-        "clip_order": null,
-        "media_id": "6318d0636d52c5fbc1efd947e7d9e4eb9a23ed5d",
-        "modified": 1668811403,
-        "airing_id": "RADS1011182200045032",
-        "slug": "131045",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155568672812612.jpg",
-        "created": 1555686749,
-        "season_number": "1",
-        "title_id": "2194660",
-        "tv_rating": "tv-14-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1668811403,
-        "tags": [],
-        "collection_title": "The Promised Neverland",
-        "modified_by": "ODT Listener",
-        "launch_date": 1667797200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155568672812612.jpg",
-        "id": "AWo2J_T1Hl5gR6828zSd",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1673240340,
         "tms_id": "EP031416130003",
         "description": "While preparations are underway, Emma, Norman, and Ray are now \"training\" the other kids so they can get stronger and be ready when the time comes. But despite Mom's orders, the new Sister Krone has her own plan.",
@@ -323,7 +277,7 @@
         "launch_date": 1671426000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15592507484158.jpg",
         "id": "AWsFCQrdCorLtcgflqy3",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -370,6 +324,53 @@
         "launch_date": 1672030800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155994749827615.jpg",
         "id": "AWskXt9wCorLtcgflq8y",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1663559940,
+        "tms_id": "EP031416130010",
+        "description": "Emma loses yet another ally and friend, and in the brink of despair, Mom pays her a visit in the infirmary.",
+        "title_suggest": {
+            "input": [
+                "130146"
+            ]
+        },
+        "title": "130146",
+        "type": "episode",
+        "expiration_date": 1673845140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWmWt_pSHl5gR6828y3g",
+        "duration": 1286,
+        "episode_number": "10",
+        "original_air_date": 1560657600,
+        "auth_launch_date": 1659931200,
+        "clip_order": null,
+        "airing_id": "RADS1012302200056675",
+        "media_id": "f88ed178a1f1951b91b3db5bc9983013a2c791f9",
+        "modified": 1672498494,
+        "slug": "130146",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156054129964217.jpg",
+        "created": 1560173166,
+        "title_id": "2194668",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672498494,
+        "tags": [],
+        "collection_title": "The Promised Neverland",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1672635600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156054129964217.jpg",
+        "id": "AWtBkUEACorLtcgflrGW",
         "auth": false
     },
     {
