@@ -325,53 +325,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1672721940,
-        "tms_id": "EP007164450394",
-        "description": "Stan tries a new, cutting edge parenting approach DNA splicing.",
-        "title_suggest": {
-            "input": [
-                "Dancin' A-with My Cells",
-                "A-with My Cells",
-                "My Cells",
-                "Cells"
-            ]
-        },
-        "title": "Dancin' A-with My Cells",
-        "type": "episode",
-        "expiration_date": 1670821140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1261.9941,
-        "episode_number": "8",
-        "original_air_date": 1623634200,
-        "auth_launch_date": 1672117200,
-        "clip_order": null,
-        "airing_id": "RADS1012242200056215",
-        "media_id": "aec3f059e16408e305507b5eea5251fbe891655a",
-        "modified": 1671901646,
-        "slug": "dancin-a-with-my-cells",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/1_22114171780-AmericanDad_1508_DancinAWithMyCells.png",
-        "created": 1642115270,
-        "title_id": "2238755",
-        "season_number": "16",
-        "tv_rating": "tv-14-dls",
-        "published": 1671901646,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1670216400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171780-AmericanDad_1508_DancinAWithMyCells.png",
-        "id": "AX5VsoYc_0O4w1rD3RXf",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1673153940,
         "tms_id": "EP007164450409",
         "description": "A new friendship causes Hayley to start worrying she might be slowly turning into Francine. Steve and his friends try out for Roger's improv troupe.",
@@ -551,6 +504,51 @@
         "launch_date": 1670821200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127155807-AmericanDad_1520_FamilyTime.png",
         "id": "AX6dVNy_208s7zyYUL92",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673326740,
+        "tms_id": "EP007164450406",
+        "description": "When Stan realizes he can't cry, he asks Steve to teach him empathy.",
+        "title_suggest": {
+            "input": [
+                "Cry Baby",
+                "Baby"
+            ]
+        },
+        "title": "Cry Baby",
+        "expiration_date": 1671425940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.0942,
+        "episode_number": "20",
+        "original_air_date": "1630891800",
+        "auth_launch_date": 1672722000,
+        "clip_order": null,
+        "airing_id": "RADS1012312200056756",
+        "media_id": "c452429e15cce56e2beeb91518bee709eaa9bab0",
+        "modified": 1672531106,
+        "slug": "cry-baby",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_221271558492-AmericanDad_1521_CryBaby.png",
+        "created": 1643317138,
+        "season_number": "16",
+        "title_id": "2238768",
+        "tv_rating": "tv-14-dlv",
+        "published": 1672531106,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670821200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271558492-AmericanDad_1521_CryBaby.png",
+        "id": "AX6dVZU2_0O4w1rD3Rg8",
         "auth": true
     },
     {
