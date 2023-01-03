@@ -1,7 +1,6 @@
 {
-    "updated": 1672759829,
-    "added": [],
-    "removed": [
+    "updated": 1672765194,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1447174920,
@@ -29,7 +28,7 @@
             "original_air_date": 1376021700,
             "clip_order": null,
             "auth_launch_date": 1542776400,
-            "modified": 1667265362,
+            "modified": 1672764975,
             "media_id": "fe607732a762737e4ff3fca460465f0e8d1e0ab0",
             "airing_id": "RADS1010312200040920",
             "id": "Lj3u59pBR4i3LtnyCnqNJQ",
@@ -44,7 +43,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1667265362,
+            "published": 1672764975,
             "tags": [],
             "rating_count": 57,
             "collection_title": "NTSF:SD:SUV::",
@@ -57,5 +56,6 @@
             "collection_title_id": "853486",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
