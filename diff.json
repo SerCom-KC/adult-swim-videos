@@ -1,7 +1,6 @@
 {
-    "updated": 1672845859,
-    "added": [],
-    "removed": [
+    "updated": 1672847838,
+    "added": [
         {
             "auth_expiration_date": 1672981140,
             "tms_id": "EP032284200120",
@@ -28,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1006152200006981",
             "media_id": "0f8ed4332eb97c7bda095e00abe22c9f14cc49c9",
-            "modified": 1655349718,
+            "modified": 1672847745,
             "slug": "dawn",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200603/thumbnails/1_20631414169-BlackClover_120.jpg",
@@ -36,7 +35,7 @@
             "season_number": "3",
             "title_id": "2222863",
             "tv_rating": "tv-pg-v",
-            "published": 1655349718,
+            "published": 1672847745,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -49,5 +48,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
