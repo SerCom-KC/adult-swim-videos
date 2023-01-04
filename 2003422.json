@@ -194,6 +194,51 @@
         "cma_id": "1483351"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1673413140,
+        "tms_id": "EP012792980111",
+        "description": "When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside.",
+        "title_suggest": {
+            "input": [
+                "Flu-Ouise"
+            ]
+        },
+        "title": "Flu-Ouise",
+        "type": "episode",
+        "expiration_date": 1648439940,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1325.77,
+        "episode_number": "1",
+        "original_air_date": 1518400800,
+        "auth_launch_date": 1672808400,
+        "clip_order": null,
+        "media_id": "668bca67201e425b0fe66bd84c04031bd9e197a6",
+        "modified": 1672625450,
+        "airing_id": "RADS1001022300056820",
+        "id": "AWFYLCWdZ-onAnjDL5Nm",
+        "slug": "flu-ouise",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151845711531711.jpg",
+        "created": 1517602743,
+        "title_id": "2132990",
+        "tv_rating": "tv-pg-dlv",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672625450,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1647835200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1665201540,
@@ -494,54 +539,6 @@
         "launch_date": 1668402000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg",
         "cma_id": "1466013"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1672808340,
-        "tms_id": "EP012792980061",
-        "description": "Tina isn't invited to her classmate Tammy's Bat Mitzvah, but ends up at the party anyway, because Bob and the family were hired to cater. Despite the invite snub, Tina is excited to scope out the BFOS (boys from other schools). Things go awry and Louise and Tammy end up missing, so, to her total delight, Tina is left center stage.",
-        "title_suggest": {
-            "input": [
-                "Mazel Tina",
-                "Tina"
-            ]
-        },
-        "title": "Mazel Tina",
-        "type": "episode",
-        "expiration_date": 1668401940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1294.5599,
-        "episode_number": "13",
-        "original_air_date": 1416193200,
-        "clip_order": null,
-        "auth_launch_date": 1672203600,
-        "modified": 1671918156,
-        "media_id": "34f5e5ab484ac95ddc1dbc79cef599815cb4ca10",
-        "airing_id": "RADS1012242200056272",
-        "id": "kDyq7D52Td-yWvGflYNsKA",
-        "slug": "mazel-tina",
-        "views": 7715,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803233765316.jpg",
-        "created": 1411571242,
-        "season_number": "4",
-        "title_id": "2030314",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1671918156,
-        "first_published": 1411571242,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1667797200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg",
-        "cma_id": "1464445"
     },
     {
         "auth": true,
