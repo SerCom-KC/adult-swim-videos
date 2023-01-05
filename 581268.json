@@ -613,6 +613,56 @@
         "auth": false
     },
     {
+        "auth": true,
+        "ott_launch_date": 1510586940,
+        "auth_expiration_date": 1675486740,
+        "tms_id": "EP007008180111",
+        "description": "It takes a man to make the women's room safe from men who think they're women.",
+        "title_suggest": {
+            "input": [
+                "The Ballad of the Latrine Marine",
+                "Ballad of the Latrine Marine",
+                "of the Latrine Marine",
+                "the Latrine Marine",
+                "Latrine Marine",
+                "Marine"
+            ]
+        },
+        "title": "The Ballad of the Latrine Marine",
+        "type": "episode",
+        "expiration_date": 1673672340,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 677.08,
+        "episode_number": "5",
+        "original_air_date": 1510549200,
+        "auth_launch_date": 1667620800,
+        "clip_order": null,
+        "media_id": "54c9c90fbf1aa2f2904e6caad7de635e7fa0d2a0",
+        "modified": 1672941777,
+        "airing_id": "RADS1011042200043166",
+        "id": "AV-mQXGAwdpKFAKSbS73",
+        "slug": "the-ballad-of-the-latrine-marine",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151058978554711.jpg",
+        "created": 1510322827,
+        "title_id": "2108968",
+        "tv_rating": "tv-14-dlsv",
+        "season_number": "11",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672941777,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1673067600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151058978554711.jpg"
+    },
+    {
         "ott_launch_date": 1509982140,
         "auth": false,
         "auth_expiration_date": 1675486740,
