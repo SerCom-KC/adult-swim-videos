@@ -51,57 +51,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1477319400,
-        "auth_expiration_date": 1672894740,
-        "tms_id": "EP013726210022",
-        "description": "Gary produces a hip, new orientation video to prepare new arrivals for Hell.",
-        "title_suggest": {
-            "input": [
-                "Straight Outta Hades",
-                "Outta Hades",
-                "Hades"
-            ]
-        },
-        "expiration_date": 1669870740,
-        "title": "Straight Outta Hades",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 686.008,
-        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
-        "episode_number": "1",
-        "original_air_date": 1477279800,
-        "clip_order": null,
-        "auth_launch_date": 1669870800,
-        "modified": 1669713950,
-        "media_id": "7994c833f4e0a1ee4ef80910e5d9cecd2bbcff22",
-        "airing_id": "RADS1010242200038308",
-        "id": "3r-DcU_LQUC6YkPCTW2C8A",
-        "slug": "straight-outta-hades",
-        "views": 35019,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1476725467,
-        "season_number": "3",
-        "title_id": "2100303",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1669713950,
-        "first_published": 1477037421,
-        "tags": [],
-        "collection_title": "Your Pretty Face is Going to Hell",
-        "modified_by": "ODT Listener",
-        "launch_date": 1666843200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/straight-outta-hades/yourprettyface_302_NoAdsCue_dup-20161018.jpg",
-        "cma_id": "1467144"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "Created by Lee Hardcastle",
@@ -500,7 +449,7 @@
         "launch_date": 1669870800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15591483969052.jpg",
         "id": "AWp5gRnyHl5gR6828zZT",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -647,6 +596,54 @@
         "launch_date": 1672290000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036474992413.jpg",
         "id": "AWp5hbdAAScUIg8XxfaF",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1671080340,
+        "tms_id": "",
+        "description": "Gary and Satan decide to reboot their favorite fast-food horror movie franchise, but they may have bitten off more than they can chew.",
+        "title_suggest": {
+            "input": [
+                "Fried Alive",
+                "Alive"
+            ]
+        },
+        "title": "Fried Alive",
+        "expiration_date": 1675918740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Z_7qiZJzRge_tGHVH1RoiQ",
+        "duration": 677.58,
+        "episode_number": "12",
+        "original_air_date": 1560572100,
+        "auth_launch_date": 1668056400,
+        "clip_order": null,
+        "media_id": "9c14aa29afbf5968ef2ed18c82e5db81e288550b",
+        "modified": 1672717804,
+        "airing_id": "RADS1001022300057413",
+        "slug": "fried-alive",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156036482881015.jpg",
+        "created": 1556817021,
+        "season_number": "4",
+        "title_id": "2191449",
+        "tv_rating": "",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672717804,
+        "tags": [],
+        "collection_title": "Your Pretty Face is Going to Hell",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1672894800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156036482881015.jpg",
+        "id": "AWp5hohlHl5gR6828zZV",
         "auth": false
     },
     {

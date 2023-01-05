@@ -98,51 +98,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1672894740,
-        "tms_id": "EP007164450398",
-        "description": "Hayley searches for guidance and instead finds a community of 'cool butts.'",
-        "title_suggest": {
-            "input": [
-                "Hot Scoomp",
-                "Scoomp"
-            ]
-        },
-        "title": "Hot Scoomp",
-        "type": "episode",
-        "expiration_date": 1670821140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.0942,
-        "episode_number": "11",
-        "original_air_date": 1625448600,
-        "auth_launch_date": 1672290000,
-        "clip_order": null,
-        "airing_id": "RADS1012262200056371",
-        "media_id": "2f2f7fb709b0cd1188b9560e2e044e0a7e1303e0",
-        "modified": 1672214323,
-        "slug": "hot-scoomp",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340120-AmericanDad_1512_HotScoomp.png",
-        "created": 1642781345,
-        "title_id": "2238759",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlv",
-        "published": 1672214323,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1670216400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340120-AmericanDad_1512_HotScoomp.png",
-        "id": "AX59Zgif_0O4w1rD3RcN",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1673067540,
         "tms_id": "EP007164450405",
         "description": "Stan finally decides to do something about his secret baldness and enlists the help of Josay Bosay, Roger's famed hair-stylist-to-the-stars persona.",
@@ -188,50 +143,6 @@
         "launch_date": 1670821200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241342308-AmericanDad_1517_CombOverAHairPiece.png",
         "id": "AX59Zr9y_0O4w1rD3RcP",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1672894740,
-        "tms_id": "EP007164450400",
-        "description": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
-        "title_suggest": {
-            "input": [
-                "Lumberjerk"
-            ]
-        },
-        "title": "Lumberjerk",
-        "type": "episode",
-        "expiration_date": 1670821140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.0941,
-        "episode_number": "12",
-        "original_air_date": 1626053400,
-        "auth_launch_date": 1672290000,
-        "clip_order": null,
-        "airing_id": "RADS1012262200056369",
-        "media_id": "11018cfacd61e2bb8703877903746e1bb8e12b21",
-        "modified": 1672215830,
-        "slug": "lumberjerk",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340534-AmericanDad_1514_Lumberjerk.png",
-        "created": 1642781391,
-        "title_id": "2238761",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1672215830,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1670216400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340534-AmericanDad_1514_Lumberjerk.png",
-        "id": "AX59Zrim208s7zyYUL9w",
         "auth": true
     },
     {
@@ -1009,5 +920,102 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg",
         "id": "AXb8Nb3EQJ_4Uej5kTlN",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1673499540,
+        "tms_id": "EP007164450100",
+        "description": "When Hayley and her old boyfriend, Jeff, elope, Stan freaks out and offers a reward to anyone who can stop them, sparking a wild goose chase throughout town.",
+        "title_suggest": {
+            "input": [
+                "100 A.D.",
+                "A.D."
+            ]
+        },
+        "title": "100 A.D.",
+        "type": "episode",
+        "expiration_date": 1650254340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.5062,
+        "episode_number": "1",
+        "original_air_date": 1287201600,
+        "auth_launch_date": 1672894800,
+        "clip_order": null,
+        "modified": 1672716876,
+        "media_id": "4947bca08f41009118b17ccaa16c30e4fca4bb76",
+        "airing_id": "RADS1001022300057357",
+        "id": "D2diUmZ4SQCQm3lQPfcAGg",
+        "slug": "100-a-d",
+        "views": 2846,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15289902355402.jpg",
+        "created": 1445574046,
+        "title_id": "748140",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672716876,
+        "first_published": 1445574046,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1649649600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15289902355402.jpg",
+        "cma_id": "1459744"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1673499540,
+        "tms_id": "EP007164450101",
+        "description": "After Stan creates a clone of Steve, Francine and Stan compete with each other to determine who has better parenting skills. Meanwhile, Roger tracks down the AWOL bride and groom in Thailand.",
+        "title_suggest": {
+            "input": [
+                "Son of Stan",
+                "of Stan",
+                "Stan"
+            ]
+        },
+        "title": "Son of Stan",
+        "type": "episode",
+        "expiration_date": 1650254340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.1058,
+        "episode_number": "2",
+        "original_air_date": 1287806400,
+        "auth_launch_date": 1672894800,
+        "clip_order": null,
+        "modified": 1672715663,
+        "media_id": "f2056eb2ad57ca7adad9be52f812a029a11a454e",
+        "airing_id": "RADS1001022300057355",
+        "id": "vMuDr63sSa2FG3wyg6TMJg",
+        "slug": "son-of-stan",
+        "views": 3024,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15289902715049.jpg",
+        "created": 1424236823,
+        "title_id": "748143",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672715663,
+        "first_published": 1424236823,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1649649600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15289902715049.jpg",
+        "cma_id": "1460911"
     }
 ]
