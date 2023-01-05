@@ -47,53 +47,6 @@
         "cma_id": "1465971"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1672894740,
-        "tms_id": "EP012792980062",
-        "description": "When Bob and Linda leave town for a romantic getaway (at a Burger Convention), they ask Teddy to babysit Tina, Gene and Louise. While the parents are away, Teddy is eager to earn the coveted title of \"Uncle Teddy\" and does so by putting Tina's crush in his rightful place after discovering that he was just using her for - gasp - free burgers! Hijinks ensue.",
-        "title_suggest": {
-            "input": [
-                "Uncle Teddy",
-                "Teddy"
-            ]
-        },
-        "title": "Uncle Teddy",
-        "type": "episode",
-        "expiration_date": 1668401940,
-        "platforms": [
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1294.0928,
-        "episode_number": "14",
-        "original_air_date": 1417402800,
-        "clip_order": null,
-        "auth_launch_date": 1672290000,
-        "modified": 1672212814,
-        "media_id": "de97cd35eb93adb8713128a87cd4b280a8668594",
-        "airing_id": "RADS1012262200056367",
-        "id": "6ZcfIvgnRS62_HwcBG6rmw",
-        "slug": "uncle-teddy",
-        "views": 2,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15180323541537.jpg",
-        "created": 1411571282,
-        "season_number": "4",
-        "title_id": "2030316",
-        "tv_rating": "",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1672212814,
-        "first_published": 1411571282,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1667797200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg",
-        "cma_id": "1465053"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1665287940,
@@ -539,6 +492,56 @@
         "launch_date": 1668402000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg",
         "cma_id": "1466013"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1673499540,
+        "tms_id": "EP012792980112",
+        "description": "Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's chalkboard eraser from the restaurant.",
+        "title_suggest": {
+            "input": [
+                "Sea Me Now",
+                "Me Now",
+                "Now"
+            ]
+        },
+        "expiration_date": 1649044740,
+        "title": "Sea Me Now",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1304.7674341,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "1",
+        "original_air_date": 1507510800,
+        "clip_order": null,
+        "auth_launch_date": 1672894800,
+        "modified": 1672715365,
+        "media_id": "36a0ccc64d9f8f32a8f88e60d768f34b10eb5b9b",
+        "airing_id": "RADS1001022300057353",
+        "id": "uigHTPzpQmefLwG4q27qRw",
+        "slug": "sea-me-now",
+        "views": 4335,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1504123367,
+        "season_number": "7",
+        "title_id": "2132972",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1672715365,
+        "first_published": 1507176643,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1648440000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/sea-me-now/bobsburgers_607_air_cid-37WPP.jpg",
+        "cma_id": "1490747"
     },
     {
         "auth": true,
