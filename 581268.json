@@ -717,6 +717,54 @@
         "cma_id": "2108969"
     },
     {
+        "ott_launch_date": 1511191740,
+        "auth": true,
+        "auth_expiration_date": 1675486740,
+        "tms_id": "EP007008180112",
+        "description": "Early exploits himself for attention.",
+        "title_suggest": {
+            "input": [
+                "Debased Ball",
+                "Ball"
+            ]
+        },
+        "expiration_date": 1673672340,
+        "type": "episode",
+        "title": "Debased Ball",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 672.08,
+        "episode_number": "6",
+        "original_air_date": 1511154000,
+        "auth_launch_date": 1667620800,
+        "clip_order": null,
+        "media_id": "789c4194ff73b15c00e007875919d527ee2c1a90",
+        "modified": 1672941169,
+        "airing_id": "RADS1011042200043162",
+        "id": "AV_Kk5-NZ-onAnjDLtHk",
+        "slug": "debased-ball",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151094958540114.jpg",
+        "created": 1510932193,
+        "season_number": "11",
+        "title_id": "2108970",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672941169,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1673067600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151094958540114.jpg"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "It's about damn time.",
@@ -1150,6 +1198,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118995428929.jpg",
         "id": "AWAEPIDxZ-onAnjDLtPJ",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1512401340,
+        "auth_expiration_date": 1675486740,
+        "tms_id": "EP007008180114",
+        "description": "Two idiots argue about stuff nobody cares about.",
+        "title_suggest": {
+            "input": [
+                "Duel of the Dimwits",
+                "of the Dimwits",
+                "the Dimwits",
+                "Dimwits"
+            ]
+        },
+        "title": "Duel of the Dimwits",
+        "type": "episode",
+        "expiration_date": 1673672340,
+        "platforms": [
+            "fire-tv",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 676.63,
+        "episode_number": "8",
+        "original_air_date": 1512363600,
+        "auth_launch_date": 1667620800,
+        "clip_order": null,
+        "media_id": "23f9e55fd98bc98bfc87e8906e66d2b4ad40f8cf",
+        "modified": 1672941167,
+        "airing_id": "RADS1011042200043160",
+        "id": "AWAVsnhlZ-onAnjDLtVd",
+        "slug": "duel-of-the-dimwits",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15124929350219.jpg",
+        "created": 1512192505,
+        "title_id": "2108972",
+        "tv_rating": "tv-ma",
+        "season_number": "11",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1672941167,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1673067600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg"
     },
     {
         "ott_launch_date": null,
