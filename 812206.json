@@ -835,6 +835,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1673175540,
+        "tms_id": "EP034917240406",
+        "description": "Fuu senses that Gaara is in danger and abandons the Chunin Exams to help save him.",
+        "title_suggest": {
+            "input": [
+                "The Targeted Tailed Beast",
+                "Targeted Tailed Beast",
+                "Tailed Beast",
+                "Beast"
+            ]
+        },
+        "title": "The Targeted Tailed Beast",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1310.9095,
+        "episode_number": "63",
+        "original_air_date": "1664087400",
+        "auth_launch_date": 1664100000,
+        "clip_order": null,
+        "airing_id": "RADS1009222200029717",
+        "media_id": "c1347c1eea35f4f3cc23a9dcfdb76128de5da9e3",
+        "modified": 1672961975,
+        "slug": "the-targeted-tailed-beast",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/1_229221028430-NarutoShippuden_411_TheTargetedTailedBeast.png",
+        "created": 1663856936,
+        "season_number": "7",
+        "title_id": "2177841",
+        "tv_rating": "tv-pg",
+        "published": 1672961975,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221028430-NarutoShippuden_411_TheTargetedTailedBeast.png",
+        "id": "AYNlmgffIAxeiVkFtLR1",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1674384840,
         "tms_id": "EP034917240415",
         "description": "Gaara confronts Fugi, the mastermind behind the assassination attempt on his life.",
