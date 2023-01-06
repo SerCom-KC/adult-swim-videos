@@ -96,54 +96,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1672981140,
-        "tms_id": "EP003034830055",
-        "description": "Leela becomes the first female to play major-league blernsball.",
-        "title_suggest": {
-            "input": [
-                "A Leela of Her Own",
-                "Leela of Her Own",
-                "of Her Own",
-                "Her Own",
-                "Own"
-            ]
-        },
-        "title": "A Leela of Her Own",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1392.1575,
-        "episode_number": "10",
-        "original_air_date": 1047960000,
-        "auth_launch_date": 1672376400,
-        "clip_order": null,
-        "airing_id": "RADS1012262200056427",
-        "media_id": "626bc80799574c903642abd5365969c9412aa8ec",
-        "modified": 1672224530,
-        "slug": "a-leela-of-her-own",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271244591-Futurama_054_ALeelaOfHerOwn.png",
-        "created": 1650924147,
-        "title_id": "438048",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "published": 1672224530,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271244591-Futurama_054_ALeelaOfHerOwn.png",
-        "id": "AYBiv1Lj_0O4w1rD3SGF",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1673067540,
         "tms_id": "EP003034830056",
         "description": "Wanting to become a chef, Bender seeks mentoring from Helmut Spragel, formerly the world's greatest culinary artist.",
@@ -187,6 +139,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_2252152955-Futurama_055_30PercentIronChef.png",
         "id": "AYBngwa1208s7zyYUMvp",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673585940,
+        "tms_id": "EP003034830061",
+        "description": "Prodigal sons return to start a competing delivery service that threatens the existence of Planet Express.",
+        "title_suggest": {
+            "input": [
+                "The Route of All Evil",
+                "Route of All Evil",
+                "of All Evil",
+                "All Evil",
+                "Evil"
+            ]
+        },
+        "title": "The Route of All Evil",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1404.9369,
+        "episode_number": "3",
+        "original_air_date": 1067918400,
+        "auth_launch_date": 1672981200,
+        "clip_order": null,
+        "airing_id": "RADS1001032300057648",
+        "media_id": "82b47591357d75a7982f87a4666ba5d0eddbf6cd",
+        "modified": 1672771657,
+        "slug": "the-route-of-all-evil",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/1_225131514179-Futurama_059_TheRouteOfAllEvil.png",
+        "created": 1652449588,
+        "title_id": "442424",
+        "season_number": "5",
+        "tv_rating": "tv-pg-lv",
+        "published": 1672771657,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131514179-Futurama_059_TheRouteOfAllEvil.png",
+        "id": "AYC9q7Nk_0O4w1rD3SL5",
         "auth": true
     },
     {
