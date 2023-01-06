@@ -211,59 +211,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1451681940,
-        "auth_expiration_date": 1672981140,
-        "tms_id": "EP007008200009",
-        "rating": 8.152818,
-        "description": "Tom tries to start a consulting business in Jefferton but is denied by City Council until his family becomes registered.",
-        "title_suggest": {
-            "input": [
-                "Re-Birth"
-            ]
-        },
-        "type": "episode",
-        "title": "Re-Birth",
-        "expiration_date": 1669957140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 708.91,
-        "episode_number": "9",
-        "original_air_date": 1118031300,
-        "clip_order": null,
-        "auth_launch_date": 1669957200,
-        "modified": 1669718758,
-        "airing_id": "RADS1011282200047312",
-        "media_id": "63903d39e4b926cace8adcb33098f71196db2cbf",
-        "id": "_aEKJkhaTx-Tb4wuQMQXfA",
-        "slug": "re-birth",
-        "views": 134942,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117836571-tgttm_009.jpg",
-        "created": 1402945482,
-        "title_id": "612758",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1669718758,
-        "tags": [
-            "tom goes to the mayor tgttm episode 9 rebirth consulting"
-        ],
-        "rating_count": 373,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1666929600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836571-tgttm_009.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451682720,
         "auth_expiration_date": 1676005140,
         "tms_id": "EP007008200017",
@@ -315,6 +263,59 @@
         "modified_by": "ODT Listener",
         "launch_date": 1669957200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117957474-tgttm_027.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451682180,
+        "auth_expiration_date": 1660881540,
+        "tms_id": "EP007008200022",
+        "rating": 7.919643,
+        "description": "Tom stoops to new lows to get invited to Gibbons' Surprise Party.",
+        "title_suggest": {
+            "input": [
+                "Surprise Party",
+                "Party"
+            ]
+        },
+        "type": "episode",
+        "title": "Surprise Party",
+        "expiration_date": 1676005140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 694.19,
+        "episode_number": "2",
+        "original_air_date": 1153715400,
+        "clip_order": null,
+        "auth_launch_date": 1657857600,
+        "modified": 1672781085,
+        "airing_id": "RADS1001032300057691",
+        "media_id": "3587d774d47c229d6133fe27d5f961a9b54f3dbe",
+        "id": "oeEdHdVuQAaxcG9ISlyeTg",
+        "slug": "surprise-party",
+        "views": 108567,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117953264-tgttm_015.jpg",
+        "created": 1402945482,
+        "title_id": "629806",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1672781085,
+        "tags": [
+            "tom goes to the mayor episode 15 surprise party gibbons"
+        ],
+        "rating_count": 336,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1672981200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953264-tgttm_015.jpg",
         "cma_id": ""
     },
     {
