@@ -664,7 +664,7 @@
     },
     {
         "ott_launch_date": 1509982140,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1675486740,
         "tms_id": "EP007008180110",
         "description": "Early's most confusing conspiracy theory turns out to be false.",
@@ -722,7 +722,7 @@
     },
     {
         "ott_launch_date": 1509373740,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1675486740,
         "tms_id": "EP007008180108",
         "description": "Sheriff discovers alcohol at the world's largest outdoor cocktail party.",
@@ -2213,7 +2213,7 @@
         "launch_date": 1659153600,
         "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123954526-Squidbillies_11071108_OlHootie.png",
         "id": "AX2AytJjUQa40cfnRS16",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1673672340,
@@ -5638,7 +5638,7 @@
         "cma_id": "2032580"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447444620,
         "auth_expiration_date": 1673067540,
         "tms_id": "EP007008180057",
@@ -5916,7 +5916,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1508768940,
         "auth_expiration_date": 1675486740,
         "tms_id": "EP007008180109",
