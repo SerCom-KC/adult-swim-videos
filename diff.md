@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 7, 2023 at 03:30:24 EST_
+_Last Update: January 7, 2023 at 18:00:25 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177806
-**Naruto: Shippuden S07E28 - The Directive to Take the Nine-Tails!**  
-TV-PG 🔒 21:50  
-⌛ January 9, 2023 at 07:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/the-directive-to-take-the-nine-tails  
-seriesid=`812206` titleid=`2177806` id=`AX7ani6S208s7zyYUMCH` mediaid=`ee50b89d98ffcd86c59acb4d2e071e78d204c973`  
-_Part 1 of a special two-part extra edition! The townspeople are going about their daily business on the streets of the Leaf Village when someone suddenly appears and starts sending them flying!_  
-<a href="https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281334567-NarutoShippuden_376_TheDirectiveToTakeTheNineTails.png"><img src="https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281334567-NarutoShippuden_376_TheDirectiveToTakeTheNineTails.png" height="144px" /></a>
+608360 Robot Chicken: 1  
+### 2270594
+**Robot Chicken S11E08 - May Cause Lucid Murder Dreams**  
+TV-MA-SV 🔒 11:10  
+⌛ January 9, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/may-cause-lucid-murder-dreams  
+seriesid=`608360` titleid=`2270594` id=`AXvQ1VHFUQa40cfnRR9l` mediaid=`9eb76fb8ab207c14f4aa23c6952f3e75d4d9b993`  
+_Naruto has trained for the Robot Chicken writers think he's ready for the test or not; The Force evolves into something new and deadly; Robot Chicken teaches Martin Scorcese a few things about filmmaking._  
+<a href="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101350344-RobotChicken_1107_MayCauseLucidMurderDreams.png"><img src="https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101350344-RobotChicken_1107_MayCauseLucidMurderDreams.png" height="144px" /></a>
