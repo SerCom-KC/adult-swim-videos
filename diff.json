@@ -1,7 +1,6 @@
 {
-    "updated": 1673132424,
-    "added": [],
-    "removed": [
+    "updated": 1673136024,
+    "added": [
         {
             "auth_expiration_date": 1673326740,
             "tms_id": "EP007259620228",
@@ -32,7 +31,7 @@
             "clip_order": null,
             "airing_id": "RADS1010312200040922",
             "media_id": "9eb76fb8ab207c14f4aa23c6952f3e75d4d9b993",
-            "modified": 1667265370,
+            "modified": 1673134898,
             "slug": "may-cause-lucid-murder-dreams",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/1_219101350344-RobotChicken_1107_MayCauseLucidMurderDreams.png",
@@ -40,7 +39,7 @@
             "season_number": "11",
             "title_id": "2270594",
             "tv_rating": "tv-ma-sv",
-            "published": 1667265370,
+            "published": 1673134898,
             "tags": [],
             "collection_title": "Robot Chicken",
             "disable_ads": false,
@@ -53,5 +52,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
