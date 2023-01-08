@@ -43,7 +43,7 @@
         "launch_date": 1671957000,
         "poster": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211622358-MyHeroAcademia_114_AQuietBeginning.png",
         "id": "AYTOhvvSIAxeiVkFtLhD",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1672561740,
@@ -136,6 +136,50 @@
         "launch_date": 1673166600,
         "poster": "https://media.cdn.adultswim.com/uploads/20221217/thumbnails/2_221217194574-myheroacademia116tiny.png",
         "id": "AYUWgx-auLQD-MTtYfF7",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1674980940,
+        "tms_id": "EP034435300122",
+        "description": "Hawks's confrontation with Dabi leads him to think back on his past. Meanwhile, at the hospital, Mirko fights her way through multiple High Ends to get to Doctor and Shigaraki.",
+        "title_suggest": {
+            "input": [
+                "Inheritance"
+            ]
+        },
+        "title": "Inheritance",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1351.2833,
+        "episode_number": "4",
+        "original_air_date": 1673154000,
+        "auth_launch_date": 1673166600,
+        "clip_order": null,
+        "airing_id": "RADS1001062300058269",
+        "media_id": "04dca19469ae432ee6dc3dbae5b551d98b91c564",
+        "modified": 1673041346,
+        "slug": "inheritance",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230106/thumbnails/1_2316164206-myhereoacademia117Still002tiny.png",
+        "created": 1673026718,
+        "title_id": "2417779",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1673041346,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230106/thumbnails/2_2316164206-myhereoacademia117Still002tiny.png",
+        "id": "AYWIKcw34k01GlbfzrX3",
         "auth": true
     }
 ]
