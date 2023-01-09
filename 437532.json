@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1673240340,
-        "tms_id": "EP003034830058",
-        "description": "Al Gore's head holds an emergency summit in Kyoto, Japan, to deal with global warming caused by robot emissions.",
-        "title_suggest": {
-            "input": [
-                "Crimes of the Hot",
-                "of the Hot",
-                "the Hot",
-                "Hot"
-            ]
-        },
-        "title": "Crimes of the Hot",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.4343,
-        "episode_number": "1",
-        "original_air_date": 1068696000,
-        "auth_launch_date": 1672635600,
-        "clip_order": null,
-        "airing_id": "RADS1012302200056649",
-        "media_id": "31fad40d504072af186b30b34113385483798429",
-        "modified": 1672496712,
-        "slug": "crimes-of-the-hot",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521531550-Futurama_057_CrimesOfTheHot.png",
-        "created": 1651337892,
-        "title_id": "442428",
-        "season_number": "5",
-        "tv_rating": "tv-pg-d",
-        "published": 1672496712,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521531550-Futurama_057_CrimesOfTheHot.png",
-        "id": "AYB7aJQg208s7zyYUMyn",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1673585940,
         "tms_id": "EP003034830061",
         "description": "Prodigal sons return to start a competing delivery service that threatens the existence of Planet Express.",
@@ -191,16 +144,17 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1673240340,
-        "tms_id": "EP003034830060",
-        "description": "Fry spots his petrified dog in an exhibit at the Museum of Natural History.",
+        "auth_expiration_date": 1673845140,
+        "tms_id": "EP003034830064",
+        "description": "Fry, Leela and Bender develop superhuman powers and fight crime in the Big Apple.",
         "title_suggest": {
             "input": [
-                "Jurassic Bark",
-                "Bark"
+                "Less Than Hero",
+                "Than Hero",
+                "Hero"
             ]
         },
-        "title": "Jurassic Bark",
+        "title": "Less Than Hero",
         "type": "episode",
         "expiration_date": null,
         "platforms": [
@@ -210,29 +164,76 @@
             "fire-tv"
         ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1405.5042,
-        "episode_number": "2",
-        "original_air_date": 1068609600,
-        "auth_launch_date": 1672635600,
+        "duration": 1406.1381,
+        "episode_number": "6",
+        "original_air_date": 1068091200,
+        "auth_launch_date": 1673240400,
         "clip_order": null,
-        "airing_id": "RADS1012302200056647",
-        "media_id": "b4fe3c3cd025c5a2a5643c5c5c02ea2a5c0bc54d",
-        "modified": 1672496707,
-        "slug": "jurassic-bark",
+        "airing_id": "RADS1001072300058336",
+        "media_id": "ec9309cda338e64c55d55c06a94e00142a579a2c",
+        "modified": 1673068582,
+        "slug": "less-than-hero",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220506/thumbnails/1_22561551309-Futurama_058_JurassicBark.png",
-        "created": 1651704402,
-        "title_id": "442427",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220520/thumbnails/1_22520135130-FuturamaHero.png",
+        "created": 1652535013,
+        "title_id": "444750",
         "season_number": "5",
-        "tv_rating": "tv-pg",
-        "published": 1672496707,
+        "tv_rating": "tv-pg-l",
+        "published": 1673068582,
         "tags": [],
         "collection_title": "Futurama",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220506/thumbnails/2_22561551309-Futurama_058_JurassicBark.png",
-        "id": "AYCRQRHO208s7zyYUMzw",
+        "poster": "https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png",
+        "id": "AYDCwy8f_0O4w1rD3SNK",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1673845140,
+        "tms_id": "EP003034830065",
+        "description": "Hot tar turns the crotchety old professor into a middle-aged man, while the others are transformed into rambunctious children.",
+        "title_suggest": {
+            "input": [
+                "Teenage Mutant Leela's Hurdles",
+                "Mutant Leela's Hurdles",
+                "Leela's Hurdles",
+                "Hurdles"
+            ]
+        },
+        "title": "Teenage Mutant Leela's Hurdles",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1404.4363,
+        "episode_number": "7",
+        "original_air_date": 1068782400,
+        "auth_launch_date": 1673240400,
+        "clip_order": null,
+        "airing_id": "RADS1001072300058334",
+        "media_id": "296d86fca3d1ef4e70abb9a608a5f1648db2c3dc",
+        "modified": 1673068295,
+        "slug": "teenage-mutant-leelas-hurdles",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/1_225211650145-LeelasHurdles.png",
+        "created": 1652535105,
+        "title_id": "444752",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "published": 1673068295,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/2_225211650145-LeelasHurdles.png",
+        "id": "AYDCxJhO_0O4w1rD3SNL",
         "auth": true
     }
 ]
