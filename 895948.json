@@ -57,6 +57,59 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1471696260,
+        "auth_expiration_date": 1610254740,
+        "tms_id": "EP015632430034",
+        "description": "Interviews with Howie Mandel and Malaysia Pargo; Musical guest Flying Lotus",
+        "title_suggest": {
+            "input": [
+                "Howie Mandel; Malaysia Pargo",
+                "Mandel; Malaysia Pargo",
+                "Malaysia Pargo",
+                "Pargo"
+            ]
+        },
+        "title": "Howie Mandel; Malaysia Pargo",
+        "type": "episode",
+        "expiration_date": 1676264340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 673.5338672,
+        "episode_number": "3",
+        "original_air_date": 1471665600,
+        "clip_order": null,
+        "auth_launch_date": 1607230800,
+        "modified": 1673073977,
+        "media_id": "72748e299b550ee6280f74475096c7852a94af46",
+        "airing_id": "RADS1001072300058396",
+        "id": "8Xac_wF8RUWxdaf2ZQzHhQ",
+        "slug": "howie-mandel-malaysia-pargo",
+        "views": 111602,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341619264-ericandre_403_dup-20160512.jpg",
+        "created": 1471331438,
+        "title_id": "2088419",
+        "tv_rating": "tv-ma",
+        "season_number": "4",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1673073977,
+        "first_published": 1471331438,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1673240400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341619264-ericandre_403_dup-20160512.jpg",
+        "cma_id": "1373047"
+    },
+    {
         "ott_launch_date": 1519140660,
         "auth": false,
         "auth_expiration_date": 1573621140,
@@ -1068,7 +1121,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1676264340,
         "tms_id": "EP015632430029",
@@ -1347,59 +1400,6 @@
         "launch_date": 1672635600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161942-ericandre_402_dup-20160419.jpg",
         "cma_id": "1369025"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1673240340,
-        "tms_id": "EP015632430024",
-        "description": "Interviews with Ryan Kwanten and \"Beyonce & Jay Z\"; Musical guest Killer Mike and Action Bronson.",
-        "title_suggest": {
-            "input": [
-                "Ryan Kwanten; Beyonce & Jay-Z",
-                "Kwanten; Beyonce & Jay-Z",
-                "Beyonce & Jay-Z",
-                "& Jay-Z",
-                "Jay-Z"
-            ]
-        },
-        "expiration_date": 1670216340,
-        "title": "Ryan Kwanten; Beyonce & Jay-Z",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 655.9676343,
-        "episode_number": "3",
-        "original_air_date": 1416546900,
-        "clip_order": null,
-        "auth_launch_date": 1670216400,
-        "modified": 1670017053,
-        "media_id": "1d1bf58aabbc5e53ca35976060d6748dffb8dc85",
-        "airing_id": "RADS1010282200040129",
-        "id": "x9ev8CWGSC6m67JlegFUqA",
-        "slug": "ryan-kwanten-beyonce-jay-z",
-        "views": 3,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341615472-ericandre_023_dup-20141113.jpg",
-        "created": 1416510622,
-        "season_number": "3",
-        "title_id": "2032598",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1670017053,
-        "first_published": 1416558022,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1667188800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341615472-ericandre_023_dup-20141113.jpg",
-        "cma_id": "2032598"
     },
     {
         "auth": false,
