@@ -380,6 +380,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "SH020223110000",
+        "description": "In this pilot episode we are introduced to the fun-loving Cook family. Starring Ken Delozier, Tara Ochs, and others. Created by Drew and Yvonne Asparagus and written and directed by Casper Kelly. \"Too many cooks may spoil the broth, but they fill our hearts with love.\" Go to Hell.",
+        "title_suggest": {
+            "input": [
+                "Too Many Cooks",
+                "Many Cooks",
+                "Cooks"
+            ]
+        },
+        "title": "Too Many Cooks",
+        "expiration_date": 1673413140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 669.4354,
+        "episode_number": "5",
+        "original_air_date": "1414483200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1010072200035557",
+        "media_id": "9ee755a88ccc7045ffa0ce17f670b77958cb3e3b",
+        "modified": 1673373915,
+        "slug": "too-many-cooks",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg",
+        "created": 1599069825,
+        "season_number": "4",
+        "title_id": "2007828",
+        "tv_rating": "tv-ma-v",
+        "published": 1673373915,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1665547200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg",
+        "id": "AXRP_SlULyLQBOXK_PM3",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1657598340,
         "tms_id": "EP027786570041",
         "description": "Lead by world-renowned fitness and spinning instructor Tay Tay Mac, you'll burn calories and have a blast in this intense and rewarding 11 minute stationary bike workout!  Transformation and perspiration through SPINSPERATION!",
