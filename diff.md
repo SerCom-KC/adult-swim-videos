@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 10, 2023 at 13:00:25 EST_
+_Last Update: January 10, 2023 at 13:30:24 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-340537 Aqua Teen Hunger Force: 2  
-### 747309
-**Aqua Teen Hunger Force S06E06 - Time Machine**  
-TV-14-DLV 🔒 11:36  
+2007823 Infomercials: 1  
+### 2007828
+**Infomercials S04E05 - Too Many Cooks**  
+TV-MA-V 🔓 11:09  
 ⌛ January 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/time-machine  
-seriesid=`340537` titleid=`747309` id=`3XlQiDGNQI-88Sl18czFfQ` mediaid=`7c9291ab5031c027b086021911152c1b51c9c8d5`  
-_Frylock makes a time machine that he and Shake use to compete for ruler of dimension boob._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225950274-athf_084_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225950274-athf_084_BIM.jpg" height="144px" /></a>
-### 747308
-**Aqua Teen Hunger Force S06E05 - Creature From The Plaque Lagoon**  
-TV-MA 🔒 11:54  
-⌛ January 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/creature-from-the-plaque-lagoon  
-seriesid=`340537` titleid=`747308` id=`xAsPUJOjTXqYgBz06atKVw` mediaid=`843d588d169ac6cfd421f1d1240f07594cf85f18`  
-_Shake and Meatwad try to kidnap the tooth fairy but instead end up in a world of toothlessness, plaque, and identity theft._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225949104-athf_083_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225949104-athf_083_BIM.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/infomercials/too-many-cooks  
+seriesid=`2007823` titleid=`2007828` id=`AXRP_SlULyLQBOXK_PM3` mediaid=`9ee755a88ccc7045ffa0ce17f670b77958cb3e3b`  
+_In this pilot episode we are introduced to the fun-loving Cook family. Starring Ken Delozier, Tara Ochs, and others. Created by Drew and Yvonne Asparagus and written and directed by Casper Kelly. "Too many cooks may spoil the broth, but they fill our hearts with love." Go to Hell._  
+<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
