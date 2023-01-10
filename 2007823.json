@@ -46,58 +46,7 @@
         "launch_date": 1670907600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg",
         "id": "AW8BAtn13HMJfT8do6Zt",
-        "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1673326740,
-        "tms_id": "",
-        "description": "Dreambow Entertainment Home Video presents \"Cool Dad\" and other fun fantasy-comedies for the whole family coming soon to videocassette!",
-        "title_suggest": {
-            "input": [
-                "Cool Dad - Official Trailer",
-                "Dad - Official Trailer",
-                "- Official Trailer",
-                "Official Trailer",
-                "Trailer"
-            ]
-        },
-        "title": "Cool Dad - Official Trailer",
-        "type": "episode",
-        "expiration_date": 1670302740,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 677.03,
-        "episode_number": "4",
-        "original_air_date": 1528790400,
-        "auth_launch_date": 1670302800,
-        "clip_order": null,
-        "media_id": "200082e3383f4d65ba0e80e5559f73c64a59ef1d",
-        "modified": 1670029723,
-        "airing_id": "RADS1012032200049415",
-        "id": "AWPMWkOrTdxzjxdCmQjn",
-        "slug": "cool-dad-official-trailer",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152840392707715.png",
-        "created": 1528141857,
-        "title_id": "2134721",
-        "tv_rating": "tv-14",
-        "season_number": "7",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1670029723,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1667883600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152840392707715.png"
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -428,6 +377,54 @@
         "launch_date": 1672722000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20929854-Infomercials_Wormholes_001_dup-20200805.jpg",
         "id": "AXRO7ow6SeFB2d0c38u0",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1657598340,
+        "tms_id": "EP027786570041",
+        "description": "Lead by world-renowned fitness and spinning instructor Tay Tay Mac, you'll burn calories and have a blast in this intense and rewarding 11 minute stationary bike workout!  Transformation and perspiration through SPINSPERATION!",
+        "title_suggest": {
+            "input": [
+                "11 Minute Whambam 90s Ride!",
+                "Minute Whambam 90s Ride!",
+                "Whambam 90s Ride!",
+                "90s Ride!",
+                "Ride!"
+            ]
+        },
+        "title": "11 Minute Whambam 90s Ride!",
+        "expiration_date": 1675745940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 675.675,
+        "episode_number": "4",
+        "original_air_date": "1606813200",
+        "auth_launch_date": 1654574400,
+        "clip_order": null,
+        "airing_id": "RADS1001072300058440",
+        "media_id": "8989b62add1f752f2ed6ada60e5e4a95213518a2",
+        "modified": 1673134897,
+        "slug": "11-minute-whambam-90-s-ride",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/1_2011241047577-infomercials_11MWB_dup-20201123.jpg",
+        "created": 1606232880,
+        "season_number": "10",
+        "title_id": "2222974",
+        "tv_rating": "tv-14-l",
+        "published": 1673134897,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1673326800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241047577-infomercials_11MWB_dup-20201123.jpg",
+        "id": "AXX68La1bxpjZvbXYlc1",
         "auth": false
     }
 ]
