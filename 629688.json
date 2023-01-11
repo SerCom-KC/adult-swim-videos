@@ -189,6 +189,59 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447172040,
+        "auth_expiration_date": 1653451140,
+        "tms_id": "EP007959510022",
+        "rating": 7.2153335,
+        "description": "Cheating on his wife with Nurse Bendy, Principal Fakey has trouble with this most fundamental of protestant practices.",
+        "title_suggest": {
+            "input": [
+                "Repression"
+            ]
+        },
+        "type": "episode",
+        "title": "Repression",
+        "expiration_date": 1676437140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 668.9676343,
+        "episode_number": "12",
+        "original_air_date": 1178511300,
+        "clip_order": null,
+        "auth_launch_date": 1650427200,
+        "modified": 1673216264,
+        "media_id": "ed463e0b7f1e988263d1cf813873d17c21ef7ab7",
+        "airing_id": "RADS1001082300058575",
+        "id": "7c8ySrE3Q9qyLB4MqiVC6g",
+        "slug": "repression",
+        "views": 366397,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311161136-moralorel_015.jpg",
+        "created": 1402945470,
+        "title_id": "653295",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1673216264,
+        "tags": [
+            "Moral Orel Episode 15 Repression"
+        ],
+        "rating_count": 1500,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1673413200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311161136-moralorel_015.jpg",
+        "cma_id": "1398285"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447172040,
         "auth_expiration_date": 1674017940,
@@ -406,57 +459,6 @@
         "launch_date": 1672808400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311160505-moralorel_018.jpg",
         "cma_id": "653298"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447171860,
-        "auth_expiration_date": 1673413140,
-        "tms_id": "EP007959510012",
-        "rating": 7.5067263,
-        "description": "Orel's new pet puppy becomes a serious threat to the town and its beliefs.",
-        "title_suggest": {
-            "input": [
-                "Love"
-            ]
-        },
-        "type": "episode",
-        "title": "Love",
-        "expiration_date": 1670389140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 703.2002002,
-        "episode_number": "2",
-        "original_air_date": 1163999700,
-        "clip_order": null,
-        "auth_launch_date": 1670389200,
-        "modified": 1670159403,
-        "media_id": "8787b87a194def89acb1b3f1d159db0c9489827c",
-        "airing_id": "RADS1012042200049477",
-        "id": "JBzCcGdLTIuk8AwgPIb5Uw",
-        "slug": "love",
-        "views": 159129,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111555101-moralorel_028.jpg",
-        "created": 1402945470,
-        "title_id": "653308",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1670159403,
-        "tags": [],
-        "rating_count": 446,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1667361600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111555101-moralorel_028.jpg",
-        "cma_id": "1357006"
     },
     {
         "auth": false,
@@ -680,7 +682,7 @@
         "cma_id": "1454318"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171920,
         "auth_expiration_date": 1676437140,
         "tms_id": "EP007959510017",
