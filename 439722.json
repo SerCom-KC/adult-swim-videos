@@ -106,6 +106,63 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447782960,
+        "auth_expiration_date": 1673585940,
+        "tms_id": "EP005604540056",
+        "rating": 8.900785,
+        "description": "The men of Conjectural Technologies learn that success comes with a price when Billy is kidnapped by the mysterious and extra-creepy investors behind their recent windfall. But who is behind the investors? SPHINX would like to know.",
+        "title_suggest": {
+            "input": [
+                "The Silent Partners",
+                "Silent Partners",
+                "Partners"
+            ]
+        },
+        "type": "episode",
+        "title": "The Silent Partners",
+        "expiration_date": 1462363199,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1362,
+        "episode_number": "15",
+        "original_air_date": 1287977400,
+        "clip_order": null,
+        "auth_launch_date": 1665633600,
+        "modified": 1673543611,
+        "media_id": "1aa1b812653babacd9585b0289f287798d8c5d43",
+        "airing_id": "RADS1010102200035794",
+        "id": "2n1G2OHQRdyWpXeBzd2-Ew",
+        "slug": "the-silent-partners",
+        "views": 859546,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116148463-venture_154.jpg",
+        "created": 1402945480,
+        "title_id": "812732",
+        "season_number": "4",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1673543611,
+        "tags": [
+            "venture bros.",
+            "brothers",
+            "adult swim",
+            "the silent partners"
+        ],
+        "rating_count": 1280,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1459339200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116148463-venture_154.jpg",
+        "cma_id": "1185834"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447781160,
         "auth_expiration_date": 1680235140,
         "tms_id": "EP005604540026",
