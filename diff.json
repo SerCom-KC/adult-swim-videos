@@ -1,7 +1,6 @@
 {
-    "updated": 1673555426,
-    "added": [],
-    "removed": [
+    "updated": 1673559025,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1673672340,
@@ -32,7 +31,7 @@
             "auth_launch_date": 1663300800,
             "clip_order": null,
             "media_id": "a72314529e39f8201e8f9a20a93670c969d260f7",
-            "modified": 1663093425,
+            "modified": 1673557890,
             "airing_id": "RADS1009122200027845",
             "slug": "lightning-of-rage-vs-friends",
             "exclude_from_search": false,
@@ -43,7 +42,7 @@
             "tv_rating": "",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1663093425,
+            "published": 1673557890,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -56,5 +55,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
