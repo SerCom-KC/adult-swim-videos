@@ -900,58 +900,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg"
     },
     {
-        "ott_launch_date": 1535380140,
-        "auth": true,
-        "auth_expiration_date": 1673499599,
-        "tms_id": "EP005604540082",
-        "description": "The Monarch faces financial challenges as he attempts to rebuild his fiendish organization, while Dean attempts to build a normal life out of his father's shadow at sleep-away college.",
-        "title_suggest": {
-            "input": [
-                "The High Cost of Loathing",
-                "High Cost of Loathing",
-                "Cost of Loathing",
-                "of Loathing",
-                "Loathing"
-            ]
-        },
-        "expiration_date": 1659585540,
-        "type": "episode",
-        "title": "The High Cost of Loathing",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
-        "duration": 1355,
-        "episode_number": "4",
-        "original_air_date": 1535342400,
-        "auth_launch_date": 1665806400,
-        "clip_order": null,
-        "media_id": "be760ac67a52d5095a05b5559c1bc049cdf453e8",
-        "modified": 1673401772,
-        "airing_id": "RADS1010102200035808",
-        "id": "AWRwHYIrTdxzjxdCmyOW",
-        "slug": "the-high-cost-of-loathing",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153505092677319.jpg",
-        "created": 1530889339,
-        "season_number": "7",
-        "title_id": "2165020",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1673401772,
-        "tags": [],
-        "collection_title": "The Venture Bros.",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1656561600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153505092677319.jpg"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -1986,7 +1934,7 @@
         "cma_id": "1166217"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447781460,
         "auth_expiration_date": 1689220740,
         "tms_id": "EP005604540029",
@@ -2215,7 +2163,7 @@
         "cma_id": "990919"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1457964120,
         "auth_expiration_date": 1685591940,
         "tms_id": "EP005604540077",
@@ -2266,6 +2214,63 @@
         "launch_date": 1670475600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116141601-venture_610_dup_20160315.jpg",
         "cma_id": "1178478"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447781580,
+        "auth_expiration_date": 1672981199,
+        "tms_id": "EP005604540034",
+        "rating": 9.013128,
+        "description": "All basements are kinda spooky, but the Ventures are about to learn the hard way that beneath the foundations of the Venture Compound lie deep, dark secrets... great and small. Only the one-two punch of magic and technology can save Doc, Brock--and perhaps the planet--from certain doom as the boys recruit The Order of the Triad and Pete White to get to the bottom of a thirty year old mystery.",
+        "title_suggest": {
+            "input": [
+                "What Goes Down Must Come Up",
+                "Goes Down Must Come Up",
+                "Down Must Come Up",
+                "Must Come Up",
+                "Come Up",
+                "Up"
+            ]
+        },
+        "type": "episode",
+        "title": "What Goes Down Must Come Up",
+        "expiration_date": 1674709140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1347.45,
+        "episode_number": "7",
+        "original_air_date": 1216006200,
+        "clip_order": null,
+        "auth_launch_date": 1665547200,
+        "modified": 1673315202,
+        "media_id": "5fc055e4abda05ded4297f67a0fb8da12f5bc208",
+        "airing_id": "RADS1001092300059282",
+        "id": "cHVpPHbcSkuxMbPP9Ol0jg",
+        "slug": "what-goes-down-must-come-up",
+        "views": 1306169,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116140559-venture_133_dst_cid-UQXF.jpg",
+        "created": 1402945481,
+        "title_id": "718818",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1673315202,
+        "tags": [
+            "venture bros. brothers episode 33 what goes down must come up basement children pete white triad drill 80's vh1"
+        ],
+        "rating_count": 3502,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1673499600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116140559-venture_133_dst_cid-UQXF.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
@@ -3260,7 +3265,7 @@
         "cma_id": "986103"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447781520,
         "auth_expiration_date": 1689825540,
         "tms_id": "EP005604540030",
@@ -3658,6 +3663,62 @@
         "launch_date": 1666238400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414120-venture_601_602_dup_20150108.jpg",
         "cma_id": "1128283"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447781640,
+        "auth_expiration_date": 1672981199,
+        "tms_id": "EP005604540035",
+        "rating": 9.069197,
+        "description": "Bored and under-whelmed with his new Guild-assigned arch-enemies, The Monarch seeks to re-spark his old hatred by secretly visiting the Venture Compound while Dr. Venture is away at the Science Now conference. His passion for arching all things Venture may threaten to seriously cool things with his other love, Dr. Mrs. The Monarch, but does it really count as arching when there's nobody home? Or is there?",
+        "title_suggest": {
+            "input": [
+                "Tears of a Sea Cow",
+                "of a Sea Cow",
+                "a Sea Cow",
+                "Sea Cow",
+                "Cow"
+            ]
+        },
+        "type": "episode",
+        "title": "Tears of a Sea Cow",
+        "expiration_date": 1675313940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1338.47,
+        "episode_number": "8",
+        "original_air_date": 1216611000,
+        "clip_order": null,
+        "auth_launch_date": 1665547200,
+        "modified": 1673315500,
+        "media_id": "a8035ab1962cf2e546950638685c2d795a5b3e0e",
+        "airing_id": "RADS1001092300059284",
+        "id": "xomKvs2AS4-k7AmhSftDLA",
+        "slug": "tears-of-a-sea-cow",
+        "views": 1357330,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116141105-venture_134_dst_cid-UQXH.jpg",
+        "created": 1402945481,
+        "title_id": "718819",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1673315500,
+        "tags": [
+            "venture bros. brothers episode 34 tears of a sea cow dugong monarch girlfriend"
+        ],
+        "rating_count": 4350,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1673499600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116141105-venture_134_dst_cid-UQXH.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
