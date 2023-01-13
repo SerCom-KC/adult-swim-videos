@@ -812,7 +812,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1679630340,
         "tms_id": "",
         "description": "Desperate to stop the approaching monstrosity, the Scouts resort to unconventional tactics before it destroys everything in its path.",
@@ -3202,7 +3202,7 @@
         "cma_id": "1389519"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1679630340,
         "tms_id": "EP019059960053",
@@ -3747,7 +3747,7 @@
         "cma_id": "2117208"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1685678340,
         "tms_id": "EP019059960022",

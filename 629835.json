@@ -106,6 +106,56 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1674190740,
+        "tms_id": "EP002070020182",
+        "description": "Hank is embarrassed when his new driver's license lists him as female; after reviewing the Warren Commission Report, Dale turns pro-America.",
+        "title_suggest": {
+            "input": [
+                "Dale To the Chief",
+                "To the Chief",
+                "the Chief",
+                "Chief"
+            ]
+        },
+        "expiration_date": null,
+        "title": "Dale To the Chief",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1372.2375,
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "episode_number": "5",
+        "original_air_date": 1236396600,
+        "clip_order": null,
+        "auth_launch_date": 1673586000,
+        "modified": 1673378179,
+        "media_id": "02eb65631a8a3b4828c4700cd60f463ede470d77",
+        "airing_id": "RADS1001102300059539",
+        "id": "MMaOlpmFQ0uCxP9DJVUy1w",
+        "slug": "dale-to-the-chief",
+        "views": 1678,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152400144924617.jpg",
+        "created": 1403638043,
+        "season_number": "9",
+        "title_id": "731517",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1673378179,
+        "first_published": 1483344643,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400144924617.jpg",
+        "cma_id": "731517"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1673672340,
         "tms_id": "EP002070020178",
         "description": "Rover Runs Through It, A: Peggy tries to save her family's Montana ranch after actor Henry Winkler refuses to allow cattle on a trail that runs through his property.",
@@ -152,57 +202,6 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400141312812.jpg",
         "cma_id": "731513"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1673585940,
-        "tms_id": "EP002070020177",
-        "rating": 7.636816,
-        "description": "When Bobby ignores Hank's advice and signs up for peer counseling instead of shop class, he ends up dating one of his clients... while another client starts stalking him.",
-        "title_suggest": {
-            "input": [
-                "Talking Shop",
-                "Shop"
-            ]
-        },
-        "type": "episode",
-        "title": "Talking Shop",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1438.7039,
-        "episode_number": "22",
-        "original_air_date": 1236051000,
-        "clip_order": null,
-        "auth_launch_date": 1672981200,
-        "modified": 1672770782,
-        "media_id": "b5ce94218043577b728fc08dda190a2bee1da78e",
-        "airing_id": "RADS1001032300057646",
-        "id": "p-OmSz1OQWyr4qz9J1lCfQ",
-        "slug": "talking-shop",
-        "views": 129798,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152400130751220.jpg",
-        "created": 1402945468,
-        "title_id": "731512",
-        "season_number": "8",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1672770782,
-        "tags": [
-            "king of the hill koth talking shop episode 820"
-        ],
-        "rating_count": 201,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400130751220.jpg",
-        "cma_id": "731512"
     },
     {
         "auth": true,
