@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1673585940,
-        "tms_id": "EP003034830061",
-        "description": "Prodigal sons return to start a competing delivery service that threatens the existence of Planet Express.",
-        "title_suggest": {
-            "input": [
-                "The Route of All Evil",
-                "Route of All Evil",
-                "of All Evil",
-                "All Evil",
-                "Evil"
-            ]
-        },
-        "title": "The Route of All Evil",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1404.9369,
-        "episode_number": "3",
-        "original_air_date": 1067918400,
-        "auth_launch_date": 1672981200,
-        "clip_order": null,
-        "airing_id": "RADS1001032300057648",
-        "media_id": "82b47591357d75a7982f87a4666ba5d0eddbf6cd",
-        "modified": 1672771657,
-        "slug": "the-route-of-all-evil",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/1_225131514179-Futurama_059_TheRouteOfAllEvil.png",
-        "created": 1652449588,
-        "title_id": "442424",
-        "season_number": "5",
-        "tv_rating": "tv-pg-lv",
-        "published": 1672771657,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131514179-Futurama_059_TheRouteOfAllEvil.png",
-        "id": "AYC9q7Nk_0O4w1rD3SL5",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1673672340,
         "tms_id": "EP003034830062",
         "description": "Zoidberg is sentenced to death for eating a flag at a celebration in Washington, D.C.",
@@ -234,6 +186,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/2_225211650145-LeelasHurdles.png",
         "id": "AYDCxJhO_0O4w1rD3SNL",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1674190740,
+        "tms_id": "EP003034830066",
+        "description": "Fry becomes disheartened when Leela gets involved with the mayor's aide.",
+        "title_suggest": {
+            "input": [
+                "The Why of Fry",
+                "Why of Fry",
+                "of Fry",
+                "Fry"
+            ]
+        },
+        "title": "The Why of Fry",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1403.9025,
+        "episode_number": "8",
+        "original_air_date": 1069128000,
+        "auth_launch_date": 1673586000,
+        "clip_order": null,
+        "airing_id": "RADS1001102300059537",
+        "media_id": "f51afd44edb98d5edbe071459f36c7c0b267e52f",
+        "modified": 1673377001,
+        "slug": "the-why-of-fry",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/1_225231323100-WhyFrymin.png",
+        "created": 1652894823,
+        "title_id": "444753",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "published": 1673377001,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_225231323100-WhyFrymin.png",
+        "id": "AYDYNXKz_0O4w1rD3SOO",
         "auth": true
     }
 ]
