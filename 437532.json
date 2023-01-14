@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1673672340,
-        "tms_id": "EP003034830062",
-        "description": "Zoidberg is sentenced to death for eating a flag at a celebration in Washington, D.C.",
-        "title_suggest": {
-            "input": [
-                "A Taste of Freedom",
-                "Taste of Freedom",
-                "of Freedom",
-                "Freedom"
-            ]
-        },
-        "title": "A Taste of Freedom",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1404.4364,
-        "episode_number": "4",
-        "original_air_date": 1068177600,
-        "auth_launch_date": 1673067600,
-        "clip_order": null,
-        "airing_id": "RADS1001052300058098",
-        "media_id": "d3f10d744c4d1f374c5c0659c0fbda8ea53fcecd",
-        "modified": 1672940568,
-        "slug": "a-taste-of-freedom",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/1_225131515181-Futurama_060_ATasteOfFreedom.png",
-        "created": 1652449618,
-        "title_id": "442426",
-        "season_number": "5",
-        "tv_rating": "tv-14",
-        "published": 1672940568,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131515181-Futurama_060_ATasteOfFreedom.png",
-        "id": "AYC9rCu8208s7zyYUM2a",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1673758740,
         "tms_id": "EP003034830063",
         "description": "Amy's romance with Kif Kroker leads to pregnancy.",
@@ -233,6 +186,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_225231323100-WhyFrymin.png",
         "id": "AYDYNXKz_0O4w1rD3SOO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1674277140,
+        "tms_id": "EP003034830067",
+        "description": "Fry, Leela and Bender attempt to collect honey from space bees.",
+        "title_suggest": {
+            "input": [
+                "The Sting",
+                "Sting"
+            ]
+        },
+        "title": "The Sting",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1404.5365,
+        "episode_number": "9",
+        "original_air_date": 1069214400,
+        "auth_launch_date": 1673672400,
+        "clip_order": null,
+        "airing_id": "RADS1001122300060645",
+        "media_id": "6f0ae120c0a9160447aa10fee5a09a58a51a6a17",
+        "modified": 1673548113,
+        "slug": "the-sting",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271019415-Sting.png",
+        "created": 1653072139,
+        "title_id": "444754",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "published": 1673548113,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271019415-Sting.png",
+        "id": "AYDixxaL_0O4w1rD3SPW",
         "auth": true
     }
 ]
