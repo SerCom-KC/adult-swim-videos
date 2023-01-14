@@ -155,56 +155,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1673672340,
-        "tms_id": "EP002070020178",
-        "description": "Rover Runs Through It, A: Peggy tries to save her family's Montana ranch after actor Henry Winkler refuses to allow cattle on a trail that runs through his property.",
-        "title_suggest": {
-            "input": [
-                "A Rover Runs Through It",
-                "Rover Runs Through It",
-                "Runs Through It",
-                "Through It",
-                "It"
-            ]
-        },
-        "title": "A Rover Runs Through It",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1438.804,
-        "episode_number": "1",
-        "original_air_date": 1236223800,
-        "auth_launch_date": 1673067600,
-        "clip_order": null,
-        "modified": 1672939364,
-        "media_id": "6ee271f4908c96edb31bc908662ec7829272e291",
-        "airing_id": "RADS1001052300058067",
-        "id": "jw7XCN1zTMiL6l-oO3o1Lw",
-        "slug": "a-rover-runs-through-it",
-        "views": 1013,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152400141312812.jpg",
-        "created": 1494213046,
-        "title_id": "731513",
-        "tv_rating": "tv-pg",
-        "season_number": "9",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1672939364,
-        "first_published": 1494213046,
-        "tags": [],
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400141312812.jpg",
-        "cma_id": "731513"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1673758740,
         "tms_id": "EP002070020179",
         "rating": 8.8595495,
@@ -250,5 +200,58 @@
         "launch_date": 1481518800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311139188-KingOfTheHill_905_MsWakefield.png",
         "cma_id": "1307939"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1674277140,
+        "tms_id": "EP002070020183",
+        "rating": 6.7058845,
+        "description": "Hank excitedly joins a new military program that allows civilians to adopt pets while G.I.s serve their tour of duty... but the dog, Duke, turns out to be a mean-spirited cat.",
+        "title_suggest": {
+            "input": [
+                "The Petriot Act",
+                "Petriot Act",
+                "Act"
+            ]
+        },
+        "type": "episode",
+        "title": "The Petriot Act",
+        "expiration_date": 1495456199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1440.439,
+        "episode_number": "6",
+        "original_air_date": 1236576600,
+        "clip_order": null,
+        "auth_launch_date": 1673672400,
+        "modified": 1673549347,
+        "media_id": "bd3edca5f49a769f9996b842e3d9c9aa70476dbc",
+        "airing_id": "RADS1001122300060647",
+        "id": "zr1EVqzxSQW1uCZ9HHFZGw",
+        "slug": "the-petriot-act",
+        "views": 151869,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15245851972007.jpg",
+        "created": 1402945468,
+        "title_id": "731518",
+        "season_number": "9",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1673549347,
+        "tags": [
+            "king of the hill koth petriot act episode 6"
+        ],
+        "rating_count": 238,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1494851400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15245851972007.jpg",
+        "cma_id": "731518"
     }
 ]
