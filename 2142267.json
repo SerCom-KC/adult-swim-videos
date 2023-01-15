@@ -181,5 +181,52 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230106/thumbnails/2_2316164206-myhereoacademia117Still002tiny.png",
         "id": "AYWIKcw34k01GlbfzrX3",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1675585740,
+        "tms_id": "EP034435300123",
+        "description": "After reinforcements finally arrive, the tide is just starting to turn in the heroes' favor when Shigaraki wakes up.",
+        "title_suggest": {
+            "input": [
+                "The Thrill of Destruction",
+                "Thrill of Destruction",
+                "of Destruction",
+                "Destruction"
+            ]
+        },
+        "title": "The Thrill of Destruction",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1351.5836,
+        "episode_number": "5",
+        "original_air_date": 1673758800,
+        "auth_launch_date": 1673771400,
+        "clip_order": null,
+        "airing_id": "RADS1001132300061055",
+        "media_id": "d3170fd737358c38f77edbe568308c8d9a43d235",
+        "modified": 1673650884,
+        "slug": "the-thrill-of-destruction",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230113/thumbnails/1_23113181113-myheroacademia118tiny.png",
+        "created": 1673636977,
+        "title_id": "2417780",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1673650884,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230113/thumbnails/2_23113181113-myheroacademia118tiny.png",
+        "id": "AYWsiZnLuLQD-MTtYfjI",
+        "auth": true
     }
 ]
