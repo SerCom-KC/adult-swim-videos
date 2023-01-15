@@ -515,6 +515,53 @@
     },
     {
         "auth_expiration_date": 1705899540,
+        "tms_id": "EP034917240384",
+        "description": "The Hidden Leaf begin preparing for the Chunin Exams. Tsunade orders Kakashi to personally deliver an invitation to the Hidden Rain Village and, at the same time, gather intel.",
+        "title_suggest": {
+            "input": [
+                "The Chunin Exams Begin!",
+                "Chunin Exams Begin!",
+                "Exams Begin!",
+                "Begin!"
+            ]
+        },
+        "title": "The Chunin Exams Begin!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1311.3434,
+        "episode_number": "47",
+        "original_air_date": "1655618400",
+        "auth_launch_date": 1673778600,
+        "clip_order": null,
+        "airing_id": "RADS1001142300061178",
+        "media_id": "0cb9c87b4e7fbee1a6468be8568565ec56df47c2",
+        "modified": 1673714874,
+        "slug": "the-chunin-exams-begin",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/1_226151056144-NarutoShippuden_395_TheChuninExamsBegin.png",
+        "created": 1655304984,
+        "season_number": "7",
+        "title_id": "2177825",
+        "tv_rating": "tv-pg",
+        "published": 1673714874,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151056144-NarutoShippuden_395_TheChuninExamsBegin.png",
+        "id": "AYFn3ZiL_0O4w1rD3SYm",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1705899540,
         "tms_id": "EP034917240385",
         "description": "The Chunin Exams finally begin and the proctor for Round One is none other than Shikamaru!",
         "title_suggest": {
@@ -1447,6 +1494,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230106/thumbnails/2_23161645493-narutoshippuden423Still001tiny.png",
         "id": "AYWIKXvd4k01GlbfzrX2",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1706158740,
+        "tms_id": "EP034917240427",
+        "description": "Naruto has been revived and has acquired the Six Paths power. He rushes in to help, and his battle against Madara begins.",
+        "title_suggest": {
+            "input": [
+                "To Rise Up",
+                "Rise Up",
+                "Up"
+            ]
+        },
+        "title": "To Rise Up",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1311.4768,
+        "episode_number": "8",
+        "original_air_date": 1673766000,
+        "auth_launch_date": 1673778600,
+        "clip_order": null,
+        "airing_id": "RADS1001132300061063",
+        "media_id": "6775e5576097c8ecc24818a4138b9e6e805538c0",
+        "modified": 1673650973,
+        "slug": "to-rise-up",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230113/thumbnails/1_23113182319-narutoshippden424tiny.png",
+        "created": 1673637424,
+        "title_id": "2177854",
+        "season_number": "8",
+        "tv_rating": "tv-pg-v",
+        "published": 1673650973,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230113/thumbnails/2_23113182319-narutoshippden424tiny.png",
+        "id": "AYWskG0d4k01GlbfzrX9",
         "auth": true
     }
 ]
