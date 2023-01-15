@@ -514,6 +514,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1705899540,
+        "tms_id": "EP034917240385",
+        "description": "The Chunin Exams finally begin and the proctor for Round One is none other than Shikamaru!",
+        "title_suggest": {
+            "input": [
+                "The Three Questions",
+                "Three Questions",
+                "Questions"
+            ]
+        },
+        "title": "The Three Questions",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1311.677,
+        "episode_number": "48",
+        "original_air_date": "1655620200",
+        "auth_launch_date": 1673776800,
+        "clip_order": null,
+        "airing_id": "RADS1001142300061180",
+        "media_id": "f8c29d50fc37960990cefe53b54c368c2b933d43",
+        "modified": 1673714280,
+        "slug": "the-three-questions",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/1_226151056569-NarutoShippuden_396_TheThreeQuestions.png",
+        "created": 1655305026,
+        "season_number": "7",
+        "title_id": "2177826",
+        "tv_rating": "tv-pg",
+        "published": 1673714280,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151056569-NarutoShippuden_396_TheThreeQuestions.png",
+        "id": "AYFn3jrL208s7zyYUNIj",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1675592940,
         "tms_id": "EP034917240388",
         "description": "The Second Exam finally begins! To pass this stage, each team must take possession of both the Heaven and Earth scrolls and make it to the designated site in the center of the Demon Desert within 72 hours.",
