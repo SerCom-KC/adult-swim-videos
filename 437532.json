@@ -1,5 +1,54 @@
 [
     {
+        "auth_expiration_date": 1673758740,
+        "tms_id": "EP003034830063",
+        "description": "Amy's romance with Kif Kroker leads to pregnancy.",
+        "title_suggest": {
+            "input": [
+                "Kif Gets Knocked Up a Notch",
+                "Gets Knocked Up a Notch",
+                "Knocked Up a Notch",
+                "Up a Notch",
+                "a Notch",
+                "Notch"
+            ]
+        },
+        "title": "Kif Gets Knocked Up a Notch",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.768,
+        "episode_number": "5",
+        "original_air_date": 1068004800,
+        "auth_launch_date": 1673154000,
+        "clip_order": null,
+        "airing_id": "RADS1001052300058176",
+        "media_id": "bddd83c708abf6af4f0bfabce9a549816e9f07cf",
+        "modified": 1672958399,
+        "slug": "kif-gets-knocked-up-a-notch",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/1_22513151615-Futurama_061_KifGetsKnockedUpANotch.png",
+        "created": 1652451324,
+        "title_id": "442425",
+        "season_number": "5",
+        "tv_rating": "tv-14",
+        "published": 1672958399,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151615-Futurama_061_KifGetsKnockedUpANotch.png",
+        "id": "AYC9xjJd_0O4w1rD3SL-",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1673845140,
         "tms_id": "EP003034830064",
         "description": "Fry, Leela and Bender develop superhuman powers and fight crime in the Big Apple.",
@@ -182,52 +231,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271019415-Sting.png",
         "id": "AYDixxaL_0O4w1rD3SPW",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1674363540,
-        "tms_id": "EP003034830068",
-        "description": "The professor conducts an experiment which hurls Leela into a parallel universe.",
-        "title_suggest": {
-            "input": [
-                "The Farnsworth Parabox",
-                "Farnsworth Parabox",
-                "Parabox"
-            ]
-        },
-        "title": "The Farnsworth Parabox",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.133,
-        "episode_number": "10",
-        "original_air_date": 1069732800,
-        "auth_launch_date": 1673758800,
-        "clip_order": null,
-        "airing_id": "RADS1001132300061064",
-        "media_id": "7a0c2194238997ddcab01f691c174819a8ec3ec9",
-        "modified": 1673643535,
-        "slug": "the-farnsworth-parabox",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271218371-Futurama_066_TheFarnsworthParabox.png",
-        "created": 1653317256,
-        "title_id": "444757",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1673643535,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271218371-Futurama_066_TheFarnsworthParabox.png",
-        "id": "AYDxY0Yq_0O4w1rD3SQu",
         "auth": true
     }
 ]
