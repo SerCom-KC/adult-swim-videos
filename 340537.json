@@ -1105,61 +1105,6 @@
         "cma_id": "1348687"
     },
     {
-        "auth": false,
-        "ott_launch_date": 1445972280,
-        "auth_expiration_date": 1673910931,
-        "tms_id": "EP004662930089",
-        "rating": 8.558925,
-        "description": "Frylock takes up some side work, and it's for the kids.",
-        "title_suggest": {
-            "input": [
-                "Der Inflatable Fuhrer",
-                "Inflatable Fuhrer",
-                "Fuhrer"
-            ]
-        },
-        "type": "episode",
-        "title": "Der Inflatable Fuhrer",
-        "expiration_date": 1674622740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 674.4337671,
-        "episode_number": "9",
-        "original_air_date": 1243223100,
-        "clip_order": null,
-        "auth_launch_date": 1666238400,
-        "modified": 1673910961,
-        "media_id": "7fb2de93a9a90d4ad9b31ec17f9884deb3b6034a",
-        "airing_id": "RADS1001162300061486",
-        "id": "AH2vEQ6RQam0Ik_VFHtlZA",
-        "slug": "der-inflatable-fuhrer",
-        "views": 797867,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_20225952185-athf_087_BIM.jpg",
-        "created": 1402945461,
-        "title_id": "747312",
-        "season_number": "6",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1673910961,
-        "tags": [
-            "aqua teen hunger force athf episode 87 der inflatable fuhrer hitler balloon virus"
-        ],
-        "rating_count": 2011,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1674018000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225952185-athf_087_BIM.jpg",
-        "cma_id": "1434889"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1444943400,
         "auth_expiration_date": 1673931540,
@@ -3523,65 +3468,6 @@
         "launch_date": 1668574800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241710431-athf_061_BIM.jpg",
         "cma_id": "1332641"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1445972340,
-        "auth_expiration_date": 1674104340,
-        "tms_id": "EP004662930111",
-        "rating": 7.327931,
-        "description": "A very special live-action episode of Aqua Teen Hunger Force featuring T-Pain, H. Jon Benjamin, a large exercise ball, and a guy we hired to play Carl.",
-        "title_suggest": {
-            "input": [
-                "The Last Last One Forever and Ever",
-                "Last Last One Forever and Ever",
-                "Last One Forever and Ever",
-                "One Forever and Ever",
-                "Forever and Ever",
-                "and Ever",
-                "Ever"
-            ]
-        },
-        "type": "episode",
-        "title": "The Last Last One Forever and Ever",
-        "expiration_date": 1590551999,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 699.2669336,
-        "episode_number": "10",
-        "original_air_date": 1243827900,
-        "clip_order": null,
-        "auth_launch_date": 1666238400,
-        "modified": 1666026154,
-        "media_id": "7117cbdca59d8a2cf942b560ec0bbb5e7fd805df",
-        "airing_id": "RADS1010172200037128",
-        "id": "SV8-ed0vR_qd0SLKPMwcEQ",
-        "slug": "the-last-last-one-forever-and-ever",
-        "views": 883971,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_20225953408-athf_088_BIM.jpg",
-        "created": 1402945461,
-        "title_id": "747313",
-        "season_number": "6",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1666026154,
-        "tags": [
-            "aqua teen hunger force athf episode 88 last last one forever and ever"
-        ],
-        "rating_count": 2900,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1543208400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225953408-athf_088_BIM.jpg",
-        "cma_id": "1439007"
     },
     {
         "auth": true,
@@ -6128,7 +6014,7 @@
         },
         "type": "episode",
         "title": "A PE Christmas",
-        "expiration_date": 1590551999,
+        "expiration_date": 1674622740,
         "platforms": [
             "web",
             "mobile",
@@ -6140,9 +6026,9 @@
         "original_air_date": 1260765900,
         "clip_order": null,
         "auth_launch_date": 1666324800,
-        "modified": 1666032853,
+        "modified": 1673911167,
         "media_id": "ba8fd2e4ac0dc4c8cb42b89cc5670b2a4bc95f6e",
-        "airing_id": "RADS1010172200037264",
+        "airing_id": "RADS1001162300061490",
         "id": "qOkkG0QzRWOm3JrK5AZR_A",
         "slug": "a-pe-christmas",
         "views": 914561,
@@ -6155,7 +6041,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1666032853,
+        "published": 1673911167,
         "tags": [
             "aqua teen hunger force",
             "athf",
@@ -6169,7 +6055,7 @@
         "collection_title": "Aqua Teen Hunger Force",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1543208400,
+        "launch_date": 1674018000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225956597-athf_094_BIM.jpg",
         "cma_id": "1467092"
     },
