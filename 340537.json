@@ -1105,9 +1105,9 @@
         "cma_id": "1348687"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445972280,
-        "auth_expiration_date": 1674104340,
+        "auth_expiration_date": 1673910931,
         "tms_id": "EP004662930089",
         "rating": 8.558925,
         "description": "Frylock takes up some side work, and it's for the kids.",
@@ -1120,7 +1120,7 @@
         },
         "type": "episode",
         "title": "Der Inflatable Fuhrer",
-        "expiration_date": 1590551999,
+        "expiration_date": 1674622740,
         "platforms": [
             "web",
             "mobile",
@@ -1132,9 +1132,9 @@
         "original_air_date": 1243223100,
         "clip_order": null,
         "auth_launch_date": 1666238400,
-        "modified": 1666025576,
-        "media_id": "e734d5e88b93240befa2d333055788f0e45e140e",
-        "airing_id": "RADS1010172200037126",
+        "modified": 1673910961,
+        "media_id": "7fb2de93a9a90d4ad9b31ec17f9884deb3b6034a",
+        "airing_id": "RADS1001162300061486",
         "id": "AH2vEQ6RQam0Ik_VFHtlZA",
         "slug": "der-inflatable-fuhrer",
         "views": 797867,
@@ -1147,7 +1147,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1666025576,
+        "published": 1673910961,
         "tags": [
             "aqua teen hunger force athf episode 87 der inflatable fuhrer hitler balloon virus"
         ],
@@ -1155,7 +1155,7 @@
         "collection_title": "Aqua Teen Hunger Force",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1543208400,
+        "launch_date": 1674018000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225952185-athf_087_BIM.jpg",
         "cma_id": "1434889"
     },
@@ -2084,63 +2084,6 @@
         "launch_date": 1624420800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251038376-asykw_1108_dup-20120809.jpg",
         "cma_id": "1435681"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1445972280,
-        "auth_expiration_date": 1673910701,
-        "tms_id": "EP004662930112",
-        "rating": 8.211687,
-        "description": "The trio is offered a great deal on their lawn service.",
-        "title_suggest": {
-            "input": [
-                "2-and-a-Half-Star Wars Out Of Five",
-                "Wars Out Of Five",
-                "Out Of Five",
-                "Of Five",
-                "Five"
-            ]
-        },
-        "type": "episode",
-        "title": "2-and-a-Half-Star Wars Out Of Five",
-        "expiration_date": 1590551999,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 695.5338672,
-        "episode_number": "7",
-        "original_air_date": 1242013500,
-        "clip_order": null,
-        "auth_launch_date": 1666238400,
-        "modified": 1673910708,
-        "media_id": "9b1e68d51d57edb60b6464c69ba90bd54d2d60d0",
-        "airing_id": "RADS1010172200037122",
-        "id": "EHMtuk2mQmWFQ9fg8uzSTg",
-        "slug": "2-and-a-half-star-wars-out-of-five",
-        "views": 818038,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_20225951150-athf_085_BIM.jpg",
-        "created": 1402945461,
-        "title_id": "747310",
-        "season_number": "6",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1673910708,
-        "tags": [
-            "athf aqua teen hunger force episode 85 two and a half star wars out of five lawn mower drew wookie werewolf"
-        ],
-        "rating_count": 1866,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": 1543208400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225951150-athf_085_BIM.jpg",
-        "cma_id": "1428599"
     },
     {
         "auth": true,
@@ -4591,60 +4534,6 @@
         "launch_date": 1626876000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251043209-atvss_1202_dup-20130816.jpg",
         "cma_id": "1457377"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1445972280,
-        "auth_expiration_date": 1674104340,
-        "tms_id": "EP004662930088",
-        "rating": 8.089069,
-        "description": "Frylock falls for a girl and like most men in love, begins acting insane.",
-        "title_suggest": {
-            "input": [
-                "Fry Legs",
-                "Legs"
-            ]
-        },
-        "type": "episode",
-        "title": "Fry Legs",
-        "expiration_date": 1590551999,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 688.8341675,
-        "episode_number": "8",
-        "original_air_date": 1242618300,
-        "clip_order": null,
-        "auth_launch_date": 1666238400,
-        "modified": 1666024652,
-        "media_id": "b3a4bce6658cc173f777a1bd6d9e421ce3c2872b",
-        "airing_id": "RADS1010172200037125",
-        "id": "_uKY2-GpQ8C3wC7EPRgdlQ",
-        "slug": "fry-legs",
-        "views": 691510,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_20225951495-athf_086_BIM.jpg",
-        "created": 1402945461,
-        "title_id": "747311",
-        "season_number": "6",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1666024652,
-        "tags": [
-            "aqua teen hunger force athf episode 86 fry legs love frylock girlfriend robot"
-        ],
-        "rating_count": 1538,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1543208400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225951495-athf_086_BIM.jpg",
-        "cma_id": "1430523"
     },
     {
         "auth": true,
