@@ -97,6 +97,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1660017540,
+        "tms_id": "EP007542790037",
+        "description": "Picking up from INVICTUS episode, Mouse finds himself without memory and in a new world called Lotharganin where he meets Aria and Professor Wilx; two top scientists from the Outer Earth who worked with Shyd Industries.",
+        "title_suggest": {
+            "input": [
+                "First 12",
+                "12"
+            ]
+        },
+        "title": "First 12",
+        "expiration_date": 1676955540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "4187UTxoQACKlt3B24ioQA",
+        "duration": 675.0744,
+        "episode_number": "1",
+        "original_air_date": "1595304000",
+        "auth_launch_date": 1656993600,
+        "clip_order": null,
+        "airing_id": "RADS1001162300061320",
+        "media_id": "24da799a938fb57edc2e28f049ed0e976ff22ef6",
+        "modified": 1673839730,
+        "slug": "first-12",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200716/thumbnails/1_20716106317-12oz_301_dup-20200625.jpg",
+        "created": 1594908396,
+        "season_number": "3",
+        "title_id": "2224137",
+        "tv_rating": "tv-14-lv",
+        "published": 1673839730,
+        "tags": [],
+        "collection_title": "12 oz Mouse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1673931600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200716/thumbnails/2_20716106317-12oz_301_dup-20200625.jpg",
+        "id": "AXNX8soURs3h4hI_X4Tx",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": 1451670060,
         "auth_expiration_date": 1657598340,
@@ -263,7 +308,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451670060,
         "auth_expiration_date": 1676955540,
         "tms_id": "EP007542790017",
@@ -377,62 +422,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1668488400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220121512-12oz_014_BIM_9385130.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451669820,
-        "auth_expiration_date": 1673931540,
-        "tms_id": "EP007542790013",
-        "rating": 6.5448027,
-        "description": "Mouse Fitzgerald starts dating a wonderful new girl, and paints her portrait for free.  Fitz gets his heart broken when the girl dumps him as soon as the painting is done.",
-        "title_suggest": {
-            "input": [
-                "Auraphull"
-            ]
-        },
-        "type": "episode",
-        "title": "Auraphull",
-        "expiration_date": 1670907540,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "4187UTxoQACKlt3B24ioQA",
-        "duration": 689.32,
-        "episode_number": "6",
-        "original_air_date": 1162187100,
-        "clip_order": null,
-        "auth_launch_date": 1670907600,
-        "modified": 1670844162,
-        "media_id": "4e417105f2f80ae35cd3de108f4aa71c11699d80",
-        "airing_id": "RADS1012112200050844",
-        "id": "lfsEdPYHQqqpfo7xW9M9QQ",
-        "slug": "auraphull",
-        "views": 118194,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/1_20220121341-12oz_013_BIM_9381889.jpg",
-        "created": 1402945460,
-        "title_id": "651323",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1670844162,
-        "tags": [
-            "season 2",
-            "episode 13"
-        ],
-        "rating_count": 558,
-        "collection_title": "12 oz. Mouse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1667883600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220121341-12oz_013_BIM_9381889.jpg",
         "cma_id": ""
     },
     {
