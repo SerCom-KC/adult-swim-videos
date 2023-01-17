@@ -78,7 +78,7 @@
         "original_air_date": 1214796600,
         "clip_order": null,
         "auth_launch_date": 1674104400,
-        "modified": 1673981641,
+        "modified": 1673999226,
         "media_id": "c54ccb217df7c39678b900c5e7f0c365b9661248",
         "airing_id": "RADS1001172300061971",
         "id": "0x8jUmn8RyCiX9zRvvYkRQ",
@@ -92,7 +92,7 @@
         "tv_rating": "tv-14-dlv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1673981641,
+        "published": 1673999226,
         "tags": [
             "venture bros brothers episode 30 buddy system rusty day camp boy adventurers"
         ],
@@ -188,9 +188,9 @@
         "original_air_date": 1458532800,
         "clip_order": null,
         "auth_launch_date": 1674104400,
-        "modified": 1673981953,
+        "modified": 1673999214,
         "media_id": "090ff3a4fb95c98ae74ffab3552d3a7b0cc3b69e",
-        "airing_id": "RADS1001172300061980",
+        "airing_id": "RADS1012122200051282",
         "id": "4a3jl7N6QxS-QFafuGcndA",
         "slug": "red-means-stop",
         "views": 42955,
@@ -203,7 +203,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1673981953,
+        "published": 1673999214,
         "first_published": 1458198635,
         "tags": [],
         "collection_title": "The Venture Bros.",
@@ -1143,6 +1143,61 @@
         "cma_id": "1175806"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447781640,
+        "auth_expiration_date": 1674104399,
+        "tms_id": "EP005604540036",
+        "rating": 9.247674,
+        "description": "Determined to honor the father he never knew, Jonas, Jr. converts Spider Skull Island into a Team Venture Museum.  Unfortunately, he invited all of his father's surviving friends and enemies to the grand opening. \r\nThere's nothing like a party to stir up decades worth of sibling rivalries, bitter regrets and half-forgotten hatreds.",
+        "title_suggest": {
+            "input": [
+                "Now Museum--Now You Don't",
+                "Museum--Now You Don't",
+                "You Don't",
+                "Don't"
+            ]
+        },
+        "type": "episode",
+        "title": "Now Museum--Now You Don't",
+        "expiration_date": 1675313940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1338.07,
+        "episode_number": "9",
+        "original_air_date": 1217215800,
+        "clip_order": null,
+        "auth_launch_date": 1672981259,
+        "modified": 1673999224,
+        "media_id": "20de8c29f6060c6a972372b4539b48839093a763",
+        "airing_id": "RADS1001052300057986",
+        "id": "EWnaS7unRByuRVHapkE9rw",
+        "slug": "now-museum-now-you-dont",
+        "views": 1341267,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_211614545-venture_135_dst_cid-URYR.jpg",
+        "created": 1402945481,
+        "title_id": "718820",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1673999224,
+        "tags": [
+            "venture bros. brothers episode 35 now museum now you don't jonas j.j. spider skull island pirate captain"
+        ],
+        "rating_count": 3359,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1674104400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211614545-venture_135_dst_cid-URYR.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": false,
         "ott_launch_date": 1447781520,
         "auth_expiration_date": 1689825540,
@@ -1173,9 +1228,9 @@
         "original_air_date": 1214191800,
         "clip_order": null,
         "auth_launch_date": 1674104400,
-        "modified": 1673981597,
+        "modified": 1673999226,
         "media_id": "bfe24211fc09b146f350c9924d6ea3461d1c61b8",
-        "airing_id": "RADS1001172300061969",
+        "airing_id": "RADS1012262200056375",
         "id": "G03GVuVSQhaSUDdtWDt7tA",
         "slug": "home-is-where-the-hate-is",
         "views": 1458927,
@@ -1187,7 +1242,7 @@
         "tv_rating": "tv-14-dlv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1673981597,
+        "published": 1673999226,
         "tags": [
             "venture bros. brothers episode 37 home is where the hate is monarch sgt. hatred girlfriend moppets charades suburbs"
         ],
@@ -1306,6 +1361,59 @@
         "launch_date": 1666843200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414449-venture_603_dup_20151208.jpg",
         "cma_id": "1163119"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447781760,
+        "auth_expiration_date": 1674104399,
+        "tms_id": "EP005604540037",
+        "rating": 8.827623,
+        "description": "The Monarch launches his first attack on his new arch nemesis, the other Dr. Venture.  But Jonas has the formidable defenses of Spider-Skull Island on his side, as well as his own Team Venture, and the expert advice of a trio of O.S.I. \"butterfly specialists.\" It will take a loose reading of the Guild handbook, an insertion team of his three best henchmen, and all the diabolical chicanery The Monarch can muster to even the playing field.",
+        "title_suggest": {
+            "input": [
+                "The Lepidopterists",
+                "Lepidopterists"
+            ]
+        },
+        "type": "episode",
+        "title": "The Lepidopterists",
+        "expiration_date": 1675918740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1305,
+        "episode_number": "10",
+        "original_air_date": 1217820600,
+        "clip_order": null,
+        "auth_launch_date": 1672981259,
+        "modified": 1673999225,
+        "media_id": "ac47c81424d41cb3a2ee71d633d4a4f12ee5623b",
+        "airing_id": "RADS1001172300061975",
+        "id": "IzlPG37jT76B9k6rgAN0PA",
+        "slug": "the-lepidopterists",
+        "views": 1854657,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116145178-venture_136_dst_cid-URZA.jpg",
+        "created": 1402945479,
+        "title_id": "718821",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1673999225,
+        "tags": [
+            "venture bros. brothers episode 36 lepidopterists doe cardholder j.j. monarch arch nemesis jonas"
+        ],
+        "rating_count": 4693,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1674104400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116145178-venture_136_dst_cid-URZA.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
