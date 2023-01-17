@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 17, 2023 at 14:00:29 EST_
+_Last Update: January 17, 2023 at 14:30:27 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-439722 The Venture Bros.: 1  
-### 2165021
-**The Venture Bros. S07E05 - The Inamorata Consequence**  
-TV-14-DLSV 🔒 22:34  
-⌛ January 18, 2023 at 23:59:59 EST  
-https://www.adultswim.com/videos/the-venture-bros/the-inamorata-consequence  
-seriesid=`439722` titleid=`2165021` id=`AWPLRfSoqBveI_0AhKZM` mediaid=`195e321d8742ed5076fc0d65394c67af8ac4f0d3`  
-_The Venture family returns to their old compound where intrigue, danger, jackets, and diplomacy await._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153555263164312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153555263164312.jpg" height="144px" /></a>
+2161118 Joe Pera Talks With You: 1  
+### 2298523
+**Joe Pera Talks With You S03E07 - Joe Pera Shows You How to Keep Functioning in Mid-Late Winter**  
+TV-14-L 🔒 11:15  
+⌛ January 18, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-shows-you-how-to-keep-functioning-in-mid-late-winter  
+seriesid=`2161118` titleid=`2298523` id=`AX2Ay_IbUQa40cfnRS17` mediaid=`24006dce8672fecfef960d863bb7b1c2a4421885`  
+_Joe Pera shows you how to stay busy enough on a winter weekend that the winter won't settle inside._  
+<a href="https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123956124-JoePeraTalksWithYou_307_JoePeraShowsYouHowToKeepFunctioningInMidLateWinter.png"><img src="https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123956124-JoePeraTalksWithYou_307_JoePeraShowsYouHowToKeepFunctioningInMidLateWinter.png" height="144px" /></a>
