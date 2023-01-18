@@ -1,7 +1,6 @@
 {
-    "updated": 1674061240,
-    "added": [],
-    "removed": [
+    "updated": 1674064839,
+    "added": [
         {
             "ott_launch_date": 1544455800,
             "auth_expiration_date": 1672376340,
@@ -30,9 +29,9 @@
             "original_air_date": 1544418000,
             "auth_launch_date": 1669352400,
             "clip_order": null,
-            "airing_id": "RADS1011222200046313",
+            "airing_id": "RADS1012241800055970",
             "media_id": "046eec3ea2da2d48e4721c90b684470190682d86",
-            "modified": 1669159733,
+            "modified": 1674063653,
             "slug": "the-nurple-rainbow",
             "exclude_from_search": false,
             "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15441359233745.jpg",
@@ -42,7 +41,7 @@
             "tv_rating": "tv-ma-sv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1669159733,
+            "published": 1674063653,
             "tags": [],
             "collection_title": "The Shivering Truth",
             "modified_by": "ODT Listener",
@@ -54,5 +53,6 @@
             "collection_title_id": "2165429",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
