@@ -1767,7 +1767,7 @@
         "cma_id": "1352293"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784340,
         "auth_expiration_date": 1677041940,
         "tms_id": "EP008994530022",
@@ -2215,59 +2215,6 @@
         "launch_date": 1667361600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161518118-timanderic_207.jpg",
         "cma_id": "1309446"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447784100,
-        "auth_expiration_date": 1674017940,
-        "tms_id": "EP008994530016",
-        "rating": 7.6774297,
-        "description": "Eric gives Tim a Robin. A Dad and his father spend a quiet moment in the hallway. (Will Forte, Rainn Wilson, Dave Navarro)",
-        "title_suggest": {
-            "input": [
-                "Robin"
-            ]
-        },
-        "type": "episode",
-        "title": "Robin",
-        "expiration_date": 1670993940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
-        "duration": 706.006,
-        "episode_number": "6",
-        "original_air_date": 1199682900,
-        "clip_order": null,
-        "auth_launch_date": 1670994000,
-        "modified": 1670862470,
-        "media_id": "d03e6e37fb3ca427f3a78f167c6746a4f38680ad",
-        "airing_id": "RADS1012122200050922",
-        "id": "o9FuVEw7TYaJfjBYdCxEbQ",
-        "slug": "robin",
-        "views": 444586,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_211616823-timanderic_206.jpg",
-        "created": 1402945482,
-        "title_id": "691942",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1670862470,
-        "tags": [
-            "time and eric awesome show great job episode 16 robin will forte rainn wilson dave navarro father"
-        ],
-        "rating_count": 2911,
-        "collection_title": "Tim and Eric Awesome Show Great Job!",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1667970000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211616823-timanderic_206.jpg",
-        "cma_id": "1305145"
     },
     {
         "auth": true,
