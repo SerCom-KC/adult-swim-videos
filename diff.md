@@ -2,50 +2,74 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 18, 2023 at 23:00:26 EST_
+_Last Update: January 18, 2023 at 23:30:25 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-581268 Squidbillies: 2  
-798427 Check It Out! with Dr. Steve Brule: 3  
-### 626849
-**Squidbillies S01E02 - Take This Job And Love It**  
-TV-14-LSV 🔒 11:17  
+2143080 Black Clover: 1  
+608360 Robot Chicken: 7  
+### 2216641
+**Black Clover S03E03 - Smiles, Tears**  
+TV-PG 🔒 21:33  
 ⌛ January 20, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/take-this-job-and-love-it  
-seriesid=`581268` titleid=`626849` id=`JDZOvlIjSVe_hrWtQSm4Xg` mediaid=`f080105d89bf682d8b3bfdc30fd7195dea32553d`  
-_Early seeks employment in a difficult job market._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611427-squidbillies_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611427-squidbillies_002.jpg" height="144px" /></a>
-### 626853
-**Squidbillies S01E06 - Office Politics Trouble**  
-TV-14-DL 🔒 11:29  
+https://www.adultswim.com/videos/black-clover/smiles-tears  
+seriesid=`2143080` titleid=`2216641` id=`AXARvEdO3HMJfT8do8I6` mediaid=`23747cf67cfcefdba8313de8215cabaeadcef76b`  
+_Asta and friends stop by the ruined Black Bulls hideout to check in with their squadmates before pursuing the reincarnated elves to the royal capital._  
+<a href="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241446528-BlackClover_105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200204/thumbnails/2_20241446528-BlackClover_105.jpg" height="144px" /></a>
+### 2020469
+**Robot Chicken S07E14 - Walking Dead Lobster**  
+TV-MA 🔒 11:18  
 ⌛ January 20, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/office-politics-trouble  
-seriesid=`581268` titleid=`626853` id=`XXfr1n2ITnqvUKd_kGcLtg` mediaid=`6b27b7e7f6d2e83f4cfb1aa9071f3c1abde5623a`  
-_Early concocts a popular new beverage._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612597-squidbillies_006.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612597-squidbillies_006.jpg" height="144px" /></a>
-### 887730
-**Check It Out! with Dr. Steve Brule S02E02 - Pleasure**  
-TV-14-DL 🔒 11:15  
+https://www.adultswim.com/videos/robot-chicken/walking-dead-lobster  
+seriesid=`608360` titleid=`2020469` id=`1u6ML1gtT8W2IuAmLTJ1Ug` mediaid=`3808d88cd23dc1290ba2001c5151fd80b8f783b1`  
+_The RC dreamers send Kim Possible on a mission to North Korea, worthless Beanie Babies end up turning a man's life around, and the Robot Chicken Nerd has his greatest adventure yet...with Doctor Who!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046128175-robotchicken_134_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046128175-robotchicken_134_dup.jpg" height="144px" /></a>
+### 2020462
+**Robot Chicken S07E07 - Snarfer Image**  
+TV-MA 🔒 11:16  
 ⌛ January 20, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/pleasure  
-seriesid=`798427` titleid=`887730` id=`B8vKIZCnSo2bYeTzGYpYBA` mediaid=`a0cd436f5ddeb7cca10e2807b39adcb693b3f3be`  
-_Dr. Steve seeks pleasure in all its forms. Brown watches him. Manager of Bottoms Up promotes Bottoms Up._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321555495-checkitout_203_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321555495-checkitout_203_bim.jpg" height="144px" /></a>
-### 887728
-**Check It Out! with Dr. Steve Brule S02E01 - Boats**  
-TV-14 🔒 10:57  
+https://www.adultswim.com/videos/robot-chicken/snarfer-image  
+seriesid=`608360` titleid=`2020462` id=`EXCs3tcXSU2soOEtdwkTNg` mediaid=`d082dc8708308de5faeba5377dfe004b2b11b1f0`  
+_The RC gang thought the drift in Pacific Rim could use a little reworking, the future is revealed to kinda suck for Looney Tunes characters in Looper, Voltron gets a new number, and Skeletor takes a trip back through time to rid himself of He-Man once and for all._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123142-robotchicken_127-708_dup-20140508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123142-robotchicken_127-708_dup-20140508.jpg" height="144px" /></a>
+### 2020467
+**Robot Chicken S07E12 - Noidstrom Rack**  
+TV-MA 🔒 11:16  
 ⌛ January 20, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/boats  
-seriesid=`798427` titleid=`887728` id=`XQ_K104dSMClqoF193IqiQ` mediaid=`510037419c9e29e5acf71a42120cf2f04a943878`  
-_Dr. Steve dines on seafood and hides his wallet from a pirate. Carol Krabit reports on the weather._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321553308-checkitout_201_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321553308-checkitout_201_bim.jpg" height="144px" /></a>
-### 887729
-**Check It Out! with Dr. Steve Brule S02E03 - Money**  
-TV-14-L 🔒 10:59  
+https://www.adultswim.com/videos/robot-chicken/noidstrom-rack  
+seriesid=`608360` titleid=`2020467` id=`O8edldILRwuJxYY4gNHoGg` mediaid=`f23bd25a2c7f0767e55bd695eb342e7580f86c0b`  
+_Man-E-Faces gets a shot at stardom from the minds behind Robot Chicken, the Starcom boys show NASA how it's done, we get a look at what goes on behind the scenes of Medieval Times when the costumes come off, and the consequences of wishing on a Zoltar machine._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046126407-robotchicken_132_dup-20140617.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046126407-robotchicken_132_dup-20140617.jpg" height="144px" /></a>
+### 2020468
+**Robot Chicken S07E13 - Stone Cold Steve Cold Stone**  
+TV-MA 🔒 11:09  
 ⌛ January 20, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/money  
-seriesid=`798427` titleid=`887729` id=`jHGH8DqPT8OMTRvj7fcaSw` mediaid=`4119b2b9743c901b8f7346e079bf0052fa5d897c`  
-_Dr. Steve gets career advice and goes gambling. Doug Prishpreed gives a sports update._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321557284-checkitout_202_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321557284-checkitout_202_bim.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/robot-chicken/stone-cold-steve-cold-stone  
+seriesid=`608360` titleid=`2020468` id=`d8uB_AE-Q0WeK8ViFAusYQ` mediaid=`b8e9011ca206c0088334dbdf23b727076e796203`  
+_The Robot Chicken writers expose the real reason why no one plays the piano in Wayne Manor.  We find out what James Potter and his friends did while in animal form, and the Disney Princesses get into a little scuffle._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046127310-robotchicken_133_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046127310-robotchicken_133_dup.jpg" height="144px" /></a>
+### 2020459
+**Robot Chicken S07E04 - Rebel Appliance**  
+TV-MA 🔒 10:48  
+⌛ January 20, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/rebel-appliance  
+seriesid=`608360` titleid=`2020459` id=`n_REDnuUTb-kyWu8KPnylg` mediaid=`f8b199a36a210f32eb95cb3b171c02fbd39aebe9`  
+_A dad has an uncomfortable talk with his daughter about the birds and the bees, the origin of bagpipes is revealed, and the Robot Chicken writers let the Robot Chicken Nerd take a trip into The Game of Thrones._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046121480-robotchicken_124-705_dup-20140424.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046121480-robotchicken_124-705_dup-20140424.jpg" height="144px" /></a>
+### 2020463
+**Robot Chicken S07E08 - Up Up and Buffet**  
+TV-MA 🔒 11:03  
+⌛ January 20, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/up-up-and-buffet  
+seriesid=`608360` titleid=`2020463` id=`qpR16qNORGWmi7YLvGLIUQ` mediaid=`44ca6e1ecc2f5ad465570884876a936afe3bc20d`  
+_Our writers imagine how Scrooge McDuck would do on Shark Tank, Fred Flintstone gets a colonoscopy, Shrek has a moment of clarity, and Doc from Mike Tyson's Punchout passes on to the great arena in the sky._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg" height="144px" /></a>
+### 2020465
+**Robot Chicken S07E10 - Catdog on a Stick**  
+TV-MA 🔒 11:29  
+⌛ January 20, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/catdog-on-a-stick  
+seriesid=`608360` titleid=`2020465` id=`uaOgtkS9QVKbgw_5_F5pEQ` mediaid=`542f7a3244b9f453c1087c53e42b7048cec9bb0d`  
+_The Robot Chicken crew lets you know if Santa Claus is a racist, Tiger Woods gets his own Space Jam type of movie and we find out what The Bratz girls did last summer._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612518-robotchicken_130_dup-20140612.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612518-robotchicken_130_dup-20140612.jpg" height="144px" /></a>
