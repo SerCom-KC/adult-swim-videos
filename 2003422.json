@@ -50,55 +50,6 @@
         "cma_id": "1478480"
     },
     {
-        "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1674104340,
-        "tms_id": "EP012792980122",
-        "description": "When Gene learns that the formula for his favorite chocolate has changed, he works with the head of the company in an attempt to remedy the situation. Meanwhile, Bob gets wrapped up in one of Teddy's less-than-perfect plans.",
-        "title_suggest": {
-            "input": [
-                "Like Gene for Chocolate",
-                "Gene for Chocolate",
-                "for Chocolate",
-                "Chocolate"
-            ]
-        },
-        "expiration_date": 1650859140,
-        "type": "episode",
-        "title": "Like Gene for Chocolate",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1304.8,
-        "episode_number": "8",
-        "original_air_date": 1511748000,
-        "auth_launch_date": 1673499600,
-        "clip_order": null,
-        "media_id": "738d17fdbca7d7c398f5ca2905c3b49632890668",
-        "modified": 1673312218,
-        "airing_id": "RADS1001092300059168",
-        "id": "AV-SbeKSZ-onAnjDLs6R",
-        "slug": "like-gene-for-chocolate",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151275190506611.jpg",
-        "created": 1509990195,
-        "season_number": "7",
-        "title_id": "2132976",
-        "tv_rating": "tv-pg-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1673312218,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1650254400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151275190506611.jpg"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1674190740,
@@ -534,6 +485,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15172478074623.jpg",
         "id": "AWDc4Ex_Z-onAnjDLt6_",
         "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1674709140,
+        "tms_id": "EP012792980134",
+        "description": "When Bob finds out that the local outdoor adventure store is having a going out of business sale, he decides to finally realize his dream of becoming an outdoorsman.",
+        "title_suggest": {
+            "input": [
+                "Into the Mild",
+                "the Mild",
+                "Mild"
+            ]
+        },
+        "expiration_date": 1652673540,
+        "type": "episode",
+        "title": "Into the Mild",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1305.77,
+        "episode_number": "18",
+        "original_air_date": 1517796000,
+        "auth_launch_date": 1674104400,
+        "clip_order": null,
+        "media_id": "a6fa6d914eab78ab23f8009606f9880ec252ba8e",
+        "modified": 1673999224,
+        "airing_id": "RADS1001172300061863",
+        "id": "AWDc4J6jZ-onAnjDLt7A",
+        "slug": "into-the-mild",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151784511773910.jpg",
+        "created": 1515534196,
+        "season_number": "7",
+        "title_id": "2132989",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1673999224,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1652068800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151784511773910.jpg"
     },
     {
         "auth": false,
