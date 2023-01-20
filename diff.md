@@ -2,179 +2,112 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 20, 2023 at 00:00:29 EST_
+_Last Update: January 20, 2023 at 00:30:29 EST_
 ## Video added
 ### Summary
-340537 Aqua Teen Hunger Force: 2  
-2143080 Black Clover: 1  
-### 846826
-**Aqua Teen Hunger Force S08E01 - Allen, Part 1**  
-TV-MA 🔒 11:16  
-⌛ February 7, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/allen-part-1  
-seriesid=`340537` titleid=`846826` id=`4IiZKXATS3GNe164gxzqAw` mediaid=`5b292a390d50531f92645119e5cdfa5a916ac2ac`  
-_In the first part of this special two-part episode, Master Shake steps into a hyper-sleep chamber - and awakens to a perilous future._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225101330-aups1_1001_dup-20110506.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225101330-aups1_1001_dup-20110506.jpg" height="144px" /></a>
-### 846827
-**Aqua Teen Hunger Force S08E02 - Allen, Part 2**  
-TV-MA 🔒 11:16  
-⌛ February 7, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/allen-part-2  
-seriesid=`340537` titleid=`846827` id=`xVYPnWQaT629uAIHoOn9EA` mediaid=`8b64f8c2759bfd25b6bc63ba21df72e7aaa585fd`  
-_In the second part of this special two-part episode, Master Shake unwittingly comes face to face with the future ruler of earth, only to find himself in a fight for survival._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225103399-aups1_1002_dup-20110517.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225103399-aups1_1002_dup-20110517.jpg" height="144px" /></a>
-### 2223892
-**Black Clover S03E20 - As Pitch Black as It Gets**  
-TV-PG 🔒 21:43  
-⌛ June 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/as-pitch-black-as-it-gets  
-seriesid=`2143080` titleid=`2223892` id=`AXLCtWPBRs3h4hI_X4Gz` mediaid=`6538ad684d0a040477024657cae442a5f856dc9b`  
-_Asta's Black Asta form does him no favors in the court of Damnatio Kira. It's up to a powerful few to save Asta's head from the chopping block._  
-<a href="https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_206171423436-BlackClover_122.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200617/thumbnails/2_206171423436-BlackClover_122.jpg" height="144px" /></a>
+581006 American Dad: 2  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+### 748141
+**American Dad S07E09 - Stanny Tendergrass**  
+TV-14 🔒 21:47  
+⌛ January 26, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/stanny-tendergrass  
+seriesid=`581006` titleid=`748141` id=`c2iIJotJQ36zc4Ppw3LxpQ` mediaid=`af22f0f9cf79d859db2f555210b4fe8e571f0973`  
+_Hoping to show Steve the value of hard work, Stan gets Steve a job at a country club; Francine struggles to come up with her own catchphrase._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464896793819.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154464896793819.jpg" height="144px" /></a>
+### 748166
+**American Dad S07E08 - The Unbrave One**  
+TV-14 🔒 21:42  
+⌛ January 26, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-unbrave-one  
+seriesid=`581006` titleid=`748166` id=`9npDpDdJTICPqNIRbel_yQ` mediaid=`b88d55393175796fa7677d7bda48a079486f598c`  
+_With Roger's help, Steve dresses up as a superhero to prove his bravery to his father; when Stan discovers that Fran may be pregnant, he hopes the infant will turn out to be the brave child he never had._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154454654206518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154454654206518.jpg" height="144px" /></a>
+### 2171432
+**Bob's Burgers S08E01 - Brunchsquatch**  
+TV-PG-LV 🔒 21:21  
+⌛ January 26, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/brunchsquatch  
+seriesid=`2003422` titleid=`2171432` id=`AWY1PDReh5enQuYyI6rv` mediaid=`f7b65ee9285010f25d670eee5521b121b0fc1d59`  
+_Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325465279617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325465279617.jpg" height="144px" /></a>
+### 2171433
+**Bob's Burgers S08E02 - The Silence Of The Louise**  
+TV-14-L 🔒 21:42  
+⌛ January 26, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-silence-of-the-louise  
+seriesid=`2003422` titleid=`2171433` id=`AWZFhMyKh5enQuYyJBbs` mediaid=`3f2f2886019b28d32f19c7966c08e1da5b55f8c6`  
+_Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154204254483011.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154204254483011.jpg" height="144px" /></a>
+### 444755
+**Futurama S05E13 - Bend Her**  
+TV-PG-DL 🔒 23:22  
+⌛ January 26, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/bend-her  
+seriesid=`437532` titleid=`444755` id=`AYEQW1ZL_0O4w1rD3SSb` mediaid=`a02a98906e6ece43ece1940fc2c41481346c35e4`  
+_Bender competes in the 3004 Earth Olympian as a fembot._  
+<a href="https://media.cdn.adultswim.com/uploads/20220606/thumbnails/2_2266106445-BendHer.png"><img src="https://media.cdn.adultswim.com/uploads/20220606/thumbnails/2_2266106445-BendHer.png" height="144px" /></a>
+### 731522
+**King of the Hill S09E10 - Arlen City Bomber**  
+TV-PG-DLV 🔒 24:00  
+⌛ January 26, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/arlen-city-bomber  
+seriesid=`629835` titleid=`731522` id=`OEvSvq8fSb6kNznuwJhUFA` mediaid=`1a98e6e52d71021a53bca3e7cf0e35fc45ede929`  
+_When Luanne runs up a large credit card debt, Peggy vows to help her pay it off... but ends up buying a roller derby team in the process._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484159758110.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484159758110.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-340537 Aqua Teen Hunger Force: 18  
-### 786555
-**Aqua Teen Hunger Force S07E11 - Kangarilla and the Magic Tarantula**  
-TV-MA 🔒 11:13  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+581006 American Dad: 2  
+629835 King of the Hill: 1  
+### 2132977
+**Bob's Burgers S07E09 - The Grand Mama-Pest Hotel**  
+TV-PG-L 🔒 21:46  
 ⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/kangarilla-and-the-magic-tarantula  
-seriesid=`340537` titleid=`786555` id=`0vTbQbXFR5Ov6EwFzggayQ` mediaid=`205b78e19b31e72143d2f08c6ffe72e69c2fc346`  
-_Frylock is mesmerized by a game on his smartphone._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225959331-athf_099_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225959331-athf_099_BIM.jpg" height="144px" /></a>
-### 786547
-**Aqua Teen Hunger Force S07E02 - Eggball**  
-TV-MA 🔒 11:31  
+https://www.adultswim.com/videos/bobs-burgers/the-grand-mama-pest-hotel  
+seriesid=`2003422` titleid=`2132977` id=`AWAJmC0kwdpKFAKSbnfG` mediaid=`ead9e6aa8afe4c1b9b2fbfdfb8ef6547b3f0be53`  
+_Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg" height="144px" /></a>
+### 2132979
+**Bob's Burgers S07E10 - Aquaticism**  
+TV-PG-L 🔒 21:43  
 ⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/eggball  
-seriesid=`340537` titleid=`786547` id=`1MQ6qfQVQay4Z0S7yDyQQg` mediaid=`c7ee17e41d1458d74bebec248ed2b21935c812ff`  
-_Shake's quest for pinball eggs leads him to the heart of Death Island._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225954471-athf_090_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225954471-athf_090_BIM.jpg" height="144px" /></a>
-### 846833
-**Aqua Teen Hunger Force S08E07 - Wi-tri**  
-TV-14-DLSV 🔒 11:25  
+https://www.adultswim.com/videos/bobs-burgers/aquaticism  
+seriesid=`2003422` titleid=`2132979` id=`AWATwpnwZ-onAnjDLtUU` mediaid=`33623b218d1d94f92c3923ba791e665628d3526b`  
+_When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151579440273610.jpg" height="144px" /></a>
+### 444753
+**Futurama S05E08 - The Why of Fry**  
+TV-PG-DL 🔓 23:23  
 ⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/wi-tri  
-seriesid=`340537` titleid=`846833` id=`3zcAbKUbQQO5SDu6YzzWlA` mediaid=`fb091e67b2cd16c70a132ab246563b4baa0e8855`  
-_Frylock's new smartphone causes catastrophic levels of apathy and views of the sitcom Entourage._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225105525-aups1_1008_dup-20110719.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225105525-aups1_1008_dup-20110719.jpg" height="144px" /></a>
-### 846830
-**Aqua Teen Hunger Force S08E05 - The Creditor**  
-TV-14-DLSV 🔒 11:23  
+https://www.adultswim.com/videos/futurama/the-why-of-fry  
+seriesid=`437532` titleid=`444753` id=`AYDYNXKz_0O4w1rD3SOO` mediaid=`f51afd44edb98d5edbe071459f36c7c0b267e52f`  
+_Fry becomes disheartened when Leela gets involved with the mayor's aide._  
+<a href="https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_225231323100-WhyFrymin.png"><img src="https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_225231323100-WhyFrymin.png" height="144px" /></a>
+### 748161
+**American Dad S06E16 - Jenny Fromdabloc**  
+TV-14 🔒 21:41  
 ⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/the-creditor  
-seriesid=`340537` titleid=`846830` id=`76RVpoxPSxeqLBijMl66Gg` mediaid=`ae39be428cff637d3c0499eba9fc23e8adacbade`  
-_Shake succumbs to predatory lending and the possibility of having his skull ripped out of his head._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510546-aups1_1005_dup-20110705.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510546-aups1_1005_dup-20110705.jpg" height="144px" /></a>
-### 849550
-**Aqua Teen Hunger Force S08E01 - Allen**  
-TV-MA-L 🔒 21:53  
+https://www.adultswim.com/videos/american-dad/jenny-fromdabloc  
+seriesid=`581006` titleid=`748161` id=`NZO346jOQv2UKObAIyt4vQ` mediaid=`0cd0eac044c68897359754d5f8ecfc8bb227e426`  
+_After Snot professes his love for Hayley and gets shot down, Steve and Roger devise a plan to cheer him up. Roger dresses up as Steve's cousin from New Jersey, Jenny Fromdabloc, and Snot falls hard for her._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994764310111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994764310111.jpg" height="144px" /></a>
+### 748157
+**American Dad S06E15 - License to Till**  
+TV-14 🔒 21:46  
 ⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/allen  
-seriesid=`340537` titleid=`849550` id=`AXKZhnP4C8QgH-t19JlE` mediaid=`24f1b276bd9c27e05568e09b1861b61073cf69a8`  
-_Master Shake steps into a hyper-sleep chamber - and awakens to a perilous future, where he unwittingly comes face to face with the future ruler of earth, only to find himself in a fight for survival._  
-<a href="https://media.cdn.adultswim.com/uploads/20210304/thumbnails/2_21341529585-aups1_1001_dup-20110506.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210304/thumbnails/2_21341529585-aups1_1001_dup-20110506.jpg" height="144px" /></a>
-### 786551
-**Aqua Teen Hunger Force S07E07 - Larry Miller Hair System**  
-TV-MA 🔒 11:15  
+https://www.adultswim.com/videos/american-dad/license-to-till  
+seriesid=`581006` titleid=`748157` id=`dz3vS03bSnmzfl1QM1kY7g` mediaid=`c5a113a156594c9dbd8d3a692c36e5e3906b5e41`  
+_When Steve has trouble crossing over into the "cool kids" social circle, Klaus and Roger place their bets to see how quickly Roger can make him cool._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299475608909.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299475608909.jpg" height="144px" /></a>
+### 731517
+**King of the Hill S09E05 - Dale To the Chief**  
+TV-PG 🔒 22:52  
 ⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/larry-miller-hair-system  
-seriesid=`340537` titleid=`786551` id=`HhZlvn-6QGmvmlUC5nWD6g` mediaid=`7beee841a78e232c95c860fffa60de416c39fb9b`  
-_A computer simulation helps Carl see what his life would have been like with a full head of hair._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225957266-athf_095_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225957266-athf_095_BIM.jpg" height="144px" /></a>
-### 846831
-**Aqua Teen Hunger Force S08E06 - Vampirus**  
-TV-14-DLV 🔒 11:20  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/vampirus  
-seriesid=`340537` titleid=`846831` id=`NDvm0GCbRRyjYF2p2auuJQ` mediaid=`0fe677fc450a39a8dfbb58c88f9affc4c740cd4b`  
-_In a world where a vampire inducing virus has decimated mankind, the Aqua Unit Patrol Squad 1 may have stumbled upon a cure._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225105277-aups1_1006_dup-20110617.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225105277-aups1_1006_dup-20110617.jpg" height="144px" /></a>
-### 786549
-**Aqua Teen Hunger Force S07E04 - Monster**  
-TV-MA 🔒 11:33  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/monster  
-seriesid=`340537` titleid=`786549` id=`NWHeWZyCQA2ml1RUyZpF7g` mediaid=`cbbaef36863af85a57019cef6e8700923dddb5eb`  
-_Meatwad can't get a good night's sleep because he thinks there might be a monster in his bedroom._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022595695-athf_092_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022595695-athf_092_BIM.jpg" height="144px" /></a>
-### 846835
-**Aqua Teen Hunger Force S08E09 - Lasagna**  
-TV-14-DV 🔒 11:18  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/lasagna  
-seriesid=`340537` titleid=`846835` id=`Qpd0yWerSo2YrVGoSWX_IQ` mediaid=`5dd5928998966f0fb936a1bce07fef16e9817ff5`  
-_Carl is no match for Shake's irresistible quattro formaggio lasagna._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225106428-aups1_1010_dup-20110715.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225106428-aups1_1010_dup-20110715.jpg" height="144px" /></a>
-### 846834
-**Aqua Teen Hunger Force S08E08 - Jumpy George**  
-TV-14-DLV 🔒 11:16  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/jumpy-george  
-seriesid=`340537` titleid=`846834` id=`Ry4s2YSoRa2Nw6YQmDTDkA` mediaid=`feec65b45c3e075679e435028ad41f64474b178b`  
-_Shake and Carl manage to score a date with the same woman at the same time._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225106167-aups1_1009_dup-20110804.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225106167-aups1_1009_dup-20110804.jpg" height="144px" /></a>
-### 786546
-**Aqua Teen Hunger Force S07E01 - Rubberman**  
-TV-MA 🔒 11:14  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/rubberman  
-seriesid=`340537` titleid=`786546` id=`UXdiSSHcSquN4b2w9qURHg` mediaid=`6ff83e96ede05968dd178b79c188c35e84630871`  
-_Frylock's safe sex campaign plants the seed of evil._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022595445-athf_089_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022595445-athf_089_BIM.jpg" height="144px" /></a>
-### 846829
-**Aqua Teen Hunger Force S08E03 - Intervention**  
-TV-MA 🔒 11:16  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/intervention  
-seriesid=`340537` titleid=`846829` id=`UnScc8qVTAG1OOeE8hwceg` mediaid=`00f6c3ad1d3f36ce87921da3be5e76014b90d17c`  
-_In this very special episode of Aqua Unit Patrol Squad 1, Carl's drinking problem comes to an ugly head._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510464-aups1_1004_dup-20110519.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510464-aups1_1004_dup-20110519.jpg" height="144px" /></a>
-### 786548
-**Aqua Teen Hunger Force S07E03 - Multiple Meat**  
-TV-14-LV 🔒 11:43  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/multiple-meat  
-seriesid=`340537` titleid=`786548` id=`X5o-a1UBSt-GA3x18bLPRg` mediaid=`75f1e7af8e47dab7a14c50e1ba49bb32c121df40`  
-_Shake discovers Meatwad's amazing power of replication._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225955437-athf_091_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225955437-athf_091_BIM.jpg" height="144px" /></a>
-### 786556
-**Aqua Teen Hunger Force S07E12 - One Hundred**  
-TV-MA 🔒 11:13  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/one-hundred  
-seriesid=`340537` titleid=`786556` id=`YWpd8tcfQEePg_F8EgM9cw` mediaid=`5249851bb77cbe7bea90cd0c42f12c26e6aa45fa`  
-_The one hundredth episode of Aqua Teen Hunger Force arrives with some startling revelations._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510020-athf_100_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510020-athf_100_BIM.jpg" height="144px" /></a>
-### 846828
-**Aqua Teen Hunger Force S08E04 - Freedom Cobra**  
-TV-MA 🔒 11:21  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/freedom-cobra  
-seriesid=`340537` titleid=`846828` id=`YzMj4gjNR5SrsSfOURP7DQ` mediaid=`e573ecf639bcc4c9342b962a67b63faaf26d5dda`  
-_A new tattoo should bring Master Shake success with the ladies, if it doesn't bring death to everyone else._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225104352-aups1_1003_dup-20110603.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225104352-aups1_1003_dup-20110603.jpg" height="144px" /></a>
-### 786550
-**Aqua Teen Hunger Force S07E05 - Rabbot Redux**  
-TV-MA 🔒 11:26  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/rabbot-redux  
-seriesid=`340537` titleid=`786550` id=`aVGV6yknS8OXqP1eAMcbpQ` mediaid=`8a906157479ca4830809fb6ec49f7d999d7e26f9`  
-_After moving into their new crib, the Aqua Teens re-unite with some old friends._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225956330-athf_093_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225956330-athf_093_BIM.jpg" height="144px" /></a>
-### 786553
-**Aqua Teen Hunger Force S07E09 - Hands On A Hamburger**  
-TV-14-DLV 🔒 11:08  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/hands-on-a-hamburger  
-seriesid=`340537` titleid=`786553` id=`ddunmXNvRgCY6kMS6ze3jg` mediaid=`2ce603784464448401e0aef46d35707a87434233`  
-_Shake and Frylock touch a massive cheeseburger._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225958178-athf_097_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225958178-athf_097_BIM.jpg" height="144px" /></a>
-### 846832
-**Aqua Teen Hunger Force S08E10 - Last Dance for Napkin Lad**  
-TV-14-DLV 🔒 11:21  
-⌛ January 19, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/last-dance-for-napkin-lad  
-seriesid=`340537` titleid=`846832` id=`u0QNtwHJQFOh0056LsZnlA` mediaid=`db39ad0b50372b0f45e61293ab5b090b7fd30ef3`  
-_It's all cloaks and daggers until somebody gets hurt. And someone will._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510791-aups1_1007_dup-20110804.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510791-aups1_1007_dup-20110804.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/dale-to-the-chief  
+seriesid=`629835` titleid=`731517` id=`MMaOlpmFQ0uCxP9DJVUy1w` mediaid=`02eb65631a8a3b4828c4700cd60f463ede470d77`  
+_Hank is embarrassed when his new driver's license lists him as female; after reviewing the Warren Commission Report, Dale turns pro-America._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400144924617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400144924617.jpg" height="144px" /></a>
