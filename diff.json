@@ -1,7 +1,6 @@
 {
-    "updated": 1674172830,
-    "added": [],
-    "removed": [
+    "updated": 1674176425,
+    "added": [
         {
             "auth_expiration_date": 1674384840,
             "tms_id": "EP034917240415",
@@ -32,7 +31,7 @@
             "clip_order": null,
             "airing_id": "RADS1010062200035182",
             "media_id": "2a2948b6c7eabba9d70bf709e5edf3396b22f188",
-            "modified": 1665159265,
+            "modified": 1674175714,
             "slug": "hopes-entrusted-to-the-future",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20221004/thumbnails/1_221041020339-NarutoShippuden_413_HopesEntrustedToTheFuture.png",
@@ -40,7 +39,7 @@
             "season_number": "7",
             "title_id": "2177843",
             "tv_rating": "tv-14",
-            "published": 1665159265,
+            "published": 1674175714,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
@@ -53,5 +52,6 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
