@@ -1,21 +1,21 @@
 {
-    "updated": 1674176846,
-    "added": [
+    "updated": 1674178699,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1674385140,
-            "tms_id": "EP034917240387",
-            "description": "Kankuro tries in vain to stop Gaara from supervising the exams due to the lack of security and the threats against his life.",
+            "auth_expiration_date": 1674384840,
+            "tms_id": "EP034917240415",
+            "description": "Gaara confronts Fugi, the mastermind behind the assassination attempt on his life.",
             "title_suggest": {
                 "input": [
-                    "The Night Before the Second Exam",
-                    "Night Before the Second Exam",
-                    "Before the Second Exam",
-                    "the Second Exam",
-                    "Second Exam",
-                    "Exam"
+                    "Hopes Entrusted to the Future",
+                    "Entrusted to the Future",
+                    "to the Future",
+                    "the Future",
+                    "Future"
                 ]
             },
-            "title": "The Night Before the Second Exam",
+            "title": "Hopes Entrusted to the Future",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -25,34 +25,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.4445,
-            "episode_number": "50",
-            "original_air_date": "1656225000",
-            "auth_launch_date": 1665309600,
+            "duration": 1311.5769,
+            "episode_number": "65",
+            "original_air_date": "1665297000",
+            "auth_launch_date": 1665309300,
             "clip_order": null,
-            "airing_id": "RADS1010062200035166",
-            "media_id": "5ed30073033d67012f4aa18bf411f4f213583096",
-            "modified": 1674176618,
-            "slug": "the-night-before-the-second-exam",
+            "airing_id": "RADS1010062200035182",
+            "media_id": "2a2948b6c7eabba9d70bf709e5edf3396b22f188",
+            "modified": 1674175714,
+            "slug": "hopes-entrusted-to-the-future",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211415159-NarutoShippuden_398_TheNightBeforeTheSecondExam.png",
-            "created": 1655835328,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20221004/thumbnails/1_221041020339-NarutoShippuden_413_HopesEntrustedToTheFuture.png",
+            "created": 1664893245,
             "season_number": "7",
-            "title_id": "2177828",
-            "tv_rating": "tv-pg",
-            "published": 1674176618,
+            "title_id": "2177843",
+            "tv_rating": "tv-14",
+            "published": 1674175714,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211415159-NarutoShippuden_398_TheNightBeforeTheSecondExam.png",
-            "id": "AYGHef9K208s7zyYUNMx",
+            "poster": "https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_221041020339-NarutoShippuden_413_HopesEntrustedToTheFuture.png",
+            "id": "AYOjXteW3sQvipyea-hi",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
