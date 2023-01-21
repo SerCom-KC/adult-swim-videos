@@ -220,62 +220,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447442520,
-        "auth_expiration_date": 1674277140,
-        "tms_id": "EP007008180003",
-        "rating": 8.180349,
-        "description": "After a debilitating sports injury, Rusty is home schooled by Early.",
-        "title_suggest": {
-            "input": [
-                "School Days, Fool Days",
-                "Days, Fool Days",
-                "Fool Days",
-                "Days"
-            ]
-        },
-        "type": "episode",
-        "title": "School Days, Fool Days",
-        "expiration_date": 1615867140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 686.9676343,
-        "episode_number": "3",
-        "original_air_date": 1130734800,
-        "clip_order": null,
-        "auth_launch_date": 1666411200,
-        "modified": 1674102469,
-        "media_id": "3d106544ab3e4b2a7d92300c98cc69c537723251",
-        "airing_id": "RADS1010212200037560",
-        "id": "7iWZyWxOT6uqbugAD6eJPQ",
-        "slug": "school-days-fool-days",
-        "views": 722203,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_20481611575-squidbillies_003.jpg",
-        "created": 1402945477,
-        "title_id": "626850",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1674102469,
-        "tags": [
-            "squidbillies episode  3 school days fool home field trip prom early rusty"
-        ],
-        "rating_count": 2462,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612846800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611575-squidbillies_003.jpg",
-        "cma_id": "1323288"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447443000,
         "auth_expiration_date": 1676696340,
         "tms_id": "EP007008180019",
@@ -1019,7 +963,7 @@
         "launch_date": 1674277200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190905/thumbnails/2_19951625353-squidbillies_1007_dup-20190904.jpg",
         "id": "AW0B6f4a4aLemgzOLGXt",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1238,7 +1182,7 @@
         "launch_date": 1674277200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg",
         "id": "AW0nGO_iCorLtcgfluVv",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1287,7 +1231,7 @@
         "launch_date": 1674277200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg",
         "id": "AW0nGhd4CorLtcgfluVw",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": 1513006140,
@@ -1338,7 +1282,7 @@
         "launch_date": 1673672400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130121655473.jpg",
         "id": "AWA42fCwZ-onAnjDLtdq",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -1615,7 +1559,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1513610940,
         "auth_expiration_date": 1689393540,
         "tms_id": "EP007008180116",
@@ -2032,7 +1976,7 @@
         "launch_date": 1673672400,
         "poster": "https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119139-squidbillies_1001_dup-20190807.jpg",
         "id": "AWxx0Cuq4aLemgzOLGIh",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -2079,7 +2023,7 @@
         "launch_date": 1673672400,
         "poster": "https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119372-squidbillies_1003_dup-20190807.jpg",
         "id": "AWxx0HdoCorLtcgfltfk",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -2193,7 +2137,7 @@
         "launch_date": 1674277200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_198221346131-squidbillies_1004_dup-20190819.jpg",
         "id": "AWy6cAeUCorLtcgflt2e",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -2243,7 +2187,7 @@
         "launch_date": 1674277200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg",
         "id": "AWy6cI7hCorLtcgflt2f",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -2291,7 +2235,7 @@
         "launch_date": 1673672400,
         "poster": "https://media.cdn.adultswim.com/uploads/20190815/thumbnails/2_198151032483-squidbillies_1002_dup-20190809.jpg",
         "id": "AWyVpoYhCorLtcgfltq_",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -3219,6 +3163,60 @@
         "cma_id": "1301048"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1447442580,
+        "auth_expiration_date": 1676091540,
+        "tms_id": "EP007008180005",
+        "rating": 7.9667654,
+        "description": "Revelations regarding Rusty's maternity lead to questions regarding Rusty's paternity.",
+        "title_suggest": {
+            "input": [
+                "Family Trouble",
+                "Trouble"
+            ]
+        },
+        "type": "episode",
+        "title": "Family Trouble",
+        "expiration_date": 1617076740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 687.1334668,
+        "episode_number": "5",
+        "original_air_date": 1131944400,
+        "clip_order": null,
+        "auth_launch_date": 1674277200,
+        "modified": 1674103978,
+        "media_id": "538f432a5b8d7a5e5d7b264b738cb2faaf211701",
+        "airing_id": "RADS1001192300062199",
+        "id": "IURw_-bmQKW5S4xpSeRHMg",
+        "slug": "family-trouble",
+        "views": 571036,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_20481612367-squidbillies_005.jpg",
+        "created": 1402945477,
+        "title_id": "626852",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1674103978,
+        "tags": [
+            "squidbillies episode 5 family trouble mommy krystal paternity"
+        ],
+        "rating_count": 2046,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614056400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612367-squidbillies_005.jpg",
+        "cma_id": "1331972"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -3277,64 +3275,6 @@
         "launch_date": 1508945940,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/behind-the-scenes-laura-jane-grace-theme-song-cover/squidbillies_BTS_AgainstMe.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447442460,
-        "auth_expiration_date": 1674277140,
-        "tms_id": "EP007008180002",
-        "rating": 8.8180275,
-        "description": "Early seeks employment in a difficult job market.",
-        "title_suggest": {
-            "input": [
-                "Take This Job And Love It",
-                "This Job And Love It",
-                "Job And Love It",
-                "And Love It",
-                "Love It",
-                "It"
-            ]
-        },
-        "type": "episode",
-        "title": "Take This Job And Love It",
-        "expiration_date": 1615265940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 677.667334,
-        "episode_number": "2",
-        "original_air_date": 1130126400,
-        "clip_order": null,
-        "auth_launch_date": 1666411200,
-        "modified": 1674103047,
-        "media_id": "f080105d89bf682d8b3bfdc30fd7195dea32553d",
-        "airing_id": "RADS1010212200037561",
-        "id": "JDZOvlIjSVe_hrWtQSm4Xg",
-        "slug": "take-this-job-and-love-it",
-        "views": 459962,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_20481611427-squidbillies_002.jpg",
-        "created": 1402945477,
-        "title_id": "626849",
-        "season_number": "1",
-        "tv_rating": "tv-14-lsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1674103047,
-        "tags": [
-            "squidbillies episode 2 take this job and love it early job employment mattress dan halen"
-        ],
-        "rating_count": 4226,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1612242000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611427-squidbillies_002.jpg",
-        "cma_id": "1153641"
     },
     {
         "auth": true,
@@ -4695,6 +4635,61 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447442580,
+        "auth_expiration_date": 1676091540,
+        "tms_id": "EP007008180006",
+        "rating": 6.255391,
+        "description": "Early concocts a popular new beverage.",
+        "title_suggest": {
+            "input": [
+                "Office Politics Trouble",
+                "Politics Trouble",
+                "Trouble"
+            ]
+        },
+        "type": "episode",
+        "title": "Office Politics Trouble",
+        "expiration_date": 1617681540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 689.0667334,
+        "episode_number": "6",
+        "original_air_date": 1132549200,
+        "clip_order": null,
+        "auth_launch_date": 1674277200,
+        "modified": 1674103665,
+        "media_id": "6b27b7e7f6d2e83f4cfb1aa9071f3c1abde5623a",
+        "airing_id": "RADS1001192300062201",
+        "id": "XXfr1n2ITnqvUKd_kGcLtg",
+        "slug": "office-politics-trouble",
+        "views": 729684,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_20481612597-squidbillies_006.jpg",
+        "created": 1402945477,
+        "title_id": "626853",
+        "season_number": "1",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1674103665,
+        "tags": [
+            "squidbillies episode 6 office politics trouble glug dan halen blind weed hippies ceo early"
+        ],
+        "rating_count": 10709,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1614661200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612597-squidbillies_006.jpg",
+        "cma_id": "1338074"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447444320,
         "auth_expiration_date": 1682135940,
         "tms_id": "EP007008180053",
@@ -5506,60 +5501,6 @@
         "launch_date": 1542690000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_2048167591-squidbillies_001.jpg",
         "cma_id": "1313348"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447442520,
-        "auth_expiration_date": 1674277140,
-        "tms_id": "EP007008180004",
-        "rating": 9.235037,
-        "description": "An ancient squid ceremony leads to revelations regarding Rusty's maternity.",
-        "title_suggest": {
-            "input": [
-                "Chalky Trouble",
-                "Trouble"
-            ]
-        },
-        "type": "episode",
-        "title": "Chalky Trouble",
-        "expiration_date": 1616471940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 690.0667334,
-        "episode_number": "4",
-        "original_air_date": 1131339600,
-        "clip_order": null,
-        "auth_launch_date": 1666411200,
-        "modified": 1674103675,
-        "media_id": "0b724c6ac2acfe07153bbf2e67cf70cd6194f9db",
-        "airing_id": "RADS1010212200037562",
-        "id": "gsMm7GUTSry5_84-5iqfNQ",
-        "slug": "chalky-trouble",
-        "views": 465131,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/1_20481612174-squidbillies_004.jpg",
-        "created": 1402945477,
-        "title_id": "626851",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1674103675,
-        "tags": [
-            "squidbillies episode chalky trouble ceremony whites rusty sheriff racism bonfire mommy"
-        ],
-        "rating_count": 2872,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1613451600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612174-squidbillies_004.jpg",
-        "cma_id": "1327953"
     },
     {
         "auth": true,
