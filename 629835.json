@@ -113,6 +113,61 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1674881940,
+        "tms_id": "EP002070020189",
+        "rating": 7.7785387,
+        "description": "John Redcorn opens his own tribal gaming casino so his rock band has somewhere to perform.",
+        "title_suggest": {
+            "input": [
+                "Redcorn Gambles With His Future",
+                "Gambles With His Future",
+                "With His Future",
+                "His Future",
+                "Future"
+            ]
+        },
+        "type": "episode",
+        "title": "Redcorn Gambles With His Future",
+        "expiration_date": 1495769399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1436.9355,
+        "episode_number": "11",
+        "original_air_date": 1236736800,
+        "clip_order": null,
+        "auth_launch_date": 1674277200,
+        "modified": 1674091054,
+        "media_id": "7ec523f419c1343321519e26bd3eca10bb310921",
+        "airing_id": "RADS1001182300062161",
+        "id": "EgRazC3ZSHuS4JobRQ9rjQ",
+        "slug": "redcorn-gambles-with-his-future",
+        "views": 294734,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15248416430924.jpg",
+        "created": 1402945468,
+        "title_id": "731523",
+        "season_number": "9",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1674091054,
+        "tags": [
+            "king of the hill episode 909 redcorn gambles with his future tribal casino lucky band rock children john"
+        ],
+        "rating_count": 438,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1495164600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15248416430924.jpg",
+        "cma_id": "731523"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1674795540,
         "tms_id": "EP002070020187",
         "rating": 7.6254544,
@@ -213,58 +268,5 @@
         "launch_date": 1494905400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247536312519.jpg",
         "cma_id": "731520"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1674277140,
-        "tms_id": "EP002070020183",
-        "rating": 6.7058845,
-        "description": "Hank excitedly joins a new military program that allows civilians to adopt pets while G.I.s serve their tour of duty... but the dog, Duke, turns out to be a mean-spirited cat.",
-        "title_suggest": {
-            "input": [
-                "The Petriot Act",
-                "Petriot Act",
-                "Act"
-            ]
-        },
-        "type": "episode",
-        "title": "The Petriot Act",
-        "expiration_date": 1495456199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1440.439,
-        "episode_number": "6",
-        "original_air_date": 1236576600,
-        "clip_order": null,
-        "auth_launch_date": 1673672400,
-        "modified": 1673549347,
-        "media_id": "bd3edca5f49a769f9996b842e3d9c9aa70476dbc",
-        "airing_id": "RADS1001122300060647",
-        "id": "zr1EVqzxSQW1uCZ9HHFZGw",
-        "slug": "the-petriot-act",
-        "views": 151869,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15245851972007.jpg",
-        "created": 1402945468,
-        "title_id": "731518",
-        "season_number": "9",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1673549347,
-        "tags": [
-            "king of the hill koth petriot act episode 6"
-        ],
-        "rating_count": 238,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1494851400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15245851972007.jpg",
-        "cma_id": "731518"
     }
 ]
