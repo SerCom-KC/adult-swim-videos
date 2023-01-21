@@ -2035,11 +2035,7 @@
     },
     {
         "auth_expiration_date": 1675589340,
-        "created": 1673637204,
         "tms_id": "EP036780850068",
-        "title_id": "2394839",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
         "description": "Evil spirits are pouring out of the burning Windmill of Time. The three girls and Osamu Kirin try to stop the Grim Comet from falling to the earth.",
         "title_suggest": {
             "input": [
@@ -2050,21 +2046,38 @@
                 "Falls"
             ]
         },
-        "published": 1673642610,
         "title": "When the Grim Comet Falls",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AXpED60VBH5Z6gH5aWXi",
         "duration": 1334.4999,
         "episode_number": "20",
-        "collection_title": "Yashahime: Princess Half-Demon",
         "original_air_date": 1673762400,
         "auth_launch_date": 1673775000,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1001132300061059",
         "media_id": "aecd02e657c6d5e441a903eb6097ed8109aa14f6",
-        "modified": 1673642610,
+        "modified": 1674328245,
         "slug": "when-the-grim-comet-falls",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230121/thumbnails/1_231211410396-yashahimeprinceshalfdemon220tiny.png",
+        "created": 1673637204,
+        "title_id": "2394839",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "published": 1674328245,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230121/thumbnails/2_231211410396-yashahimeprinceshalfdemon220tiny.png",
         "id": "AYWsjREb4k01GlbfzrX7",
         "auth": true
     }
