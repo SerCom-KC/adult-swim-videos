@@ -2,55 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1674363540,
-        "tms_id": "EP002070020184",
-        "description": "Hank finds himself trapped in the middle when Enrique breaks up with his wife; Bobby and Joseph find a way to override Hank's channel block so they can watch the Daytona 500 on FOX.",
-        "title_suggest": {
-            "input": [
-                "Enrique-cilable Differences",
-                "Differences"
-            ]
-        },
-        "expiration_date": 1495457999,
-        "title": "Enrique-cilable Differences",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1440.5724,
-        "episode_number": "7",
-        "original_air_date": 1236825000,
-        "clip_order": null,
-        "auth_launch_date": 1673758800,
-        "modified": 1673643833,
-        "media_id": "468851379191ce54f1b7a50b5b9128f1701ce332",
-        "airing_id": "RADS1001132300061066",
-        "id": "7LFZ8IEwRhWVTXFP344ftg",
-        "slug": "enrique-cilable-differences",
-        "views": 4020,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15247664989787.jpg",
-        "created": 1403638089,
-        "season_number": "9",
-        "title_id": "731519",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1673643833,
-        "first_published": 1421724026,
-        "tags": [],
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1494853200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247664989787.jpg",
-        "cma_id": "731519"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1674709140,
         "tms_id": "EP002070020186",
         "rating": 8.822667,
@@ -268,5 +219,59 @@
         "launch_date": 1494905400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247536312519.jpg",
         "cma_id": "731520"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1674968340,
+        "tms_id": "EP002070020191",
+        "rating": 7.5913444,
+        "description": "Dale becomes a celebrity outlaw when he refuses to obey a new no-smoking ordinance; Peggy tries to locate the mysterious \"Smoking Bandit.\"",
+        "title_suggest": {
+            "input": [
+                "Smoking and the Bandit",
+                "and the Bandit",
+                "the Bandit",
+                "Bandit"
+            ]
+        },
+        "type": "episode",
+        "title": "Smoking and the Bandit",
+        "expiration_date": 1495855799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1439.9385,
+        "episode_number": "12",
+        "original_air_date": 1236738600,
+        "clip_order": null,
+        "auth_launch_date": 1674363600,
+        "modified": 1674176607,
+        "media_id": "43392f02d4329dc4ff542a85f3f87dcd8a042968",
+        "airing_id": "RADS1001192300062339",
+        "id": "w43rcDRYQWKqaCKkaUJxng",
+        "slug": "smoking-and-the-bandit",
+        "views": 143717,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152484166756017.jpg",
+        "created": 1402945468,
+        "title_id": "731524",
+        "season_number": "9",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1674176607,
+        "tags": [
+            "king of hill koth smoking and bandit episode 10"
+        ],
+        "rating_count": 208,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1495251000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484166756017.jpg",
+        "cma_id": "731524"
     }
 ]
