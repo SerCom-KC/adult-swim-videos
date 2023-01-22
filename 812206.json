@@ -654,6 +654,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1705899540,
+        "tms_id": "EP034917240386",
+        "description": "Shikamaru introduces another question to be answered within three minutes. Will Neji and his team be able to pass this round?",
+        "title_suggest": {
+            "input": [
+                "One Worthy as a Leader",
+                "Worthy as a Leader",
+                "as a Leader",
+                "a Leader",
+                "Leader"
+            ]
+        },
+        "title": "One Worthy as a Leader",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1310.4425,
+        "episode_number": "49",
+        "original_air_date": "1656223200",
+        "auth_launch_date": 1674383400,
+        "clip_order": null,
+        "airing_id": "RADS1001192300062359",
+        "media_id": "46ed8ecaca5cf420921d0b66afded6ddb5b2a007",
+        "modified": 1674178426,
+        "slug": "one-worthy-as-a-leader",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211414328-NarutoShippuden_397_OneWorthyAsALeader.png",
+        "created": 1655835285,
+        "season_number": "7",
+        "title_id": "2177827",
+        "tv_rating": "tv-pg",
+        "published": 1674178426,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211414328-NarutoShippuden_397_OneWorthyAsALeader.png",
+        "id": "AYGHeVhp208s7zyYUNMv",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1674385140,
         "tms_id": "EP034917240387",
         "description": "Kankuro tries in vain to stop Gaara from supervising the exams due to the lack of security and the threats against his life.",
@@ -1543,6 +1591,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230113/thumbnails/2_23113182319-narutoshippden424tiny.png",
         "id": "AYWskG0d4k01GlbfzrX9",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1706158740,
+        "tms_id": "EP034917240428",
+        "description": "Madara now possesses the Rinnegan in both eyes, and he is the strongest, most despicable enemy the newly reunited Team 7 has ever faced.",
+        "title_suggest": {
+            "input": [
+                "The Infinite Dream",
+                "Infinite Dream",
+                "Dream"
+            ]
+        },
+        "title": "The Infinite Dream",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1311.1432,
+        "episode_number": "9",
+        "original_air_date": 1674370800,
+        "auth_launch_date": 1674383400,
+        "clip_order": null,
+        "airing_id": "RADS1001192300062338",
+        "media_id": "5d34f25497ac108c4a567b62204a330f894bc93f",
+        "modified": 1674327972,
+        "slug": "the-infinite-dream",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230121/thumbnails/1_2312114641-narutoshippuden425Still001tiny.png",
+        "created": 1674169976,
+        "title_id": "2177855",
+        "season_number": "8",
+        "tv_rating": "tv-14-lv",
+        "published": 1674327972,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230121/thumbnails/2_2312114641-narutoshippuden425Still001tiny.png",
+        "id": "AYXMToYvuLQD-MTtYfqQ",
         "auth": true
     }
 ]
