@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1674363540,
-        "tms_id": "EP003034830068",
-        "description": "The professor conducts an experiment which hurls Leela into a parallel universe.",
-        "title_suggest": {
-            "input": [
-                "The Farnsworth Parabox",
-                "Farnsworth Parabox",
-                "Parabox"
-            ]
-        },
-        "title": "The Farnsworth Parabox",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.133,
-        "episode_number": "10",
-        "original_air_date": 1069732800,
-        "auth_launch_date": 1673758800,
-        "clip_order": null,
-        "airing_id": "RADS1001132300061064",
-        "media_id": "7a0c2194238997ddcab01f691c174819a8ec3ec9",
-        "modified": 1673643535,
-        "slug": "the-farnsworth-parabox",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271218371-Futurama_066_TheFarnsworthParabox.png",
-        "created": 1653317256,
-        "title_id": "444757",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1673643535,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271218371-Futurama_066_TheFarnsworthParabox.png",
-        "id": "AYDxY0Yq_0O4w1rD3SQu",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1674449940,
         "tms_id": "EP003034830069",
         "description": "The gang finds wacky ways to spend extra money from a refund.",
@@ -90,6 +44,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271219341-Futurama_067_ThreeHundredBigBoys.png",
         "id": "AYDxic3Q208s7zyYUM9j",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1674968340,
+        "tms_id": "EP003034830073",
+        "description": "Bender stars on the soap opera All My Circuits.",
+        "title_suggest": {
+            "input": [
+                "Bender Should Not Be Allowed on TV",
+                "Should Not Be Allowed on TV",
+                "Not Be Allowed on TV",
+                "Be Allowed on TV",
+                "Allowed on TV",
+                "on TV",
+                "TV"
+            ]
+        },
+        "title": "Bender Should Not Be Allowed on TV",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1392.1573,
+        "episode_number": "15",
+        "original_air_date": 1068523200,
+        "auth_launch_date": 1674363600,
+        "clip_order": null,
+        "airing_id": "RADS1001192300062329",
+        "media_id": "7da179842ff406081aedc3f29573ce12f9412bc0",
+        "modified": 1674174839,
+        "slug": "bender-should-not-be-allowed-on-tv",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691647454-Futurama_071_BenderShouldNotBeAllowedOnTelevision.png",
+        "created": 1654522396,
+        "title_id": "444751",
+        "season_number": "5",
+        "tv_rating": "tv-pg-l",
+        "published": 1674174839,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691647454-Futurama_071_BenderShouldNotBeAllowedOnTelevision.png",
+        "id": "AYE5OECR208s7zyYUNEY",
         "auth": true
     },
     {
