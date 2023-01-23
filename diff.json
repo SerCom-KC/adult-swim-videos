@@ -1,17 +1,20 @@
 {
-    "updated": 1674450978,
-    "added": [
+    "updated": 1674477207,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1676265240,
-            "tms_id": "EP045818780002",
-            "description": "Sarah, Rachel, and Lucas head to Planet Bali for Sarah's sister's wedding and are surprised to discover the identity of the groom. But the bride's intentions are far more sinister than tying the knot.",
+            "auth_expiration_date": 1674476940,
+            "tms_id": "EP034917240269",
+            "description": "Obito completely absorbs the giant Ten Tails, undergoes a transformation and becomes the Ten Tails' Jinchuriki.",
             "title_suggest": {
                 "input": [
-                    "Planet Bali",
-                    "Bali"
+                    "The Ten Tails' Jinchuriki",
+                    "Ten Tails' Jinchuriki",
+                    "Tails' Jinchuriki",
+                    "Jinchuriki"
                 ]
             },
-            "title": "Planet Bali",
+            "title": "The Ten Tails' Jinchuriki",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -20,35 +23,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AXNJnfSIC8QgH-t19J8N",
-            "duration": 675.4081,
-            "episode_number": "2",
-            "original_air_date": 1674450900,
-            "auth_launch_date": 1674450900,
+            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+            "duration": 1308.9744,
+            "episode_number": "30",
+            "original_air_date": 1645948800,
+            "auth_launch_date": 1664105400,
             "clip_order": null,
-            "airing_id": "RADS1001192300062366",
-            "media_id": "e9e10cd005a565253c69ee02985bafdf7d723126",
-            "modified": 1674255808,
-            "slug": "planet-bali",
+            "airing_id": "RADS1009192200029414",
+            "media_id": "783a02746fa0046d3c165a42282d2ace14e08021",
+            "modified": 1674265985,
+            "slug": "the-ten-tails-jinchuriki",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230120/thumbnails/1_23120182482-YOLO202Still001.png",
-            "created": 1674171693,
-            "title_id": "2412375",
-            "season_number": "2",
-            "tv_rating": "tv-14-l",
-            "published": 1674255808,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_222231431536-NarutoShippuden_378_TheTenTailsJinchuriki.png",
+            "created": 1645565832,
+            "title_id": "2177808",
+            "season_number": "7",
+            "tv_rating": "tv-pg-l",
+            "published": 1674265985,
             "tags": [],
-            "collection_title": "YOLO Crystal Fantasy",
+            "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
+            "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230120/thumbnails/2_23120182482-YOLO202Still001.png",
-            "id": "AYXMaLuK4k01GlbfzrYH",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231431536-NarutoShippuden_378_TheTenTailsJinchuriki.png",
+            "id": "AX8jXe6B208s7zyYUMK3",
             "auth": true,
-            "collection_slug": "yolo",
-            "collection_title_id": "2224723",
+            "collection_slug": "naruto-shippuden",
+            "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
