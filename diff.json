@@ -1,56 +1,61 @@
 {
-    "updated": 1674477207,
-    "added": [],
-    "removed": [
+    "updated": 1674503538,
+    "added": [
         {
-            "auth_expiration_date": 1674476940,
-            "tms_id": "EP034917240269",
-            "description": "Obito completely absorbs the giant Ten Tails, undergoes a transformation and becomes the Ten Tails' Jinchuriki.",
+            "auth": true,
+            "ott_launch_date": 1447781760,
+            "auth_expiration_date": 1674709199,
+            "tms_id": "EP005604540038",
+            "rating": 8.895558,
+            "description": "A series of cryptic clues sends Team Venture out to uncover a mystery left by the late Jonas Venture, Sr.  As each new solved riddle exposes one more piece of secret Venture history, Brock discovers that his long-standing role as Dr. Venture's bodyguard may not have been the assignment he always thought it was.",
             "title_suggest": {
                 "input": [
-                    "The Ten Tails' Jinchuriki",
-                    "Ten Tails' Jinchuriki",
-                    "Tails' Jinchuriki",
-                    "Jinchuriki"
+                    "Orb"
                 ]
             },
-            "title": "The Ten Tails' Jinchuriki",
             "type": "episode",
-            "expiration_date": null,
+            "title": "Orb",
+            "expiration_date": 1675918740,
             "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
+                "web",
+                "mobile",
+                "ott"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1308.9744,
-            "episode_number": "30",
-            "original_air_date": 1645948800,
-            "auth_launch_date": 1664105400,
+            "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+            "duration": 1347.55,
+            "episode_number": "11",
+            "original_air_date": 1218425400,
             "clip_order": null,
-            "airing_id": "RADS1009192200029414",
-            "media_id": "783a02746fa0046d3c165a42282d2ace14e08021",
-            "modified": 1674265985,
-            "slug": "the-ten-tails-jinchuriki",
+            "auth_launch_date": 1672981259,
+            "modified": 1674503354,
+            "media_id": "4d47e7e79f8b0eb237173ad9c9b0bb6fa3350f3c",
+            "airing_id": "RADS1001232300062787",
+            "id": "4HWrslWXTGewB77ao4bs5A",
+            "slug": "orb",
+            "views": 1517507,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_222231431536-NarutoShippuden_378_TheTenTailsJinchuriki.png",
-            "created": 1645565832,
-            "title_id": "2177808",
-            "season_number": "7",
-            "tv_rating": "tv-pg-l",
-            "published": 1674265985,
-            "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116145320-venture_129_dst_cid-URZE.jpg",
+            "created": 1402945479,
+            "title_id": "718814",
+            "season_number": "3",
+            "tv_rating": "tv-14-dlsv",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1674503354,
+            "tags": [
+                "venture bros brothers episode 29 orb brock mission orders regarding bodyguard studio 54 alchemist billy quizboy orpheus"
+            ],
+            "rating_count": 4270,
+            "collection_title": "The Venture Bros.",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231431536-NarutoShippuden_378_TheTenTailsJinchuriki.png",
-            "id": "AX8jXe6B208s7zyYUMK3",
-            "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "launch_date": 1674709200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116145320-venture_129_dst_cid-URZE.jpg",
+            "cma_id": "",
+            "collection_slug": "the-venture-bros",
+            "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
