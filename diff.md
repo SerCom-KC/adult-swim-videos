@@ -2,17 +2,20 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 22, 2023 at 18:30:25 EST_
+_Last Update: January 23, 2023 at 00:00:27 EST_
 ## Video added
 ### Summary
-830073 Off The Air: 1  
-### 2199311
-**Off The Air S09E01 - Fashion**  
-TV-14-V 🔓 12:01  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/off-the-air/fashion  
-seriesid=`830073` titleid=`2199311` id=`AWzezmVj4aLemgzOLGVj` mediaid=`b1667dad29c801b97028a85869a89d214bb6adcb`  
-_Got you covered._  
-<a href="https://media.cdn.adultswim.com/uploads/20190829/thumbnails/2_198291616347-offtheair_901_dup-20190829.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190829/thumbnails/2_198291616347-offtheair_901_dup-20190829.jpg" height="144px" /></a>
+2224723 YOLO Crystal Fantasy: 1  
+### 2412373
+**YOLO Crystal Fantasy S02E01 - Sausage Sizzle**  
+TV-MA-L 🔓 11:14  
+⌛ April 6, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/yolo/sausage-sizzle  
+seriesid=`2224723` titleid=`2412373` id=`AYXMF0qmuLQD-MTtYfqK` mediaid=`b73cbd3a6a46ebe97ed9f78ce18ef56cc0d640fd`  
+_After a wild night of hard partying, Sarah and Rachel stumble into a spiritual commune for a free sausage sizzle. There they encounter the Purple Fire God who tells them their destiny._  
+<a href="https://media.cdn.adultswim.com/uploads/20230120/thumbnails/2_23120181579-YOLO201Still001.png"><img src="https://media.cdn.adultswim.com/uploads/20230120/thumbnails/2_23120181579-YOLO201Still001.png" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2224723 YOLO Crystal Fantasy: 1  
+### Online Exclusives
+`AYWIcfJIuLQD-MTtYfcv` [YOLO Crystal Fantasy - YOLO: Silver Destiny Premieres January 22](https://www.adultswim.com/videos/yolo/yolo-silver-destiny-premieres-january-22)  
