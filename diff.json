@@ -1,7 +1,6 @@
 {
-    "updated": 1674506296,
-    "added": [],
-    "removed": [
+    "updated": 1674506539,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "EP045818780001",
@@ -13,8 +12,8 @@
                 ]
             },
             "title": "Sausage Sizzle",
-            "type": "episode",
             "expiration_date": 1680839940,
+            "type": "episode",
             "platforms": [
                 "android",
                 "ios",
@@ -22,33 +21,34 @@
                 "fire-tv"
             ],
             "collection_id": "AXNJnfSIC8QgH-t19J8N",
-            "duration": 674.7074,
+            "duration": 0,
             "episode_number": "1",
             "original_air_date": 1674450000,
             "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "RADS1001192300062325",
+            "airing_id": "",
             "media_id": "b73cbd3a6a46ebe97ed9f78ce18ef56cc0d640fd",
-            "modified": 1674502051,
+            "modified": 1674506322,
             "slug": "sausage-sizzle",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230120/thumbnails/1_23120181579-YOLO201Still001.png",
-            "created": 1674166356,
-            "title_id": "2412373",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230123/thumbnails/1_231231537173-YOLO201Still001tiny.png",
+            "created": 1674506290,
             "season_number": "2",
+            "title_id": "2412373",
             "tv_rating": "tv-ma-l",
-            "published": 1674502051,
+            "published": 1674506322,
             "tags": [],
-            "collection_title": "YOLO Crystal Fantasy",
+            "collection_title": "YOLO",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
+            "modified_by": "Jonas Eason",
             "launch_date": 1674450000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230120/thumbnails/2_23120181579-YOLO201Still001.png",
-            "id": "AYXMF0qmuLQD-MTtYfqK",
+            "poster": "https://media.cdn.adultswim.com/uploads/20230123/thumbnails/2_231231537173-YOLO201Still001tiny.png",
+            "id": "AYXgWkOVuLQD-MTtYfux",
             "auth": false,
             "collection_slug": "yolo",
             "collection_title_id": "2224723",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
