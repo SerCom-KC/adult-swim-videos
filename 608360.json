@@ -54,7 +54,7 @@
         "cma_id": "1426964"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447367760,
         "auth_expiration_date": 1674536340,
         "tms_id": "EP007259620118",
@@ -933,7 +933,7 @@
         "cma_id": "1368429"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361940,
         "auth_expiration_date": 1674536340,
         "tms_id": "EP007259620116",
@@ -1468,57 +1468,6 @@
         "launch_date": 1593057600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031314467-robotchicken_1003_dup-20190607.jpg",
         "id": "AW2ETZjbadNs2hMNfuIm",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1674536340,
-        "tms_id": "EP007259620200",
-        "description": "The Queer Eye guys take on their greatest challenge! Princess Leia gets blasted into space and emerges as Super Space Leia. Robot Chicken puts together a musical number starring Offred and Commander Waterford from A Handmaid's Tale.",
-        "title_suggest": {
-            "input": [
-                "Hermie Nursery in: Seafood Sensation",
-                "Nursery in: Seafood Sensation",
-                "in: Seafood Sensation",
-                "Seafood Sensation",
-                "Sensation"
-            ]
-        },
-        "title": "Hermie Nursery in: Seafood Sensation",
-        "expiration_date": 1671512340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 670.93,
-        "episode_number": "4",
-        "original_air_date": 1570421700,
-        "auth_launch_date": 1671512400,
-        "clip_order": null,
-        "media_id": "8bcd0c068fc7452cfdc977b68648daa9e3747fb8",
-        "modified": 1671253204,
-        "airing_id": "RADS1011112200044385",
-        "slug": "hermie-nursery-in-seafood-sensation",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/1_191031322278-robotchicken_1004_dup-20190731.jpg",
-        "created": 1569882765,
-        "season_number": "10",
-        "title_id": "2201000",
-        "tv_rating": "tv-ma-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1671253204,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1668488400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031322278-robotchicken_1004_dup-20190731.jpg",
-        "id": "AW2ETfcH1YiBSfg0KXW9",
         "auth": true
     },
     {
@@ -5364,7 +5313,7 @@
         "cma_id": "1295488"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447360980,
         "auth_expiration_date": 1701752340,
         "tms_id": "EP007259620109",
@@ -7231,7 +7180,7 @@
         "cma_id": "1137273"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447367820,
         "auth_expiration_date": 1701752340,
         "tms_id": "EP007259620110",
@@ -7288,7 +7237,7 @@
         "cma_id": "1403817"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361220,
         "auth_expiration_date": 1702357140,
         "tms_id": "EP007259620114",
@@ -7580,7 +7529,7 @@
         "cma_id": "1187385"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361100,
         "auth_expiration_date": 1701752340,
         "tms_id": "EP007259620111",
@@ -8117,7 +8066,7 @@
         "cma_id": "1449407"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447367820,
         "auth_expiration_date": 1674536340,
         "tms_id": "EP007259620119",
@@ -8860,7 +8809,7 @@
         "cma_id": "1187132"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361160,
         "auth_expiration_date": 1701752340,
         "tms_id": "EP007259620112",
@@ -9447,7 +9396,7 @@
         "cma_id": "1427916"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361160,
         "auth_expiration_date": 1674536340,
         "tms_id": "EP007259620113",
@@ -10431,7 +10380,7 @@
         "cma_id": "1160023"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361280,
         "auth_expiration_date": 1674536340,
         "tms_id": "EP007259620115",
