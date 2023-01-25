@@ -581,7 +581,7 @@
         "cma_id": "1474005"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171980,
         "auth_expiration_date": 1677646740,
         "tms_id": "EP007959510019",
@@ -683,6 +683,57 @@
         "launch_date": 1669784400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111558188-moralorel_016.jpg",
         "cma_id": "1454318"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447172580,
+        "auth_expiration_date": 1654660740,
+        "tms_id": "EP007959510024",
+        "rating": 7.806212,
+        "description": "When Orel discovers the Missing Link on a camping trip, he learns the meaning of Geniusis.",
+        "title_suggest": {
+            "input": [
+                "Geniusis"
+            ]
+        },
+        "type": "episode",
+        "title": "Geniusis",
+        "expiration_date": 1677646740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 700.7340674,
+        "episode_number": "14",
+        "original_air_date": 1180325700,
+        "clip_order": null,
+        "auth_launch_date": 1651636800,
+        "modified": 1674433275,
+        "media_id": "5930111a529f81eb63e51aa2db48dd9aaa5417f2",
+        "airing_id": "RADS1001222300062679",
+        "id": "fkYPzKCyS3uFDEVsJOTUPg",
+        "slug": "geniusis",
+        "views": 334120,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311161549-moralorel_025.jpg",
+        "created": 1402945470,
+        "title_id": "653305",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1674433275,
+        "tags": [],
+        "rating_count": 1481,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1674622800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311161549-moralorel_025.jpg",
+        "cma_id": "1406124"
     },
     {
         "auth": true,
@@ -787,57 +838,5 @@
         "launch_date": 1670994000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111559222-moralorel_021.jpg",
         "cma_id": "1463693"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447172100,
-        "auth_expiration_date": 1674622740,
-        "tms_id": "EP007959510014",
-        "rating": 7.727941,
-        "description": "Orel solves puzzling and mysterious capers through the sheer power of his righteous logic.",
-        "title_suggest": {
-            "input": [
-                "Elemental Orel",
-                "Orel"
-            ]
-        },
-        "type": "episode",
-        "title": "Elemental Orel",
-        "expiration_date": 1671598740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 680.1001001,
-        "episode_number": "4",
-        "original_air_date": 1165209300,
-        "clip_order": null,
-        "auth_launch_date": 1671598800,
-        "modified": 1671418146,
-        "media_id": "235b2bfcbee7992ebf662bcc05a5c35a34c2a39a",
-        "airing_id": "RADS1012192200051850",
-        "id": "xtdyH8VnRROEMhcAwFZxYA",
-        "slug": "elemental-orel",
-        "views": 189378,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111557404-moralorel_017.jpg",
-        "created": 1402945470,
-        "title_id": "653297",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1671418146,
-        "tags": [],
-        "rating_count": 544,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1668574800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111557404-moralorel_017.jpg",
-        "cma_id": "1365127"
     }
 ]
