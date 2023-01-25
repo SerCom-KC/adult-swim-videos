@@ -63,6 +63,58 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1675227540,
+        "tms_id": "EP002070020188",
+        "rating": 7.3617021276596,
+        "description": "When the station manager hires a new weatherman to replace Nancy after she blows an important forecast, Peggy convinces Nancy that covering a dangerous wildfire is the only way to win back her job; Hank helps Bobby deter a bully who's obsessed with scaring people.",
+        "title_suggest": {
+            "input": [
+                "Gone with the Windstorm",
+                "with the Windstorm",
+                "the Windstorm",
+                "Windstorm"
+            ]
+        },
+        "type": "episode",
+        "title": "Gone with the Windstorm",
+        "expiration_date": 1495974599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1436.2682,
+        "episode_number": "13",
+        "original_air_date": 1236652200,
+        "clip_order": null,
+        "auth_launch_date": 1674622800,
+        "modified": 1674430278,
+        "media_id": "04677d27734178c6915b175eb0e001c8b12326a1",
+        "airing_id": "RADS1001222300062632",
+        "id": "BNlQW7S3Q5Gwr7lta8kK1Q",
+        "slug": "gone-with-the-windstorm",
+        "views": 95381,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171413311-KingOfTheHill_908_GoneWithTheWindstorm.png",
+        "created": 1402945468,
+        "title_id": "731525",
+        "season_number": "9",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1674430278,
+        "tags": [
+            "king of the hill hank bobby luanne episode 908 gone with windstorm bully scaring weather forecast weatherman wildfire nancy"
+        ],
+        "rating_count": 188,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1495369800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171413311-KingOfTheHill_908_GoneWithTheWindstorm.png",
+        "cma_id": "731525"
+    },
+    {
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1674881940,
         "tms_id": "EP002070020189",
@@ -168,57 +220,6 @@
         "launch_date": 1495078200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484159758110.jpg",
         "cma_id": "1398663"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1674622740,
-        "tms_id": "EP002070020185",
-        "rating": 9.149624,
-        "description": "Hank realizes he doesn't have any home owner's insurance; Dale realizes people are willing to pay money to be stung by bees; Bill and Boomhauer discover the pleasures of a deep fryer; Peggy and Luanne get stuck at a highway rest stop with nothing to eat.",
-        "title_suggest": {
-            "input": [
-                "Mutual of Omabwah",
-                "of Omabwah",
-                "Omabwah"
-            ]
-        },
-        "type": "episode",
-        "title": "Mutual of Omabwah",
-        "expiration_date": 1495510199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1440.2388,
-        "episode_number": "8",
-        "original_air_date": 1236481200,
-        "clip_order": null,
-        "auth_launch_date": 1674018000,
-        "modified": 1673913499,
-        "media_id": "f8318bd1a4e39829f7bb2f265db78e9ef8e24445",
-        "airing_id": "RADS1001162300061466",
-        "id": "hhuxXUeSSDKGeBYxUOoY1A",
-        "slug": "mutual-of-omabwah",
-        "views": 226741,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15247536312519.jpg",
-        "created": 1402945468,
-        "title_id": "731520",
-        "season_number": "9",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1673913499,
-        "tags": [],
-        "rating_count": 401,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1494905400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247536312519.jpg",
-        "cma_id": "731520"
     },
     {
         "auth": true,
