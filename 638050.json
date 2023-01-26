@@ -158,6 +158,110 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1446763260,
+        "auth_expiration_date": 1665633540,
+        "tms_id": "EP008626240019",
+        "rating": 8.44262,
+        "description": "Wendell visits a friend.",
+        "title_suggest": {
+            "input": [
+                "The Middle",
+                "Middle"
+            ]
+        },
+        "type": "episode",
+        "title": "The Middle",
+        "expiration_date": 1677733140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 660.1668335,
+        "episode_number": "6",
+        "original_air_date": 1191211200,
+        "clip_order": null,
+        "auth_launch_date": 1662609600,
+        "modified": 1674577172,
+        "airing_id": "RADS1001242300062855",
+        "media_id": "bb808297a3bf62322998e7615404a326ac9d15e7",
+        "id": "kVcPR8gzThiqUUgC7vSUnQ",
+        "slug": "the-middle",
+        "views": 652147,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034165980-fd_019.jpg",
+        "created": 1402945466,
+        "title_id": "677653",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1674577172,
+        "tags": [],
+        "rating_count": 2126,
+        "collection_title": "Frisky Dingo",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1674709200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165980-fd_019.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446763260,
+        "auth_expiration_date": 1665028740,
+        "tms_id": "EP008626240018",
+        "rating": 8.265304,
+        "description": "Killface acquires an item for the home.",
+        "title_suggest": {
+            "input": [
+                "The Miracle",
+                "Miracle"
+            ]
+        },
+        "type": "episode",
+        "title": "The Miracle",
+        "expiration_date": 1677128340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
+        "duration": 674.7007007,
+        "episode_number": "5",
+        "original_air_date": 1190606400,
+        "clip_order": null,
+        "auth_launch_date": 1662004800,
+        "modified": 1674577173,
+        "airing_id": "RADS1001242300062853",
+        "media_id": "2984db41f75b23b02981f906a0ceda90f9408f83",
+        "id": "ow9_yx3XTemziwgcNxNROA",
+        "slug": "the-miracle",
+        "views": 528088,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341658476-fd_018.jpg",
+        "created": 1402945466,
+        "title_id": "677652",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1674577173,
+        "tags": [],
+        "rating_count": 2499,
+        "collection_title": "Frisky Dingo",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1674709200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341658476-fd_018.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446763020,
         "auth_expiration_date": 1676523540,
@@ -210,7 +314,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446763140,
         "auth_expiration_date": 1677733140,
         "tms_id": "EP008626240014",
@@ -422,61 +526,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1672290000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341657300-fd_015.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1446762900,
-        "auth_expiration_date": 1674709140,
-        "tms_id": "EP008626240009",
-        "rating": 6.5430193,
-        "description": "Killface and billionaire tycoon Xander Crews (operating under the nom de guerre of Barnaby Jones) are now roommates and bestest buds. But their friendship-even though it's based entirely on a lie-will be tested to the limit when Simon runs away with billionaire tycoon Xander Crews' robot pants. And also when Killface blinds \"Barnaby.\"",
-        "title_suggest": {
-            "input": [
-                "The Odd Couple",
-                "Odd Couple",
-                "Couple"
-            ]
-        },
-        "type": "episode",
-        "title": "The Odd Couple",
-        "expiration_date": 1671685140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "cNrrNbXsR7eSA_nXBay3_Q",
-        "duration": 640.1334668,
-        "episode_number": "9",
-        "original_air_date": 1165815000,
-        "clip_order": null,
-        "auth_launch_date": 1671685200,
-        "modified": 1671494879,
-        "media_id": "867cab15c04960554befdf7ff3dc0b02480bd12c",
-        "airing_id": "RADS1011142200044498",
-        "id": "yLZY6quTQqWBTiE-_rz8ww",
-        "slug": "the-odd-couple",
-        "views": 341871,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341654457-fd_009.jpg",
-        "created": 1402945466,
-        "title_id": "654435",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1671494879,
-        "tags": [
-            "frisky dingo episode 9 the odd couple killface barnaby jones blind robot pants"
-        ],
-        "rating_count": 3022,
-        "collection_title": "Frisky Dingo",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1668661200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341654457-fd_009.jpg",
         "cma_id": ""
     }
 ]
