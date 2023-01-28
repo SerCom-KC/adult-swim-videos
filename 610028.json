@@ -261,9 +261,9 @@
         "original_air_date": 1131940800,
         "clip_order": null,
         "auth_launch_date": 1675054800,
-        "modified": 1674849662,
+        "modified": 1674921235,
         "media_id": "044408f3a392a2c5318d44d362243c849299b3f1",
-        "airing_id": "RADS1001272300063280",
+        "airing_id": "RADS1001202300062398",
         "id": "3mT1tpgjTc-J5J7BpDS2pQ",
         "slug": "the-trial-of-robert-kelly",
         "views": 769198,
@@ -276,7 +276,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1674849662,
+        "published": 1674921235,
         "tags": [
             "boondocks episode 1 premiere first trial of r kelly rape video peeing court"
         ],
@@ -1065,6 +1065,58 @@
         "launch_date": 1671426000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321135483-boondocks_309.jpg",
         "cma_id": "1239903"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1675054740,
+        "tms_id": "EP007753880009",
+        "rating": 7.3855305,
+        "description": "When Granddad's oldest friend dies, the Freemans go back home and both Granddad and Huey have to learn to put the past behind them.",
+        "title_suggest": {
+            "input": [
+                "Wingmen"
+            ]
+        },
+        "type": "episode",
+        "title": "Wingmen",
+        "expiration_date": 1669611540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
+        "duration": 1302.3003003,
+        "episode_number": "13",
+        "original_air_date": 1141617600,
+        "clip_order": null,
+        "auth_launch_date": 1669611600,
+        "modified": 1674921233,
+        "airing_id": "RADS1011272200046522",
+        "media_id": "7bbdb3278fbddc640156d8f95e88d3b58fa7cb5e",
+        "id": "FD7BiqoZTNWFrhEUl0ZF1w",
+        "slug": "wingmen",
+        "views": 492278,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321121558-boondocks_111.jpg",
+        "created": 1402945478,
+        "title_id": "627812",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1674921233,
+        "tags": [
+            "boondocks episode 11 wingmen chicago wwii funeral ciro"
+        ],
+        "rating_count": 2944,
+        "collection_title": "The Boondocks",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1669006800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321121558-boondocks_111.jpg",
+        "cma_id": "1042038"
     },
     {
         "auth": false,
