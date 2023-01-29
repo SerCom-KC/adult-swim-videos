@@ -102,6 +102,60 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1675573140,
+        "tms_id": "EP002070020195",
+        "rating": 8.633135,
+        "description": "Peggy gets a job at the town newspaper writing a household tips column...but inadvertently gives readers the recipe for mustard gas.",
+        "title_suggest": {
+            "input": [
+                "Bystand Me",
+                "Me"
+            ]
+        },
+        "type": "episode",
+        "title": "Bystand Me",
+        "expiration_date": 1496114999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1441.807,
+        "episode_number": "2",
+        "original_air_date": 1236137400,
+        "auth_launch_date": 1674968400,
+        "clip_order": null,
+        "modified": 1674873874,
+        "media_id": "5165cba0d4aa07cf1ee2c9c0f927719d7d51695b",
+        "airing_id": "RADS1001272300063200",
+        "id": "Cw2oZ6epRcabWW-UzSY_Xw",
+        "slug": "bystand-me",
+        "views": 232393,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_22322143560-KingOfTheHill_821_BystandMe.png",
+        "created": 1402945468,
+        "title_id": "731529",
+        "season_number": "10",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1674873874,
+        "tags": [
+            "KOTH",
+            " Episode 821",
+            " Season 8",
+            " Peggy Hill",
+            " newspaper"
+        ],
+        "rating_count": 338,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1495510200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_22322143560-KingOfTheHill_821_BystandMe.png",
+        "cma_id": "731529"
+    },
+    {
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1675486740,
         "tms_id": "EP002070020194",
@@ -216,59 +270,5 @@
         "launch_date": 1495456200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171415287-KingOfTheHill_919_ItAintOverTillTheFatNeighborSings.png",
         "cma_id": "731527"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1674968340,
-        "tms_id": "EP002070020191",
-        "rating": 7.5913444,
-        "description": "Dale becomes a celebrity outlaw when he refuses to obey a new no-smoking ordinance; Peggy tries to locate the mysterious \"Smoking Bandit.\"",
-        "title_suggest": {
-            "input": [
-                "Smoking and the Bandit",
-                "and the Bandit",
-                "the Bandit",
-                "Bandit"
-            ]
-        },
-        "type": "episode",
-        "title": "Smoking and the Bandit",
-        "expiration_date": 1495855799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1439.9385,
-        "episode_number": "12",
-        "original_air_date": 1236738600,
-        "clip_order": null,
-        "auth_launch_date": 1674363600,
-        "modified": 1674176607,
-        "media_id": "43392f02d4329dc4ff542a85f3f87dcd8a042968",
-        "airing_id": "RADS1001192300062339",
-        "id": "w43rcDRYQWKqaCKkaUJxng",
-        "slug": "smoking-and-the-bandit",
-        "views": 143717,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152484166756017.jpg",
-        "created": 1402945468,
-        "title_id": "731524",
-        "season_number": "9",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1674176607,
-        "tags": [
-            "king of hill koth smoking and bandit episode 10"
-        ],
-        "rating_count": 208,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1495251000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152484166756017.jpg",
-        "cma_id": "731524"
     }
 ]
