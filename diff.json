@@ -1,7 +1,6 @@
 {
-    "updated": 1675008025,
-    "added": [],
-    "removed": [
+    "updated": 1675011624,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1451673840,
@@ -31,7 +30,7 @@
             "original_air_date": 1041222600,
             "clip_order": null,
             "auth_launch_date": 1664942400,
-            "modified": 1668641737,
+            "modified": 1675011169,
             "media_id": "62096cd9e247e6f8df5863725f3fd32fcc6afb13",
             "airing_id": "RADS1006261900003143",
             "id": "txlx10CfRjSGghpXrlZz-g",
@@ -46,7 +45,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1668641737,
+            "published": 1675011169,
             "tags": [
                 "brak show episode 20 we ski in peace take your son to work day giant ants"
             ],
@@ -61,5 +60,6 @@
             "collection_title_id": "340531",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
