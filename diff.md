@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 29, 2023 at 04:00:31 EST_
+_Last Update: January 29, 2023 at 04:30:31 EST_
 ## Video added
 ### Summary
-2356951 Made In Abyss: 1  
-### 2413212
-**Made In Abyss S02E10 - All That You Gather**  
-TV-MA-V 🔒 24:07  
-⌛ February 19, 2023 at 03:59:00 EST  
-https://www.adultswim.com/videos/made-in-abyss/all-that-you-gather  
-seriesid=`2356951` titleid=`2413212` id=`AYXxK3384k01GlbfzrYJ` mediaid=`b46624ab17f3ce937ee182b0e7cdad1664374a93`  
-_The reckoning comes, but Reg is too kind and foolish to be a bystander._  
-<a href="https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_231281758124-MadeInAbyss23210Still001.png"><img src="https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_231281758124-MadeInAbyss23210Still001.png" height="144px" /></a>
+2268280 Yashahime: Princess Half-Demon: 1  
+### 2394841
+**Yashahime: Princess Half-Demon S02E22 - The Grim Butterfly of Despair**  
+TV-14-V 🔒 22:18  
+⌛ February 19, 2023 at 04:29:00 EST  
+https://www.adultswim.com/videos/yashahime-princess-half-demon/the-grim-butterfly-of-despair  
+seriesid=`2268280` titleid=`2394841` id=`AYXxLR174k01GlbfzrYL` mediaid=`d8e5d5ccc7b47c67d7e1bd247bb1ae60f14b9490`  
+_Towa, Setsuna, and Moroha must save Rion, who has linked her fate with the Grim Butterfly._  
+<a href="https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_23128181170-YPHD046S002E022Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_23128181170-YPHD046S002E022Still001tiny.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
