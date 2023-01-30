@@ -138,7 +138,7 @@
         "launch_date": 1675054800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200819/thumbnails/2_20819813304-YOLO_105_dup-20200817.jpg",
         "id": "AXQGo49mLyLQBOXK_PLs",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1675659540,
@@ -277,7 +277,7 @@
         "launch_date": 1672030800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200827/thumbnails/2_208271034283-YOLO_108_dup-20200825.jpg",
         "id": "AXQwV3NgSeFB2d0c38or",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1672635540,
@@ -373,6 +373,52 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210119/thumbnails/2_21119154475-YOLO_102_dup-20200722.jpg",
         "id": "AXSiWtBmLyLQBOXK_POP",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1676869140,
+        "tms_id": "EP045818780003",
+        "description": "Sarah throws a Wollongong High School reunion to show off her blossoming new garden, but the success of her old school mates only deepens her crisis of self-worth. Rachel invites a bunch of randoms who turn the party to chaos.",
+        "title_suggest": {
+            "input": [
+                "High School Reunion",
+                "School Reunion",
+                "Reunion"
+            ]
+        },
+        "title": "High School Reunion",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXNJnfSIC8QgH-t19J8N",
+        "duration": 675.3747,
+        "episode_number": "3",
+        "original_air_date": 1675054800,
+        "auth_launch_date": 1675054800,
+        "clip_order": null,
+        "airing_id": "RADS1001272300063305",
+        "media_id": "a0dc7c9bc66d05fa3309346cebd8b5a1e3d2671d",
+        "modified": 1674946964,
+        "slug": "high-school-reunion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230128/thumbnails/1_23128181407-YOLO203Still001tiny.png",
+        "created": 1674850993,
+        "title_id": "2412377",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "published": 1674946964,
+        "tags": [],
+        "collection_title": "YOLO",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_23128181407-YOLO203Still001tiny.png",
+        "id": "AYX05gQy4k01GlbfzrYN",
+        "auth": true
     },
     {
         "auth_expiration_date": 1676265240,
