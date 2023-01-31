@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1675141140,
-        "tms_id": "EP042756160002",
-        "description": "Rumor has it the Raven, a secret society with fingers in the British government, guards a treasure - and Lupin aims to collect despite the interference of one Sherlock Holmes.",
-        "title_suggest": {
-            "input": [
-                "Enter Sherlock Holmes",
-                "Sherlock Holmes",
-                "Holmes"
-            ]
-        },
-        "title": "Enter Sherlock Holmes",
-        "expiration_date": 1653814740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
-        "duration": 1291.3234,
-        "episode_number": "1",
-        "original_air_date": "1650778200",
-        "auth_launch_date": 1669093200,
-        "clip_order": null,
-        "airing_id": "RADS1011212200045151",
-        "media_id": "daca08863fd511ff354ee7de9324cb48b72deb77",
-        "modified": 1668997184,
-        "slug": "enter-sherlock-holmes",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201436530-LupinThe3rd_Part6_601_EnterSherlockHolmes.png",
-        "created": 1650479823,
-        "season_number": "1",
-        "title_id": "2387382",
-        "tv_rating": "",
-        "published": 1668997184,
-        "tags": [],
-        "collection_title": "Lupin the 3rd Part 6",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1652605200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201436530-LupinThe3rd_Part6_601_EnterSherlockHolmes.png",
-        "id": "AYBIQ3pb208s7zyYUMpS",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1675745940,
         "tms_id": "EP042756160003",
         "description": "To proceed with their plans, Lupin and co. need to get that pesky Sherlock Holmes out of the picture but evading the legendary detective will prove a monumental challenge.",
@@ -470,6 +424,54 @@
         "launch_date": 1658044800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211411343-LupinThe3rd_Part6_DarwinsBird.png",
         "id": "AYGHdoyI208s7zyYUNMt",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1681185540,
+        "tms_id": "EP040430990013",
+        "description": "In the matter of the late Lord Faulkner's connection to the Raven, Sherlock and Lupin have eliminated the impossible. Now only the improbable truth remains.",
+        "title_suggest": {
+            "input": [
+                "The Truth and The Raven",
+                "Truth and The Raven",
+                "and The Raven",
+                "The Raven",
+                "Raven"
+            ]
+        },
+        "title": "The Truth and The Raven",
+        "type": "episode",
+        "expiration_date": 1660463940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1288.1869,
+        "episode_number": "11",
+        "original_air_date": 1657427400,
+        "auth_launch_date": 1675141200,
+        "clip_order": null,
+        "airing_id": "RADS1001282300063899",
+        "media_id": "33b52c876b37e21a2ad68da2d263b88681e8cf0b",
+        "modified": 1674968586,
+        "slug": "the-truth-and-the-raven",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761720413-LupinThe3rd_Part6_011_TheTruthAndTheRaven.png",
+        "created": 1657116881,
+        "title_id": "2387392",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "published": 1674968586,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1659254400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761720413-LupinThe3rd_Part6_011_TheTruthAndTheRaven.png",
+        "id": "AYHT3PDbIAxeiVkFtLQM",
         "auth": true
     }
 ]
