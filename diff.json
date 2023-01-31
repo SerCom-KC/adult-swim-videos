@@ -1,20 +1,20 @@
 {
-    "updated": 1675184777,
-    "added": [],
-    "removed": [
+    "updated": 1675197620,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1675400340,
-            "tms_id": "",
-            "description": "Asta meets Owen, a recovery mage, and is ready to finally heal his arms. But he learns something that could change his life forever! Unwilling to accept this fate, the Black Bulls decide to work together to help their friend.",
+            "tms_id": "EP027937620070",
+            "description": "Fana reveals that there's a magic stone in the Witches' Forest but before Asta and his friends find it, Ladros reappears! When the Diamond Mage consumes Salamander's power, Asta may not stand a chance.",
             "title_suggest": {
                 "input": [
-                    "Never Again",
-                    "Again"
+                    "Bettering One Another",
+                    "One Another",
+                    "Another"
                 ]
             },
-            "title": "Never Again",
-            "expiration_date": 1551608940,
+            "title": "Bettering One Another",
+            "expiration_date": 1586145599,
             "type": "episode",
             "platforms": [
                 "android",
@@ -23,35 +23,36 @@
                 "fire-tv"
             ],
             "collection_id": "AV-7K77EZ-onAnjDLtBM",
-            "duration": 1273.6,
-            "episode_number": "3",
-            "original_air_date": 1548572400,
+            "duration": 1301.57,
+            "episode_number": "11",
+            "original_air_date": 1553407200,
             "auth_launch_date": 1665028800,
             "clip_order": null,
-            "media_id": "7c32d97f03932595a9529507e71daaaa6648c61b",
-            "modified": 1664614108,
-            "airing_id": "RADS1009302200033297",
-            "slug": "never-again",
+            "media_id": "fbbd677be07af127b7d8e84ac041f94c1406f36e",
+            "modified": 1675197521,
+            "airing_id": "RADS1010012200033331",
+            "slug": "bettering-one-another",
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154843568288310.jpg",
-            "created": 1545083090,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155317942658517.jpg",
+            "created": 1552508214,
             "season_number": "2",
-            "title_id": "2183376",
-            "tv_rating": "tv-pg",
+            "title_id": "2189780",
+            "tv_rating": "tv-pg-lv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1664614108,
+            "published": 1675197521,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1550399400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154843568288310.jpg",
-            "id": "AWe-IPX9AScUIg8XxbYG",
+            "launch_date": 1584936000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155317942658517.jpg",
+            "id": "AWl4s1sRAScUIg8Xxd_w",
             "auth": true,
             "collection_slug": "black-clover",
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
