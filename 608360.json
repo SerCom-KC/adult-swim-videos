@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361280,
         "auth_expiration_date": 1675141199,
         "tms_id": "EP007259620122",
@@ -54,7 +54,7 @@
         "cma_id": "1426964"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447367760,
         "auth_expiration_date": 1703566740,
         "tms_id": "EP007259620118",
@@ -933,7 +933,7 @@
         "cma_id": "1368429"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361940,
         "auth_expiration_date": 1703566740,
         "tms_id": "EP007259620116",
@@ -4552,56 +4552,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1675141140,
-        "tms_id": "",
-        "description": "Rapid-fire channel flips propel viewers through Robot Chicken's twisted takes on pop culture. The quarter-hour Adult Swim entry brings action figures to life in three-dimensional worlds through the old-school magic of stop-motion animation.",
-        "title_suggest": {
-            "input": [
-                "The Bleepin' Robot Chicken Archie Comics Special",
-                "Bleepin' Robot Chicken Archie Comics Special",
-                "Robot Chicken Archie Comics Special",
-                "Chicken Archie Comics Special",
-                "Archie Comics Special",
-                "Comics Special",
-                "Special"
-            ]
-        },
-        "title": "The Bleepin' Robot Chicken Archie Comics Special",
-        "expiration_date": 1672117140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 1350.716,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1672117200,
-        "clip_order": null,
-        "airing_id": "RADS1012242200056238",
-        "media_id": "693bf44125fed411e49efaa0365c1d6ae028062c",
-        "modified": 1674962244,
-        "slug": "the-bleepin-robot-chicken-archie-comics-special",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210316/thumbnails/1_21316130427-RobotChicken_1023_dup-20210310.jpg",
-        "created": 1615914051,
-        "season_number": "11",
-        "title_id": "2265021",
-        "tv_rating": "tv-ma-lsv",
-        "published": 1674962244,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1669093200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210316/thumbnails/2_21316130427-RobotChicken_1023_dup-20210310.jpg",
-        "id": "AXg7-6bVDmGy9WFjRqoJ",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1679543940,
         "tms_id": "EP007259620223",
         "description": "The Gargoyles get as hard as stone, if you know what Robot Chicken means; Solid Snake must master the walk of shame; The Avengers learn to curb their enthusiasm.",
@@ -5041,6 +4991,68 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1687233540,
+        "tms_id": "EP007259620231",
+        "description": "Can Peppa Pig's love of muddy puddles do her dirty? Robot Chicken says yes; Smaug has another use for Hobbits; Feivel discovers being an American citizen comes with shocking responsibilities.",
+        "title_suggest": {
+            "input": [
+                "May Cause Your Dad to Come Back With That Gallon of Milk He Went Out for 10 Years Ago",
+                "Cause Your Dad to Come Back With That Gallon of Milk He Went Out for 10 Years Ago",
+                "Your Dad to Come Back With That Gallon of Milk He Went Out for 10 Years Ago",
+                "Dad to Come Back With That Gallon of Milk He Went Out for 10 Years Ago",
+                "to Come Back With That Gallon of Milk He Went Out for 10 Years Ago",
+                "Come Back With That Gallon of Milk He Went Out for 10 Years Ago",
+                "Back With That Gallon of Milk He Went Out for 10 Years Ago",
+                "With That Gallon of Milk He Went Out for 10 Years Ago",
+                "That Gallon of Milk He Went Out for 10 Years Ago",
+                "Gallon of Milk He Went Out for 10 Years Ago",
+                "of Milk He Went Out for 10 Years Ago",
+                "Milk He Went Out for 10 Years Ago",
+                "He Went Out for 10 Years Ago",
+                "Went Out for 10 Years Ago",
+                "Out for 10 Years Ago",
+                "for 10 Years Ago",
+                "10 Years Ago",
+                "Years Ago",
+                "Ago"
+            ]
+        },
+        "title": "May Cause Your Dad to Come Back With That Gallon of Milk He Went Out for 10 Years Ago",
+        "type": "episode",
+        "expiration_date": 1650859140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 670.5699,
+        "episode_number": "11",
+        "original_air_date": 1632283200,
+        "auth_launch_date": 1675141200,
+        "clip_order": null,
+        "airing_id": "RADS1001282300063844",
+        "media_id": "4b016d5dc093ad0b809e73c1b0f86664b9943366",
+        "modified": 1674959857,
+        "slug": "may-cause-your-dad-to-come-back-with-that-gallon-of-milk-he-went-out-for-10-years-ago",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/1_219211453258-RobotChicken_1110_MayCauseYourDadToComeBackWithThatGallonOfMilkHeWentOutFor10YearsAgo.png",
+        "created": 1631884310,
+        "title_id": "2270597",
+        "season_number": "11",
+        "tv_rating": "tv-ma",
+        "published": 1674959857,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1648612800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211453258-RobotChicken_1110_MayCauseYourDadToComeBackWithThatGallonOfMilkHeWentOutFor10YearsAgo.png",
+        "id": "AXvz4nj44Xbjep71f6HA",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1675745940,
         "tms_id": "EP007259620232",
         "description": "Robot Chicken helps George RR Martin finish his novel; The Road Runner knows how to exploit the Coyote; The Mos Eisley Cantina is an unlikely but perfect spot for a bachelorette party.",
@@ -5415,7 +5427,7 @@
         "cma_id": "1174084"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361580,
         "auth_expiration_date": 1675141199,
         "tms_id": "EP007259620121",
@@ -5732,7 +5744,7 @@
         "cma_id": "1443348"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362060,
         "auth_expiration_date": 1675141199,
         "tms_id": "EP007259620124",
@@ -6072,7 +6084,7 @@
         "cma_id": "1206041"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361940,
         "auth_expiration_date": 1675141199,
         "tms_id": "EP007259620120",
@@ -8169,7 +8181,7 @@
         "cma_id": "1449407"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447367820,
         "auth_expiration_date": 1703566740,
         "tms_id": "EP007259620119",
@@ -9495,7 +9507,7 @@
         "cma_id": "1427916"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361160,
         "auth_expiration_date": 1702357140,
         "tms_id": "EP007259620113",
@@ -10255,6 +10267,58 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447359060,
+        "auth_expiration_date": 1697515140,
+        "tms_id": "EP007259620075",
+        "rating": 7.270428,
+        "description": "The creators imagine how Freddy Krueger got his start, what would happen if the Monchhichis drew first blood, how Criss Angel delivers the Ultimate Mind Freak, and what a day with the Living Lohans might be like.",
+        "title_suggest": {
+            "input": [
+                "I Love Her",
+                "Love Her",
+                "Her"
+            ]
+        },
+        "type": "episode",
+        "title": "I Love Her",
+        "expiration_date": 1590551999,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 673,
+        "episode_number": "7",
+        "original_air_date": 1234153800,
+        "clip_order": null,
+        "auth_launch_date": 1675141200,
+        "modified": 1675140388,
+        "airing_id": "RADS1001302300064902",
+        "media_id": "0d687682fbb62b3a6c5b497ab985339ff103b774",
+        "id": "vyYkJQojRpiE6RgRODGy5g",
+        "slug": "i-love-her",
+        "views": 469914,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/1_20421651291-robotchicken_067.jpg",
+        "created": 1402945473,
+        "title_id": "747246",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1675140388,
+        "tags": [],
+        "rating_count": 1542,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1569384000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421651291-robotchicken_067.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447348020,
         "auth_expiration_date": 1685073540,
         "tms_id": "EP007259620029",
@@ -10481,7 +10545,7 @@
         "cma_id": "1160023"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361280,
         "auth_expiration_date": 1703566740,
         "tms_id": "EP007259620115",
@@ -10711,7 +10775,7 @@
         "cma_id": "1219839"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361700,
         "auth_expiration_date": 1675141199,
         "tms_id": "EP007259620123",
