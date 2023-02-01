@@ -5287,7 +5287,7 @@
         "cma_id": "1462331"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447442400,
         "auth_expiration_date": 1675486740,
         "tms_id": "EP007008180001",
@@ -5304,7 +5304,7 @@
         },
         "type": "episode",
         "title": "This Show Is Called Squidbillies",
-        "expiration_date": 2085368400,
+        "expiration_date": 1676091540,
         "platforms": [
             "web",
             "mobile",
@@ -5316,9 +5316,9 @@
         "original_air_date": 1112331600,
         "clip_order": null,
         "auth_launch_date": 1674277200,
-        "modified": 1674104580,
+        "modified": 1675268217,
         "media_id": "2db045d3f135421d737a4779b5469674fd9c15a2",
-        "airing_id": "RADS1001192300062202",
+        "airing_id": "RADS1002012300065788",
         "id": "gfkJR1BZQbanV9SpCZYxDg",
         "slug": "this-show-is-called-squidbillies",
         "views": 403201,
@@ -5331,7 +5331,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1674104580,
+        "published": 1675268217,
         "tags": [
             "squidbillies episode 1 premiere this show is called early origin first"
         ],
@@ -5339,7 +5339,7 @@
         "collection_title": "Squidbillies",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
+        "launch_date": 1675486800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_2048167591-squidbillies_001.jpg",
         "cma_id": "1313348"
     },
