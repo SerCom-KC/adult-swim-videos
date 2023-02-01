@@ -99,6 +99,54 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465106555.jpg"
     },
     {
+        "ott_launch_date": 1521469860,
+        "auth": false,
+        "auth_expiration_date": 1660708740,
+        "tms_id": "EP018514630031",
+        "description": "When Mrs. Goodman confronts the parents of Tommy's bullies, they dump their out-of-control kids with her for the day.",
+        "title_suggest": {
+            "input": [
+                "Bullies"
+            ]
+        },
+        "expiration_date": 1678251540,
+        "type": "episode",
+        "title": "Bullies",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.75,
+        "episode_number": "8",
+        "original_air_date": 1521432900,
+        "auth_launch_date": 1657684800,
+        "clip_order": null,
+        "media_id": "248842cb0b264dae86250bf3f8e3a737e1e1df68",
+        "modified": 1675012039,
+        "airing_id": "RADS1001292300064029",
+        "id": "AWHX879KNWyh42wYnlDD",
+        "slug": "bullies",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15197465410168.jpg",
+        "created": 1519746531,
+        "season_number": "3",
+        "title_id": "2120613",
+        "tv_rating": "tv-ma-lsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1675012039,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1675227600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15197465410168.jpg"
+    },
+    {
         "ott_launch_date": 1520865060,
         "auth": false,
         "auth_expiration_date": 1658894340,
@@ -392,7 +440,7 @@
         "cma_id": "1419066"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1520263860,
         "auth_expiration_date": 1678251540,
         "tms_id": "EP018514630026",
@@ -535,56 +583,6 @@
         "launch_date": 1671598800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151940609014319.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1465221600,
-        "auth_expiration_date": 1675227540,
-        "tms_id": "EP018514630019",
-        "description": "Mrs. Goodman makes a new friend, who invites her to a vegan workshop for the day, but the workshop takes a turn for the worst when Mrs. Goodman doesn't understand what it means to be vegan.",
-        "title_suggest": {
-            "input": [
-                "Vegans"
-            ]
-        },
-        "expiration_date": 1672203540,
-        "title": "Vegans",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 677.4170142,
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "episode_number": "8",
-        "original_air_date": 1465185600,
-        "clip_order": null,
-        "auth_launch_date": 1672203600,
-        "modified": 1671921453,
-        "media_id": "cc5252c961a57356b3f1aefccd8c02ce9469bbc6",
-        "airing_id": "RADS1012242200056298",
-        "id": "i-ssXjOST2KBMiaCWApdXg",
-        "slug": "vegans",
-        "views": 56950,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_20312112368-mrpickles_208_dup-20160516.jpg",
-        "created": 1462550918,
-        "season_number": "2",
-        "title_id": "2085310",
-        "tv_rating": "tv-ma-sv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1671921453,
-        "first_published": 1464887437,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1669179600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312112368-mrpickles_208_dup-20160516.jpg",
-        "cma_id": "1414655"
     },
     {
         "auth": true,
