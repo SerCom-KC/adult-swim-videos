@@ -1,6 +1,125 @@
 {
-    "updated": 1675213158,
+    "updated": 1675214417,
     "added": [
+        {
+            "ott_launch_date": 1517844600,
+            "auth": true,
+            "auth_expiration_date": 1675400340,
+            "tms_id": "EP007259620180",
+            "description": "RC wonders how Harriet the Spy would fit into the modern world of Cyberwarfare. The Midnight Society figures out what is truly scary. Alvin and the Chipmunks play Coachella for the first and last time.",
+            "title_suggest": {
+                "input": [
+                    "3 2 1 2 3 3 3, 2 2 2, 3...6 6?",
+                    "2 1 2 3 3 3, 2 2 2, 3...6 6?",
+                    "1 2 3 3 3, 2 2 2, 3...6 6?",
+                    "2 3 3 3, 2 2 2, 3...6 6?",
+                    "3 3 3, 2 2 2, 3...6 6?",
+                    "3 3, 2 2 2, 3...6 6?",
+                    "3, 2 2 2, 3...6 6?",
+                    "2 2 2, 3...6 6?",
+                    "2 2, 3...6 6?",
+                    "2, 3...6 6?",
+                    "3...6 6?",
+                    "6?"
+                ]
+            },
+            "expiration_date": 1590551999,
+            "type": "episode",
+            "title": "3 2 1 2 3 3 3, 2 2 2, 3...6 6?",
+            "platforms": [
+                "android",
+                "fire-tv",
+                "ios",
+                "ott",
+                "roku"
+            ],
+            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+            "duration": 648.67,
+            "episode_number": "7",
+            "original_air_date": 1517805000,
+            "auth_launch_date": 1667534400,
+            "clip_order": null,
+            "media_id": "0bab810f2bdf5ee15aa20b034f6074e5d706294c",
+            "modified": 1675214167,
+            "airing_id": "RADS1011032200042658",
+            "id": "AWDb2pVYwdpKFAKScTHU",
+            "slug": "3-2-1-2-3-3-3-2-2-2-3-6-6",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461315325-robotchicken_906_dup-20180104.jpg",
+            "created": 1515517023,
+            "season_number": "9",
+            "title_id": "2139700",
+            "tv_rating": "tv-ma",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1675214167,
+            "tags": [],
+            "collection_title": "Robot Chicken",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1569384000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461315325-robotchicken_906_dup-20180104.jpg",
+            "collection_slug": "robot-chicken",
+            "collection_title_id": "608360",
+            "online_exclusives": false
+        },
+        {
+            "ott_launch_date": 1516635000,
+            "auth": true,
+            "auth_expiration_date": 1675400340,
+            "tms_id": "EP007259620178",
+            "description": "The Robot Chicken team discovers the emotions of adulthood in Inside Out 2. The pig from Black Mirror tells all to Howard Stern. The Nerd forces his way through Star Wars: Force Awakens.",
+            "title_suggest": {
+                "input": [
+                    "Mr. Mozzarella's Hamburger Skateboard Depot",
+                    "Mozzarella's Hamburger Skateboard Depot",
+                    "Hamburger Skateboard Depot",
+                    "Skateboard Depot",
+                    "Depot"
+                ]
+            },
+            "expiration_date": 1590551999,
+            "type": "episode",
+            "title": "Mr. Mozzarella's Hamburger Skateboard Depot",
+            "platforms": [
+                "android",
+                "fire-tv",
+                "ios",
+                "ott",
+                "roku"
+            ],
+            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+            "duration": 673.97,
+            "episode_number": "5",
+            "original_air_date": 1516595400,
+            "auth_launch_date": 1667534400,
+            "clip_order": null,
+            "media_id": "bead87689c3f9c38789579741788566c90857b09",
+            "modified": 1675214167,
+            "airing_id": "RADS1011032200042667",
+            "id": "AWDbt5WXwdpKFAKScTFM",
+            "slug": "mr-mozzarellas-hamburger-skateboard-depot",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461313511-robotchicken_904_dup-20171030.jpg",
+            "created": 1515514729,
+            "season_number": "9",
+            "title_id": "2139698",
+            "tv_rating": "tv-ma",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1675214167,
+            "tags": [],
+            "collection_title": "Robot Chicken",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1569384000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461313511-robotchicken_904_dup-20171030.jpg",
+            "collection_slug": "robot-chicken",
+            "collection_title_id": "608360",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "ott_launch_date": 1513006242,
             "auth_expiration_date": 1675400340,
@@ -64,6 +183,5 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
