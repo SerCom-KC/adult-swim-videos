@@ -2158,6 +2158,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1675486740,
+        "tms_id": "EP007008180128",
+        "description": "Early is forced to choose between his community and his hats.",
+        "title_suggest": {
+            "input": [
+                "The Liceman Cometh",
+                "Liceman Cometh",
+                "Cometh"
+            ]
+        },
+        "title": "The Liceman Cometh",
+        "expiration_date": 1676091540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 673.3727,
+        "episode_number": "8",
+        "original_air_date": "1639371600",
+        "auth_launch_date": 1673672400,
+        "clip_order": null,
+        "airing_id": "RADS1001132300060949",
+        "media_id": "4a846b362f20394c813d006fc2924797d7d2fa5a",
+        "modified": 1675271295,
+        "slug": "the-liceman-cometh",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/1_2112101038426-Squidbillies_1103_TheLicemanCometh.png",
+        "created": 1639150735,
+        "season_number": "13",
+        "title_id": "2323127",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1675271295,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1675486800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101038426-Squidbillies_1103_TheLicemanCometh.png",
+        "id": "AX2k_07U4Xbjep71f6Hp",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1690603140,
         "tms_id": "",
         "description": "Early exercises his freedom of speech by speeching differently from now on.",
