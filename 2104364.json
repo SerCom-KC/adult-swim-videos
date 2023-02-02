@@ -47,6 +47,56 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1516030140,
+        "auth_expiration_date": 1669265940,
+        "tms_id": "EP025439100002",
+        "description": "Jen grows an umbilical cord. Branski talks about apples. Also, there's mummies.",
+        "title_suggest": {
+            "input": [
+                "Got a Minute for Love?",
+                "a Minute for Love?",
+                "Minute for Love?",
+                "for Love?",
+                "Love?"
+            ]
+        },
+        "title": "Got a Minute for Love?",
+        "type": "episode",
+        "expiration_date": 1678337940,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "fXqvCbmfQGK3pmdTs7JWaw",
+        "duration": 675.21,
+        "episode_number": "1",
+        "original_air_date": 1515992400,
+        "clip_order": null,
+        "auth_launch_date": 1666238400,
+        "modified": 1675153595,
+        "media_id": "990d59b4d3936ad8367cb9a327c20496ebfc3c27",
+        "airing_id": "RADS1001302300064958",
+        "id": "7MdHf78MQeKH6TKZR2P7PQ",
+        "slug": "got-a-minute-for-love",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351444154-hotstreets_102_dup-20180105.jpg",
+        "created": 1502812746,
+        "season_number": "1",
+        "title_id": "2131833",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1675153595,
+        "tags": [],
+        "collection_title": "Hot Streets",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1675314000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351444154-hotstreets_102_dup-20180105.jpg",
+        "cma_id": ""
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "Get to know the team.",
@@ -357,55 +407,6 @@
         "launch_date": 1554103800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351530152-hotstreets_204_dup-20181214.jpg",
         "id": "AWd2L0ZMAsbXwNj3wAW9",
-        "auth": false
-    },
-    {
-        "ott_launch_date": 1551108600,
-        "auth_expiration_date": 1675313940,
-        "tms_id": "",
-        "description": "Hot Streets gets a new boss. French finds himself stranded on an island full of Hot Streets clones.",
-        "title_suggest": {
-            "input": [
-                "Creamy Zeus",
-                "Zeus"
-            ]
-        },
-        "title": "Creamy Zeus",
-        "expiration_date": 1672289940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "fXqvCbmfQGK3pmdTs7JWaw",
-        "duration": 670.13,
-        "episode_number": "1",
-        "original_air_date": 1551070800,
-        "auth_launch_date": 1672290000,
-        "clip_order": null,
-        "media_id": "b0669d2c8f384eea93f1439c403d0c3818800009",
-        "modified": 1672215823,
-        "airing_id": "RADS1012262200056393",
-        "slug": "creamy-zeus",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351528325-hotstreets_201_dup-20181211.jpg",
-        "created": 1543875905,
-        "season_number": "2",
-        "title_id": "2184496",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1672215823,
-        "tags": [],
-        "collection_title": "Hot Streets",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1669266000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351528325-hotstreets_201_dup-20181211.jpg",
-        "id": "AWd2LMnXAsbXwNj3wAW7",
         "auth": false
     },
     {
