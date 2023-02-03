@@ -60,7 +60,7 @@
         "cma_id": "1381139"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1675400340,
         "tms_id": "EP019059960017",
@@ -226,7 +226,7 @@
         "cma_id": "1361025"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1675400340,
         "tms_id": "EP019059960058",
@@ -474,53 +474,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1674795600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251633300-attackontitan_038_dup-20180816.jpg"
-    },
-    {
-        "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1675400340,
-        "tms_id": "EP019059960066",
-        "description": "The Scouts take a stand against a new enemy, but it's not just Titans they'll be fighting anymore.",
-        "title_suggest": {
-            "input": [
-                "Pain"
-            ]
-        },
-        "expiration_date": 1676609940,
-        "type": "episode",
-        "title": "Pain",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
-        "duration": 1371.46,
-        "episode_number": "2",
-        "original_air_date": 1535254200,
-        "auth_launch_date": 1669352400,
-        "clip_order": null,
-        "media_id": "7af009104359bc12f9b535f806e79e725b778b6a",
-        "modified": 1675380217,
-        "airing_id": "RADS1011222200046235",
-        "id": "AWVoyfahh5enQuYyHlma",
-        "slug": "pain",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_202251633504-attackontitan_039_dup-20180823.jpg",
-        "created": 1535061390,
-        "season_number": "3",
-        "title_id": "2170496",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1675380217,
-        "tags": [],
-        "collection_title": "Attack on Titan",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1675486800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251633504-attackontitan_039_dup-20180823.jpg"
     },
     {
         "ott_launch_date": null,
@@ -1006,7 +959,7 @@
         "launch_date": 1674190800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg",
         "id": "AWbu1YiT3OEkyfT4qJSV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -2933,7 +2886,7 @@
         "cma_id": "1445703"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1681444740,
         "tms_id": "EP019059960056",
@@ -3852,7 +3805,7 @@
         "cma_id": "2117214"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1687492740,
         "tms_id": "EP019059960048",
