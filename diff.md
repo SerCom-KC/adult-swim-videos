@@ -2,172 +2,130 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 4, 2023 at 00:00:29 EST_
+_Last Update: February 4, 2023 at 00:30:26 EST_
 ## Video added
 ### Summary
-581268 Squidbillies: 3  
-### 653888
-**Squidbillies S02E05 - Giant Foam Dickhat Trouble**  
-TV-14-DLS 🔒 11:19  
-⌛ February 17, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/giant-foam-dickhat-trouble  
-seriesid=`581268` titleid=`653888` id=`qtZNlTDpQPmuV3boKYxQcw` mediaid=`5280cb2d0ed1d6343ea168db68784a5a99bbca58`  
-_Early's party hat enrages God._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114428-squidbillies_011.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114428-squidbillies_011.jpg" height="144px" /></a>
-### 2092359
-**Squidbillies S10E01 - Lipstick on a Squid**  
-TV-MA 🔒 11:27  
-⌛ June 16, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/lipstick-on-a-squid  
-seriesid=`581268` titleid=`2092359` id=`S1p3arLfQhyW-9SRM7VEUw` mediaid=`32525093dedd9f62b858b26de51eb07ef3bfb258`  
-_The Cuylers donate their bodies to science while they can still make money from them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141128282-squidbillies_902_dup-20160706.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141128282-squidbillies_902_dup-20160706.jpg" height="144px" /></a>
-### 2108971
-**Squidbillies S11E07 - Tortuga de Mentiras**  
-TV-14-DLV 🔒 11:17  
-⌛ July 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/tortuga-de-mentiras  
-seriesid=`581268` titleid=`2108971` id=`AV_uQ6mowdpKFAKSbh1U` mediaid=`9128debc734b5f6b717c7c9af0cc04c0aa3c7e43`  
-_Everyone lies and all the houses burn._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg" height="144px" /></a>
+581006 American Dad: 2  
+2020945 Attack on Titan: 1  
+2143080 Black Clover: 1  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+### 748214
+**American Dad S08E16 - The Boring Identity**  
+TV-14 🔒 21:31  
+⌛ February 10, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-boring-identity  
+seriesid=`581006` titleid=`748214` id=`XnaRNcwGSVatNqjZuzzDDQ` mediaid=`77698cecba87b21253d4efaba292a828bd9254bd`  
+_When Stan loses his memory, Francine attempts to transform him into the perfect husband; Roger joins Steve's newspaper route._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803208209919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803208209919.jpg" height="144px" /></a>
+### 748218
+**American Dad S08E17 - The Full Cognitive Redaction of Avery Bullock by the Coward Stan Smith**  
+TV-14 🔒 21:31  
+⌛ February 10, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-full-cognitive-redaction-of-avery-bullock-by-the-coward-stan-smith  
+seriesid=`581006` titleid=`748218` id=`_1sXTK7gQQulIaX-njJqRw` mediaid=`53cd6080effcc7fb3b28971e957e762e593c8a1c`  
+_Stan learns that the CIA wants to wipe out Bullock's memory after he exhibits signs of dementia; Roger hires Stelio Kontos to deal with a student who's bullying Steve at school._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803211999014.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803211999014.jpg" height="144px" /></a>
+### 2170496
+**Attack on Titan S03E02 - Pain**  
+TV-14-LV 🔓 22:51  
+⌛ February 16, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/attack-on-titan/pain  
+seriesid=`2020945` titleid=`2170496` id=`AWVoyfahh5enQuYyHlma` mediaid=`7af009104359bc12f9b535f806e79e725b778b6a`  
+_The Scouts take a stand against a new enemy, but it's not just Titans they'll be fighting anymore._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251633504-attackontitan_039_dup-20180823.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251633504-attackontitan_039_dup-20180823.jpg" height="144px" /></a>
+### 2216643
+**Black Clover S03E05 - The Battle for Clover Castle**  
+TV-PG-LV 🔒 21:17  
+⌛ June 11, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-clover/the-battle-for-clover-castle  
+seriesid=`2143080` titleid=`2216643` id=`AXB334sw3HMJfT8do8uV` mediaid=`53f84fbffbf878c686059c61d47448bfc10cf83e`  
+_Yami and Finral take on possessed members of the Golden Dawn. Noelle and Nozel must defend their siblings when the Silva family home is under siege._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241044582-BlackClover_107.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241044582-BlackClover_107.jpg" height="144px" /></a>
+### 2003424
+**Bob's Burgers S01E02 - Crawl Space**  
+TV-PG 🔒 21:30  
+⌛ February 10, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/crawl-space  
+seriesid=`2003422` titleid=`2003424` id=`7CPkiayCT7q_siDtFOqY8Q` mediaid=`3cb82ec5aa600492a3760a3298972f1c815f6e0c`  
+_When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg" height="144px" /></a>
+### 2003425
+**Bob's Burgers S01E03 - Sacred Cow**  
+TV-14 🔒 21:36  
+⌛ February 10, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/sacred-cow  
+seriesid=`2003422` titleid=`2003425` id=`xJmLhV5aQoOv_wp8zd_p-g` mediaid=`f89db78e609e6ac2b3578dcc90af991e20df44a1`  
+_When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob ends up treating the cow like a member of the family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg" height="144px" /></a>
+### 2161611
+**Futurama S06E08 - The Beast with a Billion Backs Part 4**  
+TV-14-DLSV 🔒 22:37  
+⌛ February 10, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/the-beast-with-a-billion-backs-part-4  
+seriesid=`437532` titleid=`2161611` id=`AX59ZeM3_0O4w1rD3RcL` mediaid=`9d014d8d2f11d4ea95748d1284af7a8549466893`  
+_Everybody in the Universe and Yivo live together happily, except for a skeptical Leela. Bender misses the humans._  
+<a href="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png"><img src="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png" height="144px" /></a>
+### 731533
+**King of the Hill S10E06 - Orange You Sad I Did Say Banana?**  
+TV-PG-L 🔒 23:57  
+⌛ February 10, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/orange-you-sad-i-did-say-banana  
+seriesid=`629835` titleid=`731533` id=`wCrjp1HNQQG7ajS9mB-F8g` mediaid=`28464148169bf60f1f4dc6972600f9c0bee7ab98`  
+_Kahn embraces his Laotian heritage and trains to be a rebel fighter; Bobby learns CPR._  
+<a href="https://media.cdn.adultswim.com/uploads/20220328/thumbnails/2_223281311453-KingOfTheHill_911_OrangeYouSadIDidSayBanana.png"><img src="https://media.cdn.adultswim.com/uploads/20220328/thumbnails/2_223281311453-KingOfTheHill_911_OrangeYouSadIDidSayBanana.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2398940 Housing Complex C: 1  
-340539 Harvey Birdman, Attorney at Law: 1  
-581268 Squidbillies: 15  
-### 2398943
-**Housing Complex C S01E03 - The Wheel Comes Full Circle**  
-TV-MA 🔓 25:05  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+581006 American Dad: 2  
+629835 King of the Hill: 1  
+### 2171453
+**Bob's Burgers S08E13 - Cheer Up Sleepy Gene**  
+TV-PG-LS 🔓 21:32  
 ⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/housing-complex-c/the-wheel-comes-full-circle  
-seriesid=`2398940` titleid=`2398943` id=`AYPHvt6V3sQvipyea-nz` mediaid=`863f12c1a33a4ab1e694b55f3101462b57c62f9d`  
-_As more and more bizarre events occur, everyone is becoming concerned. Kimi and some of the older residents explore the ruins under the complex in search of what might be causing all of these incidents._  
-<a href="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121049203-HousingComplexC_103_TheWheelComesFullCircle.png"><img src="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121049203-HousingComplexC_103_TheWheelComesFullCircle.png" height="144px" /></a>
-### 614807
-**Harvey Birdman, Attorney at Law S03E03 - X Gets the Crest**  
-TV-PG-V 🔒 11:35  
+https://www.adultswim.com/videos/bobs-burgers/cheer-up-sleepy-gene  
+seriesid=`2003422` titleid=`2171453` id=`AWgadw-5zQU7gEG1jvbO` mediaid=`7bffedf6688752ff36c70895ca2b2c1a3d068118`  
+_Gene gets invited to his first sleepover and is nervous about it, and when things don't go as planned, he realizes he had a right to be. Meanwhile, Bob and Linda record themselves while sleeping to prove which of them snores more._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154775592584119.jpg" height="144px" /></a>
+### 2171454
+**Bob's Burgers S08E14 - The Trouble with Doubles**  
+TV-14-LV 🔓 21:32  
 ⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/x-gets-the-crest  
-seriesid=`340539` titleid=`614807` id=`8bnZmF-yQmCeRsdatg8Mjg` mediaid=`d05a180b7f3a1c1a0aa71c61925e4bba6847fc70`  
-_After 30 years of failed attempts, X gets the crest on Birdman's helmet.  Convinced he's powerless without his crest, Harvey falls apart, stops shaving and loses a case defending Ricochet Rabbit from charges of wanton and willful destruction.  X, on the other hand, turns his life around.  He starts fighting for the cause of all that is good, winds up in newspaper headlines and on afternoon talk shows._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351420554-harvey_023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351420554-harvey_023.jpg" height="144px" /></a>
-### 2108968
-**Squidbillies S11E05 - The Ballad of the Latrine Marine**  
-TV-14-DLSV 🔒 11:17  
+https://www.adultswim.com/videos/bobs-burgers/the-trouble-with-doubles  
+seriesid=`2003422` titleid=`2171454` id=`AWlyQ4jeHl5gR6828yz8` mediaid=`20482d36e5c5a76dd4b07eff922456c22b1d7d53`  
+_Bob and Linda's double date plans take a disastrous turn when the couples find themselves trapped inside an Escape Room. Meanwhile, Louise hosts a zombie-movie night, but when the zombies turn out to be too scary, Tina must take charge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155371042702217.jpg" height="144px" /></a>
+### 2161606
+**Futurama S06E03 - Bender's Big Score Part 3**  
+TV-14-DLV 🔒 22:31  
 ⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-ballad-of-the-latrine-marine  
-seriesid=`581268` titleid=`2108968` id=`AV-mQXGAwdpKFAKSbS73` mediaid=`54c9c90fbf1aa2f2904e6caad7de635e7fa0d2a0`  
-_It takes a man to make the women's room safe from men who think they're women._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151058978554711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151058978554711.jpg" height="144px" /></a>
-### 2108964
-**Squidbillies S11E04 - The Knights of the Noble Order of the Mystic Turquoise Goblet**  
-TV-14-DLS 🔒 11:12  
+https://www.adultswim.com/videos/futurama/benders-big-score-part-3  
+seriesid=`437532` titleid=`2161606` id=`AX4xSLf_208s7zyYUL9W` mediaid=`60e0bf79d864e940952d90db3d44fd40386d2b8e`  
+_As Leela and Lars prepare to get married, we learn what happened to Fry when he returned to the 21st century._  
+<a href="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png"><img src="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png" height="144px" /></a>
+### 748210
+**American Dad S08E04 - American Stepdad**  
+TV-14 🔒 21:33  
 ⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-knights-of-the-noble-order-of-the-mystic-turquoise-goblet  
-seriesid=`581268` titleid=`2108964` id=`AV9eWXAbSPzxOkLuqdkZ` mediaid=`26ff1c11a6021b95d08bc89e2d0f6cce072318ed`  
-_Early's most confusing conspiracy theory turns out to be false._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150999394764418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150999394764418.jpg" height="144px" /></a>
-### 2108969
-**Squidbillies S11E03 - Jacksonville Jackass**  
-TV-MA-L 🔒 11:12  
+https://www.adultswim.com/videos/american-dad/american-stepdad  
+seriesid=`581006` titleid=`748210` id=`YL0E_Xu4SFaE8uywxrMjXw` mediaid=`6a6cc4ed3c18abc283cf2317be96829dab1e5046`  
+_Stan invites his mother (guest voice Swoosie Kurtz) to come live with the family after Stan's stepfather dies, and tensions rise when Roger is forced to share his attic with her. But Roger and Stan's mom quickly fall in love and get married, and Stan is forced to deal with Roger as his new stepdad. Meanwhile, Steve and his friends discover a mysterious plane crash while on a bike ride and come across a long-lost script of a "Fast and Furious" movie that they are determined to get made._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180322332796.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180322332796.jpg" height="144px" /></a>
+### 748206
+**American Dad S08E05 - Why Can't We Be Friends**  
+TV-14 🔒 21:31  
 ⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/jacksonville-jackass  
-seriesid=`581268` titleid=`2108969` id=`AV9eWuUNUsnTssXbIAby` mediaid=`81781565f0aacdbfe347fc1908efc161c25d17c9`  
-_Sheriff discovers alcohol at the world's largest outdoor cocktail party._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141151143-squidbillies_915_dup-20171026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141151143-squidbillies_915_dup-20171026.jpg" height="144px" /></a>
-### 2108970
-**Squidbillies S11E06 - Debased Ball**  
-TV-14-DLSV 🔒 11:12  
+https://www.adultswim.com/videos/american-dad/why-cant-we-be-friends  
+seriesid=`581006` titleid=`748206` id=`jVN8ceujT-emfiwm4E3xNA` mediaid=`02ba0bfef7412eaf6df9c297a1e96f13541a5f5f`  
+_After concluding that Snot isn't cool enough to hang out with Steve, Stan concocts a scheme to separate the pair by sticking Snot in the Witness Protection Program; Roger gives Steve money to clean out his attic._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803226157714.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803226157714.jpg" height="144px" /></a>
+### 731528
+**King of the Hill S10E01 - Hank's On Board**  
+TV-PG 🔒 23:57  
 ⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/debased-ball  
-seriesid=`581268` titleid=`2108970` id=`AV_Kk5-NZ-onAnjDLtHk` mediaid=`789c4194ff73b15c00e007875919d527ee2c1a90`  
-_Early exploits himself for attention._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151094958540114.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151094958540114.jpg" height="144px" /></a>
-### 2108974
-**Squidbillies S11E09 - The War on the War on Christmas**  
-TV-14-DLSV 🔒 11:26  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-war-on-the-war-on-christmas  
-seriesid=`581268` titleid=`2108974` id=`AWA42fCwZ-onAnjDLtdq` mediaid=`6ea0d31d516bd80fa67cbb8475e9fcdca8f2e56a`  
-_Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas, Merry Christmas!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130121655473.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130121655473.jpg" height="144px" /></a>
-### 2108972
-**Squidbillies S11E08 - Duel of the Dimwits**  
-TV-MA 🔒 11:16  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/duel-of-the-dimwits  
-seriesid=`581268` titleid=`2108972` id=`AWAVsnhlZ-onAnjDLtVd` mediaid=`23f9e55fd98bc98bfc87e8906e66d2b4ad40f8cf`  
-_Two idiots argue about stuff nobody cares about._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg" height="144px" /></a>
-### 2092364
-**Squidbillies S10E06 - Cephalo-ectomy**  
-TV-14-DLV 🔒 11:14  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/cephalo-ectomy  
-seriesid=`581268` titleid=`2092364` id=`BCx4BtabTm6H8bNpwVNl2g` mediaid=`50fbc14e15c885f955c28a5bbef62757c2007e1b`  
-_You can take the squid out of the boy, but it's not covered by insurance._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141141252-squidbillies_909_dup-20160812.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141141252-squidbillies_909_dup-20160812.jpg" height="144px" /></a>
-### 2092358
-**Squidbillies S10E04 - The Peep**  
-TV-14 🔒 11:22  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-peep  
-seriesid=`581268` titleid=`2092358` id=`G6cZHTZbSGOfi_kLhIzoFw` mediaid=`62742977319c96a8dd2ffcf9c95202b3d10d93ed`  
-_Sheriff tries stand-up comedy and kills himself._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141135456-squidbillies_901_dup-20160829.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141135456-squidbillies_901_dup-20160829.jpg" height="144px" /></a>
-### 2092360
-**Squidbillies S10E03 - Trackwood Race-ist**  
-TV-14-DLSV 🔒 11:11  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/trackwood-race-ist  
-seriesid=`581268` titleid=`2092360` id=`KyPFrim7QGe3knskoiM-IA` mediaid=`16576ac7de63aaa1e8f21010b69720d78c3caa34`  
-_Early pulls from a bag of tricks to vanquish his grandson._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141129238-squidbillies_903_dup-20160721.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141129238-squidbillies_903_dup-20160721.jpg" height="144px" /></a>
-### 651236
-**Squidbillies S02E03 - Double Truckin' The Tricky Two**  
-TV-14-DLV 🔒 11:06  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/double-truckin-the-tricky-two  
-seriesid=`581268` titleid=`651236` id=`SovWSBZwSsiMn95A4H8U2g` mediaid=`dd773a36656e61780e624f2cfe1b2ba69ed1ba65`  
-_Early does his part to support Georgia public education._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131113578-squidbillies_009.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131113578-squidbillies_009.jpg" height="144px" /></a>
-### 651186
-**Squidbillies S02E02 - Butt Trouble**  
-TV-14-DLV 🔒 10:36  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/butt-trouble  
-seriesid=`581268` titleid=`651186` id=`bp02fk9fRMyDFRSYIeXy7A` mediaid=`c239d6c63021a15d8d98ef72d1101f01d697fcdf`  
-_Something strange comes out of Rusty's butt._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131113231-squidbillies_008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131113231-squidbillies_008.jpg" height="144px" /></a>
-### 651237
-**Squidbillies S02E04 - Swayze Crazy**  
-TV-14-DLV 🔒 11:24  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/swayze-crazy  
-seriesid=`581268` titleid=`651237` id=`i2vONMkHRPS5TJ4agN3xGQ` mediaid=`d496f54c4cee60d9465814deb5592081b0117e89`  
-_The squids meet a legless drifter. Not featuring Patrick Swayze._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg" height="144px" /></a>
-### 2108967
-**Squidbillies S11E02 - The Guzzle Bumpkin**  
-TV-MA-LV 🔒 11:14  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-guzzle-bumpkin  
-seriesid=`581268` titleid=`2108967` id=`uDDNlaxhRV2c-zu7uIlBJQ` mediaid=`6ea7a7a8d6f2b63810c8b999fe5c800d997392ae`  
-_Grab deez nutz and Guzzle up!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141150475-squidbillies_913_dup-20171019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141150475-squidbillies_913_dup-20171019.jpg" height="144px" /></a>
-### 650446
-**Squidbillies S02E01 - Government Brain Voodoo Trouble**  
-TV-MA 🔒 11:15  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/government-brain-voodoo-trouble  
-seriesid=`581268` titleid=`650446` id=`vkOTj_8fRwuP9zJQS6qbbw` mediaid=`220763c1c720548e821043f8f86bd698c6e7fc1f`  
-_Early and the Sheriff reach a crossroads. Not starring Charles Napier._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481613237-squidbillies_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481613237-squidbillies_007.jpg" height="144px" /></a>
-### 2100652
-**Squidbillies S10E09 - Thanks-Taking**  
-TV-14-DLV 🔒 11:27  
-⌛ February 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/thanks-taking  
-seriesid=`581268` titleid=`2100652` id=`w4nWhAJ2SWGpxbD0Fe9R7w` mediaid=`619fc719b72e5fdfe856d2a3aa1f346f5c7cb7bd`  
-_Rusty's new friend gets invited to a very special Thanksgiving dinner._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149150-squidbillies_908_dup-20161118.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149150-squidbillies_908_dup-20161118.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/hanks-on-board  
+seriesid=`629835` titleid=`731528` id=`RgUnWj-gQT-DiD_j3_RboQ` mediaid=`d637b263638ba70492eef3beb864e495d90172a6`  
+_Hank tries to loosen up after realizing that his friends have been sneaking off on fishing trips and not inviting him along because he's too bossy._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152528395669219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152528395669219.jpg" height="144px" /></a>
