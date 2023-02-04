@@ -1,7 +1,6 @@
 {
-    "updated": 1675547834,
-    "added": [],
-    "removed": [
+    "updated": 1675549347,
+    "added": [
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1675745940,
@@ -35,8 +34,8 @@
             "auth_launch_date": 1672722000,
             "clip_order": null,
             "media_id": "6764253e7949bb6b1f3c51952460942753e17b30",
-            "modified": 1672533841,
-            "airing_id": "RADS1011272200046596",
+            "modified": 1675549243,
+            "airing_id": "RADS1012312200056770",
             "slug": "garfield-stockman-in-a-voice-like-wet-ham",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20191010/thumbnails/1_191010155579-robotchicken_1005_dup-20190815.jpg",
@@ -46,7 +45,7 @@
             "tv_rating": "tv-14-dlsv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1672533841,
+            "published": 1675549243,
             "tags": [],
             "collection_title": "Robot Chicken",
             "disable_ads": false,
@@ -59,5 +58,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
