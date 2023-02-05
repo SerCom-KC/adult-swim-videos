@@ -655,6 +655,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1705899540,
+        "tms_id": "EP034917240388",
+        "description": "The Second Exam finally begins! To pass this stage, each team must take possession of both the Heaven and Earth scrolls and make it to the designated site in the center of the Demon Desert within 72 hours.",
+        "title_suggest": {
+            "input": [
+                "Demon Desert Survival",
+                "Desert Survival",
+                "Survival"
+            ]
+        },
+        "title": "Demon Desert Survival",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1310.943,
+        "episode_number": "51",
+        "original_air_date": 1657432800,
+        "auth_launch_date": 1675593000,
+        "clip_order": null,
+        "airing_id": "RADS1002012300066102",
+        "media_id": "16ea69486f4d6da0278db9f6d3995ed6059c94c9",
+        "modified": 1675287242,
+        "slug": "demon-desert-survival",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_2276172419-NarutoShippuden_399_DemonDesertSurvival.png",
+        "created": 1657116887,
+        "title_id": "2177829",
+        "season_number": "7",
+        "tv_rating": "tv-pg",
+        "published": 1675287242,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_2276172419-NarutoShippuden_399_DemonDesertSurvival.png",
+        "id": "AYHT3QhI3sQvipyea9Vi",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1676197740,
         "tms_id": "EP034917240390",
         "description": "Lee challenges Shira to a battle between taijutsu users!  Lee is pushed into using his Eight Inner Gates, but he is unable to release the First Gate!",
@@ -1025,7 +1071,7 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20221026/thumbnails/2_2210261156427-NarutoShippuden_416_TheFormationOfTeamMinato.png",
         "id": "AYP2Xr163sQvipyea-we",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1705899540,
@@ -1589,6 +1635,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_231281759461-NarutoShippuden426Still001tiny.png",
         "id": "AYXxNZHtuLQD-MTtYfxh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1705899540,
+        "tms_id": "EP034917240430",
+        "description": "Tenten falls under the Infinite Tsukuyomi and wakes up in the Hidden Leaf Village.",
+        "title_suggest": {
+            "input": [
+                "To the Dream World",
+                "the Dream World",
+                "Dream World",
+                "World"
+            ]
+        },
+        "title": "To the Dream World",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1311.4434,
+        "episode_number": "11",
+        "original_air_date": 1675580400,
+        "auth_launch_date": 1675593000,
+        "clip_order": null,
+        "airing_id": "RADS1002012300065842",
+        "media_id": "e27ff315fa4b806326ea042dcc5a6ffe85e111f6",
+        "modified": 1675561629,
+        "slug": "to-the-dream-world",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230204/thumbnails/1_23242046460-narutoshippuden427Still002tiny.png",
+        "created": 1675271776,
+        "title_id": "2177857",
+        "season_number": "8",
+        "tv_rating": "tv-pg-l",
+        "published": 1675561629,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_23242046460-narutoshippuden427Still002tiny.png",
+        "id": "AYYN-qm74k01GlbfzrYV",
         "auth": true
     }
 ]
