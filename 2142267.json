@@ -136,7 +136,7 @@
         "launch_date": 1673166600,
         "poster": "https://media.cdn.adultswim.com/uploads/20221217/thumbnails/2_221217194574-myheroacademia116tiny.png",
         "id": "AYUWgx-auLQD-MTtYfF7",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1674980940,
@@ -180,6 +180,53 @@
         "launch_date": 1674981000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230106/thumbnails/2_2316164206-myhereoacademia117Still002tiny.png",
         "id": "AYWIKcw34k01GlbfzrX3",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1675551845,
+        "tms_id": "EP034435300123",
+        "description": "After reinforcements finally arrive, the tide is just starting to turn in the heroes' favor when Shigaraki wakes up.",
+        "title_suggest": {
+            "input": [
+                "The Thrill of Destruction",
+                "Thrill of Destruction",
+                "of Destruction",
+                "Destruction"
+            ]
+        },
+        "title": "The Thrill of Destruction",
+        "type": "episode",
+        "expiration_date": 1676795340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1305.0037,
+        "episode_number": "5",
+        "original_air_date": 1673758800,
+        "auth_launch_date": 1673771400,
+        "clip_order": null,
+        "airing_id": "RADS1002012300066095",
+        "media_id": "4cfcc11ef5023ef71f736f38660654947e0768bf",
+        "modified": 1675551853,
+        "slug": "the-thrill-of-destruction",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230113/thumbnails/1_23113181113-myheroacademia118tiny.png",
+        "created": 1673636977,
+        "title_id": "2417780",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1675551853,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1675585800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230113/thumbnails/2_23113181113-myheroacademia118tiny.png",
+        "id": "AYWsiZnLuLQD-MTtYfjI",
         "auth": false
     },
     {
@@ -271,6 +318,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_231281757315-MHA120Still002.png",
         "id": "AYXxK5lo4k01GlbfzrYK",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1677400140,
+        "tms_id": "EP034435300126",
+        "description": "Led by Yaoyoruzu, the U.A. Class 1-A and 1-B work study students take on Gigantomachia as he heads their way with the League of Villains on his back!",
+        "title_suggest": {
+            "input": [
+                "League of Villains vs. U.A. Students",
+                "of Villains vs. U.A. Students",
+                "Villains vs. U.A. Students",
+                "vs. U.A. Students",
+                "U.A. Students",
+                "Students"
+            ]
+        },
+        "title": "League of Villains vs. U.A. Students",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1352.084,
+        "episode_number": "",
+        "original_air_date": 1675573200,
+        "auth_launch_date": 1675585800,
+        "clip_order": null,
+        "airing_id": "RADS1002012300065838",
+        "media_id": "0b28a4fd60e1b290492ac8a6dee0d754d5176081",
+        "modified": 1675561721,
+        "slug": "league-of-villains-vs-u-a-students",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230204/thumbnails/1_23242048243-MHA121Still001tiny.png",
+        "created": 1675271577,
+        "title_id": "2417783",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1675561721,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_23242048243-MHA121Still001tiny.png",
+        "id": "AYYN96FkuLQD-MTtYf5f",
         "auth": true
     }
 ]
