@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 4, 2023 at 19:00:37 EST_
+_Last Update: February 4, 2023 at 19:30:32 EST_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 608360 Robot Chicken: 1  
 ### 2270598
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/robot-chicken/may-cause-episode-title-to-cut-of
 seriesid=`608360` titleid=`2270598` id=`AXvz5OApUQa40cfnRSCg` mediaid=`81baacb5a481ec5b29ea147de31d067becaaa946`  
 _Robot Chicken helps George RR Martin finish his novel; The Road Runner knows how to exploit the Coyote; The Mos Eisley Cantina is an unlikely but perfect spot for a bachelorette party._  
 <a href="https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211454393-RobotChicken_1111_MayCauseEpisodeTitleToCutOffDueToWordLim.png"><img src="https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211454393-RobotChicken_1111_MayCauseEpisodeTitleToCutOffDueToWordLim.png" height="144px" /></a>
-## Video removed
-No videos were removed.  
