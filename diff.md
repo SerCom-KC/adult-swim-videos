@@ -2,25 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 5, 2023 at 06:00:24 EST_
+_Last Update: February 5, 2023 at 06:30:24 EST_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 2  
-### 2177829
-**Naruto: Shippuden S07E51 - Demon Desert Survival**  
+812206 Naruto: Shippuden: 1  
+### 2177830
+**Naruto: Shippuden S07E52 - As a Taijutsu User**  
 TV-PG 🔒 21:50  
 ⌛ January 21, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/demon-desert-survival  
-seriesid=`812206` titleid=`2177829` id=`AYHT3QhI3sQvipyea9Vi` mediaid=`16ea69486f4d6da0278db9f6d3995ed6059c94c9`  
-_The Second Exam finally begins! To pass this stage, each team must take possession of both the Heaven and Earth scrolls and make it to the designated site in the center of the Demon Desert within 72 hours._  
-<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_2276172419-NarutoShippuden_399_DemonDesertSurvival.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_2276172419-NarutoShippuden_399_DemonDesertSurvival.png" height="144px" /></a>
-### 2177857
-**Naruto: Shippuden S08E11 - To the Dream World**  
-TV-PG-L 🔒 21:51  
-⌛ January 21, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/to-the-dream-world  
-seriesid=`812206` titleid=`2177857` id=`AYYN-qm74k01GlbfzrYV` mediaid=`e27ff315fa4b806326ea042dcc5a6ffe85e111f6`  
-_Tenten falls under the Infinite Tsukuyomi and wakes up in the Hidden Leaf Village._  
-<a href="https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_23242046460-narutoshippuden427Still002tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_23242046460-narutoshippuden427Still002tiny.png" height="144px" /></a>
+https://www.adultswim.com/videos/naruto-shippuden/as-a-taijutsu-user  
+seriesid=`812206` titleid=`2177830` id=`AYHT3Rg93sQvipyea9Vj` mediaid=`a540df6198e6c8c4217718e17f814985223e972e`  
+_Like Lee, Shira can only use taijutsu. Gaara recognizes Shira's taijutsu abilities and appoints him as personal taijutsu coach._  
+<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761725230-NarutoShippuden_400_AsATaijutsuUser.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761725230-NarutoShippuden_400_AsATaijutsuUser.png" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+812206 Naruto: Shippuden: 1  
+### 2177846
+**Naruto: Shippuden S07E68 - The Formation of Team Minato**  
+TV-PG-V 🔓 21:51  
+⌛ February 5, 2023 at 05:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-formation-of-team-minato  
+seriesid=`812206` titleid=`2177846` id=`AYP2Xr163sQvipyea-we` mediaid=`aa8f7166503e996271c9c2911ded42983f80c45c`  
+_Kakashi has changed for the worse, and Obito doesn't know why. He runs into Kakashi and tries to talk to him, but Kakashi gives him the cold shoulder._  
+<a href="https://media.cdn.adultswim.com/uploads/20221026/thumbnails/2_2210261156427-NarutoShippuden_416_TheFormationOfTeamMinato.png"><img src="https://media.cdn.adultswim.com/uploads/20221026/thumbnails/2_2210261156427-NarutoShippuden_416_TheFormationOfTeamMinato.png" height="144px" /></a>
