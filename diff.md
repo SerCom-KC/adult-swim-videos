@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 4, 2023 at 18:30:23 EST_
+_Last Update: February 4, 2023 at 19:00:37 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2142267 My Hero Academia: 1  
-### 2417780
-**My Hero Academia S06E05 - The Thrill of Destruction**  
-TV-14-V 🔒 21:45  
-⌛ February 19, 2023 at 03:29:00 EST  
-https://www.adultswim.com/videos/my-hero-academia/the-thrill-of-destruction  
-seriesid=`2142267` titleid=`2417780` id=`AYWsiZnLuLQD-MTtYfjI` mediaid=`d3170fd737358c38f77edbe568308c8d9a43d235`  
-_After reinforcements finally arrive, the tide is just starting to turn in the heroes' favor when Shigaraki wakes up._  
-<a href="https://media.cdn.adultswim.com/uploads/20230113/thumbnails/2_23113181113-myheroacademia118tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230113/thumbnails/2_23113181113-myheroacademia118tiny.png" height="144px" /></a>
+608360 Robot Chicken: 1  
+### 2270598
+**Robot Chicken S11E12 - May Cause Episode Title to Cut Off Due to Word Lim**  
+TV-14-DLSV 🔒 11:06  
+⌛ February 6, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/may-cause-episode-title-to-cut-off-due-to-word-lim  
+seriesid=`608360` titleid=`2270598` id=`AXvz5OApUQa40cfnRSCg` mediaid=`81baacb5a481ec5b29ea147de31d067becaaa946`  
+_Robot Chicken helps George RR Martin finish his novel; The Road Runner knows how to exploit the Coyote; The Mos Eisley Cantina is an unlikely but perfect spot for a bachelorette party._  
+<a href="https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211454393-RobotChicken_1111_MayCauseEpisodeTitleToCutOffDueToWordLim.png"><img src="https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211454393-RobotChicken_1111_MayCauseEpisodeTitleToCutOffDueToWordLim.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
