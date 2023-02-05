@@ -1,117 +1,56 @@
 {
-    "updated": 1675638028,
-    "added": [],
-    "removed": [
+    "updated": 1675639823,
+    "added": [
         {
-            "auth": true,
-            "ott_launch_date": 1450888800,
+            "ott_launch_date": null,
             "auth_expiration_date": 1675832340,
-            "tms_id": "EP001022180090",
-            "rating": 7.127118,
-            "description": "Girl hair. Hanson has it and Space Ghost is obsessed with combing it. This episode reveals Space Ghost's dark side as well as Zorak's desire to procure teeth so that he can get into clubs. Appearances by the Tooth Fairy and Santa bring about one of the weirdest scenes yet staged on the show.",
+            "tms_id": "EP014135410038",
+            "description": "It's all around you.",
             "title_suggest": {
                 "input": [
-                    "Girl Hair",
-                    "Hair"
+                    "Fire"
                 ]
             },
+            "title": "Fire",
+            "expiration_date": 1677041940,
             "type": "episode",
-            "title": "Girl Hair",
-            "expiration_date": 1648612740,
             "platforms": [
-                "web",
-                "mobile",
-                "ott"
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-            "duration": 703.9342676,
+            "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+            "duration": 681.47,
             "episode_number": "3",
-            "original_air_date": 940647600,
+            "original_air_date": 1574758800,
+            "auth_launch_date": 1663646400,
             "clip_order": null,
-            "auth_launch_date": 1667970000,
-            "modified": 1667794321,
-            "airing_id": "RADS1011072200043363",
-            "media_id": "d519f119aa2ce1753e38e20656b336f296e7c92d",
-            "id": "Nqw6vI_HQy6viMdOl_6pMQ",
-            "slug": "girl-hair",
-            "views": 33686,
+            "media_id": "a28dd0dfaa7a97951d58b3a51983c1577b049fc9",
+            "modified": 1675638222,
+            "airing_id": "RADS1002052300067287",
+            "slug": "fire",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201151469-sgc2c_9903_dst_cid-9153809.jpg",
-            "created": 1402945476,
-            "title_id": "332369",
-            "season_number": "6",
-            "tv_rating": "tv-pg",
-            "active": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/1_19112117860-offtheair_903_dup-20191121.jpg",
+            "created": 1574374080,
+            "season_number": "9",
+            "title_id": "2199313",
+            "tv_rating": "",
+            "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1667794321,
-            "tags": [
-                "Space Ghost Episode 71 Girl Hair"
-            ],
-            "rating_count": 236,
-            "collection_title": "Space Ghost Coast to Coast",
+            "published": 1675638222,
+            "tags": [],
+            "collection_title": "Off The Air",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1645592400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151469-sgc2c_9903_dst_cid-9153809.jpg",
-            "cma_id": "",
-            "collection_slug": "space-ghost-coast-to-coast",
-            "collection_title_id": "322328",
-            "online_exclusives": false
-        },
-        {
+            "launch_date": 1675832400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg",
+            "id": "AW6QAf5z1YiBSfg0KYx3",
             "auth": true,
-            "ott_launch_date": 1448047020,
-            "auth_expiration_date": 1675832340,
-            "tms_id": "EP001022180002",
-            "rating": 7.7670684,
-            "description": "A mysterious villain kidnaps Moltar and Space Ghost must solicit the help of Adam West, Lee Meriweather and Eartha Kitt, all from the \"Batman\"television series, in an effort to save him. And...holy exoskeleton, Space Ghost, it's Zorak as Batmantis!",
-            "title_suggest": {
-                "input": [
-                    "Batmantis"
-                ]
-            },
-            "type": "episode",
-            "title": "Batmantis",
-            "expiration_date": 1660103940,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-            "duration": 655.3003003,
-            "episode_number": "8",
-            "original_air_date": 926132400,
-            "clip_order": null,
-            "auth_launch_date": 1667970000,
-            "modified": 1667793099,
-            "airing_id": "RADS1011072200043366",
-            "media_id": "5e5084b9cdd63a041cf52ea274b09887b6352665",
-            "id": "rLMuUOGATju6Q5oQuigI7g",
-            "slug": "batmantis",
-            "views": 46529,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417948127-sgc2c_9408_dst_cid-9129902.jpg",
-            "created": 1402945476,
-            "title_id": "322740",
-            "season_number": "1",
-            "tv_rating": "tv-pg",
-            "active": true,
-            "ott_expiration_date": null,
-            "published": 1667793099,
-            "tags": [
-                "space ghost coast to coast c2c batmantis episode 8"
-            ],
-            "rating_count": 249,
-            "collection_title": "Space Ghost Coast to Coast",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1657080000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948127-sgc2c_9408_dst_cid-9129902.jpg",
-            "cma_id": "",
-            "collection_slug": "space-ghost-coast-to-coast",
-            "collection_title_id": "322328",
+            "collection_slug": "off-the-air",
+            "collection_title_id": "830073",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
