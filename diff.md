@@ -2,26 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 5, 2023 at 06:30:24 EST_
+_Last Update: February 5, 2023 at 18:00:28 EST_
 ## Video added
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177830
-**Naruto: Shippuden S07E52 - As a Taijutsu User**  
-TV-PG 🔒 21:50  
-⌛ January 21, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/as-a-taijutsu-user  
-seriesid=`812206` titleid=`2177830` id=`AYHT3Rg93sQvipyea9Vj` mediaid=`a540df6198e6c8c4217718e17f814985223e972e`  
-_Like Lee, Shira can only use taijutsu. Gaara recognizes Shira's taijutsu abilities and appoints him as personal taijutsu coach._  
-<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761725230-NarutoShippuden_400_AsATaijutsuUser.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761725230-NarutoShippuden_400_AsATaijutsuUser.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177846
-**Naruto: Shippuden S07E68 - The Formation of Team Minato**  
-TV-PG-V 🔓 21:51  
-⌛ February 5, 2023 at 05:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/the-formation-of-team-minato  
-seriesid=`812206` titleid=`2177846` id=`AYP2Xr163sQvipyea-we` mediaid=`aa8f7166503e996271c9c2911ded42983f80c45c`  
-_Kakashi has changed for the worse, and Obito doesn't know why. He runs into Kakashi and tries to talk to him, but Kakashi gives him the cold shoulder._  
-<a href="https://media.cdn.adultswim.com/uploads/20221026/thumbnails/2_2210261156427-NarutoShippuden_416_TheFormationOfTeamMinato.png"><img src="https://media.cdn.adultswim.com/uploads/20221026/thumbnails/2_2210261156427-NarutoShippuden_416_TheFormationOfTeamMinato.png" height="144px" /></a>
+322328 Space Ghost Coast to Coast: 2  
+### 332369
+**Space Ghost Coast to Coast S06E03 - Girl Hair**  
+TV-PG 🔒 11:43  
+⌛ February 7, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/girl-hair  
+seriesid=`322328` titleid=`332369` id=`Nqw6vI_HQy6viMdOl_6pMQ` mediaid=`d519f119aa2ce1753e38e20656b336f296e7c92d`  
+_Girl hair. Hanson has it and Space Ghost is obsessed with combing it. This episode reveals Space Ghost's dark side as well as Zorak's desire to procure teeth so that he can get into clubs. Appearances by the Tooth Fairy and Santa bring about one of the weirdest scenes yet staged on the show._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151469-sgc2c_9903_dst_cid-9153809.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151469-sgc2c_9903_dst_cid-9153809.jpg" height="144px" /></a>
+### 322740
+**Space Ghost Coast to Coast S01E08 - Batmantis**  
+TV-PG 🔒 10:55  
+⌛ February 7, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/batmantis  
+seriesid=`322328` titleid=`322740` id=`rLMuUOGATju6Q5oQuigI7g` mediaid=`5e5084b9cdd63a041cf52ea274b09887b6352665`  
+_A mysterious villain kidnaps Moltar and Space Ghost must solicit the help of Adam West, Lee Meriweather and Eartha Kitt, all from the "Batman"television series, in an effort to save him. And...holy exoskeleton, Space Ghost, it's Zorak as Batmantis!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948127-sgc2c_9408_dst_cid-9129902.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948127-sgc2c_9408_dst_cid-9129902.jpg" height="144px" /></a>
