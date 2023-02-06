@@ -187,7 +187,7 @@
         "original_air_date": 1218425400,
         "clip_order": null,
         "auth_launch_date": 1675918800,
-        "modified": 1675702216,
+        "modified": 1675712336,
         "media_id": "4d47e7e79f8b0eb237173ad9c9b0bb6fa3350f3c",
         "airing_id": "RADS1002062300067571",
         "id": "4HWrslWXTGewB77ao4bs5A",
@@ -201,7 +201,7 @@
         "tv_rating": "tv-14-dlsv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1675702216,
+        "published": 1675712336,
         "tags": [
             "venture bros brothers episode 29 orb brock mission orders regarding bodyguard studio 54 alchemist billy quizboy orpheus"
         ],
@@ -537,6 +537,55 @@
         "launch_date": 1424880000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161330407-venture_117.jpg",
         "cma_id": "988731"
+    },
+    {
+        "ott_launch_date": 1537774200,
+        "auth": true,
+        "auth_expiration_date": 1675918799,
+        "tms_id": "EP005604540086",
+        "description": "The members of Guild Council must face their arch rivals for one last time, while Doc happily falls into a black widow's deadly web.",
+        "title_suggest": {
+            "input": [
+                "The Terminus Mandate",
+                "Terminus Mandate",
+                "Mandate"
+            ]
+        },
+        "expiration_date": 1662004740,
+        "type": "episode",
+        "title": "The Terminus Mandate",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1354.7,
+        "episode_number": "8",
+        "original_air_date": 1537761600,
+        "auth_launch_date": 1665806400,
+        "clip_order": null,
+        "media_id": "f6a8fb966ef6eeb4d405f1606d0ee08904c6dca2",
+        "modified": 1675713218,
+        "airing_id": "RADS1010102200035828",
+        "id": "AWPLR0f5TdxzjxdCmQUy",
+        "slug": "the-terminus-mandate",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15374619980536.jpg",
+        "created": 1528123836,
+        "season_number": "7",
+        "title_id": "2165024",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1675713218,
+        "tags": [],
+        "collection_title": "The Venture Bros.",
+        "modified_by": "ODT Listener",
+        "launch_date": 1658980800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15374619980536.jpg"
     },
     {
         "ott_launch_date": 1536589740,
@@ -1447,7 +1496,7 @@
         "original_air_date": 1217820600,
         "clip_order": null,
         "auth_launch_date": 1675918800,
-        "modified": 1675702306,
+        "modified": 1675712598,
         "media_id": "ac47c81424d41cb3a2ee71d633d4a4f12ee5623b",
         "airing_id": "RADS1002062300067575",
         "id": "IzlPG37jT76B9k6rgAN0PA",
@@ -1461,7 +1510,7 @@
         "tv_rating": "tv-14-dlsv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1675702306,
+        "published": 1675712598,
         "tags": [
             "venture bros. brothers episode 36 lepidopterists doe cardholder j.j. monarch arch nemesis jonas"
         ],
@@ -2987,7 +3036,7 @@
         "original_air_date": 1257138000,
         "clip_order": null,
         "auth_launch_date": 1673586000,
-        "modified": 1675702163,
+        "modified": 1675711726,
         "media_id": "9fad423f97f7eab84411d42be11906c97a7dfcb9",
         "airing_id": "RADS1002062300067569",
         "id": "xsspbO0iQBmcEqq9LcVBtA",
@@ -3001,7 +3050,7 @@
         "tv_rating": "tv-14-dlsv",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1675702163,
+        "published": 1675711726,
         "tags": [
             "perchance to dean",
             "hank",
