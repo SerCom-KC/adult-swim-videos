@@ -475,11 +475,8 @@
         "auth": false
     },
     {
-        "created": 1675454471,
+        "auth_expiration_date": null,
         "tms_id": "EP007164450435",
-        "title_id": "2342096",
-        "season_number": "17",
-        "tv_rating": "tv-14-dls",
         "description": "When Roger has his famous Christmas sex party stolen from him the results are... monstrous. Stan creates a magazine for men.",
         "title_suggest": {
             "input": [
@@ -487,22 +484,38 @@
                 "Grounch"
             ]
         },
-        "published": 1675458919,
         "title": "The Grounch",
         "type": "episode",
         "expiration_date": 1676264340,
-        "tags": [],
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "kuykLeORSBmAK6JteESFCw",
         "duration": 1262.9283,
         "episode_number": "22",
-        "collection_title": "American Dad",
         "original_air_date": 1672025400,
-        "modified_by": "ODT Listener",
+        "auth_launch_date": null,
+        "clip_order": null,
         "airing_id": "RADS1002032300067074",
         "media_id": "1f30380bdb065913952c50828a8adce512945534",
-        "modified": 1675458919,
-        "launch_date": 1675659600,
+        "modified": 1675708090,
         "slug": "the-grounch",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230206/thumbnails/1_2326132800-Grounchtiny.png",
+        "created": 1675454471,
+        "title_id": "2342096",
+        "season_number": "17",
+        "tv_rating": "tv-14-dls",
+        "published": 1675708090,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1675659600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230206/thumbnails/2_2326132800-Grounchtiny.png",
         "id": "AYYY3l0DuLQD-MTtYf7U",
         "auth": false
     },
