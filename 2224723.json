@@ -323,7 +323,7 @@
         "launch_date": 1672635600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200911/thumbnails/2_209111619464-2_207211030518-YOLO_001_dup-20200326.jpg",
         "id": "AXR-UL0sLyLQBOXK_PNo",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1673240340,
@@ -509,5 +509,52 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230123/thumbnails/2_231231537173-YOLO201Still001tiny.png",
         "id": "AYXgWkOVuLQD-MTtYfux",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1677473940,
+        "tms_id": "EP045818780004",
+        "description": "Girls' movie night watching an art house flick starring a hot young actor leads to a wild romantic dream for Sarah, a dream which Rachel is determined to sabotage.",
+        "title_suggest": {
+            "input": [
+                "Chaise and the City",
+                "and the City",
+                "the City",
+                "City"
+            ]
+        },
+        "title": "Chaise and the City",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXNJnfSIC8QgH-t19J8N",
+        "duration": 675.4414,
+        "episode_number": "4",
+        "original_air_date": 1675659600,
+        "auth_launch_date": 1675659600,
+        "clip_order": null,
+        "airing_id": "RADS1002022300066990",
+        "media_id": "89dd38cbb3037b57e1858d1b835db1e51b17f0c3",
+        "modified": 1675561458,
+        "slug": "chaise-and-the-city",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230204/thumbnails/1_23242043555-YOLO204Still002tiny.png",
+        "created": 1675374993,
+        "title_id": "2412379",
+        "season_number": "2",
+        "tv_rating": "tv-14-l",
+        "published": 1675561458,
+        "tags": [],
+        "collection_title": "YOLO",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_23242043555-YOLO204Still002tiny.png",
+        "id": "AYYUIZ8R4k01GlbfzrYZ",
+        "auth": true
     }
 ]
