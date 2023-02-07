@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1675745940,
-        "tms_id": "EP042756160003",
-        "description": "To proceed with their plans, Lupin and co. need to get that pesky Sherlock Holmes out of the picture but evading the legendary detective will prove a monumental challenge.",
-        "title_suggest": {
-            "input": [
-                "Detective and Crook",
-                "and Crook",
-                "Crook"
-            ]
-        },
-        "title": "Detective and Crook",
-        "expiration_date": 1654419540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
-        "duration": 1288.4872,
-        "episode_number": "2",
-        "original_air_date": "1651383000",
-        "auth_launch_date": 1669698000,
-        "clip_order": null,
-        "airing_id": "RADS1011272200046589",
-        "media_id": "5ae4a61c06a3dc99256c7969f73d9e5b66dba622",
-        "modified": 1669605033,
-        "slug": "detective-and-crook",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271253459-LupinThe3rd_Part6_602_DetectiveAndCrook.png",
-        "created": 1651078441,
-        "season_number": "1",
-        "title_id": "2387383",
-        "tv_rating": "tv-14-lv",
-        "published": 1669605033,
-        "tags": [],
-        "collection_title": "Lupin the 3rd Part 6",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1653210000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271253459-LupinThe3rd_Part6_602_DetectiveAndCrook.png",
-        "id": "AYBr8arf_0O4w1rD3SG8",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1677560340,
         "tms_id": "EP042756160006",
         "description": "Something strange is afoot as Lupin finds himself adrift in another place and time. An ancient clock may hold the key to returning home but getting close to it won't be easy.",
@@ -472,6 +426,53 @@
         "launch_date": 1659254400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761720413-LupinThe3rd_Part6_011_TheTruthAndTheRaven.png",
         "id": "AYHT3PDbIAxeiVkFtLQM",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1681790340,
+        "tms_id": "EP042756160013",
+        "description": "Interested parties converge on the Raven's treasure in the shadows of the London underground as the true identity of Watson's killer comes to light.",
+        "title_suggest": {
+            "input": [
+                "The Ghosts of Britain",
+                "Ghosts of Britain",
+                "of Britain",
+                "Britain"
+            ]
+        },
+        "title": "The Ghosts of Britain",
+        "expiration_date": 1661068740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1287.9867,
+        "episode_number": "12",
+        "original_air_date": "1658032200",
+        "auth_launch_date": 1675746000,
+        "clip_order": null,
+        "airing_id": "RADS1002042300067216",
+        "media_id": "6e1dd9ea39864cde512c7ec50c30e04a3350c079",
+        "modified": 1675556212,
+        "slug": "the-ghosts-of-britain",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/1_227121042339-LupinThe3rd_Part6_612_TheGhostsOfBritain.png",
+        "created": 1657636969,
+        "season_number": "1",
+        "title_id": "2387393",
+        "tv_rating": "tv-14-v",
+        "published": 1675556212,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1659859200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121042339-LupinThe3rd_Part6_612_TheGhostsOfBritain.png",
+        "id": "AYHy3NtIIAxeiVkFtLQR",
         "auth": true
     }
 ]

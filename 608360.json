@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361280,
         "auth_expiration_date": 1702357140,
         "tms_id": "EP007259620122",
@@ -759,7 +759,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362120,
         "auth_expiration_date": 1675745940,
         "tms_id": "EP007259620127",
@@ -1458,60 +1458,6 @@
         "launch_date": 1668488400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031322278-robotchicken_1004_dup-20190731.jpg",
         "id": "AW2ETfcH1YiBSfg0KXW9",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1675745940,
-        "tms_id": "",
-        "description": "Freddy Krueger is getting married and just wants an answer to one simple question: Who is his father? The RC team shows what it's like being the daughter of a plastic Army Man. The Totally Spies girls learn international law...and get PTSD.",
-        "title_suggest": {
-            "input": [
-                "Garfield Stockman in: A Voice Like Wet Ham",
-                "Stockman in: A Voice Like Wet Ham",
-                "in: A Voice Like Wet Ham",
-                "A Voice Like Wet Ham",
-                "Voice Like Wet Ham",
-                "Like Wet Ham",
-                "Wet Ham",
-                "Ham"
-            ]
-        },
-        "title": "Garfield Stockman in: A Voice Like Wet Ham",
-        "expiration_date": 1672721940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 666.87,
-        "episode_number": "5",
-        "original_air_date": 1571025600,
-        "auth_launch_date": 1672722000,
-        "clip_order": null,
-        "media_id": "6764253e7949bb6b1f3c51952460942753e17b30",
-        "modified": 1675550772,
-        "airing_id": "RADS1012312200056770",
-        "slug": "garfield-stockman-in-a-voice-like-wet-ham",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191010/thumbnails/1_191010155579-robotchicken_1005_dup-20190815.jpg",
-        "created": 1569882800,
-        "season_number": "10",
-        "title_id": "2201001",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1675550772,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1669698000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191010/thumbnails/2_191010155579-robotchicken_1005_dup-20190815.jpg",
-        "id": "AW2EToEl1YiBSfg0KXW-",
         "auth": true
     },
     {
@@ -4521,6 +4467,60 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1687838340,
+        "tms_id": "EP007259620232",
+        "description": "Robot Chicken helps George RR Martin finish his novel; The Road Runner knows how to exploit the Coyote; The Mos Eisley Cantina is an unlikely but perfect spot for a bachelorette party.",
+        "title_suggest": {
+            "input": [
+                "May Cause Episode Title to Cut Off Due to Word Lim",
+                "Cause Episode Title to Cut Off Due to Word Lim",
+                "Episode Title to Cut Off Due to Word Lim",
+                "Title to Cut Off Due to Word Lim",
+                "to Cut Off Due to Word Lim",
+                "Cut Off Due to Word Lim",
+                "Off Due to Word Lim",
+                "Due to Word Lim",
+                "to Word Lim",
+                "Word Lim",
+                "Lim"
+            ]
+        },
+        "title": "May Cause Episode Title to Cut Off Due to Word Lim",
+        "type": "episode",
+        "expiration_date": 1651463940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 666.5325,
+        "episode_number": "12",
+        "original_air_date": 1632369600,
+        "auth_launch_date": 1675746000,
+        "clip_order": null,
+        "airing_id": "RADS1002042300067226",
+        "media_id": "81baacb5a481ec5b29ea147de31d067becaaa946",
+        "modified": 1675556218,
+        "slug": "may-cause-episode-title-to-cut-off-due-to-word-lim",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/1_219211454393-RobotChicken_1111_MayCauseEpisodeTitleToCutOffDueToWordLim.png",
+        "created": 1631884468,
+        "title_id": "2270598",
+        "season_number": "11",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1675556218,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1648612800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211454393-RobotChicken_1111_MayCauseEpisodeTitleToCutOffDueToWordLim.png",
+        "id": "AXvz5OApUQa40cfnRSCg",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447363140,
         "auth_expiration_date": 1682999940,
@@ -4787,7 +4787,7 @@
         "cma_id": "1309572"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361580,
         "auth_expiration_date": 1704171540,
         "tms_id": "EP007259620121",
@@ -5104,7 +5104,7 @@
         "cma_id": "1443348"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447362060,
         "auth_expiration_date": 1704171540,
         "tms_id": "EP007259620124",
@@ -5444,7 +5444,7 @@
         "cma_id": "1206041"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361940,
         "auth_expiration_date": 1703566740,
         "tms_id": "EP007259620120",
@@ -7016,7 +7016,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362180,
         "auth_expiration_date": 1675745999,
         "tms_id": "EP007259620129",
@@ -7556,7 +7556,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362060,
         "auth_expiration_date": 1675745999,
         "tms_id": "EP007259620125",
@@ -7948,7 +7948,7 @@
         "cma_id": "1267534"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362120,
         "auth_expiration_date": 1675745999,
         "tms_id": "EP007259620126",
@@ -8929,7 +8929,7 @@
         "cma_id": "1432258"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362120,
         "auth_expiration_date": 1675745999,
         "tms_id": "EP007259620128",
@@ -9868,7 +9868,7 @@
         "cma_id": "1219839"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361700,
         "auth_expiration_date": 1704171540,
         "tms_id": "EP007259620123",
