@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1675745940,
-        "tms_id": "EP035786410001",
-        "description": "Nanachi sends Reg on a mission to find certain items that could possibly save Riko. Meanwhile, Nanachi reveals a little more about themself.",
-        "title_suggest": {
-            "input": [
-                "Nanachi"
-            ]
-        },
-        "title": "Nanachi",
-        "expiration_date": 1651395540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZ9dFUQa40cfnRS9e",
-        "duration": 1336.602,
-        "episode_number": "11",
-        "original_air_date": "1648359000",
-        "auth_launch_date": 1669698000,
-        "clip_order": null,
-        "airing_id": "RADS1011272200046591",
-        "media_id": "696604d7fe37a848173f01547c22c13a5babf71c",
-        "modified": 1669605625,
-        "slug": "nanachi",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221446263-MadeInAbyss_011_Nanachi.png",
-        "created": 1647974794,
-        "season_number": "1",
-        "title_id": "2356964",
-        "tv_rating": "tv-ma",
-        "published": 1669605625,
-        "tags": [],
-        "collection_title": "Made In Abyss",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1650186000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221446263-MadeInAbyss_011_Nanachi.png",
-        "id": "AX-y88O3208s7zyYUMZj",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1678165140,
         "tms_id": "EP035786410003",
         "description": "Riko and Reg find out more about their past but the question still remains: exactly who, or what, is Reg?",
@@ -362,6 +318,51 @@
         "launch_date": 1647766800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231428373-MadeInAbyss_007_TheUnmovableSovereign.png",
         "id": "AX8jXewH_0O4w1rD3Rug",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1681790340,
+        "tms_id": "EP035786410008",
+        "description": "Ozen tasks Riko and Reg to survive alone outside the Seeker Camp. Do they come out alive and unscathed? Or does the Abyss have a dirty trick up its sleeve?",
+        "title_suggest": {
+            "input": [
+                "Survival Training",
+                "Training"
+            ]
+        },
+        "title": "Survival Training",
+        "expiration_date": 1649584740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZ9dFUQa40cfnRS9e",
+        "duration": 1336.8354,
+        "episode_number": "8",
+        "original_air_date": "1646548200",
+        "auth_launch_date": 1675746000,
+        "clip_order": null,
+        "airing_id": "RADS1002042300067224",
+        "media_id": "d9ec31cace351688629842fdf6eab92545809a9b",
+        "modified": 1675556208,
+        "slug": "survival-training",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311350357-MadeInAbyss_008_SurvivalTraining.png",
+        "created": 1646160647,
+        "season_number": "1",
+        "title_id": "2356961",
+        "tv_rating": "tv-ma",
+        "published": 1675556208,
+        "tags": [],
+        "collection_title": "Made In Abyss",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1648371600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311350357-MadeInAbyss_008_SurvivalTraining.png",
+        "id": "AX9G0hWn208s7zyYUMOi",
         "auth": true
     },
     {

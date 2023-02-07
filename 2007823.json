@@ -1,5 +1,53 @@
 [
     {
+        "ott_launch_date": 1447789740,
+        "auth_expiration_date": 1660017540,
+        "tms_id": "SH018336770000",
+        "description": "Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time.",
+        "title_suggest": {
+            "input": [
+                "Broomshakalaka"
+            ]
+        },
+        "expiration_date": 1678165140,
+        "type": "episode",
+        "title": "Broomshakalaka",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 635.4170142,
+        "episode_number": "1",
+        "original_air_date": 1386666000,
+        "auth_launch_date": 1656993600,
+        "clip_order": null,
+        "media_id": "20cd6e2709abbcf7ecd5d3d9a2119f3e03801712",
+        "modified": 1675556219,
+        "airing_id": "RADS1002042300067212",
+        "slug": "broomshakalaka",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150986087747.jpg",
+        "created": 1510603670,
+        "season_number": "3",
+        "title_id": "2007826",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1675556219,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1675746000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg",
+        "id": "AV-2_sJ8wdpKFAKSbWYY",
+        "auth": false
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1676350740,
         "tms_id": "SH033777710000",
@@ -47,53 +95,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg",
         "id": "AW8BAtn13HMJfT8do6Zt",
         "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1675745940,
-        "tms_id": "EP027786570034",
-        "description": "Want to become hotter? Sarah Squirm presents a revolutionary new cosmetic procedure that will leave you breathless, and ga-ga-ga-gorgeous!",
-        "title_suggest": {
-            "input": [
-                "Flayaway"
-            ]
-        },
-        "title": "Flayaway",
-        "expiration_date": 1672721940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 666.54,
-        "episode_number": "4",
-        "original_air_date": 1545123600,
-        "auth_launch_date": 1672722000,
-        "clip_order": null,
-        "media_id": "c2232994d8e771ce0fcbdd4af18f3d6cd042930a",
-        "modified": 1672532949,
-        "airing_id": "RADS1012032200049417",
-        "slug": "flayaway",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15447314743491.jpg",
-        "created": 1544124764,
-        "season_number": "8",
-        "title_id": "2187508",
-        "tv_rating": "tv-ma-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1672532949,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1670302800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg",
-        "id": "AWeFAhMFAsbXwNj3wAaC",
-        "auth": false
     },
     {
         "auth_expiration_date": 1676955540,
@@ -320,7 +321,7 @@
         "launch_date": 1673326800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241047577-infomercials_11MWB_dup-20201123.jpg",
         "id": "AXX68La1bxpjZvbXYlc1",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1658203140,
