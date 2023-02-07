@@ -1,57 +1,63 @@
 {
-    "updated": 1675735576,
-    "added": [],
-    "removed": [
+    "updated": 1675736538,
+    "added": [
         {
-            "ott_launch_date": 1545060600,
-            "auth_expiration_date": 1674190740,
-            "tms_id": "EP029602990005",
-            "description": "Die once, shame on you.  Die once every three seconds, shame on us all.",
+            "auth": true,
+            "ott_launch_date": 1451682960,
+            "auth_expiration_date": 1676005140,
+            "tms_id": "EP000337110016",
+            "rating": 8.157963,
+            "description": "When Xavier wakes up with no memories, the power of deja vu reigns supreme. When Xavier wakes up with no memories, the power of deja vu reigns supreme.",
             "title_suggest": {
                 "input": [
-                    "ConstaDeath"
+                    "Damnesia Vu",
+                    "Vu"
                 ]
             },
-            "title": "ConstaDeath",
-            "expiration_date": 2085368400,
             "type": "episode",
+            "title": "Damnesia Vu",
+            "expiration_date": 1679025540,
             "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "ott",
-                "roku"
+                "web",
+                "mobile",
+                "ott"
             ],
-            "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-            "duration": 676.67,
-            "episode_number": "4",
-            "original_air_date": 1545023700,
-            "auth_launch_date": 1671166800,
+            "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+            "duration": 689.62,
+            "episode_number": "6",
+            "original_air_date": 1237522500,
             "clip_order": null,
-            "media_id": "df27ea0f422a6f3f599dd79252ee22378dc2d337",
-            "modified": 1670903668,
-            "airing_id": "RADS1012311800056775",
-            "slug": "consta-death",
+            "auth_launch_date": 1669957200,
+            "modified": 1675736356,
+            "airing_id": "RADS1011292200047328",
+            "media_id": "1a1d928540ef5ed7326c6b05b46b066650a71f6d",
+            "id": "TcIbu3oSTtqZyfjShvH1kQ",
+            "slug": "damnesia-vu",
+            "views": 183988,
             "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154473089725510.jpg",
-            "created": 1544124141,
-            "season_number": "1",
-            "title_id": "2172250",
-            "tv_rating": "tv-ma-v",
-            "blacklist": [],
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_2114173269-xavier_206.jpg",
+            "created": 1402945482,
+            "title_id": "747216",
+            "season_number": "2",
+            "tv_rating": "tv-ma",
+            "active": true,
             "ott_expiration_date": null,
-            "published": 1670903668,
-            "tags": [],
-            "collection_title": "The Shivering Truth",
+            "blacklist": [],
+            "published": 1675736356,
+            "tags": [
+                "xavier renegade angel deja vu damnesia doors"
+            ],
+            "rating_count": 747,
+            "collection_title": "Xavier: Renegade Angel",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1546849800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg",
-            "id": "AWeE-I91AsbXwNj3wAaA",
-            "auth": false,
-            "collection_slug": "the-shivering-truth",
-            "collection_title_id": "2165429",
+            "launch_date": 1676005200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_2114173269-xavier_206.jpg",
+            "cma_id": "",
+            "collection_slug": "xavier-renegade-angel",
+            "collection_title_id": "691917",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
