@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446126480,
         "auth_expiration_date": 1692158340,
         "tms_id": "EP004662930102",
@@ -179,7 +179,7 @@
         "cma_id": "1422582"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1451668380,
         "auth_expiration_date": 1675832340,
         "tms_id": "EP014140180001",
@@ -285,7 +285,7 @@
         "cma_id": "1369860"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446126420,
         "auth_expiration_date": 1691553540,
         "tms_id": "EP004662930099",
@@ -1033,7 +1033,7 @@
         "cma_id": "1380467"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446126360,
         "auth_expiration_date": 1692158340,
         "tms_id": "EP004662930103",
@@ -1097,7 +1097,7 @@
         "cma_id": "1480410"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446126480,
         "auth_expiration_date": 1691553540,
         "tms_id": "EP004662930100",
@@ -1504,6 +1504,57 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451668440,
+        "auth_expiration_date": 1674190740,
+        "tms_id": "EP014140180003",
+        "rating": 8.828224,
+        "description": "In this very special episode of Aqua Unit Patrol Squad 1, Carl's drinking problem comes to an ugly head.",
+        "title_suggest": {
+            "input": [
+                "Intervention"
+            ]
+        },
+        "type": "episode",
+        "title": "Intervention",
+        "expiration_date": 1676437140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 676.5421184,
+        "episode_number": "3",
+        "original_air_date": 1306122300,
+        "clip_order": null,
+        "auth_launch_date": 1666324800,
+        "modified": 1675638223,
+        "media_id": "67c7bb03ba253364cd7f6c180ad55ad8c602c965",
+        "airing_id": "RADS1002052300067268",
+        "id": "UnScc8qVTAG1OOeE8hwceg",
+        "slug": "intervention",
+        "views": 663749,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_2022510464-aups1_1004_dup-20110519.jpg",
+        "created": 1402945461,
+        "title_id": "846829",
+        "season_number": "8",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1675638223,
+        "tags": [],
+        "rating_count": 1176,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1675832400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510464-aups1_1004_dup-20110519.jpg",
+        "cma_id": "1382589"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1446126240,
         "auth_expiration_date": 1692158340,
         "tms_id": "EP004662930101",
@@ -1562,6 +1613,117 @@
         "launch_date": 1675227600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225955437-athf_091_BIM.jpg",
         "cma_id": "1454130"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446126540,
+        "auth_expiration_date": 1674190740,
+        "tms_id": "EP004662930104",
+        "rating": 8.635151,
+        "description": "The one hundredth episode of Aqua Teen Hunger Force arrives with some startling revelations.",
+        "title_suggest": {
+            "input": [
+                "One Hundred",
+                "Hundred"
+            ]
+        },
+        "type": "episode",
+        "title": "One Hundred",
+        "expiration_date": 1676437140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 673.6339673,
+        "episode_number": "12",
+        "original_air_date": 1272859200,
+        "clip_order": null,
+        "auth_launch_date": 1666324800,
+        "modified": 1675638215,
+        "media_id": "5249851bb77cbe7bea90cd0c42f12c26e6aa45fa",
+        "airing_id": "RADS1002052300067262",
+        "id": "YWpd8tcfQEePg_F8EgM9cw",
+        "slug": "one-hundred",
+        "views": 975753,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_2022510020-athf_100_BIM.jpg",
+        "created": 1402945461,
+        "title_id": "786556",
+        "season_number": "7",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1675638215,
+        "tags": [
+            "aqua teen",
+            "hunger force",
+            "100",
+            "one hundredth",
+            "episode",
+            "revelation"
+        ],
+        "rating_count": 3618,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1675832400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510020-athf_100_BIM.jpg",
+        "cma_id": "786556"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451668440,
+        "auth_expiration_date": 1674190740,
+        "tms_id": "EP014140180004",
+        "rating": 8.003573,
+        "description": "A new tattoo should bring Master Shake success with the ladies, if it doesn't bring death to everyone else.",
+        "title_suggest": {
+            "input": [
+                "Freedom Cobra",
+                "Cobra"
+            ]
+        },
+        "type": "episode",
+        "title": "Freedom Cobra",
+        "expiration_date": 1676437140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 681.8340284,
+        "episode_number": "4",
+        "original_air_date": 1307331900,
+        "clip_order": null,
+        "auth_launch_date": 1666324800,
+        "modified": 1675638804,
+        "media_id": "e573ecf639bcc4c9342b962a67b63faaf26d5dda",
+        "airing_id": "RADS1002052300067270",
+        "id": "YzMj4gjNR5SrsSfOURP7DQ",
+        "slug": "freedom-cobra",
+        "views": 511744,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_20225104352-aups1_1003_dup-20110603.jpg",
+        "created": 1402945461,
+        "title_id": "846828",
+        "season_number": "8",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1675638804,
+        "tags": [],
+        "rating_count": 1118,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1675832400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225104352-aups1_1003_dup-20110603.jpg",
+        "cma_id": "1377062"
     },
     {
         "auth": true,
@@ -2077,7 +2239,7 @@
         "cma_id": "1418646"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1451668380,
         "auth_expiration_date": 1675832340,
         "tms_id": "EP014140180002",

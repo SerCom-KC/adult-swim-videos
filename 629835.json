@@ -165,53 +165,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1675832340,
-        "tms_id": "EP002070020196",
-        "description": "Complications ensue when Bill starts his own half-way house for alcoholics; Bobby shows Peggy how to ride a bicycle.",
-        "title_suggest": {
-            "input": [
-                "Bill's House",
-                "House"
-            ]
-        },
-        "title": "Bill's House",
-        "type": "episode",
-        "expiration_date": 1496201399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1437.2024,
-        "episode_number": "3",
-        "original_air_date": 1236997800,
-        "auth_launch_date": 1675227600,
-        "clip_order": null,
-        "modified": 1674969765,
-        "media_id": "27896e22fd6eb976338f68b8f9b285ed209cd407",
-        "airing_id": "RADS1001282300063930",
-        "id": "rtakB5RASzS6na_WNbuJMg",
-        "slug": "bills-house",
-        "views": 3506,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15126807155581.jpg",
-        "created": 1432002033,
-        "title_id": "731530",
-        "tv_rating": "tv-pg",
-        "season_number": "10",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1674969765,
-        "first_published": 1432002033,
-        "tags": [],
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1495596600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126807155581.jpg",
-        "cma_id": "731530"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1676091540,
         "tms_id": "EP002070020199",
         "rating": 8.692142,
@@ -274,5 +227,65 @@
         "launch_date": 1495855800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220328/thumbnails/2_223281311453-KingOfTheHill_911_OrangeYouSadIDidSayBanana.png",
         "cma_id": "731533"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1676437140,
+        "tms_id": "EP002070020201",
+        "rating": 8.811254,
+        "description": "Bobby participates in a \"job shadow\" program, where he's wowed by an entrepreneur who makes a living picking up after dogs.",
+        "title_suggest": {
+            "input": [
+                "Business is Picking Up",
+                "is Picking Up",
+                "Picking Up",
+                "Up"
+            ]
+        },
+        "type": "episode",
+        "title": "Business is Picking Up",
+        "expiration_date": 1496581199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1437.269,
+        "episode_number": "8",
+        "original_air_date": 1237168800,
+        "auth_launch_date": 1675832400,
+        "clip_order": null,
+        "modified": 1675638227,
+        "media_id": "c9aafeb155d5da3c58fb83c3d4c9628f59cf031b",
+        "airing_id": "RADS1002052300067257",
+        "id": "z5JzP1rNR3KHNDthuYFtnQ",
+        "slug": "business-is-picking-up",
+        "views": 335876,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311348126-BusinessIsPickingUp.png",
+        "created": 1402945468,
+        "title_id": "731535",
+        "season_number": "10",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1675638227,
+        "tags": [
+            "king of the hill",
+            " season 9",
+            " episode 18",
+            " business is picking up",
+            " bobby",
+            " job shadow",
+            " entrepreneur",
+            " dog",
+            " poop"
+        ],
+        "rating_count": 551,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1495976400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311348126-BusinessIsPickingUp.png",
+        "cma_id": "731535"
     }
 ]
