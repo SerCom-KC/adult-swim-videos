@@ -104,6 +104,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1676782740,
+        "tms_id": "EP012792980014",
+        "description": "The kids hunt for treasure in an abandoned taffy factory, and Bob and Linda must find them before the factory's scheduled demolition.",
+        "title_suggest": {
+            "input": [
+                "The Belchies",
+                "Belchies"
+            ]
+        },
+        "title": "The Belchies",
+        "type": "episode",
+        "expiration_date": 1659931140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1288.4205,
+        "episode_number": "1",
+        "original_air_date": 1375754400,
+        "clip_order": null,
+        "auth_launch_date": 1676178000,
+        "modified": 1675879202,
+        "media_id": "dad329b8a79066736b4d7ab006e5e2031edee533",
+        "airing_id": "RADS1002082300068575",
+        "id": "BPGA47QsQLaN-TLR_c8dUA",
+        "slug": "the-belchies",
+        "views": 7398,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148409497119.jpg",
+        "created": 1406517627,
+        "title_id": "2003436",
+        "tv_rating": "tv-14",
+        "season_number": "2",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1675879202,
+        "first_published": 1406517627,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1659326400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148409497119.jpg",
+        "cma_id": "1496818"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1676437140,
         "tms_id": "EP012792980008",
         "description": "When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant.",
@@ -150,6 +198,55 @@
         "launch_date": 1658116800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg",
         "cma_id": "1493554"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1676782740,
+        "tms_id": "EP012792980015",
+        "description": "A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis.",
+        "title_suggest": {
+            "input": [
+                "Bob Day Afternoon",
+                "Day Afternoon",
+                "Afternoon"
+            ]
+        },
+        "expiration_date": 1659931140,
+        "title": "Bob Day Afternoon",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.8885,
+        "episode_number": "2",
+        "original_air_date": 1376276400,
+        "clip_order": null,
+        "auth_launch_date": 1676178000,
+        "modified": 1675879486,
+        "media_id": "3ae7a97e67840c6e49f14b6748964f1ec91c77b7",
+        "airing_id": "RADS1002082300068573",
+        "id": "ICnCBkoDSiuMym6JboTa5Q",
+        "slug": "bob-day-afternoon",
+        "views": 2,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15214841198095.jpg",
+        "created": 1403210985,
+        "season_number": "2",
+        "title_id": "2003437",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1675879486,
+        "first_published": 1406521228,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1659326400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg",
+        "cma_id": "1496692"
     },
     {
         "auth": true,
@@ -348,56 +445,6 @@
         "launch_date": 1657512000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg",
         "cma_id": "1491680"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1676177940,
-        "tms_id": "EP012792980005",
-        "description": "Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction.",
-        "title_suggest": {
-            "input": [
-                "Hamburger Dinner Theater",
-                "Dinner Theater",
-                "Theater"
-            ]
-        },
-        "expiration_date": 1658116740,
-        "title": "Hamburger Dinner Theater",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1276.6754,
-        "episode_number": "5",
-        "original_air_date": 1373252400,
-        "clip_order": null,
-        "auth_launch_date": 1675573200,
-        "modified": 1675278861,
-        "media_id": "e16606aaa61acf8500480a4b7bf17289cd886f57",
-        "airing_id": "RADS1002012300065848",
-        "id": "fiET6YUKQF66U8IFgneXWQ",
-        "slug": "hamburger-dinner-theater",
-        "views": 7396,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151491857883213.jpg",
-        "created": 1403209866,
-        "season_number": "1",
-        "title_id": "2003427",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1675278861,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1657512000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg",
-        "cma_id": "1491586"
     },
     {
         "auth": false,
@@ -600,55 +647,5 @@
         "launch_date": 1658721600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148369035519.jpg",
         "cma_id": "1494048"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1676177940,
-        "tms_id": "EP012792980004",
-        "description": "When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands.",
-        "title_suggest": {
-            "input": [
-                "Sexy Dance Fighting",
-                "Dance Fighting",
-                "Fighting"
-            ]
-        },
-        "expiration_date": 1658116740,
-        "title": "Sexy Dance Fighting",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1295.928,
-        "episode_number": "4",
-        "original_air_date": 1372730400,
-        "clip_order": null,
-        "auth_launch_date": 1675573200,
-        "modified": 1675278848,
-        "media_id": "b8c95a111d57ed23f37a5f9fecab0a27d5398d18",
-        "airing_id": "RADS1002012300065850",
-        "id": "wN7dmv1cQrqDFRE4XCHxhw",
-        "slug": "sexy-dance-fighting",
-        "views": 3977,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088775540220.jpg",
-        "created": 1403209845,
-        "season_number": "1",
-        "title_id": "2003426",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1675278848,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1657512000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg",
-        "cma_id": "1491136"
     }
 ]
