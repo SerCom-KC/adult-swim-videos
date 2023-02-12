@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 11, 2023 at 15:30:30 EST_
+_Last Update: February 11, 2023 at 21:30:23 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-608360 Robot Chicken: 1  
-### 2139712
-**Robot Chicken S09E18 - Your Mouth Is Hanging off Your Face**  
-TV-MA 🔒 11:15  
-⌛ February 13, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/your-mouth-is-hanging-off-your-face  
-seriesid=`608360` titleid=`2139712` id=`AWG_Fwy-0KIGIdXCKrgJ` mediaid=`d0da8bc806a4fbca25ba150a5638f7bf0eec0cd6`  
-_Are the Robot Chicken writers the only ones to notice that King Kong fell from the Empire State Building butt-first? The Teenage Mutant Ninja Turtles don't have money to pay for that pizza. The Smurfs try to Smurf themselves some Sudafed._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461321335-robotchicken_918_dup-20180223.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461321335-robotchicken_918_dup-20180223.jpg" height="144px" /></a>
+830073 Off The Air: 1  
+### 2199314
+**Off The Air S09E04 - Patterns**  
+TV-PG 🔒 11:21  
+⌛ February 28, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/off-the-air/patterns  
+seriesid=`830073` titleid=`2199314` id=`AW8kLZlAGRcVO2K2pl_H` mediaid=`405969393beaeacf6a315ea92aeaa9bb135115fd`  
+_Watch, rinse, repeat._  
+<a href="https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  

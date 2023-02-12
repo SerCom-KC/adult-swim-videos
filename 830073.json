@@ -407,7 +407,7 @@
             ]
         },
         "title": "Trash",
-        "expiration_date": 2085368400,
+        "expiration_date": 1676437140,
         "type": "episode",
         "platforms": [
             "android",
@@ -422,7 +422,7 @@
         "auth_launch_date": 1676437200,
         "clip_order": null,
         "media_id": "83ede7f1d81634dfec7345cacaacb8e67af2077f",
-        "modified": 1676165306,
+        "modified": 1676168328,
         "airing_id": "RADS1002122300069209",
         "slug": "trash",
         "exclude_from_search": false,
@@ -433,12 +433,12 @@
         "tv_rating": "",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1676165306,
+        "published": 1676168328,
         "tags": [],
         "collection_title": "Off The Air",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1572347700,
+        "launch_date": 1675227600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191025/thumbnails/2_1910251214530-offtheair_902_dup-20191024.jpg",
         "id": "AW306X2g1YiBSfg0KX7n",
         "auth": false
@@ -489,6 +489,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg",
         "id": "AW6QAf5z1YiBSfg0KYx3",
         "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1676437140,
+        "tms_id": "",
+        "description": "Watch, rinse, repeat.",
+        "title_suggest": {
+            "input": [
+                "Patterns"
+            ]
+        },
+        "title": "Patterns",
+        "expiration_date": 1677646740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 681,
+        "episode_number": "4",
+        "original_air_date": 1577782800,
+        "auth_launch_date": 1663646400,
+        "clip_order": null,
+        "media_id": "405969393beaeacf6a315ea92aeaa9bb135115fd",
+        "modified": 1676168328,
+        "airing_id": "RADS1009192200029345",
+        "slug": "patterns",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191220/thumbnails/1_1912201138493-offtheair_904_dup-20191220.jpg",
+        "created": 1576859965,
+        "season_number": "9",
+        "title_id": "2199314",
+        "tv_rating": "tv-pg",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1676168328,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1676437200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg",
+        "id": "AW8kLZlAGRcVO2K2pl_H",
+        "auth": true
     },
     {
         "auth": false,
