@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 12, 2023 at 05:30:26 EST_
+_Last Update: February 12, 2023 at 06:00:24 EST_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2402496
-**One Piece S16E25 - Get to Building R! The Pirate Alliance's Great Advance**  
-TV-PG 🔒 21:57  
-⌛ March 5, 2023 at 04:59:00 EST  
-https://www.adultswim.com/videos/one-piece/get-to-building-r-the-pirate-alliances-great-advance  
-seriesid=`608007` titleid=`2402496` id=`AYYx1lrr4k01GlbfzrYc` mediaid=`561eab81cb5a491682543ce8dc9a635199613ef7`  
-_Finally reunited and returned to their proper bodies, the Straw Hats fall in line as Luffy and Law lead the charge to settle the score with Caesar - and save the children!_  
-<a href="https://media.cdn.adultswim.com/uploads/20230211/thumbnails/2_232111548475-OnePiece604Still002tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230211/thumbnails/2_232111548475-OnePiece604Still002tiny.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177858
+**Naruto: Shippuden S08E12 - Where Tenten Belongs**  
+TV-PG-L 🔒 21:51  
+⌛ January 21, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/where-tenten-belongs  
+seriesid=`812206` titleid=`2177858` id=`AYYx2UHiuLQD-MTtYgCo` mediaid=`c452e21382372fa1b1e553e746cf93d3835237a7`  
+_Tenten is relieved to see that she is not alone, but her relief is short-lived._  
+<a href="https://media.cdn.adultswim.com/uploads/20230211/thumbnails/2_23211154696-NarutoShippuden428Still002tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230211/thumbnails/2_23211154696-NarutoShippuden428Still002tiny.png" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+812206 Naruto: Shippuden: 1  
+### 2177831
+**Naruto: Shippuden S07E53 - The Ultimate**  
+TV-PG 🔒 21:50  
+⌛ February 12, 2023 at 05:29:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-ultimate  
+seriesid=`812206` titleid=`2177831` id=`AYHy32d33sQvipyea9aA` mediaid=`e1aeb90eac03ba7289b06232d8ddd4596e271370`  
+_Lee challenges Shira to a battle between taijutsu users!  Lee is pushed into using his Eight Inner Gates, but he is unable to release the First Gate!_  
+<a href="https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121045277-NarutoShippuden_401_TheUltimate.png"><img src="https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121045277-NarutoShippuden_401_TheUltimate.png" height="144px" /></a>
