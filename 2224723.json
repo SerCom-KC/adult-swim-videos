@@ -230,7 +230,7 @@
         "launch_date": 1676264400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200826/thumbnails/2_2082692383-YOLO_106_dup-20200820.jpg",
         "id": "AXQq8MRjLyLQBOXK_PMK",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1676869140,
@@ -372,7 +372,7 @@
         "launch_date": 1673240400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210119/thumbnails/2_21119154475-YOLO_102_dup-20200722.jpg",
         "id": "AXSiWtBmLyLQBOXK_POP",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1676869140,
@@ -509,6 +509,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230123/thumbnails/2_231231537173-YOLO201Still001tiny.png",
         "id": "AYXgWkOVuLQD-MTtYfux",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1678078740,
+        "tms_id": "EP045818780005",
+        "description": "The gang travel 300 million years back in time using Lucas's time machine, where Sarah tries to rescue the Australian megafauna from an impending comet using skills she's learnt from a self-help guide.",
+        "title_suggest": {
+            "input": [
+                "Jamberoo"
+            ]
+        },
+        "title": "Jamberoo",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXNJnfSIC8QgH-t19J8N",
+        "duration": 675.4748,
+        "episode_number": "5",
+        "original_air_date": 1676264400,
+        "auth_launch_date": 1676264400,
+        "clip_order": null,
+        "airing_id": "RADS1002102300068972",
+        "media_id": "331d9f47ec28d84d70b71c84ef559b11e59f52d4",
+        "modified": 1676148278,
+        "slug": "jamberoo",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230211/thumbnails/1_232111543383-YOLO205Still001tiny.png",
+        "created": 1676064719,
+        "title_id": "2412381",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "published": 1676148278,
+        "tags": [],
+        "collection_title": "YOLO",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230211/thumbnails/2_232111543383-YOLO205Still001tiny.png",
+        "id": "AYY9PgQLuLQD-MTtYgEd",
+        "auth": true
     },
     {
         "auth_expiration_date": 1677473940,
