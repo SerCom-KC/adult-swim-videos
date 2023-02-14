@@ -1,5 +1,38 @@
 [
     {
+        "auth_expiration_date": 1678165140,
+        "created": 1676142515,
+        "tms_id": "SH046339710000",
+        "title_id": "2418647",
+        "season_number": "1",
+        "tv_rating": "tv-ma-lv",
+        "description": "King Star King is back! And this time he's a fat, bald, middle-aged slob with a family, a mortgage and a job at Amazon. Join King Star King, Hank Waffles, Pooza, and Gerbils on a dimension spanning adventure to save King Star King's family!",
+        "title_suggest": {
+            "input": [
+                "KING STAR KING!/!/!/",
+                "STAR KING!/!/!/",
+                "KING!/!/!/"
+            ]
+        },
+        "published": 1676146835,
+        "title": "KING STAR KING!/!/!/",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "ZzJ2KDT7ScSRhlogn4ZZDQ",
+        "duration": 1335.2673,
+        "episode_number": "7",
+        "collection_title": "King Star King",
+        "original_air_date": 1676350800,
+        "auth_launch_date": 1676350800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1002112300069099",
+        "media_id": "4deaba9f02d6dc40d44f4950cf8b940fe4bca9e0",
+        "modified": 1676146835,
+        "slug": "king-star-king",
+        "id": "AYZB4RbCuLQD-MTtYgFj",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": 1446846300,
         "auth_expiration_date": null,
