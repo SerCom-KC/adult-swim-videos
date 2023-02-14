@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 14, 2023 at 03:30:24 EST_
+_Last Update: February 14, 2023 at 13:30:26 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2143080 Black Clover: 1  
-### 2230140
-**Black Clover S03E24 - The Blue Rose's Confession**  
-TV-PG 🔒 21:38  
-⌛ February 16, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/the-blue-roses-confession  
-seriesid=`2143080` titleid=`2230140` id=`AXNdwQ0lRs3h4hI_X4VZ` mediaid=`4adb1b9e12b4d9d25a82ff54acf0a83d3dd63361`  
-_Yami's visit to the Blue Rose Knights' HQ couldn't come at a worse time for Charlotte, who can no longer hide her feelings for her fellow captain._  
-<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_20717139553-BlackClover_126.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_20717139553-BlackClover_126.jpg" height="144px" /></a>
+2073005 Neon Joe: 1  
+### 2118595
+**Neon Joe S02E02 - Parenthetical Head Nod**  
+TV-14-DSV 🔓 22:19  
+⌛ February 15, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/neon-joe/parenthetical-head-nod  
+seriesid=`2073005` titleid=`2118595` id=`-o3osKg2T_mjc5HBSpGTeg` mediaid=`66fa72f7a50d3a259766b7f93fad64a459745c27`  
+_Jailed for the murder of his rival Plaid Jeff, Neon Joe has to fight off a violent skinhead gang while trying to escape and prove his innocence. Will he succeed??_  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146486-neonjoe_202_dup-20170425.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121146486-neonjoe_202_dup-20170425.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
