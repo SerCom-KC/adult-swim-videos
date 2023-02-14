@@ -109,7 +109,7 @@
         "cma_id": "1393714"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447448580,
         "auth_expiration_date": 1675832340,
         "tms_id": "EP009235020010",
@@ -534,7 +534,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447448520,
-        "auth_expiration_date": 1673413140,
+        "auth_expiration_date": 1695787140,
         "tms_id": "EP009235020005",
         "rating": 8.460965,
         "description": "The Warden invites a motivational speaker to Superjail.",
@@ -559,10 +559,10 @@
         "episode_number": "5",
         "original_air_date": 1225079100,
         "clip_order": null,
-        "auth_launch_date": 1667797200,
-        "modified": 1673214477,
+        "auth_launch_date": 1676437200,
+        "modified": 1676171035,
         "media_id": "a1729128b09fbcff40966050d78e16b769ef2955",
-        "airing_id": "RADS1001082300058548",
+        "airing_id": "RADS1002122300069221",
         "id": "F5ZKohd6TOmLl8YmKyllUw",
         "slug": "dont-be-a-negaton",
         "views": 831399,
@@ -575,7 +575,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1673214477,
+        "published": 1676171035,
         "tags": [
             "superjail episode 5 don't be negaton motivational speaker aliens dl diamond power pyramid"
         ],
@@ -863,7 +863,7 @@
         "cma_id": "1439466"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447448580,
         "auth_expiration_date": 1695182340,
         "tms_id": "EP009235020004",
@@ -1688,7 +1688,7 @@
         },
         "type": "episode",
         "title": "Time-Police, Pt. 2",
-        "expiration_date": 1657079940,
+        "expiration_date": 1679457540,
         "platforms": [
             "web",
             "mobile",
@@ -1700,9 +1700,9 @@
         "original_air_date": 1228711500,
         "clip_order": null,
         "auth_launch_date": 1667797200,
-        "modified": 1667592881,
+        "modified": 1676171040,
         "media_id": "991434f168b88e4ff429f3491065c37d7356ff81",
-        "airing_id": "RADS1011042200043191",
+        "airing_id": "RADS1002122300069219",
         "id": "y0sRukSsSoWuadDMs6b9Mg",
         "slug": "time-police-pt-2",
         "views": 824221,
@@ -1715,7 +1715,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1667592881,
+        "published": 1676171040,
         "tags": [
             "superjail episode 9 time police part 2 real world staff jailbot jared alice bird children breed trial"
         ],
@@ -1723,7 +1723,7 @@
         "collection_title": "Superjail!",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1654056000,
+        "launch_date": 1676437200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_204211054330-superjail_109_bim.jpg",
         "cma_id": "1448083"
     },
