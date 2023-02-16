@@ -342,11 +342,8 @@
         "auth": false
     },
     {
-        "created": 1674854244,
+        "auth_expiration_date": null,
         "tms_id": "EP007164450430",
-        "title_id": "2342103",
-        "season_number": "17",
-        "tv_rating": "tv-14-dlsv",
         "description": "Stan is forced to co-lead a scouts troop with Hayley while Steve blunders in his fantasy world.",
         "title_suggest": {
             "input": [
@@ -357,22 +354,38 @@
                 "Scout?"
             ]
         },
-        "published": 1676076268,
         "title": "Hayley Was a Girl Scout?",
         "type": "episode",
         "expiration_date": 1676869140,
-        "tags": [],
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "kuykLeORSBmAK6JteESFCw",
         "duration": 1262.9283,
         "episode_number": "17",
-        "collection_title": "American Dad",
         "original_air_date": 1669001400,
-        "modified_by": "ODT Listener",
+        "auth_launch_date": null,
+        "clip_order": null,
         "airing_id": "RADS1002102300068994",
         "media_id": "6cc450eee7bda465df34e5599985e440fe65ae67",
-        "modified": 1676076268,
-        "launch_date": 1676264400,
+        "modified": 1676563123,
         "slug": "hayley-was-a-girl-scout",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/1_232161058291-HaleyGirlScout.png",
+        "created": 1674854244,
+        "title_id": "2342103",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1676563123,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": 1676264400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161058291-HaleyGirlScout.png",
         "id": "AYX1F5_5uLQD-MTtYfyU",
         "auth": false
     },
