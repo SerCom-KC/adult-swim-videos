@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 16, 2023 at 22:00:25 EST_
+_Last Update: February 16, 2023 at 23:00:30 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2104364 Hot Streets: 1  
-### 2131835
-**Hot Streets S01E04 - The Egg**  
-TV-14-LV 🔓 11:08  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/hot-streets/the-egg  
-seriesid=`2104364` titleid=`2131835` id=`bj09HcF5SeK89Eq8aKwcqg` mediaid=`ba5c4070f1be527efdf14db72d1972ae15639389`  
-_Branski keeps waking up inside of an egg._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351515211-HotStreets_104_dup-20170928.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351515211-HotStreets_104_dup-20170928.jpg" height="144px" /></a>
+2143080 Black Clover: 1  
+### 2230141
+**Black Clover S03E25 - Clues**  
+TV-PG 🔒 22:29  
+⌛ February 23, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/clues  
+seriesid=`2143080` titleid=`2230141` id=`AXOhiEE7SeFB2d0c38R9` mediaid=`65624647d796b2a586d2869ea9af21a1ad3159db`  
+_A contingent of Black Bulls seeks info from Gordon's family of Curse Magic experts, while Noelle digs deeper into what really killed her mother Acier._  
+<a href="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg" height="144px" /></a>
