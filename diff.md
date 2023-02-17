@@ -2,35 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 17, 2023 at 11:30:24 EST_
+_Last Update: February 17, 2023 at 12:00:26 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2143080 Black Clover: 1  
-2194549 Gemusetto: 1  
-2268280 Yashahime: Princess Half-Demon: 1  
-### 2205119
-**Black Clover S02E42 - Julius Novachrono**  
-TV-14 🔒 21:08  
-⌛ February 25, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/julius-novachrono  
-seriesid=`2143080` titleid=`2205119` id=`AW4S8D081YiBSfg0KYDu` mediaid=`ea5cae7f99e0cde417f52ec88216d4721cda6e31`  
-_The battle rages on between the Wizard King and Licht, who holds a kingdom's worth of innocent people hostage. Julius recalls his greatest motivation._  
-<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281115557-BlackClover_093.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281115557-BlackClover_093.jpg" height="144px" /></a>
-### 2241836
-**Gemusetto S02E11 - Episode Eleven: G13**  
-TV-MA-LV 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-eleven-g-13  
-seriesid=`2194549` titleid=`2241836` id=`AXZmne7CQJ_4Uej5kTe8` mediaid=`945db87ef40ac275bbfeddae8bfb2a40f85faca3`  
-_Back in the material world of Earth, the Chilean man who hunted Makasu for most of his career can't seem to move on. Can retirement really help you let go of your obsessions?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836316-GSMP_211_dup-20201209.jpg" height="144px" /></a>
-### 2394820
-**Yashahime: Princess Half-Demon S02E01 - Wielding the Tenseiga**  
-TV-14-LV 🔒 23:15  
-⌛ February 25, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/yashahime-princess-half-demon/wielding-the-tenseiga  
-seriesid=`2268280` titleid=`2394820` id=`AYI7qxHPIAxeiVkFtLQk` mediaid=`85efddb243961b6fb018b583895cc027ae0b1f11`  
-_Sesshomaru hands the broken Tenseiga to a grieving Towa, leaving Setsuna's fate in her hands. Will Towa be able to bring Setsuna back to life?_  
-<a href="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726140330-YashahimePrincessHalfDemon_201_WieldingTheTenseiga.png"><img src="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726140330-YashahimePrincessHalfDemon_201_WieldingTheTenseiga.png" height="144px" /></a>
+812206 Naruto: Shippuden: 2  
+### 2177834
+**Naruto: Shippuden S07E56 - Tenten's Troubles**  
+TV-PG 🔒 21:52  
+⌛ February 26, 2023 at 05:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/tentens-troubles  
+seriesid=`812206` titleid=`2177834` id=`AYI7rnpvIAxeiVkFtLQn` mediaid=`58d858162b09ccfed90c5f37210bc31f3685367d`  
+_As fighting breaks out for the scrolls, Tenten feels an intense rivalry with Ajisai, who also specializes in Transportation Ninjutsu._  
+<a href="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726144159-NarutoShippuden_404_TentensTroubles.png"><img src="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726144159-NarutoShippuden_404_TentensTroubles.png" height="144px" /></a>
+### 2177848
+**Naruto: Shippuden S08E02 - The Blue Beast vs. Six Paths Madara**  
+TV-PG 🔒 21:51  
+⌛ February 26, 2023 at 05:29:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-blue-beast-vs-six-paths-madara  
+seriesid=`812206` titleid=`2177848` id=`AYRdYdgGIAxeiVkFtLSo` mediaid=`2137f358217746429c697e6e862a608f25d37cca`  
+_Guy releases his Eight Inner Gates against Madara, but the Seventh Gate of Shock does not work against him!_  
+<a href="https://media.cdn.adultswim.com/uploads/20221109/thumbnails/2_22119121322-NarutoShippuden_418_TheBlueBeastVsSixPathsMadara.png"><img src="https://media.cdn.adultswim.com/uploads/20221109/thumbnails/2_22119121322-NarutoShippuden_418_TheBlueBeastVsSixPathsMadara.png" height="144px" /></a>
