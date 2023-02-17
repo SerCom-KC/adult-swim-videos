@@ -1,7 +1,6 @@
 {
-    "updated": 1676667678,
-    "added": [],
-    "removed": [
+    "updated": 1676668537,
+    "added": [
         {
             "ott_launch_date": 1539008940,
             "auth": true,
@@ -32,7 +31,7 @@
             "auth_launch_date": 1666238400,
             "clip_order": null,
             "media_id": "80e1416e2c505b0a6b5bb8778e279a16865af66a",
-            "modified": 1666023779,
+            "modified": 1676668340,
             "airing_id": "RADS1010172200037073",
             "id": "AWRsVD1sqBveI_0AhKz5",
             "slug": "the-saphrax-protocol",
@@ -44,7 +43,7 @@
             "tv_rating": "tv-14-dlv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1666023779,
+            "published": 1676668340,
             "tags": [],
             "collection_title": "The Venture Bros.",
             "modified_by": "ODT Listener",
@@ -54,5 +53,6 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
