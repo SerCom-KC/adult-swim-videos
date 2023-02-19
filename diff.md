@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 19, 2023 at 04:00:25 EST_
+_Last Update: February 19, 2023 at 05:30:24 EST_
 ## Video added
-### Summary
-2142267 My Hero Academia: 1  
-### 2417785
-**My Hero Academia S06E10 - The Ones Within Us**  
-TV-14-V 🔒 21:39  
-⌛ March 12, 2023 at 03:29:00 EDT  
-https://www.adultswim.com/videos/my-hero-academia/the-ones-within-us  
-seriesid=`2142267` titleid=`2417785` id=`AYZSznhm4k01GlbfzrYd` mediaid=`071e7dc0ee55ac75ceeba751fddc53d13ff72c51`  
-_Midoriya and Shigaraki enter the world of One for All as Gigantomachia continues north and Toga makes a detour._  
-<a href="https://media.cdn.adultswim.com/uploads/20230217/thumbnails/2_232171349584-MHA123Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230217/thumbnails/2_232171349584-MHA123Still001tiny.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+812206 Naruto: Shippuden: 1  
+### 2177847
+**Naruto: Shippuden S08E01 - You'll Be My Backup**  
+TV-PG-LV 🔒 21:51  
+⌛ February 19, 2023 at 05:14:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/youll-be-my-backup  
+seriesid=`812206` titleid=`2177847` id=`AYQvKZtOIAxeiVkFtLSg` mediaid=`fbb22544cd23e63e51b4a3d24c7dae304ee55856`  
+_Obito doesn't understand Kakashi's way of thinking, but he finally learns why Kakashi prioritized his mission first at Kannabi Bridge._  
+<a href="https://media.cdn.adultswim.com/uploads/20221031/thumbnails/2_2210311349165-NarutoShippuden_417_YoullBeMyBackup.png"><img src="https://media.cdn.adultswim.com/uploads/20221031/thumbnails/2_2210311349165-NarutoShippuden_417_YoullBeMyBackup.png" height="144px" /></a>
