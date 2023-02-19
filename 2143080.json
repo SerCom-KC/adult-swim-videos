@@ -255,65 +255,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1676782740,
-        "tms_id": "EP032284200092",
-        "description": "It's a battle for the ages as the Clover Kingdom's mightiest mage takes on the dynamic leader of the Eye of the Midnight Sun, and an unexpected guest.",
-        "title_suggest": {
-            "input": [
-                "The Wizard King vs. the Leader of the Eye of the Midnight Sun",
-                "Wizard King vs. the Leader of the Eye of the Midnight Sun",
-                "King vs. the Leader of the Eye of the Midnight Sun",
-                "vs. the Leader of the Eye of the Midnight Sun",
-                "the Leader of the Eye of the Midnight Sun",
-                "Leader of the Eye of the Midnight Sun",
-                "of the Eye of the Midnight Sun",
-                "the Eye of the Midnight Sun",
-                "Eye of the Midnight Sun",
-                "of the Midnight Sun",
-                "the Midnight Sun",
-                "Midnight Sun",
-                "Sun"
-            ]
-        },
-        "title": "The Wizard King vs. the Leader of the Eye of the Midnight Sun",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AV-7K77EZ-onAnjDLtBM",
-        "duration": 1278.2103,
-        "episode_number": "41",
-        "original_air_date": 1572156000,
-        "auth_launch_date": 1666411200,
-        "clip_order": null,
-        "media_id": "d4b0d4bc7a8396d3a315d5c05d6b1951991ee437",
-        "modified": 1676472592,
-        "airing_id": "RADS1010172200037012",
-        "slug": "the-wizard-king-vs-the-leader-of-the-eye-of-the-midnight-sun",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191016/thumbnails/1_1910161022441-BlackClover_092.jpg",
-        "created": 1571235773,
-        "season_number": "2",
-        "title_id": "2205118",
-        "tv_rating": "",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1676472592,
-        "tags": [],
-        "collection_title": "Black Clover",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191016/thumbnails/2_1910161022441-BlackClover_092.jpg",
-        "id": "AW3U8z0iadNs2hMNfuT6",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1677992340,
         "tms_id": "",
         "description": "Yami rushes to Julius's side as the Wizard King's battle with Licht draws to a close. Yuno's team approaches the center of the terrorist's hideout.",
@@ -3608,7 +3549,7 @@
         "launch_date": 1675573200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181252166-BlackClover_155_The5SpiritGuardians.png",
         "id": "AXobIKT6DmGy9WFjRrfH",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1686542340,
@@ -3698,7 +3639,7 @@
         "launch_date": 1676782800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711452121-BlackClover_157_FiveLeafClover.png",
         "id": "AXpjaiowBH5Z6gH5aWXq",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1677387540,
