@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 19, 2023 at 01:30:23 EST_
+_Last Update: February 19, 2023 at 04:00:25 EST_
 ## Video added
 ### Summary
-2143080 Black Clover: 1  
-### 2230141
-**Black Clover S03E25 - Clues**  
-TV-PG 🔒 22:29  
-⌛ February 23, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/clues  
-seriesid=`2143080` titleid=`2230141` id=`AXOhiEE7SeFB2d0c38R9` mediaid=`65624647d796b2a586d2869ea9af21a1ad3159db`  
-_A contingent of Black Bulls seeks info from Gordon's family of Curse Magic experts, while Noelle digs deeper into what really killed her mother Acier._  
-<a href="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg" height="144px" /></a>
+2142267 My Hero Academia: 1  
+### 2417785
+**My Hero Academia S06E10 - The Ones Within Us**  
+TV-14-V 🔒 21:39  
+⌛ March 12, 2023 at 03:29:00 EDT  
+https://www.adultswim.com/videos/my-hero-academia/the-ones-within-us  
+seriesid=`2142267` titleid=`2417785` id=`AYZSznhm4k01GlbfzrYd` mediaid=`071e7dc0ee55ac75ceeba751fddc53d13ff72c51`  
+_Midoriya and Shigaraki enter the world of One for All as Gigantomachia continues north and Toga makes a detour._  
+<a href="https://media.cdn.adultswim.com/uploads/20230217/thumbnails/2_232171349584-MHA123Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230217/thumbnails/2_232171349584-MHA123Still001tiny.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  

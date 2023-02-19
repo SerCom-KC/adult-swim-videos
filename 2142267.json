@@ -227,7 +227,7 @@
         "launch_date": 1675585800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230113/thumbnails/2_23113181113-myheroacademia118tiny.png",
         "id": "AYWsiZnLuLQD-MTtYfjI",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1688875199,
@@ -413,6 +413,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230211/thumbnails/2_232111547343-MHA122Still001tiny.png",
         "id": "AYYx1R6nuLQD-MTtYgCm",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1678606140,
+        "tms_id": "EP034435300128",
+        "description": "Midoriya and Shigaraki enter the world of One for All as Gigantomachia continues north and Toga makes a detour.",
+        "title_suggest": {
+            "input": [
+                "The Ones Within Us",
+                "Ones Within Us",
+                "Within Us",
+                "Us"
+            ]
+        },
+        "title": "The Ones Within Us",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1299.7985,
+        "episode_number": "10",
+        "original_air_date": 1676782800,
+        "auth_launch_date": 1676795400,
+        "clip_order": null,
+        "airing_id": "RADS1002152300070266",
+        "media_id": "071e7dc0ee55ac75ceeba751fddc53d13ff72c51",
+        "modified": 1676659814,
+        "slug": "the-ones-within-us",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230217/thumbnails/1_232171349584-MHA123Still001tiny.png",
+        "created": 1676426508,
+        "title_id": "2417785",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1676659814,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230217/thumbnails/2_232171349584-MHA123Still001tiny.png",
+        "id": "AYZSznhm4k01GlbfzrYd",
         "auth": true
     }
 ]
