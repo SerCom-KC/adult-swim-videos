@@ -47,7 +47,7 @@
         "launch_date": 1673845200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200811/thumbnails/2_208111257592-YOLO_003_dup-20200722.jpg",
         "id": "AXPedRx5LyLQBOXK_PK9",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1679284740,
@@ -277,7 +277,7 @@
         "launch_date": 1676869200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200827/thumbnails/2_208271034283-YOLO_108_dup-20200825.jpg",
         "id": "AXQwV3NgSeFB2d0c38or",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1677473940,
@@ -418,7 +418,7 @@
         "launch_date": 1676869200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_23128181407-YOLO203Still001tiny.png",
         "id": "AYX05gQy4k01GlbfzrYN",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1676265240,
@@ -599,6 +599,39 @@
         "launch_date": 1677474000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_23242043555-YOLO204Still002tiny.png",
         "id": "AYYUIZ8R4k01GlbfzrYZ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1678679940,
+        "created": 1676570997,
+        "tms_id": "EP045818780007",
+        "title_id": "2412383",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "description": "On a quest for a tale of familial lore, Lucas seeks out the story of how Sarah's parents met and hears a ripping yarn of fair maidens and reckless bravery set in Ye Olde Wollongong.",
+        "title_suggest": {
+            "input": [
+                "The Parents Episode",
+                "Parents Episode",
+                "Episode"
+            ]
+        },
+        "published": 1676582404,
+        "title": "The Parents Episode",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AXNJnfSIC8QgH-t19J8N",
+        "duration": 675.5415,
+        "episode_number": "6",
+        "collection_title": "YOLO",
+        "original_air_date": 1676869200,
+        "auth_launch_date": 1676869200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1002162300070442",
+        "media_id": "ea71e7f9311204e7fb5c8ae1aa4e18ee42da2706",
+        "modified": 1676582404,
+        "slug": "the-parents-episode",
+        "id": "AYZbazLGuLQD-MTtYgMy",
         "auth": true
     }
 ]
