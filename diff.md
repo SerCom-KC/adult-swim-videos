@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 20, 2023 at 02:30:25 EST_
+_Last Update: February 20, 2023 at 07:00:27 EST_
 ## Video added
 ### Summary
-581268 Squidbillies: 1  
-### 654430
-**Squidbillies S02E09 - Bubba Trubba**  
-TV-14-LV 🔒 11:29  
-⌛ March 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/bubba-trubba  
-seriesid=`581268` titleid=`654430` id=`H1jZSvlvQc26Eis3_qFJZg` mediaid=`aa8887ffe16275ba19c66805bc3f257d088946b8`  
-_Early learns a valuable lesson about the downside of mind control._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111626-squidbillies_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111626-squidbillies_014.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177812
+**Naruto: Shippuden S07E34 - A Shinobi's Dream**  
+TV-PG 🔒 21:49  
+⌛ January 21, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/a-shinobis-dream  
+seriesid=`812206` titleid=`2177812` id=`AX-y9ohg208s7zyYUMZl` mediaid=`0fa40f99a5e191f47f497202b741e56825a0cca7`  
+_The Divine Tree is close to blossoming, and Madara declares that there is only 15 minutes left before everything comes to an end._  
+<a href="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221449269-NarutoShippuden_382_AShinobisDream.png"><img src="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221449269-NarutoShippuden_382_AShinobisDream.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
