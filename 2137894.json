@@ -390,7 +390,7 @@
         "launch_date": 1673931600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217126508-ballmastrz9009_208_dup-20191105.jpg",
         "id": "AW8U066k3HMJfT8do6gB",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -790,7 +790,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1523889000,
         "auth_expiration_date": 1676955540,
         "tms_id": "EP029156490003",
@@ -1355,5 +1355,37 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261326391-crayzarPrizeSpecial-thumb.jpg",
         "id": "AXCCwFBD3HMJfT8do8x8",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1678766340,
+        "created": 1676573248,
+        "tms_id": "EP029156490022",
+        "title_id": "2413271",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlv",
+        "description": "When secrets from Crayzar's past threaten the future of the planet, will he grow some balls and unite 'Team Earth' or add humanity to the intergalactic endangered species list?",
+        "title_suggest": {
+            "input": [
+                "Ballmastrz: Rubicon",
+                "Rubicon"
+            ]
+        },
+        "published": 1676587764,
+        "title": "Ballmastrz: Rubicon",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AWHiPblUNWyh42wYnlGd",
+        "duration": 1343.7424,
+        "episode_number": "11",
+        "collection_title": "Ballmastrz: 9009",
+        "original_air_date": 1676955600,
+        "auth_launch_date": 1676955600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1002162300070490",
+        "media_id": "a72cbb638868e833bb7837c9aa5d1efd50aac63a",
+        "modified": 1676587764,
+        "slug": "ballmastrz-rubicon",
+        "id": "AYZbjYsyuLQD-MTtYgNC",
+        "auth": true
     }
 ]
