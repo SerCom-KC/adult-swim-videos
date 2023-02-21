@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 20, 2023 at 07:00:27 EST_
+_Last Update: February 21, 2023 at 00:00:27 EST_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177812
-**Naruto: Shippuden S07E34 - A Shinobi's Dream**  
-TV-PG 🔒 21:49  
-⌛ January 21, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/a-shinobis-dream  
-seriesid=`812206` titleid=`2177812` id=`AX-y9ohg208s7zyYUMZl` mediaid=`0fa40f99a5e191f47f497202b741e56825a0cca7`  
-_The Divine Tree is close to blossoming, and Madara declares that there is only 15 minutes left before everything comes to an end._  
-<a href="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221449269-NarutoShippuden_382_AShinobisDream.png"><img src="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221449269-NarutoShippuden_382_AShinobisDream.png" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+### 2003516
+**Bob's Burgers S03E05 - An Indecent Thanksgiving Proposal**  
+TV-14 🔒 21:34  
+⌛ February 27, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/an-indecent-thanksgiving-proposal  
+seriesid=`2003422` titleid=`2003516` id=`sldYo92OShixZ1NZiHNN_g` mediaid=`3287169512e681455e84ed24a9a08fe6f57ff57a`  
+_Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2003422 Bob's Burgers: 1  
+### 2003439
+**Bob's Burgers S02E04 - Burgerboss**  
+TV-14 🔒 21:29  
+⌛ February 20, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/burgerboss  
+seriesid=`2003422` titleid=`2003439` id=`4d4V76qWQ1SI9IOvsnT-hA` mediaid=`4cdd76bc8d9151f4f3355fc945013de870cca96f`  
+_Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes "BOB SUX" on the leader board._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214844247735.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214844247735.jpg" height="144px" /></a>
