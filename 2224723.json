@@ -603,11 +603,7 @@
     },
     {
         "auth_expiration_date": 1678679940,
-        "created": 1676570997,
         "tms_id": "EP045818780007",
-        "title_id": "2412383",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
         "description": "On a quest for a tale of familial lore, Lucas seeks out the story of how Sarah's parents met and hears a ripping yarn of fair maidens and reckless bravery set in Ye Olde Wollongong.",
         "title_suggest": {
             "input": [
@@ -616,21 +612,38 @@
                 "Episode"
             ]
         },
-        "published": 1676582404,
         "title": "The Parents Episode",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AXNJnfSIC8QgH-t19J8N",
         "duration": 675.5415,
         "episode_number": "6",
-        "collection_title": "YOLO",
         "original_air_date": 1676869200,
         "auth_launch_date": 1676869200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1002162300070442",
         "media_id": "ea71e7f9311204e7fb5c8ae1aa4e18ee42da2706",
-        "modified": 1676582404,
+        "modified": 1677098181,
         "slug": "the-parents-episode",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230222/thumbnails/1_232221535487-YOLO206Still001tiny.png",
+        "created": 1676570997,
+        "title_id": "2412383",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "published": 1677098181,
+        "tags": [],
+        "collection_title": "YOLO",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230222/thumbnails/2_232221535487-YOLO206Still001tiny.png",
         "id": "AYZbazLGuLQD-MTtYgMy",
         "auth": true
     }
