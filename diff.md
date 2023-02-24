@@ -2,33 +2,53 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 23, 2023 at 07:00:26 EST_
+_Last Update: February 24, 2023 at 00:00:32 EST_
 ## Video added
 ### Summary
-608360 Robot Chicken: 3  
-### 2020465
-**Robot Chicken S07E10 - Catdog on a Stick**  
-TV-MA 🔒 11:29  
-⌛ March 6, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/catdog-on-a-stick  
-seriesid=`608360` titleid=`2020465` id=`uaOgtkS9QVKbgw_5_F5pEQ` mediaid=`542f7a3244b9f453c1087c53e42b7048cec9bb0d`  
-_The Robot Chicken crew lets you know if Santa Claus is a racist, Tiger Woods gets his own Space Jam type of movie and we find out what The Bratz girls did last summer._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612518-robotchicken_130_dup-20140612.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612518-robotchicken_130_dup-20140612.jpg" height="144px" /></a>
-### 2020467
-**Robot Chicken S07E12 - Noidstrom Rack**  
-TV-MA 🔒 11:16  
-⌛ March 6, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/noidstrom-rack  
-seriesid=`608360` titleid=`2020467` id=`O8edldILRwuJxYY4gNHoGg` mediaid=`f23bd25a2c7f0767e55bd695eb342e7580f86c0b`  
-_Man-E-Faces gets a shot at stardom from the minds behind Robot Chicken, the Starcom boys show NASA how it's done, we get a look at what goes on behind the scenes of Medieval Times when the costumes come off, and the consequences of wishing on a Zoltar machine._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046126407-robotchicken_132_dup-20140617.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046126407-robotchicken_132_dup-20140617.jpg" height="144px" /></a>
-### 2020468
-**Robot Chicken S07E13 - Stone Cold Steve Cold Stone**  
-TV-MA 🔒 11:09  
-⌛ March 6, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/stone-cold-steve-cold-stone  
-seriesid=`608360` titleid=`2020468` id=`d8uB_AE-Q0WeK8ViFAusYQ` mediaid=`b8e9011ca206c0088334dbdf23b727076e796203`  
-_The Robot Chicken writers expose the real reason why no one plays the piano in Wayne Manor.  We find out what James Potter and his friends did while in animal form, and the Disney Princesses get into a little scuffle._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046127310-robotchicken_133_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046127310-robotchicken_133_dup.jpg" height="144px" /></a>
+629835 King of the Hill: 1  
+2165429 The Shivering Truth: 1  
+### 731547
+**King of the Hill S11E05 - Hank Gets Dusted**  
+TV-PG-DL 🔒 22:46  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/hank-gets-dusted  
+seriesid=`629835` titleid=`731547` id=`5t1AkmIHSRecALgIt8zfzw` mediaid=`24c1fd6a28ee74f72053e914faa3e19227133596`  
+_When Hank's gift is given to his cousin Dusty, his disappointment is caught on camera in a reality-TV show._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152640350355612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152640350355612.jpg" height="144px" /></a>
+### 2172252
+**The Shivering Truth S01E06 - Fowl Flow**  
+TV-MA-SV 🔓 11:17  
+⌛ March 30, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-shivering-truth/fowl-flow  
+seriesid=`2165429` titleid=`2172252` id=`AWdcesecqD68dq0Op5mi` mediaid=`ee1d1457a5e0788e336d53395889dd6b58d80719`  
+_This week Violet discovers that that scalding throb that rips thru your body every few seconds has a name:  The Rest Of The World._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2143080 Black Clover: 1  
+2165429 The Shivering Truth: 1  
+629835 King of the Hill: 1  
+### 2230141
+**Black Clover S03E25 - Clues**  
+TV-PG 🔒 22:29  
+⌛ February 23, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-clover/clues  
+seriesid=`2143080` titleid=`2230141` id=`AXOhiEE7SeFB2d0c38R9` mediaid=`65624647d796b2a586d2869ea9af21a1ad3159db`  
+_A contingent of Black Bulls seeks info from Gordon's family of Curse Magic experts, while Noelle digs deeper into what really killed her mother Acier._  
+<a href="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200731/thumbnails/2_20731164520-BlackClover_127.jpg" height="144px" /></a>
+### 2222977
+**The Shivering Truth S02E03 - Nesslessness**  
+TV-MA-V 🔒 11:14  
+⌛ February 23, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-shivering-truth/nesslessness  
+seriesid=`2165429` titleid=`2222977` id=`AXHqdnRIRs3h4hI_X3ZU` mediaid=`5e0bee245bc674cf14e4e9ea0cb011aaae9b9e35`  
+_Time flies when you're demoralizing your children._  
+<a href="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049200-TheShiveringTruth_203_dup-20200214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049200-TheShiveringTruth_203_dup-20200214.jpg" height="144px" /></a>
+### 731542
+**King of the Hill S10E15 - Edu-Macating Lucky**  
+TV-PG-DL 🔒 23:58  
+⌛ February 23, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/edu-macating-lucky  
+seriesid=`629835` titleid=`731542` id=`RUfeNlDsT5Gf9ek-GRNVLw` mediaid=`63901d2a0b43b0e2fb2da8a74ab724bf5f7b1400`  
+_Lucky, Luanne's good-for-nothing boyfriend, won't marry her until he passes his GED test; when he asks Peggy to tutor him, she schemes to end their relationship by teaching him all the wrong answers._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15263211006162.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15263211006162.jpg" height="144px" /></a>
