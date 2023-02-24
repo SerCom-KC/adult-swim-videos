@@ -289,7 +289,7 @@
         "original_air_date": 975301200,
         "clip_order": null,
         "auth_launch_date": 1677646800,
-        "modified": 1677228042,
+        "modified": 1677229567,
         "airing_id": "RADS1001222300062672",
         "media_id": "a452865d62ea61ad07b7b718b518975b90b1d932",
         "id": "6Q4q9jrQTdqM-8UXLBAJmQ",
@@ -303,7 +303,7 @@
         "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1677228042,
+        "published": 1677229567,
         "tags": [
             "space ghost coast to coast sgc2c episode 52 suckup talk soup john henson bob goen"
         ],
@@ -1190,6 +1190,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1657684800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948300-sgc2c_9409_dst_cid-9129902.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1450888740,
+        "auth_expiration_date": 1677646740,
+        "tms_id": "EP001022180089",
+        "rating": 6.9174314,
+        "description": "The comedy stakes are high when Space Ghost, Moltar, Zorak and guest Steven Wright are stalked by body-snatching pods. Show producers auctioned off the ending of this episode on eBay.",
+        "title_suggest": {
+            "input": [
+                "Snatch"
+            ]
+        },
+        "type": "episode",
+        "title": "Snatch",
+        "expiration_date": 1680667140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 672.333667,
+        "episode_number": "2",
+        "original_air_date": 940042800,
+        "clip_order": null,
+        "auth_launch_date": 1669179600,
+        "modified": 1677229576,
+        "airing_id": "RADS1011212200045269",
+        "media_id": "0aad3f89eea134bc783c67e09d91e831c9fb4347",
+        "id": "Wps45WdlRR2JSgi-NCspcg",
+        "slug": "snatch",
+        "views": 26435,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201151201-sgc2c_9902_air.jpg",
+        "created": 1402945476,
+        "title_id": "332368",
+        "season_number": "6",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1677229576,
+        "tags": [
+            "Space Ghost Episode 70 Snatch"
+        ],
+        "rating_count": 218,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1677646800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151201-sgc2c_9902_air.jpg",
         "cma_id": ""
     },
     {
