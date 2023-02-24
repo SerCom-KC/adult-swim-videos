@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1677214740,
-        "tms_id": "EP003034830088",
-        "description": "After a devastating spaceship crash, the Professor attempts to resuscitate the crew with his birth machine.",
-        "title_suggest": {
-            "input": [
-                "Rebirth"
-            ]
-        },
-        "title": "Rebirth",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1354.353,
-        "episode_number": "1",
-        "original_air_date": "1646013600",
-        "auth_launch_date": 1676610000,
-        "clip_order": null,
-        "airing_id": "RADS1002142300069975",
-        "media_id": "e9b564a125c172387a192fa1815c166d17a2f1c8",
-        "modified": 1676409210,
-        "slug": "rebirth",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223943117-Futurama_701_Rebirth.png",
-        "created": 1645115258,
-        "season_number": "7",
-        "title_id": "2161620",
-        "tv_rating": "",
-        "published": 1676409210,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943117-Futurama_701_Rebirth.png",
-        "id": "AX8Igrfc208s7zyYUMHj",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1677301140,
         "tms_id": "EP003034830087",
         "description": "Leela and Zapp Brannigan find themselves stranded on an Eden-like planet.",
@@ -131,6 +87,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/2_223101326290-Futurama_705_TheDuhVinciCode.png",
         "id": "AX91FS2x208s7zyYUMR0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1677819540,
+        "tms_id": "EP003034830092",
+        "description": "Bender learns that he suffers from a mortal manufacturing defect.",
+        "title_suggest": {
+            "input": [
+                "Lethal Inspection",
+                "Inspection"
+            ]
+        },
+        "title": "Lethal Inspection",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1362.094,
+        "episode_number": "6",
+        "original_air_date": "1647221400",
+        "auth_launch_date": 1677214800,
+        "clip_order": null,
+        "airing_id": "RADS1002172300070760",
+        "media_id": "beda25412415190e9c4a1a133cbc871e9caca7ce",
+        "modified": 1677181517,
+        "slug": "lethal-inspection",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/1_22310132798-Futurama_706_LethalInspection.png",
+        "created": 1646936843,
+        "season_number": "7",
+        "title_id": "2161625",
+        "tv_rating": "tv-14-lv",
+        "published": 1677181517,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/2_22310132798-Futurama_706_LethalInspection.png",
+        "id": "AX91FeOz208s7zyYUMR1",
         "auth": true
     },
     {
