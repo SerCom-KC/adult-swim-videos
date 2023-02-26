@@ -273,7 +273,7 @@
         "launch_date": 1676190600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230121/thumbnails/2_23121145213-myheroacademia119Still001tiny.png",
         "id": "AYXMS_jx4k01GlbfzrYF",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1676795340,
@@ -367,7 +367,7 @@
         "launch_date": 1677400200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_23242048243-MHA121Still001tiny.png",
         "id": "AYYN96FkuLQD-MTtYf5f",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1678004940,
@@ -460,6 +460,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230217/thumbnails/2_232171349584-MHA123Still001tiny.png",
         "id": "AYZSznhm4k01GlbfzrYd",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1679210940,
+        "tms_id": "EP034435300129",
+        "description": "As Ochaco and Toga exchange words and blows, Gigantomachia reaches Shigaraki and the heroes, and Dabi reveals the secret of his past.",
+        "title_suggest": {
+            "input": [
+                "Dabi's Dance",
+                "Dance"
+            ]
+        },
+        "title": "Dabi's Dance",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1351.9174,
+        "episode_number": "11",
+        "original_air_date": 1677387600,
+        "auth_launch_date": 1677400200,
+        "clip_order": null,
+        "airing_id": "RADS1002172300070881",
+        "media_id": "5c19b5b1ae6e915c3fca0aaf209bbbc10a40f795",
+        "modified": 1677361425,
+        "slug": "dabis-dance",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230225/thumbnails/1_232251643329-MHAS6124Still001tiny.png",
+        "created": 1676650010,
+        "title_id": "2417786",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1677361425,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230225/thumbnails/2_232251643329-MHAS6124Still001tiny.png",
+        "id": "AYZgINgR4k01GlbfzrYf",
         "auth": true
     }
 ]
