@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 27, 2023 at 17:00:25 EST_
+_Last Update: February 27, 2023 at 18:00:25 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2143080 Black Clover: 1  
-### 2205120
-**Black Clover S02E43 - New Future**  
-TV-14-V 🔒 21:10  
-⌛ March 4, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/new-future  
-seriesid=`2143080` titleid=`2205120` id=`AW4S8Xa1adNs2hMNfuXp` mediaid=`1cd4ac470bbb1e4b4203abfa2d4f567abb5f3c26`  
-_Yami rushes to Julius's side as the Wizard King's battle with Licht draws to a close. Yuno's team approaches the center of the terrorist's hideout._  
-<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117213-BlackClover_094.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117213-BlackClover_094.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177849
+**Naruto: Shippuden S08E03 - Papa's Youth**  
+TV-PG 🔒 21:52  
+⌛ March 5, 2023 at 05:29:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/papas-youth  
+seriesid=`812206` titleid=`2177849` id=`AYR8aKACuLQD-MTtYfAU` mediaid=`a07d9a78ffc3e1d9798a3f5190b12bfaea49c45c`  
+_With his father's teachings spurring him on, Guy sets out on his final battle._  
+<a href="https://media.cdn.adultswim.com/uploads/20221115/thumbnails/2_2211151248513-NarutoShippuden_419_PapasYouth.png"><img src="https://media.cdn.adultswim.com/uploads/20221115/thumbnails/2_2211151248513-NarutoShippuden_419_PapasYouth.png" height="144px" /></a>
