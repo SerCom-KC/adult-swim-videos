@@ -2,26 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 26, 2023 at 22:30:23 EST_
+_Last Update: February 26, 2023 at 23:30:39 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2073005 Neon Joe: 1  
-862772 China, IL: 1  
-### 2118597
-**Neon Joe S02E04 - Walk Away, Friend. Walk Away**  
-TV-14-DLS 🔓 22:29  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/neon-joe/walk-away-friend-walk-away  
-seriesid=`2073005` titleid=`2118597` id=`A1xhMYnDTUOPlv4L3HmsFg` mediaid=`a01e51423d3145183d5e800620f27d0451800fac`  
-_Neon Joe and Vance try to set aside their differences for the ultimate greater good: saving Planet Earth. Will they succeed????_  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121147288-neonjoe_204_dup-20170512.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121147288-neonjoe_204_dup-20170512.jpg" height="144px" /></a>
-### 2008010
-**China, IL S02E08 - Surfer God**  
-TV-14-DLV 🔓 22:33  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/china-il/surfer-god  
-seriesid=`862772` titleid=`2008010` id=`HkcmPoSNRBqpxomymmBjzA` mediaid=`b534aaa33af427bd2aa908027e9c12e98787dede`  
-_Steve's dislike of The Beach Boys goes well beyond their music._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321647382-chinail_018_dup-20131008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321647382-chinail_018_dup-20131008.jpg" height="144px" /></a>
+439722 The Venture Bros.: 2  
+### 772174
+**The Venture Bros. S04E08 - Pinstripes & Poltergeists**  
+TV-14-DLV 🔒 22:22  
+⌛ March 15, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/pinstripes-poltergeists  
+seriesid=`439722` titleid=`772174` id=`i9B42vXAQ0SbYYqFD6pWhA` mediaid=`cdb6a4193b69ecc8306e6aa6a7df581b27bb9973`  
+_The Monarch makes his move on Dr. Venture, just as he's distracted by problems with zoning regulations.  But how does Monstroso play in and what are his ultimate plans?  And how does it all relate to Brock Samson and the mystery of Sphinx? Part of Season 4._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116147240-venture_147.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116147240-venture_147.jpg" height="144px" /></a>
+### 812728
+**The Venture Bros. S04E09 - The Diving Bell vs. the Butter-Glider**  
+TV-14 🔒 22:44  
+⌛ March 22, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-diving-bell-vs-the-butter-glider  
+seriesid=`439722` titleid=`812728` id=`KkU0folZRdWaVphq9IZ2kg` mediaid=`1a771bf4ed41d59033817c3166c0cfd5c5705fa3`  
+_The semi-season opener finds Dr. Venture semi-paralyzed in a trauma-induced coma. Sgt. Hatred and the boys recruit the medical minds of Conjectural Technologies for the mystery diagnosis. Meanwhile, the Monarch is over the moon about his latest gadget, but it's driving a hot wedge in his relationships with his wife and henchmen._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149196-venture_150_dst_cid_VAHC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149196-venture_150_dst_cid_VAHC.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
