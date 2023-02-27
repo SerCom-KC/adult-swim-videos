@@ -1589,6 +1589,54 @@
     {
         "ott_launch_date": null,
         "auth_expiration_date": 1689393540,
+        "tms_id": "EP007008180118",
+        "description": "Dan Halen's foolish new plan prompts Early to open a foolish new business.",
+        "title_suggest": {
+            "input": [
+                "Forever Autumn",
+                "Autumn"
+            ]
+        },
+        "title": "Forever Autumn",
+        "expiration_date": 1674277140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 670.2,
+        "episode_number": "1",
+        "original_air_date": 1565582400,
+        "auth_launch_date": 1674277200,
+        "clip_order": null,
+        "media_id": "f407fd33252996fc291bc389fab5823298b237b6",
+        "modified": 1677527016,
+        "airing_id": "RADS1001182300062181",
+        "slug": "forever-autumn",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190808/thumbnails/1_19881119139-squidbillies_1001_dup-20190807.jpg",
+        "created": 1565277563,
+        "season_number": "12",
+        "title_id": "2108975",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1677527016,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1673672400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119139-squidbillies_1001_dup-20190807.jpg",
+        "id": "AWxx0Cuq4aLemgzOLGIh",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1689393540,
         "tms_id": "EP007008180119",
         "description": "Granny finds love and Early loses his mind.",
         "title_suggest": {

@@ -289,7 +289,7 @@
         "original_air_date": 975301200,
         "clip_order": null,
         "auth_launch_date": 1677646800,
-        "modified": 1677229567,
+        "modified": 1677527015,
         "airing_id": "RADS1001222300062672",
         "media_id": "a452865d62ea61ad07b7b718b518975b90b1d932",
         "id": "6Q4q9jrQTdqM-8UXLBAJmQ",
@@ -303,7 +303,7 @@
         "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1677229567,
+        "published": 1677527015,
         "tags": [
             "space ghost coast to coast sgc2c episode 52 suckup talk soup john henson bob goen"
         ],
@@ -443,8 +443,8 @@
         "original_air_date": 889849800,
         "clip_order": null,
         "auth_launch_date": 1672808400,
-        "modified": 1672630839,
-        "airing_id": "RADS1011282200046985",
+        "modified": 1677527015,
+        "airing_id": "RADS1001022300056894",
         "media_id": "b5deff72e12a7ba7bd8485cd4b32a57037c13194",
         "id": "9R-50kToSPK0QDH5dhjymw",
         "slug": "edelweiss",
@@ -457,7 +457,7 @@
         "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1672630839,
+        "published": 1677527015,
         "tags": [
             "sgc2c space ghost coast to coast episode 36 edelweiss zorak bandleader beck"
         ],
@@ -2358,6 +2358,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1666152000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417100106-sgc2c_9612_dst_cid-9105584.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1448047020,
+        "auth_expiration_date": 1689739140,
+        "tms_id": "EP001022180002",
+        "rating": 7.7670684,
+        "description": "A mysterious villain kidnaps Moltar and Space Ghost must solicit the help of Adam West, Lee Meriweather and Eartha Kitt, all from the \"Batman\"television series, in an effort to save him. And...holy exoskeleton, Space Ghost, it's Zorak as Batmantis!",
+        "title_suggest": {
+            "input": [
+                "Batmantis"
+            ]
+        },
+        "type": "episode",
+        "title": "Batmantis",
+        "expiration_date": 1660103940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 655.3003003,
+        "episode_number": "8",
+        "original_air_date": 926132400,
+        "clip_order": null,
+        "auth_launch_date": 1675832400,
+        "modified": 1677527016,
+        "airing_id": "RADS1002052300067320",
+        "media_id": "5e5084b9cdd63a041cf52ea274b09887b6352665",
+        "id": "rLMuUOGATju6Q5oQuigI7g",
+        "slug": "batmantis",
+        "views": 46529,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417948127-sgc2c_9408_dst_cid-9129902.jpg",
+        "created": 1402945476,
+        "title_id": "322740",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1677527016,
+        "tags": [
+            "space ghost coast to coast c2c batmantis episode 8"
+        ],
+        "rating_count": 249,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1657080000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948127-sgc2c_9408_dst_cid-9129902.jpg",
         "cma_id": ""
     },
     {
