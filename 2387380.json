@@ -1,56 +1,5 @@
 [
     {
-        "auth_expiration_date": 1677560340,
-        "tms_id": "EP042756160006",
-        "description": "Something strange is afoot as Lupin finds himself adrift in another place and time. An ancient clock may hold the key to returning home but getting close to it won't be easy.",
-        "title_suggest": {
-            "input": [
-                "The Imperial City Dreams of Thieves, Part 1",
-                "Imperial City Dreams of Thieves, Part 1",
-                "City Dreams of Thieves, Part 1",
-                "Dreams of Thieves, Part 1",
-                "of Thieves, Part 1",
-                "Thieves, Part 1",
-                "Part 1",
-                "1"
-            ]
-        },
-        "title": "The Imperial City Dreams of Thieves, Part 1",
-        "expiration_date": 1656232140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
-        "duration": 1288.5206,
-        "episode_number": "5",
-        "original_air_date": "1653195600",
-        "auth_launch_date": 1671512400,
-        "clip_order": null,
-        "airing_id": "RADS1012172200051792",
-        "media_id": "71e81a3ede136534e6d2ff6b48339093164aa9b0",
-        "modified": 1671256466,
-        "slug": "the-imperial-city-dreams-of-thieves-part-1",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220512/thumbnails/1_22512164175-LupinThe3rd_Part6_005_TheImperialCityDreamsOfThievesPart1.png",
-        "created": 1652388075,
-        "season_number": "1",
-        "title_id": "2387386",
-        "tv_rating": "tv-14-l",
-        "published": 1671256466,
-        "tags": [],
-        "collection_title": "Lupin the 3rd Part 6",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1655022600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220512/thumbnails/2_22512164175-LupinThe3rd_Part6_005_TheImperialCityDreamsOfThievesPart1.png",
-        "id": "AYC6ARlL208s7zyYUM2Y",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1678165140,
         "tms_id": "EP042756160007",
         "description": "More familiar faces appear as Lupin pursues the automaton clock, and soon his quest to go home turns into a far more complicated conspiracy.",
@@ -470,6 +419,57 @@
         "launch_date": 1660465800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220721/thumbnails/2_22721959541-LupinThe3rd_Part6_613_AnInvitationFromThePast.png",
         "id": "AYIdWoHS3sQvipyea9gH",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1683604740,
+        "tms_id": "EP040430990017",
+        "description": "Sometimes the ghosts from our pasts just can't stay dead. Jigen learns this all too well when Lupin's latest scheme targets a bride with a familiar face.",
+        "title_suggest": {
+            "input": [
+                "Wedding Bells Ring with the Sound of Gunfire",
+                "Bells Ring with the Sound of Gunfire",
+                "Ring with the Sound of Gunfire",
+                "with the Sound of Gunfire",
+                "the Sound of Gunfire",
+                "Sound of Gunfire",
+                "of Gunfire",
+                "Gunfire"
+            ]
+        },
+        "title": "Wedding Bells Ring with the Sound of Gunfire",
+        "expiration_date": 1662884940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1293.5255,
+        "episode_number": "15",
+        "original_air_date": "1659848400",
+        "auth_launch_date": 1677560400,
+        "clip_order": null,
+        "airing_id": "RADS1002172300071135",
+        "media_id": "4b9ad5e2ee179d36d54de76b3beb85c302d7f61c",
+        "modified": 1677146358,
+        "slug": "wedding-bells-ring-with-the-sound-of-gunfire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_2282124304-LupinThe3rd_Part6_015_WeddingBellsRingWithTheSoundOfGunfire.png",
+        "created": 1659458590,
+        "season_number": "1",
+        "title_id": "2387396",
+        "tv_rating": "tv-14-lv",
+        "published": 1677146358,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661675400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124304-LupinThe3rd_Part6_015_WeddingBellsRingWithTheSoundOfGunfire.png",
+        "id": "AYJfcJfb3sQvipyea9rv",
         "auth": true
     }
 ]
