@@ -1,7 +1,6 @@
 {
-    "updated": 1677855629,
-    "added": [],
-    "removed": [
+    "updated": 1677859228,
+    "added": [
         {
             "auth_expiration_date": 1678102140,
             "tms_id": "",
@@ -25,14 +24,14 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.4779,
+            "duration": 1311.4769,
             "episode_number": "36",
             "original_air_date": "1649574000",
             "auth_launch_date": 1667734200,
             "clip_order": null,
             "airing_id": "RADS1011052200043246",
             "media_id": "3aa3f38bfb69309e13dddd9782bf17bd5c4cdd90",
-            "modified": 1667699004,
+            "modified": 1677858483,
             "slug": "a-heart-filled-with-comrades",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220406/thumbnails/1_22461452382-NarutoShippuden_384_AHeartFilledWithComrades.png",
@@ -40,7 +39,7 @@
             "season_number": "7",
             "title_id": "2177814",
             "tv_rating": "tv-pg",
-            "published": 1667699004,
+            "published": 1677858483,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
@@ -53,5 +52,6 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
