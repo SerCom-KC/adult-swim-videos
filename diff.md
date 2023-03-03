@@ -2,150 +2,157 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 2, 2023 at 00:30:26 EST_
+_Last Update: March 3, 2023 at 00:30:32 EST_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
-638050 Frisky Dingo: 1  
-2104364 Hot Streets: 1  
+2143080 Black Clover: 1  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
 629835 King of the Hill: 1  
-867968 The Heart, She Holler: 1  
-828177 Your Pretty Face is Going to Hell: 1  
-### 2041480
-**American Dad S11E06 - Kiss Kiss, Cam Cam**  
-TV-14-DLSV 🔒 21:13  
-⌛ March 8, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/kiss-kiss-cam-cam  
-seriesid=`581006` titleid=`2041480` id=`un5GKAHcTHu0l8SJPfqaCQ` mediaid=`2d71a4b54268c799ed40ce185259be6c257b4b30`  
-_Stan gets Francine baseball tickets for her birthday but is upset when they have a horrible kiss on the kiss cam. Steve and Roger head to Nevada to help clean polluted water._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg" height="144px" /></a>
-### 2041478
-**American Dad S11E05 - Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers**  
+2165429 The Shivering Truth: 1  
+547867 Tom Goes To The Mayor: 1  
+### 2041482
+**American Dad S11E08 - Stan-Dan Deliver**  
 TV-14-DL 🔒 21:13  
-⌛ March 8, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/stan-smith-as-keanu-reeves-as-stanny-utah-in-point-breakers  
-seriesid=`581006` titleid=`2041478` id=`lhPueYEFSTGBnbn2xsc9Mg` mediaid=`19c05ab4df7f77e4458a0e6b54e8907c05994974`  
-_Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg" height="144px" /></a>
-### 2003528
-**Bob's Burgers S03E17 - Two For Tina**  
-TV-PG 🔒 21:34  
-⌛ March 8, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/two-for-tina  
-seriesid=`2003422` titleid=`2003528` id=`rbUdJW2DS4yVWdqKwLtbqg` mediaid=`4c6188e4100d24127513e5e7eb27013a0d242775`  
-_Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh, and the two boys get into an epic dance-off for her heart._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg" height="144px" /></a>
-### 707263
-**Frisky Dingo S02E11 - Cody Gains a Namesake**  
-TV-MA-V 🔓 11:29  
-⌛ April 5, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/frisky-dingo/cody-gains-a-namesake  
-seriesid=`638050` titleid=`707263` id=`1xYI9nS-RwqYyUBnBtF04w` mediaid=`a56566dfc5a1285e42f22b60fd8186c6c5428f30`  
-_Cody is remembered with a namesake._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034170589-fd_024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034170589-fd_024.jpg" height="144px" /></a>
-### 2131836
-**Hot Streets S01E05 - Nursery Rhyme Land**  
-TV-14-LV 🔓 11:09  
-⌛ April 5, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/hot-streets/nursery-rhyme-land  
-seriesid=`2104364` titleid=`2131836` id=`TuhGOA2iRc-aQjXwH2GOyw` mediaid=`d3a13f13d95c2019d58482f2d2dc456b7582ca2f`  
-_Branski, Jen, and Chubbie Webbers enter "Nursery Rhyme Land" to rescue French._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351519107-HotStreets_105_dup-20170908.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351519107-HotStreets_105_dup-20170908.jpg" height="144px" /></a>
-### 731551
-**King of the Hill S11E09 - Peggy's Gone To Pots**  
-TV-PG-LV 🔒 22:46  
-⌛ March 8, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/peggys-gone-to-pots  
-seriesid=`629835` titleid=`731551` id=`3GUoJGZPT3G2DOfbDPWIOA` mediaid=`608e62bde93b04e8a3e88828de307bbe3516496e`  
-_When Peggy and Dale realize they could be in big trouble for stupid things they've done, they decide to fake their own deaths to avoid going to jail._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152640230700311.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152640230700311.jpg" height="144px" /></a>
-### 2007201
-**The Heart, She Holler S02E03 - The Blue Lonegoon**  
-TV-MA 🔓 11:16  
-⌛ April 5, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-heart-she-holler/the-blue-lonegoon  
-seriesid=`867968` titleid=`2007201` id=`x87tdMMqRQOIwEgROLP4ww` mediaid=`60628c9dceb28960ee1ff5d6792d53b73f030085`  
-_Sometimes you just gotta get away from it all, in order to destroy the entirety of civilization._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351120412-heartsheholler_203_009_dup-20130912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351120412-heartsheholler_203_009_dup-20130912.jpg" height="144px" /></a>
-### 2062764
-**Your Pretty Face is Going to Hell S02E02 - Shoulder Work**  
-TV-MA 🔓 11:14  
-⌛ April 5, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/shoulder-work  
-seriesid=`828177` titleid=`2062764` id=`MGjJ04MnR5erwEzXgE9ahw` mediaid=`1547573698efc9392048e495e90684a61cf331eb`  
-_Gary learns the subtleties of working someone's conscience with help from an unexpected friend._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/shoulder-work/ypf_cc_202_pt2_1.jpg" height="144px" /></a>
+⌛ March 9, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/stan-dan-deliver  
+seriesid=`581006` titleid=`2041482` id=`IYkYK4IVTA21Vz0sQ_JUlg` mediaid=`8be0dff7343085f0046a2496452ed5fb7124101f`  
+_Roger becomes a teacher at Steve's school and gets involved with a class of underprivileged kids. Meanwhile, Stan and Francine visit a retirement home and Stan decides to stay._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg" height="144px" /></a>
+### 2041481
+**American Dad S11E07 - The Devil Wears a Lapel Pin**  
+TV-14-DLSV 🔒 21:13  
+⌛ March 9, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-devil-wears-a-lapel-pin  
+seriesid=`581006` titleid=`2041481` id=`rR4-zIOsQj-NMJYR98be7Q` mediaid=`78c7ca28da36ab4bf33664b2de431b174238ab8e`  
+_When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg" height="144px" /></a>
+### 2230142
+**Black Clover S03E26 - To the Heart Kingdom!**  
+TV-PG 🔒 22:34  
+⌛ June 11, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-clover/to-the-heart-kingdom  
+seriesid=`2143080` titleid=`2230142` id=`AXO7ZNItC8QgH-t19KPk` mediaid=`538eebc92c58a077c0592e4ebb879da62024e452`  
+_An expedition to the Heart Kingdom uncovers a beautiful, mana-rich land that is a little less than welcoming. Finral resolves to turn over a new leaf._  
+<a href="https://media.cdn.adultswim.com/uploads/20200806/thumbnails/2_20861626259-BlackClover_128.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200806/thumbnails/2_20861626259-BlackClover_128.jpg" height="144px" /></a>
+### 2003530
+**Bob's Burgers S03E19 - Family Fracas**  
+TV-PG 🔒 21:30  
+⌛ March 9, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/family-fracas  
+seriesid=`2003422` titleid=`2003530` id=`x_pBEtntRmy63BcgzbNs6w` mediaid=`57c069252810931127d487bc3ed4f4c412abdeac`  
+_After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show "Family Fracas!" To the dismay of the program's host, they keep winning and coming back each night - that is, until their lucky streak comes to a suspicious end._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085661885510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085661885510.jpg" height="144px" /></a>
+### 2003529
+**Bob's Burgers S03E18 - It Snakes a Village**  
+TV-14 🔒 21:14  
+⌛ March 9, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/it-snakes-a-village  
+seriesid=`2003422` titleid=`2003529` id=`RAIMaX4CRgGkSy935k68lg` mediaid=`426eaac1c31f4f726b3f8947b2529e1ade0bd027`  
+_The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108565676568.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108565676568.jpg" height="144px" /></a>
+### 2161630
+**Futurama S07E11 - Lrrreconcilable Ndndifferences**  
+TV-14-DLV 🔒 22:42  
+⌛ March 9, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/lrrreconcilable-ndndifferences  
+seriesid=`437532` titleid=`2161630` id=`AX_cbL0n_0O4w1rD3R6j` mediaid=`235e55e08c6834c27e3e2ec8deb70cf0af13f820`  
+_After a bungled Earth invasion, alien leader Lrrr faces a midlife crisis._  
+<a href="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311317260-Futurama_711_LrrreconsilableNdndifferences.png"><img src="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311317260-Futurama_711_LrrreconsilableNdndifferences.png" height="144px" /></a>
+### 731552
+**King of the Hill S11E10 - Hair Today, Gone Today**  
+TV-PG-DV 🔒 22:47  
+⌛ March 9, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/hair-today-gone-today  
+seriesid=`629835` titleid=`731552` id=`GjLec2AASk29s861iaTn-A` mediaid=`0f2098186592ff221a2122c455c8472cf8472c91`  
+_When Nancy dumps John Redcorn her hair begins to fall out._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_8646510155114200021.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_8646510155114200021.jpg" height="144px" /></a>
+### 2222975
+**The Shivering Truth S02E01 - The Burn Earner Spits**  
+TV-MA-SV 🔓 11:15  
+⌛ April 6, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-shivering-truth/the-burn-earner-spits  
+seriesid=`2165429` titleid=`2222975` id=`AXHCd56rC8QgH-t19Ig-` mediaid=`9027ef60915070ddaf91651b3ecb146d2098ad02`  
+_Using an emotiomoral X-ray device we provide a detailed history of these United States, starting from May of 1951 all the way up until tomorrow at 3:30._  
+<a href="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561048511-TheShiveringTruth_201_dup-20200207.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561048511-TheShiveringTruth_201_dup-20200207.jpg" height="144px" /></a>
+### 581466
+**Tom Goes To The Mayor S01E01 - Bear Trap Brothers**  
+TV-PG-V 🔓 11:41  
+⌛ April 6, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/bear-trap-brothers  
+seriesid=`547867` titleid=`581466` id=`MrLKv1RYQhW0zTploTp5Gw` mediaid=`250c115ff68a2eec7825e5f144e89263b9e949a7`  
+_With the help of the Bear Trap Brothers, Tom and The Mayor teach Jefferton about the significance of bear traps in child safety.  Jack Black and Kyle Gass appear as the Bear Trap Brothers, two rival storekeepers who must help convince the City Council the plan is a good one._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834325-tgttm_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834325-tgttm_001.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2104364 Hot Streets: 1  
+2003422 Bob's Burgers: 2  
+2165429 The Shivering Truth: 1  
+437532 Futurama: 1  
+547867 Tom Goes To The Mayor: 1  
 581006 American Dad: 2  
 629835 King of the Hill: 1  
-638050 Frisky Dingo: 1  
-828177 Your Pretty Face is Going to Hell: 1  
-867968 The Heart, She Holler: 1  
-### 2003518
-**Bob's Burgers S03E07 - Tina-Rannosaurus Wrecks**  
-TV-PG 🔒 21:30  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/tina-rannosaurus-wrecks  
-seriesid=`2003422` titleid=`2003518` id=`eqaaJMi1TQeFHArOnKLL0Q` mediaid=`3079ea58f034b7addb4bbda30a331721332b2e6b`  
-_After Tina accidentally wrecks the car, and gets the whole family involved with a slimy insurance agent, she worries that she's a "jinx."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg" height="144px" /></a>
-### 2184501
-**Hot Streets S02E05 - Tip to the Lip**  
-TV-14-DLSV 🔒 11:11  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/hot-streets/tip-to-the-lip  
-seriesid=`2104364` titleid=`2184501` id=`AWd2LootAsbXwNj3wAW8` mediaid=`883cbe9c15f1fbefe41882b59ca55a2e2e382f04`  
-_The team becomes digitized to enter an alien missile headed toward Mars._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351529553-hotstreets_206_dup-20181214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351529553-hotstreets_206_dup-20181214.jpg" height="144px" /></a>
-### 2019418
-**American Dad S10E08 - My Affair Lady**  
-TV-14-DLSV 🔒 21:02  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/my-affair-lady  
-seriesid=`581006` titleid=`2019418` id=`POrgCXifS1egOAx2k_iKpQ` mediaid=`654f3bde8695ff02c0de0fcc77a976c962d24ed5`  
-_Hayley gets a job and starts to fall for a co-worker. Meanwhile, Stan chauffers Steve and Francine to a Mother-Son dance. Hayley is broke and gets an office job where she meets a cute co-worker named Ax. Klaus and Roger encourage her to have sex with Ax on an office retreat. Hayley is all for it until she finds out Ax is a married man. Hayley backs out when she sees he has a tattoo of Roger. Back at home, Stan steals Francine from Steve at the school dance and tries to make it up to him by letting them dance at home._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202872927494.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202872927494.jpg" height="144px" /></a>
-### 2019422
-**American Dad S10E07 - Morning Mimosa**  
-TV-14 🔒 21:02  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/morning-mimosa  
-seriesid=`581006` titleid=`2019422` id=`e3fwDpONRtKjWqvJf0cx1A` mediaid=`382abd15352a823a6e9f8baba75184a961498802`  
-_When Steve insults Francine, she refuses to cook for him and he becomes a successful internet chef, appearing on a popular morning show. Meanwhile, Stan thinks he can make people invisible by snapping his fingers._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028735803714.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028735803714.jpg" height="144px" /></a>
-### 731546
-**King of the Hill S11E04 - Luanne Gets Lucky**  
-TV-14-L 🔒 22:44  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/luanne-gets-lucky  
-seriesid=`629835` titleid=`731546` id=`p0UOr13RQUSj2XvFKAwRKQ` mediaid=`e36120f40e25bcea8ee7b684b257b9e3cdeb96ca`  
-_When Lucky becomes obsessed with a certain rare stump, he neglects Luanne._  
-<a href="https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121514115-KingOfTheHill_1104_LuanneGetsLucky.png"><img src="https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121514115-KingOfTheHill_1104_LuanneGetsLucky.png" height="144px" /></a>
-### 677648
-**Frisky Dingo S02E01 - Behold a Dark Horse**  
-TV-MA 🔒 10:54  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/frisky-dingo/behold-a-dark-horse  
-seriesid=`638050` titleid=`677648` id=`rqF5mgwaSvqGueuxzbridQ` mediaid=`99257cbd5e84b4882dab0bf567d54b293bc2f197`  
-_Killface makes an important career decision._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165722-fd_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034165722-fd_014.jpg" height="144px" /></a>
-### 2191445
-**Your Pretty Face is Going to Hell S04E10 - Five-Card Duds**  
- 🔒 11:14  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/five-card-duds  
-seriesid=`828177` titleid=`2191445` id=`AWp5hFfgHl5gR6828zZU` mediaid=`45520e2ee6fbffd2d3daf420ebc7421a6b25f3f4`  
-_When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg" height="144px" /></a>
-### 2041659
-**The Heart, She Holler S03E07 - Congroined Hearts**  
-TV-MA 🔒 11:15  
-⌛ March 1, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-heart-she-holler/congroined-hearts  
-seriesid=`867968` titleid=`2041659` id=`_Ng0StwHRB2j-hEAmHNg1Q` mediaid=`c9c36bcc8af77acb197a6f041db0867c06adf84c`  
-_While it is busy having fun, victory is eaten by time flies._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351128166-heartsheholler_307_027_dup-20141030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351128166-heartsheholler_307_027_dup-20141030.jpg" height="144px" /></a>
+### 2003519
+**Bob's Burgers S03E08 - The Unbearable Like-Likeness of Gene**  
+TV-PG 🔓 21:31  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-unbearable-like-likeness-of-gene  
+seriesid=`2003422` titleid=`2003519` id=`ZkIXH6VwR3umi9XPGhgn7g` mediaid=`996f8d48b46c26d07fae521d98d0888f969df85f`  
+_After Gene gets suckered into dating Courtney, his first girlfriend ever, the entire family wants him to break up with her when they decide she's totally annoying. But when Gene finally musters up the courage to end things, he falters after discovering that Courtney's father writes jingles and could possibly launch his music career._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276715684815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276715684815.jpg" height="144px" /></a>
+### 2003520
+**Bob's Burgers S03E09 - Bob Rest Ye Merry Gentle-Mannequins**  
+TV-14 🔓 21:34  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/bob-rest-ye-merry-gentle-mannequins  
+seriesid=`2003422` titleid=`2003520` id=`rb0V_DCfQ56EGAfl6B9Fkg` mediaid=`dff26d7752896c519bd34b3435d7c2deb8fdd4b9`  
+_Bob inherits a storage unit, and the whole family imagines it's filled with treasures. Instead, they find a man named Chet living inside. Linda, feeling the holiday spirit, persuades Bob to invite Chet to stay at the restaurant. It's discovered that this stranger, who claims he was once a mannequin, has a gift for intricate and living window displays. With the restaurant decked out in holiday cheer, the Christmas spirit is in the air._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg" height="144px" /></a>
+### 2222978
+**The Shivering Truth S02E04 - Beast of Both Worlds**  
+TV-MA-SV 🔒 11:15  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-shivering-truth/beast-of-both-worlds  
+seriesid=`2165429` titleid=`2222978` id=`AXHqdrM5Rs3h4hI_X3ZV` mediaid=`ca654e61fffa16d196f2cbacf719599571dd7c7f`  
+_Is man punishing herself for some perceived guilt?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049366-TheShiveringTruth_204_dup-20200220.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_20561049366-TheShiveringTruth_204_dup-20200220.jpg" height="144px" /></a>
+### 2161625
+**Futurama S07E06 - Lethal Inspection**  
+TV-14-LV 🔒 22:42  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/lethal-inspection  
+seriesid=`437532` titleid=`2161625` id=`AX91FeOz208s7zyYUMR1` mediaid=`604657ab472012a1be7a714066a7d5dcf854e729`  
+_Bender learns that he suffers from a mortal manufacturing defect._  
+<a href="https://media.cdn.adultswim.com/uploads/20220310/thumbnails/2_22310132798-Futurama_706_LethalInspection.png"><img src="https://media.cdn.adultswim.com/uploads/20220310/thumbnails/2_22310132798-Futurama_706_LethalInspection.png" height="144px" /></a>
+### 635907
+**Tom Goes To The Mayor S02E09 - Saxman**  
+TV-14 🔓 11:14  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/saxman  
+seriesid=`547867` titleid=`635907` id=`ZiwyDpkpTeKv8OPjhbc-GQ` mediaid=`f2c691e024c5817ed6dd036bd60da82315859433`  
+_The Mayor hires a smooth jazz saxman, managed by Tom, to perform at the Grand Opening of a Waterbed Galleria._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg" height="144px" /></a>
+### 2019425
+**American Dad S10E10 - Manhattan Magical Murder Mystery Tour**  
+TV-14 🔒 21:01  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/manhattan-magical-murder-mystery-tour  
+seriesid=`581006` titleid=`2019425` id=`3w97uOnnSfyITr-a1fdbGA` mediaid=`3d31ab57065e7105c29cd02c0ee80906ac62f624`  
+_Francine is up for an award for her lonely housewife novel, so the family heads to New York for the ceremony. Meanwhile, Stan and Hayley hang out with actor Robert Wuhl, and Steve and Roger recreate their Wheels and the Legman personas._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001899518215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001899518215.jpg" height="144px" /></a>
+### 2019424
+**American Dad S10E09 - A Star Is Reborn**  
+TV-14-DLSV 🔒 21:04  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/a-star-is-reborn  
+seriesid=`581006` titleid=`2019424` id=`XNC8NPgfSOmtdxmD-9o-eQ` mediaid=`5900c53eebb60298f141100237541519b405b54a`  
+_While on vacation in Los Angeles, Stan joins the world of old Hollywood._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036510818619.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036510818619.jpg" height="144px" /></a>
+### 731547
+**King of the Hill S11E05 - Hank Gets Dusted**  
+TV-PG-DL 🔒 22:46  
+⌛ March 2, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/hank-gets-dusted  
+seriesid=`629835` titleid=`731547` id=`5t1AkmIHSRecALgIt8zfzw` mediaid=`24c1fd6a28ee74f72053e914faa3e19227133596`  
+_When Hank's gift is given to his cousin Dusty, his disappointment is caught on camera in a reality-TV show._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152640350355612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152640350355612.jpg" height="144px" /></a>
