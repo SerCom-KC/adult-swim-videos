@@ -1,62 +1,56 @@
 {
-    "updated": 1677888038,
-    "added": [
+    "updated": 1677904224,
+    "added": [],
+    "removed": [
         {
-            "auth": true,
-            "ott_launch_date": 1450888800,
-            "auth_expiration_date": 1678251540,
-            "tms_id": "EP001022180090",
-            "rating": 7.127118,
-            "description": "Girl hair. Hanson has it and Space Ghost is obsessed with combing it. This episode reveals Space Ghost's dark side as well as Zorak's desire to procure teeth so that he can get into clubs. Appearances by the Tooth Fairy and Santa bring about one of the weirdest scenes yet staged on the show.",
+            "auth_expiration_date": 1677902340,
+            "tms_id": "",
+            "description": "Spear and Fang are confronted by a far more developed human than they've ever encountered before.",
             "title_suggest": {
                 "input": [
-                    "Girl Hair",
-                    "Hair"
+                    "Slave of the Scorpion",
+                    "of the Scorpion",
+                    "the Scorpion",
+                    "Scorpion"
                 ]
             },
+            "title": "Slave of the Scorpion",
+            "expiration_date": 1680926340,
             "type": "episode",
-            "title": "Girl Hair",
-            "expiration_date": 1681271940,
             "platforms": [
-                "web",
-                "mobile",
-                "ott"
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-            "duration": 703.9342676,
-            "episode_number": "3",
-            "original_air_date": 940647600,
+            "collection_id": "AWzZcF8hCorLtcgfluAN",
+            "duration": 1380.1454,
+            "episode_number": "10",
+            "original_air_date": "1604291400",
+            "auth_launch_date": 1665892800,
             "clip_order": null,
-            "auth_launch_date": 1675832400,
-            "modified": 1677887677,
-            "airing_id": "RADS1003032300074582",
-            "media_id": "d519f119aa2ce1753e38e20656b336f296e7c92d",
-            "id": "Nqw6vI_HQy6viMdOl_6pMQ",
-            "slug": "girl-hair",
-            "views": 33686,
+            "airing_id": "RADS1002272300073059",
+            "media_id": "188638e806cc77c29fa291737ecd4f6df34ff67d",
+            "modified": 1677611503,
+            "slug": "slave-of-the-scorpion",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201151469-sgc2c_9903_dst_cid-9153809.jpg",
-            "created": 1402945476,
-            "title_id": "332369",
-            "season_number": "6",
-            "tv_rating": "tv-pg",
-            "active": false,
-            "ott_expiration_date": null,
-            "published": 1677887677,
-            "tags": [
-                "Space Ghost Episode 71 Girl Hair"
-            ],
-            "rating_count": 236,
-            "collection_title": "Space Ghost Coast to Coast",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201028/thumbnails/1_201028152241-primal_010_air_cid-JGW2X.jpg",
+            "created": 1601993887,
+            "season_number": "1",
+            "title_id": "2211167",
+            "tv_rating": "tv-14-v",
+            "published": 1677611503,
+            "tags": [],
+            "collection_title": "Primal",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1678251600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201151469-sgc2c_9903_dst_cid-9153809.jpg",
-            "cma_id": "",
-            "collection_slug": "space-ghost-coast-to-coast",
-            "collection_title_id": "322328",
+            "launch_date": 1677906000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20201028/thumbnails/2_201028152241-primal_010_air_cid-JGW2X.jpg",
+            "id": "AXT-Rs72LyLQBOXK_PPN",
+            "auth": true,
+            "collection_slug": "primal",
+            "collection_title_id": "2211157",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
