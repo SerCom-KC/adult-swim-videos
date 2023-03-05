@@ -2,130 +2,60 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 4, 2023 at 00:30:26 EST_
+_Last Update: March 5, 2023 at 00:00:30 EST_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2143080 Black Clover: 1  
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-2211157 Primal: 1  
-### 2041484
-**American Dad S11E09 - Anchorfran**  
-TV-14-DLV 🔒 21:13  
-⌛ March 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/anchorfran  
-seriesid=`581006` titleid=`2041484` id=`GxRKsyxrS4ChVDtp_vuY2Q` mediaid=`cadedd806c91b9e4044ed0857981d46e085abb37`  
-_Francine sets out to help news anchor Greg when he and Terry split up. Roger becomes obsessed with a fictional boy from an old game called Dream Phone._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205325857.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205325857.jpg" height="144px" /></a>
-### 2041483
-**American Dad S11E10 - The Two Hundred**  
-TV-14-V 🔒 21:13  
-⌛ March 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-two-hundred  
-seriesid=`581006` titleid=`2041483` id=`UeMFAjOcSiOztLcF2tdY1Q` mediaid=`2e7e197cf1c1558651168e8c298344dda437a44c`  
-_Stan, tattooed and haunted, travels a barren Langley Falls alone. Meanwhile, a mysterious element known as The Two Hundred has reigned terror on the town and separated Stan from his family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001912567219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001912567219.jpg" height="144px" /></a>
-### 2216647
-**Black Clover S03E09 - The Eyes in the Mirror**  
-TV-PG 🔒 21:10  
-⌛ June 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/black-clover/the-eyes-in-the-mirror  
-seriesid=`2143080` titleid=`2216647` id=`AXEMwNthRs3h4hI_X2kt` mediaid=`7b15628fdb656782cc89148d7a73f21c43683ee9`  
-_Vanessa leads a group of Black Bulls trapped in a deadly dream world while Sally runs some quick experiments. Henry is determined to save his friends._  
-<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324934514-BlackClover_111.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324934514-BlackClover_111.jpg" height="144px" /></a>
-### 2003532
-**Bob's Burgers S03E21 - Boyz 4 Now**  
-TV-14 🔒 21:14  
-⌛ March 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/boyz-4-now  
-seriesid=`2003422` titleid=`2003532` id=`gtRZo4IdTRmH_yZVYJEfPw` mediaid=`14eb907f07e59045536435cb58e0cefe511bf4cc`  
-_While accompanying Tina to a "Boyz 4 Now" concert, Louise develops a crush on one of the lead singers, Boo Boo - and is in disbelief that she actually likes a boy! Meanwhile, Gene gets creative - and slightly offensive - in a table-setting competition._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566624153.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566624153.jpg" height="144px" /></a>
-### 2003531
-**Bob's Burgers S03E20 - The Kids Run the Restaurant**  
-TV-14 🔒 21:29  
-⌛ March 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-run-the-restaurant  
-seriesid=`2003422` titleid=`2003531` id=`xXhbXgStQBmYQ3FeQ7Sm4Q` mediaid=`dbf53cae00ad8e515fcd15b5d88cdd663abb2cc8`  
-_After Bob cuts his finger and faints at the sight of his own blood, Linda brings him to the hospital and leaves the kids home alone. Not ones to waste a golden opportunity, Tina, Gene and Louise transform the basement of the restaurant into a makeshift casino. But they get more than they gamble for when landlord Mr. Fischoeder stops by and catches them in action._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566392962.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566392962.jpg" height="144px" /></a>
-### 2161631
-**Futurama S07E12 - The Mutants Are Revolting**  
-TV-14-D 🔒 22:45  
-⌛ March 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/the-mutants-are-revolting  
-seriesid=`437532` titleid=`2161631` id=`AX_cbPGw_0O4w1rD3R6k` mediaid=`82b9807de883a21bb16eeee0e33b2db6ed65f406`  
-_Leela leads an army of underground mutants in a rebellion against the surface people._  
-<a href="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311318278-Futurama_712_TheMutantsAreRevolting.png"><img src="https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311318278-Futurama_712_TheMutantsAreRevolting.png" height="144px" /></a>
-### 731553
-**King of the Hill S11E11 - Bill, Bulk and the Body Buddies**  
-TV-PG-DL 🔒 22:47  
-⌛ March 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/bill-bulk-and-the-body-buddies  
-seriesid=`629835` titleid=`731553` id=`zLIZvhaLRj-2vXU47_17qA` mediaid=`ecf0ba30bb9171bf3d37f75087bf1682b87ff247`  
-_When Bill decides to get in shape he gets a trainer and a bad attitude, forcing Hank and the guys to come to the rescue, saving Bill from his trainer._  
-<a href="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271245543-KingOfTheHill_1111_BillBulkAndTheBodyBuddies.png"><img src="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271245543-KingOfTheHill_1111_BillBulkAndTheBodyBuddies.png" height="144px" /></a>
-### 2211167
-**Primal S01E10 - Slave of the Scorpion**  
-TV-14-V 🔓 23:00  
-⌛ April 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/primal/slave-of-the-scorpion  
-seriesid=`2211157` titleid=`2211167` id=`AXT-Rs72LyLQBOXK_PPN` mediaid=`188638e806cc77c29fa291737ecd4f6df34ff67d`  
-_Spear and Fang are confronted by a far more developed human than they've ever encountered before._  
-<a href="https://media.cdn.adultswim.com/uploads/20201028/thumbnails/2_201028152241-primal_010_air_cid-JGW2X.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201028/thumbnails/2_201028152241-primal_010_air_cid-JGW2X.jpg" height="144px" /></a>
+2194549 Gemusetto: 1  
+### 2041485
+**American Dad S11E12 - The Dentist's Wife**  
+TV-14-DLSV 🔒 21:13  
+⌛ March 11, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-dentists-wife  
+seriesid=`581006` titleid=`2041485` id=`7dJmcExrRtCnDk5rixt9Xw` mediaid=`e0531106df1c5ed5955c3555f0a19df176fdf6fa`  
+_Roger loses his identity after becoming fascinated by a local dentist's wife. Meanwhile, Klaus throws a party when Stan and the kids are unable to move from being sore after working out._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg" height="144px" /></a>
+### 2041479
+**American Dad S11E11 - The Unincludeds**  
+TV-14-DLS 🔒 21:13  
+⌛ March 11, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-unincludeds  
+seriesid=`581006` titleid=`2041479` id=`T0dzRensQzKclD28oo8UUw` mediaid=`e2a47c1c98de515dbe4b0543ad43bbec6202818e`  
+_Steve and Snot alter their futures when they throw a party for the uncool kids. Meanwhile, Roger is disgruntled when a waitress doesn't compliment his order and Stan and Francine go on vacation in Bosnia._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205081794.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205081794.jpg" height="144px" /></a>
+### 2241837
+**Gemusetto S02E12 - Episode Twelve: Ab7#11**  
+TV-MA-LS 🔓 11:07  
+⌛ April 8, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-twelve-ab-7-11  
+seriesid=`2194549` titleid=`2241837` id=`AXZmni7MbxpjZvbXYloc` mediaid=`c4297aae8ae725d78e4e6011766926846c6ebea6`  
+_Bendy Rivers becomes cosmically self-destructive as he hurdles through hells and his family mourns their loss. But how will he cope with realizing his enemy is actually trying to save the universe?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836487-GSMP_212_dup-20201209.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836487-GSMP_212_dup-20201209.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
+2194549 Gemusetto: 1  
 581006 American Dad: 2  
-629835 King of the Hill: 1  
-### 2003522
-**Bob's Burgers S03E11 - Nude Beach**  
-TV-14 🔒 21:33  
-⌛ March 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/nude-beach  
-seriesid=`2003422` titleid=`2003522` id=`-iEHRbHnQaKmCbMl2ZZQeQ` mediaid=`4d479a4000b4c5f006811ad5bb56110aedb5ec29`  
-_Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg" height="144px" /></a>
-### 2003521
-**Bob's Burgers S03E10 - Mother Daughter Laser Razor**  
-TV-PG 🔒 21:30  
-⌛ March 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/mother-daughter-laser-razor  
-seriesid=`2003422` titleid=`2003521` id=`RNMHcG_NQnaimkMIInNOHA` mediaid=`ec0c202d5a8f2ae074e11c7fb693c3ecec6e033a`  
-_Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg" height="144px" /></a>
-### 2161626
-**Futurama S07E07 - The Late Philip J. Fry**  
-TV-14-DLV 🔒 22:47  
-⌛ March 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/the-late-philip-j-fry  
-seriesid=`437532` titleid=`2161626` id=`AX-ZHPge_0O4w1rD3R2F` mediaid=`359ede40cd7aa1d3cbfcdfa8b66ace093502b63d`  
-_The Professor invents a one-way time machine that takes the crew ever further into the future with no hope of returning._  
-<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421184-Futurama_707_TheLatePhillipJFry.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421184-Futurama_707_TheLatePhillipJFry.png" height="144px" /></a>
-### 2019427
-**American Dad S10E12 - The Shrink**  
-TV-14-DLV 🔒 21:02  
-⌛ March 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-shrink  
-seriesid=`581006` titleid=`2019427` id=`5Lhs6bejROaowLi1mVZwDg` mediaid=`f9f825ff0b7e4be1ea8dc94ac936548713342d3b`  
-_Stan is horrified when he sees a couple die in a car crash, and he goes to see a shrink. Meanwhile, Roger and Klaus study for a wine tasting._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036534750013.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036534750013.jpg" height="144px" /></a>
-### 2019428
-**American Dad S10E13 - Holy S***, Jeff's Back!**  
-TV-14 🔒 21:01  
-⌛ March 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/holy-s-jeffs-back  
-seriesid=`581006` titleid=`2019428` id=`Nwyom9wYR4Cz61ncf5Pzzg` mediaid=`26bc0fdcbd897019abb19c71894cd85eedc5eacc`  
-_Jeff returns from space...Or does he? Meanwhile, Steve watches after Snot's hamster._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036536643517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036536643517.jpg" height="144px" /></a>
-### 731548
-**King of the Hill S11E06 - Glen Peggy Glen Ross**  
-TV-PG-DL 🔒 22:46  
-⌛ March 3, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/glen-peggy-glen-ross  
-seriesid=`629835` titleid=`731548` id=`bGO9cot9TLuV-qwtk_hOkw` mediaid=`57b4a0aa43f4695ee26fda25d08883209aa23b09`  
-_When Peggy does a story bashing a high-powered realtor she gets fired but impresses the realtor, who hires her because he likes her style._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15266633361118.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15266633361118.jpg" height="144px" /></a>
+### 2241827
+**Gemusetto S02E02 - Episode Two: A# Minor**  
+TV-14-DLSV 🔒 11:15  
+⌛ March 4, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/gemusetto/episode-two-a-minor  
+seriesid=`2194549` titleid=`2241827` id=`AXWVgV50LyLQBOXK_PZu` mediaid=`5e63a2388210d98ee3d18523decb1a77f692a8d6`  
+_The jazz battle between Makasu and the Egyptian goddess Maat is deadlocked until the River Styx shoves Charon down her throat. Will the afterlife convergence cause two different religions to merge their Musical Battle Robots?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg" height="144px" /></a>
+### 2019430
+**American Dad S10E15 - Seizures Suit Stanny**  
+TV-14 🔒 20:57  
+⌛ March 4, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/seizures-suit-stanny  
+seriesid=`581006` titleid=`2019430` id=`JG2h5XE-Sc-97MLP6lOnuQ` mediaid=`7e2d7f72cd808f507a148c6925d03b66d4f476ad`  
+_When Stan lies about his texting and driving accident, he takes a seizure medication and suffers from the side effects. Meanwhile, Roger helps Steve with his performance anxiety._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg" height="144px" /></a>
+### 2019429
+**American Dad S10E14 - American Fung**  
+TV-14 🔒 21:02  
+⌛ March 4, 2023 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/american-fung  
+seriesid=`581006` titleid=`2019429` id=`YQYQ_TX8SQ-kR46SyT5g7g` mediaid=`6bea1f6d7715e808a5ac9a3f15153237a16dd912`  
+_American Dad is sold to a Chinese businessman. Meanwhile, Stan has Francine committed to an insane asylum when he forgets their anniversary._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654389833.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654389833.jpg" height="144px" /></a>
