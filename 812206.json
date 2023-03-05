@@ -1499,11 +1499,7 @@
     },
     {
         "auth_expiration_date": 1705899540,
-        "created": 1677532914,
         "tms_id": "EP034917240432",
-        "title_id": "2177859",
-        "season_number": "8",
-        "tv_rating": "tv-pg",
         "description": "Killer Bee gets caught in the Infinite Tsukuyomi and begins dreaming.",
         "title_suggest": {
             "input": [
@@ -1514,21 +1510,38 @@
                 "1"
             ]
         },
-        "published": 1677616001,
         "title": "Killer Bee Rappuden: Part 1",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
         "duration": 1309.6416,
         "episode_number": "13",
-        "collection_title": "Naruto: Shippuden",
         "original_air_date": 1677999600,
         "auth_launch_date": 1678012200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1002272300073442",
         "media_id": "efa814dabdbb6a7aa62a6ce01cb5bec69cf59e03",
-        "modified": 1677616001,
+        "modified": 1678034796,
         "slug": "killer-bee-rappuden-part-1",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230305/thumbnails/1_23351145509-NarutoShippuden429Still001.png",
+        "created": 1677532914,
+        "title_id": "2177859",
+        "season_number": "8",
+        "tv_rating": "tv-pg",
+        "published": 1678034796,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230305/thumbnails/2_23351145509-NarutoShippuden429Still001.png",
         "id": "AYaUwOHu4k01GlbfzrYm",
         "auth": true
     }
