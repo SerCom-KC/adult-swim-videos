@@ -1,7 +1,6 @@
 {
-    "updated": 1678048456,
-    "added": [],
-    "removed": [
+    "updated": 1678055657,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1517239860,
@@ -29,7 +28,7 @@
             "original_air_date": 1517202900,
             "clip_order": null,
             "auth_launch_date": 1669266000,
-            "modified": 1669049598,
+            "modified": 1678055573,
             "media_id": "352c85ba6857ea3c36a4fedb9489a0e80fdf55ff",
             "airing_id": "RADS1003081900072752",
             "id": "pX9b8Ar7TjaSrU6oJM7REQ",
@@ -43,7 +42,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1669049598,
+            "published": 1678055573,
             "tags": [],
             "collection_title": "Hot Streets",
             "disable_ads": false,
@@ -54,6 +53,61 @@
             "collection_slug": "hot-streets",
             "collection_title_id": "2104364",
             "online_exclusives": false
+        },
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1678337940,
+            "tms_id": "",
+            "description": "In which Joe and you attempt to write something meaningful.",
+            "title_suggest": {
+                "input": [
+                    "Joe Pera Helps You Write",
+                    "Pera Helps You Write",
+                    "Helps You Write",
+                    "You Write",
+                    "Write"
+                ]
+            },
+            "title": "Joe Pera Helps You Write",
+            "expiration_date": 1681358340,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AWK7V5RwTdxzjxdClXz8",
+            "duration": 737.13,
+            "episode_number": "10",
+            "original_air_date": 1579324500,
+            "auth_launch_date": 1673326800,
+            "clip_order": null,
+            "media_id": "6d770d2501f17778440043d4dcae44b27da9f260",
+            "modified": 1678055583,
+            "airing_id": "RADS1003052300074684",
+            "slug": "joe-pera-helps-you-write",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/1_1912171327296-joeperatalks_210_dup-20191120.jpg",
+            "created": 1576607272,
+            "season_number": "2",
+            "title_id": "2214315",
+            "tv_rating": "tv-pg",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1678055583,
+            "tags": [],
+            "collection_title": "Joe Pera Talks With You",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1678338000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_1912171327296-joeperatalks_210_dup-20191120.jpg",
+            "id": "AW8VHcyr3HMJfT8do6gM",
+            "auth": true,
+            "collection_slug": "joe-pera-talks-with-you",
+            "collection_title_id": "2161118",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
