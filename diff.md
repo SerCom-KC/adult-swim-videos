@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 6, 2023 at 07:00:27 EST_
+_Last Update: March 6, 2023 at 11:00:25 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177814
-**Naruto: Shippuden S07E36 - A Heart Filled With Comrades**  
-TV-PG 🔒 21:51  
-⌛ March 6, 2023 at 06:29:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/a-heart-filled-with-comrades  
-seriesid=`812206` titleid=`2177814` id=`AYAAOOL0208s7zyYUMhc` mediaid=`3aa3f38bfb69309e13dddd9782bf17bd5c4cdd90`  
-_Working in sync, Naruto and Sasuke prepare to attack in the same way Madara once did, cloaking Kurama in Susano'o's robes._  
-<a href="https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_22461452382-NarutoShippuden_384_AHeartFilledWithComrades.png"><img src="https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_22461452382-NarutoShippuden_384_AHeartFilledWithComrades.png" height="144px" /></a>
+581268 Squidbillies: 1  
+### 706483
+**Squidbillies S03E06 - Earth Worst**  
+TV-14-DLSV 🔒 10:56  
+⌛ March 17, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/earth-worst  
+seriesid=`581268` titleid=`706483` id=`fl6qfje7TSmMzQjx2TdvCw` mediaid=`70c47df58e5186a0492ab5d0499723ac13c04e5c`  
+_The squids fail to learn a valuable lesson about conservation._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113264-squidbillies_026_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113264-squidbillies_026_bim.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
