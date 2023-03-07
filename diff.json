@@ -1,22 +1,19 @@
 {
-    "updated": 1678187658,
-    "added": [],
-    "removed": [
+    "updated": 1678187956,
+    "added": [
         {
-            "auth_expiration_date": 1678615140,
-            "tms_id": "EP034917240395",
-            "description": "Ino, Sakura and Choji trudge across the desert without any provisions. Ino and Sakura start arguing when a giant scorpion attacks.",
+            "auth_expiration_date": 1678766340,
+            "tms_id": "EP036780850027",
+            "description": "Sesshomaru hands the broken Tenseiga to a grieving Towa, leaving Setsuna's fate in her hands. Will Towa be able to bring Setsuna back to life?",
             "title_suggest": {
                 "input": [
-                    "The Place Where I Belong",
-                    "Place Where I Belong",
-                    "Where I Belong",
-                    "I Belong",
-                    "Belong"
+                    "Wielding the Tenseiga",
+                    "the Tenseiga",
+                    "Tenseiga"
                 ]
             },
-            "title": "The Place Where I Belong",
-            "expiration_date": null,
+            "title": "Wielding the Tenseiga",
+            "expiration_date": 1679803140,
             "type": "episode",
             "platforms": [
                 "android",
@@ -24,34 +21,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.1442,
-            "episode_number": "58",
-            "original_air_date": "1660458600",
-            "auth_launch_date": 1669590000,
+            "collection_id": "AXpED60VBH5Z6gH5aWXi",
+            "duration": 1395.7277,
+            "episode_number": "1",
+            "original_air_date": "1659241800",
+            "auth_launch_date": 1677387600,
             "clip_order": null,
-            "airing_id": "RADS1011272200046443",
-            "media_id": "663b94b84e967ada9bd32f8e566dee5d75520873",
-            "modified": 1678185361,
-            "slug": "the-place-where-i-belong",
+            "airing_id": "RADS1002172300070913",
+            "media_id": "85efddb243961b6fb018b583895cc027ae0b1f11",
+            "modified": 1678187810,
+            "slug": "wielding-the-tenseiga",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_2289134981-NarutoShippuden_406_ThePlaceWhereIBelong.png",
-            "created": 1660067358,
-            "season_number": "7",
-            "title_id": "2177836",
-            "tv_rating": "tv-pg",
-            "published": 1678185361,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/1_22726140330-YashahimePrincessHalfDemon_201_WieldingTheTenseiga.png",
+            "created": 1658858443,
+            "season_number": "2",
+            "title_id": "2394820",
+            "tv_rating": "tv-14-lv",
+            "published": 1678187810,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Yashahime: Princess Half-Demon",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_2289134981-NarutoShippuden_406_ThePlaceWhereIBelong.png",
-            "id": "AYKDuaiBIAxeiVkFtLRT",
+            "launch_date": 1678609800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726140330-YashahimePrincessHalfDemon_201_WieldingTheTenseiga.png",
+            "id": "AYI7qxHPIAxeiVkFtLQk",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "yashahime-princess-half-demon",
+            "collection_title_id": "2268280",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
