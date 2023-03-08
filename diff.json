@@ -1,7 +1,6 @@
 {
-    "updated": 1678294826,
-    "added": [],
-    "removed": [
+    "updated": 1678296625,
+    "added": [
         {
             "auth_expiration_date": 1678424340,
             "tms_id": "EP032284200129",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1008142200021322",
             "media_id": "1510ce2849a194fafe988829be300facd308b506",
-            "modified": 1660627733,
+            "modified": 1678295998,
             "slug": "the-devil-megicula",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200827/thumbnails/1_208271229528-BlackClover_129.jpg",
@@ -38,7 +37,7 @@
             "title_id": "2230143",
             "season_number": "3",
             "tv_rating": "tv-pg",
-            "published": 1660627733,
+            "published": 1678295998,
             "tags": [],
             "collection_title": "Black Clover",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
