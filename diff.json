@@ -1,54 +1,55 @@
 {
-    "updated": 1678275025,
-    "added": [
+    "updated": 1678294826,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1678703340,
-            "tms_id": "EP034917240276",
-            "description": "Obito's turned every shinobi against him and intends on ending the world. Naruto then asserts that Obito is merely abandoning everything and running away.",
+            "auth_expiration_date": 1678424340,
+            "tms_id": "EP032284200129",
+            "description": "The devil Megicula is in the Spade Kingdom! Princess Lolopechka of the Heart Kingdom reveals what it will take to defeat him and lays out a deadline.",
             "title_suggest": {
                 "input": [
-                    "Obito Uchiha",
-                    "Uchiha"
+                    "The Devil Megicula",
+                    "Devil Megicula",
+                    "Megicula"
                 ]
             },
-            "title": "Obito Uchiha",
-            "expiration_date": null,
+            "title": "The Devil Megicula",
             "type": "episode",
+            "expiration_date": 1661054340,
             "platforms": [
                 "android",
                 "ios",
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1316.9156,
-            "episode_number": "37",
-            "original_air_date": "1650178800",
-            "auth_launch_date": 1668387600,
+            "collection_id": "AV-7K77EZ-onAnjDLtBM",
+            "duration": 1339.3046,
+            "episode_number": "27",
+            "original_air_date": 1598765400,
+            "auth_launch_date": 1661054400,
             "clip_order": null,
-            "airing_id": "RADS1011132200044476",
-            "media_id": "488c2a2f3bce5aeb16ab8f14aa7bc3f20ecf372f",
-            "modified": 1678273408,
-            "slug": "obito-uchiha",
+            "airing_id": "RADS1008142200021322",
+            "media_id": "1510ce2849a194fafe988829be300facd308b506",
+            "modified": 1660627733,
+            "slug": "the-devil-megicula",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_22412152468-NarutoShippuden_385_ObitoUchiha.png",
-            "created": 1649791457,
-            "season_number": "7",
-            "title_id": "2177815",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200827/thumbnails/1_208271229528-BlackClover_129.jpg",
+            "created": 1598462513,
+            "title_id": "2230143",
+            "season_number": "3",
             "tv_rating": "tv-pg",
-            "published": 1678273408,
+            "published": 1660627733,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Black Clover",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_22412152468-NarutoShippuden_385_ObitoUchiha.png",
-            "id": "AYAfO9h1208s7zyYUMkt",
+            "launch_date": 1659844800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200827/thumbnails/2_208271229528-BlackClover_129.jpg",
+            "id": "AXQrylExLyLQBOXK_PMO",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "black-clover",
+            "collection_title_id": "2143080",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
