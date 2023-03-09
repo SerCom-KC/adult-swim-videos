@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 9, 2023 at 09:30:27 EST_
+_Last Update: March 9, 2023 at 17:00:27 EST_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2143080 Black Clover: 1  
-### 2219229
-**Black Clover S03E10 - Humans Who Can Be Trusted**  
-TV-PG-L 🔒 21:22  
-⌛ March 10, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/black-clover/humans-who-can-be-trusted  
-seriesid=`2143080` titleid=`2219229` id=`AXFAjI36Rs3h4hI_X2x1` mediaid=`18dccb6d51411e6e325aec3f2d741a2ede84be5a`  
-_Luck and friends enlist an unusual ally in their fight against the elvish Dorothy Unsworth. Droit recalls the humans' atrocities against his people._  
-<a href="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200403/thumbnails/2_20431057567-BlackClover_112.jpg" height="144px" /></a>
+862772 China, IL: 1  
+### 2008015
+**China, IL S02E10 - Wild Hogs**  
+TV-14-DLV 🔓 22:33  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/china-il/wild-hogs  
+seriesid=`862772` titleid=`2008015` id=`UOE2oOmzSmGtzP7GTACprg` mediaid=`e62027670a4662ef976e78f49079633d8f081152`  
+_The campus becomes victim to an infestation of wild hogs._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032164978-chinail_020_dup-20131121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032164978-chinail_020_dup-20131121.jpg" height="144px" /></a>
