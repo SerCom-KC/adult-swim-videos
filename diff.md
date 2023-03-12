@@ -2,78 +2,69 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 12, 2023 at 00:00:28 EST_
+_Last Update: March 12, 2023 at 00:30:25 EST_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-437532 Futurama: 1  
-2268280 Yashahime: Princess Half-Demon: 1  
-### 2069532
-**American Dad S12E01 - Father's Daze**  
-TV-14 🔒 21:13  
+2003422 Bob's Burgers: 2  
+629835 King of the Hill: 1  
+### 2030312
+**Bob's Burgers S04E10 - Presto Tina-O**  
+TV-PG 🔒 21:19  
 ⌛ March 18, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fathers-daze  
-seriesid=`581006` titleid=`2069532` id=`1tfpfZcEQEulM8Gwxer2rg` mediaid=`0d1b8527d9a327620560c807c976b68ecc297936`  
-_The Smith family forgets to celebrate Father's Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg" height="144px" /></a>
-### 2069533
-**American Dad S12E02 - Fight and Flight**  
-TV-14 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/presto-tina-o  
+seriesid=`2003422` titleid=`2030312` id=`a3omBXSlQo6tXn-uAY3Qbw` mediaid=`705586d67a09cc1167d7c48e17ac064c32631814`  
+_Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's "curse."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg" height="144px" /></a>
+### 2030649
+**Bob's Burgers S04E09 - Slumber Party**  
+ 🔒 21:33  
 ⌛ March 18, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fight-and-flight  
-seriesid=`581006` titleid=`2069533` id=`2lgl7za3TEGrHYL2SIWJeQ` mediaid=`204b5cf0c24fb0a7ef617b2d33f4d1bd82480c6c`  
-_Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg" height="144px" /></a>
-### 2161633
-**Futurama S08E05 - The Silence of the Clamps**  
-TV-14-DLSV 🔒 22:40  
+https://www.adultswim.com/videos/bobs-burgers/slumber-party  
+seriesid=`2003422` titleid=`2030649` id=`x-ralBNsSuSW3Y2LnDqIkA` mediaid=`6975057a09e0d3e1aea551ba2e90afde1c64d6c3`  
+_When Linda realizes that Louise has never had a sleepover, she throws her a surprise slumber party, much to Louise's chagrin. After Louise's repeated attempts to escape are thwarted, she decides to sabotage the party by eliminating the girls one by one. But she may have met her match in Jessica._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg" height="144px" /></a>
+### 731559
+**King of the Hill S11E17 - Death Picks Cotton**  
+TV-PG-DL 🔒 22:47  
 ⌛ March 18, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-silence-of-the-clamps  
-seriesid=`437532` titleid=`2161633` id=`AYBIQClS_0O4w1rD3SCd` mediaid=`46fd7ccdbc94c44db8f648f838d3c3d5aa53e09f`  
-_After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program._  
-<a href="https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png"><img src="https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png" height="144px" /></a>
-### 2394822
-**Yashahime: Princess Half-Demon S02E03 - The Silver-Scale Curse**  
-TV-14-V 🔒 22:14  
-⌛ March 25, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/yashahime-princess-half-demon/the-silver-scale-curse  
-seriesid=`2268280` titleid=`2394822` id=`AYKDtmNK3sQvipyea9we` mediaid=`f6c66c547f3905b00601e93880894bab8340fd9a`  
-_Jaken recalls that fateful day fourteen years ago when Zero placed a curse on Rin. The three girls search for Bokusen-Oh._  
-<a href="https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891345354-YashahimePrincessHalfDemon_203_TheSilverScaleCurse.png"><img src="https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891345354-YashahimePrincessHalfDemon_203_TheSilverScaleCurse.png" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/death-picks-cotton  
+seriesid=`629835` titleid=`731559` id=`8jzi_aPhS1uvJJcEocsz1A` mediaid=`b613cbbdbe59dcc60047e7d66ebba9124eeec426`  
+_When Bobby's baby-sitter cancels at the last minute, Hank and Peggy have no choice but to allow Cotton to sit for Bobby so they can go on a date._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203520592319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203520592319.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2194549 Gemusetto: 1  
-437532 Futurama: 1  
-581006 American Dad: 2  
-### 2241828
-**Gemusetto S02E03 - Episode Three: B7+5**  
-TV-14-DLV 🔒 11:15  
+2003422 Bob's Burgers: 2  
+2143080 Black Clover: 1  
+629835 King of the Hill: 1  
+### 2003534
+**Bob's Burgers S03E23 - The Unnatural**  
+TV-14 🔒 21:33  
 ⌛ March 11, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-three-b-7-5  
-seriesid=`2194549` titleid=`2241828` id=`AXW5Hl8_LyLQBOXK_Pgw` mediaid=`28694d472de76d270bef1186571c1ff3878f5330`  
-_Making their way through the Mesopotamian underworld of Kur, Dr. Legs and Makasu run into a formidable foe. Can a vengeful spirit who has a bone to pick with Makasu be more dangerous than a god?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg" height="144px" /></a>
-### 2161632
-**Futurama S07E13 - Holiday Spectacular**  
-TV-14-DLV 🔒 22:38  
+https://www.adultswim.com/videos/bobs-burgers/the-unnatural  
+seriesid=`2003422` titleid=`2003534` id=`bXAUZgtGRcKF7uHdKbibOQ` mediaid=`e0781e49fc2060a9942522ea34837c387cb03545`  
+_After Gene loses his confidence at his baseball game, Linda decides to sign him up for baseball camp. The only problem is, she needs money to pay for it! Meanwhile, Tina discovers her love for espresso and becomes a caffeine addict._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg" height="144px" /></a>
+### 2003533
+**Bob's Burgers S03E22 - Carpe Museum**  
+TV-14 🔒 21:15  
 ⌛ March 11, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/holiday-spectacular  
-seriesid=`437532` titleid=`2161632` id=`AYAJe5Lg208s7zyYUMiQ` mediaid=`f1f33d81bc18c2748a3315d545423f077cfbc498`  
-_In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa._  
-<a href="https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png"><img src="https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png" height="144px" /></a>
-### 2041485
-**American Dad S11E12 - The Dentist's Wife**  
-TV-14-DLSV 🔒 21:13  
+https://www.adultswim.com/videos/bobs-burgers/carpe-museum  
+seriesid=`2003422` titleid=`2003533` id=`h-8I3clIQR2tn_K2jbkuMg` mediaid=`8e674d0188137794e2f77427f47ae40e6816f65b`  
+_While acting as a parent chaperone on the school's trip to the museum, Bob has a father- daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy. Also, Tina questions her dorkiness; and on the steps of the museum, Linda lends her unique chanting abilities to striking museum workers._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg" height="144px" /></a>
+### 2205121
+**Black Clover S02E44 - Reincarnation**  
+ 🔓 21:10  
 ⌛ March 11, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-dentists-wife  
-seriesid=`581006` titleid=`2041485` id=`7dJmcExrRtCnDk5rixt9Xw` mediaid=`e0531106df1c5ed5955c3555f0a19df176fdf6fa`  
-_Roger loses his identity after becoming fascinated by a local dentist's wife. Meanwhile, Klaus throws a party when Stan and the kids are unable to move from being sore after working out._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002047527512.jpg" height="144px" /></a>
-### 2041479
-**American Dad S11E11 - The Unincludeds**  
-TV-14-DLS 🔒 21:13  
+https://www.adultswim.com/videos/black-clover/reincarnation  
+seriesid=`2143080` titleid=`2205121` id=`AW4S8cOhadNs2hMNfuXq` mediaid=`f5087c43d38164bf5182f21d285fd10d91a98226`  
+_A look into the origins of Licht's hatred of humans and the complicated ways by which the Third Eye, and Licht as he is today, came to be._  
+<a href="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117381-BlackClover_095.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191028/thumbnails/2_1910281117381-BlackClover_095.jpg" height="144px" /></a>
+### 731554
+**King of the Hill S11E12 - Lucky's Wedding Suit**  
+TV-PG-L 🔓 23:52  
 ⌛ March 11, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-unincludeds  
-seriesid=`581006` titleid=`2041479` id=`T0dzRensQzKclD28oo8UUw` mediaid=`e2a47c1c98de515dbe4b0543ad43bbec6202818e`  
-_Steve and Snot alter their futures when they throw a party for the uncool kids. Meanwhile, Roger is disgruntled when a waitress doesn't compliment his order and Stan and Francine go on vacation in Bosnia._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205081794.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200205081794.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/luckys-wedding-suit  
+seriesid=`629835` titleid=`731554` id=`rYVgiS9vRZifp7CLuv7BNQ` mediaid=`343a157fb03eef32fabf3378b331b3c29211dc47`  
+_When Hank talks Dale into hiring Lucky so he can pay for his wedding Luanne, Lucky gets hurt and they all get entangled in a bogus lawsuit._  
+<a href="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271246577-KingOfTheHill_1005_LuckysWeddingSuit.png"><img src="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271246577-KingOfTheHill_1005_LuckysWeddingSuit.png" height="144px" /></a>
