@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 13, 2023 at 09:30:24 EDT_
+_Last Update: March 13, 2023 at 13:30:24 EDT_
 ## Video added
 ### Summary
-2137894 Ballmastrz: 9009: 1  
-### 2137899
-**Ballmastrz: 9009 S01E06 - Honor! Money! Swords! Dongs! Ultimate Gaz Boom Boom Rookie Card Battle Begin! Fight!**  
-TV-14-DL 🔒 10:56  
-⌛ March 13, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ballmastrz-9009/honor-money-swords-dongs-ultimate-gaz-boom-boom-rookie-card-battle-begin-fight  
-seriesid=`2137894` titleid=`2137899` id=`AWLVfgnMTdxzjxdCldaV` mediaid=`848b4ddb4f8a3c41c23e2dffe557f2d968748243`  
-_A search for lucrative sports memorabilia leads Ace, Gaz, and Babyball to the lair of an Ulsa Guerin wise guy._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400022089714.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400022089714.jpg" height="144px" /></a>
+581268 Squidbillies: 1  
+### 706642
+**Squidbillies S03E07 - The Good One**  
+TV-MA 🔒 11:09  
+⌛ March 24, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/the-good-one  
+seriesid=`581268` titleid=`706642` id=`3EuToyv0SeGT45t_OYzJnQ` mediaid=`b54650312001046610b914f68ccc05268504c903`  
+_Lil's disregard for birth control provides a lifelong friend for Early._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
