@@ -207,6 +207,56 @@
         "cma_id": "1361277"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447784640,
+        "auth_expiration_date": 1674881940,
+        "tms_id": "EP008994530036",
+        "rating": 8.121045,
+        "description": "The network forces Tim and Eric to hire The Room director Tommy Wiseau to direct a sketch. Coincidentally, two businessmen/friends look for a bite to eat in Denver.\r\n(Tommy Wiseau, Fred Willard)",
+        "title_suggest": {
+            "input": [
+                "Tommy"
+            ]
+        },
+        "type": "episode",
+        "title": "Tommy",
+        "expiration_date": 1681876740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 676.006,
+        "episode_number": "5",
+        "original_air_date": 1236573000,
+        "clip_order": null,
+        "auth_launch_date": 1667016000,
+        "modified": 1678427000,
+        "media_id": "52e9515e5babd11e1ebbb506c89d37d38c9a025f",
+        "airing_id": "RADS1003092300076004",
+        "id": "Gy8rFCuKRtiHRESEz7Sw9w",
+        "slug": "tommy",
+        "views": 325380,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161652217-timanderic_405.jpg",
+        "created": 1402945481,
+        "title_id": "751394",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1678427000,
+        "tags": [],
+        "rating_count": 1520,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1678852800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161652217-timanderic_405.jpg",
+        "cma_id": "1384868"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447784460,
         "auth_expiration_date": 1706072340,
@@ -370,7 +420,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784520,
         "auth_expiration_date": 1707281940,
         "tms_id": "EP008994530030",
