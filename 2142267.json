@@ -413,7 +413,7 @@
         "launch_date": 1678005000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230211/thumbnails/2_232111547343-MHA122Still001tiny.png",
         "id": "AYYx1R6nuLQD-MTtYgCm",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1678606140,
@@ -505,7 +505,7 @@
         "launch_date": 1679211000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230225/thumbnails/2_232251643329-MHAS6124Still001tiny.png",
         "id": "AYZgINgR4k01GlbfzrYf",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1680422340,
@@ -685,6 +685,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230304/thumbnails/2_23341221583-MHA126Still001tiny.png",
         "id": "AYaUPcs14k01GlbfzrYk",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1681025340,
+        "tms_id": "EP034435300134",
+        "description": "As heroes deal with criticism from the public, Hawks thinks back on his past with his family, and Endeavor's family visits him in the hospital.",
+        "title_suggest": {
+            "input": [
+                "The Hellish Todoroki Family, Part 2",
+                "Hellish Todoroki Family, Part 2",
+                "Todoroki Family, Part 2",
+                "Family, Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "title": "The Hellish Todoroki Family, Part 2",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1347.6462,
+        "episode_number": "16",
+        "original_air_date": 1679198400,
+        "auth_launch_date": 1679211000,
+        "clip_order": null,
+        "airing_id": "RADS1003142300077512",
+        "media_id": "b3362c4deb5ddf5f0dc2a4ee2ff01d03b7ba29e6",
+        "modified": 1679190880,
+        "slug": "the-hellish-todoroki-family-part-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230318/thumbnails/1_23318215499-MHA129till001tiny.png",
+        "created": 1678804834,
+        "title_id": "2417791",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1679190880,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230318/thumbnails/2_23318215499-MHA129till001tiny.png",
+        "id": "AYbgkNj2uLQD-MTtYgkc",
         "auth": true
     }
 ]
