@@ -1,23 +1,21 @@
 {
-    "updated": 1679218224,
-    "added": [
+    "updated": 1679221936,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1705899540,
-            "tms_id": "EP034917240434",
-            "description": "Karin is caught within the Infinite Tsukuyomi and dreams of her past.",
+            "auth_expiration_date": 1679221740,
+            "tms_id": "EP034917240423",
+            "description": "Guy activates the Eight Inner Gates Formation and relentlessly attacks Six Paths Madara.",
             "title_suggest": {
                 "input": [
-                    "To See That Smile, Just One More Time",
-                    "See That Smile, Just One More Time",
-                    "That Smile, Just One More Time",
-                    "Smile, Just One More Time",
-                    "Just One More Time",
-                    "One More Time",
-                    "More Time",
-                    "Time"
+                    "The Eight Inner Gates Formation",
+                    "Eight Inner Gates Formation",
+                    "Inner Gates Formation",
+                    "Gates Formation",
+                    "Formation"
                 ]
             },
-            "title": "To See That Smile, Just One More Time",
+            "title": "The Eight Inner Gates Formation",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -27,34 +25,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1312.4778,
-            "episode_number": "15",
-            "original_air_date": 1679205600,
-            "auth_launch_date": 1679218200,
+            "duration": 1310.2089,
+            "episode_number": "4",
+            "original_air_date": 1670137200,
+            "auth_launch_date": 1670149800,
             "clip_order": null,
-            "airing_id": "RADS1003142300077528",
-            "media_id": "ae17007b1ca8e747b3eabcf5552f620e0ac0daec",
-            "modified": 1679191037,
-            "slug": "to-see-that-smile-just-one-more-time",
+            "airing_id": "RADS1011302200047889",
+            "media_id": "fb75fd99aeabb429e40deeaa7dd9dc12c2bcf147",
+            "modified": 1679162486,
+            "slug": "the-eight-inner-gates-formation",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230318/thumbnails/1_23318215798-aslogothumbnail.png",
-            "created": 1678805083,
-            "title_id": "2177861",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/1_221211626461-NarutoShippuden_420_TheEightInnerGatesFormation.png",
+            "created": 1669785518,
+            "title_id": "2177850",
             "season_number": "8",
             "tv_rating": "tv-pg",
-            "published": 1679191037,
+            "published": 1679162486,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
+            "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230318/thumbnails/2_23318215798-aslogothumbnail.png",
-            "id": "AYbglKVW4k01GlbfzrYr",
+            "poster": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211626461-NarutoShippuden_420_TheEightInnerGatesFormation.png",
+            "id": "AYTG-QENIAxeiVkFtLge",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
