@@ -1,7 +1,6 @@
 {
-    "updated": 1679326996,
-    "added": [],
-    "removed": [
+    "updated": 1679332398,
+    "added": [
         {
             "ott_launch_date": 1525098600,
             "auth": true,
@@ -39,7 +38,7 @@
             "auth_launch_date": 1670302800,
             "clip_order": null,
             "media_id": "2086a66b96d6251359771006dcc70401df410208",
-            "modified": 1670156396,
+            "modified": 1679332087,
             "airing_id": "RADS1012042200049447",
             "id": "AWLeZsgoHAeP4-pUPee4",
             "slug": "leather-passions-2-hearts-2-wheelz-infinite-roadz-ride-now",
@@ -51,7 +50,7 @@
             "tv_rating": "tv-14-dlv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1670156396,
+            "published": 1679332087,
             "tags": [],
             "collection_title": "Ballmastrz: 9009",
             "modified_by": "ODT Listener",
@@ -61,5 +60,6 @@
             "collection_title_id": "2137894",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
