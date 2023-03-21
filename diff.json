@@ -1,7 +1,6 @@
 {
-    "updated": 1679334255,
-    "added": [],
-    "removed": [
+    "updated": 1679358317,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447348800,
@@ -29,7 +28,7 @@
             "original_air_date": 1189999800,
             "clip_order": null,
             "auth_launch_date": 1671685200,
-            "modified": 1671512193,
+            "modified": 1679358161,
             "airing_id": "RADS1012192200051977",
             "media_id": "78ab8ffd06af6b0443284a200134fe41a4cf8cb3",
             "id": "XQ8OU3stTlq_1YkKzoDPug",
@@ -43,7 +42,7 @@
             "tv_rating": "tv-ma",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1671512193,
+            "published": 1679358161,
             "tags": [
                 "robot chicken episode 47 endless breadsticks black man fat suit movie big jim cat in the hat thundercats snarf nanny"
             ],
@@ -58,5 +57,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
