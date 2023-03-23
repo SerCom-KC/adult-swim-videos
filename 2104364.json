@@ -2,6 +2,56 @@
     {
         "auth": false,
         "ott_launch_date": 1517844660,
+        "auth_expiration_date": 1673499540,
+        "tms_id": "EP025439100009",
+        "description": "The Hot Streets gang time-travel to the Old West to fight Black Bart.",
+        "title_suggest": {
+            "input": [
+                "The Ballad of Autumn Gold",
+                "Ballad of Autumn Gold",
+                "of Autumn Gold",
+                "Autumn Gold",
+                "Gold"
+            ]
+        },
+        "title": "The Ballad of Autumn Gold",
+        "type": "episode",
+        "expiration_date": 1682567940,
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "fXqvCbmfQGK3pmdTs7JWaw",
+        "duration": 674.67,
+        "episode_number": "8",
+        "original_air_date": 1517807700,
+        "clip_order": null,
+        "auth_launch_date": 1670475600,
+        "modified": 1679247981,
+        "media_id": "96e8ac335da2ef843a6b66cc279506d483bcd9ab",
+        "airing_id": "RADS1003192300078091",
+        "id": "2lvT7YuaScavz6bJcMoMzw",
+        "slug": "the-ballad-of-autumn-gold",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351527334-HotStreets_108_dup-20170928.jpg",
+        "created": 1506112355,
+        "season_number": "1",
+        "title_id": "2131838",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1679247981,
+        "tags": [],
+        "collection_title": "Hot Streets",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1679544000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351527334-HotStreets_108_dup-20170928.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1517844660,
         "auth_expiration_date": 1672894740,
         "tms_id": "EP025439100008",
         "description": "Jen journeys underground to solve an impossible puzzle.",
@@ -560,56 +610,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1552919400,
-        "auth_expiration_date": 1679543940,
-        "tms_id": "",
-        "description": "Soo Park returns to take down Jet Jr.",
-        "title_suggest": {
-            "input": [
-                "The Black Box",
-                "Black Box",
-                "Box"
-            ]
-        },
-        "title": "The Black Box",
-        "expiration_date": 1676523540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "fXqvCbmfQGK3pmdTs7JWaw",
-        "duration": 700.04,
-        "episode_number": "8",
-        "original_air_date": 1552882500,
-        "auth_launch_date": 1676523600,
-        "clip_order": null,
-        "media_id": "fea91b986d1d6702d16391b7557f2cb77e860bc0",
-        "modified": 1676359704,
-        "airing_id": "RADS1001102300059342",
-        "slug": "the-black-box",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035153162-hotstreets_208_dup-20181214.jpg",
-        "created": 1545083281,
-        "season_number": "2",
-        "title_id": "2184503",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1676359704,
-        "tags": [],
-        "collection_title": "Hot Streets",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1673499600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035153162-hotstreets_208_dup-20181214.jpg",
-        "id": "AWe-I-HEAScUIg8XxbYI",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1553524200,
         "auth_expiration_date": 1680148740,
         "tms_id": "",
@@ -757,7 +757,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1516635060,
         "auth_expiration_date": 1682567940,
         "tms_id": "EP025439100004",
