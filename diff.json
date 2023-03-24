@@ -1,6 +1,7 @@
 {
-    "updated": 1679682375,
-    "added": [
+    "updated": 1679686229,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1459778400,
@@ -82,7 +83,7 @@
             "original_air_date": 1453093200,
             "clip_order": null,
             "auth_launch_date": 1674882000,
-            "modified": 1679682117,
+            "modified": 1679682721,
             "media_id": "f855a895d25398c8f543778c3d3c2cd2449440a1",
             "airing_id": "RADS1003242300079299",
             "id": "jFSbpxY0Quq9Xc2LFIx5Vg",
@@ -97,7 +98,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1679682117,
+            "published": 1679682721,
             "first_published": 1453126241,
             "tags": [],
             "collection_title": "Robot Chicken",
@@ -110,6 +111,5 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
