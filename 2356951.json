@@ -91,6 +91,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1686023940,
+        "tms_id": "EP035786410003",
+        "description": "Riko and Reg find out more about their past but the question still remains: exactly who, or what, is Reg?",
+        "title_suggest": {
+            "input": [
+                "Resurrection Festival",
+                "Festival"
+            ]
+        },
+        "title": "Resurrection Festival",
+        "expiration_date": 1645954140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZ9dFUQa40cfnRS9e",
+        "duration": 1336.8354,
+        "episode_number": "2",
+        "original_air_date": "1642917600",
+        "auth_launch_date": 1679976000,
+        "clip_order": null,
+        "airing_id": "RADS1003252300079528",
+        "media_id": "01147fb74e7b7d00eb2730a9662eeda3f0f24f34",
+        "modified": 1679761363,
+        "slug": "resurrection-festival",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_22120179296-MadeInAbyss_002_ResurrectionFestival.png",
+        "created": 1642716579,
+        "season_number": "1",
+        "title_id": "2356955",
+        "tv_rating": "tv-ma",
+        "published": 1679761363,
+        "tags": [],
+        "collection_title": "Made In Abyss",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1644744600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120179296-MadeInAbyss_002_ResurrectionFestival.png",
+        "id": "AX55icUg_0O4w1rD3Rbw",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1685419140,
         "tms_id": "",
         "description": "While exploring the Abyss, Riko comes across something she has never seen before. How does this new discovery impact her?",
@@ -138,50 +183,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131654445-MadeInAbyss_001_101_TheCityOfTheGreatPit.png",
         "id": "AX5VcBic208s7zyYUL9n",
         "auth": true
-    },
-    {
-        "auth_expiration_date": 1679975940,
-        "tms_id": "EP035786410006",
-        "description": "Riko and Reg descend into the Forest of Temptation. What new dangers will they find lying in wait for them there?",
-        "title_suggest": {
-            "input": [
-                "Incinerator"
-            ]
-        },
-        "title": "Incinerator",
-        "expiration_date": 1647770340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZ9dFUQa40cfnRS9e",
-        "duration": 1336.5018,
-        "episode_number": "5",
-        "original_air_date": "1644733800",
-        "auth_launch_date": 1673931600,
-        "clip_order": null,
-        "airing_id": "RADS1001162300061280",
-        "media_id": "331a09996da4b721ed144249d58ac28c07941ef3",
-        "modified": 1673837627,
-        "slug": "incinerator",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/1_22281331211-MadeInAbyss_005_Incinerator.png",
-        "created": 1644345090,
-        "season_number": "1",
-        "title_id": "2356958",
-        "tv_rating": "tv-ma",
-        "published": 1673837627,
-        "tags": [],
-        "collection_title": "Made In Abyss",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1646560800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281331211-MadeInAbyss_005_Incinerator.png",
-        "id": "AX7amuD__0O4w1rD3Ro3",
-        "auth": false
     },
     {
         "auth_expiration_date": 1680580740,
@@ -509,17 +510,20 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1679975940,
-        "tms_id": "EP041740220017",
-        "description": "Faputa and Reg once knew each other, but Reg cannot remember her at all now. Meanwhile, Nanachi is stunned by news so unexpected that it should be impossible to believe.",
+        "auth_expiration_date": 1686023940,
+        "tms_id": "EP041740220015",
+        "description": "Riko, Reg and Nanachi take their first steps into the sixth layer. Both wonders and dangers await the trio, but they are unaware they are being watched.",
         "title_suggest": {
             "input": [
-                "Friend"
+                "Capital of the Unreturned",
+                "of the Unreturned",
+                "the Unreturned",
+                "Unreturned"
             ]
         },
-        "title": "Friend",
+        "title": "Capital of the Unreturned",
+        "expiration_date": 1671958740,
         "type": "episode",
-        "expiration_date": 1673168340,
         "platforms": [
             "android",
             "ios",
@@ -527,30 +531,30 @@
             "fire-tv"
         ],
         "collection_id": "AX3EZ9dFUQa40cfnRS9e",
-        "duration": 1320.1522,
-        "episode_number": "4",
-        "original_air_date": 1670131800,
-        "auth_launch_date": 1673168400,
+        "duration": 1358.5239,
+        "episode_number": "2",
+        "original_air_date": "1668317400",
+        "auth_launch_date": 1679976000,
         "clip_order": null,
-        "airing_id": "RADS1012212200055024",
-        "media_id": "f5e80cc3123ca2fc7c8c2152229d41478ae42ab7",
-        "modified": 1672961375,
-        "slug": "friend",
+        "airing_id": "RADS1003252300079530",
+        "media_id": "58291ec5544fecd03ac8578b2c798f9c91484f3d",
+        "modified": 1679761363,
+        "slug": "capital-of-the-unreturned",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/1_221211623471-MadeInAbyss_17_Friend.png",
-        "created": 1669784365,
-        "title_id": "2413206",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221109/thumbnails/1_22119129173-MadeInAbyss_15_202_CapitalOfTheUnreturned.png",
+        "created": 1668013778,
         "season_number": "2",
-        "tv_rating": "tv-ma",
-        "published": 1672961375,
+        "title_id": "2413204",
+        "tv_rating": "tv-ma-v",
+        "published": 1679761363,
         "tags": [],
         "collection_title": "Made In Abyss",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1671958800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211623471-MadeInAbyss_17_Friend.png",
-        "id": "AYTG52lyuLQD-MTtYfAZ",
-        "auth": false
+        "launch_date": 1670144400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221109/thumbnails/2_22119129173-MadeInAbyss_15_202_CapitalOfTheUnreturned.png",
+        "id": "AYRdXmYi3sQvipyea_IN",
+        "auth": true
     },
     {
         "auth_expiration_date": 1680580740,
