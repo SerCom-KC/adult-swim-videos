@@ -1,21 +1,18 @@
 {
-    "updated": 1680022576,
+    "updated": 1680038842,
     "added": [
         {
-            "auth_expiration_date": 1688443140,
-            "tms_id": "EP007259620237",
-            "description": "Robot Chicken lets Yoshi get his revenge on Mario once and for all; A period so bad it requires a famous exorcist to fix; Snoopy trains a new crew of WWI flying aces.",
+            "auth_expiration_date": 1679889540,
+            "tms_id": "",
+            "description": "Somebody or something is kidnapping Good Guys all around town. But when Sheriff discovers that he's not good enough to be kidnapped, he sets out to prove that he's the goodest guy in town.",
             "title_suggest": {
                 "input": [
-                    "May Cause Involuntary Political Discharge",
-                    "Cause Involuntary Political Discharge",
-                    "Involuntary Political Discharge",
-                    "Political Discharge",
-                    "Discharge"
+                    "Good Guys",
+                    "Guys"
                 ]
             },
-            "title": "May Cause Involuntary Political Discharge",
-            "expiration_date": 1656993540,
+            "title": "Good Guys",
+            "expiration_date": 1676869140,
             "type": "episode",
             "platforms": [
                 "android",
@@ -23,35 +20,86 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 667.4334,
-            "episode_number": "17",
-            "original_air_date": "1647230400",
-            "auth_launch_date": 1679976000,
+            "collection_id": "AW5moY7HadNs2hMNfuf_",
+            "duration": 675.9086,
+            "episode_number": "2",
+            "original_air_date": "1613366100",
+            "auth_launch_date": 1676869200,
             "clip_order": null,
-            "airing_id": "RADS1003272300080275",
-            "media_id": "68c4ccca60315948c5d821506ba03fb4abe663d6",
-            "modified": 1679978838,
-            "slug": "may-cause-involuntary-political-discharge",
+            "airing_id": "RADS1001152300061253",
+            "media_id": "de63e68583ce036213c4b61bb5aa885483839746",
+            "modified": 1676583261,
+            "slug": "good-guys",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
-            "created": 1646842239,
-            "season_number": "11",
-            "title_id": "2270603",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/1_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
+            "created": 1611861981,
+            "season_number": "2",
+            "title_id": "2247952",
             "tv_rating": "tv-ma-v",
-            "published": 1679978838,
+            "published": 1676583261,
             "tags": [],
-            "collection_title": "Robot Chicken",
+            "collection_title": "Momma Named Me Sheriff",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1653969600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
-            "id": "AX9vcljj_0O4w1rD3RzB",
+            "launch_date": 1673845200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
+            "id": "AXdKdfpDQJ_4Uej5kTon",
             "auth": true,
-            "collection_slug": "robot-chicken",
-            "collection_title_id": "608360",
+            "collection_slug": "momma-named-me-sheriff",
+            "collection_title_id": "2196566",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1675054740,
+            "tms_id": "",
+            "description": "When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better.",
+            "title_suggest": {
+                "input": [
+                    "Stuck"
+                ]
+            },
+            "title": "Stuck",
+            "expiration_date": 1682913540,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AW5moY7HadNs2hMNfuf_",
+            "duration": 676.08,
+            "episode_number": "3",
+            "original_air_date": 1574658900,
+            "auth_launch_date": 1672030800,
+            "clip_order": null,
+            "media_id": "c01805fe1c0e2a6092ae3c1b99dbc081cc4b6dae",
+            "modified": 1679669893,
+            "airing_id": "RADS1003242300078839",
+            "slug": "stuck",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
+            "created": 1573745635,
+            "season_number": "1",
+            "title_id": "2196569",
+            "tv_rating": "tv-ma",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1679669893,
+            "tags": [],
+            "collection_title": "Momma Named Me Sheriff",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1679889600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
+            "id": "AW5qjLBr1YiBSfg0KYe3",
+            "auth": false,
+            "collection_slug": "momma-named-me-sheriff",
+            "collection_title_id": "2196566",
+            "online_exclusives": false
+        }
+    ]
 }
