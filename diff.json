@@ -1,57 +1,6 @@
 {
-    "updated": 1680196036,
+    "updated": 1680196336,
     "added": [
-        {
-            "auth_expiration_date": 1679975940,
-            "tms_id": "EP027786570042",
-            "description": "A game show where Jo Firestone sets up a cookie tasting in a parking lot to try to make friends. Contestants must ultimately decide between a friendship and $50 cash.",
-            "title_suggest": {
-                "input": [
-                    "Rate the Cookie",
-                    "the Cookie",
-                    "Cookie"
-                ]
-            },
-            "title": "Rate the Cookie",
-            "expiration_date": 1676955540,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-            "duration": 733.3326,
-            "episode_number": "6",
-            "original_air_date": "1608022800",
-            "auth_launch_date": 1676955600,
-            "clip_order": null,
-            "airing_id": "RADS1002162300070505",
-            "media_id": "e0763ed1f90ba671063db9ebcb004357d88c51ed",
-            "modified": 1676586889,
-            "slug": "rate-the-cookie",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/1_201249963-infomercials_RateTheCookie_dup-20201201.jpg",
-            "created": 1607090952,
-            "season_number": "10",
-            "title_id": "2236211",
-            "tv_rating": "tv-pg-l",
-            "published": 1676586889,
-            "tags": [],
-            "collection_title": "Infomercials",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1674536400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_201249963-infomercials_RateTheCookie_dup-20201201.jpg",
-            "id": "AXYuFdlLQJ_4Uej5kTc7",
-            "auth": true,
-            "collection_slug": "infomercials",
-            "collection_title_id": "2007823",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "ott_launch_date": 1447789620,
             "auth_expiration_date": 1664251140,
@@ -103,6 +52,57 @@
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150983047962.jpg",
             "id": "AV-3IJOpwdpKFAKSbWaa",
             "auth": false,
+            "collection_slug": "infomercials",
+            "collection_title_id": "2007823",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth_expiration_date": 1679975940,
+            "tms_id": "EP027786570042",
+            "description": "A game show where Jo Firestone sets up a cookie tasting in a parking lot to try to make friends. Contestants must ultimately decide between a friendship and $50 cash.",
+            "title_suggest": {
+                "input": [
+                    "Rate the Cookie",
+                    "the Cookie",
+                    "Cookie"
+                ]
+            },
+            "title": "Rate the Cookie",
+            "expiration_date": 1676955540,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+            "duration": 733.3326,
+            "episode_number": "6",
+            "original_air_date": "1608022800",
+            "auth_launch_date": 1676955600,
+            "clip_order": null,
+            "airing_id": "RADS1002162300070505",
+            "media_id": "e0763ed1f90ba671063db9ebcb004357d88c51ed",
+            "modified": 1676586889,
+            "slug": "rate-the-cookie",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/1_201249963-infomercials_RateTheCookie_dup-20201201.jpg",
+            "created": 1607090952,
+            "season_number": "10",
+            "title_id": "2236211",
+            "tv_rating": "tv-pg-l",
+            "published": 1676586889,
+            "tags": [],
+            "collection_title": "Infomercials",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1674536400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_201249963-infomercials_RateTheCookie_dup-20201201.jpg",
+            "id": "AXYuFdlLQJ_4Uej5kTc7",
+            "auth": true,
             "collection_slug": "infomercials",
             "collection_title_id": "2007823",
             "online_exclusives": false
