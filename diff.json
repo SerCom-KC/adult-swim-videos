@@ -1,7 +1,6 @@
 {
-    "updated": 1680188426,
-    "added": [],
-    "removed": [
+    "updated": 1680190227,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447347660,
@@ -29,7 +28,7 @@
             "original_air_date": 1144639800,
             "clip_order": null,
             "auth_launch_date": 1671771600,
-            "modified": 1671607167,
+            "modified": 1680189785,
             "airing_id": "RADS1012212200053707",
             "media_id": "29d4256b6d2f958459979aace7c31bd5bd23021f",
             "id": "5BiYUpxsQyqSkt9Gi6kj7A",
@@ -44,7 +43,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1671607167,
+            "published": 1680189785,
             "tags": [
                 "robot chicken federated resources episode 25"
             ],
@@ -59,5 +58,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
