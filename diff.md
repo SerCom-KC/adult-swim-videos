@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 31, 2023 at 18:00:24 EDT_
+_Last Update: March 31, 2023 at 19:00:25 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2268280 Yashahime: Princess Half-Demon: 1  
-### 2394824
-**Yashahime: Princess Half-Demon S02E05 - The Girl Named Rion**  
-TV-14-V 🔒 22:15  
-⌛ April 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/yashahime-princess-half-demon/the-girl-named-rion  
-seriesid=`2268280` titleid=`2394824` id=`AYLHGp3lIAxeiVkFtLRe` mediaid=`6771e6f41ae7f8852936e2693c06d6cda0811dc2`  
-_Trapped within Mount Musubi, Rion's soul longs for peace. Rion asks Setsuna to sever the thread of fate connects her to her father, Kirinmaru._  
-<a href="https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221549374-YashahimePrincessHalfDemon_205_TheGirlNamedRion.png"><img src="https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221549374-YashahimePrincessHalfDemon_205_TheGirlNamedRion.png" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177852
+**Naruto: Shippuden S08E06 - The Ones Who Will Inherit**  
+TV-14-DS 🔒 21:49  
+⌛ April 2, 2023 at 05:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-ones-who-will-inherit  
+seriesid=`812206` titleid=`2177852` id=`AYUWpg9_uLQD-MTtYfGH` mediaid=`c4864d642f3f0d5097be0bf781b3f01a69f9bb79`  
+_It's been three years since Naruto set out to train with Jiraiya, and he's just returned to the Hidden Leaf Village._  
+<a href="https://media.cdn.adultswim.com/uploads/20221217/thumbnails/2_22121719672-NarutoShippuden422tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20221217/thumbnails/2_22121719672-NarutoShippuden422tiny.png" height="144px" /></a>
