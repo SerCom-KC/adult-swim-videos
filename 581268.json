@@ -3650,62 +3650,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447443780,
-        "auth_expiration_date": 1680321540,
-        "tms_id": "EP007008180037",
-        "rating": 7.6095357,
-        "description": "Drought is a disease. David Allan Coe is the cure.",
-        "title_suggest": {
-            "input": [
-                "The Okaleechee Dam Jam",
-                "Okaleechee Dam Jam",
-                "Dam Jam",
-                "Jam"
-            ]
-        },
-        "type": "episode",
-        "title": "The Okaleechee Dam Jam",
-        "expiration_date": 1598932799,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 705.1001001,
-        "episode_number": "17",
-        "original_air_date": 1211170500,
-        "clip_order": null,
-        "auth_launch_date": 1671253200,
-        "modified": 1671125655,
-        "media_id": "1b54421cd2b1b65d9ce2fc8974a2371367ab08a6",
-        "airing_id": "RADS1012152200051536",
-        "id": "PPYlQVWgThyqBgzUCLrD3w",
-        "slug": "the-okaleechee-dam-jam",
-        "views": 633789,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131156462-squidbillies_037_bim.jpg",
-        "created": 1402945477,
-        "title_id": "718762",
-        "season_number": "3",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1671125655,
-        "tags": [
-            "squidbillies episode 37 okaleechee dam jam drought david allen coe water"
-        ],
-        "rating_count": 2602,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131156462-squidbillies_037_bim.jpg",
-        "cma_id": "1466767"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447444080,
         "auth_expiration_date": 1681531140,
         "tms_id": "EP007008180049",
@@ -4054,9 +3998,9 @@
         "cma_id": "1348060"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447443840,
-        "auth_expiration_date": 1680321540,
+        "auth_expiration_date": 1680292524,
         "tms_id": "EP007008180040",
         "rating": 7.2547345,
         "description": "Early's passion for Krystal spikes after she wins the lottery.",
@@ -4068,7 +4012,7 @@
         },
         "type": "episode",
         "title": "Krystal, Light",
-        "expiration_date": 1598932799,
+        "expiration_date": 1680926340,
         "platforms": [
             "web",
             "mobile",
@@ -4080,9 +4024,9 @@
         "original_air_date": 1212984900,
         "clip_order": null,
         "auth_launch_date": 1671253200,
-        "modified": 1671125391,
-        "media_id": "ffef75ee44e26c9c2e22fd6db54235ba7fd984a1",
-        "airing_id": "RADS1012152200051543",
+        "modified": 1680292581,
+        "media_id": "8965c20cdca8a46f0c97d881cc5f70e99f388861",
+        "airing_id": "RADS1003312300081208",
         "id": "SpflF_4JRXyW6TntkwQoLg",
         "slug": "krystal-light",
         "views": 412716,
@@ -4095,7 +4039,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1671125391,
+        "published": 1680292581,
         "tags": [
             "squidbillies episode 40 krystal light diet stomach stapling lottery money dan halen fat"
         ],
@@ -4103,7 +4047,7 @@
         "collection_title": "Squidbillies",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1542690000,
+        "launch_date": 1680321600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131217439-squidbillies_040_bim.jpg",
         "cma_id": "719991"
     },
