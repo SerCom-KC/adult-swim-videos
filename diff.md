@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 31, 2023 at 16:30:26 EDT_
+_Last Update: March 31, 2023 at 17:30:25 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-581268 Squidbillies: 1  
-### 719991
-**Squidbillies S03E20 - Krystal, Light**  
-TV-14-DLV 🔓 11:34  
-⌛ April 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/krystal-light  
-seriesid=`581268` titleid=`719991` id=`SpflF_4JRXyW6TntkwQoLg` mediaid=`8965c20cdca8a46f0c97d881cc5f70e99f388861`  
-_Early's passion for Krystal spikes after she wins the lottery._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131217439-squidbillies_040_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131217439-squidbillies_040_bim.jpg" height="144px" /></a>
+2268280 Yashahime: Princess Half-Demon: 1  
+### 2394824
+**Yashahime: Princess Half-Demon S02E05 - The Girl Named Rion**  
+TV-14-V 🔒 22:15  
+⌛ April 1, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/yashahime-princess-half-demon/the-girl-named-rion  
+seriesid=`2268280` titleid=`2394824` id=`AYLHGp3lIAxeiVkFtLRe` mediaid=`6771e6f41ae7f8852936e2693c06d6cda0811dc2`  
+_Trapped within Mount Musubi, Rion's soul longs for peace. Rion asks Setsuna to sever the thread of fate connects her to her father, Kirinmaru._  
+<a href="https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221549374-YashahimePrincessHalfDemon_205_TheGirlNamedRion.png"><img src="https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221549374-YashahimePrincessHalfDemon_205_TheGirlNamedRion.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
