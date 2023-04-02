@@ -685,7 +685,7 @@
         "launch_date": 1679817600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230304/thumbnails/2_23341221583-MHA126Still001tiny.png",
         "id": "AYaUPcs14k01GlbfzrYk",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1681025340,
@@ -923,6 +923,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_23411640148-MHA133Still001tiny.png",
         "id": "AYclfaIDuLQD-MTtYgxV",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1682236740,
+        "tms_id": "EP034435300139",
+        "description": "During Izuku's fight with Lady Nagant, she tells him secrets about hero society that further solidify his resolve to help those who need his help.",
+        "title_suggest": {
+            "input": [
+                "The Lovely Lady Nagant",
+                "Lovely Lady Nagant",
+                "Lady Nagant",
+                "Nagant"
+            ]
+        },
+        "title": "The Lovely Lady Nagant",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1304.8702,
+        "episode_number": "21",
+        "original_air_date": 1680409800,
+        "auth_launch_date": 1680422400,
+        "clip_order": null,
+        "airing_id": "RADS1003272300080630",
+        "media_id": "86e391497cf528b6a7865abc9f5b4de18d18ce62",
+        "modified": 1680381664,
+        "slug": "the-lovely-lady-nagant",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/1_23411640361-MHAS6134Still001tiny.png",
+        "created": 1679961257,
+        "title_id": "2417796",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1680381664,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_23411640361-MHAS6134Still001tiny.png",
+        "id": "AYclfnVJ4k01GlbfzrY1",
         "auth": true
     }
 ]
