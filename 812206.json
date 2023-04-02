@@ -1075,6 +1075,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1705899540,
+        "tms_id": "EP034917240425",
+        "description": "It's been three years since Naruto set out to train with Jiraiya, and he's just returned to the Hidden Leaf Village.",
+        "title_suggest": {
+            "input": [
+                "The Ones Who Will Inherit",
+                "Ones Who Will Inherit",
+                "Who Will Inherit",
+                "Will Inherit",
+                "Inherit"
+            ]
+        },
+        "title": "The Ones Who Will Inherit",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1309.942,
+        "episode_number": "6",
+        "original_air_date": 1671346800,
+        "auth_launch_date": 1680427800,
+        "clip_order": null,
+        "airing_id": "RADS1003312300081335",
+        "media_id": "c4864d642f3f0d5097be0bf781b3f01a69f9bb79",
+        "modified": 1680419345,
+        "slug": "the-ones-who-will-inherit",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221217/thumbnails/1_22121719672-NarutoShippuden422tiny.png",
+        "created": 1671122259,
+        "title_id": "2177852",
+        "season_number": "8",
+        "tv_rating": "tv-14-ds",
+        "published": 1680419345,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221217/thumbnails/2_22121719672-NarutoShippuden422tiny.png",
+        "id": "AYUWpg9_uLQD-MTtYfGH",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1706158740,
         "tms_id": "EP034917240426",
         "description": "Konohamaru immediately begs Naruto to teach him a new jutsu and he starts to go over the basics...but his explanations are very vague.",
@@ -1541,6 +1589,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230324/thumbnails/2_233241630285-narutoshippuden432Still001tiny.png",
         "id": "AYcLXJp44k01GlbfzrYz",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1705899540,
+        "tms_id": "EP034917240436",
+        "description": "Chunin and jonin-level ninja have gone missing. The Fourth Hokage orders a search mission with teams of genin led by Guy and Kurenai.",
+        "title_suggest": {
+            "input": [
+                "The Search Mission",
+                "Search Mission",
+                "Mission"
+            ]
+        },
+        "title": "The Search Mission",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1315.2806,
+        "episode_number": "17",
+        "original_air_date": 1680415200,
+        "auth_launch_date": 1680427800,
+        "clip_order": null,
+        "airing_id": "RADS1003272300080636",
+        "media_id": "e294fd5e5b5aeeaf2965bbfc5f40bd89c66c8505",
+        "modified": 1680381822,
+        "slug": "the-search-mission",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/1_23411643339-narutoshippuden433Still001tiny.png",
+        "created": 1679961443,
+        "title_id": "2177863",
+        "season_number": "8",
+        "tv_rating": "tv-pg-v",
+        "published": 1680381822,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_23411643339-narutoshippuden433Still001tiny.png",
+        "id": "AYclgU6q4k01GlbfzrY3",
         "auth": true
     }
 ]
