@@ -89,5 +89,49 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230324/thumbnails/2_233241624169-FoodWarsS5Ep02Still001tiny.png",
         "id": "AYcLW7iluLQD-MTtYgrP",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1690187340,
+        "tms_id": "EP037451480003",
+        "description": "The new instructor Suzuki challenges Soma to a Shokugeki! Suzuki will be wagering on his own secret and Soma his kitchen knife respectively. The theme: \"Something made of ingredients found in the cooking lab's refrigerator.\"",
+        "title_suggest": {
+            "input": [
+                "Noir"
+            ]
+        },
+        "title": "Noir",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 1321.5201,
+        "episode_number": "3",
+        "original_air_date": 1680411600,
+        "auth_launch_date": 1680424200,
+        "clip_order": null,
+        "airing_id": "RADS1003272300080632",
+        "media_id": "e1d66e38b0b785f075c4d45d662c8724aecb24c9",
+        "modified": 1680381691,
+        "slug": "noir",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/1_23411641249-FoodWarsS5Ep03Still001tiny.png",
+        "created": 1679961310,
+        "title_id": "2371493",
+        "season_number": "5",
+        "tv_rating": "tv-ma-s",
+        "published": 1680381691,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_23411641249-FoodWarsS5Ep03Still001tiny.png",
+        "id": "AYclf0ZLuLQD-MTtYgxW",
+        "auth": true
     }
 ]
