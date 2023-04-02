@@ -2,121 +2,150 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 2, 2023 at 00:30:27 EDT_
+_Last Update: April 2, 2023 at 03:30:26 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-### 2069569
-**American Dad S13E16 - Persona Assistant**  
-TV-14-DLSV 🔒 21:02  
-⌛ April 8, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/persona-assistant  
-seriesid=`581006` titleid=`2069569` id=`AWUlXVF1h5enQuYyHJfG` mediaid=`4cef04fe5be193d3d9142aa77acc8e97381757a6`  
-_In American Dad's 250th episode, Roger has a medical emergency and Stan has to take over his personas._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714151340-americandad_1216_air_cid-3TFTJ.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714151340-americandad_1216_air_cid-3TFTJ.jpg" height="144px" /></a>
-### 2069570
-**American Dad S13E17 - The Legend of Old Ulysses**  
-TV-14-DLV 🔒 21:03  
-⌛ April 8, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-legend-of-old-ulysses  
-seriesid=`581006` titleid=`2069570` id=`AWVZA5A9h5enQuYyHe9E` mediaid=`6a83f15d19deef060f7d4298c5a238e284a5b2cd`  
-_The family visits Possum Lake. Roger learns to ride a bike._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714150345-americandad_1217_air_cid-3TPTW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714150345-americandad_1217_air_cid-3TPTW.jpg" height="144px" /></a>
-### 2065467
-**Bob's Burgers S05E18 - Eat, Spray, Linda**  
-TV-PG-DL 🔒 21:29  
-⌛ April 8, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/eat-spray-linda  
-seriesid=`2003422` titleid=`2065467` id=`GF4w8jfUQySKUKlq1fD8TQ` mediaid=`b446e1fe4fc713e01f05bb97126319c66fa25484`  
-_It's Linda's birthday and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing! Mayhem ensues as the Belchers must work together to find Linda._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg" height="144px" /></a>
-### 2065466
-**Bob's Burgers S05E17 - The Itty Bitty Ditty Committee**  
-TV-PG-DL 🔒 21:45  
-⌛ April 8, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-itty-bitty-ditty-committee  
-seriesid=`2003422` titleid=`2065466` id=`cvWRUxG3TDyBf5UQFtOu3g` mediaid=`155fb6364e8d0a4a64ccdbeb8e95412c64e24de1`  
-_Gene starts a band only to be kicked out and left on his own. After declaring that he will never play again, Tina and Louise join forces to help Gene rediscover his love of music. Linda deals with a armpit rash that has everyone disgusted!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-itty-bitty-ditty-committee/bobsburgers_505_air_cid-2N879.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-itty-bitty-ditty-committee/bobsburgers_505_air_cid-2N879.jpg" height="144px" /></a>
-### 2161652
-**Futurama S09E07 - The Six Million Dollar Mon**  
-TV-14-DLV 🔒 22:38  
-⌛ April 8, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-six-million-dollar-mon  
-seriesid=`437532` titleid=`2161652` id=`AYFn3uX-_0O4w1rD3SYn` mediaid=`1471031fe9dc48db9e104655c449adc72e2477e5`  
-_Fed up with his inferiority to machines, Hermes replaces his body parts with mighty mechanical upgrades._  
-<a href="https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151057419-Futurama_907_TheSixMillionDollarMon.png"><img src="https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151057419-Futurama_907_TheSixMillionDollarMon.png" height="144px" /></a>
-### 731575
-**King of the Hill S12E11 - Cops and Robert**  
-TV-PG-DL 🔒 22:46  
-⌛ April 8, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/cops-and-robert  
-seriesid=`629835` titleid=`731575` id=`z-V6G2tKSHuxc8cEr1Trsw` mediaid=`1bb41424cb32203e931ff755776f5d405e9128fe`  
-_When Bobby is framed for throwing a soda can at the school's police officer, he is assigned to work with him for one week as punishment; and Hank accidentally steals the wrong guy's wallet._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035076306619.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035076306619.jpg" height="144px" /></a>
+2143080 Black Clover: 1  
+887688 Loiter Squad: 1  
+812206 Naruto: Shippuden: 2  
+608360 Robot Chicken: 11  
+### 2219231
+**Black Clover S03E12 - The Final Invaders**  
+TV-PG 🔒 21:17  
+⌛ June 11, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/black-clover/the-final-invaders  
+seriesid=`2143080` titleid=`2219231` id=`AXGndaM3C8QgH-t19IVt` mediaid=`1824c6be8271bf2b1e9feac84956f49f171fc283`  
+_As Noelle struggles against Fana, Asta and Mimosa fight to counter the elvish Rill's sinister spells. Charmy learns a shocking fact about her origins._  
+<a href="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231034181-BlackClover_114.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200423/thumbnails/2_204231034181-BlackClover_114.jpg" height="144px" /></a>
+### 2000765
+**Loiter Squad S02E07 - Menace 2 Society**  
+TV-14-DLV 🔒 11:14  
+⌛ May 9, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/loiter-squad/menace-2-society  
+seriesid=`887688` titleid=`2000765` id=`1J68ovoPSQCtZmcZ2w7tDQ` mediaid=`28df214426b0b2ec75f9891eb738d17a31a16380`  
+_The guys search for treasure, Jasper attempts a bike jump with the help of Andy Bell, and Earl complains about his roommate._  
+<a href="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361022400-loitersquad_207_dup-20130327.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361022400-loitersquad_207_dup-20130327.jpg" height="144px" /></a>
+### 2177838
+**Naruto: Shippuden S07E60 - The Cursed Puppet**  
+TV-PG 🔒 21:49  
+⌛ January 21, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-cursed-puppet  
+seriesid=`812206` titleid=`2177838` id=`AYLHHp6uIAxeiVkFtLRg` mediaid=`1b447cddeda494b3155cd64afd088bf5e57dc3dd`  
+_Sakura and her team continue their trek across the desert towards the goal. When they stop to rest, they encounter a puppet manipulated by a rival team from the Sand._  
+<a href="https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221553528-NarutoShippuden_408_TheCursedPuppet.png"><img src="https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221553528-NarutoShippuden_408_TheCursedPuppet.png" height="144px" /></a>
+### 2177850
+**Naruto: Shippuden S08E04 - The Eight Inner Gates Formation**  
+TV-PG 🔒 21:50  
+⌛ January 21, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-eight-inner-gates-formation  
+seriesid=`812206` titleid=`2177850` id=`AYTG-QENIAxeiVkFtLge` mediaid=`fb75fd99aeabb429e40deeaa7dd9dc12c2bcf147`  
+_Guy activates the Eight Inner Gates Formation and relentlessly attacks Six Paths Madara._  
+<a href="https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211626461-NarutoShippuden_420_TheEightInnerGatesFormation.png"><img src="https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211626461-NarutoShippuden_420_TheEightInnerGatesFormation.png" height="144px" /></a>
+### 678391
+**Robot Chicken S03E11 - Celebutard Mountain**  
+TV-MA 🔒 10:58  
+⌛ September 18, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/celebutard-mountain  
+seriesid=`608360` titleid=`678391` id=`EAaYawbHQzGvSWD56D6kxw` mediaid=`5ee49f28bde987dfb0e484a43b7768c55e19a31b`  
+_Our PS3 Contest winner gets what's coming to him. Mr. Rogers is turning Japanese. Spawn faces the Devil with his one true skill - fiddling. Fonzie takes care of Cha-Chi the best he can in The Pursuit of Happy Days. Iron Man's feet become his greatest weakness. VH1's "Top 100 Final Episodes" features the end of Mork & Mindy, Love Boat and more._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411231328-robotchicken_051.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411231328-robotchicken_051.jpg" height="144px" /></a>
+### 733069
+**Robot Chicken S03E20 - Chirlaxx**  
+TV-MA 🔒 11:41  
+⌛ October 2, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/chirlaxx  
+seriesid=`608360` titleid=`733069` id=`eotZKHN6Ruuawy6FgMtXxQ` mediaid=`5cf23d124a5888638ea437a5714a273739637c77`  
+_The latest Japanese commercial for a yeast infection cream needs a famous pitch-woman. The enemies of America are on the run as President Bush becomes... Captain Texas! If only the Kryptonians had watched Jor-El's Inconvenient Kryptonian Truth. Sir Mix-A-Lot knows what King Arthur needs! A Glo Worm saves the day when a blackout strikes. We dedicate the season to the staff we've lost... and killed._  
+<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_204214012-robotchicken_060.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_204214012-robotchicken_060.jpg" height="144px" /></a>
+### 678050
+**Robot Chicken S03E07 - Endless Breadsticks**  
+TV-MA 🔒 10:50  
+⌛ September 11, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/endless-breadsticks  
+seriesid=`608360` titleid=`678050` id=`XQ8OU3stTlq_1YkKzoDPug` mediaid=`78ab8ffd06af6b0443284a200134fe41a4cf8cb3`  
+_Another Black Man in a Fat Suit movie. Big Jim tries to score. A cat in a hat has his way with the family pet and the kids need to get lost. When Snarf kicks it, Mumm-Ra sees his chance to destroy The Thundercats as Lion-O's new nanny._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411229408-robotchicken_047.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411229408-robotchicken_047.jpg" height="144px" /></a>
+### 638206
+**Robot Chicken S02E02 - Federated Resources**  
+TV-MA 🔒 11:11  
+⌛ August 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/federated-resources  
+seriesid=`608360` titleid=`638206` id=`5BiYUpxsQyqSkt9Gi6kj7A` mediaid=`29d4256b6d2f958459979aace7c31bd5bd23021f`  
+_A time-traveling jerk wreaks havoc on history.  Lion-O, leader of the ThunderCats, suffers as an Earth pet.  Clifford the Big Red Dog gets in big, red trouble.  Evel Knievel wows his nursing home._  
+<a href="https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327843539-robotchicken_025.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327843539-robotchicken_025.jpg" height="144px" /></a>
+### 2270599
+**Robot Chicken S11E14 - May Cause Indecision...Or Not**  
+TV-MA 🔒 11:05  
+⌛ June 26, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/may-cause-indecision-or-not  
+seriesid=`608360` titleid=`2270599` id=`AX8Jmcl7208s7zyYUMH3` mediaid=`647340c51f0e05eafb22b374ebc2b094a93cbe5f`  
+_According to Robot Chicken, Fred Flintstone's meaning of Christmas is madness; Freddy Krueger's nightmare is a weirdo's wet dream; We interview a toilet._  
+<a href="https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171632118-RobotChicken_1112_MayCauseIndecisionOrNot.png"><img src="https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171632118-RobotChicken_1112_MayCauseIndecisionOrNot.png" height="144px" /></a>
+### 2270602
+**Robot Chicken S11E16 - May Cause a Squeakquel**  
+TV-MA-V 🔒 10:57  
+⌛ June 26, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/may-cause-a-squeakquel  
+seriesid=`608360` titleid=`2270602` id=`AX9G1rEo208s7zyYUMOm` mediaid=`ac2e386337dd2e68477da4f3331966aaeacfc5a0`  
+_Robot Chicken takes Mojo Jojo's side against the Powerpuff Girls; Nightwing demands criminals butt out; Dilbert dies hard with a vengeance of laughter!_  
+<a href="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311355387-RobotChicken_1115_MayCauseASqueakquel.png"><img src="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311355387-RobotChicken_1115_MayCauseASqueakquel.png" height="144px" /></a>
+### 678052
+**Robot Chicken S03E09 - More Blood, More Chocolate**  
+TV-MA 🔒 10:55  
+⌛ September 18, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/more-blood-more-chocolate  
+seriesid=`608360` titleid=`678052` id=`IGTkH2WUTh2OnE90ox9FUQ` mediaid=`45b02c259323d885a63f20b6adf0ee9945df299f`  
+_An alien invasion isn't quite what it seems. Haunted Houses are common, but not one with THIS kind of ghost! Can Bob the Builder take on the mafia? Probably. "Inside The Battlefield" revisits G.I. Joe's and Cobra's battle of the Weather Dominator, 20 years later._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411230363-robotchicken_049.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411230363-robotchicken_049.jpg" height="144px" /></a>
+### 747254
+**Robot Chicken S04E15 - President Hu Forbids It**  
+TV-MA 🔒 11:18  
+⌛ October 23, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/president-hu-forbids-it  
+seriesid=`608360` titleid=`747254` id=`Iiu8ve4zSF-nQ3fyvDX57g` mediaid=`50bf55f04f4452297891008438223125c41cf7d1`  
+_The Batmobile loses its wheel, spend a night with Jack Sparrow, the creators imagine what happens when Chris Hanson can't catch a predator, plus Gyro-Robo adds some depth to D & D._  
+<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421657287-robotchicken_075.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421657287-robotchicken_075.jpg" height="144px" /></a>
+### 612681
+**Robot Chicken S02E01 - Suck It**  
+TV-MA 🔒 11:19  
+⌛ August 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/suck-it  
+seriesid=`608360` titleid=`612681` id=`m8PrB04QQNCK8Xe-UqFVMQ` mediaid=`0418a1bacb85a5afd60aa8a6b3830746e2ae682a`  
+_Robot Chicken gets un-canceled! Learn tips for fighting... terrorism! Mexico builds its greatest hero in The Six Million Peso Man. Skater McGee is a re-animated corpse, an extreme re-animated corpse!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327843267-robotchicken_021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327843267-robotchicken_021.jpg" height="144px" /></a>
+### 677658
+**Robot Chicken S03E05 - Tapping A Hero**  
+TV-MA 🔒 11:34  
+⌛ September 11, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/tapping-a-hero  
+seriesid=`608360` titleid=`677658` id=`WpYJTnjCQlmJizLpBsxF0g` mediaid=`793896e4b0c23aa2ee998328aeb3fe9e3227f32f`  
+_Law & Order has never been chicken... until now. President Bush gets a Gremlin, and the world suffers. Don't miss The 33-Year-Old Virgin, starring Jesus. Smokey the Bear remembers where he got his name. Stan Lee and Pamela Anderson reveal super-powered gossip on Superheroes Tonight._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411228316-robotchicken_045.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411228316-robotchicken_045.jpg" height="144px" /></a>
+### 712500
+**Robot Chicken S03E02 - Tubba Bubba's Now Hubba Hubba**  
+TV-MA 🔒 11:27  
+⌛ September 25, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/tubba-bubbas-now-hubba-hubba  
+seriesid=`608360` titleid=`712500` id=`JSHazczRQQqDpEV3yEWhFg` mediaid=`c9c0745f1be0bf97f762ae6d64af63e55f1f514c`  
+_The Super Friends make way for The Super Pets. The Carmen Sandiego host has girlfriend troubles. Pac-Man learns that he's been living in the Matrix. The car version of Voltron get to the rescue as fast as it can. The Cenobites guest star on Girls Gone Wild. 24 focuses on the night hours as Drac takes down the terrorists._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411143167-robotchicken_042.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411143167-robotchicken_042.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-2194549 Gemusetto: 1  
-437532 Futurama: 1  
-581006 American Dad: 2  
-629835 King of the Hill: 1  
-### 2065456
-**Bob's Burgers S05E08 - Midday Run**  
-TV-PG 🔒 21:28  
-⌛ April 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/midday-run  
-seriesid=`2003422` titleid=`2065456` id=`cciQCvIBR2eWcB2fCfDcOA` mediaid=`0a052de313d208d17b6bb470df4195c3df4cd3a8`  
-_When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the job so she enlists the help of Gene and Louise. Back at the restaurant, Linda begins to decorate the walls with customer artwork on napkins._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/midday-run/bobsburgers_417_air_cid-2M4FG.jpg" height="144px" /></a>
-### 2065454
-**Bob's Burgers S05E07 - Tina Tailor Soldier Spy**  
-TV-PG-DL 🔒 21:43  
-⌛ April 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/tina-tailor-soldier-spy  
-seriesid=`2003422` titleid=`2065454` id=`nmcdZVZUR8iGAUPGiABYIQ` mediaid=`65908625d24382510d50ce1b9f85f1b24162b774`  
-_Tina goes undercover to find the mole who is giving away their cookie secrets. Tired of the kids counting her gray hairs, Linda goes blonde. When she starts making dumb mistakes at work, Bob worries being blonde has gone to her head!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tina-tailor-soldier-spy/bobsburgers_415_air_cid-2M049.jpg" height="144px" /></a>
-### 2241831
-**Gemusetto S02E06 - Episode Six: D7#9**  
-TV-MA-L 🔒 11:15  
-⌛ April 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/gemusetto/episode-six-d-7-9  
-seriesid=`2194549` titleid=`2241831` id=`AXW5UJxxLyLQBOXK_Pg3` mediaid=`3899d10596255070113c51fc69b69f33afb10c8d`  
-_The ferry has crashed into the Inuit frozen underworld of Adlivun- but the Hindu death god Yama is waiting for them! Can Makasu escape the religious entities trying to judge his soul?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111735131-GSMP_206_dup-20201104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111735131-GSMP_206_dup-20201104.jpg" height="144px" /></a>
-### 2161647
-**Futurama S09E02 - A Farewell to Arms**  
-TV-14-DLV 🔒 22:40  
-⌛ April 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/a-farewell-to-arms  
-seriesid=`437532` titleid=`2161647` id=`AYD7622H208s7zyYUM-P` mediaid=`6b8b9864bfc9f3e17620021f77f384794aef9645`  
-_An ancient prophecy predicts the world will end in the year 3012._  
-<a href="https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251152235-Futurama_902_AFarewellToArms.png"><img src="https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251152235-Futurama_902_AFarewellToArms.png" height="144px" /></a>
-### 2069558
-**American Dad S13E05 - (You Gotta) Strike for Your Right**  
-TV-14-DLSV 🔒 21:02  
-⌛ April 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/you-gotta-strike-for-your-right  
-seriesid=`581006` titleid=`2069558` id=`AWBGCJbQwdpKFAKSb0FQ` mediaid=`1de57ad7b65fa747c811f1d1bfc0ae638219da07`  
-_Hayley witnesses harsh working conditions at the CIA and encourages action._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg" height="144px" /></a>
-### 2069557
-**American Dad S13E04 - The Mural of the Story**  
-TV-14-DLSV 🔒 21:02  
-⌛ April 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-mural-of-the-story  
-seriesid=`581006` titleid=`2069557` id=`HaM_sE0HSDqPRAv4ZnXN5g` mediaid=`5a836cfd83e71e2a3d6a031f1f85d373681dd25c`  
-_Hayley becomes a town outcast after Stan ruins a town mural. Steve attends clown school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg" height="144px" /></a>
-### 731570
-**King of the Hill S12E06 - Behind Closed Doors**  
-TV-PG-DL 🔒 22:46  
-⌛ April 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/behind-closed-doors  
-seriesid=`629835` titleid=`731570` id=`1F5XYiiFRpG-Jr7EDwemEg` mediaid=`50fb0e62e2a07d56c735cf995c9c7ebcd88e7e04`  
-_When a family "guru" shames Peggy at a school meeting, Peggy tries to bring her family closer together... causing Hank and Bobby to actively avoid her instead._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203508684519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203508684519.jpg" height="144px" /></a>
+608360 Robot Chicken: 1  
+812206 Naruto: Shippuden: 1  
+### 826668
+**Robot Chicken S05E02 - Terms of Endaredevil**  
+TV-14-DLSV 🔒 11:14  
+⌛ April 2, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/terms-of-endaredevil  
+seriesid=`608360` titleid=`826668` id=`LXwFOeqPRwGDcakNrw_T8Q` mediaid=`a8b244897f0560f18a48d2bb8f109597937e6108`  
+_Discover the secret origins of Mo-Larr, Eternian Destist! Lara Croft makes a terrifying find in a tomb, He-Man's father proves that sometimes the apple falls very, very far from the tree, and the creators imagine how Gargamel might finally get the best of the Smurf's in Smurfitar!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421742371-robotchicken_082_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421742371-robotchicken_082_BIM.jpg" height="144px" /></a>
+### 2177852
+**Naruto: Shippuden S08E06 - The Ones Who Will Inherit**  
+TV-14-DS 🔒 21:49  
+⌛ April 2, 2023 at 05:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-ones-who-will-inherit  
+seriesid=`812206` titleid=`2177852` id=`AYUWpg9_uLQD-MTtYfGH` mediaid=`c4864d642f3f0d5097be0bf781b3f01a69f9bb79`  
+_It's been three years since Naruto set out to train with Jiraiya, and he's just returned to the Hidden Leaf Village._  
+<a href="https://media.cdn.adultswim.com/uploads/20221217/thumbnails/2_22121719672-NarutoShippuden422tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20221217/thumbnails/2_22121719672-NarutoShippuden422tiny.png" height="144px" /></a>
