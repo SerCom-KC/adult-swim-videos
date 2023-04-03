@@ -42,5 +42,96 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230319/thumbnails/2_23319145476-RoyalCrackersStill008.png",
         "id": "AYb1SbTo4k01GlbfzrYu",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1682306940,
+        "tms_id": "EP046747480002",
+        "description": "Theo kicks off his solo career by going on a world tour. Meanwhile, back at the Hornsby Manor, Stebe and Deb take the opportunity to experiment with hard drugs.",
+        "title_suggest": {
+            "input": [
+                "Theo's Comeback Tour",
+                "Comeback Tour",
+                "Tour"
+            ]
+        },
+        "title": "Theo's Comeback Tour",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYbq0iTJ4k01GlbfzrYt",
+        "duration": 1312.0107,
+        "episode_number": "2",
+        "original_air_date": 1680492600,
+        "auth_launch_date": 1680492600,
+        "clip_order": null,
+        "airing_id": "RADS1003292300080798",
+        "media_id": "ad8196686319563aedab9ad39c029dcf017d0503",
+        "modified": 1680419333,
+        "slug": "theos-comeback-tour",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/1_2341163877-RoyalCrackers104Still001tiny.png",
+        "created": 1680109467,
+        "title_id": "2388929",
+        "season_number": "1",
+        "tv_rating": "tv-ma-l",
+        "published": 1680419333,
+        "tags": [],
+        "collection_title": "Royal Crackers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_2341163877-RoyalCrackers104Still001tiny.png",
+        "id": "AYcuU_XI4k01GlbfzrY4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1682308740,
+        "tms_id": "EP046747480003",
+        "description": "Royal Crackers' most profitable factory is due for an inspection, but when a brand new no-nonsense health inspector arrives, the team has to work extra hard to make sure Factory 37 is up to code.",
+        "title_suggest": {
+            "input": [
+                "Factory 37",
+                "37"
+            ]
+        },
+        "title": "Factory 37",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYbq0iTJ4k01GlbfzrYt",
+        "duration": 1277.0092,
+        "episode_number": "3",
+        "original_air_date": 1680494400,
+        "auth_launch_date": 1680494400,
+        "clip_order": null,
+        "airing_id": "RADS1003292300080800",
+        "media_id": "0429c6266d74272b2fe99a6b16b9074fa2ca2f20",
+        "modified": 1680381529,
+        "slug": "factory-37",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/1_23411638394-RoyalCrackers103Still001tiny.png",
+        "created": 1680109663,
+        "title_id": "2388928",
+        "season_number": "1",
+        "tv_rating": "tv-ma-l",
+        "published": 1680381529,
+        "tags": [],
+        "collection_title": "Royal Crackers",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_23411638394-RoyalCrackers103Still001tiny.png",
+        "id": "AYcuVvSp4k01GlbfzrY5",
+        "auth": true
     }
 ]
