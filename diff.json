@@ -1,6 +1,7 @@
 {
-    "updated": 1680487154,
-    "added": [
+    "updated": 1680488359,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447360440,
@@ -66,64 +67,6 @@
             "auth": true,
             "ott_launch_date": 1447360500,
             "auth_expiration_date": 1680494340,
-            "tms_id": "EP007259620103",
-            "rating": 6.4682093,
-            "description": "The creators re-imagine the moment before death in Reaped, Dora the Explorer conquers Mt. Everest, God gets busted in the Garden of Eden and witness the most horrifyingly hysterical car clown crash in history.",
-            "title_suggest": {
-                "input": [
-                    "The Curious Case of The Box",
-                    "Curious Case of The Box",
-                    "Case of The Box",
-                    "of The Box",
-                    "The Box",
-                    "Box"
-                ]
-            },
-            "type": "episode",
-            "title": "The Curious Case of The Box",
-            "expiration_date": 1590551999,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 672.4337671,
-            "episode_number": "17",
-            "original_air_date": 1323664200,
-            "clip_order": null,
-            "auth_launch_date": 1672635600,
-            "modified": 1680486888,
-            "media_id": "7f6900a7ba04f2e59043e3d31ce1034584846e83",
-            "airing_id": "RADS1012312200056728",
-            "id": "Z4YzL56ETUWEH5QQ_Hn1PQ",
-            "slug": "the-curious-case-of-the-box",
-            "views": 192714,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461133256-robotchicken_097_BIM.jpg",
-            "created": 1402945474,
-            "title_id": "862619",
-            "season_number": "5",
-            "tv_rating": "tv-ma",
-            "active": false,
-            "ott_expiration_date": null,
-            "published": 1680486888,
-            "tags": [],
-            "rating_count": 2076,
-            "collection_title": "Robot Chicken",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1569384000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461133256-robotchicken_097_BIM.jpg",
-            "cma_id": "1449407",
-            "collection_slug": "robot-chicken",
-            "collection_title_id": "608360",
-            "online_exclusives": false
-        },
-        {
-            "auth": true,
-            "ott_launch_date": 1447360500,
-            "auth_expiration_date": 1680494340,
             "tms_id": "EP007259620106",
             "rating": 6.0247197,
             "description": "Remember when MTV used to actually be about music? The MTV logo does and it's out for revenge. The Robot Chicken Nerd dreams of hanging out with Michael Knight from Knight Rider. A bunch of Spock's from the future gather for a surprise party and the creators imagine what television will be like in the year 2013.",
@@ -178,6 +121,5 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
