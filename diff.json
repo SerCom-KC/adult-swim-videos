@@ -1,7 +1,6 @@
 {
-    "updated": 1680536960,
-    "added": [],
-    "removed": [
+    "updated": 1680557057,
+    "added": [
         {
             "ott_launch_date": 1525703400,
             "auth": true,
@@ -40,7 +39,7 @@
             "auth_launch_date": 1671512400,
             "clip_order": null,
             "media_id": "a243e0e0f2340677d3b823bdeba2965d54b9f3df",
-            "modified": 1671255895,
+            "modified": 1680556899,
             "airing_id": "RADS1012172200051798",
             "id": "AWMYkggTTdxzjxdClrpg",
             "slug": "chaste-wing-of-the-cold-turkey-vs-flaming-fist-of-indulgence",
@@ -52,7 +51,7 @@
             "season_number": "1",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1671255895,
+            "published": 1680556899,
             "tags": [],
             "collection_title": "Ballmastrz: 9009",
             "modified_by": "ODT Listener",
@@ -62,5 +61,6 @@
             "collection_title_id": "2137894",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
