@@ -839,7 +839,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152364685750110.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1523889000,
         "auth_expiration_date": 1690257540,
         "tms_id": "EP029156490004",
@@ -1007,7 +1007,7 @@
     },
     {
         "ott_launch_date": 1525098600,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1680580740,
         "tms_id": "EP029156490008",
         "description": "Feeling unappreciated by his teammates, Ace finds comfort in a bizarre new vice that leaves him with an unhealthy appetite.",
@@ -1114,6 +1114,63 @@
         "modified_by": "ODT Listener",
         "launch_date": 1679976000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152414868765314.jpg"
+    },
+    {
+        "ott_launch_date": 1525703400,
+        "auth": true,
+        "auth_expiration_date": 1681185540,
+        "tms_id": "EP029156490009",
+        "description": "Desperate to lose her beer gut by game day, Gaz trains under the master of washboard abs, Flypp Champion.",
+        "title_suggest": {
+            "input": [
+                "Chaste Wing of the Cold Turkey vs Flaming Fist of Indulgence!",
+                "Wing of the Cold Turkey vs Flaming Fist of Indulgence!",
+                "of the Cold Turkey vs Flaming Fist of Indulgence!",
+                "the Cold Turkey vs Flaming Fist of Indulgence!",
+                "Cold Turkey vs Flaming Fist of Indulgence!",
+                "Turkey vs Flaming Fist of Indulgence!",
+                "vs Flaming Fist of Indulgence!",
+                "Flaming Fist of Indulgence!",
+                "Fist of Indulgence!",
+                "of Indulgence!",
+                "Indulgence!"
+            ]
+        },
+        "title": "Chaste Wing of the Cold Turkey vs Flaming Fist of Indulgence!",
+        "type": "episode",
+        "expiration_date": 1671512340,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWHiPblUNWyh42wYnlGd",
+        "duration": 677.17,
+        "episode_number": "9",
+        "original_air_date": 1525665600,
+        "auth_launch_date": 1680580800,
+        "clip_order": null,
+        "media_id": "a243e0e0f2340677d3b823bdeba2965d54b9f3df",
+        "modified": 1680558696,
+        "airing_id": "RADS1004032300081814",
+        "id": "AWMYkggTTdxzjxdClrpg",
+        "slug": "chaste-wing-of-the-cold-turkey-vs-flaming-fist-of-indulgence",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152528629636012.jpg",
+        "created": 1525125613,
+        "title_id": "2137903",
+        "tv_rating": "tv-14-lv",
+        "season_number": "1",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1680558696,
+        "tags": [],
+        "collection_title": "Ballmastrz: 9009",
+        "modified_by": "ODT Listener",
+        "launch_date": 1668488400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152528629636012.jpg"
     },
     {
         "ott_launch_date": 1525703400,
