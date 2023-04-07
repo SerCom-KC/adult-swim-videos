@@ -1,11 +1,58 @@
 {
-    "updated": 1680792197,
-    "added": [],
-    "removed": [
+    "updated": 1680840025,
+    "added": [
+        {
+            "auth_expiration_date": 1681444740,
+            "tms_id": "EP003034830132",
+            "description": "The Professor is deeply disturbed when his parents return from virtual retirement aboard the Near-Death Star.",
+            "title_suggest": {
+                "input": [
+                    "Near-Death Wish",
+                    "Wish"
+                ]
+            },
+            "title": "Near-Death Wish",
+            "expiration_date": null,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AX3EZD2dUQa40cfnRS9d",
+            "duration": 1360.0587,
+            "episode_number": "10",
+            "original_air_date": "1656293400",
+            "auth_launch_date": 1680840000,
+            "clip_order": null,
+            "airing_id": "RADS1004032300081823",
+            "media_id": "5ab70fe8d6131130d8b679ab271c1a515ddc8063",
+            "modified": 1680560211,
+            "slug": "near-death-wish",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211416352-Futurama_910_NearDeathWish.png",
+            "created": 1655835402,
+            "season_number": "9",
+            "title_id": "2161655",
+            "tv_rating": "tv-14-dl",
+            "published": 1680560211,
+            "tags": [],
+            "collection_title": "Futurama",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211416352-Futurama_910_NearDeathWish.png",
+            "id": "AYGHex9h3sQvipyea9U5",
+            "auth": true,
+            "collection_slug": "futurama",
+            "collection_title_id": "437532",
+            "online_exclusives": false
+        },
         {
             "auth": true,
             "ott_launch_date": 1447347540,
-            "auth_expiration_date": 1680839940,
+            "auth_expiration_date": 1692071940,
             "tms_id": "EP007259620022",
             "rating": 6.4009895,
             "description": "Fred and Barney brawl over a box of Fruity Pebbles. Kids have fun with the Phyllis Diller Spray-n-Play. An Egyptian pharaoh builds a pyramid of Legos.",
@@ -28,9 +75,9 @@
             "episode_number": "3",
             "original_air_date": 1145244600,
             "clip_order": null,
-            "auth_launch_date": 1671771600,
-            "modified": 1680787955,
-            "airing_id": "RADS1012212200053709",
+            "auth_launch_date": 1680840000,
+            "modified": 1680791916,
+            "airing_id": "RADS1004062300082162",
             "media_id": "8268fa004af170fb3bf3336b72397df774f6dedd",
             "id": "lQ7jVB4zQTuEzxtbsay5hw",
             "slug": "easter-basket",
@@ -44,7 +91,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1680787955,
+            "published": 1680791916,
             "tags": [
                 "robot chicken rc easter basket episode 22"
             ],
@@ -57,6 +104,56 @@
             "cma_id": "",
             "collection_slug": "robot-chicken",
             "collection_title_id": "608360",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth_expiration_date": 1680839940,
+            "tms_id": "EP003034830127",
+            "description": "Leela is horrified when her mother begins dating Zapp Brannigan.",
+            "title_suggest": {
+                "input": [
+                    "Zapp Dingbat",
+                    "Dingbat"
+                ]
+            },
+            "title": "Zapp Dingbat",
+            "type": "episode",
+            "expiration_date": null,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AX3EZD2dUQa40cfnRS9d",
+            "duration": 1355.2205,
+            "episode_number": "5",
+            "original_air_date": 1655082000,
+            "auth_launch_date": 1680235200,
+            "clip_order": null,
+            "airing_id": "RADS1003272300080285",
+            "media_id": "7b59d8a32b492a921d98665446b3c3dbbe1d5229",
+            "modified": 1680072469,
+            "slug": "zapp-dingbat",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691645323-Futurama_905_ZappDingbat.png",
+            "created": 1654739459,
+            "title_id": "2161650",
+            "season_number": "9",
+            "tv_rating": "tv-14-d",
+            "published": 1680072469,
+            "tags": [],
+            "collection_title": "Futurama",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691645323-Futurama_905_ZappDingbat.png",
+            "id": "AYFGKF0d208s7zyYUNFt",
+            "auth": true,
+            "collection_slug": "futurama",
+            "collection_title_id": "437532",
             "online_exclusives": false
         }
     ]
