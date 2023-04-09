@@ -594,7 +594,7 @@
         "launch_date": 1680420600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230311/thumbnails/2_233112016338-MHA127Still001tiny.png",
         "id": "AYa4XNfU4k01GlbfzrYo",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1685246399,
@@ -734,7 +734,7 @@
         "launch_date": 1681025400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230318/thumbnails/2_23318215499-MHA129till001tiny.png",
         "id": "AYbgkNj2uLQD-MTtYgkc",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1681027140,
@@ -970,6 +970,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_23411640361-MHAS6134Still001tiny.png",
         "id": "AYclfnVJ4k01GlbfzrY1",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1682839740,
+        "tms_id": "EP034435300140",
+        "description": "As Izuku goes off alone in his quest for justice, his classmates realize something is wrong and try to find a way to help him.",
+        "title_suggest": {
+            "input": [
+                "Friend"
+            ]
+        },
+        "title": "Friend",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1348.981,
+        "episode_number": "22",
+        "original_air_date": 1681012800,
+        "auth_launch_date": 1681025400,
+        "clip_order": null,
+        "airing_id": "RADS1004072300082483",
+        "media_id": "1fb210a8061c552c87c271347cda71ad4c8889e3",
+        "modified": 1680967016,
+        "slug": "friend",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230408/thumbnails/1_23481116405-MHA135Still001tiny.png",
+        "created": 1680883337,
+        "title_id": "2417797",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1680967016,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230408/thumbnails/2_23481116405-MHA135Still001tiny.png",
+        "id": "AYdcdEjzuLQD-MTtYg6M",
         "auth": true
     }
 ]
