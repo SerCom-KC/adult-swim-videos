@@ -1,7 +1,6 @@
 {
-    "updated": 1681049600,
-    "added": [],
-    "removed": [
+    "updated": 1681051939,
+    "added": [
         {
             "auth_expiration_date": 1681099140,
             "tms_id": "EP034917240264",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1012242200056153",
             "media_id": "b0119500e159c8de6a6e391dd3b762691a8d6d12",
-            "modified": 1671866360,
+            "modified": 1681051777,
             "slug": "team-7-assemble",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_221271552397-NarutoShippuden_373_Team7Assemble.png",
@@ -38,7 +37,7 @@
             "title_id": "2177803",
             "season_number": "7",
             "tv_rating": "tv-pg",
-            "published": 1671866360,
+            "published": 1681051777,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
