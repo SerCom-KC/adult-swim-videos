@@ -1,6 +1,51 @@
 [
     {
         "auth_expiration_date": 1690257540,
+        "tms_id": "EP037451480001",
+        "description": "The season is summer! Soma and his friends are now facing the final exams. The test is to run a \"Beach House\" on a beach packed with tourists and achieve sales of 3 million yen in 3 days!",
+        "title_suggest": {
+            "input": [
+                "Final Exams",
+                "Exams"
+            ]
+        },
+        "title": "Final Exams",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWuvYf7tCorLtcgflrvU",
+        "duration": 1377.8431,
+        "episode_number": "1",
+        "original_air_date": 1679202000,
+        "auth_launch_date": 1681099200,
+        "clip_order": null,
+        "airing_id": "RADS1004092300082727",
+        "media_id": "faf41a3a04ee9a44b873a7be705458ec314907d8",
+        "modified": 1681055415,
+        "slug": "final-exams",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230319/thumbnails/1_233191552493-FoodWarsS5Ep01Still001tiny.png",
+        "created": 1678902811,
+        "title_id": "2371491",
+        "season_number": "5",
+        "tv_rating": "tv-ma-s",
+        "published": 1681055415,
+        "tags": [],
+        "collection_title": "Food Wars!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230319/thumbnails/2_233191552493-FoodWarsS5Ep01Still001tiny.png",
+        "id": "AYbmZ9qm4k01GlbfzrYs",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1690257540,
         "tms_id": "EP037451480002",
         "description": "A world cooking competition \"THE BLUE\" was announced to be held. Three slots were available for Totsuki Culinary Institute. With that seat on the line, a \"Blue Prequel\" will be held that is open to all students in the academy!",
         "title_suggest": {
