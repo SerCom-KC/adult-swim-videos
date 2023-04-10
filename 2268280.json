@@ -995,7 +995,7 @@
         "launch_date": 1679889600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210924/thumbnails/2_21924102337-YashahimePrincessHalfDemon_113_TheDeliciousFeudalMonks.png",
         "id": "AXwDg-xi4Xbjep71f6HD",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1680494340,
@@ -1373,6 +1373,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221549374-YashahimePrincessHalfDemon_205_TheGirlNamedRion.png",
         "id": "AYLHGp3lIAxeiVkFtLRe",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1681617540,
+        "tms_id": "EP036780850054",
+        "description": "Setsuna is kidnapped by Princess Aiya, daughter of the deputy shogun, who begs Setsuna to be her body double for a day so she can escape her studies.",
+        "title_suggest": {
+            "input": [
+                "Hisui the Demon Slayer",
+                "the Demon Slayer",
+                "Demon Slayer",
+                "Slayer"
+            ]
+        },
+        "title": "Hisui the Demon Slayer",
+        "type": "episode",
+        "expiration_date": 1665907140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXpED60VBH5Z6gH5aWXi",
+        "duration": 1334.9336,
+        "episode_number": "6",
+        "original_air_date": 1662265800,
+        "auth_launch_date": 1681099200,
+        "clip_order": null,
+        "airing_id": "RADS1004092300082721",
+        "media_id": "4acd49a5eafc5e038461cefb68b9f2a1c48c4159",
+        "modified": 1681053345,
+        "slug": "hisui-the-demon-slayer",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/1_22829154892-YashahimePrincessHalfDemon_206_HisuiTheDemonSlayer.png",
+        "created": 1661793214,
+        "title_id": "2394825",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "published": 1681053345,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664092800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220829/thumbnails/2_22829154892-YashahimePrincessHalfDemon_206_HisuiTheDemonSlayer.png",
+        "id": "AYLqmCB5IAxeiVkFtLRi",
+        "auth": true
     },
     {
         "auth_expiration_date": 1681617540,
