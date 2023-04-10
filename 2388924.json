@@ -133,5 +133,49 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_23411638394-RoyalCrackers103Still001tiny.png",
         "id": "AYcuVvSp4k01GlbfzrY5",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1682909940,
+        "tms_id": "EP046747480004",
+        "description": "When Theo's old charismatic friend and former bandmate shows up unexpectedly at the Hornsby Manor, Stebe is thrown into a full-blown identity crisis.",
+        "title_suggest": {
+            "input": [
+                "Stebe"
+            ]
+        },
+        "title": "Stebe",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYbq0iTJ4k01GlbfzrYt",
+        "duration": 1291.6237,
+        "episode_number": "4",
+        "original_air_date": 1681095600,
+        "auth_launch_date": 1681095600,
+        "clip_order": null,
+        "airing_id": "RADS1004032300082000",
+        "media_id": "18a96a9cb1538997bd155d4afcb0cb268ddf5a86",
+        "modified": 1680967446,
+        "slug": "stebe",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230408/thumbnails/1_23481123529-RoyalCrackers102Still001tiny.png",
+        "created": 1680540572,
+        "title_id": "2388927",
+        "season_number": "1",
+        "tv_rating": "tv-ma-l",
+        "published": 1680967446,
+        "tags": [],
+        "collection_title": "Royal Crackers",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230408/thumbnails/2_23481123529-RoyalCrackers102Still001tiny.png",
+        "id": "AYdIBhrj4k01GlbfzrY9",
+        "auth": true
     }
 ]
