@@ -1,7 +1,6 @@
 {
-    "updated": 1681239638,
-    "added": [],
-    "removed": [
+    "updated": 1681243229,
+    "added": [
         {
             "auth_expiration_date": 1679198340,
             "tms_id": "EP036530620004",
@@ -31,7 +30,7 @@
             "clip_order": null,
             "airing_id": "RADS1005162100099163",
             "media_id": "7218145f06c73c32b058d39ea398c2d310bcae0b",
-            "modified": 1675879769,
+            "modified": 1681242686,
             "slug": "episode-four-c-major",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201111/thumbnails/1_2011111732516-GSMP_204_dup-20201030.jpg",
@@ -39,7 +38,7 @@
             "title_id": "2241829",
             "season_number": "2",
             "tv_rating": "tv-14-dlv",
-            "published": 1675879769,
+            "published": 1681242686,
             "tags": [],
             "collection_title": "Gemusetto",
             "disable_ads": false,
@@ -52,5 +51,6 @@
             "collection_title_id": "2194549",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
