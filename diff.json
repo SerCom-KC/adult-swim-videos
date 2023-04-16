@@ -1,20 +1,21 @@
 {
-    "updated": 1681637475,
-    "added": [
+    "updated": 1681674199,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1705899540,
-            "tms_id": "",
-            "description": "Team Jiraiya, Shikamaru, and his Leaf teammates are lured into a mysterious village during their battle.",
+            "auth_expiration_date": 1681703940,
+            "tms_id": "EP034917240266",
+            "description": "Kakashi holds on to the hope that Obito can return to being the young man that he remembers. But Obito has abandoned the present as well as the memories of his friends and will not try to stop the Infinite Tsukuyomi.",
             "title_suggest": {
                 "input": [
-                    "Order of Priority",
-                    "of Priority",
-                    "Priority"
+                    "Kakashi vs. Obito",
+                    "vs. Obito",
+                    "Obito"
                 ]
             },
-            "title": "Order of Priority",
-            "type": "episode",
+            "title": "Kakashi vs. Obito",
             "expiration_date": null,
+            "type": "episode",
             "platforms": [
                 "android",
                 "ios",
@@ -22,34 +23,33 @@
                 "fire-tv"
             ],
             "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.7104,
-            "episode_number": "19",
-            "original_air_date": 1681624800,
-            "auth_launch_date": 1681637400,
+            "duration": 1311.6104,
+            "episode_number": "27",
+            "original_air_date": "1644134400",
+            "auth_launch_date": 1672635600,
             "clip_order": null,
-            "airing_id": "RADS1004112300083798",
-            "media_id": "d02e7b6ed81500ed109a55ef19b4dafd7098d1b1",
-            "modified": 1681603665,
-            "slug": "order-of-priority",
+            "airing_id": "RADS1012302200056689",
+            "media_id": "0e2aa534f0f2e9a29ffd5122022a7e9ee59ae362",
+            "modified": 1672499687,
+            "slug": "kakashi-vs-obito",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230415/thumbnails/1_2341520783-narutoshippuden435Still001tiny.png",
-            "created": 1681237465,
-            "title_id": "2177865",
-            "season_number": "8",
-            "tv_rating": "tv-pg",
-            "published": 1681603665,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/1_2223158395-NarutoShippuden_375_KakashiVsObito.png",
+            "created": 1643918933,
+            "season_number": "7",
+            "title_id": "2177805",
+            "tv_rating": "tv-14-v",
+            "published": 1672499687,
             "tags": [],
             "collection_title": "Naruto: Shippuden",
             "disable_ads": false,
-            "modified_by": "Jonas Eason",
+            "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230415/thumbnails/2_2341520783-narutoshippuden435Still001tiny.png",
-            "id": "AYdxj9nz4k01GlbfzrZC",
+            "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223158395-NarutoShippuden_375_KakashiVsObito.png",
+            "id": "AX7BNDzT_0O4w1rD3RmF",
             "auth": true,
             "collection_slug": "naruto-shippuden",
             "collection_title_id": "812206",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
