@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 16, 2023 at 16:00:22 EDT_
+_Last Update: April 16, 2023 at 23:30:16 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177805
-**Naruto: Shippuden S07E27 - Kakashi vs. Obito**  
-TV-14-V 🔒 21:51  
-⌛ April 16, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/naruto-shippuden/kakashi-vs-obito  
-seriesid=`812206` titleid=`2177805` id=`AX7BNDzT_0O4w1rD3RmF` mediaid=`0e2aa534f0f2e9a29ffd5122022a7e9ee59ae362`  
-_Kakashi holds on to the hope that Obito can return to being the young man that he remembers. But Obito has abandoned the present as well as the memories of his friends and will not try to stop the Infinite Tsukuyomi._  
-<a href="https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223158395-NarutoShippuden_375_KakashiVsObito.png"><img src="https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223158395-NarutoShippuden_375_KakashiVsObito.png" height="144px" /></a>
+2388924 Royal Crackers: 1  
+### 2388930
+**Royal Crackers S01E05 - Business Mom**  
+TV-MA-L 🔒 22:31  
+⌛ May 7, 2023 at 22:59:00 EDT  
+https://www.adultswim.com/videos/royal-crackers/business-mom  
+seriesid=`2388924` titleid=`2388930` id=`AYdxkG5H4k01GlbfzrZD` mediaid=`3bb168d599ed3ae16a192913b21e454baa446584`  
+_Deb becomes the target of intense internet backlash after an altercation at the local grocery store earns her widespread infamy._  
+<a href="https://media.cdn.adultswim.com/uploads/20230415/thumbnails/2_23415205343-RoyalCrackers105Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230415/thumbnails/2_23415205343-RoyalCrackers105Still001tiny.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
