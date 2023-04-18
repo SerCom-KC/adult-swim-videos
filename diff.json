@@ -1,6 +1,7 @@
 {
-    "updated": 1681826423,
-    "added": [
+    "updated": 1681828216,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": 1679803140,
             "tms_id": "EP036530620005",
@@ -49,55 +50,6 @@
             "collection_slug": "gemusetto",
             "collection_title_id": "2194549",
             "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1682222340,
-            "tms_id": "EP036780850055",
-            "description": "Takechiyo hires Moroha to help him with the familial strife at his home. Kohaku teaches Towa an important lesson about learning to run away.",
-            "title_suggest": {
-                "input": [
-                    "Takechiyo's Request",
-                    "Request"
-                ]
-            },
-            "title": "Takechiyo's Request",
-            "expiration_date": 1683431940,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AXpED60VBH5Z6gH5aWXi",
-            "duration": 1334.9336,
-            "episode_number": "7",
-            "original_air_date": "1662870600",
-            "auth_launch_date": 1681617600,
-            "clip_order": null,
-            "airing_id": "RADS1004142300086331",
-            "media_id": "b4c5cf2aae0f35f96f8f91f8eaefdca6617de39b",
-            "modified": 1681825047,
-            "slug": "takechiyos-request",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/1_2296135994-YashahimePrincessHalfDemon_207_TakechiyosRequest.png",
-            "created": 1662487159,
-            "season_number": "2",
-            "title_id": "2394826",
-            "tv_rating": "tv-14-l",
-            "published": 1681825047,
-            "tags": [],
-            "collection_title": "Yashahime: Princess Half-Demon",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1682222400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_2296135994-YashahimePrincessHalfDemon_207_TakechiyosRequest.png",
-            "id": "AYMT9ORFIAxeiVkFtLRn",
-            "auth": true,
-            "collection_slug": "yashahime-princess-half-demon",
-            "collection_title_id": "2268280",
-            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
