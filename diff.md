@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 21, 2023 at 12:30:16 EDT_
+_Last Update: April 21, 2023 at 16:30:19 EDT_
 ## Video added
-### Summary
-608360 Robot Chicken: 1  
-### 2139705
-**Robot Chicken S09E11 - Never Forget**  
-TV-MA 🔒 11:11  
-⌛ May 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/never-forget  
-seriesid=`608360` titleid=`2139705` id=`AWDbfVsEZ-onAnjDLt2p` mediaid=`8ef81bfcb1a04e90db72cb100b1f18d8bff9923b`  
-_The minds at Robot Chicken uncover the real reason Indiana Jones hates snakes. Maxwell Lord gets an inside look at Supergirl's weakness. Date My Mom focuses on Jessica Rabbit's huge... personality._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461317421-robotchicken_911_dup-20180119.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461317421-robotchicken_911_dup-20180119.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2104364 Hot Streets: 1  
+### 2184500
+**Hot Streets S02E03 - Super Agent 2**  
+TV-14-DLSV 🔓 11:13  
+⌛ January 31, 2036 at 00:00:00 EST  
+https://www.adultswim.com/videos/hot-streets/super-agent-2  
+seriesid=`2104364` titleid=`2184500` id=`AWd2L_OJAsbXwNj3wAW-` mediaid=`9e91a365050b6c02d8206a3b7524b8357d863781`  
+_Chubbie Webbers must confront his dark past._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351529104-hotstreets_205_dup-20190221.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351529104-hotstreets_205_dup-20190221.jpg" height="144px" /></a>
