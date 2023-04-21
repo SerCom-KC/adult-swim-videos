@@ -971,7 +971,7 @@
         "cma_id": "1458650"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1444591800,
         "auth_expiration_date": 1682567940,
         "tms_id": "EP014698040027",
@@ -982,7 +982,7 @@
                 "Day"
             ]
         },
-        "expiration_date": 2085368400,
+        "expiration_date": 1685591940,
         "title": "Parent's Day",
         "type": "episode",
         "platforms": [
@@ -996,9 +996,9 @@
         "original_air_date": 1431315000,
         "clip_order": null,
         "auth_launch_date": 1670475600,
-        "modified": 1670442211,
+        "modified": 1682102736,
         "media_id": "99a4bb7ce653af262f55698d34bf30b78321db8f",
-        "airing_id": "RADS1012072200050103",
+        "airing_id": "RADS1004212300089086",
         "id": "aLp7cIYnRXmQCLlw8W-jqA",
         "slug": "parents-day",
         "views": 35808,
@@ -1011,13 +1011,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1670442211,
+        "published": 1682102736,
         "first_published": 1431138025,
         "tags": [],
         "collection_title": "China, IL",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1549256400,
+        "launch_date": 1682568000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_203217165-chinail_305_dup-20150501.jpg",
         "cma_id": "1393588"
     },
@@ -1490,7 +1490,7 @@
     {
         "auth": false,
         "ott_launch_date": 1444591560,
-        "auth_expiration_date": 1679543940,
+        "auth_expiration_date": 1697687940,
         "tms_id": "EP014698040021",
         "description": "Frank and Steve compete over their annual \"Gentleman's Bet\"; The Dean & The Mayor solicit Pony & Baby Cakes\u2019 help for a Think Tank.",
         "title_suggest": {
@@ -1513,10 +1513,10 @@
         "episode_number": "1",
         "original_air_date": 1428291000,
         "clip_order": null,
-        "auth_launch_date": 1675227600,
-        "modified": 1680419336,
+        "auth_launch_date": 1682568000,
+        "modified": 1682102754,
         "media_id": "e72d2c67f679cb950a35bb54abc8f6ea43825566",
-        "airing_id": "RADS1002011900064699",
+        "airing_id": "RADS1004212300089088",
         "id": "zVDpMnfZRvq34r_5N1UDqQ",
         "slug": "a-gentlemans-bet",
         "views": 9,
@@ -1529,7 +1529,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1680419336,
+        "published": 1682102754,
         "first_published": 1428325630,
         "tags": [],
         "collection_title": "China, IL",
