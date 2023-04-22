@@ -2,68 +2,103 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 22, 2023 at 00:00:17 EDT_
+_Last Update: April 22, 2023 at 00:30:22 EDT_
 ## Video added
 ### Summary
-629835 King of the Hill: 1  
-581268 Squidbillies: 2  
-### 785971
-**King of the Hill S13E12 - Uncool Customer**  
-TV-PG-D 🔒 22:49  
+581006 American Dad: 2  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+### 2197411
+**American Dad S15E07 - Exquisite Corpses**  
+ 🔒 21:02  
 ⌛ April 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/uncool-customer  
-seriesid=`629835` titleid=`785971` id=`XeaBCkBLSX23aUekfA6aiw` mediaid=`150fc0508dad2fa52ed3e0d3a0746bf75289ddbf`  
-_When Peggy realizes she's uncool, she befriends Katt Savage, the coolest mom at Bobby's cotillion classes, in hopes of becoming her new best friend... and therefore becoming cool again._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152934039407518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152934039407518.jpg" height="144px" /></a>
-### 859425
-**Squidbillies S06E05 - Keeping it in the Family Way**  
-TV-14-DLV 🔒 11:06  
-⌛ May 5, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/keeping-it-in-the-family-way  
-seriesid=`581268` titleid=`859425` id=`WtBwyTy0TGapQAzfwkP_gw` mediaid=`439271c2d87d0274e9b8034b5c6ff76f181a6d0f`  
-_Rusty discovers the joys of being a teenage father._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131323136-squidbillies_506_dup-20111007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131323136-squidbillies_506_dup-20111007.jpg" height="144px" /></a>
-### 859424
-**Squidbillies S06E04 - The Big E**  
-TV-14-DLV 🔒 11:25  
-⌛ May 5, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-big-e  
-seriesid=`581268` titleid=`859424` id=`ZoBoo4GbQaaiYtVgISkrjg` mediaid=`17a3fdef98c45287b2826a21c685a1291b8876da`  
-_Early brings his message to the people whether they want it or not._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322433-squidbillies_505_dup-20110930.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322433-squidbillies_505_dup-20110930.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/exquisite-corpses  
+seriesid=`581006` titleid=`2197411` id=`AXb4G8ksQJ_4Uej5kTlK` mediaid=`83c801007ef3898ce418504c1898599f811c5d21`  
+_Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results!_  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg" height="144px" /></a>
+### 2197414
+**American Dad S15E08 - Trophy Wife, Trophy Life**  
+ 🔒 21:02  
+⌛ April 28, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/trophy-wife-trophy-life  
+seriesid=`581006` titleid=`2197414` id=`AXb4HCXgQJ_4Uej5kTlL` mediaid=`f4444aa8c9bfb8a8d5128dda59f68160e7bb47c6`  
+_After Stan is injured, Francine nurses him back to health and he becomes dependent to her. The family discovers Tuttle is a Korean reality show star._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg" height="144px" /></a>
+### 2003427
+**Bob's Burgers S01E05 - Hamburger Dinner Theater**  
+TV-PG-DLV 🔒 21:16  
+⌛ April 28, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/hamburger-dinner-theater  
+seriesid=`2003422` titleid=`2003427` id=`fiET6YUKQF66U8IFgneXWQ` mediaid=`e16606aaa61acf8500480a4b7bf17289cd886f57`  
+_Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151491857883213.jpg" height="144px" /></a>
+### 2003428
+**Bob's Burgers S01E06 - Sheesh! Cab, Bob?**  
+TV-PG-DLS 🔒 21:34  
+⌛ April 28, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/sheesh-cab-bob  
+seriesid=`2003422` titleid=`2003428` id=`Z-2JQXrqSduNuyz2syFZpQ` mediaid=`d9899f9b7dc1c51961aa7724d5e25a8c4dc21e95`  
+_Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob is forced to takes a second job as a late-night cab driver to pay for Tina's party. The situation worsens when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088799923017.jpg" height="144px" /></a>
+### 2161666
+**Futurama S10E08 - Assie Come Home**  
+TV-14-DLSV 🔒 22:32  
+⌛ April 28, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/assie-come-home  
+seriesid=`437532` titleid=`2161666` id=`AYJfdIRSIAxeiVkFtLQz` mediaid=`6651976788cfb6d2a3b854e122d366696849af5c`  
+_Bender searches the universe for his missing shiny metal rear end._  
+<a href="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247194-Futurama_1008_AssieComeHome.png"><img src="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247194-Futurama_1008_AssieComeHome.png" height="144px" /></a>
 ## Video removed
 ### Summary
-581268 Squidbillies: 3  
-629835 King of the Hill: 1  
-### 859420
-**Squidbillies S06E06 - Snow Daddy**  
-TV-14-DLV 🔒 11:04  
+2003422 Bob's Burgers: 2  
+2143080 Black Clover: 1  
+437532 Futurama: 1  
+581006 American Dad: 2  
+### 2097202
+**Bob's Burgers S06E14 - The Hormone-Iums**  
+TV-PG 🔒 21:41  
 ⌛ April 21, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/snow-daddy  
-seriesid=`581268` titleid=`859420` id=`VG75RWhuSm-p4S7BiiIDZg` mediaid=`85a09dd92d0a6d1ba96e74fe2c7e32f21c446f5b`  
-_Early's parenting skills are called into question by a magical snowman._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131323464-squidbillies_501_dup-20111014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131323464-squidbillies_501_dup-20111014.jpg" height="144px" /></a>
-### 859421
-**Squidbillies S06E03 - Velvet Messiah**  
-TV-14-DLV 🔒 11:16  
+https://www.adultswim.com/videos/bobs-burgers/the-hormone-iums  
+seriesid=`2003422` titleid=`2097202` id=`euSDjeK-Qb2-zdr4qGcPog` mediaid=`525bf3b62874b79784500af9a87e7e2d622eca18`  
+_When Dottie Minerva comes down with a bad case of mono, Tina gets her shot as soloist of the Hormone-iums. But as she rehearses for the big assembly, Tina realizes that her role in the play could ruin her social status. Meanwhile, Linda strikes gold with a business plan that she thinks could make the Belchers rich._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg" height="144px" /></a>
+### 2097203
+**Bob's Burgers S06E15 - Pro Tiki/Con Tiki**  
+TV-PG 🔒 21:41  
 ⌛ April 21, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/velvet-messiah  
-seriesid=`581268` titleid=`859421` id=`uxyvFbcYQzyY5G6cTRwjQA` mediaid=`2cd84feb6f15358b92a5cd4d1b05a1d3e0d57932`  
-_Early proves he's smarter than a town full of idiots._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322183-squidbillies_502_dup-20110908.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322183-squidbillies_502_dup-20110908.jpg" height="144px" /></a>
-### 859423
-**Squidbillies S06E02 - Class of '86**  
-TV-14-DLSV 🔒 11:01  
+https://www.adultswim.com/videos/bobs-burgers/pro-tiki-con-tiki  
+seriesid=`2003422` titleid=`2097203` id=`vHn_yL2YSJaGa4pHqijGZg` mediaid=`85023daed95dfa1e0fa1f0a4a36b43b3f6bbbb4e`  
+_When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/pro-tikicon-tiki/bobsburgers_603_air_cid-2X68J.jpg" height="144px" /></a>
+### 2222861
+**Black Clover S03E16 - A Reunion Across Time and Space**  
+TV-PG-V 🔓 22:52  
 ⌛ April 21, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/class-of-86  
-seriesid=`581268` titleid=`859423` id=`yER7qQefRTKcRvquLkPDZw` mediaid=`156304fac509c8293d493d74bcbcc5e41b80ea86`  
-_At his high school reunion, the Sheriff settles an old score._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg" height="144px" /></a>
-### 757054
-**King of the Hill S13E07 - Straight As An Arrow**  
-TV-PG-DV 🔒 22:46  
+https://www.adultswim.com/videos/black-clover/a-reunion-across-time-and-space  
+seriesid=`2143080` titleid=`2222861` id=`AXIyUC2BC8QgH-t19JOK` mediaid=`cac1fcb245ff50d1c16ddfdc289bf3aea31f3554`  
+_A flashback to the truth behind the first Wizard King's battle against the demon serves as prelude for a new face joining the fight against the devil._  
+<a href="https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_2052094091-BlackClover_118.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200520/thumbnails/2_2052094091-BlackClover_118.jpg" height="144px" /></a>
+### 2161661
+**Futurama S10E03 - T.: The Terrestrial**  
+TV-14-DLV 🔒 22:32  
 ⌛ April 21, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/straight-as-an-arrow  
-seriesid=`629835` titleid=`757054` id=`bnIVJC93R8SXLo_Chw761g` mediaid=`da73d0de720778bd159a365b2ac942af6186c236`  
-_Hank organizes a Cub Scouts-like group that he belonged to as a child, but is frustrated by the new, cautious activities used to educate members; Peggy becomes a Welcome Wagon host; Lucky and Luanne collect wedding gifts._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152899041822513.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152899041822513.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/futurama/t-the-terrestrial  
+seriesid=`437532` titleid=`2161661` id=`AYHy4ru-IAxeiVkFtLQX` mediaid=`d4f1406c4210c8e62fc50105f46ee4f31c91a236`  
+_After being marooned on an distant planet, Fry is befriended by a young monster._  
+<a href="https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_22712104959-Futurama_1003_TTheTerrestrial.png"><img src="https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_22712104959-Futurama_1003_TTheTerrestrial.png" height="144px" /></a>
+### 2186665
+**American Dad S14E16 - Pride Before the Fail**  
+TV-14-DLSV 🔒 21:02  
+⌛ April 21, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/pride-before-the-fail  
+seriesid=`581006` titleid=`2186665` id=`AXKUOAGSRs3h4hI_X4BT` mediaid=`c9c61867f1ca82d3738108bd043f804f5c8bc157`  
+_Roger tries to force Hayley into graduating from community college so he can move into her room. Klaus repairs Francine's car._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg" height="144px" /></a>
+### 2186666
+**American Dad S14E17 - Enter Stanman**  
+TV-14-DLSV 🔒 21:03  
+⌛ April 21, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/enter-stanman  
+seriesid=`581006` titleid=`2186666` id=`AXKUOGgeRs3h4hI_X4BU` mediaid=`3ad0a60c7bcb55e7429f8cabb9eac16eb0bf8230`  
+_Roger helps Stan enter Francine's dreams after he becomes insecure about their contents._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg" height="144px" /></a>
