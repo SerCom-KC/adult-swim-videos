@@ -878,7 +878,7 @@
         "launch_date": 1681632000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230324/thumbnails/2_233241625460-MHA132Still001tiny.png",
         "id": "AYcLWZq7uLQD-MTtYgrN",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1682234940,
@@ -970,7 +970,7 @@
         "launch_date": 1682236800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230401/thumbnails/2_23411640361-MHAS6134Still001tiny.png",
         "id": "AYclfnVJ4k01GlbfzrY1",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1683446340,
@@ -1108,6 +1108,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230408/thumbnails/2_23481118163-MHA136Still001tiny.png",
         "id": "AYdcdWG74k01GlbfzrY-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1684051140,
+        "tms_id": "EP034435300143",
+        "description": "As Izuku tries to rest and recover back at U.A. with his classmates, All Might has an encounter with Stain that leads to new information about Shigaraki and All For One.",
+        "title_suggest": {
+            "input": [
+                "No Man Is An Island",
+                "Man Is An Island",
+                "Is An Island",
+                "An Island",
+                "Island"
+            ]
+        },
+        "title": "No Man Is An Island",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWLf4YziHAeP4-pUPegM",
+        "duration": 1365.8645,
+        "episode_number": "25",
+        "original_air_date": 1682224200,
+        "auth_launch_date": 1682236800,
+        "clip_order": null,
+        "airing_id": "RADS1004192300088406",
+        "media_id": "4925dfb6b3f5146c44ef2615849fe53c83c82973",
+        "modified": 1682172051,
+        "slug": "no-man-is-an-island",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230422/thumbnails/1_2342210036-MHA138.Still001tiny.png",
+        "created": 1681916474,
+        "title_id": "2417800",
+        "season_number": "6",
+        "tv_rating": "tv-14-v",
+        "published": 1682172051,
+        "tags": [],
+        "collection_title": "My Hero Academia",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230422/thumbnails/2_2342210036-MHA138.Still001tiny.png",
+        "id": "AYeaCLRTuLQD-MTtYhFB",
         "auth": true
     }
 ]
