@@ -1,7 +1,6 @@
 {
-    "updated": 1682623823,
-    "added": [],
-    "removed": [
+    "updated": 1682638223,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447347540,
@@ -28,7 +27,7 @@
             "original_air_date": 1147059000,
             "clip_order": null,
             "auth_launch_date": 1671771600,
-            "modified": 1671609290,
+            "modified": 1682636852,
             "airing_id": "RADS1012212200053714",
             "media_id": "f93f8bfcbd44f5441d4cfd8d737e522efd5ea728",
             "id": "9v1InzlVRgmzAi1uRHK0gg",
@@ -42,7 +41,7 @@
             "tv_rating": "tv-ma",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1671609290,
+            "published": 1682636852,
             "tags": [
                 "robot chicken rc 1987 episode 23"
             ],
@@ -57,5 +56,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
