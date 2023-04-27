@@ -1,7 +1,6 @@
 {
-    "updated": 1682520021,
-    "added": [],
-    "removed": [
+    "updated": 1682555772,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1447787160,
@@ -27,7 +26,7 @@
             "original_air_date": 1439180100,
             "clip_order": null,
             "auth_launch_date": 1645678800,
-            "modified": 1679247700,
+            "modified": 1682555503,
             "airing_id": "RADS1003192300078069",
             "media_id": "b3abf70645626550580666f407e97f0b24253152",
             "id": "zI3vELSzR2u7G4Naw36Dyw",
@@ -39,7 +38,7 @@
             "tv_rating": "tv-14-dlv",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1679247700,
+            "published": 1682555503,
             "first_published": 1439018420,
             "tags": [],
             "collection_title": "Your Pretty Face is Going to Hell",
@@ -51,5 +50,6 @@
             "collection_title_id": "828177",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
