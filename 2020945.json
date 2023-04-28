@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1682654340,
         "tms_id": "EP019059960007",
@@ -167,7 +167,7 @@
         "cma_id": "2020973"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1694750340,
         "tms_id": "EP019059960003",
@@ -226,7 +226,7 @@
         "cma_id": "1361025"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1682654340,
         "tms_id": "EP019059960058",
@@ -477,7 +477,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1682654340,
         "tms_id": "EP019059960066",
         "description": "The Scouts take a stand against a new enemy, but it's not just Titans they'll be fighting anymore.",
@@ -1006,7 +1006,7 @@
         "launch_date": 1681444800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251637343-attackontitan_049_dup-20181106.jpg",
         "id": "AWbu1YiT3OEkyfT4qJSV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -2933,7 +2933,7 @@
         "cma_id": "1445703"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1688702340,
         "tms_id": "EP019059960056",
