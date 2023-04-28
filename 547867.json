@@ -106,7 +106,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451681820,
         "auth_expiration_date": 1685678340,
         "tms_id": "EP007008200004",
@@ -264,6 +264,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1677819600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834325-tgttm_001.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451681940,
+        "auth_expiration_date": 1671166740,
+        "tms_id": "EP007008200012",
+        "rating": 8.220001,
+        "description": "Joy's ex-husband Todd pairs up with Tom to create a reality show called Mister Entrepreneur.  Special guest: David Cross.",
+        "title_suggest": {
+            "input": [
+                "Calcucorn"
+            ]
+        },
+        "type": "episode",
+        "title": "Calcucorn",
+        "expiration_date": 1685678340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 704.97,
+        "episode_number": "10",
+        "original_air_date": 1115611200,
+        "clip_order": null,
+        "auth_launch_date": 1668142800,
+        "modified": 1682231032,
+        "airing_id": "RADS1004212300089158",
+        "media_id": "c6bc3136fc31cf5dcd0808569cf125519e529e63",
+        "id": "ZYbGOLW1R2G3kxieouRcKA",
+        "slug": "calcucorn",
+        "views": 97216,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117837116-tgttm_010.jpg",
+        "created": 1402945482,
+        "title_id": "614454",
+        "season_number": "1",
+        "tv_rating": "tv-pg-lv",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1682231032,
+        "tags": [
+            "tom goes to the mayor tgttm episode 10 calcucorn joy todd ex husband mister entrepeneur david cross"
+        ],
+        "rating_count": 300,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1682654400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117837116-tgttm_010.jpg",
         "cma_id": ""
     },
     {
@@ -426,58 +478,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1682049600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836424-tgttm_008.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1451682780,
-        "auth_expiration_date": 1682654340,
-        "tms_id": "EP007008200029",
-        "rating": 7.8767123,
-        "description": "Tom attempts a Puddins fast after his son dies from a pudding overdose.",
-        "title_suggest": {
-            "input": [
-                "Puddins"
-            ]
-        },
-        "type": "episode",
-        "title": "Puddins",
-        "expiration_date": 1679630340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 689.59,
-        "episode_number": "16",
-        "original_air_date": 1158553800,
-        "clip_order": null,
-        "auth_launch_date": 1679630400,
-        "modified": 1680419329,
-        "airing_id": "RADS1003212300078533",
-        "media_id": "6a45f932e82c3566c20519993ffe56803c07849d",
-        "id": "vS_eh_iFSnGPtZqWXQU6AA",
-        "slug": "puddins",
-        "views": 110939,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117958215-tgttm_029.jpg",
-        "created": 1402945482,
-        "title_id": "639412",
-        "season_number": "2",
-        "tv_rating": "tv-14-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1680419329,
-        "tags": [
-            "tom goes to the mayor episode 29 puddins pudding overdose son death"
-        ],
-        "rating_count": 438,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1676610000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958215-tgttm_029.jpg",
         "cma_id": ""
     }
 ]
