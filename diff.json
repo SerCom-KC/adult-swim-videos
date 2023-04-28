@@ -1,7 +1,6 @@
 {
-    "updated": 1682688942,
-    "added": [],
-    "removed": [
+    "updated": 1682691027,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447445580,
@@ -28,7 +27,7 @@
             "original_air_date": 1319427900,
             "clip_order": null,
             "auth_launch_date": 1670648400,
-            "modified": 1670529230,
+            "modified": 1682690846,
             "media_id": "527c4f8f73a3d076e925ff8d424416be57ed5521",
             "airing_id": "RADS1012082200050398",
             "id": "Ca9IOiV6Q7uVi256uQKcXg",
@@ -43,7 +42,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1670529230,
+            "published": 1682690846,
             "tags": [],
             "rating_count": 401,
             "collection_title": "Squidbillies",
@@ -52,62 +51,6 @@
             "launch_date": 1542690000,
             "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131324101-squidbillies_507_dup-20111018.jpg",
             "cma_id": "1394522",
-            "collection_slug": "squidbillies",
-            "collection_title_id": "581268",
-            "online_exclusives": false
-        },
-        {
-            "auth": true,
-            "ott_launch_date": 1447445580,
-            "auth_expiration_date": 1682740740,
-            "tms_id": "EP007008180069",
-            "rating": 7.4578314,
-            "description": "Scoot over, alcohol and inhalants, Early has a new addiction.",
-            "title_suggest": {
-                "input": [
-                    "The Pharaoh's Wad",
-                    "Pharaoh's Wad",
-                    "Wad"
-                ]
-            },
-            "type": "episode",
-            "title": "The Pharaoh's Wad",
-            "expiration_date": 1598932799,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 659.2085071,
-            "episode_number": "8",
-            "original_air_date": 1320032700,
-            "clip_order": null,
-            "auth_launch_date": 1670648400,
-            "modified": 1670529230,
-            "media_id": "2947b72ddf13ed9f6fb3a483feac6fe25a642bb1",
-            "airing_id": "RADS1012082200050399",
-            "id": "K2dDfpWVTN2UI4K8A215ow",
-            "slug": "the-pharaohs-wad",
-            "views": 108058,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131324352-squidbillies_508_dup-20111025.jpg",
-            "created": 1402945477,
-            "title_id": "859427",
-            "season_number": "6",
-            "tv_rating": "tv-14-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1670529230,
-            "tags": [],
-            "rating_count": 249,
-            "collection_title": "Squidbillies",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1542690000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131324352-squidbillies_508_dup-20111025.jpg",
-            "cma_id": "1397696",
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
@@ -143,7 +86,7 @@
             "original_air_date": 1320641100,
             "clip_order": null,
             "auth_launch_date": 1670648400,
-            "modified": 1670529505,
+            "modified": 1682690848,
             "media_id": "76a4518ed9a74aa40ca04edf0bb2bbeb0c9fcda6",
             "airing_id": "RADS1012082200050400",
             "id": "vgWX18xdSeOSVXrX-N0ZVg",
@@ -158,7 +101,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1670529505,
+            "published": 1682690848,
             "tags": [],
             "rating_count": 377,
             "collection_title": "Squidbillies",
@@ -171,5 +114,6 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
