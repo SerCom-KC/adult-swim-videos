@@ -1,7 +1,6 @@
 {
-    "updated": 1683039628,
-    "added": [],
-    "removed": [
+    "updated": 1683041428,
+    "added": [
         {
             "auth_expiration_date": 1681012740,
             "tms_id": "EP036530620007",
@@ -28,9 +27,9 @@
             "original_air_date": "1607238000",
             "auth_launch_date": 1677992400,
             "clip_order": null,
-            "airing_id": "RADS1002272300073464",
+            "airing_id": "RADS1005162100099155",
             "media_id": "4a349c888b9d5e556a95faa1a1a6d972ae0a100f",
-            "modified": 1678984336,
+            "modified": 1683041148,
             "slug": "episode-seven-eb-maj-7",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201118/thumbnails/1_2011181458402-GSMP_207_dup-20201116.jpg",
@@ -38,7 +37,7 @@
             "season_number": "2",
             "title_id": "2241832",
             "tv_rating": "tv-ma-l",
-            "published": 1678984336,
+            "published": 1683041148,
             "tags": [],
             "collection_title": "Gemusetto",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "2194549",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
