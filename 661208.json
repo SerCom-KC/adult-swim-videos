@@ -800,6 +800,71 @@
         "cma_id": "1380845"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447785060,
+        "auth_expiration_date": 1674968340,
+        "tms_id": "EP008994530043",
+        "rating": 8.13122,
+        "description": "Eric hits pubbs naturally before Tim, causing Tim to seek out synthetic ways to activate pubbs to catch up with Eric. Fortin' with Will. (Guest starring: Will Forte)",
+        "title_suggest": {
+            "input": [
+                "Puberty"
+            ]
+        },
+        "type": "episode",
+        "title": "Puberty",
+        "expiration_date": 1686110340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Lj6m6y2sSYaRyyzne5GEOQ",
+        "duration": 680.58,
+        "episode_number": "8",
+        "original_air_date": 1268026200,
+        "clip_order": null,
+        "auth_launch_date": 1667102400,
+        "modified": 1682718479,
+        "media_id": "41c7b83c15a3fc19c1188d2ba635e7369e402f25",
+        "airing_id": "RADS1004282300090970",
+        "id": "bsiyptMkQ2CjoM07XeQu1Q",
+        "slug": "puberty",
+        "views": 462107,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161647109-timanderic_508.jpg",
+        "created": 1402945481,
+        "title_id": "787515",
+        "season_number": "5",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1682718479,
+        "tags": [
+            "tim and eric",
+            "awesome show",
+            "great job",
+            "puberty",
+            "eric",
+            "pubbs",
+            "tim",
+            "synthetic",
+            "way",
+            "activate",
+            "fortin",
+            "will",
+            "forte"
+        ],
+        "rating_count": 3666,
+        "collection_title": "Tim and Eric Awesome Show Great Job!",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1683086400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161647109-timanderic_508.jpg",
+        "cma_id": "1438926"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447784460,
         "auth_expiration_date": 1705467540,
@@ -851,7 +916,7 @@
         "cma_id": "1352293"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784760,
         "auth_expiration_date": 1711511940,
         "tms_id": "EP008994530037",
