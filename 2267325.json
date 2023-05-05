@@ -43,5 +43,52 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230503/thumbnails/2_23531756341-UnicornWarriorsEternal.Still002tiny.png",
         "id": "AYfi6NMaOz5CkuTcnvFa",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1685075340,
+        "tms_id": "EP047080820002",
+        "description": "Melinda and Copernicus seek the remaining heroes of Unicorn while the supernatural evil unleashes a sinister force to stop them.",
+        "title_suggest": {
+            "input": [
+                "The Awakening, Part 2",
+                "Awakening, Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "title": "The Awakening, Part 2",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "duration": 1277.276,
+        "collection_id": "AYfiJVHMOz5CkuTcnvFU",
+        "episode_number": "2",
+        "original_air_date": 1683261000,
+        "auth_launch_date": 1683261000,
+        "clip_order": null,
+        "airing_id": "RADS1005012300091881",
+        "media_id": "a199b62b2a0dad5742dab719b4cdc08b588a3192",
+        "modified": 1683150978,
+        "slug": "the-awakening-part-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230503/thumbnails/1_2353175629-UnicornWarriorsEternal002.Still002tiny.png",
+        "created": 1683139123,
+        "title_id": "2267327",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "published": 1683150978,
+        "tags": [],
+        "collection_title": "Unicorn: Warriors Eternal",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230503/thumbnails/2_2353175629-UnicornWarriorsEternal002.Still002tiny.png",
+        "id": "AYfi6NhKOz5CkuTcnvFb",
+        "auth": true
     }
 ]
