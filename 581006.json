@@ -238,6 +238,95 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1684036740,
+        "tms_id": "EP007164450398",
+        "description": "Hayley searches for guidance and instead finds a community of 'cool butts.'",
+        "title_suggest": {
+            "input": [
+                "Hot Scoomp",
+                "Scoomp"
+            ]
+        },
+        "title": "Hot Scoomp",
+        "type": "episode",
+        "expiration_date": 1670821140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.0942,
+        "episode_number": "11",
+        "original_air_date": 1625448600,
+        "auth_launch_date": 1683432000,
+        "clip_order": null,
+        "airing_id": "RADS1005012300092134",
+        "media_id": "2f2f7fb709b0cd1188b9560e2e044e0a7e1303e0",
+        "modified": 1683003884,
+        "slug": "hot-scoomp",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340120-AmericanDad_1512_HotScoomp.png",
+        "created": 1642781345,
+        "title_id": "2238759",
+        "season_number": "16",
+        "tv_rating": "tv-14-dlv",
+        "published": 1683003884,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670216400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340120-AmericanDad_1512_HotScoomp.png",
+        "id": "AX59Zgif_0O4w1rD3RcN",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1684036740,
+        "tms_id": "EP007164450400",
+        "description": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
+        "title_suggest": {
+            "input": [
+                "Lumberjerk"
+            ]
+        },
+        "title": "Lumberjerk",
+        "type": "episode",
+        "expiration_date": 1670821140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.0941,
+        "episode_number": "12",
+        "original_air_date": 1626053400,
+        "auth_launch_date": 1683432000,
+        "clip_order": null,
+        "airing_id": "RADS1005012300092132",
+        "media_id": "11018cfacd61e2bb8703877903746e1bb8e12b21",
+        "modified": 1683006288,
+        "slug": "lumberjerk",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340534-AmericanDad_1514_Lumberjerk.png",
+        "created": 1642781391,
+        "title_id": "2238761",
+        "season_number": "16",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1683006288,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1670216400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340534-AmericanDad_1514_Lumberjerk.png",
+        "id": "AX59Zrim208s7zyYUL9w",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1683950340,
         "tms_id": "EP007164450395",
         "description": "Roger reveals a secret passion to Klaus; Stan and Francine seek revenge on Bazooka Sharks management.",
@@ -926,96 +1015,6 @@
         "launch_date": 1682913600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068957301-americandad_1318_air_cid-3YD31.jpg",
         "id": "AXKUOOtwC8QgH-t19Jj5",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1683431940,
-        "tms_id": "EP007164450378",
-        "description": "American Dad becomes the 25th scripted prime-time show in the History of Television to reach 300 episodes and Roger's past comes back to haunt him.",
-        "title_suggest": {
-            "input": [
-                "300"
-            ]
-        },
-        "title": "300",
-        "expiration_date": 1674104399,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1264.0627,
-        "episode_number": "21",
-        "original_air_date": "1600653600",
-        "auth_launch_date": 1682827200,
-        "clip_order": null,
-        "airing_id": "RADS1004242300089309",
-        "media_id": "4d67d1eb1b77c40809691229a30388a97ddf2acc",
-        "modified": 1682415237,
-        "slug": "300",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/1_21113949113-americandad_1422_air_cid-K3JHT-300.jpg",
-        "created": 1610549354,
-        "season_number": "15",
-        "title_id": "2197426",
-        "tv_rating": "",
-        "published": 1682415237,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1673240400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113949113-americandad_1422_air_cid-K3JHT-300.jpg",
-        "id": "AXb8ON6mQJ_4Uej5kTlT",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1683431940,
-        "tms_id": "EP007164450380",
-        "description": "After Stan's plan for the perfect Christmas goes terribly, tragically wrong, he's given a magical opportunity to make things right.",
-        "title_suggest": {
-            "input": [
-                "Yule. Tide. Repeat.",
-                "Tide. Repeat.",
-                "Repeat."
-            ]
-        },
-        "title": "Yule. Tide. Repeat.",
-        "expiration_date": 1674104399,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.7615,
-        "episode_number": "22",
-        "original_air_date": "1609122600",
-        "auth_launch_date": 1682827200,
-        "clip_order": null,
-        "airing_id": "RADS1004242300089307",
-        "media_id": "fb90927f4fbef6705e4718ae0987fe4d521ff1f4",
-        "modified": 1682415795,
-        "slug": "yule-tide-repeat",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/1_21113949297-americandad_1408_air_cid-C5RRG-YuleTideRepeat.jpg",
-        "created": 1610549373,
-        "season_number": "15",
-        "title_id": "2197412",
-        "tv_rating": "",
-        "published": 1682415795,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1673240400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113949297-americandad_1408_air_cid-C5RRG-YuleTideRepeat.jpg",
-        "id": "AXb8OSllbxpjZvbXYl-H",
         "auth": false
     }
 ]
