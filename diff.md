@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 8, 2023 at 04:30:22 EDT_
+_Last Update: May 8, 2023 at 06:00:20 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2165429 The Shivering Truth: 1  
-### 2172250
-**The Shivering Truth S01E04 - ConstaDeath**  
-TV-MA-V 🔓 11:16  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-shivering-truth/consta-death  
-seriesid=`2165429` titleid=`2172250` id=`AWeE-I91AsbXwNj3wAaA` mediaid=`df27ea0f422a6f3f599dd79252ee22378dc2d337`  
-_Die once, shame on you.  Die once every three seconds, shame on us all._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154473089725510.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177824
+**Naruto: Shippuden S07E46 - The New Chunin Exams**  
+TV-PG 🔒 21:48  
+⌛ January 21, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/the-new-chunin-exams  
+seriesid=`812206` titleid=`2177824` id=`AYE6iorm_0O4w1rD3SWM` mediaid=`c8c10038ed87d4a03f9c368f1ecdc97fe3c7720b`  
+_Naruto loses Kurama during his battle against Madara and is near death. As Tsunade and the other Leaf Village shinobi watch in fear, they are reminded that Naruto has always been their symbol of hope, even when he was not with them…_  
+<a href="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691644189-NarutoShippuden_394_TheNewChuninExams.jpg"><img src="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691644189-NarutoShippuden_394_TheNewChuninExams.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
