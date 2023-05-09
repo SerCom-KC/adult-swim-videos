@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 9, 2023 at 04:30:22 EDT_
+_Last Update: May 9, 2023 at 06:30:22 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2194549 Gemusetto: 1  
-### 2241833
-**Gemusetto S02E08 - Episode Eight: E9**  
-TV-MA-LS 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-eight-e-9  
-seriesid=`2194549` titleid=`2241833` id=`AXYfUGqdbxpjZvbXYlg3` mediaid=`e7a7b5183285c3b883590845d639f0638744349b`  
-_Makasu totally misconstrues all the friendship advice Dr. Legs has been giving him during his redemption arc. With our hero out of commission, do drastic measures have to be taken to save the universe?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_201211218485-GSMP_208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_201211218485-GSMP_208.jpg" height="144px" /></a>
+812206 Naruto: Shippuden: 1  
+### 2177806
+**Naruto: Shippuden S07E28 - The Directive to Take the Nine-Tails!**  
+TV-PG 🔒 21:49  
+⌛ May 9, 2023 at 06:29:00 EDT  
+https://www.adultswim.com/videos/naruto-shippuden/the-directive-to-take-the-nine-tails  
+seriesid=`812206` titleid=`2177806` id=`AX7ani6S208s7zyYUMCH` mediaid=`ee50b89d98ffcd86c59acb4d2e071e78d204c973`  
+_Part 1 of a special two-part extra edition! The townspeople are going about their daily business on the streets of the Leaf Village when someone suddenly appears and starts sending them flying!_  
+<a href="https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281334567-NarutoShippuden_376_TheDirectiveToTakeTheNineTails.png"><img src="https://media.cdn.adultswim.com/uploads/20220208/thumbnails/2_22281334567-NarutoShippuden_376_TheDirectiveToTakeTheNineTails.png" height="144px" /></a>
