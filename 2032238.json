@@ -2,54 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1683691140,
-        "tms_id": "EP020020000041",
-        "description": "Yung goes on Spring Break and the team sort of tags along.",
-        "title_suggest": {
-            "input": [
-                "Spring Break",
-                "Break"
-            ]
-        },
-        "title": "Spring Break",
-        "type": "episode",
-        "expiration_date": 1677646740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 676,
-        "episode_number": "11",
-        "original_air_date": 1520224200,
-        "clip_order": null,
-        "auth_launch_date": 1677646800,
-        "modified": 1677220656,
-        "media_id": "53493393654b9eec56a93c187642941c4771e66d",
-        "airing_id": "RADS1002172300071251",
-        "id": "-BEvnF5hTPWcL-Le8_o9rg",
-        "slug": "spring-break",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111534390-miketysonmysteries_317_dup-20170811.jpg",
-        "created": 1501791330,
-        "season_number": "3",
-        "title_id": "2117700",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1677220656,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1674622800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111534390-miketysonmysteries_317_dup-20170811.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1685505540,
         "tms_id": "EP020020000044",
         "description": "The team reminisces about their favorite mysteries.",
@@ -386,7 +338,7 @@
         "launch_date": 1680667200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15617511403472.jpg",
         "id": "AWufn0iLCorLtcgflrku",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -437,6 +389,56 @@
         "launch_date": 1681272000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156175115133219.jpg",
         "id": "AWufn3MyCorLtcgflrkv",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1668574740,
+        "tms_id": "EP020020000057",
+        "description": "Star crossed young lovers from feuding families ask the team for help.",
+        "title_suggest": {
+            "input": [
+                "The Monahans and MacGoverns",
+                "Monahans and MacGoverns",
+                "and MacGoverns",
+                "MacGoverns"
+            ]
+        },
+        "title": "The Monahans and MacGoverns",
+        "type": "episode",
+        "expiration_date": 1686715140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 699.8658,
+        "episode_number": "6",
+        "original_air_date": 1563164100,
+        "auth_launch_date": 1662523200,
+        "clip_order": null,
+        "airing_id": "RADS1005052300093364",
+        "media_id": "fd2036e7654efbb97b0b88440e94f72d0287686b",
+        "modified": 1683303608,
+        "slug": "the-monahans-and-mac-governs",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15629589008057.jpg",
+        "created": 1562894285,
+        "title_id": "2172003",
+        "season_number": "4",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1683303608,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1683691200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15629589008057.jpg",
+        "id": "AWvjwjydCorLtcgflsBq",
         "auth": false
     },
     {
