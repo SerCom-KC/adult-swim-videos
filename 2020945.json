@@ -226,7 +226,7 @@
         "cma_id": "1361025"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1689911940,
         "tms_id": "EP019059960058",
@@ -477,7 +477,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1689911940,
         "tms_id": "EP019059960066",
         "description": "The Scouts take a stand against a new enemy, but it's not just Titans they'll be fighting anymore.",
@@ -524,7 +524,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1683863940,
         "tms_id": "EP019059960068",
         "description": "On the run and running out of time, the Scouts must entrust their lives to others if they plan on surviving.",
@@ -2982,7 +2982,7 @@
         "cma_id": "2117209"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1683863940,
         "tms_id": "EP019059960060",
@@ -3142,7 +3142,7 @@
         "cma_id": "1377146"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1683863940,
         "tms_id": "EP019059960014",
@@ -4194,61 +4194,6 @@
         "launch_date": 1676610000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251158134-attackontitan_004.jpg",
         "cma_id": "1444062"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1680839940,
-        "tms_id": "EP019059960037",
-        "description": "Plans are created to use Eren's Titan powers to seal the hole in the wall in an attempt reclaim Trost. But with the government's bloodstained history and vocal dissenters in the military ranks, the biggest threat to humankind may not be the Titans.",
-        "title_suggest": {
-            "input": [
-                "Idol: The Struggle for Trost, Part 7",
-                "The Struggle for Trost, Part 7",
-                "Struggle for Trost, Part 7",
-                "for Trost, Part 7",
-                "Trost, Part 7",
-                "Part 7",
-                "7"
-            ]
-        },
-        "title": "Idol: The Struggle for Trost, Part 7",
-        "type": "episode",
-        "expiration_date": 1683863940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
-        "duration": 1340.8008008,
-        "episode_number": "11",
-        "original_air_date": 1405827000,
-        "clip_order": null,
-        "auth_launch_date": 1668747600,
-        "modified": 1680562016,
-        "media_id": "845ee7521111edd458d549c8f8c25c3996cb7f82",
-        "airing_id": "RADS1004032300081865",
-        "id": "r9Jl4M3bS6GPmjvIizy7MQ",
-        "slug": "idol-the-struggle-for-trost-part-7",
-        "views": 23883,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_20225122364-attackontitan_011.jpg",
-        "created": 1407370103,
-        "season_number": "1",
-        "title_id": "2020956",
-        "tv_rating": "tv-14-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1680562016,
-        "first_published": 1407370103,
-        "tags": [],
-        "collection_title": "Attack on Titan",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1680840000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225122364-attackontitan_011.jpg",
-        "cma_id": "1369319"
     },
     {
         "auth": true,
