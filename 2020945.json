@@ -2766,7 +2766,7 @@
         "launch_date": 1682740800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271252133-AttackOnTitan_087_TheDawnOfHumanity.png",
         "id": "AYBngyNR_0O4w1rD3SGr",
-        "auth": false
+        "auth": true
     },
     {
         "auth": true,
@@ -4194,6 +4194,61 @@
         "launch_date": 1676610000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251158134-attackontitan_004.jpg",
         "cma_id": "1444062"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1695959940,
+        "tms_id": "EP019059960037",
+        "description": "Plans are created to use Eren's Titan powers to seal the hole in the wall in an attempt reclaim Trost. But with the government's bloodstained history and vocal dissenters in the military ranks, the biggest threat to humankind may not be the Titans.",
+        "title_suggest": {
+            "input": [
+                "Idol: The Struggle for Trost, Part 7",
+                "The Struggle for Trost, Part 7",
+                "Struggle for Trost, Part 7",
+                "for Trost, Part 7",
+                "Trost, Part 7",
+                "Part 7",
+                "7"
+            ]
+        },
+        "title": "Idol: The Struggle for Trost, Part 7",
+        "type": "episode",
+        "expiration_date": 1683863940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "b7A69dzfRzuaXIECdxW8XQ",
+        "duration": 1340.8008008,
+        "episode_number": "11",
+        "original_air_date": 1405827000,
+        "clip_order": null,
+        "auth_launch_date": 1683950400,
+        "modified": 1683910501,
+        "media_id": "645167c817e4d2cd7a9357d85c1110f732ec1fe4",
+        "airing_id": "RADS1005122300095372",
+        "id": "r9Jl4M3bS6GPmjvIizy7MQ",
+        "slug": "idol-the-struggle-for-trost-part-7",
+        "views": 23883,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/1_20225122364-attackontitan_011.jpg",
+        "created": 1407370103,
+        "season_number": "1",
+        "title_id": "2020956",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1683910501,
+        "first_published": 1407370103,
+        "tags": [],
+        "collection_title": "Attack on Titan",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1680840000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225122364-attackontitan_011.jpg",
+        "cma_id": "1369319"
     },
     {
         "auth": true,
