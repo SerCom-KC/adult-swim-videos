@@ -221,7 +221,7 @@
         "launch_date": 1683514800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230415/thumbnails/2_23415205343-RoyalCrackers105Still001tiny.png",
         "id": "AYdxkG5H4k01GlbfzrZD",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1684724340,
@@ -356,6 +356,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230506/thumbnails/2_23561354255-RoyalCrackers108Still001tiny.png",
         "id": "AYfYapcF2rZC6NyF619L",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1685933940,
+        "tms_id": "EP046747480009",
+        "description": "It's time for the team to head to beautiful Primm, Nevada and attend the Super Bowl for global snack food companies, \"CrackerCon.\"",
+        "title_suggest": {
+            "input": [
+                "CrackerCon"
+            ]
+        },
+        "title": "CrackerCon",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYbq0iTJ4k01GlbfzrYt",
+        "duration": 1338.1034,
+        "episode_number": "9",
+        "original_air_date": 1684119600,
+        "auth_launch_date": 1684119600,
+        "clip_order": null,
+        "airing_id": "RADS1005092300094354",
+        "media_id": "0e0fad512b8b2ed20070a79b84896c3b60122031",
+        "modified": 1684018039,
+        "slug": "cracker-con",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230513/thumbnails/1_23513184795-RoyalCrackers109Still003tiny.png",
+        "created": 1683673713,
+        "title_id": "2388934",
+        "season_number": "1",
+        "tv_rating": "tv-ma-l",
+        "published": 1684018039,
+        "tags": [],
+        "collection_title": "Royal Crackers",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230513/thumbnails/2_23513184795-RoyalCrackers109Still003tiny.png",
+        "id": "AYgCxgzNOz5CkuTcnvM0",
         "auth": true
     }
 ]
