@@ -1,7 +1,6 @@
 {
-    "updated": 1684420102,
-    "added": [],
-    "removed": [
+    "updated": 1684421901,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447348080,
@@ -29,7 +28,7 @@
             "original_air_date": 1148873400,
             "clip_order": null,
             "auth_launch_date": 1671771600,
-            "modified": 1671611975,
+            "modified": 1684421671,
             "airing_id": "RADS1012212200053720",
             "media_id": "f60ddc1f8b3149170a27cff7f50293bc1d811da0",
             "id": "NhzngfrOSfq3P4LQr2U5jw",
@@ -43,7 +42,7 @@
             "tv_rating": "tv-ma",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1671611975,
+            "published": 1684421671,
             "tags": [
                 "Matt Senreich",
                 "Seth Green",
@@ -77,5 +76,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
