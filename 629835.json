@@ -50,6 +50,54 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1685159940,
+        "rating": 8.135338,
+        "description": "Much to Peggy's dismay, Hank's sexist father drops by to celebrate Bobby's birthday.",
+        "title_suggest": {
+            "input": [
+                "Shins of the Father",
+                "of the Father",
+                "the Father",
+                "Father"
+            ]
+        },
+        "type": "episode",
+        "title": "Shins of the Father",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1383.2819,
+        "episode_number": "8",
+        "original_air_date": 1230951600,
+        "auth_launch_date": 1684555200,
+        "modified": 1684298650,
+        "airing_id": "RADS1005152300095943",
+        "media_id": "b317c42f77d369643590040ec8ded8898eb542d9",
+        "id": "-o2Bvyo3SumyUWCXaPvHRQ",
+        "slug": "shins-of-the-father",
+        "views": 71434,
+        "created": 1402945468,
+        "title_id": "728409",
+        "season_number": "1",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "published": 1684298650,
+        "tags": [
+            "King of the Hill",
+            " Shins of the Father",
+            " 108"
+        ],
+        "rating_count": 133,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1249012800,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41597.jpg"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1685073540,
         "rating": 7.2788205,
         "description": "Hank is greatly embarrassed when word of his irregularity spreads throughout the community.",
@@ -139,64 +187,6 @@
         "launch_date": 1404526829,
         "poster": "",
         "cma_id": "979700"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1684555140,
-        "rating": 8.230768,
-        "description": "Hank and his friends take Bobby's scout troop on a rite of passage journey in the wilderness.  ",
-        "title_suggest": {
-            "input": [
-                "The Order of the Straight Arrow",
-                "Order of the Straight Arrow",
-                "of the Straight Arrow",
-                "the Straight Arrow",
-                "Straight Arrow",
-                "Arrow"
-            ]
-        },
-        "type": "episode",
-        "title": "The Order of the Straight Arrow",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1390.8561,
-        "episode_number": "3",
-        "original_air_date": 1237516200,
-        "auth_launch_date": 1683950400,
-        "modified": 1683643223,
-        "airing_id": "RADS1005082300094011",
-        "media_id": "9c12eabdd4ec9977e5f60e2450d055f49876c9a9",
-        "id": "pemVazewQ8ydxAN9x63miw",
-        "slug": "the-order-of-the-straight-arrow",
-        "views": 183739,
-        "created": 1402945468,
-        "title_id": "728404",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1683643223,
-        "tags": [
-            "king of the hill",
-            " season 1",
-            " episode 3",
-            " the order of the straight arrow",
-            " hank",
-            " bobby",
-            " scout",
-            " troop",
-            " rite of passage",
-            " journey",
-            " wilderness"
-        ],
-        "rating_count": 312,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1294894800,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_52717.jpg"
     },
     {
         "auth": true,
