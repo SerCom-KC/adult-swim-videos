@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 22, 2023 at 08:30:28 EDT_
+_Last Update: May 22, 2023 at 11:30:21 EDT_
 ## Video added
-### Summary
-2161118 Joe Pera Talks With You: 1  
-### 2298524
-**Joe Pera Talks With You S03E08 - Joe Pera Talks With You About Legacy**  
-TV-14 🔒 10:47  
-⌛ June 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-talks-with-you-about-legacy  
-seriesid=`2161118` titleid=`2298524` id=`AX2AzKOMUQa40cfnRS18` mediaid=`b5a6b450585322d19c54df4f31cfcbeac4958339`  
-_You and Joe Pera consider legacy and loss while watching playoff football with the extended Melsky family._  
-<a href="https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_2112395721-JoePeraTalksWIthYou_308_JoePeraTalksWithYouAboutLegacy.png"><img src="https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_2112395721-JoePeraTalksWIthYou_308_JoePeraTalksWithYouAboutLegacy.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2137894 Ballmastrz: 9009: 1  
+### 2199776
+**Ballmastrz: 9009 S02E06 - Can't Stand the Heat? Ultimate Kitchen Technique! Finish Them, Warrior Bard!!**  
+TV-14-LV 🔒 11:00  
+⌛ May 22, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/ballmastrz-9009/cant-stand-the-heat-ultimate-kitchen-technique-finish-them-warrior-bard  
+seriesid=`2137894` titleid=`2199776` id=`AW3ff8st1YiBSfg0KX2L` mediaid=`6c2d8b25838be0eecee08273ce157b63e4f452e0`  
+_The Leptons discover Leto has a flair for the culinary arts and pressure him into becoming a contestant in Crayzar’s cooking competition._  
+<a href="https://media.cdn.adultswim.com/uploads/20191018/thumbnails/2_1910181132313-ballmastrz9009_203_dup-20190826.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191018/thumbnails/2_1910181132313-ballmastrz9009_203_dup-20190826.jpg" height="144px" /></a>
