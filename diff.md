@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 21, 2023 at 21:00:15 EDT_
+_Last Update: May 21, 2023 at 23:30:20 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2165429 The Shivering Truth: 1  
-### 2172252
-**The Shivering Truth S01E06 - Fowl Flow**  
-TV-MA-SV 🔓 11:17  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-shivering-truth/fowl-flow  
-seriesid=`2165429` titleid=`2172252` id=`AWdcesecqD68dq0Op5mi` mediaid=`ee1d1457a5e0788e336d53395889dd6b58d80719`  
-_This week Violet discovers that that scalding throb that rips thru your body every few seconds has a name:  The Rest Of The World._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154352543980519.jpg" height="144px" /></a>
+2388924 Royal Crackers: 1  
+### 2388935
+**Royal Crackers S01E10 - Craftopia**  
+TV-MA-L 🔒 22:31  
+⌛ June 11, 2023 at 22:59:00 EDT  
+https://www.adultswim.com/videos/royal-crackers/craftopia  
+seriesid=`2388924` titleid=`2388935` id=`AYglPNNm2rZC6NyF619T` mediaid=`00b61071ca2429ffa41034c8dafb4c095455c8b8`  
+_When Matt's computer is destroyed by an internet prankster named Zane, he takes a job at Royal Crackers to save enough money to buy a replacement._  
+<a href="https://media.cdn.adultswim.com/uploads/20230520/thumbnails/2_235201257563-RoyalCrackers110Still004tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230520/thumbnails/2_235201257563-RoyalCrackers110Still004tiny.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
