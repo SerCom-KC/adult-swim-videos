@@ -1,46 +1,6 @@
 {
-    "updated": 1684877421,
+    "updated": 1684886424,
     "added": [
-        {
-            "auth_expiration_date": 1685329140,
-            "tms_id": "EP046747480008",
-            "description": "The Hornsby's head to Burbank, California when Stebe lands Royal Crackers a lucrative brand integration deal with a very popular Latin American sitcom, \"Casa De Papa.\"",
-            "title_suggest": {
-                "input": [
-                    "Casa de Darby",
-                    "de Darby",
-                    "Darby"
-                ]
-            },
-            "title": "Casa de Darby",
-            "type": "episode",
-            "expiration_date": 1687751940,
-            "collection_id": "AYbq0iTJ4k01GlbfzrYt",
-            "duration": 1327.693,
-            "episode_number": "8",
-            "original_air_date": 1683514800,
-            "auth_launch_date": 1683514800,
-            "airing_id": "RADS1005232300097322",
-            "media_id": "dc393700478ec1d4caab43b5f23e1186b87dbca9",
-            "modified": 1684876413,
-            "slug": "casa-de-darby",
-            "created": 1682963077,
-            "title_id": "2388933",
-            "season_number": "1",
-            "tv_rating": "tv-ma-l",
-            "published": 1684876413,
-            "tags": [],
-            "collection_title": "Royal Crackers",
-            "modified_by": "ODT Listener",
-            "launch_date": 1685329200,
-            "id": "AYfYapm32rZC6NyF619M",
-            "auth": true,
-            "collection_slug": "royal-crackers",
-            "collection_title_id": "2388924",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "auth_expiration_date": 1682827140,
             "tms_id": "EP036530620010",
@@ -69,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1005162100099168",
             "media_id": "66df980803916ff4289ee03a3de43aa66d734a60",
-            "modified": 1679583559,
+            "modified": 1684886100,
             "slug": "episode-ten-f-min-7",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201210/thumbnails/1_201210112245-GSMP_210_dup-20201202.jpg",
@@ -77,7 +37,7 @@
             "season_number": "2",
             "title_id": "2241835",
             "tv_rating": "tv-ma-ls",
-            "published": 1679583559,
+            "published": 1684886100,
             "tags": [],
             "collection_title": "Gemusetto",
             "disable_ads": false,
@@ -90,5 +50,6 @@
             "collection_title_id": "2194549",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
