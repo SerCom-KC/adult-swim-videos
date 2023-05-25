@@ -1,55 +1,6 @@
 [
     {
         "auth": true,
-        "auth_expiration_date": 1684987140,
-        "rating": 7.730339,
-        "description": "Hank mistakenly believes that his new Laotian neighbors use dog meat to make their delicious barbecued hamburgers.",
-        "title_suggest": {
-            "input": [
-                "Westie Side Story",
-                "Side Story",
-                "Story"
-            ]
-        },
-        "type": "episode",
-        "title": "Westie Side Story",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1388.1868,
-        "episode_number": "6",
-        "original_air_date": 1230865200,
-        "clip_order": null,
-        "auth_launch_date": 1684382400,
-        "modified": 1683959482,
-        "airing_id": "RADS1005122300095556",
-        "media_id": "05ad3f0dd9d61f2d168e474ad3952c8448963f42",
-        "id": "-gAmroqaQOKmYuJs7LklpA",
-        "slug": "westie-side-story",
-        "views": 99004,
-        "created": 1402945468,
-        "title_id": "728408",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1683959482,
-        "tags": [
-            "King of the Hill",
-            "Westie Side Story",
-            "106"
-        ],
-        "rating_count": 267,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1249012800,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41587.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1685159940,
         "rating": 8.135338,
         "description": "Much to Peggy's dismay, Hank's sexist father drops by to celebrate Bobby's birthday.",
@@ -95,6 +46,67 @@
         "modified_by": "ODT Listener",
         "launch_date": 1249012800,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41597.jpg"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1685591940,
+        "tms_id": "EP002070020013",
+        "rating": 8.410812,
+        "description": "Hank and Peggy jump to conclusions when they discover Bobby using one of Luanne's plastic beautician school heads to practice interacting with girls.",
+        "title_suggest": {
+            "input": [
+                "Plastic White Female",
+                "White Female",
+                "Female"
+            ]
+        },
+        "type": "episode",
+        "title": "Plastic White Female",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1382.2142,
+        "episode_number": "11",
+        "original_air_date": 1231039800,
+        "clip_order": null,
+        "auth_launch_date": 1684987200,
+        "modified": 1684794405,
+        "airing_id": "RADS1005212300096797",
+        "media_id": "bc16ca50c775e8781ac4e327f6c9ae08d7d1dbef",
+        "id": "6K-CeLeMRtWrfejSc7_0kA",
+        "slug": "plastic-white-female",
+        "views": 397291,
+        "created": 1402945468,
+        "title_id": "728413",
+        "season_number": "1",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1684794405,
+        "tags": [
+            "king of the hill",
+            "season 1",
+            "episode 11",
+            "plastic white female",
+            "hank",
+            "peggy",
+            "conclusion",
+            "discover",
+            "bobby",
+            "luanne",
+            "plastic head",
+            "practice",
+            "interact",
+            "girl"
+        ],
+        "rating_count": 555,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1295413200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_62478.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
