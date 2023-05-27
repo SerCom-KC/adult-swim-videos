@@ -1,54 +1,6 @@
 [
     {
         "auth": true,
-        "auth_expiration_date": 1685159940,
-        "rating": 8.135338,
-        "description": "Much to Peggy's dismay, Hank's sexist father drops by to celebrate Bobby's birthday.",
-        "title_suggest": {
-            "input": [
-                "Shins of the Father",
-                "of the Father",
-                "the Father",
-                "Father"
-            ]
-        },
-        "type": "episode",
-        "title": "Shins of the Father",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1383.2819,
-        "episode_number": "8",
-        "original_air_date": 1230951600,
-        "auth_launch_date": 1684555200,
-        "modified": 1684298650,
-        "airing_id": "RADS1005152300095943",
-        "media_id": "b317c42f77d369643590040ec8ded8898eb542d9",
-        "id": "-o2Bvyo3SumyUWCXaPvHRQ",
-        "slug": "shins-of-the-father",
-        "views": 71434,
-        "created": 1402945468,
-        "title_id": "728409",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "published": 1684298650,
-        "tags": [
-            "King of the Hill",
-            " Shins of the Father",
-            " 108"
-        ],
-        "rating_count": 133,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1249012800,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41597.jpg"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1685591940,
         "tms_id": "EP002070020013",
         "rating": 8.410812,
@@ -224,6 +176,65 @@
         "launch_date": 1279857600,
         "poster": "",
         "cma_id": "981132"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1685764740,
+        "tms_id": "EP002070020012",
+        "rating": 8.6426,
+        "description": "Hank's expensive new lawn is overrun by fire ants.",
+        "title_suggest": {
+            "input": [
+                "King of the Ant Hill",
+                "of the Ant Hill",
+                "the Ant Hill",
+                "Ant Hill",
+                "Hill"
+            ]
+        },
+        "type": "episode",
+        "title": "King of the Ant Hill",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1357.1892,
+        "episode_number": "13",
+        "original_air_date": 1231126200,
+        "clip_order": null,
+        "auth_launch_date": 1685160000,
+        "modified": 1684863827,
+        "airing_id": "RADS1005222300097147",
+        "media_id": "faa8bd8e6e6cf730cb63c9d3c6b7a13e35f25a52",
+        "id": "K6qxNlBETTe4qitP9chpmg",
+        "slug": "king-of-the-ant-hill",
+        "views": 291638,
+        "created": 1402945468,
+        "title_id": "728412",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "published": 1684863827,
+        "tags": [
+            "king of the hill",
+            "season 1",
+            "episode 13",
+            "king of the ant hill",
+            "hank",
+            "expensive",
+            "new",
+            "lawn",
+            "overrun",
+            "fire ants"
+        ],
+        "rating_count": 554,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1311134400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_50832231184716143.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
