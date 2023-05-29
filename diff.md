@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 29, 2023 at 06:30:19 EDT_
+_Last Update: May 29, 2023 at 10:00:22 EDT_
 ## Video added
 ### Summary
-862772 China, IL: 1  
-### 862773
-**China, IL S01E01 - Rewind, Pause, Play**  
-TV-14-DLSV 🔓 11:16  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/china-il/rewind-pause-play  
-seriesid=`862772` titleid=`862773` id=`LI6xO8YpS6qSWWg2t4Du5w` mediaid=`213023f51d7681c74a8254858dc09c8cfb8ddda2`  
-_Ronald Reagan returns to China, IL to exact revenge on Steve, who  years earlier impersonated the former president in a kid's talent show on live TV._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321638185-chinail_101_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321638185-chinail_101_BIM.jpg" height="144px" /></a>
+608360 Robot Chicken: 1  
+### 640877
+**Robot Chicken S02E11 - Adoption's An Option**  
+TV-MA 🔒 11:10  
+⌛ June 1, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/adoptions-an-option  
+seriesid=`608360` titleid=`640877` id=`WhDBl6tFT5KUqg9YwmbUFw` mediaid=`2e01078e7050e04f8e9d01982c166bb3c3ef8703`  
+_The Fantanas visit the Middle East peace process.  E.T. finally returns home, but it's less cool than he remembered._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411133569-robotchicken_036.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411133569-robotchicken_036.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
