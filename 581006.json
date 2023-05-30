@@ -1,5 +1,56 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1686023940,
+        "tms_id": "EP007164450105",
+        "description": "The Smiths prepare for the arrival of Stan's half-brother's family for Thanksgiving.",
+        "title_suggest": {
+            "input": [
+                "There Will Be Bad Blood",
+                "Will Be Bad Blood",
+                "Be Bad Blood",
+                "Bad Blood",
+                "Blood"
+            ]
+        },
+        "title": "There Will Be Bad Blood",
+        "type": "episode",
+        "expiration_date": 1650859140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1300.0654,
+        "episode_number": "18",
+        "original_air_date": 1292043600,
+        "auth_launch_date": 1685419200,
+        "clip_order": null,
+        "modified": 1685115894,
+        "media_id": "1901effee4b06f454a712c0f86a9fd188da9a7e2",
+        "airing_id": "RADS1005262300098244",
+        "id": "-n7pptEaSK-nCb751T7B4w",
+        "slug": "there-will-be-bad-blood",
+        "views": 385,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154335655553018.jpg",
+        "created": 1479708627,
+        "title_id": "822208",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1685115894,
+        "first_published": 1479708627,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1650254400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg",
+        "cma_id": "1298322"
+    },
+    {
         "auth_expiration_date": 1684209540,
         "tms_id": "EP007164450401",
         "description": "Francine and Roger get lost in a good book (or five) after Francine escapes an embarrassing situation. Stan reluctantly hangs out at the library.",
@@ -508,56 +559,6 @@
         "launch_date": 1680494400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161058291-HaleyGirlScout.png",
         "id": "AYX1F5_5uLQD-MTtYfyU",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1685419140,
-        "tms_id": "EP007164450429",
-        "description": "Barry blows out his dad's speakers and Snot helps him replace them. Stan attempts to do a standing backflip.",
-        "title_suggest": {
-            "input": [
-                "I Heard You Wanna Buy Some Speakers",
-                "Heard You Wanna Buy Some Speakers",
-                "You Wanna Buy Some Speakers",
-                "Wanna Buy Some Speakers",
-                "Buy Some Speakers",
-                "Some Speakers",
-                "Speakers"
-            ]
-        },
-        "title": "I Heard You Wanna Buy Some Speakers",
-        "type": "episode",
-        "expiration_date": 1681099140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.1285,
-        "episode_number": "16",
-        "original_air_date": 1668396600,
-        "auth_launch_date": 1684814400,
-        "clip_order": null,
-        "airing_id": "RADS1005192300096497",
-        "media_id": "34c8b557b6b1f933a28dd70ac25578ab45ee6192",
-        "modified": 1684518061,
-        "slug": "i-heard-you-wanna-buy-some-speakers",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/1_2321611028-BuySpeakers.png",
-        "created": 1674854156,
-        "title_id": "2342101",
-        "season_number": "17",
-        "tv_rating": "tv-14-dlv",
-        "published": 1684518061,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1680494400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_2321611028-BuySpeakers.png",
-        "id": "AYX1Fkpr4k01GlbfzrYQ",
         "auth": true
     },
     {
