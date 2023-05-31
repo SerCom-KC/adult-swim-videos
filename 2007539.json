@@ -244,6 +244,56 @@
         "auth": false
     },
     {
+        "auth": false,
+        "ott_launch_date": 1462802400,
+        "auth_expiration_date": 1672808340,
+        "tms_id": "EP018514630015",
+        "description": "With a metal thief loose in Old Town, Tommy and Mr. Pickles seek the help of an Old Super Hero, who they come to find has a strange addiction.",
+        "title_suggest": {
+            "input": [
+                "Sh\u00f6venpucker"
+            ]
+        },
+        "expiration_date": 1688529540,
+        "title": "Sh\u00f6venpucker",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 677,
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "episode_number": "4",
+        "original_air_date": 1462766400,
+        "clip_order": null,
+        "auth_launch_date": 1669784400,
+        "modified": 1685148269,
+        "media_id": "96a3c4f5061ec07c257adc768787810e1e17ecd3",
+        "airing_id": "RADS1005262300098372",
+        "id": "CCNhZsndTY2QN9NWHaW0cg",
+        "slug": "shovenpucker",
+        "views": 56145,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121121414-mrpickles_205_dup-20160419.jpg",
+        "created": 1460403303,
+        "season_number": "2",
+        "title_id": "2085307",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1685148269,
+        "first_published": 1462709418,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1685505600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121121414-mrpickles_205_dup-20160419.jpg",
+        "cma_id": "2085307"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447173600,
         "auth_expiration_date": 1686715140,
@@ -553,7 +603,7 @@
         "cma_id": "1480169"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447173660,
         "auth_expiration_date": 1688529540,
         "tms_id": "EP018514630010",
@@ -604,56 +654,5 @@
         "launch_date": 1682481600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121119494-mrpickles_009_dup-20141112.jpg",
         "cma_id": "1466809"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447173540,
-        "auth_expiration_date": 1685505540,
-        "tms_id": "EP018514630005",
-        "description": "The Goodmans go on a family camping trip and Tommy learns the frightening legend of The Cheeseman.",
-        "title_suggest": {
-            "input": [
-                "The Cheeseman",
-                "Cheeseman"
-            ]
-        },
-        "title": "The Cheeseman",
-        "type": "episode",
-        "expiration_date": 1682481540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 676.500417,
-        "episode_number": "4",
-        "original_air_date": 1413171000,
-        "clip_order": null,
-        "auth_launch_date": 1682481600,
-        "modified": 1682149245,
-        "media_id": "178ea50828534a81d43640839904f94bb913fa2c",
-        "airing_id": "RADS1004202300088951",
-        "id": "ybYAuf3OTZaj4UksS0_MAg",
-        "slug": "the-cheeseman",
-        "views": 11,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121117414-mrpickles_004_dup-20140918.jpg",
-        "created": 1412835623,
-        "title_id": "2032505",
-        "tv_rating": "tv-ma-sv",
-        "season_number": "1",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1682149245,
-        "first_published": 1412835623,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1679457600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121117414-mrpickles_004_dup-20140918.jpg",
-        "cma_id": "1443600"
     }
 ]
