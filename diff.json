@@ -1,17 +1,20 @@
 {
-    "updated": 1685871251,
-    "added": [
+    "updated": 1685871374,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1705899540,
-            "tms_id": "EP034917240444",
-            "description": "Naruto's strength is recognized by his fellow genin, except Sasuke. But while Naruto enjoys a close relationship with his father, Sasuke's father, Fugaku, compares Sasuke with his older brother Itachi and barely pays attention to him.",
+            "auth_expiration_date": 1690257540,
+            "tms_id": "EP037451480010",
+            "description": "Soma and Asahi's battle begins! The theme of the battle is to cook a dish that has elements of the 5 cuisines of the world. The battle situation seems to be in favor of Asahi, who completed his dish first using his Crossed Knives technique.",
             "title_suggest": {
                 "input": [
-                    "Returning Home",
-                    "Home"
+                    "The Taste of Failure",
+                    "Taste of Failure",
+                    "of Failure",
+                    "Failure"
                 ]
             },
-            "title": "Returning Home",
+            "title": "The Taste of Failure",
             "type": "episode",
             "expiration_date": null,
             "platforms": [
@@ -20,35 +23,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1310.3759,
-            "episode_number": "25",
-            "original_air_date": 1685858400,
-            "auth_launch_date": 1685871000,
+            "collection_id": "AWuvYf7tCorLtcgflrvU",
+            "duration": 1321.8872,
+            "episode_number": "11",
+            "original_air_date": 1685854800,
+            "auth_launch_date": 1685867400,
             "clip_order": null,
-            "airing_id": "RADS1005292300098631",
-            "media_id": "66a32e3876ac458d503e79565935dc91246cc328",
-            "modified": 1685805274,
-            "slug": "returning-home",
+            "airing_id": "RADS1005292300098627",
+            "media_id": "253d35cde0b7527f42b16050b7efadbe67a94412",
+            "modified": 1685805202,
+            "slug": "the-taste-of-failure",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230603/thumbnails/1_23631114300-aslogothumbnail.png",
-            "created": 1685376899,
-            "title_id": "2177871",
-            "season_number": "8",
-            "tv_rating": "tv-pg",
-            "published": 1685805274,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230603/thumbnails/1_23631113145-aslogothumbnail.png",
+            "created": 1685376826,
+            "title_id": "2371501",
+            "season_number": "5",
+            "tv_rating": "tv-ma-s",
+            "published": 1685805202,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "Food Wars!",
             "disable_ads": false,
             "modified_by": "Jonas Eason",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230603/thumbnails/2_23631114300-aslogothumbnail.png",
-            "id": "AYhoSprdOz5CkuTcnvmH",
+            "poster": "https://media.cdn.adultswim.com/uploads/20230603/thumbnails/2_23631113145-aslogothumbnail.png",
+            "id": "AYhoSXttOz5CkuTcnvmG",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "food-wars",
+            "collection_title_id": "2201017",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
