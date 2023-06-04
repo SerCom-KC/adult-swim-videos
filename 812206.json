@@ -2146,5 +2146,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230520/thumbnails/2_235201259110-NarutoShippuden440Still001tiny.png",
         "id": "AYglLde1Oz5CkuTcnvTJ",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1705899540,
+        "tms_id": "EP034917240444",
+        "description": "Naruto's strength is recognized by his fellow genin, except Sasuke. But while Naruto enjoys a close relationship with his father, Sasuke's father, Fugaku, compares Sasuke with his older brother Itachi and barely pays attention to him.",
+        "title_suggest": {
+            "input": [
+                "Returning Home",
+                "Home"
+            ]
+        },
+        "title": "Returning Home",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1310.3759,
+        "episode_number": "25",
+        "original_air_date": 1685858400,
+        "auth_launch_date": 1685871000,
+        "clip_order": null,
+        "airing_id": "RADS1005292300098631",
+        "media_id": "66a32e3876ac458d503e79565935dc91246cc328",
+        "modified": 1685805274,
+        "slug": "returning-home",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230603/thumbnails/1_23631114300-aslogothumbnail.png",
+        "created": 1685376899,
+        "title_id": "2177871",
+        "season_number": "8",
+        "tv_rating": "tv-pg",
+        "published": 1685805274,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230603/thumbnails/2_23631114300-aslogothumbnail.png",
+        "id": "AYhoSprdOz5CkuTcnvmH",
+        "auth": true
     }
 ]
