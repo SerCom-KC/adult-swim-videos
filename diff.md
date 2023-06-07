@@ -2,105 +2,98 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 7, 2023 at 00:00:25 EDT_
+_Last Update: June 7, 2023 at 00:30:22 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
-2032238 Mike Tyson Mysteries: 1  
-629688 Moral Orel: 1  
-### 748163
-**American Dad S06E19 - Gorillas in the Mist**  
-TV-14 🔒 21:47  
-⌛ June 13, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/gorillas-in-the-mist  
-seriesid=`581006` titleid=`748163` id=`SpKY05_QS_a8wZkZQtAl9A` mediaid=`01f8999b06c60cc3e23ff941ccf811541fe78f5f`  
-_Stan spends some quality father-son time with Steve at the local zoo, but things go wrong when Steve slips into a gorilla exhibit._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg" height="144px" /></a>
-### 748171
-**American Dad S07E01 - Hot Water**  
-TV-14-DLSV 🔒 21:47  
-⌛ June 13, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/hot-water  
-seriesid=`581006` titleid=`748171` id=`A1V1PZvHS4OXqQOQznUoZw` mediaid=`3a9c1f53b5c37b42e208111387291329be33ddaa`  
-_Stan battles an evil hot tub bent on killing his family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg" height="144px" /></a>
-### 2065455
-**Bob's Burgers S05E04 - Dawn of the Peck**  
-TV-PG-DLV 🔒 21:30  
-⌛ June 13, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/dawn-of-the-peck  
-seriesid=`2003422` titleid=`2065455` id=`SmjARULQRayI7fqg43Kw5g` mediaid=`6593b29f3c92e638760bc4c876a5f9e78006e018`  
-_While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the first annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg" height="144px" /></a>
-### 2172007
-**Mike Tyson Mysteries S04E10 - A Mystery in Little Italy**  
-TV-14-LSV 🔓 11:04  
+828246 Eagleheart: 1  
+344089 Home Movies: 1  
+629835 King of the Hill: 1  
+2007539 Mr. Pickles: 1  
+340531 The Brak Show: 1  
+### 2012949
+**Eagleheart S03E05 - America**  
+TV-14-DLV 🔓 11:17  
 ⌛ July 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mike-tyson-mysteries/a-mystery-in-little-italy  
-seriesid=`2032238` titleid=`2172007` id=`AWwq6mDd4aLemgzOLGDM` mediaid=`d09594e6a028e237d1b90a51b90ba5555bd75ab5`  
-_What do you do with baby octopus, plantains, smoked kippers and cream of mushroom soup?_  
-<a href="https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654555-miketysonmysteries_410_dup-20190710.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654555-miketysonmysteries_410_dup-20190710.jpg" height="144px" /></a>
-### 723840
-**Moral Orel S03E13 - Honor**  
-TV-MA 🔓 11:59  
+https://www.adultswim.com/videos/eagleheart/america  
+seriesid=`828246` titleid=`2012949` id=`pyPEI0CWQTGJ-017jmIEig` mediaid=`b77d4d39ddc7b7105c23aa174ac7fbae5c2cf3ab`  
+_Chris deals with a dangerous situation._  
+<a href="https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151214179-eagleheart_029_dup-20140110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151214179-eagleheart_029_dup-20140110.jpg" height="144px" /></a>
+### 450554
+**Home Movies S04E09 - Camp**  
+TV-PG-V 🔓 22:55  
 ⌛ July 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/moral-orel/honor  
-seriesid=`629688` titleid=`723840` id=`JRG2oagMQ7uPMLL4FyR9Cw` mediaid=`2825fd24afc8e7bc9f9c18fd41ebf59762b4ebb4`  
-_Orel needs to discover something to honor his father about and finds it in Coach Stopframe._  
-<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311169345-moralorel_043.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311169345-moralorel_043.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/home-movies/camp  
+seriesid=`344089` titleid=`450554` id=`v026jlEWQFaztYJy93gpUA` mediaid=`18d25795249ec96476c4751d8739c5ca1399ddf8`  
+_Brendon, Jason, and Melissa attend a performing arts camp where they learn that they actually know very little about the performing arts.  Meanwhile Coach McGuirk is forced to flee from a crazed group of crying men who want to hug him._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351628212-hmovies_048.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351628212-hmovies_048.jpg" height="144px" /></a>
+### 728420
+**King of the Hill S02E07 - The Man Who Shot Cane Skretteburg**  
+TV-PG-DL 🔒 23:17  
+⌛ June 13, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/the-man-who-shot-cane-skretteburg  
+seriesid=`629835` titleid=`728420` id=`z15UJer0TSyTM_DcJbxz2A` mediaid=`de29a8ef6a41b6772f754946bfe8f09fd0230e93`  
+_It's the battle of the ages when Hank and his friends face off against four teenagers for a game of paintball._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14494.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14494.jpg" height="144px" /></a>
+### 2085309
+**Mr. Pickles S02E05 - Fish?**  
+TV-MA-SV 🔓 11:17  
+⌛ July 11, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/mr-pickles/fish  
+seriesid=`2007539` titleid=`2085309` id=`53EY3_OzSIWpTW3xGdABqw` mediaid=`e62e892075728f05a0a7b9544c3cd568c87ca257`  
+_When a suspicious woman in town takes a romantic interest in Sheriff, Mr. Bojenkins sets out to reveal her true intentions._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121121592-mrpickles_207_dup-20160503.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121121592-mrpickles_207_dup-20160503.jpg" height="144px" /></a>
+### 411000
+**The Brak Show S01E08 - Psychoklahoma**  
+TV-PG 🔓 11:16  
+⌛ July 11, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-brak-show/psychoklahoma  
+seriesid=`340531` titleid=`411000` id=`9Gs3FY5_Tkmn74-G5CuuUg` mediaid=`b459f8e477ac64aa927bad3ab65f7f213d11d353`  
+_Dad and Brak's favorite TV show is called "Senor Science." Senor Science himself is trapped in a block of ice, so he convinces Brak and Dad to purchase the Senor Science melting kit. Brak can't afford to pay for the melting kit, so he decides to raise the money with a play._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425541-brak_2108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425541-brak_2108.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2032238 Mike Tyson Mysteries: 1  
-581006 American Dad: 2  
-629688 Moral Orel: 1  
-887688 Loiter Squad: 1  
-### 2030313
-**Bob's Burgers S04E16 - I Get Psy-Chic Out of You**  
- 🔒 21:31  
+2007539 Mr. Pickles: 1  
+340531 The Brak Show: 1  
+344089 Home Movies: 1  
+629835 King of the Hill: 1  
+828246 Eagleheart: 1  
+### 2032506
+**Mr. Pickles S01E05 - Dead Man's Curve**  
+TV-MA-V 🔒 11:17  
 ⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/i-get-psy-chic-out-of-you  
-seriesid=`2003422` titleid=`2030313` id=`PATNtAZjTY2f8wWbi5TMAQ` mediaid=`a8d3479b3a2e847c16a158f165eced4c49bbb0e4`  
-_After predicting that a telemarketer is calling the restaurant when the phone rings, Linda and the kids believe that she is a psychic. Needless to say, her "predictions" irk Bob and spell out hilarious happenings._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803240519211.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803240519211.jpg" height="144px" /></a>
-### 2117695
-**Mike Tyson Mysteries S03E15 - Tyson of Arabia**  
-TV-14-DLSV 🔒 11:16  
+https://www.adultswim.com/videos/mr-pickles/dead-mans-curve  
+seriesid=`2007539` titleid=`2032506` id=`-MJ2RVg3Sp6TUV9Z1FsmSA` mediaid=`d492815fc399fc1512eb09454ab53c589901fea6`  
+_Tommy goes to enter the soapbox derby, and meets an old time greaser in need of help. Grandpa finds the one thing that Mr. Pickles is afraid of._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312111812-mrpickles_005_dup-20140918.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312111812-mrpickles_005_dup-20140918.jpg" height="144px" /></a>
+### 417618
+**The Brak Show S02E04 - President Dad**  
+TV-PG 🔓 11:27  
 ⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mike-tyson-mysteries/tyson-of-arabia  
-seriesid=`2032238` titleid=`2117695` id=`xuK6mkc0S0eWjYgyR9wmCw` mediaid=`a0c363e29a5b663f31e34e35c17e0a9e6a34d296`  
-_The team goes to Dubai, at the behest of an old Saudi Prince._  
-<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311153621-miketysonmysteries_312.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311153621-miketysonmysteries_312.jpg" height="144px" /></a>
-### 822210
-**American Dad S06E08 - For Whom The Sleigh Bell Tolls**  
-TV-14-DLSV 🔒 21:47  
+https://www.adultswim.com/videos/the-brak-show/president-dad  
+seriesid=`340531` titleid=`417618` id=`mccXjb2PR8mGvHrJRsWTHg` mediaid=`cf6195ba06dd46765db861ee6d8b7803df99199b`  
+_Dad gets upset with the neighborhood association and decides to run for its presidency. With the help of Brak and Zorak, he puts an ad in the newspaper filled with lies about the current president, Galrog. In retaliation, Galrog challenges Dad to a public debate._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg" height="144px" /></a>
+### 432257
+**Home Movies S03E07 - Four's Company**  
+TV-PG 🔒 22:41  
 ⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/for-whom-the-sleigh-bell-tolls  
-seriesid=`581006` titleid=`822210` id=`LOh0dl-4Qr-3BCv_yUA-dQ` mediaid=`b3275b1ecf2000f2ba2f648be1e46bff9a2d512a`  
-_Stan decides to finally give Steve a gun for Christmas and is horrified when Steve accidentally shoots a Mall Santa._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg" height="144px" /></a>
-### 822209
-**American Dad S06E06 - The People Vs. Martin Sugar**  
-TV-14 🔒 21:47  
+https://www.adultswim.com/videos/home-movies/fours-company  
+seriesid=`344089` titleid=`432257` id=`8iA0UuTZQaa7MQOv9DWCgw` mediaid=`6cf6dc650b3ae5003e15a3e87eb4e190ca2867e9`  
+_Melissa gets a new French-accented boyfriend, and Brendon and Jason get jealous when her love life starts to interfere with their busy production schedule--and the casting of their Susan B. Anthony biopic. Meanwhile, Coach McGuirk transforms into to a social planner._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351622151-hmovies_033.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351622151-hmovies_033.jpg" height="144px" /></a>
+### 728414
+**King of the Hill S02E02 - How to Fire a Rifle Without Really Trying**  
+TV-PG 🔒 23:03  
 ⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-people-vs-martin-sugar  
-seriesid=`581006` titleid=`822209` id=`Ug7GhGosSgi2s18Wa63WwQ` mediaid=`138d29d5aa19afacba6c24428488bfc70c1da6f8`  
-_Stan serves as jury foreman for the trial of one of Roger's personae, and he is hell-bent on making sure the jury finds him guilty._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg" height="144px" /></a>
-### 723830
-**Moral Orel S03E03 - Innocence**  
-TV-MA 🔒 11:44  
+https://www.adultswim.com/videos/king-of-the-hill/how-to-fire-a-rifle-without-really-trying  
+seriesid=`629835` titleid=`728414` id=`_i0nhA0VSzGgRtDn1xAeVg` mediaid=`518256817131d598897431edf2972c5a8cd056f7`  
+_When Bobby discovers a talent for target shooting, Hank discovers that an experience from his own childhood is affecting his aim._  
+<a href=""><img src="" height="144px" /></a>
+### 892255
+**Eagleheart S02E07 - Beat Shack**  
+TV-MA 🔓 11:16  
 ⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/moral-orel/innocence  
-seriesid=`629688` titleid=`723830` id=`1MKLsOP5Q3Cj_bTFmBJZoA` mediaid=`ece3e87826283f04f240c74381fdfaeb673d0451`  
-_The town gets together and agrees not to give Orel any more advice._  
-<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311165406-moralorel_038.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311165406-moralorel_038.jpg" height="144px" /></a>
-### 887693
-**Loiter Squad S01E05 - Episode 5**  
-TV-14-DLSV 🔒 11:11  
-⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/loiter-squad/episode-5  
-seriesid=`887688` titleid=`887693` id=`qORayjWkSOOT6Nnw1r-cHQ` mediaid=`15bfbd1933776a08a4eb9761e52f1eb079625452`  
-_It's not easy for Sagan being 16 & Pregnant; Tyler learns an important lesson about sexual harassment; 80s video dating makes a comeback._  
-<a href="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361017590-loitersquad_105_dup-20120423.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361017590-loitersquad_105_dup-20120423.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/eagleheart/beat-shack  
+seriesid=`828246` titleid=`892255` id=`OsdVH7xGQcSRyYSlWtcdFg` mediaid=`2550d23fd901aac5eb64961774cb241272de2d42`  
+_When the town's newest crime boss kills the town's favorite hardware merchant, the marshals use extreme measures to catch him. Plus: Doc Shades finds a second career._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341551145-eagleheart_210_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341551145-eagleheart_210_bim.jpg" height="144px" /></a>
