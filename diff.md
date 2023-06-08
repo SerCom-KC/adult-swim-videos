@@ -2,98 +2,105 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 7, 2023 at 00:30:22 EDT_
+_Last Update: June 8, 2023 at 00:00:39 EDT_
 ## Video added
 ### Summary
-828246 Eagleheart: 1  
-344089 Home Movies: 1  
+581006 American Dad: 2  
+638050 Frisky Dingo: 1  
+2104364 Hot Streets: 1  
 629835 King of the Hill: 1  
-2007539 Mr. Pickles: 1  
-340531 The Brak Show: 1  
-### 2012949
-**Eagleheart S03E05 - America**  
-TV-14-DLV 🔓 11:17  
-⌛ July 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/eagleheart/america  
-seriesid=`828246` titleid=`2012949` id=`pyPEI0CWQTGJ-017jmIEig` mediaid=`b77d4d39ddc7b7105c23aa174ac7fbae5c2cf3ab`  
-_Chris deals with a dangerous situation._  
-<a href="https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151214179-eagleheart_029_dup-20140110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151214179-eagleheart_029_dup-20140110.jpg" height="144px" /></a>
-### 450554
-**Home Movies S04E09 - Camp**  
-TV-PG-V 🔓 22:55  
-⌛ July 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/home-movies/camp  
-seriesid=`344089` titleid=`450554` id=`v026jlEWQFaztYJy93gpUA` mediaid=`18d25795249ec96476c4751d8739c5ca1399ddf8`  
-_Brendon, Jason, and Melissa attend a performing arts camp where they learn that they actually know very little about the performing arts.  Meanwhile Coach McGuirk is forced to flee from a crazed group of crying men who want to hug him._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351628212-hmovies_048.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351628212-hmovies_048.jpg" height="144px" /></a>
-### 728420
-**King of the Hill S02E07 - The Man Who Shot Cane Skretteburg**  
+867968 The Heart, She Holler: 1  
+### 748154
+**American Dad S07E03 - A Ward Show**  
+TV-14-DLSV 🔒 21:46  
+⌛ June 14, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/a-ward-show  
+seriesid=`581006` titleid=`748154` id=`aajGKfacRUOpnrGFoACTfg` mediaid=`4e29d2fdc17e3f6bff35545973536027b8ec1973`  
+_After he's appointed Steve's legal guardian, Roger has Principal Lewis fired for letting Steve break the school's rules; Stan and Fran vacation at a waterpark._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg" height="144px" /></a>
+### 748160
+**American Dad S07E02 - Hurricane**  
+TV-14 🔒 21:47  
+⌛ June 14, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/hurricane  
+seriesid=`581006` titleid=`748160` id=`2gmRoTtyRGCQHA7zZCE0BQ` mediaid=`f52323839790401eae9989ddc5e47635b32dea7d`  
+_Stan attempts to save his family after a hurricane floods Lower Langley--despite Fran's warnings that Stan is a bad decision-maker during a crisis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg" height="144px" /></a>
+### 661210
+**Frisky Dingo S01E13 - Thrust Issues**  
+TV-MA-V 🔓 11:29  
+⌛ July 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/frisky-dingo/thrust-issues  
+seriesid=`638050` titleid=`661210` id=`GlIZnfZfRFq9IocAG_OZGQ` mediaid=`1286d810502ffaaaee46f13db82af1bebcc0cffa`  
+_No. It is not the end. Because [adult swim] bought 13 episodes. So this one's the end. And what exactly makes this one the end, you ask? Well... remember the Annihilatrix?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341656223-fd_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341656223-fd_013.jpg" height="144px" /></a>
+### 2184504
+**Hot Streets S02E09 - Hot Streets Disease**  
+TV-14-DLV 🔓 11:15  
+⌛ July 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/hot-streets/hot-streets-disease  
+seriesid=`2104364` titleid=`2184504` id=`AWfNPTt-zQU7gEG1jvYw` mediaid=`20c8648297ebb4644fa165bdb96be7e4ae5c9f14`  
+_Branski is forced to leave Hot Streets._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351531249-hotstreets_209_dup-20190115.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351531249-hotstreets_209_dup-20190115.jpg" height="144px" /></a>
+### 728421
+**King of the Hill S02E08 - The Son That Got Away**  
 TV-PG-DL 🔒 23:17  
-⌛ June 13, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/the-man-who-shot-cane-skretteburg  
-seriesid=`629835` titleid=`728420` id=`z15UJer0TSyTM_DcJbxz2A` mediaid=`de29a8ef6a41b6772f754946bfe8f09fd0230e93`  
-_It's the battle of the ages when Hank and his friends face off against four teenagers for a game of paintball._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14494.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14494.jpg" height="144px" /></a>
-### 2085309
-**Mr. Pickles S02E05 - Fish?**  
-TV-MA-SV 🔓 11:17  
-⌛ July 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mr-pickles/fish  
-seriesid=`2007539` titleid=`2085309` id=`53EY3_OzSIWpTW3xGdABqw` mediaid=`e62e892075728f05a0a7b9544c3cd568c87ca257`  
-_When a suspicious woman in town takes a romantic interest in Sheriff, Mr. Bojenkins sets out to reveal her true intentions._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121121592-mrpickles_207_dup-20160503.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121121592-mrpickles_207_dup-20160503.jpg" height="144px" /></a>
-### 411000
-**The Brak Show S01E08 - Psychoklahoma**  
-TV-PG 🔓 11:16  
-⌛ July 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-brak-show/psychoklahoma  
-seriesid=`340531` titleid=`411000` id=`9Gs3FY5_Tkmn74-G5CuuUg` mediaid=`b459f8e477ac64aa927bad3ab65f7f213d11d353`  
-_Dad and Brak's favorite TV show is called "Senor Science." Senor Science himself is trapped in a block of ice, so he convinces Brak and Dad to purchase the Senor Science melting kit. Brak can't afford to pay for the melting kit, so he decides to raise the money with a play._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425541-brak_2108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425541-brak_2108.jpg" height="144px" /></a>
+⌛ June 14, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/the-son-that-got-away  
+seriesid=`629835` titleid=`728421` id=`WiO1-9rYR_STlBaWrdz7Ng` mediaid=`dcbe2867a66daa07debe61d008f5994d02ecbe50`  
+_Hank and Kahn fear the worst when Bobby, Connie and Joseph explore a cave where teenagers go to "make whoopee."_  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_45943.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_45943.jpg" height="144px" /></a>
+### 2041655
+**The Heart, She Holler S03E03 - Klansgender Rights**  
+TV-MA 🔓 11:16  
+⌛ July 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-heart-she-holler/klansgender-rights  
+seriesid=`867968` titleid=`2041655` id=`KjMIyGGOTR2l0lv0Qya0Lg` mediaid=`249532017dcf07811127d8016aac6d12b2f9f852`  
+_Children are born corrupt, but gradually over time they begin to pass away and then rot._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351126477-heartsheholler_303_023_dup-20141023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351126477-heartsheholler_303_023_dup-20141023.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2007539 Mr. Pickles: 1  
-340531 The Brak Show: 1  
-344089 Home Movies: 1  
+581006 American Dad: 2  
 629835 King of the Hill: 1  
-828246 Eagleheart: 1  
-### 2032506
-**Mr. Pickles S01E05 - Dead Man's Curve**  
-TV-MA-V 🔒 11:17  
-⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mr-pickles/dead-mans-curve  
-seriesid=`2007539` titleid=`2032506` id=`-MJ2RVg3Sp6TUV9Z1FsmSA` mediaid=`d492815fc399fc1512eb09454ab53c589901fea6`  
-_Tommy goes to enter the soapbox derby, and meets an old time greaser in need of help. Grandpa finds the one thing that Mr. Pickles is afraid of._  
-<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312111812-mrpickles_005_dup-20140918.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312111812-mrpickles_005_dup-20140918.jpg" height="144px" /></a>
-### 417618
-**The Brak Show S02E04 - President Dad**  
-TV-PG 🔓 11:27  
-⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-brak-show/president-dad  
-seriesid=`340531` titleid=`417618` id=`mccXjb2PR8mGvHrJRsWTHg` mediaid=`cf6195ba06dd46765db861ee6d8b7803df99199b`  
-_Dad gets upset with the neighborhood association and decides to run for its presidency. With the help of Brak and Zorak, he puts an ad in the newspaper filled with lies about the current president, Galrog. In retaliation, Galrog challenges Dad to a public debate._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg" height="144px" /></a>
-### 432257
-**Home Movies S03E07 - Four's Company**  
-TV-PG 🔒 22:41  
-⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/home-movies/fours-company  
-seriesid=`344089` titleid=`432257` id=`8iA0UuTZQaa7MQOv9DWCgw` mediaid=`6cf6dc650b3ae5003e15a3e87eb4e190ca2867e9`  
-_Melissa gets a new French-accented boyfriend, and Brendon and Jason get jealous when her love life starts to interfere with their busy production schedule--and the casting of their Susan B. Anthony biopic. Meanwhile, Coach McGuirk transforms into to a social planner._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351622151-hmovies_033.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351622151-hmovies_033.jpg" height="144px" /></a>
-### 728414
-**King of the Hill S02E02 - How to Fire a Rifle Without Really Trying**  
-TV-PG 🔒 23:03  
-⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/how-to-fire-a-rifle-without-really-trying  
-seriesid=`629835` titleid=`728414` id=`_i0nhA0VSzGgRtDn1xAeVg` mediaid=`518256817131d598897431edf2972c5a8cd056f7`  
-_When Bobby discovers a talent for target shooting, Hank discovers that an experience from his own childhood is affecting his aim._  
-<a href=""><img src="" height="144px" /></a>
-### 892255
-**Eagleheart S02E07 - Beat Shack**  
-TV-MA 🔓 11:16  
-⌛ June 6, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/eagleheart/beat-shack  
-seriesid=`828246` titleid=`892255` id=`OsdVH7xGQcSRyYSlWtcdFg` mediaid=`2550d23fd901aac5eb64961774cb241272de2d42`  
-_When the town's newest crime boss kills the town's favorite hardware merchant, the marshals use extreme measures to catch him. Plus: Doc Shades finds a second career._  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341551145-eagleheart_210_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341551145-eagleheart_210_bim.jpg" height="144px" /></a>
+638050 Frisky Dingo: 1  
+867968 The Heart, She Holler: 1  
+### 748139
+**American Dad S06E10 - Stanny-Boy and Frantastic**  
+TV-14-DLV 🔒 21:47  
+⌛ June 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stanny-boy-and-frantastic  
+seriesid=`581006` titleid=`748139` id=`8ovtW6t7QnW_msWMKv1GVw` mediaid=`4c00286b767d4bbe79ba1e3568d394656b726717`  
+_Stan and Francine, on the hunt for new friends, hit it off with a younger married couple, Tom and Cami._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036053142.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036053142.jpg" height="144px" /></a>
+### 822211
+**American Dad S06E09 - Fartbreak Hotel**  
+TV-14 🔒 21:47  
+⌛ June 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/fartbreak-hotel  
+seriesid=`581006` titleid=`822211` id=`LeYJBjZiTAG-DniHWsx1TA` mediaid=`5655178c8ae88f45cf628c343d530e3a58cdfc14`  
+_When Roger releases lethal gas into the Smith residence, the family moves into a hotel while the fumes clear._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg" height="144px" /></a>
+### 728418
+**King of the Hill S02E03 - Jumpin' Crack Bass (It's A Gas, Gas, Gas)**  
+TV-PG-L 🔒 23:17  
+⌛ June 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/jumpin-crack-bass-its-a-gas-gas-gas  
+seriesid=`629835` titleid=`728418` id=`9wl89TCoRsqo7_tta_cysg` mediaid=`cd587a0889bf03f43066a86535d8c5ac46460401`  
+_Hank faces a jail term after he inadvertently uses an illegal drug as fishing bait._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_45941.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_45941.jpg" height="144px" /></a>
+### 651248
+**Frisky Dingo S01E03 - Pimp My Revenue**  
+TV-MA 🔒 11:23  
+⌛ June 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/frisky-dingo/pimp-my-revenue  
+seriesid=`638050` titleid=`651248` id=`3bsnPSnmQFOngra4Pk93xA` mediaid=`90f750a2224942487018ed7dc679a0d5fe71da92`  
+_In what can be termed a colossal misunderstanding, the creators of "Frisky Dingo" somehow got involved in producing an episode that revolves almost entirely around the (quite lengthy) list of options available on the sporty new tC from Scion.  Their tagline is "It's what moves you."  You can learn more about the new Scion tC at scion.com._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341652179-fd_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341652179-fd_003.jpg" height="144px" /></a>
+### 2007204
+**The Heart, She Holler S02E07 - An Emotional Can of Mommyworms**  
+TV-MA 🔒 11:16  
+⌛ June 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-heart-she-holler/an-emotional-can-of-mommyworms  
+seriesid=`867968` titleid=`2007204` id=`me9GFwZOQemRxE0TZ0AFNg` mediaid=`19a106145e8a8e256eda55d3d47492db8715dd09`  
+_After many lonely years, Hurlan finally gets to feel the cold touch of a mommy._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351122505-heartsheholler_206_013_dup-20130906.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351122505-heartsheholler_206_013_dup-20130906.jpg" height="144px" /></a>

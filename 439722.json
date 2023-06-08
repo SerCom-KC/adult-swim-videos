@@ -706,7 +706,7 @@
     },
     {
         "ott_launch_date": 1534170540,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1686196740,
         "tms_id": "EP005604540080",
         "description": "Deadly waters surround the Monarch when he becomes Wide Wale's prisoner in Part 2 of the Morphic Trilogy.",
@@ -804,7 +804,7 @@
     },
     {
         "ott_launch_date": 1533652140,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1686196740,
         "tms_id": "EP005604540079",
         "description": "The Venture headquarters is possessed! Or maybe it's just regular haunted. Or it could just be a computer glitch. Whatever it is, only Orpheus and his Order of the Triad can unlock the mystery.",
@@ -2782,7 +2782,7 @@
         "cma_id": "980931"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451680500,
         "auth_expiration_date": 1691899140,
         "tms_id": "EP005604540072",
@@ -4038,7 +4038,7 @@
         "cma_id": "988772"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1456761720,
         "auth_expiration_date": 1691899199,
         "tms_id": "EP005604540073",
