@@ -1,58 +1,6 @@
 {
-    "updated": 1686197112,
+    "updated": 1686197171,
     "added": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1686196740,
-            "tms_id": "EP012792980066",
-            "description": "In homage to the \u201cBronies\u201d subculture, Tina attends her first Equestra-Con, a convention based on her favorite animated pony show, \u201cThe Equestranauts.\u201d To her surprise, she finds that the show\u2019s fans are middle-aged men (called \u201cEquesticles\u201d). When a powerful super-fan tricks Tina out of her rare toy pony, it\u2019s up to Bob to go undercover to get it back.",
-            "title_suggest": {
-                "input": [
-                    "Equestranauts"
-                ]
-            },
-            "title": "Equestranauts",
-            "type": "episode",
-            "expiration_date": 1669006740,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "duration": 1291.0898,
-            "episode_number": "17",
-            "original_air_date": 1419822000,
-            "clip_order": null,
-            "auth_launch_date": 1685592000,
-            "modified": 1685353559,
-            "media_id": "8ed6ad78cda195fae6b0cd973c5b071f421a4815",
-            "airing_id": "RADS1005272300098441",
-            "id": "hPy1osc9S_W4WkpbPKsFNg",
-            "slug": "equestranauts",
-            "views": 6198,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803242762113.jpg",
-            "created": 1411571312,
-            "season_number": "4",
-            "title_id": "2030318",
-            "tv_rating": "",
-            "active": false,
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1685353559,
-            "first_published": 1411571312,
-            "tags": [],
-            "collection_title": "Bob's Burgers",
-            "modified_by": "ODT Listener",
-            "launch_date": 1668402000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg",
-            "cma_id": "1466013",
-            "collection_slug": "bobs-burgers",
-            "collection_title_id": "2003422",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -101,6 +49,58 @@
             "launch_date": 1670821200,
             "poster": "https://i.cdn.turner.com/adultswim/big/video/best-burger/bobsburgers_412_air_cid-2KRKV.jpg",
             "cma_id": "1470701",
+            "collection_slug": "bobs-burgers",
+            "collection_title_id": "2003422",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1686196740,
+            "tms_id": "EP012792980066",
+            "description": "In homage to the \u201cBronies\u201d subculture, Tina attends her first Equestra-Con, a convention based on her favorite animated pony show, \u201cThe Equestranauts.\u201d To her surprise, she finds that the show\u2019s fans are middle-aged men (called \u201cEquesticles\u201d). When a powerful super-fan tricks Tina out of her rare toy pony, it\u2019s up to Bob to go undercover to get it back.",
+            "title_suggest": {
+                "input": [
+                    "Equestranauts"
+                ]
+            },
+            "title": "Equestranauts",
+            "type": "episode",
+            "expiration_date": 1669006740,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+            "duration": 1291.0898,
+            "episode_number": "17",
+            "original_air_date": 1419822000,
+            "clip_order": null,
+            "auth_launch_date": 1685592000,
+            "modified": 1685353559,
+            "media_id": "8ed6ad78cda195fae6b0cd973c5b071f421a4815",
+            "airing_id": "RADS1005272300098441",
+            "id": "hPy1osc9S_W4WkpbPKsFNg",
+            "slug": "equestranauts",
+            "views": 6198,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803242762113.jpg",
+            "created": 1411571312,
+            "season_number": "4",
+            "title_id": "2030318",
+            "tv_rating": "",
+            "active": false,
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1685353559,
+            "first_published": 1411571312,
+            "tags": [],
+            "collection_title": "Bob's Burgers",
+            "modified_by": "ODT Listener",
+            "launch_date": 1668402000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg",
+            "cma_id": "1466013",
             "collection_slug": "bobs-burgers",
             "collection_title_id": "2003422",
             "online_exclusives": false
