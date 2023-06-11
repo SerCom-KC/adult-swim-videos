@@ -44,5 +44,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230603/thumbnails/2_23631111141-DrStone301Still001tiny.png",
         "id": "AYht2x982rZC6NyF619X",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1688285640,
+        "tms_id": "EP047257420002",
+        "description": "The Kingdom of Science will need rations to last them through their voyage to the other side of the world. But Senku, being no professional, burns all the bread he attempts to bake.",
+        "title_suggest": {
+            "input": [
+                "Greed Equals Justice",
+                "Equals Justice",
+                "Justice"
+            ]
+        },
+        "title": "Greed Equals Justice",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1348.714,
+        "episode_number": "2",
+        "original_air_date": 1686458700,
+        "auth_launch_date": 1686471300,
+        "clip_order": null,
+        "airing_id": "RADS1006042300000317",
+        "media_id": "28c340566973ca701e7b1c9488d267efefa98d87",
+        "modified": 1686404241,
+        "slug": "greed-equals-justice",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230610/thumbnails/1_23610937151-DrStone302BCastStill001tiny.png",
+        "created": 1685913480,
+        "title_id": "2430539",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "published": 1686404241,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230610/thumbnails/2_23610937151-DrStone302BCastStill001tiny.png",
+        "id": "AYiIRi8K2rZC6NyF619b",
+        "auth": true
     }
 ]
