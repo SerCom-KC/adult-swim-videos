@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 11, 2023 at 06:00:18 EDT_
+_Last Update: June 11, 2023 at 06:30:18 EDT_
 ## Video added
 ### Summary
-812206 Naruto: Shippuden: 1  
-### 2177872
-**Naruto: Shippuden S08E26 - The Mutual Path**  
-TV-PG 🔒 21:50  
-⌛ December 16, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/the-mutual-path  
-seriesid=`812206` titleid=`2177872` id=`AYiIRcABOz5CkuTcnvr5` mediaid=`91a967d87e377ef220a0c1416a1d8ee351ca36f4`  
-_Sasuke takes his frustrations out on Naruto and the two begin to fight, this time with their respective new jutsu. Minato steps in just before it turns into a disaster._  
-<a href="https://media.cdn.adultswim.com/uploads/20230610/thumbnails/2_236101028462-NarutoShippuden442Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230610/thumbnails/2_236101028462-NarutoShippuden442Still001tiny.png" height="144px" /></a>
+608360 Robot Chicken: 1  
+### 640872
+**Robot Chicken S02E13 - Metal Militia**  
+TV-MA 🔒 10:29  
+⌛ June 15, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/metal-militia  
+seriesid=`608360` titleid=`640872` id=`_81fnCWuQ5-hrxogjDJ6lg` mediaid=`4866278dc5ac16e901f2088317403475a11c6e48`  
+_Young Young Indiana Jones finds treasure at his elementary school.  Rainbow Brite reveals her dark side.  Montezuma gets his revenge, and the results smell terrible.  Malibu Barbie learns why you don't build your Dream House in Malibu.  Rom: Spaceknight meets his ultimate nemesis!  Into the Blue gets a relevant skewering.  Hulk Hogan busts out of prison camp in Hogan's Heroes._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411135342-robotchicken_031.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411135342-robotchicken_031.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
