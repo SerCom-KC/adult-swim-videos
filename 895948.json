@@ -1131,6 +1131,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1688357640,
+        "tms_id": "EP015632430065",
+        "description": "Eric welcomes Tinashe and Chuck Liddell. Waka Flocka Flame tries ayahuasca. A police officer finds himself in a sexy pickle on Grocery Goofs.",
+        "title_suggest": {
+            "input": [
+                "Football Is Back",
+                "Is Back",
+                "Back"
+            ]
+        },
+        "title": "Football Is Back",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 671.5375,
+        "episode_number": "4",
+        "original_air_date": "1686543300",
+        "auth_launch_date": 1686543300,
+        "clip_order": null,
+        "airing_id": "RADS1006072300002171",
+        "media_id": "0391c83967a775279f7177f5eb5049ff561ca753",
+        "modified": 1686175815,
+        "slug": "football-is-back",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/1_2367162352-TheEricAndreShow604Still002tiny.png",
+        "created": 1686168173,
+        "season_number": "6",
+        "title_id": "2418684",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1686175815,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367162352-TheEricAndreShow604Still002tiny.png",
+        "id": "AYiXdHw2Oz5CkuTcnvu3",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
