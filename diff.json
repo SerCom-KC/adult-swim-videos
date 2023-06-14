@@ -1,7 +1,6 @@
 {
-    "updated": 1686708019,
-    "added": [],
-    "removed": [
+    "updated": 1686709814,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1449259740,
@@ -27,9 +26,9 @@
             "original_air_date": 1419325200,
             "clip_order": null,
             "auth_launch_date": 1664337600,
-            "modified": 1663992054,
+            "modified": 1686709671,
             "media_id": "1091fe2d3d8a54a8caea6c4a2b31792d0fda8d2b",
-            "airing_id": "RADS1009192200029281",
+            "airing_id": "RADS1009232200030749",
             "id": "73WE3JsXSTC4uQacg2U9EQ",
             "slug": "sports",
             "views": 5,
@@ -42,7 +41,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1663992054,
+            "published": 1686709671,
             "first_published": 1419351234,
             "tags": [],
             "collection_title": "Off The Air",
@@ -55,5 +54,6 @@
             "collection_title_id": "830073",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
