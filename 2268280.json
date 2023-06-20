@@ -424,6 +424,52 @@
     },
     {
         "auth_expiration_date": 1687751940,
+        "tms_id": "EP036780850001",
+        "description": "Towa Higurashi learns about an incident that took place decades ago involving a half demon named Inuyasha and a priestess named Kagome.",
+        "title_suggest": {
+            "input": [
+                "Inuyasha: Since Then",
+                "Since Then",
+                "Then"
+            ]
+        },
+        "title": "Inuyasha: Since Then",
+        "expiration_date": 1673845140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXpED60VBH5Z6gH5aWXi",
+        "duration": 1405.9377,
+        "episode_number": "1",
+        "original_air_date": "1624770000",
+        "auth_launch_date": 1687147200,
+        "clip_order": null,
+        "airing_id": "RADS1006202300004256",
+        "media_id": "a30490b8173b77363c979fb010c1edd1ed1517b4",
+        "modified": 1687271470,
+        "slug": "inuyasha-since-then",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/1_2162514185-YashahimePrincessHalfDemon_101_InuyashaSinceThen.png",
+        "created": 1624644097,
+        "season_number": "1",
+        "title_id": "2268281",
+        "tv_rating": "tv-14-lv",
+        "published": 1687271470,
+        "tags": [],
+        "collection_title": "Yashahime: Princess Half-Demon",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1672635600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_2162514185-YashahimePrincessHalfDemon_101_InuyashaSinceThen.png",
+        "id": "AXpEVZZIDmGy9WFjRrmR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1687751940,
         "tms_id": "EP036780850002",
         "description": "Half-demon twins Towa and Setsuna are separated from each other when a mysterious tunnel sends Towa into the future, where she is found and raised by Kagome Higurashi's brother Sota.",
         "title_suggest": {
