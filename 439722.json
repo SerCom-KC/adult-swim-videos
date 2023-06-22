@@ -323,7 +323,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1458565320,
         "auth_expiration_date": 1691899199,
         "tms_id": "EP005604540078",
@@ -657,7 +657,7 @@
     },
     {
         "ott_launch_date": 1536589740,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1687406399,
         "tms_id": "EP005604540084",
         "description": "The Monarch and 21 play a deadly game of tutoring an inexperienced villain. A hot plate of danger is served up with a side of hilarity.",
@@ -755,7 +755,7 @@
     },
     {
         "ott_launch_date": 1536071340,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1687406399,
         "tms_id": "EP005604540083",
         "description": "The Venture family returns to their old compound where intrigue, danger, jackets, and diplomacy await.",
@@ -804,7 +804,7 @@
     },
     {
         "ott_launch_date": 1533652140,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1691899199,
         "tms_id": "EP005604540079",
         "description": "The Venture headquarters is possessed! Or maybe it's just regular haunted. Or it could just be a computer glitch. Whatever it is, only Orpheus and his Order of the Triad can unlock the mystery.",
