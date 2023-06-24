@@ -46,6 +46,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1690689540,
+        "tms_id": "EP047080820001",
+        "description": "A young girl, unwittingly infused with magical ability, soon discovers that she is part of a group of eternal heroes destined to fight a supernatural evil throughout time.",
+        "title_suggest": {
+            "input": [
+                "The Awakening",
+                "Awakening"
+            ]
+        },
+        "title": "The Awakening",
+        "type": "episode",
+        "expiration_date": 1687492740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "duration": 1297.83,
+        "collection_id": "AYfiJVHMOz5CkuTcnvFU",
+        "episode_number": "1",
+        "original_air_date": 1683259200,
+        "auth_launch_date": 1687579200,
+        "clip_order": null,
+        "airing_id": "RADS1006232300004465",
+        "media_id": "5f1a25324e0c932584aeaf9a4ff617bc73b6fbee",
+        "modified": 1687545898,
+        "slug": "the-awakening",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230503/thumbnails/1_23531756341-UnicornWarriorsEternal.Still002tiny.png",
+        "created": 1683139121,
+        "title_id": "2267326",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "published": 1687545898,
+        "tags": [],
+        "collection_title": "Unicorn: Warriors Eternal",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1683259200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230503/thumbnails/2_23531756341-UnicornWarriorsEternal.Still002tiny.png",
+        "id": "AYfi6NMaOz5CkuTcnvFa",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1691294399,
         "tms_id": "EP047080820002",
         "description": "Melinda and Copernicus seek the remaining heroes of Unicorn while the supernatural evil unleashes a sinister force to stop them.",
