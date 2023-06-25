@@ -2284,5 +2284,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230618/thumbnails/2_236181339318-NarutoShippuden443Still001tiny.png",
         "id": "AYiv0fFXOz5CkuTcnvzh",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1734411540,
+        "tms_id": "EP034917240447",
+        "description": "Sasuke leaves the village in order to obtain power from Orochimaru. Naruto and his friends learn that Sasuke is in danger and decide to go after him.",
+        "title_suggest": {
+            "input": [
+                "Leaving the Village",
+                "the Village",
+                "Village"
+            ]
+        },
+        "title": "Leaving the Village",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
+        "duration": 1311.31,
+        "episode_number": "28",
+        "original_air_date": 1687672800,
+        "auth_launch_date": 1687685400,
+        "clip_order": null,
+        "airing_id": "RADS1006202300004274",
+        "media_id": "db7628673572a2176e5167a6fefc735a2a3c3af7",
+        "modified": 1687615221,
+        "slug": "leaving-the-village",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230624/thumbnails/1_2362410090-aslogothumbnail.png",
+        "created": 1687271598,
+        "title_id": "2177874",
+        "season_number": "8",
+        "tv_rating": "tv-pg",
+        "published": 1687615221,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230624/thumbnails/2_2362410090-aslogothumbnail.png",
+        "id": "AYjZOWiSOz5CkuTcnv7S",
+        "auth": true
     }
 ]
