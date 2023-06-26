@@ -663,7 +663,7 @@
         "launch_date": 1684728000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg",
         "id": "AXSYwnpvLyLQBOXK_PN8",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1685937540,
@@ -758,20 +758,17 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1687751940,
+        "auth_expiration_date": 1687147140,
         "tms_id": "",
-        "description": "Eric welcomes Luis Guzm\u00e1n and Tia Carrere. Felipe Esparza hangs out. Mike Penis returns with a guest list of his own! JPEGMAFIA, Lil Yachty, MURS, Trippie Redd and Zack Fox on a new Rapper Warrior Ninja.",
+        "description": "Blannibal has had enough of the show and quits, too. Eric gets into a dangerous situation with an organized crime associate. Eric and co-host Lakeith Stanfield welcome Tiffany Pollard and Naya Rivera with musical guest Big Freedia.",
         "title_suggest": {
             "input": [
-                "Named After My Dad's Penis",
-                "After My Dad's Penis",
-                "My Dad's Penis",
-                "Dad's Penis",
-                "Penis"
+                "Blannibal Quits",
+                "Quits"
             ]
         },
-        "title": "Named After My Dad's Penis",
-        "expiration_date": 1684727940,
+        "title": "Blannibal Quits",
+        "expiration_date": 1690948740,
         "type": "episode",
         "platforms": [
             "android",
@@ -780,30 +777,30 @@
             "fire-tv"
         ],
         "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "7",
+        "duration": 684.9176,
+        "episode_number": "6",
         "original_air_date": null,
-        "auth_launch_date": 1684728000,
+        "auth_launch_date": 1684123200,
         "clip_order": null,
-        "airing_id": "RADS1004132300084988",
-        "media_id": "dac345dc57549a17c2d38edad9eef09c3e88bba0",
-        "modified": 1684491328,
-        "slug": "named-after-my-dads-penis",
+        "airing_id": "RADS1006142300003802",
+        "media_id": "00bbbafd3e8d7f44bde4314b6fa823c99773a16b",
+        "modified": 1687336370,
+        "slug": "blannibal-quits",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161720229-ericandre_506_dup-20200910.jpg",
-        "created": 1600291229,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161719212-ericandre_505_dup-20200824.jpg",
+        "created": 1600290968,
         "season_number": "5",
-        "title_id": "2230786",
-        "tv_rating": "tv-ma-l",
-        "published": 1684491328,
+        "title_id": "2230785",
+        "tv_rating": "tv-ma-ls",
+        "published": 1687336370,
         "tags": [],
         "collection_title": "The Eric Andre Show",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1681704000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
-        "id": "AXSYyk1WSeFB2d0c387_",
-        "auth": true
+        "launch_date": 1687752000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719212-ericandre_505_dup-20200824.jpg",
+        "id": "AXSYxlIJLyLQBOXK_POA",
+        "auth": false
     },
     {
         "auth_expiration_date": 1688356740,
@@ -1269,6 +1266,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254209-TheEricAndreShow610Still001tiny.png",
         "id": "AYiwCsPX2rZC6NyF619w",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1689566340,
+        "tms_id": "EP015632430070",
+        "description": "Eric welcomes Raven Symone and Benny Blanco. H09909 gets H09909fied. The Kar Kwash introduces a new car cleaning technique.",
+        "title_suggest": {
+            "input": [
+                "Anti-weed"
+            ]
+        },
+        "title": "Anti-weed",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 673.6063,
+        "episode_number": "7",
+        "original_air_date": 1687752000,
+        "auth_launch_date": 1687752000,
+        "clip_order": null,
+        "airing_id": "RADS1006202300004275",
+        "media_id": "0379c858dcf529d4f4e633ce78f4b97be8abfc37",
+        "modified": 1687615342,
+        "slug": "anti-weed",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230624/thumbnails/1_23624101455-aslogothumbnail.png",
+        "created": 1687271602,
+        "title_id": "2418687",
+        "season_number": "6",
+        "tv_rating": "tv-ma-ls",
+        "published": 1687615342,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "Jonas Eason",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230624/thumbnails/2_23624101455-aslogothumbnail.png",
+        "id": "AYjZOXpA2rZC6NyF6193",
         "auth": true
     },
     {

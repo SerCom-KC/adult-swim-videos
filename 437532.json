@@ -1,96 +1,5 @@
 [
     {
-        "auth_expiration_date": 1687751940,
-        "tms_id": "EP003034830038",
-        "description": "Dr. Zoidberg breaks into show business by making a movie with his uncle.",
-        "title_suggest": {
-            "input": [
-                "That's Lobstertainment!",
-                "Lobstertainment!"
-            ]
-        },
-        "title": "That's Lobstertainment!",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1399.8651,
-        "episode_number": "8",
-        "original_air_date": 1047009600,
-        "auth_launch_date": 1687147200,
-        "clip_order": null,
-        "airing_id": "RADS1006122300003250",
-        "media_id": "801dd9ff3a2142816092cf599f005e091dbcca3c",
-        "modified": 1686740638,
-        "slug": "thats-lobstertainment",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171420114-Futurama_037_ThatsLobstertainment.png",
-        "created": 1647451918,
-        "title_id": "437701",
-        "season_number": "3",
-        "tv_rating": "tv-pg",
-        "published": 1686740638,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171420114-Futurama_037_ThatsLobstertainment.png",
-        "id": "AX-TyVEA_0O4w1rD3R1v",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1687751940,
-        "tms_id": "EP003034830039",
-        "description": "Bender transports hazardous cargo through a penguin refuge on Pluto.",
-        "title_suggest": {
-            "input": [
-                "Birdbot of Ice-Catraz",
-                "of Ice-Catraz",
-                "Ice-Catraz"
-            ]
-        },
-        "title": "Birdbot of Ice-Catraz",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.1674,
-        "episode_number": "9",
-        "original_air_date": 1046750400,
-        "auth_launch_date": 1687147200,
-        "clip_order": null,
-        "airing_id": "RADS1006122300003252",
-        "media_id": "7622ff11648322c454aac2b1f26be95cbb1c2bfa",
-        "modified": 1686723505,
-        "slug": "birdbot-of-ice-catraz",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221438107-Futurama_038_TheBirdbotOfIceCatraz.png",
-        "created": 1647830013,
-        "title_id": "437702",
-        "season_number": "3",
-        "tv_rating": "tv-pg-dl",
-        "published": 1686723505,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221438107-Futurama_038_TheBirdbotOfIceCatraz.png",
-        "id": "AX-qUpel_0O4w1rD3R3V",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1688097540,
         "tms_id": "EP003034830040",
         "description": "Fry quests to recover a seven-leaf clover he possessed as a child.",
@@ -229,6 +138,100 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311314523-Futurama_041_InsaneInTheMainframe.png",
         "id": "AX_CLtJ5208s7zyYUMbb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1688356740,
+        "tms_id": "EP003034830043",
+        "description": "Bender makes a new name for himself when he gets the opportunity to live out his folk-rock dream.",
+        "title_suggest": {
+            "input": [
+                "Bendin' in the Wind",
+                "in the Wind",
+                "the Wind",
+                "Wind"
+            ]
+        },
+        "title": "Bendin' in the Wind",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1399.1646,
+        "episode_number": "13",
+        "original_air_date": 1047528000,
+        "auth_launch_date": 1687752000,
+        "clip_order": null,
+        "airing_id": "RADS1006142300003795",
+        "media_id": "db594103fea0c5f35c7e980944f0a847c237e6aa",
+        "modified": 1687333022,
+        "slug": "bendin-in-the-wind",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311315519-Futurama_042_BendinInTheWind.png",
+        "created": 1648474971,
+        "title_id": "437706",
+        "season_number": "3",
+        "tv_rating": "tv-pg-d",
+        "published": 1687333022,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311315519-Futurama_042_BendinInTheWind.png",
+        "id": "AX_Qw93e208s7zyYUMcM",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1688356740,
+        "tms_id": "EP003034830044",
+        "description": "The professor creates a team of mutants to challenge the Harlem Globetrotters.",
+        "title_suggest": {
+            "input": [
+                "Time Keeps on Slippin",
+                "Keeps on Slippin",
+                "on Slippin",
+                "Slippin"
+            ]
+        },
+        "title": "Time Keeps on Slippin",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.9976,
+        "episode_number": "14",
+        "original_air_date": 1047614400,
+        "auth_launch_date": 1687752000,
+        "clip_order": null,
+        "airing_id": "RADS1006142300003793",
+        "media_id": "0586162bc25139297a4139dd0831b372e79116f4",
+        "modified": 1687354977,
+        "slug": "time-keeps-on-slippin",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311316496-Futurama_043_TimeKeepsOnSlippin.png",
+        "created": 1648475335,
+        "title_id": "438046",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "published": 1687354977,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311316496-Futurama_043_TimeKeepsOnSlippin.png",
+        "id": "AX_QyWxV208s7zyYUMcP",
         "auth": true
     }
 ]
