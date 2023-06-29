@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 29, 2023 at 11:00:18 EDT_
+_Last Update: June 29, 2023 at 13:00:19 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-608360 Robot Chicken: 1  
-### 640874
-**Robot Chicken S02E15 - Sausage Fest**  
-TV-MA 🔒 11:09  
-⌛ June 29, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/sausage-fest  
-seriesid=`608360` titleid=`640874` id=`2arcvCNFS_q4ijsXnPs1Gw` mediaid=`254faa146a5a9f4a1f68e0a227b99444ecdf1d91`  
-_Lil' Hitler will win your heart! The Library of Heaven yields answers even God doesn't want you to know.  The Burger King serves up some delicious B&E. Garfield and Heathcliff take each other to court. A giraffe deals with the stages of death. Action Jackson endorses laundry detergent.  Never pick up a hitchhiking pig! The gang from Police Academy joins the X-Men._  
-<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411137118-robotchicken_033.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411137118-robotchicken_033.jpg" height="144px" /></a>
+2137894 Ballmastrz: 9009: 1  
+### 2413271
+**Ballmastrz: 9009 S02E11 - Ballmastrz: Rubicon**  
+TV-14-DLV 🔓 22:23  
+⌛ June 29, 2023 at 12:55:32 EDT  
+https://www.adultswim.com/videos/ballmastrz-9009/ballmastrz-rubicon  
+seriesid=`2137894` titleid=`2413271` id=`AYZbjYsyuLQD-MTtYgNC` mediaid=`a72cbb638868e833bb7837c9aa5d1efd50aac63a`  
+_When secrets from Crayzar's past threaten the future of the planet, will he grow some balls and unite 'Team Earth' or add humanity to the intergalactic endangered species list?_  
+<a href="https://media.cdn.adultswim.com/uploads/20230301/thumbnails/2_23311756524-Rubicontiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230301/thumbnails/2_23311756524-Rubicontiny.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
