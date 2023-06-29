@@ -2,30 +2,24 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 29, 2023 at 16:00:19 EDT_
+_Last Update: June 29, 2023 at 17:00:19 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-895948 The Eric Andre Show: 3  
+608360 Robot Chicken: 2  
 ### 
-**The Eric Andre Show S??E?? - Eric Andre’s Quinceañera**  
- 🔓 316:31  
-https://www.adultswim.com/videos/the-eric-andre-show/eric-andres-quinceanera  
-seriesid=`895948` titleid=`` id=`AWKnx5MpTdxzjxdClTq9` mediaid=`me04bac5b6157c698c0073c85c2a57a339896aac35`  
-_Here we go again. Live from Hollywood_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15232332699432.png"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15232332699432.png" height="144px" /></a>
-### 
-**The Eric Andre Show S??E?? - Eric Andre's Birthday 2019**  
- 🔓 60:00  
-https://www.adultswim.com/videos/the-eric-andre-show/eric-andres-birthday-2019  
-seriesid=`895948` titleid=`` id=`AWoSfLo-Hl5gR6828zPh` mediaid=`me5c9a8081b7c65eb62551f01a17035b770db98cdf`  
-_Eric Andre celebrates another year around the sun with special guests, FEMA tents, and a mechanical shark_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15553553413862.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15553553413862.jpg" height="144px" /></a>
-### 
-**The Eric Andre Show S??E?? - Krft Punk's Political Party Premiere Party**  
- 🔓 132:52  
-https://www.adultswim.com/videos/the-eric-andre-show/krft-punks-political-party-premiere-party  
-seriesid=`895948` titleid=`` id=`AWyL6STdCorLtcgfltoi` mediaid=`mea73f72601b076858a826a25b7b00994032e0b867`  
-_Watch Krft Punk's Political Party Premiere Party Streamed Live from LA_  
-<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341633483-KrftPunksPoliticalPartyPremiereParty.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341633483-KrftPunksPoliticalPartyPremiereParty.jpg" height="144px" /></a>
+**Robot Chicken S10E?? - Night of 1000 Bawks**  
+ 🔓 165:28  
+https://www.adultswim.com/videos/robot-chicken/night-of-1000-bawks  
+seriesid=`608360` titleid=`` id=`AW2TDkG9adNs2hMNfuMC` mediaid=`me9c2484779898da497faed42b3ea148b182b84852`  
+_Relive the red carpet glamour of Robot Chicken's 10th Season Spectacular._  
+<a href="https://media.cdn.adultswim.com/uploads/20211028/thumbnails/2_21102894448-robotchicken_NightOf1000Bawks.jpg"><img src="https://media.cdn.adultswim.com/uploads/20211028/thumbnails/2_21102894448-robotchicken_NightOf1000Bawks.jpg" height="144px" /></a>
+### 2137405
+**Robot Chicken S99E?? - Walking Dead Special: Look Who's Walking**  
+TV-MA-LV 🔒 22:25  
+⌛ October 23, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/walking-dead-special-look-whos-walking  
+seriesid=`608360` titleid=`2137405` id=`tiC1XBWPSmmhFkgiR-A5Ew` mediaid=`764db2a701fb01bd7a96867b5fed276effc45c25`  
+_The tale of Rick Grimes and his walker-battling friends gets a twisted retelling when the Robot Chicken Nerd visits the Walking Dead Museum and meets an aging survivor._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/walking-dead-special-look-whos-walking/robotchicken_921_WalkingDead_dup-20171003_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/walking-dead-special-look-whos-walking/robotchicken_921_WalkingDead_dup-20171003_1.jpg" height="144px" /></a>
