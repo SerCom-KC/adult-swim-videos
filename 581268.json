@@ -937,6 +937,52 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1509373740,
+        "auth": true,
+        "auth_expiration_date": 1688183940,
+        "tms_id": "EP007008180108",
+        "description": "Sheriff discovers alcohol at the world's largest outdoor cocktail party.",
+        "title_suggest": {
+            "input": [
+                "Jacksonville Jackass",
+                "Jackass"
+            ]
+        },
+        "expiration_date": 1688788740,
+        "type": "episode",
+        "title": "Jacksonville Jackass",
+        "platforms": [
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 672.08,
+        "episode_number": "3",
+        "original_air_date": 1509336000,
+        "auth_launch_date": 1673067600,
+        "clip_order": null,
+        "modified": 1688098936,
+        "media_id": "81781565f0aacdbfe347fc1908efc161c25d17c9",
+        "airing_id": "RADS1001052300058121",
+        "id": "AV9eWuUNUsnTssXbIAby",
+        "slug": "jacksonville-jackass",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141151143-squidbillies_915_dup-20171026.jpg",
+        "created": 1509116536,
+        "season_number": "11",
+        "title_id": "2108969",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1688098936,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1688184000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141151143-squidbillies_915_dup-20171026.jpg",
+        "cma_id": "2108969"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "It's about damn time.",
