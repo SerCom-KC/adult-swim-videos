@@ -325,7 +325,7 @@
         "cma_id": "1427888"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1508164140,
         "auth_expiration_date": 1688183940,
         "tms_id": "EP007008180107",
@@ -937,8 +937,66 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1509373740,
+        "ott_launch_date": 1509982140,
         "auth": true,
+        "auth_expiration_date": 1688788740,
+        "tms_id": "EP007008180110",
+        "description": "Early's most confusing conspiracy theory turns out to be false.",
+        "title_suggest": {
+            "input": [
+                "The Knights of the Noble Order of the Mystic Turquoise Goblet",
+                "Knights of the Noble Order of the Mystic Turquoise Goblet",
+                "of the Noble Order of the Mystic Turquoise Goblet",
+                "the Noble Order of the Mystic Turquoise Goblet",
+                "Noble Order of the Mystic Turquoise Goblet",
+                "Order of the Mystic Turquoise Goblet",
+                "of the Mystic Turquoise Goblet",
+                "the Mystic Turquoise Goblet",
+                "Mystic Turquoise Goblet",
+                "Turquoise Goblet",
+                "Goblet"
+            ]
+        },
+        "expiration_date": 1673067540,
+        "type": "episode",
+        "title": "The Knights of the Noble Order of the Mystic Turquoise Goblet",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 672.13,
+        "episode_number": "4",
+        "original_air_date": 1509944400,
+        "auth_launch_date": 1688184000,
+        "clip_order": null,
+        "modified": 1688049649,
+        "media_id": "26ff1c11a6021b95d08bc89e2d0f6cce072318ed",
+        "airing_id": "RADS1006292300005688",
+        "id": "AV9eWXAbSPzxOkLuqdkZ",
+        "slug": "the-knights-of-the-noble-order-of-the-mystic-turquoise-goblet",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-150999394764418.jpg",
+        "created": 1509116440,
+        "season_number": "11",
+        "title_id": "2108964",
+        "tv_rating": "tv-14-dls",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1688049649,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "modified_by": "ODT Listener",
+        "launch_date": 1672462800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150999394764418.jpg",
+        "cma_id": "2108964"
+    },
+    {
+        "ott_launch_date": 1509373740,
+        "auth": false,
         "auth_expiration_date": 1688183940,
         "tms_id": "EP007008180108",
         "description": "Sheriff discovers alcohol at the world's largest outdoor cocktail party.",
@@ -2651,7 +2709,7 @@
         "auth": true
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1477924260,
         "auth_expiration_date": 1688183940,
         "tms_id": "EP007008180105",
@@ -2768,7 +2826,7 @@
         "cma_id": "1413947"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1471271460,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180103",
@@ -3134,7 +3192,7 @@
         "cma_id": "1313222"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1470666660,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180102",
@@ -3184,7 +3242,7 @@
         "cma_id": "1239480"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1470061860,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180100",
@@ -3795,7 +3853,7 @@
         "cma_id": "1397696"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1469457060,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180099",
@@ -7154,7 +7212,7 @@
         "cma_id": "1360146"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1471876260,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180104",
@@ -7874,7 +7932,7 @@
         "cma_id": "758314"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1508768940,
         "auth_expiration_date": 1688183940,
         "tms_id": "EP007008180109",
@@ -8208,7 +8266,7 @@
         "cma_id": "1338018"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1688183940,
         "tms_id": "EP007008180106",
