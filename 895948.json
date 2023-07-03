@@ -858,7 +858,7 @@
         "launch_date": 1688357700,
         "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367162352-TheEricAndreShow604Still002tiny.png",
         "id": "AYiXdHw2Oz5CkuTcnvu3",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1688961540,
@@ -1073,6 +1073,39 @@
         "modified": 1688139502,
         "slug": "krft-punk-returns",
         "id": "AYkM9G6k2rZC6NyF6197",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1690172040,
+        "created": 1688139510,
+        "tms_id": "EP015632430073",
+        "title_id": "2418690",
+        "season_number": "6",
+        "tv_rating": "tv-ma-ls",
+        "description": "Freeze right there. Welcome to The COLD EPISODE. Eric and his new co-host the FRIDGE KEEPER celebrate cold temperatures with Meagan Goode and Daymond John. A man has an existential crisis on an elevator to hell\u2026 if hell froze over...",
+        "title_suggest": {
+            "input": [
+                "The Cold Episode",
+                "Cold Episode",
+                "Episode"
+            ]
+        },
+        "published": 1688139516,
+        "title": "The Cold Episode",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 0,
+        "episode_number": "10",
+        "collection_title": "The Eric Andre Show",
+        "original_air_date": 1688357700,
+        "auth_launch_date": 1688357700,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006302300006171",
+        "media_id": "9c39b4614052a488d72848ba26d3f78f00d33a6b",
+        "modified": 1688139516,
+        "slug": "the-cold-episode",
+        "id": "AYkM9LH4Oz5CkuTcnwD4",
         "auth": true
     },
     {
