@@ -252,7 +252,7 @@
         "launch_date": 1685332800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161712495-ericandre_502_dup-20200812.jpg",
         "id": "AXSYw1UXSeFB2d0c3877",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1685332740,
@@ -485,17 +485,20 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1688356740,
+        "auth_expiration_date": 1687751940,
         "tms_id": "",
-        "description": "Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty.",
+        "description": "Eric welcomes Luis Guzm\u00e1n and Tia Carrere. Felipe Esparza hangs out. Mike Penis returns with a guest list of his own! JPEGMAFIA, Lil Yachty, MURS, Trippie Redd and Zack Fox on a new Rapper Warrior Ninja.",
         "title_suggest": {
             "input": [
-                "Bone TV",
-                "TV"
+                "Named After My Dad's Penis",
+                "After My Dad's Penis",
+                "My Dad's Penis",
+                "Dad's Penis",
+                "Penis"
             ]
         },
-        "title": "Bone TV",
-        "expiration_date": 1685332740,
+        "title": "Named After My Dad's Penis",
+        "expiration_date": 1690948740,
         "type": "episode",
         "platforms": [
             "android",
@@ -504,30 +507,30 @@
             "fire-tv"
         ],
         "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 667.5002,
-        "episode_number": "8",
+        "duration": 675.5082,
+        "episode_number": "7",
         "original_air_date": null,
-        "auth_launch_date": 1685332800,
+        "auth_launch_date": 1684728000,
         "clip_order": null,
-        "airing_id": "RADS1005252300098198",
-        "media_id": "aacf6a70f967c518dfcfb33d9f805734dacc2fcd",
-        "modified": 1686170418,
-        "slug": "bone-tv",
+        "airing_id": "RADS1006302300006192",
+        "media_id": "dac345dc57549a17c2d38edad9eef09c3e88bba0",
+        "modified": 1688139998,
+        "slug": "named-after-my-dads-penis",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161721227-ericandre_508_dup-20200914.jpg",
-        "created": 1600291286,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161720229-ericandre_506_dup-20200910.jpg",
+        "created": 1600291229,
         "season_number": "5",
-        "title_id": "2230787",
-        "tv_rating": "tv-ma-ls",
-        "published": 1686170418,
+        "title_id": "2230786",
+        "tv_rating": "tv-ma-l",
+        "published": 1688139998,
         "tags": [],
         "collection_title": "The Eric Andre Show",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1682308800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg",
-        "id": "AXSYyy1XLyLQBOXK_POB",
-        "auth": true
+        "launch_date": 1688356800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
+        "id": "AXSYyk1WSeFB2d0c387_",
+        "auth": false
     },
     {
         "auth_expiration_date": 1689566340,
@@ -809,7 +812,7 @@
         "launch_date": 1688356800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367161578-TheEricAndreShow603Still002tiny.png",
         "id": "AYiXc-_g2rZC6NyF619t",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1688357640,
@@ -855,7 +858,7 @@
         "launch_date": 1688357700,
         "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367162352-TheEricAndreShow604Still002tiny.png",
         "id": "AYiXdHw2Oz5CkuTcnvu3",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1688961540,
@@ -1037,6 +1040,72 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230624/thumbnails/2_23624102318-aslogothumbnail.png",
         "id": "AYjZOaps2rZC6NyF6194",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1690171140,
+        "created": 1688139493,
+        "tms_id": "EP015632430072",
+        "title_id": "2418689",
+        "season_number": "6",
+        "tv_rating": "tv-ma-l",
+        "description": "Eric welcomes Lil Yachty. Rico Nasty slaps around an iconic character. A school bus crashes and a President's son is the lone suspect.",
+        "title_suggest": {
+            "input": [
+                "Krft Punk Returns",
+                "Punk Returns",
+                "Returns"
+            ]
+        },
+        "published": 1688139502,
+        "title": "Krft Punk Returns",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 0,
+        "episode_number": "9",
+        "collection_title": "The Eric Andre Show",
+        "original_air_date": 1688356800,
+        "auth_launch_date": 1688356800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006302300006169",
+        "media_id": "ed8305e1074132d0f5407d4fe2d73153392f1875",
+        "modified": 1688139502,
+        "slug": "krft-punk-returns",
+        "id": "AYkM9G6k2rZC6NyF6197",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1690172040,
+        "created": 1688139510,
+        "tms_id": "EP015632430073",
+        "title_id": "2418690",
+        "season_number": "6",
+        "tv_rating": "tv-ma-ls",
+        "description": "Freeze right there. Welcome to The COLD EPISODE. Eric and his new co-host the FRIDGE KEEPER celebrate cold temperatures with Meagan Goode and Daymond John. A man has an existential crisis on an elevator to hell\u2026 if hell froze over...",
+        "title_suggest": {
+            "input": [
+                "The Cold Episode",
+                "Cold Episode",
+                "Episode"
+            ]
+        },
+        "published": 1688139516,
+        "title": "The Cold Episode",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 0,
+        "episode_number": "10",
+        "collection_title": "The Eric Andre Show",
+        "original_air_date": 1688357700,
+        "auth_launch_date": 1688357700,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006302300006171",
+        "media_id": "9c39b4614052a488d72848ba26d3f78f00d33a6b",
+        "modified": 1688139516,
+        "slug": "the-cold-episode",
+        "id": "AYkM9LH4Oz5CkuTcnwD4",
         "auth": true
     },
     {
