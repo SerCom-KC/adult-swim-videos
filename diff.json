@@ -1,14 +1,9 @@
 {
-    "updated": 1688414419,
-    "added": [],
-    "removed": [
+    "updated": 1688430624,
+    "added": [
         {
             "auth_expiration_date": 1689911940,
-            "created": 1687539586,
             "tms_id": "EP047080820010",
-            "title_id": "2267335",
-            "season_number": "1",
-            "tv_rating": "tv-pg-v",
             "description": "Emma attempts to find her way back to Unicorn, while they struggle to hold out against the growing power of the Evil Entity.",
             "title_suggest": {
                 "input": [
@@ -19,26 +14,44 @@
                     "Beginning"
                 ]
             },
-            "published": 1687821459,
             "title": "The End of the Beginning",
             "type": "episode",
-            "tags": [],
+            "expiration_date": null,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
             "collection_id": "AYfiJVHMOz5CkuTcnvFU",
             "duration": 1415.0135,
             "episode_number": "10",
-            "collection_title": "Unicorn: Warriors Eternal",
             "original_air_date": 1688097600,
             "auth_launch_date": 1688097600,
-            "modified_by": "ODT Listener",
-            "airing_id": "RADS1006232300004467",
+            "clip_order": null,
+            "airing_id": "RADS1007042300006782",
             "media_id": "d4886125d30a32373f083ab08b3c097194a96883",
-            "modified": 1687821459,
+            "modified": 1688430361,
             "slug": "the-end-of-the-beginning",
+            "exclude_from_search": false,
+            "thumbnail": "",
+            "created": 1687539586,
+            "title_id": "2267335",
+            "season_number": "1",
+            "tv_rating": "tv-pg-v",
+            "published": 1688430361,
+            "tags": [],
+            "collection_title": "Unicorn: Warriors Eternal",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "",
             "id": "AYjpMpbi2rZC6NyF6195",
             "auth": true,
             "collection_slug": "unicorn-warriors-eternal",
             "collection_title_id": "2267325",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
