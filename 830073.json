@@ -1205,7 +1205,7 @@
         "clip_order": null,
         "airing_id": "RADS1006302300006335",
         "media_id": "e0beece15ce884780984171af157b9034fc01797",
-        "modified": 1688528081,
+        "modified": 1688529642,
         "slug": "nonsense",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20220707/thumbnails/1_227793267-OffTheAir_1201_Nonsense.png",
@@ -1213,7 +1213,7 @@
         "title_id": "2396314",
         "season_number": "12",
         "tv_rating": "tv-ma",
-        "published": 1688528081,
+        "published": 1688529642,
         "tags": [],
         "collection_title": "Off The Air",
         "disable_ads": false,
@@ -1221,7 +1221,7 @@
         "launch_date": 1686715200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220707/thumbnails/2_227793267-OffTheAir_1201_Nonsense.png",
         "id": "AYG7waAL208s7zyYUNUV",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1687319940,
@@ -1353,7 +1353,7 @@
         "launch_date": 1688529600,
         "poster": "https://media.cdn.adultswim.com/uploads/20221226/thumbnails/2_2212261324146-offtheair1204Still001tiny.png",
         "id": "AYVFCFlluLQD-MTtYfRc",
-        "auth": true
+        "auth": false
     },
     {
         "auth": true,
