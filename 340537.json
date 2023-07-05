@@ -53,7 +53,7 @@
         "cma_id": "1340819"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971500,
         "auth_expiration_date": 1688529540,
         "tms_id": "EP004662930070",
@@ -78,7 +78,7 @@
         "original_air_date": 1166412600,
         "clip_order": null,
         "auth_launch_date": 1676610000,
-        "modified": 1688526264,
+        "modified": 1688529654,
         "media_id": "e62c58a6a69a82156e65d0db3de97285daf823e7",
         "airing_id": "RADS1006302300006310",
         "id": "-2j5iJ4zSym-f0dH8sEemQ",
@@ -93,7 +93,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1688526264,
+        "published": 1688529654,
         "tags": [
             "ATHF",
             "Episode 66",
@@ -229,7 +229,7 @@
         "cma_id": "786555"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971380,
         "auth_expiration_date": 1688529540,
         "tms_id": "EP004662930063",
@@ -255,7 +255,7 @@
         "original_air_date": 1165203000,
         "clip_order": null,
         "auth_launch_date": 1676610000,
-        "modified": 1688527761,
+        "modified": 1688529659,
         "media_id": "9ed29e88b2a9e1047c0b114b3e0d317610cf6ff7",
         "airing_id": "RADS1006302300006314",
         "id": "1E88zaeEQ_ef3tT9Bzettg",
@@ -270,7 +270,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1688527761,
+        "published": 1688529659,
         "tags": [],
         "rating_count": 1863,
         "collection_title": "Aqua Teen Hunger Force",
@@ -1212,7 +1212,7 @@
         "cma_id": "1224666"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445971500,
         "auth_expiration_date": 1704862740,
         "tms_id": "EP004662930066",
@@ -2897,7 +2897,7 @@
         "cma_id": "1480410"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971560,
         "auth_expiration_date": 1688529540,
         "tms_id": "EP004662930071",
@@ -4059,7 +4059,7 @@
         "cma_id": "1403943"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445971320,
         "auth_expiration_date": 1704862740,
         "tms_id": "EP004662930062",
@@ -6755,7 +6755,7 @@
         "cma_id": "1221906"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445971500,
         "auth_expiration_date": 1704862740,
         "tms_id": "EP004662930065",
@@ -6860,7 +6860,7 @@
         "cma_id": "1263706"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445971260,
         "auth_expiration_date": 1704862740,
         "tms_id": "EP004662930061",
@@ -6969,7 +6969,7 @@
         "cma_id": "1136087"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971620,
         "auth_expiration_date": 1688529540,
         "tms_id": "EP004662930069",
@@ -7023,7 +7023,7 @@
         "cma_id": "1360104"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971740,
         "auth_expiration_date": 1688529540,
         "tms_id": "EP004662930072",
@@ -7577,7 +7577,7 @@
         "cma_id": "1294518"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445971380,
         "auth_expiration_date": 1704862740,
         "tms_id": "EP004662930064",
