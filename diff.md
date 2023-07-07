@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 7, 2023 at 01:00:21 EDT_
+_Last Update: July 7, 2023 at 10:30:16 EDT_
 ## Video added
-### Summary
-2288454 My Adventures with Superman: 1  
-### 2288456
-**My Adventures with Superman S01E02 - Adventures of a Normal Man Pt. 2**  
-TV-PG-V 🔒 22:30  
-⌛ July 28, 2023 at 00:29:00 EDT  
-https://www.adultswim.com/videos/my-adventures-with-superman/adventures-of-a-normal-man-pt-2  
-seriesid=`2288454` titleid=`2288456` id=`AYkdIk-y2rZC6NyF6199` mediaid=`7149bfeea490c4b8b22adff7a41f4f2e6f49a728`  
-_Clark returns to the Kent farm with questions about where he's from - and who he wants to be. Meanwhile, Lois and Jimmy track down the mercenary Livewire…and encounter "Superman" once again!_  
-<a href="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751143593-ASGenericThumb.png"><img src="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751143593-ASGenericThumb.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+343621 Samurai Jack: 1  
+### 343641
+**Samurai Jack S01E13 - XIII**  
+TV-Y7-FV 🔒 22:40  
+⌛ July 8, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xiii  
+seriesid=`343621` titleid=`343641` id=`QiaBLguZQu-zJW6DaS3VBw` mediaid=`da9d6ec6a3269bca21ac39b1ce04a4bbdcc32b45`  
+_Aku tells fairy tales to the children to try and win them over to his side instead of Jack's._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461641544-samjack_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461641544-samjack_013.jpg" height="144px" /></a>
