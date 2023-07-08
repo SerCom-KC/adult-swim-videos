@@ -47,54 +47,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1688788740,
-        "tms_id": "EP003034830033",
-        "description": "Bender is declared the new Santa after Santabot is frozen on Neptune.",
-        "title_suggest": {
-            "input": [
-                "A Tale of Two Santas",
-                "Tale of Two Santas",
-                "of Two Santas",
-                "Two Santas",
-                "Santas"
-            ]
-        },
-        "title": "A Tale of Two Santas",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.2675,
-        "episode_number": "2",
-        "original_air_date": 1046404800,
-        "auth_launch_date": 1688184000,
-        "clip_order": null,
-        "airing_id": "RADS1006142300004135",
-        "media_id": "d531878505e9b874605cee3ed9db604117937fb7",
-        "modified": 1688100442,
-        "slug": "a-tale-of-two-santas",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/1_2247160236-Futurama_046_ATaleOfTwoSantas.png",
-        "created": 1649217618,
-        "title_id": "437697",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dv",
-        "published": 1688100442,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_2247160236-Futurama_046_ATaleOfTwoSantas.png",
-        "id": "AX_9B8E-208s7zyYUMg4",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1688961540,
         "tms_id": "EP003034830046",
         "description": "In several what if scenarios, Bender learns how life would be if he were human, Fry experiences life as if it were a video game and Leela wonders about her true home.",
@@ -230,6 +182,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121517385-Futurama_049_LeelasHomeworld.png",
         "id": "AYAZFmxB208s7zyYUMkG",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1689393540,
+        "tms_id": "EP003034830052",
+        "description": "Amy's disapproving family tries to break up her relationship with Kif.",
+        "title_suggest": {
+            "input": [
+                "Where the Buggalo Roam",
+                "the Buggalo Roam",
+                "Buggalo Roam",
+                "Roam"
+            ]
+        },
+        "title": "Where the Buggalo Roam",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1407.4728,
+        "episode_number": "6",
+        "original_air_date": 1047355200,
+        "auth_launch_date": 1688788800,
+        "clip_order": null,
+        "airing_id": "RADS1007042300006833",
+        "media_id": "02481b852b428976c1e550fcdc693c7b141fc533",
+        "modified": 1688478063,
+        "slug": "where-the-buggalo-roam",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
+        "created": 1650048005,
+        "title_id": "438045",
+        "season_number": "4",
+        "tv_rating": "tv-pg-l",
+        "published": 1688478063,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
+        "id": "AYAuhnYE208s7zyYUMnX",
         "auth": true
     }
 ]
