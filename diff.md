@@ -2,121 +2,85 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 8, 2023 at 00:30:22 EDT_
+_Last Update: July 9, 2023 at 00:00:26 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-### 2012720
-**American Dad S09E19 - News Glance With Genevieve Vavance**  
-TV-14 🔒 21:31  
-⌛ July 14, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/news-glance-with-genevieve-vavance  
-seriesid=`581006` titleid=`2012720` id=`8aoaDgIBQgKSgrhDk7qeuA` mediaid=`c08bb98f7dafc7952ab787609bc9ff1bf126d03f`  
-_Hayley wants to save the world through investigative journalism so she becomes an intern for a local news reporter.  The reporter turns out to be Roger, who only wants ratings through sensationalized stories_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923987113810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923987113810.jpg" height="144px" /></a>
-### 2012719
-**American Dad S09E18 - Permanent Record Wrecker**  
-TV-14 🔒 21:30  
-⌛ July 14, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/permanent-record-wrecker  
-seriesid=`581006` titleid=`2012719` id=`TCbEfgMTQRqz5bL-fnTinw` mediaid=`853f038edb307e51730762405e96cb0adaaccb2d`  
-_Stan is laid off from work and has to search for a job for the first time in over twenty years.  When he applies for jobs, Stan learns that his permanent record has been wiped clean of his C.I.A. experience and no one wants to hire him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192398355963.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192398355963.jpg" height="144px" /></a>
-### 2132983
-**Bob's Burgers S07E05 - Bob Actually**  
-TV-PG-DL 🔒 21:42  
-⌛ July 14, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/bob-actually  
-seriesid=`2003422` titleid=`2132983` id=`VmnWvv2pTD2WBaYwR3ARdA` mediaid=`02f2bc7d7a7775a9d9c127202186f14a3faa9e6e`  
-_With Valentine's Day approaching, Tina, Gene and Louise each find themselves wrapped up in love-caused chaos. Meanwhile, Bob decides on a romantic gesture in order to impress Linda._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108568328929.jpg" height="144px" /></a>
-### 2132974
-**Bob's Burgers S07E04 - Ex Machtina**  
-TV-PG-L 🔒 21:48  
-⌛ July 14, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/ex-machtina  
-seriesid=`2003422` titleid=`2132974` id=`BG0pb6rnSyu09zSBqyL_MA` mediaid=`dbac9700328ed65b8ecd83c34930cd1abc609247`  
-_When Tina hurts her ankle, she is left with no choice but to telecommute to school. After enrolling in a program that allows her to send a robot version of herself to class, Tina finds herself having an unexpected breakthrough with Jimmy Jr._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15103318419278.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15103318419278.jpg" height="144px" /></a>
-### 438045
-**Futurama S04E06 - Where the Buggalo Roam**  
-TV-PG-L 🔒 23:27  
-⌛ July 14, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/where-the-buggalo-roam  
-seriesid=`437532` titleid=`438045` id=`AYAuhnYE208s7zyYUMnX` mediaid=`02481b852b428976c1e550fcdc693c7b141fc533`  
-_Amy's disapproving family tries to break up her relationship with Kif._  
-<a href="https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201429408-Futurama_050_WhereTheBuggaloRoam.png"><img src="https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201429408-Futurama_050_WhereTheBuggaloRoam.png" height="144px" /></a>
-### 731251
-**King of the Hill S03E09 - Pretty, Pretty Dresses**  
-TV-PG-L 🔒 23:21  
-⌛ July 14, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/pretty-pretty-dresses  
-seriesid=`629835` titleid=`731251` id=`VW3krnLeQfCs4VkiO28e3g` mediaid=`3c885faf356fddbdd02a18492f70fc5f44d13cff`  
-_Bill becomes suicidal when the Christmas holiday reminds him of his break-up with Lenore._  
-<a href="https://media.cdn.adultswim.com/uploads/20220713/thumbnails/2_227131216497-aslogothumbnail.png"><img src="https://media.cdn.adultswim.com/uploads/20220713/thumbnails/2_227131216497-aslogothumbnail.png" height="144px" /></a>
+343621 Samurai Jack: 1  
+### 2012717
+**American Dad S09E21 - A Boy Named Michael**  
+TV-14 🔒 21:32  
+⌛ July 15, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/a-boy-named-michael  
+seriesid=`581006` titleid=`2012717` id=`nD8GXuxMS1i_2tY3lsuaeQ` mediaid=`cb882ae5aba602a125fc7436becfb91a1c858ced`  
+_Greg and Terry decide to adopt a ten-year-old Russian boy named Michael.  At a party celebrating the decision, Roger is jealous of Greg and Terry's fabulous lifestyle of culture and sophistication.  Roger rejects the Smith family as trashy and impersonates Michael, successfully integrating into his new home._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198451776723.jpg" height="144px" /></a>
+### 2012718
+**American Dad S09E20 - The Longest Distance Relationship**  
+TV-14 🔒 21:29  
+⌛ July 15, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-longest-distance-relationship  
+seriesid=`581006` titleid=`2012718` id=`-_KxrHo3QzavOte0INnaOA` mediaid=`e143715f446287316857fb4ad3495be8d050972c`  
+_Hayley is injured in a fire and while she is in the hospital she meets Millionaire Matt Davis.  As Hayley and Matt fall in love, Steve discovers Jeff Fischer is still alive in outer space.  Jeff and Hayley communicate via an old CB radio and Jeff asks Hayley to stay true to him while he finds a way back to Earth._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15333205334958.jpg" height="144px" /></a>
+### 2132980
+**Bob's Burgers S07E07 - A Few 'gurt Men**  
+TV-PG-L 🔒 21:46  
+⌛ July 15, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/a-few-gurt-men  
+seriesid=`2003422` titleid=`2132980` id=`AV-SbT3jwdpKFAKSbO13` mediaid=`b2dfa4421e179af0084b877402f89f97c9006b0d`  
+_Louise is put in a sticky situation when she must defend one of her biggest foes at Wagstaff during a mock trial. Meanwhile, after they're both taken in by a food scammer, Bob teams up with Jimmy Pesto to exact their revenge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151095084529720.jpg" height="144px" /></a>
+### 2132978
+**Bob's Burgers S07E06 - There's No Business Like Mr. Business Business**  
+TV-PG-L 🔒 21:25  
+⌛ July 15, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/theres-no-business-like-mr-business-business  
+seriesid=`2003422` titleid=`2132978` id=`T2-Fm5wyRsK7J8IPcGCpxA` mediaid=`1e720e1a89f8a01a816898b0daa84e6402d9acb3`  
+_When Gayle's cat, Mr. Business, lands himself a pet agent, Ian Amberson, Bob finds out that Linda may have been helping to fund the cat's career._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151068053993417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151068053993417.jpg" height="144px" /></a>
+### 343641
+**Samurai Jack S01E13 - XIII**  
+TV-Y7-FV 🔒 22:40  
+⌛ April 27, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xiii  
+seriesid=`343621` titleid=`343641` id=`QiaBLguZQu-zJW6DaS3VBw` mediaid=`da9d6ec6a3269bca21ac39b1ce04a4bbdcc32b45`  
+_Aku tells fairy tales to the children to try and win them over to his side instead of Jack's._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461641544-samjack_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461641544-samjack_013.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
-2211157 Primal: 1  
-437532 Futurama: 1  
 581006 American Dad: 2  
-629835 King of the Hill: 1  
-### 2097205
-**Bob's Burgers S06E17 - The Horse Rider-Er**  
-TV-PG 🔒 21:42  
-⌛ July 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-horse-rider-er  
-seriesid=`2003422` titleid=`2097205` id=`7hdKuh3uTCC3nZ9h4OLraw` mediaid=`051f1a9935273d6cf13eb16db2884e7b3021a427`  
-_After finally convincing Bob and Linda to send her to horse camp, Tina realizes she has to part ways with Jericho, her imaginary horse. Meanwhile, Linda decides to create a restaurant camp in an attempt to make things fair for Gene and Louise._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-horse-rider-er/bobsburgers_602_air_cid-2X85C.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-horse-rider-er/bobsburgers_602_air_cid-2X85C.jpg" height="144px" /></a>
-### 2097206
-**Bob's Burgers S06E18 - Secret Admiral-Irer**  
-TV-PG 🔒 21:42  
-⌛ July 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/secret-admiral-irer  
-seriesid=`2003422` titleid=`2097206` id=`pbADrCdVRay2C8NqO-O1YQ` mediaid=`62c36db15f8a42a3cd82dbc1cd103a44536d8b5c`  
-_Tina's ideas of love and romance are tested when she volunteers at a nursing home to earn her next Thunder Girls badge. Meanwhile, Bob makes new friends who cause him to make some questionable choices._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/secret-admiral-irer/bobsburgers_606_air_cid-2XCVJ.jpg" height="144px" /></a>
-### 2211160
-**Primal S01E03 - A Cold Death**  
-TV-14-V 🔓 22:26  
-⌛ July 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/primal/a-cold-death  
-seriesid=`2211157` titleid=`2211160` id=`AW2DrP9k1YiBSfg0KXWr` mediaid=`7064ac186335739861b588ea592d27d7b8536ad0`  
-_In the harshness of the primordial winter a herd of woolly mammoths hunt for the murderers of one of their own._  
-<a href="https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041426462-Primal_003_dup-20190815.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041426462-Primal_003_dup-20190815.jpg" height="144px" /></a>
-### 437697
-**Futurama S04E02 - A Tale of Two Santas**  
-TV-PG-DV 🔒 23:22  
-⌛ July 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/a-tale-of-two-santas  
-seriesid=`437532` titleid=`437697` id=`AX_9B8E-208s7zyYUMg4` mediaid=`d531878505e9b874605cee3ed9db604117937fb7`  
-_Bender is declared the new Santa after Santabot is frozen on Neptune._  
-<a href="https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_2247160236-Futurama_046_ATaleOfTwoSantas.png"><img src="https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_2247160236-Futurama_046_ATaleOfTwoSantas.png" height="144px" /></a>
-### 2007878
-**American Dad S09E05 - Kung Pao Turkey**  
-TV-14-DLSV 🔒 21:20  
-⌛ July 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/kung-pao-turkey  
-seriesid=`581006` titleid=`2007878` id=`AWHoN9My0KIGIdXCKz4t` mediaid=`5fe37e7111fe0e96edc326bdc3d0a010f241e38c`  
-_Stan's plan for a perfect Thanksgiving watching football in his underwear is thwarted when Francine invites her parents to join them. Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg" height="144px" /></a>
-### 2007875
-**American Dad S09E06 - Independent Movie**  
-TV-14 🔒 21:28  
-⌛ July 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/independent-movie  
-seriesid=`581006` titleid=`2007875` id=`buqUCWG2T2eDk9HkT-DMtA` mediaid=`efd81d52d37ec3a7bf41c6c94ebdaf3c9d3d4924`  
-_Snot's father dies but Snot refuses to go to the funeral.  Steve convinces Snot to take a road trip across the country to attend.  Along the way the boys experience life as an independent movie, complete with strange characters and moments of raw emotion._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078827647.jpg" height="144px" /></a>
-### 728863
-**King of the Hill S03E04 - Pregnant Paws**  
-TV-PG-L 🔒 23:22  
-⌛ July 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/pregnant-paws  
-seriesid=`629835` titleid=`728863` id=`SKm5988iQk6w4YUMmnPMCg` mediaid=`dc4ff8b87abe5cefff64d19db53ba97ee7a7226b`  
-_Hank decides to breed Lady Bird. Dale applies for a bounty hunter's license._  
-<a href="https://media.cdn.adultswim.com/uploads/20220707/thumbnails/2_227794172-KingOfTheHill_302_PregnantPaws.png"><img src="https://media.cdn.adultswim.com/uploads/20220707/thumbnails/2_227794172-KingOfTheHill_302_PregnantPaws.png" height="144px" /></a>
+### 2132990
+**Bob's Burgers S07E01 - Flu-Ouise**  
+TV-PG-DLV 🔒 22:05  
+⌛ July 8, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/flu-ouise  
+seriesid=`2003422` titleid=`2132990` id=`AWFYLCWdZ-onAnjDL5Nm` mediaid=`668bca67201e425b0fe66bd84c04031bd9e197a6`  
+_When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg" height="144px" /></a>
+### 2097207
+**Bob's Burgers S06E19 - Glued, Where's My Bob?**  
+TV-PG 🔒 21:40  
+⌛ July 8, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/glued-wheres-my-bob  
+seriesid=`2003422` titleid=`2097207` id=`KZHzK9CvTwCRExJXY6SSUw` mediaid=`6b5661bddd9aa0e25e1da7b017424420f36d36bf`  
+_The kids' goop war lands Bob in a sticky situation. The prank occurs on the same day Skip Marooch calls to tell Bob that a journalist is going to interview him for a piece on unknown restaurants._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg" height="144px" /></a>
+### 748219
+**American Dad S09E08 - Minstrel Krampus**  
+TV-14 🔒 21:31  
+⌛ July 8, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/minstrel-krampus  
+seriesid=`581006` titleid=`748219` id=`PX1PFiPARziHCDlJ7sU-Yg` mediaid=`b99a0749bca6e7b734803d1f6a74862d942e958c`  
+_When Steve starts acting like a spoiled brat during the holidays, Stan takes him to see his incarcerated Grandpa Jack, who tells him the story of how he caught Minstrel Krampus, a legendary demon who punishes naughty children on Christmas. Stan decides that releasing Krampus is the only way to straighten out Steve's attitude. But when Krampus kidnaps Steve, it's up to Stan and Roger to get him back. Meanwhile, Hayley gets a job at the airport, but quickly realizes that she might not be cut out for customer service._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450619121245.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450619121245.jpg" height="144px" /></a>
+### 2007879
+**American Dad S09E07 - Faking Bad**  
+TV-14 🔒 21:31  
+⌛ July 8, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/faking-bad  
+seriesid=`581006` titleid=`2007879` id=`faIr12CSQ-GFMxkjMoX9hg` mediaid=`1262714f3a43bc9e9c62fcf1ac907f8f93d6b687`  
+_When Hayley tries to go clubbing with her old friends she is turned away at the door because she doesn't have proper ID.  Hayley convinces Steve to make a fake ID for her.  The fake ID is so good that Hayley and Steve go into business together as counterfeiters._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079017649.jpg" height="144px" /></a>
