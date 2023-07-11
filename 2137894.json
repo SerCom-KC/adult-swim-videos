@@ -331,7 +331,7 @@
         "launch_date": 1686024000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191021/thumbnails/2_1910211144511-ballmastrz9009_207_dup-20190826.jpg",
         "id": "AW3u_iFq1YiBSfg0KX6Q",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -518,7 +518,7 @@
     },
     {
         "ott_launch_date": 1523284200,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1689047940,
         "tms_id": "EP029156490001",
         "description": "A lifetime of partying takes an unexpected turn when Gaz Digzy experiences the wildest night of her superstar life.",
@@ -572,61 +572,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1689048000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152037469903311.jpg"
-    },
-    {
-        "ott_launch_date": 1523284200,
-        "auth": true,
-        "auth_expiration_date": 1689047940,
-        "tms_id": "EP029156490002",
-        "description": "Gaz plans to backstab The Leptons in her first game as captain, but a shocking new display of teamwork might change her mind.",
-        "title_suggest": {
-            "input": [
-                "With the Burning Spirit of Teamwork in Her Heart",
-                "the Burning Spirit of Teamwork in Her Heart",
-                "Burning Spirit of Teamwork in Her Heart",
-                "Spirit of Teamwork in Her Heart",
-                "of Teamwork in Her Heart",
-                "Teamwork in Her Heart",
-                "in Her Heart",
-                "Her Heart",
-                "Heart"
-            ]
-        },
-        "expiration_date": 1679371140,
-        "type": "episode",
-        "title": "With the Burning Spirit of Teamwork in Her Heart",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "AWHiPblUNWyh42wYnlGd",
-        "duration": 673.63,
-        "episode_number": "2",
-        "original_air_date": 1523247300,
-        "auth_launch_date": 1679371200,
-        "clip_order": null,
-        "media_id": "ab0dc49869f9fedc38472c22a9b874afa11b06a3",
-        "modified": 1686897850,
-        "airing_id": "RADS1003172300077880",
-        "id": "AWH9ZUiz0KIGIdXCK4M6",
-        "slug": "with-the-burning-spirit-of-teamwork-in-her-heart",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203747353059.jpg",
-        "created": 1520374728,
-        "season_number": "1",
-        "title_id": "2137896",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1686897850,
-        "tags": [],
-        "collection_title": "Ballmastrz: 9009",
-        "modified_by": "ODT Listener",
-        "launch_date": 1676350800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203747353059.jpg"
     },
     {
         "ott_launch_date": null,
