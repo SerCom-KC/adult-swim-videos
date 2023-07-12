@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1463407200,
         "auth_expiration_date": 1692158340,
         "tms_id": "EP018514630016",
@@ -397,6 +397,58 @@
         "cma_id": "1419066"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1467037800,
+        "auth_expiration_date": 1676437140,
+        "tms_id": "EP018514630021",
+        "description": "In the season two finale, Grandpa finds an ancient and mysterious coin that he thinks has something to do with Mr. Pickles.",
+        "title_suggest": {
+            "input": [
+                "Season 2 Finale",
+                "2 Finale",
+                "Finale"
+            ]
+        },
+        "expiration_date": 1692158340,
+        "title": "Season 2 Finale",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 678,
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "episode_number": "10",
+        "original_air_date": 1467000000,
+        "clip_order": null,
+        "auth_launch_date": 1673413200,
+        "modified": 1688740112,
+        "media_id": "b45a39015d084096ae22732c3a5f3ca062e90e30",
+        "airing_id": "RADS1007072300007578",
+        "id": "PwqM-Yg1Rhu1DpV9UudRjw",
+        "slug": "season-2-finale",
+        "views": 52687,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121123493-mrpickles_210_dup-20160523.jpg",
+        "created": 1466614334,
+        "season_number": "2",
+        "title_id": "2085312",
+        "tv_rating": "tv-ma-sv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1688740112,
+        "first_published": 1466673022,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1689134400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121123493-mrpickles_210_dup-20160523.jpg",
+        "cma_id": "1423665"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1460988000,
         "auth_expiration_date": 1689739140,
@@ -496,57 +548,6 @@
         "launch_date": 1687924800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312112368-mrpickles_208_dup-20160516.jpg",
         "cma_id": "1414655"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1452132000,
-        "auth_expiration_date": 1689134340,
-        "tms_id": "EP018514630011",
-        "description": "Grandpa is on a quest to discover what really goes on inside Mr. Pickles' doghouse, and to prove once and for all that he's not crazy.",
-        "title_suggest": {
-            "input": [
-                "The Lair",
-                "Lair"
-            ]
-        },
-        "title": "The Lair",
-        "type": "episode",
-        "expiration_date": 1686110340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "duration": 678.2502085,
-        "episode_number": "10",
-        "original_air_date": 1416803400,
-        "clip_order": null,
-        "auth_launch_date": 1686110400,
-        "modified": 1687809195,
-        "media_id": "6af5dbec751c03f6069cd897ab3dfd4d2f08c677",
-        "airing_id": "RADS1006022300000017",
-        "id": "iG10DswDQM2hAk21tNCBPw",
-        "slug": "the-lair",
-        "views": 100074,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121120113-mrpickles_010_dup-20150205.jpg",
-        "created": 1416669640,
-        "title_id": "2032511",
-        "tv_rating": "tv-ma-v",
-        "season_number": "1",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1687809195,
-        "first_published": 1416669640,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1683086400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121120113-mrpickles_010_dup-20150205.jpg",
-        "cma_id": "1480169"
     },
     {
         "auth": false,
