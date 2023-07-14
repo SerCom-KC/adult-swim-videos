@@ -275,7 +275,7 @@
         "cma_id": "2117211"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1689307140,
         "tms_id": "EP019059960057",
@@ -429,7 +429,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1689307140,
         "tms_id": "EP019059960065",
         "description": "After barely surviving Eren's recovery a rising threat from the shadows puts everyone's lives in danger again.",
@@ -908,7 +908,7 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251636508-attackontitan_047_air_cid-3NH50.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1695355140,
         "tms_id": "EP019059960075",
@@ -3252,7 +3252,7 @@
         "cma_id": "2117206"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1701406740,
         "tms_id": "EP019059960023",
@@ -3698,7 +3698,7 @@
         "cma_id": "1440189"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1695355140,
         "tms_id": "EP019059960055",
@@ -4023,7 +4023,7 @@
         "cma_id": "1398117"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1689307140,
         "tms_id": "EP019059960021",
