@@ -2,16 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 16, 2023 at 06:00:24 EDT_
+_Last Update: July 16, 2023 at 17:30:20 EDT_
 ## Video added
-### Summary
-812206 Naruto: Shippuden: 1  
-### 2177876
-**Naruto: Shippuden S08E30 - Collision**  
-TV-PG-V 🔒 00:00  
-⌛ December 16, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/naruto-shippuden/collision  
-seriesid=`812206` titleid=`2177876` id=`AYlA8FioOz5CkuTcnwMF` mediaid=`f51640793021d6d249dc51e7edafcb9bdb741ee7`  
-_Naruto reaches the tower thanks to Neji, Lee and Tenten deterring the agents from the Foundation. But it's too late—Sasuke's already made contact with Orochimaru._  
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+830073 Off The Air: 1  
+### 2064525
+**Off The Air S05E03 - Holes**  
+TV-14-V 🔒 11:57  
+⌛ July 18, 2023 at 22:59:00 EDT  
+https://www.adultswim.com/videos/off-the-air/holes  
+seriesid=`830073` titleid=`2064525` id=`sfsXRhuAS86jpUG1KlV-Cg` mediaid=`292015dd955ba996eb5927407b03f1a0c33cb876`  
+_There's one beneath you right now._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121340158-offtheair_503_dup-20151119.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121340158-offtheair_503_dup-20151119.jpg" height="144px" /></a>
