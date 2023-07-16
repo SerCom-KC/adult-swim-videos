@@ -243,7 +243,7 @@
         "launch_date": 1688289300,
         "poster": "https://media.cdn.adultswim.com/uploads/20230610/thumbnails/2_23610939140-OnePieceEngl619Still001tiny.png",
         "id": "AYiIRVsm2rZC6NyF619a",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1688893140,
@@ -389,6 +389,44 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230712/thumbnails/2_23712108552-ONEPIECE622TouchingReunion.png",
         "id": "AYkmToeF2rZC6NyF619-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1691312340,
+        "created": 1689011621,
+        "tms_id": "EP044419420045",
+        "title_id": "2402515",
+        "season_number": "16",
+        "tv_rating": "tv-pg-v",
+        "description": "The weary marines and the rescued children get teary-eyed as they say goodbye to the Straw Hats. Meanwhile, Law enters into treacherous negotiations with Joker!",
+        "title_suggest": {
+            "input": [
+                "It's Time to Say Goodbye! Leaving Punk Hazard!",
+                "Time to Say Goodbye! Leaving Punk Hazard!",
+                "to Say Goodbye! Leaving Punk Hazard!",
+                "Say Goodbye! Leaving Punk Hazard!",
+                "Goodbye! Leaving Punk Hazard!",
+                "Leaving Punk Hazard!",
+                "Punk Hazard!",
+                "Hazard!"
+            ]
+        },
+        "published": 1689282694,
+        "title": "It's Time to Say Goodbye! Leaving Punk Hazard!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1316.3484,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1689485400,
+        "auth_launch_date": 1689498000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007102300008472",
+        "media_id": "3c05e6cc89503cfb43454f378d2a8eaf38ceb6f3",
+        "modified": 1689282694,
+        "slug": "its-time-to-say-goodbye-leaving-punk-hazard",
+        "id": "AYlA8A0HOz5CkuTcnwME",
         "auth": true
     }
 ]
