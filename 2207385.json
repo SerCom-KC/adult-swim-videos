@@ -89,7 +89,7 @@
         "launch_date": 1688285700,
         "poster": "https://media.cdn.adultswim.com/uploads/20230610/thumbnails/2_23610937151-DrStone302BCastStill001tiny.png",
         "id": "AYiIRi8K2rZC6NyF619b",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1688889540,
@@ -180,7 +180,7 @@
         "launch_date": 1689494400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751029265-DrStoneEyesofScience.png",
         "id": "AYjZOQtd2rZC6NyF6191",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1690705740,
@@ -226,6 +226,38 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230712/thumbnails/2_237121013479-DR.STONE40ScienceVesselPerseus.png",
         "id": "AYkmTmLHOz5CkuTcnwH_",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1691308740,
+        "created": 1689011610,
+        "tms_id": "EP047257420006",
+        "title_id": "2430543",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "description": "The Perseus crew are on their way to the treasure island, the birthplace of the Hundred Tales, where they hope to locate the treasure box left behind by the Soyuz crew.",
+        "title_suggest": {
+            "input": [
+                "TREASURE BOX",
+                "BOX"
+            ]
+        },
+        "published": 1689011617,
+        "title": "TREASURE BOX",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 0,
+        "episode_number": "6",
+        "collection_title": "Dr. Stone",
+        "original_air_date": 1689481800,
+        "auth_launch_date": 1689494400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007102300008470",
+        "media_id": "8dbaa0cc93cc05199022a1f0a6de14156aa497d5",
+        "modified": 1689011617,
+        "slug": "treasure-box",
+        "id": "AYlA7-Ju2rZC6NyF61-B",
         "auth": true
     }
 ]
