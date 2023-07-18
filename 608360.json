@@ -108,6 +108,60 @@
         "cma_id": "1431525"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1688073309,
+        "tms_id": "EP007259620117",
+        "rating": 6.69917,
+        "description": "The Robot Chicken Nerd, the Humping Robot, Composite Santa, and the Mad Scientist join characters of the DC Comics universe to poke fun at those with the most impressive powers and the lesser ones who can't really be called superheroes.",
+        "title_suggest": {
+            "input": [
+                "Robot Chicken: DC Comics Special",
+                "Chicken: DC Comics Special",
+                "DC Comics Special",
+                "Comics Special",
+                "Special"
+            ]
+        },
+        "type": "episode",
+        "title": "Robot Chicken: DC Comics Special",
+        "expiration_date": 1690257540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 1375.4337671,
+        "episode_number": "21",
+        "original_air_date": 1347249600,
+        "clip_order": null,
+        "auth_launch_date": 1680494400,
+        "modified": 1689259806,
+        "media_id": "72330d5bc4bd6a598a7f0373771f37c6600120f9",
+        "airing_id": "RADS1007132300009992",
+        "id": "-m2_pqxgRmeANHu37hFOKw",
+        "slug": "robot-chicken-dc-comics-special",
+        "views": 447041,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461137100-robotchicken_dcspecial_dup-20120907.jpg",
+        "created": 1402945474,
+        "title_id": "2017362",
+        "tv_rating": "tv-14-dlsv",
+        "season_number": "5",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1689259806,
+        "tags": [],
+        "rating_count": 5302,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1689652800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461137100-robotchicken_dcspecial_dup-20120907.jpg",
+        "cma_id": "965599"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447347180,
         "auth_expiration_date": 1690257540,
@@ -491,7 +545,7 @@
         "cma_id": "1368513"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447346760,
         "auth_expiration_date": 1717473540,
         "tms_id": "EP007259620006",
@@ -6283,6 +6337,61 @@
         "cma_id": "1192969"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1688072917,
+        "tms_id": "EP007259620131",
+        "rating": 6.330827,
+        "description": "The Robot Chicken crew takes a peek at what it's like working in the Hall of Doom, the grief Batman goes through whenever he has to ride in one of Green Lantern's power ring bubbles, the origin of Starro, and what happens when the DC villains end up on the same beach as the DC heroes at spring break!",
+        "title_suggest": {
+            "input": [
+                "DC Comics Special II: Villains in Paradise",
+                "Comics Special II: Villains in Paradise",
+                "Special II: Villains in Paradise",
+                "II: Villains in Paradise",
+                "Villains in Paradise",
+                "in Paradise",
+                "Paradise"
+            ]
+        },
+        "type": "episode",
+        "title": "DC Comics Special II: Villains in Paradise",
+        "expiration_date": 1690257540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 1339.5672339,
+        "episode_number": "0",
+        "original_air_date": 1396841400,
+        "clip_order": null,
+        "auth_launch_date": 1673758800,
+        "modified": 1689259787,
+        "media_id": "b5b330197acae8fe377b2227f78c11a992c8c870",
+        "airing_id": "RADS1007132300009990",
+        "id": "AvjWZkFBQ26_xZAbguISNw",
+        "slug": "dc-comics-special-ii-villains-in-paradise",
+        "views": 36085,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461159332-robotchicken_rcdcII_dup-20140320.jpg",
+        "created": 1402945474,
+        "title_id": "2018890",
+        "season_number": "7",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1689259787,
+        "tags": [],
+        "rating_count": 266,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1689652800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461159332-robotchicken_rcdcII_dup-20140320.jpg",
+        "cma_id": "1309572"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447347360,
         "auth_expiration_date": 1690257540,
@@ -8524,7 +8633,7 @@
         "cma_id": "1202971"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447347120,
         "auth_expiration_date": 1718078340,
         "tms_id": "EP007259620007",
@@ -8793,7 +8902,7 @@
         "cma_id": "1187216"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447346460,
         "auth_expiration_date": 1717473540,
         "tms_id": "EP007259620002",
@@ -9119,7 +9228,7 @@
         "cma_id": "1310613"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447277100,
         "auth_expiration_date": 1718078340,
         "tms_id": "EP007259620003",
@@ -9726,7 +9835,7 @@
         "cma_id": "1190768"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447347060,
         "auth_expiration_date": 1718078340,
         "tms_id": "EP007259620005",
@@ -10446,6 +10555,61 @@
         "launch_date": 1679976000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461252559-robotchicken_811_air_cid-2R09K.jpg",
         "cma_id": "1180402"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1688073397,
+        "tms_id": "EP007259620152",
+        "description": "The Robot Chicken writers don their capes and masks one more time for this epic special! Batman and Superman's bromance takes a competitive turn and the fate of the universe somehow hangs in the balance.",
+        "title_suggest": {
+            "input": [
+                "Robot Chicken DC Comics Special III: Magical Friendship",
+                "Chicken DC Comics Special III: Magical Friendship",
+                "DC Comics Special III: Magical Friendship",
+                "Comics Special III: Magical Friendship",
+                "Special III: Magical Friendship",
+                "III: Magical Friendship",
+                "Magical Friendship",
+                "Friendship"
+            ]
+        },
+        "expiration_date": 1690257540,
+        "title": "Robot Chicken DC Comics Special III: Magical Friendship",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1392.333667,
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "episode_number": "0",
+        "original_air_date": 1445227200,
+        "clip_order": null,
+        "auth_launch_date": 1673758800,
+        "modified": 1689259762,
+        "airing_id": "RADS1007132300009988",
+        "media_id": "394f14626379545c373e6debb97792d53c75285f",
+        "id": "eg2taA6nQR-JplLLjQZciw",
+        "slug": "robot-chicken-dc-comics-special-iii-magical-friendship",
+        "views": 26,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461213335-robotchicken_dcspecial3.jpg",
+        "created": 1444315292,
+        "season_number": "8",
+        "title_id": "2072688",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1689259762,
+        "first_published": 1445088045,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1689652800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461213335-robotchicken_dcspecial3.jpg",
+        "cma_id": "1128325"
     },
     {
         "auth": true,
@@ -11759,7 +11923,7 @@
         "cma_id": "1414697"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447347180,
         "auth_expiration_date": 1689652740,
         "tms_id": "EP007259620009",
@@ -12834,7 +12998,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447347120,
         "auth_expiration_date": 1689652740,
         "tms_id": "EP007259620008",

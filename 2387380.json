@@ -1,54 +1,5 @@
 [
     {
-        "auth_expiration_date": 1689652740,
-        "tms_id": "EP040430990001",
-        "description": "AI drones, plastic pistols, new gadgets\u2026times have changed, but Jigen isn't sure he can change with them. Is it finally time to call it quits on his life of crime?",
-        "title_suggest": {
-            "input": [
-                "Episode 0 - The Times -",
-                "0 - The Times -",
-                "- The Times -",
-                "The Times -",
-                "Times -",
-                "-"
-            ]
-        },
-        "title": "Episode 0 - The Times -",
-        "type": "episode",
-        "expiration_date": 1653209940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
-        "duration": 1358.357,
-        "episode_number": "0",
-        "original_air_date": 1650173400,
-        "auth_launch_date": 1683604800,
-        "clip_order": null,
-        "airing_id": "RADS1005042300093106",
-        "media_id": "f4feaf7b3abde63a3dca391b7e72f83c2f87e1df",
-        "modified": 1683251020,
-        "slug": "episode-0-the-times",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220415/thumbnails/1_22415152425-LupinThe3rd_Part6_00_TheTimes.png",
-        "created": 1650044394,
-        "title_id": "2387381",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "published": 1683251020,
-        "tags": [],
-        "collection_title": "Lupin the 3rd Part 6",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1652000400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220415/thumbnails/2_22415152425-LupinThe3rd_Part6_00_TheTimes.png",
-        "id": "AYAuT1zA_0O4w1rD3SA6",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1690257540,
         "tms_id": "EP042756160002",
         "description": "Rumor has it the Raven, a secret society with fingers in the British government, guards a treasure - and Lupin aims to collect despite the interference of one Sherlock Holmes.",
@@ -474,6 +425,51 @@
         "launch_date": 1657440000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151053406-LupinThe3rd_Part6_009_TheJetBlackDiamond.png",
         "id": "AYFn2z0O208s7zyYUNIg",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1695095940,
+        "tms_id": "EP040430990011",
+        "description": "Lupin and Fujiko need to dig up a certain, infamous fossil, but the truth they uncover is even more ancient than the fossilized bird they've been tasked with obtaining.",
+        "title_suggest": {
+            "input": [
+                "Darwin's Bird",
+                "Bird"
+            ]
+        },
+        "title": "Darwin's Bird",
+        "expiration_date": 1659859140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1288.3203,
+        "episode_number": "10",
+        "original_air_date": "1656217800",
+        "auth_launch_date": 1689652800,
+        "clip_order": null,
+        "airing_id": "RADS1007132300010133",
+        "media_id": "86db6c09ed4004369907b58dfc555e95bcb83a62",
+        "modified": 1689275820,
+        "slug": "darwins-bird",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211411343-LupinThe3rd_Part6_DarwinsBird.png",
+        "created": 1655835102,
+        "season_number": "1",
+        "title_id": "2387391",
+        "tv_rating": "tv-14",
+        "published": 1689275820,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1658044800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211411343-LupinThe3rd_Part6_DarwinsBird.png",
+        "id": "AYGHdoyI208s7zyYUNMt",
         "auth": true
     }
 ]
