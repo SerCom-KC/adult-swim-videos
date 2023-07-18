@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 18, 2023 at 13:30:19 EDT_
+_Last Update: July 18, 2023 at 15:30:22 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-2207385 Dr. Stone: 1  
-### 2430543
-**Dr. Stone S03E06 - TREASURE BOX**  
-TV-PG-L 🔒 00:00  
-⌛ July 18, 2023 at 23:59:59 EDT  
-https://www.adultswim.com/videos/dr-stone/treasure-box  
-seriesid=`2207385` titleid=`2430543` id=`AYlA7-Ju2rZC6NyF61-B` mediaid=`8dbaa0cc93cc05199022a1f0a6de14156aa497d5`  
-_The Perseus crew are on their way to the treasure island, the birthplace of the Hundred Tales, where they hope to locate the treasure box left behind by the Soyuz crew._  
-<a href="https://media.cdn.adultswim.com/uploads/20230717/thumbnails/2_2371710922-ASGenericThumb.png"><img src="https://media.cdn.adultswim.com/uploads/20230717/thumbnails/2_2371710922-ASGenericThumb.png" height="144px" /></a>
+2194549 Gemusetto: 1  
+### 2241829
+**Gemusetto S02E04 - Episode Four: C MAJOR**  
+TV-14-DLV 🔓 11:15  
+⌛ December 31, 2035 at 00:00:00 EST  
+https://www.adultswim.com/videos/gemusetto/episode-four-c-major  
+seriesid=`2194549` titleid=`2241829` id=`AXW5HlihLyLQBOXK_Pgv` mediaid=`7218145f06c73c32b058d39ea398c2d310bcae0b`  
+_Josie has been seething with rage towards Makasu ever since his own death- but is holding on to anger just a waste of time? Will their musical battle rip the afterlife of Kur apart?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg" height="144px" /></a>
