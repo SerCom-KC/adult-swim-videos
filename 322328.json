@@ -676,6 +676,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Lokar hosts a clip show while Space Ghost visits his mother in Florida.",
+        "title_suggest": {
+            "input": [
+                "Le Livre D' Histoire",
+                "Livre D' Histoire",
+                "D' Histoire",
+                "Histoire"
+            ]
+        },
+        "title": "Le Livre D' Histoire",
+        "expiration_date": 1690329600,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 0,
+        "episode_number": "2",
+        "original_air_date": "956977200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "",
+        "media_id": "35f84257b6c9f936ff9d2e6fdd3bf562e259800d",
+        "modified": 1689868902,
+        "slug": "le-livre-d-histoire",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1689868287,
+        "season_number": "2",
+        "title_id": "322746",
+        "tv_rating": "tv-pg",
+        "published": 1689868902,
+        "tags": [],
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": 1688860800,
+        "poster": "",
+        "id": "AYlz_76vOz5CkuTcnwRw",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "description": "Beautiful music from two misunderstood souls.",
