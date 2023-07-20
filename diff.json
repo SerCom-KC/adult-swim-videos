@@ -1,10 +1,9 @@
 {
-    "updated": 1689874633,
-    "added": [],
-    "removed": [
+    "updated": 1689876433,
+    "added": [
         {
             "auth_expiration_date": null,
-            "tms_id": "",
+            "tms_id": "EP001022180062",
             "description": "Lokar hosts a clip show while Space Ghost visits his mother in Florida.",
             "title_suggest": {
                 "input": [
@@ -15,7 +14,7 @@
                 ]
             },
             "title": "Le Livre D' Histoire",
-            "expiration_date": 1690329600,
+            "expiration_date": 1714867200,
             "type": "episode",
             "platforms": [
                 "android",
@@ -24,14 +23,14 @@
                 "fire-tv"
             ],
             "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-            "duration": 0,
+            "duration": 799.7007007,
             "episode_number": "2",
-            "original_air_date": "956977200",
+            "original_air_date": 956977200,
             "auth_launch_date": null,
             "clip_order": null,
-            "airing_id": "",
+            "airing_id": "RADS1007052300006922",
             "media_id": "35f84257b6c9f936ff9d2e6fdd3bf562e259800d",
-            "modified": 1689868902,
+            "modified": 1689876346,
             "slug": "le-livre-d-histoire",
             "exclude_from_search": false,
             "thumbnail": "",
@@ -39,9 +38,10 @@
             "season_number": "2",
             "title_id": "322746",
             "tv_rating": "tv-pg",
-            "published": 1689868902,
+            "active": false,
+            "published": 1689876346,
             "tags": [],
-            "collection_title": "Space Ghost Coast to Coast",
+            "collection_title": "",
             "disable_ads": false,
             "modified_by": "undefined undefined",
             "launch_date": 1688860800,
@@ -52,5 +52,6 @@
             "collection_title_id": "322328",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
