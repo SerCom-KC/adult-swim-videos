@@ -2,142 +2,121 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 22, 2023 at 00:30:16 EDT_
+_Last Update: July 23, 2023 at 00:30:17 EDT_
 ## Video added
 ### Summary
+581006 American Dad: 2  
 2003422 Bob's Burgers: 2  
-437532 Futurama: 2  
-629835 King of the Hill: 2  
-608360 Robot Chicken: 1  
-581268 Squidbillies: 5  
-### 2003432
-**Bob's Burgers S01E10 - Burger Wars**  
-TV-PG-DL 🔒 21:33  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/burger-wars  
-seriesid=`2003422` titleid=`2003432` id=`q_NTzct-QmCtABt1J6LySQ` mediaid=`7fbe3f232ca2f871b3c8b5c2f7ff27b6e8dadf83`  
-_When Bob's eccentric landlord, Mr. Fischoeder, pays the family a visit, he informs Bob that his rival across the street, Jimmy Pesto of Pesto's Pizzeria, wants to take over Bob's lease so that he can expand his gift shop. With little time and not enough money, the Belcher family must cook up some business or luck to save the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148369035519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148369035519.jpg" height="144px" /></a>
-### 2003431
-**Bob's Burgers S01E09 - Spaghetti Western and Meatballs**  
-TV-PG-LV 🔒 21:34  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/spaghetti-western-and-meatballs  
-seriesid=`2003422` titleid=`2003431` id=`4Hb2eqXGTueest7kArYyDA` mediaid=`6575d178c15c95e042de6fc030daefdecb14fefe`  
-_When Bob and Gene start watching Spaghetti Western films, they wind up alienating Louise. As Gene takes pointers from the films on how to deal with his archrival at school, Tina takes out her aggression and fights her way through a conflict-resolution program._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg" height="144px" /></a>
-### 442426
-**Futurama S05E04 - A Taste of Freedom**  
-TV-14 🔒 23:19  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/a-taste-of-freedom  
-seriesid=`437532` titleid=`442426` id=`AYl3Pq5sOz5CkuTcnwSr` mediaid=`ad3837e12f5dd4ccabb7355a16aaf03a48e04e9f`  
-_Zoidberg is sentenced to death for eating a flag at a celebration in Washington, D.C._  
-### 442426
-**Futurama S05E04 - A Taste of Freedom**  
-TV-14 🔒 23:24  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/a-taste-of-freedom  
-seriesid=`437532` titleid=`442426` id=`AYC9rCu8208s7zyYUM2a` mediaid=`ad3837e12f5dd4ccabb7355a16aaf03a48e04e9f`  
-_Zoidberg is sentenced to death for eating a flag at a celebration in Washington, D.C._  
-<a href="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131515181-Futurama_060_ATasteOfFreedom.png"><img src="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_225131515181-Futurama_060_ATasteOfFreedom.png" height="144px" /></a>
-### 731272
-**King of the Hill S03E19 - Hank's Cowboy Movie**  
-TV-PG-D 🔒 23:17  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/hanks-cowboy-movie  
-seriesid=`629835` titleid=`731272` id=`AYl3JwyU2rZC6NyF61-T` mediaid=`f3bc7f85dfa9e663d948aa7a1b6e8a6bb2bab797`  
-_Hank sets out to direct a videotape that will convince the Dallas Cowboys to relocate their training camp to Arlen._  
-### 731272
-**King of the Hill S03E19 - Hank's Cowboy Movie**  
-TV-PG-DL 🔒 23:17  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/hanks-cowboy-movie  
-seriesid=`629835` titleid=`731272` id=`-OjfIvZFRfiSSZI4WGOjWg` mediaid=`f3bc7f85dfa9e663d948aa7a1b6e8a6bb2bab797`  
-_Hank sets out to direct a videotape that will convince the Dallas Cowboys to relocate their training camp to Arlen._  
-<a href="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261356161-KingOfTheHill_318_HanksCowboyMovie.png"><img src="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261356161-KingOfTheHill_318_HanksCowboyMovie.png" height="144px" /></a>
-### 640879
-**Robot Chicken S02E18 - Lust for Puppets**  
-TV-MA 🔒 11:03  
-⌛ September 4, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/lust-for-puppets  
-seriesid=`608360` titleid=`640879` id=`WGeH3ky-RGmin1oLb8OEHw` mediaid=`2fe2672a082f59b7788123038bb1e89a88fa431c`  
-_Young Victor Frankenstein attempts to bring his cat back to life.  The I Think We Should Just be Friends Fairy ruins a guy's life.  Cameron Diaz has just 24 hours to live!  Calvin and Hobbes have fun therapy adventures.  A game of Marco Polo gets out of hand.  Mario and Luigi stumble into the violent world of Grand Theft City._  
-<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411138587-robotchicken_038.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411138587-robotchicken_038.jpg" height="144px" /></a>
-### 2199308
-**Squidbillies S12E06 - Cooler-Heads Prevail**  
-TV-14-DLV 🔓 11:19  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/cooler-heads-prevail  
-seriesid=`581268` titleid=`2199308` id=`AW0B6f4a4aLemgzOLGXt` mediaid=`c2759f98f2ab94d8f8e68404893ad48c13f2ef79`  
-_Early enjoys the highfalutin lifestyle of owning a premium cooler._  
-<a href="https://media.cdn.adultswim.com/uploads/20190905/thumbnails/2_19951625353-squidbillies_1007_dup-20190904.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190905/thumbnails/2_19951625353-squidbillies_1007_dup-20190904.jpg" height="144px" /></a>
-### 2199309
-**Squidbillies S12E09 - Events By Russell**  
-TV-14-DLSV 🔓 11:17  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/events-by-russell  
-seriesid=`581268` titleid=`2199309` id=`AW0nGhd4CorLtcgfluVw` mediaid=`d38cfb672fc4eda20264552574cdb1d439708d3b`  
-_Early interferes with Rusty's new party business and it's last call…for action!_  
-<a href="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg" height="144px" /></a>
-### 2199306
-**Squidbillies S12E05 - Rich Dan, Poor Dan**  
-TV-14-DLSV 🔓 11:26  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/rich-dan-poor-dan  
-seriesid=`581268` titleid=`2199306` id=`AWy6cI7hCorLtcgflt2f` mediaid=`6c4c5eb6f581f418429f38d5ca9d1d92989f736b`  
-_Dan Halen finds financial bankruptcy less enjoyable than moral bankruptcy._  
-<a href="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg" height="144px" /></a>
-### 2199305
-**Squidbillies S12E04 - The Reenactment of the Repulsion of the Siege of Cuyler Mountain**  
-TV-14-DLSV 🔓 11:19  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-reenactment-of-the-repulsion-of-the-siege-of-cuyler-mountain  
-seriesid=`581268` titleid=`2199305` id=`AWy6cAeUCorLtcgflt2e` mediaid=`a4f39fcd0f87f7b94b875f8093c6a2fe547ebfcc`  
-_Early finds a priceless civil war relic and sells it for the right price._  
-<a href="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_198221346131-squidbillies_1004_dup-20190819.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_198221346131-squidbillies_1004_dup-20190819.jpg" height="144px" /></a>
-### 2199310
-**Squidbillies S12E08 - There's Sucker Porn Every Minute**  
-TV-MA-S 🔓 11:17  
-⌛ July 28, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/theres-sucker-porn-every-minute  
-seriesid=`581268` titleid=`2199310` id=`AW0nGO_iCorLtcgfluVv` mediaid=`8edc70d6b4c5caa818e7098afb936eb7b59423a8`  
-_Early lets his beak flag fly._  
-<a href="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg" height="144px" /></a>
+437532 Futurama: 1  
+2194549 Gemusetto: 1  
+629835 King of the Hill: 1  
+343621 Samurai Jack: 1  
+### 2041482
+**American Dad S11E08 - Stan-Dan Deliver**  
+TV-14-DL 🔒 21:13  
+⌛ July 29, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stan-dan-deliver  
+seriesid=`581006` titleid=`2041482` id=`IYkYK4IVTA21Vz0sQ_JUlg` mediaid=`663a700b4eb572b5f4a1ca789a87fb2a975d5a35`  
+_Roger becomes a teacher at Steve's school and gets involved with a class of underprivileged kids. Meanwhile, Stan and Francine visit a retirement home and Stan decides to stay._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg" height="144px" /></a>
+### 2041481
+**American Dad S11E07 - The Devil Wears a Lapel Pin**  
+TV-14-DLSV 🔒 21:13  
+⌛ July 29, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-devil-wears-a-lapel-pin  
+seriesid=`581006` titleid=`2041481` id=`rR4-zIOsQj-NMJYR98be7Q` mediaid=`334843941c601d3a70f4a6bb02f047db8a69f3f9`  
+_When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg" height="144px" /></a>
+### 2003435
+**Bob's Burgers S01E13 - Torpedo**  
+TV-PG-DLV 🔒 21:35  
+⌛ July 29, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/torpedo  
+seriesid=`2003422` titleid=`2003435` id=`R3MRmrsRS2mJVaeKqfu2CA` mediaid=`502acd2ca2ada6b3e16a4441c6cf7c44670a0404`  
+_Bob's hero, a washed-up professional baseball player named Torpedo Jones, starts pitching for the local minor league team. Torpedo befriends the Belcher's, and Bob is ecstatic until he finds out about the dark underbelly of baseball._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148406309113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148406309113.jpg" height="144px" /></a>
+### 2003433
+**Bob's Burgers S01E11 - Weekend at Morts**  
+TV-14-DLS 🔒 21:16  
+⌛ July 29, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/weekend-at-morts  
+seriesid=`2003422` titleid=`2003433` id=`Jxxs6VHsQ7yZ9TI8o0MfKw` mediaid=`935f418e04a7ef41e463d320690d02bfbdf5d5cc`  
+_Bob and his family are forced to spend the weekend at Mort the Mortician's while the restaurant is being eradicated of toxic mold. Linda and Bob double-date with Mort and a female mortician he meets on-line, while Tina babysits Gene and Louise at the crematorium._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148399784520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148399784520.jpg" height="144px" /></a>
+### 442425
+**Futurama S05E05 - Kif Gets Knocked Up a Notch**  
+TV-14 🔒 23:22  
+⌛ July 29, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/kif-gets-knocked-up-a-notch  
+seriesid=`437532` titleid=`442425` id=`AYC9xjJd_0O4w1rD3SL-` mediaid=`37bfe14684c8243978a3ce36bdd201c1b5e8129a`  
+_Amy's romance with Kif Kroker leads to pregnancy._  
+<a href="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151615-Futurama_061_KifGetsKnockedUpANotch.png"><img src="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151615-Futurama_061_KifGetsKnockedUpANotch.png" height="144px" /></a>
+### 2241829
+**Gemusetto S02E04 - Episode Four: C MAJOR**  
+TV-14-DLV 🔓 11:15  
+⌛ August 26, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-four-c-major  
+seriesid=`2194549` titleid=`2241829` id=`AXW5HlihLyLQBOXK_Pgv` mediaid=`7218145f06c73c32b058d39ea398c2d310bcae0b`  
+_Josie has been seething with rage towards Makasu ever since his own death- but is holding on to anger just a waste of time? Will their musical battle rip the afterlife of Kur apart?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg" height="144px" /></a>
+### 731273
+**King of the Hill S03E20 - Dog Dale Afternoon**  
+TV-PG-DL 🔒 23:15  
+⌛ July 29, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/dog-dale-afternoon  
+seriesid=`629835` titleid=`731273` id=`TUItS57GSmqdEd4ys1XOhw` mediaid=`1d48a7583228253ed93654feef3cdae478b39d64`  
+_Hank and his friends drive Dale over the edge when they steal away his state-of-the-art lawnmower._  
+<a href="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261356548-KingOfTheHill_317_DogDaleAfternoon.png"><img src="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261356548-KingOfTheHill_317_DogDaleAfternoon.png" height="144px" /></a>
+### 343642
+**Samurai Jack S02E02 - XV**  
+TV-Y7-FV 🔒 22:40  
+⌛ May 11, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xv  
+seriesid=`343621` titleid=`343642` id=`jwKQXdyORPiFyZFEzEcBBA` mediaid=`750136612ba1229697d6448f3e73a8ba95d52fc2`  
+_Story 1: Jack vs. the Worm. Story 2: The Metal-Eaters. Story 3: Jack, the Gargoyle, and the Fairy._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461642466-samjack_015.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461642466-samjack_015.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-### 2132985
-**Bob's Burgers S07E14 - The Laser-Inth**  
-TV-PG-L 🔒 21:42  
-⌛ July 21, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-laser-inth  
-seriesid=`2003422` titleid=`2132985` id=`AWCqZpWiZ-onAnjDLtw7` mediaid=`3d2c0cb05daddbc68467f3a429540082afca43fd`  
-_Gene accompanies Bob on the last-ever rock and roll laser show at the planetarium, while Linda and the girls go out for dinner at a wacky restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779340694.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779340694.jpg" height="144px" /></a>
-### 2132986
-**Bob's Burgers S07E15 - Thelma and Louise Except Thelma is Linda**  
-TV-PG-L 🔒 21:45  
-⌛ July 21, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/thelma-and-louise-except-thelma-is-linda  
-seriesid=`2003422` titleid=`2132986` id=`AWDToWcPZ-onAnjDLt1u` mediaid=`bc9de6bf7e153627ebe81dd351731cca9c940907`  
-_After Louise gets in trouble at school, Linda is forced to meet with Mr. Frond and potentially could lose her hard-earned position as the Wagstaff bake sale leader._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779965917.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779965917.jpg" height="144px" /></a>
-### 438054
-**Futurama S04E11 - 30% Iron Chef**  
-TV-PG 🔒 23:17  
-⌛ July 21, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/30-iron-chef  
-seriesid=`437532` titleid=`438054` id=`AYBngwa1208s7zyYUMvp` mediaid=`9cef046407a3e4e33f4875629b3fbae33a8f68ca`  
-_Wanting to become a chef, Bender seeks mentoring from Helmut Spragel, formerly the world's greatest culinary artist._  
-<a href="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_2252152955-Futurama_055_30PercentIronChef.png"><img src="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_2252152955-Futurama_055_30PercentIronChef.png" height="144px" /></a>
-### 731256
-**King of the Hill S03E14 - The Wedding of Bobby Hill**  
-TV-PG-DL 🔒 23:16  
-⌛ July 21, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/the-wedding-of-bobby-hill  
-seriesid=`629835` titleid=`731256` id=`hTuaVKX3S9WNuGyFvs9owA` mediaid=`7a01d4e388ff3d2e071b483573bdf2bce4e7957b`  
-_Hank and Peggy convince Bobby that one of his pranks has gotten Luanne pregnant._  
-<a href="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720830575-KingOfTheHill_309_TheWeddingOfBobbyHill.png"><img src="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720830575-KingOfTheHill_309_TheWeddingOfBobbyHill.png" height="144px" /></a>
+2194549 Gemusetto: 1  
+581006 American Dad: 2  
+### 2003424
+**Bob's Burgers S01E02 - Crawl Space**  
+TV-PG 🔒 21:30  
+⌛ July 22, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/crawl-space  
+seriesid=`2003422` titleid=`2003424` id=`7CPkiayCT7q_siDtFOqY8Q` mediaid=`3cb82ec5aa600492a3760a3298972f1c815f6e0c`  
+_When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088768414119.jpg" height="144px" /></a>
+### 2003423
+**Bob's Burgers S01E01 - Human Flesh**  
+TV-14 🔒 21:30  
+⌛ July 22, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/human-flesh  
+seriesid=`2003422` titleid=`2003423` id=`g14uqnD3RnOF-R_kqpxrtA` mediaid=`0921a95256111066eaef455e1148a955ae22f682`  
+_Bob rallies the team to cook up some business for Grand Re-Re-Re-Opening of Bob's Burgers, sending middle child Gene to push samples in the streets, eldest daughter Tina to work the grill and youngest daughter Louise to staff the counter. The day takes an unexpected turn when the health inspector pays a visit because of a little rumor Louise started during "show and tell" at school._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg" height="144px" /></a>
+### 2241833
+**Gemusetto S02E08 - Episode Eight: E9**  
+TV-MA-LS 🔒 11:15  
+⌛ July 22, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-eight-e-9  
+seriesid=`2194549` titleid=`2241833` id=`AXYfUGqdbxpjZvbXYlg3` mediaid=`e7a7b5183285c3b883590845d639f0638744349b`  
+_Makasu totally misconstrues all the friendship advice Dr. Legs has been giving him during his redemption arc. With our hero out of commission, do drastic measures have to be taken to save the universe?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_201211218485-GSMP_208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_201211218485-GSMP_208.jpg" height="144px" /></a>
+### 2019425
+**American Dad S10E10 - Manhattan Magical Murder Mystery Tour**  
+TV-14 🔒 21:01  
+⌛ July 22, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/manhattan-magical-murder-mystery-tour  
+seriesid=`581006` titleid=`2019425` id=`3w97uOnnSfyITr-a1fdbGA` mediaid=`70f8c08ed70de52f36f30e67ae93b65fa90e71cb`  
+_Francine is up for an award for her lonely housewife novel, so the family heads to New York for the ceremony. Meanwhile, Stan and Hayley hang out with actor Robert Wuhl, and Steve and Roger recreate their Wheels and the Legman personas._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001899518215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001899518215.jpg" height="144px" /></a>
+### 2019424
+**American Dad S10E09 - A Star Is Reborn**  
+TV-14-DLSV 🔒 21:04  
+⌛ July 22, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/a-star-is-reborn  
+seriesid=`581006` titleid=`2019424` id=`XNC8NPgfSOmtdxmD-9o-eQ` mediaid=`e04f9dd9b5ec8d9ae3c7f2b04fbedc1dd1167654`  
+_While on vacation in Los Angeles, Stan joins the world of old Hollywood._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036510818619.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152036510818619.jpg" height="144px" /></a>
