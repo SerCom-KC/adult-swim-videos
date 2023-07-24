@@ -1,9 +1,8 @@
 {
-    "updated": 1690225219,
-    "added": [],
-    "removed": [
+    "updated": 1690230618,
+    "added": [
         {
-            "auth_expiration_date": 1691726340,
+            "auth_expiration_date": 1690257540,
             "tms_id": "",
             "description": "Clark, Lois, and Jimmy cover a glitzy gala hosted by tech-billionaire Dr. Ivo - but while Clark and Lois wonder if this counts as a date, Ivo unleashes his newest invention: a creation that can bring down Superman!",
             "title_suggest": {
@@ -34,7 +33,7 @@
             "clip_order": null,
             "airing_id": "RADS1007142300010350",
             "media_id": "7deb226328b50e929022f2dcf0acbd8758405b66",
-            "modified": 1689956785,
+            "modified": 1690230453,
             "slug": "lets-go-to-ivo-tower-you-say",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20230720/thumbnails/1_23720108487-ASGenericThumb.png",
@@ -42,7 +41,7 @@
             "season_number": "1",
             "title_id": "2288458",
             "tv_rating": "tv-pg-v",
-            "published": 1689956785,
+            "published": 1690230453,
             "tags": [],
             "collection_title": "My Adventures with Superman",
             "disable_ads": false,
@@ -55,5 +54,6 @@
             "collection_title_id": "2288454",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
