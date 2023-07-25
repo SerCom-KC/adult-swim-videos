@@ -108,7 +108,7 @@
         "cma_id": "1431525"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1701752340,
         "tms_id": "EP007259620117",
@@ -162,7 +162,7 @@
         "cma_id": "965599"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447347180,
         "auth_expiration_date": 1690257540,
         "tms_id": "EP007259620010",
@@ -6337,7 +6337,7 @@
         "cma_id": "1192969"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1707195540,
         "tms_id": "EP007259620131",
@@ -6392,7 +6392,7 @@
         "cma_id": "1309572"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447347360,
         "auth_expiration_date": 1690257540,
         "tms_id": "EP007259620013",
@@ -6604,7 +6604,7 @@
         "cma_id": "1398369"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447189500,
         "auth_expiration_date": 1690257540,
         "tms_id": "EP007259620001",
@@ -9072,6 +9072,75 @@
         "cma_id": "1419192"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447429140,
+        "auth_expiration_date": 1683349140,
+        "tms_id": "EP007259620011",
+        "rating": 6.7429214,
+        "description": "The roller-coaster celebrity life of the Incredible Hulk is profiled in \"Hollywood Spotlight.\" The Masters of the Universe are rocked by a Paris Hilton-style sex tape.",
+        "title_suggest": {
+            "input": [
+                "Badunkadunk"
+            ]
+        },
+        "type": "episode",
+        "title": "Badunkadunk",
+        "expiration_date": 1690862340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 643.2335669,
+        "episode_number": "10",
+        "original_air_date": 1114399800,
+        "clip_order": null,
+        "auth_launch_date": 1675573200,
+        "modified": 1689953062,
+        "airing_id": "RADS1007212300011436",
+        "media_id": "703fb710a677d7daba4fafbd01cbab61a00ea941",
+        "id": "RtaQ-rbtS-aBmkdhzf-JYg",
+        "slug": "badunkadunk",
+        "views": 429217,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_203262039422-robotchicken_013.jpg",
+        "created": 1402945474,
+        "title_id": "609701",
+        "season_number": "1",
+        "tv_rating": "tv-14-dsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1689953062,
+        "tags": [
+            "badunkadunk",
+            "Seth Green",
+            "Matt Senreich",
+            "hulk",
+            "the incredible hulk",
+            "ang lee",
+            "hollywood spotlight",
+            "bill clinton",
+            "mila kunis",
+            "Macaulay Culkin",
+            "pat o'brien",
+            "sabrina",
+            "teenage bitch",
+            "sex tape",
+            "masters of the universe",
+            "teela",
+            "michael jackson"
+        ],
+        "rating_count": 3108,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1690257600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262039422-robotchicken_013.jpg",
+        "cma_id": "1169417"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1460383200,
         "auth_expiration_date": 1709009940,
@@ -10557,7 +10626,7 @@
         "cma_id": "1180402"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1709614740,
         "tms_id": "EP007259620152",
@@ -11336,7 +11405,7 @@
         "cma_id": "1202047"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447347360,
         "auth_expiration_date": 1690257540,
         "tms_id": "EP007259620012",
@@ -11923,7 +11992,7 @@
         "cma_id": "1414697"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447347180,
         "auth_expiration_date": 1718078340,
         "tms_id": "EP007259620009",
@@ -12998,7 +13067,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447347120,
         "auth_expiration_date": 1718078340,
         "tms_id": "EP007259620008",
