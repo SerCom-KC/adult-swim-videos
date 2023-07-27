@@ -51,7 +51,7 @@
         "cma_id": "1168706"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447781580,
         "auth_expiration_date": 1690430340,
         "tms_id": "EP005604540032",
@@ -903,7 +903,7 @@
     },
     {
         "ott_launch_date": 1539008940,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1691899199,
         "tms_id": "",
         "description": "Deep inside Guild Headquarters, The Monarch and 21 face their ultimate ordeal. Meanwhile, the Venture Brothers face one of their own.",
@@ -2868,7 +2868,7 @@
         "cma_id": "978464"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447781580,
         "auth_expiration_date": 1690430340,
         "tms_id": "EP005604540033",
@@ -3953,7 +3953,7 @@
         "cma_id": "986103"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447781460,
         "auth_expiration_date": 1691899199,
         "tms_id": "EP005604540028",
