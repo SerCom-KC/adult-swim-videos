@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 28, 2023 at 10:00:16 EDT_
+_Last Update: July 28, 2023 at 10:30:16 EDT_
 ## Video added
 ### Summary
-340537 Aqua Teen Hunger Force: 1  
-### 747311
-**Aqua Teen Hunger Force S06E08 - Fry Legs**  
-TV-MA 🔓 11:28  
+629835 King of the Hill: 1  
+### 731274
+**King of the Hill S03E21 - Revenge of the Lutefisk**  
+TV-PG-DL 🔒 23:17  
 ⌛ August 1, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/fry-legs  
-seriesid=`340537` titleid=`747311` id=`_uKY2-GpQ8C3wC7EPRgdlQ` mediaid=`5e0f5ff9ad553afeb9d048554b3806e66583a532`  
-_Frylock falls for a girl and like most men in love, begins acting insane._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225951495-athf_086_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225951495-athf_086_BIM.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/revenge-of-the-lutefisk  
+seriesid=`629835` titleid=`731274` id=`GQqoitHZR2q3hXdalwe65A` mediaid=`5e7193e5ffe9f09973c58bff6b4ee2cfbaa02e72`  
+_Bobby suffers enormous guilt after he consumes all of the new reverend's lutefisk... and inadvertently burns the church to the ground._  
+<a href="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261357446-KingOfTheHill_319_RevengeOfTheLutefisk.png"><img src="https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261357446-KingOfTheHill_319_RevengeOfTheLutefisk.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
