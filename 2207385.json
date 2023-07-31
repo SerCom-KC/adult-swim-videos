@@ -118,7 +118,7 @@
         "clip_order": null,
         "airing_id": "RADS1007282300012134",
         "media_id": "65720851344beee3a3e108321865d289ada3ecbd",
-        "modified": 1690510378,
+        "modified": 1690697630,
         "slug": "first-contact",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20230617/thumbnails/1_236171324464-DrStone303Still002tiny.png",
@@ -126,7 +126,7 @@
         "title_id": "2430540",
         "season_number": "3",
         "tv_rating": "tv-pg-l",
-        "published": 1690510378,
+        "published": 1690697630,
         "tags": [],
         "collection_title": "Dr. Stone",
         "disable_ads": false,
@@ -134,7 +134,7 @@
         "launch_date": 1688889600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230617/thumbnails/2_236171324464-DrStone303Still002tiny.png",
         "id": "AYivyuPFOz5CkuTcnvzd",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1689494340,
@@ -210,7 +210,7 @@
         "clip_order": null,
         "airing_id": "RADS1007282300012132",
         "media_id": "bd8830482c515e894f5fe472dce98051fbe83d10",
-        "modified": 1690510345,
+        "modified": 1690627104,
         "slug": "science-vessel-perseus",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20230712/thumbnails/1_237121013479-DR.STONE40ScienceVesselPerseus.png",
@@ -218,7 +218,7 @@
         "title_id": "2430542",
         "season_number": "3",
         "tv_rating": "tv-pg-l",
-        "published": 1690510345,
+        "published": 1690627104,
         "tags": [],
         "collection_title": "Dr. Stone",
         "disable_ads": false,
@@ -226,7 +226,7 @@
         "launch_date": 1690705800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230712/thumbnails/2_237121013479-DR.STONE40ScienceVesselPerseus.png",
         "id": "AYkmTmLHOz5CkuTcnwH_",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1691913540,
@@ -271,6 +271,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230724/thumbnails/2_23724124239-DrStoneTREASUREBOX.png",
         "id": "AYlA7-Ju2rZC6NyF61-B",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1692518340,
+        "tms_id": "EP047257420007",
+        "description": "The Perseus arrives at the treasure island. A recon squad consisting of Senku, Soyuz, Kohaku, and Gen set off to locate the platinum and make contact with the islanders.",
+        "title_suggest": {
+            "input": [
+                "Ray of Despair, Ray of Hope",
+                "of Despair, Ray of Hope",
+                "Despair, Ray of Hope",
+                "Ray of Hope",
+                "of Hope",
+                "Hope"
+            ]
+        },
+        "title": "Ray of Despair, Ray of Hope",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1348.8475,
+        "episode_number": "7",
+        "original_air_date": "1689481800",
+        "auth_launch_date": 1690704000,
+        "clip_order": null,
+        "airing_id": "RADS1007282300012106",
+        "media_id": "7d77ae3f1e90eb42fe4736f8ec38b9b60759a664",
+        "modified": 1690578645,
+        "slug": "ray-of-despair-ray-of-hope",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230720/thumbnails/1_23720109277-ASGenericThumb.png",
+        "created": 1689862174,
+        "season_number": "3",
+        "title_id": "2430544",
+        "tv_rating": "tv-14-l",
+        "published": 1690578645,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230720/thumbnails/2_23720109277-ASGenericThumb.png",
+        "id": "AYlzongm2rZC6NyF61-E",
         "auth": true
     }
 ]
