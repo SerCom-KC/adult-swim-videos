@@ -173,9 +173,9 @@
         "original_air_date": 1687066200,
         "auth_launch_date": 1690707600,
         "clip_order": null,
-        "airing_id": "RADS1007282300012138",
+        "airing_id": "RADS1007052300006910",
         "media_id": "4ad36783c87b1878a0104ff6b4e515fa5ac4bf30",
-        "modified": 1690510439,
+        "modified": 1690628047,
         "slug": "a-critical-situation-punk-hazard-explodes",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20230617/thumbnails/1_236171323544-OnePieceEngl620Still001tiny.png",
@@ -183,7 +183,7 @@
         "title_id": "2402512",
         "season_number": "16",
         "tv_rating": "tv-pg",
-        "published": 1690510439,
+        "published": 1690628047,
         "tags": [],
         "collection_title": "One Piece",
         "disable_ads": false,
@@ -191,7 +191,7 @@
         "launch_date": 1688893200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230617/thumbnails/2_236171323544-OnePieceEngl620Still001tiny.png",
         "id": "AYiv0bjI2rZC6NyF619v",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1689497940,
@@ -288,7 +288,7 @@
         "launch_date": 1690707600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230712/thumbnails/2_23712108552-ONEPIECE622TouchingReunion.png",
         "id": "AYkmToeF2rZC6NyF619-",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1691312340,
@@ -389,6 +389,40 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230724/thumbnails/2_237241258239-OnePieceTheG-5WipedOutDoflamingosSuddenAttack.png",
         "id": "AYlqZekR2rZC6NyF61-C",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1692521940,
+        "created": 1690509698,
+        "tms_id": "EP044419420047",
+        "title_id": "2402517",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "description": "Aokiji's intercession saves Smoker and sends Joker off to rethink his strategy, leaving unanswered questions about Aokiji's current status.",
+        "title_suggest": {
+            "input": [
+                "Intense! Aokiji vs. Doflamingo!",
+                "Aokiji vs. Doflamingo!",
+                "vs. Doflamingo!",
+                "Doflamingo!"
+            ]
+        },
+        "published": 1690569211,
+        "title": "Intense! Aokiji vs. Doflamingo!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1318.2836,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1690695000,
+        "auth_launch_date": 1690707600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007282300012108",
+        "media_id": "f1450e9a2c874960b1a122253404684b3ee418a7",
+        "modified": 1690569211,
+        "slug": "intense-aokiji-vs-doflamingo",
+        "id": "AYmaOuac2rZC6NyF61-V",
         "auth": true
     }
 ]
