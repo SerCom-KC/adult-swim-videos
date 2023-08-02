@@ -56,7 +56,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169280,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090032",
@@ -110,7 +110,7 @@
         "cma_id": "1244369"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169100,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090025",
@@ -161,7 +161,7 @@
         "cma_id": "1472461"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169340,
         "auth_expiration_date": 1691553540,
         "tms_id": "EP008519090035",
@@ -212,7 +212,7 @@
         "cma_id": "1255434"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169220,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090031",
@@ -321,7 +321,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168740,
         "auth_expiration_date": 1715745540,
         "tms_id": "EP008519090014",
@@ -372,59 +372,6 @@
         "launch_date": 1684728000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111125468-metalocalypse_114.jpg",
         "cma_id": "1422876"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447169280,
-        "auth_expiration_date": 1684814399,
-        "tms_id": "EP008519090034",
-        "rating": 9.360751,
-        "description": "The band is fed up with Offdenson knowing more than they do.  They want their fifth of everything and decide to hire an efficiency expert to tighten up matters at Mordhaus and maximize their weekly allowance.",
-        "title_suggest": {
-            "input": [
-                "Dethsources"
-            ]
-        },
-        "type": "episode",
-        "title": "Dethsources",
-        "expiration_date": 1690948799,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "niumi9_rRkOmewx_anrpnw",
-        "duration": 691.4337671,
-        "episode_number": "14",
-        "original_air_date": 1215403200,
-        "clip_order": null,
-        "auth_launch_date": 1666065600,
-        "modified": 1690938293,
-        "media_id": "b40ecbb2466568e69bfd0a2a59c549dff2a22c3c",
-        "airing_id": "RADS1005192300096432",
-        "id": "8v6mb17QSLu7e6_8bB-h8Q",
-        "slug": "dethsources",
-        "views": 734530,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311113493-metalocalypse_214_bim.jpg",
-        "created": 1402945469,
-        "title_id": "693504",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1690938293,
-        "tags": [
-            "metalocalypse dethsources episode 34"
-        ],
-        "rating_count": 3781,
-        "collection_title": "Metalocalypse",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1684728000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311113493-metalocalypse_214_bim.jpg",
-        "cma_id": "1252313"
     },
     {
         "auth": false,
@@ -727,7 +674,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168560,
         "auth_expiration_date": 1710302340,
         "tms_id": "EP008519090005",
@@ -921,7 +868,7 @@
         "cma_id": "1283116"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168860,
         "auth_expiration_date": 1717214399,
         "tms_id": "EP008519090018",
@@ -981,7 +928,7 @@
         "cma_id": "1440411"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168500,
         "auth_expiration_date": 1708491540,
         "tms_id": "EP008519090002",
@@ -1034,7 +981,7 @@
         "cma_id": "1372588"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1458568740,
         "auth_expiration_date": 1716955140,
         "tms_id": "EP008519090015",
@@ -1138,7 +1085,7 @@
         "cma_id": "1340315"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168440,
         "auth_expiration_date": 1707886740,
         "tms_id": "EP008519090001",
@@ -1194,7 +1141,7 @@
         "cma_id": "1369711"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168860,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090019",
@@ -1375,7 +1322,7 @@
         "cma_id": "1344349"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168680,
         "auth_expiration_date": 1712721540,
         "tms_id": "EP008519090008",
@@ -1426,7 +1373,7 @@
         "cma_id": "1405914"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168500,
         "auth_expiration_date": 1709096340,
         "tms_id": "EP008519090003",
@@ -1534,7 +1481,7 @@
         "cma_id": "1360773"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169220,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090030",
@@ -1585,7 +1532,7 @@
         "cma_id": "693500"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169280,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090033",
@@ -1636,7 +1583,7 @@
         "cma_id": "1246858"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168800,
         "auth_expiration_date": 1716350340,
         "tms_id": "EP008519090016",
@@ -1773,7 +1720,7 @@
         "cma_id": "1328290"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168620,
         "auth_expiration_date": 1712116740,
         "tms_id": "EP008519090007",
@@ -1939,7 +1886,7 @@
         "cma_id": "1295191"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168620,
         "auth_expiration_date": 1710907140,
         "tms_id": "EP008519090011",
@@ -1990,7 +1937,7 @@
         "cma_id": "1393756"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169040,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090022",
@@ -2043,7 +1990,7 @@
         "cma_id": "1454155"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169160,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090028",
@@ -2147,7 +2094,7 @@
         "cma_id": "1356502"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168680,
         "auth_expiration_date": 1713326340,
         "tms_id": "EP008519090009",
@@ -2274,7 +2221,7 @@
         "cma_id": "1320168"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168560,
         "auth_expiration_date": 1709701140,
         "tms_id": "EP008519090004",
@@ -2430,7 +2377,7 @@
         "cma_id": "1336003"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168560,
         "auth_expiration_date": 1714535940,
         "tms_id": "EP008519090012",
@@ -2559,7 +2506,7 @@
         "cma_id": "1324725"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169160,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090027",
@@ -2612,7 +2559,7 @@
         "cma_id": "693497"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169160,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090026",
@@ -2665,7 +2612,7 @@
         "cma_id": "1477519"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168680,
         "auth_expiration_date": 1713931140,
         "tms_id": "EP008519090010",
@@ -2828,7 +2775,7 @@
         "cma_id": "1263874"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168800,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090017",
@@ -2888,7 +2835,7 @@
         "cma_id": "1435303"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168620,
         "auth_expiration_date": 1711511940,
         "tms_id": "EP008519090006",
@@ -2945,7 +2892,7 @@
         "cma_id": "1397864"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169040,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090021",
@@ -3149,7 +3096,7 @@
         "cma_id": "1315101"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169100,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090024",
@@ -3202,7 +3149,7 @@
         "cma_id": "1466715"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168740,
         "auth_expiration_date": 1715140740,
         "tms_id": "EP008519090013",
@@ -3258,7 +3205,7 @@
         "cma_id": "1418814"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169220,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090029",
@@ -3309,7 +3256,7 @@
         "cma_id": "693499"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447168860,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090020",
@@ -3432,7 +3379,7 @@
         "cma_id": "1364175"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447169040,
         "auth_expiration_date": 1717214340,
         "tms_id": "EP008519090023",
