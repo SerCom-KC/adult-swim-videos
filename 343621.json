@@ -730,7 +730,7 @@
         "original_air_date": 1250305200,
         "clip_order": null,
         "auth_launch_date": 1688270400,
-        "modified": 1691117306,
+        "modified": 1691119735,
         "media_id": "c6fe95bac9e9517d767a231e374878869f2c2ad4",
         "airing_id": "RADS1006302300006132",
         "id": "B4RC8pCUQHe1Aaa_-KNHow",
@@ -745,7 +745,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1691117306,
+        "published": 1691119735,
         "first_published": 1413469284,
         "tags": [],
         "collection_title": "Samurai Jack",
@@ -756,7 +756,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1493044200,
         "auth_expiration_date": 1694145540,
         "tms_id": "EP004517020108",
@@ -1106,7 +1106,7 @@
         "cma_id": "1042698"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1489522800,
         "auth_expiration_date": 1691121540,
         "tms_id": "EP004517020103",
@@ -1280,7 +1280,7 @@
         "original_air_date": 1250391600,
         "clip_order": null,
         "auth_launch_date": 1688875200,
-        "modified": 1688738946,
+        "modified": 1691121220,
         "media_id": "da9d6ec6a3269bca21ac39b1ce04a4bbdcc32b45",
         "airing_id": "RADS1007072300007555",
         "id": "QiaBLguZQu-zJW6DaS3VBw",
@@ -1295,7 +1295,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1688738946,
+        "published": 1691121220,
         "first_published": 1414074918,
         "tags": [],
         "collection_title": "Samurai Jack",
