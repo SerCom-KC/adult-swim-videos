@@ -144,7 +144,7 @@
         "launch_date": 1691121600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_23727113659-MAWS103.png",
         "id": "AYkm0JS1Oz5CkuTcnwIp",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1692331140,
@@ -244,6 +244,41 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_237271136514-MAWS104.png",
         "id": "AYlzoe4E2rZC6NyF61-D",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1692935940,
+        "created": 1690781163,
+        "tms_id": "",
+        "title_id": "2288460",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "description": "When Jimmy gets kidnapped, it's up to Lois and Clark to save him - but rescuing Jimmy will lead them into danger as they deal with mad scientists, military secrets, and relationship woes!",
+        "title_suggest": {
+            "input": [
+                "My Adventures With Mad Science",
+                "Adventures With Mad Science",
+                "With Mad Science",
+                "Mad Science",
+                "Science"
+            ]
+        },
+        "published": 1690983225,
+        "title": "My Adventures With Mad Science",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1352.8182,
+        "episode_number": "6",
+        "collection_title": "My Adventures with Superman",
+        "original_air_date": 1691121600,
+        "auth_launch_date": 1691121600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007312300012674",
+        "media_id": "3204c411f11afbfbec2782beeb3f662423e0fe0c",
+        "modified": 1690983225,
+        "slug": "my-adventures-with-mad-science",
+        "id": "AYmqaR6COz5CkuTcnwbI",
         "auth": true
     }
 ]
