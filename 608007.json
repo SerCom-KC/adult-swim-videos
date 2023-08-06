@@ -190,7 +190,7 @@
         "launch_date": 1689498000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751024454-OnePiece_CaptureCaesar.png",
         "id": "AYjZOTud2rZC6NyF6192",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1690707540,
@@ -290,7 +290,7 @@
         "launch_date": 1691312400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230717/thumbnails/2_237171040577-OnePiece623ItsTimeToSayGoodbyeLeavingPunkHazard.png",
         "id": "AYlA8A0HOz5CkuTcnwME",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1691917140,
@@ -387,6 +387,45 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230801/thumbnails/2_2381936537-OnePiece625IntenseAokijivsDoflamingo.png",
         "id": "AYmaOuac2rZC6NyF61-V",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1693126740,
+        "created": 1690782903,
+        "tms_id": "EP044419420048",
+        "title_id": "2402518",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "description": "Smooth seas stretch out before the Straw Hats as they leave Punk Hazard far behind -- but while they fear Donflamingo's return and prepare to face him, another foe lies in wait, whose powers could be their downfall!",
+        "title_suggest": {
+            "input": [
+                "Caesar Goes Missing! The Pirate Alliance Makes a Sortie!",
+                "Goes Missing! The Pirate Alliance Makes a Sortie!",
+                "Missing! The Pirate Alliance Makes a Sortie!",
+                "The Pirate Alliance Makes a Sortie!",
+                "Pirate Alliance Makes a Sortie!",
+                "Alliance Makes a Sortie!",
+                "Makes a Sortie!",
+                "a Sortie!",
+                "Sortie!"
+            ]
+        },
+        "published": 1691175214,
+        "title": "Caesar Goes Missing! The Pirate Alliance Makes a Sortie!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1318.2169,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1691299800,
+        "auth_launch_date": 1691312400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007312300012790",
+        "media_id": "df044411078fb5a39c82f065c6743a501d2b4583",
+        "modified": 1691175214,
+        "slug": "caesar-goes-missing-the-pirate-alliance-makes-a-sortie",
+        "id": "AYmqg65Z2rZC6NyF61-W",
         "auth": true
     }
 ]
