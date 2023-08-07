@@ -2510,11 +2510,7 @@
     },
     {
         "auth_expiration_date": 1734411540,
-        "created": 1690782916,
         "tms_id": "EP034917240452",
-        "title_id": "2177879",
-        "season_number": "8",
-        "tv_rating": "tv-pg",
         "description": "Several months after Pain's attack, Jiraiya arrives with intel regarding the Akatsuki, who are attacking shinobi villages.",
         "title_suggest": {
             "input": [
@@ -2523,21 +2519,38 @@
                 "Unite"
             ]
         },
-        "published": 1691174923,
         "title": "The Shinobi Unite",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
         "duration": 1310.9764,
         "episode_number": "33",
-        "collection_title": "Naruto: Shippuden",
         "original_air_date": 1691301600,
         "auth_launch_date": 1691314200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1007312300012792",
         "media_id": "dd495c61944282d64031d41675ca0bf968103133",
-        "modified": 1691174923,
+        "modified": 1691412862,
         "slug": "the-shinobi-unite",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_238785322-NARUTOSHIPPUDENTheShinobiUnite.png",
+        "created": 1690782916,
+        "title_id": "2177879",
+        "season_number": "8",
+        "tv_rating": "tv-pg",
+        "published": 1691412862,
+        "tags": [],
+        "collection_title": "Naruto: Shippuden",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238785322-NARUTOSHIPPUDENTheShinobiUnite.png",
         "id": "AYmqg-BJ2rZC6NyF61-X",
         "auth": true
     }

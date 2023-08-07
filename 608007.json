@@ -391,11 +391,7 @@
     },
     {
         "auth_expiration_date": 1693126740,
-        "created": 1690782903,
         "tms_id": "EP044419420048",
-        "title_id": "2402518",
-        "season_number": "16",
-        "tv_rating": "tv-pg",
         "description": "Smooth seas stretch out before the Straw Hats as they leave Punk Hazard far behind -- but while they fear Donflamingo's return and prepare to face him, another foe lies in wait, whose powers could be their downfall!",
         "title_suggest": {
             "input": [
@@ -410,21 +406,38 @@
                 "Sortie!"
             ]
         },
-        "published": 1691175214,
         "title": "Caesar Goes Missing! The Pirate Alliance Makes a Sortie!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1318.2169,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "47",
         "original_air_date": 1691299800,
         "auth_launch_date": 1691312400,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1007312300012790",
         "media_id": "df044411078fb5a39c82f065c6743a501d2b4583",
-        "modified": 1691175214,
+        "modified": 1691412334,
         "slug": "caesar-goes-missing-the-pirate-alliance-makes-a-sortie",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_238784581-ONEPIECECaesarGoesMissingThePirateAllianceMakesaSortie.png",
+        "created": 1690782903,
+        "title_id": "2402518",
+        "season_number": "16",
+        "tv_rating": "tv-pg",
+        "published": 1691412334,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238784581-ONEPIECECaesarGoesMissingThePirateAllianceMakesaSortie.png",
         "id": "AYmqg65Z2rZC6NyF61-W",
         "auth": true
     }
