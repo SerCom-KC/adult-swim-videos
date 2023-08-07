@@ -248,11 +248,7 @@
     },
     {
         "auth_expiration_date": 1692935940,
-        "created": 1690781163,
         "tms_id": "",
-        "title_id": "2288460",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
         "description": "When Jimmy gets kidnapped, it's up to Lois and Clark to save him - but rescuing Jimmy will lead them into danger as they deal with mad scientists, military secrets, and relationship woes!",
         "title_suggest": {
             "input": [
@@ -263,21 +259,38 @@
                 "Science"
             ]
         },
-        "published": 1690983225,
         "title": "My Adventures With Mad Science",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AYj-tDmq2rZC6NyF6196",
         "duration": 1352.8182,
         "episode_number": "6",
-        "collection_title": "My Adventures with Superman",
         "original_air_date": 1691121600,
         "auth_launch_date": 1691121600,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1007312300012674",
         "media_id": "3204c411f11afbfbec2782beeb3f662423e0fe0c",
-        "modified": 1690983225,
+        "modified": 1691410881,
         "slug": "my-adventures-with-mad-science",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_238782138-MAWS106.png",
+        "created": 1690781163,
+        "title_id": "2288460",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "published": 1691410881,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782138-MAWS106.png",
         "id": "AYmqaR6COz5CkuTcnwbI",
         "auth": true
     }
