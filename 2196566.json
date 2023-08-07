@@ -95,6 +95,54 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1686542340,
+        "tms_id": "",
+        "description": "When Goodman's legs get cut off and stolen, his search for the leg thief lands him in the first grade, where he is mistaken for a child.",
+        "title_suggest": {
+            "input": [
+                "Ganley Stoodman",
+                "Stoodman"
+            ]
+        },
+        "title": "Ganley Stoodman",
+        "expiration_date": 1694404740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 678.08,
+        "episode_number": "4",
+        "original_air_date": 1575262800,
+        "auth_launch_date": 1683518400,
+        "clip_order": null,
+        "media_id": "7a585d05797400dfb803e869a07d2b8d451dde42",
+        "modified": 1691227721,
+        "airing_id": "RADS1008032300013428",
+        "slug": "ganley-stoodman",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141034243-MommaNamedMeSheriff_104_dup-20190507.jpg",
+        "created": 1573745668,
+        "season_number": "1",
+        "title_id": "2196570",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691227721,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691380800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141034243-MommaNamedMeSheriff_104_dup-20190507.jpg",
+        "id": "AW5qjTDHadNs2hMNfugF",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1692590340,
         "tms_id": "",
         "description": "When Sheriff realizes that an addiction to his Momma's pudding is allowing her to control him, he decides to better his relationship with her, by kicking his pudding habit.",
@@ -181,52 +229,6 @@
         "launch_date": 1685937600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210201/thumbnails/2_2121104624-MommaNamedMeSheriff_202_dup-20210127_BadParents.jpg",
         "id": "AXdeRcIrbxpjZvbXYmKj",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1691380740,
-        "tms_id": "",
-        "description": "When Sheriff hires a bug as a new deputy, a cockroach is put in charge of solving a mysterious murder.",
-        "title_suggest": {
-            "input": [
-                "Sheriff and Roach",
-                "and Roach",
-                "Roach"
-            ]
-        },
-        "title": "Sheriff and Roach",
-        "expiration_date": 1688356740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 676.5759,
-        "episode_number": "3",
-        "original_air_date": "1613970000",
-        "auth_launch_date": 1688356800,
-        "clip_order": null,
-        "airing_id": "RADS1006302300006214",
-        "media_id": "92059a81550f746c5ea2a16096709a05280bb834",
-        "modified": 1688594938,
-        "slug": "sheriff-and-roach",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210203/thumbnails/1_212310870-MommaNamedMeSheriff_201_dup-20210202_SheriffAndRoach.jpg",
-        "created": 1612364890,
-        "season_number": "2",
-        "title_id": "2247953",
-        "tv_rating": "tv-ma-sv",
-        "published": 1688594938,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1685332800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210203/thumbnails/2_212310870-MommaNamedMeSheriff_201_dup-20210202_SheriffAndRoach.jpg",
-        "id": "AXdob8BtQJ_4Uej5kTpq",
         "auth": true
     },
     {
@@ -321,7 +323,7 @@
         "launch_date": 1688356800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210305/thumbnails/2_21351756213-MommaNamedMeSheriff_208_SadSadSheriff.jpg",
         "id": "AXf6KKqjQJ_4Uej5kTvR",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1684123140,
