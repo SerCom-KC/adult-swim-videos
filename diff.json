@@ -1,7 +1,6 @@
 {
-    "updated": 1691506405,
-    "added": [],
-    "removed": [
+    "updated": 1691516117,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1517844660,
@@ -29,7 +28,7 @@
             "original_air_date": 1517807700,
             "clip_order": null,
             "auth_launch_date": 1682568000,
-            "modified": 1682167292,
+            "modified": 1691516028,
             "media_id": "96e8ac335da2ef843a6b66cc279506d483bcd9ab",
             "airing_id": "RADS1003081900072751",
             "id": "2lvT7YuaScavz6bJcMoMzw",
@@ -43,7 +42,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1682167292,
+            "published": 1691516028,
             "tags": [],
             "collection_title": "Hot Streets",
             "disable_ads": false,
@@ -55,5 +54,6 @@
             "collection_title_id": "2104364",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
