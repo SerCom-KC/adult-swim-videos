@@ -2,61 +2,107 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 8, 2023 at 00:00:21 EDT_
+_Last Update: August 8, 2023 at 00:30:22 EDT_
 ## Video added
 ### Summary
-618253 12 oz. Mouse: 1  
-581006 American Dad: 1  
-2137894 Ballmastrz: 9009: 2  
-### 660379
-**12 oz. Mouse S02E12 - Farewell**  
-TV-14-LV 🔓 11:58  
-⌛ September 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/12-oz-mouse/farewell  
-seriesid=`618253` titleid=`660379` id=`IaGGQ8ZAR6y26mLkCVke7A` mediaid=`6464744544706742bec2038439a405eb3672576d`  
-_The New Guy is secretly going out with a 45 year old man. Skillet is shocked when he finally meets him. The man has a ring and is ready to propose marraige to the New Guy.  Mouse Fitzgerald convinces the New Guy to break off the relationship._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_019_pt2-04.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/12oz_cc_019_pt2-04.jpg" height="144px" /></a>
-### 2069543
-**American Dad S12E12 - Bazooka Steve**  
-TV-14 🔒 21:13  
+2003422 Bob's Burgers: 1  
+680051 Delocated: 1  
+2007823 Infomercials: 1  
+2387380 Lupin the 3rd Part 6: 1  
+2356951 Made In Abyss: 1  
+### 2003525
+**Bob's Burgers S03E14 - Lindapendent Woman**  
+TV-14 🔒 21:14  
 ⌛ August 14, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/bazooka-steve  
-seriesid=`581006` titleid=`2069543` id=`AitmXh48RkeeOF5Mpxu47w` mediaid=`271f0089000790af1901e1dcf22dac7b18ea1dee`  
-_Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg" height="144px" /></a>
-### 2413271
-**Ballmastrz: 9009 S02E11 - Ballmastrz: Rubicon**  
-TV-14-DLV 🔒 22:23  
-⌛ November 27, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/ballmastrz-9009/ballmastrz-rubicon  
-seriesid=`2137894` titleid=`2413271` id=`AYZbjYsyuLQD-MTtYgNC` mediaid=`a72cbb638868e833bb7837c9aa5d1efd50aac63a`  
-_When secrets from Crayzar's past threaten the future of the planet, will he grow some balls and unite 'Team Earth' or add humanity to the intergalactic endangered species list?_  
-<a href="https://media.cdn.adultswim.com/uploads/20230301/thumbnails/2_23311756524-Rubicontiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230301/thumbnails/2_23311756524-Rubicontiny.png" height="144px" /></a>
-### 2137898
-**Ballmastrz: 9009 S01E05 - Breathe Deep to Win! Teamwork Cuts Through the Foul Odor of Obsession!**  
-TV-14-L 🔓 11:16  
+https://www.adultswim.com/videos/bobs-burgers/lindapendent-woman  
+seriesid=`2003422` titleid=`2003525` id=`kvkEWCJ7Qz2vYco5MnETFg` mediaid=`6f9ce5e989b949993cda0bd62eaec7a34d40d6c5`  
+_Linda thinks Bob doesn't appreciate her and quits the restaurant to work at a grocery store. In her absence, Bob tries - and fails - to run the place on his own and the kids are stuck in the middle of the marital mayhem. Meanwhile, things get romantic for Tina when she meets her potential soul mate while restocking the milk fridge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277452448210.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277452448210.jpg" height="144px" /></a>
+### 811362
+**Delocated S02E04 - Mixer**  
+TV-14-L 🔓 21:33  
 ⌛ September 11, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/ballmastrz-9009/breathe-deep-to-win-teamwork-cuts-through-the-foul-odor-of-obsession  
-seriesid=`2137894` titleid=`2137898` id=`AWLVfa4RTdxzjxdCldaU` mediaid=`18318a08f4379a32ea2a303725ab49275abac887`  
-_When a stinky stalker torments The Leptons, they enlist the help of a former foe._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240001959542.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240001959542.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/delocated/mixer  
+seriesid=`680051` titleid=`811362` id=`IltLSB7mRK2j8GgYTWKTiw` mediaid=`67189a19060d9025b8846c51bcd272bc40f2a2de`  
+_"Jon" enjoys a weekend convention for members of the witness protection program. Sergei and Yvgeny bond._  
+<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033143663-delocated_204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033143663-delocated_204.jpg" height="144px" /></a>
+### 2187508
+**Infomercials S08E04 - Flayaway**  
+TV-MA-LV 🔓 11:06  
+⌛ September 4, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/infomercials/flayaway  
+seriesid=`2007823` titleid=`2187508` id=`AWeFAhMFAsbXwNj3wAaC` mediaid=`c2232994d8e771ce0fcbdd4af18f3d6cd042930a`  
+_Want to become hotter? Sarah Squirm presents a revolutionary new cosmetic procedure that will leave you breathless, and ga-ga-ga-gorgeous!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg" height="144px" /></a>
+### 2387394
+**Lupin the 3rd Part 6 S01E13 - An Invitation From the Past**  
+TV-14-V 🔒 21:33  
+⌛ October 2, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/lupin-the-3rd-part-6/an-invitation-from-the-past  
+seriesid=`2387380` titleid=`2387394` id=`AYIdWoHS3sQvipyea9gH` mediaid=`0915e11d67fb7410b79cee931dbbb5e5b17e5720`  
+_An auction of rare items draws Lupin's notice, but he isn't the only one with eyes on the prize. Is this newcomer a formidable stranger, or are they connected to Lupin's past?_  
+<a href="https://media.cdn.adultswim.com/uploads/20220721/thumbnails/2_22721959541-LupinThe3rd_Part6_613_AnInvitationFromThePast.png"><img src="https://media.cdn.adultswim.com/uploads/20220721/thumbnails/2_22721959541-LupinThe3rd_Part6_613_AnInvitationFromThePast.png" height="144px" /></a>
+### 2413211
+**Made In Abyss S02E09 - The Return**  
+TV-MA 🔒 23:03  
+⌛ October 16, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/made-in-abyss/the-return  
+seriesid=`2356951` titleid=`2413211` id=`AYXMTOkBuLQD-MTtYfqP` mediaid=`136855d872c5b0c01043c2e868fced921c13a5f0`  
+_Faputa can help Reg save Nanachi, but everything has a price. In exchange, Reg must help her enter the village._  
+<a href="https://media.cdn.adultswim.com/uploads/20230121/thumbnails/2_23121144180-madeinabyss022Still003tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230121/thumbnails/2_23121144180-madeinabyss022Still003tiny.png" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 1  
-618253 12 oz. Mouse: 1  
-### 2046306
-**American Dad S11E22 - Standard Deviation**  
-TV-14-DLV 🔒 21:13  
+2003422 Bob's Burgers: 1  
+2007823 Infomercials: 1  
+2356951 Made In Abyss: 1  
+2387380 Lupin the 3rd Part 6: 1  
+608360 Robot Chicken: 1  
+680051 Delocated: 1  
+### 2003515
+**Bob's Burgers S03E04 - Mutiny on the Windbreaker**  
+TV-PG 🔒 21:30  
 ⌛ August 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/standard-deviation  
-seriesid=`581006` titleid=`2046306` id=`auZtRXZYRliIhZg-c2XmGA` mediaid=`814e89443873c7256fdd4b29cdd290398b690033`  
-_In order to avoid being sent on a suicide mission, Stan learns how to become a DJ to beat Bullock in a DJ Battle. Jeff takes up drinking psychedelic teas and Roger helps him build an imaginary musical instrument._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg" height="144px" /></a>
-### 651319
-**12 oz. Mouse S02E02 - Surgery Circus**  
-TV-14-LV 🔒 11:29  
+https://www.adultswim.com/videos/bobs-burgers/mutiny-on-the-windbreaker  
+seriesid=`2003422` titleid=`2003515` id=`xtqPT4FZRSurHPCTuRq7sg` mediaid=`fefdb409b44127d638c4a036074b87355d9e2de4`  
+_When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg" height="144px" /></a>
+### 2086421
+**Infomercials S06E06 - Mulchtown**  
+TV-14-V 🔒 11:14  
 ⌛ August 7, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/12-oz-mouse/surgery-circus  
-seriesid=`618253` titleid=`651319` id=`wrLmM1iRTS6LtPqHY2anLA` mediaid=`4a6330d1cb1ee73b898f6028b512116aae5bf34a`  
-_A powerful city official visits the housing projects after Skillet writes a scathing letter exposing the decrepit conditions in the ghetto.  Rectangular Businessman is furious with his son, the Fascist Midget._  
-<a href="https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220120252-12oz_009_BIM_9381885.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200220/thumbnails/2_20220120252-12oz_009_BIM_9381885.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/infomercials/mulchtown  
+seriesid=`2007823` titleid=`2086421` id=`AXRKLparSeFB2d0c38uH` mediaid=`ba6162d15b49f24577364ac0c155cbbac58a8fff`  
+_Three stories from Mulchtown: a man has frog problems; snacks are found; police arrest a worm._  
+<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921510578-infomercials_mulchtown_dup_060216.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921510578-infomercials_mulchtown_dup_060216.jpg" height="144px" /></a>
+### 2413213
+**Made In Abyss S02E11 - Value**  
+TV-MA-V 🔒 22:00  
+⌛ August 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/made-in-abyss/value  
+seriesid=`2356951` titleid=`2413213` id=`AYYN-FBu4k01GlbfzrYU` mediaid=`3dee2dae25073cd7f33410cb57f7ce49d49440e0`  
+_The village's membrane has been breached, and through the gap floods chaos itself. But as attackers enter from without, aid comes from within._  
+<a href="https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_2324204957-MadeInAbyss24211Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230204/thumbnails/2_2324204957-MadeInAbyss24211Still001tiny.png" height="144px" /></a>
+### 2387384
+**Lupin the 3rd Part 6 S01E03 - Adventure Along the (Bogus) Transcontinental Railroad**  
+TV-14 🔓 21:28  
+⌛ August 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/lupin-the-3rd-part-6/adventure-along-the-bogus-transcontinental-railroad  
+seriesid=`2387380` titleid=`2387384` id=`AYCGRn-h208s7zyYUMzU` mediaid=`5b599f10d53b7a5f00cf13d08388547a5105dfa8`  
+_Lupin's after a historic railway ticket in the possession of Duke Marquis. It'll take teamwork to bring home the prize, but a certain butler wants to get in the way._  
+<a href="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521536426-LupinThe3rd_Part6_003_AdventureAlongTheBogusTranscontinentalRailroad.png"><img src="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521536426-LupinThe3rd_Part6_003_AdventureAlongTheBogusTranscontinentalRailroad.png" height="144px" /></a>
+### 612676
+**Robot Chicken S01E14 - Joint Point**  
+TV-MA 🔓 11:53  
+⌛ August 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/joint-point  
+seriesid=`608360` titleid=`612676` id=`kGnQdXlaSKeln9GfpOaSzA` mediaid=`6fd035902a5e951a0ccd7d4252c3db4a764fc3d3`  
+_Sailor Moon encounters a bone-chilling villain. A nerd wins a date with famous actress Scarlett Johansson._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216172-robotchicken_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216172-robotchicken_017.jpg" height="144px" /></a>
+### 680052
+**Delocated S01E?? - Pilot**  
+TV-14-DL 🔒 11:18  
+⌛ August 7, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/delocated/pilot  
+seriesid=`680051` titleid=`680052` id=`42r3BLmcRWao9By8XCekTw` mediaid=`f45349eca43105c584244f6ff7c1f6e10153c95c`  
+_The story of a family in the witness protection program who have been given their own reality show.  Moved to New York city from the small town the government placed them in, they wear ski masks at all times to protect their identities, trying to live their anonymous lives on camera while attempting to avoid being murdered by the Russian mob._  
+<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033142641-delocated_100.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033142641-delocated_100.jpg" height="144px" /></a>

@@ -1,56 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1446580860,
-        "auth_expiration_date": 1691467140,
-        "tms_id": "EP011016070001",
-        "rating": 5.9581939799331,
-        "description": "The story of a family in the witness protection program who have been given their own reality show.  Moved to New York city from the small town the government placed them in, they wear ski masks at all times to protect their identities, trying to live their anonymous lives on camera while attempting to avoid being murdered by the Russian mob.",
-        "title_suggest": {
-            "input": [
-                "Pilot"
-            ]
-        },
-        "type": "episode",
-        "title": "Pilot",
-        "expiration_date": 1688443140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
-        "duration": 678.9009009,
-        "episode_number": "0",
-        "original_air_date": 1207024200,
-        "clip_order": null,
-        "auth_launch_date": 1688443200,
-        "modified": 1688589074,
-        "media_id": "f45349eca43105c584244f6ff7c1f6e10153c95c",
-        "airing_id": "RADS1006302300006270",
-        "id": "42r3BLmcRWao9By8XCekTw",
-        "slug": "pilot",
-        "views": 71150,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_2033142641-delocated_100.jpg",
-        "created": 1402945463,
-        "title_id": "680052",
-        "tv_rating": "tv-14-dl",
-        "season_number": "1",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1688589074,
-        "tags": [],
-        "rating_count": 1196,
-        "collection_title": "Delocated",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1685419200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033142641-delocated_100.jpg",
-        "cma_id": "680052"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1444574100,
         "auth_expiration_date": 1677560340,
@@ -108,6 +57,63 @@
         "launch_date": 1689652800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033143501-delocated_201.jpg",
         "cma_id": "1381560"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1444573980,
+        "auth_expiration_date": 1679371140,
+        "tms_id": "EP011016070011",
+        "rating": 7.798623,
+        "description": "\"Jon\" enjoys a weekend convention for members of the witness protection program. Sergei and Yvgeny bond.",
+        "title_suggest": {
+            "input": [
+                "Mixer"
+            ]
+        },
+        "type": "episode",
+        "title": "Mixer",
+        "expiration_date": 1694491140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "yVSbMrrGTsS8Be1s0lKVOw",
+        "duration": 1293.0667334,
+        "episode_number": "4",
+        "original_air_date": 1284091200,
+        "clip_order": null,
+        "auth_launch_date": 1676350800,
+        "modified": 1691261626,
+        "media_id": "67189a19060d9025b8846c51bcd272bc40f2a2de",
+        "airing_id": "RADS1008032300013500",
+        "id": "IltLSB7mRK2j8GgYTWKTiw",
+        "slug": "mixer",
+        "views": 248597,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_2033143663-delocated_204.jpg",
+        "created": 1402945463,
+        "title_id": "811362",
+        "season_number": "2",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691261626,
+        "tags": [
+            "Delocated",
+            "Jon Glaser",
+            "Ski Mask",
+            "Witness Protection Program",
+            "Mixer"
+        ],
+        "rating_count": 581,
+        "collection_title": "Delocated",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691467200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033143663-delocated_204.jpg",
+        "cma_id": "1394345"
     },
     {
         "auth": false,
@@ -220,7 +226,7 @@
         "cma_id": "751592"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446581160,
         "auth_expiration_date": 1694491140,
         "tms_id": "EP011016070006",
