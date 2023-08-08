@@ -362,6 +362,56 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1549294200,
+        "auth_expiration_date": 1690516740,
+        "tms_id": "EP031428790002",
+        "description": "A mad cannibal is tearing scalps from the island's skulls. And deep-frying them. And serving them as delicious crudit\u00e9s. He. Must. Be. Stopped.",
+        "title_suggest": {
+            "input": [
+                "The Scalp Collector",
+                "Scalp Collector",
+                "Collector"
+            ]
+        },
+        "title": "The Scalp Collector",
+        "type": "episode",
+        "expiration_date": 2085368400,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWg5dZFTHl5gR6828xwU",
+        "duration": 677.29,
+        "episode_number": "2",
+        "original_air_date": 1549084500,
+        "auth_launch_date": 1687492800,
+        "clip_order": null,
+        "airing_id": "RADS1002151900068226",
+        "media_id": "841b11733a0ae7cc2665ed45b609215164d2fc8f",
+        "modified": 1691535204,
+        "slug": "the-scalp-collector",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154895679255920.jpg",
+        "created": 1548902289,
+        "title_id": "2184451",
+        "season_number": "1",
+        "tv_rating": "tv-ma-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691535204,
+        "tags": [],
+        "collection_title": "Tropical Cop Tales",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1550910600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154895679255920.jpg",
+        "id": "AWihxVDRHl5gR6828yMB",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1550503800,
         "auth_expiration_date": 1692935940,
         "tms_id": "EP031428790006",

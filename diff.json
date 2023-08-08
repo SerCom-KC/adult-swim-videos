@@ -1,7 +1,6 @@
 {
-    "updated": 1691521154,
-    "added": [],
-    "removed": [
+    "updated": 1691535314,
+    "added": [
         {
             "ott_launch_date": 1549294200,
             "auth_expiration_date": 1690516740,
@@ -32,7 +31,7 @@
             "clip_order": null,
             "airing_id": "RADS1002151900068226",
             "media_id": "841b11733a0ae7cc2665ed45b609215164d2fc8f",
-            "modified": 1687809191,
+            "modified": 1691535204,
             "slug": "the-scalp-collector",
             "exclude_from_search": false,
             "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154895679255920.jpg",
@@ -42,7 +41,7 @@
             "tv_rating": "tv-ma-l",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1687809191,
+            "published": 1691535204,
             "tags": [],
             "collection_title": "Tropical Cop Tales",
             "disable_ads": false,
@@ -55,5 +54,6 @@
             "collection_title_id": "2140484",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
