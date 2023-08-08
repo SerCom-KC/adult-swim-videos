@@ -137,6 +137,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1689494340,
+        "tms_id": "EP047257420004",
+        "description": "The morse code signal reading \"WHY\" saturates the airwaves too much for Ukyo to pinpoint a direction, so the Kingdom of Science works on a way to visualize the signal.",
+        "title_suggest": {
+            "input": [
+                "Eyes of Science",
+                "of Science",
+                "Science"
+            ]
+        },
+        "title": "Eyes of Science",
+        "type": "episode",
+        "expiration_date": 1691913540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1345.3774,
+        "episode_number": "4",
+        "original_air_date": 1687667400,
+        "auth_launch_date": 1687680000,
+        "clip_order": null,
+        "airing_id": "RADS1008072300013685",
+        "media_id": "5130575b363647464226c796909417cb21ffc4db",
+        "modified": 1691446707,
+        "slug": "eyes-of-science",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/1_23751029265-DrStoneEyesofScience.png",
+        "created": 1687271574,
+        "title_id": "2430541",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dl",
+        "published": 1691446707,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691481600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751029265-DrStoneEyesofScience.png",
+        "id": "AYjZOQtd2rZC6NyF6191",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1690705740,
         "tms_id": "EP047257420005",
         "description": "Kaseki's efforts to build the science vessel Perseus hit a roadblock when he realizes that it's impossible to get all the parts to fit in practice.",
