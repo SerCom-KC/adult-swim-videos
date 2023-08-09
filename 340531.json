@@ -1,6 +1,59 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1451683320,
+        "auth_expiration_date": 1690948740,
+        "tms_id": "EP004625740008",
+        "rating": 7.9032245,
+        "description": "Zorak introduces his new friend Mobab, who immediately starts hitting on Mom, offering to take her on a trip. Because Mom wants to make Dad jealous, she agrees. Instead, Mobab kidnaps her and traps her in a cocoon. Dad and Brak must come up with a plan to free her.",
+        "title_suggest": {
+            "input": [
+                "Mobab"
+            ]
+        },
+        "type": "episode",
+        "title": "Mobab",
+        "expiration_date": 1694577540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
+        "duration": 681.4337671,
+        "episode_number": "6",
+        "original_air_date": 1003719600,
+        "clip_order": null,
+        "auth_launch_date": 1687924800,
+        "modified": 1691266711,
+        "airing_id": "RADS1008032300013594",
+        "media_id": "da27abd045babc312681711ab61653c9f2a50596",
+        "id": "8LCtE-rFRpiHB20HYp5jYA",
+        "slug": "mobab",
+        "views": 109635,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_2032142518-brak_2106.jpg",
+        "created": 1402945478,
+        "title_id": "345422",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691266711,
+        "tags": [
+            "brak show episode 6 mobab friend mom kidnap"
+        ],
+        "rating_count": 310,
+        "collection_title": "The Brak Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691553600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142518-brak_2106.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451659020,
         "auth_expiration_date": 1692158340,
         "tms_id": "EP004625740009",

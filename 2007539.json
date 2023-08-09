@@ -50,6 +50,57 @@
         "cma_id": "2085309"
     },
     {
+        "ott_launch_date": 1520263860,
+        "auth": false,
+        "auth_expiration_date": 1678852740,
+        "tms_id": "EP018514630027",
+        "description": "When Mr. Goodman and his co-workers are kidnapped from Telemarketing Corp., he winds up the property of a farm owner who has a vendetta against telemarketers.",
+        "title_suggest": {
+            "input": [
+                "Telemarketers Are the Devil",
+                "Are the Devil",
+                "the Devil",
+                "Devil"
+            ]
+        },
+        "expiration_date": 1694577540,
+        "type": "episode",
+        "title": "Telemarketers Are the Devil",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 677.17,
+        "episode_number": "4",
+        "original_air_date": 1520226900,
+        "auth_launch_date": 1675832400,
+        "clip_order": null,
+        "media_id": "57268369f6dd44cbe35bd00dc73ac5542ff1ea3d",
+        "modified": 1691266713,
+        "airing_id": "RADS1008032300013598",
+        "id": "AWHToDZU0KIGIdXCKvmx",
+        "slug": "telemarketers-are-the-devil",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15196739434518.jpg",
+        "created": 1519673947,
+        "season_number": "3",
+        "title_id": "2120614",
+        "tv_rating": "tv-ma-v",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691266713,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691553600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15196739434518.jpg"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "description": "",
@@ -141,56 +192,6 @@
         "auth": false
     },
     {
-        "auth": true,
-        "ott_launch_date": 1462802400,
-        "auth_expiration_date": 1691553540,
-        "tms_id": "EP018514630015",
-        "description": "With a metal thief loose in Old Town, Tommy and Mr. Pickles seek the help of an Old Super Hero, who they come to find has a strange addiction.",
-        "title_suggest": {
-            "input": [
-                "Sh\u00f6venpucker"
-            ]
-        },
-        "expiration_date": 1688529540,
-        "title": "Sh\u00f6venpucker",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 677,
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "episode_number": "4",
-        "original_air_date": 1462766400,
-        "clip_order": null,
-        "auth_launch_date": 1688529600,
-        "modified": 1688533235,
-        "media_id": "96a3c4f5061ec07c257adc768787810e1e17ecd3",
-        "airing_id": "RADS1006302300006345",
-        "id": "CCNhZsndTY2QN9NWHaW0cg",
-        "slug": "shovenpucker",
-        "views": 56145,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121121414-mrpickles_205_dup-20160419.jpg",
-        "created": 1460403303,
-        "season_number": "2",
-        "title_id": "2085307",
-        "tv_rating": "tv-ma-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1688533235,
-        "first_published": 1462709418,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1685505600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121121414-mrpickles_205_dup-20160419.jpg",
-        "cma_id": "2085307"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -243,7 +244,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1466433000,
         "auth_expiration_date": 1694577540,
         "tms_id": "EP018514630022",

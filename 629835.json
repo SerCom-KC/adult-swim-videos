@@ -123,62 +123,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1691553540,
-        "tms_id": "EP002070020064",
-        "rating": 7.589147,
-        "description": "Hank, Bobby and the others must cope with the aftermath of Peggy's skydiving accident and the birth of Didi's baby.",
-        "title_suggest": {
-            "input": [
-                "Peggy Hill: the Decline and Fall (2)",
-                "Hill: the Decline and Fall (2)",
-                "the Decline and Fall (2)",
-                "Decline and Fall (2)",
-                "and Fall (2)",
-                "Fall (2)",
-                "(2)"
-            ]
-        },
-        "type": "episode",
-        "title": "Peggy Hill: the Decline and Fall (2)",
-        "expiration_date": 1502629199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1388.1534,
-        "episode_number": "1",
-        "original_air_date": 1240279200,
-        "clip_order": null,
-        "auth_launch_date": 1690948800,
-        "modified": 1691091221,
-        "media_id": "280456f335046e6ff95388a652347ab365538533",
-        "airing_id": "RADS1007312300012375",
-        "id": "WKxkU1FwTtCDpRXEroqhYw",
-        "slug": "peggy-hill-the-decline-and-fall-2",
-        "views": 62568,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15180330250882.jpg",
-        "created": 1402945468,
-        "title_id": "731281",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1691091221,
-        "tags": [
-            "king of the hill episode koth 324 peggy decline and fall baby didi cotton accident crippled disabled wheelchair legs cast"
-        ],
-        "rating_count": 129,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502024400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180330250882.jpg",
-        "cma_id": "1446127"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1691726340,
         "tms_id": "EP002070020066",
         "rating": 8.630928,
@@ -289,5 +233,70 @@
         "launch_date": 1502109000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803312714312.jpg",
         "cma_id": "1446587"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1692158340,
+        "tms_id": "EP002070020069",
+        "rating": 7.845394,
+        "description": "After winning an Alamo beer contest, Hank travels to the Superdome for a chance to win a large cash prize; Bill visits his lusty relatives at a Louisiana chateau.",
+        "title_suggest": {
+            "input": [
+                "A Beer Can Named Desire",
+                "Beer Can Named Desire",
+                "Can Named Desire",
+                "Named Desire",
+                "Desire"
+            ]
+        },
+        "type": "episode",
+        "title": "A Beer Can Named Desire",
+        "expiration_date": 1502940599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1398.1301,
+        "episode_number": "6",
+        "original_air_date": 1240453800,
+        "auth_launch_date": 1691553600,
+        "clip_order": null,
+        "modified": 1691271215,
+        "media_id": "add2d50b282f52e1ba5c29ec242132c74874b99f",
+        "airing_id": "RADS1008032300013512",
+        "id": "mO4xGizrSQqzuqi8l96FXg",
+        "slug": "a-beer-can-named-desire",
+        "views": 177876,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15179353944609.jpg",
+        "created": 1402945468,
+        "title_id": "731286",
+        "season_number": "4",
+        "tv_rating": "tv-pg-d",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691271215,
+        "tags": [
+            "a beer can named desire",
+            " alamo",
+            " beer",
+            " contest",
+            " hank",
+            " superdome",
+            " cash",
+            " prize",
+            " bill",
+            " relatives",
+            " louisiana",
+            " chateau"
+        ],
+        "rating_count": 304,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1502335800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15179353944609.jpg",
+        "cma_id": "1449696"
     }
 ]

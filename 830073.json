@@ -203,6 +203,56 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": 1449259800,
+        "auth_expiration_date": 1715745540,
+        "tms_id": "EP014135410018",
+        "description": "From here to there, but never back again.",
+        "title_suggest": {
+            "input": [
+                "Transportation"
+            ]
+        },
+        "title": "Transportation",
+        "type": "episode",
+        "expiration_date": 1665547140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 689.5338672,
+        "episode_number": "4",
+        "original_air_date": 1420534800,
+        "clip_order": null,
+        "auth_launch_date": 1691553600,
+        "modified": 1691262215,
+        "airing_id": "RADS1008032300013545",
+        "media_id": "8443787f96dd9f41648b89c0c139c4e924bc0519",
+        "id": "ATCl7VO6TzeSxHlGmjqHSQ",
+        "slug": "transportation",
+        "views": 12,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121337450-offtheair_404_dup.jpg",
+        "created": 1420557646,
+        "season_number": "4",
+        "title_id": "2032790",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691262215,
+        "first_published": 1420557646,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1664942400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121337450-offtheair_404_dup.jpg",
+        "cma_id": ""
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1693367940,
@@ -1121,7 +1171,7 @@
         "launch_date": 1691553600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220707/thumbnails/2_227793267-OffTheAir_1201_Nonsense.png",
         "id": "AYG7waAL208s7zyYUNUV",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1692158340,
@@ -1165,7 +1215,7 @@
         "launch_date": 1689739200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220909/thumbnails/2_2299111163-OffTheAir_1202_Bugs.png",
         "id": "AYMizhn4IAxeiVkFtLRr",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1688529540,
@@ -1212,7 +1262,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259800,
         "auth_expiration_date": 1691553540,
         "tms_id": "EP014135410021",
