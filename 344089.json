@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1694577540,
         "tms_id": "EP002989350047",
@@ -213,62 +213,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1691553540,
-        "tms_id": "EP002989350045",
-        "rating": 8.687079,
-        "description": "Brendon begins writing reviews for a movie website called movie-winner-or-weiner.com.  Jason and Melissa are excited because Brendon gets passes for all of them to see the premiere of \"All That Violence\".  Meanwhile, Coach McGuirk wreaks havoc because he's finally got a friend \"on the inside\".",
-        "title_suggest": {
-            "input": [
-                "Everyone's Entitled to My Opinion",
-                "Entitled to My Opinion",
-                "to My Opinion",
-                "My Opinion",
-                "Opinion"
-            ]
-        },
-        "type": "episode",
-        "title": "Everyone's Entitled to My Opinion",
-        "expiration_date": 1688529540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1344.6006006,
-        "episode_number": "1",
-        "original_air_date": 1068537600,
-        "clip_order": null,
-        "auth_launch_date": 1688529600,
-        "modified": 1688540503,
-        "media_id": "6a47ae549f5b2c7b7414d3a86cfba991a9857695",
-        "airing_id": "RADS1006302300006367",
-        "id": "fhfvso9iTi-4J1k9KUlz7Q",
-        "slug": "everyones-entitled-to-my-opinion",
-        "views": 453187,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351621174-hmovies_040.jpg",
-        "created": 1402945467,
-        "title_id": "446850",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1688540503,
-        "tags": [
-            "home movies episode 40 brendon jason melissa everyones entitled to my opinion review movie winner weiner"
-        ],
-        "rating_count": 1192,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1685505600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351621174-hmovies_040.jpg",
-        "cma_id": "988854"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1692158340,
         "tms_id": "EP002989350055",
         "rating": 9.109473,
@@ -380,6 +324,67 @@
         "launch_date": 1690948800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351627517-hmovies_047.jpg",
         "cma_id": "991998"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1666151940,
+        "tms_id": "EP002989350056",
+        "rating": 8.830478,
+        "description": "Laid up with a leg injury, Brendon spies on his new neighbor, Raymond Burley, a man who might possibly be involved in some questionably suspicious behavior. Meanwhile, Coach McGuirk reads an important pamphlet and decides to attend bartending school.",
+        "title_suggest": {
+            "input": [
+                "Definite Possible Murder",
+                "Possible Murder",
+                "Murder"
+            ]
+        },
+        "type": "episode",
+        "title": "Definite Possible Murder",
+        "expiration_date": 1694577540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1344.0667334,
+        "episode_number": "11",
+        "original_air_date": 1079928000,
+        "clip_order": null,
+        "auth_launch_date": 1663128000,
+        "modified": 1691265833,
+        "media_id": "717195782250070b8d6b08b2b86c7f200f6ad08e",
+        "airing_id": "RADS1008032300013577",
+        "id": "x4L2nn0DRDCFJ62jFWuNKQ",
+        "slug": "definite-possible-murder",
+        "views": 320543,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351628547-hmovies_050.jpg",
+        "created": 1402945467,
+        "title_id": "539557",
+        "season_number": "4",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691265833,
+        "tags": [
+            "home movies",
+            "episode 50",
+            "definite possible murder",
+            "leg",
+            "injury",
+            "neighbor",
+            "bartending",
+            "school"
+        ],
+        "rating_count": 525,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691553600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351628547-hmovies_050.jpg",
+        "cma_id": "992203"
     },
     {
         "auth": true,
