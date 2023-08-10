@@ -610,6 +610,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1690257540,
+        "tms_id": "EP034548420014",
+        "description": "Debra, Debra, and Debra come to terms with their own mortality as a very rude meteor hurtles toward Lemoncurd.",
+        "title_suggest": {
+            "input": [
+                "The Meteor",
+                "Meteor"
+            ]
+        },
+        "title": "The Meteor",
+        "expiration_date": 1693281540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXA_dLX33HMJfT8do8j9",
+        "duration": 663.663,
+        "episode_number": "10",
+        "original_air_date": "1653279300",
+        "auth_launch_date": 1683604800,
+        "clip_order": null,
+        "airing_id": "RADS1008082300013798",
+        "media_id": "3097917281c73de64c3c82e4c58cd9461ee843c4",
+        "modified": 1691514547,
+        "slug": "the-meteor",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/1_225111244539-ThreeBusyDebras_210_TheMeteor.png",
+        "created": 1652287502,
+        "season_number": "2",
+        "title_id": "2323073",
+        "tv_rating": "tv-ma-s",
+        "published": 1691514547,
+        "tags": [],
+        "collection_title": "Three Busy Debras",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691640000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_225111244539-ThreeBusyDebras_210_TheMeteor.png",
+        "id": "AYC0Ano4_0O4w1rD3SL3",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1697515140,
         "tms_id": "EP034548420012",
         "description": "It was a dark and stormy night. Or was it? Find out on this week's episode of Three Busy Debras. Or will you?",
@@ -654,6 +699,53 @@
         "launch_date": 1687838400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521542342-ThreeBusyDebras_207_WhoHasDoneIt.png",
         "id": "AYCGS-40208s7zyYUMzY",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1696910340,
+        "tms_id": "EP034548420011",
+        "description": "Debra gets a hobby, and Debra and Debra really don't like that for her.",
+        "title_suggest": {
+            "input": [
+                "Operation: Seal Team Debra",
+                "Seal Team Debra",
+                "Team Debra",
+                "Debra"
+            ]
+        },
+        "title": "Operation: Seal Team Debra",
+        "expiration_date": 1690257540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXA_dLX33HMJfT8do8j9",
+        "duration": 672.038,
+        "episode_number": "5",
+        "original_air_date": "1652068800",
+        "auth_launch_date": 1691640000,
+        "clip_order": null,
+        "airing_id": "RADS1008082300013800",
+        "media_id": "0d4b58b85a756815eb4e10d439643cb44f19d908",
+        "modified": 1691516028,
+        "slug": "operation-seal-team-debra",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521541554-ThreeBusyDebras_202_OperationSealTeamDebra.png",
+        "created": 1651520526,
+        "season_number": "2",
+        "title_id": "2323065",
+        "tv_rating": "tv-14-l",
+        "published": 1691516028,
+        "tags": [],
+        "collection_title": "Three Busy Debras",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1687233600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521541554-ThreeBusyDebras_202_OperationSealTeamDebra.png",
+        "id": "AYCGS1eP208s7zyYUMzX",
         "auth": true
     }
 ]

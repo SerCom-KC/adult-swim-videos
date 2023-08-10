@@ -1,5 +1,56 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": 1446676260,
+        "auth_expiration_date": 1675832340,
+        "tms_id": "EP013120360002",
+        "rating": 8.639086,
+        "description": "The shocking murder of a local creep leads to an even more shocking discovery.",
+        "title_suggest": {
+            "input": [
+                "Creeps"
+            ]
+        },
+        "type": "episode",
+        "title": "Creeps",
+        "expiration_date": 1693367940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 675.9009009,
+        "episode_number": "2",
+        "original_air_date": 1297400400,
+        "clip_order": null,
+        "auth_launch_date": 1672808400,
+        "modified": 1691510908,
+        "media_id": "a1082105b74ed40523bf570fba4a5e2d13c80627",
+        "airing_id": "RADS1008082300013774",
+        "id": "7l8Nk0SLQJi0UERjFs6RdQ",
+        "slug": "creeps",
+        "views": 243793,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341544167-eagleheart_110_bim.jpg",
+        "created": 1402945464,
+        "title_id": "828256",
+        "season_number": "1",
+        "tv_rating": "tv-14-d",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691510908,
+        "tags": [],
+        "rating_count": 568,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691640000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341544167-eagleheart_110_bim.jpg",
+        "cma_id": "1468728"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446739020,
         "auth_expiration_date": 1692763140,
@@ -480,5 +531,56 @@
         "launch_date": 1689739200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341543532-eagleheart_107_bim.jpg",
         "cma_id": "1462916"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1446739020,
+        "auth_expiration_date": 1693367940,
+        "tms_id": "EP013120360031",
+        "rating": 7.724138,
+        "description": "Complications arise.",
+        "title_suggest": {
+            "input": [
+                "Quint"
+            ]
+        },
+        "type": "episode",
+        "title": "Quint",
+        "expiration_date": 1690343940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "DWSGZp9dQjqX-DCRMa-hDQ",
+        "duration": 676.3336113,
+        "episode_number": "7",
+        "original_air_date": 1388120400,
+        "clip_order": null,
+        "auth_launch_date": 1691640000,
+        "modified": 1691513036,
+        "media_id": "5cc5724b665ba4b926d38392326f3888c2b4a169",
+        "airing_id": "RADS1008082300013776",
+        "id": "x_fsb7I9QN624IDpSg58-Q",
+        "slug": "quint",
+        "views": 5342,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/1_21151213588-eagleheart_031_dup-20131220.jpg",
+        "created": 1402945464,
+        "title_id": "2012951",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691513036,
+        "tags": [],
+        "rating_count": 29,
+        "collection_title": "Eagleheart",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1687320000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151213588-eagleheart_031_dup-20131220.jpg",
+        "cma_id": "1443936"
     }
 ]
