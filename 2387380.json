@@ -333,6 +333,54 @@
     },
     {
         "auth_expiration_date": 1695700799,
+        "tms_id": "EP040430990013",
+        "description": "In the matter of the late Lord Faulkner's connection to the Raven, Sherlock and Lupin have eliminated the impossible. Now only the improbable truth remains.",
+        "title_suggest": {
+            "input": [
+                "The Truth and The Raven",
+                "Truth and The Raven",
+                "and The Raven",
+                "The Raven",
+                "Raven"
+            ]
+        },
+        "title": "The Truth and The Raven",
+        "type": "episode",
+        "expiration_date": 1660463940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1288.1869,
+        "episode_number": "11",
+        "original_air_date": 1657427400,
+        "auth_launch_date": 1691640000,
+        "clip_order": null,
+        "airing_id": "RADS1008082300013851",
+        "media_id": "33b52c876b37e21a2ad68da2d263b88681e8cf0b",
+        "modified": 1691517530,
+        "slug": "the-truth-and-the-raven",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761720413-LupinThe3rd_Part6_011_TheTruthAndTheRaven.png",
+        "created": 1657116881,
+        "title_id": "2387392",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "published": 1691517530,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1659254400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761720413-LupinThe3rd_Part6_011_TheTruthAndTheRaven.png",
+        "id": "AYHT3PDbIAxeiVkFtLQM",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1695700799,
         "tms_id": "EP042756160013",
         "description": "Interested parties converge on the Raven's treasure in the shadows of the London underground as the true identity of Watson's killer comes to light.",
         "title_suggest": {
