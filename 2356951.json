@@ -276,6 +276,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1696305540,
+        "tms_id": "EP041740220021",
+        "description": "What happened to the expedition? The truth is far more tragic and horrifying than anyone could have imagined.",
+        "title_suggest": {
+            "input": [
+                "The Cradle of Desire",
+                "Cradle of Desire",
+                "of Desire",
+                "Desire"
+            ]
+        },
+        "title": "The Cradle of Desire",
+        "type": "episode",
+        "expiration_date": 1676192340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZ9dFUQa40cfnRS9e",
+        "duration": 1358.2235,
+        "episode_number": "7",
+        "original_air_date": 1673155800,
+        "auth_launch_date": 1691640000,
+        "clip_order": null,
+        "airing_id": "RADS1008082300013852",
+        "media_id": "ce0ad3c382ec6f77983ceb3b0a79536a9370d403",
+        "modified": 1691518422,
+        "slug": "the-cradle-of-desire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230106/thumbnails/1_2316164336-madeinabyss020Still001tiny.png",
+        "created": 1673026738,
+        "title_id": "2413209",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "published": 1691518422,
+        "tags": [],
+        "collection_title": "Made In Abyss",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1674982800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230106/thumbnails/2_2316164336-madeinabyss020Still001tiny.png",
+        "id": "AYWIKhmguLQD-MTtYfci",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1696910340,
         "tms_id": "EP041740220022",
         "description": "They had their reasons for descending into that infernal pit. They found damnation and salvation in equal measure.",

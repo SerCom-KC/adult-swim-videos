@@ -708,56 +708,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": 1552919400,
-        "auth_expiration_date": 1691639940,
-        "tms_id": "",
-        "description": "Soo Park returns to take down Jet Jr.",
-        "title_suggest": {
-            "input": [
-                "The Black Box",
-                "Black Box",
-                "Box"
-            ]
-        },
-        "title": "The Black Box",
-        "expiration_date": 1688615940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "fXqvCbmfQGK3pmdTs7JWaw",
-        "duration": 700.04,
-        "episode_number": "8",
-        "original_air_date": 1552882500,
-        "auth_launch_date": 1688616000,
-        "clip_order": null,
-        "media_id": "fea91b986d1d6702d16391b7557f2cb77e860bc0",
-        "modified": 1690756724,
-        "airing_id": "RADS1007032300006718",
-        "slug": "the-black-box",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035153162-hotstreets_208_dup-20181214.jpg",
-        "created": 1545083281,
-        "season_number": "2",
-        "title_id": "2184503",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1690756724,
-        "tags": [],
-        "collection_title": "Hot Streets",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1685592000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035153162-hotstreets_208_dup-20181214.jpg",
-        "id": "AWe-I-HEAScUIg8XxbYI",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1553524200,
         "auth_expiration_date": 1692244740,
         "tms_id": "",
@@ -905,7 +855,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1516635060,
         "auth_expiration_date": 1694663940,
         "tms_id": "EP025439100004",
