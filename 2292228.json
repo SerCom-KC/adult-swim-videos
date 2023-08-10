@@ -418,11 +418,7 @@
     },
     {
         "auth_expiration_date": 1693454340,
-        "created": 1691416190,
         "tms_id": "EP039730910010",
-        "title_id": "2423867",
-        "season_number": "2",
-        "tv_rating": "tv-14-dls",
         "description": "As Trophy tries for viral video fame with her new butt-enhancing leggings, Baba fills in for a recently deceased morning-show DJ and Annie forms an unexpected friendship.",
         "title_suggest": {
             "input": [
@@ -430,21 +426,38 @@
                 "Frankenstein"
             ]
         },
-        "published": 1691456029,
         "title": "Radio Frankenstein",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AXun3WDrUQa40cfnRR4k",
         "duration": 1347.6462,
         "episode_number": "3",
-        "collection_title": "Teenage Euthanasia",
         "original_air_date": 1691640000,
         "auth_launch_date": 1691640000,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1008072300013629",
         "media_id": "5c1cb518b402f6aa9996f39fc088eb8b6c9048a9",
-        "modified": 1691456029,
+        "modified": 1691676001,
         "slug": "radio-frankenstein",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230810/thumbnails/1_23810959351-TeenageEuthanasia203.png",
+        "created": 1691416190,
+        "title_id": "2423867",
+        "season_number": "2",
+        "tv_rating": "tv-14-dls",
+        "published": 1691676001,
+        "tags": [],
+        "collection_title": "Teenage Euthanasia",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230810/thumbnails/2_23810959351-TeenageEuthanasia203.png",
         "id": "AYnQQt3gOz5CkuTcnwka",
         "auth": true
     }
