@@ -9585,6 +9585,60 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447348500,
+        "auth_expiration_date": 1693886340,
+        "tms_id": "EP007259620096",
+        "rating": 6.8197603,
+        "description": "Mr. T and the Foo Fighters forge an unlikely alliance.  Stretch Armstrong needs a corn syrup transplant.  A mermaid shows a surface boy the wonders of Atlantis.  A guy dates his GPS navigational system.  Learn the untold origin of Alvin and the Chipmunks! Roger Ebert and guest reviewer M. Night Shyamalan present upcoming feature films, including Schindler's List 2: Schindler's Pissed.",
+        "title_suggest": {
+            "input": [
+                "Anne Marie's Pride",
+                "Marie's Pride",
+                "Pride"
+            ]
+        },
+        "type": "episode",
+        "title": "Anne Marie's Pride",
+        "expiration_date": 1634529540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 688.027,
+        "episode_number": "19",
+        "original_air_date": 1163392200,
+        "clip_order": null,
+        "auth_launch_date": 1691726400,
+        "modified": 1691536433,
+        "airing_id": "RADS1008082300013962",
+        "media_id": "deefb2225a3bcc180896b2cd8838967abc531450",
+        "id": "W0xee162Qkq5OWTmVAMafA",
+        "slug": "anne-maries-pride",
+        "views": 612294,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411139331-robotchicken_039.jpg",
+        "created": 1402945475,
+        "title_id": "640880",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1691536433,
+        "tags": [
+            "robot chicken episode 39 anne marie's pride mr. t foo fighters stretch armstrong mermaid gps alvin chipmunks m night shyamalan"
+        ],
+        "rating_count": 3168,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1631505600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411139331-robotchicken_039.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447362180,
         "auth_expiration_date": 1704776340,
         "tms_id": "EP007259620129",

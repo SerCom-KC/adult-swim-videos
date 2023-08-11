@@ -59,6 +59,61 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1451682840,
+        "auth_expiration_date": 1699592340,
+        "tms_id": "EP000337110013",
+        "rating": 8.409951,
+        "description": "Xavier lifts homeless veterans up from the filth of the streets and into the filth of their meats.",
+        "title_suggest": {
+            "input": [
+                "Free Range Manibalism",
+                "Range Manibalism",
+                "Manibalism"
+            ]
+        },
+        "type": "episode",
+        "title": "Free Range Manibalism",
+        "expiration_date": 1690516740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+        "duration": 687.32,
+        "episode_number": "3",
+        "original_air_date": 1236917700,
+        "clip_order": null,
+        "auth_launch_date": 1691726400,
+        "modified": 1691529803,
+        "airing_id": "RADS1008082300013921",
+        "media_id": "d9e630d281944249f0c2bfa7f8cb0d3310009e0a",
+        "id": "76f1RCFNQrWQAe7EmgyGWA",
+        "slug": "free-range-manibalism",
+        "views": 96697,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_21141731163-xavier_203.jpg",
+        "created": 1402945482,
+        "title_id": "747213",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691529803,
+        "tags": [
+            "xavier renegade angel episode 13 free range manibalism homeless veterans meat restaurant"
+        ],
+        "rating_count": 422,
+        "collection_title": "Xavier: Renegade Angel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1687492800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141731163-xavier_203.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447786380,
         "auth_expiration_date": 1695959940,
         "tms_id": "EP000337110009",
@@ -164,6 +219,61 @@
         "modified_by": "ODT Listener",
         "launch_date": 1685678400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141730588-xavier_202.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451683020,
+        "auth_expiration_date": 1690516740,
+        "tms_id": "EP000337110020",
+        "rating": 8.570096,
+        "description": "When Xavier runs out of desert across which to ramble, he drowns in a sea of completion.",
+        "title_suggest": {
+            "input": [
+                "Braingea's Final Cranny",
+                "Final Cranny",
+                "Cranny"
+            ]
+        },
+        "type": "episode",
+        "title": "Braingea's Final Cranny",
+        "expiration_date": 1693540740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "vBrXr4CiTWKdCOKbkh1GHg",
+        "duration": 689.32,
+        "episode_number": "10",
+        "original_air_date": 1239941700,
+        "clip_order": null,
+        "auth_launch_date": 1681444800,
+        "modified": 1691529803,
+        "airing_id": "RADS1008082300013917",
+        "media_id": "249071a4ea362194a235ac5181bf667f35a09de3",
+        "id": "C-TEcv5nStePWA22PdQ_Iw",
+        "slug": "braingeas-final-cranny",
+        "views": 113777,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/1_21141732531-xavier_210.jpg",
+        "created": 1402945482,
+        "title_id": "747220",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691529803,
+        "tags": [
+            "xavier renegade angel episode 20 braingeas final cranny season finale mother hospital crazy mental ward"
+        ],
+        "rating_count": 428,
+        "collection_title": "Xavier: Renegade Angel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691726400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141732531-xavier_210.jpg",
         "cma_id": ""
     },
     {
@@ -488,7 +598,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451682960,
         "auth_expiration_date": 1700801940,
         "tms_id": "EP000337110017",
@@ -864,7 +974,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447786200,
         "auth_expiration_date": 1691726340,
         "tms_id": "EP000337110002",
