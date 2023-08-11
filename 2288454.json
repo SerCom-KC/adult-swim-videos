@@ -244,7 +244,7 @@
         "launch_date": 1691726400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_237271136514-MAWS104.png",
         "id": "AYlzoe4E2rZC6NyF61-D",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1692935940,
@@ -292,6 +292,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782138-MAWS106.png",
         "id": "AYmqaR6COz5CkuTcnwbI",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1693540740,
+        "tms_id": "",
+        "description": "Clark tries to plan a normal date without any Superman problems - but gets interrupted when Mr. Mxyzptlk sweeps him, Jimmy, and Lois into a high-stakes, multiverse-hoping chase!",
+        "title_suggest": {
+            "input": [
+                "Kiss Kiss Fall In Portal",
+                "Kiss Fall In Portal",
+                "Fall In Portal",
+                "In Portal",
+                "Portal"
+            ]
+        },
+        "title": "Kiss Kiss Fall In Portal",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1355.888,
+        "episode_number": "7",
+        "original_air_date": "1691726400",
+        "auth_launch_date": 1691726400,
+        "clip_order": null,
+        "airing_id": "RADS1008082300013887",
+        "media_id": "2525267b493d87cf624da16fadff72f15696ca8f",
+        "modified": 1691524435,
+        "slug": "kiss-kiss-fall-in-portal",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_2387822115-AS_MAWS_07_KissKissFallInPortal-5.jpg",
+        "created": 1691410949,
+        "season_number": "1",
+        "title_id": "2288461",
+        "tv_rating": "tv-pg",
+        "published": 1691524435,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387822115-AS_MAWS_07_KissKissFallInPortal-5.jpg",
+        "id": "AYnP8uWL2rZC6NyF61-Y",
         "auth": true
     }
 ]

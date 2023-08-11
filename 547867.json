@@ -55,6 +55,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451682780,
+        "auth_expiration_date": 1679630340,
+        "tms_id": "EP007008200015",
+        "rating": 8.715221,
+        "description": "Tom makes a new friend on the Internet.",
+        "title_suggest": {
+            "input": [
+                "Friendship Alliance",
+                "Alliance"
+            ]
+        },
+        "type": "episode",
+        "title": "Friendship Alliance",
+        "expiration_date": 1694750340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 673.64,
+        "episode_number": "17",
+        "original_air_date": 1154925000,
+        "clip_order": null,
+        "auth_launch_date": 1676610000,
+        "modified": 1691533719,
+        "airing_id": "RADS1008082300013947",
+        "media_id": "ba01040b9b123ffe262a4b0c6fa4877247fe3e31",
+        "id": "AiL8W6G6TD2UJ4S3Tm38pQ",
+        "slug": "friendship-alliance",
+        "views": 118222,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117958366-tgttm_030.jpg",
+        "created": 1402945482,
+        "title_id": "639413",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1691533719,
+        "tags": [
+            "tom goes to the mayor episode 30 friendship alliance internet chat"
+        ],
+        "rating_count": 611,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691726400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958366-tgttm_030.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1451682240,
         "auth_expiration_date": 1694750340,
         "tms_id": "EP007008200018",
@@ -208,6 +261,114 @@
         "modified_by": "ODT Listener",
         "launch_date": 1689307200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1451682720,
+        "auth_expiration_date": 1693540740,
+        "tms_id": "EP007008200017",
+        "rating": 8.405632,
+        "description": "Tom and The Mayor invent a sea serpent to attract tourism.",
+        "title_suggest": {
+            "input": [
+                "Jeffy the Sea Serpent",
+                "the Sea Serpent",
+                "Sea Serpent",
+                "Serpent"
+            ]
+        },
+        "type": "episode",
+        "title": "Jeffy the Sea Serpent",
+        "expiration_date": 1690516740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 698.26,
+        "episode_number": "14",
+        "original_air_date": 1150691400,
+        "clip_order": null,
+        "auth_launch_date": 1691726400,
+        "modified": 1691535509,
+        "airing_id": "RADS1008082300013951",
+        "media_id": "d001cdcea3ff5a0ce59a6d29d9870d7ed8a0a7b4",
+        "id": "jI8rt9fjSa-cRwOvi5wAMw",
+        "slug": "jeffy-the-sea-serpent",
+        "views": 103412,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117957474-tgttm_027.jpg",
+        "created": 1402945482,
+        "title_id": "639410",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1691535509,
+        "tags": [
+            "tom goes to the mayor episode 27 jeffy sea serpent tourism tourists creature"
+        ],
+        "rating_count": 355,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1687492800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117957474-tgttm_027.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451682180,
+        "auth_expiration_date": 1679025540,
+        "tms_id": "EP007008200022",
+        "rating": 7.919643,
+        "description": "Tom stoops to new lows to get invited to Gibbons' Surprise Party.",
+        "title_suggest": {
+            "input": [
+                "Surprise Party",
+                "Party"
+            ]
+        },
+        "type": "episode",
+        "title": "Surprise Party",
+        "expiration_date": 1693540740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 694.19,
+        "episode_number": "2",
+        "original_air_date": 1153715400,
+        "clip_order": null,
+        "auth_launch_date": 1676005200,
+        "modified": 1691534603,
+        "airing_id": "RADS1008082300013945",
+        "media_id": "3587d774d47c229d6133fe27d5f961a9b54f3dbe",
+        "id": "oeEdHdVuQAaxcG9ISlyeTg",
+        "slug": "surprise-party",
+        "views": 108567,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117953264-tgttm_015.jpg",
+        "created": 1402945482,
+        "title_id": "629806",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1691534603,
+        "tags": [
+            "tom goes to the mayor episode 15 surprise party gibbons"
+        ],
+        "rating_count": 336,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1691726400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953264-tgttm_015.jpg",
         "cma_id": ""
     }
 ]
