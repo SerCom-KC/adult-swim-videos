@@ -1,63 +1,64 @@
 {
-    "updated": 1691787567,
-    "added": [],
-    "removed": [
+    "updated": 1691788107,
+    "added": [
         {
             "auth": true,
-            "ott_launch_date": 1447778580,
+            "ott_launch_date": 1447779180,
             "auth_expiration_date": 1691899140,
-            "tms_id": "EP005604540002",
-            "rating": 8.089556,
-            "description": "The Venture family must travel to space to repair an orbiting space station that Dr. Venture's father built in the 1970s, but a mysterious space phantom could be haunting the station! Things get even more intense as Brock's presence adds heat to an already tense romantic relationship between the station's two officers.",
+            "tms_id": "EP005604540007",
+            "rating": 8.717511,
+            "description": "On a scientific expedition in the Bermuda Triangle, Doc's experimental equipment awakens and possibly enrages the submerged ghost of Major Tom, a test pilot who crashed in an experimental aircraft designed by Doc's father.  While there, the Ventures' hydrofoil is hijacked by a group of fake ghost pirates who've been stranded in the sargassum since Jesus Jones was popular.",
             "title_suggest": {
                 "input": [
-                    "Careers in Science",
-                    "in Science",
-                    "Science"
+                    "Ghosts of the Sargasso",
+                    "of the Sargasso",
+                    "the Sargasso",
+                    "Sargasso"
                 ]
             },
             "type": "episode",
-            "title": "Careers in Science",
-            "expiration_date": 1423065600,
+            "title": "Ghosts of the Sargasso",
+            "expiration_date": 1423670400,
             "platforms": [
                 "web",
                 "mobile",
                 "ott"
             ],
             "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
-            "duration": 1294.59,
-            "episode_number": "2",
-            "original_air_date": 1092538800,
+            "duration": 1356.06,
+            "episode_number": "6",
+            "original_air_date": 1094958000,
             "clip_order": null,
-            "auth_launch_date": 1682654400,
-            "modified": 1682410401,
-            "airing_id": "RADS1004242300089844",
-            "media_id": "b74f78cc33c365328f3ce636d4577dfccd4edd6c",
-            "id": "skkB61LjRfKCO86Fds3N0Q",
-            "slug": "careers-in-science",
-            "views": 980275,
+            "auth_launch_date": 1683259200,
+            "modified": 1691787905,
+            "airing_id": "RADS1005042300092660",
+            "media_id": "feece2f8af8c59e0056626e0830f4b0362d59428",
+            "id": "c0sYhKndQO6Vw55I8zVolw",
+            "slug": "ghosts-of-the-sargasso",
+            "views": 941582,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_211612119-venture_102.jpg",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161324188-venture_108.jpg",
             "created": 1402945481,
-            "title_id": "543787",
+            "title_id": "543793",
             "season_number": "1",
-            "tv_rating": "tv-ma",
+            "tv_rating": "tv-14-v",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1682410401,
+            "published": 1691787905,
             "tags": [
-                "venture bros brothers episode 2 careers in science space station father daddy brock sex bud manstrong"
+                "venture brothers bros episode 8 ghosts of the sargasso pirates bermuda triangle sub metasonic locator"
             ],
-            "rating_count": 2926,
+            "rating_count": 1954,
             "collection_title": "The Venture Bros.",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1422460800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211612119-venture_102.jpg",
-            "cma_id": "980852",
+            "launch_date": 1423065600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324188-venture_108.jpg",
+            "cma_id": "983646",
             "collection_slug": "the-venture-bros",
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
