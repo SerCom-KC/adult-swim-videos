@@ -2,196 +2,226 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 11, 2023 at 00:30:26 EDT_
+_Last Update: August 11, 2023 at 16:30:20 EDT_
 ## Video added
-### Summary
-581006 American Dad: 2  
-2003422 Bob's Burgers: 2  
-798427 Check It Out! with Dr. Steve Brule: 2  
-2288454 My Adventures with Superman: 1  
-608360 Robot Chicken: 1  
-343621 Samurai Jack: 2  
-2132025 The Jellies: 1  
-547867 Tom Goes To The Mayor: 3  
-691917 Xavier: Renegade Angel: 2  
-2224723 YOLO: 2  
-### 2069550
-**American Dad S12E19 - Kloger**  
-TV-14 🔒 21:35  
-⌛ August 17, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/kloger  
-seriesid=`581006` titleid=`2069550` id=`gWxgx0z4SRaEsAEM1PYSJA` mediaid=`24c71b235cf3e00dd816ffc2e935025955d9b3c7`  
-_Roger and Klaus start having a secret affair after they accidentally end up on an online date together. Steve tries to catch Hayley's pink eye to get out of doing a fitness test at school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg" height="144px" /></a>
-### 2069549
-**American Dad S12E18 - The Long Bomb**  
-TV-14-DLSV 🔒 21:13  
-⌛ August 17, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-long-bomb  
-seriesid=`581006` titleid=`2069549` id=`vChQxBcdSiCMUBywWd3bJA` mediaid=`a6299f487f02fcb39f0981b1f35f0c2febb35a72`  
-_While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg" height="144px" /></a>
-### 2003529
-**Bob's Burgers S03E18 - It Snakes a Village**  
-TV-14 🔒 21:14  
-⌛ August 17, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/it-snakes-a-village  
-seriesid=`2003422` titleid=`2003529` id=`RAIMaX4CRgGkSy935k68lg` mediaid=`426eaac1c31f4f726b3f8947b2529e1ade0bd027`  
-_The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108565676568.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108565676568.jpg" height="144px" /></a>
-### 2003528
-**Bob's Burgers S03E17 - Two For Tina**  
-TV-PG 🔒 21:34  
-⌛ August 17, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/two-for-tina  
-seriesid=`2003422` titleid=`2003528` id=`rbUdJW2DS4yVWdqKwLtbqg` mediaid=`4c6188e4100d24127513e5e7eb27013a0d242775`  
-_Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh, and the two boys get into an epic dance-off for her heart._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg" height="144px" /></a>
-### 887728
-**Check It Out! with Dr. Steve Brule S02E01 - Boats**  
-TV-14 🔓 10:57  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/boats  
-seriesid=`798427` titleid=`887728` id=`XQ_K104dSMClqoF193IqiQ` mediaid=`510037419c9e29e5acf71a42120cf2f04a943878`  
-_Dr. Steve dines on seafood and hides his wallet from a pirate. Carol Krabit reports on the weather._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321553308-checkitout_201_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321553308-checkitout_201_bim.jpg" height="144px" /></a>
-### 798429
-**Check It Out! with Dr. Steve Brule S01E02 - Relationships**  
-TV-MA 🔒 11:07  
-⌛ December 14, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/check-it-out-with-dr-steve-brule/relationships  
-seriesid=`798427` titleid=`798429` id=`4Nm8fSTSS16Q5KouRiSq0g` mediaid=`5f244156f1172427f56c3394609b94abfdc12486`  
-_Steve tackles intimacy issues with special guests Jan and Wayne Skylar._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032159151-checkitout_102_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032159151-checkitout_102_bim.jpg" height="144px" /></a>
-### 2288461
-**My Adventures with Superman S01E07 - Kiss Kiss Fall In Portal**  
-TV-PG 🔒 22:35  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/my-adventures-with-superman/kiss-kiss-fall-in-portal  
-seriesid=`2288454` titleid=`2288461` id=`AYnP8uWL2rZC6NyF61-Y` mediaid=`2525267b493d87cf624da16fadff72f15696ca8f`  
-_Clark tries to plan a normal date without any Superman problems - but gets interrupted when Mr. Mxyzptlk sweeps him, Jimmy, and Lois into a high-stakes, multiverse-hoping chase!_  
-<a href="https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387822115-AS_MAWS_07_KissKissFallInPortal-5.jpg"><img src="https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387822115-AS_MAWS_07_KissKissFallInPortal-5.jpg" height="144px" /></a>
-### 640880
-**Robot Chicken S02E19 - Anne Marie's Pride**  
-TV-MA 🔒 11:28  
-⌛ September 4, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/anne-maries-pride  
-seriesid=`608360` titleid=`640880` id=`W0xee162Qkq5OWTmVAMafA` mediaid=`deefb2225a3bcc180896b2cd8838967abc531450`  
-_Mr. T and the Foo Fighters forge an unlikely alliance.  Stretch Armstrong needs a corn syrup transplant.  A mermaid shows a surface boy the wonders of Atlantis.  A guy dates his GPS navigational system.  Learn the untold origin of Alvin and the Chipmunks! Roger Ebert and guest reviewer M. Night Shyamalan present upcoming feature films, including Schindler's List 2: Schindler's Pissed._  
-<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411139331-robotchicken_039.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411139331-robotchicken_039.jpg" height="144px" /></a>
-### 2115101
-**Samurai Jack S05E10 - CI**  
-TV-14-V 🔓 22:42  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/ci  
-seriesid=`343621` titleid=`2115101` id=`6zrVqlLYSJWf4pEILOEoWg` mediaid=`ca319152f9f53507a55f680291089d0ace015a6c`  
-_The fate of the entire universe hangs in the balance as Samurai Jack faces Aku in the final showdown between good versus evil._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471432141-samjack_101_dup-20170517.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471432141-samjack_101_dup-20170517.jpg" height="144px" /></a>
-### 2115096
-**Samurai Jack S05E05 - XCVI**  
-TV-PG-V 🔒 22:31  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xcvi  
-seriesid=`343621` titleid=`2115096` id=`Vw2oPFVGSK2wTxwGIen0Cg` mediaid=`06a33b0ccc490a6004bcd9c597e0b912b672e60d`  
-_Samurai Jack fights to save a group of enslaved people from being harvested as the power source for a monstrous Mega-Robot._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471430196-samjack_096_dup-20170411.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471430196-samjack_096_dup-20170411.jpg" height="144px" /></a>
-### 2132030
-**The Jellies S01E05 - The Gameshow**  
-TV-MA 🔓 10:48  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-jellies/the-gameshow  
-seriesid=`2132025` titleid=`2132030` id=`Kzii8SYGRsW9wVvpAO2euw` mediaid=`ce452e5109ffd3c738ad59cb83d1d439b6c9f8a7`  
-_KY's body seems to be going through some womanly changes, so she goes on a dating show to deal with it._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15109495078072.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15109495078072.jpg" height="144px" /></a>
-### 639413
-**Tom Goes To The Mayor S02E17 - Friendship Alliance**  
-TV-14-V 🔓 11:13  
-⌛ September 14, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/friendship-alliance  
-seriesid=`547867` titleid=`639413` id=`AiL8W6G6TD2UJ4S3Tm38pQ` mediaid=`ba01040b9b123ffe262a4b0c6fa4877247fe3e31`  
-_Tom makes a new friend on the Internet._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958366-tgttm_030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958366-tgttm_030.jpg" height="144px" /></a>
-### 639410
-**Tom Goes To The Mayor S02E14 - Jeffy the Sea Serpent**  
-TV-14-V 🔒 11:38  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/jeffy-the-sea-serpent  
-seriesid=`547867` titleid=`639410` id=`jI8rt9fjSa-cRwOvi5wAMw` mediaid=`d001cdcea3ff5a0ce59a6d29d9870d7ed8a0a7b4`  
-_Tom and The Mayor invent a sea serpent to attract tourism._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117957474-tgttm_027.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117957474-tgttm_027.jpg" height="144px" /></a>
-### 629806
-**Tom Goes To The Mayor S02E02 - Surprise Party**  
-TV-14 🔓 11:34  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/surprise-party  
-seriesid=`547867` titleid=`629806` id=`oeEdHdVuQAaxcG9ISlyeTg` mediaid=`3587d774d47c229d6133fe27d5f961a9b54f3dbe`  
-_Tom stoops to new lows to get invited to Gibbons' Surprise Party._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953264-tgttm_015.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953264-tgttm_015.jpg" height="144px" /></a>
-### 747220
-**Xavier: Renegade Angel S02E10 - Braingea's Final Cranny**  
-TV-MA 🔓 11:29  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/xavier-renegade-angel/braingeas-final-cranny  
-seriesid=`691917` titleid=`747220` id=`C-TEcv5nStePWA22PdQ_Iw` mediaid=`249071a4ea362194a235ac5181bf667f35a09de3`  
-_When Xavier runs out of desert across which to ramble, he drowns in a sea of completion._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141732531-xavier_210.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141732531-xavier_210.jpg" height="144px" /></a>
-### 747213
-**Xavier: Renegade Angel S02E03 - Free Range Manibalism**  
-TV-MA-V 🔒 11:27  
-⌛ November 9, 2023 at 23:59:00 EST  
-https://www.adultswim.com/videos/xavier-renegade-angel/free-range-manibalism  
-seriesid=`691917` titleid=`747213` id=`76f1RCFNQrWQAe7EmgyGWA` mediaid=`d9e630d281944249f0c2bfa7f8cb0d3310009e0a`  
-_Xavier lifts homeless veterans up from the filth of the streets and into the filth of their meats._  
-<a href="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141731163-xavier_203.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210104/thumbnails/2_21141731163-xavier_203.jpg" height="144px" /></a>
-### 2412373
-**YOLO S02E01 - Sausage Sizzle**  
-TV-MA-L 🔓 11:14  
-⌛ August 31, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/yolo/sausage-sizzle  
-seriesid=`2224723` titleid=`2412373` id=`AYXgWkOVuLQD-MTtYfux` mediaid=`b73cbd3a6a46ebe97ed9f78ce18ef56cc0d640fd`  
-_After a wild night of hard partying, Sarah and Rachel stumble into a spiritual commune for a free sausage sizzle. There they encounter the Purple Fire God who tells them their destiny._  
-<a href="https://media.cdn.adultswim.com/uploads/20230123/thumbnails/2_231231537173-YOLO201Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230123/thumbnails/2_231231537173-YOLO201Still001tiny.png" height="144px" /></a>
-### 2224727
-**YOLO Crystal Fantasy S01E04 - The Terry Cup**  
-TV-14-LV 🔒 11:09  
-⌛ October 12, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/yolo/the-terry-cup  
-seriesid=`2224723` titleid=`2224727` id=`AXPedVjZSeFB2d0c38Xv` mediaid=`e3aec52eb8e0bccd2a5f94ee22c184cb328737f4`  
-_Rachel and Sarah go to the Terry Cup where dancers compete to please Terry, an opinionated floating head. Their hopes for a drama-free experience are dashed when Rachel gets herself 8 million Terry credits in debt due to a couple of bets._  
-<a href="https://media.cdn.adultswim.com/uploads/20200811/thumbnails/2_208111258129-YOLO_004_dup-20200722..jpg"><img src="https://media.cdn.adultswim.com/uploads/20200811/thumbnails/2_208111258129-YOLO_004_dup-20200722..jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-581006 American Dad: 2  
-### 2003519
-**Bob's Burgers S03E08 - The Unbearable Like-Likeness of Gene**  
-TV-PG 🔓 21:31  
-⌛ August 10, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-unbearable-like-likeness-of-gene  
-seriesid=`2003422` titleid=`2003519` id=`ZkIXH6VwR3umi9XPGhgn7g` mediaid=`996f8d48b46c26d07fae521d98d0888f969df85f`  
-_After Gene gets suckered into dating Courtney, his first girlfriend ever, the entire family wants him to break up with her when they decide she's totally annoying. But when Gene finally musters up the courage to end things, he falters after discovering that Courtney's father writes jingles and could possibly launch his music career._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276715684815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276715684815.jpg" height="144px" /></a>
-### 2003518
-**Bob's Burgers S03E07 - Tina-Rannosaurus Wrecks**  
-TV-PG 🔓 21:30  
-⌛ August 10, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/tina-rannosaurus-wrecks  
-seriesid=`2003422` titleid=`2003518` id=`eqaaJMi1TQeFHArOnKLL0Q` mediaid=`3079ea58f034b7addb4bbda30a331721332b2e6b`  
-_After Tina accidentally wrecks the car, and gets the whole family involved with a slimy insurance agent, she worries that she's a "jinx."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg" height="144px" /></a>
-### 2069537
-**American Dad S12E06 - Roger's Baby**  
-TV-14 🔓 21:13  
-⌛ August 10, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/rogers-baby  
-seriesid=`581006` titleid=`2069537` id=`M1LxpLBLR8qZPNTNON4wTw` mediaid=`82280a4e4ee936c9401bf4a685cb24ed495f6a6e`  
-_Hayley experiences what pregnancy would be like after Roger agrees to give birth to Jeff so he can be human again. Snot's feelings are hurt when Steve secretly signs him up for a makeover._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg" height="144px" /></a>
-### 2069536
-**American Dad S12E05 - Bahama Mama**  
-TV-14 🔓 21:14  
-⌛ August 10, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/bahama-mama  
-seriesid=`581006` titleid=`2069536` id=`NGLrMHi2SMaOBw4VfXHxTw` mediaid=`d95100e3314260683fa2de169c26d0f3b9fc962e`  
-_Stan is upset at the idea of becoming a grandfather after Hayley and Jeff announce they're trying to have a baby. Steve and Klaus join a drug gang after Steve decides to take being an uncle extra seriously._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175246934826.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175246934826.jpg" height="144px" /></a>
+343621 Samurai Jack: 1  
+439722 The Venture Bros.: 26  
+### 343646
+**Samurai Jack S02E05 - XVIII**  
+TV-Y7-FV 🔒 22:50  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xviii  
+seriesid=`343621` titleid=`343646` id=`ojRDiZzSSoKgWkNZr2idtg` mediaid=`7e6e696de14f4c499e64494e40af3eb7c855a0e2`  
+_Jack goes from destroyed village to another looking for those responsible, only to find the destruction was commissioned by Aku._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461644231-samjack_018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461644231-samjack_018.jpg" height="144px" /></a>
+### 639425
+**The Venture Bros. S02E12 - Showdown at Cremation Creek Part 1**  
+TV-MA 🔒 22:27  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/showdown-at-cremation-creek-part-1  
+seriesid=`439722` titleid=`639425` id=`3Yq-R0PET3WEjDDTrEOVjQ` mediaid=`2c6e656fd7da10e32601b71bc41a3b9d4699c5c8`  
+_If you see only one episode of The Venture Bros. this season, make it this one and the one after it. The Monarch finally (for like the fourth time) has Team Venture in his clutches, the one time he doesn't want them--smack dab in the middle of the social event of the supervillain season. The stage is set for a deadly, ultimate showdown between The Monarch and Phantom Limb for the hand of Dr. Girlfriend._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410322-venture_125.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410322-venture_125.jpg" height="144px" /></a>
+### 543794
+**The Venture Bros. S01E07 - Ice Station Impossible!**  
+ 🔒 22:32  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/ice-station-impossible  
+seriesid=`439722` titleid=`543794` id=`4vrumG3RTr2Bb0LFeEB1og` mediaid=`ee6199973d96112079490dc757a40625a6953cb2`  
+_Dr. Venture, Pete White and Master Billy Quizboy are invited to take part in a top secret government think tank._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324392-venture_109.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324392-venture_109.jpg" height="144px" /></a>
+### 543788
+**The Venture Bros. S01E08 - Mid Life Chrysalis**  
+TV-14-DS 🔒 22:03  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/mid-life-chrysalis  
+seriesid=`439722` titleid=`543788` id=`6v_NwiarQs-QdV4fZ6-PMg` mediaid=`cf83c5feddea790bd9748291479b65308991ac5e`  
+_The Monarch sends Dr. Girlfriend undercover to seduce Dr. Venture in order to inject him with a body-altering serum.  Meanwhile, Brock is deeply depressed to he learn his secret agent license to kill has expired, but the boys are hell-bent on helping him cram for his government exam._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324571-venture_103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324571-venture_103.jpg" height="144px" /></a>
+### 543786
+**The Venture Bros. S01E01 - Dia de Los Dangerous!**  
+TV-14-DLV 🔒 22:10  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/dia-de-los-dangerous  
+seriesid=`439722` titleid=`543786` id=`7Eigg9gPRWWkjpqiPsegUg` mediaid=`85244e35982770c0e7f2dd6a58b71691de74ae34`  
+_When the Venture Family visits Tijuana for a lecture Dr. Venture is giving at the (community) University of Mexico, the dastardly Monarch weaves a cocoon of villainy that leaves the Venture brothers trapped in his clutches, Dr. Venture kidney-less and Brock... dead?  If only Dr. Venture would return the Monarch's calls..._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161159437-venture_101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161159437-venture_101.jpg" height="144px" /></a>
+### 639417
+**The Venture Bros. S02E05 - Twenty Years to Midnight**  
+TV-MA 🔒 22:28  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/twenty-years-to-midnight  
+seriesid=`439722` titleid=`639417` id=`95T_SYenSDq5TjSytnfZeA` mediaid=`5b12557ff74d4261a20f93a32294a2f0a2684b03`  
+_In the middle of spring cleaning, Brock's discovery of a lost videotape from Jonas Venture Sr. sets Team Venture off on a global scavenger hunt._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161330407-venture_117.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161330407-venture_117.jpg" height="144px" /></a>
+### 543787
+**The Venture Bros. S01E02 - Careers in Science**  
+TV-MA 🔒 21:36  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/careers-in-science  
+seriesid=`439722` titleid=`543787` id=`AXbYpHPtQJ_4Uej5kTjB` mediaid=`b74f78cc33c365328f3ce636d4577dfccd4edd6c`  
+_Careers in Science: The Venture family must travel to space to repair an orbiting space station that Dr. Venture's father built in the 1970s, but a mysterious space phantom could be haunting the station!_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120226-venture_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120226-venture_102.jpg" height="144px" /></a>
+### 543798
+**The Venture Bros. S01E12 - The Trial of the Monarch**  
+TV-14-DL 🔒 22:28  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-trial-of-the-monarch  
+seriesid=`439722` titleid=`543798` id=`Bqcj9djVREqxY54puOCcjQ` mediaid=`219b9d94a633815589c7fce734c255256ae28783`  
+_The Monarch is on trial for the one crime he may not have committed, under mysterious circumstances stemming from his bitter breakup with Dr. Girlfriend.  The boys and Dr. Orpheus are forced to testify, but only Brock is aware that something far more sinister is afoot._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326475-venture_113.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326475-venture_113.jpg" height="144px" /></a>
+### 639414
+**The Venture Bros. S02E07 - Love-Bheits**  
+TV-MA 🔒 22:35  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/love-bheits  
+seriesid=`439722` titleid=`639414` id=`Bt9tNlK1T_KYJVEhjJjm5A` mediaid=`14918bcdf11911cb50780f0b0cc9696aadfef33c`  
+_Baron Underbheit captures Team Venture when the X-1 crash lands in Underland while en route from a superscience costume party. Rather than execute them immediately, he inflicts an unspeakable torture upon them: they're forced to attend his wedding._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161331464-venture_114.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161331464-venture_114.jpg" height="144px" /></a>
+### 639416
+**The Venture Bros. S02E03 - Assassinanny 911**  
+TV-MA 🔒 22:33  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/assassinanny-911  
+seriesid=`439722` titleid=`639416` id=`CYetduKkQ96dkZBXh_1XdA` mediaid=`19544d490dc3d2b60108980f6a64951f8725f347`  
+_When Brock is reactivated by the Office of Secret Intelligence to track down a rogue agent,  he subcontracts his ex-girlfriend, the malevolently mercenary Molotov Cocktease, to protect the Venture Compound from enemies within and without. Love is in the air! Or is it... murder?_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161329390-venture_116.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161329390-venture_116.jpg" height="144px" /></a>
+### 639426
+**The Venture Bros. S02E13 - Showdown at Cremation Creek Part 2**  
+TV-MA 🔒 22:38  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/showdown-at-cremation-creek-part-2  
+seriesid=`439722` titleid=`639426` id=`GrLexUzyTjO9jTztCHWN0w` mediaid=`3443017ce70c7988f8de6e06a8d73e5d4ae74f97`  
+_As Phantom Limb makes his stunning power play, only Brock can rally The Monarch's forces to mount a defense. The fate of almost everyone in the Venture universe hangs in the balance as The Sovereign reveals his true identity and guys and stuff explode all over the place._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410145-venture_126.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410145-venture_126.jpg" height="144px" /></a>
+### 639424
+**The Venture Bros. S02E11 - Viva los Muertos!**  
+TV-MA 🔒 22:27  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/viva-los-muertos  
+seriesid=`439722` titleid=`639424` id=`MGVU5hLqTfCHEBr8V2hjRg` mediaid=`669d5b2e2107451f7ed8e477b2ab314c84ffdfcd`  
+_When Dr. Venture finally succeeds in attaining the holy grail of superscience--the revivification of a human corpse for fun and profit--a washed up gang of wandering former teen sleuths is convinced that the Venture Compound is haunted. Their investigation uncovers something far creepier. Meanwhile, Orpheus shepherds Brock through a crisis of conscience with the help of a New Age shaman and a bizarre tea party._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333443-venture_124.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333443-venture_124.jpg" height="144px" /></a>
+### 639423
+**The Venture Bros. S02E10 - I Know Why the Caged Bird Kills**  
+TV-MA 🔒 22:33  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/i-know-why-the-caged-bird-kills  
+seriesid=`439722` titleid=`639423` id=`NMY9b6DKRdqgZwadEhhShw` mediaid=`773c4c6a70b52b307937fb5e2d5b260b46058bf4`  
+_The Monarch continues to rebuild his villainous empire with the aid of his shadowy new Number 2, Dr. Henry Killinger, but Henchman 21 is suspicious of the deadly foreigner's unctuous charms._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333256-venture_123.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333256-venture_123.jpg" height="144px" /></a>
+### 543789
+**The Venture Bros. S01E05 - Eeney Meeney Miney Magic!**  
+TV-14-D 🔒 22:31  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/eeney-meeney-miney-magic  
+seriesid=`439722` titleid=`543789` id=`OoC5JhwbQcGnkb542TuVDQ` mediaid=`8f95cc0f92d5c8546986839a755aba60494e1230`  
+_Dr. Venture's new experiment has the entire family interested--not to mention trapped inside!  The Ventures' strange new neighbor, master of mysticism Dr. Orpheus, may be the only one who can help them escape.  Meanwhile Dean falls for Dr. Orpheus's teenaged daughter and Brock falls for his old flame: Molotov Cocktease._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323319-venture_104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323319-venture_104.jpg" height="144px" /></a>
+### 639418
+**The Venture Bros. S02E04 - Escape to the House of Mummies Part 2**  
+TV-MA 🔒 22:33  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/escape-to-the-house-of-mummies-part-2  
+seriesid=`439722` titleid=`639418` id=`WPmRk0lkS1OntDUDxlRlJw` mediaid=`e3b9816ff9291125100e49b9ba3a8147cd195d6b`  
+_Team Venture find themselves trapped in the clutches of a bloodthirsty Egyptian cult._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161329578-venture_118.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161329578-venture_118.jpg" height="144px" /></a>
+### 639422
+**The Venture Bros. S02E08 - Fallen Arches**  
+TV-MA 🔒 22:36  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/fallen-arches  
+seriesid=`439722` titleid=`639422` id=`aSeQ20xiRROg42sKF7MsqA` mediaid=`40a58962ea8d7c59a178aedc85e22fd2365d9edd`  
+_When the Guild of Calamitous Intent finally approves Dr. Orpheus for his very own arch nemesis he calls upon old friends The Alchemist and Jefferson Twilight to resurrect their former super-team, The Order of the Triad.  While they  audition supervillain candidates at the Venture Compound, a jealous Doc isn't about to let Orpheus steal the show. Let loose the Walking Eye!_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161332116-venture_122.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161332116-venture_122.jpg" height="144px" /></a>
+### 543793
+**The Venture Bros. S01E06 - Ghosts of the Sargasso**  
+TV-14-V 🔒 22:36  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/ghosts-of-the-sargasso  
+seriesid=`439722` titleid=`543793` id=`c0sYhKndQO6Vw55I8zVolw` mediaid=`feece2f8af8c59e0056626e0830f4b0362d59428`  
+_On a scientific expedition in the Bermuda Triangle, Doc's experimental equipment awakens and possibly enrages the submerged ghost of Major Tom, a test pilot who crashed in an experimental aircraft designed by Doc's father.  While there, the Ventures' hydrofoil is hijacked by a group of fake ghost pirates who've been stranded in the sargassum since Jesus Jones was popular._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324188-venture_108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324188-venture_108.jpg" height="144px" /></a>
+### 439723
+**The Venture Bros. S01E?? - The Terrible Secret of Turtle Bay**  
+TV-14-DS 🔒 23:06  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-terrible-secret-of-turtle-bay  
+seriesid=`439722` titleid=`439723` id=`eRoz0lLATy6ie6CV-Xe8fg` mediaid=`d45cf67e84b98a5d010380f04b46f5e18dddbb59`  
+_Dr Venture, his teen sons hank and Dean and their bodyguard Brock head to New York City to unveil Dr Venture's new technology.  Along the way they'll have to deal with stowaway mummies and crocodiles, a mysterious ninja who's after the Doc's technology and the evil Monarch who's hot on their trail._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120414-venture_000.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120414-venture_000.jpg" height="144px" /></a>
+### 543792
+**The Venture Bros. S01E03 - Home Insecurity**  
+TV-PG-DLV 🔒 22:20  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/home-insecurity  
+seriesid=`439722` titleid=`543792` id=`grU0kecFR5uzRm9lzpEfmQ` mediaid=`4a05bf412ed98d2172c37bb896b242061a4c5b38`  
+_To protect the Venture compound while Brock is on his yearly mountain survival sabbatical, Dr. Venture builds a panic room and a robotic bodyguard--which are soon put to the test when both the Monarch's and Baron Underbheit's henchmen choose the same night to launch attacks._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161322456-venture_103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161322456-venture_103.jpg" height="144px" /></a>
+### 543791
+**The Venture Bros. S01E10 - Tag Sale, You're It!**  
+TV-14-LV 🔒 22:24  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/tag-sale-youre-it  
+seriesid=`439722` titleid=`543791` id=`hqCo9uFTTtOqQfid9qALqg` mediaid=`7be10be02bc7c732eee6384db70c2504fa5fe13e`  
+_Always short on cash, Dr. Venture decides to unload some of his father's old scientific equipment in a huge yard sale that attracts fellow scientists and super-villains alike. Everyone is supposed to be on their best behavior, but The Monarch can't resist the temptation to wreak havoc once he finds himself inside the "belly of the beast"... nor can he find a bathroom._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116132626-venture_106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116132626-venture_106.jpg" height="144px" /></a>
+### 543790
+**The Venture Bros. S01E04 - The Incredible Mr. Brisby**  
+TV-MA 🔒 22:25  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-incredible-mr-brisby  
+seriesid=`439722` titleid=`543790` id=`ktj9bStwTIaag-ziu3E9wg` mediaid=`b06e36e689cd9e149de0c0f7f036502850da5afd`  
+_Dr. Venture is offered a job by theme park owner and cartoon magnate Roy Brisby, who won't take no for an answer in his quest for worldwide entertainment dominance.  Meanwhile, the boys are given the Patty Hearst treatment by the Orange County Liberation Front, a group of militant suburbanites who want to take down Brisby's empire  Brock enlists the aid of former lover and fellow superspy Molotov Cocktease to "mount"a rescue, but she may have her own agenda._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323466-venture_105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323466-venture_105.jpg" height="144px" /></a>
+### 543797
+**The Venture Bros. S01E11 - Past Tense**  
+TV-14-DLS 🔒 22:35  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/past-tense  
+seriesid=`439722` titleid=`543797` id=`qgKt6ZBxRu-h2cGSsWHRFw` mediaid=`be48ab90be72e2841f23e782966529e4b9898eec`  
+_When Brock and Dr. Venture are kidnapped from the funeral of a college friend, the boys enlist the aid of the original Team Venture: a group of superscience adventurers who worked for their grandfather in the sixties._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326270-venture_112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326270-venture_112.jpg" height="144px" /></a>
+### 543795
+**The Venture Bros. S01E09 - Are You There God? It's Me, Dean**  
+TV-14-D 🔒 22:30  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/are-you-there-god-its-me-dean  
+seriesid=`439722` titleid=`543795` id=`qzEMjzUmTHydq0D3jpLWpQ` mediaid=`57a0fb789c5b3aec2617d6a2317819442a6c25c3`  
+_The Monarch finally has the Venture family right where he wants them--hanging upside down above the Amazon river! But his victory is postponed when Dean suffers a strange but fairly common injury--acute testicular tortion. According to the bi-laws of the Guild of Calamitous Intent, a temporary truce must be called in order to get Dean medical attention,  so Brock and Hank are held as collateral._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161325445-venture_110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161325445-venture_110.jpg" height="144px" /></a>
+### 718817
+**The Venture Bros. S03E01 - Shadowman 9: In the Cradle of Destiny**  
+TV-PG 🔒 22:27  
+⌛ August 12, 2023 at 23:59:59 EDT  
+https://www.adultswim.com/videos/the-venture-bros/shadowman-9-in-the-cradle-of-destiny  
+seriesid=`439722` titleid=`718817` id=`sYEjVmplReSWxngyH6dQAQ` mediaid=`00c99e7d4a4913425959a77ff73aa8030c9538a0`  
+_The wait is over. The truths and half-truths about Dr. Venture's former arch nemeses, Dr. Girlfriend and The Monarch, are finally revealed (albeit obliquely) in an episode spanning twenty years... and oceans of love. See how they first met, their first kiss, their first trembling gropes... at supervillainy--and what The Guild of Calamitous Intent has to say about it all._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161359371-venture_132_dst_cid-UM62.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161359371-venture_132_dst_cid-UM62.jpg" height="144px" /></a>
+### 639420
+**The Venture Bros. S02E01 - Powerless in the Face of Death**  
+TV-MA 🔒 22:47  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/powerless-in-the-face-of-death  
+seriesid=`439722` titleid=`639420` id=`ur6tNya2TTizho6tQtnrIw` mediaid=`c089e3799eb25783e1d5316273dbe82623f60753`  
+_The premiere episode finds Team Venture and friends struggling to pick up the pieces of their shattered lives and move on in the wake of Hank and Dean's violent and untimely deaths. While Doc searches for his soul in the far corners of the globe, Dr. Orpheus wallows in guilt, and a mullet-less Brock repairs his beloved Charger, The Monarch plots a daring prison break with the help of his fellow supervillainous inmates._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161328520-venture_120.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161328520-venture_120.jpg" height="144px" /></a>
+### 639415
+**The Venture Bros. S02E06 - Victor Echo November**  
+TV-MA 🔒 22:28  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/victor-echo-november  
+seriesid=`439722` titleid=`639415` id=`usZivM_0QqO15d-ZBQeF1A` mediaid=`962def441e7ea525a6d071eed91123e6c4d14d80`  
+_The Phantom Limb and Dr. Girlfriend agree to a civil double date with The Monarch and some girl he met on the internet in order to discuss The Monarch's official re-entry into the Guild of Calamitous Intent. Doc and Brock become the unwitting pawns in a low-grade pissing contest when Phantom Limb's sics the Guild's commandos on the Venture compound to prove his dominance.  Can Brock hold off an army? Can Doc escape death and finish watching the worst porno ever?_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161331233-venture_115.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161331233-venture_115.jpg" height="144px" /></a>
+### 639421
+**The Venture Bros. S02E09 - Guess Who's Coming to State Dinner**  
+TV-MA 🔒 22:42  
+⌛ August 12, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/guess-whos-coming-to-state-dinner  
+seriesid=`439722` titleid=`639421` id=`wsr1jxCARlu5Tpd1MPN7nw` mediaid=`67deb4acad30c6f56063e617a2c3052f1504f478`  
+_The mysterious blinking band aid on Bud Manstrong's head might be the key to a mystery only the ghost of Abraham Lincoln and Team Venture can solve._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333101-venture_121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333101-venture_121.jpg" height="144px" /></a>
