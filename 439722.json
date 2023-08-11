@@ -1082,6 +1082,52 @@
     },
     {
         "auth_expiration_date": 1691899140,
+        "tms_id": "EP005604540002",
+        "description": "Careers in Science: The Venture family must travel to space to repair an orbiting space station that Dr. Venture's father built in the 1970s, but a mysterious space phantom could be haunting the station!",
+        "title_suggest": {
+            "input": [
+                "Careers in Science",
+                "in Science",
+                "Science"
+            ]
+        },
+        "title": "Careers in Science",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1296.5286,
+        "episode_number": "2",
+        "original_air_date": "1092538800",
+        "auth_launch_date": 1682654400,
+        "clip_order": null,
+        "airing_id": "RADS1004242300089844",
+        "media_id": "b74f78cc33c365328f3ce636d4577dfccd4edd6c",
+        "modified": 1691788779,
+        "slug": "careers-in-science",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116120226-venture_102.jpg",
+        "created": 1609952424,
+        "season_number": "1",
+        "title_id": "543787",
+        "tv_rating": "tv-ma",
+        "published": 1691788779,
+        "tags": [],
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120226-venture_102.jpg",
+        "id": "AXbYpHPtQJ_4Uej5kTjB",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1691899140,
         "tms_id": "EP005604540058",
         "description": "A scientist, his dim-witted children and their security guard battle enemies.",
         "title_suggest": {
