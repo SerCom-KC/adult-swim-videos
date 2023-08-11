@@ -1,5 +1,53 @@
 [
     {
+        "auth_expiration_date": 1692331140,
+        "tms_id": "EP003034830076",
+        "description": "Bender and the new owners of Planet Express hatch a plan to steal ancient riches. Lars and Leela's romance takes off.",
+        "title_suggest": {
+            "input": [
+                "Bender's Big Score Part 2",
+                "Big Score Part 2",
+                "Score Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "title": "Bender's Big Score Part 2",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1348.7141,
+        "episode_number": "2",
+        "original_air_date": 1641177000,
+        "auth_launch_date": 1691726400,
+        "clip_order": null,
+        "airing_id": "RADS1008082300013870",
+        "media_id": "d26e07b2425a30d92e96ed20c9413e79f12b9ace",
+        "modified": 1691524438,
+        "slug": "benders-big-score-part-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/1_2213178271-Futurama_602_BendersBigScore_Part2.png",
+        "created": 1641157192,
+        "title_id": "2161605",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1691524438,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/2_2213178271-Futurama_602_BendersBigScore_Part2.png",
+        "id": "AX4cl2xvdpBG7hfWGhgT",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1691985540,
         "tms_id": "EP003034830075",
         "description": "Fry learns he has a tattoo of Bender that is made of microscopic zeros and ones and when read out loud, reveals the code to create a Time Sphere.",
@@ -144,51 +192,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691649451-Futurama_072_TheDevilsHandsAreIdlePlaythings.png",
         "id": "AYE5OWoQ_0O4w1rD3SV0",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1691726340,
-        "tms_id": "EP003034830071",
-        "description": "Bender competes in the 3004 Earth Olympian as a fembot.",
-        "title_suggest": {
-            "input": [
-                "Bend Her",
-                "Her"
-            ]
-        },
-        "title": "Bend Her",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1397.0957,
-        "episode_number": "13",
-        "original_air_date": 1069300800,
-        "auth_launch_date": 1691121600,
-        "clip_order": null,
-        "airing_id": "RADS1007312300012681",
-        "media_id": "6f298df6bfb008937a8095f99e3159a7e31a244f",
-        "modified": 1691091837,
-        "slug": "bend-her",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/1_2266106445-BendHer.png",
-        "created": 1653836830,
-        "title_id": "444755",
-        "season_number": "5",
-        "tv_rating": "tv-pg-dl",
-        "published": 1691091837,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/2_2266106445-BendHer.png",
-        "id": "AYEQW1ZL_0O4w1rD3SSb",
         "auth": true
     },
     {
