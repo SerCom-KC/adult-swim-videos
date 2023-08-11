@@ -3243,6 +3243,59 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447780440,
+        "auth_expiration_date": 1691899140,
+        "tms_id": "EP005604540011",
+        "rating": 8.732215,
+        "description": "When Brock and Dr. Venture are kidnapped from the funeral of a college friend, the boys enlist the aid of the original Team Venture: a group of superscience adventurers who worked for their grandfather in the sixties.",
+        "title_suggest": {
+            "input": [
+                "Past Tense",
+                "Tense"
+            ]
+        },
+        "type": "episode",
+        "title": "Past Tense",
+        "expiration_date": 1424275200,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1355.32,
+        "episode_number": "11",
+        "original_air_date": 1097983800,
+        "clip_order": null,
+        "auth_launch_date": 1686283200,
+        "modified": 1691789682,
+        "airing_id": "RADS1006082300002370",
+        "media_id": "be48ab90be72e2841f23e782966529e4b9898eec",
+        "id": "qgKt6ZBxRu-h2cGSsWHRFw",
+        "slug": "past-tense",
+        "views": 1064956,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161326270-venture_112.jpg",
+        "created": 1402945481,
+        "title_id": "543797",
+        "season_number": "1",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1691789682,
+        "tags": [
+            "venture bros brothers episode 12 past tense funeral college flashback robots kidnapped team venture"
+        ],
+        "rating_count": 2573,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1423670400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326270-venture_112.jpg",
+        "cma_id": "986103"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447781520,
         "auth_expiration_date": 1707368340,
         "tms_id": "EP005604540030",
