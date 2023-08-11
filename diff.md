@@ -2,50 +2,49 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 11, 2023 at 17:30:20 EDT_
+_Last Update: August 11, 2023 at 18:00:22 EDT_
 ## Video added
 ### Summary
-343621 Samurai Jack: 1  
-439722 The Venture Bros.: 4  
-### 343646
-**Samurai Jack S02E05 - XVIII**  
-TV-Y7-FV 🔒 22:50  
+439722 The Venture Bros.: 5  
+### 543789
+**The Venture Bros. S01E05 - Eeney Meeney Miney Magic!**  
+TV-14-D 🔒 22:31  
 ⌛ August 12, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xviii  
-seriesid=`343621` titleid=`343646` id=`ojRDiZzSSoKgWkNZr2idtg` mediaid=`7e6e696de14f4c499e64494e40af3eb7c855a0e2`  
-_Jack goes from destroyed village to another looking for those responsible, only to find the destruction was commissioned by Aku._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461644231-samjack_018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461644231-samjack_018.jpg" height="144px" /></a>
-### 543787
-**The Venture Bros. S01E02 - Careers in Science**  
-TV-MA 🔒 21:36  
+https://www.adultswim.com/videos/the-venture-bros/eeney-meeney-miney-magic  
+seriesid=`439722` titleid=`543789` id=`OoC5JhwbQcGnkb542TuVDQ` mediaid=`8f95cc0f92d5c8546986839a755aba60494e1230`  
+_Dr. Venture's new experiment has the entire family interested--not to mention trapped inside!  The Ventures' strange new neighbor, master of mysticism Dr. Orpheus, may be the only one who can help them escape.  Meanwhile Dean falls for Dr. Orpheus's teenaged daughter and Brock falls for his old flame: Molotov Cocktease._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323319-venture_104.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323319-venture_104.jpg" height="144px" /></a>
+### 543794
+**The Venture Bros. S01E07 - Ice Station Impossible!**  
+ 🔒 22:32  
 ⌛ August 12, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/careers-in-science  
-seriesid=`439722` titleid=`543787` id=`AXbYpHPtQJ_4Uej5kTjB` mediaid=`b74f78cc33c365328f3ce636d4577dfccd4edd6c`  
-_Careers in Science: The Venture family must travel to space to repair an orbiting space station that Dr. Venture's father built in the 1970s, but a mysterious space phantom could be haunting the station!_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120226-venture_102.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120226-venture_102.jpg" height="144px" /></a>
-### 543786
-**The Venture Bros. S01E01 - Dia de Los Dangerous!**  
-TV-14-DLV 🔒 22:10  
+https://www.adultswim.com/videos/the-venture-bros/ice-station-impossible  
+seriesid=`439722` titleid=`543794` id=`4vrumG3RTr2Bb0LFeEB1og` mediaid=`ee6199973d96112079490dc757a40625a6953cb2`  
+_Dr. Venture, Pete White and Master Billy Quizboy are invited to take part in a top secret government think tank._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324392-venture_109.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324392-venture_109.jpg" height="144px" /></a>
+### 543797
+**The Venture Bros. S01E11 - Past Tense**  
+TV-14-DLS 🔒 22:35  
 ⌛ August 12, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/dia-de-los-dangerous  
-seriesid=`439722` titleid=`543786` id=`7Eigg9gPRWWkjpqiPsegUg` mediaid=`85244e35982770c0e7f2dd6a58b71691de74ae34`  
-_When the Venture Family visits Tijuana for a lecture Dr. Venture is giving at the (community) University of Mexico, the dastardly Monarch weaves a cocoon of villainy that leaves the Venture brothers trapped in his clutches, Dr. Venture kidney-less and Brock... dead?  If only Dr. Venture would return the Monarch's calls..._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161159437-venture_101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161159437-venture_101.jpg" height="144px" /></a>
-### 543793
-**The Venture Bros. S01E06 - Ghosts of the Sargasso**  
-TV-14-V 🔒 22:36  
+https://www.adultswim.com/videos/the-venture-bros/past-tense  
+seriesid=`439722` titleid=`543797` id=`qgKt6ZBxRu-h2cGSsWHRFw` mediaid=`be48ab90be72e2841f23e782966529e4b9898eec`  
+_When Brock and Dr. Venture are kidnapped from the funeral of a college friend, the boys enlist the aid of the original Team Venture: a group of superscience adventurers who worked for their grandfather in the sixties._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326270-venture_112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326270-venture_112.jpg" height="144px" /></a>
+### 639420
+**The Venture Bros. S02E01 - Powerless in the Face of Death**  
+TV-MA 🔒 22:47  
 ⌛ August 12, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/ghosts-of-the-sargasso  
-seriesid=`439722` titleid=`543793` id=`c0sYhKndQO6Vw55I8zVolw` mediaid=`feece2f8af8c59e0056626e0830f4b0362d59428`  
-_On a scientific expedition in the Bermuda Triangle, Doc's experimental equipment awakens and possibly enrages the submerged ghost of Major Tom, a test pilot who crashed in an experimental aircraft designed by Doc's father.  While there, the Ventures' hydrofoil is hijacked by a group of fake ghost pirates who've been stranded in the sargassum since Jesus Jones was popular._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324188-venture_108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324188-venture_108.jpg" height="144px" /></a>
-### 439723
-**The Venture Bros. S01E?? - The Terrible Secret of Turtle Bay**  
-TV-14-DS 🔒 23:06  
+https://www.adultswim.com/videos/the-venture-bros/powerless-in-the-face-of-death  
+seriesid=`439722` titleid=`639420` id=`ur6tNya2TTizho6tQtnrIw` mediaid=`c089e3799eb25783e1d5316273dbe82623f60753`  
+_The premiere episode finds Team Venture and friends struggling to pick up the pieces of their shattered lives and move on in the wake of Hank and Dean's violent and untimely deaths. While Doc searches for his soul in the far corners of the globe, Dr. Orpheus wallows in guilt, and a mullet-less Brock repairs his beloved Charger, The Monarch plots a daring prison break with the help of his fellow supervillainous inmates._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161328520-venture_120.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161328520-venture_120.jpg" height="144px" /></a>
+### 543796
+**The Venture Bros. S01E13 - Return to Spider-Skull Island**  
+TV-MA 🔒 23:10  
 ⌛ August 12, 2023 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/the-terrible-secret-of-turtle-bay  
-seriesid=`439722` titleid=`439723` id=`eRoz0lLATy6ie6CV-Xe8fg` mediaid=`d45cf67e84b98a5d010380f04b46f5e18dddbb59`  
-_Dr Venture, his teen sons hank and Dean and their bodyguard Brock head to New York City to unveil Dr Venture's new technology.  Along the way they'll have to deal with stowaway mummies and crocodiles, a mysterious ninja who's after the Doc's technology and the evil Monarch who's hot on their trail._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120414-venture_000.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116120414-venture_000.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-venture-bros/return-to-spider-skull-island  
+seriesid=`439722` titleid=`543796` id=`5vyxQO6gR_iC0b2IJdHQJQ` mediaid=`b8ba5fbc1cb66b02706541914db7e406d077a8ab`  
+_Dr. Venture finally learns the secret of his recurring womb nightmares when a stomach tumor turns out to be something far more sinister._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161327117-venture_111.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161327117-venture_111.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
