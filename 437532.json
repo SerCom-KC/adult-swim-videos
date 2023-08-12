@@ -96,6 +96,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1692417540,
+        "tms_id": "EP003034830077",
+        "description": "As Leela and Lars prepare to get married, we learn what happened to Fry when he returned to the 21st century.",
+        "title_suggest": {
+            "input": [
+                "Bender's Big Score Part 3",
+                "Big Score Part 3",
+                "Score Part 3",
+                "Part 3",
+                "3"
+            ]
+        },
+        "title": "Bender's Big Score Part 3",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1346.8121,
+        "episode_number": "3",
+        "original_air_date": "1641780000",
+        "auth_launch_date": 1691812800,
+        "clip_order": null,
+        "airing_id": "RADS1008082300013970",
+        "media_id": "01c4c82f0753e75e73b36e42c3f10f709337dabd",
+        "modified": 1691537626,
+        "slug": "benders-big-score-part-3",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161625445-Futurama_603_BendersBigScore_Part3.png",
+        "created": 1641504356,
+        "season_number": "6",
+        "title_id": "2161606",
+        "tv_rating": "tv-14-dlv",
+        "published": 1691537626,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png",
+        "id": "AX4xSLf_208s7zyYUL9W",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1691899140,
         "tms_id": "EP003034830073",
         "description": "Bender stars on the soap opera All My Circuits.",
@@ -192,51 +240,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691649451-Futurama_072_TheDevilsHandsAreIdlePlaythings.png",
         "id": "AYE5OWoQ_0O4w1rD3SV0",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1691812740,
-        "tms_id": "EP003034830072",
-        "description": "When the professor orders a late-model robot at a trade show, Bender seeks an upgrade.",
-        "title_suggest": {
-            "input": [
-                "Obsoletely Fabulous",
-                "Fabulous"
-            ]
-        },
-        "title": "Obsoletely Fabulous",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1396.9623,
-        "episode_number": "14",
-        "original_air_date": 1069387200,
-        "auth_launch_date": 1691208000,
-        "clip_order": null,
-        "airing_id": "RADS1007312300012737",
-        "media_id": "8653058ea9c5df0cbc55ad6a6a9057a8a8bda98f",
-        "modified": 1691091835,
-        "slug": "obsoletely-fabulous",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/1_2266103233-Obsoletely.png",
-        "created": 1654117897,
-        "title_id": "444756",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1691091835,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/2_2266103233-Obsoletely.png",
-        "id": "AYEhHBM1_0O4w1rD3ST0",
         "auth": true
     }
 ]
