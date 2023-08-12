@@ -11246,6 +11246,60 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447347420,
+        "auth_expiration_date": 1719287940,
+        "tms_id": "EP007259620015",
+        "rating": 7.142536,
+        "description": "Sailor Moon encounters a bone-chilling villain. A nerd wins a date with famous actress Scarlett Johansson.",
+        "title_suggest": {
+            "input": [
+                "Joint Point",
+                "Point"
+            ]
+        },
+        "type": "episode",
+        "title": "Joint Point",
+        "expiration_date": 1691467140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 713.1001001,
+        "episode_number": "14",
+        "original_air_date": 1118030400,
+        "clip_order": null,
+        "auth_launch_date": 1691812800,
+        "modified": 1691792401,
+        "airing_id": "RADS1008112300014438",
+        "media_id": "2bf4cc14ba7aa245d207e349b0b0eec0cc9410dc",
+        "id": "kGnQdXlaSKeln9GfpOaSzA",
+        "slug": "joint-point",
+        "views": 578478,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_20326216172-robotchicken_017.jpg",
+        "created": 1402945474,
+        "title_id": "612676",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691792401,
+        "tags": [
+            "robot chicken joint point episode 17"
+        ],
+        "rating_count": 3122,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1690862400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216172-robotchicken_017.jpg",
+        "cma_id": "1186167"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1462802460,
         "auth_expiration_date": 1709614740,
         "tms_id": "EP007259620171",
