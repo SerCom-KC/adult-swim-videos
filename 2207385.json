@@ -180,7 +180,7 @@
         "launch_date": 1691481600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751029265-DrStoneEyesofScience.png",
         "id": "AYjZOQtd2rZC6NyF6191",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1690705740,
@@ -370,6 +370,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230801/thumbnails/2_238192923-Dr.StoneRayofDespairRayofHope.png",
         "id": "AYlzongm2rZC6NyF61-E",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1693727940,
+        "tms_id": "EP047257420009",
+        "description": "Suika and Ginro work together to rescue the mobile lab from the Perseus. Reunited with Senku and the others, the group works on items to help Kohaku with the selection process.",
+        "title_suggest": {
+            "input": [
+                "Beautiful Science",
+                "Science"
+            ]
+        },
+        "title": "Beautiful Science",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1348.9142,
+        "episode_number": "9",
+        "original_air_date": "1691901000",
+        "auth_launch_date": 1691913600,
+        "clip_order": null,
+        "airing_id": "RADS1008082300014044",
+        "media_id": "47cccfd28a031d3f1e19c1af59ec752446d8ae20",
+        "modified": 1691535811,
+        "slug": "beautiful-science",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_2387837128-ASGenericThumb.png",
+        "created": 1691411839,
+        "season_number": "3",
+        "title_id": "2430546",
+        "tv_rating": "tv-14-lv",
+        "published": 1691535811,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387837128-ASGenericThumb.png",
+        "id": "AYnQAHn22rZC6NyF61-b",
         "auth": true
     }
 ]
