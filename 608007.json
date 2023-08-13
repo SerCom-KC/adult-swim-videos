@@ -239,7 +239,7 @@
         "launch_date": 1690707600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230712/thumbnails/2_23712108552-ONEPIECE622TouchingReunion.png",
         "id": "AYkmToeF2rZC6NyF619-",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1691312340,
@@ -340,7 +340,7 @@
         "launch_date": 1691917200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230724/thumbnails/2_237241258239-OnePieceTheG-5WipedOutDoflamingosSuddenAttack.png",
         "id": "AYlqZekR2rZC6NyF61-C",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1692521940,
@@ -439,6 +439,45 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238784581-ONEPIECECaesarGoesMissingThePirateAllianceMakesaSortie.png",
         "id": "AYmqg65Z2rZC6NyF61-W",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1693731540,
+        "created": 1691528618,
+        "tms_id": "EP044419420049",
+        "title_id": "2402519",
+        "season_number": "16",
+        "tv_rating": "tv-pg-l",
+        "description": "Breed has Luffy, Trafalgar, and Chopper firmly in his grasp with his Peto-Peto power!",
+        "title_suggest": {
+            "input": [
+                "Luffy Dies at Sea?! The Pirate Alliance Comes Apart!",
+                "Dies at Sea?! The Pirate Alliance Comes Apart!",
+                "at Sea?! The Pirate Alliance Comes Apart!",
+                "Sea?! The Pirate Alliance Comes Apart!",
+                "The Pirate Alliance Comes Apart!",
+                "Pirate Alliance Comes Apart!",
+                "Alliance Comes Apart!",
+                "Comes Apart!",
+                "Apart!"
+            ]
+        },
+        "published": 1691536435,
+        "title": "Luffy Dies at Sea?! The Pirate Alliance Comes Apart!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1315.2806,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1691904600,
+        "auth_launch_date": 1691917200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008082300014046",
+        "media_id": "1424c3c4ab1f727d44e04ff04e36e2fbb31580cb",
+        "modified": 1691536435,
+        "slug": "luffy-dies-at-sea-the-pirate-alliance-comes-apart",
+        "id": "AYnW9mGl2rZC6NyF61-m",
         "auth": true
     }
 ]
