@@ -1,53 +1,57 @@
 {
-    "updated": 1691920821,
-    "added": [
+    "updated": 1691985619,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1734411540,
-            "tms_id": "EP034917240453",
-            "description": "Naruto wants to bring Sasuke back to the village, but Sasuke burns with a desire to defeat Naruto. The truth rises to the surface during Sasuke's relentless attack.",
+            "auth_expiration_date": 1691985540,
+            "tms_id": "EP044419420040",
+            "description": "Word of Luffy and Law's alliance spreads throughout the world, Chopper and Brook race to stay ahead of the deadly gas, and Joker sends a team to rescue Caesar!",
             "title_suggest": {
                 "input": [
-                    "Rival"
+                    "Raid! An Assassin from Dressrosa!",
+                    "An Assassin from Dressrosa!",
+                    "Assassin from Dressrosa!",
+                    "from Dressrosa!",
+                    "Dressrosa!"
                 ]
             },
-            "title": "Rival",
-            "expiration_date": null,
+            "title": "Raid! An Assassin from Dressrosa!",
             "type": "episode",
+            "expiration_date": 1688893140,
             "platforms": [
                 "android",
                 "ios",
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "BQCiiDRtS9WLi62vHh7FpQ",
-            "duration": 1311.4768,
-            "episode_number": "34",
-            "original_air_date": "1691906400",
-            "auth_launch_date": 1691919000,
+            "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+            "duration": 1318.2169,
+            "episode_number": "39",
+            "original_air_date": 1685856600,
+            "auth_launch_date": 1688893200,
             "clip_order": null,
-            "airing_id": "RADS1008082300014048",
-            "media_id": "710a0f783d6e0d982272423220fbf794067cbddf",
-            "modified": 1691537058,
-            "slug": "rival",
+            "airing_id": "RADS1007052300006912",
+            "media_id": "e108e03bb4391fc3e6b0d50c85239a8640d9dd05",
+            "modified": 1690228725,
+            "slug": "raid-an-assassin-from-dressrosa",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_238785511-ASGenericThumb.png",
-            "created": 1691412907,
-            "season_number": "8",
-            "title_id": "2177880",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230604/thumbnails/1_23641123299-OnePieceEngl618.Still001tiny.png",
+            "created": 1685376855,
+            "title_id": "2402510",
+            "season_number": "16",
             "tv_rating": "tv-pg",
-            "published": 1691537058,
+            "published": 1690228725,
             "tags": [],
-            "collection_title": "Naruto: Shippuden",
+            "collection_title": "One Piece",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238785511-ASGenericThumb.png",
-            "id": "AYnQEMds2rZC6NyF61-c",
+            "launch_date": 1687683600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20230604/thumbnails/2_23641123299-OnePieceEngl618.Still001tiny.png",
+            "id": "AYhoSe4z2rZC6NyF619W",
             "auth": true,
-            "collection_slug": "naruto-shippuden",
-            "collection_title_id": "812206",
+            "collection_slug": "one-piece",
+            "collection_title_id": "608007",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
