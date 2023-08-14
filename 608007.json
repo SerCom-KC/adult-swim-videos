@@ -395,11 +395,7 @@
     },
     {
         "auth_expiration_date": 1693731540,
-        "created": 1691528618,
         "tms_id": "EP044419420049",
-        "title_id": "2402519",
-        "season_number": "16",
-        "tv_rating": "tv-pg-l",
         "description": "Breed has Luffy, Trafalgar, and Chopper firmly in his grasp with his Peto-Peto power!",
         "title_suggest": {
             "input": [
@@ -414,21 +410,38 @@
                 "Apart!"
             ]
         },
-        "published": 1691536435,
         "title": "Luffy Dies at Sea?! The Pirate Alliance Comes Apart!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1315.2806,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "48",
         "original_air_date": 1691904600,
         "auth_launch_date": 1691917200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1008082300014046",
         "media_id": "1424c3c4ab1f727d44e04ff04e36e2fbb31580cb",
-        "modified": 1691536435,
+        "modified": 1692029090,
         "slug": "luffy-dies-at-sea-the-pirate-alliance-comes-apart",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230814/thumbnails/1_23814124307-ONEPIECELuffyDiesatSeaThePirateAllianceComesApart.png",
+        "created": 1691528618,
+        "title_id": "2402519",
+        "season_number": "16",
+        "tv_rating": "tv-pg-l",
+        "published": 1692029090,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230814/thumbnails/2_23814124307-ONEPIECELuffyDiesatSeaThePirateAllianceComesApart.png",
         "id": "AYnW9mGl2rZC6NyF61-m",
         "auth": true
     }
