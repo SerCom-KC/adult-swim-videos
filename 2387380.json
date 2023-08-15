@@ -51,54 +51,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1692071940,
-        "tms_id": "EP042756160005",
-        "description": "A pair of twins walk into a restaurant. This isn't the start of a joke, or even a story by Ernest Hemingway - it's the start of the next episode of Lupin the 3rd Part 6!",
-        "title_suggest": {
-            "input": [
-                "The Killers in the Diner",
-                "Killers in the Diner",
-                "in the Diner",
-                "the Diner",
-                "Diner"
-            ]
-        },
-        "title": "The Killers in the Diner",
-        "expiration_date": 1655627340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
-        "duration": 1288.287,
-        "episode_number": "4",
-        "original_air_date": "1652590800",
-        "auth_launch_date": 1686024000,
-        "clip_order": null,
-        "airing_id": "RADS1006012300099802",
-        "media_id": "eade833b85b93f66e850509affbf1b4572c0efca",
-        "modified": 1685659636,
-        "slug": "the-killers-in-the-diner",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/1_22511123676-LupinThe3rd_Part6_TheKillersInTheDiner.png",
-        "created": 1652286975,
-        "season_number": "1",
-        "title_id": "2387385",
-        "tv_rating": "tv-14-lv",
-        "published": 1685659636,
-        "tags": [],
-        "collection_title": "Lupin the 3rd Part 6",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1654417800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/2_22511123676-LupinThe3rd_Part6_TheKillersInTheDiner.png",
-        "id": "AYCz-m9g_0O4w1rD3SL0",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1693281540,
         "tms_id": "EP042756160007",
         "description": "More familiar faces appear as Lupin pursues the automaton clock, and soon his quest to go home turns into a far more complicated conspiracy.",
@@ -424,6 +376,52 @@
         "launch_date": 1659859200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121042339-LupinThe3rd_Part6_612_TheGhostsOfBritain.png",
         "id": "AYHy3NtIIAxeiVkFtLQR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1696305540,
+        "tms_id": "EP042756160015",
+        "description": "A bank robbery abroad becomes a family matter when a rival thief reveals a startling connection to Lupin, but tracking her down may provide more questions than answers.",
+        "title_suggest": {
+            "input": [
+                "The Mirage Women",
+                "Mirage Women",
+                "Women"
+            ]
+        },
+        "title": "The Mirage Women",
+        "expiration_date": 1662280140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYAt5pVF_0O4w1rD3SA1",
+        "duration": 1293.3921,
+        "episode_number": "14",
+        "original_air_date": "1659243600",
+        "auth_launch_date": 1692072000,
+        "clip_order": null,
+        "airing_id": "RADS1008112300014482",
+        "media_id": "6db5e273eb0e43035fe5948750475d645e751bbc",
+        "modified": 1691797783,
+        "slug": "the-mirage-women",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/1_22726141134-LupinThe3rd_Part6_614_TheMirageWomen.png",
+        "created": 1658858482,
+        "season_number": "1",
+        "title_id": "2387395",
+        "tv_rating": "tv-14-lv",
+        "published": 1691797783,
+        "tags": [],
+        "collection_title": "Lupin the 3rd Part 6",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1661070600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_22726141134-LupinThe3rd_Part6_614_TheMirageWomen.png",
+        "id": "AYI7q6mo3sQvipyea9lE",
         "auth": true
     },
     {

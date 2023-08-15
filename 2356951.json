@@ -416,17 +416,20 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1692071940,
-        "tms_id": "EP041740220025",
-        "description": "In the end, everything comes full circle.",
+        "auth_expiration_date": 1698119940,
+        "tms_id": "EP041740220020",
+        "description": "The reckoning comes, but Reg is too kind and foolish to be a bystander.",
         "title_suggest": {
             "input": [
-                "Gold"
+                "All That You Gather",
+                "That You Gather",
+                "You Gather",
+                "Gather"
             ]
         },
-        "title": "Gold",
+        "title": "All That You Gather",
         "type": "episode",
-        "expiration_date": 1678766340,
+        "expiration_date": 1678006740,
         "platforms": [
             "android",
             "ios",
@@ -434,29 +437,29 @@
             "fire-tv"
         ],
         "collection_id": "AX3EZ9dFUQa40cfnRS9e",
-        "duration": 2752.5164,
-        "episode_number": "12",
-        "original_air_date": 1676179800,
-        "auth_launch_date": 1686024000,
+        "duration": 1447.3793,
+        "episode_number": "10",
+        "original_air_date": 1674970200,
+        "auth_launch_date": 1692072000,
         "clip_order": null,
-        "airing_id": "RADS1006012300099800",
-        "media_id": "1a15bdfb77a716730b267e654eff6038c45a3908",
-        "modified": 1685662417,
-        "slug": "gold",
+        "airing_id": "RADS1008112300014484",
+        "media_id": "b46624ab17f3ce937ee182b0e7cdad1664374a93",
+        "modified": 1691798668,
+        "slug": "all-that-you-gather",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230211/thumbnails/1_23211154503-MadeInAbyss25212Still001tiny.png",
-        "created": 1675873341,
-        "title_id": "2413214",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230128/thumbnails/1_231281758124-MadeInAbyss23210Still001.png",
+        "created": 1674788437,
+        "title_id": "2413212",
         "season_number": "2",
         "tv_rating": "tv-ma-v",
-        "published": 1685662417,
+        "published": 1691798668,
         "tags": [],
         "collection_title": "Made In Abyss",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1678006800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230211/thumbnails/2_23211154503-MadeInAbyss25212Still001tiny.png",
-        "id": "AYYx1dGQuLQD-MTtYgCn",
+        "launch_date": 1676797200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230128/thumbnails/2_231281758124-MadeInAbyss23210Still001.png",
+        "id": "AYXxK3384k01GlbfzrYJ",
         "auth": true
     }
 ]
