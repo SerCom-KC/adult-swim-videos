@@ -52,7 +52,7 @@
         "cma_id": "992244"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1695182340,
         "tms_id": "EP002989350048",
@@ -157,6 +157,65 @@
         "cma_id": "991957"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1666756740,
+        "tms_id": "EP002989350057",
+        "rating": 8.877399,
+        "description": "Brendon, Jason and Melissa are assigned a family tree project in school. The assignment brings up issues that none of the kids feel like dealing with, namely--their families. Meanwhile Coach McGuirk gets laser eye surgery to correct his vision, and becomes an occasionally blind possible prophet.",
+        "title_suggest": {
+            "input": [
+                "Temporary Blindness",
+                "Blindness"
+            ]
+        },
+        "type": "episode",
+        "title": "Temporary Blindness",
+        "expiration_date": 1695182340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1350.3003003,
+        "episode_number": "12",
+        "original_air_date": 1080532800,
+        "clip_order": null,
+        "auth_launch_date": 1663732800,
+        "modified": 1691891984,
+        "media_id": "1f412fc13cb7576a08be7977f47f09e23b4f3632",
+        "airing_id": "RADS1008122300014573",
+        "id": "ShaB3_gzTe-562GVs_es0A",
+        "slug": "temporary-blindness",
+        "views": 298898,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351629123-hmovies_051.jpg",
+        "created": 1402945467,
+        "title_id": "539769",
+        "season_number": "4",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691891984,
+        "tags": [
+            "home movies",
+            "episode 51",
+            "temporary blindness",
+            "family tree",
+            "vision",
+            "eyes",
+            "doctor"
+        ],
+        "rating_count": 416,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1692158400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351629123-hmovies_051.jpg",
+        "cma_id": "992326"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1693972740,
@@ -209,63 +268,6 @@
         "launch_date": 1687924800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351625439-hmovies_042.jpg",
         "cma_id": "992080"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1692158340,
-        "tms_id": "EP002989350055",
-        "rating": 9.109473,
-        "description": "Brendon, Jason, and Melissa attend a performing arts camp where they learn that they actually know very little about the performing arts.  Meanwhile Coach McGuirk is forced to flee from a crazed group of crying men who want to hug him.",
-        "title_suggest": {
-            "input": [
-                "Camp"
-            ]
-        },
-        "type": "episode",
-        "title": "Camp",
-        "expiration_date": 1689134340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1375.5005005,
-        "episode_number": "9",
-        "original_air_date": 1073880000,
-        "clip_order": null,
-        "auth_launch_date": 1689134400,
-        "modified": 1690761518,
-        "media_id": "18d25795249ec96476c4751d8739c5ca1399ddf8",
-        "airing_id": "RADS1007072300007559",
-        "id": "v026jlEWQFaztYJy93gpUA",
-        "slug": "camp",
-        "views": 361496,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351628212-hmovies_048.jpg",
-        "created": 1402945467,
-        "title_id": "450554",
-        "season_number": "4",
-        "tv_rating": "tv-pg-v",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1690761518,
-        "tags": [
-            "home movies",
-            "episode 48",
-            "camp",
-            "performing arts",
-            "crying",
-            "hug"
-        ],
-        "rating_count": 813,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1686110400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351628212-hmovies_048.jpg",
-        "cma_id": "992162"
     },
     {
         "auth": false,

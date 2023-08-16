@@ -62,7 +62,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171440,
         "auth_expiration_date": 1695182340,
         "tms_id": "EP007959510003",
@@ -466,57 +466,6 @@
         "cma_id": "1340189"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447173180,
-        "auth_expiration_date": 1692158340,
-        "tms_id": "EP007959510043",
-        "rating": 8.905414,
-        "description": "Orel needs to discover something to honor his father about and finds it in Coach Stopframe.",
-        "title_suggest": {
-            "input": [
-                "Honor"
-            ]
-        },
-        "type": "episode",
-        "title": "Honor",
-        "expiration_date": 1689134340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 719.667334,
-        "episode_number": "13",
-        "original_air_date": 1229663700,
-        "clip_order": null,
-        "auth_launch_date": 1689134400,
-        "modified": 1690761800,
-        "media_id": "2825fd24afc8e7bc9f9c18fd41ebf59762b4ebb4",
-        "airing_id": "RADS1007072300007563",
-        "id": "JRG2oagMQ7uPMLL4FyR9Cw",
-        "slug": "honor",
-        "views": 302505,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311169345-moralorel_043.jpg",
-        "created": 1402945470,
-        "title_id": "723840",
-        "season_number": "3",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1690761800,
-        "tags": [],
-        "rating_count": 1163,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1686110400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311169345-moralorel_043.jpg",
-        "cma_id": "723840"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -739,5 +688,56 @@
         "launch_date": 1689739200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155227-moralorel_005.jpg",
         "cma_id": "1328413"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447171500,
+        "auth_expiration_date": 1672203540,
+        "tms_id": "EP007959510008",
+        "rating": 7.477528,
+        "description": "In his quest for maturity, Orel models himself after the emotionally repressed adults of Moralton.",
+        "title_suggest": {
+            "input": [
+                "Maturity"
+            ]
+        },
+        "type": "episode",
+        "title": "Maturity",
+        "expiration_date": 1695182340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 695,
+        "episode_number": "9",
+        "original_air_date": 1147666500,
+        "clip_order": null,
+        "auth_launch_date": 1669179600,
+        "modified": 1691891987,
+        "media_id": "d146c369ca0c13a8d7ba8810466659e677249575",
+        "airing_id": "RADS1008122300014569",
+        "id": "xbwO7EhRQYu_ozjGrvCuug",
+        "slug": "maturity",
+        "views": 223308,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111553169-moralorel_009.jpg",
+        "created": 1402945470,
+        "title_id": "633151",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691891987,
+        "tags": [],
+        "rating_count": 890,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1692158400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111553169-moralorel_009.jpg",
+        "cma_id": "1345060"
     }
 ]
