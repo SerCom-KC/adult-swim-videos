@@ -1341,6 +1341,61 @@
         "cma_id": "887697"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1446846720,
+        "auth_expiration_date": 1686110340,
+        "tms_id": "EP015399680005",
+        "rating": 7.52243,
+        "description": "It's not easy for Sagan being 16 & Pregnant; Tyler learns an important lesson about sexual harassment; 80s video dating makes a comeback.",
+        "title_suggest": {
+            "input": [
+                "Episode 5",
+                "5"
+            ]
+        },
+        "type": "episode",
+        "title": "Episode 5",
+        "expiration_date": 1695182340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Rjoi6usWQuWB3zhlWNeXzw",
+        "duration": 671.6255213,
+        "episode_number": "5",
+        "original_air_date": 1335756600,
+        "clip_order": null,
+        "auth_launch_date": 1670389200,
+        "modified": 1691886563,
+        "media_id": "15bfbd1933776a08a4eb9761e52f1eb079625452",
+        "airing_id": "RADS1008122300014542",
+        "id": "qORayjWkSOOT6Nnw1r-cHQ",
+        "slug": "episode-5",
+        "views": 516847,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/1_20361017590-loitersquad_105_dup-20120423.jpg",
+        "created": 1402945468,
+        "title_id": "887693",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691886563,
+        "tags": [
+            "Loiter Squad",
+            "Adult Swim"
+        ],
+        "rating_count": 4659,
+        "collection_title": "Loiter Squad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1692158400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361017590-loitersquad_105_dup-20120423.jpg",
+        "cma_id": "887693"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1446846900,
         "auth_expiration_date": 1696391940,
@@ -1415,7 +1470,7 @@
         "cma_id": "1380971"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446846600,
         "auth_expiration_date": 1707886740,
         "tms_id": "EP015399680002",
