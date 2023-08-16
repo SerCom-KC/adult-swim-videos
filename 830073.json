@@ -1215,6 +1215,50 @@
         "launch_date": 1692158400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220909/thumbnails/2_2299111163-OffTheAir_1202_Bugs.png",
         "id": "AYMizhn4IAxeiVkFtLRr",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1692763140,
+        "tms_id": "",
+        "description": "Get you some.",
+        "title_suggest": {
+            "input": [
+                "Bliss"
+            ]
+        },
+        "title": "Bliss",
+        "expiration_date": 1689739140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 650.9169,
+        "episode_number": "3",
+        "original_air_date": "1669710600",
+        "auth_launch_date": 1692158400,
+        "clip_order": null,
+        "airing_id": "RADS1008122300014523",
+        "media_id": "8883d483655b9ab518ffe8bba117f9625c655a63",
+        "modified": 1691884479,
+        "slug": "bliss",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221121/thumbnails/1_221121162227-OffTheAir_1203_Bliss.png",
+        "created": 1669064552,
+        "season_number": "12",
+        "title_id": "2396316",
+        "tv_rating": "tv-14-dlv",
+        "published": 1691884479,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1687924800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221121/thumbnails/2_221121162227-OffTheAir_1203_Bliss.png",
+        "id": "AYSb_-7tuLQD-MTtYfAX",
         "auth": true
     },
     {
@@ -1930,7 +1974,7 @@
         "cma_id": "1055761"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449259800,
         "auth_expiration_date": 1716350340,
         "tms_id": "EP014135410020",
@@ -2176,6 +2220,56 @@
         "modified_by": "ODT Listener",
         "launch_date": 1542949200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312133847-offtheair_DDWIWDD_rev032315.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1449835200,
+        "auth_expiration_date": 1692154740,
+        "tms_id": "EP014135410022",
+        "description": "There's one beneath you right now.",
+        "title_suggest": {
+            "input": [
+                "Holes"
+            ]
+        },
+        "title": "Holes",
+        "type": "episode",
+        "expiration_date": 1693367940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 717.333667,
+        "episode_number": "3",
+        "original_air_date": 1448355600,
+        "clip_order": null,
+        "auth_launch_date": 1689735600,
+        "modified": 1691884493,
+        "airing_id": "RADS1008122300014519",
+        "media_id": "292015dd955ba996eb5927407b03f1a0c33cb876",
+        "id": "sfsXRhuAS86jpUG1KlV-Cg",
+        "slug": "holes",
+        "views": 16932,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121340158-offtheair_503_dup-20151119.jpg",
+        "created": 1448038130,
+        "season_number": "5",
+        "title_id": "2064525",
+        "tv_rating": "tv-14-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1691884493,
+        "first_published": 1448038130,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1692158400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121340158-offtheair_503_dup-20151119.jpg",
         "cma_id": ""
     },
     {
