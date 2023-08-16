@@ -1,55 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1463407200,
-        "auth_expiration_date": 1692158340,
-        "tms_id": "EP018514630016",
-        "description": "When a suspicious woman in town takes a romantic interest in Sheriff, Mr. Bojenkins sets out to reveal her true intentions.",
-        "title_suggest": {
-            "input": [
-                "Fish?"
-            ]
-        },
-        "expiration_date": 1689134340,
-        "title": "Fish?",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "duration": 677.6672227,
-        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
-        "episode_number": "5",
-        "original_air_date": 1463371200,
-        "clip_order": null,
-        "auth_launch_date": 1689134400,
-        "modified": 1690761802,
-        "media_id": "e62e892075728f05a0a7b9544c3cd568c87ca257",
-        "airing_id": "RADS1007072300007580",
-        "id": "53EY3_OzSIWpTW3xGdABqw",
-        "slug": "fish",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121121592-mrpickles_207_dup-20160503.jpg",
-        "created": 1461013533,
-        "season_number": "2",
-        "title_id": "2085309",
-        "tv_rating": "tv-ma-sv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1690761802,
-        "first_published": 1463047836,
-        "tags": [],
-        "collection_title": "Mr. Pickles",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1686110400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121121592-mrpickles_207_dup-20160503.jpg",
-        "cma_id": "2085309"
-    },
-    {
         "ott_launch_date": 1520263860,
         "auth": false,
         "auth_expiration_date": 1678852740,
@@ -99,6 +49,54 @@
         "modified_by": "ODT Listener",
         "launch_date": 1691553600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15196739434518.jpg"
+    },
+    {
+        "ott_launch_date": 1520865060,
+        "auth": false,
+        "auth_expiration_date": 1679457540,
+        "tms_id": "EP018514630028",
+        "description": "When Linda goes on a shopping spree, she winds up on the run from a zombie-like mob of homeless people that want her money.",
+        "title_suggest": {
+            "input": [
+                "Gorzoth"
+            ]
+        },
+        "expiration_date": 1695182340,
+        "type": "episode",
+        "title": "Gorzoth",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "JHz2XoP1S0eNP_gXCNI-XA",
+        "duration": 664.08,
+        "episode_number": "5",
+        "original_air_date": 1520827200,
+        "auth_launch_date": 1676437200,
+        "clip_order": null,
+        "media_id": "5d45d8e890ffb15db9235e9f34e1119599522317",
+        "modified": 1691885705,
+        "airing_id": "RADS1008122300014536",
+        "id": "AWHX8ovuNWyh42wYnlDB",
+        "slug": "gorzoth",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151974646385420.jpg",
+        "created": 1519746452,
+        "season_number": "3",
+        "title_id": "2120616",
+        "tv_rating": "tv-ma-sv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691885705,
+        "tags": [],
+        "collection_title": "Mr. Pickles",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1692158400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151974646385420.jpg"
     },
     {
         "ott_launch_date": null,
@@ -341,7 +339,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1467037800,
         "auth_expiration_date": 1695182340,
         "tms_id": "EP018514630021",
