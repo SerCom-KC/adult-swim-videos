@@ -1053,7 +1053,7 @@
         "cma_id": "1410342"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1503930600,
         "auth_expiration_date": 1720583940,
         "tms_id": "SH027314480000",
@@ -2063,7 +2063,7 @@
         "cma_id": "1422624"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447783800,
         "auth_expiration_date": 1692158340,
         "tms_id": "EP008994530005",
