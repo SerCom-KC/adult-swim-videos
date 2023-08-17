@@ -1,53 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1692244740,
-        "tms_id": "EP007164450242",
-        "description": "The family competes on the reality show The Bitchin' Race. After Stan and Hayley ditch the less-motivated Steve and Francine and team up, they end up in a Tunisian labor prison.",
-        "title_suggest": {
-            "input": [
-                "The Bitchin' Race",
-                "Bitchin' Race",
-                "Race"
-            ]
-        },
-        "title": "The Bitchin' Race",
-        "type": "episode",
-        "expiration_date": 1665374340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.1,
-        "episode_number": "16",
-        "original_air_date": 1502328600,
-        "clip_order": null,
-        "auth_launch_date": 1691640000,
-        "modified": 1691473742,
-        "media_id": "a559762303882984ec371cb68aeeaee3c22d24c7",
-        "airing_id": "RADS1008072300013696",
-        "id": "05iJVgiuR_SKZhxuOw-INQ",
-        "slug": "the-bitchin-race",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151820790837919.jpg",
-        "created": 1500652856,
-        "season_number": "12",
-        "title_id": "2069552",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1691473742,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1664769600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg",
-        "cma_id": "1449885"
-    },
-    {
         "ott_launch_date": null,
         "auth_expiration_date": 1692763140,
         "tms_id": "EP007164450254",
@@ -97,6 +49,99 @@
         "launch_date": 1687752000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000730850717.jpg",
         "id": "AWBGCJbQwdpKFAKSb0FQ",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1692849540,
+        "tms_id": "EP007164450256",
+        "description": "Francine's dinner party goes awry when the mysterious Dinner Party Killer threatens it and the family.",
+        "title_suggest": {
+            "input": [
+                "Death by Dinner Party",
+                "by Dinner Party",
+                "Dinner Party",
+                "Party"
+            ]
+        },
+        "expiration_date": 1688356740,
+        "type": "episode",
+        "title": "Death by Dinner Party",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1261.727,
+        "episode_number": "7",
+        "original_air_date": 1523237400,
+        "auth_launch_date": 1692244800,
+        "clip_order": null,
+        "media_id": "e524725c55622f97e042234e1b3e0e191ba02398",
+        "modified": 1691891971,
+        "airing_id": "RADS1008122300014601",
+        "slug": "death-by-dinner-party",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152000725179111.jpg",
+        "created": 1520007234,
+        "season_number": "13",
+        "title_id": "2069560",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691891971,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1687752000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg",
+        "id": "AWHnfcH0NWyh42wYnlIQ",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1692849540,
+        "tms_id": "EP007164450255",
+        "description": "Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails.",
+        "title_suggest": {
+            "input": [
+                "Klaustastrophe.tv"
+            ]
+        },
+        "expiration_date": 1688356740,
+        "type": "episode",
+        "title": "Klaustastrophe.tv",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0952,
+        "episode_number": "6",
+        "original_air_date": 1522632600,
+        "auth_launch_date": 1692244800,
+        "clip_order": null,
+        "media_id": "9a19cd1fffb4f2e9e19f91443100246620ad253c",
+        "modified": 1691892913,
+        "airing_id": "RADS1008122300014599",
+        "slug": "klaustastrophe-tv",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152000728864112.jpg",
+        "created": 1520007277,
+        "season_number": "13",
+        "title_id": "2069559",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691892913,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1687752000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg",
+        "id": "AWHnfmza0KIGIdXCKzuM",
         "auth": true
     },
     {
@@ -901,53 +946,6 @@
         "launch_date": 1687147200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1692244740,
-        "tms_id": "EP007164450243",
-        "description": "Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes a Picker based on his obsession with American Pickers.",
-        "title_suggest": {
-            "input": [
-                "Family Plan",
-                "Plan"
-            ]
-        },
-        "title": "Family Plan",
-        "type": "episode",
-        "expiration_date": 1665979140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.1,
-        "episode_number": "17",
-        "original_air_date": 1502933400,
-        "clip_order": null,
-        "auth_launch_date": 1691640000,
-        "modified": 1691473107,
-        "media_id": "0f93080aa6b0323ad5903785a29dee7bc94ca049",
-        "airing_id": "RADS1008072300013694",
-        "id": "pGjzE7geRJu1VCwFhvFK4Q",
-        "slug": "family-plan",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151820795951913.jpg",
-        "created": 1500651817,
-        "season_number": "12",
-        "title_id": "2069548",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1691473107,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1665374400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg",
-        "cma_id": "1453904"
     },
     {
         "auth": true,
