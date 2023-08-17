@@ -1,56 +1,6 @@
 [
     {
         "auth": true,
-        "auth_expiration_date": 1692244740,
-        "tms_id": "EP002070020070",
-        "rating": 7.8343024,
-        "description": "The Hills find themselves stranded for Thanksgiving when bad weather shuts down the airport.",
-        "title_suggest": {
-            "input": [
-                "The Hank's Giving Episode",
-                "Hank's Giving Episode",
-                "Giving Episode",
-                "Episode"
-            ]
-        },
-        "type": "episode",
-        "title": "The Hank's Giving Episode",
-        "expiration_date": 1503026999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1402.401,
-        "episode_number": "7",
-        "original_air_date": 1240624800,
-        "auth_launch_date": 1691640000,
-        "clip_order": null,
-        "modified": 1691474324,
-        "media_id": "e18e163a7d64bffa9f71237ad6becf79045d9323",
-        "airing_id": "RADS1008072300013699",
-        "id": "6Cx3t4JwRqmuflEcPgseRQ",
-        "slug": "the-hanks-giving-episode",
-        "views": 121591,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220814/thumbnails/1_228141656576-Thanksmin.png",
-        "created": 1402945468,
-        "title_id": "731287",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "published": 1691474324,
-        "tags": [],
-        "rating_count": 344,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1502422200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220814/thumbnails/2_228141656576-Thanksmin.png",
-        "cma_id": "1449552"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1692503940,
         "tms_id": "EP002070020072",
         "rating": 8.643355,
@@ -230,6 +180,54 @@
         "launch_date": 1502627400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220817/thumbnails/2_228171550102-KingOfTheHill_407_ToKillALadybird.png",
         "cma_id": "1451048"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1692849540,
+        "tms_id": "EP002070020075",
+        "rating": 8.902914,
+        "description": "Bobby's passion for roping bulls turns into a quest to become a rodeo clown.",
+        "title_suggest": {
+            "input": [
+                "Rodeo Days",
+                "Days"
+            ]
+        },
+        "type": "episode",
+        "title": "Rodeo Days",
+        "expiration_date": 1503287999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.2959,
+        "episode_number": "12",
+        "original_air_date": 1240713000,
+        "auth_launch_date": 1692244800,
+        "clip_order": null,
+        "modified": 1691893782,
+        "media_id": "957a5702e6f262760f5010b0d96965f559b94104",
+        "airing_id": "RADS1008122300014606",
+        "id": "_eISbzEARYuHclf2h63nvg",
+        "slug": "rodeo-days",
+        "views": 109927,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/1_228181458394-KingOfTheHill_411_RodeoDays.png",
+        "created": 1402945468,
+        "title_id": "731298",
+        "season_number": "4",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1691893782,
+        "tags": [],
+        "rating_count": 103,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1502683200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_228181458394-KingOfTheHill_411_RodeoDays.png",
+        "cma_id": "1451252"
     },
     {
         "auth": true,

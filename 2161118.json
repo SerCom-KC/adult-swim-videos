@@ -217,7 +217,7 @@
         "launch_date": 1692244800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191107/thumbnails/2_191171113166-joeperatalks_201_dup-20191021.jpg",
         "id": "AW5GpFel1YiBSfg0KYRw",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -923,7 +923,7 @@
     },
     {
         "ott_launch_date": 1528122660,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1708577940,
         "tms_id": "EP029506900006",
         "description": "In which Joe Pera reads the announcements at church (second Sunday of Advent).",

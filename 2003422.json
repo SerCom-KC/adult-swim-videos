@@ -150,54 +150,6 @@
         "auth": false
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1692244740,
-        "tms_id": "EP012792980041",
-        "description": "Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina).",
-        "title_suggest": {
-            "input": [
-                "Topsy"
-            ]
-        },
-        "expiration_date": 1664164740,
-        "title": "Topsy",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.9563,
-        "episode_number": "16",
-        "original_air_date": 1384831800,
-        "clip_order": null,
-        "auth_launch_date": 1691640000,
-        "modified": 1691474329,
-        "media_id": "094b5c412cdacb681041f2863bbd80f982e38076",
-        "airing_id": "RADS1008072300013702",
-        "id": "AnzNezb8RtW7UnMxRfuf3A",
-        "slug": "topsy",
-        "views": 7070,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085647121414.jpg",
-        "created": 1403211172,
-        "season_number": "3",
-        "title_id": "2003527",
-        "tv_rating": "tv-pg-dlsv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1691474329,
-        "first_published": 1419222027,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1663560000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085647121414.jpg",
-        "cma_id": "2003527"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1692676740,
@@ -442,6 +394,52 @@
         "launch_date": 1664769600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg",
         "cma_id": "2003533"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1692849540,
+        "tms_id": "EP012792980051",
+        "description": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt,\" the most charming pilot in the air.",
+        "title_suggest": {
+            "input": [
+                "Seaplane!"
+            ]
+        },
+        "title": "Seaplane!",
+        "type": "episode",
+        "expiration_date": 1666583940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1294.8269,
+        "episode_number": "3",
+        "original_air_date": 1410744600,
+        "auth_launch_date": 1692244800,
+        "clip_order": null,
+        "modified": 1691892914,
+        "media_id": "04718512dcc45036018c4e92099724090fd93b84",
+        "airing_id": "RADS1008122300014609",
+        "id": "ifvc24W8Q-qBRnvUpRjLcw",
+        "slug": "seaplane",
+        "views": 6916,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151267538029215.jpg",
+        "created": 1410751254,
+        "title_id": "2030306",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691892914,
+        "first_published": 1410751254,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1665979200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267538029215.jpg",
+        "cma_id": "2030306"
     },
     {
         "auth": true,
