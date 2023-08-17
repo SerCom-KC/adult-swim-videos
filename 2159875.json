@@ -396,7 +396,7 @@
         "launch_date": 1689220800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153080495367117.jpg",
         "id": "AWRc13fHTdxzjxdCmuVQ",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1531751340,
@@ -493,6 +493,54 @@
         "modified_by": "ODT Listener",
         "launch_date": 1691640000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312105137-mostly4millennials_105_air_cid-3FR5V.jpg"
+    },
+    {
+        "ott_launch_date": 1532356140,
+        "auth": false,
+        "auth_expiration_date": 1691879809,
+        "tms_id": "EP029829490008",
+        "description": "Millennial hero Derrick Beckles interviews Rah Ali and has a very special millennial flash mob.",
+        "title_suggest": {
+            "input": [
+                "Empowerment"
+            ]
+        },
+        "expiration_date": 1695268740,
+        "type": "episode",
+        "title": "Empowerment",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWPW8JhjqBveI_0AhKbg",
+        "duration": 675.4,
+        "episode_number": "8",
+        "original_air_date": 1532319300,
+        "auth_launch_date": 1690430400,
+        "clip_order": null,
+        "media_id": "3a2cee6aae9466a4e7a1d8412cf6ea16d26ae48f",
+        "modified": 1691893475,
+        "airing_id": "RADS1008122300014633",
+        "id": "AWRhpmIwTdxzjxdCmvTI",
+        "slug": "empowerment",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121051394-mostly4millennials_107_air_cid-3FR4W.jpg",
+        "created": 1530646651,
+        "season_number": "1",
+        "title_id": "2160052",
+        "tv_rating": "tv-ma-lsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691893475,
+        "tags": [],
+        "collection_title": "Mostly 4 Millennials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1692244800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121051394-mostly4millennials_107_air_cid-3FR4W.jpg"
     },
     {
         "ott_launch_date": null,
