@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1692331140,
-        "tms_id": "EP003034830076",
-        "description": "Bender and the new owners of Planet Express hatch a plan to steal ancient riches. Lars and Leela's romance takes off.",
-        "title_suggest": {
-            "input": [
-                "Bender's Big Score Part 2",
-                "Big Score Part 2",
-                "Score Part 2",
-                "Part 2",
-                "2"
-            ]
-        },
-        "title": "Bender's Big Score Part 2",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1348.7141,
-        "episode_number": "2",
-        "original_air_date": 1641177000,
-        "auth_launch_date": 1691726400,
-        "clip_order": null,
-        "airing_id": "RADS1008082300013870",
-        "media_id": "d26e07b2425a30d92e96ed20c9413e79f12b9ace",
-        "modified": 1691524438,
-        "slug": "benders-big-score-part-2",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/1_2213178271-Futurama_602_BendersBigScore_Part2.png",
-        "created": 1641157192,
-        "title_id": "2161605",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1691524438,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220103/thumbnails/2_2213178271-Futurama_602_BendersBigScore_Part2.png",
-        "id": "AX4cl2xvdpBG7hfWGhgT",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1692417540,
         "tms_id": "EP003034830077",
         "description": "As Leela and Lars prepare to get married, we learn what happened to Fry when he returned to the 21st century.",
@@ -141,6 +93,57 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161626567-Futurama_604_BendersBigScore_Part4.png",
         "id": "AX4xSdr0208s7zyYUL9X",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1692935940,
+        "tms_id": "EP003034830081",
+        "description": "The world watches in terror as billions of tentacles emerge from the anomaly. Leela, Amy, and Zap become the only resistance.",
+        "title_suggest": {
+            "input": [
+                "The Beast with a Billion Backs Part 3",
+                "Beast with a Billion Backs Part 3",
+                "with a Billion Backs Part 3",
+                "a Billion Backs Part 3",
+                "Billion Backs Part 3",
+                "Backs Part 3",
+                "Part 3",
+                "3"
+            ]
+        },
+        "title": "The Beast with a Billion Backs Part 3",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.084,
+        "episode_number": "7",
+        "original_air_date": 1642989600,
+        "auth_launch_date": 1692331200,
+        "clip_order": null,
+        "airing_id": "RADS1008132300014709",
+        "media_id": "e17b8873402e857d831d0c0f8243593ec85dd43a",
+        "modified": 1691957084,
+        "slug": "the-beast-with-a-billion-backs-part-3",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/1_221211618157-Futurama_607_TheBeastWithABillionBacks_Part3.png",
+        "created": 1642781348,
+        "title_id": "2161610",
+        "season_number": "6",
+        "tv_rating": "tv-14-dsv",
+        "published": 1691957084,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211618157-Futurama_607_TheBeastWithABillionBacks_Part3.png",
+        "id": "AX59ZhRp_0O4w1rD3RcO",
         "auth": true
     },
     {
