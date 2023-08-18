@@ -2788,6 +2788,56 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1692417599,
+        "tms_id": "EP007008180129",
+        "description": "Early achieves enlightenment, then shoves it down everyone else's throat.",
+        "title_suggest": {
+            "input": [
+                "Zen and the Art of Truck-Boat-Truck Maintenance",
+                "and the Art of Truck-Boat-Truck Maintenance",
+                "the Art of Truck-Boat-Truck Maintenance",
+                "Art of Truck-Boat-Truck Maintenance",
+                "of Truck-Boat-Truck Maintenance",
+                "Truck-Boat-Truck Maintenance",
+                "Maintenance"
+            ]
+        },
+        "title": "Zen and the Art of Truck-Boat-Truck Maintenance",
+        "expiration_date": 1691207940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 670.8368,
+        "episode_number": "5",
+        "original_air_date": "1637557200",
+        "auth_launch_date": 1691208000,
+        "clip_order": null,
+        "airing_id": "RADS1007312300012756",
+        "media_id": "d1be415ea39d65352bbe627fbf1cc10f00021699",
+        "modified": 1692384113,
+        "slug": "zen-and-the-art-of-truck-boat-truck-maintenance",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png",
+        "created": 1637340017,
+        "season_number": "13",
+        "title_id": "2323126",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1692384113,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1690603200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png",
+        "id": "AX05EfIH4Xbjep71f6Hg",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1693022399,
         "tms_id": "EP007008180130",
         "description": "Sheriff does.",
