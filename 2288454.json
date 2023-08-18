@@ -194,7 +194,7 @@
         "launch_date": 1692331200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230728/thumbnails/2_2372896386-MAWS105.png",
         "id": "AYkm0YCs2rZC6NyF61-A",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1691726340,
@@ -292,6 +292,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782138-MAWS106.png",
         "id": "AYmqaR6COz5CkuTcnwbI",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1694145540,
+        "tms_id": "",
+        "description": "Lois meets her journalism idol, Vicki Vale - only for Vicki to make Lois question her loyalty to Superman. Meanwhile, Superman hunts down Task Force X while dealing with a new power!",
+        "title_suggest": {
+            "input": [
+                "Zero Day: Part One",
+                "Day: Part One",
+                "Part One",
+                "One"
+            ]
+        },
+        "title": "Zero Day: Part One",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1351.8505,
+        "episode_number": "8",
+        "original_air_date": "1692331200",
+        "auth_launch_date": 1692331200,
+        "clip_order": null,
+        "airing_id": "RADS1008132300014698",
+        "media_id": "69fd2511a95e9b5caecd0fd59e8b35827768ba6d",
+        "modified": 1691954088,
+        "slug": "zero-day-part-one",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_238782363-AS_MAWS_08_ZeroDayPt1-8.jpg",
+        "created": 1691410989,
+        "season_number": "1",
+        "title_id": "2288462",
+        "tv_rating": "tv-pg",
+        "published": 1691954088,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782363-AS_MAWS_08_ZeroDayPt1-8.jpg",
+        "id": "AYnP84Ib2rZC6NyF61-Z",
         "auth": true
     },
     {
