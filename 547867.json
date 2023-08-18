@@ -1,59 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": 1451682480,
-        "auth_expiration_date": 1692331140,
-        "tms_id": "EP007008200031",
-        "rating": 8.376269,
-        "description": "Tom tries to sell novelty beverage cups at the Mall while the Mayor celebrates Jefferton's 30th anniversary by looking for the perfect painting.",
-        "title_suggest": {
-            "input": [
-                "My Big Cups",
-                "Big Cups",
-                "Cups"
-            ]
-        },
-        "type": "episode",
-        "title": "My Big Cups",
-        "expiration_date": 1689307140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 672.31,
-        "episode_number": "10",
-        "original_air_date": 1149481800,
-        "clip_order": null,
-        "auth_launch_date": 1689307200,
-        "modified": 1690763029,
-        "airing_id": "RADS1007072300007987",
-        "media_id": "6d21b0c541fb5121847f4c96db1dcc3605008a16",
-        "id": "59TV43eaTUqnZu-N1sHVGg",
-        "slug": "my-big-cups",
-        "views": 146045,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117956400-tgttm_023.jpg",
-        "created": 1402945482,
-        "title_id": "639406",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1690763029,
-        "tags": [
-            "tom goes to the mayor episode 23 my big cups beverage 30th anniversary mall painting"
-        ],
-        "rating_count": 396,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1686283200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956400-tgttm_023.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": false,
         "ott_launch_date": 1451682780,
         "auth_expiration_date": 1679630340,
@@ -213,6 +159,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451682420,
+        "auth_expiration_date": 1680235140,
+        "tms_id": "EP007008200025",
+        "rating": 7.444068,
+        "description": "Tom and the Mayor team up to renovate the Public Zoo.",
+        "title_suggest": {
+            "input": [
+                "Zoo Trouble",
+                "Trouble"
+            ]
+        },
+        "type": "episode",
+        "title": "Zoo Trouble",
+        "expiration_date": 1695355140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 686.29,
+        "episode_number": "7",
+        "original_air_date": 1155529800,
+        "clip_order": null,
+        "auth_launch_date": 1677214800,
+        "modified": 1691958276,
+        "airing_id": "RADS1008132300014753",
+        "media_id": "87d50d4e5b1618835c24ab5c96c906271e6fba38",
+        "id": "WZ6Le8FZTJaA7X_j-EvuBQ",
+        "slug": "zoo-trouble",
+        "views": 94556,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117955444-tgttm_020.jpg",
+        "created": 1402945482,
+        "title_id": "633327",
+        "season_number": "2",
+        "tv_rating": "tv-pg-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1691958276,
+        "tags": [
+            "tom goes to the mayor episode 20 zoo trouble public animals clean renovate"
+        ],
+        "rating_count": 295,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1692331200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117955444-tgttm_020.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1451682420,
         "auth_expiration_date": 1695355140,
         "tms_id": "EP007008200020",

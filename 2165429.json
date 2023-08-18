@@ -143,7 +143,7 @@
         "launch_date": 1689307200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325290303410.jpg",
         "id": "AWdRDFzzqD68dq0Op5gw",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -623,6 +623,56 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1545838200,
+        "auth_expiration_date": 1690516740,
+        "tms_id": "",
+        "description": "Did you know that if you hold your mother against your ear and listen closely, you can hear your dead father softly crying \"my child has gone banana\"?",
+        "title_suggest": {
+            "input": [
+                "Tow and Shell",
+                "and Shell",
+                "Shell"
+            ]
+        },
+        "title": "Tow and Shell",
+        "expiration_date": 1695355140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
+        "duration": 676.46,
+        "episode_number": "5",
+        "original_air_date": 1545627600,
+        "auth_launch_date": 1687492800,
+        "clip_order": null,
+        "media_id": "c90e090fe747cdfb1b0177794e22bc65f225a87b",
+        "modified": 1691957996,
+        "airing_id": "RADS1008132300014726",
+        "slug": "tow-and-shell",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15452410357433.jpg",
+        "created": 1544124188,
+        "season_number": "1",
+        "title_id": "2172251",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691957996,
+        "tags": [],
+        "collection_title": "The Shivering Truth",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1692331200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15452410357433.jpg",
+        "id": "AWeE-UjTqD68dq0Op5wD",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1545060600,
         "auth_expiration_date": 1689307140,
         "tms_id": "EP029602990004",
@@ -904,52 +954,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154758686302911.jpg",
         "id": "AWhTXQzcAScUIg8XxcCO",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1692331140,
-        "tms_id": "EP029602990011",
-        "description": "Birth is mommy's most romantic meat cute and mankind's hottest selfie.",
-        "title_suggest": {
-            "input": [
-                "Carrion My Son",
-                "My Son",
-                "Son"
-            ]
-        },
-        "title": "Carrion My Son",
-        "expiration_date": 1689307140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWbBo9hq3OEkyfT4p_Ly",
-        "duration": 675.4748,
-        "episode_number": "2",
-        "original_air_date": "1589774400",
-        "auth_launch_date": 1689307200,
-        "clip_order": null,
-        "airing_id": "RADS1007072300007873",
-        "media_id": "15cbef7741d8e4b7aafaeea38c0b89a49c123a7a",
-        "modified": 1690763029,
-        "slug": "carrion-my-son",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/1_2056104967-TheShiveringTruth_202_dup-20200214.jpg",
-        "created": 1588776550,
-        "season_number": "2",
-        "title_id": "2222976",
-        "tv_rating": "tv-ma-sv",
-        "published": 1690763029,
-        "tags": [],
-        "collection_title": "The Shivering Truth",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1686283200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200506/thumbnails/2_2056104967-TheShiveringTruth_202_dup-20200214.jpg",
-        "id": "AXHqdkC8C8QgH-t19IuW",
-        "auth": true
     },
     {
         "auth_expiration_date": 1692935940,
