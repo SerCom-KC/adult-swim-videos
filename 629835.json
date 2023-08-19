@@ -106,68 +106,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1692417540,
-        "tms_id": "EP002070020073",
-        "rating": 8.687247,
-        "description": "Bobby befriends a wild raccoon that may or may not have infected Ladybird and Dale with rabies.",
-        "title_suggest": {
-            "input": [
-                "To Kill a Ladybird",
-                "Kill a Ladybird",
-                "a Ladybird",
-                "Ladybird"
-            ]
-        },
-        "type": "episode",
-        "title": "To Kill a Ladybird",
-        "expiration_date": 1503232199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1401.133,
-        "episode_number": "9",
-        "original_air_date": 1240540200,
-        "auth_launch_date": 1691812800,
-        "clip_order": null,
-        "modified": 1691539115,
-        "media_id": "2d4e51954484ebc7c893d61988507d982138864e",
-        "airing_id": "RADS1008082300013972",
-        "id": "OWa1LHuKTJCsVr__S70igA",
-        "slug": "to-kill-a-ladybird",
-        "views": 200212,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220817/thumbnails/1_228171550102-KingOfTheHill_407_ToKillALadybird.png",
-        "created": 1402945468,
-        "title_id": "731289",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1691539115,
-        "tags": [
-            "king of the hill",
-            " to kill a ladybird",
-            " bobby",
-            " raccoon",
-            " infect",
-            " ladybird",
-            " dale",
-            " rabies"
-        ],
-        "rating_count": 486,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1502627400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220817/thumbnails/2_228171550102-KingOfTheHill_407_ToKillALadybird.png",
-        "cma_id": "1451048"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1692849540,
         "tms_id": "EP002070020075",
         "rating": 8.902914,
@@ -213,6 +151,58 @@
         "launch_date": 1502683200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_228181458394-KingOfTheHill_411_RodeoDays.png",
         "cma_id": "1451252"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1693022340,
+        "tms_id": "EP002070020077",
+        "rating": 8.962763,
+        "description": "Hank becomes the prime suspect in Debbie's murder.",
+        "title_suggest": {
+            "input": [
+                "High Anxiety (2)",
+                "Anxiety (2)",
+                "(2)"
+            ]
+        },
+        "type": "episode",
+        "title": "High Anxiety (2)",
+        "expiration_date": 1503458999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1387.653,
+        "episode_number": "14",
+        "original_air_date": 1240884000,
+        "clip_order": null,
+        "auth_launch_date": 1692417600,
+        "modified": 1691994290,
+        "media_id": "42a15e458c83c2ef1f7c4156ddee645d2102be7a",
+        "airing_id": "RADS1008142300014771",
+        "id": "oDKZ2GonTEKOyx_Jb24G2A",
+        "slug": "high-anxiety-2",
+        "views": 259554,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15180332135849.jpg",
+        "created": 1402945468,
+        "title_id": "731311",
+        "season_number": "4",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1691994290,
+        "tags": [
+            "king of the hill episode high anxiety season 4 murder debbie"
+        ],
+        "rating_count": 376,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1502854200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180332135849.jpg",
+        "cma_id": "1451895"
     },
     {
         "auth": true,

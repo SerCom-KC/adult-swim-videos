@@ -380,7 +380,7 @@
         "cma_id": "2108965"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447442520,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180003",
@@ -2788,56 +2788,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1692417599,
-        "tms_id": "EP007008180129",
-        "description": "Early achieves enlightenment, then shoves it down everyone else's throat.",
-        "title_suggest": {
-            "input": [
-                "Zen and the Art of Truck-Boat-Truck Maintenance",
-                "and the Art of Truck-Boat-Truck Maintenance",
-                "the Art of Truck-Boat-Truck Maintenance",
-                "Art of Truck-Boat-Truck Maintenance",
-                "of Truck-Boat-Truck Maintenance",
-                "Truck-Boat-Truck Maintenance",
-                "Maintenance"
-            ]
-        },
-        "title": "Zen and the Art of Truck-Boat-Truck Maintenance",
-        "expiration_date": 1691207940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 670.8368,
-        "episode_number": "5",
-        "original_air_date": "1637557200",
-        "auth_launch_date": 1691208000,
-        "clip_order": null,
-        "airing_id": "RADS1007312300012756",
-        "media_id": "d1be415ea39d65352bbe627fbf1cc10f00021699",
-        "modified": 1692385920,
-        "slug": "zen-and-the-art-of-truck-boat-truck-maintenance",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/1_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png",
-        "created": 1637340017,
-        "season_number": "13",
-        "title_id": "2323126",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1692385920,
-        "tags": [],
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1690603200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png",
-        "id": "AX05EfIH4Xbjep71f6Hg",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1693022399,
         "tms_id": "EP007008180130",
         "description": "Sheriff does.",
@@ -2879,102 +2829,6 @@
         "launch_date": 1691208000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114173-Squidbillies_1104_WhoGivesAFlip.png",
         "id": "AX05Eu-d4Xbjep71f6Hh",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1692417599,
-        "tms_id": "EP007008180132",
-        "description": "Early LARPs as a military veteran to save 10% on an omelet.",
-        "title_suggest": {
-            "input": [
-                "Scorn on the 4th of July",
-                "on the 4th of July",
-                "the 4th of July",
-                "4th of July",
-                "of July",
-                "July"
-            ]
-        },
-        "title": "Scorn on the 4th of July",
-        "type": "episode",
-        "expiration_date": 1691207940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 676.676,
-        "episode_number": "4",
-        "original_air_date": 1636953300,
-        "auth_launch_date": 1691208000,
-        "clip_order": null,
-        "airing_id": "RADS1007312300012758",
-        "media_id": "21f8d165e9b642b316b3e046fe5b2b30ff4d16a5",
-        "modified": 1692385918,
-        "slug": "scorn-on-the-4th-of-july",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png",
-        "created": 1636671011,
-        "title_id": "2323130",
-        "season_number": "13",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1692385918,
-        "tags": [],
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1690603200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png",
-        "id": "AX0RMbj4UQa40cfnRSoM",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1692417599,
-        "tms_id": "EP007008180131",
-        "description": "Early revisits the storage unit where he spent his childhood.",
-        "title_suggest": {
-            "input": [
-                "No Space Like Home",
-                "Space Like Home",
-                "Like Home",
-                "Home"
-            ]
-        },
-        "title": "No Space Like Home",
-        "type": "episode",
-        "expiration_date": 1691207940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 668.8015,
-        "episode_number": "3",
-        "original_air_date": 1636952400,
-        "auth_launch_date": 1691208000,
-        "clip_order": null,
-        "airing_id": "RADS1007312300012760",
-        "media_id": "84a915dd629c9b01d3435206c81e44aa89eb5bcf",
-        "modified": 1692385916,
-        "slug": "no-space-like-home",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/1_2111121017137-Squidbillies_1101_NoSpaceLikeHome.png",
-        "created": 1636671024,
-        "title_id": "2323125",
-        "season_number": "13",
-        "tv_rating": "tv-14-dlv",
-        "published": 1692385916,
-        "tags": [],
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1690603200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121017137-Squidbillies_1101_NoSpaceLikeHome.png",
-        "id": "AX0RMe4EUQa40cfnRSoO",
         "auth": true
     },
     {
@@ -3114,6 +2968,98 @@
         "launch_date": 1691208000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101039330-Squidbillies_1110_ThisShowWasCalledSquidbillies.png",
         "id": "AX2lABR54Xbjep71f6Hq",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1695441540,
+        "tms_id": "",
+        "description": "Early exercises his freedom of speech by speeching differently from now on.",
+        "title_suggest": {
+            "input": [
+                "One Man Banned",
+                "Man Banned",
+                "Banned"
+            ]
+        },
+        "title": "One Man Banned",
+        "expiration_date": 1691207940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 673.5062,
+        "episode_number": "1",
+        "original_air_date": "1636347600",
+        "auth_launch_date": 1692417600,
+        "clip_order": null,
+        "airing_id": "RADS1008182300016529",
+        "media_id": "11b04bcdd4c259b2d379e331d790cea411ffcff7",
+        "modified": 1692386211,
+        "slug": "one-man-banned",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181526461-Squidbillies_1109_OneManBanned.png",
+        "created": 1635444297,
+        "season_number": "13",
+        "title_id": "2323132",
+        "tv_rating": "tv-14-dlv",
+        "published": 1692386211,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1690603200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181526461-Squidbillies_1109_OneManBanned.png",
+        "id": "AXzIE4_-4Xbjep71f6HV",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1696046340,
+        "tms_id": "",
+        "description": "The Roadkill Rembrandt rides again.",
+        "title_suggest": {
+            "input": [
+                "Let 'er R.I.P.",
+                "'er R.I.P.",
+                "R.I.P."
+            ]
+        },
+        "title": "Let 'er R.I.P.",
+        "expiration_date": 1691207940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 663.4628,
+        "episode_number": "2",
+        "original_air_date": "1636348500",
+        "auth_launch_date": 1692417600,
+        "clip_order": null,
+        "airing_id": "RADS1008182300016528",
+        "media_id": "663cd8f97091bfaa081b713cab3014afdd36f54e",
+        "modified": 1692386212,
+        "slug": "let-er-r-i-p",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/1_211181527431-Squidbillies_1105_LetErRIP.png",
+        "created": 1635444359,
+        "season_number": "13",
+        "title_id": "2323129",
+        "tv_rating": "tv-14-dlv",
+        "published": 1692386212,
+        "tags": [],
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1690603200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181527431-Squidbillies_1105_LetErRIP.png",
+        "id": "AXzIFIC0UQa40cfnRSgA",
         "auth": true
     },
     {
@@ -3924,7 +3870,7 @@
         "cma_id": "1301048"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447442580,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180005",
@@ -4038,7 +3984,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447442460,
         "auth_expiration_date": 1693540740,
         "tms_id": "EP007008180002",
@@ -4980,7 +4926,7 @@
         "cma_id": "1228442"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447442820,
         "auth_expiration_date": 1692417540,
         "tms_id": "EP007008180009",
@@ -5730,7 +5676,7 @@
         "cma_id": "1385828"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447442580,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180006",
@@ -6284,7 +6230,7 @@
         "cma_id": "1435513"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447442820,
         "auth_expiration_date": 1692417540,
         "tms_id": "EP007008180008",
@@ -6994,7 +6940,7 @@
         "cma_id": "1313348"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447442520,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180004",
@@ -7048,7 +6994,7 @@
         "cma_id": "1327953"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447442820,
         "auth_expiration_date": 1692417540,
         "tms_id": "EP007008180010",
@@ -8063,7 +8009,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447442880,
         "auth_expiration_date": 1692417540,
         "tms_id": "EP007008180011",
@@ -8557,7 +8503,7 @@
         "cma_id": "1401893"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447442760,
         "auth_expiration_date": 1692417540,
         "tms_id": "EP007008180007",
