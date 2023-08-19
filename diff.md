@@ -2,33 +2,42 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 18, 2023 at 15:00:23 EDT_
+_Last Update: August 19, 2023 at 00:00:22 EDT_
 ## Video added
 ### Summary
-581268 Squidbillies: 3  
-### 2323125
-**Squidbillies S13E03 - No Space Like Home**  
-TV-14-DLV 🔒 11:08  
-⌛ August 18, 2023 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/no-space-like-home  
-seriesid=`581268` titleid=`2323125` id=`AX0RMe4EUQa40cfnRSoO` mediaid=`84a915dd629c9b01d3435206c81e44aa89eb5bcf`  
-_Early revisits the storage unit where he spent his childhood._  
-<a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121017137-Squidbillies_1101_NoSpaceLikeHome.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121017137-Squidbillies_1101_NoSpaceLikeHome.png" height="144px" /></a>
-### 2323130
-**Squidbillies S13E04 - Scorn on the 4th of July**  
-TV-14-DLSV 🔒 11:16  
-⌛ August 18, 2023 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/scorn-on-the-4th-of-july  
-seriesid=`581268` titleid=`2323130` id=`AX0RMbj4UQa40cfnRSoM` mediaid=`21f8d165e9b642b316b3e046fe5b2b30ff4d16a5`  
-_Early LARPs as a military veteran to save 10% on an omelet._  
-<a href="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png"><img src="https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png" height="144px" /></a>
-### 2323126
-**Squidbillies S13E05 - Zen and the Art of Truck-Boat-Truck Maintenance**  
-TV-14-DLSV 🔒 11:10  
-⌛ August 18, 2023 at 23:59:59 EDT  
-https://www.adultswim.com/videos/squidbillies/zen-and-the-art-of-truck-boat-truck-maintenance  
-seriesid=`581268` titleid=`2323126` id=`AX05EfIH4Xbjep71f6Hg` mediaid=`d1be415ea39d65352bbe627fbf1cc10f00021699`  
-_Early achieves enlightenment, then shoves it down everyone else's throat._  
-<a href="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png"><img src="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_2111191139368-Squidbillies_1102_ZenAndTheArtOfTruckBoatTruckMaintenance.png" height="144px" /></a>
+2003422 Bob's Burgers: 2  
+### 2030310
+**Bob's Burgers S04E07 - Bob and Deliver**  
+ 🔒 21:34  
+⌛ August 25, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/bob-and-deliver  
+seriesid=`2003422` titleid=`2030310` id=`t7ZWm1IkQce4crIKMFrpPA` mediaid=`d494b26dfd04bf3c0821d98be5ab97630a711655`  
+_To Tina's delight, Bob becomes the substitute "Home Ec" teacher at her school and ends up creating a full-scale restaurant in the classroom. However, her excitement is short-lived as Bob's position causes father/daughter friction. But when Gene and Louise go to work for Bob's "school" restaurant, Linda must fend for herself at the family's other restaurant (aka Bob's Burgers)._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187080847379.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187080847379.jpg" height="144px" /></a>
+### 2030307
+**Bob's Burgers S04E06 - Purple Rain-Union**  
+TV-14 🔒 21:31  
+⌛ August 25, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/purple-rain-union  
+seriesid=`2003422` titleid=`2030307` id=`v0G53m0sSreGe4zKqAbsxw` mediaid=`7289c265db498136b3e379f3bef3020e77690b3c`  
+_In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2003422 Bob's Burgers: 2  
+### 2003531
+**Bob's Burgers S03E20 - The Kids Run the Restaurant**  
+TV-14 🔒 21:29  
+⌛ August 18, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-kids-run-the-restaurant  
+seriesid=`2003422` titleid=`2003531` id=`xXhbXgStQBmYQ3FeQ7Sm4Q` mediaid=`dbf53cae00ad8e515fcd15b5d88cdd663abb2cc8`  
+_After Bob cuts his finger and faints at the sight of his own blood, Linda brings him to the hospital and leaves the kids home alone. Not ones to waste a golden opportunity, Tina, Gene and Louise transform the basement of the restaurant into a makeshift casino. But they get more than they gamble for when landlord Mr. Fischoeder stops by and catches them in action._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566392962.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566392962.jpg" height="144px" /></a>
+### 2003530
+**Bob's Burgers S03E19 - Family Fracas**  
+TV-PG 🔒 21:30  
+⌛ August 18, 2023 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/family-fracas  
+seriesid=`2003422` titleid=`2003530` id=`x_pBEtntRmy63BcgzbNs6w` mediaid=`57c069252810931127d487bc3ed4f4c412abdeac`  
+_After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show "Family Fracas!" To the dismay of the program's host, they keep winning and coming back each night - that is, until their lucky streak comes to a suspicious end._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085661885510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085661885510.jpg" height="144px" /></a>
