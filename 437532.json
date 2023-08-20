@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1692503940,
-        "tms_id": "EP003034830078",
-        "description": "Alien scammers buy the planet and banish its inhabitants to Neptune, leading to an intergalactic battle for Earth.",
-        "title_suggest": {
-            "input": [
-                "Bender's Big Score Part 4",
-                "Big Score Part 4",
-                "Score Part 4",
-                "Part 4",
-                "4"
-            ]
-        },
-        "title": "Bender's Big Score Part 4",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1346.0114,
-        "episode_number": "4",
-        "original_air_date": "1641781800",
-        "auth_launch_date": 1691899200,
-        "clip_order": null,
-        "airing_id": "RADS1008092300014059",
-        "media_id": "9461658c8fe18f270d2b783a47bbf52ee72fb643",
-        "modified": 1691604506,
-        "slug": "benders-big-score-part-4",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161626567-Futurama_604_BendersBigScore_Part4.png",
-        "created": 1641504430,
-        "season_number": "6",
-        "title_id": "2161607",
-        "tv_rating": "tv-14-dlv",
-        "published": 1691604506,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161626567-Futurama_604_BendersBigScore_Part4.png",
-        "id": "AX4xSdr0208s7zyYUL9X",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1693022340,
         "tms_id": "EP003034830082",
         "description": "Everybody in the Universe and Yivo live together happily, except for a skeptical Leela. Bender misses the humans.",
@@ -249,6 +201,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_22113165212-Futurama_606_TheBeastWithABillionBacks_Part2.png",
         "id": "AX5VbT7F_0O4w1rD3RXN",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1693108740,
+        "tms_id": "EP003034830102",
+        "description": "When Leela loses her cool over some redneck bullies, Farnsworth orders her to wear an electrical collar to help control her temper; and Bender loses his mind over Dungeons and Dragons.",
+        "title_suggest": {
+            "input": [
+                "Bender's Game Part 1",
+                "Game Part 1",
+                "Part 1",
+                "1"
+            ]
+        },
+        "title": "Bender's Game Part 1",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "9",
+        "original_air_date": "1643594400",
+        "auth_launch_date": 1692504000,
+        "clip_order": null,
+        "airing_id": "RADS1008142300015055",
+        "media_id": "929e59ce7e2db2c50ed4d64cffa35a0b15cd83fb",
+        "modified": 1692078572,
+        "slug": "benders-game-part-1",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_2212716054-Futurama_609_BendersGame_Part1.png",
+        "created": 1643317215,
+        "season_number": "6",
+        "title_id": "2161612",
+        "tv_rating": "tv-14-dlv",
+        "published": 1692078572,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png",
+        "id": "AX6dVsFb_0O4w1rD3Rg9",
         "auth": true
     }
 ]
