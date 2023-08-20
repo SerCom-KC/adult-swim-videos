@@ -51,60 +51,6 @@
         "cma_id": "1451685"
     },
     {
-        "auth": false,
-        "auth_expiration_date": 1692503940,
-        "tms_id": "EP002070020072",
-        "rating": 8.643355,
-        "description": "Y2K panic grips the Hills and their friends as the new millennium approaches.",
-        "title_suggest": {
-            "input": [
-                "Hillennium"
-            ]
-        },
-        "type": "episode",
-        "title": "Hillennium",
-        "expiration_date": 1503233999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1398.0299,
-        "episode_number": "10",
-        "original_air_date": 1240711200,
-        "auth_launch_date": 1691899200,
-        "clip_order": null,
-        "modified": 1691604500,
-        "media_id": "b9191fb5306056805006efe6173cfedfd18ad106",
-        "airing_id": "RADS1008092300014061",
-        "id": "Bg6LcKaFRy2Fz8b9ZLb7wA",
-        "slug": "hillennium",
-        "views": 163427,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220817/thumbnails/1_228171551276-KingOfTheHill_410_Hillennium.png",
-        "created": 1402945468,
-        "title_id": "731290",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "published": 1691604500,
-        "tags": [
-            "king of the hill",
-            " hillennium",
-            " y2k",
-            " millennium",
-            " panic",
-            " hills"
-        ],
-        "rating_count": 286,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1502629200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220817/thumbnails/2_228171551276-KingOfTheHill_410_Hillennium.png",
-        "cma_id": "1450996"
-    },
-    {
         "auth": true,
         "auth_expiration_date": 1692849540,
         "tms_id": "EP002070020075",
@@ -151,6 +97,67 @@
         "launch_date": 1502683200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220818/thumbnails/2_228181458394-KingOfTheHill_411_RodeoDays.png",
         "cma_id": "1451252"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1693108740,
+        "tms_id": "EP002070020078",
+        "rating": 8.187448,
+        "description": "Complications ensue when Bobby accidentally sees a naked Luanne; Boomhauer and his friends end up in a mental ward.",
+        "title_suggest": {
+            "input": [
+                "Naked Ambition",
+                "Ambition"
+            ]
+        },
+        "type": "episode",
+        "title": "Naked Ambition",
+        "expiration_date": 1503545399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.2959,
+        "episode_number": "15",
+        "original_air_date": 1240797600,
+        "auth_launch_date": 1692504000,
+        "clip_order": null,
+        "modified": 1692079488,
+        "media_id": "f4149e2284422c4a2c4fb1f1dc28a171ce1ec4ca",
+        "airing_id": "RADS1008142300015053",
+        "id": "j58v_NamT2GQ15tC6WxwsQ",
+        "slug": "naked-ambition",
+        "views": 337428,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803324154115.jpg",
+        "created": 1402945468,
+        "title_id": "731312",
+        "season_number": "4",
+        "tv_rating": "tv-pg-d",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1692079488,
+        "tags": [
+            "king of the hill",
+            " naked ambition",
+            " season 4",
+            " episode 12",
+            " bobby",
+            " accident",
+            " naked",
+            " luanne",
+            " boomhauer",
+            " mental",
+            " ward"
+        ],
+        "rating_count": 1243,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1502940600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803324154115.jpg",
+        "cma_id": "1453799"
     },
     {
         "auth": true,
