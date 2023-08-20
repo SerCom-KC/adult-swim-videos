@@ -226,7 +226,7 @@
         "launch_date": 1690705800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230712/thumbnails/2_237121013479-DR.STONE40ScienceVesselPerseus.png",
         "id": "AYkmTmLHOz5CkuTcnwH_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1693123140,
@@ -370,7 +370,7 @@
         "launch_date": 1692518400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230801/thumbnails/2_238192923-Dr.StoneRayofDespairRayofHope.png",
         "id": "AYlzongm2rZC6NyF61-E",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1693727940,
@@ -415,6 +415,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20230814/thumbnails/2_23814115997-Dr.StoneBeautifulScience.png",
         "id": "AYnQAHn22rZC6NyF61-b",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1694332740,
+        "tms_id": "EP047257420010",
+        "description": "Amaryllis, Ginro and Kohaku are chosen to join the inner palace. The science team will need a way to communicate with them in secret, and, eventually, a way for them with the science team.",
+        "title_suggest": {
+            "input": [
+                "SCIENCE WARS",
+                "WARS"
+            ]
+        },
+        "title": "SCIENCE WARS",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWyrt2Uc4aLemgzOLGQm",
+        "duration": 1343.8425,
+        "episode_number": "10",
+        "original_air_date": "1692505800",
+        "auth_launch_date": 1692518400,
+        "clip_order": null,
+        "airing_id": "RADS1008142300015040",
+        "media_id": "fab7b846957a0783f3fe8c6641566b3392449fcf",
+        "modified": 1692043765,
+        "slug": "science-wars",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_2387837335-ASGenericThumb.png",
+        "created": 1691411862,
+        "season_number": "3",
+        "title_id": "2430547",
+        "tv_rating": "tv-pg-lv",
+        "published": 1692043765,
+        "tags": [],
+        "collection_title": "Dr. Stone",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387837335-ASGenericThumb.png",
+        "id": "AYnQANR3Oz5CkuTcnwkA",
         "auth": true
     }
 ]
