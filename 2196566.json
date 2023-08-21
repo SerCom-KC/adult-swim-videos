@@ -44,7 +44,7 @@
         "launch_date": 1689566400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg",
         "id": "AW5qi-Vv1YiBSfg0KYe1",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -191,16 +191,17 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1692590340,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1687751940,
         "tms_id": "",
-        "description": "When Sheriff realizes that an addiction to his Momma's pudding is allowing her to control him, he decides to better his relationship with her, by kicking his pudding habit.",
+        "description": "When Goodman buries his family TV, it rises from the grave, demanding to be entertained.",
         "title_suggest": {
             "input": [
-                "Puddin"
+                "TV"
             ]
         },
-        "title": "Puddin",
-        "expiration_date": 1689566340,
+        "title": "TV",
+        "expiration_date": 1695614340,
         "type": "episode",
         "platforms": [
             "android",
@@ -209,30 +210,32 @@
             "fire-tv"
         ],
         "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 676.5425,
-        "episode_number": "5",
-        "original_air_date": "1614574800",
-        "auth_launch_date": 1689566400,
+        "duration": 678.96,
+        "episode_number": "6",
+        "original_air_date": 1575867600,
+        "auth_launch_date": 1684728000,
         "clip_order": null,
-        "airing_id": "RADS1007132300009977",
-        "media_id": "922fc2d3b5d10b8838426e3ed0202c6b248aa3cf",
-        "modified": 1689643488,
-        "slug": "puddin",
+        "media_id": "04e533a0e1a0d8e9ff45a3c821af486e7f597683",
+        "modified": 1692297564,
+        "airing_id": "RADS1008172300016277",
+        "slug": "tv",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/1_211281426394-MommaNamedMeSheriff_203_dup-20210122_Puddin.jpg",
-        "created": 1611862004,
-        "season_number": "2",
-        "title_id": "2247955",
-        "tv_rating": "tv-ma-lsv",
-        "published": 1689643488,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg",
+        "created": 1573745721,
+        "season_number": "1",
+        "title_id": "2196572",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1692297564,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1686542400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426394-MommaNamedMeSheriff_203_dup-20210122_Puddin.jpg",
-        "id": "AXdKdla2QJ_4Uej5kToo",
-        "auth": true
+        "launch_date": 1692590400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg",
+        "id": "AW5qjgBaadNs2hMNfugG",
+        "auth": false
     },
     {
         "auth_expiration_date": 1693195140,
