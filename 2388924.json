@@ -181,7 +181,7 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1713499140,
+        "auth_expiration_date": 1718942340,
         "tms_id": "",
         "description": "When a King from half a world away invites the remaining members of TainT to perform for him, Theo, Stebe and Moey D, end up getting ensnared in a spy mission that tests their allegiances to Nu-Metal and puts all of their lives at risk.",
         "title_suggest": {
@@ -202,11 +202,11 @@
         "duration": 1295.6945,
         "episode_number": "5",
         "original_air_date": 1711684800,
-        "auth_launch_date": 1711684800,
+        "auth_launch_date": 1715918400,
         "clip_order": null,
-        "airing_id": "RADS1003252400061180",
+        "airing_id": "RADS1005102400069852",
         "media_id": "8805646aa836f97ff958e2849cf170b75b5e05ac",
-        "modified": 1713079764,
+        "modified": 1715372707,
         "slug": "bidai",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20240402/thumbnails/1_24421412270-image1.png",
@@ -214,7 +214,7 @@
         "title_id": "2424748",
         "season_number": "2",
         "tv_rating": "tv-14-dlsv",
-        "published": 1713079764,
+        "published": 1715372707,
         "tags": [],
         "collection_title": "Royal Crackers",
         "disable_ads": false,
@@ -354,6 +354,39 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240426/thumbnails/2_244261522373-Screenshot2024-04-26at3.21.50PM.png",
         "id": "AY73fIDr5I1d0UhX5iFr",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1715918340,
+        "tms_id": "",
+        "description": "Stebe gets sent to white collar prison, where he quickly becomes one of the most popular inmates. However, when Theo gets locked up too, Stebe's position as the 'cool guy' comes under threat.",
+        "title_suggest": {
+            "input": [
+                "Prison"
+            ]
+        },
+        "title": "Prison",
+        "type": "episode",
+        "expiration_date": 1718942340,
+        "collection_id": "AYbq0iTJ4k01GlbfzrYt",
+        "duration": 1293.9927,
+        "episode_number": "9",
+        "original_air_date": 1714104000,
+        "auth_launch_date": 1714104000,
+        "airing_id": "RADS1005102400069850",
+        "media_id": "ff5b9e4a1bdcf9c1389be4da63d455d52a08f99a",
+        "modified": 1715372574,
+        "slug": "prison",
+        "created": 1713549116,
+        "title_id": "2424749",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1715372574,
+        "tags": [],
+        "collection_title": "Royal Crackers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1715918400,
+        "id": "AY73fILt5I1d0UhX5iFs",
         "auth": true
     },
     {
