@@ -267,6 +267,98 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1715918340,
+        "tms_id": "",
+        "description": "Louise ropes her siblings into an adventure.",
+        "title_suggest": {
+            "input": [
+                "Bridge Over Troubled Rudy",
+                "Over Troubled Rudy",
+                "Troubled Rudy",
+                "Rudy"
+            ]
+        },
+        "title": "Bridge Over Troubled Rudy",
+        "type": "episode",
+        "expiration_date": 1710734340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1292.024,
+        "episode_number": "19",
+        "original_air_date": 1704157200,
+        "auth_launch_date": 1715313600,
+        "clip_order": null,
+        "airing_id": "RADS1005042400068692",
+        "media_id": "509603b7ad28d3c84def6bfe9538cb2bda34c227",
+        "modified": 1714889686,
+        "slug": "bridge-over-troubled-rudy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/1_243111223534-Screenshot2024-03-11at12.20.10PM.png",
+        "created": 1709780839,
+        "title_id": "2438979",
+        "season_number": "11",
+        "tv_rating": "tv-pg-l",
+        "published": 1714889686,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1710129600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111223534-Screenshot2024-03-11at12.20.10PM.png",
+        "id": "AY4W4Sxr1E7YmWrdXL_S",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1715918340,
+        "tms_id": "",
+        "description": "The kids are caught stealing.",
+        "title_suggest": {
+            "input": [
+                "Steal Magazine-Olias",
+                "Magazine-Olias"
+            ]
+        },
+        "title": "Steal Magazine-Olias",
+        "type": "episode",
+        "expiration_date": 1710734340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1286.919,
+        "episode_number": "20",
+        "original_air_date": 1704159000,
+        "auth_launch_date": 1715313600,
+        "clip_order": null,
+        "airing_id": "RADS1005042400068690",
+        "media_id": "f81766dcb6b2a2ccb79eed23e122921069060b4d",
+        "modified": 1715218970,
+        "slug": "steal-magazine-olias",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/1_243111223140-Screenshot2024-03-11at12.20.39PM.png",
+        "created": 1709780880,
+        "title_id": "2438980",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dl",
+        "published": 1715218970,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1710129600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111223140-Screenshot2024-03-11at12.20.39PM.png",
+        "id": "AY4W4ct61E7YmWrdXL_T",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1712203140,
         "tms_id": "",
         "description": "Operation \"Take Over Family Time\" is a-go.",
@@ -409,51 +501,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1715313540,
-        "tms_id": "",
-        "description": "Gene gets jealous of Linda's new pastime.",
-        "title_suggest": {
-            "input": [
-                "Mommy Boy",
-                "Boy"
-            ]
-        },
-        "title": "Mommy Boy",
-        "expiration_date": 1708923540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1286.7855,
-        "episode_number": "9",
-        "original_air_date": "1702949400",
-        "auth_launch_date": 1714708800,
-        "clip_order": null,
-        "airing_id": "RADS1004272400067237",
-        "media_id": "dc115bcc84beac5be11cebbc9d089be61f465d8b",
-        "modified": 1714288479,
-        "slug": "mommy-boy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/1_24220219433-Screenshot2024-02-20at2.19.02AM.png",
-        "created": 1702581400,
-        "season_number": "11",
-        "title_id": "2438969",
-        "tv_rating": "tv-pg-lv",
-        "published": 1714288479,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1708318800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_24220219433-Screenshot2024-02-20at2.19.02AM.png",
-        "id": "AYxpwnIZ1E7YmWrdXLlQ",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1715399940,
         "tms_id": "",
         "description": "It's Valentine's Day.",
@@ -591,52 +638,6 @@
         "launch_date": 1708923600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/2_24226949586-Screenshot2024-02-26at9.47.26AM.png",
         "id": "AYxpwwV6n_kciGPPrDyI",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1715313540,
-        "tms_id": "",
-        "description": "Christmas brings the Belchers a special job.",
-        "title_suggest": {
-            "input": [
-                "Yachty or Nice",
-                "or Nice",
-                "Nice"
-            ]
-        },
-        "title": "Yachty or Nice",
-        "type": "episode",
-        "expiration_date": 1703480340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8239,
-        "episode_number": "10",
-        "original_air_date": 1701138600,
-        "auth_launch_date": 1714708800,
-        "clip_order": null,
-        "airing_id": "RADS1004272400067235",
-        "media_id": "dd9fce5d800ac99dbecd0bd39822490b49172405",
-        "modified": 1714290893,
-        "slug": "yachty-or-nice",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/1_2312181155258-Screenshot2023-12-18at11.54.32AM.png",
-        "created": 1702612179,
-        "title_id": "2438970",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "published": 1714290893,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1702875600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_2312181155258-Screenshot2023-12-18at11.54.32AM.png",
-        "id": "AYxrmBqE1E7YmWrdXLlR",
         "auth": true
     }
 ]
