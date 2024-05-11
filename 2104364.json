@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1517844660,
         "auth_expiration_date": 1715831940,
         "tms_id": "EP025439100009",
@@ -16,7 +16,7 @@
         },
         "title": "The Ballad of Autumn Gold",
         "type": "episode",
-        "expiration_date": 1727323140,
+        "expiration_date": 2085368400,
         "platforms": [
             "ott"
         ],
@@ -26,9 +26,9 @@
         "original_air_date": 1517807700,
         "clip_order": null,
         "auth_launch_date": 1715227200,
-        "modified": 1715285005,
+        "modified": 1715410237,
         "media_id": "96e8ac335da2ef843a6b66cc279506d483bcd9ab",
-        "airing_id": "RADS1005092400069694",
+        "airing_id": "RADS1003081900072751",
         "id": "2lvT7YuaScavz6bJcMoMzw",
         "slug": "the-ballad-of-autumn-gold",
         "exclude_from_search": false,
@@ -40,12 +40,12 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1715285005,
+        "published": 1715410237,
         "tags": [],
         "collection_title": "Hot Streets",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1715832000,
+        "launch_date": 1552575600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351527334-HotStreets_108_dup-20170928.jpg",
         "cma_id": ""
     },
@@ -331,7 +331,7 @@
         },
         "title": "Squid of the Dead",
         "type": "episode",
-        "expiration_date": 2085368400,
+        "expiration_date": 1715831940,
         "platforms": [
             "fire-tv",
             "ott",
@@ -344,8 +344,8 @@
         "auth_launch_date": 1715832000,
         "clip_order": null,
         "media_id": "edf6b4325475dd68d8ba27f4c01ffbb3723ff2c2",
-        "modified": 1715285015,
-        "airing_id": "RADS1005092400069696",
+        "modified": 1715409909,
+        "airing_id": "RADS1012262300042184",
         "id": "AWFYLD7yZ-onAnjDL5Nn",
         "slug": "squid-of-the-dead",
         "exclude_from_search": false,
@@ -356,12 +356,12 @@
         "season_number": "1",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1715285015,
+        "published": 1715409909,
         "tags": [],
         "collection_title": "Hot Streets",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1552575600,
+        "launch_date": 1704085200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351527562-HotStreets_109_dup-20171003.jpg"
     },
     {
