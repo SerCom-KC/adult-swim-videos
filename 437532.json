@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1715399940,
-        "tms_id": "EP003034830138",
-        "description": "The crew stages a casino heist to recover stolen property from the Robot Mafia.",
-        "title_suggest": {
-            "input": [
-                "Viva Mars Vegas",
-                "Mars Vegas",
-                "Vegas"
-            ]
-        },
-        "title": "Viva Mars Vegas",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "11",
-        "original_air_date": "1656896400",
-        "auth_launch_date": 1714795200,
-        "clip_order": null,
-        "airing_id": "RADS1004292400067582",
-        "media_id": "fc2d4dc0fee3b90fc58266941d9206c3a182acab",
-        "modified": 1714432427,
-        "slug": "viva-mars-vegas",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/1_226281432530-Futurama_912_VivaMarsVegas.png",
-        "created": 1656441181,
-        "season_number": "9",
-        "title_id": "2161657",
-        "tv_rating": "tv-14-dlv",
-        "published": 1714432427,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281432530-Futurama_912_VivaMarsVegas.png",
-        "id": "AYGrlpYA208s7zyYUNR6",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1715486340,
         "tms_id": "EP003034830133",
         "description": "After saving a robotic fox from hunters, Bender becomes the hunted.",
@@ -226,6 +180,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121048278-Futurama_1002_FryAndLeelasBigFling.png",
         "id": "AYHy4jMBIAxeiVkFtLQW",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716004740,
+        "tms_id": "EP003034830143",
+        "description": "After being marooned on an distant planet, Fry is befriended by a young monster.",
+        "title_suggest": {
+            "input": [
+                "T.: The Terrestrial",
+                "The Terrestrial",
+                "Terrestrial"
+            ]
+        },
+        "title": "T.: The Terrestrial",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1841,
+        "episode_number": "3",
+        "original_air_date": "1658107800",
+        "auth_launch_date": 1715400000,
+        "clip_order": null,
+        "airing_id": "RADS1005052400068755",
+        "media_id": "be2c736a391b879fa42acf1e069e26deb4920c8f",
+        "modified": 1715263765,
+        "slug": "t-the-terrestrial",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/1_22712104959-Futurama_1003_TTheTerrestrial.png",
+        "created": 1657637354,
+        "season_number": "10",
+        "title_id": "2161661",
+        "tv_rating": "tv-14-dlv",
+        "published": 1715263765,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_22712104959-Futurama_1003_TTheTerrestrial.png",
+        "id": "AYHy4ru-IAxeiVkFtLQX",
         "auth": true
     }
 ]

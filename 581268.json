@@ -3206,7 +3206,7 @@
         "launch_date": 1712376000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181527431-Squidbillies_1105_LetErRIP.png",
         "id": "AXzIFIC0UQa40cfnRSgA",
-        "auth": false
+        "auth": true
     },
     {
         "auth": false,
@@ -3642,7 +3642,7 @@
         "cma_id": "1443726"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449838800,
         "auth_expiration_date": 1716004740,
         "tms_id": "EP007008180094",
@@ -6376,7 +6376,7 @@
         "cma_id": "1435513"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447442820,
         "auth_expiration_date": 1716004740,
         "tms_id": "EP007008180008",
