@@ -97,69 +97,6 @@
         "cma_id": "979700"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1715399940,
-        "tms_id": "EP002070020269",
-        "rating": 8.7199,
-        "description": "Kahn's bouts of manic depression threaten to derail Hank's plans to build a tricked-out barbecue grill for an upcoming Strickland event.",
-        "title_suggest": {
-            "input": [
-                "Just Another Manic Kahn-Day",
-                "Another Manic Kahn-Day",
-                "Manic Kahn-Day",
-                "Kahn-Day"
-            ]
-        },
-        "type": "episode",
-        "title": "Just Another Manic Kahn-Day",
-        "expiration_date": 1500901199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1366.6653,
-        "episode_number": "24",
-        "original_air_date": 1274409000,
-        "clip_order": null,
-        "auth_launch_date": 1714795200,
-        "modified": 1714432427,
-        "media_id": "8504d2468d67202901fbf3581763be564740e86a",
-        "airing_id": "RADS1004292400067584",
-        "id": "_V8KGFXMQDS1LlR9Y-Kbdw",
-        "slug": "just-another-manic-kahn-day",
-        "views": 154143,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/1_226281428491-KingOfTheHill_1316_JustAnotherManicKahnDay.png",
-        "created": 1402945468,
-        "title_id": "785982",
-        "season_number": "13",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1714432427,
-        "tags": [
-            "Just Another Manic Kahn-Day",
-            "King of the Hill",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Mike Judge",
-            "Hank",
-            "Peggy",
-            "Bobby"
-        ],
-        "rating_count": 407,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1500296400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281428491-KingOfTheHill_1316_JustAnotherManicKahnDay.png",
-        "cma_id": "1434006"
-    },
-    {
         "auth": true,
         "auth_expiration_date": 1715745540,
         "tms_id": "EP002070020002",
@@ -269,5 +206,51 @@
         "modified_by": "ODT Listener",
         "launch_date": 1294894800,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_52717.jpg"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1716004740,
+        "rating": 8.288291,
+        "description": "Bobby attempts to make amends after he accidentally wallops Hank's idol, Willie Nelson, in the head with a golf club.",
+        "title_suggest": {
+            "input": [
+                "Hank's Got the Willies",
+                "Got the Willies",
+                "the Willies",
+                "Willies"
+            ]
+        },
+        "type": "episode",
+        "title": "Hank's Got the Willies",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1390.5558,
+        "episode_number": "5",
+        "original_air_date": 1238725800,
+        "clip_order": null,
+        "auth_launch_date": 1715400000,
+        "modified": 1714974961,
+        "airing_id": "RADS1005052400068753",
+        "media_id": "ab96f3e3b954b306867c8417fd04f8e1bcb67107",
+        "id": "xPfRpyhRQ7uyy-qBEPN4eA",
+        "slug": "hanks-got-the-willies",
+        "views": 227946,
+        "created": 1402945468,
+        "title_id": "728405",
+        "season_number": "1",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1714974961,
+        "tags": [],
+        "rating_count": 333,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1310616000,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_7053306973805962163.jpg",
+        "cma_id": ""
     }
 ]
