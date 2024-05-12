@@ -45,52 +45,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1715486340,
-        "tms_id": "",
-        "description": "Gene is home alone.",
-        "title_suggest": {
-            "input": [
-                "Mr. Lonely Farts",
-                "Lonely Farts",
-                "Farts"
-            ]
-        },
-        "title": "Mr. Lonely Farts",
-        "type": "episode",
-        "expiration_date": 1709528340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1286.7188,
-        "episode_number": "14",
-        "original_air_date": 1703552400,
-        "auth_launch_date": 1714881600,
-        "clip_order": null,
-        "airing_id": "RADS1004302400067656",
-        "media_id": "cd06d0d9cc5bd810eebf66f5e552b312f6bad559",
-        "modified": 1714513584,
-        "slug": "mr-lonely-farts",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/1_24226946294-Screenshot2024-02-26at9.43.37AM.png",
-        "created": 1708111671,
-        "title_id": "2438974",
-        "season_number": "11",
-        "tv_rating": "tv-pg-l",
-        "published": 1714513584,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1708923600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/2_24226946294-Screenshot2024-02-26at9.43.37AM.png",
-        "id": "AY2zY7Fp1E7YmWrdXLx0",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1715831940,
         "tms_id": "",
         "description": "Bob is in a car accident.",
@@ -311,6 +265,87 @@
         "launch_date": 1710734400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318811514-Screenshot2024-03-18at8.11.27AM.png",
         "id": "AY462YuLC2cKYm1ap-2c",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716091140,
+        "tms_id": "",
+        "description": "Louise pays back a debt.",
+        "title_suggest": {
+            "input": [
+                "Manic Pixie Crap Show",
+                "Pixie Crap Show",
+                "Crap Show",
+                "Show"
+            ]
+        },
+        "title": "Manic Pixie Crap Show",
+        "type": "episode",
+        "expiration_date": 1711339140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.7906,
+        "episode_number": "1",
+        "original_air_date": 1704164400,
+        "auth_launch_date": 1715486400,
+        "clip_order": null,
+        "airing_id": "RADS1005062400068822",
+        "media_id": "f19d595390b4fab5b69dabe94438d5f2e4604b72",
+        "modified": 1715061443,
+        "slug": "manic-pixie-crap-show",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240318/thumbnails/1_24318812452-Screenshot2024-03-18at8.12.22AM.png",
+        "created": 1710384348,
+        "title_id": "2438983",
+        "season_number": "12",
+        "tv_rating": "tv-pg-dl",
+        "published": 1715061443,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1710734400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318812452-Screenshot2024-03-18at8.12.22AM.png",
+        "id": "AY462fyJC2cKYm1ap-2d",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716091140,
+        "tms_id": "",
+        "description": "Tina gets some help from a crystal.",
+        "title_suggest": {
+            "input": [
+                "Crystal Mess",
+                "Mess"
+            ]
+        },
+        "title": "Crystal Mess",
+        "type": "episode",
+        "expiration_date": 1711339140,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.9564,
+        "episode_number": "2",
+        "original_air_date": 1704762000,
+        "auth_launch_date": 1715486400,
+        "airing_id": "RADS1005062400068824",
+        "media_id": "a7e9a5e603adffef06881e078ccabb3281f0e720",
+        "modified": 1715060564,
+        "slug": "crystal-mess",
+        "created": 1710384366,
+        "title_id": "2438984",
+        "season_number": "12",
+        "tv_rating": "tv-pg-dl",
+        "published": 1715060564,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1710734400,
+        "id": "AY462kTD1E7YmWrdXMGG",
         "auth": true
     },
     {
@@ -594,51 +629,5 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_2310171824459-Screenshot2023-10-17at6.24.35PM.png",
         "id": "AYsU2ac11E7YmWrdXLj7",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1715486340,
-        "tms_id": "",
-        "description": "Bob and Linda are tortured by a past lie.",
-        "title_suggest": {
-            "input": [
-                "An Incon-Wheelie-Ent Truth",
-                "Incon-Wheelie-Ent Truth",
-                "Truth"
-            ]
-        },
-        "title": "An Incon-Wheelie-Ent Truth",
-        "expiration_date": 1709528340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8239,
-        "episode_number": "13",
-        "original_air_date": "1702954800",
-        "auth_launch_date": 1714881600,
-        "clip_order": null,
-        "airing_id": "RADS1004302400067658",
-        "media_id": "4fda98b7e53a587e71bf2ce71cf6aa343e0e8871",
-        "modified": 1714512997,
-        "slug": "an-incon-wheelie-ent-truth",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/1_24226949586-Screenshot2024-02-26at9.47.26AM.png",
-        "created": 1702581437,
-        "season_number": "11",
-        "title_id": "2438973",
-        "tv_rating": "tv-pg-l",
-        "published": 1714512997,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1708923600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/2_24226949586-Screenshot2024-02-26at9.47.26AM.png",
-        "id": "AYxpwwV6n_kciGPPrDyI",
-        "auth": true
     }
 ]
