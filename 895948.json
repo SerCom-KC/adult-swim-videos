@@ -108,51 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1715486340,
-        "tms_id": "",
-        "description": "Eric Andre is back! Lil Nas X and Karrueche Tran sit in the chair. Denzel Curry gets his teeth done. A Jewish exterminator hopes to capture the mother of all flies before the High Holy Days. Ranch it up enters the housing market.",
-        "title_suggest": {
-            "input": [
-                "Bugs Weekly",
-                "Weekly"
-            ]
-        },
-        "title": "Bugs Weekly",
-        "type": "episode",
-        "expiration_date": 1712462340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.4081,
-        "episode_number": "1",
-        "original_air_date": 1685937600,
-        "auth_launch_date": 1712462400,
-        "clip_order": null,
-        "airing_id": "RADS1004012400063028",
-        "media_id": "16f72ae14a59aab3ed11f89b649445d1093d0ec7",
-        "modified": 1712036606,
-        "slug": "bugs-weekly",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/1_2365818485-EASEpisode1Thumbtiny.png",
-        "created": 1685639821,
-        "title_id": "2418681",
-        "season_number": "6",
-        "tv_rating": "tv-ma-l",
-        "published": 1712036606,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1709442000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365818485-EASEpisode1Thumbtiny.png",
-        "id": "AYh39nedOz5CkuTcnvn7",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716091140,
         "tms_id": "",
         "description": "Eric welcomes Mia Khalifa and Jaleel White. Human statutes have a brutal fight in New York City. Goober Driver goes off roading.",
@@ -380,7 +335,7 @@
         "launch_date": 1712462400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254209-TheEricAndreShow610Still001tiny.png",
         "id": "AYiwCsPX2rZC6NyF619w",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1713067140,
@@ -562,6 +517,58 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375158553-EATheColdEpisode.png",
         "id": "AYkM9LH4Oz5CkuTcnwD4",
         "auth": false
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1672030740,
+        "tms_id": "EP015632430022",
+        "description": "Interviews with Seth Rogen and Asa Akira; Musical guest Exhumed and The Supremes.",
+        "title_suggest": {
+            "input": [
+                "Seth Rogen; Asa Akira",
+                "Rogen; Asa Akira",
+                "Asa Akira",
+                "Akira"
+            ]
+        },
+        "title": "Seth Rogen; Asa Akira",
+        "type": "episode",
+        "expiration_date": 1718510340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 676.0667334,
+        "episode_number": "1",
+        "original_air_date": 1415337300,
+        "clip_order": null,
+        "auth_launch_date": 1669006800,
+        "modified": 1715058766,
+        "media_id": "8aa5d058687a0de93dcfc2247886c81195fa1ba2",
+        "airing_id": "RADS1005062400068979",
+        "id": "BHK7jhhHQby3_ZfgbBQYDA",
+        "slug": "seth-rogen-asa-akira",
+        "views": 11,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161584-ericandre_021_dup-20141023.jpg",
+        "created": 1415208027,
+        "title_id": "2032596",
+        "tv_rating": "tv-ma-l",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1715058766,
+        "first_published": 1415208027,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715486400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161584-ericandre_021_dup-20141023.jpg",
+        "cma_id": "2032596"
     },
     {
         "auth": false,
