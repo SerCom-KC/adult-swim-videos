@@ -372,6 +372,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Yes, You Do Need to Watch This Important Episode of Smiling Friends Where They Help the President Smile. Here's Why That's a Good Thing.",
+        "title_suggest": {
+            "input": [
+                "Mr. President",
+                "President"
+            ]
+        },
+        "title": "Mr. President",
+        "type": "episode",
+        "expiration_date": 1721793540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 673.6396,
+        "episode_number": "2",
+        "original_air_date": 1715572800,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1005082400069462",
+        "media_id": "26e79bc3c669516256a64e38d8149c2709e66b58",
+        "modified": 1715279573,
+        "slug": "mr-president",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240509/thumbnails/1_24591353235-2310171633239-as-back-up-imgcopy.png",
+        "created": 1715200074,
+        "title_id": "2424766",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "published": 1715279573,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715572800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240509/thumbnails/2_24591353235-2310171633239-as-back-up-imgcopy.png",
+        "id": "AY9Z5CJfC2cKYm1ap_nk",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1718337540,
         "tms_id": "EP034814950009",
         "description": "The Smiling Friends finally get to relax in a beautiful Brazilian beach town. Pim works on his novel, Charlie binges a load of torrent shows on his portable hard drive. Allan and Glep enjoy some long-awaited \"chill out\" time at the beach.",

@@ -139,7 +139,7 @@
         "launch_date": 1712548800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
         "id": "AW5qjLBr1YiBSfg0KYe3",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -333,16 +333,18 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1715572740,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1710734340,
         "tms_id": "",
-        "description": "Goodman must leave the country and jump through a series of ridiculous hoops in order to cancel a simple membership subscription.",
+        "description": "Previously, on Momma Named Me Sheriff...",
         "title_suggest": {
             "input": [
-                "Election"
+                "Chili Snakes",
+                "Snakes"
             ]
         },
-        "title": "Election",
-        "expiration_date": 1712548740,
+        "title": "Chili Snakes",
+        "expiration_date": 1718596740,
         "type": "episode",
         "platforms": [
             "android",
@@ -351,30 +353,32 @@
             "fire-tv"
         ],
         "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 676.2422,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1712548800,
+        "duration": 656.88,
+        "episode_number": "8",
+        "original_air_date": 1576472400,
+        "auth_launch_date": 1707714000,
         "clip_order": null,
-        "airing_id": "RADS1004042400063160",
-        "media_id": "d9babfd82dc625cc1d9dc113ff11df091ad4914b",
-        "modified": 1712255191,
-        "slug": "election",
+        "media_id": "e5d405a0f967c69d4940ca10d9ee1245cc53037d",
+        "modified": 1715145603,
+        "airing_id": "RADS1005082400069073",
+        "slug": "chili-snakes",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210217/thumbnails/1_21217855462-MommaNamedMeSheriff_205_Election.jpg",
-        "created": 1613570149,
-        "season_number": "2",
-        "title_id": "2247957",
-        "tv_rating": "tv-ma-s",
-        "published": 1712255191,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg",
+        "created": 1573748093,
+        "season_number": "1",
+        "title_id": "2196574",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1715145603,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1709528400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg",
-        "id": "AXewRoxkbxpjZvbXYmTh",
-        "auth": true
+        "launch_date": 1715572800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg",
+        "id": "AW5qsjBR1YiBSfg0KYfN",
+        "auth": false
     },
     {
         "auth_expiration_date": 1716177540,
