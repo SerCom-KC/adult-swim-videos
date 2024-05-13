@@ -1,94 +1,5 @@
 [
     {
-        "auth_expiration_date": 1715572740,
-        "tms_id": "EP003034830139",
-        "description": "Bender and the crew are reimagined as wild animals in a nature documentary.",
-        "title_suggest": {
-            "input": [
-                "Naturama"
-            ]
-        },
-        "title": "Naturama",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1360.1588,
-        "episode_number": "13",
-        "original_air_date": "1657501200",
-        "auth_launch_date": 1714968000,
-        "clip_order": null,
-        "airing_id": "RADS1005032400068009",
-        "media_id": "c67f4df908ae40878c422aa3fe839fa4fc6f3651",
-        "modified": 1714706253,
-        "slug": "naturama",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761726147-Futurama_913_Naturama.png",
-        "created": 1657142785,
-        "season_number": "9",
-        "title_id": "2161658",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1714706253,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726147-Futurama_913_Naturama.png",
-        "id": "AYHVaDU2IAxeiVkFtLQO",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1715572740,
-        "tms_id": "EP003034830141",
-        "description": "Professor Farnsworth joins a gang of street-racing punks.",
-        "title_suggest": {
-            "input": [
-                "2-D Blacktop",
-                "Blacktop"
-            ]
-        },
-        "title": "2-D Blacktop",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.4147,
-        "episode_number": "1",
-        "original_air_date": "1657503000",
-        "auth_launch_date": 1714968000,
-        "clip_order": null,
-        "airing_id": "RADS1005032400068007",
-        "media_id": "a4cabd56e96e28c6bc963f4a5fdd5cd41a6bae3b",
-        "modified": 1714706848,
-        "slug": "2-d-blacktop",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761726519-Futurama_1001_2DBlacktop.png",
-        "created": 1657142821,
-        "season_number": "10",
-        "title_id": "2161659",
-        "tv_rating": "tv-14-dlv",
-        "published": 1714706848,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726519-Futurama_1001_2DBlacktop.png",
-        "id": "AYHVaMNa3sQvipyea9V5",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1715918340,
         "tms_id": "EP003034830142",
         "description": "Fry and Leela's romantic vacation goes disturbingly wrong.",
@@ -226,6 +137,86 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_2272083625-Futurama_1004_FortyPercentLeadbelly.png",
         "id": "AYIbm8ye3sQvipyea9fv",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716177540,
+        "tms_id": "EP003034830146",
+        "description": "Bender becomes a famous firefighter, but the crew suspects him of arson.",
+        "title_suggest": {
+            "input": [
+                "The Inhuman Torch",
+                "Inhuman Torch",
+                "Torch"
+            ]
+        },
+        "title": "The Inhuman Torch",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "5",
+        "original_air_date": "1658712600",
+        "auth_launch_date": 1715572800,
+        "clip_order": null,
+        "airing_id": "RADS1005082400069062",
+        "media_id": "f511f54cdabbff20fd446b858a1baf6d5f4c301b",
+        "modified": 1715148267,
+        "slug": "the-inhuman-torch",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/1_22720836356-Futurama_1005_TheInhumanTouch.png",
+        "created": 1658320604,
+        "season_number": "10",
+        "title_id": "2161663",
+        "tv_rating": "tv-14-dl",
+        "published": 1715148267,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720836356-Futurama_1005_TheInhumanTouch.png",
+        "id": "AYIbnEx9IAxeiVkFtLQh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716177540,
+        "created": 1659129081,
+        "tms_id": "EP003034830147",
+        "title_id": "2161664",
+        "season_number": "10",
+        "tv_rating": "tv-14-dlv",
+        "description": "The Futurama gang stars in a trio of craptastic morning cartoons.",
+        "title_suggest": {
+            "input": [
+                "Saturday Morning Fun Pit",
+                "Morning Fun Pit",
+                "Fun Pit",
+                "Pit"
+            ]
+        },
+        "published": 1715149205,
+        "title": "Saturday Morning Fun Pit",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1359.1244,
+        "episode_number": "6",
+        "collection_title": "Futurama",
+        "original_air_date": 1659315600,
+        "auth_launch_date": 1715572800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005082400069060",
+        "media_id": "125cbdea91176da4381102812c5ca3f56c22369a",
+        "modified": 1715149205,
+        "slug": "saturday-morning-fun-pit",
+        "id": "AYJLzKzPIAxeiVkFtLQq",
         "auth": true
     }
 ]
