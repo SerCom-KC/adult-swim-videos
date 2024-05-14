@@ -48,53 +48,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1715659140,
-        "tms_id": "",
-        "description": "Tina learns Spanish.",
-        "title_suggest": {
-            "input": [
-                "Y Tu Tina Tambien",
-                "Tu Tina Tambien",
-                "Tina Tambien",
-                "Tambien"
-            ]
-        },
-        "title": "Y Tu Tina Tambien",
-        "type": "episode",
-        "expiration_date": 1710129540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.922,
-        "episode_number": "16",
-        "original_air_date": 1703556000,
-        "auth_launch_date": 1715054400,
-        "clip_order": null,
-        "airing_id": "RADS1005032400068029",
-        "media_id": "5ecd687738eae0af963ab617bdf4a7b9a229765b",
-        "modified": 1714708088,
-        "slug": "y-tu-tina-tambien",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/1_2434111908-Screenshot2024-03-04at11.17.29AM.png",
-        "created": 1709179056,
-        "title_id": "2438976",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "published": 1714708088,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1709528400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_2434111908-Screenshot2024-03-04at11.17.29AM.png",
-        "id": "AY3zArLVC2cKYm1ap-2U",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1715745540,
         "tms_id": "",
         "description": "Tina finds a new passion.",
@@ -370,6 +323,52 @@
         "launch_date": 1710129600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111222447-Screenshot2024-03-11at12.21.25PM.png",
         "id": "AY4W4iyD1E7YmWrdXL_U",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716263940,
+        "tms_id": "",
+        "description": "Bob and Teddy take a road trip.",
+        "title_suggest": {
+            "input": [
+                "Driving Big Dummy",
+                "Big Dummy",
+                "Dummy"
+            ]
+        },
+        "title": "Driving Big Dummy",
+        "type": "episode",
+        "expiration_date": 1711943940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8239,
+        "episode_number": "4",
+        "original_air_date": 1704763800,
+        "auth_launch_date": 1715659200,
+        "clip_order": null,
+        "airing_id": "RADS1005082400069197",
+        "media_id": "fdbe726a7c585ecb94a1fa918d728e6fe026a769",
+        "modified": 1715235927,
+        "slug": "driving-big-dummy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/1_24325124614-Screenshot2024-03-25at12.45.35PM.png",
+        "created": 1710960857,
+        "title_id": "2438986",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1715235927,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1711339200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_24325124614-Screenshot2024-03-25at12.45.35PM.png",
+        "id": "AY5dNtBWC2cKYm1ap-6g",
         "auth": true
     },
     {

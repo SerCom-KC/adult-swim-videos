@@ -1636,6 +1636,53 @@
     },
     {
         "auth_expiration_date": null,
+        "tms_id": "EP001022180085",
+        "description": "Joey, an overzealous ex-intern, annoys Space Ghost with his antics. In retribution, Space Ghost destroys the pest and shuttles his corpse into outer space for disposal.",
+        "title_suggest": {
+            "input": [
+                "Pal Joey",
+                "Joey"
+            ]
+        },
+        "title": "Pal Joey",
+        "expiration_date": 1748404740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 659.8926,
+        "episode_number": "9",
+        "original_air_date": "926737200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1005132400069924",
+        "media_id": "8132698a1d36f2c45c1e6f53c377334daadb4ebc",
+        "modified": 1715611133,
+        "slug": "pal-joey",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201147458-sgc2c_9809_dst_cid-9140303.jpg",
+        "created": 1689872672,
+        "season_number": "5",
+        "title_id": "330042",
+        "tv_rating": "tv-pg",
+        "published": 1715611133,
+        "tags": [
+            "sgc2c space ghost coast to coast episode 65 pal joey intern fired michael moore"
+        ],
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715659200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201147458-sgc2c_9809_dst_cid-9140303.jpg",
+        "id": "AYl0QqZGOz5CkuTcnwSD",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
         "tms_id": "EP001022180025",
         "description": "Space Ghost has a temper tantrum and he leaves the show.  While he's gone, Zorak, Moltar and Dave Thomas have a great time.  Meanwhile, Space Ghost tries to make friends with the superheroes at the Hole of Justice, but they beat him up.",
         "title_suggest": {
