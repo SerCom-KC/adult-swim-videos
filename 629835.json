@@ -50,6 +50,55 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1716350340,
+        "rating": 7.2788205,
+        "description": "Hank is greatly embarrassed when word of his irregularity spreads throughout the community.",
+        "title_suggest": {
+            "input": [
+                "Hank's Unmentionable Problem",
+                "Unmentionable Problem",
+                "Problem"
+            ]
+        },
+        "type": "episode",
+        "title": "Hank's Unmentionable Problem",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1387.4528,
+        "episode_number": "7",
+        "original_air_date": 1230867000,
+        "clip_order": null,
+        "auth_launch_date": 1715745600,
+        "modified": 1715325564,
+        "airing_id": "RADS1005092400069595",
+        "media_id": "693d6f5ea0392f9996aa544192fc3004459d4296",
+        "id": "RmFr6Ow5SW-AdMeCjWWrVA",
+        "slug": "hanks-unmentionable-problem",
+        "views": 178349,
+        "created": 1402945468,
+        "title_id": "728407",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "published": 1715325564,
+        "tags": [
+            "King of the Hill",
+            "Hank's Unmentionable Problem",
+            "107"
+        ],
+        "rating_count": 373,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1310702400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1303337365281009403.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1715918340,
         "tms_id": "EP002070020004",
         "description": "Hank promises to find Luanne a new boyfriend in forty-eight hours.",
@@ -90,59 +139,6 @@
         "launch_date": 1404526829,
         "poster": "",
         "cma_id": "979700"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1715745540,
-        "tms_id": "EP002070020002",
-        "rating": 8.680269,
-        "description": "Peggy is chosen to teach a Sex Ed class.",
-        "title_suggest": {
-            "input": [
-                "Square Peg",
-                "Peg"
-            ]
-        },
-        "type": "episode",
-        "title": "Square Peg",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1367.9332,
-        "episode_number": "2",
-        "original_air_date": 1236308400,
-        "auth_launch_date": 1715140800,
-        "modified": 1715127010,
-        "airing_id": "RADS1005032400068173",
-        "media_id": "76b046c3f9420138f523401e5044fd05f31a528d",
-        "id": "k2hvZecOQLyfcWTNk3GDfw",
-        "slug": "square-peg",
-        "views": 201164,
-        "created": 1402945468,
-        "title_id": "728403",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1715127010,
-        "tags": [
-            "king of the hill",
-            " season 1",
-            " episode 2",
-            " square peg",
-            " peggy",
-            " chosen",
-            " sex ed",
-            " class"
-        ],
-        "rating_count": 441,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1279252800,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_52716.jpg",
-        "cma_id": "979582"
     },
     {
         "auth": true,
