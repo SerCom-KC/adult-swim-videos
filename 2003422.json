@@ -48,50 +48,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1715745540,
-        "tms_id": "",
-        "description": "Tina finds a new passion.",
-        "title_suggest": {
-            "input": [
-                "Fingers-Loose"
-            ]
-        },
-        "title": "Fingers-Loose",
-        "type": "episode",
-        "expiration_date": 1710129540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.7894,
-        "episode_number": "17",
-        "original_air_date": 1703557800,
-        "auth_launch_date": 1715140800,
-        "clip_order": null,
-        "airing_id": "RADS1005032400068172",
-        "media_id": "a69af1c042fb3c86abd245cba6f06a34afdf7e1d",
-        "modified": 1714774829,
-        "slug": "fingers-loose",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/1_24341119140-Screenshot2024-03-04at11.16.52AM.png",
-        "created": 1709179084,
-        "title_id": "2438977",
-        "season_number": "11",
-        "tv_rating": "tv-pg-l",
-        "published": 1714774829,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1709528400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_24341119140-Screenshot2024-03-04at11.16.52AM.png",
-        "id": "AY3zAyC21E7YmWrdXL5Q",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716004740,
         "tms_id": "",
         "description": "A father-daughter date becomes a group event.",
@@ -323,6 +279,51 @@
         "launch_date": 1710129600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111222447-Screenshot2024-03-11at12.21.25PM.png",
         "id": "AY4W4iyD1E7YmWrdXL_U",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716350340,
+        "tms_id": "",
+        "description": "Gene doesn't want to grow up.",
+        "title_suggest": {
+            "input": [
+                "Seven-Tween Again",
+                "Again"
+            ]
+        },
+        "title": "Seven-Tween Again",
+        "type": "episode",
+        "expiration_date": 1711943940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1288.921,
+        "episode_number": "5",
+        "original_air_date": 1704765600,
+        "auth_launch_date": 1715745600,
+        "clip_order": null,
+        "airing_id": "RADS1005092400069565",
+        "media_id": "08d73872c31a6f4c2e28b6402b1fa3aeb82cba65",
+        "modified": 1715327677,
+        "slug": "seven-tween-again",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/1_243251247137-Screenshot2024-03-25at12.46.41PM.png",
+        "created": 1710960886,
+        "title_id": "2438987",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1715327677,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1711339200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251247137-Screenshot2024-03-25at12.46.41PM.png",
+        "id": "AY5dN0G25I1d0UhX5iFE",
         "auth": true
     },
     {
