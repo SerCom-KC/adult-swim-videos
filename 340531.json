@@ -53,7 +53,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451659020,
         "auth_expiration_date": 1718769540,
         "tms_id": "EP004625740009",
@@ -161,59 +161,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1451671140,
-        "auth_expiration_date": 1715745540,
-        "tms_id": "EP004625740049",
-        "rating": 8.768096,
-        "description": "Before going on vacation, Thundercleese asks Brak to take care of his beloved goldfish, Mr. Tickles. After Brak accidentally kills the goldfish, it appears in one of his dreams.",
-        "title_suggest": {
-            "input": [
-                "Goldfish"
-            ]
-        },
-        "type": "episode",
-        "title": "Goldfish",
-        "expiration_date": 1712721540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
-        "duration": 676.5,
-        "episode_number": "1",
-        "original_air_date": 999484200,
-        "clip_order": null,
-        "auth_launch_date": 1712721600,
-        "modified": 1712297937,
-        "media_id": "35c670bb168c03a9f973f62dab46bb33ebcc5bf4",
-        "airing_id": "RADS1003012400057532",
-        "id": "VDWhpXruRNmGw5r1vUq6Pg",
-        "slug": "goldfish",
-        "views": 229175,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_2032142793-brak_2101.jpg",
-        "created": 1402945478,
-        "title_id": "344203",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1712297937,
-        "tags": [
-            "brak show episode 1 goldfish premiere babysit thundercleese lake toilet death tickles"
-        ],
-        "rating_count": 677,
-        "collection_title": "The Brak Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1709701200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg",
-        "cma_id": "1469990"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1451673480,
         "auth_expiration_date": 1718164740,
         "tms_id": "EP004625740007",
@@ -264,6 +211,57 @@
         "modified_by": "ODT Listener",
         "launch_date": 1712116800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425296-brak_2107.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1715140740,
+        "tms_id": "EP004625740003",
+        "description": "Brak baby-sits Mr. Thundercleese's goldfish, Mr. Tickles, while he's away.",
+        "title_suggest": {
+            "input": [
+                "Leave It to Brak",
+                "It to Brak",
+                "to Brak",
+                "Brak"
+            ]
+        },
+        "title": "Leave It to Brak",
+        "type": "episode",
+        "expiration_date": 1718769540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
+        "duration": 733.67,
+        "episode_number": "",
+        "original_air_date": 977389200,
+        "clip_order": null,
+        "auth_launch_date": 1712116800,
+        "modified": 1715323142,
+        "media_id": "b9b83c6518ce6bab2490b2aaac6ef1c380fc22a2",
+        "airing_id": "RADS1005092400069621",
+        "id": "g6ETTWagTuSqGpOnN-WRLA",
+        "slug": "leave-it-to-brak",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321444207-brak_001.jpg",
+        "created": 1413400256,
+        "season_number": "4",
+        "title_id": "340532",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1715323142,
+        "first_published": 1413400256,
+        "tags": [],
+        "collection_title": "The Brak Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715745600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321444207-brak_001.jpg",
         "cma_id": ""
     },
     {
