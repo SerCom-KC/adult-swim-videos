@@ -144,7 +144,7 @@
         "launch_date": 1712721600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171325454-miketysonmysteries_414.jpg",
         "id": "AW-BQXsE3HMJfT8do608",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -291,6 +291,57 @@
         "launch_date": 1715140800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171326367-miketysonmysteries_418.jpg",
         "id": "AW-BQkL-GRcVO2K2pl_v",
+        "auth": false
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1700629140,
+        "tms_id": "",
+        "description": "An unspeakable tragedy haunts Pat and his brother Nat and their Clam Shack.",
+        "title_suggest": {
+            "input": [
+                "Clam Bam Thank You Ma'am",
+                "Bam Thank You Ma'am",
+                "Thank You Ma'am",
+                "You Ma'am",
+                "Ma'am"
+            ]
+        },
+        "title": "Clam Bam Thank You Ma'am",
+        "expiration_date": 1718769540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 659.9593,
+        "episode_number": "19",
+        "original_air_date": 1581915600,
+        "auth_launch_date": 1694577600,
+        "clip_order": null,
+        "media_id": "b27edd15b4e26f279b61208383e5ead4fe43e413",
+        "modified": 1715320948,
+        "airing_id": "RADS1005092400069617",
+        "slug": "clam-bam-thank-you-maam",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/1_20171326532-miketysonmysteries_419.jpg",
+        "created": 1578421617,
+        "season_number": "4",
+        "title_id": "2172016",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1715320948,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715745600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171326532-miketysonmysteries_419.jpg",
+        "id": "AW-BQoGvGRcVO2K2pl_w",
         "auth": false
     },
     {
@@ -490,55 +541,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152529333504413.jpg",
         "id": "AWMikhyrTdxzjxdCltvE",
         "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1715745540,
-        "tms_id": "EP020020000055",
-        "description": "Sometimes it's not as easy as \"ordering online\".",
-        "title_suggest": {
-            "input": [
-                "The Missing Package",
-                "Missing Package",
-                "Package"
-            ]
-        },
-        "title": "The Missing Package",
-        "type": "episode",
-        "expiration_date": 1709701140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 671.3707,
-        "episode_number": "4",
-        "original_air_date": 1562559300,
-        "auth_launch_date": 1709701200,
-        "clip_order": null,
-        "airing_id": "RADS1003012400057494",
-        "media_id": "9b2a214cfcd6feaac3fdd702618cdc82ebfb1fbf",
-        "modified": 1712150163,
-        "slug": "the-missing-package",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156286096247919.jpg",
-        "created": 1562096526,
-        "title_id": "2172001",
-        "season_number": "4",
-        "tv_rating": "tv-14-dls",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1712150163,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1706677200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156286096247919.jpg",
-        "id": "AWu0NWQGCorLtcgflrw9",
-        "auth": true
     },
     {
         "ott_launch_date": null,

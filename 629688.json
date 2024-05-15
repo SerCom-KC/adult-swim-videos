@@ -360,7 +360,7 @@
         "cma_id": "1313723"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447173240,
         "auth_expiration_date": 1718769540,
         "tms_id": "EP007959510046",
@@ -518,59 +518,6 @@
         "launch_date": 1712116800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311169345-moralorel_043.jpg",
         "cma_id": "723840"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447173120,
-        "auth_expiration_date": 1715745540,
-        "tms_id": "EP007959510039",
-        "rating": 8.953155,
-        "description": "Stephanie is hell-bent on Orel having a better experience than her own at the school's annual \"Arms Length Dance.\"",
-        "title_suggest": {
-            "input": [
-                "Closeface"
-            ]
-        },
-        "type": "episode",
-        "title": "Closeface",
-        "expiration_date": 1712721540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 704.7007007,
-        "episode_number": "9",
-        "original_air_date": 1226466900,
-        "clip_order": null,
-        "auth_launch_date": 1712721600,
-        "modified": 1712296710,
-        "media_id": "e14fc2e50e678f1e60814056c395101172a1e8c3",
-        "airing_id": "RADS1004042400063285",
-        "id": "LPnVotAlQJ6Vaij6cZLx_A",
-        "slug": "closeface",
-        "views": 291426,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311168168-moralorel_037.jpg",
-        "created": 1402945470,
-        "title_id": "723835",
-        "season_number": "3",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1712296710,
-        "tags": [
-            "moral orel episode 37 closeface stephanie christina arms length dance love dating kiss"
-        ],
-        "rating_count": 1110,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1709701200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168168-moralorel_037.jpg",
-        "cma_id": "1471741"
     },
     {
         "auth": true,
@@ -793,6 +740,61 @@
         "launch_date": 1714536000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551249-moralorel_003.jpg",
         "cma_id": "1319108"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447171440,
+        "auth_expiration_date": 1695787140,
+        "tms_id": "EP007959510005",
+        "rating": 7.4947505,
+        "description": "A series of improbable assumptions leads Orel from a sermon about marriage straight to the town's only sex shop.",
+        "title_suggest": {
+            "input": [
+                "The Blessed Union",
+                "Blessed Union",
+                "Union"
+            ]
+        },
+        "type": "episode",
+        "title": "The Blessed Union",
+        "expiration_date": 1718769540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 673.8675342,
+        "episode_number": "5",
+        "original_air_date": 1140411600,
+        "clip_order": null,
+        "auth_launch_date": 1692763200,
+        "modified": 1715318570,
+        "media_id": "0dfbc046e418684396f83eba1cefd1d813506444",
+        "airing_id": "RADS1005092400069625",
+        "id": "f4C2ubHoTUmqdCrt8HWFzw",
+        "slug": "the-blessed-union",
+        "views": 235640,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311155227-moralorel_005.jpg",
+        "created": 1402945470,
+        "title_id": "633147",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1715318570,
+        "tags": [
+            "moral orel episode 5 blessed union marriage sex shop stephanie"
+        ],
+        "rating_count": 762,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715745600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155227-moralorel_005.jpg",
+        "cma_id": "1328413"
     },
     {
         "auth": true,
