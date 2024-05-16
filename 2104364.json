@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1517844660,
         "auth_expiration_date": 1715831940,
         "tms_id": "EP025439100009",
@@ -317,7 +317,7 @@
     },
     {
         "ott_launch_date": 1518449460,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1716436740,
         "tms_id": "EP025439100010",
         "description": "Branski must broker a peace treaty between humans and an underwater race, the Vek.",

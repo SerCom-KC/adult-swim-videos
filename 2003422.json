@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1715831940,
-        "tms_id": "",
-        "description": "Bob is in a car accident.",
-        "title_suggest": {
-            "input": [
-                "Some Kind of Fender Benderful",
-                "Kind of Fender Benderful",
-                "of Fender Benderful",
-                "Fender Benderful",
-                "Benderful"
-            ]
-        },
-        "title": "Some Kind of Fender Benderful",
-        "type": "episode",
-        "expiration_date": 1710129540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8573,
-        "episode_number": "18",
-        "original_air_date": 1703559600,
-        "auth_launch_date": 1715227200,
-        "clip_order": null,
-        "airing_id": "RADS1005032400068634",
-        "media_id": "669fbc68e546267f1ada46a9c222c97d79a31c44",
-        "modified": 1714803065,
-        "slug": "some-kind-of-fender-benderful",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/1_24341119323-Screenshot2024-03-04at11.16.26AM.png",
-        "created": 1709179105,
-        "title_id": "2438978",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "published": 1714803065,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1709528400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_24341119323-Screenshot2024-03-04at11.16.26AM.png",
-        "id": "AY3zA3HNC2cKYm1ap-2V",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716004740,
         "tms_id": "",
         "description": "A father-daughter date becomes a group event.",
@@ -324,6 +276,51 @@
         "launch_date": 1711339200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251247137-Screenshot2024-03-25at12.46.41PM.png",
         "id": "AY5dN0G25I1d0UhX5iFE",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716436740,
+        "tms_id": "",
+        "description": "Its beach clean-up day.",
+        "title_suggest": {
+            "input": [
+                "Beach, Please",
+                "Please"
+            ]
+        },
+        "title": "Beach, Please",
+        "type": "episode",
+        "expiration_date": 1711943940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8573,
+        "episode_number": "6",
+        "original_air_date": 1704767400,
+        "auth_launch_date": 1715832000,
+        "clip_order": null,
+        "airing_id": "RADS1005092400069689",
+        "media_id": "997fbe2401930b446e244816586dde086e35d580",
+        "modified": 1715414425,
+        "slug": "beach-please",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/1_243251248197-Screenshot2024-03-25at12.47.39PM.png",
+        "created": 1710960919,
+        "title_id": "2438988",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1715414425,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1711339200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251248197-Screenshot2024-03-25at12.47.39PM.png",
+        "id": "AY5dN8OW5I1d0UhX5iFF",
         "auth": true
     },
     {

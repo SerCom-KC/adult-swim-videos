@@ -647,7 +647,7 @@
         "cma_id": "980735"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447782960,
         "auth_expiration_date": 1740632340,
         "tms_id": "EP005604540055",
@@ -1959,7 +1959,7 @@
         "cma_id": "1130632"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449842400,
         "auth_expiration_date": 1716436740,
         "tms_id": "EP005604540062",
@@ -3591,7 +3591,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449842400,
         "auth_expiration_date": 1716436740,
         "tms_id": "EP005604540061",
@@ -3809,6 +3809,84 @@
         "launch_date": 1707800400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149329-venture_139_dst_cid-M565.jpg",
         "cma_id": "1071203"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1450274400,
+        "auth_expiration_date": 1715828340,
+        "tms_id": "EP005604540060",
+        "rating": 7.8159018,
+        "description": "Dr. Venture hires an army of college interns to help with his ambitious new science project. Dean finds love among the new recruits, but class warfare and nuclear physics threaten to tear the Venture Compound apart. And if they don't, The Monarch will.",
+        "title_suggest": {
+            "input": [
+                "What Color Is Your Cleansuit?",
+                "Color Is Your Cleansuit?",
+                "Is Your Cleansuit?",
+                "Your Cleansuit?",
+                "Cleansuit?"
+            ]
+        },
+        "type": "episode",
+        "title": "What Color Is Your Cleansuit?",
+        "expiration_date": 1717646340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 2713.009,
+        "episode_number": "2",
+        "original_air_date": 1370232000,
+        "clip_order": null,
+        "auth_launch_date": 1715227200,
+        "modified": 1715779355,
+        "media_id": "c8d58e4ef8e821e084064a13e6f29066ac224997",
+        "airing_id": "RADS1005032400068648",
+        "id": "lk0dUGjxQlSFZD5KKD74Pw",
+        "slug": "what-color-is-your-cleansuit",
+        "views": 400577,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161413254-venture_509-510_dup-20130508.jpg",
+        "created": 1402945480,
+        "title_id": "2002581",
+        "season_number": "5",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1715779355,
+        "tags": [
+            "venture bros.",
+            "what color is your cleansuit",
+            "rusty",
+            "hank",
+            "dean",
+            "hatred",
+            "monarch",
+            "dr. mrs.",
+            "billy quizboy",
+            "pete white",
+            "augustus st. cloud",
+            "palaemon project",
+            "jonas jr.",
+            "intern",
+            "ray shield",
+            "science",
+            "gary",
+            "sphinx",
+            "s.p.h.i.n.x.",
+            "brock",
+            "shore leave",
+            "o.s.i."
+        ],
+        "rating_count": 2830,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715832000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161413254-venture_509-510_dup-20130508.jpg",
+        "cma_id": "1477771"
     },
     {
         "auth": true,
@@ -4138,7 +4216,7 @@
         "cma_id": "1188968"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447782900,
         "auth_expiration_date": 1740027540,
         "tms_id": "EP005604540054",
@@ -5052,5 +5130,58 @@
         "launch_date": 1707800400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211614623-venture_142_bim_V60N.jpg",
         "cma_id": "1135059"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447783140,
+        "auth_expiration_date": 1715828340,
+        "tms_id": "EP005604540059",
+        "rating": 7.2225432,
+        "description": "Halloween Special. What do you need, a roadmap?",
+        "title_suggest": {
+            "input": [
+                "Very Venture Halloween",
+                "Venture Halloween",
+                "Halloween"
+            ]
+        },
+        "type": "episode",
+        "title": "Very Venture Halloween",
+        "expiration_date": 1717041540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
+        "duration": 1351.009,
+        "episode_number": "1",
+        "original_air_date": 1351481400,
+        "clip_order": null,
+        "auth_launch_date": 1715227200,
+        "modified": 1715412624,
+        "media_id": "53e39bbf758d8e5d302cda39cb43eeba5cf4aea9",
+        "airing_id": "RADS1005032400068650",
+        "id": "y_J3sjirT--ka8Xis-XUtw",
+        "slug": "very-venture-halloween",
+        "views": 144269,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_2116141358-venture_504_dup_20121025.jpg",
+        "created": 1402945480,
+        "title_id": "965651",
+        "season_number": "5",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1715412624,
+        "tags": [],
+        "rating_count": 692,
+        "collection_title": "The Venture Bros.",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715832000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116141358-venture_504_dup_20121025.jpg",
+        "cma_id": "1473131"
     }
 ]
