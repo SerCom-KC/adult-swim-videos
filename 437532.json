@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1715918340,
-        "tms_id": "EP003034830142",
-        "description": "Fry and Leela's romantic vacation goes disturbingly wrong.",
-        "title_suggest": {
-            "input": [
-                "Fry and Leela's Big Fling",
-                "and Leela's Big Fling",
-                "Leela's Big Fling",
-                "Big Fling",
-                "Fling"
-            ]
-        },
-        "title": "Fry and Leela's Big Fling",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.7484,
-        "episode_number": "2",
-        "original_air_date": "1658106000",
-        "auth_launch_date": 1715313600,
-        "clip_order": null,
-        "airing_id": "RADS1005042400068693",
-        "media_id": "8997b9a7b93c460e2aa1b5f1de19e61f5699f28b",
-        "modified": 1714889993,
-        "slug": "fry-and-leelas-big-fling",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/1_227121048278-Futurama_1002_FryAndLeelasBigFling.png",
-        "created": 1657637319,
-        "season_number": "10",
-        "title_id": "2161660",
-        "tv_rating": "tv-14-dlv",
-        "published": 1714889993,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121048278-Futurama_1002_FryAndLeelasBigFling.png",
-        "id": "AYHy4jMBIAxeiVkFtLQW",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716004740,
         "tms_id": "EP003034830143",
         "description": "After being marooned on an distant planet, Fry is befriended by a young monster.",
@@ -183,6 +135,38 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720836356-Futurama_1005_TheInhumanTouch.png",
         "id": "AYIbnEx9IAxeiVkFtLQh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716523140,
+        "created": 1659129074,
+        "tms_id": "EP003034830148",
+        "title_id": "2161665",
+        "season_number": "10",
+        "tv_rating": "tv-14-dlsv",
+        "description": "Bender goes grave robbing to bring his favorite actor back to life.",
+        "title_suggest": {
+            "input": [
+                "Calculon 2.0",
+                "2.0"
+            ]
+        },
+        "published": 1715498325,
+        "title": "Calculon 2.0",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "7",
+        "collection_title": "Futurama",
+        "original_air_date": 1659317400,
+        "auth_launch_date": 1715918400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005102400069811",
+        "media_id": "680e87c2133a6a85f060f6c3a9bff20e9a13aab2",
+        "modified": 1715498325,
+        "slug": "calculon-2-0",
+        "id": "AYJLzJH_3sQvipyea9nQ",
         "auth": true
     },
     {
