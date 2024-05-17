@@ -222,7 +222,7 @@
         "launch_date": 1713499200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240402/thumbnails/2_24421412270-image1.png",
         "id": "AY5y-fBg5I1d0UhX5iFG",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1714708740,
@@ -323,50 +323,6 @@
         },
         "title": "Prison",
         "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AYbq0iTJ4k01GlbfzrYt",
-        "duration": 1293.9927,
-        "episode_number": "9",
-        "original_air_date": 1714104000,
-        "auth_launch_date": 1714104000,
-        "clip_order": null,
-        "airing_id": "RADS1004192400065989",
-        "media_id": "ff5b9e4a1bdcf9c1389be4da63d455d52a08f99a",
-        "modified": 1715490316,
-        "slug": "prison",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240426/thumbnails/1_244261522373-Screenshot2024-04-26at3.21.50PM.png",
-        "created": 1713549115,
-        "title_id": "2424749",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1715490316,
-        "tags": [],
-        "collection_title": "Royal Crackers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240426/thumbnails/2_244261522373-Screenshot2024-04-26at3.21.50PM.png",
-        "id": "AY73fIDr5I1d0UhX5iFr",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1715918340,
-        "tms_id": "",
-        "description": "Stebe gets sent to white collar prison, where he quickly becomes one of the most popular inmates. However, when Theo gets locked up too, Stebe's position as the 'cool guy' comes under threat.",
-        "title_suggest": {
-            "input": [
-                "Prison"
-            ]
-        },
-        "title": "Prison",
-        "type": "episode",
         "expiration_date": 1718942340,
         "collection_id": "AYbq0iTJ4k01GlbfzrYt",
         "duration": 1293.9927,
@@ -387,7 +343,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1715918400,
         "id": "AY73fILt5I1d0UhX5iFs",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1715313540,
@@ -654,7 +610,7 @@
         "launch_date": 1712894400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230408/thumbnails/2_23481123529-RoyalCrackers102Still001tiny.png",
         "id": "AYdIBhrj4k01GlbfzrY9",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1713499140,
@@ -878,7 +834,7 @@
         "launch_date": 1715918400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230513/thumbnails/2_23513184795-RoyalCrackers109Still003tiny.png",
         "id": "AYgCxgzNOz5CkuTcnvM0",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1716523140,

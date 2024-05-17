@@ -321,59 +321,6 @@
     {
         "auth": false,
         "ott_launch_date": 1451682420,
-        "auth_expiration_date": 1698379140,
-        "tms_id": "EP007008200025",
-        "rating": 7.444068,
-        "description": "Tom and the Mayor team up to renovate the Public Zoo.",
-        "title_suggest": {
-            "input": [
-                "Zoo Trouble",
-                "Trouble"
-            ]
-        },
-        "type": "episode",
-        "title": "Zoo Trouble",
-        "expiration_date": 1715918340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 686.29,
-        "episode_number": "7",
-        "original_air_date": 1155529800,
-        "clip_order": null,
-        "auth_launch_date": 1695355200,
-        "modified": 1709447297,
-        "airing_id": "RADS1003012400057722",
-        "media_id": "87d50d4e5b1618835c24ab5c96c906271e6fba38",
-        "id": "WZ6Le8FZTJaA7X_j-EvuBQ",
-        "slug": "zoo-trouble",
-        "views": 94556,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117955444-tgttm_020.jpg",
-        "created": 1402945482,
-        "title_id": "633327",
-        "season_number": "2",
-        "tv_rating": "tv-pg-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1709447297,
-        "tags": [
-            "tom goes to the mayor episode 20 zoo trouble public animals clean renovate"
-        ],
-        "rating_count": 295,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1709874000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117955444-tgttm_020.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1451682420,
         "auth_expiration_date": 1698983940,
         "tms_id": "EP007008200026",
         "rating": 8.768502,
@@ -421,6 +368,61 @@
         "modified_by": "ODT Listener",
         "launch_date": 1710475200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795648-tgttm_021.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451681820,
+        "auth_expiration_date": 1704085199,
+        "tms_id": "EP007008200005",
+        "rating": 8.462963,
+        "description": "Tom creates a T-shirt that reads \"Rats Off to Ya\" for Christmas. It becomes a local phenomenon, but the idea is quickly stolen from Tom by a local novelty store.  Jeff Garlin appears as Pat Croece, the novelty store owner.",
+        "title_suggest": {
+            "input": [
+                "Rats Off To Ya",
+                "Off To Ya",
+                "To Ya",
+                "Ya"
+            ]
+        },
+        "type": "episode",
+        "title": "Rats Off To Ya",
+        "expiration_date": 1721966340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 700.9,
+        "episode_number": "4",
+        "original_air_date": 1103517000,
+        "clip_order": null,
+        "auth_launch_date": 1701406800,
+        "modified": 1715490314,
+        "airing_id": "RADS1005102400069858",
+        "media_id": "2995848883f99b05173ce71cb26f881bf53d7d8c",
+        "id": "ls1SsyXOSXOf3Jp2Uvqgyg",
+        "slug": "rats-off-to-ya",
+        "views": 93313,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117835245-tgttm_004.jpg",
+        "created": 1402945482,
+        "title_id": "607109",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1715490314,
+        "tags": [
+            "tom goes to the mayor tgttm episode 4 rats off to ya christmas"
+        ],
+        "rating_count": 324,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715918400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835245-tgttm_004.jpg",
         "cma_id": ""
     },
     {
