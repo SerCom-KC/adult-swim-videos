@@ -98,6 +98,66 @@
     },
     {
         "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1716609540,
+        "tms_id": "EP002070020011",
+        "rating": 8.602618,
+        "description": "Hank's attempt to make Bobby dislike smoking backfires - leaving the entire family hooked on cigarettes.",
+        "title_suggest": {
+            "input": [
+                "Keeping Up with Our Joneses",
+                "Up with Our Joneses",
+                "with Our Joneses",
+                "Our Joneses",
+                "Joneses"
+            ]
+        },
+        "type": "episode",
+        "title": "Keeping Up with Our Joneses",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1389.5883,
+        "episode_number": "10",
+        "original_air_date": 1231038000,
+        "clip_order": null,
+        "auth_launch_date": 1716004800,
+        "modified": 1715579908,
+        "airing_id": "RADS1005132400069888",
+        "media_id": "ee1c713d9d3969eedf1fd0dada77f2e8e9e76a71",
+        "id": "ASQhEUL9SUqwRtxSM43tbA",
+        "slug": "keeping-up-with-our-joneses",
+        "views": 107133,
+        "created": 1402945468,
+        "title_id": "728411",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1715579908,
+        "tags": [
+            "Keeping Up With Our Joneses",
+            "King of the Hill",
+            "Adult Swim",
+            "video",
+            "funny",
+            "Mike Judge",
+            "Hank",
+            "Peggy",
+            "Bobby"
+        ],
+        "rating_count": 229,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1279857600,
+        "poster": "",
+        "cma_id": "981132"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1716523140,
         "rating": 8.602563,
         "description": "Hank must choose between attending the Dallas Mower Expo or coaching his wife at the state Boggle championships.",
@@ -197,52 +257,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1310702400,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1303337365281009403.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1716004740,
-        "rating": 8.288291,
-        "description": "Bobby attempts to make amends after he accidentally wallops Hank's idol, Willie Nelson, in the head with a golf club.",
-        "title_suggest": {
-            "input": [
-                "Hank's Got the Willies",
-                "Got the Willies",
-                "the Willies",
-                "Willies"
-            ]
-        },
-        "type": "episode",
-        "title": "Hank's Got the Willies",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1390.5558,
-        "episode_number": "5",
-        "original_air_date": 1238725800,
-        "clip_order": null,
-        "auth_launch_date": 1715400000,
-        "modified": 1714974961,
-        "airing_id": "RADS1005052400068753",
-        "media_id": "ab96f3e3b954b306867c8417fd04f8e1bcb67107",
-        "id": "xPfRpyhRQ7uyy-qBEPN4eA",
-        "slug": "hanks-got-the-willies",
-        "views": 227946,
-        "created": 1402945468,
-        "title_id": "728405",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1714974961,
-        "tags": [],
-        "rating_count": 333,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1310616000,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_7053306973805962163.jpg",
         "cma_id": ""
     }
 ]
