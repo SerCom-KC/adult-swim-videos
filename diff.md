@@ -2,138 +2,184 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 18, 2024 at 00:30:14 EDT_
+_Last Update: May 19, 2024 at 00:30:20 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 2003422 Bob's Burgers: 2  
 437532 Futurama: 1  
+2194549 Gemusetto: 1  
 629835 King of the Hill: 1  
-### 2046301
-**American Dad S11E17 - Criss-Cross Applesauce: The Ballad of Billy Jesusworth**  
-TV-14-DLV 🔒 21:13  
-⌛ May 24, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/criss-cross-applesauce-the-ballad-of-billy-jesusworth  
-seriesid=`581006` titleid=`2046301` id=`W3K_g_63TnWUsXFUZ6YMbA` mediaid=`1bbe5af02cf7f1f6492134efd9cf47446e20c8c4`  
-_When Roger breaks his ankle, Francine convinces Stan to let him play in his basketball league. Meanwhile, Steve sings a song that parodies R. Kelley's "Trapped in the Closet."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001919490614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001919490614.jpg" height="144px" /></a>
-### 2046302
-**American Dad S11E18 - Mine Struggle**  
-TV-14-DL 🔒 21:13  
-⌛ May 24, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/mine-struggle  
-seriesid=`581006` titleid=`2046302` id=`rgVIN2_yS7KtzI9iO0-BHQ` mediaid=`a5a1ccbbd87d3bc6d359183163c41efaae53ca36`  
-_When Stan discovers a salt mine in the backyard, the Morton Salt Company wants to buy it. It turns out Steve is the rightful owner of the land and he faces pressure from the family to sell._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002060033816.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002060033816.jpg" height="144px" /></a>
-### 2438991
-**Bob's Burgers S12E09 - FOMO You Didn't**  
-TV-PG-L 🔒 21:32  
-⌛ May 24, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/fomo-you-didnt  
-seriesid=`2003422` titleid=`2438991` id=`AY59c3EuC2cKYm1ap_Aj` mediaid=`86b34eef0b237e7bf4667743300d3f4f34975979`  
-_Tina feels left out._  
-<a href="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411146151-Screenshot2024-04-01at11.45.52AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411146151-Screenshot2024-04-01at11.45.52AM.png" height="144px" /></a>
-### 2438992
-**Bob's Burgers S12E10 - Gene's Christmas Break**  
-TV-PG-L 🔒 21:31  
-⌛ May 24, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/genes-christmas-break  
-seriesid=`2003422` titleid=`2438992` id=`AYxrmH9an_kciGPPrDyg` mediaid=`df9ccbd8ce61ba2d7c6f7ca6ddf57bbaa55d806e`  
-_The kids have a Christmas mission._  
-<a href="https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_2312181152390-Screenshot2023-12-18at11.52.07AM.png"><img src="https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_2312181152390-Screenshot2023-12-18at11.52.07AM.png" height="144px" /></a>
-### 2161666
-**Futurama S10E08 - Assie Come Home**  
-TV-14-DLSV 🔒 22:32  
-⌛ May 24, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/assie-come-home  
-seriesid=`437532` titleid=`2161666` id=`AYJfdIRSIAxeiVkFtLQz` mediaid=`e41d93ec5521496931ab25e9889c9b9de1dfd8ec`  
-_Bender searches the universe for his missing shiny metal rear end._  
-<a href="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247194-Futurama_1008_AssieComeHome.png"><img src="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247194-Futurama_1008_AssieComeHome.png" height="144px" /></a>
-### 728411
-**King of the Hill S01E10 - Keeping Up with Our Joneses**  
-TV-PG-L 🔒 23:09  
-⌛ May 24, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/keeping-up-with-our-joneses  
-seriesid=`629835` titleid=`728411` id=`ASQhEUL9SUqwRtxSM43tbA` mediaid=`ee1c713d9d3969eedf1fd0dada77f2e8e9e76a71`  
-_Hank's attempt to make Bobby dislike smoking backfires - leaving the entire family hooked on cigarettes._  
-<a href=""><img src="" height="144px" /></a>
-## Video removed
-### Summary
-2003422 Bob's Burgers: 2  
 322328 Space Ghost Coast to Coast: 1  
-437532 Futurama: 1  
-581006 American Dad: 2  
-581268 Squidbillies: 2  
-629835 King of the Hill: 1  
-### 2438982
-**Bob's Burgers S11E22 - Vampire Disco Death Dance**  
-TV-PG-DL 🔒 21:31  
-⌛ May 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/vampire-disco-death-dance  
-seriesid=`2003422` titleid=`2438982` id=`AY462YuLC2cKYm1ap-2c` mediaid=`a2f54769bea4575c9dc52ad5dba30c4fbf03131b`  
-_A father-daughter date becomes a group event._  
-<a href="https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318811514-Screenshot2024-03-18at8.11.27AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318811514-Screenshot2024-03-18at8.11.27AM.png" height="144px" /></a>
-### 2438981
-**Bob's Burgers S11E21 - Tell Me Dumb Thing Good**  
+895948 The Eric Andre Show: 1  
+### 2046303
+**American Dad S11E19 - Garfield and Friends**  
+TV-14-DS 🔒 21:13  
+⌛ May 25, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/garfield-and-friends  
+seriesid=`581006` titleid=`2046303` id=`zZQ5HOGITi-MZLcWyokOvw` mediaid=`bcae2d4c267b3b5da65b306a4eef3ecdf5762f4b`  
+_Stan brings President Garfield back to life in order to teach Hayley about history. Steve writes for the school newspaper._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200192969994.jpg" height="144px" /></a>
+### 2046304
+**American Dad S11E20 - Gift Me Liberty**  
+TV-14-DL 🔒 21:13  
+⌛ May 25, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/gift-me-liberty  
+seriesid=`581006` titleid=`2046304` id=`Kdd_ZRQXR3WvddNQ21__zw` mediaid=`c0fe3ef833bf38b2c9fd4d757f088b5e870d7175`  
+_When Bullock is upset that somebody did not bring a gift to the CIA Secret Santa party, Stan goes on a mission to find out who it was. Meanwhile, Steve poses as the good guy boyfriend of several female classmates._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193496497.jpg" height="144px" /></a>
+### 2438994
+**Bob's Burgers S12E12 - Ferry on My Wayward Bob and Linda**  
+TV-PG-DL 🔒 21:27  
+⌛ May 25, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/ferry-on-my-wayward-bob-and-linda  
+seriesid=`2003422` titleid=`2438994` id=`AY6h44s6C2cKYm1ap_HL` mediaid=`916f9490a4173b930127257691ff5d73a850f749`  
+_Bob and Linda celebrate Valentine's Day._  
+<a href=""><img src="" height="144px" /></a>
+### 2438993
+**Bob's Burgers S12E11 - Touch of Eval(uations)**  
 TV-PG-L 🔒 21:31  
-⌛ May 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/tell-me-dumb-thing-good  
-seriesid=`2003422` titleid=`2438981` id=`AY4W4iyD1E7YmWrdXL_U` mediaid=`b3123d49204acdc8923c0be83243831efd025599`  
-_Linda recruits the kids to help save a local tradition._  
-<a href="https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111222447-Screenshot2024-03-11at12.21.25PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111222447-Screenshot2024-03-11at12.21.25PM.png" height="144px" /></a>
+⌛ May 25, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/touch-of-eval-uations  
+seriesid=`2003422` titleid=`2438993` id=`AY59c9Vn5I1d0UhX5iFK` mediaid=`501bad463e0eb02fc3a073701dd6a7d663a52ef3`  
+_The kids have all the power._  
+<a href="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411145187-Screenshot2024-04-01at11.44.54AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411145187-Screenshot2024-04-01at11.44.54AM.png" height="144px" /></a>
+### 2161667
+**Futurama S10E09 - Leela and the Genestalk**  
+TV-14-DLV 🔒 22:32  
+⌛ May 25, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/leela-and-the-genestalk  
+seriesid=`437532` titleid=`2161667` id=`AYJfdRLqIAxeiVkFtLQ0` mediaid=`e6801cf943f3b3c67d9fb8431a73f82f5213c9dc`  
+_After a rare condition causes Leela to grow tentacles, she stumbles upon a secret genetic-engineering facility._  
+<a href="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png"><img src="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png" height="144px" /></a>
+### 2241830
+**Gemusetto S02E05 - Episode Five: Db6**  
+TV-MA 🔓 11:15  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-five-db-6  
+seriesid=`2194549` titleid=`2241830` id=`AXW5UK4TLyLQBOXK_Pg4` mediaid=`aa736f072afa3c48423ec8ddda54b5dc28af319b`  
+_To reach the Center Of All Death, our heroes board a ferry that's attempting to navigate multiple mythological rivers. Who is more dangerous- some of the dead passengers, or the enigmatic Finnish psychopomp boat captain, Tytti?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111734488-GSMP_205_dup-20201103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111734488-GSMP_205_dup-20201103.jpg" height="144px" /></a>
+### 728413
+**King of the Hill S01E11 - Plastic White Female**  
+TV-PG-DL 🔒 23:02  
+⌛ May 25, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/plastic-white-female  
+seriesid=`629835` titleid=`728413` id=`6K-CeLeMRtWrfejSc7_0kA` mediaid=`753dd41fd1836088a8b3218a1cb88fa4cde86b07`  
+_Hank and Peggy jump to conclusions when they discover Bobby using one of Luanne's plastic beautician school heads to practice interacting with girls._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_62478.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_62478.jpg" height="144px" /></a>
 ### 327307
 **Space Ghost Coast to Coast S05E11 - Intense Patriotism**  
 TV-PG 🔓 11:09  
-⌛ May 17, 2024 at 23:59:00 EDT  
+⌛ June 10, 2025 at 23:59:00 EDT  
 https://www.adultswim.com/videos/space-ghost-coast-to-coast/intense-patriotism  
 seriesid=`322328` titleid=`327307` id=`AYl0Q3XPOz5CkuTcnwSE` mediaid=`5ccc9e16776a3052334e1c0b075d0996d7c0ef99`  
 _Space Ghost attempts to take Ghost Planet to the United States, and consequently focuses the show on various aspects of America. Zorak fools Space Ghost into thinking that his mantis droppings are his children._  
 <a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420114948-sgc2c_9811.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420114948-sgc2c_9811.jpg" height="144px" /></a>
-### 2161661
-**Futurama S10E03 - T.: The Terrestrial**  
-TV-14-DLV 🔒 22:32  
-⌛ May 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/t-the-terrestrial  
-seriesid=`437532` titleid=`2161661` id=`AYHy4ru-IAxeiVkFtLQX` mediaid=`be2c736a391b879fa42acf1e069e26deb4920c8f`  
-_After being marooned on an distant planet, Fry is befriended by a young monster._  
-<a href="https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_22712104959-Futurama_1003_TTheTerrestrial.png"><img src="https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_22712104959-Futurama_1003_TTheTerrestrial.png" height="144px" /></a>
-### 2041478
-**American Dad S11E05 - Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers**  
+### 2032597
+**The Eric Andre Show S03E02 - Lauren Conrad; Reese Witherspoon**  
+TV-MA-L 🔓 11:13  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/lauren-conrad-reese-witherspoon  
+seriesid=`895948` titleid=`2032597` id=`dfREpMy4Q7iCmuW0KvCURQ` mediaid=`47ac561753e14587629a811e87833064399d6e2c`  
+_Interviews with Lauren Conrad and "Reese Witherspoon"; Musical guest Hannibal Buress._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341615265-ericandre_022_dup-20141105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341615265-ericandre_022_dup-20141105.jpg" height="144px" /></a>
+## Video removed
+### Summary
+2003422 Bob's Burgers: 1  
+2288454 My Adventures with Superman: 2  
+322328 Space Ghost Coast to Coast: 1  
+343621 Samurai Jack: 1  
+437532 Futurama: 1  
+581006 American Dad: 2  
+581268 Squidbillies: 1  
+629835 King of the Hill: 1  
+895948 The Eric Andre Show: 1  
+### 2438983
+**Bob's Burgers S12E01 - Manic Pixie Crap Show**  
+TV-PG-DL 🔓 21:31  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/manic-pixie-crap-show  
+seriesid=`2003422` titleid=`2438983` id=`AY462fyJC2cKYm1ap-2d` mediaid=`f19d595390b4fab5b69dabe94438d5f2e4604b72`  
+_Louise pays back a debt._  
+<a href="https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318812452-Screenshot2024-03-18at8.12.22AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318812452-Screenshot2024-03-18at8.12.22AM.png" height="144px" /></a>
+### 2288459
+**My Adventures with Superman S01E05 - You Will Believe a Man Can Lie**  
+TV-PG-V 🔓 22:32  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/you-will-believe-a-man-can-lie  
+seriesid=`2288454` titleid=`2288459` id=`AYkm0YCs2rZC6NyF61-A` mediaid=`690e925eaf4c9264cb07eca9dc05221732123fa9`  
+_Lois uncovers a secret in Metropolis and is determined to get to the truth. Meanwhile, Superman tracks down dangerous weapons in the city…and finds himself in the crosshairs of mysterious organization Task Force X._  
+<a href="https://media.cdn.adultswim.com/uploads/20230728/thumbnails/2_2372896386-MAWS105.png"><img src="https://media.cdn.adultswim.com/uploads/20230728/thumbnails/2_2372896386-MAWS105.png" height="144px" /></a>
+### 2288464
+**My Adventures with Superman S01E10 - Hearts of the Fathers**  
+TV-PG 🔓 22:30  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/hearts-of-the-fathers  
+seriesid=`2288454` titleid=`2288464` id=`AYnP9I62Oz5CkuTcnwj3` mediaid=`f23e1b4b6396327429106a65bf91f9c330121bfc`  
+_It's Thanksgiving, and Clark, Lois, and Jimmy are heading to the Kent farm to celebrate - but the holiday turns into a fight for survival as Task Force X, family, and Kryptonite collide!_  
+<a href="https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387824138-AS_MAWS_10_HeartsOfTheFathers-7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387824138-AS_MAWS_10_HeartsOfTheFathers-7.jpg" height="144px" /></a>
+### 322753
+**Space Ghost Coast to Coast S02E07 - Jerk**  
+TV-PG 🔓 17:33  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/jerk  
+seriesid=`322328` titleid=`322753` id=`AYl0K47h2rZC6NyF61-F` mediaid=`7aded50ef0eca0ecc42ca02145aa9375345936c1`  
+_Space Ghost adds a few new twists: a live studio audience, a remarkably versatile applause sign and viewer call-in. The results fall flat and Space Ghost isn't happy. Palmer Mills and Sandra Bernhard come to agree Space Ghost is a jerk._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417952403-sgc2c_9507_dst_cid-9105375.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417952403-sgc2c_9507_dst_cid-9105375.jpg" height="144px" /></a>
+### 343643
+**Samurai Jack S02E03 - XVI**  
+TV-Y7-FV 🔓 22:39  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xvi  
+seriesid=`343621` titleid=`343643` id=`9hmaQ0LrSCe7L-Tnac1jOg` mediaid=`4c4bf91cf4d589bae3fd2384aeed97e3b61a08af`  
+_Jack is kidnapped and placed in a chain gang of warriors chosen to battle in front of a coliseum audience against the Dome of Doom's Champions._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461643253-samjack_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461643253-samjack_016.jpg" height="144px" /></a>
+### 2161662
+**Futurama S10E04 - Forty Percent Leadbelly**  
+TV-14-DLSV 🔓 22:44  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/forty-percent-leadbelly  
+seriesid=`437532` titleid=`2161662` id=`AYIbm8ye3sQvipyea9fv` mediaid=`6e0147cdd8a1545e523f912d3e77f5c5a4039f0d`  
+_At a maximum security prison, Bender meets a famous folk singer and attempts to make a copy of his precious guitar._  
+<a href="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_2272083625-Futurama_1004_FortyPercentLeadbelly.png"><img src="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_2272083625-Futurama_1004_FortyPercentLeadbelly.png" height="144px" /></a>
+### 2041482
+**American Dad S11E08 - Stan-Dan Deliver**  
 TV-14-DL 🔓 21:13  
-⌛ May 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/stan-smith-as-keanu-reeves-as-stanny-utah-in-point-breakers  
-seriesid=`581006` titleid=`2041478` id=`lhPueYEFSTGBnbn2xsc9Mg` mediaid=`4cde6df2cf3a0feeeb011c1a3f37bd5b11265a73`  
-_Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg" height="144px" /></a>
-### 2041480
-**American Dad S11E06 - Kiss Kiss, Cam Cam**  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stan-dan-deliver  
+seriesid=`581006` titleid=`2041482` id=`IYkYK4IVTA21Vz0sQ_JUlg` mediaid=`663a700b4eb572b5f4a1ca789a87fb2a975d5a35`  
+_Roger becomes a teacher at Steve's school and gets involved with a class of underprivileged kids. Meanwhile, Stan and Francine visit a retirement home and Stan decides to stay._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001096643616.jpg" height="144px" /></a>
+### 2041481
+**American Dad S11E07 - The Devil Wears a Lapel Pin**  
 TV-14-DLSV 🔓 21:13  
-⌛ May 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/kiss-kiss-cam-cam  
-seriesid=`581006` titleid=`2041480` id=`un5GKAHcTHu0l8SJPfqaCQ` mediaid=`faa90c29cc11253743403a1cafcb14f0c5dbeded`  
-_Stan gets Francine baseball tickets for her birthday but is upset when they have a horrible kiss on the kiss cam. Steve and Roger head to Nevada to help clean polluted water._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001086516217.jpg" height="144px" /></a>
-### 961484
-**Squidbillies S07E05 - The Legend of Kid Squid**  
-TV-14-LV 🔓 11:14  
-⌛ May 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-legend-of-kid-squid  
-seriesid=`581268` titleid=`961484` id=`6XJin83FQ0GUPzpZtgC4uA` mediaid=`afb9e19941c1c115526b1627d61bc667d3a688d4`  
-_Early gets jealous that Rusty has been taking the credit for all the crimes Early blamed on him._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141053373-squidbillies_605_dup-20120817.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141053373-squidbillies_605_dup-20120817.jpg" height="144px" /></a>
-### 961485
-**Squidbillies S07E06 - From Russia With Stud**  
-TV-14-DLSV 🔓 11:13  
-⌛ May 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/from-russia-with-stud  
-seriesid=`581268` titleid=`961485` id=`OTgj7tTCT02kfs-fiTf1NQ` mediaid=`cdf1c54fbd157d803fde6646165275b0dd161cc3`  
-_Sheriff almost makes the biggest mistake of his life, then does._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141054324-squidbillies_606_dup-20120824.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141054324-squidbillies_606_dup-20120824.jpg" height="144px" /></a>
-### 728405
-**King of the Hill S01E05 - Hank's Got the Willies**  
-TV-PG-DL 🔒 23:10  
-⌛ May 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/hanks-got-the-willies  
-seriesid=`629835` titleid=`728405` id=`xPfRpyhRQ7uyy-qBEPN4eA` mediaid=`ab96f3e3b954b306867c8417fd04f8e1bcb67107`  
-_Bobby attempts to make amends after he accidentally wallops Hank's idol, Willie Nelson, in the head with a golf club._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_7053306973805962163.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_7053306973805962163.jpg" height="144px" /></a>
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-devil-wears-a-lapel-pin  
+seriesid=`581006` titleid=`2041481` id=`rR4-zIOsQj-NMJYR98be7Q` mediaid=`334843941c601d3a70f4a6bb02f047db8a69f3f9`  
+_When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200209247612.jpg" height="144px" /></a>
+### 798534
+**Squidbillies S05E05 - Holodeck Redneck**  
+TV-MA 🔓 11:32  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/holodeck-redneck  
+seriesid=`581268` titleid=`798534` id=`nexRRtWvQOG5QFWpy6ujOg` mediaid=`5193a7af78fe26fe1aca09e920fb49d039886964`  
+_Advances in modern technology allow Early to visit Florida._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131318524-squidbillies_056_dst_cid-TFWW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131318524-squidbillies_056_dst_cid-TFWW.jpg" height="144px" /></a>
+### 728408
+**King of the Hill S01E06 - Westie Side Story**  
+TV-PG-DL 🔓 23:08  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/westie-side-story  
+seriesid=`629835` titleid=`728408` id=`-gAmroqaQOKmYuJs7LklpA` mediaid=`5d85d146fa34be08413f1d5b969db24dad4fc8bf`  
+_Hank mistakenly believes that his new Laotian neighbors use dog meat to make their delicious barbecued hamburgers._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41587.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41587.jpg" height="144px" /></a>
+### 2418682
+**The Eric Andre Show S06E02 - Jaleel Blanco**  
+TV-MA-LS 🔓 11:12  
+⌛ May 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/jaleel-blanco  
+seriesid=`895948` titleid=`2418682` id=`AYh39uYSOz5CkuTcnvn8` mediaid=`38a89c8adc96d928ba17aa8b6560f0d3c8ee16ac`  
+_Eric welcomes Mia Khalifa and Jaleel White. Human statutes have a brutal fight in New York City. Goober Driver goes off roading._  
+<a href="https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365830282-TheEricAndreShow602Still002tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365830282-TheEricAndreShow602Still002tiny.png" height="144px" /></a>

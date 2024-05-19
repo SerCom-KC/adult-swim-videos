@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1716091140,
-        "tms_id": "",
-        "description": "Louise pays back a debt.",
-        "title_suggest": {
-            "input": [
-                "Manic Pixie Crap Show",
-                "Pixie Crap Show",
-                "Crap Show",
-                "Show"
-            ]
-        },
-        "title": "Manic Pixie Crap Show",
-        "type": "episode",
-        "expiration_date": 1711339140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.7906,
-        "episode_number": "1",
-        "original_air_date": 1704164400,
-        "auth_launch_date": 1715486400,
-        "clip_order": null,
-        "airing_id": "RADS1005062400068822",
-        "media_id": "f19d595390b4fab5b69dabe94438d5f2e4604b72",
-        "modified": 1715061443,
-        "slug": "manic-pixie-crap-show",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240318/thumbnails/1_24318812452-Screenshot2024-03-18at8.12.22AM.png",
-        "created": 1710384348,
-        "title_id": "2438983",
-        "season_number": "12",
-        "tv_rating": "tv-pg-dl",
-        "published": 1715061443,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1710734400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318812452-Screenshot2024-03-18at8.12.22AM.png",
-        "id": "AY462fyJC2cKYm1ap-2d",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1716609540,
         "tms_id": "",
         "description": "Tina feels left out.",
@@ -136,6 +89,52 @@
         "launch_date": 1711944000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_2441114461-Screenshot2024-04-01at11.43.30AM.png",
         "id": "AY59c87jC2cKYm1ap_Ak",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716695940,
+        "tms_id": "",
+        "description": "The kids have all the power.",
+        "title_suggest": {
+            "input": [
+                "Touch of Eval(uations)",
+                "of Eval(uations)",
+                "Eval(uations)"
+            ]
+        },
+        "title": "Touch of Eval(uations)",
+        "type": "episode",
+        "expiration_date": 1712548740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.9573,
+        "episode_number": "11",
+        "original_air_date": 1705368600,
+        "auth_launch_date": 1716091200,
+        "clip_order": null,
+        "airing_id": "RADS1005132400070087",
+        "media_id": "501bad463e0eb02fc3a073701dd6a7d663a52ef3",
+        "modified": 1715667723,
+        "slug": "touch-of-eval-uations",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240401/thumbnails/1_24411145187-Screenshot2024-04-01at11.44.54AM.png",
+        "created": 1711501727,
+        "title_id": "2438993",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1715667723,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1711944000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411145187-Screenshot2024-04-01at11.44.54AM.png",
+        "id": "AY59c9Vn5I1d0UhX5iFK",
         "auth": true
     },
     {
@@ -272,6 +271,56 @@
         "launch_date": 1711339200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_24325124614-Screenshot2024-03-25at12.45.35PM.png",
         "id": "AY5dNtBWC2cKYm1ap-6g",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716695940,
+        "tms_id": "",
+        "description": "Bob and Linda celebrate Valentine's Day.",
+        "title_suggest": {
+            "input": [
+                "Ferry on My Wayward Bob and Linda",
+                "on My Wayward Bob and Linda",
+                "My Wayward Bob and Linda",
+                "Wayward Bob and Linda",
+                "Bob and Linda",
+                "and Linda",
+                "Linda"
+            ]
+        },
+        "title": "Ferry on My Wayward Bob and Linda",
+        "type": "episode",
+        "expiration_date": 1713153540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1287.1191,
+        "episode_number": "12",
+        "original_air_date": 1705370400,
+        "auth_launch_date": 1716091200,
+        "clip_order": null,
+        "airing_id": "RADS1005132400070089",
+        "media_id": "916f9490a4173b930127257691ff5d73a850f749",
+        "modified": 1715666202,
+        "slug": "ferry-on-my-wayward-bob-and-linda",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1712113027,
+        "title_id": "2438994",
+        "season_number": "12",
+        "tv_rating": "tv-pg-dl",
+        "published": 1715666202,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1712548800,
+        "poster": "",
+        "id": "AY6h44s6C2cKYm1ap_HL",
         "auth": true
     },
     {
