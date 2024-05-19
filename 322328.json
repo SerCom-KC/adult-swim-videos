@@ -671,50 +671,6 @@
     },
     {
         "auth_expiration_date": null,
-        "tms_id": "EP001022180028",
-        "description": "Space Ghost adds a few new twists: a live studio audience, a remarkably versatile applause sign and viewer call-in. The results fall flat and Space Ghost isn't happy. Palmer Mills and Sandra Bernhard come to agree Space Ghost is a jerk.",
-        "title_suggest": {
-            "input": [
-                "Jerk"
-            ]
-        },
-        "title": "Jerk",
-        "expiration_date": 1716091140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 1053.2522,
-        "episode_number": "7",
-        "original_air_date": "901337400",
-        "auth_launch_date": null,
-        "clip_order": null,
-        "airing_id": "RADS1007052300006926",
-        "media_id": "7aded50ef0eca0ecc42ca02145aa9375345936c1",
-        "modified": 1691143117,
-        "slug": "jerk",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417952403-sgc2c_9507_dst_cid-9105375.jpg",
-        "created": 1689871158,
-        "season_number": "2",
-        "title_id": "322753",
-        "tv_rating": "tv-pg",
-        "published": 1691143117,
-        "tags": [],
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1688875200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417952403-sgc2c_9507_dst_cid-9105375.jpg",
-        "id": "AYl0K47h2rZC6NyF61-F",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": null,
         "tms_id": "EP001022180048",
         "description": "Space Ghost pays tribute to Women in the Entertainment Industry. Fran Drescher paralyzes Space Ghost with desire. Carol Channing dispenses advice to soothe his heart but this comfort is ruined by the appearance of rocker Alice Cooper.",
         "title_suggest": {
@@ -1494,6 +1450,51 @@
         "launch_date": 1714881600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201144245-sgc2c_9804_dst_cid-9139559.jpg",
         "id": "AYl0PWxwOz5CkuTcnwR_",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "EP001022180086",
+        "description": "Space Ghost attempts to take Ghost Planet to the United States, and consequently focuses the show on various aspects of America. Zorak fools Space Ghost into thinking that his mantis droppings are his children.",
+        "title_suggest": {
+            "input": [
+                "Intense Patriotism",
+                "Patriotism"
+            ]
+        },
+        "title": "Intense Patriotism",
+        "expiration_date": 1749614340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 669.2352,
+        "episode_number": "11",
+        "original_air_date": "912830400",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1005182400070793",
+        "media_id": "5ccc9e16776a3052334e1c0b075d0996d7c0ef99",
+        "modified": 1716057266,
+        "slug": "intense-patriotism",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420114948-sgc2c_9811.jpg",
+        "created": 1689872725,
+        "season_number": "5",
+        "title_id": "327307",
+        "tv_rating": "tv-pg",
+        "published": 1716057266,
+        "tags": [],
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1716091200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420114948-sgc2c_9811.jpg",
+        "id": "AYl0Q3XPOz5CkuTcnwSE",
         "auth": false
     },
     {

@@ -1,54 +1,5 @@
 [
     {
-        "auth": false,
-        "auth_expiration_date": 1716091140,
-        "rating": 7.730339,
-        "description": "Hank mistakenly believes that his new Laotian neighbors use dog meat to make their delicious barbecued hamburgers.",
-        "title_suggest": {
-            "input": [
-                "Westie Side Story",
-                "Side Story",
-                "Story"
-            ]
-        },
-        "type": "episode",
-        "title": "Westie Side Story",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1388.1868,
-        "episode_number": "6",
-        "original_air_date": 1230865200,
-        "clip_order": null,
-        "auth_launch_date": 1715486400,
-        "modified": 1715061734,
-        "airing_id": "RADS1005062400068827",
-        "media_id": "5d85d146fa34be08413f1d5b969db24dad4fc8bf",
-        "id": "-gAmroqaQOKmYuJs7LklpA",
-        "slug": "westie-side-story",
-        "views": 99004,
-        "created": 1402945468,
-        "title_id": "728408",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1715061734,
-        "tags": [
-            "King of the Hill",
-            "Westie Side Story",
-            "106"
-        ],
-        "rating_count": 267,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1249012800,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41587.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "auth_expiration_date": 1716436740,
         "rating": 8.135338,
@@ -95,6 +46,67 @@
         "modified_by": "ODT Listener",
         "launch_date": 1249012800,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41597.jpg"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1716695940,
+        "tms_id": "EP002070020013",
+        "rating": 8.410812,
+        "description": "Hank and Peggy jump to conclusions when they discover Bobby using one of Luanne's plastic beautician school heads to practice interacting with girls.",
+        "title_suggest": {
+            "input": [
+                "Plastic White Female",
+                "White Female",
+                "Female"
+            ]
+        },
+        "type": "episode",
+        "title": "Plastic White Female",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1382.2142,
+        "episode_number": "11",
+        "original_air_date": 1231039800,
+        "clip_order": null,
+        "auth_launch_date": 1716091200,
+        "modified": 1715672190,
+        "airing_id": "RADS1005132400070092",
+        "media_id": "753dd41fd1836088a8b3218a1cb88fa4cde86b07",
+        "id": "6K-CeLeMRtWrfejSc7_0kA",
+        "slug": "plastic-white-female",
+        "views": 397291,
+        "created": 1402945468,
+        "title_id": "728413",
+        "season_number": "1",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1715672190,
+        "tags": [
+            "king of the hill",
+            "season 1",
+            "episode 11",
+            "plastic white female",
+            "hank",
+            "peggy",
+            "conclusion",
+            "discover",
+            "bobby",
+            "luanne",
+            "plastic head",
+            "practice",
+            "interact",
+            "girl"
+        ],
+        "rating_count": 555,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1295413200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_62478.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,

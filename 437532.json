@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1716091140,
-        "tms_id": "EP003034830145",
-        "description": "At a maximum security prison, Bender meets a famous folk singer and attempts to make a copy of his precious guitar.",
-        "title_suggest": {
-            "input": [
-                "Forty Percent Leadbelly",
-                "Percent Leadbelly",
-                "Leadbelly"
-            ]
-        },
-        "title": "Forty Percent Leadbelly",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1364.363,
-        "episode_number": "4",
-        "original_air_date": "1658710800",
-        "auth_launch_date": 1715486400,
-        "clip_order": null,
-        "airing_id": "RADS1005062400068825",
-        "media_id": "6e0147cdd8a1545e523f912d3e77f5c5a4039f0d",
-        "modified": 1715061444,
-        "slug": "forty-percent-leadbelly",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/1_2272083625-Futurama_1004_FortyPercentLeadbelly.png",
-        "created": 1658320571,
-        "season_number": "10",
-        "title_id": "2161662",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1715061444,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_2272083625-Futurama_1004_FortyPercentLeadbelly.png",
-        "id": "AYIbm8ye3sQvipyea9fv",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1716177540,
         "tms_id": "EP003034830146",
         "description": "Bender becomes a famous firefighter, but the crew suspects him of arson.",
@@ -214,6 +168,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247194-Futurama_1008_AssieComeHome.png",
         "id": "AYJfdIRSIAxeiVkFtLQz",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716695940,
+        "tms_id": "EP003034830150",
+        "description": "After a rare condition causes Leela to grow tentacles, she stumbles upon a secret genetic-engineering facility.",
+        "title_suggest": {
+            "input": [
+                "Leela and the Genestalk",
+                "and the Genestalk",
+                "the Genestalk",
+                "Genestalk"
+            ]
+        },
+        "title": "Leela and the Genestalk",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "9",
+        "original_air_date": "1659922200",
+        "auth_launch_date": 1716091200,
+        "clip_order": null,
+        "airing_id": "RADS1005132400070090",
+        "media_id": "e6801cf943f3b3c67d9fb8431a73f82f5213c9dc",
+        "modified": 1715671312,
+        "slug": "leela-and-the-genestalk",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_22821247568-Futurama_1009_LeelaAndTheGenestalk.png",
+        "created": 1659458884,
+        "season_number": "10",
+        "title_id": "2161667",
+        "tv_rating": "tv-14-dlv",
+        "published": 1715671312,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png",
+        "id": "AYJfdRLqIAxeiVkFtLQ0",
         "auth": true
     }
 ]
