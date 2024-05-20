@@ -372,6 +372,39 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1717991940,
+        "created": 1715722307,
+        "tms_id": "",
+        "title_id": "2424767",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "description": "Allan is tasked with finding more paper clips for the office. *Spits on you*",
+        "title_suggest": {
+            "input": [
+                "A Allan Adventure",
+                "Allan Adventure",
+                "Adventure"
+            ]
+        },
+        "published": 1715749551,
+        "title": "A Allan Adventure",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 675.041,
+        "episode_number": "3",
+        "collection_title": "Smiling Friends",
+        "original_air_date": 1716177600,
+        "auth_launch_date": 1716177600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005142400070278",
+        "media_id": "0f01dfa59c949fda462b87567184f0e44a73304e",
+        "modified": 1715749551,
+        "slug": "a-allan-adventure",
+        "id": "AY95BMcCC2cKYm1ap_uZ",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Yes, You Do Need to Watch This Important Episode of Smiling Friends Where They Help the President Smile. Here's Why That's a Good Thing.",

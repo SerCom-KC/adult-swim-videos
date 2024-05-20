@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1716177540,
-        "tms_id": "EP003034830146",
-        "description": "Bender becomes a famous firefighter, but the crew suspects him of arson.",
-        "title_suggest": {
-            "input": [
-                "The Inhuman Torch",
-                "Inhuman Torch",
-                "Torch"
-            ]
-        },
-        "title": "The Inhuman Torch",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "5",
-        "original_air_date": "1658712600",
-        "auth_launch_date": 1715572800,
-        "clip_order": null,
-        "airing_id": "RADS1005082400069062",
-        "media_id": "f511f54cdabbff20fd446b858a1baf6d5f4c301b",
-        "modified": 1715148267,
-        "slug": "the-inhuman-torch",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/1_22720836356-Futurama_1005_TheInhumanTouch.png",
-        "created": 1658320604,
-        "season_number": "10",
-        "title_id": "2161663",
-        "tv_rating": "tv-14-dl",
-        "published": 1715148267,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720836356-Futurama_1005_TheInhumanTouch.png",
-        "id": "AYIbnEx9IAxeiVkFtLQh",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716523140,
         "created": 1659129074,
         "tms_id": "EP003034830148",
@@ -75,53 +29,6 @@
         "modified": 1715498325,
         "slug": "calculon-2-0",
         "id": "AYJLzJH_3sQvipyea9nQ",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1716177540,
-        "tms_id": "EP003034830147",
-        "description": "The Futurama gang stars in a trio of craptastic morning cartoons.",
-        "title_suggest": {
-            "input": [
-                "Saturday Morning Fun Pit",
-                "Morning Fun Pit",
-                "Fun Pit",
-                "Pit"
-            ]
-        },
-        "title": "Saturday Morning Fun Pit",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1359.1244,
-        "episode_number": "6",
-        "original_air_date": 1659315600,
-        "auth_launch_date": 1715572800,
-        "clip_order": null,
-        "airing_id": "RADS1005082400069060",
-        "media_id": "125cbdea91176da4381102812c5ca3f56c22369a",
-        "modified": 1715806681,
-        "slug": "saturday-morning-fun-pit",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240515/thumbnails/1_245151657530-Screenshot2024-05-15at4.28.10PM.png",
-        "created": 1659129081,
-        "title_id": "2161664",
-        "season_number": "10",
-        "tv_rating": "tv-14-dlv",
-        "published": 1715806681,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "undefined undefined",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240515/thumbnails/2_245151657530-Screenshot2024-05-15at4.28.10PM.png",
-        "id": "AYJLzKzPIAxeiVkFtLQq",
         "auth": true
     },
     {
@@ -215,6 +122,100 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png",
         "id": "AYJfdRLqIAxeiVkFtLQ0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716782340,
+        "tms_id": "EP003034830151",
+        "description": "The crew journeys into Fry's dreams to seek the meaning of a mysterious alien melody.",
+        "title_suggest": {
+            "input": [
+                "Game of Tones",
+                "of Tones",
+                "Tones"
+            ]
+        },
+        "title": "Game of Tones",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "10",
+        "original_air_date": "1660525200",
+        "auth_launch_date": 1716177600,
+        "clip_order": null,
+        "airing_id": "RADS1005142400070254",
+        "media_id": "11b15054d21b4c0e56a70243cbddce570fcc19b6",
+        "modified": 1715750730,
+        "slug": "game-of-tones",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_22891351538-Futurama_1010_GameOfTomes.png",
+        "created": 1660067523,
+        "season_number": "10",
+        "title_id": "2161668",
+        "tv_rating": "tv-14-dl",
+        "published": 1715750730,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891351538-Futurama_1010_GameOfTomes.png",
+        "id": "AYKDvCruIAxeiVkFtLRU",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716782340,
+        "tms_id": "EP003034830152",
+        "description": "The crew becomes trapped aboard ship with a horrific alien creature.",
+        "title_suggest": {
+            "input": [
+                "Murder on the Planet Express",
+                "on the Planet Express",
+                "the Planet Express",
+                "Planet Express",
+                "Express"
+            ]
+        },
+        "title": "Murder on the Planet Express",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1358.8575,
+        "episode_number": "11",
+        "original_air_date": "1660527000",
+        "auth_launch_date": 1716177600,
+        "clip_order": null,
+        "airing_id": "RADS1005142400070256",
+        "media_id": "f99b584d349c5da0fa3f2c7a53c1c5f5b19e6522",
+        "modified": 1715754357,
+        "slug": "murder-on-the-planet-express",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_22891353139-Futurama_1011_MurderOnThePlanetExpress.png",
+        "created": 1660067602,
+        "season_number": "10",
+        "title_id": "2161669",
+        "tv_rating": "tv-14-dlv",
+        "published": 1715754357,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891353139-Futurama_1011_MurderOnThePlanetExpress.png",
+        "id": "AYKDvV7YIAxeiVkFtLRV",
         "auth": true
     }
 ]

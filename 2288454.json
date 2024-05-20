@@ -147,6 +147,56 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1716091140,
+        "tms_id": "",
+        "description": "Lois uncovers a secret in Metropolis and is determined to get to the truth. Meanwhile, Superman tracks down dangerous weapons in the city\u2026and finds himself in the crosshairs of mysterious organization Task Force X.",
+        "title_suggest": {
+            "input": [
+                "You Will Believe a Man Can Lie",
+                "Will Believe a Man Can Lie",
+                "Believe a Man Can Lie",
+                "a Man Can Lie",
+                "Man Can Lie",
+                "Can Lie",
+                "Lie"
+            ]
+        },
+        "title": "You Will Believe a Man Can Lie",
+        "expiration_date": 1719115140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1362.7614,
+        "episode_number": "5",
+        "original_air_date": "1690516800",
+        "auth_launch_date": 1713067200,
+        "clip_order": null,
+        "airing_id": "RADS1005192400070798",
+        "media_id": "8aae592cfe8e7142e59282e38938717dbc247b0f",
+        "modified": 1716147518,
+        "slug": "you-will-believe-a-man-can-lie",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230728/thumbnails/1_2372896386-MAWS105.png",
+        "created": 1688573411,
+        "season_number": "1",
+        "title_id": "2288459",
+        "tv_rating": "tv-pg-v",
+        "published": 1716147518,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1716177600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230728/thumbnails/2_2372896386-MAWS105.png",
+        "id": "AYkm0YCs2rZC6NyF61-A",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1715486340,
         "tms_id": "",
         "description": "Clark, Lois, and Jimmy cover a glitzy gala hosted by tech-billionaire Dr. Ivo - but while Clark and Lois wonder if this counts as a date, Ivo unleashes his newest invention: a creation that can bring down Superman!",
@@ -384,6 +434,53 @@
         "launch_date": 1711252800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387822115-AS_MAWS_07_KissKissFallInPortal-5.jpg",
         "id": "AYnP8uWL2rZC6NyF61-Y",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1719115140,
+        "tms_id": "",
+        "description": "It's Thanksgiving, and Clark, Lois, and Jimmy are heading to the Kent farm to celebrate - but the holiday turns into a fight for survival as Task Force X, family, and Kryptonite collide!",
+        "title_suggest": {
+            "input": [
+                "Hearts of the Fathers",
+                "of the Fathers",
+                "the Fathers",
+                "Fathers"
+            ]
+        },
+        "title": "Hearts of the Fathers",
+        "expiration_date": 1716091140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1362.3943,
+        "episode_number": "10",
+        "original_air_date": "1693540800",
+        "auth_launch_date": 1716177600,
+        "clip_order": null,
+        "airing_id": "RADS1005192400070796",
+        "media_id": "b87dad791f6058177d6a42cc1b1958087c964c78",
+        "modified": 1716147520,
+        "slug": "hearts-of-the-fathers",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_2387824138-AS_MAWS_10_HeartsOfTheFathers-7.jpg",
+        "created": 1691411058,
+        "season_number": "1",
+        "title_id": "2288464",
+        "tv_rating": "tv-pg",
+        "published": 1716147520,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1713067200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387824138-AS_MAWS_10_HeartsOfTheFathers-7.jpg",
+        "id": "AYnP9I62Oz5CkuTcnwj3",
         "auth": true
     }
 ]
