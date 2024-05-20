@@ -187,7 +187,7 @@
         "launch_date": 1713153600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141034243-MommaNamedMeSheriff_104_dup-20190507.jpg",
         "id": "AW5qjTDHadNs2hMNfugF",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -381,23 +381,18 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1716177540,
-        "tms_id": "EP033701060017",
-        "description": "Dispatch wants to know why Sheriff is so sad. But when he digs too deep, he uncovers a dark conspiracy involving all of Old Town.",
+        "ott_launch_date": null,
+        "auth_expiration_date": 1711339140,
+        "tms_id": "",
+        "description": "When the President of the United States comes to Old Town for a sleep over at Sheriff's, Sheriff turns into a dinosaur and eats a bunch of children. Just kidding, that doesn't happen, but some other stuff does. Just watch it.",
         "title_suggest": {
             "input": [
-                "The Case of the Sad, Sad Sheriff",
-                "Case of the Sad, Sad Sheriff",
-                "of the Sad, Sad Sheriff",
-                "the Sad, Sad Sheriff",
-                "Sad, Sad Sheriff",
-                "Sad Sheriff",
-                "Sheriff"
+                "Finale"
             ]
         },
-        "title": "The Case of the Sad, Sad Sheriff",
+        "title": "Finale",
+        "expiration_date": 1719201540,
         "type": "episode",
-        "expiration_date": 1713153540,
         "platforms": [
             "android",
             "ios",
@@ -405,30 +400,32 @@
             "fire-tv"
         ],
         "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 676.2756,
-        "episode_number": "8",
-        "original_air_date": 1615180500,
-        "auth_launch_date": 1713153600,
+        "duration": 678.79,
+        "episode_number": "9",
+        "original_air_date": 1576473300,
+        "auth_launch_date": 1708318800,
         "clip_order": null,
-        "airing_id": "RADS1004112400064333",
-        "media_id": "6318dea731b8b806dee7f4afe2c678641293478a",
-        "modified": 1712811564,
-        "slug": "the-case-of-the-sad-sad-sheriff",
+        "media_id": "eb87a77f7d734f2d313f3ea19b8eabce2fbb05df",
+        "modified": 1716057588,
+        "airing_id": "RADS1005142400070269",
+        "slug": "finale",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210305/thumbnails/1_21351756213-MommaNamedMeSheriff_208_SadSadSheriff.jpg",
-        "created": 1614809705,
-        "title_id": "2247958",
-        "season_number": "2",
-        "tv_rating": "tv-ma-lsv",
-        "published": 1712811564,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141115131-MommaNamedMeSheriff_109_dup-20190507.jpg",
+        "created": 1573748117,
+        "season_number": "1",
+        "title_id": "2196575",
+        "tv_rating": "tv-ma-sv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1716057588,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1710129600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210305/thumbnails/2_21351756213-MommaNamedMeSheriff_208_SadSadSheriff.jpg",
-        "id": "AXf6KKqjQJ_4Uej5kTvR",
-        "auth": true
+        "launch_date": 1716177600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141115131-MommaNamedMeSheriff_109_dup-20190507.jpg",
+        "id": "AW5qspA4adNs2hMNfugH",
+        "auth": false
     },
     {
         "auth_expiration_date": 1716782340,
