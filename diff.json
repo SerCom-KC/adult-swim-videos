@@ -1,7 +1,6 @@
 {
-    "updated": 1716309024,
-    "added": [],
-    "removed": [
+    "updated": 1716312613,
+    "added": [
         {
             "auth_expiration_date": 1714276740,
             "tms_id": "EP036530620006",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1005162100099167",
             "media_id": "3899d10596255070113c51fc69b69f33afb10c8d",
-            "modified": 1710823426,
+            "modified": 1716311546,
             "slug": "episode-six-d-7-9",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201111/thumbnails/1_2011111735131-GSMP_206_dup-20201104.jpg",
@@ -38,7 +37,7 @@
             "title_id": "2241831",
             "season_number": "2",
             "tv_rating": "tv-ma-l",
-            "published": 1710823426,
+            "published": 1716311546,
             "tags": [],
             "collection_title": "Gemusetto",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "2194549",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
