@@ -228,52 +228,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1716263940,
-        "tms_id": "",
-        "description": "Bob and Teddy take a road trip.",
-        "title_suggest": {
-            "input": [
-                "Driving Big Dummy",
-                "Big Dummy",
-                "Dummy"
-            ]
-        },
-        "title": "Driving Big Dummy",
-        "type": "episode",
-        "expiration_date": 1711943940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8239,
-        "episode_number": "4",
-        "original_air_date": 1704763800,
-        "auth_launch_date": 1715659200,
-        "clip_order": null,
-        "airing_id": "RADS1005082400069197",
-        "media_id": "fdbe726a7c585ecb94a1fa918d728e6fe026a769",
-        "modified": 1715235927,
-        "slug": "driving-big-dummy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/1_24325124614-Screenshot2024-03-25at12.45.35PM.png",
-        "created": 1710960857,
-        "title_id": "2438986",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1715235927,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1711339200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_24325124614-Screenshot2024-03-25at12.45.35PM.png",
-        "id": "AY5dNtBWC2cKYm1ap-6g",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716695940,
         "tms_id": "",
         "description": "Bob and Linda celebrate Valentine's Day.",
@@ -321,6 +275,54 @@
         "launch_date": 1712548800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240520/thumbnails/2_245201527507-Screenshot2024-05-20at3.27.06PM.png",
         "id": "AY6h44s6C2cKYm1ap_HL",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716868740,
+        "tms_id": "",
+        "description": "Gene stars in a music video.",
+        "title_suggest": {
+            "input": [
+                "Video Killed the Gene-io Star",
+                "Killed the Gene-io Star",
+                "the Gene-io Star",
+                "Gene-io Star",
+                "Star"
+            ]
+        },
+        "title": "Video Killed the Gene-io Star",
+        "type": "episode",
+        "expiration_date": 1713153540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8239,
+        "episode_number": "14",
+        "original_air_date": 1705374000,
+        "auth_launch_date": 1716264000,
+        "clip_order": null,
+        "airing_id": "RADS1005152400070305",
+        "media_id": "1ab1476e0494ddba760198a6a1fb2937821efc70",
+        "modified": 1715838991,
+        "slug": "video-killed-the-gene-io-star",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240408/thumbnails/1_24481558329-Screenshot2024-04-08at3.58.04PM.png",
+        "created": 1712113037,
+        "title_id": "2438996",
+        "season_number": "12",
+        "tv_rating": "tv-pg-dl",
+        "published": 1715838991,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1712548800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240408/thumbnails/2_24481558329-Screenshot2024-04-08at3.58.04PM.png",
+        "id": "AY6h47BQ5I1d0UhX5iFV",
         "auth": true
     },
     {

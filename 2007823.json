@@ -45,7 +45,7 @@
         "launch_date": 1713844800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg",
         "id": "AV-2_sJ8wdpKFAKSbWYY",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789260,
@@ -160,6 +160,55 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1447789500,
+        "auth_expiration_date": 1704776340,
+        "tms_id": "SH020223070000",
+        "description": "In a 1960s-era informercial for an electric vibrating salad tossing device that, unbeknownst to the host, might have a dual purpose.",
+        "title_suggest": {
+            "input": [
+                "The Salad Mixxxer",
+                "Salad Mixxxer",
+                "Mixxxer"
+            ]
+        },
+        "expiration_date": 1718683140,
+        "type": "episode",
+        "title": "The Salad Mixxxer",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 677.0333667,
+        "episode_number": "2",
+        "original_air_date": 1413273600,
+        "auth_launch_date": 1701752400,
+        "clip_order": null,
+        "media_id": "d87a882e506fe86786c6e9382e5d2bc3e1424c72",
+        "modified": 1715837182,
+        "airing_id": "RADS1005152400070460",
+        "slug": "the-salad-mixxxer",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509845082819.jpg",
+        "created": 1510605037,
+        "season_number": "4",
+        "title_id": "2007843",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1715837182,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1716264000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509845082819.jpg",
+        "id": "AV-3E6AFwdpKFAKSbWZs",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1452085200,
         "auth_expiration_date": 1704171540,
         "tms_id": "SH020208840000",
@@ -255,58 +304,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg",
         "id": "AW8BAtn13HMJfT8do6Zt",
         "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1716263940,
-        "tms_id": "",
-        "description": "Tips and tricks on how to beat the alien queen boss battle in Final Deployment 4 (Multi-platform) as well as the \"Homecoming\" DLC.",
-        "title_suggest": {
-            "input": [
-                "Final Deployment 4: Queen Battle Walkthrough",
-                "Deployment 4: Queen Battle Walkthrough",
-                "4: Queen Battle Walkthrough",
-                "Queen Battle Walkthrough",
-                "Battle Walkthrough",
-                "Walkthrough"
-            ]
-        },
-        "expiration_date": 1713239940,
-        "type": "episode",
-        "title": "Final Deployment 4: Queen Battle Walkthrough",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 1283.08,
-        "episode_number": "5",
-        "original_air_date": 1530000000,
-        "auth_launch_date": 1713240000,
-        "clip_order": null,
-        "media_id": "0aed428ccc08bd92ad56e818ed5de34a6607fc92",
-        "modified": 1712818156,
-        "airing_id": "RADS1004112400064371",
-        "id": "AWQoVp-mqBveI_0AhKp8",
-        "slug": "final-deployment-4-queen-battle-walkthrough",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152968515622113.jpg",
-        "created": 1529685122,
-        "season_number": "7",
-        "title_id": "2134720",
-        "tv_rating": "tv-ma-lsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1712818156,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1710820800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968515622113.jpg"
     },
     {
         "ott_launch_date": null,

@@ -514,7 +514,7 @@
         "launch_date": 1713240000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191217/thumbnails/2_191217127266-ballmastrz9009_210_dup-20191112.jpg",
         "id": "AW8U1EZEGRcVO2K2pl-S",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1523284200,
@@ -839,7 +839,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152364685750110.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1523889000,
         "auth_expiration_date": 1716263940,
         "tms_id": "EP029156490004",
