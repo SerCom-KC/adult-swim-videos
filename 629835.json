@@ -110,6 +110,63 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1716955140,
+        "tms_id": "EP002070020016",
+        "rating": 8.608692,
+        "description": "Hank attempts to land a large business account by placating an obnoxious \"Yankee\" client.",
+        "title_suggest": {
+            "input": [
+                "The Company Man",
+                "Company Man",
+                "Man"
+            ]
+        },
+        "type": "episode",
+        "title": "The Company Man",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1382.2142,
+        "episode_number": "12",
+        "original_air_date": 1231124400,
+        "clip_order": null,
+        "auth_launch_date": 1716350400,
+        "modified": 1715929022,
+        "airing_id": "RADS1005152400070540",
+        "media_id": "5e17b531eb8a96621a37b8b4327d2fd6d60ce16a",
+        "id": "8EwzuoFySwySpUniufWHvQ",
+        "slug": "the-company-man",
+        "views": 127066,
+        "created": 1402945468,
+        "title_id": "728422",
+        "season_number": "1",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "published": 1715929022,
+        "tags": [
+            "king of the hill",
+            "season 1",
+            "episode 12",
+            "the company man",
+            "hank",
+            "attempt",
+            "business",
+            "account",
+            "placate",
+            "yankee",
+            "client"
+        ],
+        "rating_count": 230,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1263531600,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_62479.jpg",
+        "cma_id": "981314"
+    },
+    {
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1716609540,
         "tms_id": "EP002070020011",
@@ -221,54 +278,5 @@
         "modified_by": "ODT Listener",
         "launch_date": 1279857600,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_23542.jpg"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1716350340,
-        "rating": 7.2788205,
-        "description": "Hank is greatly embarrassed when word of his irregularity spreads throughout the community.",
-        "title_suggest": {
-            "input": [
-                "Hank's Unmentionable Problem",
-                "Unmentionable Problem",
-                "Problem"
-            ]
-        },
-        "type": "episode",
-        "title": "Hank's Unmentionable Problem",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1387.4528,
-        "episode_number": "7",
-        "original_air_date": 1230867000,
-        "clip_order": null,
-        "auth_launch_date": 1715745600,
-        "modified": 1715325564,
-        "airing_id": "RADS1005092400069595",
-        "media_id": "693d6f5ea0392f9996aa544192fc3004459d4296",
-        "id": "RmFr6Ow5SW-AdMeCjWWrVA",
-        "slug": "hanks-unmentionable-problem",
-        "views": 178349,
-        "created": 1402945468,
-        "title_id": "728407",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "published": 1715325564,
-        "tags": [
-            "King of the Hill",
-            "Hank's Unmentionable Problem",
-            "107"
-        ],
-        "rating_count": 373,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1310702400,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1303337365281009403.jpg",
-        "cma_id": ""
     }
 ]
