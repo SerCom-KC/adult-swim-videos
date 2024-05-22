@@ -138,51 +138,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1716350340,
-        "tms_id": "",
-        "description": "Gene doesn't want to grow up.",
-        "title_suggest": {
-            "input": [
-                "Seven-Tween Again",
-                "Again"
-            ]
-        },
-        "title": "Seven-Tween Again",
-        "type": "episode",
-        "expiration_date": 1711943940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1288.921,
-        "episode_number": "5",
-        "original_air_date": 1704765600,
-        "auth_launch_date": 1715745600,
-        "clip_order": null,
-        "airing_id": "RADS1005092400069565",
-        "media_id": "08d73872c31a6f4c2e28b6402b1fa3aeb82cba65",
-        "modified": 1715327677,
-        "slug": "seven-tween-again",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/1_243251247137-Screenshot2024-03-25at12.46.41PM.png",
-        "created": 1710960886,
-        "title_id": "2438987",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1715327677,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1711339200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251247137-Screenshot2024-03-25at12.46.41PM.png",
-        "id": "AY5dN0G25I1d0UhX5iFE",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716436740,
         "tms_id": "",
         "description": "Its beach clean-up day.",
@@ -369,6 +324,51 @@
         "launch_date": 1712548800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240408/thumbnails/2_24481557168-Screenshot2024-04-08at3.56.45PM.png",
         "id": "AY6h5DIw5I1d0UhX5iFW",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1716955140,
+        "tms_id": "",
+        "description": "Louise, Millie & Rudy get revenge.",
+        "title_suggest": {
+            "input": [
+                "Ancient Misbehavin'",
+                "Misbehavin'"
+            ]
+        },
+        "title": "Ancient Misbehavin'",
+        "type": "episode",
+        "expiration_date": 1713758340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8572,
+        "episode_number": "15",
+        "original_air_date": 1705971600,
+        "auth_launch_date": 1716350400,
+        "clip_order": null,
+        "airing_id": "RADS1005152400070514",
+        "media_id": "fcd78467582c794e4ff4f7de95506380aef0cc37",
+        "modified": 1715928111,
+        "slug": "ancient-misbehavin",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/1_244151039568-Screenshot2024-04-15at10.39.28AM.png",
+        "created": 1712803672,
+        "title_id": "2438997",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1715928111,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1713153600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/2_244151039568-Screenshot2024-04-15at10.39.28AM.png",
+        "id": "AY7LDfCvC2cKYm1ap_Na",
         "auth": true
     },
     {

@@ -55,57 +55,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1716350340,
-        "tms_id": "EP002989350029",
-        "rating": 8.318157,
-        "description": "The camera does add 10 pounds, but so does binging on junk food. Brendon and Jason are gaining weight at an alarming rate, so in order break the \"fat-enabling\" cycle, they decide never to see each other again.",
-        "title_suggest": {
-            "input": [
-                "Bad Influences",
-                "Influences"
-            ]
-        },
-        "type": "episode",
-        "title": "Bad Influences",
-        "expiration_date": 1713326340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1340.9676343,
-        "episode_number": "3",
-        "original_air_date": 1029722400,
-        "clip_order": null,
-        "auth_launch_date": 1713326400,
-        "modified": 1712902736,
-        "media_id": "2f0b15d0048e494df55af9af792da3f61f3497da",
-        "airing_id": "RADS1004112400064457",
-        "id": "4ERvSX98Tral7gf3MLcNiA",
-        "slug": "bad-influences",
-        "views": 432918,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351620205-hmovies_029.jpg",
-        "created": 1402945467,
-        "title_id": "420675",
-        "season_number": "3",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1712902736,
-        "tags": [],
-        "rating_count": 1493,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1710302400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351620205-hmovies_029.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1717559940,
         "tms_id": "EP002989350036",
         "rating": 8.588101,
@@ -366,7 +315,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1719374340,
         "tms_id": "EP002989350034",
@@ -414,6 +363,60 @@
         "launch_date": 1713326400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351622420-hmovies_034.jpg",
         "cma_id": "974195"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1690948740,
+        "tms_id": "EP002989350044",
+        "rating": 9.351056,
+        "description": "The kids are preparing for Halloween, Linda (Brendon's new stepmother) is preparing to have a baby, and Coach McGuirk is preparing to have the romantic night of his life. Despite all this, no one is prepared when things start to go wrong.",
+        "title_suggest": {
+            "input": [
+                "Coffins and Cradles",
+                "and Cradles",
+                "Cradles"
+            ]
+        },
+        "type": "episode",
+        "title": "Coffins and Cradles",
+        "expiration_date": 1719374340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1361.8341675,
+        "episode_number": "13",
+        "original_air_date": 1053918000,
+        "clip_order": null,
+        "auth_launch_date": 1687924800,
+        "modified": 1715927497,
+        "airing_id": "RADS1005152400070571",
+        "media_id": "27c5825cf65aa21ec24016a59f19ee636ad197da",
+        "id": "ZipqHcoUSEK11b9EUtBueA",
+        "slug": "coffins-and-cradles",
+        "views": 412400,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351626257-hmovies_039.jpg",
+        "created": 1402945467,
+        "title_id": "438272",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1715927497,
+        "tags": [
+            "home movies episode 39 coffins and cradles linda halloween brendon baby stepmother coach mcguirk date"
+        ],
+        "rating_count": 1692,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1716350400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351626257-hmovies_039.jpg",
+        "cma_id": "1469052"
     },
     {
         "auth": false,
