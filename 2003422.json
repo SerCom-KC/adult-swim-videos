@@ -138,51 +138,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1716436740,
-        "tms_id": "",
-        "description": "Its beach clean-up day.",
-        "title_suggest": {
-            "input": [
-                "Beach, Please",
-                "Please"
-            ]
-        },
-        "title": "Beach, Please",
-        "type": "episode",
-        "expiration_date": 1711943940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8573,
-        "episode_number": "6",
-        "original_air_date": 1704767400,
-        "auth_launch_date": 1715832000,
-        "clip_order": null,
-        "airing_id": "RADS1005092400069689",
-        "media_id": "997fbe2401930b446e244816586dde086e35d580",
-        "modified": 1715414425,
-        "slug": "beach-please",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/1_243251248197-Screenshot2024-03-25at12.47.39PM.png",
-        "created": 1710960919,
-        "title_id": "2438988",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1715414425,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1711339200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251248197-Screenshot2024-03-25at12.47.39PM.png",
-        "id": "AY5dN8OW5I1d0UhX5iFF",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716695940,
         "tms_id": "",
         "description": "Bob and Linda celebrate Valentine's Day.",
@@ -369,6 +324,53 @@
         "launch_date": 1713153600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/2_244151039568-Screenshot2024-04-15at10.39.28AM.png",
         "id": "AY7LDfCvC2cKYm1ap_Na",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1717041540,
+        "tms_id": "",
+        "description": "Grandpa Belcher comes for a visit.",
+        "title_suggest": {
+            "input": [
+                "Interview with a Pop-Pop-Pire",
+                "with a Pop-Pop-Pire",
+                "a Pop-Pop-Pire",
+                "Pop-Pop-Pire"
+            ]
+        },
+        "title": "Interview with a Pop-Pop-Pire",
+        "type": "episode",
+        "expiration_date": 1713758340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.924,
+        "episode_number": "16",
+        "original_air_date": 1705973400,
+        "auth_launch_date": 1716436800,
+        "clip_order": null,
+        "airing_id": "RADS1005172400070681",
+        "media_id": "45795a4f65beed1e3412e639d9005711bec0046d",
+        "modified": 1716016164,
+        "slug": "interview-with-a-pop-pop-pire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/1_244151041431-Screenshot2024-04-15at10.41.18AM.png",
+        "created": 1712803703,
+        "title_id": "2438998",
+        "season_number": "12",
+        "tv_rating": "tv-pg-lv",
+        "published": 1716016164,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1713153600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/2_244151041431-Screenshot2024-04-15at10.41.18AM.png",
+        "id": "AY7LDmtq5I1d0UhX5iFi",
         "auth": true
     },
     {
