@@ -1,5 +1,50 @@
 [
     {
+        "auth_expiration_date": 1716523140,
+        "tms_id": "EP003034830148",
+        "description": "Bender goes grave robbing to bring his favorite actor back to life.",
+        "title_suggest": {
+            "input": [
+                "Calculon 2.0",
+                "2.0"
+            ]
+        },
+        "title": "Calculon 2.0",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "7",
+        "original_air_date": 1659317400,
+        "auth_launch_date": 1715918400,
+        "clip_order": null,
+        "airing_id": "RADS1005102400069811",
+        "media_id": "680e87c2133a6a85f060f6c3a9bff20e9a13aab2",
+        "modified": 1716183354,
+        "slug": "calculon-2-0",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240520/thumbnails/1_24520135446-Screenshot2024-05-20at1.35.16AM.png",
+        "created": 1659129074,
+        "title_id": "2161665",
+        "season_number": "10",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1716183354,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240520/thumbnails/2_24520135446-Screenshot2024-05-20at1.35.16AM.png",
+        "id": "AYJLzJH_3sQvipyea9nQ",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1716609540,
         "tms_id": "EP003034830149",
         "description": "Bender searches the universe for his missing shiny metal rear end.",
@@ -90,52 +135,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png",
         "id": "AYJfdRLqIAxeiVkFtLQ0",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1717127940,
-        "tms_id": "EP003034830153",
-        "description": "Dr. Zoidberg meets the love of his life while Bender squares off in a deadly tap dancing competition.",
-        "title_suggest": {
-            "input": [
-                "Stench and Stenchibility",
-                "and Stenchibility",
-                "Stenchibility"
-            ]
-        },
-        "title": "Stench and Stenchibility",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1360.8262,
-        "episode_number": "12",
-        "original_air_date": 1661130000,
-        "auth_launch_date": 1716523200,
-        "clip_order": null,
-        "airing_id": "RADS1005172400070736",
-        "media_id": "9e8c1e320a973256b84646013e70775c16ffcfcf",
-        "modified": 1716099455,
-        "slug": "stench-and-stenchibility",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/1_228221420442-Futurama_1012_StenchAndStenchibility.png",
-        "created": 1660933092,
-        "title_id": "2161670",
-        "season_number": "10",
-        "tv_rating": "tv-14-dlv",
-        "published": 1716099455,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221420442-Futurama_1012_StenchAndStenchibility.png",
-        "id": "AYK3U7LgIAxeiVkFtLRc",
         "auth": true
     },
     {
