@@ -101,7 +101,7 @@
         "cma_id": "1410930"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1466857800,
         "auth_expiration_date": 1728619140,
         "tms_id": "EP012636510020",
@@ -197,7 +197,7 @@
         "launch_date": 1716523200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200910/thumbnails/2_209101430318-thumb-2_image-151268077677916.jpg",
         "id": "AXR5STu7LyLQBOXK_PNg",
-        "auth": true
+        "auth": false
     },
     {
         "auth": true,
