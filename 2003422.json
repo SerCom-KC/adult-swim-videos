@@ -46,52 +46,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1716523140,
-        "tms_id": "",
-        "description": "The Belchers try to build a loft bed.",
-        "title_suggest": {
-            "input": [
-                "Loft in Bedslation",
-                "in Bedslation",
-                "Bedslation"
-            ]
-        },
-        "title": "Loft in Bedslation",
-        "type": "episode",
-        "expiration_date": 1712548740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1288.7875,
-        "episode_number": "7",
-        "original_air_date": 1704769200,
-        "auth_launch_date": 1715918400,
-        "clip_order": null,
-        "airing_id": "RADS1005102400069808",
-        "media_id": "2221df118bf882fe4bcbfcb3532a3daefbafcda3",
-        "modified": 1715498021,
-        "slug": "loft-in-bedslation",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240401/thumbnails/1_2441114461-Screenshot2024-04-01at11.43.30AM.png",
-        "created": 1711501725,
-        "title_id": "2438989",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1715498021,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1711944000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_2441114461-Screenshot2024-04-01at11.43.30AM.png",
-        "id": "AY59c87jC2cKYm1ap_Ak",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716695940,
         "tms_id": "",
         "description": "The kids have all the power.",
@@ -374,6 +328,99 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1717127940,
+        "tms_id": "",
+        "description": "Louise gets a new house pet.",
+        "title_suggest": {
+            "input": [
+                "Spider House Rules",
+                "House Rules",
+                "Rules"
+            ]
+        },
+        "title": "Spider House Rules",
+        "type": "episode",
+        "expiration_date": 1713758340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8239,
+        "episode_number": "17",
+        "original_air_date": 1705975200,
+        "auth_launch_date": 1716523200,
+        "clip_order": null,
+        "airing_id": "RADS1005172400070733",
+        "media_id": "259e9631e8dd87c09b4f25c8d5bdc87dc0cf551a",
+        "modified": 1716098876,
+        "slug": "spider-house-rules",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/1_244151040487-Screenshot2024-04-15at10.40.17AM.png",
+        "created": 1712803742,
+        "title_id": "2438999",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1716098876,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1713153600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/2_244151040487-Screenshot2024-04-15at10.40.17AM.png",
+        "id": "AY7LDwNN5I1d0UhX5iFj",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1717127940,
+        "tms_id": "",
+        "description": "Ginger comes to visit.",
+        "title_suggest": {
+            "input": [
+                "Clear and Present Ginger",
+                "and Present Ginger",
+                "Present Ginger",
+                "Ginger"
+            ]
+        },
+        "title": "Clear and Present Ginger",
+        "type": "episode",
+        "expiration_date": 1714363140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.7905,
+        "episode_number": "18",
+        "original_air_date": 1705977000,
+        "auth_launch_date": 1716523200,
+        "clip_order": null,
+        "airing_id": "RADS1005172400070735",
+        "media_id": "27b68a247c0bf7e090cb5a8fa21a3df5a5c15570",
+        "modified": 1716098874,
+        "slug": "clear-and-present-ginger",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240423/thumbnails/1_24423912159-Screenshot2024-04-23at9.10.10AM.png",
+        "created": 1713405420,
+        "title_id": "2439000",
+        "season_number": "12",
+        "tv_rating": "tv-pg-lv",
+        "published": 1716098874,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1713758400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240423/thumbnails/2_24423912159-Screenshot2024-04-23at9.10.10AM.png",
+        "id": "AY7u6-UR5I1d0UhX5iFo",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1712462340,
         "tms_id": "",
         "description": "Gene's BFF betrays him.",
@@ -513,55 +560,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_2312111353481-Screenshot2023-12-11at1.49.00PM.png",
         "id": "AYsU4CVun_kciGPPrC3i",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1716523140,
-        "tms_id": "",
-        "description": "The Belcher's visit a retirement home.",
-        "title_suggest": {
-            "input": [
-                "Stuck in the Kitchen with You",
-                "in the Kitchen with You",
-                "the Kitchen with You",
-                "Kitchen with You",
-                "with You",
-                "You"
-            ]
-        },
-        "title": "Stuck in the Kitchen with You",
-        "type": "episode",
-        "expiration_date": 1701061140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8239,
-        "episode_number": "8",
-        "original_air_date": 1699930800,
-        "auth_launch_date": 1715918400,
-        "clip_order": null,
-        "airing_id": "RADS1005102400069810",
-        "media_id": "2b49795bdb2af0f82b3cd727c56fdf1bc0e89aef",
-        "modified": 1715498324,
-        "slug": "stuck-in-the-kitchen-with-you",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/1_2311201751338-Screenshot2023-11-20at5.50.41PM.png",
-        "created": 1699999978,
-        "title_id": "2438990",
-        "season_number": "12",
-        "tv_rating": "tv-pg-dl",
-        "published": 1715498324,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1700456400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201751338-Screenshot2023-11-20at5.50.41PM.png",
-        "id": "AYvP5RU81E7YmWrdXLk3",
-        "auth": true
     },
     {
         "auth_expiration_date": 1716609540,
