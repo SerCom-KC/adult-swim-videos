@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1716609540,
-        "tms_id": "EP003034830149",
-        "description": "Bender searches the universe for his missing shiny metal rear end.",
-        "title_suggest": {
-            "input": [
-                "Assie Come Home",
-                "Come Home",
-                "Home"
-            ]
-        },
-        "title": "Assie Come Home",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.2509,
-        "episode_number": "8",
-        "original_air_date": "1659920400",
-        "auth_launch_date": 1716004800,
-        "clip_order": null,
-        "airing_id": "RADS1005132400069886",
-        "media_id": "e41d93ec5521496931ab25e9889c9b9de1dfd8ec",
-        "modified": 1715579328,
-        "slug": "assie-come-home",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_22821247194-Futurama_1008_AssieComeHome.png",
-        "created": 1659458847,
-        "season_number": "10",
-        "title_id": "2161666",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1715579328,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247194-Futurama_1008_AssieComeHome.png",
-        "id": "AYJfdIRSIAxeiVkFtLQz",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1716695940,
         "tms_id": "EP003034830150",
         "description": "After a rare condition causes Leela to grow tentacles, she stumbles upon a secret genetic-engineering facility.",
@@ -90,6 +44,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png",
         "id": "AYJfdRLqIAxeiVkFtLQ0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1717214340,
+        "tms_id": "EP003034830154",
+        "description": "Fry asks Leela to marry him, and they face their destiny together as the Professor's latest invention alters the fabric of time.",
+        "title_suggest": {
+            "input": [
+                "Meanwhile"
+            ]
+        },
+        "title": "Meanwhile",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1361.7937,
+        "episode_number": "13",
+        "original_air_date": 1661131800,
+        "auth_launch_date": 1716609600,
+        "clip_order": null,
+        "airing_id": "RADS1005192400070807",
+        "media_id": "8932e7537d88baebddd94a62561d231804e3c1c9",
+        "modified": 1716183956,
+        "slug": "meanwhile",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/1_228221421256-Futurama_1013_Meanwhile.png",
+        "created": 1660933091,
+        "title_id": "2161671",
+        "season_number": "10",
+        "tv_rating": "tv-14-dlv",
+        "published": 1716183956,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221421256-Futurama_1013_Meanwhile.png",
+        "id": "AYK3U7E03sQvipyea95S",
         "auth": true
     },
     {
