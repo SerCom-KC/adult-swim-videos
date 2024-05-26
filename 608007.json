@@ -1,5 +1,44 @@
 [
     {
+        "auth_expiration_date": 1718526540,
+        "created": 1716239981,
+        "tms_id": "EP039441250022",
+        "title_id": "2435737",
+        "season_number": "17",
+        "tv_rating": "tv-pg",
+        "description": "Diamante's unique abilities and the presence of special Fighting Fish add a deadly wrinkle to the tournament's final round. Elsewhere, Luffy spoils any chance of sneaking up on Doflamingo!",
+        "title_suggest": {
+            "input": [
+                "The Final Round Starts! Diamante the Hero Shows Up!",
+                "Final Round Starts! Diamante the Hero Shows Up!",
+                "Round Starts! Diamante the Hero Shows Up!",
+                "Starts! Diamante the Hero Shows Up!",
+                "Diamante the Hero Shows Up!",
+                "the Hero Shows Up!",
+                "Hero Shows Up!",
+                "Shows Up!",
+                "Up!"
+            ]
+        },
+        "published": 1716243777,
+        "title": "The Final Round Starts! Diamante the Hero Shows Up!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.4525,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1716699600,
+        "auth_launch_date": 1716712200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005202400071061",
+        "media_id": "6a4275427d077137494c66236df5b0ae490f3fd9",
+        "modified": 1716243777,
+        "slug": "the-final-round-starts-diamante-the-hero-shows-up",
+        "id": "AY-X39uy5I1d0UhX5iF_",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1717387140,
         "tms_id": "EP022836810027",
         "description": "Rebecca's battle continues, a madman turns a gladiator into a play thing, and the brave little toy soldier reveals his painful past - and the tragic truth behind King Riku's fall from power!",
@@ -393,7 +432,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1716107400,
         "id": "AY8GrymZ5I1d0UhX5iFw",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1716712140,
@@ -436,7 +475,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1716712200,
         "id": "AY8wo91t5I1d0UhX5iF1",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1716713940,
