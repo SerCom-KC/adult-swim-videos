@@ -108,52 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1716695940,
-        "tms_id": "EP015632430066",
-        "description": "Eric welcomes Jon Hamm and Blac Chyna. A priest and a rabbi walk into a confessional booth...",
-        "title_suggest": {
-            "input": [
-                "Rim the Reaper",
-                "the Reaper",
-                "Reaper"
-            ]
-        },
-        "title": "Rim the Reaper",
-        "expiration_date": 1713671940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "3",
-        "original_air_date": "1686542400",
-        "auth_launch_date": 1713672000,
-        "clip_order": null,
-        "airing_id": "RADS1004152400065423",
-        "media_id": "c4fdd7c1472fac20dc91ce24be73239a9062e499",
-        "modified": 1713247221,
-        "slug": "rim-the-reaper",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/1_2367161578-TheEricAndreShow603Still002tiny.png",
-        "created": 1686168137,
-        "season_number": "6",
-        "title_id": "2418683",
-        "tv_rating": "tv-ma-ls",
-        "published": 1713247221,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1710648000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367161578-TheEricAndreShow603Still002tiny.png",
-        "id": "AYiXc-_g2rZC6NyF619t",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1717300740,
         "tms_id": "EP015632430065",
         "description": "Eric welcomes Tinashe and Chuck Liddell. Waka Flocka Flame tries ayahuasca. A police officer finds himself in a sexy pickle on Grocery Goofs.",
@@ -379,7 +333,7 @@
         "launch_date": 1713672000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375155340-EAOldYeller.png",
         "id": "AYjZOaps2rZC6NyF6194",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1714276740,
@@ -928,6 +882,59 @@
         "launch_date": 1598414427,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-ana-montana/ericandre_HGOI_102_AnaMontana.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1673240340,
+        "tms_id": "EP015632430024",
+        "description": "Interviews with Ryan Kwanten and \"Beyonce & Jay Z\"; Musical guest Killer Mike and Action Bronson.",
+        "title_suggest": {
+            "input": [
+                "Ryan Kwanten; Beyonce & Jay-Z",
+                "Kwanten; Beyonce & Jay-Z",
+                "Beyonce & Jay-Z",
+                "& Jay-Z",
+                "Jay-Z"
+            ]
+        },
+        "expiration_date": 1719719940,
+        "title": "Ryan Kwanten; Beyonce & Jay-Z",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 655.9676343,
+        "episode_number": "3",
+        "original_air_date": 1416546900,
+        "clip_order": null,
+        "auth_launch_date": 1670216400,
+        "modified": 1716313652,
+        "media_id": "1d1bf58aabbc5e53ca35976060d6748dffb8dc85",
+        "airing_id": "RADS1005212400071113",
+        "id": "x9ev8CWGSC6m67JlegFUqA",
+        "slug": "ryan-kwanten-beyonce-jay-z",
+        "views": 3,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341615472-ericandre_023_dup-20141113.jpg",
+        "created": 1416510622,
+        "season_number": "3",
+        "title_id": "2032598",
+        "tv_rating": "tv-ma-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1716313652,
+        "first_published": 1416558022,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1716696000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341615472-ericandre_023_dup-20141113.jpg",
+        "cma_id": "2032598"
     },
     {
         "auth": false,
