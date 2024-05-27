@@ -235,7 +235,7 @@
         "launch_date": 1713758400,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141034498-MommaNamedMeSheriff_105_dup-20190510.jpg",
         "id": "AW5qjZWZ1YiBSfg0KYe4",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -428,19 +428,17 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1716782340,
-        "tms_id": "EP033701060018",
-        "description": "An upset Mayor forbids Sheriff's friends from hanging around the station so that he can focus on stopping crime. But to keep them around, Sheriff knights his friends, landing him in a predicament of medieval proportions.",
+        "auth_expiration_date": 1711943940,
+        "tms_id": "",
+        "description": "Goodman claims that the Old Town charter allows a Deputy to give a Sheriff a ticket.",
         "title_suggest": {
             "input": [
-                "Neighborhood Knight Watch",
-                "Knight Watch",
-                "Watch"
+                "Charter"
             ]
         },
-        "title": "Neighborhood Knight Watch",
+        "title": "Charter",
+        "expiration_date": 1719806340,
         "type": "episode",
-        "expiration_date": 1713758340,
         "platforms": [
             "android",
             "ios",
@@ -448,29 +446,29 @@
             "fire-tv"
         ],
         "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 1351.8839,
-        "episode_number": "9",
-        "original_air_date": 1615780800,
-        "auth_launch_date": 1713758400,
+        "duration": 676.4424,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1708923600,
         "clip_order": null,
-        "airing_id": "RADS1003142400059217",
-        "media_id": "1127ea0d824abeb4a4de5e1df6f1b157677f671d",
-        "modified": 1713414232,
-        "slug": "neighborhood-knight-watch",
+        "airing_id": "RADS1005232400071223",
+        "media_id": "df1e42099a77b5132884d1296913aef603af1389",
+        "modified": 1716481584,
+        "slug": "charter",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210311/thumbnails/1_2131175021-MommaNamedMeSheriff_209-10_dup-20210218_NeighborhoodKnightWatch.jpg",
-        "created": 1615216649,
-        "title_id": "2247959",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/1_21121119314-MommaNamedMeSheriff_204_Charter.jpg",
+        "created": 1611245374,
         "season_number": "2",
-        "tv_rating": "tv-ma-sv",
-        "published": 1713414232,
+        "title_id": "2247951",
+        "tv_rating": "",
+        "published": 1716481584,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1710734400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210311/thumbnails/2_2131175021-MommaNamedMeSheriff_209-10_dup-20210218_NeighborhoodKnightWatch.jpg",
-        "id": "AXgSaiZUQJ_4Uej5kTxu",
+        "launch_date": 1716782400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_21121119314-MommaNamedMeSheriff_204_Charter.jpg",
+        "id": "AXcltU4IQJ_4Uej5kTm_",
         "auth": false
     }
 ]
