@@ -372,6 +372,41 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1718596740,
+        "created": 1716472779,
+        "tms_id": "EP034814950013",
+        "title_id": "2424768",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlsv",
+        "description": "DISCLAIMER: Just a heads up, this is the scariest episode of any cartoon that's ever been created.",
+        "title_suggest": {
+            "input": [
+                "Erm, the Boss Finds Love?",
+                "the Boss Finds Love?",
+                "Boss Finds Love?",
+                "Finds Love?",
+                "Love?"
+            ]
+        },
+        "published": 1716589843,
+        "title": "Erm, the Boss Finds Love?",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 656.9563,
+        "episode_number": "4",
+        "collection_title": "Smiling Friends",
+        "original_air_date": 1716782400,
+        "auth_launch_date": 1716782400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005242400071557",
+        "media_id": "7eebc3ff7817d7e11b8888ea478371aeb594fb0b",
+        "modified": 1716589843,
+        "slug": "erm-the-boss-finds-love",
+        "id": "AY-lwBIjC2cKYm1ap_0q",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1717991940,
         "tms_id": "",
         "description": "Allan is tasked with finding more paper clips for the office. *Spits on you*",
