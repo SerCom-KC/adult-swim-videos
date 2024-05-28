@@ -97,7 +97,7 @@
         "launch_date": 1714449600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150977957037.jpg",
         "id": "AV-3C18nwdpKFAKSbWZL",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789320,
@@ -257,6 +257,56 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1447789560,
+        "auth_expiration_date": 1705381140,
+        "tms_id": "SH020222930000",
+        "description": "Inventor Kent Ross introduces his newest dietary supplement that increases muscle growth, sex drive, and intelligence... in dogs! And, a popular fitness couple abandons typical fad systems and introduce their new program based on ancient spells and gothic rituals.",
+        "title_suggest": {
+            "input": [
+                "Alpha Chow & Goth Fitness",
+                "Chow & Goth Fitness",
+                "& Goth Fitness",
+                "Goth Fitness",
+                "Fitness"
+            ]
+        },
+        "expiration_date": 1719287940,
+        "type": "episode",
+        "title": "Alpha Chow & Goth Fitness",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 659.03,
+        "episode_number": "",
+        "original_air_date": 1413878400,
+        "auth_launch_date": 1702357200,
+        "clip_order": null,
+        "media_id": "8347e15d26df6e2ae701062954613cd452af9ca5",
+        "modified": 1716487879,
+        "airing_id": "RADS1005232400071284",
+        "slug": "alpha-chow-goth-fitness",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509761924415.jpg",
+        "created": 1510608292,
+        "season_number": "4",
+        "title_id": "2007829",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1716487879,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "modified_by": "ODT Listener",
+        "launch_date": 1716868800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509761924415.jpg",
+        "id": "AV-3RUyRZ-onAnjDLtAm",
+        "auth": false
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1718683140,
         "tms_id": "SH033777710000",
@@ -304,57 +354,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg",
         "id": "AW8BAtn13HMJfT8do6Zt",
         "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1716868740,
-        "tms_id": "",
-        "description": "A carrot takes a dark and surprising journey as it makes its way from a country farm to an upscale restaurant. Food this fresh comes at a cost.",
-        "title_suggest": {
-            "input": [
-                "Food: The Source of Life",
-                "The Source of Life",
-                "Source of Life",
-                "of Life",
-                "Life"
-            ]
-        },
-        "title": "Food: The Source of Life",
-        "type": "episode",
-        "expiration_date": 1713844740,
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 646.93,
-        "episode_number": "2",
-        "original_air_date": 1530604800,
-        "auth_launch_date": 1713844800,
-        "clip_order": null,
-        "media_id": "ca719ee2d2762c19096a83880adac09b16709834",
-        "modified": 1713418471,
-        "airing_id": "RADS1003212400060926",
-        "id": "AWRIJxFnqBveI_0AhKvT",
-        "slug": "food-the-source-of-life",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153022109555218.jpg",
-        "created": 1530218877,
-        "title_id": "2159567",
-        "tv_rating": "tv-ma-s",
-        "season_number": "8",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1713418471,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1711425600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153022109555218.jpg"
     },
     {
         "ott_launch_date": null,
