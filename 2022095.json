@@ -405,7 +405,7 @@
         "launch_date": 1716868800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261716121-blackjesus_301_air_cid-3GPVP.jpg",
         "id": "AW1A19QS1YiBSfg0KW-v",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1434,7 +1434,7 @@
         "cma_id": "2065418"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449846000,
         "auth_expiration_date": 1732597140,
         "tms_id": "EP019635740018",
