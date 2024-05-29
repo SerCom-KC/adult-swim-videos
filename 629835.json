@@ -1,63 +1,6 @@
 [
     {
         "auth": true,
-        "auth_expiration_date": 1716955140,
-        "tms_id": "EP002070020016",
-        "rating": 8.608692,
-        "description": "Hank attempts to land a large business account by placating an obnoxious \"Yankee\" client.",
-        "title_suggest": {
-            "input": [
-                "The Company Man",
-                "Company Man",
-                "Man"
-            ]
-        },
-        "type": "episode",
-        "title": "The Company Man",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1382.2142,
-        "episode_number": "12",
-        "original_air_date": 1231124400,
-        "clip_order": null,
-        "auth_launch_date": 1716350400,
-        "modified": 1715929022,
-        "airing_id": "RADS1005152400070540",
-        "media_id": "5e17b531eb8a96621a37b8b4327d2fd6d60ce16a",
-        "id": "8EwzuoFySwySpUniufWHvQ",
-        "slug": "the-company-man",
-        "views": 127066,
-        "created": 1402945468,
-        "title_id": "728422",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "published": 1715929022,
-        "tags": [
-            "king of the hill",
-            "season 1",
-            "episode 12",
-            "the company man",
-            "hank",
-            "attempt",
-            "business",
-            "account",
-            "placate",
-            "yankee",
-            "client"
-        ],
-        "rating_count": 230,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1263531600,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_62479.jpg",
-        "cma_id": "981314"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1717300740,
         "tms_id": "EP002070020019",
         "rating": 8.805781,
@@ -273,5 +216,49 @@
         "launch_date": 1311220800,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_3909983229960290380.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1717559940,
+        "tms_id": "EP002070020018",
+        "rating": 9.2490974729242,
+        "description": "Hank is outraged when a conservative church member attempts to outlaw Halloween.\r\n",
+        "title_suggest": {
+            "input": [
+                "Hilloween "
+            ]
+        },
+        "type": "episode",
+        "title": "Hilloween ",
+        "expiration_date": 1415420999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1396.762,
+        "episode_number": "4",
+        "original_air_date": 1231385400,
+        "clip_order": null,
+        "auth_launch_date": 1716955200,
+        "modified": 1716534274,
+        "airing_id": "RADS1005232400071341",
+        "media_id": "a7e65ce3b5940ccc9c24e302f2445b5a3d3d5ac2",
+        "id": "qKPzwimBRHS7YvGoJNeg6g",
+        "slug": "hilloween",
+        "views": 102667,
+        "created": 1402945468,
+        "title_id": "728417",
+        "season_number": "2",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1716534274,
+        "tags": [],
+        "rating_count": 277,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1414812600,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14489.jpg",
+        "cma_id": "1028877"
     }
 ]
