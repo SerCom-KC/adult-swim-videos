@@ -306,7 +306,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447171320,
         "auth_expiration_date": 1719979140,
         "tms_id": "EP007959510010",
@@ -583,59 +583,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1447171440,
-        "auth_expiration_date": 1696996740,
-        "tms_id": "EP007959510006",
-        "rating": 7.64299,
-        "description": "A boy with God on his side need fear nothing, which makes for a boring Halloween. But Orel has a solution.",
-        "title_suggest": {
-            "input": [
-                "God-Fearing"
-            ]
-        },
-        "type": "episode",
-        "title": "God-Fearing",
-        "expiration_date": 1719979140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 675,
-        "episode_number": "7",
-        "original_air_date": 1141016400,
-        "clip_order": null,
-        "auth_launch_date": 1693972800,
-        "modified": 1716531817,
-        "media_id": "f07c7a36663ab7ffff724c75dda9a535f66e16c8",
-        "airing_id": "RADS1005232400071391",
-        "id": "S6nyn9AsRkiMh2i8ENzOnQ",
-        "slug": "god-fearing",
-        "views": 207379,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111552420-moralorel_007.jpg",
-        "created": 1402945470,
-        "title_id": "633149",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1716531817,
-        "tags": [
-            "Moral Orel Episode 7 God Fearing"
-        ],
-        "rating_count": 535,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1716955200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111552420-moralorel_007.jpg",
-        "cma_id": "1335961"
-    },
-    {
         "auth": true,
         "ott_launch_date": 1447173240,
         "auth_expiration_date": 1717559940,
@@ -848,5 +795,58 @@
         "launch_date": 1715745600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155227-moralorel_005.jpg",
         "cma_id": "1328413"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447173180,
+        "auth_expiration_date": 1716955140,
+        "tms_id": "EP007959510041",
+        "rating": 8.891217,
+        "description": "It's Easter and the lack of happiness in Moralton leads several troubled souls to Forghetty's Pub for some unavailable solace.",
+        "title_suggest": {
+            "input": [
+                "Sacrifice"
+            ]
+        },
+        "type": "episode",
+        "title": "Sacrifice",
+        "expiration_date": 1713931140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 703.7340674,
+        "episode_number": "11",
+        "original_air_date": 1226985300,
+        "clip_order": null,
+        "auth_launch_date": 1713931200,
+        "modified": 1713507476,
+        "media_id": "9f6f677b3fd3a841dc6527b4c9b8fbc128829a76",
+        "airing_id": "RADS1003152400059570",
+        "id": "yWQq6n5ISUO79682qNzifg",
+        "slug": "sacrifice",
+        "views": 292820,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311168556-moralorel_041.jpg",
+        "created": 1402945470,
+        "title_id": "723838",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1713507476,
+        "tags": [
+            "moral orel episode 41 sacrifice easter clay doctor potterswheel officer papermouth"
+        ],
+        "rating_count": 1048,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1710907200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168556-moralorel_041.jpg",
+        "cma_id": "723838"
     }
 ]
