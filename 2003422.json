@@ -49,51 +49,6 @@
         "cma_id": "1489605"
     },
     {
-        "auth_expiration_date": 1716955140,
-        "tms_id": "",
-        "description": "Louise, Millie & Rudy get revenge.",
-        "title_suggest": {
-            "input": [
-                "Ancient Misbehavin'",
-                "Misbehavin'"
-            ]
-        },
-        "title": "Ancient Misbehavin'",
-        "type": "episode",
-        "expiration_date": 1713758340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8572,
-        "episode_number": "15",
-        "original_air_date": 1705971600,
-        "auth_launch_date": 1716350400,
-        "clip_order": null,
-        "airing_id": "RADS1005152400070514",
-        "media_id": "fcd78467582c794e4ff4f7de95506380aef0cc37",
-        "modified": 1715928111,
-        "slug": "ancient-misbehavin",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/1_244151039568-Screenshot2024-04-15at10.39.28AM.png",
-        "created": 1712803672,
-        "title_id": "2438997",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1715928111,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1713153600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/2_244151039568-Screenshot2024-04-15at10.39.28AM.png",
-        "id": "AY7LDfCvC2cKYm1ap_Na",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1717041540,
         "tms_id": "",
         "description": "Grandpa Belcher comes for a visit.",
@@ -616,5 +571,54 @@
         "launch_date": 1693800000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg",
         "cma_id": "1488905"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1717559940,
+        "tms_id": "EP012792980003",
+        "description": "When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob ends up treating the cow like a member of the family.",
+        "title_suggest": {
+            "input": [
+                "Sacred Cow",
+                "Cow"
+            ]
+        },
+        "title": "Sacred Cow",
+        "type": "episode",
+        "expiration_date": 1694404740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1296.3284,
+        "episode_number": "3",
+        "original_air_date": 1372647600,
+        "clip_order": null,
+        "auth_launch_date": 1716955200,
+        "modified": 1716534273,
+        "media_id": "f89db78e609e6ac2b3578dcc90af991e20df44a1",
+        "airing_id": "RADS1005232400071335",
+        "id": "xJmLhV5aQoOv_wp8zd_p-g",
+        "slug": "sacred-cow",
+        "views": 6850,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088771879719.jpg",
+        "created": 1402896028,
+        "title_id": "2003425",
+        "tv_rating": "tv-14",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1716534273,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1693800000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg",
+        "cma_id": "1491178"
     }
 ]
