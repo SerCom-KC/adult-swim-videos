@@ -1508,7 +1508,7 @@
         "launch_date": 1715227200,
         "poster": "https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121551353-VentureBrosLadleGraveThumb.jpeg",
         "id": "AYPNwLnLIAxeiVkFtLSP",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1695441540,
@@ -2514,7 +2514,7 @@
         "cma_id": "981013"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449842400,
         "auth_expiration_date": 1717041540,
         "tms_id": "EP005604540063",
@@ -3643,7 +3643,7 @@
         "cma_id": "2002550"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449842400,
         "auth_expiration_date": 1717041540,
         "tms_id": "EP005604540064",
@@ -5132,7 +5132,7 @@
         "cma_id": "1135059"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783140,
         "auth_expiration_date": 1741838340,
         "tms_id": "EP005604540059",
