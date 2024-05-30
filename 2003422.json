@@ -49,53 +49,6 @@
         "cma_id": "1489605"
     },
     {
-        "auth_expiration_date": 1717041540,
-        "tms_id": "",
-        "description": "Grandpa Belcher comes for a visit.",
-        "title_suggest": {
-            "input": [
-                "Interview with a Pop-Pop-Pire",
-                "with a Pop-Pop-Pire",
-                "a Pop-Pop-Pire",
-                "Pop-Pop-Pire"
-            ]
-        },
-        "title": "Interview with a Pop-Pop-Pire",
-        "type": "episode",
-        "expiration_date": 1713758340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.924,
-        "episode_number": "16",
-        "original_air_date": 1705973400,
-        "auth_launch_date": 1716436800,
-        "clip_order": null,
-        "airing_id": "RADS1005172400070681",
-        "media_id": "45795a4f65beed1e3412e639d9005711bec0046d",
-        "modified": 1716016164,
-        "slug": "interview-with-a-pop-pop-pire",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/1_244151041431-Screenshot2024-04-15at10.41.18AM.png",
-        "created": 1712803703,
-        "title_id": "2438998",
-        "season_number": "12",
-        "tv_rating": "tv-pg-lv",
-        "published": 1716016164,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1713153600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240415/thumbnails/2_244151041431-Screenshot2024-04-15at10.41.18AM.png",
-        "id": "AY7LDmtq5I1d0UhX5iFi",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1717127940,
         "tms_id": "",
         "description": "Louise gets a new house pet.",
@@ -571,6 +524,56 @@
         "launch_date": 1693800000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg",
         "cma_id": "1488905"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1717646340,
+        "tms_id": "EP012792980004",
+        "description": "When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands.",
+        "title_suggest": {
+            "input": [
+                "Sexy Dance Fighting",
+                "Dance Fighting",
+                "Fighting"
+            ]
+        },
+        "expiration_date": 1695009540,
+        "title": "Sexy Dance Fighting",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1295.928,
+        "episode_number": "4",
+        "original_air_date": 1372730400,
+        "clip_order": null,
+        "auth_launch_date": 1717041600,
+        "modified": 1716760109,
+        "media_id": "b8c95a111d57ed23f37a5f9fecab0a27d5398d18",
+        "airing_id": "RADS1005262400071719",
+        "id": "wN7dmv1cQrqDFRE4XCHxhw",
+        "slug": "sexy-dance-fighting",
+        "views": 3977,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088775540220.jpg",
+        "created": 1403209845,
+        "season_number": "1",
+        "title_id": "2003426",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1716760109,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1694404800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg",
+        "cma_id": "1491136"
     },
     {
         "auth": true,

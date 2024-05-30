@@ -67,65 +67,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1717041540,
-        "tms_id": "EP002070020012",
-        "rating": 8.6426,
-        "description": "Hank's expensive new lawn is overrun by fire ants.",
-        "title_suggest": {
-            "input": [
-                "King of the Ant Hill",
-                "of the Ant Hill",
-                "the Ant Hill",
-                "Ant Hill",
-                "Hill"
-            ]
-        },
-        "type": "episode",
-        "title": "King of the Ant Hill",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1357.1892,
-        "episode_number": "13",
-        "original_air_date": 1231126200,
-        "clip_order": null,
-        "auth_launch_date": 1716436800,
-        "modified": 1716019174,
-        "airing_id": "RADS1005172400070692",
-        "media_id": "9e33b9a044a5cb05b3952632824302c58841ebc8",
-        "id": "K6qxNlBETTe4qitP9chpmg",
-        "slug": "king-of-the-ant-hill",
-        "views": 291638,
-        "created": 1402945468,
-        "title_id": "728412",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "published": 1716019174,
-        "tags": [
-            "king of the hill",
-            "season 1",
-            "episode 13",
-            "king of the ant hill",
-            "hank",
-            "expensive",
-            "new",
-            "lawn",
-            "overrun",
-            "fire ants"
-        ],
-        "rating_count": 554,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1311134400,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_50832231184716143.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1717214340,
         "description": "When Bobby discovers a talent for target shooting, Hank discovers that an experience from his own childhood is affecting his aim.",
         "title_suggest": {
@@ -216,6 +157,51 @@
         "launch_date": 1311220800,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_3909983229960290380.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1717646340,
+        "tms_id": "EP002070020017",
+        "rating": 7.789855,
+        "description": "Hank grows jealous when Peggy begins spending her time with an archeologist.\r\n",
+        "title_suggest": {
+            "input": [
+                "The Arrowhead",
+                "Arrowhead"
+            ]
+        },
+        "type": "episode",
+        "title": "The Arrowhead",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1383.8158,
+        "episode_number": "5",
+        "original_air_date": 1231299000,
+        "clip_order": null,
+        "auth_launch_date": 1717041600,
+        "modified": 1716762226,
+        "airing_id": "RADS1005262400071720",
+        "media_id": "ae9932b0c2d8b5bc41b48c0feb2055d464d6123b",
+        "id": "qAl7T0RMRQazLX5qGVUQ5Q",
+        "slug": "the-arrowhead",
+        "views": 84965,
+        "created": 1402945468,
+        "title_id": "728416",
+        "season_number": "2",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "published": 1716762226,
+        "tags": [],
+        "rating_count": 138,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1311307200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_251702782213134504.jpg",
+        "cma_id": "982365"
     },
     {
         "auth": true,
