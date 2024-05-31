@@ -45,6 +45,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1717732740,
+        "tms_id": "EP003034830004",
+        "description": "Leela meets a self-proclaimed ladies' man who wants to make her his new conquest.",
+        "title_suggest": {
+            "input": [
+                "Love's Labour's Lost in Space",
+                "Labour's Lost in Space",
+                "Lost in Space",
+                "in Space",
+                "Space"
+            ]
+        },
+        "title": "Love's Labour's Lost in Space",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.1007,
+        "episode_number": "4",
+        "original_air_date": "1042689600",
+        "auth_launch_date": 1717128000,
+        "clip_order": null,
+        "airing_id": "RADS1005262400071773",
+        "media_id": "6618430cf11bba2458fd0886a1a4267aba6bbd78",
+        "modified": 1716768587,
+        "slug": "loves-labours-lost-in-space",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/1_2112171457505-Futurama_004_LovesLaboursLostInSpace.png",
+        "created": 1639771085,
+        "season_number": "1",
+        "title_id": "437536",
+        "tv_rating": "tv-pg",
+        "published": 1716768587,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171457505-Futurama_004_LovesLaboursLostInSpace.png",
+        "id": "AX3J-Ron4Xbjep71f6Hx",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1717300740,
         "tms_id": "EP003034830001",
         "description": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
@@ -132,52 +180,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221421256-Futurama_1013_Meanwhile.png",
         "id": "AYK3U7E03sQvipyea95S",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1717127940,
-        "tms_id": "EP003034830153",
-        "description": "Dr. Zoidberg meets the love of his life while Bender squares off in a deadly tap dancing competition.",
-        "title_suggest": {
-            "input": [
-                "Stench and Stenchibility",
-                "and Stenchibility",
-                "Stenchibility"
-            ]
-        },
-        "title": "Stench and Stenchibility",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1360.8262,
-        "episode_number": "12",
-        "original_air_date": 1661130000,
-        "auth_launch_date": 1716523200,
-        "clip_order": null,
-        "airing_id": "RADS1005172400070736",
-        "media_id": "9e8c1e320a973256b84646013e70775c16ffcfcf",
-        "modified": 1716099455,
-        "slug": "stench-and-stenchibility",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/1_228221420442-Futurama_1012_StenchAndStenchibility.png",
-        "created": 1660933092,
-        "title_id": "2161670",
-        "season_number": "10",
-        "tv_rating": "tv-14-dlv",
-        "published": 1716099455,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221420442-Futurama_1012_StenchAndStenchibility.png",
-        "id": "AYK3U7LgIAxeiVkFtLRc",
         "auth": true
     },
     {
