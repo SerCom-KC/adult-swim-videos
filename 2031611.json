@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1725053340,
         "tms_id": "EP012647370007",
@@ -503,6 +503,58 @@
         "launch_date": 1713780000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg",
         "cma_id": "1037455"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
+        "tms_id": "EP012647370012",
+        "description": "Goku arrives in time to save Gohan and Krillin, and the resurrected warrior is eager to put the hurt on Nappa. When it becomes clear that Goku is no ordinary fighter, Prince Vegeta steps in to finish the fight himself!",
+        "title_suggest": {
+            "input": [
+                "Farewell, Piccolo! Goku's Furious Counterattack!",
+                "Piccolo! Goku's Furious Counterattack!",
+                "Goku's Furious Counterattack!",
+                "Furious Counterattack!",
+                "Counterattack!"
+            ]
+        },
+        "title": "Farewell, Piccolo! Goku's Furious Counterattack!",
+        "type": "episode",
+        "expiration_date": 1720331940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1261.2935,
+        "episode_number": "12",
+        "original_air_date": 1424581200,
+        "clip_order": null,
+        "auth_launch_date": 1556596800,
+        "modified": 1716941550,
+        "airing_id": "RADS1005282400072319",
+        "media_id": "6db020f71824e3ed8f9fe9980f27fe2f78244913",
+        "id": "uLzXr3tBTX-j8zRgJv0f2g",
+        "slug": "farewell-piccolo-gokus-furious-counterattack",
+        "views": 1029,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684027363420.jpg",
+        "created": 1424244023,
+        "title_id": "2031623",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1716941550,
+        "first_published": 1424244023,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1717308000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684027363420.jpg",
+        "cma_id": "1055926"
     },
     {
         "auth": false,
