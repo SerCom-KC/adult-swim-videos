@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 2, 2024 at 03:00:13 EDT_
+_Last Update: June 2, 2024 at 03:30:41 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031615
-**Dragon Ball Z Kai S01E04 - Run in the Afterlife, Goku! The One Million Mile Snake Way!**  
-TV-PG-LV 🔒 21:01  
-⌛ June 2, 2024 at 02:44:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/run-in-the-afterlife-goku-the-one-million-mile-snake-way  
-seriesid=`2031611` titleid=`2031615` id=`o5xov_HfQvyaB7WP5GOJig` mediaid=`e5c206ea9bb8232d4b375a431c63ed6f17321d85`  
-_Now that he's dead, Goku must fight to survive in the afterlife, especially during his treacherous trek down Snake Way. Back on Earth, Gohan endures his own punishment as a student in the house of Piccolo!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg" height="144px" /></a>
+2209292 Demon Slayer: 1  
+### 2436327
+**Demon Slayer S02E09 - Infiltrating the Entertainment District**  
+TV-MA-V 🔒 22:50  
+⌛ June 30, 2024 at 02:59:00 EDT  
+https://www.adultswim.com/videos/demon-slayer/infiltrating-the-entertainment-district  
+seriesid=`2209292` titleid=`2436327` id=`AY0dEkwH1E7YmWrdXLlk` mediaid=`82e5fea01f312ccfbed9ba56ff19083f222a18c8`  
+_Tanjiro finds his family slaughtered by a demon. Through devastated by this grim reality, Tanjiro becomes a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family._  
+<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221419115-Screenshot2024-01-22at1.57.08PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221419115-Screenshot2024-01-22at1.57.08PM.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
