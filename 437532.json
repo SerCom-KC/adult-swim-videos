@@ -141,52 +141,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1717300740,
-        "tms_id": "EP003034830001",
-        "description": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
-        "title_suggest": {
-            "input": [
-                "Space Pilot 3000",
-                "Pilot 3000",
-                "3000"
-            ]
-        },
-        "title": "Space Pilot 3000",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.8004,
-        "episode_number": "1",
-        "original_air_date": "1042430400",
-        "auth_launch_date": 1716696000,
-        "clip_order": null,
-        "airing_id": "RADS1005202400071072",
-        "media_id": "9997a28209e50dcc3d5a00c29c56d1a66f40632f",
-        "modified": 1716269601,
-        "slug": "space-pilot-3000",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/1_2112171455355-Futurama_001_SpacePilot3000.png",
-        "created": 1639770953,
-        "season_number": "1",
-        "title_id": "437533",
-        "tv_rating": "tv-pg-l",
-        "published": 1716269601,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171455355-Futurama_001_SpacePilot3000.png",
-        "id": "AX3J9xZo4Xbjep71f6Hv",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1717387140,
         "created": 1665776805,
         "tms_id": "EP003034830002",
@@ -218,6 +172,40 @@
         "modified": 1716482220,
         "slug": "the-series-has-landed",
         "id": "AYPYCOYW3sQvipyea-pR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1717905540,
+        "created": 1666207238,
+        "tms_id": "EP003034830009",
+        "title_id": "437538",
+        "season_number": "1",
+        "tv_rating": "tv-pg-dl",
+        "description": "Fry's savings have accrued for 1000 years, and he buys ancient anchovies with his sudden riches.",
+        "title_suggest": {
+            "input": [
+                "A Fishful of Dollars",
+                "Fishful of Dollars",
+                "of Dollars",
+                "Dollars"
+            ]
+        },
+        "published": 1716914630,
+        "title": "A Fishful of Dollars",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.5344,
+        "episode_number": "6",
+        "collection_title": "Futurama",
+        "original_air_date": 1043035200,
+        "auth_launch_date": 1717300800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005282400071977",
+        "media_id": "b76940cfdd791e237cafd2ee27a9af08e9ea5874",
+        "modified": 1716914630,
+        "slug": "a-fishful-of-dollars",
+        "id": "AYPxsMge3sQvipyea-vQ",
         "auth": true
     }
 ]
