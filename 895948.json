@@ -108,52 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1717300740,
-        "tms_id": "EP015632430065",
-        "description": "Eric welcomes Tinashe and Chuck Liddell. Waka Flocka Flame tries ayahuasca. A police officer finds himself in a sexy pickle on Grocery Goofs.",
-        "title_suggest": {
-            "input": [
-                "Football Is Back",
-                "Is Back",
-                "Back"
-            ]
-        },
-        "title": "Football Is Back",
-        "expiration_date": 1714276740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 671.5375,
-        "episode_number": "4",
-        "original_air_date": "1686543300",
-        "auth_launch_date": 1714276800,
-        "clip_order": null,
-        "airing_id": "RADS1004222400066179",
-        "media_id": "0391c83967a775279f7177f5eb5049ff561ca753",
-        "modified": 1713849695,
-        "slug": "football-is-back",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/1_2367162352-TheEricAndreShow604Still002tiny.png",
-        "created": 1686168173,
-        "season_number": "6",
-        "title_id": "2418684",
-        "tv_rating": "tv-ma-lsv",
-        "published": 1713849695,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1711252800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367162352-TheEricAndreShow604Still002tiny.png",
-        "id": "AYiXdHw2Oz5CkuTcnvu3",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1717905540,
         "tms_id": "EP015632430068",
         "description": "Eric welcomes Chanel West Coast and Donald Glover. Confusion ensues when a tow truck tows another tow truck.",
@@ -379,7 +333,7 @@
         "launch_date": 1714276800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375112508-EAKrftPunkReturns.png",
         "id": "AYkM9G6k2rZC6NyF6197",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1714881540,
@@ -619,6 +573,58 @@
         "launch_date": 1598472033,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-lindsey-pelas/ericandre_HGOI_101_LindseyPelas.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1673845140,
+        "tms_id": "EP015632430025",
+        "description": "Interviews with Jillian Barberie and Victor Ortiz; Musical guest Mac DeMarco.",
+        "title_suggest": {
+            "input": [
+                "Jillian Barberie; Victor Ortiz",
+                "Barberie; Victor Ortiz",
+                "Victor Ortiz",
+                "Ortiz"
+            ]
+        },
+        "expiration_date": 1720324740,
+        "title": "Jillian Barberie; Victor Ortiz",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 651.8008008,
+        "episode_number": "4",
+        "original_air_date": 1417151700,
+        "clip_order": null,
+        "auth_launch_date": 1670821200,
+        "modified": 1716934888,
+        "media_id": "318cbdb2dfc08e07434b69f1fd1377af12cd5334",
+        "airing_id": "RADS1005282400072309",
+        "id": "_DZgdugoTAS9MSQvAy3Pnw",
+        "slug": "jillian-barberie-victor-ortiz",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161679-ericandre_024_dup-20141113.jpg",
+        "created": 1416952948,
+        "season_number": "3",
+        "title_id": "2032599",
+        "tv_rating": "tv-ma-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1716934888,
+        "first_published": 1416972040,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1717300800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161679-ericandre_024_dup-20141113.jpg",
+        "cma_id": "1336501"
     },
     {
         "auth": false,
