@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1717387140,
         "tms_id": "EP007833440002",
         "description": "Episode 2 - Win or Lose",
@@ -372,7 +372,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1717991940,
         "tms_id": "EP007833440003",
         "description": "Episode 3 - Black Egg",
