@@ -562,7 +562,7 @@
         "launch_date": 1717387200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240513/thumbnails/2_245131139274-Screenshot2024-05-13at11.38.55AM.png",
         "id": "AY9pSygWC2cKYm1ap_rE",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1718337540,
@@ -611,38 +611,6 @@
         "launch_date": 1711339200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821241277-SmilingFriends_109_TheSmilingFriendsGoToBrazil.png",
         "id": "AYJfbyjN3sQvipyea9ru",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1719201540,
-        "created": 1717094456,
-        "tms_id": "",
-        "title_id": "2424769",
-        "season_number": "2",
-        "tv_rating": "tv-14-dlv",
-        "description": "After some of the Boss's usual tomfoolery, Pim and Charlie are tasked with helping a mad scientist with an \"egg dilemma\".",
-        "title_suggest": {
-            "input": [
-                "Brother's Egg",
-                "Egg"
-            ]
-        },
-        "published": 1717119339,
-        "title": "Brother's Egg",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-        "duration": 675.4081,
-        "episode_number": "5",
-        "collection_title": "Smiling Friends",
-        "original_air_date": 1717387200,
-        "auth_launch_date": 1717387200,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1005302400072632",
-        "media_id": "05d827ebe31caf08e4d9047428e480b0741f2eb7",
-        "modified": 1717119339,
-        "slug": "brothers-egg",
-        "id": "AY_KzhzOC2cKYm1ap_5u",
         "auth": true
     }
 ]

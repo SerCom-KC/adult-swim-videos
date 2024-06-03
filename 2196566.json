@@ -1,6 +1,53 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1717387140,
+        "tms_id": "EP033701060001",
+        "description": "When Floyd eats Sheriff's hat, Sheriff becomes convinced that nobody will respect his authority without it.",
+        "title_suggest": {
+            "input": [
+                "Hats"
+            ]
+        },
+        "title": "Hats",
+        "expiration_date": 1714363140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 678.08,
+        "episode_number": "1",
+        "original_air_date": 1574054100,
+        "auth_launch_date": 1714363200,
+        "clip_order": null,
+        "media_id": "97608903daeb5857377c0615421d1d0f96296fee",
+        "modified": 1713939948,
+        "airing_id": "RADS1003202400060862",
+        "slug": "hats",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg",
+        "created": 1573745583,
+        "season_number": "1",
+        "title_id": "2196567",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1713939948,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1711339200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg",
+        "id": "AW5qi-Vv1YiBSfg0KYe1",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1717991940,
         "tms_id": "EP033701060002",
         "description": "When Sheriff learns that he was once a bully to a long lost schoolmate, he sets out to right his wrong.",
@@ -235,7 +282,7 @@
         "launch_date": 1714363200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg",
         "id": "AW5qjgBaadNs2hMNfugG",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -422,51 +469,6 @@
         "launch_date": 1716782400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_21121119314-MommaNamedMeSheriff_204_Charter.jpg",
         "id": "AXcltU4IQJ_4Uej5kTm_",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1712548740,
-        "tms_id": "",
-        "description": "Somebody or something is kidnapping Good Guys all around town. But when Sheriff discovers that he's not good enough to be kidnapped, he sets out to prove that he's the goodest guy in town.",
-        "title_suggest": {
-            "input": [
-                "Good Guys",
-                "Guys"
-            ]
-        },
-        "title": "Good Guys",
-        "expiration_date": 1720411140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 675.9086,
-        "episode_number": "2",
-        "original_air_date": "1613366100",
-        "auth_launch_date": 1709528400,
-        "clip_order": null,
-        "airing_id": "RADS1005302400072642",
-        "media_id": "de63e68583ce036213c4b61bb5aa885483839746",
-        "modified": 1717112747,
-        "slug": "good-guys",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/1_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
-        "created": 1611861981,
-        "season_number": "2",
-        "title_id": "2247952",
-        "tv_rating": "tv-ma-v",
-        "published": 1717112747,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1717387200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
-        "id": "AXdKdfpDQJ_4Uej5kTon",
         "auth": false
     }
 ]
