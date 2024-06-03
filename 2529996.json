@@ -1,11 +1,7 @@
 [
     {
         "auth_expiration_date": 1719003540,
-        "created": 1717169436,
         "tms_id": "",
-        "title_id": "2529997",
-        "season_number": "1",
-        "tv_rating": "tv-pg-v",
         "description": "Usagi Tsukino is transformed into Sailor Moon, the guardian who fights for love and justice.",
         "title_suggest": {
             "input": [
@@ -16,21 +12,38 @@
                 "Transformation"
             ]
         },
-        "published": 1717169436,
         "title": "The Crybaby: Usagi's Beautiful Transformation",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "duration": 1388.7542,
         "collection_id": "AY_PJ8ZL5I1d0UhX5iGC",
-        "episode_number": "",
-        "collection_title": "Sailor Moon",
+        "episode_number": "1",
         "original_air_date": 1717189200,
         "auth_launch_date": 1717189200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1005282400072301",
         "media_id": "d30b4d38a78a19292c40d435959762990a50dfb1",
-        "modified": 1717169436,
+        "modified": 1717434871,
         "slug": "the-crybaby-usagis-beautiful-transformation",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/1_24631313378-SailorMoon_Ep001_Thumbnail_1920x1080_Pillarbox.jpg",
+        "created": 1717169436,
+        "title_id": "2529997",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "published": 1717434871,
+        "tags": [],
+        "collection_title": "Sailor Moon",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631313378-SailorMoon_Ep001_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AY_PRjYpC2cKYm1ap_8B",
         "auth": true
     }
