@@ -157,7 +157,7 @@
         "launch_date": 1715054400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509854039616.jpg",
         "id": "AV-3DeJywdpKFAKSbWZV",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789500,
@@ -257,6 +257,65 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1447789500,
+        "auth_expiration_date": 1705985940,
+        "tms_id": "SH020417690000",
+        "description": "Sure, Newbridge, NJ is known as the muffler capital of the world but it's so much more than that. Learn about the fascinating often insane past and present of the town George Washington quickly decided against making the capital of the US.",
+        "title_suggest": {
+            "input": [
+                "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+                "\"We're Newbridge, We're Comin' To Get Ya!\"",
+                "Newbridge, We're Comin' To Get Ya!\"",
+                "We're Comin' To Get Ya!\"",
+                "Comin' To Get Ya!\"",
+                "To Get Ya!\"",
+                "Get Ya!\"",
+                "Ya!\""
+            ]
+        },
+        "expiration_date": 1719892740,
+        "type": "episode",
+        "title": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 690.2085071,
+        "episode_number": "6",
+        "original_air_date": 1415091600,
+        "auth_launch_date": 1702962000,
+        "clip_order": null,
+        "media_id": "9fdd28daad74426e29ff0feb51c142cc40522313",
+        "modified": 1717116964,
+        "airing_id": "RADS1005302400072698",
+        "slug": "the-newbridge-tourism-board-presents-were-newbridge-were-comin-to-get-ya",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509835916018.jpg",
+        "created": 1510605679,
+        "season_number": "4",
+        "title_id": "2007844",
+        "tv_rating": "tv-14-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1717116964,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1717473600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509835916018.jpg",
+        "id": "AV-3HWt2Z-onAnjDLtAg",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1447789560,
         "auth_expiration_date": 1705381140,
         "tms_id": "SH020222930000",
@@ -353,54 +412,6 @@
         "launch_date": 1713240000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg",
         "id": "AW8BAtn13HMJfT8do6Zt",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1717473540,
-        "tms_id": "EP027786570033",
-        "description": "When you thought nothing could get worse now Lorelei Ramirez makes everything perverted.",
-        "title_suggest": {
-            "input": [
-                "Pervert Everything",
-                "Everything"
-            ]
-        },
-        "title": "Pervert Everything",
-        "expiration_date": 1714449540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 674.33,
-        "episode_number": "3",
-        "original_air_date": 1544518800,
-        "auth_launch_date": 1714449600,
-        "clip_order": null,
-        "media_id": "cd8ba9dca2952e388437726cf4905de83e233621",
-        "modified": 1714020459,
-        "airing_id": "RADS1004232400066460",
-        "slug": "pervert-everything",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15444645561822.jpg",
-        "created": 1544116763,
-        "season_number": "8",
-        "title_id": "2187507",
-        "tv_rating": "tv-ma-ls",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1714020459,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1712030400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444645561822.jpg",
-        "id": "AWeEh_u_qD68dq0Op5wA",
         "auth": true
     },
     {
