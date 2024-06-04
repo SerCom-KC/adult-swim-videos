@@ -532,54 +532,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1717473540,
-        "tms_id": "EP007164450238",
-        "description": "Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts.",
-        "title_suggest": {
-            "input": [
-                "Bazooka Steve",
-                "Steve"
-            ]
-        },
-        "title": "Bazooka Steve",
-        "type": "episode",
-        "expiration_date": 1715572740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.1,
-        "episode_number": "12",
-        "original_air_date": 1496885400,
-        "auth_launch_date": 1716868800,
-        "clip_order": null,
-        "modified": 1716482217,
-        "media_id": "271f0089000790af1901e1dcf22dac7b18ea1dee",
-        "airing_id": "RADS1005232400071233",
-        "id": "AitmXh48RkeeOF5Mpxu47w",
-        "slug": "bazooka-steve",
-        "views": 1397,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870777267015.jpg",
-        "created": 1496549449,
-        "title_id": "2069543",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1716482217,
-        "first_published": 1496549449,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1714968000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg",
-        "cma_id": "1411253"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1717819140,
         "tms_id": "EP007164450245",
         "description": "Roger becomes a marionette and injures other students to help Steve win the school talent show. Stan, Hayley and Klaus start their own local honey business.",
@@ -826,6 +778,53 @@
         "modified_by": "ODT Listener",
         "launch_date": 1715572800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1718078340,
+        "tms_id": "EP007164450252",
+        "description": "Steve sets out to stop Roger after he joins a mysterious order. Francine buys a new pasta sauce and the family starts changing.",
+        "title_suggest": {
+            "input": [
+                "Shell Game",
+                "Game"
+            ]
+        },
+        "title": "Shell Game",
+        "type": "episode",
+        "expiration_date": 1716177540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.2286,
+        "episode_number": "3",
+        "original_air_date": 1520818200,
+        "clip_order": null,
+        "auth_launch_date": 1717473600,
+        "modified": 1717115122,
+        "media_id": "96c39d68f614e37ebf61ef8fe2a9eb7e7affa554",
+        "airing_id": "RADS1005302400072650",
+        "id": "b6xubpzsSNO_D8tVF4hB2A",
+        "slug": "shell-game",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199407423806.jpg",
+        "created": 1508441152,
+        "season_number": "13",
+        "title_id": "2069556",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1717115122,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1715572800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg",
         "cma_id": ""
     },
     {
