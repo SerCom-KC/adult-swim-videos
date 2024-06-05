@@ -62,6 +62,51 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1718164740,
+        "tms_id": "EP002070020024",
+        "rating": 7.8672895,
+        "description": "Peggy insists that Connie be allowed to play on the school's all-boy wrestling team.\r\n",
+        "title_suggest": {
+            "input": [
+                "Bobby Slam ",
+                "Slam"
+            ]
+        },
+        "type": "episode",
+        "title": "Bobby Slam ",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1395.8278,
+        "episode_number": "9",
+        "original_air_date": 1231558200,
+        "clip_order": null,
+        "auth_launch_date": 1717560000,
+        "modified": 1717140146,
+        "airing_id": "RADS1005302400072750",
+        "media_id": "309ba044da556fa0c2e69d94baaa0b238ec4b413",
+        "id": "a4ueXcNiSgW9arCyBWCp8A",
+        "slug": "bobby-slam",
+        "views": 306967,
+        "created": 1402945468,
+        "title_id": "728423",
+        "season_number": "2",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1717140146,
+        "tags": [],
+        "rating_count": 535,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1296104400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_10353.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1717732740,
         "tms_id": "EP002070020020",
         "rating": 8.159013,
@@ -161,50 +206,6 @@
         "launch_date": 1311307200,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_251702782213134504.jpg",
         "cma_id": "982365"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1717559940,
-        "tms_id": "EP002070020018",
-        "rating": 9.2490974729242,
-        "description": "Hank is outraged when a conservative church member attempts to outlaw Halloween.\r\n",
-        "title_suggest": {
-            "input": [
-                "Hilloween "
-            ]
-        },
-        "type": "episode",
-        "title": "Hilloween ",
-        "expiration_date": 1415420999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1396.762,
-        "episode_number": "4",
-        "original_air_date": 1231385400,
-        "clip_order": null,
-        "auth_launch_date": 1716955200,
-        "modified": 1716534274,
-        "airing_id": "RADS1005232400071341",
-        "media_id": "a7e65ce3b5940ccc9c24e302f2445b5a3d3d5ac2",
-        "id": "qKPzwimBRHS7YvGoJNeg6g",
-        "slug": "hilloween",
-        "views": 102667,
-        "created": 1402945468,
-        "title_id": "728417",
-        "season_number": "2",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1716534274,
-        "tags": [],
-        "rating_count": 277,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1414812600,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14489.jpg",
-        "cma_id": "1028877"
     },
     {
         "auth": true,
