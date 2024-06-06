@@ -3762,6 +3762,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1450888020,
+        "auth_expiration_date": 1684900740,
+        "tms_id": "EP001022180072",
+        "rating": 6.151164,
+        "description": "Space Ghost gets down and dirty with Triumph, the dog who loves to piss everyone off.",
+        "title_suggest": {
+            "input": [
+                "Dreams"
+            ]
+        },
+        "type": "episode",
+        "title": "Dreams",
+        "expiration_date": 1739336340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 708.2669336,
+        "episode_number": "1",
+        "original_air_date": 1073881800,
+        "clip_order": null,
+        "auth_launch_date": 1668315600,
+        "modified": 1717599215,
+        "airing_id": "RADS1006052400073923",
+        "media_id": "7bad879b2915d6da2572006e1d70eeabbd9737ad",
+        "id": "w1gHXTPETSOf0qDNNJUegA",
+        "slug": "dreams",
+        "views": 15570,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420121165-sgc2c_2401.jpg",
+        "created": 1402945476,
+        "title_id": "539127",
+        "season_number": "9",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1717599215,
+        "tags": [
+            "space ghost c2c sg episode 88 dreams triumph the insult comic dog"
+        ],
+        "rating_count": 172,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1717646400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420121165-sgc2c_2401.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1684814399,
         "tms_id": "",

@@ -243,6 +243,54 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1718251140,
+        "tms_id": "EP012792980014",
+        "description": "The kids hunt for treasure in an abandoned taffy factory, and Bob and Linda must find them before the factory's scheduled demolition.",
+        "title_suggest": {
+            "input": [
+                "The Belchies",
+                "Belchies"
+            ]
+        },
+        "title": "The Belchies",
+        "type": "episode",
+        "expiration_date": 1696823940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1288.4205,
+        "episode_number": "1",
+        "original_air_date": 1375754400,
+        "clip_order": null,
+        "auth_launch_date": 1717646400,
+        "modified": 1717227337,
+        "media_id": "dad329b8a79066736b4d7ab006e5e2031edee533",
+        "airing_id": "RADS1005312400073174",
+        "id": "BPGA47QsQLaN-TLR_c8dUA",
+        "slug": "the-belchies",
+        "views": 7398,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152148409497119.jpg",
+        "created": 1406517627,
+        "title_id": "2003436",
+        "tv_rating": "tv-14",
+        "season_number": "2",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1717227337,
+        "first_published": 1406517627,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1696219200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148409497119.jpg",
+        "cma_id": "1496818"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1717819140,
         "tms_id": "EP012792980008",
         "description": "When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant.",
@@ -587,55 +635,5 @@
         "launch_date": 1695614400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148369035519.jpg",
         "cma_id": "1494048"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1717646340,
-        "tms_id": "EP012792980004",
-        "description": "When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands.",
-        "title_suggest": {
-            "input": [
-                "Sexy Dance Fighting",
-                "Dance Fighting",
-                "Fighting"
-            ]
-        },
-        "expiration_date": 1695009540,
-        "title": "Sexy Dance Fighting",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1295.928,
-        "episode_number": "4",
-        "original_air_date": 1372730400,
-        "clip_order": null,
-        "auth_launch_date": 1717041600,
-        "modified": 1716760109,
-        "media_id": "b8c95a111d57ed23f37a5f9fecab0a27d5398d18",
-        "airing_id": "RADS1005262400071719",
-        "id": "wN7dmv1cQrqDFRE4XCHxhw",
-        "slug": "sexy-dance-fighting",
-        "views": 3977,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088775540220.jpg",
-        "created": 1403209845,
-        "season_number": "1",
-        "title_id": "2003426",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1716760109,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1694404800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg",
-        "cma_id": "1491136"
     }
 ]
