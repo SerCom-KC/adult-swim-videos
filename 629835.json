@@ -1,6 +1,50 @@
 [
     {
         "auth": true,
+        "auth_expiration_date": 1718251140,
+        "description": "As Christmas approaches... Hank experiences temporary blindness after he accidentally catches his mother and her boyfriend in the throes of passion.",
+        "title_suggest": {
+            "input": [
+                "The Unbearable Blindness of Laying",
+                "Unbearable Blindness of Laying",
+                "Blindness of Laying",
+                "of Laying",
+                "Laying"
+            ]
+        },
+        "title": "The Unbearable Blindness of Laying",
+        "type": "episode",
+        "expiration_date": 1403886600,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1399.8318,
+        "episode_number": "10",
+        "original_air_date": 1231556400,
+        "clip_order": null,
+        "auth_launch_date": 1717646400,
+        "modified": 1717227338,
+        "airing_id": "RADS1005312400073175",
+        "media_id": "b99600e69ed50516253e6ccf48e2a870722eaa2d",
+        "id": "KKxWhbz1TlOqJhjK_Nc2LA",
+        "slug": "the-unbearable-blindness-of-laying",
+        "created": 1403629033,
+        "season_number": "2",
+        "title_id": "728424",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "published": 1717227338,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1403628594,
+        "poster": "",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1717905540,
         "tms_id": "EP002070020022",
         "rating": 8.508859,
@@ -161,51 +205,6 @@
         "launch_date": 1264136400,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14484.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1717646340,
-        "tms_id": "EP002070020017",
-        "rating": 7.789855,
-        "description": "Hank grows jealous when Peggy begins spending her time with an archeologist.\r\n",
-        "title_suggest": {
-            "input": [
-                "The Arrowhead",
-                "Arrowhead"
-            ]
-        },
-        "type": "episode",
-        "title": "The Arrowhead",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1383.8158,
-        "episode_number": "5",
-        "original_air_date": 1231299000,
-        "clip_order": null,
-        "auth_launch_date": 1717041600,
-        "modified": 1716762226,
-        "airing_id": "RADS1005262400071720",
-        "media_id": "ae9932b0c2d8b5bc41b48c0feb2055d464d6123b",
-        "id": "qAl7T0RMRQazLX5qGVUQ5Q",
-        "slug": "the-arrowhead",
-        "views": 84965,
-        "created": 1402945468,
-        "title_id": "728416",
-        "season_number": "2",
-        "tv_rating": "tv-14-dl",
-        "active": false,
-        "published": 1716762226,
-        "tags": [],
-        "rating_count": 138,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1311307200,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_251702782213134504.jpg",
-        "cma_id": "982365"
     },
     {
         "auth": true,
