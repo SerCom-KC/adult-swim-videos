@@ -161,6 +161,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451682720,
+        "auth_expiration_date": 1700197140,
+        "tms_id": "EP007008200028",
+        "rating": 8.911361,
+        "description": "Tom goes undercover at his son's school to find out if they are being served high levels of starch.",
+        "title_suggest": {
+            "input": [
+                "Undercover"
+            ]
+        },
+        "type": "episode",
+        "title": "Undercover",
+        "expiration_date": 1717732740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 698.26,
+        "episode_number": "15",
+        "original_air_date": 1157949000,
+        "clip_order": null,
+        "auth_launch_date": 1697169600,
+        "modified": 1711330799,
+        "airing_id": "RADS1003252400061175",
+        "media_id": "dc7238434110c66fd1f2f9f517fe6992a30d91e6",
+        "id": "KCurLYD7T1WMDKEw45yL3Q",
+        "slug": "undercover",
+        "views": 114466,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211795854-tgttm_028.jpg",
+        "created": 1402945482,
+        "title_id": "639411",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1711330799,
+        "tags": [
+            "tom goes to the mayor episode 28 undercover starch high school son"
+        ],
+        "rating_count": 440,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1711684800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795854-tgttm_028.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451682540,
         "auth_expiration_date": 1701406740,
         "tms_id": "EP007008200030",
@@ -425,60 +477,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1715918400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835245-tgttm_004.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1451682900,
-        "auth_expiration_date": 1704085199,
-        "tms_id": "EP007008200008",
-        "rating": 8.280936,
-        "description": "After the Mayor is caught in a dirty sex scandal Tom is brought in to be his PR man.  In order to boost the Mayor's public opinion they enter into a local hot air balloon challenge.  Special Guest:  Bob Odenkirk.",
-        "title_suggest": {
-            "input": [
-                "Boy Meets Mayor",
-                "Meets Mayor",
-                "Mayor"
-            ]
-        },
-        "type": "episode",
-        "title": "Boy Meets Mayor",
-        "expiration_date": 1723780740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 703.27,
-        "episode_number": "8",
-        "original_air_date": 1115006400,
-        "clip_order": null,
-        "auth_launch_date": 1703221200,
-        "modified": 1717360954,
-        "airing_id": "RADS1006022400073520",
-        "media_id": "c05eabab9b91a26db36128425604d324749c998b",
-        "id": "pDHGdDC3TG-iFQzPnP2Mag",
-        "slug": "boy-meets-mayor",
-        "views": 93968,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117836424-tgttm_008.jpg",
-        "created": 1402945482,
-        "title_id": "612654",
-        "season_number": "1",
-        "tv_rating": "tv-pg-d",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1717360954,
-        "tags": [
-            "tom goes to the mayor tgttm episode 8 boy meets mayor sex scandal pr bob odenkirk hot air balloon"
-        ],
-        "rating_count": 299,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1717732800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836424-tgttm_008.jpg",
         "cma_id": ""
     },
     {
