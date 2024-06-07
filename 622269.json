@@ -44,5 +44,52 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631312225-NarutoClassic_EP001_Still_1920x1080_Pillarbox.jpg",
         "id": "AY_BD1I55I1d0UhX5iGB",
         "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Naruto finally graduates from the Ninja Academy and claims to know it all.",
+        "title_suggest": {
+            "input": [
+                "My Name is Konohamaru!",
+                "Name is Konohamaru!",
+                "is Konohamaru!",
+                "Konohamaru!"
+            ]
+        },
+        "title": "My Name is Konohamaru!",
+        "type": "episode",
+        "expiration_date": 1719008940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1358.5573,
+        "episode_number": "2",
+        "original_air_date": 1126402200,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1006032400073576",
+        "media_id": "ceee8154069378af98a364b3d43ebafbb7504163",
+        "modified": 1717444612,
+        "slug": "my-name-is-konohamaru",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/1_24631312449-NarutoClassic_Ep002_Still_1920x1080_Pillarbox.jpg",
+        "created": 1717423526,
+        "title_id": "622456",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "published": 1717444612,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1717799400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631312449-NarutoClassic_Ep002_Still_1920x1080_Pillarbox.jpg",
+        "id": "AY_ea1CW5I1d0UhX5iGD",
+        "auth": false
     }
 ]
