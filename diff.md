@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 7, 2024 at 18:00:43 EDT_
+_Last Update: June 7, 2024 at 19:00:13 EDT_
 ## Video added
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031615
-**Dragon Ball Z Kai S01E04 - Run in the Afterlife, Goku! The One Million Mile Snake Way!**  
-TV-PG-LV 🔒 21:01  
-⌛ August 16, 2024 at 17:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/run-in-the-afterlife-goku-the-one-million-mile-snake-way  
-seriesid=`2031611` titleid=`2031615` id=`o5xov_HfQvyaB7WP5GOJig` mediaid=`e5c206ea9bb8232d4b375a431c63ed6f17321d85`  
-_Now that he's dead, Goku must fight to survive in the afterlife, especially during his treacherous trek down Snake Way. Back on Earth, Gohan endures his own punishment as a student in the house of Piccolo!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg" height="144px" /></a>
+622269 Naruto: 1  
+### 622456
+**Naruto S01E02 - My Name is Konohamaru!**  
+TV-14 🔓 22:38  
+⌛ June 21, 2024 at 18:29:00 EDT  
+https://www.adultswim.com/videos/naruto/my-name-is-konohamaru  
+seriesid=`622269` titleid=`622456` id=`AY_ea1CW5I1d0UhX5iGD` mediaid=`ceee8154069378af98a364b3d43ebafbb7504163`  
+_Naruto finally graduates from the Ninja Academy and claims to know it all._  
+<a href="https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631312449-NarutoClassic_Ep002_Still_1920x1080_Pillarbox.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631312449-NarutoClassic_Ep002_Still_1920x1080_Pillarbox.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
