@@ -43,7 +43,7 @@
         "launch_date": 1714881600,
         "poster": "https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg",
         "id": "AXW5Hl8_LyLQBOXK_Pgw",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1713067140,
@@ -323,6 +323,52 @@
         "launch_date": 1717300800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201118/thumbnails/2_2011181458402-GSMP_207_dup-20201116.jpg",
         "id": "AXXc8DvGbxpjZvbXYlcf",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1715486340,
+        "tms_id": "EP036530620008",
+        "description": "Makasu totally misconstrues all the friendship advice Dr. Legs has been giving him during his redemption arc. With our hero out of commission, do drastic measures have to be taken to save the universe?",
+        "title_suggest": {
+            "input": [
+                "Episode Eight: E9",
+                "Eight: E9",
+                "E9"
+            ]
+        },
+        "title": "Episode Eight: E9",
+        "expiration_date": 1720929540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWnYBNDcHl5gR6828zAp",
+        "duration": 675.3747,
+        "episode_number": "8",
+        "original_air_date": "1607238900",
+        "auth_launch_date": 1712462400,
+        "clip_order": null,
+        "airing_id": "RADS1006032400073638",
+        "media_id": "e7a7b5183285c3b883590845d639f0638744349b",
+        "modified": 1717476755,
+        "slug": "episode-eight-e-9",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201201/thumbnails/1_201211218485-GSMP_208.jpg",
+        "created": 1606843132,
+        "season_number": "2",
+        "title_id": "2241833",
+        "tv_rating": "tv-ma-ls",
+        "published": 1717476755,
+        "tags": [],
+        "collection_title": "Gemusetto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1717905600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201201/thumbnails/2_201211218485-GSMP_208.jpg",
+        "id": "AXYfUGqdbxpjZvbXYlg3",
         "auth": false
     },
     {
