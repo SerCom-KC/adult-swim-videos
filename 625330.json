@@ -228,7 +228,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1718596740,
         "tms_id": "EP007833440004",
         "description": "Episode 4 - The Ghost",
@@ -372,7 +372,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1717991940,
         "tms_id": "EP007833440003",
         "description": "Episode 3 - Black Egg",
