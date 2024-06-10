@@ -373,7 +373,7 @@
         "launch_date": 1717992000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240520/thumbnails/2_24520137185-Screenshot2024-05-20at1.36.51AM.png",
         "id": "AY95BMcCC2cKYm1ap_uZ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -566,6 +566,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_2463131773-Screenshot2024-06-03at1.16.28PM.png",
         "id": "AY_KzhzOC2cKYm1ap_5u",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1719806340,
+        "tms_id": "",
+        "description": "This episode tells the story of a thirty-four year-old boy named Pim who sets out to save his mother on Mars after she is abducted by Martians.",
+        "title_suggest": {
+            "input": [
+                "Charlie, Pim, and Bill vs the Alien",
+                "Pim, and Bill vs the Alien",
+                "and Bill vs the Alien",
+                "Bill vs the Alien",
+                "vs the Alien",
+                "the Alien",
+                "Alien"
+            ]
+        },
+        "title": "Charlie, Pim, and Bill vs the Alien",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 668.3343,
+        "episode_number": "6",
+        "original_air_date": 1717992000,
+        "auth_launch_date": 1717992000,
+        "clip_order": null,
+        "airing_id": "RADS1006052400074290",
+        "media_id": "117cc6a49f53cd80d9d5d0ac837f0fdcb26f990c",
+        "modified": 1717704027,
+        "slug": "charlie-pim-and-bill-vs-the-alien",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240606/thumbnails/1_246616094-2310171633239-as-back-up-imgcopy.png",
+        "created": 1717609425,
+        "title_id": "2424770",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "published": 1717704027,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240606/thumbnails/2_246616094-2310171633239-as-back-up-imgcopy.png",
+        "id": "AY_pf-uGFCWdTNspj0vD",
         "auth": true
     }
 ]
