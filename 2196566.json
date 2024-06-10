@@ -1,54 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1717991940,
-        "tms_id": "EP033701060002",
-        "description": "When Sheriff learns that he was once a bully to a long lost schoolmate, he sets out to right his wrong.",
-        "title_suggest": {
-            "input": [
-                "Smelly Glenn",
-                "Glenn"
-            ]
-        },
-        "title": "Smelly Glenn",
-        "expiration_date": 1714967940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 673.21,
-        "episode_number": "2",
-        "original_air_date": 1574658000,
-        "auth_launch_date": 1714968000,
-        "clip_order": null,
-        "media_id": "f5982effad1dfbbbef2d09371b873e08165905f6",
-        "modified": 1714706250,
-        "airing_id": "RADS1005032400068022",
-        "slug": "smelly-glenn",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
-        "created": 1573745609,
-        "season_number": "1",
-        "title_id": "2196568",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1714706250,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1711944000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033262-MommaNamedMeSheriff_102_dup-20190503.jpg",
-        "id": "AW5qjExh1YiBSfg0KYe2",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1718596740,
         "tms_id": "",
         "description": "When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better.",
@@ -283,7 +235,7 @@
         "launch_date": 1714968000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191119/thumbnails/2_1911191641325-MommaNamedMeSheriff_107_dup-20190507.jpg",
         "id": "AW5qscol1YiBSfg0KYfM",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -467,6 +419,52 @@
         "launch_date": 1717387200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
         "id": "AXdKdfpDQJ_4Uej5kTon",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1713153540,
+        "tms_id": "",
+        "description": "When Sheriff hires a bug as a new deputy, a cockroach is put in charge of solving a mysterious murder.",
+        "title_suggest": {
+            "input": [
+                "Sheriff and Roach",
+                "and Roach",
+                "Roach"
+            ]
+        },
+        "title": "Sheriff and Roach",
+        "expiration_date": 1721015940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 676.5759,
+        "episode_number": "3",
+        "original_air_date": "1613970000",
+        "auth_launch_date": 1710129600,
+        "clip_order": null,
+        "airing_id": "RADS1006052400074299",
+        "media_id": "92059a81550f746c5ea2a16096709a05280bb834",
+        "modified": 1717619174,
+        "slug": "sheriff-and-roach",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210203/thumbnails/1_212310870-MommaNamedMeSheriff_201_dup-20210202_SheriffAndRoach.jpg",
+        "created": 1612364890,
+        "season_number": "2",
+        "title_id": "2247953",
+        "tv_rating": "tv-ma-sv",
+        "published": 1717619174,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1717992000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210203/thumbnails/2_212310870-MommaNamedMeSheriff_201_dup-20210202_SheriffAndRoach.jpg",
+        "id": "AXdob8BtQJ_4Uej5kTpq",
         "auth": false
     }
 ]
