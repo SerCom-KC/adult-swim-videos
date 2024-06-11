@@ -388,54 +388,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1718078340,
-        "tms_id": "EP012792980012",
-        "description": "After the town's annual Lobsterfest is cancelled by a storm, Bob defiantly opens his doors for a festive celebration. When he wakes the next morning, Bob finds the restaurant in disarray, and the town has spurned him. Meanwhile, the kids secretly try lobster for the first time.",
-        "title_suggest": {
-            "input": [
-                "Lobsterfest"
-            ]
-        },
-        "expiration_date": 1696219140,
-        "title": "Lobsterfest",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1293.4254,
-        "episode_number": "12",
-        "original_air_date": 1375149600,
-        "clip_order": null,
-        "auth_launch_date": 1717473600,
-        "modified": 1717115122,
-        "media_id": "190cdf5a9c6f68479214bd74a4f4f9b21ce68efa",
-        "airing_id": "RADS1005302400072652",
-        "id": "OqDpbb5iRy2a9Kybe4j4Tw",
-        "slug": "lobsterfest",
-        "views": 5015,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15214840324846.jpg",
-        "created": 1403210002,
-        "season_number": "1",
-        "title_id": "2003434",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1717115122,
-        "first_published": 1405912828,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1695614400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214840324846.jpg",
-        "cma_id": "1496271"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1718164740,
         "tms_id": "EP012792980013",
         "description": "Bob's hero, a washed-up professional baseball player named Torpedo Jones, starts pitching for the local minor league team. Torpedo befriends the Belcher's, and Bob is ecstatic until he finds out about the dark underbelly of baseball.",
@@ -529,6 +481,51 @@
         "launch_date": 1659931200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221632620243.jpg",
         "cma_id": "2003442"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1718683140,
+        "tms_id": "EP012792980018",
+        "description": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
+        "title_suggest": {
+            "input": [
+                "Beefsquatch"
+            ]
+        },
+        "title": "Beefsquatch",
+        "type": "episode",
+        "expiration_date": 1661140740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1292.1576,
+        "episode_number": "9",
+        "original_air_date": 1378173600,
+        "clip_order": null,
+        "auth_launch_date": 1718078400,
+        "modified": 1717654457,
+        "media_id": "d834c8e03f201daba9dac1c65ec593aa2ba1baac",
+        "airing_id": "RADS1006052400074306",
+        "id": "lnvX70L6QRqXFM7gA-gnyg",
+        "slug": "beefsquatch",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216331674219.jpg",
+        "created": 1403213495,
+        "season_number": "2",
+        "title_id": "2003444",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1717654457,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1660536000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg",
+        "cma_id": "2003444"
     },
     {
         "auth": true,
