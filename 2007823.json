@@ -254,7 +254,7 @@
         "launch_date": 1715659200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509848751617.jpg",
         "id": "AV-3ELLRwdpKFAKSbWZf",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": 1447789500,
@@ -313,58 +313,6 @@
         "launch_date": 1717473600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509835916018.jpg",
         "id": "AV-3HWt2Z-onAnjDLtAg",
-        "auth": false
-    },
-    {
-        "ott_launch_date": 1447789620,
-        "auth_expiration_date": 1706590740,
-        "tms_id": "SH020420000000",
-        "description": "In Search of Miracle Man asks viewers to join their cult's quest to find a mystical being roaming the world performing really cool miracles.",
-        "title_suggest": {
-            "input": [
-                "In Search of Miracle Man",
-                "Search of Miracle Man",
-                "of Miracle Man",
-                "Miracle Man",
-                "Man"
-            ]
-        },
-        "expiration_date": 1720497540,
-        "type": "episode",
-        "title": "In Search of Miracle Man",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 676.7923269,
-        "episode_number": "7",
-        "original_air_date": 1415696400,
-        "auth_launch_date": 1703566800,
-        "clip_order": null,
-        "media_id": "84572beccda8e5c073d4b0450b660ba2ba2c75d8",
-        "modified": 1717650284,
-        "airing_id": "RADS1006052400074350",
-        "slug": "in-search-of-miracle-man",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150983047962.jpg",
-        "created": 1510605886,
-        "season_number": "4",
-        "title_id": "2007845",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1717650284,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1718078400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150983047962.jpg",
-        "id": "AV-3IJOpwdpKFAKSbWaa",
         "auth": false
     },
     {
@@ -464,6 +412,53 @@
         "launch_date": 1713240000,
         "poster": "https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg",
         "id": "AW8BAtn13HMJfT8do6Zt",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1718078340,
+        "tms_id": "EP027786570034",
+        "description": "Want to become hotter? Sarah Squirm presents a revolutionary new cosmetic procedure that will leave you breathless, and ga-ga-ga-gorgeous!",
+        "title_suggest": {
+            "input": [
+                "Flayaway"
+            ]
+        },
+        "title": "Flayaway",
+        "expiration_date": 1715054340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 666.54,
+        "episode_number": "4",
+        "original_air_date": 1545123600,
+        "auth_launch_date": 1715054400,
+        "clip_order": null,
+        "media_id": "c2232994d8e771ce0fcbdd4af18f3d6cd042930a",
+        "modified": 1714708654,
+        "airing_id": "RADS1005032400068077",
+        "slug": "flayaway",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15447314743491.jpg",
+        "created": 1544124764,
+        "season_number": "8",
+        "title_id": "2187508",
+        "tv_rating": "tv-ma-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1714708654,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1712635200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg",
+        "id": "AWeFAhMFAsbXwNj3wAaC",
         "auth": true
     },
     {

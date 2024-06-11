@@ -380,52 +380,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1718683140,
-        "tms_id": "",
-        "description": "While in search of an identity, Jeff starts hanging out with Stan's favorite celebrity chef. Klaus gets an exciting new outfit.",
-        "title_suggest": {
-            "input": [
-                "Flavortown"
-            ]
-        },
-        "expiration_date": 1717387140,
-        "type": "episode",
-        "title": "Flavortown",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.27,
-        "episode_number": "15",
-        "original_air_date": 1551063600,
-        "auth_launch_date": 1718078400,
-        "clip_order": null,
-        "media_id": "ceb984b8952cb51ed21899f512ff35923dcb7790",
-        "modified": 1717654464,
-        "airing_id": "RADS1006052400074304",
-        "slug": "flavortown",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15508508195033.jpg",
-        "created": 1534796755,
-        "season_number": "13",
-        "title_id": "2069568",
-        "tv_rating": "tv-14-dls",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1717654464,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1716782400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg",
-        "id": "AWVZA_KPh5enQuYyHe9I",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1718510340,
         "tms_id": "EP007164450260",
         "description": "Roger becomes worried about outliving the family. Klaus opens a convenience store in the attic.",
@@ -1028,6 +982,53 @@
         "modified_by": "ODT Listener",
         "launch_date": 1716177600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994072079517.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1718078340,
+        "tms_id": "EP007164450252",
+        "description": "Steve sets out to stop Roger after he joins a mysterious order. Francine buys a new pasta sauce and the family starts changing.",
+        "title_suggest": {
+            "input": [
+                "Shell Game",
+                "Game"
+            ]
+        },
+        "title": "Shell Game",
+        "type": "episode",
+        "expiration_date": 1716177540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.2286,
+        "episode_number": "3",
+        "original_air_date": 1520818200,
+        "clip_order": null,
+        "auth_launch_date": 1717473600,
+        "modified": 1717115122,
+        "media_id": "96c39d68f614e37ebf61ef8fe2a9eb7e7affa554",
+        "airing_id": "RADS1005302400072650",
+        "id": "b6xubpzsSNO_D8tVF4hB2A",
+        "slug": "shell-game",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199407423806.jpg",
+        "created": 1508441152,
+        "season_number": "13",
+        "title_id": "2069556",
+        "tv_rating": "tv-14-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1717115122,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1715572800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg",
         "cma_id": ""
     }
 ]
