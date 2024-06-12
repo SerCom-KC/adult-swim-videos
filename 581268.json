@@ -3154,7 +3154,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1477924260,
         "auth_expiration_date": 1718769540,
         "tms_id": "EP007008180105",
@@ -3271,7 +3271,7 @@
         "cma_id": "1413947"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1471271460,
         "auth_expiration_date": 1718164740,
         "tms_id": "EP007008180103",
@@ -3370,6 +3370,59 @@
         "launch_date": 1693627200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131324101-squidbillies_507_dup-20111018.jpg",
         "cma_id": "1394522"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447443240,
+        "auth_expiration_date": 1693627140,
+        "tms_id": "EP007008180041",
+        "rating": 8.533083,
+        "description": "Rusty opens up a world of digital wonder when he mashes buttons.",
+        "title_suggest": {
+            "input": [
+                "Webnecks"
+            ]
+        },
+        "type": "episode",
+        "title": "Webnecks",
+        "expiration_date": 1744430340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 707.1334668,
+        "episode_number": "1",
+        "original_air_date": 1200891600,
+        "clip_order": null,
+        "auth_launch_date": 1678510800,
+        "modified": 1718143300,
+        "media_id": "91799e778f5b030173774f8d95cb07c2eed01e09",
+        "airing_id": "RADS1006112400075160",
+        "id": "DazsHjdvSA-UmPDKt4nsyQ",
+        "slug": "webnecks",
+        "views": 897762,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131118138-squidbillies_021_bim.jpg",
+        "created": 1402945477,
+        "title_id": "702539",
+        "season_number": "3",
+        "tv_rating": "tv-14-lv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1718143300,
+        "tags": [
+            "squidbillies episode 21 webneck computer pda robots gay marriage rusty bomb y2k shelter"
+        ],
+        "rating_count": 2645,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718164800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131118138-squidbillies_021_bim.jpg",
+        "cma_id": "1397612"
     },
     {
         "auth": false,
