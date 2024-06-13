@@ -54,6 +54,61 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1450888080,
+        "auth_expiration_date": 1675832340,
+        "tms_id": "EP001022180073",
+        "rating": 5.797546,
+        "description": "The creators of Space Ghost Coast to Coast did not have enough time to finish the show.  So, here, watch this rough cut.",
+        "title_suggest": {
+            "input": [
+                "Live at the Filmore",
+                "at the Filmore",
+                "the Filmore",
+                "Filmore"
+            ]
+        },
+        "type": "episode",
+        "title": "Live at the Filmore",
+        "expiration_date": 1739941140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 641.6006006,
+        "episode_number": "2",
+        "original_air_date": null,
+        "clip_order": null,
+        "auth_launch_date": 1667970000,
+        "modified": 1718215058,
+        "airing_id": "RADS1006122400075174",
+        "media_id": "9aeefbc951ed10ef45ba81a8de2d48c6007ae9f5",
+        "id": "0CgjXBxgRkGPriCubw7YJQ",
+        "slug": "live-at-the-filmore",
+        "views": 16258,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420121391-sgc2c_2402_dst_cid-9281918.jpg",
+        "created": 1402945476,
+        "title_id": "542886",
+        "season_number": "9",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1718215058,
+        "tags": [
+            "space ghost c2c sg episode 89 live at the filmore"
+        ],
+        "rating_count": 163,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718251200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420121391-sgc2c_2402_dst_cid-9281918.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1449258300,
         "auth_expiration_date": 1684900799,
         "tms_id": "EP001022180015",
@@ -747,6 +802,50 @@
         "launch_date": 1716436800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417953154-sgc2c_9508_dst_cid-9074383.jpg",
         "id": "AYl0LZtU2rZC6NyF61-G",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "EP001022180012",
+        "description": "Space Ghost turns to experts for advice on supernatural phenomena such as the disappearance of his phantom cruiser keys. Michael Norman, ghost expert and author of Historic Haunted America, and Bill Nye are all too happy to help him out.",
+        "title_suggest": {
+            "input": [
+                "Boo!"
+            ]
+        },
+        "title": "Boo!",
+        "expiration_date": 1747799940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 648.6814,
+        "episode_number": "6",
+        "original_air_date": "909808200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1006122400075175",
+        "media_id": "894344cfdec5faaa403a3b6de8d3a6e9a375a690",
+        "modified": 1718214139,
+        "slug": "boo",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_2041795727-sgc2c_9606_dst_cid-9105379.jpg",
+        "created": 1689871375,
+        "season_number": "3",
+        "title_id": "322643",
+        "tv_rating": "tv-pg",
+        "published": 1718214139,
+        "tags": [],
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718251200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041795727-sgc2c_9606_dst_cid-9105379.jpg",
+        "id": "AYl0LttSOz5CkuTcnwR2",
         "auth": false
     },
     {
