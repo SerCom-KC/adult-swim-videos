@@ -1,57 +1,44 @@
 {
-    "updated": 1718260222,
-    "added": [
+    "updated": 1718296213,
+    "added": [],
+    "removed": [
         {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1718683140,
-            "tms_id": "EP022022090001",
-            "description": "Naota's older brother went to the U.S. to play baseball, and his brother's girlfriend is making advances on him. There's a so-called alien girl hitting on him, too. With a guitar. Did we mention the robots keep springing from Naota's head?",
+            "auth_expiration_date": 1719129540,
+            "created": 1716908446,
+            "tms_id": "EP047749850008",
+            "title_id": "2436456",
+            "season_number": "1",
+            "tv_rating": "tv-ma-v",
+            "description": "Robbed of his freedom by Kosugi, Akira's mind stops functioning, similar to his time working at the exploitative corporation. Seeing this, Shizuka is reminded of her own past under her father's oppression.",
             "title_suggest": {
                 "input": [
-                    "Fooly Cooly",
-                    "Cooly"
+                    "Truck Stop of the Dead",
+                    "Stop of the Dead",
+                    "of the Dead",
+                    "the Dead",
+                    "Dead"
                 ]
             },
-            "expiration_date": 1692676740,
+            "published": 1716924296,
+            "title": "Truck Stop of the Dead",
             "type": "episode",
-            "title": "Fooly Cooly",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWH9BNOjNWyh42wYnlM8",
-            "duration": 1460.53,
-            "episode_number": "1",
-            "original_air_date": 1060056000,
-            "auth_launch_date": 1693281600,
-            "clip_order": null,
-            "media_id": "8696f9b44590c5f14ab7495f7f3433d3420474d0",
-            "modified": 1718259759,
-            "airing_id": "RADS1008282300018061",
-            "slug": "fooly-cooly",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152356985895016.jpg",
-            "created": 1523569885,
-            "season_number": "1",
-            "title_id": "446613",
-            "tv_rating": "tv-14-d",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1718259759,
             "tags": [],
-            "collection_title": "FLCL",
-            "disable_ads": false,
+            "collection_id": "AY6BSlzX5I1d0UhX5iFL",
+            "duration": 0,
+            "episode_number": "",
+            "collection_title": "Zom 100: Bucket List of the Dead",
+            "original_air_date": 1717302600,
+            "auth_launch_date": 1717315200,
             "modified_by": "ODT Listener",
-            "launch_date": 1542690000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152356985895016.jpg",
-            "id": "AWK713__HAeP4-pUPeak",
+            "airing_id": "RADS1005282400071962",
+            "media_id": "90f42274a3f17a8ad2d9b46c4aa532b8f489b9a8",
+            "modified": 1716924296,
+            "slug": "truck-stop-of-the-dead",
+            "id": "AY-_t9UBC2cKYm1ap_4e",
             "auth": true,
-            "collection_slug": "flcl",
-            "collection_title_id": "2218883",
+            "collection_slug": "zom-100-bucket-list-of-the-dead",
+            "collection_title_id": "2436449",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }

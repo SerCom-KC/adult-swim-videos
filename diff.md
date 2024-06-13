@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 13, 2024 at 02:30:23 EDT_
+_Last Update: June 13, 2024 at 12:30:13 EDT_
 ## Video added
-### Summary
-2218883 FLCL: 1  
-### 446613
-**FLCL S01E01 - Fooly Cooly**  
-TV-14-D 🔒 24:20  
-⌛ June 17, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/flcl/fooly-cooly  
-seriesid=`2218883` titleid=`446613` id=`AWK713__HAeP4-pUPeak` mediaid=`8696f9b44590c5f14ab7495f7f3433d3420474d0`  
-_Naota's older brother went to the U.S. to play baseball, and his brother's girlfriend is making advances on him. There's a so-called alien girl hitting on him, too. With a guitar. Did we mention the robots keep springing from Naota's head?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152356985895016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152356985895016.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2436449 Zom 100: Bucket List of the Dead: 1  
+### 2436456
+**Zom 100: Bucket List of the Dead S01E?? - Truck Stop of the Dead**  
+TV-MA-V 🔒 00:00  
+⌛ June 23, 2024 at 03:59:00 EDT  
+https://www.adultswim.com/videos/zom-100-bucket-list-of-the-dead/truck-stop-of-the-dead  
+seriesid=`2436449` titleid=`2436456` id=`AY-_t9UBC2cKYm1ap_4e` mediaid=`90f42274a3f17a8ad2d9b46c4aa532b8f489b9a8`  
+_Robbed of his freedom by Kosugi, Akira's mind stops functioning, similar to his time working at the exploitative corporation. Seeing this, Shizuka is reminded of her own past under her father's oppression._  
