@@ -2,94 +2,44 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 14, 2024 at 00:00:29 EDT_
+_Last Update: June 14, 2024 at 00:30:43 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-### 2069574
-**American Dad S13E21 - Fleabiscuit**  
-TV-14-DLSV 🔒 21:03  
+629835 King of the Hill: 1  
+547867 Tom Goes To The Mayor: 1  
+### 728431
+**King of the Hill S02E17 - The Final Shinsult**  
+TV-PG-DL 🔒 23:21  
 ⌛ June 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fleabiscuit  
-seriesid=`581006` titleid=`2069574` id=`AWW1ThNNh5enQuYyIFlW` mediaid=`c5d34624f38a11eeefa5b0cf1657725cca48fe85`  
-_Hayley feels left behind after Jeff becomes a star dog racing coach. Steve takes advantage of an empty house._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg" height="144px" /></a>
-### 2069573
-**American Dad S13E20 - Funnyish Games**  
-TV-14-DLV 🔒 21:03  
-⌛ June 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/funnyish-games  
-seriesid=`581006` titleid=`2069573` id=`AWW0uqDNh5enQuYyIFVG` mediaid=`c81520ce79be1171f04e86b25d87dc708fe1e67c`  
-_Francine becomes obsessed with home security after a break in. Steve tries Hayley's laidback approach to school work._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg" height="144px" /></a>
-### 2003514
-**Bob's Burgers S03E03 - Bob Fires the Kids**  
-TV-14 🔒 21:30  
-⌛ June 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/bob-fires-the-kids  
-seriesid=`2003422` titleid=`2003514` id=`m6oToyJWT4iP8igvJtBeOA` mediaid=`362e1875ab9ec1ea7102197574f0e6578c7977fc`  
-_Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers, who hire the Belcher kids as "weed pickers." Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216340091915.jpg" height="144px" /></a>
-### 2003515
-**Bob's Burgers S03E04 - Mutiny on the Windbreaker**  
-TV-PG 🔒 21:30  
-⌛ June 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/mutiny-on-the-windbreaker  
-seriesid=`2003422` titleid=`2003515` id=`xtqPT4FZRSurHPCTuRq7sg` mediaid=`fefdb409b44127d638c4a036074b87355d9e2de4`  
-_When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216336132120.jpg" height="144px" /></a>
-### 437546
-**Futurama S02E05 - I Second That Emotion**  
-TV-PG-L 🔒 23:21  
-⌛ June 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/i-second-that-emotion  
-seriesid=`437532` titleid=`437546` id=`AX5F-2CI208s7zyYUL9k` mediaid=`82548204e568a654dea1404f0c6d4cbe910d5ee5`  
-_Professor Farnsworth installs an empathy chip in Bender._  
-<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/the-final-shinsult  
+seriesid=`629835` titleid=`728431` id=`eMF0PhpqQ5GlO7FpJw9j4g` mediaid=`762a20760f831ba312047df305ad42e319916b29`  
+_Cotton and Dale steal a famous prosthesis from a museum shortly before it is scheduled to be returned to the Mexican government._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_55041.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_55041.jpg" height="144px" /></a>
+### 614454
+**Tom Goes To The Mayor S01E10 - Calcucorn**  
+TV-PG-LV 🔓 11:44  
+⌛ August 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/calcucorn  
+seriesid=`547867` titleid=`614454` id=`ZYbGOLW1R2G3kxieouRcKA` mediaid=`c6bc3136fc31cf5dcd0808569cf125519e529e63`  
+_Joy's ex-husband Todd pairs up with Tom to create a reality show called Mister Entrepreneur.  Special guest: David Cross._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117837116-tgttm_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117837116-tgttm_010.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-581006 American Dad: 2  
-### 2003437
-**Bob's Burgers S02E02 - Bob Day Afternoon**  
-TV-14 🔒 21:29  
+547867 Tom Goes To The Mayor: 1  
+629835 King of the Hill: 1  
+### 639412
+**Tom Goes To The Mayor S02E16 - Puddins**  
+TV-14-V 🔓 11:29  
 ⌛ June 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/bob-day-afternoon  
-seriesid=`2003422` titleid=`2003437` id=`ICnCBkoDSiuMym6JboTa5Q` mediaid=`3ae7a97e67840c6e49f14b6748964f1ec91c77b7`  
-_A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214841198095.jpg" height="144px" /></a>
-### 2003438
-**Bob's Burgers S02E03 - Synchronized Swimming**  
-TV-PG 🔒 21:11  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/puddins  
+seriesid=`547867` titleid=`639412` id=`vS_eh_iFSnGPtZqWXQU6AA` mediaid=`6a45f932e82c3566c20519993ffe56803c07849d`  
+_Tom attempts a Puddins fast after his son dies from a pudding overdose._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958215-tgttm_029.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958215-tgttm_029.jpg" height="144px" /></a>
+### 728425
+**King of the Hill S02E11 - Meet the Manger Babies**  
+TV-PG-L 🔒 23:17  
 ⌛ June 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/synchronized-swimming  
-seriesid=`2003422` titleid=`2003438` id=`xE1hMOE6RlmxEfBUPcg2Uw` mediaid=`5edd083a7651f8439bee704d19cd702f4269fd3f`  
-_The kids con their way out of gym class with a bogus synchronized swimming independent study. Meanwhile, Bob welcomes a new soft serve ice cream machine to the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148415474414.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148415474414.jpg" height="144px" /></a>
-### 437541
-**Futurama S01E09 - Hell Is Other Robots**  
-TV-PG 🔒 23:20  
-⌛ June 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/hell-is-other-robots  
-seriesid=`437532` titleid=`437541` id=`AX4coKHyK_pfPABJsbxh` mediaid=`9e954c75be31c716082daaa887764d73300a1fe2`  
-_Bender is condemned to robot hell._  
-<a href="https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171649221-Futurama_009_HellIsOtherRobots.png"><img src="https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171649221-Futurama_009_HellIsOtherRobots.png" height="144px" /></a>
-### 2069561
-**American Dad S13E08 - Santa, Schmanta**  
-TV-14-DLV 🔒 21:03  
-⌛ June 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/santa-schmanta  
-seriesid=`581006` titleid=`2069561` id=`AWBGBvYswdpKFAKSb0FM` mediaid=`4ab29c31a6c093f94ab45f4793be6ce2985072d8`  
-_Roger turns his attention to Steve's friend Snot who teaches him about Hanukkah, prompting him to convert to Judaism. Roger then decides to make Hanukkah more popular than Christmas by stealing Santa's powers, and becoming Schmanta Claus._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg" height="144px" /></a>
-### 2069562
-**American Dad S13E09 - The Never-Ending Stories**  
-TV-14-DLSV 🔒 21:01  
-⌛ June 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-never-ending-stories  
-seriesid=`581006` titleid=`2069562` id=`AWHnqXR3NWyh42wYnlIV` mediaid=`ee8ef6617f600da1cc9e9b5d8636851208092da5`  
-_Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200100941721.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200100941721.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/meet-the-manger-babies  
+seriesid=`629835` titleid=`728425` id=`wogHxRaYR72pDSchwXSV2A` mediaid=`9ad7c5c060a1bf9983639e37ef34cfb35726b3ba`  
+_A conflict develops when Luanne asks Hank to portray God in her puppet show--on Super Bowl Sunday._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2540626134980349527.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2540626134980349527.jpg" height="144px" /></a>
