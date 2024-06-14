@@ -47,53 +47,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1718337540,
-        "tms_id": "EP003034830008",
-        "description": "Bender is condemned to robot hell.",
-        "title_suggest": {
-            "input": [
-                "Hell Is Other Robots",
-                "Is Other Robots",
-                "Other Robots",
-                "Robots"
-            ]
-        },
-        "title": "Hell Is Other Robots",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1400.9996,
-        "episode_number": "9",
-        "original_air_date": 1043294400,
-        "auth_launch_date": 1717732800,
-        "clip_order": null,
-        "airing_id": "RADS1006022400073477",
-        "media_id": "9e954c75be31c716082daaa887764d73300a1fe2",
-        "modified": 1717357948,
-        "slug": "hell-is-other-robots",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171649221-Futurama_009_HellIsOtherRobots.png",
-        "created": 1641157796,
-        "title_id": "437541",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "published": 1717357948,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171649221-Futurama_009_HellIsOtherRobots.png",
-        "id": "AX4coKHyK_pfPABJsbxh",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1718510340,
         "tms_id": "EP003034830011",
         "description": "Fry goes to college to prove the adage: Once a dropout; always a dropout.",
@@ -230,6 +183,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131648518-Futurama_012_WhenAliensAttack.png",
         "id": "AX5A9nBN208s7zyYUL9i",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1718942340,
+        "tms_id": "EP003034830014",
+        "description": "Professor Farnsworth installs an empathy chip in Bender.",
+        "title_suggest": {
+            "input": [
+                "I Second That Emotion",
+                "Second That Emotion",
+                "That Emotion",
+                "Emotion"
+            ]
+        },
+        "title": "I Second That Emotion",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.7003,
+        "episode_number": "5",
+        "original_air_date": 1043899200,
+        "auth_launch_date": 1718337600,
+        "clip_order": null,
+        "airing_id": "RADS1006092400074832",
+        "media_id": "82548204e568a654dea1404f0c6d4cbe910d5ee5",
+        "modified": 1717951609,
+        "slug": "i-second-that-emotion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/1_22114171486-Futurama_014_ISecondThatEmotion.png",
+        "created": 1641851609,
+        "title_id": "437546",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "published": 1717951609,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png",
+        "id": "AX5F-2CI208s7zyYUL9k",
         "auth": true
     }
 ]
