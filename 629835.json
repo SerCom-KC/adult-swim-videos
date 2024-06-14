@@ -49,60 +49,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1718942340,
-        "tms_id": "EP002070020032",
-        "rating": 6.261235,
-        "description": "Cotton and Dale steal a famous prosthesis from a museum shortly before it is scheduled to be returned to the Mexican government.",
-        "title_suggest": {
-            "input": [
-                "The Final Shinsult",
-                "Final Shinsult",
-                "Shinsult"
-            ]
-        },
-        "type": "episode",
-        "title": "The Final Shinsult",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1401.9673,
-        "episode_number": "17",
-        "original_air_date": 1231902000,
-        "clip_order": null,
-        "auth_launch_date": 1718337600,
-        "modified": 1717952223,
-        "airing_id": "RADS1006092400074830",
-        "media_id": "762a20760f831ba312047df305ad42e319916b29",
-        "id": "eMF0PhpqQ5GlO7FpJw9j4g",
-        "slug": "the-final-shinsult",
-        "views": 484769,
-        "created": 1402945468,
-        "title_id": "728431",
-        "season_number": "2",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1717952223,
-        "tags": [
-            "Final Shinsult",
-            "Cotton",
-            "Dale",
-            "steal",
-            "prosthesis",
-            "museum",
-            "Mexican government"
-        ],
-        "rating_count": 356,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1249617600,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_55041.jpg",
-        "cma_id": "985250"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1718855940,
         "tms_id": "EP002070020031",
         "rating": 8.215185,
@@ -250,5 +196,52 @@
         "launch_date": 1311912000,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_4784014749905003600.jpg",
         "cma_id": "984781"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1718337540,
+        "tms_id": "EP002070020026",
+        "rating": 7.154265,
+        "description": "A conflict develops when Luanne asks Hank to portray God in her puppet show--on Super Bowl Sunday.",
+        "title_suggest": {
+            "input": [
+                "Meet the Manger Babies ",
+                "the Manger Babies",
+                "Manger Babies",
+                "Babies"
+            ]
+        },
+        "type": "episode",
+        "title": "Meet the Manger Babies ",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.2292,
+        "episode_number": "11",
+        "original_air_date": 1231644600,
+        "clip_order": null,
+        "auth_launch_date": 1717732800,
+        "modified": 1717359153,
+        "airing_id": "RADS1006022400073479",
+        "media_id": "9ad7c5c060a1bf9983639e37ef34cfb35726b3ba",
+        "id": "wogHxRaYR72pDSchwXSV2A",
+        "slug": "meet-the-manger-babies",
+        "views": 288897,
+        "created": 1402945468,
+        "title_id": "728425",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "published": 1717359153,
+        "tags": [],
+        "rating_count": 551,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1311825600,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2540626134980349527.jpg",
+        "cma_id": "984251"
     }
 ]
