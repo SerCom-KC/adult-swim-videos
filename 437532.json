@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1718423940,
-        "tms_id": "EP003034830010",
-        "description": "Romance and danger follow Bender and Fry on the space cruise ship, Titanic.",
-        "title_suggest": {
-            "input": [
-                "A Flight to Remember",
-                "Flight to Remember",
-                "to Remember",
-                "Remember"
-            ]
-        },
-        "title": "A Flight to Remember",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.4,
-        "episode_number": "1",
-        "original_air_date": 1043380800,
-        "auth_launch_date": 1717819200,
-        "clip_order": null,
-        "airing_id": "RADS1006022400073533",
-        "media_id": "88e932489a267ffc4bcf0e199aa2fad31e7b69c8",
-        "modified": 1717394429,
-        "slug": "a-flight-to-remember",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171650450-Futurama_010_AFlightToRemember.png",
-        "created": 1641157789,
-        "title_id": "437542",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "published": 1717394429,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171650450-Futurama_010_AFlightToRemember.png",
-        "id": "AX4coIfJdpBG7hfWGhgU",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1718510340,
         "tms_id": "EP003034830011",
         "description": "Fry goes to college to prove the adage: Once a dropout; always a dropout.",
@@ -230,6 +183,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png",
         "id": "AX5F-2CI208s7zyYUL9k",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1719028740,
+        "tms_id": "EP003034830015",
+        "description": "Court-martialed Zap Brannigan gets a job at Planet Express.",
+        "title_suggest": {
+            "input": [
+                "Brannigan, Begin Again",
+                "Begin Again",
+                "Again"
+            ]
+        },
+        "title": "Brannigan, Begin Again",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.4,
+        "episode_number": "6",
+        "original_air_date": 1043985600,
+        "auth_launch_date": 1718424000,
+        "clip_order": null,
+        "airing_id": "RADS1006102400075062",
+        "media_id": "6099bb03f73f2d2f6d34baad146345663f282d85",
+        "modified": 1718067925,
+        "slug": "brannigan-begin-again",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/1_22120176291-Futurama_015_BranniganBeginAgain.png",
+        "created": 1642191166,
+        "title_id": "437547",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "published": 1718067925,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120176291-Futurama_015_BranniganBeginAgain.png",
+        "id": "AX5aOJsU208s7zyYUL9q",
         "auth": true
     }
 ]
