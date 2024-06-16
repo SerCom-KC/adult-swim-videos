@@ -281,6 +281,59 @@
         "cma_id": "1046205"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
+        "tms_id": "EP012647370014",
+        "description": "Vegeta can't handle the fury of Goku's triple Kaio-Ken technique, so the Saiyan warlord unleashes his inner ape. Weakened by his furious onslaught, Goku's only hope to defeat the beast is the mighty Spirit Bomb!",
+        "title_suggest": {
+            "input": [
+                "An All-Out Kamehame-Ha! Vegeta's Terrible Transformation!",
+                "All-Out Kamehame-Ha! Vegeta's Terrible Transformation!",
+                "Kamehame-Ha! Vegeta's Terrible Transformation!",
+                "Vegeta's Terrible Transformation!",
+                "Terrible Transformation!",
+                "Transformation!"
+            ]
+        },
+        "title": "An All-Out Kamehame-Ha! Vegeta's Terrible Transformation!",
+        "type": "episode",
+        "expiration_date": 1721541540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1261.2266,
+        "episode_number": "14",
+        "original_air_date": 1425790800,
+        "clip_order": null,
+        "auth_launch_date": 1556596800,
+        "modified": 1718089656,
+        "airing_id": "RADS1006112400075152",
+        "media_id": "bdb4193dfcea4e7f6e09024b83da8e564bb2b70b",
+        "id": "SwBpoD5_SYe2OreP3_bZow",
+        "slug": "an-all-out-kamehame-ha-vegetas-terrible-transformation",
+        "views": 1030,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568403563449.jpg",
+        "created": 1425658822,
+        "title_id": "2031625",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1718089656,
+        "first_published": 1425658822,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1718517600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403563449.jpg",
+        "cma_id": "1061012"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1723240740,
@@ -508,7 +561,7 @@
         "cma_id": "1059245"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1725658140,
         "tms_id": "EP012647370009",
