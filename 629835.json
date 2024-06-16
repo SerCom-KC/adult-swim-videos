@@ -51,54 +51,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1718510340,
-        "tms_id": "EP002070020029",
-        "rating": 8.208337,
-        "description": "Hank, Kahn and Dale find themselves trapped South of the Border.\r\n",
-        "title_suggest": {
-            "input": [
-                "Three Days of the Kahndo ",
-                "Days of the Kahndo",
-                "of the Kahndo",
-                "the Kahndo",
-                "Kahndo"
-            ]
-        },
-        "type": "episode",
-        "title": "Three Days of the Kahndo ",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1402.0339,
-        "episode_number": "14",
-        "original_air_date": 1231815600,
-        "clip_order": null,
-        "auth_launch_date": 1717905600,
-        "modified": 1717480945,
-        "airing_id": "RADS1006032400073621",
-        "media_id": "333dfeab716b2e6b7f80a63b8d9532b369bbc11d",
-        "id": "Tsopt-XpRbuIWauAxT4BdA",
-        "slug": "three-days-of-the-kahndo",
-        "views": 163379,
-        "created": 1402945468,
-        "title_id": "728428",
-        "season_number": "2",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1717480945,
-        "tags": [],
-        "rating_count": 264,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1280462400,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_10378.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1718942340,
         "tms_id": "EP002070020032",
         "rating": 6.261235,
@@ -210,6 +162,56 @@
         "modified_by": "ODT Listener",
         "launch_date": 1264741200,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_38899.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1719115140,
+        "tms_id": "EP002070020035",
+        "rating": 6.965518,
+        "description": "Hank inadvertently hires a drug addict to work at Strickland Propane.",
+        "title_suggest": {
+            "input": [
+                "Junkie Business",
+                "Business"
+            ]
+        },
+        "type": "episode",
+        "title": "Junkie Business",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1402.2343,
+        "episode_number": "19",
+        "original_air_date": 1231988400,
+        "clip_order": null,
+        "auth_launch_date": 1718510400,
+        "modified": 1718086653,
+        "airing_id": "RADS1006112400075125",
+        "media_id": "f30dcfb4b5400717ea581e868ac657e9d832d308",
+        "id": "pSximX5YSAORrOWm3IGW2A",
+        "slug": "junkie-business",
+        "views": 93191,
+        "created": 1402945468,
+        "title_id": "728433",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "published": 1718086653,
+        "tags": [
+            "Junkie Business",
+            "Hank",
+            "drug addict",
+            "Strickland Propane"
+        ],
+        "rating_count": 203,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1249617600,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_55057.jpg",
         "cma_id": ""
     },
     {
