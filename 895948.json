@@ -108,54 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1718510340,
-        "tms_id": "EP015632430069",
-        "description": "Eric welcomes Chet Hanks, Natasha Lyonne, and Diplo. A realtor gets caught cheating on his wife but makes the sale nonetheless.",
-        "title_suggest": {
-            "input": [
-                "Don't You Say a Word",
-                "You Say a Word",
-                "Say a Word",
-                "a Word",
-                "Word"
-            ]
-        },
-        "title": "Don't You Say a Word",
-        "type": "episode",
-        "expiration_date": 1715486340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 667.4668,
-        "episode_number": "6",
-        "original_air_date": 1687148100,
-        "auth_launch_date": 1715486400,
-        "clip_order": null,
-        "airing_id": "RADS1005062400068981",
-        "media_id": "a1d296b0735df1e7b726b749658ec23deef916ba",
-        "modified": 1715779368,
-        "slug": "dont-you-say-a-word",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/1_236161254209-TheEricAndreShow610Still001tiny.png",
-        "created": 1686580675,
-        "title_id": "2418686",
-        "season_number": "6",
-        "tv_rating": "tv-ma-l",
-        "published": 1715779368,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1712462400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254209-TheEricAndreShow610Still001tiny.png",
-        "id": "AYiwCsPX2rZC6NyF619w",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1719115140,
         "tms_id": "EP015632430070",
         "description": "Eric welcomes Raven Symone and Benny Blanco. H09909 gets H09909fied. The Kar Kwash introduces a new car cleaning technique.",
@@ -337,7 +289,7 @@
         "auth": true
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1721534340,
         "tms_id": "EP015632430022",
@@ -684,6 +636,58 @@
         "launch_date": 1716091200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341615265-ericandre_022_dup-20141105.jpg",
         "cma_id": "1328830"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1675054740,
+        "tms_id": "EP015632430027",
+        "description": "Interviews with Wiz Khalifa and Aubrey Peeples.",
+        "title_suggest": {
+            "input": [
+                "Wiz Khalifa; Aubrey Peeples",
+                "Khalifa; Aubrey Peeples",
+                "Aubrey Peeples",
+                "Peeples"
+            ]
+        },
+        "title": "Wiz Khalifa; Aubrey Peeples",
+        "type": "episode",
+        "expiration_date": 1721534340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 634.9009009,
+        "episode_number": "6",
+        "original_air_date": 1418361300,
+        "clip_order": null,
+        "auth_launch_date": 1672030800,
+        "modified": 1718083643,
+        "media_id": "c8a3a816016c3725a5884263fdd7002124bfdcf9",
+        "airing_id": "RADS1006112400075142",
+        "id": "dsCoPMKdTGiPpfuQT3_brA",
+        "slug": "wiz-khalifa-aubrey-peeples",
+        "views": 154660,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341616490-ericandre_026_dup-20141203.jpg",
+        "created": 1418206827,
+        "title_id": "2032601",
+        "tv_rating": "tv-ma",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1718083643,
+        "first_published": 1418206827,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718510400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341616490-ericandre_026_dup-20141203.jpg",
+        "cma_id": "1344979"
     },
     {
         "auth": false,

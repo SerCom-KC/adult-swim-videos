@@ -90,7 +90,7 @@
         "launch_date": 1715486400,
         "poster": "https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732516-GSMP_204_dup-20201030.jpg",
         "id": "AXW5HlihLyLQBOXK_Pgv",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1714276740,
@@ -372,6 +372,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1716091140,
+        "tms_id": "EP036530620009",
+        "description": "Religions begin colliding and merging in the ground zero that is the ruins of Suicide Town. How does Makasu deal with jealousy when someone Perfect comes to save them?",
+        "title_suggest": {
+            "input": [
+                "Episode Nine: Fdim",
+                "Nine: Fdim",
+                "Fdim"
+            ]
+        },
+        "title": "Episode Nine: Fdim",
+        "type": "episode",
+        "expiration_date": 1721534340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWnYBNDcHl5gR6828zAp",
+        "duration": 675.6083,
+        "episode_number": "9",
+        "original_air_date": 1607842800,
+        "auth_launch_date": 1713067200,
+        "clip_order": null,
+        "airing_id": "RADS1006112400075146",
+        "media_id": "a49204d567ca6d05907afdf06258e00f4f6fffee",
+        "modified": 1718080946,
+        "slug": "episode-nine-fdim",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201210/thumbnails/1_2012101122172-GSMP_209_dup-20201202.jpg",
+        "created": 1607535644,
+        "title_id": "2241834",
+        "season_number": "2",
+        "tv_rating": "tv-ma-l",
+        "published": 1718080946,
+        "tags": [],
+        "collection_title": "Gemusetto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718510400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201210/thumbnails/2_2012101122172-GSMP_209_dup-20201202.jpg",
+        "id": "AXZIl086QJ_4Uej5kTd3",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1716695940,
         "tms_id": "EP036530620010",
         "description": "Locked in their own illusory nightmares, our heroes must find a way out of The Perfect Human's torment. But how do you taunt a man who already hates himself half the time?",
@@ -508,56 +554,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/2_201215836487-GSMP_212_dup-20201209.jpg",
         "id": "AXZmni7MbxpjZvbXYloc",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1718510340,
-        "tms_id": "EP036530620013",
-        "description": "Finally at The Center Of All Death, a mysterious group of hooded figures send the Roman god Viduus to stop our heroes' progression. Why do they not want to reset the universe and what plans do they have for existence?",
-        "title_suggest": {
-            "input": [
-                "Episode Thirteen: play to D.C. al Coda",
-                "Thirteen: play to D.C. al Coda",
-                "play to D.C. al Coda",
-                "to D.C. al Coda",
-                "D.C. al Coda",
-                "al Coda",
-                "Coda"
-            ]
-        },
-        "title": "Episode Thirteen: play to D.C. al Coda",
-        "expiration_date": 1715486340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AWnYBNDcHl5gR6828zAp",
-        "duration": 660.8602,
-        "episode_number": "13",
-        "original_air_date": "1608532200",
-        "auth_launch_date": 1715486400,
-        "clip_order": null,
-        "airing_id": "RADS1005062400068984",
-        "media_id": "5997178f39c4c5d4a9d283929585b08fc0118d2c",
-        "modified": 1715779368,
-        "slug": "episode-thirteen-play-to-d-c-al-coda",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/1_2012171757360-GSMP_213_dup-20201215.jpg",
-        "created": 1608245859,
-        "season_number": "2",
-        "title_id": "2241838",
-        "tv_rating": "tv-ma-l",
-        "published": 1715779368,
-        "tags": [],
-        "collection_title": "Gemusetto",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1712462400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757360-GSMP_213_dup-20201215.jpg",
-        "id": "AXZy7FM2bxpjZvbXYlqQ",
-        "auth": true
     },
     {
         "auth_expiration_date": 1719115140,
