@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 16, 2024 at 02:00:28 EDT_
+_Last Update: June 16, 2024 at 02:30:27 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031625
-**Dragon Ball Z Kai S01E14 - An All-Out Kamehame-Ha! Vegeta's Terrible Transformation!**  
-TV-PG-LV 🔓 21:01  
-⌛ July 21, 2024 at 01:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/an-all-out-kamehame-ha-vegetas-terrible-transformation  
-seriesid=`2031611` titleid=`2031625` id=`SwBpoD5_SYe2OreP3_bZow` mediaid=`bdb4193dfcea4e7f6e09024b83da8e564bb2b70b`  
-_Vegeta can't handle the fury of Goku's triple Kaio-Ken technique, so the Saiyan warlord unleashes his inner ape. Weakened by his furious onslaught, Goku's only hope to defeat the beast is the mighty Spirit Bomb!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403563449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403563449.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
+### 2031617
+**Dragon Ball Z Kai S01E06 - The End of Snake Way! King Kai's Bizarre Test!**  
+TV-PG-LV 🔒 21:00  
+⌛ June 16, 2024 at 02:29:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/the-end-of-snake-way-king-kais-bizarre-test  
+seriesid=`2031611` titleid=`2031617` id=`KAknEBzaRVGdWgFWTAzIVg` mediaid=`d1c7f49c2ed5b0c955dfb93e82b25c28fe6107f0`  
+_As the deadly Saiyan invaders approach Earth, Gohan makes slow, but steady, progress under the watchful eye of Piccolo, and Goku struggles with the "gravity" of his training under King Kai._  
+<a href="https://media.cdn.adultswim.com/uploads/20240514/thumbnails/2_245141141502-Screenshot2024-05-14at11.41.15AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240514/thumbnails/2_245141141502-Screenshot2024-05-14at11.41.15AM.png" height="144px" /></a>
