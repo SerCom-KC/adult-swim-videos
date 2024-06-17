@@ -1,54 +1,7 @@
 {
-    "updated": 1718623828,
-    "added": [
-        {
-            "auth_expiration_date": 1718942340,
-            "tms_id": "EP034814950002",
-            "description": "After beloved frog celebrity Mr. Frog gets into hot frog water, Pim and Charlie are tasked with helping the frog get things back on frog track. Meanwhile, Glep has a crazy side adventure that has the critics going wild.",
-            "title_suggest": {
-                "input": [
-                    "Mr. Frog",
-                    "Frog"
-                ]
-            },
-            "title": "Mr. Frog",
-            "expiration_date": 1717127940,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-            "duration": 666.0654,
-            "episode_number": "2",
-            "original_air_date": "1641790800",
-            "auth_launch_date": 1717128000,
-            "clip_order": null,
-            "airing_id": "RADS1005262400071808",
-            "media_id": "b50161af369d7cf2810188249a3fbe0e4103f59a",
-            "modified": 1718384708,
-            "slug": "mr-frog",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161628168-SmilingFriends_102_MrFrog.png",
-            "created": 1641504508,
-            "season_number": "1",
-            "title_id": "2322677",
-            "tv_rating": "tv-14-lsv",
-            "published": 1718384708,
-            "tags": [],
-            "collection_title": "Smiling Friends",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1714104000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161628168-SmilingFriends_102_MrFrog.png",
-            "id": "AX4xSwxM_0O4w1rD3RQh",
-            "auth": true,
-            "collection_slug": "smiling-friends",
-            "collection_title_id": "2224721",
-            "online_exclusives": false
-        },
+    "updated": 1718623884,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": 1718942399,
             "tms_id": "EP034814950003",
@@ -96,7 +49,54 @@
             "collection_slug": "smiling-friends",
             "collection_title_id": "2224721",
             "online_exclusives": false
+        },
+        {
+            "auth_expiration_date": 1718942340,
+            "tms_id": "EP034814950002",
+            "description": "After beloved frog celebrity Mr. Frog gets into hot frog water, Pim and Charlie are tasked with helping the frog get things back on frog track. Meanwhile, Glep has a crazy side adventure that has the critics going wild.",
+            "title_suggest": {
+                "input": [
+                    "Mr. Frog",
+                    "Frog"
+                ]
+            },
+            "title": "Mr. Frog",
+            "expiration_date": 1717127940,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+            "duration": 666.0654,
+            "episode_number": "2",
+            "original_air_date": "1641790800",
+            "auth_launch_date": 1717128000,
+            "clip_order": null,
+            "airing_id": "RADS1005262400071808",
+            "media_id": "b50161af369d7cf2810188249a3fbe0e4103f59a",
+            "modified": 1718384708,
+            "slug": "mr-frog",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161628168-SmilingFriends_102_MrFrog.png",
+            "created": 1641504508,
+            "season_number": "1",
+            "title_id": "2322677",
+            "tv_rating": "tv-14-lsv",
+            "published": 1718384708,
+            "tags": [],
+            "collection_title": "Smiling Friends",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1714104000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161628168-SmilingFriends_102_MrFrog.png",
+            "id": "AX4xSwxM_0O4w1rD3RQh",
+            "auth": true,
+            "collection_slug": "smiling-friends",
+            "collection_title_id": "2224721",
+            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
