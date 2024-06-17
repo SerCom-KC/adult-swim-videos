@@ -1,55 +1,6 @@
 {
-    "updated": 1718623751,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": 1718942399,
-            "tms_id": "EP034814950003",
-            "description": "When a pathetic shrimp calls the Smiling Friends hotline after being dumped, Shrimpina, Pim and Charlie have very different ideas about how to handle the situation. The audience finally votes on the cool new fifth Smiling Friend, Smormu.",
-            "title_suggest": {
-                "input": [
-                    "Shrimp's Odyssey",
-                    "Odyssey"
-                ]
-            },
-            "title": "Shrimp's Odyssey",
-            "expiration_date": 1717732740,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-            "duration": 665.6984,
-            "episode_number": "3",
-            "original_air_date": "1641791700",
-            "auth_launch_date": 1717732800,
-            "clip_order": null,
-            "airing_id": "RADS1006022400073502",
-            "media_id": "d0629a96d9616d420025ab3443731fea9ea76433",
-            "modified": 1718384700,
-            "slug": "shrimps-odyssey",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161629135-SmilingFriends_103_ShrimpsOdyssey.png",
-            "created": 1641504565,
-            "season_number": "1",
-            "title_id": "2322678",
-            "tv_rating": "tv-14-lv",
-            "published": 1718384700,
-            "tags": [],
-            "collection_title": "Smiling Friends",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1714708800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161629135-SmilingFriends_103_ShrimpsOdyssey.png",
-            "id": "AX4xS-db208s7zyYUL9Y",
-            "auth": true,
-            "collection_slug": "smiling-friends",
-            "collection_title_id": "2224721",
-            "online_exclusives": false
-        },
+    "updated": 1718623828,
+    "added": [
         {
             "auth_expiration_date": 1718942340,
             "tms_id": "EP034814950002",
@@ -97,6 +48,55 @@
             "collection_slug": "smiling-friends",
             "collection_title_id": "2224721",
             "online_exclusives": false
+        },
+        {
+            "auth_expiration_date": 1718942399,
+            "tms_id": "EP034814950003",
+            "description": "When a pathetic shrimp calls the Smiling Friends hotline after being dumped, Shrimpina, Pim and Charlie have very different ideas about how to handle the situation. The audience finally votes on the cool new fifth Smiling Friend, Smormu.",
+            "title_suggest": {
+                "input": [
+                    "Shrimp's Odyssey",
+                    "Odyssey"
+                ]
+            },
+            "title": "Shrimp's Odyssey",
+            "expiration_date": 1717732740,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+            "duration": 665.6984,
+            "episode_number": "3",
+            "original_air_date": "1641791700",
+            "auth_launch_date": 1717732800,
+            "clip_order": null,
+            "airing_id": "RADS1006022400073502",
+            "media_id": "d0629a96d9616d420025ab3443731fea9ea76433",
+            "modified": 1718384700,
+            "slug": "shrimps-odyssey",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161629135-SmilingFriends_103_ShrimpsOdyssey.png",
+            "created": 1641504565,
+            "season_number": "1",
+            "title_id": "2322678",
+            "tv_rating": "tv-14-lv",
+            "published": 1718384700,
+            "tags": [],
+            "collection_title": "Smiling Friends",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1714708800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161629135-SmilingFriends_103_ShrimpsOdyssey.png",
+            "id": "AX4xS-db208s7zyYUL9Y",
+            "auth": true,
+            "collection_slug": "smiling-friends",
+            "collection_title_id": "2224721",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
