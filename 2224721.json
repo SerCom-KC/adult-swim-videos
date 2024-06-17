@@ -282,96 +282,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1718942399,
-        "tms_id": "EP034814950003",
-        "description": "When a pathetic shrimp calls the Smiling Friends hotline after being dumped, Shrimpina, Pim and Charlie have very different ideas about how to handle the situation. The audience finally votes on the cool new fifth Smiling Friend, Smormu.",
-        "title_suggest": {
-            "input": [
-                "Shrimp's Odyssey",
-                "Odyssey"
-            ]
-        },
-        "title": "Shrimp's Odyssey",
-        "expiration_date": 1717732740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-        "duration": 665.6984,
-        "episode_number": "3",
-        "original_air_date": "1641791700",
-        "auth_launch_date": 1717732800,
-        "clip_order": null,
-        "airing_id": "RADS1006022400073502",
-        "media_id": "d0629a96d9616d420025ab3443731fea9ea76433",
-        "modified": 1718384700,
-        "slug": "shrimps-odyssey",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161629135-SmilingFriends_103_ShrimpsOdyssey.png",
-        "created": 1641504565,
-        "season_number": "1",
-        "title_id": "2322678",
-        "tv_rating": "tv-14-lv",
-        "published": 1718384700,
-        "tags": [],
-        "collection_title": "Smiling Friends",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1714708800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161629135-SmilingFriends_103_ShrimpsOdyssey.png",
-        "id": "AX4xS-db208s7zyYUL9Y",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1718942340,
-        "tms_id": "EP034814950002",
-        "description": "After beloved frog celebrity Mr. Frog gets into hot frog water, Pim and Charlie are tasked with helping the frog get things back on frog track. Meanwhile, Glep has a crazy side adventure that has the critics going wild.",
-        "title_suggest": {
-            "input": [
-                "Mr. Frog",
-                "Frog"
-            ]
-        },
-        "title": "Mr. Frog",
-        "expiration_date": 1717127940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-        "duration": 666.0654,
-        "episode_number": "2",
-        "original_air_date": "1641790800",
-        "auth_launch_date": 1717128000,
-        "clip_order": null,
-        "airing_id": "RADS1005262400071808",
-        "media_id": "b50161af369d7cf2810188249a3fbe0e4103f59a",
-        "modified": 1718384708,
-        "slug": "mr-frog",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161628168-SmilingFriends_102_MrFrog.png",
-        "created": 1641504508,
-        "season_number": "1",
-        "title_id": "2322677",
-        "tv_rating": "tv-14-lsv",
-        "published": 1718384708,
-        "tags": [],
-        "collection_title": "Smiling Friends",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1714104000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161628168-SmilingFriends_102_MrFrog.png",
-        "id": "AX4xSwxM_0O4w1rD3RQh",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1718596740,
         "tms_id": "EP034814950013",
         "description": "DISCLAIMER: Just a heads up, this is the scariest episode of any cartoon that's ever been created.",
@@ -710,11 +620,7 @@
     },
     {
         "auth_expiration_date": 1720411140,
-        "created": 1718210994,
         "tms_id": "",
-        "title_id": "2424771",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
         "description": "The Boss and Pim fight for their lives in a mysterious world called Spamtopia. Meanwhile, Charlie confronts Allan over something serious.",
         "title_suggest": {
             "input": [
@@ -728,21 +634,38 @@
                 "Fired)"
             ]
         },
-        "published": 1718323209,
         "title": "The Magical Red Jewel (aka Tyler Gets Fired)",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
         "duration": 648.4812,
         "episode_number": "7",
-        "collection_title": "Smiling Friends",
         "original_air_date": 1718596800,
         "auth_launch_date": 1718596800,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1006122400075239",
         "media_id": "84a76a90783bc7f146e35dacdec1512656c04f10",
-        "modified": 1718323209,
+        "modified": 1718623570,
         "slug": "the-magical-red-jewel-aka-tyler-gets-fired",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/1_2461772603-Screenshot2024-06-17at7.25.09AM.png",
+        "created": 1718210994,
+        "title_id": "2424771",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "published": 1718623570,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_2461772603-Screenshot2024-06-17at7.25.09AM.png",
         "id": "AZANWyLFSaru9Cdsy6x0",
         "auth": true
     }
