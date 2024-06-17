@@ -1,53 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1718596740,
-        "tms_id": "",
-        "description": "When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better.",
-        "title_suggest": {
-            "input": [
-                "Stuck"
-            ]
-        },
-        "title": "Stuck",
-        "expiration_date": 1715572740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 676.08,
-        "episode_number": "3",
-        "original_air_date": 1574658900,
-        "auth_launch_date": 1715572800,
-        "clip_order": null,
-        "media_id": "c01805fe1c0e2a6092ae3c1b99dbc081cc4b6dae",
-        "modified": 1715148862,
-        "airing_id": "RADS1005082400069075",
-        "slug": "stuck",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
-        "created": 1573745635,
-        "season_number": "1",
-        "title_id": "2196569",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1715148862,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1712548800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
-        "id": "AW5qjLBr1YiBSfg0KYe3",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1719201540,
         "tms_id": "",
         "description": "When Goodman's legs get cut off and stolen, his search for the leg thief lands him in the first grade, where he is mistaken for a child.",
@@ -283,7 +236,7 @@
         "launch_date": 1715572800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg",
         "id": "AW5qsjBR1YiBSfg0KYfN",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -419,6 +372,51 @@
         "launch_date": 1717387200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
         "id": "AXdKdfpDQJ_4Uej5kTon",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1713758340,
+        "tms_id": "",
+        "description": "Goodman's attempts to impress his son Tommy causes a car crash, leaving Tommy with a surprise crash course in parenthood.",
+        "title_suggest": {
+            "input": [
+                "Bad Parents",
+                "Parents"
+            ]
+        },
+        "title": "Bad Parents",
+        "expiration_date": 1721620740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 676.1421,
+        "episode_number": "4",
+        "original_air_date": "1613970900",
+        "auth_launch_date": 1710734400,
+        "clip_order": null,
+        "airing_id": "RADS1006122400075228",
+        "media_id": "3db6ea98412cd0638c43ebd1b567b168e605bc3e",
+        "modified": 1718221340,
+        "slug": "bad-parents",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210201/thumbnails/1_2121104624-MommaNamedMeSheriff_202_dup-20210127_BadParents.jpg",
+        "created": 1612194365,
+        "season_number": "2",
+        "title_id": "2247954",
+        "tv_rating": "tv-ma-lv",
+        "published": 1718221340,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718596800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210201/thumbnails/2_2121104624-MommaNamedMeSheriff_202_dup-20210127_BadParents.jpg",
+        "id": "AXdeRcIrbxpjZvbXYmKj",
         "auth": false
     },
     {

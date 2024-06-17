@@ -228,7 +228,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1718596740,
         "tms_id": "EP007833440004",
         "description": "Episode 4 - The Ghost",
@@ -275,7 +275,7 @@
         "cma_id": "1049938"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1719201540,
         "tms_id": "EP007833440029",

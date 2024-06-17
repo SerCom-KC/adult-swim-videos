@@ -417,7 +417,7 @@
         "launch_date": 1718596800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240527/thumbnails/2_245271514478-Screenshot2024-05-27at3.14.23PM.png",
         "id": "AY-lwBIjC2cKYm1ap_0q",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1717991940,
@@ -706,6 +706,44 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240610/thumbnails/2_246101349129-Screenshot2024-06-10at1.48.40PM.png",
         "id": "AY_pf-uGFCWdTNspj0vD",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1720411140,
+        "created": 1718210994,
+        "tms_id": "",
+        "title_id": "2424771",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "description": "The Boss and Pim fight for their lives in a mysterious world called Spamtopia. Meanwhile, Charlie confronts Allan over something serious.",
+        "title_suggest": {
+            "input": [
+                "The Magical Red Jewel (aka Tyler Gets Fired)",
+                "Magical Red Jewel (aka Tyler Gets Fired)",
+                "Red Jewel (aka Tyler Gets Fired)",
+                "Jewel (aka Tyler Gets Fired)",
+                "(aka Tyler Gets Fired)",
+                "Tyler Gets Fired)",
+                "Gets Fired)",
+                "Fired)"
+            ]
+        },
+        "published": 1718323209,
+        "title": "The Magical Red Jewel (aka Tyler Gets Fired)",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 648.4812,
+        "episode_number": "7",
+        "collection_title": "Smiling Friends",
+        "original_air_date": 1718596800,
+        "auth_launch_date": 1718596800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006122400075239",
+        "media_id": "84a76a90783bc7f146e35dacdec1512656c04f10",
+        "modified": 1718323209,
+        "slug": "the-magical-red-jewel-aka-tyler-gets-fired",
+        "id": "AZANWyLFSaru9Cdsy6x0",
         "auth": true
     }
 ]
