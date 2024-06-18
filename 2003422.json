@@ -191,6 +191,56 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1719287940,
+        "tms_id": "EP012792980035",
+        "description": "Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs.",
+        "title_suggest": {
+            "input": [
+                "Mother Daughter Laser Razor",
+                "Daughter Laser Razor",
+                "Laser Razor",
+                "Razor"
+            ]
+        },
+        "expiration_date": 1662955140,
+        "title": "Mother Daughter Laser Razor",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.6227,
+        "episode_number": "10",
+        "original_air_date": 1382927400,
+        "clip_order": null,
+        "auth_launch_date": 1718683200,
+        "modified": 1718259752,
+        "media_id": "ec0c202d5a8f2ae074e11c7fb693c3ecec6e033a",
+        "airing_id": "RADS1006122400075250",
+        "id": "RNMHcG_NQnaimkMIInNOHA",
+        "slug": "mother-daughter-laser-razor",
+        "views": 1,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277440357314.jpg",
+        "created": 1403210547,
+        "season_number": "3",
+        "title_id": "2003521",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1718259752,
+        "first_published": 1413775225,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1662350400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg",
+        "cma_id": "2003521"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1719028740,
         "tms_id": "EP012792980031",
         "description": "In an homage to Jaws, Bob's landlord and pier proprietor Mr. Fischoeder buys a mechanical shark as a pier attraction, but when it turns wild and starts terrorizing the town, it's up to Bob and the family to stop it.",
@@ -382,51 +432,6 @@
         "launch_date": 1661745600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg",
         "cma_id": "2003518"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1718683140,
-        "tms_id": "EP012792980018",
-        "description": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
-        "title_suggest": {
-            "input": [
-                "Beefsquatch"
-            ]
-        },
-        "title": "Beefsquatch",
-        "type": "episode",
-        "expiration_date": 1661140740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1292.1576,
-        "episode_number": "9",
-        "original_air_date": 1378173600,
-        "clip_order": null,
-        "auth_launch_date": 1718078400,
-        "modified": 1717654457,
-        "media_id": "d834c8e03f201daba9dac1c65ec593aa2ba1baac",
-        "airing_id": "RADS1006052400074306",
-        "id": "lnvX70L6QRqXFM7gA-gnyg",
-        "slug": "beefsquatch",
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216331674219.jpg",
-        "created": 1403213495,
-        "season_number": "2",
-        "title_id": "2003444",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1717654457,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1660536000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216331674219.jpg",
-        "cma_id": "2003444"
     },
     {
         "auth": true,

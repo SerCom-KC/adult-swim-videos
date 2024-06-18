@@ -790,7 +790,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1523889000,
         "auth_expiration_date": 1728359940,
         "tms_id": "EP029156490003",
@@ -1007,7 +1007,7 @@
     },
     {
         "ott_launch_date": 1525098600,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1718683140,
         "tms_id": "EP029156490008",
         "description": "Feeling unappreciated by his teammates, Ace finds comfort in a bizarre new vice that leaves him with an unhealthy appetite.",
