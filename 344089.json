@@ -53,7 +53,7 @@
         "cma_id": "987330"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1721793540,
         "tms_id": "EP002989350040",
@@ -105,6 +105,59 @@
         "cma_id": "983605"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1661918340,
+        "tms_id": "EP002989350046",
+        "rating": 8.317381,
+        "description": "Brendon is trying to finish his undersea epic about the Mighty Septopus, but Fenton Mewly's prima donna fits keep getting in the way.  Meanwhile, Paula is trying desperately to break up with her new boyfriend.  Also, Coach McGuirk joins a gym and works only on one machine: the Pec Flexor.",
+        "title_suggest": {
+            "input": [
+                "Heart Smashers",
+                "Smashers"
+            ]
+        },
+        "type": "episode",
+        "title": "Heart Smashers",
+        "expiration_date": 1721793540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1371.6006006,
+        "episode_number": "2",
+        "original_air_date": 1075089600,
+        "clip_order": null,
+        "auth_launch_date": 1658894400,
+        "modified": 1718343334,
+        "media_id": "4f104bafcff2974fd8802f1e9e826a14c28e0761",
+        "airing_id": "RADS1006142400075383",
+        "id": "OiP45kZKTQuuBkYXvdIS4w",
+        "slug": "heart-smashers",
+        "views": 398146,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351624599-hmovies_041.jpg",
+        "created": 1402945467,
+        "title_id": "448017",
+        "season_number": "4",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1718343334,
+        "tags": [
+            "home movies episode 41 heart smashers pec flexor mcguirk gym boyfriend fenton"
+        ],
+        "rating_count": 794,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718769600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624599-hmovies_041.jpg",
+        "cma_id": "992121"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1719979140,
@@ -154,58 +207,6 @@
         "launch_date": 1713931200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351623568-hmovies_035.jpg",
         "cma_id": "976327"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1718769540,
-        "tms_id": "EP002989350033",
-        "rating": 8.483623,
-        "description": "Brendon has trouble convincing Jason and Melissa to make their latest film backwards, a la \"Memento.\" Meanwhile, Brendon is forced to work on his golf game after his dad pressures him into playing a round with an important client. Coach McGuirk gives Brendon some valuable golf advice: cheat.",
-        "title_suggest": {
-            "input": [
-                "My Cheatin' Heart",
-                "Cheatin' Heart",
-                "Heart"
-            ]
-        },
-        "type": "episode",
-        "title": "My Cheatin' Heart",
-        "expiration_date": 1715745540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1355.7340674,
-        "episode_number": "6",
-        "original_air_date": 1035165600,
-        "clip_order": null,
-        "auth_launch_date": 1715745600,
-        "modified": 1715321264,
-        "media_id": "a0cd59f0f8b82d411c443765811bc9e08db48b9b",
-        "airing_id": "RADS1004042400063287",
-        "id": "Sn6OSWxuR7GDe9p5cjcxow",
-        "slug": "my-cheatin-heart",
-        "views": 391770,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351621525-hmovies_032.jpg",
-        "created": 1402945467,
-        "title_id": "420678",
-        "season_number": "3",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1715321264,
-        "tags": [],
-        "rating_count": 1160,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1712721600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351621525-hmovies_032.jpg",
-        "cma_id": ""
     },
     {
         "auth": true,
