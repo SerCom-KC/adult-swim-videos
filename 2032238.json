@@ -1,5 +1,57 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1703653140,
+        "tms_id": "EP020020000033",
+        "description": "Professional Bass Fishing Tournaments are a real thing.",
+        "title_suggest": {
+            "input": [
+                "All About That Bass",
+                "About That Bass",
+                "That Bass",
+                "Bass"
+            ]
+        },
+        "title": "All About That Bass",
+        "type": "episode",
+        "expiration_date": 1721793540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 677,
+        "episode_number": "4",
+        "original_air_date": 1496633400,
+        "clip_order": null,
+        "auth_launch_date": 1697601600,
+        "modified": 1718346950,
+        "media_id": "7d0279fc2fb9c6fd45d8d36dbc9e8d947f4b65d4",
+        "airing_id": "RADS1006142400075362",
+        "id": "-6mMhyzzTcyLcObDwkPJCg",
+        "slug": "all-about-that-bass",
+        "views": 8083,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311153296-miketysonmysteries_304.jpg",
+        "created": 1496297424,
+        "title_id": "2117687",
+        "tv_rating": "tv-14",
+        "season_number": "3",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1718346950,
+        "first_published": 1496297424,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718769600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311153296-miketysonmysteries_304.jpg",
+        "cma_id": "1438047"
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1720583940,
         "tms_id": "",
@@ -342,7 +394,7 @@
         "launch_date": 1715745600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_20171326532-miketysonmysteries_419.jpg",
         "id": "AW-BQoGvGRcVO2K2pl_w",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -592,57 +644,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152529333504413.jpg",
         "id": "AWMikhyrTdxzjxdCltvE",
         "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1718769540,
-        "tms_id": "EP020020000060",
-        "description": "Yung Hee (finally) wonders if being on a mystery team is what she wants to do with her life.",
-        "title_suggest": {
-            "input": [
-                "The Yung and the Restless",
-                "Yung and the Restless",
-                "and the Restless",
-                "the Restless",
-                "Restless"
-            ]
-        },
-        "title": "The Yung and the Restless",
-        "expiration_date": 1712721540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 673.13,
-        "episode_number": "9",
-        "original_air_date": 1564372800,
-        "auth_launch_date": 1712721600,
-        "clip_order": null,
-        "media_id": "83e86c7172af829fbfee3e05c8d142c6f51a953b",
-        "modified": 1715779368,
-        "airing_id": "RADS1004042400063303",
-        "slug": "the-yung-and-the-restless",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/1_197251654447-miketysonmysteries_409_dup-20190605.jpg",
-        "created": 1564088089,
-        "season_number": "4",
-        "title_id": "2172006",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1715779368,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1709701200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654447-miketysonmysteries_409_dup-20190605.jpg",
-        "id": "AWwq6jnV4aLemgzOLGDL",
-        "auth": true
     },
     {
         "ott_launch_date": null,

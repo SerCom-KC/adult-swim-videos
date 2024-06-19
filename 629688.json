@@ -360,59 +360,6 @@
         "cma_id": "1313723"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447173240,
-        "auth_expiration_date": 1718769540,
-        "tms_id": "EP007959510046",
-        "rating": 7.691489,
-        "description": "A Moral Orel special that sheds light on the origin of Orel's religious nature and the birth of his brother, Shapey.",
-        "title_suggest": {
-            "input": [
-                "Beforel Orel: Trust",
-                "Orel: Trust",
-                "Trust"
-            ]
-        },
-        "type": "episode",
-        "title": "Beforel Orel: Trust",
-        "expiration_date": 1715745540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 1354.2002002,
-        "episode_number": "0",
-        "original_air_date": 1353389400,
-        "clip_order": null,
-        "auth_launch_date": 1715745600,
-        "modified": 1715322842,
-        "media_id": "e33c2f8860e38ed919728cb1035482d774607afc",
-        "airing_id": "RADS1005092400069627",
-        "id": "CQaV3QAGTRiw1AsuiaCjGA",
-        "slug": "beforel-orel-trust",
-        "views": 75692,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111550263-moralorel_beforelorel_dup_20121108.jpg",
-        "created": 1402945470,
-        "title_id": "972791",
-        "season_number": "99",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1715322842,
-        "tags": [],
-        "rating_count": 376,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1712721600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111550263-moralorel_beforelorel_dup_20121108.jpg",
-        "cma_id": "972791"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447171500,
         "auth_expiration_date": 1697601540,
@@ -586,6 +533,62 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447171560,
+        "auth_expiration_date": 1698811140,
+        "tms_id": "EP007959510007",
+        "rating": 7.262136,
+        "description": "Moralton on Jesus' birthday... a very special \"Moral Orel.\"",
+        "title_suggest": {
+            "input": [
+                "The Best Christmas Ever",
+                "Best Christmas Ever",
+                "Christmas Ever",
+                "Ever"
+            ]
+        },
+        "type": "episode",
+        "title": "The Best Christmas Ever",
+        "expiration_date": 1721793540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 671.2669336,
+        "episode_number": "10",
+        "original_air_date": 1134536400,
+        "clip_order": null,
+        "auth_launch_date": 1695787200,
+        "modified": 1718346961,
+        "media_id": "548dcf4b77483ce1c98837413d430d5fbf4dc34e",
+        "airing_id": "RADS1006142400075379",
+        "id": "Q_G7C6x-SMefYxr-aiQu7Q",
+        "slug": "the-best-christmas-ever",
+        "views": 250340,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111553373-moralorel_010.jpg",
+        "created": 1402945470,
+        "title_id": "630146",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1718346961,
+        "tags": [
+            "Moral Orel Episode 10 The Best Christmas Ever"
+        ],
+        "rating_count": 1030,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718769600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111553373-moralorel_010.jpg",
+        "cma_id": "1349065"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447171440,
         "auth_expiration_date": 1696996740,
         "tms_id": "EP007959510006",
@@ -744,7 +747,7 @@
         "cma_id": "1319108"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171440,
         "auth_expiration_date": 1721793540,
         "tms_id": "EP007959510005",
