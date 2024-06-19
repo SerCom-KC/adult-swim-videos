@@ -53,59 +53,6 @@
         "cma_id": ""
     },
     {
-        "auth": false,
-        "ott_launch_date": 1451659020,
-        "auth_expiration_date": 1718769540,
-        "tms_id": "EP004625740009",
-        "rating": 8.236965,
-        "description": "Dad and Brak's favorite TV show is called \"Senor Science.\" Senor Science himself is trapped in a block of ice, so he convinces Brak and Dad to purchase the Senor Science melting kit. Brak can't afford to pay for the melting kit, so he decides to raise the money with a play.",
-        "title_suggest": {
-            "input": [
-                "Psychoklahoma"
-            ]
-        },
-        "type": "episode",
-        "title": "Psychoklahoma",
-        "expiration_date": 1715745540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
-        "duration": 676.5005005,
-        "episode_number": "8",
-        "original_air_date": 1007352000,
-        "clip_order": null,
-        "auth_launch_date": 1715745600,
-        "modified": 1715318577,
-        "airing_id": "RADS1004042400063279",
-        "media_id": "b459f8e477ac64aa927bad3ab65f7f213d11d353",
-        "id": "9Gs3FY5_Tkmn74-G5CuuUg",
-        "slug": "psychoklahoma",
-        "views": 141242,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321425541-brak_2108.jpg",
-        "created": 1402945478,
-        "title_id": "411000",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1715318577,
-        "tags": [
-            "brak show episode 8 psychoklahoma senor science TV show musical money"
-        ],
-        "rating_count": 422,
-        "collection_title": "The Brak Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1712721600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425541-brak_2108.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "ott_launch_date": 1451659080,
         "auth_expiration_date": 1720583940,
@@ -214,6 +161,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451673480,
+        "auth_expiration_date": 1718164740,
+        "tms_id": "EP004625740007",
+        "rating": 8.420529,
+        "description": "Thundercleese's parent company, MoroccoBotix, Inc., deactivates him on his birthday. So depressed is Thundercleese that he stops caring for his yard, usually his pride and joy. When an asteroid is discovered to be on a collision course with their neighborhood, Brak and Dad need Thundercleese to save them.",
+        "title_suggest": {
+            "input": [
+                "Expiration Day",
+                "Day"
+            ]
+        },
+        "type": "episode",
+        "title": "Expiration Day",
+        "expiration_date": 1721793540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
+        "duration": 697.3003003,
+        "episode_number": "7",
+        "original_air_date": 1004932800,
+        "clip_order": null,
+        "auth_launch_date": 1715140800,
+        "modified": 1718346961,
+        "airing_id": "RADS1006142400075375",
+        "media_id": "019c04878056bf589cd328aa21c6806cd12f5710",
+        "id": "bf6ZSp8cT6-qJ_1bC9p9kA",
+        "slug": "expiration-day",
+        "views": 120093,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321425296-brak_2107.jpg",
+        "created": 1402945478,
+        "title_id": "345423",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1718346961,
+        "tags": [
+            "brak show episode 7 expiration day thundercleese deactivated birthday meteor"
+        ],
+        "rating_count": 302,
+        "collection_title": "The Brak Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718769600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425296-brak_2107.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1721793540,
         "tms_id": "EP004625740003",
