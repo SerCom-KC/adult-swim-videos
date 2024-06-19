@@ -1,53 +1,5 @@
 [
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1719374340,
-        "tms_id": "EP012792980036",
-        "description": "Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back.",
-        "title_suggest": {
-            "input": [
-                "Nude Beach",
-                "Beach"
-            ]
-        },
-        "expiration_date": 1663559940,
-        "title": "Nude Beach",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1293.1919,
-        "episode_number": "11",
-        "original_air_date": 1383535800,
-        "clip_order": null,
-        "auth_launch_date": 1718769600,
-        "modified": 1718348117,
-        "media_id": "4d479a4000b4c5f006811ad5bb56110aedb5ec29",
-        "airing_id": "RADS1006142400075322",
-        "id": "-iEHRbHnQaKmCbMl2ZZQeQ",
-        "slug": "nude-beach",
-        "views": 6619,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227744265846.jpg",
-        "created": 1403210586,
-        "season_number": "3",
-        "title_id": "2003522",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1718348117,
-        "first_published": 1414988426,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1662955200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg",
-        "cma_id": "2003522"
-    },
-    {
         "auth_expiration_date": 1713326340,
         "tms_id": "",
         "description": "Linda joins the P.T.A.",
@@ -333,6 +285,54 @@
         "launch_date": 1661745600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216342451813.jpg",
         "cma_id": "2003517"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1718769540,
+        "tms_id": "EP012792980023",
+        "description": "A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader \"Horny Dave.\" Meanwhile, Louise has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her.",
+        "title_suggest": {
+            "input": [
+                "Ear-sy Rider",
+                "Rider"
+            ]
+        },
+        "expiration_date": 1661140740,
+        "title": "Ear-sy Rider",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.8228,
+        "episode_number": "1",
+        "original_air_date": 1381113000,
+        "clip_order": null,
+        "auth_launch_date": 1718164800,
+        "modified": 1717742934,
+        "media_id": "d9e7f05f7437f4a44494080bb3fd91b2633c9909",
+        "airing_id": "RADS1006062400074586",
+        "id": "WQLkpD32SgOYEJ164dTdtQ",
+        "slug": "ear-sy-rider",
+        "views": 7615,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152216333406213.jpg",
+        "created": 1403210165,
+        "season_number": "3",
+        "title_id": "2003512",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1717742934,
+        "first_published": 1408936856,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1660536000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg",
+        "cma_id": "2003512"
     },
     {
         "auth": true,
