@@ -48,6 +48,56 @@
         "cma_id": "2003522"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1719460740,
+        "tms_id": "EP012792980037",
+        "description": "There is a \"Mad Pooper\" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the \"bottom\" of the situation.",
+        "title_suggest": {
+            "input": [
+                "Broadcast Wagstaff School News",
+                "Wagstaff School News",
+                "School News",
+                "News"
+            ]
+        },
+        "expiration_date": 1663559940,
+        "title": "Broadcast Wagstaff School News",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1281.0464,
+        "episode_number": "12",
+        "original_air_date": 1383620400,
+        "clip_order": null,
+        "auth_launch_date": 1718856000,
+        "modified": 1718441189,
+        "media_id": "be966cc7c474aa02e26265d58d7bfe21786f3bdc",
+        "airing_id": "RADS1006142400075449",
+        "id": "3adw46_sRxC-g9TyOb1S4g",
+        "slug": "broadcast-wagstaff-school-news",
+        "views": 8153,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227744679512.jpg",
+        "created": 1403210617,
+        "season_number": "3",
+        "title_id": "2003523",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1718441189,
+        "first_published": 1415593226,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1662955200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg",
+        "cma_id": "2003523"
+    },
+    {
         "auth_expiration_date": 1713326340,
         "tms_id": "",
         "description": "Linda joins the P.T.A.",
@@ -186,55 +236,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254344-Screenshot2023-12-04at12.52.13PM.png",
         "id": "AYtzWBynn_kciGPPrDJU",
         "auth": false
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1718855940,
-        "tms_id": "EP012792980024",
-        "description": "The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual \"Black and Orange\" party.",
-        "title_suggest": {
-            "input": [
-                "Full Bars",
-                "Bars"
-            ]
-        },
-        "expiration_date": 1661745540,
-        "title": "Full Bars",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1275.7745,
-        "episode_number": "2",
-        "original_air_date": 1383012000,
-        "clip_order": null,
-        "auth_launch_date": 1718251200,
-        "modified": 1717830868,
-        "media_id": "1721ac667fd17a767f9bf556b07ec3cee6429731",
-        "airing_id": "RADS1006072400074757",
-        "id": "ClXtTaMsTqeJ9gW6Fx286w",
-        "slug": "full-bars",
-        "views": 7191,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15295038587449.jpg",
-        "created": 1403210185,
-        "season_number": "3",
-        "title_id": "2003513",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1717830868,
-        "first_published": 1409541627,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1661140800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg",
-        "cma_id": "2003513"
     },
     {
         "auth": true,
