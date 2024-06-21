@@ -79,8 +79,8 @@
         "original_air_date": 1037593800,
         "clip_order": null,
         "auth_launch_date": 1717560000,
-        "modified": 1717137159,
-        "airing_id": "RADS1004252400066540",
+        "modified": 1718979321,
+        "airing_id": "RADS1005302400072796",
         "media_id": "da789940515cd8a5efa906b4cb4f7dd5958f69cf",
         "id": "RKn6u4Z1RIegXWO_yTE7tg",
         "slug": "the-runaway",
@@ -94,7 +94,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1717137159,
+        "published": 1718979321,
         "tags": [
             "brak show episode runaway space ghost time travel future crime"
         ],
@@ -427,7 +427,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1451673840,
         "auth_expiration_date": 1721188740,
         "tms_id": "EP004625740021",
@@ -443,7 +443,7 @@
         },
         "type": "episode",
         "title": "We Ski In Peace",
-        "expiration_date": 1718164740,
+        "expiration_date": 2085368400,
         "platforms": [
             "web",
             "mobile",
@@ -455,9 +455,9 @@
         "original_air_date": 1041222600,
         "clip_order": null,
         "auth_launch_date": 1718164800,
-        "modified": 1717741405,
+        "modified": 1718979319,
         "media_id": "62096cd9e247e6f8df5863725f3fd32fcc6afb13",
-        "airing_id": "RADS1006062400074637",
+        "airing_id": "RADS1006261900003143",
         "id": "txlx10CfRjSGghpXrlZz-g",
         "slug": "we-ski-in-peace",
         "views": 160591,
@@ -470,7 +470,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1717741405,
+        "published": 1718979319,
         "tags": [
             "brak show episode 20 we ski in peace take your son to work day giant ants"
         ],
@@ -478,7 +478,7 @@
         "collection_title": "The Brak Show",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1715140800,
+        "launch_date": 1561694400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321430550-brak_2211.jpg",
         "cma_id": "1468686"
     },
