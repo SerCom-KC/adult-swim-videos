@@ -140,7 +140,7 @@
         "launch_date": 1715918400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_22110123719-SmilingFriends_105_WhoViolentlyMurderedSimonSSalty.png",
         "id": "AX42sIs6_0O4w1rD3RRf",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1728705599,
@@ -185,7 +185,7 @@
         "launch_date": 1716523200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101237496-SmilingFriends_106_EnchantedForest.png",
         "id": "AX42sMm3208s7zyYUL9g",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1717127940,
@@ -230,55 +230,6 @@
         "launch_date": 1717128000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101238285-SmilingFriends_107_FrowningFriends.png",
         "id": "AX42sTZm208s7zyYUL9h",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1717732740,
-        "tms_id": "EP034814950008",
-        "description": "In the season finale, Charlie actually dies for real.",
-        "title_suggest": {
-            "input": [
-                "Charlie Dies and Doesn't Come Back",
-                "Dies and Doesn't Come Back",
-                "and Doesn't Come Back",
-                "Doesn't Come Back",
-                "Come Back",
-                "Back"
-            ]
-        },
-        "title": "Charlie Dies and Doesn't Come Back",
-        "type": "episode",
-        "expiration_date": 1718942399,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-        "duration": 671.7711,
-        "episode_number": "8",
-        "original_air_date": 1643605200,
-        "auth_launch_date": 1712635200,
-        "clip_order": null,
-        "airing_id": "RADS1004082400063726",
-        "media_id": "cbb49f5a8f9d9e3a3a0a5a794fa49c226cddd40b",
-        "modified": 1717359766,
-        "slug": "charlie-dies-and-doesnt-come-back",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/1_221101239112-SmilingFriends_108_CharlieDiesAndDoesntComeBack.png",
-        "created": 1641595113,
-        "title_id": "2322683",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "published": 1717359766,
-        "tags": [],
-        "collection_title": "Smiling Friends",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1717732800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101239112-SmilingFriends_108_CharlieDiesAndDoesntComeBack.png",
-        "id": "AX42sZA8_0O4w1rD3RRg",
         "auth": false
     },
     {
@@ -327,6 +278,145 @@
         "launch_date": 1718596800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240527/thumbnails/2_245271514478-Screenshot2024-05-27at3.14.23PM.png",
         "id": "AY-lwBIjC2cKYm1ap_0q",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "After beloved frog celebrity Mr. Frog gets into hot frog water, Pim and Charlie are tasked with helping the frog get things back on frog track. Meanwhile, Glep has a crazy side adventure that has the critics going wild.",
+        "title_suggest": {
+            "input": [
+                "Mr. Frog",
+                "Frog"
+            ]
+        },
+        "title": "Mr. Frog",
+        "expiration_date": 1719547140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 667.9673,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1006152400075539",
+        "media_id": "6ff287a4f9033c6876127789fc7ebc082d93666f",
+        "modified": 1718516490,
+        "slug": "mr-frog",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240331/thumbnails/1_243311411272-PuppetEP102_TN9.jpg",
+        "created": 1711908691,
+        "season_number": "1",
+        "title_id": "2499692",
+        "tv_rating": "tv-ma",
+        "published": 1718516490,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718942400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240331/thumbnails/2_243311411272-PuppetEP102_TN9.jpg",
+        "id": "AY6VtZ1T5I1d0UhX5iFN",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "When a pathetic shrimp calls the Smiling Friends hotline after being dumped, Shrimpina, Pim and Charlie have very different ideas about how to handle the situation. The audience finally votes on the cool new fifth Smiling Friend, Smormu.",
+        "title_suggest": {
+            "input": [
+                "Shrimp's Odyssey",
+                "Odyssey"
+            ]
+        },
+        "title": "Shrimp's Odyssey",
+        "expiration_date": 1719547140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 667.5669,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1006152400075537",
+        "media_id": "68db7a6fc7559edc49015bb9271f9638e7a15d6a",
+        "modified": 1718516487,
+        "slug": "shrimps-odyssey",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240331/thumbnails/1_243311411502-PuppetEP103_TN7.jpg",
+        "created": 1711908714,
+        "season_number": "1",
+        "title_id": "2499691",
+        "tv_rating": "tv-ma",
+        "published": 1718516487,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718942400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240331/thumbnails/2_243311411502-PuppetEP103_TN7.jpg",
+        "id": "AY6VtfmG5I1d0UhX5iFO",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "In the season finale, Charlie actually dies for real.",
+        "title_suggest": {
+            "input": [
+                "Charlie Dies and Doesn't Come Back",
+                "Dies and Doesn't Come Back",
+                "and Doesn't Come Back",
+                "Doesn't Come Back",
+                "Come Back",
+                "Back"
+            ]
+        },
+        "title": "Charlie Dies and Doesn't Come Back",
+        "expiration_date": 1719547140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 671.9046,
+        "episode_number": "8",
+        "original_air_date": 1711860300,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1006152400075535",
+        "media_id": "492177d0cc710cf46b858525067f0bae65221cb4",
+        "modified": 1718517118,
+        "slug": "charlie-dies-and-doesnt-come-back",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1712252638,
+        "season_number": "1",
+        "title_id": "2500761",
+        "tv_rating": "tv-ma",
+        "published": 1718517118,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718942400,
+        "poster": "",
+        "id": "AY6qNdTUC2cKYm1ap_IN",
         "auth": false
     },
     {
