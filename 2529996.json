@@ -97,7 +97,7 @@
         "launch_date": 1719003600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631313378-SailorMoon_Ep001_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AY_PRjYpC2cKYm1ap_8B",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1719608340,
@@ -151,6 +151,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240606/thumbnails/2_2466162283-CopyofSailorMoon_Ep002_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AY_aRWqdC2cKYm1ap_9V",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1720817940,
+        "tms_id": "",
+        "description": "Usagi is shocked to find out that she's gained weight from too much eating. Determined to get back into shape and fast, Usagi and her friends join a gym that advertises instant results for its members.",
+        "title_suggest": {
+            "input": [
+                "Learn How to Be Skinny from Usagi",
+                "How to Be Skinny from Usagi",
+                "to Be Skinny from Usagi",
+                "Be Skinny from Usagi",
+                "Skinny from Usagi",
+                "from Usagi",
+                "Usagi"
+            ]
+        },
+        "title": "Learn How to Be Skinny from Usagi",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AY_PJ8ZL5I1d0UhX5iGC",
+        "duration": 1337.1692,
+        "episode_number": "",
+        "original_air_date": 1719003600,
+        "auth_launch_date": 1719003600,
+        "clip_order": null,
+        "airing_id": "RADS1006152400075513",
+        "media_id": "19be328bf304a9c8df5d21fb6563f8e01e6e13ca",
+        "modified": 1718624817,
+        "slug": "learn-how-to-be-skinny-from-usagi",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/1_24617746524-CopyofSailorMoon_Ep004_Thumbnail_1920x1080_Pillarbox.jpg",
+        "created": 1718478607,
+        "title_id": "2530000",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "published": 1718624817,
+        "tags": [],
+        "collection_title": "Sailor Moon",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617746524-CopyofSailorMoon_Ep004_Thumbnail_1920x1080_Pillarbox.jpg",
+        "id": "AZAdTpTBg6zBH7G86tgS",
         "auth": true
     }
 ]
