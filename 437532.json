@@ -48,53 +48,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1718942340,
-        "tms_id": "EP003034830014",
-        "description": "Professor Farnsworth installs an empathy chip in Bender.",
-        "title_suggest": {
-            "input": [
-                "I Second That Emotion",
-                "Second That Emotion",
-                "That Emotion",
-                "Emotion"
-            ]
-        },
-        "title": "I Second That Emotion",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.7003,
-        "episode_number": "5",
-        "original_air_date": 1043899200,
-        "auth_launch_date": 1718337600,
-        "clip_order": null,
-        "airing_id": "RADS1006092400074832",
-        "media_id": "82548204e568a654dea1404f0c6d4cbe910d5ee5",
-        "modified": 1717951609,
-        "slug": "i-second-that-emotion",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/1_22114171486-Futurama_014_ISecondThatEmotion.png",
-        "created": 1641851609,
-        "title_id": "437546",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "published": 1717951609,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171486-Futurama_014_ISecondThatEmotion.png",
-        "id": "AX5F-2CI208s7zyYUL9k",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1719028740,
         "tms_id": "EP003034830015",
         "description": "Court-martialed Zap Brannigan gets a job at Planet Express.",
@@ -234,6 +187,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223171991-Futurama_017_XmasStory.png",
         "id": "AX617DZ7_0O4w1rD3Rk_",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1719547140,
+        "tms_id": "EP003034830019",
+        "description": "Fry gets the unexpected when he and Amy spend St. Valentine's Day together.",
+        "title_suggest": {
+            "input": [
+                "Put Your Head on My Shoulder",
+                "Your Head on My Shoulder",
+                "Head on My Shoulder",
+                "on My Shoulder",
+                "My Shoulder",
+                "Shoulder"
+            ]
+        },
+        "title": "Put Your Head on My Shoulder",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1400.9327,
+        "episode_number": "10",
+        "original_air_date": 1044590400,
+        "auth_launch_date": 1718942400,
+        "clip_order": null,
+        "airing_id": "RADS1006152400075519",
+        "media_id": "42e98a6bd8615493518949cb272a7a0e5b4e56c3",
+        "modified": 1718518277,
+        "slug": "put-your-head-on-my-shoulder",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/1_2224145640-Futurama_019_PutYourHeadOnMyShoulder.png",
+        "created": 1643730795,
+        "title_id": "437551",
+        "season_number": "2",
+        "tv_rating": "tv-pg-dl",
+        "published": 1718518277,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_2224145640-Futurama_019_PutYourHeadOnMyShoulder.png",
+        "id": "AX61_XzD208s7zyYUL95",
         "auth": true
     }
 ]
