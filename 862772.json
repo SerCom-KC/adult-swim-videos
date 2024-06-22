@@ -1384,7 +1384,7 @@
         "cma_id": "1432149"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1444577040,
         "auth_expiration_date": 1719460740,
         "tms_id": "EP014698040030",
@@ -1396,7 +1396,7 @@
                 "Manhood"
             ]
         },
-        "expiration_date": 2085368400,
+        "expiration_date": 1737003540,
         "title": "Displays of Manhood",
         "type": "episode",
         "platforms": [
@@ -1410,9 +1410,9 @@
         "original_air_date": 1431919800,
         "clip_order": null,
         "auth_launch_date": 1718856000,
-        "modified": 1719036987,
+        "modified": 1719035795,
         "media_id": "75973947d9fac073c7c5a55dc349cac301efce8b",
-        "airing_id": "RADS1002011900064704",
+        "airing_id": "RADS1006142400075478",
         "id": "q3UWOgTHRCyGxqdoz7Ckcg",
         "slug": "displays-of-manhood",
         "views": 38773,
@@ -1425,13 +1425,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1719036987,
+        "published": 1719035795,
         "first_published": 1431778842,
         "tags": [],
         "collection_title": "China, IL",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1549256400,
+        "launch_date": 1719460800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032171307-chinail_306_dup-20150514.jpg",
         "cma_id": "1397990"
     },
