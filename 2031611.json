@@ -171,7 +171,7 @@
         "cma_id": "1032590"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1725659940,
         "tms_id": "EP012647370010",
@@ -669,6 +669,64 @@
         "launch_date": 1713780000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg",
         "cma_id": "1037455"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
+        "tms_id": "EP012647370015",
+        "description": "As Goku lies exhausted and vulnerable on the field of battle, Gohan and Krillin take aim at Vegeta's only weakness: his tail! If they can take the ape out of the fight, they might have a chance to escape with their lives.",
+        "title_suggest": {
+            "input": [
+                "Goku on the Ropes! Pin Your Hopes on the Spirit Bomb!",
+                "on the Ropes! Pin Your Hopes on the Spirit Bomb!",
+                "the Ropes! Pin Your Hopes on the Spirit Bomb!",
+                "Ropes! Pin Your Hopes on the Spirit Bomb!",
+                "Pin Your Hopes on the Spirit Bomb!",
+                "Your Hopes on the Spirit Bomb!",
+                "Hopes on the Spirit Bomb!",
+                "on the Spirit Bomb!",
+                "the Spirit Bomb!",
+                "Spirit Bomb!",
+                "Bomb!"
+            ]
+        },
+        "title": "Goku on the Ropes! Pin Your Hopes on the Spirit Bomb!",
+        "type": "episode",
+        "expiration_date": 1722635940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1260.8262,
+        "episode_number": "15",
+        "original_air_date": 1426392000,
+        "clip_order": null,
+        "auth_launch_date": 1556596800,
+        "modified": 1718694494,
+        "airing_id": "RADS1006172400075832",
+        "media_id": "62382ebad1f78cd98593b5c0f60d891b6445bf33",
+        "id": "rSe1RkGgQFebyXDv0LRtXA",
+        "slug": "goku-on-the-ropes-pin-your-hopes-on-the-spirit-bomb",
+        "views": 935,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684033994216.jpg",
+        "created": 1426350022,
+        "title_id": "2031626",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1718694494,
+        "first_published": 1426350022,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1719122400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684033994216.jpg",
+        "cma_id": "1062202"
     },
     {
         "auth": false,
