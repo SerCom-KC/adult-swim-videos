@@ -79,7 +79,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1719131400,
         "id": "AY-_uJS7C2cKYm1ap_4g",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1719201540,
@@ -436,7 +436,7 @@
         "launch_date": 1716714000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240509/thumbnails/2_2459139236-Screenshot2024-05-09at1.07.00PM.png",
         "id": "AY8wpKl55I1d0UhX5iF2",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1719736140,
@@ -511,6 +511,46 @@
         "modified": 1718069823,
         "slug": "defeat-sugar-the-army-of-the-little-people-charges",
         "id": "AZAEnsXMg6zBH7G86tgR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1720945740,
+        "created": 1718642924,
+        "tms_id": "EP022836810042",
+        "title_id": "2435741",
+        "season_number": "17",
+        "tv_rating": "tv-pg-lv",
+        "description": "The Tontattas are devastated by Trebol's furious attack, but as Usopp tries to convince Leo to abort the operation, Leo tells him about their commander Toy Soldier's stunning true identity!",
+        "title_suggest": {
+            "input": [
+                "The Last Light of Hope! The Secret of Our Commander!",
+                "Last Light of Hope! The Secret of Our Commander!",
+                "Light of Hope! The Secret of Our Commander!",
+                "of Hope! The Secret of Our Commander!",
+                "Hope! The Secret of Our Commander!",
+                "The Secret of Our Commander!",
+                "Secret of Our Commander!",
+                "of Our Commander!",
+                "Our Commander!",
+                "Commander!"
+            ]
+        },
+        "published": 1718647425,
+        "title": "The Last Light of Hope! The Secret of Our Commander!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.2189,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1719118800,
+        "auth_launch_date": 1719131400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006172400075821",
+        "media_id": "4bbf3945d6047082ffb905ec2c0bf118ca09a35f",
+        "modified": 1718647425,
+        "slug": "the-last-light-of-hope-the-secret-of-our-commander",
+        "id": "AZAnGd0Zg6zBH7G86tgY",
         "auth": true
     }
 ]
