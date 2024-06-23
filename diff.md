@@ -2,112 +2,130 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 22, 2024 at 00:30:13 EDT_
+_Last Update: June 23, 2024 at 00:00:29 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 2003422 Bob's Burgers: 2  
 437532 Futurama: 1  
 629835 King of the Hill: 1  
-### 2186662
-**American Dad S14E13 - Mom Sauce**  
+2288454 My Adventures with Superman: 1  
+### 2186664
+**American Dad S14E15 - Demolition Daddy**  
 TV-14-DLSV 🔒 21:03  
-⌛ June 28, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/mom-sauce  
-seriesid=`581006` titleid=`2186662` id=`AXKPZbx3Rs3h4hI_X4A9` mediaid=`fe5524e638316357b15d463e007bea8105ad43cf`  
-_Steve's life is turned upside down when Snot gets rich after his mom starts selling a new dipping sauce. Klaus, Stan, Roger and Jeff become mall fashion show models._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg" height="144px" /></a>
-### 2186661
-**American Dad S14E12 - Stompe Le Monde**  
-TV-14-DLSV 🔒 21:03  
-⌛ June 28, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/stompe-le-monde  
-seriesid=`581006` titleid=`2186661` id=`AXKPZS24Rs3h4hI_X4A8` mediaid=`f66be9077a52f08f779da5b8b5541c4b62be4817`  
-_Stan buys the rights a Broadway show after inheriting money from a dead uncle._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068920402-americandad_1312_air_cid-3XGKX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068920402-americandad_1312_air_cid-3XGKX.jpg" height="144px" /></a>
-### 2003526
-**Bob's Burgers S03E15 - O.T. The Outside Toilet**  
-TV-PG 🔒 21:14  
-⌛ June 28, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/o-t-the-outside-toilet  
-seriesid=`2003422` titleid=`2003526` id=`x-4SkB2lQp20nrsTB9k23w` mediaid=`2a100c0c37ca9c3c3320f58a684d5c264fa88d1a`  
-_In an homage to E.T. the Extra-Terrestrial, Gene finds an expensive talking toilet and befriends it. Together with Louise and Tina, the Belcher kids help the toilet hide from the evil toilet hunter._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870806659120.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870806659120.jpg" height="144px" /></a>
-### 2003527
-**Bob's Burgers S03E16 - Topsy**  
-TV-PG-DLSV 🔒 21:30  
-⌛ June 28, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/topsy  
-seriesid=`2003422` titleid=`2003527` id=`AnzNezb8RtW7UnMxRfuf3A` mediaid=`094b5c412cdacb681041f2863bbd80f982e38076`  
-_Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina)._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085647121414.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085647121414.jpg" height="144px" /></a>
-### 437552
-**Futurama S02E11 - The Lesser of Two Evils**  
-TV-PG-DL 🔒 23:22  
-⌛ June 28, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-lesser-of-two-evils  
-seriesid=`437532` titleid=`437552` id=`AX7GUiVe_0O4w1rD3Rmg` mediaid=`bf1ecd7d232adc5255ef71c1ef8d083bd9e40919`  
-_The professor hires a robot, who looks exactly like Bender, to guard valuable cargo._  
-<a href="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241459292-Futurama_020_LesserOfTwoEvils.png"><img src="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241459292-Futurama_020_LesserOfTwoEvils.png" height="144px" /></a>
-### 728860
-**King of the Hill S03E01 - Propane Boom 2: Death of a Propane Salesman**  
-TV-PG-D 🔒 23:41  
-⌛ June 28, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/propane-boom-2-death-of-a-propane-salesman  
-seriesid=`629835` titleid=`728860` id=`HXaIrxt9TkiYh7LikWlZbQ` mediaid=`d1ab39ff57b59e4912573664898ae3cecbcabebe`  
-_In the aftermath of the Mega Lo Mart explosion... Hank discovers he is frightened of propane; Luanne grapples with the loss of her hair--and a close friend._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_8004.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_8004.jpg" height="144px" /></a>
+⌛ June 29, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/demolition-daddy  
+seriesid=`581006` titleid=`2186664` id=`AXKPZuazRs3h4hI_X4A-` mediaid=`4052df40c5fe09a1659e275384c6d9287ca98fb6`  
+_Thanks to Roger, Snot discovers his dead father was a demolition derby driver. Hayley takes Steve on a road trip, so he can learn to drive._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg" height="144px" /></a>
+### 2186663
+**American Dad S14E14 - Hamerican Dad!**  
+TV-14-DLSV 🔒 21:02  
+⌛ June 29, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/hamerican-dad  
+seriesid=`581006` titleid=`2186663` id=`AXKPZmnhC8QgH-t19JjV` mediaid=`22719bca3d20ee8dd73a3cd906c93d85ff103cf9`  
+_Stan, reluctantly invites Roger into his ham club. Francine decides to scare Greg._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg" height="144px" /></a>
+### 2003529
+**Bob's Burgers S03E18 - It Snakes a Village**  
+TV-14 🔒 21:14  
+⌛ June 29, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/it-snakes-a-village  
+seriesid=`2003422` titleid=`2003529` id=`RAIMaX4CRgGkSy935k68lg` mediaid=`426eaac1c31f4f726b3f8947b2529e1ade0bd027`  
+_The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108565676568.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108565676568.jpg" height="144px" /></a>
+### 2003528
+**Bob's Burgers S03E17 - Two For Tina**  
+TV-PG 🔒 21:34  
+⌛ June 29, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/two-for-tina  
+seriesid=`2003422` titleid=`2003528` id=`rbUdJW2DS4yVWdqKwLtbqg` mediaid=`4c6188e4100d24127513e5e7eb27013a0d242775`  
+_Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh, and the two boys get into an epic dance-off for her heart._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085653935416.jpg" height="144px" /></a>
+### 437553
+**Futurama S02E12 - Raging Bender**  
+TV-PG-D 🔒 23:22  
+⌛ June 29, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/raging-bender  
+seriesid=`437532` titleid=`437553` id=`AX7L39lX208s7zyYUMAJ` mediaid=`eb62b6a8227826add169742e468de4a7e527b0d8`  
+_Bender is the featured attraction in the Ultimate Robot Fighting League._  
+<a href="https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_222161351255-Futurama_021_RagingBender.png"><img src="https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_222161351255-Futurama_021_RagingBender.png" height="144px" /></a>
+### 728861
+**King of the Hill S03E02 - And They Call it Bobby Love**  
+TV-PG 🔒 23:23  
+⌛ June 29, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/and-they-call-it-bobby-love  
+seriesid=`629835` titleid=`728861` id=`T4fZhtkcSxqERx4AhDHHbw` mediaid=`15b61fd0668665f768c4f662d88453df651378e2`  
+_Bobby falls head-over-heels for a classmate.  Hank and his friends discover an abandoned couch in the alleyway where they normally stand and drink beer._  
+<a href="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png"><img src="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png" height="144px" /></a>
+### 2288470
+**My Adventures with Superman S02E06 - The Machine Who Would Be Empire**  
+TV-PG-V 🔒 22:41  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/the-machine-who-would-be-empire  
+seriesid=`2288454` titleid=`2288470` id=`AZAl8-a1g6zBH7G86tgT` mediaid=`3367b1501bca45cebf6230abb5e7366f4d360f73`  
+_Kidnapped and far from home, Superman bonds with his cousin Kara…and discovers the truth about Krypton from the last Kryptonians in existence!_  
+<a href="https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617727374-AS_MAWS_206_TheMachineWhoWouldBeEmpire-2.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617727374-AS_MAWS_206_TheMachineWhoWouldBeEmpire-2.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
+2194549 Gemusetto: 1  
 437532 Futurama: 1  
 581006 American Dad: 2  
 629835 King of the Hill: 1  
-### 2003517
-**Bob's Burgers S03E06 - The Deepening**  
-TV-PG 🔒 21:10  
-⌛ June 21, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-deepening  
-seriesid=`2003422` titleid=`2003517` id=`Sw52DTbnSJWC2NfqUQ6kuQ` mediaid=`227fded7473645fd6e648e0faff7074a91841a87`  
-_In an homage to Jaws, Bob's landlord and pier proprietor Mr. Fischoeder buys a mechanical shark as a pier attraction, but when it turns wild and starts terrorizing the town, it's up to Bob and the family to stop it._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216342451813.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216342451813.jpg" height="144px" /></a>
-### 2003516
-**Bob's Burgers S03E05 - An Indecent Thanksgiving Proposal**  
-TV-14 🔒 21:34  
-⌛ June 21, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/an-indecent-thanksgiving-proposal  
-seriesid=`2003422` titleid=`2003516` id=`sldYo92OShixZ1NZiHNN_g` mediaid=`3287169512e681455e84ed24a9a08fe6f57ff57a`  
-_Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152967997623910.jpg" height="144px" /></a>
-### 437547
-**Futurama S02E06 - Brannigan, Begin Again**  
+### 2003519
+**Bob's Burgers S03E08 - The Unbearable Like-Likeness of Gene**  
+TV-PG 🔒 21:31  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-unbearable-like-likeness-of-gene  
+seriesid=`2003422` titleid=`2003519` id=`ZkIXH6VwR3umi9XPGhgn7g` mediaid=`996f8d48b46c26d07fae521d98d0888f969df85f`  
+_After Gene gets suckered into dating Courtney, his first girlfriend ever, the entire family wants him to break up with her when they decide she's totally annoying. But when Gene finally musters up the courage to end things, he falters after discovering that Courtney's father writes jingles and could possibly launch his music career._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276715684815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276715684815.jpg" height="144px" /></a>
+### 2003518
+**Bob's Burgers S03E07 - Tina-Rannosaurus Wrecks**  
+TV-PG 🔒 21:30  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/tina-rannosaurus-wrecks  
+seriesid=`2003422` titleid=`2003518` id=`eqaaJMi1TQeFHArOnKLL0Q` mediaid=`3079ea58f034b7addb4bbda30a331721332b2e6b`  
+_After Tina accidentally wrecks the car, and gets the whole family involved with a slimy insurance agent, she worries that she's a "jinx."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152276713011413.jpg" height="144px" /></a>
+### 2241839
+**Gemusetto S02E14 - Episode Fourteen: al Fine**  
+TV-MA-L 🔒 11:44  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-fourteen-al-fine  
+seriesid=`2194549` titleid=`2241839` id=`AXZy7ItdbxpjZvbXYlqR` mediaid=`63ac7d365ef27cae25c0dd5cb465649245571d2a`  
+_His goal is almost at his fingertips- can Makasu team up with his friends and Battle Amphibian Piano Frog in order to save everyone and redeem himself?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757506-GSMP_214_dup-20201214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757506-GSMP_214_dup-20201214.jpg" height="144px" /></a>
+### 437548
+**Futurama S02E07 - A Head in the Polls**  
 TV-PG 🔒 23:21  
-⌛ June 21, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/brannigan-begin-again  
-seriesid=`437532` titleid=`437547` id=`AX5aOJsU208s7zyYUL9q` mediaid=`6099bb03f73f2d2f6d34baad146345663f282d85`  
-_Court-martialed Zap Brannigan gets a job at Planet Express._  
-<a href="https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120176291-Futurama_015_BranniganBeginAgain.png"><img src="https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120176291-Futurama_015_BranniganBeginAgain.png" height="144px" /></a>
-### 2186650
-**American Dad S14E01 - Fantasy Baseball**  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/a-head-in-the-polls  
+seriesid=`437532` titleid=`437548` id=`AX5-CoET_0O4w1rD3RdO` mediaid=`2ee81e0edaf3ec13924dfa89db6f814382134c08`  
+_Bender gets involved in a presidential election during a titanium shortage._  
+<a href="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211620284-Futurama_016_AHeadInThePolls.png"><img src="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211620284-Futurama_016_AHeadInThePolls.png" height="144px" /></a>
+### 2186652
+**American Dad S14E03 - Stan & Francine & Connie & Ted**  
 TV-14-DLSV 🔒 21:02  
-⌛ June 21, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fantasy-baseball  
-seriesid=`581006` titleid=`2186650` id=`AWjyVXZRAScUIg8XxdOH` mediaid=`596ffacb60795401af5fffdf6d1a3213ee6bb519`  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stan-francine-connie-ted  
+seriesid=`581006` titleid=`2186652` id=`AWjyT5XbAScUIg8XxdOE` mediaid=`5fa6fc2b56f1f6cb2eaa2c01406cb0f8f8822215`  
 _A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg" height="144px" /></a>
-### 2069575
-**American Dad S13E22 - The Future Is Borax**  
-TV-14-DLSV 🔒 21:03  
-⌛ June 21, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-future-is-borax  
-seriesid=`581006` titleid=`2069575` id=`AWqX3a3lCorLtcgflqRB` mediaid=`6e26c8daf7d49d29a673bfd4352ec91a7b6429b4`  
-_While trying to rekindle their marriage, Stan and Francine get trapped on a hot air balloon. The rest of the family wins a jingle writing contest._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg" height="144px" /></a>
-### 728432
-**King of the Hill S02E18 - Leanne's Saga**  
-TV-PG-DLV 🔒 23:21  
-⌛ June 21, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/leannes-saga  
-seriesid=`629835` titleid=`728432` id=`Ft52e-7vRGuqFC0Bt79F6A` mediaid=`45c558d91ff4826e036612a2156b4b9db342d0aa`  
-_Luanne's mother is released from prison and becomes romantically involved with Bill._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_6018881340085847495.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_6018881340085847495.jpg" height="144px" /></a>
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg" height="144px" /></a>
+### 2186651
+**American Dad S14E02 - I Am The Jeans: The Gina Lavetti Story**  
+TV-14-DLV 🔒 21:02  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/i-am-the-jeans-the-gina-lavetti-story  
+seriesid=`581006` titleid=`2186651` id=`AWjyUKXnHl5gR6828yeL` mediaid=`a295465726db5a96b4c3e6f3ce151fbf0a9539b1`  
+_A CIA agent will do anything to protect his homeland and family._  
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg" height="144px" /></a>
+### 728433
+**King of the Hill S02E19 - Junkie Business**  
+TV-PG-L 🔒 23:22  
+⌛ June 22, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/junkie-business  
+seriesid=`629835` titleid=`728433` id=`pSximX5YSAORrOWm3IGW2A` mediaid=`f30dcfb4b5400717ea581e868ac657e9d832d308`  
+_Hank inadvertently hires a drug addict to work at Strickland Propane._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_55057.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_55057.jpg" height="144px" /></a>

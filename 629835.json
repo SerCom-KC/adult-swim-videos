@@ -52,6 +52,60 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1719719940,
+        "tms_id": "EP002070020039",
+        "rating": 7.058011,
+        "description": "Bobby falls head-over-heels for a classmate.  Hank and his friends discover an abandoned couch in the alleyway where they normally stand and drink beer.",
+        "title_suggest": {
+            "input": [
+                "And They Call it Bobby Love",
+                "They Call it Bobby Love",
+                "Call it Bobby Love",
+                "it Bobby Love",
+                "Bobby Love",
+                "Love"
+            ]
+        },
+        "type": "episode",
+        "title": "And They Call it Bobby Love",
+        "expiration_date": 1500953399,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1403.1685,
+        "episode_number": "2",
+        "original_air_date": 1239244200,
+        "clip_order": null,
+        "auth_launch_date": 1719115200,
+        "modified": 1718689828,
+        "media_id": "15b61fd0668665f768c4f662d88453df651378e2",
+        "airing_id": "RADS1006172400075845",
+        "id": "T4fZhtkcSxqERx4AhDHHbw",
+        "slug": "and-they-call-it-bobby-love",
+        "views": 316408,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/1_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png",
+        "created": 1402945468,
+        "title_id": "728861",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "published": 1718689828,
+        "tags": [
+            "king of the hill episode 301 bobby in love couch"
+        ],
+        "rating_count": 362,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1500348600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281429575-KingOfTheHill_301_AndTheyCallItBobbyLove.png",
+        "cma_id": "1434090"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1719460740,
         "rating": 8.697941,
         "description": "Peggy quits her job as substitute teacher and takes up guitar lessons; Bobby is diagnosed with attention deficit disorder.",
@@ -161,56 +215,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1232686800,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_7999.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1719115140,
-        "tms_id": "EP002070020035",
-        "rating": 6.965518,
-        "description": "Hank inadvertently hires a drug addict to work at Strickland Propane.",
-        "title_suggest": {
-            "input": [
-                "Junkie Business",
-                "Business"
-            ]
-        },
-        "type": "episode",
-        "title": "Junkie Business",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1402.2343,
-        "episode_number": "19",
-        "original_air_date": 1231988400,
-        "clip_order": null,
-        "auth_launch_date": 1718510400,
-        "modified": 1718086653,
-        "airing_id": "RADS1006112400075125",
-        "media_id": "f30dcfb4b5400717ea581e868ac657e9d832d308",
-        "id": "pSximX5YSAORrOWm3IGW2A",
-        "slug": "junkie-business",
-        "views": 93191,
-        "created": 1402945468,
-        "title_id": "728433",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "published": 1718086653,
-        "tags": [
-            "Junkie Business",
-            "Hank",
-            "drug addict",
-            "Strickland Propane"
-        ],
-        "rating_count": 203,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1249617600,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_55057.jpg",
         "cma_id": ""
     },
     {
