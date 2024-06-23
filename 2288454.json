@@ -381,7 +381,7 @@
         "launch_date": 1716177600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230728/thumbnails/2_2372896386-MAWS105.png",
         "id": "AYkm0YCs2rZC6NyF61-A",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1721534340,
@@ -714,6 +714,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617727143-AS_MAWS_205_MostEligibleSuperman-2.jpg",
         "id": "AZAEl9nXSaru9Cdsy6ws",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1720929540,
+        "tms_id": "",
+        "description": "Kidnapped and far from home, Superman bonds with his cousin Kara\u2026and discovers the truth about Krypton from the last Kryptonians in existence!",
+        "title_suggest": {
+            "input": [
+                "The Machine Who Would Be Empire",
+                "Machine Who Would Be Empire",
+                "Who Would Be Empire",
+                "Would Be Empire",
+                "Be Empire",
+                "Empire"
+            ]
+        },
+        "title": "The Machine Who Would Be Empire",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1361.0597,
+        "episode_number": "6",
+        "original_air_date": "1719115200",
+        "auth_launch_date": 1719115200,
+        "clip_order": null,
+        "airing_id": "RADS1006172400075786",
+        "media_id": "3367b1501bca45cebf6230abb5e7366f4d360f73",
+        "modified": 1718645037,
+        "slug": "the-machine-who-would-be-empire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/1_24617727374-AS_MAWS_206_TheMachineWhoWouldBeEmpire-2.jpg",
+        "created": 1718623659,
+        "season_number": "2",
+        "title_id": "2288470",
+        "tv_rating": "tv-pg-v",
+        "published": 1718645037,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617727374-AS_MAWS_206_TheMachineWhoWouldBeEmpire-2.jpg",
+        "id": "AZAl8-a1g6zBH7G86tgT",
         "auth": true
     }
 ]
