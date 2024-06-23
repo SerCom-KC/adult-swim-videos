@@ -45,7 +45,7 @@
         "launch_date": 1719129600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240613/thumbnails/2_246131220238-VIZ_EZOM007_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png",
         "id": "AY-_t9Z2C2cKYm1ap_4f",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1724471940,
@@ -283,7 +283,7 @@
         "launch_date": 1716105600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240509/thumbnails/2_2459130213-VIZ_EZOM005_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB.png",
         "id": "AY8GqrYdC2cKYm1ap_Yr",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1716710340,
@@ -414,6 +414,41 @@
         "modified": 1718324735,
         "slug": "treehouse-of-the-dead",
         "id": "AZAEneI7Saru9Cdsy6wu",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1720943940,
+        "created": 1718642515,
+        "tms_id": "EP048369780010",
+        "title_id": "2436459",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "description": "Together with the villagers and the people who escaped from Tokyo, Akira and his friends help each other out while enjoying a brief moment of happiness. Meanwhile, Higurashi has been preparing to take his revenge on society.",
+        "title_suggest": {
+            "input": [
+                "Hometown of the Dead I",
+                "of the Dead I",
+                "the Dead I",
+                "Dead I",
+                "I"
+            ]
+        },
+        "published": 1718701731,
+        "title": "Hometown of the Dead I",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AY6BSlzX5I1d0UhX5iFL",
+        "duration": 1386.8522,
+        "episode_number": "",
+        "collection_title": "Zom 100: Bucket List of the Dead",
+        "original_air_date": 1719117000,
+        "auth_launch_date": 1719129600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006172400075795",
+        "media_id": "3df98cae66a3b06af867bd0175194cdf3c333ece",
+        "modified": 1718701731,
+        "slug": "hometown-of-the-dead-i",
+        "id": "AZAnE52kg6zBH7G86tgX",
         "auth": true
     }
 ]
