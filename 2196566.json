@@ -1,54 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1719201540,
-        "tms_id": "",
-        "description": "When Goodman's legs get cut off and stolen, his search for the leg thief lands him in the first grade, where he is mistaken for a child.",
-        "title_suggest": {
-            "input": [
-                "Ganley Stoodman",
-                "Stoodman"
-            ]
-        },
-        "title": "Ganley Stoodman",
-        "expiration_date": 1716177540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 678.08,
-        "episode_number": "4",
-        "original_air_date": 1575262800,
-        "auth_launch_date": 1716177600,
-        "clip_order": null,
-        "media_id": "7a585d05797400dfb803e869a07d2b8d451dde42",
-        "modified": 1715749551,
-        "airing_id": "RADS1004112400064331",
-        "slug": "ganley-stoodman",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141034243-MommaNamedMeSheriff_104_dup-20190507.jpg",
-        "created": 1573745668,
-        "season_number": "1",
-        "title_id": "2196570",
-        "tv_rating": "tv-ma-v",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1715749551,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1713153600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141034243-MommaNamedMeSheriff_104_dup-20190507.jpg",
-        "id": "AW5qjTDHadNs2hMNfugF",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1719806340,
         "tms_id": "",
         "description": "Sheriff tries to cheer up Carl by finding him a bald cure. Meanwhile, Tommy feels responsible for jeopardizing an astronaut's life.",
@@ -283,7 +235,7 @@
         "launch_date": 1716177600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141115131-MommaNamedMeSheriff_109_dup-20190507.jpg",
         "id": "AW5qspA4adNs2hMNfugH",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1711943940,
@@ -372,6 +324,50 @@
         "launch_date": 1717387200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
         "id": "AXdKdfpDQJ_4Uej5kTon",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1714363140,
+        "tms_id": "",
+        "description": "When Sheriff realizes that an addiction to his Momma's pudding is allowing her to control him, he decides to better his relationship with her, by kicking his pudding habit.",
+        "title_suggest": {
+            "input": [
+                "Puddin"
+            ]
+        },
+        "title": "Puddin",
+        "expiration_date": 1722225540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 676.5425,
+        "episode_number": "5",
+        "original_air_date": "1614574800",
+        "auth_launch_date": 1711339200,
+        "clip_order": null,
+        "airing_id": "RADS1006202400075965",
+        "media_id": "922fc2d3b5d10b8838426e3ed0202c6b248aa3cf",
+        "modified": 1718859518,
+        "slug": "puddin",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/1_211281426394-MommaNamedMeSheriff_203_dup-20210122_Puddin.jpg",
+        "created": 1611862004,
+        "season_number": "2",
+        "title_id": "2247955",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1718859518,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719201600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426394-MommaNamedMeSheriff_203_dup-20210122_Puddin.jpg",
+        "id": "AXdKdla2QJ_4Uej5kToo",
         "auth": false
     },
     {
