@@ -1,44 +1,6 @@
 {
-    "updated": 1719201731,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": 1721015940,
-            "created": 1718850009,
-            "tms_id": "",
-            "title_id": "2424772",
-            "season_number": "2",
-            "tv_rating": "tv-14-lv",
-            "description": "After eating a mysterious artefact found at an ancient burial ground, Pim suddenly and mysteriously turns bright green to everyone's dismay.",
-            "title_suggest": {
-                "input": [
-                    "Pim Finally Turns Green",
-                    "Finally Turns Green",
-                    "Turns Green",
-                    "Green"
-                ]
-            },
-            "published": 1718876396,
-            "title": "Pim Finally Turns Green",
-            "type": "episode",
-            "tags": [],
-            "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-            "duration": 656.7561,
-            "episode_number": "8",
-            "collection_title": "Smiling Friends",
-            "original_air_date": 1719201600,
-            "auth_launch_date": 1719201600,
-            "modified_by": "ODT Listener",
-            "airing_id": "RADS1006202400075955",
-            "media_id": "72c9d208d2edfb7bd7d5c3fd774dbaaa8faa72c0",
-            "modified": 1718876396,
-            "slug": "pim-finally-turns-green",
-            "id": "AZAzcbq1Saru9Cdsy64A",
-            "auth": true,
-            "collection_slug": "smiling-friends",
-            "collection_title_id": "2224721",
-            "online_exclusives": false
-        },
+    "updated": 1719201850,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447367100,
@@ -91,6 +53,44 @@
             "collection_slug": "samurai-jack",
             "collection_title_id": "343621",
             "online_exclusives": false
+        },
+        {
+            "auth_expiration_date": 1721015940,
+            "created": 1718850009,
+            "tms_id": "",
+            "title_id": "2424772",
+            "season_number": "2",
+            "tv_rating": "tv-14-lv",
+            "description": "After eating a mysterious artefact found at an ancient burial ground, Pim suddenly and mysteriously turns bright green to everyone's dismay.",
+            "title_suggest": {
+                "input": [
+                    "Pim Finally Turns Green",
+                    "Finally Turns Green",
+                    "Turns Green",
+                    "Green"
+                ]
+            },
+            "published": 1718876396,
+            "title": "Pim Finally Turns Green",
+            "type": "episode",
+            "tags": [],
+            "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+            "duration": 656.7561,
+            "episode_number": "8",
+            "collection_title": "Smiling Friends",
+            "original_air_date": 1719201600,
+            "auth_launch_date": 1719201600,
+            "modified_by": "ODT Listener",
+            "airing_id": "RADS1006202400075955",
+            "media_id": "72c9d208d2edfb7bd7d5c3fd774dbaaa8faa72c0",
+            "modified": 1718876396,
+            "slug": "pim-finally-turns-green",
+            "id": "AZAzcbq1Saru9Cdsy64A",
+            "auth": true,
+            "collection_slug": "smiling-friends",
+            "collection_title_id": "2224721",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
