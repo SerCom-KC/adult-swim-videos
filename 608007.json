@@ -512,11 +512,7 @@
     },
     {
         "auth_expiration_date": 1720945740,
-        "created": 1718642924,
         "tms_id": "EP022836810042",
-        "title_id": "2435741",
-        "season_number": "17",
-        "tv_rating": "tv-pg-lv",
         "description": "The Tontattas are devastated by Trebol's furious attack, but as Usopp tries to convince Leo to abort the operation, Leo tells him about their commander Toy Soldier's stunning true identity!",
         "title_suggest": {
             "input": [
@@ -532,21 +528,38 @@
                 "Commander!"
             ]
         },
-        "published": 1718647425,
         "title": "The Last Light of Hope! The Secret of Our Commander!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1320.2189,
         "episode_number": "",
-        "collection_title": "One Piece",
         "original_air_date": 1719118800,
         "auth_launch_date": 1719131400,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1006172400075821",
         "media_id": "4bbf3945d6047082ffb905ec2c0bf118ca09a35f",
-        "modified": 1718647425,
+        "modified": 1719253858,
         "slug": "the-last-light-of-hope-the-secret-of-our-commander",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/1_246241430482-Screenshot2024-06-24at2.30.14PM.png",
+        "created": 1718642924,
+        "title_id": "2435741",
+        "season_number": "17",
+        "tv_rating": "tv-pg-lv",
+        "published": 1719253858,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241430482-Screenshot2024-06-24at2.30.14PM.png",
         "id": "AZAnGd0Zg6zBH7G86tgY",
         "auth": true
     }
