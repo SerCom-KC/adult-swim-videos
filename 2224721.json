@@ -656,7 +656,7 @@
         "launch_date": 1719201600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_2463131773-Screenshot2024-06-03at1.16.28PM.png",
         "id": "AY_KzhzOC2cKYm1ap_5u",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1719806340,
@@ -757,40 +757,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_2461772603-Screenshot2024-06-17at7.25.09AM.png",
         "id": "AZANWyLFSaru9Cdsy6x0",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1721015940,
-        "created": 1718850009,
-        "tms_id": "",
-        "title_id": "2424772",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
-        "description": "After eating a mysterious artefact found at an ancient burial ground, Pim suddenly and mysteriously turns bright green to everyone's dismay.",
-        "title_suggest": {
-            "input": [
-                "Pim Finally Turns Green",
-                "Finally Turns Green",
-                "Turns Green",
-                "Green"
-            ]
-        },
-        "published": 1718876396,
-        "title": "Pim Finally Turns Green",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-        "duration": 656.7561,
-        "episode_number": "8",
-        "collection_title": "Smiling Friends",
-        "original_air_date": 1719201600,
-        "auth_launch_date": 1719201600,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1006202400075955",
-        "media_id": "72c9d208d2edfb7bd7d5c3fd774dbaaa8faa72c0",
-        "modified": 1718876396,
-        "slug": "pim-finally-turns-green",
-        "id": "AZAzcbq1Saru9Cdsy64A",
         "auth": true
     }
 ]
