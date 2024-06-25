@@ -1,53 +1,5 @@
 [
     {
-        "ott_launch_date": 1447789740,
-        "auth_expiration_date": 1719287940,
-        "tms_id": "SH018336770000",
-        "description": "Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time.",
-        "title_suggest": {
-            "input": [
-                "Broomshakalaka"
-            ]
-        },
-        "expiration_date": 1716263940,
-        "type": "episode",
-        "title": "Broomshakalaka",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 635.4170142,
-        "episode_number": "1",
-        "original_air_date": 1386666000,
-        "auth_launch_date": 1716264000,
-        "clip_order": null,
-        "media_id": "20cd6e2709abbcf7ecd5d3d9a2119f3e03801712",
-        "modified": 1715837187,
-        "airing_id": "RADS1005152400070462",
-        "slug": "broomshakalaka",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150986087747.jpg",
-        "created": 1510603670,
-        "season_number": "3",
-        "title_id": "2007826",
-        "tv_rating": "tv-14-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1715837187,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1713844800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg",
-        "id": "AV-2_sJ8wdpKFAKSbWYY",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1447789260,
         "auth_expiration_date": 1719892740,
         "tms_id": "SH018336790000",
@@ -417,6 +369,56 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1447789200,
+        "auth_expiration_date": 1707800340,
+        "tms_id": "SH020456150000",
+        "description": "Three experts explore the newly-discovered Book of Christ, the first and only book of the Bible written by Jesus himself.",
+        "title_suggest": {
+            "input": [
+                "Book of Christ",
+                "of Christ",
+                "Christ"
+            ]
+        },
+        "expiration_date": 1721707140,
+        "type": "episode",
+        "title": "Book of Christ",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 649.6672227,
+        "episode_number": "9",
+        "original_air_date": 1416906000,
+        "auth_launch_date": 1704776400,
+        "clip_order": null,
+        "media_id": "93e35cec7ac83e07fd76e89a21306306d5541b98",
+        "modified": 1718862808,
+        "airing_id": "RADS1006202400076022",
+        "slug": "book-of-christ",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150981959475.jpg",
+        "created": 1510606330,
+        "season_number": "4",
+        "title_id": "2041862",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1718862808,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719288000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150981959475.jpg",
+        "id": "AV-3J1rFwdpKFAKSbWaw",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1447789560,
         "auth_expiration_date": 1722311940,
         "tms_id": "SH020222930000",
@@ -464,7 +466,7 @@
         "launch_date": 1716868800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509761924415.jpg",
         "id": "AV-3RUyRZ-onAnjDLtAm",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1698119940,

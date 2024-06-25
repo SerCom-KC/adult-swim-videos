@@ -839,7 +839,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152364685750110.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1523889000,
         "auth_expiration_date": 1728964740,
         "tms_id": "EP029156490004",
@@ -1117,7 +1117,7 @@
     },
     {
         "ott_launch_date": 1525703400,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1719287940,
         "tms_id": "EP029156490009",
         "description": "Desperate to lose her beer gut by game day, Gaz trains under the master of washboard abs, Flypp Champion.",
