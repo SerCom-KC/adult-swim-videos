@@ -445,7 +445,7 @@
         "launch_date": 1716350400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200107/thumbnails/2_2017132786-miketysonmysteries_420_dup-20191220.jpg",
         "id": "AW-BQsBUGRcVO2K2pl_x",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -646,57 +646,6 @@
         "auth": false
     },
     {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1719374340,
-        "tms_id": "EP020020000061",
-        "description": "What do you do with baby octopus, plantains, smoked kippers and cream of mushroom soup?",
-        "title_suggest": {
-            "input": [
-                "A Mystery in Little Italy",
-                "Mystery in Little Italy",
-                "in Little Italy",
-                "Little Italy",
-                "Italy"
-            ]
-        },
-        "title": "A Mystery in Little Italy",
-        "expiration_date": 1713326340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
-        "duration": 664.3303,
-        "episode_number": "10",
-        "original_air_date": 1564373700,
-        "auth_launch_date": 1713326400,
-        "clip_order": null,
-        "media_id": "d09594e6a028e237d1b90a51b90ba5555bd75ab5",
-        "modified": 1712897305,
-        "airing_id": "RADS1004112400064476",
-        "slug": "a-mystery-in-little-italy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/1_197251654555-miketysonmysteries_410_dup-20190710.jpg",
-        "created": 1564088099,
-        "season_number": "4",
-        "title_id": "2172007",
-        "tv_rating": "tv-14-lsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1712897305,
-        "tags": [],
-        "collection_title": "Mike Tyson Mysteries",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1710302400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20190725/thumbnails/2_197251654555-miketysonmysteries_410_dup-20190710.jpg",
-        "id": "AWwq6mDd4aLemgzOLGDM",
-        "auth": true
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1703048340,
@@ -745,6 +694,58 @@
         "launch_date": 1718164800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111531464-miketysonmysteries_303.jpg",
         "cma_id": "1433879"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1704257940,
+        "tms_id": "EP020020000034",
+        "description": "A boy has gone missing from a prestigious New England prep school.",
+        "title_suggest": {
+            "input": [
+                "Foxcroft Academy for Boys",
+                "Academy for Boys",
+                "for Boys",
+                "Boys"
+            ]
+        },
+        "title": "Foxcroft Academy for Boys",
+        "type": "episode",
+        "expiration_date": 1722398340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ftep7v7hQoavGD98IfRsUg",
+        "duration": 677.5421184,
+        "episode_number": "5",
+        "original_air_date": 1497238200,
+        "clip_order": null,
+        "auth_launch_date": 1698206400,
+        "modified": 1718949271,
+        "media_id": "8e578653bbeaa3ff6888ac8d06c2e33b310efc79",
+        "airing_id": "RADS1006202400076081",
+        "id": "Rvjk-3PMRPCb5Ej4w7HSWQ",
+        "slug": "foxcroft-academy-for-boys",
+        "views": 7162,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111532519-miketysonmysteries_305.jpg",
+        "created": 1496905820,
+        "title_id": "2117688",
+        "tv_rating": "tv-14",
+        "season_number": "3",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1718949271,
+        "first_published": 1496905820,
+        "tags": [],
+        "collection_title": "Mike Tyson Mysteries",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719374400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111532519-miketysonmysteries_305.jpg",
+        "cma_id": "1442312"
     },
     {
         "auth": false,
