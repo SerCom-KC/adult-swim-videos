@@ -179,6 +179,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447171800,
+        "auth_expiration_date": 1573621140,
+        "tms_id": "EP007959510011",
+        "rating": 7.5926414,
+        "description": "Orel learns about the great American pastime, discrimination.",
+        "title_suggest": {
+            "input": [
+                "God's Image",
+                "Image"
+            ]
+        },
+        "type": "episode",
+        "title": "God's Image",
+        "expiration_date": 1722398340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 704.6006006,
+        "episode_number": "1",
+        "original_air_date": 1163394900,
+        "clip_order": null,
+        "auth_launch_date": 1570593600,
+        "modified": 1718949267,
+        "media_id": "1e8b59a2bc1d6d233b85397e053c861600b9fcaa",
+        "airing_id": "RADS1006202400076097",
+        "id": "5YoUVYiSTCWhLcM4jvhYhg",
+        "slug": "gods-image",
+        "views": 226496,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111554386-moralorel_011.jpg",
+        "created": 1402945470,
+        "title_id": "653291",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1718949267,
+        "tags": [
+            "Moral Orel Episode 11 God's Image"
+        ],
+        "rating_count": 761,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719374400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111554386-moralorel_011.jpg",
+        "cma_id": "1352545"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -413,62 +467,6 @@
         "cma_id": "1340189"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447171260,
-        "auth_expiration_date": 1719374340,
-        "tms_id": "EP007959510001",
-        "rating": 6.8563113,
-        "description": "Orel takes righteous action when he concludes that everyone buried in the town's cemetery is rejecting God's greatest gift, Life.",
-        "title_suggest": {
-            "input": [
-                "The Lord's Greatest Gift",
-                "Lord's Greatest Gift",
-                "Greatest Gift",
-                "Gift"
-            ]
-        },
-        "type": "episode",
-        "title": "The Lord's Greatest Gift",
-        "expiration_date": 1716350340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 713.5338672,
-        "episode_number": "1",
-        "original_air_date": 1137992400,
-        "clip_order": null,
-        "auth_launch_date": 1716350400,
-        "modified": 1715927501,
-        "media_id": "07ed538197e52bef084b7c9031d23424677f4460",
-        "airing_id": "RADS1004112400064451",
-        "id": "FaFXNGafQAqtVIO2_7UMvg",
-        "slug": "the-lords-greatest-gift",
-        "views": 296104,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111550462-moralorel_001.jpg",
-        "created": 1402945470,
-        "title_id": "630818",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1715927501,
-        "tags": [
-            "moral orel episode 1 lord's greatest gift cemetery life zombies"
-        ],
-        "rating_count": 1204,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1713326400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111550462-moralorel_001.jpg",
-        "cma_id": "630818"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -641,7 +639,7 @@
         "cma_id": "1335961"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171440,
         "auth_expiration_date": 1722398340,
         "tms_id": "EP007959510004",

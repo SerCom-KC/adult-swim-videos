@@ -270,7 +270,7 @@
         "cma_id": "758313"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1508164140,
         "auth_expiration_date": 1719374340,
         "tms_id": "EP007008180107",
@@ -991,7 +991,7 @@
     },
     {
         "ott_launch_date": 1509373740,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1719979140,
         "tms_id": "EP007008180108",
         "description": "Sheriff discovers alcohol at the world's largest outdoor cocktail party.",
@@ -8214,6 +8214,60 @@
         "launch_date": 1470169312,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/squidbillies-bts-kurt-vile/squidbillies_BTS_905_KurtVile.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447443360,
+        "auth_expiration_date": 1693540740,
+        "tms_id": "EP007008180023",
+        "rating": 7.983033,
+        "description": "Perverts need love. Rusty delivers.",
+        "title_suggest": {
+            "input": [
+                "Tween Steam",
+                "Steam"
+            ]
+        },
+        "type": "episode",
+        "title": "Tween Steam",
+        "expiration_date": 1745639940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 674.4004004,
+        "episode_number": "3",
+        "original_air_date": 1202101200,
+        "clip_order": null,
+        "auth_launch_date": 1679112000,
+        "modified": 1719370196,
+        "media_id": "5baa214feafa5a806fcf367b0da7c4e42a9b06c4",
+        "airing_id": "RADS1006262400076947",
+        "id": "tCANd52hRouoczYo0UcVug",
+        "slug": "tween-steam",
+        "views": 564804,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1402945477,
+        "title_id": "704390",
+        "season_number": "3",
+        "tv_rating": "tv-14-dl",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1719370196,
+        "tags": [
+            "squidbillies episode 23 tween steam rusty teenager puberty to catch a predator pedophile pervert dan halen"
+        ],
+        "rating_count": 1944,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719374400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/tween-steam/squids_ep023_004.jpg",
+        "cma_id": "1405830"
     },
     {
         "auth": false,

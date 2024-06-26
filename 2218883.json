@@ -1,6 +1,54 @@
 [
     {
         "ott_launch_date": null,
+        "auth_expiration_date": 1750737540,
+        "tms_id": "EP022022090002",
+        "description": "Hanging out by the river, no one would suspect Mamimi is a girl with a dark past. She's been obsessed with a videogame. There's been a string of fires around town. If that's not enough, there's something growing inside Naota's head.",
+        "title_suggest": {
+            "input": [
+                "Fire Starter",
+                "Starter"
+            ]
+        },
+        "expiration_date": 1692676740,
+        "type": "episode",
+        "title": "Fire Starter",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWH9BNOjNWyh42wYnlM8",
+        "duration": 1382.87,
+        "episode_number": "2",
+        "original_air_date": 1060142400,
+        "auth_launch_date": 1719374400,
+        "clip_order": null,
+        "media_id": "1150063065b5e06ceeaf9890d11c942fd9246fdc",
+        "modified": 1719371058,
+        "airing_id": "RADS1006262400076948",
+        "slug": "fire-starter",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15241720969659.jpg",
+        "created": 1523886696,
+        "season_number": "1",
+        "title_id": "446614",
+        "tv_rating": "tv-14-ds",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1719371058,
+        "tags": [],
+        "collection_title": "FLCL",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1555340400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15241720969659.jpg",
+        "id": "AWLOuaasTdxzjxdClb9j",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
         "auth_expiration_date": 1719892740,
         "tms_id": "EP022022090003",
         "description": "With a robot and an alien at home, Naota tries to at least have a normal school life. The class is putting on a play, and Naota is playing a cat. He's sprouted cat ears from his head. Class president Ninamori's been chosen to play the lead.",
