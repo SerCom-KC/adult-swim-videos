@@ -1,5 +1,55 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1719460740,
+        "tms_id": "EP012792980037",
+        "description": "There is a \"Mad Pooper\" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the \"bottom\" of the situation.",
+        "title_suggest": {
+            "input": [
+                "Broadcast Wagstaff School News",
+                "Wagstaff School News",
+                "School News",
+                "News"
+            ]
+        },
+        "expiration_date": 1663559940,
+        "title": "Broadcast Wagstaff School News",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1281.0464,
+        "episode_number": "12",
+        "original_air_date": 1383620400,
+        "clip_order": null,
+        "auth_launch_date": 1718856000,
+        "modified": 1718441189,
+        "media_id": "be966cc7c474aa02e26265d58d7bfe21786f3bdc",
+        "airing_id": "RADS1006142400075449",
+        "id": "3adw46_sRxC-g9TyOb1S4g",
+        "slug": "broadcast-wagstaff-school-news",
+        "views": 8153,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15227744679512.jpg",
+        "created": 1403210617,
+        "season_number": "3",
+        "title_id": "2003523",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1718441189,
+        "first_published": 1415593226,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1662955200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg",
+        "cma_id": "2003523"
+    },
+    {
         "auth_expiration_date": 1713499140,
         "tms_id": "",
         "description": "An anniversary surprise doesn't go as planned.",
@@ -287,54 +337,6 @@
         "launch_date": 1664769600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566624153.jpg",
         "cma_id": "2003532"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1720065540,
-        "tms_id": "EP012792980048",
-        "description": "While acting as a parent chaperone on the school's trip to the museum, Bob has a father- daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy. Also, Tina questions her dorkiness; and on the steps of the museum, Linda lends her unique chanting abilities to striking museum workers.",
-        "title_suggest": {
-            "input": [
-                "Carpe Museum",
-                "Museum"
-            ]
-        },
-        "expiration_date": 1665374340,
-        "title": "Carpe Museum",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1275.5409,
-        "episode_number": "22",
-        "original_air_date": 1387164600,
-        "clip_order": null,
-        "auth_launch_date": 1719460800,
-        "modified": 1719041776,
-        "media_id": "8e674d0188137794e2f77427f47ae40e6816f65b",
-        "airing_id": "RADS1006212400076191",
-        "id": "h-8I3clIQR2tn_K2jbkuMg",
-        "slug": "carpe-museum",
-        "views": 6123,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151085671641218.jpg",
-        "created": 1403211516,
-        "season_number": "3",
-        "title_id": "2003533",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1719041776,
-        "first_published": 1422850826,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1664769600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg",
-        "cma_id": "2003533"
     },
     {
         "auth": true,
