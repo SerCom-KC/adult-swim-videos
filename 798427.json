@@ -197,7 +197,7 @@
         "launch_date": 1716523200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200910/thumbnails/2_209101430318-thumb-2_image-151268077677916.jpg",
         "id": "AXR5STu7LyLQBOXK_PNg",
-        "auth": false
+        "auth": true
     },
     {
         "auth": true,
@@ -1195,7 +1195,7 @@
         "cma_id": "1444146"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445372280,
         "auth_expiration_date": 1719547140,
         "tms_id": "EP012636510005",
