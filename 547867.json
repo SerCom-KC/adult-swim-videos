@@ -266,6 +266,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451681700,
+        "auth_expiration_date": 1702011540,
+        "tms_id": "EP007008200001",
+        "rating": 8.407221,
+        "description": "With the help of the Bear Trap Brothers, Tom and The Mayor teach Jefferton about the significance of bear traps in child safety.  Jack Black and Kyle Gass appear as the Bear Trap Brothers, two rival storekeepers who must help convince the City Council the plan is a good one.",
+        "title_suggest": {
+            "input": [
+                "Bear Trap Brothers",
+                "Trap Brothers",
+                "Brothers"
+            ]
+        },
+        "type": "episode",
+        "title": "Bear Trap Brothers",
+        "expiration_date": 1719547140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 701.67,
+        "episode_number": "1",
+        "original_air_date": 1100493000,
+        "clip_order": null,
+        "auth_launch_date": 1698984000,
+        "modified": 1713070738,
+        "airing_id": "RADS1004122400064867",
+        "media_id": "250c115ff68a2eec7825e5f144e89263b9e949a7",
+        "id": "MrLKv1RYQhW0zTploTp5Gw",
+        "slug": "bear-trap-brothers",
+        "views": 218493,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117834325-tgttm_001.jpg",
+        "created": 1402945482,
+        "title_id": "581466",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1713070738,
+        "tags": [
+            "tom goes to the mayor tgttm episode 1 premiere bear traps jack black"
+        ],
+        "rating_count": 582,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1713499200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834325-tgttm_001.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451681940,
         "auth_expiration_date": 1688702340,
         "tms_id": "EP007008200012",
@@ -367,59 +421,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1716523200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211783670-tgttm_006.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1451682120,
-        "auth_expiration_date": 1689911940,
-        "tms_id": "EP007008200010",
-        "rating": 8.557838,
-        "description": "Tom's concerns for the health of Jefferton's children leads to a Pipe Camp.",
-        "title_suggest": {
-            "input": [
-                "Pipe Camp",
-                "Camp"
-            ]
-        },
-        "type": "episode",
-        "title": "Pipe Camp",
-        "expiration_date": 1725595140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 706.84,
-        "episode_number": "13",
-        "original_air_date": 1116821700,
-        "clip_order": null,
-        "auth_launch_date": 1686888000,
-        "modified": 1719122267,
-        "airing_id": "RADS1006222400076309",
-        "media_id": "6b5a3ab00801edbbcb117f7a678619a70bbc39b0",
-        "id": "glpgSl8ZQ0-YJOhQsF1ihQ",
-        "slug": "pipe-camp",
-        "views": 138471,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117952499-tgttm_013.jpg",
-        "created": 1402945482,
-        "title_id": "615368",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1719122267,
-        "tags": [
-            "tom goes to the mayor episode 13 pipe camp children"
-        ],
-        "rating_count": 389,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1719547200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952499-tgttm_013.jpg",
         "cma_id": ""
     },
     {

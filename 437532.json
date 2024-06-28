@@ -1,5 +1,54 @@
 [
     {
+        "auth_expiration_date": 1719547140,
+        "tms_id": "EP003034830019",
+        "description": "Fry gets the unexpected when he and Amy spend St. Valentine's Day together.",
+        "title_suggest": {
+            "input": [
+                "Put Your Head on My Shoulder",
+                "Your Head on My Shoulder",
+                "Head on My Shoulder",
+                "on My Shoulder",
+                "My Shoulder",
+                "Shoulder"
+            ]
+        },
+        "title": "Put Your Head on My Shoulder",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1400.9327,
+        "episode_number": "10",
+        "original_air_date": 1044590400,
+        "auth_launch_date": 1718942400,
+        "clip_order": null,
+        "airing_id": "RADS1006152400075519",
+        "media_id": "42e98a6bd8615493518949cb272a7a0e5b4e56c3",
+        "modified": 1718518277,
+        "slug": "put-your-head-on-my-shoulder",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/1_2224145640-Futurama_019_PutYourHeadOnMyShoulder.png",
+        "created": 1643730795,
+        "title_id": "437551",
+        "season_number": "2",
+        "tv_rating": "tv-pg-dl",
+        "published": 1718518277,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_2224145640-Futurama_019_PutYourHeadOnMyShoulder.png",
+        "id": "AX61_XzD208s7zyYUL95",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1719806340,
         "tms_id": "EP003034830023",
         "description": "Fry begins a romance with the new bureaucrat when Hermes is sent away.",
@@ -139,54 +188,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_222161351255-Futurama_021_RagingBender.png",
         "id": "AX7L39lX208s7zyYUMAJ",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1720151940,
-        "tms_id": "EP003034830024",
-        "description": "Professor Farnsworth decides to retire and revives his clone.",
-        "title_suggest": {
-            "input": [
-                "A Clone of My Own",
-                "Clone of My Own",
-                "of My Own",
-                "My Own",
-                "Own"
-            ]
-        },
-        "title": "A Clone of My Own",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1400.9329,
-        "episode_number": "15",
-        "original_air_date": 1045022400,
-        "auth_launch_date": 1719547200,
-        "clip_order": null,
-        "airing_id": "RADS1006222400076268",
-        "media_id": "52656d98241ae6b43a98391ad7e55df8f3e8f186",
-        "modified": 1719122563,
-        "slug": "a-clone-of-my-own",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171658567-Futurama_024_ACloneOfMyOwn.png",
-        "created": 1644969836,
-        "title_id": "437556",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "published": 1719122563,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171658567-Futurama_024_ACloneOfMyOwn.png",
-        "id": "AX7_17_b_0O4w1rD3Rrb",
         "auth": true
     },
     {
