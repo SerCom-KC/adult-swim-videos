@@ -46,7 +46,7 @@
         "launch_date": 1718404200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240610/thumbnails/2_24610135181-NarutoClassic_Ep003_Still_1920x1080_Pillarbox.jpg",
         "id": "AY_9j5lFSaru9Cdsy6vw",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1751687940,
@@ -187,6 +187,54 @@
         "launch_date": 1719009000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241422373-NarutoClassic_Ep004_Still_1920x1080_Pillarbox.jpg",
         "id": "AZAdUJRASaru9Cdsy61C",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "With the threat of failure hanging over their heads, Naruto, Sasuke, and Sakura try everything they know to pass the grueling survival test.",
+        "title_suggest": {
+            "input": [
+                "You Failed! Kakashi's Final Decision",
+                "Failed! Kakashi's Final Decision",
+                "Kakashi's Final Decision",
+                "Final Decision",
+                "Decision"
+            ]
+        },
+        "title": "You Failed! Kakashi's Final Decision",
+        "type": "episode",
+        "expiration_date": 1720823340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1317.3494,
+        "episode_number": "5",
+        "original_air_date": 1128214800,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1006222400076276",
+        "media_id": "1dcf3249f02159f6478606fd16fcbafda2891c59",
+        "modified": 1719253373,
+        "slug": "you-failed-kakashis-final-decision",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/1_246241422497-NarutoClassic_Ep005_Still_1920x1080_Pillarbox.jpg",
+        "created": 1719085298,
+        "title_id": "622459",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "published": 1719253373,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": 1719613800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241422497-NarutoClassic_Ep005_Still_1920x1080_Pillarbox.jpg",
+        "id": "AZBBd_UGg6zBH7G86tga",
         "auth": false
     }
 ]
