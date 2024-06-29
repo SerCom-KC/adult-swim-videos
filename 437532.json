@@ -49,54 +49,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1719633540,
-        "tms_id": "EP003034830020",
-        "description": "The professor hires a robot, who looks exactly like Bender, to guard valuable cargo.",
-        "title_suggest": {
-            "input": [
-                "The Lesser of Two Evils",
-                "Lesser of Two Evils",
-                "of Two Evils",
-                "Two Evils",
-                "Evils"
-            ]
-        },
-        "title": "The Lesser of Two Evils",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.4677,
-        "episode_number": "11",
-        "original_air_date": "1044504000",
-        "auth_launch_date": 1719028800,
-        "clip_order": null,
-        "airing_id": "RADS1006152400075579",
-        "media_id": "bf1ecd7d232adc5255ef71c1ef8d083bd9e40919",
-        "modified": 1718604165,
-        "slug": "the-lesser-of-two-evils",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/1_22241459292-Futurama_020_LesserOfTwoEvils.png",
-        "created": 1644004779,
-        "season_number": "2",
-        "title_id": "437552",
-        "tv_rating": "tv-pg-dl",
-        "published": 1718604165,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241459292-Futurama_020_LesserOfTwoEvils.png",
-        "id": "AX7GUiVe_0O4w1rD3Rmg",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1719719940,
         "tms_id": "EP003034830021",
         "description": "Bender is the featured attraction in the Ultimate Robot Fighting League.",
@@ -187,6 +139,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171658567-Futurama_024_ACloneOfMyOwn.png",
         "id": "AX7_17_b_0O4w1rD3Rrb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1720238340,
+        "tms_id": "EP003034830025",
+        "description": "Bender's giant hook causes the Planet Express to sink.",
+        "title_suggest": {
+            "input": [
+                "The Deep South",
+                "Deep South",
+                "South"
+            ]
+        },
+        "title": "The Deep South",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.1664,
+        "episode_number": "16",
+        "original_air_date": 1045195200,
+        "auth_launch_date": 1719633600,
+        "clip_order": null,
+        "airing_id": "RADS1006232400076332",
+        "media_id": "3e6fad0515f27e16ad51755434b38e69ca94878c",
+        "modified": 1719214597,
+        "slug": "the-deep-south",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171659506-Futurama_025_TheDeepSouth.png",
+        "created": 1644970300,
+        "title_id": "437557",
+        "season_number": "2",
+        "tv_rating": "tv-pg-dl",
+        "published": 1719214597,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171659506-Futurama_025_TheDeepSouth.png",
+        "id": "AX7_3tRp208s7zyYUMGP",
         "auth": true
     },
     {
