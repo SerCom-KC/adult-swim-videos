@@ -184,7 +184,7 @@
         "launch_date": 1719720000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240610/thumbnails/2_246101350166-AS_MAWS_204_TwoLanesDiverged-3.jpg",
         "id": "AY_euT89C2cKYm1ap_-Z",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1719719940,
@@ -234,7 +234,7 @@
         "launch_date": 1719720000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230707/thumbnails/2_2377814468-MAWS_AdventuresofaNormalManPt1.png",
         "id": "AYkdIhG02rZC6NyF6198",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1720324740,
@@ -479,7 +479,7 @@
         "launch_date": 1716696000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782138-MAWS106.png",
         "id": "AYmqaR6COz5CkuTcnwbI",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1718510340,
@@ -763,51 +763,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617727374-AS_MAWS_206_TheMachineWhoWouldBeEmpire-2.jpg",
         "id": "AZAl8-a1g6zBH7G86tgT",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1721534340,
-        "tms_id": "",
-        "description": "Lois and Jimmy recruit mercenaries and mad scientists to help them steal a spaceship out from under the nose of Task Force X!",
-        "title_suggest": {
-            "input": [
-                "Olsen's Eleven",
-                "Eleven"
-            ]
-        },
-        "title": "Olsen's Eleven",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AYj-tDmq2rZC6NyF6196",
-        "duration": 1349.5815,
-        "episode_number": "7",
-        "original_air_date": "1719720000",
-        "auth_launch_date": 1719720000,
-        "clip_order": null,
-        "airing_id": "RADS1006232400076371",
-        "media_id": "70508d01a91e95bc560eefe1aef2ea9b508d6c5e",
-        "modified": 1719185591,
-        "slug": "olsens-eleven",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/1_2461772824-AS_MAWS_207_OlsensEleven-1.jpg",
-        "created": 1718623685,
-        "season_number": "2",
-        "title_id": "2288471",
-        "tv_rating": "tv-pg-v",
-        "published": 1719185591,
-        "tags": [],
-        "collection_title": "My Adventures with Superman",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_2461772824-AS_MAWS_207_OlsensEleven-1.jpg",
-        "id": "AZAl9EpUg6zBH7G86tgU",
         "auth": true
     }
 ]
