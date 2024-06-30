@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 30, 2024 at 02:00:45 EDT_
+_Last Update: June 30, 2024 at 03:00:26 EDT_
 ## Video added
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031627
-**Dragon Ball Z Kai S01E16 - Defeat the Invincible Vegeta! Work a Miracle, Gohan!**  
-TV-PG-LV 🔓 21:01  
-⌛ August 9, 2024 at 17:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/defeat-the-invincible-vegeta-work-a-miracle-gohan  
-seriesid=`2031611` titleid=`2031627` id=`HONHtyryQOGgLhN2O1fCOg` mediaid=`8e06856c5f793d09329a6fc0d6765b31f0a5c280`  
-_Krillin and Gohan team up to blast Vegeta with a Spirit Bomb, but the Saiyan prince refuses to die. Things look bad for the Z-Fighters until Yajirobe distracts the enemy long enough for Gohan to undergo a transformation of his own!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403812561.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403812561.jpg" height="144px" /></a>
+2209292 Demon Slayer: 1  
+### 2436331
+**Demon Slayer S02E13 - Layered Memories**  
+TV-MA-V 🔒 22:06  
+⌛ July 14, 2024 at 03:29:00 EDT  
+https://www.adultswim.com/videos/demon-slayer/layered-memories  
+seriesid=`2209292` titleid=`2436331` id=`AY2eIedL1E7YmWrdXLs2` mediaid=`3f8a6da5b5ccbd33cedef9134cfac19d8dd1637e`  
+_Tanjiro finds his family slaughtered by a demon. Through devastated by this grim reality, Tanjiro becomes a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family._  
+<a href="https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_242201521371-image3.png"><img src="https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_242201521371-image3.png" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2209292 Demon Slayer: 1  
+### 2436327
+**Demon Slayer S02E09 - Infiltrating the Entertainment District**  
+TV-MA-V 🔒 22:50  
+⌛ June 30, 2024 at 02:59:00 EDT  
+https://www.adultswim.com/videos/demon-slayer/infiltrating-the-entertainment-district  
+seriesid=`2209292` titleid=`2436327` id=`AY0dEkwH1E7YmWrdXLlk` mediaid=`82e5fea01f312ccfbed9ba56ff19083f222a18c8`  
+_Tanjiro finds his family slaughtered by a demon. Through devastated by this grim reality, Tanjiro becomes a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family._  
+<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221419115-Screenshot2024-01-22at1.57.08PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221419115-Screenshot2024-01-22at1.57.08PM.png" height="144px" /></a>
