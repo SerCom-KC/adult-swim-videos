@@ -2,16 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 30, 2024 at 05:00:12 EDT_
+_Last Update: June 30, 2024 at 05:30:41 EDT_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2435742
-**One Piece S17E?? - The Rupture Human! Gladius Blows Up Big Time!**  
-TV-PG-LV 🔒 22:00  
-⌛ July 21, 2024 at 04:29:00 EDT  
-https://www.adultswim.com/videos/one-piece/the-rupture-human-gladius-blows-up-big-time  
-seriesid=`608007` titleid=`2435742` id=`AZBK7TpAg6zBH7G86tgb` mediaid=`9f7afa10baf1ba520770466cca969cfecb8ce2c6`  
-_Zoro continues his deadly duel with the nearly indestructible Pica! While the Toy Soldier narrowly escapes Lao G only to come face to face with Gladius! Luffy continues his mad dash to the top of the palace to face Doflamingo!_  
+812206 Naruto: Shippuden: 1  
+### 2177923
+**Naruto: Shippuden S08E77 - Shikamaru's Story, A Cloud Drifting in the Silent Dark, Part 5: Dawn**  
+TV-PG 🔒 20:21  
+⌛ December 16, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/shikamarus-story-a-cloud-drifting-in-the-silent-dark-part-5-dawn  
+seriesid=`812206` titleid=`2177923` id=`AZBK7wyiSaru9Cdsy69E` mediaid=`f8df668257c55420638fdb2c6f6367ef97b760ef`  
+_Ino, Choji, and Temari rush to Shikamaru's aid! Choji takes on Ro, Temari goes after Soku, and Ino goes after Sai! Meanwhile, Shikamaru pursues Gengo._  
 ## Video removed
 No videos were removed.  
