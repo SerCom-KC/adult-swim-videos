@@ -57,7 +57,7 @@
         "cma_id": "1047229"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1726262940,
         "tms_id": "EP012647370011",
@@ -222,61 +222,6 @@
         "launch_date": 1714890600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684023934915.jpg",
         "cma_id": "1052851"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1597463999,
-        "tms_id": "EP012647370016",
-        "description": "Krillin and Gohan team up to blast Vegeta with a Spirit Bomb, but the Saiyan prince refuses to die. Things look bad for the Z-Fighters until Yajirobe distracts the enemy long enough for Gohan to undergo a transformation of his own!",
-        "title_suggest": {
-            "input": [
-                "Defeat the Invincible Vegeta! Work a Miracle, Gohan!",
-                "the Invincible Vegeta! Work a Miracle, Gohan!",
-                "Invincible Vegeta! Work a Miracle, Gohan!",
-                "Vegeta! Work a Miracle, Gohan!",
-                "Work a Miracle, Gohan!",
-                "a Miracle, Gohan!",
-                "Miracle, Gohan!",
-                "Gohan!"
-            ]
-        },
-        "title": "Defeat the Invincible Vegeta! Work a Miracle, Gohan!",
-        "type": "episode",
-        "expiration_date": 1723238940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "duzujScQQRKOubvQENdNag",
-        "duration": 1261.3936,
-        "episode_number": "16",
-        "original_air_date": 1426996800,
-        "clip_order": null,
-        "auth_launch_date": 1556596800,
-        "modified": 1719298722,
-        "airing_id": "RADS1006242400076487",
-        "media_id": "8e06856c5f793d09329a6fc0d6765b31f0a5c280",
-        "id": "HONHtyryQOGgLhN2O1fCOg",
-        "slug": "defeat-the-invincible-vegeta-work-a-miracle-gohan",
-        "views": 1024,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568403812561.jpg",
-        "created": 1426947620,
-        "title_id": "2031627",
-        "tv_rating": "tv-pg-lv",
-        "season_number": "1",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1719298722,
-        "first_published": 1426947620,
-        "tags": [],
-        "collection_title": "Dragon Ball Z Kai",
-        "modified_by": "ODT Listener",
-        "launch_date": 1719727200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403812561.jpg",
-        "cma_id": "1063526"
     },
     {
         "auth": true,
