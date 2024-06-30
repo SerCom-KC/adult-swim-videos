@@ -330,7 +330,7 @@
         "launch_date": 1716710400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240509/thumbnails/2_24591259488-VIZ_EZOM006_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB.png",
         "id": "AY8woNKhC2cKYm1ap_fo",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1719734340,
@@ -380,7 +380,7 @@
         "launch_date": 1719734400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240613/thumbnails/2_246131220453-VIZ_EZOM008_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png",
         "id": "AY_ewOpU5I1d0UhX5iGE",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1720339140,
@@ -449,76 +449,6 @@
         "modified": 1718701731,
         "slug": "hometown-of-the-dead-i",
         "id": "AZAnE52kg6zBH7G86tgX",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1721548740,
-        "created": 1719182828,
-        "tms_id": "EP048369780011",
-        "title_id": "2436460",
-        "season_number": "1",
-        "tv_rating": "tv-ma-sv",
-        "description": "Akira and his friends split up to save the villagers from the massive swarm of zombies. But zombies aren't their only concern as Higurashi and his gang stand in their way!",
-        "title_suggest": {
-            "input": [
-                "Hometown of the Dead II",
-                "of the Dead II",
-                "the Dead II",
-                "Dead II",
-                "II"
-            ]
-        },
-        "published": 1719304554,
-        "title": "Hometown of the Dead II",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "AY6BSlzX5I1d0UhX5iFL",
-        "duration": 0,
-        "episode_number": "",
-        "collection_title": "Zom 100: Bucket List of the Dead",
-        "original_air_date": 1719721800,
-        "auth_launch_date": 1719734400,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1006232400076380",
-        "media_id": "9d0f2af787fbeb62b3b334ba79080aabc782d4e5",
-        "modified": 1719304554,
-        "slug": "hometown-of-the-dead-ii",
-        "id": "AZBHSCLYSaru9Cdsy68O",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1721548740,
-        "created": 1719182828,
-        "tms_id": "EP048369780011",
-        "title_id": "2436460",
-        "season_number": "1",
-        "tv_rating": "tv-ma-sv",
-        "description": "Akira and his friends split up to save the villagers from the massive swarm of zombies. But zombies aren't their only concern as Higurashi and his gang stand in their way!",
-        "title_suggest": {
-            "input": [
-                "Hometown of the Dead II",
-                "of the Dead II",
-                "the Dead II",
-                "Dead II",
-                "II"
-            ]
-        },
-        "published": 1719306349,
-        "title": "Hometown of the Dead II",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "AY6BSlzX5I1d0UhX5iFL",
-        "duration": 1338.8375,
-        "episode_number": "",
-        "collection_title": "Zom 100: Bucket List of the Dead",
-        "original_air_date": 1719721800,
-        "auth_launch_date": 1719734400,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1006232400076380",
-        "media_id": "9d0f2af787fbeb62b3b334ba79080aabc782d4e5",
-        "modified": 1719306349,
-        "slug": "hometown-of-the-dead-ii",
-        "id": "AZBHSCWISaru9Cdsy68P",
         "auth": true
     }
 ]
