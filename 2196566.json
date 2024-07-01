@@ -1,54 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1719806340,
-        "tms_id": "",
-        "description": "Sheriff tries to cheer up Carl by finding him a bald cure. Meanwhile, Tommy feels responsible for jeopardizing an astronaut's life.",
-        "title_suggest": {
-            "input": [
-                "Bald Boyz",
-                "Boyz"
-            ]
-        },
-        "title": "Bald Boyz",
-        "expiration_date": 1716782340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 678.13,
-        "episode_number": "5",
-        "original_air_date": 1575263700,
-        "auth_launch_date": 1716782400,
-        "clip_order": null,
-        "media_id": "062ac1ddf00ad83424ed102439ebf123f0f90a4b",
-        "modified": 1718979317,
-        "airing_id": "RADS1005232400071225",
-        "slug": "bald-boyz",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141034498-MommaNamedMeSheriff_105_dup-20190510.jpg",
-        "created": 1573745694,
-        "season_number": "1",
-        "title_id": "2196571",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1718979317,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1713758400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141034498-MommaNamedMeSheriff_105_dup-20190510.jpg",
-        "id": "AW5qjZWZ1YiBSfg0KYe4",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1720411140,
         "tms_id": "",
         "description": "When Goodman buries his family TV, it rises from the grave, demanding to be entertained.",
@@ -279,7 +231,7 @@
         "launch_date": 1716782400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210121/thumbnails/2_21121119314-MommaNamedMeSheriff_204_Charter.jpg",
         "id": "AXcltU4IQJ_4Uej5kTm_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1712548740,
@@ -459,6 +411,50 @@
         "launch_date": 1717992000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210203/thumbnails/2_212310870-MommaNamedMeSheriff_201_dup-20210202_SheriffAndRoach.jpg",
         "id": "AXdob8BtQJ_4Uej5kTpq",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1714967940,
+        "tms_id": "",
+        "description": "Goodman must leave the country and jump through a series of ridiculous hoops in order to cancel a simple membership subscription.",
+        "title_suggest": {
+            "input": [
+                "Membership"
+            ]
+        },
+        "title": "Membership",
+        "expiration_date": 1722830340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 676.4758,
+        "episode_number": "6",
+        "original_air_date": "1614575700",
+        "auth_launch_date": 1711944000,
+        "clip_order": null,
+        "airing_id": "RADS1006272400077532",
+        "media_id": "035f04dda5cae5557eab3b2dd821be78f6f4419c",
+        "modified": 1719518396,
+        "slug": "membership",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210208/thumbnails/1_2128143306-MommaNamedMeSheriff_206_Membership.jpg",
+        "created": 1612812789,
+        "season_number": "2",
+        "title_id": "2247956",
+        "tv_rating": "tv-ma",
+        "published": 1719518396,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719806400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210208/thumbnails/2_2128143306-MommaNamedMeSheriff_206_Membership.jpg",
+        "id": "AXeDIibJbxpjZvbXYmOi",
         "auth": false
     }
 ]
