@@ -539,6 +539,55 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1720497540,
+        "tms_id": "EP012792980055",
+        "description": "To Tina's delight, Bob becomes the substitute \"Home Ec\" teacher at her school and ends up creating a full-scale restaurant in the classroom. However, her excitement is short-lived as Bob's position causes father/daughter friction. But when Gene and Louise go to work for Bob's \"school\" restaurant, Linda must fend for herself at the family's other restaurant (aka Bob's Burgers).",
+        "title_suggest": {
+            "input": [
+                "Bob and Deliver",
+                "and Deliver",
+                "Deliver"
+            ]
+        },
+        "title": "Bob and Deliver",
+        "type": "episode",
+        "expiration_date": 1667188740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1294.0928,
+        "episode_number": "7",
+        "original_air_date": 1412559000,
+        "clip_order": null,
+        "auth_launch_date": 1719892800,
+        "modified": 1719525021,
+        "media_id": "d494b26dfd04bf3c0821d98be5ab97630a711655",
+        "airing_id": "RADS1006272400077560",
+        "id": "t7ZWm1IkQce4crIKMFrpPA",
+        "slug": "bob-and-deliver",
+        "views": 8388,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187080847379.jpg",
+        "created": 1411571014,
+        "season_number": "4",
+        "title_id": "2030310",
+        "tv_rating": "",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1719525021,
+        "first_published": 1411571014,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1666584000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187080847379.jpg",
+        "cma_id": "1461508"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1720411140,
         "tms_id": "EP012792980054",
         "description": "In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention.",
@@ -583,56 +632,5 @@
         "launch_date": 1666584000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg",
         "cma_id": "2030307"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1719892740,
-        "tms_id": "EP012792980046",
-        "description": "After Bob cuts his finger and faints at the sight of his own blood, Linda brings him to the hospital and leaves the kids home alone. Not ones to waste a golden opportunity, Tina, Gene and Louise transform the basement of the restaurant into a makeshift casino. But they get more than they gamble for when landlord Mr. Fischoeder stops by and catches them in action.",
-        "title_suggest": {
-            "input": [
-                "The Kids Run the Restaurant",
-                "Kids Run the Restaurant",
-                "Run the Restaurant",
-                "the Restaurant",
-                "Restaurant"
-            ]
-        },
-        "expiration_date": 1665374340,
-        "title": "The Kids Run the Restaurant",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.7885,
-        "episode_number": "20",
-        "original_air_date": 1386559800,
-        "clip_order": null,
-        "auth_launch_date": 1719288000,
-        "modified": 1718863725,
-        "media_id": "dbf53cae00ad8e515fcd15b5d88cdd663abb2cc8",
-        "airing_id": "RADS1006202400075977",
-        "id": "xXhbXgStQBmYQ3FeQ7Sm4Q",
-        "slug": "the-kids-run-the-restaurant",
-        "views": 4,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108566392962.jpg",
-        "created": 1403211468,
-        "season_number": "3",
-        "title_id": "2003531",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1718863725,
-        "first_published": 1421641223,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1664769600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566392962.jpg",
-        "cma_id": "1457105"
     }
 ]
