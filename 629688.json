@@ -360,60 +360,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447171320,
-        "auth_expiration_date": 1719979140,
-        "tms_id": "EP007959510010",
-        "rating": 8.219726,
-        "description": "In order to masturbate and still go to heaven, Orel hatches a hair-brained scheme that turns Moralton topsy-turvy.",
-        "title_suggest": {
-            "input": [
-                "God's Chef",
-                "Chef"
-            ]
-        },
-        "type": "episode",
-        "title": "God's Chef",
-        "expiration_date": 1716955140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 675.9342676,
-        "episode_number": "2",
-        "original_air_date": 1154319300,
-        "clip_order": null,
-        "auth_launch_date": 1716955200,
-        "modified": 1716532098,
-        "media_id": "8ffe9e30a53b7ac44d11272bade847238eeedf7d",
-        "airing_id": "RADS1005232400071393",
-        "id": "BLXOHqdmTW2J0DxaG10GBA",
-        "slug": "gods-chef",
-        "views": 262490,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311155165-moralorel_002.jpg",
-        "created": 1402945470,
-        "title_id": "630819",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1716532098,
-        "tags": [
-            "moral orel episode 2 god's chef masturbation"
-        ],
-        "rating_count": 933,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1713931200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155165-moralorel_002.jpg",
-        "cma_id": "1313723"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447171500,
         "auth_expiration_date": 1697601540,
@@ -465,6 +411,57 @@
         "launch_date": 1717560000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111552582-moralorel_008.jpg",
         "cma_id": "1340189"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447171860,
+        "auth_expiration_date": 1699419540,
+        "tms_id": "EP007959510012",
+        "rating": 7.5067263,
+        "description": "Orel's new pet puppy becomes a serious threat to the town and its beliefs.",
+        "title_suggest": {
+            "input": [
+                "Love"
+            ]
+        },
+        "type": "episode",
+        "title": "Love",
+        "expiration_date": 1723003140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 703.2002002,
+        "episode_number": "2",
+        "original_air_date": 1163999700,
+        "clip_order": null,
+        "auth_launch_date": 1696392000,
+        "modified": 1719556786,
+        "media_id": "8787b87a194def89acb1b3f1d159db0c9489827c",
+        "airing_id": "RADS1006272400077681",
+        "id": "JBzCcGdLTIuk8AwgPIb5Uw",
+        "slug": "love",
+        "views": 159129,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111555101-moralorel_028.jpg",
+        "created": 1402945470,
+        "title_id": "653308",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1719556786,
+        "tags": [],
+        "rating_count": 446,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719979200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111555101-moralorel_028.jpg",
+        "cma_id": "1357006"
     },
     {
         "auth": false,
@@ -586,7 +583,7 @@
         "cma_id": "1349065"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171440,
         "auth_expiration_date": 1723003140,
         "tms_id": "EP007959510006",
