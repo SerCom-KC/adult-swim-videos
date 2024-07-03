@@ -319,60 +319,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1451659140,
-        "auth_expiration_date": 1719979140,
-        "tms_id": "EP004625740015",
-        "rating": 8.936124,
-        "description": "Brak raps his way into a rap contest with a badass rapper. Cee-lo guest stars.",
-        "title_suggest": {
-            "input": [
-                "Brak Street",
-                "Street"
-            ]
-        },
-        "type": "episode",
-        "title": "Brak Street",
-        "expiration_date": 1716955140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
-        "duration": 691.6339673,
-        "episode_number": "9",
-        "original_air_date": 1036384200,
-        "clip_order": null,
-        "auth_launch_date": 1716955200,
-        "modified": 1716532098,
-        "airing_id": "RADS1004182400065835",
-        "media_id": "6aea488d0a0fcc85c37dc0e0363c07fde7805d03",
-        "id": "j3yAm1U9ROSvfIDSqbEw9Q",
-        "slug": "brak-street",
-        "views": 127636,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_2032143023-brak_2209.jpg",
-        "created": 1402945478,
-        "title_id": "434934",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1716532098,
-        "tags": [
-            "brak show episode 18 brak street rapper cee-lo guest star contest battle"
-        ],
-        "rating_count": 454,
-        "collection_title": "The Brak Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1713931200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032143023-brak_2209.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1451672460,
         "auth_expiration_date": 1723003140,
         "tms_id": "EP004625740050",
@@ -423,6 +369,60 @@
         "modified_by": "ODT Listener",
         "launch_date": 1716955200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321417420-brak_2103.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451673660,
+        "auth_expiration_date": 1719374340,
+        "tms_id": "EP004625740014",
+        "rating": 8.4886055,
+        "description": "Dad gets upset with the neighborhood association and decides to run for its presidency. With the help of Brak and Zorak, he puts an ad in the newspaper filled with lies about the current president, Galrog. In retaliation, Galrog challenges Dad to a public debate.",
+        "title_suggest": {
+            "input": [
+                "President Dad",
+                "Dad"
+            ]
+        },
+        "type": "episode",
+        "title": "President Dad",
+        "expiration_date": 1723003140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
+        "duration": 687.333667,
+        "episode_number": "4",
+        "original_air_date": 1022470200,
+        "clip_order": null,
+        "auth_launch_date": 1716350400,
+        "modified": 1719554657,
+        "airing_id": "RADS1006272400077677",
+        "media_id": "cf6195ba06dd46765db861ee6d8b7803df99199b",
+        "id": "mccXjb2PR8mGvHrJRsWTHg",
+        "slug": "president-dad",
+        "views": 129287,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321428163-brak_2204.jpg",
+        "created": 1402945478,
+        "title_id": "417618",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1719554657,
+        "tags": [
+            "brak show episode 13 president dad neighborhood association debate galrog"
+        ],
+        "rating_count": 395,
+        "collection_title": "The Brak Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719979200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg",
         "cma_id": ""
     },
     {

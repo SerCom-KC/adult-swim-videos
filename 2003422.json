@@ -1,5 +1,56 @@
 [
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1720583940,
+        "tms_id": "EP012792980056",
+        "description": "After Linda accidentally kills the family tree, the Belchers must go out on Christmas day to find a new one. But when Bob cuts off a giant candy cane truck, they are forced to outrun the madman driver and spend the entire holiday together in the car. Back at the Belcher home, Bob's friend, Teddy, accidentally gets stuck in the kids' Santa trap.",
+        "title_suggest": {
+            "input": [
+                "Christmas in the Car",
+                "in the Car",
+                "the Car",
+                "Car"
+            ]
+        },
+        "title": "Christmas in the Car",
+        "type": "episode",
+        "expiration_date": 1667188740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1279.0778,
+        "episode_number": "8",
+        "original_air_date": 1418007600,
+        "clip_order": null,
+        "auth_launch_date": 1719979200,
+        "modified": 1719557399,
+        "media_id": "1c587f08924446c27f2a63d3f17f2515d48165e7",
+        "airing_id": "RADS1006272400077624",
+        "id": "7gKdRuZjTkCI5ssSOXqjjw",
+        "slug": "christmas-in-the-car",
+        "views": 6424,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15242349427221.jpg",
+        "created": 1411571057,
+        "season_number": "4",
+        "title_id": "2030309",
+        "tv_rating": "",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1719557399,
+        "first_published": 1411571057,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1666584000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15242349427221.jpg",
+        "cma_id": "1461456"
+    },
+    {
         "auth_expiration_date": 1713585540,
         "tms_id": "",
         "description": "A pig stir in science class.",
@@ -295,55 +346,6 @@
         "launch_date": 1665374400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085673348710.jpg",
         "cma_id": "2003534"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1719979140,
-        "tms_id": "EP012792980047",
-        "description": "While accompanying Tina to a \"Boyz 4 Now\" concert, Louise develops a crush on one of the lead singers, Boo Boo - and is in disbelief that she actually likes a boy! Meanwhile, Gene gets creative - and slightly offensive - in a table-setting competition.",
-        "title_suggest": {
-            "input": [
-                "Boyz 4 Now",
-                "4 Now",
-                "Now"
-            ]
-        },
-        "expiration_date": 1665374340,
-        "title": "Boyz 4 Now",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1274.5066,
-        "episode_number": "21",
-        "original_air_date": 1387162800,
-        "clip_order": null,
-        "auth_launch_date": 1719374400,
-        "modified": 1718951957,
-        "media_id": "14eb907f07e59045536435cb58e0cefe511bf4cc",
-        "airing_id": "RADS1006202400076041",
-        "id": "gtRZo4IdTRmH_yZVYJEfPw",
-        "slug": "boyz-4-now",
-        "views": 4,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15108566624153.jpg",
-        "created": 1403211499,
-        "season_number": "3",
-        "title_id": "2003532",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1718951957,
-        "first_published": 1422246027,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1664769600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566624153.jpg",
-        "cma_id": "2003532"
     },
     {
         "auth": true,

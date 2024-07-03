@@ -515,7 +515,7 @@
         "launch_date": 1719979200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210721/thumbnails/2_21721164696-2_2116164669-timanderic_chrimbus2010.jpeg",
         "id": "AXrJeCNeeTntnGIjub0m",
-        "auth": true
+        "auth": false
     },
     {
         "auth": false,
@@ -1926,7 +1926,7 @@
         "cma_id": "1334329"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447785060,
         "auth_expiration_date": 1748404740,
         "tms_id": "EP008994530047",
