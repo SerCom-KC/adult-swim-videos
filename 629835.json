@@ -115,56 +115,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1720065540,
-        "tms_id": "EP002070020041",
-        "rating": 7.3137255,
-        "description": "Hank decides to breed Lady Bird. Dale applies for a bounty hunter's license.",
-        "title_suggest": {
-            "input": [
-                "Pregnant Paws",
-                "Paws"
-            ]
-        },
-        "type": "episode",
-        "title": "Pregnant Paws",
-        "expiration_date": 1501126199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1402.2343,
-        "episode_number": "4",
-        "original_air_date": 1239328800,
-        "clip_order": null,
-        "auth_launch_date": 1719460800,
-        "modified": 1719040590,
-        "media_id": "d9e00158c4f184a14564ba6d70c207af97e7789f",
-        "airing_id": "RADS1006212400076202",
-        "id": "SKm5988iQk6w4YUMmnPMCg",
-        "slug": "pregnant-paws",
-        "views": 100137,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220707/thumbnails/1_227794172-KingOfTheHill_302_PregnantPaws.png",
-        "created": 1402945468,
-        "title_id": "728863",
-        "season_number": "3",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "published": 1719040590,
-        "tags": [
-            "king of the hill koth episode 302 pregnant paws lady bird breed dale bounty hunter"
-        ],
-        "rating_count": 153,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1500521400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220707/thumbnails/2_227794172-KingOfTheHill_302_PregnantPaws.png",
-        "cma_id": "1436614"
-    },
-    {
-        "auth": true,
         "auth_expiration_date": 1720324740,
         "tms_id": "EP002070020044",
         "rating": 8.167365,
@@ -213,6 +163,67 @@
         "launch_date": 1500813000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761719258-KingOfTheHill_308_NinePrettyDarnAngryMen.png",
         "cma_id": "1437795"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1720670340,
+        "tms_id": "EP002070020045",
+        "rating": 8.6384,
+        "description": "Bill becomes suicidal when the Christmas holiday reminds him of his break-up with Lenore.",
+        "title_suggest": {
+            "input": [
+                "Pretty, Pretty Dresses",
+                "Pretty Dresses",
+                "Dresses"
+            ]
+        },
+        "type": "episode",
+        "title": "Pretty, Pretty Dresses",
+        "expiration_date": 1501504199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1401.8004,
+        "episode_number": "9",
+        "original_air_date": 1239674400,
+        "clip_order": null,
+        "auth_launch_date": 1720065600,
+        "modified": 1719647238,
+        "media_id": "24828a466aba3e7cd8b8c4e1a9c1e41c856495e3",
+        "airing_id": "RADS1006282400077749",
+        "id": "VW3krnLeQfCs4VkiO28e3g",
+        "slug": "pretty-pretty-dresses",
+        "views": 226644,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220713/thumbnails/1_227131216497-aslogothumbnail.png",
+        "created": 1402945468,
+        "title_id": "731251",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "published": 1719647238,
+        "tags": [
+            "king of the hill",
+            "season 3",
+            "episode 10",
+            "pretty pretty dresses",
+            "bill",
+            "suicide",
+            "suicidal",
+            "christmas",
+            "holiday",
+            "break-up",
+            "lenore"
+        ],
+        "rating_count": 401,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1500899400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220713/thumbnails/2_227131216497-aslogothumbnail.png",
+        "cma_id": "1438174"
     },
     {
         "auth": true,
