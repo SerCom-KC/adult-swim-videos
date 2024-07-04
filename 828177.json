@@ -530,7 +530,7 @@
         "launch_date": 1680580800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568180531328.jpg",
         "id": "AWp1AvclHl5gR6828zYR",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1557757800,
@@ -2479,7 +2479,7 @@
         "cma_id": "1458430"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1494268140,
         "auth_expiration_date": 1720065540,
         "tms_id": "EP013726210033",
