@@ -213,59 +213,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1451681760,
-        "auth_expiration_date": 1702616340,
-        "tms_id": "EP007008200003",
-        "rating": 7.7826085,
-        "description": "Tom proposes a World War II-themed restaurant, but the Mayor's nephew turns it into an arcade/pizza parlor that veers far from his original vision.",
-        "title_suggest": {
-            "input": [
-                "WW Laserz",
-                "Laserz"
-            ]
-        },
-        "type": "episode",
-        "title": "WW Laserz",
-        "expiration_date": 1720151940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 695.03,
-        "episode_number": "3",
-        "original_air_date": 1101097800,
-        "clip_order": null,
-        "auth_launch_date": 1699592400,
-        "modified": 1713678143,
-        "airing_id": "RADS1004192400066026",
-        "media_id": "47092b374778aab28d4e26e9a39515a5fb93dc16",
-        "id": "LIeGI_YTT3KeyCqV508ZsA",
-        "slug": "ww-laserz",
-        "views": 102304,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211783543-tgttm_003.jpg",
-        "created": 1402945482,
-        "title_id": "607108",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1713678143,
-        "tags": [
-            "tom goes to the mayor tgttm episode 3 ww laserz pizza restaurant nephew"
-        ],
-        "rating_count": 322,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1714104000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211783543-tgttm_003.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1451681940,
         "auth_expiration_date": 1688702340,
         "tms_id": "EP007008200012",
@@ -314,6 +261,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1718337600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117837116-tgttm_010.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451681940,
+        "auth_expiration_date": 1690516740,
+        "tms_id": "EP007008200009",
+        "rating": 8.152818,
+        "description": "Tom tries to start a consulting business in Jefferton but is denied by City Council until his family becomes registered.",
+        "title_suggest": {
+            "input": [
+                "Re-Birth"
+            ]
+        },
+        "type": "episode",
+        "title": "Re-Birth",
+        "expiration_date": 1726199940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 708.91,
+        "episode_number": "9",
+        "original_air_date": 1118031300,
+        "clip_order": null,
+        "auth_launch_date": 1687492800,
+        "modified": 1719768500,
+        "airing_id": "RADS1006302400077860",
+        "media_id": "63903d39e4b926cace8adcb33098f71196db2cbf",
+        "id": "_aEKJkhaTx-Tb4wuQMQXfA",
+        "slug": "re-birth",
+        "views": 134942,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117836571-tgttm_009.jpg",
+        "created": 1402945482,
+        "title_id": "612758",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1719768500,
+        "tags": [
+            "tom goes to the mayor tgttm episode 9 rebirth consulting"
+        ],
+        "rating_count": 373,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1720152000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836571-tgttm_009.jpg",
         "cma_id": ""
     },
     {
