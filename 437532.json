@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1720151940,
-        "tms_id": "EP003034830024",
-        "description": "Professor Farnsworth decides to retire and revives his clone.",
-        "title_suggest": {
-            "input": [
-                "A Clone of My Own",
-                "Clone of My Own",
-                "of My Own",
-                "My Own",
-                "Own"
-            ]
-        },
-        "title": "A Clone of My Own",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1400.9329,
-        "episode_number": "15",
-        "original_air_date": 1045022400,
-        "auth_launch_date": 1719547200,
-        "clip_order": null,
-        "airing_id": "RADS1006222400076268",
-        "media_id": "52656d98241ae6b43a98391ad7e55df8f3e8f186",
-        "modified": 1719122563,
-        "slug": "a-clone-of-my-own",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171658567-Futurama_024_ACloneOfMyOwn.png",
-        "created": 1644969836,
-        "title_id": "437556",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "published": 1719122563,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171658567-Futurama_024_ACloneOfMyOwn.png",
-        "id": "AX7_17_b_0O4w1rD3Rrb",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1720238340,
         "tms_id": "EP003034830025",
         "description": "Bender's giant hook causes the Planet Express to sink.",
@@ -229,6 +181,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223941229-Futurama_027_TheProblemWithPopplers.png",
         "id": "AX8IgmO-208s7zyYUMHh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1720756740,
+        "tms_id": "EP003034830029",
+        "description": "The professor invents a what if machine.",
+        "title_suggest": {
+            "input": [
+                "Anthology of Interest I",
+                "of Interest I",
+                "Interest I",
+                "I"
+            ]
+        },
+        "title": "Anthology of Interest I",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.4678,
+        "episode_number": "20",
+        "original_air_date": 1045713600,
+        "auth_launch_date": 1720152000,
+        "clip_order": null,
+        "airing_id": "RADS1006302400077851",
+        "media_id": "a5a2c57b1a8ced5557b66964ba848150d534c459",
+        "modified": 1719768500,
+        "slug": "anthology-of-interest-i",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311141413-Futurama_29_AnthologyOfInterest1.png",
+        "created": 1645835125,
+        "title_id": "437692",
+        "season_number": "2",
+        "tv_rating": "tv-pg-lv",
+        "published": 1719768500,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311141413-Futurama_29_AnthologyOfInterest1.png",
+        "id": "AX8zawNn_0O4w1rD3Rv2",
         "auth": true
     }
 ]
