@@ -933,7 +933,7 @@
     },
     {
         "ott_launch_date": 1509982140,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1720238340,
         "tms_id": "EP007008180110",
         "description": "Early's most confusing conspiracy theory turns out to be false.",
@@ -1037,7 +1037,7 @@
     },
     {
         "ott_launch_date": 1511191740,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1720843140,
         "tms_id": "EP007008180112",
         "description": "Early exploits himself for attention.",
@@ -2824,7 +2824,7 @@
         "launch_date": 1720238400,
         "poster": "https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114173-Squidbillies_1104_WhoGivesAFlip.png",
         "id": "AX05Eu-d4Xbjep71f6Hh",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1719028740,
@@ -3105,7 +3105,7 @@
         "launch_date": 1717214400,
         "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181526461-Squidbillies_1109_OneManBanned.png",
         "id": "AXzIE4_-4Xbjep71f6HV",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1717819140,
@@ -5657,7 +5657,7 @@
         "cma_id": "1294181"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447445520,
         "auth_expiration_date": 1720843199,
         "tms_id": "EP007008180066",
@@ -6061,7 +6061,7 @@
         "cma_id": "1356208"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447445520,
         "auth_expiration_date": 1720238340,
         "tms_id": "EP007008180065",
