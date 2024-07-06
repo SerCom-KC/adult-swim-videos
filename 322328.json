@@ -1588,7 +1588,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": null,
+        "auth_expiration_date": 1721188740,
         "tms_id": "EP001022180097",
         "description": "Pursuing a movie career, Space Ghost seeks advice from the director of 'Mall Rats,' Kevin Smith, and actor Ben Stiller. Hollywood director Jim Jarmusch also makes an appearance.",
         "title_suggest": {
@@ -1610,11 +1610,11 @@
         "duration": 710.5432,
         "episode_number": "8",
         "original_air_date": "937623600",
-        "auth_launch_date": null,
+        "auth_launch_date": 1720584000,
         "clip_order": null,
-        "airing_id": "RADS1005112400069859",
+        "airing_id": "RADS1007062400079130",
         "media_id": "ecde579451db751f82f87139c9e40cd5dc2f28c0",
-        "modified": 1715461304,
+        "modified": 1720282013,
         "slug": "rio-ghosto",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420114797-sgc2c_9808_air_cid-9131900.jpg",
@@ -1622,7 +1622,7 @@
         "season_number": "5",
         "title_id": "326191",
         "tv_rating": "tv-pg",
-        "published": 1715461304,
+        "published": 1720282013,
         "tags": [
             "sgc2c space ghost coast to coast episode 64 rio ghosto mallrats kevin smith ben stiller jim jarmusch"
         ],
