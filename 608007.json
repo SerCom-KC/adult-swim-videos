@@ -101,7 +101,7 @@
         "launch_date": 1719131400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241421585-Screenshot2024-06-24at2.20.15PM.png",
         "id": "AY-_uJS7C2cKYm1ap_4g",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1720411140,
@@ -403,7 +403,7 @@
         "launch_date": 1720341000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241428324-Screenshot2024-06-24at2.27.30PM.png",
         "id": "AZAEnsXMg6zBH7G86tgR",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1720945740,
@@ -456,6 +456,42 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241430482-Screenshot2024-06-24at2.30.14PM.png",
         "id": "AZAnGd0Zg6zBH7G86tgY",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1722155340,
+        "created": 1719943676,
+        "tms_id": "",
+        "title_id": "2435743",
+        "season_number": "17",
+        "tv_rating": "tv-pg-lv",
+        "description": "With the Tontattas beaten, Robin turned into a toy, and Luffy, Franky, and the others busy elsewhere, Usopp is the last hope for Operation SOP! But will he be able to muster the confidence and courage to face the terrible Trebol?",
+        "title_suggest": {
+            "input": [
+                "A Liar! Usoland on the Run!",
+                "Liar! Usoland on the Run!",
+                "Usoland on the Run!",
+                "on the Run!",
+                "the Run!",
+                "Run!"
+            ]
+        },
+        "published": 1720033733,
+        "title": "A Liar! Usoland on the Run!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.4858,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1720328400,
+        "auth_launch_date": 1720341000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007022400078438",
+        "media_id": "51e972c2e176ee150250bc498883a41c5cd5373a",
+        "modified": 1720033733,
+        "slug": "a-liar-usoland-on-the-run",
+        "id": "AZB0ocHtg6zBH7G86tgf",
         "auth": true
     },
     {
