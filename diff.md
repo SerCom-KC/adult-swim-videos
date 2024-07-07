@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 7, 2024 at 03:30:54 EDT_
+_Last Update: July 7, 2024 at 04:30:13 EDT_
 ## Video added
 ### Summary
-2209292 Demon Slayer: 1  
-### 2436333
-**Demon Slayer S02E15 - Gathering**  
-TV-MA-V 🔒 22:13  
-⌛ August 6, 2024 at 03:29:00 EDT  
-https://www.adultswim.com/videos/demon-slayer/gathering  
-seriesid=`2209292` titleid=`2436333` id=`AY3omY6AC2cKYm1ap-2N` mediaid=`74bb02a362b1b35f0d839786ecb553a8a17c5c31`  
-_Tanjiro finds his family slaughtered by a demon. Through devastated by this grim reality, Tanjiro becomes a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family._  
-<a href="https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_24341130375-image.png"><img src="https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_24341130375-image.png" height="144px" /></a>
+2436449 Zom 100: Bucket List of the Dead: 1  
+### 2436461
+**Zom 100: Bucket List of the Dead S01E12 - Hometown of the Dead III**  
+TV-MA-V 🔒 23:47  
+⌛ July 28, 2024 at 03:59:00 EDT  
+https://www.adultswim.com/videos/zom-100-bucket-list-of-the-dead/hometown-of-the-dead-iii  
+seriesid=`2436449` titleid=`2436461` id=`AZBvc_KSg6zBH7G86tgc` mediaid=`35ea3e4da6e702839c61f5570f382eb8595a9f6c`  
+_In order to save his father, Akira has to become a zombie. Faced with the ultimate choice, what will he choose to do? Will Akira and his friends have to give up on their list of 100 things they want to do before becoming zombies?_  
+<a href="https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_2471145492-VIZ_EZOM012_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png"><img src="https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_2471145492-VIZ_EZOM012_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
