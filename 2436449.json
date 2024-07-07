@@ -45,7 +45,7 @@
         "launch_date": 1719129600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240613/thumbnails/2_246131220238-VIZ_EZOM007_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png",
         "id": "AY-_t9Z2C2cKYm1ap_4f",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1724471940,
@@ -427,7 +427,7 @@
         "launch_date": 1720339200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_24711452210-VIZ_EZOM009_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png",
         "id": "AZAEneI7Saru9Cdsy6wu",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1720943940,
@@ -523,6 +523,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_24711453459-VIZ_EZOM011_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png",
         "id": "AZBHSCLYSaru9Cdsy68O",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1722153540,
+        "tms_id": "EP048369780012",
+        "description": "In order to save his father, Akira has to become a zombie. Faced with the ultimate choice, what will he choose to do? Will Akira and his friends have to give up on their list of 100 things they want to do before becoming zombies?",
+        "title_suggest": {
+            "input": [
+                "Hometown of the Dead III",
+                "of the Dead III",
+                "the Dead III",
+                "Dead III",
+                "III"
+            ]
+        },
+        "title": "Hometown of the Dead III",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AY6BSlzX5I1d0UhX5iFL",
+        "duration": 1427.8264,
+        "episode_number": "12",
+        "original_air_date": 1720326600,
+        "auth_launch_date": 1720339200,
+        "clip_order": null,
+        "airing_id": "RADS1007012400078358",
+        "media_id": "35ea3e4da6e702839c61f5570f382eb8595a9f6c",
+        "modified": 1720034035,
+        "slug": "hometown-of-the-dead-iii",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/1_2471145492-VIZ_EZOM012_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png",
+        "created": 1719856788,
+        "title_id": "2436461",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1720034035,
+        "tags": [],
+        "collection_title": "Zom 100: Bucket List of the Dead",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_2471145492-VIZ_EZOM012_JA_SIMULCAST_THUMBNAIL_1920x1080_72ppi_RGB1.png",
+        "id": "AZBvc_KSg6zBH7G86tgc",
         "auth": true
     }
 ]
