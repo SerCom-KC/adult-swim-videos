@@ -621,7 +621,7 @@
         "launch_date": 1717300800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_2387822115-AS_MAWS_07_KissKissFallInPortal-5.jpg",
         "id": "AYnP8uWL2rZC6NyF61-Y",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1719115140,
@@ -808,6 +808,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_2461772824-AS_MAWS_207_OlsensEleven-1.jpg",
         "id": "AZAl9EpUg6zBH7G86tgU",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1722139140,
+        "tms_id": "",
+        "description": "Lois and Jimmy confront Kara and make a plan to rescue Clark. Meanwhile, Brainiac delves into Superman's mind to figure out what makes him tick\u2026and how to tear him apart!",
+        "title_suggest": {
+            "input": [
+                "The Death of Clark Kent",
+                "Death of Clark Kent",
+                "of Clark Kent",
+                "Clark Kent",
+                "Kent"
+            ]
+        },
+        "title": "The Death of Clark Kent",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1359.9586,
+        "episode_number": "8",
+        "original_air_date": "1720324800",
+        "auth_launch_date": 1720324800,
+        "clip_order": null,
+        "airing_id": "RADS1007012400078349",
+        "media_id": "a2aea902155393b8c973cb770f28843812e94ccf",
+        "modified": 1719858863,
+        "slug": "the-death-of-clark-kent",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/1_24617742514-AS_MAWS_208_TheDeathofClarkKent-2.jpg",
+        "created": 1718624574,
+        "season_number": "2",
+        "title_id": "2288472",
+        "tv_rating": "tv-pg-v",
+        "published": 1719858863,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617742514-AS_MAWS_208_TheDeathofClarkKent-2.jpg",
+        "id": "AZAmAdq_g6zBH7G86tgV",
         "auth": true
     }
 ]
