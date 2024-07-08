@@ -1,97 +1,5 @@
 [
     {
-        "auth_expiration_date": 1720411140,
-        "tms_id": "EP003034830028",
-        "description": "Mom wants world domination for a Mother's Day gift.",
-        "title_suggest": {
-            "input": [
-                "Mother's Day",
-                "Day"
-            ]
-        },
-        "title": "Mother's Day",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1412.1107,
-        "episode_number": "19",
-        "original_air_date": "1045540800",
-        "auth_launch_date": 1719806400,
-        "clip_order": null,
-        "airing_id": "RADS1006272400077535",
-        "media_id": "49e88b0f3abe67cb9a384ee4099551aec05421c6",
-        "modified": 1719519858,
-        "slug": "mothers-day",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223942230-Futurama_028_MothersDay.png",
-        "created": 1645115229,
-        "season_number": "2",
-        "title_id": "437690",
-        "tv_rating": "tv-14-dls",
-        "published": 1719519858,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223942230-Futurama_028_MothersDay.png",
-        "id": "AX8IgkOQ_0O4w1rD3RsV",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1720411140,
-        "tms_id": "EP003034830027",
-        "description": "The crew discovers an irresistible source of food on a new planet.",
-        "title_suggest": {
-            "input": [
-                "The Problem with Popplers",
-                "Problem with Popplers",
-                "with Popplers",
-                "Popplers"
-            ]
-        },
-        "title": "The Problem with Popplers",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.133,
-        "episode_number": "18",
-        "original_air_date": "1045627200",
-        "auth_launch_date": 1719806400,
-        "clip_order": null,
-        "airing_id": "RADS1006272400077537",
-        "media_id": "e6ee90d1efc9770f76d75b97101e0138b323a099",
-        "modified": 1719519860,
-        "slug": "the-problem-with-popplers",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223941229-Futurama_027_TheProblemWithPopplers.png",
-        "created": 1645115237,
-        "season_number": "2",
-        "title_id": "437691",
-        "tv_rating": "tv-pg-l",
-        "published": 1719519860,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223941229-Futurama_027_TheProblemWithPopplers.png",
-        "id": "AX8IgmO-208s7zyYUMHh",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1720756740,
         "tms_id": "EP003034830029",
         "description": "The professor invents a what if machine.",
@@ -228,6 +136,97 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311143582-Futurama_031_WarIsTheHWord.png",
         "id": "AX9BdqNO208s7zyYUMOC",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1721015940,
+        "tms_id": "EP003034830032",
+        "description": "Fry and Bender's behavior causes all the Planet Express crewmen to lose their jobs.",
+        "title_suggest": {
+            "input": [
+                "The Cryonic Woman",
+                "Cryonic Woman",
+                "Woman"
+            ]
+        },
+        "title": "The Cryonic Woman",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.2969,
+        "episode_number": "3",
+        "original_air_date": 1046145600,
+        "auth_launch_date": 1720411200,
+        "clip_order": null,
+        "airing_id": "RADS1007032400078963",
+        "media_id": "1921edc1d508802c619bd78a2dde6fbb8e8584cc",
+        "modified": 1720045786,
+        "slug": "the-cryonic-woman",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220311/thumbnails/1_22311135329-Cryonic.png",
+        "created": 1646438107,
+        "title_id": "437695",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dv",
+        "published": 1720045786,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220311/thumbnails/2_22311135329-Cryonic.png",
+        "id": "AX9XW8sQ_0O4w1rD3RyJ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1721015940,
+        "tms_id": "EP003034830035",
+        "description": "Fry eats a sandwich infested with worms that make him stronger and smarter.",
+        "title_suggest": {
+            "input": [
+                "Parasites Lost",
+                "Lost"
+            ]
+        },
+        "title": "Parasites Lost",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.3302,
+        "episode_number": "4",
+        "original_air_date": 1046318400,
+        "auth_launch_date": 1720411200,
+        "clip_order": null,
+        "airing_id": "RADS1007032400078965",
+        "media_id": "6594558ba504bee39e84e5d73565857a8ec690cb",
+        "modified": 1720045787,
+        "slug": "parasites-lost",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_223911255-Futurama_033_ParasitesLost.png",
+        "created": 1646662623,
+        "title_id": "437696",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dlv",
+        "published": 1720045787,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_223911255-Futurama_033_ParasitesLost.png",
+        "id": "AX9kvZ9l_0O4w1rD3Ryv",
         "auth": true
     }
 ]
