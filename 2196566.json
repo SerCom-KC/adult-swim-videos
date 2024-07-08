@@ -1,53 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1720411140,
-        "tms_id": "",
-        "description": "When Goodman buries his family TV, it rises from the grave, demanding to be entertained.",
-        "title_suggest": {
-            "input": [
-                "TV"
-            ]
-        },
-        "title": "TV",
-        "expiration_date": 1717387140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 678.96,
-        "episode_number": "6",
-        "original_air_date": 1575867600,
-        "auth_launch_date": 1717387200,
-        "clip_order": null,
-        "media_id": "04e533a0e1a0d8e9ff45a3c821af486e7f597683",
-        "modified": 1717113017,
-        "airing_id": "RADS1004222400066272",
-        "slug": "tv",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg",
-        "created": 1573745721,
-        "season_number": "1",
-        "title_id": "2196572",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1717113017,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1714363200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141035140-MommaNamedMeSheriff_106_dup-20190514.jpg",
-        "id": "AW5qjgBaadNs2hMNfugG",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1721015940,
         "tms_id": "",
         "description": "When Sheriff confesses to his secret encounters with \"Sunday Man\", a man made of ice-cream, Sheriff finds that the truth is hard to swallow.",
@@ -276,7 +229,7 @@
         "launch_date": 1717387200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210128/thumbnails/2_211281426175-MommaNamedMeSheriff_207_dup-20210121_GoodGuys.jpg",
         "id": "AXdKdfpDQJ_4Uej5kTon",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1714363140,
@@ -455,6 +408,50 @@
         "launch_date": 1719806400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210208/thumbnails/2_2128143306-MommaNamedMeSheriff_206_Membership.jpg",
         "id": "AXeDIibJbxpjZvbXYmOi",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1715572740,
+        "tms_id": "",
+        "description": "Goodman must leave the country and jump through a series of ridiculous hoops in order to cancel a simple membership subscription.",
+        "title_suggest": {
+            "input": [
+                "Election"
+            ]
+        },
+        "title": "Election",
+        "expiration_date": 1747108740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 676.2422,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1712548800,
+        "clip_order": null,
+        "airing_id": "RADS1007032400078972",
+        "media_id": "d9babfd82dc625cc1d9dc113ff11df091ad4914b",
+        "modified": 1720044894,
+        "slug": "election",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210217/thumbnails/1_21217855462-MommaNamedMeSheriff_205_Election.jpg",
+        "created": 1613570149,
+        "season_number": "2",
+        "title_id": "2247957",
+        "tv_rating": "tv-ma-s",
+        "published": 1720044894,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1720411200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg",
+        "id": "AXewRoxkbxpjZvbXYmTh",
         "auth": false
     }
 ]
