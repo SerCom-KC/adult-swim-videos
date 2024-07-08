@@ -30,5 +30,37 @@
         "slug": "the-facility",
         "id": "AZB6KFFoSaru9Cdsy7Dv",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1729655940,
+        "created": 1720036483,
+        "tms_id": "",
+        "title_id": "2530045",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "description": "Kydd and Felixx finally take down an alien! That looks eerily like an old man\u2026 but it's not actually an old man\u2026.is it?",
+        "title_suggest": {
+            "input": [
+                "Alien Autopsy",
+                "Autopsy"
+            ]
+        },
+        "published": 1720045496,
+        "title": "Alien Autopsy",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.5265,
+        "episode_number": "2",
+        "collection_title": "Psi-Cops",
+        "original_air_date": 1720412100,
+        "auth_launch_date": 1720412100,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007032400078954",
+        "media_id": "818c762599cfca54853442d1fb0b20e2581f1069",
+        "modified": 1720045496,
+        "slug": "alien-autopsy",
+        "id": "AZB6Kd_Ng6zBH7G86tgg",
+        "auth": true
     }
 ]
