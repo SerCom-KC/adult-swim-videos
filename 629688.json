@@ -297,6 +297,57 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447172040,
+        "auth_expiration_date": 1700024340,
+        "tms_id": "EP007959510013",
+        "rating": 7.7752066,
+        "description": "Coach Stopframe goes to extreme measures in order to make a certain person be his lover.",
+        "title_suggest": {
+            "input": [
+                "Satan"
+            ]
+        },
+        "type": "episode",
+        "title": "Satan",
+        "expiration_date": 1723607940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 704.7007007,
+        "episode_number": "3",
+        "original_air_date": 1164604500,
+        "clip_order": null,
+        "auth_launch_date": 1696996800,
+        "modified": 1720292190,
+        "media_id": "80d31769cbe1a6abda0694cefe4ef219549696c5",
+        "airing_id": "RADS1007062400079105",
+        "id": "8LnrWTdaQWWbvmKaItw8tw",
+        "slug": "satan",
+        "views": 244953,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111555370-moralorel_014.jpg",
+        "created": 1402945470,
+        "title_id": "653294",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1720292190,
+        "tags": [],
+        "rating_count": 605,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1720584000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111555370-moralorel_014.jpg",
+        "cma_id": "1361193"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -360,7 +411,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447171500,
         "auth_expiration_date": 1723607940,
         "tms_id": "EP007959510009",
@@ -687,59 +738,6 @@
         "launch_date": 1716350400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111552231-moralorel_006.jpg",
         "cma_id": "1332224"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447171380,
-        "auth_expiration_date": 1720583940,
-        "tms_id": "EP007959510002",
-        "rating": 8.125999,
-        "description": "When Reverend Putty preaches the righteousness of helping the poor, Orel befriends a down-and-out crack dealer.",
-        "title_suggest": {
-            "input": [
-                "Charity"
-            ]
-        },
-        "type": "episode",
-        "title": "Charity",
-        "expiration_date": 1717559940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 693.5005005,
-        "episode_number": "3",
-        "original_air_date": 1139202000,
-        "clip_order": null,
-        "auth_launch_date": 1717560000,
-        "modified": 1717137162,
-        "media_id": "130509322d35826b736f861be90dc07102e19721",
-        "airing_id": "RADS1005302400072800",
-        "id": "Y-wDkaWFT1upgydtGlE_tQ",
-        "slug": "charity",
-        "views": 241128,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111551249-moralorel_003.jpg",
-        "created": 1402945470,
-        "title_id": "630820",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1717137162,
-        "tags": [
-            "moral orel episode 3 charity drugs crack dealer"
-        ],
-        "rating_count": 865,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1714536000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551249-moralorel_003.jpg",
-        "cma_id": "1319108"
     },
     {
         "auth": true,
