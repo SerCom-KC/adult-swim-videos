@@ -882,7 +882,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1510586940,
         "auth_expiration_date": 1720583999,
         "tms_id": "EP007008180111",
@@ -1141,7 +1141,7 @@
     },
     {
         "ott_launch_date": 1511796540,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1721188740,
         "tms_id": "EP007008180113",
         "description": "Everyone lies and all the houses burn.",
@@ -3203,72 +3203,6 @@
         "launch_date": 1718769600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414113812-squidbillies_906_dup-20161027.jpg",
         "cma_id": "1285558"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447443480,
-        "auth_expiration_date": 1693540740,
-        "tms_id": "EP007008180025",
-        "rating": 8.605694,
-        "description": "Rusty's soul is a pawn in the endgame between good and evil.",
-        "title_suggest": {
-            "input": [
-                "Mephistopheles Traveled Below To A Southern State Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-                "Traveled Below To A Southern State Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-                "Below To A Southern State Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-                "To A Southern State Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-                "A Southern State Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-                "Southern State Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-                "State Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-                "Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-                "Motto Is \"Wisdom, Justice, and Moderation\"",
-                "Is \"Wisdom, Justice, and Moderation\"",
-                "\"Wisdom, Justice, and Moderation\"",
-                "Justice, and Moderation\"",
-                "and Moderation\"",
-                "Moderation\""
-            ]
-        },
-        "type": "episode",
-        "title": "Mephistopheles Traveled Below To A Southern State Whose Motto Is \"Wisdom, Justice, and Moderation\"",
-        "expiration_date": 1746849540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-        "duration": 674.7340674,
-        "episode_number": "5",
-        "original_air_date": 1203310800,
-        "clip_order": null,
-        "auth_launch_date": 1679112000,
-        "modified": 1720537907,
-        "media_id": "eae5bd69d091e2ef5cb57a53db2ac671b36bde81",
-        "airing_id": "RADS1007092400079795",
-        "id": "BClnItxvTXCImfvDOqTLsA",
-        "slug": "mephistopheles-traveled-below-to-a-southern-state-whose-motto-is-wisdom-justice-and-moderation",
-        "views": 659507,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131132282-squidbillies_025_bim.jpg",
-        "created": 1402945477,
-        "title_id": "706482",
-        "season_number": "3",
-        "tv_rating": "tv-14-dlv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1720537907,
-        "tags": [
-            "squidbillies episode 25 mephistopheles traveled below to a southern state whose motto is wisdom justice and moderation devil went down to georgia guitar music deal hell"
-        ],
-        "rating_count": 3652,
-        "collection_title": "Squidbillies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1720584000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132282-squidbillies_025_bim.jpg",
-        "cma_id": "1413947"
     },
     {
         "auth": false,
