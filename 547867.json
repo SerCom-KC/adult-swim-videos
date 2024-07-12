@@ -1,6 +1,59 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1451681760,
+        "auth_expiration_date": 1703221140,
+        "tms_id": "EP007008200002",
+        "rating": 6.4794273,
+        "description": "Tom and the Mayor try to celebrate a relic of Jefferton's past by rebuilding a Western-themed amusement park called Pioneer Island. Patton Oswalt guest stars as Zynx, a new threat to the Mayor's power.",
+        "title_suggest": {
+            "input": [
+                "Pioneer Island",
+                "Island"
+            ]
+        },
+        "type": "episode",
+        "title": "Pioneer Island",
+        "expiration_date": 1720756740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 693.99,
+        "episode_number": "2",
+        "original_air_date": 1102307400,
+        "clip_order": null,
+        "auth_launch_date": 1700197200,
+        "modified": 1714282458,
+        "airing_id": "RADS1004272400067285",
+        "media_id": "750238ec74b8f7f87bb8fddafe2039b7cc1e6c35",
+        "id": "4Y8oUeIOSya7ux4a42RlvQ",
+        "slug": "pioneer-island",
+        "views": 96178,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117834500-tgttm_002.jpg",
+        "created": 1402945482,
+        "title_id": "607107",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1714282458,
+        "tags": [
+            "tom goes to the mayor tgttm episode 2 pioneer island western restaurant son patton oswalt"
+        ],
+        "rating_count": 559,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1714708800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834500-tgttm_002.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451681880,
         "auth_expiration_date": 1704085199,
         "tms_id": "EP007008200007",
@@ -475,59 +528,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1717732800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836424-tgttm_008.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1451682000,
-        "auth_expiration_date": 1691121540,
-        "tms_id": "EP007008200011",
-        "rating": 8.288245,
-        "description": "The Mayor offers Tom a position as Vice Mayor of Hobo Town.  Special Guest: Fred Willard.",
-        "title_suggest": {
-            "input": [
-                "Vice Mayor",
-                "Mayor"
-            ]
-        },
-        "type": "episode",
-        "title": "Vice Mayor",
-        "expiration_date": 1726804740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 706.64,
-        "episode_number": "11",
-        "original_air_date": 1118636100,
-        "clip_order": null,
-        "auth_launch_date": 1688097600,
-        "modified": 1720332782,
-        "airing_id": "RADS1007062400079257",
-        "media_id": "024c5c8bdc590025d09887294a4ec07057d6dda0",
-        "id": "rceja6K0R_2chJoTpLTg9w",
-        "slug": "vice-mayor",
-        "views": 156261,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117952155-tgttm_011.jpg",
-        "created": 1402945482,
-        "title_id": "615366",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1720332782,
-        "tags": [
-            "tom goes to the mayor episode 11 vice mayor fred willard hobo town"
-        ],
-        "rating_count": 451,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1720756800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952155-tgttm_011.jpg",
         "cma_id": ""
     }
 ]
