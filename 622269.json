@@ -235,7 +235,7 @@
         "launch_date": 1719613800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241422497-NarutoClassic_Ep005_Still_1920x1080_Pillarbox.jpg",
         "id": "AZBBd_UGg6zBH7G86tga",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -287,6 +287,54 @@
         "launch_date": 1720218600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_2471145665-NarutoClassic_Ep006_Still_1920x1080_Pillarbox.jpg",
         "id": "AZBpy1mLSaru9Cdsy7BT",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Naruto and his squad arrive in the Land of the Waves and learn that an evil businessman named Gato has taken over the land.",
+        "title_suggest": {
+            "input": [
+                "The Assassin of the Mist!",
+                "Assassin of the Mist!",
+                "of the Mist!",
+                "the Mist!",
+                "Mist!"
+            ]
+        },
+        "title": "The Assassin of the Mist!",
+        "expiration_date": 1722032940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1305.938,
+        "episode_number": "7",
+        "original_air_date": "1129424400",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1007062400079226",
+        "media_id": "26d9e1acacd8e15b01d7207dda8d2506d4edf47b",
+        "modified": 1720710620,
+        "slug": "the-assassin-of-the-mist",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/1_24711456208-NarutoClassic_Ep007_Still_1920x1080_Pillarbox.jpg",
+        "created": 1719860183,
+        "season_number": "1",
+        "title_id": "622461",
+        "tv_rating": "tv-14",
+        "published": 1720710620,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1720823400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_24711456208-NarutoClassic_Ep007_Still_1920x1080_Pillarbox.jpg",
+        "id": "AZBvp8B_g6zBH7G86tge",
         "auth": false
     }
 ]

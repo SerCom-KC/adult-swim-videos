@@ -2,16 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 12, 2024 at 17:30:29 EDT_
+_Last Update: July 12, 2024 at 19:00:12 EDT_
 ## Video added
 ### Summary
-2529996 Sailor Moon: 1  
-### 2530003
-**Sailor Moon S01E?? - Usagi Learns Her Lesson: Becoming a Star Is Hard Work**  
-TV-PG-V 🔒 22:11  
-⌛ August 2, 2024 at 16:59:00 EDT  
-https://www.adultswim.com/videos/sailor-moon/usagi-learns-her-lesson-becoming-a-star-is-hard-work  
-seriesid=`2529996` titleid=`2530003` id=`AZCI-OVqSaru9Cdsy7FY` mediaid=`4f05f099b7dde8026c2c93ec8671200653b8e5d4`  
-_Usagi and Naru both dream of becoming a famous star like Mikan Shiratori, a graduate from their school. When the girls hear that Mikan is hosting a talent contest, they see their chance to achieve stardom._  
+622269 Naruto: 1  
+### 622461
+**Naruto S01E07 - The Assassin of the Mist!**  
+TV-14 🔓 21:45  
+⌛ July 26, 2024 at 18:29:00 EDT  
+https://www.adultswim.com/videos/naruto/the-assassin-of-the-mist  
+seriesid=`622269` titleid=`622461` id=`AZBvp8B_g6zBH7G86tge` mediaid=`26d9e1acacd8e15b01d7207dda8d2506d4edf47b`  
+_Naruto and his squad arrive in the Land of the Waves and learn that an evil businessman named Gato has taken over the land._  
+<a href="https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_24711456208-NarutoClassic_Ep007_Still_1920x1080_Pillarbox.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_24711456208-NarutoClassic_Ep007_Still_1920x1080_Pillarbox.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
