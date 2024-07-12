@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1720756740,
-        "tms_id": "EP003034830029",
-        "description": "The professor invents a what if machine.",
-        "title_suggest": {
-            "input": [
-                "Anthology of Interest I",
-                "of Interest I",
-                "Interest I",
-                "I"
-            ]
-        },
-        "title": "Anthology of Interest I",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.4678,
-        "episode_number": "20",
-        "original_air_date": 1045713600,
-        "auth_launch_date": 1720152000,
-        "clip_order": null,
-        "airing_id": "RADS1006302400077851",
-        "media_id": "a5a2c57b1a8ced5557b66964ba848150d534c459",
-        "modified": 1719768500,
-        "slug": "anthology-of-interest-i",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311141413-Futurama_29_AnthologyOfInterest1.png",
-        "created": 1645835125,
-        "title_id": "437692",
-        "season_number": "2",
-        "tv_rating": "tv-pg-lv",
-        "published": 1719768500,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311141413-Futurama_29_AnthologyOfInterest1.png",
-        "id": "AX8zawNn_0O4w1rD3Rv2",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1720843140,
         "tms_id": "EP003034830030",
         "description": "Bender must spend a full night in a gothic castle in order to collect an inheritance.",
@@ -227,6 +180,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_223911255-Futurama_033_ParasitesLost.png",
         "id": "AX9kvZ9l_0O4w1rD3Ryv",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1721361540,
+        "tms_id": "EP003034830034",
+        "description": "The ship crashes on a planet inhabited by a race of man-hating, giant women.",
+        "title_suggest": {
+            "input": [
+                "Amazon Women in the Mood",
+                "Women in the Mood",
+                "in the Mood",
+                "the Mood",
+                "Mood"
+            ]
+        },
+        "title": "Amazon Women in the Mood",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.8672,
+        "episode_number": "5",
+        "original_air_date": "1046232000",
+        "auth_launch_date": 1720756800,
+        "clip_order": null,
+        "airing_id": "RADS1007062400079240",
+        "media_id": "1e1622eb87e5172e820f34d2cefd109ef718b84c",
+        "modified": 1720332783,
+        "slug": "amazon-women-in-the-mood",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_2239113184-Futurama_034_AmazonWomenInTheMood.png",
+        "created": 1646841807,
+        "season_number": "3",
+        "title_id": "437698",
+        "tv_rating": "tv-14",
+        "published": 1720332783,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239113184-Futurama_034_AmazonWomenInTheMood.png",
+        "id": "AX9va8E__0O4w1rD3Ry5",
         "auth": true
     }
 ]
