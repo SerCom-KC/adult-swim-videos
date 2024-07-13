@@ -1037,7 +1037,7 @@
     },
     {
         "ott_launch_date": 1511191740,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1720843140,
         "tms_id": "EP007008180112",
         "description": "Early exploits himself for attention.",
@@ -1667,7 +1667,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1512401340,
         "auth_expiration_date": 1721447940,
         "tms_id": "EP007008180114",
@@ -2965,7 +2965,7 @@
         "launch_date": 1720843200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211203/thumbnails/2_21123954526-Squidbillies_11071108_OlHootie.png",
         "id": "AX2AytJjUQa40cfnRS16",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1721447940,
@@ -3151,7 +3151,7 @@
         "launch_date": 1717819200,
         "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181527431-Squidbillies_1105_LetErRIP.png",
         "id": "AXzIFIC0UQa40cfnRSgA",
-        "auth": false
+        "auth": true
     },
     {
         "auth": false,
@@ -5446,7 +5446,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447445460,
         "auth_expiration_date": 1721447940,
         "tms_id": "EP007008180067",
@@ -5657,7 +5657,7 @@
         "cma_id": "1294181"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447445520,
         "auth_expiration_date": 1720843199,
         "tms_id": "EP007008180066",

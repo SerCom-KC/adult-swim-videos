@@ -100,6 +100,43 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1721447940,
+        "created": 1720367032,
+        "tms_id": "EP002070020054",
+        "title_id": "731258",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dl",
+        "description": "Jon Vitti Presents: Return to La Grunta: Hank suppresses his feelings after he inadvertently arouses-and is attacked by-a dolphin.",
+        "title_suggest": {
+            "input": [
+                "Jon Vitti Presents: Return to La Grunta",
+                "Vitti Presents: Return to La Grunta",
+                "Presents: Return to La Grunta",
+                "Return to La Grunta",
+                "to La Grunta",
+                "La Grunta",
+                "Grunta"
+            ]
+        },
+        "published": 1720423459,
+        "title": "Jon Vitti Presents: Return to La Grunta",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.1958,
+        "episode_number": "16",
+        "collection_title": "King of the Hill",
+        "original_air_date": 1239501600,
+        "auth_launch_date": 1720843200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007072400079289",
+        "media_id": "6935e0d5a25cd273e9e14ddcbb9b0b56d35309af",
+        "modified": 1720423459,
+        "slug": "jon-vitti-presents-return-to-la-grunta",
+        "id": "AZCN3af_Saru9Cdsy7G4",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1721275140,
@@ -166,60 +203,5 @@
         "launch_date": 1501212600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720830575-KingOfTheHill_309_TheWeddingOfBobbyHill.png",
         "cma_id": "1440600"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1720843140,
-        "tms_id": "EP002070020048",
-        "rating": 7.330097,
-        "description": "Peggy loses her job as a substitute teacher after she spanks an unruly student.",
-        "title_suggest": {
-            "input": [
-                "To Spank with Love",
-                "Spank with Love",
-                "with Love",
-                "Love"
-            ]
-        },
-        "type": "episode",
-        "title": "To Spank with Love",
-        "expiration_date": 1501558199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1387.2192,
-        "episode_number": "11",
-        "original_air_date": 1239330600,
-        "clip_order": null,
-        "auth_launch_date": 1720238400,
-        "modified": 1719813210,
-        "media_id": "69f4c953ae9509740918172c2841590113a1da2f",
-        "airing_id": "RADS1006302400077907",
-        "id": "i8bghdUnQvq5qnlk32i5DA",
-        "slug": "to-spank-with-love",
-        "views": 99281,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/1_227201740569-KingOfTheHill_303_ToSpankWithLove.png",
-        "created": 1402945468,
-        "title_id": "731253",
-        "season_number": "3",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1719813210,
-        "tags": [
-            "king of the hill koth episode 303 to spank with love peggy teacher spanking fired student paddle school"
-        ],
-        "rating_count": 206,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1500953400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_227201740569-KingOfTheHill_303_ToSpankWithLove.png",
-        "cma_id": "1438216"
     }
 ]
