@@ -253,7 +253,7 @@
         "launch_date": 1719736200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241426413-Screenshot2024-06-24at2.26.12PM.png",
         "id": "AY_ewdIdC2cKYm1ap_-a",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1720340940,
@@ -358,7 +358,7 @@
         "launch_date": 1720945800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241430482-Screenshot2024-06-24at2.30.14PM.png",
         "id": "AZAnGd0Zg6zBH7G86tgY",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1722155340,
@@ -445,6 +445,117 @@
         "modified": 1719249674,
         "slug": "the-rupture-human-gladius-blows-up-big-time",
         "id": "AZBK7TpAg6zBH7G86tgb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1722760140,
+        "created": 1720536242,
+        "tms_id": "EP039441250034",
+        "title_id": "2435745",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "In the Royal Palace, Viola, Luffy, and the Toy Soldier have hidden themselves outside Doflamingo's chamber, only to have more enemies approach from behind, leaving them surrounded!",
+        "title_suggest": {
+            "input": [
+                "The Operation Failed! Usoland the Hero Dies?!",
+                "Operation Failed! Usoland the Hero Dies?!",
+                "Failed! Usoland the Hero Dies?!",
+                "Usoland the Hero Dies?!",
+                "the Hero Dies?!",
+                "Hero Dies?!",
+                "Dies?!"
+            ]
+        },
+        "published": 1720545988,
+        "title": "The Operation Failed! Usoland the Hero Dies?!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.2523,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1720933200,
+        "auth_launch_date": 1720945800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007092400079816",
+        "media_id": "d951cb7d907d57b88bf90cb3b6211b29e7afd9a0",
+        "modified": 1720545988,
+        "slug": "the-operation-failed-usoland-the-hero-dies",
+        "id": "AZCX85rxg6zBH7G86tgj",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1722758340,
+        "created": 1720536217,
+        "tms_id": "EP039441250010",
+        "title_id": "2435744",
+        "season_number": "17",
+        "tv_rating": "tv-14-lv",
+        "description": "Usopp runs into trouble in his battle with Treebol, and flashback sheds light on how a young Kyros made the shocking transition from murderer to one of King Riku's most trusted men.",
+        "title_suggest": {
+            "input": [
+                "A Fateful Encounter! Kyros and King Riku!",
+                "Fateful Encounter! Kyros and King Riku!",
+                "Encounter! Kyros and King Riku!",
+                "Kyros and King Riku!",
+                "and King Riku!",
+                "King Riku!",
+                "Riku!"
+            ]
+        },
+        "published": 1720546618,
+        "title": "A Fateful Encounter! Kyros and King Riku!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.1855,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1720931400,
+        "auth_launch_date": 1720944000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007092400079814",
+        "media_id": "65bacb00069a15b26b20c805894b34ee17e1fd83",
+        "modified": 1720546618,
+        "slug": "a-fateful-encounter-kyros-and-king-riku",
+        "id": "AZCX8zfBSaru9Cdsy7H6",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1722758340,
+        "created": 1720536218,
+        "tms_id": "EP039441250010",
+        "title_id": "2435744",
+        "season_number": "17",
+        "tv_rating": "tv-14-lv",
+        "description": "Usopp runs into trouble in his battle with Treebol, and flashback sheds light on how a young Kyros made the shocking transition from murderer to one of King Riku's most trusted men.",
+        "title_suggest": {
+            "input": [
+                "A Fateful Encounter! Kyros and King Riku!",
+                "Fateful Encounter! Kyros and King Riku!",
+                "Encounter! Kyros and King Riku!",
+                "Kyros and King Riku!",
+                "and King Riku!",
+                "King Riku!",
+                "Riku!"
+            ]
+        },
+        "published": 1720544180,
+        "title": "A Fateful Encounter! Kyros and King Riku!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 0,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1720931400,
+        "auth_launch_date": 1720944000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007092400079814",
+        "media_id": "65bacb00069a15b26b20c805894b34ee17e1fd83",
+        "modified": 1720544180,
+        "slug": "a-fateful-encounter-kyros-and-king-riku",
+        "id": "AZCX8zr2g6zBH7G86tgi",
         "auth": true
     }
 ]
