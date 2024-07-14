@@ -108,52 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1720929540,
-        "tms_id": "EP015632430073",
-        "description": "Freeze right there. Welcome to The COLD EPISODE. Eric and his new co-host the FRIDGE KEEPER celebrate cold temperatures with Meagan Goode and Daymond John. A man has an existential crisis on an elevator to hell\u2026 if hell froze over...",
-        "title_suggest": {
-            "input": [
-                "The Cold Episode",
-                "Cold Episode",
-                "Episode"
-            ]
-        },
-        "title": "The Cold Episode",
-        "type": "episode",
-        "expiration_date": 1717905540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 671.7044,
-        "episode_number": "10",
-        "original_air_date": 1688357700,
-        "auth_launch_date": 1717905600,
-        "clip_order": null,
-        "airing_id": "RADS1004302400067688",
-        "media_id": "9c39b4614052a488d72848ba26d3f78f00d33a6b",
-        "modified": 1717477385,
-        "slug": "the-cold-episode",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/1_2375158553-EATheColdEpisode.png",
-        "created": 1688139510,
-        "title_id": "2418690",
-        "season_number": "6",
-        "tv_rating": "tv-ma-ls",
-        "published": 1717477385,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1714881600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375158553-EATheColdEpisode.png",
-        "id": "AYkM9LH4Oz5CkuTcnwD4",
-        "auth": false
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1721534340,
@@ -206,7 +160,7 @@
         "cma_id": "2032596"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1723953540,
         "tms_id": "EP015632430026",
@@ -256,6 +210,56 @@
         "launch_date": 1717905600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341616309-ericandre_025_dup-20141201.jpg",
         "cma_id": "1340861"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1677473940,
+        "tms_id": "EP015632430031",
+        "description": "You're watching Bird Up: The WORST show on television! Featuring Stephen Colletti and Chris Rock.",
+        "title_suggest": {
+            "input": [
+                "Bird Up!",
+                "Up!"
+            ]
+        },
+        "title": "Bird Up!",
+        "type": "episode",
+        "expiration_date": 1723953540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 671.5005005,
+        "episode_number": "10",
+        "original_air_date": 1422076500,
+        "clip_order": null,
+        "auth_launch_date": 1674450000,
+        "modified": 1720544512,
+        "media_id": "a4316378a40be0f5b4320d9825a89c73f10bb861",
+        "airing_id": "RADS1007092400079843",
+        "id": "JWQbX20VTR2ayExalhtv1Q",
+        "slug": "bird-up",
+        "views": 2,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_20341618213-ericandre_030_dup-20141118.jpg",
+        "created": 1421810446,
+        "title_id": "2032605",
+        "tv_rating": "tv-ma-l",
+        "season_number": "3",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1720544512,
+        "first_published": 1421810446,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1720929600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341618213-ericandre_030_dup-20141118.jpg",
+        "cma_id": "1361235"
     },
     {
         "auth": false,

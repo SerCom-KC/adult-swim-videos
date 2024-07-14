@@ -2,111 +2,155 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 13, 2024 at 00:00:43 EDT_
+_Last Update: July 14, 2024 at 00:30:12 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 2003422 Bob's Burgers: 2  
 437532 Futurama: 1  
 629835 King of the Hill: 1  
-### 748159
-**American Dad S06E18 - Flirting With Disaster**  
+2288454 My Adventures with Superman: 1  
+895948 The Eric Andre Show: 1  
+### 748171
+**American Dad S07E01 - Hot Water**  
+TV-14-DLSV 🔒 21:47  
+⌛ July 20, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/hot-water  
+seriesid=`581006` titleid=`748171` id=`A1V1PZvHS4OXqQOQznUoZw` mediaid=`3a9c1f53b5c37b42e208111387291329be33ddaa`  
+_Stan battles an evil hot tub bent on killing his family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg" height="144px" /></a>
+### 748160
+**American Dad S07E02 - Hurricane**  
 TV-14 🔒 21:47  
-⌛ July 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/flirting-with-disaster  
-seriesid=`581006` titleid=`748159` id=`fefThwQBQgii_EzbWwUeKQ` mediaid=`94117714540ec06bc58baad4557de083d13383c1`  
-_Francine gets a job at Stan's office, which cramps Stan's style and his ability to flirt with co-workers. When Francine retaliates with a little flirting of her own, war breaks out at work._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg" height="144px" /></a>
-### 748163
-**American Dad S06E19 - Gorillas in the Mist**  
-TV-14 🔒 21:47  
-⌛ July 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/gorillas-in-the-mist  
-seriesid=`581006` titleid=`748163` id=`SpKY05_QS_a8wZkZQtAl9A` mediaid=`01f8999b06c60cc3e23ff941ccf811541fe78f5f`  
-_Stan spends some quality father-son time with Steve at the local zoo, but things go wrong when Steve slips into a gorilla exhibit._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg" height="144px" /></a>
-### 2065453
-**Bob's Burgers S05E01 - Work Hard or Die Trying, Girl**  
-TV-PG-DLV 🔒 21:45  
-⌛ July 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/work-hard-or-die-trying-girl  
-seriesid=`2003422` titleid=`2065453` id=`BEPB1YKHSWiwLid9P9MDvw` mediaid=`e3a4128e30e4fad60510ffa9fc1dbfd397edb2de`  
-_When Gene's musical doesn't get picked for the school's fall performance, he stages an underground show with Louise. Wagstaff Middle School families feud when they learn Eugene planned his show on the same night as Courtney's musical._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/work-hard-or-die-trying-girl/bobsburgers_414_air_cid-2P2TD.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/work-hard-or-die-trying-girl/bobsburgers_414_air_cid-2P2TD.jpg" height="144px" /></a>
-### 2030323
-**Bob's Burgers S04E22 - World Wharf II: The Wharfening**  
- 🔒 21:27  
-⌛ July 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/world-wharf-ii-the-wharfening  
-seriesid=`2003422` titleid=`2030323` id=`YBPqZIbqSzSImhQb9EkpCg` mediaid=`45bc926d5c137606e9bd2cc847a7537efb943f94`  
-_It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079760401.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079760401.jpg" height="144px" /></a>
-### 437699
-**Futurama S03E06 - Bendless Love**  
-TV-PG-L 🔒 23:21  
-⌛ July 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/bendless-love  
-seriesid=`437532` titleid=`437699` id=`AX98C5ic208s7zyYUMTv` mediaid=`63e01ae8c45ec8c62c46b2fd05928087ffe28616`  
-_Bender meets a charming fembot in the Bending Factory when Farnsworth sends him there for rehabilitation._  
-<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171417144-Futurama_035_BendlessLove.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171417144-Futurama_035_BendlessLove.png" height="144px" /></a>
-### 731258
-**King of the Hill S03E16 - Jon Vitti Presents: Return to La Grunta**  
-TV-PG-DL 🔒 23:17  
-⌛ July 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/jon-vitti-presents-return-to-la-grunta  
-seriesid=`629835` titleid=`731258` id=`AZCN3af_Saru9Cdsy7G4` mediaid=`6935e0d5a25cd273e9e14ddcbb9b0b56d35309af`  
-_Jon Vitti Presents: Return to La Grunta: Hank suppresses his feelings after he inadvertently arouses-and is attacked by-a dolphin._  
+⌛ July 20, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/hurricane  
+seriesid=`581006` titleid=`748160` id=`2gmRoTtyRGCQHA7zZCE0BQ` mediaid=`f52323839790401eae9989ddc5e47635b32dea7d`  
+_Stan attempts to save his family after a hurricane floods Lower Langley--despite Fran's warnings that Stan is a bad decision-maker during a crisis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg" height="144px" /></a>
+### 2065450
+**Bob's Burgers S05E03 - Friends with Burger-Fits**  
+TV-PG-DLV 🔒 21:41  
+⌛ July 20, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/friends-with-burger-fits  
+seriesid=`2003422` titleid=`2065450` id=`Pt77Jy4sQGykImwmhEjCMg` mediaid=`f5614ca6513be1771ebc2149900fbe59a6209964`  
+_Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. The kids make an ice rink in the freezer._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg" height="144px" /></a>
+### 2065452
+**Bob's Burgers S05E02 - Tina and the Real Ghost**  
+TV-PG-L 🔒 21:41  
+⌛ July 20, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/tina-and-the-real-ghost  
+seriesid=`2003422` titleid=`2065452` id=`0UchfJ9QQq67BajtsFo_mQ` mediaid=`361d2b05361465169061b980ccc315fcd577fafd`  
+_Tina begins an out-of-this-world romance with a ghost that is believed to be living in the Belcher's basement. And when Bob realizes that an in-house ghost may increase revenues, he too becomes a fan of the paranormal entity._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/tina-and-the-real-ghost/bobsburgers_413_air_cid-2M2WP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tina-and-the-real-ghost/bobsburgers_413_air_cid-2M2WP.jpg" height="144px" /></a>
+### 437700
+**Futurama S03E07 - The Day the Earth Stood Stupid**  
+TV-PG 🔒 23:20  
+⌛ July 20, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/the-day-the-earth-stood-stupid  
+seriesid=`437532` titleid=`437700` id=`AX-I1i-k_0O4w1rD3R1f` mediaid=`c33b8cc625fb0713d5104940f0c1130744da7cec`  
+_Flying brains with the power to reduce human intelligence conquer Earth._  
+<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171419196-Futurama_036_TheDayTheEarthStoodStupid.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171419196-Futurama_036_TheDayTheEarthStoodStupid.png" height="144px" /></a>
+### 731270
+**King of the Hill S03E17 - Escape from Party Island**  
+TV-PG-DLS 🔒 23:17  
+⌛ July 20, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/escape-from-party-island  
+seriesid=`629835` titleid=`731270` id=`AZCX-pimg6zBH7G86tgk` mediaid=`c6b3063be2fc18788c277c03ab19d9d94f0249b2`  
+_Hank volunteers to drive his mother and her friends to a miniatures museum only to find himself trapped on an island overrun with students celebrating Spring Break._  
+### 2288473
+**My Adventures with Superman S02E09 - Pierce the Heavens, Superman!**  
+TV-PG-V 🔒 22:32  
+⌛ August 3, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/pierce-the-heavens-superman  
+seriesid=`2288454` titleid=`2288473` id=`AZAmAlskSaru9Cdsy62s` mediaid=`a95cd431e74a67bc625f5997fd48ece17d89e67b`  
+_Jimmy and Kara race back to Metropolis to stop Brainiac's invasion of Earth! Meanwhile, Lois tries to free Clark from Brainiac's control, only to lose herself in an alternate reality where Superman never left Krypton…_  
+<a href="https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617743243-AS_MAWS_209_PierceTheHeavensSuperman-2.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617743243-AS_MAWS_209_PierceTheHeavensSuperman-2.jpg" height="144px" /></a>
+### 2032605
+**The Eric Andre Show S03E10 - Bird Up!**  
+TV-MA-L 🔓 11:11  
+⌛ August 17, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/bird-up  
+seriesid=`895948` titleid=`2032605` id=`JWQbX20VTR2ayExalhtv1Q` mediaid=`a4316378a40be0f5b4320d9825a89c73f10bb861`  
+_You're watching Bird Up: The WORST show on television! Featuring Stephen Colletti and Chris Rock._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341618213-ericandre_030_dup-20141118.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341618213-ericandre_030_dup-20141118.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
+2194549 Gemusetto: 1  
+343621 Samurai Jack: 1  
 437532 Futurama: 1  
 581006 American Dad: 2  
 629835 King of the Hill: 1  
-### 2030315
-**Bob's Burgers S04E12 - The Frond Files**  
-TV-14-DLSV 🔒 21:39  
-⌛ July 12, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-frond-files  
-seriesid=`2003422` titleid=`2030315` id=`MygFPLHKSNOeHoZjHF2PiQ` mediaid=`32be91dd74c61d2a2e6aa9b2b2012b41d0ed6e02`  
-_Bob and Linda visit the school and learn that their kids' essays about their fantasy version of Wagstaff are "too creative" and "offensive." Eugene transforms the school into a "Fart School for the Gifted"; Tina, to her delight, depicts a world where she is romanced by countless zombie teenage boys; and Louise creates a school where she takes down a robotic Mr. Frond from the future._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267561861218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267561861218.jpg" height="144px" /></a>
-### 2030314
-**Bob's Burgers S04E13 - Mazel Tina**  
-TV-14-DLSV 🔒 21:34  
-⌛ July 12, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/mazel-tina  
-seriesid=`2003422` titleid=`2030314` id=`kDyq7D52Td-yWvGflYNsKA` mediaid=`34f5e5ab484ac95ddc1dbc79cef599815cb4ca10`  
-_Tina isn't invited to her classmate Tammy's Bat Mitzvah, but ends up at the party anyway, because Bob and the family were hired to cater. Despite the invite snub, Tina is excited to scope out the BFOS (boys from other schools). Things go awry and Louise and Tammy end up missing, so, to her total delight, Tina is left center stage._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg" height="144px" /></a>
-### 437694
-**Futurama S03E01 - The Honking**  
-TV-PG-DLV 🔒 23:22  
-⌛ July 12, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-honking  
-seriesid=`437532` titleid=`437694` id=`AX9A2uHb208s7zyYUMN4` mediaid=`a126e1ef8bbc18a97e56b8e72e73d3cfbe2f3d4c`  
-_Bender must spend a full night in a gothic castle in order to collect an inheritance._  
-<a href="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311142409-Futurama_030_TheHonking.png"><img src="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311142409-Futurama_030_TheHonking.png" height="144px" /></a>
-### 822208
-**American Dad S06E18 - There Will Be Bad Blood**  
-TV-14 🔒 21:40  
-⌛ July 12, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/there-will-be-bad-blood  
-seriesid=`581006` titleid=`822208` id=`-n7pptEaSK-nCb751T7B4w` mediaid=`1901effee4b06f454a712c0f86a9fd188da9a7e2`  
-_The Smiths prepare for the arrival of Stan's half-brother's family for Thanksgiving._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg" height="144px" /></a>
-### 822209
-**American Dad S06E06 - The People Vs. Martin Sugar**  
+895948 The Eric Andre Show: 1  
+### 2030316
+**Bob's Burgers S04E14 - Uncle Teddy**  
+ 🔓 21:34  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/uncle-teddy  
+seriesid=`2003422` titleid=`2030316` id=`6ZcfIvgnRS62_HwcBG6rmw` mediaid=`de97cd35eb93adb8713128a87cd4b280a8668594`  
+_When Bob and Linda leave town for a romantic getaway (at a Burger Convention), they ask Teddy to babysit Tina, Gene and Louise. While the parents are away, Teddy is eager to earn the coveted title of "Uncle Teddy" and does so by putting Tina's crush in his rightful place after discovering that he was just using her for - gasp - free burgers! Hijinks ensue._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg" height="144px" /></a>
+### 2030317
+**Bob's Burgers S04E15 - The Kids Rob a Train**  
+TV-PG-DL 🔓 21:29  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-kids-rob-a-train  
+seriesid=`2003422` titleid=`2030317` id=`xx3aqtTlTuuRU3V__UcHJA` mediaid=`ac5753e20556bd176c26fd56dad1f85d5cb194f6`  
+_The Belchers take a trip on a train, and to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a "taste-off" with a snobby couple._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg" height="144px" /></a>
+### 2241828
+**Gemusetto S02E03 - Episode Three: B7+5**  
+TV-14-DLV 🔓 11:15  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/gemusetto/episode-three-b-7-5  
+seriesid=`2194549` titleid=`2241828` id=`AXW5Hl8_LyLQBOXK_Pgw` mediaid=`28694d472de76d270bef1186571c1ff3878f5330`  
+_Making their way through the Mesopotamian underworld of Kur, Dr. Legs and Makasu run into a formidable foe. Can a vengeful spirit who has a bone to pick with Makasu be more dangerous than a god?_  
+<a href="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201111/thumbnails/2_2011111732274-GSMP_203_dup-20201030.jpg" height="144px" /></a>
+### 343628
+**Samurai Jack S02E11 - XXIV**  
+TV-Y7-FV 🔓 22:22  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxiv  
+seriesid=`343621` titleid=`343628` id=`jcnK34oZSBWNH0EfMPqs1Q` mediaid=`2488f03f25a2ee385f30b6ef1ab7449454266dec`  
+_When Jack has his sword and clothing stolen, he must give chase to a white rabbit who took them while trying to maintain his modesty._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471147259-samjack_024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471147259-samjack_024.jpg" height="144px" /></a>
+### 437693
+**Futurama S03E02 - War Is the H-Word**  
+TV-PG-DL 🔓 23:22  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/war-is-the-h-word  
+seriesid=`437532` titleid=`437693` id=`AX9BdqNO208s7zyYUMOC` mediaid=`be5be78b740237ec1a297cf50871ec0478a206c2`  
+_Fry and Bender join the military for soldiers' discounts._  
+<a href="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311143582-Futurama_031_WarIsTheHWord.png"><img src="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311143582-Futurama_031_WarIsTheHWord.png" height="144px" /></a>
+### 822210
+**American Dad S06E08 - For Whom The Sleigh Bell Tolls**  
+TV-14-DLSV 🔒 21:47  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/for-whom-the-sleigh-bell-tolls  
+seriesid=`581006` titleid=`822210` id=`LOh0dl-4Qr-3BCv_yUA-dQ` mediaid=`b3275b1ecf2000f2ba2f648be1e46bff9a2d512a`  
+_Stan decides to finally give Steve a gun for Christmas and is horrified when Steve accidentally shoots a Mall Santa._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg" height="144px" /></a>
+### 822211
+**American Dad S06E09 - Fartbreak Hotel**  
 TV-14 🔒 21:47  
-⌛ July 12, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-people-vs-martin-sugar  
-seriesid=`581006` titleid=`822209` id=`Ug7GhGosSgi2s18Wa63WwQ` mediaid=`138d29d5aa19afacba6c24428488bfc70c1da6f8`  
-_Stan serves as jury foreman for the trial of one of Roger's personae, and he is hell-bent on making sure the jury finds him guilty._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg" height="144px" /></a>
-### 731253
-**King of the Hill S03E11 - To Spank with Love**  
-TV-PG 🔒 23:07  
-⌛ July 12, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/to-spank-with-love  
-seriesid=`629835` titleid=`731253` id=`i8bghdUnQvq5qnlk32i5DA` mediaid=`69f4c953ae9509740918172c2841590113a1da2f`  
-_Peggy loses her job as a substitute teacher after she spanks an unruly student._  
-<a href="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_227201740569-KingOfTheHill_303_ToSpankWithLove.png"><img src="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_227201740569-KingOfTheHill_303_ToSpankWithLove.png" height="144px" /></a>
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/fartbreak-hotel  
+seriesid=`581006` titleid=`822211` id=`LeYJBjZiTAG-DniHWsx1TA` mediaid=`5655178c8ae88f45cf628c343d530e3a58cdfc14`  
+_When Roger releases lethal gas into the Smith residence, the family moves into a hotel while the fumes clear._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg" height="144px" /></a>
+### 731254
+**King of the Hill S03E12 - Three Coaches and a Bobby**  
+TV-PG-L 🔓 23:21  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/three-coaches-and-a-bobby  
+seriesid=`629835` titleid=`731254` id=`AZBvm84lSaru9Cdsy7C3` mediaid=`19934c35bb9f81f4fcaacb0e713197d76a3070d8`  
+_Hank's old tough-as-nails football coach takes command of Arlen high school's team, prompting Bobby and his classmates to sign up for soccer._  
+### 2418690
+**The Eric Andre Show S06E10 - The Cold Episode**  
+TV-MA-LS 🔓 11:11  
+⌛ July 13, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/the-cold-episode  
+seriesid=`895948` titleid=`2418690` id=`AYkM9LH4Oz5CkuTcnwD4` mediaid=`9c39b4614052a488d72848ba26d3f78f00d33a6b`  
+_Freeze right there. Welcome to The COLD EPISODE. Eric and his new co-host the FRIDGE KEEPER celebrate cold temperatures with Meagan Goode and Daymond John. A man has an existential crisis on an elevator to hell… if hell froze over..._  
+<a href="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375158553-EATheColdEpisode.png"><img src="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375158553-EATheColdEpisode.png" height="144px" /></a>
