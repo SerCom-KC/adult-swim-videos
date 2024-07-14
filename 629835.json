@@ -1,40 +1,5 @@
 [
     {
-        "auth_expiration_date": 1720929540,
-        "created": 1719859400,
-        "tms_id": "EP002070020050",
-        "title_id": "731254",
-        "season_number": "3",
-        "tv_rating": "tv-pg-l",
-        "description": "Hank's old tough-as-nails football coach takes command of Arlen high school's team, prompting Bobby and his classmates to sign up for soccer.",
-        "title_suggest": {
-            "input": [
-                "Three Coaches and a Bobby",
-                "Coaches and a Bobby",
-                "and a Bobby",
-                "a Bobby",
-                "Bobby"
-            ]
-        },
-        "published": 1719899557,
-        "title": "Three Coaches and a Bobby",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1401.8337,
-        "episode_number": "12",
-        "collection_title": "King of the Hill",
-        "original_air_date": 1239760800,
-        "auth_launch_date": 1720324800,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1007012400078381",
-        "media_id": "19934c35bb9f81f4fcaacb0e713197d76a3070d8",
-        "modified": 1719899557,
-        "slug": "three-coaches-and-a-bobby",
-        "id": "AZBvm84lSaru9Cdsy7C3",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1721188740,
         "created": 1720279987,
         "tms_id": "EP002070020051",
@@ -134,6 +99,40 @@
         "modified": 1720423459,
         "slug": "jon-vitti-presents-return-to-la-grunta",
         "id": "AZCN3af_Saru9Cdsy7G4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1721534340,
+        "created": 1720536701,
+        "tms_id": "EP002070020055",
+        "title_id": "731270",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dls",
+        "description": "Hank volunteers to drive his mother and her friends to a miniatures museum only to find himself trapped on an island overrun with students celebrating Spring Break.",
+        "title_suggest": {
+            "input": [
+                "Escape from Party Island",
+                "from Party Island",
+                "Party Island",
+                "Island"
+            ]
+        },
+        "published": 1720545389,
+        "title": "Escape from Party Island",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.1625,
+        "episode_number": "17",
+        "collection_title": "King of the Hill",
+        "original_air_date": 1239933600,
+        "auth_launch_date": 1720929600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007092400079836",
+        "media_id": "c6b3063be2fc18788c277c03ab19d9d94f0249b2",
+        "modified": 1720545389,
+        "slug": "escape-from-party-island",
+        "id": "AZCX-pimg6zBH7G86tgk",
         "auth": true
     },
     {
