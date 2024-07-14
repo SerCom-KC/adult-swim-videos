@@ -1,5 +1,50 @@
 [
     {
+        "auth_expiration_date": 1720942140,
+        "tms_id": "",
+        "description": "Tanjiro finds his family slaughtered by a demon. Through devastated by this grim reality, Tanjiro becomes a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family.",
+        "title_suggest": {
+            "input": [
+                "Layered Memories",
+                "Memories"
+            ]
+        },
+        "title": "Layered Memories",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
+        "duration": 1326.492,
+        "episode_number": "13",
+        "original_air_date": 1708234200,
+        "auth_launch_date": 1719730800,
+        "clip_order": null,
+        "airing_id": "RADS1006242400076491",
+        "media_id": "3f8a6da5b5ccbd33cedef9134cfac19d8dd1637e",
+        "modified": 1719367789,
+        "slug": "layered-memories",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/1_242201521371-image3.png",
+        "created": 1707755038,
+        "title_id": "2436331",
+        "season_number": "2",
+        "tv_rating": "tv-ma-v",
+        "published": 1719367789,
+        "tags": [],
+        "collection_title": "Demon Slayer",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_242201521371-image3.png",
+        "id": "AY2eIedL1E7YmWrdXLs2",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1721545140,
         "tms_id": "",
         "description": "Tanjiro finds his family slaughtered by a demon. Through devastated by this grim reality, Tanjiro becomes a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family.",
@@ -132,52 +177,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111339358-image.png",
         "id": "AY4RiLzH1E7YmWrdXL-j",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1723534140,
-        "tms_id": "",
-        "description": "Amid the wreckage, Tanjiro awakens. Zenitsu is trapped under the rubble and Inosuke has been impaled by Gyutaro's scythe, while Uzui has lost an arm and his heart has stopped. As Gyutaro taunts Tanjiro, all seems hopeless until...",
-        "title_suggest": {
-            "input": [
-                "Never Give Up",
-                "Give Up",
-                "Up"
-            ]
-        },
-        "title": "Never Give Up",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
-        "duration": 1374.4064,
-        "episode_number": "17",
-        "original_air_date": 1710649800,
-        "auth_launch_date": 1720942200,
-        "clip_order": null,
-        "airing_id": "RADS1007092400079894",
-        "media_id": "2aac1ddf081f3416bf95e10c7bad3376be02b2b5",
-        "modified": 1720546619,
-        "slug": "never-give-up",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/1_24325131545-image.png",
-        "created": 1710097103,
-        "title_id": "2436335",
-        "season_number": "2",
-        "tv_rating": "tv-ma-v",
-        "published": 1720546619,
-        "tags": [],
-        "collection_title": "Demon Slayer",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_24325131545-image.png",
-        "id": "AY4puvrn1E7YmWrdXMEZ",
         "auth": true
     }
 ]
