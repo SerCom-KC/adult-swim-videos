@@ -253,7 +253,7 @@
         "launch_date": 1719736200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241426413-Screenshot2024-06-24at2.26.12PM.png",
         "id": "AY_ewdIdC2cKYm1ap_-a",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1720340940,
@@ -445,6 +445,43 @@
         "modified": 1719249674,
         "slug": "the-rupture-human-gladius-blows-up-big-time",
         "id": "AZBK7TpAg6zBH7G86tgb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1722760140,
+        "created": 1720536242,
+        "tms_id": "EP039441250034",
+        "title_id": "2435745",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "In the Royal Palace, Viola, Luffy, and the Toy Soldier have hidden themselves outside Doflamingo's chamber, only to have more enemies approach from behind, leaving them surrounded!",
+        "title_suggest": {
+            "input": [
+                "The Operation Failed! Usoland the Hero Dies?!",
+                "Operation Failed! Usoland the Hero Dies?!",
+                "Failed! Usoland the Hero Dies?!",
+                "Usoland the Hero Dies?!",
+                "the Hero Dies?!",
+                "Hero Dies?!",
+                "Dies?!"
+            ]
+        },
+        "published": 1720545988,
+        "title": "The Operation Failed! Usoland the Hero Dies?!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.2523,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1720933200,
+        "auth_launch_date": 1720945800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007092400079816",
+        "media_id": "d951cb7d907d57b88bf90cb3b6211b29e7afd9a0",
+        "modified": 1720545988,
+        "slug": "the-operation-failed-usoland-the-hero-dies",
+        "id": "AZCX85rxg6zBH7G86tgj",
         "auth": true
     },
     {
