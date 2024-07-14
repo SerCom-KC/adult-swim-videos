@@ -620,7 +620,7 @@
         "cma_id": "1034392"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1726867740,
         "tms_id": "EP012647370013",
@@ -893,6 +893,64 @@
         "launch_date": 1717308000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684027363420.jpg",
         "cma_id": "1055926"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
+        "tms_id": "EP012647370018",
+        "description": "Preparations for the journey to Namek hit a snag when Bulma accidentally blows up the remaining Saiyan spaceship. Mr. Popo may know of another vessel, so he and Bulma travel to the Earth's end for a closer look.",
+        "title_suggest": {
+            "input": [
+                "The Ship Resting in Yunzabit! Time to Blast Off for Planet Namek!",
+                "Ship Resting in Yunzabit! Time to Blast Off for Planet Namek!",
+                "Resting in Yunzabit! Time to Blast Off for Planet Namek!",
+                "in Yunzabit! Time to Blast Off for Planet Namek!",
+                "Yunzabit! Time to Blast Off for Planet Namek!",
+                "Time to Blast Off for Planet Namek!",
+                "to Blast Off for Planet Namek!",
+                "Blast Off for Planet Namek!",
+                "Off for Planet Namek!",
+                "for Planet Namek!",
+                "Planet Namek!",
+                "Namek!"
+            ]
+        },
+        "title": "The Ship Resting in Yunzabit! Time to Blast Off for Planet Namek!",
+        "type": "episode",
+        "expiration_date": 1726266540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1261.5603,
+        "episode_number": "18",
+        "original_air_date": 1428206400,
+        "clip_order": null,
+        "auth_launch_date": 1556596800,
+        "modified": 1720627043,
+        "airing_id": "RADS1007102400080462",
+        "media_id": "5ca567da695f574b8923bfdeb77838e668ac455d",
+        "id": "wWqrVu8eSByjFP2YaQ2nkA",
+        "slug": "the-ship-resting-in-yunzabit-time-to-blast-off-for-planet-namek",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568404188024.jpg",
+        "created": 1428078023,
+        "title_id": "2031629",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1720627043,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1720936800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568404188024.jpg",
+        "cma_id": "1067224"
     },
     {
         "auth": true,
