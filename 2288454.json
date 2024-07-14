@@ -93,7 +93,7 @@
         "launch_date": 1718510400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240527/thumbnails/2_24527151348-AS_MAWS_202_AdventuresWithMyGirlfriend-2.jpg",
         "id": "AY-XMN5u5I1d0UhX5iF-",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1719115140,
@@ -573,7 +573,7 @@
         "launch_date": 1717992000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782363-AS_MAWS_08_ZeroDayPt1-8.jpg",
         "id": "AYnP84Ib2rZC6NyF61-Z",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1723348740,
@@ -856,53 +856,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617742514-AS_MAWS_208_TheDeathofClarkKent-2.jpg",
         "id": "AZAmAdq_g6zBH7G86tgV",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1722743940,
-        "tms_id": "",
-        "description": "Jimmy and Kara race back to Metropolis to stop Brainiac's invasion of Earth! Meanwhile, Lois tries to free Clark from Brainiac's control, only to lose herself in an alternate reality where Superman never left Krypton\u2026",
-        "title_suggest": {
-            "input": [
-                "Pierce the Heavens, Superman!",
-                "the Heavens, Superman!",
-                "Heavens, Superman!",
-                "Superman!"
-            ]
-        },
-        "title": "Pierce the Heavens, Superman!",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AYj-tDmq2rZC6NyF6196",
-        "duration": 1352.8514,
-        "episode_number": "9",
-        "original_air_date": "1720929600",
-        "auth_launch_date": 1720929600,
-        "clip_order": null,
-        "airing_id": "RADS1007092400079798",
-        "media_id": "a95cd431e74a67bc625f5997fd48ece17d89e67b",
-        "modified": 1720586431,
-        "slug": "pierce-the-heavens-superman",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/1_24617743243-AS_MAWS_209_PierceTheHeavensSuperman-2.jpg",
-        "created": 1718624606,
-        "season_number": "2",
-        "title_id": "2288473",
-        "tv_rating": "tv-pg-v",
-        "published": 1720586431,
-        "tags": [],
-        "collection_title": "My Adventures with Superman",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617743243-AS_MAWS_209_PierceTheHeavensSuperman-2.jpg",
-        "id": "AZAmAlskSaru9Cdsy62s",
         "auth": true
     }
 ]
