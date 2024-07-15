@@ -120,5 +120,36 @@
         "slug": "bloody-mary",
         "id": "AZCfZbr2Saru9Cdsy7JP",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1729655940,
+        "created": 1720661239,
+        "tms_id": "",
+        "title_id": "2530047",
+        "season_number": "1",
+        "tv_rating": "tv-ma-sv",
+        "description": "Kydd, Felixx, and Eric's dead grandpappy band together to teach Eric the art of seduction.",
+        "title_suggest": {
+            "input": [
+                "Breeder"
+            ]
+        },
+        "published": 1720661246,
+        "title": "Breeder",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 0,
+        "episode_number": "4",
+        "collection_title": "Psi-Cops",
+        "original_air_date": 1721016900,
+        "auth_launch_date": 1721016900,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007112400080584",
+        "media_id": "7d376af9a38184ba6edcacddd2bb65cc3aab2043",
+        "modified": 1720661246,
+        "slug": "breeder",
+        "id": "AZCfZuVRSaru9Cdsy7JQ",
+        "auth": true
     }
 ]
