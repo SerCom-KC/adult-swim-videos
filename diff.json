@@ -1,55 +1,6 @@
 {
-    "updated": 1721078800,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": 1729655940,
-            "tms_id": "",
-            "description": "Kydd and Felixx attend a slumber party and learn that mirror demons aren't nearly as scary as their own reflections.",
-            "title_suggest": {
-                "input": [
-                    "Bloody Mary",
-                    "Mary"
-                ]
-            },
-            "title": "Bloody Mary",
-            "type": "episode",
-            "expiration_date": null,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-            "duration": 0,
-            "episode_number": "3",
-            "original_air_date": 1721016000,
-            "auth_launch_date": 1721016000,
-            "clip_order": null,
-            "airing_id": "RADS1007112400080582",
-            "media_id": "566a9366aebe2bc888142382796d531742b90873",
-            "modified": 1721072879,
-            "slug": "bloody-mary",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20240715/thumbnails/1_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg",
-            "created": 1720661162,
-            "title_id": "2530046",
-            "season_number": "1",
-            "tv_rating": "tv-ma-v",
-            "published": 1721072879,
-            "tags": [],
-            "collection_title": "Psi-Cops",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg",
-            "id": "AZCfZbr2Saru9Cdsy7JP",
-            "auth": true,
-            "collection_slug": "psi-cops",
-            "collection_title_id": "2530043",
-            "online_exclusives": false
-        },
+    "updated": 1721079821,
+    "added": [
         {
             "auth_expiration_date": 1729655940,
             "tms_id": "",
@@ -76,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1007112400080584",
             "media_id": "7d376af9a38184ba6edcacddd2bb65cc3aab2043",
-            "modified": 1721072877,
+            "modified": 1721079780,
             "slug": "breeder",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20240715/thumbnails/1_24715112583-PSICOPS_SEASON1_EP104_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXBLUEMONKEYKYDD.jpg",
@@ -84,7 +35,7 @@
             "title_id": "2530047",
             "season_number": "1",
             "tv_rating": "tv-ma-sv",
-            "published": 1721072877,
+            "published": 1721079780,
             "tags": [],
             "collection_title": "Psi-Cops",
             "disable_ads": false,
@@ -97,5 +48,6 @@
             "collection_title_id": "2530043",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
