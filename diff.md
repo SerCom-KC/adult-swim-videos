@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 15, 2024 at 12:30:44 EDT_
+_Last Update: July 15, 2024 at 16:00:46 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2530043 Psi-Cops: 2  
 ### 2530046
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/psi-cops/breeder
 seriesid=`2530043` titleid=`2530047` id=`AZCfZuVRSaru9Cdsy7JQ` mediaid=`7d376af9a38184ba6edcacddd2bb65cc3aab2043`  
 _Kydd, Felixx, and Eric's dead grandpappy band together to teach Eric the art of seduction._  
 <a href="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112583-PSICOPS_SEASON1_EP104_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXBLUEMONKEYKYDD.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112583-PSICOPS_SEASON1_EP104_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXBLUEMONKEYKYDD.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
