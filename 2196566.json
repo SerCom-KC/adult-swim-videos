@@ -1,54 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1721015940,
-        "tms_id": "",
-        "description": "When Sheriff confesses to his secret encounters with \"Sunday Man\", a man made of ice-cream, Sheriff finds that the truth is hard to swallow.",
-        "title_suggest": {
-            "input": [
-                "Sunday Man",
-                "Man"
-            ]
-        },
-        "title": "Sunday Man",
-        "expiration_date": 1717991940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 678.58,
-        "episode_number": "7",
-        "original_air_date": 1575868500,
-        "auth_launch_date": 1717992000,
-        "clip_order": null,
-        "media_id": "efe4861a444d8865c3443d7ed38b03794277cc73",
-        "modified": 1717619499,
-        "airing_id": "RADS1005032400068020",
-        "slug": "sunday-man",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191119/thumbnails/1_1911191641325-MommaNamedMeSheriff_107_dup-20190507.jpg",
-        "created": 1573748066,
-        "season_number": "1",
-        "title_id": "2196573",
-        "tv_rating": "tv-ma-sv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1717619499,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1714968000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191119/thumbnails/2_1911191641325-MommaNamedMeSheriff_107_dup-20190507.jpg",
-        "id": "AW5qscol1YiBSfg0KYfM",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1721620740,
         "tms_id": "",
         "description": "Previously, on Momma Named Me Sheriff...",
@@ -364,7 +316,7 @@
         "launch_date": 1717992000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210203/thumbnails/2_212310870-MommaNamedMeSheriff_201_dup-20210202_SheriffAndRoach.jpg",
         "id": "AXdob8BtQJ_4Uej5kTpq",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1714967940,
@@ -452,6 +404,56 @@
         "launch_date": 1720411200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210217/thumbnails/2_21217855462-MommaNamedMeSheriff_205_Election.jpg",
         "id": "AXewRoxkbxpjZvbXYmTh",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1716177540,
+        "tms_id": "EP033701060017",
+        "description": "Dispatch wants to know why Sheriff is so sad. But when he digs too deep, he uncovers a dark conspiracy involving all of Old Town.",
+        "title_suggest": {
+            "input": [
+                "The Case of the Sad, Sad Sheriff",
+                "Case of the Sad, Sad Sheriff",
+                "of the Sad, Sad Sheriff",
+                "the Sad, Sad Sheriff",
+                "Sad, Sad Sheriff",
+                "Sad Sheriff",
+                "Sheriff"
+            ]
+        },
+        "title": "The Case of the Sad, Sad Sheriff",
+        "type": "episode",
+        "expiration_date": 1747713540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 676.2756,
+        "episode_number": "8",
+        "original_air_date": 1615180500,
+        "auth_launch_date": 1713153600,
+        "clip_order": null,
+        "airing_id": "RADS1007112400080604",
+        "media_id": "6318dea731b8b806dee7f4afe2c678641293478a",
+        "modified": 1720667001,
+        "slug": "the-case-of-the-sad-sad-sheriff",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210305/thumbnails/1_21351756213-MommaNamedMeSheriff_208_SadSadSheriff.jpg",
+        "created": 1614809705,
+        "title_id": "2247958",
+        "season_number": "2",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1720667001,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1721016000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210305/thumbnails/2_21351756213-MommaNamedMeSheriff_208_SadSadSheriff.jpg",
+        "id": "AXf6KKqjQJ_4Uej5kTvR",
         "auth": false
     }
 ]
