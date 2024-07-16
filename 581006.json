@@ -650,56 +650,6 @@
         "cma_id": "1468414"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1721102340,
-        "tms_id": "EP007164450110",
-        "description": "Stan takes an acting class taught by Roger after he blows an undercover assignment.  Stan then uses his newfound acting skills to steal a part in a local play from Roger.  Roger, down but not out, takes out the play's female lead and gets her part.  Now it's opening night and Stan and Roger take to the stage to see who is the better actor.  Meanwhile, Steve and his friends plan a sleepover.",
-        "title_suggest": {
-            "input": [
-                "A Pinata Named Desire",
-                "Pinata Named Desire",
-                "Named Desire",
-                "Desire"
-            ]
-        },
-        "expiration_date": 1651463940,
-        "title": "A Pinata Named Desire",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1307.7731,
-        "episode_number": "11",
-        "original_air_date": 1301709600,
-        "clip_order": null,
-        "auth_launch_date": 1720497600,
-        "modified": 1720074063,
-        "media_id": "8f9fdaebfbaea33492a5a205ae2fec36637bb66b",
-        "airing_id": "RADS1007032400078980",
-        "id": "JNUk6MECTBG_MW43CqUrpQ",
-        "slug": "a-pinata-named-desire",
-        "views": 794,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15199409228114.jpg",
-        "created": 1403113499,
-        "season_number": "6",
-        "title_id": "822213",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1720074063,
-        "first_published": 1424496024,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1650859200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199409228114.jpg",
-        "cma_id": "1464319"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1721361540,
@@ -796,6 +746,56 @@
         "launch_date": 1651464000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg",
         "cma_id": "1470597"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1721707140,
+        "tms_id": "EP007164450122",
+        "description": "Stan arranges for Principal Lewis to marry Superintendent Riggs so he can finally be a best man at a wedding; Roger's new shorts attract the interest of Ricky Martin.",
+        "title_suggest": {
+            "input": [
+                "The Worst Stan",
+                "Worst Stan",
+                "Stan"
+            ]
+        },
+        "expiration_date": 1652673540,
+        "title": "The Worst Stan",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1307.94,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "4",
+        "original_air_date": 1322276400,
+        "clip_order": null,
+        "auth_launch_date": 1721102400,
+        "modified": 1720709935,
+        "media_id": "731837fe8699566fc65b2b16360eca75fb5facdb",
+        "airing_id": "RADS1007112400080612",
+        "id": "a5hUhELjQ56mIxtNiJ6QVg",
+        "slug": "the-worst-stan",
+        "views": 2523,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153028410951220.jpg",
+        "created": 1403114086,
+        "season_number": "7",
+        "title_id": "748164",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1720709935,
+        "first_published": 1480774247,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1652068800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153028410951220.jpg",
+        "cma_id": "1473641"
     },
     {
         "auth": true,
