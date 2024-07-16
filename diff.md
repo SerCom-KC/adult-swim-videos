@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 16, 2024 at 01:30:44 EDT_
+_Last Update: July 16, 2024 at 05:00:45 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2194549 Gemusetto: 1  
-### 2241839
-**Gemusetto S02E14 - Episode Fourteen: al Fine**  
-TV-MA-L 🔓 11:44  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-fourteen-al-fine  
-seriesid=`2194549` titleid=`2241839` id=`AXZy7ItdbxpjZvbXYlqR` mediaid=`63ac7d365ef27cae25c0dd5cb465649245571d2a`  
-_His goal is almost at his fingertips- can Makasu team up with his friends and Battle Amphibian Piano Frog in order to save everyone and redeem himself?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757506-GSMP_214_dup-20201214.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171757506-GSMP_214_dup-20201214.jpg" height="144px" /></a>
+2436449 Zom 100: Bucket List of the Dead: 1  
+### 2436460
+**Zom 100: Bucket List of the Dead S01E?? - Hometown of the Dead II**  
+TV-MA-SV 🔒 22:18  
+⌛ August 4, 2024 at 03:59:00 EDT  
+https://www.adultswim.com/videos/zom-100-bucket-list-of-the-dead/hometown-of-the-dead-ii  
+seriesid=`2436449` titleid=`2436460` id=`AZBHSCWISaru9Cdsy68P` mediaid=`9d0f2af787fbeb62b3b334ba79080aabc782d4e5`  
+_Akira and his friends split up to save the villagers from the massive swarm of zombies. But zombies aren't their only concern as Higurashi and his gang stand in their way!_  
+## Video removed
+No videos were removed.  
