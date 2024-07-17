@@ -54,59 +54,6 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1721188740,
-        "tms_id": "EP002989350042",
-        "rating": 8.683472,
-        "description": "In a suspicious coincidence, Melissa and Jason each break their arms. This may affect the current film in production, but Brendon is also worried that he is dumb, or at the very least, that Melissa is smarter than he is. Meanwhile, McGuirk wants desperately to become a lifeguard.",
-        "title_suggest": {
-            "input": [
-                "Broken Dreams",
-                "Dreams"
-            ]
-        },
-        "type": "episode",
-        "title": "Broken Dreams",
-        "expiration_date": 1718164740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
-        "duration": 1358.4671338,
-        "episode_number": "11",
-        "original_air_date": 1037588400,
-        "clip_order": null,
-        "auth_launch_date": 1718164800,
-        "modified": 1718979306,
-        "media_id": "7e2775da36f568957fdbd28c5ee6ce5ef7f6a990",
-        "airing_id": "RADS1006062400074645",
-        "id": "1jVnCfTPTneifhJSJYaUbw",
-        "slug": "broken-dreams",
-        "views": 387824,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351624362-hmovies_037.jpg",
-        "created": 1402945467,
-        "title_id": "432261",
-        "season_number": "3",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1718979306,
-        "tags": [
-            "home movies episode 37 broken dreams melissa jason break arm broken coach mcguirk lifeguard"
-        ],
-        "rating_count": 853,
-        "collection_title": "Home Movies",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1715140800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624362-hmovies_037.jpg",
-        "cma_id": "987330"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
         "auth_expiration_date": 1695182340,
         "tms_id": "EP002989350048",
         "rating": 9.043634,
@@ -260,6 +207,59 @@
         "launch_date": 1718769600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624599-hmovies_041.jpg",
         "cma_id": "992121"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1695787140,
+        "tms_id": "EP002989350059",
+        "rating": 8.869649,
+        "description": "Life turns upside-down for Brendon, Jason and Melissa when they find a lost puppy, which Brendon names Honkey Magoo. The hyper puppy quickly runs out of friends after wrecking Paula's house, ruining the kids' movie, chasing off Mr. Lynch's cats and turning Jason's new parakeet against him.",
+        "title_suggest": {
+            "input": [
+                "Honkey Magoo",
+                "Magoo"
+            ]
+        },
+        "type": "episode",
+        "title": "Honkey Magoo",
+        "expiration_date": 1724212740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1368.3003003,
+        "episode_number": "6",
+        "original_air_date": 1078113600,
+        "clip_order": null,
+        "auth_launch_date": 1692763200,
+        "modified": 1720764381,
+        "media_id": "c1964e711c743e37df585edef8fbc4cd09ff509a",
+        "airing_id": "RADS1007112400080743",
+        "id": "QMPSyRLQSd-KSv1JoJAW1g",
+        "slug": "honkey-magoo",
+        "views": 299971,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_2035162778-hmovies_045.jpg",
+        "created": 1402945467,
+        "title_id": "449543",
+        "season_number": "4",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1720764381,
+        "tags": [
+            "home movies episode 45 honkey magoo lost puppy parakeet"
+        ],
+        "rating_count": 537,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1721188800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162778-hmovies_045.jpg",
+        "cma_id": "991957"
     },
     {
         "auth": false,
@@ -483,7 +483,7 @@
         "cma_id": "992162"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1724212740,
         "tms_id": "EP002989350054",
