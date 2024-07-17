@@ -1,5 +1,37 @@
 [
     {
+        "auth_expiration_date": 1721188740,
+        "created": 1720279987,
+        "tms_id": "EP002070020051",
+        "title_id": "731255",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dl",
+        "description": "Hank inadvertently causes Kahn to lose his job.",
+        "title_suggest": {
+            "input": [
+                "De-Kahnstructing Henry",
+                "Henry"
+            ]
+        },
+        "published": 1720287689,
+        "title": "De-Kahnstructing Henry",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.7964,
+        "episode_number": "13",
+        "collection_title": "King of the Hill",
+        "original_air_date": 1239847200,
+        "auth_launch_date": 1720584000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007062400079049",
+        "media_id": "b276fcaa2c1dc89bd82aec6b31d27bb408faab6c",
+        "modified": 1720287689,
+        "slug": "de-kahnstructing-henry",
+        "id": "AZCIrXaXSaru9Cdsy7E8",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1721361540,
         "created": 1720286391,
         "tms_id": "EP002070020053",
@@ -101,42 +133,6 @@
         "modified": 1720545389,
         "slug": "escape-from-party-island",
         "id": "AZCX-pimg6zBH7G86tgk",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1721793540,
-        "created": 1720716656,
-        "tms_id": "EP002070020056",
-        "title_id": "731271",
-        "season_number": "3",
-        "tv_rating": "tv-pg-l",
-        "description": "Love Hurts and So Does Art: Hank discovers an x-ray of his colon hanging in an art museum; Bobby fears his friendship with Connie may come to an end if he kisses her after a school dance...and drowns his sorrows in deli food.",
-        "title_suggest": {
-            "input": [
-                "Love Hurts and So Does Art",
-                "Hurts and So Does Art",
-                "and So Does Art",
-                "So Does Art",
-                "Does Art",
-                "Art"
-            ]
-        },
-        "published": 1720769181,
-        "title": "Love Hurts and So Does Art",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1397.3625,
-        "episode_number": "18",
-        "collection_title": "King of the Hill",
-        "original_air_date": 1239762600,
-        "auth_launch_date": 1721188800,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1007112400080687",
-        "media_id": "edcd10fe0a0698d18a521e03f6eb8e2b9c88c373",
-        "modified": 1720769181,
-        "slug": "love-hurts-and-so-does-art",
-        "id": "AZCitH5Bg6zBH7G86tgl",
         "auth": true
     },
     {

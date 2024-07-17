@@ -63,6 +63,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447171440,
+        "auth_expiration_date": 1721188740,
+        "tms_id": "EP007959510003",
+        "rating": 7.747634,
+        "description": "When Orel learns that God hates waste he decides to recycle his own urine.",
+        "title_suggest": {
+            "input": [
+                "Waste"
+            ]
+        },
+        "type": "episode",
+        "title": "Waste",
+        "expiration_date": 1718164740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 694.3670337,
+        "episode_number": "4",
+        "original_air_date": 1138597200,
+        "clip_order": null,
+        "auth_launch_date": 1718164800,
+        "modified": 1718032886,
+        "media_id": "8c6284a781035928667f1c88e9c9d93d2e2f9cf5",
+        "airing_id": "RADS1005032400068557",
+        "id": "3ENSjrGrRg6nCQ0rI2f4cg",
+        "slug": "waste",
+        "views": 225047,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111551456-moralorel_004.jpg",
+        "created": 1402945470,
+        "title_id": "633146",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1718032886,
+        "tags": [
+            "moral orel episode 4 waste urine drink pee sports coach race"
+        ],
+        "rating_count": 634,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1715140800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551456-moralorel_004.jpg",
+        "cma_id": "1323456"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -742,7 +795,7 @@
         "cma_id": "1328413"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447171500,
         "auth_expiration_date": 1724212740,
         "tms_id": "EP007959510008",
@@ -791,57 +844,5 @@
         "launch_date": 1718164800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111553169-moralorel_009.jpg",
         "cma_id": "1345060"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447172100,
-        "auth_expiration_date": 1700629140,
-        "tms_id": "EP007959510014",
-        "rating": 7.727941,
-        "description": "Orel solves puzzling and mysterious capers through the sheer power of his righteous logic.",
-        "title_suggest": {
-            "input": [
-                "Elemental Orel",
-                "Orel"
-            ]
-        },
-        "type": "episode",
-        "title": "Elemental Orel",
-        "expiration_date": 1724212740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 680.1001001,
-        "episode_number": "4",
-        "original_air_date": 1165209300,
-        "clip_order": null,
-        "auth_launch_date": 1697601600,
-        "modified": 1720768291,
-        "media_id": "235b2bfcbee7992ebf662bcc05a5c35a34c2a39a",
-        "airing_id": "RADS1007112400080716",
-        "id": "xtdyH8VnRROEMhcAwFZxYA",
-        "slug": "elemental-orel",
-        "views": 189378,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111557404-moralorel_017.jpg",
-        "created": 1402945470,
-        "title_id": "653297",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1720768291,
-        "tags": [],
-        "rating_count": 544,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721188800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111557404-moralorel_017.jpg",
-        "cma_id": "1365127"
     }
 ]
