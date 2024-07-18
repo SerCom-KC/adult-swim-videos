@@ -1,61 +1,65 @@
 {
-    "updated": 1721277027,
-    "added": [
+    "updated": 1721318448,
+    "added": [],
+    "removed": [
         {
             "auth": false,
-            "ott_launch_date": 1448047020,
-            "auth_expiration_date": 1684900799,
-            "tms_id": "EP001022180002",
-            "rating": 7.7670684,
-            "description": "A mysterious villain kidnaps Moltar and Space Ghost must solicit the help of Adam West, Lee Meriweather and Eartha Kitt, all from the \"Batman\"television series, in an effort to save him. And...holy exoskeleton, Space Ghost, it's Zorak as Batmantis!",
+            "ott_launch_date": 1451673840,
+            "auth_expiration_date": 1721188740,
+            "tms_id": "EP004625740021",
+            "rating": 8.393286,
+            "description": "It's \"Take Your Son to Work Day\" and Brak is bumming because his dad doesn't have a job. Also, giant ants.",
             "title_suggest": {
                 "input": [
-                    "Batmantis"
+                    "We Ski In Peace",
+                    "Ski In Peace",
+                    "In Peace",
+                    "Peace"
                 ]
             },
             "type": "episode",
-            "title": "Batmantis",
-            "expiration_date": 1738731540,
+            "title": "We Ski In Peace",
+            "expiration_date": 2085368400,
             "platforms": [
                 "web",
                 "mobile",
                 "ott"
             ],
-            "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-            "duration": 655.3003003,
-            "episode_number": "8",
-            "original_air_date": 926132400,
+            "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
+            "duration": 678.63,
+            "episode_number": "11",
+            "original_air_date": 1041222600,
             "clip_order": null,
-            "auth_launch_date": 1675832400,
-            "modified": 1721229285,
-            "airing_id": "RADS1007172400081243",
-            "media_id": "5e5084b9cdd63a041cf52ea274b09887b6352665",
-            "id": "rLMuUOGATju6Q5oQuigI7g",
-            "slug": "batmantis",
-            "views": 46529,
+            "auth_launch_date": 1718164800,
+            "modified": 1718979319,
+            "media_id": "62096cd9e247e6f8df5863725f3fd32fcc6afb13",
+            "airing_id": "RADS1006261900003143",
+            "id": "txlx10CfRjSGghpXrlZz-g",
+            "slug": "we-ski-in-peace",
+            "views": 160591,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417948127-sgc2c_9408_dst_cid-9129902.jpg",
-            "created": 1402945476,
-            "title_id": "322740",
-            "season_number": "1",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321430550-brak_2211.jpg",
+            "created": 1402945478,
+            "title_id": "438041",
+            "season_number": "2",
             "tv_rating": "tv-pg",
-            "active": true,
+            "active": false,
             "ott_expiration_date": null,
-            "published": 1721229285,
+            "blacklist": [],
+            "published": 1718979319,
             "tags": [
-                "space ghost coast to coast c2c batmantis episode 8"
+                "brak show episode 20 we ski in peace take your son to work day giant ants"
             ],
-            "rating_count": 249,
-            "collection_title": "Space Ghost Coast to Coast",
+            "rating_count": 417,
+            "collection_title": "The Brak Show",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1721275200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948127-sgc2c_9408_dst_cid-9129902.jpg",
-            "cma_id": "",
-            "collection_slug": "space-ghost-coast-to-coast",
-            "collection_title_id": "322328",
+            "launch_date": 1561694400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321430550-brak_2211.jpg",
+            "cma_id": "1468686",
+            "collection_slug": "the-brak-show",
+            "collection_title_id": "340531",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
