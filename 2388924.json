@@ -178,7 +178,7 @@
         "launch_date": 1718337600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240322/thumbnails/2_243221414292-Screenshot2024-03-22at2.13.56PM.png",
         "id": "AY5DnexKC2cKYm1ap-3f",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1718942340,
@@ -323,6 +323,50 @@
         },
         "title": "Prison",
         "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYbq0iTJ4k01GlbfzrYt",
+        "duration": 1293.9927,
+        "episode_number": "9",
+        "original_air_date": 1714104000,
+        "auth_launch_date": 1718942400,
+        "clip_order": null,
+        "airing_id": "RADS1006152400075556",
+        "media_id": "ff5b9e4a1bdcf9c1389be4da63d455d52a08f99a",
+        "modified": 1718514404,
+        "slug": "prison",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240426/thumbnails/1_244261522373-Screenshot2024-04-26at3.21.50PM.png",
+        "created": 1713549115,
+        "title_id": "2424749",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1718514404,
+        "tags": [],
+        "collection_title": "Royal Crackers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240426/thumbnails/2_244261522373-Screenshot2024-04-26at3.21.50PM.png",
+        "id": "AY73fIDr5I1d0UhX5iFr",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1721361540,
+        "tms_id": "",
+        "description": "Stebe gets sent to white collar prison, where he quickly becomes one of the most popular inmates. However, when Theo gets locked up too, Stebe's position as the 'cool guy' comes under threat.",
+        "title_suggest": {
+            "input": [
+                "Prison"
+            ]
+        },
+        "title": "Prison",
+        "type": "episode",
         "expiration_date": 1724385540,
         "collection_id": "AYbq0iTJ4k01GlbfzrYt",
         "duration": 1293.9927,
@@ -343,7 +387,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1721361600,
         "id": "AY73fILt5I1d0UhX5iFs",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1720756740,
