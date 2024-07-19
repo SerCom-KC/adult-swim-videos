@@ -140,6 +140,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1721966340,
+        "tms_id": "EP003034830040",
+        "description": "Fry quests to recover a seven-leaf clover he possessed as a child.",
+        "title_suggest": {
+            "input": [
+                "Luck of the Fryrish",
+                "of the Fryrish",
+                "the Fryrish",
+                "Fryrish"
+            ]
+        },
+        "title": "Luck of the Fryrish",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1399.2311,
+        "episode_number": "10",
+        "original_air_date": 1046664000,
+        "auth_launch_date": 1721361600,
+        "clip_order": null,
+        "airing_id": "RADS1007152400080888",
+        "media_id": "d07db0e194ffad49b994332a0725b5fc13016d96",
+        "modified": 1721015741,
+        "slug": "luck-of-the-fryrish",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221439161-Futurama_039_LuckOfTheFryrish.png",
+        "created": 1647870820,
+        "title_id": "437703",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "published": 1721015741,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221439161-Futurama_039_LuckOfTheFryrish.png",
+        "id": "AX-swUGi_0O4w1rD3R3n",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1721447940,
         "tms_id": "EP003034830036",
         "description": "Bender meets a charming fembot in the Bending Factory when Farnsworth sends him there for rehabilitation.",
@@ -182,54 +229,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171417144-Futurama_035_BendlessLove.png",
         "id": "AX98C5ic208s7zyYUMTv",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1721361540,
-        "tms_id": "EP003034830034",
-        "description": "The ship crashes on a planet inhabited by a race of man-hating, giant women.",
-        "title_suggest": {
-            "input": [
-                "Amazon Women in the Mood",
-                "Women in the Mood",
-                "in the Mood",
-                "the Mood",
-                "Mood"
-            ]
-        },
-        "title": "Amazon Women in the Mood",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.8672,
-        "episode_number": "5",
-        "original_air_date": "1046232000",
-        "auth_launch_date": 1720756800,
-        "clip_order": null,
-        "airing_id": "RADS1007062400079240",
-        "media_id": "1e1622eb87e5172e820f34d2cefd109ef718b84c",
-        "modified": 1720332783,
-        "slug": "amazon-women-in-the-mood",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_2239113184-Futurama_034_AmazonWomenInTheMood.png",
-        "created": 1646841807,
-        "season_number": "3",
-        "title_id": "437698",
-        "tv_rating": "tv-14",
-        "published": 1720332783,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239113184-Futurama_034_AmazonWomenInTheMood.png",
-        "id": "AX9va8E__0O4w1rD3Ry5",
         "auth": true
     }
 ]
