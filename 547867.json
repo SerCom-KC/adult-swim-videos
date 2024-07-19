@@ -1,6 +1,60 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1451682480,
+        "auth_expiration_date": 1692331140,
+        "tms_id": "EP007008200031",
+        "rating": 8.376269,
+        "description": "Tom tries to sell novelty beverage cups at the Mall while the Mayor celebrates Jefferton's 30th anniversary by looking for the perfect painting.",
+        "title_suggest": {
+            "input": [
+                "My Big Cups",
+                "Big Cups",
+                "Cups"
+            ]
+        },
+        "type": "episode",
+        "title": "My Big Cups",
+        "expiration_date": 1727409540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 672.31,
+        "episode_number": "10",
+        "original_air_date": 1149481800,
+        "clip_order": null,
+        "auth_launch_date": 1689307200,
+        "modified": 1721015121,
+        "airing_id": "RADS1007152400080895",
+        "media_id": "6d21b0c541fb5121847f4c96db1dcc3605008a16",
+        "id": "59TV43eaTUqnZu-N1sHVGg",
+        "slug": "my-big-cups",
+        "views": 146045,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117956400-tgttm_023.jpg",
+        "created": 1402945482,
+        "title_id": "639406",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1721015121,
+        "tags": [
+            "tom goes to the mayor episode 23 my big cups beverage 30th anniversary mall painting"
+        ],
+        "rating_count": 396,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1721361600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956400-tgttm_023.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451681880,
         "auth_expiration_date": 1704085199,
         "tms_id": "EP007008200007",
@@ -50,60 +104,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1717128000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836230-tgttm_007.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1451681820,
-        "auth_expiration_date": 1703825940,
-        "tms_id": "EP007008200004",
-        "rating": 7.61442,
-        "description": "At the request of the Mayor, Tom marries all the dogs in Jefferton. Jeff Goldblum guest stars as a pet store owner.",
-        "title_suggest": {
-            "input": [
-                "Toodle Day",
-                "Day"
-            ]
-        },
-        "type": "episode",
-        "title": "Toodle Day",
-        "expiration_date": 1721361540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 697.56,
-        "episode_number": "5",
-        "original_air_date": 1102912200,
-        "clip_order": null,
-        "auth_launch_date": 1700802000,
-        "modified": 1714886078,
-        "media_id": "36151c8460cbcfdc7da7d9b7e0aee503a3f5183b",
-        "airing_id": "RADS1005042400068741",
-        "id": "CcgkwbHOTTmWaIb3Pjdj7A",
-        "slug": "toodle-day",
-        "views": 90223,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117835486-tgttm_005.jpg",
-        "created": 1402945482,
-        "title_id": "607110",
-        "season_number": "1",
-        "tv_rating": "tv-pg-s",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1714886078,
-        "tags": [
-            "tom goes to the mayor tgttm episode 5 toodle day jeff goldblum marriage marry dogs"
-        ],
-        "rating_count": 319,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1715313600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835486-tgttm_005.jpg",
         "cma_id": ""
     },
     {
