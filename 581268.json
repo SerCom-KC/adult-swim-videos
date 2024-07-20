@@ -1667,7 +1667,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1512401340,
         "auth_expiration_date": 1721447940,
         "tms_id": "EP007008180114",
@@ -3011,7 +3011,7 @@
         "launch_date": 1721448000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101038426-Squidbillies_1103_TheLicemanCometh.png",
         "id": "AX2k_07U4Xbjep71f6Hp",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1722052740,
@@ -5446,7 +5446,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447445460,
         "auth_expiration_date": 1721447940,
         "tms_id": "EP007008180067",
