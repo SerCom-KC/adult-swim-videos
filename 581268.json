@@ -1667,7 +1667,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1512401340,
         "auth_expiration_date": 1721447940,
         "tms_id": "EP007008180114",
@@ -1828,7 +1828,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1513610940,
         "auth_expiration_date": 1722052740,
         "tms_id": "EP007008180116",
@@ -2920,7 +2920,7 @@
         "launch_date": 1718424000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121017137-Squidbillies_1101_NoSpaceLikeHome.png",
         "id": "AX0RMe4EUQa40cfnRSoO",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1720843140,
@@ -3011,7 +3011,7 @@
         "launch_date": 1721448000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101038426-Squidbillies_1103_TheLicemanCometh.png",
         "id": "AX2k_07U4Xbjep71f6Hp",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1722052740,
@@ -3321,7 +3321,7 @@
         "cma_id": "1243155"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447445580,
         "auth_expiration_date": 1722052740,
         "tms_id": "EP007008180068",
@@ -5446,7 +5446,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447445460,
         "auth_expiration_date": 1721447940,
         "tms_id": "EP007008180067",
