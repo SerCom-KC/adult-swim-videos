@@ -202,7 +202,7 @@
         "launch_date": 1720341000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_246241428324-Screenshot2024-06-24at2.27.30PM.png",
         "id": "AZAEnsXMg6zBH7G86tgR",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1720945740,
@@ -355,7 +355,7 @@
         "launch_date": 1721550600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_247151119414-Screenshot2024-07-15at11.19.08AM.png",
         "id": "AZBK7TpAg6zBH7G86tgb",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1723363140,
@@ -392,6 +392,45 @@
         "modified": 1721079789,
         "slug": "the-legend-is-back-kyros-all-out-blow",
         "id": "AZC3rf_USaru9Cdsy7OG",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1723364940,
+        "created": 1721068569,
+        "tms_id": "EP022836810048",
+        "title_id": "2435747",
+        "season_number": "17",
+        "tv_rating": "tv-pg-l",
+        "description": "Kyros finally taking down Doflamingo leaves Doflamingo's clan shocked! Meanwhile at the Colosseum, Rebecca gets her memories of her loving father Kyros back, and Sabo makes a move to end the championship battle by blowing up the whole ring!",
+        "title_suggest": {
+            "input": [
+                "The Fire Fist Strikes! The Flare-Flare Fruit Power Returns!",
+                "Fire Fist Strikes! The Flare-Flare Fruit Power Returns!",
+                "Fist Strikes! The Flare-Flare Fruit Power Returns!",
+                "Strikes! The Flare-Flare Fruit Power Returns!",
+                "The Flare-Flare Fruit Power Returns!",
+                "Flare-Flare Fruit Power Returns!",
+                "Fruit Power Returns!",
+                "Power Returns!",
+                "Returns!"
+            ]
+        },
+        "published": 1721079790,
+        "title": "The Fire Fist Strikes! The Flare-Flare Fruit Power Returns!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1330.6293,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1721538000,
+        "auth_launch_date": 1721550600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007152400081129",
+        "media_id": "93c07800f160c8c4f5d213134c3be4bf1cbf078f",
+        "modified": 1721079790,
+        "slug": "the-fire-fist-strikes-the-flare-flare-fruit-power-returns",
+        "id": "AZC3rkRwg6zBH7G86tgn",
         "auth": true
     },
     {
