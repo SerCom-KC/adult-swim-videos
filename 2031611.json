@@ -395,7 +395,7 @@
         "cma_id": "1064048"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1726869540,
         "tms_id": "EP012647370014",
@@ -618,62 +618,6 @@
         "launch_date": 1710055800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111226375-Screenshot2024-03-11at12.25.59PM.png",
         "cma_id": "1034392"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1597463999,
-        "tms_id": "EP012647370019",
-        "description": "A bad case of space boredom makes Bulma a pain to share close quarters with, and Vegeta recovers from his injuries only to discover that Frieza has a head start on tracking down the magic Dragon Balls!",
-        "title_suggest": {
-            "input": [
-                "A Powerful New Foe! Frieza, Ruler of the Universe!",
-                "Powerful New Foe! Frieza, Ruler of the Universe!",
-                "New Foe! Frieza, Ruler of the Universe!",
-                "Foe! Frieza, Ruler of the Universe!",
-                "Frieza, Ruler of the Universe!",
-                "Ruler of the Universe!",
-                "of the Universe!",
-                "the Universe!",
-                "Universe!"
-            ]
-        },
-        "title": "A Powerful New Foe! Frieza, Ruler of the Universe!",
-        "type": "episode",
-        "expiration_date": 1726871340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "duzujScQQRKOubvQENdNag",
-        "duration": 1261.2266,
-        "episode_number": "19",
-        "original_air_date": 1428811200,
-        "clip_order": null,
-        "auth_launch_date": 1556596800,
-        "modified": 1721113322,
-        "airing_id": "RADS1007152400081182",
-        "media_id": "ef56fa7d3a2236ac292e63c4f58e276c7ade1df6",
-        "id": "hT-v9wOLRMmhVR3knHVZjg",
-        "slug": "a-powerful-new-foe-frieza-ruler-of-the-universe",
-        "views": 967,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568404460232.jpg",
-        "created": 1428661223,
-        "title_id": "2031630",
-        "tv_rating": "tv-pg-lv",
-        "season_number": "1",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1721113322,
-        "first_published": 1428661223,
-        "tags": [],
-        "collection_title": "Dragon Ball Z Kai",
-        "modified_by": "ODT Listener",
-        "launch_date": 1721541600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568404460232.jpg",
-        "cma_id": "1068992"
     },
     {
         "auth": true,
