@@ -407,5 +407,38 @@
         "slug": "the-oath-of-pain",
         "id": "AZDMz5leSaru9Cdsy7SG",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1749873540,
+        "created": 1721489820,
+        "tms_id": "",
+        "title_id": "622463",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "description": "Thanks to Naruto's ingenious plan, Kakashi is freed from the water prison.",
+        "title_suggest": {
+            "input": [
+                "Kakashi: Sharingan Warrior",
+                "Sharingan Warrior",
+                "Warrior"
+            ]
+        },
+        "published": 1721489821,
+        "title": "Kakashi: Sharingan Warrior",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 0,
+        "episode_number": "9",
+        "collection_title": "Naruto",
+        "original_air_date": 1130634000,
+        "auth_launch_date": 1721534400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007202400081794",
+        "media_id": "9c0dc0361f2597615fdb2806fe471aeb8e7f57c2",
+        "modified": 1721489821,
+        "slug": "kakashi-sharingan-warrior",
+        "id": "AZDQygyPSaru9Cdsy7TF",
+        "auth": true
     }
 ]
