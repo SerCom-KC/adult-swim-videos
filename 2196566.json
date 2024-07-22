@@ -1,54 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1721620740,
-        "tms_id": "",
-        "description": "Previously, on Momma Named Me Sheriff...",
-        "title_suggest": {
-            "input": [
-                "Chili Snakes",
-                "Snakes"
-            ]
-        },
-        "title": "Chili Snakes",
-        "expiration_date": 1718596740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AW5moY7HadNs2hMNfuf_",
-        "duration": 656.88,
-        "episode_number": "8",
-        "original_air_date": 1576472400,
-        "auth_launch_date": 1718596800,
-        "clip_order": null,
-        "media_id": "e5d405a0f967c69d4940ca10d9ee1245cc53037d",
-        "modified": 1718221340,
-        "airing_id": "RADS1006122400075230",
-        "slug": "chili-snakes",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg",
-        "created": 1573748093,
-        "season_number": "1",
-        "title_id": "2196574",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1718221340,
-        "tags": [],
-        "collection_title": "Momma Named Me Sheriff",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1715572800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141114488-MommaNamedMeSheriff_108_dup-20190507.jpg",
-        "id": "AW5qsjBR1YiBSfg0KYfN",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1722225540,
         "tms_id": "",
         "description": "When the President of the United States comes to Old Town for a sleep over at Sheriff's, Sheriff turns into a dinosaur and eats a bunch of children. Just kidding, that doesn't happen, but some other stuff does. Just watch it.",
@@ -270,7 +222,7 @@
         "launch_date": 1718596800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210201/thumbnails/2_2121104624-MommaNamedMeSheriff_202_dup-20210127_BadParents.jpg",
         "id": "AXdeRcIrbxpjZvbXYmKj",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1723521540,
@@ -454,6 +406,52 @@
         "launch_date": 1721016000,
         "poster": "https://media.cdn.adultswim.com/uploads/20210305/thumbnails/2_21351756213-MommaNamedMeSheriff_208_SadSadSheriff.jpg",
         "id": "AXf6KKqjQJ_4Uej5kTvR",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1716782340,
+        "tms_id": "EP033701060018",
+        "description": "An upset Mayor forbids Sheriff's friends from hanging around the station so that he can focus on stopping crime. But to keep them around, Sheriff knights his friends, landing him in a predicament of medieval proportions.",
+        "title_suggest": {
+            "input": [
+                "Neighborhood Knight Watch",
+                "Knight Watch",
+                "Watch"
+            ]
+        },
+        "title": "Neighborhood Knight Watch",
+        "type": "episode",
+        "expiration_date": 1748318340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AW5moY7HadNs2hMNfuf_",
+        "duration": 1351.8839,
+        "episode_number": "9",
+        "original_air_date": 1615780800,
+        "auth_launch_date": 1713758400,
+        "clip_order": null,
+        "airing_id": "RADS1007172400081454",
+        "media_id": "1127ea0d824abeb4a4de5e1df6f1b157677f671d",
+        "modified": 1721261013,
+        "slug": "neighborhood-knight-watch",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210311/thumbnails/1_2131175021-MommaNamedMeSheriff_209-10_dup-20210218_NeighborhoodKnightWatch.jpg",
+        "created": 1615216649,
+        "title_id": "2247959",
+        "season_number": "2",
+        "tv_rating": "tv-ma-sv",
+        "published": 1721261013,
+        "tags": [],
+        "collection_title": "Momma Named Me Sheriff",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1721620800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210311/thumbnails/2_2131175021-MommaNamedMeSheriff_209-10_dup-20210218_NeighborhoodKnightWatch.jpg",
+        "id": "AXgSaiZUQJ_4Uej5kTxu",
         "auth": false
     }
 ]
