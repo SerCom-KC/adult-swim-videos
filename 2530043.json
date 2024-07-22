@@ -180,6 +180,38 @@
     },
     {
         "auth_expiration_date": 1729655940,
+        "created": 1721251730,
+        "tms_id": "",
+        "title_id": "2530049",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "description": "Faith heals all. Well, faith and money.",
+        "title_suggest": {
+            "input": [
+                "Faith Healer",
+                "Healer"
+            ]
+        },
+        "published": 1721260381,
+        "title": "Faith Healer",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4598,
+        "episode_number": "6",
+        "collection_title": "Psi-Cops",
+        "original_air_date": 1721621700,
+        "auth_launch_date": 1721621700,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007172400081446",
+        "media_id": "b514899aadae79c4417125ed1378a575bfb0e0ef",
+        "modified": 1721260381,
+        "slug": "faith-healer",
+        "id": "AZDCmRVeSaru9Cdsy7Ph",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1729655940,
         "created": 1721251750,
         "tms_id": "",
         "title_id": "2530048",
