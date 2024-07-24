@@ -33,6 +33,42 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1721793540,
+        "created": 1720716656,
+        "tms_id": "EP002070020056",
+        "title_id": "731271",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "description": "Love Hurts and So Does Art: Hank discovers an x-ray of his colon hanging in an art museum; Bobby fears his friendship with Connie may come to an end if he kisses her after a school dance...and drowns his sorrows in deli food.",
+        "title_suggest": {
+            "input": [
+                "Love Hurts and So Does Art",
+                "Hurts and So Does Art",
+                "and So Does Art",
+                "So Does Art",
+                "Does Art",
+                "Art"
+            ]
+        },
+        "published": 1720769181,
+        "title": "Love Hurts and So Does Art",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.3625,
+        "episode_number": "18",
+        "collection_title": "King of the Hill",
+        "original_air_date": 1239762600,
+        "auth_launch_date": 1721188800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007112400080687",
+        "media_id": "edcd10fe0a0698d18a521e03f6eb8e2b9c88c373",
+        "modified": 1720769181,
+        "slug": "love-hurts-and-so-does-art",
+        "id": "AZCitH5Bg6zBH7G86tgl",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1722139140,
@@ -97,69 +133,6 @@
         "launch_date": 1501731000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261358287-KingOfTheHill_320_DeathAndTexas.png",
         "cma_id": "1444608"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1722398340,
-        "tms_id": "EP002070020060",
-        "rating": 7.3235292,
-        "description": "Hank's friends become believers in Luanne's claim that she was visited by Buckley's angel.",
-        "title_suggest": {
-            "input": [
-                "Wings of the Dope",
-                "of the Dope",
-                "the Dope",
-                "Dope"
-            ]
-        },
-        "type": "episode",
-        "title": "Wings of the Dope",
-        "expiration_date": 1502422199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1404.0359,
-        "episode_number": "23",
-        "original_air_date": 1240108200,
-        "clip_order": null,
-        "auth_launch_date": 1721793600,
-        "modified": 1721402807,
-        "media_id": "f610a67af01b3a314882dc21f6432d155fd96bf6",
-        "airing_id": "RADS1007182400081534",
-        "id": "FIpj2-wgReOF5qFK_p1svA",
-        "slug": "wings-of-the-dope",
-        "views": 150080,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220801/thumbnails/1_2281130195-KOTHWingoftheDope.png",
-        "created": 1402945468,
-        "title_id": "731276",
-        "season_number": "3",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1721402807,
-        "tags": [
-            "wings of the dope",
-            "hank",
-            "friends",
-            "believers",
-            "luanne",
-            "claim",
-            "visited",
-            "buckley",
-            "angel"
-        ],
-        "rating_count": 204,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1501817400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220801/thumbnails/2_2281130195-KOTHWingoftheDope.png",
-        "cma_id": "1444945"
     },
     {
         "auth": true,
