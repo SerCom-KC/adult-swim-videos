@@ -1115,7 +1115,7 @@
     },
     {
         "ott_launch_date": 1535380140,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1721879940,
         "tms_id": "EP005604540082",
         "description": "The Monarch faces financial challenges as he attempts to rebuild his fiendish organization, while Dean attempts to build a normal life out of his father's shadow at sleep-away college.",
@@ -1167,7 +1167,7 @@
     },
     {
         "ott_launch_date": 1534775340,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1721879940,
         "tms_id": "EP005604540081",
         "description": "The Morphic Trilogy reaches its stunning conclusion in a decades-spanning tale of friendship, betrayal, and mass murder that overwrites Venture history.",
@@ -1726,7 +1726,7 @@
         "cma_id": "988690"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1457362500,
         "auth_expiration_date": 1746071940,
         "tms_id": "EP005604540074",
@@ -2905,7 +2905,7 @@
         "cma_id": "990919"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1457964120,
         "auth_expiration_date": 1746676740,
         "tms_id": "EP005604540077",
