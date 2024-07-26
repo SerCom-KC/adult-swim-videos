@@ -1,57 +1,48 @@
 {
-    "updated": 1722018221,
-    "added": [],
-    "removed": [
+    "updated": 1722027628,
+    "added": [
         {
-            "auth_expiration_date": 1719719940,
-            "tms_id": "EP031962300020",
-            "description": "All-sinner and sportsman Makasu has recently died, but his death is causing the afterlives to converge and the universe is collapsing! Can the finger being Dr. Legs convince Makasu to be friend his Piano Frog and save existence?",
+            "auth_expiration_date": 1723841940,
+            "created": 1721402867,
+            "tms_id": "",
+            "title_id": "2530006",
+            "season_number": "1",
+            "tv_rating": "tv-pg-v",
+            "description": "Several people who take the bus near the Hikawa Shrine have started to go missing. Usagi and her friends decide to investigate by visiting the shrine, where they meet Rei Hino, a girl with strong spiritual powers.",
             "title_suggest": {
                 "input": [
-                    "Episode One: Asus4",
-                    "One: Asus4",
-                    "Asus4"
+                    "The Cursed Bus: Enter Mars, the Guardian of Fire",
+                    "Cursed Bus: Enter Mars, the Guardian of Fire",
+                    "Bus: Enter Mars, the Guardian of Fire",
+                    "Enter Mars, the Guardian of Fire",
+                    "Mars, the Guardian of Fire",
+                    "the Guardian of Fire",
+                    "Guardian of Fire",
+                    "of Fire",
+                    "Fire"
                 ]
             },
-            "title": "Episode One: Asus4",
+            "published": 1721607375,
+            "title": "The Cursed Bus: Enter Mars, the Guardian of Fire",
             "type": "episode",
-            "expiration_date": 2082690000,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWnYBNDcHl5gR6828zAp",
-            "duration": 676.1088,
-            "episode_number": "1",
-            "original_air_date": 1604818800,
-            "auth_launch_date": 1716696000,
-            "clip_order": null,
-            "airing_id": "RADS1004262100092104",
-            "media_id": "21579c77412528bbcd6809817e674b5ecef85563",
-            "modified": 1721930011,
-            "slug": "episode-one-asus-4",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20201106/thumbnails/1_20116222172-GSMP_201_102120-20201023.jpg",
-            "created": 1604531085,
-            "title_id": "2241826",
-            "season_number": "2",
-            "tv_rating": "tv-ma-l",
-            "published": 1721930011,
-            "tags": [
-                "me822cda49981a6a55153106a4f2570a2437739b78"
-            ],
-            "collection_title": "Gemusetto",
-            "disable_ads": false,
+            "tags": [],
+            "collection_id": "AY_PJ8ZL5I1d0UhX5iGC",
+            "duration": 1336.8022,
+            "episode_number": "",
+            "collection_title": "Sailor Moon",
+            "original_air_date": 1722027600,
+            "auth_launch_date": 1722027600,
             "modified_by": "ODT Listener",
-            "launch_date": 1619928000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_20116222172-GSMP_201_102120-20201023.jpg",
-            "id": "AXWVgWJXLyLQBOXK_PZv",
-            "auth": false,
-            "collection_slug": "gemusetto",
-            "collection_title_id": "2194549",
+            "airing_id": "RADS1007192400081736",
+            "media_id": "5ba015a6db7977ce8f53ecad735a35af8392db67",
+            "modified": 1721607375,
+            "slug": "the-cursed-bus-enter-mars-the-guardian-of-fire",
+            "id": "AZDLmz2VSaru9Cdsy7SA",
+            "auth": true,
+            "collection_slug": "sailor-moon",
+            "collection_title_id": "2529996",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
