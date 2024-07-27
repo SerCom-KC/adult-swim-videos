@@ -1828,7 +1828,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1513610940,
         "auth_expiration_date": 1722052740,
         "tms_id": "EP007008180116",
@@ -2292,7 +2292,7 @@
         "launch_date": 1693627200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119372-squidbillies_1003_dup-20190807.jpg",
         "id": "AWxx0HdoCorLtcgfltfk",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -2873,7 +2873,7 @@
         "launch_date": 1719028800,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png",
         "id": "AX0RMbj4UQa40cfnRSoM",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1723867140,
@@ -3059,7 +3059,7 @@
         "launch_date": 1722052800,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101039330-Squidbillies_1110_ThisShowWasCalledSquidbillies.png",
         "id": "AX2lABR54Xbjep71f6Hq",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1722657540,
@@ -3321,7 +3321,7 @@
         "cma_id": "1243155"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447445580,
         "auth_expiration_date": 1722052740,
         "tms_id": "EP007008180068",
@@ -4245,7 +4245,7 @@
         "cma_id": "1466631"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447445580,
         "auth_expiration_date": 1722657540,
         "tms_id": "EP007008180069",
