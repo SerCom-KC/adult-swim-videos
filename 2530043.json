@@ -267,5 +267,69 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_2472293596-PSICOPS_SEASON1_EP105_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDFELIXXDEADPOLICEMANINTRUNK.jpg",
         "id": "AZDCmWQ7g6zBH7G86tgr",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1729655940,
+        "created": 1721917354,
+        "tms_id": "",
+        "title_id": "2530050",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "description": "What do swamp hillbillies, a snake god and Eric all have in common? Fancy Hats!",
+        "title_suggest": {
+            "input": [
+                "Mutant Snake",
+                "Snake"
+            ]
+        },
+        "published": 1722112115,
+        "title": "Mutant Snake",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.5933,
+        "episode_number": "7",
+        "collection_title": "Psi-Cops",
+        "original_air_date": 1722225600,
+        "auth_launch_date": 1722225600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007252400082260",
+        "media_id": "b76db6c9ea3650d9a26bc43237fa9df53579ba85",
+        "modified": 1722112115,
+        "slug": "mutant-snake",
+        "id": "AZDqRbETg6zBH7G86tg0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1729655940,
+        "created": 1721918608,
+        "tms_id": "",
+        "title_id": "2530051",
+        "season_number": "1",
+        "tv_rating": "tv-ma-lv",
+        "description": "Getting to know your colleagues is hard, especially when one might be a demon in disguise.",
+        "title_suggest": {
+            "input": [
+                "Shape Shifter",
+                "Shifter"
+            ]
+        },
+        "published": 1722110610,
+        "title": "Shape Shifter",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4932,
+        "episode_number": "8",
+        "collection_title": "Psi-Cops",
+        "original_air_date": 1722226500,
+        "auth_launch_date": 1722226500,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1007252400082263",
+        "media_id": "66c28bec7ec9e5e0b4a2ee62b860308893a7ac9f",
+        "modified": 1722110610,
+        "slug": "shape-shifter",
+        "id": "AZDqWNLyg6zBH7G86tg1",
+        "auth": true
     }
 ]
