@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 30, 2024 at 15:00:13 EDT_
+_Last Update: July 30, 2024 at 15:30:13 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2194549 Gemusetto: 1  
-### 2241827
-**Gemusetto S02E02 - Episode Two: A# Minor**  
-TV-14-DLSV 🔓 11:15  
-⌛ December 31, 2035 at 00:00:00 EST  
-https://www.adultswim.com/videos/gemusetto/episode-two-a-minor  
-seriesid=`2194549` titleid=`2241827` id=`AXWVgV50LyLQBOXK_PZu` mediaid=`5e63a2388210d98ee3d18523decb1a77f692a8d6`  
-_The jazz battle between Makasu and the Egyptian goddess Maat is deadlocked until the River Styx shoves Charon down her throat. Will the afterlife convergence cause two different religions to merge their Musical Battle Robots?_  
-<a href="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201106/thumbnails/2_201162220426-GSMP_202_dup-20201026.jpg" height="144px" /></a>
+608007 One Piece: 1  
+### 2435744
+**One Piece S17E?? - A Fateful Encounter! Kyros and King Riku!**  
+TV-14-LV 🔒 22:00  
+⌛ August 11, 2024 at 03:59:00 EDT  
+https://www.adultswim.com/videos/one-piece/a-fateful-encounter-kyros-and-king-riku  
+seriesid=`608007` titleid=`2435744` id=`AZCX8zfBSaru9Cdsy7H6` mediaid=`65bacb00069a15b26b20c805894b34ee17e1fd83`  
+_Usopp runs into trouble in his battle with Treebol, and flashback sheds light on how a young Kyros made the shocking transition from murderer to one of King Riku's most trusted men._  
+## Video removed
+No videos were removed.  
