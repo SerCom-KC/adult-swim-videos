@@ -2,16 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 30, 2024 at 15:30:13 EDT_
+_Last Update: July 30, 2024 at 16:00:15 EDT_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2435744
-**One Piece S17E?? - A Fateful Encounter! Kyros and King Riku!**  
-TV-14-LV 🔒 22:00  
-⌛ August 11, 2024 at 03:59:00 EDT  
-https://www.adultswim.com/videos/one-piece/a-fateful-encounter-kyros-and-king-riku  
-seriesid=`608007` titleid=`2435744` id=`AZCX8zfBSaru9Cdsy7H6` mediaid=`65bacb00069a15b26b20c805894b34ee17e1fd83`  
-_Usopp runs into trouble in his battle with Treebol, and flashback sheds light on how a young Kyros made the shocking transition from murderer to one of King Riku's most trusted men._  
+2436449 Zom 100: Bucket List of the Dead: 1  
+### 2436460
+**Zom 100: Bucket List of the Dead S01E?? - Hometown of the Dead II**  
+TV-MA-SV 🔓 22:18  
+⌛ October 18, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/zom-100-bucket-list-of-the-dead/hometown-of-the-dead-ii  
+seriesid=`2436449` titleid=`2436460` id=`AZBHSCWISaru9Cdsy68P` mediaid=`9d0f2af787fbeb62b3b334ba79080aabc782d4e5`  
+_Akira and his friends split up to save the villagers from the massive swarm of zombies. But zombies aren't their only concern as Higurashi and his gang stand in their way!_  
 ## Video removed
 No videos were removed.  
