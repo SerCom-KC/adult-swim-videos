@@ -1,7 +1,6 @@
 {
-    "updated": 1722862828,
-    "added": [],
-    "removed": [
+    "updated": 1722873642,
+    "added": [
         {
             "auth_expiration_date": 1726459140,
             "tms_id": "",
@@ -26,14 +25,14 @@
                 "fire-tv"
             ],
             "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-            "duration": 1320.4858,
+            "duration": 1330.696,
             "episode_number": "",
             "original_air_date": 1720328400,
-            "auth_launch_date": 1722760200,
+            "auth_launch_date": 1722873600,
             "clip_order": null,
-            "airing_id": "RADS1007302400084209",
-            "media_id": "51e972c2e176ee150250bc498883a41c5cd5373a",
-            "modified": 1722371403,
+            "airing_id": "RADS1008052400084816",
+            "media_id": "f6bcb24604c7d70261943e905b2838603393235d",
+            "modified": 1722867591,
             "slug": "a-liar-usoland-on-the-run",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20240708/thumbnails/1_24781045589-Screenshot2024-07-08at10.45.20AM.png",
@@ -41,7 +40,7 @@
             "title_id": "2435743",
             "season_number": "17",
             "tv_rating": "tv-pg-lv",
-            "published": 1722371403,
+            "published": 1722867591,
             "tags": [],
             "collection_title": "One Piece",
             "disable_ads": false,
@@ -54,5 +53,6 @@
             "collection_title_id": "608007",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
