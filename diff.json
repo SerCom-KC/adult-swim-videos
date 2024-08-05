@@ -1,7 +1,6 @@
 {
-    "updated": 1722819612,
-    "added": [],
-    "removed": [
+    "updated": 1722821443,
+    "added": [
         {
             "auth_expiration_date": 1717300740,
             "tms_id": "EP036530620011",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1005162100099171",
             "media_id": "945db87ef40ac275bbfeddae8bfb2a40f85faca3",
-            "modified": 1721742378,
+            "modified": 1722820593,
             "slug": "episode-eleven-g-13",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/1_201215836316-GSMP_211_dup-20201209.jpg",
@@ -38,7 +37,7 @@
             "season_number": "2",
             "title_id": "2241836",
             "tv_rating": "tv-ma-lv",
-            "published": 1721742378,
+            "published": 1722820593,
             "tags": [],
             "collection_title": "Gemusetto",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "2194549",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
