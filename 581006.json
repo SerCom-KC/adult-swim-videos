@@ -46,56 +46,6 @@
         "cma_id": "2007873"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1722916740,
-        "tms_id": "EP007164450147",
-        "description": "In a tribute to and send-up of the Pulitzer Prize-winning play, \"August: Osage County,\" a dark secret is revealed about the Smith family's past when Francine invites Stan's incarcerated dad, Jack, to Stan's birthday party. Also in this spoof, Roger plays Edna, a maid who nurses Bullock and Hayley's love child. But when Edna falls in love with Bullock, it could mean dire consequences for the kid.",
-        "title_suggest": {
-            "input": [
-                "Blood Crieth Unto Heaven",
-                "Crieth Unto Heaven",
-                "Unto Heaven",
-                "Heaven"
-            ]
-        },
-        "expiration_date": 1655697540,
-        "title": "Blood Crieth Unto Heaven",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1291.2566,
-        "episode_number": "10",
-        "original_air_date": 1360035000,
-        "clip_order": null,
-        "auth_launch_date": 1722312000,
-        "modified": 1721941109,
-        "media_id": "67ed3a254a6fe5c729d1e620e238b5f9d85af4cc",
-        "airing_id": "RADS1007252400082341",
-        "id": "85bl-0YZSYy8rtZayilY8g",
-        "slug": "blood-crieth-unto-heaven",
-        "views": 3,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803203894916.jpg",
-        "created": 1403556330,
-        "season_number": "8",
-        "title_id": "748215",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1721941109,
-        "first_published": 1426825226,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1655092800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803203894916.jpg",
-        "cma_id": "1485751"
-    },
-    {
         "auth_expiration_date": null,
         "tms_id": "EP007164450443",
         "description": "In an attempt to maintain his \"prime,\" Stan explores some cosmetic solutions that could not go worse.",
@@ -913,6 +863,54 @@
         "launch_date": 1655092800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803189191213.jpg",
         "cma_id": "1486369"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1723521540,
+        "tms_id": "EP007164450164",
+        "description": "Steve is eager to prove that he's no longer a little boy, so he sets off to prove his manhood by joining Stan, Bullock, and the rest of the CIA on their annual hunting trip. Meanwhile, Roger and Klaus set off on a cross-country road trip.",
+        "title_suggest": {
+            "input": [
+                "Buck, Wild",
+                "Wild"
+            ]
+        },
+        "title": "Buck, Wild",
+        "type": "episode",
+        "expiration_date": 1656907140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1291.7238,
+        "episode_number": "3",
+        "original_air_date": 1384486200,
+        "clip_order": null,
+        "auth_launch_date": 1722916800,
+        "modified": 1722498028,
+        "media_id": "37e6f935c909274c8c7529d36edd850a4297e4cb",
+        "airing_id": "RADS1008012400084289",
+        "id": "izJAMWIQQ2KgLwdWzDy-iA",
+        "slug": "buck-wild",
+        "views": 4098,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187078378984.jpg",
+        "created": 1411570020,
+        "season_number": "9",
+        "title_id": "2007876",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1722498028,
+        "first_published": 1411570020,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1656302400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187078378984.jpg",
+        "cma_id": "1491052"
     },
     {
         "auth": true,
