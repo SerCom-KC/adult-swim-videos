@@ -1,5 +1,40 @@
 [
     {
+        "auth_expiration_date": 1723780740,
+        "created": 1705785274,
+        "tms_id": "EP003034830055",
+        "title_id": "438048",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "description": "Leela becomes the first female to play major-league blernsball.",
+        "title_suggest": {
+            "input": [
+                "A Leela of Her Own",
+                "Leela of Her Own",
+                "of Her Own",
+                "Her Own",
+                "Own"
+            ]
+        },
+        "published": 1722833241,
+        "title": "A Leela of Her Own",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1387.1525,
+        "episode_number": "10",
+        "collection_title": "Futurama",
+        "original_air_date": 1047960000,
+        "auth_launch_date": 1723176000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008052400084657",
+        "media_id": "447a64a0b108077f4832a90e189226279f008dfb",
+        "modified": 1722833241,
+        "slug": "a-leela-of-her-own",
+        "id": "AY0oua_vn_kciGPPrEWX",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1723348740,
         "tms_id": "EP003034830053",
         "description": "Pharaoh Hamenthotep enslaves the crew and forces everybody to assist in constructing a pyramid.",
@@ -88,51 +123,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_22427124337-Futurama_052_Godfellas.png",
         "id": "AYA-shns208s7zyYUMo2",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1723175940,
-        "tms_id": "EP003034830051",
-        "description": "The orphanarium where Leela grew up honors her for her success as a starship captain.",
-        "title_suggest": {
-            "input": [
-                "Leela's Homeworld",
-                "Homeworld"
-            ]
-        },
-        "title": "Leela's Homeworld",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.6669,
-        "episode_number": "5",
-        "original_air_date": 1048737600,
-        "auth_launch_date": 1722571200,
-        "clip_order": null,
-        "airing_id": "RADS1007292400083225",
-        "media_id": "df6b981ce9265fca95a535f27c6736d717dd7b97",
-        "modified": 1722309064,
-        "slug": "leelas-homeworld",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121517385-Futurama_049_LeelasHomeworld.png",
-        "created": 1649688341,
-        "title_id": "438510",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "published": 1722309064,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121517385-Futurama_049_LeelasHomeworld.png",
-        "id": "AYAZFmxB208s7zyYUMkG",
         "auth": true
     },
     {
