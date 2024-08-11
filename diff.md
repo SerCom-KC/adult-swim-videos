@@ -2,24 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 11, 2024 at 04:30:44 EDT_
+_Last Update: August 11, 2024 at 05:30:14 EDT_
 ## Video added
 ### Summary
-2209292 Demon Slayer: 1  
-608007 One Piece: 1  
-### 2436436
-**Demon Slayer S03E?? - Someone's Dream**  
-TV-MA-SV 🔒 47:36  
-⌛ November 18, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/demon-slayer/someones-dream  
-seriesid=`2209292` titleid=`2436436` id=`AZEtqNWaSaru9Cdsy7g4` mediaid=`85dd75a69f06a2a9846c7a92e11eada896564ca8`  
-_An Upper Rank Demon has been defeated for the first time in a hundred years. Meanwhile, Tanjiro discovers that he has upset Haganezuka after chipping his sword and decides to talk to him in person._  
-### 2435748
-**One Piece S17E?? - Dashing onto the Scene! The Chief of Staff of the Revolutionary Army - Sabo!**  
-TV-14-LV 🔒 21:44  
-⌛ September 1, 2024 at 04:29:00 EDT  
-https://www.adultswim.com/videos/one-piece/dashing-onto-the-scene-the-chief-of-staff-of-the-revolutionary-army-sabo  
-seriesid=`608007` titleid=`2435748` id=`AZEkLIh4g6zBH7G86tg6` mediaid=`df6aeff932a857feb7a2aaead4d88476a912c538`  
-_Luffy hurries to free Law, but with their pirate alliance dissolved, will Law still see Luffy as an ally? Meanwhile, Usopp has convinced his newfound followers to destroy the factory!_  
+812206 Naruto: Shippuden: 1  
+### 2177927
+**Naruto: Shippuden S08E81 - Hidden Leaf Story, The Perfect Day for a Wedding, Part 4: The Kazekage's Wedding Gift**  
+TV-PG 🔒 20:21  
+⌛ December 16, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/naruto-shippuden/hidden-leaf-story-the-perfect-day-for-a-wedding-part-4-the-kazekages-wedding-gift  
+seriesid=`812206` titleid=`2177927` id=`AZC8pZ8fg6zBH7G86tgp` mediaid=`b2cd21b706c2e6c0d6f1e77579463927d31100f9`  
+_The Tsuchikage and Raikage, who are in the Leaf Village to attend the Five Kage Summit, mention that they have already prepared wedding gifts for Naruto, and Gaara finds himself in a dilemma._  
+<a href="https://media.cdn.adultswim.com/uploads/20240716/thumbnails/2_247161344265-2310171633239-as-back-up-imgcopy.png"><img src="https://media.cdn.adultswim.com/uploads/20240716/thumbnails/2_247161344265-2310171633239-as-back-up-imgcopy.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
