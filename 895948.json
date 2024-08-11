@@ -161,6 +161,51 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
+        "auth_expiration_date": 1715486340,
+        "tms_id": "",
+        "description": "Eric Andre is back! Lil Nas X and Karrueche Tran sit in the chair. Denzel Curry gets his teeth done. A Jewish exterminator hopes to capture the mother of all flies before the High Holy Days. Ranch it up enters the housing market.",
+        "title_suggest": {
+            "input": [
+                "Bugs Weekly",
+                "Weekly"
+            ]
+        },
+        "title": "Bugs Weekly",
+        "type": "episode",
+        "expiration_date": 1726372740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 675.4081,
+        "episode_number": "1",
+        "original_air_date": 1685937600,
+        "auth_launch_date": 1712462400,
+        "clip_order": null,
+        "airing_id": "RADS1008052400085068",
+        "media_id": "16f72ae14a59aab3ed11f89b649445d1093d0ec7",
+        "modified": 1722922132,
+        "slug": "bugs-weekly",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/1_2365818485-EASEpisode1Thumbtiny.png",
+        "created": 1685639821,
+        "title_id": "2418681",
+        "season_number": "6",
+        "tv_rating": "tv-ma-l",
+        "published": 1722922132,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1723348800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365818485-EASEpisode1Thumbtiny.png",
+        "id": "AYh39nedOz5CkuTcnvn7",
+        "auth": false
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1723953540,
@@ -404,7 +449,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1726372740,
         "tms_id": "EP015632430030",
@@ -454,58 +499,6 @@
         "launch_date": 1720324800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617572-ericandre_029_dup-20141211.jpg",
         "cma_id": "1357048"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1723348740,
-        "tms_id": "EP015632430025",
-        "description": "Interviews with Jillian Barberie and Victor Ortiz; Musical guest Mac DeMarco.",
-        "title_suggest": {
-            "input": [
-                "Jillian Barberie; Victor Ortiz",
-                "Barberie; Victor Ortiz",
-                "Victor Ortiz",
-                "Ortiz"
-            ]
-        },
-        "expiration_date": 1720324740,
-        "title": "Jillian Barberie; Victor Ortiz",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 651.8008008,
-        "episode_number": "4",
-        "original_air_date": 1417151700,
-        "clip_order": null,
-        "auth_launch_date": 1720324800,
-        "modified": 1719896252,
-        "media_id": "318cbdb2dfc08e07434b69f1fd1377af12cd5334",
-        "airing_id": "RADS1005282400072309",
-        "id": "_DZgdugoTAS9MSQvAy3Pnw",
-        "slug": "jillian-barberie-victor-ortiz",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161679-ericandre_024_dup-20141113.jpg",
-        "created": 1416952948,
-        "season_number": "3",
-        "title_id": "2032599",
-        "tv_rating": "tv-ma-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1719896252,
-        "first_published": 1416972040,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1717300800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161679-ericandre_024_dup-20141113.jpg",
-        "cma_id": "1336501"
     },
     {
         "auth": true,
