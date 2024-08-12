@@ -1,7 +1,6 @@
 {
-    "updated": 1723425460,
-    "added": [],
-    "removed": [
+    "updated": 1723426842,
+    "added": [
         {
             "auth_expiration_date": 1717905540,
             "tms_id": "EP036530620012",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1004052100087270",
             "media_id": "c4297aae8ae725d78e4e6011766926846c6ebea6",
-            "modified": 1719898353,
+            "modified": 1723426802,
             "slug": "episode-twelve-ab-7-11",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201215/thumbnails/1_201215836487-GSMP_212_dup-20201209.jpg",
@@ -38,7 +37,7 @@
             "season_number": "2",
             "title_id": "2241837",
             "tv_rating": "tv-ma-ls",
-            "published": 1719898353,
+            "published": 1723426802,
             "tags": [],
             "collection_title": "Gemusetto",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "2194549",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
