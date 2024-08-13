@@ -1062,8 +1062,11 @@
         "auth": true
     },
     {
-        "auth_expiration_date": null,
+        "created": 1722823290,
         "tms_id": "",
+        "title_id": "632284",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
         "description": "As Naruto, Sasuke, and Sakura prepare for the exam, a ninja named Rock Lee appears and challenges Sasuke to a duel. Naruto, Sasuke, and Sakura officially register for the Chunin Exam.",
         "title_suggest": {
             "input": [
@@ -1076,38 +1079,22 @@
                 "Off!"
             ]
         },
+        "published": 1722859174,
         "title": "Genin Takedown! All Nine Rookies Face Off!",
         "type": "episode",
         "expiration_date": 1724450340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
+        "tags": [],
         "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
         "duration": 1305.0371,
         "episode_number": "23",
+        "collection_title": "Naruto",
         "original_air_date": 1139709600,
-        "auth_launch_date": null,
-        "clip_order": null,
+        "modified_by": "ODT Listener",
         "airing_id": "RADS1008052400084646",
         "media_id": "f909f4dd8f19a5301a70bbf4112bdcabf0dc1733",
-        "modified": 1723529756,
-        "slug": "genin-takedown-all-nine-rookies-face-off",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240813/thumbnails/1_24813215508-NarutoClassic_Ep023_Still_1920x1080_Pillarbox.jpg",
-        "created": 1722823290,
-        "title_id": "632284",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "published": 1723529756,
-        "tags": [],
-        "collection_title": "Naruto",
-        "disable_ads": false,
-        "modified_by": "undefined undefined",
+        "modified": 1722859174,
         "launch_date": 1723240800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240813/thumbnails/2_24813215508-NarutoClassic_Ep023_Still_1920x1080_Pillarbox.jpg",
+        "slug": "genin-takedown-all-nine-rookies-face-off",
         "id": "AZEgRTB1Saru9Cdsy7ef",
         "auth": false
     }
