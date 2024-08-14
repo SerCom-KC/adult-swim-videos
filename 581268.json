@@ -1451,7 +1451,7 @@
         "launch_date": 1693627200,
         "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg",
         "id": "AW0nGO_iCorLtcgfluVv",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -2456,7 +2456,7 @@
         "launch_date": 1723608000,
         "poster": "https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg",
         "id": "AWy6cI7hCorLtcgflt2f",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -3847,6 +3847,64 @@
         "launch_date": 1708880400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111626-squidbillies_014.jpg",
         "cma_id": "1371961"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447443600,
+        "auth_expiration_date": 1693540740,
+        "tms_id": "EP007008180030",
+        "rating": 8.136024,
+        "description": "A study of the migrations and libations of the ignorant redneck land squid.",
+        "title_suggest": {
+            "input": [
+                "The Appalachian Mud Squid: Darwin's Dilemma",
+                "Appalachian Mud Squid: Darwin's Dilemma",
+                "Mud Squid: Darwin's Dilemma",
+                "Squid: Darwin's Dilemma",
+                "Darwin's Dilemma",
+                "Dilemma"
+            ]
+        },
+        "type": "episode",
+        "title": "The Appalachian Mud Squid: Darwin's Dilemma",
+        "expiration_date": 1749873540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 683.667334,
+        "episode_number": "10",
+        "original_air_date": 1206331200,
+        "clip_order": null,
+        "auth_launch_date": 1679716800,
+        "modified": 1723563280,
+        "media_id": "fa5477b52573e3ebda3893dc1872fbcd30aede60",
+        "airing_id": "RADS1008132400086686",
+        "id": "I3QX3bNVS-6PDSFyMM1X3w",
+        "slug": "the-appalachian-mud-squid-darwins-dilemma",
+        "views": 680043,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131134124-squidbillies_030_bim.jpg",
+        "created": 1402945477,
+        "title_id": "712670",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1723563280,
+        "tags": [
+            "squidbillies episode 30 the appalachian mud squid darwin's dilemma documentary nature study"
+        ],
+        "rating_count": 2029,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1723608000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131134124-squidbillies_030_bim.jpg",
+        "cma_id": "1435261"
     },
     {
         "auth": false,
