@@ -434,7 +434,7 @@
         "launch_date": 1722636000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_2472910223-NarutoClassic_Ep022_Still_1920x1080_Pillarbox.jpg",
         "id": "AZD-zGHNSaru9Cdsy7Y8",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1749268799,
@@ -1109,6 +1109,43 @@
         "launch_date": 1723240800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240813/thumbnails/2_24813215508-NarutoClassic_Ep023_Still_1920x1080_Pillarbox.jpg",
         "id": "AZEgRTB1Saru9Cdsy7ef",
+        "auth": false
+    },
+    {
+        "created": 1723425697,
+        "tms_id": "",
+        "title_id": "632285",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "description": "Naruto and his team begin the written test. The proctor is a jonin (upper rank ninja) named Ibiki Morino, who is an infamous expert in interrogation.",
+        "title_suggest": {
+            "input": [
+                "Start Your Engines: The Chunin Exam Begins!",
+                "Your Engines: The Chunin Exam Begins!",
+                "Engines: The Chunin Exam Begins!",
+                "The Chunin Exam Begins!",
+                "Chunin Exam Begins!",
+                "Exam Begins!",
+                "Begins!"
+            ]
+        },
+        "published": 1723466244,
+        "title": "Start Your Engines: The Chunin Exam Begins!",
+        "type": "episode",
+        "expiration_date": 1725055140,
+        "tags": [],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1306.1049,
+        "episode_number": "24",
+        "collection_title": "Naruto",
+        "original_air_date": 1140314400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008122400086245",
+        "media_id": "54ebcdafe2c0ead4575f9cec6d280e989e3b9c17",
+        "modified": 1723466244,
+        "launch_date": 1723845600,
+        "slug": "start-your-engines-the-chunin-exam-begins",
+        "id": "AZFELS-Jg6zBH7G86tg9",
         "auth": false
     }
 ]
