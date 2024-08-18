@@ -216,5 +216,38 @@
         "slug": "someones-dream",
         "id": "AZEtqNWaSaru9Cdsy7g4",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1731992340,
+        "created": 1723560496,
+        "tms_id": "",
+        "title_id": "2436437",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "description": "Tanjiro encounters Muichiro Tokito and Kotetsu arguing. Muichiro is demanding that a \"certain key\" which is used to operate a battle-type Doll, Yoriichi Type Zero, that mimics the movement of a certain real-life swordsman be handed to him.",
+        "title_suggest": {
+            "input": [
+                "Yoriichi Type Zero",
+                "Type Zero",
+                "Zero"
+            ]
+        },
+        "published": 1723572420,
+        "title": "Yoriichi Type Zero",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AW2OS1BT1YiBSfg0KXc4",
+        "duration": 1407.9731,
+        "episode_number": "",
+        "collection_title": "Demon Slayer",
+        "original_air_date": 1723955340,
+        "auth_launch_date": 1723968000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008132400086688",
+        "media_id": "6bed3cd02d614cf998fa5d9a34f860cb10f50087",
+        "modified": 1723572420,
+        "slug": "yoriichi-type-zero",
+        "id": "AZFMNg3Bg6zBH7G86thF",
+        "auth": true
     }
 ]
