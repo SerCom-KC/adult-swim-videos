@@ -2,25 +2,32 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 23, 2024 at 18:00:13 EDT_
+_Last Update: August 23, 2024 at 18:30:14 EDT_
 ## Video added
 ### Summary
-2529996 Sailor Moon: 1  
-### 2530015
-**Sailor Moon S01E?? - Usagi's Joy: A Love Letter from Tuxedo Mask**  
-TV-PG-LV 🔒 22:16  
-⌛ September 13, 2024 at 17:29:00 EDT  
-https://www.adultswim.com/videos/sailor-moon/usagis-joy-a-love-letter-from-tuxedo-mask  
-seriesid=`2529996` titleid=`2530015` id=`AZFbrTbbSaru9Cdsy7pN` mediaid=`38119e7cd08a939fd65f288610e8ab176ce833f7`  
-_Usagi receives a love letter from Tuxedo Mask, stating that he'd like to meet her. But she soon finds out that all the girls in town received the same letter, including Naru, who believes that Tuxedo Mask is Masato Sanjoin._  
+622269 Naruto: 2  
+### 633406
+**Naruto S01E25 - The Tenth Question: All or Nothing!**  
+TV-14 🔓 00:00  
+⌛ September 6, 2024 at 17:59:00 EDT  
+https://www.adultswim.com/videos/naruto/the-tenth-question-all-or-nothing  
+seriesid=`622269` titleid=`633406` id=`AZFq4pqFSaru9Cdsy7qP` mediaid=`7b285d46e12b7081f1ca38ab6dc90847c63f0cd8`  
+_Ibiki declares what seems like a harsh and unreasonable rule for the hardest part of the first exam..._  
+### 633406
+**Naruto S01E25 - The Tenth Question: All or Nothing!**  
+TV-14 🔓 21:44  
+⌛ September 6, 2024 at 17:59:00 EDT  
+https://www.adultswim.com/videos/naruto/the-tenth-question-all-or-nothing  
+seriesid=`622269` titleid=`633406` id=`AZFq4pfmSaru9Cdsy7qO` mediaid=`7b285d46e12b7081f1ca38ab6dc90847c63f0cd8`  
+_Ibiki declares what seems like a harsh and unreasonable rule for the hardest part of the first exam..._  
 ## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031616
-**Dragon Ball Z Kai S01E05 - Wilderness Survival! A Moonlit Night Awakens Gohan!**  
-TV-PG-LV 🔒 21:01  
-⌛ August 23, 2024 at 17:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/wilderness-survival-a-moonlit-night-awakens-gohan  
-seriesid=`2031611` titleid=`2031616` id=`WEyvL6uOSDWSgB3hPHo2yA` mediaid=`58aaae06ae5cbc89eb8331bf1e4e579dd3003952`  
-_Piccolo tries to toughen up Gohan with some wilderness survival training, but things get hairy when the young Saiyan sees his first full moon! Meanwhile, Yajirobe summons Earth's strongest fighters to Kami's Lookout._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684013420714.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684013420714.jpg" height="144px" /></a>
+### 2031617
+**Dragon Ball Z Kai S01E06 - The End of Snake Way! King Kai's Bizarre Test!**  
+TV-PG-LV 🔒 21:00  
+⌛ August 23, 2024 at 17:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/the-end-of-snake-way-king-kais-bizarre-test  
+seriesid=`2031611` titleid=`2031617` id=`KAknEBzaRVGdWgFWTAzIVg` mediaid=`d1c7f49c2ed5b0c955dfb93e82b25c28fe6107f0`  
+_As the deadly Saiyan invaders approach Earth, Gohan makes slow, but steady, progress under the watchful eye of Piccolo, and Goku struggles with the "gravity" of his training under King Kai._  
+<a href="https://media.cdn.adultswim.com/uploads/20240514/thumbnails/2_245141141502-Screenshot2024-05-14at11.41.15AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240514/thumbnails/2_245141141502-Screenshot2024-05-14at11.41.15AM.png" height="144px" /></a>
