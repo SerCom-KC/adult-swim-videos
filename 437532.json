@@ -1,40 +1,5 @@
 [
     {
-        "auth_expiration_date": 1724385540,
-        "created": 1706385595,
-        "tms_id": "EP003034830061",
-        "title_id": "442424",
-        "season_number": "5",
-        "tv_rating": "tv-pg-lv",
-        "description": "Prodigal sons return to start a competing delivery service that threatens the existence of Planet Express.",
-        "title_suggest": {
-            "input": [
-                "The Route of All Evil",
-                "Route of All Evil",
-                "of All Evil",
-                "All Evil",
-                "Evil"
-            ]
-        },
-        "published": 1723432768,
-        "title": "The Route of All Evil",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1399.9319,
-        "episode_number": "3",
-        "collection_title": "Futurama",
-        "original_air_date": 1067918400,
-        "auth_launch_date": 1723780800,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1008122400086255",
-        "media_id": "a0959bfca112dd0d4f3f8a883256862f1c3b3421",
-        "modified": 1723432768,
-        "slug": "the-route-of-all-evil",
-        "id": "AY1MgdtF1E7YmWrdXLlz",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1724558340,
         "tms_id": "EP003034830063",
         "description": "Amy's romance with Kif Kroker leads to pregnancy.",
@@ -174,6 +139,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/2_225211650145-LeelasHurdles.png",
         "id": "AYDCxJhO_0O4w1rD3SNL",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1724990340,
+        "tms_id": "EP003034830066",
+        "description": "Fry becomes disheartened when Leela gets involved with the mayor's aide.",
+        "title_suggest": {
+            "input": [
+                "The Why of Fry",
+                "Why of Fry",
+                "of Fry",
+                "Fry"
+            ]
+        },
+        "title": "The Why of Fry",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.8975,
+        "episode_number": "8",
+        "original_air_date": 1069128000,
+        "auth_launch_date": 1724385600,
+        "clip_order": null,
+        "airing_id": "RADS1008192400087103",
+        "media_id": "88948a8e23c4181061cb01bdf02fd81bb911642f",
+        "modified": 1724081141,
+        "slug": "the-why-of-fry",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/1_225231323100-WhyFrymin.png",
+        "created": 1652894823,
+        "title_id": "444753",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "published": 1724081141,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_225231323100-WhyFrymin.png",
+        "id": "AYDYNXKz_0O4w1rD3SOO",
         "auth": true
     },
     {
