@@ -1112,11 +1112,8 @@
         "auth": false
     },
     {
-        "created": 1723425697,
+        "auth_expiration_date": 1758945540,
         "tms_id": "",
-        "title_id": "632285",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
         "description": "Naruto and his team begin the written test. The proctor is a jonin (upper rank ninja) named Ibiki Morino, who is an infamous expert in interrogation.",
         "title_suggest": {
             "input": [
@@ -1129,22 +1126,27 @@
                 "Begins!"
             ]
         },
-        "published": 1723466244,
         "title": "Start Your Engines: The Chunin Exam Begins!",
         "type": "episode",
         "expiration_date": 1725055140,
-        "tags": [],
         "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
         "duration": 1306.1049,
         "episode_number": "24",
-        "collection_title": "Naruto",
         "original_air_date": 1140314400,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1008122400086245",
+        "auth_launch_date": 1725055200,
+        "airing_id": "RADS1008232400088433",
         "media_id": "54ebcdafe2c0ead4575f9cec6d280e989e3b9c17",
-        "modified": 1723466244,
-        "launch_date": 1723845600,
+        "modified": 1724444023,
         "slug": "start-your-engines-the-chunin-exam-begins",
+        "created": 1723425697,
+        "title_id": "632285",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "published": 1724444023,
+        "tags": [],
+        "collection_title": "Naruto",
+        "modified_by": "ODT Listener",
+        "launch_date": 1723845600,
         "id": "AZFELS-Jg6zBH7G86tg9",
         "auth": false
     }
