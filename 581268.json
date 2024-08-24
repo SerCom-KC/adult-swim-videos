@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447445760,
         "auth_expiration_date": 1725076740,
         "tms_id": "EP007008180073",
@@ -1500,7 +1500,7 @@
         "launch_date": 1724472000,
         "poster": "https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg",
         "id": "AW0nGhd4CorLtcgfluVw",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": 1513006140,
@@ -2873,7 +2873,7 @@
         "launch_date": 1724472000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211112/thumbnails/2_2111121018495-Squidbillies_1106_ScornOnThe4thOfJuly.png",
         "id": "AX0RMbj4UQa40cfnRSoM",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1723867140,
@@ -3011,7 +3011,7 @@
         "launch_date": 1721448000,
         "poster": "https://media.cdn.adultswim.com/uploads/20211210/thumbnails/2_2112101038426-Squidbillies_1103_TheLicemanCometh.png",
         "id": "AX2k_07U4Xbjep71f6Hp",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1722052740,
@@ -6488,7 +6488,7 @@
         "cma_id": "1439424"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447445940,
         "auth_expiration_date": 1724471940,
         "tms_id": "EP007008180072",
