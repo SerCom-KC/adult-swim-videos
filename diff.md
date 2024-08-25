@@ -2,17 +2,24 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 25, 2024 at 02:30:44 EDT_
+_Last Update: August 25, 2024 at 04:30:44 EDT_
 ## Video added
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031633
-**Dragon Ball Z Kai S01E22 - Dodoria's Terrifying Chase! A Truth Revealed to Vegeta!**  
-TV-PG-LV 🔓 21:01  
-⌛ September 29, 2024 at 01:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/dodorias-terrifying-chase-a-truth-revealed-to-vegeta  
-seriesid=`2031611` titleid=`2031633` id=`5nQPlhfpQrOeRK9wLNcwAA` mediaid=`734433777e54ea1221fc2fd4a65b5f0825a5e73e`  
-_Gohan and Krillin risk their lives to rescue a young Namekian, and Vegeta goes on the rampage after learning the truth about the destruction of his home planet!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684053191018.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684053191018.jpg" height="144px" /></a>
+2209292 Demon Slayer: 1  
+608007 One Piece: 1  
+### 2436438
+**Demon Slayer S03E?? - A Sword from Over 300 Years Ago**  
+TV-MA-V 🔒 22:48  
+⌛ November 18, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/demon-slayer/a-sword-from-over-300-years-ago  
+seriesid=`2209292` titleid=`2436438` id=`AZFr-UwNSaru9Cdsy7rY` mediaid=`f4a436a8934ced763e95648755c327ee865cd67d`  
+_Yoriichi Type Zero is destroyed at the end of Tanjiro's training, but a sword from over 300 years ago appears from inside. Haganezuka appears and takes the sword with him to perform a grueling whetting process._  
+### 2435750
+**One Piece S17E?? - The 500 Million Berry Man! Target: Usoland!**  
+TV-PG-V 🔒 22:00  
+⌛ September 15, 2024 at 04:29:00 EDT  
+https://www.adultswim.com/videos/one-piece/the-500-million-berry-man-target-usoland  
+seriesid=`608007` titleid=`2435750` id=`AZFrgs8yg6zBH7G86thG` mediaid=`8bca43f87b29bbce5d7e27cd597dbbbeb2f4d41c`  
+_As the people of Dressrosa see their friends and loved ones slaughter each other under the manipulation of Doflamingo, memories of 10 years ago rush back, and the truth of that event becomes clear._  
 ## Video removed
 No videos were removed.  
