@@ -1,5 +1,50 @@
 [
     {
+        "auth_expiration_date": 1725076740,
+        "tms_id": "EP003034830067",
+        "description": "Fry, Leela and Bender attempt to collect honey from space bees.",
+        "title_suggest": {
+            "input": [
+                "The Sting",
+                "Sting"
+            ]
+        },
+        "title": "The Sting",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1399.5315,
+        "episode_number": "9",
+        "original_air_date": 1069214400,
+        "auth_launch_date": 1724472000,
+        "clip_order": null,
+        "airing_id": "RADS1008192400087153",
+        "media_id": "145c7ccbc44f7b594a5a129aeebf94bdcd2ec3bf",
+        "modified": 1724087454,
+        "slug": "the-sting",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271019415-Sting.png",
+        "created": 1653072139,
+        "title_id": "444754",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "published": 1724087454,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271019415-Sting.png",
+        "id": "AYDixxaL_0O4w1rD3SPW",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1725163140,
         "tms_id": "EP003034830068",
         "description": "The professor conducts an experiment which hurls Leela into a parallel universe.",
@@ -180,51 +225,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/2_2266106445-BendHer.png",
         "id": "AYEQW1ZL_0O4w1rD3SSb",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1725681540,
-        "tms_id": "EP003034830072",
-        "description": "When the professor orders a late-model robot at a trade show, Bender seeks an upgrade.",
-        "title_suggest": {
-            "input": [
-                "Obsoletely Fabulous",
-                "Fabulous"
-            ]
-        },
-        "title": "Obsoletely Fabulous",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1396.9623,
-        "episode_number": "14",
-        "original_air_date": 1069387200,
-        "auth_launch_date": 1725076800,
-        "clip_order": null,
-        "airing_id": "RADS1008262400088453",
-        "media_id": "f1ad4af52ef518d46c6ded856391b2e32e397aeb",
-        "modified": 1724655694,
-        "slug": "obsoletely-fabulous",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/1_2266103233-Obsoletely.png",
-        "created": 1654117897,
-        "title_id": "444756",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1724655694,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/2_2266103233-Obsoletely.png",
-        "id": "AYEhHBM1_0O4w1rD3ST0",
         "auth": true
     }
 ]
