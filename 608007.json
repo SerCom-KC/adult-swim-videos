@@ -189,7 +189,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1723363200,
         "id": "AZC3rf_USaru9Cdsy7OG",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1723364940,
@@ -426,7 +426,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1725179400,
         "id": "AZEkLIh4g6zBH7G86tg6",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1725784140,
@@ -500,6 +500,46 @@
         "modified": 1724093134,
         "slug": "the-500-million-berry-man-target-usoland",
         "id": "AZFrgs8yg6zBH7G86thG",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1726993740,
+        "created": 1724723754,
+        "tms_id": "EP039441250054",
+        "title_id": "2435751",
+        "season_number": "17",
+        "tv_rating": "tv-pg",
+        "description": "Doflamingo and Fujitora's agreement to not engage each other lasts for the moment - meaning all eyes are turned towards taking down the Straw Hats and claiming the rewards!",
+        "title_suggest": {
+            "input": [
+                "Breaking through Enemy Lines! Luffy and Zoro Launch the Counter-Attack!",
+                "through Enemy Lines! Luffy and Zoro Launch the Counter-Attack!",
+                "Enemy Lines! Luffy and Zoro Launch the Counter-Attack!",
+                "Lines! Luffy and Zoro Launch the Counter-Attack!",
+                "Luffy and Zoro Launch the Counter-Attack!",
+                "and Zoro Launch the Counter-Attack!",
+                "Zoro Launch the Counter-Attack!",
+                "Launch the Counter-Attack!",
+                "the Counter-Attack!",
+                "Counter-Attack!"
+            ]
+        },
+        "published": 1724777682,
+        "title": "Breaking through Enemy Lines! Luffy and Zoro Launch the Counter-Attack!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.2189,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1725166800,
+        "auth_launch_date": 1725179400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008272400088946",
+        "media_id": "1643733540b07e1d9b7403c2793c59571c96fd2c",
+        "modified": 1724777682,
+        "slug": "breaking-through-enemy-lines-luffy-and-zoro-launch-the-counter-attack",
+        "id": "AZGRi_fbSaru9Cdsy7xd",
         "auth": true
     }
 ]
