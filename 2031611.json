@@ -608,6 +608,62 @@
         "cma_id": "1051215"
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
+        "tms_id": "EP012647370023",
+        "description": "After easily defeating Dodoria, Vegeta begins his violent search for the two remaining Dragon Balls. Meanwhile, Krillin and his new friend Dende set out to warn the eldest Namekian of the horror headed his way!",
+        "title_suggest": {
+            "input": [
+                "Vegeta's Covert Maneuvers! A Tragic Assault on the Namekians!",
+                "Covert Maneuvers! A Tragic Assault on the Namekians!",
+                "Maneuvers! A Tragic Assault on the Namekians!",
+                "A Tragic Assault on the Namekians!",
+                "Tragic Assault on the Namekians!",
+                "Assault on the Namekians!",
+                "on the Namekians!",
+                "the Namekians!",
+                "Namekians!"
+            ]
+        },
+        "expiration_date": 1728194340,
+        "title": "Vegeta's Covert Maneuvers! A Tragic Assault on the Namekians!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1261.0264,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "23",
+        "original_air_date": 1431230400,
+        "clip_order": null,
+        "auth_launch_date": 1556596800,
+        "modified": 1724793825,
+        "airing_id": "RADS1008272400088942",
+        "media_id": "56b7d08074af39cf3ab1ab0c356b0360349e9c19",
+        "id": "oNB3cJA0RjeKgjoPHvRHbg",
+        "slug": "vegetas-covert-maneuvers-a-tragic-assault-on-the-namekians",
+        "views": 884,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684055501711.jpg",
+        "created": 1430753429,
+        "season_number": "1",
+        "title_id": "2031634",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1724793825,
+        "first_published": 1431181219,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1725170400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684055501711.jpg",
+        "cma_id": "1078433"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1727476140,
@@ -718,7 +774,7 @@
         "cma_id": "1055926"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1729290540,
         "tms_id": "EP012647370018",
