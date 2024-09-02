@@ -721,6 +721,38 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1729655940,
+        "created": 1724814850,
+        "tms_id": "",
+        "title_id": "2530062",
+        "season_number": "1",
+        "tv_rating": "tv-ma-sv",
+        "description": "Best way to catch a Vampire? Stake Out!",
+        "title_suggest": {
+            "input": [
+                "Stake Out",
+                "Out"
+            ]
+        },
+        "published": 1725128492,
+        "title": "Stake Out",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4932,
+        "episode_number": "18",
+        "collection_title": "Psi-Cops",
+        "original_air_date": 1725252300,
+        "auth_launch_date": 1725252300,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008282400089041",
+        "media_id": "6aa52ba3abf5cfdc16c5e1daa114dbe836f2b1bb",
+        "modified": 1725128492,
+        "slug": "stake-out",
+        "id": "AZGW-fm6g6zBH7G86thL",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1729655999,
         "created": 1724814673,
         "tms_id": "",
