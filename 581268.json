@@ -6653,6 +6653,61 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447443660,
+        "auth_expiration_date": 1693540740,
+        "tms_id": "EP007008180033",
+        "rating": 9.016287,
+        "description": "The greatest story ever told. About cartoon squids.",
+        "title_suggest": {
+            "input": [
+                "Armageddon It On!",
+                "It On!",
+                "On!"
+            ]
+        },
+        "type": "episode",
+        "title": "Armageddon It On!",
+        "expiration_date": 1751687940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 677.1001001,
+        "episode_number": "13",
+        "original_air_date": 1208751300,
+        "clip_order": null,
+        "auth_launch_date": 1680321600,
+        "modified": 1725381085,
+        "media_id": "fa99075538dce4fe3dd1927b7f5daa53c8c058af",
+        "airing_id": "RADS1009032400089952",
+        "id": "cmnxjk8jTlCKp3eYWrzHOQ",
+        "slug": "armageddon-it-on",
+        "views": 564238,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131135230-squidbillies_033_bim.jpg",
+        "created": 1402945477,
+        "title_id": "714674",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1725381085,
+        "tags": [
+            "squidbillies episode 33 armageddon it on rapture heaven jesus god satan"
+        ],
+        "rating_count": 2026,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1725422400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131135230-squidbillies_033_bim.jpg",
+        "cma_id": "1448135"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "description": "Liquor Bottle",
         "title_suggest": {
