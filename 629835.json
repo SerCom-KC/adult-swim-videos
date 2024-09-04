@@ -1,6 +1,53 @@
 [
     {
         "auth": true,
+        "auth_expiration_date": 1726027140,
+        "tms_id": "EP002070020091",
+        "description": "As Thanksgiving approaches, Redcorn attempts to reestablish his relationship with Joseph; Bobby rejects the holiday; Peggy invents her own game.",
+        "title_suggest": {
+            "input": [
+                "Spin the Choice",
+                "the Choice",
+                "Choice"
+            ]
+        },
+        "title": "Spin the Choice",
+        "type": "episode",
+        "expiration_date": 1504443599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1400.5325,
+        "episode_number": "4",
+        "original_air_date": 1232420400,
+        "auth_launch_date": 1725422400,
+        "clip_order": null,
+        "modified": 1725001675,
+        "media_id": "52bb01c68854be596b2853a75ffdd494898b8dc3",
+        "airing_id": "RADS1008292400089581",
+        "id": "4Yzvo_whTrC18scwPz5LtA",
+        "slug": "spin-the-choice",
+        "views": 4619,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220913/thumbnails/1_229131430486-KingOfTheHill_505_SpinTheChoice.png",
+        "created": 1417144828,
+        "title_id": "731331",
+        "tv_rating": "tv-pg",
+        "season_number": "5",
+        "published": 1725001675,
+        "first_published": 1417144828,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1503838800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_229131430486-KingOfTheHill_505_SpinTheChoice.png",
+        "cma_id": "1460470"
+    },
+    {
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1725595140,
         "tms_id": "EP002070020088",
@@ -122,62 +169,6 @@
         "launch_date": 1503837000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151931835778212.jpg",
         "cma_id": "1460512"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1725422340,
-        "tms_id": "EP002070020086",
-        "rating": 6.647059,
-        "description": "A fetishist videotapes Peggy's abnormally large feet and distributes the footage on the Internet.",
-        "title_suggest": {
-            "input": [
-                "Transnational Amusements Presents: Peggy's Magic Sex Feet",
-                "Amusements Presents: Peggy's Magic Sex Feet",
-                "Presents: Peggy's Magic Sex Feet",
-                "Peggy's Magic Sex Feet",
-                "Magic Sex Feet",
-                "Sex Feet",
-                "Feet"
-            ]
-        },
-        "type": "episode",
-        "title": "Transnational Amusements Presents: Peggy's Magic Sex Feet",
-        "expiration_date": 1504063799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1397.2292,
-        "episode_number": "23",
-        "original_air_date": 1241145000,
-        "clip_order": null,
-        "auth_launch_date": 1724817600,
-        "modified": 1724400525,
-        "media_id": "861943ec53db37cecf8efc77bcf76a33a639b4c5",
-        "airing_id": "RADS1008212400087759",
-        "id": "X41j_fKESZqjjEsdpL2Qeg",
-        "slug": "transnational-amusements-presents-peggys-magic-sex-feet",
-        "views": 101751,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187085445332.jpg",
-        "created": 1402945468,
-        "title_id": "731326",
-        "season_number": "4",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1724400525,
-        "tags": [
-            "King of the Hill Episode 421 Transnational Amusements Presents Peggy's Magic Sex Feet"
-        ],
-        "rating_count": 221,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1503459000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187085445332.jpg",
-        "cma_id": "1456833"
     },
     {
         "auth": true,
