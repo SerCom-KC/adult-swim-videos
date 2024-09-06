@@ -798,7 +798,7 @@
         "launch_date": 1725051600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240813/thumbnails/2_24813214253-CopyofSailorMoon_Ep014_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AZEgP1E9g6zBH7G86tg5",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1739595599,
@@ -997,6 +997,43 @@
         "modified": 1724625042,
         "slug": "protect-the-childrens-dreams-friendship-through-anime",
         "id": "AZGAzrhWSaru9Cdsy7vC",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1727470740,
+        "created": 1725139206,
+        "tms_id": "",
+        "title_id": "2530018",
+        "season_number": "1",
+        "tv_rating": "tv-pg-lv",
+        "description": "The Kingdom of Diamonds is hosting a party to reveal their treasure to the world.",
+        "title_suggest": {
+            "input": [
+                "Romance Under the Moon: Usagi's First Kiss",
+                "Under the Moon: Usagi's First Kiss",
+                "the Moon: Usagi's First Kiss",
+                "Moon: Usagi's First Kiss",
+                "Usagi's First Kiss",
+                "First Kiss",
+                "Kiss"
+            ]
+        },
+        "published": 1725488020,
+        "title": "Romance Under the Moon: Usagi's First Kiss",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AY_PJ8ZL5I1d0UhX5iGC",
+        "duration": 1336.9355,
+        "episode_number": "",
+        "collection_title": "Sailor Moon",
+        "original_air_date": 1725656400,
+        "auth_launch_date": 1725656400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008312400089816",
+        "media_id": "0f52ebe67ce777459a8ffc486dc85e2649079299",
+        "modified": 1725488020,
+        "slug": "romance-under-the-moon-usagis-first-kiss",
+        "id": "AZGqT0HzSaru9Cdsy71P",
         "auth": true
     }
 ]
