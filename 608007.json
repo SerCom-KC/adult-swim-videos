@@ -188,7 +188,7 @@
         "launch_date": 1723365000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240813/thumbnails/2_24813212586-2310171633239-as-back-up-imgcopy.png",
         "id": "AZC3rkRwg6zBH7G86tgn",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1727063940,
@@ -412,7 +412,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1725784200,
         "id": "AZFI-g30Saru9Cdsy7lm",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1726388940,
@@ -449,6 +449,50 @@
         "modified": 1724093134,
         "slug": "the-500-million-berry-man-target-usoland",
         "id": "AZFrgs8yg6zBH7G86thG",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1727598540,
+        "created": 1725308318,
+        "tms_id": "",
+        "title_id": "2435752",
+        "season_number": "17",
+        "tv_rating": "tv-pg",
+        "description": "Robin, Usopp, the Tontattas and the others make moves to rejoin Luffy as Doflamingo's deadly game rages on!",
+        "title_suggest": {
+            "input": [
+                "With a Rumbling of the Ground! The God of Destruction - Giant Pica Descends!",
+                "a Rumbling of the Ground! The God of Destruction - Giant Pica Descends!",
+                "Rumbling of the Ground! The God of Destruction - Giant Pica Descends!",
+                "of the Ground! The God of Destruction - Giant Pica Descends!",
+                "the Ground! The God of Destruction - Giant Pica Descends!",
+                "Ground! The God of Destruction - Giant Pica Descends!",
+                "The God of Destruction - Giant Pica Descends!",
+                "God of Destruction - Giant Pica Descends!",
+                "of Destruction - Giant Pica Descends!",
+                "Destruction - Giant Pica Descends!",
+                "- Giant Pica Descends!",
+                "Giant Pica Descends!",
+                "Pica Descends!",
+                "Descends!"
+            ]
+        },
+        "published": 1725324153,
+        "title": "With a Rumbling of the Ground! The God of Destruction - Giant Pica Descends!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.319,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1725771600,
+        "auth_launch_date": 1725784200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009022400089914",
+        "media_id": "f8c19abd3cc350722ffc8541d7de6864bfec1441",
+        "modified": 1725324153,
+        "slug": "with-a-rumbling-of-the-ground-the-god-of-destruction-giant-pica-descends",
+        "id": "AZG0Y7IESaru9Cdsy72r",
         "auth": true
     },
     {
