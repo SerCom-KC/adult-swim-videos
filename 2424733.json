@@ -233,52 +233,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1726199940,
-        "tms_id": "",
-        "description": "Rick is captured by the Federation. Space Beth is on the case. And so is Rick. And Rick.",
-        "title_suggest": {
-            "input": [
-                "(Dub) Fighting Mother",
-                "Fighting Mother",
-                "Mother"
-            ]
-        },
-        "title": "(Dub) Fighting Mother",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZEi8QisSaru9Cdsy7fP",
-        "duration": 1024.5236,
-        "episode_number": "2",
-        "original_air_date": 1724385600,
-        "auth_launch_date": 1724385600,
-        "clip_order": null,
-        "airing_id": "RADS1008192400087085",
-        "media_id": "5202ffe9fc67461d6de7d9b26373a044786f6a59",
-        "modified": 1724695624,
-        "slug": "dub-fighting-mother",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/1_2482614707-AS_RAMTheAnime_102_FightingMother-1.jpg",
-        "created": 1724074774,
-        "title_id": "2424735",
-        "season_number": "1",
-        "tv_rating": "tv-14-lv",
-        "published": 1724695624,
-        "tags": [],
-        "collection_title": "Rick And Morty: The Anime",
-        "disable_ads": false,
-        "modified_by": "undefined undefined",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_2482614707-AS_RAMTheAnime_102_FightingMother-1.jpg",
-        "id": "AZFq3VBpSaru9Cdsy7qM",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1726804740,
         "tms_id": "",
         "description": "Morty takes the fight to the Federation. And Morty looks for love in all the wrong places.",
@@ -367,6 +321,38 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240903/thumbnails/2_2493113233-AS_RAMTheAnime_104_Memories-4.jpg",
         "id": "AZGj-DZZg6zBH7G86thM",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1728014340,
+        "created": 1725639303,
+        "tms_id": "",
+        "title_id": "2424738",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "description": "Jerry does something bad, or maybe it's good? So now the Yakuza are after the Smiths.",
+        "title_suggest": {
+            "input": [
+                "(Dub) Family",
+                "Family"
+            ]
+        },
+        "published": 1725775771,
+        "title": "(Dub) Family",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZEi8QisSaru9Cdsy7fP",
+        "duration": 1284.6501,
+        "episode_number": "5",
+        "collection_title": "Rick And Morty: The Anime",
+        "original_air_date": 1726200000,
+        "auth_launch_date": 1726200000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009062400090342",
+        "media_id": "9562f7c4fcfaf70c2b76e555d4d25e7dad0dfe99",
+        "modified": 1725775771,
+        "slug": "dub-family",
+        "id": "AZHIHiGxSaru9Cdsy75_",
         "auth": true
     }
 ]
