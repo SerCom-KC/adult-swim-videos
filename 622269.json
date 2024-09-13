@@ -1267,11 +1267,8 @@
         "auth": false
     },
     {
-        "created": 1725141001,
+        "auth_expiration_date": 1760759940,
         "tms_id": "",
-        "title_id": "633910",
-        "season_number": "1",
-        "tv_rating": "tv-14-v",
         "description": "Naruto and his fellow participants arrive at the Forest of Death, the site of the second part of the Chunin Exam.",
         "title_suggest": {
             "input": [
@@ -1286,22 +1283,27 @@
                 "Death"
             ]
         },
-        "published": 1725231756,
         "title": "The Chunin Exam Stage 2: The Forest of Death",
         "type": "episode",
         "expiration_date": 1726869540,
-        "tags": [],
         "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
         "duration": 1285.184,
         "episode_number": "27",
-        "collection_title": "Naruto",
         "original_air_date": 1145147400,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1008312400089830",
+        "auth_launch_date": 1726869600,
+        "airing_id": "RADS1009132400091804",
         "media_id": "823fb2f9833f3eb92020f36876ed8f1c423e17ca",
-        "modified": 1725231756,
-        "launch_date": 1725660000,
+        "modified": 1726257789,
         "slug": "the-chunin-exam-stage-2-the-forest-of-death",
+        "created": 1725141001,
+        "title_id": "633910",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "published": 1726257789,
+        "tags": [],
+        "collection_title": "Naruto",
+        "modified_by": "ODT Listener",
+        "launch_date": 1725660000,
         "id": "AZGqaqUZSaru9Cdsy71W",
         "auth": false
     }
