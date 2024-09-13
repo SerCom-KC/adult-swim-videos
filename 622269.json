@@ -1264,7 +1264,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1725055200,
         "id": "AZGA2ydISaru9Cdsy7vF",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1760759940,
@@ -1305,6 +1305,44 @@
         "modified_by": "ODT Listener",
         "launch_date": 1725660000,
         "id": "AZGqaqUZSaru9Cdsy71W",
+        "auth": false
+    },
+    {
+        "created": 1725641736,
+        "tms_id": "",
+        "title_id": "633911",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "description": "The second exam starts in the Forest of Death. Sasuke notices that an enemy has disguised himself as Naruto.",
+        "title_suggest": {
+            "input": [
+                "Eat or be Eaten: Panic in the Forest",
+                "or be Eaten: Panic in the Forest",
+                "be Eaten: Panic in the Forest",
+                "Eaten: Panic in the Forest",
+                "Panic in the Forest",
+                "in the Forest",
+                "the Forest",
+                "Forest"
+            ]
+        },
+        "published": 1725836575,
+        "title": "Eat or be Eaten: Panic in the Forest",
+        "type": "episode",
+        "expiration_date": 1727474340,
+        "tags": [],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1283.6824,
+        "episode_number": "28",
+        "collection_title": "Naruto",
+        "original_air_date": 1145149200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009062400090400",
+        "media_id": "69744f49de4faee6c6f0a76159bcbd89ac1ebdb1",
+        "modified": 1725836575,
+        "launch_date": 1726264800,
+        "slug": "eat-or-be-eaten-panic-in-the-forest",
+        "id": "AZHIQ0HLSaru9Cdsy76H",
         "auth": false
     }
 ]
