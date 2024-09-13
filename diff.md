@@ -2,25 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 13, 2024 at 18:00:19 EDT_
+_Last Update: September 13, 2024 at 18:30:12 EDT_
 ## Video added
 ### Summary
-2529996 Sailor Moon: 1  
-### 2530021
-**Sailor Moon S01E?? - Jupiter, the Powerful Girl in Love**  
-TV-PG-LV 🔒 22:16  
-⌛ October 4, 2024 at 17:29:00 EDT  
-https://www.adultswim.com/videos/sailor-moon/jupiter-the-powerful-girl-in-love  
-seriesid=`2529996` titleid=`2530021` id=`AZHIOugKg6zBH7G86thR` mediaid=`30495dc563a569cfd457ea972fdc7f81d491cac2`  
-_A new girl named Makoto Kino transfers to Usagi's school, but her tough attitude seems to scare everyone away. Usagi, however, quickly becomes friends with her. Meanwhile, the Dark Kingdom is plotting to revive the Seven Great Monsters._  
+622269 Naruto: 1  
+### 633911
+**Naruto S01E28 - Eat or be Eaten: Panic in the Forest**  
+TV-14-V 🔓 21:23  
+⌛ September 27, 2024 at 17:59:00 EDT  
+https://www.adultswim.com/videos/naruto/eat-or-be-eaten-panic-in-the-forest  
+seriesid=`622269` titleid=`633911` id=`AZHIQ0HLSaru9Cdsy76H` mediaid=`69744f49de4faee6c6f0a76159bcbd89ac1ebdb1`  
+_The second exam starts in the Forest of Death. Sasuke notices that an enemy has disguised himself as Naruto._  
 ## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031622
-**Dragon Ball Z Kai S01E11 - Will Goku Make it in Time?! Three Hours Until the Battle Resumes!**  
+### 2031623
+**Dragon Ball Z Kai S01E12 - Farewell, Piccolo! Goku's Furious Counterattack!**  
 TV-PG-LV 🔒 21:01  
-⌛ September 13, 2024 at 17:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/will-goku-make-it-in-time-three-hours-until-the-battle-resumes  
-seriesid=`2031611` titleid=`2031622` id=`BX8OJl6aSF2tucPGoQsrfw` mediaid=`7035f48d230957ef6c7037e6384ab9060dcbcac6`  
-_Piccolo hatches a desperate plan to prolong the battle until Goku's arrival. When Vegeta senses an awesome source of power approaching, he orders Nappa to dispose of remaining Z-Fighters - starting with Gohan!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402519354.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402519354.jpg" height="144px" /></a>
+⌛ September 13, 2024 at 17:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/farewell-piccolo-gokus-furious-counterattack  
+seriesid=`2031611` titleid=`2031623` id=`uLzXr3tBTX-j8zRgJv0f2g` mediaid=`6db020f71824e3ed8f9fe9980f27fe2f78244913`  
+_Goku arrives in time to save Gohan and Krillin, and the resurrected warrior is eager to put the hurt on Nappa. When it becomes clear that Goku is no ordinary fighter, Prince Vegeta steps in to finish the fight himself!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684027363420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684027363420.jpg" height="144px" /></a>
