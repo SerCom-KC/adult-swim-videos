@@ -2,7 +2,7 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 14, 2024 at 00:00:42 EDT_
+_Last Update: September 15, 2024 at 00:30:42 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
@@ -10,131 +10,149 @@ _Last Update: September 14, 2024 at 00:00:42 EDT_
 437532 Futurama: 1  
 629835 King of the Hill: 1  
 2424733 Rick And Morty: The Anime: 1  
-322328 Space Ghost Coast to Coast: 1  
-### 2069543
-**American Dad S12E12 - Bazooka Steve**  
-TV-14 🔒 21:13  
-⌛ September 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/bazooka-steve  
-seriesid=`581006` titleid=`2069543` id=`AitmXh48RkeeOF5Mpxu47w` mediaid=`271f0089000790af1901e1dcf22dac7b18ea1dee`  
-_Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing. Roger forces Hayley to become a cab driver to pay him back for her gambling debts._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg" height="144px" /></a>
-### 2069545
-**American Dad S12E14 - Julia Rogerts**  
-TV-14 🔒 21:13  
-⌛ September 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/julia-rogerts  
-seriesid=`581006` titleid=`2069545` id=`Mtpd7rRDTN2tl4NtdbAaSw` mediaid=`2eeb1b7debc872329be660293b051613a71956e9`  
-_Roger runs off in disguise as a Julia Roberts character to a small town after Stan hurts his feelings. Steve plans a meeting when he finds out that Jeff and Barry have never met._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175188327576.jpg" height="144px" /></a>
-### 2438923
-**Bob's Burgers S09E07 - I Bob Your Pardon**  
- 🔒 21:29  
-⌛ September 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/i-bob-your-pardon  
-seriesid=`2003422` titleid=`2438923` id=`AYsU3zdd1E7YmWrdXLj8` mediaid=`9497f98206956de7214b3825081699f33d99aad2`  
-_It's a Belcher family turkey rescue._  
-<a href="https://media.cdn.adultswim.com/uploads/20231114/thumbnails/2_231114140501-Screenshot2023-11-14at1.59.37PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231114/thumbnails/2_231114140501-Screenshot2023-11-14at1.59.37PM.png" height="144px" /></a>
-### 2438924
-**Bob's Burgers S09E08 - Roller? I Hardly Know Her!**  
- 🔒 21:26  
-⌛ September 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/roller-i-hardly-know-her  
-seriesid=`2003422` titleid=`2438924` id=`AYsU34J91E7YmWrdXLj9` mediaid=`3b939ebd41467aa4c5ef58b6e759c95c15876a0d`  
-_Gene's BFF betrays him._  
-<a href="https://media.cdn.adultswim.com/uploads/20231023/thumbnails/2_2310231117254-Screenshot2023-10-23at11.13.09AM.png"><img src="https://media.cdn.adultswim.com/uploads/20231023/thumbnails/2_2310231117254-Screenshot2023-10-23at11.13.09AM.png" height="144px" /></a>
-### 2161611
-**Futurama S06E08 - The Beast with a Billion Backs Part 4**  
-TV-14-DLSV 🔒 22:32  
-⌛ September 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-beast-with-a-billion-backs-part-4  
-seriesid=`437532` titleid=`2161611` id=`AX59ZeM3_0O4w1rD3RcL` mediaid=`249c866fe66faddef677c8dcfedefb9d143baabe`  
-_Everybody in the Universe and Yivo live together happily, except for a skeptical Leela. Bender misses the humans._  
-<a href="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png"><img src="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png" height="144px" /></a>
-### 731339
-**King of the Hill S05E12 - Now Who's the Dummy?**  
-TV-PG-DL 🔒 23:22  
-⌛ September 20, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/now-whos-the-dummy  
-seriesid=`629835` titleid=`731339` id=`ZQPWZhj6QAyDo4YZAFIFew` mediaid=`c12e038e4f9ff8c23db0ad7aa83592b2f84c763c`  
-_Hank takes a special interest in Bobby's sports-loving ventriloquist's dummy._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151924498986010.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151924498986010.jpg" height="144px" /></a>
-### 2424735
-**Rick And Morty: The Anime S01E02 - (Dub) Fighting Mother**  
-TV-14-LV 🔓 17:04  
-⌛ October 10, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/rick-and-morty-the-anime/dub-fighting-mother  
-seriesid=`2424733` titleid=`2424735` id=`AZFq3VBpSaru9Cdsy7qM` mediaid=`59b3cbf5733b85cbc7b095c1357e87a142708e0d`  
-_Rick is captured by the Federation. Space Beth is on the case. And so is Rick. And Rick._  
-<a href="https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_2482614707-AS_RAMTheAnime_102_FightingMother-1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_2482614707-AS_RAMTheAnime_102_FightingMother-1.jpg" height="144px" /></a>
-### 322332
-**Space Ghost Coast to Coast S03E03 - Lovesick**  
-TV-PG 🔓 11:24  
-⌛ April 29, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/lovesick  
-seriesid=`322328` titleid=`322332` id=`uBR6GwTJTdG-MYOGMp8Jrg` mediaid=`ef00ebb69d4b8650c32dbcc1917d902d6631510c`  
-_Debuting on Valentine's Day, this episode finds Space Ghost heartbroken over a failed relationship. The despondent Ghost finds that not even the antics of comedian Carrot Top can lure him from his lovesick stupor._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417955168-sgc2c_9603_dst_cid-9266508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417955168-sgc2c_9603_dst_cid-9266508.jpg" height="144px" /></a>
-## Video removed
-### Summary
-2003422 Bob's Burgers: 2  
 2326791 Smalls: 1  
-437532 Futurama: 1  
-581006 American Dad: 2  
-629835 King of the Hill: 1  
-### 2171458
-**Bob's Burgers S08E18 - As I Walk Through the Alley of the Shadow of Ramps**  
-TV-PG-L 🔒 21:36  
-⌛ September 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/as-i-walk-through-the-alley-of-the-shadow-of-ramps  
-seriesid=`2003422` titleid=`2171458` id=`AWhYh5S3Hl5gR6828x2Q` mediaid=`a924b62b2974763a32b68f1a60caef5524dbbdea`  
-_When a malicious juice truck owner tries to set up shop in the Belcher's alley, Louise devises a plan to win back their turf. Meanwhile, Linda learns that she can't always run to her sister's defense._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155016134320320.jpg" height="144px" /></a>
-### 2171459
-**Bob's Burgers S08E19 - Mo Mommy Mo Problems**  
-TV-PG-DLV 🔒 21:38  
-⌛ September 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/mo-mommy-mo-problems  
-seriesid=`2003422` titleid=`2171459` id=`AWjywFQVHl5gR6828yeS` mediaid=`18d43b0b9bcb6f90ebb3cfcc2fa51344fa05d201`  
-_The Belchers attend open houses for the free food, per Linda's "momnipotent" Mother's Day request. When Linda meets a real estate agent and agrees to a private showing, the family ends up at the helm of a real estate scheme._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155085074712611.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155085074712611.jpg" height="144px" /></a>
+895948 The Eric Andre Show: 1  
+### 2069552
+**American Dad S12E16 - The Bitchin' Race**  
+TV-14-DLV 🔒 21:14  
+⌛ September 21, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-bitchin-race  
+seriesid=`581006` titleid=`2069552` id=`05iJVgiuR_SKZhxuOw-INQ` mediaid=`a559762303882984ec371cb68aeeaee3c22d24c7`  
+_The family competes on the reality show The Bitchin' Race. After Stan and Hayley ditch the less-motivated Steve and Francine and team up, they end up in a Tunisian labor prison._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg" height="144px" /></a>
+### 2069546
+**American Dad S12E15 - The Life and Times of Stan Smith**  
+TV-14 🔒 21:14  
+⌛ September 21, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-life-and-times-of-stan-smith  
+seriesid=`581006` titleid=`2069546` id=`NEXYZWHTTPWiGgpURTkSWQ` mediaid=`09f8de265628f643abe065227590db68bd7e189a`  
+_Stan becomes addicted to "dying" after Roger tricks him into thinking he had a heart attack. Klaus takes Steve to Arizona State University for a college visit, where a fraternity hazes him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182071483476.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182071483476.jpg" height="144px" /></a>
+### 2438926
+**Bob's Burgers S09E10 - Better Off Sled**  
+ 🔒 21:21  
+⌛ September 21, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/better-off-sled  
+seriesid=`2003422` titleid=`2438926` id=`AYsU4CVun_kciGPPrC3i` mediaid=`9aac01eb64f5379e968729b85e059c502993954a`  
+_It's all fun and games until the Belchers lose their sledding turf._  
+<a href="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_2312111353481-Screenshot2023-12-11at1.49.00PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_2312111353481-Screenshot2023-12-11at1.49.00PM.png" height="144px" /></a>
+### 2438925
+**Bob's Burgers S09E09 - UFO No You Didn't**  
+ 🔒 21:29  
+⌛ September 21, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/ufo-no-you-didnt  
+seriesid=`2003422` titleid=`2438925` id=`AYsU38ri1E7YmWrdXLj-` mediaid=`d68dffdc9f71e7841ecdb2e226547c7ac5ab3e8d`  
+_Tina talks to aliens._  
+<a href="https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_2310301458536-Screenshot2023-10-30at2.58.15PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_2310301458536-Screenshot2023-10-30at2.58.15PM.png" height="144px" /></a>
+### 2161612
+**Futurama S06E09 - Bender's Game Part 1**  
+TV-14-DLV 🔒 22:32  
+⌛ September 21, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/benders-game-part-1  
+seriesid=`437532` titleid=`2161612` id=`AX6dVsFb_0O4w1rD3Rg9` mediaid=`9232087fbf3d48d08cbf0767c24fb5cdcf7299db`  
+_When Leela loses her cool over some redneck bullies, Farnsworth orders her to wear an electrical collar to help control her temper; and Bender loses his mind over Dungeons and Dragons._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png" height="144px" /></a>
+### 731340
+**King of the Hill S05E13 - Ho Yeah!**  
+TV-PG-DL 🔒 22:56  
+⌛ September 21, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/ho-yeah  
+seriesid=`629835` titleid=`731340` id=`GyGHF5hzS2qMQhBTq5t3cg` mediaid=`a78e16157f81ed78920dc92d8d720770aa0e9df2`  
+_The Hills inadvertently allow a prostitute to take up residence in their home._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151924501398810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151924501398810.jpg" height="144px" /></a>
+### 2507905
+**Rick And Morty: The Anime S02E05 - (Sub) Family**  
+TV-14-DLSV 🔒 21:24  
+⌛ October 5, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/rick-and-morty-the-anime/sub-family  
+seriesid=`2424733` titleid=`2507905` id=`AZFG-_jyg6zBH7G86thB` mediaid=`c11e5d7e79aaafa1689f915e59cf71c96863fbab`  
+_Jerry does something bad, or maybe it's good? So now the Yakuza are after the Smiths._  
+<a href=""><img src="" height="144px" /></a>
 ### 2438490
 **Smalls S05E04 - Buster & TJ**  
 TV-MA-L 🔓 10:45  
-⌛ September 13, 2024 at 23:59:00 EDT  
+⌛ September 12, 2025 at 23:59:00 EDT  
 https://www.adultswim.com/videos/smalls/buster-tj  
 seriesid=`2326791` titleid=`2438490` id=`AYodtNs_Oz5CkuTcnw1d` mediaid=`a607c555563610392f2f52830e6a86b65f640464`  
 _"Buster & TJ Had A Good Time!" follows two best friend blobs surviving in a buffoonish town that always escalates to unimaginable stakes that ruin the whole day for everyone._  
 <a href="https://media.cdn.adultswim.com/uploads/20230822/thumbnails/2_238221137491-503-BusterandTJ.jpg"><img src="https://media.cdn.adultswim.com/uploads/20230822/thumbnails/2_238221137491-503-BusterandTJ.jpg" height="144px" /></a>
-### 2161606
-**Futurama S06E03 - Bender's Big Score Part 3**  
-TV-14-DLV 🔒 22:26  
-⌛ September 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/benders-big-score-part-3  
-seriesid=`437532` titleid=`2161606` id=`AX4xSLf_208s7zyYUL9W` mediaid=`988dcf0bc851c330c12d02a9337bf20e77c8e860`  
-_As Leela and Lars prepare to get married, we learn what happened to Fry when he returned to the 21st century._  
-<a href="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png"><img src="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png" height="144px" /></a>
-### 2069532
-**American Dad S12E01 - Father's Daze**  
+### 2418686
+**The Eric Andre Show S06E06 - Don't You Say a Word**  
+TV-MA-L 🔓 11:07  
+⌛ October 19, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/dont-you-say-a-word  
+seriesid=`895948` titleid=`2418686` id=`AYiwCsPX2rZC6NyF619w` mediaid=`a1d296b0735df1e7b726b749658ec23deef916ba`  
+_Eric welcomes Chet Hanks, Natasha Lyonne, and Diplo. A realtor gets caught cheating on his wife but makes the sale nonetheless._  
+<a href="https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254209-TheEricAndreShow610Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254209-TheEricAndreShow610Still001tiny.png" height="144px" /></a>
+## Video removed
+### Summary
+2003422 Bob's Burgers: 2  
+343621 Samurai Jack: 1  
+437532 Futurama: 1  
+581006 American Dad: 2  
+629835 King of the Hill: 1  
+895948 The Eric Andre Show: 1  
+### 2171460
+**Bob's Burgers S08E20 - Mission Impos-slug-ble**  
+TV-PG-LV 🔓 21:42  
+⌛ September 14, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/mission-impos-slug-ble  
+seriesid=`2003422` titleid=`2171460` id=`AWjywLXKHl5gR6828yeT` mediaid=`9b471691672486e770a63e75f36bfe163a70b31a`  
+_When Louise's extensive Burobu card collection gets confiscated at school, she devises a tricky plan to get them back. Meanwhile, Bob must give a eulogy for an old acquaintance, despite an unfortunate incident that happened years ago._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155146510128312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155146510128312.jpg" height="144px" /></a>
+### 2171461
+**Bob's Burgers S08E21 - Something Old, Something New, Something Bob Caters for You**  
+TV-PG-L 🔓 21:39  
+⌛ September 14, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/something-old-something-new-something-bob-caters-for-you  
+seriesid=`2003422` titleid=`2171461` id=`AWjywSA7Hl5gR6828yeU` mediaid=`f94d7b269e0ce2b79b6f201867c0375f10c2bf2e`  
+_Just as Bob wonders if working in the restaurant business is worth it, a couple who fell in love at the restaurant asks the Belchers to cater their wedding. When things don't go as planned, Linda steps in and attempts to save the day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155198937820315.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155198937820315.jpg" height="144px" /></a>
+### 434838
+**Samurai Jack S03E07 - XXXIII**  
+TV-Y7-FV 🔓 22:30  
+⌛ September 14, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxxiii  
+seriesid=`343621` titleid=`434838` id=`iTskVmjUQ_uDnC6V5Ae3Sg` mediaid=`eefbbc5249800295ceafd3344ca2dcc7c8f9f16f`  
+_An over-friendly creature begins following Jack, messing up Jack's every move along his quest._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471415112-samjack_033.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471415112-samjack_033.jpg" height="144px" /></a>
+### 2161607
+**Futurama S06E04 - Bender's Big Score Part 4**  
+TV-14-DLV 🔓 22:26  
+⌛ September 14, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/benders-big-score-part-4  
+seriesid=`437532` titleid=`2161607` id=`AX4xSdr0208s7zyYUL9X` mediaid=`cdcd1a6c4ee64785d9de1c7d4e7995adf35a3d65`  
+_Alien scammers buy the planet and banish its inhabitants to Neptune, leading to an intergalactic battle for Earth._  
+<a href="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161626567-Futurama_604_BendersBigScore_Part4.png"><img src="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161626567-Futurama_604_BendersBigScore_Part4.png" height="144px" /></a>
+### 2069533
+**American Dad S12E02 - Fight and Flight**  
 TV-14 🔒 21:13  
-⌛ September 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/fathers-daze  
-seriesid=`581006` titleid=`2069532` id=`1tfpfZcEQEulM8Gwxer2rg` mediaid=`a6300e24fe8fd1b800dd12c60589e2d2d662aca3`  
-_The Smith family forgets to celebrate Father's Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793526969010.jpg" height="144px" /></a>
-### 2046306
-**American Dad S11E22 - Standard Deviation**  
-TV-14-DLV 🔒 21:13  
-⌛ September 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/standard-deviation  
-seriesid=`581006` titleid=`2046306` id=`auZtRXZYRliIhZg-c2XmGA` mediaid=`814e89443873c7256fdd4b29cdd290398b690033`  
-_In order to avoid being sent on a suicide mission, Stan learns how to become a DJ to beat Bullock in a DJ Battle. Jeff takes up drinking psychedelic teas and Roger helps him build an imaginary musical instrument._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214835541104.jpg" height="144px" /></a>
-### 731334
-**King of the Hill S05E07 - What Makes Bobby Run?**  
-TV-PG-DL 🔒 23:18  
-⌛ September 13, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/what-makes-bobby-run  
-seriesid=`629835` titleid=`731334` id=`_OY9pHfdQv2eWO5INfPLzA` mediaid=`2d4be7111724c9cd53773f17faa5f5d445f13df7`  
-_Bobby attempts to achieve yearbook immortality by becoming the school mascot._  
-<a href="https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_229131433580-KingOfTheHill_507_WhatMakesBobbyRun.png"><img src="https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_229131433580-KingOfTheHill_507_WhatMakesBobbyRun.png" height="144px" /></a>
+⌛ September 14, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/fight-and-flight  
+seriesid=`581006` titleid=`2069533` id=`2lgl7za3TEGrHYL2SIWJeQ` mediaid=`be1398f38e6bfa7b20c6d3572110338cdfca6b5e`  
+_Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg" height="144px" /></a>
+### 2069534
+**American Dad S12E03 - The Enlightenment of Ragi-Baba**  
+TV-14 🔒 21:15  
+⌛ September 14, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-enlightenment-of-ragi-baba  
+seriesid=`581006` titleid=`2069534` id=`Pio80KFJQd6SVdNWrk5VgA` mediaid=`5d4218baa48a0c16816b753d6db8066528622760`  
+_Hayley takes Roger with her to a meditation center and he quickly takes over, becoming one of the world's leading authorities on meditation. Stan and Steve become apprentices as they are taught the art of making sushi._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg" height="144px" /></a>
+### 731335
+**King of the Hill S05E08 - 'Twas the Nut Before Christmas**  
+TV-PG-DL 🔓 23:18  
+⌛ September 14, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/twas-the-nut-before-christmas  
+seriesid=`629835` titleid=`731335` id=`CGtzuzU8SnKD6ExZg9jRWQ` mediaid=`0649ea0d59d46fae6460a620f1e1c1b258a9db71`  
+_Bill's popularity skyrockets when he embraces the Christmas spirit, and his neediness attracts the attention of a teenage moocher._  
+<a href="https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_229131434462-KingOfTheHill_508_TwasTheNutBeforeChristmas.png"><img src="https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_229131434462-KingOfTheHill_508_TwasTheNutBeforeChristmas.png" height="144px" /></a>
+### 2032604
+**The Eric Andre Show S03E09 - Pauly D; Rick Springfield**  
+TV-MA-L 🔓 10:47  
+⌛ September 14, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/pauly-d-rick-springfield  
+seriesid=`895948` titleid=`2032604` id=`Vsafy6LESTSmH7k0aE7y8w` mediaid=`c4102ce651e5182cb48859f60b4fc2fa7335a372`  
+_Interview with Pauly D; Special appearance by Rick Springfield; Musical guest Paul Wall._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617572-ericandre_029_dup-20141211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617572-ericandre_029_dup-20141211.jpg" height="144px" /></a>
