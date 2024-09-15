@@ -56,7 +56,7 @@
         "cma_id": "1075184"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1730500140,
         "tms_id": "EP012647370020",
@@ -108,6 +108,59 @@
         "launch_date": 1723356000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684048946312.jpg",
         "cma_id": "1072763"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
+        "tms_id": "EP012647370025",
+        "description": "The eldest Namekian unlocks the full force of Krillin's dormant power, so the bald brawler can better protect his Dragon Ball. Elsewhere, a Saiyan-related premonition prompts Frieze to call for reinforcements.",
+        "title_suggest": {
+            "input": [
+                "Power Up, Krillin! Frieza's Mounting Apprehension!",
+                "Up, Krillin! Frieza's Mounting Apprehension!",
+                "Krillin! Frieza's Mounting Apprehension!",
+                "Frieza's Mounting Apprehension!",
+                "Mounting Apprehension!",
+                "Apprehension!"
+            ]
+        },
+        "expiration_date": 1729403940,
+        "title": "Power Up, Krillin! Frieza's Mounting Apprehension!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1261.1265,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "25",
+        "original_air_date": 1432440000,
+        "clip_order": null,
+        "auth_launch_date": 1556596800,
+        "modified": 1725953057,
+        "airing_id": "RADS1009102400090911",
+        "media_id": "0ed547854811c907de61f5d8c962daebf050735e",
+        "id": "7rDBj3n0T8G7V9uYAGl5Pw",
+        "slug": "power-up-krillin-friezas-mounting-apprehension",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684061055215.jpg",
+        "created": 1430755228,
+        "season_number": "1",
+        "title_id": "2031636",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1725953057,
+        "first_published": 1432102822,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1726380000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684061055215.jpg",
+        "cma_id": "1080730"
     },
     {
         "auth": false,
