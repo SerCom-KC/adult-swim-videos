@@ -399,7 +399,7 @@
         "launch_date": 1725179400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240909/thumbnails/2_2499157265-image.png",
         "id": "AZEkLIh4g6zBH7G86tg6",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1725784140,
@@ -488,7 +488,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1726389000,
         "id": "AZFrgs8yg6zBH7G86thG",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1727598540,
@@ -572,6 +572,78 @@
         "modified": 1724777682,
         "slug": "breaking-through-enemy-lines-luffy-and-zoro-launch-the-counter-attack",
         "id": "AZGRi_fbSaru9Cdsy7xd",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1728203340,
+        "created": 1725917319,
+        "tms_id": "EP022836810055",
+        "title_id": "2435754",
+        "season_number": "17",
+        "tv_rating": "tv-pg-v",
+        "description": "Don Chin Jao and Elizabello successfully break Pica's giant arm but the rock giant is unfazed and starts throwing even more destructive punches at Luffy and his band of unwanted collaborators!",
+        "title_suggest": {
+            "input": [
+                "Steady Progress! Luffy's Army vs. Pica!",
+                "Progress! Luffy's Army vs. Pica!",
+                "Luffy's Army vs. Pica!",
+                "Army vs. Pica!",
+                "vs. Pica!",
+                "Pica!"
+            ]
+        },
+        "published": 1725923789,
+        "title": "Steady Progress! Luffy's Army vs. Pica!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.319,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1726376400,
+        "auth_launch_date": 1726389000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009092400090903",
+        "media_id": "c9d6fd5ab33bb036ff4fb29769d30f9c4d163669",
+        "modified": 1725923789,
+        "slug": "steady-progress-luffys-army-vs-pica",
+        "id": "AZHYsFFHSaru9Cdsy78q",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1728205140,
+        "created": 1725917329,
+        "tms_id": "EP039441250056",
+        "title_id": "2435755",
+        "season_number": "17",
+        "tv_rating": "tv-pg-l",
+        "description": "Luffy and Moocy fast approach the showdown with Doflamingo - while the others with a beef against him continue to tag along.",
+        "title_suggest": {
+            "input": [
+                "A Shocking Confession! Law's Soulful Vow!",
+                "Shocking Confession! Law's Soulful Vow!",
+                "Confession! Law's Soulful Vow!",
+                "Law's Soulful Vow!",
+                "Soulful Vow!",
+                "Vow!"
+            ]
+        },
+        "published": 1725923791,
+        "title": "A Shocking Confession! Law's Soulful Vow!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1320.4191,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1726378200,
+        "auth_launch_date": 1726390800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009092400090905",
+        "media_id": "088cda2d0e14e9d5bdd817debfde8ccf2a2243a0",
+        "modified": 1725923791,
+        "slug": "a-shocking-confession-laws-soulful-vow",
+        "id": "AZHYsHmqSaru9Cdsy78r",
         "auth": true
     }
 ]
