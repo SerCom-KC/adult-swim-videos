@@ -136,54 +136,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1726718340,
-        "tms_id": "",
-        "description": "This Halloween entails more tricks and less treats.",
-        "title_suggest": {
-            "input": [
-                "Nightmare on Ocean Avenue Street",
-                "on Ocean Avenue Street",
-                "Ocean Avenue Street",
-                "Avenue Street",
-                "Street"
-            ]
-        },
-        "title": "Nightmare on Ocean Avenue Street",
-        "expiration_date": 1715572740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1286.8188,
-        "episode_number": "4",
-        "original_air_date": "1698021000",
-        "auth_launch_date": 1726113600,
-        "clip_order": null,
-        "airing_id": "RADS1009062400090300",
-        "media_id": "355333e85633ec2e393e02caa04805282d44dde2",
-        "modified": 1725693565,
-        "slug": "nightmare-on-ocean-avenue-street",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231017/thumbnails/1_2310171824459-Screenshot2023-10-17at6.24.35PM.png",
-        "created": 1696861890,
-        "season_number": "9",
-        "title_id": "2438920",
-        "tv_rating": "",
-        "published": 1725693565,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1714968000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_2310171824459-Screenshot2023-10-17at6.24.35PM.png",
-        "id": "AYsU2ac11E7YmWrdXLj7",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1726804740,
         "tms_id": "",
         "description": "Louise, Tina and Gene seek the ultimate revenge.",
@@ -601,6 +553,54 @@
         "launch_date": 1716782400,
         "poster": "https://media.cdn.adultswim.com/uploads/20231106/thumbnails/2_231161115273-Screenshot2023-11-06at11.11.55AM.png",
         "id": "AYs_xeeQ1E7YmWrdXLkO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1727323140,
+        "tms_id": "",
+        "description": "Tina's got bird on the brain.",
+        "title_suggest": {
+            "input": [
+                "Every Which Way but Goose",
+                "Which Way but Goose",
+                "Way but Goose",
+                "but Goose",
+                "Goose"
+            ]
+        },
+        "title": "Every Which Way but Goose",
+        "expiration_date": 1717991940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.924,
+        "episode_number": "14",
+        "original_air_date": "1697508000",
+        "auth_launch_date": 1726718400,
+        "clip_order": null,
+        "airing_id": "RADS1009122400091266",
+        "media_id": "25f9fe9f911c21e22c38f57cafcd05bb472bb350",
+        "modified": 1726296263,
+        "slug": "every-which-way-but-goose",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231106/thumbnails/1_231161625292-Screenshot2023-11-06at4.08.25PM.png",
+        "created": 1697582050,
+        "season_number": "9",
+        "title_id": "2438930",
+        "tv_rating": "",
+        "published": 1726296263,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1717387200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231106/thumbnails/2_231161625292-Screenshot2023-11-06at4.08.25PM.png",
+        "id": "AYs_xmyGn_kciGPPrC_b",
         "auth": true
     }
 ]
