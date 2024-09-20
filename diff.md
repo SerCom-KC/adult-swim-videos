@@ -2,112 +2,52 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 20, 2024 at 00:00:22 EDT_
+_Last Update: September 20, 2024 at 00:30:12 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-### 2069554
-**American Dad S13E01 - Paranoid_Frandroid**  
-TV-14-DLSV 🔒 21:03  
-⌛ September 26, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/paranoid-frandroid  
-seriesid=`581006` titleid=`2069554` id=`kuyoMQr6Ta62NeNv3TRsgw` mediaid=`9a7930d726aa9b94583f7600197cfc38b50e90c7`  
-_Francine becomes a conspiracy theorist. Klaus & Steve help Snot pimp out his new room._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg" height="144px" /></a>
-### 2069555
-**American Dad S13E02 - The Census of the Lambs**  
-TV-14-DLV 🔒 21:03  
-⌛ September 26, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-census-of-the-lambs  
-seriesid=`581006` titleid=`2069555` id=`RktRj9lgSdelLLgUqsKLbA` mediaid=`98679cbf54e6667a5cc100bb21b22e7b75009409`  
-_Hayley and Stan compete while collecting data for the US Census. Klaus inherits a camera and has Steve and his friends model for him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg" height="144px" /></a>
-### 2438932
-**Bob's Burgers S09E16 - Roamin' Bob-Iday**  
- 🔒 21:31  
-⌛ September 26, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/roamin-bob-iday  
-seriesid=`2003422` titleid=`2438932` id=`AYtNyZWj1E7YmWrdXLkR` mediaid=`a1527a22d0998e4de8aca25e5bb8b8b4224e4ccf`  
-_Bob attempts to take a day off._  
-<a href="https://media.cdn.adultswim.com/uploads/20231113/thumbnails/2_2311131350285-Screenshot2023-11-13at1.46.35PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231113/thumbnails/2_2311131350285-Screenshot2023-11-13at1.46.35PM.png" height="144px" /></a>
-### 2438931
-**Bob's Burgers S09E15 - The Fresh Princ-Ipal**  
- 🔒 21:31  
-⌛ September 26, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-fresh-princ-ipal  
-seriesid=`2003422` titleid=`2438931` id=`AYs_xwXAn_kciGPPrC_c` mediaid=`817c9f3932775c491d910f7697aeda5bb7cb8199`  
-_Louise is on a power trip._  
-<a href="https://media.cdn.adultswim.com/uploads/20231113/thumbnails/2_2311131421578-Screenshot2023-11-13at2.20.12PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231113/thumbnails/2_2311131421578-Screenshot2023-11-13at2.20.12PM.png" height="144px" /></a>
-### 2161615
-**Futurama S06E12 - Bender's Game Part 4**  
-TV-14-DV 🔒 22:31  
-⌛ September 26, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/benders-game-part-4  
-seriesid=`437532` titleid=`2161615` id=`AX7GUTT3208s7zyYUL-p` mediaid=`1f213a7c043ae592b195d7f6dad45b41eb5a6b53`  
-_When Farnsworth and the gang reach Momon's Lair, an all-out battle ensues over the anti-crystal._  
-<a href="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241458287-Futurama_612_BendersGame_Part4.png"><img src="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241458287-Futurama_612_BendersGame_Part4.png" height="144px" /></a>
-### 731343
-**King of the Hill S05E16 - Hank's Choice**  
-TV-PG-DL 🔒 22:29  
-⌛ September 26, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/hanks-choice  
-seriesid=`629835` titleid=`731343` id=`FCoHP6kBTGqQGSeahcHmRQ` mediaid=`6a899ea7c0a8d71b201790c2b564b24965838245`  
-_When Bobby develops allergies, Hank must choose between his son and Ladybird._  
-<a href="https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271549343-KingOfTheHill_511_HanksChoice.png"><img src="https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271549343-KingOfTheHill_511_HanksChoice.png" height="144px" /></a>
+2424733 Rick And Morty: The Anime: 1  
+439722 The Venture Bros.: 2  
+547867 Tom Goes To The Mayor: 1  
+### 2424739
+**Rick And Morty: The Anime S01E06 - (Dub) Free Will**  
+TV-14-LV 🔒 19:45  
+⌛ October 10, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/rick-and-morty-the-anime/dub-free-will  
+seriesid=`2424733` titleid=`2424739` id=`AZHs05F6g6zBH7G86thT` mediaid=`5f603ca2a67c12095baf1cc40790bc983705abfa`  
+_Morty and Elle are reunited. But what are Space Beth and Rick hiding..._  
+<a href="https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181039209-AS_RAMTheAnime_106_FreeWill-5.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181039209-AS_RAMTheAnime_106_FreeWill-5.jpg" height="144px" /></a>
+### 543795
+**The Venture Bros. S01E09 - Are You There God? It's Me, Dean**  
+TV-14-D 🔓 22:30  
+⌛ July 9, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/are-you-there-god-its-me-dean  
+seriesid=`439722` titleid=`543795` id=`qzEMjzUmTHydq0D3jpLWpQ` mediaid=`57a0fb789c5b3aec2617d6a2317819442a6c25c3`  
+_The Monarch finally has the Venture family right where he wants them--hanging upside down above the Amazon river! But his victory is postponed when Dean suffers a strange but fairly common injury--acute testicular tortion. According to the bi-laws of the Guild of Calamitous Intent, a temporary truce must be called in order to get Dean medical attention,  so Brock and Hank are held as collateral._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161325445-venture_110.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161325445-venture_110.jpg" height="144px" /></a>
+### 543788
+**The Venture Bros. S01E08 - Mid Life Chrysalis**  
+TV-14-DS 🔓 22:03  
+⌛ July 9, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/mid-life-chrysalis  
+seriesid=`439722` titleid=`543788` id=`6v_NwiarQs-QdV4fZ6-PMg` mediaid=`cf83c5feddea790bd9748291479b65308991ac5e`  
+_The Monarch sends Dr. Girlfriend undercover to seduce Dr. Venture in order to inject him with a body-altering serum.  Meanwhile, Brock is deeply depressed to he learn his secret agent license to kill has expired, but the boys are hell-bent on helping him cram for his government exam._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324571-venture_103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161324571-venture_103.jpg" height="144px" /></a>
+### 639411
+**Tom Goes To The Mayor S02E15 - Undercover**  
+TV-14 🔓 11:38  
+⌛ November 28, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/undercover  
+seriesid=`547867` titleid=`639411` id=`KCurLYD7T1WMDKEw45yL3Q` mediaid=`dc7238434110c66fd1f2f9f517fe6992a30d91e6`  
+_Tom goes undercover at his son's school to find out if they are being served high levels of starch._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795854-tgttm_028.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795854-tgttm_028.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-437532 Futurama: 1  
-581006 American Dad: 2  
-629835 King of the Hill: 1  
-### 2438921
-**Bob's Burgers S09E05 - Live and Let Fly**  
- 🔒 21:31  
+547867 Tom Goes To The Mayor: 1  
+### 615366
+**Tom Goes To The Mayor S01E11 - Vice Mayor**  
+TV-PG-L 🔓 11:46  
 ⌛ September 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/live-and-let-fly  
-seriesid=`2003422` titleid=`2438921` id=`AYsU2iw2n_kciGPPrC3g` mediaid=`66756c2384fdeeced425d47c85f3081d175fbbd5`  
-_Louise, Tina and Gene seek the ultimate revenge._  
-<a href="https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_2310171827289-Screenshot2023-10-17at6.27.18PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_2310171827289-Screenshot2023-10-17at6.27.18PM.png" height="144px" /></a>
-### 2438922
-**Bob's Burgers S09E06 - Bobby Driver**  
- 🔒 21:32  
-⌛ September 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/bobby-driver  
-seriesid=`2003422` titleid=`2438922` id=`AYsU3XGRn_kciGPPrC3h` mediaid=`43b4f0e957af7152a63e3452b019cf672f52f5c2`  
-_Bob joins in on a quilting crime spree._  
-<a href="https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_231017182984-Screenshot2023-10-17at6.28.52PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_231017182984-Screenshot2023-10-17at6.28.52PM.png" height="144px" /></a>
-### 2161610
-**Futurama S06E07 - The Beast with a Billion Backs Part 3**  
-TV-14-DSV 🔒 22:32  
-⌛ September 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-beast-with-a-billion-backs-part-3  
-seriesid=`437532` titleid=`2161610` id=`AX59ZhRp_0O4w1rD3RcO` mediaid=`8b33663b3f84f7965dfb623034d29fca7ef087aa`  
-_The world watches in terror as billions of tentacles emerge from the anomaly. Leela, Amy, and Zap become the only resistance._  
-<a href="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211618157-Futurama_607_TheBeastWithABillionBacks_Part3.png"><img src="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211618157-Futurama_607_TheBeastWithABillionBacks_Part3.png" height="144px" /></a>
-### 2069541
-**American Dad S12E10 - A Nice Night for a Drive**  
-TV-14 🔒 21:14  
-⌛ September 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/a-nice-night-for-a-drive  
-seriesid=`581006` titleid=`2069541` id=`Jv3Vtv7GTM2hwe473Cu2Vg` mediaid=`afa206c1964b52fc4ec86c6fd2c1cee8a5deaddf`  
-_Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg" height="144px" /></a>
-### 2069542
-**American Dad S12E11 - Casino Normale**  
-TV-14 🔒 21:13  
-⌛ September 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/casino-normale  
-seriesid=`581006` titleid=`2069542` id=`Kh2zdJEDQb-HJmzQQbcygw` mediaid=`2d57d865f29fc91eeb3889c89a5f1e136848434d`  
-_Francine steals from the CIA and pretends to be a sexy supervillain to incite Stan to be more seductive. Roger tricks Hayley and Steve into trapping Jay Leno so he can take revenge on him._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg" height="144px" /></a>
-### 731338
-**King of the Hill S05E11 - Hank and the Great Glass Elevator**  
-TV-14-DLS 🔒 23:14  
-⌛ September 19, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/hank-and-the-great-glass-elevator  
-seriesid=`629835` titleid=`731338` id=`jpnUGLgFRLSmjFSntPLnBw` mediaid=`ad5a658914d69f9f9921d74c09a6e2ad67f47105`  
-_Bill finds himself in the middle of a romantic tug-of-war between his ex-wfe, Lenore, and ex-Texas governor Ann Richards; Peggy and Bobby discover the pleasures of charcoal-grilled meat._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151931841214717.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151931841214717.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/vice-mayor  
+seriesid=`547867` titleid=`615366` id=`rceja6K0R_2chJoTpLTg9w` mediaid=`024c5c8bdc590025d09887294a4ec07057d6dda0`  
+_The Mayor offers Tom a position as Vice Mayor of Hobo Town.  Special Guest: Fred Willard._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952155-tgttm_011.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952155-tgttm_011.jpg" height="144px" /></a>
