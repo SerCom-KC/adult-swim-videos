@@ -1,6 +1,55 @@
 {
-    "updated": 1726977748,
+    "updated": 1726977805,
     "added": [
+        {
+            "auth_expiration_date": 1719115140,
+            "tms_id": "EP015632430070",
+            "description": "Eric welcomes Raven Symone and Benny Blanco. H09909 gets H09909fied. The Kar Kwash introduces a new car cleaning technique.",
+            "title_suggest": {
+                "input": [
+                    "Anti-weed"
+                ]
+            },
+            "title": "Anti-weed",
+            "type": "episode",
+            "expiration_date": 1730001540,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+            "duration": 673.6063,
+            "episode_number": "7",
+            "original_air_date": 1687752000,
+            "auth_launch_date": 1716091200,
+            "clip_order": null,
+            "airing_id": "RADS1009152400091885",
+            "media_id": "0379c858dcf529d4f4e633ce78f4b97be8abfc37",
+            "modified": 1726550580,
+            "slug": "anti-weed",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/1_23751456152-EAAntiWeed.png",
+            "created": 1687271602,
+            "title_id": "2418687",
+            "season_number": "6",
+            "tv_rating": "tv-ma-ls",
+            "published": 1726550580,
+            "tags": [],
+            "collection_title": "The Eric Andre Show",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1726977600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751456152-EAAntiWeed.png",
+            "id": "AYjZOXpA2rZC6NyF6193",
+            "auth": false,
+            "collection_slug": "the-eric-andre-show",
+            "collection_title_id": "895948",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447368300,
@@ -103,55 +152,6 @@
             "launch_date": 1720929600,
             "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341618213-ericandre_030_dup-20141118.jpg",
             "cma_id": "1361235",
-            "collection_slug": "the-eric-andre-show",
-            "collection_title_id": "895948",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth_expiration_date": 1719115140,
-            "tms_id": "EP015632430070",
-            "description": "Eric welcomes Raven Symone and Benny Blanco. H09909 gets H09909fied. The Kar Kwash introduces a new car cleaning technique.",
-            "title_suggest": {
-                "input": [
-                    "Anti-weed"
-                ]
-            },
-            "title": "Anti-weed",
-            "type": "episode",
-            "expiration_date": 1730001540,
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-            "duration": 673.6063,
-            "episode_number": "7",
-            "original_air_date": 1687752000,
-            "auth_launch_date": 1716091200,
-            "clip_order": null,
-            "airing_id": "RADS1009152400091885",
-            "media_id": "0379c858dcf529d4f4e633ce78f4b97be8abfc37",
-            "modified": 1726550580,
-            "slug": "anti-weed",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/1_23751456152-EAAntiWeed.png",
-            "created": 1687271602,
-            "title_id": "2418687",
-            "season_number": "6",
-            "tv_rating": "tv-ma-ls",
-            "published": 1726550580,
-            "tags": [],
-            "collection_title": "The Eric Andre Show",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1726977600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751456152-EAAntiWeed.png",
-            "id": "AYjZOXpA2rZC6NyF6193",
-            "auth": false,
             "collection_slug": "the-eric-andre-show",
             "collection_title_id": "895948",
             "online_exclusives": false
