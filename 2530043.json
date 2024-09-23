@@ -944,5 +944,40 @@
         "slug": "the-cave-part-1",
         "id": "AZIBKwS5Saru9Cdsy8C0",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1732337940,
+        "created": 1726596541,
+        "tms_id": "",
+        "title_id": "2530056",
+        "season_number": "1",
+        "tv_rating": "tv-ma-sv",
+        "description": "Kydd and Felixx learn that the most important tool for a Psi Cop is rope. Tons and tons of rope.",
+        "title_suggest": {
+            "input": [
+                "The Cave - Part 2",
+                "Cave - Part 2",
+                "- Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "published": 1726640911,
+        "title": "The Cave - Part 2",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.6934,
+        "episode_number": "24",
+        "collection_title": "Psi-Cops",
+        "original_air_date": 1727066700,
+        "auth_launch_date": 1727066700,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009172400092554",
+        "media_id": "a318cc52bc72b1cc87e8c7ad6a928391d563fe59",
+        "modified": 1726640911,
+        "slug": "the-cave-part-2",
+        "id": "AZIBLGvSSaru9Cdsy8C2",
+        "auth": true
     }
 ]
