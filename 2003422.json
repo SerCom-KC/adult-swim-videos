@@ -140,52 +140,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1727150340,
-        "tms_id": "",
-        "description": "The Belchers help Teddy find love.",
-        "title_suggest": {
-            "input": [
-                "The Helen Hunt",
-                "Helen Hunt",
-                "Hunt"
-            ]
-        },
-        "title": "The Helen Hunt",
-        "expiration_date": 1717387140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.7238,
-        "episode_number": "12",
-        "original_air_date": "1697504400",
-        "auth_launch_date": 1726545600,
-        "clip_order": null,
-        "airing_id": "RADS1009112400091059",
-        "media_id": "b4c9b6ae5fca6c46f2c0e0d2c94304c061211612",
-        "modified": 1726121648,
-        "slug": "the-helen-hunt",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231106/thumbnails/1_231161641557-Screenshot2023-11-06at4.38.02PM.png",
-        "created": 1697581993,
-        "season_number": "9",
-        "title_id": "2438928",
-        "tv_rating": "",
-        "published": 1726121648,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1716782400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231106/thumbnails/2_231161641557-Screenshot2023-11-06at4.38.02PM.png",
-        "id": "AYs_xY8yn_kciGPPrC_a",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1727236740,
         "tms_id": "",
         "description": "Tina, Louise and Gene save Valentine's Day.",
@@ -610,6 +564,53 @@
         "launch_date": 1718596800,
         "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254213-Screenshot2023-12-04at12.52.48PM.png",
         "id": "AYtzVoRt1E7YmWrdXLkb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1727755140,
+        "tms_id": "",
+        "description": "The kids save Zeke.",
+        "title_suggest": {
+            "input": [
+                "Yes Without My Zeke",
+                "Without My Zeke",
+                "My Zeke",
+                "Zeke"
+            ]
+        },
+        "title": "Yes Without My Zeke",
+        "expiration_date": 1719201540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.924,
+        "episode_number": "22",
+        "original_air_date": "1698714000",
+        "auth_launch_date": 1727150400,
+        "clip_order": null,
+        "airing_id": "RADS1009182400092579",
+        "media_id": "bfdc9d90783843b769d533f71b0112c3cef80e52",
+        "modified": 1726725804,
+        "slug": "yes-without-my-zeke",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/1_231241254344-Screenshot2023-12-04at12.52.13PM.png",
+        "created": 1698447236,
+        "season_number": "9",
+        "title_id": "2438938",
+        "tv_rating": "",
+        "published": 1726725804,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1718596800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254344-Screenshot2023-12-04at12.52.13PM.png",
+        "id": "AYtzWBynn_kciGPPrDJU",
         "auth": true
     }
 ]
