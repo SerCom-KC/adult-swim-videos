@@ -188,52 +188,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1727495940,
-        "tms_id": "",
-        "description": "Gene becomes a plankton activist.",
-        "title_suggest": {
-            "input": [
-                "What About Blob?",
-                "About Blob?",
-                "Blob?"
-            ]
-        },
-        "title": "What About Blob?",
-        "expiration_date": 1718596740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1280.3124,
-        "episode_number": "17",
-        "original_air_date": "1698109200",
-        "auth_launch_date": 1726891200,
-        "clip_order": null,
-        "airing_id": "RADS1009142400091815",
-        "media_id": "f7ea1b5909fca465d5107f1c7ddf55f9425b84a6",
-        "modified": 1726466303,
-        "slug": "what-about-blob",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/1_2311271312285-Screenshot2023-11-27at1.11.52PM.png",
-        "created": 1698446799,
-        "season_number": "9",
-        "title_id": "2438933",
-        "tv_rating": "",
-        "published": 1726466303,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1717992000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_2311271312285-Screenshot2023-11-27at1.11.52PM.png",
-        "id": "AYtzUXLP1E7YmWrdXLkY",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1727668740,
         "tms_id": "",
         "description": "Linda joins the P.T.A.",
@@ -278,59 +232,6 @@
         "launch_date": 1718596800,
         "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254391-Screenshot2023-12-04at12.50.26PM.png",
         "id": "AYtzV7L_1E7YmWrdXLkc",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1727495940,
-        "tms_id": "",
-        "description": "The kids visit a marionette theater.",
-        "title_suggest": {
-            "input": [
-                "If You Love It So Much, Why Don't You Marionette?",
-                "You Love It So Much, Why Don't You Marionette?",
-                "Love It So Much, Why Don't You Marionette?",
-                "It So Much, Why Don't You Marionette?",
-                "So Much, Why Don't You Marionette?",
-                "Much, Why Don't You Marionette?",
-                "Why Don't You Marionette?",
-                "Don't You Marionette?",
-                "You Marionette?",
-                "Marionette?"
-            ]
-        },
-        "title": "If You Love It So Much, Why Don't You Marionette?",
-        "expiration_date": 1718596740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1286.8523,
-        "episode_number": "18",
-        "original_air_date": "1698111000",
-        "auth_launch_date": 1726891200,
-        "clip_order": null,
-        "airing_id": "RADS1009142400091817",
-        "media_id": "776eea1be8c79503bc54cf4899d6d3e27251a3e8",
-        "modified": 1726463907,
-        "slug": "if-you-love-it-so-much-why-dont-you-marionette",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/1_2311271315239-Screenshot2023-11-27at1.14.08PM.png",
-        "created": 1698447052,
-        "season_number": "9",
-        "title_id": "2438934",
-        "tv_rating": "",
-        "published": 1726463907,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1717992000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_2311271315239-Screenshot2023-11-27at1.14.08PM.png",
-        "id": "AYtzVVB41E7YmWrdXLkZ",
         "auth": true
     },
     {
@@ -426,6 +327,53 @@
         "launch_date": 1718596800,
         "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254213-Screenshot2023-12-04at12.52.48PM.png",
         "id": "AYtzVoRt1E7YmWrdXLkb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1728100740,
+        "tms_id": "",
+        "description": "The Belchers cause chaos at the mall.",
+        "title_suggest": {
+            "input": [
+                "Legends of the Mall",
+                "of the Mall",
+                "the Mall",
+                "Mall"
+            ]
+        },
+        "title": "Legends of the Mall",
+        "expiration_date": 1720411140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8572,
+        "episode_number": "5",
+        "original_air_date": "1699320600",
+        "auth_launch_date": 1727496000,
+        "clip_order": null,
+        "airing_id": "RADS1009222400092898",
+        "media_id": "f2c0550d6aceedd743222fc30126ff34fb7c262c",
+        "modified": 1727072252,
+        "slug": "legends-of-the-mall",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231226/thumbnails/1_2312261646358-Screenshot2023-12-26at4.43.02PM.png",
+        "created": 1698447456,
+        "season_number": "10",
+        "title_id": "2438943",
+        "tv_rating": "tv-14-l",
+        "published": 1727072252,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719806400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231226/thumbnails/2_2312261646358-Screenshot2023-12-26at4.43.02PM.png",
+        "id": "AYtzW3pM1E7YmWrdXLkf",
         "auth": true
     },
     {
@@ -615,6 +563,55 @@
         "launch_date": 1719201600,
         "poster": "https://media.cdn.adultswim.com/uploads/20231226/thumbnails/2_2312261646511-Screenshot2023-12-26at4.42.23PM.png",
         "id": "AYtzWo5qn_kciGPPrDJV",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1728100740,
+        "tms_id": "",
+        "description": "The restaurant hosts an exclusive screening.",
+        "title_suggest": {
+            "input": [
+                "The Hawkening: Look Who's Hawking Now!",
+                "Hawkening: Look Who's Hawking Now!",
+                "Look Who's Hawking Now!",
+                "Who's Hawking Now!",
+                "Hawking Now!",
+                "Now!"
+            ]
+        },
+        "title": "The Hawkening: Look Who's Hawking Now!",
+        "expiration_date": 1720411140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1288.7875,
+        "episode_number": "6",
+        "original_air_date": "1699322400",
+        "auth_launch_date": 1727496000,
+        "clip_order": null,
+        "airing_id": "RADS1009222400092896",
+        "media_id": "ece51a93d28025c91db5961a6e8d91b2e2480ba7",
+        "modified": 1727072250,
+        "slug": "the-hawkening-look-whos-hawking-now",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240101/thumbnails/1_24111159591-Screenshot2024-01-01at11.56.26AM.png",
+        "created": 1698863380,
+        "season_number": "10",
+        "title_id": "2438944",
+        "tv_rating": "tv-pg-lv",
+        "published": 1727072250,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719806400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240101/thumbnails/2_24111159591-Screenshot2024-01-01at11.56.26AM.png",
+        "id": "AYuMJfoE1E7YmWrdXLkh",
         "auth": true
     }
 ]
