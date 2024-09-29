@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 29, 2024 at 02:30:14 EDT_
+_Last Update: September 29, 2024 at 04:30:42 EDT_
 ## Video added
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031638
-**Dragon Ball Z Kai S01E27 - A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!**  
-TV-PG-LV 🔓 21:01  
-⌛ November 10, 2024 at 01:59:00 EST  
-https://www.adultswim.com/videos/dragon-ball-z-kai/a-touch-and-go-situation-gohan-protect-the-four-star-ball  
-seriesid=`2031611` titleid=`2031638` id=`54TiuzP6RJi0ZKtS0Kelkg` mediaid=`49a2c942615325e1b389381500dc8ac027e36ef3`  
-_Intimidated by Vegeta's superior strength, Krillin reluctantly surrenders his precious Dragon Ball.  A glimmer of hope remains after Gohan secures a ball of his own - but the young warrior is headed for a beat-down courtesy of Vegeta!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568406975037.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568406975037.jpg" height="144px" /></a>
+2209292 Demon Slayer: 1  
+### 2436443
+**Demon Slayer S03E08 - The Mu in Muichiro**  
+TV-MA-V 🔒 23:04  
+⌛ November 18, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/demon-slayer/the-mu-in-muichiro  
+seriesid=`2209292` titleid=`2436443` id=`AZIGTNI3Saru9Cdsy8Du` mediaid=`7d9edb040e447309b0ef39f31dbc57931e959672`  
+_With Kotetsu's help Muichiro finally manages to escape from Gyokko's Blood Demon Art. As the goldfish demons draw closer, Muichiro's memories are awakened. He remembers his father, a lumberman, his mother, and his twin brother, Yuichiro..._  
+<a href="https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_24918142255-image4.png"><img src="https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_24918142255-image4.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
