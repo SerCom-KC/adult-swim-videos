@@ -98,5 +98,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20190903/thumbnails/2_19931351154-Uzumaki_BTS_Shinto.jpg",
         "id": "AWz4QWktCorLtcgfluHG",
         "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "",
+        "title_suggest": {
+            "input": [
+                "(Sub) Episode 1",
+                "Episode 1",
+                "1"
+            ]
+        },
+        "title": "(Sub) Episode 1",
+        "expiration_date": 1763182740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWz3_3IpCorLtcgfluHA",
+        "duration": 1390.9896,
+        "episode_number": "1",
+        "original_air_date": "1727584200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1009242400093039",
+        "media_id": "8ef056cf87502f0c74bd190a35e1e91359c1f0ce",
+        "modified": 1727187168,
+        "slug": "sub-episode-1",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1726764989,
+        "season_number": "2",
+        "title_id": "2535838",
+        "tv_rating": "tv-ma-v",
+        "published": 1727187168,
+        "tags": [],
+        "collection_title": "Uzumaki",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1727584200,
+        "poster": "",
+        "id": "AZILNr4tg6zBH7G86thZ",
+        "auth": false
     }
 ]
