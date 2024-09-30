@@ -1,105 +1,5 @@
 [
     {
-        "auth_expiration_date": 1727668740,
-        "tms_id": "EP003034830085",
-        "description": "Fry goes undercover working for Wong, but can't tell Leela he is really on her side; Zapp, Kiff, and Bender try to capture the feministas.",
-        "title_suggest": {
-            "input": [
-                "Into the Wild Green Yonder Part 3",
-                "the Wild Green Yonder Part 3",
-                "Wild Green Yonder Part 3",
-                "Green Yonder Part 3",
-                "Yonder Part 3",
-                "Part 3",
-                "3"
-            ]
-        },
-        "title": "Into the Wild Green Yonder Part 3",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1351.9839,
-        "episode_number": "15",
-        "original_air_date": "1645408800",
-        "auth_launch_date": 1727064000,
-        "clip_order": null,
-        "airing_id": "RADS1009172400092547",
-        "media_id": "1d10457afc7973bfdb39f74f2706cf16fbdddbf5",
-        "modified": 1726636414,
-        "slug": "into-the-wild-green-yonder-part-3",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_22217170438-Futurama_615_IntoTheWildGreenYonderPart3.png",
-        "created": 1645115245,
-        "season_number": "6",
-        "title_id": "2161618",
-        "tv_rating": "tv-14-dlv",
-        "published": 1726636414,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_22217170438-Futurama_615_IntoTheWildGreenYonderPart3.png",
-        "id": "AX8IgoJT208s7zyYUMHi",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1727668740,
-        "tms_id": "EP003034830086",
-        "description": "Leela, Amy, and the rest of the Feministas stand trial for attempting to save the rare Violet Star and its precious ecosystem.",
-        "title_suggest": {
-            "input": [
-                "Into the Wild Green Yonder Part 4",
-                "the Wild Green Yonder Part 4",
-                "Wild Green Yonder Part 4",
-                "Green Yonder Part 4",
-                "Yonder Part 4",
-                "Part 4",
-                "4"
-            ]
-        },
-        "title": "Into the Wild Green Yonder Part 4",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1351.8838,
-        "episode_number": "16",
-        "original_air_date": "1645410600",
-        "auth_launch_date": 1727064000,
-        "clip_order": null,
-        "airing_id": "RADS1009172400092549",
-        "media_id": "a3330cddbddc8ae3bdeca59a3201a7247a202df1",
-        "modified": 1726636415,
-        "slug": "into-the-wild-green-yonder-part-4",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_22217171177-Futurama_616_IntoTheWildGreenYonderPart4.png",
-        "created": 1645115252,
-        "season_number": "6",
-        "title_id": "2161619",
-        "tv_rating": "tv-14-dlv",
-        "published": 1726636415,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_22217171177-Futurama_616_IntoTheWildGreenYonderPart4.png",
-        "id": "AX8Igp4h_0O4w1rD3RsW",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1728014340,
         "tms_id": "EP003034830088",
         "description": "After a devastating spaceship crash, the Professor attempts to resuscitate the crew with his birth machine.",
@@ -188,6 +88,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1728273540,
+        "tms_id": "EP003034830091",
+        "description": "The crew races to future-Rome to unearth the shocking secret of Leonardo da Vinci.",
+        "title_suggest": {
+            "input": [
+                "The Duh-Vinci Code",
+                "Duh-Vinci Code",
+                "Code"
+            ]
+        },
+        "title": "The Duh-Vinci Code",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.3843,
+        "episode_number": "5",
+        "original_air_date": "1647219600",
+        "auth_launch_date": 1727668800,
+        "clip_order": null,
+        "airing_id": "RADS1009242400094112",
+        "media_id": "3151c027a6db2cafbf8bc636d274c138909cbb57",
+        "modified": 1727240753,
+        "slug": "the-duh-vinci-code",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/1_223101326290-Futurama_705_TheDuhVinciCode.png",
+        "created": 1646936796,
+        "season_number": "7",
+        "title_id": "2161624",
+        "tv_rating": "tv-14-lv",
+        "published": 1727240753,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/2_223101326290-Futurama_705_TheDuhVinciCode.png",
+        "id": "AX91FS2x208s7zyYUMR0",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1728187140,
         "tms_id": "EP003034830089",
         "description": "The latest trend in social networking and having no life takes over Earth; and Fry posts an embarrassing video of Leela on-line.",
@@ -233,6 +179,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311145473-Futurama_703_AttackOfTheKillerApp.png",
         "id": "AX9GX8hF_0O4w1rD3Rw3",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1728273540,
+        "tms_id": "EP003034830090",
+        "description": "Bender leads a campaign to legalize robosexual marriage between humans and robots.",
+        "title_suggest": {
+            "input": [
+                "Proposition Infinity",
+                "Infinity"
+            ]
+        },
+        "title": "Proposition Infinity",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1358.5573,
+        "episode_number": "4",
+        "original_air_date": "1646620200",
+        "auth_launch_date": 1727668800,
+        "clip_order": null,
+        "airing_id": "RADS1009242400094110",
+        "media_id": "2e4e157fced2a9c7e59827fcbc5cd06ce705f2cf",
+        "modified": 1727242228,
+        "slug": "proposition-infinity",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311146361-Futurama_704_PropositionInfinity.png",
+        "created": 1646153204,
+        "season_number": "7",
+        "title_id": "2161623",
+        "tv_rating": "tv-14-dsv",
+        "published": 1727242228,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311146361-Futurama_704_PropositionInfinity.png",
+        "id": "AX9GYIQj208s7zyYUMOe",
         "auth": true
     }
 ]
