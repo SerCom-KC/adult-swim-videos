@@ -1348,11 +1348,8 @@
         "auth": true
     },
     {
-        "created": 1726257756,
+        "auth_expiration_date": 1761969540,
         "tms_id": "",
-        "title_id": "633912",
-        "season_number": "1",
-        "tv_rating": "tv-14-v",
         "description": "The Grass ninja that attacks Sasuke and Sakura has more power than the two can handle.",
         "title_suggest": {
             "input": [
@@ -1363,22 +1360,27 @@
                 "In!"
             ]
         },
-        "published": 1726441146,
         "title": "Naruto's Counterattack: Never Give In!",
         "type": "episode",
         "expiration_date": 1728079140,
-        "tags": [],
         "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
         "duration": 1282.2144,
         "episode_number": "29",
-        "collection_title": "Naruto",
         "original_air_date": 1145151000,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1009132400091802",
+        "auth_launch_date": 1728079200,
+        "airing_id": "RADS1009302400094977",
         "media_id": "9a18f6858787d739dfe35bc79a0e6cdf40b477a9",
-        "modified": 1726441146,
-        "launch_date": 1726869600,
+        "modified": 1727724365,
         "slug": "narutos-counterattack-never-give-in",
+        "created": 1726257756,
+        "title_id": "633912",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "published": 1727724365,
+        "tags": [],
+        "collection_title": "Naruto",
+        "modified_by": "ODT Listener",
+        "launch_date": 1726869600,
         "id": "AZHs-vsXSaru9Cdsy7_y",
         "auth": false
     },
