@@ -2,98 +2,159 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 1, 2024 at 00:30:13 EDT_
+_Last Update: October 2, 2024 at 00:00:45 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 1  
+581006 American Dad: 2  
 2003422 Bob's Burgers: 1  
-2218883 FLCL: 1  
-2007823 Infomercials: 1  
-343621 Samurai Jack: 1  
+344089 Home Movies: 1  
+629835 King of the Hill: 1  
+2032238 Mike Tyson Mysteries: 1  
+629688 Moral Orel: 1  
 581268 Squidbillies: 1  
-### 2069573
-**American Dad S13E20 - Funnyish Games**  
-TV-14-DLV 🔒 21:03  
-⌛ October 7, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/funnyish-games  
-seriesid=`581006` titleid=`2069573` id=`AWW0uqDNh5enQuYyIFVG` mediaid=`c81520ce79be1171f04e86b25d87dc708fe1e67c`  
-_Francine becomes obsessed with home security after a break in. Steve tries Hayley's laidback approach to school work._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg" height="144px" /></a>
-### 2438948
-**Bob's Burgers S10E10 - Have Yourself a Maily Linda Christmas**  
-TV-PG-L 🔒 21:29  
-⌛ October 7, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/have-yourself-a-maily-linda-christmas  
-seriesid=`2003422` titleid=`2438948` id=`AYxrl8zCn_kciGPPrDye` mediaid=`3038549d5d05ef8e656897a517882e39f3979640`  
-_Linda saves Christmas._  
-<a href="https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_231218115408-Untitled.png"><img src="https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_231218115408-Untitled.png" height="144px" /></a>
-### 2218888
-**FLCL S04E01 - Shinpachi**  
-TV-14-LSV 🔓 24:56  
-⌛ September 27, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/flcl/shinpachi  
-seriesid=`2218883` titleid=`2218888` id=`AYpv9xxi2rZC6NyF61-u` mediaid=`1103c6207b18d8ad82ba317d354b073cd069ce4d`  
-_Shinpachi, the son of a sushi chef, is busy preparing mysterious fish for the local customers. Haruko disguised as a hostess, visits the restaurant with the mayor, followed by a Medical Mechanica robot who threatens to destroy the planet._  
-<a href="https://media.cdn.adultswim.com/uploads/20230911/thumbnails/2_23911108468-FLCLGRUNGE401Shinpachi.png"><img src="https://media.cdn.adultswim.com/uploads/20230911/thumbnails/2_23911108468-FLCLGRUNGE401Shinpachi.png" height="144px" /></a>
-### 2134720
-**Infomercials S07E05 - Final Deployment 4: Queen Battle Walkthrough**  
-TV-MA-LSV 🔓 21:23  
-⌛ October 28, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/final-deployment-4-queen-battle-walkthrough  
-seriesid=`2007823` titleid=`2134720` id=`AWQoVp-mqBveI_0AhKp8` mediaid=`0aed428ccc08bd92ad56e818ed5de34a6607fc92`  
-_Tips and tricks on how to beat the alien queen boss battle in Final Deployment 4 (Multi-platform) as well as the "Homecoming" DLC._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968515622113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152968515622113.jpg" height="144px" /></a>
-### 434840
-**Samurai Jack S03E09 - XXXV**  
-TV-Y7-FV 🔒 21:51  
-⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xxxv  
-seriesid=`343621` titleid=`434840` id=`4_uOw5nvSJSPT5cz0S4ECQ` mediaid=`f56be55eef22cb8f088927860a95296bc0b8d8f2`  
-_When Jack enters a spooky, old mansion and gets locked inside, he catches sight of a figure and sets after it to find out what is going on. As Jack is led further and further in, he discovers that the house and its inhabitants have an evil plan that involves…him._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471416209-samjack_035.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471416209-samjack_035.jpg" height="144px" /></a>
-### 2006881
-**Squidbillies S08E01 - Granite Caverns**  
-TV-MA 🔓 11:07  
-⌛ August 22, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/granite-caverns  
-seriesid=`581268` titleid=`2006881` id=`bg7xJat4SbWJbYuO2oDVfw` mediaid=`498f04fe066d2f30662e389266bdf714cbf5c985`  
-_Early becomes king of a local cave._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141057287-squidbillies_701_dup-20130808.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141057287-squidbillies_701_dup-20130808.jpg" height="144px" /></a>
-## Video removed
-### Summary
-2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-581006 American Dad: 1  
-581268 Squidbillies: 1  
-### 2438938
-**Bob's Burgers S09E22 - Yes Without My Zeke**  
- 🔓 21:31  
-⌛ September 30, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/yes-without-my-zeke  
-seriesid=`2003422` titleid=`2438938` id=`AYtzWBynn_kciGPPrDJU` mediaid=`bfdc9d90783843b769d533f71b0112c3cef80e52`  
-_The kids save Zeke._  
-<a href="https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254344-Screenshot2023-12-04at12.52.13PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254344-Screenshot2023-12-04at12.52.13PM.png" height="144px" /></a>
-### 2086419
-**Infomercials S06E03 - Giles Vanderhoot**  
-TV-14-L 🔓 10:51  
-⌛ September 30, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/giles-vanderhoot  
-seriesid=`2007823` titleid=`2086419` id=`AV-3K6YjwdpKFAKSbWbA` mediaid=`df4c146fbbefd9fd346bb414506997591efef05b`  
-_No one is better at portraying rehabilitationamalist Giles Vanderhoot than Vanderhoot himself._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150980632941.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150980632941.jpg" height="144px" /></a>
-### 2069561
-**American Dad S13E08 - Santa, Schmanta**  
-TV-14-DLV 🔓 21:03  
-⌛ September 30, 2024 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/santa-schmanta  
-seriesid=`581006` titleid=`2069561` id=`AWBGBvYswdpKFAKSb0FM` mediaid=`4ab29c31a6c093f94ab45f4793be6ce2985072d8`  
-_Roger turns his attention to Steve's friend Snot who teaches him about Hanukkah, prompting him to convert to Judaism. Roger then decides to make Hanukkah more popular than Christmas by stealing Santa's powers, and becoming Schmanta Claus._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200072089515.jpg" height="144px" /></a>
+340531 The Brak Show: 1  
+### 2069574
+**American Dad S13E21 - Fleabiscuit**  
+TV-14-DLSV 🔒 21:03  
+⌛ October 8, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/fleabiscuit  
+seriesid=`581006` titleid=`2069574` id=`AWW1ThNNh5enQuYyIFlW` mediaid=`c5d34624f38a11eeefa5b0cf1657725cca48fe85`  
+_Hayley feels left behind after Jeff becomes a star dog racing coach. Steve takes advantage of an empty house._  
+<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg" height="144px" /></a>
+### 2069575
+**American Dad S13E22 - The Future Is Borax**  
+TV-14-DLSV 🔒 21:03  
+⌛ October 8, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-future-is-borax  
+seriesid=`581006` titleid=`2069575` id=`AWqX3a3lCorLtcgflqRB` mediaid=`6e26c8daf7d49d29a673bfd4352ec91a7b6429b4`  
+_While trying to rekindle their marriage, Stan and Francine get trapped on a hot air balloon. The rest of the family wins a jingle writing contest._  
+<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg" height="144px" /></a>
+### 2438949
+**Bob's Burgers S10E11 - Drumforgiven**  
+TV-PG-L 🔒 21:31  
+⌛ October 8, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/drumforgiven  
+seriesid=`2003422` titleid=`2438949` id=`AYzNU9w31E7YmWrdXLlY` mediaid=`49e27cadd973017edd44fb43a674d3afc93740fa`  
+_Louise stands up for Gene._  
+<a href="https://media.cdn.adultswim.com/uploads/20240108/thumbnails/2_24181250175-Screenshot2024-01-08at12.49.49PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240108/thumbnails/2_24181250175-Screenshot2024-01-08at12.49.49PM.png" height="144px" /></a>
+### 344122
+**Home Movies S01E06 - Director's Cut**  
+TV-PG-L 🔓 22:21  
+⌛ November 5, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/home-movies/directors-cut  
+seriesid=`344089` titleid=`344122` id=`OfK-VB9CTq2RIfFA8ruA7w` mediaid=`c54e2550f9e8b0f309382a3f7b6099db3cd914c1`  
+_Duane has written a rock opera based on Franz Kafka's "Metamorphosis," and he wants Brendon to direct. But the collaboration has a few bugs._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035163267-hmovies_006.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035163267-hmovies_006.jpg" height="144px" /></a>
+### 731351
+**King of the Hill S06E03 - Lupe's Revenge**  
+TV-PG-DLV 🔒 24:28  
+⌛ October 8, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/lupes-revenge  
+seriesid=`629835` titleid=`731351` id=`1u9Q4JOdT1CbgnX4TWceTg` mediaid=`96a3131758d8da7b2f90d423e4a56907c87965f3`  
+_Peggy, wrongly convinced she speaks fluent Spanish, takes Bobby's class on a field trip to Mexico, and accidentally kidnaps a Mexican girl.  A saucy policewoman has the hots for Hank._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198460015387.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198460015387.jpg" height="144px" /></a>
+### 2117702
+**Mike Tyson Mysteries S03E19 - Real Bitches of Newport Beach**  
+TV-14-DL 🔓 10:52  
+⌛ November 5, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/mike-tyson-mysteries/real-bitches-of-newport-beach  
+seriesid=`2032238` titleid=`2117702` id=`KYwb9l5mQc2FnQWWcm9uzQ` mediaid=`2cb5a0f5df12f29196e8cf47245bed1e682a5f1e`  
+_A show about authentic wives who live in a wealthy community._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111537419-miketysonmysteries_319_dup-20170821.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111537419-miketysonmysteries_319_dup-20170821.jpg" height="144px" /></a>
+### 653307
+**Moral Orel S02E15 - Courtship**  
+TV-MA 🔓 11:33  
+⌛ November 5, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/moral-orel/courtship  
+seriesid=`629688` titleid=`653307` id=`Fku-cbeZSveGOuLB1TN1wg` mediaid=`660f9e8c76d4278a1ebe0bcc4f32531ca394ec5b`  
+_Orel learns a valuable lesson about man/woman relations when Doughy becomes involved with the teacher._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311162164-moralorel_027.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311162164-moralorel_027.jpg" height="144px" /></a>
 ### 718762
 **Squidbillies S03E17 - The Okaleechee Dam Jam**  
 TV-MA 🔓 11:45  
-⌛ September 30, 2024 at 23:59:00 EDT  
+⌛ August 1, 2025 at 23:59:00 EDT  
 https://www.adultswim.com/videos/squidbillies/the-okaleechee-dam-jam  
 seriesid=`581268` titleid=`718762` id=`PPYlQVWgThyqBgzUCLrD3w` mediaid=`a1928e5eecbb654c19bb22dcc79c15fce77513b2`  
 _Drought is a disease. David Allan Coe is the cure._  
 <a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131156462-squidbillies_037_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131156462-squidbillies_037_bim.jpg" height="144px" /></a>
+### 434933
+**The Brak Show S02E08 - The Runaway**  
+TV-PG 🔓 11:40  
+⌛ November 5, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-brak-show/the-runaway  
+seriesid=`340531` titleid=`434933` id=`RKn6u4Z1RIegXWO_yTE7tg` mediaid=`da789940515cd8a5efa906b4cb4f7dd5958f69cf`  
+_Space Ghost travels back in time to arrest Brak for crimes committed in the future._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321429404-brak_2208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321429404-brak_2208.jpg" height="144px" /></a>
+## Video removed
+### Summary
+2003422 Bob's Burgers: 1  
+2032238 Mike Tyson Mysteries: 1  
+322328 Space Ghost Coast to Coast: 1  
+344089 Home Movies: 1  
+581006 American Dad: 2  
+629688 Moral Orel: 1  
+629835 King of the Hill: 1  
+### 2438939
+**Bob's Burgers S10E01 - The Ring (But Not Scary)**  
+TV-14-L 🔒 21:27  
+⌛ October 1, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-ring-but-not-scary  
+seriesid=`2003422` titleid=`2438939` id=`AYtzWLyu1E7YmWrdXLkd` mediaid=`1781aa04cd1e75be0e82372a8e0e3f171d4c1b06`  
+_An anniversary surprise doesn't go as planned._  
+<a href="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_231211135346-Screenshot2023-12-11at1.50.28PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_231211135346-Screenshot2023-12-11at1.50.28PM.png" height="144px" /></a>
+### 2117687
+**Mike Tyson Mysteries S03E04 - All About That Bass**  
+TV-14 🔒 11:17  
+⌛ October 1, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/mike-tyson-mysteries/all-about-that-bass  
+seriesid=`2032238` titleid=`2117687` id=`-6mMhyzzTcyLcObDwkPJCg` mediaid=`7d0279fc2fb9c6fd45d8d36dbc9e8d947f4b65d4`  
+_Professional Bass Fishing Tournaments are a real thing._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311153296-miketysonmysteries_304.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311153296-miketysonmysteries_304.jpg" height="144px" /></a>
+### 322644
+**Space Ghost Coast to Coast S03E07 - Freak Show**  
+TV-PG 🔓 13:32  
+⌛ October 1, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/freak-show  
+seriesid=`322328` titleid=`322644` id=`HNCUe7ZySQeCx-5aau_nOg` mediaid=`54c6eb980691dd3f11ccc6a7e1d6c2c96507059b`  
+_Marshall "Duh" Staxx of the musical group Green Jelly and yodeller Wylie Gustafson are the freaks du jour in this aptly named episode. The show also features a video pirate who identifies himself only as "Commander Andy of the Cosmos."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417957275-sgc2c_9607_dst_cid-9105380.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417957275-sgc2c_9607_dst_cid-9105380.jpg" height="144px" /></a>
+### 449706
+**Home Movies S04E07 - Those Bitches Tried to Cheat Me**  
+TV-PG-L 🔒 22:35  
+⌛ October 1, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/those-bitches-tried-to-cheat-me  
+seriesid=`344089` titleid=`449706` id=`wipg2C4mRzCgZ-6K-wfgWw` mediaid=`08dc6c63e1258571737fef2476b4ff90b7c89e1c`  
+_Jason falls for a fifth grader, but he can't get beyond that awkward, initial "stalking" phase.  He asks Brendon for help, but Brendon has bigger problems: after cheating on a test, he's being blackmailed by Jr. Adelberg, Walter and Perry.  Melissa, feeling left out, helps Coach McGuirk cheat in traffic school._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351627265-hmovies_046.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351627265-hmovies_046.jpg" height="144px" /></a>
+### 2069562
+**American Dad S13E09 - The Never-Ending Stories**  
+TV-14-DLSV 🔒 21:01  
+⌛ October 1, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-never-ending-stories  
+seriesid=`581006` titleid=`2069562` id=`AWHnqXR3NWyh42wYnlIV` mediaid=`ee8ef6617f600da1cc9e9b5d8636851208092da5`  
+_Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200100941721.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200100941721.jpg" height="144px" /></a>
+### 2069563
+**American Dad S13E10 - Railroaded**  
+TV-14-DLSV 🔒 21:03  
+⌛ October 1, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/railroaded  
+seriesid=`581006` titleid=`2069563` id=`AWHnqcjk0KIGIdXCKzww` mediaid=`4e65b0171dc68ea80abb0257d5eefef5cfc42d93`  
+_Stan gets in over his head when he runs for mayor._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200101162688.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200101162688.jpg" height="144px" /></a>
+### 653300
+**Moral Orel S02E05 - Offensiveness**  
+TV-MA 🔒 11:42  
+⌛ October 1, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/moral-orel/offensiveness  
+seriesid=`629688` titleid=`653300` id=`9psh7ZYQQ6Om5WDEMjChyQ` mediaid=`5b468139ce1e082c7a1eb7890039cfaddc84014f`  
+_Miss Censordoll, Moralton's intolerant librarian, takes Orel under her wing as her apprentice and teaches him how to be offended._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155801-moralorel_020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155801-moralorel_020.jpg" height="144px" /></a>
+### 731347
+**King of the Hill S05E19 - Hank's Back Story**  
+TV-14-DLS 🔒 23:17  
+⌛ October 1, 2024 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/hanks-back-story  
+seriesid=`629835` titleid=`731347` id=`pemmvphuRJ-mVUBxMrjhQA` mediaid=`6724d89762b9d9ec5f0457beb345dfecb87b250b`  
+_Hank, Dale, Bill and Boomhauer enter the Durndle County Lawn Mower Races, but Hank is almost sidelined by debilitating back pain that is diagnosed as the result of the genetic condition of not having a rear end._  
+<a href="https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271551228-KingOfTheHill_517_HanksBackStory.png"><img src="https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271551228-KingOfTheHill_517_HanksBackStory.png" height="144px" /></a>
