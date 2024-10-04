@@ -105,6 +105,52 @@
         "description": "",
         "title_suggest": {
             "input": [
+                "(Dub) Episode 1",
+                "Episode 1",
+                "1"
+            ]
+        },
+        "title": "(Dub) Episode 1",
+        "expiration_date": 1763182740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWz3_3IpCorLtcgfluHA",
+        "duration": 1396.4283,
+        "episode_number": "1",
+        "original_air_date": "1728016200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1009302400094875",
+        "media_id": "01345e01fa4907021b441e695854ffb800ed7df4",
+        "modified": 1727750494,
+        "slug": "dub-episode-1",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240929/thumbnails/1_249291234465-Screenshot2024-09-29at12.33.25PM.png",
+        "created": 1726764858,
+        "season_number": "1",
+        "title_id": "2193533",
+        "tv_rating": "tv-ma-v",
+        "published": 1727750494,
+        "tags": [],
+        "collection_title": "Uzumaki",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1728016200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240929/thumbnails/2_249291234465-Screenshot2024-09-29at12.33.25PM.png",
+        "id": "AZILNLvkSaru9Cdsy8Eu",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "",
+        "title_suggest": {
+            "input": [
                 "(Sub) Episode 1",
                 "Episode 1",
                 "1"
