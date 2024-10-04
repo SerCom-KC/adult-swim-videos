@@ -1382,7 +1382,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1726869600,
         "id": "AZHs-vsXSaru9Cdsy7_y",
-        "auth": false
+        "auth": true
     },
     {
         "created": 1726850198,
@@ -1417,6 +1417,43 @@
         "launch_date": 1727474400,
         "slug": "the-sharingan-revived-dragon-flame-jutsu",
         "id": "AZIQSussSaru9Cdsy8Fs",
+        "auth": false
+    },
+    {
+        "created": 1727724340,
+        "tms_id": "",
+        "title_id": "633914",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "description": "After receiving the report from her staff, Anko senses that Orochimaru has snuck into the examination.",
+        "title_suggest": {
+            "input": [
+                "Bushy Brow's Pledge: Undying Love and Protection!",
+                "Brow's Pledge: Undying Love and Protection!",
+                "Pledge: Undying Love and Protection!",
+                "Undying Love and Protection!",
+                "Love and Protection!",
+                "and Protection!",
+                "Protection!"
+            ]
+        },
+        "published": 1727749594,
+        "title": "Bushy Brow's Pledge: Undying Love and Protection!",
+        "type": "episode",
+        "expiration_date": 1729288740,
+        "tags": [],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1272.1375,
+        "episode_number": "31",
+        "collection_title": "Naruto",
+        "original_air_date": 1146358800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009302400094975",
+        "media_id": "02eb6b4c520c72af5caac9403ce6f89c0f02fa11",
+        "modified": 1727749594,
+        "launch_date": 1728079200,
+        "slug": "bushy-brows-pledge-undying-love-and-protection",
+        "id": "AZJEZUWjdoSfoMZMd5MG",
         "auth": false
     }
 ]
