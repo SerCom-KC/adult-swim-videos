@@ -1,53 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1728014340,
-        "tms_id": "",
-        "description": "After her family accuses her of being a quitter, Francine becomes a bodybuilder. Klaus claims to have invented the high five.",
-        "title_suggest": {
-            "input": [
-                "One-Woman Swole",
-                "Swole"
-            ]
-        },
-        "expiration_date": 1726459140,
-        "type": "episode",
-        "title": "One-Woman Swole",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1273.33,
-        "episode_number": "14",
-        "original_air_date": 1550458800,
-        "auth_launch_date": 1727409600,
-        "clip_order": null,
-        "media_id": "9c370cdb6f87dad064899b75c01cbcd11c84b6e0",
-        "modified": 1726991561,
-        "airing_id": "RADS1009202400092818",
-        "slug": "one-woman-swole",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15501614167832.jpg",
-        "created": 1533144146,
-        "season_number": "13",
-        "title_id": "2069567",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1726991561,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1725854400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg",
-        "id": "AWT2gyOXTdxzjxdCnOX6",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1728100740,
         "tms_id": "",
         "description": "In American Dad's 250th episode, Roger has a medical emergency and Stan has to take over his personas.",
@@ -434,54 +387,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1728014340,
-        "tms_id": "EP007164450261",
-        "description": "Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat.",
-        "title_suggest": {
-            "input": [
-                "Mean Francine",
-                "Francine"
-            ]
-        },
-        "title": "Mean Francine",
-        "type": "episode",
-        "expiration_date": 1726459140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.2954,
-        "episode_number": "13",
-        "original_air_date": 1526866200,
-        "auth_launch_date": 1727409600,
-        "clip_order": null,
-        "airing_id": "RADS1009202400092816",
-        "media_id": "1be2e6cab939c9cadb8a0eeaaae7dc84e7a83f99",
-        "modified": 1726986139,
-        "slug": "mean-francine",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/1_207171727483-americandad_1213_air_cid-3G163.jpg",
-        "created": 1558107612,
-        "title_id": "2069566",
-        "season_number": "13",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1726986139,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1725854400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg",
-        "id": "AWrGc2RCCorLtcgflqgM",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1728532740,
         "tms_id": "EP007164450381",
         "description": "Worried that he's not smart enough for Hayley, Jeff undergoes an experimental intelligence enhancement procedure at the CIA. Roger recruits Steve to help him harvest snake venom.",
@@ -569,6 +474,98 @@
         "launch_date": 1719806400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_2216163174-AmericanDad_1502_RussianDoll.png",
         "id": "AX4xTZlk_0O4w1rD3RQj",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1728619140,
+        "tms_id": "EP007164450383",
+        "description": "Stan moves to Chicago to become a comic while Steve and Hayley host Roger for a nice night in.",
+        "title_suggest": {
+            "input": [
+                "Stan Moves to Chicago",
+                "Moves to Chicago",
+                "to Chicago",
+                "Chicago"
+            ]
+        },
+        "title": "Stan Moves to Chicago",
+        "expiration_date": 1720411140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0951,
+        "episode_number": "3",
+        "original_air_date": "1620610200",
+        "auth_launch_date": 1728014400,
+        "clip_order": null,
+        "airing_id": "RADS1009272400094815",
+        "media_id": "c600f1c3275de58d70f3b1fa888e67ca77704610",
+        "modified": 1727588140,
+        "slug": "stan-moves-to-chicago",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161631554-AmericanDad_1503_StanMovesToChicago.png",
+        "created": 1641504728,
+        "season_number": "16",
+        "title_id": "2238750",
+        "tv_rating": "tv-14-dlv",
+        "published": 1727588140,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719806400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161631554-AmericanDad_1503_StanMovesToChicago.png",
+        "id": "AX4xTmV0208s7zyYUL9Z",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1728619140,
+        "tms_id": "EP007164450385",
+        "description": "Steve and Jeff try to bond as brothers while the rest of the family visits an escape room.",
+        "title_suggest": {
+            "input": [
+                "Shakedown Steve",
+                "Steve"
+            ]
+        },
+        "title": "Shakedown Steve",
+        "expiration_date": 1720411140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.895,
+        "episode_number": "4",
+        "original_air_date": "1621215000",
+        "auth_launch_date": 1728014400,
+        "clip_order": null,
+        "airing_id": "RADS1009272400094817",
+        "media_id": "7583f1d4ea9684f8c6270cf539df89b9d2ccfe97",
+        "modified": 1727588715,
+        "slug": "shakedown-steve",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161632446-AmericanDad_1504_ShakedownSteve.png",
+        "created": 1641504775,
+        "season_number": "16",
+        "title_id": "2238751",
+        "tv_rating": "tv-14-dls",
+        "published": 1727588715,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1719806400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161632446-AmericanDad_1504_ShakedownSteve.png",
+        "id": "AX4xTxwZ_0O4w1rD3RQl",
         "auth": true
     },
     {
