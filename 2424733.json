@@ -511,51 +511,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1728014340,
-        "tms_id": "",
-        "description": "Jerry does something bad, or maybe it's good? So now the Yakuza are after the Smiths.",
-        "title_suggest": {
-            "input": [
-                "(Dub) Family",
-                "Family"
-            ]
-        },
-        "title": "(Dub) Family",
-        "type": "episode",
-        "expiration_date": 1730433540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZEi8QisSaru9Cdsy7fP",
-        "duration": 1284.5499,
-        "episode_number": "5",
-        "original_air_date": 1726200000,
-        "auth_launch_date": 1726200000,
-        "clip_order": null,
-        "airing_id": "RADS1009272400094813",
-        "media_id": "9562f7c4fcfaf70c2b76e555d4d25e7dad0dfe99",
-        "modified": 1727724676,
-        "slug": "dub-family",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/1_249181038230-AS_RAMTheAnime_105_Family-9.jpg",
-        "created": 1725639303,
-        "title_id": "2424738",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1727724676,
-        "tags": [],
-        "collection_title": "Rick And Morty: The Anime",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": 1728100800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181038230-AS_RAMTheAnime_105_Family-9.jpg",
-        "id": "AZHIHiGxSaru9Cdsy75_",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1728619140,
         "tms_id": "",
         "description": "Morty and Elle are reunited. But what are Space Beth and Rick hiding...",
@@ -649,6 +604,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181040258-AS_RAMTheAnime_107_WhenWeMeetInOurDreams-3.jpg",
         "id": "AZIFk9j8Saru9Cdsy8DZ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1729828740,
+        "tms_id": "",
+        "description": "As the Smith family prepares for a fight, Rick reveals a hidden truth to Morty.",
+        "title_suggest": {
+            "input": [
+                "(Dub) Feel, Don't Think",
+                "Feel, Don't Think",
+                "Don't Think",
+                "Think"
+            ]
+        },
+        "title": "(Dub) Feel, Don't Think",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZEi8QisSaru9Cdsy7fP",
+        "duration": 1210.3425,
+        "episode_number": "8",
+        "original_air_date": "1728014400",
+        "auth_launch_date": 1728014400,
+        "clip_order": null,
+        "airing_id": "RADS1009272400094810",
+        "media_id": "d3a6cbd0d3fc3beb53fe18ea5f2e84f4f9141acf",
+        "modified": 1727589355,
+        "slug": "dub-feel-dont-think",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/1_249181041204-AS_RAMTheAnime_108_FeelDontThink-5.jpg",
+        "created": 1726670492,
+        "season_number": "1",
+        "title_id": "2424741",
+        "tv_rating": "tv-14-dlv",
+        "published": 1727589355,
+        "tags": [],
+        "collection_title": "Rick And Morty: The Anime",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181041204-AS_RAMTheAnime_108_FeelDontThink-5.jpg",
+        "id": "AZIFlNRrg6zBH7G86thX",
         "auth": true
     }
 ]
