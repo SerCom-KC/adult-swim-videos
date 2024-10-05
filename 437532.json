@@ -1,14 +1,18 @@
 [
     {
-        "auth_expiration_date": 1728100740,
-        "tms_id": "EP003034830087",
-        "description": "Leela and Zapp Brannigan find themselves stranded on an Eden-like planet.",
+        "auth_expiration_date": 1728705540,
+        "tms_id": "EP003034830093",
+        "description": "The Professor invents a one-way time machine that takes the crew ever further into the future with no hope of returning.",
         "title_suggest": {
             "input": [
-                "In-A-Gadda-Da-Leela"
+                "The Late Philip J. Fry",
+                "Late Philip J. Fry",
+                "Philip J. Fry",
+                "J. Fry",
+                "Fry"
             ]
         },
-        "title": "In-A-Gadda-Da-Leela",
+        "title": "The Late Philip J. Fry",
         "expiration_date": null,
         "type": "episode",
         "platforms": [
@@ -18,29 +22,29 @@
             "fire-tv"
         ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.5815,
-        "episode_number": "2",
-        "original_air_date": "1646015400",
-        "auth_launch_date": 1727496000,
+        "duration": 1367.2993,
+        "episode_number": "7",
+        "original_air_date": "1647824400",
+        "auth_launch_date": 1728100800,
         "clip_order": null,
-        "airing_id": "RADS1009232400092906",
-        "media_id": "5e896058be1e98682cc3b6a5d90d02643084db2b",
-        "modified": 1727072251,
-        "slug": "in-a-gadda-da-leela",
+        "airing_id": "RADS1009302400094984",
+        "media_id": "4a1938e720f0340d47690e36781ffbdd47e9b144",
+        "modified": 1727745109,
+        "slug": "the-late-philip-j-fry",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223943455-Futurama_702_InAGaddaDaLeela.png",
-        "created": 1645115266,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171421184-Futurama_707_TheLatePhillipJFry.png",
+        "created": 1647541286,
         "season_number": "7",
-        "title_id": "2161621",
-        "tv_rating": "",
-        "published": 1727072251,
+        "title_id": "2161626",
+        "tv_rating": "tv-14-dlv",
+        "published": 1727745109,
         "tags": [],
         "collection_title": "Futurama",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943455-Futurama_702_InAGaddaDaLeela.png",
-        "id": "AX8IgtUf208s7zyYUMHk",
+        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421184-Futurama_707_TheLatePhillipJFry.png",
+        "id": "AX-ZHPge_0O4w1rD3R2F",
         "auth": true
     },
     {
