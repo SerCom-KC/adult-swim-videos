@@ -340,7 +340,7 @@
         "launch_date": 1725163200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367162352-TheEricAndreShow604Still002tiny.png",
         "id": "AYiXdHw2Oz5CkuTcnvu3",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1717905540,
@@ -522,6 +522,52 @@
         "launch_date": 1727582400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375155340-EAOldYeller.png",
         "id": "AYjZOaps2rZC6NyF6194",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1720324740,
+        "tms_id": "EP015632430072",
+        "description": "Eric welcomes Lil Yachty. Rico Nasty slaps around an iconic character. A school bus crashes and a President's son is the lone suspect.",
+        "title_suggest": {
+            "input": [
+                "Krft Punk Returns",
+                "Punk Returns",
+                "Returns"
+            ]
+        },
+        "title": "Krft Punk Returns",
+        "type": "episode",
+        "expiration_date": 1731214740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 670.5365,
+        "episode_number": "9",
+        "original_air_date": 1688356800,
+        "auth_launch_date": 1717300800,
+        "clip_order": null,
+        "airing_id": "RADS1009302400095159",
+        "media_id": "ed8305e1074132d0f5407d4fe2d73153392f1875",
+        "modified": 1727759253,
+        "slug": "krft-punk-returns",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/1_2375112508-EAKrftPunkReturns.png",
+        "created": 1688139493,
+        "title_id": "2418689",
+        "season_number": "6",
+        "tv_rating": "tv-ma-l",
+        "published": 1727759253,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1728187200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375112508-EAKrftPunkReturns.png",
+        "id": "AYkM9G6k2rZC6NyF6197",
         "auth": false
     },
     {
@@ -875,59 +921,6 @@
         "launch_date": 1598414427,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-ana-montana/ericandre_HGOI_102_AnaMontana.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1471091460,
-        "auth_expiration_date": 1728187140,
-        "tms_id": "EP015632430033",
-        "description": "Interviews with Stacey Dash and Jack McBrayer; Musical guest A$AP Rocky, Danny Brown, Go Dreamer.",
-        "title_suggest": {
-            "input": [
-                "Stacey Dash; Jack McBrayer",
-                "Dash; Jack McBrayer",
-                "Jack McBrayer",
-                "McBrayer"
-            ]
-        },
-        "title": "Stacey Dash; Jack McBrayer",
-        "type": "episode",
-        "expiration_date": 1725163140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 679.73,
-        "episode_number": "2",
-        "original_air_date": 1471060800,
-        "clip_order": null,
-        "auth_launch_date": 1725163200,
-        "modified": 1724734425,
-        "media_id": "fe468f23ff9ccd05d062a8a3e763efebd3bf2e2f",
-        "airing_id": "RADS1007222400081977",
-        "id": "wjd9pAoaS2WR7cFtE_AroQ",
-        "slug": "stacey-dash-jack-mc-brayer",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161942-ericandre_402_dup-20160419.jpg",
-        "created": 1470726638,
-        "title_id": "2088418",
-        "tv_rating": "tv-ma-lsv",
-        "season_number": "4",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1724734425,
-        "first_published": 1470726638,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1722139200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161942-ericandre_402_dup-20160419.jpg",
-        "cma_id": "1369025"
     },
     {
         "auth": false,
