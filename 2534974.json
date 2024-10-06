@@ -190,5 +190,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20240929/thumbnails/2_24929123528-Screenshot2024-09-29at12.33.25PM.png",
         "id": "AZILNr4tg6zBH7G86thZ",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1730003340,
+        "tms_id": "",
+        "description": "",
+        "title_suggest": {
+            "input": [
+                "(Sub) Episode 2",
+                "Episode 2",
+                "2"
+            ]
+        },
+        "title": "(Sub) Episode 2",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWz3_3IpCorLtcgfluHA",
+        "duration": 1670.1017,
+        "episode_number": "2",
+        "original_air_date": "1728189000",
+        "auth_launch_date": 1728189000,
+        "clip_order": null,
+        "airing_id": "RADS1009302400095163",
+        "media_id": "4f5966f7bc3a75e6b9b3b8fa0ee5818f019abcec",
+        "modified": 1727761945,
+        "slug": "sub-episode-2",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1726764998,
+        "season_number": "2",
+        "title_id": "2535839",
+        "tv_rating": "",
+        "published": 1727761945,
+        "tags": [],
+        "collection_title": "Uzumaki",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "",
+        "id": "AZILNuFNSaru9Cdsy8Ex",
+        "auth": true
     }
 ]
