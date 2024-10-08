@@ -185,6 +185,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1728187140,
+        "tms_id": "",
+        "description": "Jerry does something bad, or maybe it's good? So now the Yakuza are after the Smiths.",
+        "title_suggest": {
+            "input": [
+                "(Sub) Family",
+                "Family"
+            ]
+        },
+        "title": "(Sub) Family",
+        "expiration_date": 1730606340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZEi8QisSaru9Cdsy7fP",
+        "duration": 1284.5499,
+        "episode_number": "5",
+        "original_air_date": "1726372800",
+        "auth_launch_date": 1726372800,
+        "clip_order": null,
+        "airing_id": "RADS1010072400096780",
+        "media_id": "e624595c16e10158eee39622708f6e6a2d6f4723",
+        "modified": 1728314669,
+        "slug": "sub-family",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/1_249181038122-AS_RAMTheAnime_105_Family-9.jpg",
+        "created": 1723472804,
+        "season_number": "2",
+        "title_id": "2507905",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1728314669,
+        "tags": [],
+        "collection_title": "Rick And Morty: The Anime",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1728360000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181038122-AS_RAMTheAnime_105_Family-9.jpg",
+        "id": "AZFG-_jyg6zBH7G86thB",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1728791940,
         "tms_id": "",
         "description": "Morty and Elle are reunited. But what are Space Beth and Rick hiding...",
