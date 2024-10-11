@@ -146,6 +146,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1730435340,
+        "tms_id": "",
+        "description": "",
+        "title_suggest": {
+            "input": [
+                "(Dub) Episode 2",
+                "Episode 2",
+                "2"
+            ]
+        },
+        "title": "(Dub) Episode 2",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWz3_3IpCorLtcgfluHA",
+        "duration": 1674.7064,
+        "episode_number": "2",
+        "original_air_date": "1728621000",
+        "auth_launch_date": 1728621000,
+        "clip_order": null,
+        "airing_id": "RADS1010072400096862",
+        "media_id": "b4e85c79c9775072b1fc411027e68e1de36fe935",
+        "modified": 1728574130,
+        "slug": "dub-episode-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241007/thumbnails/1_24107132216-image3.png",
+        "created": 1726764867,
+        "season_number": "1",
+        "title_id": "2193534",
+        "tv_rating": "tv-ma-v",
+        "published": 1728574130,
+        "tags": [],
+        "collection_title": "Uzumaki",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241007/thumbnails/2_24107132216-image3.png",
+        "id": "AZILNOFCSaru9Cdsy8Ev",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "",
