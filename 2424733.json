@@ -464,7 +464,7 @@
         "launch_date": 1726286400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_2482614707-AS_RAMTheAnime_102_FightingMother-1.jpg",
         "id": "AZFq3VBpSaru9Cdsy7qM",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1726804740,
@@ -646,7 +646,7 @@
         "launch_date": 1728619200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181039209-AS_RAMTheAnime_106_FreeWill-5.jpg",
         "id": "AZHs05F6g6zBH7G86thT",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1729223940,
@@ -743,53 +743,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181041204-AS_RAMTheAnime_108_FeelDontThink-5.jpg",
         "id": "AZIFlNRrg6zBH7G86thX",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1730433540,
-        "tms_id": "",
-        "description": "The Smith family battles the Federation. Elle vows to protect Morty, but what about Rick?",
-        "title_suggest": {
-            "input": [
-                "(Dub) Her Innermost Wish",
-                "Her Innermost Wish",
-                "Innermost Wish",
-                "Wish"
-            ]
-        },
-        "title": "(Dub) Her Innermost Wish",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZEi8QisSaru9Cdsy7fP",
-        "duration": 1293.4587,
-        "episode_number": "9",
-        "original_air_date": "1728619200",
-        "auth_launch_date": 1728619200,
-        "clip_order": null,
-        "airing_id": "RADS1010052400096730",
-        "media_id": "c65338846379e0e351468c0993e36f1b6af4d2cc",
-        "modified": 1728600921,
-        "slug": "dub-her-innermost-wish",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241004/thumbnails/1_24104115266-AS_RAMTheAnime_109_HerInnermostWish-5.jpg",
-        "created": 1728054329,
-        "season_number": "1",
-        "title_id": "2424742",
-        "tv_rating": "tv-14-lv",
-        "published": 1728600921,
-        "tags": [],
-        "collection_title": "Rick And Morty: The Anime",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241004/thumbnails/2_24104115266-AS_RAMTheAnime_109_HerInnermostWish-5.jpg",
-        "id": "AZJYEIEtdoSfoMZMd5MH",
         "auth": true
     }
 ]
