@@ -1419,7 +1419,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1727474400,
         "id": "AZIQSussSaru9Cdsy8Fs",
-        "auth": false
+        "auth": true
     },
     {
         "created": 1727724340,
@@ -1456,6 +1456,38 @@
         "launch_date": 1728079200,
         "slug": "bushy-brows-pledge-undying-love-and-protection",
         "id": "AZJEZUWjdoSfoMZMd5MG",
+        "auth": false
+    },
+    {
+        "created": 1728317589,
+        "tms_id": "",
+        "title_id": "633915",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "description": "Protecting Sakura, who can no longer move, Lee battles the three Sound ninja himself.",
+        "title_suggest": {
+            "input": [
+                "Sakura Blossoms!",
+                "Blossoms!"
+            ]
+        },
+        "published": 1728407484,
+        "title": "Sakura Blossoms!",
+        "type": "episode",
+        "expiration_date": 1729893540,
+        "tags": [],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1280.5126,
+        "episode_number": "32",
+        "collection_title": "Naruto",
+        "original_air_date": 1146963600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1010072400096835",
+        "media_id": "05842130e45f333f0d7a46e9ef70b60a989151ec",
+        "modified": 1728407484,
+        "launch_date": 1728684000,
+        "slug": "sakura-blossoms",
+        "id": "AZJnwYkAdoSfoMZMd5ML",
         "auth": false
     }
 ]
