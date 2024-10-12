@@ -378,6 +378,50 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1729310340,
+        "tms_id": "",
+        "description": "Bob gets a new job.",
+        "title_suggest": {
+            "input": [
+                "Copa-Bob-Bana"
+            ]
+        },
+        "title": "Copa-Bob-Bana",
+        "type": "episode",
+        "expiration_date": 1724644740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8572,
+        "episode_number": "3",
+        "original_air_date": 1702346400,
+        "auth_launch_date": 1728705600,
+        "clip_order": null,
+        "airing_id": "RADS1010072400096847",
+        "media_id": "18099b1c0c1fb90e3dd83f2c4aad5d5d9dee9235",
+        "modified": 1728331345,
+        "slug": "copa-bob-bana",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240205/thumbnails/1_2425111568-Screenshot2024-02-05at11.14.41AM.png",
+        "created": 1706751081,
+        "title_id": "2438963",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dlv",
+        "published": 1728331345,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1724040000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240205/thumbnails/2_2425111568-Screenshot2024-02-05at11.14.41AM.png",
+        "id": "AY1iSr2O1E7YmWrdXLl7",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Tina gets some help from a crystal.",
@@ -469,6 +513,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1729310340,
+        "tms_id": "",
+        "description": "The kids' Halloween plan goes awry.",
+        "title_suggest": {
+            "input": [
+                "Heartbreak Hotel-Oween",
+                "Hotel-Oween"
+            ]
+        },
+        "title": "Heartbreak Hotel-Oween",
+        "type": "episode",
+        "expiration_date": 1724644740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.7572,
+        "episode_number": "4",
+        "original_air_date": 1696901400,
+        "auth_launch_date": 1728705600,
+        "clip_order": null,
+        "airing_id": "RADS1010072400096849",
+        "media_id": "36c324f5a2036c5a573885f391314d0d681a2641",
+        "modified": 1728332552,
+        "slug": "heartbreak-hotel-oween",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/1_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
+        "created": 1697688570,
+        "title_id": "2438964",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dl",
+        "published": 1728332552,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1724040000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/2_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
+        "id": "AYtGH8wC1E7YmWrdXLkQ",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1716177540,
         "tms_id": "",
         "description": "Linda and Gayle get a mysterious note.",
@@ -511,101 +600,6 @@
         "launch_date": 1728273600,
         "poster": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png",
         "id": "AYtjwi6tn_kciGPPrDF_",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1728705540,
-        "tms_id": "",
-        "description": "Linda attends Gayle's artist workshop.",
-        "title_suggest": {
-            "input": [
-                "Yurty Rotten Scoundrels",
-                "Rotten Scoundrels",
-                "Scoundrels"
-            ]
-        },
-        "title": "Yurty Rotten Scoundrels",
-        "type": "episode",
-        "expiration_date": 1722225540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.7561,
-        "episode_number": "15",
-        "original_air_date": 1700533800,
-        "auth_launch_date": 1728100800,
-        "clip_order": null,
-        "airing_id": "RADS1009302400094987",
-        "media_id": "3fe5d0d773cb09e10924a16393c6bd404de8f31b",
-        "modified": 1727745111,
-        "slug": "yurty-rotten-scoundrels",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240115/thumbnails/1_241151220233-Screenshot2024-01-15at12.19.53PM.png",
-        "created": 1705035998,
-        "title_id": "2438953",
-        "season_number": "10",
-        "tv_rating": "tv-pg-l",
-        "published": 1727745111,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721620800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240115/thumbnails/2_241151220233-Screenshot2024-01-15at12.19.53PM.png",
-        "id": "AYz8EKQ_1E7YmWrdXLlb",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1728705540,
-        "tms_id": "",
-        "description": "Linda and Teddy get in the St. Paddy's spirit.",
-        "title_suggest": {
-            "input": [
-                "Flat-Top O' the Morning to Ya",
-                "O' the Morning to Ya",
-                "the Morning to Ya",
-                "Morning to Ya",
-                "to Ya",
-                "Ya"
-            ]
-        },
-        "title": "Flat-Top O' the Morning to Ya",
-        "type": "episode",
-        "expiration_date": 1722830340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1281.4135,
-        "episode_number": "16",
-        "original_air_date": 1700535600,
-        "auth_launch_date": 1728100800,
-        "clip_order": null,
-        "airing_id": "RADS1009302400094989",
-        "media_id": "473e8f53b1359ce783291cb5edcfafcfbe7a2bd1",
-        "modified": 1727745113,
-        "slug": "flat-top-o-the-morning-to-ya",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240115/thumbnails/1_241151226470-Screenshot2024-01-15at12.26.25PM.png",
-        "created": 1705036023,
-        "title_id": "2438954",
-        "season_number": "10",
-        "tv_rating": "tv-pg-l",
-        "published": 1727745113,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1722225600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240115/thumbnails/2_241151226470-Screenshot2024-01-15at12.26.25PM.png",
-        "id": "AYz8EQfe1E7YmWrdXLlc",
         "auth": false
     }
 ]
