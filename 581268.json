@@ -7764,6 +7764,62 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447443780,
+        "auth_expiration_date": 1693540740,
+        "tms_id": "EP007008180039",
+        "rating": 7.6456556,
+        "description": "A pointless and moronic tale of the dangers of going green.",
+        "title_suggest": {
+            "input": [
+                "Mud Days and Cornfused",
+                "Days and Cornfused",
+                "and Cornfused",
+                "Cornfused"
+            ]
+        },
+        "type": "episode",
+        "title": "Mud Days and Cornfused",
+        "expiration_date": 1755316740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 683,
+        "episode_number": "19",
+        "original_air_date": 1212380100,
+        "clip_order": null,
+        "auth_launch_date": 1680926400,
+        "modified": 1729012181,
+        "media_id": "96ed4a5c1ce41551648794a6117132183f14a83d",
+        "airing_id": "RADS1010152400098154",
+        "id": "lK1PsMp_SGahCekf3h8lvw",
+        "slug": "mud-days-and-cornfused",
+        "views": 417004,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_20413121500-squidbillies_038_bim.jpg",
+        "created": 1402945477,
+        "title_id": "719989",
+        "season_number": "3",
+        "tv_rating": "tv-14-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1729012181,
+        "tags": [
+            "squidbillies episode 38 mud days and cornfused maze tarp monsters"
+        ],
+        "rating_count": 2046,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1729051200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413121500-squidbillies_038_bim.jpg",
+        "cma_id": "1477015"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447447020,
         "auth_expiration_date": 1714795140,
         "tms_id": "EP007008180091",
