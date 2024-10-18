@@ -557,7 +557,7 @@
         "launch_date": 1726804800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240903/thumbnails/2_2493112354-AS_RAMTheAnime_103_AlienElle-7.jpg",
         "id": "AZGAOWIVSaru9Cdsy7uv",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1727409540,
@@ -743,7 +743,7 @@
         "launch_date": 1729224000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181040258-AS_RAMTheAnime_107_WhenWeMeetInOurDreams-3.jpg",
         "id": "AZIFk9j8Saru9Cdsy8DZ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1729828740,
@@ -837,6 +837,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241004/thumbnails/2_24104115266-AS_RAMTheAnime_109_HerInnermostWish-5.jpg",
         "id": "AZJYEIEtdoSfoMZMd5MH",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1731041940,
+        "tms_id": "",
+        "description": "Morty might finally be at peace. But Space Morty might be in real trouble.",
+        "title_suggest": {
+            "input": [
+                "(Dub) A Pain in the Back",
+                "A Pain in the Back",
+                "Pain in the Back",
+                "in the Back",
+                "the Back",
+                "Back"
+            ]
+        },
+        "title": "(Dub) A Pain in the Back",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZEi8QisSaru9Cdsy7fP",
+        "duration": 1531.3632,
+        "episode_number": "10",
+        "original_air_date": "1729224000",
+        "auth_launch_date": 1729224000,
+        "clip_order": null,
+        "airing_id": "RADS1010112400097807",
+        "media_id": "fbef226fa6f4ebf3fa01b43d9469ece34a42723a",
+        "modified": 1728803725,
+        "slug": "dub-a-pain-in-the-back",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241004/thumbnails/1_24104116239-AS_RAMTheAnime_110_APainInTheBack-1.jpg",
+        "created": 1728054386,
+        "season_number": "1",
+        "title_id": "2424743",
+        "tv_rating": "tv-14-lv",
+        "published": 1728803725,
+        "tags": [],
+        "collection_title": "Rick And Morty: The Anime",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241004/thumbnails/2_24104116239-AS_RAMTheAnime_110_APainInTheBack-1.jpg",
+        "id": "AZJYEV3bdoSfoMZMd5MI",
         "auth": true
     }
 ]
