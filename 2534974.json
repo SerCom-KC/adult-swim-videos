@@ -192,6 +192,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1731043920,
+        "tms_id": "",
+        "description": "",
+        "title_suggest": {
+            "input": [
+                "(Dub) Episode 3",
+                "Episode 3",
+                "3"
+            ]
+        },
+        "title": "(Dub) Episode 3",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWz3_3IpCorLtcgfluHA",
+        "duration": 1772.671,
+        "episode_number": "3",
+        "original_air_date": "1729225980",
+        "auth_launch_date": 1729225980,
+        "clip_order": null,
+        "airing_id": "RADS1010122400097942",
+        "media_id": "32f0e9431edc80d7fd5f722247b8aa7078ee8fbf",
+        "modified": 1729049672,
+        "slug": "dub-episode-3",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/1_2410152334231-image.png",
+        "created": 1726764876,
+        "season_number": "1",
+        "title_id": "2193535",
+        "tv_rating": "tv-ma-v",
+        "published": 1729049672,
+        "tags": [],
+        "collection_title": "Uzumaki",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152334231-image.png",
+        "id": "AZILNQQCSaru9Cdsy8Ew",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "",
