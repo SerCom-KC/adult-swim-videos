@@ -1508,7 +1508,7 @@
         "launch_date": 1728079200,
         "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152330314-NarutoClassic_Ep031_Still_1920x1080_Pillarbox.jpg",
         "id": "AZJEZUWjdoSfoMZMd5MG",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -1553,6 +1553,52 @@
         "launch_date": 1728684000,
         "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152330446-NarutoClassic_Ep032_Still_1920x1080_Pillarbox.jpg",
         "id": "AZJnwYkAdoSfoMZMd5ML",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "While Sakura fends off the Sound ninja attack by herself, the rival Ino team appears!",
+        "title_suggest": {
+            "input": [
+                "Battle Formation: Ino-Shika-Cho!",
+                "Formation: Ino-Shika-Cho!",
+                "Ino-Shika-Cho!"
+            ]
+        },
+        "title": "Battle Formation: Ino-Shika-Cho!",
+        "type": "episode",
+        "expiration_date": 1730498340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1283.0483,
+        "episode_number": "33",
+        "original_air_date": 1147568400,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1010132400097961",
+        "media_id": "b080225c1520713cb62d29f11b413f280eed7dda",
+        "modified": 1729049462,
+        "slug": "battle-formation-ino-shika-cho",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/1_2410152330562-NarutoClassic_Ep033_Still_1920x1080_Pillarbox.jpg",
+        "created": 1728840589,
+        "title_id": "633916",
+        "season_number": "1",
+        "tv_rating": "tv-14-v",
+        "published": 1729049462,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": 1729288800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152330562-NarutoClassic_Ep033_Still_1920x1080_Pillarbox.jpg",
+        "id": "AZKG7eG8GwrFHTTP9EYw",
         "auth": false
     }
 ]
