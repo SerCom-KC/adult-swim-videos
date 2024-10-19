@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1729310340,
-        "tms_id": "",
-        "description": "Bob gets a new job.",
-        "title_suggest": {
-            "input": [
-                "Copa-Bob-Bana"
-            ]
-        },
-        "title": "Copa-Bob-Bana",
-        "type": "episode",
-        "expiration_date": 1724644740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8572,
-        "episode_number": "3",
-        "original_air_date": 1702346400,
-        "auth_launch_date": 1728705600,
-        "clip_order": null,
-        "airing_id": "RADS1010072400096847",
-        "media_id": "18099b1c0c1fb90e3dd83f2c4aad5d5d9dee9235",
-        "modified": 1728331345,
-        "slug": "copa-bob-bana",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240205/thumbnails/1_2425111568-Screenshot2024-02-05at11.14.41AM.png",
-        "created": 1706751081,
-        "title_id": "2438963",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dlv",
-        "published": 1728331345,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1724040000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240205/thumbnails/2_2425111568-Screenshot2024-02-05at11.14.41AM.png",
-        "id": "AY1iSr2O1E7YmWrdXLl7",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1729396740,
         "tms_id": "",
         "description": "Tina goes on a power trip.",
@@ -144,6 +100,52 @@
         "launch_date": 1724644800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121220501-Screenshot2024-02-12at12.20.23PM.png",
         "id": "AY2Gsh4v1E7YmWrdXLnm",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1729915140,
+        "tms_id": "",
+        "description": "Gene is home alone.",
+        "title_suggest": {
+            "input": [
+                "Mr. Lonely Farts",
+                "Lonely Farts",
+                "Farts"
+            ]
+        },
+        "title": "Mr. Lonely Farts",
+        "type": "episode",
+        "expiration_date": 1726459140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1286.7188,
+        "episode_number": "14",
+        "original_air_date": 1703552400,
+        "auth_launch_date": 1729310400,
+        "clip_order": null,
+        "airing_id": "RADS1010142400097975",
+        "media_id": "cd06d0d9cc5bd810eebf66f5e552b312f6bad559",
+        "modified": 1728885473,
+        "slug": "mr-lonely-farts",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/1_24226946294-Screenshot2024-02-26at9.43.37AM.png",
+        "created": 1708111671,
+        "title_id": "2438974",
+        "season_number": "11",
+        "tv_rating": "tv-pg-l",
+        "published": 1728885473,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1725854400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/2_24226946294-Screenshot2024-02-26at9.43.37AM.png",
+        "id": "AY2zY7Fp1E7YmWrdXLx0",
         "auth": true
     },
     {
@@ -281,51 +283,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251248197-Screenshot2024-03-25at12.47.39PM.png",
         "id": "AY5dN8OW5I1d0UhX5iFF",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1729310340,
-        "tms_id": "",
-        "description": "The kids' Halloween plan goes awry.",
-        "title_suggest": {
-            "input": [
-                "Heartbreak Hotel-Oween",
-                "Hotel-Oween"
-            ]
-        },
-        "title": "Heartbreak Hotel-Oween",
-        "type": "episode",
-        "expiration_date": 1724644740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.7572,
-        "episode_number": "4",
-        "original_air_date": 1696901400,
-        "auth_launch_date": 1728705600,
-        "clip_order": null,
-        "airing_id": "RADS1010072400096849",
-        "media_id": "36c324f5a2036c5a573885f391314d0d681a2641",
-        "modified": 1728332552,
-        "slug": "heartbreak-hotel-oween",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/1_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
-        "created": 1697688570,
-        "title_id": "2438964",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "published": 1728332552,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1724040000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/2_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
-        "id": "AYtGH8wC1E7YmWrdXLkQ",
-        "auth": true
     },
     {
         "auth_expiration_date": 1729483140,
@@ -561,6 +518,52 @@
         "launch_date": 1725854400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_24220220145-Screenshot2024-02-20at2.18.45AM.png",
         "id": "AYxpwuIMn_kciGPPrDyH",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1729915140,
+        "tms_id": "",
+        "description": "Bob and Linda are tortured by a past lie.",
+        "title_suggest": {
+            "input": [
+                "An Incon-Wheelie-Ent Truth",
+                "Incon-Wheelie-Ent Truth",
+                "Truth"
+            ]
+        },
+        "title": "An Incon-Wheelie-Ent Truth",
+        "expiration_date": 1726459140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8239,
+        "episode_number": "13",
+        "original_air_date": "1702954800",
+        "auth_launch_date": 1729310400,
+        "clip_order": null,
+        "airing_id": "RADS1010142400097973",
+        "media_id": "4fda98b7e53a587e71bf2ce71cf6aa343e0e8871",
+        "modified": 1728885469,
+        "slug": "an-incon-wheelie-ent-truth",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/1_24226949586-Screenshot2024-02-26at9.47.26AM.png",
+        "created": 1702581437,
+        "season_number": "11",
+        "title_id": "2438973",
+        "tv_rating": "tv-pg-l",
+        "published": 1728885469,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1725854400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/2_24226949586-Screenshot2024-02-26at9.47.26AM.png",
+        "id": "AYxpwwV6n_kciGPPrDyI",
         "auth": true
     },
     {
