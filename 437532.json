@@ -1,93 +1,5 @@
 [
     {
-        "auth_expiration_date": 1729483140,
-        "tms_id": "EP003034830107",
-        "description": "The crew members encounter a bizarre alien with the power to change their sexual characteristics.",
-        "title_suggest": {
-            "input": [
-                "Neutopia"
-            ]
-        },
-        "title": "Neutopia",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "1",
-        "original_air_date": 1649640600,
-        "auth_launch_date": 1728878400,
-        "clip_order": null,
-        "airing_id": "RADS1010102400097430",
-        "media_id": "ae4be46583a29a142ef378958200cbeb7d3de3c6",
-        "modified": 1728537584,
-        "slug": "neutopia",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_224815693-Futurama_807_Neutopia.png",
-        "created": 1649426691,
-        "title_id": "2161639",
-        "season_number": "8",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1728537584,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_224815693-Futurama_807_Neutopia.png",
-        "id": "AYAJffX2_0O4w1rD3R95",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1729483140,
-        "tms_id": "EP003034830108",
-        "description": "Bender gains the ability to self-replicate, threatening to overrun Earth with vast swarms of copies of himself.",
-        "title_suggest": {
-            "input": [
-                "Benderama"
-            ]
-        },
-        "title": "Benderama",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1361.994,
-        "episode_number": "2",
-        "original_air_date": 1650243600,
-        "auth_launch_date": 1728878400,
-        "clip_order": null,
-        "airing_id": "RADS1010102400097428",
-        "media_id": "996a3ffc857e8046782eaeadf6e12454819f073a",
-        "modified": 1728536680,
-        "slug": "benderama",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/1_22418106491-Benderama.png",
-        "created": 1649984539,
-        "title_id": "2161636",
-        "season_number": "8",
-        "tv_rating": "tv-14-dlv",
-        "published": 1728536680,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/2_22418106491-Benderama.png",
-        "id": "AYAqvgpD208s7zyYUMli",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1729828740,
         "tms_id": "EP003034830109",
         "description": "When Bender dies, his disembodied software begins haunting the Planet Express building.",
@@ -226,6 +138,99 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
         "id": "AYBIQClS_0O4w1rD3SCd",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1730087940,
+        "tms_id": "EP003034830112",
+        "description": "Leela becomes a Hollywood Big Shot after creating a hit children's television series.",
+        "title_suggest": {
+            "input": [
+                "Yo Leela Leela",
+                "Leela Leela",
+                "Leela"
+            ]
+        },
+        "title": "Yo Leela Leela",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "6",
+        "original_air_date": "1651453200",
+        "auth_launch_date": 1729483200,
+        "clip_order": null,
+        "airing_id": "RADS1010162400098205",
+        "media_id": "45e1123b9328d70bf64fa3c1f732c9f8f6c518d0",
+        "modified": 1729057596,
+        "slug": "yo-leela-leela",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271257303-Futurama_808_YoLeelaLeela.png",
+        "created": 1651078665,
+        "season_number": "8",
+        "title_id": "2161640",
+        "tv_rating": "tv-14-dlv",
+        "published": 1729057596,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271257303-Futurama_808_YoLeelaLeela.png",
+        "id": "AYBr9RXD_0O4w1rD3SG-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1730087940,
+        "tms_id": "EP003034830113",
+        "description": "The crew members alter history when they travel back in time to the American Revolution.",
+        "title_suggest": {
+            "input": [
+                "All the Presidents' Heads",
+                "the Presidents' Heads",
+                "Presidents' Heads",
+                "Heads"
+            ]
+        },
+        "title": "All the Presidents' Heads",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1357.8564,
+        "episode_number": "7",
+        "original_air_date": "1651455000",
+        "auth_launch_date": 1729483200,
+        "clip_order": null,
+        "airing_id": "RADS1010162400098207",
+        "media_id": "1c30d79bc75098de7d3980df859d98975fb236f0",
+        "modified": 1729055180,
+        "slug": "all-the-presidents-heads",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271258140-Futurama_810_AllThePresidentsHeads.png",
+        "created": 1651078701,
+        "season_number": "8",
+        "title_id": "2161642",
+        "tv_rating": "tv-14-dlv",
+        "published": 1729055180,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271258140-Futurama_810_AllThePresidentsHeads.png",
+        "id": "AYBr9aIs208s7zyYUMwK",
         "auth": true
     }
 ]
