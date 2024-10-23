@@ -230,6 +230,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1730260740,
+        "tms_id": "",
+        "description": "Louise ropes her siblings into an adventure.",
+        "title_suggest": {
+            "input": [
+                "Bridge Over Troubled Rudy",
+                "Over Troubled Rudy",
+                "Troubled Rudy",
+                "Rudy"
+            ]
+        },
+        "title": "Bridge Over Troubled Rudy",
+        "type": "episode",
+        "expiration_date": 1727668740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1292.024,
+        "episode_number": "19",
+        "original_air_date": 1704157200,
+        "auth_launch_date": 1729656000,
+        "clip_order": null,
+        "airing_id": "RADS1010162400098280",
+        "media_id": "509603b7ad28d3c84def6bfe9538cb2bda34c227",
+        "modified": 1729234157,
+        "slug": "bridge-over-troubled-rudy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/1_243111223534-Screenshot2024-03-11at12.20.10PM.png",
+        "created": 1709780839,
+        "title_id": "2438979",
+        "season_number": "11",
+        "tv_rating": "tv-pg-l",
+        "published": 1729234157,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1727064000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111223534-Screenshot2024-03-11at12.20.10PM.png",
+        "id": "AY4W4Sxr1E7YmWrdXL_S",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1716609540,
         "tms_id": "",
         "description": "Tina feels left out.",
@@ -322,51 +369,6 @@
         "launch_date": 1729483200,
         "poster": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201751338-Screenshot2023-11-20at5.50.41PM.png",
         "id": "AYvP5RU81E7YmWrdXLk3",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1729655940,
-        "tms_id": "",
-        "description": "Gene gets jealous of Linda's new pastime.",
-        "title_suggest": {
-            "input": [
-                "Mommy Boy",
-                "Boy"
-            ]
-        },
-        "title": "Mommy Boy",
-        "expiration_date": 1725854340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1286.7855,
-        "episode_number": "9",
-        "original_air_date": "1702949400",
-        "auth_launch_date": 1729051200,
-        "clip_order": null,
-        "airing_id": "RADS1010102400097518",
-        "media_id": "dc115bcc84beac5be11cebbc9d089be61f465d8b",
-        "modified": 1728656897,
-        "slug": "mommy-boy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/1_24220219433-Screenshot2024-02-20at2.19.02AM.png",
-        "created": 1702581400,
-        "season_number": "11",
-        "title_id": "2438969",
-        "tv_rating": "tv-pg-lv",
-        "published": 1728656897,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1725249600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_24220219433-Screenshot2024-02-20at2.19.02AM.png",
-        "id": "AYxpwnIZ1E7YmWrdXLlQ",
         "auth": false
     },
     {
