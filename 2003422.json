@@ -49,51 +49,6 @@
         "cma_id": "1489605"
     },
     {
-        "auth_expiration_date": 1730001540,
-        "tms_id": "",
-        "description": "Linda's new routine is wreaking havoc.",
-        "title_suggest": {
-            "input": [
-                "Sheshank Redumption",
-                "Redumption"
-            ]
-        },
-        "title": "Sheshank Redumption",
-        "type": "episode",
-        "expiration_date": 1727063940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.0554,
-        "episode_number": "15",
-        "original_air_date": 1703554200,
-        "auth_launch_date": 1729396800,
-        "clip_order": null,
-        "airing_id": "RADS1010142400098032",
-        "media_id": "40267daf86f144d07cc81e8059288d5749b4dc59",
-        "modified": 1728970493,
-        "slug": "sheshank-redumption",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/1_24226948470-Screenshot2024-02-26at9.47.55AM.png",
-        "created": 1708111647,
-        "title_id": "2438975",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "published": 1728970493,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1726459200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/2_24226948470-Screenshot2024-02-26at9.47.55AM.png",
-        "id": "AY2zY1L51E7YmWrdXLxz",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1730174340,
         "tms_id": "",
         "description": "Bob is in a car accident.",
@@ -140,53 +95,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_24341119323-Screenshot2024-03-04at11.16.26AM.png",
         "id": "AY3zA3HNC2cKYm1ap-2V",
         "auth": true
-    },
-    {
-        "auth_expiration_date": 1730001540,
-        "tms_id": "",
-        "description": "Tina learns Spanish.",
-        "title_suggest": {
-            "input": [
-                "Y Tu Tina Tambien",
-                "Tu Tina Tambien",
-                "Tina Tambien",
-                "Tambien"
-            ]
-        },
-        "title": "Y Tu Tina Tambien",
-        "type": "episode",
-        "expiration_date": 1727063940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.922,
-        "episode_number": "16",
-        "original_air_date": 1703556000,
-        "auth_launch_date": 1729396800,
-        "clip_order": null,
-        "airing_id": "RADS1010142400098034",
-        "media_id": "5ecd687738eae0af963ab617bdf4a7b9a229765b",
-        "modified": 1728969301,
-        "slug": "y-tu-tina-tambien",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/1_2434111908-Screenshot2024-03-04at11.17.29AM.png",
-        "created": 1709179056,
-        "title_id": "2438976",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "published": 1728969301,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1726459200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_2434111908-Screenshot2024-03-04at11.17.29AM.png",
-        "id": "AY3zArLVC2cKYm1ap-2U",
-        "auth": false
     },
     {
         "auth_expiration_date": 1730087940,
@@ -608,5 +516,104 @@
         "launch_date": 1693800000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg",
         "cma_id": "1488905"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1730606340,
+        "tms_id": "EP012792980004",
+        "description": "When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands.",
+        "title_suggest": {
+            "input": [
+                "Sexy Dance Fighting",
+                "Dance Fighting",
+                "Fighting"
+            ]
+        },
+        "expiration_date": 1695009540,
+        "title": "Sexy Dance Fighting",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1295.928,
+        "episode_number": "4",
+        "original_air_date": 1372730400,
+        "clip_order": null,
+        "auth_launch_date": 1730001600,
+        "modified": 1729575377,
+        "media_id": "b8c95a111d57ed23f37a5f9fecab0a27d5398d18",
+        "airing_id": "RADS1010212400098689",
+        "id": "wN7dmv1cQrqDFRE4XCHxhw",
+        "slug": "sexy-dance-fighting",
+        "views": 3977,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088775540220.jpg",
+        "created": 1403209845,
+        "season_number": "1",
+        "title_id": "2003426",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1729575377,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1694404800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088775540220.jpg",
+        "cma_id": "1491136"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1730606340,
+        "tms_id": "EP012792980003",
+        "description": "When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob ends up treating the cow like a member of the family.",
+        "title_suggest": {
+            "input": [
+                "Sacred Cow",
+                "Cow"
+            ]
+        },
+        "title": "Sacred Cow",
+        "type": "episode",
+        "expiration_date": 1694404740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1296.3284,
+        "episode_number": "3",
+        "original_air_date": 1372647600,
+        "clip_order": null,
+        "auth_launch_date": 1730001600,
+        "modified": 1729587003,
+        "media_id": "f89db78e609e6ac2b3578dcc90af991e20df44a1",
+        "airing_id": "RADS1010212400098687",
+        "id": "xJmLhV5aQoOv_wp8zd_p-g",
+        "slug": "sacred-cow",
+        "views": 6850,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152088771879719.jpg",
+        "created": 1402896028,
+        "title_id": "2003425",
+        "tv_rating": "tv-14",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1729587003,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1693800000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088771879719.jpg",
+        "cma_id": "1491178"
     }
 ]
