@@ -1,7 +1,6 @@
 {
-    "updated": 1730235852,
-    "added": [],
-    "removed": [
+    "updated": 1730236424,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
@@ -17,7 +16,7 @@
             },
             "title": "Sucks to be the Moon",
             "type": "episode",
-            "expiration_date": 1730235504,
+            "expiration_date": 1730260799,
             "platforms": [
                 "android",
                 "ios",
@@ -32,7 +31,7 @@
             "clip_order": null,
             "airing_id": "RADS1004202400066088",
             "media_id": "d49e33a069cd6a0961d83c826bbd5cabc120a598",
-            "modified": 1730235513,
+            "modified": 1730236340,
             "slug": "sucks-to-be-the-moon",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/1_24429107175-Screenshot2024-04-29at10.06.54AM.png",
@@ -40,11 +39,11 @@
             "title_id": "2506625",
             "season_number": "6",
             "tv_rating": "tv-ma-lv",
-            "published": 1730235513,
+            "published": 1730236340,
             "tags": [],
             "collection_title": "Smalls",
             "disable_ads": false,
-            "modified_by": "Jonathan Jackson",
+            "modified_by": "ODT Listener",
             "launch_date": 1714190400,
             "poster": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/2_24429107175-Screenshot2024-04-29at10.06.54AM.png",
             "id": "AY79TjMK5I1d0UhX5iFt",
@@ -53,5 +52,6 @@
             "collection_title_id": "2326791",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
