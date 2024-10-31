@@ -46,6 +46,55 @@
         "cma_id": "1326905"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1730782740,
+        "tms_id": "EP007164450226",
+        "description": "Stan goes over-the-top to produce a reenactment of Charles Lindbergh's solo flight for Steve's school project after he gets an F. Klaus buys a pair of shoes online and Hayley helps him harass the neighbor they believe has stolen them.",
+        "title_suggest": {
+            "input": [
+                "Fight and Flight",
+                "and Flight",
+                "Flight"
+            ]
+        },
+        "title": "Fight and Flight",
+        "type": "episode",
+        "expiration_date": 1724039940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1273.97,
+        "episode_number": "2",
+        "original_air_date": 1479956400,
+        "auth_launch_date": 1730174400,
+        "clip_order": null,
+        "modified": 1729750520,
+        "media_id": "be1398f38e6bfa7b20c6d3572110338cdfca6b5e",
+        "airing_id": "RADS1010232400099106",
+        "id": "2lgl7za3TEGrHYL2SIWJeQ",
+        "slug": "fight-and-flight",
+        "views": 1633,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151752473623420.jpg",
+        "created": 1479744636,
+        "title_id": "2069533",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1729750520,
+        "first_published": 1479744636,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1723435200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151752473623420.jpg",
+        "cma_id": "1331342"
+    },
+    {
         "auth_expiration_date": 1729310340,
         "tms_id": "EP007164450409",
         "description": "A new friendship causes Hayley to start worrying she might be slowly turning into Francine. Steve and his friends try out for Roger's improv troupe.",
@@ -135,6 +184,51 @@
         "launch_date": 1730088000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271557210-AmericanDad_1519_DrSundersonSunSuckers.png",
         "id": "AX6dVDgp208s7zyYUL91",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1729396740,
+        "tms_id": "EP007164450408",
+        "description": "Stan and the family go out to dinner at a buffet restaurant! Meanwhile, Roger becomes a flower.",
+        "title_suggest": {
+            "input": [
+                "Family Time",
+                "Time"
+            ]
+        },
+        "title": "Family Time",
+        "expiration_date": 1730696340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.6292,
+        "episode_number": "19",
+        "original_air_date": "1630287000",
+        "auth_launch_date": 1728792000,
+        "clip_order": null,
+        "airing_id": "RADS1010232400099086",
+        "media_id": "53ba36a67ab61d711e518dcc0a81406ab1b6cae4",
+        "modified": 1729706132,
+        "slug": "family-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_22127155807-AmericanDad_1520_FamilyTime.png",
+        "created": 1643317091,
+        "season_number": "16",
+        "title_id": "2238767",
+        "tv_rating": "tv-14-dlv",
+        "published": 1729706132,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1730088000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127155807-AmericanDad_1520_FamilyTime.png",
+        "id": "AX6dVNy_208s7zyYUL92",
         "auth": false
     },
     {
@@ -275,6 +369,54 @@
     },
     {
         "auth_expiration_date": 1730433540,
+        "tms_id": "EP007164450430",
+        "description": "Stan is forced to co-lead a scouts troop with Hayley while Steve blunders in his fantasy world.",
+        "title_suggest": {
+            "input": [
+                "Hayley Was a Girl Scout?",
+                "Was a Girl Scout?",
+                "a Girl Scout?",
+                "Girl Scout?",
+                "Scout?"
+            ]
+        },
+        "title": "Hayley Was a Girl Scout?",
+        "type": "episode",
+        "expiration_date": 1722830340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.9283,
+        "episode_number": "17",
+        "original_air_date": 1669001400,
+        "auth_launch_date": 1729828800,
+        "clip_order": null,
+        "airing_id": "RADS1010212400098497",
+        "media_id": "6cc450eee7bda465df34e5599985e440fe65ae67",
+        "modified": 1729476621,
+        "slug": "hayley-was-a-girl-scout",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/1_232161058291-HaleyGirlScout.png",
+        "created": 1674854244,
+        "title_id": "2342103",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1729476621,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1722225600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161058291-HaleyGirlScout.png",
+        "id": "AYX1F5_5uLQD-MTtYfyU",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1730433540,
         "tms_id": "EP007164450431",
         "description": "Jeff's people pleasing nature gets in the way of his relationship with Hayley; Stan wears a confusing costume to the CIA costume party.",
         "title_suggest": {
@@ -411,6 +553,52 @@
     },
     {
         "auth_expiration_date": 1729655940,
+        "tms_id": "EP007164450411",
+        "description": "Francine becomes a realtor in Langley's world of high-end real estate, while the rest of the family sells coffee from the front yard.",
+        "title_suggest": {
+            "input": [
+                "Langley Dollar Listings",
+                "Dollar Listings",
+                "Listings"
+            ]
+        },
+        "title": "Langley Dollar Listings",
+        "type": "episode",
+        "expiration_date": 1730696340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0284,
+        "episode_number": "1",
+        "original_air_date": 1643599800,
+        "auth_launch_date": 1729051200,
+        "clip_order": null,
+        "airing_id": "RADS1010232400099092",
+        "media_id": "c7f1dbdbb1e6309e1605e13797fa25ec0f36672a",
+        "modified": 1729706422,
+        "slug": "langley-dollar-listings",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_231191157214-LagleyDollarListingstiny.png",
+        "created": 1673968810,
+        "title_id": "2342087",
+        "season_number": "17",
+        "tv_rating": "tv-14-dl",
+        "published": 1729706422,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1730088000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191157214-LagleyDollarListingstiny.png",
+        "id": "AYXAUPvs4k01GlbfzrX_",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1729655940,
         "tms_id": "EP007164450412",
         "description": "When Stan doesn't feel confident in anything but his suits, Roger assumes a fashion designer persona to craft him a life-changing new wardrobe. Hayley and Jeff raise chickens in the back yard.",
         "title_suggest": {
@@ -500,6 +688,96 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191156354-BookOfFischertiny.png",
         "id": "AYXAVFU9uLQD-MTtYfm-",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1729742340,
+        "tms_id": "EP007164450414",
+        "description": "Steve and Snot's friendship is put to the test when their mothers get in a fight.",
+        "title_suggest": {
+            "input": [
+                "A Roger Story",
+                "Roger Story",
+                "Story"
+            ]
+        },
+        "title": "A Roger Story",
+        "type": "episode",
+        "expiration_date": 1730696340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1285,
+        "episode_number": "4",
+        "original_air_date": 1645414200,
+        "auth_launch_date": 1729137600,
+        "clip_order": null,
+        "airing_id": "RADS1010112400097760",
+        "media_id": "7c8ad94d64f3ebff4113ee8917b5141d3959807a",
+        "modified": 1729706137,
+        "slug": "a-roger-story",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_231191156134-ARogerStorytiny.png",
+        "created": 1673969438,
+        "title_id": "2342090",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlv",
+        "published": 1729706137,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1730088000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191156134-ARogerStorytiny.png",
+        "id": "AYXAWo3huLQD-MTtYfnB",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1730606340,
+        "tms_id": "EP007164450434",
+        "description": "Steve starts a work-study program and discovers that not all is what it seems at Channel 3 News. Roger seeks redemption in the Nashville country music scene.",
+        "title_suggest": {
+            "input": [
+                "Echoes"
+            ]
+        },
+        "title": "Echoes",
+        "type": "episode",
+        "expiration_date": 1722830340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.9617,
+        "episode_number": "21",
+        "original_air_date": 1671420600,
+        "auth_launch_date": 1730001600,
+        "clip_order": null,
+        "airing_id": "RADS1010212400098681",
+        "media_id": "9cea36ea8ac5e57a394df0109b92464b6ed6d5cb",
+        "modified": 1729578676,
+        "slug": "echoes",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230206/thumbnails/1_23261324210-Echoestiny.png",
+        "created": 1675454343,
+        "title_id": "2342108",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1729578676,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1722225600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230206/thumbnails/2_23261324210-Echoestiny.png",
+        "id": "AYYY3GpN4k01GlbfzrYa",
+        "auth": true
     },
     {
         "auth_expiration_date": 1730606340,
