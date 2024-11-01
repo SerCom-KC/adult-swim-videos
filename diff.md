@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 1, 2024 at 03:00:28 EDT_
+_Last Update: November 1, 2024 at 17:00:39 EDT_
 ## Video added
 ### Summary
-340531 The Brak Show: 1  
-### 345421
-**The Brak Show S01E05 - Bawk Ba Gawk**  
-TV-PG 🔓 11:38  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
-seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
-_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
+2529996 Sailor Moon: 1  
+### 2530034
+**Sailor Moon S01E?? - The Snow, the Mountains, Friendship and Monsters**  
+TV-PG-LV 🔒 22:17  
+⌛ November 22, 2024 at 16:59:00 EST  
+https://www.adultswim.com/videos/sailor-moon/the-snow-the-mountains-friendship-and-monsters  
+seriesid=`2529996` titleid=`2530034` id=`AZLPCIejDT7oKsPdFfa0` mediaid=`21c384ff525f718daf80ea249a69f75f328a430d`  
+_Usagi and her friends go to a ski resort to participate in the Moon Princess Contest, unaware that it's part of Kunzite's plan to eliminate the real Moon Princess. During the ski contest, Usagi and Rei end up falling for the trap._  
 ## Video removed
 No videos were removed.  
