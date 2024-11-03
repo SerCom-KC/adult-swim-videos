@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 3, 2024 at 01:00:30 EDT_
+_Last Update: November 3, 2024 at 02:00:46 EST_
 ## Video added
-### Summary
-2409990 Invincible Fight Girl: 1  
-### 2409994
-**Invincible Fight Girl S01E02 - Dreamers and Busters**  
-TV-PG-V 🔒 22:32  
-⌛ November 24, 2024 at 00:30:00 EST  
-https://www.adultswim.com/videos/invincible-fight-girl/dreamers-and-busters  
-seriesid=`2409990` titleid=`2409994` id=`AZLdcJU7CjvsJgIeWACw` mediaid=`e096403a955e990f6250af6d0b182bbe1abec96b`  
-_With her parents' reluctant blessing, Andy embarks on the first step of her wrestling journey: finding a teacher. Her task takes her away from home and into the Big City, where she's confronted with the reality of following one's dreams._  
-<a href="https://media.cdn.adultswim.com/uploads/20241030/thumbnails/2_24103014154-IFGL-102-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241030/thumbnails/2_24103014154-IFGL-102-1920x1080.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2031611 Dragon Ball Z Kai: 1  
+### 2031637
+**Dragon Ball Z Kai S01E26 - The Scheme is Shattered! Vegeta Strikes Back at Zarbon!**  
+TV-PG-LV 🔓 21:01  
+⌛ November 3, 2024 at 01:59:00 EST  
+https://www.adultswim.com/videos/dragon-ball-z-kai/the-scheme-is-shattered-vegeta-strikes-back-at-zarbon  
+seriesid=`2031611` titleid=`2031637` id=`2LXn-QyYS0Swg3-Of36KhQ` mediaid=`83a21a84127d416f76b17c7743308c86fe966a60`  
+_Vegeta lays it on the line in a daring attempt to steal the Dragon Balls right out from under Frieza's nose. Krillin's riding high on a Namekian power surge, but he's about to wander into a dogfight he can't survive!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684065349417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684065349417.jpg" height="144px" /></a>
