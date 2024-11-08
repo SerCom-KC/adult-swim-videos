@@ -1614,7 +1614,7 @@
         "launch_date": 1730494800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152338298-CopyofSailorMoon_Ep032_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AZJnuKFAdoSfoMZMd5MJ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1745035140,
@@ -1666,7 +1666,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1731103140,
+        "auth_expiration_date": 1745035140,
         "tms_id": "",
         "description": "Now that Sailor Venus has joined the team, all of the Sailor Guardians are finally together!",
         "title_suggest": {
@@ -1694,11 +1694,11 @@
         "duration": 1338.5038,
         "episode_number": "34",
         "original_air_date": 1729285200,
-        "auth_launch_date": 1729285200,
+        "auth_launch_date": 1731708000,
         "clip_order": null,
-        "airing_id": "RADS1010132400097947",
+        "airing_id": "RADS1011082400002699",
         "media_id": "a37ff704dce247b9bf309fdb66c7a38be623c059",
-        "modified": 1730931937,
+        "modified": 1731104289,
         "slug": "the-shining-silver-crystal-the-moon-princess-appears",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/1_241015233933-CopyofSailorMoon_Ep034_Thumbnail_1920x1080_Pillarbox.jpg",
@@ -1706,7 +1706,7 @@
         "title_id": "2530030",
         "season_number": "1",
         "tv_rating": "tv-pg-lv",
-        "published": 1730931937,
+        "published": 1731104289,
         "tags": [],
         "collection_title": "Sailor Moon",
         "disable_ads": false,
@@ -1714,7 +1714,7 @@
         "launch_date": 1731103200,
         "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_241015233933-CopyofSailorMoon_Ep034_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AZKG4wefGwrFHTTP9EYr",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1731104940,
@@ -1781,7 +1781,7 @@
         },
         "title": "Usagi's Confusion: Is Tuxedo Mask Evil?",
         "type": "episode",
-        "expiration_date": null,
+        "expiration_date": 1732312740,
         "platforms": [
             "android",
             "ios",
@@ -1794,9 +1794,9 @@
         "original_air_date": 1729890000,
         "auth_launch_date": 1729890000,
         "clip_order": null,
-        "airing_id": "RADS1010212400098543",
+        "airing_id": "RADS1011082400002695",
         "media_id": "2d21a49a7f547be9a7bc62e076e93edd02dcc040",
-        "modified": 1730141860,
+        "modified": 1731104084,
         "slug": "usagis-confusion-is-tuxedo-mask-evil",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20241028/thumbnails/1_2410281457263-SailorMoon-S01E36-1920x1080.jpg",
@@ -1804,12 +1804,12 @@
         "title_id": "2530032",
         "season_number": "1",
         "tv_rating": "tv-pg-v",
-        "published": 1730141860,
+        "published": 1731104084,
         "tags": [],
         "collection_title": "Sailor Moon",
         "disable_ads": false,
-        "modified_by": "undefined undefined",
-        "launch_date": null,
+        "modified_by": "ODT Listener",
+        "launch_date": 1731708000,
         "poster": "https://media.cdn.adultswim.com/uploads/20241028/thumbnails/2_2410281457263-SailorMoon-S01E36-1920x1080.jpg",
         "id": "AZKsqJdcCjvsJgIeV_6u",
         "auth": true
@@ -1831,7 +1831,7 @@
         },
         "title": "Let's Become a Princess: Usagi's Bizarre Training",
         "type": "episode",
-        "expiration_date": null,
+        "expiration_date": 1732314540,
         "platforms": [
             "android",
             "ios",
@@ -1844,9 +1844,9 @@
         "original_air_date": 1729891800,
         "auth_launch_date": 1729891800,
         "clip_order": null,
-        "airing_id": "RADS1010212400098545",
+        "airing_id": "RADS1011082400002697",
         "media_id": "bb8855a216971e2912fc3a4f215e03849a55b6ab",
-        "modified": 1730150916,
+        "modified": 1731104248,
         "slug": "lets-become-a-princess-usagis-bizarre-training",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20241028/thumbnails/1_2410281450379-SailorMoon-S01E37-1920x1080.jpg",
@@ -1854,12 +1854,12 @@
         "title_id": "2530033",
         "season_number": "1",
         "tv_rating": "tv-pg-lv",
-        "published": 1730150916,
+        "published": 1731104248,
         "tags": [],
         "collection_title": "Sailor Moon",
         "disable_ads": false,
-        "modified_by": "undefined undefined",
-        "launch_date": null,
+        "modified_by": "ODT Listener",
+        "launch_date": 1731709800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241028/thumbnails/2_2410281450379-SailorMoon-S01E37-1920x1080.jpg",
         "id": "AZKsqRilCjvsJgIeV_6v",
         "auth": true
@@ -1964,6 +1964,58 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241105/thumbnails/2_24115942497-SailorMoon_Ep039_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AZLPCwZSDT7oKsPdFfa1",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1732917540,
+        "tms_id": "",
+        "description": "Usagi goes on a family vacation to the hot springs, where she is unexpectedly reunited with Mamoru. But due to the Dark Kingdom's brainwashing, Mamoru no longer remembers Usagi or even who he really is.",
+        "title_suggest": {
+            "input": [
+                "The Legendary Lake Yokai: The Bond of Usagi's Family",
+                "Legendary Lake Yokai: The Bond of Usagi's Family",
+                "Lake Yokai: The Bond of Usagi's Family",
+                "Yokai: The Bond of Usagi's Family",
+                "The Bond of Usagi's Family",
+                "Bond of Usagi's Family",
+                "of Usagi's Family",
+                "Usagi's Family",
+                "Family"
+            ]
+        },
+        "title": "The Legendary Lake Yokai: The Bond of Usagi's Family",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AY_PJ8ZL5I1d0UhX5iGC",
+        "duration": 1337.8365,
+        "episode_number": "40",
+        "original_air_date": "1731103200",
+        "auth_launch_date": 1731103200,
+        "clip_order": null,
+        "airing_id": "RADS1011012400001486",
+        "media_id": "7a16f60fb703d865632cecc0e986cbea1b5df65b",
+        "modified": 1730675723,
+        "slug": "the-legendary-lake-yokai-the-bond-of-usagis-family",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241031/thumbnails/1_2410311211422-aslogothumbnail.png",
+        "created": 1730391104,
+        "season_number": "1",
+        "title_id": "2530036",
+        "tv_rating": "tv-pg-v",
+        "published": 1730675723,
+        "tags": [],
+        "collection_title": "Sailor Moon",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241031/thumbnails/2_2410311211422-aslogothumbnail.png",
+        "id": "AZLjWN0dCjvsJgIeWAEl",
         "auth": true
     }
 ]
