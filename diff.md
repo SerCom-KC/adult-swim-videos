@@ -2,234 +2,108 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 7, 2024 at 00:30:14 EST_
+_Last Update: November 8, 2024 at 00:00:42 EST_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
 629835 King of the Hill: 1  
-2013506 Rick and Morty: 9  
-322328 Space Ghost Coast to Coast: 2  
-581268 Squidbillies: 1  
-### 2069550
-**American Dad S12E19 - Kloger**  
-TV-14 🔒 21:35  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/kloger  
-seriesid=`581006` titleid=`2069550` id=`gWxgx0z4SRaEsAEM1PYSJA` mediaid=`24c71b235cf3e00dd816ffc2e935025955d9b3c7`  
-_Roger and Klaus start having a secret affair after they accidentally end up on an online date together. Steve tries to catch Hayley's pink eye to get out of doing a fitness test at school._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg" height="144px" /></a>
-### 2069549
-**American Dad S12E18 - The Long Bomb**  
-TV-14-DLSV 🔒 21:13  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-long-bomb  
-seriesid=`581006` titleid=`2069549` id=`vChQxBcdSiCMUBywWd3bJA` mediaid=`a6299f487f02fcb39f0981b1f35f0c2febb35a72`  
-_While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg" height="144px" /></a>
-### 2003440
-**Bob's Burgers S02E05 - Food Truckin**  
-TV-14 🔒 21:15  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/food-truckin  
-seriesid=`2003422` titleid=`2003440` id=`8DUYQP_IT42r1-_igBVonQ` mediaid=`076b34d2d9b2c9545f24442b8f15353638657d2c`  
-_Bob's family persuades him to buy a food truck and compete with the ones stealing his customers right outside the restaurant. When the Belchers bring their food truck to the "Lolla-Pa-Foods-A-Festival," the Belcher kids' mischief causes the foodies and other truck owners to riot against them._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221626924138.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221626924138.jpg" height="144px" /></a>
-### 731426
-**King of the Hill S07E08 - Full Metal Dust Jacket**  
-TV-PG-DL 🔒 24:09  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/full-metal-dust-jacket  
-seriesid=`629835` titleid=`731426` id=`7n7p-ZzjQhea-sXOvr1_yw` mediaid=`24800e60307cc8d15834b8ba1ed8c8e2c1eb53c5`  
-_Peggy opens her own bookstore, but when she discovers that customers are nonexistent, she reluctantly allows Dale to sublet space so he can sell guns._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214853077302.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214853077302.jpg" height="144px" /></a>
-### 2270460
-**Rick and Morty S05E03 - A Rickconvenient Mort**  
-TV-14-DLSV 🔒 24:19  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/a-rickconvenient-mort  
-seriesid=`2013506` titleid=`2270460` id=`AXpjsuNcDmGy9WFjRrqJ` mediaid=`18617eada1d0134f874e2596cc9ac4afb001fba6`  
-_Reduce Reuse, broh. Might be too late._  
-<a href="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711611335-RickAndMorty_503_ARickconvenientMort.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210701/thumbnails/2_21711611335-RickAndMorty_503_ARickconvenientMort.jpg" height="144px" /></a>
-### 2424785
-**Rick and Morty S07E03 - Air Force Wong**  
-TV-MA-LSV 🔓 24:09  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/air-force-wong  
-seriesid=`2013506` titleid=`2424785` id=`AYsAaAGnn_kciGPPrCyo` mediaid=`28b6945dbb31842ae7c535fd7a871aabe5cf0ca9`  
-_Virginia is for lovers, broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051114294-AS_RAM_703_AirForceWong-1.png"><img src="https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051114294-AS_RAM_703_AirForceWong-1.png" height="144px" /></a>
-### 2206489
-**Rick and Morty S04E01 - Edge of Tomorty: Rick Die Rickpeat**  
-TV-14-DLV 🔒 22:38  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/edge-of-tomorty-rick-die-rickpeat  
-seriesid=`2013506` titleid=`2206489` id=`AW4iMvQ41YiBSfg0KYIq` mediaid=`5edc2d586ffe821a70c25a6cb1ddefbb07cc9081`  
-_Morty goes nuts this time dawg. Rick does stuff. Season 4 premiere broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324945444-rickandmorty_404_dup-20191101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324945444-rickandmorty_404_dup-20191101.jpg" height="144px" /></a>
-### 2013507
-**Rick and Morty S01E02 - Lawnmower Dog**  
-TV-14-DLSV 🔒 22:03  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/lawnmower-dog  
-seriesid=`2013506` titleid=`2013507` id=`Go0FEeWHS5aw2aVvAgGdbQ` mediaid=`42f33f07ad66b1d225907e87ecbf49ae2c054371`  
-_Rick helps Jerry out with the dog, broh. Don't even trip about this episode because they also incept Goldenfold. (Guest starring Rob Paulsen and Jess Harnell)_  
-<a href="https://media.cdn.adultswim.com/uploads/20200313/thumbnails/2_203131431589-rickandmorty_002_dup-20140717.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200313/thumbnails/2_203131431589-rickandmorty_002_dup-20140717.jpg" height="144px" /></a>
-### 2013517
-**Rick and Morty S01E01 - Pilot**  
-TV-14-DLSV 🔒 22:05  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/pilot  
-seriesid=`2013506` titleid=`2013517` id=`rQxZvXQ4ROaSOqq-or2Mow` mediaid=`ce65a74b342068f855bcaa04ac4bb5c7108dda80`  
-_Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty._  
-<a href="https://media.cdn.adultswim.com/uploads/20200313/thumbnails/2_203131431165-rickandmorty_001_dup-20140314.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200313/thumbnails/2_203131431165-rickandmorty_001_dup-20140314.jpg" height="144px" /></a>
-### 2270462
-**Rick and Morty S05E04 - Rickdependence Spray**  
-TV-14-DLSV 🔒 23:56  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/rickdependence-spray  
-seriesid=`2013506` titleid=`2270462` id=`AXqL1qduDmGy9WFjRryX` mediaid=`718c2fd53073134e4d087858afadfcfafe13b7f7`  
-_No shame broh. We all do it broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791115213-RickAndMorty_505_RickdependenceSpray.png"><img src="https://media.cdn.adultswim.com/uploads/20210709/thumbnails/2_21791115213-RickAndMorty_505_RickdependenceSpray.png" height="144px" /></a>
-### 2424784
-**Rick and Morty S07E02 - The Jerrick Trap**  
-TV-MA-LSV 🔓 25:16  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/the-jerrick-trap  
-seriesid=`2013506` titleid=`2424784` id=`AYsAZvPWn_kciGPPrCyn` mediaid=`74ece3aa4546fd01527ca14fc97208d17e58f714`  
-_Gotta be mindful, broh. Big brain stuff here._  
-<a href="https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051113297-AS_RAM_702_TheJerrickTrap-2.png"><img src="https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051113297-AS_RAM_702_TheJerrickTrap-2.png" height="144px" /></a>
-### 2206487
-**Rick and Morty S04E02 - The Old Man And The Seat**  
-TV-14-DLSV 🔒 22:50  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/the-old-man-and-the-seat  
-seriesid=`2013506` titleid=`2206487` id=`AW5hIEd7adNs2hMNfueE` mediaid=`8012b7d7cccadc38fece55cca90545c03c28a1e4`  
-_We all have one thing in common broh. I don't know broh. Watch this one._  
-<a href="https://media.cdn.adultswim.com/uploads/20191112/thumbnails/2_191112152728-rickandmorty_402_dup-20191108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191112/thumbnails/2_191112152728-rickandmorty_402_dup-20191108.jpg" height="144px" /></a>
-### 2116839
-**Rick and Morty S03E10 - The Rickchurian Mortydate**  
-TV-14-DLV 🔒 22:50  
-⌛ November 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/the-rickchurian-mortydate  
-seriesid=`2013506` titleid=`2116839` id=`ULSn-UIRQ7yqEUzhXUe7Fg` mediaid=`00769e8872a88cfb772f34e4eaa556422835de89`  
-_Rick goes toe to toe with the President in this one broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324949285-rickandmorty_310_dup-20170928.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324949285-rickandmorty_310_dup-20170928.jpg" height="144px" /></a>
-### 322739
-**Space Ghost Coast to Coast S01E07 - Banjo**  
-TV-PG 🔓 11:37  
-⌛ December 2, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/banjo  
-seriesid=`322328` titleid=`322739` id=`kMaoQQ0CT2m9iF4VLzADfQ` mediaid=`e7b02c801289f93f4421a06ccf1b3d1d3a2b8b48`  
-_Space Ghost is nurturing a special pet—Banjo the sea monkey. Zorak sabotages the interview with Schooly D by hypnotically controlling Space Ghost's mind. Weird Al Yankovic reveals that he can eat his weight in Ding Dongs, but his interview is cut short by Banjo, now a colossal brine shrimp intent on destroying the set._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417947534-sgc2c_9407_dst_cid-9105443.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417947534-sgc2c_9407_dst_cid-9105443.jpg" height="144px" /></a>
-### 322774
-**Space Ghost Coast to Coast S03E15 - Woody Allen's Fall Project**  
-TV-PG 🔓 18:12  
-⌛ July 15, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/woody-allens-fall-project  
-seriesid=`322328` titleid=`322774` id=`vzPyJNTTQhWXc9f4e4gkgg` mediaid=`bd4a7b983afc2ae4534173bdbd4de2995b52035b`  
-_In an apparent tribute to E! Entertainment's well-publicized re-enactments of the O.J. Simpson hearings, viewers are treated to performances of selected "Space Ghost Coast to Coast" moments by the Ghost Planet Dinner Theater Ensemble of Doraville, GA._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417102286-sgc2c_9615_dst_cid-9161145.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417102286-sgc2c_9615_dst_cid-9161145.jpg" height="144px" /></a>
-### 613466
-**Squidbillies S01E01 - This Show Is Called Squidbillies**  
-TV-14-SV 🔓 11:30  
-⌛ August 8, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/this-show-is-called-squidbillies  
-seriesid=`581268` titleid=`613466` id=`gfkJR1BZQbanV9SpCZYxDg` mediaid=`2db045d3f135421d737a4779b5469674fd9c15a2`  
-_Introducing America's favorite animated family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_2048167591-squidbillies_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_2048167591-squidbillies_001.jpg" height="144px" /></a>
-## Video removed
-### Summary
-2003422 Bob's Burgers: 1  
-2013506 Rick and Morty: 9  
+853486 NTSF:SD:SUV::: 5  
 439722 The Venture Bros.: 2  
-581006 American Dad: 2  
-629835 King of the Hill: 1  
-### 2003430
-**Bob's Burgers S01E08 - Art Crawl**  
-TV-14-DL 🔓 21:32  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/art-crawl  
-seriesid=`2003422` titleid=`2003430` id=`Cy0lgbZFSg-5BlAVxPmVlw` mediaid=`7a16bff0a13713f66441a6183cb17dd8f43d3379`  
-_When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152088810105016.jpg" height="144px" /></a>
-### 2060773
-**Rick and Morty S02E09 - Look Who's Purging Now**  
-TV-14-LV 🔓 22:10  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/look-whos-purging-now  
-seriesid=`2013506` titleid=`2060773` id=`7THbVYeFSYaSv3Sp3KJJBw` mediaid=`ce05b6fdc4f246320958b8e662413fcf23e39367`  
-_Morty goofs this time broh and now they gotta chill out and wait. Jerry and Summer explore their father daughter relationship too broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324943208-rickandmorty_210_dup-20150917.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324943208-rickandmorty_210_dup-20150917.jpg" height="144px" /></a>
-### 2270458
-**Rick and Morty S05E01 - Mort Dinner Rick Andre**  
-TV-14-DLSV 🔓 23:54  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/mort-dinner-rick-andre  
-seriesid=`2013506` titleid=`2270458` id=`AXogD4uwDmGy9WFjRrgk` mediaid=`8927f080e956326fa00f39cebd31cb7f5b0da92b`  
-_Big man comin for dinner, broh. Better check the booze._  
-<a href="https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181257488-RickAndMorty_501_MortDinnerRickAndre.png"><img src="https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181257488-RickAndMorty_501_MortDinnerRickAndre.png" height="144px" /></a>
-### 2270459
-**Rick and Morty S05E02 - Mortyplicity**  
-TV-14-DLV 🔓 23:54  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/mortyplicity  
-seriesid=`2013506` titleid=`2270459` id=`AXpEYyttDmGy9WFjRrmZ` mediaid=`24fdd83c3e52ba2cda4a551e1fb016cb325c2d66`  
-_Who's even real, broh? Are you real? Broh?_  
-<a href="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png"><img src="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png" height="144px" /></a>
-### 2424788
-**Rick and Morty S07E09 - Mort: Ragnarick**  
-TV-14-DLSV 🔓 23:53  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/mort-ragnarick  
-seriesid=`2013506` titleid=`2424788` id=`AYxVwfCen_kciGPPrDvu` mediaid=`f620f2129bf3abac7f48ce11dacc99594b132790`  
-_Heaven is for real, broh. I saw it, broh, I swear._  
-<a href="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_2312111657479-AS_RAM_706_MortRagnarick-3.png"><img src="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_2312111657479-AS_RAM_706_MortRagnarick-3.png" height="144px" /></a>
-### 2424792
-**Rick and Morty S07E10 - Fear No Mort**  
-TV-14-DLV 🔓 25:24  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/fear-no-mort  
-seriesid=`2013506` titleid=`2424792` id=`AYxa5vKYn_kciGPPrDw-` mediaid=`ab1682e58f6a5f456673a775bd96a4de309b5635`  
-_Only thing to fear is fear itself, broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_23121117264-AS_RAM_710_FearNoMort-1.png"><img src="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_23121117264-AS_RAM_710_FearNoMort-1.png" height="144px" /></a>
-### 2116835
-**Rick and Morty S03E06 - Rest and Ricklaxation**  
-TV-14-DLV 🔓 22:41  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/rest-and-ricklaxation  
-seriesid=`2013506` titleid=`2116835` id=`l0mb1VFWQZyKBTFeHSWp0A` mediaid=`d5fd883474a2ca704527e7ecee582c57550aca1a`  
-_Rick and Morty need a break in this one broh. Times getting tough._  
-<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324947464-rickandmorty_306_dup-20170823.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324947464-rickandmorty_306_dup-20170823.jpg" height="144px" /></a>
-### 2060772
-**Rick and Morty S02E10 - The Wedding Squanchers**  
-TV-14-DLV 🔓 23:06  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/the-wedding-squanchers  
-seriesid=`2013506` titleid=`2060772` id=`mR_aktoURbqISjtz-matJw` mediaid=`da522d8d94c30ae0ad7b25fe38118ea43ca75481`  
-_Things go ham in this one broh. They all don mussed up this time. The whole family mussed up broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494423-rickandmorty_209_dup-20150929.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494423-rickandmorty_209_dup-20150929.jpg" height="144px" /></a>
-### 2116838
-**Rick and Morty S03E08 - Morty's Mind Blowers**  
-TV-14-DLV 🔓 22:08  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/mortys-mind-blowers  
-seriesid=`2013506` titleid=`2116838` id=`sUCOK3V2SNq46JBhJyzBcQ` mediaid=`90b950976db46c86a99c6d811cca01ad8d3c142c`  
-_Morty's memories are restored and we learn the truth in this one broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324948359-rickandmorty_309_dup-20171002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324948359-rickandmorty_309_dup-20171002.jpg" height="144px" /></a>
-### 2116837
-**Rick and Morty S03E09 - The ABC's of Beth**  
-TV-14-DLSV 🔓 22:21  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/rick-and-morty/the-ab-cs-of-beth  
-seriesid=`2013506` titleid=`2116837` id=`zNy3b46_RBiptb1bQUAJUQ` mediaid=`bcafa5cf59ce943967ad5d2cbcc7247f29f17192`  
-_Jerry pulls in some lady in this one broh. Beth revisits her childhood. hello world_  
-<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494953-rickandmorty_308_dup-20170929.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494953-rickandmorty_308_dup-20170929.jpg" height="144px" /></a>
+547867 Tom Goes To The Mayor: 1  
+### 2069551
+**American Dad S12E20 - Garbage Stan**  
+TV-14-DLV 🔒 21:14  
+⌛ November 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/garbage-stan  
+seriesid=`581006` titleid=`2069551` id=`Psk8BZBXTS6y3k5Dt77-qw` mediaid=`da1212acda5918ad9914d7b8df0cf02de6a26c25`  
+_Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck. Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880430802815.jpg" height="144px" /></a>
+### 2069547
+**American Dad S12E21 - The Talented Mr. Dingleberry**  
+TV-14-DLSV 🔒 21:14  
+⌛ November 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-talented-mr-dingleberry  
+seriesid=`581006` titleid=`2069547` id=`DHxenpZFQmqu9ENjBxxVnQ` mediaid=`0877535adea01a8cbaef98d478cad2a7dbe24c4f`  
+_Roger becomes a marionette and injures other students to help Steve win the school talent show. Stan, Hayley and Klaus start their own local honey business._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg" height="144px" /></a>
+### 2003441
+**Bob's Burgers S02E06 - Dr. Yap**  
+TV-14 🔒 21:32  
+⌛ November 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/dr-yap  
+seriesid=`2003422` titleid=`2003441` id=`mXBWtsgfTi6STJB21Re0nw` mediaid=`a409c80e69cea0e5280555c6aaa2bd0673808013`  
+_Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221627126382.jpg" height="144px" /></a>
+### 2003442
+**Bob's Burgers S02E07 - Moody Foodie**  
+TV-14 🔒 21:21  
+⌛ November 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/moody-foodie  
+seriesid=`2003422` titleid=`2003442` id=`b0-2bYZcRqKxlbALJnVQ8Q` mediaid=`de0de31f26c4729c9c008d62aa3572006f5e6205`  
+_When the restaurant receives a bad review from a food critic, the Belchers fear that the negative press will keep customers away. When Bob shows up at the critic's house for a redo, his plan quickly spirals out of control when the kids and his fellow restaurant owners show up to support him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221632620243.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221632620243.jpg" height="144px" /></a>
+### 2161650
+**Futurama S09E05 - Zapp Dingbat**  
+TV-14-D 🔒 22:35  
+⌛ November 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/zapp-dingbat  
+seriesid=`437532` titleid=`2161650` id=`AYFGKF0d208s7zyYUNFt` mediaid=`e59138f591082f5da0139d45cc965dbe09e06606`  
+_Leela is horrified when her mother begins dating Zapp Brannigan._  
+<a href="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691645323-Futurama_905_ZappDingbat.png"><img src="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691645323-Futurama_905_ZappDingbat.png" height="144px" /></a>
+### 731428
+**King of the Hill S07E09 - Pigmalion**  
+TV-PG-DLV 🔒 24:29  
+⌛ November 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/pigmalion  
+seriesid=`629835` titleid=`731428` id=`QSeaB5kISmKIfWxoZkZguw` mediaid=`264b23ad60b660d692ddf951c564c69593396c4d`  
+_Luanne is wooed by millionaire Trip Larsen... who has bizarre plans for her._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141014341-Pigmalion.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141014341-Pigmalion.png" height="144px" /></a>
+### 963231
+**NTSF:SD:SUV:: S02E01 - 16 Hop Street**  
+TV-14-DLV 🔓 11:14  
+⌛ November 5, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/16-hop-street  
+seriesid=`853486` titleid=`963231` id=`2hjKyhkwRTGc-RdGegPHBQ` mediaid=`7bb0180a9205326325bd30a7c45eb0814bb1e40f`  
+_Trent and Piper go undercover and back to school to figure out who's kidnapping the children of San Diego's elite._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_2031212267-ntsf_205_dup-20160331.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_2031212267-ntsf_205_dup-20160331.jpg" height="144px" /></a>
+### 963234
+**NTSF:SD:SUV:: S02E04 - Lights, Camera, Assassination**  
+TV-14-DV 🔓 11:02  
+⌛ November 5, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/lights-camera-assassination  
+seriesid=`853486` titleid=`963234` id=`BgnDR1n4Rs-2utV3QsWw0g` mediaid=`5555bed7b8b37e0cb6d4cee6d9e0beb4b29eb1a5`  
+_A teen heartthrob rides along with Trent and Alphonse on the case of a brutal killer who likes killing Hollywood directors. Kove starts a podcast._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121313270-ntsf_204_dup-20160330.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121313270-ntsf_204_dup-20160330.jpg" height="144px" /></a>
+### 963233
+**NTSF:SD:SUV:: S02E03 - Sabbath-tage**  
+TV-14-DLSV 🔓 11:12  
+⌛ November 5, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/sabbath-tage  
+seriesid=`853486` titleid=`963233` id=`2eQdRyMJRGeRqv9fajdxZg` mediaid=`3614b69a5f2a14e3a8798dcacc0bef02c0fff765`  
+_A Riddle Terrorist attacks San Diego on a Saturday, and it's up to Sam to stop him before he destroys the city._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131323-ntsf_208_dup-20160412.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312131323-ntsf_208_dup-20160412.jpg" height="144px" /></a>
+### 963232
+**NTSF:SD:SUV:: S02E02 - The Real Bicycle Thief**  
+TV-14-DLV 🔓 11:14  
+⌛ November 5, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/the-real-bicycle-thief  
+seriesid=`853486` titleid=`963232` id=`gZhMoCC4SmygLrcTwREEIA` mediaid=`d76234fc295af0efd982411d94a5be1598629022`  
+_Trent infiltrates the Swedish virtual pedicab bike racing scene to take down a crew of restaurant terrorists._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121312366-ntsf_201_dup-20151020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121312366-ntsf_201_dup-20151020.jpg" height="144px" /></a>
+### 963235
+**NTSF:SD:SUV:: S02E05 - Time Angels**  
+TV-14-DLV 🔓 10:47  
+⌛ November 5, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/ntsf-sd-suv/time-angels  
+seriesid=`853486` titleid=`963235` id=`7XIXTiAVTVmndiqAS1RBeg` mediaid=`3a6125f083489cbcfeebe45bd310ae82f2035ac2`  
+_NTSF teams up with a group of anti terrorism time-travelers from the future here to prevent crimes that haven't happened yet - but will happen in the future._  
+<a href="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121313461-ntsf_206_dup-20160411.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121313461-ntsf_206_dup-20160411.jpg" height="144px" /></a>
 ### 639422
 **The Venture Bros. S02E08 - Fallen Arches**  
 TV-MA 🔓 22:36  
-⌛ November 6, 2024 at 23:59:00 EST  
+⌛ August 27, 2025 at 23:59:00 EDT  
 https://www.adultswim.com/videos/the-venture-bros/fallen-arches  
 seriesid=`439722` titleid=`639422` id=`aSeQ20xiRROg42sKF7MsqA` mediaid=`40a58962ea8d7c59a178aedc85e22fd2365d9edd`  
 _When the Guild of Calamitous Intent finally approves Dr. Orpheus for his very own arch nemesis he calls upon old friends The Alchemist and Jefferson Twilight to resurrect their former super-team, The Order of the Triad.  While they  audition supervillain candidates at the Venture Compound, a jealous Doc isn't about to let Orpheus steal the show. Let loose the Walking Eye!_  
@@ -237,32 +111,79 @@ _When the Guild of Calamitous Intent finally approves Dr. Orpheus for his very o
 ### 639421
 **The Venture Bros. S02E09 - Guess Who's Coming to State Dinner**  
 TV-MA 🔓 22:42  
-⌛ November 6, 2024 at 23:59:00 EST  
+⌛ August 27, 2025 at 23:59:00 EDT  
 https://www.adultswim.com/videos/the-venture-bros/guess-whos-coming-to-state-dinner  
 seriesid=`439722` titleid=`639421` id=`wsr1jxCARlu5Tpd1MPN7nw` mediaid=`67deb4acad30c6f56063e617a2c3052f1504f478`  
 _The mysterious blinking band aid on Bud Manstrong's head might be the key to a mystery only the ghost of Abraham Lincoln and Team Venture can solve._  
 <a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333101-venture_121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161333101-venture_121.jpg" height="144px" /></a>
-### 2069537
-**American Dad S12E06 - Roger's Baby**  
-TV-14 🔓 21:13  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/rogers-baby  
-seriesid=`581006` titleid=`2069537` id=`M1LxpLBLR8qZPNTNON4wTw` mediaid=`82280a4e4ee936c9401bf4a685cb24ed495f6a6e`  
-_Hayley experiences what pregnancy would be like after Roger agrees to give birth to Jeff so he can be human again. Snot's feelings are hurt when Steve secretly signs him up for a makeover._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251542555.jpg" height="144px" /></a>
-### 2069536
-**American Dad S12E05 - Bahama Mama**  
-TV-14 🔓 21:14  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/bahama-mama  
-seriesid=`581006` titleid=`2069536` id=`NGLrMHi2SMaOBw4VfXHxTw` mediaid=`d95100e3314260683fa2de169c26d0f3b9fc962e`  
-_Stan is upset at the idea of becoming a grandfather after Hayley and Jeff announce they're trying to have a baby. Steve and Klaus join a drug gang after Steve decides to take being an uncle extra seriously._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175246934826.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175246934826.jpg" height="144px" /></a>
-### 731405
-**King of the Hill S07E03 - Bad Girls, Bad Girls Watcha Gonna Do?**  
-TV-PG-L 🔓 24:29  
-⌛ November 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/bad-girls-bad-girls-watcha-gonna-do  
-seriesid=`629835` titleid=`731405` id=`W7DdAu0wQxGIo_JQ-OByGQ` mediaid=`db25ebf17b1a4966fc13c1ab09dca14f092fc462`  
-_Connie's delinquent cousin, Tid Pao, wreaks havoc while visiting Arlen._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148519116619.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148519116619.jpg" height="144px" /></a>
+### 607109
+**Tom Goes To The Mayor S01E04 - Rats Off To Ya**  
+TV-PG 🔓 11:40  
+⌛ January 16, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/rats-off-to-ya  
+seriesid=`547867` titleid=`607109` id=`ls1SsyXOSXOf3Jp2Uvqgyg` mediaid=`2995848883f99b05173ce71cb26f881bf53d7d8c`  
+_Tom creates a T-shirt that reads "Rats Off to Ya" for Christmas. It becomes a local phenomenon, but the idea is quickly stolen from Tom by a local novelty store.  Jeff Garlin appears as Pat Croece, the novelty store owner._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835245-tgttm_004.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835245-tgttm_004.jpg" height="144px" /></a>
+## Video removed
+### Summary
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+547867 Tom Goes To The Mayor: 1  
+581006 American Dad: 2  
+629835 King of the Hill: 1  
+### 2003431
+**Bob's Burgers S01E09 - Spaghetti Western and Meatballs**  
+TV-PG-LV 🔒 21:34  
+⌛ November 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/spaghetti-western-and-meatballs  
+seriesid=`2003422` titleid=`2003431` id=`4Hb2eqXGTueest7kArYyDA` mediaid=`6575d178c15c95e042de6fc030daefdecb14fefe`  
+_When Bob and Gene start watching Spaghetti Western films, they wind up alienating Louise. As Gene takes pointers from the films on how to deal with his archrival at school, Tina takes out her aggression and fights her way through a conflict-resolution program._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214839639155.jpg" height="144px" /></a>
+### 2003432
+**Bob's Burgers S01E10 - Burger Wars**  
+TV-PG-DL 🔒 21:33  
+⌛ November 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/burger-wars  
+seriesid=`2003422` titleid=`2003432` id=`q_NTzct-QmCtABt1J6LySQ` mediaid=`7fbe3f232ca2f871b3c8b5c2f7ff27b6e8dadf83`  
+_When Bob's eccentric landlord, Mr. Fischoeder, pays the family a visit, he informs Bob that his rival across the street, Jimmy Pesto of Pesto's Pizzeria, wants to take over Bob's lease so that he can expand his gift shop. With little time and not enough money, the Belcher family must cook up some business or luck to save the restaurant._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148369035519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148369035519.jpg" height="144px" /></a>
+### 2161645
+**Futurama S08E13 - Reincarnation**  
+TV-14-DLV 🔒 22:32  
+⌛ November 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/reincarnation  
+seriesid=`437532` titleid=`2161645` id=`AYDfPYlg208s7zyYUM6r` mediaid=`c77d0d0e045d36a691e3b311a1d75c5894096554`  
+_Futurama is reconceived in three alternate animation styles: classic black-and-white, old-school videogame, and Japanese anime._  
+<a href="https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523132665-Reanimation.png"><img src="https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523132665-Reanimation.png" height="144px" /></a>
+### 639413
+**Tom Goes To The Mayor S02E17 - Friendship Alliance**  
+TV-14-V 🔓 11:13  
+⌛ November 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/friendship-alliance  
+seriesid=`547867` titleid=`639413` id=`AiL8W6G6TD2UJ4S3Tm38pQ` mediaid=`71c1a45015f4dd42434a93cebe3cfdeec5a61d3e`  
+_Tom makes a new friend on the Internet._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958366-tgttm_030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958366-tgttm_030.jpg" height="144px" /></a>
+### 2069540
+**American Dad S12E08 - Whole Slotta Love**  
+TV-14 🔒 21:14  
+⌛ November 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/whole-slotta-love  
+seriesid=`581006` titleid=`2069540` id=`5SnUDAJQT2G2Eit6_-l_HQ` mediaid=`c1bafb27be5e38583b8d32b436b599686950d5b5`  
+_Francine becomes less attracted to Stan when he gets involved with slot car racing. Roger becomes a stewardess to perform comedy routines on the plane but is upset when another stewardess is funnier than him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg" height="144px" /></a>
+### 2069538
+**American Dad S12E07 - Ninety North, Zero West**  
+TV-14 🔒 21:14  
+⌛ November 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/ninety-north-zero-west  
+seriesid=`581006` titleid=`2069538` id=`tws7PtVrRlKyTN3PRz_gKQ` mediaid=`868a7a042d7fcf925d5e4cba70c08cd151f74525`  
+_The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg" height="144px" /></a>
+### 731407
+**King of the Hill S07E04 - Goodbye Normal Jeans**  
+TV-PG-DL 🔒 24:28  
+⌛ November 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/goodbye-normal-jeans  
+seriesid=`629835` titleid=`731407` id=`AnhfzhyKTbq4c69HdOtdNw` mediaid=`81fad92533a485c5cfd900d2d517a2cdab532c85`  
+_Bobby's success in Home Economics wreaks havoc on the Hill household._  
+<a href="https://media.cdn.adultswim.com/uploads/20221115/thumbnails/2_2211151244447-KingOfTheHill_601_GoodbyeNormalJeans.png"><img src="https://media.cdn.adultswim.com/uploads/20221115/thumbnails/2_2211151244447-KingOfTheHill_601_GoodbyeNormalJeans.png" height="144px" /></a>
