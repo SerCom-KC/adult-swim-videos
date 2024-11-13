@@ -215,6 +215,62 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447443900,
+        "auth_expiration_date": 1693540740,
+        "tms_id": "EP007008180043",
+        "rating": 7.7367644,
+        "description": "Early protects menial American jobs from the Mexicans willing to do them.",
+        "title_suggest": {
+            "input": [
+                "The Fine Ol' Solution",
+                "Fine Ol' Solution",
+                "Ol' Solution",
+                "Solution"
+            ]
+        },
+        "type": "episode",
+        "title": "The Fine Ol' Solution",
+        "expiration_date": 1757735940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 681.4671338,
+        "episode_number": "3",
+        "original_air_date": 1243828800,
+        "clip_order": null,
+        "auth_launch_date": 1681531200,
+        "modified": 1731420467,
+        "media_id": "848107540119e23950b8266fb315b863ec552887",
+        "airing_id": "RADS1011122400003212",
+        "id": "3ah_I1c6Q6aBpbgQFaI1lg",
+        "slug": "the-fine-ol-solution",
+        "views": 621931,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131218548-squidbillies_043_bim.jpg",
+        "created": 1402945476,
+        "title_id": "758313",
+        "season_number": "4",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1731420467,
+        "tags": [
+            "squidbillies episode 43 fine ol' solution"
+        ],
+        "rating_count": 1983,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1731474000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131218548-squidbillies_043_bim.jpg",
+        "cma_id": "758313"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447446180,
         "auth_expiration_date": 1693540740,
         "tms_id": "EP007008180076",
