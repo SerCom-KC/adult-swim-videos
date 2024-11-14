@@ -2,65 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1731560340,
-        "tms_id": "EP002070020140",
-        "rating": 8.1203,
-        "description": "Peggy opens her own bookstore, but when she discovers that customers are nonexistent, she reluctantly allows Dale to sublet space so he can sell guns.",
-        "title_suggest": {
-            "input": [
-                "Full Metal Dust Jacket",
-                "Metal Dust Jacket",
-                "Dust Jacket",
-                "Jacket"
-            ]
-        },
-        "type": "episode",
-        "title": "Full Metal Dust Jacket",
-        "expiration_date": 1507519799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1449.6816,
-        "episode_number": "8",
-        "original_air_date": 1234321200,
-        "clip_order": null,
-        "auth_launch_date": 1730955600,
-        "modified": 1730539210,
-        "media_id": "24800e60307cc8d15834b8ba1ed8c8e2c1eb53c5",
-        "airing_id": "RADS1010312400000840",
-        "id": "7n7p-ZzjQhea-sXOvr1_yw",
-        "slug": "full-metal-dust-jacket",
-        "views": 132024,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15214853077302.jpg",
-        "created": 1402945468,
-        "title_id": "731426",
-        "season_number": "7",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1730539210,
-        "tags": [
-            "full metal dust jacket",
-            "peggy",
-            "bookstore",
-            "customers",
-            "dale",
-            "sublet",
-            "guns"
-        ],
-        "rating_count": 133,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506915000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15214853077302.jpg",
-        "cma_id": "1485226"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1732078740,
         "tms_id": "EP002070020144",
         "description": "When Bill falls in love with his blind date Charlene, a hot single mother, Dale's intuition tells him something's wrong; and he meddles in their relationship.",
@@ -280,5 +221,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141014341-Pigmalion.png",
         "cma_id": "731428"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1732165140,
+        "tms_id": "EP002070020145",
+        "description": "After attending couples counseling, Hank and Peggy buy a motorcycle and head for Sturgis, South Dakota to attend a giant biker rally.  But trouble erupts when Hank refuses to allow Peggy to do the driving.",
+        "title_suggest": {
+            "input": [
+                "Queasy Rider",
+                "Rider"
+            ]
+        },
+        "expiration_date": 1507606199,
+        "title": "Queasy Rider",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1451.7837,
+        "episode_number": "13",
+        "original_air_date": 1234580400,
+        "clip_order": null,
+        "auth_launch_date": 1731560400,
+        "modified": 1731142414,
+        "media_id": "0216026b490044ccd81195cb23bb20a2b3fd33a8",
+        "airing_id": "RADS1011082400002596",
+        "id": "lk2kdBiKRye5vDZSCymbww",
+        "slug": "queasy-rider",
+        "views": 6287,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15221628147845.jpg",
+        "created": 1403636580,
+        "season_number": "7",
+        "title_id": "731474",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1731142414,
+        "first_published": 1410315629,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1507001400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221628147845.jpg",
+        "cma_id": "1485803"
     }
 ]
