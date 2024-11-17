@@ -2,18 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 17, 2024 at 04:30:29 EST_
+_Last Update: November 17, 2024 at 05:30:30 EST_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2012531
-**Blue Exorcist S01E03 - Brothers**  
-TV-14-LV 🔒 22:00  
-⌛ June 1, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/brothers  
-seriesid=`2012528` titleid=`2012531` id=`IsW7SVH2TR6AHDMR3mfITA` mediaid=`49e389bd647ddce4faf1186fb41ee2a8cf965a27`  
-_Vowing to become an exorcist, Rin is taken to True Cross Academy by the mysterious Mephisto, a friend of Shiro's. The colossal, fortress-like school; Yukio at the top of the class - it's all so mind-boggling for Rin!
-Later, Rin heads to the Exorcist Cram School, as Mephisto warns: "No one can know that you're the son of Satan."_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_003_pt2-03.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_003_pt2-03.jpg" height="144px" /></a>
+608007 One Piece: 1  
+### 2435763
+**One Piece S17E?? - Invincible! A Gruesome Army of Headcracker Dolls!**  
+TV-PG-LV 🔒 22:04  
+⌛ December 8, 2024 at 04:59:00 EST  
+https://www.adultswim.com/videos/one-piece/invincible-a-gruesome-army-of-headcracker-dolls  
+seriesid=`608007` titleid=`2435763` id=`AZMdfZVVJ6hTPa_yiN-P` mediaid=`1067212152a40b0d5519fd78c61cb23ca1242844`  
+_Robin, Rebecca, and Bartolomeo draw closer to the Flower Field on the fourth level of the Royal Palace plateau, but a sudden attack by Gladius' exploding spheres sends Robin and Bartolomeo hurtling towards the level below._  
 ## Video removed
 No videos were removed.  
