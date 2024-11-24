@@ -2,174 +2,121 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 23, 2024 at 00:00:43 EST_
+_Last Update: November 24, 2024 at 00:00:29 EST_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 2003422 Bob's Burgers: 2  
-2031611 Dragon Ball Z Kai: 1  
 437532 Futurama: 1  
+2409990 Invincible Fight Girl: 1  
 629835 King of the Hill: 1  
-2530043 Psi-Cops: 1  
-322328 Space Ghost Coast to Coast: 1  
-### 2186651
-**American Dad S14E02 - I Am The Jeans: The Gina Lavetti Story**  
+### 2186654
+**American Dad S14E05 - Jeff and the Dank Ass Weed Factory**  
 TV-14-DLV 🔒 21:02  
-⌛ November 29, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/i-am-the-jeans-the-gina-lavetti-story  
-seriesid=`581006` titleid=`2186651` id=`AWjyUKXnHl5gR6828yeL` mediaid=`a295465726db5a96b4c3e6f3ce151fbf0a9539b1`  
+⌛ November 30, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/jeff-and-the-dank-ass-weed-factory  
+seriesid=`581006` titleid=`2186654` id=`AXHhHOCBC8QgH-t19Irb` mediaid=`022551a4b3c53d8870bea9672d2dbf06cb59f0c3`  
 _A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg" height="144px" /></a>
-### 2186652
-**American Dad S14E03 - Stan & Francine & Connie & Ted**  
-TV-14-DLSV 🔒 21:02  
-⌛ November 29, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/stan-francine-connie-ted  
-seriesid=`581006` titleid=`2186652` id=`AWjyT5XbAScUIg8XxdOE` mediaid=`5fa6fc2b56f1f6cb2eaa2c01406cb0f8f8822215`  
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514515-americandad_1305_air_cid-3W4MY.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514515-americandad_1305_air_cid-3W4MY.jpg" height="144px" /></a>
+### 2186653
+**American Dad S14E04 - Rabbit Ears**  
+TV-14-L 🔒 21:02  
+⌛ November 30, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/rabbit-ears  
+seriesid=`581006` titleid=`2186653` id=`AWlKnTxTHl5gR6828yqj` mediaid=`8c82fe0846f1bf0ef9182a0f0f16c9352bde8b8f`  
 _A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg" height="144px" /></a>
-### 2003530
-**Bob's Burgers S03E19 - Family Fracas**  
-TV-PG 🔒 21:30  
-⌛ November 29, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/family-fracas  
-seriesid=`2003422` titleid=`2003530` id=`x_pBEtntRmy63BcgzbNs6w` mediaid=`57c069252810931127d487bc3ed4f4c412abdeac`  
-_After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show "Family Fracas!" To the dismay of the program's host, they keep winning and coming back each night - that is, until their lucky streak comes to a suspicious end._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085661885510.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085661885510.jpg" height="144px" /></a>
-### 2003531
-**Bob's Burgers S03E20 - The Kids Run the Restaurant**  
-TV-14 🔒 21:29  
-⌛ November 29, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-kids-run-the-restaurant  
-seriesid=`2003422` titleid=`2003531` id=`xXhbXgStQBmYQ3FeQ7Sm4Q` mediaid=`dbf53cae00ad8e515fcd15b5d88cdd663abb2cc8`  
-_After Bob cuts his finger and faints at the sight of his own blood, Linda brings him to the hospital and leaves the kids home alone. Not ones to waste a golden opportunity, Tina, Gene and Louise transform the basement of the restaurant into a makeshift casino. But they get more than they gamble for when landlord Mr. Fischoeder stops by and catches them in action._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566392962.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566392962.jpg" height="144px" /></a>
-### 2031644
-**Dragon Ball Z Kai S01E33 - Full Power, Goku! Captain Ginyu's Desperate Attack!**  
-TV-PG-LV 🔓 21:35  
-⌛ December 13, 2024 at 17:59:00 EST  
-https://www.adultswim.com/videos/dragon-ball-z-kai/full-power-goku-captain-ginyus-desperate-attack  
-seriesid=`2031611` titleid=`2031644` id=`8vHVRh40RLinBVv1KazrzQ` mediaid=`511e8d76b9473b681ee6692d6d2d0311a04473de`  
-_Frieza locates the Eldest Namekian, but Nail intercepts the evil entity, risking his own life to preserve the Dragon Balls. Elsewhere, Gohan and Krillin rescue a damsel from some dinosaurs, and Goku continues his battle with Captain Ginyu._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/full-power-goku-captain-ginyus-desperate-attack/dragonballzkai_cc_033_pt1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/full-power-goku-captain-ginyus-desperate-attack/dragonballzkai_cc_033_pt1.jpg" height="144px" /></a>
-### 2161662
-**Futurama S10E04 - Forty Percent Leadbelly**  
-TV-14-DLSV 🔒 22:44  
-⌛ November 29, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/forty-percent-leadbelly  
-seriesid=`437532` titleid=`2161662` id=`AYIbm8ye3sQvipyea9fv` mediaid=`92426840d28547e0eebbbc3bb0cb4cef110453bb`  
-_At a maximum security prison, Bender meets a famous folk singer and attempts to make a copy of his precious guitar._  
-<a href="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_2272083625-Futurama_1004_FortyPercentLeadbelly.png"><img src="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_2272083625-Futurama_1004_FortyPercentLeadbelly.png" height="144px" /></a>
-### 731487
-**King of the Hill S07E20 - Racist Dawg**  
-TV-PG-L 🔒 24:09  
-⌛ November 29, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/racist-dawg  
-seriesid=`629835` titleid=`731487` id=`MYZ7f4dhSPiStWMyTErbaw` mediaid=`44b81fea5bce78f4f8cf4a7eb2f6b337f764ed9e`  
-_When Ladybird attacks an African-American repairman, Hank comes to believe that he is a racist._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216432331214.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216432331214.jpg" height="144px" /></a>
-### 2530048
-**Psi-Cops S01E05 - Small Townies**  
-TV-MA-V 🔒 11:00  
-⌛ December 27, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/psi-cops/small-townies  
-seriesid=`2530043` titleid=`2530048` id=`AZDCmWQ7g6zBH7G86tgr` mediaid=`573cc786159741f9c68277450d956a704ade59f5`  
-_The Psi Cops Duo explore small town living, cars that crash into nothing, and meet the charming locals like Old Bill…. and Old Bill…. and…Old Bill…_  
-<a href="https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_2472293596-PSICOPS_SEASON1_EP105_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDFELIXXDEADPOLICEMANINTRUNK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_2472293596-PSICOPS_SEASON1_EP105_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDFELIXXDEADPOLICEMANINTRUNK.jpg" height="144px" /></a>
-### 322355
-**Space Ghost Coast to Coast S04E03 - Edelweiss**  
-TV-PG 🔓 12:03  
-⌛ August 5, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/edelweiss  
-seriesid=`322328` titleid=`322355` id=`9R-50kToSPK0QDH5dhjymw` mediaid=`b5deff72e12a7ba7bd8485cd4b32a57037c13194`  
-_Zorak is zapped until he can apparently no longer regenerate, leaving Space Ghost without a bandleader. Moltar is instructed to fill in for his dearly departed friend by singing renditions of German folk songs, which puts Beck, the show's lone guest, to sleep._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417104289-sgc2c_9703_dst_cid-9128089.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417104289-sgc2c_9703_dst_cid-9128089.jpg" height="144px" /></a>
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514235-americandad_1304_air_cid-3W0VV.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514235-americandad_1304_air_cid-3W0VV.jpg" height="144px" /></a>
+### 2003532
+**Bob's Burgers S03E21 - Boyz 4 Now**  
+TV-14 🔒 21:14  
+⌛ November 30, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/boyz-4-now  
+seriesid=`2003422` titleid=`2003532` id=`gtRZo4IdTRmH_yZVYJEfPw` mediaid=`14eb907f07e59045536435cb58e0cefe511bf4cc`  
+_While accompanying Tina to a "Boyz 4 Now" concert, Louise develops a crush on one of the lead singers, Boo Boo - and is in disbelief that she actually likes a boy! Meanwhile, Gene gets creative - and slightly offensive - in a table-setting competition._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566624153.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108566624153.jpg" height="144px" /></a>
+### 2003533
+**Bob's Burgers S03E22 - Carpe Museum**  
+TV-14 🔒 21:15  
+⌛ November 30, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/carpe-museum  
+seriesid=`2003422` titleid=`2003533` id=`h-8I3clIQR2tn_K2jbkuMg` mediaid=`8e674d0188137794e2f77427f47ae40e6816f65b`  
+_While acting as a parent chaperone on the school's trip to the museum, Bob has a father- daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy. Also, Tina questions her dorkiness; and on the steps of the museum, Linda lends her unique chanting abilities to striking museum workers._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151085671641218.jpg" height="144px" /></a>
+### 2161663
+**Futurama S10E05 - The Inhuman Torch**  
+TV-14-DL 🔒 22:32  
+⌛ November 30, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/the-inhuman-torch  
+seriesid=`437532` titleid=`2161663` id=`AYIbnEx9IAxeiVkFtLQh` mediaid=`797bdfa1e1a420f9af2867dd54ce594cf1ed6c34`  
+_Bender becomes a famous firefighter, but the crew suspects him of arson._  
+<a href="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720836356-Futurama_1005_TheInhumanTouch.png"><img src="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720836356-Futurama_1005_TheInhumanTouch.png" height="144px" /></a>
+### 2409992
+**Invincible Fight Girl S01E05 - The Perfect Strike**  
+TV-PG-V 🔒 22:35  
+⌛ December 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/invincible-fight-girl/the-perfect-strike  
+seriesid=`2409990` titleid=`2409992` id=`AZLoZB5cJ6hTPa_yiN8O` mediaid=`6336aeadb3b5198c40028210ffeba7bf0ac858cf`  
+_Poblana will teach Andy under one condition: Andy must perform 10 Perfect Strikes in one week's time. The task is difficult and the team is desperate._  
+<a href="https://media.cdn.adultswim.com/uploads/20241101/thumbnails/2_241111140541-IFGL-105-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241101/thumbnails/2_241111140541-IFGL-105-1920x1080.jpg" height="144px" /></a>
+### 731488
+**King of the Hill S07E21 - Night and Deity**  
+TV-PG-DL 🔒 24:09  
+⌛ November 30, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/night-and-deity  
+seriesid=`629835` titleid=`731488` id=`Sbn1PdMQTQK5HJekwLVZdQ` mediaid=`3a274d638579f92be9911def58a863eaa23227ba`  
+_Dale meets the woman of his dreams when the neighborhood becomes infested with pigeons; Hank serves as Luanne's designated driver on her birthday... only to end up getting drunk._  
+<a href="https://media.cdn.adultswim.com/uploads/20220128/thumbnails/2_22128151310-KingOfTheHill_716_NightAndDeity.png"><img src="https://media.cdn.adultswim.com/uploads/20220128/thumbnails/2_22128151310-KingOfTheHill_716_NightAndDeity.png" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
-2398940 Housing Complex C: 1  
-2530043 Psi-Cops: 1  
 437532 Futurama: 1  
 581006 American Dad: 2  
-581268 Squidbillies: 2  
 629835 King of the Hill: 1  
-### 2003521
-**Bob's Burgers S03E10 - Mother Daughter Laser Razor**  
-TV-PG 🔒 21:30  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/mother-daughter-laser-razor  
-seriesid=`2003422` titleid=`2003521` id=`RNMHcG_NQnaimkMIInNOHA` mediaid=`ec0c202d5a8f2ae074e11c7fb693c3ecec6e033a`  
-_Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277440357314.jpg" height="144px" /></a>
-### 2003520
-**Bob's Burgers S03E09 - Bob Rest Ye Merry Gentle-Mannequins**  
-TV-14 🔒 21:34  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/bob-rest-ye-merry-gentle-mannequins  
-seriesid=`2003422` titleid=`2003520` id=`rb0V_DCfQ56EGAfl6B9Fkg` mediaid=`dff26d7752896c519bd34b3435d7c2deb8fdd4b9`  
-_Bob inherits a storage unit, and the whole family imagines it's filled with treasures. Instead, they find a man named Chet living inside. Linda, feeling the holiday spirit, persuades Bob to invite Chet to stay at the restaurant. It's discovered that this stranger, who claims he was once a mannequin, has a gift for intricate and living window displays. With the restaurant decked out in holiday cheer, the Christmas spirit is in the air._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg" height="144px" /></a>
-### 2398942
-**Housing Complex C S01E02 - Mismatched Buttons**  
-TV-MA 🔓 25:00  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/housing-complex-c/mismatched-buttons  
-seriesid=`2398940` titleid=`2398942` id=`AYOjWsCg3sQvipyea-hf` mediaid=`bd3960b2a3f177adf4196c0e77550386e749d10f`  
-_Kimi wants to get along with the other new residents, and hopes a party will help break the ice. What better way than a shaved ice party? But there's something odd in the syrup…_  
-<a href="https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_22104101660-HousingComplexC_102_MismatchedButtons.png"><img src="https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_22104101660-HousingComplexC_102_MismatchedButtons.png" height="144px" /></a>
-### 2530056
-**Psi-Cops S01E24 - The Cave - Part 2**  
-TV-MA-SV 🔒 11:00  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/psi-cops/the-cave-part-2  
-seriesid=`2530043` titleid=`2530056` id=`AZIBLGvSSaru9Cdsy8C2` mediaid=`a318cc52bc72b1cc87e8c7ad6a928391d563fe59`  
-_Kydd and Felixx learn that the most important tool for a Psi Cop is rope. Tons and tons of rope._  
-<a href="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161114265-PSICOPS_SEASON1_EP124_SHOWSTILLS_IMAGE4_LEFTTORIGHT_KYDDFELIXXOILED.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161114265-PSICOPS_SEASON1_EP124_SHOWSTILLS_IMAGE4_LEFTTORIGHT_KYDDFELIXXOILED.jpg" height="144px" /></a>
-### 2161656
-**Futurama S09E12 - 31st Century Fox**  
-TV-14-D 🔒 22:32  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/31st-century-fox  
-seriesid=`437532` titleid=`2161656` id=`AYGrlx83208s7zyYUNR7` mediaid=`bbc67cf194405570b2a7af6a3f945540cce01274`  
-_After saving a robotic fox from hunters, Bender becomes the hunted._  
-<a href="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281433292-Futurama_911_31stCenturyFox.png"><img src="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281433292-Futurama_911_31stCenturyFox.png" height="144px" /></a>
-### 2069565
-**American Dad S13E12 - OreTron Trail**  
-TV-14-DLV 🔒 21:03  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/ore-tron-trail  
-seriesid=`581006` titleid=`2069565` id=`AWqxHynKCorLtcgflqW9` mediaid=`8de704e6174b2e88144012149e47b35af5df0c05`  
-_Roger becomes worried about outliving the family. Klaus opens a convenience store in the attic._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg" height="144px" /></a>
-### 2069566
-**American Dad S13E13 - Mean Francine**  
-TV-14-DLV 🔒 21:03  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/mean-francine  
-seriesid=`581006` titleid=`2069566` id=`AWrGc2RCCorLtcgflqgM` mediaid=`1be2e6cab939c9cadb8a0eeaaae7dc84e7a83f99`  
-_Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat._  
-<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg" height="144px" /></a>
-### 626852
-**Squidbillies S01E05 - Family Trouble**  
-TV-14-DLV 🔓 11:27  
-⌛ November 22, 2024 at 23:59:59 EST  
-https://www.adultswim.com/videos/squidbillies/family-trouble  
-seriesid=`581268` titleid=`626852` id=`IURw_-bmQKW5S4xpSeRHMg` mediaid=`538f432a5b8d7a5e5d7b264b738cb2faaf211701`  
-_Revelations regarding Rusty's maternity lead to questions regarding Rusty's paternity._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612367-squidbillies_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612367-squidbillies_005.jpg" height="144px" /></a>
-### 2006889
-**Squidbillies S08E09 - Gun of a Son**  
-TV-14-LV 🔓 11:13  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/gun-of-a-son  
-seriesid=`581268` titleid=`2006889` id=`NgEtP707RUqQLrWY8pUK3A` mediaid=`6d0b27d1bacdb84e0752cddf06e134161d81d7f0`  
-_Early shoots Rusty to prove that guns should be legal._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414114465-squidbillies_710_dup-20131021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414114465-squidbillies_710_dup-20131021.jpg" height="144px" /></a>
-### 731482
-**King of the Hill S07E15 - An Officer and a Gentle Boy**  
-TV-PG 🔒 24:10  
-⌛ November 22, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/an-officer-and-a-gentle-boy  
-seriesid=`629835` titleid=`731482` id=`91IoAdzATpKHgHzFdg2ZMg` mediaid=`f830b3d368f684a46e7b9b7437023fc2fa4e2a9d`  
-_When Bobby repeatedly disobeys Hank, he is forced to attend the same boot camp Cotton went to in his youth.  But to Cotton's horror, the once draconian facility now mollycoddles its cadets._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221642275538.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221642275538.jpg" height="144px" /></a>
+### 2003522
+**Bob's Burgers S03E11 - Nude Beach**  
+TV-14 🔒 21:33  
+⌛ November 23, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/nude-beach  
+seriesid=`2003422` titleid=`2003522` id=`-iEHRbHnQaKmCbMl2ZZQeQ` mediaid=`4d479a4000b4c5f006811ad5bb56110aedb5ec29`  
+_Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg" height="144px" /></a>
+### 2003523
+**Bob's Burgers S03E12 - Broadcast Wagstaff School News**  
+TV-PG 🔒 21:21  
+⌛ November 23, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/broadcast-wagstaff-school-news  
+seriesid=`2003422` titleid=`2003523` id=`3adw46_sRxC-g9TyOb1S4g` mediaid=`be966cc7c474aa02e26265d58d7bfe21786f3bdc`  
+_There is a "Mad Pooper" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the "bottom" of the situation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg" height="144px" /></a>
+### 2161658
+**Futurama S09E13 - Naturama**  
+TV-14-DLSV 🔒 22:40  
+⌛ November 23, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/naturama  
+seriesid=`437532` titleid=`2161658` id=`AYHVaDU2IAxeiVkFtLQO` mediaid=`afd277759f1b347f08fdc4836cbfa379fbe24f6c`  
+_Bender and the crew are reimagined as wild animals in a nature documentary._  
+<a href="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726147-Futurama_913_Naturama.png"><img src="https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726147-Futurama_913_Naturama.png" height="144px" /></a>
+### 2069567
+**American Dad S13E14 - One-Woman Swole**  
+TV-14-DLSV 🔒 21:13  
+⌛ November 23, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/one-woman-swole  
+seriesid=`581006` titleid=`2069567` id=`AWT2gyOXTdxzjxdCnOX6` mediaid=`9c370cdb6f87dad064899b75c01cbcd11c84b6e0`  
+_After her family accuses her of being a quitter, Francine becomes a bodybuilder. Klaus claims to have invented the high five._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg" height="144px" /></a>
+### 2069568
+**American Dad S13E15 - Flavortown**  
+TV-14-DLS 🔒 21:14  
+⌛ November 23, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/flavortown  
+seriesid=`581006` titleid=`2069568` id=`AWVZA_KPh5enQuYyHe9I` mediaid=`ceb984b8952cb51ed21899f512ff35923dcb7790`  
+_While in search of an identity, Jeff starts hanging out with Stan's favorite celebrity chef. Klaus gets an exciting new outfit._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg" height="144px" /></a>
+### 731483
+**King of the Hill S07E16 - The Miseducation of Bobby Hill**  
+TV-PG-L 🔒 24:05  
+⌛ November 23, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/the-miseducation-of-bobby-hill  
+seriesid=`629835` titleid=`731483` id=`Wdtk4ju2TV20hcG1HMHReg` mediaid=`5a3c9bad5b1c201192e61a4027a08445863eb5dc`  
+_When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy-with impressive results; Bill sails away in a lawn chair tied to weather balloons; Peggy worries that the liver cleanser she purchased is poisoning her._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216425150110.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216425150110.jpg" height="144px" /></a>
