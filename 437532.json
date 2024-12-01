@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1733029140,
-        "tms_id": "EP003034830146",
-        "description": "Bender becomes a famous firefighter, but the crew suspects him of arson.",
-        "title_suggest": {
-            "input": [
-                "The Inhuman Torch",
-                "Inhuman Torch",
-                "Torch"
-            ]
-        },
-        "title": "The Inhuman Torch",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "5",
-        "original_air_date": "1658712600",
-        "auth_launch_date": 1732424400,
-        "clip_order": null,
-        "airing_id": "RADS1011182400003849",
-        "media_id": "797bdfa1e1a420f9af2867dd54ce594cf1ed6c34",
-        "modified": 1731996095,
-        "slug": "the-inhuman-torch",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/1_22720836356-Futurama_1005_TheInhumanTouch.png",
-        "created": 1658320604,
-        "season_number": "10",
-        "title_id": "2161663",
-        "tv_rating": "tv-14-dl",
-        "published": 1731996095,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720836356-Futurama_1005_TheInhumanTouch.png",
-        "id": "AYIbnEx9IAxeiVkFtLQh",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1733115540,
         "tms_id": "EP003034830148",
         "description": "Bender goes grave robbing to bring his favorite actor back to life.",
@@ -228,6 +182,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png",
         "id": "AYJfdRLqIAxeiVkFtLQ0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1733633940,
+        "tms_id": "EP003034830151",
+        "description": "The crew journeys into Fry's dreams to seek the meaning of a mysterious alien melody.",
+        "title_suggest": {
+            "input": [
+                "Game of Tones",
+                "of Tones",
+                "Tones"
+            ]
+        },
+        "title": "Game of Tones",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "10",
+        "original_air_date": "1660525200",
+        "auth_launch_date": 1733029200,
+        "clip_order": null,
+        "airing_id": "RADS1011252400004633",
+        "media_id": "bf3dc37a4d95e5de94d81fe5252b0ac367df9fe6",
+        "modified": 1732618139,
+        "slug": "game-of-tones",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_22891351538-Futurama_1010_GameOfTomes.png",
+        "created": 1660067523,
+        "season_number": "10",
+        "title_id": "2161668",
+        "tv_rating": "tv-14-dl",
+        "published": 1732618139,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891351538-Futurama_1010_GameOfTomes.png",
+        "id": "AYKDvCruIAxeiVkFtLRU",
         "auth": true
     }
 ]

@@ -176,7 +176,7 @@
         "launch_date": 1733029200,
         "poster": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/2_24116170260-IFGL-103-1920x1080.png",
         "id": "AZLoVqGeJ6hTPa_yiN8L",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1733633940,
@@ -270,6 +270,57 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241101/thumbnails/2_241111140541-IFGL-105-1920x1080.jpg",
         "id": "AZLoZB5cJ6hTPa_yiN8O",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1734843540,
+        "tms_id": "",
+        "description": "In search of those who hold the secret to the Perfect Strike, Andy and her friends are caught in a town divided by grudges and differing philosophies.",
+        "title_suggest": {
+            "input": [
+                "Behind the Wall: The Finger & the Toe",
+                "the Wall: The Finger & the Toe",
+                "Wall: The Finger & the Toe",
+                "The Finger & the Toe",
+                "Finger & the Toe",
+                "& the Toe",
+                "the Toe",
+                "Toe"
+            ]
+        },
+        "title": "Behind the Wall: The Finger & the Toe",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZLFrY6SCjvsJgIeV__X",
+        "duration": 1355.3873,
+        "episode_number": "6",
+        "original_air_date": "1733029200",
+        "auth_launch_date": 1733029200,
+        "clip_order": null,
+        "airing_id": "RADS1011252400004645",
+        "media_id": "a6ff596a5816f1ff0a2e86eb35f3cbd8be784ab1",
+        "modified": 1732602528,
+        "slug": "behind-the-wall-the-finger-the-toe",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/1_2411617162-IFGL-106-1920x1080.png",
+        "created": 1730475765,
+        "season_number": "1",
+        "title_id": "2409997",
+        "tv_rating": "tv-pg-v",
+        "published": 1732602528,
+        "tags": [],
+        "collection_title": "Invincible Fight Girl",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/2_2411617162-IFGL-106-1920x1080.png",
+        "id": "AZLoZK_bIFyXXN-f0MsC",
         "auth": true
     }
 ]
