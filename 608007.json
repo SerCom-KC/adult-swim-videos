@@ -248,7 +248,7 @@
         "launch_date": 1732442400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/2_241241523589-aslogothumbnail.png",
         "id": "AZLVHDkVDT7oKsPdFfa3",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1733651940,
@@ -298,7 +298,7 @@
         "launch_date": 1733652000,
         "poster": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/2_241241617388-aslogothumbnail.png",
         "id": "AZMdfZVVJ6hTPa_yiN-P",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1734256740,
@@ -400,6 +400,59 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/2_241241626567-aslogothumbnail.png",
         "id": "AZNkAGo8J6hTPa_yiOAv",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1735466340,
+        "tms_id": "",
+        "description": "Usopp uses Viola's Clairvoyance to prepare his ammunition to take Sugar out! But the slightest hesitation now will spell disaster -- and the end of Luffy!",
+        "title_suggest": {
+            "input": [
+                "One Shot One Kill! The Man Who Will Save Dressrosa!",
+                "Shot One Kill! The Man Who Will Save Dressrosa!",
+                "One Kill! The Man Who Will Save Dressrosa!",
+                "Kill! The Man Who Will Save Dressrosa!",
+                "The Man Who Will Save Dressrosa!",
+                "Man Who Will Save Dressrosa!",
+                "Who Will Save Dressrosa!",
+                "Will Save Dressrosa!",
+                "Save Dressrosa!",
+                "Dressrosa!"
+            ]
+        },
+        "title": "One Shot One Kill! The Man Who Will Save Dressrosa!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1324.2562,
+        "episode_number": "69",
+        "original_air_date": "1733639400",
+        "auth_launch_date": 1733652000,
+        "clip_order": null,
+        "airing_id": "RADS1012032400006544",
+        "media_id": "e460eac5fd501e264c79f495b6ad1fa7ac080064",
+        "modified": 1733356707,
+        "slug": "one-shot-one-kill-the-man-who-will-save-dressrosa",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/1_24124163008-aslogothumbnail.png",
+        "created": 1732556617,
+        "season_number": "17",
+        "title_id": "2435766",
+        "tv_rating": "tv-pg",
+        "published": 1733356707,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/2_24124163008-aslogothumbnail.png",
+        "id": "AZNka_kRJ6hTPa_yiOAx",
         "auth": true
     }
 ]
