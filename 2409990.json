@@ -224,7 +224,7 @@
         "launch_date": 1733634000,
         "poster": "https://media.cdn.adultswim.com/uploads/20241101/thumbnails/2_241111138448-IFGL-104-1920x1080.jpg",
         "id": "AZLoYoVXJ6hTPa_yiN8N",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1734238740,
@@ -321,6 +321,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/2_2411617162-IFGL-106-1920x1080.png",
         "id": "AZLoZK_bIFyXXN-f0MsC",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1735448340,
+        "tms_id": "",
+        "description": "Andy battles Bertie and learns the truth about her motivations while Craig and Mikey try to stop Ruff and Tumble from destroying Rumbleweed.",
+        "title_suggest": {
+            "input": [
+                "Bertie Unbound",
+                "Unbound"
+            ]
+        },
+        "title": "Bertie Unbound",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZLFrY6SCjvsJgIeV__X",
+        "duration": 1348.0468,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1733634000,
+        "clip_order": null,
+        "airing_id": "RADS1012022400006120",
+        "media_id": "159c008bb9a3b166eec073dabca193d3f2ef2b77",
+        "modified": 1733357927,
+        "slug": "bertie-unbound",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/1_24116171517-IFGL-107-1920x1080.png",
+        "created": 1730475827,
+        "season_number": "1",
+        "title_id": "2409996",
+        "tv_rating": "tv-pg-v",
+        "published": 1733357927,
+        "tags": [],
+        "collection_title": "Invincible Fight Girl",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/2_24116171517-IFGL-107-1920x1080.png",
+        "id": "AZLoZaLKJ6hTPa_yiN8P",
         "auth": true
     }
 ]
