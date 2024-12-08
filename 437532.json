@@ -136,52 +136,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1733633940,
-        "tms_id": "EP003034830151",
-        "description": "The crew journeys into Fry's dreams to seek the meaning of a mysterious alien melody.",
-        "title_suggest": {
-            "input": [
-                "Game of Tones",
-                "of Tones",
-                "Tones"
-            ]
-        },
-        "title": "Game of Tones",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "10",
-        "original_air_date": "1660525200",
-        "auth_launch_date": 1733029200,
-        "clip_order": null,
-        "airing_id": "RADS1011252400004633",
-        "media_id": "bf3dc37a4d95e5de94d81fe5252b0ac367df9fe6",
-        "modified": 1732618139,
-        "slug": "game-of-tones",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/1_22891351538-Futurama_1010_GameOfTomes.png",
-        "created": 1660067523,
-        "season_number": "10",
-        "title_id": "2161668",
-        "tv_rating": "tv-14-dl",
-        "published": 1732618139,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891351538-Futurama_1010_GameOfTomes.png",
-        "id": "AYKDvCruIAxeiVkFtLRU",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1733720340,
         "tms_id": "EP003034830152",
         "description": "The crew becomes trapped aboard ship with a horrific alien creature.",
@@ -227,6 +181,40 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891353139-Futurama_1011_MurderOnThePlanetExpress.png",
         "id": "AYKDvV7YIAxeiVkFtLRV",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1734238740,
+        "created": 1665776805,
+        "tms_id": "EP003034830002",
+        "title_id": "437534",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "description": "Fry and Leela deliver a package to an amusement park on the moon.",
+        "title_suggest": {
+            "input": [
+                "The Series Has Landed",
+                "Series Has Landed",
+                "Has Landed",
+                "Landed"
+            ]
+        },
+        "published": 1733212035,
+        "title": "The Series Has Landed",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.3344,
+        "episode_number": "2",
+        "collection_title": "Futurama",
+        "original_air_date": 1042516800,
+        "auth_launch_date": 1733634000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1012022400006096",
+        "media_id": "3863dd245c040c896de5bcd42f2bc5f40a3f5b69",
+        "modified": 1733212035,
+        "slug": "the-series-has-landed",
+        "id": "AYPYCOYW3sQvipyea-pR",
         "auth": true
     }
 ]

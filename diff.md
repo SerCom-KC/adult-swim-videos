@@ -2,165 +2,147 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 7, 2024 at 00:30:13 EST_
+_Last Update: December 8, 2024 at 00:30:14 EST_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 2003422 Bob's Burgers: 2  
 437532 Futurama: 1  
+2409990 Invincible Fight Girl: 1  
 629835 King of the Hill: 1  
-2530043 Psi-Cops: 1  
-### 2197408
-**American Dad S15E05 - Into the Woods**  
+895948 The Eric Andre Show: 1  
+### 2197411
+**American Dad S15E07 - Exquisite Corpses**  
  🔒 21:03  
-⌛ December 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/into-the-woods  
-seriesid=`581006` titleid=`2197408` id=`AXb4GvJ1QJ_4Uej5kTlI` mediaid=`2fa7384d95353d80de36b0b302296e36edbb6fdf`  
-_When Stan sees a middle-school classmate, he feels compelled to right an old wrong; Roger feels a cold coming on._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_21112143813-americandad_1404_air_cid-C5RFW-IntoTheWoods.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_21112143813-americandad_1404_air_cid-C5RFW-IntoTheWoods.jpg" height="144px" /></a>
-### 2197410
-**American Dad S15E06 - One Fish, Two Fish**  
+⌛ December 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/exquisite-corpses  
+seriesid=`581006` titleid=`2197411` id=`AXb4G8ksQJ_4Uej5kTlK` mediaid=`df16e75f57b20352153efac4211689cb62969606`  
+_Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results!_  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg" height="144px" /></a>
+### 2197414
+**American Dad S15E08 - Trophy Wife, Trophy Life**  
  🔒 21:03  
-⌛ December 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/one-fish-two-fish  
-seriesid=`581006` titleid=`2197410` id=`AXb4G3loQJ_4Uej5kTlJ` mediaid=`a851332072a0fe37b685886374ecd869b7f926e9`  
-_Hayley takes extreme measures to help Klaus from being deported while the rest of the family tries to open a coconut._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438357-americandad_1406_air_cid-C5RMX-OneFishTwoFish.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438357-americandad_1406_air_cid-C5RMX-OneFishTwoFish.jpg" height="144px" /></a>
-### 2030318
-**Bob's Burgers S04E17 - Equestranauts**  
- 🔒 21:31  
-⌛ December 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/equestranauts  
-seriesid=`2003422` titleid=`2030318` id=`hPy1osc9S_W4WkpbPKsFNg` mediaid=`8ed6ad78cda195fae6b0cd973c5b071f421a4815`  
-_In homage to the “Bronies” subculture, Tina attends her first Equestra-Con, a convention based on her favorite animated pony show, “The Equestranauts.” To her surprise, she finds that the show’s fans are middle-aged men (called “Equesticles”). When a powerful super-fan tricks Tina out of her rare toy pony, it’s up to Bob to go undercover to get it back._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803242762113.jpg" height="144px" /></a>
-### 2030313
-**Bob's Burgers S04E16 - I Get Psy-Chic Out of You**  
- 🔒 21:31  
-⌛ December 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/i-get-psy-chic-out-of-you  
-seriesid=`2003422` titleid=`2030313` id=`PATNtAZjTY2f8wWbi5TMAQ` mediaid=`a8d3479b3a2e847c16a158f165eced4c49bbb0e4`  
-_After predicting that a telemarketer is calling the restaurant when the phone rings, Linda and the kids believe that she is a psychic. Needless to say, her "predictions" irk Bob and spell out hilarious happenings._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803240519211.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803240519211.jpg" height="144px" /></a>
-### 437533
-**Futurama S01E01 - Space Pilot 3000**  
-TV-PG-L 🔒 23:21  
-⌛ December 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/space-pilot-3000  
-seriesid=`437532` titleid=`437533` id=`AX3J9xZo4Xbjep71f6Hv` mediaid=`6aceab1d04e32893686da055030061436f589712`  
-_A pizza-delivery guy accidentally frozen awakes 1,000 years in the future._  
-<a href="https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171455355-Futurama_001_SpacePilot3000.png"><img src="https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171455355-Futurama_001_SpacePilot3000.png" height="144px" /></a>
-### 731497
-**King of the Hill S08E07 - Livin' On Reds, Vitamin C & Propane**  
-TV-PG-L 🔒 23:56  
-⌛ December 13, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/livin-on-reds-vitamin-c-propane  
-seriesid=`629835` titleid=`731497` id=`A5drjaSwSMmaaAauMmNGXg` mediaid=`97a2ce51761f93262e60ae56ad0a29616bbc4af3`  
-_Hank rents an 18-wheel truck to transport some antique furniture to Tillie's in time for Christmas Eve, but he doesn't count on Dale, Bill and Boomhauer stowing away in the trailer._  
-<a href="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_222415356-KingOfTheHill_805_LivinOnRedsVitaminCAndPropane.png"><img src="https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_222415356-KingOfTheHill_805_LivinOnRedsVitaminCAndPropane.png" height="144px" /></a>
-### 2530050
-**Psi-Cops S01E07 - Mutant Snake**  
-TV-MA-V 🔒 11:00  
-⌛ January 10, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/psi-cops/mutant-snake  
-seriesid=`2530043` titleid=`2530050` id=`AZDqRbETg6zBH7G86tg0` mediaid=`b76db6c9ea3650d9a26bc43237fa9df53579ba85`  
-_What do swamp hillbillies, a snake god and Eric all have in common? Fancy Hats!_  
-<a href="https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946167-PSICOPS_SEASON1_EP107_SHOWSTILLS_IMAGE3_KYDDINTESTINESCHOKING.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946167-PSICOPS_SEASON1_EP107_SHOWSTILLS_IMAGE3_KYDDINTESTINESCHOKING.jpg" height="144px" /></a>
+⌛ December 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/trophy-wife-trophy-life  
+seriesid=`581006` titleid=`2197414` id=`AXb4HCXgQJ_4Uej5kTlL` mediaid=`d020fd4b8196e8298003d2096ca06d537ae32d74`  
+_After Stan is injured, Francine nurses him back to health and he becomes dependent to her. The family discovers Tuttle is a Korean reality show star._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg" height="144px" /></a>
+### 2030319
+**Bob's Burgers S04E18 - Ambergris**  
+ 🔒 21:09  
+⌛ December 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/ambergris  
+seriesid=`2003422` titleid=`2030319` id=`2_qqPjdXTcSqml5VwTJidA` mediaid=`e2184ec831627b5d12dd23768803fa7a85ca109b`  
+_Gene, Louise, and Tina discover a seaweed-covered object at the beach that turns out to be a large hunk of Ambergris - an extremely valuable, but illegal, byproduct of whale poop that is used in high-end perfumes - and Louise tries to cheat Gene and Tina out of the profit she hopes to make by selling the treasure on the black market. Meanwhile, Bob and Linda deal with their psychologically unstable landlord who is building them a new bathroom._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180324497628.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180324497628.jpg" height="144px" /></a>
+### 2030320
+**Bob's Burgers S04E19 - The Kids Run Away**  
+TV-PG-DLV 🔒 21:29  
+⌛ December 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-kids-run-away  
+seriesid=`2003422` titleid=`2030320` id=`HitQgvSzThuAVR_UfR4vrg` mediaid=`1e654ff19406e44ebbb2203b6987b21a2c10ae58`  
+_Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness."_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803248013614.jpg" height="144px" /></a>
+### 437534
+**Futurama S01E02 - The Series Has Landed**  
+TV-PG 🔒 23:22  
+⌛ December 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/the-series-has-landed  
+seriesid=`437532` titleid=`437534` id=`AYPYCOYW3sQvipyea-pR` mediaid=`3863dd245c040c896de5bcd42f2bc5f40a3f5b69`  
+_Fry and Leela deliver a package to an amusement park on the moon._  
+### 2409996
+**Invincible Fight Girl S01E07 - Bertie Unbound**  
+TV-PG-V 🔒 22:28  
+⌛ December 28, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/invincible-fight-girl/bertie-unbound  
+seriesid=`2409990` titleid=`2409996` id=`AZLoZaLKJ6hTPa_yiN8P` mediaid=`159c008bb9a3b166eec073dabca193d3f2ef2b77`  
+_Andy battles Bertie and learns the truth about her motivations while Craig and Mikey try to stop Ruff and Tumble from destroying Rumbleweed._  
+<a href="https://media.cdn.adultswim.com/uploads/20241106/thumbnails/2_24116171517-IFGL-107-1920x1080.png"><img src="https://media.cdn.adultswim.com/uploads/20241106/thumbnails/2_24116171517-IFGL-107-1920x1080.png" height="144px" /></a>
+### 731498
+**King of the Hill S08E08 - Rich Hank, Poor Hank**  
+TV-PG-L 🔒 24:08  
+⌛ December 14, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/rich-hank-poor-hank  
+seriesid=`629835` titleid=`731498` id=`kmiC44lgQH2og9XHoIDWiw` mediaid=`4d7cb9284c1fd063412cd656118cada56b272448`  
+_When Bobby mistakenly believes that his parents are rich, he steals Hank's credit card and goes on a shopping spree._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203539686515.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203539686515.jpg" height="144px" /></a>
+### 2230780
+**The Eric Andre Show S05E01 - A King Is Born**  
+TV-MA-LV 🔓 11:14  
+⌛ January 11, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-eric-andre-show/a-king-is-born  
+seriesid=`895948` titleid=`2230780` id=`AXSYwnpvLyLQBOXK_PN8` mediaid=`a994a03f9ab4017b638d036a3eec0ea4415bf116`  
+_Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six .Paak!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 2  
-2398940 Housing Complex C: 1  
-2424733 Rick And Morty: The Anime: 1  
-2530043 Psi-Cops: 1  
+343621 Samurai Jack: 1  
 437532 Futurama: 1  
 581006 American Dad: 2  
-581268 Squidbillies: 2  
 629835 King of the Hill: 1  
-### 2030310
-**Bob's Burgers S04E07 - Bob and Deliver**  
- 🔒 21:34  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/bob-and-deliver  
-seriesid=`2003422` titleid=`2030310` id=`t7ZWm1IkQce4crIKMFrpPA` mediaid=`d494b26dfd04bf3c0821d98be5ab97630a711655`  
-_To Tina's delight, Bob becomes the substitute "Home Ec" teacher at her school and ends up creating a full-scale restaurant in the classroom. However, her excitement is short-lived as Bob's position causes father/daughter friction. But when Gene and Louise go to work for Bob's "school" restaurant, Linda must fend for herself at the family's other restaurant (aka Bob's Burgers)._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187080847379.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187080847379.jpg" height="144px" /></a>
-### 2030307
-**Bob's Burgers S04E06 - Purple Rain-Union**  
-TV-14 🔒 21:31  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/purple-rain-union  
-seriesid=`2003422` titleid=`2030307` id=`v0G53m0sSreGe4zKqAbsxw` mediaid=`7289c265db498136b3e379f3bef3020e77690b3c`  
-_In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126754887379.jpg" height="144px" /></a>
-### 2398944
-**Housing Complex C S01E04 - The End of the Line**  
-TV-MA-V 🔓 25:04  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/housing-complex-c/the-end-of-the-line  
-seriesid=`2398940` titleid=`2398944` id=`AYP11DE0IAxeiVkFtLSU` mediaid=`d962b56b0e7ee2f5fdd9fa49e009a3099dfee3e3`  
-_There's definitely something wrong, but the old residents didn't seem to notice. The new arrivals will help unveil the horror that's been lurking all along._  
-<a href="https://media.cdn.adultswim.com/uploads/20221026/thumbnails/2_2210261151483-HousingComplexC_104_TheEndOfTheLine.png"><img src="https://media.cdn.adultswim.com/uploads/20221026/thumbnails/2_2210261151483-HousingComplexC_104_TheEndOfTheLine.png" height="144px" /></a>
-### 2507905
-**Rick And Morty: The Anime S02E05 - (Sub) Family**  
-TV-14-DLSV 🔒 21:24  
-⌛ December 6, 2024 at 23:59:59 EST  
-https://www.adultswim.com/videos/rick-and-morty-the-anime/sub-family  
-seriesid=`2424733` titleid=`2507905` id=`AZFG-_jyg6zBH7G86thB` mediaid=`c11e5d7e79aaafa1689f915e59cf71c96863fbab`  
-_Jerry does something bad, or maybe it's good? So now the Yakuza are after the Smiths._  
-<a href="https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181038122-AS_RAMTheAnime_105_Family-9.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240918/thumbnails/2_249181038122-AS_RAMTheAnime_105_Family-9.jpg" height="144px" /></a>
-### 2530045
-**Psi-Cops S01E02 - Alien Autopsy**  
-TV-MA-V 🔒 11:00  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/psi-cops/alien-autopsy  
-seriesid=`2530043` titleid=`2530045` id=`AZB6Kd_Ng6zBH7G86tgg` mediaid=`818c762599cfca54853442d1fb0b20e2581f1069`  
-_Kydd and Felixx finally take down an alien! That looks eerily like an old man… but it's not actually an old man….is it?_  
-<a href="https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_24781035178-PSICOPS_SEASON1_EP102_SHOWSTILLS_IMAGE2_LEFTTORIGHT_BITSIECHIEFBEEF.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_24781035178-PSICOPS_SEASON1_EP102_SHOWSTILLS_IMAGE2_LEFTTORIGHT_BITSIECHIEFBEEF.jpg" height="144px" /></a>
-### 2161667
-**Futurama S10E09 - Leela and the Genestalk**  
-TV-14-DLV 🔒 22:32  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/leela-and-the-genestalk  
-seriesid=`437532` titleid=`2161667` id=`AYJfdRLqIAxeiVkFtLQ0` mediaid=`c3b6f8a7bfcc4310da7787034e36ecd3962255e7`  
-_After a rare condition causes Leela to grow tentacles, she stumbles upon a secret genetic-engineering facility._  
-<a href="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png"><img src="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247568-Futurama_1009_LeelaAndTheGenestalk.png" height="144px" /></a>
-### 2186663
-**American Dad S14E14 - Hamerican Dad!**  
+895948 The Eric Andre Show: 1  
+### 2030309
+**Bob's Burgers S04E08 - Christmas in the Car**  
+ 🔒 21:19  
+⌛ December 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/christmas-in-the-car  
+seriesid=`2003422` titleid=`2030309` id=`7gKdRuZjTkCI5ssSOXqjjw` mediaid=`1c587f08924446c27f2a63d3f17f2515d48165e7`  
+_After Linda accidentally kills the family tree, the Belchers must go out on Christmas day to find a new one. But when Bob cuts off a giant candy cane truck, they are forced to outrun the madman driver and spend the entire holiday together in the car. Back at the Belcher home, Bob's friend, Teddy, accidentally gets stuck in the kids' Santa trap._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15242349427221.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15242349427221.jpg" height="144px" /></a>
+### 2030649
+**Bob's Burgers S04E09 - Slumber Party**  
+ 🔒 21:33  
+⌛ December 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/slumber-party  
+seriesid=`2003422` titleid=`2030649` id=`x-ralBNsSuSW3Y2LnDqIkA` mediaid=`6975057a09e0d3e1aea551ba2e90afde1c64d6c3`  
+_When Linda realizes that Louise has never had a sleepover, she throws her a surprise slumber party, much to Louise's chagrin. After Louise's repeated attempts to escape are thwarted, she decides to sabotage the party by eliminating the girls one by one. But she may have met her match in Jessica._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg" height="144px" /></a>
+### 444719
+**Samurai Jack S04E05 - XLV**  
+TV-Y7-FV 🔒 22:31  
+⌛ December 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/samurai-jack/xlv  
+seriesid=`343621` titleid=`444719` id=`H1R4mTd2TYOOVwE60o14QA` mediaid=`b480fdea521510f23e83973854fa110cd4446b8b`  
+_Jack has lost all memory of who he is and it's up to the Scotsman to put the pieces of the puzzle together to save the samurai._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471421333-samjack_045.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471421333-samjack_045.jpg" height="144px" /></a>
+### 2161668
+**Futurama S10E10 - Game of Tones**  
+TV-14-DL 🔒 22:32  
+⌛ December 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/game-of-tones  
+seriesid=`437532` titleid=`2161668` id=`AYKDvCruIAxeiVkFtLRU` mediaid=`bf3dc37a4d95e5de94d81fe5252b0ac367df9fe6`  
+_The crew journeys into Fry's dreams to seek the meaning of a mysterious alien melody._  
+<a href="https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891351538-Futurama_1010_GameOfTomes.png"><img src="https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891351538-Futurama_1010_GameOfTomes.png" height="144px" /></a>
+### 2186665
+**American Dad S14E16 - Pride Before the Fail**  
+TV-14-DLSV 🔒 21:03  
+⌛ December 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/pride-before-the-fail  
+seriesid=`581006` titleid=`2186665` id=`AXKUOAGSRs3h4hI_X4BT` mediaid=`f9f7945f1cad6a5f1870836f0cdded3be56b78b3`  
+_Roger tries to force Hayley into graduating from community college so he can move into her room. Klaus repairs Francine's car._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg" height="144px" /></a>
+### 2186666
+**American Dad S14E17 - Enter Stanman**  
 TV-14-DLSV 🔒 21:02  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/hamerican-dad  
-seriesid=`581006` titleid=`2186663` id=`AXKPZmnhC8QgH-t19JjV` mediaid=`22719bca3d20ee8dd73a3cd906c93d85ff103cf9`  
-_Stan, reluctantly invites Roger into his ham club. Francine decides to scare Greg._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg" height="144px" /></a>
-### 2186664
-**American Dad S14E15 - Demolition Daddy**  
-TV-14-DLSV 🔒 21:02  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/demolition-daddy  
-seriesid=`581006` titleid=`2186664` id=`AXKPZuazRs3h4hI_X4A-` mediaid=`4052df40c5fe09a1659e275384c6d9287ca98fb6`  
-_Thanks to Roger, Snot discovers his dead father was a demolition derby driver. Hayley takes Steve on a road trip, so he can learn to drive._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg" height="144px" /></a>
-### 2032578
-**Squidbillies S09E02 - Limbitless**  
-TV-14-LV 🔓 11:46  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/limbitless  
-seriesid=`581268` titleid=`2032578` id=`_tz4f6DiSRSW79uZ4e0cLw` mediaid=`f1ba52aaf32fbfe3935abb25c844bf5277244632`  
-_Early trades his legs for walking around money._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115474-squidbillies_088_dup-20140923.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115474-squidbillies_088_dup-20140923.jpg" height="144px" /></a>
-### 650446
-**Squidbillies S02E01 - Government Brain Voodoo Trouble**  
-TV-MA 🔓 11:15  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/government-brain-voodoo-trouble  
-seriesid=`581268` titleid=`650446` id=`vkOTj_8fRwuP9zJQS6qbbw` mediaid=`220763c1c720548e821043f8f86bd698c6e7fc1f`  
-_Early and the Sheriff reach a crossroads. Not starring Charles Napier._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481613237-squidbillies_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481613237-squidbillies_007.jpg" height="144px" /></a>
-### 731492
-**King of the Hill S08E02 - Reborn to be Wild**  
-TV-PG-L 🔒 23:53  
-⌛ December 6, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/reborn-to-be-wild  
-seriesid=`629835` titleid=`731492` id=`-7idIlFHQDyPOOQ44Ib-EA` mediaid=`eb84462c8e463fff9ddc911f0885a7bb269ab21f`  
-_Hank reacts with horror when Bobby's bible study group turns out to be populated with Christian skate punks who wear tattoos and dress like rockers; Dale and his friends form a Last Supper club._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035414465718.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035414465718.jpg" height="144px" /></a>
+⌛ December 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/enter-stanman  
+seriesid=`581006` titleid=`2186666` id=`AXKUOGgeRs3h4hI_X4BU` mediaid=`a652830cd64657aa616de584015fae4b65270b2e`  
+_Roger helps Stan enter Francine's dreams after he becomes insecure about their contents._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg" height="144px" /></a>
+### 731493
+**King of the Hill S08E03 - New Cowboy on the Block**  
+TV-PG-DLV 🔒 24:09  
+⌛ December 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/new-cowboy-on-the-block  
+seriesid=`629835` titleid=`731493` id=`UjL4K5GXTi-FQDxyH1EWKA` mediaid=`11fab1818c4a2285c2e1105486577f729d7982b4`  
+_When a faded Dallas Cowboys' football player moves into the neighborhood, Hank and his friends are elated-until he begins acting like a bully._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035412130413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035412130413.jpg" height="144px" /></a>
+### 2418688
+**The Eric Andre Show S06E08 - Old Yeller**  
+TV-MA-LS 🔒 10:59  
+⌛ December 7, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-eric-andre-show/old-yeller  
+seriesid=`895948` titleid=`2418688` id=`AYjZOaps2rZC6NyF6194` mediaid=`ecf99bfb15c12133220a9451d2ae0a50a22e05f7`  
+_Eric welcomes Jaden Smith and Chloe Cherry. The Chainsmokers finally chain smoke. A desperate Dad hang glides into a gender reveal party gone awry._  
+<a href="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375155340-EAOldYeller.png"><img src="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375155340-EAOldYeller.png" height="144px" /></a>
