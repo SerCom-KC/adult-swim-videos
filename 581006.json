@@ -48,51 +48,6 @@
         "cma_id": "1449885"
     },
     {
-        "auth_expiration_date": 1733806740,
-        "tms_id": "EP007164450292",
-        "description": "Roger helps Francine with her terrible cooking by bringing her to a remote Patagonian island. Stan gets a nail in his head and can't speak.",
-        "title_suggest": {
-            "input": [
-                "Eight Fires",
-                "Fires"
-            ]
-        },
-        "title": "Eight Fires",
-        "expiration_date": 1727668740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.262,
-        "episode_number": "19",
-        "original_air_date": "1566784800",
-        "auth_launch_date": 1733202000,
-        "clip_order": null,
-        "airing_id": "RADS1011272400005618",
-        "media_id": "2412130d6a5552f78e822b08ee88af3591e098c6",
-        "modified": 1732778150,
-        "slug": "eight-fires",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/1_206895827-americandad_1319_air_cid-40TM5.jpg",
-        "created": 1591624688,
-        "season_number": "14",
-        "title_id": "2186668",
-        "tv_rating": "tv-14-dlv",
-        "published": 1732778150,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1727064000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895827-americandad_1319_air_cid-40TM5.jpg",
-        "id": "AXKUOWJFRs3h4hI_X4BV",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1733893140,
         "tms_id": "EP007164450293",
         "description": "Steve babysits Roger's ex-tumor, Rogu, to prove to Francine that he's ready for the responsibility. Stan and Francine get into trouble in their respective clubs.",
@@ -602,6 +557,51 @@
         "launch_date": 1728273600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439524-americandad_1409_air_cid-C5RRH-GameNight.jpg",
         "id": "AXb4HKiRbxpjZvbXYl9-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1734411540,
+        "tms_id": "EP007164450373",
+        "description": "Steve and the boys take part in a prison experiment to earn some cash. Meanwhile, Stan deals with the death of his CIA groundskeeper friend.",
+        "title_suggest": {
+            "input": [
+                "American Data?",
+                "Data?"
+            ]
+        },
+        "title": "American Data?",
+        "expiration_date": 1728878340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0618,
+        "episode_number": "10",
+        "original_air_date": "1593999000",
+        "auth_launch_date": 1733806800,
+        "clip_order": null,
+        "airing_id": "RADS1012042400006933",
+        "media_id": "ff49092cf393dd053f59cc9845d5667348eae5d2",
+        "modified": 1733382589,
+        "slug": "american-data",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
+        "created": 1610480418,
+        "season_number": "15",
+        "title_id": "2197415",
+        "tv_rating": "",
+        "published": 1733382589,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1728273600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
+        "id": "AXb4HP38bxpjZvbXYl9_",
         "auth": true
     },
     {
