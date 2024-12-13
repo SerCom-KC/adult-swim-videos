@@ -1,60 +1,6 @@
 {
-    "updated": 1734132671,
+    "updated": 1734132731,
     "added": [
-        {
-            "auth": false,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1597463999,
-            "tms_id": "EP012647370039",
-            "description": "Piccolo joins the battle in progress and quickly attacks Frieza with the strength of two Namekian warriors. The powerful villain is caught off guard, but a second transformation gives him the strength to finish the fight once and for all!",
-            "title_suggest": {
-                "input": [
-                    "Piccolo Reborn! Frieza's Second Transformation!",
-                    "Reborn! Frieza's Second Transformation!",
-                    "Frieza's Second Transformation!",
-                    "Second Transformation!",
-                    "Transformation!"
-                ]
-            },
-            "expiration_date": 1735336740,
-            "title": "Piccolo Reborn! Frieza's Second Transformation!",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "duration": 1295.005,
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "episode_number": "39",
-            "original_air_date": 1442116800,
-            "clip_order": null,
-            "auth_launch_date": 1565494200,
-            "modified": 1733704518,
-            "airing_id": "RADS1012082400007280",
-            "media_id": "9c3d51c4000153005945725d2995c6b9b3fedad8",
-            "id": "bMzSRKCcT4eU1JV-lXtKog",
-            "slug": "piccolo-reborn-friezas-second-transformation",
-            "views": 3209,
-            "created": 1430773271,
-            "season_number": "1",
-            "title_id": "2031650",
-            "tv_rating": "tv-pg-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "published": 1733704518,
-            "first_published": 1441931085,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "modified_by": "ODT Listener",
-            "launch_date": 1734132600,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/piccolo-reborn-friezas-second-transformation/dragonballzkai_cc_039_pt2.jpg",
-            "cma_id": "1114711",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "auth": false,
             "ott_launch_date": null,
@@ -110,6 +56,60 @@
             "launch_date": 1730696400,
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684065349417.jpg",
             "cma_id": "1082540",
+            "collection_slug": "dragon-ball-z-kai",
+            "collection_title_id": "2031611",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": false,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1597463999,
+            "tms_id": "EP012647370039",
+            "description": "Piccolo joins the battle in progress and quickly attacks Frieza with the strength of two Namekian warriors. The powerful villain is caught off guard, but a second transformation gives him the strength to finish the fight once and for all!",
+            "title_suggest": {
+                "input": [
+                    "Piccolo Reborn! Frieza's Second Transformation!",
+                    "Reborn! Frieza's Second Transformation!",
+                    "Frieza's Second Transformation!",
+                    "Second Transformation!",
+                    "Transformation!"
+                ]
+            },
+            "expiration_date": 1735336740,
+            "title": "Piccolo Reborn! Frieza's Second Transformation!",
+            "type": "episode",
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "duration": 1295.005,
+            "collection_id": "duzujScQQRKOubvQENdNag",
+            "episode_number": "39",
+            "original_air_date": 1442116800,
+            "clip_order": null,
+            "auth_launch_date": 1565494200,
+            "modified": 1733704518,
+            "airing_id": "RADS1012082400007280",
+            "media_id": "9c3d51c4000153005945725d2995c6b9b3fedad8",
+            "id": "bMzSRKCcT4eU1JV-lXtKog",
+            "slug": "piccolo-reborn-friezas-second-transformation",
+            "views": 3209,
+            "created": 1430773271,
+            "season_number": "1",
+            "title_id": "2031650",
+            "tv_rating": "tv-pg-lv",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1733704518,
+            "first_published": 1441931085,
+            "tags": [],
+            "collection_title": "Dragon Ball Z Kai",
+            "modified_by": "ODT Listener",
+            "launch_date": 1734132600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/piccolo-reborn-friezas-second-transformation/dragonballzkai_cc_039_pt2.jpg",
+            "cma_id": "1114711",
             "collection_slug": "dragon-ball-z-kai",
             "collection_title_id": "2031611",
             "online_exclusives": false
