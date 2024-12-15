@@ -147,7 +147,7 @@
         "launch_date": 1733047200,
         "poster": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/2_241241530259-aslogothumbnail.png",
         "id": "AZL5DTLnIFyXXN-f0Mud",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1736744340,
@@ -301,7 +301,7 @@
         "launch_date": 1734256800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/2_241241620204-aslogothumbnail.png",
         "id": "AZNAo64gJ6hTPa_yiN_n",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1734861540,
@@ -403,6 +403,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/2_24124163008-aslogothumbnail.png",
         "id": "AZNka_kRJ6hTPa_yiOAx",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1736071140,
+        "tms_id": "",
+        "description": "The final showdown with Doflamingo begins, but the Warlord still has several tricks up his sleeve - including turning one of Luffy's own friends against him! Meanwhile Franky and Se\u00f1or Pink are in a standoff to find out who is the coolest.",
+        "title_suggest": {
+            "input": [
+                "Anger Erupts! Luffy and Law's Ultimate Stratagem!",
+                "Erupts! Luffy and Law's Ultimate Stratagem!",
+                "Luffy and Law's Ultimate Stratagem!",
+                "and Law's Ultimate Stratagem!",
+                "Law's Ultimate Stratagem!",
+                "Ultimate Stratagem!",
+                "Stratagem!"
+            ]
+        },
+        "title": "Anger Erupts! Luffy and Law's Ultimate Stratagem!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1324.2229,
+        "episode_number": "70",
+        "original_air_date": "1734244200",
+        "auth_launch_date": 1734256800,
+        "clip_order": null,
+        "airing_id": "RADS1012112400007588",
+        "media_id": "18f12cbb92ebedbecef631b87e79ccc26ab41852",
+        "modified": 1733952882,
+        "slug": "anger-erupts-luffy-and-laws-ultimate-stratagem",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/1_241241630270-aslogothumbnail.png",
+        "created": 1732556751,
+        "season_number": "17",
+        "title_id": "2435767",
+        "tv_rating": "tv-pg-lv",
+        "published": 1733952882,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241204/thumbnails/2_241241630270-aslogothumbnail.png",
+        "id": "AZNkbgNIIFyXXN-f0M-A",
         "auth": true
     }
 ]
