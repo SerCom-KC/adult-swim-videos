@@ -284,51 +284,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1734411540,
-        "tms_id": "EP007164450373",
-        "description": "Steve and the boys take part in a prison experiment to earn some cash. Meanwhile, Stan deals with the death of his CIA groundskeeper friend.",
-        "title_suggest": {
-            "input": [
-                "American Data?",
-                "Data?"
-            ]
-        },
-        "title": "American Data?",
-        "expiration_date": 1728878340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.0618,
-        "episode_number": "10",
-        "original_air_date": "1593999000",
-        "auth_launch_date": 1733806800,
-        "clip_order": null,
-        "airing_id": "RADS1012042400006933",
-        "media_id": "ff49092cf393dd053f59cc9845d5667348eae5d2",
-        "modified": 1733382589,
-        "slug": "american-data",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
-        "created": 1610480418,
-        "season_number": "15",
-        "title_id": "2197415",
-        "tv_rating": "",
-        "published": 1733382589,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1728273600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
-        "id": "AXb4HP38bxpjZvbXYl9_",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1734670740,
         "tms_id": "EP007164450376",
         "description": "Steve pushes Stan to trace the Smith family's ancestry while Hayley and Francine go undercover as Sub Hub secret shoppers.",
@@ -787,6 +742,52 @@
         "launch_date": 1728878400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113949113-americandad_1422_air_cid-K3JHT-300.jpg",
         "id": "AXb8ON6mQJ_4Uej5kTlT",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1735016340,
+        "tms_id": "EP007164450380",
+        "description": "After Stan's plan for the perfect Christmas goes terribly, tragically wrong, he's given a magical opportunity to make things right.",
+        "title_suggest": {
+            "input": [
+                "Yule. Tide. Repeat.",
+                "Tide. Repeat.",
+                "Repeat."
+            ]
+        },
+        "title": "Yule. Tide. Repeat.",
+        "expiration_date": 1729483140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.5289,
+        "episode_number": "22",
+        "original_air_date": "1609122600",
+        "auth_launch_date": 1734411600,
+        "clip_order": null,
+        "airing_id": "RADS1012112400007581",
+        "media_id": "af36743690498c2c15e18147d6a6df6777fa1a30",
+        "modified": 1733992595,
+        "slug": "yule-tide-repeat",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/1_21113949297-americandad_1408_air_cid-C5RRG-YuleTideRepeat.jpg",
+        "created": 1610549373,
+        "season_number": "15",
+        "title_id": "2197412",
+        "tv_rating": "",
+        "published": 1733992595,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1728878400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113949297-americandad_1408_air_cid-C5RRG-YuleTideRepeat.jpg",
+        "id": "AXb8OSllbxpjZvbXYl-H",
         "auth": true
     },
     {
