@@ -112,62 +112,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1734737340,
-        "tms_id": "EP012647370027",
-        "description": "Intimidated by Vegeta's superior strength, Krillin reluctantly surrenders his precious Dragon Ball.  A glimmer of hope remains after Gohan secures a ball of his own - but the young warrior is headed for a beat-down courtesy of Vegeta!",
-        "title_suggest": {
-            "input": [
-                "A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
-                "Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
-                "Situation! Gohan, Protect the Four Star Ball!",
-                "Gohan, Protect the Four Star Ball!",
-                "Protect the Four Star Ball!",
-                "the Four Star Ball!",
-                "Four Star Ball!",
-                "Star Ball!",
-                "Ball!"
-            ]
-        },
-        "expiration_date": 1731713340,
-        "title": "A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1261.3934,
-        "collection_id": "duzujScQQRKOubvQENdNag",
-        "episode_number": "27",
-        "original_air_date": 1433649600,
-        "clip_order": null,
-        "auth_launch_date": 1731713400,
-        "modified": 1731357548,
-        "airing_id": "RADS1011082400002707",
-        "media_id": "49a2c942615325e1b389381500dc8ac027e36ef3",
-        "id": "54TiuzP6RJi0ZKtS0Kelkg",
-        "slug": "a-touch-and-go-situation-gohan-protect-the-four-star-ball",
-        "views": 826,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568406975037.jpg",
-        "created": 1430772993,
-        "season_number": "1",
-        "title_id": "2031638",
-        "tv_rating": "tv-pg-lv",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1731357548,
-        "first_published": 1433514022,
-        "tags": [],
-        "collection_title": "Dragon Ball Z Kai",
-        "modified_by": "ODT Listener",
-        "launch_date": 1731387600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568406975037.jpg",
-        "cma_id": "1084614"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1739572140,
         "tms_id": "EP012647370033",
         "description": "Frieza locates the Eldest Namekian, but Nail intercepts the evil entity, risking his own life to preserve the Dragon Balls. Elsewhere, Gohan and Krillin rescue a damsel from some dinosaurs, and Goku continues his battle with Captain Ginyu.",
@@ -689,7 +633,7 @@
         "cma_id": "1100716"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1740295740,
         "tms_id": "EP012647370038",
@@ -849,5 +793,56 @@
         "launch_date": 1729405260,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684080324217.jpg",
         "cma_id": "1090642"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1597463999,
+        "tms_id": "EP012647370043",
+        "description": "Goku and Frieza go head to head in a vicious slugfest that threatens to destroy the planet of Namek. Krillin and Gohan are amazed by the brutality of the battle, but Piccolo believes two warriors are just warming up!",
+        "title_suggest": {
+            "input": [
+                "Goku vs. Frieza! The Super Showdown Begins!",
+                "vs. Frieza! The Super Showdown Begins!",
+                "Frieza! The Super Showdown Begins!",
+                "The Super Showdown Begins!",
+                "Super Showdown Begins!",
+                "Showdown Begins!",
+                "Begins!"
+            ]
+        },
+        "expiration_date": 1735941540,
+        "title": "Goku vs. Frieza! The Super Showdown Begins!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1329.83,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "43",
+        "original_air_date": 1444536000,
+        "clip_order": null,
+        "auth_launch_date": 1567913400,
+        "modified": 1734309143,
+        "airing_id": "RADS1012132400008311",
+        "media_id": "54c144eace96b5f7735a4dedaec01ecbc6a40422",
+        "id": "znsKsAi9QFSeE-iHuLT1BQ",
+        "slug": "goku-vs-frieza-the-super-showdown-begins",
+        "views": 3270,
+        "created": 1430773350,
+        "season_number": "1",
+        "title_id": "2031654",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1734309143,
+        "first_published": 1444242091,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1734737400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/goku-vs-frieza-the-super-showdown-begins/dragonballzkai_043_air_cid-2KW70.jpg",
+        "cma_id": "1123734"
     }
 ]
