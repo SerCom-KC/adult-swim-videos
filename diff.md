@@ -2,51 +2,62 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 24, 2024 at 00:00:27 EST_
+_Last Update: December 24, 2024 at 00:30:12 EST_
 ## Video added
 ### Summary
-343621 Samurai Jack: 1  
-322328 Space Ghost Coast to Coast: 2  
-### 444721
-**Samurai Jack S04E07 - XLVII**  
-TV-Y7-FV 🔒 22:34  
-⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xlvii  
-seriesid=`343621` titleid=`444721` id=`wlkKPTK_TQyj9GXDk1ZblA` mediaid=`39b5ad0b76453693cb53a724623955aca26dfa91`  
-_Jack helps save a Prince and Princess whose ship has been shot down to Earth by Aku._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152891714126213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152891714126213.jpg" height="144px" /></a>
-### 322329
-**Space Ghost Coast to Coast S04E19 - Suckup**  
-TV-PG 🔓 11:52  
-⌛ November 4, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/suckup  
-seriesid=`322328` titleid=`322329` id=`6Q4q9jrQTdqM-8UXLBAJmQ` mediaid=`a452865d62ea61ad07b7b718b518975b90b1d932`  
-_Desperate for a new gig, Space Ghost kisses up to "Talk Soup" host John Henson and "Entertainment Tonight" host Bob Goen by telling each that they are "pretty men." Space Ghost even offers to set Henson up with his "sister" Judy. Brak spoils the affair by spilling gravy all over the set._  
-<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg" height="144px" /></a>
-### 322778
-**Space Ghost Coast to Coast S04E09 - Switcheroo '97**  
-TV-PG 🔓 12:26  
-⌛ September 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/switcheroo-97  
-seriesid=`322328` titleid=`322778` id=`AYl0M0abOz5CkuTcnwR4` mediaid=`e69d9bb714cec286a23940342dd39c6f6027edb8`  
-_Space Ghost's sidekicks have hosted a convention behind his back. Moltar and Zorak bring out their own guests Bill Mumy and Mark Hamill. In a jealous rage, Space Ghost announces plans for Space Ghost Con '97, vowing to exclude his co-stars._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171029153-sgc2c_9709_dst_cid-9128085.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171029153-sgc2c_9709_dst_cid-9128085.jpg" height="144px" /></a>
+581006 American Dad: 1  
+2003422 Bob's Burgers: 1  
+2007823 Infomercials: 1  
+### 2238761
+**American Dad S16E12 - Lumberjerk**  
+TV-14-DLSV 🔒 21:02  
+⌛ December 30, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/lumberjerk  
+seriesid=`581006` titleid=`2238761` id=`AX59Zrim208s7zyYUL9w` mediaid=`16e7440c5da2b232e23e0872f26c89c258d6f34e`  
+_Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck._  
+<a href="https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340534-AmericanDad_1514_Lumberjerk.png"><img src="https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340534-AmericanDad_1514_Lumberjerk.png" height="144px" /></a>
+### 2065468
+**Bob's Burgers S05E19 - Housetrap**  
+TV-PG-DLV 🔒 21:44  
+⌛ December 30, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/housetrap  
+seriesid=`2003422` titleid=`2065468` id=`6Tm4GhhHRDy_HSL-uw8zQQ` mediaid=`4ee829b9a07504a4eaa97f8c1a46239e7280700a`  
+_In true Belcher fashion, the family gets stuck in a terrible storm while taking care of a beach house in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of the home._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg" height="144px" /></a>
+### 2007845
+**Infomercials S04E07 - In Search of Miracle Man**  
+TV-14-DLV 🔓 11:16  
+⌛ January 20, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/infomercials/in-search-of-miracle-man  
+seriesid=`2007823` titleid=`2007845` id=`AV-3IJOpwdpKFAKSbWaa` mediaid=`84572beccda8e5c073d4b0450b660ba2ba2c75d8`  
+_In Search of Miracle Man asks viewers to join their cult's quest to find a mystical being roaming the world performing really cool miracles._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150983047962.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150983047962.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581268 Squidbillies: 2  
-### 758319
-**Squidbillies S04E09 - Reunited, And It Feels No Good**  
-TV-MA 🔓 11:34  
+2003422 Bob's Burgers: 1  
+2007823 Infomercials: 1  
+581006 American Dad: 1  
+### 2065459
+**Bob's Burgers S05E09 - Speakeasy Rider**  
+TV-PG-DL 🔒 21:43  
 ⌛ December 23, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/reunited-and-it-feels-no-good  
-seriesid=`581268` titleid=`758319` id=`Pkv_EQNIRYCx9vTHS5595g` mediaid=`bafae87e437525bbce65fe2612eee88aa3cd2e49`  
-_Early learns the importance of family, and profiting off them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221349-squidbillies_049_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221349-squidbillies_049_bim.jpg" height="144px" /></a>
-### 654429
-**Squidbillies S02E06 - Meth O.D. to My Madness**  
-TV-14-DLV 🔓 11:31  
+https://www.adultswim.com/videos/bobs-burgers/speakeasy-rider  
+seriesid=`2003422` titleid=`2065459` id=`2ELQFzQvTKi81yGcQi3Y2Q` mediaid=`423be7451bb1a0465322abfb840143ca6a6b1172`  
+_Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, back at the restaurant, Bob and Teddy partner up to serve Teddy's home-brewed beer._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/speakeasy-rider/bobsburgers_420_air_cid-2M6R1.jpg" height="144px" /></a>
+### 2187508
+**Infomercials S08E04 - Flayaway**  
+TV-MA-LV 🔒 11:06  
 ⌛ December 23, 2024 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/meth-o-d-to-my-madness  
-seriesid=`581268` titleid=`654429` id=`QrxUtwB2SuySaNtTVOKvGw` mediaid=`e863115ef596f5d348d6c4afc9c38e9be7ab883f`  
-_Early discovers that his magic beans are far from magic._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111562-squidbillies_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413111562-squidbillies_013.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/infomercials/flayaway  
+seriesid=`2007823` titleid=`2187508` id=`AWeFAhMFAsbXwNj3wAaC` mediaid=`c2232994d8e771ce0fcbdd4af18f3d6cd042930a`  
+_Want to become hotter? Sarah Squirm presents a revolutionary new cosmetic procedure that will leave you breathless, and ga-ga-ga-gorgeous!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg" height="144px" /></a>
+### 2197412
+**American Dad S15E22 - Yule. Tide. Repeat.**  
+ 🔒 21:03  
+⌛ December 23, 2024 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/yule-tide-repeat  
+seriesid=`581006` titleid=`2197412` id=`AXb8OSllbxpjZvbXYl-H` mediaid=`af36743690498c2c15e18147d6a6df6777fa1a30`  
+_After Stan's plan for the perfect Christmas goes terribly, tragically wrong, he's given a magical opportunity to make things right._  
+<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113949297-americandad_1408_air_cid-C5RRG-YuleTideRepeat.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113949297-americandad_1408_air_cid-C5RRG-YuleTideRepeat.jpg" height="144px" /></a>
