@@ -260,7 +260,7 @@
             ]
         },
         "title": "My Friend Sheldon Jr.",
-        "expiration_date": 1767329940,
+        "expiration_date": 2085368400,
         "type": "episode",
         "platforms": [
             "android",
@@ -275,8 +275,8 @@
         "auth_launch_date": 1735275600,
         "clip_order": null,
         "media_id": "da9c812a7089dfd2a087151bd3fe49eaaa576285",
-        "modified": 1735478798,
-        "airing_id": "RADS1012292400012152",
+        "modified": 1735761465,
+        "airing_id": "RADS1007121900006046",
         "slug": "my-friend-sheldon-jr",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-156043847819613.jpg",
@@ -286,15 +286,15 @@
         "tv_rating": "tv-14-dlsv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1735478798,
+        "published": 1735761465,
         "tags": [],
         "collection_title": "The Jellies",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1735880400,
+        "launch_date": 1563175800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-156043847819613.jpg",
         "id": "AWmWV8RDHl5gR6828y3X",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -1093,7 +1093,7 @@
         "cma_id": "2132026"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1508769060,
         "auth_expiration_date": 1736485140,
         "tms_id": "EP027912080002",
@@ -1118,9 +1118,9 @@
         "original_air_date": 1508732100,
         "clip_order": null,
         "auth_launch_date": 1735880400,
-        "modified": 1735478809,
+        "modified": 1735761749,
         "media_id": "14c29d5ef927ed5ccfb46e50b148e6fd1e19686b",
-        "airing_id": "RADS1012292400012154",
+        "airing_id": "RADS1008192400087109",
         "id": "cyYs5G8GTTKqySDKxNZ6RA",
         "slug": "gangstas-paradise",
         "views": 3563,
@@ -1133,7 +1133,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1735478809,
+        "published": 1735761749,
         "first_published": 1508400620,
         "tags": [],
         "collection_title": "The Jellies",
