@@ -50,6 +50,51 @@
         "cma_id": "1488591"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1737003540,
+        "tms_id": "EP012792980111",
+        "description": "When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside.",
+        "title_suggest": {
+            "input": [
+                "Flu-Ouise"
+            ]
+        },
+        "title": "Flu-Ouise",
+        "type": "episode",
+        "expiration_date": 1678679940,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1325.77,
+        "episode_number": "1",
+        "original_air_date": 1518400800,
+        "auth_launch_date": 1736398800,
+        "clip_order": null,
+        "media_id": "668bca67201e425b0fe66bd84c04031bd9e197a6",
+        "modified": 1736027062,
+        "airing_id": "RADS1001032500013209",
+        "id": "AWFYLCWdZ-onAnjDL5Nm",
+        "slug": "flu-ouise",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151845711531711.jpg",
+        "created": 1517602743,
+        "title_id": "2132990",
+        "tv_rating": "tv-pg-dlv",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1736027062,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1678078800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"
+    },
+    {
         "auth_expiration_date": 1727668740,
         "tms_id": "",
         "description": "Linda joins the P.T.A.",
@@ -492,57 +537,6 @@
         "launch_date": 1676264400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg",
         "cma_id": "1480642"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1736398740,
-        "tms_id": "EP012792980101",
-        "description": "When Tina volunteers alongside Nurse Liz, she finds herself involved in the biggest scandal to hit Wagstaff School: a lice infestation. Meanwhile, Bob makes improvements to the restaurant that end up driving customers away. Can the Belchers juggle both a crisis at the restaurant and lice?",
-        "title_suggest": {
-            "input": [
-                "Lice Things Are Lice",
-                "Things Are Lice",
-                "Are Lice",
-                "Lice"
-            ]
-        },
-        "title": "Lice Things Are Lice",
-        "type": "episode",
-        "expiration_date": 1676264340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1301.4671338,
-        "episode_number": "10",
-        "original_air_date": 1478748600,
-        "clip_order": null,
-        "auth_launch_date": 1735794000,
-        "modified": 1735756947,
-        "media_id": "a909891d15d58088f05551a732c1f6c50929e894",
-        "airing_id": "RADS1012292400012104",
-        "id": "n30WUqEbTQ6SoVjPzcEF7w",
-        "slug": "lice-things-are-lice",
-        "views": 6,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1478412622,
-        "title_id": "2097198",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1735756947,
-        "first_published": 1478412622,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1675659600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/lice-things-are-lice/bobsburgers_519_air_cid-2X3CM.jpg",
-        "cma_id": "1434258"
     },
     {
         "auth": true,

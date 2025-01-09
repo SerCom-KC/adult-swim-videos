@@ -2,156 +2,301 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 8, 2025 at 00:30:13 EST_
+_Last Update: January 9, 2025 at 00:30:14 EST_
 ## Video added
 ### Summary
+581006 American Dad: 2  
 2003422 Bob's Burgers: 1  
-344089 Home Movies: 1  
+440990 Family Guy: 3  
 629835 King of the Hill: 1  
-629688 Moral Orel: 1  
-2292228 Teenage Euthanasia: 6  
-340531 The Brak Show: 1  
-### 2097207
-**Bob's Burgers S06E19 - Glued, Where's My Bob?**  
-TV-PG 🔒 21:40  
-⌛ January 14, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/glued-wheres-my-bob  
-seriesid=`2003422` titleid=`2097207` id=`KZHzK9CvTwCRExJXY6SSUw` mediaid=`6b5661bddd9aa0e25e1da7b017424420f36d36bf`  
-_The kids' goop war lands Bob in a sticky situation. The prank occurs on the same day Skip Marooch calls to tell Bob that a journalist is going to interview him for a piece on unknown restaurants._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/glued-wheres-my-bob/bobsburgers_521_air_cid-2XCVH.jpg" height="144px" /></a>
-### 344136
-**Home Movies S02E07 - Dad**  
-TV-PG 🔓 21:44  
-⌛ February 11, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/home-movies/dad  
-seriesid=`344089` titleid=`344136` id=`U_Y1XdhaRIm-fmgndcmCPg` mediaid=`cb795fc61dc0508de49148f6178d6ca82430600f`  
-_Brendon spends the weekend with his father and his father's girlfriend, Linda, who turns out to be a very unpleasant person. Coach McGuirk, meanwhile, plays big brother to a student who is prone to sickness._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161793-hmovies_020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161793-hmovies_020.jpg" height="144px" /></a>
-### 731519
-**King of the Hill S09E07 - Enrique-cilable Differences**  
-TV-PG 🔒 23:55  
-⌛ January 14, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/enrique-cilable-differences  
-seriesid=`629835` titleid=`731519` id=`7LFZ8IEwRhWVTXFP344ftg` mediaid=`8f1f9a09ab8ef6112d357be1f7148447ca73fd01`  
-_Hank finds himself trapped in the middle when Enrique breaks up with his wife; Bobby and Joseph find a way to override Hank's channel block so they can watch the Daytona 500 on FOX._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247664989787.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247664989787.jpg" height="144px" /></a>
-### 723835
-**Moral Orel S03E09 - Closeface**  
-TV-MA 🔓 11:44  
-⌛ February 11, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/moral-orel/closeface  
-seriesid=`629688` titleid=`723835` id=`LPnVotAlQJ6Vaij6cZLx_A` mediaid=`e14fc2e50e678f1e60814056c395101172a1e8c3`  
-_Stephanie is hell-bent on Orel having a better experience than her own at the school's annual "Arms Length Dance."_  
-<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168168-moralorel_037.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168168-moralorel_037.jpg" height="144px" /></a>
-### 2292235
-**Teenage Euthanasia S01E06 - Adventures In Beetle Sitting**  
-TV-MA-L 🔒 22:28  
-⌛ January 30, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/teenage-euthanasia/adventures-in-beetle-sitting  
-seriesid=`2292228` titleid=`2292235` id=`AXxdwl_JUQa40cfnRSQx` mediaid=`5ac93c347e44a4c31dcf3100807fdc34e8c31904`  
-_Annie has to babysit Trophy's crotch beetles and Baba gets jealous when Pete makes a new friend._  
-<a href="https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_211081112556-TeenageEuthanasia_107_AdventuresInBeetleSitting.png"><img src="https://media.cdn.adultswim.com/uploads/20211008/thumbnails/2_211081112556-TeenageEuthanasia_107_AdventuresInBeetleSitting.png" height="144px" /></a>
-### 2292234
-**Teenage Euthanasia S01E07 - Dada M.I.A**  
-TV-14-DLSV 🔒 22:23  
-⌛ February 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/teenage-euthanasia/dada-m-i-a  
-seriesid=`2292228` titleid=`2292234` id=`AXyEaL3Z4Xbjep71f6HO` mediaid=`6163d75d4936fca8480b9c1092e22f1189d412eb`  
-_While Annie and Trophy play Daddy, It's Me!, a paternity-revealing board game, Baba takes Pete on his own father-finding journey_  
-<a href="https://media.cdn.adultswim.com/uploads/20211015/thumbnails/2_2110151043400-TeenageEuthanasia_106_DadaMIA.png"><img src="https://media.cdn.adultswim.com/uploads/20211015/thumbnails/2_2110151043400-TeenageEuthanasia_106_DadaMIA.png" height="144px" /></a>
-### 2423866
-**Teenage Euthanasia S02E02 - Mother's Day**  
-TV-14-DL 🔒 22:16  
-⌛ February 20, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/teenage-euthanasia/mothers-day  
-seriesid=`2292228` titleid=`2423866` id=`AYmSy16H2rZC6NyF61-U` mediaid=`99cb0bc8858ef9da169146dabadc2cdb661bbac1`  
-_Annie's high school impregnates students with practice robo-babies to deter teen pregnancy while Pete's thwarted Mother's Day plans land him in danger._  
-<a href="https://media.cdn.adultswim.com/uploads/20230803/thumbnails/2_2383108243-TEENAGEEUTHANASIA206MothersDay.png"><img src="https://media.cdn.adultswim.com/uploads/20230803/thumbnails/2_2383108243-TEENAGEEUTHANASIA206MothersDay.png" height="144px" /></a>
-### 2292231
-**Teenage Euthanasia S01E04 - Nobody Beats the Baba**  
-TV-14-DLSV 🔒 22:26  
-⌛ January 16, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/teenage-euthanasia/nobody-beats-the-baba  
-seriesid=`2292228` titleid=`2292231` id=`AXusw6B54Xbjep71f6Gy` mediaid=`45aeb0f8d419dea8c3574cb504b1cc3b81d8c1f7`  
-_Baba's determined to win an embalming fluid competition. That means beating Trophy's former BFF turned nemesis: Sophie Turner._  
-<a href="https://media.cdn.adultswim.com/uploads/20210903/thumbnails/2_21931344444-TeenageEuthanasia_103_NobodyBeatsTheBaba.png"><img src="https://media.cdn.adultswim.com/uploads/20210903/thumbnails/2_21931344444-TeenageEuthanasia_103_NobodyBeatsTheBaba.png" height="144px" /></a>
-### 2423862
-**Teenage Euthanasia S02E01 - Remember Fun?**  
-TV-MA 🔒 22:28  
-⌛ February 13, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/teenage-euthanasia/remember-fun  
-seriesid=`2292228` titleid=`2423862` id=`AYkm2cN-Oz5CkuTcnwIx` mediaid=`6494e33478add1204c761b035f05b3ddb9a8611e`  
-_When Annie fails to meet the state of Florida's party standards, Trophy has to force Annie to have fun or risk losing custody. Meanwhile, Pete, Baba, and Goat get stuck to each other with corpse glue_  
-<a href="https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_237271126438-TEENAGEEUTHANASIA201RememberFun.png"><img src="https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_237271126438-TEENAGEEUTHANASIA201RememberFun.png" height="144px" /></a>
-### 2292232
-**Teenage Euthanasia S01E05 - Suddenly Susan**  
-TV-14-DLS 🔒 22:16  
-⌛ January 23, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/teenage-euthanasia/suddenly-susan  
-seriesid=`2292228` titleid=`2292232` id=`AXw8Qm-l4Xbjep71f6HJ` mediaid=`e555dc3d3a1d9251bebac17d95176ede409bf193`  
-_To avoid Annie's birdwatching field trip, Trophy swaps souls with a corpse._  
-<a href="https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_21101102975-TeenageEuthanasia_104_SuddenlySusan.png"><img src="https://media.cdn.adultswim.com/uploads/20211001/thumbnails/2_21101102975-TeenageEuthanasia_104_SuddenlySusan.png" height="144px" /></a>
-### 344203
-**The Brak Show S01E01 - Goldfish**  
-TV-PG-L 🔓 11:16  
-⌛ February 11, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-brak-show/goldfish  
-seriesid=`340531` titleid=`344203` id=`VDWhpXruRNmGw5r1vUq6Pg` mediaid=`35c670bb168c03a9f973f62dab46bb33ebcc5bf4`  
-_Before going on vacation, Thundercleese asks Brak to take care of his beloved goldfish, Mr. Tickles. After Brak accidentally kills the goldfish, it appears in one of his dreams._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg" height="144px" /></a>
-## Video removed
-### Summary
-2003422 Bob's Burgers: 1  
-340531 The Brak Show: 1  
-344089 Home Movies: 1  
+2013506 Rick and Morty: 9  
 581268 Squidbillies: 1  
-629688 Moral Orel: 1  
-629835 King of the Hill: 1  
-### 2097197
-**Bob's Burgers S06E09 - Sacred Couch**  
-TV-PG 🔓 21:41  
-⌛ January 7, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/sacred-couch  
-seriesid=`2003422` titleid=`2097197` id=`hwBESIpuTuWJp_-Rf_N-Qg` mediaid=`4a8191c6a88be8aa109f177b952cdef4b09fb5ef`  
-_During family TV night an ad for the Sofa Queen comes on and Louise takes the opportunity to lobby for a new couch. The Belchers take sides with Linda, gathering support for keeping their lumpy, smelly, moist couch, because off all the memories it holds. When a family vote goes against her, Louise takes matters into her own hands._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/sacred-couch/bobsburgers_516_air_cid-2X581.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sacred-couch/bobsburgers_516_air_cid-2X581.jpg" height="144px" /></a>
-### 344204
-**The Brak Show S01E03 - Time Machine**  
-TV-PG-L 🔓 11:21  
-⌛ January 7, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-brak-show/time-machine  
-seriesid=`340531` titleid=`344204` id=`j8-EuTPFRLiARLU3dvrJ_w` mediaid=`45eacac3cad42595f08bb61fdb0d4fd1effc8b41`  
-_Instead of doing homework, Brak and Zorak waste their entire weekend playing video games. As punishment, Dad decides that they will not be allowed to go to Brak's favorite fish restaurant, Fishpockets. Desperate, Brak and Zorak try using Thundercleese's time machine to remedy the situation._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321417420-brak_2103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321417420-brak_2103.jpg" height="144px" /></a>
-### 344126
-**Home Movies S01E10 - School Nurse**  
-TV-PG 🔓 22:39  
-⌛ January 7, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/home-movies/school-nurse  
-seriesid=`344089` titleid=`344126` id=`gG60M_rTSLio-Eo3unyvxQ` mediaid=`c31b943c1bfeaa905140bbbe4eec5e36dac32479`  
-_The new school nurse has everyone's attention. Coach McGuirk and Jason eye her as a love interest; Brendon sees her as his ticket to getting out of class._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035164358-hmovies_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035164358-hmovies_010.jpg" height="144px" /></a>
+### 2342103
+**American Dad S17E17 - Hayley Was a Girl Scout?**  
+TV-14-DLSV 🔒 21:02  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/hayley-was-a-girl-scout  
+seriesid=`581006` titleid=`2342103` id=`AYX1F5_5uLQD-MTtYfyU` mediaid=`6cc450eee7bda465df34e5599985e440fe65ae67`  
+_Stan is forced to co-lead a scouts troop with Hayley while Steve blunders in his fantasy world._  
+<a href="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161058291-HaleyGirlScout.png"><img src="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161058291-HaleyGirlScout.png" height="144px" /></a>
+### 2342105
+**American Dad S17E18 - Please Please Jeff**  
+TV-14-DLS 🔒 21:02  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/please-please-jeff  
+seriesid=`581006` titleid=`2342105` id=`AYX1GNCl4k01GlbfzrYR` mediaid=`0cd28e79262f1d3dc617c94284579c6230304b9b`  
+_Jeff's people pleasing nature gets in the way of his relationship with Hayley; Stan wears a confusing costume to the CIA costume party._  
+<a href="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161059341-PleaseJeff.png"><img src="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161059341-PleaseJeff.png" height="144px" /></a>
+### 2132990
+**Bob's Burgers S07E01 - Flu-Ouise**  
+TV-PG-DLV 🔒 22:05  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/flu-ouise  
+seriesid=`2003422` titleid=`2132990` id=`AWFYLCWdZ-onAnjDL5Nm` mediaid=`668bca67201e425b0fe66bd84c04031bd9e197a6`  
+_When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg" height="144px" /></a>
+### 2539785
+**Family Guy S16E01 - Emmy-Winning Episode**  
+TV-14-DSV 🔒 00:00  
+⌛ January 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/emmy-winning-episode  
+seriesid=`440990` titleid=`2539785` id=`AZQerBIOhkIHwKa-ECAO` mediaid=`47cf6d6e92e91e5be9049f166f2c002c2f5d17fa`  
+_Tired of not winning an Emmy, Peter embarks on his own For Your Consideration campaign for Family Guy by making the show more like Emmy-winning shows - and no category is off limits._  
+<a href="https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311642417-FamilyGuy_S16_Emmy-WinningEpisode_Episode1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311642417-FamilyGuy_S16_Emmy-WinningEpisode_Episode1.jpg" height="144px" /></a>
+### 2539775
+**Family Guy S16E06 - The D in Apartment 23**  
+TV-14-DLV 🔒 00:00  
+⌛ January 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/the-d-in-apartment-23  
+seriesid=`440990` titleid=`2539775` id=`AZQeuYVwhcl3AH3uIkjb` mediaid=`6737178bc2aa9ee0f6b333ad74aef793be6d615a`  
+_When Brian posts an offensive tweet that goes viral and the rest of the Griffins are also treated as outcasts, he's forced to move out of the Griffin house._  
+<a href="https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311657360-FamilyGuy_S16_TheDInApartment23_Episode6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311657360-FamilyGuy_S16_TheDInApartment23_Episode6.jpg" height="144px" /></a>
+### 2539776
+**Family Guy S16E13 - V Is for Mystery**  
+TV-14-DLSV 🔒 00:00  
+⌛ January 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/v-is-for-mystery  
+seriesid=`440990` titleid=`2539776` id=`AZQe5PVshcl3AH3uIkjg` mediaid=`09fbae34c8abf422dda5552e8f5b89761dc191cc`  
+_In a special Dickensian-themed episode, Stewie and Brian are detectives who embark on solving a string of mysterious murders set in Victorian-era London._  
+<a href="https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_241231174547-FamilyGuy_S16_VIsForMystery_Episode13.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_241231174547-FamilyGuy_S16_VIsForMystery_Episode13.jpg" height="144px" /></a>
+### 731520
+**King of the Hill S09E08 - Mutual of Omabwah**  
+TV-PG-L 🔒 23:55  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/mutual-of-omabwah  
+seriesid=`629835` titleid=`731520` id=`hhuxXUeSSDKGeBYxUOoY1A` mediaid=`d6aa45a1bb82fbdf1dad5d946799b3d59c39b395`  
+_Hank realizes he doesn't have any home owner's insurance; Dale realizes people are willing to pay money to be stung by bees; Bill and Boomhauer discover the pleasures of a deep fryer; Peggy and Luanne get stuck at a highway rest stop with nothing to eat._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247536312519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15247536312519.jpg" height="144px" /></a>
+### 2206494
+**Rick and Morty S04E09 - Childrick of Mort**  
+TV-14-DLSV 🔒 24:34  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/childrick-of-mort  
+seriesid=`2013506` titleid=`2206494` id=`AXI5DG_LC8QgH-t19JR1` mediaid=`4ffe7e0344b09c2e3cee14544d32143f53161973`  
+_Miracle of life broh. Whole family in this one broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200521/thumbnails/2_20521173168-rickandmorty_409_dup-20200508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200521/thumbnails/2_20521173168-rickandmorty_409_dup-20200508.jpg" height="144px" /></a>
+### 2060771
+**Rick and Morty S02E08 - Interdimensional Cable 2: Tempting Fate**  
+TV-MA-L 🔒 22:41  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/interdimensional-cable-2-tempting-fate  
+seriesid=`2013506` titleid=`2060771` id=`yV99BbGdRD-HmvLoTbPsXA` mediaid=`8078715bdfeafa88eccc83f531d2a71ed19166a9`  
+_Things going ham in this one broh. Jerry gots all sick and Rick sparks up the TV broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324942576-rickandmorty_208_dup-20150917.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324942576-rickandmorty_208_dup-20150917.jpg" height="144px" /></a>
+### 2060773
+**Rick and Morty S02E09 - Look Who's Purging Now**  
+TV-14-LV 🔒 22:10  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/look-whos-purging-now  
+seriesid=`2013506` titleid=`2060773` id=`7THbVYeFSYaSv3Sp3KJJBw` mediaid=`ce05b6fdc4f246320958b8e662413fcf23e39367`  
+_Morty goofs this time broh and now they gotta chill out and wait. Jerry and Summer explore their father daughter relationship too broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324943208-rickandmorty_210_dup-20150917.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324943208-rickandmorty_210_dup-20150917.jpg" height="144px" /></a>
+### 2270458
+**Rick and Morty S05E01 - Mort Dinner Rick Andre**  
+TV-14-DLSV 🔒 23:54  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/mort-dinner-rick-andre  
+seriesid=`2013506` titleid=`2270458` id=`AXogD4uwDmGy9WFjRrgk` mediaid=`8927f080e956326fa00f39cebd31cb7f5b0da92b`  
+_Big man comin for dinner, broh. Better check the booze._  
+<a href="https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181257488-RickAndMorty_501_MortDinnerRickAndre.png"><img src="https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181257488-RickAndMorty_501_MortDinnerRickAndre.png" height="144px" /></a>
+### 2270459
+**Rick and Morty S05E02 - Mortyplicity**  
+TV-14-DLV 🔒 23:54  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/mortyplicity  
+seriesid=`2013506` titleid=`2270459` id=`AXpEYyttDmGy9WFjRrmZ` mediaid=`24fdd83c3e52ba2cda4a551e1fb016cb325c2d66`  
+_Who's even real, broh? Are you real? Broh?_  
+<a href="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png"><img src="https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png" height="144px" /></a>
+### 2424791
+**Rick and Morty S07E06 - Rickfending Your Mort**  
+TV-MA-LSV 🔓 23:50  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/rickfending-your-mort  
+seriesid=`2013506` titleid=`2424791` id=`AYtn08KB1E7YmWrdXLkV` mediaid=`6da5cf250e9fc118d812e023c2b554573ba9211a`  
+_Gotta keep those reciepts, dawg._  
+<a href="https://media.cdn.adultswim.com/uploads/20231025/thumbnails/2_2310251313241-AS_RAM_709_RickfendingYourMort-10.png"><img src="https://media.cdn.adultswim.com/uploads/20231025/thumbnails/2_2310251313241-AS_RAM_709_RickfendingYourMort-10.png" height="144px" /></a>
+### 2116830
+**Rick and Morty S03E01 - The Rickshank Rickdemption**  
+TV-14-DLV 🔒 22:51  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/the-rickshank-rickdemption  
+seriesid=`2013506` titleid=`2116830` id=`20Lrd8P6SFCTzSU73lLViQ` mediaid=`54d52374765c915b74439200af5b47addfc1779d`  
+_The family deals with stuff in this one broh. What's Rick gonna do? This is a real episode right here broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324944389-rickandmorty_301_Long_dup-20170515.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324944389-rickandmorty_301_Long_dup-20170515.jpg" height="144px" /></a>
+### 2206493
+**Rick and Morty S04E08 - The Vat of Acid Episode**  
+TV-14-DLV 🔒 24:46  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/the-vat-of-acid-episode  
+seriesid=`2013506` titleid=`2206493` id=`AXIFO51VRs3h4hI_X3iF` mediaid=`5b5e05fd5199cf93cc32bdc74325834aa48069ea`  
+_The one with the acid vat, broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200511/thumbnails/2_205111534456-rickandmorty_408_dup-20200429.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200511/thumbnails/2_205111534456-rickandmorty_408_dup-20200429.jpg" height="144px" /></a>
+### 2424790
+**Rick and Morty S07E07 - Wet Kuat Amortican Summer**  
+TV-MA-LSV 🔓 24:42  
+⌛ January 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/wet-kuat-amortican-summer  
+seriesid=`2013506` titleid=`2424790` id=`AYuHvpohn_kciGPPrDMN` mediaid=`e1a15027a8e37f0094e7699c018fd0e46be74643`  
+_High school, broh. Morty and Summer hang out in this one._  
+<a href="https://media.cdn.adultswim.com/uploads/20231031/thumbnails/2_2310311758124-AS_RAM_708_WetKuatAmorticanSummer-4.png"><img src="https://media.cdn.adultswim.com/uploads/20231031/thumbnails/2_2310311758124-AS_RAM_708_WetKuatAmorticanSummer-4.png" height="144px" /></a>
 ### 654432
 **Squidbillies S02E10 - Burned And Reburned Again**  
 TV-MA 🔓 11:36  
-⌛ January 7, 2025 at 23:59:00 EST  
+⌛ January 30, 2026 at 23:59:00 EST  
 https://www.adultswim.com/videos/squidbillies/burned-and-reburned-again  
 seriesid=`581268` titleid=`654432` id=`cSBlh9wCRf2BZhyzvyTvjQ` mediaid=`0a939d51e9dabecdd774fb0a6075a6d8876c0a6e`  
 _Violence leads to marriage in a very special Squidbillies._  
 <a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131116214-squidbillies_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131116214-squidbillies_016.jpg" height="144px" /></a>
-### 657353
-**Moral Orel S02E19 - Nature pt. 1**  
-TV-MA 🔓 11:18  
-⌛ January 7, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/moral-orel/nature-pt-1  
-seriesid=`629688` titleid=`657353` id=`CZwiihI4QjSbAmOjo9G9eA` mediaid=`f03c78dab8fd65ab2080f3ed850d221557152680`  
-_Orel and Clay take a father and son hunting trip._  
-<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg" height="144px" /></a>
-### 731514
-**King of the Hill S09E02 - Ms. Wakefield**  
-TV-PG 🔓 23:56  
-⌛ January 7, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/ms-wakefield  
-seriesid=`629835` titleid=`731514` id=`sinpEOEQRU-5NpngodhjLQ` mediaid=`26737e1edcfe80dc63cdd7a76af889e2f9c191ce`  
-_As Christmas approaches, an old woman tries to tries to spend her last days inside the Hill home... as Hank and Peggy try to figure out a way to get rid of her._  
-<a href="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311139188-KingOfTheHill_905_MsWakefield.png"><img src="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311139188-KingOfTheHill_905_MsWakefield.png" height="144px" /></a>
+## Video removed
+### Summary
+2003422 Bob's Burgers: 1  
+2013506 Rick and Morty: 9  
+439722 The Venture Bros.: 2  
+440990 Family Guy: 3  
+581006 American Dad: 2  
+629835 King of the Hill: 1  
+### 2097198
+**Bob's Burgers S06E10 - Lice Things Are Lice**  
+TV-PG 🔒 21:41  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/lice-things-are-lice  
+seriesid=`2003422` titleid=`2097198` id=`n30WUqEbTQ6SoVjPzcEF7w` mediaid=`a909891d15d58088f05551a732c1f6c50929e894`  
+_When Tina volunteers alongside Nurse Liz, she finds herself involved in the biggest scandal to hit Wagstaff School: a lice infestation. Meanwhile, Bob makes improvements to the restaurant that end up driving customers away. Can the Belchers juggle both a crisis at the restaurant and lice?_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/lice-things-are-lice/bobsburgers_519_air_cid-2X3CM.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/lice-things-are-lice/bobsburgers_519_air_cid-2X3CM.jpg" height="144px" /></a>
+### 2060769
+**Rick and Morty S02E06 - The Ricks Must Be Crazy**  
+TV-14-DLV 🔒 22:29  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/the-ricks-must-be-crazy  
+seriesid=`2013506` titleid=`2060769` id=`2BIULs1gQbmFUpzLsAFpYw` mediaid=`04910d4a1059fa2ca63a01b9fdd0e2fce7f7792e`  
+_Rick don forgot to check the oil in this one broh. Gotta fix that car in this one broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494274-rickandmorty_206_dup-20150828.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494274-rickandmorty_206_dup-20150828.jpg" height="144px" /></a>
+### 2206490
+**Rick and Morty S04E05 - Rattlestar Ricklactica**  
+TV-14-DLSV 🔒 23:02  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/rattlestar-ricklactica  
+seriesid=`2013506` titleid=`2206490` id=`AW7xVU2HadNs2hMNfuwC` mediaid=`334a555315d86bd002e74c10155a19a98f0d077e`  
+_Lots of things in space broh. Snakes and sharp stuff. Watch this broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210144253-rickandmorty_405_dup-20191205.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210144253-rickandmorty_405_dup-20191205.jpg" height="144px" /></a>
+### 2206492
+**Rick and Morty S04E06 - Never Ricking Morty**  
+TV-14-DLV 🔒 23:04  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/never-ricking-morty  
+seriesid=`2013506` titleid=`2206492` id=`AXGn0daHRs3h4hI_X3F_` mediaid=`ff06d93b57624ed4a1bed598c6ef15263e4db32b`  
+_Choo Choo, broh. Catch this train broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200511/thumbnails/2_20511932165-rickandmorty_407_dup-20200416.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200511/thumbnails/2_20511932165-rickandmorty_407_dup-20200416.jpg" height="144px" /></a>
+### 2206491
+**Rick and Morty S04E07 - Promortyus**  
+TV-14-DLV 🔒 22:59  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/promortyus  
+seriesid=`2013506` titleid=`2206491` id=`AXIBXxpvRs3h4hI_X3hZ` mediaid=`6efb44f70c8adecfb67bb0967c400e1d988e64fe`  
+_Get off my face broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200511/thumbnails/2_20511933300-rickandmorty_406_dup-20200422.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200511/thumbnails/2_20511933300-rickandmorty_406_dup-20200422.jpg" height="144px" /></a>
+### 2397942
+**Rick and Morty S06E09 - A Rick in King Mortur's Mort**  
+TV-14-DLV 🔒 23:57  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/a-rick-in-king-morturs-mort  
+seriesid=`2013506` titleid=`2397942` id=`AYTPlpsauLQD-MTtYfAa` mediaid=`404acec0fba55592e5f60f9261389b4cb6355732`  
+_Things are heating up, y'know what I mean broh?_  
+<a href="https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211627330-RickAndMorty_609_ARickInKingMortursMort.png"><img src="https://media.cdn.adultswim.com/uploads/20221201/thumbnails/2_221211627330-RickAndMorty_609_ARickInKingMortursMort.png" height="144px" /></a>
+### 2397943
+**Rick and Morty S06E10 - Ricktional Mortpoon's Rickmas Mortcation**  
+TV-14-LV 🔒 23:27  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/ricktional-mortpoons-rickmas-mortcation  
+seriesid=`2013506` titleid=`2397943` id=`AYUC72cQuLQD-MTtYfCB` mediaid=`d1b549fd3254fd46b5ad468ff8c9e3832d0cd217`  
+_Merry Rickmas, broh!_  
+<a href="https://media.cdn.adultswim.com/uploads/20221211/thumbnails/2_2212111549350-rickandmorty610tiny2.png"><img src="https://media.cdn.adultswim.com/uploads/20221211/thumbnails/2_2212111549350-rickandmorty610tiny2.png" height="144px" /></a>
+### 2424784
+**Rick and Morty S07E02 - The Jerrick Trap**  
+TV-MA-LSV 🔓 25:16  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/the-jerrick-trap  
+seriesid=`2013506` titleid=`2424784` id=`AYsAZvPWn_kciGPPrCyn` mediaid=`74ece3aa4546fd01527ca14fc97208d17e58f714`  
+_Gotta be mindful, broh. Big brain stuff here._  
+<a href="https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051113297-AS_RAM_702_TheJerrickTrap-2.png"><img src="https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051113297-AS_RAM_702_TheJerrickTrap-2.png" height="144px" /></a>
+### 2424785
+**Rick and Morty S07E03 - Air Force Wong**  
+TV-MA-LSV 🔓 24:09  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/air-force-wong  
+seriesid=`2013506` titleid=`2424785` id=`AYsAaAGnn_kciGPPrCyo` mediaid=`28b6945dbb31842ae7c535fd7a871aabe5cf0ca9`  
+_Virginia is for lovers, broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051114294-AS_RAM_703_AirForceWong-1.png"><img src="https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051114294-AS_RAM_703_AirForceWong-1.png" height="144px" /></a>
+### 2060770
+**Rick and Morty S02E07 - Big Trouble in Little Sanchez**  
+TV-14-LV 🔒 22:59  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/rick-and-morty/big-trouble-in-little-sanchez  
+seriesid=`2013506` titleid=`2060770` id=`IVbflKbIST-wgCcYs-QiUg` mediaid=`3ba4c5dae2a9833881591c53c1d4a02110699c8d`  
+_Rick don joins in on some hijinks in this one broh. Beth and Jerry sort out their relationship too broh._  
+<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324942340-rickandmorty_207_dup-20150831.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324942340-rickandmorty_207_dup-20150831.jpg" height="144px" /></a>
+### 772173
+**The Venture Bros. S04E01 - Blood of the Father, Heart of Steel**  
+TV-14-DLV 🔓 22:19  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-venture-bros/blood-of-the-father-heart-of-steel  
+seriesid=`439722` titleid=`772173` id=`FSHDhFn_QWOfLtkL23O4fA` mediaid=`33fc6638021ff450ed537d4f77d0c2890c1aa531`  
+_Questions are answered and truths are revealed.  Learn how Henchman 21 copes with life without 24.  See what happens when Brock and the Venture family are forced to part ways.  Discover the final fate of H.E.L.P.eR.  And all the while, the balance of the free world hangs in the hands of Dean Venture, who must kill Hitler._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410475-venture_146_dst_cid-MKC0.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410475-venture_146_dst_cid-MKC0.jpg" height="144px" /></a>
+### 718824
+**The Venture Bros. S03E13 - The Family That Slays Together, Stays Together Part 2**  
+TV-14-LV 🔓 22:18  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-venture-bros/the-family-that-slays-together-stays-together-part-2  
+seriesid=`439722` titleid=`718824` id=`lIXb2S2rQlqGFl02yNwl1A` mediaid=`e401d8335adfd97845c524e1c775c6d2a69bb805`  
+_Heads will fly as the explosive conclusion of The Venture Bros. two-part season finale finds Brock and the Venture family on the run from the Law, The Monarch, Sgt. Hatred and the entire O.S.I.! Only bald ingenuity and an unlikely ally can possibly save their necks from the deadly noose tightening around the Venture Compound, but they stand to lose so much more when they learn the hard way that you can't go home again._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149329-venture_139_dst_cid-M565.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149329-venture_139_dst_cid-M565.jpg" height="144px" /></a>
+### 652682
+**Family Guy S05E18 - Meet the Quagmires**  
+TV-14-DL 🔒 21:49  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/meet-the-quagmires  
+seriesid=`440990` titleid=`652682` id=`5rx_3RcsQqOwL-_PcLQohQ` mediaid=`1800b226f97c0507473240d40e9ce2a90d95f0e0`  
+_When Peter bumps into Death at The Drunken Clam one evening, he gets nostalgic about what it would be like to relive his life as an 18-year old.  Death grants him this wish and Peter and Brian are sent back to 1984 where they meet up with Cleveland, Quagmire, Joe and Lois in hip 80's styles. While visiting the past, Peter screws up his present day, now married to Molly Ringwald while Lois has a family with Quagmire._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2476433855308777022.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_2476433855308777022.jpg" height="144px" /></a>
+### 652690
+**Family Guy S06E05 - Lois Kills Stewie**  
+TV-14-DLSV 🔒 21:40  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/lois-kills-stewie  
+seriesid=`440990` titleid=`652690` id=`THavBGoDSkCYkzs2kz9TtA` mediaid=`f37a151d4e0e75a6b06d595900a74d1aa3e8f142`  
+_After Stewie shot his mother in cold blood on the deck of the cruise ship, Lois returned to Quahog, entering the courtroom just before Peter was sentenced to life in prison.  
+Stewie escapes the courtroom and along with his hostage Brian, he moves forward with his diabolical plans to take over the world.  The only person in the world who can stop him is his mother, Lois._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090030440813.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153090030440813.jpg" height="144px" /></a>
+### 666744
+**Family Guy S06E04 - Stewie Kills Lois**  
+TV-14-DLSV 🔒 21:52  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/family-guy/stewie-kills-lois  
+seriesid=`440990` titleid=`666744` id=`_rkYJo51Q0O9Jhfsfeqp2g` mediaid=`b1bfd46b58c14903d65c53faf87578f32cf7c5c8`  
+_Brian surprises Lois for her birthday with two tickets for a cruise.  After Peter and Lois embark without their baby Stewie, he takes revenge by pulling off his life-long dream of killing his mother._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793535537517.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151793535537517.jpg" height="144px" /></a>
+### 2342091
+**American Dad S17E05 - Epic Powder Dump**  
+TV-14-DLS 🔒 21:03  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/epic-powder-dump  
+seriesid=`581006` titleid=`2342091` id=`AYXAW8OB4k01GlbfzrYB` mediaid=`09b2ad88716afeb75e53e2394d79d1b8fcc72175`  
+_Stan insists everyone help him recreate the rustic family ski trips of his childhood while Klaus falls in love with a tech support operator._  
+<a href="https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_2311913260-EpicPowderDumptiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_2311913260-EpicPowderDumptiny.png" height="144px" /></a>
+### 2342092
+**American Dad S17E06 - American Dad Graffito**  
+TV-14-DLSV 🔒 21:03  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/american-dad-graffito  
+seriesid=`581006` titleid=`2342092` id=`AYXAXye8uLQD-MTtYfnC` mediaid=`0708a69dfb429c25008bf6a89c4409efcf965444`  
+_To save a beloved restaurant from closing, Stan must bring the 1950s back to Langley._  
+<a href="https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_23119131429-AmericanDadGraffitotiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_23119131429-AmericanDadGraffitotiny.png" height="144px" /></a>
+### 731515
+**King of the Hill S09E03 - Death Buys a Timeshare**  
+TV-PG 🔒 23:51  
+⌛ January 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/death-buys-a-timeshare  
+seriesid=`629835` titleid=`731515` id=`1ZpfPnUmQRe8BZPuSPlbMQ` mediaid=`31879a5ba327e6a6087c6070f5871c9844f0a0d6`  
+_Hank accompanies Cotton and Bill to Mexico to keep them from buying into a timeshare; Peggy, Dale and Bobby sneak into swimming pools during a heat wave._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400137870511.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152400137870511.jpg" height="144px" /></a>
