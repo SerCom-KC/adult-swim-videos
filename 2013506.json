@@ -122,7 +122,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1500906660,
         "auth_expiration_date": 1737003540,
         "tms_id": "EP018336730022",
@@ -279,7 +279,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1464012120,
         "auth_expiration_date": 1737003540,
         "tms_id": "EP018336730020",
@@ -5056,7 +5056,7 @@
         "launch_date": 1689220800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200521/thumbnails/2_20521173168-rickandmorty_409_dup-20200508.jpg",
         "id": "AXI5DG_LC8QgH-t19JR1",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1737003540,
@@ -5104,7 +5104,7 @@
         "launch_date": 1695268800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200511/thumbnails/2_205111534456-rickandmorty_408_dup-20200429.jpg",
         "id": "AXIFO51VRs3h4hI_X3iF",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -5818,7 +5818,7 @@
         "launch_date": 1695268800,
         "poster": "https://media.cdn.adultswim.com/uploads/20210618/thumbnails/2_216181257488-RickAndMorty_501_MortDinnerRickAndre.png",
         "id": "AXogD4uwDmGy9WFjRrgk",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -5912,7 +5912,7 @@
         "launch_date": 1695873600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210625/thumbnails/2_216251416154-RickAndMorty_502_Mortyplicity.png",
         "id": "AXpEYyttDmGy9WFjRrmZ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -7247,7 +7247,7 @@
         "launch_date": 1737003600,
         "poster": "https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_23105111335-AS_RAM_701_HowPoopyGotHisPoopBack-3.png",
         "id": "AYsAZl1_1E7YmWrdXLjq",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1737003540,
@@ -7292,7 +7292,7 @@
         "launch_date": 1737003600,
         "poster": "https://media.cdn.adultswim.com/uploads/20231005/thumbnails/2_231051115113-AS_RAM_704_ThatsAmorte-1.png",
         "id": "AYsAaF_61E7YmWrdXLjr",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1737003540,
@@ -7336,7 +7336,7 @@
         "launch_date": 1737003600,
         "poster": "https://media.cdn.adultswim.com/uploads/20231020/thumbnails/2_231020126126-AS_RAM_705_Unmortricken-2.png",
         "id": "AYtN1nK81E7YmWrdXLkS",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1737608340,
@@ -10428,7 +10428,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1463407320,
         "auth_expiration_date": 1737003540,
         "tms_id": "EP018336730019",
