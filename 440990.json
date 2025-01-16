@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1737003540,
         "tms_id": "EP002960010119",
         "rating": 6.5443425,
@@ -187,7 +187,7 @@
         "auth": true
     },
     {
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1737003540,
         "tms_id": "EP002960010128",
         "rating": 8.4072485,
