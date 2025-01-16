@@ -1,52 +1,5 @@
 [
     {
-        "auth": false,
-        "auth_expiration_date": 1737003540,
-        "tms_id": "EP002960010119",
-        "rating": 6.5443425,
-        "description": "Peter rediscovers his love for the painfully annoying song, \"Surfin' Bird\" which drives people around him crazy; and when Peter finds Jesus in a record store, he's determined to be his new best friend.",
-        "title_suggest": {
-            "input": [
-                "I Dream of Jesus",
-                "Dream of Jesus",
-                "of Jesus",
-                "Jesus"
-            ]
-        },
-        "type": "episode",
-        "title": "I Dream of Jesus",
-        "expiration_date": 1505021399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1306.4051,
-        "episode_number": "2",
-        "original_air_date": 1224559800,
-        "clip_order": null,
-        "auth_launch_date": 1735781400,
-        "modified": 1735689877,
-        "media_id": "4ae270c98ecefba06614f4aff223a861966bf032",
-        "airing_id": "RADS1012202400009515",
-        "id": "9lyTN5P_Tx24O3Vza_4Thw",
-        "slug": "i-dream-of-jesus",
-        "views": 71248,
-        "created": 1402945465,
-        "title_id": "730919",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "published": 1735689877,
-        "tags": [],
-        "rating_count": 327,
-        "collection_title": "Family Guy",
-        "modified_by": "ODT Listener",
-        "launch_date": 1504416600,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a25c3920eaf5fa6010eaffb99c438bf/thumbnail_9168481918573286633.jpg",
-        "cma_id": "1464613"
-    },
-    {
         "auth_expiration_date": 1737608340,
         "tms_id": "EP002960010337",
         "description": "In a special Dickensian-themed episode, Stewie and Brian are detectives who embark on solving a string of mysterious murders set in Victorian-era London.",
@@ -91,6 +44,99 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_241231174547-FamilyGuy_S16_VIsForMystery_Episode13.jpg",
         "id": "AZQe5PVshcl3AH3uIkjg",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1738213140,
+        "tms_id": "EP002960010339",
+        "description": "After Peter and the guys get caught pretending to be military veterans and are found guilty of the Stolen Valor Act, a judge sentences them to join the U.S. Coast Guard.",
+        "title_suggest": {
+            "input": [
+                "Veteran Guy",
+                "Guy"
+            ]
+        },
+        "title": "Veteran Guy",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 0,
+        "episode_number": "14",
+        "original_air_date": "1735970400",
+        "auth_launch_date": 1737003600,
+        "clip_order": null,
+        "airing_id": "RADS1001102500014936",
+        "media_id": "9f9756d0b950895e11b30f7f79514b1e56cb0da1",
+        "modified": 1736581464,
+        "slug": "veteran-guy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/1_2412311746118-FamilyGuy_S16_VeteranGuy_Episode14.jpg",
+        "created": 1735685181,
+        "season_number": "16",
+        "title_id": "2539783",
+        "tv_rating": "tv-14-dlv",
+        "published": 1736581464,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311746118-FamilyGuy_S16_VeteranGuy_Episode14.jpg",
+        "id": "AZQe5g60hkIHwKa-ECAc",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1738213140,
+        "tms_id": "EP002960010340",
+        "description": "Brian convinces Stewie to teach him how to invest in the stock market after learning Stewie has a knack for making money from it.",
+        "title_suggest": {
+            "input": [
+                "The Woof of Wall Street",
+                "Woof of Wall Street",
+                "of Wall Street",
+                "Wall Street",
+                "Street"
+            ]
+        },
+        "title": "The Woof of Wall Street",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 0,
+        "episode_number": "15",
+        "original_air_date": "1735972200",
+        "auth_launch_date": 1737003600,
+        "clip_order": null,
+        "airing_id": "RADS1001102500014938",
+        "media_id": "ce0135551344bca4cc6b2f349bf7440164a3450d",
+        "modified": 1736582680,
+        "slug": "the-woof-of-wall-street",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/1_2412311746445-FamilyGuy_S16_TheWoofofWallStreet_Episode15.jpg",
+        "created": 1735685224,
+        "season_number": "16",
+        "title_id": "2539791",
+        "tv_rating": "tv-14-dlv",
+        "published": 1736582680,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311746445-FamilyGuy_S16_TheWoofofWallStreet_Episode15.jpg",
+        "id": "AZQe5rbLhcl3AH3uIkjh",
         "auth": true
     },
     {
@@ -185,70 +231,5 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311657360-FamilyGuy_S16_TheDInApartment23_Episode6.jpg",
         "id": "AZQeuYVwhcl3AH3uIkjb",
         "auth": true
-    },
-    {
-        "auth": false,
-        "auth_expiration_date": 1737003540,
-        "tms_id": "EP002960010128",
-        "rating": 8.4072485,
-        "description": "After a frustrating day at the annual Quahog <i>Star Trek</i> convention, Stewie builds a transporter and beams the entire cast of <i>Star Trek: The Next Generation</i> into his room for a fun-filled day in Quahog.",
-        "title_suggest": {
-            "input": [
-                "Not All Dogs Go To Heaven",
-                "All Dogs Go To Heaven",
-                "Dogs Go To Heaven",
-                "Go To Heaven",
-                "To Heaven",
-                "Heaven"
-            ]
-        },
-        "type": "episode",
-        "title": "Not All Dogs Go To Heaven",
-        "expiration_date": 1505372399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1292.8582,
-        "episode_number": "11",
-        "original_air_date": 1239678000,
-        "auth_launch_date": 1735783200,
-        "clip_order": null,
-        "modified": 1735690756,
-        "media_id": "853d648a9c6049e462d05338d421370171c0e2c9",
-        "airing_id": "RADS1012202400009514",
-        "id": "b1LRU7chTBOgGDlUSF06Cg",
-        "slug": "not-all-dogs-go-to-heaven",
-        "views": 599462,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/1_21151250187-familyguy_617_NotAllDogsGoToHeaven.jpg",
-        "created": 1402945465,
-        "title_id": "730930",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "published": 1735690756,
-        "tags": [
-            "family guy",
-            " not all dogs go to heaven",
-            " annual",
-            " quahog",
-            " star trek",
-            " convention",
-            " stewie",
-            " build",
-            " transport",
-            " beam",
-            " cast of star trek",
-            " next generation"
-        ],
-        "rating_count": 1547,
-        "collection_title": "Family Guy",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1504767600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151250187-familyguy_617_NotAllDogsGoToHeaven.jpg",
-        "cma_id": "1468100"
     }
 ]
