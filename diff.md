@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 19, 2025 at 05:00:14 EST_
+_Last Update: January 19, 2025 at 05:30:53 EST_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2012537
-**Blue Exorcist S01E09 - Memories**  
-TV-14-LV 🔒 22:00  
-⌛ June 1, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/memories  
-seriesid=`2012528` titleid=`2012537` id=`S6a8Q9qKTZ6O7ECBUAL57A` mediaid=`0c7051076a25408198d4853158f5012bc897f15c`  
-_Fighting together for the first time, Rin and the others just barely survive a harrowing attack. The next thing they know, Mephisto and the cram school teachers are before them! This unexpected visit really unnerves the students. Meanwhile, sensing something odd in Noihaus's behavior, Yukio decides to confront the teacher, only to discover that..._  
-<a href=""><img src="" height="144px" /></a>
+608007 One Piece: 1  
+### 2550948
+**One Piece S17E?? - The Ultimate Power! The Secret of the Op-Op Fruit!**  
+TV-14 🔒 21:46  
+⌛ February 9, 2025 at 04:59:00 EST  
+https://www.adultswim.com/videos/one-piece/the-ultimate-power-the-secret-of-the-op-op-fruit  
+seriesid=`608007` titleid=`2550948` id=`AZRgefWt4ijrGBacAUgd` mediaid=`b5ef2b0e4bbe5ed1b603a36c20ce3ebd247c18a2`  
+_With Fujitora's stalemate arousing suspicion in the Navy ranks, Law and Luffy stand seconds away from execution at the hand of Doflamingo!_  
 ## Video removed
 No videos were removed.  
