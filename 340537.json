@@ -510,7 +510,7 @@
         "cma_id": "1398159"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449849600,
         "auth_expiration_date": 1748318340,
         "tms_id": "EP021966150008",
@@ -1086,57 +1086,6 @@
         "launch_date": 1733893200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_202251037277-asykw_1106_dup-20120719.jpg",
         "cma_id": "1140239"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1444924620,
-        "auth_expiration_date": 1737521940,
-        "tms_id": "EP004662930005",
-        "rating": 8.233993,
-        "description": "Master Shake traps Meatwad in the clothes dryer for a week, accidentally giving him super powers. Meatwad ends up creating a balloon monster with his new electro-static power.",
-        "title_suggest": {
-            "input": [
-                "Balloonenstein"
-            ]
-        },
-        "type": "episode",
-        "title": "Balloonenstein",
-        "expiration_date": 1721793540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 654.9342676,
-        "episode_number": "5",
-        "original_air_date": 1009166400,
-        "clip_order": null,
-        "auth_launch_date": 1721793600,
-        "modified": 1721742390,
-        "media_id": "b4606174f472d47cf6dff9f695eccd68de4085dc",
-        "airing_id": "RADS1007112400080697",
-        "id": "9vDEhmzIRxeJSwm272v4Og",
-        "slug": "balloonenstein",
-        "views": 595194,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241512108-athf_005_BIM.jpg",
-        "created": 1402945461,
-        "title_id": "411003",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1721742390,
-        "tags": [],
-        "rating_count": 2342,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721188800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241512108-athf_005_BIM.jpg",
-        "cma_id": "1137765"
     },
     {
         "auth": true,
@@ -1928,7 +1877,7 @@
         "launch_date": 1736917200,
         "poster": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_231127125209-Screenshot2023-11-27at12.50.54PM.png",
         "id": "AYv5v3Ft1E7YmWrdXLk6",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1737521940,
@@ -1974,7 +1923,7 @@
         "launch_date": 1737522000,
         "poster": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_2311271256167-Screenshot2023-11-27at12.55.23PM.png",
         "id": "AYv5wJxd1E7YmWrdXLk7",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1737521940,
@@ -2022,7 +1971,7 @@
         "launch_date": 1737522000,
         "poster": "https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_2312111331100-Screenshot2023-12-11at1.24.35PM.png",
         "id": "AYw2FlNL1E7YmWrdXLlH",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1737521940,
@@ -2071,7 +2020,7 @@
         "launch_date": 1737522000,
         "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241228360-Screenshot2023-12-04at12.28.03PM.png",
         "id": "AYwXxFPon_kciGPPrDkx",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1737521940,
@@ -2115,7 +2064,7 @@
         "launch_date": 1737522000,
         "poster": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_231218132589-image2.png",
         "id": "AYxF19LV1E7YmWrdXLlL",
-        "auth": true
+        "auth": false
     },
     {
         "auth": true,
@@ -4059,60 +4008,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1444576920,
-        "auth_expiration_date": 1737521940,
-        "tms_id": "EP004662930004",
-        "rating": 8.4368305,
-        "description": "Master Shake rents out Meatwad's room to moon people. They end up being a bad influence on Meatwad. Frylock blasts them with his eye beams until they flee the planet.",
-        "title_suggest": {
-            "input": [
-                "Mayhem of the Mooninites",
-                "of the Mooninites",
-                "the Mooninites",
-                "Mooninites"
-            ]
-        },
-        "type": "episode",
-        "title": "Mayhem of the Mooninites",
-        "expiration_date": 1721793540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 668.3670337,
-        "episode_number": "4",
-        "original_air_date": 1003114800,
-        "clip_order": null,
-        "auth_launch_date": 1721793600,
-        "modified": 1721371555,
-        "media_id": "a5d5f7d2771cdc41c63b2d8a836f0439ed078265",
-        "airing_id": "RADS1007182400081559",
-        "id": "QeYtNMpnTze70vq5WIEDBw",
-        "slug": "mayhem-of-the-mooninites",
-        "views": 561877,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241511197-athf_004_dst_cid-9217930.jpg",
-        "created": 1402945461,
-        "title_id": "345420",
-        "season_number": "1",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1721371555,
-        "tags": [],
-        "rating_count": 2248,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721188800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241511197-athf_004_dst_cid-9217930.jpg",
-        "cma_id": "1136125"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1444925280,
         "auth_expiration_date": 1738126740,
         "tms_id": "EP004662930010",
@@ -4403,7 +4298,7 @@
         "cma_id": "1439007"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449849600,
         "auth_expiration_date": 1748318340,
         "tms_id": "EP021966150006",
@@ -5358,7 +5253,7 @@
         "cma_id": "1377062"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1444576020,
         "auth_expiration_date": 1737521940,
         "tms_id": "EP004662930001",
@@ -6121,7 +6016,7 @@
         "cma_id": "1480478"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449849600,
         "auth_expiration_date": 1748318340,
         "tms_id": "EP021966150007",
@@ -6329,7 +6224,7 @@
         "cma_id": "1213593"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1476842400,
         "auth_expiration_date": 1748318340,
         "tms_id": "EP021966150012",
@@ -6436,61 +6331,6 @@
         "launch_date": 1729656000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241718449-athf_077_BIM.jpg",
         "cma_id": "1393378"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1444924680,
-        "auth_expiration_date": 1737521940,
-        "tms_id": "EP004662930006",
-        "rating": 8.627572,
-        "description": "Frylock meets two aliens with suspicious motives. Their stupidity bores Frylock, so he trades places with Master Shake. Meanwhile, Meatwad burns down Carl's house.",
-        "title_suggest": {
-            "input": [
-                "Space Conflict from Beyond Pluto",
-                "Conflict from Beyond Pluto",
-                "from Beyond Pluto",
-                "Beyond Pluto",
-                "Pluto"
-            ]
-        },
-        "type": "episode",
-        "title": "Space Conflict from Beyond Pluto",
-        "expiration_date": 1721793540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 655.0333667,
-        "episode_number": "6",
-        "original_air_date": 1018234800,
-        "clip_order": null,
-        "auth_launch_date": 1721793600,
-        "modified": 1721742386,
-        "media_id": "a3d76259962cc2d125297c6cb31d4c5f1731515c",
-        "airing_id": "RADS1007112400080695",
-        "id": "iSTjVQQfQVyc8f-c3Ro_vg",
-        "slug": "space-conflict-from-beyond-pluto",
-        "views": 654582,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241512481-athf_006_BIM.jpg",
-        "created": 1402945461,
-        "title_id": "415755",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1721742386,
-        "tags": [],
-        "rating_count": 1799,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721188800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241512481-athf_006_BIM.jpg",
-        "cma_id": "1152103"
     },
     {
         "auth": true,
@@ -7146,61 +6986,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1444581660,
-        "auth_expiration_date": 1737521940,
-        "tms_id": "EP004662930002",
-        "rating": 7.917487,
-        "description": "A gang of miscreant leprechauns takes out an ad on the Internet in an attempt to mug people for their shoes. The Aqua Teens ruin their plans when Master Shake finds them in the woods.",
-        "title_suggest": {
-            "input": [
-                "Escape from Leprechaupolis",
-                "from Leprechaupolis",
-                "Leprechaupolis"
-            ]
-        },
-        "type": "episode",
-        "title": "Escape from Leprechaupolis",
-        "expiration_date": 1721188740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 689.667334,
-        "episode_number": "2",
-        "original_air_date": 1000090800,
-        "clip_order": null,
-        "auth_launch_date": 1721188800,
-        "modified": 1720767118,
-        "media_id": "1fc72be44ed8e02871379caf60614a6f987aeee6",
-        "airing_id": "RADS1007112400080703",
-        "id": "p2pE3dbYS32e0PGixUEf9A",
-        "slug": "escape-from-leprechaupolis",
-        "views": 586863,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_20224157110-athf_002_dst_cid-9204099.jpg",
-        "created": 1402945461,
-        "title_id": "344934",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1720767118,
-        "tags": [
-            "aqua teen hunger force athf episode 2 escape from leprechaupolis leprechauns rainbow gold machine woods"
-        ],
-        "rating_count": 2157,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1720584000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224157110-athf_002_dst_cid-9204099.jpg",
-        "cma_id": "1136087"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1445971620,
         "auth_expiration_date": 1744775940,
         "tms_id": "EP004662930069",
@@ -7696,62 +7481,6 @@
         "launch_date": 1721188800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241514215-athf_007_BIM.jpg",
         "cma_id": "1153599"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1444663200,
-        "auth_expiration_date": 1737521940,
-        "tms_id": "EP004662930003",
-        "rating": 7.4426765,
-        "description": "Master Shake becomes convinced that a vampire bus is waiting for him outside. So, the Aqua Teens go to Memphis on a fact-finding mission.",
-        "title_suggest": {
-            "input": [
-                "Bus of the Undead",
-                "of the Undead",
-                "the Undead",
-                "Undead"
-            ]
-        },
-        "type": "episode",
-        "title": "Bus of the Undead",
-        "expiration_date": 1721188740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 677.1334668,
-        "episode_number": "3",
-        "original_air_date": 1001905200,
-        "clip_order": null,
-        "auth_launch_date": 1721188800,
-        "modified": 1720768291,
-        "media_id": "2967b08c1b9e3b1dbedea20bffc42a83811de126",
-        "airing_id": "RADS1007112400080701",
-        "id": "rvtcVqV8R-KCPOegDstoTQ",
-        "slug": "bus-of-the-undead",
-        "views": 635667,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_20224157346-athf_003_dst_cid-9206635.jpg",
-        "created": 1402945461,
-        "title_id": "344935",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1720768291,
-        "tags": [
-            "aqua teen hunger force athf episode 3 bus of the undead jon benjamin moth monster man vampire dracula grave"
-        ],
-        "rating_count": 3960,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1720584000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224157346-athf_003_dst_cid-9206635.jpg",
-        "cma_id": "1136005"
     },
     {
         "auth": true,
