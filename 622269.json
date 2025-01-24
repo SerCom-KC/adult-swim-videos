@@ -2187,7 +2187,7 @@
         "launch_date": 1736550000,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181718412-NarutoClassic-Ep045-1920x1080.jpg",
         "id": "AZLjVLxCCjvsJgIeWAEd",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1772233140,
@@ -2235,6 +2235,53 @@
         "launch_date": 1737154800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181719352-NarutoClassic-Ep046-1920x1080.jpg",
         "id": "AZLjVO2QCjvsJgIeWAEe",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Neji stops Hinata's flow of chakra, but Hinata finds courage by remembering Naruto's resilience in the face of adversity.",
+        "title_suggest": {
+            "input": [
+                "A Failure Stands Tall!",
+                "Failure Stands Tall!",
+                "Stands Tall!",
+                "Tall!"
+            ]
+        },
+        "title": "A Failure Stands Tall!",
+        "expiration_date": 1738969140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1283.015,
+        "episode_number": "47",
+        "original_air_date": "1155430800",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1001192500016657",
+        "media_id": "446885aa60a30318e63d6ea35a3fb34ec3ab4488",
+        "modified": 1737334087,
+        "slug": "a-failure-stands-tall",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_241181721205-NarutoClassic-Ep047-1920x1080.jpg",
+        "created": 1730390863,
+        "season_number": "1",
+        "title_id": "641211",
+        "tv_rating": "tv-14-v",
+        "published": 1737334087,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1737759600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181721205-NarutoClassic-Ep047-1920x1080.jpg",
+        "id": "AZLjVS_DCjvsJgIeWAEf",
         "auth": false
     }
 ]
