@@ -1,7 +1,6 @@
 {
-    "updated": 1737734231,
-    "added": [],
-    "removed": [
+    "updated": 1737735462,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1449838800,
@@ -29,7 +28,7 @@
             "original_air_date": 1416804300,
             "clip_order": null,
             "auth_launch_date": 1715745600,
-            "modified": 1718979303,
+            "modified": 1737735272,
             "media_id": "9ca5aacf637d833f729540c3918c8596bffacbd0",
             "airing_id": "RADS1005152400070550",
             "id": "24PEJYJ9RKa99zaRH1mZHA",
@@ -44,7 +43,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1718979303,
+            "published": 1737735272,
             "first_published": 1416669623,
             "tags": [],
             "collection_title": "Squidbillies",
@@ -57,5 +56,6 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
