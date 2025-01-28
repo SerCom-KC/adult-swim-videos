@@ -7141,6 +7141,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447442820,
+        "auth_expiration_date": 1716350340,
+        "tms_id": "EP007008180010",
+        "rating": 6.1969385,
+        "description": "The squids meet a legless drifter. Not featuring Patrick Swayze.",
+        "title_suggest": {
+            "input": [
+                "Swayze Crazy",
+                "Crazy"
+            ]
+        },
+        "type": "episode",
+        "title": "Swayze Crazy",
+        "expiration_date": 1766206740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 684.5672339,
+        "episode_number": "4",
+        "original_air_date": 1160366400,
+        "clip_order": null,
+        "auth_launch_date": 1715745600,
+        "modified": 1737992453,
+        "media_id": "d496f54c4cee60d9465814deb5592081b0117e89",
+        "airing_id": "RADS1001272500017819",
+        "id": "i2vONMkHRPS5TJ4agN3xGQ",
+        "slug": "swayze-crazy",
+        "views": 421145,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131114229-squidbillies_010.jpg",
+        "created": 1402945477,
+        "title_id": "651237",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1737992453,
+        "tags": [
+            "squidbillies episode 10 swayze crazy patrick ghost roadhouse movies get it on donkey kong"
+        ],
+        "rating_count": 5357,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1738040400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg",
+        "cma_id": "1352016"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447446180,
         "auth_expiration_date": 1693540799,
         "tms_id": "EP007008180083",
