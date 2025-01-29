@@ -2,88 +2,69 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 28, 2025 at 00:30:14 EST_
+_Last Update: January 29, 2025 at 00:00:35 EST_
 ## Video added
 ### Summary
-581006 American Dad: 1  
-2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-581268 Squidbillies: 1  
-### 798359
-**American Dad S05E07 - Bully For Steve**  
-TV-14-DL 🔒 21:47  
-⌛ February 3, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/bully-for-steve  
-seriesid=`581006` titleid=`798359` id=`fHExvwYNSWqfcy2sY_Kjig` mediaid=`039fc83429d876effd2ecf3dfb68dce29e98ebc9`  
-_After concluding that Steve is too passive, Stan begins to bully him; Reggie asks Hayley out on a date._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881343219918.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881343219918.jpg" height="144px" /></a>
-### 2171438
-**Bob's Burgers S08E07 - The Bleakening Part 2**  
-TV-PG-DL 🔒 21:37  
-⌛ February 3, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-bleakening-part-2  
-seriesid=`2003422` titleid=`2171438` id=`AWd63rgSqD68dq0Op5t4` mediaid=`0784465192256af12e5850f1469d9f5d5a24183a`  
-_After Linda's prized ornaments go missing during a holiday party at the restaurant, Linda suspects one of the attendees as the thief. However, the kids have their own theory: attributing the robbery to the anti-Santa - "The Bleaken."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg" height="144px" /></a>
-### 2074259
-**Infomercials S05E01 - This House Has People in It**  
-TV-14-L 🔓 11:51  
-⌛ February 24, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/infomercials/this-house-has-people-in-it  
-seriesid=`2007823` titleid=`2074259` id=`AXRP-gPLSeFB2d0c38vB` mediaid=`1ca246a6ad4425c58b63342dd80243bcd47da987`  
-_Event from account 00437: Subject 3 prone on kitchen floor.
-ABSurveillanceSolutions.com_  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921359547-infomercials_THHPII_30817.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921359547-infomercials_THHPII_30817.jpg" height="144px" /></a>
-### 651237
-**Squidbillies S02E04 - Swayze Crazy**  
-TV-14-DLV 🔓 11:24  
-⌛ December 19, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/swayze-crazy  
-seriesid=`581268` titleid=`651237` id=`i2vONMkHRPS5TJ4agN3xGQ` mediaid=`d496f54c4cee60d9465814deb5592081b0117e89`  
-_The squids meet a legless drifter. Not featuring Patrick Swayze._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131114229-squidbillies_010.jpg" height="144px" /></a>
+629688 Moral Orel: 1  
+340531 The Brak Show: 1  
+### 723839
+**Moral Orel S03E12 - Nesting**  
+TV-MA 🔓 11:44  
+⌛ March 4, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/moral-orel/nesting  
+seriesid=`629688` titleid=`723839` id=`SVhgnzwIQWeoYYtjOyE4Qg` mediaid=`f3e76e6cf75aef883de17ed9c46eb92b1d5381fd`  
+_Miss Censordoll slowly hatches a plan to make eggs legal again._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311169140-moralorel_046.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311169140-moralorel_046.jpg" height="144px" /></a>
+### 345422
+**The Brak Show S01E06 - Mobab**  
+TV-PG 🔓 11:21  
+⌛ March 4, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-brak-show/mobab  
+seriesid=`340531` titleid=`345422` id=`8LCtE-rFRpiHB20HYp5jYA` mediaid=`da27abd045babc312681711ab61653c9f2a50596`  
+_Zorak introduces his new friend Mobab, who immediately starts hitting on Mom, offering to take her on a trip. Because Mom wants to make Dad jealous, she agrees. Instead, Mobab kidnaps her and traps her in a cocoon. Dad and Brak must come up with a plan to free her._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142518-brak_2106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142518-brak_2106.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2007823 Infomercials: 3  
-581006 American Dad: 1  
-### 2132986
-**Bob's Burgers S07E15 - Thelma and Louise Except Thelma is Linda**  
-TV-PG-L 🔒 21:45  
-⌛ January 27, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/thelma-and-louise-except-thelma-is-linda  
-seriesid=`2003422` titleid=`2132986` id=`AWDToWcPZ-onAnjDLt1u` mediaid=`bc9de6bf7e153627ebe81dd351731cca9c940907`  
-_After Louise gets in trouble at school, Linda is forced to meet with Mr. Frond and potentially could lose her hard-earned position as the Wagstaff bake sale leader._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779965917.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15163779965917.jpg" height="144px" /></a>
-### 2007824
-**Infomercials S04E01 - Fartcopter**  
-TV-14-DLV 🔒 11:02  
-⌛ January 27, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/infomercials/fartcopter  
-seriesid=`2007823` titleid=`2007824` id=`AV-3ELLRwdpKFAKSbWZf` mediaid=`f581111bc1b9cef39b937fd0ca82c5dc01b5831b`  
-_It's a remote-controlled helicopter that also makes a farting noise, like a flying whoopee cushion. The infomercial is hosted by a young, fast-talking, super-enthused kid who shows all the hilarious ways fartcopter can be used._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509848751617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509848751617.jpg" height="144px" /></a>
-### 2007828
-**Infomercials S04E05 - Too Many Cooks**  
-TV-MA-V 🔓 11:09  
-⌛ January 27, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/infomercials/too-many-cooks  
-seriesid=`2007823` titleid=`2007828` id=`AXRP_SlULyLQBOXK_PM3` mediaid=`9ee755a88ccc7045ffa0ce17f670b77958cb3e3b`  
-_In this pilot episode we are introduced to the fun-loving Cook family. Starring Ken Delozier, Tara Ochs, and others. Created by Drew and Yvonne Asparagus and written and directed by Casper Kelly. "Too many cooks may spoil the broth, but they fill our hearts with love." Go to Hell._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092143352-infomercials_cc_toomanycooks_pt1_1.jpg" height="144px" /></a>
-### 2236210
-**Infomercials S10E05 - A Life In Questions: Wisdom School with Aaron Chen**  
-TV-14-DL 🔓 11:15  
-⌛ January 27, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/infomercials/a-life-in-questions-wisdom-school-with-aaron-chen  
-seriesid=`2007823` titleid=`2236210` id=`AXX68R0yLyLQBOXK_Prr` mediaid=`912e88e2ca044da73f241181f711f6af5cdc4736`  
-_When the legendary interviewer Aaron Chen was 9, he stole a microphone and conducted his first on the street vox-pop. 2000 chinwags and 3000 chats later, the Wisdom School adult learning platform._  
-<a href="https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241048238-infomercials_ALIQ_dup-20201123.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241048238-infomercials_ALIQ_dup-20201123.jpg" height="144px" /></a>
-### 2399408
-**American Dad S18E16 - A New Era for the Smith House**  
-TV-14-DLSV 🔒 21:03  
-⌛ January 27, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/a-new-era-for-the-smith-house  
-seriesid=`581006` titleid=`2399408` id=`AY1BlCYqn_kciGPPrEag` mediaid=`c82105f7076f16b0cdb010f227372a0f0c276311`  
-_Klaus house sits for the Smiths while they are away on vacation; Roger investigates the origin of powerful winds plaguing the Eastern Seaboard._  
-<a href="https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121226108-Screenshot2024-02-12at12.25.09PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121226108-Screenshot2024-02-12at12.25.09PM.png" height="144px" /></a>
+322328 Space Ghost Coast to Coast: 3  
+340531 The Brak Show: 1  
+629688 Moral Orel: 1  
+### 322738
+**Space Ghost Coast to Coast S01E07 - Punch**  
+TV-PG 🔓 11:17  
+⌛ January 28, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/punch  
+seriesid=`322328` titleid=`322738` id=`AYl0A0dFOz5CkuTcnwRx` mediaid=`c27b6753fec456e4e713dcc0c07c9f299690e2c6`  
+_After model Cyndi Guyer, the female Fabio, explains what she looks for in a man, the Jerky Boys arrive and promptly threaten to punch Space Ghost in the mouth. The undertow of violence subsides with the appearance of model Dian Parkinson._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041794713-sgc2c_9406_dst_cid-9105370.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041794713-sgc2c_9406_dst_cid-9105370.jpg" height="144px" /></a>
+### 322334
+**Space Ghost Coast to Coast S04E20 - Dam**  
+TV-PG 🔓 12:19  
+⌛ January 28, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/dam  
+seriesid=`322328` titleid=`322334` id=`AYl0N2_wOz5CkuTcnwR6` mediaid=`afd39059cfce60306dd3077e4283b33df475874b`  
+_Space Ghost Coast to Coast welcomes its first-ever Academy Award winner, Charlton Heston, who, after much prodding, offers his trophy to Space Ghost._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420113931-sgc2c_9720.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420113931-sgc2c_9720.jpg" height="144px" /></a>
+### 449388
+**Space Ghost Coast to Coast S08E04 - In Memory of Elizabeth Reed**  
+TV-14-V 🔓 11:53  
+⌛ January 28, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/in-memory-of-elizabeth-reed  
+seriesid=`322328` titleid=`449388` id=`bk2udfR6RgO6cY_nbVmpNw` mediaid=`3ed6e0365ebd7069ca0bcd4e26dd8c0b62380086`  
+_Space Ghost welcomes fellow intergalactic entertainer William Shatner, but their interview is cut short when Space Ghost is called into action to take part in an epic space battle._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420120222-sgc2c_2304.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420120222-sgc2c_2304.jpg" height="144px" /></a>
+### 345423
+**The Brak Show S01E07 - Expiration Day**  
+TV-PG-L 🔒 11:37  
+⌛ January 28, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-brak-show/expiration-day  
+seriesid=`340531` titleid=`345423` id=`bf6ZSp8cT6-qJ_1bC9p9kA` mediaid=`019c04878056bf589cd328aa21c6806cd12f5710`  
+_Thundercleese's parent company, MoroccoBotix, Inc., deactivates him on his birthday. So depressed is Thundercleese that he stops caring for his yard, usually his pride and joy. When an asteroid is discovered to be on a collision course with their neighborhood, Brak and Dad need Thundercleese to save them._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425296-brak_2107.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425296-brak_2107.jpg" height="144px" /></a>
+### 714712
+**Moral Orel S03E02 - Grounded**  
+TV-MA 🔒 11:44  
+⌛ January 28, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/moral-orel/grounded  
+seriesid=`629688` titleid=`714712` id=`6f41aN8GRiap5U1Rs4aMSA` mediaid=`2ea3c06dbc99c88dea4394ae98f53d5af481dd66`  
+_It's finally the last straw when Clay grounds Orel from church._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311165129-moralorel_032.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311165129-moralorel_032.jpg" height="144px" /></a>
