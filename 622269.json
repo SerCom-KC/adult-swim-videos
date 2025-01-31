@@ -2235,7 +2235,7 @@
         "launch_date": 1737154800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181719352-NarutoClassic-Ep046-1920x1080.jpg",
         "id": "AZLjVO2QCjvsJgIeWAEe",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1772837940,
@@ -2282,58 +2282,6 @@
         "launch_date": 1737759600,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181721205-NarutoClassic-Ep047-1920x1080.jpg",
         "id": "AZLjVS_DCjvsJgIeWAEf",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": null,
-        "tms_id": "",
-        "description": "Gaara finally appears in the ninth match, and his opponent is taijutsu (physical technique) specialist Lee.",
-        "title_suggest": {
-            "input": [
-                "Gaara vs. Rock Lee: The Power of Youth Explodes!",
-                "vs. Rock Lee: The Power of Youth Explodes!",
-                "Rock Lee: The Power of Youth Explodes!",
-                "Lee: The Power of Youth Explodes!",
-                "The Power of Youth Explodes!",
-                "Power of Youth Explodes!",
-                "of Youth Explodes!",
-                "Youth Explodes!",
-                "Explodes!"
-            ]
-        },
-        "title": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
-        "expiration_date": 1739573940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
-        "duration": 1269.9687,
-        "episode_number": "48",
-        "original_air_date": "1156035600",
-        "auth_launch_date": null,
-        "clip_order": null,
-        "airing_id": "RADS1001242500017305",
-        "media_id": "d169fb2598eeed9136e65f07042a45f58d8a597b",
-        "modified": 1737935725,
-        "slug": "gaara-vs-rock-lee-the-power-of-youth-explodes",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_241181721588-NarutoClassic-Ep048-1920x1080.jpg",
-        "created": 1730390874,
-        "season_number": "1",
-        "title_id": "641212",
-        "tv_rating": "tv-14",
-        "published": 1737935725,
-        "tags": [],
-        "collection_title": "Naruto",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1738364400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181721588-NarutoClassic-Ep048-1920x1080.jpg",
-        "id": "AZLjVVuECjvsJgIeWAEg",
         "auth": false
     }
 ]
