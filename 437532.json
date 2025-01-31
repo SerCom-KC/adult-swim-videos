@@ -187,18 +187,16 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1738904340,
-        "tms_id": "EP003034830041",
-        "description": "Leela decides to have plastic surgery so that she will appear to have two eyes.",
+        "auth_expiration_date": 1738299540,
+        "tms_id": "EP003034830036",
+        "description": "Bender meets a charming fembot in the Bending Factory when Farnsworth sends him there for rehabilitation.",
         "title_suggest": {
             "input": [
-                "The Cyber House Rules",
-                "Cyber House Rules",
-                "House Rules",
-                "Rules"
+                "Bendless Love",
+                "Love"
             ]
         },
-        "title": "The Cyber House Rules",
+        "title": "Bendless Love",
         "type": "episode",
         "expiration_date": null,
         "platforms": [
@@ -208,29 +206,29 @@
             "fire-tv"
         ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1395.9946,
-        "episode_number": "11",
-        "original_air_date": 1047268800,
-        "auth_launch_date": 1738299600,
+        "duration": 1401.7337,
+        "episode_number": "6",
+        "original_air_date": 1046836800,
+        "auth_launch_date": 1737694800,
         "clip_order": null,
-        "airing_id": "RADS1001242500017280",
-        "media_id": "8cb2b6dd0c145133f5f62516b4ab1d1c38f35583",
-        "modified": 1737871765,
-        "slug": "the-cyber-house-rules",
+        "airing_id": "RADS1001182500016644",
+        "media_id": "6176a61e536589b765421a0b7454de74357e3a78",
+        "modified": 1737268243,
+        "slug": "bendless-love",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_22322144180-Futurama_040_TheCyberHouseRules.png",
-        "created": 1647884400,
-        "title_id": "437704",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171417144-Futurama_035_BendlessLove.png",
+        "created": 1647053609,
+        "title_id": "437699",
         "season_number": "3",
         "tv_rating": "tv-pg-l",
-        "published": 1737871765,
+        "published": 1737268243,
         "tags": [],
         "collection_title": "Futurama",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_22322144180-Futurama_040_TheCyberHouseRules.png",
-        "id": "AX-tkHer208s7zyYUMY8",
+        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171417144-Futurama_035_BendlessLove.png",
+        "id": "AX98C5ic208s7zyYUMTv",
         "auth": true
     }
 ]
