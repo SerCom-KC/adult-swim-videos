@@ -152,7 +152,7 @@
         "launch_date": 1735466400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_24121713813-OPS17E69.jpg",
         "id": "AZNka_kRJ6hTPa_yiOAx",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1736071140,
@@ -242,7 +242,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1738490400,
         "id": "AZQ-9Crm9OuJ1Mb1YU-T",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739095140,
@@ -320,6 +320,42 @@
         "modified": 1737467431,
         "slug": "sad-memories-law-the-boy-from-the-white-town",
         "id": "AZSFr9C44ijrGBacAUj5",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1740304740,
+        "created": 1738012855,
+        "tms_id": "",
+        "title_id": "2550950",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "Law's attack on Corazon looks less successful than he thought! But Corazon's mysterious silence hides a fact that may save Law's life.",
+        "title_suggest": {
+            "input": [
+                "A Celestial Dragon! Doffy's Stormy Past!",
+                "Celestial Dragon! Doffy's Stormy Past!",
+                "Dragon! Doffy's Stormy Past!",
+                "Doffy's Stormy Past!",
+                "Stormy Past!",
+                "Past!"
+            ]
+        },
+        "published": 1738353698,
+        "title": "A Celestial Dragon! Doffy's Stormy Past!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1306.2716,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1738477800,
+        "auth_launch_date": 1738490400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1001272500017961",
+        "media_id": "09e9ae2510b3bd50438cf9a4a12c64f0e2dc5b0c",
+        "modified": 1738353698,
+        "slug": "a-celestial-dragon-doffys-stormy-past",
+        "id": "AZSpo4z84ijrGBacAUm6",
         "auth": true
     }
 ]
