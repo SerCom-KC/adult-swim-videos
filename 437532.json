@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1738472340,
-        "tms_id": "EP003034830038",
-        "description": "Dr. Zoidberg breaks into show business by making a movie with his uncle.",
-        "title_suggest": {
-            "input": [
-                "That's Lobstertainment!",
-                "Lobstertainment!"
-            ]
-        },
-        "title": "That's Lobstertainment!",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1399.8651,
-        "episode_number": "8",
-        "original_air_date": 1047009600,
-        "auth_launch_date": 1737867600,
-        "clip_order": null,
-        "airing_id": "RADS1001202500016858",
-        "media_id": "befc76c5af63f47d682cd9b022b69206c38bdf22",
-        "modified": 1737441570,
-        "slug": "thats-lobstertainment",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171420114-Futurama_037_ThatsLobstertainment.png",
-        "created": 1647451918,
-        "title_id": "437701",
-        "season_number": "3",
-        "tv_rating": "tv-pg",
-        "published": 1737441570,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171420114-Futurama_037_ThatsLobstertainment.png",
-        "id": "AX-TyVEA_0O4w1rD3R1v",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1738558740,
         "tms_id": "EP003034830039",
         "description": "Bender transports hazardous cargo through a penguin refuge on Pluto.",
@@ -229,6 +184,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311314523-Futurama_041_InsaneInTheMainframe.png",
         "id": "AX_CLtJ5208s7zyYUMbb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1739077140,
+        "tms_id": "EP003034830043",
+        "description": "Bender makes a new name for himself when he gets the opportunity to live out his folk-rock dream.",
+        "title_suggest": {
+            "input": [
+                "Bendin' in the Wind",
+                "in the Wind",
+                "the Wind",
+                "Wind"
+            ]
+        },
+        "title": "Bendin' in the Wind",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1399.1645,
+        "episode_number": "13",
+        "original_air_date": 1047528000,
+        "auth_launch_date": 1738472400,
+        "clip_order": null,
+        "airing_id": "RADS1001272500017933",
+        "media_id": "d0f518783c64186ec0a7456506fb93fea9e3378b",
+        "modified": 1738048736,
+        "slug": "bendin-in-the-wind",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311315519-Futurama_042_BendinInTheWind.png",
+        "created": 1648474971,
+        "title_id": "437706",
+        "season_number": "3",
+        "tv_rating": "tv-pg-d",
+        "published": 1738048736,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311315519-Futurama_042_BendinInTheWind.png",
+        "id": "AX_Qw93e208s7zyYUMcM",
         "auth": true
     }
 ]
