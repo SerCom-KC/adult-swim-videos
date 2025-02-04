@@ -1,55 +1,6 @@
 [
     {
         "ott_launch_date": 1447789500,
-        "auth_expiration_date": 1738645140,
-        "tms_id": "SH020223070000",
-        "description": "In a 1960s-era informercial for an electric vibrating salad tossing device that, unbeknownst to the host, might have a dual purpose.",
-        "title_suggest": {
-            "input": [
-                "The Salad Mixxxer",
-                "Salad Mixxxer",
-                "Mixxxer"
-            ]
-        },
-        "expiration_date": 1735621140,
-        "type": "episode",
-        "title": "The Salad Mixxxer",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 677.0333667,
-        "episode_number": "2",
-        "original_air_date": 1413273600,
-        "auth_launch_date": 1735621200,
-        "clip_order": null,
-        "media_id": "d87a882e506fe86786c6e9382e5d2bc3e1424c72",
-        "modified": 1735481326,
-        "airing_id": "RADS1012272400011760",
-        "slug": "the-salad-mixxxer",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509845082819.jpg",
-        "created": 1510605037,
-        "season_number": "4",
-        "title_id": "2007843",
-        "tv_rating": "tv-ma",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1735481326,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1733202000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509845082819.jpg",
-        "id": "AV-3E6AFwdpKFAKSbWZs",
-        "auth": true
-    },
-    {
-        "ott_launch_date": 1447789500,
         "auth_expiration_date": 1739854740,
         "tms_id": "SH020417690000",
         "description": "Sure, Newbridge, NJ is known as the muffler capital of the world but it's so much more than that. Learn about the fascinating often insane past and present of the town George Washington quickly decided against making the capital of the US.",
@@ -256,7 +207,7 @@
         "launch_date": 1736226000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150981959475.jpg",
         "id": "AV-3J1rFwdpKFAKSbWaw",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789140,
@@ -500,6 +451,50 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1727150340,
+        "tms_id": "EP027786570020",
+        "description": "A lazy janitor builds a robot to do his dirty work.",
+        "title_suggest": {
+            "input": [
+                "M.O.P.Z."
+            ]
+        },
+        "title": "M.O.P.Z.",
+        "expiration_date": 1741064340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 674.674,
+        "episode_number": "2",
+        "original_air_date": "1459843200",
+        "auth_launch_date": 1724126400,
+        "clip_order": null,
+        "airing_id": "RADS1001302500018712",
+        "media_id": "4efbd1397adb7db6e0ae5e60c008b3131d98f133",
+        "modified": 1738217335,
+        "slug": "m-o-p-z",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_20921511189-infomercials_mopz_1.jpg",
+        "created": 1598971995,
+        "season_number": "6",
+        "title_id": "2086423",
+        "tv_rating": "tv-14-lsv",
+        "published": 1738217335,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1738645200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921511189-infomercials_mopz_1.jpg",
+        "id": "AXRKKGXYSeFB2d0c38uE",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1699333140,
         "tms_id": "EP027786570038",
         "description": "Ben goes down a late-night internet wormhole of bad advice and growing neuroses.",
@@ -736,52 +731,6 @@
         "launch_date": 1738126800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201124/thumbnails/2_2011241048238-infomercials_ALIQ_dup-20201123.jpg",
         "id": "AXX68R0yLyLQBOXK_Prr",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1701147540,
-        "tms_id": "EP027786570042",
-        "description": "A game show where Jo Firestone sets up a cookie tasting in a parking lot to try to make friends. Contestants must ultimately decide between a friendship and $50 cash.",
-        "title_suggest": {
-            "input": [
-                "Rate the Cookie",
-                "the Cookie",
-                "Cookie"
-            ]
-        },
-        "title": "Rate the Cookie",
-        "expiration_date": 1738645140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 733.3326,
-        "episode_number": "6",
-        "original_air_date": "1608022800",
-        "auth_launch_date": 1698120000,
-        "clip_order": null,
-        "airing_id": "RADS1002132400053305",
-        "media_id": "e0763ed1f90ba671063db9ebcb004357d88c51ed",
-        "modified": 1707841044,
-        "slug": "rate-the-cookie",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/1_201249963-infomercials_RateTheCookie_dup-20201201.jpg",
-        "created": 1607090952,
-        "season_number": "10",
-        "title_id": "2236211",
-        "tv_rating": "tv-pg-l",
-        "published": 1707841044,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1708059600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_201249963-infomercials_RateTheCookie_dup-20201201.jpg",
-        "id": "AXYuFdlLQJ_4Uej5kTc7",
         "auth": false
     },
     {
