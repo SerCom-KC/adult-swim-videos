@@ -2282,7 +2282,7 @@
         "launch_date": 1737759600,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181721205-NarutoClassic-Ep047-1920x1080.jpg",
         "id": "AZLjVS_DCjvsJgIeWAEf",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1773439140,
@@ -2334,55 +2334,6 @@
         "launch_date": 1738364400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181721588-NarutoClassic-Ep048-1920x1080.jpg",
         "id": "AZLjVVuECjvsJgIeWAEg",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": null,
-        "tms_id": "",
-        "description": "Lee uses the banned technique Primary Lotus to attack Gaara.",
-        "title_suggest": {
-            "input": [
-                "Lee's Hidden Strength: Forbidden Secret Jutsu!",
-                "Hidden Strength: Forbidden Secret Jutsu!",
-                "Strength: Forbidden Secret Jutsu!",
-                "Forbidden Secret Jutsu!",
-                "Secret Jutsu!",
-                "Jutsu!"
-            ]
-        },
-        "title": "Lee's Hidden Strength: Forbidden Secret Jutsu!",
-        "expiration_date": 1740178740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
-        "duration": 1282.1475,
-        "episode_number": "49",
-        "original_air_date": "1156640400",
-        "auth_launch_date": null,
-        "clip_order": null,
-        "airing_id": "RADS1001312500019163",
-        "media_id": "e31d53805f9bbb71b0903df1b95fbb97475a0093",
-        "modified": 1738540839,
-        "slug": "lees-hidden-strength-forbidden-secret-jutsu",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_241181722162-NarutoClassic-Ep049-1920x1080.jpg",
-        "created": 1730390888,
-        "season_number": "1",
-        "title_id": "641213",
-        "tv_rating": "tv-pg-v",
-        "published": 1738540839,
-        "tags": [],
-        "collection_title": "Naruto",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1738969200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181722162-NarutoClassic-Ep049-1920x1080.jpg",
-        "id": "AZLjVY_EDT7oKsPdFfa9",
         "auth": false
     }
 ]
