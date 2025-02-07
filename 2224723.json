@@ -93,7 +93,7 @@
         "launch_date": 1735880400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200811/thumbnails/2_208111258129-YOLO_004_dup-20200722..jpg",
         "id": "AXPedVjZSeFB2d0c38Xv",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1736485140,
@@ -463,52 +463,7 @@
         "launch_date": 1738904400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230120/thumbnails/2_23120182482-YOLO202Still001.png",
         "id": "AYXMaLuK4k01GlbfzrYH",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1738904340,
-        "tms_id": "EP045818780001",
-        "description": "After a wild night of hard partying, Sarah and Rachel stumble into a spiritual commune for a free sausage sizzle. There they encounter the Purple Fire God who tells them their destiny.",
-        "title_suggest": {
-            "input": [
-                "Sausage Sizzle",
-                "Sizzle"
-            ]
-        },
-        "title": "Sausage Sizzle",
-        "expiration_date": 1732251540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AXNJnfSIC8QgH-t19J8N",
-        "duration": 674.7074,
-        "episode_number": "1",
-        "original_air_date": 1674450000,
-        "auth_launch_date": 1732251600,
-        "clip_order": null,
-        "airing_id": "RADS1011152400003689",
-        "media_id": "b73cbd3a6a46ebe97ed9f78ce18ef56cc0d640fd",
-        "modified": 1731825401,
-        "slug": "sausage-sizzle",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230123/thumbnails/1_231231537173-YOLO201Still001tiny.png",
-        "created": 1674506290,
-        "season_number": "2",
-        "title_id": "2412373",
-        "tv_rating": "tv-ma-l",
-        "published": 1731825401,
-        "tags": [],
-        "collection_title": "YOLO",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1729224000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230123/thumbnails/2_231231537173-YOLO201Still001tiny.png",
-        "id": "AYXgWkOVuLQD-MTtYfux",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1741323540,
