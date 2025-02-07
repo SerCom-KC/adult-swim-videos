@@ -2,86 +2,78 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 7, 2025 at 00:00:32 EST_
+_Last Update: February 7, 2025 at 00:30:42 EST_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-439722 The Venture Bros.: 2  
-547867 Tom Goes To The Mayor: 1  
-### 748161
-**American Dad S06E16 - Jenny Fromdabloc**  
-TV-14 🔒 21:41  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+### 2171460
+**Bob's Burgers S08E20 - Mission Impos-slug-ble**  
+TV-PG-LV 🔒 21:42  
 ⌛ February 13, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/jenny-fromdabloc  
-seriesid=`581006` titleid=`748161` id=`NZO346jOQv2UKObAIyt4vQ` mediaid=`0cd0eac044c68897359754d5f8ecfc8bb227e426`  
-_After Snot professes his love for Hayley and gets shot down, Steve and Roger devise a plan to cheer him up. Roger dresses up as Steve's cousin from New Jersey, Jenny Fromdabloc, and Snot falls hard for her._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994764310111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152994764310111.jpg" height="144px" /></a>
-### 748157
-**American Dad S06E15 - License to Till**  
-TV-14 🔒 21:46  
+https://www.adultswim.com/videos/bobs-burgers/mission-impos-slug-ble  
+seriesid=`2003422` titleid=`2171460` id=`AWjywLXKHl5gR6828yeT` mediaid=`9b471691672486e770a63e75f36bfe163a70b31a`  
+_When Louise's extensive Burobu card collection gets confiscated at school, she devises a tricky plan to get them back. Meanwhile, Bob must give a eulogy for an old acquaintance, despite an unfortunate incident that happened years ago._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155146510128312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155146510128312.jpg" height="144px" /></a>
+### 2171461
+**Bob's Burgers S08E21 - Something Old, Something New, Something Bob Caters for You**  
+TV-PG-L 🔒 21:39  
 ⌛ February 13, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/license-to-till  
-seriesid=`581006` titleid=`748157` id=`dz3vS03bSnmzfl1QM1kY7g` mediaid=`c5a113a156594c9dbd8d3a692c36e5e3906b5e41`  
-_When Steve has trouble crossing over into the "cool kids" social circle, Klaus and Roger place their bets to see how quickly Roger can make him cool._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299475608909.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299475608909.jpg" height="144px" /></a>
-### 772174
-**The Venture Bros. S04E08 - Pinstripes & Poltergeists**  
-TV-14-DLV 🔓 22:22  
-⌛ November 26, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/pinstripes-poltergeists  
-seriesid=`439722` titleid=`772174` id=`i9B42vXAQ0SbYYqFD6pWhA` mediaid=`cdb6a4193b69ecc8306e6aa6a7df581b27bb9973`  
-_The Monarch makes his move on Dr. Venture, just as he's distracted by problems with zoning regulations.  But how does Monstroso play in and what are his ultimate plans?  And how does it all relate to Brock Samson and the mystery of Sphinx? Part of Season 4._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116147240-venture_147.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116147240-venture_147.jpg" height="144px" /></a>
-### 812728
-**The Venture Bros. S04E09 - The Diving Bell vs. the Butter-Glider**  
-TV-14 🔓 22:44  
-⌛ November 26, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/the-diving-bell-vs-the-butter-glider  
-seriesid=`439722` titleid=`812728` id=`KkU0folZRdWaVphq9IZ2kg` mediaid=`1a771bf4ed41d59033817c3166c0cfd5c5705fa3`  
-_The semi-season opener finds Dr. Venture semi-paralyzed in a trauma-induced coma. Sgt. Hatred and the boys recruit the medical minds of Conjectural Technologies for the mystery diagnosis. Meanwhile, the Monarch is over the moon about his latest gadget, but it's driving a hot wedge in his relationships with his wife and henchmen._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149196-venture_150_dst_cid_VAHC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149196-venture_150_dst_cid_VAHC.jpg" height="144px" /></a>
-### 635907
-**Tom Goes To The Mayor S02E09 - Saxman**  
-TV-14 🔓 11:14  
-⌛ April 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/saxman  
-seriesid=`547867` titleid=`635907` id=`ZiwyDpkpTeKv8OPjhbc-GQ` mediaid=`f2c691e024c5817ed6dd036bd60da82315859433`  
-_The Mayor hires a smooth jazz saxman, managed by Tom, to perform at the Grand Opening of a Waterbed Galleria._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/bobs-burgers/something-old-something-new-something-bob-caters-for-you  
+seriesid=`2003422` titleid=`2171461` id=`AWjywSA7Hl5gR6828yeU` mediaid=`f94d7b269e0ce2b79b6f201867c0375f10c2bf2e`  
+_Just as Bob wonders if working in the restaurant business is worth it, a couple who fell in love at the restaurant asks the Belchers to cater their wedding. When things don't go as planned, Linda steps in and attempts to save the day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155198937820315.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155198937820315.jpg" height="144px" /></a>
+### 438051
+**Futurama S04E01 - Roswell That Ends Well**  
+TV-PG-L 🔒 23:22  
+⌛ February 13, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/roswell-that-ends-well  
+seriesid=`437532` titleid=`438051` id=`AX_9AlGE_0O4w1rD3R9B` mediaid=`c5065edc6acdf8281b2d603296087e8e7537c7c6`  
+_A supernova sends the Planet Express ship back in time._  
+<a href="https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_22471559376-Futurama_045_RoswellThatEndsWell.png"><img src="https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_22471559376-Futurama_045_RoswellThatEndsWell.png" height="144px" /></a>
+### 731541
+**King of the Hill S10E14 - Hank's Bully**  
+TV-PG-L 🔒 23:53  
+⌛ February 13, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/hanks-bully  
+seriesid=`629835` titleid=`731541` id=`Y_k0P4RXTjSAtRnJkvqujQ` mediaid=`1c94643e02c21f4f2bda21eb794aa7a40a7a2a45`  
+_When new neighbors move in, their young son starts bullying Hank, making his life miserable; Dale talks Peggy into trying her hand at decorative taxidermy._  
+<a href="https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246145856-KingOfTheHill_1003_HanksBully.png"><img src="https://media.cdn.adultswim.com/uploads/20220406/thumbnails/2_2246145856-KingOfTheHill_1003_HanksBully.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2224723 YOLO: 1  
-547867 Tom Goes To The Mayor: 1  
-581006 American Dad: 2  
-### 2412373
-**YOLO S02E01 - Sausage Sizzle**  
-TV-MA-L 🔒 11:14  
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+### 2171450
+**Bob's Burgers S08E10 - The Secret Ceramics Room of Secrets**  
+TV-PG-L 🔓 21:36  
 ⌛ February 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/yolo/sausage-sizzle  
-seriesid=`2224723` titleid=`2412373` id=`AYXgWkOVuLQD-MTtYfux` mediaid=`b73cbd3a6a46ebe97ed9f78ce18ef56cc0d640fd`  
-_After a wild night of hard partying, Sarah and Rachel stumble into a spiritual commune for a free sausage sizzle. There they encounter the Purple Fire God who tells them their destiny._  
-<a href="https://media.cdn.adultswim.com/uploads/20230123/thumbnails/2_231231537173-YOLO201Still001tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230123/thumbnails/2_231231537173-YOLO201Still001tiny.png" height="144px" /></a>
-### 612654
-**Tom Goes To The Mayor S01E08 - Boy Meets Mayor**  
-TV-PG-D 🔓 11:43  
+https://www.adultswim.com/videos/bobs-burgers/the-secret-ceramics-room-of-secrets  
+seriesid=`2003422` titleid=`2171450` id=`AWd63IpKqD68dq0Op5t2` mediaid=`a8471742d545b46862416990ae4b04b7d18b95f4`  
+_When the kids are tasked with making gifts for their grandma, they search for a secret room filled with homemade ceramics. Meanwhile, Teddy starts a phone repair service and the adults become determined to improve his online rating._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154817279565119.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154817279565119.jpg" height="144px" /></a>
+### 2171451
+**Bob's Burgers S08E11 - Sleeping with the Frenemy**  
+TV-PG-L 🔓 21:42  
 ⌛ February 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/boy-meets-mayor  
-seriesid=`547867` titleid=`612654` id=`pDHGdDC3TG-iFQzPnP2Mag` mediaid=`c05eabab9b91a26db36128425604d324749c998b`  
-_After the Mayor is caught in a dirty sex scandal Tom is brought in to be his PR man.  In order to boost the Mayor's public opinion they enter into a local hot air balloon challenge.  Special Guest:  Bob Odenkirk._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836424-tgttm_008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836424-tgttm_008.jpg" height="144px" /></a>
-### 822207
-**American Dad S06E04 - Stan's Food Restaurant**  
-TV-14 🔒 21:48  
+https://www.adultswim.com/videos/bobs-burgers/sleeping-with-the-frenemy  
+seriesid=`2003422` titleid=`2171451` id=`AWdWDWoGqD68dq0Op5ju` mediaid=`1008630bc02857a6e5214c023a4e5eb8051ddd31`  
+_Tina allows Tammy to spend Spring Break with the Belchers - and even plays Cupid, setting up Tammy with a boy from out of town. Meanwhile, Gene and Bob enlist the help of Dr. Yap in finding a baby tooth to complete Linda's collection._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg" height="144px" /></a>
+### 437704
+**Futurama S03E11 - The Cyber House Rules**  
+TV-PG-L 🔓 23:15  
 ⌛ February 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/stans-food-restaurant  
-seriesid=`581006` titleid=`822207` id=`T2nEdzPeTh-5COE75E0diw` mediaid=`6fcc0633eabcccd1b48b7d3a9f2090aac3495a22`  
-_Roger offers to help Stan live out his dream of opening a restaurant until their different visions for what the eatery should be causes havoc._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433561333518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433561333518.jpg" height="144px" /></a>
-### 822206
-**American Dad S06E03 - Best Little Horror House in Langley Falls**  
-TV-14 🔒 21:47  
+https://www.adultswim.com/videos/futurama/the-cyber-house-rules  
+seriesid=`437532` titleid=`437704` id=`AX-tkHer208s7zyYUMY8` mediaid=`8cb2b6dd0c145133f5f62516b4ab1d1c38f35583`  
+_Leela decides to have plastic surgery so that she will appear to have two eyes._  
+<a href="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_22322144180-Futurama_040_TheCyberHouseRules.png"><img src="https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_22322144180-Futurama_040_TheCyberHouseRules.png" height="144px" /></a>
+### 731536
+**King of the Hill S10E09 - The Year of Washing Dangerously**  
+TV-PG-DL 🔓 23:54  
 ⌛ February 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/best-little-horror-house-in-langley-falls  
-seriesid=`581006` titleid=`822206` id=`h9iwNwUDRQ6Sa7MwiFV0eg` mediaid=`547e2e764ee5331028cbc20ff23c8d964cbf82be`  
-_After hosting the scariest haunted house in the neighborhood for years, Stan is threatened by a competitive neighbor._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002043995718.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002043995718.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/the-year-of-washing-dangerously  
+seriesid=`629835` titleid=`731536` id=`_Q9lmYEjTX2CCV1BLnBF2A` mediaid=`959478dd9f1936bf03137a086323086e6cee655d`  
+_Strickland partners with Kahn in a car wash business, forcing Hank to become Kahn's "work monkey."_  
+<a href="https://media.cdn.adultswim.com/uploads/20220402/thumbnails/2_22421243453-WashingDangerously.png"><img src="https://media.cdn.adultswim.com/uploads/20220402/thumbnails/2_22421243453-WashingDangerously.png" height="144px" /></a>
