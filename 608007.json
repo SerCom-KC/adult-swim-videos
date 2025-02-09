@@ -149,7 +149,7 @@
         "launch_date": 1736071200,
         "poster": "https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_241217138500-OPS17E70.jpg",
         "id": "AZNkbgNIIFyXXN-f0M-A",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1738490340,
@@ -230,7 +230,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1739095200,
         "id": "AZRgefWt4ijrGBacAUgd",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739699940,
@@ -305,6 +305,45 @@
         "modified": 1738353698,
         "slug": "a-celestial-dragon-doffys-stormy-past",
         "id": "AZSpo4z84ijrGBacAUm6",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1740909540,
+        "created": 1738601171,
+        "tms_id": "",
+        "title_id": "2550951",
+        "season_number": "17",
+        "tv_rating": "tv-14-lv",
+        "description": "Law learns the secret behind why Corazon feigns being mute and is baffled when he takes him on a journey to cure the White Lead Disease.",
+        "title_suggest": {
+            "input": [
+                "A Rocky Road! Law and Corazon's Journey of Life!",
+                "Rocky Road! Law and Corazon's Journey of Life!",
+                "Road! Law and Corazon's Journey of Life!",
+                "Law and Corazon's Journey of Life!",
+                "and Corazon's Journey of Life!",
+                "Corazon's Journey of Life!",
+                "Journey of Life!",
+                "of Life!",
+                "Life!"
+            ]
+        },
+        "published": 1738610945,
+        "title": "A Rocky Road! Law and Corazon's Journey of Life!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1295.5276,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1739082600,
+        "auth_launch_date": 1739095200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1002032500019565",
+        "media_id": "1493ff5fd4f17e3464bcb650bc9a413ef68a4b9c",
+        "modified": 1738610945,
+        "slug": "a-rocky-road-law-and-corazons-journey-of-life",
+        "id": "AZTMtIrvem4-xVQSK9My",
         "auth": true
     }
 ]
