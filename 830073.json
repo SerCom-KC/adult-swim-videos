@@ -641,7 +641,7 @@
                 "Love"
             ]
         },
-        "expiration_date": 2085368400,
+        "expiration_date": 1755057599,
         "type": "episode",
         "title": "Love",
         "platforms": [
@@ -658,8 +658,8 @@
         "auth_launch_date": 1726632000,
         "clip_order": null,
         "media_id": "39fe6a853ad0a308d6a91736bd54753615bb324f",
-        "modified": 1739255578,
-        "airing_id": "RADS1011161800045622",
+        "modified": 1739256301,
+        "airing_id": "RADS1002112500021236",
         "slug": "love",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/1_203121346123-offtheair_802_dup-20180821.jpg",
@@ -669,15 +669,15 @@
         "tv_rating": "tv-14-dl",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1739255578,
+        "published": 1739256301,
         "tags": [],
         "collection_title": "Off The Air",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1542949200,
+        "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121346123-offtheair_802_dup-20180821.jpg",
         "id": "AWVY_2rSh5enQuYyHe8n",
-        "auth": false
+        "auth": true
     },
     {
         "auth": true,
@@ -1117,7 +1117,7 @@
         "clip_order": null,
         "airing_id": "RADS1002112500021256",
         "media_id": "585456622cce72e95aaa87b0c00cb1167e28705f",
-        "modified": 1739255578,
+        "modified": 1739256178,
         "slug": "family",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20211020/thumbnails/1_2110201135538-FamilyThumb.png",
@@ -1125,7 +1125,7 @@
         "title_id": "2321721",
         "season_number": "11",
         "tv_rating": "tv-14-l",
-        "published": 1739255578,
+        "published": 1739256178,
         "tags": [],
         "collection_title": "Off The Air",
         "disable_ads": false,
