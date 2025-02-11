@@ -210,55 +210,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1461592740,
-        "auth_expiration_date": 1727755140,
-        "tms_id": "SH024039740000",
-        "description": "No one is better at portraying rehabilitationamalist Giles Vanderhoot than Vanderhoot himself.",
-        "title_suggest": {
-            "input": [
-                "Giles Vanderhoot",
-                "Vanderhoot"
-            ]
-        },
-        "expiration_date": 1741665540,
-        "type": "episode",
-        "title": "Giles Vanderhoot",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 651.2085071,
-        "episode_number": "3",
-        "original_air_date": 1461657600,
-        "auth_launch_date": 1724731200,
-        "clip_order": null,
-        "media_id": "df4c146fbbefd9fd346bb414506997591efef05b",
-        "modified": 1738821773,
-        "airing_id": "RADS1002062500020633",
-        "slug": "giles-vanderhoot",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150980632941.jpg",
-        "created": 1510606611,
-        "season_number": "6",
-        "title_id": "2086419",
-        "tv_rating": "tv-14-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1738821773,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1739250000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150980632941.jpg",
-        "id": "AV-3K6YjwdpKFAKSbWbA",
-        "auth": false
-    },
-    {
         "ott_launch_date": 1447789140,
         "auth_expiration_date": 1742270340,
         "tms_id": "SH020665860000",
@@ -310,6 +261,56 @@
         "launch_date": 1736830800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509813513710.jpg",
         "id": "AV-3KdR1wdpKFAKSbWa5",
+        "auth": false
+    },
+    {
+        "ott_launch_date": 1447789560,
+        "auth_expiration_date": 1739249940,
+        "tms_id": "SH020222930000",
+        "description": "Inventor Kent Ross introduces his newest dietary supplement that increases muscle growth, sex drive, and intelligence... in dogs! And, a popular fitness couple abandons typical fad systems and introduce their new program based on ancient spells and gothic rituals.",
+        "title_suggest": {
+            "input": [
+                "Alpha Chow & Goth Fitness",
+                "Chow & Goth Fitness",
+                "& Goth Fitness",
+                "Goth Fitness",
+                "Fitness"
+            ]
+        },
+        "expiration_date": 1736225940,
+        "type": "episode",
+        "title": "Alpha Chow & Goth Fitness",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 659.03,
+        "episode_number": "",
+        "original_air_date": 1413878400,
+        "auth_launch_date": 1736226000,
+        "clip_order": null,
+        "media_id": "8347e15d26df6e2ae701062954613cd452af9ca5",
+        "modified": 1736870382,
+        "airing_id": "RADS1001022500013094",
+        "slug": "alpha-chow-goth-fitness",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509761924415.jpg",
+        "created": 1510608292,
+        "season_number": "4",
+        "title_id": "2007829",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1736870382,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "modified_by": "ODT Listener",
+        "launch_date": 1733806800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509761924415.jpg",
+        "id": "AV-3RUyRZ-onAnjDLtAm",
         "auth": true
     },
     {
@@ -776,6 +777,51 @@
         "launch_date": 1738731600,
         "poster": "https://media.cdn.adultswim.com/uploads/20201204/thumbnails/2_201249963-infomercials_RateTheCookie_dup-20201201.jpg",
         "id": "AXYuFdlLQJ_4Uej5kTc7",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1701752340,
+        "tms_id": "SH036941010000",
+        "description": "Action. In this latest installment of the blockbuster movie franchise, super agent Danny Ketchup must save the world from terrorists who have developed a Supergun with bullets the size of Washington, D.C.",
+        "title_suggest": {
+            "input": [
+                "Danny Ketchup",
+                "Ketchup"
+            ]
+        },
+        "title": "Danny Ketchup",
+        "expiration_date": 1739249940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 780.6465,
+        "episode_number": "7",
+        "original_air_date": "1608627600",
+        "auth_launch_date": 1698724800,
+        "clip_order": null,
+        "airing_id": "RADS1002132400053307",
+        "media_id": "0835d116a119d8c62fe1a5b863c1567f80da881c",
+        "modified": 1707841358,
+        "slug": "danny-ketchup",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/1_2012171756181-infomercials_DannyKetchup_dup-20201217.jpg",
+        "created": 1608245780,
+        "season_number": "10",
+        "title_id": "2236212",
+        "tv_rating": "tv-ma-l",
+        "published": 1707841358,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1708059600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20201217/thumbnails/2_2012171756181-infomercials_DannyKetchup_dup-20201217.jpg",
+        "id": "AXZy6yFzbxpjZvbXYlqP",
         "auth": false
     },
     {
