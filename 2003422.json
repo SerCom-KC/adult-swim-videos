@@ -1,56 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1739422740,
-        "tms_id": "EP012792980155",
-        "description": "The Belchers attend open houses for the free food, per Linda's \"momnipotent\" Mother's Day request. When Linda meets a real estate agent and agrees to a private showing, the family ends up at the helm of a real estate scheme.",
-        "title_suggest": {
-            "input": [
-                "Mo Mommy Mo Problems",
-                "Mommy Mo Problems",
-                "Mo Problems",
-                "Problems"
-            ]
-        },
-        "title": "Mo Mommy Mo Problems",
-        "expiration_date": 1693799999,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1298.9,
-        "episode_number": "19",
-        "original_air_date": 1551061800,
-        "auth_launch_date": 1738818000,
-        "clip_order": null,
-        "media_id": "18d43b0b9bcb6f90ebb3cfcc2fa51344fa05d201",
-        "modified": 1738393170,
-        "airing_id": "RADS1001312500019104",
-        "slug": "mo-mommy-mo-problems",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155085074712611.jpg",
-        "created": 1550260917,
-        "season_number": "8",
-        "title_id": "2171459",
-        "tv_rating": "tv-pg-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1738393170,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1693195200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155085074712611.jpg",
-        "id": "AWjywFQVHl5gR6828yeS",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1739509140,
         "tms_id": "",
         "description": "When Louise's extensive Burobu card collection gets confiscated at school, she devises a tricky plan to get them back. Meanwhile, Bob must give a eulogy for an old acquaintance, despite an unfortunate incident that happened years ago.",
@@ -391,6 +341,54 @@
         "launch_date": 1733115600,
         "poster": "https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_2310171827289-Screenshot2023-10-17at6.27.18PM.png",
         "id": "AYsU2iw2n_kciGPPrC3g",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1740027540,
+        "tms_id": "",
+        "description": "Gene's BFF betrays him.",
+        "title_suggest": {
+            "input": [
+                "Roller? I Hardly Know Her!",
+                "I Hardly Know Her!",
+                "Hardly Know Her!",
+                "Know Her!",
+                "Her!"
+            ]
+        },
+        "title": "Roller? I Hardly Know Her!",
+        "expiration_date": 1734325140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1286.3851,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1739422800,
+        "clip_order": null,
+        "airing_id": "RADS1002072500021022",
+        "media_id": "3b939ebd41467aa4c5ef58b6e759c95c15876a0d",
+        "modified": 1739001356,
+        "slug": "roller-i-hardly-know-her",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/1_2310231117254-Screenshot2023-10-23at11.13.09AM.png",
+        "created": 1696862274,
+        "season_number": "9",
+        "title_id": "2438924",
+        "tv_rating": "",
+        "published": 1739001356,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1733720400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/2_2310231117254-Screenshot2023-10-23at11.13.09AM.png",
+        "id": "AYsU34J91E7YmWrdXLj9",
         "auth": true
     },
     {
