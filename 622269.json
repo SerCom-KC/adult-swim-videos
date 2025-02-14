@@ -2334,7 +2334,7 @@
         "launch_date": 1738364400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181721588-NarutoClassic-Ep048-1920x1080.jpg",
         "id": "AZLjVVuECjvsJgIeWAEg",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -2383,6 +2383,57 @@
         "launch_date": 1738969200,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181722162-NarutoClassic-Ep049-1920x1080.jpg",
         "id": "AZLjVY_EDT7oKsPdFfa9",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Lee decides to use the forbidden move, Hidden Lotus, as a last resort.",
+        "title_suggest": {
+            "input": [
+                "The Fifth Gate: A Splendid Ninja is Born",
+                "Fifth Gate: A Splendid Ninja is Born",
+                "Gate: A Splendid Ninja is Born",
+                "A Splendid Ninja is Born",
+                "Splendid Ninja is Born",
+                "Ninja is Born",
+                "is Born",
+                "Born"
+            ]
+        },
+        "title": "The Fifth Gate: A Splendid Ninja is Born",
+        "expiration_date": 1740783540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1282.2142,
+        "episode_number": "50",
+        "original_air_date": "1157245200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1002072500021085",
+        "media_id": "f8e827d13f204a330ff6d3cc02befbf096a0ecbf",
+        "modified": 1739145299,
+        "slug": "the-fifth-gate-a-splendid-ninja-is-born",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_24118172382-NarutoClassic-Ep050-1920x1080.jpg",
+        "created": 1730390914,
+        "season_number": "1",
+        "title_id": "641214",
+        "tv_rating": "tv-14-v",
+        "published": 1739145299,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1739574000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_24118172382-NarutoClassic-Ep050-1920x1080.jpg",
+        "id": "AZLjVfbFCjvsJgIeWAEh",
         "auth": false
     }
 ]
