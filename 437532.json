@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1739509140,
-        "tms_id": "EP003034830048",
-        "description": "A supernova sends the Planet Express ship back in time.",
-        "title_suggest": {
-            "input": [
-                "Roswell That Ends Well",
-                "That Ends Well",
-                "Ends Well",
-                "Well"
-            ]
-        },
-        "title": "Roswell That Ends Well",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1402.2342,
-        "episode_number": "1",
-        "original_air_date": 1048219200,
-        "auth_launch_date": 1738904400,
-        "clip_order": null,
-        "airing_id": "RADS1001312500019141",
-        "media_id": "c5065edc6acdf8281b2d603296087e8e7537c7c6",
-        "modified": 1738477412,
-        "slug": "roswell-that-ends-well",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/1_22471559376-Futurama_045_RoswellThatEndsWell.png",
-        "created": 1649217261,
-        "title_id": "438051",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
-        "published": 1738477412,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_22471559376-Futurama_045_RoswellThatEndsWell.png",
-        "id": "AX_9AlGE_0O4w1rD3R9B",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1739595540,
         "tms_id": "EP003034830033",
         "description": "Bender is declared the new Santa after Santabot is frozen on Neptune.",
@@ -230,6 +183,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121517385-Futurama_049_LeelasHomeworld.png",
         "id": "AYAZFmxB208s7zyYUMkG",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1740113940,
+        "tms_id": "EP003034830052",
+        "description": "Amy's disapproving family tries to break up her relationship with Kif.",
+        "title_suggest": {
+            "input": [
+                "Where the Buggalo Roam",
+                "the Buggalo Roam",
+                "Buggalo Roam",
+                "Roam"
+            ]
+        },
+        "title": "Where the Buggalo Roam",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.5011,
+        "episode_number": "6",
+        "original_air_date": 1047355200,
+        "auth_launch_date": 1739509200,
+        "clip_order": null,
+        "airing_id": "RADS1002072500021055",
+        "media_id": "4935eddb0fe822f7cb85d22edb38f6385ad0601d",
+        "modified": 1739082664,
+        "slug": "where-the-buggalo-roam",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
+        "created": 1650048005,
+        "title_id": "438045",
+        "season_number": "4",
+        "tv_rating": "tv-pg-l",
+        "published": 1739082664,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
+        "id": "AYAuhnYE208s7zyYUMnX",
         "auth": true
     }
 ]
