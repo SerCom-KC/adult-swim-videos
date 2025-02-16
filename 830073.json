@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259020,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410001",
@@ -51,7 +51,7 @@
         "cma_id": "1039955"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259200,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410003",
@@ -153,7 +153,7 @@
         "cma_id": "1057762"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1478532540,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410026",
@@ -203,7 +203,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259740,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410016",
@@ -253,7 +253,7 @@
         "cma_id": "1063843"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259800,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410018",
@@ -350,7 +350,7 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121342463-offtheair_703_dup-20171117.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410030",
@@ -488,7 +488,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20191121/thumbnails/2_19112117860-offtheair_903_dup-20191121.jpg",
         "id": "AW6QAf5z1YiBSfg0KYx3",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -535,10 +535,10 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20191220/thumbnails/2_1912201138493-offtheair_904_dup-20191220.jpg",
         "id": "AW8kLZlAGRcVO2K2pl_H",
-        "auth": true
+        "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410031",
@@ -677,10 +677,10 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121346123-offtheair_802_dup-20180821.jpg",
         "id": "AWVY_2rSh5enQuYyHe8n",
-        "auth": true
+        "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1540909740,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410034",
@@ -869,7 +869,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20190829/thumbnails/2_198291616347-offtheair_901_dup-20190829.jpg",
         "id": "AWzezmVj4aLemgzOLGVj",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739681999,
@@ -913,7 +913,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171453105-OffTheAir_1103_Touch.png",
         "id": "AX3J9Qp4UQa40cfnRS-g",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739681999,
@@ -957,7 +957,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171454154-OffTheAir_1104_Liminal.png",
         "id": "AX3J9ctQ4Xbjep71f6Hu",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739681999,
@@ -1001,7 +1001,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20200604/thumbnails/2_2064102031-offtheair_1001_Coping.jpg",
         "id": "AXJbk7t7Rs3h4hI_X35-",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739681999,
@@ -1045,7 +1045,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20201222/thumbnails/2_201222943400-OTA_1003_Progress_dup-20201217.jpg",
         "id": "AXaK5-cSQJ_4Uej5kTgG",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739681999,
@@ -1089,7 +1089,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20201222/thumbnails/2_201222943216-OTA_1002_Dreams_dup-20201221.jpg",
         "id": "AXaK56DvQJ_4Uej5kTgF",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739681999,
@@ -1133,7 +1133,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20211020/thumbnails/2_2110201135538-FamilyThumb.png",
         "id": "AXxhmdL24Xbjep71f6HN",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1739681999,
@@ -1177,7 +1177,7 @@
         "launch_date": 1739682059,
         "poster": "https://media.cdn.adultswim.com/uploads/20211108/thumbnails/2_211181426283-OffTheAir_1102_Moon.png",
         "id": "AXzxSVHv4Xbjep71f6HZ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -1665,7 +1665,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259800,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410021",
@@ -1926,7 +1926,7 @@
         "cma_id": "1066580"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259200,
         "auth_expiration_date": 1739681999,
         "tms_id": "MV002289370000",
@@ -2181,7 +2181,7 @@
         "cma_id": "1059656"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1452078000,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410023",
@@ -2333,7 +2333,7 @@
         "cma_id": "1055761"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259800,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410020",
@@ -2433,7 +2433,7 @@
         "cma_id": "1028960"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449259800,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410017",
@@ -2483,7 +2483,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1485876600,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410028",
@@ -2582,7 +2582,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1449835200,
         "auth_expiration_date": 1739681999,
         "tms_id": "EP014135410022",
