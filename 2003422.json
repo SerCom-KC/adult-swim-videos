@@ -141,51 +141,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1739854740,
-        "tms_id": "",
-        "description": "Bob joins in on a quilting crime spree.",
-        "title_suggest": {
-            "input": [
-                "Bobby Driver",
-                "Driver"
-            ]
-        },
-        "title": "Bobby Driver",
-        "expiration_date": 1733720340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1292.0908,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1739250000,
-        "clip_order": null,
-        "airing_id": "RADS1002062500020615",
-        "media_id": "43b4f0e957af7152a63e3452b019cf672f52f5c2",
-        "modified": 1738824780,
-        "slug": "bobby-driver",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231017/thumbnails/1_231017182984-Screenshot2023-10-17at6.28.52PM.png",
-        "created": 1696862138,
-        "season_number": "9",
-        "title_id": "2438922",
-        "tv_rating": "",
-        "published": 1738824780,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1733115600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_231017182984-Screenshot2023-10-17at6.28.52PM.png",
-        "id": "AYsU3XGRn_kciGPPrC3h",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1739941140,
         "tms_id": "",
         "description": "It's a Belcher family turkey rescue.",
@@ -510,6 +465,51 @@
         "launch_date": 1734930000,
         "poster": "https://media.cdn.adultswim.com/uploads/20231113/thumbnails/2_2311131421578-Screenshot2023-11-13at2.20.12PM.png",
         "id": "AYs_xwXAn_kciGPPrC_c",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1740459540,
+        "tms_id": "",
+        "description": "Bob attempts to take a day off.",
+        "title_suggest": {
+            "input": [
+                "Roamin' Bob-Iday",
+                "Bob-Iday"
+            ]
+        },
+        "title": "Roamin' Bob-Iday",
+        "expiration_date": 1736139540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8239,
+        "episode_number": "16",
+        "original_air_date": "1698107400",
+        "auth_launch_date": 1739854800,
+        "clip_order": null,
+        "airing_id": "RADS1002132500021422",
+        "media_id": "a1527a22d0998e4de8aca25e5bb8b8b4224e4ccf",
+        "modified": 1739484572,
+        "slug": "roamin-bob-iday",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231113/thumbnails/1_2311131350285-Screenshot2023-11-13at1.46.35PM.png",
+        "created": 1697817138,
+        "season_number": "9",
+        "title_id": "2438932",
+        "tv_rating": "",
+        "published": 1739484572,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1735534800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231113/thumbnails/2_2311131350285-Screenshot2023-11-13at1.46.35PM.png",
+        "id": "AYtNyZWj1E7YmWrdXLkR",
         "auth": true
     },
     {
