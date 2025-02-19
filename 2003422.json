@@ -141,53 +141,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1739941140,
-        "tms_id": "",
-        "description": "It's a Belcher family turkey rescue.",
-        "title_suggest": {
-            "input": [
-                "I Bob Your Pardon",
-                "Bob Your Pardon",
-                "Your Pardon",
-                "Pardon"
-            ]
-        },
-        "title": "I Bob Your Pardon",
-        "expiration_date": 1734325140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.922,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1739336400,
-        "clip_order": null,
-        "airing_id": "RADS1002062500020846",
-        "media_id": "9497f98206956de7214b3825081699f33d99aad2",
-        "modified": 1738916552,
-        "slug": "i-bob-your-pardon",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231114/thumbnails/1_231114140501-Screenshot2023-11-14at1.59.37PM.png",
-        "created": 1696862254,
-        "season_number": "9",
-        "title_id": "2438923",
-        "tv_rating": "",
-        "published": 1738916552,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1733720400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231114/thumbnails/2_231114140501-Screenshot2023-11-14at1.59.37PM.png",
-        "id": "AYsU3zdd1E7YmWrdXLj8",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1740113940,
         "tms_id": "",
         "description": "It's all fun and games until the Belchers lose their sledding turf.",
@@ -510,6 +463,52 @@
         "launch_date": 1735534800,
         "poster": "https://media.cdn.adultswim.com/uploads/20231113/thumbnails/2_2311131350285-Screenshot2023-11-13at1.46.35PM.png",
         "id": "AYtNyZWj1E7YmWrdXLkR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1740545940,
+        "tms_id": "",
+        "description": "Gene becomes a plankton activist.",
+        "title_suggest": {
+            "input": [
+                "What About Blob?",
+                "About Blob?",
+                "Blob?"
+            ]
+        },
+        "title": "What About Blob?",
+        "expiration_date": 1736139540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1280.3124,
+        "episode_number": "17",
+        "original_air_date": "1698109200",
+        "auth_launch_date": 1739941200,
+        "clip_order": null,
+        "airing_id": "RADS1002132500021477",
+        "media_id": "f7ea1b5909fca465d5107f1c7ddf55f9425b84a6",
+        "modified": 1739520646,
+        "slug": "what-about-blob",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/1_2311271312285-Screenshot2023-11-27at1.11.52PM.png",
+        "created": 1698446799,
+        "season_number": "9",
+        "title_id": "2438933",
+        "tv_rating": "",
+        "published": 1739520646,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1735534800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_2311271312285-Screenshot2023-11-27at1.11.52PM.png",
+        "id": "AYtzUXLP1E7YmWrdXLkY",
         "auth": true
     },
     {
