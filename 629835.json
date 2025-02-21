@@ -2,6 +2,60 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1740718740,
+        "tms_id": "EP002070020216",
+        "rating": 8.0223463687151,
+        "description": "When Peggy and Dale realize they could be in big trouble for stupid things they've done, they decide to fake their own deaths to avoid going to jail.",
+        "title_suggest": {
+            "input": [
+                "Peggy's Gone To Pots",
+                "Gone To Pots",
+                "To Pots",
+                "Pots"
+            ]
+        },
+        "type": "episode",
+        "title": "Peggy's Gone To Pots",
+        "expiration_date": 1497670199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1366.8989,
+        "episode_number": "9",
+        "original_air_date": 1237860000,
+        "auth_launch_date": 1740114000,
+        "clip_order": null,
+        "modified": 1739736788,
+        "media_id": "c6e5cf9c0c0eab8e23c20a0ddd9a3f45bd17498a",
+        "airing_id": "RADS1002162500021700",
+        "id": "3GUoJGZPT3G2DOfbDPWIOA",
+        "slug": "peggys-gone-to-pots",
+        "views": 111859,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152640230700311.jpg",
+        "created": 1402945468,
+        "title_id": "731551",
+        "season_number": "11",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1739736788,
+        "tags": [
+            "king of the hill episode 1109 gone to pots dale peggy rusty shackleford fake death perfect pantry products"
+        ],
+        "rating_count": 179,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1497065400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152640230700311.jpg",
+        "cma_id": "1411842"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1740200340,
         "tms_id": "EP002070020213",
         "rating": 8.873914,
@@ -241,59 +295,5 @@
         "launch_date": 1496806200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15266633361118.jpg",
         "cma_id": "1409502"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1740113940,
-        "tms_id": "EP002070020212",
-        "rating": 7.4294286,
-        "description": "When Lucky becomes obsessed with a certain rare stump, he neglects Luanne.",
-        "title_suggest": {
-            "input": [
-                "Luanne Gets Lucky",
-                "Gets Lucky",
-                "Lucky"
-            ]
-        },
-        "type": "episode",
-        "title": "Luanne Gets Lucky",
-        "expiration_date": 1497272399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1364.63,
-        "episode_number": "4",
-        "original_air_date": 1239156000,
-        "auth_launch_date": 1739509200,
-        "clip_order": null,
-        "modified": 1739082661,
-        "media_id": "68c46c3d882bb1038df041493df3f8d1a4fe9a2e",
-        "airing_id": "RADS1002072500021051",
-        "id": "p0UOr13RQUSj2XvFKAwRKQ",
-        "slug": "luanne-gets-lucky",
-        "views": 307502,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121514115-KingOfTheHill_1104_LuanneGetsLucky.png",
-        "created": 1402945468,
-        "title_id": "731546",
-        "season_number": "11",
-        "tv_rating": "tv-14-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1739082661,
-        "tags": [
-            "king of the hill koth episode 1104 luanne gets lucky stump jealous"
-        ],
-        "rating_count": 333,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1496667600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121514115-KingOfTheHill_1104_LuanneGetsLucky.png",
-        "cma_id": "1409081"
     }
 ]
