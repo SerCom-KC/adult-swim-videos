@@ -46,99 +46,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1740200340,
-        "tms_id": "",
-        "description": "Linda's new friend has an ulterior motive.",
-        "title_suggest": {
-            "input": [
-                "Lorenzo's Oil? No, Linda's",
-                "Oil? No, Linda's",
-                "No, Linda's",
-                "Linda's"
-            ]
-        },
-        "title": "Lorenzo's Oil? No, Linda's",
-        "expiration_date": 1734929940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1276.7087,
-        "episode_number": "11",
-        "original_air_date": "1697502600",
-        "auth_launch_date": 1739595600,
-        "clip_order": null,
-        "airing_id": "RADS1002102500021102",
-        "media_id": "7e707e8552456e92ccefd5988f95ffe9535bec02",
-        "modified": 1739170820,
-        "slug": "lorenzos-oil-no-lindas",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/1_231030156268-Screenshot2023-10-30at3.06.01PM.png",
-        "created": 1697581942,
-        "season_number": "9",
-        "title_id": "2438927",
-        "tv_rating": "",
-        "published": 1739170820,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1734325200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030156268-Screenshot2023-10-30at3.06.01PM.png",
-        "id": "AYs_xMUCn_kciGPPrC_Z",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1740200340,
-        "tms_id": "",
-        "description": "The Belchers help Teddy find love.",
-        "title_suggest": {
-            "input": [
-                "The Helen Hunt",
-                "Helen Hunt",
-                "Hunt"
-            ]
-        },
-        "title": "The Helen Hunt",
-        "expiration_date": 1734929940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.7238,
-        "episode_number": "12",
-        "original_air_date": "1697504400",
-        "auth_launch_date": 1739595600,
-        "clip_order": null,
-        "airing_id": "RADS1002102500021100",
-        "media_id": "b4c9b6ae5fca6c46f2c0e0d2c94304c061211612",
-        "modified": 1739169444,
-        "slug": "the-helen-hunt",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231106/thumbnails/1_231161641557-Screenshot2023-11-06at4.38.02PM.png",
-        "created": 1697581993,
-        "season_number": "9",
-        "title_id": "2438928",
-        "tv_rating": "",
-        "published": 1739169444,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1734325200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231106/thumbnails/2_231161641557-Screenshot2023-11-06at4.38.02PM.png",
-        "id": "AYs_xY8yn_kciGPPrC_a",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1740286740,
         "tms_id": "",
         "description": "Tina, Louise and Gene save Valentine's Day.",
@@ -371,6 +278,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1740805140,
+        "tms_id": "",
+        "description": "Linda joins the P.T.A.",
+        "title_suggest": {
+            "input": [
+                "PTA It Ain't So",
+                "It Ain't So",
+                "Ain't So",
+                "So"
+            ]
+        },
+        "title": "PTA It Ain't So",
+        "expiration_date": 1736744340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.9574,
+        "episode_number": "21",
+        "original_air_date": "1698712200",
+        "auth_launch_date": 1740200400,
+        "clip_order": null,
+        "airing_id": "RADS1002182500021756",
+        "media_id": "9b2f95526685e84f99545cb03d1a05732e65c353",
+        "modified": 1739848698,
+        "slug": "pta-it-aint-so",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/1_231241254391-Screenshot2023-12-04at12.50.26PM.png",
+        "created": 1698447209,
+        "season_number": "9",
+        "title_id": "2438937",
+        "tv_rating": "",
+        "published": 1739848698,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1736139600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254391-Screenshot2023-12-04at12.50.26PM.png",
+        "id": "AYtzV7L_1E7YmWrdXLkc",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1740632340,
         "tms_id": "",
         "description": "The kids visit a marionette theater.",
@@ -516,6 +470,53 @@
         "launch_date": 1736139600,
         "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254213-Screenshot2023-12-04at12.52.48PM.png",
         "id": "AYtzVoRt1E7YmWrdXLkb",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1740805140,
+        "tms_id": "",
+        "description": "The kids save Zeke.",
+        "title_suggest": {
+            "input": [
+                "Yes Without My Zeke",
+                "Without My Zeke",
+                "My Zeke",
+                "Zeke"
+            ]
+        },
+        "title": "Yes Without My Zeke",
+        "expiration_date": 1737349140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.924,
+        "episode_number": "22",
+        "original_air_date": "1698714000",
+        "auth_launch_date": 1740200400,
+        "clip_order": null,
+        "airing_id": "RADS1002182500021754",
+        "media_id": "bfdc9d90783843b769d533f71b0112c3cef80e52",
+        "modified": 1739848700,
+        "slug": "yes-without-my-zeke",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/1_231241254344-Screenshot2023-12-04at12.52.13PM.png",
+        "created": 1698447236,
+        "season_number": "9",
+        "title_id": "2438938",
+        "tv_rating": "",
+        "published": 1739848700,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1736744400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254344-Screenshot2023-12-04at12.52.13PM.png",
+        "id": "AYtzWBynn_kciGPPrDJU",
         "auth": true
     },
     {
