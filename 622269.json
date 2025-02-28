@@ -2434,7 +2434,7 @@
         "launch_date": 1739574000,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_24118172382-NarutoClassic-Ep050-1920x1080.jpg",
         "id": "AZLjVfbFCjvsJgIeWAEh",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -2484,6 +2484,55 @@
         "launch_date": 1740178800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181723355-NarutoClassic-Ep051-1920x1080.jpg",
         "id": "AZLjVismDT7oKsPdFfa-",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "In preparation for the third exam that starts in a month, Naruto's former mentor, Kakashi, chooses Ebisu to train the young ninja.",
+        "title_suggest": {
+            "input": [
+                "Ebisu Returns: Naruto's Toughest Training Yet!",
+                "Returns: Naruto's Toughest Training Yet!",
+                "Naruto's Toughest Training Yet!",
+                "Toughest Training Yet!",
+                "Training Yet!",
+                "Yet!"
+            ]
+        },
+        "title": "Ebisu Returns: Naruto's Toughest Training Yet!",
+        "expiration_date": 1741989540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1270.636,
+        "episode_number": "52",
+        "original_air_date": "1158454800",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1002212500022219",
+        "media_id": "0d228dd52d17ab4a8c73c05debfb3ea74fa41407",
+        "modified": 1740355354,
+        "slug": "ebisu-returns-narutos-toughest-training-yet",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_241181725492-NarutoClassic-Ep052-1920x1080.jpg",
+        "created": 1730390942,
+        "season_number": "1",
+        "title_id": "641216",
+        "tv_rating": "tv-14-ds",
+        "published": 1740355354,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1740783600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181725492-NarutoClassic-Ep052-1920x1080.jpg",
+        "id": "AZLjVmTJDT7oKsPdFfa_",
         "auth": false
     }
 ]
