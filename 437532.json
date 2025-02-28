@@ -137,49 +137,37 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1740718740,
-        "tms_id": "EP003034830056",
-        "description": "Wanting to become a chef, Bender seeks mentoring from Helmut Spragel, formerly the world's greatest culinary artist.",
+        "auth_expiration_date": 1741323540,
+        "created": 1689922743,
+        "tms_id": "EP003034830062",
+        "title_id": "442426",
+        "season_number": "5",
+        "tv_rating": "tv-14",
+        "description": "Zoidberg is sentenced to death for eating a flag at a celebration in Washington, D.C.",
         "title_suggest": {
             "input": [
-                "30% Iron Chef",
-                "Iron Chef",
-                "Chef"
+                "A Taste of Freedom",
+                "Taste of Freedom",
+                "of Freedom",
+                "Freedom"
             ]
         },
-        "title": "30% Iron Chef",
+        "published": 1740291802,
+        "title": "A Taste of Freedom",
         "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1397.2959,
-        "episode_number": "11",
-        "original_air_date": 1048651200,
-        "auth_launch_date": 1740114000,
-        "clip_order": null,
-        "airing_id": "RADS1002162500021744",
-        "media_id": "1683f003a5bec298274b3147ad7cfe8eb399742f",
-        "modified": 1739738698,
-        "slug": "30-iron-chef",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_2252152955-Futurama_055_30PercentIronChef.png",
-        "created": 1651004081,
-        "title_id": "438054",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "published": 1739738698,
         "tags": [],
+        "duration": 1399.4314,
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "episode_number": "4",
         "collection_title": "Futurama",
-        "disable_ads": false,
+        "original_air_date": 1068177600,
+        "auth_launch_date": 1740718800,
         "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_2252152955-Futurama_055_30PercentIronChef.png",
-        "id": "AYBngwa1208s7zyYUMvp",
-        "auth": false
+        "airing_id": "RADS1002212500022198",
+        "media_id": "590ee46166fce7f3e970d148ef9f6c9815e805f1",
+        "modified": 1740291802,
+        "slug": "a-taste-of-freedom",
+        "id": "AYl3Pq5sOz5CkuTcnwSr",
+        "auth": true
     }
 ]
