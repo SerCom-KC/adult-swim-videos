@@ -430,100 +430,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1740805140,
-        "tms_id": "",
-        "description": "Linda joins the P.T.A.",
-        "title_suggest": {
-            "input": [
-                "PTA It Ain't So",
-                "It Ain't So",
-                "Ain't So",
-                "So"
-            ]
-        },
-        "title": "PTA It Ain't So",
-        "expiration_date": 1736744340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.9574,
-        "episode_number": "21",
-        "original_air_date": "1698712200",
-        "auth_launch_date": 1740200400,
-        "clip_order": null,
-        "airing_id": "RADS1002182500021756",
-        "media_id": "9b2f95526685e84f99545cb03d1a05732e65c353",
-        "modified": 1739848698,
-        "slug": "pta-it-aint-so",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/1_231241254391-Screenshot2023-12-04at12.50.26PM.png",
-        "created": 1698447209,
-        "season_number": "9",
-        "title_id": "2438937",
-        "tv_rating": "",
-        "published": 1739848698,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1736139600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254391-Screenshot2023-12-04at12.50.26PM.png",
-        "id": "AYtzV7L_1E7YmWrdXLkc",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1740805140,
-        "tms_id": "",
-        "description": "The kids save Zeke.",
-        "title_suggest": {
-            "input": [
-                "Yes Without My Zeke",
-                "Without My Zeke",
-                "My Zeke",
-                "Zeke"
-            ]
-        },
-        "title": "Yes Without My Zeke",
-        "expiration_date": 1737349140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.924,
-        "episode_number": "22",
-        "original_air_date": "1698714000",
-        "auth_launch_date": 1740200400,
-        "clip_order": null,
-        "airing_id": "RADS1002182500021754",
-        "media_id": "bfdc9d90783843b769d533f71b0112c3cef80e52",
-        "modified": 1739848700,
-        "slug": "yes-without-my-zeke",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/1_231241254344-Screenshot2023-12-04at12.52.13PM.png",
-        "created": 1698447236,
-        "season_number": "9",
-        "title_id": "2438938",
-        "tv_rating": "",
-        "published": 1739848700,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1736744400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241254344-Screenshot2023-12-04at12.52.13PM.png",
-        "id": "AYtzWBynn_kciGPPrDJU",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1741323540,
         "tms_id": "",
         "description": "The stomach flu derails the Belcher's Thanksgiving.",
@@ -618,6 +524,97 @@
         "launch_date": 1724644800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121125326-Screenshot2024-02-12at11.25.08AM.png",
         "id": "AYxpwi4jn_kciGPPrDyF",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1741409940,
+        "tms_id": "",
+        "description": "Gene gets jealous of Linda's new pastime.",
+        "title_suggest": {
+            "input": [
+                "Mommy Boy",
+                "Boy"
+            ]
+        },
+        "title": "Mommy Boy",
+        "expiration_date": 1725854340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1286.7855,
+        "episode_number": "9",
+        "original_air_date": "1702949400",
+        "auth_launch_date": 1740805200,
+        "clip_order": null,
+        "airing_id": "RADS1002242500022275",
+        "media_id": "dc115bcc84beac5be11cebbc9d089be61f465d8b",
+        "modified": 1740381832,
+        "slug": "mommy-boy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/1_24220219433-Screenshot2024-02-20at2.19.02AM.png",
+        "created": 1702581400,
+        "season_number": "11",
+        "title_id": "2438969",
+        "tv_rating": "tv-pg-lv",
+        "published": 1740381832,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1725249600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_24220219433-Screenshot2024-02-20at2.19.02AM.png",
+        "id": "AYxpwnIZ1E7YmWrdXLlQ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1741409940,
+        "tms_id": "",
+        "description": "Christmas brings the Belchers a special job.",
+        "title_suggest": {
+            "input": [
+                "Yachty or Nice",
+                "or Nice",
+                "Nice"
+            ]
+        },
+        "title": "Yachty or Nice",
+        "type": "episode",
+        "expiration_date": 1725854340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8239,
+        "episode_number": "10",
+        "original_air_date": 1701138600,
+        "auth_launch_date": 1740805200,
+        "clip_order": null,
+        "airing_id": "RADS1002242500022273",
+        "media_id": "dd9fce5d800ac99dbecd0bd39822490b49172405",
+        "modified": 1740386183,
+        "slug": "yachty-or-nice",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/1_2312181155258-Screenshot2023-12-18at11.54.32AM.png",
+        "created": 1702612179,
+        "title_id": "2438970",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dl",
+        "published": 1740386183,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1725249600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_2312181155258-Screenshot2023-12-18at11.54.32AM.png",
+        "id": "AYxrmBqE1E7YmWrdXLlR",
         "auth": true
     }
 ]
