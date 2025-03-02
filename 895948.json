@@ -108,52 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1740891540,
-        "tms_id": "",
-        "description": "Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move.",
-        "title_suggest": {
-            "input": [
-                "You Got Served",
-                "Got Served",
-                "Served"
-            ]
-        },
-        "title": "You Got Served",
-        "expiration_date": 1737867540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "3",
-        "original_air_date": null,
-        "auth_launch_date": 1737867600,
-        "clip_order": null,
-        "airing_id": "RADS1001202500016864",
-        "media_id": "e492a99d0935386e7b8aa303d3728fd008c8411d",
-        "modified": 1737441021,
-        "slug": "you-got-served",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161714163-ericandre_503_dup-20200813.jpg",
-        "created": 1600290812,
-        "season_number": "5",
-        "title_id": "2230782",
-        "tv_rating": "tv-ma-l",
-        "published": 1737441021,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1734843600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161714163-ericandre_503_dup-20200813.jpg",
-        "id": "AXSYw_QbLyLQBOXK_PN9",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1741496340,
         "tms_id": "",
         "description": "Eric welcomes Dermot Mulroney and Diane Guerrero with overweight musical guest Joey Bada$$. Lizzo debuts a surprise spinoff show.",
@@ -381,7 +335,7 @@
         "launch_date": 1737867600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg",
         "id": "AXSYyy1XLyLQBOXK_POB",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1689566340,
@@ -572,6 +526,51 @@
         "launch_date": 1740286800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365818485-EASEpisode1Thumbtiny.png",
         "id": "AYh39nedOz5CkuTcnvn7",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1730001540,
+        "tms_id": "",
+        "description": "Eric welcomes Mia Khalifa and Jaleel White. Human statutes have a brutal fight in New York City. Goober Driver goes off roading.",
+        "title_suggest": {
+            "input": [
+                "Jaleel Blanco",
+                "Blanco"
+            ]
+        },
+        "title": "Jaleel Blanco",
+        "type": "episode",
+        "expiration_date": 1743911940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 672.2049,
+        "episode_number": "2",
+        "original_air_date": 1685938500,
+        "auth_launch_date": 1726977600,
+        "clip_order": null,
+        "airing_id": "RADS1002242500022365",
+        "media_id": "38a89c8adc96d928ba17aa8b6560f0d3c8ee16ac",
+        "modified": 1740463646,
+        "slug": "jaleel-blanco",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/1_2365830282-TheEricAndreShow602Still002tiny.png",
+        "created": 1685639849,
+        "title_id": "2418682",
+        "season_number": "6",
+        "tv_rating": "tv-ma-ls",
+        "published": 1740463646,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1740891600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365830282-TheEricAndreShow602Still002tiny.png",
+        "id": "AYh39uYSOz5CkuTcnvn8",
         "auth": false
     },
     {
