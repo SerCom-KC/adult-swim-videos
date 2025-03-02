@@ -32,40 +32,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1740891540,
-        "created": 1706203310,
-        "tms_id": "EP003034830058",
-        "title_id": "442428",
-        "season_number": "5",
-        "tv_rating": "tv-pg-d",
-        "description": "Al Gore's head holds an emergency summit in Kyoto, Japan, to deal with global warming caused by robot emissions.",
-        "title_suggest": {
-            "input": [
-                "Crimes of the Hot",
-                "of the Hot",
-                "the Hot",
-                "Hot"
-            ]
-        },
-        "published": 1739860071,
-        "title": "Crimes of the Hot",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1397.4293,
-        "episode_number": "1",
-        "collection_title": "Futurama",
-        "original_air_date": 1068696000,
-        "auth_launch_date": 1740286800,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1002182500021815",
-        "media_id": "9c7fe5a2ded159ab03ffe88bbcaace4be234ecd3",
-        "modified": 1739860071,
-        "slug": "crimes-of-the-hot",
-        "id": "AY1BpGhMn_kciGPPrEaq",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1740977940,
         "created": 1706385595,
         "tms_id": "EP003034830061",
@@ -147,6 +113,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151615-Futurama_061_KifGetsKnockedUpANotch.png",
         "id": "AYC9xjJd_0O4w1rD3SL-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1741496340,
+        "tms_id": "EP003034830064",
+        "description": "Fry, Leela and Bender develop superhuman powers and fight crime in the Big Apple.",
+        "title_suggest": {
+            "input": [
+                "Less Than Hero",
+                "Than Hero",
+                "Hero"
+            ]
+        },
+        "title": "Less Than Hero",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.1331,
+        "episode_number": "6",
+        "original_air_date": 1068091200,
+        "auth_launch_date": 1740891600,
+        "clip_order": null,
+        "airing_id": "RADS1002242500022362",
+        "media_id": "d10b60409e8040bcd4f27781e7757ea680c7e7d0",
+        "modified": 1740464388,
+        "slug": "less-than-hero",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220520/thumbnails/1_22520135130-FuturamaHero.png",
+        "created": 1652535013,
+        "title_id": "444750",
+        "season_number": "5",
+        "tv_rating": "tv-pg-l",
+        "published": 1740464388,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png",
+        "id": "AYDCwy8f_0O4w1rD3SNK",
         "auth": true
     },
     {
