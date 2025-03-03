@@ -1,5 +1,72 @@
 [
     {
+        "auth_expiration_date": 1740977940,
+        "created": 1706203283,
+        "tms_id": "EP003034830060",
+        "title_id": "442427",
+        "season_number": "5",
+        "tv_rating": "tv-pg",
+        "description": "Fry spots his petrified dog in an exhibit at the Museum of Natural History.",
+        "title_suggest": {
+            "input": [
+                "Jurassic Bark",
+                "Bark"
+            ]
+        },
+        "published": 1739954041,
+        "title": "Jurassic Bark",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1400.4991,
+        "episode_number": "2",
+        "collection_title": "Futurama",
+        "original_air_date": 1068609600,
+        "auth_launch_date": 1740373200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1002192500021928",
+        "media_id": "86dd06dbe7f9a22e1e6235e69c3ee2324aa85bdf",
+        "modified": 1739954041,
+        "slug": "jurassic-bark",
+        "id": "AY1Bo_8un_kciGPPrEap",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1740977940,
+        "created": 1706385595,
+        "tms_id": "EP003034830061",
+        "title_id": "442424",
+        "season_number": "5",
+        "tv_rating": "tv-pg-lv",
+        "description": "Prodigal sons return to start a competing delivery service that threatens the existence of Planet Express.",
+        "title_suggest": {
+            "input": [
+                "The Route of All Evil",
+                "Route of All Evil",
+                "of All Evil",
+                "All Evil",
+                "Evil"
+            ]
+        },
+        "published": 1739951134,
+        "title": "The Route of All Evil",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1399.9319,
+        "episode_number": "3",
+        "collection_title": "Futurama",
+        "original_air_date": 1067918400,
+        "auth_launch_date": 1740373200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1002192500021926",
+        "media_id": "667663025798629cac0c62c1c92756a3e2a9d709",
+        "modified": 1739951134,
+        "slug": "the-route-of-all-evil",
+        "id": "AY1MgdtF1E7YmWrdXLlz",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1741409940,
         "tms_id": "EP003034830063",
         "description": "Amy's romance with Kif Kroker leads to pregnancy.",
@@ -92,100 +159,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png",
         "id": "AYDCwy8f_0O4w1rD3SNK",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1741579140,
-        "tms_id": "EP003034830065",
-        "description": "Hot tar turns the crotchety old professor into a middle-aged man, while the others are transformed into rambunctious children.",
-        "title_suggest": {
-            "input": [
-                "Teenage Mutant Leela's Hurdles",
-                "Mutant Leela's Hurdles",
-                "Leela's Hurdles",
-                "Hurdles"
-            ]
-        },
-        "title": "Teenage Mutant Leela's Hurdles",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1399.4313,
-        "episode_number": "7",
-        "original_air_date": 1068782400,
-        "auth_launch_date": 1740978000,
-        "clip_order": null,
-        "airing_id": "RADS1002262500022428",
-        "media_id": "24fdbdc8ea4a445a546943d776b5ca77133d6f50",
-        "modified": 1740563514,
-        "slug": "teenage-mutant-leelas-hurdles",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/1_225211650145-LeelasHurdles.png",
-        "created": 1652535105,
-        "title_id": "444752",
-        "season_number": "5",
-        "tv_rating": "tv-pg",
-        "published": 1740563514,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/2_225211650145-LeelasHurdles.png",
-        "id": "AYDCxJhO_0O4w1rD3SNL",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1741579140,
-        "tms_id": "EP003034830066",
-        "description": "Fry becomes disheartened when Leela gets involved with the mayor's aide.",
-        "title_suggest": {
-            "input": [
-                "The Why of Fry",
-                "Why of Fry",
-                "of Fry",
-                "Fry"
-            ]
-        },
-        "title": "The Why of Fry",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1398.8975,
-        "episode_number": "8",
-        "original_air_date": 1069128000,
-        "auth_launch_date": 1740978000,
-        "clip_order": null,
-        "airing_id": "RADS1002262500022426",
-        "media_id": "674e4e02c80c72214b2dbd59d84e1f009675cf85",
-        "modified": 1740562732,
-        "slug": "the-why-of-fry",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/1_225231323100-WhyFrymin.png",
-        "created": 1652894823,
-        "title_id": "444753",
-        "season_number": "5",
-        "tv_rating": "tv-pg-dl",
-        "published": 1740562732,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_225231323100-WhyFrymin.png",
-        "id": "AYDYNXKz_0O4w1rD3SOO",
         "auth": true
     },
     {
